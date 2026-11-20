@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 83 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2000/03/051032000/0008300094.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-16'
+entry_into_force:
+  date: '2000-03-16'
+  rule: 15 dias após a sua publicação no Diário da República, quer aos processos iniciados após a sua entrada em vigor quer
+    aos processos que, embora impulsionados em momento anterior, não tenham sido ainda o
+  method: clausula
+  article: art-109
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

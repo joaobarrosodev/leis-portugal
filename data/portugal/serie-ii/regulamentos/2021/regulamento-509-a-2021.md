@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 370-(5) a 370-(18)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/105000001/0000500018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-01'
+entry_into_force:
+  date: '2021-06-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 712 - 742
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/027000000/0071200742.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, ficando, automaticamente, revogada a estrutura e organização dos
+    Serviços Municipais publicada no Diário da República, 2.ª série, n.º 94, de 14 de m
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 7 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/112059000/0000700012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia subsequente ao da sua aprovação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

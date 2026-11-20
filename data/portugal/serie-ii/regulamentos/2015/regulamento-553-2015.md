@@ -23,6 +23,15 @@ publication:
   pages: 23014 - 23015
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/157000000/2301423015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

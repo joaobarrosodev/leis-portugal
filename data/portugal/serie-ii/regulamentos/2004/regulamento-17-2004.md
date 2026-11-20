@@ -23,6 +23,15 @@ publication:
   pages: 5877 - 5879
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/089000000/0587705879.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil a seguir ao da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

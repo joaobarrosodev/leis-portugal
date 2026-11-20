@@ -24,6 +24,16 @@ publication:
   pages: 2 - 13
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/206000001/0000200013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente, devendo ser generalizadamente divulgado junto da Comunidade Universitária, bem como publicado no Diário
+    da República, nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

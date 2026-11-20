@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 276 - 276
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/044000000/0027600276.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-02'
+entry_into_force:
+  date: '2024-03-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República, considerando-se ratificados todos os atos que, no âmbito
+    dos poderes delegados, tenham sido praticados pelos membros que a compõem
+  method: clausula
+  article: n-2
+  effects_date: '2024-03-02'
+  effects_rule: no dia seguinte ao da sua publicação no Diário da República, considerando-se ratificados todos os atos que,
+    no âmbito dos poderes delegados, tenham sido praticados pelos membros que a compõem
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

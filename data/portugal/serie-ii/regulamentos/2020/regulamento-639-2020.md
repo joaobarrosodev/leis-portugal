@@ -23,6 +23,15 @@ publication:
   pages: 312 - 318
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/152000000/0031200318.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação nos termos gerais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

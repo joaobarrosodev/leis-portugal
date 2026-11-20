@@ -23,6 +23,15 @@ publication:
   pages: 288 - 292
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/084000000/0028800292.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia de Freguesia, afixação nos lugares públicos do costume e publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

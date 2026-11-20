@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 429 - 442
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/042000000/0042900442.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-17'
+entry_into_force:
+  date: '2021-03-17'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

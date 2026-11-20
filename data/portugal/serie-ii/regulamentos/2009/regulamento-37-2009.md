@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/012000000/0278402785.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:25700486:por#texto'
+    detail: 1 - Pelo presente regulamento é revogado o [Regulamento n.º 37/2009], publicado no Diário da República n.º 12,
+      2.ª série, de 19 de janeiro de 2009.
 notes: []
 language: por
 version:

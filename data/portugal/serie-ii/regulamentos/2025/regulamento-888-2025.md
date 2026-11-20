@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 646 - 649
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/137000000/0064600649.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-02'
+entry_into_force:
+  date: '2025-08-02'
+  rule: '15 dias após a sua publicação e depois de afixado nos lugares do costume de todas as freguesias do concelho, revogando
+    o anterior Regulamento, publicado no Diário da República, 2.ª série, n.º 201, de '
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

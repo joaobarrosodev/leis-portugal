@@ -23,6 +23,15 @@ publication:
   pages: 13396 - 13397
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/092000000/1339613397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data de 15 de dezembro de 2015
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 39153 - 39153
   pdf_url: https://files.diariodarepublica.pt/2s/2008/09/176000000/3915339153.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2008/2009
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

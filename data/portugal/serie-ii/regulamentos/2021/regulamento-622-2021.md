@@ -24,6 +24,15 @@ publication:
   pages: 268 - 277
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/132000000/0026800277.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 (um) de janeiro de 2021 (dois mil vinte e um)
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o ano civil de 2022
 end_of_validity_date: null
 legal_status: unknown
 notes: []

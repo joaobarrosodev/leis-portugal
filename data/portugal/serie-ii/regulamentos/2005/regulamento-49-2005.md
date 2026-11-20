@@ -23,6 +23,16 @@ publication:
   pages: 10323 - 10323
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/134000000/1032310323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a homologação do conselho directivo, com base em parecer favorável do conselho científico e do conselho pedagógico
+    (n.º 2 do artigo 12.º dos Estatutos da ESEV)
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

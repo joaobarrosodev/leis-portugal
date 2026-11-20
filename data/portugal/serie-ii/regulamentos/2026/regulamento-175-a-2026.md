@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2 - 6
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/036000001/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-02-21'
+entry_into_force:
+  date: '2026-02-21'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2026-01-28'
+  effects_rule: a partir de 28 de janeiro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

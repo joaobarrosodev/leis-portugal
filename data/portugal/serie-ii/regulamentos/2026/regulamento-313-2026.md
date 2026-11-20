@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 521 - 564
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/061000000/0052100564.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-01'
+entry_into_force:
+  date: '2026-04-01'
+  rule: no dia 1 de abril de 2026, ou no primeiro dia útil seguinte ao da sua publicação, caso esta ocorra em data posterior
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

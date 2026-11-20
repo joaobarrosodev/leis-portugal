@@ -42,25 +42,40 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2011-06-14'
+  consolidation_date: '2011-06-10'
 version_history:
   file: portaria-618-2008.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 3
+  source_lastmod: '2026-10-29'
   versions:
-  - date: '2008-07-14'
-    amending: null
-    amending_title: null
-    changes: []
-  - date: '2011-06-14'
-    amending: pt:dre:439401:por
-    amending_title: Portaria n.º 1305/2008; Portaria n.º 1049/2010; Portaria n.º 228/2011
+  - date: '2010-08-28'
+    amending: pt:dre:343948:por
+    amending_title: Portaria n.º 814/2010
     changes:
-    - Altera Artigo ANEXO::21.º
-    - Adita Artigo ANEXO::13.º-A
-    - Adita Artigo ANEXO::14.º-A
+    - Altera Artigo 6.º
+  - date: '2010-10-12'
+    amending: pt:dre:342802:por
+    amending_title: Portaria n.º 1049/2010
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 14.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Anexo IV
+  - date: '2011-06-10'
+    amending: pt:dre:670056:por
+    amending_title: Portaria n.º 228/2011
+    changes:
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/618/2008/07/14/p/dre/pt/html
@@ -73,21 +88,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/618-2008-456533
   metadata_url: https://data.dre.pt/eli/port/618/2008/07/14/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/618-2008-456533
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:33:25Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-973680610
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-973680610
+  retrieved_at: '2026-11-20T13:49:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-29T00:00:00Z'
 integrity:
-  source_sha256: 498781b51be86831e9a2069ae78853804f723b3c26cfb8251fc0e51539d28006
+  source_sha256: a7af6f39944d1a8275c0cdae61d0a974152859f6a1be2c48e84816fc8bfa2066
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:33:25Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1305/2008; Portaria
-    n.º 1049/2010; Portaria n.º 228/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-618-2008.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:16Z'
+  notes: 3 versão(ões); histórico completo em portaria-618-2008.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,6 +134,11 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1305-2008-439401
   date: '2008-11-11'
 - type: amended_by
+  target: pt:dre:343948:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
   target: pt:dre:342802:por
   label: "Alterados os arts. 1.º, 6.º, 9.º, 10.º, 12.º, 13.º (o nº 2 foi aditado pela Port 1305/2008 de 11-Nov), 14.º, 17.º\
     \ e 18.º, aditados os arts. 13.º-A e 14.º-A, alterado o anexo iv do Regulamento de Aplicação da Subacção n.º 2.2.3.2,\
@@ -141,6 +161,10 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: cites
+  target: celex:32011R0065
+  label: null
+  source: null
 - type: corrected_by
   target: pt:dre:455129:por
   label: "Rectificada pela DECL-RECT.43/2008.08.08.2008.PCM, DR.IS [153] de 08.08.2008\0\0"
@@ -153,24 +177,22 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
   date: '2010-08-27'
 article_structure:
-  article_count: 25
-  section_count: 2
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 27
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:33:25Z'
+  checked_at: '2026-11-20T13:49:16Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 618/2008
 
-de 14 de Julho
-
-O Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro, estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, o qual deve contribuir para o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural e a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.
+O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, o qual deve contribuir para o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural e a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.
 
 O subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, denominado PRODER, destinado à «gestão sustentável do espaço rural», contém uma acção dedicada à «conservação e melhoramento de recursos genéticos», com um conjunto de objectivos que pretendem, nomeadamente, contribuir para a manutenção e melhoria da biodiversidade animal através da conservação e desenvolvimento do seu património genético e, desta forma, para a sustentabilidade dos espaços rurais e dos seus recursos naturais.
 
@@ -204,15 +226,15 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2008.
 
-## ANEXO
+## Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 2.2.3.2, «COMPONENTE ANIMAL», DA ACÇÃO N.º 2.2.3, «CONSERVAÇÃO E MELHORAMENTO DE RECURSOS GENÉTICOS»
 
-REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 2.2.3.2, «COMPONENTE ANIMAL», DA ACÇÃO N.º 2.2.3, «CONSERVAÇÃO E MELHORAMENTO DE RECURSOS GENÉTICOS»
-
-### CAPÍTULO I — Disposições iniciais
+### Capítulo I — Disposições iniciais
 
 ###### Artigo 1.º — Objecto
 
-O presente Regulamento estabelece o regime de aplicação da subacção n.º 2.2.3.2, «Componente animal», da acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», da medida n.º 2.2, «Valorização dos modos de produção integrada», do subprograma n.º 2, «Gestão sustentável do espaço rural», do Plano de Desenvolvimento Rural para o Continente, abreviadamente designado por PRODER.
+O presente Regulamento estabelece o regime de aplicação da subacção n.º 2.2.3.2, «Componente animal», da acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», da medida n.º 2.2, «Valorização dos modos de produção integrada», do subprograma n.º 2, «Gestão sustentável do espaço rural», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 2.º — Objectivos
 
@@ -262,13 +284,19 @@ a) Disporem de um programa de conservação genética animal ou de um programa d
 
 b) Encontrarem-se legalmente constituídos;
 
-c) Cumprirem as obrigações legais, designadamente as fiscais e para com a segurança social;
+c) (Revogada.)
 
 d) Não estarem abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas, realizadas desde 2000;
 
 e) No caso de entidades públicas em parceria, apresentar o contrato celebrado, com a identificação das obrigações das partes contratantes, no âmbito da operação e a respectiva participação financeira;
 
-f) Apresentarem uma declaração da DGV comprovativa da aprovação do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal.
+f) Apresentarem uma declaração da DGV comprovativa da aprovação do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal;
+
+g) Disporem de meios humanos e materiais de apoio necessários à realização das acções, directamente ou através de outras organizações de criadores, com vista ao cumprimento do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
+
+> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28.
 
 ###### Artigo 7.º — Critérios de elegibilidade das operações
 
@@ -286,7 +314,9 @@ Podem beneficiar dos apoios previstos no presente Regulamento as acções decorr
 
 ###### Artigo 9.º — Base de dados nacional
 
-É criada uma base de dados nacional, cujas especificações técnicas são definidas, pela DGV, seis meses após a publicação desta portaria, que é alimentada pela informação decorrente dos Programas de Conservação Genética Animal e de Melhoramento Genético Animal.
+Os beneficiários dos apoios decorrentes dos Programas de Conservação Genética Animal e dos Programas de Melhoramento Genético Animal são responsáveis pelo carregamento ou actualização da informação relativa a identificação dos animais constantes no respectivo livro genealógico ou registo zootécnico e das acções realizadas sobre estes, no âmbito do Sistema Nacional de Informação e Registo Animal (SNIRA), na medida em que estas funcionalidades sejam disponibilizadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 10.º — Obrigações dos beneficiários
 
@@ -296,7 +326,7 @@ a) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos 
 
 b) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;
 
-c) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através da conta bancária específica para o efeito;
+c) Garantir que todos os recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito;
 
 d) Executar as acções previstas no Programa de Conservação Genética Animal ou no Programa de Melhoramento Genético Animal, conforme previsto na alínea a) do artigo 6.º;
 
@@ -304,7 +334,11 @@ e) Fornecer a informação relevante para a base de dados nacional, utilizando p
 
 f) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 15.º;
 
-g) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de Melhoramento Genético Animal.
+g) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de Melhoramento Genético Animal, até 28 de Fevereiro de cada ano, se ocorrerem alterações nas condições de elegibilidade, em função dos critérios constantes no anexo v;
+
+h) Terem um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 11.º — Forma e nível dos apoios
 
@@ -316,19 +350,27 @@ g) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de
 
 ###### Artigo 12.º — Critérios de selecção dos pedidos de apoio
 
-Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados e hierarquizados com os seguintes critérios de prioridade:
+1 - Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados e hierarquizados com os seguintes critérios de prioridade:
 
 a) Raças autóctones, por ordem decrescente do risco de extinção, conforme definido no âmbito da acção n.º 2.2.2, «Protecção da biodiversidade doméstica», do PRODER e no anexo v;
 
 b) Raças exóticas e raça bovina Frísia.
 
-### CAPÍTULO II — Procedimento
+2 - A alteração dos critérios de selecção referidos no número anterior aprovada em conformidade com o procedimento legalmente previsto é divulgada no sítio do PRODER, em www.proder.pt.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
+
+### Capítulo II — Procedimento
 
 ###### Artigo 13.º — Apresentação dos pedidos de apoio
 
-1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio são submetidos até 50 dias úteis após publicação da presente portaria.
+1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com a antecedência de 10 dias seguidos, relativamente ao início do prazo de submissão.
 
-2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, no prazo máximo de três dias, considerando-se a data da confirmação como data de apresentação do pedido de apoio.
+2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
+
+> Alterado pelo/a Artigo do/a [Portaria n.º 1305/2008 - Diário da República n.º 219/2008, Série I de 2008-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401), com efeitos a partir de 2008-07-15.
 
 ###### Artigo 13.º-A — Avisos de abertura e anúncios
 
@@ -346,7 +388,7 @@ d) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 3 - Dentro dos limites da elegibilidade temporal do programa, o aviso define o período de elegibilidade da realização das acções.
 
-> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 14.º — Análise e decisão sobre os pedidos de apoio
 
@@ -354,13 +396,17 @@ d) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 2 - O parecer referido no número anterior é emitido num prazo máximo de 30 dias úteis a contar do termo de apresentação dos pedidos de apoio.
 
-3 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da autoridade de gestão, sendo a mesma comunicada aos candidatos pela DRAP no prazo máximo de 10 dias úteis a contar da data de emissão do parecer.
+3 - São solicitados aos candidatos, pelas DRAP, quando se justifique, os documentos exigidos ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos, pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer previsto no n.º 2.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 14.º-A — Readmissão de pedidos de apoio
 
-Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.»
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
 
-> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 15.º — Execução e avaliação dos Programas
 
@@ -376,15 +422,19 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 ###### Artigo 17.º — Apresentação dos pedidos de pagamento
 
-1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
+1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
 2 - As entidades beneficiárias podem apresentar quatro pedidos de pagamento anuais, até 31 de Março, 30 de Junho, 30 de Setembro e 31 de Dezembro, reportando-se às acções efectivamente realizadas, de acordo com o programa previamente aprovado.
 
-###### Artigo 18.º — Análise dos pedidos de pagamento e autorização de despesa
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
+
+###### Artigo 18.º — Análise dos pedidos de pagamento
 
 1 - As DRAP analisam os pedidos de pagamento no prazo máximo de 20 dias úteis a contar da data de apresentação dos pedidos, após validação das acções efectuada pela DGV.
 
-2 - Para efeitos de pagamento ao beneficiário, o gestor emite as autorizações de despesa validada e envia-as ao IFAP, I. P.
+2 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da realização das acções ao IFAP, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
 ###### Artigo 19.º — Pagamentos
 
@@ -400,7 +450,7 @@ Os Programas de Conservação Genética Animal ou de Melhoramento Genético Anim
 
 2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio.
 
-> Alterado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10.
 
 ###### Artigo 22.º — Disposições transitórias
 
@@ -408,9 +458,9 @@ Os Programas de Conservação Genética Animal ou de Melhoramento Genético Anim
 
 2 - No caso de alteração do beneficiário, serão consideradas para efeito de pagamento todas as acções realizadas no âmbito do programa de conservação ou melhoramento aprovado pela DGV, desde 1 de Janeiro de 2007 até à data da respectiva alteração do beneficiário, após a qual será considerado o novo beneficiário.
 
-## ANEXO I — (a que se refere o n.º 2 do artigo 8.º)
+## Anexo I — Acções que integram os Programas de Conservação e Melhoramento Genético Animal
 
-Acções que integram os Programas de Conservação e Melhoramento Genético Animal
+(a que se refere o n.º 2 do artigo 8.º)
 
 Inscrição no livro genealógico ou registo zootécnico (LN e LA) - caracterização genética (caracterização demográfica e molecular).
 
@@ -454,11 +504,17 @@ Acções de avaliação genética
 
 A avaliação genética consiste num conjunto de procedimentos baseados na utilização de registos genealógicos e produtivos e de metodologias estatísticas adequadas com o objectivo de se predizer o valor genético dos animais para uma ou para diversas características produtivas, para que a selecção dos reprodutores possa ser eficaz e objectiva.
 
-## ANEXO II — (a que se referem os artigos 8.º e 11.º)
+## Anexo II — (a que se referem os artigos 8.º e 11.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
+(ver documento original)
 
-## ANEXO III — (a que se refere o n.º 3 do artigo 8.º)
+> Nota: [Artigo 1.º, Portaria n.º 1305/2008 - Diário da República n.º 219/2008, Série I de 2008-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) Alterado nos seguintes termos: «ANEXO II [...] Raças autóctones e raças exóticas elegíveis (a) ... Raça bovina Frísia
+
+> Nota: [Diploma, Declaração de Rectificação n.º 43/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2008-455129) Retifica o presente anexo, nos seguintes termos: Na alínea j) da legenda do anexo ii da Portaria n.º 618/2008, onde se lê: «(j) Diferenciação dos níveis de apoio às acções de melhoramento nas raças autóctones: 100 % das acções elegíveis na classe 1) e 2); 80 % na classe 3); 70 % na classe 4).» deve ler-se: 70 % na classe 4) e 5).
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2008-455129), com efeitos a partir de 2008-07-15.
+
+## Anexo III — (a que se refere o n.º 3 do artigo 8.º)
 
 Estrutura geral de um programa de conservação genética animal in situ, elaborados no âmbito do cumprimento dos respectivos regulamentos dos registos zootécnicos e dos livros genealógicos.
 
@@ -490,9 +546,9 @@ Estrutura geral de um programa de conservação genética animal in situ, elabor
 
 2.7 - Técnicas de reprodução utilizadas.
 
-## ANEXO IV — (a que se refere o n.º 3 do artigo 8.º)
+## Anexo IV — Estrutura geral de um programa de melhoramento elaborados no âmbito do cumprimento dos respectivos regulamentos dos livros genealógicos
 
-Estrutura geral de um programa de melhoramento elaborados no âmbito do cumprimento dos respectivos regulamentos dos livros genealógicos
+(a que se refere o n.º 3 do artigo 8.º)
 
 1 - N.os 1 e 2 do anexo iii.
 
@@ -526,9 +582,9 @@ Estrutura geral de um programa de melhoramento elaborados no âmbito do cumprime
 
 4.3.3 - Medição:
 
-4.3.3.1 - Mensurável nos candidatos à selecção? Parentes?
+4.3.3.1 - Mensurável nos candidatos à selecção; parentes;
 
-4.3.3.2 - Facilidade? Custo? Idade, registos repetidos, etc.
+4.3.3.2 - Facilidade; custo; idade; registos repetidos.
 
 5 - Avaliação de esquemas alternativos:
 
@@ -600,11 +656,13 @@ Estrutura geral de um programa de melhoramento elaborados no âmbito do cumprime
 
 8.5 - Utilização de marcadores genéticos.
 
-## ANEXO V — (a que se refere o artigo 12.º)
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1049/2010 - Diário da República n.º 197/2010, Série I de 2010-10-11](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802), em vigor a partir de 2010-10-12.
 
-Raças autóctones abrangidas
+## Anexo V — Raças autóctones abrangidas
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
+(a que se refere o artigo 12.º)
+
+(ver documento original)
 
 Raças exóticas abrangidas
 

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 358 - 364
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/176000000/0035800364.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-24'
+entry_into_force:
+  date: '2021-09-24'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Junta de Freguesia, após aprovação pela Assembleia
+    de Freguesia
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

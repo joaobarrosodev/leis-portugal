@@ -23,6 +23,15 @@ publication:
   pages: 403 - 410
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/131000000/0040300410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

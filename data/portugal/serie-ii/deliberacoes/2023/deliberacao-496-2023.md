@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 100 - 118
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/091000000/0010000118.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-01'
+entry_into_force:
+  date: '2023-02-01'
+  rule: no dia 1 de fevereiro de 2023, com exceção do disposto nos números seguintes
+  method: clausula
+  article: n-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

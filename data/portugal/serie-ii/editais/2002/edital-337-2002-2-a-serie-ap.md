@@ -23,6 +23,16 @@ publication:
   pages: 88 - 90
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/164092000/0008800090.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais 15 dias após a sua publicação, de acordo com o preceituado no artigo 91.º da Lei n.º 169/99, de
+    18 de Setembro, n.º 4 do artigo 29.º da Lei n.º 42/98, de 6 de Agosto, e n.º 162 do Có
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

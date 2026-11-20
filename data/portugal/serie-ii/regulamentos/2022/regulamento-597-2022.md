@@ -23,6 +23,15 @@ publication:
   pages: 347 - 354
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/126000000/0034700354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Reitor e publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

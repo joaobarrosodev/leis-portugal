@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 73 - 73
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/110079000/0007300073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-28'
+entry_into_force:
+  date: '2005-06-28'
+  rule: no prazo de 20 dias a contar da data da sua publicação no Diário da República
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: a partir do ano lectivo de 2004-2005
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

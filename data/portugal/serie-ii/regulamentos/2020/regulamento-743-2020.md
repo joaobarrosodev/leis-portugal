@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 362 - 375
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/172000000/0036200375.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-04'
+entry_into_force:
+  date: '2020-09-04'
+  rule: no dia seguinte à sua publicação no Diário da República, aplicando-se a todas as candidaturas para o ano letivo 2020/2021
+    e seguintes, enquanto não for revogado
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

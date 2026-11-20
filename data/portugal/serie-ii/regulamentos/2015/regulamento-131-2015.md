@@ -25,6 +25,15 @@ publication:
   pages: 6914 - 6917
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/055000000/0691406917.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

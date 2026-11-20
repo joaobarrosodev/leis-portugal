@@ -23,6 +23,15 @@ publication:
   pages: 9087 - 9090
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/041000000/0908709090.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

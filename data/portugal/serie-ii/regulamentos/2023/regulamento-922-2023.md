@@ -23,6 +23,15 @@ publication:
   pages: 748 - 750
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/158000000/0074800750.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicitação, nos termos legais
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

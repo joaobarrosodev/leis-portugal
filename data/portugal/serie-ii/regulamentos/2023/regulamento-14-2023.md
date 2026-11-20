@@ -24,6 +24,15 @@ publication:
   pages: 764 - 779
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/004000000/0076400779.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação no Diário da República Eletrónico
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

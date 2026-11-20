@@ -23,6 +23,15 @@ publication:
   pages: 23743 - 23744
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/086000000/2374323744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

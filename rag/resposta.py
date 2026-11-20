@@ -64,7 +64,8 @@ class Resposta:
     modelo: str = ""  # a IA e o modelo que escreveram a resposta
     aviso_modelo: str | None = None  # quando não é o modelo medido (rag.provedores.aviso_medicao)
     erro: str = ""  # a chamada à IA falhou (chave, créditos, rede): não é um "não sei" da lei
-    # A segunda resposta: os acórdãos do Tribunal Constitucional que julgaram os artigos citados.
+    # A segunda resposta: os acórdãos do TC que julgaram os artigos citados e os do STJ e do STA que os
+    # interpretaram em uniformização de jurisprudência.
     # Vem dos dados (rag.jurisprudencia), não do LLM, e fica separada da resposta da lei.
     jurisprudencia: list[dict] = field(default_factory=list)
 
@@ -93,8 +94,8 @@ JULGAMENTOS_POR_ARTIGO = 5
 
 
 def jurisprudencia(consulta: Consulta, citacoes: list[Resultado], pesquisa=None) -> list[dict]:
-    """Os acórdãos do TC sobre os artigos citados, até à data de referência, um por acórdão e artigo:
-    as decisões com força obrigatória geral primeiro, depois os mais recentes. Os primeiros
+    """Os acórdãos do TC, do STJ e do STA sobre os artigos citados, até à data de referência, um por acórdão
+    e artigo: as decisões com força obrigatória geral primeiro, depois a uniformização, depois os mais recentes. Os primeiros
     `JULGAMENTOS_POR_ARTIGO` de cada artigo têm `mostrar`; os outros contam só para o resumo."""
     if pesquisa is None:
         return []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 203 - 347
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/019000000/0020300347.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-29'
+entry_into_force:
+  date: '2026-01-29'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 18230-(240) a 18230-(242)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/122000001/0024000242.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias contados desde a data de publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

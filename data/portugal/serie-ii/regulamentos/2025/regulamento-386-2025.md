@@ -23,6 +23,15 @@ publication:
   pages: 362 - 375
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/057000000/0036200375.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após cinco dias após a publicação no Diário da República
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 16 - 20
   pdf_url: https://files.diariodarepublica.pt/2s/2001/11/274131000/0001600020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-11-27'
+entry_into_force:
+  date: '2001-11-27'
+  rule: no dia imediato à publicação no Diário da Repúbluca e revoga o preceituado no Regulamento de Resíduos Sólidos anterior,
+    de 21 de Abril de 1994, que entrou em vigor em 1 de Julho desse mesmo ano
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

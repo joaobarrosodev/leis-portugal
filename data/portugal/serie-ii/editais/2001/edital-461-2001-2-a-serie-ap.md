@@ -23,6 +23,15 @@ publication:
   pages: 44 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2001/11/274131000/0004400055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

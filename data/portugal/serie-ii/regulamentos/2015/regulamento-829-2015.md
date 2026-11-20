@@ -23,6 +23,15 @@ publication:
   pages: 35181 - 35182
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/236000000/3518135182.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorrido que sejam 15 dias após a sua publicação em Edital nos lugares de estilo
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

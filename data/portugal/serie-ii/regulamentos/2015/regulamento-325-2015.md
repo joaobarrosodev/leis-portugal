@@ -23,6 +23,16 @@ publication:
   pages: 15365 - 15367
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/111000000/1536515367.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'para os concursos especiais de acesso e ingresso para o ano letivo de 2015/2016, com exceção do artigo 9.º que só
+    se aplica aos concursos especiais de acesso e ingresso no ensino superior a partir da '
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

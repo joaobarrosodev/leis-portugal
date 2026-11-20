@@ -24,6 +24,15 @@ publication:
   pages: 48541 - 48543
   pdf_url: https://files.diariodarepublica.pt/2s/2008/11/232000000/4854148543.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: do ano lectivo 2008/2009
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

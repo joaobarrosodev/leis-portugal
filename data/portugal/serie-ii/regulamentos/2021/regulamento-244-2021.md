@@ -23,6 +23,15 @@ publication:
   pages: 453 - 481
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/052000000/0045300481.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia útil após a publicação no Diário da República
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

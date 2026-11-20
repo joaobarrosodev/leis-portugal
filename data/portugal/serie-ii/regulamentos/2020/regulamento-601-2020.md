@@ -23,6 +23,15 @@ publication:
   pages: 381 - 396
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/138000000/0038100396.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos trinta dias após a sua publicação
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

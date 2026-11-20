@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 18710 - 18712
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/123000000/1871018712.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-02'
+entry_into_force:
+  date: '2019-07-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República e aplica-se ao acesso e ingresso nos TESP do IPCA para
+    o ano letivo de 2019/2020
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

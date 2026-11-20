@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 314 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/207000000/0031400320.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-10'
+entry_into_force:
+  date: '2022-11-10'
+  rule: 15 dias após publicação no sítio do Município e em locais de estilo
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29124 - 29127
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/209000000/2912429127.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-30'
+entry_into_force:
+  date: '2018-10-30'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

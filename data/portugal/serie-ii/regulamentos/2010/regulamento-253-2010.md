@@ -23,6 +23,15 @@ publication:
   pages: 12455 - 12457
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/052000000/1245512457.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pela Assembleia Municipal de Baião
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

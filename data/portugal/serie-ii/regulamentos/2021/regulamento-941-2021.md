@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 344 - 350
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/208000000/0034400350.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-31'
+entry_into_force:
+  date: '2021-10-31'
+  rule: 5 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

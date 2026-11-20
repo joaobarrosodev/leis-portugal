@@ -23,6 +23,15 @@ publication:
   pages: 274 - 276
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/006000000/0027400276.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2023-01-01'
+  effects_rule: desde 01 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

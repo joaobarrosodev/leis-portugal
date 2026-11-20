@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 65 - 71
   pdf_url: https://files.diariodarepublica.pt/2s/2002/11/261141000/0006500071.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-20'
+entry_into_force:
+  date: '2002-11-20'
+  rule: oito dias após a publicação no Diário da República, depois da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

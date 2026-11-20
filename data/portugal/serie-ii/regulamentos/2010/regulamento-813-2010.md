@@ -23,8 +23,24 @@ publication:
   pages: 53512 - 53515
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/209000000/5351253515.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após parecer do Conselho Técnico-Científico e da sua aprovação pelo Conselho Pedagógico
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2504553:por#n-3'
+    detail: 3 - É revogado o [Regulamento n.º 813/2010] publicado no Diário da República, 2.ª série - n.º 209 de 27 de Outubro
+      de 2010.
 notes: []
 language: por
 version:

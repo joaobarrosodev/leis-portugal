@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30156 - 30159
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/216000000/3015630159.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-10'
+entry_into_force:
+  date: '2018-11-10'
+  rule: no dia seguinte ao da sua publicação no Diário da República e no sítio eletrónico do Município de Vila Nova da Barquinha
+    (
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

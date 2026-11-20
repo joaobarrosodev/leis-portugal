@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1377 - 1378
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/006000000/0137701378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-13'
+entry_into_force:
+  date: '2010-12-13'
+  rule: a 13 de Dezembro de 2010
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

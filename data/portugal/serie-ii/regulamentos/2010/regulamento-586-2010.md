@@ -23,6 +23,15 @@ publication:
   pages: 36862 - 36889
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/130000000/3686236889.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 (trinta) dias após a sua publicação no Diário da República, Boletim Municipal e afixação nos lugares de estilo
+  method: clausula
+  article: art-93
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

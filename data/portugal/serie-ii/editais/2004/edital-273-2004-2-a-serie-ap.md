@@ -23,6 +23,15 @@ publication:
   pages: 48 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/103054000/0004800050.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia a contar da data da sua afixação nos lugares públicos do costume
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

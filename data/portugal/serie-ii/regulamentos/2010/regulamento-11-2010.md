@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1027 - 1040
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/005000000/0102701040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: no dia 1 de Janeiro de 2010, de acordo com o disposto no artigo 17.º da Lei n.º 53-E/2006, de 29 de Dezembro, com
+    as alterações introduzidas pelo artigo 53.º da lei do Orçamento de Estado para 2009
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

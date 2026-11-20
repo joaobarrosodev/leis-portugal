@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 361 - 367
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/201000000/0036100367.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-01'
+entry_into_force:
+  date: '2026-10-01'
+  rule: dia 01 de outubro de 2026, nos termos legais, devendo ser afixado na Escola Básica e Secundária das Lajes do Pico,
+    nas Juntas de Freguesia do concelho e publicado sítio institucional do Município na i
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

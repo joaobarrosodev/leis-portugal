@@ -23,6 +23,16 @@ publication:
   pages: 2931 - 2932
   pdf_url: https://files.diariodarepublica.pt/2s/2002/02/037000000/0293102932.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a sua aprovação pelo plenário, sendo enviado para publicação no Diário da República, 2.ª série, pelo presidente,
+    no prazo máximo de oito dias úteis após a sua aprovação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

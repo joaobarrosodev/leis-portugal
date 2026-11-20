@@ -23,6 +23,15 @@ publication:
   pages: 23927 - 23929
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/203000000/2392723929.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano letivo 2018/2019
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

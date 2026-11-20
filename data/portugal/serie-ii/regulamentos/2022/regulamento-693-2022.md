@@ -23,6 +23,16 @@ publication:
   pages: 456 - 463
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/141000000/0045600463.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após a publicitação via edital nos locais e sítio da internet oficial do Município de Vila do
+    Porto
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

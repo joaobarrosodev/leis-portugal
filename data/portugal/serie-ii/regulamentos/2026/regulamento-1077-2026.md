@@ -23,6 +23,15 @@ publication:
   pages: 584 - 587
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/154000000/0058400587.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à data da publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

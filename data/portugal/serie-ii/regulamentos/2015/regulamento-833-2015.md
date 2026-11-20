@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 35190 - 35192
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/236000000/3519035192.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-03'
+entry_into_force:
+  date: '2015-12-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:116906081:por#art-17'
+    detail: O presente Regulamento, publicado no Diário da República, 2.ª série, e divulgado na página do IPMAIA na Internet,
+      entra em vigor no dia seguinte ao da sua publicação, substituindo e revogando o [Regulamento n.º 833/2015] publicado
+      no n.º 236 do Diário da República, 2.ª série, de 2 de dezembro.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 19939 - 19941
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/140000000/1993919941.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à notificação da autorização de tratamento de dados a conceder pela entidade competente na matéria
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

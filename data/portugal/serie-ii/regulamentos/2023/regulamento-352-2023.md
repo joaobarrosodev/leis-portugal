@@ -23,6 +23,16 @@ publication:
   pages: 357 - 361
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/056000000/0035700361.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação do Diário da República e será publicado por Edital e no sítio da Internet do
+    Município da Figueira da Foz em www.cm-figfoz.pt
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 651 - 663
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/196000000/0065100663.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-14'
+entry_into_force:
+  date: '2026-10-14'
+  rule: no quinto dia após a sua publicação no Diário da República, nos termos do artigo 140.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

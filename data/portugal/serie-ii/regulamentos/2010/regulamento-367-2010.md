@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21148 - 21181
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/078000000/2114821181.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-23'
+entry_into_force:
+  date: '2010-04-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-90
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

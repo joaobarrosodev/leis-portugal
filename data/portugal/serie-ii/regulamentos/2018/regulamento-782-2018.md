@@ -23,6 +23,16 @@ publication:
   pages: 30975 - 30976
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/223000000/3097530976.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação nos órgãos competentes desta Freguesia, nomeadamente Junta e Assembleia de Freguesia e publicação
+    no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

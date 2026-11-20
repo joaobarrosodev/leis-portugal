@@ -3,7 +3,7 @@
  "id": "pt:dre:383017:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-901548366",
  "dre_path": "/dr/detalhe/portaria/311-c-2005-383017",
- "source_lastmod": "2024-12-30",
+ "source_lastmod": "2026-11-20",
  "versions": [
   {
    "date": "2005-03-24",
@@ -32,6 +32,52 @@
     "901656886",
     "901656887",
     "901656888"
+   ]
+  },
+  {
+   "date": "2027-02-18",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1196863264:por",
+     "title": "Portaria n.º 522/2026/1",
+     "published": "2026-11-20",
+     "dre_path": "/dr/detalhe/portaria/522-2026-1196863264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "901455268",
+    "901656889",
+    "901455269",
+    "901656926",
+    "901455271",
+    "901455272",
+    "1197224075",
+    "1197224275",
+    "901656875",
+    "1197224475",
+    "1197224675",
+    "1197224875",
+    "901656931",
+    "901656880",
+    "1197225075",
+    "901656882",
+    "1197225275",
+    "901656884",
+    "1197225475",
+    "901656886",
+    "901656887",
+    "901656934"
    ]
   }
  ],
@@ -203,6 +249,133 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 12.º — Equivalência\n\n1 - Para os efeitos previstos no presente Regulamento, por despacho do director-geral de Viação, pode ser reconhecida a equivalência das aprovações concedidas noutros Estados membros da Comunidade Europeia válidas ao cumprimento das prescrições referentes a avisadores sonoros e luminosos especiais previstas no presente diploma.\n\n2 - Para os efeitos previstos no presente Regulamento, é reconhecida a equivalência das prescrições referentes a avisadores luminosos especiais com as do Regulamento n.º 65.º, da Comissão Económica para a Europa das Nações Unidas (CEE/ONU), respeitante a Prescrições Uniformes Relativas à Homologação de Avisadores Luminosos Especiais para Automóveis."
+  },
+  "901656889": {
+   "fragment_id": "901656988",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DOS AVISADORES ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DOS AVISADORES ESPECIAIS"
+  },
+  "901656926": {
+   "fragment_id": "901548369",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) «Avisador sonoro especial» o dispositivo emissor de sinal sonoro especial que se destina a assinalar a marcha urgente de um veículo, nos termos e para os efeitos previstos no artigo 22.º do Código da Estrada;\n\nb) «Avisador luminoso especial» o dispositivo luminoso que emite luz intermitente azul ou amarela, a toda a volta de um eixo vertical e que se destina a assinalar a marcha urgente ou a marcha lenta de um veículo, nos termos e para os efeitos previstos no artigo 23.º do Código da Estrada;\n\nc) «Avisador luminoso especial auxiliar» o dispositivo luminoso que emite luz intermitente ou de descarga, segundo uma direção principal e que se destina a complementar os avisadores luminosos especiais ou, quando especialmente previsto, à utilização alternativa a estes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197224075": {
+   "fragment_id": "901548372",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalação de avisadores sonoros especiais",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Instalação de avisadores sonoros especiais\n\n1 - Os avisadores sonoros especiais podem ser instalados em veículos de polícia, de bombeiros, de forças militares ou militarizadas, de protecção civil e nas ambulâncias.\n\n2 - Os veículos afetos a serviço de interesse público e que integrem comitivas oficiais ou de acompanhamento de membros do Governo, bem como os que se encontram afetos a presidentes de partidos políticos ou equiparados com representação na Assembleia da República, assim como aos respetivos líderes parlamentares, podem instalar avisadores sonoros especiais, com as características e condições de utilização fixadas no presente Regulamento.\n\n3 - Podem ainda ser instalados avisadores sonoros especiais noutros veículos de cujo documento de identificação resulte a sua afetação exclusiva a missões de socorro ou de serviço urgente, nos termos fixados por despacho do presidente da Autoridade Nacional de Segurança Rodoviária (ANSR).\n\n4 - A instalação de avisadores sonoros especiais noutros veículos afetos à prestação de socorro ou serviço urgente de interesse público depende de autorização da ANSR.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197224275": {
+   "fragment_id": "901548373",
+   "type": 11,
+   "heading": "Artigo 3.º — Características dos avisadores sonoros especiais",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Características dos avisadores sonoros especiais\n\n1 - Só podem ser instalados avisadores sonoros especiais de modelo aprovado ou homologado pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT).\n\n2 - Os avisadores sonoros especiais devem respeitar a norma portuguesa NP-2068.\n\n3 - Por despacho do presidente do conselho diretivo do IMT podem ser aprovados avisadores sonoros especiais que produzam um som cuja frequência varie contínua e regularmente entre um valor máximo e um valor mínimo ou que apresentem outro padrão sonoro que se mostre adequado à sua utilização específica.\n\n4 - É admitido que os avisadores sonoros especiais integrem a função de megafonia destinada a amplificar e difundir mensagens transmitidas por intermédio de microfone de comando próprio.\n\n5 - A aprovação a que se refere o n.º 1 pode revestir a forma de homologação nacional ou de reconhecimento de modelo.\n\n6 - Por despacho do presidente do conselho diretivo do IMT, são fixados os procedimentos necessários para efeitos de aprovação de avisadores sonoros especiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197224475": {
+   "fragment_id": "901656975",
+   "type": 11,
+   "heading": "Artigo 4.º — Instalação de avisadores luminosos especiais de cor azul",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Instalação de avisadores luminosos especiais de cor azul\n\n1 - Os avisadores luminosos especiais de cor azul podem ser instalados em veículos de polícia, de forças militares ou militarizadas, de bombeiros, de protecção civil e nas ambulâncias.\n\n2 - Podem ainda ser instalados avisadores luminosos especiais de cor azul noutros veículos de cujo documento de identificação resulte a sua afetação exclusiva a missões de socorro ou de serviço urgente, nos termos fixados por despacho do presidente da ANSR.\n\n3 - A instalação dos avisadores a que se refere o n.º 1 noutros veículos afetos à prestação de socorro ou serviço urgente de interesse público depende de autorização da ANSR.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197224675": {
+   "fragment_id": "901656976",
+   "type": 11,
+   "heading": "Artigo 5.º — Instalação de avisadores luminosos especiais de cor amarela",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Instalação de avisadores luminosos especiais de cor amarela\n\n1 - A instalação de avisadores luminosos especiais de cor amarela é obrigatória quando se trate de veículos especialmente afectos a certos serviços de carácter público que imponham a sua paragem ou deslocação em marcha lenta, tais como obras e conservação de vias, colocação de sinalização e limpeza, nos pronto-socorros, carros-piloto, bem como em máquinas industriais e veículos agrícolas, salvo, neste caso, os motocultivadores que circulem sem semi-reboque ou retrotrem.\n\n2 - Os avisadores a que se refere o presente artigo devem ainda ser instalados nos veículos que circulam ao abrigo do disposto no artigo 58.º do Código da Estrada quando seja excedido o comprimento de 20 m ou a largura de 3,5 m.\n\n3 - A instalação dos avisadores referidos no n.º 1 pode ser autorizada pela ANSR quando se trate de veículos ocasionalmente afetos a serviços que imponham a sua paragem ou deslocação em marcha lenta e desde que o interesse público o justifique.\n\n4 - Não é permitida a utilização dos avisadores referidos nos números anteriores fora das condições previstas no presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197224875": {
+   "fragment_id": "901656977",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos da instalação de avisadores luminosos especiais",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18."
+   ],
+   "markdown": "###### Artigo 6.º — Requisitos da instalação de avisadores luminosos especiais\n\n1 - O número de avisadores luminosos especiais a instalar por veículo deve ser:\n\na) Um ou dois avisadores luminosos de cor azul;\n\nb) Um avisador luminoso de cor amarela.\n\n2 - Os avisadores luminosos especiais devem ser instalados:\n\na) Na parte anterior do plano superior da carroçaria ou arco de protecção;\n\nb) Nos veículos sem cabina ou arco de proteção do condutor: na extremidade superior de uma haste com comprimento que garanta os parâmetros de visibilidade estabelecidos.\n\n3 - Os avisadores luminosos especiais não devem, em qualquer circunstância, prejudicar a visibilidade do condutor para a frente e para a retaguarda e devem ser visíveis num ângulo de 360º, a uma distância mínima de 50 m, no caso de avisadores de luz azul, ou de 100 m, no caso de avisadores de luz amarela.\n\n4 - Devem ser instalados avisadores em número superior ao estabelecido no n.º 1 quando não seja possível respeitar os parâmetros de visibilidade referidos no número anterior devido à configuração do contorno envolvente exterior do veículo ou da carga transportada ou rebocada, podendo, neste caso, os avisadores ser amovíveis.\n\n5 - É proibida a instalação de avisadores luminosos especiais de cor diferente no mesmo veículo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18."
+  },
+  "901656931": {
+   "fragment_id": "901656978",
+   "type": 11,
+   "heading": "Artigo 7.º — Características dos avisadores luminosos especiais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Características dos avisadores luminosos especiais\n\n1 - Os avisadores luminosos especiais podem ser constituídos por um único dispositivo óptico ou por um conjunto de dispositivos ópticos destinado a ser colocado transversalmente no veículo.\n\n2 - A luz emitida deve apresentar uma distribuição espacial uniforme em torno do centro da fonte de emissão de luz, garantindo os requisitos de visibilidade previstos no n.º 3 do artigo 6.º\n\n3 - O avisador luminoso especial deve ser concebido de forma que em condições normais de utilização, apesar das vibrações a que está sujeito, funcione correctamente, devendo apresentar adequada estanquidade à chuva.\n\n4 - Só podem ser instalados avisadores luminosos especiais de modelo aprovado pelo IMT.\n\n5 - A aprovação a que se refere o número anterior reveste a forma de reconhecimento de modelo.\n\n6 - Por despacho do presidente do conselho diretivo do IMT, são fixados os procedimentos necessários para efeitos de aprovação dos avisadores a que se refere o presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197225075": {
+   "fragment_id": "901656980",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de avisadores luminosos especiais auxiliares",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de avisadores luminosos especiais auxiliares\n\n1 - Nos veículos de polícia, de bombeiros e nas ambulâncias de socorro pode ser instalado, alternada ou cumulativamente com os avisadores previstos no artigo 4.º, um sistema específico de avisadores de cor azul.\n\n2 - Os veículos afetos a serviço de interesse público e que integrem comitivas oficiais ou de acompanhamento de membros do Governo, bem como os que se encontram afetos a presidentes de partidos políticos ou equiparados com representação na Assembleia da República, assim como aos respetivos líderes parlamentares, podem instalar avisadores luminosos especiais auxiliares, com as características e condições de utilização fixadas no presente Regulamento.\n\n3 - O sistema de avisadores a que se referem os números anteriores devem respeitar os requisitos previstos no n.º 3 do artigo 6.º, salvo no que respeita ao ângulo de visibilidade, que deve ser compatível com as características do local de instalação e sempre garantindo que a projeção luminosa se faça exclusivamente para o exterior do habitáculo do veículo.\n\n4 - Os avisadores luminosos especiais auxiliares podem ser instalados:\n\na) No painel frontal do veículo, a uma altura do solo não superior aos limites fixados em regulamento para as luzes de cruzamento (médios);\n\nb) No interior do habitáculo, na parte superior do painel de instrumentos ou na parte superior da estrutura de suporte do espelho retrovisor;\n\nc) Cumulativamente com a instalação referida na alínea anterior, na parte superior ou inferior do vidro traseiro, no interior do habitáculo.\n\n5 - Só podem ser instalados sistemas de avisadores luminosos auxiliares de modelo aprovado pelo IMT.\n\n6 - A aprovação a que se refere o número anterior reveste a forma de reconhecimento de modelo.\n\n7 - Por despacho do presidente do conselho diretivo do IMT, são fixados os procedimentos necessários para efeitos de aprovação dos avisadores a que se refere o presente artigo.\n\n8 - A instalação de avisadores luminosos especiais auxiliares nos veículos referidos no n.º 2 é comunicada à ANSR.\n\n9 - Por despacho do presidente da ANSR são fixados os procedimentos necessários para efeitos da comunicação prevista no número anterior.\n\n10 - A ANSR disponibiliza à Guarda Nacional Republicana e à Polícia de Segurança Pública, no âmbito de ações de fiscalização do trânsito, o acesso à informação referida no n.º 8.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "1197225275": {
+   "fragment_id": "901656982",
+   "type": 11,
+   "heading": "Artigo 9.º — Utilização de avisadores especiais",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18."
+   ],
+   "markdown": "###### Artigo 9.º — Utilização de avisadores especiais\n\n1 - Durante a noite, sem prejuízo do disposto no artigo 64.º do Código da Estrada, o uso de avisadores sonoros especiais deve ser substituído pelo de avisadores luminosos especiais.\n\n2 - Não é permitida a utilização dos avisadores luminosos especiais de cor amarela fora das condições previstas no artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18."
+  },
+  "1197225475": {
+   "fragment_id": "901656984",
+   "type": 11,
+   "heading": "Artigo 10.º — Autorizações",
+   "in_force_from": "2027-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.",
+    "Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Autorizações\n\n1 - Os procedimentos necessários para efeitos da autorização de instalação dos avisadores especiais a que se referem os n.os 3 e 4 do artigo 2.º, os n.os 2 e 3 do artigo 4.º e o n.º 3 do artigo 5.º são fixados por despacho do presidente da ANSR.\n\n2 - Para efeitos da emissão das autorizações a que se refere o número anterior, o interessado deve:\n\na) Apresentar requerimento dirigido ao presidente da ANSR, do qual conste a identificação do requerente, as razões que fundamentam o pedido, o período pelo qual se pretende a autorização e a matrícula do veículo onde se pretende instalar e utilizar os avisadores especiais;\n\nb) Juntar fotocópia do documento de identificação do veículo e documentos comprovativos das razões invocadas no requerimento apresentado;\n\nc) Submeter o requerimento e os documentos referidos nas alíneas anteriores por via digital.\n\n3 - As autorizações de instalação de avisadores especiais não podem ser concedidas por prazo superior a três anos, contados da data da respetiva emissão, sendo suscetíveis de renovação por prazo igual ao prazo da autorização anteriormente concedida, ou por prazo diferente, mas nunca superior a três anos, a contar da data da renovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 522/2026/1 - Diário da República n.º 226/2026, Série I de 2026-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264), em vigor a partir de 2027-02-18.\n\n> Retificado pelo/a [Declaração de Retificação n.º 9/2025/1 - Diário da República n.º 20/2025, Série I de 2025-01-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2025-905320612), produz efeitos a partir de 2024-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+  },
+  "901656934": {
+   "fragment_id": "901656987",
+   "type": 11,
+   "heading": "Artigo 12.º — Equivalência",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Equivalência\n\nPara os efeitos previstos no presente Regulamento, por despacho do presidente do conselho diretivo do IMT, pode ser reconhecida a equivalência das aprovações concedidas noutros Estados-Membros da União Europeia válidas ao cumprimento das prescrições referentes a avisadores sonoros e luminosos especiais previstas no presente diploma.\n\n1 ― (Revogado.)\n\n2 ― (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 356/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/356-2024-901536088), produz efeitos a partir de 2024-12-31"
   }
  }
 }

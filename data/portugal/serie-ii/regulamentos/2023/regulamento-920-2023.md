@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 736 - 740
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/158000000/0073600740.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-21'
+entry_into_force:
+  date: '2023-08-21'
+  rule: 5 dias após a sua publicação no Diário da República, devendo ainda ser publicitado no sítio da Internet do Município
+    de Vila do Porto e em edital afixado nos locais do estilo habituais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 384 - 392
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/205000000/0038400392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-23'
+entry_into_force:
+  date: '2024-10-23'
+  rule: no dia seguinte à sua publicação nos termos legais e revoga o Regulamento dos Apoios para Habitação dos Agregados
+    Familiares Carenciados do Município das Lajes do Pico, Regulamento n.º 510/2022, publi
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

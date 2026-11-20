@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 230-(5) a 230-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/05/093000001/0000500013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-14'
+entry_into_force:
+  date: '2020-05-14'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos do disposto no artigo 140.º do CPA
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

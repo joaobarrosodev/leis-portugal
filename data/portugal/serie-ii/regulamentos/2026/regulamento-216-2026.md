@@ -23,6 +23,16 @@ publication:
   pages: 548 - 550
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/046000000/0054800550.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia de Freguesia de Urrô e é válido apenas quando aprovada a rubrica específica,
+    nos mapas orçamentais do respetivo ano
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 491 - 506
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/019000000/0049100506.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-01'
+entry_into_force:
+  date: '2023-01-01'
+  rule: no dia 01 de janeiro de 2023, após a sua aprovação, em sessão da Assembleia de Freguesia de São Pedro d'Arcos e publicação
+    nos meios definidos pela Autarquia
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

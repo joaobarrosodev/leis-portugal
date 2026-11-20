@@ -23,6 +23,15 @@ publication:
   pages: 18660-(2) a 18660-(9)
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/164000001/0000200009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

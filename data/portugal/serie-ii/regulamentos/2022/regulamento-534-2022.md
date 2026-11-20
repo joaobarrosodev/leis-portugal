@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 277 - 280
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/108000000/0027700280.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-03'
+entry_into_force:
+  date: '2022-06-03'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

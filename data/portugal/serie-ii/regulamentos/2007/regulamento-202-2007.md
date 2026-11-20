@@ -23,6 +23,15 @@ publication:
   pages: 23542 - 23543
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/157000000/2354223543.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2007-2008, inclusive
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 475 - 483
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/072000000/0047500483.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-14'
+entry_into_force:
+  date: '2020-04-14'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-22-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 6717 - 6730
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/039000000/0671706730.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-09'
+entry_into_force:
+  date: '2012-03-09'
+  rule: 15 dias após a sua publicação no Diário da República, aplicando-se a todos os pedidos de licenciamento ou comunicação
+    prévia apresentados a partir desta data, inclusive
+  method: clausula
+  article: art-120
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

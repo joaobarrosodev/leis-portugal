@@ -23,6 +23,15 @@ publication:
   pages: 40828 - 40839
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/250000000/4082840839.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 de janeiro 2013
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 325 - 329
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/036000000/0032500329.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-09'
+entry_into_force:
+  date: '2021-03-09'
+  rule: quinze dias após a sua publicação do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

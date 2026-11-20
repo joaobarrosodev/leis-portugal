@@ -23,6 +23,15 @@ publication:
   pages: 634 - 655
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/099000000/0063400655.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 15 dias à sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

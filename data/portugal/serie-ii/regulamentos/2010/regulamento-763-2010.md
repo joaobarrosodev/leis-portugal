@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49800 - 49801
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/195000000/4980049801.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-11-06'
+entry_into_force:
+  date: '2010-11-06'
+  rule: no prazo de 30 dias após a sua publicação em Edital
+  method: clausula
+  article: art-12-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

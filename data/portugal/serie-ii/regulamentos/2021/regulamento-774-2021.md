@@ -23,6 +23,16 @@ publication:
   pages: 284 - 295
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/161000000/0028400295.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação em edital, a afixar no edifício da sede da Junta de Freguesia de
+    Alcântara e demais locais de estilo, após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

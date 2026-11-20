@@ -23,6 +23,15 @@ publication:
   pages: 733 - 735
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/004000000/0073300735.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo Reitor
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

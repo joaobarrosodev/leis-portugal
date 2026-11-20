@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1193 - 1197
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/194000000/0119301197.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-08'
+entry_into_force:
+  date: '2025-10-08'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

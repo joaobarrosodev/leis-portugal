@@ -23,6 +23,16 @@ publication:
   pages: 330 - 333
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/125000000/0033000333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação definitiva no Diário da República, nos termos conjugados nos artigos 139.º e
+    140.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015,
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

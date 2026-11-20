@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 38585 - 38587
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/184000000/3858538587.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-22'
+entry_into_force:
+  date: '2009-09-22'
+  rule: após a sua publicação no Diário da República, no sítio electrónico e nos locais de estilo da Universidade de Lisboa
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

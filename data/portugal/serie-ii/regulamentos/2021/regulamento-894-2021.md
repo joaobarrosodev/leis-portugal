@@ -23,6 +23,16 @@ publication:
   pages: 217 - 225
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/194000000/0021700225.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias após a sua publicitação nos termos legais, devendo ser afixado, a todo o tempo, na Escola Básica e Secundária
+    das Lajes do Pico, nas Juntas de Freguesia do Concelho e publicado no site da Câma
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

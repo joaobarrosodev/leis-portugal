@@ -23,6 +23,15 @@ publication:
   pages: 6 - 8
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/106068000/0000600008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos 10 dias subsequentes à sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

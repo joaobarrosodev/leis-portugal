@@ -24,6 +24,15 @@ publication:
   pages: 29936 - 29939
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/164000000/2993629939.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

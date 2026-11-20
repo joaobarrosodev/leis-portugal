@@ -23,6 +23,16 @@ publication:
   pages: 536 - 546
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/140000000/0053600546.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Executivo da Junta de Freguesia e pela aprovação da Assembleia de Freguesia de São Roque
+    e quinze dias após a sua publicitação nos termos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 254 - 272
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/158000000/0025400272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-05'
+entry_into_force:
+  date: '2024-08-05'
+  rule: no dia 5 de agosto de 2024, considerando-se ratificados todos os atos praticados no seu âmbito, desde aquela data
+    até à data da respetiva publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

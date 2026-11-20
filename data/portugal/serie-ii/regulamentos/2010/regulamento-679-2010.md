@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/156000000/4350843512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:852862:por#art-22'
+    detail: É revogado o [Regulamento n.º 679/2010], publicado no DR, 2.ª série, n.º 156, de 12 de Agosto de 2010.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9784 - 9786
   pdf_url: https://files.diariodarepublica.pt/2s/2012/03/054000000/0978409786.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-16'
+entry_into_force:
+  date: '2012-03-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

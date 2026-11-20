@@ -24,6 +24,15 @@ publication:
   pages: 21625 - 21628
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/150000000/2162521628.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua homologação pelo Presidente do IPCA
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

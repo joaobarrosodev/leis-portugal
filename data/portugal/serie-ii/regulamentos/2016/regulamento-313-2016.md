@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10251 - 10257
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/059000000/1025110257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-25'
+entry_into_force:
+  date: '2016-03-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

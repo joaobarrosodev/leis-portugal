@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 506 - 527
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/072000000/0050600527.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-12'
+entry_into_force:
+  date: '2024-04-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República, ficando expressamente revogados todos os anteriores,
+    versando sobre o mesmo assunto
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 9948 - 9960
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/040000000/0994809960.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Jornal Oficial, sem prejuízo das demais formas de publicação e de publicidade
+    previstas na lei
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

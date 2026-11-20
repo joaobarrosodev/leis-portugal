@@ -23,6 +23,15 @@ publication:
   pages: 3 - 7
   pdf_url: https://files.diariodarepublica.pt/2s/2006/03/061029000/0000300007.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação no jornal oficial
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

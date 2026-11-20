@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13942 - 13947
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/191000000/1394213947.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-09-28'
+entry_into_force:
+  date: '2001-09-28'
+  rule: a 28 de Setembro de 2001, revogando as normas n.os 70/1991 e 71/1991, de 13 de Março, e 16/1996, de 3 de Outubro
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

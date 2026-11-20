@@ -23,6 +23,15 @@ publication:
   pages: 93 - 112
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/171000000/0009300112.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da respetiva homologação pelo conselho diretivo do LNEC
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

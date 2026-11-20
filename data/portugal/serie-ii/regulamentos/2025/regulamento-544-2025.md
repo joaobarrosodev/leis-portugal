@@ -23,6 +23,16 @@ publication:
   pages: 349 - 367
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/085000000/0034900367.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia posterior à sua publicitação no sítio da Internet do Município, ficando disponível para consulta uma cópia
+    nos serviços
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

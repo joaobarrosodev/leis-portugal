@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1206 - 1213
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/141000000/0120601213.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-23'
+entry_into_force:
+  date: '2026-07-23'
+  rule: na data da sua publicação no Diário da República e no sítio da Internet da Junta de Freguesia de Galegos (Santa Maria)
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

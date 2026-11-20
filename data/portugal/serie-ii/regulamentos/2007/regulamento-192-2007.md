@@ -22,9 +22,32 @@ publication:
   supplement: null
   pages: 22908 - 22910
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/154000000/2290822910.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-11'
+entry_into_force:
+  date: '2007-08-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:70461447:por#art-23'
+    detail: É revogado o [Regulamento n.º 192/2007] denominado "Regulamento para a Concessão de Apoios ao Desenvolvimento
+      Cultural, Educacional, Social, Recreativo e Desportivo", publicado na 2.ª série do Diário da República, n.º 154, de
+      10 de agosto de 2007.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:70737887:por#art-28'
+    detail: É revogado o [Regulamento n.º 192/2007] denominado "Regulamento para a Concessão de Apoios ao Desenvolvimento
+      Cultural, Educacional, Social, Recreativo e Desportivo", publicado na 2.ª série do Diário da República, n.º 154, de
+      10 de agosto de 2007.
 notes: []
 language: por
 version:

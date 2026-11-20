@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/115000000/1695516958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:925410097:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 376/2018], publicado no Diário da República, 2.ª série, n.º 115
+      de 18 de junho de 2018.
 notes: []
 language: por
 version:

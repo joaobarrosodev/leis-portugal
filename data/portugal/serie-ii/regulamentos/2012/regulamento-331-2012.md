@@ -23,6 +23,16 @@ publication:
   pages: 27392 - 27395
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/150000000/2739227395.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de início de produção de efeitos do Decreto-Lei n.º 48/2011, de 1 de abril, nos termos do artigo 7.º da Portaria
+    n.º 131/2011, de 4 de abril
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

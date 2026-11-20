@@ -23,6 +23,15 @@ publication:
   pages: 6241 - 6256
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/022000000/0624106256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-109
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

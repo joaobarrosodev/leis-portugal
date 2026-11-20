@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28271 - 28278
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/155000000/2827128278.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-25'
+entry_into_force:
+  date: '2012-08-25'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

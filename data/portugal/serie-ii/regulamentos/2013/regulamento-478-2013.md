@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36528 - 36539
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/247000000/3652836539.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-04'
+entry_into_force:
+  date: '2014-01-04'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 349 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/066000000/0034900359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nesta data
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

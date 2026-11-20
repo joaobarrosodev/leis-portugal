@@ -46,8 +46,8 @@ version:
   consolidation_date: '2021-10-22'
 version_history:
   file: decreto-lei-31-2006.versoes.json
-  count: 5
-  source_lastmod: '2024-06-25'
+  count: 6
+  source_lastmod: '2026-11-17'
   versions:
   - date: '2006-02-15'
     amending: null
@@ -115,6 +115,28 @@ version_history:
     changes:
     - Altera Artigo 8.º
     - Altera Artigo 40.º-B
+  - date: '2027-01-04'
+    amending: pt:dre:1191346238:por
+    amending_title: Lei n.º 65/2026
+    changes:
+    - Adita Artigo 12.º-E
+    - Adita Artigo 12.º-F
+    - Adita Artigo 12.º-G
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º-C
+    - Altera Artigo 12.º-D
+    - Altera Artigo 13.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 24.º-C
+    - Altera Artigo 40.º-B
+    - Altera Artigo 40.º-C
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/31/2006/p/cons/20211021/pt/html
@@ -129,10 +151,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2006/p/cons/20211021/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-70958790
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-70958790
-  retrieved_at: '2026-10-22T12:04:12Z'
+  retrieved_at: '2026-11-20T13:53:39Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-17T00:00:00Z'
 integrity:
   source_sha256: 25f2a0b333c1f6eca83e75559e071c19150863292fb24d76c2da8ae023cf9d9e
   source_sha256_scope: official_source_content_bytes
@@ -140,8 +162,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:04:12Z'
-  notes: 5 versão(ões); histórico completo em decreto-lei-31-2006.versoes.json.
+  generated_at: '2026-11-20T13:53:39Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-31-2006.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,6 +210,14 @@ relationships:
   label: Altera Artigo 8.º; Altera Artigo 40.º-B
   source: https://diariodarepublica.pt/dr/detalhe/lei/69-a-2021-173166329
   date: '2021-10-21'
+- type: amended_by
+  target: pt:dre:1191346238:por
+  label: Adita Artigo 12.º-E; Adita Artigo 12.º-F; Adita Artigo 12.º-G; Altera Artigo 3.º; Altera Artigo 12.º-C; Altera Artigo
+    12.º-D; Altera Artigo 13.º-A; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo
+    18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º-A; Altera Artigo 24.º-C; Altera Artigo 40.º-B; Altera
+    Artigo 40.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238
+  date: '2026-11-05'
 - type: cites
   target: pt:dre:408366:por
   label: null
@@ -205,7 +235,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:04:12Z'
+  checked_at: '2026-11-20T13:53:39Z'
   warnings: []
   errors: []
 ---

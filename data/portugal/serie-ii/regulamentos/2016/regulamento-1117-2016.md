@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/244000000/3726237265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:122142325:por#art-15'
+    detail: É revogado o [Regulamento n.º 1117/2016], publicado na 2.ª série do Diário da República n.º 244, de 22 de dezembro
+      de 2016.
 notes: []
 language: por
 version:

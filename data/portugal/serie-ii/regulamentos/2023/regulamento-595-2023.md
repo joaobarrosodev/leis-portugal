@@ -23,6 +23,15 @@ publication:
   pages: 321 - 328
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/103000000/0032100328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediato ao da sua publicação por edital
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

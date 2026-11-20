@@ -23,6 +23,15 @@ publication:
   pages: 22237 - 22240
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/121000000/2223722240.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado e no dia imediato ao da sua publicação, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

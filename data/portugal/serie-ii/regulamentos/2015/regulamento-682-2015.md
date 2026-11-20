@@ -24,8 +24,24 @@ publication:
   pages: 28890 - 28894
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/196000000/2889028894.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1079638475:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 682/2015], publicado no Diário da República, 2.ª série, n.º 196
+      de 07 de outubro de 2015.
 notes: []
 language: por
 version:

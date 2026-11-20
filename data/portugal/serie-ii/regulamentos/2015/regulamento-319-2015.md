@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 15104 - 15105
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/110000000/1510415105.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-09'
+entry_into_force:
+  date: '2015-06-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

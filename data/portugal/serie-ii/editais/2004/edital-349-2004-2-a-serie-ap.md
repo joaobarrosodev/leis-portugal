@@ -23,6 +23,15 @@ publication:
   pages: 9 - 14
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/118065000/0000900014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a data da sua publicação, nos termos legais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

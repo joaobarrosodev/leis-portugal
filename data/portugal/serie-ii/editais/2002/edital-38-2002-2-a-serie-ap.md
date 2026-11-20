@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 114 - 117
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/024007000/0011400117.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-28'
+entry_into_force:
+  date: '2002-02-28'
+  rule: 30 dias após a data da sua publicação no Boletim Municipal e ou em edital afixado nos lugares de estilo
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

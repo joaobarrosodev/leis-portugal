@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30882 - 30882
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/199000000/3088230882.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-18'
+entry_into_force:
+  date: '2016-10-18'
+  rule: no dia seguinte ao da sua publicação em Diário da República, sem prejuízo do disposto no n.º 3 do artigo 4.º do Decreto-Lei
+    n.º 44/2005, de 23 de Fevereiro
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 338 - 345
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/042000000/0033800345.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-29'
+entry_into_force:
+  date: '2020-03-29'
+  rule: 30 dias após a sua publicação no Diário da República e no sítio institucional da Câmara Municipal de Vila Franca de
+    Xira, sem prejuízo da afixação nos respetivos locais de trabalho
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

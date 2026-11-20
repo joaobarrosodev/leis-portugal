@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 24681 - 24684
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/167000000/2468124684.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-28'
+entry_into_force:
+  date: '2015-08-28'
+  rule: 'no dia seguinte ao da sua publicação em Diário da República, anulando o Regulamento n.º 354/2014, publicado no Diário
+    da República, 2.ª série, n.º 152 de 8 de agosto de 2014, bem como a declaração de '
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 32540-(66) a 32540-(70)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/215000002/0006600070.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2007-2008
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

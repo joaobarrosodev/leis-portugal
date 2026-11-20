@@ -23,6 +23,16 @@ publication:
   pages: 635 - 644
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/148000000/0063500644.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a data da sua publicitação, nos termos legais e mediante edital a afixar nos locais próprios,
+    incluindo a divulgação no sítio da internet https://www.cm-montemornovo.pt/municipe/
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

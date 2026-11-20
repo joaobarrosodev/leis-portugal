@@ -24,6 +24,15 @@ publication:
   pages: 558 - 561
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/076000000/0055800561.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2017/2018
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

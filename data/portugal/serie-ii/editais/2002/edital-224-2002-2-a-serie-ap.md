@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/118065000/0002600028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-21'
+entry_into_force:
+  date: '2002-06-21'
+  rule: 30 dias após a sua publicação no Diário da República, 2.ª série, conforme dispõe o n.º 4 do artigo 29.º da Lei n.º
+    42/98, de 6 de Agosto
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

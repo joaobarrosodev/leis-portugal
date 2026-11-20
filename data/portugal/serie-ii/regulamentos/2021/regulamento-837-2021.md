@@ -24,6 +24,16 @@ publication:
   pages: 275 - 278
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/174000000/0027500278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Intermunicipal, no dia seguinte ao da sua publicitação e divulgação a todos os
+    trabalhadores/colaboradores da CIM do Médio Tejo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

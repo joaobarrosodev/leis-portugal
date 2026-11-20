@@ -24,8 +24,24 @@ publication:
   pages: 7545 - 7546
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/055000000/0754507546.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124392029:por#art-18'
+    detail: O presente regulamento revoga o [Regulamento n.º 116/2014], publicado no Diário da República, 2.ª série, n.º 55,
+      de 19 de março de 2014.
 notes: []
 language: por
 version:

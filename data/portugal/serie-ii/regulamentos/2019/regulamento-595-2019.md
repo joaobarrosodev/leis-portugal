@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 225 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/142000000/0022500263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-01'
+entry_into_force:
+  date: '2019-08-01'
+  rule: no dia 1 de agosto de 2019
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

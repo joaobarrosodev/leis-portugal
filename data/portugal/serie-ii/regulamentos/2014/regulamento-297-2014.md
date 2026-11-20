@@ -23,6 +23,16 @@ publication:
   pages: 17890 - 17893
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/131000000/1789017893.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à homologação pelo diretor e pelo administrador do ISPO, após apreciação e aprovação do conselho
+    técnico-científico do ISPO
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

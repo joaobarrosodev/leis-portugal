@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 97 - 103
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/067036000/0009700103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-03'
+entry_into_force:
+  date: '2004-04-03'
+  rule: 15 dias após a sua publicação, considerando-se revogadas todas as normas anteriormente em vigor sobre a matéria aqui
+    regulamentada
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

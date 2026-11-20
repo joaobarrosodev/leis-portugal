@@ -23,6 +23,16 @@ publication:
   pages: 476 - 482
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/253000000/0047600482.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no primeiro dia de janeiro do ano de 2021, após publicação no Diário da República, 2.ª série, publicação de edital,
+    a afixar nos edifícios sede e delegação da Junta de Freguesia e publicitado através '
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

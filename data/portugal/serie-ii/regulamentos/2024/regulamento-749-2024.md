@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 377 - 402
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/134000000/0037700402.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-12'
+entry_into_force:
+  date: '2024-07-12'
+  rule: após a sua publicação no Diário da República, sem prejuízo da sua publicação na página eletrónica do Município
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

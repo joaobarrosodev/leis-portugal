@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19674 - 19681
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/172000000/1967419681.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-21'
+entry_into_force:
+  date: '2017-09-21'
+  rule: 15 dias após a sua publicação e aplica-se aos contratos de arrendamento apoiado em vigor
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 69 - 73
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/135097000/0006900073.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

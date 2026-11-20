@@ -29,7 +29,7 @@ entry_into_force:
   rule: no 1.º dia do mês seguinte ao período de um mês após cinco Estados, incluindo pelo menos três Estados membros do Conselho
     da Europa e ou da região Europa da UNESCO, terem manifestado o seu consentimen
   method: clausula
-  article: art-vii
+  article: art-xi-2
   effects_date: null
   effects_rule: null
   end_date: null

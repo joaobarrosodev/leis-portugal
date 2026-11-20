@@ -24,6 +24,16 @@ publication:
   pages: 251-(2) a 251-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/178000001/0000200013.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação no Diário da República, para produzir efeitos no ano letivo de 2022-2023, e
+    seguintes, revogando o anterior sobre a mesma matéria
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

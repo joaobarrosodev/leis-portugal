@@ -23,6 +23,15 @@ publication:
   pages: 27202 - 27203
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/132000000/2720227203.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: no ano lectivo de 2009-2010
 end_of_validity_date: null
 legal_status: unknown
 notes: []

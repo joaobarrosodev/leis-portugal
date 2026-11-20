@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-09-18'
+version_history:
+  file: declaracao-162-2014.versoes.json
+  count: 1
+  source_lastmod: '2026-11-13'
+  versions:
+  - date: '2014-09-18'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/162-2014-56919644
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/162-2014-56919644
-  consolidated_url: null
-  retrieved_at: '2026-11-12T18:48:37Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2014-1195290375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2014-1195290375
+  retrieved_at: '2026-11-20T13:52:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-13T00:00:00Z'
 integrity:
-  source_sha256: 25f0a91e76a8c09054485b41391b92e933c0eef69a5ca9393eef0d37690a6364
+  source_sha256: fbc4dbc4dfff3d64e59392401e72b02edfc6300edd41d56309237ed22895fee2
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-11-12T18:48:37Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:54Z'
+  notes: 1 versão(ões); histórico completo em declaracao-162-2014.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,23 +104,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-11-12T18:48:37Z'
+  checked_at: '2026-11-20T13:52:54Z'
   warnings: []
   errors: []
 ---
 
 # Declaração n.º 162/2014
 
-Dr.ª Daniela dos Santos Costa Braga de Oliveira, Juiz de Paz do Julgado de Paz de Agrupamento de concelhos de Tarouca/Armamar/Castro Daire/Moimenta da Beira/Resende - renovada a sua nomeação como Juiz de Paz, agora por um período de cinco anos, nos termos do n.º 3 do artigo 25.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), na redação da [Lei n.º 54/2013](https://diariodarepublica.pt/dr/detalhe/lei/54-2013-498679), de 31.07, por Deliberação do Conselho dos Julgados de Paz de 9 de setembro de 2014.
+Dr.ª Daniela dos Santos Costa Braga de Oliveira, Juiz de Paz do Julgado de Paz de Agrupamento de concelhos de Tarouca/Armamar/Castro Daire/Moimenta da Beira/Resende - renovada a sua nomeação como Juiz de Paz, agora por um período de cinco anos, nos termos do n.º 3 do artigo 25.º da Lei n.º 78/2001, na redação da Lei n.º 54/2013, de 31.07, por Deliberação do Conselho dos Julgados de Paz de 9 de setembro de 2014.
 
-Sem necessidade de nova posse, visto que continua colocada no Julgado de Paz do Seixal.
-
-11 de setembro de 2014. - O Presidente, J. O. Cardona Ferreira, juiz conselheiro.
-
-208088761
+Sem necessidade de nova posse, visto que continua colocada no Julgado de Paz de Agrupamento de Concelhos de Tarouca/Armamar/Castro Daire/Moimenta da Beira/Resende.

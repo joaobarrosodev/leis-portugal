@@ -24,6 +24,15 @@ publication:
   pages: 183 - 194
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/015000000/0018300194.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes e publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/067000000/0014000141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1122041503:por#n-3'
+    detail: 3 - É revogada a [Deliberação n.º 498/2025], aprovada em sessão de 20 de março de 2025 e publicada no Diário da
+      República, 2.ª série, n.º 67, de 4 de abril de 2025.
 notes: []
 language: por
 version:

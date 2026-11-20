@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9399 - 9465
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/075000000/0939909465.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-04-22'
+entry_into_force:
+  date: '2015-04-22'
+  rule: 5 dias após a data da publicação na 2.ª série do Diário da República
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

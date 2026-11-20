@@ -23,6 +23,16 @@ publication:
   pages: 186 - 190
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/219000000/0018600190.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após divulgação nos meios de comunicação oficiais da Ordem, após homologação pela direção nacional e publicação no
+    Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

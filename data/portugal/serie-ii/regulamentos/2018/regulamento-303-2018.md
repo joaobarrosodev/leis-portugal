@@ -23,8 +23,25 @@ publication:
   pages: 14581 - 14583
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/098000000/1458114583.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:159304152:por#art-21'
+    detail: Fica revogado o [Regulamento n.º 303/2018], publicado no Diário da República n.º 98 da 2.ª série de 22 de maio
+      de 2018 e da alteração de ratificação n.º 742/2018, publicada no Diário da República n.º 196 da 2.ª série de 11 de outubro
+      de 2018
 notes: []
 language: por
 version:

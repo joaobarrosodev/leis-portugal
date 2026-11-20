@@ -23,6 +23,16 @@ publication:
   pages: 28706 - 28708
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/195000000/2870628708.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2015/2016 à exceção do artigo 3.º n.º 3 que, face aos acordos já existentes com a Southern Medical
+    University e a Fundação Getúlio Vargas, para estes casos, apenas
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

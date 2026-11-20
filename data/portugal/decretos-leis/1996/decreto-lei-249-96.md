@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto-Lei n.º 216/2002, que também altera o Decreto-Lei n.º 218/90, o diploma que este
+    alterava; o DRE regista a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:432176:por'
+    detail: É revogado o Decreto-Lei n.º 249/96, de 24 de Dezembro.
 notes: []
 language: por
 version:
@@ -97,6 +106,11 @@ relationships:
   target: pt:dre:575498:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:432176:por
+  label: Revogado por inteiro pelo Decreto-Lei n.º 216/2002, que também altera o Decreto-Lei n.º 218/90, o diploma que este
+    alterava; o DRE regista a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:432176:por
   label: "Revogado pelo DEC LEI.216/2002.2002.10.22.MNE DR.IS-A [244]\0\0"

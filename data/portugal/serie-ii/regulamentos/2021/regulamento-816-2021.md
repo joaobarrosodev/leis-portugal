@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/169000000/0022500238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:221673837:por#art-37'
+    detail: São revogados o [Regulamento n.º 816/2021], de 31 de agosto, e o plano de estudos contante do respetivo anexo.
 notes: []
 language: por
 version:

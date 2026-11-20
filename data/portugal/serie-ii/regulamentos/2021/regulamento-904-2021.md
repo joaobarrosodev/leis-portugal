@@ -23,6 +23,15 @@ publication:
   pages: 295 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/198000000/0029500300.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2021-22, inclusive
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

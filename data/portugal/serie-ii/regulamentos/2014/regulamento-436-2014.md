@@ -23,6 +23,16 @@ publication:
   pages: 25942 - 25945
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/196000000/2594225945.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2014/2015 e revoga o RGACC do ISCTE-IUL, Despacho n.º 21434/2009 publicado no Diário da República, 2.ª
+    série, n.º 185, de 23 de setembro de 2009, na parte respeitante a cursos de 2.º cic
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

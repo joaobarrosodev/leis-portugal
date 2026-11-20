@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17132 - 17132
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/234000000/1713217132.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-01'
+entry_into_force:
+  date: '2005-12-01'
+  rule: no dia 1 de Dezembro de 2005
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

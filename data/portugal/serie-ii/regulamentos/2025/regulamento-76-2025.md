@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1404 - 1408
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/008000000/0140401408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-14'
+entry_into_force:
+  date: '2025-01-14'
+  rule: no dia a seguir ao da sua publicação no sítio do ISTEC Lisboa (www.istec.pt) e nos demais locais habituais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

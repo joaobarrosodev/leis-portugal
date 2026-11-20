@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 355 - 363
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/202000000/0035500363.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-18'
+entry_into_force:
+  date: '2024-10-18'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo também publicado na página institucional do Município
+    de Penalva do Castelo em www.cm-penalvadocastelo.pt
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1152764194:por#art-16'
+    detail: É expressamente revogado o [Regulamento n.º 1179/2024] que aprova o Regulamento Municipal de Atribuição de Bolsas
+      de Estudo para o Ensino Superior, publicado na 2.ª série, n.º 202, do dia 17/10/2024, do Diário da República.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6841 - 6845
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/071000000/0684106845.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-15'
+entry_into_force:
+  date: '2017-04-15'
+  rule: cinco dias após a sua publicação por edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

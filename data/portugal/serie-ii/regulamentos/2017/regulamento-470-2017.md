@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19232 - 19232
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/169000000/1923219232.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-01'
+entry_into_force:
+  date: '2017-10-01'
+  rule: no primeiro dia do mês subsequente à sua publicação no Diário da República
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

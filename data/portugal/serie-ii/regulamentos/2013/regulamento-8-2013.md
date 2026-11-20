@@ -23,6 +23,15 @@ publication:
   pages: 404 - 405
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/003000000/0040400405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 11.º útil após a sua publicitação nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

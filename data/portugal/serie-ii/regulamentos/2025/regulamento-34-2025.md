@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 536 - 546
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/005000000/0053600546.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-09'
+entry_into_force:
+  date: '2025-01-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

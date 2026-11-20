@@ -23,6 +23,15 @@ publication:
   pages: 412 - 413
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/079000000/0041200413.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação na página Web da NOVA School of Law
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

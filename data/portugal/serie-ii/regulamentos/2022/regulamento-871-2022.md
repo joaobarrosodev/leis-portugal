@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 195 - 204
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/176000000/0019500204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-13'
+entry_into_force:
+  date: '2022-09-13'
+  rule: no dia seguinte à sua publicação no Diário da República, nos termos legais, e após a devida aprovação pelos órgãos
+    de gestão do TERRA
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

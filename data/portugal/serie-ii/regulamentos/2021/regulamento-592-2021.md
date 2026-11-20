@@ -23,6 +23,15 @@ publication:
   pages: 466 - 472
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/124000000/0046600472.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação através de comunicação de serviço
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

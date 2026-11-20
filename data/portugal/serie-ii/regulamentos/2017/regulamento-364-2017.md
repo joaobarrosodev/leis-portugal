@@ -23,6 +23,16 @@ publication:
   pages: 14496 - 14498
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/133000000/1449614498.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação na 2.ª série do Diário da República, adquirindo plena eficácia
+    a partir dessa data
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

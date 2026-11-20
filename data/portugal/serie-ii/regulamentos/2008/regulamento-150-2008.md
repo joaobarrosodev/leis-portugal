@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13529 - 13530
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/061000000/1352913530.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-28'
+entry_into_force:
+  date: '2008-03-28'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 131-141
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/01/10/177451075.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-01-01'
+entry_into_force:
+  date: '2022-01-01'
+  rule: no dia 1 de Janeiro de 2022, e após a sua aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

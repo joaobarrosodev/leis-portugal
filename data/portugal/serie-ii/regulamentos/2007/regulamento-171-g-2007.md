@@ -23,6 +23,15 @@ publication:
   pages: 22104-(155) a 22104-(158)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/148000001/0015500158.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

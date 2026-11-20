@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/046000000/1022610230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:863217569:por#art-20'
+    detail: O presente Regulamento revoga o [Regulamento n.º 181/2010], publicado no Diário da República, em 08 de março,
+      2.ª série n.º 46, alterado pelo [Aviso n.º 15577/2018], publicado no Diário da República, em 29 de outubro, 2.ª série,
+      n.º 208.
 notes: []
 language: por
 version:

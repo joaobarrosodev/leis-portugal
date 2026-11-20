@@ -23,6 +23,16 @@ publication:
   pages: 739 - 768
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/015000000/0073900768.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do período da candidatura anual, conforme definido no n.º 1 do artigo 35.º, após a sua publicação
+    no Diário da República
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

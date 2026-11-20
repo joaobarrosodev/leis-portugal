@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 277 - 277
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/058000000/0027700277.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-25'
+entry_into_force:
+  date: '2025-03-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: para todos os cursos incluídos no projeto “IPV Região Impulsiona e Inclui” e para os incentivos atribuídos
+    no ano letivo 2024/2025, desde que enquadrados no período de financiamento do mesmo projeto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

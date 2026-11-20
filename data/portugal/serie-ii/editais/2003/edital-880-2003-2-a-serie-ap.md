@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2003/11/274177000/0001800022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-26'
+entry_into_force:
+  date: '2003-12-26'
+  rule: 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

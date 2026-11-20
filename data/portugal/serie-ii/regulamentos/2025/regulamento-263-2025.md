@@ -23,6 +23,15 @@ publication:
   pages: 582 - 622
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/037000000/0058200622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação no Diário da República, com exceção dos artigos 50.º, 51.º, 52.º e 53.º que
+  method: clausula
+  article: art-73
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

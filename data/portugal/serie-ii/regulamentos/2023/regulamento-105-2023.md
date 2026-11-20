@@ -23,6 +23,16 @@ publication:
   pages: 567 - 571
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/015000000/0056700571.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, sendo também publicado em edital a afixar no edifício
+    da sede da Junta de Freguesia de Benespera
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

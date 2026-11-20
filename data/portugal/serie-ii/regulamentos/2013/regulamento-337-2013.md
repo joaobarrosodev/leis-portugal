@@ -24,6 +24,15 @@ publication:
   pages: 27511 - 27511
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/168000000/2751127511.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o ano letivo 2013-2014
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

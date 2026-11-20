@@ -23,6 +23,15 @@ publication:
   pages: 579 - 584
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/196000000/0057900584.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após aprovação em reunião da Assembleia de Freguesia de São Vicente
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 100 - 102
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/234000000/0010000102.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-06'
+entry_into_force:
+  date: '2023-12-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República e aplica-se a partir do ano letivo 2022/2023
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:885969703:por#art-34'
+    detail: É revogado o [Regulamento n.º 1295/2023], publicado no Diário da República, 2.ª série, n.º 234, de 5 de dezembro
+      e os despachos reitorais n.os38/2023, de 26 de julho de 2023 e 36/2024 de 7 de junho de 2024.
 notes: []
 language: por
 version:

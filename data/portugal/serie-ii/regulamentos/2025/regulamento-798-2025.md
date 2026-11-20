@@ -23,6 +23,16 @@ publication:
   pages: 612 - 615
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/126000000/0061200615.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e tem efeitos retroativos a 01 de maio de
+    2024, data em que foi deliberado a criação do presente pelo Executivo da Junta de Fr
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

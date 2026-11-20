@@ -24,6 +24,15 @@ publication:
   pages: 243 - 255
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/154000000/0024300255.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua homologação pelo Presidente, sendo aplicável a partir do ano letivo de 2026-2027
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

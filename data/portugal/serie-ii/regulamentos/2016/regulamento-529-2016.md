@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16709 - 16711
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/102000000/1670916711.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-01'
+entry_into_force:
+  date: '2016-06-01'
+  rule: 5 dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

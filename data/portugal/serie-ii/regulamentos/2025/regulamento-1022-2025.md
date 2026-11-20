@@ -23,6 +23,16 @@ publication:
   pages: 371 - 385
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/160000000/0037100385.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, sendo igualmente publicitado na página da Internet
+    da Câmara Municipal de Ponte de Sor
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

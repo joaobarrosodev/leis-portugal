@@ -24,8 +24,24 @@ publication:
   pages: 12888 - 12890
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/079000000/1288812890.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: um dia após a respetiva publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:185897583:por#art-12'
+    detail: 3 - O presente regulamento revoga o [Regulamento n.º 398/2016], publicado no DR, 2.ª, n.º 79, de 22 de abril de
+      2016.
 notes: []
 language: por
 version:

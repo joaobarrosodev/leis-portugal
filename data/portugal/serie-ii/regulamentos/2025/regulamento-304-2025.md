@@ -23,6 +23,16 @@ publication:
   pages: 438 - 446
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/046000000/0043800446.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Executivo da Junta de Freguesia e pela aprovação da Assembleia de Freguesia de Glória e
+    Vera Cruz 30 dias após a sua publicitação nos termos legais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

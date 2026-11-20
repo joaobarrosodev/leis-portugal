@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13919 - 13920
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/104000000/1391913920.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-28'
+entry_into_force:
+  date: '2015-06-28'
+  rule: trinta dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

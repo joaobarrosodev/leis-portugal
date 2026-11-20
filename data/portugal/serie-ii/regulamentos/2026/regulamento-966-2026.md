@@ -23,6 +23,16 @@ publication:
   pages: 466 - 479
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/140000000/0046600479.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias úteis após a sua publicação no Diário da República, nos termos legais, sem prejuízo da sua publicação
+    no Boletim Municipal e na página institucional eletrónica do Município da Amadora
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

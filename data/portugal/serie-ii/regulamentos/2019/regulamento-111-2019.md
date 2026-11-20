@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3971 - 3980
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/019000000/0397103980.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-02'
+entry_into_force:
+  date: '2019-02-02'
+  rule: no quinto dia após a sua publicação do Diário da República
+  method: clausula
+  article: art-97
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

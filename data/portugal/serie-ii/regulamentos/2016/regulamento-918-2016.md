@@ -23,6 +23,15 @@ publication:
   pages: 30343 - 30344
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/195000000/3034330344.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

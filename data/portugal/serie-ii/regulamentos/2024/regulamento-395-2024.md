@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 238 - 246
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/068000000/0023800246.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-04-06'
+entry_into_force:
+  date: '2024-04-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 10
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/231158000/0000300010.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-12-17'
+entry_into_force:
+  date: '2005-12-17'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-78
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

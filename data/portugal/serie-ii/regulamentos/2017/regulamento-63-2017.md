@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1850 - 1852
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/018000000/0185001852.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-26'
+entry_into_force:
+  date: '2017-01-26'
+  rule: no dia seguinte ao da sua publicação nos meios legalmente definidos
+  method: clausula
+  article: n-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12612 - 12622
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/064000000/1261212622.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-16'
+entry_into_force:
+  date: '2009-04-16'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

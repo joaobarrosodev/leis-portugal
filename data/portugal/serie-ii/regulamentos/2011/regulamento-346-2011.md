@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22015 - 22049
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/098000000/2201522049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-21'
+entry_into_force:
+  date: '2011-05-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-109
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

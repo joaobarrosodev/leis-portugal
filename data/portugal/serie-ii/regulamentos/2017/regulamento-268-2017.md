@@ -24,6 +24,15 @@ publication:
   pages: 9927 - 9927
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/097000000/0992709927.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pelo Conselho Científico da ESAP, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

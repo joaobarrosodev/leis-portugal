@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1643 - 1644
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/008000000/0164301644.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-26'
+entry_into_force:
+  date: '2008-01-26'
+  rule: 15 dias após a publicação no Diário da República do aviso de aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

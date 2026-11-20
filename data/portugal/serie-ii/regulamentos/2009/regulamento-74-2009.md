@@ -23,6 +23,15 @@ publication:
   pages: 5577 - 5578
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/026000000/0557705578.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias, a contar da data da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

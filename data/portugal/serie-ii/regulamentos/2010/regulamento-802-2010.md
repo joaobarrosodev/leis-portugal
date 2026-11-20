@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 52163 - 52165
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/205000000/5216352165.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-21'
+entry_into_force:
+  date: '2010-10-21'
+  rule: a partir da data da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

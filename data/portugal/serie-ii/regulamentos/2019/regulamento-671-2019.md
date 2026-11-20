@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 191 - 195
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/162000000/0019100195.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-27'
+entry_into_force:
+  date: '2019-08-27'
+  rule: no dia seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

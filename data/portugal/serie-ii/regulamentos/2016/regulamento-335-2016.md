@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 10765 - 10769
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/062000000/1076510769.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-31'
+entry_into_force:
+  date: '2016-03-31'
+  rule: no dia seguinte ao da sua publicação no Diário da República e no sítio eletrónico da Ordem dos Arquitetos
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:210543553:por#art-29'
+    detail: É revogado o [Regulamento n.º 335/2016], publicado no Diário da República, 2.ª série, de 30 de março, alterado
+      e republicado em anexo ao [Regulamento n.º 892/2016], publicado no Diário da República, 2.ª série, de 28 de setembro.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15461 - 15463
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/112000000/1546115463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-16'
+entry_into_force:
+  date: '2015-06-16'
+  rule: no quinto dia após a sua publicação legal
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: para o ano letivo 2014/2015, inclusive, e anos seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

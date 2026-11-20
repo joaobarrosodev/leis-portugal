@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 76 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/140080000/0007600078.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-21'
+entry_into_force:
+  date: '2002-06-21'
+  rule: no dia a seguir ao da publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

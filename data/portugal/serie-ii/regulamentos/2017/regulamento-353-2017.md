@@ -23,6 +23,15 @@ publication:
   pages: 13801 - 13819
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/127000000/1380113819.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 10 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

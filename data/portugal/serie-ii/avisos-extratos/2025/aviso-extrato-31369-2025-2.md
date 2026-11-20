@@ -30,10 +30,19 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2025-12-24'
+version_history:
+  file: aviso-extrato-31369-2025-2.versoes.json
+  count: 1
+  source_lastmod: '2026-10-26'
+  versions:
+  - date: '2025-12-24'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -46,20 +55,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/aviso-extrato/31369-2025-992402142
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/aviso-extrato/31369-2025-992402142
-  consolidated_url: null
-  retrieved_at: '2026-10-26T13:39:26Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2025-1184076775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2025-1184076775
+  retrieved_at: '2026-11-20T13:49:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-26T00:00:00Z'
 integrity:
-  source_sha256: 19847b678f4ae670963d4ab1032ad3821e0ed8a2cefba6a9a8f57ca9957f4b30
+  source_sha256: 026ffbbcc239f36c97b940b70d05c8c66a17718a784e336d7b88594c77f57434
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T13:39:26Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:00Z'
+  notes: 1 versão(ões); histórico completo em aviso-extrato-31369-2025-2.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,30 +89,30 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T13:39:26Z'
+  checked_at: '2026-11-20T13:49:00Z'
   warnings: []
   errors: []
 ---
 
 # Aviso (extrato) n.º 31369/2025/2
 
-1 - Em cumprimento do disposto no artigo. 4.º [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, torna-se público que, na sequência da conclusão do procedimento concursal, aberto pelo [Aviso (extrato) n.º 15029/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/15029-2024-872779074), publicado no Diário da República, 2.ª série, n.º 140, de 22 de julho, foram celebrados contratos de trabalho em funções públicas por tempo indeterminado, sujeitos a período experimental, com os trabalhadores abaixo identificados, para ocupação de 2 (dois) postos de trabalho, previstos no mapa de pessoal do Instituto dos Registos e do Notariado, I. P., na carreira e categoria de técnico superior, para o exercício de funções no Departamento Patrimonial, nos seguintes termos:
+1 - Em cumprimento do disposto no artigo. 4.º Lei n.º 35/2014, de 20 de junho, torna-se público que, na sequência da conclusão do procedimento concursal, aberto pelo Aviso (extrato) n.º 15029/2024/2, publicado no Diário da República, 2.ª série, n.º 140, de 22 de julho, foram celebrados contratos de trabalho em funções públicas por tempo indeterminado, sujeitos a período experimental, com os trabalhadores abaixo identificados, para ocupação de 2 (dois) postos de trabalho, previstos no mapa de pessoal do Instituto dos Registos e do Notariado, I. P., na carreira e categoria de técnico superior, para o exercício de funções no Departamento Patrimonial, nos seguintes termos:
 
-| Nome | Produção de Efeitos | Posição Remuneratória | NívelRemuneratório |
+| Nome | Produção de Efeitos | Posição Remuneratória | Nível<br>Remuneratório |
 | --- | --- | --- | --- |
 | Ana Cristina Andrade Rosa | 01.08.2025 | 4.ª | 30.º |
 | Andreia Cristina Redondo Neves | 01.08.2025 | 1.ª | 16.º |
 
-2 - Com a celebração do contrato teve início o período experimental, nos termos e para os efeitos previstos nos artigos 45.º a 51.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+2 - Com a celebração do contrato teve início o período experimental, nos termos e para os efeitos previstos nos artigos 45.º a 51.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
 
-3 - Adicionalmente, e no cumprimento do disposto na alínea d) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, torna-se público que a trabalhadora abaixo identificada veio a denunciar, durante o período experimental, o respetivo contrato de trabalho em funções públicas por tempo indeterminado, celebrado com Instituto dos Registos e do Notariado, I. P., nos termos do artigo 47.º da LTFP:
+3 - Adicionalmente, e no cumprimento do disposto na alínea d) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que a trabalhadora abaixo identificada veio a denunciar, durante o período experimental, o respetivo contrato de trabalho em funções públicas por tempo indeterminado, celebrado com Instituto dos Registos e do Notariado, I. P., nos termos do artigo 47.º da LTFP:
 
-15 de dezembro de 2025. - A Coordenadora do Setor de Administração de Recursos Humanos, Helena Cristina Almeida Andrade Delca.
-
-319892073
+| Nome | Produção Efeitos |  |
+| --- | --- | --- |
+| Ana Cristina Andrade Rosa | 01/01/2026 |  |

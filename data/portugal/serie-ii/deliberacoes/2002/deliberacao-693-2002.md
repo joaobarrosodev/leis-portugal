@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7478 - 7479
   pdf_url: https://files.diariodarepublica.pt/2s/2002/04/094000000/0747807479.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-04-22'
+entry_into_force:
+  date: '2002-04-22'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

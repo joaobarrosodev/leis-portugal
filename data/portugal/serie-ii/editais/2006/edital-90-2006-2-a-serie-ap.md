@@ -23,6 +23,15 @@ publication:
   pages: 72 - 73
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/036018000/0007200073.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Câmara Municipal e pela Assembleia Municipal
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

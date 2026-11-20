@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 137 - 142
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/141000000/0013700142.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-26'
+entry_into_force:
+  date: '2019-07-26'
+  rule: no dia seguinte ao da sua publicação nos meios legalmente definidos
+  method: clausula
+  article: n-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

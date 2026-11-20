@@ -23,6 +23,15 @@ publication:
   pages: 200 - 208
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/134000000/0020000208.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação em reunião do Conselho técnico-científico
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

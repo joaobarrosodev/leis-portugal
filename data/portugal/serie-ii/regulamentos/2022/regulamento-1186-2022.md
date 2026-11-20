@@ -23,6 +23,15 @@ publication:
   pages: 77 - 113
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/245000000/0007700113.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal de Nazaré
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

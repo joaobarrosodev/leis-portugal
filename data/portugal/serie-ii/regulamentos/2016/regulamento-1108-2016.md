@@ -35,7 +35,13 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:162450396:por#art-35'
+    detail: É revogado o [Regulamento n.º 1108/2016], de 19 de dezembro.
 notes: []
 language: por
 version:

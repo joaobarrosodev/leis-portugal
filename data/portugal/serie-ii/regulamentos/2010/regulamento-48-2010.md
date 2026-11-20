@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 3087 - 3090
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/014000000/0308703090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-31'
+entry_into_force:
+  date: '2010-01-31'
+  rule: dez dias após a sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

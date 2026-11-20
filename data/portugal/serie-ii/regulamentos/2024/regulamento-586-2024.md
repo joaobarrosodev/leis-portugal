@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 291 - 312
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/100000000/0029100312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-22'
+entry_into_force:
+  date: '2024-06-22'
+  rule: trinta dias após a sua publicação no Diário da República, e será publicitado pelas formas e nos lugares de estilo
+    habituais
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

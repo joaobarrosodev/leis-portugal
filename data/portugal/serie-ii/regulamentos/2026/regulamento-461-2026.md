@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 203 - 221
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/084000000/0020300221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-01'
+entry_into_force:
+  date: '2026-05-01'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

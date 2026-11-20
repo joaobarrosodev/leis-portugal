@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34 - 39
   pdf_url: https://files.diariodarepublica.pt/2s/2001/11/271129000/0003400039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-12-22'
+entry_into_force:
+  date: '2001-12-22'
+  rule: 30 dias após a data da sua publicação em Diário da República
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

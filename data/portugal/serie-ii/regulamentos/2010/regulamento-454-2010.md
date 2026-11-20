@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26735 - 26742
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/095000000/2673526742.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-18'
+entry_into_force:
+  date: '2010-05-18'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

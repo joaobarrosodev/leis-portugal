@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 87 - 90
   pdf_url: https://files.diariodarepublica.pt/2s/2001/04/085043000/0008700090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-04-20'
+entry_into_force:
+  date: '2001-04-20'
+  rule: 10 dias após publicação dos competentes editais, não sendo aplicável a obras com alvará de licença já emitido à data,
+    mesmo que, se caducado, vier a ser sujeito a renovação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

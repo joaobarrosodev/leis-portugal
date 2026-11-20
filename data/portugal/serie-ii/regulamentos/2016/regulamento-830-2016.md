@@ -25,6 +25,15 @@ publication:
   pages: 26455 - 26457
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/161000000/2645526457.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

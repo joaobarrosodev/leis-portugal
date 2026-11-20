@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 334 - 341
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/138000000/0033400341.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-22'
+entry_into_force:
+  date: '2025-07-22'
+  rule: no dia imediato à sua publicação, sem prejuízo de por esta via serem ratificados os atos praticados entre a sua aprovação
+    e esta
+  method: clausula
+  article: n-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

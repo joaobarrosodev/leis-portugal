@@ -23,6 +23,15 @@ publication:
   pages: 195 - 210
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/242000000/0019500210.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicitação, e é revogado qualquer regulamento anterior com o mesmo objeto
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

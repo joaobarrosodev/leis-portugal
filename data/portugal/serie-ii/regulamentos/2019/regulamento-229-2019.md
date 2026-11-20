@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8065 - 8069
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/053000000/0806508069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-01'
+entry_into_force:
+  date: '2018-09-01'
+  rule: a 1 de setembro de 2018
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

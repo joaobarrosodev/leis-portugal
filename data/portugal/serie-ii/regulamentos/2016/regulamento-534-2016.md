@@ -23,6 +23,15 @@ publication:
   pages: 16888 - 16890
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/103000000/1688816890.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação em boletim municipal
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

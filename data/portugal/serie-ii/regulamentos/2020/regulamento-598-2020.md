@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 336 - 342
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/138000000/0033600342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-07-18'
+entry_into_force:
+  date: '2020-07-18'
+  rule: no dia imediato à data da sua publicação nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 381 - 383
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/088000000/0038100383.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia de Freguesia de Válega, com prévia aprovação pela Junta de Freguesia de Válega, em
+    data consecutiva à sua publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

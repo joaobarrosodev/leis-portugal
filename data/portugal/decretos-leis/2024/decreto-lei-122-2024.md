@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-03-29'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-122-2024.versoes.json
-  count: 2
-  source_lastmod: '2025-01-27'
+  count: 3
+  source_lastmod: '2026-11-03'
   versions:
   - date: '2024-12-31'
     amending: null
@@ -61,6 +61,13 @@ version_history:
     - Altera Artigo 26.º
     - Altera Artigo 30.º
     - Altera Artigo 31.º
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/122/2024/p/cons/20250328/pt/html
@@ -75,19 +82,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2024/p/cons/20250328/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-901693842
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-901693842
-  retrieved_at: '2026-10-22T13:22:19Z'
+  retrieved_at: '2026-11-20T13:49:44Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2025-01-27T00:00:00Z'
+  source_modified_at: '2026-11-03T00:00:00Z'
 integrity:
-  source_sha256: 90e5ac6b3f2d85d6efd34aa7c5f2f52caaa500d027d003c9db62fc9ba4c76006
+  source_sha256: a6adc5bf077f1f6127a69b92183229771824b0893bf7e35e4aefea9979cfcc26
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:22:19Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-122-2024.versoes.json.
+  generated_at: '2026-11-20T13:49:44Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-122-2024.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,6 +120,11 @@ relationships:
   label: Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 26.º; Altera Artigo 30.º; Altera Artigo 31.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662
   date: '2025-03-28'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -138,7 +150,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:22:19Z'
+  checked_at: '2026-11-20T13:49:44Z'
   warnings: []
   errors: []
 ---
@@ -283,9 +295,11 @@ ll) Desenvolver, no âmbito da sua atuação, a articulação com o Centro de Es
 
 mm) Proceder à apreciação preliminar de questões técnico-jurídicas de natureza substantiva ou processual, e consequente remessa para o Centro Jurídico do Estado acompanhado de todas as informações e documentação que se revelem necessárias para o efeito, bem como aquelas que sejam solicitadas por este serviço.
 
-2 - A ApC, I. P., pode assumir a função de beneficiário intermédio de fundos nacionais e europeus, mediante contratualização com as autoridades responsáveis pela execução desses fundos em Portugal, passando a ser globalmente responsável pela implementação física e financeira dos projetos inscritos nos contratos celebrados.
+2 - A ApC, I. P., pode assumir a função de organismo intermédio de fundos nacionais e europeus, mediante contratualização com as autoridades responsáveis pela execução desses fundos em Portugal, passando a ser globalmente responsável pela implementação física e financeira dos projetos inscritos nos contratos celebrados.
 
 3 - A ApC, I. P., pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais, relacionados com o desenvolvimento de políticas ambientais e de transição climática para a prossecução dos objetivos do desenvolvimento sustentável.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), em vigor a partir de 2025-03-29
 
@@ -367,9 +381,11 @@ d) Exercer as competências que lhe sejam delegadas pelo conselho diretivo;
 
 e) Atuar em nome da ApC, I. P., junto de entidades nacionais e internacionais, designadamente, assegurando contactos institucionais e integrando estruturas de missão, comissões, grupos de trabalho, ou participando em outras atividades em sua representação institucional;
 
-f) Atuar, por inerência, como diretor do Fundo Ambiental.
+f) [Revogada.]
 
 2 - O presidente pode delegar ou subdelegar, competências que lhe são cometidas, no vice-presidente, ou nos vogais, estabelecendo em cada caso, os respetivos limites e condições.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), em vigor a partir de 2025-03-29
 
@@ -847,7 +863,7 @@ finanças, do ambiente e do mar.»
 
 ###### Artigo 30.º — Regime remuneratório transitório do conselho diretivo da Agência para o Clima, I. P.
 
-1 - Durante o primeiro mandato dos membros do conselho diretivo é aplicável, para efeitos remuneratórios, o Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, auferindo as remunerações e despesas de representação previstas respetivamente para presidente, vice-presidente e vogal de empresa do grupo B nos termos previstos na Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro.
+1 - Durante os três mandatos dos membros do conselho diretivo é aplicável, para efeitos remuneratórios, o Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, auferindo as remunerações e despesas de representação previstas respetivamente para presidente, vice-presidente e vogal de empresa do grupo B nos termos previstos na Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro.
 
 2 - Durante o mandato referido no número anterior a remuneração base dos cargos de direção intermédia é determinada em percentagem da remuneração base do vogal do conselho diretivo da ApC, I. P., nas seguintes proporções:
 
@@ -856,6 +872,8 @@ a) Diretor de departamento, 80 %;
 b) Coordenadores de unidade, 65 %.
 
 3 - As despesas de representação dos cargos de direção intermédia de 1.º e 2.º graus, são determinadas em percentagem das despesas de representação do vogal do conselho diretivo da ApC, I. P., nos termos do número anterior.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), em vigor a partir de 2025-03-29
 

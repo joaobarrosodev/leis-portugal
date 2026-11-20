@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 43912 - 43924
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/209000000/4391243924.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-27'
+entry_into_force:
+  date: '2009-11-27'
+  rule: trinta dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

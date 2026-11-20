@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 50 - 51
   pdf_url: https://files.diariodarepublica.pt/2s/2006/11/219081000/0005000051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-11-14'
+entry_into_force:
+  date: '2006-11-14'
+  rule: após a publicação de editais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

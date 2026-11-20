@@ -23,6 +23,15 @@ publication:
   pages: 39846 - 39863
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/190000000/3984639863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 úteis após a sua publicitação no Diário da República, no Boletim Municipal e no site da Autarquia
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

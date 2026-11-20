@@ -23,6 +23,15 @@ publication:
   pages: 12286 - 12287
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/063000000/1228612287.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação definitiva pela Assembleia Municipal e a sua publicitação nos termos da Lei
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

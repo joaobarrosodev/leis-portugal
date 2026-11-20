@@ -23,6 +23,15 @@ publication:
   pages: 33116 - 33118
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/224000000/3311633118.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente seguinte à sua publicitação no site do Município
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

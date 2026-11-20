@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 99 - 107
   pdf_url: https://files.diariodarepublica.pt/2s/2000/10/251145000/0009900107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-11-29'
+entry_into_force:
+  date: '2000-11-29'
+  rule: 30 dias após a sua publicação, revogando o anterior Regulamento do Cemitério da Freguesia de Vale da Pinta
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

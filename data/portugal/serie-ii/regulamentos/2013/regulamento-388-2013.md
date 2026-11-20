@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/197000000/3085030853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74145403:por#texto'
+    detail: 1 - Este regulamento aplica-se a partir do ano letivo 2016/2017, substituindo e revogando o [Regulamento n.º 388/2013]
+      publicado no n.º 197 do Diário da República, 2.ª série, de 11 de outubro.
 notes: []
 language: por
 version:

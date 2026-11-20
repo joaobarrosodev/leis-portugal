@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/026000000/0251402515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107668090:por#art-36'
+    detail: c) [Regulamento n.º 80/2017], publicado no Diário da República, 2.ª série, de 6 de fevereiro de 2017.
 notes: []
 language: por
 version:

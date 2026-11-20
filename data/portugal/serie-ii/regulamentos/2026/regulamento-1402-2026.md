@@ -24,6 +24,16 @@ publication:
   pages: 469 - 491
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/204000000/0046900491.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação na 2.ª série do Diário da República, após aprovação pelos órgãos
+    municipais competentes, nos termos legais
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 438 - 440
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/099000000/0043800440.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, sendo que os seus efeitos jurídicos retroagem ao
+    dia 1 de janeiro de 2022
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

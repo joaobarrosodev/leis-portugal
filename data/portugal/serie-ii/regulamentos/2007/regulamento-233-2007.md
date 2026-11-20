@@ -24,6 +24,15 @@ publication:
   pages: 25633 - 25645
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/170000000/2563325645.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias a seguir ao da sua publicação no Diário da República
+  method: clausula
+  article: art-104
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

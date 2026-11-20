@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/062000000/0004400047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:886307324:por#n-9'
+    detail: 9 - É revogada a [Deliberação n.º 393/2024], publicada no Diário da República, 2.ª série, n.º 62, de 27 de março.
 notes: []
 language: por
 version:

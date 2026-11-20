@@ -23,6 +23,16 @@ publication:
   pages: 44608 - 44609
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/212000000/4460844609.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao término do prazo de 30 dias a que se refere o artigo 118.º do CPA, se nenhuma sugestão apresentada
+    em sede de discussão pública justificar a sua alteração
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 74 - 96
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/117064000/0007400096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-22'
+entry_into_force:
+  date: '2002-05-22'
+  rule: no dia seguinte à publicação no Diário da República, aplicando-se a todos os pedidos de licenciamento apresentados
+    a partir desta data, inclusive
+  method: clausula
+  article: art-138
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/152000000/0014000144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:991953851:por#n-5'
+    detail: 5 - A presente deliberação revoga a [Deliberação n.º 1022/2025], publicada na 2.ª série do Diário da República
+      n.º 152/2025, de 8 de agosto.
 notes: []
 language: por
 version:

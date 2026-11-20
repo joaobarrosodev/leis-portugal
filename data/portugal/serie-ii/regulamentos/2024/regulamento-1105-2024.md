@@ -23,6 +23,15 @@ publication:
   pages: 516 - 521
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/193000000/0051600521.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

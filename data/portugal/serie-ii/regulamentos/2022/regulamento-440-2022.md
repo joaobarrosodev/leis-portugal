@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 403 - 411
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/090000000/0040300411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-25'
+entry_into_force:
+  date: '2022-05-25'
+  rule: 15 dias após a sua publicação em Edital
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

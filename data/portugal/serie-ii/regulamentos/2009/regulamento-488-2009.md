@@ -23,6 +23,16 @@ publication:
   pages: 49902 - 49903
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/238000000/4990249903.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação por despacho do Reitor e pode ser revisto no prazo de um ano, levando em conta
+    a experiência entretanto adquirida
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

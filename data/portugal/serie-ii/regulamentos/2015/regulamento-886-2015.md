@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 37219 - 37221
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/249000000/3721937221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-23'
+entry_into_force:
+  date: '2015-12-23'
+  rule: no dia seguinte à sua publicação no Diário da República e no site institucional do Município de Bragança
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

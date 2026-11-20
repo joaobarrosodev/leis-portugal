@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 367 - 385
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/138000000/0036700385.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-23'
+entry_into_force:
+  date: '2024-07-23'
+  rule: cinco dias após a sua publicação no Diário da República."
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

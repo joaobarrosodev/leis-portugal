@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36186 - 36192
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/156000000/3618636192.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-01'
+entry_into_force:
+  date: '2009-01-01'
+  rule: no dia 1 de Janeiro de 2009
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

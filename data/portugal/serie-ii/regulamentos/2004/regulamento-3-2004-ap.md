@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 8 - 26
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/053031000/0000800026.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-04'
+entry_into_force:
+  date: '2004-03-04'
+  rule: no dia seguinte ao da publicação no Diário da República, aplicando-se a todos os pedidos apresentados a partir dessa
+    data inclusive, de acordo com o regime transitório previsto nos n.os 1 e 2 do artig
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

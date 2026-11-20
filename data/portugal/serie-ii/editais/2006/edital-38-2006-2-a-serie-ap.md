@@ -23,6 +23,15 @@ publication:
   pages: 9 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2006/01/020009000/0000900011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias seguidos após a publicação em edital da deliberação que o aprova
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

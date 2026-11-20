@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3626 - 3628
   pdf_url: https://files.diariodarepublica.pt/2s/2014/02/025000000/0362603628.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-02-06'
+entry_into_force:
+  date: '2014-02-06'
+  rule: no dia seguinte à sua publicação no portal da ESEDJTMM
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

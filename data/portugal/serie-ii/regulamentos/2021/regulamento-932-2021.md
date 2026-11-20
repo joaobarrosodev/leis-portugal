@@ -23,6 +23,16 @@ publication:
   pages: 701 - 706
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/206000000/0070100706.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de quinze dias úteis após a data da sua publicação no Diário da República, aplicando-se a todas as situações
+    em análise pelo Gabinete de Projetos Sócio Habitacionais da Divisão Municipal de A
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 273 - 283
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/049000000/0027300283.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-09'
+entry_into_force:
+  date: '2023-03-09'
+  rule: após a sua publicação em Diário da República e quando se efetivarem as transferências de competências para o Município
+    de Grândola
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

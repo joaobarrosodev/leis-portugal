@@ -23,6 +23,16 @@ publication:
   pages: 601 - 634
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/004000000/0060100634.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e substitui o anterior, o qual fica expressamente
+    revogado a partir daquela data
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

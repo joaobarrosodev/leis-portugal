@@ -23,6 +23,15 @@ publication:
   pages: 3075 - 3077
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/022000000/0307503077.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no trigésimo primeiro dia após a sua publicação, através de afixação nos lugares de estilo dos respetivos editais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 393 - 401
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/168000000/0039300401.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-01'
+entry_into_force:
+  date: '2022-09-01'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

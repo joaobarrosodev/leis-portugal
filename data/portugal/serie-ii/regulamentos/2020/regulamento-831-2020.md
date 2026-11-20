@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 379 - 387
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/192000000/0037900387.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-06'
+entry_into_force:
+  date: '2020-10-06'
+  rule: 5 dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

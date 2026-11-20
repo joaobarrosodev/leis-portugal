@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 304 - 307
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/096000000/0030400307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-21'
+entry_into_force:
+  date: '2025-05-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-14
+  effects_date: '2025-01-01'
+  effects_rule: desde o dia 1 de janeiro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

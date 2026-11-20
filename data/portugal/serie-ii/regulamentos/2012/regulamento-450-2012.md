@@ -23,6 +23,15 @@ publication:
   pages: 36200 - 36201
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/212000000/3620036201.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a sua aprovação na Assembleia Municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

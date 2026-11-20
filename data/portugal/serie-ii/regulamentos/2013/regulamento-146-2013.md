@@ -23,6 +23,15 @@ publication:
   pages: 13520 - 13526
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/081000000/1352013526.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, ficando revogado o anterior Regulamento
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

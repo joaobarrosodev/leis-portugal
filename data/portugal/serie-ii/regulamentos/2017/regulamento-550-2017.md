@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23368 - 23369
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/198000000/2336823369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-25'
+entry_into_force:
+  date: '2017-09-25'
+  rule: no dia 25 de setembro de 2017
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

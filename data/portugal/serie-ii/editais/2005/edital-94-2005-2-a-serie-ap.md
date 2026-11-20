@@ -23,6 +23,15 @@ publication:
   pages: 69 - 71
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/030019000/0006900071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pelos órgãos municipais e depois de decorridos os prazos legais para tal estabelecidos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

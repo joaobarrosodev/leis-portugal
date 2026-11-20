@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 487 - 503
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/078000000/0048700503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-23'
+entry_into_force:
+  date: '2026-04-23'
+  rule: no dia imediatamente a seguir à sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

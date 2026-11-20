@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2693 - 2707
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/019000000/0269302707.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-20'
+entry_into_force:
+  date: '2015-02-20'
+  rule: no dia 20 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-97
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

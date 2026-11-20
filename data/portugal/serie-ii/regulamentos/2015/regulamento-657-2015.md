@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 28100 - 28104
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/191000000/2810028104.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-01'
+entry_into_force:
+  date: '2015-10-01'
+  rule: no dia 01 de outubro de 2015
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

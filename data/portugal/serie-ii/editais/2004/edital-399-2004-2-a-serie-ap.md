@@ -23,6 +23,15 @@ publication:
   pages: 90 - 92
   pdf_url: https://files.diariodarepublica.pt/2s/2004/06/133075000/0009000092.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal e no 15.º dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

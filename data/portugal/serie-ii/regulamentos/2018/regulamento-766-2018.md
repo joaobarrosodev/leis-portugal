@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 30357 - 30358
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/218000000/3035730358.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-14'
+entry_into_force:
+  date: '2018-11-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:890219431:por#art-11'
+    detail: É revogado o [Regulamento n.º 766/2018], da Ordem dos Médicos.
 notes: []
 language: por
 version:

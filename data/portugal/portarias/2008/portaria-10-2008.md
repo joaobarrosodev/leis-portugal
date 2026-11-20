@@ -45,8 +45,8 @@ version:
   consolidation_date: '2025-08-02'
 version_history:
   file: portaria-10-2008.versoes.json
-  count: 6
-  source_lastmod: '2024-06-25'
+  count: 7
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2008-01-03'
     amending: null
@@ -116,6 +116,13 @@ version_history:
     - Altera Artigo 28.º
     - Altera Artigo 28.º-A
     - Altera Anexo
+  - date: '2026-12-06'
+    amending: pt:dre:1192107481:por
+    amending_title: Portaria n.º 495/2026/1
+    changes:
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/10/2008/p/cons/20250203/pt/html
@@ -130,10 +137,10 @@ source:
   metadata_url: https://data.dre.pt/eli/port/10/2008/p/cons/20250203/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70861360
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70861360
-  retrieved_at: '2026-10-22T12:03:41Z'
+  retrieved_at: '2026-11-20T13:50:30Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
   source_sha256: 16fc507cba47b56464dc88f2210e23f46c04ca1a89d68e6ca73f9ec4a493be41
   source_sha256_scope: official_source_content_bytes
@@ -141,8 +148,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:03:41Z'
-  notes: 6 versão(ões); histórico completo em portaria-10-2008.versoes.json.
+  generated_at: '2026-11-20T13:50:30Z'
+  notes: 7 versão(ões); histórico completo em portaria-10-2008.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,6 +196,11 @@ relationships:
     Altera Artigo 28.º-A; Altera Anexo
   source: https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322
   date: '2025-02-03'
+- type: amended_by
+  target: pt:dre:1192107481:por
+  label: Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/495-2026-1192107481
+  date: '2026-11-06'
 - type: cites
   target: pt:dre:502394:por
   label: null
@@ -214,7 +226,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:03:41Z'
+  checked_at: '2026-11-20T13:50:30Z'
   warnings: []
   errors: []
 ---

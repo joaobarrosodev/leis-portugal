@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 403 - 408
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/095000000/0040300408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-18'
+entry_into_force:
+  date: '2021-05-18'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1118663106:por#art-17'
+    detail: 2 - A entrada em vigor do presente regulamento revoga na íntegra o [Regulamento n.º 444/2021], publicado no Diário
+      da República, 2.º série, n.º 95, de 17 de maio.
 notes: []
 language: por
 version:

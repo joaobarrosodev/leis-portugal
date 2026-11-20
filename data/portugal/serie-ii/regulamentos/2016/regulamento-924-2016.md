@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30514 - 30519
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/197000000/3051430519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-14'
+entry_into_force:
+  date: '2016-10-14'
+  rule: no dia imediato ao da sua publicação no Diário da República, sendo revogado o Regulamento Geral dos Mestrados n.º
+    523/2011, publicado no Diário da República, 2.ª série, N.º 183 de 22 de Setembro de 20
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

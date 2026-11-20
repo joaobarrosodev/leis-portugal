@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 12891 - 12897
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/079000000/1289112897.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-23'
+entry_into_force:
+  date: '2016-04-23'
+  rule: no dia seguinte à sua publicação no Diário da República, revogando o Regulamento de Avaliação dos Docentes da FBAUP,
+    publicado por Despacho 6961/2012, em DR, 2.ª série, n.º 98, de 21 de maio de 2012
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

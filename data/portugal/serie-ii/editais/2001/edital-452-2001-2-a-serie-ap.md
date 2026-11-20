@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 57 - 68
   pdf_url: https://files.diariodarepublica.pt/2s/2001/11/271129000/0005700068.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-12-07'
+entry_into_force:
+  date: '2001-12-07'
+  rule: 15 dias após a sua publicação, sem prejuízo do regime transitório previsto no artigo 54.º
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

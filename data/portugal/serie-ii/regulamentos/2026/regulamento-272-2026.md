@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 756 - 789
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/056000000/0075600789.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-21'
+entry_into_force:
+  date: '2026-03-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sem prejuízo da sua publicitação por edital e divulgação
+    no sítio institucional da União das Freguesias de Lamelas e Guimarei
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

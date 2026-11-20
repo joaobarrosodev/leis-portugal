@@ -23,6 +23,16 @@ publication:
   pages: 56 - 59
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/216115000/0005600059.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia útil após a sua publicação no Diário da República, para efeitos de apreciação pública, se nenhuma sugestão
+    de alteração for apresentada e aprovada pelos órgãos municipais competentes
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

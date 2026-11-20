@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 259 - 279
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/156000000/0025900279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-15'
+entry_into_force:
+  date: '2025-08-15'
+  rule: no dia seguinte ao da sua publicação em edital nos lugares do estilo habituais, sem prejuízo da sua publicitação no
+    sítio da internet da autarquia
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

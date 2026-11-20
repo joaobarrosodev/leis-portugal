@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24543 - 24550
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/149000000/2454324550.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-05'
+entry_into_force:
+  date: '2013-08-05'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

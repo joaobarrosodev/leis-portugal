@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/069000000/1463514637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2222120:por#art-17'
+    detail: Fica revogado o [Regulamento n.º 146/2009] para a Avaliação de Capacidade para a Frequência do Ensino Superior
+      dos Maiores de 23 Anos, publicado no Diário da República n.º 69 2.ª série de 08 de Abril de 2009.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 39 - 56
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/075052000/0003900056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 270 - 298
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/157000000/0027000298.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-13'
+entry_into_force:
+  date: '2023-09-13'
+  rule: trinta dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

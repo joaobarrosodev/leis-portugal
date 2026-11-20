@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10817 - 10823
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/056000000/1081710823.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-19'
+entry_into_force:
+  date: '2009-04-19'
+  rule: 30 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

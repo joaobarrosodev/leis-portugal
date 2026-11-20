@@ -23,6 +23,15 @@ publication:
   pages: 474 - 485
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/192000000/0047400485.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no "Diário da República"
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

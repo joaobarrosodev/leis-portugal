@@ -23,6 +23,15 @@ publication:
   pages: 20 - 23
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/225119000/0002000023.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a contar da data da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

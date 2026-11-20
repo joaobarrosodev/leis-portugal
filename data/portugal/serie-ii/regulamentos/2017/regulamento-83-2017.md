@@ -23,6 +23,15 @@ publication:
   pages: 2558 - 2562
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/027000000/0255802562.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia dois de maio de dois mil e doze
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

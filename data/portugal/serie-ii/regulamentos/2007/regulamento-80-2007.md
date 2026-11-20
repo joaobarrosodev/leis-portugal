@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 12800 - 12805
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/093000000/1280012805.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-30'
+entry_into_force:
+  date: '2007-05-30'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República depois da respectiva aprovação, na forma definitiva,
+    pela Assembleia Municipal
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

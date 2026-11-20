@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/045000000/0996909973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:870942004:por#art-20'
+    detail: O presente Regulamento revoga o [Regulamento n.º 171/2010], publicado no Diário da República, em 5 de março, 2.ª
+      série, n.º 45, alterado pelo Despacho n.º 12906/2010, publicado no Diário da República, em 10 de agosto, 2.ª série,
+      n.º 154, retificado pela Declaração de Retificação n.º 1791/2010, publi
 notes:
 - 'Numeração corrigida: o DRE escreve «Artigo 6.º» entre os artigos 6.º e 8.º; usado o 7.º.'
 language: por

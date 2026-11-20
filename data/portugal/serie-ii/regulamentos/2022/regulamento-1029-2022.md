@@ -23,6 +23,15 @@ publication:
   pages: 709 - 712
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/205000000/0070900712.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à devida aprovação pelo Órgão Deliberativo desta Autarquia
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

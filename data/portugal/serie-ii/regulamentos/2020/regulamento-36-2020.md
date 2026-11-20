@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 276 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/010000000/0027600294.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-15'
+entry_into_force:
+  date: '2020-01-15'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

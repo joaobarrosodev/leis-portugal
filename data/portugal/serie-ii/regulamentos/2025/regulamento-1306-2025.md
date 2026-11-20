@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 509 - 516
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/249000000/0050900516.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-30'
+entry_into_force:
+  date: '2025-12-30'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 279 - 284
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/209000000/0027900284.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Conselho Técnico-Científico
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

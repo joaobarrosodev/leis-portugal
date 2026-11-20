@@ -23,8 +23,28 @@ publication:
   pages: 8673 - 8675
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/035000000/0867308675.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente posterior ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75046123:por#art-18'
+    detail: O presente Regulamento revoga o [Regulamento n.º 130/2011], publicado na 2.ª série do Diário da República em 18
+      de fevereiro de 2011.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:167127884:por#art-18'
+    detail: O presente Regulamento revoga o [Regulamento n.º 130/2011], publicado na 2.ª série do Diário da República em 18
+      de fevereiro de 2011.
 notes: []
 language: por
 version:

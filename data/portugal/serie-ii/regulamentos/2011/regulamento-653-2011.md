@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 51345 - 51363
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/250000000/5134551363.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-04'
+entry_into_force:
+  date: '2012-01-04'
+  rule: no 5.º dia após a sua publicação nos termos legais
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

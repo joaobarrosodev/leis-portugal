@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 465 - 473
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/020000000/0046500473.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-30'
+entry_into_force:
+  date: '2021-01-30'
+  rule: no dia a seguir à sua publicação no Diário da República e revoga o Regulamento Municipal do Tarifário Social da Água,
+    Saneamento e Resíduos Sólidos da Maia, publicado no Diário da República, 2.ª série
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

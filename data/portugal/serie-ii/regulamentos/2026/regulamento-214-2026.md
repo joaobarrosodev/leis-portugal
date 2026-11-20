@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 384 - 387
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/046000000/0038400387.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-07'
+entry_into_force:
+  date: '2026-03-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-5-2
+  effects_date: '2026-01-28'
+  effects_rule: desde o dia 28 de janeiro de 2026 até ao dia 31 de dezembro de 2026.”
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

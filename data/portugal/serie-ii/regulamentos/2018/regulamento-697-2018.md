@@ -23,6 +23,15 @@ publication:
   pages: 28268 - 28271
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/202000000/2826828271.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, nos termos dos artigos 139.º e 140.º do CPA
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

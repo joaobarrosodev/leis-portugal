@@ -23,6 +23,16 @@ publication:
   pages: 597 - 601
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/112000000/0059700601.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: à data da instalação dos órgãos autárquicos da Freguesia de Guisande, nos termos da Lei n.º 25-A/2025, de
+    13 de março
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

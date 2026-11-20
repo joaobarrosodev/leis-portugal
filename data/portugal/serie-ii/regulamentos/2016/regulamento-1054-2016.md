@@ -23,9 +23,30 @@ publication:
   supplement: null
   pages: 34671 - 34672
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/223000000/3467134672.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-11-22'
+entry_into_force:
+  date: '2016-11-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:889623973:por#art-13'
+    detail: É revogado o [Regulamento n.º 1054/2016] (Regulamento das Delegações Distritais e Insulares), publicado no Diário
+      da República, 2.ª série, n.º 223, 21 de novembro de 2016.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:877328129:por#art-11'
+    detail: É revogado o [Regulamento n.º 1054/2016] (Regulamento das Delegações Distritais e Insulares), publicado no Diário
+      da República, 2.ª série, n.º 223, 21 de novembro de 2016.
 notes: []
 language: por
 version:

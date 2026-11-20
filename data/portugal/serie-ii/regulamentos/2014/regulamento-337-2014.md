@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/146000000/1968519688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:106438786:por#texto'
+    detail: O presente regulamento entra em vigor após a sua publicação no Diário da República e aplica-se às candidaturas
+      para o ano letivo 2017/18 e seguintes, revogando o [Regulamento n.º 337/2014], publicado na 2.ª série do DR, de 31 de
+      julho de 2014.
 notes: []
 language: por
 version:

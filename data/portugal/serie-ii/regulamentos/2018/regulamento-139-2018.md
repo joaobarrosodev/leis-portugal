@@ -23,8 +23,24 @@ publication:
   pages: 6585 - 6590
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/043000000/0658506590.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2017/2018
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:163158555:por#art-54'
+    detail: 1 - Pelo presente regulamento é revogado o [Regulamento n.º 139/2018], de 1 de março, publicado na 2.ª série do
+      Diário da República, n.º 43.
 notes: []
 language: por
 version:

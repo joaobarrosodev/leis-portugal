@@ -23,6 +23,15 @@ publication:
   pages: 133 - 160
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/218000000/0013300160.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

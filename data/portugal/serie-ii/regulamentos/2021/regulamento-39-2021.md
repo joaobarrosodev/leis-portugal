@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 451 - 456
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/007000000/0045100456.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-17'
+entry_into_force:
+  date: '2021-01-17'
+  rule: 5 dias após a sua publicação no Diário da República, sendo também publicitado nos termos do artigo 56.º do Regime
+    Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 24216 - 24223
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/164000000/2421624223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-25'
+entry_into_force:
+  date: '2015-08-25'
+  rule: 'no dia seguinte à publicação do presente aviso, relativo à sua aprovação pelos órgãos competentes, no Diário da República,
+    publicitando-se o seu conteúdo no endereço eletrónico do Município em: http:/'
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

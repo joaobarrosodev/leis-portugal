@@ -23,6 +23,15 @@ publication:
   pages: 24868-(25) a 24868-(27)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/165000001/0002500027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pelo Senado e publicitado nos termos legais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 705 - 707
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/004000000/0070500707.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pela Assembleia Municipal e publicitado nos termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -7,7 +7,7 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass, field
 
-from rag.texto import sem_acentos
+from rag.texto import _CONSOANTE_MUDA, sem_acentos
 
 
 # Nome (como aparece nas perguntas) → `document_type` do acervo. Os mais compridos primeiro.
@@ -86,7 +86,69 @@ CODIGOS = {
     "código dos regimes contributivos": "Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social",
     "código do imposto sobre o valor acrescentado": "Código do Imposto sobre o Valor Acrescentado",
     "código de procedimento e de processo tributário": "Código de Procedimento e de Processo Tributário",
+    # Os que faltavam nos 39 nomes centrais do inventário da camada 1 (secção 2.3), como os advogados os citam.
+    "constituição da república portuguesa": "Constituição da República Portuguesa",
+    "constituição da república": "Constituição da República Portuguesa",
+    "regulamento das custas processuais": "Regulamento das Custas Processuais",
+    "código da execução das penas e medidas privativas da liberdade": "Código da Execução das Penas e Medidas Privativas da Liberdade",
+    "código de execução das penas e medidas privativas da liberdade": "Código da Execução das Penas e Medidas Privativas da Liberdade",
+    "código da execução das penas": "Código da Execução das Penas e Medidas Privativas da Liberdade",
+    "regime geral das infrações tributárias": "Regime Geral das Infrações Tributárias",
+    "regime geral das infracções tributárias": "Regime Geral das Infrações Tributárias",
+    "rgit": "Regime Geral das Infrações Tributárias",
+    "código de processo do trabalho": "Código de Processo do Trabalho",
+    "lei geral do trabalho em funções públicas": "Lei Geral do Trabalho em Funções Públicas",
+    "ltfp": "Lei Geral do Trabalho em Funções Públicas",
+    "código dos impostos especiais de consumo": "Código dos Impostos Especiais de Consumo",
+    "código dos iec": "Código dos Impostos Especiais de Consumo",
+    "ciec": "Código dos Impostos Especiais de Consumo",
+    "código do imposto sobre veículos": "Código do Imposto sobre Veículos",
+    "código do isv": "Código do Imposto sobre Veículos",
+    "cisv": "Código do Imposto sobre Veículos",
+    "código do imposto único de circulação": "Código do Imposto Único de Circulação",
+    "código do iuc": "Código do Imposto Único de Circulação",
+    "código comercial": "Código Comercial",
+    "código do registo comercial": "Código do Registo Comercial",
+    "código dos valores mobiliários": "Código dos Valores Mobiliários",
+    "código da propriedade industrial": "Código da Propriedade Industrial",
+    "código do direito de autor e dos direitos conexos": "Código do Direito de Autor e dos Direitos Conexos",
+    "código do direito de autor": "Código do Direito de Autor e dos Direitos Conexos",
+    "cdadc": "Código do Direito de Autor e dos Direitos Conexos",
+    "código cooperativo": "Código Cooperativo",
+    "código da insolvência e da recuperação de empresas": "Código da Insolvência e da Recuperação de Empresas",
+    "código da insolvência": "Código da Insolvência e da Recuperação de Empresas",
+    "cire": "Código da Insolvência e da Recuperação de Empresas",
+    "código de processo nos tribunais administrativos": "Código de Processo nos Tribunais Administrativos",
+    "cpta": "Código de Processo nos Tribunais Administrativos",
+    "código das expropriações": "Código das Expropriações",
+    "código da publicidade": "Código da Publicidade",
+    "código do registo predial": "Código do Registo Predial",
+    "código do registo civil": "Código do Registo Civil",
+    "código do notariado": "Código do Notariado",
 }
+
+# Siglas que só valem em maiúsculas: em minúsculas são palavras ou outras coisas («cpi», «rcp», «ct»).
+# «CRP» é a Constituição (o Código do Registo Predial cita-se «CRPredial»); «CC» e «CP» ficam de fora
+# (cartão de cidadão, código postal).
+SIGLAS = {
+    "CRP": "Constituição da República Portuguesa",
+    "RCP": "Regulamento das Custas Processuais",
+    "CEPMPL": "Código da Execução das Penas e Medidas Privativas da Liberdade",
+    "CPT": "Código de Processo do Trabalho",
+    "CT": "Código do Trabalho",
+    "CPC": "Código de Processo Civil",
+    "CPP": "Código de Processo Penal",
+    "CPA": "Código do Procedimento Administrativo",
+    "CSC": "Código das Sociedades Comerciais",
+    "CCP": "Código dos Contratos Públicos",
+    "CRCom": "Código do Registo Comercial",
+    "CRPredial": "Código do Registo Predial",
+    "CRCivil": "Código do Registo Civil",
+    "CVM": "Código dos Valores Mobiliários",
+    "CPI": "Código da Propriedade Industrial",
+}
+# «a Constituição» com maiúscula, a meio da frase, é a da República; «constituição de sociedade» não é.
+_CONSTITUICAO = re.compile(r"(?<=[\w,;:] )Constituição(?! d[aoe]s? (?!República))")
 
 _NUMERO = r"(?:n\.?\s*[º°o]\.?\s*)?(\d+(?:-[A-Z]{1,2})?(?:/\d{2,4})?(?:/[AM]|/\d)?)\b"
 _TIPO = "|".join(re.escape(t) for t in sorted(TIPOS, key=len, reverse=True))
@@ -119,6 +181,7 @@ def _arabe(romano: str) -> int:
 
 
 _CODIGO = re.compile(r"(?<!\w)(" + "|".join(re.escape(c) for c in sorted(CODIGOS, key=len, reverse=True)) + r")(?!\w)", re.I)
+_SIGLA = re.compile(r"(?<![\w.])(" + "|".join(re.escape(c) for c in sorted(SIGLAS, key=len, reverse=True)) + r")(?![\w-])")
 
 
 @dataclass
@@ -155,8 +218,10 @@ def extrair(pergunta: str) -> Referencias:
         if tipo == "regulation":
             # "Regulamento n.º 372/2009" também pode ser um regulamento português.
             refs.diplomas.append(("regulamento", f"{a}/{b}", m.group(0)))
-    for m in _CODIGO.finditer(pergunta):
-        nome = CODIGOS[m.group(1).lower()]
+    nomes = [(m.start(), CODIGOS[m.group(1).lower()]) for m in _CODIGO.finditer(pergunta)]
+    nomes += [(m.start(), SIGLAS[m.group(1)]) for m in _SIGLA.finditer(pergunta)]
+    nomes += [(m.start(), "Constituição da República Portuguesa") for m in _CONSTITUICAO.finditer(pergunta)]
+    for _, nome in sorted(nomes):
         if nome not in refs.codigos:
             refs.codigos.append(nome)
     for m in _ARTIGO.finditer(pergunta):
@@ -173,8 +238,24 @@ def extrair(pergunta: str) -> Referencias:
     return refs
 
 
+def texto_comparavel(texto: str) -> str:
+    """Minúsculas, sem acentos e sem as consoantes mudas da grafia antiga. Estas caem antes dos acentos:
+    «infracções» → «infrações» → «infracoes»."""
+    return sem_acentos(_CONSOANTE_MUDA.sub("", texto.lower())).replace("colectiv", "coletiv")
+
+
 def nome_normalizado(texto: str) -> str:
-    texto = sem_acentos(texto.lower())
+    texto = texto_comparavel(texto)
     texto = re.sub(r"^anexo\b[^—:-]*[—:-]\s*", "", texto)
-    texto = texto.replace("colectiv", "coletiv").replace("(", " ").replace(")", " ")
+    texto = texto.replace("(", " ").replace(")", " ")
+    # «Código do Imposto sobre Veículos a que se refere o n.º 1 do artigo 1.º»: o nome é o que vem antes.
+    texto = re.sub(r"(?<=\w) a que se refere\b.*$", "", texto)
     return re.sub(r"\s+", " ", texto).strip(" .")
+
+
+_CONECTORES = re.compile(r"\b(?:de|do|da|dos|das|e)\b")
+
+
+def nome_solto(texto: str) -> str:
+    """O nome sem as palavras de ligação: «Código do Processo Penal» (o sumário do DL 78/87) = «Código de Processo Penal»."""
+    return re.sub(r"\s+", " ", _CONECTORES.sub(" ", nome_normalizado(texto))).strip()

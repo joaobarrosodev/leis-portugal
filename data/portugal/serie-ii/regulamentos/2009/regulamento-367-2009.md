@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33882 - 33885
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/160000000/3388233885.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-03'
+entry_into_force:
+  date: '2009-09-03'
+  rule: 15 dias após a sua publicação, em edital, a afixar no edifício da sede da junta de freguesia
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

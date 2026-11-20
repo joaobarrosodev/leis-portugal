@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 28292 - 28314
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/173000000/2829228314.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-09-14'
+entry_into_force:
+  date: '2013-09-14'
+  rule: 5 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

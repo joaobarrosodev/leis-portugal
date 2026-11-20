@@ -24,6 +24,15 @@ publication:
   pages: 562 - 605
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/245000000/0056200605.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal de Nazaré, ficando revogado o anterior regulamento
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

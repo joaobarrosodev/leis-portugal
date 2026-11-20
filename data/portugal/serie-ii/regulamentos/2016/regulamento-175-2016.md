@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5822 - 5826
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/035000000/0582205826.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-20'
+entry_into_force:
+  date: '2016-02-20'
+  rule: no dia seguinte à da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

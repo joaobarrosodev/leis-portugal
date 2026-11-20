@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 267 - 267
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/042000000/0026700267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-07'
+entry_into_force:
+  date: '2025-03-07'
+  rule: em 7 de março de 2025
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 487-(9) a 487-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/253000001/0000900022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-01'
+entry_into_force:
+  date: '2021-01-01'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, e revoga o Regulamento n.º 748/2019, publicado
+    no Diário da República 2.ª série, n.º 186, de 27 de setembro
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

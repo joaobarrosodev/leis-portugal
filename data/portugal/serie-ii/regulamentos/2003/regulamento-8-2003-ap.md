@@ -23,6 +23,15 @@ publication:
   pages: 80 - 84
   pdf_url: https://files.diariodarepublica.pt/2s/2003/05/119079000/0008000084.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil após a sua publicação na forma definitiva no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

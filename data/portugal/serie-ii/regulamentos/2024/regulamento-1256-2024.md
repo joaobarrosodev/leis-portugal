@@ -23,6 +23,15 @@ publication:
   pages: 236 - 240
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/211000000/0023600240.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

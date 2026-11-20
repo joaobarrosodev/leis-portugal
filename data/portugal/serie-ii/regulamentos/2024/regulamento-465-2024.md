@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/081000000/0022700271.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1144707477:por#art-156'
+    detail: É revogado o [Regulamento n.º 465/2024], publicado no Diário da República, 2.ª série, n.º 81, de 24 de abril de
+      2024, cessando ainda a aplicação de quaisquer normas internas, orientações, despachos ou práticas procedimentais da
+      UFP que contrariem o disposto no presente regulamento.
 notes: []
 language: por
 version:

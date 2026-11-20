@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 67 - 74
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/219144000/0006700074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-22'
+entry_into_force:
+  date: '2003-09-22'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

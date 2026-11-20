@@ -23,6 +23,15 @@ publication:
   pages: 9972 - 9974
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/098000000/0997209974.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

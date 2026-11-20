@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 94 - 95
   pdf_url: https://files.diariodarepublica.pt/2s/2004/08/201106000/0009400095.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-10'
+entry_into_force:
+  date: '2004-09-10'
+  rule: 15 dias sobre a data da publicação e respectiva afixação nos termos da alínea 3) do artigo 21.º da Lei n.º 1/87, de
+    6 de Janeiro, a qual se efectuará depois de aprovada pela Assembleia de Freguesia
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

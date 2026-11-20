@@ -23,6 +23,16 @@ publication:
   pages: 19142 - 19143
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/132000000/1914219143.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após a sua publicação na 2.ª série do Diário da República e cessa após a integração da vacina contra
+    o rotavírus no Programa Nacional de Vacinação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

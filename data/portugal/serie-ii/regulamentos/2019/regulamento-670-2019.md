@@ -23,6 +23,15 @@ publication:
   pages: 381 - 386
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/161000000/0038100386.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

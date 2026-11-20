@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 29986 - 30000
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/144000000/2998630000.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-12'
+entry_into_force:
+  date: '2009-08-12'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:150571193:por#art-42'
+    detail: O presente regulamento revoga expressamente o [Regulamento n.º 323/2009] publicado no Diário da República, 2.ª
+      série, n.º 144, em 28/07/2009.
 notes: []
 language: por
 version:

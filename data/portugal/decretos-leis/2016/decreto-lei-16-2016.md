@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-01-01'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-16-2016.versoes.json
-  count: 5
-  source_lastmod: '2024-06-25'
+  count: 6
+  source_lastmod: '2026-11-03'
   versions:
   - date: '2016-03-09'
     amending: null
@@ -101,6 +101,12 @@ version_history:
     - Altera Artigo 16.º
     - Revoga Artigo 12.º-B
     - Revoga Artigo 13.º
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Altera Artigo 12.º-A
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/16/2016/p/cons/20241231/pt/html
@@ -115,19 +121,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2016/p/cons/20241231/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826434
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826434
-  retrieved_at: '2026-10-22T12:27:03Z'
+  retrieved_at: '2026-11-20T13:49:52Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-03T00:00:00Z'
 integrity:
-  source_sha256: 348c039ec938d439a86c816aa127e0039f5f93d9535c5dfff4bdf28cd9b09181
+  source_sha256: 484a9012a9bb23f1507eef17f04e20041e0752d67caab3d2239f569ce260d02d
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:27:03Z'
-  notes: 5 versão(ões); histórico completo em decreto-lei-16-2016.versoes.json.
+  generated_at: '2026-11-20T13:49:52Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-16-2016.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,6 +180,11 @@ relationships:
     Altera Artigo 11.º; Altera Artigo 12.º-A; Altera Artigo 16.º; Revoga Artigo 12.º-B; Revoga Artigo 13.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921
   date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 12.º-A; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: pt:dre:144217:por
   label: null
@@ -219,7 +230,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:27:03Z'
+  checked_at: '2026-11-20T13:49:52Z'
   warnings: []
   errors: []
 ---
@@ -592,7 +603,7 @@ q) Submeter ao membro do Governo responsável pela área do mar os relatórios e
 
 1 - A entidade gestora do Fundo é a ApC, I. P., que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.
 
-2 - O Fundo é dirigido por um vogal do conselho diretivo da ApC, I. P.
+2 - (Revogado.)
 
 3 - (Revogado.)
 
@@ -605,6 +616,10 @@ q) Submeter ao membro do Governo responsável pela área do mar os relatórios e
 7 - (Revogado.)
 
 8 - (Revogado.)
+
+9 - Dos atos praticados pela ApC, I. P., enquanto responsável pela gestão do Fundo Azul, não cabe recurso administrativo, respondendo o Fundo pelos mesmos junto dos tribunais administrativos, em caso de impugnação judicial, nos termos das leis do processo administrativo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01
 
@@ -682,7 +697,7 @@ c) Propor medidas que possam melhorar a adequação do Fundo aos seus objetivos 
 
 1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.
 
-2 - O fiscal único é designado para um mandato de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, o qual fixa os termos do exercício da função e a respetiva remuneração.
+2 - O fiscal único é designado para um mandato de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e do mar, o qual fixa os termos do exercício da função e a respetiva remuneração.
 
 3 - Compete ao fiscal único:
 
@@ -697,6 +712,8 @@ d) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica
 4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.
 
 5 - No caso de cessação do mandato o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23
 

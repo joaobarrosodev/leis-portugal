@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19249 - 19253
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/134000000/1924919253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-14'
+entry_into_force:
+  date: '2018-07-14'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: à data da sua aprovação pelo órgão competente
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 360 - 371
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/189000000/0036000371.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República e publicitação por Edital na Sede e no
+    Sítio da Junta de Freguesia do Porto Santo
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 16148 - 16153
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/097000000/1614816153.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-21'
+entry_into_force:
+  date: '2013-05-21'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: a partir dos Cursos de Doutoramento que se iniciaram no ano letivo de 2009-2010, sem prejuízo dos atos entretanto
+    praticados
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

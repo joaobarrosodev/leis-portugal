@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 660 - 670
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/197000000/0066000670.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-13'
+entry_into_force:
+  date: '2026-10-13'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

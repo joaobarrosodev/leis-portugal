@@ -23,6 +23,15 @@ publication:
   pages: 133 - 137
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/157000000/0013300137.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

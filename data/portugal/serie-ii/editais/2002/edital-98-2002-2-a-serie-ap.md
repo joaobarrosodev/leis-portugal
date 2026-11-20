@@ -23,6 +23,15 @@ publication:
   pages: 20 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2002/03/056024000/0002000022.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia, após publicação nos termos legais, conforme dispõe o artigo 29.º, n.º 4, da Lei n.º 42/98, de 6 de Agosto
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

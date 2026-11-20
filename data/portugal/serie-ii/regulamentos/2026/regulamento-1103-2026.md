@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 523 - 537
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/156000000/0052300537.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-14'
+entry_into_force:
+  date: '2026-08-14'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos do artigo 139.º do Código do Procedimento
+    Administrativo
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

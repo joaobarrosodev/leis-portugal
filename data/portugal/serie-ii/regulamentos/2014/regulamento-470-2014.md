@@ -23,6 +23,15 @@ publication:
   pages: 26684 - 26687
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/203000000/2668426687.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação nos órgãos competentes e após devida publicitação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

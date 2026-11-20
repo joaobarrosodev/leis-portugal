@@ -1,0 +1,51 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:905831232:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-1168660675",
+ "dre_path": "/dr/detalhe/portaria/82-2025-905831232",
+ "source_lastmod": "2026-11-12",
+ "versions": [
+  {
+   "date": "2026-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1194835936:por",
+     "title": "Portaria n.º 454/2026/2 - 2.ª Série",
+     "published": "2026-11-12",
+     "dre_path": "/dr/detalhe/portaria/454-2026-1194835936"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "1195227575",
+    "1168661075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195227575": {
+   "fragment_id": "1168660775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 454/2026/2 - Diário da República n.º 220/2026, Série II de 2026-11-12](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1194835936), em vigor a partir de 2026-11-13."
+   ],
+   "markdown": "O Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., necessita de proceder à aquisição do investimento referente ao apetrechamento do serviço de medicina intensiva (SMI), celebrando para o efeito o respetivo contrato pelo período de 16 meses, pelo que é necessária a autorização para assunção de compromisso plurianual.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado da Gestão da Saúde, ao abrigo do disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada e republicada pela Lei n.º 22/2015, de 17 de março, e no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, alterado e republicado pelo Decreto-Lei n.º 99/2015, de 2 de junho, o seguinte:\n\n1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante de 690 935,60 EUR (seiscentos e noventa mil, novecentos e trinta e cinco euros e sessenta cêntimos), a que acresce IVA à taxa legal em vigor, pelo prazo de 15 meses, referente à aquisição do investimento relativo ao apetrechamento do serviço de medicina intensiva (SMI).\n\n2 - Os encargos resultantes do contrato não podem exceder, em cada ano económico, as seguintes importâncias:\n\n2025: 0,00 EUR;\n\n2026: 672 106,63 EUR, a que acresce IVA à taxa legal em vigor;\n\n2027: 18 828,97 EUR, a que acresce IVA à taxa legal em vigor.\n\n3 - Os encargos objeto da presente portaria são satisfeitos por verbas adequadas do Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E.\n\n> Alterado pelo/a [Portaria n.º 454/2026/2 - Diário da República n.º 220/2026, Série II de 2026-11-12](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1194835936), em vigor a partir de 2026-11-13."
+  },
+  "1168661075": {
+   "fragment_id": "1168660975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "24 de janeiro de 2025. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 27 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé."
+  }
+ },
+ "unavailable_dates": [
+  "2025-02-03"
+ ]
+}

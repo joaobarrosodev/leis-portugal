@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/067000000/0007900084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:928296801:por#n-6'
+    detail: 6 - A presente deliberação revoga a [Deliberação n.º 497/2025], publicada na 2.ª série do Diário da República
+      n.º 67/2025, de 4 de abril.
 notes: []
 language: por
 version:

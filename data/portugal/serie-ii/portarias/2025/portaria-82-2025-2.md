@@ -30,10 +30,20 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-13'
+version_history:
+  file: portaria-82-2025-2.versoes.json
+  count: 1
+  source_lastmod: '2026-11-12'
+  versions:
+  - date: '2026-11-13'
+    amending: pt:dre:1194835936:por
+    amending_title: Portaria n.º 454/2026/2 - 2.ª Série
+    changes:
+    - Altera Diploma
 identifiers:
   celex: null
   eli: null
@@ -46,20 +56,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2025-905831232
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2025-905831232
-  consolidated_url: null
-  retrieved_at: '2026-10-23T18:01:38Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-1168660675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-1168660675
+  retrieved_at: '2026-11-20T13:52:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 1c7abcf4968f930b83298cc4b44b12fc025559a9fcfd61658a86481e80d8b382
+  source_sha256: efdd1a85412b06c8963cafccaf6c338bac8ae35798f1ab7029d5a85b288c8e02
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T18:01:38Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:32Z'
+  notes: 1 versão(ões); histórico completo em portaria-82-2025-2.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +84,11 @@ subjects:
 - Equipamento Hospitalar
 - Instituto Português de Oncologia de Francisco Gentil
 relationships:
+- type: amended_by
+  target: pt:dre:1194835936:por
+  label: Altera Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1194835936
+  date: '2026-11-12'
 - type: cites
   target: pt:dre:178845:por
   label: null
@@ -96,13 +112,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T18:01:38Z'
+  checked_at: '2026-11-20T13:52:32Z'
   warnings: []
   errors: []
 ---
@@ -113,18 +129,20 @@ O Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., neces
 
 Assim:
 
-Manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado da Gestão da Saúde, ao abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, o seguinte:
+Manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado da Gestão da Saúde, ao abrigo do disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada e republicada pela Lei n.º 22/2015, de 17 de março, e no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, alterado e republicado pelo Decreto-Lei n.º 99/2015, de 2 de junho, o seguinte:
 
-1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante de 690 935,60 EUR (seiscentos e noventa mil novecentos e trinta e cinco euros e sessenta cêntimos), a que acresce IVA à taxa legal em vigor, referente à aquisição do investimento relativo ao apetrechamento do serviço de medicina intensiva (SMI).
+1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante de 690 935,60 EUR (seiscentos e noventa mil, novecentos e trinta e cinco euros e sessenta cêntimos), a que acresce IVA à taxa legal em vigor, pelo prazo de 15 meses, referente à aquisição do investimento relativo ao apetrechamento do serviço de medicina intensiva (SMI).
 
-2 - Os encargos resultantes do contrato não excederão, em cada ano económico, as seguintes importâncias:
+2 - Os encargos resultantes do contrato não podem exceder, em cada ano económico, as seguintes importâncias:
 
-2025: 656 388,82 EUR, a que acresce IVA à taxa legal em vigor;
+2025: 0,00 EUR;
 
-2026: 34 546,78 EUR, a que acresce IVA à taxa legal em vigor.
+2026: 672 106,63 EUR, a que acresce IVA à taxa legal em vigor;
+
+2027: 18 828,97 EUR, a que acresce IVA à taxa legal em vigor.
 
 3 - Os encargos objeto da presente portaria são satisfeitos por verbas adequadas do Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E.
 
-24 de janeiro de 2025. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 27 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé.
+> Alterado pelo/a [Portaria n.º 454/2026/2 - Diário da República n.º 220/2026, Série II de 2026-11-12](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1194835936), em vigor a partir de 2026-11-13.
 
-318622908
+24 de janeiro de 2025. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 27 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé.

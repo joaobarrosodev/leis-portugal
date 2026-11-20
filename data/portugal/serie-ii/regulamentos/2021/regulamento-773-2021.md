@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 270 - 276
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/161000000/0027000276.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-20'
+entry_into_force:
+  date: '2021-08-20'
+  rule: no dia seguinte à sua publicação, no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

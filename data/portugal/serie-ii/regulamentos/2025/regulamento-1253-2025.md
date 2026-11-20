@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 445 - 463
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/233000000/0044500463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-04'
+entry_into_force:
+  date: '2025-12-04'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 10 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/122088000/0001000012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

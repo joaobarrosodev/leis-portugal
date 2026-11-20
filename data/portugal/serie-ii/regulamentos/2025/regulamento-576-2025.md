@@ -24,6 +24,16 @@ publication:
   pages: 327 - 339
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/090000000/0032700339.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após à sua publicação no Diário da República e será publicitada por edital e no sítio da Internet
+    do Município de Oliveira de Azeméis em www.cm-oaz.pt
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

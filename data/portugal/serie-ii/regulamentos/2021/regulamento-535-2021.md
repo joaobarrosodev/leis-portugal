@@ -23,6 +23,15 @@ publication:
   pages: 413 - 420
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/111000000/0041300420.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos da lei
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17156 - 17172
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/116000000/1715617172.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-04'
+entry_into_force:
+  date: '2018-07-04'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-98
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

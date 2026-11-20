@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31 - 186
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/119000000/0003100186.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-22'
+entry_into_force:
+  date: '2024-06-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-9
+  effects_date: '2025-06-21'
+  effects_rule: 365 dias após a sua data de publicação, com exceção do previsto no Artigo 3.º e no Artigo 4.º, os quais
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

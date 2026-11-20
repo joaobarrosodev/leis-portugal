@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15410 - 15454
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/059000000/1541015454.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-01'
+entry_into_force:
+  date: '2010-05-01'
+  rule: em 01 de Maio de 2010
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 13610 - 13617
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/102000000/1361013617.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-27'
+entry_into_force:
+  date: '2015-05-27'
+  rule: na data da publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

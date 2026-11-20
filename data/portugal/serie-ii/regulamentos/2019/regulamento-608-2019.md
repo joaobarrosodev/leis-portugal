@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 190 - 202
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/146000000/0019000202.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-16'
+entry_into_force:
+  date: '2019-08-16'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

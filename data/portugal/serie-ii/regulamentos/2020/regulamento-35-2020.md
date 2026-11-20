@@ -23,6 +23,15 @@ publication:
   pages: 269 - 275
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/010000000/0026900275.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua aprovação e publicação no sítio do município
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

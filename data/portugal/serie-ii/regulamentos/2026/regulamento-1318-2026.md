@@ -23,6 +23,15 @@ publication:
   pages: 411 - 416
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/198000000/0041100416.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao termo do prazo legal de publicitação após a sua aprovação pelos órgãos municipais competentes
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

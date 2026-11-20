@@ -23,8 +23,24 @@ publication:
   pages: 21920 - 21926
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/098000000/2192021926.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado e publicitado nos termos legais, sendo aplicável aos contratos de bolsas assinados após esta data
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:130722326:por#art-32'
+    detail: 3 - O presente Regulamento revoga o [Regulamento n.º 341/2011], publicado no Diário da República, 2.ª série, n.º
+      98, de 20 de maio.
 notes: []
 language: por
 version:

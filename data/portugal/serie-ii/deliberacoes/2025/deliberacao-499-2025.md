@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/067000000/0016400176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:944666759:por#n-11'
+    detail: a) A [Deliberação n.º 499/2025], de 4 de abril, retificada pela [Declaração de Retificação n.º 472/2025/2], de
+      14 de maio
 notes: []
 language: por
 version:

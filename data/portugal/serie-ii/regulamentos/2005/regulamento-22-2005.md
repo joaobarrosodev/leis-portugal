@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4021 - 4022
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/051000000/0402104022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-03-15'
+entry_into_force:
+  date: '2005-03-15'
+  rule: no dia imediato ao da sua publicação no Diário da República, sendo aplicável à publicação dos documentos de prestação
+    de contas referentes ao exercício de 2004
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

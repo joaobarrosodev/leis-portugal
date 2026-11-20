@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/017010000/0003100041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-20'
+entry_into_force:
+  date: '2003-02-20'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

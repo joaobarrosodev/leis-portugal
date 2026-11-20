@@ -24,6 +24,16 @@ publication:
   pages: 259 - 270
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/041000000/0025900270.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao décimo quinto dia após ao da sua publicação no Diário da República nos termos do n.º 4 do artigo 90.º-B do Regime
+    Financeiro das Autarquias Locais e das Entidades Intermunicipais
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

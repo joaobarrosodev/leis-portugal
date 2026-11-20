@@ -23,6 +23,16 @@ publication:
   pages: 34398 - 34403
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/221000000/3439834403.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após cinco dias da sua afixação em edital, nos termos do disposto no artigo 56.º, n.º 1, da Lei n.º 75/2013, de 12
+    de setembro
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

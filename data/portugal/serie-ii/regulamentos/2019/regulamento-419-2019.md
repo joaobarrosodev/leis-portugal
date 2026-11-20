@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14502 - 14504
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/090000000/1450214504.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-20'
+entry_into_force:
+  date: '2019-05-20'
+  rule: dez dias sobre a sua publicação nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

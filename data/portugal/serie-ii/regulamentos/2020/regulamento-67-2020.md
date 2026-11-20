@@ -23,6 +23,15 @@ publication:
   pages: 196 - 206
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/018000000/0019600206.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2017-2018
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

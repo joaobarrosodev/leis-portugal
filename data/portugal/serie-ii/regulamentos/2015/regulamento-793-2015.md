@@ -23,6 +23,15 @@ publication:
   pages: 33354 - 33355
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/225000000/3335433355.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nesta data
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

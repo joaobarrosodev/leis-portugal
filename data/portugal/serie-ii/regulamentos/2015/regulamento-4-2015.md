@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 230 - 232
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/003000000/0023000232.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-07'
+entry_into_force:
+  date: '2015-01-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124134317:por#art-26'
+    detail: O presente regulamento revoga o [Regulamento n.º 4/2015] publicado no Diário da República, 2.ª série, n.º 3 de
+      6 de janeiro de 2015.
 notes: []
 language: por
 version:

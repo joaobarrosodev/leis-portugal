@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9874 - 9888
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/097000000/0987409888.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-03'
+entry_into_force:
+  date: '2017-06-03'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

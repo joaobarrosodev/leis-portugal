@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2675 - 2678
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/013000000/0267502678.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-19'
+entry_into_force:
+  date: '2019-01-19'
+  rule: no dia a seguir à publicação no Diário da República e
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: para as candidaturas a partir do ano letivo 2019/2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 2110 - 2113
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/012000000/0211002113.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:925410103:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 38/2018], publicado no Diário da República, 2.ª série, n.º 12
+      de 17 de janeiro de 2018.
 notes: []
 language: por
 version:

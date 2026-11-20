@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 326 - 330
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/202000000/0032600330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-18'
+entry_into_force:
+  date: '2024-10-18'
+  rule: no dia seguinte à sua publicação no Diário da República e tem efeitos retroativos ao início do ano letivo 2024/2025
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 3518 - 3519
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/046000000/0351803519.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a homologação pelo reitor, depois de aprovado no Senado da Universidade
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

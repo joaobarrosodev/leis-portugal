@@ -23,6 +23,15 @@ publication:
   pages: 70 - 72
   pdf_url: https://files.diariodarepublica.pt/2s/2006/08/161069000/0007000072.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República e revoga as publicações anteriores
+  method: clausula
+  article: n-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4347 - 4348
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/033000000/0434704348.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-18'
+entry_into_force:
+  date: '2015-02-18'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

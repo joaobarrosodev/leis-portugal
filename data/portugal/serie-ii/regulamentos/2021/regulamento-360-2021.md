@@ -23,8 +23,23 @@ publication:
   pages: 168 - 169
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/079000000/0016800169.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:181527588:por#art-11'
+    detail: É revogado o [Regulamento n.º 360/2021], de 15 de fevereiro, publicado no DRE, 2.ª, E, de 23 de abril.
 notes: []
 language: por
 version:

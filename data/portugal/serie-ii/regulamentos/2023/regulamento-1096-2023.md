@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 219 - 238
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/200000000/0021900238.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-16'
+entry_into_force:
+  date: '2023-10-16'
+  rule: após a sua publicação nos termos legais, sem prejuízo da sua publicação na internet e nos locais de estilo habituais
+    do Município
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

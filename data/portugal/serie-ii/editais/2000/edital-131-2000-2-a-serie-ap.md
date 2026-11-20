@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 69 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/088058000/0006900078.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-04-28'
+entry_into_force:
+  date: '2000-04-28'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 172 - 182
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/250000000/0017200182.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-30'
+entry_into_force:
+  date: '2023-12-30'
+  rule: no dia seguinte ao da sua publicação no Diário da República, conforme o disposto nos artigos 139.º e 140.º, do Código
+    do Procedimento Administrativo, após a sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

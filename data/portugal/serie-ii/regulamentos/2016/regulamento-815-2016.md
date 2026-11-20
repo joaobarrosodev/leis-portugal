@@ -24,6 +24,15 @@ publication:
   pages: 25767 - 25769
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/157000000/2576725769.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2014-2015
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

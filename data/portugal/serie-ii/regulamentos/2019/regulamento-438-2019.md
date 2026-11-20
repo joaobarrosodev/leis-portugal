@@ -24,6 +24,16 @@ publication:
   pages: 15130 - 15133
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/094000000/1513015133.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Técnico-científico da ESTF e é publicado na 2.ª série do Diário da República
+    e no sítio da ESTF na Internet
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

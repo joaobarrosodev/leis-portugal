@@ -24,6 +24,15 @@ publication:
   pages: 2394 - 2397
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/012000000/0239402397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2018/2019, após a sua aprovação pelo órgão competente
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

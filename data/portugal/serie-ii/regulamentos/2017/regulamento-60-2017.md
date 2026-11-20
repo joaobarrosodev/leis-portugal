@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1737 - 1755
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/017000000/0173701755.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-02-08'
+entry_into_force:
+  date: '2017-02-08'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República, à exceção da Secção I do Capítulo VI, a qual
+  method: clausula
+  article: art-120
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

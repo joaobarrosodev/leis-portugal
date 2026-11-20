@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3863 - 3865
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/017000000/0386303865.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-10'
+entry_into_force:
+  date: '2010-02-10'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Freguesia de Vila da Marmeleira
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

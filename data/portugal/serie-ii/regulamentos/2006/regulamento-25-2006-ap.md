@@ -23,6 +23,15 @@ publication:
   pages: 95 - 96
   pdf_url: https://files.diariodarepublica.pt/2s/2006/08/168070000/0009500096.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua aprovação pela assembleia de freguesia
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

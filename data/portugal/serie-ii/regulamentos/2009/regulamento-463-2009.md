@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 48030 - 48032
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/228000000/4803048032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-09'
+entry_into_force:
+  date: '2009-12-09'
+  rule: 15 dias após a publicação do respectivo edital
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

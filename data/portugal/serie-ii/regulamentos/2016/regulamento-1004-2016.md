@@ -23,6 +23,15 @@ publication:
   pages: 32723 - 32723
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/210000000/3272332723.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 148 - 152
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/204000000/0014800152.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-23'
+entry_into_force:
+  date: '2025-10-23'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-13
+  effects_date: '2025-09-17'
+  effects_rule: a 17 de setembro de 2025, ficando ratificados todos os atos praticados no âmbito das competências abrangidas
+    pela presente deliberação, desde aquela data até à sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

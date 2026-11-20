@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5301 - 5305
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/034000000/0530105305.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-17'
+entry_into_force:
+  date: '2018-02-17'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o período experimental de um ano, após o qual, mediante avaliação, poderá ver o seu conteúdo revisto e
+    alterado
 end_of_validity_date: null
 legal_status: unknown
 notes: []

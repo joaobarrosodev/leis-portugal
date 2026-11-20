@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 195 - 199
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/110000000/0019500199.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-08'
+entry_into_force:
+  date: '2022-06-08'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

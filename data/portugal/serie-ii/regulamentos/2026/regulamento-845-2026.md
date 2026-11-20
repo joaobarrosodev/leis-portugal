@@ -23,6 +23,16 @@ publication:
   pages: 377 - 380
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/128000000/0037700380.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois da sua aprovação pelo Executivo da Junta de Freguesia e pela Assembleia de Freguesia seguindo-se quinze dias
+    após a sua publicitação nos termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/087000000/0009300103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1171008104:por#n-6'
+    detail: 6 - A presente Deliberação revoga a [Deliberação n.º 538/2026], de 6 de maio, publicado no Diário da República,
+      2.ª série, n.º 87, de 06 de maio de 2026.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 2903 - 2910
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/016000000/0290302910.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes e respetiva publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

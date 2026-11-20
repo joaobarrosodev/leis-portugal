@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 184 - 196
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/169000000/0018400196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-02'
+entry_into_force:
+  date: '2022-09-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:922535513:por#art-43'
+    detail: É revogado o [Regulamento n.º 850/2022], de 22 de agosto, publicado na 2.ª série do Diário da República, n.º 169,
+      de 1 de setembro.
 notes: []
 language: por
 version:

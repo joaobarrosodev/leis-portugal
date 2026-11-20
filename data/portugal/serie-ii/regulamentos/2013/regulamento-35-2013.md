@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/013000000/0280002801.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107668090:por#art-36'
+    detail: a) [Regulamento n.º 35/2013], publicado no Diário da República, 2.ª série, de 18 de janeiro de 2013
 notes: []
 language: por
 version:

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 27272 - 27290
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/208000000/2727227290.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-12'
+entry_into_force:
+  date: '2014-11-12'
+  rule: 15 dias após a sua publicação no Diário da República, revogando o anterior Regulamento de Abastecimento de Água e
+    Saneamento ao Concelho de Matosinhos e o Regulamento de Águas Residuais do Município d
+  method: clausula
+  article: art-103
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

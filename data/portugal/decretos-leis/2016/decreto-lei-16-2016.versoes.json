@@ -3,7 +3,7 @@
  "id": "pt:dre:73807563:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826434",
  "dre_path": "/dr/detalhe/decreto-lei/16-2016-73807563",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-03",
  "versions": [
   {
    "date": "2016-03-09",
@@ -218,6 +218,49 @@
     "901966270",
     "901966271",
     "220212289",
+    "176884836",
+    "901900221",
+    "176884837",
+    "176884827",
+    "176884828"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1190056897:por",
+     "title": "Decreto-Lei n.º 207/2026",
+     "published": "2026-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2026-1190056897"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "901966268",
+    "176884838",
+    "220212286",
+    "176884781",
+    "901900215",
+    "176884830",
+    "176884839",
+    "901966269",
+    "901900216",
+    "901900217",
+    "901900218",
+    "901900219",
+    "176884840",
+    "1190118275",
+    "901966270",
+    "901966271",
+    "1190118475",
     "176884836",
     "901900221",
     "176884837",
@@ -782,6 +825,31 @@
     "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
    ],
    "markdown": "###### Artigo 16.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afeto, apurados após a respetiva liquidação, é determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e do mar.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+  },
+  "1190118275": {
+   "fragment_id": "176874143",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Entidade gestora",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a ApC, I. P., que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A gestão financeira é prestada pela ApC, I. P., designadamente os serviços contabilísticos necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n5 - (Revogado.)\n\n6 - O Fundo não possui mapa de pessoal.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - Dos atos praticados pela ApC, I. P., enquanto responsável pela gestão do Fundo Azul, não cabe recurso administrativo, respondendo o Fundo pelos mesmos junto dos tribunais administrativos, em caso de impugnação judicial, nos termos das leis do processo administrativo.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "1190118475": {
+   "fragment_id": "122826449",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscal único",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e do mar, o qual fixa os termos do exercício da função e a respetiva remuneração.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o diretor e o conselho consultivo sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira sempre que lhe seja solicitado pelo diretor ou pelo conselho consultivo.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.\n\n5 - No caso de cessação do mandato o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
   }
  }
 }

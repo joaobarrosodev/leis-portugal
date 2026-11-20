@@ -23,8 +23,24 @@ publication:
   pages: 21541 - 21542
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/133000000/2154121542.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2016-2017
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:123544743:por#art-9'
+    detail: Pelo presente regulamento é revogado o [Regulamento n.º 655/2016], de 13 de julho, publicado na 2.ª série do Diário
+      da República, n.º 133.
 notes: []
 language: por
 version:

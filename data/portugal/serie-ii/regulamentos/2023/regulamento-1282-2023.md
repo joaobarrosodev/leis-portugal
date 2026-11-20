@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 536 - 543
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/232000000/0053600543.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-10'
+entry_into_force:
+  date: '2023-12-10'
+  rule: 10 dias após a sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

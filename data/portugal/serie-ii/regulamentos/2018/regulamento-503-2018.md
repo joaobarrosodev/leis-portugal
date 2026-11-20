@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21061 - 21067
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/148000000/2106121067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-17'
+entry_into_force:
+  date: '2018-08-17'
+  rule: 15 dias após a sua publicação em edital a fixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

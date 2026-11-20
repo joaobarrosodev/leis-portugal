@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 179 - 179
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/013000000/0017900179.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-21'
+entry_into_force:
+  date: '2026-01-21'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-4
+  effects_date: '2026-01-21'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

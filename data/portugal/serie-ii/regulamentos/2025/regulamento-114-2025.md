@@ -23,6 +23,15 @@ publication:
   pages: 257 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/013000000/0025700263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a devida aprovação da Câmara Municipal, sujeição a Consulta Pública e aprovação em Assembleia Municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 545 - 554
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/208000000/0054500554.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que forem aprovados em Assembleia de Freguesia da Póvoa de Varzim
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

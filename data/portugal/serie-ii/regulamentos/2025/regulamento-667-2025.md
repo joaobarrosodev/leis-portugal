@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 529 - 542
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/099000000/0052900542.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-24'
+entry_into_force:
+  date: '2025-05-24'
+  rule: no dia imediato ao da sua publicação em Edital, a afixar no edifício da Sede da União das Freguesias de Palhais e
+    Coina, após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

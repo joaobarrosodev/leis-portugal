@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 516 - 522
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/156000000/0051600522.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-08-14'
+entry_into_force:
+  date: '2026-08-14'
+  rule: 'no dia seguinte ao da sua publicação no Diário da República, nos termos do artigo 139.º do Código do Procedimento
+    Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

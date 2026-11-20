@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 526 - 535
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/140000000/0052600535.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-01'
+entry_into_force:
+  date: '2024-11-01'
+  rule: a 1 de novembro de 2024, com expressa exclusão das reservas comprovadamente efetuadas antes desta data para o ano
+    de 2024
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

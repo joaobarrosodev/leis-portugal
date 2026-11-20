@@ -23,6 +23,15 @@ publication:
   pages: 597 - 600
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/015000000/0059700600.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Órgão Deliberativo
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

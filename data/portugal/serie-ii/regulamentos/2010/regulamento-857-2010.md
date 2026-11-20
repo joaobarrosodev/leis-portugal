@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 57638 - 57641
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/229000000/5763857641.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-11-25'
+entry_into_force:
+  date: '2010-11-25'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: 'nos Cursos de Doutoramento que iniciaram no ano lectivo de 2009-2010 exceptuando-se o n.º 2 do Artigo 11.º,
+    que se aplicará a todos os candidatos que iniciaram o seu processo de doutoramento a partir '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 541 - 549
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/135000000/0054100549.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

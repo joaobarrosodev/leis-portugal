@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 101 - 109
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/036024000/0010100109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-22'
+entry_into_force:
+  date: '2005-02-22'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-74
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

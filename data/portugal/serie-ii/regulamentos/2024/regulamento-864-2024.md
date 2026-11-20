@@ -23,6 +23,15 @@ publication:
   pages: 610 - 615
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/152000000/0061000615.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião de Assembleia Municipal
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

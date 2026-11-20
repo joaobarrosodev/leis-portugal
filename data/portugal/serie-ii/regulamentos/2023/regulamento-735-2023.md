@@ -23,6 +23,16 @@ publication:
   pages: 600 - 603
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/127000000/0060000603.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o tempo de mandato do presente executivo, podendo eventualmente ser renovado pelos executivos que venham
+    a ser eleitos no futuro
 end_of_validity_date: null
 legal_status: unknown
 notes: []

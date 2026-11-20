@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 376 - 438
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/132000000/0037600438.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-08'
+entry_into_force:
+  date: '2026-10-08'
+  rule: noventa dias após a sua publicação
+  method: clausula
+  article: art-138
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

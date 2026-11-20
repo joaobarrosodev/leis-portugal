@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 306 - 326
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/166000000/0030600326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-28'
+entry_into_force:
+  date: '2025-08-28'
+  rule: 12 meses após a sua publicação no Diário da República, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

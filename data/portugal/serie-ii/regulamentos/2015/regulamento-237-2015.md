@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11747 - 11748
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/091000000/1174711748.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-12'
+entry_into_force:
+  date: '2015-05-12'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

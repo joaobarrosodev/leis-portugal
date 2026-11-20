@@ -23,6 +23,15 @@ publication:
   pages: 68 - 75
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/216142000/0006800075.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

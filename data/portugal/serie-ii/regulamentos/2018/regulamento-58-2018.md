@@ -23,6 +23,15 @@ publication:
   pages: 3002 - 3004
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/017000000/0300203004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

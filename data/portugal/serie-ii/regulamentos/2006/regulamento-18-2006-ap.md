@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2006/07/139062000/0002400028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-25'
+entry_into_force:
+  date: '2006-07-25'
+  rule: no 5.º dia seguinte ao da sua publicação no Diário da República, após aprovação em Assembleia Municipal
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

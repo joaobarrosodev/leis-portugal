@@ -23,6 +23,15 @@ publication:
   pages: 3528 - 3530
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/041000000/0352803530.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicitação no Boletim Municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 39919 - 39921
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/142000000/3991939921.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-07'
+entry_into_force:
+  date: '2010-08-07'
+  rule: 15 dias após a sua publicação em Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 735 - 753
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/248000000/0073500753.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação nos termos previsto na lei
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

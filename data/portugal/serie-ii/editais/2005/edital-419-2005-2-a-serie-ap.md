@@ -23,6 +23,15 @@ publication:
   pages: 26 - 29
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/139100000/0002600029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

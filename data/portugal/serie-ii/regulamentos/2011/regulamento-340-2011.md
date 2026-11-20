@@ -23,6 +23,16 @@ publication:
   pages: 21793 - 21795
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/097000000/2179321795.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Câmara Municipal de Mondim de Basto e pela Assembleia Municipal de Mondim de Basto e depois de
+    publicado no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

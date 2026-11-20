@@ -23,6 +23,16 @@ publication:
   pages: 22104-(134) a 22104-(136)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/148000001/0013400136.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua afixação por edital na Câmara Municipal e em todos os seus serviços desconcentrados, sem
+    prejuízo da sua publicação no Diário da República para uma maior divulgação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

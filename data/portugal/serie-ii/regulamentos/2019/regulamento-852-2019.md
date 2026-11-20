@@ -23,6 +23,15 @@ publication:
   pages: 289 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/210000000/0028900293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao da sua publicação no Diário da República Eletrónico
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

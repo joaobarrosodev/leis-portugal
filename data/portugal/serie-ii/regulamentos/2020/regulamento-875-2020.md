@@ -23,6 +23,15 @@ publication:
   pages: 237 - 258
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/200000000/0023700258.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18230-(211) a 18230-(213)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/122000001/0021100213.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-12'
+entry_into_force:
+  date: '2007-07-12'
+  rule: 15 dias após a data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

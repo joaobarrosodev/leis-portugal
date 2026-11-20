@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/095000000/1257412576.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:127239233:por#art-28'
+    detail: É revogado o [Regulamento n.º 257/2015], publicado no Diário da República, 2.ª série, n.º 95, de 18 de maio.
 notes: []
 language: por
 version:

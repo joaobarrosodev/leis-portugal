@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/131000000/2904029045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1525061:por#texto'
+    detail: 2 - Este regulamento entra imediatamente em vigor substituindo e revogando o [Regulamento n.º 412/2011] publicado
+      N.º 131 do Diário da República, 2.ª série, de 11 de julho.
 notes: []
 language: por
 version:

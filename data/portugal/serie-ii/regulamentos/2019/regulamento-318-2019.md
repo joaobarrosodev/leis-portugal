@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 10609 - 10611
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/066000000/1060910611.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-04'
+entry_into_force:
+  date: '2019-04-04'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:186995513:por#art-22'
+    detail: É revogado o [Regulamento n.º 318/2019], publicado no Diário da República n.º 66, 2.ª série, de 3 de abril de
+      2019.
 notes: []
 language: por
 version:

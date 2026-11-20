@@ -23,6 +23,15 @@ publication:
   pages: 55 - 56
   pdf_url: https://files.diariodarepublica.pt/2s/2005/11/214146000/0005500056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

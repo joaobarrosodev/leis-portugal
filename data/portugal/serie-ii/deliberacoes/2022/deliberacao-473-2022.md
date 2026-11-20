@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 134 - 137
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/074000000/0013400137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-15'
+entry_into_force:
+  date: '2022-04-15'
+  rule: no dia seguinte à data da publicação no Diário da República, sendo também publicitado no portal do Ministério Público
+    e no SIMP
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

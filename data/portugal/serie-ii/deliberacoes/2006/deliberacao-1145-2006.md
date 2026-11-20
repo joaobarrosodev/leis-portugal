@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16825 - 16827
   pdf_url: https://files.diariodarepublica.pt/2s/2006/08/166000000/1682516827.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-30'
+entry_into_force:
+  date: '2006-08-30'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 694 - 698
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/088000000/0069400698.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da sua aprovação pela CMGIFR
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

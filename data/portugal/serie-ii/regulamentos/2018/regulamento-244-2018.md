@@ -23,6 +23,15 @@ publication:
   pages: 12019 - 12021
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/081000000/1201912021.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Conselho Técnico-Científico
+  method: clausula
+  article: art-15
+  effects_date: '2018-04-26'
+  effects_rule: após a sua publicação no Diário da República, data a partir do qual se revoga o regulamento anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

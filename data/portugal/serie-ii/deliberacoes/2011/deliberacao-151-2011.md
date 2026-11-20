@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2862 - 2872
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/009000000/0286202872.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: no dia 1 de Janeiro de 2010, ou no 1.º dia do mês seguinte à data da sua publicação no Diário da República, 2.ª série,
+    se posterior
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

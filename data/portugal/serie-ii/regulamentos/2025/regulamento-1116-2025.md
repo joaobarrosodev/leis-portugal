@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 307 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/189000000/0030700320.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-02'
+entry_into_force:
+  date: '2025-10-02'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

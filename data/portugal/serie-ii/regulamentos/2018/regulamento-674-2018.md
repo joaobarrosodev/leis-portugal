@@ -23,6 +23,16 @@ publication:
   pages: 27799 - 27803
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/199000000/2779927803.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República, devendo ser afixado, a todo o tempo, na Escola
+    Básica e Secundária da Graciosa, nas Juntas de Freguesia do Concelho e publicado no sí
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

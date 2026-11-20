@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18501 - 18503
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/163000000/1850118503.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-25'
+entry_into_force:
+  date: '2017-08-25'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

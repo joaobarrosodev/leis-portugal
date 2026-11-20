@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2274 - 2282
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/011000000/0227402282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-31'
+entry_into_force:
+  date: '2013-01-31'
+  rule: 15 dias após a sua publicação no Diário da República (1)
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

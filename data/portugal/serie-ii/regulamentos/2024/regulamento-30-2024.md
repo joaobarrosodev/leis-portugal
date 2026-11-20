@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 634 - 639
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/009000000/0063400639.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-27'
+entry_into_force:
+  date: '2024-01-27'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

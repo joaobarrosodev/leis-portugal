@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27778 - 27780
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/199000000/2777827780.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-17'
+entry_into_force:
+  date: '2018-10-17'
+  rule: no dia seguinte ao da sua publicação nos meios legalmente definidos
+  method: clausula
+  article: n-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

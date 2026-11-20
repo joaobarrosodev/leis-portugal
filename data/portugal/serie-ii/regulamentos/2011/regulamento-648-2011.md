@@ -23,6 +23,15 @@ publication:
   pages: 50686 - 50697
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/248000000/5068650697.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês de Janeiro de 2012, após a sua publicação no Diário da República
+  method: clausula
+  article: art-88
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

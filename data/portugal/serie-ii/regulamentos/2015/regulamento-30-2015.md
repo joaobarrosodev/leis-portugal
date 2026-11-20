@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2612 - 2616
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/018000000/0261202616.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-28'
+entry_into_force:
+  date: '2015-01-28'
+  rule: no dia seguinte ao da sua publicação, aplicando-se a todos os contratos de bolsa vigentes bem como aos que venham
+    a ser celebrados posteriormente, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

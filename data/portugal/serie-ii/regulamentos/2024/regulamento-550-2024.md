@@ -24,8 +24,25 @@ publication:
   pages: 793 - 806
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/094000000/0079300806.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Conselho de Direção da EUVG e publicação no Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:962602704:por#art-22'
+    detail: O presente regulamento revoga o [Regulamento n.º 550/2024], publicado na 2.ª série do Diário da República, n.º
+      94, de 15 de maio, bem como todos os despachos ou outras normas internas que contrariem ou disponham de forma diferente
+      às matérias aqui tratadas.
 notes: []
 language: por
 version:

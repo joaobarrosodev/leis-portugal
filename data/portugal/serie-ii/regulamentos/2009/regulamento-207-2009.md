@@ -23,6 +23,15 @@ publication:
   pages: 20309 - 20309
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/097000000/2030920309.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após serem feitas as aprovações e publicações exigidas por lei
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

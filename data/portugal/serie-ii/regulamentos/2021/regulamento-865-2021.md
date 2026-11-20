@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 164 - 166
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/181000000/0016400166.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-17'
+entry_into_force:
+  date: '2021-09-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

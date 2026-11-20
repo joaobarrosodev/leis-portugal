@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 13701 - 13712
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/062000000/1370113712.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-29'
+entry_into_force:
+  date: '2008-03-29'
+  rule: no dia seguinte ao da sua publicação no Diário da República, considerando-se revogadas as anteriores disposições normativas
+    do Serviço de Abastecimento de Água no Concelho de Caldas da Rainha e de Dre
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

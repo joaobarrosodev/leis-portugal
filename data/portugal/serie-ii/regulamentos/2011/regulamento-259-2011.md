@@ -23,6 +23,15 @@ publication:
   pages: 18055 - 18056
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/079000000/1805518056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após ser homologado pelo Reitor
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

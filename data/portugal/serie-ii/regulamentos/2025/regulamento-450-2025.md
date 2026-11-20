@@ -23,6 +23,15 @@ publication:
   pages: 308 - 327
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/066000000/0030800327.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 20.º dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

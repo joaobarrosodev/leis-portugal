@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:915072123:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-927406273",
+ "dre_path": "/dr/detalhe/portaria/188-2025-915072123",
+ "source_lastmod": "2026-10-23",
+ "versions": [
+  {
+   "date": "2026-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1184835235:por",
+     "title": "Portaria n.º 467/2026/1",
+     "published": "2026-10-23",
+     "dre_path": "/dr/detalhe/portaria/467-2026-1184835235"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera A.1 - Metodologias de desenvolvimento dos PGRH"
+   ],
+   "fragments": [
+    "927472675",
+    "927472875",
+    "1185258175",
+    "927473275",
+    "927473475",
+    "927473675",
+    "927473875",
+    "1185257975",
+    "1185247775",
+    "1185247975",
+    "1185248175"
+   ]
+  }
+ ],
+ "fragments": {
+  "927472675": {
+   "fragment_id": "927472575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro, que estabelece um quadro de ação comunitária no domínio da política da água (Diretiva Quadro da Água-DQA), foi transposta para o ordenamento jurídico interno pela Lei n.º 58/2005, de 29 de dezembro, que aprova a Lei da Água (doravante designada por LA), alterada pelos Decretos-Leis n.<sup>os</sup> 245/2009, de 22 de setembro, 60/2012, de 14 de março, e 130/2012, de 22 de junho, pelas Leis n.<sup>os</sup> 42/2016, de 28 de dezembro, e 44/2017, de 19 de junho, pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro, e pela Lei n.º 82/2023, de 29 de dezembro, tendo a sua transposição sido complementada pelo Decreto-Lei n.º 77/2006, de 30 de março, alterado pelos Decretos-Leis n.<sup>os </sup>103/2010, de 24 de setembro, e 42/2016, de 1 de agosto.\n\nA LA consagra elementos fundamentais para a proteção da água e dos ecossistemas aquáticos num quadro coerente com a valorização dos recursos hídricos e, por isso, também em articulação com o ordenamento do território e os eventos extremos associados, desenvolvendo, para esse efeito, princípios ambientais, económicos e de participação pública no domínio da gestão de recursos hídricos.\n\nImporta salientar que no n.º 2 do artigo 3.º da LA, é estabelecida a região hidrográfica (doravante RH) como a unidade principal de planeamento e gestão das águas, tendo por base a bacia hidrográfica, motivo pelo qual os planos de gestão de região hidrográfica (PGRH) devem ser elaborados numa perspetiva integrada, que tem por base a RH.\n\nEsta opção de planeamento dos recursos hídricos, para além de ir ao encontro do disposto na DQA - a qual prevê a elaboração, pelos Estados-Membros, de um plano para cada RH - e de ser conforme com a matriz de planeamento e gestão das águas prevista na LA, permite, ainda, que os PGRH a elaborar para cada RH estejam articulados entre si, alcançando-se, deste modo, uma desejável harmonia no planeamento e gestão das águas, sem prejuízo da sua necessária articulação e harmonização com o Plano Nacional da Água.\n\nAo abrigo do disposto no n.º 2 do artigo 29.º da LA, foi publicada a Portaria n.º 1284/2009, de 19 de outubro, que estabeleceu o conteúdo dos PGRH.\n\nDecorridos 15 anos desta publicação e três ciclos de planeamento, importa proceder à atualização desta portaria, com base na experiência adquirida, numa ótica de melhoria contínua, de simplificação e de adaptação às recentes tecnologias e sistemas de informação e de comunicação, bem como das orientações que resultam dos trabalhos de implementação comum da DQA.\n\nNos termos do n.º 3 do artigo 29.º da LA, os PGRH são revistos de seis em seis anos, sendo que o processo de revisão de cada ciclo de PGRH se deve iniciar três anos antes da sua entrada em vigor.\n\nAssim:\n\nAo abrigo e para os efeitos do disposto no n.º 2 do artigo 29.º e no n.º 3 do artigo 102.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, manda o Governo, pela Ministra do Ambiente e Energia, o seguinte:"
+  },
+  "927472875": {
+   "fragment_id": "927472775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o conteúdo dos planos de gestão de região hidrográfica (PGRH), ao abrigo do disposto no n.º 2 do artigo 29.º da Lei da Água."
+  },
+  "1185258175": {
+   "fragment_id": "927472975",
+   "type": 11,
+   "heading": "Artigo 2.º — Elaboração e aprovação dos planos de gestão de região hidrográfica",
+   "in_force_from": "2026-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 467/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235), em vigor a partir de 2026-10-24."
+   ],
+   "markdown": "###### Artigo 2.º — Elaboração e aprovação dos planos de gestão de região hidrográfica\n\n1 - [Revogado.]\n\n2 - O processo de revisão de cada ciclo de PGRH deve iniciar-se três anos antes da sua entrada em vigor, com as seguintes fases:\n\na) A elaboração do calendário e programa de trabalhos, até três anos antes do início do novo ciclo, com uma fase de participação pública de seis meses;\n\nb) Para cada região hidrográfica, deve ser efetuada uma síntese das questões significativas relativas à gestão da água (QSiGA) que deve estar concluída num prazo máximo de dois anos antes do início do novo ciclo e incluir uma fase de participação pública com um prazo de seis meses;\n\nc) O projeto dos PGRH deve estar concluído num prazo máximo de um ano antes do início do novo ciclo e incluir uma fase de participação pública de seis meses.\n\n3 - O conteúdo dos PGRH consta do anexo à presente portaria, da qual faz parte integrante.\n\n4 - A elaboração dos PGRH deve ser acompanhada pelos Conselhos de Região Hidrográfica (CRH), nos termos previstos no artigo 3.º da Portaria n.º 37/2015, de 17 de fevereiro, e pelo Conselho Nacional da Água, de acordo com o disposto no artigo 11.º da Lei da Água.\n\n5 - No caso dos PGRH que incidem sobre as RH internacionais, a sua elaboração deve ser articulada com a autoridade competente do Reino de Espanha através dos mecanismos de coordenação adequados.\n\n6 - Os PGRH encontram-se sujeitos a Avaliação Ambiental Estratégica, nos termos do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual.\n\n7 - Os documentos e relatórios de ponderação dos contributos das consultas públicas decorrentes dos n.ºs 1, 2 e 6 devem ser disponibilizados no sítio eletrónico da autoridade nacional da água.\n\n8 - Os PGRH são aprovados por resolução do Conselho de Ministros e devem ser publicados no Diário da República e disponibilizados no sítio eletrónico da autoridade nacional da água.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 467/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235), em vigor a partir de 2026-10-24."
+  },
+  "927473275": {
+   "fragment_id": "927473175",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1284/2009, de 19 de outubro."
+  },
+  "927473475": {
+   "fragment_id": "927473375",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "927473675": {
+   "fragment_id": "927473575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 10 de abril de 2025."
+  },
+  "927473875": {
+   "fragment_id": "927473775",
+   "type": 14,
+   "heading": "Anexo — Conteúdo dos planos de gestão de região hidrográfica (PGRH)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Conteúdo dos planos de gestão de região hidrográfica (PGRH)\n\n(a que se refere o n.º 3 do artigo 2.º)"
+  },
+  "1185257975": {
+   "fragment_id": "1185243975",
+   "type": 4,
+   "heading": "A.1 - Metodologias de desenvolvimento dos PGRH",
+   "in_force_from": "2026-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 467/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235), em vigor a partir de 2026-10-24."
+   ],
+   "markdown": "## A.1 - Metodologias de desenvolvimento dos PGRH\n\nAs metodologias devem ser comuns a todas as RH e apresentadas num relatório único com a seguinte estrutura e conteúdo:\n\nI. Enquadramento e objetivos\n\nApresentação do enquadramento legal e institucional do processo de planeamento, bem como dos objetivos do plano e os princípios orientadores de planeamento e gestão de recursos hídricos. Compreende ainda a metodologia de elaboração e a estrutura do plano por RH e nos casos das bacias internacionais a articulação com o Reino de Espanha nos termos previstos na LA/DQA.\n\nII. Metodologias da caraterização e diagnóstico\n\n1 - Apresentação das variáveis de caraterização territorial e institucional incluindo o enquadramento geográfico e administrativo da RH.\n\n2 - Descrição das metodologias utilizadas na delimitação e caraterização das massas de água:\n\n2.1 - Definição das condições de referência para cada tipo de massa de água;\n\n2.2 - Identificação e designação de massas de água fortemente modificadas e artificiais;\n\n2.3 - Identificação dos ecossistemas aquáticos de superfície ou ecossistemas terrestres associados a massas de água subterrâneas.\n\n3 - Descrição das metodologias na identificação das zonas protegidas, incluindo a legislação comunitária e nacional pela qual estão abrangidas e as respetivas atualizações:\n\n3.1 - Zonas designadas para a captação de água destinada à produção de água para consumo humano;\n\n3.2 - Zonas designadas para a proteção de espécies aquáticas de interesse económico;\n\n3.3 - Zonas designadas como águas balneares;\n\n3.4 - Zonas designadas como zonas vulneráveis;\n\n3.5 - Zonas designadas como zonas sensíveis;\n\n3.6 - Zonas designadas para a proteção de habitats e da fauna e flora selvagens e a conservação das aves selvagens, incluindo os sítios relevantes da Rede Natura 2000;\n\n3.7 - Zonas de infiltração máxima.\n\n4 - Descrição das metodologias de caraterização climatológica, incluindo a análise de variáveis como a precipitação, a temperatura e a evapotranspiração.\n\n5 - Descrição das metodologias de avaliação das disponibilidades hídricas em regime natural e em regime modificado, em ano médio, seco e húmido.\n\n6 - Descrição das metodologias de avaliação dos recursos hídricos subterrâneos disponíveis.\n\n7 - Descrição das metodologias a adotar para a definição do regime de caudais ecológicos e de caudais ambientais para as massas de água superficiais e subterrâneas.\n\n8 - Descrição das metodologias de análise dos eventos extremos de inundações e de secas.\n\n9 - Descrição das metodologias de inventariação e de caraterização das pressões qualitativas, quantitativas, hidromorfológicas e biológicas sobre as massas de água.\n\n10 - Descrição das metodologias de avaliação do balanço entre os volumes de água captados por setor e as disponibilidades hídricas atuais, incluindo o cálculo do índice de escassez.\n\n11 - Descrição das metodologias e critérios para a definição dos programas de monitorização.\n\n12 - Descrição das metodologias e critérios para a classificação do estado das massas de água.\n\n13 - Descrição das metodologias de análise dos riscos tecnológicos e naturais.\n\n14 - Descrição das metodologias de análise das relações entre o estado das massas de água, os impactes e as pressões, que são responsáveis pelo estado inferior a Bom, nos termos definidos na DQA/LA, identificando-se os impactes e as pressões significativas.\n\nIII. Metodologias da análise económica das utilizações da água\n\n1 - Definição das variáveis de caraterização socioeconómica incluindo indicadores demográficos, setoriais e territoriais das atividades económicas.\n\n2 - Descrição das metodologias de caraterização dos setores utilizadores da água, nomeadamente urbano, indústria, agricultura, pecuária, pesca, aquicultura, turismo e energia.\n\n3 - Descrição das metodologias de análise das políticas de preços da água, considerando o sistema tarifário aplicado e a taxa de recursos hídricos (TRH).\n\n4 - Descrição das metodologias de caraterização económica e financeira dos serviços de águas, considerando o nível de recuperação de custos (NRC) e os custos ambientais e de recurso.\n\n5 - Descrição da metodologia para definir, por RH, as prioridades de usos da água, considerando as disponibilidades existentes após a definição dos caudais ecológicos ou ambientais.\n\nIV. Metodologias dos cenários prospetivos\n\n1 - Identificação das políticas públicas setoriais com potenciais impactes nas massas de água, considerando os respetivos planos estratégicos, planos de ação e outros instrumentos, a nível nacional, da União Europeia e internacional.\n\n2 - Descrição das metodologias e análise da evolução prevista dos cenários socioeconómicos tendo em conta o contexto mundial, europeu e a situação económica em Portugal.\n\n3 - Descrição das metodologias de análise das tendências económicas setoriais nacionais que influenciam as pressões e os impactes gerados pelas utilizações da água, mediante a construção de cenários prospetivos.\n\n4 - Descrição das metodologias da avaliação dos impactes das alterações climáticas nas massas de água, com base nos cenários climáticos correspondentes a diferentes horizontes temporais e trajetórias de emissão de gases com efeito de estufa.\n\n5 - Descrição das metodologias para identificação e caraterização dos principais projetos previstos com potencial impacte nas massas de água e respetiva análise crítica.\n\n6 - Descrição das metodologias de análise da evolução das principais pressões setoriais mais significativas em termos de consumos de água (quantitativas) e de cargas poluentes (qualitativas) que podem impedir alcançar o bom estado das massas de água.\n\n7 - Descrição das metodologias de análise do balanço entre as disponibilidades hídricas e as necessidades de água futuras e potenciais impactes no estado das massas de água.\n\nV. Metodologias na definição dos objetivos ambientais\n\n1 - Definição dos objetivos estratégicos e operacionais, com indicação dos respetivos indicadores de monitorização e metas associadas.\n\n2 - Descrição das metodologias para definição dos objetivos ambientais estabelecidos na DQA/LA para as massas de água, bem como as normas complementares definidas para as zonas protegidas em legislação própria.\n\n3 - Descrição da metodologia a adotar quando não seja possível atingir os objetivos ambientais até ao final de cada ciclo de planeamento, em termos da prorrogação do prazo para os atingir ou derrogação para um objetivo menos exigente, nos termos previstos na DQA/LA.\n\nVI. Metodologias na definição do programa de medidas\n\n1 - Definição da metodologia adotada para a construção dos programas de medidas, tendo em conta a exequibilidade técnica e a análise económica das medidas potenciais, a caracterização socioeconómica dos agentes envolvidos e o contributo adequado dos diversos sectores económicos de acordo com o princípio do utilizador-pagador.\n\n2 - A definição do programa de medidas deve considerar o definido no artigo 30.º da LA, bem como incluir as medidas básicas respeitantes a quaisquer outros impactos adversos significativos sobre o estado das águas, e deve organizar as medidas em eixos, com a respetiva correspondência aos Key Types of Measures (KTM) - definidos nos guias de reporte dos PGRH à Comissão Europeia (WFD reporting guidance for the River Basin Management Plans).\n\n3 - Descrição da metodologia para definição de prioridades para as medidas definidas e respetiva análise custo-eficácia (ACE).\n\nVII. Sistema de acompanhamento e avaliação\n\n1 - Apresentação do sistema organizacional que garante a promoção da sua aplicação e assegura a avaliação do respetivo progresso.\n\n2 - Definição dos indicadores que permitem medir o estado, a pressão e a resposta, bem como o seu progresso.\n\n3 - Definição das metodologias, mecanismos de recolha e tratamento dos dados para cálculo dos indicadores definidos, bem como identificação das entidades responsáveis pela sua efetivação, periodicidade de reporte e prazos de produção e divulgação dos indicadores.\n\n4 - Definição dos mecanismos que garantem a participação pública de acompanhamento da sua aplicação.\n\n5 - Identificação dos produtos que garantem o acesso à informação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 467/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235), em vigor a partir de 2026-10-24."
+  },
+  "1185247775": {
+   "fragment_id": "1185247675",
+   "type": 4,
+   "heading": "A.2 - Documentos específicos dos PGRH relativos a cada RH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A.2 - Documentos específicos dos PGRH relativos a cada RH\n\nOs PGRH devem, em cada RH, ter a seguinte estrutura e conteúdo:\n\nI. Balanço do ciclo anterior\n\nApresentação do balanço do ciclo de planeamento anterior, no que se refere à implementação do programa de medidas e ao atingir dos objetivos ambientais definidos.\n\nII. Caraterização e diagnóstico\n\n1 - Caraterização territorial e institucional incluindo o enquadramento geográfico e administrativo da RH.\n\n2 - Caraterização das massas de água, com a identificação, a localização geográfica e os limites das massas de água, os fundamentos da designação das massas de água artificiais e das massas de água fortemente modificadas e identificação das massas de água subterrâneas associadas a ecossistemas aquáticos de superfície ou ecossistemas terrestres que delas dependem diretamente.\n\n3 - Identificação, localização e caraterização das zonas protegidas.\n\n4 - Caraterização climatológica, incluindo a análise de variáveis como a precipitação, a temperatura e a evapotranspiração.\n\n5 - Avaliação das disponibilidades hídricas em regime natural e em regime modificado, em ano médio, seco e húmido.\n\n6 - Avaliação dos recursos hídricos subterrâneos disponíveis, incluindo a recarga global média anual a longo prazo.\n\n7 - Análise dos eventos extremos de inundações e de secas.\n\n8 - Caraterização do regime de caudais entre Portugal e Espanha no âmbito da Convenção de Cooperação para a Proteção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas (Convenção de Albufeira) e o seu cumprimento.\n\n9 - Definição do regime de caudais ecológicos e de caudais ambientais para as massas de água superficiais e subterrâneas.\n\n10 - Inventariação e caraterização das pressões sobre as massas de água.\n\n11 - Balanço entre os volumes de água captados por setor e as disponibilidades hídricas, incluindo o cálculo do índice de escassez.\n\n12 - Caraterização das redes de monitorização para as massas de águas superficiais e subterrâneas e zonas protegidas.\n\n13 - Classificação do estado das massas de água superficiais e subterrâneas, identificando para o estado inferior a bom os parâmetros responsáveis por essa classificação e estabelecer a relação com os impactes e as pressões significativas que justifiquem não atingir os objetivos ambientais.\n\n14 - Avaliação das zonas protegidas.\n\n15 - Análise dos riscos tecnológicos e naturais, como sejam a erosão costeira e instabilidade de arribas, o risco sísmico (tsunamis), os incêndios, os riscos associados a infraestruturas e a poluição acidental.\n\n16 - Fichas de massa de água.\n\nIII. Análise económica das utilizações da água\n\n1 - Caraterização socioeconómica incluindo indicadores demográficos, sectoriais e territoriais das atividades económicas.\n\n2 - Breve caraterização dos setores utilizadores da água.\n\n3 - Análise das políticas de preços da água e respetiva evolução.\n\n4 - Caraterização económica e financeira dos serviços de água.\n\n5 - Definição das prioridades de usos da água, considerando as disponibilidades existentes após a definição dos caudais ecológicos ou ambientais.\n\nIV. Cenários prospetivos\n\n1 - Identificação das políticas públicas setoriais com potenciais impactes nas massas de água, através da descrição de planos estratégicos, planos de ação, planos regionais e outros instrumentos.\n\n2 - Análise das tendências económicas setoriais regionais que influenciam as pressões e os impactes gerados pelas utilizações da água mediante a construção de cenários prospetivos.\n\n3 - Análise da avaliação dos impactes das alterações climáticas nas massas de água para as variáveis descritas nas metodologias do relatório único.\n\n4 - Identificação e caraterização dos principais projetos futuros com potencial impacte nas massas de água e respetiva análise crítica.\n\n5 - Análise da evolução das principais pressões setoriais mais significativas em termos de consumos de água (quantitativas) e de cargas poluentes (qualitativas) para as variáveis descritas nas metodologias do relatório único.\n\n6 - Análise do balanço entre as disponibilidades hídricas e as necessidades de água futuras, com uma análise comparativa entre os potenciais volumes captados setoriais e as disponibilidades hídricas futuras, e respetivos potenciais impactes nos recursos hídricos.\n\nV. Objetivos ambientais\n\n1 - Definição dos objetivos ambientais por massa de água considerando a conformidade ou não em relação aos elementos de qualidade que integram a determinação do estado.\n\n2 - Realização de uma análise da evolução do estado das massas de água entre os dois últimos ciclos de planeamento.\n\n3 - Aplicação dos objetivos específicos nas massas de água que são zonas protegidas, e que não cumprem o respetivo objetivo da zona protegida, e que têm avaliação complementar associada, para além do estado.\n\nVI. Programa de medidas específicas\n\n1 - Definição do programa de medidas constituído por medidas de base e por medidas suplementares.\n\n2 - Estabelecimento de prioridades para as medidas selecionadas.\n\n3 - Análise custo-eficácia (ACE) das medidas.\n\n4 - Caraterização das medidas específicas são tidas em consideração as variáveis descritas nas metodologias do relatório único.\n\n5 - Fichas de medidas.\n\nANEXOS:\n\ni) Sistema de classificação do estado das massas de água;\n\nii) Fichas de massa de água;\n\niii) Fichas de medidas;\n\niv) Outros identificados, em cada ciclo de planeamento, como necessários."
+  },
+  "1185247975": {
+   "fragment_id": "1185247875",
+   "type": 4,
+   "heading": "A.3 - Estrutura e conteúdo dos relatórios de participação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A.3 - Estrutura e conteúdo dos relatórios de participação pública\n\n1 - Metodologia utilizada, com um resumo das medidas de consulta e de informação do público que tenham sido efetivadas, como sejam os meios de divulgação utilizados e as sessões públicas realizadas, incluindo os resultados dessas medidas.\n\n2 - Análise dos contributos recebidos e sua ponderação para integração na versão final dos PGRH."
+  },
+  "1185248175": {
+   "fragment_id": "1185248075",
+   "type": 4,
+   "heading": "A.4 - Formas de apresentação do PGRH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A.4 - Formas de apresentação do PGRH\n\n1 - Os PGRH e respetiva informação são apresentados sob as seguintes formas:\n\n1.1 - Geovisualizador e dashboards de base, incluindo todos os dados e informações;\n\n1.2 - Relatório Técnico, para efeitos de participação pública, incluindo um Resumo Não Técnico;\n\n1.3 - Resumo Técnico, para efeitos de publicação no Diário da República, incluindo, designadamente, as medidas, o orçamento e as fontes de financiamento;\n\n1.4 - Dados sistematizados, para efeitos de envio à Comissão Europeia, obedecendo ao formato definido para o efeito.\n\n118938444"
+  }
+ },
+ "unavailable_dates": [
+  "2025-04-15"
+ ]
+}

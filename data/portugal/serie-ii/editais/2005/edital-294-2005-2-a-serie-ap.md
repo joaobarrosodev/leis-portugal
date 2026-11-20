@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 43 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2005/05/088062000/0004300045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-05'
+entry_into_force:
+  date: '2005-06-05'
+  rule: 30 dias após a publicação dos respectivos editais e poderá ser revisto sempre que o executivo municipal assim o deliberar
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

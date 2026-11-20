@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 37339 - 37342
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/247000000/3733937342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-12-25'
+entry_into_force:
+  date: '2007-12-25'
+  rule: no dia seguinte à data da respectiva publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

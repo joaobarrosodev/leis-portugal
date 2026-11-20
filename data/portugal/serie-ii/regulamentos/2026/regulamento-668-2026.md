@@ -23,6 +23,16 @@ publication:
   pages: 940 - 946
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/103000000/0094000946.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após publicação no Diário da República e encontra-se disponível para consulta no site e no Serviços
+    da Junta de Freguesia da União das Freguesias de Santo António dos Cavaleiros e Frie
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

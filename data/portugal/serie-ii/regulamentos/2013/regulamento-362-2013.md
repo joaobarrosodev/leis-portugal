@@ -24,6 +24,15 @@ publication:
   pages: 28951 - 28952
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/179000000/2895128952.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2013/2014
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

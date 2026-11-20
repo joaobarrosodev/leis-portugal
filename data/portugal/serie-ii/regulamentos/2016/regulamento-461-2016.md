@@ -23,6 +23,16 @@ publication:
   pages: 15212 - 15214
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/093000000/1521215214.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de dois dias após a sua publicitação via edital nos locais de estilo e na página eletrónica oficial do Município
+    de Tábua
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

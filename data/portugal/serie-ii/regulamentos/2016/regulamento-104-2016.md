@@ -23,6 +23,15 @@ publication:
   pages: 3511 - 3518
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/020000000/0351103518.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após homologação pelo Presidente da ESTeSL, ouvidos o Conselho Pedagógico e o Conselho Técnico-Científico
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

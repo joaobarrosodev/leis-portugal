@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 36127 - 36129
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/234000000/3612736129.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-12'
+entry_into_force:
+  date: '2016-12-12'
+  rule: no prazo de cinco dias após a sua publicação no Diário da República, conforme o disposto no artigo 140.º do Código
+    do Procedimento Administrativo
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

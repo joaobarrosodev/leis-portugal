@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 67 - 72
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/093000000/0006700072.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-01'
+entry_into_force:
+  date: '2023-06-01'
+  rule: no dia 01 de junho de 2023, após a sua aprovação pela assembleia geral, nos termos do disposto no artigo 22.º do Estatuto
+    da Ordem dos Farmacêuticos, e publicação na 2.ª série do Diário da República e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

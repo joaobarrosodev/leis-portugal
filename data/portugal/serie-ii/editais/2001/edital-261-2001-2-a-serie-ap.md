@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5 - 19
   pdf_url: https://files.diariodarepublica.pt/2s/2001/06/146078000/0000500019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-01'
+entry_into_force:
+  date: '2001-07-01'
+  rule: cinco dias após a sua publicação no Diário da República, ou da sua efectiva distribuição, se esta tiver sido posterior,
+    de acordo com o artigo 2.º, n.º 4, da Lei n.º 74/98, de 11 de Novembro
+  method: clausula
+  article: art-73
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

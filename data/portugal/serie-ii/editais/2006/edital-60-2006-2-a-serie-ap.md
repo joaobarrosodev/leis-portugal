@@ -23,6 +23,16 @@ publication:
   pages: 123 - 125
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/024011000/0012300125.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'nos termos legais, 15 dias após a sua publicação, de acordo com o preceituado no artigo 91.º da Lei n.º 169/99, de
+    18 de Setembro, e com as alterações introduzidas e republicadas na Lei n.º 5-A/2002, '
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

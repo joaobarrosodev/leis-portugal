@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 540 - 544
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/208000000/0054000544.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-01'
+entry_into_force:
+  date: '2026-11-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação em Edital
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 9 - 16
   pdf_url: https://files.diariodarepublica.pt/2s/2006/01/021010000/0000900016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-01'
+entry_into_force:
+  date: '2006-03-01'
+  rule: 30 dias após a sua publicação na 2.ª série do Diário da República, depois da respectiva aprovação pela Assembleia
+    Municipal, podendo o mesmo ser consultado no sítio da Internet da Câmara Municipal - w
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 205 - 235
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/214000000/0020500235.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-10'
+entry_into_force:
+  date: '2024-11-10'
+  rule: no prazo de cinco dias a contar da data da sua publicação no Diário da República, devendo, ainda, tal publicação ser
+    efetuada na página eletrónica do Município de Penalva do Castelo
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 673 - 688
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/078000000/0067300688.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte à sua aprovação pela Câmara Municipal
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

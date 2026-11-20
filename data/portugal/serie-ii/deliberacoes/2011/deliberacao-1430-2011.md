@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/152000000/3286432868.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2653949:por#art-13'
+    detail: '[Deliberação n.º 1430/2011], publicada no Diário da República, n.º 152, de 9 de agosto de 2011.'
 notes: []
 language: por
 version:

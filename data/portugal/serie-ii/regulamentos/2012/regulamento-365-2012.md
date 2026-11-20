@@ -23,6 +23,15 @@ publication:
   pages: 28978 - 28992
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/157000000/2897828992.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-107
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

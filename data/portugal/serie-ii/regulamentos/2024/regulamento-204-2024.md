@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 232 - 246
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/034000000/0023200246.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-02-16'
+entry_into_force:
+  date: '2024-02-16'
+  rule: na data da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem na internet
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

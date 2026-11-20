@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 610 - 643
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/206000000/0061000643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-29'
+entry_into_force:
+  date: '2023-10-29'
+  rule: 5 dias após publicação no Diário da República, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

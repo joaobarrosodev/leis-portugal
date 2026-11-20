@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto-Lei n.º 212/2003 (zoonoses); o DRE regista a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:497674:por'
+    detail: São revogados o Decreto-Lei n.º 92/94, de 7 de Abril, e a Portaria n.º 215/94, de 12 de Abril, com as alterações
+      que lhe foram introduzidas pela Portaria n.º 1252/97, de 18 de Dezembro.
 notes: []
 language: por
 version:
@@ -99,6 +108,10 @@ relationships:
   target: celex:31992L0117
   label: null
   source: http://data.europa.eu/eli/dir/1992/117/oj
+- type: repealed_by
+  target: pt:dre:497674:por
+  label: Revogado por inteiro pelo Decreto-Lei n.º 212/2003 (zoonoses); o DRE regista a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:497674:por
   label: "Revogado pelo DEC LEI.212/2003.2003.09.17.MADRP DR.IS-A [215]\0\0"

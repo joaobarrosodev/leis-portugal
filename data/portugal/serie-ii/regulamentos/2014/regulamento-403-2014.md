@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 23700 - 23702
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/175000000/2370023702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-12'
+entry_into_force:
+  date: '2014-09-12'
+  rule: no dia seguinte ao da sua publicação na página web da FDUNL
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:205639948:por#art-34'
+    detail: Revoga-se o [Regulamento n.º 403/2014], publicado no Diário da República, 2.ª série, n.º 175, de 11 de setembro
+      de 2014.
 notes: []
 language: por
 version:

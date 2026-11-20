@@ -23,8 +23,25 @@ publication:
   pages: 30830 - 30833
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/199000000/3083030833.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:893148170:por#art-14'
+    detail: É revogado o [Regulamento n.º 938/2016], publicado no Diário da República, 2.ª série, n.º 199, de 17 de outubro,
+      com a redação conferida pelo Despacho RT.87/2016 e posteriores despachos reitorais que incidem sobre matéria abrangida
+      pelo presente regulamento, que o contrariem.
 notes: []
 language: por
 version:

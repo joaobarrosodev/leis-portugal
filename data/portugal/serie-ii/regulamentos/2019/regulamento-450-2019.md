@@ -23,6 +23,15 @@ publication:
   pages: 15930 - 15935
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/098000000/1593015935.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação pelo Órgão deliberativo e publicação em edital a afixar no Edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

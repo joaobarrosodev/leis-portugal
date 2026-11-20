@@ -23,6 +23,15 @@ publication:
   pages: 5962 - 5963
   pdf_url: https://files.diariodarepublica.pt/2s/2013/02/028000000/0596205963.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 434 - 462
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/205000000/0043400462.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-23'
+entry_into_force:
+  date: '2024-10-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos do disposto nos artigos 139.º e 140.º do Código
+    do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de ja
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

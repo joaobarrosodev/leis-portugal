@@ -24,6 +24,15 @@ publication:
   pages: 30171 - 30174
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/216000000/3017130174.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da aprovação na Assembleia de Freguesia
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

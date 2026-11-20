@@ -23,6 +23,16 @@ publication:
   pages: 29307 - 29310
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/141000000/2930729310.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 úteis dias após a sua publicação, revogando nessa data o regulamento aprovado pela Assembleia Municipal em 26 de
+    Junho de 2008 e a que se refere o edital 780/08 publicado no Diário da República, 2.ª
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

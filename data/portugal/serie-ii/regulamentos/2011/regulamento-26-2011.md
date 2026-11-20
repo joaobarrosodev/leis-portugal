@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 2508 - 2522
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/008000000/0250802522.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-12'
+entry_into_force:
+  date: '2011-01-12'
+  rule: após a publicação no Diário da República
+  method: clausula
+  article: art-97
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:127022443:por#art-114'
+    detail: É revogado o [Regulamento n.º 26/2011], de 12 de janeiro - Regulamento Geral de Águas de Abastecimento e Águas
+      Residuais do Município de Covilhã, publicado no Diário da República, 2.ª série, n.º 8, de 12 de janeiro de 2011, bem
+      como as normas de posturas e regulamentos municipais que contrariem as d
 notes: []
 language: por
 version:

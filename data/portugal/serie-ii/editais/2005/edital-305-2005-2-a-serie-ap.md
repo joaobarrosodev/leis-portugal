@@ -23,6 +23,15 @@ publication:
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/2s/2005/05/092067000/0000300004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

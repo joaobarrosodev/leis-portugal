@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo artigo 3.º do Decreto Regulamentar n.º 5/85; o DRE regista a revogação e continua a dá-lo
+    em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:328992:por'
+    detail: Fica revogado o Decreto Regulamentar n.º 72/84, de 13 de Setembro.
 notes: []
 language: por
 version:
@@ -96,6 +105,11 @@ relationships:
   target: pt:dre:564051:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:328992:por
+  label: Revogado por inteiro pelo artigo 3.º do Decreto Regulamentar n.º 5/85; o DRE regista a revogação e continua a dá-lo
+    em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:328992:por
   label: "Revogado pelo DR.5/85.1985.01.16.MDN, DR. 5/85 de 16/JAN/1985\0\0"

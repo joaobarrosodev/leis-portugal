@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 35 - 36
   pdf_url: https://files.diariodarepublica.pt/2s/2006/04/070034000/0003500036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-04-22'
+entry_into_force:
+  date: '2006-04-22'
+  rule: 15 dias após a sua publicação, pela afixação de editais ou por quaisquer outros meios que a Câmara Municipal de Mangualde
+    achar adequados
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

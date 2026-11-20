@@ -23,6 +23,16 @@ publication:
   pages: 14849 - 14851
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/100000000/1484914851.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua homologação, revogando o regulamento anterior publicado em anexo ao Despacho n.º 16616/2012,
+    de 31 de dezembro
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

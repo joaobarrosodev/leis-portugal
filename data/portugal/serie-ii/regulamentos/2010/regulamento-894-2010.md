@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 61872 - 61887
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/245000000/6187261887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-01'
+entry_into_force:
+  date: '2011-01-01'
+  rule: no dia 1 de Janeiro de 2011, ficando automaticamente revogada a estrutura orgânica dos Serviços Municipais publicada
+    no Diário da República, 2.ª série, n.º 71, de 11 de Abril de 2007
+  method: clausula
+  article: art-78
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

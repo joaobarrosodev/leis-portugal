@@ -23,6 +23,15 @@ publication:
   pages: 563 - 567
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/125000000/0056300567.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a sua publicação em Edital
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

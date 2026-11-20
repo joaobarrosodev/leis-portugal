@@ -23,6 +23,15 @@ publication:
   pages: 13874 - 13878
   pdf_url: https://files.diariodarepublica.pt/2s/2014/05/103000000/1387413878.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Fundação para a Ciência e Tecnologia e no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

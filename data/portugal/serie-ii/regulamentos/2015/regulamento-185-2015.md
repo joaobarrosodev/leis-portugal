@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9793 - 9797
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/077000000/0979309797.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-04-22'
+entry_into_force:
+  date: '2015-04-22'
+  rule: no dia seguinte à publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

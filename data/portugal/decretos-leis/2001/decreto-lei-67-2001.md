@@ -40,26 +40,22 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2002-03-31'
 version_history:
   file: decreto-lei-67-2001.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-18'
   versions:
-  - date: '2001-02-22'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2002-03-31'
     amending: pt:dre:300610:por
     amending_title: Decreto-Lei n.º 78/2002
     changes:
     - Altera Artigo 3.º
+    - Altera Artigo 4.º
     - Revoga Artigo 8.º
     - Revoga Artigo 9.º
-    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/67/2001/02/22/p/dre/pt/html
@@ -72,21 +68,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2001-386784
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2001/02/22/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2001-386784
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:29:58Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-1005132377
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-1005132377
+  retrieved_at: '2026-11-20T13:53:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: 4b86aab1cdf9dda4670fe522735c02667572b4cbad4b41511629718285165389
+  source_sha256: adf38e85a330bb61bac2fa4755cec89d0d06a9f68e2bedfa07f0654e97bc2cfa
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:29:58Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2002. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-67-2001.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:40Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-67-2001.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,23 +129,21 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/406/1999/10/15/p/dre
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:29:58Z'
+  checked_at: '2026-11-20T13:53:40Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 67/2001
 
-de 22 de Fevereiro
-
-O Ministério da Reforma do Estado e da Administração Pública, cuja Lei Orgânica foi aprovada pelo [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, integra, no quadro dos respectivos órgãos e serviços, o Conselho Superior da Reforma do Estado e da Administração Pública como órgão superior de consulta do Governo, ao qual é cometida a missão de reflectir e debater as grandes linhas de orientação no tocante à reforma do Estado e à modernização da Administração e da função pública.
+O Ministério da Reforma do Estado e da Administração Pública, cuja Lei Orgânica foi aprovada pelo Decreto-Lei n.º 269/2000, de 4 de Novembro, integra, no quadro dos respectivos órgãos e serviços, o Conselho Superior da Reforma do Estado e da Administração Pública como órgão superior de consulta do Governo, ao qual é cometida a missão de reflectir e debater as grandes linhas de orientação no tocante à reforma do Estado e à modernização da Administração e da função pública.
 
 O texto preambular daquela Lei Orgânica faz apelo à necessidade de conferir ao Conselho um cariz representativo e participado pela sociedade civil. E isto deve-se ao facto de os problemas da Administração Pública respeitarem cada vez mais a um leque alargado de actores que extravasam em muito o âmbito restrito dos serviços e organismos públicos.
 
@@ -159,7 +153,7 @@ Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
 
 Assim:
 
-Ao abrigo do disposto do n.º 1 do artigo 17.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Ao abrigo do disposto do n.º 1 do artigo 17.º do Decreto-Lei n.º 269/2000, de 4 de Novembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ###### Artigo 1.º — Natureza e atribuições
 
@@ -223,11 +217,13 @@ r) Seis representantes das organizações sindicais representativas dos trabalha
 
 s) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.
 
+t) Secretário-geral-adjunto do Conselho, sem direito a voto.
+
 2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.
 
 3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), em vigor a partir de 2002-03-31, com efeitos a partir de 2002-01-01.
 
 ###### Artigo 4.º — Competências do presidente e do secretário-geral
 
@@ -241,7 +237,17 @@ c) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevan
 
 2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.
 
-> Alterado pelo/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
+3 - Incumbe ao secretário-geral-adjunto:
+
+a) Coadjuvar o presidente e o secretário-geral no exercício das suas funções;
+
+b) Preparar as reuniões do plenário;
+
+c) Assegurar a gestão corrente dos assuntos referentes ao Conselho.
+
+4 - O secretário-geral pode delegar no secretário-geral-adjunto o exercício de poderes ou a prática de actos da sua competência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), em vigor a partir de 2002-03-31, com efeitos a partir de 2002-01-01.
 
 ###### Artigo 5.º — Funcionamento
 
@@ -265,19 +271,23 @@ As normas de funcionamento interno do Conselho constam de regulamento próprio a
 
 ###### Artigo 8.º — Quadro de pessoal
 
-(Revogado.)
+1 - O Conselho dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.
 
-> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
+2 - O secretário-geral e o secretário-geral-adjunto são equiparados, para todos os efeitos legais, designadamente remuneração, direitos e regalias, a director-geral e subdirector-geral, respectivamente, sendo recrutados nos termos previstos na Lei n.º 49/99, de 22 de Junho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), em vigor a partir de 2002-03-31, com efeitos a partir de 2002-01-01.
 
 ###### Artigo 9.º — Meios técnicos e humanos
 
-(Revogado.)
+1 - O Conselho disporá dos meios técnicos e humanos indispensáveis à consecução das suas atribuições, sendo o apoio prestado pela Secretaria-Geral do Ministério, sem prejuízo do recurso aos instrumentos de mobilidade previstos na legislação geral aplicável sobre a matéria.
 
-> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
+2 - Às requisições e destacamentos de pessoal para o Conselho é aplicável o disposto no n.º 5 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), em vigor a partir de 2002-03-31, com efeitos a partir de 2002-01-01.
 
 ###### Artigo 10.º — Legislação revogada
 
-Com a entrada em vigor do presente diploma é revogado o [Decreto-Lei n.º 187/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1996-212590), de 2 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 406/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1999-667143), de 15 de Outubro.
+Com a entrada em vigor do presente diploma é revogado o Decreto-Lei n.º 187/96, de 2 de Outubro, com a redacção dada pelo Decreto-Lei n.º 406/99, de 15 de Outubro.
 
 ###### Artigo 11.º — Entrada em vigor
 
@@ -295,6 +305,6 @@ Referendado em 15 de Fevereiro de 2001.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Mapa de pessoal
+## Anexo — Mapa de pessoal
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045a00/09890991.pdf)
+(ver mapa no documento original)

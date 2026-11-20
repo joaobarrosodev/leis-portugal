@@ -23,6 +23,15 @@ publication:
   pages: 29550 - 29553
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/248000000/2955029553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Técnico-Científico, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

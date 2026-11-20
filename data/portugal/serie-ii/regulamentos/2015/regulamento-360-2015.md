@@ -24,6 +24,15 @@ publication:
   pages: 17174 - 17175
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/122000000/1717417175.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação e publicação na 2.ª Série do Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

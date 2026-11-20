@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 409 - 414
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/122000000/0040900414.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-27'
+entry_into_force:
+  date: '2022-06-27'
+  rule: no dia da publicação no Diário da República com efeitos retroativos ao dia 1 de janeiro de 2022
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

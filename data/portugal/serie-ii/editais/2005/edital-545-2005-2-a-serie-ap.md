@@ -23,6 +23,16 @@ publication:
   pages: 65 - 75
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/185129000/0006500075.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias sobre a sua aplicação em Diário da República, conforme n.º 4 do artigo 29.º da Lei das Finanças Locais, aplicando-se
+    a todos os pedidos apresentados a partir dessa data, inclusive
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

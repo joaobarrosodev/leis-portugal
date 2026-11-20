@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 29015 - 29020
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/185000000/2901529020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-27'
+entry_into_force:
+  date: '2016-09-27'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:122418978:por#art-23'
+    detail: É revogado o [Regulamento n.º 886/2016], publicado Diário da República, 2.ª série, n.º 185, de 26 de setembro.
 notes: []
 language: por
 version:

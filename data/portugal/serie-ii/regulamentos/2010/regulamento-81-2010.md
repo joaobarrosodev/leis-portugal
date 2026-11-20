@@ -23,6 +23,16 @@ publication:
   pages: 5896 - 5906
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/025000000/0589605906.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: precedido de aprovação pelos órgãos competentes da Autarquia, no dia seguinte ao da sua publicação em Edital, nos
+    termos do artigo 10.º do Decreto-Lei n.º 54-A/99, de 22 de Fevereiro (POCAL) na redacç
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

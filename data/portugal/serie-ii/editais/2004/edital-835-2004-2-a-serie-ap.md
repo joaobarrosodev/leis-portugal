@@ -23,6 +23,16 @@ publication:
   pages: 60 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/304159000/0006000063.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias seguidos após a data da sua publicação em edital, a qual ocorrerá após o período de apreciação pública e aprovação
+    por parte da Assembleia Municipal
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

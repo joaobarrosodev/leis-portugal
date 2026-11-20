@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/134000000/1822618228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74951152:por#art-32'
+    detail: 1 - É revogado o [Regulamento n.º 305/2014], de 15 de julho, publicado na 2.ª série do Diário da República, n.º
+      134, de 15 de julho de 2014.
 notes: []
 language: por
 version:

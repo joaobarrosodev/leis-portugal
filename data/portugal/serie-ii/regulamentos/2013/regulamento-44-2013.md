@@ -23,8 +23,23 @@ publication:
   pages: 4298 - 4299
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/019000000/0429804299.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:106980630:por#art-9'
+    detail: 2 - É revogado o [Regulamento n.º 44/2013], de 28 de janeiro.
 notes: []
 language: por
 version:

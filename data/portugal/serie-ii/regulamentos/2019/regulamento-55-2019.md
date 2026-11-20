@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/009000000/0169701703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:897667089:por#texto'
+    detail: O presente regulamento entra em vigor no primeiro dia útil após a sua publicação, revogando o [Regulamento n.º
+      55/2019], de 14 de janeiro, e o [Regulamento n.º 1011/2021], de 16 de dezembro.
 notes: []
 language: por
 version:

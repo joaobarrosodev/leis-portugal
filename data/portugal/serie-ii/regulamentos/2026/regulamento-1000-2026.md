@@ -24,6 +24,16 @@ publication:
   pages: 261 - 267
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/144000000/0026100267.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, aplicando-se aos contratos ao abrigo do abrigo do Decreto-Lei n.º 57/2016, de
+    29 de agosto, celebrados a partir de 01/01/2026
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

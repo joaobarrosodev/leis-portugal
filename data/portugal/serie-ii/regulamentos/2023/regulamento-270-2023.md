@@ -23,6 +23,15 @@ publication:
   pages: 321 - 348
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/045000000/0032100348.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias, após a sua publicitação nos termos legais
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 528 - 535
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/093000000/0052800535.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2021-2022
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

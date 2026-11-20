@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 75 - 93
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/027013000/0007500093.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-02-22'
+entry_into_force:
+  date: '2006-02-22'
+  rule: 15 dias a contar da sua publicação nos termos legais
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

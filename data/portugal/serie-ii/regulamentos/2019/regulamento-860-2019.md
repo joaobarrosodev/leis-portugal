@@ -24,6 +24,15 @@ publication:
   pages: 217 - 222
   pdf_url: https://files.diariodarepublica.pt/2s/2019/11/212000000/0021700222.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 3459 - 3463
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/039000000/0345903463.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil posterior ao da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

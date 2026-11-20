@@ -23,6 +23,15 @@ publication:
   pages: 21908 - 21912
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/136000000/2190821912.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das candidaturas para o ano letivo 2016/2017, inclusive
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

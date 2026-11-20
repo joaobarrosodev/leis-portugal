@@ -23,6 +23,15 @@ publication:
   pages: 271 - 285
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/061000000/0027100285.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado e publicitado nos termos legais, sendo aplicável aos contratos de bolsas assinados após esta data
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

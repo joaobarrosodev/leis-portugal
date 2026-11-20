@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2021-07-28'
+  consolidation_date: '2026-11-12'
 version_history:
   file: decreto-lei-34-2020.versoes.json
-  count: 2
-  source_lastmod: '2024-06-25'
+  count: 3
+  source_lastmod: '2026-11-11'
   versions:
   - date: '2020-07-09'
     amending: null
@@ -60,6 +60,15 @@ version_history:
     - Altera Artigo 26.º
     - Altera Artigo 27.º
     - Altera Artigo 28.º
+  - date: '2026-11-12'
+    amending: pt:dre:1194495725:por
+    amending_title: Decreto-Lei n.º 215/2026
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/34/2020/p/cons/20210129/pt/html
@@ -74,19 +83,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2020/p/cons/20210129/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-137509038
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-137509038
-  retrieved_at: '2026-10-22T12:33:09Z'
+  retrieved_at: '2026-11-20T13:51:39Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 4f8bd830696f09c725e48e2cf64396deb5758c9e6519fbe72fcbd490d149e550
+  source_sha256: 6f7035fa5310ca5f2589fa66e2c956ec23f02e7f4b98ba4786a48d609b837eb6
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:33:09Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-34-2020.versoes.json.
+  generated_at: '2026-11-20T13:51:39Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-34-2020.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,6 +135,11 @@ relationships:
   label: Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
   date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:1194495725:por
+  label: Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 6.º; Altera Artigo 23.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725
+  date: '2026-11-11'
 - type: cites
   target: celex:32000L0009
   label: null
@@ -159,7 +173,7 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2012/03/27/p/dre
 article_structure:
-  article_count: 35
+  article_count: 36
   section_count: 11
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -167,7 +181,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:33:09Z'
+  checked_at: '2026-11-20T13:51:39Z'
   warnings: []
   errors: []
 ---
@@ -216,11 +230,29 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 a) À definição do regime aplicável à construção, modificação, colocação em serviço, exploração e fiscalização das instalações por cabo para o transporte de pessoas;
 
-b) À definição de um regime adaptado aplicável às instalações por cabo classificadas de interesse histórico, cultural ou patrimonial, que tenham entrado em serviço antes de 1 de janeiro de 1986;
+b) À definição de um regime adaptado aplicável às instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial, previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, que tenham entrado em serviço antes de 1 de janeiro de 1986, e ainda estejam em funcionamento e não tenham autorização de entrada ao serviço, independentemente de terem ou não sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas;
 
 c) À identificação das autoridades nacionais responsáveis pela notificação, avaliação e controlo dos organismos de avaliação da conformidade e pela fiscalização do mercado; e
 
 d) À definição do regime sancionatório aplicável ao incumprimento das regras aplicáveis às instalações por cabo, à conceção, à construção, à entrada em serviço e exploração das novas instalações por cabo de pessoas, bem como às violações cometidas pelos operadores económicos previstas no Regulamento e no presente decreto-lei.
+
+3 - O presente decreto-lei é aplicável:
+
+a) Às novas instalações por cabo para transporte de pessoas, às modificações de instalações por cabo que exijam uma nova autorização e aos subsistemas e componentes de segurança para as instalações por cabo, nos termos definidos no Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às instalações por cabo;
+
+b) A novos ascensores para transporte de pessoas, às modificações de ascensores que exijam uma nova autorização e aos subsistemas e componentes de segurança para os ascensores, nos termos definidos no presente decreto-lei.
+
+4 - Para efeitos do presente decreto-lei, é considerado:
+
+a) ‘Ascensor’ aparelho de elevação que serve para o transporte público de passageiros e que visa satisfazer as necessidades de deslocação em meio urbano, segundo frequências, horários e tarifas predeterminadas, podendo ter uma das seguintes características:
+
+i) Servir níveis definidos por meio de um habitáculo que se desloca ao longo de guias rígidas e cuja inclinação em relação à horizontal seja superior a 15º; ou
+
+ii) Deslocar-se segundo um trajeto perfeitamente definido, independente da utilização de guias rígidas, e seja utilizado no exterior de estruturas edificadas;
+
+b) ‘Funicular’ o sistema de transporte de passageiros por cabo, no qual os veículos se deslocam sobre carris, em plano inclinado com inclinação vertical inferior a 90º, sendo a tração assegurada por cabo ou cabos acionados por sistema motriz fixo, e cuja segurança do sistema depende essencialmente do conjunto cabo-via-veículo, nos termos do regime aplicável aos transportes por cabo.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 ### Capítulo II — Instalações
 
@@ -288,7 +320,15 @@ f) Documentos que demonstrem o preenchimento dos requisitos de capacidade técni
 
 ###### Artigo 6.º — Definição
 
-Para efeitos do presente decreto-lei entende-se por instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial as previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, na sua redação atual, que tenham entrado em serviço antes de 1 de janeiro de 1986, ainda estejam em funcionamento e não tenham sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas.
+Para efeitos do presente decreto-lei, entende-se por instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial as previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, que tenham entrado em serviço antes de 1 de janeiro de 1986, e ainda estejam em funcionamento e não tenham autorização de entrada ao serviço, independentemente de terem ou não sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
+###### Artigo 6.º-A — Entrada em serviço de históricos que se encontrem em exploração
+
+Depende de autorização da AMT a entrada ao serviço das instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial previstas no artigo anterior, estando sujeitas ao disposto no artigo 4.º, com as devidas adaptações, a definir por deliberação do conselho de administração da AMT.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 ###### Artigo 7.º — Alterações de instalações
 
@@ -442,33 +482,37 @@ a) A construção de instalações e as alterações que impliquem modificaçõe
 
 b) A entrada em serviço de novas instalações ou de instalações que tenham efetuado modificações de conceção ou construção significativas sem a autorização prevista no n.º 1 do artigo 4.º;
 
-c) A violação do disposto no n.º 1 do artigo 7.º;
+c) A entrada ao serviço das instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial sem autorização da AMT em violação do disposto no artigo 6.º-A;
 
-d) A entrada em serviço de alterações em violação do disposto no n.º 2 do artigo 7.º;
+d) A violação do disposto no n.º 1 do artigo 7.º;
 
-e) A violação de qualquer dos requisitos previstos no n.º 1 do artigo 8.º;
+e) A entrada em serviço de alterações em violação do disposto no n.º 2 do artigo 7.º;
 
-f) A falta do seguro de responsabilidade civil previsto no artigo 9.º;
+f) A violação de qualquer dos requisitos previstos no n.º 1 do artigo 8.º;
 
-g) A violação da exploração de instalações por cabo por entidades não autorizadas nos termos do disposto nos n.os 1 e 3 do artigo 10.º;
+g) A falta do seguro de responsabilidade civil previsto no artigo 9.º;
 
-h) A violação do disposto no n.º 6 do artigo 10.º;
+h) A violação da exploração de instalações por cabo por entidades não autorizadas nos termos do disposto nos n.os 1 e 3 do artigo 10.º;
 
-i) A violação do disposto no n.º 1 do artigo 11.º;
+i) A violação do disposto no n.º 6 do artigo 10.º;
 
-j) A violação do disposto no artigo 13.º;
+j) A violação do disposto no n.º 1 do artigo 11.º;
 
-k) A violação do disposto no artigo 14.º;
+k) A violação do disposto no artigo 13.º;
 
-l) A violação, pelo fabricante, pelos mandatários, pelos importadores ou pelos distribuidores, do disposto no artigo 15.º
+l) A violação do disposto no artigo 14.º;
 
-m) A violação das regras e condições de aposição da marca CE, previstas no artigo 17.º, e de outras marcações previstas no n.º 2 do mesmo artigo.
+m) A violação, pelo fabricante, pelos mandatários, pelos importadores ou pelos distribuidores, do disposto no artigo 15.º
+
+n) A violação das regras e condições de aposição da marca CE, previstas no artigo 17.º, e de outras marcações previstas no n.º 2 do mesmo artigo.
 
 2 - (Revogado.)
 
 3 - (Revogado.)
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 > Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
 
@@ -510,15 +554,17 @@ São devidas taxas pela prática de atos realizados pelo IMT, I. P., previstos n
 
 ###### Artigo 30.º — Acompanhamento e coordenação
 
-Compete ao IMT, I. P., proceder ao acompanhamento e coordenação global da aplicação do presente decreto-lei e do Regulamento, exercendo, designadamente, as seguintes competências:
+Compete à AMT proceder ao acompanhamento e coordenação global da aplicação do presente decreto-lei e do Regulamento, exercendo, designadamente, as seguintes competências:
 
-a) Representar o Estado Português nos trabalhos do Comité das Instalações por Cabo, nos termos do Regulamento (UE) n.º 182/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011;
+a) Participar nos trabalhos do Comité das Instalações por Cabo, nos termos do Regulamento (UE) n.º 182/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011;
 
 b) Cooperar com a ASAE no exercício das respetivas competências, sempre que solicitado;
 
 c) Acompanhar, em coordenação com o IPQ, I. P., e com o IPAC, I. P., a atividade dos organismos notificados;
 
 d) Recolher dados e informações relativos à aplicação do presente decreto-lei, bem como do Regulamento, junto das autoridades de fiscalização do mercado e do controlo das fronteiras, assim como da autoridade notificadora e de acreditação.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 ###### Artigo 31.º — Regiões autónomas
 

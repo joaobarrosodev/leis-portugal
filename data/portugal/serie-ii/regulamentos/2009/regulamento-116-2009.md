@@ -23,6 +23,16 @@ publication:
   pages: 9322 - 9322
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/048000000/0932209322.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em conselho científico ou Técnico-Científico, sem prejuízo da sua publicação no Diário
+    da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

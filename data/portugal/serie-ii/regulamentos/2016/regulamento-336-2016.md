@@ -24,9 +24,26 @@ publication:
   supplement: null
   pages: 10769 - 10777
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/062000000/1076910777.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-31'
+entry_into_force:
+  date: '2016-03-31'
+  rule: no dia seguinte ao da sua publicação no Diário da República e no sítio eletrónico da Ordem dos Arquitetos
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1139824432:por#art-64'
+    detail: É revogado o [Regulamento n.º 336/2016] - Regulamento de Deontologia e Procedimento Disciplinar - publicado no
+      Diário da República, 2.ª série, em 30 de março de 2016.
 notes: []
 language: por
 version:

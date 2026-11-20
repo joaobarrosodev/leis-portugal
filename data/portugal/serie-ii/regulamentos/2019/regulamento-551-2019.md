@@ -23,6 +23,15 @@ publication:
   pages: 19427 - 19430
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/130000000/1942719430.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

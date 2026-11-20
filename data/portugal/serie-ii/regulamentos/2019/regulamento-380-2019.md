@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13185 - 13187
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/082000000/1318513187.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-30'
+entry_into_force:
+  date: '2019-04-30'
+  rule: no dia imediatamente a seguir à sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

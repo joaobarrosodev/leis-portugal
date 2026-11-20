@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 278 - 292
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/082000000/0027800292.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-28'
+entry_into_force:
+  date: '2020-04-28'
+  rule: no dia seguinte ao da sua publicação, não sendo aplicável aos procedimentos pendentes já aprovados ao abrigo do Regulamento
+    do Programa de Apoio a Projetos Culturais
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

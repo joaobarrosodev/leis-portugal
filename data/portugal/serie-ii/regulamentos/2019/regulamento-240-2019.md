@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 8245 - 8249
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/054000000/0824508249.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-19'
+entry_into_force:
+  date: '2019-03-19'
+  rule: no dia seguinte ao da publicação em Diário da República, na página eletrónica da Junta e em Edital a afixar nos lugares
+    habituais da Freguesia
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 6
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/197130000/0000200006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-11'
+entry_into_force:
+  date: '2003-09-11'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -8,10 +8,10 @@ Prioritários da 1.ª Série, em vigor ou de vigência desconhecida, com `amende
 
 | Classe | lei | lei-organica | lei-constitucional | decreto-lei | decreto-regulamentar | decreto-legislativo-regional | Total |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| consolidado_dre | 473 | 11 | 0 | 1556 | 63 | 236 | 2339 |
+| consolidado_dre | 472 | 11 | 0 | 1556 | 63 | 235 | 2337 |
 | consolidado_leis_portugal | 48 | 1 | 0 | 660 | 60 | 74 | 843 |
-| texto_noutro_registo | 2 | 0 | 0 | 23 | 1 | 9 | 35 |
-| original_e_o_texto_em_vigor | 592 | 23 | 7 | 2497 | 273 | 234 | 3626 |
+| texto_noutro_registo | 3 | 0 | 0 | 24 | 1 | 10 | 38 |
+| original_e_o_texto_em_vigor | 592 | 23 | 7 | 2496 | 273 | 234 | 3625 |
 | alteracao_por_aplicar | 51 | 0 | 0 | 477 | 77 | 67 | 672 |
 | alteracao_so_em_imagem | 1 | 0 | 0 | 14 | 1 | 0 | 16 |
 | nao_triado | 218 | 17 | 0 | 375 | 22 | 53 | 685 |
@@ -19,13 +19,13 @@ Prioritários da 1.ª Série, em vigor ou de vigência desconhecida, com `amende
 | sem_texto | 216 | 0 | 0 | 1041 | 0 | 0 | 1257 |
 | **Total** | 1606 | 54 | 7 | 6762 | 544 | 717 | 9690 |
 
-Consolidados em dia: 2959; com alterador publicado depois da última versão: 212; que o DRE mexeu depois da recolha: 34.
+Consolidados em dia: 2957; com alterador publicado depois da última versão: 213; que o DRE mexeu depois da recolha: 35.
 
 Portarias (só contagens): original_e_o_texto_em_vigor 10258, alteracao_por_aplicar 1689, consolidado_leis_portugal 1307, consolidado_dre 1097, alteracao_so_em_imagem 413, revogado_por_inteiro 409, nao_triado 305, sem_texto 99.
 
 Marcas da vigência revista (`consolidacao/auditoria/vigencia-revista.jsonl`): no ficheiro, nao_vigora 166, por_confirmar 57, regime_anterior 194; nos prioritários deste universo, nao_vigora 29, por_confirmar 11, regime_anterior 4; nas portarias, nao_vigora 84, por_confirmar 35, regime_anterior 189.
 
-## 2. Textos cujo texto em vigor está fora do registo que os aprovou (71)
+## 2. Textos cujo texto em vigor está fora do registo que os aprovou (77)
 
 | Texto de (origem) | Texto mais recente em | Parte | Artigos | Texto até | Origem aponta para lá | Origem servida como em vigor | Epígrafes iguais (mesmo n.º) | Outras cópias desatualizadas servidas |
 |---|---|---|--:|---|---|---|---|---|
@@ -39,196 +39,205 @@ Marcas da vigência revista (`consolidacao/auditoria/vigencia-revista.jsonl`): n
 | Decreto-Lei n.º 282/77 | Lei n.º 117/2015 | Anexo I — ESTATUTO DA ORDEM DOS MÉDICOS | 177 | 2024-04-01 | sim | sim, consolidação de 1994-08-25 | sem epígrafes | Lei n.º 117/2015 (2015-08-31) |
 | Decreto-Lei n.º 442-B/88 | Lei n.º 2/2014 | Anexo — CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COL | 171 | 2026-01-01 | sim | sim, texto de 1988-11-30 | 9/115 | Decreto-Lei n.º 198/2001 (2003-01-01) |
 | Decreto-Lei n.º 139-A/90 | Decreto-Lei n.º 41/2012 | Anexo — ESTATUTO DA CARREIRA DOS EDUCADORES DE INFÂNCIA E DO | 156 | 2023-12-30 | **não** | sim, texto de 1990-04-28 | 96/148 | Decreto-Lei n.º 1/98 (1998-01-02); Decreto-Lei n.º 15/2007 (2007-01-19); Decreto-Lei n.º 270/2009 (2009-09-30) |
-| Lei n.º 3/99 | Lei n.º 105/2003 | (2.ª numeração) | 154 | 2003-12-10 | **não** | não | 133/149 | — |
+| Lei n.º 3/99 | Lei n.º 105/2003 | LEI DE ORGANIZAÇÃO E FUNCIONAMENTO DOS TRIBUNAIS JUDICIAIS ( | 154 | 2003-12-10 | **não** | não | 133/149 | — |
 | Lei n.º 13/91 | Lei n.º 130/99 | Anexo — ESTATUTO POLÍTICO-ADMINISTRATIVO DA REGIÃO AUTÓNOMA  | 154 | 2000-06-26 | **não** | sim, consolidação de 1991-06-05 | sem epígrafes | — |
 | Decreto-Lei n.º 119/92 | Lei n.º 123/2015 | Anexo I — ESTATUTO DA ORDEM DOS ENGENHEIROS | 153 | 2024-04-01 | **não** | sim, texto de 1992-06-30 | 1/91 | — |
 | Decreto Legislativo Regional n.º 22/2005/A | Decreto Legislativo Regional n.º 18/2007/A | Anexo — Estatuto do Aluno dos Ensinos Básico e Secundário | 147 | 2023-02-18 | **não** | não | 3/78 | — |
 | Decreto-Lei n.º 452/99 | Lei n.º 139/2015 | Anexo I — ESTATUTO DA ORDEM DOS CONTABILISTAS CERTIFICADOS | 136 | 2024-03-01 | **não** | sim, consolidação de 2009-10-31 | 1/98 | Decreto-Lei n.º 310/2009 (2009-10-26); Lei n.º 139/2015 (2015-09-07) |
 | Decreto-Lei n.º 110/91 | Lei n.º 124/2015 | Anexo II — Republicação da Lei n.º 110/91, de 29 de agosto ( | 129 | 2024-03-01 | sim | não | 0/14 | Lei n.º 110/91 (2003-09-06); Lei n.º 44/2003 (2003-08-22) |
-| Decreto Regulamentar n.º 9/2018 | Decreto Regulamentar n.º 4/2022 | (2.ª numeração) | 128 | 2022-09-30 | **não** | sim, texto de 2018-09-11 | 105/112 | — |
+| Decreto Regulamentar n.º 9/2018 | Decreto Regulamentar n.º 4/2022 | ANEXO — (a que se refere o artigo 6.º) | 128 | 2022-09-30 | **não** | sim, texto de 2018-09-11 | 105/112 | — |
 | Decreto-Lei n.º 394-B/84 | Decreto-Lei n.º 102/2008 | Anexo IV — CÓDIGO DO IMPOSTO SOBRE O VALOR ACRESCENTADO | 123 | 2026-09-01 | **não** | sim, texto de 1984-12-26 | sem epígrafes | Decreto-Lei n.º 195/89 (1989-06-12) |
 | Decreto-Lei n.º 288/2001 | Lei n.º 131/2015 | Anexo — ESTATUTO DA ORDEM DOS FARMACÊUTICOS | 128 | 2024-03-01 | sim | sim, consolidação de 2009-05-25 | 15/121 | Lei n.º 131/2015 (2015-09-04) |
 | Decreto-Lei n.º 368/91 | Lei n.º 125/2015 | Anexo — ESTATUTO DA ORDEM DOS MÉDICOS VETERINÁRIOS | 126 | 2024-03-01 | sim | sim, consolidação de 1997-11-09 | 16/92 | — |
 | Lei n.º 51/2010 | Lei n.º 126/2015 | Anexo — ESTATUTO DA ORDEM DOS NUTRICIONISTAS | 124 | 2024-03-01 | sim | sim, consolidação de 2010-12-14 | 5/90 | — |
 | Decreto-Lei n.º 349/99 | Lei n.º 157/2015 | Anexo I — ESTATUTO DA ORDEM DOS ENGENHEIROS TÉCNICOS | 124 | 2024-03-01 | **não** | sim, consolidação de 2023-07-27 | 1/80 | Lei n.º 47/2011 (2011-06-27); Lei n.º 157/2015 (2015-09-17) |
 | Lei n.º 51/96 | Lei n.º 119/2015 | articulado | 122 | 2026-07-29 | **não** | não | 6/94 | — |
-| Decreto Legislativo Regional n.º 28/2011/A | Decreto Legislativo Regional n.º 6/2026/A | (3.ª numeração) | 116 | 2026-03-03 | **não** | sim, consolidação de 2025-09-30 | 116/116 | Decreto Legislativo Regional n.º 14/2024/A (2024-12-24) |
+| Lei n.º 32/2003 | Lei n.º 27/2007 | articulado | 122 | 2021-02-17 | **não** | sim, consolidação de 2007-08-04 | 5/92 | Lei n.º 8/2011 (2011-04-11) |
+| Decreto Legislativo Regional n.º 28/2011/A | Decreto Legislativo Regional n.º 6/2026/A | ANEXO — (a que se refere o artigo 11.º) | 116 | 2026-03-03 | **não** | sim, consolidação de 2025-09-30 | 116/116 | Decreto Legislativo Regional n.º 14/2024/A (2024-12-24) |
 | Decreto-Lei n.º 174/98 | Lei n.º 101/2015 | Anexo — ESTATUTO DA ORDEM DOS ECONOMISTAS | 108 | 2024-03-01 | sim | sim, consolidação de 1998-06-27 | 0/103 | Lei n.º 101/2015 (2015-08-20) |
 | Decreto-Lei n.º 173/98 | Lei n.º 112/2015 | Anexo II — Republicação do Decreto-Lei n.º 173/98, de 26 de  | 113 | 2024-03-01 | **não** | sim, consolidação de 2007-06-12 | 8/81 | Decreto-Lei n.º 228/2007 (2007-06-11) |
 | Decreto-Lei n.º 183/98 | Lei n.º 159/2015 | Anexo — ESTATUTO DA ORDEM DOS BIÓLOGOS | 112 | 2024-03-01 | sim | sim, consolidação de 1998-07-04 | 3/76 | Lei n.º 159/2015 (2015-09-18) |
 | Lei n.º 38/2012 | Lei n.º 81/2021 | articulado | 102 | 2022-06-01 | **não** | não | 2/82 | Lei n.º 93/2015 (2015-08-13) |
 | Decreto-Lei n.º 178/2006 | Decreto-Lei n.º 73/2011 | Anexo II — (a que se refere o artigo 19.º) | 101 | 2021-07-01 | **não** | não | 92/94 | — |
-| Decreto-Lei n.º 167/97 | Decreto-Lei n.º 55/2002 | (2.ª numeração) | 83 | 2002-03-11 | **não** | não | 50/82 | Decreto-Lei n.º 305/99 (1999-08-06) |
-| Decreto-Lei n.º 328/93 | Decreto-Lei n.º 240/96 | (2.ª numeração) | 80 | 1996-12-14 | **não** | não | 72/78 | — |
-| Decreto Legislativo Regional n.º 4/2000/M | Decreto Legislativo Regional n.º 21/2006/M | (2.ª numeração) | 63 | 2006-06-21 | **não** | sim, texto de 2000-01-31 | 14/63 | — |
+| Decreto-Lei n.º 167/97 | Decreto-Lei n.º 55/2002 | ANEXO | 83 | 2002-03-11 | **não** | não | 50/82 | Decreto-Lei n.º 305/99 (1999-08-06) |
+| Decreto-Lei n.º 328/93 | Decreto-Lei n.º 240/96 | [(ver documento original)](https://files.diariodarepublica.p | 80 | 1996-12-14 | **não** | não | 72/78 | — |
+| Decreto Legislativo Regional n.º 4/2000/M | Decreto Legislativo Regional n.º 21/2006/M | ANEXO | 63 | 2006-06-21 | **não** | sim, texto de 2000-01-31 | 14/63 | — |
 | Lei n.º 77/88 | Lei n.º 28/2003 | Anexo — Lei de Organização e Funcionamento dos Serviços da A | 67 | 2025-04-08 | sim | sim, consolidação de 1994-08-04 | 12/54 | Lei n.º 59/93 (1993-08-17) |
 | Decreto-Lei n.º 337/90 | Lei n.º 5/98 | Anexo — Lei Orgânica do Banco de Portugal | 67 | 2021-01-01 | **não** | não | sem epígrafes | — |
 | Decreto-Lei n.º 312/2007 | Decreto-Lei n.º 74/2008 | (2.ª numeração) | 69 | 2008-04-22 | **não** | sim, texto de 2007-09-17 | 69/69 | — |
-| Decreto n.º 11-A/2020 | Decreto n.º 2-A/2021 | (2.ª numeração) | 65 | 2021-01-07 | **não** | sim, texto de 2020-12-21 | 63/64 | — |
-| Decreto Legislativo Regional n.º 17/2003/M | Decreto Legislativo Regional n.º 2/2005/M | (2.ª numeração) | 64 | 2005-03-30 | **não** | não | 64/64 | — |
-| Decreto Legislativo Regional n.º 29/2004/A | Decreto Legislativo Regional n.º 43/2008/A | (2.ª numeração) | 63 | 2008-10-08 | **não** | não | 62/62 | — |
+| Decreto n.º 11-A/2020 | Decreto n.º 2-A/2021 | ANEXO V — (a que se refere o artigo 6.º) | 65 | 2021-01-07 | **não** | sim, texto de 2020-12-21 | 63/64 | — |
+| Decreto Legislativo Regional n.º 17/2003/M | Decreto Legislativo Regional n.º 2/2005/M | ANEXO | 64 | 2005-03-30 | **não** | não | 64/64 | — |
+| Decreto Legislativo Regional n.º 29/2004/A | Decreto Legislativo Regional n.º 43/2008/A | Republicação do [Decreto Legislativo Regional n.º 29/2004/A] | 63 | 2008-10-08 | **não** | não | 62/62 | — |
 | Decreto-Lei n.º 211/2004 | Decreto-Lei n.º 69/2011 | Anexo II — Republicação do Decreto-Lei n.º 211/2004, de 20 d | 60 | 2011-06-15 | **não** | não | 48/57 | — |
 | Decreto Legislativo Regional n.º 32/2011/A | Decreto Legislativo Regional n.º 12/2013/A | Anexo — ESTATUTO DO ALUNO DOS ENSINOS BÁSICO E SECUNDÁRIO | 55 | 2018-01-01 | **não** | não | 6/55 | — |
-| Decreto-Lei n.º 394/99 | Decreto-Lei n.º 8-D/2002 | (2.ª numeração) | 40 | 2002-01-15 | **não** | não | 33/38 | — |
-| Decreto Legislativo Regional n.º 15/2006/A | Decreto Legislativo Regional n.º 17/2015/A | (2.ª numeração) | 44 | 2015-06-22 | **não** | não | 40/44 | — |
-| Decreto Legislativo Regional n.º 5/2003/A | Decreto Legislativo Regional n.º 16/2023/A | (3.ª numeração) | 43 | 2023-05-11 | **não** | sim, consolidação de 2018-05-12 | 34/43 | Decreto Legislativo Regional n.º 13/2008/A (2008-06-06); Decreto Legislativo Regional n.º 37/2008/A (2008-08-05); Decreto Legislativo Regional n.º 12/2010/A (2010-03-30); Decreto Legislativo Regional n.º 20/2011/A (2011-06-21); Decreto Legislativo Regional n.º 34/2011/A (2011-12-06); Decreto Legislativo Regional n.º 13/2012/A (2012-03-28); Decreto Legislativo Regional n.º 5/2018/A (2018-05-11) |
-| Decreto Legislativo Regional n.º 34/2008/A | Decreto Legislativo Regional n.º 15/2009/A | (2.ª numeração) | 41 | 2009-08-06 | **não** | sim, texto de 2008-07-28 | 5/30 | — |
-| Decreto Legislativo Regional n.º 32/2017/M | Decreto Legislativo Regional n.º 16/2022/M | (2.ª numeração) | 38 | 2022-07-29 | **não** | sim, consolidação de 2017-09-16 | 38/38 | — |
-| Decreto-Lei n.º 404-A/98 | Lei n.º 44/99 | (2.ª numeração) | 36 | 1999-06-11 | **não** | não | 34/35 | — |
-| Decreto-Lei n.º 109-E/2021 | Decreto-Lei n.º 70/2025 | (3.ª numeração) | 35 | 2025-04-29 | **não** | sim, consolidação de 2021-12-09 | 35/35 | — |
+| Decreto-Lei n.º 224/82 | Lei n.º 3/83 | articulado | 57 | 1983-02-26 | **não** | não | 45/47 | — |
+| Decreto-Lei n.º 394/99 | Decreto-Lei n.º 8-D/2002 | [Decreto-Lei n.º 349/99](https://diariodarepublica.pt/dr/det | 40 | 2002-01-15 | **não** | não | 33/38 | — |
+| Decreto Legislativo Regional n.º 15/2006/A | Decreto Legislativo Regional n.º 17/2015/A | Republicação do [Decreto Legislativo Regional n.º 15/2006/A] | 44 | 2015-06-22 | **não** | não | 40/44 | — |
+| Decreto Legislativo Regional n.º 5/2003/A | Decreto Legislativo Regional n.º 16/2023/A | Republicação do [Decreto Legislativo Regional n.º 5/2003/A]( | 43 | 2023-05-11 | **não** | sim, consolidação de 2018-05-12 | 34/43 | Decreto Legislativo Regional n.º 13/2008/A (2008-06-06); Decreto Legislativo Regional n.º 37/2008/A (2008-08-05); Decreto Legislativo Regional n.º 12/2010/A (2010-03-30); Decreto Legislativo Regional n.º 20/2011/A (2011-06-21); Decreto Legislativo Regional n.º 34/2011/A (2011-12-06); Decreto Legislativo Regional n.º 13/2012/A (2012-03-28); Decreto Legislativo Regional n.º 5/2018/A (2018-05-11) |
+| Decreto Legislativo Regional n.º 34/2008/A | Decreto Legislativo Regional n.º 15/2009/A | ANEXO — (republicação do Decreto Legislativo Regional n.º 34 | 41 | 2009-08-06 | **não** | sim, texto de 2008-07-28 | 5/30 | — |
+| Decreto Legislativo Regional n.º 17/2014/M | Decreto Legislativo Regional n.º 10/2019/M | Anexo | 40 | 2019-08-13 | **não** | sim, consolidação de 2016-08-18 | 38/39 | — |
+| Decreto Legislativo Regional n.º 32/2017/M | Decreto Legislativo Regional n.º 16/2022/M | ANEXO — (a que se refere o artigo 4.º) | 38 | 2022-07-29 | **não** | sim, consolidação de 2017-09-16 | 38/38 | — |
+| Decreto-Lei n.º 404-A/98 | Lei n.º 44/99 | Decreto-Lei n.º 404-A/98, de 18 de Dezembro (ANEXO) | 36 | 1999-06-11 | **não** | não | 34/35 | — |
+| Decreto-Lei n.º 109-E/2021 | Decreto-Lei n.º 70/2025 | [a que se refere a alínea b) do artigo 1.º] (ANEXO) | 35 | 2025-04-29 | **não** | sim, consolidação de 2021-12-09 | 35/35 | — |
 | Decreto-Lei n.º 104/2008 | Decreto-Lei n.º 270/2009 | Anexo (2.ª numeração) | 34 | 2009-09-30 | **não** | não | 32/33 | — |
 | Decreto Legislativo Regional n.º 9/99/A | Decreto Legislativo Regional n.º 10/2003/A | Anexo II — (republicação a que faz referência o artigo 3.º) | 33 | 2004-03-24 | **não** | sim, consolidação de 2004-03-23 | 33/33 | — |
 | Decreto-Lei n.º 212/2006 | Decreto-Lei n.º 234/2008 | (2.ª numeração) | 32 | 2008-12-02 | **não** | não | 31/31 | — |
 | Decreto Legislativo Regional n.º 2/2017/A | Decreto Legislativo Regional n.º 10/2021/A | Anexo — Regulamento de Concurso do Pessoal Docente da Educaç | 31 | 2021-04-19 | **não** | sim, texto de 2017-04-11 | 29/29 | — |
-| Lei n.º 33/2003 | Lei n.º 2/2006 | (3.ª numeração) | 31 | 2006-02-14 | **não** | não | 27/27 | — |
+| Lei n.º 33/2003 | Lei n.º 2/2006 | Estatutos da Rádio e Televisão de Portugal, SGPS, S. A. (ANE | 31 | 2006-02-14 | **não** | não | 27/27 | — |
 | Decreto-Lei n.º 54/95 | Decreto-Lei n.º 43/98 | Anexo — REGULAMENTO DA CONTRIBUIÇÃO ESPECIAL | 29 | 2013-01-01 | **não** | sim, consolidação de 2012-12-31 | sem epígrafes | — |
-| Decreto-Lei n.º 166/2000 | Decreto-Lei n.º 307/2001 | (2.ª numeração) | 30 | 2001-12-06 | **não** | sim, texto de 2000-08-05 | 28/28 | — |
-| Decreto-Lei n.º 201/2006 | Decreto-Lei n.º 92/2009 | (2.ª numeração) | 30 | 2009-04-16 | **não** | sim, texto de 2006-10-27 | 23/30 | Decreto-Lei n.º 240/2007 (2007-06-21); Decreto-Lei n.º 44/2008 (2008-03-11) |
-| Decreto-Lei n.º 287/93 | Decreto-Lei n.º 106/2007 | (2.ª numeração) | 26 | 2007-04-03 | **não** | sim, consolidação de 1993-08-20 | 23/26 | — |
+| Decreto-Lei n.º 166/2000 | Decreto-Lei n.º 307/2001 | [Decreto-Lei n.º 166/2000](https://diariodarepublica.pt/dr/d | 30 | 2001-12-06 | **não** | sim, texto de 2000-08-05 | 28/28 | — |
+| Decreto-Lei n.º 201/2006 | Decreto-Lei n.º 92/2009 | ANEXO — (a que se refere o artigo 3.º) | 30 | 2009-04-16 | **não** | sim, texto de 2006-10-27 | 23/30 | Decreto-Lei n.º 240/2007 (2007-06-21); Decreto-Lei n.º 44/2008 (2008-03-11) |
+| Decreto-Lei n.º 287/93 | Decreto-Lei n.º 106/2007 | ANEXO — (a que se refere o artigo 3.º) | 26 | 2007-04-03 | **não** | sim, consolidação de 1993-08-20 | 23/26 | — |
+| Decreto Regulamentar n.º 32/2007 | Decreto Regulamentar n.º 5/2013 | ANEXO — (a que se refere o artigo 2.º) | 27 | 2013-08-29 | **não** | não | 24/27 | — |
 | Decreto-Lei n.º 144/2007 | Decreto-Lei n.º 69/2011 | Anexo III — Republicação do Decreto-Lei n.º 144/2007, de 27  | 27 | 2011-06-15 | **não** | não | 27/27 | — |
-| Decreto Regulamentar n.º 8/2003 | Decreto Regulamentar n.º 61/2007 | (2.ª numeração) | 24 | 2007-05-09 | **não** | não | 24/24 | — |
-| Lei n.º 65/93 | Lei n.º 94/99 | (2.ª numeração) | 21 | 1999-07-16 | **não** | não | 18/21 | — |
-| Decreto-Lei n.º 59/2003 | Decreto-Lei n.º 104/2012 | (3.ª numeração) | 23 | 2012-05-16 | **não** | sim, consolidação de 2003-04-01 | 19/23 | — |
+| Decreto Regulamentar n.º 8/2003 | Decreto Regulamentar n.º 61/2007 | ANEXO — (a que se refere o artigo 3.º) | 24 | 2007-05-09 | **não** | não | 24/24 | — |
+| Lei n.º 65/93 | Lei n.º 94/99 | Regula o acesso aos documentos da Administração (ANEXO) | 21 | 1999-07-16 | **não** | não | 18/21 | — |
+| Decreto-Lei n.º 59/2003 | Decreto-Lei n.º 104/2012 | ANEXO | 23 | 2012-05-16 | **não** | sim, consolidação de 2003-04-01 | 19/23 | — |
 | Decreto Legislativo Regional n.º 4/2003/M | Decreto Legislativo Regional n.º 23/2008/M | Anexo II — Republicação do Decreto Legislativo Regional n.º  | 22 | 2012-07-03 | **não** | sim, consolidação de 2008-06-30 | 21/22 | — |
-| Decreto-Lei n.º 92/2008 | Decreto-Lei n.º 231/2008 | (2.ª numeração) | 20 | 2008-11-28 | **não** | sim, consolidação de 2008-06-03 | 20/20 | — |
-| Decreto-Lei n.º 112/2011 | Decreto-Lei n.º 152/2012 | (2.ª numeração) | 19 | 2012-07-12 | **não** | não | 15/19 | — |
-| Decreto-Lei n.º 184/98 | Decreto-Lei n.º 116-B/2006 | (2.ª numeração) | 18 | 2006-06-16 | **não** | não | 18/18 | — |
-| Decreto-Lei n.º 118/92 | Decreto-Lei n.º 129/2005 | (2.ª numeração) | 17 | 2005-08-11 | **não** | não | 12/13 | Decreto-Lei n.º 205/2000 (2000-09-01) |
-| Decreto-Lei n.º 142/2000 | Decreto-Lei n.º 122/2005 | (2.ª numeração) | 16 | 2005-07-29 | **não** | não | 13/15 | — |
+| Decreto-Lei n.º 32/95 | Decreto-Lei n.º 42/2007 | ESTATUTOS DA EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRU | 20 | 2007-02-22 | **não** | não | 17/20 | — |
+| Decreto-Lei n.º 92/2008 | Decreto-Lei n.º 231/2008 | ANEXO — (a que se refere o n.º 1 do artigo 8.º) | 20 | 2008-11-28 | **não** | sim, consolidação de 2008-06-03 | 20/20 | — |
+| Decreto-Lei n.º 112/2011 | Decreto-Lei n.º 152/2012 | ANEXO — (a que se refere o artigo 5.º) | 19 | 2012-07-12 | **não** | não | 15/19 | — |
+| Decreto-Lei n.º 396/99 | Decreto-Lei n.º 71/2003 | Segunda alteração ao Decreto-Lei n.º 289/91, de 10 de Agosto | 19 | 2003-04-10 | **não** | sim, texto de 1999-10-13 | 16/16 | — |
+| Decreto-Lei n.º 184/98 | Decreto-Lei n.º 116-B/2006 | ANEXO — (republicação do [Decreto-Lei n.º 184/98](https://di | 18 | 2006-06-16 | **não** | não | 18/18 | — |
+| Decreto-Lei n.º 118/92 | Decreto-Lei n.º 129/2005 | Republicação do [Decreto-Lei n.º 118/92](https://diariodarep | 17 | 2005-08-11 | **não** | não | 12/13 | Decreto-Lei n.º 205/2000 (2000-09-01) |
+| Decreto-Lei n.º 142/2000 | Decreto-Lei n.º 122/2005 | Regime jurídico do pagamento dos prémios de seguro (ANEXO) | 16 | 2005-07-29 | **não** | não | 13/15 | — |
 | Decreto-Lei n.º 10/2001 | Decreto-Lei n.º 339-D/2001 | Anexo III — Republicação do Decreto-Lei n.º 10/2001, de 23 d | 16 | 2001-12-28 | **não** | não | 13/16 | — |
-| Decreto-Lei n.º 78/97 | Decreto-Lei n.º 76/2006 | (3.ª numeração) | 15 | 2006-03-27 | **não** | não | 14/15 | — |
+| Decreto-Lei n.º 78/97 | Decreto-Lei n.º 76/2006 | ANEXO II — (a que se refere o n.º 2 do artigo 13.º) | 15 | 2006-03-27 | **não** | não | 14/15 | — |
 | Decreto-Lei n.º 195/2006 | Decreto-Lei n.º 48-A/2010 | Anexo II — (a que se refere o artigo 8.º) Decreto-Lei n.º 19 | 15 | 2010-05-13 | **não** | não | 15/15 | — |
-| Decreto Legislativo Regional n.º 14/2024/A | Decreto Legislativo Regional n.º 6/2026/A | (2.ª numeração) | 13 | 2026-03-03 | **não** | sim, consolidação de 2024-12-24 | 12/12 | — |
-| Decreto-Lei n.º 387/90 | Decreto-Lei n.º 314/97 | (2.ª numeração) | 12 | 1997-11-15 | **não** | sim, texto de 1990-12-10 | 8/10 | — |
+| Decreto Legislativo Regional n.º 14/2024/A | Decreto Legislativo Regional n.º 6/2026/A | ANEXO — (a que se refere o artigo 4.º) | 13 | 2026-03-03 | **não** | sim, consolidação de 2024-12-24 | 12/12 | — |
+| Decreto-Lei n.º 387/90 | Decreto-Lei n.º 314/97 | ANEXO | 12 | 1997-11-15 | **não** | sim, texto de 1990-12-10 | 8/10 | — |
 
-## 2-B. Cópias com texto de outra data, em registos em vigor (685; as 60 maiores)
+## 2-B. Cópias com texto de outra data, em registos em vigor (703; as 60 maiores)
 
 | Texto | Cópia em | Parte | Artigos | Texto da cópia até | Texto atual em | Texto atual até |
 |---|---|---|--:|---|---|---|
 | Anexo I — Republicação do Código das Sociedades Comerciais | Decreto-Lei n.º 76-A/2006 | Anexo I — Republicação do Código das Sociedades Co | 598 | 2006-03-29 | Decreto-Lei n.º 262/86 | 2026-09-01 |
 | Anexo IV — Republicação do Código dos Valores Mobiliários, a | Lei n.º 35/2018 | Anexo IV — Republicação do Código dos Valores Mobi | 588 | 2018-07-20 | Decreto-Lei n.º 486/99 | 2026-09-01 |
-| Anexo III — Republicação do Código dos Contratos Públicos | Decreto-Lei n.º 177/2026 | (2.ª numeração) | 570 | 2026-09-04 | Decreto-Lei n.º 18/2008 | 2026-10-01 |
+| Anexo III — Republicação do Código dos Contratos Públicos | Decreto-Lei n.º 177/2026 | ANEXO II — (a que se refere o artigo 9.º) | 570 | 2026-09-04 | Decreto-Lei n.º 18/2008 | 2026-10-01 |
 | Anexo I — Republicação do Regime Geral das Instituições de C | Lei n.º 23-A/2022 | Anexo — Republicação do Regime Geral das Instituiç | 545 | 2022-12-09 | Decreto-Lei n.º 298/92 | 2025-12-28 |
-| Aprova o Código do Processo Penal. Revoga o Decreto-Lei n.º  | Lei n.º 48/2007 | (2.ª numeração) | 535 | 2007-08-29 | Decreto-Lei n.º 78/87 | 2026-09-01 |
+| CÓDIGO DE PROCESSO PENAL (ANEXO) | Lei n.º 48/2007 | CÓDIGO DE PROCESSO PENAL (ANEXO) | 535 | 2007-08-29 | Decreto-Lei n.º 78/87 | 2026-09-01 |
+| CÓDIGO DE PROCESSO PENAL (ANEXO) | Lei n.º 59/98 | CÓDIGO DE PROCESSO PENAL (ANEXO) | 532 | 1998-08-25 | Decreto-Lei n.º 78/87 | 2026-09-01 |
 | Anexo III — Republicação do Código dos Contratos Públicos | Decreto-Lei n.º 111-B/2017 | Anexo III — Republicação do Código dos Contratos P | 531 | 2018-01-01 | Decreto-Lei n.º 18/2008 | 2026-10-01 |
-| Anexo IV — Republicação do Código dos Valores Mobiliários, a | Decreto-Lei n.º 357-A/2007 | (2.ª numeração) | 504 | 2007-10-31 | Decreto-Lei n.º 486/99 | 2026-09-01 |
+| Anexo IV — Republicação do Código dos Valores Mobiliários, a | Decreto-Lei n.º 357-A/2007 | ANEXO I — (a que se refere o artigo 20.º) | 504 | 2007-10-31 | Decreto-Lei n.º 486/99 | 2026-09-01 |
 | Anexo I — Republicação do Regime Geral das Instituições de C | Lei n.º 35/2018 | Anexo V — Republicação do Regime Geral das Institu | 476 | 2018-07-20 | Decreto-Lei n.º 298/92 | 2025-12-28 |
-| Anexo III — Republicação do Código dos Contratos Públicos | Decreto-Lei n.º 278/2009 | (2.ª numeração) | 474 | 2009-10-02 | Decreto-Lei n.º 18/2008 | 2026-10-01 |
+| Anexo III — Republicação do Código dos Contratos Públicos | Decreto-Lei n.º 278/2009 | CÓDIGO DOS CONTRATOS PÚBLICOS (ANEXO) | 474 | 2009-10-02 | Decreto-Lei n.º 18/2008 | 2026-10-01 |
 | Anexo I — Republicação do Regime Geral das Instituições de C | Lei n.º 23-A/2015 | Anexo I — Republicação do Regime Geral das Institu | 462 | 2015-03-26 | Decreto-Lei n.º 298/92 | 2025-12-28 |
-| Anexo I — Republicação do Regime Geral das Instituições de C | Decreto-Lei n.º 157/2014 | (2.ª numeração) | 406 | 2014-10-24 | Decreto-Lei n.º 298/92 | 2025-12-28 |
+| Anexo I — Republicação do Regime Geral das Instituições de C | Decreto-Lei n.º 157/2014 | ANEXO — (a que se refere o artigo 25.º) | 406 | 2014-10-24 | Decreto-Lei n.º 298/92 | 2025-12-28 |
 | Anexo — CÓDIGO PENAL | Lei n.º 59/2007 | Anexo — CÓDIGO PENAL | 403 | 2007-09-04 | Decreto-Lei n.º 48/95 | 2026-09-01 |
-| Anexo — CÓDIGO DA PROPRIEDADE INDUSTRIAL | Decreto-Lei n.º 143/2008 | (2.ª numeração) | 399 | 2008-07-25 | Decreto-Lei n.º 110/2018 | 2026-09-30 |
-| Anexo — Código do Registo Civil | Decreto-Lei n.º 324/2007 | (2.ª numeração) | 344 | 2007-09-28 | Decreto-Lei n.º 131/95 | 2025-04-02 |
-| Anexo — Republicação do Decreto-Lei n.º 15/2022, de 14 de ja | Decreto-Lei n.º 99/2024 | Anexo — Republicação do Decreto-Lei n.º 15/2022, d | 319 | 2024-12-03 | Decreto-Lei n.º 15/2022 | 2026-08-28 |
+| CÓDIGO DA PROPRIEDADE INDUSTRIAL (ANEXO II) | Decreto-Lei n.º 143/2008 | CÓDIGO DA PROPRIEDADE INDUSTRIAL (ANEXO) | 399 | 2008-07-25 | Decreto-Lei n.º 110/2018 | 2026-09-30 |
+| Bases da concessão da rede nacional de transporte de eletric | Decreto-Lei n.º 99/2024 | Anexo — Republicação do Decreto-Lei n.º 15/2022, d | 365 | 2024-12-03 | Decreto-Lei n.º 15/2022 | 2026-08-28 |
+| Republicação do Código do Registo Civil (ANEXO) | Decreto-Lei n.º 324/2007 | Republicação do Código do Registo Civil (ANEXO) | 344 | 2007-09-28 | Decreto-Lei n.º 131/95 | 2025-04-02 |
 | Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO | Lei n.º 118/2019 | Anexo II — (a que se refere o n.º 1 do artigo 12.º | 315 | 2019-09-17 | Decreto-Lei n.º 433/99 | 2025-07-01 |
 | Anexo II — Republicação do Regime Geral dos Organismos de In | Decreto-Lei n.º 56/2018 | Anexo II — Republicação do Regime Geral dos Organi | 314 | 2018-07-09 | Lei n.º 16/2015 | 2023-05-29 |
-| Anexo — ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS | Decreto-Lei n.º 197-A/2003 | (2.ª numeração) | 313 | 2003-08-30 | Decreto-Lei n.º 236/99 | 2007-09-16 |
-| Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS | Decreto-Lei n.º 200/2004 | (2.ª numeração) | 304 | 2004-08-18 | Decreto-Lei n.º 53/2004 | 2024-11-10 |
+| Anexo — ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS | Decreto-Lei n.º 197-A/2003 | ANEXO — (republicação) | 313 | 2003-08-30 | Decreto-Lei n.º 236/99 | 2007-09-16 |
+| Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS | Decreto-Lei n.º 200/2004 | CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS | 304 | 2004-08-18 | Decreto-Lei n.º 53/2004 | 2024-11-10 |
 | Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO | Lei n.º 15/2001 | Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBU | 298 | 2001-06-05 | Decreto-Lei n.º 433/99 | 2025-07-01 |
-| Anexo — ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS | Decreto-Lei n.º 77/2023 | (2.ª numeração) | 289 | 2023-09-04 | Decreto-Lei n.º 90/2015 | 2023-09-05 |
-| Anexo — CÓDIGO DA PROPRIEDADE INDUSTRIAL | Lei n.º 16/2008 | (3.ª numeração) | 285 | 2008-04-01 | Decreto-Lei n.º 110/2018 | 2026-09-30 |
-| Regula as condições de acesso e de exercício da actividade s | Decreto-Lei n.º 251/2003 | (2.ª numeração) | 285 | 2003-10-14 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
-| Regula as condições de acesso e de exercício da actividade s | Decreto-Lei n.º 8-A/2002 | (2.ª numeração) | 273 | 2002-01-11 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
+| Anexo — ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS | Decreto-Lei n.º 77/2023 | ANEXO VI — (a que se refere o artigo 10.º) | 289 | 2023-09-04 | Decreto-Lei n.º 90/2015 | 2023-09-05 |
+| CÓDIGO DA PROPRIEDADE INDUSTRIAL (ANEXO II) | Lei n.º 16/2008 | CÓDIGO DA PROPRIEDADE INDUSTRIAL (ANEXO II) | 285 | 2008-04-01 | Decreto-Lei n.º 110/2018 | 2026-09-30 |
+| Republicação do Decreto-Lei n.º 94-B/98, de 17 de Abril (ANE | Decreto-Lei n.º 251/2003 | Decreto-Lei n.º 94-B/98, de 17 de Abril (ANEXO) | 285 | 2003-10-14 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
+| Republicação do Decreto-Lei n.º 94-B/98, de 17 de Abril (ANE | Decreto-Lei n.º 8-A/2002 | (2.ª numeração) | 273 | 2002-01-11 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
 | Anexo — Republicação da Lei n.º 23/2007, de 4 de julho | Lei n.º 18/2022 | Anexo — Republicação da Lei n.º 23/2007, de 4 de j | 271 | 2022-08-25 | Lei n.º 23/2007 | 2026-09-11 |
-| Anexo — Republicação da Lei n.º 23/2007, de 4 de julho | Lei n.º 102/2017 | (2.ª numeração) | 264 | 2017-08-28 | Lei n.º 23/2007 | 2026-09-11 |
-| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 20/2022/A | (2.ª numeração) | 255 | 2022-08-24 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
-| Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundament | Lei n.º 107/2019 | (2.ª numeração) | 249 | 2019-09-09 | Decreto-Lei n.º 480/99 | 2024-11-10 |
-| Anexo I — Republicação do Regime Geral das Instituições de C | Decreto-Lei n.º 201/2002 | (2.ª numeração) | 248 | 2002-09-26 | Decreto-Lei n.º 298/92 | 2025-12-28 |
-| Estatuto dos Magistrados Judiciais | Lei n.º 67/2019 | (2.ª numeração) | 248 | 2019-08-27 | Lei n.º 21/85 | 2025-07-25 |
-| Estabelece o regime geral de prevenção e gestão de resíduos | Decreto Legislativo Regional n.º 19/2016/A | (2.ª numeração) | 246 | 2016-10-06 | Decreto Legislativo Regional n.º 29/2011/A | 2016-10-07 |
-| Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS | Lei n.º 16/2008 | (2.ª numeração) | 242 | 2008-04-01 | Decreto-Lei n.º 63/85 | 2024-01-01 |
-| Anexo — Republicação da Lei n.º 23/2007, de 4 de julho | Lei n.º 29/2012 | (2.ª numeração) | 239 | 2012-08-09 | Lei n.º 23/2007 | 2026-09-11 |
-| Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundament | Decreto-Lei n.º 295/2009 | (2.ª numeração) | 235 | 2009-10-13 | Decreto-Lei n.º 480/99 | 2024-11-10 |
-| Anexo II — Republicação do Decreto-Lei n.º 176/2006, de 30 d | Decreto-Lei n.º 128/2013 | (2.ª numeração) | 229 | 2013-09-05 | Decreto-Lei n.º 176/2006 | 2026-07-01 |
+| Anexo — Republicação da Lei n.º 23/2007, de 4 de julho | Lei n.º 102/2017 | ANEXO — (a que se refere o artigo 6.º) | 264 | 2017-08-28 | Lei n.º 23/2007 | 2026-09-11 |
+| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 20/2022/A | ANEXO — (a que se refere o artigo 3.º) | 255 | 2022-08-24 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
+| Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundament | Lei n.º 107/2019 | ANEXO — (a que se refere o artigo 8.º) | 249 | 2019-09-09 | Decreto-Lei n.º 480/99 | 2024-11-10 |
+| Anexo I — Republicação do Regime Geral das Instituições de C | Decreto-Lei n.º 201/2002 | Regime Geral das Instituições de Crédito e Socieda | 248 | 2002-09-26 | Decreto-Lei n.º 298/92 | 2025-12-28 |
+| ANEXO III — (a que se refere o artigo 9.º) | Lei n.º 67/2019 | ANEXO III — (a que se refere o artigo 9.º) | 248 | 2019-08-27 | Lei n.º 21/85 | 2025-07-25 |
+| Republicação do [Decreto Legislativo Regional n.º 29/2011/A] | Decreto Legislativo Regional n.º 19/2016/A | Republicação do [Decreto Legislativo Regional n.º  | 246 | 2016-10-06 | Decreto Legislativo Regional n.º 29/2011/A | 2016-10-07 |
+| CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS (ANEXO I) | Lei n.º 16/2008 | CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS  | 242 | 2008-04-01 | Decreto-Lei n.º 63/85 | 2024-01-01 |
+| Anexo — Republicação da Lei n.º 23/2007, de 4 de julho | Lei n.º 29/2012 | ANEXO — (a que se refere o artigo 8.º) | 239 | 2012-08-09 | Lei n.º 23/2007 | 2026-09-11 |
+| Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundament | Decreto-Lei n.º 295/2009 | Código de Processo do Trabalho (ANEXO) | 235 | 2009-10-13 | Decreto-Lei n.º 480/99 | 2024-11-10 |
+| Anexo II — Republicação do Decreto-Lei n.º 176/2006, de 30 d | Decreto-Lei n.º 128/2013 | ANEXO II — (a que se refere o artigo 12.º) | 229 | 2013-09-05 | Decreto-Lei n.º 176/2006 | 2026-07-01 |
 | Anexo II — Republicação do Decreto-Lei n.º 176/2006, de 30 d | Decreto-Lei n.º 20/2013 | Anexo II — Republicação do Decreto-Lei n.º 176/200 | 226 | 2013-02-14 | Decreto-Lei n.º 176/2006 | 2026-07-01 |
-| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 9/2024/A | (3.ª numeração) | 225 | 2024-10-11 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
-| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 21/2025/A | (3.ª numeração) | 225 | 2025-10-08 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
-| Regula as condições de acesso e de exercício da actividade s | Decreto-Lei n.º 2/2009 | (2.ª numeração) | 223 | 2009-01-05 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
-| Estabelece o regime jurídico da proteção radiológica, transp | Decreto-Lei n.º 81/2022 | (2.ª numeração) | 215 | 2022-12-06 | Decreto-Lei n.º 108/2018 | 2025-01-01 |
-| Anexo — (republicação do Decreto-Lei n.º 224/84, de 6 de Jul | Decreto-Lei n.º 125/2013 | (2.ª numeração) | 214 | 2013-08-30 | Decreto-Lei n.º 224/84 | 2026-04-16 |
-| Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS | Lei n.º 45/85 | Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS  | 212 | 1985-09-17 | Decreto-Lei n.º 63/85 | 2024-01-01 |
-| Anexo | Decreto Legislativo Regional n.º 31/2012/A | (3.ª numeração) | 210 | 2012-07-06 | Decreto Legislativo Regional n.º 29/2010/A | 2026-01-01 |
-| Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS | Decreto-Lei n.º 214-G/2015 | (2.ª numeração) | 210 | 2015-10-02 | Lei n.º 15/2002 | 2024-11-10 |
-| Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS | Lei n.º 118/2019 | Anexo III — (a que se refere o n.º 2 do artigo 12. | 208 | 2019-09-17 | Lei n.º 15/2002 | 2024-11-10 |
+| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 9/2024/A | ANEXO — (a que se refere o artigo 1.º) | 225 | 2024-10-11 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
+| Anexo — ESTATUTO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR  | Decreto Legislativo Regional n.º 21/2025/A | ANEXO — (a que se refere o artigo 1.º) | 225 | 2025-10-08 | Decreto Legislativo Regional n.º 23/2023/A | 2026-01-01 |
+| Republicação do Decreto-Lei n.º 94-B/98, de 17 de Abril (ANE | Decreto-Lei n.º 2/2009 | Republicação do Decreto-Lei n.º 94-B/98, de 17 de  | 223 | 2009-01-05 | Decreto-Lei n.º 94-B/98 | 2016-01-01 |
+| ANEXO — (a que se refere o artigo 5.º) | Decreto-Lei n.º 81/2022 | ANEXO — (a que se refere o artigo 5.º) | 215 | 2022-12-06 | Decreto-Lei n.º 108/2018 | 2025-01-01 |
+| Anexo — (republicação do Decreto-Lei n.º 224/84, de 6 de Jul | Decreto-Lei n.º 125/2013 | ANEXO — (a que se refere o artigo 9.º) | 214 | 2013-08-30 | Decreto-Lei n.º 224/84 | 2026-04-16 |
+| CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS (ANEXO I) | Lei n.º 45/85 | Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS  | 212 | 1985-09-17 | Decreto-Lei n.º 63/85 | 2024-01-01 |
+| Republicação do Decreto Legislativo Regional n.º 29/2010/A,  | Decreto Legislativo Regional n.º 31/2012/A | Republicação do Decreto Legislativo Regional n.º 2 | 210 | 2012-07-06 | Decreto Legislativo Regional n.º 29/2010/A | 2026-01-01 |
+| Republicação do Código de Processo nos Tribunais Administrat | Decreto-Lei n.º 214-G/2015 | Republicação do Código de Processo nos Tribunais A | 210 | 2015-10-02 | Lei n.º 15/2002 | 2024-11-10 |
+| Republicação do Código de Processo nos Tribunais Administrat | Lei n.º 118/2019 | Anexo III — (a que se refere o n.º 2 do artigo 12. | 208 | 2019-09-17 | Lei n.º 15/2002 | 2024-11-10 |
 | Anexo — (republicação do Decreto-Lei n.º 224/84, de 6 de Jul | Decreto-Lei n.º 116/2008 | Anexo — (republicação do Decreto-Lei n.º 224/84, d | 204 | 2008-07-04 | Decreto-Lei n.º 224/84 | 2026-04-16 |
-| Regime jurídico das instituições de ensino superior | Lei n.º 32/2026 | (2.ª numeração) | 204 | 2026-07-20 | Lei n.º 62/2007 | 2026-08-01 |
+| ANEXO — (a que se refere o artigo 16.º) | Lei n.º 32/2026 | ANEXO — (a que se refere o artigo 16.º) | 204 | 2026-07-20 | Lei n.º 62/2007 | 2026-08-01 |
 | Anexo II — Republicação da Lei n.º 83/2017, de 18 de agosto | Lei n.º 58/2020 | Anexo II — Republicação da Lei n.º 83/2017, de 18  | 196 | 2020-08-31 | Lei n.º 83/2017 | 2026-07-01 |
-| Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS | Lei n.º 4-A/2003 | (2.ª numeração) | 192 | 2003-02-19 | Lei n.º 15/2002 | 2024-11-10 |
-| Lei da Organização do Sistema Judiciário | Lei n.º 40-A/2016 | (2.ª numeração) | 190 | 2016-12-22 | Lei n.º 62/2013 | 2026-09-01 |
-| Anexo — CÓDIGO DA ESTRADA | Decreto-Lei n.º 44/2005 | articulado | 189 | 2021-01-09 | Lei n.º 72/2013 | 2025-04-11 |
-| Anexo — CÓDIGO DA ESTRADA | Decreto-Lei n.º 2/98 | (2.ª numeração) | 177 | 1998-01-31 | Lei n.º 72/2013 | 2025-04-11 |
-| Anexo — CÓDIGO DA ESTRADA | Decreto-Lei n.º 265-A/2001 | (2.ª numeração) | 177 | 2002-01-02 | Lei n.º 72/2013 | 2025-04-11 |
-| Lei eleitoral para a Assembleia Legislativa da Região Autóno | Lei Orgânica n.º 1-A/2025 | (2.ª numeração) | 175 | 2025-01-27 | Lei Orgânica n.º 1/2006 | 2025-01-28 |
-| Lei Eleitoral para a Assembleia Regional dos Açores | Lei Orgânica n.º 3/2026 | (2.ª numeração) | 173 | 2026-09-10 | Decreto-Lei n.º 267/80 | 2026-09-11 |
-| Estabelece o regime jurídico dos instrumentos de gestão terr | Decreto-Lei n.º 316/2007 | (2.ª numeração) | 173 | 2007-11-06 | Decreto-Lei n.º 380/99 | 2015-07-13 |
-| Estabelece o regime jurídico dos instrumentos de gestão terr | Decreto-Lei n.º 46/2009 | (2.ª numeração) | 173 | 2009-02-20 | Decreto-Lei n.º 380/99 | 2015-07-13 |
-| Lei eleitoral para a Assembleia Legislativa da Região Autóno | Lei Orgânica n.º 1/2009 | (2.ª numeração) | 171 | 2009-01-19 | Lei Orgânica n.º 1/2006 | 2025-01-28 |
-| Estabelece o regime jurídico da conservação, fomento e explo | Decreto-Lei n.º 201/2005 | (2.ª numeração) | 171 | 2005-11-24 | Decreto-Lei n.º 202/2004 | 2024-10-16 |
-| Lei Eleitoral para a Assembleia Regional dos Açores | Lei Orgânica n.º 2/2000 | (2.ª numeração) | 168 | 2000-07-14 | Decreto-Lei n.º 267/80 | 2026-09-11 |
+| Republicação do Código de Processo nos Tribunais Administrat | Lei n.º 4-A/2003 | CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS ( | 192 | 2003-02-19 | Lei n.º 15/2002 | 2024-11-10 |
+| ANEXO — (a que se refere o artigo 11.º) | Lei n.º 40-A/2016 | ANEXO — (a que se refere o artigo 11.º) | 190 | 2016-12-22 | Lei n.º 62/2013 | 2026-09-01 |
+| CÓDIGO DA ESTRADA (ANEXO) | Decreto-Lei n.º 44/2005 | articulado | 189 | 2021-01-09 | Lei n.º 72/2013 | 2025-04-11 |
+| CÓDIGO DA ESTRADA (ANEXO) | Decreto-Lei n.º 2/98 | CÓDIGO DA ESTRADA (ANEXO) | 177 | 1998-01-31 | Lei n.º 72/2013 | 2025-04-11 |
+| CÓDIGO DA ESTRADA (ANEXO) | Decreto-Lei n.º 265-A/2001 | (2.ª numeração) | 177 | 2002-01-02 | Lei n.º 72/2013 | 2025-04-11 |
+| Lei Eleitoral para a Assembleia Legislativa da Região Autóno | Lei Orgânica n.º 1-A/2025 | ANEXO — (a que se refere o artigo 5.º) | 175 | 2025-01-27 | Lei Orgânica n.º 1/2006 | 2025-01-28 |
+| Republicação do [Decreto-Lei n.º 267/80](https://diariodarep | Lei Orgânica n.º 3/2026 | ANEXO — (a que se refere o artigo 4.º) | 173 | 2026-09-10 | Decreto-Lei n.º 267/80 | 2026-09-11 |
+| Republicação do [Decreto-Lei n.º 380/99](https://diariodarep | Decreto-Lei n.º 316/2007 | Republicação do Decreto-Lei n.º 380/99, de 22 de S | 173 | 2007-11-06 | Decreto-Lei n.º 380/99 | 2015-07-13 |
+| Republicação do [Decreto-Lei n.º 380/99](https://diariodarep | Decreto-Lei n.º 46/2009 | Republicação do [Decreto-Lei n.º 380/99](https://d | 173 | 2009-02-20 | Decreto-Lei n.º 380/99 | 2015-07-13 |
+| Lei Eleitoral para a Assembleia Legislativa da Região Autóno | Lei Orgânica n.º 1/2009 | Lei Eleitoral para a Assembleia Legislativa da Reg | 171 | 2009-01-19 | Lei Orgânica n.º 1/2006 | 2025-01-28 |
+| ANEXO — ([Decreto-Lei n.º 202/2004](https://diariodarepublic | Decreto-Lei n.º 201/2005 | ANEXO — ([Decreto-Lei n.º 202/2004](https://diario | 171 | 2005-11-24 | Decreto-Lei n.º 202/2004 | 2024-10-16 |
 
-## 2-C. Cópias, em registos em vigor, de textos cujo registo mais recente já não vigora (60)
+## 2-C. Cópias, em registos em vigor, de textos cujo registo mais recente já não vigora (63)
 
 | Texto | Cópia em | Parte | Artigos | Texto da cópia até | Registo mais recente | Estado desse registo |
 |---|---|---|--:|---|---|---|
 | Anexo II — Republicação do Regime Geral dos Organismos de In | Decreto-Lei n.º 56/2018 | Anexo II — Republicação do Regime Geral dos Organi | 314 | 2018-07-09 | Lei n.º 16/2015 | repealed |
-| Estabelece o regime jurídico dos instrumentos de gestão terr | Decreto-Lei n.º 316/2007 | (2.ª numeração) | 173 | 2007-11-06 | Decreto-Lei n.º 380/99 | repealed |
-| Estabelece o regime jurídico dos instrumentos de gestão terr | Decreto-Lei n.º 46/2009 | (2.ª numeração) | 173 | 2009-02-20 | Decreto-Lei n.º 380/99 | repealed |
-| Estabelece o regime jurídico dos instrumentos de gestão terr | Decreto-Lei n.º 310/2003 | (2.ª numeração) | 160 | 2003-12-10 | Decreto-Lei n.º 380/99 | repealed |
-| Estabelece o regime jurídico da criação, autonomia e gestão  | Decreto Legislativo Regional n.º 35/2006/A | (2.ª numeração) | 145 | 2006-09-06 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
-| Estabelece o regime jurídico da criação, autonomia e gestão  | Decreto Legislativo Regional n.º 17/2010/A | (2.ª numeração) | 145 | 2010-04-13 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
-| Estabelece o regime jurídico da criação, autonomia e gestão  | Decreto Legislativo Regional n.º 13/2013/A | (2.ª numeração) | 145 | 2013-08-30 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
+| Republicação do [Decreto-Lei n.º 380/99](https://diariodarep | Decreto-Lei n.º 316/2007 | Republicação do Decreto-Lei n.º 380/99, de 22 de S | 173 | 2007-11-06 | Decreto-Lei n.º 380/99 | repealed |
+| Republicação do [Decreto-Lei n.º 380/99](https://diariodarep | Decreto-Lei n.º 46/2009 | Republicação do [Decreto-Lei n.º 380/99](https://d | 173 | 2009-02-20 | Decreto-Lei n.º 380/99 | repealed |
+| Republicação do [Decreto-Lei n.º 380/99](https://diariodarep | Decreto-Lei n.º 310/2003 | (2.ª numeração) | 160 | 2003-12-10 | Decreto-Lei n.º 380/99 | repealed |
+| Republicação do regime jurídico da criação, autonomia e gest | Decreto Legislativo Regional n.º 35/2006/A | Regime jurídico da criação, autonomia e gestão das | 145 | 2006-09-06 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
+| Republicação do regime jurídico da criação, autonomia e gest | Decreto Legislativo Regional n.º 17/2010/A | Regime jurídico da criação, autonomia e gestão das | 145 | 2010-04-13 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
+| Republicação do regime jurídico da criação, autonomia e gest | Decreto Legislativo Regional n.º 13/2013/A | Republicação do regime jurídico da criação, autono | 145 | 2013-08-30 | Decreto Legislativo Regional n.º 12/2005/A | repealed |
 | Anexo III — Republicação do Decreto-Lei n.º 12/2006, de 20 d | Lei n.º 147/2015 | Anexo III — Republicação do Decreto-Lei n.º 12/200 | 125 | 2015-09-09 | Decreto-Lei n.º 12/2006 | repealed |
 | Anexo I — Regime jurídico que regula o acesso à actividade d | Decreto-Lei n.º 242/2012 | Anexo — REGIME JURÍDICO DOS SERVIÇOS DE PAGAMENTO  | 122 | 2012-11-07 | Decreto-Lei n.º 317/2009 | repealed |
-| Estabelece os princípios gerais relativos à organização e fu | Decreto-Lei n.º 215-A/2012 | (2.ª numeração) | 110 | 2012-10-08 | Decreto-Lei n.º 29/2006 | repealed |
-| Estabelece os princípios gerais relativos à organização e ao | Decreto-Lei n.º 230/2012 | (2.ª numeração) | 107 | 2012-10-26 | Decreto-Lei n.º 30/2006 | repealed |
-| Desenvolve os princípios gerais relativos à organização e ao | Decreto-Lei n.º 231/2012 | (2.ª numeração) | 106 | 2012-10-26 | Decreto-Lei n.º 140/2006 | repealed |
-| Anexo — Regime jurídico dos organismos de investimento colec | Decreto-Lei n.º 71/2010 | (2.ª numeração) | 102 | 2010-06-18 | Decreto-Lei n.º 252/2003 | repealed |
-| Lei de enquadramento orçamental | Lei Orgânica n.º 2/2002 | (2.ª numeração) | 94 | 2002-08-28 | Lei n.º 41/2014 | not_in_force |
-| Estabelece os princípios gerais relativos à organização e fu | Decreto-Lei n.º 78/2011 | (2.ª numeração) | 92 | 2011-06-20 | Decreto-Lei n.º 29/2006 | repealed |
-| Define as medidas nacionais de conservação dos recursos biol | Decreto Regulamentar n.º 16/2015 | (2.ª numeração) | 90 | 2015-09-16 | Decreto Regulamentar n.º 43/87 | repealed |
-| Estabelece os princípios gerais relativos à organização e ao | Decreto-Lei n.º 77/2011 | (2.ª numeração) | 89 | 2011-06-20 | Decreto-Lei n.º 30/2006 | repealed |
-| Aprova a estrutura orgânica e define as atribuições do Servi | Decreto-Lei n.º 240/2012 | (2.ª numeração) | 85 | 2012-11-06 | Decreto-Lei n.º 252/2000 | repealed |
+| Republicação do Decreto-Lei n.º 29/2006, de 15 de Fevereiro  | Decreto-Lei n.º 215-A/2012 | ANEXO — (a que se refere o artigo 6.º) | 110 | 2012-10-08 | Decreto-Lei n.º 29/2006 | repealed |
+| Republicação do Decreto-Lei n.º 30/2006, de 15 de Fevereiro  | Decreto-Lei n.º 230/2012 | ANEXO — (a que se refere o artigo 6.º) | 107 | 2012-10-26 | Decreto-Lei n.º 30/2006 | repealed |
+| ANEXO — (a que se refere o artigo 13.º) | Decreto-Lei n.º 231/2012 | ANEXO — (a que se refere o artigo 13.º) | 106 | 2012-10-26 | Decreto-Lei n.º 140/2006 | repealed |
+| Anexo — Regime jurídico dos organismos de investimento colec | Decreto-Lei n.º 71/2010 | ANEXO I — (a que se refere o n.º 1 do artigo 11.º) | 102 | 2010-06-18 | Decreto-Lei n.º 252/2003 | repealed |
+| Republicação da lei de enquadramento do Orçamento do Estado  | Lei Orgânica n.º 2/2002 | Republicação da lei de enquadramento do Orçamento  | 94 | 2002-08-28 | Lei n.º 41/2014 | not_in_force |
+| Republicação do Decreto-Lei n.º 29/2006, de 15 de Fevereiro  | Decreto-Lei n.º 78/2011 | Republicação do Decreto-Lei n.º 29/2006, de 15 de  | 92 | 2011-06-20 | Decreto-Lei n.º 29/2006 | repealed |
+| ANEXO — (a que se refere o artigo 7.º) | Decreto Regulamentar n.º 16/2015 | ANEXO — (a que se refere o artigo 7.º) | 90 | 2015-09-16 | Decreto Regulamentar n.º 43/87 | repealed |
+| Republicação do Decreto-Lei n.º 30/2006, de 15 de Fevereiro  | Decreto-Lei n.º 77/2011 | Republicação do Decreto-Lei n.º 30/2006, de 15 de  | 89 | 2011-06-20 | Decreto-Lei n.º 30/2006 | repealed |
+| ANEXO III — (a que se refere o artigo 9.º) | Decreto-Lei n.º 240/2012 | ANEXO III — (a que se refere o artigo 9.º) | 85 | 2012-11-06 | Decreto-Lei n.º 252/2000 | repealed |
 | Aprova o regime de licenciamento de obras particulares | Decreto-Lei n.º 250/94 | articulado | 83 | 1994-10-15 | Decreto-Lei n.º 445/91 | repealed |
-| Anexo | Decreto-Lei n.º 71/2010 | (3.ª numeração) | 77 | 2010-06-18 | Decreto-Lei n.º 60/2002 | repealed |
-| Estabelece o novo regime de recrutamento e mobilidade do pes | Decreto-Lei n.º 83-A/2014 | (2.ª numeração) | 65 | 2014-05-23 | Decreto-Lei n.º 132/2012 | repealed |
-| Anexo | Decreto-Lei n.º 13/2005 | (2.ª numeração) | 61 | 2005-01-07 | Decreto-Lei n.º 60/2002 | repealed |
+| Regime jurídico dos fundos de investimento imobiliário (ANEX | Decreto-Lei n.º 71/2010 | ANEXO II — (a que se refere o n.º 2 do artigo 11.º | 77 | 2010-06-18 | Decreto-Lei n.º 60/2002 | repealed |
+| ANEXO II — (a que se refere o artigo 7.º) | Decreto-Lei n.º 83-A/2014 | ANEXO II — (a que se refere o artigo 7.º) | 65 | 2014-05-23 | Decreto-Lei n.º 132/2012 | repealed |
+| Regime jurídico dos fundos de investimento imobiliário (ANEX | Decreto-Lei n.º 13/2005 | Regime jurídico dos fundos de investimento imobili | 61 | 2005-01-07 | Decreto-Lei n.º 60/2002 | repealed |
 | Anexo I — Republicação do Decreto-Lei n.º 12/2004, de 9 de J | Decreto-Lei n.º 69/2011 | Anexo I — Republicação do Decreto-Lei n.º 12/2004, | 61 | 2011-06-15 | Decreto-Lei n.º 12/2004 | repealed |
-| Anexo | Decreto-Lei n.º 57/2002 | Anexo | 58 | 2002-03-11 | Decreto-Lei n.º 168/97 | repealed |
-| Anexo | Decreto-Lei n.º 139/99 | (2.ª numeração) | 57 | 1999-04-24 | Decreto-Lei n.º 168/97 | repealed |
-| Regula os concursos para seleção e recrutamento do pessoal d | Decreto Legislativo Regional n.º 7/2014/M | (2.ª numeração) | 57 | 2014-07-25 | Decreto Legislativo Regional n.º 25/2013/M | repealed |
+| ANEXO | Decreto-Lei n.º 57/2002 | Anexo | 58 | 2002-03-11 | Decreto-Lei n.º 168/97 | repealed |
+| ANEXO | Decreto-Lei n.º 139/99 | ANEXO | 57 | 1999-04-24 | Decreto-Lei n.º 168/97 | repealed |
+| ANEXO — (a que se refere o artigo 5.º) | Decreto Legislativo Regional n.º 7/2014/M | ANEXO — (a que se refere o artigo 5.º) | 57 | 2014-07-25 | Decreto Legislativo Regional n.º 25/2013/M | repealed |
 | Anexo II — (a que se refere o artigo 28.º) | Lei n.º 52/2018 | Anexo II — (a que se refere o artigo 28.º) | 56 | 2018-08-20 | Decreto-Lei n.º 118/2013 | repealed |
 | Anexo II — (a que se refere o artigo 28.º) | Decreto-Lei n.º 194/2015 | Anexo — (a que se refere o artigo 7.º) | 55 | 2015-11-26 | Decreto-Lei n.º 118/2013 | repealed |
-| Anexo II — (a que se refere o artigo 28.º) | Decreto-Lei n.º 251/2015 | (2.ª numeração) | 55 | 2015-11-25 | Decreto-Lei n.º 118/2013 | repealed |
-| Anexo II — (a que se refere o artigo 28.º) | Decreto-Lei n.º 28/2016 | (2.ª numeração) | 55 | 2016-06-23 | Decreto-Lei n.º 118/2013 | repealed |
-| Cria o PROHABITA - Programa de Financiamento para Acesso à H | Decreto-Lei n.º 54/2007 | (2.ª numeração) | 54 | 2007-03-12 | Decreto-Lei n.º 135/2004 | repealed |
-| Regula o acesso e exercício da actividade das agências de vi | Decreto-Lei n.º 199/2012 | (2.ª numeração) | 48 | 2012-08-24 | Decreto-Lei n.º 61/2011 | repealed |
-| Lei dos Baldios | Lei n.º 72/2014 | (2.ª numeração) | 48 | 2014-09-02 | Lei n.º 68/93 | repealed |
-| Regulamenta o acesso à actividade e ao mercado dos transport | Lei n.º 106/2001 | (2.ª numeração) | 46 | 2001-08-31 | Decreto-Lei n.º 251/98 | repealed |
-| Regulamenta o acesso à actividade e ao mercado dos transport | Decreto-Lei n.º 41/2003 | (2.ª numeração) | 46 | 2003-03-11 | Decreto-Lei n.º 251/98 | repealed |
-| Fixa o quadro legal regulamentador do exercício da pesca e d | Decreto-Lei n.º 383/98 | (2.ª numeração) | 45 | 1998-11-27 | Decreto-Lei n.º 278/87 | repealed |
-| Estabelece o regime jurídico da organização e do funcionamen | Decreto-Lei n.º 73/2017 | (2.ª numeração) | 45 | 2017-06-21 | Decreto-Lei n.º 298/2007 | repealed |
-| Estabelece o regime da criação, estruturação e funcionamento | Decreto-Lei n.º 253/2012 | (2.ª numeração) | 44 | 2012-11-27 | Decreto-Lei n.º 28/2008 | repealed |
-| Estabelece o regime da criação, estruturação e funcionamento | Decreto-Lei n.º 137/2013 | (2.ª numeração) | 44 | 2013-10-07 | Decreto-Lei n.º 28/2008 | repealed |
-| No uso da autorização legislativa concedida pela Lei n.º 29/ | Decreto-Lei n.º 114/2011 | (7.ª numeração) | 41 | 2011-11-30 | Decreto-Lei n.º 35/2004 | repealed |
-| Estabelece o regime de comércio de licenças de emissão de ga | Decreto-Lei n.º 233/2004 | articulado | 39 | 2004-12-14 | Decreto-Lei n.º 154/2009 | not_in_force |
-| Estabelece o regime de comércio de licenças de emissão de ga | Decreto-Lei n.º 243-A/2004 | (2.ª numeração) | 39 | 2004-12-31 | Decreto-Lei n.º 154/2009 | not_in_force |
-| Estabelece o Regime Jurídico do Programa Regional de Apoio à | Decreto Legislativo Regional n.º 16/2020/A | (2.ª numeração) | 38 | 2020-07-06 | Decreto Legislativo Regional n.º 7/2017/A | repealed |
-| Estabelece o Regime Jurídico do Programa Regional de Apoio à | Decreto Legislativo Regional n.º 4/2021/A | (2.ª numeração) | 38 | 2021-03-03 | Decreto Legislativo Regional n.º 7/2017/A | repealed |
-| Define as medidas nacionais de conservação dos recursos biol | Decreto Regulamentar n.º 3/89 | articulado | 35 | 1989-01-28 | Decreto Regulamentar n.º 43/87 | repealed |
+| Anexo II — (a que se refere o artigo 28.º) | Decreto-Lei n.º 251/2015 | ANEXO — (a que se refere o artigo 4.º) | 55 | 2015-11-25 | Decreto-Lei n.º 118/2013 | repealed |
+| Anexo II — (a que se refere o artigo 28.º) | Decreto-Lei n.º 28/2016 | ANEXO — (a que se refere o artigo 4.º) | 55 | 2016-06-23 | Decreto-Lei n.º 118/2013 | repealed |
+| ANEXO — (republicação) | Decreto-Lei n.º 54/2007 | ANEXO — (republicação) | 54 | 2007-03-12 | Decreto-Lei n.º 135/2004 | repealed |
+| ANEXO II — (a que se refere o artigo 7.º) | Decreto-Lei n.º 199/2012 | ANEXO II — (a que se refere o artigo 7.º) | 48 | 2012-08-24 | Decreto-Lei n.º 61/2011 | repealed |
+| ANEXO — (a que se refere o artigo 9.º) | Lei n.º 72/2014 | ANEXO — (a que se refere o artigo 9.º) | 48 | 2014-09-02 | Lei n.º 68/93 | repealed |
+| [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/det | Lei n.º 106/2001 | [Decreto-Lei n.º 251/98](https://diariodarepublica | 46 | 2001-08-31 | Decreto-Lei n.º 251/98 | repealed |
+| [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/det | Decreto-Lei n.º 41/2003 | [Decreto-Lei n.º 251/98](https://diariodarepublica | 46 | 2003-03-11 | Decreto-Lei n.º 251/98 | repealed |
+| ANEXO | Decreto-Lei n.º 383/98 | ANEXO | 45 | 1998-11-27 | Decreto-Lei n.º 278/87 | repealed |
+| ANEXO — (a que se refere o artigo 6.º) | Decreto-Lei n.º 73/2017 | ANEXO — (a que se refere o artigo 6.º) | 45 | 2017-06-21 | Decreto-Lei n.º 298/2007 | repealed |
+| ANEXO I — (a que se refere o n.º 1 do artigo 7.º) | Decreto-Lei n.º 253/2012 | ANEXO — (a que se refere o artigo 5.º) | 44 | 2012-11-27 | Decreto-Lei n.º 28/2008 | repealed |
+| ANEXO I — (a que se refere o n.º 1 do artigo 7.º) | Decreto-Lei n.º 137/2013 | ANEXO I — (a que se refere o n.º 1 do artigo 7.º) | 44 | 2013-10-07 | Decreto-Lei n.º 28/2008 | repealed |
+| [a que se refere a alínea f) do artigo 40.º] (ANEXO VII) | Decreto-Lei n.º 114/2011 | [a que se refere a alínea f) do artigo 40.º] (ANEX | 41 | 2011-11-30 | Decreto-Lei n.º 35/2004 | repealed |
+| Republicação do Decreto-Lei n.º 233/2004, de 14 de Dezembro  | Decreto-Lei n.º 233/2004 | articulado | 39 | 2004-12-14 | Decreto-Lei n.º 154/2009 | not_in_force |
+| Republicação do Decreto-Lei n.º 233/2004, de 14 de Dezembro  | Decreto-Lei n.º 243-A/2004 | Republicação (ANEXO) | 39 | 2004-12-31 | Decreto-Lei n.º 154/2009 | not_in_force |
+| ANEXO — (a que se refere o artigo 4.º) | Decreto Legislativo Regional n.º 16/2020/A | ANEXO — (a que se refere o artigo 4.º) | 38 | 2020-07-06 | Decreto Legislativo Regional n.º 7/2017/A | repealed |
+| ANEXO — (a que se refere o artigo 4.º) | Decreto Legislativo Regional n.º 4/2021/A | ANEXO — (a que se refere o artigo 3.º) | 38 | 2021-03-03 | Decreto Legislativo Regional n.º 7/2017/A | repealed |
+| ANEXO — (a que se refere o artigo 7.º) | Decreto Regulamentar n.º 3/89 | articulado | 35 | 1989-01-28 | Decreto Regulamentar n.º 43/87 | repealed |
 | Aprova o regime dos contratos de trabalho dos profissionais  | Lei n.º 28/2011 | (2.ª numeração) | 32 | 2011-06-16 | Lei n.º 4/2008 | repealed |
+| Anexo II — Republicação do Regime Geral dos Organismos de In | Decreto-Lei n.º 144/2019 | ANEXO I | 31 | 2019-09-23 | Lei n.º 16/2015 | repealed |
 | Anexo II — Republicação do Decreto-Lei n.º 345/98, de 9 de n | Lei n.º 23-A/2015 | Anexo II — Republicação do Decreto-Lei n.º 345/98, | 29 | 2015-03-26 | Decreto-Lei n.º 345/98 | repealed |
 | Anexo — (a que se refere o artigo 11.º) | Decreto-Lei n.º 26/2015 | Anexo — (a que se refere o artigo 11.º) | 27 | 2015-02-06 | Decreto-Lei n.º 178/2012 | repealed |
-| Cria o Sistema de Incentivos para a Competitividade Empresar | Decreto Legislativo Regional n.º 9/2016/A | (2.ª numeração) | 27 | 2016-05-18 | Decreto Legislativo Regional n.º 12/2014/A | repealed |
-| Estabelece o regime jurídico de protecção às vítimas de crim | Lei n.º 31/2006 | (2.ª numeração) | 23 | 2006-07-21 | Decreto-Lei n.º 423/91 | repealed |
-| Estabelece um novo regime de responsabilidade penal por comp | Lei n.º 13/2017 | (2.ª numeração) | 20 | 2017-05-02 | Lei n.º 50/2007 | repealed |
+| Republicação do [Decreto Legislativo Regional n.º 12/2014/A] | Decreto Legislativo Regional n.º 9/2016/A | Republicação do [Decreto Legislativo Regional n.º  | 27 | 2016-05-18 | Decreto Legislativo Regional n.º 12/2014/A | repealed |
+| Decreto-Lei n.º 423/91, de 30 de Outubro (ANEXO) | Lei n.º 31/2006 | Decreto-Lei n.º 423/91, de 30 de Outubro (ANEXO) | 23 | 2006-07-21 | Decreto-Lei n.º 423/91 | repealed |
+| ANEXO — (a que se refere o artigo 6.º) | Lei n.º 13/2017 | ANEXO — (a que se refere o artigo 6.º) | 20 | 2017-05-02 | Lei n.º 50/2007 | repealed |
 | Anexo — Decreto-Lei n.º 314/78, de 27 de Outubro - Organizaç | Lei n.º 31/2003 | Anexo — Decreto-Lei n.º 314/78, de 27 de Outubro - | 19 | 2003-08-22 | Decreto-Lei n.º 314/78 | repealed |
+| Estatuto das denominações de origem e indicação geográfica d | Decreto-Lei n.º 97/2020 | Estatuto das denominações de origem e indicação ge | 19 | 2020-11-16 | Decreto-Lei n.º 173/2009 | repealed |
 | Anexo III — (a que se refere o artigo 8.º) Decreto-Lei n.º 6 | Decreto-Lei n.º 48-A/2010 | Anexo III — (a que se refere o artigo 8.º) Decreto | 17 | 2010-05-13 | Decreto-Lei n.º 65/2007 | repealed |
-| Procede à criação dos fundos de sindicação de capital de ris | Decreto-Lei n.º 74/2015 | (2.ª numeração) | 16 | 2015-05-11 | Decreto-Lei n.º 187/2002 | repealed |
+| ANEXO — (a que se refere o artigo 4.º) | Decreto-Lei n.º 74/2015 | ANEXO — (a que se refere o artigo 4.º) | 16 | 2015-05-11 | Decreto-Lei n.º 187/2002 | repealed |
 | Anexo — (a que se refere o artigo 3.º) | Decreto-Lei n.º 391/2007 | Anexo — (a que se refere o artigo 3.º) | 16 | 2007-12-13 | Decreto-Lei n.º 460/77 | repealed |
-| Cria, na dependência da Presidência do Conselho de Ministros | Decreto-Lei n.º 27/2005 | (2.ª numeração) | 16 | 2005-02-04 | Decreto-Lei n.º 251/2002 | repealed |
-| Regula e garante o exercício do direito de iniciativa legisl | Decreto Legislativo Regional n.º 12/2017/M | (2.ª numeração) | 15 | 2017-05-22 | Decreto Legislativo Regional n.º 23/2000/M | repealed |
-| Cria medidas para a redução do consumo de sacos de plástico  | Decreto Legislativo Regional n.º 13/2015/A | (2.ª numeração) | 14 | 2015-04-27 | Decreto Legislativo Regional n.º 10/2014/A | repealed |
-| Estabelece o regime jurídico da gestão dos imóveis do domíni | Decreto Legislativo Regional n.º 8/2017/A | (2.ª numeração) | 13 | 2017-10-10 | Decreto Legislativo Regional n.º 11/2008/A | repealed |
+| Republicação do [Decreto-Lei n.º 251/2002](https://diariodar | Decreto-Lei n.º 27/2005 | Republicação do [Decreto-Lei n.º 251/2002](https:/ | 16 | 2005-02-04 | Decreto-Lei n.º 251/2002 | repealed |
+| ANEXO — (a que se refere o artigo 4.º) | Decreto Legislativo Regional n.º 12/2017/M | ANEXO — (a que se refere o artigo 4.º) | 15 | 2017-05-22 | Decreto Legislativo Regional n.º 23/2000/M | repealed |
+| Republicação do [Decreto Legislativo Regional n.º 10/2014/A] | Decreto Legislativo Regional n.º 13/2015/A | Republicação do [Decreto Legislativo Regional n.º  | 14 | 2015-04-27 | Decreto Legislativo Regional n.º 10/2014/A | repealed |
+| ANEXO | Decreto Legislativo Regional n.º 8/2017/A | ANEXO | 13 | 2017-10-10 | Decreto Legislativo Regional n.º 11/2008/A | repealed |
+| Estabelece a Lei Orgânica dos Tribunais Judiciais | Lei n.º 79/79 | articulado | 12 | 1979-12-28 | Decreto-Lei n.º 269/78 | repealed |
 | Anexo II — Republicação da Lei n.º 77/2019, de 2 de setembro | Decreto-Lei n.º 78/2021 | Anexo II — Republicação da Lei n.º 77/2019, de 2 d | 11 | 2021-09-24 | Lei n.º 77/2019 | repealed |
 
 ## 3. Vigência desconhecida (prioritários, 1.ª Série)
@@ -304,7 +313,7 @@ Leis e decretos-leis de vigência desconhecida por ano de publicação (desde 20
 | processo civil | Estatuto do Ministério Público | Lei n.º 68/2019 | Lei n.º 68/2019 (dre) | in_force | 2026-03-29 | sim | — |
 | processo civil | Estatuto da Ordem dos Solicitadores e dos Agentes de Execução | Lei n.º 154/2015 | Lei n.º 154/2015 (dre) | in_force | 2024-04-01 | sim | — |
 | penal | Código Penal | Decreto-Lei n.º 400/82 | Decreto-Lei n.º 48/95, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | o original não aponta para o registo com o texto em vigor (sem `republished_by` «Texto em vigor»); 3 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 400/82 (texto de 1982-09-23), Decreto-Lei n.º 400/82 (texto de 1982-09-23), Lei n.º 59/2007 (texto de 2007-09-04) |
-| penal | Código de Processo Penal | Decreto-Lei n.º 78/87 | Decreto-Lei n.º 78/87, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 48/2007 (texto de 2007-08-29); «artigo 263.º do Código de Processo Penal» não chega ao registo certo (veio: Decreto-Lei n.º 48/95, articulado, artigo 264.º) |
+| penal | Código de Processo Penal | Decreto-Lei n.º 78/87 | Decreto-Lei n.º 78/87, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | 2 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 59/98 (texto de 1998-08-25), Lei n.º 48/2007 (texto de 2007-08-29); «artigo 263.º do Código de Processo Penal» não chega ao registo certo (veio: Decreto-Lei n.º 48/95, articulado, artigo 264.º) |
 | penal | Código da Execução das Penas | Lei n.º 115/2009 | Lei n.º 115/2009 (dre) | in_force | 2023-08-20 | sim | «artigo 6.º do Código da Execução das Penas e Medidas Privativas da Liberdade» chega ao registo certo mas a outro artigo (veio: Lei n.º 115/2009, Anexo — CÓDIGO DA EXECUÇÃO DAS PENAS E MEDIDAS PRIVATIVAS DA LIBERDADE, artigo 133.º) |
 | penal | Regime Geral das Contraordenações | Decreto-Lei n.º 433/82 | Decreto-Lei n.º 433/82 (dre) | in_force | 2025-01-14 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 244/95 (texto de 1995-09-14) |
 | penal | Lei da droga (tráfico e consumo) | Decreto-Lei n.º 15/93 | Decreto-Lei n.º 15/93 (dre) | in_force | 2023-10-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 18/2009 (texto de 2009-05-11) |
@@ -465,72 +474,61 @@ Leis e decretos-leis de vigência desconhecida por ano de publicação (desde 20
 
 ## 8. O que o índice não lê como artigos
 
-Registos portugueses com texto. «Em vigor»: `in_force` ou `partially_in_force` no DRE. Destino das unidades dos registos em vigor: sem pedaços (o registo tem histórico e nenhum artigo lido: não entra na pesquisa), em blocos de ~300 palavras, dentro do texto de um artigo, cortada (para lá dos 30 000 caracteres do pedaço) e fora do índice (a seguir a um `## Anexo`).
+Registos portugueses com texto. «Em vigor»: `in_force` ou `partially_in_force` no DRE. O leitor conhece `###### Artigo`, `###### ARTIGO`, `###### Base`, `###### 1.º` e os anexos `## Anexo` e `## ANEXO`; aqui conta-se o que fica por ler como unidade. Destino das unidades dos registos em vigor: em blocos de ~300 palavras, dentro do texto de um artigo, cortada (para lá dos 30 000 caracteres do pedaço) e fora do índice (antes do primeiro artigo do diploma ou do anexo).
 
-| Unidade | Registos | Em vigor | Dos quais prioritários | Vigência desconhecida | Unidades (em vigor) | Sem pedaços | Em blocos | Dentro de um artigo | Cortadas | Fora do índice |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| «###### Base N» | 37 | 35 | 34 | 0 | 1957 | 71 | 0 | 52 | 129 | 1705 |
-| «Base N» solta no texto | 284 | 219 | 170 | 23 | 6689 | 123 | 2810 | 1722 | 2012 | 22 |
-| «###### ARTIGO N.º» (maiúsculas ou «Art.») | 2168 | 1685 | 821 | 46 | 26731 | 339 | 24973 | 862 | 42 | 515 |
-| «###### 1.º» ou «###### IV» (número sem «Artigo») | 172 | 137 | 3 | 0 | 1157 | 908 | 0 | 62 | 0 | 187 |
-| «Cláusula N» | 1803 | 209 | 11 | 1285 | 4307 | 60 | 3560 | 387 | 90 | 210 |
-| outros títulos de nível 6 | 10 | 9 | 2 | 0 | 57 | 24 | 0 | 3 | 0 | 30 |
+| Unidade | Registos | Em vigor | Dos quais prioritários | Vigência desconhecida | Unidades (em vigor) | Em blocos | Dentro de um artigo | Cortadas | Fora do índice |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| «Base N» solta no texto | 284 | 219 | 170 | 23 | 6689 | 2932 | 1728 | 2012 | 17 |
+| «Cláusula N» | 1803 | 209 | 11 | 1285 | 4307 | 3580 | 427 | 90 | 210 |
+| títulos de nível 6 de outra forma | 517 | 272 | 62 | 139 | 1066 | 766 | 127 | 19 | 154 |
 
-Em vigor e sem um único pedaço no índice, por terem histórico e nenhum `###### Artigo`: 2343 (45 prioritários, 1436 portarias); 2226 em texto corrido e 117 com unidades por ler (1525); cerca de 11640 blocos de texto.
+Em vigor, em blocos, com «Artigo 1.º … Art. 2.º …» no início das linhas (teto, por expressão regular): 8750 registos (3991 prioritários, 1469 portarias), 114415 artigos.
 
-Em vigor, em blocos, com «Artigo 1.º … Art. 2.º …» no início das linhas (teto, por expressão regular): 8768 registos (4000 prioritários, 1469 portarias), 114511 artigos.
+Leis em vigor ou de vigência desconhecida com bases soltas no texto:
 
-Em vigor, com `## ANEXO` em maiúsculas e artigos a seguir (o índice põe-nos na parte do diploma): 1946 registos (725 prioritários, 561 portarias), 71805 artigos; em 1229 registos, 12514 desses artigos têm o número de um artigo do próprio diploma.
+| Lei | Data | Vigência | Sumário | No índice | Bases | Citada por vigentes |
+|---|---|---|---|---|--:|--:|
+| Lei n.º 2103 | 1960-03-22 | in_force | Promulga as bases do abastecimento de água às populações rurais | blocos | 19 | 6 |
+| Lei n.º 2107 | 1961-04-05 | in_force | Promulga as bases para a execução do Plano de construções para o ensino primário no contin | blocos | 25 | 68 |
+| Lei n.º 2108 | 1961-04-18 | in_force | Promulga as bases para a execução do plano de desenvolvimento e beneficiação das redes de  | blocos | 17 | 3 |
+| Lei n.º 2112 | 1962-02-17 | in_force | Promulga as bases para assegurar o funcionamento dos órgãos de governo do Estado da Índia | blocos | 10 | 7 |
+| Lei n.º 2113 | 1962-04-11 | in_force | Promulga as bases da organização judiciária | blocos | 23 | 4 |
+| Lei n.º 2114 | 1962-06-15 | in_force | Promulga as bases do arrendamento rural | blocos | 29 | 4 |
+| Lei n.º 2119 | 1963-06-24 | in_force | Promulga as alterações à Lei Orgânica do Ultramar Português | blocos | 33 | 17 |
+| Lei n.º 2122 | 1964-01-14 | in_force | Promulga as bases para os reembolsos dos custos de linhas novas de energia eléctrica | blocos | 5 | 2 |
+| Lei n.º 2123 | 1964-12-14 | in_force | Promulga as bases para a execução do Plano Intercalar de Fomento do continente e ilhas adj | blocos | 14 | 23 |
+| Lei n.º 2126 | 1965-06-21 | in_force | Promulga as bases que alteram o Decreto-Lei n.º 28219 (uso de acendedores e isqueiros) | blocos | 6 | 0 |
+| Lei n.º 2127 | 1965-08-03 | in_force | Promulga as bases do regime jurídico dos acidentes de trabalho e doenças profissionais | blocos | 51 | 49 |
+| Lei n.º 2129 | 1966-08-20 | in_force | Promulga as bases sobre a preferência dos cônjuges no provimento de lugares de professores | blocos | 8 | 1 |
+| Lei n.º 2132 | 1967-05-26 | in_force | Promulga o regime jurídico da caça | blocos | 70 | 10 |
+| Lei n.º 2133 | 1967-12-20 | in_force | Promulga as bases em que o Governo promoverá a execução do III Plano de Fomento para o per | blocos | 11 | 14 |
+| Lei n.º 2137 | 1968-12-26 | in_force | Considera eleitores da Assembleia Nacional todos os cidadãos portugueses, maiores ou emanc | blocos | 2 | 2 |
+| Lei n.º 2144 | 1969-05-29 | in_force | Promulga a reorganização das Casas do Povo e os regimes de previdência rural - Revoga o De | blocos | 33 | 14 |
+| Lei n.º 4/70 | 1970-04-29 | in_force | Autoriza o Governo a instituir tribunais de família, que constituirão órgãos judiciais ord | blocos | 6 | 3 |
+| Lei n.º 5/70 | 1970-06-06 | in_force | Determina que seja livre a circulação de mercadorias nacionais ou nacionalizadas entre as  | blocos | 7 | 14 |
+| Lei n.º 6/70 | 1970-06-08 | in_force | Insere disposições relativas à realização de acordos colectivos sobre a comercialização de | blocos | 10 | 1 |
+| Lei n.º 8/70 | 1970-06-18 | in_force | Autoriza as federações dos grémios da lavoura, os organismos de coordenação económica e os | blocos | 7 | 2 |
+| Lei n.º 1/71 | 1971-01-29 | in_force | Determina que sejam designados pelas respectivas corporações os vogais que fazem parte dos | blocos | 8 | 1 |
+| Lei n.º 2/71 | 1971-04-12 | in_force | Estabelece o regime de actividade de seguros e resseguros - Cria o Conselho Nacional de Se | blocos | 26 | 5 |
+| Lei n.º 5/71 | 1971-11-05 | in_force | Promulga as bases relativas à lei de imprensa | blocos | 42 | 2 |
+| Lei n.º 8/71 | 1971-12-09 | in_force | Promulga as bases relativas à actividade teatral - Revoga várias disposições legislativas | blocos | 37 | 6 |
+| Lei n.º 2/72 | 1972-05-10 | in_force | Promulga as base sobre organização judiciária | blocos | 6 | 4 |
+| Lei n.º 3/72 | 1972-05-27 | in_force | Promulga as bases sobre fomento industrial - Revoga as Leis n.os 2005 e 2052 | blocos | 29 | 15 |
+| Lei n.º 5/72 | 1972-06-23 | in_force | Promulga as bases sobre a revisão da Lei Orgânica do Ultramar | blocos | 78 | 52 |
+| Lei n.º 2/73 | 1973-02-10 | in_force | Institui o registo nacional de identificação | blocos | 8 | 2 |
+| Lei n.º 6/73 | 1973-08-13 | in_force | Promulga a Lei de Terras do Ultramar | blocos | 33 | 2 |
+| Lei n.º 8/73 | 1973-12-26 | in_force | Organização e execução do IV Plano de Fomento (1974-1979) | blocos | 18 | 6 |
+| Lei n.º 22/92 | 1992-08-14 | in_force | Altera a Lei n.º 2127, de 3 de Agosto de 1965, estabelecendo a igualdade de direitos relat | blocos | 2 | 0 |
+| Lei n.º 161/99 | 1999-09-14 | in_force | Primeira alteração, por apreciação parlamentar, do Decreto-Lei n.º 394-A/98, de 15 de Deze | artigos | 3 | 11 |
+| Lei n.º 27/2002 | 2002-11-08 | in_force | Aprova o novo regime jurídico da gestão hospitalar e procede à primeira alteração à Lei n. | artigos | 3 | 66 |
+| Lei n.º 30/2006 | 2006-07-11 | in_force | Procede à conversão em contra-ordenações de contravenções e transgressões em vigor no orde | artigos | 2 | 12 |
+| Lei n.º 95/2019 | 2019-09-04 | unknown | Aprova a Lei de Bases da Saúde e revoga a Lei n.º 48/90, de 24 de agosto, e o Decreto-Lei  | artigos | 37 | 24 |
 
-Leis em vigor organizadas em bases:
-
-| Lei | Data | Sumário | No índice | Bases | Citada por vigentes |
-|---|---|---|---|--:|--:|
-| Lei n.º 2103 | 1960-03-22 | Promulga as bases do abastecimento de água às populações rurais | blocos | 19 | 6 |
-| Lei n.º 2107 | 1961-04-05 | Promulga as bases para a execução do Plano de construções para o ensino primário no contin | sem pedaços | 25 | 68 |
-| Lei n.º 2108 | 1961-04-18 | Promulga as bases para a execução do plano de desenvolvimento e beneficiação das redes de  | sem pedaços | 17 | 3 |
-| Lei n.º 2112 | 1962-02-17 | Promulga as bases para assegurar o funcionamento dos órgãos de governo do Estado da Índia | blocos | 10 | 7 |
-| Lei n.º 2113 | 1962-04-11 | Promulga as bases da organização judiciária | blocos | 23 | 4 |
-| Lei n.º 2114 | 1962-06-15 | Promulga as bases do arrendamento rural | sem pedaços | 29 | 4 |
-| Lei n.º 2119 | 1963-06-24 | Promulga as alterações à Lei Orgânica do Ultramar Português | blocos | 33 | 17 |
-| Lei n.º 2122 | 1964-01-14 | Promulga as bases para os reembolsos dos custos de linhas novas de energia eléctrica | blocos | 5 | 2 |
-| Lei n.º 2123 | 1964-12-14 | Promulga as bases para a execução do Plano Intercalar de Fomento do continente e ilhas adj | blocos | 14 | 23 |
-| Lei n.º 2126 | 1965-06-21 | Promulga as bases que alteram o Decreto-Lei n.º 28219 (uso de acendedores e isqueiros) | blocos | 6 | 0 |
-| Lei n.º 2127 | 1965-08-03 | Promulga as bases do regime jurídico dos acidentes de trabalho e doenças profissionais | sem pedaços | 51 | 49 |
-| Lei n.º 2129 | 1966-08-20 | Promulga as bases sobre a preferência dos cônjuges no provimento de lugares de professores | blocos | 8 | 1 |
-| Lei n.º 2132 | 1967-05-26 | Promulga o regime jurídico da caça | blocos | 70 | 10 |
-| Lei n.º 2133 | 1967-12-20 | Promulga as bases em que o Governo promoverá a execução do III Plano de Fomento para o per | blocos | 11 | 14 |
-| Lei n.º 2137 | 1968-12-26 | Considera eleitores da Assembleia Nacional todos os cidadãos portugueses, maiores ou emanc | blocos | 2 | 2 |
-| Lei n.º 2144 | 1969-05-29 | Promulga a reorganização das Casas do Povo e os regimes de previdência rural - Revoga o De | blocos | 33 | 14 |
-| Lei n.º 4/70 | 1970-04-29 | Autoriza o Governo a instituir tribunais de família, que constituirão órgãos judiciais ord | blocos | 6 | 3 |
-| Lei n.º 5/70 | 1970-06-06 | Determina que seja livre a circulação de mercadorias nacionais ou nacionalizadas entre as  | blocos | 7 | 14 |
-| Lei n.º 6/70 | 1970-06-08 | Insere disposições relativas à realização de acordos colectivos sobre a comercialização de | blocos | 10 | 1 |
-| Lei n.º 8/70 | 1970-06-18 | Autoriza as federações dos grémios da lavoura, os organismos de coordenação económica e os | blocos | 7 | 2 |
-| Lei n.º 1/71 | 1971-01-29 | Determina que sejam designados pelas respectivas corporações os vogais que fazem parte dos | blocos | 8 | 1 |
-| Lei n.º 2/71 | 1971-04-12 | Estabelece o regime de actividade de seguros e resseguros - Cria o Conselho Nacional de Se | blocos | 26 | 5 |
-| Lei n.º 5/71 | 1971-11-05 | Promulga as bases relativas à lei de imprensa | blocos | 42 | 2 |
-| Lei n.º 8/71 | 1971-12-09 | Promulga as bases relativas à actividade teatral - Revoga várias disposições legislativas | blocos | 37 | 6 |
-| Lei n.º 2/72 | 1972-05-10 | Promulga as base sobre organização judiciária | blocos | 6 | 4 |
-| Lei n.º 3/72 | 1972-05-27 | Promulga as bases sobre fomento industrial - Revoga as Leis n.os 2005 e 2052 | blocos | 29 | 15 |
-| Lei n.º 5/72 | 1972-06-23 | Promulga as bases sobre a revisão da Lei Orgânica do Ultramar | blocos | 78 | 52 |
-| Lei n.º 2/73 | 1973-02-10 | Institui o registo nacional de identificação | blocos | 8 | 2 |
-| Lei n.º 4/73 | 1973-06-04 | Estabelece normas sobre a constituição e o regime dos agrupamentos complementares de empre | sem pedaços | 6 | 6 |
-| Lei n.º 5/73 | 1973-07-25 | Aprova as bases a que deve obedecer a reforma do sistema educativo | sem pedaços | 29 | 6 |
-| Lei n.º 6/73 | 1973-08-13 | Promulga a Lei de Terras do Ultramar | blocos | 33 | 2 |
-| Lei n.º 8/73 | 1973-12-26 | Organização e execução do IV Plano de Fomento (1974-1979) | blocos | 18 | 6 |
-| Lei n.º 22/92 | 1992-08-14 | Altera a Lei n.º 2127, de 3 de Agosto de 1965, estabelecendo a igualdade de direitos relat | blocos | 2 | 0 |
-| Lei n.º 161/99 | 1999-09-14 | Primeira alteração, por apreciação parlamentar, do Decreto-Lei n.º 394-A/98, de 15 de Deze | artigos | 3 | 11 |
-| Lei n.º 27/2002 | 2002-11-08 | Aprova o novo regime jurídico da gestão hospitalar e procede à primeira alteração à Lei n. | artigos | 3 | 66 |
-| Lei n.º 30/2006 | 2006-07-11 | Procede à conversão em contra-ordenações de contravenções e transgressões em vigor no orde | artigos | 2 | 12 |
-| Lei n.º 52/2012 | 2012-09-05 | Lei de Bases dos Cuidados Paliativos | sem pedaços | 35 | 5 |
-
-## 8-B. Em vigor no DRE e sem um artigo aberto e não revogado no índice (2422)
+## 8-B. Em vigor no DRE e sem um artigo aberto e não revogado no índice (75)
 
 | Classe | Prioritários | Portarias | Outros | Total |
 |---|--:|--:|--:|--:|
-| pedaços abertos, todos com nota de revogação | 37 | 13 | 9 | 59 |
-| pedaços abertos, todos dados como revogados, com revogações que ainda não produziram efeitos | 4 | 1 | 0 | 5 |
-| sem um único pedaço | 45 | 1436 | 862 | 2343 |
-| todos os pedaços fechados, com ligação ao registo que tem o texto | 15 | 0 | 0 | 15 |
+| pedaços abertos, todos revogados | 37 | 12 | 9 | 58 |
+| todos os pedaços fechados, com ligação ao registo que tem o texto | 17 | 0 | 0 | 17 |
 
-Revogações que ainda não produziram efeitos e que o leitor já dá como revogação: 197 artigos em 15 registos (6 com todos os artigos abertos dados como revogados); por data de efeitos: 2026-11-28 5, 2026-12-01 1, 2026-12-31 133, 2027-01-01 16, 2027-03-01 41, 2032-07-04 1.
+Revogações publicadas que ainda não produziram efeitos (os artigos contam como em vigor até lá): 197 artigos em 15 registos (5 em que são todos os artigos em vigor do registo); por data de efeitos: 2026-11-28 5, 2026-12-01 1, 2026-12-31 133, 2027-01-01 16, 2027-03-01 41, 2032-07-04 1.

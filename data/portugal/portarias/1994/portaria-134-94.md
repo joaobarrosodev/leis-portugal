@@ -29,8 +29,8 @@ entry_into_force:
   rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
   method: supletiva
   article: null
-  effects_date: null
-  effects_rule: null
+  effects_date: '1992-12-27'
+  effects_rule: desde o dia 27 de Dezembro de 1992
   end_date: null
   end_rule: null
 end_of_validity_date: null
@@ -38,10 +38,20 @@ legal_status: not_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-13'
+version_history:
+  file: portaria-134-94.versoes.json
+  count: 1
+  source_lastmod: '2026-11-12'
+  versions:
+  - date: '2003-10-13'
+    amending: pt:dre:505211:por
+    amending_title: Decreto-Lei n.º 205/2003
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/134/1994/03/04/p/dre/pt/html
@@ -54,20 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-1994-275633
   metadata_url: https://data.dre.pt/eli/port/134/1994/03/04/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-1994-275633
-  consolidated_url: null
-  retrieved_at: '2026-10-23T12:20:10Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1034997427
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1034997427
+  retrieved_at: '2026-11-20T13:52:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 9fca3d5f66e6d5fe9d1d5488b9e16eb4165257250fe943765d1c14e497b1e5cf
+  source_sha256: b1444f66db882813b999d64a6783a583cb47fb62729e29ea12bbd51892337f8e
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T12:20:10Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:34Z'
+  notes: 1 versão(ões); histórico completo em portaria-134-94.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,6 +105,11 @@ relationships:
     2]\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1998-209839
   date: '1998-02-19'
+- type: amended_by
+  target: pt:dre:505211:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211
+  date: '2003-09-12'
 - type: cites
   target: pt:dre:217697:por
   label: null
@@ -105,36 +121,44 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2003-505211
   date: '2003-09-12'
 article_structure:
-  article_count: 0
-  section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 8
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T12:20:10Z'
+  checked_at: '2026-11-20T13:52:34Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 134/94
 
-de 4 de Março
-
-O [Decreto-Lei n.º 239/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697), de 29 de Outubro, estabelece as condições de comercialização dos materiais florestais de reprodução, nomeadamente quanto às suas características genéticas e qualidade exterior, quando destinados à florestação com o objectivo da produção de madeira.
+O Decreto-Lei n.º 239/92, de 29 de Outubro, estabelece as condições de comercialização dos materiais florestais de reprodução, nomeadamente quanto às suas características genéticas e qualidade exterior, quando destinados à florestação com o objectivo da produção de madeira.
 
 Importa, agora, definir as normas técnicas de execução desse diploma, nomeadamente no que se refere às condições de comercialização dos materiais florestais de reprodução.
 
 Assim:
 
-Ao abrigo do artigo 2.º do [Decreto-Lei n.º 239/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697), de 29 de Outubro:
+Ao abrigo do artigo 2.º do Decreto-Lei n.º 239/92, de 29 de Outubro:
 
 Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, o seguinte:
 
-1.º É aprovado o Regulamento da Comercialização de Materiais Florestais de Reprodução, em anexo ao presente diploma e do qual faz parte integrante.
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
 
-2.º A presente portaria produz efeitos desde o dia 27 de Dezembro de 1992.
+###### 1.º
+
+É aprovado o Regulamento da Comercialização de Materiais Florestais de Reprodução, em anexo ao presente diploma e do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### 2.º
+
+A presente portaria produz efeitos desde o dia 27 de Dezembro de 1992.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
@@ -142,11 +166,15 @@ Assinada em 2 de Fevereiro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.
 
-Anexo a que se refere a Portaria n.º 134/94
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
 
-Regulamento da Comercialização de Materiais Florestais de Reprodução
+## Regulamento da Comercialização de Materiais Florestais de Reprodução
 
-Artigo 1.º - 1 - Estão sujeitas ao disposto neste Regulamento:
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### Artigo 1.º
+
+1 - Estão sujeitas ao disposto neste Regulamento:
 
 a) As espécies de materiais florestais de reprodução enunciados no anexo I ao presente Regulamento desde a data de entrada em vigor;
 
@@ -198,7 +226,11 @@ m) A região de proveniência do material de reprodução produzido num pomar de
 
 n) Primeira comercialização de material de reprodução de uma espécie, subespécie, variedade ou clone: acto de importar ou vender, pela primeira vez, praticado por um operador.
 
-Art. 2.º - 1 - Os materiais de reprodução das espécies referidas no anexo I só podem ser comercializados desde que correspondam às seguintes categorias:
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### Artigo 2.º
+
+- 1 - Os materiais de reprodução das espécies referidas no anexo I só podem ser comercializados desde que correspondam às seguintes categorias:
 
 a) Materiais de reprodução seleccionados ou controlados, no caso das espécies referidas no n.º 1 do anexo I;
 
@@ -220,15 +252,27 @@ b) Materiais de reprodução controlados, no caso das espécies, variedades ou c
 
 9 - As exigências mínimas para as diferentes espécies são as fixadas no anexo V ao presente Regulamento.
 
-Art. 3.º - 1 - Anualmente, o IF estabelece as listas do material de base para as várias espécies aprovadas, das quais constará o material de reprodução seleccionado, controlado e proveniente de pomares de semente não testados.
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### Artigo 3.º
+
+- 1 - Anualmente, o IF estabelece as listas do material de base para as várias espécies aprovadas, das quais constará o material de reprodução seleccionado, controlado e proveniente de pomares de semente não testados.
 
 2 - Os critérios segundo os quais as listas são estabelecidas devem fixar-se de acordo com os n.os 4, 6, 7 e 8 do artigo anterior.
 
 3 - Das listas e suas modificações é imediatamente dado conhecimento à Comissão das Comunidades Europeias.
 
-Art. 4.º Compete ao IF fiscalizar a aplicação dos critérios enunciados no artigo anterior e proceder à aprovação do material de base apresentado pelo proprietário, seu representante ou qualquer pessoa interessada na comercialização do material florestal de reprodução, quando o material em questão seja do domínio público.
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
 
-Art. 5.º - 1 - Os materiais de reprodução devem ser, desde a colheita, acondicionamento e armazenagem, até ao transporte e utilização final, mantidos em lotes separados e identificados de acordo com os seguintes critérios:
+###### Artigo 4.º
+
+Compete ao IF fiscalizar a aplicação dos critérios enunciados no artigo anterior e proceder à aprovação do material de base apresentado pelo proprietário, seu representante ou qualquer pessoa interessada na comercialização do material florestal de reprodução, quando o material em questão seja do domínio público.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### Artigo 5.º
+
+- 1 - Os materiais de reprodução devem ser, desde a colheita, acondicionamento e armazenagem, até ao transporte e utilização final, mantidos em lotes separados e identificados de acordo com os seguintes critérios:
 
 a) Espécie, subespécie, variedade e clone;
 
@@ -262,7 +306,11 @@ e) Quando o material de base se destine a outra finalidade que não a produção
 
 4 - As sementes só podem ser comercializadas em embalagens fechadas, devendo o sistema de fecho garantir a sua inutilização depois da abertura.
 
-Art. 6.º - 1 - Nenhum material de reprodução importado pode ser introduzido no País sem estar acompanhado de certificado oficial, conforme ao modelo constante do anexo VI a este Regulamento, passado por outro membro da Comunidade ou, quando se trate de um país terceiro, por um certificado equivalente.
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+###### Artigo 6.º
+
+- 1 - Nenhum material de reprodução importado pode ser introduzido no País sem estar acompanhado de certificado oficial, conforme ao modelo constante do anexo VI a este Regulamento, passado por outro membro da Comunidade ou, quando se trate de um país terceiro, por um certificado equivalente.
 
 2 - A importação de material de reprodução de outro Estado membro ou de um país terceiro deve ser acompanhada das seguintes informações:
 
@@ -290,7 +338,9 @@ l) Ano de maturação das sementes;
 
 m) Materiais autóctones ou não autóctones.
 
-## ANEXO I — [A que se refere a alínea a) do n.º 1 do artigo 1.º]
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo I — [A que se refere a alínea a) do n.º 1 do artigo 1.º]
 
 1 - Materiais de reprodução sexuada de:
 
@@ -320,7 +370,9 @@ Fagus silvatica L.
 
 2 - Materais de reprodução vegetativa de Populus sp.
 
-## ANEXO II — [A que se refere a alínea b) do n.º 1 do artigo 1.º]
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo II — [A que se refere a alínea b) do n.º 1 do artigo 1.º]
 
 Espécies de particular interesse para Portugal:
 
@@ -334,7 +386,9 @@ Castanea sativa Mill.;
 
 Eucalyptus globulus Labill.
 
-## ANEXO III — [A que se refere a alínea d) do n.º 2 do artigo 1.º]
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo III — [A que se refere a alínea d) do n.º 2 do artigo 1.º]
 
 Exigências relativas à admissão de materiais de base destinados à produção de materiais de reprodução seleccionados.
 
@@ -368,7 +422,9 @@ C) Clones
 
 São aplicáveis os n.os 4, 5, 6, 7 e 9 da parte A).
 
-## ANEXO IV — [A que se refere a alínea e) do n.º 2 do artigo 1.º]
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo IV — [A que se refere a alínea e) do n.º 2 do artigo 1.º]
 
 Exigências para ensaios comparativos efectuados com vista à admissão de materiais de base destinados à produção de materiais de reprodução controlados.
 
@@ -462,13 +518,15 @@ Devem ser indicados claramente os caracteres avaliados, de acordo com o n.º 6.3
 
 Os testes juvenis em viveiro, em local defintivo e em laboratório são admitidos como testes precoces válidos, se for demonstrado que existe uma correlação estreita entre os valores dos caracteres apreciados no estado juvenil e no decorrer dos estádios de desenvolvimento ulteriores.
 
-## ANEXO V — [A que se refere o n.º 9 do artigo 2.º]
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo V — [A que se refere o n.º 9 do artigo 2.º]
 
 I - Condições a que devem obedecer as sementes
 
 1.1 - Os frutos e sementes devem responder, no que respeita à pureza específica, às seguintes condições:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/053b00/10521057.pdf)
+(ver documento original)
 
 1.2 - A presença de organismos nocivos reduzindo o valor de utilização das sementes só é tolerado no mais baixo nível possível.
 
@@ -534,7 +592,7 @@ O valor comercial é determinado por critérios de conformação, estado sanitá
 
 3.1 - Conformação e estado sanitário. - O quadro abaixo indica, para cada género e espécies consideradas, os defeitos que não conferem às plantas valor comercial. Todos os critérios devem ser apreciados em função da espécie ou do clone considerado, bem como em função da aptidão dos materiais de reprodução para a arborização:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/053b00/10521057.pdf)
+(ver documento original)
 
 3.2 - Idade e dimensões.
 
@@ -544,7 +602,7 @@ O valor comercial é determinado por critérios de conformação, estado sanitá
 
 3.2.1.2 - Normas mínimas CEE (idade e dimensões):
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/053b00/10521057.pdf)
+(ver documento original)
 
 3.2.2 - Populus.
 
@@ -556,15 +614,19 @@ O valor comercial é determinado por critérios de conformação, estado sanitá
 
 a) Regiões não mediterrânicas
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/053b00/10521057.pdf)
+(ver documento original)
 
 b) Regiões mediterrânicas
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/053b00/10521057.pdf)
+(ver documento original)
 
-## ANEXO VI — (A que se refere o n.º 1 do artigo 6.º)
+> Nota: [Diploma, Portaria n.º 79/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/79-1998-209839) As alíneas f) e o) do n.º 3.2.1.2 do presente anexo, passem a ter a seguinte redacção: «f) Caule e ramos não completamente atempados; ... o) Plantas apresentando indícios de aquecimento, de fermentação ou de bolor em consequência do acondicionamento em viveiro.»
 
-Certificado de proveniência
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.
+
+## Anexo VI — Certificado de proveniência
+
+(A que se refere o n.º 1 do artigo 6.º)
 
 Certificado de identidade
 
@@ -611,3 +673,5 @@ Carimbo ou selo do serviço ... (assinatura).
 ... (função).
 
 (nota *) Riscar o que não interessa.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13.

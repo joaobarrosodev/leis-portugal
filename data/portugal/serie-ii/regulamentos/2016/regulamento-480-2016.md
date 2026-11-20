@@ -23,6 +23,15 @@ publication:
   pages: 15552 - 15553
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/096000000/1555215553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

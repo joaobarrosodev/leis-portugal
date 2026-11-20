@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 239 - 245
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/060000000/0023900245.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-26'
+entry_into_force:
+  date: '2024-03-26'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: durante o período de financiamento associado ao Programa "Impulso Adultos", financiado pelo Plano de Recuperação
+    e Resiliência (PRR)
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 461 - 483
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/230000000/0046100483.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos cinco dias a contar da data da sua publicação no Diário da República
+  method: clausula
+  article: art-88
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

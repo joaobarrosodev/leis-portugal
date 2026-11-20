@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 217 - 227
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/166000000/0021700227.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-27'
+entry_into_force:
+  date: '2020-08-27'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se a partir do ano letivo de 2020/21
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

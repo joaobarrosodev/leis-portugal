@@ -24,6 +24,15 @@ publication:
   pages: 351 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/170000000/0035100359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos 5 (cinco) dias úteis imediatamente subsequentes à sua aprovação, pela Assembleia Municipal
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

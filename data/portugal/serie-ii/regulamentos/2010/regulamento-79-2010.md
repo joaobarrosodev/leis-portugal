@@ -23,6 +23,15 @@ publication:
   pages: 5652 - 5653
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/025000000/0565205653.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

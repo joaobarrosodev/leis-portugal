@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2003/02/042030000/0000500011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-03-06'
+entry_into_force:
+  date: '2003-03-06'
+  rule: 15 dias após a sua publicação no Diário da República, depois de cumpridas todas as formalidades legais
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

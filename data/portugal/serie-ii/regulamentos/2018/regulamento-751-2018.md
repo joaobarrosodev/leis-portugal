@@ -23,6 +23,15 @@ publication:
   pages: 29620 - 29622
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/212000000/2962029622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua homologação e vigora por tempo indeterminado
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

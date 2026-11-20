@@ -28,10 +28,19 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-02-17'
+version_history:
+  file: decreto-regulamentar-regional-6-2012-a.versoes.json
+  count: 1
+  source_lastmod: '2026-11-19'
+  versions:
+  - date: '2012-02-17'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/6/2012/02/17/a/dre/pt/html
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2012-543013
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2012/02/17/a/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2012-543013
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:31:04Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2012-962849773
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2012-962849773
+  retrieved_at: '2026-11-20T13:54:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: a6c9b0cc9c0e232085a4bbeba59bf252233f0d6086e05b6a33e4b070fee54c76
+  source_sha256: 901c31d968560017c3ee1180ec8acca46b9bcc970b77f13d7932810e4f725a22
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:31:04Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:54:07Z'
+  notes: 1 versão(ões); histórico completo em decreto-regulamentar-regional-6-2012-a.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,13 +159,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:31:04Z'
+  checked_at: '2026-11-20T13:54:07Z'
   warnings: []
   errors: []
 ---
@@ -164,11 +174,11 @@ validation:
 
 Execução do orçamento da Região Autónoma dos Açores para 2012
 
-Em execução do disposto no artigo 39.º do [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
+Em execução do disposto no artigo 39.º do Decreto Legislativo Regional n.º 3/2012/A, de 13 de janeiro, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
 
 ###### Artigo 1.º — Execução do Orçamento
 
-O presente diploma contém as disposições necessárias à execução do Orçamento da Região Autónoma dos Açores para 2012 e à aplicação, no mesmo ano, ao abrigo do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, com as adaptações constantes do [Decreto Legislativo Regional n.º 7/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1997-347308), de 24 de maio, do novo regime da administração financeira da Região.
+O presente diploma contém as disposições necessárias à execução do Orçamento da Região Autónoma dos Açores para 2012 e à aplicação, no mesmo ano, ao abrigo do Decreto-Lei n.º 155/92, de 28 de julho, com as adaptações constantes do Decreto Legislativo Regional n.º 7/97/A, de 24 de maio, do novo regime da administração financeira da Região.
 
 ###### Artigo 2.º — Âmbito de aplicação
 
@@ -176,9 +186,9 @@ Todos os serviços e organismos da administração regional autónoma ficam suje
 
 ###### Artigo 3.º — Aplicação do novo regime de administração financeira da Região
 
-1 - A transição para o novo regime de autonomia administrativa dos serviços e organismos da administração pública regional, far-se-á nos termos do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, e será efetuada, no ano 2012, caso a caso, mediante despacho conjunto do secretário regional da tutela e do vice-presidente do Governo Regional, sob proposta do diretor regional do Orçamento e Tesouro.
+1 - A transição para o novo regime de autonomia administrativa dos serviços e organismos da administração pública regional, far-se-á nos termos do Decreto-Lei n.º 155/92, de 28 de julho, e será efetuada, no ano 2012, caso a caso, mediante despacho conjunto do secretário regional da tutela e do vice-presidente do Governo Regional, sob proposta do diretor regional do Orçamento e Tesouro.
 
-2 - Considera-se atribuída à Direção Regional do Orçamento e Tesouro e aos serviços e organismos a que se refere o número anterior a competência necessária à aplicação do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, com as adaptações constantes do [Decreto Legislativo Regional n.º 7/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1997-347308), de 24 de maio.
+2 - Considera-se atribuída à Direção Regional do Orçamento e Tesouro e aos serviços e organismos a que se refere o número anterior a competência necessária à aplicação do Decreto-Lei n.º 155/92, de 28 de julho, com as adaptações constantes do Decreto Legislativo Regional n.º 7/97/A, de 24 de maio.
 
 3 - Os serviços e organismos que transitem para o novo regime financeiro deverão contabilizar todos os movimentos efetuados durante o ano de 2012, de acordo com as normas dos diplomas referidos no número anterior.
 
@@ -258,11 +268,11 @@ c) Os serviços dotados de autonomia administrativa ou de autonomia administrati
 
 ###### Artigo 10.º — Isenção de reposição de saldos de gerência
 
-O disposto no n.º 9 do artigo 4.º do [Decreto Regulamentar Regional n.º 1/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1984-660174), de 16 de janeiro, não se aplica às verbas consignadas no Orçamento da Região Autónoma dos Açores a serviços sociais, a todos os serviços com autonomia administrativa e autonomia administrativa e financeira compreendidos no âmbito do Serviço Regional de Saúde e, bem assim, a outros casos que mereçam a concordância do vice-presidente do Governo Regional.
+O disposto no n.º 9 do artigo 4.º do Decreto Regulamentar Regional n.º 1/84/A, de 16 de janeiro, não se aplica às verbas consignadas no Orçamento da Região Autónoma dos Açores a serviços sociais, a todos os serviços com autonomia administrativa e autonomia administrativa e financeira compreendidos no âmbito do Serviço Regional de Saúde e, bem assim, a outros casos que mereçam a concordância do vice-presidente do Governo Regional.
 
 ###### Artigo 11.º — Despesas de anos económicos anteriores
 
-Os serviços que não tenham ainda transitado para o regime previsto no artigo 3.º devem observar o que sobre esta matéria dispõe o [Decreto-Lei n.º 265/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1978-299226), de 30 de agosto, mantido em vigor por força do n.º 5 do artigo 2.º do [Decreto-Lei n.º 161/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1999-321930), de 12 de maio, com as devidas adaptações.
+Os serviços que não tenham ainda transitado para o regime previsto no artigo 3.º devem observar o que sobre esta matéria dispõe o Decreto-Lei n.º 265/78, de 30 de agosto, mantido em vigor por força do n.º 5 do artigo 2.º do Decreto-Lei n.º 161/99, de 12 de maio, com as devidas adaptações.
 
 ###### Artigo 12.º — Subsídios e adiantamentos
 
@@ -292,7 +302,7 @@ A atribuição de subsídios reembolsáveis a quaisquer entidades e a concessão
 
 ###### Artigo 16.º — Delegação de competências
 
-1 - As competências das entidades referidas no artigo 20.º do [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços podem ser delegadas, ao abrigo do n.º 2 desse mesmo artigo, nos seguintes termos:
+1 - As competências das entidades referidas no artigo 20.º do Decreto Legislativo Regional n.º 3/2012/A, de 13 de janeiro, para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços podem ser delegadas, ao abrigo do n.º 2 desse mesmo artigo, nos seguintes termos:
 
 a) As do Conselho do Governo Regional, em qualquer dos membros do Governo Regional;
 
@@ -342,7 +352,7 @@ a) Nos 15 dias subsequentes ao final de cada trimestre, toda a informação rela
 
 b) Nos 15 dias subsequentes ao final de cada semestre, toda a informação relativa à execução material respeitante ao respetivo período.
 
-7 - A inobservância dos prazos referidos nos números anteriores, para além da eventual efetivação da responsabilidade que resultar da apreciação e julgamento de contas pela Secção Regional dos Açores do Tribunal de Contas e do apuramento da responsabilidade disciplinar a que legalmente possa haver lugar, implica, nos termos previstos no artigo 19.º do [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, a retenção de todas as transferências orçamentais, com exceção das destinadas a suportar despesas com pessoal.
+7 - A inobservância dos prazos referidos nos números anteriores, para além da eventual efetivação da responsabilidade que resultar da apreciação e julgamento de contas pela Secção Regional dos Açores do Tribunal de Contas e do apuramento da responsabilidade disciplinar a que legalmente possa haver lugar, implica, nos termos previstos no artigo 19.º do Decreto Legislativo Regional n.º 3/2012/A, de 13 de janeiro, a retenção de todas as transferências orçamentais, com exceção das destinadas a suportar despesas com pessoal.
 
 ###### Artigo 19.º — Confirmação da situação tributária e contributiva no âmbito dos pagamentos a efetuar pelos serviços da Administração Pública e outras entidades
 
@@ -352,7 +362,7 @@ b) Nos 15 dias subsequentes ao final de cada semestre, toda a informação relat
 
 3 - As entidades referidas no n.º 1, quando verifiquem que o respetivo credor não tem a situação tributária ou contributiva regularizada, devem reter o montante em dívida com o limite máximo de retenção de 25 % do valor total do pagamento a efetuar e proceder ao seu depósito à ordem do órgão da execução fiscal.
 
-4 - O disposto neste artigo não prejudica, na parte nele não regulada, a aplicação do regime previsto no artigo 198.º da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro.
+4 - O disposto neste artigo não prejudica, na parte nele não regulada, a aplicação do regime previsto no artigo 198.º da Lei n.º 110/2009, de 16 de setembro.
 
 5 - Sempre que da aplicação do presente artigo resulte a retenção de verbas para o pagamento, cumulativo, de dívidas fiscais e dívidas contributivas, aquelas devem ser repartidas pelas entidades credoras na proporção dos respetivos créditos, nunca podendo a retenção total exceder o limite de 25 % do valor do pagamento a efetuar.
 

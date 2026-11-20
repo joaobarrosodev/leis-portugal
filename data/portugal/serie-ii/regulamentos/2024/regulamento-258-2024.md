@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 126 - 137
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/047000000/0012600137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-07'
+entry_into_force:
+  date: '2024-03-07'
+  rule: no dia seguinte ao da sua publicação, aplicando-se a todas as declarações únicas apresentadas na Plataforma Eletrónica
+    da Entidade para a Transparência após a sua entrada em funcionamento
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

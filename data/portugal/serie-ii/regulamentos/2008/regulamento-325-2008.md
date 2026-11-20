@@ -23,6 +23,15 @@ publication:
   pages: 27232 - 27235
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/119000000/2723227235.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a afixação dos respectivos editais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

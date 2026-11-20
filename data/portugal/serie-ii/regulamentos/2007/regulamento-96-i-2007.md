@@ -23,6 +23,15 @@ publication:
   pages: 14490-(159) a 14490-(161)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/103000002/0015900161.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Junta de Freguesia e Assembleia de Freguesia e publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

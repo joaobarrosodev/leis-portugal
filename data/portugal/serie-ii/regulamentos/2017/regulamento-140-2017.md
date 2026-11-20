@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/03/059000000/0534105344.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:128951704:por#texto'
+    detail: 1 - Este regulamento aplica-se a partir do ano letivo 2019/2020, substituindo e revogando o [Regulamento n.º 140/2017]
+      publicado no n.º 59 do Diário da República, 2.ª série, de 23 de março.
 notes: []
 language: por
 version:

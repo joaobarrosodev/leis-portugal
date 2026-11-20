@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 16585 - 16588
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/121000000/1658516588.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-27'
+entry_into_force:
+  date: '2014-06-27'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo aplicável ao concurso para o ano letivo de 2014-2015
+    e seguintes, podendo ser revisto anualmente
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

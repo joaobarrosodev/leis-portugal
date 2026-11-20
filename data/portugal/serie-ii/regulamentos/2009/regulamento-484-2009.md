@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49361 - 49362
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/235000000/4936149362.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-04'
+entry_into_force:
+  date: '2009-12-04'
+  rule: após a sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

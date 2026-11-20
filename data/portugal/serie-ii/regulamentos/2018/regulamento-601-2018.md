@@ -23,6 +23,15 @@ publication:
   pages: 25495 - 25496
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/178000000/2549525496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua ratificação pela Assembleia Geral da Filarmónica de Santa Comba Dão
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

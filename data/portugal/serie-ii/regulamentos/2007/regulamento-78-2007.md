@@ -23,6 +23,15 @@ publication:
   pages: 12153 - 12157
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/089000000/1215312157.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo senado e sucessiva publicação no Diário da República
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

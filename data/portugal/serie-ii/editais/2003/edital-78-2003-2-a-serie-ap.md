@@ -23,6 +23,16 @@ publication:
   pages: 24 - 27
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/022013000/0002400027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias seguidos após a sua publicação na forma definitiva no Diário da República, ou, em sua substituição, de aviso
+    rectificativo publicitando as alterações ocorridas no projecto de diploma
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

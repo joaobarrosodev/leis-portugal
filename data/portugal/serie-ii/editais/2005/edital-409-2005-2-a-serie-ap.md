@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 58 - 69
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/135097000/0005800069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-08-14'
+entry_into_force:
+  date: '2005-08-14'
+  rule: 30 dias após a sua publicação em edital
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

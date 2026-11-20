@@ -23,6 +23,16 @@ publication:
   pages: 26918 - 26925
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/206000000/2691826925.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinze dias após a sua afixação, nos lugares públicos do costume, dos Editais que publiquem a sua aprovação pela Assembleia
+    Municipal, mediante proposta da Câmara Municipal
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

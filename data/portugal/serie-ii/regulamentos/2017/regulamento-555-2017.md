@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 23633 - 23636
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/200000000/2363323636.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-18'
+entry_into_force:
+  date: '2017-10-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:910933282:por#art-16'
+    detail: É revogado o [Regulamento n.º 555/2017], de 17 de outubro.
 notes: []
 language: por
 version:

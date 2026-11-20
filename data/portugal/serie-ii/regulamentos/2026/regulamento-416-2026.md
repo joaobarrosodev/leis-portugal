@@ -23,6 +23,15 @@ publication:
   pages: 520 - 526
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/078000000/0052000526.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após sua aprovação na Assembleia de Freguesia e posterior publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

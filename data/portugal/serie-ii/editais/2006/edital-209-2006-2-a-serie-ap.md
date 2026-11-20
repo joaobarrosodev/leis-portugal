@@ -23,6 +23,16 @@ publication:
   pages: 64 - 67
   pdf_url: https://files.diariodarepublica.pt/2s/2006/04/082040000/0006400067.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no prazo de 15 dias úteis após a data da sua publicação no Diário da República, aplicando-se a todas as situações
+    em análise pelo Gabinete de Habitação da Divisão de Acção Social e ou às candidaturas '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

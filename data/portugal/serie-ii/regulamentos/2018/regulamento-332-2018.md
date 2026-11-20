@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15455 - 15460
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/103000000/1545515460.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-03'
+entry_into_force:
+  date: '2018-06-03'
+  rule: 5 dias após publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

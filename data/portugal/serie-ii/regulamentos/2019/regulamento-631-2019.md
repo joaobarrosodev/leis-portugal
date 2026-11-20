@@ -23,6 +23,15 @@ publication:
   pages: 253 - 257
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/152000000/0025300257.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

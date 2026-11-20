@@ -23,6 +23,16 @@ publication:
   pages: 49434 - 49462
   pdf_url: https://files.diariodarepublica.pt/2s/2008/12/237000000/4943449462.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nas zonas urbanas das vilas de Baião e de Santa Marinha do Zêzere, 30 dias após a sua publicação no Diário da República
+    e sessenta dias nas restantes localidades do Concelho
+  method: clausula
+  article: art-209
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

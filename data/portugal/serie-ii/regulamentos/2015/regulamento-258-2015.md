@@ -23,6 +23,15 @@ publication:
   pages: 12603 - 12609
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/095000000/1260312609.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação em edital nos lugares de estilo
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

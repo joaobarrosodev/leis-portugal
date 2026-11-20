@@ -23,6 +23,15 @@ publication:
   pages: 26169 - 26172
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/142000000/2616926172.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia um de setembro de dois mil e doze, aplicando-se a todos os alunos dos cursos de mestrado integrado
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

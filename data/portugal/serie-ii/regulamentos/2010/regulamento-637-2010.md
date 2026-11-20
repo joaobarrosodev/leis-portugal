@@ -23,6 +23,15 @@ publication:
   pages: 40284 - 40288
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/144000000/4028440288.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua aprovação nos termos legais
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

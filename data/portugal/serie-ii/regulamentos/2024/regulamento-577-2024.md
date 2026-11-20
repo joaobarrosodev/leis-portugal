@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 454 - 460
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/099000000/0045400460.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-05-23'
+entry_into_force:
+  date: '2024-05-23'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

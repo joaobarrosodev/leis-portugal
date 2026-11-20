@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49 - 54
   pdf_url: https://files.diariodarepublica.pt/2s/2002/04/100052000/0004900054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-15'
+entry_into_force:
+  date: '2002-05-15'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 38 - 40
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/090000000/0003800040.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

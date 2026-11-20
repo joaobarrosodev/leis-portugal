@@ -23,6 +23,15 @@ publication:
   pages: 91 - 99
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/083043000/0009100099.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após da data da sua aprovação e publicação por edital, independentemente da sua publicação no Diário da República
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

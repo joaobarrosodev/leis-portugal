@@ -23,6 +23,15 @@ publication:
   pages: 39274 - 39277
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/238000000/3927439277.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente, devendo ser publicitado nos termos legais e generalizadamente divulgado junto da Comunidade Universitária
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

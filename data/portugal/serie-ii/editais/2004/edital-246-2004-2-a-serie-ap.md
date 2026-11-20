@@ -23,6 +23,15 @@ publication:
   pages: 66 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/096049000/0006600077.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a sua publicação, por meio de editais, nos locais do costume
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27890 - 27902
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/173000000/2789027902.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-23'
+entry_into_force:
+  date: '2016-09-23'
+  rule: 15 dias após a sua publicação no Diário da República, aplicando-se na faturação seguinte
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 13252 - 13254
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/081000000/1325213254.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no seguimento da sua aprovação em reunião de Conselho de Direção, realizada no dia 2 de maio de 2014
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

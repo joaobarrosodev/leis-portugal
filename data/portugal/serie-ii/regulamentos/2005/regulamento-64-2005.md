@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/169000000/1288912890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:114765755:por#texto'
+    detail: b) O [Regulamento n.º 64/2005], publicado no Diário da República, 2.ª série, n.º 169, de 2 de setembro.
 notes: []
 language: por
 version:

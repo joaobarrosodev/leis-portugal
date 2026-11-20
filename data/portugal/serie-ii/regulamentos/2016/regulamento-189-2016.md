@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 6189 - 6191
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/037000000/0618906191.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-28'
+entry_into_force:
+  date: '2016-02-28'
+  rule: 5 dias após a sua publicação nos termos da Lei
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6665 - 6679
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/070000000/0666506679.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-08'
+entry_into_force:
+  date: '2017-04-08'
+  rule: no dia seguinte ao da publicação no Diário da República da respetiva aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

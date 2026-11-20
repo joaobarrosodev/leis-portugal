@@ -38,10 +38,21 @@ legal_status: not_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-05'
+version_history:
+  file: decreto-lei-222-96.versoes.json
+  count: 1
+  source_lastmod: '2026-11-19'
+  versions:
+  - date: '1999-04-05'
+    amending: pt:dre:138781:por
+    amending_title: Decreto-Lei n.º 107/99
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre/pt/html
@@ -54,20 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846
   metadata_url: https://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846
-  consolidated_url: null
-  retrieved_at: '2026-10-23T01:45:58Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1024687766
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1024687766
+  retrieved_at: '2026-11-20T13:54:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: 514304fd2a26fa79acc9fde280d215e2b075b32a972e3994db7440c480983c56
+  source_sha256: f0f59bd6bf457d31f43ea07cc20ce0c8c11b504960a70d0ea81c9b0d319e06f5
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T01:45:58Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:54:16Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-222-96.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,21 +199,19 @@ relationships:
   date: '2003-08-20'
 article_structure:
   article_count: 53
-  section_count: 13
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T01:45:58Z'
+  checked_at: '2026-11-20T13:54:16Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 222/96
-
-de 25 de Novembro
 
 1 - A Lei Orgânica do XIII Governo Constitucional cria o Ministério da Economia, atribuindo-lhe a concepção e execução de políticas integradas e coerentes de desenvolvimento económico, dirigidas a um vasto conjunto de actividades de produção de bens e serviços, nele integrando o conjunto de serviços dos extintos Ministérios da Indústria e Energia e do Comércio e Turismo.
 
@@ -251,7 +261,7 @@ h) À articulação das actividades do âmbito do Ministério da Economia, sendo
 
 Assim, nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Natureza e atribuições
+### Capítulo I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
 
@@ -283,9 +293,9 @@ j) Desenvolver uma acção concertada e sustentada que consolide a política de 
 
 l) Desenvolver as acções de inspecção das actividades económicas, com vista à defesa da qualidade e segurança dos produtos e serviços e disciplinando a concorrência.
 
-### CAPÍTULO II — Estrutura
+### Capítulo II — Estrutura
 
-#### SECÇÃO I — Da estrutura geral
+#### Secção I — Da estrutura geral
 
 ###### Artigo 3.º — Organismos e serviços
 
@@ -381,7 +391,7 @@ h) A Organização para a Emergência Energética.
 
 Junto do Ministério da Economia existe um magistrado do Ministério Público, a designar nos termos da Lei Orgânica do Ministério Público, com a categoria de auditor jurídico, a quem cabe prestar apoio, quando solicitado, aos membros do Governo nos domínios da consultadoria jurídica, elaboração de legislação, contencioso e instrução de processos disciplinares ou similares.
 
-#### SECÇÃO II — Dos serviços de coordenação e apoio
+#### Secção II — Dos serviços de coordenação e apoio
 
 ###### Artigo 11.º — Secretaria-Geral
 
@@ -413,7 +423,7 @@ i) Assegurar o apoio técnico e administrativo necessário ao auditor jurídico.
 
 5 - O secretário-geral, no exercício das suas funções, é coadjuvado por dois secretários-gerais-adjuntos, equiparados a subdirector-geral.
 
-#### SECÇÃO III — Dos serviços operacionais
+#### Secção III — Dos serviços operacionais
 
 ###### Artigo 12.º — Direcção-Geral da Indústria
 
@@ -485,39 +495,51 @@ e) Apoiar o Governo nas negociações e decisões, nas instâncias internacionai
 
 1 - É criada a Direcção-Geral das Relações Económicas Internacionais.
 
-2 - A Direcção-Geral das Relações Económicas Internacionais é um serviço, dotado de autonomia administrativa, responsável pelo estudo, concepção, execução e avaliação da política de competitividade e internacionalização, competindo-lhe:
+2 - A Direcção-Geral das Relações Económicas Internacionais é um serviço dotado de autonomia administrativa, responsável no domínio das relações económicas internacionais pela formulação de políticas e pela dinamização de acções numa lógica integrada, bem como pela coordenação e apoio técnico do Ministério da Economia em matérias relacionadas com a União Europeia e outras organizações internacionais de carácter económico, competindo-lhe:
 
 a) Contribuir para a definição e execução das políticas que enquadram o relacionamento económico externo, em articulação com o Ministério dos Negócios Estrangeiros, apoiando o Governo no acompanhamento da actividade das organizações internacionais de carácter económico, designadamente as respeitantes à Organização Mundial do Comércio, e na formulação e execução da política comercial da União Europeia;
 
-b) Contribuir para a internacionalização das empresas industriais, comerciais e de serviços, numa perspectiva de inserção nos movimentos de globalização dos mercados, articulando a respectiva projecção externa com os movimentos de investimento directo estrangeiro;
+b) Contribuir para a internacionalização das empresas industriais, comerciais e de serviços, mediante a criação de uma envolvente favorável à inovação e ao desenvolvimento tecnológico daquelas empresas, articulando a sua projecção externa com os movimentos de investimento directo estrangeiro;
 
 c) Colaborar com outras entidades oficiais nas negociações de acordos de cooperação económica e apoiar o desenvolvimento da cooperação económica externa, bilateral e multilateral;
 
-d) Contribuir para a promoção de factores estratégicos da construção de vantagens competitivas e para a criação de uma envolvente favorável à inovação e ao desenvolvimento tecnológico das empresas;
+d) Assegurar o licenciamento do comércio externo de produtos agrícolas e de produtos industriais e estratégicos e gerir os regimes restritivos do comércio externo desses produtos;
 
-e) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia.
+e) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia;
+
+f) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito da União Europeia nas áreas da indústria, energia, comércio e turismo, promovendo as necessárias adaptações estruturais, institucionais e legais;
+
+g) Coordenar a representação do Ministério da Economia nas organizações internacionais de carácter económico no domínio das suas atribuições, nomeadamente através da participação nos comités e grupos de trabalho da Organização para a Cooperação e Desenvolvimento Económico (OCDE).
 
 3 - A Direcção-Geral é dirigida por um director-geral, coadjuvado, no exercício das suas funções, por três subdirectores-gerais.
+
+> Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05.
 
 ###### Artigo 17.º — Gabinete de Estudos e Prospectiva Económica
 
 1 - É criado o Gabinete de Estudos e Prospectiva Económica do Ministério da Economia.
 
-2 - O Gabinete de Estudos e Prospectiva Económica é um serviço de estudo e análise nos domínios da formulação, monitoragem e avaliação das políticas desenvolvidas pelo Ministério da Economia, bem como de coordenação e apoio técnico em matérias relacionadas com a União Europeia e outras instituições internacionais, competindo-lhe:
+2 - O Gabinete de Estudos e Prospectiva Económica é um serviço vocacionado para o estudo das questões económicas, designadamente numa óptica de análise prospectiva, desenvolvendo para o efeito formas alargadas de parceria e de cooperação, com o fim de apoiar a formulação, acompanhamento e avaliação das políticas relevantes do Ministério e de proporcionar informação estratégica aos agentes económicos, competindo-lhe:
 
-a) Realizar estudos que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério da Economia e, em especial, para a regular avaliação, numa perspectiva integrada, das medidas e programas de política adoptados, desenvolvendo, sempre que julgado adequado, formas alargadas de cooperação com centros de investigação e gabinetes de estudos, em especial no que respeita às universidades e associações de natureza económica;
+a) Promover, coordenar e realizar estudos numa óptica prospectiva integrada e global, que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério e proporcionar informação qualificada de natureza envolvente e estratégica aos agentes económicos;
 
-b) Acompanhar a evolução da actividade económica, tendo em conta o âmbito de actuação do Ministério da Economia, assegurando a recolha, utilização, tratamento e análise de informação estatística e promovendo a difusão dos respectivos resultados, visando a formação de expectativas pelos agentes económicos;
+b) Analisar a evolução da actividade económica e assegurar a coordenação, tratamento e análise da informação estatística, visando a formação de expectativas pelos agentes económicos;
 
-c) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito do processo de decisão nas diferentes instituições comunitárias, bem como no âmbito das actividades decorrentes da integração na União Europeia, promovendo, nomeadamente, as necessárias adaptações estruturais, institucionais e legais, acompanhando as negociações de acordos internacionais que, nesse âmbito, envolvam a União Europeia;
+c) Coordenar e gerir a informação relativa aos estudos promovidos no âmbito do Ministério e emitir parecer sobre a realização de novos estudos, com vista a racionalizar o seu potencial e a melhor garantir a utilização dos seus resultados;
 
-d) Acompanhar o desenvolvimento das relações internacionais, nomeadamente através da participação nos comités e grupos de trabalho da OCDE nas áreas de actuação do Ministério da Economia.
+d) Promover e desenvolver acções que contribuam para a articulação entre as políticas sectoriais e horizontais do Ministério e entre estas e outras políticas relevantes do Governo, com impacte na competitividade e internacionalização da economia portuguesa;
+
+e) Fomentar, na base de parcerias e de cooperação, actividades de reflexão com universidades, centros de investigação e outros agentes económicos, nacionais e estrangeiros, visando uma envolvente económica favorável a estratégias empresariais abertas aos novos factores de competitividade e à internacionalização da economia portuguesa;
+
+f) Participar na elaboração das Grandes Opções do Plano e de planos nacionais de desenvolvimento sócio-económicos e na formulação das medidas de política que integram o Orçamento do Estado.
 
 3 - O Gabinete de Estudos e Prospectiva Económica é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.
 
 4 - O director é coadjuvado, no exercício das suas funções, por três subdirectores, equiparados, para todos os efeitos legais, a subdirector-geral.
 
-#### SECÇÃO IV — Dos serviços de inspecção
+> Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05.
+
+#### Secção IV — Dos serviços de inspecção
 
 ###### Artigo 18.º — Inspecção-Geral das Actividades Económicas
 
@@ -543,7 +565,7 @@ c) Contribuir para a elaboração de regulamentação em matéria de jogos de fo
 
 d) Apoiar tecnicamente e colaborar com as autoridades e agentes policiais na prevenção e punição de práticas ilícitas em matéria de jogos de fortuna e azar.
 
-#### SECÇÃO V — Dos órgãos de consulta
+#### Secção V — Dos órgãos de consulta
 
 ###### Artigo 20.º — Conselho para o Desenvolvimento Económico
 
@@ -573,7 +595,7 @@ c) Promover estudos e dar pareceres sobre as políticas do Ministério da Econom
 
 d) Acompanhar a evolução do sector de actividade correspondente, propondo iniciativas com vista à modernização e desenvolvimento das empresas.
 
-#### SECÇÃO VI — Dos serviços regionais
+#### Secção VI — Dos serviços regionais
 
 ###### Artigo 22.º — Serviços regionais do Ministério da Economia
 
@@ -593,9 +615,11 @@ c) O estabelecimento de relações interactivas de acompanhamento e informação
 
 5 - Na organização das delegações regionais ter-se-ão em conta as necessidades de cada área geográfica, devendo respeitar-se, sempre que aquelas necessidades o justifiquem, a diferenciação dos sectores abrangidos na sua actuação desconcentrada
 
-6 - As delegações regionais serão dirigidas por directores de delegação, equiparados, para todos os efeitos legais, a subdirector-geral.
+6 - (Revogado).
 
-#### SECÇÃO VII — Dos organismos sob tutela
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 78/99 - Diário da República n.º 63/1999, Série I-A de 1999-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1999-144995), em vigor a partir de 1996-11-26.
+
+#### Secção VII — Dos organismos sob tutela
 
 ###### Artigo 23.º — Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento
 
@@ -749,7 +773,7 @@ e) Propor legislação e colaborar na elaboração de regulamentação técnica 
 
 As regiões de turismo são pessoas colectivas de direito público dotadas de autonomia administrativa e financeira e de património próprio, competindo-lhes a valorização turística das respectivas áreas de intervenção no quadro da política de turismo.
 
-#### SECÇÃO VIII — Outras entidades no âmbito do Ministério da Economia
+#### Secção VIII — Outras entidades no âmbito do Ministério da Economia
 
 ###### Artigo 33.º — Conselho da Concorrência
 
@@ -799,7 +823,7 @@ a) Em situação normal, assegurar a coordenação do planeamento e preparação
 
 b) Em situação de crise, assegurar a execução dos procedimentos e medidas adoptados.
 
-### CAPÍTULO III — Funcionamento
+### Capítulo III — Funcionamento
 
 ###### Artigo 41.º — Planeamento e articulação de actividades
 
@@ -821,7 +845,7 @@ b) Em situação de crise, assegurar a execução dos procedimentos e medidas ad
 
 Os serviços e organismos do Ministério da Economia podem ser autorizados, mediante despacho do Ministro, a participar em associações ou outras entidades nacionais ou internacionais, neste caso em articulação com o Ministério dos Negócios Estrangeiros, cujo objectivo tenha interesse relevante para a prossecução das suas atribuições.
 
-### CAPÍTULO IV — Pessoal
+### Capítulo IV — Pessoal
 
 ###### Artigo 44.º — Quadros e regime de pessoal
 
@@ -847,7 +871,7 @@ b) Com a observância das habilitações legais, para a carreira e categoria que
 
 ###### Artigo 46.º — Situações especiais
 
-1 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos de que era titular à data do início da respectiva licença, sendo-lhe aplicado o regime correspondente previsto no [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro.
+1 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos de que era titular à data do início da respectiva licença, sendo-lhe aplicado o regime correspondente previsto no Decreto-Lei n.º 497/88, de 30 de Dezembro.
 
 2 - O pessoal que se encontre em regime de destacamento, requisição, interinidade, comissão de serviço ou outras situações precárias previstas na lei manter-se-á em idêntico regime, nos termos do que vier a ser determinado nos diplomas previstos no artigo 49.º
 
@@ -867,7 +891,7 @@ Até à efectivação das devidas alterações orçamentais, são utilizadas pel
 
 3 - As comissões de serviço dos restantes dirigentes dos organismos extintos cessam com a publicação do presente diploma, mantendo-se os mesmos no exercício de funções de gestão corrente até à publicação dos diplomas referidos no n.º 4 do artigo 49.º
 
-### CAPÍTULO V — Disposições finais e transitórias
+### Capítulo V — Disposições finais e transitórias
 
 ###### Artigo 49.º — Regulamentação
 
@@ -893,7 +917,7 @@ As referências legais feitas aos ex-Ministérios da Indústria e Energia e do C
 
 ###### Artigo 53.º — Norma revogatória
 
-É revogado o [Decreto-Lei n.º 206/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1989-620758), de 27 de Junho, bem como as demais disposições legais e regulamentares que contrariem o disposto no presente diploma.
+É revogado o Decreto-Lei n.º 206/89, de 27 de Junho, bem como as demais disposições legais e regulamentares que contrariem o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
@@ -907,6 +931,6 @@ Referendado em 11 de Novembro de 1996.
 
 O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
-## ANEXO I — Mapa a que se refere o n.º 2 do artigo 48.º
+## Anexo I — Mapa a que se refere o n.º 2 do artigo 48.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/273a00/42464258.pdf)
+(ver documento original)

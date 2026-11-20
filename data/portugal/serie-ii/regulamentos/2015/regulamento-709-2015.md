@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29743 - 29745
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/202000000/2974329745.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-30'
+entry_into_force:
+  date: '2015-10-30'
+  rule: no prazo de quinze dias após a sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

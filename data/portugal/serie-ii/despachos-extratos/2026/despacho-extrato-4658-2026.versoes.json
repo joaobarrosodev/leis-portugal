@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1083043883:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2026-1195529875",
+ "dre_path": "/dr/detalhe/despacho-extrato/4658-2026-1083043883",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2026-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195530775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195530775": {
+   "fragment_id": "1195529975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto no n.º 1.º do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que por despacho do Chefe do Estado-Maior Conjunto, Rui José dos Santos Pedroso Pinheiro de Freitas, Tenente-general, foi homologado o processo de período experimental dos trabalhadores abaixo identificados, na sequência da celebração do contrato de trabalho em funções públicas por tempo indeterminado, com este Estado-Maior-General das Forças Armadas, decorrente de procedimento concursal aberto através do Aviso (extrato) n.º 21308/2025/2, publicitado no Diário da República, 2.ª série, n.º 164, de 27 de agosto de 2025, para o desempenho de funções na carreira/categoria de Assistente Técnico.\n\nNos termos do n.º 4 e 5 do artigo 46.º da Lei Geral do Trabalho em Funções Públicas:\n\nPeríodo Experimental concluído com sucesso\n\n| Nome | Produção de efeitos do CTFP | PR | NR | PR/NR-Valor € | Despacho de homologação do CEMC |\n| --- | --- | --- | --- | --- | --- |\n| Sílvia Maria Godinho Lopes | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Helena Paciência | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Maria Suzete Pedro | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Cláudia Garcia | 01.11.2025 | 1.ª | 7 | 1 126,77 | 27.10.2025 |\n| Sandra Lourenço Pinho | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Kelly Velloso M. de Almeida | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Rute Correia Dias | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Ana Isabel Rodrigues | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Maria de Fátima Cândido | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n| Nanete Pereira | 01.11.2025 | 1.ª | 7 | 979,05 | 27.10.2025 |\n\nCessação Antecipada do Período Experimental\n\n| Nome | Produção de efeitos do CTFP | PR | NR | PR/NR-Valor € | Despacho de homologação do CEMC |\n| --- | --- | --- | --- | --- | --- |\n| Inês Bastos Teixeira | 01.11.2025 | Cessação Antecipada do Período Experimental. | 27.10.2025 |  |  |"
+  }
+ }
+}

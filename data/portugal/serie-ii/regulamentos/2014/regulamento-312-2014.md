@@ -23,6 +23,15 @@ publication:
   pages: 18404 - 18410
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/135000000/1840418410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

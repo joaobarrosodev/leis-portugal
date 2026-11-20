@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 260 - 271
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/128000000/0026000271.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-05'
+entry_into_force:
+  date: '2023-07-05'
+  rule: no dia a seguir à data da sua publicação no sítio da Internet da Atlântica e revoga integralmente o Regulamento Complementar
+    sobre o Acesso à Categoria de Professor Associado, de 25 de novembro de 201
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

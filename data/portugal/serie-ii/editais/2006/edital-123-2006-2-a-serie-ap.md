@@ -23,6 +23,16 @@ publication:
   pages: 17 - 26
   pdf_url: https://files.diariodarepublica.pt/2s/2006/03/051024000/0001700026.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia, devendo ser publicado em edital e em boletim informativo, quando
+    exista
+  method: clausula
+  article: art-64
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

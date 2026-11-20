@@ -23,6 +23,15 @@ publication:
   pages: 9621 - 9622
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/076000000/0962109622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente subsequente à sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

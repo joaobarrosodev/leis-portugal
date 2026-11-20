@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3817 - 3820
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/021000000/0381703820.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-06'
+entry_into_force:
+  date: '2016-02-06'
+  rule: no quinto dia após a sua publicação nos termos dos artigos 139.º e 140.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

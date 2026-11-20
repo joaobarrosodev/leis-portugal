@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35 - 39
   pdf_url: https://files.diariodarepublica.pt/2s/2004/07/175097000/0003500039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-08-11'
+entry_into_force:
+  date: '2004-08-11'
+  rule: 15 dias após a sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

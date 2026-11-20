@@ -25,6 +25,15 @@ publication:
   pages: 254 - 256
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/236000000/0025400256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo Juiz Presidente da Zona Geográfica de Lisboa e Ilhas
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 272 - 275
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/066000000/0027200275.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-07'
+entry_into_force:
+  date: '2021-04-07'
+  rule: 'no dia seguinte ao da sua publicação no Diário da República, nos termos do disposto no artigo 140.º do CPA, e manter-se-á
+    em vigor até 31 de dezembro de 2025, sem prejuízo dos seus efeitos perdurarem '
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

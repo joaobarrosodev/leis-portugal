@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10668 - 10680
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/055000000/1066810680.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-03'
+entry_into_force:
+  date: '2009-04-03'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 51204 - 51207
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/201000000/5120451207.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-11-14'
+entry_into_force:
+  date: '2010-11-14'
+  rule: no prazo de 30 dias após a sua publicação em Edital
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

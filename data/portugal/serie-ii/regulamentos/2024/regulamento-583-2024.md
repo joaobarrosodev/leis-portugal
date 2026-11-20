@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 679 - 690
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/099000000/0067900690.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-06'
+entry_into_force:
+  date: '2024-06-06'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

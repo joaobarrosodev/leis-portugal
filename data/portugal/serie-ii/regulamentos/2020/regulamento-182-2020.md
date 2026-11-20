@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 191 - 214
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/044000000/0019100214.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-04'
+entry_into_force:
+  date: '2020-03-04'
+  rule: no dia seguinte ao da sua publicação, aplicando-se aos processos iniciados após a sua entrada em vigor e aos processos
+    que, embora impulsionados em momento anterior, não tenham sido ainda objeto de de
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

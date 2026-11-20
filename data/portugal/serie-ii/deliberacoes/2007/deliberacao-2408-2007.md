@@ -24,6 +24,16 @@ publication:
   pages: 36245 - 36248
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/242000000/3624536248.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Senado, devendo ser publicitado nos termos legais e generalizadamente divulgado
+    junto da Comunidade Académica
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

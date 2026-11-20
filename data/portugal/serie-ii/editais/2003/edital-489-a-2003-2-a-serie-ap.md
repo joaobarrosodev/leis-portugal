@@ -23,6 +23,15 @@ publication:
   pages: 110-(2) a 110-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/146096001/0000200004.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua aprovação na Assembleia Municipal
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

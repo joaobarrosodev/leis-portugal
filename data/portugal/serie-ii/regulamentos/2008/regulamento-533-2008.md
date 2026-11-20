@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 41514 - 41517
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/194000000/4151441517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-10-22'
+entry_into_force:
+  date: '2008-10-22'
+  rule: 15 dias após a sua publicação nos termos legalmente exigidos
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

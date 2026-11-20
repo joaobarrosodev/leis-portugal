@@ -23,6 +23,15 @@ publication:
   pages: 366 - 373
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/142000000/0036600373.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação na 2.ª série da Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

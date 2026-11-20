@@ -23,6 +23,15 @@ publication:
   pages: 23575 - 23576
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/144000000/2357523576.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação, nos termos legalmente exigidos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

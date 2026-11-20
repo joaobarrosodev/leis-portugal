@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 590 - 597
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/132000000/0059000597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-14'
+entry_into_force:
+  date: '2021-07-14'
+  rule: no quinto dia após a sua publicação em Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

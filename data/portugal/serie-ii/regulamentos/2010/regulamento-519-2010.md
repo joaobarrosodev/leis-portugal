@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31700 - 31716
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/110000000/3170031716.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-23'
+entry_into_force:
+  date: '2010-06-23'
+  rule: 15 dias após a sua publicação nos termos legais, conforme previsto no n.º 4 do artigo 55.º da Lei das Finanças Locais
+  method: clausula
+  article: art-35
+  effects_date: '2010-05-01'
+  effects_rule: a partir de 1 de Maio de 2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

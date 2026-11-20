@@ -24,8 +24,24 @@ publication:
   pages: 27511 - 27514
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/168000000/2751127514.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o ano letivo 2013/2014
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:173509673:por#art-19'
+    detail: É revogado o [Regulamento n.º 338/2013], de 2 de setembro, que aprova o Regulamento para Creditação da Formação
+      e da Experiência Profissional nos Três Ciclos de Estudos da Faculdade de Ciências Médicas da Universidade Nova de Lisboa.
 notes: []
 language: por
 version:

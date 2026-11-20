@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 173 - 176
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/223000000/0017300176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-18'
+entry_into_force:
+  date: '2026-11-18'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

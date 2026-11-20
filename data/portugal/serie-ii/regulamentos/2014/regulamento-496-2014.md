@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27715 - 27718
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/212000000/2771527718.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-04'
+entry_into_force:
+  date: '2014-11-04'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República, após aprovação pelo Conselho de Gestão
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11922 - 11933
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/111000000/1192211933.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-23'
+entry_into_force:
+  date: '2017-06-23'
+  rule: 15 dias após a publicação no Diário da República
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

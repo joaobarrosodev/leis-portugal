@@ -23,6 +23,16 @@ publication:
   pages: 548 - 552
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/108000000/0054800552.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, sendo também publicado em edital a afixar no edifício
+    da sede da Junta de Freguesia da Coriscada e no site institucional da autarquia, htt
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

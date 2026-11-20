@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 670 - 701
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/097000000/0067000701.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-22'
+entry_into_force:
+  date: '2025-05-22'
+  rule: no dia seguinte ao da sua publicação, em Jornal Oficial
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

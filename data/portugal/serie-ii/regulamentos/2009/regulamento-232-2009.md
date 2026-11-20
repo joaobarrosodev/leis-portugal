@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 22840 - 22843
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/109000000/2284022843.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-06'
+entry_into_force:
+  date: '2009-06-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo aplicável ao concurso para o ano lectivo de 2009-2010
+    e concursos subsequentes
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

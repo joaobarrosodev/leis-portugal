@@ -24,6 +24,15 @@ publication:
   pages: 466 - 473
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/094000000/0046600473.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor da Universidade do Algarve
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

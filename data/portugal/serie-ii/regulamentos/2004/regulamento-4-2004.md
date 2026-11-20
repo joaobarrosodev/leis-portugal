@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 566 - 567
   pdf_url: https://files.diariodarepublica.pt/2s/2004/01/011000000/0056600567.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-01-15'
+entry_into_force:
+  date: '2004-01-15'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se pela primeira vez à informação respeitante
+    ao encerramento do exercício de 2003
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

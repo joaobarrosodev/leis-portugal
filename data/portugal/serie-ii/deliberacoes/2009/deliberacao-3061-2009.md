@@ -24,6 +24,15 @@ publication:
   pages: 45623 - 45626
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/217000000/4562345626.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-24-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

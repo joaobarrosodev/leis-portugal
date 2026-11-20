@@ -23,6 +23,15 @@ publication:
   pages: 58 - 65
   pdf_url: https://files.diariodarepublica.pt/2s/2001/03/062033000/0005800065.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a afixação dos editais que publicitem a sua aprovação
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

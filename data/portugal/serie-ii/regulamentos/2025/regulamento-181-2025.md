@@ -23,6 +23,16 @@ publication:
   pages: 395 - 424
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/022000000/0039500424.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinto dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: a partir da data da sua assinatura e
+  end_date: null
+  end_rule: pelo prazo de ___ anos, renovando-se, automática e sucessivamente, por períodos de ___ ano(s), exceto se alguma
+    das partes se opuser à sua renovação através de comunicação escrita à outra parte com 60
 end_of_validity_date: null
 legal_status: unknown
 notes: []

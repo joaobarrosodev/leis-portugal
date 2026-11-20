@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 208 - 218
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/098000000/0020800218.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-21'
+entry_into_force:
+  date: '2021-05-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: 'até a verba de 3.000.000,00 (euro) alocada para os presentes apoios se esgotar, sendo atribuída de acordo com
+    a ordem sequencial de submissão e apreciação dos pedidos prevista no n.º 3 do artigo 4.º, '
 end_of_validity_date: null
 legal_status: unknown
 notes: []

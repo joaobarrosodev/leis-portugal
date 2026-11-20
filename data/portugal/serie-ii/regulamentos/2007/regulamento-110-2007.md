@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15946 - 15998
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/110000000/1594615998.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-09'
+entry_into_force:
+  date: '2007-06-09'
+  rule: no dia imediato ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

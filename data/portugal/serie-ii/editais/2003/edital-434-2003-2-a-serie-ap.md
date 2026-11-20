@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 72 - 82
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/129083000/0007200082.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-06-19'
+entry_into_force:
+  date: '2003-06-19'
+  rule: 15 dias após a publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-89
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

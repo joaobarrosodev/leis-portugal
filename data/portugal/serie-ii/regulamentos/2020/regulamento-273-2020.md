@@ -23,6 +23,15 @@ publication:
   pages: 335 - 338
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/058000000/0033500338.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato ao da sua publicação no Diário da República e aplica-se a partir do ano letivo de 2019/2020
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

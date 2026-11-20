@@ -23,6 +23,15 @@ publication:
   pages: 17 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/001001000/0001700038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em data a fixar pela Câmara Municipal, mas nunca antes de decorridos 15 dias sobre a sua publicação em edital
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

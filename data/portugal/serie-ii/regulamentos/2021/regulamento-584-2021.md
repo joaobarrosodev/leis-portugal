@@ -23,6 +23,16 @@ publication:
   pages: 230 - 239
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/123000000/0023000239.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal de Câmara de Lobos e no dia seguinte ao da sua publicação nos canais
+    oficiais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

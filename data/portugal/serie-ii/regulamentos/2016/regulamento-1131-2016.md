@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 37882 - 37884
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/250000000/3788237884.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-30'
+entry_into_force:
+  date: '2016-12-30'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

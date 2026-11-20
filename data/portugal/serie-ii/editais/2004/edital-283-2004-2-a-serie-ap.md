@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 15
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/104056000/0001400015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-19'
+entry_into_force:
+  date: '2004-05-19'
+  rule: no prazo de 15 dias a contar da sua publicação no Diário da República, com efeitos reportados a 1 de Agosto de 2003
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

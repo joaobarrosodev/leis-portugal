@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 22117 - 22123
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/121000000/2211722123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-06-26'
+entry_into_force:
+  date: '2012-06-26'
+  rule: no dia seguinte ao da sua publicação, aplicando-se a todos os contratos de bolsa vigentes bem como aos que venham
+    a ser celebrados posteriormente, sem prejuízo do disposto nos números seguintes
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
 notes: []

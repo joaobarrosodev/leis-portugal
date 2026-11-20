@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15686 - 15694
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/114000000/1568615694.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-17'
+entry_into_force:
+  date: '2014-06-17'
+  rule: após a sua publicação no Diário da República, podendo ser revisto após um ano de vigência
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

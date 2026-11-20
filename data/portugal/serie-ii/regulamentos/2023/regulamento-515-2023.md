@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 254 - 258
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/091000000/0025400258.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-12'
+entry_into_force:
+  date: '2023-05-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República, pelo prazo de três anos, eventualmente prorrogável até
+    ao final do mandato Reitoral em curso, em função da evolução do processo de instalaç
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

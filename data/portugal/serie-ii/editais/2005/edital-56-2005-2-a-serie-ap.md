@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2005/01/021013000/0000400011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-01'
+entry_into_force:
+  date: '2005-02-01'
+  rule: no dia seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

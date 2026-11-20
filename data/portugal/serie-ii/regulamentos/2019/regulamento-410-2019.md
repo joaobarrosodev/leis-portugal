@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 14221 - 14222
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/089000000/1422114222.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-10'
+entry_into_force:
+  date: '2019-05-10'
+  rule: no dia seguinte à sua publicação no Diário da República, e revoga as alíneas a) e b), do ponto 4.º, do artigo 6.º
+    do Regulamento do Cartão Municipal do Jovem, publicado no Diário da República, 2.ª sér
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

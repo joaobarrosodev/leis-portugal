@@ -23,6 +23,15 @@ publication:
   pages: 6025 - 6031
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/029000000/0602506031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil a seguir à sua publicação nos locais de estilo
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

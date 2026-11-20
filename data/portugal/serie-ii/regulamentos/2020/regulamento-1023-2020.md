@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 252 - 258
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/224000000/0025200258.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-17'
+entry_into_force:
+  date: '2020-11-17'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

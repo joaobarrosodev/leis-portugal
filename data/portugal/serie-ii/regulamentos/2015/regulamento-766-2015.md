@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 31908 - 31910
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/216000000/3190831910.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-05'
+entry_into_force:
+  date: '2015-11-05'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75729006:por#art-15'
+    detail: É revogado o [Regulamento n.º 766/2015] do Reitor do ISCTE-IUL, publicado na 2.ª série do Diário da República,
+      a 4 de novembro de 2015.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 44 - 51
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/281182000/0004400051.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-20'
+entry_into_force:
+  date: '2003-12-20'
+  rule: 15 dias após a publicação no Diário da República depois da respectiva aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 535 - 539
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/069000000/0053500539.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 (cinco) dias após a publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

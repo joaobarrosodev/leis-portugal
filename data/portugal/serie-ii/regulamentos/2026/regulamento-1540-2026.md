@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 367 - 380
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/216000000/0036700380.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-11'
+entry_into_force:
+  date: '2026-11-11'
+  rule: cinco dias após a sua publicação no Diário da República, nos termos dos artigos 139.º e 140.º do Código do Procedimento
+    Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua re
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: imediatos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 571 - 573
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/207000000/0057100573.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia de Freguesia, e mediante publicitação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

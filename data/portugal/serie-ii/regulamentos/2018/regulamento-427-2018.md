@@ -23,6 +23,15 @@ publication:
   pages: 19285 - 19285
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/134000000/1928519285.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicitação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

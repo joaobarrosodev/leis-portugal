@@ -23,6 +23,16 @@ publication:
   pages: 4919 - 4922
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/031000000/0491904922.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Pedagógico e Conselho Técnico Científico, nas áreas competentes a cada um
+    dos órgãos, com publicitação na sua página da internet, sem prejuízo da sua publicação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

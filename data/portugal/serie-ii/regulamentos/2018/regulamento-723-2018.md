@@ -23,6 +23,15 @@ publication:
   pages: 28857 - 28861
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/207000000/2885728861.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

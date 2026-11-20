@@ -23,6 +23,15 @@ publication:
   pages: 22 - 27
   pdf_url: https://files.diariodarepublica.pt/2s/2002/03/074038000/0002200027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 3 de Junho do corrente ano, depois de cumpridas todas as formalidades legais
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

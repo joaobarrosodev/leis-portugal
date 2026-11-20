@@ -23,6 +23,15 @@ publication:
   pages: 4055 - 4057
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/013000000/0405504057.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2011/2012 e revoga todas as disposições regulamentares anteriores sobre a matéria
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

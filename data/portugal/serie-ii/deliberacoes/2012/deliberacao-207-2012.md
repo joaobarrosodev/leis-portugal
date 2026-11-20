@@ -23,6 +23,15 @@ publication:
   pages: 6151 - 6154
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/036000000/0615106154.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação pela Comissão Nacional de Eleições
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

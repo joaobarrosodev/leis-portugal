@@ -23,6 +23,15 @@ publication:
   pages: 14759 - 14761
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/092000000/1475914761.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

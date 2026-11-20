@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 261 - 265
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/223000000/0026100265.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-17'
+entry_into_force:
+  date: '2026-11-17'
+  rule: após a sua publicação em jornal oficial
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

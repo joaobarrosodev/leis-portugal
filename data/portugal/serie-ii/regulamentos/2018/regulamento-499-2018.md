@@ -23,6 +23,16 @@ publication:
   pages: 20967 - 20970
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/148000000/2096720970.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2018-2019 e revoga o Regulamento Geral de Avaliação de Conhecimentos e Competências do ISCTE-IUL,
+    aprovado por Despacho n.º 21434/2009, publicado no Diário da República, 2.ª série, n.
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

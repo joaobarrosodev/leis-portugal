@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/173000000/1978319786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:890219430:por#texto'
+    detail: 1 - É revogado o [Regulamento n.º 479/2017] dos Cursos Técnicos Superiores Profissionais da Escola Superior de
+      Tecnologia e Gestão de Viseu, publicado no Diário da República, 2.ª série, n.º 173, de 7 de setembro de 2017.
 notes: []
 language: por
 version:

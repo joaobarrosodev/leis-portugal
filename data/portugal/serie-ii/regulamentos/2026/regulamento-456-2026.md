@@ -23,6 +23,16 @@ publication:
   pages: 234 - 251
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/083000000/0023400251.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, devendo ser, igualmente, publicitado na página da
+    Internet da Câmara Municipal de Alijó
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

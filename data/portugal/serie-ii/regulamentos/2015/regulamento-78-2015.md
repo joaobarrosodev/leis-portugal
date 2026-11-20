@@ -23,6 +23,15 @@ publication:
   pages: 4485 - 4487
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/035000000/0448504487.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte à data da sua aprovação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

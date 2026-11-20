@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 208 - 209
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/139000000/0020800209.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-20'
+entry_into_force:
+  date: '2024-07-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: '2024-07-20'
+  effects_rule: no dia seguinte ao da sua publicação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

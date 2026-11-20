@@ -23,6 +23,15 @@ publication:
   pages: 16982 - 16987
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/072000000/1698216987.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo quinto dia contado da data da sua publicação no Diário da República
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 78 - 79
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/109058000/0007800079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir de 1 Março de 2004
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 9746 - 9748
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/096000000/0974609748.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

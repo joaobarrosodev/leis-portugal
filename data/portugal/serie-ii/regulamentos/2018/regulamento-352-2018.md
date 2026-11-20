@@ -23,8 +23,28 @@ publication:
   pages: 16350 - 16351
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/111000000/1635016351.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:140205943:por#art-11'
+    detail: É revogado o [Regulamento n.º 352/2018], de 11 de junho, no qual se definia o regime para Isenção de Pagamento
+      de Quotas.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:910516547:por#art-27'
+    detail: 1 - É revogado o [Regulamento n.º 352/2018], de 11 de junho, que aprovou o regulamento para isenção de pagamento
+      de quotas.
 notes: []
 language: por
 version:

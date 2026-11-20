@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 531 - 544
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/054000000/0053100544.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-31'
+entry_into_force:
+  date: '2023-03-31'
+  rule: 15 dias após a sua publicação no Diário da República e será publicado por edital e no sítio da Internet do Município
+    de Soure em www.cm-soure.pt
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

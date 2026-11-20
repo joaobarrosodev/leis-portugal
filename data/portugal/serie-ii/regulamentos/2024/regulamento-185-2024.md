@@ -23,6 +23,15 @@ publication:
   pages: 567 - 570
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/027000000/0056700570.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua aprovação, salvaguardado o estabelecido no n.º 1 do artigo 7.º
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

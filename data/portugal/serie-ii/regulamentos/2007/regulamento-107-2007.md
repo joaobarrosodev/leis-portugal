@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15764 - 15767
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/109000000/1576415767.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-07'
+entry_into_force:
+  date: '2007-06-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 208 - 212
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/070000000/0020800212.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-11'
+entry_into_force:
+  date: '2026-04-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: para todas as formações oferecidas ao abrigo do Programa “Impulso Mais Digital - Reforma e Modernização das
+    Ciências Agrárias”, aplicando-se aos cursos realizados neste âmbito no ano letivo de 2025/26
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

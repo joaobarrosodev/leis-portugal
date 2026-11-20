@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19158-(4) a 19158-(11)
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/127000001/0000400011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-06'
+entry_into_force:
+  date: '2019-07-06'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

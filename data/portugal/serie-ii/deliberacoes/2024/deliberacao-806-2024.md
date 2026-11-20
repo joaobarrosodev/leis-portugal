@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/118000000/0028300288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:925590370:por#n-12'
+    detail: 12 - Com a publicação da presente deliberação fica revogada a [Deliberação n.º 806/2024], de 27 de março, publicada
+      no DRE, 2.ª de 20/06.
 notes: []
 language: por
 version:

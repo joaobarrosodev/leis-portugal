@@ -25,6 +25,16 @@ publication:
   pages: 11113 - 11114
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/047000000/1111311114.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia Geral e aplica-se a todos os pedidos de atribuição de título especialista
+    requeridos após a entrada em vigor da Lei n.º 111/2009, de 16 de Setembro
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

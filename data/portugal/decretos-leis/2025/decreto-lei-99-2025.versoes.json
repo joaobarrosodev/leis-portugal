@@ -3,7 +3,7 @@
  "id": "pt:dre:933527232:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-933578177",
  "dre_path": "/dr/detalhe/decreto-lei/99-2025-933527232",
- "source_lastmod": "2025-11-05",
+ "source_lastmod": "2026-11-03",
  "versions": [
   {
    "date": "2025-08-28",
@@ -84,6 +84,73 @@
     "933525986",
     "933525987",
     "944635383",
+    "933525989",
+    "933525990",
+    "933525991",
+    "933525992",
+    "933525993",
+    "933525994",
+    "933525995",
+    "933525996",
+    "933525997",
+    "933525998",
+    "933525999",
+    "933526000",
+    "933526001",
+    "933526002",
+    "933526003",
+    "933526004",
+    "933526005",
+    "933526006",
+    "933526007",
+    "933526008",
+    "933526009",
+    "933526010",
+    "933526011",
+    "944635375",
+    "933526029",
+    "933526012",
+    "933526013",
+    "933526014",
+    "933526015",
+    "933526016",
+    "933526017",
+    "933526018",
+    "933526019",
+    "933526020",
+    "933526021",
+    "933526022",
+    "933526023",
+    "933526024",
+    "933526025",
+    "933526026",
+    "933526027",
+    "933526028"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1190056897:por",
+     "title": "Decreto-Lei n.º 207/2026",
+     "published": "2026-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2026-1190056897"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "933525981",
+    "933525982",
+    "933525983",
+    "933525984",
+    "933525985",
+    "1190414575",
+    "933525987",
+    "1190414775",
     "933525989",
     "933525990",
     "933525991",
@@ -539,6 +606,27 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo — Orgânica da Agência para a Gestão do Sistema Educativo, I. P.\n\n(a que se refere o artigo 2.º)"
+  },
+  "1190414575": {
+   "fragment_id": "933578183",
+   "type": 11,
+   "heading": "Artigo 3.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897)."
+   ],
+   "markdown": "###### Artigo 3.º — Disposição geral\n\n1 - São extintos, sendo objeto de fusão:\n\na) O IGeFE, I. P., sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., na Direção-Geral de Estudos, Planeamento e Avaliação (DGEPA) e na Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.);\n\nb) A DGAE, sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., no Centro Jurídico do Estado (CEJURE), e no Instituto de Educação, Qualidade e Avaliação, I. P. (EduQA, I. P.);\n\nc) A DGEstE, sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., no EduQA, I. P., no CEJURE e nas Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.).\n\n2 - No âmbito dos processos de extinção por fusão e de reestruturação, o presente capítulo:\n\na) Estabelece os serviços e organismos integradores no âmbito da transferência das atribuições e competências;\n\nb) Regula o procedimento de reafetação de trabalhadores.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897)."
+  },
+  "1190414775": {
+   "fragment_id": "933578185",
+   "type": 11,
+   "heading": "Artigo 5.º — Sucessão nas atribuições e competências",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03, com efeitos a partir de 2026-07-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06"
+   ],
+   "markdown": "###### Artigo 5.º — Sucessão nas atribuições e competências\n\n1 - A AGSE, I. P., sucede nas atribuições e competências, bem como nos direitos, obrigações e posições contratuais:\n\na) Do IGeFE, I. P., exceto nas matérias de gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do Ministério da Educação, Ciência e Inovação (MECI), incluindo o pessoal docente e técnico das escolas, de aquisição de bens e serviços que não sejam específicos da atividade do MECI, que transitam para a ESPAP, I. P.;\n\nb) Da Secretaria-Geral da Educação e Ciência (SGEC), nos termos do decreto-lei que procede à sua extinção;\n\nc) Da DGAE, exceto nas matérias de:\n\ni) Apoio ao funcionamento das atividades do Conselho Científico-Pedagógico da Formação Contínua (CCPFC), que transita para EduQA, I. P.;\n\nii) Serviço de consultoria jurídica e contencioso, que transita para o CEJURE;\n\nd) Da DGEstE, exceto nas matérias que transitam para o EduQA, I. P., para o CEJURE e para as CCDR, I. P.;\n\ne) Da Direção-Geral de Educação (DGE), em matéria de desporto escolar, nos termos do decreto-lei que procede à sua extinção;\n\nf) Da FCT, I. P., em matéria cometida à unidade Fundação para a Computação Científica Nacional (FCCN), serviços digitais, na componente educação;\n\ng) Da Agência Nacional Erasmus+ Educação e Formação, em matéria de acompanhamento e supervisão do Programa Erasmus+ no âmbito da educação não superior.\n\n2 - A ESPAP, I. P., sucede nas atribuições e competências, bem como nos direitos e obrigações, do IGeFE, I. P., nas matérias de gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MECI, incluindo o pessoal docente e técnico das escolas, e de aquisição de bens e serviços que não sejam específicos da atividade do MECI, aqui sucedendo igualmente nas respetivas posições contratuais.\n\n3 - O EduQA, I. P., sucede nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, da DGAE, em matéria de apoio ao funcionamento das atividades do CCPFC, e da DGEstE, em matéria de apreciação dos recursos das decisões sobre os pedidos de revisão relativos à avaliação das aprendizagens.\n\n4 - A DGEPA sucede nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, do IGeFE, I. P., em matéria das atividades de entidade coordenadora dos programas orçamentais do MECI.\n\n5 - O CEJURE sucede nas atribuições e competências, bem como nos direitos, obrigações e posições contratuais, da DGAE em matéria de serviço contencioso e de consultoria jurídica, e da DGEstE em matéria de serviço contencioso, de procedimentos contraordenacionais e de consultoria jurídica.\n\n6 - As CCDR, I. P., sucedem nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, da DGEstE, nas matérias de:\n\na) Coordenar, sem prejuízo da possibilidade de celebrar contratos administrativos com os municípios, as escolas profissionais agrícolas públicas, reforçando lógicas de proximidade territorial na integração com os diferentes agentes e operadores setoriais;\n\nb) Participar no planeamento da rede escolar da circunscrição regional e da oferta formativa, nos seus diferentes níveis e modalidades, nomeadamente do ensino profissional e dos cursos técnicos superiores profissionais, sem prejuízo das competências de aprovação e validação dos serviços da área governativa da educação, ciência e inovação, contribuindo para um melhor alinhamento com a estratégia de desenvolvimento regional;\n\nc) Colaborar na recolha de informação para efeitos de controlo e de monitorização da execução das políticas educativas na sua dimensão regional, em articulação com os serviços da área governativa da educação, ciência e invocação;\n\nd) Contribuir para o planeamento e para a concretização da política nacional no domínio das instalações e equipamentos escolares, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, assegurando o acompanhamento das iniciativas de requalificação, modernização e conservação da rede escolar;\n\ne) Acompanhar a organização e funcionamento das escolas, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, promovendo o desenvolvimento e consolidação da sua autonomia;\n\nf) Planear as redes de dupla certificação para jovens, de ofertas educativas para adultos e dos centros especializados em qualificação escolar de adultos, sem prejuízo da supervisão estratégica e da definição de orientações por parte do Instituto de Educação, Qualidade e Avaliação, I. P., e os demais serviços da área governativa da educação, ciência e inovação.\n\n7 - O presente decreto-lei constitui, para todos os efeitos legais, incluindo o de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando as mesmas isentas do pagamento de quaisquer taxas ou emolumentos.\n\n> Nota: [Artigo 13.º, Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897) Os recursos das decisões sobre os pedidos de revisão relativos à avaliação das aprendizagens apresentados a órgão ou entidade distintos do referido no n.º 3 do presente artigo, na redação que lhe é dada pelo Decreto-Lei n.º 207/2026, de 2 de novembro, são enviados oficiosamente ao EduQA, I. P., disso se notificando o particular. Nestes casos considera-se a data da apresentação inicial do requerimento para efeitos da sua tempestividade.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03, com efeitos a partir de 2026-07-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06"
   }
  }
 }

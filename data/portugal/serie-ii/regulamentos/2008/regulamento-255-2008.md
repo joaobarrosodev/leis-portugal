@@ -24,6 +24,16 @@ publication:
   pages: 21779 - 21780
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/093000000/2177921780.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo 2008/2009 e aplica-se às candidaturas para ingresso nos cursos em funcionamento no ISCET,
+    podendo as provas realizadas por cada candidato ser utilizadas para a candidatura à ma
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

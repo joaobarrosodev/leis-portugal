@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49229 - 49241
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/192000000/4922949241.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-02'
+entry_into_force:
+  date: '2010-10-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 71 - 76
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/031000000/0007100076.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-14'
+entry_into_force:
+  date: '2025-02-14'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1062536058:por#art-19'
+    detail: É revogado o [Regulamento n.º 235/2025], publicado no Diário da República, 2.ª série, n.º 31, de 13 de fevereiro
+      de 2025.
 notes: []
 language: por
 version:

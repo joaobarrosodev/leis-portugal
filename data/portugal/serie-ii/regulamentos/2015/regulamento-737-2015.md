@@ -24,6 +24,15 @@ publication:
   pages: 30854 - 30857
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/209000000/3085430857.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis após a sua publicitação, nos termos da lei
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

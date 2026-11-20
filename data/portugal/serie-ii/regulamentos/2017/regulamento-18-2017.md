@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 589 - 597
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/005000000/0058900597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-06'
+entry_into_force:
+  date: '2017-01-06'
+  rule: na data da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem na internet
+  method: clausula
+  article: art-92
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

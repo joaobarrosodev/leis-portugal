@@ -23,6 +23,15 @@ publication:
   pages: 16225 - 16228
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/149000000/1622516228.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

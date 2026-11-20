@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 93 - 93
   pdf_url: https://files.diariodarepublica.pt/2s/2006/08/154066000/0009300093.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-11'
+entry_into_force:
+  date: '2006-08-11'
+  rule: no dia imediato à publicação deste aviso
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

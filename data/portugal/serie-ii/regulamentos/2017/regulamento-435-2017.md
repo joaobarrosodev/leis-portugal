@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17482 - 17482
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/156000000/1748217482.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-14'
+entry_into_force:
+  date: '2017-08-14'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

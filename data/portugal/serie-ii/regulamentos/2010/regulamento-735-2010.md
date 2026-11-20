@@ -23,6 +23,16 @@ publication:
   pages: 47267 - 47270
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/180000000/4726747270.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia de Freguesia e é publicado em edital a afixar no edifício sede
+    da junta de Freguesia de Santa Maria - Manteigas e nos lugares públicos do costume
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

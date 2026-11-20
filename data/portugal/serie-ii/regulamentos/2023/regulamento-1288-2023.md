@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 433 - 443
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/233000000/0043300443.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-05'
+entry_into_force:
+  date: '2023-12-05'
+  rule: no dia imediato à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

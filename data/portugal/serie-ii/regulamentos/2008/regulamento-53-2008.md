@@ -23,6 +23,16 @@ publication:
   pages: 4278 - 4279
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/021000000/0427804279.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de abertura ao público das instalações do Centro Social do Lidador e pode ser alterado, de acordo com definições
+    inerentes ao melhor interesse dos seus beneficiários ou do Município, sem preju
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

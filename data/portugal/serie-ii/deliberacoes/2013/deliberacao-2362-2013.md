@@ -23,6 +23,16 @@ publication:
   pages: 36098 - 36102
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/245000000/3609836102.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, considerando-se ratificados todos os atos praticados pelos dirigentes da Parque
+    Escolar no âmbito das competências delegadas, a partir dessa data e até à data da s
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 25892 - 25894
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/116000000/2589225894.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-17'
+entry_into_force:
+  date: '2011-06-17'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 36292 - 36296
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/236000000/3629236296.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-12'
+entry_into_force:
+  date: '2016-12-12'
+  rule: na data da sua publicação no Diário da República, nos termos do artigo 141.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

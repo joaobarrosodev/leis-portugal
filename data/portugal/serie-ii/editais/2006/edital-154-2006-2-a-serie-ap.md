@@ -23,6 +23,15 @@ publication:
   pages: 55 - 65
   pdf_url: https://files.diariodarepublica.pt/2s/2006/03/061029000/0005500065.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês seguinte ao da sua aprovação
+  method: clausula
+  article: art-106
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

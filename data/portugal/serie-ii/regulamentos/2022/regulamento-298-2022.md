@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 381 - 387
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/059000000/0038100387.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-25'
+entry_into_force:
+  date: '2022-03-25'
+  rule: no dia seguinte à sua publicação nos termos legais e será igualmente objeto de publicitação no site oficial do Município
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 156 - 171
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/072000000/0015600171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-14'
+entry_into_force:
+  date: '2020-04-14'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:875838793:por#art-50'
+    detail: 'São revogados os [Regulamento n.º 369/2020], publicado no Diário da República, 2.ª série, n.º 72, de 13 de abril,
+      [Regulamento n.º 889/2020], publicado no Diário da República, 2.ª série, n.º 203, de 19 de outubro e [Regulamento n.º
+      912/2022], publicado no Diário da República, 2.ª série, n.º 188, de '
 notes: []
 language: por
 version:

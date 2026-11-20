@@ -39,10 +39,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-08'
+version_history:
+  file: portaria-1109-a-2000.versoes.json
+  count: 2
+  source_lastmod: '2026-11-19'
+  versions:
+  - date: '2001-02-07'
+    amending: pt:dre:315519:por
+    amending_title: Portaria n.º 69/2001
+    changes:
+    - Altera Artigo 12.º
+  - date: '2004-08-08'
+    amending: pt:dre:514999:por
+    amending_title: Portaria n.º 978/2004
+    changes:
+    - Adita Artigo 10.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-a/2000/11/27/p/dre/pt/html
@@ -55,20 +74,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462
   metadata_url: https://data.dre.pt/eli/port/1109-a/2000/11/27/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462
-  consolidated_url: null
-  retrieved_at: '2026-10-23T14:19:50Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970365
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970365
+  retrieved_at: '2026-11-20T13:54:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: d505aaf607a8f7b56217d9771e93497bd6e1c9ede82f53d1f292eb2476d0d1fd
+  source_sha256: a47ade10e3b001273830c9d7168387c960fddd8740fffeb4e8d3384870a7d616
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:54:13Z'
+  notes: 2 versão(ões); histórico completo em portaria-1109-a-2000.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,22 +158,20 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-ad-2000-188551
   date: '2000-12-29'
 article_structure:
-  article_count: 12
-  section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 15
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T14:19:50Z'
+  checked_at: '2026-11-20T13:54:13Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 1109-A/2000
-
-de 27 de Novembro
 
 No âmbito do III Quadro Comunitário de Apoio, para o período de 2000 a 2006, foi aprovada a medida «Agricultura e desenvolvimento rural» dos programas operacionais de âmbito regional (medida AGRIS), na qual se inclui a acção «Serviços à agricultura» com a subacção «Desenvolvimento de outros serviços à agricultura», de que faz parte a componente «Comparticipação no custo de serviços agrícolas essenciais».
 
@@ -167,23 +185,31 @@ Torna-se necessário apoiar o melhoramento genético das raças autóctones, de 
 
 Assim:
 
-Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892), de 27 de Julho, o seguinte:
+Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho, o seguinte:
 
-1.º É aprovado o Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, em anexo ao presente diploma, do qual faz parte integrante, e que se inscreve na componente «Comparticipação no custo de serviços agrícolas essenciais», da subacção «Desenvolvimento de outros serviços à agricultura», da acção «Serviços à agricultura» da medida AGRIS dos programas operacionais regionais do QCA III.
+###### 1.º
 
-2.º O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
+É aprovado o Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, em anexo ao presente diploma, do qual faz parte integrante, e que se inscreve na componente «Comparticipação no custo de serviços agrícolas essenciais», da subacção «Desenvolvimento de outros serviços à agricultura», da acção «Serviços à agricultura» da medida AGRIS dos programas operacionais regionais do QCA III.
+
+###### 2.º
+
+O presente diploma não se aplica às Regiões Autónomas dos Açores e da Madeira.
 
 Em 15 de Novembro de 2000.
 
 A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
-## ANEXO
+## Anexo
 
 Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia.
 
 ###### Artigo 1.º — Âmbito e objectivos
 
-O presente Regulamento estabelece o regime de ajudas destinado a apoiar a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.
+1 - O presente Regulamento estabelece o regime de aplicação da componente de apoio à prestação de serviços agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS.
+
+2 - No âmbito do presente Regulamento pode ser apoiada a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 978/2004 - Diário da República n.º 181/2004, Série I-B de 2004-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), em vigor a partir de 2004-08-08.
 
 ###### Artigo 2.º — Condições de acesso e de homologação das entidades candidatas
 
@@ -205,15 +231,19 @@ e) Tenham capacidade para apresentar relatórios detalhados de execução, trime
 
 ###### Artigo 3.º — Condições de acesso das candidaturas
 
-1 - Só poderão ser aceites as candidaturas das quais constem programas anuais de execução, sob a forma de prestação de serviços, das acções elegíveis constantes do anexo I ao presente Regulamento, nos casos das raças autóctones e das raças exóticas, com excepção da raça bovina Frísia, devendo tais programas ser previamente homologados pela DGV.
+1 - Só poderão ser aceites as candidaturas das quais constem programas anuais de execução, sob a forma de prestação de serviços, das acções elegíveis constantes do anexo I ao presente Regulamento, nos casos das raças autóctones e das raças exóticas, e do anexo II ao mesmo Regulamento, no caso da raça bovina Frísia, devendo tais programas ser previamente homologados pela DGV.
 
-2 - Relativamente à raça bovina Frísia, o programa anual contempla a execução, sob a forma de prestação de serviços, das acções elegíveis constantes do anexo II ao presente Regulamento, devendo tal programa ser previamente homologado pela DGV.
+2 - Os requisitos dos programas anuais são os constantes do presente Regulamento e do despacho a que se refere o artigo 11.º
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 978/2004 - Diário da República n.º 181/2004, Série I-B de 2004-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), em vigor a partir de 2004-08-08.
 
 ###### Artigo 4.º — Convite público
 
 1 - Até 1 de Outubro de cada ano, a DGV promoverá a publicação e divulgação, através do Diário da República e das páginas Internet do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, do convite público à apresentação dos programas anuais, relativamente às acções elegíveis a realizar no ano seguinte.
 
 2 - O âmbito e objecto do convite público, bem como os requisitos dos programas anuais, são os constantes do presente Regulamento e do despacho a que se refere o artigo 11.º
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 978/2004 - Diário da República n.º 181/2004, Série I-B de 2004-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), em vigor a partir de 2004-08-08.
 
 ###### Artigo 5.º — Entrega das candidaturas
 
@@ -241,7 +271,7 @@ j) Plano plurianual de melhoramento da raça ou raças visadas na candidatura, p
 
 ###### Artigo 6.º — Análise das candidaturas
 
-1 - A análise das candidaturas compete ao respectivo coordenador regional da medida «Agricultura e desenvolvimento rural - AGRIS», o qual as remeterá ao gestor da Intervenção Operacional Regional, nos termos do artigo 30.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+1 - A análise das candidaturas compete ao respectivo coordenador regional da medida «Agricultura e desenvolvimento rural - AGRIS», o qual as remeterá ao gestor da Intervenção Operacional Regional, nos termos do artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
 2 - O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
 
@@ -255,17 +285,27 @@ b) Adequada articulação do programa anual com a política nacional de melhoram
 
 ###### Artigo 8.º — Decisão das candidaturas
 
-1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
 2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.
 
+3 - As demais candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no artigo anterior e aprovadas conforme a dotação orçamental.
+
+4 - A ponderação dos critérios de prioridade será estabelecida pelo coordenador regional da medida AGRIS.
+
+5 - Serão recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 978/2004 - Diário da República n.º 181/2004, Série I-B de 2004-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), em vigor a partir de 2004-08-08.
+
 ###### Artigo 9.º — Forma e nível das ajudas
 
-1 - As ajudas são concedidas na forma de pagamento por serviços prestados que se enquadrem nas despesas elegíveis previstas no presente Regulamento.
+1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.
 
-2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento, cabendo aos beneficiários dos serviços prestados pelas entidades suportar os restantes 30%.
+2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento.
 
 3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2002 - Diário da República n.º 9/2002, Série I-B de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007), em vigor a partir de 2000-12-02.
 
 ###### Artigo 10.º — Contrato de concessão e pagamento de ajudas
 
@@ -273,25 +313,37 @@ b) Adequada articulação do programa anual com a política nacional de melhoram
 
 2 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.
 
+###### Artigo 10.º-A — Obrigações dos beneficiários
+
+Os beneficiários ficam obrigados a prestar os serviços a todos os interessados, nas condições constantes das suas propostas.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 978/2004 - Diário da República n.º 181/2004, Série I-B de 2004-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), em vigor a partir de 2004-08-08.
+
 ###### Artigo 11.º — Normas técnicas de execução
 
 As normas técnicas que regulam a organização e articulação entre as várias entidades com responsabilidades na execução e controlo técnico das acções de preservação e melhoramento genético a que se refere o presente regime de ajudas são aprovadas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 ###### Artigo 12.º — Disposições transitórias
 
-A título excepcional, no ano 2000:
+A título excepcional, nos anos 2000 e 2001:
 
 a) Considera-se efectuado o convite a que se refere o artigo 4.º, através da publicação do presente Regulamento;
 
-b) As candidaturas deverão ser entregues na respectiva DRA até 10 dias úteis após a data da publicação deste diploma e devem contemplar a realização de acções elegíveis a que se refere o n.º 2 do artigo 3.º, durante todo o ano;
+b) As candidaturas deverão ser entregues na respectiva DRA até 10 dias úteis após a data da publicação deste diploma e devem contemplar a realização de acções elegíveis a que se referem os n.os 1 e 2 do artigo 3.º, durante todo o ano.
 
-c) Consideram-se elegíveis para efeitos de contratação e pagamento pelo IFADAP, após a aprovação das candidaturas, todas as acções a que se refere o n.º 2 do artigo 3.º, constantes dos programas anuais já homologados pela DGV e que tenham sido realizadas desde 1 de Janeiro de 2000.
+c) As candidaturas deverão ser entregues na respectiva DRA, relativamente ao ano 2001, até 28 de Fevereiro de 2001, e devem contemplar a realização de acções elegíveis a que se referem os n.os 1 e 2 do artigo 3.º, durante todo o ano;
 
-## ANEXO I — Raças autóctones e raças exóticas elegíveis (ver nota a)
+d) Consideram-se elegíveis para efeitos de contratação e pagamento pelo IFADAP, após a aprovação das candidaturas, todas as acções a que se referem os n.os 1 e 2 do artigo 3.º, constantes dos programas anuais já homologados pela DGV e que tenham sido realizadas desde 1 de Janeiro de 2000 e 1 de Janeiro de 2001.
+
+> Alterado pelo/a [Portaria n.º 69/2001 - Diário da República n.º 28/2001, Série I-B de 2001-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/69-2001-315519), em vigor a partir de 2001-02-07.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-AD/2000 - Diário da República n.º 300/2000, 6º Suplemento, Série I-B de 2000-12-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-ad-2000-188551), em vigor a partir de 2000-12-02.
+
+## Anexo I — Raças autóctones e raças exóticas elegíveis (ver nota a)
 
 Acções elegíveis - Nível de ajuda
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)
+(ver quadro no documento original)
 
 (nota a) Raças exóticas elegíveis:
 
@@ -301,6 +353,6 @@ Bovinos: Charolesa, Sallers e Limousine.
 
 Suínos: as admissíveis no Livro Genealógico Português de Suínos ou Registo Zootécnico Português de Suínos.
 
-## ANEXO II — Raça bovina Frísia
+## Anexo II — Raça bovina Frísia
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2000/11/274b01/00020004.pdf)
+(ver quadro no documento original)
