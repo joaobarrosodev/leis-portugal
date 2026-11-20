@@ -1073,3 +1073,127 @@ def test_cited_series_and_repristination_signals():
 def test_repeal_at_the_entry_into_force_of_other_acts(text, scope):
     found = {item.scope for item in repeals_in([], text, source="pt:dre:1:por") if item.target == "pt:dre:9:por"}
     assert found == ({scope} if scope else set())
+
+
+# ---------------------------------------------------------------- vigência inferida
+
+
+def _write(repo_root: Path, relative: str, record_id: str, body: str, **fields) -> Path:
+    path = repo_root / relative
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(render_markdown(record_dict(record_id, **{"legal_status": "unknown", "publication": {"series": "I"}, **fields}), body), encoding="utf-8")
+    return path
+
+
+def test_inferred_exclusion_says_why_a_diploma_stays_unknown():
+    from leis_portugal.domain.validity import inferred_exclusion, limited_text, temporary_summary
+
+    base = {
+        "status": "unknown", "category": "sem_prova", "has_evidence": False, "document_type": "decreto-lei", "series": "I",
+        "publication_date": "2019-03-01", "text_quality": "texto", "temporary": False, "limited": False,
+    }
+    assert inferred_exclusion(**base) is None
+    assert inferred_exclusion(**base | {"status": "in_force"}) == "fora_do_universo"
+    assert inferred_exclusion(**base | {"document_type": "portaria"}) == "fora_do_universo"
+    assert inferred_exclusion(**base | {"series": "II"}) == "fora_do_universo"
+    assert inferred_exclusion(**base | {"text_quality": "pdf"}) == "fora_do_universo"
+    # Uma revogação parcial ou por confirmar chega para a regra não se aplicar.
+    assert inferred_exclusion(**base | {"category": "revogacao_parcial", "has_evidence": True}) == "com_revogacao_ou_caducidade_conhecida"
+    assert inferred_exclusion(**base | {"publication_date": "2013-12-31"}) == "anterior_a_2014"
+    assert inferred_exclusion(**base | {"temporary": True}) == "temporario_pelo_sumario"
+    assert inferred_exclusion(**base | {"limited": True}) == "vigencia_limitada_no_texto"
+
+    # Casos da amostra de 2026-11-20 que levaram a alargar a regra do sumário.
+    assert temporary_summary("Autoriza o Governo a aprovar o regime jurídico da cibersegurança")
+    assert temporary_summary("Prorroga o prazo de vigência do regime transitório")
+    assert temporary_summary("Aprova o Orçamento do Estado para 2019")
+    assert temporary_summary("Estabelece o quadro plurianual de programação orçamental")
+    assert not temporary_summary("Aprova o regime jurídico da segurança do ciberespaço")
+    assert limited_text("O presente decreto-lei vigora até 31 de dezembro de 2020.")
+    assert limited_text("A presente lei cessa a sua vigência no final do ano.")
+    assert not limited_text("O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.")
+
+
+def test_structure_gives_in_force_by_inference_and_marks_it(repo_root: Path, capsys):
+    from leis_portugal.domain.validity import INFERRED_RULE
+    from leis_portugal.infrastructure.markdown import read_markdown_record
+    from leis_portugal.infrastructure.repository import Acervo
+
+    body = "# Decreto-Lei n.º 20/2019\n\n###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o serviço.\n\n###### Artigo 2.º — Entrada em vigor\n\nEntra em vigor no dia seguinte ao da sua publicação.\n"
+    kept = _write(repo_root, "data/portugal/decretos-leis/2019/decreto-lei-20-2019.md", "pt:dre:118748848:por", body,
+                  title="Decreto-Lei n.º 20/2019", publication_date="2019-01-30", summary="Cria o serviço")
+    old = _write(repo_root, "data/portugal/decretos-leis/2013/decreto-lei-5-2013.md", "pt:dre:256987:por", body.replace("20/2019", "5/2013"),
+                 title="Decreto-Lei n.º 5/2013", publication_date="2013-01-16", summary="Cria o serviço")
+    budget = _write(repo_root, "data/portugal/leis/2019/lei-71-2018.md", "pt:dre:117537583:por", body.replace("Decreto-Lei n.º 20/2019", "Lei n.º 71/2018"),
+                    title="Lei n.º 71/2018", document_type="lei", publication_date="2018-12-31", summary="Orçamento do Estado para 2019")
+    limited = _write(repo_root, "data/portugal/decretos-leis/2020/decreto-lei-10-2020.md", "pt:dre:130243053:por",
+                     body.replace("20/2019", "10/2020") + "\n###### Artigo 3.º — Vigência\n\nO presente decreto-lei vigora até 31 de dezembro de 2030.\n",
+                     title="Decreto-Lei n.º 10/2020", publication_date="2020-03-13", summary="Estabelece o regime")
+    ordinance = _write(repo_root, "data/portugal/portarias/2019/portaria-30-2019.md", "pt:dre:118484592:por", body.replace("Decreto-Lei n.º 20/2019", "Portaria n.º 30/2019"),
+                       title="Portaria n.º 30/2019", document_type="portaria", publication_date="2019-01-23", summary="Fixa o modelo")
+    args = ["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-11-20", "--validation-sample", "0"]
+
+    assert main(args) == 0
+    assert "1 em vigor por inferência" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(kept)
+    assert metadata["legal_status"] == "in_force"
+    assert metadata["legal_status_basis"] == {
+        "source": "sem_revogacao_conhecida", "inferred": True, "dre_status": "unknown", "rule": INFERRED_RULE, "evidence": [],
+    }
+    assert Acervo(repo_root).schema.record_errors(metadata) == []
+    for path in (old, budget, limited, ordinance):
+        metadata, _ = read_markdown_record(path)
+        assert metadata["legal_status"] == "unknown" and "legal_status_basis" not in metadata, path.name
+    listed = [json.loads(line) for line in (repo_root / "reports/vigencia-inferida.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert [item["id"] for item in listed] == ["pt:dre:118748848:por"]
+    summary = json.loads((repo_root / "reports/estrutura.json").read_text(encoding="utf-8"))["vigencia"]["inferidos_em_vigor"]
+    assert summary["diplomas"] == 1 and summary["ligada"] is True
+    assert summary["fora_da_regra"] == {"anterior_a_2014": 1, "temporario_pelo_sumario": 1, "vigencia_limitada_no_texto": 1}
+    assert "### Em vigor por inferência" in (repo_root / "reports/estrutura.md").read_text(encoding="utf-8")
+
+    # Segunda passagem: nada a mudar (o estado inferido volta a avaliar-se como desconhecido e a regra repete-se).
+    before = kept.read_text(encoding="utf-8")
+    assert main(args) == 0
+    assert kept.read_text(encoding="utf-8") == before
+
+    # Uma nova recolha, com a fonte ainda sem vigência, não apaga a marca.
+    acervo = Acervo(repo_root)
+    record, text = acervo.read(kept)
+    fresh = type(record).from_dict({key: value for key, value in record.to_dict().items() if key != "legal_status_basis"} | {"legal_status": "unknown"})
+    acervo.save(fresh, text, target=kept)
+    metadata, _ = read_markdown_record(kept)
+    assert metadata["legal_status"] == "in_force" and metadata["legal_status_basis"]["inferred"] is True
+
+    # Aparece uma revogação: a prova prevalece sobre a inferência.
+    repealing = _write(repo_root, "data/portugal/decretos-leis/2025/decreto-lei-1-2025.md", "pt:dre:900000001:por",
+                       "# Decreto-Lei n.º 1/2025\n\n###### Artigo 9.º — Norma revogatória\n\nÉ revogado o "
+                       + link("Decreto-Lei n.º 20/2019", "decreto-lei/20-2019-118748848") + ", de 30 de janeiro.\n",
+                       title="Decreto-Lei n.º 1/2025", legal_status="in_force", publication_date="2025-01-03")
+    assert main(args) == 0
+    metadata, _ = read_markdown_record(kept)
+    assert metadata["legal_status"] == "repealed" and metadata["legal_status_basis"]["source"] == "norma_revogatoria"
+    assert "inferred" not in metadata["legal_status_basis"]
+
+    # A revogação desaparece: volta a inferência. Com a regra desligada, volta a desconhecido.
+    repealing.unlink()
+    assert main(args) == 0
+    assert read_markdown_record(kept)[0]["legal_status"] == "in_force"
+    capsys.readouterr()
+    assert main([*args, "--sem-vigencia-inferida"]) == 0
+    assert "1 com a vigência retirada" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(kept)
+    assert metadata["legal_status"] == "unknown" and "legal_status_basis" not in metadata
+
+
+def test_inference_leaves_alone_diplomas_already_reviewed(repo_root: Path):
+    from leis_portugal.infrastructure.markdown import read_markdown_record
+
+    body = "# Decreto-Lei n.º 20/2019\n\n###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o serviço.\n"
+    kept = _write(repo_root, "data/portugal/decretos-leis/2019/decreto-lei-20-2019.md", "pt:dre:118748848:por", body,
+                  title="Decreto-Lei n.º 20/2019", publication_date="2019-01-30", summary="Cria o serviço")
+    reviewed = repo_root / "consolidacao/auditoria/vigencia-revista.jsonl"
+    reviewed.parent.mkdir(parents=True)
+    reviewed.write_text(json.dumps({"id": "pt:dre:118748848:por", "marca": "nao_vigora"}) + "\n", encoding="utf-8")
+    assert main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-11-20", "--validation-sample", "0"]) == 0
+    metadata, _ = read_markdown_record(kept)
+    assert metadata["legal_status"] == "unknown" and "legal_status_basis" not in metadata

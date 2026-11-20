@@ -527,6 +527,78 @@ def propose(
     return Proposal(None, "sem_prova", evidence)
 
 
+# ------------------------------------------------- vigência inferida (sem revogação conhecida)
+
+# O DRE deixou de preencher a vigência nos diplomas de 2014 em diante: ficam `unknown`. Esta regra
+# dá-os como em vigor quando nada diz o contrário. É uma inferência, não uma prova: o estado fica
+# marcado (`legal_status_basis.source` e `inferred`), guarda o estado da fonte em `dre_status` e
+# volta a `unknown` logo que uma das condições deixe de se verificar.
+# Medida em 2026-11-20 (reports/camada-1-falhas-de-dados.md): amostras ao acaso conferidas contra o
+# DRE do dia e contra todas as menções de revogação no acervo.
+INFERRED_SOURCE = "sem_revogacao_conhecida"
+INFERRED_TYPES = frozenset({"lei", "lei-organica", "lei-constitucional", "decreto-lei", "decreto-regulamentar", "decreto-legislativo-regional"})
+INFERRED_SINCE = "2014-01-01"
+INFERRED_RULE = (
+    "Diploma legislativo da 1.ª Série publicado de 2014 em diante, com texto, sem revogação conhecida (nenhuma relação "
+    "«revogado por» no DRE e nenhuma norma revogatória lida no acervo) e sem vigência limitada no sumário ou no texto."
+)
+# Temporário pelo sumário: orçamentos, autorizações legislativas, regimes excecionais ou transitórios,
+# prorrogações de prazo, medidas para um ano ou um período.
+_TEMPORARY_SUMMARY = re.compile(
+    r"Orçamento do Estado para|Grandes Opções|execução do Orçamento|para o ano de \d{4}|para \d{4}\b"
+    r"|estado de (?:emergência|calamidade|alerta)|COVID|medidas excecionais e temporárias"
+    r"|^Autoriza o Governo|autoriza[çc][ãa]o legislativa|excecion|excepcion|transit[óo]ri|tempor[áa]ri|extraordin[áa]ri"
+    r"|\bprorrog|alarga o prazo|\bsuspen|conting[êe]ncia|para (?:o ano de )?20\d\d|em 20\d\d\b|no ano de|durante o ano"
+    r"|regulariza[çc][ãa]o extraordin|medidas? de apoio|situa[çc][ãa]o de calamidade|pandemia|doen[çc]a COVID"
+    r"|inc[êe]ndios? (?:de|ocorridos)|quadro plurianual|para o per[íi]odo|recenseamento geral",
+    re.IGNORECASE,
+)
+# Vigência limitada escrita no próprio diploma.
+_LIMITED_TEXT = re.compile(
+    r"vigora(?:m|rá|rão)?\s+(?:até|durante|pelo\s+(?:prazo|período)|por\s+um\s+período)|cessa(?:m)?\s+a\s+(?:sua\s+)?vig[êe]ncia"
+    r"|vig[êe]ncia\s+(?:temporária|até|limitada)|produz(?:em)?\s+efeitos\s+até|caduca(?:m)?\s+(?:em|a|no|com)"
+    r"|regime\s+(?:excecional|transitório)\s+e\s+temporário|medidas?\s+excecionais?\s+e\s+temporárias?",
+    re.IGNORECASE,
+)
+
+
+def temporary_summary(summary: str | None) -> bool:
+    return bool(summary and _TEMPORARY_SUMMARY.search(summary))
+
+
+def limited_text(body: str | None) -> bool:
+    return bool(body and _LIMITED_TEXT.search(body))
+
+
+def inferred_exclusion(
+    *,
+    status: str,
+    category: str,
+    has_evidence: bool,
+    document_type: str | None,
+    series: str | None,
+    publication_date: str | None,
+    text_quality: str,
+    temporary: bool,
+    limited: bool,
+) -> str | None:
+    """Porque é que a regra `INFERRED_RULE` não se aplica a um diploma; `None` quando se aplica.
+
+    `fora_do_universo`: a regra nem se põe (estado conhecido, outro tipo, outra série, sem texto)."""
+    if status != "unknown" or document_type not in INFERRED_TYPES or series != "I" or text_quality != "texto":
+        return "fora_do_universo"
+    if has_evidence or category != "sem_prova":
+        # Qualquer prova, mesmo parcial ou por confirmar: relação do DRE, norma revogatória, cláusula de vigência.
+        return "com_revogacao_ou_caducidade_conhecida"
+    if (publication_date or "") < INFERRED_SINCE:
+        return "anterior_a_2014"
+    if temporary:
+        return "temporario_pelo_sumario"
+    if limited:
+        return "vigencia_limitada_no_texto"
+    return None
+
+
 _RECORD_ID = re.compile(r"pt:dre:\d+:por")
 
 

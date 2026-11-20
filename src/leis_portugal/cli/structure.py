@@ -24,6 +24,10 @@ def register(commands) -> None:
     parser.add_argument("--validation-sample", type=int, default=300, help="Consolidados a comparar com os fragmentos do DRE (0: não validar).")
     parser.add_argument("--today", type=date.fromisoformat, default=date.today(), help="Data de referência (AAAA-MM-DD; por omissão: hoje).")
     parser.add_argument("--limit", type=int, default=None, help="Ler só os primeiros N registos (para testes).")
+    parser.add_argument(
+        "--sem-vigencia-inferida", action="store_true",
+        help="Desligar a regra «em vigor por inferência»: os estados inferidos já gravados voltam a desconhecidos.",
+    )
     parser.set_defaults(handler=structure_command)
 
 
@@ -32,7 +36,7 @@ def structure_command(args) -> int:
     output = Path(args.output) if Path(args.output).is_absolute() else repository.root / args.output
     report = run(
         repository, workers=args.workers, today=args.today.isoformat(), validation_sample=args.validation_sample,
-        limit=args.limit, progress=progress,
+        limit=args.limit, infer=not args.sem_vigencia_inferida, progress=progress,
     )
     articles, entry, validity = report.summary["artigos"], report.summary["entrada_em_vigor"], report.summary["vigencia"]
     print(f"Diplomas com texto: {articles['com_texto']}; com artigos: {articles['com_artigos']}; só com números: {articles['por_unidade'].get('numeros', 0)}")
@@ -51,7 +55,7 @@ def structure_command(args) -> int:
     applied = apply(repository, report, report.rows, progress=progress)
     print(
         f"Registos: {applied.entry_into_force} com entrada em vigor; {applied.legal_status} com vigência provada "
-        f"({applied.manual} por prova manual); "
+        f"({applied.manual} por prova manual); {applied.inferred} em vigor por inferência; "
         f"{applied.withdrawn} com a vigência retirada (prova que deixou de existir); "
         f"{applied.updated} alterados"
     )
