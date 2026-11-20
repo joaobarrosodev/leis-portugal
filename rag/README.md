@@ -831,6 +831,37 @@ Com estes, as 5 reais C2 que esta leva não cobre ficam cobertas. Os outros dipl
 
 Antes de mais levas, convém o conjunto de avaliação ganhar perguntas de consumo e família.
 
+### 2.ª leva de diplomas avulsos (20/11/2026)
+
+É a 2.ª leva dirigida proposta acima, com os mesmos sete diplomas.
+- **Segurança social:** a Lei n.º 13/2003 (RSI), o DL 265/99 e a Lei n.º 98/2009.
+- **Saúde:** a Lei n.º 32/2006.
+- **Justiça e impostos:** a Lei n.º 29/2013, o Estatuto dos Benefícios Fiscais (só o anexo do DL 215/89) e o anexo do DL 147/2003. Ficam em dois ficheiros novos, `avulsos-justica` e `avulsos-impostos`.
+
+**Geração:** o mesmo método e as mesmas regras.
+- As regras ganham as palavras destas áreas, e a validação recusa também «Estatuto dos Benefícios Fiscais» e «EBF».
+- Foram 14 lotes, escritos por 7 subagentes, todos validados à primeira: **473 artigos e 1.713 perguntas**, gravados antes de medir.
+- `rag/perguntas_artigo/` fica com 14.454 artigos e 53.963 perguntas. O `juntar` no índice da fase 1 não deixa nenhum em falta.
+
+**Medição:** só BM25 e referências, nas mesmas 1.519 perguntas (1.414 com artigo esperado). Resumos em `pav2-antes-bm25.json` e `pav2-depois-bm25.json`.
+- «Antes» é uma cópia do índice da fase 1 com as perguntas da 1.ª leva. «Depois» junta-lhe as da 2.ª.
+- As duas correram com o código do `main` depois de `0f0ac113a32` (nomes de códigos e registos repetidos). Por isso, o «antes» dá 889 em 1.º, e não os 891 do «depois» da 1.ª leva.
+
+| Grupo | n | Em 1.º | Nos 8 primeiros | Nos 10 primeiros | Ganhos / perdas no 1.º | Ganhos / perdas nos 10 |
+|---|--:|--:|--:|--:|--:|--:|
+| **Reais do diagnóstico com o artigo nestes diplomas** | 5 | 0 → 0 | 0 → **2** | 0 → 2 | 0 / 0 | 2 / 0 |
+| Reais com o artigo nestes diplomas (todas) | 8 | 1 → 1 | 1 → **4** | 1 → 4 | 0 / 0 | 3 / 0 |
+| Coloquiais com o artigo nestes diplomas | 8 | 0 → 1 | 0 → 5 | 0 → 5 | 1 / 0 | 5 / 0 |
+| Artigo fora destes diplomas | 1.396 | 888 → 888 | 1.236 → 1.235 | 1.262 → 1.262 | 0 / 0 | 0 / 0 |
+| **Todas com artigo esperado** | 1.414 | 889 → **890** | 1.237 → **1.244** | 1.263 → **1.271** | 1 / 0 | 8 / 0 |
+
+- **Ganho pequeno e sem perdas.** Das 5 reais do diagnóstico, 2 chegam aos 8 primeiros (5.º e 6.º lugar): uma da mediação e a dos bens em circulação.
+- **As outras 3 ficam fora dos 10 primeiros:** duas da mediação e a do Estatuto dos Benefícios Fiscais. À frente delas ficam a diretiva europeia da mediação, o processo tutelar cível e a prestação social para a inclusão. É o grupo em que a linguagem da pergunta está mais longe da da lei. As perguntas geradas também não a apanham.
+- Nenhuma pergunta fora destes diplomas muda de lugar no 1.º. Os diplomas desta leva concorrem pouco com os códigos.
+- **Não medido:** o reranker e o limiar, como na 1.ª leva. As reais destes diplomas são só 8, por isso estes números são indicativos.
+
+**Decisão: não compensa uma 3.ª leva escolhida pelas falhas.** As reais do diagnóstico que ficam por resolver já não dependem de perguntas por artigo nos avulsos: das 41, as duas levas tocam 23. As outras 18 são do reranker, de artigos compridos diluídos no BM25 ou de normas remissivas (grupos A, B e C1), e 3 das 23 são esta distância de linguagem. Mais levas por tema só se medem quando o conjunto de avaliação tiver perguntas de consumo, família e habitação.
+
 **Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
 - **Pesquisa:** uma só por pergunta, no índice de uso de 17/11 numa cópia fixa, com as consultas reescritas de `reescrita2`, o reranker cruzado com 30 candidatos e o limiar 1. O LLM recebe os 8 ou os 16 primeiros artigos da mesma consulta (`passo_llm exportar --contextos 8,16 --consultas PASTA`). Assim, o ruído do reranker não entra na comparação.
 - **LLM:** um subagente Opus por lote e por contexto, que só lê a entrada.
