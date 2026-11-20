@@ -979,3 +979,57 @@ O `rag.indice` usa as marcas ao construir (por omissão; `--sem-redacoes-anterio
 - a ligação para o registo com o texto atual é `texto_em_vigor_em` quando o registo fica sem artigos abertos, e `redacao_atual_em` quando ficam os do próprio diploma: a pesquisa troca artigos pelo número só no primeiro caso.
 
 `python -m rag.copias` grava `reports/redacoes-anteriores/`: `marcadas.jsonl` (com a prova de cada uma), `de-fora.jsonl` (com o motivo) e `resumo.json`. A 20/11: 536 cópias marcadas em 493 registos e 345 de fora; num índice de ensaio só com esses registos, 43.596 pedaços fechados. Falta medir nas 1.298 perguntas.
+
+## O que o índice lê de um registo (20/11/2026)
+
+O inventário da camada 1 (`reports/inventario-camada-1.md`, secção 8) encontrou texto que o índice não lia como artigos, ou lia mal. Três correções, todas no código que lê os dados; o `data/` não muda.
+
+**1. Histórico sem artigos (`rag/indice.py`).** Um consolidado com histórico de versões e sem `###### Artigo` ficava sem nenhum pedaço. Agora cada versão sem artigos entra em blocos de texto, com o intervalo em que vigorou, e se o histórico não der nada lê-se o `.md`.
+
+**2. Mais unidades e anexos (`avaliacao/comum.py`, que o índice usa).**
+
+- `###### ARTIGO 1.º`, em maiúsculas, lê-se como artigo (leis e decretos de 1970 a 1989).
+- `###### Base IV — Epígrafe` é uma unidade com o número «Base IV»; `###### 1.º` (os números das portarias) fica «N.º 1.º». O rótulo diz «Base IV» e não «Artigo Base IV». A pesquisa lê «base IV da Lei n.º 52/2012» (`rag/referencias.py`).
+- `## ANEXO` em maiúsculas abre parte quando tem artigos, como `## Anexo`. Os artigos do anexo deixam de ficar na parte do diploma, com as mesmas chaves que os dele.
+- **O nome da parte:** com título, o título vem à frente. `## ANEXO — CÓDIGO DE PROCESSO PENAL` é a parte «CÓDIGO DE PROCESSO PENAL (ANEXO)». A pesquisa (a de hoje e a da aplicação 0.1.1) procura os códigos nas partes que começam por «Anexo», sem olhar a maiúsculas. Com «ANEXO — Código de Processo Penal», uma pergunta que cite o código passava a receber a republicação de 2007 (verificado com o código da 0.1.1).
+- **Sem artigos, um `## ANEXO` fica onde estava:** o texto continua colado ao artigo anterior. Experimentei pô-lo em blocos na parte do anexo: eram 188 mil blocos novos (tabelas, regras, listas) a competir com os artigos, e o artigo certo saía dos dez primeiros em perguntas que antes acertavam.
+
+**Salvaguardas, para nenhum texto sair do índice:**
+
+- um registo quase todo em texto corrido, com dois ou três títulos soltos em maiúsculas (o Código Penal de 1982 no DL 400/82), não se parte por eles: fica inteiro em blocos, como antes;
+- nos registos em que nenhum artigo vem de um `###### Artigo` (antes entravam inteiros em blocos), o texto fora dos artigos e o que passa dos 30.000 caracteres de um artigo entram em blocos.
+
+**3. Revogação com data de efeitos (`rag/fontes.py`).** `revogado(texto, notas, data)` só conta uma nota «Revogado pelo/a…» a partir do dia em que produz efeitos: a mais tardia das datas da própria nota («em vigor», «com efeitos», «produz efeitos a partir de»). A Lei n.º 13/2003 foi revogada em agosto de 2026 com efeitos a 31/12: até lá os artigos saem como em vigor, com o aviso «Em vigor até à véspera de 2026-12-31…». A data vem sempre escrita na nota do DRE; nenhuma é inferida. Sem data na nota, conta como revogado, como antes.
+
+**As chaves das perguntas de avaliação.** 58 das 1.620 fontes esperadas apontam para artigos de anexos em maiúsculas, que mudam de chave («13.º» passa a «… (ANEXO)::13.º»). `rag.fontes.acertar_fontes`, chamado por `rag.avaliar.ler_perguntas`, acerta a chave em memória pelo número e pela epígrafe; os ficheiros das perguntas ficam como estão. Um índice construído antes desta data tem as chaves antigas: mede-se com o código dessa altura.
+
+**Antes e depois,** pelos pedaços que o código dá a cada registo do export de 20/11 (357.225 registos):
+
+| | Antes | Depois |
+|---|--:|--:|
+| Pedaços | 2.533.936 | 2.582.317 |
+| Abertos com número (artigos, bases, números) | 1.706.670 | 1.742.579 |
+| Abertos em blocos | 611.586 | 609.789 |
+| Fechados (redações anteriores) | 215.680 | 229.949 |
+| Registos que mudam | | 12.597 |
+
+Por correção, nos registos em vigor no DRE:
+
+- **histórico sem artigos:** 2.343 registos passam de nenhum pedaço para 12.015 abertos (984 com número);
+- **«ARTIGO»:** 1.538 registos passam de 18.124 blocos para 22.679 artigos e 7.105 blocos; mais 873 artigos em 48 registos que já tinham alguns;
+- **bases e números:** 1.920 bases e 1.040 números abertos no índice inteiro (a Lei n.º 52/2012 passa de 0 pedaços para 35 bases);
+- **`## ANEXO`:** 59.062 artigos de 1.951 registos passam para a parte do anexo (e 109.689 de 3.404 registos de vigência desconhecida); as chaves repetidas nesses registos descem de 14.419 para 2.071.
+
+**Verificado num índice de ensaio** (12.120 registos: os da avaliação, os 198 centrais, os das redações anteriores, os que mudam e 4.000 ao acaso), antes e depois:
+
+- nenhum dos 198 diplomas centrais perde artigos abertos; os nomes de códigos resolvem-se para os mesmos registos; entra um registo nos códigos principais (DL 44561, Código do Imposto de Capitais de 1962, que passa dos 60 pedaços);
+- a regra das redações anteriores não perde nenhuma marca (536 → 558, por ver melhor as republicações em anexos);
+- as perguntas por artigo encontram os mesmos artigos (127 em falta, antes e depois);
+- só com BM25 e referências, sem reranker nem LLM, o artigo esperado fica em 1.º em 845 → 844 de 1.414 perguntas e nos dez primeiros em 1.185 → 1.182 (20 sobem, 32 descem);
+- com o código da aplicação 0.1.1: o esquema é o mesmo, a pesquisa corre, e um delta gerado hoje e aplicado por ela dá o mesmo índice que a construção de raiz.
+
+**O que a aplicação 0.1.1 não ganha:** a correção 3 está no código. A 0.1.1 calcula a revogação com o código dela e continua a dar os artigos da Lei n.º 13/2003 como revogados, até haver versão nova.
+
+**Reconstruir:** `python -m rag.indice`, como sempre. Não há opções novas. Depois, `python -m rag.jurisprudencia` volta a escrever as normas julgadas com as partes novas (6 das 2.713 normas apontam para artigos que mudaram de parte; a pesquisa de hoje aceita as duas formas).
+
+**Falta medir** nas 1.298 perguntas com o reranker. O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
