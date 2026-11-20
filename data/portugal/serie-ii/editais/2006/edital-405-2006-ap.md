@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 55 - 56
   pdf_url: https://files.diariodarepublica.pt/2s/2006/09/184073000/0005500056.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-10-07'
+entry_into_force:
+  date: '2006-10-07'
+  rule: no 15.º dia após a publicação em edital da respectiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

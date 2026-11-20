@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3997 - 3999
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/060000000/0399703999.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-10'
+entry_into_force:
+  date: '2004-04-10'
+  rule: 30 dias após a sua publicação e terá imediata aplicação aos pedidos de inscrição em curso
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

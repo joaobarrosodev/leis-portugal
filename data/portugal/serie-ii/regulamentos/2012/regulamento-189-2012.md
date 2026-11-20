@@ -24,7 +24,20 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/100000000/1835718370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74605034:por#art-5'
+    detail: É revogado o [Regulamento n.º 189/2012] - Regulamento da prática dos atos de engenharia pelos membros da OET -
+      Ordem dos Engenheiros Técnicos, com as últimas alterações e republicação operadas pelo [Regulamento n.º 442/2013], publicado
+      no Diário da República, 2.ª série, n.º 225, de 20 de novembro de
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:127283360:por#art-5'
+    detail: É revogado o [Regulamento n.º 189/2012] - Regulamento da prática dos atos de engenharia pelos membros da OET -
+      Ordem dos Engenheiros Técnicos, com as últimas alterações e republicação operadas pelo [Regulamento n.º 442/2013], publicado
+      no Diário da República, 2.ª série, n.º 225, de 20 de novembro de
 notes: []
 language: por
 version:

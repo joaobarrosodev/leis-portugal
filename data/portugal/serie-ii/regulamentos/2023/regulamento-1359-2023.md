@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 346 - 392
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/247000000/0034600392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-10'
+entry_into_force:
+  date: '2024-01-10'
+  rule: 15 dias após a sua publicação, pela forma legalmente prevista, no Diário da República
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

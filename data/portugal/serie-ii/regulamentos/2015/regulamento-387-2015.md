@@ -23,6 +23,15 @@ publication:
   pages: 18552 - 18552
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/133000000/1855218552.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês subsequente ao da sua publicitação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

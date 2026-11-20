@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2002/03/074038000/0002000022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-04-12'
+entry_into_force:
+  date: '2002-04-12'
+  rule: 15 dias após a sua publicação e depois de afixado nos lugares do costume de todas as freguesias do concelho
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

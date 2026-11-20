@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 103 - 103
   pdf_url: https://files.diariodarepublica.pt/2s/2002/04/100052000/0010300103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-01'
+entry_into_force:
+  date: '2002-05-01'
+  rule: no dia a seguir à data da publicação do presente edital
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

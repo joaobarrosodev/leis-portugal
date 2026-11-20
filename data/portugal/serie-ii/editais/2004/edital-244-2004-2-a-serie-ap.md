@@ -23,6 +23,16 @@ publication:
   pages: 17 - 39
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/096049000/0001700039.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorrido 15 dias sobre a sua publicação no Diário da República, conforme o n.º 4 do artigo 29.º da Lei das Finanças
+    Locais, aplicando-se a todos os pedidos apresentados a partir dessa data, inclusive
+  method: clausula
+  article: art-127
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

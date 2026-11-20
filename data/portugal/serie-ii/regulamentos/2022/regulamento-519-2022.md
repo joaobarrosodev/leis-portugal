@@ -23,6 +23,15 @@ publication:
   pages: 824 - 826
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/102000000/0082400826.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia de Freguesia e devida publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

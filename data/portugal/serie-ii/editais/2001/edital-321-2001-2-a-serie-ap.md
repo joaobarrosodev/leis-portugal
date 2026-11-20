@@ -23,6 +23,15 @@ publication:
   pages: 43 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/181095000/0004300045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

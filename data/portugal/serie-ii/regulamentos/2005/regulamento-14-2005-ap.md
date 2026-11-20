@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13 - 13
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/130093000/0001300013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-06'
+entry_into_force:
+  date: '2005-09-06'
+  rule: 60 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

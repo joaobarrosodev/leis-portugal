@@ -23,6 +23,15 @@ publication:
   pages: 598 - 611
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/147000000/0059800611.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua homologação da Presidente e respetiva publicitação, sendo aplicável a partir do ano letivo de 2025 -2026
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

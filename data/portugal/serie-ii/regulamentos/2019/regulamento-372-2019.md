@@ -23,6 +23,15 @@ publication:
   pages: 12917 - 12918
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/081000000/1291712918.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

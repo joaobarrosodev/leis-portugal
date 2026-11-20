@@ -23,6 +23,15 @@ publication:
   pages: 204 - 210
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/093000000/0020400210.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação em Conselho Científico e no dia seguinte à sua publicitação nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

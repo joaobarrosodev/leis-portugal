@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5272 - 5275
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/032000000/0527205275.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-17'
+entry_into_force:
+  date: '2016-02-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se a partir dessa data ao processo de candidatura
+    e seriação referente à edição do mestrado integrado para 2016/2017
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

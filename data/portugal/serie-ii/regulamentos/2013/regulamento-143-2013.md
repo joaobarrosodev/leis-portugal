@@ -23,6 +23,15 @@ publication:
   pages: 13250 - 13264
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/079000000/1325013264.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia útil, contado desta publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/194000000/2709927105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:126680480:por#art-50'
+    detail: É revogado o [Regulamento n.º 636/2018], publicado no Diário da República n.º 194, 2.ª série, de 9 de outubro
+      de 2018.
 notes: []
 language: por
 version:

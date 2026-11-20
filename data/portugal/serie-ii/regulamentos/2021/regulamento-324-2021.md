@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 233 - 309
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/065000000/0023300309.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-05'
+entry_into_force:
+  date: '2021-04-05'
+  rule: após a sua publicação no Diário da República desde que a Entidade Gestora reúna condições de prestar o serviço de
+    abastecimento de água e recolha de águas residuais
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

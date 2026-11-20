@@ -23,6 +23,15 @@ publication:
   pages: 33 - 37
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/204135000/0003300037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: efectuada a sua publicitação nos termos legais, à data da entrada em funcionamento do SATU
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

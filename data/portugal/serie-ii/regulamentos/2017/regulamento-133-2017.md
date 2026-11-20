@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5017 - 5018
   pdf_url: https://files.diariodarepublica.pt/2s/2017/03/056000000/0501705018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-03-21'
+entry_into_force:
+  date: '2017-03-21'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8511 - 8512
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/056000000/0851108512.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2018/2019
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

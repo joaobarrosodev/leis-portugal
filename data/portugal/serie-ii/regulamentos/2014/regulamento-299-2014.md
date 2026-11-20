@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 17894 - 17896
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/131000000/1789417896.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-11'
+entry_into_force:
+  date: '2014-07-11'
+  rule: no dia seguinte ao da sua publicação, e com a sua entrada em vigor são revogados todos os documentos internos que
+    disciplinam as matérias ora regulamentadas
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

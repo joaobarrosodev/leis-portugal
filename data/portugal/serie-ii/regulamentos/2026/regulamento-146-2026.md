@@ -23,6 +23,15 @@ publication:
   pages: 231 - 243
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/029000000/0023100243.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente a seguir ao da sua publicitação nos termos legais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

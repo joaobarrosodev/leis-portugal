@@ -23,6 +23,15 @@ publication:
   pages: 257 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/013000000/0025700263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: para o ano letivo 2020/2021, inclusive, e anos letivos seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

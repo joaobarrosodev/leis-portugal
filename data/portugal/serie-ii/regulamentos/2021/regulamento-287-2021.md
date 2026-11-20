@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 352 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/058000000/0035200359.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-24'
+entry_into_force:
+  date: '2021-03-24'
+  rule: na data da sua publicação, nos termos dos artigos 139.º e 140.º do CPA e na parte final da alínea e) do n.º 1 do artigo
+    79.º da Lei n.º 73/2013, de 3 de setembro na sua atual redação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

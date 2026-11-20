@@ -23,6 +23,15 @@ publication:
   pages: 251 - 275
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/101000000/0025100275.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

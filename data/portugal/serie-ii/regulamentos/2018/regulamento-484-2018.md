@@ -23,6 +23,16 @@ publication:
   pages: 20577 - 20581
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/145000000/2057720581.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação e publicação nos termos legais, revogando expressamente quaisquer outras normas ou despachos conflituantes
+    com o mesmo
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8442 - 8443
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/106000000/0844208443.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-08'
+entry_into_force:
+  date: '2002-05-08'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

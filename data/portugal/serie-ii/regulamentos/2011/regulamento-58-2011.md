@@ -23,6 +23,16 @@ publication:
   pages: 4233 - 4234
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/014000000/0423304234.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua homologação, aplicando-se aos alunos inscritos na ESAV, a partir do ano lectivo de 2010-2011
+    inclusive
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

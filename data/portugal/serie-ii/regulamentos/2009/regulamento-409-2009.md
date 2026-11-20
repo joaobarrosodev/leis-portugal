@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 41232 - 41234
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/197000000/4123241234.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-11'
+entry_into_force:
+  date: '2009-11-11'
+  rule: 30 dias após a sua publicação no Diário da República, sendo igualmente publicitado no sítio do Município de Lagoa
+    na Internet
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

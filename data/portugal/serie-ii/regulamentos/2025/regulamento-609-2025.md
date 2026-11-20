@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 441 - 459
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/093000000/0044100459.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-15'
+entry_into_force:
+  date: '2025-05-15'
+  rule: após a sua publicação no Diário da República, depois de aprovado em sessão da Assembleia Municipal da Nazaré, sob
+    proposta da Câmara Municipal da Nazaré
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

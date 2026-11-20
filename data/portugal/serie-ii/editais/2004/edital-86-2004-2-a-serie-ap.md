@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 7
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/033017000/0000400007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-02-24'
+entry_into_force:
+  date: '2004-02-24'
+  rule: no prazo de 15 dias a contar da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

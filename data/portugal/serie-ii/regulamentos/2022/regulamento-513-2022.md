@@ -23,6 +23,15 @@ publication:
   pages: 444 - 448
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/101000000/0044400448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação nos termos da lei
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

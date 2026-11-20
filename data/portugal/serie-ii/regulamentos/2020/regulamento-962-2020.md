@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 174 - 188
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/213000000/0017400188.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-02'
+entry_into_force:
+  date: '2020-12-02'
+  rule: 30 dias após a sua publicação no Diário da República em cumprimento do disposto no artigo 139.º do Código do Procedimento
+    Administrativo, tendo um período experimental de 90 dias após a data da public
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

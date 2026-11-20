@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 44606 - 44607
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/212000000/4460644607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-11-15'
+entry_into_force:
+  date: '2008-11-15'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

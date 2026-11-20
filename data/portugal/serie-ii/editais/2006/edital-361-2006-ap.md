@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2006/08/154066000/0000800011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-25'
+entry_into_force:
+  date: '2006-08-25'
+  rule: no prazo de 15 dias após a sua publicação, nos termos legalmente exigidos
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

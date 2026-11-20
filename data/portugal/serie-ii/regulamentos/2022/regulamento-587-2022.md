@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 139 - 150
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/125000000/0013900150.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-01'
+entry_into_force:
+  date: '2022-07-01'
+  rule: a partir do dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: a partir da data da sua entrada em vigor, não afetando a validade e execução dos acordos de pagamentos que
+    tenham sido já celebrados, que se mantêm
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

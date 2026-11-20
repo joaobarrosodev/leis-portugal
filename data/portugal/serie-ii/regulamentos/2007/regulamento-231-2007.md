@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 25598 - 25600
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/170000000/2559825600.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-02-01'
+entry_into_force:
+  date: '2008-02-01'
+  rule: no dia 1 de Fevereiro de 2008, reportando a exigência de construção do registo de informação previsto no n.º 2 do
+    artigo 8.º, pela primeira vez, à informação relativa ao mês de Janeiro de 2008
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

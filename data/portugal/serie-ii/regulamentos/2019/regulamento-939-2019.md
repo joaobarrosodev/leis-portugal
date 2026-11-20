@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 523 - 528
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/235000000/0052300528.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-21'
+entry_into_force:
+  date: '2019-12-21'
+  rule: 15 dias após a data da sua publicação através de edital nos lugares de estilo, nos termos, e para os efeitos, do disposto
+    no artigo 56.º, da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

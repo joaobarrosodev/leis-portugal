@@ -23,6 +23,16 @@ publication:
   pages: 13005 - 13010
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/094000000/1300513010.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de decorridos 15 dias sobre a sua publicação em edital, nos lugares de estilo, revogando e substituindo toda
+    a anterior regulamentação sobre a matéria
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 11901 - 11903
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/055000000/1190111903.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte, à aprovação final da Assembleia Municipal de Gavião
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

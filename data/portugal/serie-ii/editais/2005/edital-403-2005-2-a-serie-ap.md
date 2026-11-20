@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 8
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/135097000/0000500008.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-30'
+entry_into_force:
+  date: '2005-07-30'
+  rule: 15 dias após a publicação da deliberação de aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

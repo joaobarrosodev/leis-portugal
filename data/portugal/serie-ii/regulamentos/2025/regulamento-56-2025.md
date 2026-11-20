@@ -34,7 +34,14 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1087366184:por#art-9'
+    detail: É revogado o [Regulamento n.º 56/2025], de 10 de janeiro, retificado pela [Declaração de Retificação n.º 41/2025/2],
+      de 16 de janeiro.
 notes: []
 language: por
 version:

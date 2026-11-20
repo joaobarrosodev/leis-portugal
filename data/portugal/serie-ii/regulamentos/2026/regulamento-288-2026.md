@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 483 - 526
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/058000000/0048300526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-25'
+entry_into_force:
+  date: '2026-03-25'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

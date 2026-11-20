@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 37949 - 37953
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/227000000/3794937953.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-12-23'
+entry_into_force:
+  date: '2012-12-23'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74029821:por#art-34'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 477/2012], publicado na 2.ª série do Diário da República
+      em 23 de novembro.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 11800 - 11812
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/069000000/1180011812.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à publicação da aprovação da versão final
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

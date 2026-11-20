@@ -23,6 +23,15 @@ publication:
   pages: 23095 - 23097
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/085000000/2309523097.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pela Assembleia Municipal e publicitado nos termos legais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

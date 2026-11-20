@@ -23,6 +23,15 @@ publication:
   pages: 523 - 528
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/186000000/0052300528.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelos órgãos municipais, no dia útil seguinte ao da sua publicação, nos termos legais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

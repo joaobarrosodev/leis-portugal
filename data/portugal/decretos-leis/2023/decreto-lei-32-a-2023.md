@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-03-22'
+  consolidation_date: '2026-11-04'
 version_history:
   file: decreto-lei-32-a-2023.versoes.json
-  count: 2
-  source_lastmod: '2025-03-17'
+  count: 3
+  source_lastmod: '2026-11-05'
   versions:
   - date: '2023-05-08'
     amending: null
@@ -73,6 +73,50 @@ version_history:
     - Altera Artigo 41.º
     - Revoga Artigo 27.º
     - Revoga Anexo I
+  - date: '2026-11-04'
+    amending: pt:dre:1190370816:por
+    amending_title: Decreto-Lei n.º 209/2026
+    changes:
+    - Revoga Capítulo I
+    - Revoga Secção I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Secção II
+    - Revoga Artigo 5.º
+    - Revoga Secção III
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Capítulo II
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Capítulo III
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 27.º-A
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Secção IV
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/32-a/2023/p/cons/20250317/pt/html
@@ -87,19 +131,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32-a/2023/p/cons/20250317/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-212786315
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-212786315
-  retrieved_at: '2026-10-22T13:24:10Z'
+  retrieved_at: '2026-11-20T13:49:51Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2025-03-17T00:00:00Z'
+  source_modified_at: '2026-11-05T00:00:00Z'
 integrity:
-  source_sha256: b04cab4cd8b6926f5f031be5e5ef20a79a602361f1a5c114be5b59f958a2c214
+  source_sha256: ba47a037ee74b8bfab88cd2fc6cb86d62a4ebd1354ac6af637943369e7184f24
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:24:10Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-32-a-2023.versoes.json.
+  generated_at: '2026-11-20T13:49:51Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-32-a-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,6 +185,14 @@ relationships:
     38.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 41.º; Revoga Artigo 27.º; Revoga Anexo I
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430
   date: '2025-03-17'
+- type: amended_by
+  target: pt:dre:1190370816:por
+  label: Revoga Capítulo I; Revoga Secção I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga
+    Secção II; Revoga Artigo 5.º; Revoga Secção III; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo
+    9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo
+    15.º; Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816
+  date: '2026-11-03'
 - type: cites
   target: pt:dre:178492:por
   label: null
@@ -186,7 +238,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:24:10Z'
+  checked_at: '2026-11-20T13:49:51Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +275,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ### Capítulo I — Disposições gerais
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção I — Objeto e âmbito do concurso
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 1.º — Objeto
 
@@ -231,11 +287,15 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O presente decreto-lei prevê, ainda, os procedimentos necessários à operacionalização da mobilidade interna, à gestão anual dos docentes colocados nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação, Ciência e Inovação, bem como à contratação de técnicos especializados para formação e à contratação de técnicos especializados para o exercício de outras funções não docentes.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 2.º — Âmbito pessoal
 
 O presente decreto-lei é aplicável aos docentes cujo vínculo de emprego público é titulado por contrato de trabalho em funções públicas por tempo indeterminado e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no artigo 39.º
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 3.º — Âmbito material
 
@@ -243,13 +303,19 @@ O presente decreto-lei é aplicável aos docentes cujo vínculo de emprego públ
 
 2 - Excetuam-se do disposto no número anterior o recrutamento de docentes para o ensino português no estrangeiro, agentes de cooperação e instituições de educação especial abrangidas pela Portaria n.º 1102/97, de 3 de novembro, na sua redação atual.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 4.º — Âmbito territorial
 
 1 - O presente decreto-lei aplica-se ao território de Portugal continental.
 
 2 - O presente decreto-lei é, ainda, aplicável aos docentes de carreira vinculados às Regiões Autónomas para efeitos de concurso interno e de mobilidade interna.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção II — Natureza e objetivos do concurso
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 5.º — Natureza e objetivos
 
@@ -283,7 +349,11 @@ iv) Contratação de escola.
 
 8 - A satisfação de necessidades temporárias, quando assegurada pelos concursos de contratação inicial, de reserva de recrutamento e de contratação de escola, com celebração de contrato de trabalho em funções públicas a termo resolutivo, tem por limite máximo o termo do ano escolar.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção III — Procedimentos dos concursos
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 6.º — Abertura dos concursos
 
@@ -316,6 +386,8 @@ i) Motivos de exclusão da candidatura;
 j) Campos inalteráveis nos procedimentos correspondentes ao aperfeiçoamento da candidatura;
 
 k) Calendário indicativo das várias fases dos concursos.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 7.º — Candidatura
 
@@ -357,6 +429,8 @@ c) A apresentação da fotocópia simples da declaração emitida pela entidade 
 
 12 - A falta de habilitação determina a exclusão da candidatura ou a nulidade da colocação e do subsequente vínculo de emprego público, a declarar pelo diretor-geral da DGAE.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 8.º — Âmbito das candidaturas
 
 1 - Os candidatos ao concurso interno podem ser opositores, em simultâneo, à transferência de quadro de docentes de um AE/EnA ou de QZP no grupo de recrutamento em que se encontram vinculados e à transição de grupo de recrutamento.
@@ -364,6 +438,8 @@ c) A apresentação da fotocópia simples da declaração emitida pela entidade 
 2 - Os candidatos ao concurso externo podem ser opositores no máximo a quatro grupos de recrutamento para os quais possuam qualificação profissional.
 
 3 - Os candidatos aos concursos previstos nas subalíneas ii) e iii) da alínea c) do n.º 1 do artigo 5.º são obrigatoriamente opositores ao concurso externo.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 9.º — Preferências
 
@@ -403,6 +479,8 @@ b) Contratos de trabalho em funções públicas de duração temporária.
 
 10 - Para efeitos de contratação a termo resolutivo devem ainda os candidatos indicar a sua disponibilidade para colocação em horários compostos por serviço letivo a prestar em mais do que um AE/EnA.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 10.º — Prioridades na ordenação dos candidatos
@@ -435,6 +513,8 @@ d) Estabelecimentos ou instituições de ensino dependentes ou sob a tutela de o
 
 e) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exercício de funções docentes como agentes da cooperação portuguesa nos termos do correspondente estatuto jurídico.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 11.º — Graduação dos docentes
 
 1 - A graduação dos docentes para a docência é determinada pelo resultado da soma dos valores obtidos, nos termos das alíneas seguintes:
@@ -455,6 +535,8 @@ iii) Com o número de dias de serviço docente ou equiparado prestado anteriorme
 
 4 - À graduação profissional dos docentes com contrato de trabalho em funções públicas por tempo indeterminado, com formação especializada em educação especial, ao abrigo do disposto na alínea a) do n.º 1 do artigo 56.º do ECD, é aplicado o disposto no n.º 1, relevando para o efeito, a classificação profissional da graduação obtida no curso de especialização, sendo considerado o dia 1 de setembro do ano civil em que o docente concluiu a formação especializada, nos termos da Portaria n.º 212/2009, de 23 de fevereiro.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 12.º — Ordenação de candidatos
 
 1 - A ordenação de candidatos para a docência faz-se por ordem decrescente da respetiva graduação, de acordo com os critérios de prioridade fixados no artigo 10.º
@@ -470,6 +552,8 @@ c) Candidatos com maior tempo de serviço docente prestado antes da profissional
 d) Candidatos com maior idade;
 
 e) Candidatos com o número de candidatura mais baixo.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 13.º — Validação da candidatura
 
@@ -487,6 +571,8 @@ c) No terceiro momento, as entidades responsáveis procedem a nova validação c
 
 4 - A não validação de um dado da candidatura nos termos da alínea c) do n.º 2 por parte das entidades de validação determina a exclusão do candidato nas listas provisórias.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 14.º — Listas provisórias
 
 1 - Terminada a verificação dos requisitos de admissão aos concursos, são elaboradas as listas provisórias de candidatos admitidos e ordenados e de candidatos excluídos, as quais são publicitadas na página da Internet da DGAE.
@@ -497,6 +583,8 @@ c) No terceiro momento, as entidades responsáveis procedem a nova validação c
 
 4 - Os campos não alteráveis constam do aviso de abertura do concurso.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 15.º — Listas definitivas
 
 1 - Esgotado o prazo de notificação da decisão da reclamação, referido no n.º 4 do artigo 46.º, as listas provisórias convertem-se em definitivas, com as alterações decorrentes das reclamações julgadas procedentes e as provenientes das desistências.
@@ -505,11 +593,15 @@ c) No terceiro momento, as entidades responsáveis procedem a nova validação c
 
 3 - As listas definitivas de ordenação, de exclusão, de colocação e de candidatos não colocados são homologadas pelo diretor-geral da DGAE, sendo publicitadas pela DGAE na respetiva página da Internet.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 16.º — Aceitação
 
 1 - Os candidatos colocados na sequência do concurso interno ou externo devem obrigatoriamente aceitar a colocação na aplicação informática a disponibilizar pela DGAE, no prazo de cinco dias úteis seguintes à publicitação da lista de colocação.
 
 2 - Os candidatos colocados na sequência dos restantes concursos, salvo o procedimento concursal previsto no artigo 39.º, devem obrigatoriamente aceitar a colocação na aplicação informática a disponibilizar pela DGAE, nos dois primeiros dias úteis seguintes à publicitação da lista de colocação.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 17.º — Apresentação
 
@@ -520,6 +612,8 @@ c) No terceiro momento, as entidades responsáveis procedem a nova validação c
 3 - Os docentes de carreira integrados na reserva de recrutamento sem serviço atribuído devem apresentar-se no 1.º dia útil do mês de setembro no último AE/EnA onde exerceram funções para aguardar nova colocação.
 
 4 - Os docentes que no ano de integração na carreira não obtenham colocação no concurso de mobilidade interna devem apresentar-se no 1.º dia útil do mês de setembro no AE/EnA indicada como escola de validação, enquanto aguardam colocação.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 18.º — Deveres de aceitação e apresentação
 
@@ -543,17 +637,25 @@ b) Se verifique alteração anormal das circunstâncias pessoais ou familiares d
 
 4 - Para o efeito do disposto na alínea d) do n.º 1, os docentes manifestam as suas preferências nos termos previstos no artigo 31.º
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ### Capítulo II — Necessidades permanentes
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção I — Dotação de pessoal
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 19.º — Dotação dos quadros
 
 1 - Por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação é fixada a dotação das vagas dos quadros dos AE/EnA e dos QZP, de acordo com as projeções de evolução do número de alunos e da oferta educativa e formativa.
 
 2 - As vagas não ocupadas dos quadros dos AE/EnA e dos QZP e as vagas que excedam as necessidades permanentes são publicitadas em anexo ao aviso de abertura referido no n.º 4 do artigo 6.º
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 20.º — Recuperação de vagas
 
@@ -565,11 +667,17 @@ b) Se verifique alteração anormal das circunstâncias pessoais ou familiares d
 
 4 - Os candidatos aos concursos interno e externo podem indicar, de entre as suas preferências, os quadros de AE/EnA e QZP em que pretendem ser colocados, independentemente de naqueles existirem vagas a ocupar à data de abertura do concurso.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção II — Concurso interno
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 21.º — Vagas a concurso interno
 
 Para efeitos de concurso interno são consideradas todas as vagas não ocupadas dos quadros dos AE/EnA e dos QZP e as resultantes da recuperação automática prevista no artigo anterior, sem prejuízo do disposto no seu n.º 3.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 22.º — Candidatos ao concurso interno
 
@@ -585,11 +693,17 @@ c) Docentes de carreira das Regiões Autónomas.
 
 3 - Os docentes na situação de licença sem remuneração de longa duração podem candidatar-se ao concurso interno desde que tenham requerido o regresso ao AE/EnA de origem ou ao QZP até ao final do mês de fevereiro do ano escolar anterior àquele em que pretendem regressar e tenham sido informados de inexistência de vaga.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção III — Concurso externo
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 23.º — Vagas a concurso externo
 
 Para efeitos do concurso externo são consideradas as vagas previstas na portaria a que se refere o n.º 1 do artigo 19.º que não estejam ocupadas à data da abertura do concurso, as quais incluem as vagas correspondentes à aplicação do n.º 12 do artigo 42.º e do n.º 1 do artigo 43.º
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 24.º — Candidatos ao concurso externo
 
@@ -599,9 +713,15 @@ Para efeitos do concurso externo são consideradas as vagas previstas na portari
 
 3 - O vínculo de emprego público dos candidatos colocados no âmbito do concurso externo é estabelecido por contrato de trabalho em funções públicas por tempo indeterminado.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ### Capítulo III — Identificação e suprimento das necessidades temporárias
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção I — Identificação das necessidades temporárias
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 25.º — Necessidades temporárias
 
@@ -611,9 +731,13 @@ Para efeitos do concurso externo são consideradas as vagas previstas na portari
 
 3 - Para o efeito do disposto no número anterior, os dois estabelecimentos de educação ou de ensino não podem distar, entre si, mais de 15 km, contados por estrada, considerando o percurso mais próximo a utilizar, salvo acordo expresso do docente.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 #### Secção II — Preenchimento local de necessidades temporárias
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 26.º — Gestão local de docentes
 
@@ -635,6 +759,8 @@ b) Docentes com contrato de trabalho em funções públicas a termo resolutivo e
 
 7 - Aos docentes referidos na alínea b) do n.º 1 que não se apresentem nos AE/EnA é aplicável o disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 27.º — Conselho de Quadro de Zona Pedagógica
@@ -651,6 +777,8 @@ c) Proceder à distribuição de serviço, resultante de necessidades temporári
 
 3 - O funcionamento do conselho de QZP é regulado por regimento interno.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 27.º-A — Operacionalização da gestão local
@@ -665,9 +793,13 @@ b) Cooperar e participar ativamente na elaboração de horários compostos por s
 
 c) Proceder à distribuição de serviço, resultante de necessidades temporárias que surjam no decurso do ano escolar, aos docentes mencionados no n.º 1 do artigo 26.º que permanecem com insuficiência de componente letiva.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 #### Secção III — Procedimentos de preenchimento de necessidades temporárias
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 28.º — Procedimento de recolha de necessidades temporárias
 
@@ -680,6 +812,8 @@ c) Proceder à distribuição de serviço, resultante de necessidades temporári
 4 - O procedimento de recolha das necessidades temporárias é definido pelo diretor-geral da DGAE.
 
 5 - O preenchimento dos horários é efetuado pela DGAE através da colocação de candidatos aos concursos de mobilidade interna e de contratação inicial.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
@@ -703,9 +837,13 @@ c) Proceder à distribuição de serviço, resultante de necessidades temporári
 
 9 - Os docentes com contrato em funções públicas a termo resolutivo podem ser opositores a procedimento de contratação de escola para efeitos de completamento ou acumulação nos termos da legislação em vigor.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 #### Secção IV — Mobilidade interna
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 30.º — Candidatos
 
@@ -731,6 +869,8 @@ b) Em AE/EnA diferente daquele em que o docente se encontra provido, inserido na
 
 6 - As colocações de docentes de carreira referidos no n.º 1 caducam no final do ano escolar.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 31.º — Manifestação de preferências
@@ -747,17 +887,25 @@ a) Para os AE/EnA inseridos na área geográfica do QZP em que o docente se enco
 
 b) Para os AE/EnA inseridos na área geográfica do QZP em que se encontra inserido o AE/EnA de provimento do docente e para os AE/EnA inseridos na área geográfica de, pelo menos, um QZP limítrofe.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 32.º — Procedimento de mobilidade interna
 
 O procedimento de mobilidade interna é aberto anualmente pela DGAE pelo prazo de cinco dias úteis, após a publicação do aviso da lista definitiva de colocação do concurso externo.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 33.º — Listas da mobilidade interna
 
 As listas definitivas de exclusão, de colocação dos candidatos e de candidatos não colocados são homologadas pelo diretor-geral da DGAE e publicitadas na página na Internet da DGAE.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção V — Contratação inicial
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 34.º — Contratação inicial
 
@@ -766,6 +914,8 @@ As listas definitivas de exclusão, de colocação dos candidatos e de candidato
 2 - A celebração de contrato de trabalho em funções públicas a termo resolutivo só é possível nas situações previstas na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP).
 
 3 - Para o recrutamento previsto no n.º 1, a DGAE abre concurso pelo prazo de cinco dias úteis, após a data da publicação do aviso que publicita a lista definitiva de colocação do concurso externo.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 35.º — Procedimento do concurso externo
 
@@ -781,17 +931,25 @@ As listas definitivas de exclusão, de colocação dos candidatos e de candidato
 
 6 - Os verbetes contendo a transcrição informática das preferências manifestadas são disponibilizados aos candidatos por via eletrónica.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 36.º — Listas de contratação inicial
 
 A lista de colocação para efeitos da contratação inicial é homologada pelo diretor-geral da DGAE e publicitada na página na Internet da DGAE.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção VI — Reserva de recrutamento
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 37.º — Constituição de reserva
 
 1 - Os docentes de carreira a que refere a alínea a) do n.º 1 do artigo 30.º que não obtenham colocação integram a reserva de recrutamento, com vista à satisfação de necessidades surgidas após a mobilidade interna e a contratação inicial.
 
 2 - Os candidatos à contratação de escola, quando colocados, são retirados da reserva de recrutamento, sem prejuízo do disposto no n.º 18 do artigo 40.º
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 38.º — Procedimento da reserva de recrutamento
 
@@ -821,9 +979,13 @@ A lista de colocação para efeitos da contratação inicial é homologada pelo 
 
 13 - A ausência de aceitação da colocação ou de apresentação do docente, nos prazos previstos nos n.os 11 e 12, determina a aplicação do disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 #### Secção VII — Contratação de escola
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 39.º — Objeto
 
@@ -844,6 +1006,10 @@ a) Técnicos especializados para formação nas áreas de natureza profissional,
 b) Técnicos especializados para o exercício de funções não docentes.
 
 4 - Aos docentes colocados ao abrigo da contratação de escola é aplicado o disposto no artigo 42.º
+
+> Nota: [Artigo 28.º, Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816) Mantém-se em vigor disposições do presente artigo relativas à contratação de técnicos especializados.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
@@ -911,6 +1077,10 @@ b) Para os técnicos especializados para o exercício de funções não docentes
 
 18 - Os candidatos colocados ao abrigo da contratação de escola que tenham sido opositores à reserva de recrutamento e cuja colocação caduque podem regressar ao concurso referido no artigo 37.º para efeitos de nova colocação.
 
+> Nota: [Artigo 28.º, Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816) Mantém-se em vigor disposições do presente artigo relativas à contratação de técnicos especializados.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 ###### Artigo 40.º-A — Habilitação própria para a docência no procedimento de contratação de escola
@@ -918,6 +1088,8 @@ b) Para os técnicos especializados para o exercício de funções não docentes
 1 - No âmbito da seleção de docentes com habilitação própria, nos termos do n.º 9 do artigo 40.º, podem ser selecionados candidatos que sejam detentores de cursos concluídos no quadro da organização de estudos anterior à aplicação do Decreto-Lei n.º 74/2006, de 24 de março, não reconhecidos como de habilitação própria para a docência ao abrigo do regime atualmente em vigor.
 
 2 - Para o efeito do disposto no número anterior, os requisitos mínimos de formação científica adequada às áreas disciplinares dos diferentes grupos de recrutamento são definidos por despacho do membro do Governo responsável pela área da educação.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
@@ -937,9 +1109,13 @@ d) Declaração de autorização de acesso ao registo criminal atualizado.
 
 3 - Ao presente artigo é aplicável o disposto no n.º 4 do artigo 7.º, com as necessárias adaptações.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 
 #### Secção VIII — Contrato de trabalho em funções públicas a termo resolutivo
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 42.º — Contrato de trabalho em funções públicas a termo resolutivo
 
@@ -983,6 +1159,8 @@ e) Concordância expressa das partes.
 
 15 - Os modelos destinados à celebração do contrato de trabalho em funções públicas e à renovação são aprovados pela DGAE, estando disponibilizados na respetiva aplicação informática.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 43.º — Vinculação dinâmica
 
 1 - Sem prejuízo do disposto no n.º 12 do artigo anterior, há lugar à abertura de vaga, no grupo de recrutamento em que o docente possui qualificação profissional e no QZP em que se situa o AE/EnA onde aquele se encontra a lecionar a 31 de dezembro do ano anterior ao da abertura do concurso, desde que preencha cumulativamente as seguintes condições:
@@ -1010,6 +1188,8 @@ e) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exerc
 f) Estabelecimentos de ensino particular ou cooperativo com contrato de associação.
 
 3 - Para o preenchimento das vagas a que se refere o n.º 1, é aplicável o disposto no artigo 7.º sendo os docentes ordenados na prioridade prevista na alínea a) do n.º 3 do artigo 10.º, sem prejuízo do artigo 54.º .
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 44.º — Remuneração
 
@@ -1047,9 +1227,15 @@ c) Frequência, com aproveitamento, de formação contínua no mínimo de 50 hor
 
 4 - A denúncia do contrato de trabalho pelo candidato fora do período experimental impede a celebração de qualquer outro contrato de trabalho ao abrigo do presente decreto-lei no mesmo ano escolar.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ### Capítulo IV — Impugnação administrativa
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção I — Reclamação
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 46.º — Reclamação
 
@@ -1063,21 +1249,33 @@ c) Frequência, com aproveitamento, de formação contínua no mínimo de 50 hor
 
 5 - As reclamações dos candidatos que não forem notificados nos termos do número anterior consideram-se deferidas.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção II — Recurso hierárquico
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 47.º — Recurso hierárquico
 
 Do ato de homologação das listas definitivas de ordenação, de exclusão, de colocação e não colocação dos candidatos, relativas aos procedimentos previstos no presente decreto-lei, bem como das listas de contratação de escola, a que se refere o n.º 13 do artigo 40.º, pode ser interposto recurso hierárquico, para o membro do Governo responsável pela área da educação, elaborado em formulário eletrónico, sem efeito suspensivo, no prazo de cinco dias úteis a contar do dia imediato ao da publicitação das listas.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ### Capítulo V — Situações especiais
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 #### Secção I — Licença sem remuneração de longa duração
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 48.º — Docentes em gozo de licença sem remuneração de longa duração
 
 1 - Os docentes que se encontram em licença sem remuneração de longa duração podem, nos termos do artigo 107.º do ECD, requerer até final do mês de fevereiro do ano de regresso ao lugar de origem.
 
 2 - A autorização só é concedida se o AE/EnA dispuser de vaga e de horário nos termos dos artigos 77.º e 79.º do ECD.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 49.º — Situações específicas de graduação profissional
 
@@ -1099,6 +1297,8 @@ i) Do número de dias de serviço docente ou equiparado, contado a partir do dia
 
 ii) Com o número de dias de serviço docente ou equiparado prestado anteriormente à obtenção da dispensa da profissionalização, ponderado pelo fator 0,5, com arredondamento às milésimas.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 50.º — Consolidação da mobilidade
 
 Os docentes portadores de deficiência visual total, amblíopes ou portadores de deficiência motora, de carácter permanente e que implique a locomoção em cadeira de rodas podem consolidar a mobilidade para o AE/EnA em que se encontram em exercício de funções, quando cumulativamente se encontrem preenchidos os seguintes requisitos:
@@ -1109,9 +1309,13 @@ b) O docente tenha componente letiva não inferior a 8 horas e seja garantida a 
 
 c) Seja requerida pelo docente.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 51.º — Autorização para a celebração de contratos a termo resolutivo
 
 A contratação de pessoal docente em regime de contrato de trabalho em funções públicas a termo resolutivo depende de despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação que a autorize e que fixa a quota anual de contratos a celebrar.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 52.º — Falsas declarações
 
@@ -1119,11 +1323,17 @@ A contratação de pessoal docente em regime de contrato de trabalho em funçõe
 
 2 - As confirmações indevidas dos elementos constantes da candidatura por parte das entidades intervenientes fazem incorrer os seus agentes em procedimento disciplinar.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ### Capítulo VI — Disposições complementares, transitórias e finais
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 53.º — Vinculação de docentes das escolas portuguesas no estrangeiro
 
 A vinculação dos docentes com contrato de trabalho em funções públicas a termo resolutivo e qualificação profissional em exercício de funções nas escolas portuguesas no estrangeiro da rede do Ministério da Educação é efetuada através da criação de quadros nestas escolas, de acordo com os requisitos previstos no n.º 2 do artigo 42.º e no n.º 1 do artigo 43.º, nos termos a definir por decreto-lei.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 54.º — Disposições transitórias
 
@@ -1167,9 +1377,13 @@ d) A ordenação dos candidatos obedece à regra da graduação profissional.
 
 11 - Nos procedimentos de reserva de recrutamento e de contratação de escola, a realizar no ano de 2023/2024, aplica-se o previsto no n.º 6 do artigo 38.º e na alínea b) do n.º 2 do artigo 39.º
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 55.º — Legislação subsidiária
 
 Em tudo o que não estiver regulado no presente decreto-lei é aplicável o regime geral de recrutamento e do contrato de trabalho em funções públicas, previstos na LTFP, e na Portaria n.º 333/2022, de 9 de setembro.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 ###### Artigo 56.º — Educação tecnológica
 
@@ -1189,13 +1403,19 @@ f) 530F - Artes Gráficas.
 
 2 - Às áreas previstas no número anterior é aplicado o disposto na alínea q) do artigo 7.º do Decreto-Lei n.º 27/2006, de 10 de fevereiro, na sua redação atual.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 57.º — Norma revogatória
 
 Sem prejuízo do disposto no artigo 54.º, é revogado o Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
 
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
+
 ###### Artigo 58.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 Visto e aprovado em Conselho de Ministros de 16 de março de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa.
 
@@ -1212,6 +1432,8 @@ O Primeiro-Ministro, António Luís Santos da Costa.
 ## Anexo I — (a que se refere o n.º 8 do artigo 29.º)
 
 (ver documento original)
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 209/2026 - Diário da República n.º 213/2026, Série I de 2026-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2026-1190370816), em vigor a partir de 2026-11-04.
 
 > Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 15/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430), em vigor a partir de 2025-03-22
 

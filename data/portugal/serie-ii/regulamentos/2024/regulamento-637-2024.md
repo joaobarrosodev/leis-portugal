@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 195 - 199
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/111000000/0019500199.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-12'
+entry_into_force:
+  date: '2024-06-12'
+  rule: no dia seguinte à publicação do Despacho do Reitor com a sua aprovação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

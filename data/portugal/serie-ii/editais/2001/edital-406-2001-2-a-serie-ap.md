@@ -23,6 +23,15 @@ publication:
   pages: 72 - 79
   pdf_url: https://files.diariodarepublica.pt/2s/2001/10/233114000/0007200079.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal e posterior publicação no Diário da República
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 27345 - 27350
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/150000000/2734527350.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo Chefe do Estado-Maior do Exército, seguido de publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

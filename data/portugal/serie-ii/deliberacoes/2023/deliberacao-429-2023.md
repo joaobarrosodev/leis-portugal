@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 223 - 225
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/078000000/0022300225.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-04-21'
+entry_into_force:
+  date: '2023-04-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se apenas aos alunos que, à data da sua entrada
+    em vigor, ainda não tenham entregue o Imprimatur
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

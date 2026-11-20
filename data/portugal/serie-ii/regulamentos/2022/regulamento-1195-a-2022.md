@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 353-(2) a 353-(9)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/247000001/0000200009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-27'
+entry_into_force:
+  date: '2022-12-27'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos, e para os efeitos, do disposto no artigo
+    56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

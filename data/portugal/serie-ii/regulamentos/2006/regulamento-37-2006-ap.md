@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 47 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2006/11/225082000/0004700048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-12-07'
+entry_into_force:
+  date: '2006-12-07'
+  rule: 15 dias após a publicação em edital afixado nos lugares de estilo
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

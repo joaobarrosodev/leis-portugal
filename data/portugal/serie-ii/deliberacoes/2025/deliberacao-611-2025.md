@@ -23,6 +23,15 @@ publication:
   pages: 39 - 56
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/084000000/0003900056.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

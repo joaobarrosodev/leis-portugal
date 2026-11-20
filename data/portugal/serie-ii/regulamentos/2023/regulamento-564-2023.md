@@ -23,6 +23,16 @@ publication:
   pages: 371 - 379
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/099000000/0037100379.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao dia da sua afixação, nos lugares públicos do costume, dos Editais que publiquem a sua aprovação
+    pela Assembleia Municipal, mediante proposta da Câmara Municipal
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

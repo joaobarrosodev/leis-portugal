@@ -24,6 +24,15 @@ publication:
   pages: 29392 - 29394
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/127000000/2939229394.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o concurso do ano lectivo 2007-2008
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

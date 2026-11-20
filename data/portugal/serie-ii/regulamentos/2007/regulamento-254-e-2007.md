@@ -23,6 +23,15 @@ publication:
   pages: 28356-(151) a 28356-(160)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/187000001/0015100160.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2007/2008 para os cursos ainda não adequados ao denominado Processo de Bolonha
+  method: clausula
+  article: n-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

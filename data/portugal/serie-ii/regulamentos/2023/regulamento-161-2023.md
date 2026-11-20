@@ -23,6 +23,15 @@ publication:
   pages: 528 - 536
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/022000000/0052800536.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que forem aprovados em Assembleia da União das Freguesias
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 891 - 897
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/064000000/0089100897.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

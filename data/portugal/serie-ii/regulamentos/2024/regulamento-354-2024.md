@@ -23,6 +23,16 @@ publication:
   pages: 433 - 441
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/063000000/0043300441.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião de Câmara e em sessão de Assembleia Municipal, no dia seguinte ao da sua publicação,
+    em edital, nos meios legalmente definidos e estará disponível em www.cm-carregal.pt
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

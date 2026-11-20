@@ -23,8 +23,24 @@ publication:
   pages: 11092 - 11095
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/106000000/1109211095.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:122142324:por#art-25'
+    detail: O presente regulamento revoga o [Regulamento n.º 300/2017], publicado na 2.ª série do Diário da República n.º
+      106, de 01 de junho de 2017.
 notes: []
 language: por
 version:

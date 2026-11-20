@@ -23,6 +23,15 @@ publication:
   pages: 16252 - 16254
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/100000000/1625216254.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

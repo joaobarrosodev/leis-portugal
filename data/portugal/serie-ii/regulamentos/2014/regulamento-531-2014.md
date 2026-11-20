@@ -24,6 +24,15 @@ publication:
   pages: 29863 - 29865
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/230000000/2986329865.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º Semestre do ano letivo de 2014/2015
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

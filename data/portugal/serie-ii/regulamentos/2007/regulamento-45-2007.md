@@ -23,6 +23,15 @@ publication:
   pages: 8277 - 8278
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/062000000/0827708278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos que sejam 15 dias após a sua publicação em edital nos lugares de estilo
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

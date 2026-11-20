@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 54 - 62
   pdf_url: https://files.diariodarepublica.pt/2s/2004/07/159090000/0005400062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-01'
+entry_into_force:
+  date: '2005-01-01'
+  rule: no dia 1 de Janeiro de 2005
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

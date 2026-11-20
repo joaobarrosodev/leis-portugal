@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2581 - 2582
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/037000000/0258102582.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-02-23'
+entry_into_force:
+  date: '2005-02-23'
+  rule: no dia imediato ao da sua publicação no Diário da República, aplicando-se pela primeira vez ao cálculo e à constituição
+    da margem de solvência e do fundo de garantia relativos a 31 de Dezembro de 2004
+  method: clausula
+  article: n-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

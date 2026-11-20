@@ -23,6 +23,16 @@ publication:
   pages: 360 - 367
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/150000000/0036000367.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte à sua publicação no Diário da República, não se aplicando às reservas comprovadamente efetuadas antes
+    dessa data
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

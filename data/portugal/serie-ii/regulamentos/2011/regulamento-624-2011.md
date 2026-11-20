@@ -23,6 +23,16 @@ publication:
   pages: 47805 - 47809
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/233000000/4780547809.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2011/2012 sendo revisto pelos órgãos competentes obrigatoriamente ao fim do primeiro ano de vigência
+    e, posteriormente, com uma periodicidade máxima de 4 anos
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

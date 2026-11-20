@@ -24,6 +24,15 @@ publication:
   pages: 30430 - 30432
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/146000000/3043030432.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela comissão instaladora do IPCA, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

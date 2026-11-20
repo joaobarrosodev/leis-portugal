@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/047000000/0917509176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1332788:por#art-6'
+    detail: 2 - O presente regulamento entra em vigor no dia seguinte ao da sua publicação em Diário da República e revoga
+      o [Regulamento n.º 115/2009], de 3 de Março, publicado no Diário da República, 2.ª série, n.º 47, de 9 de Março de 2009.
 notes: []
 language: por
 version:

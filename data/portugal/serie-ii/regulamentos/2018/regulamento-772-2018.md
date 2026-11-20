@@ -23,6 +23,15 @@ publication:
   pages: 30511 - 30514
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/219000000/3051130514.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia seguinte (contados continuamente) à sua aprovação pelo órgão deliberativo do Município
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

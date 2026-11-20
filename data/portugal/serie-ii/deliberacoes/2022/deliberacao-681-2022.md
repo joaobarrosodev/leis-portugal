@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/112000000/0012700128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:212905187:por#n-15'
+    detail: d) A [Deliberação n.º 681/2022], do Conselho Diretivo do IGeFE, de 31 de maio de 2022, publicada no Diário da
+      República, 2.ª série, n.º 112, de 09 de junho de 2022.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:212905187:por'
+    detail: Revogada, a partir de 1 de fevereiro de 2023, com extinção da unidade orgânica criada, pelo(a) Deliberação n.º
+      496/2023 - Diário da República n.º 91/2023, Série II de 2023-05-11
 notes: []
 language: por
 version:

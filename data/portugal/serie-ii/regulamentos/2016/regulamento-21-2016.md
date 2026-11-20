@@ -23,6 +23,15 @@ publication:
   pages: 793 - 807
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/005000000/0079300807.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

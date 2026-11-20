@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 11134 - 11139
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/076000000/1113411139.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-23'
+entry_into_force:
+  date: '2018-04-23'
+  rule: no 5.º dia após a sua publicação no Diário da República, sendo ainda publicitado no sítio da internet do Município
+    da Batalha
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 28704 - 28706
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/195000000/2870428706.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:924051933:por#art-17'
+    detail: É revogado o [Regulamento n.º 669/2015], de 13 de maio, publicado na 2.ª série do Diário da República n.º 195,
+      de 6 de outubro.
 notes: []
 language: por
 version:

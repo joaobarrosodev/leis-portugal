@@ -24,6 +24,15 @@ publication:
   pages: 31572 - 31577
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/204000000/3157231577.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2013/2014, sendo revisto pelos órgãos competentes de 3 em 3 anos
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

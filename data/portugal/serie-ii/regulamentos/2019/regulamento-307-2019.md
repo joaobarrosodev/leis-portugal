@@ -23,6 +23,15 @@ publication:
   pages: 10347 - 10349
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/064000000/1034710349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

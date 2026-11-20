@@ -23,6 +23,16 @@ publication:
   pages: 443 - 452
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/079000000/0044300452.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia, imediatamente seguinte à publicação em edital a afixar no edifício da sede da Junta de Freguesia, publicação
+    na página oficial da Junta de freguesia e na 2.ª série do Diário da Repúblic
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 8448 - 8450
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/038000000/0844808450.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

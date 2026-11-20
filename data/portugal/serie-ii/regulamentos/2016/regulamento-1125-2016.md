@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 37758 - 37762
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/250000000/3775837762.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação no Diário da República, que terá lugar após a sua homologação
+    pela Tutela administrativa que, nos termos do n.º 5 do artigo 45.º da Lei n.º 2/2013,
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

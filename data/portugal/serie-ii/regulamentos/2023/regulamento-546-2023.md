@@ -23,6 +23,15 @@ publication:
   pages: 303 - 307
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/095000000/0030300307.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação nos termos legais, e
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: a partir do ano letivo 2023/2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

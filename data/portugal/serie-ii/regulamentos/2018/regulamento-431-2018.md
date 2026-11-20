@@ -23,6 +23,16 @@ publication:
   pages: 19470 - 19497
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/136000000/1947019497.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 (trinta) dias após a sua publicação na 2.ª série do Diário da República e revoga qualquer outro que
+    não esteja conforme às normas e princípios nele contidos
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

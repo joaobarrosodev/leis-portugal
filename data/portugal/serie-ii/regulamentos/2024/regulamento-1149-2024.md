@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 192 - 201
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/198000000/0019200201.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-12'
+entry_into_force:
+  date: '2024-10-12'
+  rule: no dia seguinte à da sua publicação no Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

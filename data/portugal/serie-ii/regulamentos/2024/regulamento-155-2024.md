@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 650 - 654
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/023000000/0065000654.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-01'
+entry_into_force:
+  date: '2024-03-01'
+  rule: no 1.º dia do mês imediato ao da sua publicação no Diário da República, nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

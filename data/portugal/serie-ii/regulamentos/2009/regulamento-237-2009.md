@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23034 - 23039
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/110000000/2303423039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-23'
+entry_into_force:
+  date: '2009-06-23'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

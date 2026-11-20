@@ -23,6 +23,16 @@ publication:
   pages: 176 - 178
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/190000000/0017600178.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2018/2019, após a sua retificação pelo órgão competente de acordo com os Estatutos da Escola
+    Superior de Educação João de Deus e devida publicitação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

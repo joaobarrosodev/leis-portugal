@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 29 - 37
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/199104000/0002900037.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-09-27'
+entry_into_force:
+  date: '2001-09-27'
+  rule: 30 dias após a sua publicação no Diário da República, 2.ª série, e, após deliberação da Assembleia Municipal de Esposende
+    que o aprovar
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

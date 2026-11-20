@@ -23,6 +23,15 @@ publication:
   pages: 5298 - 5299
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/018000000/0529805299.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a respectiva publicitação, nos termos previstos no artigo 13.º da Lei n.º 53-E/2006, de 29 de Dezembro
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

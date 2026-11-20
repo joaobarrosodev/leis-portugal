@@ -23,6 +23,15 @@ publication:
   pages: 1743 - 1749
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/011000000/0174301749.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

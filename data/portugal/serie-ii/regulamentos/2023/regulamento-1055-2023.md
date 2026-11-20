@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 323 - 360
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/192000000/0032300360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-18'
+entry_into_force:
+  date: '2023-10-18'
+  rule: 15 dias após a sua publicação em Diário de República
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

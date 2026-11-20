@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/149000000/3217632180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74931898:por#art-34'
+    detail: 1 - É revogado o [Regulamento n.º 467/2011], publicado na 2.ª série do Diário da República, n.º 149, de 4 de agosto,
+      e a Declaração de retificação n.º 1957/2011, publicada na 2.ª série do Diário da República, n.º 244, de 22 de dezembro.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 21537 - 21545
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/149000000/2153721545.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-90
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

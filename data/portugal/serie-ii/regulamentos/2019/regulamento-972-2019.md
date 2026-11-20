@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 152 - 154
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/245000000/0015200154.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-21'
+entry_into_force:
+  date: '2019-12-21'
+  rule: no dia imediato ao da sua publicação no Diário da República, com efeitos retroativos para todas as prestações de serviços
+    registadas no ano civil de 2019, nos termos do disposto no n.º 1 do artigo 141
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

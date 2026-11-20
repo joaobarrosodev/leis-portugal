@@ -23,6 +23,15 @@ publication:
   pages: 208 - 212
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/025000000/0020800212.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após ouvido o Conselho Técnico Científico e posterior aprovação pelo Conselho de Direção, só
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

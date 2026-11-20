@@ -23,6 +23,16 @@ publication:
   pages: 1430 - 1434
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/010000000/0143001434.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a respectiva publicitação, nos termos previstos no artigo 13.º da Lei n.º 53-E/2006, de
+    29 de Dezembro
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

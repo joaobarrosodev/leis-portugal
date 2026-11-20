@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 5852 - 5854
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/036000000/0585205854.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-21'
+entry_into_force:
+  date: '2019-02-21'
+  rule: no dia a seguir à sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:186995512:por#art-18'
+    detail: É revogado o [Regulamento n.º 173/2019] publicado na 2.ª série do Diário da República, n.º 36, 2.ª série, de 20
+      de fevereiro de 2019.
 notes: []
 language: por
 version:

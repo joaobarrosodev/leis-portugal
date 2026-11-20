@@ -13,6 +13,12 @@ está no 25.º). Sem reranker, a ordem é a dos níveis. Só entram pedaços cuj
 estava em vigor na data da pergunta (`desde <= data < ate`). Um código republicado
 (`texto_em_vigor_em`, p. ex. o Código do IRS do DL 442-A/88) é trocado pelo mesmo artigo
 no consolidado que tem o texto atual (a Lei n.º 82-E/2014).
+
+Um diploma citado pelo número cujo texto já não está em vigor no próprio registo (o Código Penal do
+DL 400/82, fechado pela regra das redações anteriores) responde pelo registo com o texto em vigor
+(`texto_em_vigor_em` ou `redacao_atual_em`): o mesmo artigo, ou o da mesma epígrafe quando a numeração
+mudou (`_no_texto_em_vigor`). Um registo repetido do mesmo diploma (`mesmo_diploma_em`, p. ex. a Lei
+n.º 28/82 do Tribunal Constitucional, que o DRE tem consolidada e original) é trocado pelo principal.
 """
 
 from __future__ import annotations
@@ -21,6 +27,7 @@ import re
 import sqlite3
 from dataclasses import dataclass, field
 from datetime import date
+from difflib import SequenceMatcher
 from pathlib import Path
 
 from rag import ambito as ambito_mod
@@ -52,6 +59,20 @@ AVISO_TRADUCAO = (
 CODIGOS_CANDIDATOS = 15  # candidatos do BM25 só nos códigos principais, juntos aos do reranker
 CODIGO_GRANDE = 60  # artigos, no mínimo, de uma parte para contar como código principal
 _NOME_CODIGO = re.compile(r"^(codigo|lei geral)\b")
+# Ligações de um registo ao que tem o texto em vigor (`rag.indice`, `rag.copias`) e ao registo principal do
+# mesmo diploma (`rag.duplicados`). A aplicação 0.1.1 só conhece `texto_em_vigor_em` e ignora as outras.
+LIGACOES_AO_ATUAL = ("texto_em_vigor_em", "redacao_atual_em")
+MESMO_DIPLOMA = "mesmo_diploma_em"
+# Artigos em vigor, no mínimo, para um nome de código do próprio índice («Código Cooperativo») contar
+# como citação sem estar em `rag.referencias.CODIGOS` (`Pesquisa.codigos_na_pergunta`).
+ARTIGOS_NOME_DO_INDICE = 20
+_EPIGRAFES_VAZIAS = {"", "revogado", "revogada"}
+EPIGRAFE_PARECIDA = 0.75  # no mesmo número
+EPIGRAFE_MUITO_PARECIDA = 0.9  # noutro número, e só uma
+
+
+def _parecida(a: str, b: str) -> float:
+    return SequenceMatcher(None, a, b, autojunk=False).ratio() if a and b else 0.0
 _LIGACAO = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 
 
@@ -78,6 +99,8 @@ class Resultado:
     origem: str = ""
     reranker: float | None = None
     redirecionado_de: str | None = None
+    # O número citado na pergunta, quando o texto em vigor numera o artigo de outra maneira (`_no_texto_em_vigor`).
+    numero_citado: str | None = None
     # Com o reranker por passagens: a passagem do artigo que lhe deu a nota, quando não é o início dele.
     passagem: str | None = None
     avisos: list[str] = field(default_factory=list)
@@ -142,6 +165,9 @@ class Pesquisa:
         self.candidatos = candidatos
         self.codigos_candidatos = codigos_candidatos
         self._codigos: dict[str, list[tuple[str, str]]] | None = None
+        self._codigos_soltos: dict[str, list[tuple[str, str]]] | None = None
+        self._codigo: dict[str, list[tuple[str, str]]] = {}
+        self._nomes_do_indice: re.Pattern | None | bool = False  # False: ainda por calcular
         self._principais: list[str] | None = None
         self._documentos: dict[str, dict | None] = {}
         self._jurisprudencia = None
@@ -215,7 +241,48 @@ class Pesquisa:
                 m = re.match(r"Aprova o (C[óo]digo [^,.;]+?)(?: e |,|\.|;|$)", sumario)
                 if m:
                     self._codigos.setdefault(refs_mod.nome_normalizado(m.group(1)), []).append((documento, ""))
+            # A Constituição está no «Decreto de Aprovação da Constituição», sem anexo.
+            for (documento,) in self.con.execute("SELECT id FROM documentos WHERE sumario LIKE 'Aprova a Constitui__o da Rep_blica Portuguesa%'"):
+                self._codigos.setdefault("constituicao da republica portuguesa", []).append((documento, ""))
         return self._codigos
+
+    def codigos_soltos(self) -> dict[str, list[tuple[str, str]]]:
+        """`codigos` pelo nome sem palavras de ligação (`rag.referencias.nome_solto`)."""
+        if self._codigos_soltos is None:
+            self._codigos_soltos = {}
+            for nome, pares in self.codigos().items():
+                self._codigos_soltos.setdefault(refs_mod.nome_solto(nome), []).extend(pares)
+        return self._codigos_soltos
+
+    def codigos_na_pergunta(self, pergunta: str, citados: list[str]) -> list[str]:
+        """Os nomes de códigos do próprio índice que a pergunta cita («Código Cooperativo»), além de `citados`.
+
+        Só os nomes começados por «Código» cujo texto em vigor tem pelo menos `ARTIGOS_NOME_DO_INDICE` artigos e
+        não é só pela referência: um nome novo no acervo resolve-se sem mudar `rag.referencias.CODIGOS`."""
+        if self._nomes_do_indice is False:
+            nomes = []
+            for nome in self.codigos():
+                if not nome.startswith("codigo ") or len(nome) > 150:
+                    continue
+                pares = self.codigo(nome)
+                if not pares or pares[0][0] in self.so_referencia:
+                    continue
+                if ((self.documento(pares[0][0]) or {}).get("legal_status") or "") in REVOGADO:
+                    continue
+                abertos = self.con.execute("SELECT count(*) FROM pedacos WHERE documento = ? AND parte = ? AND ate IS NULL AND numero != ''", pares[0]).fetchone()[0]
+                if abertos >= ARTIGOS_NOME_DO_INDICE:
+                    nomes.append(nome)
+            alternativas = "|".join(re.escape(n) for n in sorted(nomes, key=len, reverse=True))
+            self._nomes_do_indice = re.compile(rf"(?<!\w)({alternativas})(?!\w)") if nomes else None
+        if self._nomes_do_indice is None:
+            return []
+        ja = [refs_mod.nome_normalizado(n) for n in citados]
+        encontrados: list[str] = []
+        for m in self._nomes_do_indice.finditer(refs_mod.texto_comparavel(pergunta)):
+            nome = m.group(1)
+            if nome not in encontrados and not any(nome in c for c in ja):
+                encontrados.append(nome)
+        return encontrados
 
     def codigos_principais(self) -> list[str]:
         """Os diplomas com os códigos e leis gerais grandes em vigor (Trabalho, Civil, IRS, IVA...).
@@ -245,7 +312,10 @@ class Pesquisa:
         mais artigos em vigor nessa parte: o Código Penal no DL 48/95 e não na Lei 59/2007.
         """
         alvo = refs_mod.nome_normalizado(nome)
-        candidatos = self.codigos().get(alvo, [])
+        if alvo in self._codigo:
+            return self._codigo[alvo]
+        # «Código de Processo Penal» na pergunta e «Código do Processo Penal» no sumário do DL 78/87.
+        candidatos = self.codigos().get(alvo) or self.codigos_soltos().get(refs_mod.nome_solto(nome), [])
 
         def preferencia(par: tuple[str, str]) -> tuple:
             doc = self.documento(par[0]) or {}
@@ -253,7 +323,8 @@ class Pesquisa:
             artigos = self.con.execute("SELECT count(*) FROM pedacos WHERE documento = ? AND parte = ? AND ate IS NULL", par).fetchone()[0]
             return (estado == "in_force", estado == "partially_in_force", bool(doc.get("com_historico")), artigos)
 
-        return sorted(candidatos, key=preferencia, reverse=True)[:1]
+        self._codigo[alvo] = sorted(candidatos, key=preferencia, reverse=True)[:1]
+        return self._codigo[alvo]
 
     # ------------------------------------------------------------------ BM25
 
@@ -348,7 +419,13 @@ class Pesquisa:
             (citados.extend(ids) if ids else em_falta.append(texto))
         # Se a mesma referência deu resultado com outro tipo (p. ex. Regulamento PT e UE), não está em falta.
         em_falta = [t for t in em_falta if not any(t == texto for tipo, numero, texto in refs.diplomas if self.diplomas(tipo, numero))]
+        # O DRE tem alguns diplomas em dois registos: fica o principal (`rag.duplicados`).
+        citados = list(dict.fromkeys(self._principal(i) for i in citados))
         partes_codigo = [par for nome in refs.codigos for par in self.codigo(nome)]
+        # Um código citado que o acervo não tem (o Código Comercial) fica em falta, como um diploma.
+        em_falta += [nome for nome in refs.codigos if not self.codigo(nome)]
+        for nome in self.codigos_na_pergunta(pergunta, refs.codigos):
+            partes_codigo += [par for par in self.codigo(nome) if par not in partes_codigo]
 
         niveis: dict[int, tuple[int, float, str]] = {}  # id → (nível, pontuação, origem)
 
@@ -359,6 +436,7 @@ class Pesquisa:
 
         # 3. Referência exata ao artigo.
         alvos = [(d, None) for d in citados] + partes_codigo
+        seguidos: dict[int, tuple[str, str]] = {}  # artigo do texto em vigor → (diploma citado, número citado)
         if refs.artigos and alvos:
             for documento, parte in alvos:
                 for numero in refs.artigos:
@@ -366,12 +444,18 @@ class Pesquisa:
                         "SELECT id, parte, desde, ate FROM pedacos WHERE documento = ? AND numero = ?", (documento, numero)
                     ).fetchall()
                     linhas = [ln for ln in linhas if self._em_vigor(ln[2], ln[3], data) and (parte is None or ln[1] == parte)]
+                    if not linhas and parte is None:
+                        # O texto deste diploma já não está em vigor neste registo: responde o que o tem.
+                        for i in self._no_texto_em_vigor(documento, numero, data):
+                            seguidos.setdefault(i, (documento, numero))
+                            juntar([(i, 0.995)], 3, "referência")
+                        continue
                     # Sem código citado, o artigo do diploma (parte "") antes do dos anexos.
                     linhas.sort(key=lambda ln: ln[1] != "")
                     juntar([(ln[0], 1.0 - 0.01 * n) for n, ln in enumerate(linhas)], 3, "referência")
 
         # 2. BM25 dentro dos diplomas e códigos citados.
-        documentos_citados = list(dict.fromkeys([d for d, _ in alvos]))
+        documentos_citados = list(dict.fromkeys([d for d, _ in alvos] + [a for d in citados for a in self._atuais(d)]))
         if documentos_citados:
             juntar(self.bm25(pergunta, data, documentos=documentos_citados, limite=self.candidatos), 2, "bm25-citado")
 
@@ -402,7 +486,12 @@ class Pesquisa:
             if r is None or not self._em_vigor(r.desde, r.ate, data):
                 continue
             r.nivel, r.pontuacao, r.origem = nivel, s, origem
-            resultados.append(self._redirecionar(r, data))
+            if i in seguidos:
+                r.redirecionado_de, citado = seguidos[i]
+                r.numero_citado = citado if citado != r.numero else None
+                resultados.append(r)
+            else:
+                resultados.append(self._redirecionar(r, data))
 
         if self.reranker is not None:
             extras = dos_codigos | semanticos
@@ -454,6 +543,66 @@ class Pesquisa:
 
     # ------------------------------------------------------------------ texto em vigor e avisos
 
+    def _atuais(self, documento: str) -> list[str]:
+        """Os registos com o texto em vigor deste (`LIGACOES_AO_ATUAL`)."""
+        return list(dict.fromkeys(alvo for tipo, alvo, _, _ in self.relacoes(documento) if tipo in LIGACOES_AO_ATUAL and alvo and alvo != documento))
+
+    def _principal(self, documento: str) -> str:
+        """O registo principal de um diploma que o DRE tem duas vezes (`MESMO_DIPLOMA`); senão, o próprio."""
+        return next((alvo for tipo, alvo, _, _ in self.relacoes(documento) if tipo == MESMO_DIPLOMA and alvo), documento)
+
+    @staticmethod
+    def _epigrafe(texto: str | None) -> str:
+        return refs_mod.texto_comparavel(_sem_ligacoes(texto or "")).strip(" .()")
+
+    def _no_texto_em_vigor(self, documento: str, numero: str, data: str) -> list[int]:
+        """O artigo `numero` de `documento` no registo que tem o texto em vigor dele (`_atuais`).
+
+        O artigo antigo dá a epígrafe e a parte. Com epígrafe: o artigo do mesmo número e da mesma epígrafe; se a
+        numeração mudou, o único com essa epígrafe (o Estatuto da Ordem dos Engenheiros de 1992 e o de 2015). Se o
+        do mesmo número tem outra epígrafe e nenhum tem a mesma, nada: é outro artigo. Sem epígrafe (o Código Penal
+        de 1982 está em blocos, sem artigos), o do mesmo número, à frente o que tem epígrafe (é o do código, não o
+        do diploma que o aprova)."""
+        antigos = self.con.execute(
+            "SELECT parte, epigrafe FROM pedacos WHERE documento = ? AND numero = ? ORDER BY desde DESC, id DESC", (documento, numero)
+        ).fetchall()
+        parte, epigrafe = (antigos[0][0], self._epigrafe(antigos[0][1])) if antigos else (None, "")
+        if epigrafe in _EPIGRAFES_VAZIAS:
+            epigrafe = ""
+        for alvo in self._atuais(documento):
+            linhas = [
+                (i, p, n, self._epigrafe(e))
+                for i, p, n, e, desde, ate in self.con.execute("SELECT id, parte, numero, epigrafe, desde, ate FROM pedacos WHERE documento = ? ORDER BY id", (alvo,))
+                if n and self._em_vigor(desde, ate, data)
+            ]
+            mesmo_numero = [ln for ln in linhas if ln[2] == numero]
+            if parte is not None:
+                # O artigo de um código anexo vai para o anexo do texto em vigor; o do diploma, para o articulado.
+                mesmo_numero.sort(key=lambda ln: (bool(ln[1]) != bool(parte), ln[1] != parte))
+            if not epigrafe:
+                # Sem o artigo antigo (o IVA de 1984 está em blocos), o código está no anexo do texto em vigor.
+                mesmo_numero.sort(key=lambda ln: (ln[3] in _EPIGRAFES_VAZIAS, parte is None and not ln[1]))
+                if mesmo_numero:
+                    return [mesmo_numero[0][0]]
+                continue
+            iguais = [ln for ln in mesmo_numero if ln[3] == epigrafe]
+            if iguais:
+                return [iguais[0][0]]
+            noutro_numero = {(ln[1], ln[2]): ln[0] for ln in linhas if ln[3] == epigrafe}
+            if len(noutro_numero) == 1:
+                return list(noutro_numero.values())
+            # Epígrafe retocada («Proibição temporária da circulação…» → «… temporária ou permanente…»).
+            parecidas = [ln for ln in mesmo_numero if _parecida(ln[3], epigrafe) >= EPIGRAFE_PARECIDA]
+            if parecidas:
+                return [parecidas[0][0]]
+            notas = sorted(((_parecida(ln[3], epigrafe), (ln[1], ln[2]), ln[0]) for ln in linhas), reverse=True)
+            if notas and notas[0][0] >= EPIGRAFE_MUITO_PARECIDA and (len(notas) == 1 or notas[1][0] < EPIGRAFE_MUITO_PARECIDA):
+                return [notas[0][2]]
+            sem_epigrafe = [ln for ln in mesmo_numero if ln[3] in _EPIGRAFES_VAZIAS]
+            if sem_epigrafe and len(sem_epigrafe) == len(mesmo_numero):
+                return [sem_epigrafe[0][0]]
+        return []
+
     def _redirecionar(self, r: Resultado, data: str) -> Resultado:
         """Troca um artigo de um código republicado pelo mesmo artigo no consolidado com o texto atual."""
         alvos = [alvo for tipo, alvo, _, _ in self.relacoes(r.documento) if tipo == "texto_em_vigor_em"]
@@ -473,7 +622,7 @@ class Pesquisa:
 
     @property
     def jurisprudencia(self):
-        """As normas julgadas pelo Tribunal Constitucional (`rag.jurisprudencia`), lidas na primeira vez."""
+        """As normas julgadas pelo TC e as interpretadas pelo STJ e pelo STA (`rag.jurisprudencia`), lidas na primeira vez."""
         if self._jurisprudencia is None:
             from rag.jurisprudencia import Jurisprudencia
 
@@ -481,7 +630,7 @@ class Pesquisa:
         return self._jurisprudencia
 
     def julgamentos(self, r: Resultado) -> list[dict]:
-        """Os acórdãos do Tribunal Constitucional que julgaram este artigo (no diploma ou no republicado)."""
+        """Os acórdãos do TC que julgaram este artigo e os do STJ e do STA que o interpretaram (no diploma ou no republicado)."""
         if not r.numero:
             return []
         procurar: list[tuple[str, str | None]] = [(d, r.parte) for d in (r.documento, r.redirecionado_de) if d]
@@ -506,7 +655,15 @@ class Pesquisa:
             r.avisos.append(AVISO_TRADUCAO)
         if r.redirecionado_de:
             original = self.documento(r.redirecionado_de) or {}
-            r.avisos.append(f"Texto em vigor do diploma republicado ({original.get('titulo', r.redirecionado_de)}), no consolidado de {doc.get('titulo')}.")
+            titulo_original = original.get("titulo", r.redirecionado_de)
+            if titulo_original == doc.get("titulo"):
+                r.avisos.append(f"Texto do registo consolidado de {doc.get('titulo')} (o DRE tem outro registo do mesmo diploma, com o texto de origem).")
+            else:
+                r.avisos.append(f"Texto em vigor do diploma republicado ({titulo_original}), no consolidado de {doc.get('titulo')}.")
+            if r.numero_citado:
+                r.avisos.append(f"O artigo {r.numero_citado} de {titulo_original} é, no texto em vigor, o artigo {r.numero} (a mesma epígrafe; a numeração mudou).")
+            if original.get("legal_status") in REVOGADO:
+                r.avisos.append(f"{titulo_original} já não está em vigor (segundo o DRE); este é o artigo correspondente do texto em vigor.")
         if estado in REVOGADO or (revogacoes and estado not in ("in_force", "partially_in_force")):
             r.revogado_por = [alvo for alvo, _, _ in revogacoes]
             if revogacoes:

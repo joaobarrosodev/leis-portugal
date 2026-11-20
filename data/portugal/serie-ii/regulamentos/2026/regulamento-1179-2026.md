@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 372 - 376
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/184000000/0037200376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-23'
+entry_into_force:
+  date: '2026-09-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, retroagindo os seus efeitos a 1 de janeiro de 2026, com
+    a ressalva do previsto no artigo 141.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

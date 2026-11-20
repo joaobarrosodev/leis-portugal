@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 284 - 289
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/106000000/0028400289.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-01'
+entry_into_force:
+  date: '2023-06-01'
+  rule: após a sua publicação do Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 27149 - 27151
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/148000000/2714927151.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-02'
+entry_into_force:
+  date: '2012-08-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75038434:por#art-21'
+    detail: '[Regulamento n.º 314/2012], publicado no Diário da República, 2.ª série, n.º 148, de 1 de agosto de 2012.'
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 243 - 254
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/094000000/0024300254.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-16'
+entry_into_force:
+  date: '2023-05-16'
+  rule: após a publicação na 2.ª série do Diário da República, retroagindo os seus efeitos à data de aprovação pela Assembleia
+    Municipal
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

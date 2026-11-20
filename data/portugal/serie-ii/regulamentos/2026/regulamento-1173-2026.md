@@ -23,6 +23,16 @@ publication:
   pages: 348 - 354
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/180000000/0034800354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar no edifício da sede da Junta de Freguesia de
+    São Bento e publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

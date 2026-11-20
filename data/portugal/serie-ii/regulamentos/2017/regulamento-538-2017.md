@@ -24,6 +24,15 @@ publication:
   pages: 22914 - 22919
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/195000000/2291422919.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias a contar da data da sua publicitação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

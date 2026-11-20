@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 37762 - 37768
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/250000000/3776237768.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-31'
+entry_into_force:
+  date: '2016-12-31'
+  rule: no dia imediato ao da sua publicação no Diário da República e é aplicável aos processos que se iniciem após essa data
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:889626375:por#art-72'
+    detail: É revogado o [Regulamento n.º 1126/2016] (Regulamento Disciplinar) publicado no Diário da República, 2.ª série,
+      n.º 250, 30 de dezembro de 2016.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:877328131:por#art-66'
+    detail: É revogado o [Regulamento n.º 1126/2016] (Regulamento Disciplinar) publicado no Diário da República, 2.ª série
+      - N.º 250 - 30 de dezembro de 2016.
 notes: []
 language: por
 version:

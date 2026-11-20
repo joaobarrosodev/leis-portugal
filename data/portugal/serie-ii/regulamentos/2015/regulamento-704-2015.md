@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 29570 - 29572
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/201000000/2957029572.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-15'
+entry_into_force:
+  date: '2015-10-15'
+  rule: 'no dia seguinte à publicação do edital, relativo à sua aprovação pelos órgãos competentes, no Diário da República,
+    publicitando-se o seu conteúdo no endereço eletrónico do Município em: http://www.cm-'
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 82 - 97
   pdf_url: https://files.diariodarepublica.pt/2s/2000/11/269158000/0008200097.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal e posterior publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

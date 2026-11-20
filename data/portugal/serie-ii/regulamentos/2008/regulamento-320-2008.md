@@ -23,6 +23,15 @@ publication:
   pages: 26485 - 26490
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/115000000/2648526490.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação em Edital afixado nos lugares de estilo
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

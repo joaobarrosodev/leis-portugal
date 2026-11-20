@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 222 - 231
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/108000000/0022200231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-06'
+entry_into_force:
+  date: '2024-06-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: '2023-09-01'
+  effects_rule: desde 01 de setembro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

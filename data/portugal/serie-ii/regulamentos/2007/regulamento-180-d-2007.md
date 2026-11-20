@@ -23,6 +23,15 @@ publication:
   pages: 22512-(56) a 22512-(66)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/151000002/0005600066.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias seguidos após a publicação por edital da respectiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

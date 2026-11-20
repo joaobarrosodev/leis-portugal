@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/246000000/0026100262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:923486406:por#art-14'
+    detail: O presente Regulamento revoga o [Regulamento n.º 1099/2020], publicado no Diário da República, 2.º série, n.º
+      246, de 21 de dezembro de 2020.
 notes: []
 language: por
 version:

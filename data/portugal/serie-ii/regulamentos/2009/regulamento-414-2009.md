@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 42031 - 42052
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/201000000/4203142052.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-21'
+entry_into_force:
+  date: '2009-10-21'
+  rule: 5 dias após a sua publicação em edital
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

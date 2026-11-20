@@ -23,6 +23,15 @@ publication:
   pages: 284 - 312
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/018000000/0028400312.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à publicação no Diário da República
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

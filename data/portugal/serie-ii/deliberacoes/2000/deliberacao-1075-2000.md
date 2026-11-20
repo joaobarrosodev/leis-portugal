@@ -23,6 +23,15 @@ publication:
   pages: 13810 - 13812
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/193000000/1381013812.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2000-2001, a partir de 1 de Setembro
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

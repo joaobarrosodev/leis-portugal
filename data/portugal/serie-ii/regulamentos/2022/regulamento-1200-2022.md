@@ -23,6 +23,16 @@ publication:
   pages: 298 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/249000000/0029800300.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Câmara Municipal de Óbidos e pela Assembleia Municipal de Óbidos e depois de publicado no Diário
+    da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 57 - 80
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/040022000/0005700080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dia após a sua publicação na 2.ª série do Diário da República, nos termos legais
+  method: clausula
+  article: art-100
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

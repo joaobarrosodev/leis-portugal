@@ -23,6 +23,15 @@ publication:
   pages: 70 - 74
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/211112000/0007000074.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a data da sua aplicação nos termos legais
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

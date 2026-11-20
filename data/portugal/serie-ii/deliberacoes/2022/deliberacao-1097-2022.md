@@ -24,6 +24,16 @@ publication:
   pages: 46 - 52
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/198000000/0004600052.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação no Diário da República ficando nessa data revogado o anterior
+    Regulamento previsto no Despacho n.º 11473/2010, publicado na 2.ª série, do Diário da
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

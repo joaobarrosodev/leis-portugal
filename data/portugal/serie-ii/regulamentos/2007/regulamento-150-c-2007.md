@@ -23,6 +23,15 @@ publication:
   pages: 131 - 134
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/133000002/0013100134.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após aprovação pela Assembleia Municipal e publicitação por meio de editais a afixar nos locais de estilo
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

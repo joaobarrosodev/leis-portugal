@@ -23,6 +23,15 @@ publication:
   pages: 25796 - 25797
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/182000000/2579625797.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à sua aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

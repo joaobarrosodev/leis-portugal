@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 19422 - 19446
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/139000000/1942219446.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-25'
+entry_into_force:
+  date: '2015-07-25'
+  rule: cinco dias após a sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:902986211:por#art-7'
+    detail: O presente Regulamento revoga o [Regulamento n.º 420/2015], (Atos de Engenharia por Especialidade da Ordem dos
+      Engenheiros), publicado no Diário da República, 2.ª série - N.º 139 - 20 de julho de 2015.
 notes: []
 language: por
 version:

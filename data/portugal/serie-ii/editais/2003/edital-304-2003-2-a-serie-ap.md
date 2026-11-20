@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 42 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2003/04/085057000/0004200050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-10'
+entry_into_force:
+  date: '2003-05-10'
+  rule: 30 dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

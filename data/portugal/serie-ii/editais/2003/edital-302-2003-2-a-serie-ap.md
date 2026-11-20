@@ -23,6 +23,15 @@ publication:
   pages: 5 - 16
   pdf_url: https://files.diariodarepublica.pt/2s/2003/04/085057000/0000500016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias seguidos após a publicação edital da respectiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

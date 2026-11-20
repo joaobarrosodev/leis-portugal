@@ -23,6 +23,15 @@ publication:
   pages: 586 - 608
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/156000000/0058600608.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 30 dias a publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

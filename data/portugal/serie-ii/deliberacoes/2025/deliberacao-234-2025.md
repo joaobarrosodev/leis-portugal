@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 128 - 131
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/034000000/0012800131.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-01'
+entry_into_force:
+  date: '2025-03-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação no Diário da República e é publicada na página eletrónica do
+    INFARMED, I
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

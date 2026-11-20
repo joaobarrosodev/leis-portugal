@@ -23,6 +23,16 @@ publication:
   pages: 753 - 757
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/014000000/0075300757.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação definitiva no Diário da República, nos termos conjugados nos artigos 139.º e
+    140.º do Código do Procedimento Administrativo, na sua atual redação e vigorará por t
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

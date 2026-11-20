@@ -23,6 +23,15 @@ publication:
   pages: 6045 - 6047
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/048000000/0604506047.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação no ano letivo de 2014-15
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

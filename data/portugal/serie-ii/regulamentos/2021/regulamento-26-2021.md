@@ -23,6 +23,15 @@ publication:
   pages: 419 - 422
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/005000000/0041900422.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do décimo quinto dia contado da data da respetiva publicação feita nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

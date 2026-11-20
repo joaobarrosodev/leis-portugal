@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 531 - 536
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/119000000/0053100536.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-09'
+entry_into_force:
+  date: '2025-07-09'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

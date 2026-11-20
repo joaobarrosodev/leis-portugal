@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 309 - 324
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/032000000/0030900324.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-19'
+entry_into_force:
+  date: '2025-02-19'
+  rule: no 5.º dia seguinte ao da sua publicação na 2.ª série do Diário da República, nos termos do artigo 139.º e 140.º do
+    Código do Procedimento Administrativo
+  method: clausula
+  article: art-23
+  effects_date: '2025-02-19'
+  effects_rule: no 5.º dia seguinte ao da sua publicação na 2.ª série do Diário da República, nos termos do artigo 139.º e
+    140.º do Código do Procedimento Administrativo
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

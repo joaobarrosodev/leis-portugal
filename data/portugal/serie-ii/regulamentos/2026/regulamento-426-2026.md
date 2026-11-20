@@ -23,6 +23,16 @@ publication:
   pages: 646 - 650
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/080000000/0064600650.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República, com efeitos de retroativos a data de 01
+    de janeiro de 2026
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

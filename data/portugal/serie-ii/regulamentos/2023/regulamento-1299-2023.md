@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 287 - 306
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/235000000/0028700306.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-07'
+entry_into_force:
+  date: '2023-12-07'
+  rule: no primeiro dia seguinte ao da sua publicação na página oficial eletrónica do Município de Santa Marta de Penaguião,
+    em www.cm-smpenaguiao.pt
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

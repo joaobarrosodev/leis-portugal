@@ -23,6 +23,15 @@ publication:
   pages: 39878 - 39882
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/142000000/3987839882.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos quinze dias sobre a sua publicação, nos termos legais
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

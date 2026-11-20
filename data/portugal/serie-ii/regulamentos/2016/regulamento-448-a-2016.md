@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14900-(2) a 14900-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/091000001/0000200005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-12'
+entry_into_force:
+  date: '2016-05-12'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República e no sítio institucional do Município da Guarda
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

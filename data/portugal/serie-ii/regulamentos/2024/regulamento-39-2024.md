@@ -23,6 +23,15 @@ publication:
   pages: 331 - 334
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/011000000/0033100334.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, vigorando por tempo indeterminado até nova alteração
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

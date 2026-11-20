@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16147 - 16157
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/069000000/1614716157.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-04-12'
+entry_into_force:
+  date: '2011-04-12'
+  rule: cinco dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

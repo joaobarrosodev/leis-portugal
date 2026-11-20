@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 427 - 439
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/098000000/0042700439.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-21'
+entry_into_force:
+  date: '2021-05-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

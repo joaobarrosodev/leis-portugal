@@ -23,6 +23,16 @@ publication:
   pages: 402 - 415
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/116000000/0040200415.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente a seguir ao término do prazo de 30 dias a que se refere o artigo 118.º do Código do Procedimento
+    Administrativo, se nenhuma sugestão for apresentada em sede de apreciação púb
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

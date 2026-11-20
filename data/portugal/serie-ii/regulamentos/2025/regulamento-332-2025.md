@@ -23,6 +23,15 @@ publication:
   pages: 315 - 318
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/051000000/0031500318.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua homologação em reunião da direção nacional e divulgação nos meios de comunicação oficiais da Ordem
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

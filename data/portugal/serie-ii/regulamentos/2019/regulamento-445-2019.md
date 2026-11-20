@@ -23,6 +23,16 @@ publication:
   pages: 15813 - 15816
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/097000000/1581315816.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 5 dias após aprovação da Assembleia de Freguesia e a respetiva publicação em edital a afixar no edifício da sede
+    da Freguesia de Branca
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

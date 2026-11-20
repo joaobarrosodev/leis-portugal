@@ -23,6 +23,15 @@ publication:
   pages: 13784 - 13785
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/103000000/1378413785.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

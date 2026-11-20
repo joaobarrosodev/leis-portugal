@@ -23,6 +23,15 @@ publication:
   pages: 42171 - 42174
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/204000000/4217142174.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: passados 15 dias da sua publicação no Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

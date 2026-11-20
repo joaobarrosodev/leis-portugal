@@ -23,6 +23,15 @@ publication:
   pages: 139 - 142
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/178000000/0013900142.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º semestre do ano letivo de 2022/2023, após homologação pelo Presidente do ISCSP - ULisboa
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

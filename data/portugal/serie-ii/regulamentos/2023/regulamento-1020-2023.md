@@ -24,6 +24,15 @@ publication:
   pages: 170 - 173
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/179000000/0017000173.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação e no dia útil imediato ao da sua publicação em Diário de República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 113 - 116
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/243000000/0011300116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-19'
+entry_into_force:
+  date: '2023-12-19'
+  rule: à data da sua publicação e aplica-se aos resultados desportivos de excelência alcançados no ano letivo da sua aprovação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14845 - 14852
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/137000000/1484514852.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-19'
+entry_into_force:
+  date: '2017-07-19'
+  rule: no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

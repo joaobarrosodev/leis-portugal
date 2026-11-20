@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 123 - 128
   pdf_url: https://files.diariodarepublica.pt/2s/2024/09/176000000/0012300128.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-12'
+entry_into_force:
+  date: '2024-09-12'
+  rule: no dia seguinte ao da sua publicação na página eletrónica da Ordem
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

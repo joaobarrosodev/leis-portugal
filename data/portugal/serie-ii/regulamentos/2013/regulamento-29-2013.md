@@ -23,6 +23,15 @@ publication:
   pages: 2665 - 2667
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/013000000/0266502667.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez dias úteis após a sua publicação em Boletim Municipal
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

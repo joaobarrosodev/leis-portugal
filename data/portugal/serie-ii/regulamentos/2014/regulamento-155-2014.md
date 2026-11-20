@@ -23,6 +23,16 @@ publication:
   pages: 10094 - 10098
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/071000000/1009410098.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar na sede da junta de freguesia de Cadaval e
+    Pêro Moniz
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

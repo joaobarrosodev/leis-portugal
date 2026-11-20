@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 369 - 373
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/065000000/0036900373.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-02'
+entry_into_force:
+  date: '2020-04-02'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

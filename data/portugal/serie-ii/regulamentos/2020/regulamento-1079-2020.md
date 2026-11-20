@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 160 - 176
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/240000000/0016000176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-12'
+entry_into_force:
+  date: '2020-12-12'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

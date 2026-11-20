@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 48061 - 48063
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/228000000/4806148063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-25'
+entry_into_force:
+  date: '2009-11-25'
+  rule: no dia seguinte à sua publicação no Diário da República e
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: a partir do ano lectivo 2009-2010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

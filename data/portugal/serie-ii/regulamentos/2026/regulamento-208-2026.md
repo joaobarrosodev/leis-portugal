@@ -23,6 +23,15 @@ publication:
   pages: 354 - 368
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/043000000/0035400368.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia imediatamente seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

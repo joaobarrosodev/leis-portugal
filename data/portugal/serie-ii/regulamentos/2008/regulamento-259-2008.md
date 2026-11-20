@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21952 - 21953
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/094000000/2195221953.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-30'
+entry_into_force:
+  date: '2008-05-30'
+  rule: 15 dias após a sua publicação em Edital
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

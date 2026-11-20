@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 537 - 540
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/116000000/0053700540.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-23'
+entry_into_force:
+  date: '2026-06-23'
+  rule: 5 dias após a sua publicação, nos termos da lei
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

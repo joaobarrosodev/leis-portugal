@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30871 - 30871
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/148000000/3087130871.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-08-04'
+entry_into_force:
+  date: '2009-08-04'
+  rule: no dia seguinte ao da sua publicação no site do INFARMED, I
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

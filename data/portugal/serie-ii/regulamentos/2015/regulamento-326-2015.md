@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15385 - 15389
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/112000000/1538515389.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-01'
+entry_into_force:
+  date: '2015-07-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

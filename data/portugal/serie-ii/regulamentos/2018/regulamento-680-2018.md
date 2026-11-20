@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 27955 - 27960
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/200000000/2795527960.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-18'
+entry_into_force:
+  date: '2018-10-18'
+  rule: no dia seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:876627975:por#art-31'
+    detail: O presente regulamento revoga o [Regulamento n.º 680/2018], publicado no Diário da República, 2.ª série, n.º 200,
+      de 17 de outubro de 2018, Regulamento Municipal de ação social escolar.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:906176304:por#art-31'
+    detail: O presente regulamento revoga o [Regulamento n.º 680/2018], publicado no Diário da República, 2.ª série n.º 200
+      de 17 de outubro de 2018, Regulamento Municipal de Ação Social Escolar.
 notes: []
 language: por
 version:

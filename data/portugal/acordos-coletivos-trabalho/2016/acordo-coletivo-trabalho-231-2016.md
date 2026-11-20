@@ -23,7 +23,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/regtrab/2016/10/17/75533133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:217571970:por'
+    detail: Revogado, no que às partes outorgantes respeita, pelo Contrato Colectivo de Trabalho n.º 279/2023
 notes: []
 language: por
 version:

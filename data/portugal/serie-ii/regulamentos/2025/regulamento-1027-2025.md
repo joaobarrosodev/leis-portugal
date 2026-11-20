@@ -23,6 +23,16 @@ publication:
   pages: 291 - 319
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/161000000/0029100319.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após a sua publicação no Diário da República, sem prejuízo da disponibilização ao público no
+    sítio institucional do Município
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 378 - 381
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/004000000/0037800381.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pelo Conselho de Ação Social dos SASIPC e homologação pelo Presidente do IPC, com
+    publicação na página eletrónica dos respetivos serviços, sem prejuízo de posterior pub
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

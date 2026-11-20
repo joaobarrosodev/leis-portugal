@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 7694 - 7697
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/079000000/0769407697.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-22'
+entry_into_force:
+  date: '2017-04-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: '2017-12-31'
+  end_rule: a 31 de dezembro de 2017, aplicando-se aos contratos administrativos já celebrados
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-16'
+    detail: a 31 de dezembro de 2017, aplicando-se aos contratos administrativos já celebrados
 notes: []
 language: por
 version:

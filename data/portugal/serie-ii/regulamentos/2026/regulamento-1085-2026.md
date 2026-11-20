@@ -23,6 +23,15 @@ publication:
   pages: 508 - 526
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/155000000/0050800526.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes e a respetiva publicação nos termos legais
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

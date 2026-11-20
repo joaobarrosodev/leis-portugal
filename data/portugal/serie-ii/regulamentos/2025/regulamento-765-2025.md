@@ -24,6 +24,15 @@ publication:
   pages: 629 - 637
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/121000000/0062900637.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: de imediato e
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2025/2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

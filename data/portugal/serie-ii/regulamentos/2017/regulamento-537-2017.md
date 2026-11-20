@@ -23,6 +23,15 @@ publication:
   pages: 22901 - 22906
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/195000000/2290122906.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias úteis após a sua publicitação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

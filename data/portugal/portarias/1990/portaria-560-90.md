@@ -31,11 +31,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2001-01-20'
+  consolidation_date: '2026-08-07'
 version_history:
   file: portaria-560-90.versoes.json
-  count: 2
-  source_lastmod: '2026-10-02'
+  count: 3
+  source_lastmod: '2026-10-23'
   versions:
   - date: '1990-08-31'
     amending: pt:dre:546242:por
@@ -49,6 +49,11 @@ version_history:
     changes:
     - Revoga Artigo 9
     - Revoga Anexo II
+  - date: '2026-08-07'
+    amending: pt:dre:1154555261:por
+    amending_title: Portaria n.º 328/2026/1
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: null
@@ -63,19 +68,19 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1078850975
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1078850975
-  retrieved_at: '2026-10-22T13:58:31Z'
+  retrieved_at: '2026-11-20T13:48:50Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-10-02T00:00:00Z'
+  source_modified_at: '2026-10-23T00:00:00Z'
 integrity:
-  source_sha256: 7c763583b80eceef46297eca1747d066f13a0565d25279a098decfb7f2b50d0f
+  source_sha256: 6665a9da6caa5f8d363ed0a1864c055b663483c8463365b0fbf89457fc749538
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:58:31Z'
-  notes: 2 versão(ões); histórico completo em portaria-560-90.versoes.json.
+  generated_at: '2026-11-20T13:48:50Z'
+  notes: 3 versão(ões); histórico completo em portaria-560-90.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -98,6 +103,11 @@ relationships:
   label: Revoga Artigo 9; Revoga Anexo II
   source: https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580
   date: '2001-01-15'
+- type: amended_by
+  target: pt:dre:1154555261:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261
+  date: '2026-08-06'
 article_structure:
   article_count: 20
   section_count: 10
@@ -107,7 +117,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:58:31Z'
+  checked_at: '2026-11-20T13:48:50Z'
   warnings: []
   errors: []
 ---
@@ -124,13 +134,7 @@ Assim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Ju
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º É aprovado o Regulamento da Pesca na Ria Formosa, que, com os seus anexos, faz parte integrante da presente portaria.
-
-2.º O Regulamento da Pesca na Ria Formosa entra em vigor 60 dias após a publicação da presente portaria.
-
-3.º Por foça do disposto no artigo 60.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, deixam de ter aplicação as disposições do edital relativas à pesca na zona delimitada no artigo 2.º do regulamento aprovado por esta portaria a partir da sua entrada em vigor.
-
-Ministério da Agricultura, Pescas e Alimentação.
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### 1.º
 
@@ -138,31 +142,49 @@ Ministério da Agricultura, Pescas e Alimentação.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### 2.º
 
 O Regulamento da Pesca na Ria Formosa entra em vigor 60 dias após a publicação da presente portaria.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### 3.º
 
 3.º Por foça do disposto no artigo 60.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, deixam de ter aplicação as disposições do edital relativas à pesca na zona delimitada no artigo 2.º do regulamento aprovado por esta portaria a partir da sua entrada em vigor.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
 Assinada em 3 de Julho de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ## Anexo — Regulamento da Pesca na Ria de Formosa
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 1.º — Objecto
 
 O presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na ria Formosa, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 2.º — Zona da aplicação
 
 1 - A zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da zona lagunar da ria Formosa, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição das Capitanias dos Portos de Faro, Olhão, Tavira e Vila Real de Santo António.
 
 2 - Na zona lagunar referida no n.º 1 engolobam-se as águas públicas constituídas pelos regatos, esteiros, canais, barras e suas entradas, todos os fundos, quer permanentemente submersos, quer emersos por acção das marés, e os sapais e parchais, mesmo que permanentemente emersos.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 3.º — Classificação da pesca
 
@@ -172,9 +194,15 @@ a) Pesca comercial, quando as espécies capturadas se destinam a ser objecto de 
 
 b) Pesca desportiva, quando praticada com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ### Capítulo II — Pesca comercial
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 #### Secção I — Artes de pesca
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 4.º — Artes de pesca autorizadas
 
@@ -200,17 +228,25 @@ g) Cana de pesca e linha de mão.
 
 3 - A descrição e características das artes referidas no n.º 2 constam do anexo I.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 > Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31.
 
 #### Secção II — Exercício da pesca
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 5.º — Quem pode exercer a pesca
 
 A pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 6.º — Embarcações autorizadas
 
 Só são autorizadas a exercer a pesca na zona as embarcações de pesca local de convés aberto caracterizadas pelo n.º 2 do artigo 67.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 7.º — Condicionamentos ao exercício da pesca
 
@@ -276,11 +312,15 @@ a) É proibida a pesca nos seguintes locais:
 
 3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto no presente artigo, bem como no caso de abandono de artes na água, deverá desses factos ser dado conhecimento imediato à Capitania do Porto.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 8.º — Períodos de defeso
 
 1 - Os períodos de defeso para cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da Direcção-Geral das Pescas (DGP), instruída com parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvidas as capitanias dos portos com jurisdição na zona.
 
 2 - Dentro das épocas hábeis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 9 — Tamanhos mínimos
 
@@ -292,21 +332,33 @@ Os exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas
 
 A captura de isco das espécies vulgarmente designadas por salsicha (Sipunculus nudus) e rufião (Ammodytes tobianus e Hyperophus lanceolatus) só pode ser efectuada pelas embarcações referidas no artigo 6.º do presente Regulamento.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 11.º — Dados e informações
 
 Os mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e dar cumprimento ao preenchimento dos registos de actividade que a referida legislação imponha.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 #### Secção III — Sinalização e identificação das artes
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 12.º — Sinalização das artes
 
 As artes fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 13.º — Identificação das artes
 
 Para fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo, seu proprietário, até à data da entrada em vigor do presente Regulamento.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ### Capítulo III — Pesca desportiva
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 14.º — Exercício da pesca
 
@@ -320,19 +372,29 @@ Para fins de identificação, as artes de pesca de uma embarcação devem ser ma
 
 5 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos, bem como observadas as limitações impostas pelos regulamentos da Reserva Natural da Ria Formosa.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 15.º — Caça submarina
 
 Na zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina).
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ### Capítulo IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ###### Artigo 16.º — Regime contra-ordenacional
 
 Às infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.
 
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
+
 ###### Artigo 17.º — Outra legislação aplicável
 
 Sem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87, de 17 de Julho, e, no que respeita à pesca desportiva, as do Decreto n.º 45116, de 6 de Julho de 1963.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 ## Anexo I — Descrição e características das artes autorizadas
 
@@ -419,6 +481,8 @@ Número máximo de aparelhos por embarcação:
 Para caranguejo e camarão - 40;
 
 Para búzios - 300.
+
+> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 328/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/328-2026-1154555261), em vigor a partir de 2026-08-07.
 
 > Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31.
 

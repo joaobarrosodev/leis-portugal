@@ -23,6 +23,16 @@ publication:
   pages: 428 - 433
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/027000000/0042800433.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação definitiva em sessão da Assembleia Municipal e posterior publicação no Diário da República,
+    revogando o anteriormente em vigor
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

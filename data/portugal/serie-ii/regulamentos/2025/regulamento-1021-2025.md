@@ -23,6 +23,15 @@ publication:
   pages: 348 - 370
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/160000000/0034800370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo sexto dia útil seguinte ao da publicação no Diário da República
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

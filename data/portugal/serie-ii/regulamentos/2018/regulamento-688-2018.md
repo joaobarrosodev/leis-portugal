@@ -23,6 +23,15 @@ publication:
   pages: 28098 - 28103
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/201000000/2809828103.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais e revoga o anterior sobre a mesma matéria
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

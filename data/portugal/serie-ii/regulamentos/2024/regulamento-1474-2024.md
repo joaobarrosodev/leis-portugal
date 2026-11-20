@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 684 - 702
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/248000000/0068400702.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-12-24'
+entry_into_force:
+  date: '2024-12-24'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

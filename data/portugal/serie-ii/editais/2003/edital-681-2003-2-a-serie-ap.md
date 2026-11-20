@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22 - 27
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/199132000/0002200027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-13'
+entry_into_force:
+  date: '2003-09-13'
+  rule: 15 dias após publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

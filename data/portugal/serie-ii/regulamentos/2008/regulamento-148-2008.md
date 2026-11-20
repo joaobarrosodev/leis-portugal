@@ -23,6 +23,16 @@ publication:
   pages: 13469 - 13471
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/061000000/1346913471.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado em reunião do CLAS de Vila Nova de Foz Côa e, posteriormente, remetido à Assembleia Municipal para
+    aprovação e publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

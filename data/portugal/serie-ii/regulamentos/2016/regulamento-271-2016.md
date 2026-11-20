@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9189 - 9195
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/052000000/0918909195.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-30'
+entry_into_force:
+  date: '2016-03-30'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

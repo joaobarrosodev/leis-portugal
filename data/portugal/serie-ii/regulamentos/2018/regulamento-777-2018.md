@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 30741 - 30757
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/221000000/3074130757.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-11-17'
+entry_into_force:
+  date: '2018-11-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

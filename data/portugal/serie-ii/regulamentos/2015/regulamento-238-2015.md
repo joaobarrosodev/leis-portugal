@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/091000000/1175211755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107668090:por#art-36'
+    detail: b) [Regulamento n.º 238/2015], publicado no Diário da República, 2.ª série, de 12 de maio de 2015
 notes: []
 language: por
 version:

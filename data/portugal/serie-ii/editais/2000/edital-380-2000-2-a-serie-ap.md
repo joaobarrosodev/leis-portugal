@@ -23,6 +23,15 @@ publication:
   pages: 7 - 8
   pdf_url: https://files.diariodarepublica.pt/2s/2000/09/214133000/0000700008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de decorridos 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

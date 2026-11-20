@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2024-11-19'
+  consolidation_date: '2026-11-15'
 version_history:
   file: resolucao-conselho-ministros-58-2023.versoes.json
-  count: 2
-  source_lastmod: '2024-11-18'
+  count: 3
+  source_lastmod: '2026-11-11'
   versions:
   - date: '2023-06-14'
     amending: null
@@ -57,6 +57,11 @@ version_history:
     amending_title: Resolução do Conselho de Ministros n.º 166/2024
     changes:
     - Altera 6.º
+    - Altera Anexo II
+  - date: '2026-11-15'
+    amending: pt:dre:1193730361:por
+    amending_title: Resolução do Conselho de Ministros n.º 221/2026
+    changes:
     - Altera Anexo II
 identifiers:
   celex: null
@@ -72,19 +77,19 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2023/p/cons/20241118/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2023-896834947
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2023-896834947
-  retrieved_at: '2026-10-22T13:19:31Z'
+  retrieved_at: '2026-11-20T13:50:56Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-11-18T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: d7c14369601390029b9e683df30d897b33ce99a72534070c0c07a8fb1acdf2bb
+  source_sha256: 5a96a8f3ed46f42a2c909c1c80984b7ff3a18c616184a746d757fe11b7992c25
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:19:31Z'
-  notes: 2 versão(ões); histórico completo em resolucao-conselho-ministros-58-2023.versoes.json.
+  generated_at: '2026-11-20T13:50:56Z'
+  notes: 3 versão(ões); histórico completo em resolucao-conselho-ministros-58-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,6 +115,11 @@ relationships:
   label: Altera 6.º; Altera Anexo II
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902
   date: '2024-11-18'
+- type: amended_by
+  target: pt:dre:1193730361:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361
+  date: '2026-11-10'
 - type: cites
   target: pt:dre:178845:por
   label: null
@@ -135,7 +145,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:19:31Z'
+  checked_at: '2026-11-20T13:50:56Z'
   warnings: []
   errors: []
 ---
@@ -216,10 +226,26 @@ Nota. - Aos valores indicados acresce IVA à taxa legal em vigor.
 
 ## Anexo II — (a que se referem os n.os 1, 3, 5 e 6)
 
-ANEXO II [...] [...]
+Estimativa orçamental e escalonamento plurianual - Instalação afeta à Polícia Judiciária
 
-Nota. - Aos valores indicados acresce IVA à taxa legal em vigor. [...]
+| Área geográfica de intervenção | Projetos | Anos | Total |  |
+| --- | --- | --- | --- | --- |
+| 2025 | 2026 |  |  |  |
+| Norte | Departamento de Investigação Criminal de Braga | 3 811 818,78 € | 2 510 761,22 € | 6 322 580,00 € |
 
 Nota. - Aos valores indicados acresce IVA à taxa legal em vigor.
+
+Fontes de financiamento e escalonamento plurianual
+
+| Fontes de financiamento | Anos | Total |  |
+| --- | --- | --- | --- |
+| 2025 | 2026 |  |  |
+| Receitas próprias da Polícia Judiciária | 2 192 465,84 € | 1 564 263,22 € | 3 756 729,06 € |
+| Fundo Ambiental - Plano de Recuperação e Resiliência (PRR) | 1 619 352,94 € | 946 498,00 € | 2 565 850,94 € |
+| Total | 3 811 818,78 € | 2 510 761,22 € | 6 322 580,00 € |
+
+Nota. - Aos valores indicados acresce IVA à taxa legal em vigor.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 221/2026 - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361), em vigor a partir de 2026-11-15, com efeitos a partir de 2026-11-05.
 
 > Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 166/2024 - Diário da República n.º 223/2024, Série I de 2024-11-18](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902), em vigor a partir de 2024-11-19

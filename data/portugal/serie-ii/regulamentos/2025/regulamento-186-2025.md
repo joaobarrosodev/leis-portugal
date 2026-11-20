@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 757 - 770
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/022000000/0075700770.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-01'
+entry_into_force:
+  date: '2025-01-01'
+  rule: 1 de janeiro de 2025
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

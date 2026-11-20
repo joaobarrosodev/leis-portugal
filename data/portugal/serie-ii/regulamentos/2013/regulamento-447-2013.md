@@ -24,6 +24,15 @@ publication:
   pages: 34514 - 34515
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/228000000/3451434515.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o concurso de acesso, ano letivo 2013/2014
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

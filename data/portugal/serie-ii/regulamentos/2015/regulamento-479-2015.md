@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21072 - 21074
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/147000000/2107221074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-14'
+entry_into_force:
+  date: '2015-08-14'
+  rule: no 15.º dia após a publicação em edital da respetiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

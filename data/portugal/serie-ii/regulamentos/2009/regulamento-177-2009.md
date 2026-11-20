@@ -23,6 +23,16 @@ publication:
   pages: 17372 - 17378
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/084000000/1737217378.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua publicitação nos termos legais, revogando qualquer outro que não esteja conforme às normas e princípios
+    nele contidos
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

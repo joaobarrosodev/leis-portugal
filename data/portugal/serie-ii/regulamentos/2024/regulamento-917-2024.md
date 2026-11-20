@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 188 - 192
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/158000000/0018800192.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-01'
+entry_into_force:
+  date: '2025-04-01'
+  rule: em 1 de abril de 2025, no início do mandato 2025-2028
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

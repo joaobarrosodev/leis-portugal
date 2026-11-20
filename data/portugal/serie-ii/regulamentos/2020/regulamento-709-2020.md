@@ -23,6 +23,16 @@ publication:
   pages: 346 - 354
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/166000000/0034600354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco (5) dias a contar da aprovação pela Câmara Municipal de Tondela do cadastro de toponímia e número
+    de polícia atualmente existente no concelho de Tondela
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 209 - 222
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/048000000/0020900222.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação do Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

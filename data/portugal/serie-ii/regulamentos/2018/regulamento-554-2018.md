@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22724 - 22732
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/157000000/2272422732.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-15'
+entry_into_force:
+  date: '2018-09-15'
+  rule: 30 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

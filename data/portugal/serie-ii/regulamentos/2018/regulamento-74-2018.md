@@ -23,6 +23,15 @@ publication:
   pages: 3416 - 3426
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/020000000/0341603426.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do 5.º dia útil após a sua publicação no Diário da República
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

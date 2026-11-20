@@ -23,6 +23,16 @@ publication:
   pages: 487 - 489
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/055000000/0048700489.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia de Freguesia de Corroios, afixado nos devidos lugares públicos para o efeito e publicação
+    no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

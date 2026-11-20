@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 362 - 378
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/125000000/0036200378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-03'
+entry_into_force:
+  date: '2025-07-03'
+  rule: no dia seguinte a sua publicação no Diário da República operando, na mesma data, a revogação do código anterior
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

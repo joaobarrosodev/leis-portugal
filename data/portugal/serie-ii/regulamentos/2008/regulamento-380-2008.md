@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30852 - 30861
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/133000000/3085230861.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-01'
+entry_into_force:
+  date: '2008-08-01'
+  rule: no dia 1 de Agosto de 2008, considerando-se revogados os artigos artigo 28.º e 83.º do Regulamento e Tabela de Taxas
+    e Licenças, relativos às tarifas e taxas de limpeza de fossas e saneamento respecti
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

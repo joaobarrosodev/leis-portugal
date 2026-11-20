@@ -23,6 +23,15 @@ publication:
   pages: 5 - 6
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/202105000/0000500006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação, pelas entidades financiadoras, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

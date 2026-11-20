@@ -23,6 +23,16 @@ publication:
   pages: 224 - 229
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/164000000/0022400229.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação em Conselho Intermunicipal e publicitação no sítio institucional da CIM Região
+    de Coimbra
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

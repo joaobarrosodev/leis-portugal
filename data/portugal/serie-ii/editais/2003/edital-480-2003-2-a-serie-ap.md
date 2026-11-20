@@ -23,6 +23,15 @@ publication:
   pages: 100 - 103
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/145095000/0010000103.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação do executivo
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

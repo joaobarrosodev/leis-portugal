@@ -24,6 +24,15 @@ publication:
   pages: 13011 - 13014
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/094000000/1301113014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do 2.º mês seguinte ao da sua publicitação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 15133 - 15136
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/094000000/1513315136.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

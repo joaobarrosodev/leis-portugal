@@ -23,6 +23,15 @@ publication:
   pages: 478 - 481
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/026000000/0047800481.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à devida aprovação pelo Órgão Deliberativo desta Autarquia
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

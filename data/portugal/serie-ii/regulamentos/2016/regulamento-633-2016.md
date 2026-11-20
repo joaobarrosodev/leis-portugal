@@ -23,6 +23,16 @@ publication:
   pages: 20993 - 20994
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/130000000/2099320994.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação e cessa automaticamente com o término das Comemorações dos 500 anos do Foral
+    Manuelino à Vila de Arruda, em dezembro de 2017
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

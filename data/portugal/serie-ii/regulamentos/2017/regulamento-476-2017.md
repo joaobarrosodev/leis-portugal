@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 19683 - 19691
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/172000000/1968319691.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-09-07'
+entry_into_force:
+  date: '2017-09-07'
+  rule: no dia seguinte ao da sua publicação no Portal Municipal, com publicitação nos editais consuetudinários, sem prejuízo
+    da sua publicação no BdE
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

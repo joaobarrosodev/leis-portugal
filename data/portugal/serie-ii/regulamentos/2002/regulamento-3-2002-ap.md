@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 103 - 109
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/167094000/0010300109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-06'
+entry_into_force:
+  date: '2002-08-06'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

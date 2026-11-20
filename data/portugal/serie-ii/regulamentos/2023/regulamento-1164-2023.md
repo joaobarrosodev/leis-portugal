@@ -23,6 +23,15 @@ publication:
   pages: 398 - 409
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/209000000/0039800409.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-24
+  effects_date: '2023-04-03'
+  effects_rule: a 3 de abril de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

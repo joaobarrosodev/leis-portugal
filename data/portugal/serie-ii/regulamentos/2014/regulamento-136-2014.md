@@ -24,6 +24,15 @@ publication:
   pages: 9218 - 9218
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/067000000/0921809218.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2014-2015, sendo garantida a sua publicação na página Web da FCT-UNL
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

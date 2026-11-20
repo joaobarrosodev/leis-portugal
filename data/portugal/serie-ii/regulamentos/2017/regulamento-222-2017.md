@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8045 - 8047
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/082000000/0804508047.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-28'
+entry_into_force:
+  date: '2017-04-28'
+  rule: no dia seguinte ao da sua publicação nos locais de estilo e no site da internet do Município
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

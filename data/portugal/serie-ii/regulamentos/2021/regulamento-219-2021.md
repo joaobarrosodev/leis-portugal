@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 320 - 326
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/049000000/0032000326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-26'
+entry_into_force:
+  date: '2021-03-26'
+  rule: no prazo de 15 dias após a sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

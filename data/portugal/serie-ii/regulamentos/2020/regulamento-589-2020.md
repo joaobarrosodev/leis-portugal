@@ -23,6 +23,15 @@ publication:
   pages: 319 - 325
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/137000000/0031900325.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

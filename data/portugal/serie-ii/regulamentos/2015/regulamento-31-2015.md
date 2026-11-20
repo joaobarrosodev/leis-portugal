@@ -23,8 +23,24 @@ publication:
   pages: 2631 - 2633
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/018000000/0263102633.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pela Assembleia Municipal e publicitado nos termos legais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:206767413:por#art-3'
+    detail: É revogado o [Regulamento n.º 31/2015], publicada no Diário da República, 2.ª série, n.º 18, de 27 de janeiro
+      de 2015.
 notes: []
 language: por
 version:

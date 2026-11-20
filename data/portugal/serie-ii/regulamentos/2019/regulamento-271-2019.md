@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/059000000/0916509168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:925410094:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 271/2019], publicado no Diário da República, 2.ª série, n.º 59
+      de 25 de março de 2019.
 notes: []
 language: por
 version:

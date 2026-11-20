@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 504 - 512
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/144000000/0050400512.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-29'
+entry_into_force:
+  date: '2026-07-29'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

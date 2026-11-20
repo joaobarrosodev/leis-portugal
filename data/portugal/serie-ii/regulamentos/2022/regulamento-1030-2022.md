@@ -24,6 +24,15 @@ publication:
   pages: 272 - 280
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/206000000/0027200280.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após a sua aprovação, sem prejuízo da publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: a partir do ano letivo 2022-2023, inclusive
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

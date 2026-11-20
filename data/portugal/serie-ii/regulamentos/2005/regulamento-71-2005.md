@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14138 - 14139
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/189000000/1413814139.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-10-01'
+entry_into_force:
+  date: '2005-10-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

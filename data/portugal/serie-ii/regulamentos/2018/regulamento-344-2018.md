@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16189 - 16193
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/110000000/1618916193.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-23'
+entry_into_force:
+  date: '2018-06-23'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

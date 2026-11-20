@@ -3,7 +3,7 @@
  "id": "pt:dre:411608:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34583975",
  "dre_path": "/dr/detalhe/decreto-lei/117-a-2012-411608",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-11",
  "versions": [
   {
    "date": "2012-06-14",
@@ -254,6 +254,61 @@
     "53273875",
     "53273975",
     "53274075",
+    "1127136475",
+    "993022484",
+    "993022485",
+    "993022486",
+    "993022487",
+    "53274575"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1190056897:por",
+     "title": "Decreto-Lei n.º 207/2026",
+     "published": "2026-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2026-1190056897"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "53271275",
+    "53271375",
+    "898157538",
+    "839651282",
+    "839651283",
+    "898157539",
+    "839651285",
+    "898157540",
+    "839651287",
+    "898157541",
+    "898157542",
+    "839651290",
+    "1191276175",
+    "1191276375",
+    "1191276475",
+    "1191276575",
+    "53272675",
+    "53272775",
+    "898157543",
+    "53272975",
+    "53273075",
+    "53273175",
+    "898157544",
+    "53273375",
+    "53273475",
+    "53273575",
+    "53273675",
+    "53273775",
+    "53273875",
+    "53273975",
+    "1190133775",
     "1127136475",
     "993022484",
     "993022485",
@@ -756,6 +811,50 @@
     "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2025-992627242), em vigor a partir de 2025-12-25"
    ],
    "markdown": "###### Artigo 24.º-A — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.\n\n1 - Aos trabalhadores em cedência de interesse público na ESPAP, I. P., à data da entrada em vigor dos diplomas que estabelecem a reorganização dos seus serviços de origem, incluindo os reafetos àquela entidade na sequência destes processos de reorganização, continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo-se as cedências de interesse público até ao seu termo.\n\n2 - Atenta a equiparação a entidade pública empresarial prevista nos artigos 1.º e 1.º-A, a ESPAP, I. P., pode celebrar acordos de cedência de interesse público com trabalhadores detentores de contrato de trabalho em funções públicas, com vínculo à ESPAP, I. P., nos termos previstos nos artigos 241.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, para desempenho de funções em carreira prevista no regulamento de Carreiras da ESPAP, I. P.\n\n3 - A celebração de quaisquer acordos de cedência de interesse público que prevejam remunerações superiores às que resultariam do artigo 4.º do Decreto-Lei n.º 80/2025, de 22 de maio, com as necessárias adaptações, carecem das autorizações legais aplicáveis.\n\n4 - O previsto no número anterior não prejudica a manutenção do vínculo de emprego público nem a possibilidade de conversão definitiva prevista no Decreto-Lei n.º 80/2025, de 22 de maio.\n\n> Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2025-992627242), em vigor a partir de 2025-12-25"
+  },
+  "1191276175": {
+   "fragment_id": "1191276075",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Cargos dirigentes intermédios",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 9.º-A — Cargos dirigentes intermédios\n\n1 - Atenta a equiparação da ESPAP, I. P., a entidade pública empresarial, nos termos do n.º 3 do artigo 1.º e do artigo 1.º-A, os titulares de cargos de direção intermédia são contratados em regime de comissão de serviço, conforme previsto no Código do Trabalho.\n\n2 - A definição da remuneração dos cargos dirigentes da ESPAP, I. P., está sujeita aos seguintes limites máximos:\n\na) Para o cargo de diretor, até 75 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;\n\nb) Para o cargo de coordenador, até 65 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;\n\nc) Para o cargo de chefe de equipa, até 50 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.\n\n3 - Os limites definidos no número anterior englobam todas as componentes remuneratórias.\n\n4 - Os titulares de cargos dirigentes podem optar pela retribuição base e respetivos suplementos inerentes às funções desempenhadas na categoria de origem, mediante autorização prévia conferida por deliberação do conselho diretivo.\n\n> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1191276375": {
+   "fragment_id": "37861575",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - A ESPAP, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A ESPAP, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto da venda de publicações e outros bens;\n\nc) As doações, heranças ou legados;\n\nd) As comparticipações, transferências, subsídios ou donativos concedidos por quaisquer entidades de direito público ou privado, nacionais ou estrangeiras;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - As receitas referidas no número anterior são consignadas à realização de despesas da ESPAP, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.\n\n4 - A ESPAP, I. P., é remunerada no âmbito do SNCP, nos termos definidos em portaria do membro do Governo da tutela.\n\n5 - As receitas da atividade da ESPAP, I. P., decorrentes dos serviços prestados no âmbito do PVE obedecem aos parâmetros igualmente definidos em portaria do membro do Governo da tutela."
+  },
+  "1191276475": {
+   "fragment_id": "37861675",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas da ESPAP, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "1191276575": {
+   "fragment_id": "37861775",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património da ESPAP, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "1190133775": {
+   "fragment_id": "37862975",
+   "type": 11,
+   "heading": "Artigo 24.º — Mapas de pessoal",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 24.º — Mapas de pessoal\n\nA ESPAP, I. P., elabora nos termos legais, os mapas de pessoal correspondentes às necessidades inerentes à prossecução das respetivas atribuições e competências, tendo em conta os regimes laborais aplicáveis aos seus trabalhadores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
   }
  }
 }

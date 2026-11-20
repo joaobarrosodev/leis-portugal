@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 52167 - 52175
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/205000000/5216752175.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-21'
+entry_into_force:
+  date: '2010-10-21'
+  rule: na data da respectiva publicação, considerando-se revogado o regulamento anterior
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

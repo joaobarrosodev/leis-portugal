@@ -23,6 +23,15 @@ publication:
   pages: 302 - 316
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/196000000/0030200316.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinze dias úteis ao da sua publicitação no Diário da República, após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

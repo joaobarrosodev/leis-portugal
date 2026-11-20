@@ -23,6 +23,15 @@ publication:
   pages: 273 - 279
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/171000000/0027300279.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação em Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

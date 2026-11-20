@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 37178 - 37185
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/253000000/3717837185.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-12-31'
+entry_into_force:
+  date: '2013-12-31'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 11592 - 11597
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/078000000/1159211597.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-21'
+entry_into_force:
+  date: '2018-04-21'
+  rule: 'no primeiro dia após a sua publicação no Diário da República, nos termos do disposto no artigo 139.º do Código de
+    Procedimento Administrativo, sem prejuízo de tal publicação poder ser feita também na '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

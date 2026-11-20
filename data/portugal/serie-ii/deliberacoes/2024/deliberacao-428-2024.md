@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/065000000/0015100151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1041120997:por#n-3'
+    detail: 3 - Por força da presente deliberação considera-se revogada a [Deliberação n.º 428/2024], de 2 de abril.
 notes: []
 language: por
 version:

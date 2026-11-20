@@ -23,6 +23,15 @@ publication:
   pages: 521 - 536
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/155000000/0052100536.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: até dez dias úteis após publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

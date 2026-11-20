@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7189 - 7191
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/027000000/0718907191.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-02-09'
+entry_into_force:
+  date: '2011-02-09'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

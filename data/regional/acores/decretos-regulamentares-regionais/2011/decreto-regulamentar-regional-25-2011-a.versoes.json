@@ -1,0 +1,910 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146201:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-169252089",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/25-2011-146201",
+ "source_lastmod": "2026-11-18",
+ "versions": [
+  {
+   "date": "2011-11-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169252066",
+    "169252067",
+    "169252068",
+    "169252069",
+    "169252071",
+    "169252072",
+    "169252073",
+    "169252074",
+    "169256475",
+    "169256476",
+    "169256477",
+    "169256478",
+    "169256479",
+    "169256480",
+    "169256481",
+    "169256482",
+    "169256483",
+    "169256484",
+    "169256485",
+    "169256486",
+    "169256487",
+    "169256488",
+    "169256489",
+    "169256490",
+    "169256491",
+    "169256492",
+    "169256493",
+    "169256494",
+    "169256495",
+    "169256496",
+    "169256497",
+    "169256498",
+    "169256499",
+    "169256500",
+    "169256501",
+    "169256502",
+    "169256503",
+    "169256504",
+    "169256505",
+    "169256506",
+    "169256507",
+    "169256508",
+    "169256509",
+    "169256510",
+    "169256511",
+    "169256512",
+    "169256513",
+    "169256514",
+    "169256515",
+    "169256516",
+    "169256517",
+    "169256518",
+    "169256519",
+    "169256520",
+    "169256521",
+    "169256522",
+    "169256523",
+    "169256524",
+    "169256525",
+    "169256526",
+    "169256527",
+    "169256528",
+    "169256529",
+    "169256530",
+    "169256531",
+    "169256532",
+    "169256533",
+    "169256534",
+    "169256535",
+    "169256536",
+    "169256537",
+    "169256538",
+    "169256539",
+    "169256540",
+    "169256541",
+    "169256542",
+    "169256543",
+    "169256544",
+    "169256545",
+    "169256546",
+    "169256547",
+    "169256548",
+    "169256549",
+    "169256550",
+    "169256551",
+    "169256552",
+    "169256553",
+    "169256554",
+    "169256555",
+    "169256556",
+    "169256557",
+    "169256558",
+    "169256559",
+    "169256560",
+    "169256561",
+    "169256562",
+    "169256563",
+    "169256564",
+    "169256565"
+   ]
+  }
+ ],
+ "fragments": {
+  "169252066": {
+   "fragment_id": "169252090",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "169252067": {
+   "fragment_id": "169252091",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovada a orgânica da Secretaria Regional da Educação e Formação, constante do anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "169252068": {
+   "fragment_id": "169252092",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nPelo presente diploma são revogados:\n\na) Os artigos 1.º a 27.º, 44.º a 65.º, 98.º a 101.º, 103.º e 122.º a 124.º do anexo ao Decreto Regulamentar Regional n.º 2/2007/A, de 30 de Janeiro, na redacção actual;\n\nb) O Decreto Regulamentar Regional n.º 17/2007/A, de 21 de Agosto."
+  },
+  "169252069": {
+   "fragment_id": "169252093",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "169252071": {
+   "fragment_id": "169252095",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "169252072": {
+   "fragment_id": "169252096",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão e atribuições"
+  },
+  "169252073": {
+   "fragment_id": "169252097",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Secretaria Regional da Educação e Formação, adiante abreviadamente designada por SREF, é o departamento governamental que propõe e executa a política do Governo Regional dos Açores nos sectores da educação e do desporto."
+  },
+  "169252074": {
+   "fragment_id": "169252098",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão e no correcto desenvolvimento do sistema educativo, são atribuições da SREF:\n\na) Garantir o direito à educação e ao desporto;\n\nb) Definir, promover e avaliar a execução das políticas relativas às áreas da educação, do ensino, da acção social escolar, da educação artística e de apoio e fomento ao desporto;\n\nc) Definir, promover e avaliar a execução das políticas de educação e formação profissional e do sistema de reconhecimento, validação e certificação de competências na Região Autónoma dos Açores, em articulação com o departamento do Governo responsável pelas áreas do emprego e da formação profissional;\n\nd) Definir as competências do currículo regional e aprovar as orientações programáticas para a sua concretização;\n\ne) Promover a inovação educacional e o desenvolvimento e a utilização das tecnologias de informação e de comunicação no âmbito do sistema educativo;\n\nf) Gerir os recursos humanos, materiais e financeiros afectos ao sistema educativo;\n\ng) Promover a formação e qualificação profissional dos recursos humanos afectos ao sistema educativo;\n\nh) Estabelecer os regimes de recrutamento e de desenvolvimento das carreiras do sistema educativo;\n\ni) Elaborar e executar a carta escolar e administrar a rede escolar;\n\nj) Promover a realização de estudos e a produção, tratamento, difusão da informação sobre a organização e o funcionamento do sistema educativo;\n\nk) Regular o sistema educativo, nomeadamente, acompanhando, auditando e controlando a actividade das unidades orgânicas, dos órgãos e serviços e demais estruturas que o integram, com vista à garantia da qualidade do sistema e à salvaguarda dos interesses legítimos de todos os que o integram."
+  },
+  "169256475": {
+   "fragment_id": "169252099",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do Secretário Regional\n\nCompete ao Secretário Regional da Educação e Formação:\n\na) Representar a SREF;\n\nb) Propor e fazer executar a política de educação, de formação profissional e do desporto;\n\nc) Dirigir e coordenar a actuação dos directores regionais e outros dirigentes dos serviços que estão na sua directa dependência;\n\nd) Orientar superiormente toda a acção da SREF e exercer as demais competências previstas na lei."
+  },
+  "169256476": {
+   "fragment_id": "169252100",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "169256477": {
+   "fragment_id": "169252101",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\n1 - A SREF prossegue as suas atribuições através dos seguintes órgãos e serviços centrais integrados na administração directa da Região:\n\na) Consultivos:\n\nI) Conselho Coordenador do Sistema Educativo (CCSE);\n\nII) Conselho Açoriano para o Desporto de Alto Rendimento (CADAR);\n\nIII) Conselho Regional do Desporto Escolar (CRDE);\n\nb) Executivos:\n\nI) Divisão de Apoio Técnico-Administrativo (DATA);\n\nII) Divisão de Documentação e Estatística (DDE);\n\nIII) Núcleo de Informática e Telecomunicações (NIT);\n\nIV) Observatório de Segurança Escolar (OSE);\n\nV) Direcção Regional da Educação e Formação (DREF);\n\nVI) Direcção Regional do Desporto (DRD);\n\nc) Inspectivo:\n\nI) Inspecção Regional da Educação (IRE).\n\n2 - As estruturas orgânicas dos órgãos previstos na alínea a) constam de diploma próprio."
+  },
+  "169256478": {
+   "fragment_id": "169252102",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços periféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços periféricos\n\nSão serviços executivos periféricos integrados na SREF, e funcionando na dependência do director regional do Desporto, os serviços de desporto das ilhas de São Miguel, Terceira, Faial, Santa Maria, Pico, São Jorge, Graciosa, Flores e Corvo."
+  },
+  "169256479": {
+   "fragment_id": "169252103",
+   "type": 11,
+   "heading": "Artigo 6.º — Fundos autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fundos autónomos\n\n1 - Constitui fundo autónomo integrado na SREF o Fundo Regional do Desporto.\n\n2 - A natureza, as atribuições e a orgânica do Fundo Regional do Desporto constam de diploma próprio."
+  },
+  "169256480": {
+   "fragment_id": "169252104",
+   "type": 11,
+   "heading": "Artigo 7.º — Colaboração funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colaboração funcional\n\nOs órgãos e serviços funcionam em estreita cooperação e interligação funcional, com vista à plena execução das políticas regionais, na prossecução dos respectivos objectivos, atribuições e competências, designadamente na elaboração comum de projectos e programas de investigação e desenvolvimento."
+  },
+  "169256481": {
+   "fragment_id": "169252105",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura de missão e equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estrutura de missão e equipas de projecto\n\n1 - Podem ser criados grupos de trabalho e equipas de projectos, nos termos da legislação aplicável, sempre que a natureza dos objectivos a alcançar o aconselhe e o Secretário Regional julgue necessário.\n\n2 - A realização de estudos, projectos e outros trabalhos específicos pode ser confiada, mediante contrato e de acordo com o disposto na lei, a entidades de reconhecida competência."
+  },
+  "169256482": {
+   "fragment_id": "169252106",
+   "type": 1,
+   "heading": "Capítulo III — Serviços e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços e órgãos"
+  },
+  "169256483": {
+   "fragment_id": "169252107",
+   "type": 8,
+   "heading": "Secção I — Serviços executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços executivos"
+  },
+  "169256484": {
+   "fragment_id": "169252108",
+   "type": 3,
+   "heading": "Subsecção I — Divisão de Apoio Técnico-Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão de Apoio Técnico-Administrativo"
+  },
+  "169256485": {
+   "fragment_id": "169252109",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza e missão\n\n1 - A DATA é um serviço de estudo, planeamento e organização que tem por missão apoiar os órgãos e serviços centrais da SREF nos domínios da gestão dos recursos humanos, financeiros e patrimoniais e ainda assegurar a execução dos serviços de carácter administrativo.\n\n2 - Compete à DATA, designadamente:\n\na) Assessorar o Secretário Regional, fornecendo as análises, informações e elementos necessários à definição, coordenação e execução da actividade da SREF;\n\nb) Elaborar projectos de diplomas legais e regulamentares bem como de actos que devam ser praticados pelo Secretário Regional ou pelos membros do seu Gabinete e de protocolos ou acordos em que seja parte a Secretaria Regional;\n\nc) Apreciar e normalizar os projectos de diploma que lhe sejam submetidos a parecer;\n\nd) Elaborar o plano de gestão previsional de pessoal;\n\ne) Promover, coordenar e acompanhar a realização e execução dos planos anuais de actividades da SREF e a elaboração dos respectivos relatórios de actividades;\n\nf) Promover em colaboração com os restantes organismos e serviços da SREF, na definição das principais opções em matéria orçamental, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, nomeadamente quanto aos planos anuais de investimento, as orientações de médio prazo e orçamentos de funcionamento;\n\ng) Assegurar a elaboração de propostas de orçamento e de outros instrumentos de planificação financeira, orçamental e patrimonial;\n\nh) Controlar e acompanhar a execução dos planos de investimentos dos organismos e serviços da SREF;\n\ni) Acompanhar e avaliar a execução material e financeira dos programas, projectos e restantes medidas políticas da SREF, incluindo a elaboração e difusão dos correspondentes resultados;\n\nj) Assegurar a execução dos orçamentos sob a sua responsabilidade, garantindo todos os procedimentos técnicos, administrativos e contabilísticos de acordo com princípios de boa gestão e com as disposições legais aplicáveis;\n\nk) Instruir os processos relativos a despesas resultantes dos orçamentos sob a sua responsabilidade e informar quanto à sua legalidade e cabimento, bem como efectuar processamentos, liquidações e pagamentos;\n\nl) Proceder à análise permanente da evolução da execução dos orçamentos da SREF, prestando informações periódicas que permitam o seu controlo, fixando, nomeadamente, as regras de reporte e respectivo procedimento;\n\nm) Promover, colaborar e acompanhar a implementação, execução e desenvolvimento de sistemas nas áreas da qualidade e da avaliação de desempenho no âmbito da SREF;\n\nn) Estudar e propor a operacionalização das medidas decorrentes da integração europeia nas matérias de competência da SREF, mantendo um registo dos assuntos pertinentes;\n\no) Assegurar a gestão e segurança dos recursos materiais, patrimoniais e logísticos, incluindo o acesso aos edifícios e instalações;\n\np) Coordenar os trabalhos de conservação e reparação dos imóveis onde estão instalados os órgãos e serviços dependentes da SREF;\n\nq) Emitir pareceres e informações sobre assuntos da sua área de competência;\n\nr) Coordenar e dirigir as secções que integram a Divisão.\n\n3 - Compete ainda à DATA organizar as propostas de plano de investimentos e de orçamento da SREF, de acordo com as propostas apresentadas pelas direcções regionais e demais serviços dependentes, e comunicá-lo às entidades competentes, bem como acompanhar a respectiva execução.\n\n4 - Integram a DATA a Secção de Pessoal, Expediente e Arquivo e a Secção de Contabilidade.\n\n5 - A DATA é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n6 - Para além das funções gerais de coordenação do funcionamento da Divisão, compete ao chefe de divisão, cargo de direcção intermédia de 2.º grau, certificar os actos que integram processos existentes na DATA e exercer as funções notariais previstas na lei."
+  },
+  "169256486": {
+   "fragment_id": "169252110",
+   "type": 11,
+   "heading": "Artigo 10.º — Secção de Pessoal, Expediente e Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo\n\n1 - Compete à Secção de Pessoal, Expediente e Arquivo, nomeadamente:\n\na) Assegurar os procedimentos relativos à selecção, recrutamento, provimento, acolhimento, promoção, progressão, mobilidade, exoneração e aposentação de pessoal, entre outros;\n\nb) Organizar e manter actualizada a informação relativa aos recursos humanos da SREF, nomeadamente o respectivo balanço social, cadastro e registo biográfico do pessoal;\n\nc) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e gestão corrente nas áreas de apoio logístico;\n\nd) Receber, registar, classificar, distribuir e assegurar a expedição da correspondência;\n\ne) Organizar e manter actualizado o arquivo, tendo em vista a boa conservação e a fácil consulta dos documentos;\n\nf) Proceder ao controlo de assiduidade e pontualidade do pessoal e zelar pelo cumprimento da legislação em matéria de férias, faltas e licenças;\n\ng) Emitir certidões;\n\nh) Coordenar o trabalho do pessoal que lhe é afecto;\n\ni) Assegurar a abertura e encerramento das instalações.\n\n2 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um coordenador técnico."
+  },
+  "169256487": {
+   "fragment_id": "169252111",
+   "type": 11,
+   "heading": "Artigo 11.º — Secção de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Secção de Contabilidade\n\n1 - Compete à Secção de Contabilidade, designadamente:\n\na) Elaborar a proposta de orçamento do Gabinete do Secretário Regional;\n\nb) Organizar o projecto de orçamento, de acordo com as propostas dos serviços;\n\nc) Assegurar o processamento das remunerações e outros abonos do pessoal, bem como organizar e instruir os processos relativos às prestações sociais;\n\nd) Efectuar os procedimentos necessários à aquisição de bens e serviços e encargos diversos, efectuadas por conta dos orçamentos dos serviços e processar as despesas efectuadas;\n\ne) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\nf) Assegurar as operações contabilísticas;\n\ng) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efectuada e a evolução verificada nas despesas;\n\nh) Zelar pela manutenção, conservação limpeza e segurança do património afecto aos órgãos e serviços dependentes da SREF, bem como uma adequada distribuição dos bens consumíveis e bens de equipamento pelos utilizadores;\n\ni) Coordenar a gestão do parque automóvel;\n\nj) Organizar e manter actualizado o cadastro dos bens móveis e imóveis;\n\nk) Emitir certidões;\n\nl) Coordenar o trabalho do pessoal que lhe é afecto.\n\n2 - A Secção de Contabilidade é dirigida por um coor-denador técnico."
+  },
+  "169256488": {
+   "fragment_id": "169252112",
+   "type": 3,
+   "heading": "Subsecção II — Divisão de Documentação e Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Divisão de Documentação e Estatística"
+  },
+  "169256489": {
+   "fragment_id": "169252113",
+   "type": 11,
+   "heading": "Artigo 12.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza e missão\n\n1 - A DDE é um serviço de estudo, planeamento e organização que tem por missão apoiar os órgãos e serviços centrais da SREF nos domínios da documentação e da estatística.\n\n2 - Compete designadamente à DDE:\n\na) Estudar, desenvolver e proceder à aplicação de uma estrutura de indicadores de gestão, tendo em vista o planeamento, a condução e a avaliação da política educativa, em articulação com o NIT;\n\nb) Promover a recolha de indicadores de gestão, bem como o seu tratamento, análise e divulgação;\n\nc) Proceder à necessária articulação com os serviços dependentes da SREF na recolha de dados estatísticos;\n\nd) Promover a constituição e a actualização da informação, com a utilização de suporte tecnológico, que permita a disponibilização da informação relevante da secretaria no Portal do Governo Regional;\n\ne) Promover, coordenar e acompanhar a aplicação de medidas de aperfeiçoamento organizacional e de modernização administrativa no âmbito da SREF;\n\nf) Promover a uniformização de critérios de organização, gestão e classificação da documentação dos diversos serviços da SREF;\n\ng) Estudar e propor a implementação de técnicas de simplificação, modernização e racionalização dos circuitos e procedimentos administrativos da SREF;\n\nh) Organizar e manter actualizado um centro de documentação e apoio aos serviços dependentes da SREF;\n\ni) Proceder à divulgação de circulares, instruções ou outras normas de carácter genérico destinadas aos serviços dependentes da SREF;\n\nj) Prestar apoio a todos os serviços da SREF no âmbito das suas competências;\n\nk) Assegurar a edição de publicações de interesse para os sistemas educativo e desportivo.\n\n3 - As direcções regionais e respectivos serviços dependentes cooperam com a DDE na normalização e gestão da informação e documentação de que sejam detentores ou responsáveis.\n\n4 - A DDE é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256490": {
+   "fragment_id": "169252114",
+   "type": 3,
+   "heading": "Subsecção III — Núcleo de Informática e Telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Núcleo de Informática e Telecomunicações"
+  },
+  "169256491": {
+   "fragment_id": "169252115",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e missão\n\n1 - O NIT é um serviço que tem por missão apoiar os órgãos e serviços centrais da SREF nos domínios da informática e das telecomunicações.\n\n2 - Compete ao NIT, designadamente:\n\na) Coordenar os serviços de informática e telecomunicações da SREF e seus serviços dependentes, em articulação com as políticas globais seguidas para a administração regional;\n\nb) Administrar, gerir e manter a arquitectura dos sistemas de informação e as infra-estruturas dos vários sistemas informáticos e comunicações;\n\nc) Conceber, implementar e coordenar a execução de projectos de informatização, respeitantes ao sistema de informação da SREF;\n\nd) Estudar e desenvolver uma estrutura de indicadores de gestão, determinando, em tempo real, os respectivos valores em articulação com a DDE;\n\ne) Analisar sistematicamente a evolução do sistema de informação e propor soluções adequadas;\n\nf) Proceder ao estudo das aplicações susceptíveis de serem informatizadas e efectuar as respectivas análises funcionais, desenvolvimento e testes de aceitação;\n\ng) Estudar as inovações tecnológicas e dinamizar a sua divulgação;\n\nh) Assegurar o correcto funcionamento e a manutenção dos sistemas e equipamentos informáticos e das comunicações da SREF, realizando a gestão das redes e dos recursos tecnológicos que lhe estejam afectos;\n\ni) Propor a aquisição de equipamentos e sistemas tendo em conta a evolução das tecnologias e as necessidades dos serviços, bem como promover a correcta manutenção, actualização e utilização do material existente;\n\nj) Apoiar tecnicamente os utilizadores do sistema informático e propor a definição de normas de utilização do mesmo;\n\nk) Prestar o apoio necessário às escolas no sentido de concretizar a respectiva modernização administrativa, em especial no que concerne à utilização de meios informáticos e a respectiva ligação ao sistema de informação da SREF;\n\nl) Articular com os diferentes serviços da SREF o tipo e a forma de acesso à informação, processada em função das atribuições de cada serviço.\n\n3 - O NIT é coordenado pelo trabalhador designado para o efeito através de despacho do Secretário Regional da Educação e Formação, sendo-lhe aplicável o disposto no artigo 7.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "169256492": {
+   "fragment_id": "169252116",
+   "type": 3,
+   "heading": "Subsecção IV — Observatório de Segurança Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Observatório de Segurança Escolar"
+  },
+  "169256493": {
+   "fragment_id": "169252117",
+   "type": 11,
+   "heading": "Artigo 14.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Natureza e missão\n\n1 - O OSE é um serviço executivo na dependência do Gabinete do Secretário Regional da Educação e Formação, ao qual compete, nomeadamente:\n\na) Proceder à recolha e ao tratamento da informação relativa às situações de indisciplina e de violência nas escolas;\n\nb) Conceber, implementar e desenvolver procedimentos de monitorização e de acompanhamento de medidas promotoras da segurança escolar;\n\nc) Produzir um plano tipo, a ser generalizado em todas as escolas com as devidas adaptações;\n\nd) Emitir recomendações e medidas que visem o reforço da segurança escolar;\n\ne) Difundir boas práticas desenvolvidas pelas escolas para o reforço da segurança escolar;\n\nf) Realizar estudos globais e estudos de caso relativos à segurança em meio escolar;\n\ng) Apresentar anualmente o relatório de segurança escolar.\n\n2 - Os elementos que compõem o OSE e o respectivo regime de funcionamento são fixados por despacho do Secretário Regional da Educação e Formação.\n\n3 - O OSE é coordenado pelo trabalhador designado para o efeito através de despacho do Secretário Regional da Educação e Formação, sendo-lhe aplicável o disposto no artigo 7.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "169256494": {
+   "fragment_id": "169252118",
+   "type": 3,
+   "heading": "Subsecção V — Direcções regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Direcções regionais"
+  },
+  "169256495": {
+   "fragment_id": "169252119",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências dos directores regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências dos directores regionais\n\n1 - Cada direcção regional é dirigida por um director regional, cargo de direcção superior de 1.º grau, ao qual compete:\n\na) Coadjuvar o Secretário Regional no exercício das suas competências;\n\nb) Praticar os actos da sua competência própria ou delegada;\n\nc) Coordenar a actividade dos órgãos e serviços que integram as respectivas direcções regionais;\n\nd) Orientar os serviços dependentes da SREF nas suas áreas de competência.\n\n2 - Os directores regionais podem delegar ou subdelegar competências nos dirigentes sob sua dependência hierárquica."
+  },
+  "169256496": {
+   "fragment_id": "169252120",
+   "type": 3,
+   "heading": "Subsecção VI — Direcção Regional da Educação e Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VI — Direcção Regional da Educação e Formação"
+  },
+  "169256497": {
+   "fragment_id": "169252121",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza e missão\n\nA Direcção Regional da Educação e Formação, adiante designada por DREF, é o serviço executivo da SREF, com funções de concepção, orientação, coordenação e avaliação do sistema educativo."
+  },
+  "169256498": {
+   "fragment_id": "169252122",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\n1 - À DREF compete, nomeadamente:\n\na) Assegurar a execução da política definida para o sistema educativo e o bom funcionamento da rede escolar;\n\nb) Programar e promover o desenvolvimento do sistema educativo regional;\n\nc) Promover o desenvolvimento curricular e a adequação do sistema educativo à especificidade da Região;\n\nd) Promover e acompanhar a avaliação do sistema educativo e das escolas;\n\ne) Coordenar, acompanhar e propor orientações relativamente ao ensino artístico na Região;\n\nf) Promover actividades de apoio ao desporto escolar;\n\ng) Assegurar o funcionamento da escolarização de segunda oportunidade nas suas várias modalidades, numa perspectiva de formação ao longo da vida;\n\nh) Orientar, coordenar e avaliar a gestão pedagógica, administrativa, financeira e patrimonial dos estabelecimentos de educação e de ensino, bem como de outros serviços criados ou a criar na sua dependência;\n\ni) Estudar e propor soluções inovadoras que visem a racionalização dos recursos e o sucesso escolar;\n\nj) Assegurar a gestão integrada de todo o pessoal dos serviços dependentes, acompanhando os processos de recrutamento e selecção;\n\nk) Coordenar e apoiar a formação do pessoal docente e do pessoal não docente, nos termos da lei;\n\nl) Acreditar as entidades formadoras, atribuir o estatuto de formador, bem como certificar a formação contínua, nas suas diversas modalidades;\n\nm) Coordenar e apoiar o ensino particular, cooperativo e solidário, incluindo os estabelecimentos de educação pré-escolar dependentes das instituições particulares de solidariedade social, nos termos da lei;\n\nn) Assegurar a avaliação nas modalidades de ensino relativas ao ensino particular e cooperativo, incluindo a formação profissional, bem como dos estabelecimentos de educação pré-escolar dependentes dos estabelecimentos de educação e ensino dos sectores particular, cooperativo e solidário, nos termos da lei;\n\no) Coordenar a análise dos pedidos de candidaturas de apoios financeiros inerentes ao ensino particular e cooperativo, bem como, dos estabelecimentos de educação pré-escolar dependentes dos sectores particular, cooperativo e solidário;\n\np) Participar em projectos comunitários referentes ao ensino regular, particular e cooperativo, incluindo a formação profissional, bem como dos estabelecimentos de educação pré-escolar dependentes dos estabelecimentos de educação e ensino dos sectores particular, cooperativo e solidário, nos termos da lei;\n\nq) Promover a qualidade dos materiais didácticos, procedendo, quando necessário, à avaliação da sua adequação;\n\nr) Programar e orientar as operações relativas a equipamentos educativos bem como avaliar periodicamente o parque escolar existente;\n\ns) Determinar as necessidades de infra-estruturas educativas e planear e fazer executar a sua construção e conservação, mantendo, para tal, actualizada a carta escolar;\n\nt) Preparar as propostas de plano anual e de médio prazo, bem como a proposta de orçamentos;\n\nu) Assegurar a execução do plano de investimentos e propor eventuais reajustamentos;\n\nv) Autorizar e atribuir as transferências dos montantes decorrentes dos contratos ARAAL, dos contratos-programa, outros contratos e acordos de colaboração que venham, a ser celebrados e a praticar todos os actos subsequentes;\n\nx) Celebrar contratos previstos no Estatuto do Ensino Particular, Cooperativo e Solidário, autorizar e atribuir os pagamentos a que haja lugar e praticar todos os actos subsequentes.\n\n2 - É delegada no director regional da Educação e Formação a competência para autorizar e atribuir as transferências e apoios financeiros, a qualquer título, do orçamento da DREF e do Plano para Fundos Escolares das Unidades Orgânicas do Sistema Educativo."
+  },
+  "169256499": {
+   "fragment_id": "169252123",
+   "type": 11,
+   "heading": "Artigo 18.º — Estrutura nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura nuclear\n\nA estrutura nuclear da DREF integra as seguintes unidades orgânicas:\n\na) A Direcção de Serviços de Inovação e Desenvolvimento Curricular (DSIDC);\n\nb) A Direcção de Serviços de Recursos Humanos (DSRH);\n\nc) A Direcção de Serviços Financeiros e Equipamentos (DSFE)."
+  },
+  "169256500": {
+   "fragment_id": "169252124",
+   "type": 11,
+   "heading": "Artigo 19.º — Direcção de Serviços de Inovação e Desenvolvimento Curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção de Serviços de Inovação e Desenvolvimento Curricular\n\n1 - À DSIDC compete, nomeadamente:\n\na) Promover a avaliação do sistema educativo regional e propor as medidas consideradas necessárias à promoção do sucesso educativo e da qualidade das aprendizagens;\n\nb) Promover estudos de acompanhamento e avaliação, no âmbito do desenvolvimento curricular, da organização e da avaliação pedagógica e didáctica do sistema educativo, da inovação educacional e da qualidade do ensino e das aprendizagens;\n\nc) Propor orientações programáticas para a concretização das competências do currículo regional, bem como, promover a respectiva operacionalização e avaliação;\n\nd) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didácticos, de promoção do sucesso e de prevenção do abandono escolar, nomeadamente através do desenvolvimento de projectos e programas específicos de intervenção, quer ao nível da organização da escola e do alargamento e diversificação da sua oferta, quer da intervenção em áreas curriculares específicas;\n\ne) Coordenar, acompanhar e propor medidas, em termos pedagógicos e didácticos, para as actividades de enriquecimento curricular;\n\nf) Coordenar, acompanhar e propor medidas em termos organizativos, pedagógicos e didácticos, promotoras da inclusão e do sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar, na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente actividades de complemento e de acompanhamento pedagógico;\n\ng) Recolher e tratar a informação respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas;\n\nh) Promover, coordenar e acompanhar o desenvolvimento, em termos pedagógicos e didácticos, da educação artística;\n\ni) Promover o ensino recorrente e o desenvolvimento da educação extra-escolar, visando o alargamento da literacia;\n\nj) Acompanhar e propor as medidas consideradas necessárias à correcta aplicação ao desenvolvimento do sistema de avaliação do desempenho do pessoal docente, em articulação com a DSRH;\n\nk) Coordenar, acompanhar e avaliar o funcionamento dos programas profissionalizantes e de formação profissional;\n\nl) Propor itinerários formativos com vista ao desenvolvimento e à valorização do ensino profissionalizante e profissional;\n\nm) Promover e coordenar a orientação escolar e profissional dos alunos;\n\nn) Planear o processo de elaboração e validação dos instrumentos de avaliação externa das aprendizagens;\n\no) Acompanhar a avaliação dos alunos do ensino básico, secundário e profissional e assegurar as acções respeitantes à realização de provas de avaliação externa e exames nacionais;\n\np) Identificar as necessidades de material didáctico, incluindo manuais escolares, e assegurar as condições para a respectiva avaliação e certificação;\n\nq) Conceber, implementar e desenvolver procedimentos de monitorização e acompanhamento em matéria de segurança escolar;\n\nr) Promover e assegurar a realização de acções respeitantes ao acesso ao ensino superior no âmbito da sua divulgação, informação, organização e coordenação;\n\ns) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas, tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DSIDC compreende as seguintes unidades orgânicas flexíveis:\n\na) Divisão de Avaliação e Inovação (DAI);\n\nb) Divisão de Desenvolvimento Curricular (DDC).\n\n3 - A DSIDC é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "169256501": {
+   "fragment_id": "169252125",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Avaliação e Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divisão de Avaliação e Inovação\n\n1 - À DAI compete, nomeadamente:\n\na) Desenvolver estudos de acompanhamento e avaliação, no âmbito do desenvolvimento curricular, da organização e da avaliação pedagógica e didáctica do sistema educativo, da inovação educacional e da qualidade do ensino e das aprendizagens e propor medidas que visem a melhoria da qualidade do sistema educativo;\n\nb) Desenvolver, acompanhar, apoiar e avaliar programas e medidas de qualificação e inovação no sistema educativo;\n\nc) Conceber, coordenar e acompanhar os processos de desenvolvimento curricular, referentes à criação, à operacionalização e à monitorização do currículo regional;\n\nd) Assegurar a elaboração e a certificação de materiais didácticos específicos relativos à implementação do currículo regional;\n\ne) Coordenar o processo de concepção, validação e aplicação dos instrumentos de avaliação externa das aprendizagens;\n\nf) Acompanhar e propor as medidas consideradas necessárias ao desenvolvimento do sistema de avaliação do desempenho do pessoal docente, em colaboração com a DSRH;\n\ng) Coordenar, apoiar e monitorizar o processo de avaliação das escolas e do sistema educativo, disponibilizando os suportes informativos e formativos necessários;\n\nh) Elaborar instrumentos de planeamento, gestão, avaliação e controlo no âmbito da avaliação externa dos alunos, da avaliação de desempenho dos docentes e da avaliação das escolas e do sistema educativo;\n\ni) Recolher informação e elaborar os relatórios de análise necessários ao acompanhamento do processo de avaliação das escolas e do sistema educativo;\n\nj) Promover programas e parcerias com outras entidades regionais, nacionais e estrangeiras com vista à promoção da qualidade do sistema educativo;\n\nk) Propor, acompanhar e avaliar medidas que visem a integração das tecnologias da informação e de comunicação no processo de ensino e aprendizagem;\n\nl) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e a eficácia dos serviços.\n\n2 - A DAI é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256502": {
+   "fragment_id": "169252126",
+   "type": 11,
+   "heading": "Artigo 21.º — Divisão de Desenvolvimento Curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Divisão de Desenvolvimento Curricular\n\n1 - À DDC compete, nomeadamente:\n\na) Assegurar o cumprimento dos planos curriculares e dos programas estabelecidos e propor as medidas que contribuam para o sucesso educativo;\n\nb) Assegurar a concretização das políticas relativas à componente pedagógica e didáctica da educação pré-escolar, do ensino básico, secundário, profissionalizante, profissional e artístico;\n\nc) Assegurar a concretização das políticas relativas à componente pedagógica e didáctica da educação especial e da educação extra-escolar;\n\nd) Promover, coordenar e acompanhar o desenvolvimento, em termos pedagógicos e didácticos do ensino vocacional da música e do ensino artístico;\n\ne) Acompanhar e propor orientações, em termos pedagógicos e didácticos, para as actividades de enriquecimento curricular e do desporto escolar;\n\nf) Propor e conduzir as acções que visem o despiste, o apoio e a orientação de crianças da educação pré-escolar e dos alunos do ensino básico com necessidades educativas especiais;\n\ng) Recolher e tratar a informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas;\n\nh) Acompanhar a avaliação dos alunos do ensino básico, secundário, profissionalizante e profissional, e assegurar as condições necessárias à realização de exames;\n\ni) Assegurar as condições necessárias à aplicação dos instrumentos de avaliação externa das aprendizagens;\n\nj) Fomentar estudos pedagógicos e didácticos de promoção do sucesso e de prevenção do abandono escolar, nomeadamente através do desenvolvimento de programas específicos de intervenção quer ao nível da organização da escola e do alargamento e diversificação da sua oferta, quer da intervenção em áreas curriculares específicas;\n\nk) Promover, coordenar e avaliar o funcionamento do ensino básico recorrente;\n\nl) Acompanhar e avaliar o desenvolvimento do ensino extra-escolar, preparando e propondo a aprovação das estruturas curriculares;\n\nm) Acompanhar os processos referentes ao sistema de reconhecimento, validação e certificação de competências;\n\nn) Propor e acompanhar as medidas necessárias à oferta e ao acompanhamento do ensino profissionalizante e profissional;\n\no) Estudar e propor medidas no âmbito do ensino profissional tendentes ao seu aperfeiçoamento;\n\np) Avaliar o funcionamento da rede de educação pré-escolar, incluindo os estabelecimentos dependentes de instituições particulares de solidariedade social e privados;\n\nq) Organizar os processos de autorização de funcionamento dos estabelecimentos de ensino particular e cooperativo e propor a concessão de paralelismo pedagógico;\n\nr) Identificar as necessidades de material didáctico, incluindo manuais escolares, e assegurar as condições para a respectiva avaliação e certificação;\n\ns) Assegurar a realização de acções respeitantes ao acesso ao ensino superior no plano da sua divulgação, informação, organização e coordenação;\n\nt) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e a eficácia dos serviços.\n\n2 - A DDC é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256503": {
+   "fragment_id": "169252127",
+   "type": 11,
+   "heading": "Artigo 22.º — Direcção de Serviços de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direcção de Serviços de Recursos Humanos\n\n1 - À DSRH compete, nomeadamente:\n\na) Assegurar a gestão integrada do pessoal afecto aos serviços dependentes;\n\nb) Transmitir aos serviços dependentes a política definida para a administração regional em matéria de pessoal, propondo as medidas consideradas necessárias à sua execução;\n\nc) Aprovar e acompanhar a operacionalização dos instrumentos de recrutamento e gestão do pessoal docente e não docente, incluindo o respectivo suporte informático;\n\nd) Coordenar, orientar e avaliar os serviços no âmbito das suas competências;\n\ne) Avaliar as necessidades globais do sistema educativo em matéria de pessoal, propondo as medidas adequadas à sua satisfação;\n\nf) Estudar, propor e garantir a elaboração da carta escolar, em articulação com a DSFE;\n\ng) Organizar e manter devidamente actualizado o cadastro de todo o pessoal ao serviço do sistema educativo;\n\nh) Promover e assegurar os processos de concurso e de mobilidade do pessoal dos serviços dependentes e avaliar os seus resultados;\n\ni) Realizar os estudos necessários à definição dos quadros de pessoal e ao seu correcto dimensionamento;\n\nj) Coordenar, acompanhar e propor os procedimentos necessários à correcta aplicação e ao desenvolvimento do sistema de avaliação do desempenho do pessoal afecto ao sistema educativo regional em articulação com a DAI;\n\nk) Propor as medidas consideradas necessárias em matéria de formação ao pessoal docente e não docente;\n\nl) Coordenar e apoiar a formação do pessoal docente e não docente, nos termos da lei, e estabelecer prioridades de formação decorrentes de inovações educativas;\n\nm) Estudar e propor medidas conducentes à melhoria da gestão dos recursos humanos e dos serviços dependentes;\n\nn) Desenvolver estudos e propor medidas que visem o aperfeiçoamento da gestão dos serviços, dando-lhes maior autonomia e eficiência;\n\no) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e a eficácia dos serviços.\n\n2 - A DSRH compreende as seguintes unidades orgânicas flexíveis:\n\na) Divisão de Gestão de Recursos Humanos (DGRH);\n\nb) Divisão de Formação Profissional (DFP).\n\n3 - Na dependência da DSRH funcionam juntas médicas.\n\n4 - A DSRH é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "169256504": {
+   "fragment_id": "169252128",
+   "type": 11,
+   "heading": "Artigo 23.º — Divisão de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Divisão de Gestão de Recursos Humanos\n\n1 - À DGRH compete, nomeadamente:\n\na) Executar a política definida em matéria de pessoal docente e não docente, tendo em vista a racionalização e a melhoria qualitativa do sistema educativo;\n\nb) Realizar os estudos necessários à gestão dos recursos humanos e ao reajustamento da rede escolar;\n\nc) Promover e assegurar os processos de concurso do pessoal docente;\n\nd) Promover e assegurar os processos de recrutamento do pessoal não docente dos serviços dependentes;\n\ne) Assegurar os processos de mobilidade do pessoal docente e não docente e avaliar os seus resultados;\n\nf) Estudar e propor medidas que visem a uniformização de procedimentos por parte dos serviços dependentes;\n\ng) Organizar e manter actualizado o cadastro do pessoal docente e não docente;\n\nh) Estudar e propor a autorização dos pedidos para a leccionação no ensino particular;\n\ni) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficiência dos serviços.\n\n2 - A DGRH é dirigida por um chefe divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256505": {
+   "fragment_id": "169252129",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisão de Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisão de Formação Profissional\n\n1 - Compete à DFP, nomeadamente:\n\na) Inventariar as necessidades formativas dos recursos humanos do sistema educativo, tendo por base a avaliação efectuada e as inovações a introduzir;\n\nb) Estudar, propor, coordenar, executar e avaliar os planos de formação para o pessoal docente e não docente tendo em conta as necessidades do sistema educativo;\n\nc) Elaborar estudos necessários à condução da política de formação do pessoal docente e não docente das escolas;\n\nd) Propor a acreditação das entidades formadoras, a atribuição do estatuto de formador, bem como a certificação da formação contínua, nas suas diversas modalidades, mantendo actualizado o cadastro de toda a formação do sistema educativo regional;\n\ne) Propor a celebração de protocolos e contratos com entidades formadoras;\n\nf) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DFP é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256506": {
+   "fragment_id": "169252130",
+   "type": 11,
+   "heading": "Artigo 25.º — Juntas médicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Juntas médicas\n\n1 - As juntas médicas integram três médicos, designados por despacho do Secretário Regional, um dos quais preside.\n\n2 - As juntas médicas são competentes para apreciar os processos relativos a pessoal docente e não docente das unidades orgânicas do sistema educativo regional, nas áreas especificamente fixadas na lei por despacho do Secretário Regional.\n\n3 - Por despacho do Secretário Regional, podem ser credenciados médicos para a verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente, bem como para assegurar a verificação domiciliária da doença do pessoal docente e não docente."
+  },
+  "169256507": {
+   "fragment_id": "169252131",
+   "type": 11,
+   "heading": "Artigo 26.º — Direcção de Serviços Financeiros e Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direcção de Serviços Financeiros e Equipamentos\n\n1 - À DSFE compete, nomeadamente:\n\na) Orientar a elaboração dos planos anual e de médio prazo no âmbito da DREF e seus serviços dependentes;\n\nb) Coordenar e integrar a elaboração dos orçamentos da DREF e dos serviços dependentes;\n\nc) Assegurar o acompanhamento e avaliação do processo de execução do plano e do orçamento da DREF e dos serviços dependentes, propondo as alterações que se mostrem adequadas;\n\nd) Elaborar estudos que possibilitem a análise do sistema educativo e contribuam para a formulação da respectiva política;\n\ne) Propor, acompanhar e avaliar a execução de programas apoiados por fundos nacionais e comunitários;\n\nf) Proceder à análise regular dos equipamentos escolares e propor medidas que se julguem adequadas tendo em vista a optimização dos recursos existentes e a melhoria do parque escolar;\n\ng) Manter actualizado o cadastro dos estabelecimentos de educação e de ensino, avaliar as suas condições de segurança e qualidade e manter actualizada a carta escolar;\n\nh) Estudar, propor e assegurar a elaboração e alteração da carta escolar em articulação com a DSRH;\n\ni) Estudar e propor alterações ao parque escolar de acordo com as necessidades do sistema educativo regional;\n\nj) Coordenar e orientar as operações relativas à definição dos equipamentos educativos bem como avaliar periodicamente o existente;\n\nk) Coordenar a elaboração dos programas de base e projectos de instalações escolares e promover e acompanhar a sua execução;\n\nl) Apoiar as escolas na execução das tarefas que em matéria de beneficiação, de manutenção de edifícios e de aquisição de equipamentos estão cometidas aos respectivos fundos escolares;\n\nm) Garantir a operacionalização da política de acção social e propor medidas conducentes à sua correcta implementação;\n\nn) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DSFE compreende as seguintes unidades orgânicas flexíveis:\n\na) Divisão de Planeamento e Gestão Financeira (DPGF);\n\nb) Divisão de Instalações e Equipamento Escolares (DIEE).\n\n3 - A DSFE é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "169256508": {
+   "fragment_id": "169252132",
+   "type": 11,
+   "heading": "Artigo 27.º — Divisão de Planeamento e Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Divisão de Planeamento e Gestão Financeira\n\n1 - À DPGF compete, nomeadamente:\n\na) Elaborar as propostas do plano anual e de médio prazo de acordo com as orientações definidas e acompanhar a sua execução;\n\nb) Elaborar a proposta de orçamento da DREF e emitir parecer sobre as propostas de orçamento dos serviços dependentes;\n\nc) Acompanhar e avaliar a execução do plano e orçamento da DREF e dos serviços dependentes e propor as alterações que se mostrem necessárias;\n\nd) Elaborar estudos e efectuar propostas necessárias à melhoria da gestão financeira da DREF e dos serviços dependentes;\n\ne) Analisar e programar a satisfação das necessidades em instalações dos serviços dependentes;\n\nf) Elaborar estudos respeitantes à população e parque escolar em articulação com a DDE;\n\ng) Estudar e propor alterações à rede escolar e elaborar e manter actualizada a carta escolar;\n\nh) Propor, acompanhar e avaliar a execução de programas apoiados por fundos comunitários;\n\ni) Estudar e propor a concessão de comparticipações financeiras e de apoios no âmbito do sistema educativo;\n\nj) Efectuar os processamentos das despesas por conta do plano e dos fundos comunitários;\n\nk) Administrar os recursos financeiros destinados à acção social escolar, procedendo à sua repartição pelos serviços dependentes;\n\nl) Prestar o apoio técnico às matérias referentes à acção social escolar, propondo as alterações que se revelem necessárias à sua correcta implementação;\n\nm) Controlar as contas correntes relativas a formadores e a quaisquer outras entidades;\n\nn) Propor orientações que visem a uniformidade de procedimentos por parte dos serviços;\n\no) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DPGF é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256509": {
+   "fragment_id": "169252133",
+   "type": 11,
+   "heading": "Artigo 28.º — Divisão de Instalações e Equipamento Escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Divisão de Instalações e Equipamento Escolares\n\n1 - À DIEE compete, nomeadamente:\n\na) Coordenar e controlar a inventariação dos bens móveis existentes e do estado de conservação dos imóveis ao serviço do sistema educativo;\n\nb) Elaborar estudos respeitantes às infra-estruturas e aos equipamentos escolares de forma a possibilitar a programação das aquisições, construções, beneficiações e ampliações, efectuando todos os procedimentos necessários à respectiva contratação pública;\n\nc) Elaborar, coordenar, fiscalizar e acompanhar os programas relativos à construção, beneficiação ou ampliação de instalações da responsabilidade dos órgãos e serviços dependentes da DREF, efectuando todos os procedimentos necessários à respectiva contratação pública;\n\nd) Elaborar programas de base e participar na elaboração dos projectos das novas instalações, ampliações e beneficiações, bem como promover, acompanhar e fiscalizar a sua execução, efectuando todos os procedimentos necessários à respectiva contratação pública;\n\ne) Analisar e dar parecer sobre os projectos de empreendimentos que sejam submetidos à sua apreciação relativos à DREF, bem como prestar apoio técnico às entidades promotoras dos mesmos;\n\nf) Proceder à avaliação do parque escolar de acordo com novos programas de base de instalações, tendo em vista a sua progressiva adequação à reforma do sistema educativo;\n\ng) Manter actualizado o cadastro, bem como o registo e diagnóstico do estado de conservação das escolas e demais património que lhe seja afecto;\n\nh) Acompanhar e apoiar a implementação de normas de segurança nos serviços dependentes;\n\ni) Coordenar e orientar as operações relativas à definição da tipologia dos equipamentos educativos bem como avaliar periodicamente o existente;\n\nj) Efectuar a aquisição de mobiliário e material didáctico de acordo com as orientações pedagógicas em vigor;\n\nk) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DIEE é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256510": {
+   "fragment_id": "169252134",
+   "type": 3,
+   "heading": "Subsecção VII — Direcção Regional do Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VII — Direcção Regional do Desporto"
+  },
+  "169256511": {
+   "fragment_id": "169252135",
+   "type": 11,
+   "heading": "Artigo 29.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Natureza e missão\n\nA Direcção Regional do Desporto, adiante designada por DRD, é o serviço executivo da SREF que tem por missão conceber, coordenar e apoiar as actividades no âmbito do sistema desportivo, incluindo o desporto escolar."
+  },
+  "169256512": {
+   "fragment_id": "169252136",
+   "type": 11,
+   "heading": "Artigo 30.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competências\n\nÀ DRD compete, nomeadamente:\n\na) Assegurar a execução da política definida para o sistema desportivo, incluindo o desporto escolar;\n\nb) Promover a articulação da política desportiva com outros sectores da acção governativa;\n\nc) Fomentar e dinamizar a prática do desporto e das actividades físicas e desportivas;\n\nd) Prestar apoio às entidades e estruturas do associativismo desportivo;\n\ne) Dinamizar e apoiar o desporto escolar;\n\nf) Promover e apoiar a prática de actividades físicas e desportivas adaptadas;\n\ng) Assegurar a gestão do parque desportivo regional;\n\nh) Cooperar no planeamento, construção, beneficiação e equipamento das instalações desportivas da Região;\n\ni) Exercer as competências definidas por lei no âmbito do regime do licenciamento e da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nj) Promover e apoiar a formação dos recursos humanos do desporto;\n\nk) Proceder à recolha, tratamento e divulgação de documentação, informações e dados estatísticos no âmbito da actividade física e do desporto;\n\nl) Promover a realização de estudos e projectos de investigação nas suas áreas de competência;\n\nm) Celebrar os contratos-programa de desenvolvimento desportivo nos termos previstos na legislação própria e atribuir as correspondentes comparticipações financeiras;\n\nn) Preparar as propostas de plano anual e de médio prazo, bem como a proposta de orçamento;\n\no) Assegurar a execução do plano de investimentos e propor eventuais reajustamentos;\n\np) Autorizar e atribuir as transferências dos montantes decorrentes dos contratos ARAAL, de outros contratos e acordos que venham a ser celebrados e praticar todos os actos subsequentes."
+  },
+  "169256513": {
+   "fragment_id": "169252137",
+   "type": 11,
+   "heading": "Artigo 31.º — Estrutura nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Estrutura nuclear\n\n1 - A estrutura nuclear da DRD integra as seguintes unidades orgânicas:\n\na) A Direcção de Serviços do Desenvolvimento Desportivo (DSDD);\n\nb) A Direcção de Serviços da Actividade Física, Instalações e Gestão de Recursos (DSAFIGR).\n\n2 - São serviços executivos periféricos da DRD os serviços de desporto de ilha, doravante designados por SD, os quais funcionam na dependência directa do director regional do Desporto.\n\n3 - O Fundo Regional do Desporto (FRD) integra a DRD."
+  },
+  "169256514": {
+   "fragment_id": "169252138",
+   "type": 11,
+   "heading": "Artigo 32.º — Direcção de Serviços do Desenvolvimento Desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direcção de Serviços do Desenvolvimento Desportivo\n\n1 - Compete à DSDD, nomeadamente:\n\na) Incentivar e apoiar as actividades no âmbito do associativismo desportivo;\n\nb) Propor a concessão de comparticipações financeiras e de apoio técnico e material, às entidades do associativismo desportivo, de acordo com os normativos em vigor;\n\nc) Conceber e coordenar projectos de promoção da prática desportiva e de formação de praticantes;\n\nd) Assegurar a coordenação dos programas regionais de acesso ao desporto de alto rendimento;\n\ne) Propor e coordenar a concessão de comparticipações financeiras à organização de eventos desportivos;\n\nf) Promover e apoiar a realização de acções de formação dos recursos humanos do desporto;\n\ng) Estabelecer contactos com as estruturas do associativismo desportivo e entidades oficiais, tendo em vista a máxima rentabilidade das acções a desenvolver;\n\nh) Conceber, propor e coordenar acções no âmbito da protecção dos desportistas;\n\ni) Orientar os SD, no âmbito das suas competências;\n\nj) Promover, cooperar e coordenar os apoios à realização de estudos nas suas áreas de intervenção;\n\nk) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficiência dos serviços.\n\n2 - A DSDD integra as seguintes unidades orgânicas flexíveis:\n\na) A Divisão de Formação e Promoção Desportiva (DFPD);\n\nb) A Divisão do Desporto Federado (DDF).\n\n3 - A DSDD é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "169256515": {
+   "fragment_id": "169252139",
+   "type": 11,
+   "heading": "Artigo 33.º — Divisão de Formação e Promoção Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Divisão de Formação e Promoção Desportiva\n\n1 - Compete à DFPD, nomeadamente:\n\na) Assegurar a coordenação das actividades de formação de recursos humanos e de promoção desportiva;\n\nb) Propor comparticipações financeiras, apoio técnico e material às actividades de formação de recursos humanos e de promoção desportiva;\n\nc) Organizar e apoiar projectos de formação de jovens praticantes que ressaltem os valores da competição e espírito desportivo;\n\nd) Assegurar a coordenação e o apoio às actividades dos clubes desportivos escolares, quando integradas no associativismo desportivo;\n\ne) Proceder ao levantamento das necessidades de formação dos recursos humanos do desporto e definir prioridades de intervenção;\n\nf) Propor, coordenar e apoiar a formação dos recursos humanos do desporto, incluindo a adopção de mecanismos que promovam a formação à distância;\n\ng) Promover a organização de congressos, conferências, colóquios, seminários ou outras manifestações técnicas;\n\nh) Propor e coordenar a concessão de comparticipações financeiras à organização de eventos desportivos;\n\ni) Proceder à recolha, tratamento e divulgação de indicadores de referência e análise estatística na sua área de intervenção;\n\nj) Promover e acompanhar a execução dos contratos-programa de desenvolvimento desportivo celebrados no âmbito da sua área de intervenção;\n\nk) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DFPD é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256516": {
+   "fragment_id": "169252140",
+   "type": 11,
+   "heading": "Artigo 34.º — Divisão do Desporto Federado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Divisão do Desporto Federado\n\n1 - Compete à DDF, nomeadamente:\n\na) Incentivar e apoiar as actividades desportivas no âmbito do associativismo desportivo, incluindo as adaptadas;\n\nb) Apreciar os processos relativos à concessão de apoios aos planos ou projectos específicos de desenvolvimento desportivo;\n\nc) Propor comparticipações financeiras, apoio técnico e material aos planos ou projectos específicos de desenvolvimento desportivo;\n\nd) Propor medidas de apoio ao associativismo desportivo;\n\ne) Coordenar a concessão de apoio aos programas regionais de acesso ao desporto de alto rendimento;\n\nf) Proceder à recolha, tratamento e divulgação de indicadores de referência e análise estatística na sua área de intervenção;\n\ng) Promover e acompanhar a execução dos contratos-programa de desenvolvimento desportivo celebrados no âmbito da sua área de intervenção;\n\nh) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DDF é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256517": {
+   "fragment_id": "169252141",
+   "type": 11,
+   "heading": "Artigo 35.º — Direcção de Serviços da Actividade Física, Instalações e Gestão de Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direcção de Serviços da Actividade Física, Instalações e Gestão de Recursos\n\n1 - Compete à DSAFIGR, nomeadamente:\n\na) Conceber, coordenar e apoiar projectos de desenvolvimento de promoção de actividades físicas como factores de promoção da saúde e qualidade de vida das populações, incluindo o desporto adaptado;\n\nb) Propor e implementar medidas programáticas e inovações metodológicas referentes ao desporto escolar;\n\nc) Colaborar na elaboração dos programas de base e dar parecer sobre os projectos relativos à construção ou beneficiação de instalações desportivas do parque desportivo regional e seu apetrechamento;\n\nd) Conceber, coordenar e acompanhar a elaboração e concretização dos programas de base relativos à construção ou beneficiação de instalações desportivas do parque desportivo regional bem como coordenar a sua gestão;\n\ne) Elaborar e manter actualizado o Atlas Desportivo Regional em articulação com a DAFG;\n\nf) Analisar e dar parecer sobre projectos de empreendimentos desportivos que sejam submetidos à apreciação da DRD;\n\ng) Propor a concessão de comparticipações financeiras no âmbito das infra-estruturas desportivas ou sedes sociais de entidades do associativismo desportivo, de acordo com os normativos em vigor;\n\nh) Exercer as competências definidas por lei no âmbito do regime do licenciamento e da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\ni) Orientar a elaboração dos planos anual e de médio prazo no âmbito da DRD e dos serviços dependentes;\n\nj) Coordenar e integrar a elaboração dos orçamentos da DRD e dos serviços dependentes;\n\nk) Assegurar o acompanhamento e avaliação do processo de execução do plano e do orçamento da DRD e dos serviços dependentes, propondo as alterações que se mostrem adequadas;\n\nl) Orientar os SD, no âmbito das suas competências;\n\nm) Promover, cooperar e coordenar os apoios à realização de estudos nas suas áreas de intervenção;\n\nn) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficácia dos serviços.\n\n2 - A DSAFIGR integra a Divisão da Actividade Física e Gestão (DAFG).\n\n3 - A DSAFIGR é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "169256518": {
+   "fragment_id": "169252142",
+   "type": 11,
+   "heading": "Artigo 36.º — Divisão da Actividade Física e Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Divisão da Actividade Física e Gestão\n\n1 - Compete à DAFG, nomeadamente:\n\na) Elaborar, promover e coordenar planos de sensibilização e promoção das actividades físicas;\n\nb) Promover e apoiar a prática das actividades físicas, incluindo as adaptadas e propor comparticipações financeiras, apoio técnico e material;\n\nc) Propor planos de desenvolvimento do desporto escolar;\n\nd) Dinamizar e coordenar o desenvolvimento do programa do desporto escolar, cooperando com os estabelecimentos de ensino no desenvolvimento das actividades;\n\ne) Assegurar a coordenação e o apoio às actividades dos clubes desportivos escolares no âmbito da promoção;\n\nf) Propor medidas de apoio à organização e participação dos clubes desportivos escolares nas competições específicas do desporto escolar;\n\ng) Elaborar as propostas do plano anual e de médio prazo de acordo com as orientações definidas e acompanhar a sua execução;\n\nh) Elaborar a proposta de orçamento da DRD e emitir parecer sobre as propostas de orçamento dos serviços dependentes;\n\ni) Acompanhar e avaliar a execução orçamental dos serviços dependentes e propor as alterações que se mostrem necessárias;\n\nj) Elaborar estudos e efectuar propostas necessárias à melhoria da gestão financeira da DRD e dos serviços dependentes;\n\nk) Executar o orçamento da DRD e propor as alterações que se mostrem necessárias;\n\nl) Efectuar os processamentos das despesas por conta do plano;\n\nm) Propor orientações que visem a uniformidade de procedimentos por parte dos serviços;\n\nn) Promover e acompanhar a execução dos contratos-programa de desenvolvimento desportivo celebrados no âmbito da sua área de intervenção;\n\no) Colaborar na elaboração dos programas de base relativos à construção ou beneficiação de instalações desportivas escolares e seu apetrechamento;\n\np) Conceber, coordenar e acompanhar a elaboração e concretização dos programas de base relativos à construção ou beneficiação de instalações desportivas do parque desportivo regional bem como coordenar a sua gestão;\n\nq) Analisar e dar parecer sobre os projectos de empreendimentos desportivos que sejam submetidos à apreciação da DRD e prestar apoio técnico às entidades promotoras dos mesmos;\n\nr) Propor a concessão de comparticipações financeiras no âmbito das infra-estruturas desportivas ou sedes sociais de entidades do associativismo desportivo, de acordo com os normativos em vigor;\n\ns) Elaborar e manter actualizado o Atlas Desportivo Regional;\n\nt) Manter actualizado o cadastro do parque desportivo regional, avaliar as suas condições de segurança e qualidade;\n\nu) Zelar pelo cumprimento das normas de segurança aplicáveis aos equipamentos desportivos;\n\nv) Assegurar o exercício das competências definidas por lei no âmbito do regime das instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nx) Promover, cooperar e coordenar os apoios à realização de estudos nas suas áreas de intervenção;\n\ny) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas tendo em vista a racionalização e eficiência dos serviços.\n\n2 - A DAFG é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "169256519": {
+   "fragment_id": "169252143",
+   "type": 11,
+   "heading": "Artigo 37.º — Fundo Regional do Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Fundo Regional do Desporto\n\nA natureza, atribuições e orgânica do Fundo Regional do Desporto constam de diploma próprio."
+  },
+  "169256520": {
+   "fragment_id": "169252144",
+   "type": 11,
+   "heading": "Artigo 38.º — Serviços de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Serviços de desporto\n\n1 - Os SD são serviços executivos periféricos aos quais compete, na respectiva ilha, coordenar e executar as políticas superiormente definidas no âmbito do apoio ao associativismo desportivo, da promoção das actividades físicas e desportivas, incluindo o desporto escolar, da gestão de instalações desportivas integradas no parque desportivo de ilha.\n\n2 - Os SD das ilhas de São Miguel, Faial e Terceira são serviços dotados de autonomia administrativa.\n\n3 - Os SD das ilhas do Corvo, Flores, Graciosa, Pico, Santa Maria e São Jorge são serviços executivos simples."
+  },
+  "169256521": {
+   "fragment_id": "169252145",
+   "type": 11,
+   "heading": "Artigo 39.º — Órgãos e serviços dos serviços de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Órgãos e serviços dos serviços de desporto\n\n1 - O SD da ilha de São Miguel tem como órgão o conselho administrativo e como serviços a secção de apoio administrativo e o serviço de coordenação.\n\n2 - O SD mencionado no número anterior é dirigido por um director de serviços, cargo de direcção intermédia de 1.º grau, sendo o serviço de coordenação dirigido por um coordenador, cargo de direcção específica de 1.º grau.\n\n3 - Os SD das ilhas do Faial e da Terceira têm como órgão o conselho administrativo e como serviço a Secção de Apoio Administrativo.\n\n4 - Os SD mencionados no número anterior são dirigidos por um director de serviços, cargo de direcção intermédia de 1.º grau.\n\n5 - Os SD das restantes ilhas, à excepção da ilha do Corvo, são dirigidos por um coordenador, cargo de direcção específica de 2.º grau, que, com as necessárias adaptações, exerce as competências previstas nos artigos 40.º e 41.º\n\n6 - Na ilha do Corvo, enquanto não for provido o lugar da carreira de técnico superior, o SD é coordenado pelo professor de Educação Física da Escola Básica Integrada Mouzinho da Silveira, nos termos do n.º 4 do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n7 - O professor que desempenhar as funções referidas no número anterior aufere o suplemento remuneratório previsto no n.º 7 do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n8 - Na ilha do Corvo, o SD funciona junto da Escola Básica Integrada Mouzinho da Silveira, a qual assegura o necessário apoio logístico e administrativo."
+  },
+  "169256522": {
+   "fragment_id": "169252146",
+   "type": 11,
+   "heading": "Artigo 40.º — Competências do director do serviço de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competências do director do serviço de desporto\n\n1 - Compete ao director do SD, cargo de direcção intermédia de 1.º grau, nomeadamente:\n\na) Dirigir e orientar os serviços do SD;\n\nb) Prosseguir as políticas superiormente estabelecidas para os domínios de intervenção do SD;\n\nc) Estudar, propor e coordenar as medidas que entender necessárias ao desenvolvimento desportivo e do desporto escolar;\n\nd) Promover a cobrança das receitas do FRD.\n\n2 - Os directores dos SD das ilhas do Faial e da Terceira, cargos de direcção intermédia de 1.º grau, exercem ainda, com as necessárias adaptações, as competências definidas no artigo seguinte."
+  },
+  "169256523": {
+   "fragment_id": "169252147",
+   "type": 11,
+   "heading": "Artigo 41.º — Competências do coordenador do serviço de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competências do coordenador do serviço de coordenação\n\nCompete ao coordenador do serviço de coordenação, cargo de direcção específica de 1.º grau, nomeadamente:\n\na) Dar execução às orientações definidas para a sua área de intervenção;\n\nb) Promover e apoiar a prática de actividades físicas e desportivas, incluindo as adaptadas;\n\nc) Cooperar com as entidades do associativismo desportivo nas acções que visem o desenvolvimento desportivo;\n\nd) Acompanhar a execução de projectos que visem assegurar o desenvolvimento desportivo;\n\ne) Coordenar as actividades de desporto escolar nos seus níveis de intervenção;\n\nf) Cooperar com os órgãos executivos das escolas na promoção e no desenvolvimento das actividades do desporto escolar, ou de outras que, sendo iniciativa da escola, contribuam para a promoção da prática das actividades físicas e desportivas;\n\ng) Organizar e manter actualizado um sistema de informação dos elementos caracterizadores dos recursos humanos do desporto, da actividade desportiva e do desporto escolar da ilha;\n\nh) Estudar, propor e coordenar as medidas que entender necessárias ao desenvolvimento desportivo e do desporto escolar;\n\ni) Gerir e coordenar a utilização das instalações desportivas integradas no parque desportivo de ilha;\n\nj) Manter em bom estado de fruição as instalações, equipamentos e material desportivo;\n\nk) Garantir a prestação dos serviços complementares no domínio das instalações, equipamentos e material desportivo;\n\nl) Garantir as reparações ou os melhoramentos necessários nas instalações ou equipamentos;\n\nm) Elaborar processos, prestar informações e apresentar propostas que se constituam como suporte de decisões;\n\nn) Organizar e manter actualizado um sistema de informação dos elementos caracterizadores das instalações e material desportivo;\n\no) Proporcionar espaços e materiais para o desenvolvimento de actividades de treino e competição, bem como para acções de formação dos recursos humanos do desporto;\n\np) Facultar a utilização prioritária de espaços e materiais para as actividades curriculares dos estabelecimentos oficiais de educação e ensino da sua área de influência;\n\nq) Facultar espaços e materiais para a realização de eventos desportivos e de actividades de promoção de actividades físicas e do desporto;\n\nr) Fiscalizar a correcta utilização dos bens referidos nas alíneas anteriores."
+  },
+  "169256524": {
+   "fragment_id": "169252148",
+   "type": 11,
+   "heading": "Artigo 42.º — Constituição e funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Constituição e funcionamento do conselho administrativo\n\n1 - O conselho administrativo do SD da ilha de São Miguel é composto pelo director do SD, cargo de direcção intermédia de 1.º grau, que preside, pelo coordenador do serviço de coordenação, cargo de direcção específica de 1.º grau, e por um trabalhador que exerça funções públicas no SD, designado pelo director regional competente em matéria de desporto, cargo de direcção superior de 1.º grau.\n\n2 - O conselho administrativo dos SD das ilhas do Faial e da Terceira é composto pelo director do SD, cargo de direcção intermédia de 1.º grau, que preside, e por dois trabalhadores que exerçam funções públicas no SD, designados pelo director regional competente em matéria de desporto, cargo de direcção superior de 1.º grau.\n\n3 - O conselho administrativo reúne pelo menos uma vez em cada mês, sendo as suas deliberações e pareceres exarados em acta.\n\n4 - As deliberações são tomadas por maioria, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "169256525": {
+   "fragment_id": "169252149",
+   "type": 11,
+   "heading": "Artigo 43.º — Competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Competências do conselho administrativo\n\nCompete ao conselho administrativo, designadamente:\n\na) Elaborar a proposta de orçamento;\n\nb) Organizar a contabilidade e fiscalizar a sua escrituração, de harmonia com as normas da contabilidade pública;\n\nc) Autorizar as despesas necessárias ao funcionamento do SD;\n\nd) Fiscalizar a exacta aplicação de todas as verbas orçamentadas;\n\ne) Conferir, mensalmente, a situação financeira do SD, que deverá constar de balancete e de acta;\n\nf) Promover a elaboração e a permanente actualização do cadastro dos bens e zelar pela sua conservação e manutenção;\n\ng) Aprovar a conta de gerência e remetê-la para julgamento da Secção Regional dos Açores do Tribunal de Contas;\n\nh) Propor as linhas de orientação administrativas a que deve obedecer a organização e funcionamento de cada coordenação e dos seus serviços."
+  },
+  "169256526": {
+   "fragment_id": "169252150",
+   "type": 11,
+   "heading": "Artigo 44.º — Secção de Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Secção de Apoio Administrativo\n\nCompete à Secção de Apoio Administrativo dos SD, nomeadamente:\n\na) Organizar o projecto de orçamento do SD;\n\nb) Processar as remunerações devidas ao pessoal;\n\nc) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\nd) Elaborar a conta de gerência;\n\ne) Proceder a todas as operações contabilísticas;\n\nf) Executar as acções referentes ao recrutamento, gestão corrente e mobilidade de pessoal;\n\ng) Organizar e manter actualizado o cadastro do pessoal;\n\nh) Coordenar os trabalhos de conservação e reparação de imóveis próprios do SD;\n\ni) Emitir parecer sobre assuntos a submeter a despacho superior;\n\nj) Proceder ao controlo da assiduidade do pessoal."
+  },
+  "169256527": {
+   "fragment_id": "169252151",
+   "type": 8,
+   "heading": "Secção II — Serviço inspectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviço inspectivo"
+  },
+  "169256528": {
+   "fragment_id": "169252152",
+   "type": 3,
+   "heading": "Subsecção I — Inspecção Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Inspecção Regional de Educação"
+  },
+  "169256529": {
+   "fragment_id": "169252153",
+   "type": 11,
+   "heading": "Artigo 45.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Natureza\n\nA IRE é o serviço de controlo estratégico, de auditoria e fiscalização do departamento governamental competente em matéria de educação, com sede em Angra do Heroísmo, dotado de autonomia administrativa, a quem incumbe o exercício da tutela inspectiva dos estabelecimentos de educação e de ensino e dos serviços integrados no sistema educativo da Região Autónoma dos Açores, nomeadamente através de acções de acompanhamento, aferição, avaliação, auditoria, controlo, fiscalização e apoio técnico, bem como de salvaguarda do interesse público e dos direitos dos utentes."
+  },
+  "169256530": {
+   "fragment_id": "169252154",
+   "type": 11,
+   "heading": "Artigo 46.º — Âmbito de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Âmbito de actuação\n\nA IRE desenvolve a sua acção em todo o território da Região Autónoma dos Açores e exerce a sua actividade junto dos estabelecimentos de educação e de ensino integrados nas unidades orgânicas do sistema educativo regional, incluindo o conjunto dos estabelecimentos onde se ministre a educação pré-escolar, o ensino básico, o ensino secundário, a educação especial, o ensino artístico, o ensino recorrente de adultos, o ensino a distância, a formação profissional e a educação extra-escolar, bem como junto dos estabelecimentos da rede privada, cooperativa e solidária e dos serviços e organismos que integrem e desenvolvam actividade predominantemente orientada para o processo educativo."
+  },
+  "169256531": {
+   "fragment_id": "169252155",
+   "type": 11,
+   "heading": "Artigo 47.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Missão e atribuições\n\n1 - A IRE tem por missão assegurar o controlo estratégico do sistema educativo da Região Autónoma dos Açores, compreendendo o controlo da legalidade e auditoria administrativa, financeira e de gestão, bem como a avaliação de actividades e programas, de estabelecimentos de educação e de ensino e de serviços e organismos que integram o sistema educativo regional, e também a de prestar apoio técnico especializado.\n\n2 - A IRE prossegue as seguintes atribuições:\n\na) Pugnar pela qualidade do sistema educativo regional, designadamente através da concepção, planeamento, coordenação e realização de inspecções, auditorias e vistorias aos estabelecimentos de educação e de ensino;\n\nb) Zelar pela equidade no sistema educativo regional, salvaguardando os interesses legítimos de todos os que o integram e dos respectivos utentes;\n\nc) Acompanhar, avaliar, auditar, controlar e fiscalizar, nas vertentes técnico-pedagógica, administrativo-financeira, orçamental, patrimonial e de recursos humanos, os estabelecimentos de educação e de ensino integrados nas unidades orgânicas do sistema educativo regional;\n\nd) Proceder a acções inspectivas, designadamente à realização de intervenções, auditorias, inspecções, inquéritos e sindicâncias, sem prejuízo da realização de outras formas de actuação consagradas em legislação específica;\n\ne) Apreciar a conformidade legal e regulamentar dos actos praticados pelos responsáveis dos estabelecimentos, serviços e organismos que integram o sistema educativo regional, designadamente em matéria de recursos humanos, orçamental, económica, financeira e patrimonial, bem como auditar os respectivos sistemas e procedimentos de controlo interno;\n\nf) Controlar a aplicação eficaz, eficiente e económica dos dinheiros públicos afectos aos estabelecimentos, serviços e organismos que integram o sistema educativo regional, nos termos da lei e de acordo com os objectivos do Governo Regional, e avaliar os resultados obtidos em função dos meios disponíveis;\n\ng) Instruir processos disciplinares e contra-ordenacionais que resultem da sua actividade inspectiva ou que lhe sejam cometidos legal ou superiormente pela tutela;\n\nh) Recolher informações e elaborar relatórios sobre a situação dos estabelecimentos de educação e de ensino em matéria pedagógica e administrativo-financeira, no âmbito das acções inspectivas efectuadas;\n\ni) Verificar e assegurar, de forma sistemática, o cumprimento das disposições legais, regulamentares e das orientações definidas superiormente;\n\nj) Proceder a acções de fiscalização para verificação do cumprimento de recomendações e medidas propostas em anteriores acções inspectivas;\n\nk) Propor e colaborar, na sequência das acções desenvolvidas, na preparação de medidas preventivas e correctivas, designadamente de carácter legislativo, que visem a melhoria e o aperfeiçoamento do funcionamento e da qualidade do sistema educativo regional;\n\nl) Proceder a avaliações globais do sistema educativo regional, nomeadamente mediante a intervenção no processo de auto-avaliação regulada das unidades orgânicas;\n\nm) Efectuar análises comparativas dos dados obtidos nas acções inspectivas, com vista a contribuir para a criação de indicadores de gestão do sistema educativo regional;\n\nn) Acompanhar o funcionamento de programas com regulamentação específica, bem como o desenvolvimento no ensino regular de cursos e estruturas curriculares experimentais;\n\no) Avaliar o processo educativo de inclusão de crianças e jovens com necessidades educativas especiais ou com dificuldades na aprendizagem;\n\np) Acompanhar e participar no processo de avaliação do desempenho docente;\n\nq) Avaliar a implementação do regime jurídico de criação, autonomia e gestão das unidades orgânicas do sistema educativo regional;\n\nr) Organizar e actualizar documentos, programas de trabalho e outros instrumentos de apoio técnico às actividades inspectivas;\n\ns) Manter actualizado um registo disciplinar do pessoal docente e não docente do sistema educativo regional, na sequência da acção inspectiva, assegurando o acesso por parte desse pessoal a todos os elementos que a si digam respeito;\n\nt) Avaliar a organização e o funcionamento das valências educativas dos estabelecimentos de ensino particular, cooperativo e solidário, bem como instruir nos mesmos os processos de natureza disciplinar e contra-ordenacional legalmente previstos;\n\nu) Analisar e desenvolver procedimentos na sequência das queixas apresentadas pelos utentes e agentes do sistema educativo regional;\n\nv) Colaborar com outros serviços de inspecção ou outras entidades em assuntos de interesse para o sistema educativo regional;\n\nw) Efectuar vistorias e elaborar relatórios que visem o estado de conservação e condições de segurança e higiene dos equipamentos educativos, nomeadamente sobre a existência de planos de segurança e evacuação;\n\nx) Participar no processo de avaliação das escolas e apoiar o desenvolvimento das actividades com ele relacionadas.\n\n3 - Enquanto serviço de apoio técnico especializado, incumbe à IRE:\n\na) Elaborar projectos de diplomas legais e dar parecer sobre os que lhe sejam submetidos;\n\nb) Promover a investigação técnica, efectuar estudos e emitir pareceres;\n\nc) Participar, bem como prestar apoio técnico, em júris, comissões e grupos de trabalho, regionais e nacionais;\n\nd) Assegurar, no âmbito da sua missão, a articulação e cooperação com entidades congéneres regionais, nacionais, estrangeiras e organizações internacionais;\n\ne) Desempenhar quaisquer outras tarefas de apoio técnico especializado para que se encontre vocacionada."
+  },
+  "169256532": {
+   "fragment_id": "169252156",
+   "type": 11,
+   "heading": "Artigo 48.º — Autonomia e independência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Autonomia e independência técnica\n\nA IRE goza de autonomia e independência técnica no exercício das actividades inspectivas que lhe sejam confiadas, regendo a sua actuação pelas disposições legais vigentes e pelas orientações do secretário regional competente em matéria de educação, emitidas nos termos legais."
+  },
+  "169256533": {
+   "fragment_id": "169252157",
+   "type": 11,
+   "heading": "Artigo 49.º — Proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Proporcionalidade\n\nA IRE deve pautar a sua intervenção e a conduta dos dirigentes e pessoal de inspecção pela adequação dos seus procedimentos aos objectivos da acção."
+  },
+  "169256534": {
+   "fragment_id": "169252158",
+   "type": 11,
+   "heading": "Artigo 50.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Órgãos e serviços\n\nA IRE tem como órgãos a direcção e o conselho administrativo e como serviço o núcleo de inspecção de Ponta Delgada."
+  },
+  "169256535": {
+   "fragment_id": "169252159",
+   "type": 11,
+   "heading": "Artigo 51.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Direcção\n\nA IRE é dirigida por um inspector regional, equiparado para todos os efeitos legais a subdirector regional, cargo de direcção superior de 2.º grau."
+  },
+  "169256536": {
+   "fragment_id": "169252160",
+   "type": 11,
+   "heading": "Artigo 52.º — Competências do inspector regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Competências do inspector regional\n\nAo inspector regional, para além das competências estabelecidas na lei geral, cabe, em especial:\n\na) Representar a IRE;\n\nb) Dirigir, coordenar e fiscalizar as actividades da IRE;\n\nc) Assegurar o cumprimento das orientações e prioridades estratégicas da política educativa fixadas para a IRE;\n\nd) Assegurar a autonomia e competência técnica da acção inspectiva;\n\ne) Assegurar a gestão e direcção dos recursos humanos e materiais afectos nos termos da lei;\n\nf) Emitir directivas, ordens e instruções a que deve obedecer a actuação dos inspectores e demais trabalhadores afectos à IRE;\n\ng) Elaborar e apresentar ao secretário regional competente em matéria de educação, durante o mês de Novembro do ano anterior àquele a que respeite, o plano anual de actividades;\n\nh) Propor ao secretário regional competente em matéria de educação a realização de acções inspectivas extraordinárias;\n\ni) Determinar a realização das actividades inspectivas previstas no respectivo plano anual, bem como das acções inspectivas extraordinárias depois de autorizadas;\n\nj) Propor ao secretário regional competente em matéria de educação a instauração de processos de inquérito e sindicância, nomeadamente em resultado de acções inspectivas;\n\nk) Instaurar processos disciplinares, nos termos da lei, em consequência de acções inspectivas realizadas pela IRE;\n\nl) Nomear os instrutores de processos cuja competência seja determinada à IRE;\n\nm) Ordenar a reformulação dos processos disciplinares e autorizar a prorrogação dos prazos previstos no estatuto disciplinar;\n\nn) Determinar o início e os prazos de duração das diversas acções inspectivas;\n\no) Emitir parecer e decidir sobre o encaminhamento dos relatórios das inspecções efectuadas, bem como submetê-los a homologação do secretário regional competente em matéria de educação;\n\np) Determinar as acções de fiscalização para verificação do cumprimento de medidas propostas no âmbito da actividade inspectiva;\n\nq) Elaborar e apresentar ao secretário regional competente em matéria de educação, até 31 de Março do ano seguinte àquele a que respeita, um relatório anual de actividades;\n\nr) Exercer as competências que lhe sejam delegadas pelo secretário regional competente em matéria de educação;\n\ns) Desempenhar as demais funções necessárias ao bom funcionamento do serviço, bem como as que, por lei ou determinação superior, lhe sejam cometidas."
+  },
+  "169256537": {
+   "fragment_id": "169252161",
+   "type": 11,
+   "heading": "Artigo 53.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Conselho administrativo\n\nO conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial, ao qual compete:\n\na) Superintender na gestão financeira e patrimonial da IRE;\n\nb) Aprovar os projectos de orçamento e suas alterações, bem como acompanhar a execução orçamental;\n\nc) Apreciar os planos anuais de actividades, bem como os respectivos relatórios de execução;\n\nd) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\ne) Superintender na organização anual da conta de gerência, aprová-la e submetê-la à apreciação da Secção Regional dos Açores do Tribunal de Contas;\n\nf) Promover a fiscalização da organização da contabilidade e zelar pela sua execução."
+  },
+  "169256538": {
+   "fragment_id": "169252162",
+   "type": 11,
+   "heading": "Artigo 54.º — Composição do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Composição do conselho administrativo\n\n1 - O conselho administrativo é composto pelo inspector regional, que preside, por um inspector e por um trabalhador que exerça funções públicas na IRE, ambos designados pelo inspector regional.\n\n2 - O conselho administrativo pode delegar no seu presidente os poderes que entenda convenientes."
+  },
+  "169256539": {
+   "fragment_id": "169252163",
+   "type": 11,
+   "heading": "Artigo 55.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Reuniões\n\n1 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros;\n\n2 - As reuniões são secretariadas pelo trabalhador que exerça funções públicas na inspecção, o qual elabora as respectivas actas."
+  },
+  "169256540": {
+   "fragment_id": "169252164",
+   "type": 11,
+   "heading": "Artigo 56.º — Núcleo de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Núcleo de inspecção\n\n1 - O núcleo de inspecção de Ponta Delgada é o serviço operativo ao qual compete desenvolver as acções previstas no artigo 46.º\n\n2 - O núcleo de inspecção compreende o corpo de inspecção e auditoria e depende directamente do inspector regional."
+  },
+  "169256541": {
+   "fragment_id": "169252165",
+   "type": 11,
+   "heading": "Artigo 57.º — Exercício de acções inspectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Exercício de acções inspectivas\n\n1 - A IRE desenvolve acções inspectivas de acordo com o respectivo plano de actividades previamente aprovado, que incidem sobre entidades do sistema educativo regional.\n\n2 - As acções a que se refere o número anterior são desenvolvidas por inspectores.\n\n3 - Para as acções inspectivas serão, preferencialmente, constituídas equipas cuja composição e coordenação são definidas por despacho do inspector regional.\n\n4 - Para a realização de acções inspectivas no âmbito da área de actuação da IRE pode também, excepcionalmente, ser solicitado apoio de docentes ou especialistas de reconhecida competência, a designar por despacho do secretário regional competente em matéria de educação, sob proposta do inspector regional, sempre que a apreciação dos factos exigir especiais conhecimentos técnicos ou científicos."
+  },
+  "169256542": {
+   "fragment_id": "169252166",
+   "type": 11,
+   "heading": "Artigo 58.º — Poderes instrutórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Poderes instrutórios\n\n1 - A IRE pode solicitar informações, esclarecimentos ou depoimentos que repute necessários para apuramento de matérias que se inscrevem nas suas competências, dirigindo-se directamente aos estabelecimentos de educação e de ensino integrados no sistema educativo regional, assim como a qualquer outra pessoa, singular ou colectiva.\n\n2 - Para o exercício dos poderes previstos no número anterior, os órgãos de administração e gestão e o pessoal de qualquer estabelecimento de educação e de ensino do sistema educativo regional, bem como os indivíduos e as entidades privadas, têm o dever de colaboração, sob pena de incorrerem em responsabilidade nos termos da lei, sem prejuízo do procedimento disciplinar que ao caso couber."
+  },
+  "169256543": {
+   "fragment_id": "169252167",
+   "type": 11,
+   "heading": "Artigo 59.º — Notificação e requisição de testemunhas ou declarantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Notificação e requisição de testemunhas ou declarantes\n\n1 - A IRE pode notificar os titulares dos órgãos e serviços da administração regional bem como das entidades e estabelecimentos objecto da acção inspectiva para a prestação de declarações ou depoimentos que se julguem necessários.\n\n2 - A comparência, para prestação de declarações ou depoimentos em acções inspectivas ou procedimentos disciplinares, de trabalhadores da administração regional, bem como de outros trabalhadores do sector público, deve ser requisitada à entidade na qual exerçam funções.\n\n3 - A notificação para comparência de quaisquer outras pessoas para os efeitos referidos no número anterior pode ser solicitada às autoridades policiais, observadas as disposições aplicáveis do Código do Processo Penal.\n\n4 - A IRE deve fazer constar no seu relatório anual de actividades quaisquer obstáculos colocados à normal prossecução das suas atribuições e ao normal exercício da sua actuação."
+  },
+  "169256544": {
+   "fragment_id": "169252168",
+   "type": 11,
+   "heading": "Artigo 60.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Medidas preventivas\n\nQuando seja detectada uma situação de grave lesão para o interesse público, o inspector regional pode determinar as providências previstas na legislação sectorial aplicável e que, em caso a caso, se justifiquem adequadas para prevenir ou eliminar tal situação."
+  },
+  "169256545": {
+   "fragment_id": "169252169",
+   "type": 11,
+   "heading": "Artigo 61.º — Direitos e prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Direitos e prerrogativas\n\nOs dirigentes e o pessoal de inspecção da IRE, quando em serviço e sempre que necessário ao desempenho das suas funções, gozam, para além de outros previstos na lei geral, dos direitos, poderes e prerrogativas seguintes:\n\na) Aceder livremente e permanecer, pelo tempo necessário ao desempenho da acção inspectiva, em todos os locais, serviços, organismos e estabelecimentos de educação e de ensino, público e particular, cooperativo e solidário, em que tenham de exercer as suas funções;\n\nb) Utilizar nos locais de trabalho, por cedência das respectivas entidades inspeccionadas, instalações adequadas ao desempenho das suas funções, com as indispensáveis condições de dignidade e de eficácia;\n\nc) Trocar correspondência, em serviço, com quaisquer entidades públicas ou privadas, sobre assuntos de interesse para o desenvolvimento da sua actuação ou para obtenção dos elementos que se mostrem indispensáveis;\n\nd) Convocar pessoal docente, não docente e discente, nomeadamente para a prestação de declarações ou depoimentos;\n\ne) Requisitar e reproduzir documentos para consulta, suporte ou junção aos relatórios, processos ou autos e, ainda, proceder ao exame de quaisquer elementos pertinentes à acção inspectiva em poder das entidades alvo de intervenção da IRE;\n\nf) Obter, para auxílio nas acções em curso, a cedência de material e equipamento próprio, bem como a colaboração de funcionários ou agentes da entidade inspeccionada que se mostrem indispensáveis, designadamente para o efeito de se executarem ou complementarem serviços em atraso, cuja falta impossibilite ou dificulte aquelas acções;\n\ng) Assistir, quando em serviço, a aulas ou a outras actividades escolares, reuniões e sessões dos órgãos de administração e gestão dos estabelecimentos de educação e de ensino sujeitos à sua acção inspectiva;\n\nh) Proceder, nos termos legais, à abertura ou selagem de quaisquer instalações, dependências, cofres ou móveis, bem como a apreensão de documentos e objectos de prova em poder dos serviços inspeccionados, de dirigentes, funcionários ou agentes, quando isso se mostre indispensável ao êxito da acção, para o que será lavrado o correspondente auto, dispensável apenas nos casos em que ocorram simples reproduções de documentos;\n\ni) Participar superiormente e ou ao Ministério Público a recusa de quaisquer informações ou elementos solicitados, bem como a falta injustificada de colaboração, ou qualquer situação de resistência ao exercício das suas funções;\n\nj) Solicitar, quando se mostre indispensável ao cumprimento das suas funções, a colaboração das autoridades administrativas, judiciais ou policiais;\n\nk) Ser considerado como autoridade pública para efeitos de protecção criminal."
+  },
+  "169256546": {
+   "fragment_id": "169252170",
+   "type": 11,
+   "heading": "Artigo 62.º — Identificação e livre trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Identificação e livre trânsito\n\nO pessoal dirigente e de inspecção goza do direito ao uso de cartão de identidade e livre trânsito, de modelo aprovado por portaria dos secretários regionais competentes em matéria de Administração Pública e educação."
+  },
+  "169256547": {
+   "fragment_id": "169252171",
+   "type": 11,
+   "heading": "Artigo 63.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Apoio administrativo\n\nO apoio administrativo à IRE é prestado pela DATA, nos termos dos artigos 9.º e seguintes."
+  },
+  "169256548": {
+   "fragment_id": "169252172",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "169256549": {
+   "fragment_id": "169252173",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "169256550": {
+   "fragment_id": "169252174",
+   "type": 11,
+   "heading": "Artigo 64.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Quadros\n\n1 - O pessoal afecto à SREF consta dos quadros regionais de ilha em vigor.\n\n2 - O pessoal dirigente, os cargos de direcção específica, de coordenação e de chefia, que correspondem a unidades orgânicas, afecto à SREF é o constante do anexo ii do presente diploma, do qual faz parte integrante."
+  },
+  "169256551": {
+   "fragment_id": "169256575",
+   "type": 11,
+   "heading": "Artigo 65.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Transição de pessoal\n\nAs actuais alterações na estrutura orgânica da Secretaria Regional da Educação e Formação são acompanhadas pela respectiva transição do pessoal afecto aos serviços objecto da presente reestruturação."
+  },
+  "169256552": {
+   "fragment_id": "169256576",
+   "type": 8,
+   "heading": "Secção II — Pessoal da IRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal da IRE"
+  },
+  "169256553": {
+   "fragment_id": "169256577",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "169256554": {
+   "fragment_id": "169256578",
+   "type": 11,
+   "heading": "Artigo 66.º — Recrutamento e provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Recrutamento e provimento\n\nO recrutamento e o provimento do pessoal da IRE, designadamente o dirigente, regulam-se pela lei geral, com as especificidades previstas nos artigos seguintes relativamente à carreira especial de inspecção."
+  },
+  "169256555": {
+   "fragment_id": "169256579",
+   "type": 3,
+   "heading": "Subsecção II — Carreira especial de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Carreira especial de inspecção"
+  },
+  "169256556": {
+   "fragment_id": "169256580",
+   "type": 11,
+   "heading": "Artigo 67.º — Pessoal de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Pessoal de inspecção\n\nO pessoal de inspecção da IRE constitui uma carreira unicategorial e o exercício de funções integrado na carreira especial de inspecção é efectuado na modalidade de nomeação, com o regime legal constante dos diplomas que estabelecem o regime da carreira especial de inspecção e que procedem à necessária regulamentação das carreiras inspectivas regionais."
+  },
+  "169256557": {
+   "fragment_id": "169256581",
+   "type": 11,
+   "heading": "Artigo 68.º — Acesso e integração na carreira especial de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Acesso e integração na carreira especial de inspecção\n\n1 - O acesso à carreira especial de inspecção é feito mediante procedimento concursal com a tramitação constante da Resolução do Conselho do Governo n.º 178/2009, de 24 de Novembro, rectificada pela Declaração de Rectificação n.º 14/2009, de 2 de Dezembro.\n\n2 - A integração na carreira especial de inspecção depende da aprovação em curso de formação específico, regulado por portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da administração pública e da educação, de duração não inferior a seis meses, que deve ter lugar no decurso do período experimental nos termos do regime geral.\n\n3 - É da competência do inspector regional propor ao secretário regional competente em matéria de educação as áreas de inspecção para as quais é feito o recrutamento, bem como os requisitos especiais em matéria de área de formação académica e experiência ou formação profissionais, nos termos da legislação aplicável."
+  },
+  "169256558": {
+   "fragment_id": "169256582",
+   "type": 11,
+   "heading": "Artigo 69.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Conteúdo funcional\n\nAo pessoal da carreira especial de inspecção incumbe:\n\na) Realizar inspecções, auditorias, fiscalizações, inquéritos, sindicâncias, acompanhamentos e avaliações;\n\nb) Instruir processos disciplinares que decorram das acções previstas na alínea anterior ou sejam determinados superiormente ou por disposição legal;\n\nc) Conceber e desenvolver projectos ou estudos de elevado grau de responsabilidade sobre matérias da competência da IRE;\n\nd) Elaborar informações, pareceres, relatórios ou outros documentos que sejam decorrentes do exercício das suas competências;\n\ne) Executar tarefas e dar cumprimento a decisões proferidas superiormente e inerentes à prossecução das atribuições da IRE;\n\nf) Exercer a coordenação das áreas compreendidas nas competências da IRE, quando para tal for designado por despacho do inspector regional."
+  },
+  "169256559": {
+   "fragment_id": "169256583",
+   "type": 11,
+   "heading": "Artigo 70.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Remunerações\n\nO pessoal dirigente da IRE é remunerado nos termos do mapa anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "169256560": {
+   "fragment_id": "169256584",
+   "type": 11,
+   "heading": "Artigo 71.º — Impedimentos, incompatibilidades e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Impedimentos, incompatibilidades e inibições\n\n1 - O pessoal da IRE está sujeito ao regime geral de impedimentos e incompatibilidades vigente na Administração Pública.\n\n2 - É especialmente vedado aos trabalhadores integrados na carreira especial de inspecção executar quaisquer acções de natureza inspectiva ou disciplinar em órgãos ou serviços em que sejam visados parentes ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral, bem como ser proprietário ou exercer qualquer actividade, quer docente quer não docente, em estabelecimento de educação e de ensino, público ou particular.\n\n3 - Encontra-se ainda vedado aos trabalhadores referidos no número anterior efectuar quaisquer acções de natureza inspectiva ou disciplinar em órgãos, serviços e entidades onde tenham exercido funções há menos de três anos ou onde as exerçam em regime de acumulação.\n\n4 - Os trabalhadores integrados na carreira especial de inspecção não podem aceitar hospedagem, onerosa ou gratuita, em estabelecimento que seja propriedade de dirigentes dos órgãos ou serviços inspeccionados, quando estes sejam objecto de qualquer acção de natureza inspectiva.\n\n5 - Os trabalhadores integrados na carreira especial de inspecção não podem exercer funções, pelo período de dois anos contados da cessação da actividade inspectiva ou disciplinar, nas entidades onde tenham efectuado qualquer acção dessa natureza, salvo nos casos de regresso à actividade exercida à data da nomeação, sem prejuízo da aplicação das disposições relativas a impedimentos constantes dos artigos 44.º a 51.º do Código do Procedimento Administrativo.\n\n6 - Aos trabalhadores integrados na carreira especial de inspecção não é permitido o exercício de funções públicas remuneradas ou de actividades privadas, excepto em casos devidamente fundamentados, autorizados por despacho do secretário regional competente em matéria de educação, sob parecer prévio do inspector regional.\n\n7 - O despacho de autorização deverá fixar, para cada caso, as condições em que se permite o exercício dessa actividade, podendo a todo o tempo ser revogado com fundamento na inobservância ou desrespeito dessas mesmas condições, o qual só será concedido desde que a acumulação não se mostre susceptível de comprometer ou interferir com a isenção exigida para o exercício da actividade inspectiva."
+  },
+  "169256561": {
+   "fragment_id": "169256585",
+   "type": 11,
+   "heading": "Artigo 72.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Avaliação do desempenho\n\n1 - O pessoal da IRE é objecto de avaliação do desempenho de acordo com a legislação em vigor para a Administração Pública.\n\n2 - A aplicação do sistema integrado de avaliação do desempenho da Administração Pública ao pessoal da carreira especial de inspecção da IRE poderá ser alvo de adaptação, tendo em consideração a especificidade da mesma carreira técnica superior, em condições definidas por portaria dos secretários regionais competentes em matéria de Administração Pública e educação."
+  },
+  "169256562": {
+   "fragment_id": "169256586",
+   "type": 11,
+   "heading": "Artigo 73.º — Domicílio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Domicílio profissional\n\nO pessoal da carreira especial de inspecção pode estabelecer, mediante despacho do inspector regional e com a anuência do interessado, domicílio profissional em localidade diferente da da sede do serviço."
+  },
+  "169256563": {
+   "fragment_id": "169256587",
+   "type": 11,
+   "heading": "Artigo 74.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Dever de sigilo\n\nAlém da sujeição aos deveres gerais inerentes ao exercício da função pública, os trabalhadores da IRE estão especialmente obrigados a guardar rigoroso sigilo profissional relativamente a todos os assuntos de que tiverem conhecimento no exercício, ou por causa do exercício, das suas funções que não se destinem a ser do domínio público."
+  },
+  "169256564": {
+   "fragment_id": "169256588",
+   "type": 11,
+   "heading": "Artigo 75.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Patrocínio judiciário\n\n1 - O pessoal dirigente e de inspecção da IRE que seja demandado por actos cometidos ou ocorridos no exercício e por causa das suas funções tem direito a ser assistido por advogado retribuído a expensas da Região, através do orçamento da IRE, mediante despacho de autorização do secretário regional competente em matéria de educação, bem como às custas judiciais, ao transporte e ajudas de custo, quando a localização do tribunal ou das entidades policiais o justifique.\n\n2 - O disposto no número anterior não afasta a obrigação de o interessado ressarcir a Região em todas as despesas suportadas, sempre que da decisão final transitada em julgado se conclua pela inexistência do requisito previsto na parte inicial do número anterior.\n\n3 - O advogado referido no n.º 1 é indicado pelo inspector regional, ouvido o interessado."
+  },
+  "169256565": {
+   "fragment_id": "169256589",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nQuadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Educação e Formação\n\n(ver documento original)"
+  }
+ }
+}

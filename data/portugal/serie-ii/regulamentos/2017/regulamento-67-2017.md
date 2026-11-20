@@ -23,6 +23,15 @@ publication:
   pages: 1953 - 1954
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/019000000/0195301954.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

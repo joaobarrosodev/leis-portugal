@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24558 - 24561
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/150000000/2455824561.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-08-06'
+entry_into_force:
+  date: '2016-08-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

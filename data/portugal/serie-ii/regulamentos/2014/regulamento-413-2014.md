@@ -33,7 +33,14 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:924051934:por#art-37'
+    detail: 1 - São revogados o [Regulamento n.º 413/2014], de 2 de setembro, publicado no Diário da República, 2.ª série,
+      n.º 179, de 17 de setembro e os Despachos reitorais n.º 4/2011 e 5/2011.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28 - 31
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/124060000/0002800031.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-07-14'
+entry_into_force:
+  date: '2006-07-14'
+  rule: 15 dias após a publicação em Diário da República, nos termos da Lei das Finanças Locais
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

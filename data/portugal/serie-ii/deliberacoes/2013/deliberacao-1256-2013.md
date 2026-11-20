@@ -24,6 +24,16 @@ publication:
   pages: 17819 - 17834
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/106000000/1781917834.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República, retroagindo os seus efeitos à data de 01
+    de janeiro de 2013
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

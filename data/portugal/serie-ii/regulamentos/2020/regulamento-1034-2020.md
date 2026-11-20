@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 223 - 228
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/226000000/0022300228.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-20'
+entry_into_force:
+  date: '2020-11-20'
+  rule: no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:205450910:por#art-25'
+    detail: O presente regulamento, uma vez homologado pelo Reitor da U.Porto, entra em vigor no dia seguinte ao da respetiva
+      publicação no Diário da República, e revoga o [Regulamento n.º 1034/2020], publicado no Diário da República, 2.ª série,
+      n.º 253, de 31 de dezembro de 2020.
 notes: []
 language: por
 version:

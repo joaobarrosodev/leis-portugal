@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7341 - 7342
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/076000000/0734107342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-19'
+entry_into_force:
+  date: '2017-04-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

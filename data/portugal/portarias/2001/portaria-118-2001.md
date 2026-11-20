@@ -39,24 +39,20 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2001-07-22'
 version_history:
   file: portaria-118-2001.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-18'
   versions:
-  - date: '2001-02-23'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2001-07-22'
     amending: pt:dre:394328:por
     amending_title: Portaria n.º 731/2001
     changes:
-    - Altera Artigo unidades 8-8
-    - Altera Artigo unidades 15-15
+    - Altera Artigo 2.º
+    - Altera 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/118/2001/02/23/p/dre/pt/html
@@ -69,21 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2001-386217
   metadata_url: https://data.dre.pt/eli/port/118/2001/02/23/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2001-386217
-  consolidated_url: null
-  retrieved_at: '2026-10-23T14:28:26Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003479091
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003479091
+  retrieved_at: '2026-11-20T13:53:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: 9befe1ab5de921af7c0d54d7f7c993e8a07a036266ea09f4834366a817ad2179
+  source_sha256: 367bb9b5e11ed89ffe0f40083aa7f1633e30dc45a0ef99cb844ba3ba2da96893
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T14:28:26Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 731/2001. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-118-2001.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:38Z'
+  notes: 1 versão(ões); histórico completo em portaria-118-2001.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,42 +107,46 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/10/2000/06/21/p/dre
 article_structure:
-  article_count: 0
+  article_count: 9
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T14:28:26Z'
+  checked_at: '2026-11-20T13:53:38Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 118/2001
 
-de 23 de Fevereiro
-
-Em cumprimento do disposto no n.º 5 do artigo 3.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho:
+Em cumprimento do disposto no n.º 5 do artigo 3.º da Lei n.º 10/2000, de 21 de Junho:
 
 Manda o Governo, pelos Secretários de Estado da Comunicação Social e Adjunto do Ministro da Administração Interna, o seguinte:
 
-1.º As sondagens de opinião a que se refere o artigo 1.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho, só podem ser realizadas por entidades devidamente credenciadas para o efeito.
+###### 1.º
 
-2.º A actividade a que se refere o número anterior pode ser exercida por pessoas colectivas que reúnam cumulativamente os seguintes requisitos:
+As sondagens de opinião a que se refere o artigo 1.º da Lei n.º 10/2000, de 21 de Junho, só podem ser realizadas por entidades devidamente credenciadas para o efeito.
+
+###### Artigo 2.º
+
+A actividade a que se refere o número anterior pode ser exercida por pessoas colectivas que reúnam cumulativamente os seguintes requisitos:
 
 a) Tenham como objecto social a realização de inquéritos ou estudos de opinião;
 
 b) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;
 
-> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.
-
 c) Possuam um quadro mínimo permanente de três técnicos qualificados para a realização de sondagens de opinião;
 
 d) Recorram unicamente a indivíduos com capacidade eleitoral activa na recolha de dados junto da população.
 
-3.º Os interessados devem juntar ao requerimento de autorização para o exercício da actividade os seguintes elementos:
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22.
+
+###### 3.º
+
+Os interessados devem juntar ao requerimento de autorização para o exercício da actividade os seguintes elementos:
 
 a) Denominação, sede e demais elementos identificativos da entidade candidata;
 
@@ -156,21 +156,33 @@ c) Identificação da estrutura e meios humanos afectos à área das sondagens, 
 
 d) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;
 
-> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.
-
 e) Descrição pormenorizada das técnicas de recolha e tratamento de dados a utilizar, bem como dos princípios éticos pelos quais se pautará o exercício da sua actividade, tendo como referência mínima os códigos de conduta adoptados pela Associação Europeia para os Estudos de Opinião e de Marketing (ESOMAR).
 
-4.º Compete à Alta Autoridade para a Comunicação Social (AACS) apreciar os pedidos de credenciação, tendo como base a avaliação dos elementos referidos nos números anteriores, e decidir, nos 20 dias úteis posteriores à recepção, sobre a sua procedência ou renovação.
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22.
 
-5.º As credenciais são válidas pelo período de três anos, devendo os interessados requerer, nos 60 dias anteriores à data da caducidade, a sua renovação, para o que deverão apresentar o relatório da actividade desenvolvida durante o período da vigência da respectiva credencial.
+###### 4.º
 
-6.º A transferência de titularidade e a mudança do responsável técnico da entidade credenciada devem ser comunicadas, no prazo de 30 dias a contar da sua ocorrência, à AACS, para aprovação.
+Compete à Alta Autoridade para a Comunicação Social (AACS) apreciar os pedidos de credenciação, tendo como base a avaliação dos elementos referidos nos números anteriores, e decidir, nos 20 dias úteis posteriores à recepção, sobre a sua procedência ou renovação.
 
-7.º A credenciação caduca se, pelo período de dois anos consecutivos, a entidade em causa não for responsável pela realização de qualquer sondagem de opinião, regularmente depositada junto da AACS.
+###### 5.º
 
-8.º Compete à AACS organizar e manter actualizado um registo de entidades credenciadas para a realização das sondagens de opinião a que se refere a presente portaria.
+As credenciais são válidas pelo período de três anos, devendo os interessados requerer, nos 60 dias anteriores à data da caducidade, a sua renovação, para o que deverão apresentar o relatório da actividade desenvolvida durante o período da vigência da respectiva credencial.
 
-9.º O modelo das credenciais é definido pela AACS.
+###### 6.º
+
+A transferência de titularidade e a mudança do responsável técnico da entidade credenciada devem ser comunicadas, no prazo de 30 dias a contar da sua ocorrência, à AACS, para aprovação.
+
+###### 7.º
+
+A credenciação caduca se, pelo período de dois anos consecutivos, a entidade em causa não for responsável pela realização de qualquer sondagem de opinião, regularmente depositada junto da AACS.
+
+###### 8.º
+
+Compete à AACS organizar e manter actualizado um registo de entidades credenciadas para a realização das sondagens de opinião a que se refere a presente portaria.
+
+###### 9.º
+
+O modelo das credenciais é definido pela AACS.
 
 Em 6 de Fevereiro de 2001.
 

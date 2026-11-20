@@ -23,6 +23,15 @@ publication:
   pages: 31382 - 31385
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/144000000/3138231385.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias apôs a sua publicação na forma legal
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

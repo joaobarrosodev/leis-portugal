@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4147 - 4155
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/018000000/0414704155.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-09'
+entry_into_force:
+  date: '2013-02-09'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

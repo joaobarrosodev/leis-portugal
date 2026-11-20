@@ -23,6 +23,15 @@ publication:
   pages: 24794 - 24795
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/167000000/2479424795.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

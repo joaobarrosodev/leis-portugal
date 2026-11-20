@@ -24,6 +24,15 @@ publication:
   pages: 110 - 111
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/152000000/0011000111.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o ano letivo de 2020/2021 e seguintes
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

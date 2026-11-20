@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 279 - 285
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/165000000/0027900285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-26'
+entry_into_force:
+  date: '2020-08-26'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos, conjugados, dos artigos 139.º e 140.º do
+    Código do Procedimento Administrativo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

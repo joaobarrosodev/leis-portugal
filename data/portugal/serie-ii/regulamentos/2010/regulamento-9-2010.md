@@ -24,6 +24,15 @@ publication:
   pages: 1002 - 1003
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/005000000/0100201003.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo 2009/2010
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

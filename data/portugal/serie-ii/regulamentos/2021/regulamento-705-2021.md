@@ -23,6 +23,16 @@ publication:
   pages: 122 - 129
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/144000000/0012200129.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2021/2022, após aprovação pelo CD, com publicitação na página da internet da ESSCVP-Lisboa,
+    sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

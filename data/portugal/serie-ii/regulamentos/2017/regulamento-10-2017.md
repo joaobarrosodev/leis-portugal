@@ -23,6 +23,15 @@ publication:
   pages: 370 - 373
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/003000000/0037000373.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: dez dias úteis após a sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

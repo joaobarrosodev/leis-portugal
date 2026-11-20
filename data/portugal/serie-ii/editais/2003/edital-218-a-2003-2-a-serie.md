@@ -23,6 +23,15 @@ publication:
   pages: 114-(8) a 114-(20)
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/065042001/0000800020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia útil após a sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

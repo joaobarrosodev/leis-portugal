@@ -23,8 +23,23 @@ publication:
   pages: 13243 - 13243
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/083000000/1324313243.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação na página Web da FDUNL
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:862562964:por#art-5'
+    detail: É revogado o [Regulamento n.º 382/2019], da NOVA School of Law.
 notes: []
 language: por
 version:

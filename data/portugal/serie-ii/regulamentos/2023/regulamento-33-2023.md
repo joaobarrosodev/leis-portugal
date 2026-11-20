@@ -23,6 +23,16 @@ publication:
   pages: 449 - 453
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/010000000/0044900453.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia Municipal e vigora anualmente até deliberação em contrário deste
+    órgão municipal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

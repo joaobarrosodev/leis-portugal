@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14230 - 14232
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/078000000/1423014232.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-04-20'
+entry_into_force:
+  date: '2012-04-20'
+  rule: no dia seguinte à sua publicação na forma legal
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

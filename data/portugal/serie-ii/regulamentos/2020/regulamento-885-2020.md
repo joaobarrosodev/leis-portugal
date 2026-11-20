@@ -23,6 +23,15 @@ publication:
   pages: 288 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/202000000/0028800293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação nos termos legais, e
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: a partir do ano letivo 2020/2021, retroagindo os mesmos ao início daquele
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

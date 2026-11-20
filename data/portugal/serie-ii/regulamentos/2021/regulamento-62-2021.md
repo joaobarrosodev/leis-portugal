@@ -23,6 +23,15 @@ publication:
   pages: 182 - 185
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/011000000/0018200185.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos dez dias após a sua aprovação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

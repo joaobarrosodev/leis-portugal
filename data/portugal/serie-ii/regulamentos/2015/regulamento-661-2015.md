@@ -23,6 +23,15 @@ publication:
   pages: 28113 - 28114
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/191000000/2811328114.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República."
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

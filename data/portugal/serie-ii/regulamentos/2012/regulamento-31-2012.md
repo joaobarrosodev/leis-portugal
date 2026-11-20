@@ -23,8 +23,24 @@ publication:
   pages: 3109 - 3112
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/018000000/0310903112.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao dia da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:69993693:por#art-18'
+    detail: 1. O presente regulamento revoga o [Regulamento n.º 31/2012], publicado na 2.ª série do Diário da República, n.º
+      18, de 25 de janeiro, sendo aplicado a partir do ano letivo de 2015/2016.
 notes: []
 language: por
 version:

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/060000000/0892708929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124831308:por#art-13'
+    detail: Na sequência da publicação da presente retificação, é revogado o [Regulamento n.º 191/2018], publicado no Diário
+      da República, 2.ª série, n.º 60, de 26 de março de 2018, Regulamento de Creditação da Escola Superior Gallaecia.
 notes: []
 language: por
 version:

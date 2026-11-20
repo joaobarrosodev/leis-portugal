@@ -23,6 +23,16 @@ publication:
   pages: 634 - 638
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/054000000/0063400638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo ano letivo (2023/2024), com publicação em edital nos locais de estilo e no site da União das Freguesias
+    de Azambujeira e Malaqueijo https://jf-azambujeiraemalaqueijo.pt e após aprovação pel
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

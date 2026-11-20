@@ -23,8 +23,23 @@ publication:
   pages: 29258 - 29261
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/141000000/2925829261.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após a sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1786756:por#art-10'
+    detail: É revogado o [Regulamento n.º 309/2009], publicado na 2.ª série do Diário da República, de 23 de julho de 2009.
 notes: []
 language: por
 version:

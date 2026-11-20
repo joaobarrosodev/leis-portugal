@@ -23,6 +23,15 @@ publication:
   pages: 1376 - 1380
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/010000000/0137601380.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente posterior ao da sua publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

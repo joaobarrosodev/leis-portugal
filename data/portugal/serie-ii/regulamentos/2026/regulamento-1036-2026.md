@@ -23,6 +23,15 @@ publication:
   pages: 475 - 489
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/149000000/0047500489.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo órgão competente da Junta de Freguesia de Pereira e publicação nos meios oficiais da Freguesia
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

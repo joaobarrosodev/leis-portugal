@@ -260,18 +260,18 @@ source:
   metadata_url: https://data.dre.pt/eli
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-aprovacao-constituicao/1976-34520775
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-aprovacao-constituicao/1976-34520775
-  retrieved_at: '2026-10-22T11:48:38Z'
+  retrieved_at: '2026-11-20T14:26:14Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: 9b7876fb33e775373f0c5f595991d69e96c0d936d738f58a5129b68aebab10a9
+  source_sha256: 9b03df88284972458de4bb4ab5fb36f45f43c6b92990bb0b1e586ea04e8092e5
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:48:38Z'
+  generated_at: '2026-11-20T14:26:14Z'
   notes: 8 versão(ões); histórico completo em decreto-aprovacao-constituicao-1976-04-10-502635.versoes.json.
 reuse:
   status: permitted
@@ -339,7 +339,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:48:38Z'
+  checked_at: '2026-11-20T14:26:14Z'
   warnings: []
   errors: []
 ---
@@ -396,9 +396,9 @@ São cidadãos portugueses todos aqueles que como tal sejam considerados pela le
 
 2. A lei define a extensão e o limite das águas territoriais, a zona económica exclusiva e os direitos de Portugal aos fundos marinhos contíguos.
 
-3. O Estado não aliena qualquer parte do território português ou dos direitos de soberania que sobre ele exerce, sem prejuízo de rectificação de fronteiras.
+3. O Estado não aliena qualquer parte do território português ou os direitos de soberania que sobre ele exerce, sem prejuízo de rectificação de fronteiras.
 
-> Alterado pelo/a Artigo 4.º do/a [Lei Constitucional n.º 1/89 - Diário da República n.º 155/1989, Suplemento n.º 1, Série I de 1989-07-08](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551), em vigor a partir de 1989-08-07
+> Alterado pelo/a Artigo 4.º do/a Lei Constitucional n.º 1/89 - Diário da República n.º 155/1989, 1º Suplemento, Série I de 1989-07-08, em vigor a partir de 1989-08-07.
 
 > Alterado pelo/a Artigo 4.º do/a [Lei Constitucional n.º 1/82 - Diário da República n.º 227/1982, Série I de 1982-09-30](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), em vigor a partir de 1982-10-30
 
@@ -968,7 +968,9 @@ g) O exercício dos direitos de antena, de resposta e de réplica política.
 
 2. Os partidos políticos representados na Assembleia da República, e que não façam parte do Governo, têm direito, nos termos da lei, a tempos de antena no serviço público de rádio e televisão, a ratear de acordo com a sua representatividade, bem como o direito de resposta ou de réplica política às declarações políticas do Governo, de duração e relevo iguais aos dos tempos de antena e das declarações do Governo, de iguais direitos gozando, no âmbito da respectiva região, os partidos representados nas Assembleias Legislativas das regiões autónomas.
 
-> Alterado pelo/a Artigo 8.º do/a [Lei Constitucional n.º 1/2004 - Diário da República n.º 173/2004, Série I-A de 2004-07-24](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783), em vigor a partir de 2004-07-29
+3. Nos períodos eleitorais os concorrentes têm direito a tempos de antena, regulares e equitativos, nas estações emissoras de rádio e de televisão de âmbito nacional e regional, nos termos da lei.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei Constitucional n.º 1/2004 - Diário da República n.º 173/2004, Série I-A de 2004-07-24](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783), em vigor a partir de 2004-07-29.
 
 > Alterado pelo/a Artigo 23.º do/a [Lei Constitucional n.º 1/97 - Diário da República n.º 218/1997, Série I-A de 1997-09-20](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), em vigor a partir de 1997-10-05
 
@@ -1470,11 +1472,11 @@ e) Regulamentar a procriação assistida, em termos que salvaguardem a dignidade
 
 f) Regular os impostos e os benefícios sociais, de harmonia com os encargos familiares;
 
-g) Definir, ouvidas as associações representativas das famílias, e executar uma política de família com carácter global e integrado.
+g) Definir, ouvidas as associações representativas das famílias, e executar uma política de família com carácter global e integrado;
 
 h) Promover, através da concertação das várias políticas sectoriais, a conciliação da actividade profissional com a vida familiar.
 
-> Alterado pelo/a Artigo 11.º do/a [Lei Constitucional n.º 1/2004 - Diário da República n.º 173/2004, Série I-A de 2004-07-24](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783), em vigor a partir de 2004-07-29
+> Alterado pelo/a Artigo 11.º do/a [Lei Constitucional n.º 1/2004 - Diário da República n.º 173/2004, Série I-A de 2004-07-24](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783), em vigor a partir de 2004-07-29.
 
 > Alterado pelo/a Artigo 40.º do/a [Lei Constitucional n.º 1/97 - Diário da República n.º 218/1997, Série I-A de 1997-09-20](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), em vigor a partir de 1997-10-05
 
@@ -4564,9 +4566,9 @@ Junto de cada região pode haver um representante do Governo, nomeado em Conselh
 
 1. A fim de intensificar a participação das populações na vida administrativa local podem ser constituídas organizações de moradores residentes em área inferior à da respectiva freguesia.
 
-2. A assembleia de freguesia, por sua iniciativa, ou a requerimento de comissões de moradores ou de um número significativo de moradores, demarcará as áreas territoriais das organizações referidas no número anterior, solucionando os eventuais conflitos daí resultantes.
+2. A assembleia de freguesia, por sua iniciativa ou a requerimento de comissões de moradores ou de um número significativo de moradores, demarcará as áreas territoriais das organizações referidas no número anterior, solucionando os eventuais conflitos daí resultantes.
 
-> Alterado pelo/a Artigo 169.º do/a [Lei Constitucional n.º 1/89 - Diário da República n.º 155/1989, Suplemento n.º 1, Série I de 1989-07-08](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551), em vigor a partir de 1989-08-07
+> Alterado pelo/a Artigo 169.º do/a Lei Constitucional n.º 1/89 - Diário da República n.º 155/1989, 1º Suplemento, Série I de 1989-07-08, em vigor a partir de 1989-08-07.
 
 > Alterado pelo/a Artigo 196.º do/a [Lei Constitucional n.º 1/82 - Diário da República n.º 227/1982, Série I de 1982-09-30](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), em vigor a partir de 1982-10-30
 
@@ -4656,7 +4658,7 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 ###### Artigo 269.º — (Regime da função pública)
 
-1. No exercício das suas funções, trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da lei, pelos órgãos competentes da Administração.
+1. No exercício das suas funções, os trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da lei, pelos órgãos competentes da Administração.
 
 2. Os trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas não podem ser prejudicados ou beneficiados em virtude do exercício de quaisquer direitos políticos previstos na Constituição, nomeadamente por opção partidária.
 
@@ -4666,7 +4668,7 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 5. A lei determina as incompatibilidades entre o exercício de empregos ou cargos públicos e o de outras actividades.
 
-> Alterado pelo/a Artigo 201.º do/a [Lei Constitucional n.º 1/82 - Diário da República n.º 227/1982, Série I de 1982-09-30](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), em vigor a partir de 1982-10-30, produz efeitos a partir de 1982-10-30
+> Alterado pelo/a Artigo 201.º do/a [Lei Constitucional n.º 1/82 - Diário da República n.º 227/1982, Série I de 1982-09-30](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), em vigor a partir de 1982-10-30.
 
 ###### Artigo 270.º — (Restrições ao exercício de direitos)
 

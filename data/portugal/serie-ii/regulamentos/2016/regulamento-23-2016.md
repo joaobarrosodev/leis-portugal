@@ -23,6 +23,15 @@ publication:
   pages: 819 - 820
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/005000000/0081900820.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias depois da sua publicitação em termos legais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

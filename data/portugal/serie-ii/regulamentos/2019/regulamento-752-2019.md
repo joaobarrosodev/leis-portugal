@@ -23,6 +23,15 @@ publication:
   pages: 371 - 385
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/186000000/0037100385.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia de Freguesia e garantidas as respetivas publicidades
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8111 - 8115
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/053000000/0811108115.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação no Diário da República, após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26414 - 26416
   pdf_url: https://files.diariodarepublica.pt/2s/2017/11/225000000/2641426416.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-11-23'
+entry_into_force:
+  date: '2017-11-23'
+  rule: no dia imediato ao da sua publicação no Diário da República, sem prejuízo de posterior publicação no sistema de informação
+    (SIGARRA) da FEP
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 246 - 248
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/208000000/0024600248.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente a seguir ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

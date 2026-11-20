@@ -23,6 +23,15 @@ publication:
   pages: 398-(7) a 398-(9)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/174000001/0000700009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

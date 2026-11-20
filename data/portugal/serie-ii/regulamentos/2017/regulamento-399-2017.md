@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15603 - 15608
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/143000000/1560315608.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-31'
+entry_into_force:
+  date: '2017-07-31'
+  rule: cinco dias após a sua publicação no Diário da República, sem prejuízo da sua publicação na internet e nos locais estilo
+    habituais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

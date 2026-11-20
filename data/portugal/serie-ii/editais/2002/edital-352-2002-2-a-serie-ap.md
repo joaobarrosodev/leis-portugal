@@ -23,6 +23,16 @@ publication:
   pages: 79 - 80
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/171098000/0007900080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em cada zona de estacionamento limitada 15 dias depois de, em edital, também afixado nos lugares públicos e de estilo
+    do concelho, ser tornado público o início de estacionamento pago nas zonas determi
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

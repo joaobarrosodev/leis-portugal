@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 481 - 505
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/203000000/0048100505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-21'
+entry_into_force:
+  date: '2026-10-21'
+  rule: no dia seguinte à sua publicação, e aplica-se a todos os procedimentos administrativos de operações urbanísticas,
+    isentas ou não de controlo prévio, nos termos no RJUE, iniciados após a sua entrada em
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

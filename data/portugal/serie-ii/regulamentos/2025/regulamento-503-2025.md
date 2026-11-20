@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 298 - 302
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/078000000/0029800302.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-23'
+entry_into_force:
+  date: '2025-04-23'
+  rule: no dia seguinte ao da sua publicação pelos meios tidos por convenientes e adequados pela CMCL
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

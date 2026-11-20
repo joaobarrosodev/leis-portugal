@@ -23,6 +23,15 @@ publication:
   pages: 8618-(72) a 8618-(76)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/064000002/0007200076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a contar da data da sua publicação em edital afixado nos lugares de estilo
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

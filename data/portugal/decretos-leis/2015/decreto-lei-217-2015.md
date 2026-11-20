@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2019-01-01'
+  consolidation_date: '2026-11-12'
 version_history:
   file: decreto-lei-217-2015.versoes.json
-  count: 2
-  source_lastmod: '2024-06-25'
+  count: 3
+  source_lastmod: '2026-11-12'
   versions:
   - date: '2015-10-07'
     amending: null
@@ -90,6 +90,15 @@ version_history:
     - Altera Artigo 58.º
     - Altera Artigo 60.º
     - Altera Anexo VII
+  - date: '2026-11-12'
+    amending: pt:dre:1194495725:por
+    amending_title: Decreto-Lei n.º 215/2026
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/217/2015/p/cons/20181231/pt/html
@@ -104,19 +113,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/2015/p/cons/20181231/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-117551421
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-117551421
-  retrieved_at: '2026-10-22T12:23:13Z'
+  retrieved_at: '2026-11-20T13:52:12Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 61dfad0f45d209f020ade160cb32440e3bd9803f7fc04b3133e08e1645a0a6c9
+  source_sha256: 01459d5aad022ed676ba3dd6095cf56e9ab173818518927f93e78a4f08e967da
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:23:13Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-217-2015.versoes.json.
+  generated_at: '2026-11-20T13:52:12Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-217-2015.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,6 +163,11 @@ relationships:
     Altera Artigo 16.º; Altera Artigo 17.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589
   date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:1194495725:por
+  label: Altera Artigo 2.º; Altera Artigo 21.º; Altera Artigo 24.º; Altera Artigo 54.º; Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725
+  date: '2026-11-11'
 - type: cites
   target: celex:31991L0440
   label: null
@@ -247,7 +261,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:23:13Z'
+  checked_at: '2026-11-20T13:52:12Z'
   warnings: []
   errors: []
 ---
@@ -334,9 +348,15 @@ b) Cujas funções essenciais sejam exercidas por um organismo não controlado p
 
 10 - O disposto no número anterior aplica-se ainda que as redes referidas sejam também utilizadas para serviços de transporte de mercadorias.
 
-11 - O serviço de transporte ferroviário de passageiros realizado com fins exclusivamente turísticos ou históricos está excluído do âmbito de aplicação do presente decreto-lei, sem prejuízo do dever de cumprimento, pelos seus veículos, das regras e regulamentos nacionais de segurança especificamente definidos pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), destinados a garantir uma circulação segura, nos termos do disposto no n.º 5 do artigo 4.º do Decreto-Lei n.º 270/2003, de 28 de outubro, na sua redação atual.
+11 - O serviço de transporte ferroviário de passageiros realizado com fins exclusivamente turísticos ou históricos está excluído do âmbito de aplicação do presente decreto-lei, sem prejuízo do dever de cumprimento, pelos seus veículos, das regras e regulamentos nacionais de segurança especificamente definidos pela AMT enquanto autoridade nacional de segurança ferroviária, destinados a garantir uma circulação segura, nos termos do disposto no n.º 5 do artigo 4.º do
 
-12 - Sem prejuízo do disposto nos números anteriores, podem ser impostos às empresas ferroviárias requisitos de acesso à atividade e utilizações das infraestruturas ferroviárias excluídas do âmbito de aplicação do presente decreto-lei, por deliberação do IMT, I. P., de acordo com as regras de acesso à atividade, de âmbito nacional ou europeu, aplicáveis.
+Decreto-Lei n.º 270/2003
+
+, de 28 de outubro.
+
+12 - Sem prejuízo do disposto nos números anteriores, podem ser impostos às empresas ferroviárias requisitos de acesso à atividade e utilizações das infraestruturas ferroviárias excluídas do âmbito de aplicação do presente decreto-lei, por deliberação da AMT enquanto autoridade nacional de segurança ferroviária, de acordo com as regras de acesso à atividade, de âmbito nacional ou europeu.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 > Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
 
@@ -884,6 +904,10 @@ c) À proteção aos utilizadores, bem como às condições de saúde, seguranç
 
 2 - Quando a empresa não tenha ainda iniciado a atividade, deve demonstrar que tem condições de vir a dispor de uma organização de gestão nos termos previstos no número anterior.
 
+3 - No exercício de competências previstas no presente artigo, o IMT, I. P., articula-se com a AMT enquanto autoridade nacional de segurança ferroviária.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
 ###### Artigo 22.º — Requisitos do seguro de responsabilidade civil
 
 1 - Sem prejuízo das regras da União Europeia sobre auxílios estatais, nos termos dos artigos 93.º, 107.º e 108.º do TFUE, os riscos decorrentes da atividade das empresas de transporte ferroviário e, nomeadamente, os relacionados com acidentes que causem danos aos passageiros, à infraestrutura, à bagagem, à carga, ao correio e a terceiros, devem ser cobertos por um seguro de responsabilidade civil.
@@ -969,6 +993,10 @@ m) Desrespeito pela empresa dos acordos aplicáveis ao transporte internacional 
 9 - Sem prejuízo dos casos comprovadamente urgentes, os atos de suspensão ou revogação de licenças estão sujeitos à tramitação prevista no Código de Procedimento Administrativo.
 
 10 - A emissão, a suspensão, a alteração ou a revogação de uma licença deve ser comunicada imediatamente à Agência Ferroviária Europeia.
+
+11 - No exercício de competências previstas no presente artigo, o IMT, I. P., articula-se com a AMT enquanto autoridade nacional de segurança ferroviária.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 ###### Artigo 25.º — Procedimento para a emissão das licenças
 
@@ -1440,9 +1468,11 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 4 - O gestor de infraestrutura, caso o considere necessário, pode exigir que as empresas ferroviárias coloquem à sua disposição os recursos que se lhe afigurem mais adequados para restabelecer a situação normal o mais rapidamente possível.
 
-5 - O IMT, I. P., pode exigir que as empresas ferroviárias tomem parte na execução e na fiscalização das normas e regras de segurança.
+5 - A AMT no exercício de competências de autoridade nacional de segurança ferroviária pode exigir que as empresas ferroviárias tomem parte na execução e na fiscalização das normas e regras de segurança.
 
 6 - As perturbações na circulação ferroviária devem ser comunicadas às empresas prestadoras de serviços de transporte de passageiros, com antecedência razoável, com vista à implementação de medidas que assegurem a mobilidade da população.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
 
 > Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
 
@@ -1468,7 +1498,7 @@ e) Ao nível ou à estrutura das taxas de utilização da infraestrutura que tê
 
 f) Às disposições em matéria de acesso, nos termos dos artigos 10.º a 13.º;
 
-g) Ao acesso aos serviços e à sua tarifação, nos termos do artigo 13.º
+g) Ao acesso aos serviços e à sua tarifação, nos termos do artigo 13.º;
 
 h) À gestão do tráfego;
 
@@ -1482,11 +1512,11 @@ j) Ao cumprimento dos requisitos, incluindo os relativos a conflitos de interess
 
 4 - A AMT deve cooperar com o IMT, I. P., relativamente às matérias de segurança ferroviária e de acesso à atividade de transporte ferroviário.
 
-5 - A AMT e o IMT, I. P., devem assegurar, em conjunto, um quadro de partilha de informações e de cooperação destinado a evitar efeitos adversos na concorrência ou na segurança do mercado ferroviário, devendo esse quadro incluir um mecanismo que permita que:
+5 - A AMT e o IMT, I. P., devem assegurar, em conjunto, um quadro de partilha de informações e de cooperação destinado a evitar efeitos adversos na concorrência, devendo esse quadro incluir um mecanismo que permita que:
 
-a) A AMT apresente recomendações ao IMT, I. P., em matérias relacionadas com segurança e o acesso à atividade que possam afetar a concorrência no mercado ferroviário;
+a) A AMT apresente recomendações ao IMT, I. P., em matérias relacionadas com o acesso à atividade e segurança ferroviária que possam afetar a concorrência no mercado ferroviário;
 
-b) O IMT, I. P., apresente recomendações à AMT sobre questões que afetem a segurança.
+b) O IMT, I. P., apresente recomendações à AMT sobre questões que afetem o acesso à atividade.
 
 6 - Sem prejuízo da independência da AMT e do IMT, I. P., no âmbito das respetivas atribuições e competências, cada entidade, antes de adotar as suas decisões, deve examinar as recomendações referidas no número anterior, devendo fundamentar em caso de discordância.
 
@@ -1526,7 +1556,9 @@ b) O IMT, I. P., apresente recomendações à AMT sobre questões que afetem a s
 
 24 - A AMT deve definir as regras e princípios subjacentes à tomada das decisões para as quais seja competente ao abrigo do presente decreto-lei, através de regulamento ou deliberação.
 
-> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01.
 
 ###### Artigo 57.º — Cooperação entre as entidades reguladoras
 
@@ -2034,9 +2066,9 @@ g) Sem prejuízo das vias de recurso disponíveis e do disposto no artigo 56.º,
 
 h) O gestor de infraestrutura publica anualmente o nível médio de desempenho conseguido pelas empresas ferroviárias, com base nos parâmetros essenciais de melhoria do desempenho.
 
-## Anexo VII — (a que se referem os artigo 43.º e 44.º)
+## Anexo VII — Calendário do processo de repartição
 
-Calendário do processo de repartição
+(a que se referem os artigo 43.º e 44.º)
 
 1 - O horário de serviço é fixado uma vez por ano civil.
 
@@ -2108,7 +2140,7 @@ Antes de efetuar uma escolha entre alternativas às restrições de capacidade, 
 
 17 - No que se refere às restrições de capacidade com uma duração superior a 30 dias consecutivos e que afetem mais de 50 % do volume de tráfego estimado para determinada linha férrea, o gestor de infraestrutura estabelece critérios para a alteração de itinerários por tipos de comboios e serviços, tendo em conta os condicionalismos operacionais e comerciais do candidato, exceto se estes condicionalismos operacionais resultarem de decisões de gestão ou organização do candidato e sem prejuízo do objetivo de redução de custos do gestor de infraestrutura em conformidade com o n.º 1 do artigo 30.º O gestor de infraestrutura deve publicar nas especificações da rede estes critérios, juntamente com uma repartição provisória da capacidade restante dos diferentes tipos de serviços ferroviários sempre que agir em conformidade com o ponto 8. No final da consulta, e sem prejuízo das obrigações do gestor de infraestrutura nos termos da alínea c) do anexo IV, o gestor de infraestrutura, com base no feedback recebido dos candidatos, fornece às empresas ferroviárias em causa uma repartição indicativa por tipo de serviço da capacidade restante.
 
-> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01.
 
 ## Anexo VIII — (a que se refere o artigo 56.º)
 

@@ -3,7 +3,7 @@
  "id": "pt:dre:890194535:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-890366092",
  "dre_path": "/dr/detalhe/decreto-lei/68-2024-890194535",
- "source_lastmod": "2026-07-28",
+ "source_lastmod": "2026-11-02",
  "versions": [
   {
    "date": "2024-10-08",
@@ -204,6 +204,76 @@
     "890366228",
     "890366229",
     "890366230"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1190056897:por",
+     "title": "Decreto-Lei n.º 207/2026",
+     "published": "2026-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2026-1190056897"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Capítulo III",
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Adita Artigo 14.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Capítulo IV",
+    "Altera Capítulo V",
+    "Altera Capítulo VI",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "890366197",
+    "890366198",
+    "890366199",
+    "1190378575",
+    "1190378775",
+    "890366202",
+    "1190380675",
+    "1190381275",
+    "890366203",
+    "1152924575",
+    "1190378975",
+    "1152924975",
+    "1152925175",
+    "890366208",
+    "1152925375",
+    "890366210",
+    "913037383",
+    "890366212",
+    "890366213",
+    "1190382775",
+    "1190385075",
+    "1190385175",
+    "1190384875",
+    "1190382975",
+    "890366215",
+    "890366216",
+    "890366217",
+    "1190384175",
+    "1152915875",
+    "1190383075",
+    "890366220",
+    "890366221",
+    "890366222",
+    "1190383175",
+    "890366224",
+    "890366225",
+    "890366226",
+    "890366227",
+    "890366228",
+    "1190383275",
+    "1190383375"
    ]
   }
  ],
@@ -581,6 +651,155 @@
     "Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
    ],
    "markdown": "###### Artigo 18.º-A — Cooperação com outras entidades\n\n1 - Na prossecução das suas atribuições, o CEJURE pode celebrar protocolos de cooperação com instituições de ensino superior ou de investigação que desenvolvam a sua atividade na área da ciência jurídica.\n\n2 - Os protocolos a que se refere o número anterior estabelecem os termos da cooperação a desenvolver entre as entidades, designadamente no domínio da investigação em áreas relevantes para a atividade do CEJURE, na organização conjunta de atividades de difusão de conhecimento ou através de iniciativas de formação com vertente prática a desenvolver no CEJURE.\n\n3 - O CEJURE pode financiar bolsas de investigação, tendentes ou não à obtenção de grau académico, que incidam sobre matérias com relevância para a atividade do serviço, nos termos a definir por portaria do membro do Governo que exerce o poder de direção sobre o CEJURE e do membro do Governo responsável pela área das finanças, nomeadamente quanto às condições e procedimento de atribuição, tipologia e respetivo montante.\n\n> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1190378575": {
+   "fragment_id": "890366096",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O CEJURE é um serviço da administração direta do Estado, dotado de autonomia administrativa.\n\n2 - Sem prejuízo do disposto no capítulo iii sobre o Conselho de Consultores, o CEJURE está sujeito ao poder de direção do Primeiro-Ministro, com faculdade de delegação num dos membros do Governo integrados na Presidência do Conselho de Ministros.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190378775": {
+   "fragment_id": "890366097",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O CEJURE tem por missão prestar apoio jurídico, consultoria, assessoria e aconselhamento jurídicos ao Conselho de Ministros, aos membros do Governo, e aos serviços e entidades da Administração Pública central, bem como proceder à sua representação em juízo, perante qualquer tribunal, incluindo nas jurisdições constitucional, de contas e arbitral, sem prejuízo das atribuições da Direção-Geral de Direito Europeu e Internacional (DGDEI) e do Ministério Público.\n\n2 - O CEJURE prossegue as seguintes atribuições:\n\na) Prestar consultoria, assessoria e aconselhamento jurídico:\n\ni) Aos membros do Governo;\n\nii) Aos órgãos e serviços integrados na administração direta do Estado;\n\niii) Aos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\nb) Intervir em questões ou procedimentos jurídicos de especial complexidade envolvendo o Estado, nomeadamente em matéria de contratação pública, em articulação com a Unidade Técnica de Acompanhamento de Projetos e no âmbito das suas atribuições;\n\nc) Desempenhar funções de consulta e de apoio técnico ao Governo na elaboração dos atos legislativos e outros atos normativos, contribuindo para a qualidade e simplificação de todos os atos submetidos à apreciação do Conselho de Ministros;\n\nd) Elaborar estudos legislativos e outros de carácter jurídico, incluindo em matéria de legística;\n\ne) Assegurar o patrocínio judiciário dos membros do Governo, diretores-gerais, secretários-gerais, inspetores-gerais e equiparados para todos os efeitos legais, bem como dos responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto a que se refere o artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, quando necessário em virtude do exercício das suas funções, nos termos do Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual;\n\nf) Assegurar a representação em juízo, perante quaisquer tribunais, através do trabalhador para o efeito designado pelo diretor do CEJURE:\n\ni) Do Conselho de Ministros;\n\nii) Do Primeiro-Ministro;\n\niii) Dos membros do Governo;\n\niv) Dos órgãos e serviços integrados na administração direta do Estado;\n\nv) Dos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\ng) Preparar requerimentos de apreciação preventiva da constitucionalidade ou de declaração de inconstitucionalidade ou ilegalidade, com força obrigatória geral, ao abrigo do disposto no n.º 4 do artigo 278.º ou na alínea c) do n.º 2 do artigo 281.º da Constituição;\n\nh) Preparar projetos de resposta nos processos de fiscalização da constitucionalidade e da legalidade de normas constantes de diplomas assinados por qualquer membro do Governo;\n\ni) Promover a harmonização de entendimentos e procedimentos jurídicos, com vista a garantir uma aplicação uniforme da lei, tanto ao nível dos gabinetes de membros do Governo, como ao nível dos serviços e entidades da Administração Pública, sem prejuízo da coordenação com a Direção-Geral da Administração e do Emprego Público, em matéria de emprego público;\n\nj) Promover a realização e participar em ações de formação, encontros temáticos e seminários para os juristas da administração pública, em articulação com o Instituto Nacional de Administração, I. P., e/ou instituições de ensino superior;\n\nk) Promover a investigação e a organização de atividades que tenham por finalidade o desenvolvimento e a difusão do conhecimento na área da ciência jurídica, designadamente através da cooperação com instituições de ensino superior e de investigação que desenvolvam a sua atividade nessa área;\n\nl) Assegurar a interligação com outros serviços e entidades da administração pública, no âmbito das suas atribuições;\n\nm) Assegurar, em articulação com a área governativa dos negócios estrangeiros, a interligação com as organizações internacionais relevantes no âmbito das suas atribuições;\n\nn) Promover o funcionamento da estrutura de cooperação e de partilha interministerial de conhecimentos e de recursos jurídicos, denominada Rede de Serviços Jurídicos da Administração Pública (REJURIS), com vista a dinamizar o recurso a esta Rede pelos órgãos e serviços integrados na administração direta do Estado, no âmbito do Fórum da Administração Pública;\n\no) Colaborar com a INCM - Imprensa Nacional-Casa da Moeda, S. A. (INCM), na definição de boas práticas na divulgação e consolidação da informação legislativa, incluindo com recurso a ferramentas informáticas inovadoras, com vista à simplificação do acesso dos cidadãos aos normativos em vigor;\n\np) Acompanhar, no plano instrutório e informativo, os processos de reconhecimento de fundações e concessão e cancelamento do estatuto de utilidade pública, bem como outros processos na área das fundações e do estatuto de utilidade pública que estejam previstos na lei, exercendo ainda funções de controlo sobre o cumprimento regular das respetivas obrigações legais;\n\nq) Realizar inquéritos, sindicâncias, inspeções e auditorias às fundações, no sentido de verificar a existência de causas de extinção, nos termos do disposto no n.º 2 do artigo 35.º da Lei n.º 24/2012, de 9 de julho, na sua redação atual;\n\nr) Fiscalizar a utilização da forma cooperativa, com respeito pelos princípios e normas relativos à sua constituição e funcionamento;\n\ns) Emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas;\n\nt) Requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que não respeitem, na sua constituição ou no seu funcionamento, os princípios cooperativos, que utilizem sistematicamente meios ilícitos para a prossecução do seu objeto e que recorram à forma de cooperativa para alcançar indevidamente benefícios fiscais ou outros atribuídos por entidades públicas;\n\nu) Requerer, junto do serviço do registo competente, o procedimento administrativo de dissolução das cooperativas cuja atividade não coincida com o objeto expresso nos estatutos;\n\nv) Recolher os elementos referentes às cooperativas ou organizações do setor cooperativo que permitam manter atualizados todos os elementos que se lhes referem, designadamente, os relativos à sua constituição, à alteração de estatutos, às atividades desenvolvidas, aos relatórios anuais de gestão e de prestação de contas;\n\nw) Assegurar, nos termos do Código Cooperativo, aprovado pela Lei n.º 119/2015, de 31 de agosto, o procedimento de contraordenação e a aplicação de coimas;\n\nx) Exercer as demais atribuições que lhe sejam cometidas por lei ou por regulamento.\n\n3 - Para efeitos do exercício das atribuições previstas na alínea f) do número anterior, com exceção das forças armadas, dos serviços periféricos externos e de matéria tributária e contributiva, nas alíneas e) e h) do mesmo número, as citações ou notificações recebidas pelos membros do Governo ou serviços e entidades a representar devem ser remetidas, de imediato, ao CEJURE.\n\n4 - Para efeitos do exercício das atribuições previstas nas subalíneas ii) e iii) da alínea a) e nas subalíneas iv) e v) da alínea f) do n.º 2, a intervenção do CEJURE não substitui a regular apreciação de questões jurídicas por esses órgãos e serviços no âmbito da sua atividade em matérias específicas e setoriais dos respetivos ministérios, restringindo-se a questões de especial complexidade, do ponto de vista jurídico, político ou social, nomeadamente no âmbito do direito constitucional, administrativo ou financeiro, ou em que estejam em causa direitos fundamentais, conflitos normativos ou questões de responsabilidade do Estado.\n\n5 - A avaliação do grau de complexidade e posterior remessa dos processos judiciais e de consulta jurídica entre o CEJURE e os serviços jurídicos setoriais cabe à direção do CEJURE.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596) A alteração às alíneas r) a w) do n.º 2 do presente artigo produz efeitos à data em que opere a exoneração da participação do Estado na CASES, nos termos no n.º 3 da Resolução do Conselho de Ministros n.º 16/2026, de 3 de fevereiro.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+  },
+  "1190380675": {
+   "fragment_id": "1190380575",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Patrocínio judiciário",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 4.º-A — Patrocínio judiciário\n\n1 - O CEJURE exerce o patrocínio judiciário da Administração do Estado junto dos tribunais nacionais, e sem prejuízo das atribuições da DGDEI e do Ministério Público, de acordo com as determinações vinculativas emitidas nos termos do presente decreto-lei e abstém-se de defender em juízo posições desconformes que prolonguem litígios de modo injustificado, designadamente através da interposição de recurso de decisões judiciais cujo conteúdo corresponda ao das determinações homologadas.\n\n2 - Na ausência de determinações vinculativas, o diretor do CEJURE define a os termos da intervenção em juízo perante os tribunais nacionais, sem prejuízo da consulta aos órgãos a que sejam imputáveis os atos praticados ou recaia o dever de praticar os atos jurídicos ou observar os comportamentos pretendidos e das atribuições da DGDEI.\n\n3 - O CEJURE deve propor a anulação administrativa do ato impugnado, a prática do ato devido ou a observância dos comportamentos pretendidos quando seja evidente a procedência da pretensão do autor.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190381275": {
+   "fragment_id": "1190381175",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Determinações com força vinculativa",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 4.º-B — Determinações com força vinculativa\n\n1 - Compete, consoante a matéria, ao diretor do CEJURE ou ao diretor-geral da DGDEI, por proposta do Conselho de Consultores, submeter a homologação do Primeiro-Ministro, com faculdade de delegação, determinações sobre questões jurídicas com relevância para a atividade da administração do Estado, designadamente no plano das relações com os particulares, que, uma vez homologadas, têm força vinculativa para todos os órgãos da administração direta e indireta do Estado sujeitos a poderes de direção ou de superintendência e tutela, e nos seus exatos termos.\n\n2 - Os órgãos da administração direta e indireta do Estado podem ficar constituídos no dever de corrigir condutas já adotadas, designadamente aquelas que constituam objeto de litígio em ações pendentes, através, nomeadamente, do conhecimento da nulidade, da anulação ou da sanação do ato impugnado.\n\n3 - A competência do diretor do CEJURE referida no n.º 1 apenas pode ser exercida mediante solicitação de membro do Governo ou de dirigente máximo da administração direta ou indireta do Estado.\n\n4 - Previamente à decisão de homologação, o Primeiro-Ministro ausculta os membros do Governo com competência sobre as matérias objeto da proposta de determinação vinculativa.\n\n5 - A força vinculativa das determinações prevista no n.º 1 cessa sempre que o seu cumprimento implique a prática de qualquer crime.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190378975": {
+   "fragment_id": "890366101",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 6.º — Direção\n\n1 - O CEJURE é dirigido por um diretor, coadjuvado por três subdiretores, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - Compete ao diretor:\n\na) Dirigir, organizar e orientar os serviços do CEJURE;\n\nb) Informar e prestar contas da atividade do CEJURE ao membro do Governo que exerce o poder de direção sobre o CEJURE;\n\nc) Proceder à distribuição dos processos pelos trabalhadores do CEJURE, e à análise dos trabalhos elaborados;\n\nd) Proceder, quando se justifique, à criação de equipas de projeto temporárias, identificar a missão a prosseguir e designar a respetiva composição;\n\ne) Proceder à avaliação da existência, no CEJURE, de recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, nos termos do n.º 2 do artigo 4.º e do n.º 3 do artigo 15.º;\n\nf) Emitir parecer do CEJURE, nos termos do artigo 15.º;\n\ng) Avaliar o desempenho profissional dos trabalhadores que exerçam funções no CEJURE;\n\nh) Exercer o poder disciplinar relativamente aos trabalhadores do CEJURE;\n\ni) Representar o CEJURE junto de outros serviços e de entidades nacionais, internacionais e estrangeiras;\n\nj) Emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas;\n\nk) Requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que:\n\ni) Não respeitem, na sua constituição ou funcionamento, os princípios cooperativos; ou\n\nii) Utilizem sistematicamente meios ilícitos para a prossecução do seu objeto; ou\n\niii) Recorram à forma de cooperativa para alcançar indevidamente benefícios fiscais ou outros atribuídos por entidades públicas;\n\nl) Iniciar, junto do serviço de registo competente, o procedimento de dissolução das cooperativas cuja atividade não coincida com o objeto expresso nos estatutos;\n\nm) Dar conhecimento ao Conselho de Consultores de informações, designadamente de carácter jurisprudencial, decorrentes da prática do exercício do patrocínio judiciário desenvolvido pelo CEJURE ou obtidas no âmbito da REJURIS, com relevância para a eventual propositura de determinações vinculativas relativas ao exercício da função jurídica dos órgãos da Administração do Estado;\n\nn) Dirigir o exercício do patrocínio judiciário a cargo do CEJURE, através da emissão de determinações concretas e de determinações de carácter genérico, com força vinculativa no âmbito do CEJURE, sobre questões jurídicas de direito nacional relevantes para a determinação de posições que devem ser defendidas em juízo perante os tribunais nacionais, no âmbito do exercício do patrocínio judiciário, e que não estejam cometidas à Direção-Geral de Direito Europeu e Internacional (DGDEI);\n\no) Propor a homologação das determinações vinculativas a que se refere o artigo 4.º-B.\n\n3 - Compete, ainda, ao diretor do CEJURE, no âmbito da REJURIS:\n\na) Presidir às reuniões e coordenar as atividades da REJURIS;\n\nb) Convocar as reuniões ordinárias e extraordinárias da REJURIS;\n\nc) Decidir sobre a criação de comissões especializadas no âmbito da REJURIS;\n\nd) Definir o procedimento, o calendário e o modelo para a identificação, por parte dos membros da REJURIS, dos recursos humanos com competências jurídicas e respetivas áreas de especialização integrados em cada serviço, e apresentar, anualmente, ao membro do Governo que exerce o poder de direção sobre o CEJURE, essa informação atualizada;\n\ne) Assegurar a observância pelos serviços da administração direta e indireta do Estado das determinações vinculativas contidas em documentos elaborados pelo CEJURE;\n\nf) Difundir, pelos membros da REJURIS, os seguintes elementos com relevância para o exercício da função jurídica nos órgãos e serviços integrados na administração direta do Estado:\n\ni) Orientações, recomendações, manuais de procedimento, guias de boas práticas, minutas e demais documentos padronizados;\n\nii) Relatórios de monitorização e de avaliação sobre a harmonização de entendimentos, procedimentos e boas práticas;\n\niii) Notícias de ações de formação especializada e de novidades jurisprudenciais, doutrinais e bibliográficas de que tenha conhecimento ou que lhe sejam transmitidas pelos membros da REJURIS.\n\n4 - O diretor do CEJURE pode delegar, ou subdelegar, competências nos subdiretores.\n\n5 - O diretor é substituído, nas suas faltas e impedimentos, pelo subdiretor que indique.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596) A alteração às alíneas j) a l) do n.º 2 do presente artigo produz efeitos à data em que opere a exoneração da participação do Estado na CASES, nos termos no n.º 3 da Resolução do Conselho de Ministros n.º 16/2026, de 3 de fevereiro.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1190382775": {
+   "fragment_id": "1190382675",
+   "type": 1,
+   "heading": "Capítulo III — CONSELHO DE CONSULTORES",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "### Capítulo III — CONSELHO DE CONSULTORES\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190385075": {
+   "fragment_id": "1190380875",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Composição e estatuto",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 14.º-A — Composição e estatuto\n\n1 - O Conselho de Consultores é composto pelo diretor do CEJURE, que preside, pelos subdiretores e pelos consultores do CEJURE.\n\n2 - Os membros do Conselho de Consultores não têm direito a remuneração adicional, incluindo ajudas de custo ou senhas de presença pelo exercício das suas funções neste órgão.\n\n3 - Os membros do Conselho de Consultores estão sujeitos ao regime das garantias de imparcialidade previsto nos artigos 69.º a 76.º do Código do Procedimento Administrativo, aprovado em anexo ao <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468\"><u>Decreto-Lei n.º 4/2015</u></a>, de 7 de janeiro.\n\n4 - Quando estejam em causa atribuições da DGDEI, o Conselho de Consultores integra também o respetivo diretor-geral, que assume a vice-presidência, o subdiretor-geral da DGDEI e dois consultores por aquele indicados.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190385175": {
+   "fragment_id": "1190381475",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Competência",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 14.º-B — Competência\n\n1 - O Conselho de Consultores é um órgão que funciona junto do CEJURE ao qual compete:\n\na) Propor, mediante solicitação do diretor do CEJURE ou do diretor-geral da DGDEI, consoante a matéria, a adoção de determinações vinculativas a observar no âmbito do patrocínio judiciário a cargo do CEJURE sobre questões jurídicas com relevância para a atividade da administração direta e indireta do Estado, designadamente no plano das relações com os particulares;\n\nb) Propor, mediante solicitação do diretor do CEJURE ou do diretor-geral da DGDEI, consoante a matéria, a aprovação das determinações com força vinculativa para todos os órgãos da Administração direta e indireta do Estado a que se refere o artigo 4.º-B;\n\nc) Propor decisões sobre pretensões deduzidas no âmbito de procedimentos de atribuição de indemnizações devidas pelo Estado;\n\nd) Elaborar a sua regulamentação interna, a publicar na 2.ª série do Diário da República.\n\n2 - Para o efeito do exercício das suas competências, é facultado ao Conselho de Consultores toda a informação relevante para o exercício das suas competências.\n\n3 - No exercício das competências referidas na alínea b) do n.º 1, o Conselho de Consultores é dotado de independência funcional, não estando sujeito a ordens, instruções ou orientações.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190384875": {
+   "fragment_id": "1190381775",
+   "type": 11,
+   "heading": "Artigo 14.º-C — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 14.º-C — Funcionamento\n\n1 - O Conselho de Consultores reúne ordinariamente duas vezes por mês, ou extraordinariamente sempre que convocado pelo seu presidente ou vice-presidente, consoante a matéria.\n\n2 - Os projetos de deliberação do Conselho de Consultores são elaborados pelos respetivos membros, com o apoio dos serviços técnicos.\n\n3 - O apoio administrativo necessário ao funcionamento do Conselho de Consultores é prestado por elementos do CEJURE.\n\n4 - O diretor do CEJURE pode solicitar a colaboração de associados para o exercício das competências do Conselho de Consultores.\n\n5 - O regimento do órgão é aprovado na primeira reunião, por proposta do presidente.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190382975": {
+   "fragment_id": "890366110",
+   "type": 1,
+   "heading": "Capítulo IV — RELAÇÃO COM OUTRAS ENTIDADES E ORGANISMOS",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "### Capítulo IV — RELAÇÃO COM OUTRAS ENTIDADES E ORGANISMOS\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190384175": {
+   "fragment_id": "890366114",
+   "type": 11,
+   "heading": "Artigo 18.º — Harmonização de entendimentos e procedimentos",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 18.º — Harmonização de entendimentos e procedimentos\n\n1 - No âmbito da REJURIS, estando em causa questões jurídicas transversais à Administração Pública, compete ao CEJURE emitir circulares de harmonização de entendimentos e procedimentos a adotar na administração direta e indireta do Estado.\n\n2 - Quando incidam sobre questões de emprego público e recursos humanos, as circulares referidas no número anterior são elaboradas conjuntamente com a Direção-Geral da Administração e do Emprego Público.\n\n3 - As circulares referidas no n.º 1, quando aprovadas pelo membro do Governo que exerce o poder de direção sobre o CEJURE, são orientadoras para todos os serviços da administração direta e indireta do Estado.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190383075": {
+   "fragment_id": "890366115",
+   "type": 1,
+   "heading": "Capítulo V — RECURSOS",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "### Capítulo V — RECURSOS\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190383175": {
+   "fragment_id": "890366119",
+   "type": 1,
+   "heading": "Capítulo VI — DISPOSIÇÕES COMPLEMENTARES, TRANSITÓRIAS E FINAIS",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "### Capítulo VI — DISPOSIÇÕES COMPLEMENTARES, TRANSITÓRIAS E FINAIS\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "1190383275": {
+   "fragment_id": "890366125",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de setembro de 2024. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - António Leitão Amaro.\n\nPromulgado em 4 de outubro de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de outubro de 2024.\n\nO Primeiro-Ministro, Luís Montenegro."
+  },
+  "1190383375": {
+   "fragment_id": "890366126",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 7.º)\n\nMapa de cargos de direção do Centro de Competências Jurídicas do Estado\n\n| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |\n| --- | --- | --- | --- |\n| Diretor | Direção superior | 1.º grau | 1 |\n| Subdiretor | Direção superior | 2.º grau | 2 |\n\nEstatuto remuneratório do pessoal dirigente\n\n| Cargo | Remuneração base mensal<br>(RBM) | Despesas de representação<br>(percentagem da RBM do respetivo cargo) |\n| --- | --- | --- |\n| Diretor | 100 % do nível remuneratório 80 da TRU | 25 % |\n| Subdiretor | 85 % da RBM/diretor | 20 % |\n\n118197934"
   }
  }
 }

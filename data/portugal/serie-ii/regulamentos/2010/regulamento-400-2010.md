@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 23921 - 24012
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/087000000/2392124012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-20'
+entry_into_force:
+  date: '2010-05-20'
+  rule: 15 dias após a sua publicação no Diário da República Série II, e afixação nos lugares públicos do costume, dos editais
+    que publicitam a sua aprovação
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

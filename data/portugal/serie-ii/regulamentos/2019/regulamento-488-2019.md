@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 17341 - 17343
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/109000000/1734117343.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-07'
+entry_into_force:
+  date: '2019-06-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

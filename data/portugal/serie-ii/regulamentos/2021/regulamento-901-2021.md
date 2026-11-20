@@ -23,6 +23,16 @@ publication:
   pages: 162 - 170
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/198000000/0016200170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após homologação pelo Reitor e publicação no Diário da República, aplicando-se aos estudantes que ingressem pela primeira
+    vez no mestrado integrado em ciências farmacêuticas no ano letivo 2021/2022
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

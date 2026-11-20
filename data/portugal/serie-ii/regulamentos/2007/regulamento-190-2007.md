@@ -23,6 +23,15 @@ publication:
   pages: 22904 - 22906
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/154000000/2290422906.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a afixação, nos lugares públicos do costume, dos editais que publicitem a sua aprovação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

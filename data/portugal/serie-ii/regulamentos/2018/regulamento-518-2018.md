@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21555 - 21555
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/152000000/2155521555.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-08'
+entry_into_force:
+  date: '2018-08-08'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

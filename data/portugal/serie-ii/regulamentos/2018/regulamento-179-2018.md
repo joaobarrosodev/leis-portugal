@@ -23,6 +23,15 @@ publication:
   pages: 8445 - 8448
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/057000000/0844508448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2017/2018, inclusive
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

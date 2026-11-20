@@ -23,6 +23,16 @@ publication:
   pages: 13030 - 13041
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/080000000/1303013041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da homologação pelo Presidente da Faculdade de Arquitetura da Universidade de Lisboa e aplica-se a todos os
+    processos em curso, sem prejuízo dos atos já praticados, exceto aos processos de mes
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

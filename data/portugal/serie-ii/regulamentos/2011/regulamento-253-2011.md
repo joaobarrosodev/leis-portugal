@@ -23,6 +23,15 @@ publication:
   pages: 17398 - 17450
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/075000000/1739817450.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

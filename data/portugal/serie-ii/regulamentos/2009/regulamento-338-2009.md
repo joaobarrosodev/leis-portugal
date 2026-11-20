@@ -23,6 +23,15 @@ publication:
   pages: 31177 - 31180
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/149000000/3117731180.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a data da sua publicação, pelos meios legalmente definidos
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

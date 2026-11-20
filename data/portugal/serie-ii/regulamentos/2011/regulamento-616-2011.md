@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 47120 - 47125
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/230000000/4712047125.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-12-01'
+entry_into_force:
+  date: '2011-12-01'
+  rule: a partir do dia 1 do mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

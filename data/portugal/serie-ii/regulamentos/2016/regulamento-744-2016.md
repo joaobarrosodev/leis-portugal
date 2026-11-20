@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 23274 - 23275
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/142000000/2327423275.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-27'
+entry_into_force:
+  date: '2016-07-27'
+  rule: no dia imediato à sua publicação no Diário da República, depois de aprovado pela Assembleia de Freguesia de Rio Maior
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

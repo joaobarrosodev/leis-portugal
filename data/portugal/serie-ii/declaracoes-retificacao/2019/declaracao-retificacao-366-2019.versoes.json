@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122146807:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-retificacao/2019-1194901375",
+ "dre_path": "/dr/detalhe/declaracao-retificacao/366-2019-122146807",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2019-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194902275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194902275": {
+   "fragment_id": "1194901575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 67, de 4 de abril de 2019, o Despacho n.º 3761/2019, de 25 de março, procede-se à seguinte retificação:\n\nOnde se lê «[...] é autorizada a prorrogação da licença sem remuneração [...]» deve ler-se «[...] é autorizada a licença sem remuneração [...]»"
+  }
+ }
+}

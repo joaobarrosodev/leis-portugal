@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26728 - 26737
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/164000000/2672826737.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-28'
+entry_into_force:
+  date: '2013-08-28'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo desde logo aplicável a todos os concursos de bolsas
+    abertos pela FCT, I
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2621251:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2013-1195278975",
+ "dre_path": "/dr/detalhe/despacho-extrato/4495-2013-2621251",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2013-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195281475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195281475": {
+   "fragment_id": "1195279075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho de 8 de março de 2013, do Presidente do Grupo Parlamentar do Partido Social Democrata:\n\nLuís Pedro Alves Caetano Newton Parreira - nomeado, nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, para a categoria de assessor do Grupo Parlamentar do Partido Social Democrata, com efeitos a partir do dia 1 de março de 2013."
+  }
+ }
+}

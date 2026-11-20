@@ -24,6 +24,15 @@ publication:
   pages: 10743 - 10745
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/085000000/1074310745.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Conselho Técnico-Científico
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

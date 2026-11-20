@@ -24,6 +24,16 @@ publication:
   pages: 14490-(46) a 14490-(51)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/103000002/0004600051.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo conselho científicos das escolas responsáveis pela leccionação do curso e homologação pelos
+    respectivos órgãos competentes e publicitado nos termos legais
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

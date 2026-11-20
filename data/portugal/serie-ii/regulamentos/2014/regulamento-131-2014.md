@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 8731 - 8734
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/064000000/0873108734.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-02'
+entry_into_force:
+  date: '2014-04-02'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, sendo que o envio do mesmo para publicação fica
+    condicionado à aprovação da Fundação para a Ciência e Tecnologia, I
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

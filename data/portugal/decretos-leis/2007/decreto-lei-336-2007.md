@@ -39,10 +39,20 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-25'
+version_history:
+  file: decreto-lei-336-2007.versoes.json
+  count: 1
+  source_lastmod: '2026-10-22'
+  versions:
+  - date: '2013-10-25'
+    amending: pt:dre:502980:por
+    amending_title: Decreto-Lei n.º 148/2013
+    changes:
+    - Altera Anexo I
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/336/2007/10/11/p/dre/pt/html
@@ -55,20 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2007-641676
   metadata_url: https://data.dre.pt/eli/dec-lei/336/2007/10/11/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2007-641676
-  consolidated_url: null
-  retrieved_at: '2026-10-23T03:00:28Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-976612034
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-976612034
+  retrieved_at: '2026-11-20T13:48:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-22T00:00:00Z'
 integrity:
-  source_sha256: 7b56c26f37af39a2a8b3eeab9c7ba7161a7429767aca0b39e471d1b4ccca9977
+  source_sha256: e356b2935ce241cadfc1c4c8b4e2fad0384a38edb79631aeea2011211844ed69
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T03:00:28Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:48:38Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-336-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,31 +136,33 @@ relationships:
   target: celex:32005L0039
   label: null
   source: http://data.europa.eu/eli/dir/2005/39/oj
+- type: transposes
+  target: celex:32005L0039
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 15
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 31
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T03:00:28Z'
+  checked_at: '2026-11-20T13:48:38Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 336/2007
 
-de 11 de Outubro
-
-O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º [2005/39/CE](https://data.europa.eu/eli/dir/2005/39/oj?locale=pt), do Parlamento Europeu e do Conselho, de 7 de Setembro, e aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis.
+O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º 2005/39/CE, do Parlamento Europeu e do Conselho, de 7 de Setembro, e aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis.
 
 Os estudos efectuados mostram que o uso de cintos de segurança e de sistemas de retenção pode contribuir para a redução substancial do número de vítimas e da gravidade dos ferimentos em caso de acidente, inclusive devido a capotagem, constituindo a sua instalação em todas as categorias de veículos, certamente, um importante passo para o aumento da segurança rodoviária, e a consequente salvação de vidas, proporcionando a sua instalação um benefício substancial para a sociedade.
 
 Na resolução de 18 de Fevereiro de 1986, relativa às medidas comuns para reduzir os acidentes rodoviários como parte do programa comunitário de segurança rodoviária, o Parlamento Europeu sublinhou a necessidade de tornar obrigatório o uso de cintos de segurança para todos os passageiros, incluindo crianças, excepto em veículos de serviço público, sendo por isso necessário fazer a distinção entre automóveis pesados de passageiros de serviço público e outros veículos, no que toca à obrigatoriedade da instalação de cintos de segurança e ou de sistemas de retenção.
 
-Nos termos do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio, o regime comunitário de homologação só começou a ser aplicado a todos os veículos novos da categoria M(índice 1) a partir de 1 de Janeiro de 1998, pelo que apenas os veículos da categoria M(índice 1) homologados após essa data devem estar equipados com bancos, sua fixação e apoios de cabeça conformes com o disposto na Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro.
+Nos termos do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio, o regime comunitário de homologação só começou a ser aplicado a todos os veículos novos da categoria M(índice 1) a partir de 1 de Janeiro de 1998, pelo que apenas os veículos da categoria M(índice 1) homologados após essa data devem estar equipados com bancos, sua fixação e apoios de cabeça conformes com o disposto na Directiva n.º 74/408/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro.
 
 Até à extensão do regime comunitário de homologação a todas as categorias de veículos, a instalação de bancos e sua fixação compatíveis com a instalação de fixações de cintos de segurança deve ser obrigatória, no interesse da segurança rodoviária, nos veículos pertencentes a outras categorias além da categoria M(índice 1).
 
@@ -165,7 +178,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-1 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º [2005/39/CE](https://data.europa.eu/eli/dir/2005/39/oj?locale=pt), do Parlamento Europeu e do Conselho, de 7 de Setembro, e aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis, cujo texto consta do anexo ao presente decreto-lei e dele faz parte integrante.
+1 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º 2005/39/CE, do Parlamento Europeu e do Conselho, de 7 de Setembro, e aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis, cujo texto consta do anexo ao presente decreto-lei e dele faz parte integrante.
 
 2 - Os anexos ao Regulamento ora aprovado fazem dele parte integrante.
 
@@ -231,13 +244,11 @@ Referendado em 26 de Setembro de 2007.
 
 O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — REGULAMENTO RELATIVO AOS BANCOS, À SUA FIXAÇÃO E AOS APOIOS DE CABEÇA DOS AUTOMÓVEIS
+## Anexo — REGULAMENTO RELATIVO AOS BANCOS, À SUA FIXAÇÃO E AOS APOIOS DE CABEÇA DOS AUTOMÓVEIS
 
-### CAPÍTULO I — Disposições administrativas relativas
+### Capítulo I — Disposições administrativas relativas à homologação CE
 
-à homologação CE
-
-#### SECÇÃO I — Âmbito de aplicação e definição de veículo
+#### Secção I — Âmbito de aplicação e definição de veículo
 
 ###### Artigo 1.º — Âmbito de aplicação
 
@@ -247,7 +258,7 @@ O presente Regulamento só é aplicável aos bancos dos automóveis voltados par
 
 Para efeitos do disposto no presente Regulamento, entende-se por «veículo a motor» aquele que se destine a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior 25 km/h, com excepção dos veículos que se deslocam sobre carris, dos tractores agrícolas e florestais e de todas as máquinas móveis.
 
-#### SECÇÃO II — Pedido de homologação CE de um veículo e pedido de homologação CE como componente de um tipo de banco
+#### Secção II — Pedido de homologação CE de um veículo e pedido de homologação CE como componente de um tipo de banco
 
 ###### Artigo 3.º — Pedido de homologação CE de um veículo
 
@@ -275,7 +286,7 @@ b) Tratando-se de apoios de cabeça separados, um conjunto suplementar de bancos
 
 3 - Devem ser apresentadas ao serviço técnico responsável pela realização dos ensaios de homologação três amostras do tipo de banco a homologar, devendo os bancos ostentar, de forma clara e indelével, a marca ou firma do fabricante e a designação do tipo correspondente.
 
-#### SECÇÃO III — Homologação CE, modificação de modelos, alteração de homologações, conformidade da produção e marcações
+#### Secção III — Homologação CE, modificação de modelos, alteração de homologações, conformidade da produção e marcações
 
 ###### Artigo 5.º — Homologação CE
 
@@ -307,9 +318,9 @@ As medidas destinadas a garantir a conformidade da produção devem ser tomadas 
 
 4 - No anexo vi do presente Regulamento figura um exemplo de uma marca de homologação CE.
 
-### CAPÍTULO II — Âmbito, definições e requisitos aplicáveis aos veículos da categoria M(índice 1)
+### Capítulo II — Âmbito, definições e requisitos aplicáveis aos veículos da categoria M(índice 1)
 
-#### SECÇÃO I — Âmbito e definições
+#### Secção I — Âmbito e definições
 
 ###### Artigo 9.º — Âmbito de aplicação
 
@@ -317,7 +328,7 @@ As medidas destinadas a garantir a conformidade da produção devem ser tomadas 
 
 2 - Os requisitos constantes do presente capítulo não são aplicáveis aos bancos voltados para a retaguarda nem aos apoios de cabeça adaptados a esses bancos.
 
-3 - Os apoios de cabeça homologados de acordo com os requisitos constantes da Directiva n.º [78/932/CEE](https://data.europa.eu/eli/dir/1978/932/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro, devem ser considerados conformes com os requisitos do presente Regulamento que lhes sejam aplicáveis.
+3 - Os apoios de cabeça homologados de acordo com os requisitos constantes da Directiva n.º 78/932/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro, devem ser considerados conformes com os requisitos do presente Regulamento que lhes sejam aplicáveis.
 
 4 - As partes posteriores dos bancos situadas na zona 1 ou as partes posteriores dos apoios de cabeça que satisfaçam os requisitos constantes do artigo 13.º do Regulamento Relativo ao Arranjo Interior dos Automóveis, aprovado pelo Decreto-Lei n.º 297/2001, de 21 de Novembro, devem ser consideradas conformes com os requisitos correspondentes do presente Regulamento.
 
@@ -375,11 +386,11 @@ n) «Apoio de cabeça destacável» um apoio de cabeça que consiste num compone
 
 o) «Apoio de cabeça separado» um apoio de cabeça que consiste num componente separado do banco, concebido para inserção e ou retenção efectiva na estrutura do veículo;
 
-p) «Ponto R» o ponto de referência da posição sentada definido no anexo iii da Directiva n.º [77/649/CEE](https://data.europa.eu/eli/dir/1977/649/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro;
+p) «Ponto R» o ponto de referência da posição sentada definido no anexo iii da Directiva n.º 77/649/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro;
 
 q) «Linha de referência» a linha do manequim representada na fig. 1 do anexo ix do presente Regulamento.
 
-#### SECÇÃO II — Requisitos
+#### Secção II — Requisitos
 
 ###### Artigo 11.º — Lugares laterais da frente dos veículos da categoria M(índice 1)
 
@@ -515,9 +526,9 @@ b) Entre dois planos verticais longitudinais traçados a uma distância de 85 mm
 
 21 - No disposto na alínea b) do n.º 2, na alínea a) do n.º 3, no que caso de outros lugares sentados, e nas alíneas b), c) e d) do mesmo n.º 3, até 1 de Outubro de 1999, no que diz respeito a novos modelos de veículos, e de 1 de Outubro de 2001, no que diz respeito a todos os veículo, aplica-se o valor de 700 mm.
 
-### CAPÍTULO III — Âmbito, definições e requisitos aplicáveis a determinados veículos das categorias M(índice 2) e M(índice 3)
+### Capítulo III — Âmbito, definições e requisitos aplicáveis a determinados veículos das categorias M(índice 2) e M(índice 3)
 
-#### SECÇÃO I — Âmbito e definições
+#### Secção I — Âmbito e definições
 
 ###### Artigo 15.º — Âmbito de aplicação
 
@@ -531,9 +542,9 @@ b) Às fixações dos bancos existentes no veículo e destinadas à fixação do
 
 3 - Em alternativa ao disposto no presente capítulo, os veículos da categoria M(índice 2) podem ser homologados com base no capítulo ii do presente Regulamento.
 
-4 - Os veículos cujos bancos beneficiem, parte deles, da derrogação prevista no ponto 5.5.4 do anexo i da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro, devem ser homologados com base no presente capítulo.
+4 - Os veículos cujos bancos beneficiem, parte deles, da derrogação prevista no ponto 5.5.4 do anexo i da Directiva n.º 76/115/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro, devem ser homologados com base no presente capítulo.
 
-5 - Os ensaios descritos no presente capítulo também podem ser aplicados a outras partes dos veículos, incluindo os bancos voltados para a retaguarda, conforme previsto no n.º 16 do artigo 42.º do Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, aprovado pelo Decreto-Lei n.º 225/2001, de 11 de Agosto, e no ponto 4.3.7 do anexo i da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), transposta para o direito interno pela portaria referida no número anterior.
+5 - Os ensaios descritos no presente capítulo também podem ser aplicados a outras partes dos veículos, incluindo os bancos voltados para a retaguarda, conforme previsto no n.º 16 do artigo 42.º do Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, aprovado pelo Decreto-Lei n.º 225/2001, de 11 de Agosto, e no ponto 4.3.7 do anexo i da Directiva n.º 76/115/CEE, transposta para o direito interno pela portaria referida no número anterior.
 
 ###### Artigo 16.º — Definições
 
@@ -601,7 +612,7 @@ x) «Cinto de três pontos», para efeitos do disposto no presente Regulamento, 
 
 z) «Espaçamento dos bancos» a distância horizontal entre bancos consecutivos, medida da parte anterior do encosto de um dos bancos até à parte posterior do encosto do banco situado directamente em frente do primeiro, a uma altura de 620 mm acima do piso.
 
-#### SECÇÃO II — Requisitos aplicáveis aos bancos, às fixações dos bancos de um modelo de veículo e à sua instalação
+#### Secção II — Requisitos aplicáveis aos bancos, às fixações dos bancos de um modelo de veículo e à sua instalação
 
 ###### Artigo 17.º — Requisitos aplicáveis aos bancos
 
@@ -613,7 +624,7 @@ z) «Espaçamento dos bancos» a distância horizontal entre bancos consecutivos
 
 4 - Os sistemas de regulação e de bloqueamento não têm necessariamente de estar a funcionar em perfeitas condições depois do ensaio.
 
-5 - Deve ser montado um apoio de cabeça que satisfaça os requisitos constantes do presente capítulo ou da Directiva n.º [78/932/CEE](https://data.europa.eu/eli/dir/1978/932/oj?locale=pt), em todos os lugares laterais da frente dos veículos da categoria M(índice 2) cuja massa máxima não exceda 3500 kg.
+5 - Deve ser montado um apoio de cabeça que satisfaça os requisitos constantes do presente capítulo ou da Directiva n.º 78/932/CEE, em todos os lugares laterais da frente dos veículos da categoria M(índice 2) cuja massa máxima não exceda 3500 kg.
 
 ###### Artigo 18.º — Requisitos aplicáveis às fixações dos bancos de um modelo de veículo
 
@@ -629,7 +640,7 @@ b) Aos ensaios previstos no anexo x, se tiver sido montado um banco na parte da 
 
 4 - Um mesmo ensaio pode ser utilizado para efeitos da homologação simultânea de um banco e de um veículo.
 
-5 - No caso dos veículos da categoria M(índice 3), considera-se que as fixações dos bancos satisfazem os requisitos constantes dos n.os 1 e 2 se as fixações dos cintos de segurança dos lugares sentados correspondentes estiverem montadas directamente nos bancos a instalar no veículo e satisfizerem os requisitos da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), se necessário aplicando a derrogação prevista no ponto 5.5.4 do anexo i à referida directiva.
+5 - No caso dos veículos da categoria M(índice 3), considera-se que as fixações dos bancos satisfazem os requisitos constantes dos n.os 1 e 2 se as fixações dos cintos de segurança dos lugares sentados correspondentes estiverem montadas directamente nos bancos a instalar no veículo e satisfizerem os requisitos da Directiva n.º 76/115/CEE, se necessário aplicando a derrogação prevista no ponto 5.5.4 do anexo i à referida directiva.
 
 ###### Artigo 19.º — Requisitos aplicáveis para efeitos da instalação de bancos num modelo de veículo
 
@@ -647,7 +658,7 @@ b) O ensaio 2 não é aplicável:
 
 i) Se a parte posterior do banco não puder ser atingida por um passageiro sujeito à acção de sistemas de retenção;
 
-ii) Se o banco situado por detrás do banco em questão estiver equipado com um cinto de três pontos cujas fixações satisfaçam totalmente os requisitos da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), sem derrogações; ou
+ii) Se o banco situado por detrás do banco em questão estiver equipado com um cinto de três pontos cujas fixações satisfaçam totalmente os requisitos da Directiva n.º 76/115/CEE, sem derrogações; ou
 
 iii) Se o banco satisfizer os requisitos constantes do anexo xv do presente Regulamento.
 
@@ -659,9 +670,9 @@ b) O ensaio previsto no anexo xv do presente Regulamento não é aplicável:
 
 i) Se a parte posterior do banco não puder ser atingida por um passageiro sujeito à acção de sistemas de retenção; ou
 
-ii) Se o banco situado por detrás do banco em questão estiver equipado com um cinto de três pontos cujas fixações satisfaçam totalmente os requisitos da referida Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), sem derrogações.
+ii) Se o banco situado por detrás do banco em questão estiver equipado com um cinto de três pontos cujas fixações satisfaçam totalmente os requisitos da referida Directiva n.º 76/115/CEE, sem derrogações.
 
-### CAPÍTULO IV — Especificações gerais aplicáveis aos veículos não abrangidos pelos capítulos ii e iii
+### Capítulo IV — Especificações gerais aplicáveis aos veículos não abrangidos pelos capítulos ii e iii
 
 ###### Artigo 20.º — Generalidades
 
@@ -681,11 +692,11 @@ ii) Se o banco situado por detrás do banco em questão estiver equipado com um 
 
 5 - O requisito referido no número anterior não é aplicável aos bancos colocados nos espaços para cadeiras de rodas dos veículos das categorias M(índice 2) ou M(índice 3) da classe i, ii ou A.
 
-6 - Deve ser montando um apoio de cabeça em todos os lugares laterais da frente dos veículos da categoria M(índice 2) cuja massa máxima não exceda 3500 kg e em todos os lugares laterais da frente dos veículos da categoria N(índice 1), devendo os apoios de cabeça em questão satisfazer os requisitos constantes do anexo ii ou da Directiva n.º [78/932/CEE](https://data.europa.eu/eli/dir/1978/932/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro.
+6 - Deve ser montando um apoio de cabeça em todos os lugares laterais da frente dos veículos da categoria M(índice 2) cuja massa máxima não exceda 3500 kg e em todos os lugares laterais da frente dos veículos da categoria N(índice 1), devendo os apoios de cabeça em questão satisfazer os requisitos constantes do anexo ii ou da Directiva n.º 78/932/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro.
 
-## ANEXO I — (a que se refere o artigo 8.º do Regulamento)
+## Anexo I — Marcações
 
-Marcações
+(a que se refere o artigo 8.º do Regulamento)
 
 1 - A marca referida no artigo 8.º do presente Regulamento deve ser constituída:
 
@@ -703,6 +714,10 @@ Marcações
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -715,21 +730,45 @@ Marcações
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
-IRL para a Irlanda.
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
+IRL para a Irlanda;
+
+MT para Malta.
 
 1.2 - Pelo «número de homologação de base» que constitui a secção 4 do número de homologação objecto do anexo vii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente Regulamento à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo; o número sequencial correspondente ao presente Regulamento é 00.
 
 1.3 - Pelo símbolo adicional «D», a figurar acima do rectângulo, indicativo de que o processo de homologação do banco em questão incluiu a realização do(s) ensaio(s) dinâmico(s) descrito(s) no anexo x do presente Regulamento.
 
-## ANEXO II — (a que se refere o n.º 2 do artigo 3.º do Regulamento)
+> Alterado pelo/a Anexo XII do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-25.
+
+## Anexo II — (a que se refere o n.º 2 do artigo 3.º do Regulamento)
 
 Ficha de informações n.º ...
 
-[nos termos do anexo i da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt) (1), relativa à homologação CE de um modelo de veículo no que diz respeito aos seus bancos, fixações e apoios de cabeça (Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt))]
+[nos termos do anexo i da Directiva n.º 70/156/CEE (1), relativa à homologação CE de um modelo de veículo no que diz respeito aos seus bancos, fixações e apoios de cabeça (Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE)]
 
 As seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.
 
@@ -827,9 +866,9 @@ Tratando-se de pedidos de homologação relativos a fixações de bancos de veí
 
 (2) Riscar o que não interessa.
 
-## ANEXO III — [a que se refere a alínea a) do n.º 2 do artigo 5.º do Regulamento]
+## Anexo III — Modelo
 
-Modelo
+[a que se refere a alínea a) do n.º 2 do artigo 5.º do Regulamento]
 
 [formato máximo: A4 (210 mm x 297 mm)]
 
@@ -847,7 +886,7 @@ Recusa da homologação (1);
 
 Revogação da homologação (1);
 
-de um modelo/tipo (1) de veículo/componente/unidade técnica (1) no que diz respeito à Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt).
+de um modelo/tipo (1) de veículo/componente/unidade técnica (1) no que diz respeito à Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE.
 
 Número de homologação: ...
 
@@ -899,7 +938,7 @@ Razão da extensão: ...
 
 Adenda à ficha de homologação CE n.º ...
 
-(relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt))
+(relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE)
 
 1 - Informações adicionais:
 
@@ -919,11 +958,11 @@ Adenda à ficha de homologação CE n.º ...
 
 (1) Riscar o que não interessa.
 
-## ANEXO IV — (a que se refere o n.º 2 do artigo 4.º do Regulamento)
+## Anexo IV — (a que se refere o n.º 2 do artigo 4.º do Regulamento)
 
 Ficha de informações n.º ...
 
-[relativa à homologação CE de bancos como componentes (Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt))]
+[relativa à homologação CE de bancos como componentes (Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE)]
 
 As seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.
 
@@ -963,9 +1002,9 @@ No caso do os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 Data, ficheiro.
 
-## ANEXO V — [a que se refere a alínea b) do n.º 2 do artigo 5.º e o n.º 2 do artigo 17.º do Regulamento]
+## Anexo V — Modelo
 
-Modelo
+[a que se refere a alínea b) do n.º 2 do artigo 5.º e o n.º 2 do artigo 17.º do Regulamento]
 
 [formato máximo: A4 (210 mm x 297 mm)]
 
@@ -983,7 +1022,7 @@ Recusa da homologação (1);
 
 Revogação da homologação (1);
 
-de um modelo/tipo (1) de veículo/componente/unidade técnica (1) no que diz respeito à Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt).
+de um modelo/tipo (1) de veículo/componente/unidade técnica (1) no que diz respeito à Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE.
 
 Número de homologação: ...
 
@@ -1035,7 +1074,7 @@ Razão da extensão: ...
 
 Adenda à ficha de homologação CE n.º ...
 
-(relativa à homologação de um tipo de banco como componente no que diz respeito à Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt))
+(relativa à homologação de um tipo de banco como componente no que diz respeito à Directiva n.º 74/408/CEE, com a última redacção que lhe foi dada pela Directiva n.º 96/37/CE)
 
 1 - Informações adicionais:
 
@@ -1071,17 +1110,17 @@ Adenda à ficha de homologação CE n.º ...
 
 (1) Riscar o que não interessa.
 
-## ANEXO VI — (a que se refere o n.º 4 do artigo 8.º do Regulamento)
+## Anexo VI — Modelo da marca de homologação CE
 
-Modelo da marca de homologação CE
+(a que se refere o n.º 4 do artigo 8.º do Regulamento)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
-O banco portador da marca de homologação CE acima ilustrada é um dispositivo homologado em Espanha (e9) com base na Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt) (00) sob o número de homologação de base 0148. Os números utilizados são-no a título meramente indicativo.
+O banco portador da marca de homologação CE acima ilustrada é um dispositivo homologado em Espanha (e9) com base na Directiva n.º 96/37/CE (00) sob o número de homologação de base 0148. Os números utilizados são-no a título meramente indicativo.
 
-## ANEXO VII — (a que se referem os artigos 12.º, 13.º e 14.º do Regulamento)
+## Anexo VII — Ensaios e instrumentos de utilização
 
-Ensaios e instrumentos de utilização
+(a que se referem os artigos 12.º, 13.º e 14.º do Regulamento)
 
 1 - Especificações gerais aplicáveis a todos os ensaios:
 
@@ -1145,7 +1184,7 @@ Que produza um momento de 373 Nm em relação ao ponto R.
 
 5.1 - Todas as linhas, incluindo a projecção da linha de referência, devem ser traçadas no plano vertical médio do banco ou do lugar sentado em questão. Os contornos do apoio de cabeça e do encosto do banco são definidos pela intersecção desse plano com o banco (v. a fig. 1a do anexo ix).
 
-5.2 - O manequim descrito no anexo ii da Directiva n.º [77/649/CEE](https://data.europa.eu/eli/dir/1977/649/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro, deve ser colocado no banco numa posição normal.
+5.2 - O manequim descrito no anexo ii da Directiva n.º 77/649/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro, deve ser colocado no banco numa posição normal.
 
 5.3 - A projecção da linha de referência do manequim é então traçada para o banco em questão no plano especificado no ponto 4.3.1.
 
@@ -1197,9 +1236,9 @@ Instruções de utilização
 
 No que se refere aos bancos equipados com apoios de cabeça reguláveis, os fabricantes devem fornecer instruções relativas aos respectivos modos de funcionamento, regulação, bloqueamento e, se for caso disso, remoção.
 
-## ANEXO VIII — (a que se referem os n.os 10 e 11 do artigo 12.º do Regulamento)
+## Anexo VIII — Método de ensaio para a determinação da dissipação de energia
 
-Método de ensaio para a determinação da dissipação de energia
+(a que se referem os n.os 10 e 11 do artigo 12.º do Regulamento)
 
 1 - Instalação, equipamento de ensaio, instrumentos de registo e método de ensaio:
 
@@ -1265,9 +1304,9 @@ Os pontos de impacto devem ser seleccionados pelo laboratório de ensaio na zona
 
 (1) A relação entre a massa reduzida «mr» do pêndulo e a massa total «m» do pêndulo a uma distância «a» entre o centro de percussão e o eixo de rotação e a uma distância «l» entre o centro de gravidade e o eixo de rotação é dada pela seguinte fórmula: mr = m.l/a.
 
-## ANEXO IX — [a que se refere a alínea q) do artigo 10.º do Regulamento]
+## Anexo IX — Método de ensaio da resistência das fixações de um banco e dos respectivos sistemas de regulação, bloqueamento e deslocação
 
-Método de ensaio da resistência das fixações de um banco e dos respectivos sistemas de regulação, bloqueamento e deslocação
+[a que se refere a alínea q) do artigo 10.º do Regulamento]
 
 1 - Ensaio da resistência a efeitos de inércia:
 
@@ -1287,41 +1326,41 @@ Método de ensaio da resistência das fixações de um banco e dos respectivos s
 
 2.2 - No momento do impacte, o veículo deve rolar livremente. Deve atingir o obstáculo segundo uma trajectória perpendicular à parede de colisão; o desvio lateral máximo permitido entre a linha vertical média da frente do veículo e a linha vertical média da parede de colisão é de (mais ou menos) 30 cm; no momento do impacte, o veículo já não deve estar sujeito à acção de quaisquer dispositivos suplementares de direcção ou de propulsão. A velocidade no momento do impacte deve estar compreendida entre 48,3 km/h e 53,1 km/h;
 
-2.3 - O sistema de alimentação de combustível deve estar cheio de água até uma massa correspondente a 90 % da capacidade máxima especificada pelo construtor:
+2.3 - O sistema de alimentação de combustível deve estar cheio de água até uma massa correspondente a 90  % da capacidade máxima especificada pelo construtor:
 
 2.3.1 - Os outros sistemas (de travagem, de arrefecimento, etc.) poderão estar vazios, caso em que a massa dos líquidos correspondentes deve ser compensada.
 
 Figura 1a
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 Figura 1b
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 Figura 2
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 Figura 3
 
 Determinação da dimensão «a» das aberturas do apoio de cabeça
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 Exemplo de aberturas horizontais
 
 Nota. - A secção A-A deve ser determinada colocando a esfera num ponto da zona da abertura que permita a sua penetração máxima, sem aplicação de carga.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 Exemplo de aberturas verticais
 
 Nota. - A secção A-A deve ser determinada colocando a esfera num ponto da zona da abertura que permita a sua penetração máxima, sem aplicação de carga.
 
-## ANEXO X — [a que se referem o n.º 1 do artigo 17.º, a alínea b) do n.º 1 do artigo 18.º e n.º 2 do artigo 19.º do Regulamento]
+## Anexo X — Métodos de ensaio de bancos, em conformidade com o artigo 17.º, e ou de fixações, em conformidade com a alínea b) do n.º 1 do artigo 18.º
 
-Métodos de ensaio de bancos, em conformidade com o artigo 17.º, e ou de fixações, em conformidade com a alínea b) do n.º 1 do artigo 18.º
+[a que se referem o n.º 1 do artigo 17.º, a alínea b) do n.º 1 do artigo 18.º e n.º 2 do artigo 19.º do Regulamento]
 
 1 - Requisitos:
 
@@ -1373,7 +1412,7 @@ Métodos de ensaio de bancos, em conformidade com o artigo 17.º, e ou de fixaç
 
 2.6 - Se o encosto do banco estiver equipado com um apoio de cabeça regulável em altura, este deve apresentar-se na sua posição mais baixa;
 
-2.7 - No banco auxiliar e no banco a ensaiar devem ser instalados cintos de segurança de um tipo homologado, conformes com o Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, aprovado pelo Decreto-Lei n.º 225/2001, de 11 de Agosto, e montados em fixações instaladas de forma a satisfazer os requisitos da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro (incluindo, se for caso disso, a derrogação prevista no ponto 5.5.4 do anexo i da referida directiva).
+2.7 - No banco auxiliar e no banco a ensaiar devem ser instalados cintos de segurança de um tipo homologado, conformes com o Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, aprovado pelo Decreto-Lei n.º 225/2001, de 11 de Agosto, e montados em fixações instaladas de forma a satisfazer os requisitos da Directiva n.º 76/115/CEE, transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro (incluindo, se for caso disso, a derrogação prevista no ponto 5.5.4 do anexo i da referida directiva).
 
 3 - Ensaios dinâmicos:
 
@@ -1427,19 +1466,19 @@ Métodos de ensaio de bancos, em conformidade com o artigo 17.º, e ou de fixaç
 
 3.5.2 - O banco auxiliar poderá ser do mesmo tipo ou de um tipo diferente do banco ensaiado. As suas características devem ser indicadas na adenda à ficha de homologação, constante do referido anexo v;
 
-3.5.3 - O ensaio 2 também poderá ser aplicado a outras partes do veículo que não os bancos, conforme previsto no Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, e no ponto 4.3.7 da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), na sua última redacção;
+3.5.3 - O ensaio 2 também poderá ser aplicado a outras partes do veículo que não os bancos, conforme previsto no Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, e no ponto 4.3.7 da Directiva n.º 76/115/CEE, na sua última redacção;
 
-3.5.4 - Se o ensaio 2 for conduzido com o manequim retido por um cinto de três pontos e os critérios de lesão não forem excedidos, considerar-se-á que o banco auxiliar satisfaz os requisitos relativos às cargas aplicadas no ensaio estático e ao movimento da fixação superior durante o ensaio especificados na citada Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt) para este caso.
+3.5.4 - Se o ensaio 2 for conduzido com o manequim retido por um cinto de três pontos e os critérios de lesão não forem excedidos, considerar-se-á que o banco auxiliar satisfaz os requisitos relativos às cargas aplicadas no ensaio estático e ao movimento da fixação superior durante o ensaio especificados na citada Directiva n.º 76/115/CEE para este caso.
 
 Figura 1
 
 Desaceleração g
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
-## ANEXO XI — [a que se refere a alínea a) do n.º 1 do artigo 18.º do Regulamento]
+## Anexo XI — Método de ensaio das fixações de um veículo, em aplicação do disposto na alínea a) do n.º 1 do artigo 18.º
 
-Método de ensaio das fixações de um veículo, em aplicação do disposto na alínea a) do n.º 1 do artigo 18.º
+[a que se refere a alínea a) do n.º 1 do artigo 18.º do Regulamento]
 
 1 - Equipamento de ensaio:
 
@@ -1463,9 +1502,9 @@ Método de ensaio das fixações de um veículo, em aplicação do disposto na a
 
 2.2.2 - Em conformidade com as cargas representativas medidas durante os ensaios dinâmicos descritos no anexo x do presente Regulamento.
 
-## ANEXO XII — (a que se refere o capítulo iii do Regulamento)
+## Anexo XII — Medições a efectuar
 
-Medições a efectuar
+(a que se refere o capítulo iii do Regulamento)
 
 1 - As medições necessárias devem ser todas realizadas com sistemas de medição que correspondam às especificações da Norma Internacional ISO 6487, intitulada «Técnica de medição nos ensaios de colisão: Instrumentação», publicada em 1987.
 
@@ -1483,17 +1522,17 @@ Medições a efectuar
 
 (1) Quando expresso em g (= 9,81 m/sec²) o seu valor escalar é calculado através da seguinte fórmula:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
-## ANEXO XIII — (a que se refere o capítulo iii do Regulamento)
+## Anexo XIII — Determinação dos critérios de aceitação
 
-Determinação dos critérios de aceitação
+(a que se refere o capítulo iii do Regulamento)
 
 1 - Critério de aceitação para a cabeça (CAC):
 
 1.1 - Este critério de aceitação (CAC) é calculado com base na resultante das acelerações segundo os três eixos medida de acordo com o ponto 2.2.1 do anexo xii, através da seguinte expressão:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 2 - Critério de aceitação para o tórax (CAT):
 
@@ -1501,9 +1540,9 @@ Determinação dos critérios de aceitação
 
 3 - Critério de aceitação para os fémures (CAF) - este critério depende da força de compressão transmitida axialmente a cada um dos fémures do manequim, expressa em kN e medida de acordo com o ponto 2.2.3 do mesmo do anexo xii, e do tempo de aplicação dessa força, expresso em ms.
 
-## ANEXO XIV — [a que se referem o n.º 1 do artigo 17.º e a alínea a) do n.º 3 do artigo 19.º do Regulamento]
+## Anexo XIV — Método de ensaio estático e respectivos requisitos
 
-Método de ensaio estático e respectivos requisitos
+[a que se referem o n.º 1 do artigo 17.º e a alínea a) do n.º 3 do artigo 19.º do Regulamento]
 
 1 - Requisitos:
 
@@ -1555,7 +1594,7 @@ Método de ensaio estático e respectivos requisitos
 
 2.2.1 - Por meio de um dispositivo conforme com o ponto 2.1, aplica-se uma força de
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 na parte posterior do banco correspondente a cada lugar sentado;
 
@@ -1565,7 +1604,7 @@ na parte posterior do banco correspondente a cada lugar sentado;
 
 2.2.2 - Por meio de um dispositivo conforme com o ponto 2.1, aplica-se em simultâneo uma força de:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
 à parte posterior do banco correspondente a cada um dos lugares sentados do banco em questão, no mesmo plano vertical e na mesma direcção e à altura H2, que deve estar compreendida entre 0,45 m e 0,55 m acima do plano de referência. A altura exacta deve ser especificada pelo fabricante;
 
@@ -1581,11 +1620,11 @@ Se uma ou mais das forças aplicadas no ensaio, mas não todas elas, forem super
 
 Figura 1
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+(ver documento original)
 
-## ANEXO XV — [a que se referem o n.º 1 do artigo 17.º, alínea b) do n.º 2 e alínea b) do n.º 3 do artigo 19.º do Regulamento]
+## Anexo XV — Características de absorção de energia da parte posterior do encosto dos bancos dos veículos das categorias M(índice 2) e M(índice 3)
 
-Características de absorção de energia da parte posterior do encosto dos bancos dos veículos das categorias M(índice 2) e M(índice 3)
+[a que se referem o n.º 1 do artigo 17.º, alínea b) do n.º 2 e alínea b) do n.º 3 do artigo 19.º do Regulamento]
 
 1 - A pedido do fabricante, os elementos da parte posterior dos encostos dos bancos situados na zona de referência definida na alínea v) do artigo 16.º serão verificados com base nos requisitos de absorção de energia especificados no capítulo iii do Regulamento Relativo ao Arranjo Interior dos Automóveis, aprovado pelo Decreto-Lei n.º 297/2001, de 21 de Novembro. Para esse efeito, os acessórios instalados devem ser ensaiados em todas as posições de utilização, excepto as mesas, que devem estar recolhidas.
 

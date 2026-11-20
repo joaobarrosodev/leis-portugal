@@ -23,6 +23,16 @@ publication:
   pages: 85 - 91
   pdf_url: https://files.diariodarepublica.pt/2s/2000/10/247144000/0008500091.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a afixação nos lugares de estilo do edital da sua publicitação, ficando porém o cumprimento das disposições
+    sobre o trânsito e estacionamento dependentes da colocação da respectiva sinali
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

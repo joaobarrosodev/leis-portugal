@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/073000000/1221812221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:106646687:por#texto'
+    detail: 1 - Este regulamento aplica-se a partir do ano letivo 2016/2017, substituindo e revogando o [Regulamento n.º 381/2016]
+      publicado no n.º 73 do Diário da República, 2.ª série, de 14 de abril.
 notes: []
 language: por
 version:

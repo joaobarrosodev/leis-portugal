@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 215 - 234
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/158000000/0021500234.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-19'
+entry_into_force:
+  date: '2020-08-19'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

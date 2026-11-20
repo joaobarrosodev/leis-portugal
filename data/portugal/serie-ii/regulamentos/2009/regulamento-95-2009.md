@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7251 - 7254
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/036000000/0725107254.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-07'
+entry_into_force:
+  date: '2009-03-07'
+  rule: 15 dias após a sua publicação em edital
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,25 @@ publication:
   pages: 20490 - 20493
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/152000000/2049020493.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Técnico-Científico da ENIDH e é publicado na 2.ª série do Diário da República
+    e no sítio da ENIDH na internet
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:158215174:por#art-16'
+    detail: 1 - É revogado o [Regulamento n.º 353/2014], publicado no Diário da República, 2.ª série, n.º 152 de 8 de agosto
+      de 2014.
 notes: []
 language: por
 version:

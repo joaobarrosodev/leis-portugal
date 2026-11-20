@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 840 - 858
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/017000000/0084000858.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-08'
+entry_into_force:
+  date: '2020-02-08'
+  rule: quinze dias após a sua publicação legal
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

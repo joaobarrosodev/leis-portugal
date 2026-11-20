@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/050000000/0621906221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:211911971:por#texto'
+    detail: É revogado o [Regulamento n.º 113/2015], de 12 de março.
 notes: []
 language: por
 version:

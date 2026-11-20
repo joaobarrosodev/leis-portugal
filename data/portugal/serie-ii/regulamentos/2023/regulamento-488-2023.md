@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 275 - 280
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/084000000/0027500280.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-03'
+entry_into_force:
+  date: '2023-05-03'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:913590345:por#art-16'
+    detail: O presente Regulamento revoga o [Regulamento n.º 488/2023], do Regulamento Municipal de Atribuição de Apoio ao
+      Arrendamento, publicado na 2.ª série do Diário da República, n.º 84, de 2 de maio de 2023.
 notes: []
 language: por
 version:

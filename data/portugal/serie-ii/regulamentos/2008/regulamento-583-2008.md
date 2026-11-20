@@ -24,6 +24,15 @@ publication:
   pages: 46168 - 46170
   pdf_url: https://files.diariodarepublica.pt/2s/2008/11/218000000/4616846170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2008/2009
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

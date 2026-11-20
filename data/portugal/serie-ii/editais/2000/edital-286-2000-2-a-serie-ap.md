@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2000/07/172106000/0002200028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-26'
+entry_into_force:
+  date: '2000-08-26'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 28 - 40
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/107056000/0002800040.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República na sequência da aprovação da Assembleia Municipal da Maia
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 27692 - 27693
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/236000000/2769227693.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: oito dias APÓS O anúncio público efetuado pelo conselho geral da disponibilidade da plataforma informática de suporte
+    e da subscrição com uma instituição bancária do protocolo referido no presente reg
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

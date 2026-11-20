@@ -26,6 +26,16 @@ publication:
   pages: 36569 - 36571
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/246000000/3656936571.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data de entrada em vigor do Decreto-Lei n.º 244/2015, de 19 de outubro, conforme o disposto no n.º 1 do seu artigo
+    8.º
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

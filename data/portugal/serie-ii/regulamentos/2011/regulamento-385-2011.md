@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26485 - 26487
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/119000000/2648526487.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-02'
+entry_into_force:
+  date: '2011-07-02'
+  rule: dez dias após a sua publicação em edital afixado nos lugares habituais, data a partir da qual todos os estabelecimentos
+    têm de conformar os respectivos horários de funcionamento, conforme o estabeleci
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

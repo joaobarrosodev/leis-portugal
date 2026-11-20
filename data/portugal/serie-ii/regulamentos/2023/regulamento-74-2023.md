@@ -23,6 +23,16 @@ publication:
   pages: 133 - 138
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/014000000/0013300138.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela assembleia regional, nos termos do disposto no artigo 41.º alínea g) do Estatuto da Ordem
+    dos Farmacêuticos, e publicação na 2.ª série do Diário da República e em meio de com
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

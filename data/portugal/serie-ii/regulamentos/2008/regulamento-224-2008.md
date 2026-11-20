@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 19791 - 19816
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/085000000/1979119816.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-02'
+entry_into_force:
+  date: '2008-05-02'
+  rule: na data da sua publicação no Diário da República, ficando automaticamente revogada a estrutura e organização dos serviços
+    municipais e quadro de pessoal cujas últimas alterações foram publicadas no Di
+  method: clausula
+  article: art-106
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

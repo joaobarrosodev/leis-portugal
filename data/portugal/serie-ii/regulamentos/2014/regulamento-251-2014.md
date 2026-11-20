@@ -23,6 +23,15 @@ publication:
   pages: 16065 - 16069
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/116000000/1606516069.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2013/2014, inclusive
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

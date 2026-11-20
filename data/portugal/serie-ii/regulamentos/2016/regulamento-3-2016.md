@@ -23,6 +23,15 @@ publication:
   pages: 74 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/001000000/0007400077.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias úteis sobre a sua publicitação nos termos legais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

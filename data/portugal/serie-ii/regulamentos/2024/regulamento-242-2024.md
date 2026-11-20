@@ -23,6 +23,16 @@ publication:
   pages: 123 - 143
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/042000000/0012300143.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação dos órgãos executivos e deliberativos e a sua publicação no Diário da República e em edital a afixar
+    no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

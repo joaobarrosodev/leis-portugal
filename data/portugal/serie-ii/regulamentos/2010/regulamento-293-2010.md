@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15151 - 15154
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/058000000/1515115154.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-24'
+entry_into_force:
+  date: '2010-03-24'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

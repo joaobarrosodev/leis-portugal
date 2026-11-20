@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 183 - 212
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/018000000/0018300212.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-11'
+entry_into_force:
+  date: '2021-02-11'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

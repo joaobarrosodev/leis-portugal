@@ -23,6 +23,15 @@ publication:
   pages: 196 - 205
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/137000000/0019600205.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: durante o ano letivo 2021/2022, a partir da sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

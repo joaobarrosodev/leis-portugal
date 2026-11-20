@@ -23,6 +23,15 @@ publication:
   pages: 562 - 570
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/139000000/0056200570.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à data de homologação pelo Reitor da UFP
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

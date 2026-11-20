@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 175 - 185
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/084000000/0017500185.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-30'
+entry_into_force:
+  date: '2020-04-30'
+  rule: no dia seguinte à sua publicação no Diário da República, sem prejuízo das deliberações tomadas pelo Conselho Intermunicipal
+    no âmbito do PART
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

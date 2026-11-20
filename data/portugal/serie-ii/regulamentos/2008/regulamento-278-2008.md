@@ -23,6 +23,15 @@ publication:
   pages: 23602 - 23605
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/101000000/2360223605.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

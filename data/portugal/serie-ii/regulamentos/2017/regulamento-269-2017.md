@@ -23,6 +23,15 @@ publication:
   pages: 9928 - 9930
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/097000000/0992809930.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato ao da sua assinatura
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

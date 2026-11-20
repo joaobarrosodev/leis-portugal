@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 86 - 91
   pdf_url: https://files.diariodarepublica.pt/2s/2006/03/047022000/0008600091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-04-06'
+entry_into_force:
+  date: '2006-04-06'
+  rule: 30 dias após a sua publicação no Diário da República, considerando-se revogadas todas as disposições municipais existentes
+    sobre trânsito à data da entrada em vigor do presente Regulamento
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

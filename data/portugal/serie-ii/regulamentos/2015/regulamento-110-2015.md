@@ -23,6 +23,15 @@ publication:
   pages: 6137 - 6149
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/049000000/0613706149.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao dia 20 do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-76
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

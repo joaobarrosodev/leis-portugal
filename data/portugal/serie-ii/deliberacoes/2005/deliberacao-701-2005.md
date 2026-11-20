@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7775 - 7777
   pdf_url: https://files.diariodarepublica.pt/2s/2005/05/096000000/0777507777.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-05-19'
+entry_into_force:
+  date: '2005-05-19'
+  rule: no dia imediato ao da sua publicação, salvaguardando-se um período de transição até 31 de Dezembro de 2005, necessário
+    para garantir a gradual reorganização dos serviços
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 52 - 54
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/092060000/0005200054.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-04-18'
+entry_into_force:
+  date: '2000-04-18'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

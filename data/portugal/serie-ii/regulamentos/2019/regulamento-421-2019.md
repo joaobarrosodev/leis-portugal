@@ -24,6 +24,15 @@ publication:
   pages: 14603 - 14609
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/091000000/1460314609.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação na página eletrónica do Município
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

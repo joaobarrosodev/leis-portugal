@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 83 - 86
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/095048000/0008300086.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-02'
+entry_into_force:
+  date: '2004-05-02'
+  rule: 10 dias após a publicação do presente edital na 2.ª série do Diário da República
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

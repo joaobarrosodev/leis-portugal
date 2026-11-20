@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31311 - 31312
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/212000000/3131131312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-13'
+entry_into_force:
+  date: '2015-11-13'
+  rule: 15 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

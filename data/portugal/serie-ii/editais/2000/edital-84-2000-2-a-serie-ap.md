@@ -23,6 +23,16 @@ publication:
   pages: 94 - 109
   pdf_url: https://files.diariodarepublica.pt/2s/2000/03/059035000/0009400109.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: (na data correspondente ao 61.º dia após a celebração do contrato de concessão), revogando o anterior Regulamento
+    de Abastecimento de Água ao Concelho de Santa Maria da Feira
+  method: clausula
+  article: art-81
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

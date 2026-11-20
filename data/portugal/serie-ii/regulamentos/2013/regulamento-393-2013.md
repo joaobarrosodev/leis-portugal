@@ -24,6 +24,15 @@ publication:
   pages: 31114 - 31116
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/200000000/3111431116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Conselho Técnico-Científico
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

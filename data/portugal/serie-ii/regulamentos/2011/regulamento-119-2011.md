@@ -23,6 +23,15 @@ publication:
   pages: 8428 - 8434
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/034000000/0842808434.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua homologação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

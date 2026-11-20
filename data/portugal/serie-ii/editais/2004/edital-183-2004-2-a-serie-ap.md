@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 36 - 40
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/067036000/0003600040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-04-03'
+entry_into_force:
+  date: '2004-04-03'
+  rule: 15 dias após a sua publicação, nos termos legais, revogando para todos os efeitos o anterior Regulamento da Comissão
+    de Toponímia, de 11 de Março de 1988
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

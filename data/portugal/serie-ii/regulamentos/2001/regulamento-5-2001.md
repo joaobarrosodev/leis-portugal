@@ -23,6 +23,15 @@ publication:
   pages: 2333 - 2334
   pdf_url: https://files.diariodarepublica.pt/2s/2001/02/028000000/0233302334.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: excepto para regularização de pagamentos pendentes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

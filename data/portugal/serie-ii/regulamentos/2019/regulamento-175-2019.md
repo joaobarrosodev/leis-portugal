@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5855 - 5857
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/036000000/0585505857.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-21'
+entry_into_force:
+  date: '2019-02-21'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

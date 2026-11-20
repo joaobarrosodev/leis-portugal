@@ -23,6 +23,15 @@ publication:
   pages: 23086 - 23089
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/158000000/2308623089.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

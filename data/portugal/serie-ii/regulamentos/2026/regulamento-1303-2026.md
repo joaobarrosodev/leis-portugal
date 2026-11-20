@@ -23,6 +23,15 @@ publication:
   pages: 635 - 648
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/197000000/0063500648.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal, no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

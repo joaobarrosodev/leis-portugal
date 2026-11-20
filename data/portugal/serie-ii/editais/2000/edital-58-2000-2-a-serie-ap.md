@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 96 - 102
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/044027000/0009600102.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-08'
+entry_into_force:
+  date: '2000-03-08'
+  rule: '15 dias após a publicação do respectivo edital no Diário da República, 2.ª série, ficando revogadas quaisquer deliberações,
+    posturas ou disposições regulamentares em vigor na área deste município que '
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

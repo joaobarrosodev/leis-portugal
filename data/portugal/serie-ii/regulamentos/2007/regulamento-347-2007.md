@@ -24,6 +24,16 @@ publication:
   pages: 38017 - 38019
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/250000000/3801738019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião plenária do conselho científico da FCT-UNL e, posteriormente, em reunião plenária
+    do Senado da UNL, data a partir da qual são revogados todos os regulamentos específico
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

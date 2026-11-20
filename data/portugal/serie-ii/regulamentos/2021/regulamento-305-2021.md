@@ -23,6 +23,16 @@ publication:
   pages: 129 - 162
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/061000000/0012900162.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, conforme o disposto nos artigos 139.º e 140.º do
+    Código do Procedimento Administrativo
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

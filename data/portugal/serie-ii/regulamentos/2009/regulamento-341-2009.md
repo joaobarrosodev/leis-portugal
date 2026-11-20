@@ -24,6 +24,15 @@ publication:
   pages: 31410 - 31411
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/150000000/3141031411.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 20072008, inclusive
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

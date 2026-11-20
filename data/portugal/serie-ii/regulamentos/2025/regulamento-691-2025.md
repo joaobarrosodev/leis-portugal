@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 300 - 310
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/103000000/0030000310.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-30'
+entry_into_force:
+  date: '2025-05-30'
+  rule: no dia seguinte ao da sua publicação no Diário da República, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

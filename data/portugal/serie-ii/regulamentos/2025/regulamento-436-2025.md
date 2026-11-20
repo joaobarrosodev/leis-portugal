@@ -24,6 +24,15 @@ publication:
   pages: 691 - 695
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/063000000/0069100695.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2025/2026
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

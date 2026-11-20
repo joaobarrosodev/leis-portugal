@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13686 - 13689
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/058000000/1368613689.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-04-07'
+entry_into_force:
+  date: '2011-04-07'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

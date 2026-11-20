@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/080000003/0004800066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:889143863:por'
+    detail: Revogado pelo Acordo Colectivo de Trabalho n.º 79/2024
 notes: []
 language: por
 version:

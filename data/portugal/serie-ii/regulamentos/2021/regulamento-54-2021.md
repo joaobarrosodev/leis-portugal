@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 650 - 663
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/009000000/0065000663.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-13'
+entry_into_force:
+  date: '2021-02-13'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

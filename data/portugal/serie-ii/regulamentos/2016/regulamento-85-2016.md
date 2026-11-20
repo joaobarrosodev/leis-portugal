@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2954 - 2956
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/017000000/0295402956.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-27'
+entry_into_force:
+  date: '2016-01-27'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18870 - 18873
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/113000000/1887018873.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-20'
+entry_into_force:
+  date: '2016-06-20'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

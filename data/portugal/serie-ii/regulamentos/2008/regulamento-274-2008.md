@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 23290 - 23299
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/100000000/2329023299.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-25'
+entry_into_force:
+  date: '2008-06-25'
+  rule: 30 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

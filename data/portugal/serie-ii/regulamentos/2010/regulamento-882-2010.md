@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 60927 - 60939
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/241000000/6092760939.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-16'
+entry_into_force:
+  date: '2010-12-16'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

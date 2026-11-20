@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 8569 - 8571
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/049000000/0856908571.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-11'
+entry_into_force:
+  date: '2016-03-11'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:119010371:por#art-14'
+    detail: É revogado o [Regulamento n.º 241/2016] publicado na 2.ª série do Diário da República n.º 49/2016, Série II, de
+      10 de março de 2016.
 notes: []
 language: por
 version:

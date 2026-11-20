@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 235 - 279
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/187000000/0023500279.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-30'
+entry_into_force:
+  date: '2025-09-30'
+  rule: no dia seguinte ao da sua publicação, aplicando-se a todos os estudantes matriculados e inscritos no ano letivo de
+    2025-2026 e seguintes
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

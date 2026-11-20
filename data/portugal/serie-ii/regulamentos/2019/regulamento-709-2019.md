@@ -24,6 +24,15 @@ publication:
   pages: 117 - 123
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/173000000/0011700123.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Diretor da FCM|NMS e no dia seguinte ao da sua divulgação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

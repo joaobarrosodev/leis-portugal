@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 291 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/016000000/0029100293.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-24'
+entry_into_force:
+  date: '2020-01-24'
+  rule: no dia imediatamente a seguir à sua publicação nos termos legais e vigora enquanto o seu objeto e finalidade o justificar
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/162000000/2380423809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74672390:por#art-37'
+    detail: 1 - É revogado o [Regulamento n.º 569/2015], publicado na 2.ª série do Diário da República de 20 de agosto.
 notes: []
 language: por
 version:

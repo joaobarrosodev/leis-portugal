@@ -23,6 +23,15 @@ publication:
   pages: 62 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2001/07/158084000/0006200063.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no final do prazo consignado para apreciação pública se nenhuma sugestão for apresentada no decurso do mesmo
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

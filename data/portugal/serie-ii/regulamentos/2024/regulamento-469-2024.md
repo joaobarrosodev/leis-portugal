@@ -24,6 +24,15 @@ publication:
   pages: 480 - 496
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/081000000/0048000496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a publicação no Diário da República
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

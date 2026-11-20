@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 90 - 91
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/033021000/0009000091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-03-03'
+entry_into_force:
+  date: '2005-03-03'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/069000000/1613216133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:141854990:por#art-27'
+    detail: O presente Regulamento revoga o [Regulamento n.º 231/2011], de 7 de abril e o Regulamento do Regime dos Concursos
+      Especiais, homologados pelo Despacho Conjunto n.º 2/2017.
 notes: []
 language: por
 version:

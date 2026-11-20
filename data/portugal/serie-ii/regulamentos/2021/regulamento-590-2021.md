@@ -23,6 +23,15 @@ publication:
   pages: 359 - 397
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/124000000/0035900397.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a sua publicação no Diário da República, nos termos legais
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

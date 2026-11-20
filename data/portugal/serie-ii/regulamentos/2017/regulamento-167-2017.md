@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6307 - 6309
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/067000000/0630706309.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-01'
+entry_into_force:
+  date: '2017-05-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

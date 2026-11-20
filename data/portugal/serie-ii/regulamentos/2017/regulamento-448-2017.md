@@ -23,8 +23,24 @@ publication:
   pages: 17994 - 17998
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/159000000/1799417998.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das candidaturas para o ano letivo 2017/2018, inclusive
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124315853:por#art-27'
+    detail: 1 - É revogado o [Regulamento n.º 448/2017], de 18 de agosto, para os Regimes de Reingresso e de Mudança de Par
+      Instituição/Curso, da Universidade da Madeira, publicado no Diário da República, 2.ª série, n.º 159.
 notes: []
 language: por
 version:

@@ -23,8 +23,24 @@ publication:
   pages: 3469 - 3470
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/039000000/0346903470.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte, após a sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:186287709:por#art-14'
+    detail: 2 - A entrada em vigor do presente regulamento revoga na íntegra o [Regulamento n.º 107/2017], publicado na 2.ª
+      série do Diário da República, n.º 39, de 23 de fevereiro de 2017.
 notes: []
 language: por
 version:

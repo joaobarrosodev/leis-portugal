@@ -23,6 +23,15 @@ publication:
   pages: 362 - 370
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/142000000/0036200370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação pela forma legalmente prevista
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

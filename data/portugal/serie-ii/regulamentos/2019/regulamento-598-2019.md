@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 134 - 137
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/143000000/0013400137.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-30'
+entry_into_force:
+  date: '2019-07-30'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:163339081:por#art-9'
+    detail: Pelo presente regulamento é revogado o [Regulamento n.º 598/2019], de 29 de julho, publicado na 2.ª série do Diário
+      da República, n.º 143.
 notes: []
 language: por
 version:

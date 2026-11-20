@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 290 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/095000000/0029000293.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-20'
+entry_into_force:
+  date: '2025-05-20'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se a partir do ano letivo 2024/2025
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

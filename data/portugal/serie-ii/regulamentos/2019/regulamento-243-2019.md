@@ -23,6 +23,15 @@ publication:
   pages: 8525 - 8527
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/056000000/0852508527.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias úteis após a sua publicitação nos termos legais
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

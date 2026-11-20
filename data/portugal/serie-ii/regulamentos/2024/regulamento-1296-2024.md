@@ -23,6 +23,15 @@ publication:
   pages: 216 - 241
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/219000000/0021600241.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias, a contar da sua publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

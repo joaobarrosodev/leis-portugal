@@ -23,6 +23,16 @@ publication:
   pages: 35866 - 35867
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/244000000/3586635867.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, considerando-se ratificados todos os atos praticados pelos elementos do Conselho
+    de Administração no âmbito das competências delegadas, a partir dessa data e até à
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

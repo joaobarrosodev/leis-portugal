@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 706-(2) a 706-(21)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/004000001/0000200021.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: em 01 de Janeiro de 2008, ou no dia seguinte à sua publicação na 2.ª série do Diário da República, se esta ocorrer
+    posteriormente a 31 de Dezembro de 2007
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

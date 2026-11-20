@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6520 - 6526
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/048000000/0652006526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-03-11'
+entry_into_force:
+  date: '2014-03-11'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

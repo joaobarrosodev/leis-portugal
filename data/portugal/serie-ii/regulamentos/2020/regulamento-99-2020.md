@@ -23,6 +23,15 @@ publication:
   pages: 554 - 557
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/026000000/0055400557.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da sua aprovação pela Assembleia de Freguesia de Charneca de Caparica e Sobreda
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

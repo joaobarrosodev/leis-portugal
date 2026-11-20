@@ -23,8 +23,24 @@ publication:
   pages: 14173 - 14174
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/106000000/1417314174.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:72958191:por#art-11'
+    detail: O presente Regulamento revoga o [Regulamento n.º 291/2015], publicado na 2.ª série do Diário da República n.º
+      106, de 02 de junho.
 notes: []
 language: por
 version:

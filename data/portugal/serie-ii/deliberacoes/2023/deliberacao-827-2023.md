@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 82 - 87
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/167000000/0008200087.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-29'
+entry_into_force:
+  date: '2023-08-29'
+  rule: com a sua publicação na página eletrónica do INFARMED, I
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

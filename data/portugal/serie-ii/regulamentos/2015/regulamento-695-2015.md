@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29250 - 29261
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/199000000/2925029261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-17'
+entry_into_force:
+  date: '2015-10-17'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

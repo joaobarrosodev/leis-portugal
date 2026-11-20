@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 92 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/001000000/0009200094.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-01'
+entry_into_force:
+  date: '2017-05-01'
+  rule: no dia 01 de maio de 2017
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

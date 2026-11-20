@@ -36,7 +36,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto-Lei n.º 296/2003, com o diploma que alterava (Decreto-Lei n.º 504-N/85); o DRE
+    regista a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:438041:por'
+    detail: É revogado o Decreto-Lei n.º 504-N/85, de 30 de Dezembro, bem como o Decreto-Lei n.º 186/89, de 3 de Junho, e
+      o Decreto-Lei n.º 69/94, de 3 de Março, que o alteraram.
 notes: []
 language: por
 version:
@@ -99,6 +109,12 @@ relationships:
   label: "Revogado pelo DEC LEI.296/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2003-438041
   date: '2003-11-21'
+- type: repealed_by
+  target: pt:dre:438041:por
+  label: Revogado por inteiro pelo Decreto-Lei n.º 296/2003, com o diploma que alterava (Decreto-Lei n.º 504-N/85); o DRE
+    regista a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-11-22'
 article_structure:
   article_count: 0
   section_count: 0

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 27831 - 27834
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/189000000/2783127834.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-13'
+entry_into_force:
+  date: '2015-10-13'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

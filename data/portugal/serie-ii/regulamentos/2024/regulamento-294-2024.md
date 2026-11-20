@@ -23,6 +23,15 @@ publication:
   pages: 639 - 642
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/054000000/0063900642.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo executivo da Junta de Freguesia e pela Assembleia de Freguesia
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

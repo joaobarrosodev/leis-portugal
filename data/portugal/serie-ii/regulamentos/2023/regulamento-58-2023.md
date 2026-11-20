@@ -23,6 +23,15 @@ publication:
   pages: 309 - 323
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/012000000/0030900323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a publicação no Diário da República
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

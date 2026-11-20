@@ -23,6 +23,15 @@ publication:
   pages: 5446 - 5448
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/035000000/0544605448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pelo Conselho
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

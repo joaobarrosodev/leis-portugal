@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 210 - 218
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/234000000/0021000218.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-03-17'
+entry_into_force:
+  date: '2020-03-17'
+  rule: no dia 17 de março de 2020
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 16778 - 16794
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/080000000/1677816794.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2008-2009. minor
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

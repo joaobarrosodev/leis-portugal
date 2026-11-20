@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 262 - 285
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/151000000/0026200285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-08'
+entry_into_force:
+  date: '2025-08-08'
+  rule: no dia seguinte à data de publicação no Diário da República
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

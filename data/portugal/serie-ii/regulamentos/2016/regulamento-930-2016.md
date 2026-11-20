@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30588 - 30590
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/197000000/3058830590.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-28'
+entry_into_force:
+  date: '2016-10-28'
+  rule: 15 dias após a data da sua publicação e revoga toda a regulamentação municipal anterior sobre a mesma matéria
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

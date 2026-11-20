@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12783 - 12784
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/054000000/1278312784.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-03-18'
+entry_into_force:
+  date: '2011-03-18'
+  rule: no dia a seguir ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

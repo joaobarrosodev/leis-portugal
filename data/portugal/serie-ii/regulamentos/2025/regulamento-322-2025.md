@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 241 - 244
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/050000000/0024100244.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-13'
+entry_into_force:
+  date: '2025-03-13'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: durante o período de financiamento associado ao Programa Impulso Mais Digital
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

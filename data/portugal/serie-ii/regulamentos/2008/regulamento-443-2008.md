@@ -23,6 +23,15 @@ publication:
   pages: 35877 - 35878
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/155000000/3587735878.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, devendo o mesmo ser publicitado
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

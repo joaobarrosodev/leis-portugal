@@ -24,6 +24,15 @@ publication:
   pages: 376 - 384
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/125000000/0037600384.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: de imediato e
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2024/2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

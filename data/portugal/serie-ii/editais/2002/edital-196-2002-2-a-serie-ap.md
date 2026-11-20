@@ -23,6 +23,15 @@ publication:
   pages: 128 - 132
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/105055000/0012800132.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

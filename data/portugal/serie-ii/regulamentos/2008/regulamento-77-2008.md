@@ -23,6 +23,15 @@ publication:
   pages: 5870 - 5872
   pdf_url: https://files.diariodarepublica.pt/2s/2008/02/032000000/0587005872.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à publicação dos respectivos editais
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

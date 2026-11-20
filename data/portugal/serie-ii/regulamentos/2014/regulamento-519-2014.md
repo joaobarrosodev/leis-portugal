@@ -23,8 +23,24 @@ publication:
   pages: 28922 - 28923
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/221000000/2892228923.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107629752:por#art-14'
+    detail: O presente regulamento revoga o [Regulamento n.º 519/2014], publicado no Diário da República, 2.ª série, de 14
+      de novembro de 2014.
 notes: []
 language: por
 version:

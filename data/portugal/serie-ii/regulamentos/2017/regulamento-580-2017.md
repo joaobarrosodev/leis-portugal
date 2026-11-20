@@ -23,6 +23,15 @@ publication:
   pages: 24764 - 24767
   pdf_url: https://files.diariodarepublica.pt/2s/2017/11/211000000/2476424767.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte após a sua publicação pela forma legalmente prevista
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

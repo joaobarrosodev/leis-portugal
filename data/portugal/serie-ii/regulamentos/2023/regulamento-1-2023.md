@@ -23,8 +23,23 @@ publication:
   pages: 319 - 322
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/002000000/0031900322.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:897520959:por#art-13'
+    detail: É revogado o [Regulamento n.º 1/2023], de 3 de janeiro.
 notes: []
 language: por
 version:

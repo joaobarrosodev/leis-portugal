@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 34416 - 34419
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/232000000/3441634419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-27'
+entry_into_force:
+  date: '2015-11-27'
+  rule: no dia seguinte ao da sua publicação no Diário da República, revogando todas as disposições em contrário sobre as
+    mesmas matérias constantes de outros normativos internos nas duas instituições parceir
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

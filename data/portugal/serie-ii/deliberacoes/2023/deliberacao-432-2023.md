@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/079000000/0011700118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1171535230:por#n-3'
+    detail: 3 - É revogada a [Deliberação n.º 432/2023], de 21 de abril.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 23 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/043025000/0002300028.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação, nos termos do n.º 4 do artigo 29.º da Lei n.º 42/98 de 6 de Agosto
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 359 - 362
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/149000000/0035900362.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia de Freguesia de Aljezur
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

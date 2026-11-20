@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 62 - 66
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/031016000/0006200066.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-07'
+entry_into_force:
+  date: '2004-03-07'
+  rule: 30 dias após a publicação no Diário da República do edital de aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

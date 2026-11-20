@@ -23,6 +23,16 @@ publication:
   pages: 68 - 73
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/061041000/0006800073.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao término do prazo de 30 dias úteis a que se refere o artigo 118.º do CPA, se nenhuma sugestão for
+    apresentada em sede de apreciação publica que leve a uma nova e fundamentada reformu
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 16834 - 16834
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/105000000/1683416834.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a partir do ano letivo 2019/2020 e aplica-se às candidaturas para ingresso nos cursos em funcionamento no ISCET,
+    podendo as provas realizadas por cada candidato(a) ser utilizadas para a candidatura à '
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

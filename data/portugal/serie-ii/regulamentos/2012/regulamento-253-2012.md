@@ -23,6 +23,16 @@ publication:
   pages: 24276 - 24278
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/132000000/2427624278.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pelo Presidente da FMH, a sua apresentação em reunião do Conselho Pedagógico e
+    a sua publicação, posterior, na página da FMH
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

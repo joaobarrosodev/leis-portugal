@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/232000000/0022300223.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:918950993:por#texto'
+    detail: É revogada a [Deliberação n.º 1192/2023], de 30 de novembro de 2023, publicada no Diário da República, 2.ª série,
+      n.º 232/2023, de 2023-11-30.
 notes: []
 language: por
 version:

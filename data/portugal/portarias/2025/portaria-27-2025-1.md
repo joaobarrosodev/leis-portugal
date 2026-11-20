@@ -43,11 +43,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-08-01'
+  consolidation_date: '2026-09-09'
 version_history:
   file: portaria-27-2025-1.versoes.json
-  count: 2
-  source_lastmod: '2026-08-04'
+  count: 3
+  source_lastmod: '2026-11-10'
   versions:
   - date: '2025-02-04'
     amending: null
@@ -59,6 +59,12 @@ version_history:
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 11.º
+  - date: '2026-09-09'
+    amending: pt:dre:1167945131:por
+    amending_title: Portaria n.º 426/2026/1
+    changes:
+    - Altera Artigo 19.º
+    - Altera Anexo IV
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/27/2025/p/cons/20260731/pt/html
@@ -73,19 +79,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/27/2025/p/cons/20260731/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-909981303
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-909981303
-  retrieved_at: '2026-10-22T13:48:00Z'
+  retrieved_at: '2026-11-20T13:50:53Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-08-04T00:00:00Z'
+  source_modified_at: '2026-11-10T00:00:00Z'
 integrity:
-  source_sha256: cba91cd9d4171473cb016634157dbfe5a7db942587a6f3e47332dada9b09b07d
+  source_sha256: 3adbceb1e9720b861311d7641148c848adaee1f08041a64664bbc01f3b31672e
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:48:00Z'
-  notes: 2 versão(ões); histórico completo em portaria-27-2025-1.versoes.json.
+  generated_at: '2026-11-20T13:50:53Z'
+  notes: 3 versão(ões); histórico completo em portaria-27-2025-1.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,6 +117,11 @@ relationships:
   label: Altera Artigo 6.º; Altera Artigo 11.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652
   date: '2026-07-31'
+- type: amended_by
+  target: pt:dre:1167945131:por
+  label: Altera Artigo 19.º; Altera Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131
+  date: '2026-09-08'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -236,7 +247,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:48:00Z'
+  checked_at: '2026-11-20T13:50:53Z'
   warnings: []
   errors: []
 ---
@@ -589,6 +600,16 @@ b) Manter o reconhecimento como entidade prestadora de serviços de aconselhamen
 
 4 - Os beneficiários dos apoios previstos na secção ii devem, ainda, apresentar o relatório final de execução até 90 dias seguidos após a conclusão do plano de ação, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente, estando o referido relatório sujeito a aprovação por esta entidade.
 
+5 - Para além do disposto nos números anteriores, os beneficiários devem manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados.
+
+6 - Em caso excecionais e devidamente justificados, o presidente da Comissão Diretiva da Autoridade de Gestão do PEPAC no continente pode autorizar a prorrogação do prazo previsto no n.º 4 do presente artigo.
+
+7 - Sem prejuízo do disposto no número anterior, o incumprimento da obrigação prevista no n.º 4 do presente artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+8 - Sem prejuízo do disposto no n.º 6 do artigo 22.º da presente portaria, o incumprimento do n.º 5 do mesmo artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2025-02-05.
+
 ###### Artigo 20.º — Execução das operações
 
 1 - As operações devem ser executadas de acordo com o calendário previsto no plano de ação aprovado.
@@ -749,22 +770,23 @@ Tipologia por área temática
 
 | Artigo 19.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |
 | --- | --- | --- | --- |
-| N.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |
-| N.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |
-| N.º 1 c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |
-| N.º 1 d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| N.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |
-| N.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |
-| N.º 1 g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| N.º 1 h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| N.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução dos pagamentos do apoio, numa percentagem de 20 % no ano em que se verifica o incumprimento. |
+| N.º 1, a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
+| N.º 1, b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
+| N.º 1, c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |
+| N.º 1, d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
+| N.º 1, e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
+| N.º 1, f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
+| N.º 1, g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
+| N.º 1, h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
+| N.º 1, i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução dos pagamentos do apoio, numa percentagem de 20 % no ano em que se verifica o incumprimento. |
 | 2 ou mais | Redução dos pagamentos do apoio, numa percentagem de 40 % no ano em que se verifica o incumprimento. |  |  |
-| N.º 2 b) | Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação. | 1 ou mais | Redução dos pagamentos dos apoios, já realizados ou a realizar, numa percentagem de 100 %. |
+| N.º 2, b) | Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação. | 1 ou mais | Redução dos pagamentos dos apoios, já realizados ou a realizar, numa percentagem de 100 %. |
 | N.º 3 | Concluir a prestação de cada serviço de aconselhamento agrícola ou florestal no prazo de seis meses após a celebração do respetivo contrato de aconselhamento. | 1 ou mais | Redução dos pagamentos dos apoios, já realizados ou a realizar, numa percentagem de 5 %. |
 | N.º 4 | Apresentar o relatório final de execução, até 90 dias seguidos após a conclusão do plano de ação, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |
+| N.º 5 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados | Não aplicável | Devolução integral do apoio - c |
 
-118633438
+> Alterado pelo/a Anexo VIII do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2025-02-05.

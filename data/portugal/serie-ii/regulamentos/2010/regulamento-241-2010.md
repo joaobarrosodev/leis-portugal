@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11900 - 11923
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/050000000/1190011923.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-17'
+entry_into_force:
+  date: '2010-03-17'
+  rule: cinco dias após a sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

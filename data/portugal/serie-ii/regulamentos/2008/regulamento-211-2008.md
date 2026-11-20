@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 18424 - 18426
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/079000000/1842418426.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-07'
+entry_into_force:
+  date: '2008-05-07'
+  rule: 15 dias após a sua publicação no Diário da República e caducará, automaticamente, após a entrada em vigor do Plano
+    de Salvaguarda e Valorização do Núcleo Antigo de Sines
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

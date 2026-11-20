@@ -24,6 +24,15 @@ publication:
   pages: 82 - 88
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/040000000/0008200088.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data prevista no n.º 1 do artigo 39.º do Decreto-Lei n.º 82/2022, de 6 de dezembro
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

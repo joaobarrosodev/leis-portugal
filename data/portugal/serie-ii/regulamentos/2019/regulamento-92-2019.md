@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2918 - 2922
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/014000000/0291802922.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-22'
+entry_into_force:
+  date: '2019-01-22'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

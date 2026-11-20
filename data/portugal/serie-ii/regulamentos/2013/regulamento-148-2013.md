@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13809 - 13810
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/083000000/1380913810.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-01'
+entry_into_force:
+  date: '2013-05-01'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

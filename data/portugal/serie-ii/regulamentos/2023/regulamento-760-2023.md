@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 316 - 327
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/132000000/0031600327.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-07-11'
+entry_into_force:
+  date: '2023-07-11'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e
+  method: clausula
+  article: art-32
+  effects_date: '2023-09-01'
+  effects_rule: a partir do dia 1 de setembro de 2023, revogando a redação anterior
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

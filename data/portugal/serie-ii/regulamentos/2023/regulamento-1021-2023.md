@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 200 - 217
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/180000000/0020000217.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-16'
+entry_into_force:
+  date: '2023-09-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:926999660:por#art-37'
+    detail: É revogado o [Regulamento n.º 1021/2023].
 notes: []
 language: por
 version:

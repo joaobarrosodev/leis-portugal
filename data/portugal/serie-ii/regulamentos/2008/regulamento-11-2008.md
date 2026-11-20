@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1143 - 1145
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/007000000/0114301145.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-02-01'
+entry_into_force:
+  date: '2008-02-01'
+  rule: no primeiro dia do mês seguinte à data da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

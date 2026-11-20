@@ -24,6 +24,15 @@ publication:
   pages: 19642-(277) a 19642-(281)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/130000002/0027700281.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

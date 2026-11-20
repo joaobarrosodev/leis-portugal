@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 386 - 398
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/030000000/0038600398.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-17'
+entry_into_force:
+  date: '2025-02-17'
+  rule: no 5.º dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

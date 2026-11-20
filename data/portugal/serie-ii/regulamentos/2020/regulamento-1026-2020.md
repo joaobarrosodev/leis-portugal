@@ -24,6 +24,15 @@ publication:
   pages: 126 - 136
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/225000000/0012600136.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: para as candidaturas para o ano de 2021 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-12-05'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-41-2023.versoes.json
-  count: 7
-  source_lastmod: '2024-06-25'
+  count: 8
+  source_lastmod: '2026-11-02'
   versions:
   - date: '2023-06-02'
     amending: null
@@ -85,6 +85,12 @@ version_history:
     amending_title: Decreto-Lei n.º 126/2025
     changes:
     - Altera Artigo 46.º
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/41/2023/p/cons/20251204/pt/html
@@ -99,19 +105,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2023/p/cons/20251204/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-213868763
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-213868763
-  retrieved_at: '2026-10-22T12:57:11Z'
+  retrieved_at: '2026-11-20T13:49:43Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-02T00:00:00Z'
 integrity:
-  source_sha256: c64eeb280aec53a04f2787ed3b967aecd42143fd792cbae6866212270907b670
+  source_sha256: 96f12f6a7092ef3bd0c9a4b28e883002eabefda295264c452900b5e353c05e0b
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:57:11Z'
-  notes: 7 versão(ões); histórico completo em decreto-lei-41-2023.versoes.json.
+  generated_at: '2026-11-20T13:49:43Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-41-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,6 +209,11 @@ relationships:
   label: Altera Artigo 46.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402
   date: '2025-12-04'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 5.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: celex:32001L0055
   label: null
@@ -304,7 +315,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:57:11Z'
+  checked_at: '2026-11-20T13:49:43Z'
   warnings: []
   errors: []
 ---
@@ -4707,11 +4718,13 @@ i) Exercer as demais competências que lhe sejam cometidas por regulamento.
 
 3 - O conselho diretivo pode delegar as suas competências nos seus membros ou noutros dirigentes da AIMA, I. P.
 
-4 - Aos membros do conselho diretivo é aplicável, para efeitos remuneratórios, o Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, e o disposto na Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, com as especificidades constantes do presente decreto-lei.
+4 - Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos de empresa de grupo B, nos termos do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março.
 
 5 - Os membros do conselho diretivo são nomeados por resolução do Conselho de Ministros, por proposta do membro do Governo responsável pela área das migrações, acompanhada de avaliação, não vinculativa, de currículo e de adequação de competências ao cargo de gestor público da personalidade a que respeita a proposta de designação, realizada pela Comissão de Recrutamento e Seleção para a Administração Pública, observando, quanto ao resto, o disposto nos artigos 12.º e 13.º do Estatuto do Gestor Público.
 
 6 - O membro do Governo responsável pela área das migrações elabora a carta de missão que define os objetivos, devidamente quantificados e calendarizados, a atingir anualmente e até ao final do mandato pelos membros do conselho diretivo, sem prejuízo da sua revisão sempre que tal se justifique, por alterações de contexto geral ou por circunstâncias específicas que o determinem.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 ###### Artigo 6.º — Fiscal único
 
@@ -4867,7 +4880,33 @@ n) Elaborar indicadores de execução quantitativos e qualitativos que permitam,
 
 ###### Artigo 8.º — Organização interna e instrumentos de gestão de pessoal
 
-A organização interna da AIMA, I. P., é a prevista nos respetivos estatutos.
+1 - A organização interna da AIMA, I. P., é a prevista nos respetivos estatutos.
+
+2 - São cargos de direção intermédia da AIMA, I. P.:
+
+a) Os diretores de departamento, cargos de direção intermédia de 1.º grau;
+
+b) Os diretores de serviço, cargos de direção intermédia de 2.º grau;
+
+c) Os coordenadores de unidade, cargos de direção intermédia de 3.º grau.
+
+3 - Aos coordenadores de unidade compete a gestão geral da respetiva unidade orgânica, das suas atividades e dos recursos que lhe estão afetos, de acordo com os objetivos superiormente definidos, bem como exercer as competências que lhe sejam delegadas ou subdelegadas.
+
+4 - O recrutamento para coordenador de unidade é efetuado de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado que reúnam a competência técnica, a aptidão, a experiência profissional e a formação adequadas ao exercício das respetivas funções e possuam conhecimentos e experiência nos domínios das atribuições do núcleo para que são recrutados.
+
+5 - A remuneração base do cargo de direção intermédia é determinada em percentagem da remuneração base de vogal do conselho diretivo, nas seguintes proporções:
+
+a) Diretores de departamento - 80 %;
+
+b) Diretores de serviço - 70 %;
+
+c) Coordenadores de unidade - 65 %.
+
+6 - As despesas de representação dos cargos de direção intermédia de 1.º e 2.º graus são determinadas em percentagem das despesas de representação de vogal do conselho diretivo, nos termos das alíneas a) e b) do número anterior.
+
+7 - Aos coordenadores das equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor, diretor de serviço ou coordenador, em função da natureza e complexidade das funções a desempenhar.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 ###### Artigo 9.º — Oficial de ligação de imigração
 

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 387 - 395
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/213000000/0038700395.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-05'
+entry_into_force:
+  date: '2024-11-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República, operando os seus efeitos retroativamente, ao dia 01 de
+    janeiro de 2024
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

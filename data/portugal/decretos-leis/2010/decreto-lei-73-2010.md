@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-01-01'
+  consolidation_date: '2026-11-06'
 version_history:
   file: decreto-lei-73-2010.versoes.json
-  count: 25
-  source_lastmod: '2024-06-25'
+  count: 26
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2010-06-21'
     amending: null
@@ -480,6 +480,13 @@ version_history:
     - Altera Artigo 85.º
     - Altera Artigo 85.º-A
     - Altera Artigo 90.º
+  - date: '2026-11-06'
+    amending: pt:dre:1191346238:por
+    amending_title: Lei n.º 65/2026
+    changes:
+    - Altera Artigo 90.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/73/2010/p/cons/20260415/pt/html
@@ -494,19 +501,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2010/p/cons/20260415/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34478675
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34478675
-  retrieved_at: '2026-10-22T11:44:35Z'
+  retrieved_at: '2026-11-20T13:50:35Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
-  source_sha256: deabc4955b7be19e1e3be66e8f2af277f875c575e925572650d230606199a958
+  source_sha256: 46218f9ed91a1a722a112b96ab4e4852b4ab3a1d74a9ed9c4bf45f578bf1935e
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:44:35Z'
-  notes: 25 versão(ões); histórico completo em decreto-lei-73-2010.versoes.json.
+  generated_at: '2026-11-20T13:50:35Z'
+  notes: 26 versão(ões); histórico completo em decreto-lei-73-2010.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -739,6 +746,11 @@ relationships:
     45.º; Altera Artigo 49.º; Altera Artigo 60.º
   source: https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096
   date: '2025-12-30'
+- type: amended_by
+  target: pt:dre:1191346238:por
+  label: Altera Artigo 90.º; Altera Artigo 98.º; Altera Artigo 99.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238
+  date: '2026-11-05'
 - type: cites
   target: celex:31987R2658
   label: null
@@ -848,7 +860,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:44:35Z'
+  checked_at: '2026-11-20T13:50:35Z'
   warnings: []
   errors: []
 ---
@@ -3177,6 +3189,10 @@ d) Produtos obtidos a partir da biomassa, incluindo os produtos abrangidos pelos
 
 12 - São excluídos da isenção prevista no número anterior, os biocombustíveis avançados que utilizem efluentes da produção do óleo de palma e cachos de frutos de palma vazios.
 
+13 - As isenções previstas no n.º 11 são aplicáveis aos biocombustíveis avançados certificados com TdB e aos gases de origem renovável certificados com GO emitidos pelas autoridades competentes e que tenham sido cancelados por estas.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
 
 > Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
@@ -3543,7 +3559,9 @@ a) Apresentar memória descritiva das instalações com a respectiva planta e ca
 
 b) Submeter os depósitos e os instrumentos de medição ao controlo metrológico da entidade competente e possuir certificado de calibração dentro do prazo de validade;
 
-c) Apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou, em caso de início de atividade, de ter sido demonstrada a existência de condições para o seu cumprimento.
+c) Apresentar documento comprovativo da certificação enquanto interveniente do Sistema Petrolífero Nacional, emitido pela entidade competente;
+
+d) Apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou, em caso de início de atividade, de ter sido demonstrada a existência de condições para o seu cumprimento.
 
 2 - As autorizações para a constituição de entrepostos fiscais só podem ser concedidas a pessoas singulares ou colectivas que satisfaçam cumulativamente os seguintes requisitos económicos mínimos:
 
@@ -3559,13 +3577,25 @@ c) Volume de vendas anual: (euro) 5 000 000.
 
 5 - Os titulares de entrepostos fiscais de armazenagem de produtos destinados a ser utilizados em fins isentos dentro do território nacional estão dispensados dos requisitos previstos no n.º 2.
 
+6 - A revogação da certificação enquanto interveniente do Sistema Petrolífero Nacional constitui fundamento para a revogação das autorizações de constituição de entreposto fiscal de que o depositário autorizado seja titular, aplicando-se, com as necessárias adaptações, o disposto no artigo 33.º
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
+
 > Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
 
 > Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
 
-###### Artigo 99.º — Obrigações do destinatário registado e do destinatário registado temporário
+###### Artigo 99.º — Obrigações do destinatário registado, do destinatário registado temporário e do destinatário certificado
 
-Para além dos requisitos previstos nos artigos 29.º e 30.º, os interessados devem ainda apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou de ter sido demonstrada a existência de condições para o seu cumprimento, em caso de início de atividade.
+1 - Para além dos requisitos previstos nos artigos 29.º, 30.º e 60.º-A, os interessados devem, ainda, apresentar:
+
+a) Documento comprovativo da certificação enquanto interveniente do Sistema Petrolífero Nacional, emitido pela entidade competente;
+
+b) Documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou de ter sido demonstrada a existência de condições para o seu cumprimento, em caso de início de atividade.
+
+2 - A revogação da certificação enquanto interveniente do Sistema Petrolífero Nacional constitui fundamento para a revogação do estatuto de destinatário registado, destinatário registado temporário ou destinatário certificado, aplicando-se com as necessárias adaptações o disposto no artigo 33.º
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
 
 > Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
 

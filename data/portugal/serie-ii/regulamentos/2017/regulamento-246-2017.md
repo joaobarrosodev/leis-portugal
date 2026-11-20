@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8899 - 8901
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/090000000/0889908901.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-11'
+entry_into_force:
+  date: '2017-05-11'
+  rule: no dia a seguir à publicação, sendo válido para o ano letivo 2017/2018 e seguintes
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

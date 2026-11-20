@@ -23,6 +23,16 @@ publication:
   pages: 10627 - 10629
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/066000000/1062710629.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação em Conselho Técnico-Científico, com publicitação na página da internet da ESSV, sem prejuízo
+    da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

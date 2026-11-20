@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 557 - 561
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/080000000/0055700561.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-24'
+entry_into_force:
+  date: '2025-04-24'
+  rule: após a sua publicação no Diário da República, depois de aprovado pelos Órgãos da Freguesia
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

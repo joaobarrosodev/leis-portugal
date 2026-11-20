@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 304 - 310
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/225000000/0030400310.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-19'
+entry_into_force:
+  date: '2020-11-19'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

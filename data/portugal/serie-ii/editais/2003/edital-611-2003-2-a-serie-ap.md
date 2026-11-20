@@ -23,6 +23,15 @@ publication:
   pages: 58 - 67
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/181119000/0005800067.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a respectiva publicitação
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

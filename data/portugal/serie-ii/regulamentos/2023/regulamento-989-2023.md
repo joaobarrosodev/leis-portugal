@@ -23,6 +23,15 @@ publication:
   pages: 734 - 743
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/169000000/0073400743.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a seguir à publicação no Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 30411 - 30417
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/234000000/3041130417.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-12-03'
+entry_into_force:
+  date: '2014-12-03'
+  rule: após a sua publicação no Diário da República, nos termos do n.º 1 do artigo 45.º-A do Decreto-Lei n.º 74/2006, na
+    redação do Decreto-Lei n.º 115/2013
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:117753708:por#art-26'
+    detail: O presente regulamento revoga o [Regulamento n.º 537/2014], publicado no Diário da República, 2.ª série, N.º 234
+      de 3 de dezembro de 2014.
 notes: []
 language: por
 version:

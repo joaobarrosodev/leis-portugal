@@ -23,6 +23,16 @@ publication:
   pages: 541 - 547
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/022000000/0054100547.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação pela Assembleia de Freguesia da União de Freguesias da Póvoa de Santa Iria e Forte da Casa
+    realizada a 27 de dezembro de 2023, após aprovação em Reunião de Junta de Freguesia
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

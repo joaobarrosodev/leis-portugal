@@ -23,6 +23,16 @@ publication:
   pages: 532 - 541
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/068000000/0053200541.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil subsequente à sua publicação na 2.ª série do Diário da República, e será disponibilizado no sítio
+    do IPLUSO na Internet
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

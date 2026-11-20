@@ -23,6 +23,15 @@ publication:
   pages: 6 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/137078000/0000600011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 30 após a sua publicação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 634-(3) a 634-(7)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/162000001/0000300007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-21'
+entry_into_force:
+  date: '2021-08-21'
+  rule: no dia seguinte ao da publicação da sua versão definitiva
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

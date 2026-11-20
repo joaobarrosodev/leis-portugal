@@ -23,6 +23,15 @@ publication:
   pages: 232 - 275
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/133000000/0023200275.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente posterior ao da sua publicação, cumprida a demais tramitação estatutária e regulamentar da Ordem
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

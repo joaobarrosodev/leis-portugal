@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 83 - 84
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/124080000/0008300084.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-29'
+entry_into_force:
+  date: '2000-05-29'
+  rule: à data da sua publicação edital, sendo imediatamente aplicável aos arrendamentos celebrados após aquela data e, mediante
+    notificação aos respectivos arrendatários, aos arrendamentos já existentes
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

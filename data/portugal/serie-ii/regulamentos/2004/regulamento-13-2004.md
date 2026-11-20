@@ -23,6 +23,16 @@ publication:
   pages: 4172 - 4175
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/065000000/0417204175.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela assembleia de representantes e 30 dias após a divulgação pelos membros da Ordem e aplica-se
+    a todos os membros estagiários
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

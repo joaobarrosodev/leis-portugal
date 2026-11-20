@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 56 - 57
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/103054000/0005600057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-04'
+entry_into_force:
+  date: '2004-05-04'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

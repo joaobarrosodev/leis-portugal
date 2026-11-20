@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 57964 - 57967
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/230000000/5796457967.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-11-26'
+entry_into_force:
+  date: '2010-11-26'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

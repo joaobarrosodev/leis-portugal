@@ -23,6 +23,15 @@ publication:
   pages: 52 - 53
   pdf_url: https://files.diariodarepublica.pt/2s/2001/10/241118000/0005200053.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil imediato à sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

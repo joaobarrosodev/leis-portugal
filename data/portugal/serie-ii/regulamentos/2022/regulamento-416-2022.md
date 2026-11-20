@@ -23,6 +23,16 @@ publication:
   pages: 295 - 298
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/085000000/0029500298.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Junta de Freguesia e pela Assembleia de Freguesia, sendo publicitado no Diário da República e
+    na página eletrónica oficial da UFARS
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

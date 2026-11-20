@@ -23,6 +23,15 @@ publication:
   pages: 14271 - 14272
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/064000000/1427114272.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua publicitação
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

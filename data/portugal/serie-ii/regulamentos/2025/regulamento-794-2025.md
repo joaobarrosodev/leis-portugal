@@ -23,6 +23,16 @@ publication:
   pages: 282 - 291
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/126000000/0028200291.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, e após a devida aprovação pelo Reitor, nos termos do n.º 2 do
+    artigo 44.º dos Estatutos
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

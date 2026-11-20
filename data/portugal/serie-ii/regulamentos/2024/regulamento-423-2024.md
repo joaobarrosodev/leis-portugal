@@ -23,6 +23,16 @@ publication:
   pages: 779 - 786
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/072000000/0077900786.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Junta Freguesia e Assembleia de Freguesia de Santana do Mato, nos termos do artigo 9.º, n.º
+    1, alíneas f) e l) da Lei n.º 75/2013, de 12 de setembro e no dia seguinte ao da sua
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

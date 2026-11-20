@@ -24,6 +24,16 @@ publication:
   pages: 17486 - 17488
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/075000000/1748617488.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião do Conselho Cientifico e em reunião do Senado da UNL, e da sua publicação no Diário
+    da República, data a partir da qual é automaticamente revogado o anterior regulament
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

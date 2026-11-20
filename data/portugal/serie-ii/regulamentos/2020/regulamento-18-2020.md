@@ -24,6 +24,15 @@ publication:
   pages: 360 - 370
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/006000000/0036000370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 (um) de abril de 2019 (dois mil e dezanove) para o setor rodoviário
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

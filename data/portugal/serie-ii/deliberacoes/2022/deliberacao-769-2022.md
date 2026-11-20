@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 236 - 240
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/129000000/0023600240.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-07'
+entry_into_force:
+  date: '2022-07-07'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-14
+  effects_date: '2022-03-30'
+  effects_rule: a 30 de março de 2022, ficando ratificados todos os atos praticados no âmbito da presente deliberação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

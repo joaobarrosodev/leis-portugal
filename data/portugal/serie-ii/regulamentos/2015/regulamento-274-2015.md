@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 13567 - 13573
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/102000000/1356713573.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-28'
+entry_into_force:
+  date: '2015-05-28'
+  rule: no dia seguinte ao da sua publicação no sistema de informação da U.Porto, sem prejuízo de posterior publicação no
+    Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

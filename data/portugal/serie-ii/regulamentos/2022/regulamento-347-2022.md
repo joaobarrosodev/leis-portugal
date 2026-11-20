@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 395 - 402
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/069000000/0039500402.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-08'
+entry_into_force:
+  date: '2022-04-08'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1121025782:por#art-92'
+    detail: É revogado o [Regulamento n.º 347/2022], publicado na 2.ª série do Diário da República, de 7 de abril de 2022.
 notes: []
 language: por
 version:

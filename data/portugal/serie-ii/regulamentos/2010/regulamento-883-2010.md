@@ -23,6 +23,16 @@ publication:
   pages: 60939 - 60943
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/241000000/6093960943.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República, devendo ser afixado, a todo o tempo, na Escola
+    Básica e Secundária da Graciosa, nas Juntas de Freguesia do Concelho e publicado no si
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

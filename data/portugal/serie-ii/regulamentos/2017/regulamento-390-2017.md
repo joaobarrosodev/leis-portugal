@@ -23,6 +23,15 @@ publication:
   pages: 15430 - 15431
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/142000000/1543015431.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação no Diário da República
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

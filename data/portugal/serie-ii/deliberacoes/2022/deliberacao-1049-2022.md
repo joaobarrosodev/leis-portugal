@@ -23,6 +23,15 @@ publication:
   pages: 369 - 369
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/188000000/0036900369.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 12 de setembro de 2022
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

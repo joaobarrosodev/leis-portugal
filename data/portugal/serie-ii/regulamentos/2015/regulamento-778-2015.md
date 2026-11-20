@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 32481 - 32485
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/220000000/3248132485.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-11-25'
+entry_into_force:
+  date: '2015-11-25'
+  rule: 15 dias após a sua publicação em edital a afixar no Edifício da Sede da Junta de Freguesia
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

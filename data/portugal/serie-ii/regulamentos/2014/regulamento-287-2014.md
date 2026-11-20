@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 17401 - 17408
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/127000000/1740117408.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-05'
+entry_into_force:
+  date: '2014-07-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se aos procedimentos concursais iniciados após
+    esta data
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

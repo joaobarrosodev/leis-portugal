@@ -23,6 +23,15 @@ publication:
   pages: 28281 - 28306
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/099000000/2828128306.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação
+  method: clausula
+  article: art-119
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

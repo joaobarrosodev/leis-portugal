@@ -23,8 +23,24 @@ publication:
   pages: 27642 - 27645
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/169000000/2764227645.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2013/2014
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:70006623:por#art-28'
+    detail: 1 - Pelo presente regulamento é revogado o [Regulamento n.º 341/2013], publicado no Diário da República, 2.ª série,
+      de 3 de setembro, n.º 169.
 notes: []
 language: por
 version:

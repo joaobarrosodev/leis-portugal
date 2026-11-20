@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1809 - 1818
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/011000000/0180901818.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-23'
+entry_into_force:
+  date: '2016-01-23'
+  rule: 5 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8790 - 8835
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/040000000/0879008835.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-146
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

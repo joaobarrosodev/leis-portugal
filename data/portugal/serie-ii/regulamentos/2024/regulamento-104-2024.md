@@ -23,6 +23,16 @@ publication:
   pages: 560 - 584
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/018000000/0056000584.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediato ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-39
+  effects_date: '2024-08-01'
+  effects_rule: a partir de 01 de agosto de 2024, revogando nessa dada o "Regulamento do Programa de Apoio ao Desporto no
+    Concelho de Estremoz", publicado no Diário da República, 2.ª série - N.º 120, de 24 de junho d
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

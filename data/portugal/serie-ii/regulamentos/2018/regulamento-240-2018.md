@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 11923 - 11926
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/080000000/1192311926.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-25'
+entry_into_force:
+  date: '2018-04-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se ao concurso especial de acesso e ingresso
+    para estudantes internacionais para o ano letivo de 2018/2019 e revoga o anterior, r
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:202345424:por#texto'
+    detail: É revogado o [Regulamento n.º 240/2018], de 24 de abril.
 notes: []
 language: por
 version:

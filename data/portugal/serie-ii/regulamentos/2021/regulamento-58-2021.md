@@ -23,6 +23,15 @@ publication:
   pages: 587 - 600
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/010000000/0058700600.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aplicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

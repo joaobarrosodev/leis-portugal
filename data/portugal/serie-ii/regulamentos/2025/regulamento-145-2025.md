@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 598 - 646
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/016000000/0059800646.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-28'
+entry_into_force:
+  date: '2025-01-28'
+  rule: cinco dias após a sua publicação no Diário da República, devendo ser também publicado na mesma data no site oficial
+    do Município do Porto Santo
+  method: clausula
+  article: art-106
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

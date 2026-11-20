@@ -23,8 +23,24 @@ publication:
   pages: 171 - 180
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/007000000/0017100180.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: '2023-01-01'
+  effects_rule: a partir de 01 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1132759796:por#art-17'
+    detail: 1 - É revogado o [Regulamento n.º 19/2023], aprovado em 22 de dezembro de 2022 e publicado em DRE, 2.ª, E, de
+      10 de janeiro, bem como os anexos dele constantes.
 notes: []
 language: por
 version:

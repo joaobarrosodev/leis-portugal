@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 482 - 505
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/013000000/0048200505.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-01'
+entry_into_force:
+  date: '2023-12-01'
+  rule: no dia 1 de dezembro de 2023, considerando-se ratificados todos os atos praticados no seu âmbito, desde aquela data
+    até à data da respetiva publicação no Diário da República
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

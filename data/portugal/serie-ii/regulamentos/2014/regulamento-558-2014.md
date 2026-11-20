@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/245000000/3204332049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:115504842:por#art-14'
+    detail: O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República, revogando o
+      [Regulamento n.º 558/2014], de 19 de dezembro (Regulamento de Certificação de Competências do Supervisor Clínico).
 notes: []
 language: por
 version:

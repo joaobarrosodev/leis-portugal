@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 239 - 246
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/191000000/0023900246.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-01'
+entry_into_force:
+  date: '2020-10-01'
+  rule: no dia seguinte à sua publicação no Diário da República, e é publicado no sítio web do ITQB NOVA
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

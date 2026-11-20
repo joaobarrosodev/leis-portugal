@@ -23,9 +23,30 @@ publication:
   supplement: null
   pages: 9213 - 9217
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/062000000/0921309217.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-29'
+entry_into_force:
+  date: '2018-03-29'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:123358069:por#art-27'
+    detail: 1 - É revogado o [Regulamento n.º 194/2018] (Regulamento para Creditação de Formação Académica, Pós-secundária
+      e Experiência Profissional), publicado no Diário da República, 2.ª série, n.º 62 de 28 de março de 2018.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:128523690:por#art-27'
+    detail: 1 - É revogado o [Regulamento n.º 194/2018] (Regulamento para Creditação de Formação Académica, Pós-secundária
+      e Experiência Profissional), publicado no Diário da República, 2.ª série, n.º 62 de 28 de março de 2018.
 notes: []
 language: por
 version:

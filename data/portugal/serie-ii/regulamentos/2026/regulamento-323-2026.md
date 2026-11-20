@@ -23,6 +23,16 @@ publication:
   pages: 796 - 806
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/062000000/0079600806.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, devendo ser, igualmente, publicitado no Boletim
+    Municipal e nas páginas da Internet e intranet da Câmara Municipal de Aguiar da Beira
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

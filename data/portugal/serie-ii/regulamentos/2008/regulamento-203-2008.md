@@ -24,6 +24,15 @@ publication:
   pages: 17560 - 17560
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/075000000/1756017560.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação nos termos legais e já para o corrente ano lectivo de 2007-2008
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8283 - 8286
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/056000000/0828308286.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-04'
+entry_into_force:
+  date: '2018-04-04'
+  rule: 15 dias após a sua publicação em edital, a afixar no edifício da sede da Freguesia
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 25205 - 25216
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/137000000/2520525216.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente a seguir à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-90
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

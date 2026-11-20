@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/131000000/0032200330.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1134835504:por#art-15'
+    detail: O presente Regulamento entra em vigor no dia seguinte à sua publicação no Diário da República e revoga o [Regulamento
+      n.º 615/2022], das Residências de Estudantes dos Serviços de Ação Social do Instituto Politécnico de Lisboa, publicado
+      no Diário da República, 2.ª série, n.º 131, de 8 de julho de 20
 notes: []
 language: por
 version:

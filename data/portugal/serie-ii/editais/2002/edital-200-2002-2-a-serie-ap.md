@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26 - 30
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/113058000/0002600030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-31'
+entry_into_force:
+  date: '2002-05-31'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 9011 - 9015
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/051000000/0901109015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-24'
+entry_into_force:
+  date: '2016-03-24'
+  rule: 10 dias após a data da sua publicação, através de edital, nos lugares de estilo, nos termos, e para os efeitos, do
+    disposto no artigo 56.º, do Anexo I da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

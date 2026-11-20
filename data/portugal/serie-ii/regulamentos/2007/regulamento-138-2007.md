@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 18418 - 18420
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/123000000/1841818420.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-28'
+entry_into_force:
+  date: '2007-06-28'
+  rule: na data da publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

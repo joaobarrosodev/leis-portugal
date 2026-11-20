@@ -24,6 +24,15 @@ publication:
   pages: 290 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/088000000/0029000294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da publicação no Diário da República
+  method: clausula
+  article: art-13-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

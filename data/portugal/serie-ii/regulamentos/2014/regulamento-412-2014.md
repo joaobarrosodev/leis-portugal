@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 24014 - 24017
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/179000000/2401424017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-18'
+entry_into_force:
+  date: '2014-09-18'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:865595001:por#art-16'
+    detail: O presente regulamento revoga o [Regulamento n.º 412/2014], de 17 de setembro.
 notes: []
 language: por
 version:

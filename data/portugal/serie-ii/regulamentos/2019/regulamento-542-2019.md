@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19063 - 19064
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/126000000/1906319064.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-19'
+entry_into_force:
+  date: '2019-07-19'
+  rule: no prazo de 15 dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

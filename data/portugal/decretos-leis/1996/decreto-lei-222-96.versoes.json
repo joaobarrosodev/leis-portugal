@@ -1,0 +1,660 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:199846:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1024687766",
+ "dre_path": "/dr/detalhe/decreto-lei/222-1996-199846",
+ "source_lastmod": "2026-11-19",
+ "versions": [
+  {
+   "date": "1999-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138781:por",
+     "title": "Decreto-Lei n.º 107/99",
+     "published": "1999-03-31",
+     "dre_path": "/dr/detalhe/decreto-lei/107-1999-138781"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "1025306175",
+    "1025306375",
+    "1025306575",
+    "1025306775",
+    "1025306975",
+    "1025307175",
+    "1025307375",
+    "1025307575",
+    "1025307775",
+    "1025307975",
+    "1025308175",
+    "1025308375",
+    "1025308575",
+    "1025308775",
+    "1025308975",
+    "1025309175",
+    "1025309375",
+    "1025309575",
+    "1025309775",
+    "1025309975",
+    "1025310175",
+    "1196585075",
+    "1196585275",
+    "1025310775",
+    "1025310975",
+    "1025311175",
+    "1025311375",
+    "1025311575",
+    "1025311775",
+    "1025311975",
+    "1195838575",
+    "1025312375",
+    "1025312575",
+    "1025312775",
+    "1025312975",
+    "1025313175",
+    "1025313375",
+    "1025313575",
+    "1025313775",
+    "1025313975",
+    "1025314175",
+    "1025314375",
+    "1025314575",
+    "1025314775",
+    "1025314975",
+    "1025315175",
+    "1025315375",
+    "1025315575",
+    "1025315775",
+    "1025315975",
+    "1025316175",
+    "1025316375",
+    "1025316575",
+    "1025316775",
+    "1025316975",
+    "1025317175",
+    "1025317375",
+    "1025317575",
+    "1025317775",
+    "1025317975",
+    "1025318175",
+    "1025318375",
+    "1025318575",
+    "1025318775",
+    "1025318975",
+    "1025319175",
+    "1025319375",
+    "1025319575",
+    "1025319775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1025306175": {
+   "fragment_id": "1025306075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 - A Lei Orgânica do XIII Governo Constitucional cria o Ministério da Economia, atribuindo-lhe a concepção e execução de políticas integradas e coerentes de desenvolvimento económico, dirigidas a um vasto conjunto de actividades de produção de bens e serviços, nele integrando o conjunto de serviços dos extintos Ministérios da Indústria e Energia e do Comércio e Turismo.\n\nO Programa do XIII Governo Constitucional estabelece, por outro lado, as linhas mestras da actuação do Ministério da Economia, expressas num conjunto bem definido de objectivos e de orientações para as referidas políticas, designadamente no que respeita à competitividade e à internacionalização.\n\nA Lei Orgânica do novo Ministério da Economia procura, assim, responder à necessidade imperiosa de reestruturação e reorganização dos vários departamentos, serviços e entidades nele inseridos, numa lógica de integração e racionalização, explorando as vantagens e sinergias da coordenação de iniciativas e políticas, isto é, recusando liminarmente a lógica fácil, mas inconsequente, de uma simples soma de dois ministérios anteriormente separados. A orgânica do novo Ministério da Economia corresponde à opção por um modelo de funcionamento, suportado por uma aposta clara na construção de uma parceria estratégica entre as políticas públicas e as iniciativas dos agentes económicos privados, que visa a prossecução sustentada dos seguintes grandes objectivos:\n\na) Dinamização da competitividade e da internacionalização das empresas portuguesas, através da criação de uma envolvente favorável ao investimento, à criação de riqueza e ao desenvolvimento global da organização empresarial, integrando tecnologia, qualidade, recursos humanos e resposta ao mercado;\n\nb) Valorização da produção nacional, apoiando positivamente os ajustamentos exigidos pela crescente pressão concorrencial nos mercados abertos e competitivos e articulando o desenvolvimento integrado das diversas actividades económicas, e destas com outras actividades, nomeadamente científicas e técnicas, culturais e sociais, garantindo uma coexistência equilibrada e profícua dos diferentes segmentos empresariais - micro, pequenas, médias e grandes unidades;\n\nc) Regulação dos mercados em condições de eficiência e concorrência leal, promovendo o desenvolvimento equilibrado do tecido comercial, a complementaridade intersectorial e a cooperação empresarial, como base para a generalização, num quadro de coesão social, a todo o tecido económico dos efeitos dinâmicos do investimento e da inovação;\n\nd) Suporte das actividades e das iniciativas de alcance estratégico na promoção do valor acrescentado e do emprego na economia portuguesa, seja pela sua natureza transversal, seja pela sua particular aptidão para a sustentação do desenvolvimento regional, seja pela sua capacidade de qualificação dos recursos humanos, seja, finalmente, pelo seu papel na globalização dos mercados.\n\n2 - A prossecução destes objectivos articula-se com orientações básicas na condução das políticas, em que cabe destacar:\n\na) A afirmação da empresa como principal destinatário das políticas do Ministério da Economia, no quadro de uma visão integrada da sua organização e de um relacionamento estabilizado e transparente entre o sector público e o sector privado;\n\nb) A afirmação do papel chave dos recursos humanos, da sua formação e qualificação, na realização dos objectivos de desenvolvimento económico do País;\n\nc) A afirmação da importância central de um ajustamento estrutural da economia portuguesa às novas condições de concorrência resultantes da globalização e da integração europeia, a desenvolver privilegiando acções de natureza horizontal, que permitam criar novos factores de competitividade e reforçar as estratégias de qualidade e inovação;\n\nd) A participação e a co-responsabilização do sector privado da economia, nomeadamente das associações representativas de empresários e trabalhadores, na prossecução dos grandes objectivos nacionais de desenvolvimento económico;\n\ne) A afirmação na economia portuguesa das condições para a regulação eficiente de uma economia de mercado dinâmica, onde a igualdade material no desenvolvimento das empresas, designadamente através da defesa das regras de concorrência, o respeito pelos direitos dos consumidores e dos trabalhadores e a preservação do ambiente e do património natural sejam assegurados de forma progressivamente endógena.\n\n3 - O presente diploma procura constituir um instrumento potenciador da desburocratização, qualidade e competitividade dos meios públicos postos ao serviço do desenvolvimento económico, criando processos decisórios que, sem perda de rigor, dêem resposta às modernas exigências do sector produtivo da economia, designadamente em face do desafio europeu, dando curso a uma estratégia de actuação concertada com as entidades representativas do sector privado e com as próprias empresas.\n\nÉ neste contexto que devem ser entendidas as principais inovações da presente Lei Orgânica, nomeadamente no que concerne:\n\na) À nova interacção entre iniciativas de base sectorial e de base horizontal que permitam diversificar e integrar as responsabilidades políticas nas áreas dependentes deste Ministério: indústria e energia, comércio e turismo e para a competitividade e internacionalização;\n\nb) À reorganização dos serviços e organismos centrais do Ministério, designadamente dos Gabinetes de Estudos e Planeamento e de Assuntos Comunitários e da Secretaria-Geral, e à extinção da Auditoria Jurídica, criando-se, em contrapartida, um auditor jurídico, funcionando junto do Ministério da Economia, o que permite a clarificação da sua plena independência, e a transferência dos meios existentes de assessoria jurídica para a Secretaria-Geral do Ministério;\n\nc) À criação de delegações regionais do Ministério da Economia, com competências em todas as áreas sectoriais de intervenção do Ministério, numa lógica de desconcentração e em consonância com a evolução do modelo de regionalização do País;\n\nd) À criação da Direcção-Geral de Relações Económicas Internacionais, que visa dar resposta às necessidades das empresas nacionais, numa perspectiva de crescente inserção no movimento de globalização dos mercados;\n\ne) À criação da Direcção-Geral do Comércio e da Concorrência, integrando funções repartidas pelas anteriores Direcções-Gerais do Comércio e de Concorrência e Preços, numa lógica que não é de fusão, mas de criação de uma nova estrutura que, valorizando a experiência adquirida, permita estruturar numa acção pública moderna, eficiente e proactiva o quadro normativo das políticas sectoriais do comércio e distribuição e da concorrência, de forma global e abrangente, sem redundância de funções. Esta opção visa também conferir ao acompanhamento das actividades de comércio e distribuição a dimensão estratégica que assumem nas economias mais desenvolvidas, sem prejuízo da afirmação das políticas sectoriais específicas;\n\nf) Às imprescindíveis alterações nos serviços, organismos e outras entidades previstas nesta lei, que, mantendo embora a sua natureza e designação, necessitam de reorganização e reposicionamento funcional, a definir em regulamentação própria;\n\ng) À clarificação e separação entre as funções operacionais e conceptuais, de inspecção e fiscalização e de sancionamento, que, embora não visível nas denominações institucionais dos organismos do Ministério, é materializada pela presente Lei Orgânica, apoiando um processo continuado de valorização e enriquecimento da função inspectiva;\n\nh) À articulação das actividades do âmbito do Ministério da Economia, sendo particularmente significativa, neste aspecto, a criação de um Conselho para o Desenvolvimento Económico, bem como de cinco conselhos sectoriais, garantindo de uma forma integrada o concurso das diversas entidades envolvidas na realização de objectivos comuns.\n\nAssim, nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1025306375": {
+   "fragment_id": "1025306275",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "1025306575": {
+   "fragment_id": "1025306475",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Ministério da Economia é o departamento governamental responsável pela concepção, execução e avaliação das políticas específicas definidas pelo Governo para as actividades económicas de produção de bens e serviços, incluindo as indústrias extractiva, transformadora e da construção, as actividades de serviços às empresas, a energia, o comércio e o turismo, bem como das políticas genéricas de promoção e apoio ao investimento e desenvolvimento empresarial, visando a sua competitividade e internacionalização, em estreita coordenação com os outros domínios relevantes da acção do Governo."
+  },
+  "1025306775": {
+   "fragment_id": "1025306675",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNo quadro das orientações definidas pelo Governo para as políticas nacionais e em articulação com as iniciativas e programas da União Europeia para a prossecução de uma estratégia de internacionalização da economia nacional, que visa o desenvolvimento das indústrias extractiva, transformadora e da construção, da energia, do comércio e do turismo e a promoção da competitividade empresarial, cabem ao Ministério da Economia as seguintes atribuições:\n\na) Promover a criação de condições que permitam criar e sustentar uma envolvente económica, social, legislativa e administrativa favorável ao investimento e induzir estratégias empresariais abertas à inovação, à internacionalização e ao desenvolvimento de novos factores competitivos;\n\nb) Promover a melhoria do desempenho da actividade produtiva nacional, apoiando iniciativas nos domínios da qualidade, da investigação e desenvolvimento de base empresarial, da inovação e demonstração tecnológica, da qualificação dos recursos humanos, da racionalização energética, da protecção ambiental, da flexibilidade produtiva e da resposta rápida à procura;\n\nc) Assegurar o desenvolvimento de um regime de concorrência aberto e equilibrado, por forma a garantir o rápido acesso dos consumidores aos benefícios da inovação e uma relação não falseada entre as empresas, designadamente através de uma regulação eficaz dos mercados, onde se insere a operacionalização e reforço dos mecanismos de inspecção, fiscalização e sancionamento;\n\nd) Acompanhar e avaliar os custos e oportunidades resultantes da globalização e da construção europeia para a economia portuguesa, criando condições para uma resposta coordenada, atempada e adequada à concorrência acrescida em mercados competitivos que permita minimizar os primeiros e maximizar as segundas;\n\ne) Elaborar, no quadro da estratégia global de desenvolvimento económico do País, as políticas sectoriais e horizontais relativas à sua área de actuação, apoiando especialmente o investimento, quer pela gestão de sistemas de incentivos de carácter regular, quer pela introdução de programas e mecanismos de apoio às empresas, de carácter temporário, que se revelem necessários;\n\nf) Apoiar a modernização das estruturas empresariais, tendo em conta a sua diversidade e criando, em especial, condições para a consolidação e fortalecimento das pequenas e médias empresas (PME) como segmento fundamental da nossa base económica;\n\ng) Promover a criação das condições necessárias à captação de iniciativas de investimento estrangeiro estruturante, isto é, iniciativas que se articulem com o tecido empresarial e científico e técnico do País e que se enquadrem nas prioridades sectoriais do desenvolvimento económico e que contribuam para a internacionalização das PME;\n\nh) Dinamizar as iniciativas de cooperação no funcionamento regular da economia, seja ao nível empresarial, dentro da empresa, através da flexibilização das suas estruturas, e entre diferentes empresas, com a estabilização das relações entre clientes e fornecedores e a viabilização de projectos de interesse comum entre concorrentes, seja também ao nível do relacionamento entre o sector público e o sector privado;\n\ni) Promover o desenvolvimento de infra-estruturas e da oferta de serviços ligados à tecnologia industrial e à qualidade, em particular nas áreas da normalização, metrologia, acreditação e certificação da utilização racional da energia, da investigação, desenvolvimento e demonstração, da assistência técnica e da protecção da propriedade industrial;\n\nj) Desenvolver uma acção concertada e sustentada que consolide a política de turismo, com a gestão e conservação da base de recursos indispensáveis à sua existência e com as realidades de natureza social, cultural e ambiental necessárias para a qualificação, diversificação e competitividade de oferta turística nacional;\n\nl) Desenvolver as acções de inspecção das actividades económicas, com vista à defesa da qualidade e segurança dos produtos e serviços e disciplinando a concorrência."
+  },
+  "1025306975": {
+   "fragment_id": "1025306875",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura"
+  },
+  "1025307175": {
+   "fragment_id": "1025307075",
+   "type": 8,
+   "heading": "Secção I — Da estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da estrutura geral"
+  },
+  "1025307375": {
+   "fragment_id": "1025307275",
+   "type": 11,
+   "heading": "Artigo 3.º — Organismos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismos e serviços\n\n1 - O Ministério da Economia compreende serviços centrais de coordenação, de apoio e operacionais, serviços de inspecção, órgãos de consulta e serviços regionais.\n\n2 - Sob tutela do Ministro da Economia ou no âmbito do Ministério da Economia funcionam outros organismos.\n\n3 - Junto do Ministério da Economia funciona um auditor jurídico."
+  },
+  "1025307575": {
+   "fragment_id": "1025307475",
+   "type": 11,
+   "heading": "Artigo 4.º — Dos serviços centrais de coordenação, de apoio e operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dos serviços centrais de coordenação, de apoio e operacionais\n\nOs serviços centrais de coordenação, de apoio e operacionais são:\n\na) A Secretaria-Geral;\n\nb) A Direcção-Geral da Indústria;\n\nc) A Direcção-Geral da Energia;\n\nd) A Direcção-Geral do Comércio e da Concorrência;\n\ne) A Direcção-Geral do Turismo;\n\nf) A Direcção-Geral das Relações Económicas Internacionais;\n\ng) O Gabinete de Estudos e Prospectiva Económica."
+  },
+  "1025307775": {
+   "fragment_id": "1025307675",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de inspecção\n\nSão serviços de inspecção:\n\na) A Inspecção-Geral das Actividades Económicas;\n\nb) A Inspecção-Geral de Jogos."
+  },
+  "1025307975": {
+   "fragment_id": "1025307875",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos de consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos de consulta\n\nSão órgãos de consulta:\n\na) O Conselho para o Desenvolvimento Económico;\n\nb) Os Conselhos Sectoriais da Indústria, da Construção, da Energia, do Comércio e do Turismo."
+  },
+  "1025308175": {
+   "fragment_id": "1025308075",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços regionais do Ministério da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços regionais do Ministério da Economia\n\nSão serviços regionais as delegações regionais do Ministério da Economia."
+  },
+  "1025308375": {
+   "fragment_id": "1025308275",
+   "type": 11,
+   "heading": "Artigo 8.º — Organismos sob tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organismos sob tutela\n\nFuncionam sob tutela do Ministro da Economia:\n\na) O Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento;\n\nb) Investimentos, Comércio e Turismo de Portugal (ICEP);\n\nc) O Instituto Nacional de Engenharia e Tecnologia Industrial;\n\nd) O Instituto Nacional da Propriedade Industrial;\n\ne) O Instituto Português da Qualidade;\n\nf) O Fundo de Turismo;\n\ng) O Instituto Nacional de Formação Turística;\n\nh) O Instituto Geológico e Mineiro;\n\ni) O Gabinete para a Pesquisa e Exploração de Petróleo;\n\nj) As regiões de turismo."
+  },
+  "1025308575": {
+   "fragment_id": "1025308475",
+   "type": 11,
+   "heading": "Artigo 9.º — Outras entidades no âmbito do Ministério da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Outras entidades no âmbito do Ministério da Economia\n\nFuncionam ainda no âmbito do Ministério da Economia:\n\na) O Conselho da Concorrência;\n\nb) O Conselho Nacional da Qualidade;\n\nc) A Comissão de Planeamento Industrial de Emergência;\n\nd) A Comissão de Planeamento Energético de Emergência;\n\ne) A Comissão de Aplicação de Coimas em Matéria Económica;\n\nf) A Comissão de Aplicação de Coimas em Matéria de Publicidade;\n\ng) O Conselho das Garantias Financeiras;\n\nh) A Organização para a Emergência Energética."
+  },
+  "1025308775": {
+   "fragment_id": "1025308675",
+   "type": 11,
+   "heading": "Artigo 10.º — Auditor jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Auditor jurídico\n\nJunto do Ministério da Economia existe um magistrado do Ministério Público, a designar nos termos da Lei Orgânica do Ministério Público, com a categoria de auditor jurídico, a quem cabe prestar apoio, quando solicitado, aos membros do Governo nos domínios da consultadoria jurídica, elaboração de legislação, contencioso e instrução de processos disciplinares ou similares."
+  },
+  "1025308975": {
+   "fragment_id": "1025308875",
+   "type": 8,
+   "heading": "Secção II — Dos serviços de coordenação e apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos serviços de coordenação e apoio"
+  },
+  "1025309175": {
+   "fragment_id": "1025309075",
+   "type": 11,
+   "heading": "Artigo 11.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Secretaria-Geral\n\n1 - É criada a Secretaria-Geral do Ministério da Economia.\n\n2 - A Secretaria-Geral é um serviço de coordenação e apoio aos membros do Governo e aos serviços, aos organismos, ao auditor jurídico e a outras entidades do Ministério da Economia nos domínios da programação, planeamento e controlo orçamental dos recursos humanos, dos sistemas de informação, da gestão financeira e patrimonial e da organização e logística.\n\n3 - À Secretaria-Geral compete:\n\na) Contribuir para a definição das orientações a prosseguir no Ministério da Economia no que respeita à gestão dos recursos humanos, financeiros e patrimoniais, no quadro de programas de base anual ou plurianual, coordenando a aplicação das medidas deles decorrentes;\n\nb) Coordenar a elaboração dos projectos de orçamento do Ministério da Economia, incluindo os projectos anuais de investimento, e promover a respectiva execução, em colaboração com os demais serviços e organismos;\n\nc) Assegurar o conhecimento sistemático da situação dos recursos humanos e dos meios financeiros afectos ao Ministério da Economia;\n\nd) Estudar e propor medidas de racionalização do património afecto ao Ministério da Economia;\n\ne) Estudar e promover a aplicação de medidas de aperfeiçoamento organizacional e de modernização e racionalização administrativa;\n\nf) Assegurar a coordenação, compatibilidade e integração dos sistemas de informação e documentação, bem como a gestão eficiente e expansão dos meios informáticos e das redes de comunicação;\n\ng) Organizar e gerir os serviços de relações públicas e zelar pela segurança das respectivas instalações;\n\nh) Assegurar o apoio jurídico, técnico e administrativo aos gabinetes dos membros do Governo, bem como de comissões, grupos de trabalho e estruturas de missão que funcionem no âmbito do Ministério da Economia;\n\ni) Assegurar o apoio técnico e administrativo necessário ao auditor jurídico.\n\n4 - A Secretaria-Geral é dirigida pelo secretário-geral.\n\n5 - O secretário-geral, no exercício das suas funções, é coadjuvado por dois secretários-gerais-adjuntos, equiparados a subdirector-geral."
+  },
+  "1025309375": {
+   "fragment_id": "1025309275",
+   "type": 8,
+   "heading": "Secção III — Dos serviços operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dos serviços operacionais"
+  },
+  "1025309575": {
+   "fragment_id": "1025309475",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção-Geral da Indústria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção-Geral da Indústria\n\nA Direcção-Geral da Indústria é um serviço, dotado de autonomia administrativa, responsável pela concepção, execução e avaliação da política industrial, competindo-lhe:\n\na) Contribuir para a definição e execução da política industrial e acompanhar a execução das medidas dela decorrentes, promovendo a modernização e o desenvolvimento sustentado da competitividade das actividades industriais, numa perspectiva de alargamento das respectivas cadeias de valor;\n\nb) Contribuir para a gestão da articulação política industrial com as outras políticas públicas relevantes e, em particular, com as outras políticas sectoriais desenvolvidas pelos organismos do Ministério da Economia, visando um nível elevado de investimento industrial orientado para uma melhoria sustentada dos seus padrões de eficiência e flexibilidade;\n\nc) Acompanhar as actividades de natureza industrial, mantendo um conhecimento actualizado quer em termos das condições de oferta quer em termos das tendências da procura de produtos e serviços industriais, bem como das suas condições gerais de funcionamento nos planos tecnológico, organizacional, logístico, de processamento e fabrico e de comercialização, por forma a permitir a avaliação dos efeitos das medidas de política industrial;\n\nd) Garantir o desenvolvimento de uma envolvente favorável à inovação e ao desenvolvimento tecnológico das empresas industriais, nomeadamente através de adequadas infra-estruturas, e fornecer apoio técnico às unidades do sector, visando a melhoria das condições de laboração, dos processos de fabrico e da respectiva relação ambiental;\n\ne) Contribuir para a elaboração das propostas legislativas e regulamentares necessárias à prossecução dos objectivos da política industrial e proceder à fiscalização do cumprimento da legislação aplicável nas suas áreas de intervenção, nos termos definidos pela lei;\n\nf) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo a política industrial, em particular no quadro da União Europeia, com vista à sua adequação aos interesses fundamentais da política económica nacional."
+  },
+  "1025309775": {
+   "fragment_id": "1025309675",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção-Geral da Energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção-Geral da Energia\n\nA Direcção-Geral da Energia é um serviço, dotado de autonomia administrativa, responsável pela concepção, execução e avaliação da política para o sector energético, competindo-lhe:\n\na) Contribuir para a definição e execução da política energética, visando a utilização dos recursos energéticos nacionais, a diversificação e a utilização racional das várias formas de energia e promovendo uma maior eficiência dos sistemas, processos e equipamentos ligados à produção, transformação, transporte, distribuição e consumo de energia, bem como a limitação dos efeitos nocivos da energia sobre o ambiente;\n\nb) Contribuir, em colaboração com os diversos ministérios, para a articulação da política energética com as políticas públicas com reflexos no consumo energético e com as políticas sectoriais desenvolvidas por outros organismos do Ministério da Economia;\n\nc) Contribuir para a elaboração das propostas legislativas e regulamentares necessárias à prossecução dos objectivos da política energética, preparando, nomeadamente, instrumentos de normalização, regulamentação e especificação técnica de instalações e produtos energéticos, bem como proceder à fiscalização do cumprimento da legislação aplicável nas suas áreas de intervenção, nos termos definidos pela lei;\n\nd) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo a política energética, em particular no quadro da União Europeia, com vista à sua adequação aos interesses fundamentais da política económica nacional."
+  },
+  "1025309975": {
+   "fragment_id": "1025309875",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção-Geral do Comércio e da Concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção-Geral do Comércio e da Concorrência\n\n1 - É criada a Direcção-Geral do Comércio e da Concorrência.\n\n2 - A Direcção-Geral do Comércio e da Concorrência é um serviço, dotado de autonomia administrativa, responsável pela concepção, execução e avaliação da política de concorrência e das políticas sectoriais para o comércio e a distribuição, competindo-lhe:\n\na) Contribuir para a definição e execução da política de concorrência, enquanto mecanismo de regulação do desenvolvimento económico e empresarial, e acompanhar e avaliar a execução das medidas dela decorrentes;\n\nb) Promover o funcionamento eficiente dos mercados, agindo nos domínios das estratégias e comportamentos dos agentes económicos, das estruturas dos mercados, dos mecanismos de regulação e das políticas sectoriais e do direito da concorrência;\n\nc) Contribuir para a definição e execução das políticas sectoriais para o comércio e a distribuição, promovendo a modernização das estruturas e a competitividade sustentada das empresas, atendendo à sua diversidade, especialização e defesa dos interesses dos consumidores;\n\nd) Acompanhar as actividades comerciais e de distribuição, mantendo um conhecimento actualizado das tendências das respectivas condições gerais de funcionamento, por forma a permitir a avaliação dos efeitos das medidas de política sectorial;\n\ne) Dar cumprimento às missões que, no âmbito do direito interno e comunitário de concorrência, são atribuídas à autoridade administrativa nacional de concorrência;\n\nf) Acompanhar a evolução dos preços dos bens e serviços e apreciar os procedimentos relativos aos diferentes regimes de preços e negociar e celebrar, em representação da Administração, as convenções de preço;\n\ng) Contribuir para a elaboração das propostas legislativas e regulamentares necessárias à prossecução dos objectivos das políticas acima referidas e assegurar o cumprimento da legislação aplicável nas suas áreas de intervenção, nos termos definidos pela lei;\n\nh) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo as políticas de concorrência e as políticas sectoriais para o comércio e a distribuição, em particular no quadro da União Europeia, com vista à sua adequação aos interesses fundamentais da política económica nacional.\n\n3 - A Direcção-Geral é dirigida por um director-geral, coadjuvado por três subdirectores-gerais."
+  },
+  "1025310175": {
+   "fragment_id": "1025310075",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção-Geral do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção-Geral do Turismo\n\nA Direcção-Geral do Turismo é um serviço, dotado de autonomia administrativa e financeira, responsável pela concepção, avaliação e execução da política de turismo, competindo-lhe:\n\na) Contribuir para a definição e execução da política de turismo, propondo medidas e acções com vista à diversificação, qualificação e melhoria da posição competitiva da oferta turística nacional, à consolidação das estruturas empresariais e à preservação e valorização dos recursos do País;\n\nb) Acompanhar a actividade turística, mantendo um conhecimento actualizado em termos de oferta e de procura, criando os mecanismos de observação e inventariação adequados e promovendo uma informação útil ao sector, por forma a permitir a avaliação dos efeitos das medidas da política de turismo;\n\nc) Contribuir para a elaboração e fundamentação das propostas legislativas e regulamentares necessárias à prossecução dos objectivos das políticas acima referidas e acompanhar o licenciamento, qualificação e classificação da oferta turística, nos termos definidos pela lei;\n\nd) Observar e propor medidas de articulação do desenvolvimento da actividade turística com outras actividades económicas, bem como com políticas públicas relevantes para aquela actividade;\n\ne) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo a política de turismo, em particular no quadro da União Europeia, com vista à sua adequação aos interesses da política económica nacional."
+  },
+  "1196585075": {
+   "fragment_id": "1025310275",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção-Geral das Relações Económicas Internacionais",
+   "in_force_from": "1999-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
+   ],
+   "markdown": "###### Artigo 16.º — Direcção-Geral das Relações Económicas Internacionais\n\n1 - É criada a Direcção-Geral das Relações Económicas Internacionais.\n\n2 - A Direcção-Geral das Relações Económicas Internacionais é um serviço dotado de autonomia administrativa, responsável no domínio das relações económicas internacionais pela formulação de políticas e pela dinamização de acções numa lógica integrada, bem como pela coordenação e apoio técnico do Ministério da Economia em matérias relacionadas com a União Europeia e outras organizações internacionais de carácter económico, competindo-lhe:\n\na) Contribuir para a definição e execução das políticas que enquadram o relacionamento económico externo, em articulação com o Ministério dos Negócios Estrangeiros, apoiando o Governo no acompanhamento da actividade das organizações internacionais de carácter económico, designadamente as respeitantes à Organização Mundial do Comércio, e na formulação e execução da política comercial da União Europeia;\n\nb) Contribuir para a internacionalização das empresas industriais, comerciais e de serviços, mediante a criação de uma envolvente favorável à inovação e ao desenvolvimento tecnológico daquelas empresas, articulando a sua projecção externa com os movimentos de investimento directo estrangeiro;\n\nc) Colaborar com outras entidades oficiais nas negociações de acordos de cooperação económica e apoiar o desenvolvimento da cooperação económica externa, bilateral e multilateral;\n\nd) Assegurar o licenciamento do comércio externo de produtos agrícolas e de produtos industriais e estratégicos e gerir os regimes restritivos do comércio externo desses produtos;\n\ne) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia;\n\nf) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito da União Europeia nas áreas da indústria, energia, comércio e turismo, promovendo as necessárias adaptações estruturais, institucionais e legais;\n\ng) Coordenar a representação do Ministério da Economia nas organizações internacionais de carácter económico no domínio das suas atribuições, nomeadamente através da participação nos comités e grupos de trabalho da Organização para a Cooperação e Desenvolvimento Económico (OCDE).\n\n3 - A Direcção-Geral é dirigida por um director-geral, coadjuvado, no exercício das suas funções, por três subdirectores-gerais.\n\n> Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
+  },
+  "1196585275": {
+   "fragment_id": "1025310475",
+   "type": 11,
+   "heading": "Artigo 17.º — Gabinete de Estudos e Prospectiva Económica",
+   "in_force_from": "1999-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
+   ],
+   "markdown": "###### Artigo 17.º — Gabinete de Estudos e Prospectiva Económica\n\n1 - É criado o Gabinete de Estudos e Prospectiva Económica do Ministério da Economia.\n\n2 - O Gabinete de Estudos e Prospectiva Económica é um serviço vocacionado para o estudo das questões económicas, designadamente numa óptica de análise prospectiva, desenvolvendo para o efeito formas alargadas de parceria e de cooperação, com o fim de apoiar a formulação, acompanhamento e avaliação das políticas relevantes do Ministério e de proporcionar informação estratégica aos agentes económicos, competindo-lhe:\n\na) Promover, coordenar e realizar estudos numa óptica prospectiva integrada e global, que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério e proporcionar informação qualificada de natureza envolvente e estratégica aos agentes económicos;\n\nb) Analisar a evolução da actividade económica e assegurar a coordenação, tratamento e análise da informação estatística, visando a formação de expectativas pelos agentes económicos;\n\nc) Coordenar e gerir a informação relativa aos estudos promovidos no âmbito do Ministério e emitir parecer sobre a realização de novos estudos, com vista a racionalizar o seu potencial e a melhor garantir a utilização dos seus resultados;\n\nd) Promover e desenvolver acções que contribuam para a articulação entre as políticas sectoriais e horizontais do Ministério e entre estas e outras políticas relevantes do Governo, com impacte na competitividade e internacionalização da economia portuguesa;\n\ne) Fomentar, na base de parcerias e de cooperação, actividades de reflexão com universidades, centros de investigação e outros agentes económicos, nacionais e estrangeiros, visando uma envolvente económica favorável a estratégias empresariais abertas aos novos factores de competitividade e à internacionalização da economia portuguesa;\n\nf) Participar na elaboração das Grandes Opções do Plano e de planos nacionais de desenvolvimento sócio-económicos e na formulação das medidas de política que integram o Orçamento do Estado.\n\n3 - O Gabinete de Estudos e Prospectiva Económica é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.\n\n4 - O director é coadjuvado, no exercício das suas funções, por três subdirectores, equiparados, para todos os efeitos legais, a subdirector-geral.\n\n> Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
+  },
+  "1025310775": {
+   "fragment_id": "1025310675",
+   "type": 8,
+   "heading": "Secção IV — Dos serviços de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Dos serviços de inspecção"
+  },
+  "1025310975": {
+   "fragment_id": "1025310875",
+   "type": 11,
+   "heading": "Artigo 18.º — Inspecção-Geral das Actividades Económicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Inspecção-Geral das Actividades Económicas\n\nA Inspecção-Geral das Actividades Económicas é a entidade, dotada de autonomia administrativa, que, enquanto autoridade e órgão de polícia criminal, é responsável pela fiscalização do cumprimento das leis, regulamentos, instruções, despachos e demais normas que disciplinam as actividades económicas, competindo-lhe:\n\na) Prevenir e reprimir infracções antieconómicas e contra a saúde pública;\n\nb) Fiscalizar a oferta de produtos e serviços nos termos legalmente fixados e proceder, quando for caso disso, à investigação e instrução dos processos por contra-ordenações;\n\nc) Assegurar o cumprimento das disposições legais relativas à aquisição de bens e serviços, com vista à sua adequada distribuição e utilização;\n\nd) Coadjuvar as entidades judiciárias nos termos do disposto no Código de Processo Penal."
+  },
+  "1025311175": {
+   "fragment_id": "1025311075",
+   "type": 11,
+   "heading": "Artigo 19.º — Inspecção-Geral de Jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Inspecção-Geral de Jogos\n\nA Inspecção-Geral de Jogos é um organismo de inspecção integrado no Ministério da Economia, ao qual cabe velar pelo respeito pelas disposições legais em vigor em matéria de jogo, competindo-lhe:\n\na) Apoiar tecnicamente o Ministério da Economia em matéria de jogos de fortuna e azar;\n\nb) Fiscalizar a exploração dos jogos de fortuna e azar concessionados pelo Estado;\n\nc) Contribuir para a elaboração de regulamentação em matéria de jogos de fortuna e azar;\n\nd) Apoiar tecnicamente e colaborar com as autoridades e agentes policiais na prevenção e punição de práticas ilícitas em matéria de jogos de fortuna e azar."
+  },
+  "1025311375": {
+   "fragment_id": "1025311275",
+   "type": 8,
+   "heading": "Secção V — Dos órgãos de consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Dos órgãos de consulta"
+  },
+  "1025311575": {
+   "fragment_id": "1025311475",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho para o Desenvolvimento Económico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho para o Desenvolvimento Económico\n\n1 - É criado o Conselho para o Desenvolvimento Económico, órgão de consulta em matéria de política económica, no que se refere às políticas executadas no âmbito do Ministério da Economia.\n\n2 - O Conselho para o Desenvolvimento Económico funcionará com base nos princípios da livre pareceria entre o sector público e o sector privado e da pluridisciplinaridade, competindo-lhe:\n\na) Assegurar a participação de representantes da actividade económica privada, bem como de personalidades de reconhecida competência e mérito, na concepção, acompanhamento e avaliação das políticas prosseguidas pelo Ministério da Economia;\n\nb) Contribuir para a articulação das políticas sectoriais da área de intervenção do Ministério da Economia;\n\nc) Informar o Ministério da Economia dos dados essenciais para a articulação com políticas de actuação do âmbito de outros ministérios que se revelem importantes para as condições de funcionamento da actividade económica privada;\n\nd) Elaborar estudos e dar pareceres relativos à coordenação das políticas dirigidas aos sectores de actividade enquadrados pelo Ministério da Economia;\n\ne) Acompanhar a evolução da economia portuguesa, com especial relevância para os aspectos da competitividade e da internacionalização, propondo iniciativas com vista à modernização e desenvolvimento das empresas e das infra-estruturas."
+  },
+  "1025311775": {
+   "fragment_id": "1025311675",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselhos sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselhos sectoriais\n\nOs Conselhos Sectoriais da Indústria, da Construção, da Energia, do Comércio e do Turismo são órgãos consultivos para as respectivas áreas de intervenção e no âmbito das atribuições do Ministério da Economia, competindo-lhes:\n\na) Assegurar a participação de representantes da actividade económica privada, bem como de personalidades de reconhecida competência e mérito, na concepção, acompanhamento e avaliação das políticas prosseguidas pelo Ministério da Economia para o respectivo sector de actividade;\n\nb) Informar o Ministério da Economia dos dados essenciais para a necessária articulação com políticas de actuação do âmbito de outros ministérios que se revelem importantes para as condições de funcionamento do respectivo sector de actividade;\n\nc) Promover estudos e dar pareceres sobre as políticas do Ministério da Economia dirigidas ao respectivo sector de actividade, nomeadamente no quadro da preparação de iniciativas legislativas;\n\nd) Acompanhar a evolução do sector de actividade correspondente, propondo iniciativas com vista à modernização e desenvolvimento das empresas."
+  },
+  "1025311975": {
+   "fragment_id": "1025311875",
+   "type": 8,
+   "heading": "Secção VI — Dos serviços regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Dos serviços regionais"
+  },
+  "1195838575": {
+   "fragment_id": "1025312075",
+   "type": 11,
+   "heading": "Artigo 22.º — Serviços regionais do Ministério da Economia",
+   "in_force_from": "1996-11-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 78/99 - Diário da República n.º 63/1999, Série I-A de 1999-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1999-144995), em vigor a partir de 1996-11-26."
+   ],
+   "markdown": "###### Artigo 22.º — Serviços regionais do Ministério da Economia\n\n1 - São criadas as delegações regionais do Ministério da Economia.\n\n2 - As delegações regionais são serviços desconcentrados, dotados de autonomia administrativa, que têm por finalidade a representação e a actuação do Ministério da Economia a nível regional.\n\n3 - Às delegações regionais compete:\n\na) A representação do Ministério da Economia junto dos órgãos do poder local, bem como a articulação com os órgãos desconcentrados do poder central de incidência regional;\n\nb) As funções de natureza executiva em matéria de administração industrial e energética, dos recursos geológicos e da qualidade industrial e do comércio e turismo;\n\nc) O estabelecimento de relações interactivas de acompanhamento e informação com as empresas, as associações empresariais e sindicais e outras entidades de âmbito local ou regional, com vista à preparação e divulgação das políticas de desenvolvimento económico.\n\n4 - As delegações regionais terão por área geográfica de actuação o continente, na configuração definida pelo nível II da NUTE, sem prejuízo de eventuais correcções e ajustamentos que se revelem necessários.\n\n5 - Na organização das delegações regionais ter-se-ão em conta as necessidades de cada área geográfica, devendo respeitar-se, sempre que aquelas necessidades o justifiquem, a diferenciação dos sectores abrangidos na sua actuação desconcentrada\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 78/99 - Diário da República n.º 63/1999, Série I-A de 1999-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1999-144995), em vigor a partir de 1996-11-26."
+  },
+  "1025312375": {
+   "fragment_id": "1025312275",
+   "type": 8,
+   "heading": "Secção VII — Dos organismos sob tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Dos organismos sob tutela"
+  },
+  "1025312575": {
+   "fragment_id": "1025312475",
+   "type": 11,
+   "heading": "Artigo 23.º — Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento\n\n1 - O Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) é um instituto público vocacionado para a execução das políticas de apoio ao desenvolvimento empresarial e ao investimento, com vista à modernização e inovação nas pequenas e médias empresas dos sectores secundário e terciário, competindo-lhe:\n\na) Contribuir para a concepção, implementação e avaliação das políticas de apoio às PME, acompanhando a execução das medidas dela decorrentes e assegurando a sua articulação com as políticas sectoriais desenvolvidas por outros organismos do Ministério da Economia;\n\nb) Assegurar a criação, manutenção e desenvolvimento de iniciativas e estruturas, de carácter permanente, que promovam a assistência técnica e a formação de empresários, quadros e trabalhadores em favor das PME;\n\nc) Recolher, tratar e divulgar informação técnica relevante para as pequenas e médias empresas, recorrendo às oportunidades propiciadas pela utilização;\n\nd) Estudar, propor medidas e implementar acções tendentes ao aumento da produtividade e da cooperação interempresarial no universo das PME e ao relacionamento destas com grupos económicos de grande dimensão, de base nacional ou estrangeira;\n\ne) Contribuir para a definição e execução das medidas de política económica que promovam o crescimento sustentado do nível de investimento de base empresarial, orientado qualitativamente para os factores competitivos de alcance estratégico e duradouro, com vista à consolidação das estruturas empresariais e à melhoria do padrão de especialização das actividades de produção de bens e serviços;\n\nf) Assegurar o funcionamento eficiente e eficaz de sistemas de incentivos ao investimento e outros estímulos ao desenvolvimento das PME, de carácter temporário ou permanente, e promover acções que favoreçam o acesso das PME aos mercados de capitais e reforcem o quadro de apoio financeiro ao seu desenvolvimento competitivo.\n\n2 - O IAPMEI tem personalidade jurídica, autonomia administrativa e financeira e património próprio, regendo-se pelos seus estatutos e, subsidiariamente, pela legislação aplicável às empresas públicas."
+  },
+  "1025312775": {
+   "fragment_id": "1025312675",
+   "type": 11,
+   "heading": "Artigo 24.º — Investimentos, Comércio e Turismo de Portugal (ICEP)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Investimentos, Comércio e Turismo de Portugal (ICEP)\n\n1 - Investimentos, Comércio e Turismo de Portugal (ICEP) é um instituto público vocacionado para o desenvolvimento e execução das políticas de apoio à promoção e divulgação das actividades económicas nacionais e à internacionalização da economia portuguesa, com vista, nomeadamente, à promoção dos fluxos internacionais de investimento e ao comércio de bens e serviços, bem como à promoção integrada do turismo, promovendo a imagem de Portugal no exterior, competindo-lhe:\n\na) Contribuir para a concepção, implementação e avaliação das políticas de apoio à internacionalização das empresas, nomeadamente através do estímulo dos fluxos de comércio de bens e serviços, investimento e tecnologia, acompanhando a execução das medidas dela decorrentes e assegurando a sua articulação quer com as políticas sectoriais desenvolvidas por outros organismos do Ministério da Economia quer com as iniciativas diplomáticas conduzidas pelo Ministério dos Negócios Estrangeiros;\n\nb) Desenvolver as acções e iniciativas, de carácter permanente ou temporário, tendentes à divulgação e promoção das capacidades, produções e serviços portugueses no exterior, no quadro da afirmação coerente e integrada da imagem de Portugal;\n\nc) Proceder à identificação, estudo e prospecção sistemáticos dos mercados potenciais para as empresas portuguesas, garantindo-lhes um adequado fluxo de informação e assistência técnica, com vista ao aproveitamento das oportunidades detectadas;\n\nd) Promover activamente, em colaboração com os agentes económicos, o turismo nacional, enquanto destino específico valorizado pelos seus recursos diversificados e pela qualificação da oferta, através de programas de acção, no interior e no exterior, que potenciem a procura das actividades turísticas;\n\ne) Acompanhar as tendências do investimento directo internacional por mercados, actividades e produto, fomentando a captação de investimento directo estrangeiro estruturante e as iniciativas de investimento das empresas portuguesas no exterior;\n\nf) Estimular o desenvolvimento de estratégias empresariais de internacionalização;\n\ng) Colaborar, através das entidades competentes do Ministério da Economia, nas negociações de acordos de cooperação económica, de comércio internacional e de promoção e protecção de investimentos.\n\n2 - O ICEP tem personalidade jurídica e autonomia administrativa e financeira, regendo-se pelos seus estatutos e, subsidiariamente, pela legislação aplicável às empresas públicas."
+  },
+  "1025312975": {
+   "fragment_id": "1025312875",
+   "type": 11,
+   "heading": "Artigo 25.º — Instituto Nacional de Engenharia e Tecnologia Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instituto Nacional de Engenharia e Tecnologia Industrial\n\n1 - O Instituto Nacional de Engenharia e Tecnologia Industrial (INETI) é um organismo público de natureza empresarial, vocacionado para impulsionar acções de investigação, desenvolvimento, demonstração e assistência técnica, tecnológica e laboratorial, tendo em vista a modernização das empresas industriais e de serviços, competindo-lhe:\n\na) Colaborar com os organismos do Ministério da Ciência e da Tecnologia na definição da política tecnológica, com vista à modernização e desenvolvimento da indústria, dos serviços e do sistema tecnológico;\n\nb) Promover a realização de investigação e de desenvolvimento experimental orientados para a actividade económica, bem como difundir os seus resultados pelas empresas;\n\nc) Fomentar o desenvolvimento da inovação nos domínios industriais e energéticos, bem como incrementar o desenvolvimento tecnológico nas empresas e restantes agentes económicos;\n\nd) Difundir informação científica e tecnológica junto das empresas e associações empresariais e promover a realização de acções de formação técnica e tecnológica.\n\n2 - O INETI tem personalidade jurídica, autonomia administrativa e financeira e património próprio, regendo-se pelos seus estatutos e, subsidiariamente, pela legislação aplicável às empresas públicas."
+  },
+  "1025313175": {
+   "fragment_id": "1025313075",
+   "type": 11,
+   "heading": "Artigo 26.º — Instituto Nacional da Propriedade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instituto Nacional da Propriedade Industrial\n\n1 - O Instituto Nacional da Propriedade Industrial (INPI) é responsável pelo estudo, promoção e execução das políticas e actividades de garantia e protecção da propriedade industrial, competindo-lhe:\n\na) Contribuir para a definição das políticas específicas da propriedade industrial e acompanhar a execução das medidas dela decorrentes;\n\nb) Assegurar a atribuição e protecção dos direitos privativos da propriedade industrial, visando o reforço da lealdade da concorrência neste domínio;\n\nc) Estudar e propor acções em matéria da propriedade industrial, bem como as necessárias ao adequado cumprimento do Código da Propriedade Industrial;\n\nd) Promover a divulgação de informação relevante em matéria de propriedade industrial;\n\ne) Assegurar o suporte à representação de Portugal nos organismos internacionais de propriedade industrial;\n\nf) Zelar pelo cumprimento do Código da Propriedade Industrial, promovendo as acções necessárias à prevenção e repressão de ilícitos na matéria.\n\n2 - O INPI é um instituto público dotado de personalidade jurídica, de autonomia administrativa e financeira e património próprio, regendo-se pelos seus estatutos e, subsidiariamente, pela legislação aplicável às empresas públicas."
+  },
+  "1025313375": {
+   "fragment_id": "1025313275",
+   "type": 11,
+   "heading": "Artigo 27.º — Instituto Português da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instituto Português da Qualidade\n\n1 - O Instituto Português da Qualidade (IPQ) é responsável, a nível nacional, pela política de qualidade e acção do sistema português da qualidade e pelas actividades de normalização, certificação, acreditação e metrologia, competindo-lhe:\n\na) Promover o desenvolvimento conceptual e organizativo do sistema português da qualidade, numa perspectiva de integração de todas as componentes relevantes para a melhoria da qualidade de produtos, processos e serviços;\n\nb) Reconhecer a competência de entidades privadas, públicas ou mistas, para o desempenho de funções de normalização ou certificação sectorial;\n\nc) Coordenar e acompanhar os trabalhos de elaboração de normas portuguesas e promover o ajustamento dos regulamentos técnicos às normas da União Europeia sobre produtos;\n\nd) Assegurar a implementação, articulação e inventariação de cadeias hierarquizadas de padrões de medida e promover o estabelecimento de redes de laboratórios metrológicos acreditados;\n\ne) Assegurar o suporte à representação de Portugal nos organismos internacionais de normalização, certificação, acreditação e metrologia.\n\n2 - O IPQ é um instituto público dotado de personalidade jurídica, autonomia administrativa e património próprio."
+  },
+  "1025313575": {
+   "fragment_id": "1025313475",
+   "type": 11,
+   "heading": "Artigo 28.º — Fundo de Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fundo de Turismo\n\n1 - O Fundo de Turismo (FT) visa promover o desenvolvimento do turismo nacional, competindo-lhe:\n\na) Apoiar o Ministério da Economia na formulação da política de incentivo ao investimento no sector turístico;\n\nb) Conceder empréstimos, subsídios e comparticipações financeiras, directas ou indirectas, incluindo bonificações de juros e de rendas, participando em operações de co-financiamento ou refinanciamento em associação com outras entidades;\n\nc) Proceder à aplicação financeira das respectivas receitas, bem como participar no capital de quaisquer sociedades, constituídas ou a constituir, quando tal participação contribua manifestamente para o desenvolvimento do turismo;\n\nd) Emitir obrigações e quaisquer outros títulos de crédito, à excepção dos de curto prazo;\n\ne) Fiscalizar a aplicação dos empréstimos, subsídios e comparticipações que haja concedido, de modo a assegurar o cumprimento das obrigações assumidas pelos beneficiários.\n\n2 - O FT é uma pessoa colectiva de direito público dotada de património próprio e de autonomia administrativa e financeira."
+  },
+  "1025313775": {
+   "fragment_id": "1025313675",
+   "type": 11,
+   "heading": "Artigo 29.º — Instituto Nacional de Formação Turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Instituto Nacional de Formação Turística\n\n1 - O Instituto Nacional de Formação Turística (INFT) visa promover, coordenar e aperfeiçoar a formação profissional dos trabalhadores dos vários sectores do turismo, no sentido de melhorar a qualidade dos serviços e produtos turísticos nacionais, competindo-lhe:\n\na) Apoiar o Ministério da Economia na formulação da política de formação de turismo;\n\nb) Coordenar e executar a política de formação profissional na área do turismo;\n\nc) Incentivar e desenvolver a investigação técnico-pedagógica relativa à formação profissional no turismo;\n\nd) Cooperar no estudo de actividades turísticas, suas motivações e implicações sócio-económicas;\n\ne) Reconhecer cursos ou acções de formação profissional para os vários sectores do turismo, desenvolvidos por entidades públicas ou privadas, bem como certificar a aptidão profissional para o exercício das profissões turísticas, hoteleiras e similares.\n\n2 - O INFT é um instituto público dotado de personalidade jurídica, de autonomia administrativa e financeira e de património próprio."
+  },
+  "1025313975": {
+   "fragment_id": "1025313875",
+   "type": 11,
+   "heading": "Artigo 30.º — Instituto Geológico e Mineiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instituto Geológico e Mineiro\n\n1 - O Instituto Geológico e Mineiro (IGM) é responsável pelo estudo e concepção de políticas no domínio dos recursos geológicos nacionais, competindo-lhe:\n\na) Promover a investigação da infra-estrutura geológica do território nacional, incluindo a plataforma continental, tendente à revelação, aproveitamento, protecção e valorização dos recursos geológicos nacionais;\n\nb) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;\n\nc) Propor orientações no domínio da utilização dos recursos geológicos;\n\nd) Empreender as medidas de natureza executiva de que for incumbido, no âmbito da gestão dos recursos geológicos nacionais e no apoio às actividades empresariais do sector extractivo, visando a melhoria da sua capacidade competitiva.\n\n2 - O IGM é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e de património próprio."
+  },
+  "1025314175": {
+   "fragment_id": "1025314075",
+   "type": 11,
+   "heading": "Artigo 31.º — Gabinete para a Pesquisa e Exploração de Petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Gabinete para a Pesquisa e Exploração de Petróleo\n\n1 - O Gabinete para a Pesquisa e Exploração de Petróleo (GPEP) é responsável pela dinamização e controlo das actividades de prospecção, pesquisa, desenvolvimento e exploração dos recursos petrolíferos nacionais, competindo-lhe:\n\na) Contribuir para a definição e implementação da política relativa aos recursos petrolíferos e acompanhar a execução das medidas dela decorrentes;\n\nb) Manter um conhecimento actualizado sobre a actividade relacionada com o aproveitamento e valorização dos recursos petrolíferos e promover o interesse dos operadores do sector na investigação e exploração das potencialidades nacionais;\n\nc) Apreciar os requerimentos para concessão de direitos de prospecção, pesquisa, desenvolvimento e exploração de recursos petrolíferos e negociar as condições das eventuais licenças e contratos deles decorrentes;\n\nd) Acompanhar as operações relativas aos contratos e licenças concedidas, fiscalizando o cumprimento das disposições legais e contratuais e as regras de segurança e protecção ambiental aplicáveis;\n\ne) Propor legislação e colaborar na elaboração de regulamentação técnica da actividade do sector.\n\n2 - O GPEP é um organismo dotado de personalidade jurídica e autonomia administrativa."
+  },
+  "1025314375": {
+   "fragment_id": "1025314275",
+   "type": 11,
+   "heading": "Artigo 32.º — Regiões de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regiões de turismo\n\nAs regiões de turismo são pessoas colectivas de direito público dotadas de autonomia administrativa e financeira e de património próprio, competindo-lhes a valorização turística das respectivas áreas de intervenção no quadro da política de turismo."
+  },
+  "1025314575": {
+   "fragment_id": "1025314475",
+   "type": 8,
+   "heading": "Secção VIII — Outras entidades no âmbito do Ministério da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Outras entidades no âmbito do Ministério da Economia"
+  },
+  "1025314775": {
+   "fragment_id": "1025314675",
+   "type": 11,
+   "heading": "Artigo 33.º — Conselho da Concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Conselho da Concorrência\n\nO Conselho da Concorrência é a autoridade administrativa a quem compete:\n\na) Decidir sobre os processos relativos a práticas restritivas de concorrência que lhe forem remetidos;\n\nb) Decidir sobre a aplicação de coimas, sempre que tal competência lhe seja legalmente atribuída;\n\nc) Formular pareceres, a solicitação do Ministro da Economia, em procedimentos relativos a operações de concentração sujeitas a notificação prévia;\n\nd) Pronunciar-se sobre as questões de concorrência que o Ministro da Economia entenda submeter-lhe."
+  },
+  "1025314975": {
+   "fragment_id": "1025314875",
+   "type": 11,
+   "heading": "Artigo 34.º — Conselho Nacional da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Conselho Nacional da Qualidade\n\nO Conselho Nacional da Qualidade é um órgão de consulta do Governo no âmbito da política da qualidade e de desenvolvimento do Sistema Português da Qualidade, competindo-lhe diagnosticar regularmente a situação da qualidade, assegurar o intercâmbio de experiências e acções e propor medidas e iniciativas que contribuam para a dinamização de uma orientação global do tecido económico nacional, tendo em vista a melhoria permanente e sustentada neste domínio."
+  },
+  "1025315175": {
+   "fragment_id": "1025315075",
+   "type": 11,
+   "heading": "Artigo 35.º — Comissão de Planeamento Industrial de Emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comissão de Planeamento Industrial de Emergência\n\nA Comissão de Planeamento Industrial de Emergência é o órgão sectorial de planeamento civil de emergência, directamente dependente do Ministro da Economia e funcionalmente dependente do presidente do Conselho Nacional de Planeamento Civil de Emergência, competindo-lhe, designadamente, organizar planos de actuação no sentido de dotar o País de meios de resposta expeditos na área industrial em situações de anormalidade grave de crise internacional ou em tempo de guerra."
+  },
+  "1025315375": {
+   "fragment_id": "1025315275",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissão de Planeamento Energético de Emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comissão de Planeamento Energético de Emergência\n\nA Comissão de Planeamento Energético de Emergência é o órgão sectorial de planeamento civil de emergência, directamente dependente do Ministro da Economia e funcionalmente dependente do presidente do Conselho Nacional de Planeamento Civil de Emergência, competindo-lhe:\n\na) Organizar planos de actuação no sentido de dotar o País de meios de resposta expeditos na área energética em situações de anormalidade grave de crise internacional ou em tempo de guerra;\n\nb) Dar continuidade ao abastecimento energético, adaptando àquelas circunstâncias a produção e utilização dos recursos energéticos."
+  },
+  "1025315575": {
+   "fragment_id": "1025315475",
+   "type": 11,
+   "heading": "Artigo 37.º — Comissão de Aplicação de Coimas em Matéria Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Comissão de Aplicação de Coimas em Matéria Económica\n\nA Comissão de Aplicação de Coimas em Matéria Económica é a autoridade administrativa com competência para a aplicação de coimas e sanções acessórias às contra-ordenações previstas pela legislação aplicável neste âmbito, bem como as demais funções conferidas por lei."
+  },
+  "1025315775": {
+   "fragment_id": "1025315675",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissão de Aplicação de Coimas em Matéria de Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comissão de Aplicação de Coimas em Matéria de Publicidade\n\nA Comissão de Aplicação de Coimas em Matéria de Publicidade é a autoridade administrativa com competência para a aplicação de coimas e sanções acessórias às contra-ordenações previstas pela legislação aplicável neste âmbito, bem como as demais funções conferidas por lei."
+  },
+  "1025315975": {
+   "fragment_id": "1025315875",
+   "type": 11,
+   "heading": "Artigo 39.º — Conselho das Garantias Financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Conselho das Garantias Financeiras\n\nO Conselho das Garantias Financeiras é um órgão especializado a quem compete sugerir ao Governo os princípios orientadores da política de concessão da garantia do Estado às operações que venham a ser propostas pela COSEC (Companhia de Seguros de Crédito, S. A.) e decidir, por conta e ordem do Estado, sobre os pedidos de garantia e promessa de garantia prévia do Estado."
+  },
+  "1025316175": {
+   "fragment_id": "1025316075",
+   "type": 11,
+   "heading": "Artigo 40.º — Organização para a Emergência Energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Organização para a Emergência Energética\n\nA Organização para a Emergência Energética é a organização sectorial de apoio ao Governo para situações de emergência energética, integrando, a nível operacional, a Direcção-Geral de Energia e a Comissão de Planeamento Energético de Emergência e, a nível consultivo, o Conselho Nacional de Emergência Energética, competindo-lhe:\n\na) Em situação normal, assegurar a coordenação do planeamento e preparação para situações de carência grave no abastecimento energético;\n\nb) Em situação de crise, assegurar a execução dos procedimentos e medidas adoptados."
+  },
+  "1025316375": {
+   "fragment_id": "1025316275",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "1025316575": {
+   "fragment_id": "1025316475",
+   "type": 11,
+   "heading": "Artigo 41.º — Planeamento e articulação de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Planeamento e articulação de actividades\n\n1 - Os serviços e organismos do Ministério da Economia funcionam por objectivos, formalizados em planos de actividades anuais ou plurianuais aprovados pelo Ministro.\n\n2 - Os serviços e organismos do Ministério da Economia deverão colaborar entre si e articular as respectivas actividades por forma a promover uma actuação unitária e integrada das políticas dirigidas aos sectores da actividade económica que constituem o âmbito de actuação do Ministério.\n\n3 - Para a prossecução de actividades que devam ser desenvolvidas conjuntamente por vários serviços ou unidades orgânicas do mesmo serviço podem ser constituídas equipas de projecto, nos termos do artigo seguinte."
+  },
+  "1025316775": {
+   "fragment_id": "1025316675",
+   "type": 11,
+   "heading": "Artigo 42.º — Equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Equipas de projecto\n\n1 - Por despacho do Ministro da Economia podem criar-se equipas de projecto de duração limitada, que actuam sob a responsabilidade de coordenadores de diversas especialidades.\n\n2 - As equipas de projecto que englobem elementos não afectos ao Ministério da Economia ou envolvam a participação de individualidades não pertencentes à função pública são constituídas por despacho conjunto do ministro da tutela, do Ministro das Finanças, do Ministro da Economia e do membro do Governo responsável pela Administração Pública.\n\n3 - Os despachos referidos nos n.os 1 e 2 deverão prever a constituição das equipas, a nomeação dos respectivos coordenadores e o período de duração, bem como os objectivos a prosseguir."
+  },
+  "1025316975": {
+   "fragment_id": "1025316875",
+   "type": 11,
+   "heading": "Artigo 43.º — Participação em outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Participação em outras entidades\n\nOs serviços e organismos do Ministério da Economia podem ser autorizados, mediante despacho do Ministro, a participar em associações ou outras entidades nacionais ou internacionais, neste caso em articulação com o Ministério dos Negócios Estrangeiros, cujo objectivo tenha interesse relevante para a prossecução das suas atribuições."
+  },
+  "1025317175": {
+   "fragment_id": "1025317075",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "1025317375": {
+   "fragment_id": "1025317275",
+   "type": 11,
+   "heading": "Artigo 44.º — Quadros e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Quadros e regime de pessoal\n\n1 - Os serviços e organismos do Ministério da Economia dispõem de quadros próprios de pessoal.\n\n2 - O pessoal e o preenchimento dos quadros regem-se pelo disposto no presente diploma, na legislação vigente no âmbito do Ministério da Economia e nas leis gerais da função pública."
+  },
+  "1025317575": {
+   "fragment_id": "1025317475",
+   "type": 11,
+   "heading": "Artigo 45.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Transição de pessoal\n\n1 - O pessoal dos serviços extintos pelo artigo 51.º transita para os serviços criados pelos artigos 11.º, 14.º, 16.º, 17.º e 22.º, devendo os quadros de pessoal destes organismos prever o número de lugares considerado necessário.\n\n2 - Na sequência da extinção dos serviços referidos no artigo 51.º, o Ministro estabelecerá em despacho, até à publicação das respectivas leis orgânicas, a transição de meios humanos, financeiros e físicos necessários à transferência de atribuições entre serviços e organismos.\n\n3 - A transição a que se refere o presente artigo far-se-á de acordo com as seguintes regras:\n\na) Para a mesma carreira, categoria e escalão que o funcionário já possui;\n\nb) Com a observância das habilitações legais, para a carreira e categoria que integra as funções que efectivamente o funcionário desempenha, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processa a transição.\n\n4 - As correspondências de categoria determinadas na alínea b) do n.º 3 fazem-se em função do índice remuneratório correspondente ao escalão I da categoria em que o funcionário se encontra e no escalão I da categoria da nova carreira.\n\n5 - Ao pessoal dos serviços do Ministério da Economia que, nos termos do disposto na alínea b) do n.º 3, transite para categoria diversa será contado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, desde que haja comprovadamente exercido idênticas funções."
+  },
+  "1025317775": {
+   "fragment_id": "1025317675",
+   "type": 11,
+   "heading": "Artigo 46.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Situações especiais\n\n1 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos de que era titular à data do início da respectiva licença, sendo-lhe aplicado o regime correspondente previsto no Decreto-Lei n.º 497/88, de 30 de Dezembro.\n\n2 - O pessoal que se encontre em regime de destacamento, requisição, interinidade, comissão de serviço ou outras situações precárias previstas na lei manter-se-á em idêntico regime, nos termos do que vier a ser determinado nos diplomas previstos no artigo 49.º\n\n3 - O pessoal que, à data da entrada em vigor deste decreto-lei, se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elementos do júri, o qual fará a respectiva avaliação e classificação final.\n\n4 - Mantêm-se os concursos a decorrer à data da entrada em vigor do presente diploma, bem como os abertos até à entrada em vigor das portarias referidas no n.º 2 do artigo 49.º"
+  },
+  "1025317975": {
+   "fragment_id": "1025317875",
+   "type": 11,
+   "heading": "Artigo 47.º — Orçamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Orçamentos\n\nAté à efectivação das devidas alterações orçamentais, são utilizadas pelos serviços criados ou reestruturados as verbas dos orçamentos dos serviços extintos, de acordo com despacho a exarar nos termos do n.º 2 do artigo 45.º"
+  },
+  "1025318175": {
+   "fragment_id": "1025318075",
+   "type": 11,
+   "heading": "Artigo 48.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Comissões de serviço\n\n1 - As comissões de serviço dos directores-gerais ou equiparados ou de subdirectores-gerais ou equiparados dos serviços e organismos extintos nos termos do artigo 51.º do presente diploma cessam com a entrada em vigor deste decreto-lei.\n\n2 - Os cargos dirigentes dos serviços e organismos agora criados podem ser providos, antes de publicados os diplomas a que se refere o artigo 49.º, nos lugares constantes do anexo I a este diploma.\n\n3 - As comissões de serviço dos restantes dirigentes dos organismos extintos cessam com a publicação do presente diploma, mantendo-se os mesmos no exercício de funções de gestão corrente até à publicação dos diplomas referidos no n.º 4 do artigo 49.º"
+  },
+  "1025318375": {
+   "fragment_id": "1025318275",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "1025318575": {
+   "fragment_id": "1025318475",
+   "type": 11,
+   "heading": "Artigo 49.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regulamentação\n\n1 - A fixação das atribuições, organização e regime de funcionamento dos serviços e organismos agora criados ou restruturados na sequência da publicação deste diploma far-se-á por decreto regulamentar.\n\n2 - Os quadros de pessoal dos serviços e organismos referidos no número anterior serão aprovados por portaria conjunta dos Ministros da Economia e das Finanças e do membro do Governo que tutela a Administração Pública.\n\n3 - O Gabinete de Estudos e Prospectiva Económica, a Secretaria-Geral e as delegações regionais do Ministério da Economia mantêm, até à publicação dos respectivos regulamentos orgânicos, a expressão orgânica e orçamental dos anteriores serviços homólogos.\n\n4 - A publicação dos diplomas orgânicos dos serviços e organismos constantes dos artigos 4.º, 5.º, 6.º e 7.º deve ser efectuada no prazo de 120 dias contados a partir da data de entrada em vigor do presente diploma."
+  },
+  "1025318775": {
+   "fragment_id": "1025318675",
+   "type": 11,
+   "heading": "Artigo 50.º — Concessão de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Concessão de apoios\n\nO Ministro da Economia pode, no âmbito das atribuições do Ministério, autorizar a prestação de apoio material e financeiro a entidades públicas, privadas e cooperativas."
+  },
+  "1025318975": {
+   "fragment_id": "1025318875",
+   "type": 11,
+   "heading": "Artigo 51.º — Extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Extinção de serviços\n\nSão extintos a Direcção-Geral do Comércio, a Direcção-Geral de Concorrência e Preços, a Auditoria Jurídica do ex-Ministério da Indústria e Energia, a Auditoria Jurídica do ex-Ministério do Comércio e Turismo, o Gabinete de Estudos e Planeamento do ex-Ministério da Indústria e Energia, o Gabinete para os Assuntos Comunitários do ex-Ministério da Indústria e Energia, o Gabinete para os Assuntos Comunitários do ex-Ministério do Comércio e Turismo, a Secretaria-Geral do ex-Ministério da Industria e Energia, a Secretaria-Geral do ex-Ministério do Comércio e Turismo e as delegações regionais do ex-Ministério da Indústria e Energia."
+  },
+  "1025319175": {
+   "fragment_id": "1025319075",
+   "type": 11,
+   "heading": "Artigo 52.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Referências legais\n\nAs referências legais feitas aos ex-Ministérios da Indústria e Energia e do Comércio e Turismo consideram-se efectuadas ao Ministério da Economia."
+  },
+  "1025319375": {
+   "fragment_id": "1025319275",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 206/89, de 27 de Junho, bem como as demais disposições legais e regulamentares que contrariem o disposto no presente diploma."
+  },
+  "1025319575": {
+   "fragment_id": "1025319475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 6 de Novembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Novembro de 1996.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "1025319775": {
+   "fragment_id": "1025319675",
+   "type": 14,
+   "heading": "Anexo I — Mapa a que se refere o n.º 2 do artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Mapa a que se refere o n.º 2 do artigo 48.º\n\n(ver documento original)"
+  }
+ },
+ "unavailable_dates": [
+  "1996-11-25",
+  "1996-11-26"
+ ]
+}

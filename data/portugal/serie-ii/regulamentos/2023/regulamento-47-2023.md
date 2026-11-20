@@ -23,6 +23,16 @@ publication:
   pages: 593 - 599
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/011000000/0059300599.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, sendo também publicado em edital a afixar no edifício
+    da sede da Junta da Coriscada e no site institucional da autarquia (https://www.jf-c
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

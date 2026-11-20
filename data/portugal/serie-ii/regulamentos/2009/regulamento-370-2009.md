@@ -23,6 +23,15 @@ publication:
   pages: 34747 - 34751
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/165000000/3474734751.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo Conselho Cientifico e
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: a partir do ano escolar de 2009/20010
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

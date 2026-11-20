@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 697 - 703
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/099000000/0069700703.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-23'
+entry_into_force:
+  date: '2026-05-23'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

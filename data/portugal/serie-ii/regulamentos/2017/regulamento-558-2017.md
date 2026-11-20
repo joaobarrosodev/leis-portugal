@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 23640 - 23642
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/200000000/2364023642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-18'
+entry_into_force:
+  date: '2017-10-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1008945591:por#art-21'
+    detail: É revogado o [Regulamento n.º 558/2017], de 17 de outubro.
 notes: []
 language: por
 version:

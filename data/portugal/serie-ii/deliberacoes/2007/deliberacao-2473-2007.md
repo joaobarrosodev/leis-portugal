@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 37268 - 37269
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/247000000/3726837269.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-12-25'
+entry_into_force:
+  date: '2007-12-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e é apenas aplicável a pedidos de instalação de nova
+    farmácia ou de transferência formulados ao abrigo da Portaria n.º 1430/2007, de 2 de N
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

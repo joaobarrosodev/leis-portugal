@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5 - 17
   pdf_url: https://files.diariodarepublica.pt/2s/2003/04/093062000/0000500017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-05-21'
+entry_into_force:
+  date: '2003-05-21'
+  rule: 30 dias após a sua publicação em edital
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

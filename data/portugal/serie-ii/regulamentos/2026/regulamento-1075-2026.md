@@ -23,6 +23,15 @@ publication:
   pages: 543 - 557
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/154000000/0054300557.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

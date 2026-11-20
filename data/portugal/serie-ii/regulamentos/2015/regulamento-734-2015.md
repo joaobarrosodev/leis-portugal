@@ -23,6 +23,15 @@ publication:
   pages: 30632 - 30635
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/207000000/3063230635.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação e a afixação em local visível à entrada das Piscinas
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

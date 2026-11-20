@@ -23,6 +23,15 @@ publication:
   pages: 48765 - 48768
   pdf_url: https://files.diariodarepublica.pt/2s/2008/12/233000000/4876548768.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Fundação para a Ciência e a Tecnologia
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

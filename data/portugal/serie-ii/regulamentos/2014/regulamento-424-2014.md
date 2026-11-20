@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24838 - 24841
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/187000000/2483824841.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-30'
+entry_into_force:
+  date: '2014-09-30'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

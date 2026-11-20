@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 21458 - 21463
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/149000000/2145821463.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-04'
+entry_into_force:
+  date: '2015-08-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:70064399:por#art-41'
+    detail: É revogado o [Regulamento n.º 494/2015], publicado na 2.ª série do Diário da República de 3 de agosto de 2015.
 notes: []
 language: por
 version:

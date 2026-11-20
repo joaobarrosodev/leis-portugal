@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36675 - 36676
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/244000000/3667536676.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-01'
+entry_into_force:
+  date: '2007-08-01'
+  rule: a 01 de Agosto de 2007
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

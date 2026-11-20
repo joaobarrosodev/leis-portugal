@@ -23,6 +23,15 @@ publication:
   pages: 21 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/102053000/0002100028.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias seguidos, após a sua publicação
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

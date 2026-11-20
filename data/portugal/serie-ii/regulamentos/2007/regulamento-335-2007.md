@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 36276 - 36278
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/242000000/3627636278.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: 15 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

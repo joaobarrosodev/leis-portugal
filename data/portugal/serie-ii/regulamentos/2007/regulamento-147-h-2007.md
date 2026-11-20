@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 19642-(335) a 19642-(336)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/130000002/0033500336.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-14'
+entry_into_force:
+  date: '2007-07-14'
+  rule: cinco dias após a sua publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

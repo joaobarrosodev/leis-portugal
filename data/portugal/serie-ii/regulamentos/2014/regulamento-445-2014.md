@@ -23,6 +23,16 @@ publication:
   pages: 26053 - 26055
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/197000000/2605326055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos cinco dias sobre a publicitação da deliberação da Assembleia Municipal que o aprovar, no sítio da internet
+    do Município de Portel, em edital e em jornal regional, iniciando-se tal prazo a p
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

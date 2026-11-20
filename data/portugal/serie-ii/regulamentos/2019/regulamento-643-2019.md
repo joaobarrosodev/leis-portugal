@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 358 - 371
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/155000000/0035800371.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-15'
+entry_into_force:
+  date: '2019-08-15'
+  rule: no dia seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

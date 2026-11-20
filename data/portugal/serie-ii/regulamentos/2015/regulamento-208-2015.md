@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10606 - 10607
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/084000000/1060610607.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-09-16'
+entry_into_force:
+  date: '2014-09-16'
+  rule: no dia 16 de setembro de 2014 por deliberação do Conselho Diretivo
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

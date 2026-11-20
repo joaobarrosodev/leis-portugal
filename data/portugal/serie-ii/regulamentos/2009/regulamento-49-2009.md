@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3167 - 3189
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/014000000/0316703189.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-26'
+entry_into_force:
+  date: '2009-01-26'
+  rule: no 5.º dia após a sua publicação nos termos legais
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

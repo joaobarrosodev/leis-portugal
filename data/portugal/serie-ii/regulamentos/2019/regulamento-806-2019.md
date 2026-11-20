@@ -23,6 +23,15 @@ publication:
   pages: 345 - 352
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/197000000/0034500352.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicitação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 98 - 106
   pdf_url: https://files.diariodarepublica.pt/2s/2001/01/010006000/0009800106.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-02-01'
+entry_into_force:
+  date: '2001-02-01'
+  rule: 20 dias após a sua publicação
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

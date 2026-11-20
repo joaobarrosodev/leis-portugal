@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 555 - 560
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/131000000/0055500560.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-10'
+entry_into_force:
+  date: '2026-07-10'
+  rule: no dia seguinte ao da sua publicação no Diário da República, com efeitos retroativos à data da deliberação de autorização
+    de início de procedimento
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

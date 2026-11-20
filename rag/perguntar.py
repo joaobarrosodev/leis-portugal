@@ -66,7 +66,7 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
     if consulta.diplomas_em_falta:
         print(f"   ⚠ Não está no acervo: {', '.join(consulta.diplomas_em_falta)}")
     if resposta.jurisprudencia:
-        print("\n   Jurisprudência do Tribunal Constitucional sobre estes artigos")
+        print("\n   Jurisprudência sobre estes artigos (TC, e uniformização do STJ e do STA)")
         print("   (segunda resposta, separada da lei: tirada da decisão de cada acórdão, sem LLM; texto não autêntico)")
         artigos = list(dict.fromkeys(j["artigo"] for j in resposta.jurisprudencia))
         for artigo in artigos:
@@ -77,7 +77,7 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
                 if j["mostrar"]:
                     data = jurisprudencia.data_pt(j["data"])
                     quando = f", de {data}" if data else ""
-                    print(f"   · Acórdão n.º {j['numero']}{quando}: {jurisprudencia.ROTULOS.get(j['sentido'], j['sentido'])}")
+                    print(f"   · {jurisprudencia.titulo_acordao(j)}{quando}: {jurisprudencia.ROTULOS.get(j['sentido'], j['sentido'])}")
                     if j.get("url"):
                         print(f"     {j['url']}")
             resto = Counter(jurisprudencia.ROTULOS.get(j["sentido"], j["sentido"]).lower() for j in do_artigo if not j["mostrar"])

@@ -23,6 +23,15 @@ publication:
   pages: 26172 - 26180
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/142000000/2617226180.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a um de setembro de dois mil e doze e aplica-se a todos os alunos dos cursos de 2.º e de 3.º ciclos de estudos
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

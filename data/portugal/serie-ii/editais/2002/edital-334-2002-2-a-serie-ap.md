@@ -23,6 +23,15 @@ publication:
   pages: 10 - 30
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/164092000/0001000030.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia Municipal, 10 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

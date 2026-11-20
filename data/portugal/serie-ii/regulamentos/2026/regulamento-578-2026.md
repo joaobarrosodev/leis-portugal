@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 600 - 602
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/095000000/0060000602.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-19'
+entry_into_force:
+  date: '2026-05-19'
+  rule: no dia seguinte à sua publicação no Diário da República, 2.ª série e terá efeitos retroativos à data de 1 de janeiro
+    de 2026
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

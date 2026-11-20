@@ -23,6 +23,16 @@ publication:
   pages: 403 - 425
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/053000000/0040300425.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, devendo, após esta e no prazo de 10 dias ser publicitado
+    conforme o disposto no n.º 2 do artigo 18.º
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

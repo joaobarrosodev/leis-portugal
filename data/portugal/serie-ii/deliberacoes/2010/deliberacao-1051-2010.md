@@ -23,6 +23,15 @@ publication:
   pages: 32974 - 32976
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/115000000/3297432976.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pelo plenário do Senado Académico
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 275 - 288
   pdf_url: https://files.diariodarepublica.pt/2s/2019/11/228000000/0027500288.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-28'
+entry_into_force:
+  date: '2019-11-28'
+  rule: no dia imediato à sua publicação no Diário da República, devendo ainda ser publicitado por edital e afixado no edifício
+    dos Paços do Concelho e divulgado em todos os serviços e unidades orgânicas da C
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

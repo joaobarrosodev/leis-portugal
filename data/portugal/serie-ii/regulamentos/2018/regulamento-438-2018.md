@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19657 - 19659
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/137000000/1965719659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-02'
+entry_into_force:
+  date: '2018-08-02'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

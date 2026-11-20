@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/035000000/0864808653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:119236195:por#art-10'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 122/2011], publicado no Diário da República, 2.ª série, n.º
+      35 de 18 de fevereiro, que definia o perfil das competências comuns do enfermeiro especialista e estabelecia o quadro
+      de conceitos aplicáveis na regulamentação das competências específica
 notes: []
 language: por
 version:

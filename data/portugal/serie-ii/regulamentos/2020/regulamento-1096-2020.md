@@ -23,6 +23,15 @@ publication:
   pages: 288 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/245000000/0028800294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação por maioria em Assembleia de Freguesia de 29 de abril de 2018
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

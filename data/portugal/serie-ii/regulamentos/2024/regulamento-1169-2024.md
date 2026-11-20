@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 350 - 358
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/201000000/0035000358.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-17'
+entry_into_force:
+  date: '2024-10-17'
+  rule: no dia seguinte ao da sua publicação em 2.ª série de Diário da República, e após a sua aprovação em Reunião de Câmara
+    e da Assembleia Municipal
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

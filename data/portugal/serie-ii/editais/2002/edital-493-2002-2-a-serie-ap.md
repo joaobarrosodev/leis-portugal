@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 66 - 69
   pdf_url: https://files.diariodarepublica.pt/2s/2002/10/250137000/0006600069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-13'
+entry_into_force:
+  date: '2002-11-13'
+  rule: 15 dias após a sua publicação, feita pela afixação dos competentes editais ou por quaisquer meios adequados
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

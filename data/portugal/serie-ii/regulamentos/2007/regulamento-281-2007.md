@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30140 - 30144
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/201000000/3014030144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-10-19'
+entry_into_force:
+  date: '2007-10-19'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

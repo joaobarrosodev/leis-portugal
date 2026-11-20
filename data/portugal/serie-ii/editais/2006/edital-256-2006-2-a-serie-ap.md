@@ -23,6 +23,16 @@ publication:
   pages: 103 - 111
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/104049000/0010300111.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30.º dia útil após a sua publicação no Diário da República, para efeitos de apreciação pública, se nenhuma sugestão
+    de alteração for apresentada e aprovada pelos órgãos municipais competentes
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

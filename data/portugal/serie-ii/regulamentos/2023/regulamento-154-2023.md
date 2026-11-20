@@ -23,6 +23,16 @@ publication:
   pages: 376 - 388
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/022000000/0037600388.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ao décimo quinto dia após ao da sua publicação no Diário da República nos termos do n.º 4 do artigo 90-B do Regime
+    Financeiro das Autarquias Locais e das Entidades Intermunicipais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

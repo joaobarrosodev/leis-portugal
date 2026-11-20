@@ -23,6 +23,15 @@ publication:
   pages: 369 - 374
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/046000000/0036900374.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte ao da sua publicação do Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

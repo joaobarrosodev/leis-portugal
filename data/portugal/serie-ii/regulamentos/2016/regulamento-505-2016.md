@@ -23,6 +23,15 @@ publication:
   pages: 15972 - 15980
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/098000000/1597215980.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

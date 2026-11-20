@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27662 - 27664
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/152000000/2766227664.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-07'
+entry_into_force:
+  date: '2012-08-07'
+  rule: na data da sua publicação no Diário da República e
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: no ano letivo de 2012/2013
 end_of_validity_date: null
 legal_status: unknown
 notes: []

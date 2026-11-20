@@ -23,6 +23,15 @@ publication:
   pages: 30214 - 30216
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/204000000/3021430216.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia seguinte à sua publicitação nos termos do artigo 56.º da Lei n.º 75/2013 de 12 de setembro
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

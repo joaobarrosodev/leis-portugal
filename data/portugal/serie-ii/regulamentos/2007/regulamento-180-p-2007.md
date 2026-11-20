@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 22512-(152) a 22512-(156)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/151000002/0015200156.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-08'
+entry_into_force:
+  date: '2007-08-08'
+  rule: no dia seguinte à data da respectiva publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

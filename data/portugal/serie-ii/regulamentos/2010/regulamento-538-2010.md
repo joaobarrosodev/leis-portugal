@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 33061 - 33080
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/115000000/3306133080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-17'
+entry_into_force:
+  date: '2010-06-17'
+  rule: no dia imediato ao da publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

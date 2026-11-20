@@ -23,6 +23,15 @@ publication:
   pages: 445 - 451
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/133000000/0044500451.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação através de comunicação de serviço
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

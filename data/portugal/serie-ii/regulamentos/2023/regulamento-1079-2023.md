@@ -23,6 +23,15 @@ publication:
   pages: 164 - 186
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/196000000/0016400186.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia posterior à sua publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

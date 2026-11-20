@@ -23,6 +23,15 @@ publication:
   pages: 18315 - 18316
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/108000000/1831518316.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia da Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

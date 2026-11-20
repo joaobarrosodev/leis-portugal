@@ -23,6 +23,16 @@ publication:
   pages: 32008 - 32012
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/148000000/3200832012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quando aprovado pela FCT, nos termos do artigo 7.º do Estatuto do Bolseiro com a redação dada pela Lei n.º 40/2004,
+    de 18 de Agosto, e publicitado nos termos legais
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

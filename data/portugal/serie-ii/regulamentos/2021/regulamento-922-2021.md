@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 173 - 176
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/205000000/0017300176.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-22'
+entry_into_force:
+  date: '2021-10-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:207600267:por#art-11'
+    detail: O presente Regulamento revoga o [Regulamento n.º 922/2021], publicado no Diário da República, 2.ª série, n.º 205,
+      de 21 de outubro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:212003098:por#art-11'
+    detail: O presente Regulamento revoga o [Regulamento n.º 922/2021], publicado no Diário da República, 2.ª série, n.º 205
+      de 21 de outubro.
 notes: []
 language: por
 version:

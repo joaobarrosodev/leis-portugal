@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7132 - 7135
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/074000000/0713207135.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-13'
+entry_into_force:
+  date: '2017-04-13'
+  rule: após a sua publicação nos termos legais, ficando revogadas todas as disposições regulamentares que com ele estejam
+    em contradição
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 1980 - 1986
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/012000000/0198001986.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-24'
+entry_into_force:
+  date: '2016-01-24'
+  rule: 5 dias após sua publicação nos termos legais
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

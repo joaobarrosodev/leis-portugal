@@ -23,6 +23,15 @@ publication:
   pages: 30 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/176116000/0003000045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias úteis contados do dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

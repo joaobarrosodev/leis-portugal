@@ -23,6 +23,16 @@ publication:
   pages: 528 - 534
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/178000000/0052800534.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia após a sua publicitação no Diário da República, nos termos do disposto no artigo 139.º do Código de
+    Procedimento Administrativo e será igualmente objeto de publicitação no website do M
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

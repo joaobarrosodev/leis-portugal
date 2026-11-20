@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 40981 - 40982
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/147000000/4098140982.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-30'
+entry_into_force:
+  date: '2010-07-30'
+  rule: na data da sua publicação no Diário da República
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

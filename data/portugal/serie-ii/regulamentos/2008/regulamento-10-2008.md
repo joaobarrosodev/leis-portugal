@@ -23,6 +23,15 @@ publication:
   pages: 988 - 988
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/005000000/0098800988.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após serem feitas as aprovações e publicações exigidas por lei
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

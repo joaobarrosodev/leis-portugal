@@ -23,6 +23,15 @@ publication:
   pages: 252 - 256
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/141000000/0025200256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicitação e a partir da data da abertura do espaço
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

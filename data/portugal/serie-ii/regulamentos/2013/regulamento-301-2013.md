@@ -23,6 +23,15 @@ publication:
   pages: 24894 - 24895
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/150000000/2489424895.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal de Ponta Delgada e da sua publicitação no termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 47536 - 47548
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/226000000/4753647548.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-25'
+entry_into_force:
+  date: '2009-11-25'
+  rule: 5 dias após a sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

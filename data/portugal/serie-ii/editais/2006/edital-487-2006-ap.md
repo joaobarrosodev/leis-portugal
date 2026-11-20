@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 123 - 124
   pdf_url: https://files.diariodarepublica.pt/2s/2006/12/242087000/0012300124.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-12-19'
+entry_into_force:
+  date: '2006-12-19'
+  rule: a partir da data da sua publicação em Diário da República, aplicando-se aos casos de atribuição do direito de arrendamento
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

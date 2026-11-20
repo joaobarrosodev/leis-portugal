@@ -23,6 +23,15 @@ publication:
   pages: 176 - 200
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/142000000/0017600200.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-84
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

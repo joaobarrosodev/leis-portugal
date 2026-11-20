@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29 - 46
   pdf_url: https://files.diariodarepublica.pt/2s/2003/10/247157000/0002900046.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-11-03'
+entry_into_force:
+  date: '2003-11-03'
+  rule: no 10.º dia posterior ao da respectiva publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

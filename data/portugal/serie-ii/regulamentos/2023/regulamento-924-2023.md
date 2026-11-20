@@ -23,6 +23,15 @@ publication:
   pages: 776 - 792
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/158000000/0077600792.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias úteis após a sua publicação em edital a afixar no edifício sede da União das Freguesias
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

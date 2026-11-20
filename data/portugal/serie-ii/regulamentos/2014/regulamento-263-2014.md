@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 16515 - 16517
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/120000000/1651516517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-26'
+entry_into_force:
+  date: '2014-06-26'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:122164621:por#art-17'
+    detail: O presente Regulamento revoga o [Regulamento n.º 263/2014], publicado na 2.ª série do Diário da República n.º
+      120, de 25 de junho de 2014.
 notes: []
 language: por
 version:

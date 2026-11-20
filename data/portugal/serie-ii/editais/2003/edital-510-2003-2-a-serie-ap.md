@@ -23,6 +23,15 @@ publication:
   pages: 43 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/155100000/0004300048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 10 dia do mês seguinte à aprovação da Assembleia Municipal e respectiva publicação no Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

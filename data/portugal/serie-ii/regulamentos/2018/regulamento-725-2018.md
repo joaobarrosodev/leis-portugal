@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 28872 - 28873
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/207000000/2887228873.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-26'
+entry_into_force:
+  date: '2018-10-26'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1192911865:por#art-24'
+    detail: O presente Regulamento revoga o [Regulamento n.º 725/2018], publicado no Diário da República, 2.ª série, n.º 207,
+      de 26 de outubro de 2018.
 notes: []
 language: por
 version:

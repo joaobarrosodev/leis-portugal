@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 33 - 40
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/211139000/0003300040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-27'
+entry_into_force:
+  date: '2003-09-27'
+  rule: 15 dias após a sua publicação e revoga o preceituado no Regulamento de Resíduos Sólidos anterior, de 8 de Outubro
+    de 2001 que entrou em vigor em 27 de Novembro desse mesmo ano
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

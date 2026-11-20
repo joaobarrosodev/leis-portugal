@@ -23,6 +23,15 @@ publication:
   pages: 6738 - 6747
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/081000000/0673806747.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos precisos termos neles previstos e são publicados em anexo
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

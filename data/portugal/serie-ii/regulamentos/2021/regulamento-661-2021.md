@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 502 - 526
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/137000000/0050200526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-16'
+entry_into_force:
+  date: '2021-07-16'
+  rule: após a sua publicação em edital a afixar nos edifícios da Junta de Freguesias
+  method: clausula
+  article: art-81
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

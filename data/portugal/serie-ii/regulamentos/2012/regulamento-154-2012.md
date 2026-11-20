@@ -23,6 +23,15 @@ publication:
   pages: 14730 - 14734
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/081000000/1473014734.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação, nos termos da Lei das Finanças Locais
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

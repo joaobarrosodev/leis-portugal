@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17749 - 17753
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/076000000/1774917753.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-18'
+entry_into_force:
+  date: '2008-04-18'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

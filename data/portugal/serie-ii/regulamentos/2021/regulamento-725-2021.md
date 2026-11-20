@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 611 - 640
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/148000000/0061100640.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-01'
+entry_into_force:
+  date: '2021-05-01'
+  rule: no dia 1 de maio de 2021, sem prejuízo do disposto no número seguinte
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

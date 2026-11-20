@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30351 - 30357
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/131000000/3035130357.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-10'
+entry_into_force:
+  date: '2008-07-10'
+  rule: no dia seguinte à publicação no Diário da República, sendo publicitado na página electrónica do Município, nos termos
+    do n.º 3 do artigo 5.º da Lei n.º 12-A/08 de 27 de Fevereiro
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

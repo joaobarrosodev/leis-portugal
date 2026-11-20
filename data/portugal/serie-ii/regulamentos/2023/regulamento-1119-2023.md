@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 186 - 204
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/203000000/0018600204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-20'
+entry_into_force:
+  date: '2023-10-20'
+  rule: no dia imediato à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

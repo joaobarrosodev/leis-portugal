@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 86 - 90
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/163108000/0008600090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-01'
+entry_into_force:
+  date: '2003-08-01'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

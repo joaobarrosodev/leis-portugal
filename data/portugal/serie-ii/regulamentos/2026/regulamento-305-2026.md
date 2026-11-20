@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 260 - 266
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/060000000/0026000266.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-27'
+entry_into_force:
+  date: '2026-03-27'
+  rule: a partir do dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: '2026-03-27'
+  effects_rule: a partir do dia seguinte ao da sua publicação no Diário da República
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

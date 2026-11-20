@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31514 - 31517
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/204000000/3151431517.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-29'
+entry_into_force:
+  date: '2016-10-29'
+  rule: cinco dias após a data da sua publicação nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

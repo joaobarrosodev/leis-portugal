@@ -23,6 +23,15 @@ publication:
   pages: 29865 - 29866
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/203000000/2986529866.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia Municipal de Marco de Canaveses
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

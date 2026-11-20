@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7698 - 7700
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/051000000/0769807700.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-18'
+entry_into_force:
+  date: '2019-03-18'
+  rule: no quinto dia após a sua publicação no Diário da República, nos termos do disposto no artigo 140.º do Código do Procedimento
+    Administrativo
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8118 - 8120
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/053000000/0811808120.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Reitor e publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

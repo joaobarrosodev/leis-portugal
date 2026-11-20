@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15120 - 15144
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/101000000/1512015144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-05-26'
+entry_into_force:
+  date: '2018-05-26'
+  rule: no dia seguinte à sua publicação, substituindo os anteriores, os quais ficam expressamente revogados a partir daquela
+    data
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

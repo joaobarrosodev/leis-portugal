@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11040 - 11042
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/068000000/1104011042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-06'
+entry_into_force:
+  date: '2019-04-06'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 121 - 123
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/140080000/0012100123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-20'
+entry_into_force:
+  date: '2002-06-20'
+  rule: após a sua publicação no Diário da República, 2.ª série, e depois de decorrido o prazo previsto no n.º 4 do artigo
+    29.º da Lei n.º 42/98, de 6 de Agosto
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

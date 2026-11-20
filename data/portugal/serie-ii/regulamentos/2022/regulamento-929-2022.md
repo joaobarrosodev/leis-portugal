@@ -23,6 +23,15 @@ publication:
   pages: 334 - 340
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/195000000/0033400340.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia imediatamente seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

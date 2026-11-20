@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 17
   pdf_url: https://files.diariodarepublica.pt/2s/2004/04/096049000/0001100017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-08'
+entry_into_force:
+  date: '2004-05-08'
+  rule: 15 dias após a sua publicação em edital nos lugares de estilo
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

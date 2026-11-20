@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 555 - 559
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/125000000/0055500559.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-07'
+entry_into_force:
+  date: '2025-07-07'
+  rule: no 5.º dia após a sua publicação no Diário da República, sendo ainda publicitado no sítio da internet da Junta de
+    Freguesia de Estrela
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

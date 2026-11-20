@@ -23,6 +23,15 @@ publication:
   pages: 18674 - 18678
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/134000000/1867418678.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua aprovação em sede de Assembleia Municipal
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

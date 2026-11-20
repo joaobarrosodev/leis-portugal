@@ -23,6 +23,15 @@ publication:
   pages: 27448 - 27448
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/181000000/2744827448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em conselho científico, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

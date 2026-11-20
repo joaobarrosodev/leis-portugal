@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/051000000/0758907590.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:129967174:por#art-13'
+    detail: É revogado o [Regulamento n.º 212/2019], de 13 de março.
 notes: []
 language: por
 version:

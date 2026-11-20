@@ -24,6 +24,15 @@ publication:
   pages: 6887 - 6896
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/055000000/0688706896.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: aquando da atualização e aprovação do respetivo tarifário
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

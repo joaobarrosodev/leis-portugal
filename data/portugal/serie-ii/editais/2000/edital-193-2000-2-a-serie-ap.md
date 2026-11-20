@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 31 - 39
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/120078000/0003100039.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-23'
+entry_into_force:
+  date: '2000-06-23'
+  rule: 30 dias após a sua publicação no Diário da República, 2.ª série, e após a deliberação da Assembleia Municipal de Ponte
+    de Lima que o aprovar, precedida da sua publicitação e apreciação pública a reali
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

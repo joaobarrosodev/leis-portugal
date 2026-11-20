@@ -23,6 +23,15 @@ publication:
   pages: 4 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2004/07/160091000/0000400012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 358 - 365
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/187000000/0035800365.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após ser colocado para consulta pública e consequente aprovação pelo órgão deliberativo da Freguesia e sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 157 - 162
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/169000000/0015700162.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-05'
+entry_into_force:
+  date: '2019-09-05'
+  rule: no dia seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

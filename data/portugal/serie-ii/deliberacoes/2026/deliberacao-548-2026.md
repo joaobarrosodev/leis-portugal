@@ -24,6 +24,16 @@ publication:
   pages: 219 - 220
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/088000000/0021900220.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação, ficando ratificados todos os atos, entretanto praticados pelos referidos dirigentes, no
+    âmbito das respetivas funções desde que conformes com a lei, os estatutos e as orienta
+  method: clausula
+  article: n-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/044031000/0003500038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-03-18'
+entry_into_force:
+  date: '2005-03-18'
+  rule: 15 dias após a sua publicação final no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 161 - 170
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/045000000/0016100170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1079638476:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 189/2020], publicado no Diário da República, 2.ª série, n.º 45
+      de 04 de março de 2020.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 364 - 372
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/174000000/0036400372.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia de Freguesia de Alvarães e publicação nos meios legalmente previstos
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

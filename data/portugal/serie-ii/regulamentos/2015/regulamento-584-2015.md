@@ -23,6 +23,15 @@ publication:
   pages: 24274 - 24281
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/164000000/2427424281.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

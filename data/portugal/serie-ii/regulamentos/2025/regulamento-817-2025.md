@@ -23,6 +23,16 @@ publication:
   pages: 301 - 306
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/130000000/0030100306.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após a sua aprovação pela assembleia geral, nos termos do disposto no artigo 22.º n.º 1 alínea h) do Estatuto da
+    Ordem dos Farmacêuticos, e publicação na 2.ª série do Diário da República e em meio de '
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

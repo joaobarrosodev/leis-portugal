@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 73 - 75
   pdf_url: https://files.diariodarepublica.pt/2s/2003/02/032023000/0007300075.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-02-22'
+entry_into_force:
+  date: '2003-02-22'
+  rule: 15 dias sobre a data da publicação e respectiva afixação nos termos do n.º 4 do artigo 29.º da Lei n.º 42/98, de 6
+    de Agosto, a qual se efectuará depois de aprovada pela Assembleia de Freguesia
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

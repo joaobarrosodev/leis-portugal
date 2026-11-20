@@ -23,6 +23,15 @@ publication:
   pages: 5302 - 5304
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/023000000/0530205304.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2009-2010
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

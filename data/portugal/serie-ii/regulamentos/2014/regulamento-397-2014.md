@@ -23,6 +23,15 @@ publication:
   pages: 23326 - 23328
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/172000000/2332623328.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da candidatura para o ano letivo 2014 -2015, inclusive
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 525 - 533
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/139000000/0052500533.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: a partir do ano letivo 2021/2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

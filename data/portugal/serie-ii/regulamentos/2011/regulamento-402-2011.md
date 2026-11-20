@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 28474 - 28476
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/128000000/2847428476.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-06'
+entry_into_force:
+  date: '2011-07-06'
+  rule: na data da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 36399 - 36401
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/245000000/3639936401.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'a partir da inscrição nas Provas Especialmente Adequadas Destinadas a Avaliar a Capacidade dos Maiores de 23 Anos
+    para a Frequência do Ensino Superior na Escola Superior de Educação de Lisboa, para o '
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

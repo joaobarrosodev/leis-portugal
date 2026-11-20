@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 445 - 450
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/201000000/0044500450.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-21'
+entry_into_force:
+  date: '2026-10-21'
+  rule: no quinto dia seguinte ao da sua publicação, nos termos legais em vigor
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 335 - 337
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/222000000/0033500337.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-26'
+entry_into_force:
+  date: '2023-11-26'
+  rule: dez dias após a sua publicação no Diário da República nos termos legais, sem prejuízo da sua publicação no site oficial
+    da Junta de Freguesia de Alfena
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10568 - 10572
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/102000000/1056810572.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-10'
+entry_into_force:
+  date: '2017-06-10'
+  rule: no 15.º dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

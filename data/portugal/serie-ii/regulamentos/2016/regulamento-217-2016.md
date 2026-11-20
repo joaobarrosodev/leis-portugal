@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7556 - 7559
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/043000000/0755607559.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-03'
+entry_into_force:
+  date: '2016-03-03'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República, e será disponibilizado no sítio do ISLA
+    - IPGT na Internet
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

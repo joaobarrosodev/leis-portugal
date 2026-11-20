@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 104 - 106
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/158000000/0010400106.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-18'
+entry_into_force:
+  date: '2025-10-18'
+  rule: 60 dias após a sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

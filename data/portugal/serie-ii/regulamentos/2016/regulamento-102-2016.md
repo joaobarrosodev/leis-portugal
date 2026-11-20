@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/020000000/0348803490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:119910394:por#art-17'
+    detail: É revogado o [Regulamento n.º 102/2016] publicado na 2.ª série do Diário da República n.º 20/2016, Série II, de
+      29 de janeiro de 2016.
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3483 - 3484
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/016000000/0348303484.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-28'
+entry_into_force:
+  date: '2019-01-28'
+  rule: no quinto dia após a sua publicação, nos termos do disposto no artigo 140.º do Código do Procedimento Administrativo,
+    aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

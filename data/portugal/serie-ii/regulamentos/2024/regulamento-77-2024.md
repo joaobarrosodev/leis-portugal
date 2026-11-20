@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 195 - 231
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/015000000/0019500231.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-23'
+entry_into_force:
+  date: '2024-01-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

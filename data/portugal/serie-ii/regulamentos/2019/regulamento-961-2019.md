@@ -23,6 +23,16 @@ publication:
   pages: 359 - 361
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/242000000/0035900361.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação, mediante edital a afixar nos locais de estilo, incluindo divulgação no
+    sítio da internet do município
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 265 - 281
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/166000000/0026500281.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-29'
+entry_into_force:
+  date: '2023-08-29'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

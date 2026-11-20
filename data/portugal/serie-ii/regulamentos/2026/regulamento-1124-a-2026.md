@@ -23,6 +23,15 @@ publication:
   pages: 2 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/160000001/0000200038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

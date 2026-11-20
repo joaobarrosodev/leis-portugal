@@ -32,11 +32,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-12-31'
+  consolidation_date: '2026-11-06'
 version_history:
   file: decreto-legislativo-regional-3-2001-m.versoes.json
-  count: 26
-  source_lastmod: '2024-07-29'
+  count: 27
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2001-02-22'
     amending: null
@@ -171,6 +171,11 @@ version_history:
     amending_title: Decreto Legislativo Regional n.º 8/2025/M
     changes:
     - Altera Artigo 2.º
+  - date: '2026-11-06'
+    amending: pt:dre:1191346240:por
+    amending_title: Decreto Legislativo Regional n.º 17/2026/M
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/3/2001/m/cons/20251230/pt/html
@@ -185,19 +190,19 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2001/m/cons/20251230/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760
-  retrieved_at: '2026-10-22T13:11:39Z'
+  retrieved_at: '2026-11-20T13:50:28Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-07-29T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
-  source_sha256: 0dc6f430caf38e10a9b6b3fff8e2ffafdd5b5b7d0267f296257d4037a5a74b76
+  source_sha256: 78eecb29b242dd868bf8e33e1dfced59f91da353bffb3ea0e90fbb57b8eb10df
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:11:39Z'
-  notes: 26 versão(ões); histórico completo em decreto-legislativo-regional-3-2001-m.versoes.json.
+  generated_at: '2026-11-20T13:50:28Z'
+  notes: 27 versão(ões); histórico completo em decreto-legislativo-regional-3-2001-m.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -347,6 +352,11 @@ relationships:
   label: Altera Artigo 2.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451
   date: '2025-12-30'
+- type: amended_by
+  target: pt:dre:1191346240:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2026-1191346240
+  date: '2026-11-05'
 - type: cites
   target: pt:dre:210978:por
   label: null
@@ -384,7 +394,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:11:39Z'
+  checked_at: '2026-11-20T13:50:28Z'
   warnings: []
   errors: []
 ---
@@ -421,24 +431,28 @@ Este diploma tem por objecto a definição do regime de redução das taxas do i
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-| Rendimento coletável (euro) | Taxas (percentagem) |  |
+| Rendimento coletável (em euros) | Taxas (em percentagem) |  |
 | --- | --- | --- |
 | Normal (A) | Média (B) |  |
-| Até 8 342 | 8,75 | 8,750 |
-| De mais de 8 342 até 12 587 | 10,99 | 9,505 |
-| De mais de 12 587 até 17 838 | 14,84 | 11,076 |
-| De mais de 17 838 até 23 089 | 16,87 | 12,394 |
-| De mais de 23 089 até 29 397 | 21,77 | 14,406 |
-| De mais de 29 397 até 43 090 | 24,43 | 17,591 |
-| De mais de 43 090 até 46 566 | 30,17 | 18,530 |
-| De mais de 46 566 até 86 634 | 31,22 | 24,399 |
-| Superior a 86 634 | 33,60 | - |
+| Até 8 342 | 8,54 | 8,540 |
+| De mais de 8 342 até 12 587 | 10,64 | 9,248 |
+| De mais de 12 587 até 17 838 | 14,49 | 10,791 |
+| De mais de 17 838 até 23 089 | 16,52 | 12,094 |
+| De mais de 23 089 até 29 397 | 21,42 | 14,095 |
+| De mais de 29 397 até 43 090 | 24,22 | 17,313 |
+| De mais de 43 090 até 46 566 | 30,17 | 18,272 |
+| De mais de 46 566 até 86 634 | 31,22 | 24,261 |
+| Superior a 86 634 | 33,60 |  |
 
 2 - O quantitativo do rendimento coletável, quando superior a 8 342 euros, é dividido em duas partes, nos seguintes termos: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da coluna (A) respeitante ao escalão imediatamente superior.
+
 3 - A tabela de taxas prevista no n.º 1 é aplicável aos rendimentos obtidos pelos sujeitos passivos de IRS residentes na Região Autónoma da Madeira referidos na alínea a) do artigo 12.º da Lei n.º 13/98, de 24 de Fevereiro.
+
 4 - Na determinação do critério de residência dos sujeitos passivos de imposto em cada uma das circunscrições do território nacional é aplicável o disposto no artigo 17.º do CIRS.
 
 > Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) As alterações introduzidas pelo Decreto Legislativo Regional n.º 12/2020/M ao presente artigo, produzem efeitos desde 1 de janeiro de 2020, aplicando-se a taxa de Imposto sobre o Rendimento das Pessoas Coletivas aos períodos de tributação que se iniciem em ou após essa data.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2026/M - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2026-1191346240), em vigor a partir de 2026-11-06, com efeitos a partir de 2026-01-01.
 
 > Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01
 

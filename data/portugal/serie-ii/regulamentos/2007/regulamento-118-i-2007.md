@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16750-(238) a 16750-(241)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/114000001/0023800241.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-16'
+entry_into_force:
+  date: '2007-06-16'
+  rule: no dia seguinte ao da publicação de edital, na imprensa local e em boletim da autarquia
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

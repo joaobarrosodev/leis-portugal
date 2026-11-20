@@ -23,6 +23,15 @@ publication:
   pages: 3800 - 3805
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/022000000/0380003805.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 dias úteis após a sua publicitação nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 35436 - 35438
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/166000000/3543635438.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-08-31'
+entry_into_force:
+  date: '2011-08-31'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:901536149:por#art-13'
+    detail: É revogado o [Regulamento n.º 514/2011], de 22 de agosto, publicado no Diário da República, 2.ª série, n.º 166,
+      de 30 de agosto.
 notes: []
 language: por
 version:

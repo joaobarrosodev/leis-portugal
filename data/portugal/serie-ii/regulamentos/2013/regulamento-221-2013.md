@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19057 - 19059
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/112000000/1905719059.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-06-17'
+entry_into_force:
+  date: '2013-06-17'
+  rule: 5 dias após a sua publicação na II serie do Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

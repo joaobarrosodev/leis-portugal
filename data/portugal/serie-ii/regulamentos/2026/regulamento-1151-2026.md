@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 385 - 393
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/172000000/0038500393.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-19'
+entry_into_force:
+  date: '2026-09-19'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

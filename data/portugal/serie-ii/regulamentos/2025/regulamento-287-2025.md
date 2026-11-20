@@ -23,6 +23,15 @@ publication:
   pages: 573 - 583
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/041000000/0057300583.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

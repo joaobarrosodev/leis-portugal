@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 46931 - 46933
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/229000000/4693146933.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-11-30'
+entry_into_force:
+  date: '2011-11-30'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

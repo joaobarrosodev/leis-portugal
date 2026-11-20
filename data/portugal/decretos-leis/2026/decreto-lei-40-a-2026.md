@@ -46,7 +46,7 @@ version:
 version_history:
   file: decreto-lei-40-a-2026.versoes.json
   count: 4
-  source_lastmod: null
+  source_lastmod: '2026-10-21'
   versions:
   - date: '2026-03-21'
     amending: pt:dre:1075294793:por
@@ -96,10 +96,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40-a/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1051076679
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1051076679
-  retrieved_at: '2026-10-22T14:06:04Z'
+  retrieved_at: '2026-11-20T13:48:41Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: null
+  source_modified_at: '2026-10-21T00:00:00Z'
 integrity:
   source_sha256: 7845f79902e6c6cec4ef7d81fdfd126dd1c4f486d6b6385d06dab9a717812abf
   source_sha256_scope: official_source_content_bytes
@@ -107,7 +107,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:06:04Z'
+  generated_at: '2026-11-20T13:48:41Z'
   notes: 4 versão(ões); histórico completo em decreto-lei-40-a-2026.versoes.json.
 reuse:
   status: permitted
@@ -230,7 +230,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:06:04Z'
+  checked_at: '2026-11-20T13:48:41Z'
   warnings: []
   errors: []
 ---

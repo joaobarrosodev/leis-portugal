@@ -23,6 +23,15 @@ publication:
   pages: 93 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/242000000/0009300094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

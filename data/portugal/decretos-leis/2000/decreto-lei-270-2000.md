@@ -40,18 +40,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2008-07-21'
 version_history:
   file: decreto-lei-270-2000.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-18'
   versions:
-  - date: '2000-11-07'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2008-07-21'
     amending: pt:dre:456492:por
     amending_title: Decreto-Lei n.º 116/2008
@@ -72,21 +68,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2000-622303
   metadata_url: https://data.dre.pt/eli/dec-lei/270/2000/11/07/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2000-622303
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:20:23Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006948885
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006948885
+  retrieved_at: '2026-11-20T13:53:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: c258b4648132428c00b4c14951e6fe175d93fa75b8293a6cd9b505f3d042274b
+  source_sha256: 202dc8f032ace7125bb4780c91d81bf885d1f495cc34d83121be40d84c61e3ff
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:20:23Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116/2008. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-270-2000.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:45Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-270-2000.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,25 +123,23 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/262/1999/07/08/p/dre
 article_structure:
   article_count: 17
-  section_count: 2
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:20:23Z'
+  checked_at: '2026-11-20T13:53:45Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 270/2000
 
-de 7 de Novembro
+Os Serviços Sociais da Guarda Nacional Republicana (SSGNR), pessoa colectiva de direito público dotada de autonomia administrativa e financeira, cujo estatuto está hoje contido no Decreto-Lei n.º 262/99, de 8 de Julho, desenvolveram, durante longo tempo, a sua acção no domínio da habitação social tendo em vista propiciar alojamento aos agregados familiares dos seus beneficiários em condições compatíveis com a sua capacidade económica, promovendo, para esse efeito, a construção de casas destinadas a arrendamento simples ou a aquisição a prazo mediante amortizações módicas. Assim, desde a sua criação os SSGNR adquiriram um vasto património imobiliário.
 
-Os Serviços Sociais da Guarda Nacional Republicana (SSGNR), pessoa colectiva de direito público dotada de autonomia administrativa e financeira, cujo estatuto está hoje contido no [Decreto-Lei n.º 262/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1999-374995), de 8 de Julho, desenvolveram, durante longo tempo, a sua acção no domínio da habitação social tendo em vista propiciar alojamento aos agregados familiares dos seus beneficiários em condições compatíveis com a sua capacidade económica, promovendo, para esse efeito, a construção de casas destinadas a arrendamento simples ou a aquisição a prazo mediante amortizações módicas. Assim, desde a sua criação os SSGNR adquiriram um vasto património imobiliário.
-
-A prossecução dos fins dos SSGNR, definidos no seu Estatuto, aprovado pelo [Decreto-Lei n.º 262/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1999-374995), de 8 de Julho, impõe, como medida visando a redução de custos e o acréscimo de meios financeiros a aplicar em investimentos de cariz social, dando um novo impulso à satisfação das necessidades habitacionais dos seus beneficiários, que se proceda à alienação desse património da forma mais conveniente.
+A prossecução dos fins dos SSGNR, definidos no seu Estatuto, aprovado pelo Decreto-Lei n.º 262/99, de 8 de Julho, impõe, como medida visando a redução de custos e o acréscimo de meios financeiros a aplicar em investimentos de cariz social, dando um novo impulso à satisfação das necessidades habitacionais dos seus beneficiários, que se proceda à alienação desse património da forma mais conveniente.
 
 Para tanto são agora definidas regras quanto à sua venda, e, como medida prévia e indispensável em relação à mesma, à semelhança, aliás, da solução que foi legalmente adoptada para outros patrimónios imobiliários especialmente afectados, como por exemplo o do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), criadas normas que permitam a regularização da sua situação a nível registal, sem as quais as primeiras se quedariam letra morta.
 
@@ -153,7 +147,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Disposições gerais
+### Capítulo I — Disposições gerais
 
 ###### Artigo 1.º — Âmbito
 
@@ -169,7 +163,7 @@ b) De dispensa da apresentação de licença de construção e de autorização 
 
 2 - O disposto na alínea b) do número anterior aplica-se também aos actos que venham a ser praticados por futuros titulares de direitos reais sobre esses imóveis.
 
-> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21.
 
 ###### Artigo 3.º — Primeira inscrição no registo predial
 
@@ -183,7 +177,7 @@ b) De dispensa da apresentação de licença de construção e de autorização 
 
 Para a constituição em propriedade horizontal de um dos edifícios a que alude o artigo 1.º é suficiente a declaração dos SSGNR de que as fracções autónomas que o compõem satisfazem os requisitos legais, com as especificações do artigo 1418.º do Código Civil.
 
-### CAPÍTULO II — Venda de imóveis
+### Capítulo II — Venda de imóveis
 
 ###### Artigo 5.º — Normas aplicáveis
 
@@ -201,7 +195,7 @@ A venda dos imóveis referidos no artigo 1.º rege-se pelo disposto neste capít
 
 5 - Os negócios celebrados contra o disposto neste artigo são nulos.
 
-> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21.
 
 ###### Artigo 7.º — Venda de imóvel arrendado
 
@@ -235,7 +229,7 @@ sendo V o valor actualizado, Cf um valor relativo ao nível de conforto, Cc um f
 
 5 - O valor base do factor Cc referido no n.º 2 é o previsto na legislação aplicável à alienação de fogos de habitação social propriedade do IGAPHE e do Instituto de Gestão Financeira da Segurança Social.
 
-6 - O valor do factor Pc referido no n.º 2 é o que for fixado por diploma legal, em cada ano, para efeitos de cálculo do valor actualizado dos imóveis abrangidos pelo [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril.
+6 - O valor do factor Pc referido no n.º 2 é o que for fixado por diploma legal, em cada ano, para efeitos de cálculo do valor actualizado dos imóveis abrangidos pelo Decreto-Lei n.º 141/88, de 22 de Abril.
 
 7 - O coeficiente de vetustez (Vt) referido no n.º 2 é o que consta da tabela anexa ao presente diploma, em função do número inteiro de anos decorridos desde a data de emissão da licença de utilização, quando exista, ou da data da primeira ocupação da fracção autónoma ou edifício.
 
@@ -267,7 +261,7 @@ sendo V o valor actualizado, Cf um valor relativo ao nível de conforto, Cc um f
 
 3 - O comprador deve entregar aos SSGNR, no momento da celebração do contrato, declaração no sentido de que reconhece adquirir o imóvel no estado em que o mesmo se encontra.
 
-> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21.
 
 ###### Artigo 12.º — Recusa de compra
 
@@ -295,7 +289,7 @@ c) O contrato de arrendamento relativo ao imóvel para onde é feita a transfer�
 
 3 - O remanescente do preço deve ser integralmente pago nesse acto, se o não tiver sido antes, por iniciativa do comprador.
 
-> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21.
 
 ###### Artigo 15.º — Edifícios implantados em terrenos do Estado
 
@@ -323,6 +317,6 @@ Referendado em 26 de Outubro de 2000.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Tabela a que se refere o artigo 8.º, n.º 7
+## Anexo — Tabela a que se refere o artigo 8.º, n.º 7
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/257a00/61996202.pdf)
+(ver tabela no documento original)

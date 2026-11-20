@@ -24,6 +24,16 @@ publication:
   pages: 20259 - 20260
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/143000000/2025920260.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República, e no sítio oficial do Município, na Internet, sem
+    prejuízo dos efeitos retroativos atribuidos pelo artigo 12.º do presente Regulamento
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

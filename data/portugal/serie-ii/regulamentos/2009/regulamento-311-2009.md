@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/141000000/2926229263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1786758:por#art-20'
+    detail: Com o presente regulamento é revogado o [Regulamento n.º 311/2009], de 23 de julho, publicado na 2.ª série do
+      Diário da República e o regulamento interno da FCM em vigor no ano letivo 2012-2013.
 notes: []
 language: por
 version:

@@ -23,8 +23,24 @@ publication:
   pages: 281 - 284
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/179000000/0028100284.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, nos termos do disposto no artigo 140.º do CPA
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:183432784:por#art-16'
+    detail: Fica revogado o [Regulamento n.º 859/2021], publicado no Diário da República, 2.ª série, n.º 179, de 14 de setembro
+      de 2021.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 4361 - 4375
   pdf_url: https://files.diariodarepublica.pt/2s/2014/02/030000000/0436104375.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes e publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

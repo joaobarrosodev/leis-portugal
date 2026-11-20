@@ -23,6 +23,15 @@ publication:
   pages: 78 - 81
   pdf_url: https://files.diariodarepublica.pt/2s/2005/11/214146000/0007800081.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua aprovação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

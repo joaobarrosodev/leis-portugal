@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16468 - 16474
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/071000000/1646816474.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-11'
+entry_into_force:
+  date: '2008-04-11'
+  rule: no dia a seguir à sua publicação
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

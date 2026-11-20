@@ -23,6 +23,15 @@ publication:
   pages: 501 - 520
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/036000000/0050100520.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias, após a sua publicitação nos termos legais
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

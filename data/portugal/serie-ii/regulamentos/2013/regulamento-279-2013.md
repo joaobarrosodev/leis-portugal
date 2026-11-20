@@ -23,6 +23,15 @@ publication:
   pages: 22723 - 22725
   pdf_url: https://files.diariodarepublica.pt/2s/2013/07/137000000/2272322725.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia a seguir à publicitação do regulamento no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

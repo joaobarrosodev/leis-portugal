@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29886 - 29887
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/199000000/2988629887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-15'
+entry_into_force:
+  date: '2007-11-15'
+  rule: 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

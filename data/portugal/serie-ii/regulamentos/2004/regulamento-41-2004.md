@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15193 - 15196
   pdf_url: https://files.diariodarepublica.pt/2s/2004/10/243000000/1519315196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-10-16'
+entry_into_force:
+  date: '2004-10-16'
+  rule: no dia imediato ao da sua publicação, após homologação pelo Secretário de Estado do Desporto
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

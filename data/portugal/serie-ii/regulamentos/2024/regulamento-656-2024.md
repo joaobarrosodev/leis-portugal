@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/114000000/0014500157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1020448496:por#art-3'
+    detail: É revogado o [Regulamento n.º 656/2024] -, publicado no Diário da República, 2.ª série, N.º 114, de 14 de junho.
 notes: []
 language: por
 version:

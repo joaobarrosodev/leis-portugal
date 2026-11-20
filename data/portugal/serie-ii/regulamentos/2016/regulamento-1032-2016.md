@@ -23,6 +23,15 @@ publication:
   pages: 33872 - 33877
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/218000000/3387233877.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia útil contado do dia seguinte ao da publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

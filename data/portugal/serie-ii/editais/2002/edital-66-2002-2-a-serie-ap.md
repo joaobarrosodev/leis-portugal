@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 40 - 43
   pdf_url: https://files.diariodarepublica.pt/2s/2002/02/042015000/0004000043.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-06'
+entry_into_force:
+  date: '2002-03-06'
+  rule: no prazo de 15 dias após a sua publicação legal
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

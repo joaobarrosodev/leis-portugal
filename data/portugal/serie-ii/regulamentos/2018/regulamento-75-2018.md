@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3427 - 3433
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/020000000/0342703433.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-01'
+entry_into_force:
+  date: '2018-02-01'
+  rule: no 1.º dia do mês seguinte à publicação no Diário da República
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

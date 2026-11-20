@@ -23,6 +23,16 @@ publication:
   pages: 293 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/084000000/0029300300.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a eficácia do despacho do Secretariado Executivo Intermunicipal que crie as unidades orgânicas flexíveis e as
+    equipas multidisciplinares
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

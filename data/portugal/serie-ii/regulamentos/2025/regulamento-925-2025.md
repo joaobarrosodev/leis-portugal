@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 511 - 519
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/141000000/0051100519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-08'
+entry_into_force:
+  date: '2025-08-08'
+  rule: quinze dias após a sua publicação no Diário da República Portuguesa
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 7 - 15
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/041023000/0000700015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação no Diário da República, 2.ª série, e afixação nos lugares do costume, dos editais
+    que publicitam a sua aprovação
+  method: clausula
+  article: art-73
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

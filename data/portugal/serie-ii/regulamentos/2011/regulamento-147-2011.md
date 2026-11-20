@@ -23,6 +23,15 @@ publication:
   pages: 9934 - 9936
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/040000000/0993409936.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 20 dias após a afixação do respectivo edital, nos termos da lei, depois de aprovado pela Assembleia Municipal
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

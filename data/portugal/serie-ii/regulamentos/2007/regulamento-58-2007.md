@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10039 - 10042
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/076000000/1003910042.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-18'
+entry_into_force:
+  date: '2007-04-18'
+  rule: à data da sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

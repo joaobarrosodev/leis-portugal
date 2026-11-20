@@ -24,6 +24,15 @@ publication:
   pages: 699 - 705
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/094000000/0069900705.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2019-20, inclusive
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

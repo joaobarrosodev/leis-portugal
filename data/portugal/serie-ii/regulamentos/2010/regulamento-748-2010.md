@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 48273 - 48276
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/187000000/4827348276.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-25'
+entry_into_force:
+  date: '2010-09-25'
+  rule: no dia seguinte à sua publicação, aplicando-se às bolsas cujos contratos sejam assinados ou renovados após esta data,
+    sem prejuízo de direitos adquiridos
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

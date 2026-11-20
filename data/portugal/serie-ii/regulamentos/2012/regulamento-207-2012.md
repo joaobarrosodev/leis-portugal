@@ -23,6 +23,15 @@ publication:
   pages: 20088 - 20089
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/107000000/2008820089.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

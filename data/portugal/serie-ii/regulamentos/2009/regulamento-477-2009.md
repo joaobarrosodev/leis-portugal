@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 48900 - 48903
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/232000000/4890048903.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-12-01'
+entry_into_force:
+  date: '2009-12-01'
+  rule: no dia seguinte ao da sua publicação no Diário da República e será obrigatoriamente objecto de avaliação e eventual
+    alteração, um ano após essa data
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

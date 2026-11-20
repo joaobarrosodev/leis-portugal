@@ -23,8 +23,23 @@ publication:
   pages: 8637 - 8638
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/088000000/0863708638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:116469570:por#art-9'
+    detail: 2 - É revogado o [Regulamento n.º 240/2017], de 8 de maio.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 39698 - 39701
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/141000000/3969839701.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-01'
+entry_into_force:
+  date: '2010-08-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

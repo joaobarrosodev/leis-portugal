@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 590 - 592
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/028000000/0059000592.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-02-09'
+entry_into_force:
+  date: '2024-02-09'
+  rule: no dia seguinte à sua publicação, no Diário da República, aplicando-se a partir do ano letivo 2023/2024, inclusive
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

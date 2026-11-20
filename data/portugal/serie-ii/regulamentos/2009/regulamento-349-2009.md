@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/155000000/3242432427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2748333:por#n-1'
+    detail: 1 - É revogado o [Regulamento n.º 349/2009], publicado no Diário da República - 2.ª série, n.º 155 de 12 de Agosto
+      de 2009.
 notes: []
 language: por
 version:

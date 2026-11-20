@@ -24,8 +24,24 @@ publication:
   pages: 30248 - 30250
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/192000000/3024830250.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil a seguir ao da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:115389510:por'
+    detail: Revogado, a partir de 01.06.2018, o presente Regulamento, pelo(a) Regulamento n.º 314/2018 - Diário da República
+      n.º 101/2018, Série II de 2018-05-25
 notes: []
 language: por
 version:

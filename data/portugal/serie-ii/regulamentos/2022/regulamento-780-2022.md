@@ -23,6 +23,15 @@ publication:
   pages: 199 - 203
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/155000000/0019900203.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação em sessão de Assembleia Municipal de Nazaré
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 18 - 20
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/287161000/0001800020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal e no 1.º dia útil do mês seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

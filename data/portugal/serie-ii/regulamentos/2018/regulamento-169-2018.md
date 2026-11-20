@@ -23,6 +23,15 @@ publication:
   pages: 8148 - 8150
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/055000000/0814808150.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Conselho Geral do Instituto Politécnico da Guarda
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

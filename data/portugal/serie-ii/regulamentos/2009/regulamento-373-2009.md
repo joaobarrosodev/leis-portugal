@@ -23,6 +23,16 @@ publication:
   pages: 35210 - 35217
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/168000000/3521035217.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação pela Assembleia de Representantes e deverá ser divulgado no portal electrónico da Ordem
+    e publicado na Revista INGENIUM ou publicação equivalente a nível nacional
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

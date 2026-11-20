@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13000 - 13005
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/077000000/1300013005.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-04-20'
+entry_into_force:
+  date: '2013-04-20'
+  rule: no dia imediato à sua publicação nos termos legais
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/212113000/0001600022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-23'
+entry_into_force:
+  date: '2004-09-23'
+  rule: no 15.º dia após a publicação no Diário da República
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

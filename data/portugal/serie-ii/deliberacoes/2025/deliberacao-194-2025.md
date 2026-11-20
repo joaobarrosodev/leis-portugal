@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/027000000/0015000156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:912469953:por#n-13'
+    detail: 13 - É revogada a [Deliberação n.º 194/2025], do Conselho Diretivo, publicada na 2.ª série do Diário da República
+      de 7 de fevereiro de 2025.
 notes: []
 language: por
 version:

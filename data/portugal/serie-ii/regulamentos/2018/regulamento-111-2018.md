@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5020 - 5048
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/032000000/0502005048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-01'
+entry_into_force:
+  date: '2018-03-01'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-215
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

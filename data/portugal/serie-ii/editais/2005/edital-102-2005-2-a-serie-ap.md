@@ -23,6 +23,15 @@ publication:
   pages: 38 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/033021000/0003800041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal, no dia útil imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

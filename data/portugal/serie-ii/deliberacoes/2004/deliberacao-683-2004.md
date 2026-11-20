@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7818 - 7820
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/119000000/0781807820.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-05-21'
+entry_into_force:
+  date: '2004-05-21'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 26 - 29
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/281182000/0002600029.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia Municipal de Ílhavo, e após a sua publicitação, nos termos legais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

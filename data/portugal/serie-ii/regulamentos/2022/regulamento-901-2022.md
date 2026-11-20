@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 312 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/184000000/0031200320.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-09-23'
+entry_into_force:
+  date: '2022-09-23'
+  rule: no dia imediato à sua publicação no Diário da República, após aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

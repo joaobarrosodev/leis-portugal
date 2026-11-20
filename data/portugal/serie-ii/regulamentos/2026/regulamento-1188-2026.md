@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 433 - 441
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/186000000/0043300441.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-25'
+entry_into_force:
+  date: '2026-09-25'
+  rule: no dia seguinte ao da sua publicação nos termos legais aplicáveis, após aprovação pela Assembleia de Freguesia de
+    Rio de Moinhos
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

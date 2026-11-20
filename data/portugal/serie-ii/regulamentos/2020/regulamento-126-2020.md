@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 474 - 478
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/031000000/0047400478.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-13'
+entry_into_force:
+  date: '2020-02-13'
+  rule: após a respetiva publicação no Diário da República e a Tabela Geral de Taxas, Licenças e Preços, no primeiro dia útil
+    do ano civil subsequente
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

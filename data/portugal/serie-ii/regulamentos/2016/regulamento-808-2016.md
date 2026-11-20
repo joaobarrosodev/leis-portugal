@@ -24,6 +24,16 @@ publication:
   pages: 25669 - 25674
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/157000000/2566925674.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para todos os ciclos de estudo conducentes ao grau de mestre da NMS|FCM, com exceção do Mestrado Integrado em Medicina,
+    a partir do ano letivo 2016/2017, inclusive, sem prejuízo das disposições regula
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 37383 - 37388
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/245000000/3738337388.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação, nos termos legais
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

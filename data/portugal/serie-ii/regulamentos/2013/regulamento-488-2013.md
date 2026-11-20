@@ -23,6 +23,15 @@ publication:
   pages: 37110 - 37116
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/252000000/3711037116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na freguesia decorrido o período de discussão pública e após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

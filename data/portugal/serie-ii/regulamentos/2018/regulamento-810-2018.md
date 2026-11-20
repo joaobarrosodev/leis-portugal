@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 32340 - 32344
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/232000000/3234032344.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-04'
+entry_into_force:
+  date: '2018-12-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: relativamente a todas as casas de habitação não permanente que se encontrem incluídas no levantamento referido
+    nos n.os 2 e 3 do artigo 2.º deste Regulamento
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

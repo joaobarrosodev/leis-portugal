@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/184000000/2724127246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:1129830760:por'
+    detail: Revogado pelo Acordo Colectivo de Trabalho n.º 29/2026
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 403 - 411
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/170000000/0040300411.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-09-02'
+entry_into_force:
+  date: '2021-09-02'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

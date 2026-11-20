@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 43 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2004/08/187101000/0004300045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-08-25'
+entry_into_force:
+  date: '2004-08-25'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

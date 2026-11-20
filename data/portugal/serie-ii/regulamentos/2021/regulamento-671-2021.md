@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 384 - 422
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/138000000/0038400422.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-01'
+entry_into_force:
+  date: '2021-08-01'
+  rule: no dia 01 de agosto de 2021, se a sua publicação em Diário da Republica ocorrer até essa data
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

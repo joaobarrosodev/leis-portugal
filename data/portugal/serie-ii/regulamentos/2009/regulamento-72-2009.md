@@ -23,6 +23,15 @@ publication:
   pages: 5374 - 5375
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/025000000/0537405375.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação por meio de edital, nos termos legalmente previstos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

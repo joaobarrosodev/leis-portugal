@@ -24,6 +24,15 @@ publication:
   pages: 92 - 120
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/231000000/0009200120.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após homologação pelo Reitor da Universidade do Algarve e no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

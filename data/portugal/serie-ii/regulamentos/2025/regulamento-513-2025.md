@@ -25,6 +25,16 @@ publication:
   pages: 714 - 720
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/079000000/0071400720.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Reitor e publicação no Diário da República, sendo aplicável a candidaturas para
+    acesso e ingresso no ensino superior a partir do ano letivo de 2025-2026, inclusive, n
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

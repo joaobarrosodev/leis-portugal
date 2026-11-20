@@ -23,6 +23,15 @@ publication:
   pages: 27 - 32
   pdf_url: https://files.diariodarepublica.pt/2s/2000/01/015009000/0002700032.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a data da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

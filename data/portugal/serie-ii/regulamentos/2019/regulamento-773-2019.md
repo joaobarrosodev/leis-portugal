@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 574 - 595
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/190000000/0057400595.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-01'
+entry_into_force:
+  date: '2020-01-01'
+  rule: no 1.º dia do 3.º mês imediato ao da sua publicação nos termos legais
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

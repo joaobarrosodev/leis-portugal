@@ -23,6 +23,15 @@ publication:
   pages: 34956 - 34961
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/235000000/3495634961.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias úteis após a sua publicitação, nos termos gerais
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

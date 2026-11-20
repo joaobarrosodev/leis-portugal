@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 409 - 426
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/200000000/0040900426.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-16'
+entry_into_force:
+  date: '2024-10-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República, ficando disponível para consulta no sítio institucional
+    do Município de Oliveira de Azeméis
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

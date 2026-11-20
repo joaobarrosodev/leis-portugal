@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/151000000/1648316485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:219973656:por#texto'
+    detail: 1 - É revogado o [Regulamento n.º 420/2017], de 7 de agosto.
 notes: []
 language: por
 version:

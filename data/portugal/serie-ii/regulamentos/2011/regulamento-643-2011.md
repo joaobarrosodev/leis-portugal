@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49958 - 49961
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/244000000/4995849961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-12-23'
+entry_into_force:
+  date: '2011-12-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

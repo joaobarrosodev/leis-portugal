@@ -23,6 +23,15 @@ publication:
   pages: 20780 - 20784
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/147000000/2078020784.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à data da publicação no Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

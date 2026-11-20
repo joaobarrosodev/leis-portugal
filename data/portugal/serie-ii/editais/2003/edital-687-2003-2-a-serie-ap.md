@@ -23,6 +23,15 @@ publication:
   pages: 56 - 65
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/203134000/0005600065.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação, na 2.ª série do Diário da República, sem prejuízo de outras formas de publicitação
+  method: clausula
+  article: art-78
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 3358 - 3359
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/016000000/0335803359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia fixado no correspondente edital, aplicando-se também aos processos pendentes relativamente aos quais não tenha
+    sido ainda emitido o correspondente alvará de licenciamento ou autorização
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

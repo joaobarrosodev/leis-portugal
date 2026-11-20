@@ -23,6 +23,15 @@ publication:
   pages: 442 - 452
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/083000000/0044200452.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a deliberação do Conselho Intermunicipal que o aprovou e
+  method: clausula
+  article: art-18
+  effects_date: '2025-01-01'
+  effects_rule: no dia 1 de janeiro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

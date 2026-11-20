@@ -23,6 +23,15 @@ publication:
   pages: 3464 - 3467
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/039000000/0346403467.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

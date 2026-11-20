@@ -23,6 +23,16 @@ publication:
   pages: 702 - 711
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/140000000/0070200711.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pela Assembleia de Freguesia de Santana e será publicado nos meios oficiais da Junta de Freguesia,
+    garantindo a sua divulgação junto da comunidade
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

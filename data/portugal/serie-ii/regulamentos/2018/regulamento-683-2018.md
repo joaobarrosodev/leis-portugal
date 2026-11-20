@@ -23,6 +23,15 @@ publication:
   pages: 28049 - 28052
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/201000000/2804928052.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente a seguir à sua aprovação em Assembleia Municipal
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

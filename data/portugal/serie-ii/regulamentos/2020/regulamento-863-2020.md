@@ -24,6 +24,16 @@ publication:
   pages: 187 - 195
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/198000000/0018700195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após a sua publicação no Diário da República e será publicitada por edital e no sítio da Internet
+    do Município de Oliveira de Azeméis em www.cm-oaz.pt
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 336 - 349
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/094000000/0033600349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2020/2021, revogando o Regulamento n.º 136/2018, de 27 de fevereiro
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:854634308:por#texto'
+    detail: 1 - O presente Regulamento entra em vigor no ano letivo de 2023/2024, revogando o [Regulamento n.º 419/2021],
+      de 14 de maio.
 notes: []
 language: por
 version:

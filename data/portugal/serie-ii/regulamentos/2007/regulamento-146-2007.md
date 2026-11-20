@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19405 - 19407
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/129000000/1940519407.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-07'
+entry_into_force:
+  date: '2007-07-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []
