@@ -155,10 +155,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:540003:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:571960:por
   label: null
   source: null
@@ -251,6 +247,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1
   date: '2015-09-17'
+- type: transposed_by
+  target: pt:dre:540003:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:67098359:por
   label: null
