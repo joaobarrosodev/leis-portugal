@@ -43,11 +43,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-05-27'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-117-a-2012.versoes.json
-  count: 5
-  source_lastmod: '2024-06-25'
+  count: 6
+  source_lastmod: '2026-11-11'
   versions:
   - date: '2012-06-14'
     amending: null
@@ -79,6 +79,12 @@ version_history:
     amending_title: Decreto-Lei n.º 105/2026
     changes:
     - Altera Artigo 24.º-A
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Adita Artigo 9.º-A
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/117-a/2012/p/cons/20260526/pt/html
@@ -93,19 +99,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117-a/2012/p/cons/20260526/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34583975
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34583975
-  retrieved_at: '2026-10-22T11:54:48Z'
+  retrieved_at: '2026-11-20T13:51:15Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 3642b59d14c31dc39c087d4bee82dd9040566e4fb70c2b570846f3c1498db0f2
+  source_sha256: 3255b6aedfc3118cf42cf2bca65327f780e404dc4a8533baa0f16b0713651768
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:54:48Z'
-  notes: 5 versão(ões); histórico completo em decreto-lei-117-a-2012.versoes.json.
+  generated_at: '2026-11-20T13:51:15Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-117-a-2012.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,6 +153,11 @@ relationships:
   label: Altera Artigo 24.º-A
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009
   date: '2026-05-26'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Adita Artigo 9.º-A; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: pt:dre:145590:por
   label: null
@@ -184,7 +195,7 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
 article_structure:
-  article_count: 30
+  article_count: 31
   section_count: 4
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -192,7 +203,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:54:48Z'
+  checked_at: '2026-11-20T13:51:15Z'
   warnings: []
   errors: []
 ---
@@ -467,6 +478,24 @@ A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos 
 
 Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.
 
+###### Artigo 9.º-A — Cargos dirigentes intermédios
+
+1 - Atenta a equiparação da ESPAP, I. P., a entidade pública empresarial, nos termos do n.º 3 do artigo 1.º e do artigo 1.º-A, os titulares de cargos de direção intermédia são contratados em regime de comissão de serviço, conforme previsto no Código do Trabalho.
+
+2 - A definição da remuneração dos cargos dirigentes da ESPAP, I. P., está sujeita aos seguintes limites máximos:
+
+a) Para o cargo de diretor, até 75 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;
+
+b) Para o cargo de coordenador, até 65 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;
+
+c) Para o cargo de chefe de equipa, até 50 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.
+
+3 - Os limites definidos no número anterior englobam todas as componentes remuneratórias.
+
+4 - Os titulares de cargos dirigentes podem optar pela retribuição base e respetivos suplementos inerentes às funções desempenhadas na categoria de origem, mediante autorização prévia conferida por deliberação do conselho diretivo.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
+
 ###### Artigo 10.º — Receitas
 
 1 - A ESPAP, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
@@ -673,7 +702,9 @@ Todas as referências, legais ou regulamentares, feitas ao Instituto de Informá
 
 ###### Artigo 24.º — Mapas de pessoal
 
-A ESPAP, I. P., elabora, nos termos legais, os mapas de pessoal correspondentes às necessidades inerentes à prossecução das respetivas atribuições e competências, designadamente tendo em conta as atividades a que se refere o n.º 3 do artigo 1.º
+A ESPAP, I. P., elabora nos termos legais, os mapas de pessoal correspondentes às necessidades inerentes à prossecução das respetivas atribuições e competências, tendo em conta os regimes laborais aplicáveis aos seus trabalhadores.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 ###### Artigo 24.º-A — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
 

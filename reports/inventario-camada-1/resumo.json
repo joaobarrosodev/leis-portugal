@@ -7,46 +7,48 @@
  "com_sitemap": true,
  "com_indice": true,
  "texto_em_varios_registos": {
-  "obras": 641,
-  "com_texto_atual_num_registo_em_vigor": 533,
-  "que_ja_nao_vigoram_com_copias_servidas": 44,
-  "copias_de_texto_que_ja_nao_vigora_servidas": 60,
-  "artigos_em_copias_de_texto_que_ja_nao_vigora": 4062,
-  "texto_atual_fora_do_registo_de_origem": 71,
+  "obras": 655,
+  "com_texto_atual_num_registo_em_vigor": 545,
+  "que_ja_nao_vigoram_com_copias_servidas": 46,
+  "copias_de_texto_que_ja_nao_vigora_servidas": 63,
+  "artigos_em_copias_de_texto_que_ja_nao_vigora": 4124,
+  "texto_atual_fora_do_registo_de_origem": 77,
   "das_quais_a_origem_aponta_para_o_atual": 11,
-  "das_quais_a_origem_esta_no_indice_como_vigente": 38,
-  "das_quais_a_origem_tem_consolidacao_propria_mais_antiga": 28,
-  "das_quais_com_numeracao_diferente": 26,
-  "copias_desatualizadas_servidas": 665,
-  "artigos_em_copias_desatualizadas_servidas": 49513,
-  "obras_com_copias_desatualizadas_servidas": 472,
+  "das_quais_a_origem_esta_no_indice_como_vigente": 41,
+  "das_quais_a_origem_tem_consolidacao_propria_mais_antiga": 30,
+  "das_quais_com_numeracao_diferente": 27,
+  "copias_desatualizadas_servidas": 683,
+  "artigos_em_copias_desatualizadas_servidas": 50966,
+  "obras_com_copias_desatualizadas_servidas": 481,
   "no_indice": {
-   "copias_desatualizadas_com_pedacos_atuais": 539,
-   "pedacos_atuais_em_copias_desatualizadas": 15123,
-   "pedacos_atuais_nas_copias_atuais": 39138,
-   "pedacos_atuais_em_copias_de_texto_que_ja_nao_vigora": 4806
+   "copias_desatualizadas_com_pedacos_atuais": 196,
+   "pedacos_atuais_em_copias_desatualizadas": 8815,
+   "pedacos_atuais_nas_copias_atuais": 38988,
+   "pedacos_atuais_em_copias_de_texto_que_ja_nao_vigora": 4190
   },
   "copias_desatualizadas_servidas_por_tipo_de_registo": {
-   "consolidado DRE": 75,
+   "consolidado DRE": 82,
    "consolidado DRE (anexo com «republica» no nome)": 61,
-   "original": 522,
-   "consolidado leis-portugal": 7
+   "original": 415,
+   "original (anexo com «republica» no nome)": 116,
+   "consolidado leis-portugal": 6,
+   "consolidado leis-portugal (anexo com «republica» no nome)": 3
   },
   "regra_das_redacoes_anteriores": {
-   "marcas": 536,
-   "registos_com_marcas": 493,
-   "de_fora": 345,
+   "marcas": 558,
+   "registos_com_marcas": 508,
+   "de_fora": 351,
    "de_fora_por_motivo": {
-    "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 200,
-    "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 140,
-    "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 4,
+    "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 202,
+    "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 145,
+    "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 3,
     "texto corrido com outro articulado a seguir: não se separa nos blocos do índice": 1
    },
    "copias_desatualizadas_servidas": {
-    "marcadas": 500,
-    "de_fora": 225,
-    "pedacos_atuais_das_marcadas": 4670,
-    "pedacos_atuais_das_de_fora": 14919
+    "marcadas": 518,
+    "de_fora": 228,
+    "pedacos_atuais_das_marcadas": 535,
+    "pedacos_atuais_das_de_fora": 12199
    }
   }
  },
@@ -54,11 +56,11 @@
   "universo": 9690,
   "por_classe_e_tipo": {
    "consolidado_dre": {
-    "lei": 473,
+    "lei": 472,
     "lei-organica": 11,
     "decreto-lei": 1556,
     "decreto-regulamentar": 63,
-    "decreto-legislativo-regional": 236
+    "decreto-legislativo-regional": 235
    },
    "consolidado_leis_portugal": {
     "lei": 48,
@@ -68,16 +70,16 @@
     "decreto-legislativo-regional": 74
    },
    "texto_noutro_registo": {
-    "lei": 2,
-    "decreto-lei": 23,
+    "lei": 3,
+    "decreto-lei": 24,
     "decreto-regulamentar": 1,
-    "decreto-legislativo-regional": 9
+    "decreto-legislativo-regional": 10
    },
    "original_e_o_texto_em_vigor": {
     "lei": 592,
     "lei-organica": 23,
     "lei-constitucional": 7,
-    "decreto-lei": 2497,
+    "decreto-lei": 2496,
     "decreto-regulamentar": 273,
     "decreto-legislativo-regional": 234
    },
@@ -112,11 +114,11 @@
    }
   },
   "por_classe": {
-   "original_e_o_texto_em_vigor": 3626,
-   "consolidado_dre": 2339,
+   "original_e_o_texto_em_vigor": 3625,
+   "consolidado_dre": 2337,
    "consolidado_leis_portugal": 843,
    "nao_triado": 685,
-   "texto_noutro_registo": 35,
+   "texto_noutro_registo": 38,
    "alteracao_por_aplicar": 672,
    "revogado_por_inteiro": 217,
    "sem_texto": 1257,
@@ -124,8 +126,8 @@
   },
   "por_classe_e_estado": {
    "consolidado_dre": {
-    "in_force": 2296,
-    "partially_in_force": 43
+    "in_force": 2295,
+    "partially_in_force": 42
    },
    "consolidado_leis_portugal": {
     "in_force": 831,
@@ -133,11 +135,11 @@
    },
    "texto_noutro_registo": {
     "unknown": 2,
-    "in_force": 31,
-    "partially_in_force": 2
+    "in_force": 33,
+    "partially_in_force": 3
    },
    "original_e_o_texto_em_vigor": {
-    "in_force": 3550,
+    "in_force": 3549,
     "partially_in_force": 76
    },
    "alteracao_por_aplicar": {
@@ -166,10 +168,10 @@
    "≥10": 210,
    "≥50": 27
   },
-  "consolidados_em_dia": 2959,
-  "consolidados_com_alterador_posterior": 212,
-  "consolidados_dre_com_alterador_posterior": 69,
-  "consolidados_que_o_dre_mexeu": 34,
+  "consolidados_em_dia": 2957,
+  "consolidados_com_alterador_posterior": 213,
+  "consolidados_dre_com_alterador_posterior": 70,
+  "consolidados_que_o_dre_mexeu": 35,
   "originais_com_alterador_novo_desde_a_triagem": 0,
   "marcas_de_vigencia_revista": {
    "no_ficheiro": {
@@ -225,8 +227,8 @@
    "decreto-lei": {
     "teto": 3494,
     "medido": 3494,
-    "texto_noutro_registo": 12,
-    "original_e_o_texto_em_vigor": 2497,
+    "texto_noutro_registo": 13,
+    "original_e_o_texto_em_vigor": 2496,
     "alteracao_por_aplicar": 477,
     "alteracao_so_em_imagem": 14,
     "nao_triado": 375,
@@ -376,45 +378,45 @@
   }
  },
  "dre_consolidados": {
-  "listados_no_sitemap": 6029,
+  "listados_no_sitemap": 6039,
   "temos": 5664,
-  "em_falta": 365,
+  "em_falta": 375,
   "em_falta_por_motivo": {
    "sem_texto_na_fonte": 158,
-   "por_recolher": 207
+   "por_recolher": 217
   },
   "por_recolher_por_tipo": {
-   "despacho": 76,
+   "despacho": 79,
+   "aviso": 25,
    "decreto-lei": 24,
    "despacho-extrato": 24,
-   "aviso": 21,
    "portaria": 21,
+   "aviso-extrato": 5,
    "louvor": 5,
    "decreto-legislativo-regional": 4,
    "decreto-regulamentar-regional": 4,
    "lei": 4,
    "resolucao-conselho-ministros": 4,
-   "aviso-extrato": 3,
    "declaracao-retificacao": 2,
    "declaracao": 2,
    "decreto-presidente-republica": 2,
    "diretiva": 2,
+   "edital": 2,
    "regulamento": 2,
    "declaracao-extrato": 1,
    "deliberacao-extrato": 1,
    "despacho-normativo": 1,
-   "edital": 1,
    "louvor-extracto": 1,
    "regulamento-extrato": 1,
    "resolucao-assembleia-republica": 1
   },
   "por_recolher_prioritarios": 32,
   "sem_texto_na_fonte_prioritarios": 43,
-  "mexidos_depois_da_recolha": 62,
+  "mexidos_depois_da_recolha": 64,
   "mexidos_por_tipo": {
    "decreto-lei": 34,
-   "portaria": 19,
-   "decreto-legislativo-regional": 3,
+   "portaria": 20,
+   "decreto-legislativo-regional": 4,
    "resolucao-conselho-ministros": 3,
    "lei": 2,
    "decreto-regulamentar-regional": 1
@@ -424,7 +426,7 @@
    "2026-10-22": 5663,
    "2026-10-21": 1
   },
-  "sitemap_lastmod_mais_recente": "2026-11-19"
+  "sitemap_lastmod_mais_recente": "2026-11-20"
  },
  "antigos_sem_texto": {
   "total": 47154,
@@ -651,106 +653,7 @@
   }
  },
  "leitura": {
-  "registos": 22017,
-  "bases": {
-   "registos": 312,
-   "unidades": 11561,
-   "por_vigencia": {
-    "em_vigor": {
-     "registos": 245,
-     "prioritarios": 195,
-     "portarias": 17,
-     "leitura_no_indice": {
-      "artigos": 106,
-      "blocos": 131,
-      "sem pedaços": 8
-     },
-     "unidades": 8646,
-     "unidades_por_destino": {
-      "dentro_de_um_artigo": 1774,
-      "fora_do_indice": 1727,
-      "cortada": 2141,
-      "em_blocos": 2810,
-      "sem_pedacos": 194
-     }
-    },
-    "desconhecida": {
-     "registos": 23,
-     "prioritarios": 22,
-     "portarias": 0,
-     "leitura_no_indice": {
-      "artigos": 23
-     },
-     "unidades": 1712,
-     "unidades_por_destino": {
-      "dentro_de_um_artigo": 546,
-      "cortada": 1166
-     }
-    },
-    "sem_vigencia": {
-     "registos": 44,
-     "prioritarios": 43,
-     "portarias": 1,
-     "leitura_no_indice": {
-      "blocos": 32,
-      "artigos": 11,
-      "sem pedaços": 1
-     },
-     "unidades": 1203,
-     "unidades_por_destino": {
-      "em_blocos": 660,
-      "dentro_de_um_artigo": 252,
-      "cortada": 63,
-      "fora_do_indice": 183,
-      "sem_pedacos": 45
-     }
-    }
-   }
-  },
-  "bases_em_titulo": {
-   "registos": 37,
-   "unidades": 2185,
-   "por_vigencia": {
-    "em_vigor": {
-     "registos": 35,
-     "prioritarios": 34,
-     "portarias": 0,
-     "leitura_no_indice": {
-      "artigos": 31,
-      "sem pedaços": 4
-     },
-     "unidades": 1957,
-     "unidades_por_destino": {
-      "fora_do_indice": 1705,
-      "dentro_de_um_artigo": 52,
-      "cortada": 129,
-      "sem_pedacos": 71
-     }
-    },
-    "desconhecida": {
-     "registos": 0,
-     "prioritarios": 0,
-     "portarias": 0,
-     "leitura_no_indice": {},
-     "unidades": 0,
-     "unidades_por_destino": {}
-    },
-    "sem_vigencia": {
-     "registos": 2,
-     "prioritarios": 2,
-     "portarias": 0,
-     "leitura_no_indice": {
-      "artigos": 1,
-      "sem pedaços": 1
-     },
-     "unidades": 228,
-     "unidades_por_destino": {
-      "fora_do_indice": 183,
-      "sem_pedacos": 45
-     }
-    }
-   }
-  },
+  "registos": 17810,
   "bases_soltas": {
    "registos": 284,
    "unidades": 9376,
@@ -760,16 +663,14 @@
      "prioritarios": 170,
      "portarias": 17,
      "leitura_no_indice": {
-      "artigos": 83,
-      "blocos": 131,
-      "sem pedaços": 5
+      "artigos": 84,
+      "blocos": 135
      },
      "unidades": 6689,
      "unidades_por_destino": {
-      "dentro_de_um_artigo": 1722,
-      "fora_do_indice": 22,
-      "em_blocos": 2810,
-      "sem_pedacos": 123,
+      "dentro_de_um_artigo": 1728,
+      "fora_do_indice": 17,
+      "em_blocos": 2932,
       "cortada": 2012
      }
     },
@@ -803,106 +704,6 @@
     }
    }
   },
-  "artigo_em_maiusculas": {
-   "registos": 2168,
-   "unidades": 36977,
-   "por_vigencia": {
-    "em_vigor": {
-     "registos": 1685,
-     "prioritarios": 821,
-     "portarias": 150,
-     "leitura_no_indice": {
-      "blocos": 1617,
-      "artigos": 60,
-      "sem pedaços": 8
-     },
-     "unidades": 26731,
-     "unidades_por_destino": {
-      "em_blocos": 24973,
-      "dentro_de_um_artigo": 862,
-      "fora_do_indice": 515,
-      "sem_pedacos": 339,
-      "cortada": 42
-     }
-    },
-    "desconhecida": {
-     "registos": 46,
-     "prioritarios": 0,
-     "portarias": 0,
-     "leitura_no_indice": {
-      "artigos": 24,
-      "blocos": 22
-     },
-     "unidades": 731,
-     "unidades_por_destino": {
-      "cortada": 2,
-      "em_blocos": 554,
-      "dentro_de_um_artigo": 71,
-      "fora_do_indice": 104
-     }
-    },
-    "sem_vigencia": {
-     "registos": 437,
-     "prioritarios": 332,
-     "portarias": 44,
-     "leitura_no_indice": {
-      "blocos": 416,
-      "artigos": 21
-     },
-     "unidades": 9515,
-     "unidades_por_destino": {
-      "em_blocos": 8652,
-      "dentro_de_um_artigo": 252,
-      "fora_do_indice": 346,
-      "cortada": 265
-     }
-    }
-   }
-  },
-  "numero_sem_artigo": {
-   "registos": 172,
-   "unidades": 1597,
-   "por_vigencia": {
-    "em_vigor": {
-     "registos": 137,
-     "prioritarios": 3,
-     "portarias": 122,
-     "leitura_no_indice": {
-      "artigos": 41,
-      "sem pedaços": 96
-     },
-     "unidades": 1157,
-     "unidades_por_destino": {
-      "dentro_de_um_artigo": 62,
-      "fora_do_indice": 187,
-      "sem_pedacos": 908
-     }
-    },
-    "desconhecida": {
-     "registos": 0,
-     "prioritarios": 0,
-     "portarias": 0,
-     "leitura_no_indice": {},
-     "unidades": 0,
-     "unidades_por_destino": {}
-    },
-    "sem_vigencia": {
-     "registos": 35,
-     "prioritarios": 1,
-     "portarias": 30,
-     "leitura_no_indice": {
-      "sem pedaços": 24,
-      "artigos": 11
-     },
-     "unidades": 440,
-     "unidades_por_destino": {
-      "sem_pedacos": 278,
-      "dentro_de_um_artigo": 82,
-      "fora_do_indice": 80
-     }
-    }
-   }
-  },
   "clausulas": {
    "registos": 1803,
    "unidades": 38489,
@@ -912,17 +713,15 @@
      "prioritarios": 11,
      "portarias": 26,
      "leitura_no_indice": {
-      "artigos": 47,
-      "blocos": 160,
-      "sem pedaços": 2
+      "artigos": 48,
+      "blocos": 161
      },
      "unidades": 4307,
      "unidades_por_destino": {
-      "dentro_de_um_artigo": 387,
-      "em_blocos": 3560,
+      "dentro_de_um_artigo": 427,
+      "em_blocos": 3580,
       "fora_do_indice": 210,
-      "cortada": 90,
-      "sem_pedacos": 60
+      "cortada": 90
      }
     },
     "desconhecida": {
@@ -960,50 +759,63 @@
    }
   },
   "outros_titulos": {
-   "registos": 10,
-   "unidades": 61,
+   "registos": 517,
+   "unidades": 2980,
    "por_vigencia": {
     "em_vigor": {
-     "registos": 9,
-     "prioritarios": 2,
-     "portarias": 3,
+     "registos": 272,
+     "prioritarios": 62,
+     "portarias": 117,
      "leitura_no_indice": {
-      "artigos": 6,
-      "sem pedaços": 3
+      "artigos": 64,
+      "blocos": 208
      },
-     "unidades": 57,
+     "unidades": 1066,
      "unidades_por_destino": {
-      "fora_do_indice": 30,
-      "dentro_de_um_artigo": 3,
-      "sem_pedacos": 24
+      "cortada": 19,
+      "fora_do_indice": 154,
+      "em_blocos": 766,
+      "dentro_de_um_artigo": 127
      }
     },
     "desconhecida": {
-     "registos": 0,
-     "prioritarios": 0,
-     "portarias": 0,
-     "leitura_no_indice": {},
-     "unidades": 0,
-     "unidades_por_destino": {}
-    },
-    "sem_vigencia": {
-     "registos": 1,
+     "registos": 139,
      "prioritarios": 0,
      "portarias": 1,
      "leitura_no_indice": {
-      "sem pedaços": 1
+      "artigos": 131,
+      "blocos": 8
      },
-     "unidades": 4,
+     "unidades": 1506,
      "unidades_por_destino": {
-      "sem_pedacos": 4
+      "dentro_de_um_artigo": 251,
+      "fora_do_indice": 1196,
+      "cortada": 36,
+      "em_blocos": 23
+     }
+    },
+    "sem_vigencia": {
+     "registos": 106,
+     "prioritarios": 80,
+     "portarias": 12,
+     "leitura_no_indice": {
+      "blocos": 90,
+      "artigos": 16
+     },
+     "unidades": 408,
+     "unidades_por_destino": {
+      "em_blocos": 300,
+      "dentro_de_um_artigo": 75,
+      "fora_do_indice": 33
      }
     }
    }
   },
-  "leis_de_bases_em_vigor": [
+  "leis_com_bases_soltas": [
    {
     "titulo": "Lei n.º 2103",
     "data": "1960-03-22",
+    "estado": "in_force",
     "sumario": "Promulga as bases do abastecimento de água às populações rurais",
     "no_indice": "blocos",
     "unidades": {
@@ -1014,8 +826,9 @@
    {
     "titulo": "Lei n.º 2107",
     "data": "1961-04-05",
+    "estado": "in_force",
     "sumario": "Promulga as bases para a execução do Plano de construções para o ensino primário no continente e ilhas adjacentes",
-    "no_indice": "sem pedaços",
+    "no_indice": "blocos",
     "unidades": {
      "Base (solta)": 25
     },
@@ -1024,8 +837,9 @@
    {
     "titulo": "Lei n.º 2108",
     "data": "1961-04-18",
+    "estado": "in_force",
     "sumario": "Promulga as bases para a execução do plano de desenvolvimento e beneficiação das redes de comunicações rodoviárias munic",
-    "no_indice": "sem pedaços",
+    "no_indice": "blocos",
     "unidades": {
      "Base (solta)": 17
     },
@@ -1034,6 +848,7 @@
    {
     "titulo": "Lei n.º 2112",
     "data": "1962-02-17",
+    "estado": "in_force",
     "sumario": "Promulga as bases para assegurar o funcionamento dos órgãos de governo do Estado da Índia",
     "no_indice": "blocos",
     "unidades": {
@@ -1044,6 +859,7 @@
    {
     "titulo": "Lei n.º 2113",
     "data": "1962-04-11",
+    "estado": "in_force",
     "sumario": "Promulga as bases da organização judiciária",
     "no_indice": "blocos",
     "unidades": {
@@ -1054,8 +870,9 @@
    {
     "titulo": "Lei n.º 2114",
     "data": "1962-06-15",
+    "estado": "in_force",
     "sumario": "Promulga as bases do arrendamento rural",
-    "no_indice": "sem pedaços",
+    "no_indice": "blocos",
     "unidades": {
      "Base (solta)": 29
     },
@@ -1064,6 +881,7 @@
    {
     "titulo": "Lei n.º 2119",
     "data": "1963-06-24",
+    "estado": "in_force",
     "sumario": "Promulga as alterações à Lei Orgânica do Ultramar Português",
     "no_indice": "blocos",
     "unidades": {
@@ -1074,6 +892,7 @@
    {
     "titulo": "Lei n.º 2122",
     "data": "1964-01-14",
+    "estado": "in_force",
     "sumario": "Promulga as bases para os reembolsos dos custos de linhas novas de energia eléctrica",
     "no_indice": "blocos",
     "unidades": {
@@ -1084,6 +903,7 @@
    {
     "titulo": "Lei n.º 2123",
     "data": "1964-12-14",
+    "estado": "in_force",
     "sumario": "Promulga as bases para a execução do Plano Intercalar de Fomento do continente e ilhas adjacentes e das províncias ultra",
     "no_indice": "blocos",
     "unidades": {
@@ -1094,6 +914,7 @@
    {
     "titulo": "Lei n.º 2126",
     "data": "1965-06-21",
+    "estado": "in_force",
     "sumario": "Promulga as bases que alteram o Decreto-Lei n.º 28219 (uso de acendedores e isqueiros)",
     "no_indice": "blocos",
     "unidades": {
@@ -1104,8 +925,9 @@
    {
     "titulo": "Lei n.º 2127",
     "data": "1965-08-03",
+    "estado": "in_force",
     "sumario": "Promulga as bases do regime jurídico dos acidentes de trabalho e doenças profissionais",
-    "no_indice": "sem pedaços",
+    "no_indice": "blocos",
     "unidades": {
      "Base (solta)": 51
     },
@@ -1114,6 +936,7 @@
    {
     "titulo": "Lei n.º 2129",
     "data": "1966-08-20",
+    "estado": "in_force",
     "sumario": "Promulga as bases sobre a preferência dos cônjuges no provimento de lugares de professores do ensino primário",
     "no_indice": "blocos",
     "unidades": {
@@ -1124,6 +947,7 @@
    {
     "titulo": "Lei n.º 2132",
     "data": "1967-05-26",
+    "estado": "in_force",
     "sumario": "Promulga o regime jurídico da caça",
     "no_indice": "blocos",
     "unidades": {
@@ -1134,6 +958,7 @@
    {
     "titulo": "Lei n.º 2133",
     "data": "1967-12-20",
+    "estado": "in_force",
     "sumario": "Promulga as bases em que o Governo promoverá a execução do III Plano de Fomento para o período compreendido entre 1 de J",
     "no_indice": "blocos",
     "unidades": {
@@ -1144,6 +969,7 @@
    {
     "titulo": "Lei n.º 2137",
     "data": "1968-12-26",
+    "estado": "in_force",
     "sumario": "Considera eleitores da Assembleia Nacional todos os cidadãos portugueses, maiores ou emancipados, que saibam ler e escre",
     "no_indice": "blocos",
     "unidades": {
@@ -1154,6 +980,7 @@
    {
     "titulo": "Lei n.º 2144",
     "data": "1969-05-29",
+    "estado": "in_force",
     "sumario": "Promulga a reorganização das Casas do Povo e os regimes de previdência rural - Revoga o Decreto-Lei n.º 23051, continuan",
     "no_indice": "blocos",
     "unidades": {
@@ -1164,6 +991,7 @@
    {
     "titulo": "Lei n.º 4/70",
     "data": "1970-04-29",
+    "estado": "in_force",
     "sumario": "Autoriza o Governo a instituir tribunais de família, que constituirão órgãos judiciais ordinários de competência especia",
     "no_indice": "blocos",
     "unidades": {
@@ -1174,6 +1002,7 @@
    {
     "titulo": "Lei n.º 5/70",
     "data": "1970-06-06",
+    "estado": "in_force",
     "sumario": "Determina que seja livre a circulação de mercadorias nacionais ou nacionalizadas entre as ilhas adjacentes e entre estas",
     "no_indice": "blocos",
     "unidades": {
@@ -1184,6 +1013,7 @@
    {
     "titulo": "Lei n.º 6/70",
     "data": "1970-06-08",
+    "estado": "in_force",
     "sumario": "Insere disposições relativas à realização de acordos colectivos sobre a comercialização de produtos agrícolas, florestai",
     "no_indice": "blocos",
     "unidades": {
@@ -1194,6 +1024,7 @@
    {
     "titulo": "Lei n.º 8/70",
     "data": "1970-06-18",
+    "estado": "in_force",
     "sumario": "Autoriza as federações dos grémios da lavoura, os organismos de coordenação económica e os grémios da lavoura dos Açores",
     "no_indice": "blocos",
     "unidades": {
@@ -1204,6 +1035,7 @@
    {
     "titulo": "Lei n.º 1/71",
     "data": "1971-01-29",
+    "estado": "in_force",
     "sumario": "Determina que sejam designados pelas respectivas corporações os vogais que fazem parte dos organismos de coordenação eco",
     "no_indice": "blocos",
     "unidades": {
@@ -1214,6 +1046,7 @@
    {
     "titulo": "Lei n.º 2/71",
     "data": "1971-04-12",
+    "estado": "in_force",
     "sumario": "Estabelece o regime de actividade de seguros e resseguros - Cria o Conselho Nacional de Seguros, como órgão consultivo d",
     "no_indice": "blocos",
     "unidades": {
@@ -1224,6 +1057,7 @@
    {
     "titulo": "Lei n.º 5/71",
     "data": "1971-11-05",
+    "estado": "in_force",
     "sumario": "Promulga as bases relativas à lei de imprensa",
     "no_indice": "blocos",
     "unidades": {
@@ -1234,6 +1068,7 @@
    {
     "titulo": "Lei n.º 8/71",
     "data": "1971-12-09",
+    "estado": "in_force",
     "sumario": "Promulga as bases relativas à actividade teatral - Revoga várias disposições legislativas",
     "no_indice": "blocos",
     "unidades": {
@@ -1244,6 +1079,7 @@
    {
     "titulo": "Lei n.º 2/72",
     "data": "1972-05-10",
+    "estado": "in_force",
     "sumario": "Promulga as base sobre organização judiciária",
     "no_indice": "blocos",
     "unidades": {
@@ -1254,6 +1090,7 @@
    {
     "titulo": "Lei n.º 3/72",
     "data": "1972-05-27",
+    "estado": "in_force",
     "sumario": "Promulga as bases sobre fomento industrial - Revoga as Leis n.os 2005 e 2052",
     "no_indice": "blocos",
     "unidades": {
@@ -1264,6 +1101,7 @@
    {
     "titulo": "Lei n.º 5/72",
     "data": "1972-06-23",
+    "estado": "in_force",
     "sumario": "Promulga as bases sobre a revisão da Lei Orgânica do Ultramar",
     "no_indice": "blocos",
     "unidades": {
@@ -1274,6 +1112,7 @@
    {
     "titulo": "Lei n.º 2/73",
     "data": "1973-02-10",
+    "estado": "in_force",
     "sumario": "Institui o registo nacional de identificação",
     "no_indice": "blocos",
     "unidades": {
@@ -1282,28 +1121,9 @@
     "citado_por_vigentes": 2
    },
    {
-    "titulo": "Lei n.º 4/73",
-    "data": "1973-06-04",
-    "sumario": "Estabelece normas sobre a constituição e o regime dos agrupamentos complementares de empresas",
-    "no_indice": "sem pedaços",
-    "unidades": {
-     "Base": 6
-    },
-    "citado_por_vigentes": 6
-   },
-   {
-    "titulo": "Lei n.º 5/73",
-    "data": "1973-07-25",
-    "sumario": "Aprova as bases a que deve obedecer a reforma do sistema educativo",
-    "no_indice": "sem pedaços",
-    "unidades": {
-     "Base": 29
-    },
-    "citado_por_vigentes": 6
-   },
-   {
     "titulo": "Lei n.º 6/73",
     "data": "1973-08-13",
+    "estado": "in_force",
     "sumario": "Promulga a Lei de Terras do Ultramar",
     "no_indice": "blocos",
     "unidades": {
@@ -1314,6 +1134,7 @@
    {
     "titulo": "Lei n.º 8/73",
     "data": "1973-12-26",
+    "estado": "in_force",
     "sumario": "Organização e execução do IV Plano de Fomento (1974-1979)",
     "no_indice": "blocos",
     "unidades": {
@@ -1324,6 +1145,7 @@
    {
     "titulo": "Lei n.º 22/92",
     "data": "1992-08-14",
+    "estado": "in_force",
     "sumario": "Altera a Lei n.º 2127, de 3 de Agosto de 1965, estabelecendo a igualdade de direitos relativos a acidentes de trabalho e",
     "no_indice": "blocos",
     "unidades": {
@@ -1334,6 +1156,7 @@
    {
     "titulo": "Lei n.º 161/99",
     "data": "1999-09-14",
+    "estado": "in_force",
     "sumario": "Primeira alteração, por apreciação parlamentar, do Decreto-Lei n.º 394-A/98, de 15 de Dezembro, que atribui à sociedade ",
     "no_indice": "artigos",
     "unidades": {
@@ -1344,6 +1167,7 @@
    {
     "titulo": "Lei n.º 27/2002",
     "data": "2002-11-08",
+    "estado": "in_force",
     "sumario": "Aprova o novo regime jurídico da gestão hospitalar e procede à primeira alteração à Lei n.º 48/90, de 24 de Agosto",
     "no_indice": "artigos",
     "unidades": {
@@ -1354,6 +1178,7 @@
    {
     "titulo": "Lei n.º 30/2006",
     "data": "2006-07-11",
+    "estado": "in_force",
     "sumario": "Procede à conversão em contra-ordenações de contravenções e transgressões em vigor no ordenamento jurídico nacional",
     "no_indice": "artigos",
     "unidades": {
@@ -1362,115 +1187,53 @@
     "citado_por_vigentes": 12
    },
    {
-    "titulo": "Lei n.º 52/2012",
-    "data": "2012-09-05",
-    "sumario": "Lei de Bases dos Cuidados Paliativos",
-    "no_indice": "sem pedaços",
+    "titulo": "Lei n.º 95/2019",
+    "data": "2019-09-04",
+    "estado": "unknown",
+    "sumario": "Aprova a Lei de Bases da Saúde e revoga a Lei n.º 48/90, de 24 de agosto, e o Decreto-Lei n.º 185/2002, de 20 de agosto",
+    "no_indice": "artigos",
     "unidades": {
-     "Base": 35
+     "Base (solta)": 37
     },
-    "citado_por_vigentes": 5
+    "citado_por_vigentes": 24
    }
   ],
-  "em_vigor_sem_pedacos_por_ter_historico_sem_artigos": {
-   "registos": 2343,
-   "prioritarios": 45,
-   "portarias": 1436,
-   "por_tipo": {
-    "portaria": 1436,
-    "resolucao-conselho-ministros": 366,
-    "despacho-normativo": 139,
-    "aviso": 90,
-    "decreto-presidente-republica": 46,
-    "decreto-lei": 33,
-    "despacho": 26,
-    "resolucao-assembleia-republica": 26,
-    "declaracao-retificacao": 25,
-    "decreto": 19,
-    "declaracao": 18,
-    "despacho-extrato": 15
-   },
-   "com_unidades_por_ler": 117,
-   "em_texto_corrido": 2226,
-   "unidades_por_ler": 1525,
-   "caracteres": 22995152,
-   "blocos_estimados": 11640
-  },
   "em_vigor_em_blocos_com_artigos_soltos_no_texto": {
-   "registos": 8768,
-   "prioritarios": 4000,
+   "registos": 8750,
+   "prioritarios": 3991,
    "portarias": 1469,
-   "artigos_soltos": 114511,
+   "artigos_soltos": 114415,
    "leis_e_decretos_leis_por_decada": {
     "1940": 6,
     "1950": 14,
-    "1960": 1227,
-    "1970": 1059,
-    "1980": 765,
+    "1960": 1224,
+    "1970": 1055,
+    "1980": 764,
     "1990": 436,
     "2000": 1
-   }
-  },
-  "anexo_em_maiusculas_com_artigos": {
-   "em_vigor": {
-    "registos": 1946,
-    "prioritarios": 725,
-    "portarias": 561,
-    "artigos_no_anexo": 71805,
-    "registos_com_numeros_repetidos": 1229,
-    "artigos_com_o_numero_de_um_artigo_do_diploma": 12514
-   },
-   "desconhecida": {
-    "registos": 3514,
-    "prioritarios": 414,
-    "portarias": 331,
-    "artigos_no_anexo": 118289,
-    "registos_com_numeros_repetidos": 1973,
-    "artigos_com_o_numero_de_um_artigo_do_diploma": 23194
-   },
-   "sem_vigencia": {
-    "registos": 933,
-    "prioritarios": 314,
-    "portarias": 361,
-    "artigos_no_anexo": 28058,
-    "registos_com_numeros_repetidos": 624,
-    "artigos_com_o_numero_de_um_artigo_do_diploma": 4006
    }
   }
  },
  "indice_sem_artigos_abertos": {
-  "em_vigor_no_dre": 2422,
+  "em_vigor_no_dre": 75,
   "em_vigor_por_classe": {
-   "sem_pedacos": 2343,
-   "abertos_todos_revogados": 59,
-   "abertos_todos_revogados_com_efeitos_por_produzir": 5,
-   "todos_fechados_com_ligacao": 15
+   "abertos_todos_revogados": 58,
+   "todos_fechados_com_ligacao": 17
   },
   "em_vigor_por_classe_e_grupo": {
    "abertos_todos_revogados": {
     "prioritarios": 37,
     "outros": 9,
-    "portarias": 13
-   },
-   "abertos_todos_revogados_com_efeitos_por_produzir": {
-    "prioritarios": 4,
-    "portarias": 1
-   },
-   "sem_pedacos": {
-    "outros": 862,
-    "prioritarios": 45,
-    "portarias": 1436
+    "portarias": 12
    },
    "todos_fechados_com_ligacao": {
-    "prioritarios": 15
+    "prioritarios": 17
    }
   },
   "vigencia_desconhecida_por_classe": {},
   "sem_vigencia_por_classe": {
-   "abertos_todos_revogados": 735,
-   "sem_pedacos": 117,
-   "abertos_todos_revogados_com_efeitos_por_produzir": 1,
-   "todos_fechados_com_ligacao": 23
+   "abertos_todos_revogados": 734,
+   "todos_fechados_com_ligacao": 25
   },
   "revogacoes_por_produzir_efeitos": {
    "registos": 15,
@@ -1483,7 +1246,7 @@
     "2027-03-01": 41,
     "2032-07-04": 1
    },
-   "registos_com_todos_os_abertos_dados_como_revogados": 6
+   "registos_em_que_sao_todos_os_abertos_em_vigor": 5
   }
  },
  "registos_duplicados": {

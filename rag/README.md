@@ -398,11 +398,74 @@ Tentou-se atacar o diploma errado procurando primeiro o diploma: um vetor (model
 A resposta da lei não mudou: a pesquisa, o reranker, o LLM e o "não sei" são os mesmos. O que muda:
 
 - **Aviso na resposta da lei.** Se o Tribunal Constitucional declarou o artigo inconstitucional com força obrigatória geral até à data da pergunta, o artigo leva o aviso, como os de revogação, e o LLM recebe-o com o texto. Se o texto do artigo é posterior ao acórdão, o aviso diz que a declaração foi sobre uma redação anterior. É o caso do artigo 4.º da Lei n.º 32/2008, declarado pelo Acórdão n.º 268/2022 e alterado pela Lei n.º 18/2024.
-- **Segunda resposta, separada.** São os acórdãos do TC que julgaram os artigos citados, até à data da pergunta. Primeiro vêm as decisões com força obrigatória geral (declarar ou recusar declarar), depois os casos concretos, do mais recente para o mais antigo: cinco por artigo e a contagem dos restantes. Vem dos dados (`rag/jurisprudencia.py`, a partir da decisão de cada acórdão), não do LLM, que continua instruído a não responder sobre jurisprudência; por isso não inventa acórdãos. Mostra o número, a data, o sentido e a ligação para o site do Tribunal, não o texto do acórdão.
+- **Segunda resposta, separada.** São os acórdãos do TC que julgaram os artigos citados, e os acórdãos de uniformização do STJ e do STA que os interpretaram (desde 20/11/2026), até à data da pergunta. Primeiro vêm as decisões do TC com força obrigatória geral (declarar ou recusar declarar), depois a fiscalização preventiva e a jurisprudência fixada ou uniformizada pelo STJ e pelo STA, depois os casos concretos do TC, do mais recente para o mais antigo: cinco por artigo e a contagem dos restantes. Vem dos dados (`rag/jurisprudencia.py`, a partir da decisão de cada acórdão), não do LLM, que continua instruído a não responder sobre jurisprudência; por isso não inventa acórdãos. Mostra o número, a data, o sentido e a ligação para o site do Tribunal, não o texto do acórdão.
 
 O artigo de um código republicado noutro diploma (o Código Penal na Lei n.º 59/2007) encontra os acórdãos pelo nome do anexo.
 
 Medido em 12/11/2026: com e sem os dados do TC, a avaliação BM25 dá o mesmo resumo nas 736 perguntas, porque o aviso entra depois da ordenação. Nenhuma pergunta da avaliação cai num artigo declarado inconstitucional, e 23 passam a ter a segunda resposta. A extração dos acórdãos tem 90 % de precisão e 88 % de cobertura, medidas às cegas numa amostra que o extrator não tinha visto (ver o [README](../README.md)); a segunda resposta pode por isso ter falhas, e não entra na fiabilidade da resposta da lei.
+
+### Acórdãos de uniformização do STJ e do STA (20/11/2026)
+
+O acervo tem 335 acórdãos publicados na 1.ª Série do Diário da República, de 2008 a 2026, todos de uniformização de jurisprudência:
+
+- 213 do STJ: 124 de fixação, das Secções Criminais, e 89 de uniformização, das Secções Cíveis e Social;
+- 122 do STA.
+
+Extração: `python -m rag.uniformizacao --indice …`, que grava `data/jurisprudencia/uniformizacao/normas-interpretadas.jsonl`.
+
+**De onde vem o texto fixado.** É o sumário publicado no DR, que é o segmento uniformizador deste acórdão, tirado o prefixo «Acórdão do STA de …, Processo …, Uniformiza a jurisprudência nos seguintes termos:».
+
+A decisão também traz o texto, mas não serve como fonte. A última fórmula «fixa-se jurisprudência» do texto decisório é às vezes a jurisprudência de outro acórdão citada no fim. No 8/2025, por exemplo, é a do AUJ n.º 11/2024. Outras vezes a decisão remete para outro ponto («no sentido fixado no ponto 3.2.13»).
+
+Por isso a decisão só confirma o sumário:
+
+- em 239 dos 335, metade das palavras do sumário estão na fórmula de fixação;
+- nos outros 96, a decisão remete para trás, cita outro acórdão, ou o registo só tem o sumário.
+
+Nunca contam a fundamentação, as declarações de voto, o «cumpra-se o artigo 444.º do CPP», nem os acórdãos citados no próprio texto fixado («para os efeitos do Acórdão n.º 4/2014»).
+
+**Normas.** Lê-se o texto fixado com a mesma leitura dos acórdãos do TC (`rag.jurisprudencia.normas`). Tudo o que o texto fixado cita conta como norma interpretada ou aplicada. O diploma é resolvido no índice (`Pesquisa.diplomas`, `Pesquisa.codigo`) na versão do código em vigor à data do acórdão. Um «Código do Trabalho de 2003» vai para a Lei n.º 99/2003, e um «CPA/91» para o Decreto-Lei n.º 442/91.
+
+| | STJ | STA | Total |
+|---|--:|--:|--:|
+| Acórdãos | 213 | 122 | 335 |
+| Com pelo menos um artigo ligado ao índice | 163 | 91 | **254** |
+| Artigos ligados | 286 | 143 | **429** (344 artigos distintos) |
+| Sem artigo nem diploma no texto fixado | 39 | 25 | 64 |
+
+Dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo cláusulas de convenções coletivas e regras gerais («os procedimentos cautelares revestem sempre carácter urgente»). Os outros 17 citam diplomas sem artigo, ou artigos de diplomas que o índice não tem, como o Código de Processo Civil de 1961, que não está no acervo.
+
+**Precisão, medida à mão.** As duas amostras foram tiradas dos anos que não tinham sido lidos durante o desenvolvimento: STJ desde 2016 e STA desde 2015.
+
+- **1.ª amostra (40 acórdãos): 38 de 43 artigos ligados certos (88 %).** Os 5 erros foram corrigidos:
+  - «(CE Euratom)» lido como o Código da Estrada;
+  - dois artigos de uma diretiva e de um regulamento da UE colados ao código citado antes;
+  - o Código do Trabalho de 2003 resolvido para o de 2009;
+  - uma sigla desconhecida (RJC) que passava o artigo ao diploma seguinte.
+- **2.ª amostra (40 acórdãos novos, com o código já corrigido): 55 de 56 artigos ligados certos, 98 % de precisão** (intervalo de Wilson a 95 %: 90–100 %). O erro era o artigo 7.º do Código do Registo Predial, posto no anexo da tabela de emolumentos.
+  - **Cobertura de 86 %:** ficaram por ligar 9 das 64 normas portuguesas citadas, e mais 3 de atos da UE.
+
+Depois da 2.ª medição corrigiram-se o erro e quatro das faltas: «Cód.», «04.º», o CISV e o anexo de emolumentos. Mudaram 7 acórdãos, todos verificados um a um. A 2.ª amostra é por isso uma medida da versão antes destas correções, e não um teste cego da versão gravada.
+
+Falta ainda a lista de artigos só com vírgulas depois de um diploma («arts. 4.º do ETAF, 157.º do CPTA, 61.º e 89.º do DL n.º 433/82»), um caso em 40.
+
+**Na resposta.** Cada acórdão aparece ao lado dos do TC: «Acórdão do STJ n.º 4/2021, de 15/11/2021: Uniformiza jurisprudência», com a ligação para o DR e sem o texto. O artigo 1817.º do Código Civil, por exemplo, mostra:
+
+1. a declaração do TC n.º 23/2006;
+2. o AUJ do STJ n.º 4/2021;
+3. os juízos do TC em casos concretos.
+
+A data é a da decisão (a da assinatura) e, quando não se lê, a da publicação. A aplicação 0.1.1 só leva o ficheiro do TC (`app/leis-portugal.spec`): sem este ficheiro a consulta continua a funcionar, só sem o STJ e o STA.
+
+**Leitura partilhada com o TC.** As correções à leitura das normas (`rag.jurisprudencia`) também mudam a extração do TC:
+
+- os atos da UE passam a ser lidos como diplomas;
+- os artigos encadeados depois do nome do código («do Código do Registo Predial e 89.º e 101.º…») ou da data do diploma passam a ser apanhados;
+- «desta mesma lei» passa a apontar para a lei do tipo dito, e «daquele Código» já não aponta para o decreto da redação;
+- os nomes de códigos deixam de engolir o verbo seguinte;
+- «mantido em vigor pela Lei…» passa a ser lido como lei de alteração.
+
+Mudam 189 das 5.777 alíneas do TC. Revistas à mão, uma amostra de 30 das primeiras 116 e todas as 76 da segunda leva eram correções ou não mudavam nada; a única regressão encontrada foi corrigida.
 
 ## Prova de conceito no browser (12/11/2026)
 
@@ -1056,7 +1119,7 @@ Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em traduç�
 4. **Experimentar as duas respostas com o LLM.** Só foram vistas sem LLM (não havia chave na sessão): ver se o aviso de inconstitucionalidade aparece bem na resposta escrita.
 5. **Diplomas citados por um nome que o índice não reconhece.** É a maior parte das falhas da extração (regulamentos, estatutos, a Lei de Organização e Funcionamento dos Tribunais Judiciais…): ficam sem diploma. Resolver pelo sumário ("Aprova o Regulamento…") tendo em conta a data do acórdão, e medir outra vez.
 6. **Decisões sumárias do TC.** Recolhidas (13/11/2026, `collect tc --sumarias`, `decisoes-sumarias/`): 5.320 das 5.335 listadas, de 1998 a 2026; ficam fora do `normas-julgadas.jsonl` até se medir a extração nelas. As 15 que faltam são páginas vazias no site (`reports/tc_sumarias_failures.jsonl`).
-7. **Mais tarde:** STJ e STA (bases do ITIJ, dgsi.pt) só depois de a segunda resposta estar medida; o TC foi notificado em 12/11/2026, à espera de resposta.
+7. **STJ, STA e Relações.** Os acórdãos de uniformização publicados no DR já estão na segunda resposta (20/11/2026, ver «Acórdãos de uniformização do STJ e do STA»). Os acórdãos comuns estão nas bases do IGFEJ (dgsi.pt). O site não publica termos de uso nem `robots.txt`, e por isso não se recolheu nada. O que se pode recolher, a que ritmo e com que estrutura está em [`reports/jurisprudencia-tribunais-comuns.md`](../reports/jurisprudencia-tribunais-comuns.md), com o rascunho do pedido de autorização (por enviar). O TC foi notificado em 12/11/2026 e ainda não respondeu.
 
 ## Redações anteriores: cópias antigas do mesmo texto (20/11/2026)
 
@@ -1144,5 +1207,7 @@ Por correção, nos registos em vigor no DRE:
 Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto alterado, 1 literal, 1 de premissa errada) e perde 5, e nenhuma «sem resposta» passa a ser respondida. Duas perdas são o mesmo artigo do Código do Trabalho, que desce para 2.º atrás de uma convenção da OIT publicada em `## ANEXO` (agora lida como parte). No top 10 saem 8 e entram 3; entre as que saem está a pergunta coloquial do Código da Estrada que a portaria dos jogos de casino ultrapassa (o caso previsto acima). Contra o `app011-final` o saldo é +15 certas (24 ganhos, 9 perdas). Publicado no Hugging Face a 20/11/2026 como delta de 17/11 para 20/11 (170 MB). Descarregado como a aplicação faz (completa de 16/11 mais os dois deltas): `documentos`, `pedacos` (sem o id), `relacoes`, `so_referencia` e `perguntas_artigo` iguais linha a linha ao índice publicado, e o FTS passa o `integrity-check`. Na `meta` ficam as contagens da completa de 16/11 (os deltas não as levam); a pesquisa só lê de lá o `versao` e o `metodo_termos`, que são iguais.
 
 Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
+
+Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.

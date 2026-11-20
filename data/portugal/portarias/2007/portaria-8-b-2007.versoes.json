@@ -3,7 +3,7 @@
  "id": "pt:dre:236922:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-885358413",
  "dre_path": "/dr/detalhe/portaria/8-b-2007-236922",
- "source_lastmod": "2024-08-22",
+ "source_lastmod": "2026-10-30",
  "versions": [
   {
    "date": "2007-01-03",
@@ -68,6 +68,49 @@
     "885356539",
     "885356540",
     "885356541",
+    "885356542",
+    "885356543",
+    "885356544",
+    "885356545",
+    "885356546",
+    "885356547",
+    "885356548",
+    "885356549"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1162304245:por",
+     "title": "Portaria n.º 394/2026/1",
+     "published": "2026-08-27",
+     "dre_path": "/dr/detalhe/portaria/394-2026-1162304245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "885356526",
+    "885356527",
+    "885356528",
+    "885356529",
+    "885356530",
+    "885356561",
+    "885356562",
+    "1163459875",
+    "885356534",
+    "885356535",
+    "1163460275",
+    "885356537",
+    "885356538",
+    "885356539",
+    "885356540",
+    "1163460075",
     "885356542",
     "885356543",
     "885356544",
@@ -291,6 +334,36 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 22 de Dezembro de 2006."
+  },
+  "1163459875": {
+   "fragment_id": "885358421",
+   "type": 11,
+   "heading": "Artigo 7.º — Contagem do prazo de garantia",
+   "in_force_from": "2026-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 7.º — Contagem do prazo de garantia\n\n1 - Na contagem do prazo de garantia para efeitos de atribuição do subsídio de desemprego a que se refere o artigo 22.º consideram-se os 24 meses civis anteriores à data do desemprego, sem prejuízo de, nas situações em que se mostre necessário para o preenchimento do respetivo prazo de garantia, relevarem:\n\na) Os dias de trabalho prestados no mês em que ocorreu o desemprego;\n\nb) Os dias de férias vencidos e não gozados na vigência do contrato de trabalho.\n\n2 - O período de ausência de registo de remunerações durante o período de concessão de pensões provisórias de invalidez ou no âmbito da protecção nos riscos profissionais não é considerado para efeitos de contagem do prazo de garantia e de cálculo da remuneração de referência das prestações de desemprego, relevando os períodos de registo de remunerações anteriores e posteriores.\n\n> Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
+  },
+  "1163460275": {
+   "fragment_id": "885358424",
+   "type": 11,
+   "heading": "Artigo 10.º — Subsídio social de desemprego subsequente ao subsídio de desemprego",
+   "in_force_from": "2026-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 10.º — Subsídio social de desemprego subsequente ao subsídio de desemprego\n\nNa definição do período de duração do subsídio social de desemprego subsequente ao subsídio de desemprego, a que se refere o artigo 38.º, a carreira contributiva a considerar é aquela que relevou para atribuição da prestação inicial de desemprego.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
+  },
+  "1163460075": {
+   "fragment_id": "885358429",
+   "type": 11,
+   "heading": "Artigo 15.º — Pensão de velhice por antecipação da idade",
+   "in_force_from": "2026-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 15.º — Pensão de velhice por antecipação da idade\n\n1 - O acesso à pensão de velhice por antecipação da idade, nas situações enquadráveis no artigo 57.º, depende da manutenção da situação de desemprego de longa duração, comprovada pela inscrição no centro de emprego.\n\n2 - Para efeitos de aplicação da norma transitória constante do n.º 3 do artigo 82.º, considera-se que integram no seu âmbito, para além das situações em que os beneficiários tenham requerido ou se encontrem a receber subsídio de desemprego ou subsídio de desemprego parcial, aqueles em que o pagamento das prestações se encontra suspenso e as enquadradas no artigo 46.º do Decreto-Lei n.º 119/99, de 14 de abril.\n\n> Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31."
   }
  }
 }

@@ -45,8 +45,8 @@ version:
   consolidation_date: '2023-08-01'
 version_history:
   file: decreto-lei-113-2014.versoes.json
-  count: 5
-  source_lastmod: '2024-06-25'
+  count: 6
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2014-07-16'
     amending: null
@@ -94,6 +94,11 @@ version_history:
     - Altera Artigo 15.º
     - Altera Artigo 25.º
     - Revoga Artigo 20.º
+  - date: '2027-01-05'
+    amending: pt:dre:1192107480:por
+    amending_title: Decreto-Lei n.º 214/2026
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/113/2014/p/cons/20230731/pt/html
@@ -108,19 +113,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2014/p/cons/20230731/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-65884812
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-65884812
-  retrieved_at: '2026-10-22T11:57:20Z'
+  retrieved_at: '2026-11-20T13:50:21Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
-  source_sha256: 6539adc5d1593012308796694f61ba8b67ad2515ae7c5c21fb2b6eefafe732b9
+  source_sha256: 5300897d5c1ad9f47e66e549a23025cabf5f639902de93a82ce32d82fef36f29
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:57:20Z'
-  notes: 5 versão(ões); histórico completo em decreto-lei-113-2014.versoes.json.
+  generated_at: '2026-11-20T13:50:21Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-113-2014.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,6 +188,11 @@ relationships:
     14.º; Altera Artigo 15.º; Altera Artigo 25.º; Revoga Artigo 20.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899
   date: '2023-07-31'
+- type: amended_by
+  target: pt:dre:1192107480:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480
+  date: '2026-11-06'
 - type: cites
   target: pt:dre:159115:por
   label: null
@@ -228,7 +238,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:57:20Z'
+  checked_at: '2026-11-20T13:50:21Z'
   warnings: []
   errors: []
 ---
@@ -363,23 +373,23 @@ a) À realização dos exames nacionais do ensino secundário correspondentes à
 
 b) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.
 
-3 - [Revogado].
+3 - [Revogado.]
 
-4 - [Revogado].
+4 - [Revogado.]
 
-5 - [Revogado].
+5 - [Revogado.]
 
-6 - [Revogado].
+6 - [Revogado.]
 
-7 - [Revogado].
+7 - [Revogado.]
 
-8 - [Revogado].
+8 - [Revogado.]
 
 9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.
 
-> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01.
 
-> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14.
 
 #### Secção IV — Titulares de outros cursos superiores
 

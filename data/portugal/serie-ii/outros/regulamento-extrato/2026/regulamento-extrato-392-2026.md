@@ -28,10 +28,19 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-04-16'
+version_history:
+  file: regulamento-extrato-392-2026.versoes.json
+  count: 1
+  source_lastmod: '2026-10-27'
+  versions:
+  - date: '2026-04-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/regulamento-extrato/392-2026-1086130050
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento-extrato/392-2026-1086130050
-  consolidated_url: null
-  retrieved_at: '2026-10-26T16:04:37Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-extrato/2026-1130499775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-extrato/2026-1130499775
+  retrieved_at: '2026-11-20T13:49:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-27T00:00:00Z'
 integrity:
-  source_sha256: e3f5bfb80be3fabe32b68c5fb8f2fd242fd1f4f381a3c3b7a73c3414d2e120f2
+  source_sha256: d9a8d8043a0e8706e021a02764b3159acadb46ca49c714fd0f3ab87e985ae36c
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T16:04:37Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:03Z'
+  notes: 1 versão(ões); histórico completo em regulamento-extrato-392-2026.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,13 +87,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T16:04:37Z'
+  checked_at: '2026-11-20T13:49:03Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +110,18 @@ Aprovação da 2.ª alteração da tabela de taxas
 | 4.2 | Loja n.º 7, com uma área de 31,15 m2, por mês | 423,20 | NS |
 | 4.3 | Loja n.º 8, com uma área de 33,25 m2, por mês | 387,77 | NS |
 | 4.4 | Loja para restauração, com uma área útil de 80,00 m2, por mês * | 1 500,00 | NS |
+| 4.5 | Espaço armazém, com uma área de 12,40 m2, por mês ** | 50,00 | NS |
 
 * atualmente € 932,76
 
 ** atualmente € 46,53
 
-2 - O envio da presente proposta à Assembleia de Freguesia para análise e aprovação, nos termos da alínea d), do n.º 1, do artigo 9.º, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro.
+2 - O envio da presente proposta à Assembleia de Freguesia para análise e aprovação, nos termos da alínea d), do n.º 1, do artigo 9.º, da Lei n.º 75/2013 de 12 de setembro.
 
-3 - Disponibilizar para consulta nos atendimentos ao público, em formato de papel e em local visível, nos locais de estilo nos edifícios da sede e delegações, o regulamento e fundamentação económico-financeira que cria as taxas previstas na lei do “Regime Geral das Taxas das Autarquias Locais” ([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29/12), de acordo com o seu artigo 13.º
+3 - Disponibilizar para consulta nos atendimentos ao público, em formato de papel e em local visível, nos locais de estilo nos edifícios da sede e delegações, o regulamento e fundamentação económico-financeira que cria as taxas previstas na lei do “Regime Geral das Taxas das Autarquias Locais” (Lei n.º 53-E/2006 de 29/12), de acordo com o seu artigo 13.º
 
 4 - Publicar a alteração à Tabela de Taxas no Diário da República.
 
-5 - Publicar edital da presente deliberação na página eletrónica, nos locais de estilo nos edifícios da sede e delegações, conforme previsto na lei do “Regime Geral das Taxas das Autarquias Locais” ([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29/12), de acordo com o seu artigo 13.º
+5 - Publicar edital da presente deliberação na página eletrónica, nos locais de estilo nos edifícios da sede e delegações, conforme previsto na lei do “Regime Geral das Taxas das Autarquias Locais” (Lei n.º 53-E/2006 de 29/12), de acordo com o seu artigo 13.º
 
 16 de fevereiro de 2026. - A Presidente, Madalena Castro.
-
-319984872

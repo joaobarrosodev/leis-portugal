@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116247255:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2018-1195578275",
+ "dre_path": "/dr/detalhe/despacho-extrato/8453-2018-116247255",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2018-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195578775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195578775": {
+   "fragment_id": "1195578375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, e reunidas as condições previstas no artigo 99.º-A do Anexo à Lei n.º 35/2014, de 20 de junho, introduzido pelo artigo 270.º da Lei do Orçamento de Estado para 2017, torna-se público que, obtidos os pareceres favoráveis de Suas Excelências o Secretário de Estado da Defesa Nacional e Senhora Secretária de Estado da Administração e do Emprego Público, foi autorizada nos termos propostos a consolidação definitiva da mobilidade da situação de mobilidade, com efeitos a partir da data da verificação da regularização da situação remuneratória, tendo sido celebrados os respetivos contratos de trabalho em funções públicas por tempo indeterminado com os trabalhadores abaixo mencionados:\n\n(ver documento original)"
+  }
+ }
+}

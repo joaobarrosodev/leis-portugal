@@ -3,7 +3,7 @@
  "id": "pt:dre:150908012:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-150908020",
  "dre_path": "/dr/detalhe/decreto-lei/102-d-2020-150908012",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-12",
  "versions": [
   {
    "date": "2020-12-10",
@@ -1485,6 +1485,460 @@
     "150935711",
     "150935712",
     "859872275",
+    "150935714",
+    "150935715",
+    "223204245",
+    "150935717",
+    "150935718",
+    "150935719",
+    "150935720",
+    "150935721",
+    "208203260",
+    "150935723",
+    "150935724",
+    "150935725",
+    "150935726",
+    "150935727",
+    "150935728",
+    "150935729",
+    "150935730",
+    "150935731",
+    "150935732",
+    "150935733",
+    "858576119",
+    "150935735",
+    "150935736",
+    "150935737",
+    "150935738",
+    "150935739",
+    "858169001",
+    "150935741",
+    "150935742",
+    "150935743",
+    "858169002",
+    "858168993",
+    "858169003",
+    "858168995",
+    "858169004",
+    "858169005",
+    "858168998",
+    "858169006",
+    "858169000",
+    "150935752",
+    "150935753",
+    "858169007",
+    "150935755",
+    "150935756",
+    "858169008",
+    "150935758",
+    "150935759",
+    "150935760",
+    "150935761",
+    "859874105",
+    "150935763",
+    "150935764",
+    "150935765",
+    "858169009",
+    "150935767",
+    "150935768",
+    "858169010",
+    "150935770",
+    "207988677",
+    "858169011",
+    "858169012",
+    "208203262",
+    "870590522",
+    "150935876",
+    "208203264",
+    "150935884",
+    "150935885",
+    "150935886",
+    "150935887",
+    "208203265",
+    "150935889",
+    "150935890",
+    "150935891",
+    "150935892",
+    "150935893",
+    "150935894",
+    "150935895",
+    "150935896",
+    "150935897",
+    "150935898",
+    "150935899",
+    "150935900",
+    "150935901",
+    "208203266",
+    "150935903",
+    "150935904",
+    "150935905",
+    "150935906",
+    "150935907",
+    "150935908",
+    "150935909",
+    "150935910",
+    "150935911",
+    "150935912",
+    "208606212",
+    "208606213",
+    "208606214",
+    "208606215",
+    "208606216",
+    "208606217",
+    "208606218",
+    "208606219",
+    "208606220",
+    "208606221",
+    "208606222",
+    "208606223",
+    "208606224",
+    "208606225",
+    "208606226",
+    "208606227",
+    "150935913",
+    "150935914",
+    "150935915",
+    "150935916",
+    "150935917",
+    "150935918",
+    "150935919",
+    "150935920",
+    "150935921",
+    "150935922",
+    "150935923",
+    "150935924",
+    "150935925",
+    "150935926",
+    "150935927",
+    "150935928",
+    "150935929",
+    "150935930",
+    "150935931",
+    "150935932",
+    "150935933",
+    "150935934",
+    "150935935",
+    "150935936",
+    "150935937",
+    "150935938",
+    "150935939",
+    "150935940",
+    "150935941",
+    "150935942",
+    "150935943",
+    "150935944",
+    "150935945",
+    "150935946",
+    "150935947",
+    "150935948",
+    "150935949",
+    "150935950",
+    "150935951",
+    "150935952",
+    "150935953",
+    "150935954",
+    "150935955",
+    "150935956",
+    "150935957",
+    "150935958",
+    "150935959",
+    "150935960",
+    "150935961",
+    "150935962",
+    "150935963",
+    "150935964",
+    "150935965",
+    "150935966",
+    "150935967",
+    "150935968",
+    "150935969",
+    "150935970",
+    "150935971",
+    "150935972",
+    "150935973",
+    "150935974",
+    "150936075",
+    "150936076",
+    "150936077",
+    "150936078",
+    "150936079",
+    "150936080",
+    "150936081",
+    "150936082",
+    "223204215",
+    "150936084",
+    "223204216",
+    "150936086",
+    "150936087",
+    "150936088",
+    "150936089",
+    "150936090",
+    "150936091",
+    "150936092",
+    "150936093",
+    "150936094",
+    "150936095",
+    "150936096",
+    "150936097",
+    "150936098",
+    "150936099",
+    "150936100",
+    "150936101",
+    "150936102",
+    "150936103",
+    "150936104",
+    "150936105",
+    "150936106",
+    "150936107",
+    "150936108",
+    "150936109",
+    "150936110",
+    "150936111",
+    "150936112",
+    "150936113",
+    "150936114",
+    "150936115",
+    "150936116",
+    "150936117",
+    "150936118",
+    "150936119"
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1186535402:por",
+     "title": "Decreto-Lei n.º 205/2026",
+     "published": "2026-10-27",
+     "dre_path": "/dr/detalhe/decreto-lei/205-2026-1186535402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 60.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 75.º",
+    "Altera Artigo 76.º",
+    "Altera Artigo 79.º",
+    "Altera Artigo 83.º",
+    "Altera Artigo 86.º",
+    "Altera Artigo 86.º-A",
+    "Altera Artigo 87.º-A",
+    "Altera Artigo 90.º",
+    "Altera Artigo 91.º",
+    "Altera Artigo 93.º",
+    "Altera Artigo 98.º",
+    "Altera Artigo 99.º",
+    "Altera Artigo 103.º",
+    "Altera Artigo 107.º",
+    "Altera Artigo 108.º",
+    "Altera Artigo 111.º",
+    "Altera Artigo 112.º",
+    "Altera Artigo 113.º",
+    "Altera Artigo 114.º",
+    "Altera Artigo 115.º",
+    "Altera Artigo 117.º"
+   ],
+   "fragments": [
+    "150910339",
+    "150910340",
+    "150910341",
+    "150910342",
+    "150910343",
+    "150910344",
+    "223204217",
+    "223204218",
+    "208203246",
+    "150910348",
+    "150910349",
+    "150910350",
+    "150910351",
+    "150910352",
+    "208203247",
+    "150910354",
+    "150910355",
+    "858576118",
+    "150910357",
+    "150910358",
+    "208203249",
+    "150910360",
+    "150910361",
+    "150910362",
+    "150910363",
+    "150910364",
+    "150910365",
+    "1191000475",
+    "223204237",
+    "1191000675",
+    "150910369",
+    "150910370",
+    "1191000875",
+    "150910372",
+    "858168977",
+    "858168978",
+    "858576121",
+    "919128793",
+    "859874103",
+    "1191001075",
+    "858168983",
+    "919128794",
+    "150935480",
+    "150935481",
+    "150935482",
+    "150935483",
+    "150935484",
+    "223204220",
+    "919128795",
+    "919128796",
+    "919128797",
+    "150935489",
+    "150935490",
+    "858576127",
+    "150935492",
+    "919128798",
+    "859872296",
+    "1191028675",
+    "223204238",
+    "858576129",
+    "1191001275",
+    "150935499",
+    "223204239",
+    "150935501",
+    "208203252",
+    "859874104",
+    "150935504",
+    "1191001475",
+    "1191001675",
+    "1191001875",
+    "150935508",
+    "1190998675",
+    "919128799",
+    "858576133",
+    "150935512",
+    "150935513",
+    "150935514",
+    "150935515",
+    "1190998875",
+    "1190999075",
+    "1191028875",
+    "150935519",
+    "150935520",
+    "1190999275",
+    "150935522",
+    "858576136",
+    "150935524",
+    "150935525",
+    "858576156",
+    "150935527",
+    "1190999475",
+    "1190999675",
+    "150935530",
+    "150935531",
+    "859872299",
+    "1190999875",
+    "1191000075",
+    "150935535",
+    "150935536",
+    "919128800",
+    "150935538",
+    "150935539",
+    "150935540",
+    "1191000275",
+    "1191002475",
+    "1191002775",
+    "150935544",
+    "150935545",
+    "859872300",
+    "150935547",
+    "150935548",
+    "150935549",
+    "858576163",
+    "150935551",
+    "150935552",
+    "858576166",
+    "858576167",
+    "150935555",
+    "150935556",
+    "150935557",
+    "150935558",
+    "1191002975",
+    "1191003175",
+    "858576169",
+    "150935562",
+    "150935563",
+    "1191003375",
+    "150935565",
+    "150935566",
+    "858576171",
+    "150935568",
+    "1191003575",
+    "150935570",
+    "150935571",
+    "1191003775",
+    "1191003975",
+    "858576172",
+    "1191004175",
+    "858168991",
+    "858168992",
+    "150935676",
+    "1191004375",
+    "150935678",
+    "1191006875",
+    "919128801",
+    "1191007075",
+    "150935682",
+    "150935683",
+    "150935684",
+    "150935685",
+    "150935686",
+    "208203254",
+    "1191007275",
+    "1191007475",
+    "150935690",
+    "150935691",
+    "150935692",
+    "150935693",
+    "1191007675",
+    "150935695",
+    "150935696",
+    "150935697",
+    "150935698",
+    "223204229",
+    "1191007875",
+    "223204249",
+    "150935701",
+    "1191008075",
+    "150935703",
+    "150935704",
+    "858629504",
+    "1191008275",
+    "1191025375",
+    "1191025575",
+    "1191025775",
+    "1191025975",
+    "150935711",
+    "150935712",
+    "1191027975",
     "150935714",
     "150935715",
     "223204245",
@@ -6213,6 +6667,470 @@
     "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2025 - Diário da República n.º 98/2025, Série I de 2025-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081), em vigor a partir de 2025-05-23"
    ],
    "markdown": "###### Artigo 92.º — Fim do estatuto de resíduo\n\n1 - Os resíduos que tenham sido submetidos a uma operação de valorização, incluindo a reciclagem, devem deixar de ser considerados resíduos se estiverem reunidas as seguintes condições:\n\na) A substância ou objeto destinar-se a ser utilizada para fins específicos;\n\nb) Existir um mercado ou procura para essa substância ou objeto;\n\nc) A substância ou objeto satisfazer os requisitos técnicos para os fins específicos e respeitar a legislação e as normas aplicáveis aos produtos; e\n\nd) A utilização da substância ou objeto não acarretar impactes globalmente adversos do ponto de vista ambiental ou da saúde humana.\n\n2 - Na ausência de definição de critérios a nível da União Europeia, pode o membro do Governo responsável pela área do ambiente definir por despacho critérios relativos a determinados tipos de resíduos, que concretizem as condições referidas no número anterior, tendo em conta os eventuais impactes adversos da substância ou objeto no ambiente e na saúde humana e facilitando a utilização prudente e racional dos recursos naturais, e que incluam:\n\na) Os resíduos admissíveis na operação de valorização;\n\nb) Os processos e técnicas de tratamento autorizados;\n\nc) Critérios de qualidade para os materiais que deixaram de ser resíduos resultantes da operação de valorização em conformidade com as normas aplicáveis aos produtos, incluindo valores-limite para os poluentes, se necessário;\n\nd) Requisitos aplicáveis a sistemas de gestão a fim de demonstrarem que cumprem os critérios de atribuição do fim do estatuto de resíduo, inclusive o controlo da qualidade e monitorização interna e a certificação, se for caso disso;\n\ne) Um modelo de declaração de conformidade e as condições da sua emissão e utilização.\n\n3 - Para efeitos do disposto no número anterior, a definição de critérios depende de audição prévia da ANR e deve ser notificada à Comissão em conformidade com o disposto na Diretiva (UE) 2015/1535, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015.\n\n4 - Na ausência de critérios pormenorizados a nível da União Europeia e a nível nacional, e com base nas condições previstas no n.º 1, a ANR pode decidir caso a caso, por sua iniciativa ou sob proposta do interessado, se determinado resíduo deixou de o ser, tendo em conta os indicadores referidos no n.º 2 e os valores-limite para os poluentes, sendo a respetiva decisão publicada no sítio na Internet da ANR.\n\n5 - Para efeitos do disposto no número anterior, os interessados apresentam pedido junto da ANR, cujo modelo se encontra disponível no seu sítio na Internet.\n\n6 - A pessoa singular ou coletiva que utilizar pela primeira vez um material que deixou de ser resíduo e que não foi colocado no mercado, ou que colocar um material no mercado pela primeira vez depois de este ter deixado de ser resíduo, deve assegurar que o material cumpre os requisitos pertinentes estabelecidos na legislação aplicável sobre produtos químicos e outros produtos.\n\n7 - Para efeitos do referido no número anterior, as condições estabelecidas no n.º 1 têm de ser cumpridas antes da legislação sobre produtos químicos e outros produtos ser aplicável ao material que deixou de ser resíduo.\n\n8 - Quando o reconhecimento do fim do estatuto de resíduo esteja dependente de determinada utilização final do produto e o operador não o encaminhe diretamente para a sua utilização final, deve comprová-lo quando solicitado pela ANR ou demais entidades com competência de fiscalização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2025 - Diário da República n.º 98/2025, Série I de 2025-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081), em vigor a partir de 2025-05-23"
+  },
+  "1191000475": {
+   "fragment_id": "150908048",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regime estabelece as medidas de proteção do ambiente e da saúde humana, necessárias para prevenir ou reduzir a produção de resíduos e os impactes adversos decorrentes da produção e gestão de resíduos, para diminuir os impactes globais da utilização dos recursos e para melhorar a eficiência dessa utilização, com vista à transição para uma economia circular e para garantir a competitividade a longo prazo, transpondo para a ordem jurídica nacional a Diretiva 2008/98/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos, alterada pelo Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014, pelo Regulamento (CE) n.º 2017/997, do Conselho, de 8 de junho de 2017, pela Diretiva (UE) 2015/1127, da Comissão, de 10 de julho de 2015 e pela Diretiva (UE) 2018/851, do Parlamento Europeu e do Conselho, de 30 de maio de 2018.\n\n2 - O presente regime assegura ainda a execução e garante o cumprimento na ordem jurídica interna das obrigações decorrentes para o Estado português do Regulamento (UE) 2024/1157 do Parlamento Europeu e do Conselho, de 11 de abril de 2024, relativo às transferências de resíduos e que altera os Regulamentos (UE) n.º 1257/2013 e (UE) 2020/1056 e que revoga o Regulamento (CE) n.º 1013/2006 (Regulamento MTR).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191000675": {
+   "fragment_id": "150908050",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2025 - Diário da República n.º 98/2025, Série I de 2025-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081), em vigor a partir de 2025-05-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para os efeitos do disposto no presente regime, entende-se por:\n\na) «Abandono», a renúncia ao controlo de resíduo sem qualquer beneficiário determinado, impedindo a sua gestão;\n\nb) «Armazenagem», a deposição controlada de resíduos, antes do seu tratamento e por prazo determinado, designadamente as operações R 13 e D 15 identificadas nos anexos i e ii ao presente regime e do qual fazem parte integrante;\n\nc) «Armazenagem preliminar», a deposição controlada de resíduos em instalações onde os resíduos são descarregados a fim de serem preparados para posterior transporte para efeitos de tratamento, como parte do processo de recolha;\n\nd) «Biorresíduos», os resíduos biodegradáveis de jardins e parques, os resíduos alimentares e de cozinha das habitações, dos escritórios, dos restaurantes, dos grossistas, das cantinas, das unidades de catering e retalho e os resíduos similares das unidades de transformação de alimentos;\n\ne) «Centro de recolha de resíduos», o local onde os resíduos são depositados e onde se procede exclusivamente à armazenagem e/ou triagem preliminares desses resíduos para posterior encaminhamento para tratamento;\n\nf) «Comerciante de resíduos», qualquer pessoa singular ou coletiva que intervenha a título principal na compra e subsequente venda de resíduos, mesmo que não tome a posse física dos resíduos;\n\ng) «Corretor de resíduos», qualquer pessoa singular ou coletiva que organize a valorização ou eliminação de resíduos por conta de outrem, mesmo que não tome a posse física dos resíduos;\n\nh) «Demolição e/ou desconstrução seletiva», a sequenciação das atividades de desconstrução para permitir a separação e a seleção dos resíduos de construção e demolição (RCD) por materiais de construção;\n\ni) «Detentor», o produtor de resíduos ou a pessoa singular ou coletiva que tenha resíduos, pelo menos, na sua simples detenção, nos termos do artigo 1253.º do Código Civil, aprovado em anexo ao Decreto-Lei n.º 47344/66, de 25 de novembro, na sua redação atual;\n\nj) «Eliminação», qualquer operação de tratamento de resíduos que não seja de valorização, nomeadamente as incluídas no anexo i ao presente regime, ainda que se verifique como consequência secundária a recuperação de substâncias ou de energia;\n\nk) ‘Enchimento’, qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues resíduos não perigosos adequados para esse fim em substituição de outros materiais que não são resíduos, limitando-se às quantidades estritamente necessárias para esse efeito;\n\nl) «Entidade coordenadora», a entidade a quem compete, nos termos da legislação aplicável, a coordenação do procedimento de licenciamento ou autorização de estabelecimentos onde são efetuadas atividades de tratamento de resíduos abrangidos por outros regimes específicos de licenciamento de atividades económicas e a emissão da autorização ou da licença para a instalação, alteração e exploração desses estabelecimentos;\n\nm) «Entidade licenciadora», a entidade à qual compete o licenciamento das instalações de tratamento de resíduos;\n\nn) «Fluxo específico de resíduos», a categoria de resíduos cuja proveniência é transversal às várias origens ou setores de atividade, sujeitos a uma gestão específica;\n\no) «Gestão de resíduos», a recolha, o transporte, a triagem, a valorização e a eliminação de resíduos, incluindo a supervisão destas operações, a manutenção dos locais de eliminação após encerramento, e as medidas tomadas na qualidade de comerciante de resíduos ou corretor de resíduos;\n\np) «Operador», qualquer pessoa singular ou coletiva que procede à gestão de resíduos;\n\nq) «Passivo ambiental», a situação de degradação ambiental resultante da libertação de contaminantes ao longo do tempo e/ou de forma não controlada, nomeadamente nos casos em que não seja possível identificar o respetivo agente poluidor;\n\nr) «Plano», o estudo integrado dos elementos que regulam as ações de intervenção, identificando os objetivos a alcançar, as atividades a realizar, as competências e atribuições dos agentes envolvidos e os meios necessários à concretização das ações previstas;\n\ns) «Ponto de recolha», o local onde se procede exclusivamente à receção e à armazenagem preliminar de resíduos como parte do processo de recolha;\n\nt) «Preparação para reutilização», as operações de valorização que consistem no controlo, limpeza ou reparação, mediante as quais os produtos ou os componentes de produtos que se tenham tornado resíduos são preparados para serem reutilizados, sem qualquer outro tipo de pré-processamento;\n\nu) «Prevenção», a adoção de medidas antes de uma substância, material ou produto assumir a natureza de resíduo, destinadas a reduzir:\n\ni) A quantidade de resíduos produzidos, designadamente através do redesenho de processos, produtos e adoção de novos modelos de negócio até à otimização da utilização de recursos, da reutilização de produtos e do prolongamento do tempo de vida dos produtos;\n\nii) Os impactes adversos no ambiente e na saúde humana resultantes dos resíduos produzidos; ou\n\niii) O teor de substâncias perigosas presentes nos materiais e nos produtos;\n\nv) «Produtor de resíduos», qualquer pessoa singular ou coletiva cuja atividade produza resíduos, isto é, um produtor inicial de resíduos, ou que efetue operações de pré-processamento, de mistura ou outras que alterem a natureza ou a composição desses resíduos;\n\nw) «Reciclagem», qualquer operação de valorização, através da qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins, incluindo o reprocessamento de materiais orgânicos, mas excluindo a valorização energética e o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;\n\nx) «Recolha», a coleta de resíduos, incluindo a triagem e a armazenagem preliminares dos resíduos, para fins de transporte para uma instalação de tratamento de resíduos;\n\ny) «Recolha seletiva», a recolha efetuada de forma a manter os resíduos separados por tipo e natureza com vista a facilitar o tratamento específico;\n\nz) «Remediação de solos», o procedimento de remoção da fonte de contaminação e de implementação de técnica ou conjugação de técnicas de tratamento de um solo contaminado, incluindo o tratamento biológico, físico-químico ou térmico, o confinamento e gestão de risco, a regeneração natural controlada, entre outras, realizadas para controlar, confinar, reduzir ou eliminar os contaminantes e/ou as vias de exposição, para que a contaminação de um solo deixe de constituir um risco inaceitável para a saúde humana e/ou para o ambiente, tendo em conta o seu uso atual ou previsto, podendo, dependendo do local em que decorre, classificar-se em:\n\ni) In situ, quando o solo não é removido, efetuando-se a remediação no próprio local;\n\nii) Ex situ, quando o solo é removido, efetuando-se a remediação no próprio local ou, o seu tratamento, enquanto resíduo, noutro local adequado fora do estabelecimento.\n\naa) «Resíduos», quaisquer substâncias ou objetos de que o detentor se desfaz ou tem a intenção ou a obrigação de se desfazer;\n\nbb) «Resíduos alimentares», todos os géneros alimentícios na aceção do artigo 2.º do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que se tornaram resíduos;\n\ncc) ‘Resíduo de construção e demolição’, o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações incluindo os resíduos provenientes de pequenas atividades de bricolagem que envolvam atividades de construção e demolição em habitações particulares, correspondendo aos tipos de resíduos incluídos no capítulo 17 da lista de resíduos estabelecida pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014, na sua redação atual;\n\ndd) «Resíduo perigoso», o resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;\n\nee) ‘Resíduo urbano’, o resíduo classificado no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) estabelecida pela Decisão da Comissão 2014/955/UE, de 18 de dezembro de 2014, na sua redação atual, incluindo, ainda, os resíduos urbanos após tratamento classificados com os códigos enumerados no capítulo 19 da LER:\n\ni) De recolha indiferenciada e de recolha seletiva das habitações, incluindo papel e cartão, vidro, metais, plásticos, biorresíduos, madeira, têxteis, embalagens, resíduos de equipamentos elétricos e eletrónicos, resíduos de pilhas e acumuladores, bem como resíduos volumosos, incluindo colchões e mobiliário; e\n\nii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, como de estabelecimentos de comércio a retalho, serviços e restauração, de estabelecimentos escolares, de unidades de prestação de cuidados de saúde e de empreendimentos turísticos, ou outras, caso sejam semelhantes aos resíduos das habitações pela sua natureza e composição;\n\nff) (Revogada.)\n\ngg) «Resíduo agrícola», o resíduo proveniente de exploração agrícola e/ou pecuária ou similar;\n\nhh) «Resíduo do comércio, serviços e restauração», o resíduo resultante das atividades de comércio, serviços e restauração;\n\nii) «Resíduo hospitalar», o resíduo resultante de atividades de prestação de cuidados de saúde a seres humanos ou a animais, nas áreas da prevenção, diagnóstico, tratamento, reabilitação ou investigação e ensino, bem como de outras atividades envolvendo procedimentos invasivos, tais como acupuntura, piercings e tatuagens, e o resíduo resultante da tanatopraxia;\n\njj) Resíduo industrial», o resíduo resultante de atividades industriais, bem como o que resulte das atividades de produção e distribuição de eletricidade, gás e água;\n\nkk) ‘Resíduo não perigoso’, o resíduo não abrangido pela alínea dd);\n\nll) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;\n\nmm) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;\n\nnn) «Transferência», um transporte de resíduos destinados a valorização ou eliminação na aceção do n.º 25 do artigo 3.º do Regulamento MTR:\n\ni) Entre dois países;\n\nii) Entre um país e países e territórios ultramarinos ou outras áreas sob a proteção do primeiro;\n\niii) Entre um país e qualquer área que não faça parte de qualquer país ao abrigo do direito internacional;\n\niv) Entre um país e a Antártida;\n\nv) A partir de um país, transitando por qualquer uma das áreas supramencionadas;\n\nvi) No interior de um país, transitando por qualquer uma das áreas supramencionadas e que tenha origem e se conclua no mesmo país; ou\n\nvii) Numa área geográfica não sujeita à jurisdição de qualquer país, com destino a um país;\n\noo) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;\n\npp) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;\n\nqq) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;\n\nrr) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;\n\nss) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.\n\n2 - Para efeitos do presente regime, mais se entende por:\n\na) «Estabelecimento», «instalação» e «licença de exploração», as mesmas expressões, tal como definidas no Regime de Licenciamento Único de Ambiente (LUA), aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual;\n\nb) «Melhores técnicas disponíveis», as melhores técnicas disponíveis, tal como definidas no Decreto-Lei n.º 127/2013, de 30 de agosto.\n\n3 - Os resíduos urbanos referidos na alínea ee) do n.º 1 não incluem os:\n\na) Resíduos do processo produtivo;\n\nb) Resíduos da agricultura;\n\nc) Resíduos da silvicultura;\n\nd) Resíduos das pescas;\n\ne) Resíduos de fossas séticas ou redes de saneamento e tratamento, incluindo as lamas de depuração;\n\nf) Os veículos em fim de vida;\n\ng) Resíduos de construção e demolição;\n\nh) Resíduos da indústria;\n\ni) Resíduos do comércio grossista; e\n\nj) Resíduos de outras atividades não previstos na subalínea ii) da alínea ee) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2025 - Diário da República n.º 98/2025, Série I de 2025-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081), em vigor a partir de 2025-05-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+  },
+  "1191000875": {
+   "fragment_id": "150908053",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios da autossuficiência e da proximidade",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 5.º — Princípios da autossuficiência e da proximidade\n\n1 - As operações de tratamento devem decorrer em instalações adequadas com recurso às tecnologias e métodos apropriados para assegurar um nível elevado de proteção do ambiente e da saúde pública, preferencialmente em território nacional e obedecendo a critérios de proximidade.\n\n2 - A Autoridade Nacional de Resíduos (ANR) pode interditar as transferências de resíduos de e para o território nacional, nos termos do Regulamento MTR, designadamente em execução de medidas previstas nos planos de gestão de resíduos com vista à proteção dos princípios da proximidade, da hierarquia dos resíduos e da autossuficiência nacional.\n\n3 - A ANR pode ainda, para proteger a rede de instalações nacional e em derrogação do disposto no Regulamento MTR, limitar as entradas de resíduos destinados a incineradoras que sejam classificadas como operações de valorização, caso se verifique que tais entradas implicam a eliminação dos resíduos nacionais ou o tratamento desses resíduos de modo incompatível com os respetivos planos de resíduos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191001075": {
+   "fragment_id": "150908059",
+   "type": 11,
+   "heading": "Artigo 11.º — Recolha, transporte e tratamento complementar de resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01, com efeitos a partir de 2027-04-26.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Recolha, transporte e tratamento complementar de resíduos\n\n1 - Os sistemas de gestão de resíduos municipais, intermunicipais e multimunicipais podem proceder à recolha, transporte e tratamento de resíduos urbanos não abrangidos pela reserva de serviço público referida no n.º 2 do artigo 9.º, bem como de resíduos não urbanos, se cumulativamente:\n\na) O produtor do resíduo, ou o seu detentor, o solicitar ao sistema de gestão de resíduos municipal, intermunicipal ou multimunicipal;\n\nb) O produtor do resíduo, ou o seu detentor, comprovar, nos termos do número seguinte, a ausência de oferta por operadores privados que assegurem a recolha, transporte e o tratamento dos resíduos; e\n\nc) Os resíduos sejam adequados em qualidade e quantidade para recolha, transporte e tratamento no sistema de gestão de resíduos municipal, intermunicipal ou multimunicipal.\n\n2 - Para efeitos da alínea b) do número anterior, existe ausência de oferta por operadores privados licenciados quando as condições comerciais por si apresentadas sejam manifestamente abusivas e inviabilizem, de forma objetiva, o acesso ao serviço, nomeadamente quando:\n\na) Sejam praticados preços ou impostas condições contratuais não equitativas ou discriminatórias relativamente a prestações equivalentes, sem justificação objetiva;\n\nb) Se verifiquem práticas restritivas da concorrência, nos termos gerais.\n\n3 - O exercício das atividades previstas no n.º 1 é precedido de pareceres obrigatórios da Autoridade da Concorrência, da ANR e da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR), e, quando aplicável, carece de autorização da entidade titular do serviço.\n\n4 - Os pareceres referidos no número anterior incidem sobre:\n\na) Os efeitos da atividade na concorrência e a sua harmonização com os objetivos de serviço público;\n\nb) O cumprimento da hierarquia de resíduos, nos termos previstos no artigo 7.º, e o cumprimento do requisito estabelecido na alínea c) do n.º 1; e\n\nc) A adequação da contraprestação proposta pelo sistema de gestão de resíduos municipal, intermunicipal ou multimunicipal, a qual deve assegurar a cobertura integral dos custos da atividade e observar condições compatíveis com as praticadas no mercado.\n\n5 - O produtor dos resíduos, ou o seu detentor, encaminha, ao abrigo de contrato celebrado para o efeito com o sistema municipal, intermunicipal ou multimunicipal de gestão de resíduos urbanos, a totalidade dos resíduos abrangidos pelo pedido a que se refere a alínea a) do n.º 1 ao respetivo sistema.\n\n6 - O contrato tem a duração máxima de três anos e deve cessar quando deixe de se verificar qualquer dos pressupostos previstos no n.º 1, caso em que, quando aplicável a autorização a que se refere o n.º 3 deve ser revogada pela entidade titular do serviço.\n\n7 - A cessação, nos termos gerais, dos efeitos do contrato referido no número anterior determina a caducidade da autorização a que se refere o n.º 3.\n\n8 - Os sistemas de gestão de resíduos municipal, intermunicipal ou multimunicipal asseguram uma contabilização autónoma das quantidades de resíduos recolhidos e tratados ao abrigo do disposto no presente artigo, bem como dos custos associados às respetivas atividades de recolha, transporte e tratamento complementar.\n\n9 - O disposto no presente artigo é regulamentado por portaria dos membros do Governo responsáveis pelas áreas da economia e do ambiente, que estabelece, designadamente:\n\na) Os critérios e formas de consulta aos operadores privados licenciados;\n\nb) Os elementos necessários à instrução do pedido pelo produtor dos resíduos, ou o seu detentor;\n\nc) A tramitação do procedimento e os respetivos prazos;\n\nd) O conteúdo mínimo do contrato a celebrar;\n\ne) O procedimento aplicável à cessação do contrato e à revogação da autorização pela entidade titular do serviço.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619) determina que a autorização prevista no n.º 2 do presente artigo apenas é exigível a partir de 1 de janeiro de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01, com efeitos a partir de 2027-04-26.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27, produz efeitos a partir de 2025-01-01"
+  },
+  "1191028675": {
+   "fragment_id": "150935577",
+   "type": 11,
+   "heading": "Artigo 25.º — Outras medidas de prevenção",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 25.º — Outras medidas de prevenção\n\n1 - Os serviços e organismos da Administração Pública devem favorecer e incentivar a prevenção da produção e perigosidade dos resíduos, em particular estabelecendo, no âmbito dos procedimentos de contratação pública para a aquisição de bens e serviços, critérios de valorização das propostas que prevejam o fornecimento e/ou a utilização de produtos que gerem menos resíduos ou que sejam reutilizáveis, designadamente produtos não embalados, de produtos embalados em embalagens reutilizáveis, ou passíveis de devolução quando não utilizados.\n\n2 - A Administração Pública adota, sempre que possível, as medidas necessárias para incentivar o consumo de água da torneira, nomeadamente disponibilizar apenas água da torneira nas suas instalações e em eventos da sua responsabilidade, em condições que garantam a higiene e segurança alimentar.\n\n3 - (Revogado.)\n\n4 - A ANR estabelece, em articulação com os serviços das áreas governativas respetivas, os procedimentos para obtenção de informação relativa ao cumprimento das obrigações previstas no presente artigo.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191001275": {
+   "fragment_id": "150935580",
+   "type": 11,
+   "heading": "Artigo 28.º — Conceção, produção e distribuição de produtos que geram resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 28.º — Conceção, produção e distribuição de produtos que geram resíduos\n\n1 - Sem prejuízo do disposto no n.º 5, a colocação no mercado de determinadas categorias de produtos e materiais pode estar sujeita ao cumprimento de uma taxa mínima de incorporação de material reciclado nesses produtos e materiais, com exceção dos materiais provenientes de matérias-primas renováveis, exceto se a avaliação do ciclo de vida não o justificar.\n\n2 - A taxa de incorporação referida no número anterior é especificada por portaria dos membros do Governo responsáveis pelas áreas governativas competentes em razão dos produtos e materiais, e tem em consideração as características técnicas dos produtos, em particular em questões ambientais, de saúde e segurança, e após consulta dos representantes dos setores em causa.\n\n3 - O método de cálculo da taxa de incorporação, bem como os procedimentos para monitorizar o cumprimento da obrigação prevista no n.º 1, constam igualmente da portaria prevista no número anterior.\n\n4 - A ANR, ou os serviços ou organismo das áreas governativas competentes referidas no n.º 2, podem solicitar aos produtores, importadores ou exportadores:\n\na) Informações sobre os resíduos gerados pelos produtos que fabricam, importam ou exportam, nomeadamente se são passíveis de serem geridos nas condições previstas no presente artigo.\n\nb) Elementos que justifiquem a taxa de incorporação de material reciclado nos seus produtos e informação relativa à possível presença de substâncias perigosas nos seus produtos, os métodos de gestão dos resíduos resultantes e as consequências de sua implementação.\n\n5 - É obrigatória a utilização de pelo menos 10 % de materiais reciclados ou que incorporem materiais reciclados relativamente à quantidade total de materiais aplicados em obra, no âmbito da contratação de empreitadas de construção e de manutenção de infraestruturas, nos termos do ­disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.\n\n6 - A ANR, em articulação com os serviços ou organismos das áreas governativas competentes, estabelece metas de crescimento gradual da incorporação de materiais reciclados em obras públicas.\n\n7 - Os materiais reciclados referidos no n.º 5 devem ser certificados pelas entidades competentes, nacionais ou europeias, de acordo com a legislação em vigor, podendo ser apresentada em alternativa documentação comprovativa, que ateste de forma fundamentada a incorporação de reciclados.\n\n8 - Para efeitos do disposto no n.º 5 são considerados os resíduos valorizados em obra, aos quais não é aplicável o disposto no número anterior.\n\n9 - Caso não seja possível a utilização de matérias prevista no n.º 5, o Plano de Prevenção e Gestão de RCD (PPGRCD) deve referir expressamente esta impossibilidade acompanhada da respetiva justificação técnica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191001475": {
+   "fragment_id": "150935587",
+   "type": 11,
+   "heading": "Artigo 32.º — Acordos voluntários para a promoção da recolha e valorização dos resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 32.º — Acordos voluntários para a promoção da recolha e valorização dos resíduos\n\n1 - A ANR pode celebrar, em estrito respeito pelas regras da concorrência, acordos voluntários com produtores ou detentores de resíduos, produtores de produtos, associações, entidades da economia social ou outras entidades que contribuam para a implementação da política de resíduos e transição para uma economia circular.\n\n2 - A manifestação de interesse na formalização de acordo voluntário junto da ANR, deve incluir os seguintes elementos necessários à caracterização do fluxo e subsequente tomada de decisão:\n\na) Objeto da proposta e caracterização dos resíduos;\n\nb) O circuito de gestão dos resíduos, a adotar;\n\nc) Os objetivos de gestão e as respetivas metas, se aplicável;\n\nd) Demonstração do cumprimento da hierarquia de resíduos;\n\ne) A metodologia de monitorização do sistema de gestão a adotar.\n\n3 - Caso o acordo voluntário abranja resíduos da responsabilidade dos sistemas municipais e multimunicipais, a formalização do mesmo deve ser antecedida de consulta à respetiva entidade.\n\n4 - Após análise dos elementos referidos no n.º 2, e caso a decisão da ANR seja favorável, é formalizado o acordo voluntário, cujos termos são publicitados no sítio da ANR na Internet.\n\n5 - O acordo voluntário estabelece os objetivos a alcançar e os termos da sua implementação e resolução, nomeadamente no que se refere às regras aplicáveis à gestão dos resíduos abrangidos.\n\n6 - O disposto no n.º 1 não se verifica sempre que exista legislação específica que assegure a gestão do fluxo em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191001675": {
+   "fragment_id": "150935588",
+   "type": 11,
+   "heading": "Artigo 33.º — Celebração de acordos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 33.º — Celebração de acordos\n\n1 - Os estabelecimentos de comércio a retalho ou outros estabelecimentos podem contribuir para a constituição da rede de pontos de recolha seletiva dos resíduos urbanos mediante celebração de acordos, em estrito respeito pelas regras da concorrência, com os sistemas municipais ou multimunicipais, de acordo com as respetivas competências, podendo nesse âmbito disponibilizar locais adequados para a colocação de pontos de recolha seletiva, sem prejuízo do disposto em legislação específica.\n\n2 - Os acordos referidos no número anterior devem contemplar os elementos referidos no n.º 2 do artigo anterior, com as devidas adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191001875": {
+   "fragment_id": "150935589",
+   "type": 11,
+   "heading": "Artigo 34.º — Sensibilização, informação e investigação e desenvolvimento",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 34.º — Sensibilização, informação e investigação e desenvolvimento\n\nAs entidades envolvidas na cadeia de produção, importação, distribuição e utilização de produtos devem, individualmente ou mediante a celebração de acordos entre si ou com associações representativas de setores relevantes, em estrito respeito pelas regras da concorrência, promover ações de sensibilização e de informação do público sobre boas práticas de gestão dos respetivos resíduos e sobre os potenciais impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada, bem como ações na área da investigação e desenvolvimento no domínio da prevenção e valorização dos respetivos resíduos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+  },
+  "1190998675": {
+   "fragment_id": "150935591",
+   "type": 11,
+   "heading": "Artigo 35.º — Recolha de resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 35.º — Recolha de resíduos\n\n1 - Integram a rede de recolha de resíduos os pontos de recolha e os centros de recolha.\n\n2 - A armazenagem preliminar de resíduos apenas pode ter lugar por períodos não superiores a três anos, nas instalações onde é realizada.\n\n3 - Os sistemas municipais e multimunicipais são obrigados a rececionar todos os resíduos, incluindo os resíduos perigosos, cuja gestão lhes compita nos termos da lei.\n\n4 - Os centros de recolha de resíduos estão sujeitos ao cumprimento de normas técnicas estabelecidas pela ANR atendendo a critérios de qualidade técnica e de eficiência, as quais definem as quantidades e os períodos máximos de armazenagem preliminar, a publicitar no seu sítio na Internet no prazo de um ano a contar da data da publicação do presente decreto-lei.\n\n5 - Os centros de recolha de resíduos são detidos e operados exclusivamente pelo próprio produtor dos resíduos, por entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos, direta ou indiretamente, ou por sistemas municipais, intermunicipais ou multimunicipais de gestão de resíduos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1190998875": {
+   "fragment_id": "150935598",
+   "type": 11,
+   "heading": "Artigo 39.º — Autoridade competente",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 39.º — Autoridade competente\n\n1 - A ANR é a autoridade competente, nos termos e para os efeitos do disposto no artigo 75.º do Regulamento MTR.\n\n2 - Os correspondentes responsáveis pela informação e orientação, definidos no artigo 76.º do Regulamento MTR são designados pela ANR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1190999075": {
+   "fragment_id": "150935599",
+   "type": 11,
+   "heading": "Artigo 40.º — Procedimento para as transferências de resíduos envolvendo Portugal",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 40.º — Procedimento para as transferências de resíduos envolvendo Portugal\n\n1 - As informações e documentos referidos no n.º 1 do artigo 27.º do Regulamento MTR são apresentados e trocados por meios eletrónicos, através da plataforma do sistema central, prevista no n.º 3 do mesmo artigo.\n\n2 - O acesso ao sistema central da Comissão Europeia referido no artigo 27.º do Regulamento MTR, por parte dos operadores portugueses e da própria autoridade competente, é efetuado através da interface gráfica de utilizador (IGU).\n\n3 - A ANR, enquanto autoridade competente, pode a qualquer momento alterar o modo de acesso ao sistema central da Comissão Europeia, identificado no n.º 2.\n\n4 - Na instrução do procedimento de notificação de transferência de resíduos com origem, destino ou trânsito pelo território nacional o notificador apresenta os documentos e informações constantes no Regulamento MTR, bem como outros solicitados pela ANR, enquanto autoridade competente.\n\n5 - No caso de transferências com origem em Portugal, o notificador e a pessoa que trata da transferência, conforme definido nos n.os 6 e 7 do artigo 3.º do Regulamento MTR, devem estar sob jurisdição nacional do país de origem, com domicílio fiscal em Portugal.\n\n6 - (Revogado.)\n\n7 - No caso de transferências com destino a Portugal, o destinatário, conforme definido no n.º 5 do artigo 3.º do Regulamento MTR, deve estar sob jurisdição nacional do país de destino, com domicílio fiscal em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191028875": {
+   "fragment_id": "150935600",
+   "type": 11,
+   "heading": "Artigo 41.º — Procedimento para as transferências de resíduos em trânsito ou com destino a território nacional",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 41.º — Procedimento para as transferências de resíduos em trânsito ou com destino a território nacional\n\n1 - Sem prejuízo do disposto no Regulamento MTR, para efeitos de transferências de resíduos em trânsito ou com destino a território nacional, o cumprimento das obrigações de reporte do notificador, destinatário e instalação de valorização ou eliminação para com a ANR, nos termos do disposto nos artigos 15.º e 16.º do Regulamento MTR, designadamente de informação prévia com até três dias de antecedência do início efetivo da transferência de resíduos, de confirmação da sua receção, e de confirmação da eliminação ou valorização intermédia e/ou final, é efetuado através do SIRER.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1190999275": {
+   "fragment_id": "150935603",
+   "type": 11,
+   "heading": "Artigo 44.º — Garantia financeira",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 44.º — Garantia financeira\n\n1 - As transferências de resíduos sujeitas ao procedimento de notificação e autorização prévias por escrito previsto no artigo 5.º do Regulamento MTR estão sujeitas à constituição de uma garantia financeira ou equivalente que cubra os custos de transporte dos resíduos, de valorização ou eliminação, incluindo eventuais operações intermédias e de armazenagem durante 90 dias.\n\n2 - Quando as transferências tenham origem em Portugal, a garantia financeira é constituída pelo notificador e apresentada à ANR, podendo revestir a forma de caução, garantia bancária ou certificado emitido por fundo de indemnização ou seguro-caução, desde que satisfaça todas as finalidades referidas no número anterior.\n\n3 - O montante da garantia financeira é calculado por aplicação da fórmula prevista no anexo vii ao presente regime e do qual faz parte integrante.\n\n4 - A garantia financeira é constituída de acordo com o modelo aprovado e divulgado no sítio na Internet da ANR.\n\n5 - No ato de apresentação da garantia financeira à ANR, o notificador anexa nota explicativa do cálculo em que a mesma se baseia.\n\n6 - A garantia financeira considera-se suficiente e legalmente constituída se não for recusada pela ANR com fundamento em insuficiência.\n\n7 - A garantia financeira produz efeitos a partir da notificação ou, mediante autorização expressa da ANR, em momento posterior, o mais tardar aquando do início da transferência notificada.\n\n8 - A garantia financeira fica afeta exclusivamente à cobertura dos custos mencionados no n.º 1, é autónoma, incondicional, irrevogável, interpelável à primeira solicitação e liquidável no prazo de cinco dias, na sequência de interpelação da ANR, sendo liberada nos termos do artigo 7.º do Regulamento MTR.\n\n9 - No caso de importação ou trânsito proveniente de outro Estado-Membro, o notificador fica dispensado de constituir a garantia a que se referem os números anteriores se provar, mediante apresentação de declaração da autoridade competente desse Estado, que já constituiu garantia adequada para o mesmo efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1190999475": {
+   "fragment_id": "150935610",
+   "type": 11,
+   "heading": "Artigo 49.º — Responsabilidade pela gestão de resíduos de construção e demolição",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 49.º — Responsabilidade pela gestão de resíduos de construção e demolição\n\n1 - A gestão dos RCD é da responsabilidade do produtor do resíduo, sem prejuízo da corresponsabilização de todos os intervenientes no ciclo de vida dos produtos na medida da respetiva intervenção no mesmo, nos termos do disposto no presente regime.\n\n2 - Os produtores de RCD tomam as medidas necessárias para garantir a recolha seletiva dos resíduos na origem, de forma a promover a sua reciclagem e outras formas de valorização.\n\n3 - Excetuam-se do disposto no n.º 1 os RCD resultantes de pequenas reparações e obras de bricolage em habitações pelo próprio proprietário ou arrendatário, cuja recolha, transporte e/ou receção cabe ao sistema municipal responsável pela recolha dos resíduos urbanos, o qual deve estabelecer procedimentos específicos para a recolha deste tipo de resíduos.\n\n4 - Para efeitos do número anterior, os sistemas municipais devem estabelecer as condições de recolha, transporte e/ou receção dos RCD, bem como definir as tarifas aplicáveis.\n\n5 - Os mecanismos de controlo de conclusão de obra e o plano de demolição seletiva nas obras sujeitas a controlo prévio, devem ser previstos nos regulamentos municipais de urbanização e edificação.\n\n6 - A responsabilidade das entidades referidas nos números anteriores extingue-se pela entrega dos resíduos a operador de tratamento de resíduos.\n\n7 - O dono de obra pode transmitir a sua responsabilidade de gestão para o empreiteiro por via contratual, devendo este evidenciar que os RCD tiveram destino adequado.\n\n8 - As normas para a correta remoção dos materiais contendo amianto e para o acondicionamento dos RCD resultantes dessa remoção, para o seu transporte e gestão, são aprovadas por portaria dos membros do governo responsáveis pelas áreas do ambiente, da saúde, do trabalho e dos transportes.\n\n9 - A recolha e gestão de RCD contendo amianto, provenientes de obras particulares isentas de licenciamento e não sujeitas a comunicação prévia, nos termos do Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, (RJUE), podem ser asseguradas pelo sistema municipal responsável pela recolha dos resíduos urbanos, nos termos da portaria referida no número anterior, mediante a definição de uma tarifa específica aplicável a esse serviço.\n\n10 - Os produtores e os operadores de gestão de RCD devem cumprir as disposições legais aplicáveis aos fluxos específicos de resíduos contidos nos RCD, designadamente os relativos aos resíduos de embalagens, de equipamentos elétricos e eletrónicos, óleos usados e pneus usados, bem como a legislação aplicável a resíduos contendo PCB, tal como definidos na alínea a) do artigo 2.º do Decreto-Lei n.º 277/99, de 23 de julho, na sua redação atual.\n\n11 - No caso de demolição ou renovação de edifícios ou infraestruturas de obras públicas, os produtores de RCD promovem uma auditoria de pré-demolição.\n\n12 - A auditoria referida no número anterior é realizada nos termos e condições estabelecidos em Nota Técnica aprovada pela ANR, de acordo com requisitos técnicos, ambientais, de saúde humana e de segurança.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1190999675": {
+   "fragment_id": "150935611",
+   "type": 11,
+   "heading": "Artigo 50.º — Metodologias e práticas a adotar no projeto e execução de obras",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 50.º — Metodologias e práticas a adotar no projeto e execução de obras\n\n1 - A elaboração de projetos e a respetiva execução em obra devem privilegiar a adoção de metodologias e práticas que:\n\na) Minimizem a produção e a perigosidade dos RCD, designadamente por via da reutilização de materiais e da utilização de materiais não suscetíveis de originar RCD contendo substâncias perigosas;\n\nb) Maximizem a valorização de resíduos nas várias tipologias de obra, assim como a utilização de materiais reciclados e recicláveis;\n\nc) Favoreçam os métodos construtivos que facilitem a demolição seletiva orientada por princípios da prevenção, de redução e da hierarquia dos resíduos, e a conceção para a desconstrução, que permita desmontar o edifício em elementos, designadamente caixilharias, loiças sanitárias, canalizações ou outros componentes e materiais, incluindo telhas de cobertura, madeiras e estruturas metálicas, com o objetivo de recuperar e permitir a reutilização, utilização noutros fins e reciclagem da máxima quantidade de elementos e materiais construtivos.\n\n2 - Na auditoria de pré-demolição do projeto de demolição ou renovação de edifícios e de infraestruturas referida no n.º 11 do artigo 49.º, são envolvidos os seguintes intervenientes que devem cumprir os seguintes requisitos:\n\na) O dono de obra é responsável pela nomeação de um auditor, ou equipa de auditores, que deve preparar um inventário com a identificação e quantificação dos materiais e elementos construtivos a reutilizar e dos resíduos de construção e demolição, bem como um plano preliminar para o seu destino;\n\nb) O auditor, ou a equipa de auditores, tem de ser um perito qualificado, ou integrar peritos qualificados, consoante o caso, com conhecimentos sobre os materiais de construção, incluindo os materiais perigosos, as técnicas de construção, de demolição, tratamento e processamento de resíduos, bem como os mercados de materiais de construção locais;\n\nc) O empreiteiro é responsável pelas operações de demolição, desconstrução e/ou renovação definidas no contrato com dono de obra e deve contribuir para os aspetos de rastreabilidade dos resíduos, em articulação com o auditor ou equipa de auditores;\n\nd) O operador de tratamento de resíduos é responsável pela gestão e eliminação adequadas dos resíduos recebidos do detentor ou produtor de resíduos e deve, igualmente, contribuir para os aspetos de rastreabilidade dos resíduos, em articulação com o auditor ou equipa de auditores;\n\ne) O fabricante de produtos pode contribuir para a auditoria de pré-demolição, fornecendo informações para os materiais e componentes reutilizados ou reciclados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1190999875": {
+   "fragment_id": "150935615",
+   "type": 11,
+   "heading": "Artigo 54.º — Gestão de resíduos de construção e demolição em obras particulares",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 54.º — Gestão de resíduos de construção e demolição em obras particulares\n\n1 - Nas obras sujeitas a licenciamento ou comunicação prévia, nos termos do RJUE, o produtor de RCD está, designadamente, obrigado a:\n\na) Promover a reutilização de materiais, a incorporação de materiais reciclados e a valorização dos resíduos passíveis de ser utilizados na obra;\n\nb) Assegurar a existência na obra de um sistema de acondicionamento adequado que permita a gestão seletiva dos RCD;\n\nc) Assegurar a aplicação em obra de uma metodologia de triagem de RCD ou, quando tal não seja possível, o seu encaminhamento para operador de tratamento licenciado;\n\nd) Assegurar que os RCD são mantidos em obra o mínimo tempo possível, de acordo com o princípio da proteção da saúde humana e do ambiente;\n\ne) Efetuar e manter, conjuntamente com o livro de obra eletrónico, o registo de dados de RCD, de acordo com o modelo publicitado no sítio na Internet da ANR;\n\nf) Anexar ao registo de dados cópia das e-GAR concluídas.\n\n2 - É condição da utilização de edifício ou fração ou de receção provisória de obras a limpeza da área, a correta gestão dos RCD produzidos e a eventual reparação de estragos ou deteriorações que tenha causado, incluindo a avaliação da eventual contaminação do solo, em caso de existência de indícios ou evidências de que o solo se encontra contaminado.\n\n3 - É obrigatório o registo detalhado no livro de obra da metodologia de desconstrução seletiva adotada, o qual deve incluir a identificação e estimativa das quantidades de materiais a reutilizar e de RCD a produzir, com especial enfoque nos resíduos que contêm amianto, bem como a indicação do respetivo destino ou operador de gestão.\n\n4 - São averbadas ao livro de obra as quantidades efetivamente triadas na obra e as enviadas para operadores de tratamento licenciados, assegurando a plena rastreabilidade entre o planeado e o executado.\n\n5 - A utilização ou o auto de receção provisória da obra dependem da subscrição de um termo de responsabilidade pelo responsável da obra.\n\n6 - O termo de responsabilidade deve discriminar as quantidades de RCD produzidas, incluindo as que contêm amianto, com a identificação detalhada das quantidades triadas e dos comprovativos de encaminhamento para operadores de tratamento licenciados.\n\n7 - O registo de dados deve estar disponível no local da obra para efeitos de fiscalização pelas entidades competentes e ser do conhecimento de todos os intervenientes na execução da obra.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191000075": {
+   "fragment_id": "150935616",
+   "type": 11,
+   "heading": "Artigo 55.º — Gestão de resíduos de construção e demolição em obras públicas",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 55.º — Gestão de resíduos de construção e demolição em obras públicas\n\n1 - Nas empreitadas e concessões de obras públicas, o projeto de execução é acompanhado de um Plano de Prevenção e Gestão de RCD (PPGRCD) que assegura o cumprimento dos princípios gerais de gestão de RCD e das demais normas aplicáveis constantes do presente regime.\n\n2 - Do PPGRCD constam obrigatoriamente:\n\na) A caracterização sumária da obra a efetuar, com descrição dos métodos construtivos a utilizar tendo em vista os princípios referidos no capítulo ii do título i e as metodologias e práticas referidas no artigo 50.º;\n\nb) A metodologia de prevenção de RCD, se aplicável, com identificação e estimativa dos materiais a reutilizar na própria obra ou noutros destinos;\n\nc) Informação relativa à avaliação da eventual contaminação do solo, em caso de existência de indícios ou evidências de que o solo se encontra contaminado, tendo em consideração, nomeadamente, atividades poluentes preexistentes ou atuais;\n\nd) Informação relativa à incorporação de materiais reciclados ou de produtos que incorporem materiais reciclados;\n\ne) A referência aos métodos de acondicionamento e triagem de RCD na obra ou em local afeto à mesma, devendo, caso a triagem não esteja prevista, ser apresentada fundamentação da sua impossibilidade;\n\nf) Com base na auditoria de pré-demolição, a estimativa da quantidade dos RCD a produzir, da fração a reciclar ou a sujeitar a outras formas de valorização, na própria obra ou noutros destinos, a sua identificação e a quantidade a eliminar, com o respetivo código LER, bem como, em caso de contaminação do solo, a informação relativa à gestão dos solos contaminados.\n\n3 - Compete ao dono da obra a elaboração do PPGRCD, salvo quando o contrato ou as peças do procedimento pré-contratual estabeleçam a responsabilidade do empreiteiro pela sua elaboração, ainda que sujeita a aprovação do dono da obra.\n\n4 - Incumbe ao empreiteiro ou ao concessionário executar o PPGRCD, assegurando designadamente:\n\na) A promoção da reutilização de materiais e a incorporação de materiais reciclados na obra;\n\nb) A existência na obra de um sistema de acondicionamento adequado que permita a gestão seletiva dos RCD;\n\nc) A aplicação em obra de uma metodologia de triagem de RCD ou, nos casos em que tal não seja possível, o seu encaminhamento para operador de tratamento licenciado para o efeito;\n\nd) A manutenção dos RCD em obra pelo mínimo tempo possível, de acordo com o princípio da proteção da saúde humana e do ambiente.\n\n5 - O PPGRCD pode ser alterado pelo dono da obra na fase de execução, sob proposta do empreiteiro, ou, no caso de empreitadas de conceção ou construção, pelo adjudicatário, com a autorização do dono da obra, desde que a alteração seja devidamente fundamentada.\n\n6 - O PPGRCD deve estar disponível no local da obra para efeitos de fiscalização pelas entidades competentes e ser do conhecimento de todos os intervenientes na execução da obra.\n\n7 - A ANR disponibiliza no seu sítio na Internet um modelo de plano de prevenção e gestão de RCD que pode ser adaptado à tipologia de obra.\n\n8 - A correta execução do PPGRCD condiciona os atos administrativos associados à receção da obra nos termos previstos no CCP.\n\n9 - O PPGRCD, deve ser assinado pelo autor, com a identificação das responsabilidades associadas, em observância das orientações e das boas práticas definidas pela ANR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191000275": {
+   "fragment_id": "150935623",
+   "type": 11,
+   "heading": "Artigo 59.º — Sujeição a licenciamento",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 59.º — Sujeição a licenciamento\n\n1 - A atividade de tratamento de resíduos está sujeita a licenciamento, nos termos do presente capítulo.\n\n2 - O disposto no presente capítulo aplica-se, com as necessárias adaptações, às operações de remediação dos solos e de valorização agrícola de resíduos, sem prejuízo do disposto em legislação específica.\n\n3 - O disposto no presente capítulo é ainda aplicável, com as necessárias adaptações, às operações de tratamento de resíduos que se desenvolvam em instalações móveis, devendo o ato de licenciamento, nestes casos, definir os tipos de locais em que o seu desenvolvimento é permitido, de acordo com o tipo de resíduos e de operações de tratamento em causa.\n\n4 - Estão sujeitos a licenciamento os estabelecimentos em que se pretenda proceder ao tratamento de resíduos nos quais:\n\na) Se desenvolvam atividades licenciadas exclusivamente ao abrigo do Regime do LUA e no âmbito das quais a entidade coordenadora seja apenas uma das previstas no artigo 60.º;\n\nb) Se desenvolvam atividades licenciadas ao abrigo de regimes diferentes do previsto na alínea anterior, e que integram uma ou mais instalações de tratamento de resíduos.\n\n5 - (Revogado.)\n\n6 - Podem ser isentas de licenciamento, desde que previstas por regras gerais aprovadas nos termos do artigo 66.º:\n\na) Operações de valorização de resíduos;\n\nb) Operações de eliminação de resíduos não perigosos efetuadas pelo seu produtor no local de produção.\n\n7 - Consideram-se isentas de licenciamento, nos termos do presente capítulo:\n\na) As atividades de criação artística bem como as atividades artesanais que envolvam resíduos não perigosos a definir pela ANR em Nota Técnica a publicar no seu sítio na Internet;\n\nb) A valorização energética de resíduos em instalações com potência térmica nominal inferior a 1 MW, não abrangidas pelo disposto no capítulo iv do Decreto-Lei n.º 127/2013, de 30 de agosto, e que estejam excluídas do âmbito de aplicação do Decreto-Lei n.º 39/2018, de 11 de junho.\n\n8 - São, ainda, isentas de licenciamento as atividades de tratamento de resíduos realizadas a título experimental, quando acompanhadas por instituições do Sistema Científico e Tecnológico Nacional, referidas no artigo 14.º do Decreto-Lei n.º 63/2019, de 16 de maio, por um período máximo de um ano.\n\n9 - As atividades de tratamento de resíduos referidas no número anterior são sujeitas a comunicação de informação nos termos a definir no sítio da ANR na Internet.\n\n10 - A isenção de licenciamento não é aplicável, caso a ANR ou ARR considerem que a operação em causa tem consequências negativas no ambiente ou na saúde, ou que carece de validação por outras entidades com competência na matéria.\n\n11 - As atividades de tratamento de resíduos isentas de licenciamento, no âmbito dos n.os 6 e 7, são sujeitas a dever de informação pelo operador de tratamento de resíduos, a definir no sítio na Internet da ANR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "1191002475": {
+   "fragment_id": "150935624",
+   "type": 11,
+   "heading": "Artigo 60.º — Entidades licenciadoras",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 60.º — Entidades licenciadoras\n\n1 - Sem prejuízo da articulação prevista na secção v do presente capítulo, o licenciamento das operações de tratamento de resíduos compete:\n\na) À ANR, nos seguintes casos:\n\ni) Atividades de eliminação referidas nos n.os 9 e 10 do anexo i ao Decreto-Lei n.º 151-B/2013, de 31 de outubro;\n\nii) Operações de deposição em aterros para resíduos não perigosos, com exceção dos dedicados à deposição de resíduos urbanos e dos inseridos em estabelecimentos industriais abrangidos pelo Sistema de Indústria Responsável;\n\niii) Operações de valorização energética de resíduos;\n\niv) Operações de tratamento de resíduos efetuadas em áreas sob jurisdição de duas ou mais ARR;\n\nb) Às ARR, nos restantes casos de operações de tratamento de resíduos, incluindo operações de remediação dos solos e valorização agrícola de resíduos, não abrangidas pelo disposto na alínea anterior, nem por legislação específica.\n\n2 - Sempre que num estabelecimento sejam exclusivamente desenvolvidas operações de tratamento de resíduos que são individualmente enquadráveis numa e noutra das alíneas no número anterior, é emitida uma única licença de exploração pela ANR, sujeita a parecer vinculativo da ARR.\n\n3 - Sempre que num estabelecimento sejam desenvolvidas operações de tratamento de resíduos sujeitas a parecer vinculativo, abrangidas pelo âmbito do n.º 1, é emitido um TUA pela ANR, que integra as condições definidas pela ARR.\n\n4 - Compete às entidades referidas nos números anteriores o acompanhamento e avaliação do cumprimento das condições previstas nas licenças por si emitidas, sendo que no caso das operações sujeitas a parecer vinculativo essas competências pertencem às ARR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191002775": {
+   "fragment_id": "150935625",
+   "type": 11,
+   "heading": "Artigo 61.º — Procedimentos de licenciamento",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 61.º — Procedimentos de licenciamento\n\n1 - O licenciamento da atividade de tratamento de resíduos segue o procedimento geral ou o procedimento simplificado, nos termos do disposto nos números seguintes, sendo o pedido apresentado pelo requerente de forma desmaterializada, através do módulo de licenciamento único (módulo LUA) alojado no Sistema Integrado de Licenciamento de Ambiente (SILiAmb), ou através da plataforma do licenciamento da atividade económica, caso a mesma esteja disponível e caso estas atividades sejam licenciadas ao abrigo de regimes diferentes.\n\n2 - Estão sujeitos a licenciamento geral os estabelecimentos ou instalações de tratamento de resíduos abrangidos por, pelo menos, um dos seguintes regimes jurídicos:\n\na) Regime Jurídico de Avaliação de Impacte Ambiental (RJAIA), aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual;\n\nb) Regime de Emissões Industriais, previsto no Decreto-Lei n.º 127/2013, de 30 de agosto;\n\nc) Prevenção de Acidentes Graves, aprovado pelo Decreto-Lei n.º 150/2015, de 5 de agosto;\n\nd) Todos os demais estabelecimentos ou instalações não abrangidos pelo número seguinte.\n\n3 - Estão sujeitas ao procedimento de licenciamento simplificado as operações de remediação de solos e a exploração dos estabelecimentos ou instalações de tratamento de resíduos nos quais se desenvolvam as operações seguintes:\n\na) A valorização energética de resíduos em instalações não abrangidas pelo disposto no capítulo iv do Decreto-Lei n.º 127/2013, de 30 de agosto, com exceção das isentas de licenciamento ao abrigo da alínea b) do n.º 7 do artigo 59.º;\n\nb) O tratamento de resíduos relativo a situações pontuais, dotadas de caráter não permanente ou em que os resíduos não resultem da normal atividade produtiva;\n\nc) A valorização de resíduos realizada a título experimental, destinada a fins de investigação, desenvolvimento e ensaio de medidas de aperfeiçoamento dos processos de gestão de resíduos, por um período máximo de um ano prorrogável até dois anos;\n\nd) A valorização de resíduos não perigosos, com exceção da valorização orgânica, da valorização agrícola e da recuperação de áreas de atividade extrativa sem licenciamento ou autorização, com solos e rochas não contaminados, provenientes de obras de escavação resultantes de atividades de construção, não passíveis de reutilização na própria obra de origem.\n\n4 - Ao licenciamento simultâneo de instalações de tratamento de resíduos abrangidas pelos procedimentos de licenciamento geral e simplificado aplica-se sempre o regime do licenciamento geral.\n\n5 - Os estabelecimentos de tratamento de resíduos que não possuam TUA desmaterializado no âmbito do Sistema Integrado de Licenciamento do Ambiente procedem ao preenchimento de formulário eletrónico acessível no módulo LUA, no prazo de seis meses antes do término da data de validade da licença de exploração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191002975": {
+   "fragment_id": "150935641",
+   "type": 11,
+   "heading": "Artigo 75.º — Procedimento de licenciamento simplificado",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 75.º — Procedimento de licenciamento simplificado\n\n1 - O pedido de licenciamento simplificado deve ser instruído com os seguintes documentos:\n\na) Formulário LUA;\n\nb) [Revogada.]\n\nc) Termo de responsabilidade, cujo modelo consta do anexo viii do presente regime e do qual faz parte integrante, nos termos do qual o interessado declara conhecer e cumprir as exigências legais aplicáveis à sua atividade em matéria de segurança e saúde no trabalho e ambiente, bem como, quando aplicável, as exigências em matéria de segurança alimentar;\n\nd) Autorização de funcionamento de equipamentos sob pressão ou outra autorização quando aplicável;\n\ne) Licença de utilização ou certidão comprovativa do respetivo deferimento tácito quando a instalação, ampliação ou alteração do estabelecimento ou instalação envolva a realização de operação urbanística sujeita a controlo prévio.\n\nf) Cópia da apólice de seguro de responsabilidade civil, nos termos previstos no artigo 67.º\n\n2 - [Revogado.]\n\n3 - No prazo de 20 dias após a receção do pedido, a entidade licenciadora verifica se este se encontra instruído com a totalidade dos elementos exigidos, podendo solicitar, por uma única vez, a prestação de informações ou o envio de elementos complementares, bem como os aditamentos ou as reformulações necessárias.\n\n4 - O operador presta as informações ou envia os elementos complementares referidos no número anterior no prazo de 60 dias, findo o qual, na ausência de resposta, se extingue o procedimento.\n\n5 - A exploração do estabelecimento ou instalação está sujeita às exigências legais em vigor e aplicáveis ao edificado onde está situado, bem como às condições legais e regulamentares aplicáveis à atividade de tratamento de resíduos em matéria de segurança e saúde no trabalho e segurança contra incêndio em edifícios bem como em matéria de ambiente, designadamente no que se refere à conformidade do pedido com os princípios referidos no título i e com os planos de gestão de resíduos aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+  },
+  "1191003175": {
+   "fragment_id": "150935642",
+   "type": 11,
+   "heading": "Artigo 76.º — Emissão de licença de exploração",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 76.º — Emissão de licença de exploração\n\nApós vistoria a realizar nos termos do artigo 73.º, a entidade licenciadora emite a licença de exploração, nos termos do artigo 74.º, a qual é integrada no TUA, permitindo o início da exploração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191003375": {
+   "fragment_id": "150935646",
+   "type": 11,
+   "heading": "Artigo 79.º — Alteração do estabelecimento ou instalação de tratamento de resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 79.º — Alteração do estabelecimento ou instalação de tratamento de resíduos\n\n1 - A licença de exploração da atividade de tratamento de resíduos pode ser alterada por solicitação do operador, quando pretenda efetuar as seguintes alterações substanciais:\n\na) A introdução ou modificação de processo de tratamento ou de operação de valorização ou eliminação, classificada de acordo com os anexos i e ii ao presente regime, aplicada a cada resíduo a tratar;\n\nb) O tratamento de resíduos, classificados de acordo com a LER, não contemplados na licença de exploração emitida, e que impliquem uma alteração do processo de tratamento;\n\nc) O aumento da área ocupada pelo estabelecimento ou instalação que exceda em mais de 30 % a área ocupada à data de emissão da licença, por si mesma ou por efeito acumulado de anteriores alterações;\n\nd) O aumento superior a 30 %, por si mesmo ou por efeito acumulado de anteriores alterações, da quantidade de resíduos geridos anualmente.\n\n2 - O pedido é instruído, com as necessárias adaptações, nos termos do disposto nas secções ii ou iii do presente capítulo.\n\n3 - A entidade licenciadora averba as alterações autorizadas no TUA.\n\n4 - A alteração do responsável técnico ambiental é comunicada pelo operador à ANR no módulo LUA e averbada no TUA, previamente ao seu início de funções.\n\n5 - A introdução de resíduos com novos códigos LER, não contemplados nos termos do disposto na alínea b) do n.º 1, a sua eliminação, as alterações referidas na alínea c), caso não envolva a realização de operações urbanísticas, e na alínea d) do mesmo número, abaixo dos limiares aí referidos, são comunicadas pelo operador no módulo LUA, acompanhadas por termo de responsabilidade cujo modelo consta no anexo viii ao presente regime, com as necessárias adaptações e do qual faz parte integrante e averbadas no TUA pela entidade licenciadora no prazo de 10 dias.\n\n6 - No caso da alteração não substancial de estabelecimentos de tratamento de resíduos licenciados nos termos do procedimento geral ou simplificado que envolva a realização de operações urbanísticas, o operador apresenta à entidade licenciadora a descrição do projeto, bem como as respetivas autorizações de construção, no prazo de 10 dias antes do seu início, para averbamento no TUA.\n\n7 - Quando pretenda iniciar a exploração da instalação de tratamento objeto de alteração não substancial que envolva uma operação urbanística o operador deve requerer a vistoria, efetuada nos termos do artigo 73.º, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191003575": {
+   "fragment_id": "150935651",
+   "type": 11,
+   "heading": "Artigo 83.º — Articulação com o Regime Jurídico da Urbanização e Edificação",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 83.º — Articulação com o Regime Jurídico da Urbanização e Edificação\n\n1 - As operações urbanísticas a realizar para a instalação de estabelecimentos de tratamento de resíduos regem-se pelo RJUE, sem prejuízo do disposto nos números seguintes e no artigo seguinte.\n\n2 - As operações urbanísticas para a instalação ou alteração de instalações de tratamento de resíduos inseridas em estabelecimentos licenciados por outros regimes jurídicos são verificadas no âmbito do respetivo regime jurídico de licenciamento.\n\n3 - Tratando-se de estabelecimento cuja instalação ou alteração envolva a realização de operação urbanística de urbanização ou de edificação sujeita a controlo prévio nos termos do RJUE:\n\na) A decisão de autorização da instalação ou da alteração não pode ocorrer sem que seja apresentada informação prévia favorável emitida nos termos do n.º 2 do artigo 14.º do RJUE;\n\nb) A emissão da licença de exploração não pode ocorrer sem que seja apresentado o comprovativo de utilização do edificado.\n\n4 - Sempre que se aplique o regime jurídico da prevenção de acidentes graves, a consulta de entidades da administração central que se devam pronunciar em razão da localização é efetuada no âmbito deste regime.\n\n5 - Sem prejuízo do cumprimento das normas de planeamento territorial e do regime das servidões administrativas, do regime das servidões militares e restrições de utilidade pública, sempre que a instalação ou alteração do estabelecimento se insira numa área licenciada ou concessionada para a exploração de recursos geológicos e o mesmo esteja relacionado com tal exploração, não há lugar à aprovação da localização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "1191003775": {
+   "fragment_id": "150935654",
+   "type": 11,
+   "heading": "Artigo 86.º — Licenciamento industrial",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 86.º — Licenciamento industrial\n\n1 - O título a emitir no âmbito do Sistema da Indústria Responsável (SIR), após emissão de parecer vinculativo pela entidade competente para o licenciamento da atividade de tratamento de resíduos nos termos do artigo 60.º, constitui condição suficiente para o exercício da atividade de tratamento de resíduos quanto ao tratamento de resíduos realizado num estabelecimento industrial abrangido pelo SIR, quer se trate de uma instalação de tratamento intrínseca ou extrínseca à atividade industrial.\n\n2 - O parecer vinculativo no licenciamento referido no número anterior é emitido na plataforma LUA, nos prazos aplicáveis ao regime do licenciamento geral, sob pena de o procedimento prosseguir e ser decidido.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "1191003975": {
+   "fragment_id": "858522283",
+   "type": 11,
+   "heading": "Artigo 86.º-A — Licenciamento de produção de energia",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 86.º-A — Licenciamento de produção de energia\n\n1 - Os títulos a emitir no âmbito do controlo prévio das atividades do Sistema Elétrico Nacional, Sistema Nacional de Gás, bem como das atividades de produção combinada de calor e eletricidade, após emissão de parecer vinculativo pela entidade competente para o licenciamento da atividade de tratamento de resíduos nos termos do artigo 60.º, constituem condição suficiente para o exercício da atividade de valorização energética de resíduos, não abrangida pelo artigo 89.º\n\n2 - O parecer vinculativo a emitir no âmbito do licenciamento referido no número anterior é emitido na plataforma LUA, no prazo de 40 dias, sob pena de o procedimento prosseguir e ser decidido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191004175": {
+   "fragment_id": "858522284",
+   "type": 11,
+   "heading": "Artigo 87.º-A — Enchimento de vazios de escavação",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 87.º-A — Enchimento de vazios de escavação\n\n1 - A aprovação do plano ambiental e de recuperação paisagística (PARP) da exploração de massas e depósitos minerais constitui autorização para o exercício da atividade de valorização de resíduos, quanto à utilização de resíduos inertes, a qual só é válida:\n\na) Após a aprovação do plano de pedreira nas massas minerais pela entidade licenciadora, pela Direção-Geral de Energia e Geologia ou pela Câmara Municipal, ao abrigo do Decreto-Lei n.º 270/2001, de 6 de outubro; ou\n\nb) Após a aprovação do plano de lavra nos depósitos minerais pela entidade licenciadora ou pela Direção-Geral de Energia e Geologia, ao abrigo do Decreto-Lei n.º 30/2021, de 7 de maio.\n\n2 - O disposto no número anterior não se aplica aos resíduos de extração, nesta recuperação.\n\n3 - Compete às entidades que aprovam o PARP o acompanhamento e a avaliação do cumprimento das condições por si emitidas.\n\n4 - Os resíduos que podem ser utilizados no enchimento de vazios de escavação de explorações de massas e depósitos minerais, bem como as condições e requisitos a cumprir para realização desta operação, são definidos por portaria do membro do Governo responsável pelas áreas do ambiente e da energia.\n\n5 - O enchimento de vazios de escavação de massas e depósitos minerais no âmbito de um PARP, exclusivamente com solos e rochas não contaminados, pode ser dispensado pela entidade que aprova o PARP da obrigação de cumprimento dos requisitos técnicos exigíveis para a deposição de resíduos em aterro, de acordo com os requisitos definidos na portaria referida no número anterior.\n\n6 - A aprovação do PARP pelas Comissões de Coordenação e Desenvolvimento Regional, I. P., ou pelo Instituto de Conservação da Natureza e das Florestas, I. P., deve ser concluída no prazo aplicável nos termos do regime jurídico da pesquisa e exploração de massas minerais (pedreiras), aprovado pelo Decreto-Lei n.º 270/2001, de 6 de outubro, sob pena de deferimento tácito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191004375": {
+   "fragment_id": "150935659",
+   "type": 11,
+   "heading": "Artigo 90.º — Sistemas de gestão de fluxos específicos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 90.º — Sistemas de gestão de fluxos específicos\n\n1 - A gestão de fluxos específicos de resíduos abrangidos pela responsabilidade alargada do produtor rege-se por legislação específica, aplicando-se subsidiariamente as disposições do presente regime.\n\n2 - Podem ser criados por ato legislativo outros fluxos específicos de resíduos, para além dos já estabelecidos à data de entrada em vigor do presente regime, sujeitos a sistemas integrados ou individuais de gestão.\n\n3 - A gestão de fluxos específicos de resíduos está sujeita a licença ou autorização, a atribuir pela APA, I. P., e pela DGAE e no caso de redes de pesca a atribuir pela APA, I. P., pela DGAE e pela DGRM.\n\n4 - Sempre que, em determinado fluxo específico de resíduos, atue mais do que uma entidade gestora, há lugar à aplicação de mecanismos de alocação e compensação com vista a compensar a entidade gestora que assume a responsabilidade pela gestão de resíduos.\n\n5 - Os mecanismos de alocação e compensação entre as entidades gestoras são definidos nos termos do regime unificado de fluxos específicos, aprovado pelo Decreto-Lei n.º 152-D/2017, de 11 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191006875": {
+   "fragment_id": "150935661",
+   "type": 11,
+   "heading": "Artigo 91.º — Subprodutos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 91.º — Subprodutos\n\n1 - São considerados subprodutos quaisquer substâncias ou objetos resultantes de um processo produtivo cujo principal objetivo não seja a sua produção, quando verificadas, cumulativamente, as seguintes condições:\n\na) Existir a certeza de posterior utilização lícita da substância ou objeto;\n\nb) Ser possível utilizar diretamente a substância ou objeto, sem qualquer outro processamento que não seja o da prática industrial normal;\n\nc) A produção da substância ou objeto ser parte integrante de um processo produtivo;\n\nd) A substância ou objeto cumprir os requisitos relevantes como produto em matéria ambiental e de proteção da saúde e não acarretar impactes globalmente adversos do ponto de vista ambiental ou da saúde humana, face à posterior utilização específica.\n\n2 - Na ausência de critérios definidos pela União Europeia, para efeitos da aplicação do disposto no número anterior, a ANR pode definir, para substâncias ou objetos específicos, após consulta prévia dos operadores económicos, critérios pormenorizados que garantam o cumprimento das condições a verificar para que estes sejam considerados subprodutos e notifica a Comissão dos referidos critérios em conformidade com a Diretiva (UE) 2015/1535, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, nos casos em que essa Diretiva assim o exija.\n\n3 - A verificação do cumprimento dos critérios referidos no presente artigo é assegurada pelos laboratórios colaborativos, reconhecidos pela Agência para a Investigação e Inovação, E. P. E. (AI2, E. P. E.) ou centros de tecnologia e inovação que atuem no âmbito do processo produtivo da substância ou objeto em causa.\n\n4 - Caso estejam reunidas as condições previstas nos números anteriores, o produtor da substância ou objeto, individualmente ou através de associação representativa do setor, declara no SIRER a qualificação da mesma como subproduto, juntando os documentos comprovativos do cumprimento das referidas condições.\n\n5 - Sempre que a utilização posterior da substância ou objeto esteja normativamente regulada, esta deve ainda ser comunicada à autoridade competente no âmbito do regime aplicável.\n\n6 - A ANR, em articulação com as entidades da administração com responsabilidade no licenciamento dos processos produtivos em questão, nomeadamente a Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), define o procedimento de qualificação de substâncias ou objetos como subprodutos.\n\n7 - Quando se demonstre que a utilização da substância ou objeto como subproduto não respeita os requisitos mencionados no n.º 1, a ANR pode cancelar no SIRER a declaração a que se refere os n.os 4 e 9, após a audiência prévia do produtor.\n\n8 - Sempre que o operador não encaminhe o subproduto diretamente para a sua utilização final, todos os intervenientes na cadeia de mercado devem registar os dados do subproduto no SIRER.\n\n9 - A ANR pode, por sua iniciativa ou sob proposta de entidade da administração com responsabilidade no licenciamento dos processos produtivos em questão, nomeadamente o IAPMEI, I. P., autorizar a classificação como subproduto de determinadas substâncias ou objetos provenientes de um processo produtivo cujo principal objetivo não seja o da sua produção, em cumprimento do referido nos n.os 1 e 2, podendo ainda autorizar a realização de testes em novas utilizações previamente à garantia prevista na alínea a) do n.º 1.\n\n10 - A ANR publicita no seu sítio na Internet os critérios referidos no n.º 2, bem como o registo atualizado de subprodutos.\n\n11 - Pode ser autorizada pela ANR, mediante requerimento das entidades interessadas, a constituição de espaços de experimentação e de inovação para testar a utilização de subprodutos previamente à aplicação do procedimento de qualificação de substâncias ou objetos como subprodutos, desde que constituída com os laboratórios colaborativos reconhecidos pela AI2, E. P. E., ou centros de tecnologia e inovação que atuem no âmbito do processo produtivo do subproduto.\n\n12 - O requerimento referido no número anterior é apreciado pela ANR, no prazo de 45 dias.\n\n13 - Os subprodutos qualificados como tal segundo critérios nacionais provenientes de outros países da União Europeia podem ser qualificados como subprodutos em Portugal desde que cumpram os mesmos critérios estabelecidos a nível nacional e desde que o mesmo subproduto classificado como tal a nível nacional possa ser considerado subproduto nesses países.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "1191007075": {
+   "fragment_id": "150935663",
+   "type": 11,
+   "heading": "Artigo 93.º — Outras formas de desclassificação",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 93.º — Outras formas de desclassificação\n\n1 - As seguintes operações de valorização têm por efeito a alteração da classificação como resíduo, transformando-o num material e/ou produto:\n\na) O fabrico de produtos novos a partir de resíduos em processos produtivos constantes no anexo I do SIR;\n\nb) A utilização de resíduos num processo que dê origem a um material sujeito a marcação CE, no estrito cumprimento de norma harmonizada estabelecida de acordo com o Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do conselho, de 9 de julho de 2008, que preveja a utilização de resíduos desde que esteja garantido o escoamento do referido material, para as utilizações previstas na referida norma harmonizada;\n\nc) A preparação para reutilização dum resíduo que é transformado num material ou produto apto para ser usado novamente para o mesmo fim para que foi concebido.\n\nd) A utilização de RCD em obra em cumprimento das especificações técnicas referidas no artigo 53.º, desde que esteja garantido o escoamento do referido material, para as utilizações previstas na norma harmonizada referida na alínea b) e nas especificações técnicas.\n\n2 - O resíduo desclassificado tem de cumprir toda a legislação aplicável a produtos, nomeadamente o Regulamento n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição dos produtos químicos, que cria a Agência Europeia dos Produtos Químicos.\n\n3 - Podem ser fixados critérios técnicos adicionais aos previstos no presente artigo, que permitam garantir e demonstrar que o material não acarreta impactes globalmente adversos para o ambiente ou para a saúde humana por Nota Técnica elaborada pela ANR, a disponibilizar no seu sítio na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191007275": {
+   "fragment_id": "150935670",
+   "type": 11,
+   "heading": "Artigo 98.º — Submissão de dados",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 98.º — Submissão de dados\n\n1 - Sem prejuízo do previsto em legislação específica, estão sujeitos a submissão de dados no SIRER:\n\na) Os seguintes produtores de resíduos:\n\ni) As pessoas singulares ou coletivas responsáveis por organizações que empreguem mais de 10 trabalhadores e que produzam resíduos não incluídos na responsabilidade dos sistemas municipais ou multimunicipais;\n\nii) As pessoas singulares ou coletivas responsáveis por estabelecimentos que produzam resíduos perigosos não incluídos na responsabilidade dos sistemas municipais ou multimunicipais;\n\niii) As pessoas singulares ou coletivas responsáveis por estabelecimentos que produzam resíduos com poluentes orgânicos persistentes;\n\nb) Os produtores de subprodutos, de produtos ou materiais resultantes da aplicação de mecanismos de desclassificação de resíduos, bem como intervenientes em operações de preparação para reutilização;\n\nc) As pessoas singulares ou coletivas que procedam à recolha de resíduos;\n\nd) Os operadores que efetuam tratamento de resíduos, mesmo que isentos de licenciamento;\n\ne) As entidades responsáveis pelos sistemas municipais e multimunicipais de gestão de resíduos urbanos;\n\nf) As pessoas singulares ou coletivas que estabeleçam acordos voluntários com a ANR, de acordo com as especificações desses acordos;\n\ng) [Revogada.]\n\nh) As entidades responsáveis por sistemas de gestão integrados e individuais, bem como os operadores económicos que se corresponsabilizem pela gestão de fluxos específicos de resíduos, nos termos da legislação relativa a fluxos específicos de resíduos, abrangidos ou não pela responsabilidade alargada do produtor;\n\ni) Os operadores que ajam na qualidade de comerciantes e corretores de resíduos perigosos;\n\nj) Os produtores de produtos, os embaladores, bem como os fornecedores de embalagens de serviço sujeitos à obrigação de registo nos termos da legislação relativa a fluxos específicos de resíduos, abrangidos ou não pela responsabilidade alargado do produtor;\n\nk) As pessoas singulares ou coletivas que procedam ao transporte de resíduos perigosos a título profissional, quando encaminhados para uma operação de tratamento de resíduos;\n\nl) [Revogada.]\n\nm) As pessoas singulares ou coletivas que desenvolvam atividade para a qual seja necessária a recolha de dados no domínio da prevenção de resíduos, incluindo a contabilização do desperdício alimentar ou a reutilização.\n\n2 - A ANR pode isentar as entidades referidas no número anterior da obrigação de submissão de dados quando estes possam ser obtidos por outra via.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191007475": {
+   "fragment_id": "150935671",
+   "type": 11,
+   "heading": "Artigo 99.º — Informação objeto de submissão",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 99.º — Informação objeto de submissão\n\n1 - O SIRER agrega, nomeadamente, a seguinte informação a submeter pelas entidades referidas no artigo anterior:\n\na) Origens discriminadas dos resíduos;\n\nb) Quantidade, classificação e destino discriminados dos resíduos;\n\nc) Identificação das operações efetuadas;\n\nd) Identificação dos transportadores;\n\ne) Quantidade de produtos e materiais resultantes da preparação para a reutilização de resíduos ou da reciclagem ou de outras operações de valorização de resíduos perigosos;\n\nf) Quantidade e destino de resíduos desclassificados e de produtos e materiais resultantes da aplicação de mecanismos de desclassificação de resíduos;\n\ng) Tipo e quantidade de produtos e/ou material e quantidade de embalagens colocados no mercado nacional;\n\nh) Informação referente às medidas no âmbito da prevenção de resíduos.\n\ni) Caracterização dos resíduos.\n\n2 - A informação a submeter referida no número anterior pode ser pré-preenchida com os dados resultantes da utilização de outros módulos do SIRER, devendo neste caso ser verificada e/ou corrigida antes da submissão pela entidade a ela obrigada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "1191007675": {
+   "fragment_id": "150935776",
+   "type": 11,
+   "heading": "Artigo 103.º — Comissão de Acompanhamento da Gestão de Resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 103.º — Comissão de Acompanhamento da Gestão de Resíduos\n\n1 - A CAGER constitui uma entidade de consulta técnica, funcionando junto da ANR, à qual compete, nomeadamente:\n\na) Preparar o apoio à decisão da ANR ou emitir parecer, quando solicitada, sobre as matérias relacionadas com a gestão de resíduos;\n\nb) Acompanhar a execução e a revisão dos planos de gestão de resíduos;\n\nc) Acompanhar os aspetos técnicos, económicos e sociais ligados ao mercado de resíduos em Portugal, especialmente no que concerne aos fluxos de resíduos e materiais abrangidos por sociedades gestoras e aos resíduos que sejam transacionados em bolsa de resíduos;\n\nd) Acompanhar o funcionamento do mercado de resíduos e auxiliar a ANR a disponibilizar informação relevante nesse âmbito potenciando as trocas de resíduos entre indústrias com vista à sua valorização;\n\ne) Auxiliar a ANR na disponibilização de informação técnica fiável relacionada com produtos fabricados com materiais reciclados através de uma base de dados online;\n\nf) [Revogada.]\n\n2 - Podem ser constituídos, no âmbito da CAGER, grupos de trabalho e comissões de acompanhamento de gestão em função dos tipos de resíduos e das operações de gestão de resíduos.\n\n3 - A participação na CAGER não é remunerada.\n\n4 - A estrutura, composição e funcionamento da CAGER são fixados em portaria dos membros do Governo responsáveis pelas áreas da economia e do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191007875": {
+   "fragment_id": "150935782",
+   "type": 11,
+   "heading": "Artigo 107.º — Tarifa de resíduos urbanos cobrada pelos sistemas municipais",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 107.º — Tarifa de resíduos urbanos cobrada pelos sistemas municipais\n\n1 - Os municípios devem cobrar ao utilizador final uma tarifa pelo serviço de gestão de resíduos urbanos prestado de forma a cobrir os respetivos custos, incluindo os de tratamento dos resíduos urbanos.\n\n2 - A tarifa de resíduos deve incentivar a redução da quantidade dos resíduos urbanos e a nocividade dos mesmos, bem como a separação na origem e um incremento dos resíduos recolhidos seletivamente.\n\n3 - As tarifas devem ser aplicadas sobre a quantidade de resíduos recolhidos, medida em unidades de peso ou estimada pelo volume de contentorização.\n\n4 - A partir de 1 de janeiro de 2025 as tarifas para o setor do comércio, serviços e restauração devem deixar de ser indexadas ao consumo de água e cumprir o previsto no número anterior.\n\n5 - A partir de 1 de janeiro de 2030 as tarifas para o setor doméstico devem deixar de ser ­indexadas ao consumo de água e cumprir o previsto no n.º 3.\n\n6 - Enquanto não for adotado um dos métodos de medição ou de estimativa referidos no n.º 3, as faturas referentes ao serviço de gestão de resíduos devem indicar o custo do serviço, de acordo com a metodologia definida pela ERSAR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191008075": {
+   "fragment_id": "150935784",
+   "type": 11,
+   "heading": "Artigo 108.º — Taxas de apreciação administrativa",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 108.º — Taxas de apreciação administrativa\n\n1 - Está sujeita ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes a prática de atos procedimentais da competência da ANR, da DGAE ou das ARR no âmbito:\n\na) Dos procedimentos de transferências de resíduos;\n\nb) Dos pedidos de autorização ou licença de estabelecimentos ou instalações de tratamento de resíduos, de alteração da licença e de realização de vistoria prévia, de conformidade e de reexame, aplicável por articulação com os regimes previstos na secção v do capítulo viii e por remissão de outros regimes aplicáveis;\n\nc) Dos pedidos de autorização ou licença dos sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados;\n\nd) Revogado;\n\n2 - O montante das taxas e a sua distribuição pelas entidades intervenientes são fixados por portaria do membro do Governo responsável pela área do ambiente.\n\n3 - O pagamento das taxas de licenciamento previstas no presente artigo é prévio à prática dos atos, devendo ser rejeitado liminarmente o requerimento de qualquer entidade pública ou privada ao qual não se junte o comprovativo de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "1191008275": {
+   "fragment_id": "150935788",
+   "type": 11,
+   "heading": "Artigo 111.º — Taxa de Gestão de Resíduos aplicável aos sistemas de gestão de resíduos urbanos e instalações de tratamento de resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 111.º — Taxa de Gestão de Resíduos aplicável aos sistemas de gestão de resíduos urbanos e instalações de tratamento de resíduos\n\n1 - A TGR aplicável aos sistemas de gestão de resíduos urbanos e instalações de tratamento de resíduos é liquidada anualmente e incide sobre a quantidade e o destino final dos resíduos geridos por estas entidades, nos termos seguintes:\n\na) 100 % do valor da TGR definida no artigo anterior, por cada tonelada de resíduos depositados em aterro - operação de eliminação D 1;\n\nb) 85 % do valor da TGR definida no artigo anterior, por cada tonelada de resíduos que sejam submetidos à operação de incineração em terra - operação de eliminação D 10;\n\nc) 20 % do valor da TGR definida no artigo anterior, por cada tonelada de resíduos que sejam submetidos à operação de valorização energética operação de valorização R 1\n\n2 - Ao montante da TGR referido nas alíneas b) e c) do número anterior devem ser deduzidos os valores correspondentes à valorização material nos seguintes termos:\n\na) O valor da TGR definida na alínea b) do número anterior, por cada tonelada de resíduos valorizados materialmente a partir das escórias, quando a operação de eliminação D 10 ocorre em incinerador dedicado;\n\nb) O valor da TGR definida na alínea c) do número anterior, por cada tonelada de resíduos valorizados materialmente a partir das escórias, quando a operação de valorização R 1 ocorre em incinerador dedicado;\n\nc) O valor da TGR definida na alínea c) do número anterior, por cada tonelada de resíduos incorporados no produto final - valorização material -, quando a operação de valorização R 1 ocorre em fornos de processo de instalações industriais;\n\nd) A metodologia para determinação da tonelagem de resíduos objeto de deduções à TGR deve ser aprovada previamente pela ANR mediante proposta devidamente fundamentada do sujeito passivo.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - Ao montante da TGR aplicável aos resíduos abrangidos pelas alíneas a), b) e c) do n.º 1 que sejam resultantes de outros já sujeitos a TGR nos termos do n.º 1, nomeadamente lamas do tratamento por osmose inversa dos lixiviados de aterro, rejeitados, inqueimados, cinzas, e escórias, é deduzido o valor correspondente à taxa cobrada relativamente à operação sujeita a TGR prévia à eliminação.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - O n.º 1 não é aplicável aos resíduos produzidos em Portugal relativamente aos quais a lei imponha operações de tratamento sujeitas a TGR, nem aos materiais que sejam eliminados por ordem judicial.\n\n11 - No caso dos resíduos submetidos à operação de valorização energética, classificada com o código R 1 na indústria, a TGR prevista na alínea c) do n.º 1 é desagravada, em:\n\na) 3 p.p., se tiver sido incorporado pelo menos 20/prct. de resíduos de origem nacional;\n\nb) 7,5 p.p., se tiver sido incorporado pelo menos 40/prct. de resíduos de origem nacional;\n\nc) 15 p.p., se tiver sido incorporado mais de 60/prct. de resíduos de origem nacional.\n\n12 - No caso dos resíduos submetidos à operação de valorização energética, classificada com o código R 1 na indústria, a TGR prevista na alínea c) do n.º 1 não é aplicável se tiver sido incorporado mais de 80/prct. de resíduos de origem nacional.\n\n13 - Na recuperação de resíduos valorizáveis de aterro que obedeça às normas definidas no presente regime e no regime jurídico da deposição de resíduos em aterro, deduz-se ao valor da TGR definida no n.º 1 o valor correspondente ao peso dos resíduos recuperados, até ao limite máximo do montante de TGR devida pelo sujeito passivo.\n\n14 - A TGR tem o valor mínimo de (euro) 500,00 por sujeito passivo.\n\n15 - Estão isentas de TGR as operações de gestão de resíduos associadas à resolução de passivos ambientais a cargo do Estado, ou em nome deste, quando tenha sido evidenciado que o tratamento dos resíduos em causa não poderia ter sido efetuado, de forma técnica ou economicamente viável, através de operações não sujeitas a TGR e a ausência dessa taxa não ponha em causa os objetivos ambientais.\n\n16 - A verificação dos requisitos referidos no número anterior é reconhecida por despacho do membro do Governo responsável pela área do ambiente.\n\n17 - Os fatores de desagravamento previstos no n.º 11 estão sujeitos a revisão periódica no âmbito do processo de monitorização dos Planos Nacionais de Gestão de Resíduos Urbanos e de Gestão de Resíduos Não Urbanos, consultada a CAGER.\n\n18 - Por despacho do membro do Governo responsável pela área do ambiente, sob proposta da ANR, pode ser concedida uma isenção anual ao pagamento da TGR, nos casos em que os resíduos são submetidos à operação de valorização energética classificada com o código R 1 na indústria.\n\n19 - O cumprimento dos objetivos do plano municipal aprovado pela ANR determina a aplicação de uma redução ao valor da TGR a cobrar aos municípios, nos seguintes termos:\n\na) Quando o município demonstre o cumprimento integral dos objetivos, não há lugar à atualização anual definida pelo despacho previsto no n.º 5 do artigo 110.º, sendo cobrado o valor da TGR definido para o ano anterior;\n\nb) Quando o município demonstre o cumprimento entre 75 % e 100 % dos objetivos, a atualização anual definida pelo despacho previsto no n.º 5 do artigo 110.º é reduzida em 25 %.\n\n20 - O montante da TGR referente às quantidades de biorresíduos recolhidas seletivamente pelos municípios que sejam encaminhados para operações sujeitas a TGR não pode ser repercutido pelos sistemas de gestão de resíduos urbanos municipais ou multimunicipais aos municípios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+  },
+  "1191025375": {
+   "fragment_id": "150935789",
+   "type": 11,
+   "heading": "Artigo 112.º — Taxa de gestão de resíduos aplicável aos produtores dos produtos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 112.º — Taxa de gestão de resíduos aplicável aos produtores dos produtos\n\n1 - As entidades gestoras de sistemas individuais ou integrados de gestão de fluxos específicos de resíduos abrangidos pela responsabilidade alargada do produtor estão sujeitas à TGR com vista à concretização dos objetivos identificados no n.º 1 do artigo 110.º\n\n2 - As entidades responsáveis por sistemas integrados de gestão de fluxos específicos de resíduos asseguram a repercussão da TGR nas prestações financeiras cobradas aos produtores dos produtos aderentes.\n\n3 - [Revogado.]\n\n4 - A TGR referida no presente artigo é liquidada anualmente a partir do exercício referente ao ano de 2025, de acordo com a seguinte fórmula de cálculo:\n\nTGR = TGR EG × δ\n\nem que:\n\n‘TGR’ corresponde ao valor de TGR a pagar pela entidade;\n\n‘TGR EG’ corresponde ao custo médio incorrido, em cada fluxo específico, pelas entidades responsáveis por sistemas integrados ou individuais, no ano da liquidação, por recolher ou recolher e tratar cada tonelada de resíduo;\n\n‘δ’ corresponde ao desvio em relação ao cumprimento da meta (t).\n\n5 - A repercussão junto dos produtores do produto da TGR relativa ao desvio das metas estabelecidas na licença ou na autorização tem de explicitar a sua natureza.\n\n6 - Uma entidade gestora não pode ser penalizada por apresentar um desempenho de recolha superior a 100 %, devendo as metas que incidem nestas quantidades ser calculadas com o limite estabelecido.\n\n7 - Para efeitos do cumprimento do n.º 4, os custos médios incorridos e a respetiva metodologia de cálculo são fixados por portaria do membro do Governo responsável pela área do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "1191025575": {
+   "fragment_id": "150935790",
+   "type": 11,
+   "heading": "Artigo 113.º — Liquidação e cobrança da Taxa de Gestão de Resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 113.º — Liquidação e cobrança da Taxa de Gestão de Resíduos\n\n1 - Os procedimentos de liquidação e de cobrança da TGR são fixados na portaria prevista no n.º 7 do artigo 112.º\n\n2 - A TGR é calculada com base na informação registada pelos sujeitos passivos no SIRER.\n\n3 - No caso das entidades gestoras dos sistemas individuais ou integrados de gestão de fluxos específicos de resíduos abrangidos pela responsabilidade alargada do produtor, a TGR é calculada com base na informação referida no n.º 2 e na informação prestada nos Relatórios Anuais de Atividades e nos Relatórios e Contas.\n\n4 - Por motivos inerentes ao funcionamento da plataforma ou violação do dever de informação da responsabilidade dos sujeitos passivos, a TGR pode ser calculada por recurso a métodos indiretos de estimativa das quantidades de resíduos geridos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2021 - Diário da República n.º 14/2021, Série I de 2021-01-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2021-154820684), produz efeitos a partir de 2020-12-15"
+  },
+  "1191025775": {
+   "fragment_id": "150935791",
+   "type": 11,
+   "heading": "Artigo 114.º — Distribuição do produto da Taxa de Gestão de Resíduos",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 114.º — Distribuição do produto da Taxa de Gestão de Resíduos\n\n1 - O produto da TGR abrangida pelo artigo 111.º é afeto à IGAMAOT, GNR, PSP, ARR e ANR, tendo como base o montante da receita atribuído no ano anterior, e atualizado anualmente de acordo com a taxa de variação média anual do índice de preços ao consumidor.\n\n2 - O produto da TGR abrangida pelo artigo 112.º é afeto à IGAMAOT e ANR, tendo como base o montante da receita atribuído no ano anterior, e atualizado anualmente de acordo com a taxa de variação média anual do índice de preços ao consumidor.\n\n3 - O montante remanescente da distribuição do produto da TGR prevista nos números anteriores é transferido para o Fundo Ambiental, com o objetivo de apoiar projetos de gestão de resíduos e economia circular, nos termos do artigo seguinte.\n\n4 - As receitas provenientes da TGR são consignadas ao financiamento de projetos de gestão de resíduos que visem o cumprimento dos objetivos e metas previstos no presente regime jurídico e demais instrumentos aprovados pela ANR.\n\n5 - O membro do Governo responsável pela área do ambiente adota, através de despacho, medidas destinadas a aumentar a transparência e o escrutínio da utilização das receitas da TGR.\n\n6 - A ANR elabora um relatório anual, para o qual, as entidades reportam obrigatoriamente a informação requerida até 31 de março para ser publicado até 30 de junho de cada ano, onde conste a atribuição desagregada, por ações, objetivos e destinatários, das receitas geradas pela TGR e dos projetos de gestão de resíduos aprovados no âmbito do artigo seguinte.\n\n7 - A soma do produto afeto à IGAMAOT, GNR, PSP, ARR e ANR nos termos dos n.os 1 e 2 não pode, em cada exercício, exceder 40 % da receita total anual da TGR, sendo os montantes a atribuir ajustados proporcionalmente sempre que necessário, de modo a assegurar que o montante a transferir ao Fundo Ambiental, nos termos do n.º 3 e do artigo seguinte, corresponda a, pelo menos, 60 % daquela receita.\n\n> Nota: [Artigo 7.º, Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402) O disposto nos n.os 1 a 6 do presente artigo 114.º, produz efeitos a 1 de janeiro de 2026. O disposto no n.º 7 do presente artigo.º do RGGR, produz efeitos a 1 de janeiro de 2027\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+  },
+  "1191025975": {
+   "fragment_id": "150935792",
+   "type": 11,
+   "heading": "Artigo 115.º — Aplicação da TGR em apoio a projetos na área dos resíduos e da economia circular",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 115.º — Aplicação da TGR em apoio a projetos na área dos resíduos e da economia circular\n\n1 - O Fundo Ambiental, com recurso às receitas referidas no artigo anterior, abre avisos específicos ou celebra contratos-programa, em montantes a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, para apoiar:\n\na) Os municípios, em projetos que visem o aumento da eficiência do setor dos resíduos, a criação e manutenção de fluxos de resíduos ou a implementação de modelos de recolha seletiva mais eficientes, sem prejuízo do disposto no regime aplicável à cooperação técnica e financeira entre a administração central e local, previsto na Lei n.º 73/2013, de 3 de setembro;\n\nb) Os produtores de produtos abrangidos pela responsabilidade alargada do produtor e os sistemas municipais, intermunicipais e multimunicipais, em articulação com as associações setoriais, com respeito pelas regras de auxílios de Estado.\n\n2 - Os apoios previstos no número anterior que não tenham sido atribuídos após a conclusão do processo de candidatura aos avisos abertos revertem, no próprio exercício orçamental, para reforço dos avisos em curso ou para abertura de novos avisos destinados a projetos que contribuam para o cumprimento das metas nacionais de gestão de resíduos, dirigidos a todas as entidades que sejam sujeitos passivos da TGR, nos termos dos artigos 111.º e 112.º\n\n3 - O despacho previsto no n.º 1 do artigo 7.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto, pode estabelecer apoios financeiros aos municípios, em função dos objetivos de política de resíduos.\n\n4 - O montante a disponibilizar aos municípios, nos termos da alínea a) do n.º 1 e do n.º 3, não pode ser inferior a 30 % do produto da TGR abrangida pelo artigo 111.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 52/2021 - Diário da República n.º 154/2021, Série I de 2021-08-10](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), produz efeitos a partir de 2021-07-01"
+  },
+  "1191027975": {
+   "fragment_id": "150935795",
+   "type": 11,
+   "heading": "Artigo 117.º — Contraordenações ambientais",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 117.º — Contraordenações ambientais\n\n1 - Constitui contraordenação ambiental muito grave, nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:\n\na) A violação das proibições previstas nos n.os 2 e 3 do artigo 4.º;\n\nb) O incumprimento de normas estabelecidas nos termos dos n.os 4 e 5 do artigo 35.º;\n\nc) A violação da proibição de mistura, na recolha seletiva, entre biorresíduos e outros resíduos, nos termos do n.º 5 do artigo 36.º;\n\nd) A violação da proibição de incineração e deposição em aterro dos resíduos recolhidos de forma seletiva nos termos do n.º 10 do artigo 36.º;\n\ne) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR, sem obtenção de consentimento por parte de todas as autoridades competentes de destino, de expedição e de trânsito à notificação prévia à autoridade competente de expedição, nos termos das alíneas a) e b) do n.º 1 do artigo 9.º do Regulamento MTR;\n\nf) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR, em violação das condições impostas pelas autoridades competentes de destino, de expedição e de trânsito, nos termos do artigo 10.º do Regulamento MTR;\n\ng) Transferência de resíduos destinados a operações de eliminação ou a operações de valorização identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR, em violação da decisão de objeção à transferência apresentada pelas autoridades competentes, nos termos do artigo 12.º do Regulamento MTR;\n\nh) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR, tendo obtido a autorização das autoridades competentes envolvidas através de falsificação, deturpação ou fraude, nos termos do n.º 26 do artigo 3.º do Regulamento MTR;\n\ni) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR, sem autorização das autoridades competentes envolvidas, nos termos do n.º 26 do artigo 3.º do Regulamento MTR;\n\nj) Transferência de resíduos utilizando os procedimentos dos requisitos gerais de informação estabelecidos no artigo 18.º do Regulamento MTR, em que os resíduos não constem dos anexos iii, iii-a ou iii-b, do Regulamento MTR, nos termos do n.º 26 do artigo 3.º do Regulamento MTR;\n\nk) O incumprimento da obrigação de retoma pelo notificador de facto ou notificador de direito, em caso de transferência ilegal nos termos do n.º 2 do artigo 25.º do Regulamento MTR;\n\nl) O incumprimento da obrigação de retoma pelo destinatário, em caso de transferência ilegal nos termos do n.º 8 do artigo 25.º do Regulamento MTR;\n\nm) O incumprimento das obrigações previstas no n.º 14 do artigo 25.º do Regulamento MTR pela pessoa que trata da transferência;\n\nn) O incumprimento pelo destinatário das obrigações de retoma estipuladas pela autoridade competente, em caso de transferência ilegal nos termos da alínea g) do n.º 26 do artigo 3.º do Regulamento MTR;\n\no) Transferência de resíduos para eliminação no alto mar a partir de portos portugueses sem a obtenção da autorização prevista no n.º 1 do artigo 43.º;\n\np) Violação da proibição de exportação de resíduos destinados a eliminação prevista no n.º 1 do artigo 37.º do Regulamento MTR;\n\nq) Violação da proibição de exportação de resíduos destinados a valorização prevista no n.º 1 do artigo 39.º ou no n.º 1 do artigo 40.º do Regulamento MTR;\n\nr) Violação da proibição de exportação de resíduos prevista nos artigos 48.º ou 49.º do Regulamento MTR;\n\ns) Violação da proibição de importação de resíduos destinados a eliminação nos termos do n.º 1 do artigo 50.º do Regulamento MTR;\n\nt) Violação da proibição de importação de resíduos destinados a valorização nos termos do n.º 1 do artigo 52.º do Regulamento MTR;\n\nu) A permissão da transferência de resíduos da sua instalação, pelo produtor ou detentor, sem os documentos de acompanhamento previstos nos artigos 5.º do Regulamento MTR disponibilizados eletronicamente através do sistema a que se refere o artigo 27.º do Regulamento MTR;\n\nv) A transferência de resíduos para países aos quais não se aplica a Decisão da OCDE, destinados a operações de tratamento em instalações, as quais não constam da lista de países para os quais são autorizadas exportações de resíduos não perigosos da União para valorização, referida no artigo 41.º do Regulamento MTR;\n\nw) A transferência de resíduos para países aos quais não se aplica a Decisão da OCDE, que não constam da lista de países para os quais são autorizadas exportações de resíduos não perigosos da União para valorização referida no artigo 41.º do Regulamento MTR;\n\nx) A transferência de resíduos para países aos quais não se aplica a Decisão da OCDE, em incumprimento do procedimento de controlo de notificação e autorização prévias por escrito, quando indicado na lista de países para os quais são autorizadas exportações de resíduos não perigosos da União para valorização, referida no artigo 41.º do Regulamento MTR;\n\ny) O incumprimento, pela pessoa que trata da transferência, das obrigações de retoma quando a transferência não possa ser concluída como previsto, estabelecidas no n.º 1 do artigo 23.º do Regulamento MTR;\n\nz) O incumprimento, pelo destinatário, das obrigações de retoma quando a transferência não possa ser concluída como previsto, previstas no n.º 1 do artigo 23.º do Regulamento MTR;\n\naa) O incumprimento, pelo notificador ou pela pessoa que trata da transferência, em transferências de resíduos de Portugal para países fora da União, da obrigação da instalação de tratamento ter sido sujeita a uma auditoria que demonstre que a instalação cumpre os critérios indicados na parte B do anexo x, de acordo com o previsto nos n.os 2 e 5 do artigo 46.º do Regulamento MTR;\n\nbb) A violação da proibição de proceder à operação de mistura incluindo a diluição de resíduos perigosos nos termos do n.º 8 do artigo 57.º;\n\ncc) O exercício não licenciado das atividades de tratamento de resíduos em violação do disposto no n.º 2 do artigo 4.º e nos n.os 1 e 2 do artigo 59.º;\n\ndd) A remediação de um solo contaminado, incluindo a sua escavação e transporte, sem prévio licenciamento, bem como a sua remediação em incumprimento da licença de operação de remediação do solo emitida, ao abrigo do artigo 77.º;\n\nee) A realização de operações de gestão de resíduos com base em licença suspensa ou revogada pela entidade licenciadora nos termos do artigo 81.º;\n\nff) A gestão de fluxos específicos de resíduos sem licença ou autorização nos termos do n.º 3 do artigo 90.º;\n\ngg) A gestão como subproduto após reversão da desclassificação pela ANR, nos termos do n.º 7 do artigo 91.º;\n\nhh) O abandono e a descarga de RCD em local não licenciado ou autorizado para o efeito.\n\n2 - Constitui contraordenação ambiental grave, nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:\n\na) O incumprimento, pelos operadores, das prioridades da hierarquia de resíduos nos termos do n.º 1 do artigo 7.º;\n\nb) O incumprimento do dever de assegurar a gestão de resíduos, a quem, nos termos do previsto no artigo 9.º, caiba essa responsabilidade;\n\nc) O incumprimento do dever de entrega dos resíduos recolhidos ou transportados a operadores de tratamento de resíduos, nos termos do n.º 7 do artigo 9.º;\n\nd) O exercício de recolha complementar sem a autorização referida no n.º 3 do artigo 11.º;\n\ne) O exercício de recolha complementar sem sujeição a uma tarifa distinta da aplicada no âmbito do serviço público, nos termos do n.º 5 do artigo 11.º;\n\nf) O incumprimento pelos sistemas municipais ou multimunicipais da obrigação de assegurar uma contabilização autónoma nos termos do n.º 6 do artigo 11.º;\n\ng) A violação, pelo produtor do produto, da obrigação de promover as alterações na conceção do produto nos termos do n.º 2 do artigo 12.º;\n\nh) O incumprimento da obrigação de elaboração dos planos municipais, intermunicipais e multimunicipais nos termos do disposto no n.º 2 do artigo 18.º;\n\ni) O incumprimento do dever de envio à ANR do plano de minimização resíduos perigosos, nos termos do n.º 1 do artigo 26.º;\n\nj) O incumprimento da taxa mínima de incorporação de material reciclado, prevista no n.º 1 do artigo 28.º após a sua aprovação nos termos da portaria prevista no n.º 2 do artigo 28.º;\n\nk) O incumprimento da taxa mínima de incorporação de material reciclado, prevista no n.º 5 do artigo 28.º;\n\nl) O incumprimento do dever de receção de resíduos pelos municípios nos termos do n.º 3 do artigo 35.º;\n\nm) O incumprimento pelos produtores de resíduos das obrigações previstas nas alíneas b) a e) do n.º 2 do artigo 29.º;\n\nn) O incumprimento pelos produtores e operadores de gestão de resíduos do dever de assegurar a recolha separada, nos termos do n.º 1 do artigo 36.º;\n\no) O incumprimento pela entidades responsáveis pelo sistema municipal ou multimunicipal de gestão de resíduos urbanos de proceder à recolha seletiva das frações e nos prazos previstos no n.º 2 do artigo 36.º;\n\np) O incumprimento do dever de recolha seletiva pelos operadores nos termos do n.º 3 do artigo 36.º;\n\nq) O incumprimento da obrigação de recolha e transporte de resíduos de forma separada prevista no n.º 1 do artigo 38.º;\n\nr) O envio, o transporte ou a receção de resíduos para os quais não tenha sido emitida a e-GAR nos termos do n.º 2 do artigo 38.º;\n\ns) A emissão de e-GAR, e respetiva autorização, se aplicável, nos termos do n.º 2 do artigo 38.º, após início do transporte;\n\nt) O não cumprimento pelo transportador da obrigação de disponibilização da e-GAR, devidamente autorizada pelo produtor ou detentor dos resíduos, se aplicável, quando solicitado pelas autoridades competentes, nos termos da portaria prevista no n.º 4 do artigo 38.º;\n\nu) O envio, transporte ou receção de resíduos em território nacional sem que o transporte tenha sido previamente autorizado pelo produtor ou detentor dos resíduos, se aplicável, nos termos da ­portaria prevista no n.º 4 do artigo 38.º;\n\nv) A rejeição de e-GAR sem que tenha ocorrido a correspondente rejeição da carga de resíduos, nos termos da portaria prevista no n.º 4 do artigo 38.º\n\nw) A Conclusão de e-GAR sem que tenha ocorrido o transporte físico de resíduos correspondente, nos termos do n.º 2 do artigo 38.º;\n\nx) A anulação de e-GAR corretamente preenchida quando tenha ocorrido o correspondente transporte de resíduos, nos termos do n.º 2 do artigo 38.º;\n\ny) O transportador, comerciante ou destinatário dos resíduos assumirem-se como produtor ou detentor numa e-GAR exceto quando autorizados pela ANR;\n\nz) A aceitação pela instalação de valorização ou eliminação, de resíduos resultantes de uma transferência sem que tenham sido disponibilizadas eletronicamente através do sistema a que se refere o artigo 27.º do Regulamento MTR as informações constantes no documento de acompanhamento referido no n.º 1 do artigo 16.º ou no n.º 4 do artigo 18.º do Regulamento MTR;\n\naa) O incumprimento, pela instalação que efetue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de efetuar nova notificação, nos termos dos n.os 7 e 8 do artigo 15.º do Regulamento MTR;\n\nbb) A falta de cumprimento pela instalação intermédia ou não intermédia de valorização ou de eliminação, conforme aplicável, das obrigações previstas nos n.os 5, 6 e 7 do artigo 16.º do Regulamento MTR;\n\ncc) O incumprimento, pelo notificador, das obrigações relativas aos documentos de acompanhamento devidas após a autorização de uma transferência, nos termos dos n.os 1 e 2 do artigo 16.º do Regulamento MTR;\n\ndd) O incumprimento, pelo notificador, da obrigação de efetuar nova notificação, nos termos do artigo 17.º do Regulamento MTR;\n\nee) A transferência, pelo produtor dos resíduos e/ou pela pessoa que trata da transferência, de resíduos referidos nos n.os 4 e 5 do artigo 4.º do Regulamento MTR, sem que as informações constantes no documento de acompanhamento do anexo vii exigido no artigo 18.º do Regulamento MTR tenham sido disponibilizadas eletronicamente através do sistema a que se refere o artigo 27.º do Regulamento MTR;\n\nff) [Revogada.]\n\ngg) A transferência, pela pessoa que trata da transferência, de resíduos referidos nos n.os 4 e 5 do artigo 4.º do Regulamento MTR, com o documento do anexo vii incompleto ou preenchido de forma incorreta no sistema a que se refere o artigo 27.º do Regulamento MTR, nos termos da alínea g) do n.º 26 do artigo 3.º do mesmo Regulamento;\n\nhh) A transferência, pela pessoa que trata da transferência, de resíduos referidos nos n.os 4 e 5 do artigo 4.º do Regulamento MTR sem a existência do contrato elaborado nos termos do n.º 10 do artigo 18.º do Regulamento MTR e respetiva submissão eletronicamente através do sistema a que se refere o artigo 27.º do Regulamento MTR, no caso de transferências com origem em território nacional;\n\nii) A transferência, pela pessoa que trata da transferência, de resíduos para análise laboratorial ou ensaios de tratamento experimentais para efeitos de avaliação das características físicas ou químicas dos resíduos ou de determinação da sua adequação para valorização ou eliminação utilizando os requisitos gerais de informação estabelecidos no artigo 18.º do Regulamento MTR, em que não tenha sido respeitado o n.º 5 do artigo 4.º do Regulamento MTR;\n\njj) A violação da proibição de mistura de resíduos durante a transferência prevista no artigo 19.º do Regulamento MTR;\n\nkk) A transferência de resíduos efetuada de tal modo que resulte na valorização ou eliminação em violação das regras comunitárias e internacionais, nos termos do n.º 26 do artigo 3.º do Regulamento MTR;\n\nll) O incumprimento pelo notificador da obrigação de retoma de resíduos quando a transferência de resíduos não possa ser concluída como previsto, nos termos do n.º 2 do artigo 22.º do Regulamento MTR;\n\nmm) O incumprimento pelo notificador identificado de acordo com a hierarquia estabelecida no n.º 6 do artigo 3.º do Regulamento MTR, da obrigação de efetuar nova notificação nos termos dos n.os 5 e 6 do artigo 22.º do Regulamento MTR;\n\nnn) A falta de apresentação, pelo notificador inicial, de um pedido devidamente fundamentado ou de novo documento de acompanhamento, quando exigíveis nos termos dos n.os 7 e 8 do artigo 22.º do Regulamento MTR;\n\noo) O incumprimento pelo notificador de facto ou de direito da obrigação de efetuar nova notificação ou de apresentação de pedido devidamente fundamentado, quando exigível, nos termos do n.º 5 do artigo 25.º do Regulamento MTR;\n\npp) [Revogada.]\n\nqq) O incumprimento, pelo produtor ou pelo notificador ou por outras empresas envolvidas numa transferência e/ou na valorização ou eliminação de resíduos, das obrigações de proteção do ambiente estabelecidas no artigo 59.º do Regulamento MTR;\n\nrr) [Revogada.]\n\nss) O incumprimento das obrigações relativas à transferência de resíduos por via marítima, previstas no artigo 42.º;\n\ntt) O não cumprimento das obrigações relativas à transferência de resíduos por via marítima, previstas no artigo 42.º;\n\nuu) A utilização, pelo notificador ou pela pessoa que trata da transferência, de um relatório de auditoria efetuada por uma entidade terceira que não seja independente do notificador ou da pessoa que trata da transferência assim como da instalação auditada, conforme previsto no n.º 3 do artigo 46.º do Regulamento MTR;\n\nvv) A utilização, pelo notificador ou pela pessoa que trata da transferência, de um relatório de auditoria que não tenha sido efetuada por uma entidade terceira que disponha de qualificações adequadas, de acordo com os requisitos estabelecidos na parte A do anexo x, conforme previsto no n.º 3 do artigo 46.º do Regulamento MTR;\n\nww) O incumprimento, pelo notificador ou pela pessoa que trata da transferência, da obrigação de encomendar uma auditoria ad hoc sem demora, caso receba informações fiáveis de que uma instalação deixou de cumprir os critérios estabelecidos na parte B do anexo x, prevista no n.º 5 do artigo 46.º do Regulamento MTR;\n\nxx) O incumprimento, pelo notificador ou pela pessoa que trate da transferência, da obrigação de cessar imediatamente a exportação de resíduos para uma instalação e/ou informar as autoridades competentes de expedição em causa, no caso de uma auditoria ad hoc demonstrar que essa instalação deixou de cumprir os critérios estabelecidos na parte B do anexo x, conforme previsto no n.º 5 do artigo 46.º do Regulamento MTR;\n\nyy) O incumprimento, pelo notificador ou pessoa que trata da transferência, da obrigação de apresentação das provas documentais solicitadas por uma autoridade envolvida nas inspeções, e numa língua aceite pelas autoridades em causa, prevista no n.º 9 do artigo 46.º do Regulamento MTR;\n\nzz) O incumprimento pela instalação de valorização ou pelo laboratório das obrigações previstas no n.º 8 do artigo 18.º do Regulamento MTR;\n\naaa) O incumprimento pela instalação de valorização das obrigações previstas no n.º 9 do artigo 18.º do Regulamento MTR;\n\nbbb) [Anterior alínea vv).]\n\nccc) O incumprimento da obrigação de reciclagem na origem ou de recolha seletiva de biorresíduos e encaminhamento para reciclagem pelos municípios nos termos do n.º 8 do artigo 45.º;\n\nddd) O incumprimento do dever de manutenção e de monitorização ambiental das lixeiras nos termos do n.º 2 do artigo 48.º;\n\neee) A manutenção e a monitorização ambiental das lixeiras em inobservância dos planos aprovados nos termos no n.º 5 do artigo 48.º;\n\nfff) O incumprimento do dever de assegurar a gestão de RCD, por quem, nos termos do previsto nos n.os 1, 3 e 10 do artigo 49.º, tenha essa responsabilidade;\n\nggg) O incumprimento das normas para a correta remoção dos materiais contendo amianto, para o acondicionamento dos respetivos RCD com amianto gerados, e para o seu transporte e gestão, nos termos do n.º 8 do artigo 49.º;\n\nhhh) O incumprimento pelos produtores e operadores de gestão de RCD do previsto no n.º 10 do artigo 49.º;\n\niii) O incumprimento pelos produtores de RCD do previsto no n.º 11 do artigo 49.º;\n\njjj) O incumprimento da obrigação de assegurar, na obra ou em local afeto à mesma, a triagem de RCD ou o seu encaminhamento para operador de gestão licenciado, em violação do disposto nos n.os 1 e 2 do artigo 51.º;\n\nkkk) A deposição de RCD em aterro em violação do disposto no n.º 3 do artigo 51.º;\n\nlll) A realização de operações de triagem e fragmentação de RCD em instalações que não observem os requisitos técnicos a que estão obrigadas nos termos do n.º 4 do artigo 51.º;\n\nmmm) A não elaboração do plano de prevenção e gestão de RCD, nos termos do artigo 55.º;\n\nnnn) O incumprimento nas obras particulares sujeitas a licenciamento ou controlo prévio da obrigação de subscrição do termo de responsabilidade, previsto nos n.os 5 e 6 do artigo 54.º;\n\nooo) A inexistência, na obra, de um sistema de acondicionamento em violação do disposto na alínea b) do n.º 1 do artigo 54.º e da alínea b) do n.º 4 do artigo 55.º;\n\nppp) O incumprimento da obrigação de realizar a auditoria de pré-demolição ou a não elaboração do relatório de identificação e avaliação de materiais, nos termos do artigo 55.º-A;\n\nqqq) A realização de operações de gestão de resíduos com base em licença transmitida sem observância do procedimento de transmissão de licenças previsto no artigo 80.º;\n\nrrr) A produção, recolha, transporte, armazenagem e tratamento de resíduos perigosos realizados em violação do disposto no n.º 1 do artigo 57.º;\n\nsss) A errada classificação de perigosidade dos resíduos, nos termos do n.º 2 do artigo 57.º;\n\nttt) O incumprimento do dever de proceder à separação dos resíduos perigosos nos termos do n.º 10 do artigo 57.º;\n\nuuu) As operações de gestão de resíduos efetuadas em incumprimento das normas técnicas constantes no regulamento de funcionamento dos CIRVER, previstas nos termos do n.º 1 do artigo 58.º;\n\nvvv) O incumprimento pelo operador de tratamento de resíduos das medidas impostas pela entidade licenciadora nas vistorias previstas nos artigos 64.º, 65.º e 73.º;\n\nwww) A violação das regras gerais relativas à gestão de resíduos previstas nos n.os 1 e 2 do artigo 66.º;\n\nxxx) A inexistência de um seguro de responsabilidade civil, previsto no artigo 67.º;\n\nyyy) A execução de projeto de instalação ou alteração sem a aprovação referida no artigo 71.º;\n\nzzz) O início de exploração de um estabelecimento ou instalação de tratamento de resíduos sem a licença prevista no artigo 74.º ou no artigo 76.º;\n\naaaa) O exercício das atividades de tratamento de resíduos em violação das condições impostas na licença de exploração, nos termos do artigo 63.º;\n\nbbbb) A cessação da atividade de operação de gestão de resíduos licenciada sem a aceitação, por parte da entidade licenciadora, de um pedido de renúncia da respetiva licença, nos termos previstos no n.º 4 do artigo 82.º;\n\ncccc) A desclassificação como subproduto em incumprimento das condições aplicáveis nos termos dos n.os 4, 5, 9 ou 11 do artigo 91.º;\n\ndddd) A não disponibilização da declaração de subproduto pelo produtor, transportador ou utilizador final, nos termos do n.º 4 ou do n.º 9 do artigo 91.º quando solicitado pelas autoridades competentes.\n\neeee) O incumprimento das condições previstas nos artigos 92.º e 93.º, relativos ao fim do estatuto de resíduo e outras formas de desclassificação, respetivamente;\n\nffff) O incumprimento da obrigação de submissão de dados no SIRER, em violação do disposto no artigo 98.º;\n\ngggg) O incumprimento da obrigação de inscrição no SIRER, em violação do disposto no artigo 97.º;\n\nhhhh) A violação da obrigação de facultar informações nos termos do n.º 2 do artigo 100.º;\n\niiii) A violação da obrigação de facultar documentos nos termos do n.º 4 do artigo 100.º;\n\njjjj) A violação da obrigação de facultar informações nos termos do n.º 4 do artigo 104.º;\n\nkkkk) O não cumprimento da determinação de realização de auditorias nos termos do n.º 5 do artigo 104.º;\n\nllll) O incumprimento do dever de repercussão da TGR nas tarifas e prestações financeiras, nos termos do n.º 3 do artigo 110.º;\n\nmmmm) O incumprimento da obrigação de disponibilização da informação prevista na portaria prevista no n.º 1 do artigo 113.º;\n\nnnnn) A utilização dos perfis especiais de produtor/detentor de resíduos, referidos na portaria prevista no n.º 2 do artigo 95.º, para fins diferentes dos previstos.\n\noooo) A violação da obrigação de facultar informações nos termos do n.º 2 do artigo 113.º\n\n3 - Constitui contraordenação ambiental leve, nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:\n\na) O incumprimento da obrigação de notificação nos termos do disposto no n.º 2 do artigo 6.º-A;\n\nb) O incumprimento pelo produtor do produto ou pelas entidades gestoras de fluxos específicos de resíduos do dever de informação previsto na alínea e) do n.º 2 do artigo 13.º;\n\nc) O incumprimento pelo detentor de produtos do dever de armazenar e transportar os produtos de forma a permitir a reutilização dos mesmos e dos seus componentes, nos termos do n.º 1 do artigo 22.º;\n\nd) A organização da receção de produtos pelo distribuidor de forma que impeça a reutilização dos produtos e dos seus componentes, em violação do disposto no n.º 2 do artigo 22.º;\n\ne) O incumprimento pelos estabelecimentos de restauração da adoção de medidas de combate ao desperdício alimentar, nos termos do n.º 1 do artigo 23.º;\n\nf) O incumprimento pelas indústrias agroalimentares, empresas de catering, supermercados e hipermercados da adoção de medidas de combate ao desperdício alimentar, nos termos do n.º 2 do artigo 23.º;\n\ng) O incumprimento da obrigação de prestação de informação nos termos do n.º 3 do artigo 23.º;\n\nh) O incumprimento da proibição prevista no n.º 4 do artigo 23.º;\n\ni) O incumprimento pelo produtor de resíduos do dever de fornecer as informações solicitadas nos termos da alínea f) do n.º 2 do artigo 29.º;\n\nj) O incumprimento pelos produtores de biorresíduos provenientes das atividades de restauração, distribuição e indústria de separação na origem, nos termos previstos no n.º 1 do artigo 30.º;\n\nk) O incumprimento da triagem preliminar de resíduos prevista na alínea c) do n.º 1 do artigo 29.º ou do período máximo de armazenagem de resíduos no local de produção nos termos da alínea a) do n.º 2 do artigo 29.º;\n\nl) O incumprimento do período máximo de armazenagem preliminar de resíduos nos termos do n.º 2 do artigo 35.º;\n\nm) Incumprimento da obrigação de manutenção das e-GAR durante o período definido na portaria prevista no n.º 4 do artigo 38.º;\n\nn) Incumprimento do prazo de 30 dias para conclusão da e-GAR definido na portaria prevista no n.º 4 do artigo 38.º, por parte do produtor ou detentor ou do destinatário dos resíduos;\n\no) A conclusão da e-GAR com dados incorretos, por parte do produtor ou detentor e do destinatário dos resíduos;\n\np) Transporte, carregamento ou descarga de resíduos em condições contrárias aos requisitos técnicos estabelecidos, nomeadamente quanto ao acondicionamento, embalagem, cobertura ou derrame, nos termos legais ou nos termos previstos na portaria referida no n.º 4 do artigo 38.º;\n\nq) O incumprimento, por parte do notificador, da obrigação de informação às autoridades competentes de destino, de expedição e de trânsito de alterações essenciais à autorização, nos termos do n.º 1 do artigo 17.º do Regulamento MTR;\n\nr) O incumprimento, pelo transportador, da obrigação de assegurar que os documentos referidos nos n.os 1 e 3 do artigo 16.º podem ser disponibilizados por meios alternativos no veículo de transporte, nos termos do n.º 4 do artigo 16.º do Regulamento MTR;\n\ns) Transferência de resíduos efetuada, pelo notificador, de um modo que não esteja em conformidade com as informações contidas no documento de notificação ou contidas ou a prestar no documento de acompanhamento, nos termos da alínea d) do n.º 26 do artigo 3.º do Regulamento MTR;\n\nt) (Revogada.)\n\nu) (Revogada.)\n\nv) (Revogada.)\n\nw) O incumprimento, pela pessoa que trata da transferência ou pelo destinatário, da obrigação de apresentar uma cópia do contrato, a pedido da autoridade fiscalizadora ou inspetiva, nos termos do n.º 11 do artigo 18.º do Regulamento MTR;\n\nx) O incumprimento pelo notificador dos prazos estipulados nos termos dos n.os 4 e 5 do artigo 9.º do Regulamento MTR, na transferência de resíduos identificadas nos n.os 1, 2 e 3 do artigo 4.º do Regulamento MTR;\n\ny) (Revogada.)\n\nz) Não cumprimento, pelo notificador, pela pessoa que trata da transferência, pelo destinatário ou pela instalação que recebe os resíduos, da obrigação de conservação de documentos e informações, nos termos do artigo 20.º do Regulamento MTR;\n\naa) O incumprimento pelo notificador de facto ou de direito da obrigação de preenchimento de novo documento de acompanhamento, nos termos do n.º 9 do artigo 25.º do Regulamento MTR;\n\nbb) O incumprimento pelo notificador, pelo destinatário ou pela pessoa que trata da transferência da obrigação de apresentação às autoridades competentes envolvidas de traduções autenticadas nos termos do n.º 2 do artigo 28.º do Regulamento MTR;\n\ncc) O incumprimento, pelo transportador, da obrigação de entrega de cópia do documento de acompanhamento, nos termos da alínea c) do artigo 38.º ou da alínea d) do n.º 3 do artigo 51.º do Regulamento MTR;\n\ndd) (Revogada.)\n\nee) (Revogada.)\n\nff) (Revogada.)\n\ngg) O incumprimento, pelo notificador ou pela pessoa que trata da transferência, da obrigação de notificação à Comissão das auditorias que tenha encomendado, prevista no n.º 7 do artigo 46.º do Regulamento MTR;\n\nhh) O incumprimento, pelo notificador ou pela pessoa que trate da transferência, que exporte resíduos para fora da União, da obrigação de disponibilizar anualmente ao público, por via eletrónica, as informações previstas no n.º 10 artigo 46.º do Regulamento MTR;\n\nii) A transferência, pela pessoa que trata da transferência, de resíduos referidos nos n.os 4 e 5 do artigo 4.º do Regulamento MTR, com origem em território nacional, sem o cumprimento dos prazos previstos no n.º 5 do artigo 18.º, através do sistema a que se refere o artigo 27.º do Regulamento MTR;\n\njj) O incumprimento do dever de deposição de resíduos urbanos da responsabilidade do município nos termos do n.º 1 do artigo 45.º;\n\nkk) O incumprimento por entidades que efetuem campanhas de recolha de resíduos urbanos sob responsabilidade dos municípios das obrigações previstas nos n.os 3 e 5 do artigo 45.º;\n\nll) O incumprimento do disposto na alínea a) do n.º 4 do artigo 55.º, relativo à incorporação de materiais reciclados em obra;\n\nmm) O incumprimento da obrigação de registo de dados nos termos das alíneas e) e f) do n.º 1 do artigo 54.º;\n\nnn) A alteração do plano de prevenção e gestão de RCD em violação do disposto no n.º 5 do artigo 55.º;\n\noo) A não disponibilização do plano de prevenção e gestão de RCD nos termos definidos no n.º 6 do artigo 55.º;\n\npp) A emissão de licenças em incumprimento do disposto no artigo 63.º;\n\nqq) O incumprimento da obrigação de comunicação da suspensão da atividade e do respetivo reinício à entidade licenciadora, nos termos do n.º 1 do artigo 82.º;\n\nrr) O reinício da atividade após um período de inatividade do estabelecimento superior a um ano e inferior a três anos, sem pedido de vistoria, nos termos do n.º 2 do artigo 82.º;\n\nss) O incumprimento dos termos da implementação do acordo previsto no n.º 4 do artigo 32.º;\n\ntt) O incumprimento da obrigação de submissão de informação de forma correta e completa nos termos do artigo 99.º;\n\nuu) O incumprimento da obrigação de manutenção de registo de dados nos termos do n.º 1 do artigo 100.º;\n\nvv) O incumprimento dos prazos de inscrição e submissão de dados nos termos do artigo 101.º;\n\nww) O incumprimento da introdução de dados sobre atividades de tratamento de resíduos nos termos do artigo 102.º\n\nxx) O envio e transporte de resíduos com e-GAR incorretamente preenchida, nos termos do n.º 2 do artigo 38.º\n\nyy) O incumprimento da obrigação de verificação prevista no n.º 6 do artigo 54.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
   }
  }
 }

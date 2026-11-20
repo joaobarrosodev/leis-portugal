@@ -253,7 +253,7 @@ function desenharResposta(r) {
     j.hidden = false;
     for (const a of r.jurisprudencia) {
       const li = el("li");
-      const texto = `Acórdão n.º ${a.numero}${a.data ? `, de ${a.data}` : ""}: ${a.sentido}`;
+      const texto = `${a.titulo || `Acórdão n.º ${a.numero}`}${a.data ? `, de ${a.data}` : ""}: ${a.sentido}`;
       if (a.url) {
         const link = el("a", texto);
         link.href = a.url;

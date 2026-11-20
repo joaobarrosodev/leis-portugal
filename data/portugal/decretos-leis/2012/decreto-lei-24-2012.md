@@ -43,11 +43,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2021-05-20'
+  consolidation_date: '2026-11-02'
 version_history:
   file: decreto-lei-24-2012.versoes.json
-  count: 4
-  source_lastmod: '2024-06-25'
+  count: 5
+  source_lastmod: '2026-10-22'
   versions:
   - date: '2012-02-06'
     amending: null
@@ -70,6 +70,24 @@ version_history:
     amending_title: Decreto-Lei n.º 1/2021
     changes:
     - Altera Anexo III
+  - date: '2026-11-02'
+    amending: pt:dre:1184326799:por
+    amending_title: Decreto-Lei n.º 203/2026
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Anexo I
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Anexo II
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/24/2012/p/cons/20210106/pt/html
@@ -84,19 +102,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2012/p/cons/20210106/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115495237
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115495237
-  retrieved_at: '2026-10-22T12:19:41Z'
+  retrieved_at: '2026-11-20T13:48:44Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-22T00:00:00Z'
 integrity:
-  source_sha256: 6ea52bf0e1e965ba99a950f5ed516b0f29a6d8ba45220ffa6b1c478258a59b53
+  source_sha256: 965b09fb1ecd022b6c0d7c40592ce7cd500c685f4ad1018b64f3ad22db0d937f
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:19:41Z'
-  notes: 4 versão(ões); histórico completo em decreto-lei-24-2012.versoes.json.
+  generated_at: '2026-11-20T13:48:44Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-24-2012.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,6 +151,13 @@ relationships:
   label: Altera Anexo III
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2021-153013704
   date: '2021-01-06'
+- type: amended_by
+  target: pt:dre:1184326799:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 11.º;
+    Altera Anexo I; Revoga Artigo 17.º; Revoga Artigo 18.º; Revoga Artigo 19.º; Revoga Artigo 20.º; Revoga Artigo 21.º; Revoga
+    Artigo 22.º; Revoga Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799
+  date: '2026-10-22'
 - type: cites
   target: celex:31980L1107
   label: null
@@ -158,6 +183,10 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000/39/oj
 - type: cites
+  target: celex:32004L0037
+  label: null
+  source: null
+- type: cites
   target: celex:32006L0015
   label: null
   source: http://data.europa.eu/eli/dir/2006/15/oj
@@ -173,6 +202,26 @@ relationships:
   target: celex:32009L0161
   label: null
   source: http://data.europa.eu/eli/dir/2009/161/oj
+- type: cites
+  target: celex:32014L0027
+  label: null
+  source: null
+- type: cites
+  target: celex:32017L0164
+  label: null
+  source: null
+- type: cites
+  target: celex:32019L1831
+  label: null
+  source: null
+- type: cites
+  target: celex:32024L0869
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0161
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 9
@@ -182,7 +231,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:19:41Z'
+  checked_at: '2026-11-20T13:48:44Z'
   warnings: []
   errors: []
 ---
@@ -217,17 +266,77 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-1 - O presente diploma consolida as prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a segurança e a saúde devido à exposição a agentes químicos no trabalho e transpõe para a ordem interna a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0161" title="Link para Directiva da Comunidade Europeia">2009/161/UE</a>, da Comissão, de 17 de Dezembro de 2009, que estabelece uma terceira lista de valores limite de exposição profissional indicativos para a aplicação da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0024" title="Link para Directiva da Comunidade Europeia">98/24/CE</a>, do Conselho, de 7 de Abril de 1998, e altera a Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0039" title="Link para Directiva da Comunidade Europeia">2000/39/CE</a>, de 8 de Junho de 2000.
+1 - O presente diploma consolida as prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a segurança e a saúde devido à exposição a agentes químicos no trabalho e transpõe para a ordem interna a Directiva n.º
+
+2009/161/UE
+
+, da Comissão, de 17 de Dezembro de 2009, que estabelece uma terceira lista de valores limite de exposição profissional indicativos para a aplicação da Directiva n.º
+
+98/24/CE
+
+, do Conselho, de 7 de Abril de 1998, e altera a Directiva n.º
+
+2000/39/CE
+
+, de 8 de Junho de 2000.
 
 2 - O presente diploma respeita a transposição já efectuada das seguintes directivas:
 
-a) Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0322" title="Link para Directiva da Comunidade Europeia">91/322/CEE</a>, da Comissão, de 29 de Maio de 1991, relativa ao estabelecimento de valores limite com carácter indicativo por meio da aplicação da Directiva n.º <a href="eurlex.asp?ano=1980&id=380L1107" title="Link para Directiva da Comunidade Europeia">80/1107/CEE</a>, do Conselho, de 27 de Novembro de 1980, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho;
+a) Directiva n.º
 
-b) Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0024" title="Link para Directiva da Comunidade Europeia">98/24/CE</a>, do Conselho, de 7 de Abril de 1998, relativa à protecção da segurança e da saúde dos trabalhadores contra os riscos ligados à exposição a agentes químicos no trabalho;
+91/322/CEE
 
-c) Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0039" title="Link para Directiva da Comunidade Europeia">2000/39/CE</a>, da Comissão, de 8 de Junho de 2000, relativa ao estabelecimento de uma primeira lista de valores limite de exposição profissional indicativos para execução da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0024" title="Link para Directiva da Comunidade Europeia">98/24/CE</a>, do Conselho, de 7 de Abril de 1998;
+, da Comissão, de 29 de Maio de 1991, relativa ao estabelecimento de valores limite com carácter indicativo por meio da aplicação da Directiva n.º
 
-d) Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0015" title="Link para Directiva da Comunidade Europeia">2006/15/CE</a>, da Comissão, de 7 de Fevereiro de 2006, que estabelece uma segunda lista de valores limite de exposição profissional indicativos para execução da Directiva <a href="eurlex.asp?ano=1998&id=398L0024" title="Link para Directiva da Comunidade Europeia">98/24/CE</a>, do Conselho, de 7 de Abril de 1998, e altera as Directivas n.os <a href="eurlex.asp?ano=1991&id=391L0322" title="Link para Directiva da Comunidade Europeia">91/322/CEE</a>, da Comissão, de 29 de Maio de 1991, e <a href="eurlex.asp?ano=2000&id=300L0039" title="Link para Directiva da Comunidade Europeia">2000/39/CE</a>, da Comissão, de 8 de Junho de 2000.
+80/1107/CEE
+
+, do Conselho, de 27 de Novembro de 1980, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho;
+
+b) Directiva n.º
+
+98/24/CE
+
+, do Conselho, de 7 de Abril de 1998, relativa à protecção da segurança e da saúde dos trabalhadores contra os riscos ligados à exposição a agentes químicos no trabalho;
+
+c) Directiva n.º
+
+2000/39/CE
+
+, da Comissão, de 8 de Junho de 2000, relativa ao estabelecimento de uma primeira lista de valores limite de exposição profissional indicativos para execução da Directiva n.º
+
+98/24/CE
+
+, do Conselho, de 7 de Abril de 1998;
+
+d) Directiva n.º
+
+2006/15/CE
+
+, da Comissão, de 7 de Fevereiro de 2006, que estabelece uma segunda lista de valores limite de exposição profissional indicativos para execução da Directiva
+
+98/24/CE
+
+, do Conselho, de 7 de Abril de 1998, e altera as Directivas n.os
+
+91/322/CEE
+
+, da Comissão, de 29 de Maio de 1991, e
+
+2000/39/CE
+
+, da Comissão, de 8 de Junho de 2000.
+
+3 - O presente diploma integra, ainda, total ou parcialmente, as alterações legislativas que resultam da transposição das seguintes diretivas:
+
+a) Diretiva 2014/27/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, que altera as Diretivas 92/58/CEE, 92/85/CEE, 94/33/CE e 98/24/CE do Conselho e a Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, a fim de as adaptar ao Regulamento (CE) n.º 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+
+b) Diretiva (UE) 2017/164 da Comissão, de 31 de janeiro de 2017, que estabelece uma quarta lista de valores-limite de exposição profissional indicativos nos termos da Diretiva 98/24/CE do Conselho e que altera as Diretivas 91/322/CEE, 2000/39/CE e 2009/161/CE;
+
+c) Diretiva (UE) 2019/1831 da Comissão de 24 de outubro de 2019 que estabelece uma quinta lista de valores-limite de exposição profissional indicativos nos termos da Diretiva 98/24/CE do Conselho e que altera a Diretiva 2000/39/CE da Comissão;
+
+d) Diretiva (UE) 2024/869 do Parlamento Europeu e do Conselho, de 13 de março de 2024, que altera a Diretiva 2004/37/CE do Parlamento Europeu e do Conselho e a Diretiva 98/24/CE do Conselho no que diz respeito aos valores-limite para o chumbo e os seus compostos inorgânicos e para os diisocianatos.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 2.º — Âmbito de aplicação
 
@@ -239,9 +348,11 @@ b) Ao transporte de mercadorias perigosas, sem prejuízo de disposições previs
 
 2 - O presente diploma não prejudica a aplicação:
 
-a) De disposições especiais relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes químicos classificados como cancerígenos ou mutagénicos durante o trabalho;
+a) De disposições especiais relativas à proteção dos trabalhadores contra riscos ligados à exposição a agentes químicos classificados como cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho;
 
 b) Da legislação relativa a agentes químicos quanto a medidas de protecção contra radiações, resultante da transposição de directivas adoptadas ao abrigo do Tratado que institui a Comunidade Europeia da Energia Atómica.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ### Capítulo II — Exposição a agentes químicos
 
@@ -261,9 +372,9 @@ i) Qualquer agente químico que preencha os critérios para ser classificado com
 
 ii) Qualquer agente químico que, embora não preencha os critérios para ser classificado como perigoso nos termos da subalínea anterior, possa, devido às suas propriedades físico-químicas, químicas ou toxicológicas e à forma como é utilizado ou está presente no local de trabalho, apresentar riscos para a segurança e a saúde dos trabalhadores, incluindo qualquer agente químico que esteja sujeito a um valor limite de exposição profissional estabelecido no presente diploma;
 
-d) «Chumbo», chumbo metálico e respectivos compostos iónicos;
+d) (Revogada.)
 
-e) «Concentração de chumbo no ar», grandeza que exprime a quantidade de chumbo existente no ar dos locais de trabalho, expressa em miligrama por metro cúbico (mg/m3) e obtida por medição da concentração do chumbo no ar, ponderada em função do tempo;
+e) (Revogada.)
 
 f) «Produtos intermédios», as substâncias que se formam no decurso de uma reacção química, que são convertidas e, por conseguinte, desaparecem antes do final da reacção ou do processo;
 
@@ -279,15 +390,19 @@ l) «Valor limite de exposição profissional obrigatório», o limite da concen
 
 m) «Vigilância da saúde», a avaliação do estado de saúde do trabalhador relacionada com a exposição a agentes químicos específicos no local de trabalho.
 
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
 ###### Artigo 4.º — Valores limite
 
-1 - O valor limite de exposição profissional obrigatório relativo ao chumbo e aos seus compostos iónicos consta do anexo i ao presente diploma e que dele faz parte integrante.
+1 - Os valores-limite de exposição profissional obrigatórios a agentes químicos constam do anexo i ao presente diploma e que dele faz parte integrante.
 
-2 - O valor limite biológico obrigatório relativo ao chumbo e aos seus compostos iónicos consta do anexo ii ao presente diploma e que dele faz parte integrante.
+2 - [Revogado.]
 
 3 - Os valores limite de exposição profissional com carácter indicativo relativos a agentes químicos constam do anexo iii ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 5.º — Agentes químicos proibidos e limites de concentração para isenção
 
@@ -345,9 +460,9 @@ d) A presença simultânea de vários agentes químicos perigosos;
 
 e) As condições de trabalho que impliquem a presença desses agentes, incluindo a sua quantidade;
 
-f) Os valores limite estabelecidos nos anexos i, ii e iii;
+f) Os valores-limite estabelecidos nos anexos i e iii;
 
-g) Os valores limite de exposição profissional a agentes cancerígenos ou mutagénicos e ao amianto, estabelecidos em legislação especial;
+g) Os valores-limite de exposição profissional a agentes cancerígenos, mutagénicos, substâncias tóxicas para a reprodução e ao amianto, estabelecidos em legislação especial;
 
 h) O efeito das medidas de prevenção implementadas ou a implementar;
 
@@ -370,6 +485,8 @@ c) O resultado da vigilância da saúde justificar a necessidade de nova avalia�
 7 - O exercício de actividades que envolva agentes químicos perigosos só pode ser iniciado após avaliação de riscos e execução das medidas preventivas adequadas.
 
 8 - Constitui contra-ordenação muito grave a violação do disposto no n.º 2 e contra-ordenação grave a violação do disposto nos n.os 3 a 6.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
@@ -433,9 +550,11 @@ c) As instalações, o equipamento e as máquinas ou equipamentos de prevenção
 
 d) Os efeitos de explosões sejam reduzidos ou sejam adoptadas medidas para reduzir a pressão;
 
-e) A emissão de poeiras e fumos contendo chumbo seja reduzida ao mínimo.
+e) A emissão de poeiras e fumos contendo agentes químicos perigosos seja reduzida ao mínimo.
 
 4 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 12.º — Acidentes, incidentes e situações de emergência
 
@@ -531,6 +650,8 @@ g) A aplicação das disposições do presente diploma.
 
 Sem prejuízo do disposto na secção anterior, a determinação da concentração de chumbo no ar, bem como a ultrapassagem do valor limite de exposição profissional obrigatório, a ultrapassagem do valor limite biológico obrigatório do chumbo e a vigilância da saúde dos trabalhadores regem-se pelo regime previsto nos artigos seguintes.
 
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ###### Artigo 18.º — Determinação da concentração de chumbo no ar
 
 1 - A colheita de amostras para determinação da concentração de chumbo no ar deve ser individual, de modo a permitir a avaliação da exposição do trabalhador, tendo em conta o trabalho efectuado, as condições em que é prestado e a duração da exposição.
@@ -543,6 +664,8 @@ Sem prejuízo do disposto na secção anterior, a determinação da concentraç�
 
 5 - A incerteza associada à concentração de chumbo no ar deve ser calculada para um nível de confiança de 95 %, considerando as componentes relativas à amostragem e à determinação analítica.
 
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ###### Artigo 19.º — Níveis de alerta de concentração de chumbo no ar
 
 1 - Sempre que a determinação da concentração de chumbo no ar revele a existência de qualquer trabalhador sujeito a uma exposição profissional igual ou superior a 0,075 mg/m3, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, o empregador aplica as medidas previstas nos números seguintes para minimizar o risco de ultrapassagem do valor limite de exposição profissional obrigatório.
@@ -554,6 +677,8 @@ a) A exposição profissional do trabalhador ao chumbo for inferior a 0,1 mg/m3 
 b) A taxa individual de plumbémia em qualquer trabalhador exposto não ultrapasse 60 (mi)g/100 ml de sangue.
 
 3 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 20.º — Ultrapassagem do valor limite de exposição profissional obrigatório
 
@@ -577,6 +702,8 @@ b) Se a concentração referida na alínea anterior ultrapassar o valor limite, 
 
 6 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1, 2 e 5.
 
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ###### Artigo 21.º — Ultrapassagem do valor limite biológico obrigatório
 
 1 - Sempre que, através do controlo biológico dos trabalhadores expostos, seja detectada a ultrapassagem do valor limite biológico obrigatório, o empregador deve identificar imediatamente as causas e tomar as medidas adequadas.
@@ -590,6 +717,8 @@ b) Se a concentração referida na alínea anterior ultrapassar o valor limite, 
 5 - Os trabalhadores que se encontrem nas situações previstas nos números anteriores, bem como o empregador, podem solicitar a qualquer momento a revisão das taxas de plumbémia.
 
 6 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1, 2 e 4.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 22.º — Vigilância da saúde dos trabalhadores expostos ao chumbo
 
@@ -637,6 +766,8 @@ b) A taxa individual de plumbémia não seja superior a 40 (mi)g/100 ml.
 
 13 - Constitui contra-ordenação grave a violação do disposto nos n.os 5 a 11.
 
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ### Capítulo III — Disposições finais
 
 ###### Artigo 23.º — Regime da responsabilidade contra-ordenacional
@@ -671,17 +802,49 @@ Referendado em 20 de Janeiro de 2012.
 
 O Primeiro-Ministro, Pedro Passos Coelho.
 
-## Anexo I — Valor limite de exposição profissional obrigatório
+## Anexo I — Valor-limite de exposição profissional obrigatório
 
-(a que se refere o n.º 1 do artigo 4.º)
+[a que se referem o n.º 1 do artigo 4.º e a alínea f) do n.º 2 do artigo 7.º]
 
-(ver documento original)
+| Nome do agente | N.º CE (1) | N.º CAS (2) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 horas (3) | Curta duração (4) |  |  |  |  |  |  |  |  |  |
+| μg/m3 (5) | Ppm (6) | f/ml (7) | μg/m3 (5) | Ppm (6) | f/ml (7) |  |  |  |  |  |
+| CO (10) |  |  | 6 |  |  | 12 |  |  | Pele (8) Sensibilização cutânea e respiratória (9) | O valor-limite de 10 μg NCO/m3 em relação a um período de referência de oito horas e o valor-limite de exposição de curta duração de 20μgNCO/m3 são aplicáveis até 31 de dezembro de 2028. |
+
+(1) N.º CE, ou seja, EINECS, ELINCS ou NLP (ex-polímero): número oficial da substância na União Europeia, tal como definido no anexo vi, parte 1, ponto 1.1.1.2, do
+
+Regulamento (CE) n.º 1272/2008
+
+.
+
+(2) N.º CAS: número de registo no «Chemical Abstracts Service».
+
+(3) Medido ou calculado como média ponderada no tempo (MPT) para um período de referência de oito horas.
+
+(4) Limite de exposição de curta duração (VLE - CD): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.
+
+(5) μg/m3 = microgramas por metro cúbico de ar a 20 °C e a 101,3 kPa (pressão de 760 mm de mercúrio).
+
+(6) ppm = partes por milhão em volume no ar (ml/m3).
+
+(7) f/ml = fibras por mililitro.
+
+(8) Possibilidade de contribuição considerável para a carga corporal total pela via de exposição cutânea.
+
+(9) A substância pode causar sensibilização da pele e das vias respiratórias.
+
+(10) NCO refere-se aos grupos funcionais isocianato dos compostos de diisocianato.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ## Anexo II — Valor limite biológico obrigatório
 
 (a que se refere o n.º 2 do artigo 4.º)
 
 O valor limite biológico obrigatório do Chumbo e respectivos compostos iónicos é de: 70 (mi)g Pb/100 ml de sangue.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ## Anexo III — Valores-limite de exposição profissional com caráter indicativo
 

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56919644:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2014-1195290375",
+ "dre_path": "/dr/detalhe/declaracao/162-2014-56919644",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2014-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195288575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195288575": {
+   "fragment_id": "1195290475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Dr.ª Daniela dos Santos Costa Braga de Oliveira, Juiz de Paz do Julgado de Paz de Agrupamento de concelhos de Tarouca/Armamar/Castro Daire/Moimenta da Beira/Resende - renovada a sua nomeação como Juiz de Paz, agora por um período de cinco anos, nos termos do n.º 3 do artigo 25.º da Lei n.º 78/2001, na redação da Lei n.º 54/2013, de 31.07, por Deliberação do Conselho dos Julgados de Paz de 9 de setembro de 2014.\n\nSem necessidade de nova posse, visto que continua colocada no Julgado de Paz de Agrupamento de Concelhos de Tarouca/Armamar/Castro Daire/Moimenta da Beira/Resende."
+  }
+ }
+}

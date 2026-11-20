@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2009-08-09'
+  consolidation_date: '2015-01-31'
 version_history:
   file: decreto-lei-183-2008.versoes.json
-  count: 2
-  source_lastmod: '2026-10-21'
+  count: 3
+  source_lastmod: '2026-10-23'
   versions:
   - date: '2009-01-13'
     amending: pt:dre:397324:por
@@ -61,6 +61,27 @@ version_history:
     amending_title: Decreto-Lei n.º 176/2009
     changes:
     - Altera Artigo 12.º
+  - date: '2015-01-31'
+    amending: pt:dre:66325236:por
+    amending_title: Decreto-Lei n.º 12/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/183/2008/09/04/p/dre/pt/html
@@ -75,19 +96,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2008/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-973018204
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-973018204
-  retrieved_at: '2026-10-22T14:02:49Z'
+  retrieved_at: '2026-11-20T13:48:57Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-10-21T00:00:00Z'
+  source_modified_at: '2026-10-23T00:00:00Z'
 integrity:
-  source_sha256: 29eb20ccd6028e4be2c52d575d92f9c4c791650170954bf6ac0f5d0e2e77dd06
+  source_sha256: df6b3fbafa801acf29b694633f3f1467454e7375358f8f31475e59080b1da2dd
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:02:49Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-183-2008.versoes.json.
+  generated_at: '2026-11-20T13:48:57Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-183-2008.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,6 +146,13 @@ relationships:
   label: Altera Artigo 12.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009
   date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:66325236:por
+  label: Altera Artigo 1.º; Altera Artigo 17.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º;
+    Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 14.º;
+    Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga Artigo 18.º; Revoga Artigo 19.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 - type: cites
   target: pt:dre:247675:por
   label: null
@@ -170,7 +198,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:02:49Z'
+  checked_at: '2026-11-20T13:48:57Z'
   warnings: []
   errors: []
 ---
@@ -207,9 +235,11 @@ b) Unidade Local de Saúde do Baixo Alentejo, E. P. E., por integração do Cent
 
 c) Unidade Local de Saúde da Guarda, E. P. E., por integração dos Hospitais de Sousa Martins, Guarda, e de Nossa Senhora da Assunção, Seia, e dos centros de saúde do distrito da Guarda, com excepção dos centros de saúde de Vila Nova de Foz Côa e de Aguiar da Beira.
 
-2 - Os estatutos das ULS referidas nos números anteriores constam do anexo ao presente decreto-lei, do qual faz parte integrante.
+2 - (Revogado.)
 
 3 - Com dispensa de quaisquer formalidades legais, consideram-se extintos na data de entrada em vigor do presente decreto-lei os hospitais referidos no n.º 1.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 ###### Artigo 2.º — Sucessão
 
@@ -229,6 +259,8 @@ O presente decreto-lei e o seu anexo constituem título bastante para todos os e
 
 2 - As ULS regem-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus estatutos, bem como no respectivo regulamento interno e nas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas aqui previstas.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 5.º — Superintendência
 
 1 - Compete ao Ministro da Saúde:
@@ -245,9 +277,13 @@ e) Exigir todas as informações julgadas necessárias ao acompanhamento da acti
 
 2 - O Ministro da Saúde pode delegar os poderes referidos no número anterior no conselho de administração da administração regional de saúde territorialmente competente.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 6.º — Capacidade
 
 A capacidade jurídica das ULS abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições, sendo da sua exclusiva competência a cobrança das receitas e taxas provenientes da respectiva actividade.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 ###### Artigo 7.º — Organização
 
@@ -256,6 +292,8 @@ A capacidade jurídica das ULS abrange todos os direitos e obrigações necessá
 2 - Os regulamentos internos referidos no número anterior devem identificar os centros de saúde das ULS e estabelecer as normas que permitam a efectiva articulação entre os cuidados de saúde primários, diferenciados e continuados, no âmbito de uma prestação integrada de serviços, com respeito pelo disposto no Decreto-Lei n.º 28/2008, de 22 de Fevereiro.
 
 3 - As estruturas orgânicas das ULS devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas prioritariamente no doente, de acordo com as boas práticas de gestão clínica.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 ### Capítulo III — Regime financeiro
 
@@ -281,6 +319,8 @@ h) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecuçã
 
 i) Autorizar os demais actos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 9.º — Controlo financeiro
 
 Sem prejuízo do disposto nos artigos 12.º e 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, deve cada ULS submeter aos Ministros das Finanças e da Saúde:
@@ -291,6 +331,8 @@ b) Os documentos de prestação de contas, até ao final do mês de Março de ca
 
 c) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos Ministros das Finanças e da Saúde, com a periodicidade que será estabelecida.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 10.º — Financiamento
 
 1 - As ULS são financiadas nos termos da base xxxiii da Lei de Bases da Saúde, com as alterações introduzidas pela Lei n.º 27/2002, de 8 de Novembro.
@@ -299,11 +341,15 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 
 3 - O endividamento da ULS não pode exceder em qualquer momento o limite de 30 % do respectivo capital estatutário.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 11.º — Aquisição de bens e serviços
 
 1 - A aquisição de bens e serviços e a contratação das empreitadas de obras públicas seguem o regime previsto no Decreto-Lei n.º 18/2008, de 29 de Janeiro, para os hospitais com a natureza de entidades públicas empresariais.
 
 2 - O regulamento interno da ULS deve garantir o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 12/2009 - Diário da República n.º 7/2009, Série I de 2009-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2009-397324), em vigor a partir de 2009-01-13, com efeitos a partir de 2008-10-01.
 
@@ -318,6 +364,8 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 3 - Sem prejuízo do disposto no n.º 5 do artigo 13.º, a ULS não pode celebrar contratos de trabalho para além da dotação referida no número anterior.
 
 4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 > Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09.
 
@@ -339,6 +387,8 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 
 A opção definitiva pelo regime do contrato de trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho a celebrar com a ULS, passa a produzir efeitos.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 15.º — Opção temporária
 
 1 - Todos os funcionários e agentes referidos nos n.os 1 e 2 do artigo 12.º podem optar pela celebração de contrato de trabalho quando para o efeito lhes seja concedida licença sem vencimento prevista nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, sendo-lhes asseguradas:
@@ -357,19 +407,25 @@ b) A colocação em situação de mobilidade especial, nos termos legalmente est
 
 4 - Os agentes retomam o seu contrato administrativo de provimento até ao seu termo.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 16.º — Mobilidade
 
 1 - Os funcionários e agentes dos serviços e organismos do Ministério da Saúde podem ser contratados pela ULS, nos termos dos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, aplicando-se o disposto no artigo anterior e competindo ao Ministro da Saúde o reconhecimento do respectivo interesse público, ouvidos os dirigentes máximos dos serviços ou organismos de origem e dos hospitais entidades públicas empresariais.
 
 2 - Aplica-se às ULS o regime de comissão de serviço previsto no artigo 17.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 17.º — Regime de protecção social
 
-1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 12.º, no n.º 1 do artigo 14.º e no n.º 1 do artigo anterior, o regime de protecção social da ULS é o regime geral da segurança social.
+1 - (Revogado.)
 
 2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, a ULS contribui para o financiamento da Caixa Geral de Aposentações, I. P., com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.
 
 3 - A ULS observa, relativamente ao pessoal referido no número anterior, o regime previsto nos Decretos-Leis n.os 118/83, de 25 de Fevereiro, e 503/99, de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 ### Capítulo V — Disposições finais e transitórias
 
@@ -381,13 +437,19 @@ b) A colocação em situação de mobilidade especial, nos termos legalmente est
 
 3 - A designação dos novos titulares de cargos de direcção e chefia faz-se nos termos previstos no Código do Trabalho.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 19.º — Regulamento interno
 
 Os regulamentos internos das ULS devem ser elaborados e submetidos a homologação do Ministro da Saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
+
 ###### Artigo 20.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Ventura Ramos.
 

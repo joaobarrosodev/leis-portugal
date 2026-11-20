@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621141:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1002138997",
+ "dre_path": "/dr/detalhe/portaria/1166-2001-621141",
+ "source_lastmod": "2026-11-12",
+ "versions": [
+  {
+   "date": "2003-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:654707:por",
+     "title": "Portaria n.º 878/2003",
+     "published": "2003-08-20",
+     "dre_path": "/dr/detalhe/portaria/878-2003-654707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "1002498675",
+    "1002498875",
+    "1002499075",
+    "1002499275",
+    "1002499475",
+    "1002499675",
+    "1002499875",
+    "1002500075",
+    "1195170475",
+    "1002500475",
+    "1002500675",
+    "1002500875",
+    "1002501075",
+    "1002501275",
+    "1002501475",
+    "1002501675",
+    "1195170675",
+    "1195170875",
+    "1195171075",
+    "1195171275",
+    "1195183675",
+    "1195184275",
+    "1002503075",
+    "1002503275",
+    "1002503475",
+    "1002503675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1002498675": {
+   "fragment_id": "1002498575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos cinco anos de vigência da Portaria n.º 496/96, de 18 de Setembro, agora revogada, foi apoiada a produção de 66 obras na área do documentário de criação, representando um apoio por parte do Ministério da Cultura/ICAM de mais de 500000 contos.\n\nDurante este período, emergiriam talentos num género cinematográfico sem grande tradição em Portugal, fruto de uma aposta continuada e crescente por parte do Estado nos documentários de criação, podendo hoje olhar-se o futuro com fundado optimismo.\n\nCom este novo Regulamento de Apoio Financeiro Selectivo à Produção Cinematográfica de Documentários de Criação pretende-se prosseguir na mesma linha de orientação essencial traçada em 1996, aproveitando-se, porém, para introduzir algumas pequenas alterações de natureza procedimental ou mesmo substantiva, que a prática e uma crescida preocupação de maior rigor na fundamentação das decisões recomendam.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 350/93, de 7 de Outubro:\n\nManda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º É aprovado o Regulamento de Apoio Financeiro Selectivo à Produção Cinematográfica de Documentários de Criação, anexo à presente portaria e que dela faz parte integrante.\n\n2.º São revogados os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 13.º, 14.º, 17.º, 19.º, 20.º e 21.º, na parte em que se aplicam à produção de documentários, e 12.º e 16.º, todos da Portaria n.º 496/96, de 18 de Setembro, sem prejuízo da sua aplicação aos processos de apoio financeiro já aprovados ao seu abrigo.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1002498875": {
+   "fragment_id": "1002498775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Cultura, Augusto Ernesto Santos Silva, em 12 de Setembro de 2001."
+  },
+  "1002499075": {
+   "fragment_id": "1002498975",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APOIO FINANCEIRO SELECTIVO À PRODUÇÃO CINEMATOGRÁFICA DE DOCUMENTÁRIOS DE CRIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APOIO FINANCEIRO SELECTIVO À PRODUÇÃO CINEMATOGRÁFICA DE DOCUMENTÁRIOS DE CRIAÇÃO"
+  },
+  "1002499275": {
+   "fragment_id": "1002499175",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo à produção cinematográfica de documentários de criação a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, com o objectivo de incentivar a produção de documentários de criação.\n\n2 - Para efeitos do presente Regulamento, consideram-se documentários de criação aqueles que contenham uma análise original de qualquer aspecto da realidade e não possuam carácter predominantemente noticioso, didáctico ou publicitário nem se destinem a servir de simples complemento a um trabalho em que a imagem não constitua elemento essencial, seja qual for o seu suporte e duração.\n\n3 - O apoio à produção pode ser concedido a projectos em curso de execução, na parte relacionada com os trabalhos necessários à respectiva finalização."
+  },
+  "1002499475": {
+   "fragment_id": "1002499375",
+   "type": 11,
+   "heading": "Artigo 2.º — Articulação com outros sistemas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Articulação com outros sistemas de apoio\n\n1 - O sistema específico de apoio regulamentado no presente diploma não exclui a possibilidade de acesso das obras cinematográficas nele contempladas aos sistemas gerais de apoio financeiro previstos na legislação aplicável.\n\n2 - A mesma obra não pode, todavia, beneficiar cumulativamente de outros sistemas diferentes de apoio financeiro à produção."
+  },
+  "1002499675": {
+   "fragment_id": "1002499575",
+   "type": 11,
+   "heading": "Artigo 3.º — Requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requerentes\n\nPodem candidatar-se ao apoio financeiro a conceder no âmbito do presente Regulamento os produtores e os realizadores que se encontrem devidamente inscritos no ICAM."
+  },
+  "1002499875": {
+   "fragment_id": "1002499775",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio financeiro a conceder no âmbito do presente Regulamento os produtores cinematográficos que se encontrem devidamente inscritos no ICAM."
+  },
+  "1002500075": {
+   "fragment_id": "1002499975",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidade de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidade de apoio financeiro\n\nO apoio financeiro selectivo a conceder pelo ICAM reveste a forma de subsídio a fundo perdido."
+  },
+  "1195170475": {
+   "fragment_id": "1002500175",
+   "type": 11,
+   "heading": "Artigo 6.º — Limites do apoio financeiro",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 6.º — Limites do apoio financeiro\n\n1 - O apoio financeiro a conceder pelo presente Regulamento é fixado, anualmente, por despacho do Ministro da Cultura, sendo definida, para cada concurso, uma quantia global.\n\n2 - São igualmente fixados, em cada ano, por despacho do Ministro da Cultura, os limites máximos de apoio financeiro a conceder a cada produção, tanto em valor absoluto como em percentagem do respectivo custo total.\n\n3 - Será concedido apoio integral à produção de documentários cujo custo orçamentado não ultrapasse o primeiro dos limites fixados por despacho do Ministro da Cultura, referido no número anterior, salvo o disposto no número seguinte.\n\n4 - Para a produção de documentários cujo custo orçamentado exceda o limite referido no número anterior e que sejam co-financiados por outras entidades, o Ministro da Cultura definirá o limite máximo do apoio financeiro a conceder a cada produção, tanto em valor absoluto como em percentagem do respectivo custo total.\n\n5 - Para efeitos do cálculo do financiamento exterior ao ICAM, a que se refere o número anterior, a percentagem de autofinanciamento do produtor não pode exceder 10% do custo total orçamentado do projecto, sem prejuízo do autofinanciamento proveniente da utilização de equipamentos próprios.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1002500475": {
+   "fragment_id": "1002500375",
+   "type": 11,
+   "heading": "Artigo 7.º — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Concurso público\n\n1 - São abertos concursos públicos para a selecção dos projectos de documentários de criação referidos no artigo 1.º\n\n2 - Compete ao Ministro da Cultura determinar o número de concursos a realizar anualmente."
+  },
+  "1002500675": {
+   "fragment_id": "1002500575",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicitação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicitação do concurso\n\n1 - O ICAM deve promover o anúncio da abertura dos concursos referidos no artigo anterior mediante a sua publicação, simultânea, em dois jornais diários de grande expansão nacional e aviso afixado na sua sede.\n\n2 - O aviso deve mencionar obrigatoriamente:\n\na) O montante global dos apoios a conceder;\n\nb) Os limites a que se referem os n.os 1 e 2 do artigo 6.º;\n\nc) A composição do júri;\n\nd) O prazo e o local de apresentação das candidaturas e o número de exemplares a apresentar."
+  },
+  "1002500875": {
+   "fragment_id": "1002500775",
+   "type": 11,
+   "heading": "Artigo 9.º — Prazo de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prazo de apresentação de candidaturas\n\nO prazo de apresentação das candidaturas não pode ser inferior a 20 dias úteis a contar da data da publicação do aviso do concurso respectivo, nos termos previstos no artigo anterior."
+  },
+  "1002501075": {
+   "fragment_id": "1002500975",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução das candidaturas\n\n1 - As candidaturas ao apoio financeiro selectivo previsto no presente Regulamento devem ser apresentadas no ICAM mediante requerimento.\n\n2 - O requerimento a que se refere o número anterior deve ser preenchido em formulário próprio fornecido pelo ICAM e instruído com os seguintes documentos e informações:\n\na) Certidão do registo comercial da entidade produtora;\n\nb) Currículo do realizador;\n\nc) Currículo do produtor e co-produtores;\n\nd) Guião cinematográfico ou descrição detalhada dos objectivos do projecto do ponto de vista formal e dos conteúdos e demais elementos que o requerente considere relevantes para a caracterização do projecto;\n\ne) Sinopse;\n\nf) Datas previstas de rodagem, montagem e sonorização e data de entrega da cópia síncrona ou, nos casos de projectos em vídeo, de cópia com qualidade broadcast;\n\ng) Projecto de lista nominativa da equipa técnica;\n\nh) Previsão dos estabelecimentos técnicos a utilizar;\n\ni) Contratos celebrados com o realizador e o autor em conformidade com o disposto no Código do Direito de Autor e dos Direitos Conexos;\n\nj) Registo da obra na Inspecção-Geral das Actividades Culturais;\n\nl) Orçamento do projecto, de acordo com o modelo estabelecido pelo ICAM;\n\nm) Montagem financeira do projecto, sendo obrigatória, em caso de financiamentos exteriores, a previsão quantificada de cada um deles e a sua proveniência;\n\nn) Contratos de distribuição e difusão da obra cinematográfica, já celebrados ou negociados, quando os houver;\n\no) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social.\n\n3 - No caso de o pedido de apoio financeiro ser apresentado por um realizador, não é exigida a apresentação dos documentos referidos nas alíneas a), c), f), h) e o) do número anterior e ainda na alínea i) do mesmo, na parte em que respeita aos contratos celebrados com o realizador."
+  },
+  "1002501275": {
+   "fragment_id": "1002501175",
+   "type": 11,
+   "heading": "Artigo 11.º — Regularização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regularização das candidaturas\n\n1 - No prazo de 15 dias úteis a contar do termo do prazo para a apresentação das candidaturas, o ICAM verifica se os pedidos se encontram instruídos com as informações e os documentos referidos no artigo anterior e notifica os candidatos para, no prazo de 5 dias úteis, suprirem eventuais omissões e deficiências ou apresentarem as informações consideradas necessárias.\n\n2 - Os processos de candidatura que não forem completados ou corrigidos nos termos previstos no número anterior são rejeitados pelo ICAM.\n\n3 - Da decisão de rejeição referida no número anterior, os candidatos podem, no prazo de cinco dias úteis, reclamar para a direcção do ICAM, que deve decidir em idêntico prazo."
+  },
+  "1002501475": {
+   "fragment_id": "1002501375",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisitos de admissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos de admissão das candidaturas\n\n1 - Não são admitidas a concurso as candidaturas relativas a requerentes que não tenham cumprido obrigações anteriores para com o ICAM ou para com os institutos a quem este sucedeu nos respectivos direitos.\n\n2 - As candidaturas a que se refere o número anterior podem, porém, ser admitidas se as obrigações forem cumpridas num prazo de 10 dias úteis a contar da notificação dos motivos da rejeição.\n\n3 - Da decisão de não admissão a concurso, nos termos do n.º 1, os candidatos podem, no prazo de cinco dias úteis, reclamar para a direcção do ICAM, que deve decidir em idêntico prazo.\n\n4 - Os processos de candidatura que não forem regularizados nos termos previstos no números anteriores são rejeitados pelo ICAM.\n\n5 - A rejeição das candidaturas, nos termos do número anterior, bem como as decisões de não admissão a concurso e as relativas às reclamações são notificadas aos interessados, em conformidade com o disposto no Código do Procedimento Administrativo.\n\n6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o ICAM deve tornar pública a lista de candidaturas admitidas a concurso mediante aviso afixado na sua sede."
+  },
+  "1002501675": {
+   "fragment_id": "1002501575",
+   "type": 11,
+   "heading": "Artigo 13.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Júri\n\n1 - Os projectos de documentários apresentados a concurso para apoio no âmbito do presente Regulamento são apreciados e seleccionados por um júri constituído por três ou cinco personalidades de reconhecido mérito.\n\n2 - O presidente e os restantes membros do júri são nomeados, sob proposta do ICAM, por despacho do Ministro da Cultura.\n\n3 - Os membros do júri têm direito, por cada concurso, a uma remuneração de montante a fixar por despacho do Ministro da Cultura, sob proposta do ICAM.\n\n4 - O ICAM assegura o apoio técnico-jurídico necessário aos trabalhos do júri."
+  },
+  "1195170675": {
+   "fragment_id": "1002501775",
+   "type": 11,
+   "heading": "Artigo 14.º — Critérios de selecção e de ordenação de candidaturas",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 14.º — Critérios de selecção e de ordenação de candidaturas\n\n1 - A apreciação das candidaturas é feita pelo júri, no prazo máximo de 30 dias úteis, com base nos seguintes critérios:\n\na) Qualidade artística e documental do projecto, tendo em conta o interesse do tema, a originalidade, a forma e a capacidade de comunicação;\n\nb) Currículo do realizador;\n\nc) Currículo do produtor.\n\n2 - Cada um dos critérios estabelecidos no número anterior é pontuado na escala de 0 a 10, sendo a pontuação mais elevada referente à maior adequação da obra em apreciação ao respectivo critério.\n\n3 - Os critérios referidos no n.º 1 têm um factor de ponderação diferente de acordo com a seguinte fórmula:\n\na) No caso de a candidatura ser apresentada por produtor:\n\nCF = (6 x a + 2,5 x b + 1,5 x c)/10\n\nb) No caso de a candidatura ser apresentada por realizador:\n\nCF = (7 x a + 3 x b)/10\n\n4 - A classificação final de cada projecto resulta da soma das pontuações obtidas em cada critério, após a aplicação do respectivo factor de ponderação.\n\n5 - Havendo duas candidaturas com igual pontuação e verificando-se necessidade de desempate, deve ser ordenado com melhor classificação o projecto que tenha obtido melhor pontuação no critério referido na alínea a) do n.º 1 do presente artigo.\n\n6 - A deliberação final do júri sobre os projectos submetidos à sua apreciação, elaborada com base no sistema de pontuação estabelecido nos números anteriores, deve conter uma lista de classificação dos mesmos por ordem decrescente a partir da obra mais pontuada e a respectiva fundamentação.\n\n7 - O júri, sempre que entender necessário, pode convocar o produtor ou o realizador dos projectos em concurso para a prestação de esclarecimentos.\n\n8 - De cada reunião do júri é lavrada acta.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1195170875": {
+   "fragment_id": "1002501975",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 15.º — Decisão\n\n1 - Compete ao ICAM decidir sobre a atribuição do apoio financeiro previsto no presente Regulamento, mediante proposta apresentada pelo júri e após audiência dos interessados, nos termos constantes no Código do Procedimento Administrativo.\n\n2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar da apresentação da proposta do júri.\n\n3 - Compete ao ICAM tornar pública a decisão de atribuição de apoio financeiro, mediante aviso a afixar na sua sede e notificação a todos os requerentes admitidos a concurso.\n\n4 - Da decisão do ICAM cabe recurso para o Ministro da Cultura, a apresentar no prazo de cinco dias úteis contados a partir da data de recepção da notificação.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1195171075": {
+   "fragment_id": "1002502175",
+   "type": 11,
+   "heading": "Artigo 16.º — Condições de atribuição do apoio financeiro",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 16.º — Condições de atribuição do apoio financeiro\n\n1 - No caso de a decisão a que se refere o artigo anterior recair sobre um projecto apresentado por um realizador cinematográfico, deve este apresentar ao ICAM, no prazo de 30 dias úteis a contar da notificação, a indicação do produtor do respectivo filme, devidamente inscrito no ICAM.\n\n2 - Até ao termo do prazo referido no número anterior, devem ser apresentados os documentos previstos nas alíneas a), c) e o) do n.º 2 do artigo 10.º do presente Regulamento.\n\n3 - Não sendo cumprido o disposto nos números anteriores, fica sem efeito a atribuição do apoio financeiro.\n\n4 - No caso previsto no número anterior, a posição dos restantes candidatos na lista de classificação ordenada, referida no artigo 14.º do presente Regulamento, deverá ser ajustada em conformidade, passando para a posição do candidato preterido o candidato ordenado na posição imediatamente a seguir.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1195171275": {
+   "fragment_id": "1002502375",
+   "type": 11,
+   "heading": "Artigo 17.º — Desistência do apoio financeiro",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 17.º — Desistência do apoio financeiro\n\n1 - Os beneficiários podem desistir do apoio concedido até ao momento da celebração do acordo de produção previsto no artigo seguinte.\n\n2 - Em caso de desistência de um beneficiário, nos termos do número anterior, a posição dos restantes candidatos na lista de classificação ordenada, referida no artigo 14.º do presente Regulamento, deverá ser ajustada em conformidade, passando para a posição do desistente o candidato ordenado na posição imediatamente a seguir.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1195183675": {
+   "fragment_id": "1002502575",
+   "type": 11,
+   "heading": "Artigo 18.º — Acordo de produção",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 18.º — Acordo de produção\n\n1 - No prazo de três meses a contar da notificação a que se refere o n.º 3 do artigo 15.º, os produtores beneficiários devem celebrar com o ICAM um acordo de produção.\n\n2 - Cumprido o disposto nos n.os 1 e 2 do artigo 16.º, deve o produtor apresentar, para efeitos de celebração do acordo de produção, os seguintes documentos e indicações:\n\na) Contratos referidos na alínea i) do artigo 10.º;\n\nb) Orçamento, de acordo com o modelo estabelecido pelo ICAM;\n\nc) Montagem financeira com prova das comparticipações financeiras exteriores ao ICAM, se for caso disso;\n\nd) Plano de trabalho, incluindo as datas de início e fim de rodagem;\n\ne) Composição da equipa técnica e indicação dos estabelecimentos técnicos a utilizar;\n\nf) Um plano de entrega das prestações em que se desdobra o financiamento concedido nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1195184275": {
+   "fragment_id": "1002502775",
+   "type": 11,
+   "heading": "Artigo 19.º — Conteúdo do acordo de produção",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 19.º — Conteúdo do acordo de produção\n\n1 - O acordo de produção deve conter:\n\na) Os termos do apoio financeiro à produção;\n\nb) Datas de início e fim da rodagem;\n\nc) Um plano de entrega das prestações em que se desdobra o financiamento concedido nos termos do presente Regulamento;\n\nd) As contrapartidas a estabelecer, designadamente a utilização pelo ICAM em exibições não comerciais da cópia síncrona ou da cópia vídeo de qualidade broadcast das obras apoiadas e a menção do apoio financeiro do ICAM no genérico do filme, bem como do seu logótipo em todo o material de divulgação e promoção;\n\ne) As regras aplicáveis ao incumprimento do acordo e respectivas sanções;\n\nf) Data de entrega da cópia síncrona ou da cópia vídeo com qualidade broadcast, que não poderá ultrapassar o prazo máximo de 24 meses a contar da data de celebração do presente acordo.\n\n2 - O acordo define, em cada caso, as obrigações mútuas das partes.\n\n3 - Com a celebração do acordo de produção pode ser atribuído um montante máximo correspondente a 5% do montante global do apoio financeiro.\n\n4 - A entrega da segunda prestação relativa ao apoio financeiro atribuído é efectuada no início da rodagem.\n\n5 - O pagamento de cada prestação do apoio financeiro concedido fica condicionado ao cumprimento do plano de trabalho apresentado e à prestação de contas que demonstre a boa aplicação dos montantes já entregues.\n\n6 - A última prestação, no valor mínimo correspondente a 10% do montante global do apoio financeiro atribuído, é efectuada com a entrega de duas cópias síncronas ou duas cópias vídeo com qualidade broadcast, sendo uma para depósito pelo ICAM na Cinemateca Portuguesa - Museu do Cinema.\n\n7 - O beneficiário do apoio financeiro atribuído nos termos do presente Regulamento deve apresentar no ICAM, no prazo máximo de quatro meses contados da data de entrega da cópia síncrona ou da cópia vídeo com qualidade broadcast, as contas finais da respectiva produção, assinadas por um técnico oficial de contas devidamente credenciado.\n\n8 - As obras apoiadas não podem ter exibição pública sem prévia entrega no ICAM das cópias a que se refere o n.º 6 do presente artigo.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 878/2003 - Diário da República n.º 191/2003, Série I-B de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/878-2003-654707), em vigor a partir de 2003-08-21."
+  },
+  "1002503075": {
+   "fragment_id": "1002502975",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução e fiscalização do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução e fiscalização do acordo\n\nO ICAM pode, a todo o tempo, por si ou por entidade credenciada para o efeito, verificar as contas referentes à utilização das verbas atribuídas, fiscalizar o cumprimento do acordo estabelecido, bem como o prosseguimento dos trabalhos, e exigir os respectivos relatórios de execução."
+  },
+  "1002503275": {
+   "fragment_id": "1002503175",
+   "type": 11,
+   "heading": "Artigo 21.º — Alterações ao projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alterações ao projecto\n\n1 - Qualquer alteração relevante dos elementos apresentados a concurso, nomeadamente a substituição do realizador ou do produtor, determina a imediata suspensão do direito ao apoio financeiro.\n\n2 - Nas situações previstas no número anterior, a decisão relativa ao cancelamento ou à manutenção do apoio financeiro depende de reapreciação pelo ICAM."
+  },
+  "1002503475": {
+   "fragment_id": "1002503375",
+   "type": 11,
+   "heading": "Artigo 22.º — Falta de cumprimento de obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Falta de cumprimento de obrigações\n\n1 - A falta injustificada de cumprimento das normas constantes do presente Regulamento e das obrigações contratuais assumidas pelo beneficiário para com o ICAM impede o mesmo de obter qualquer outro apoio financeiro deste Instituto, ou de outro que o venha a suceder nos seu direitos, enquanto o incumprimento subsistir.\n\n2 - A não entrega ao ICAM da cópia síncrona ou da cópia vídeo com qualidade broadcast da obra beneficiada com o apoio financeiro previsto no presente Regulamento, no prazo estabelecido na alínea f) do n.º 1 do artigo 19.º, obriga o beneficiário à devolução do montante integral do apoio concedido, acrescido de juros à taxa legal, contados desde a data da percepção de cada uma das prestações.\n\n3 - Pode a direcção do ICAM, quando se verifiquem circunstâncias imprevisíveis ou excepcionais, devidamente fundamentadas, autorizar a prorrogação do prazo referido no número anterior."
+  },
+  "1002503675": {
+   "fragment_id": "1002503575",
+   "type": 11,
+   "heading": "Artigo 23.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Falsas declarações\n\n1 - O beneficiário do apoio financeiro previsto no presente Regulamento que na instrução do processo tiver prestado falsas declarações ou não prestar os esclarecimentos a que está obrigado é, sem prejuízo de eventual procedimento criminal, imediatamente excluído do apoio financeiro em causa.\n\n2 - Apurando-se a falsidade das declarações apenas após a entrega de alguma prestação, fica o seu beneficiário obrigado a devolver o montante total já recebido, acrescido de juros à taxa legal, contados desde a data da percepção de cada uma das prestações, bem como ao pagamento, a título de indemnização, de 50% daquele montante, sem prejuízo de eventual procedimento criminal."
+  }
+ },
+ "unavailable_dates": [
+  "2001-10-04"
+ ]
+}

@@ -40,18 +40,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2005-02-19'
 version_history:
   file: decreto-lei-272-2000.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-18'
   versions:
-  - date: '2000-11-08'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2005-02-19'
     amending: pt:dre:596317:por
     amending_title: Decreto-Lei n.º 31/2005
@@ -69,21 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2000-622097
   metadata_url: https://data.dre.pt/eli/dec-lei/272/2000/11/08/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2000-622097
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:20:26Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006610141
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006610141
+  retrieved_at: '2026-11-20T13:53:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: 1e2d72441cbbb0982dcc7249af7f094e94087e787ddbbb80046434100afde44f
+  source_sha256: dd9721b67f07a8156660ce63e70b9a18e7ba4d464a7e0a2f003e3aee1cc12183
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:20:26Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 31/2005. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-272-2000.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:44Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-272-2000.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,29 +123,39 @@ relationships:
   target: celex:31998L0099
   label: null
   source: http://data.europa.eu/eli/dir/1998/99/oj
+- type: transposes
+  target: celex:31997L0012
+  label: null
+  source: null
+- type: transposes
+  target: celex:31998L0046
+  label: null
+  source: null
+- type: transposes
+  target: celex:31998L0099
+  label: null
+  source: null
 article_structure:
   article_count: 18
-  section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:20:26Z'
+  checked_at: '2026-11-20T13:53:44Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 272/2000
 
-de 8 de Novembro
-
 A tuberculose bovina, apesar de apresentar já níveis de infeccionamento bastante baixos, constitui ainda uma preocupação das autoridades sanitárias nacionais.
 
 Para além das preocupações inerentes ao facto de se tratar de uma zoonose com riscos para a saúde pública constitui um entrave à livre circulação de animais no território da União Europeia.
 
-O Decreto-Lei n.º 157/98, de 9 de Junho, alterado pelo Decreto-Lei n.º 378/99, de 21 de Setembro, transpôs para o direito nacional a Directiva n.º [97/12/CE](http://data.europa.eu/eli/dir/1997/12/oj?locale=pt), do Conselho, de 17 de Março, a Directiva n.º [98/46/CE](http://data.europa.eu/eli/dir/1998/46/oj?locale=pt), do Conselho, de 24 de Junho, e a Directiva n.º [98/99/CE](http://data.europa.eu/eli/dir/1998/99/oj?locale=pt), do Conselho, de 14 de Dezembro, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovinas e suínas.
+O Decreto-Lei n.º 157/98, de 9 de Junho, alterado pelo Decreto-Lei n.º 378/99, de 21 de Setembro, transpôs para o direito nacional a Directiva n.º 97/12/CE, do Conselho, de 17 de Março, a Directiva n.º 98/46/CE, do Conselho, de 24 de Junho, e a Directiva n.º 98/99/CE, do Conselho, de 14 de Dezembro, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovinas e suínas.
 
 Para uma boa aplicação daquele diploma, torna-se necessário adaptar as medidas de controlo e erradicação da tuberculose no território nacional, bem como a classificação sanitária dos efectivos e das áreas.
 
@@ -203,7 +209,7 @@ r) Autoridade sanitária veterinária nacional - a DGV, podendo esta delegar as 
 
 s) Autoridade sanitária veterinária regional - as DRA.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 31/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2005-596317), publicado em 2005-02-14.
+> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 31/2005 - Diário da República n.º 31/2005, Série I-A de 2005-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2005-596317), em vigor a partir de 2005-02-19.
 
 ###### Artigo 3.º — Competências
 
@@ -409,7 +415,9 @@ Referendado em 26 de Outubro de 2000.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — A) Efectivo bovino oficialmente indemne de tuberculose
+## Anexo A
+
+A) Efectivo bovino oficialmente indemne de tuberculose
 
 1 - Um efectivo bovino é oficialmente indemne de tuberculose (T3) se:
 

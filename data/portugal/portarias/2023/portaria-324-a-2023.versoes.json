@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223473624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-941373227",
+ "dre_path": "/dr/detalhe/portaria/324-a-2023-223473624",
+ "source_lastmod": "2026-11-02",
+ "versions": [
+  {
+   "date": "2026-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1190056897:por",
+     "title": "Decreto-Lei n.º 207/2026",
+     "published": "2026-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2026-1190056897"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "941538575",
+    "941538775",
+    "941538975",
+    "941539175",
+    "941539375",
+    "941539575",
+    "941539775",
+    "941539975",
+    "941540175",
+    "941540375",
+    "941540575",
+    "1190369875",
+    "941540975",
+    "941541175",
+    "941541375",
+    "941541575",
+    "941541775",
+    "941541975",
+    "941542175",
+    "941542375",
+    "941542575",
+    "941542775",
+    "941542975",
+    "941543175",
+    "941543375",
+    "941543575",
+    "941543975"
+   ]
+  }
+ ],
+ "fragments": {
+  "941538575": {
+   "fragment_id": "941538475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sumário:\n\nO Decreto-Lei n.º 41/2023, de 2 de junho, criou a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), e definiu a missão e as atribuições.\n\nA AIMA, I. P., tem por missão a concretização das políticas públicas, nacionais e europeias, em matéria de migração, asilo e igualdade. Trata-se de um instituto público integrado na administração indireta do Estado, com jurisdição sobre todo o território nacional, dotado de personalidade jurídica, autonomia administrativa e financeira e de património próprio, sendo equiparado a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços e às respetivas atividades de suporte.\n\nImporta agora, no desenvolvimento daquele diploma, determinar a sua organização interna, atentas as especiais condições relativas à sua natureza.\n\nProcurando dotar a AIMA, I. P., de uma estrutura ágil, integrada e concentrada nos objetivos estratégicos definidos e na prossecução da sua missão, o modelo de governação ora determinado concretiza uma mudança de paradigma na forma como a Administração Pública se relaciona com os cidadãos estrangeiros, seja na sua entrada e permanência em território nacional, seja no seu acolhimento e na sua integração, e, bem assim, ao nível do combate ao racismo e da integração de grupos étnicos, melhorando a qualidade dos serviços públicos, com ganhos de eficiência, e dos recursos a eles afetos, maximizando sinergias e potenciando os seus resultados.\n\nAssim, ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, e do Despacho n.º 8949/2022, de 22 de julho, na sua redação atual, manda o Governo, pelo Ministro das Finanças, pela Ministra Adjunta e dos Assuntos Parlamentares e pela Secretária de Estado da Administração Pública, o seguinte:"
+  },
+  "941538775": {
+   "fragment_id": "941538675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos da Agência para a Integração, Migrações e Asilo, I. P., abreviadamente designada por AIMA, I. P."
+  },
+  "941538975": {
+   "fragment_id": "941538875",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\nA transformação das direções e delegações regionais do Serviço de Estrangeiros e Fronteiras (SEF) e dos Centros Nacionais de Apoio à Integração de Migrantes (CNAIM), que estejam instalados em espaços físicos compatíveis, em Lojas AIMA, bem como a transição para a AIMA, I. P., dos processos e procedimentos administrativos pendentes no SEF e no Alto Comissariado para as Migrações, I. P. (ACM), ocorre, de forma progressiva, no decurso dos processos de fusão do SEF e do ACM."
+  },
+  "941539175": {
+   "fragment_id": "941539075",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogadas as Portarias n.os 203/2016, de 25 de julho, e 227/2015, de 3 de agosto."
+  },
+  "941539375": {
+   "fragment_id": "941539275",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia 29 de outubro de 2023."
+  },
+  "941539575": {
+   "fragment_id": "941539475",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "941539775": {
+   "fragment_id": "941539675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 27 de outubro de 2023.\n\nO Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra Adjunta e dos Assuntos Parlamentares, Ana Catarina Veiga dos Santos Mendonça Mendes. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira."
+  },
+  "941539975": {
+   "fragment_id": "941539875",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P."
+  },
+  "941540175": {
+   "fragment_id": "941540075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "941540375": {
+   "fragment_id": "941540275",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sede e serviços desconcentrados\n\n1 - A AIMA, I. P., tem sede no município de Lisboa.\n\n2 - Para a prossecução das suas atribuições, a AIMA, I. P., dispõe ainda de serviços desconcentrados, nos termos identificados nos n.os 4 e 5 do artigo 2.º"
+  },
+  "941540575": {
+   "fragment_id": "941540475",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização interna\n\n1 - A Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), organiza-se internamente de acordo com um modelo estrutural misto que articula uma estrutura hierarquizada, constituída por unidades orgânicas nucleares e unidades orgânicas flexíveis de 2.º e 3.º graus, e uma estrutura matricial, constituída por equipas multidisciplinares.\n\n2 - São unidades orgânicas nucleares, os seguintes departamentos:\n\na) O Departamento de Administração Geral (DAG);\n\nb) O Departamento Financeiro e de Recursos Humanos (DFRH);\n\nc) O Departamento Jurídico (DJUR);\n\nd) O Departamento de Relações Internacionais e de Cooperação (DRIC);\n\ne) O Departamento de Sistemas de Informação (DSI);\n\nf) O Departamento de Acesso Omnicanal (OMNI);\n\ng) O Departamento de Procedimentos Administrativos e Qualidade (DPAQ);\n\nh) O Departamento de Integração de Migrantes (DIM);\n\ni) O Centro Nacional para o Asilo e Refugiados AIMA (CNAR AIMA);\n\nj) O Departamento para a Igualdade e o Combate ao Racismo, à Xenofobia e à Discriminação (RESPECT).\n\n3 - Por deliberação do conselho diretivo, a publicar no Diário da República, podem ser criadas, modificadas ou extintas, unidades orgânicas flexíveis, integradas ou não nos departamentos, nos seguintes termos:\n\na) Unidades orgânicas de segundo grau, designadas por serviços, que não podem exceder, em cada momento, o limite total de 26;\n\nb) Unidades orgânicas de terceiro grau, designadas unidades, que não podem exceder, em cada momento, o limite total de 40.\n\n4 - A AIMA, I. P. dispõe, ainda, das seguintes unidades orgânicas territorialmente desconcentradas, no âmbito dos serviços prestados presencialmente aos seus utentes, quer diretamente, quer mediante protocolos celebrados com entidades parceiras, que assumem a natureza de unidade orgânica flexível, obedecendo aos limites estabelecidos na alínea b) do número anterior:\n\na) Lojas AIMA;\n\nb) AIMA Spot.\n\n5 - As unidades orgânicas a que se refere a alínea a) do número anterior, constam do anexo aos presentes estatutos, podendo ser extintas, criadas ou modificadas por deliberação do Conselho Diretivo da AIMA, I. P.\n\n6 - A equiparação da AIMA, I. P., a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços e às respetivas atividades de suporte, traduz-se na possibilidade de, por deliberação do conselho diretivo, poderem ser criadas equipas multidisciplinares nas áreas dos sistemas de informação e infraestruturas tecnológicas, sendo os respetivos objetivos, plano de trabalho, modo de funcionamento, coordenador de equipa, bem como os recursos humanos e financeiros afetos à sua atividade, definidos naquela deliberação.\n\n7 - As equipas multidisciplinares a que se refere o número anterior não podem, em cada momento, ultrapassar o limite máximo de cinco."
+  },
+  "1190369875": {
+   "fragment_id": "941540675",
+   "type": 11,
+   "heading": "Artigo 3.º — Cargos dirigentes intermédios",
+   "in_force_from": "2026-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+   ],
+   "markdown": "###### Artigo 3.º — Cargos dirigentes intermédios\n\n1 - São cargos de direção intermédia da AIMA, I. P.:\n\na) Os diretores de departamento, cargos de direção intermédia de 1.º grau;\n\nb) Os diretores de serviço, cargos de direção intermédia de 2.º grau;\n\nc) Os coordenadores de unidade, cargos de direção intermédia de 3.º grau.\n\n2 - Aos coordenadores de unidade compete a gestão geral da respetiva unidade orgânica, das suas atividades e dos recursos que lhe estão afetos, de acordo com os objetivos superiormente definidos, bem como exercer as competências que lhe sejam delegadas ou subdelegadas.\n\n3 - Os coordenadores de unidade são remunerados pelo valor correspondente a 65 % da remuneração base do cargo de direção superior de 1.º grau, previsto no Estatuto do Pessoal Dirigente da Administração Pública.\n\n4 - O recrutamento para coordenador de unidade é efetuado de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado que reúnam a competência técnica, a aptidão, a experiência profissional e a formação adequadas ao exercício das respetivas funções e possuam conhecimentos e experiência nos domínios das atribuições do núcleo para que são recrutados.\n\n5 - Aos coordenadores das equipas multidisciplinar é atribuído um estatuto remuneratório equiparado a diretor, diretor de serviço ou coordenador, em função da natureza e complexidade das funções a desempenhar.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03."
+  },
+  "941540975": {
+   "fragment_id": "941540875",
+   "type": 1,
+   "heading": "Capítulo II — Unidades Orgânicas Nucleares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Unidades Orgânicas Nucleares"
+  },
+  "941541175": {
+   "fragment_id": "941541075",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Administração Geral\n\nAo Departamento de Administração Geral compete:\n\na) Gerir os procedimentos de contratação pública, no âmbito das atribuições da AIMA, I. P.;\n\nb) Gerir os contratos de fornecimento de bens e serviços;\n\nc) Gerir os bens imóveis afetos ao cumprimento das atribuições da AIMA, I. P.;\n\nd) Administrar os bens de consumo necessários ao regular funcionamento da AIMA, I. P.;\n\ne) Assegurar as atividades transversais de apoio administrativo geral, recursos logísticos e de aprovisionamento, necessários ao funcionamento da organização;\n\nf) Organizar e manter atualizado o cadastro e o inventário de bens móveis;\n\ng) Desenvolver um sistema de aplicação de normas de higiene, saúde e segurança no trabalho;\n\nh) Assegurar os serviços de expediente e arquivo;\n\ni) Garantir a segurança dos trabalhadores e outros colaboradores da AIMA, I. P., e das instalações;\n\nj) Assegurar a gestão e manutenção da frota automóvel;\n\nk) Assegurar o sistema de comunicações móveis e fixas da AIMA, I. P.;\n\nl) Manter atualizado e gerir o arquivo bibliográfico e documental;\n\nm) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941541375": {
+   "fragment_id": "941541275",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento Financeiro e de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento Financeiro e de Recursos Humanos\n\nAo Departamento Financeiro e de Recursos Humanos compete:\n\na) Assegurar a legalidade e a regularidade financeira dos atos praticados pela AIMA, I. P., no âmbito da execução do orçamento de receita e despesa;\n\nb) Assegurar o cumprimento das obrigações fiscais e orçamentais, o reporte de informação financeira e orçamental, bem como a prestação de contas nos termos legalmente exigidos;\n\nc) Definir os circuitos instituídos por processo, respetivos intervenientes, competências e responsabilidades, garantindo a necessária segregação de funções;\n\nd) Arrecadar e contabilizar as receitas;\n\ne) Apoiar o exercício de funções do fiscal único;\n\nf) Preparar as candidaturas aos vários programas de financiamento europeu;\n\ng) Acompanhar a execução dos projetos beneficiários de financiamento europeu em articulação com os respetivos gestores;\n\nh) Propor as linhas estratégicas da política de gestão e administração dos recursos humanos da AIMA, I. P.;\n\ni) Assegurar a gestão administrativa dos recursos humanos com eficácia e eficiência e na observância das normas internas e do quadro legal e regulamentar;\n\nj) Definir e executar as ações de desenvolvimento profissional e humano dos trabalhadores da AIMA, I. P., designadamente na promoção do equilíbrio entre a vida profissional, pessoal e familiar;\n\nk) Organizar e manter atualizado o registo biográfico e disciplinar dos trabalhadores;\n\nl) Assegurar o processamento de vencimentos e outros abonos;\n\nm) Proceder ao controlo da assiduidade, férias, faltas e licenças;\n\nn) Apoiar o recrutamento e a seleção de recursos humanos, bem como os processos de evolução na carreira;\n\no) Elaborar o plano de formação anual, dos recursos humanos da AIMA, I. P., em articulação com os outros departamentos, assegurando a sua execução e a avaliação dos respetivos resultados;\n\np) Acompanhar os processos de avaliação de desempenho dos trabalhadores da AIMA, I. P.;\n\nq) Elaborar o balanço social;\n\nr) Assegurar a disponibilização de informação sobre os trabalhadores a diferentes entidades, nos termos legalmente consagrados;\n\ns) Emitir parecer, elaborar informações e proceder a estudos sobre quaisquer assuntos relativos ao regime jurídico do pessoal da AIMA, I. P., que lhe sejam submetidos;\n\nt) Dinamizar a Academia AIMA, também enquanto espaço dedicado ao desenvolvimento da atividade de formação profissional no âmbito das atribuições da AIMA, I. P.;\n\nu) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941541575": {
+   "fragment_id": "941541475",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento Jurídico\n\nAo Departamento Jurídico compete:\n\na) Emitir pareceres, elaborar informações e proceder a estudos de natureza jurídica;\n\nb) Divulgar pelos serviços da AIMA, I. P., a legislação, a jurisprudência e a doutrina que possam contribuir para o aperfeiçoamento e atualização da respetiva atuação;\n\nc) Apoiar juridicamente os restantes departamentos da AIMA, I. P., designadamente os departamentos responsáveis pela tramitação de processos e procedimentos, nomeadamente no âmbito dos processos de concessão de vistos, prorrogação de permanência, autorização de residência, concessão de asilo, proteção subsidiária, proteção temporária, afastamento voluntário e coercivo e contraordenação;\n\nd) Assegurar os procedimentos relativos à instauração, tramitação e decisão administrativa de afastamento, de expulsão, de readmissão e de retorno;\n\ne) Instruir os processos disciplinares;\n\nf) Apoiar juridicamente os serviços responsáveis pela tramitação de processos de contratação pública;\n\ng) Gerir o contencioso da AIMA, I. P., assegurando a representação forense;\n\nh) Emitir parecer sobre questões relacionadas com a aplicação da legislação do seu âmbito de intervenção e sugerir a aprovação de orientações sobre essas matérias;\n\ni) Colaborar na análise e avaliação da legislação sobre as matérias da sua competência e no estudo do respetivo aperfeiçoamento;\n\nj) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941541775": {
+   "fragment_id": "941541675",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Relações Internacionais e de Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento de Relações Internacionais e de Cooperação\n\nAo Departamento de Relações Internacionais e de Cooperação compete:\n\na) Apoiar a representação do membro do Governo responsável pela área das migrações ou da AIMA, I. P., nas instituições europeias e internacionais;\n\nb) Assegurar a obtenção, a atualização e a divulgação da informação técnica referente à participação de Portugal na União Europeia e em organizações internacionais, no âmbito das atribuições da AIMA, I. P.;\n\nc) Assegurar o cumprimento junto da União Europeia e de outras organizações Internacionais de obrigações assumidas pela República Portuguesa, no âmbito das atribuições da AIMA, I. P., referentes a convenções e outros instrumentos internacionais;\n\nd) Sem prejuízo do disposto relativamente aos procedimentos de emissão de pareceres de vistos consulares, assegurar a articulação da AIMA, I. P., com os oficiais de ligação de imigração e do Ministério da Administração Interna, com os adidos de trabalho e emprego e com a rede diplomática e consular;\n\ne) Coordenar as relações de cooperação desenvolvidas pela AIMA, I. P., ou realizadas no âmbito das atribuições deste instituto;\n\nf) Promover e valorizar a imagem internacional de Portugal enquanto destino de migrações, designadamente tendo em conta a atração de imigração altamente qualificada e de elevado potencial;\n\ng) Contribuir para a sensibilização das comunidades de emigrantes portuguesas e da diáspora em geral para as oportunidades de retorno a Portugal;\n\nh) Executar as medidas de apoio ao regresso e reintegração de cidadãos emigrantes;\n\ni) Estabelecer parcerias com entidades congéneres, bem como com entidades públicas ou privadas e organizações não-governamentais não nacionais na área da integração de imigrantes, da atração de talento e do apoio ao retorno de emigrantes;\n\nj) Organizar seminários, conferências internacionais e outras iniciativas de promoção e sensibilização no domínio das atribuições da AIMA, I. P.;\n\nk) Promover a circulação de pessoas entre os países de língua oficial portuguesa e articular a intervenção dos organismos públicos envolvidos, em especial com os órgãos competentes da CPLP;\n\nl) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941541975": {
+   "fragment_id": "941541875",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Sistemas de Informação\n\nCompete ao Departamento de Sistemas de Informação:\n\na) Gerir o e administrar a infraestrutura tecnológica, designadamente os sistemas e a Rede de Dados da AIMA, I. P.;\n\nb) Elaborar e manter atualizado um plano para entradas em produção;\n\nc) Assegurar a capacidade de resposta da infraestrutura tecnológica em volume de armazenamento, de processamento e de tráfego, gerindo a atividade de desenvolvimento e manutenção da infraestrutura;\n\nd) Coordenar o desenho da arquitetura dos sistemas da AIMA, I. P., de modo que estes contemplem aspetos como a segurança, a privacidade, a mobilidade e a simplicidade;\n\ne) Gerir as políticas e atividades inerentes ao desenvolvimento de soluções e mecanismos de interoperabilidade entre os sistemas da AIMA, I. P., e entre estes e os de entidades externas;\n\nf) Conceber e desenvolver soluções, aplicações e plataformas tecnológicas;\n\ng) Assegurar políticas adequadas de desenvolvimento de sistemas de informação, promovendo uma abordagem geral que privilegie soluções seguras e que garantam a privacidade dos dados e também inovadoras, integradas, escaláveis, partilháveis e de utilização sustentada;\n\nh) Gerir a manutenção corretiva, nomeadamente na resolução de incidentes;\n\ni) Gerir a atividade de manutenção evolutiva, bem como o desenvolvimento de novas funcionalidades nos sistemas de informação;\n\nj) Criar e manter atualizado um repositório de conhecimento funcional e técnico das aplicações da AIMA, I. P.;\n\nk) Elaborar e manter atualizado um inventário dos equipamentos, sistemas e aplicações, incluindo as suas versões, da AIMA, I. P.;\n\nl) Elaborar e manter atualizado um plano de atualização das versões das diferentes aplicações da AIMA, I. P.;\n\nm) Gerir a atividade de suporte aos utilizadores dos sistemas de informação da AIMA, I. P.;\n\nn) Promover a retenção do conhecimento sobre os sistemas de informação da AIMA, I. P.;\n\no) Participar na definição e na gestão de novos projetos ou receção de aplicações;\n\np) Garantir a articulação com utilizadores e entidades externas no desenvolvimento de novos sistemas e funcionalidades;\n\nq) Elaborar e manter atualizado os planos de contingência, abrangendo as vertentes de continuidade de negócio, para os sistemas da AIMA, I. P.;\n\nr) Adotar as medidas de segurança de informação e de cibersegurança mais eficazes, em articulação com as políticas definidas para a AIMA, I. P.;\n\ns) Assegurar a monitorização dos sistemas e aplicações, definindo níveis de serviço de disponibilidade;\n\nt) Introduzir e desenvolver mecanismos de acompanhamento e controlo dos desvios padrão e apoiar as entidades inspetivas no combate à fraude e a outras formas de criminalidade;\n\nu) Definir um plano estratégico de desenvolvimento dos sistemas de informação da AIMA, I. P.;\n\nv) Promover a integração dos sistemas;\n\nw) Contribuir para a criação de novos modelos de prestação de serviços alavancados pelas tecnologias e informação e comunicação;\n\nx) Garantir a uniformização do desenvolvimento dos sistemas disponibilizados pela AIMA, I. P.;\n\ny) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941542175": {
+   "fragment_id": "941542075",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Acesso Omnicanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Departamento de Acesso Omnicanal\n\nAo Departamento de Acesso Omnicanal compete:\n\na) Gerir o acesso dos utentes aos serviços da AIMA, I. P., designadamente administrando a interface com o utente e garantido coerência e complementaridade entre os canais presencial, telefónico e digital;\n\nb) Gerir o atendimento presencial integrado na rede de Lojas AIMA e de AIMA Spot;\n\nc) Gerir a relação com as entidades públicas e privadas que prestam serviços aos migrantes, bem como com a Agência para a Modernização Administrativa, I. P., enquanto entidade gestora da rede de Lojas de Cidadão;\n\nd) Identificar oportunidades de instalação e instalar Lojas AIMA e AIMA Spot;\n\ne) Participar na determinação dos serviços disponibilizados nos diferentes canais, designadamente no canal digital, de modo a garantir a sua coerência e complementaridade;\n\nf) Determinar os protocolos de atendimento que garantam a sua celeridade e igualdade, com respeito pelos princípios e boas práticas da mediação intercultural;\n\ng) Gerir o Centro de Contacto AIMA, I. P., enquanto canal telefónico, assente em plataformas digitais;\n\nh) Monitorizar e aperfeiçoar continuamente o atendimento prestado nos diferentes canais;\n\ni) Procurar garantir a acessibilidade aos utentes que tenham dificuldades no acesso por alguns dos canais, designadamente por não dominarem determinado idioma;\n\nj) Identificar e experimentar novos canais e modelos de atendimento passíveis de melhorar a experiência do utente;\n\nk) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941542375": {
+   "fragment_id": "941542275",
+   "type": 11,
+   "heading": "Artigo 10.º — O Departamento de Procedimentos Administrativos e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — O Departamento de Procedimentos Administrativos e Qualidade\n\nCompete ao Departamento de Procedimentos Administrativos e Qualidade:\n\na) Gerir os procedimentos e instruir os pedidos de prorrogações de permanência, autorizações de residência, renovações de autorizações de residência, cartões de residência e cartões de residência permanente de familiares de cidadãos da União Europeia nacionais de Estado terceiro, certificados de residência permanente de cidadãos da União Europeia e títulos de residência para cidadãos britânicos beneficiários do Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica e de emissão de parecer sobre os vistos;\n\nb) Assegurar que o tratamento dos procedimentos administrativos da AIMA, I. P., é promovido, garantindo a articulação entre o acesso omnicanal e a centralização da decisão, com elevação da eficiência do funcionamento do instituto e da qualidade do serviço prestado aos utentes;\n\nc) Participar na instrução dos processos de asilo e proteção internacional em articulação com o CNAR AIMA;\n\nd) Apoiar na tramitação dos processos de proteção temporária;\n\ne) Assegurar o estudo e a elaboração de normas técnicas com vista à uniformização de procedimentos nos canais de atendimento;\n\nf) Emitir parecer sobre os processos de atribuição e aquisição da nacionalidade portuguesa, nos termos da lei;\n\ng) Instruir os pedidos de concessão do estatuto de igualdade de direitos e deveres;\n\nh) Instruir os processos de contraordenação;\n\ni) Centralizar o controlo e o registo nacional de passaportes para estrangeiros, títulos de viagem para refugiados, salvo-condutos emitidos a favor de estrangeiros e apátridas e títulos de residência;\n\nj) Emitir documentos de viagem nos casos previstos na lei;\n\nk) Prestar informações aos postos consulares portugueses sobre a emissão de passaportes para estrangeiros;\n\nl) Decidir sobre a isenção ou redução de taxas;\n\nm) Definir normas e desenvolver os procedimentos necessários para a organização e gestão documental da AIMA, I. P., incluindo a gestão do arquivo;\n\nn) Garantir a adaptação dos diversos procedimentos às especificidades dos utentes menores de idade;\n\no) Desenvolver sistemas de gestão da qualidade;\n\np) Harmonizar as políticas, processos e procedimentos da AIMA, I. P.;\n\nq) Identificar oportunidades de melhoria nos fluxos de atividades da AIMA, I. P., propondo o redesenho dos processos;\n\nr) Estimular uma cultura de melhoria contínua na AIMA, I. P.;\n\ns) Preparar os trabalhos para a Certificação da AIMA, I. P., face a normas internacionais;\n\nt) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941542575": {
+   "fragment_id": "941542475",
+   "type": 11,
+   "heading": "Artigo 11.º — Departamento de Integração de Migrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Departamento de Integração de Migrantes\n\nAo Departamento de Integração de Migrantes compete:\n\na) Acompanhar a execução de protocolos com entidades parceiras, públicas ou privadas, tendo em vista a instalação e o funcionamento dos serviços de integração, atendimento e informação nas Lojas AIMA e nos AIMA Spot ou noutros locais onde se venham a revelar necessários;\n\nb) Monitorizar a qualidade da prestação dos serviços migratórios, com garantias de confidencialidade e celeridade nos processos;\n\nc) Manter uma relação de proximidade permanente com as associações de migrantes;\n\nd) Promover o alinhamento dos programas locais de integração de migrantes com a estratégia nacional;\n\ne) Instalar a dinamizar a Academia AIMA, enquanto espaço de formação no âmbito das atribuições da AIMA, designadamente no que respeita à formação disponibilizada às entidades parceiras;\n\nf) Promover ações de formação dos trabalhadores da AIMA, na Academia AIMA, que exercem funções nos diferentes canais, designadamente nas Lojas AIMA e nos AIMA Spot;\n\ng) Coordenar e mobilizar, com a Academia AIMA, o ensino de português para cidadãos estrangeiros em território nacional, em estreita articulação com o Instituto do Emprego e Formação Profissional, I. P., (IEFP, I. P.) a Direção-Geral dos Estabelecimentos Escolares (DGEstE), Direção-Geral do Ensino Superior (DGES) e os Centros Qualifica (CQ);\n\nh) Coordenar e mobilizar, com a Academia AIMA, a formação profissional para cidadãos estrangeiros e portugueses regressados, em estreita articulação com as empresas, o IEFP, I. P., DGEstE, a DGES e os CQ;\n\ni) Coordenar e dinamizar a oferta de emprego para cidadãos estrangeiros e para portugueses regressados, em estreita articulação com o IEFP, I. P.;\n\nj) Promover a consulta jurídica a cidadãos estrangeiros e portugueses regressados, em estreita articulação com a Ordem doa Advogados e a Ordem dos Solicitadores e dos Agentes de Execução;\n\nk) Dinamizar o encontro entre a oferta de serviços das instituições competentes de solidariedade social e os migrantes carecidos de apoio de emergência social;\n\nl) Dinamizar o encontro entre a oferta de serviços de saúde, públicos e privados, e os migrantes;\n\nm) Apoiar os estudantes migrantes, articulando, nomeadamente, com as universidades públicas e privadas o apoio à sua receção e integração, bem como, na identificação da oferta do ensino superior;\n\nn) Apoiar os migrantes reformados, através da promoção, em articulação com entidades públicas e privadas, designadamente do turismo de saúde e de unidades destinadas ao alojamento de longa duração;\n\no) Apoiar e formar os migrantes na criação do seu negócio, em articulação, designadamente, com incubadoras e aceleradoras de empresas e o Instituto de Apoio às Pequenas e Médias Empresas (IAPMEI);\n\np) Promover a simplificação e o acesso dos migrantes às instituições habilitadas para o reconhecimento de qualificações académicas e profissionais;\n\nq) Dinamizar o acesso dos migrantes a condições de habitação dignas, em articulação com a administração central, regional e local e as entidades empregadoras;\n\nr) Desenvolver e implementar projetos internacionais no âmbito da integração de migrantes;\n\ns) Assegurar o acompanhamento do processo de integração de pessoas beneficiárias de proteção internacional e temporária em Portugal;\n\nt) Mapear e manter atualizadas as disponibilidades de acolhimento;\n\nu) Assegurar a articulação com os diversos serviços da administração central, regional e local que, de forma subsidiária, concorrem para a integração das pessoas refugiadas;\n\nv) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941542775": {
+   "fragment_id": "941542675",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro Nacional para o Asilo e Refugiados AIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Centro Nacional para o Asilo e Refugiados AIMA\n\nAo Centro Nacional para o Asilo e Refugiados AIMA compete:\n\na) Receber os pedidos, atender os utentes e tramitar os procedimentos de asilo e proteção internacional, em articulação com o DPAQ;\n\nb) Organizar e instruir, nos termos da lei, os processos de concessão de autorização de residência por motivos humanitários, em articulação com DPAQ;\n\nc) Organizar e instruir os processos de determinação do Estado responsável pela análise dos pedidos de asilo e emitir o respetivo salvo-conduto, se necessário, em articulação com o DPAQ;\n\nd) Organizar e instruir os pedidos de reinstalação e recolocação de refugiados;\n\ne) Emitir parecer sobre os pedidos de concessão e prorrogação de documentos de viagem para refugiados, apresentados nos postos consulares portugueses;\n\nf) Assegurar a ligação da AIMA com o Agência da União Europeia para o Asilo (EUAA), em articulação com o DRIC;\n\ng) Proceder à elaboração do planeamento estratégico no que respeita às ações da EUAA, em articulação com o DRIC;\n\nh) Assegurar as condições de acolhimento nos termos da lei;\n\ni) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do CNAR AIMA."
+  },
+  "941542975": {
+   "fragment_id": "941542875",
+   "type": 11,
+   "heading": "Artigo 13.º — Departamento para a Igualdade e o Combate ao Racismo, à Xenofobia e à Discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Departamento para a Igualdade e o Combate ao Racismo, à Xenofobia e à Discriminação\n\nAo Departamento para a Igualdade e o Combate ao Racismo, à Xenofobia e à Discriminação compete:\n\na) Promover iniciativas com vista à sensibilização da opinião pública para a importância da diversidade cultural e da interculturalidade;\n\nb) Desenvolver projetos, ações de divulgação e informação contra a discriminação racial;\n\nc) Desenvolver formação, no âmbito da Academia AIMA, em promoção da interculturalidade, educação intercultural, diálogo inter-religioso e valorização da diversidade;\n\nd) Dinamizar ações em que se valorize e promova o diálogo inter-religioso, em estreita articulação com a Comissão da Liberdade Religiosa;\n\ne) Promover o combate à discriminação dos imigrantes, seus descendentes ou grupos étnicos na sociedade portuguesa, tendo em vista um melhor aproveitamento do seu potencial e competências, uma melhor articulação com a política de emprego e o reforço da mobilidade social e do acesso a uma cidadania comum, tendo também em conta as desigualdades intersecionais;\n\nf) Dinamizar a criação de parcerias em projetos nacionais e internacionais na área do combate ao racismo e à xenofobia;\n\ng) Promover o movimento associativo representativo das comunidades migrantes e de grupos étnicos;\n\nh) Promover o exercício da cidadania ativa pelos membros das comunidades migrantes e das comunidades ciganas;\n\ni) Desenvolver iniciativas tendentes à integração plena dos portugueses ciganos;\n\nj) Promover a articulação com a Comissão para a Igualdade e Contra a Discriminação Racial (CICDR);\n\nk) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento."
+  },
+  "941543175": {
+   "fragment_id": "941543075",
+   "type": 1,
+   "heading": "Capítulo III — Unidades orgânicas territorialmente desconcentradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Unidades orgânicas territorialmente desconcentradas"
+  },
+  "941543375": {
+   "fragment_id": "941543275",
+   "type": 11,
+   "heading": "Artigo 14.º — Loja AIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Loja AIMA\n\n1 - A Loja AIMA é um espaço de prestação de serviços públicos em balcão único de atendimento que serve de interface dos cidadãos migrantes e das respetivas entidades empregadoras com diversos serviços de várias entidades públicas e privadas, designadamente no âmbito do processo de acolhimento e integração de migrantes.\n\n2 - Dentro do mesmo município, sempre que possível, deve privilegiar-se a localização de Lojas AIMA em Lojas de Cidadão, beneficiando os cidadãos migrantes com as sinergias geradas por estas estruturas."
+  },
+  "941543575": {
+   "fragment_id": "941543475",
+   "type": 11,
+   "heading": "Artigo 15.º — AIMA Spot",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — AIMA Spot\n\nO espaço AIMA Spot visa, através da criação de condições de maior proximidade, facilitar e promover o acesso aos serviços mais relevantes para os migrantes prestados por entidades públicas e privadas, designadamente por via de atendimento digital assistido, bem como apoiar no processo de acolhimento e integração de pessoas migrantes, articulando-se com as diversas estruturas nacionais e, especialmente, locais."
+  },
+  "941543975": {
+   "fragment_id": "941543875",
+   "type": 14,
+   "heading": "Anexo — Lojas AIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lojas AIMA\n\n(referido no n.º 5 do artigo 2.º)\n\nAlbufeira.\n\nAlverca.\n\nAngra Heroísmo.\n\nAveiro.\n\nBeja.\n\nBraga.\n\nBragança.\n\nCacém.\n\nCascais.\n\nCastelo Branco.\n\nCoimbra.\n\nEspinho.\n\nÉvora.\n\nFaro.\n\nFigueira da Foz.\n\nFunchal.\n\nGuarda.\n\nHorta.\n\nLeiria.\n\nLisboa I.\n\nLisboa II.\n\nOdemira.\n\nOdivelas.\n\nPonta Delgada.\n\nPortalegre.\n\nPortimão\n\nPorto.\n\nPorto Santo.\n\nSantarém.\n\nSetúbal.\n\nTavira.\n\nViana do Castelo.\n\nVila Real.\n\nViseu."
+  }
+ },
+ "unavailable_dates": [
+  "2023-10-27"
+ ]
+}

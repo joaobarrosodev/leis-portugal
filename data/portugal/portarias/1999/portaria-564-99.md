@@ -33,11 +33,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2023-07-11'
+  consolidation_date: '2026-10-28'
 version_history:
   file: portaria-564-99.versoes.json
-  count: 2
-  source_lastmod: '2024-06-25'
+  count: 3
+  source_lastmod: '2026-10-27'
   versions:
   - date: '1999-07-27'
     amending: null
@@ -80,6 +80,11 @@ version_history:
     - Altera XXVIII
     - Altera XXIX
     - Altera Assinatura
+  - date: '2026-10-28'
+    amending: pt:dre:1186535404:por
+    amending_title: Portaria n.º 469/2026/1
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/564/1999/p/cons/20230710/pt/html
@@ -94,19 +99,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/564/1999/p/cons/20230710/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-215421202
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-215421202
-  retrieved_at: '2026-10-22T12:57:56Z'
+  retrieved_at: '2026-11-20T13:49:08Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-27T00:00:00Z'
 integrity:
-  source_sha256: 1ee0cdb83fb8979d4a3668d8e592931564e65c14d503e0eea4047e6feaad90e0
+  source_sha256: 86eb85db50234dc0185230d74a0c4130272a546ce6aef9e6831f6ac3bbeed049
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:57:56Z'
-  notes: 2 versão(ões); histórico completo em portaria-564-99.versoes.json.
+  generated_at: '2026-11-20T13:49:08Z'
+  notes: 3 versão(ões); histórico completo em portaria-564-99.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,8 +141,13 @@ relationships:
     Altera VIII; Altera IX; Altera X; Altera XI; Altera XII; Altera XIII; Altera XIV; Altera XV; Altera XVI; Altera XVII
   source: https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651
   date: '2023-07-10'
+- type: amended_by
+  target: pt:dre:1186535404:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404
+  date: '2026-10-27'
 article_structure:
-  article_count: 31
+  article_count: 33
   section_count: 9
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -145,16 +155,12 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:57:56Z'
+  checked_at: '2026-11-20T13:49:08Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 564/99
-
-Portaria n.º 564/99
-
-de 27 de Julho
 
 O princípio da integração constituiu o objectivo orientador fundamental da organização das respostas de reabilitação profissional, pelo que, nos termos do artigo 4.º da Lei n.º 9/89, de 2 de Maio - Lei de Bases da Reabilitação, cabe a cada «departamento governamental a responsabilidade por toda a população a que a sua política se dirige», sem prejuízo da «adopção das medidas diferenciadas que a situação das pessoas com deficiência exige».
 
@@ -180,6 +186,18 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, o seguinte:
 
 Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Secretário de Estado do Emprego e Formação, em 30 de Junho de 1999.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
+###### Artigo 1.º
+
+É homologado o protocolo que criou o CRPG - Centro de Reabilitação Profissional de Gaia, outorgado entre o Instituto do Emprego e Formação Profissional (IEFP), a Associação dos Deficientes das Forças Armadas (ADFA) e a Cooperativa para a Educação e Reabilitação de Crianças Inadaptadas de Gaia (CERCIGAIA).
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651).
+
+###### 3.º
+
+A referida portaria entra em vigor no 1.º dia útil a seguir à data da sua publicação.
+
 ## Anexo — PROTOCOLO DO CENTRO DE REABILITAÇÃO PROFISSIONAL DE GAIA
 
 Preâmbulo
@@ -200,17 +218,25 @@ Neste contexto, importa dar adequado enquadramento normativo-institucional ao Ce
 
 Assim, entre o Instituto do Emprego e Formação Profissional, adiante designado IEFP, como primeiro outorgante, a Associação dos Deficientes das Forças Armadas, adiante designada ADFA, como segundo outorgante, e a Cooperativa de Educação e Reabilitação de Crianças Inadaptadas de Gaia, adiante designada CERCIGAIA, como terceiro outorgante, devidamente representados para o efeito, e nos termos conjugados do disposto nos Decretos-Leis n.os 247/89, de 5 de Agosto, e 165/85, de 16 de Maio, é celebrado o presente protocolo, que cria o Centro de Reabilitação Profissional de Gaia, com a seguinte redacção:
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 ### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### I — Denominação
 
 O centro de reabilitação profissional de gestão participada adota a designação de CRPG - Centro de Reabilitação Profissional, doravante apenas designado por CRPG.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### II — Natureza
 
 O CRPG é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio, vocacionado para a integração ou reintegração na vida ativa e profissional de pessoas com deficiências e incapacidades.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -221,6 +247,8 @@ O CRPG é um organismo dotado de personalidade jurídica de direito público, se
 2 - O CRPG constitui-se como centro de recursos especializado, designadamente na área das deficiências e incapacidades adquiridas na sequência de acidentes, doenças profissionais e outras, e de apoio aos serviços públicos de emprego e às respostas integradas de formação e emprego das pessoas com deficiência.
 
 3 - O CRPG presta ainda o apoio técnico às entidades empregadoras, privadas e públicas, no âmbito da informação, sensibilização e capacitação técnica para adotarem uma estratégia de gestão inclusiva de recursos humanos, no âmbito da manutenção do emprego e retorno ao trabalho das pessoas com incapacidades adquiridas na sequência de doenças e acidentes, e da contratação de pessoas com deficiências e incapacidades.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -233,6 +261,8 @@ a) Tenham necessidade de apoio especializado na definição de um projeto de int
 b) Tenham necessidades de formação profissional e de outras intervenções complementares adaptadas, de modo a adquirirem competências e qualificações profissionais que viabilizem o acesso, a retoma e a manutenção do trabalho, em qualquer das suas formas e regimes;
 
 c) Tenham necessidade de um processo de reconversão profissional e readaptação ao trabalho, visando a sua manutenção na vida profissional, em consequência de acidentes e doenças, profissionais e outras.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -258,6 +288,8 @@ h) Implementação e experimentação de novas metodologias de formação, de re
 
 2 - O CRPG colabora com entidades públicas ou privadas, nacionais ou internacionais, com especial relevo para os países de expressão oficial portuguesa, com os quais pode celebrar convénios, protocolos, contratos ou acordos, no âmbito das suas atribuições, nos termos dos normativos em vigor.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### VI — Sede e delegações
@@ -266,15 +298,21 @@ h) Implementação e experimentação de novas metodologias de formação, de re
 
 2 - Podem ser criadas ou extintas delegações e polos que se mostrem comprovadamente necessários, após obtida a autorização do IEFP, I. P.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### VII — Âmbito e duração
 
 O Centro exerce a sua competência no território continental e durará por tempo indeterminado, sem prejuízo do disposto em xxvii.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ### Capítulo II — Estrutura orgânica
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### VIII — Órgãos
 
@@ -288,9 +326,13 @@ c) Comissão de fiscalização e verificação de contas;
 
 d) Conselho estratégico.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 #### Secção I — Do conselho de administração
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### IX — Composição
 
@@ -301,6 +343,8 @@ d) Conselho estratégico.
 3 - O mandato dos membros do conselho de administração terá a duração de três anos, automaticamente renovável por igual período, sem prejuízo do disposto no número seguinte.
 
 4 - Sob proposta de cada um dos outorgantes, os membros do conselho de administração são nomeados e podem, a todo o tempo, ser exonerados, por despacho do membro do Governo responsável pela área do trabalho, solidariedade e segurança social ou de quem tiver competência por ele delegada.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -324,6 +368,8 @@ g) Responder pela gestão financeira das verbas concedidas para instalação, eq
 
 h) Assegurar a mais estreita ligação entre o CRPG e os serviços do primeiro outorgante, visando a coordenação das respetivas atividades e a sua integração na organização das respostas de reabilitação e reintegração profissional.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XI — Funcionamento
@@ -340,9 +386,13 @@ h) Assegurar a mais estreita ligação entre o CRPG e os serviços do primeiro o
 
 6 - De todas as reuniões será lavrada ata, assinada pelos presentes.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 #### Secção II — Do director
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### XII — Designação
 
@@ -351,6 +401,8 @@ h) Assegurar a mais estreita ligação entre o CRPG e os serviços do primeiro o
 2 - O titular do cargo de diretor/a do CRPG é nomeado/a em comissão de serviço por três anos, automaticamente renovável por igual período, sem prejuízo do disposto no número seguinte.
 
 3 - A comissão de serviço pode cessar a qualquer momento, mediante aviso prévio por escrito, com a antecedência mínima de 30 ou 60 dias, consoante aquela tenha durado, respetivamente, até 2 anos ou período superior.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -384,9 +436,13 @@ k) Responsabilizar-se perante o conselho de administração pela correta gestão
 
 3 - As admissões previstas na alínea f) do número anterior são objeto de prévia autorização do primeiro outorgante.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 #### Secção III — Da comissão de fiscalização e verificação de contas
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### XIV — Composição
 
@@ -397,6 +453,8 @@ k) Responsabilizar-se perante o conselho de administração pela correta gestão
 3 - O mandato dos membros da comissão de fiscalização e verificação de contas terá a duração de três anos, automaticamente renováveis, sem prejuízo do disposto no n.º 4.
 
 4 - Os membros da comissão de fiscalização e verificação de contas são nomeados e exonerados por despacho do membro do Governo responsável pela área do trabalho, solidariedade e segurança social ou de quem tiver competência por ele delegada, sob proposta do outorgante que representam.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -414,6 +472,8 @@ d) Apreciar e dar parecer sobre a atividade do CRPG, a qualidade da respetiva in
 
 e) Pronunciar-se sobre qualquer assunto de interesse para o CRPG que seja submetido à sua apreciação pelo conselho de administração.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XVI — Funcionamento
@@ -430,9 +490,13 @@ e) Pronunciar-se sobre qualquer assunto de interesse para o CRPG que seja submet
 
 6 - De todas as reuniões será lavrada ata, assinada pelos presentes.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 #### Secção IV — Conselho estratégico
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Aditado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -448,9 +512,13 @@ e) Pronunciar-se sobre qualquer assunto de interesse para o CRPG que seja submet
 
 5 - A participação das entidades referidas no n.º 1 é assegurada num regime de participação cívica, sem contrapartida financeira.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Aditado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ### Capítulo III — Disposições financeiras
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### XVIII — Princípios de gestão criteriosa e de sustentabilidade económico-financeira e ambiental
 
@@ -480,6 +548,8 @@ g) Fomentar a criação de indicadores de atividade que permitam a sua avaliaç�
 
 h) Cumprir e fazer cumprir o Regulamento Geral de Proteção de Dados.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XIX — Instrumento de gestão previsional e de controlo de gestão
@@ -490,6 +560,8 @@ a) Planos de atividades e orçamentos anuais;
 
 b) Relatórios trimestrais de controlo orçamental e de atividades, abrangendo os aspetos financeiros e técnicos.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Aditado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### Artigo XX — Plano de atividades, orçamento e relatórios de controlo orçamental
@@ -499,6 +571,8 @@ b) Relatórios trimestrais de controlo orçamental e de atividades, abrangendo o
 2 - As propostas de plano de atividades e orçamento são anuais e devem ser enviados aos outorgantes, nos prazos fixados pelo IEFP, I. P.
 
 3 - O plano de atividades e o orçamento anuais, acompanhados do parecer da comissão de fiscalização e verificação de contas, e aprovados pelo CA, devem ser enviados aos outorgantes, nos prazos estabelecidos.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -530,6 +604,8 @@ d) Outros indicadores significativos das atividades do CRPG diretamente relacion
 
 4 - Os saldos apurados no fim do exercício transitarão para o ano seguinte, nos termos das normas legais aplicáveis.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### Artigo XXII — Receitas e despesas
@@ -546,9 +622,13 @@ d) Outros indicadores significativos das atividades do CRPG diretamente relacion
 
 6 - As comparticipações das entidades outorgantes serão processadas trimestralmente em relação aos valores orçamentados, consoante as necessidades do CRPG.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ### Capítulo IV — Disposições diversas
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 ###### XXIII — Linhas de orientação
 
@@ -558,11 +638,15 @@ a) A estrutura da organização do CRPG;
 
 b) Os mecanismos de avaliação e acompanhamento da sua atividade.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XXIV — Representação
 
 O CRPG obriga-se pela assinatura de dois membros do conselho de administração, devendo uma delas ser obrigatoriamente a do presidente efetivo ou substituto e a outra a de um dos representantes dos segundos outorgantes.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -570,11 +654,15 @@ O CRPG obriga-se pela assinatura de dois membros do conselho de administração,
 
 Se alguma das entidades outorgantes se desvincular unilateralmente do presente protocolo, não terá direito a qualquer indemnização, sem prejuízo do direito ao ressarcimento de eventuais danos quando a resolução seja injustificada.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XXVI — Incumprimento
 
 O incumprimento não justificado, por qualquer dos outorgantes, das obrigações assumidas no âmbito do presente protocolo pode determinar a sua exclusão, por deliberação do conselho de administração do IEFP, I. P., sujeita a homologação do membro do Governo responsável pela área do trabalho, solidariedade e segurança social ou de quem tiver competência por ele delegada.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -584,11 +672,15 @@ O incumprimento não justificado, por qualquer dos outorgantes, das obrigações
 
 2 - Em caso de extinção, o património do CRPG será integrado no IEFP, I. P., conforme definição de comparticipação financeira prevista em xxii.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XXVIII — Alterações ao protocolo
 
 O conselho de administração do CRPG poderá propor aos outorgantes as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, proceder-se às respetivas alterações, a homologar e publicar nos mesmos termos deste protocolo.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -596,11 +688,15 @@ O conselho de administração do CRPG poderá propor aos outorgantes as necessá
 
 Mediante proposta fundamentada do conselho de administração do CRPG, poderão os outorgantes autorizar futuras adesões de outras entidades a este protocolo, na qualidade de segundas outorgantes, sujeitas a homologação pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social ou por quem tiver competência por ele delegada.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 ###### XXX — Legislação aplicável
 
 Em tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 290/2009, de 12 de outubro, na sua atual redação, devidamente conjugado com o preceituado no Decreto-Lei n.º 165/85, de 16 de maio, na atual redação.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
@@ -608,10 +704,14 @@ Em tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 29
 
 O presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social ou por quem tiver competência por ele delegada.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
+
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11
 
 Lisboa, 13 de fevereiro de 2023.
 
 Pelo Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), Domingos Jorge Ferreira Lopes. - Pela Associação dos Deficientes das Forças Armadas (ADFA), José Nuno da Câmara Santa Clara Gomes e Cândido Manuel Patuleia Mendes. - Pela Associação Portuguesa de Gestão das Pessoas (APG), Luís Pedro Serra Ramos e Paula Elisabete Rodrigues Vieira Carmo Rocha.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404), em vigor a partir de 2026-10-28.
 
 > Alterado pelo/a ANEXO do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651), em vigor a partir de 2023-07-11

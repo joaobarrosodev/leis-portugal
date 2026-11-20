@@ -46,7 +46,7 @@ version:
 version_history:
   file: decreto-lei-18-2008.versoes.json
   count: 19
-  source_lastmod: '2026-09-11'
+  source_lastmod: '2026-11-11'
   versions:
   - date: '2008-01-29'
     amending: null
@@ -227,16 +227,12 @@ version_history:
     amending: pt:dre:126870686:por
     amending_title: Decreto-Lei n.º 170/2019
     changes:
-    - Altera Artigo 37.º
     - Altera Artigo 109.º
-    - Altera Artigo 340.º
   - date: '2020-03-19'
     amending: pt:dre:130399855:por
     amending_title: Resolução da Assembleia da República n.º 16/2020
     changes:
-    - Altera Artigo 37.º
     - Altera Artigo 109.º
-    - Altera Artigo 340.º
   - date: '2021-06-20'
     amending: pt:dre:167923975:por
     amending_title: Declaração de Retificação n.º 25/2021; Lei n.º 30/2021
@@ -381,18 +377,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2008/p/cons/20251023/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475
-  retrieved_at: '2026-10-22T13:54:08Z'
+  retrieved_at: '2026-11-20T13:52:17Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-09-11T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: e47c7d861b98dae9f1e6acf4cfb64c2c60c23c7cd3bcc5934884f547b633fcaa
+  source_sha256: 5d7e4b9034d404729be4f062295d7e75c312c96d0badd7ce9ffd147c69c46e6b
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:54:08Z'
+  generated_at: '2026-11-20T13:52:17Z'
   notes: 19 versão(ões); histórico completo em decreto-lei-18-2008.versoes.json.
 reuse:
   status: permitted
@@ -709,7 +705,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:54:08Z'
+  checked_at: '2026-11-20T13:52:17Z'
   warnings: []
   errors: []
 ---
@@ -2398,17 +2394,11 @@ g) O impacto previsível no desenvolvimento ou na reconversão do país ou da re
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01
 
-###### Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas
+###### Artigo 37.º — Decisão de contratar nas parcerias público-privadas
 
-Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso.
+Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela sectorial, consoante o caso.
 
-> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é repristinado o artigo 37.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.
-
-> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 38.º — Decisão de escolha do procedimento
 
@@ -2644,9 +2634,11 @@ Sem prejuízo do disposto no artigo 42.º, os cadernos de encargos dos procedime
 
 > Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30
 
-###### Artigo 45.º — Caderno de encargos das parcerias públicas-privadas
+###### Artigo 45.º — Caderno de encargos das parcerias público-privadas
 
-Os cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias públicas-privadas devem submeter à concorrência os aspectos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela directa ou indirectamente afectos decorrentes da configuração do modelo contratual.
+Os cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias público-privadas devem submeter à concorrência os aspetos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela direta ou indiretamente afetos decorrentes da configuração do modelo contratual.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 46.º — Formulários de caderno de encargos
 
@@ -6792,9 +6784,9 @@ b) A apresentação das declarações e dos documentos previstos no n.º 3 do pr
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01
 
-###### Artigo 258.º — Celebração de contratos ao abrigo de acordos quadro cujos termos abranjam todos os seus aspectos submetidos à concorrência
+###### Artigo 258.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos abranjam todos os seus aspetos submetidos à concorrência
 
-1 - Deve adoptar-se o ajuste directo para a formação de contratos a celebrar ao abrigo de acordos quadro celebrados na modalidade prevista na alínea a) do n.º 1 do artigo 252.º
+1 - Deve adotar-se o ajuste direto para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea a) do n.º 1 do artigo 252.º
 
 2 - Quando exista mais do que um cocontratante no acordo-quadro, o adjudicatário é selecionado de acordo com os critérios objetivos estabelecidos no caderno de encargos do acordo-quadro, não havendo reabertura da concorrência.
 
@@ -6804,7 +6796,7 @@ b) A apresentação das declarações e dos documentos previstos no n.º 3 do pr
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
-###### Artigo 259.º — Celebração de contratos ao abrigo de acordos quadro cujos termos não abranjam todos os seus aspectos submetidos à concorrência
+###### Artigo 259.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos não abranjam todos os seus aspetos submetidos à concorrência
 
 1 - Deve adotar-se o procedimento de consulta prévia para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea b) do n.º 1 do artigo 252.º
 
@@ -8072,41 +8064,45 @@ Nos contratos com objecto passível de acto administrativo e demais contratos so
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01
 
-#### Secção III — Execução e modificação de parcerias públicas-privadas
+#### Secção III — Execução e modificação de parcerias público-privadas
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 339.º — Dever de informação
 
-Quando o serviço ou a entidade que represente o contraente público na execução do contrato que configure uma parceria pública-privada tomar conhecimento de situações susceptíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes na respectiva implementação ou execução, devem, de imediato, comunicar tais factos ao ministro responsável pela área das finanças e ao ministro da tutela, indicando, sempre que possível, os valores estimados envolvidos.
+Quando o serviço ou a entidade que represente o contraente público na execução do contrato que configure uma parceria público-privada tomar conhecimento de situações suscetíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes na respetiva implementação ou execução, devem, de imediato, comunicar tais factos ao membro do Governo responsável pela área das finanças e ao membro do Governo da tutela, indicando, sempre que possível, os valores estimados envolvidos.
 
-###### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
-1 - Nos contratos que configurem uma parceria pública-privada, compete ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso:
+###### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias público-privadas
+
+1 - Nos contratos que configurem uma parceria público-privada, compete ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso:
 
 a) O exercício de poderes de fiscalização;
 
-b) O acompanhamento do contrato, tendo por objectivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias públicas-privadas.
+b) O acompanhamento do contrato, tendo por objetivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias público-privadas.
 
-2 - A modificação do contrato que configure uma parceria pública-privada depende de decisão conjunta dos ministros ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela sectorial.
+2 - A modificação do contrato que configure uma parceria público-privada depende de decisão conjunta dos membros do Governo ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela setorial.
 
-3 - No âmbito da administração indirecta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do ministro ou do membro do Governo Regional da tutela sectorial.
+3 - No âmbito da administração indireta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do membro do Governo ou do membro do Governo Regional da tutela setorial.
 
-> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é respristinado o artigo 340.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.
-
-> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 341.º — Partilha de benefícios
 
-1 - Nos contratos que configurem uma parceria pública-privada, sempre que ocorrer um acréscimo anormal e imprevisível dos benefícios financeiros para o co-contratante que não resulte da sua eficiente gestão e das oportunidades por si criadas, há lugar à partilha equitativa desses benefícios entre o co-contratante e o contraente público.
+1 - Nos contratos que configurem uma parceria público-privada, sempre que ocorrer um acréscimo anormal e imprevisível dos benefícios financeiros para o cocontratante que não resulte da sua eficiente gestão e das oportunidades por si criadas, há lugar à partilha equitativa desses benefícios entre o cocontratante e o contraente público.
 
-2 - Na falta de estipulação contratual, a partilha equitativa dos benefícios financeiros deve ser efectuada através da revisão de preços ou da assunção, por parte do co-contratante, do dever de prestar ao contraente público o valor correspondente ao acréscimo das receitas ou ao decréscimo dos encargos previstos com a execução do contrato.
+2 - Na falta de estipulação contratual, a partilha equitativa dos benefícios financeiros deve ser efetuada através da revisão de preços ou da assunção, por parte do cocontratante, do dever de prestar ao contraente público o valor correspondente ao acréscimo das receitas ou ao decréscimo dos encargos previstos com a execução do contrato.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 342.º — Acompanhamento de processos arbitrais
 
-1 - Quando, nos termos do contrato que configure uma parceria pública-privada, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o respectivo contraente público deve comunicar imediatamente ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso, a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo arbitral.
+1 - Quando, nos termos do contrato que configure uma parceria público-privada, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o respetivo contraente público deve comunicar imediatamente ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso, a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo arbitral.
 
-2 - Devem ser remetidas, periodicamente, à entidade directamente incumbida de proceder ao acompanhamento do respectivo processo arbitral cópias dos actos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareces técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
+2 - Devem ser remetidas, periodicamente, à entidade diretamente incumbida de proceder ao acompanhamento do respetivo processo arbitral cópias dos atos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareces técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ## Título II — Contratos administrativos em especial
 
@@ -8440,7 +8436,7 @@ A suspensão é sempre formalizada em auto, cujo conteúdo deve compreender, no 
 
 2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.
 
-3 - Quanto considere injustificada a não execução dos trabalhos a mais, o dono da obra pode:
+3 - Quanto considere injustificada a não execução dos trabalhos complementares, o dono da obra pode:
 
 a) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou
 
@@ -8454,9 +8450,9 @@ b) Optar pela execução dos trabalhos complementares, diretamente ou por interm
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.
 
-> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20
+> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.
 
-> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 373.º — Preço e prazo de execução dos trabalhos complementares
 
@@ -8908,7 +8904,7 @@ b) Se, tendo faltado à consignação sem justificação aceite pelo dono da obr
 
 c) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;
 
-d) Se o empreiteiro não der início à execução dos trabalhos a mais decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;
+d) Se o empreiteiro não der início à execução dos trabalhos complementares decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;
 
 e) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;
 
@@ -8916,19 +8912,21 @@ f) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um
 
 g) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;
 
-h) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º
+h) Se não foram corrigidos os defeitos detetados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º
 
 2 - Em caso de resolução, o dono da obra deve informar, no prazo de 10 dias após ato de resolução se tornar inimpugnável, o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., para publicitação de tal facto na área pública do portal dos contratos públicos, e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.
 
-3 - O Instituto da Construção e do Imobiliário, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.
+3 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.
 
-4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da actividade de construção.
+4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da atividade de construção.
 
 5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.
 
-> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20
+> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ###### Artigo 406.º — Resolução pelo empreiteiro
 
@@ -8938,7 +8936,7 @@ a) Se não for feita consignação da obra no prazo de seis meses contados da da
 
 b) Se, havendo sido feitas uma ou mais consignações parciais, o retardamento da consignação ou consignações subsequentes acarretar a interrupção dos trabalhos por mais de 120 dias, seguidos ou interpolados;
 
-c) Se, avaliados os trabalhos a mais, os trabalhos de suprimento de erros e omissões e os trabalhos a menos, relativos ao contrato e resultantes de actos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20  % do preço contratual;
+c) Se, avaliados os trabalhos complementares e os trabalhos a menos, relativos ao contrato e resultantes de atos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual;
 
 d) Se a suspensão da empreitada se mantiver:
 
@@ -8946,7 +8944,9 @@ i) Por período superior a um quinto do prazo de execução da obra, quando resu
 
 ii) Por período superior a um décimo do mesmo prazo, quando resulte de facto imputável ao dono da obra;
 
-e) Se, verificando-se os pressupostos do artigo 354.º, os danos do empreiteiro excederem 20  % do preço contratual.
+e) Se, verificando-se os pressupostos do artigo 354.º, os danos do empreiteiro excederem 20 % do preço contratual.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01.
 
 ### Capítulo II — Concessões de obras públicas e de serviços
 

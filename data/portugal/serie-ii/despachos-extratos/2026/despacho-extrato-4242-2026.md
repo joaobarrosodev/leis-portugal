@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-04-01'
+version_history:
+  file: despacho-extrato-4242-2026.versoes.json
+  count: 1
+  source_lastmod: '2026-11-12'
+  versions:
+  - date: '2026-04-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/4242-2026-1080170117
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/4242-2026-1080170117
-  consolidated_url: null
-  retrieved_at: '2026-10-26T12:06:27Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2026-1194937975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2026-1194937975
+  retrieved_at: '2026-11-20T13:52:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 6fce6a6159a19462c3e85dc34eefe321c630930ab8e111e5b1ba398cc14c78c8
+  source_sha256: 399e73c0db92c13ed75a6ae9ff7a8ba362cfdb4da49521a942da35da66adc589
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T12:06:27Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:28Z'
+  notes: 1 versão(ões); histórico completo em despacho-extrato-4242-2026.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,20 +91,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T12:06:27Z'
+  checked_at: '2026-11-20T13:52:28Z'
   warnings: []
   errors: []
 ---
 
 # Despacho (extrato) n.º 4242/2026
 
-Por despacho do Secretário de Estado Adjunto da Presidência e Imigração, de 16 de março de 2026, no uso das competências delegadas pelo Ministro da Presidência, através do Despacho n.º 10322/2025, publicado no Diário da República, 2.ª série, n.º 167, de 01 de setembro, nos termos e ao abrigo das disposições conjugadas dos artigos 12.º e 15.º do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro, a 22 de abril de 2000, aprovado para ratificação pela [Resolução da Assembleia da República n.º 83/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2000-583237), de 14 de dezembro, e ratificado pelo [Decreto do Presidente da República n.º 79/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/79-2000-583240), da mesma data, e do artigo 4.º e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 154/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), de 15 de julho, foi concedido, sob proposta fundamentada da Agência para a Integração, Migrações e Asilo, I. P., o Estatuto de Igualdade de Direitos e Deveres, aos seguintes cidadãos de nacionalidade brasileira:
+Por despacho do Secretário de Estado Adjunto da Presidência e Imigração, de 16 de março de 2026, no uso das competências delegadas pelo Ministro da Presidência, através do Despacho n.º 10322/2025, publicado no Diário da República, 2.ª série, n.º 167, de 01 de setembro, nos termos e ao abrigo das disposições conjugadas dos artigos 12.º e 15.º do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro, a 22 de abril de 2000, aprovado para ratificação pela Resolução da Assembleia da República n.º 83/2000, de 14 de dezembro, e ratificado pelo Decreto do Presidente da República n.º 79/2000, da mesma data, e do artigo 4.º e do n.º 1 do artigo 5.º do Decreto-Lei n.º 154/2003, de 15 de julho, foi concedido, sob proposta fundamentada da Agência para a Integração, Migrações e Asilo, I. P., o Estatuto de Igualdade de Direitos e Deveres, aos seguintes cidadãos de nacionalidade brasileira:
 
 Lista 48/2026
 
@@ -128,7 +138,7 @@ Lista 48/2026
 | Camila Felipe de Oliveira | 24/01/1995 |
 | Bianca dos Santos Santana | 30/09/1992 |
 | Lailton Cristiano Oliveira Goncalves da Silva | 13/09/1994 |
-| Sarah Winne Holanda | 23/04/1999 |
+| Sarah Winne Silva de Holanda | 23/04/1999 |
 | Matheus de Oliveira | 18/11/1999 |
 | Arthur José Vasconcelos Falcão | 17/11/1998 |
 | Wellington Ricardo Miranda | 20/03/1986 |
@@ -140,7 +150,3 @@ Lista 48/2026
 | Paloma Maeno Silva | 13/01/1982 |
 | Elisete dos Santos Cercal | 06/10/1991 |
 | Adriano Francisco da Silva | 26/02/1972 |
-
-25 de março de 2026. - O Presidente do Conselho Diretivo, Pedro Portugal Gaspar.
-
-319981469

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174028231:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2021-1194518875",
+ "dre_path": "/dr/detalhe/despacho-extrato/10978-2021-174028231",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2021-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194520675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194520675": {
+   "fragment_id": "1194520975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do disposto no n.º 2 do artigo 61.º da Lei n.º 5/2011, de 2 de março, autorizo a entidade abaixo indicada a aceitar a seguinte condecoração:\n\nGrande-Oficial da Ordem do Mérito da República da Lituânia\n\nEmbaixador Nuno Filipe Alves Salvador e Brito."
+  }
+ }
+}

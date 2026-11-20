@@ -1,0 +1,218 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275633:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1034997427",
+ "dre_path": "/dr/detalhe/portaria/134-1994-275633",
+ "source_lastmod": "2026-11-12",
+ "versions": [
+  {
+   "date": "2003-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505211:por",
+     "title": "Decreto-Lei n.º 205/2003",
+     "published": "2003-09-12",
+     "dre_path": "/dr/detalhe/decreto-lei/205-2003-505211"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1195160375",
+    "1195160575",
+    "1195160675",
+    "1195160775",
+    "1195160875",
+    "1195160975",
+    "1195161075",
+    "1195161175",
+    "1195161275",
+    "1195161375",
+    "1195161475",
+    "1195161575",
+    "1195161675",
+    "1195161775",
+    "1195161875",
+    "1195161975",
+    "1195162075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195160375": {
+   "fragment_id": "1037476575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "O Decreto-Lei n.º 239/92, de 29 de Outubro, estabelece as condições de comercialização dos materiais florestais de reprodução, nomeadamente quanto às suas características genéticas e qualidade exterior, quando destinados à florestação com o objectivo da produção de madeira.\n\nImporta, agora, definir as normas técnicas de execução desse diploma, nomeadamente no que se refere às condições de comercialização dos materiais florestais de reprodução.\n\nAssim:\n\nAo abrigo do artigo 2.º do Decreto-Lei n.º 239/92, de 29 de Outubro:\n\nManda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, o seguinte:\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195160575": {
+   "fragment_id": "1194342575",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento da Comercialização de Materiais Florestais de Reprodução, em anexo ao presente diploma e do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195160675": {
+   "fragment_id": "1194342775",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### 2.º\n\nA presente portaria produz efeitos desde o dia 27 de Dezembro de 1992.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195160775": {
+   "fragment_id": "1037476775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "Ministérios da Agricultura e do Comércio e Turismo.\n\nAssinada em 2 de Fevereiro de 1994.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195160875": {
+   "fragment_id": "1037476975",
+   "type": 14,
+   "heading": "Regulamento da Comercialização de Materiais Florestais de Reprodução",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Regulamento da Comercialização de Materiais Florestais de Reprodução\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195160975": {
+   "fragment_id": "1194344775",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Estão sujeitas ao disposto neste Regulamento:\n\na) As espécies de materiais florestais de reprodução enunciados no anexo I ao presente Regulamento desde a data de entrada em vigor;\n\nb) As espécies de particular interesse para Portugal referidas no anexo II, a partir de data a estipular nas portarias que estabelecerão as exigências mínimas aplicáveis à comercialização de materiais florestais de reprodução das mesmas.\n\n2 - Para os efeitos do presente Regulamento entende-se por:\n\na) Operadores: todas as pessoas, singulares ou colectivas, públicas ou privadas, portadoras de carteira profissional, atribuída nos termos do Estatuto do Produtor de Sementes, aptas a intervir na produção de sementes e ou plantas ou propágulos florestais certificados;\n\nb) Material de reprodução:\n\ni) Sementes: as pinhas, infrutescências, frutos e sementes destinadas à produção de plantas;\n\nii) Propágulos de plantas: as estacas ou partes de plantas susceptíveis de serem propagadas;\n\niii) Plantas jovens: as plantas provenientes de semente ou de propagação vegetativa, incluindo a regeneração natural;\n\nc) Material de base:\n\ni) Provoamentos e pomares de semente, para o material de reprodução sexuada;\n\nii) Clones e misturas de clones em proporções específicas, para o material de reprodução assexuada;\n\nd) Material de reprodução seleccionado: o proveniente de material de base oficialmente admitido de acordo com as exigências estabelecidas no anexo III ao presente Regulamento;\n\ne) Material de reprodução controlado: o resultado do material de base, testado de acordo com as exigências constantes do anexo IV ao presente Regulamento;\n\nf) Pomar de semente: a plantação de clones ou descendentes seleccionados, tendente a uma produção de semente, de colheita frequente, fácil e abundante, isolada contra toda a polinização estranha ou instalada por forma a evitá-la ou limitá-la;\n\ng) Valor de utilização melhorado: o conjunto das características genéticas que, globalmente consideradas em relação a testemunhas escolhidas nos termos do anexo IV, representam uma nítica melhoria para a silvicultura;\n\nh) Material de reprodução proveniente de pomares de sementes não testados: o proveniente de pomares de sementes oficialmente autorizados com base nas seguintes características:\n\ni) Os objectivos, esquemas de instalação, composição, localização e isolamento tenham sido aprovados pelo Instituto Florestal (IF);\n\nii) Os clones ou as suas progénies sejam plantadas de acordo com um esquema previamente aprovado e de modo a que cada componente possa ser devidamente identificado;\n\niii) Qualquer desbaste de uma família realizado nestes pomares de semente seja descrito, assim como o critério utilizado nestas operações;\n\niiii) Os pomares sejam geridos e a semente colhida por forma a cumprir os objectivos para os quais foram instalados;\n\ni) Proveniência: local determinado onde se encontra uma população de árvores autóctones ou não autóctones;\n\nj) Origem: local determinado onde se encontra uma população de árvores autóctones ou local de onde provém primitivamente uma população introduzida;\n\nl) Região de proveniência de uma espécie, subespécie ou variedade determinada: área de distribuição submetida a condições ecológicas praticamente uniformes, onde se encontram povoamentos com características fenotípicas ou genéticas análogas;\n\nm) A região de proveniência do material de reprodução produzido num pomar de sementes é a do material de base utilizado para a criação desse pomar;\n\nn) Primeira comercialização de material de reprodução de uma espécie, subespécie, variedade ou clone: acto de importar ou vender, pela primeira vez, praticado por um operador.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161075": {
+   "fragment_id": "1194344975",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Os materiais de reprodução das espécies referidas no anexo I só podem ser comercializados desde que correspondam às seguintes categorias:\n\na) Materiais de reprodução seleccionados ou controlados, no caso das espécies referidas no n.º 1 do anexo I;\n\nb) Materiais de reprodução controlados, no caso das espécies, variedades ou clones do género Populus.\n\n2 - Os materiais de reprodução das espécies referidas no anexo II só podem ser comercializados desde que correspondam a materiais de reprodução seleccionados ou controlados.\n\n3 - Excluem-se do disposto no número anterior os materiais de reprodução destinados a ensaios ou com fins científicos para trabalhos de florestação.\n\n4 - Admitem-se como materiais de reprodução seleccionados os materiais da base que, pelas suas características fenotípicas, sejam apropriados para reprodução e não revelem caracteres desfavoráveis para a silvicultura.\n\n5 - A admissão dos materiais referidos no número anterior faz-se em conformidade com o disposto no anexo III.\n\n6 - Os pomares de semente devem ser constituídos por uma única espécie que deve pertencer a uma só região de proveniência.\n\n7 - Para os materiais de base destinados à produção de materiais de reprodução seleccionados exige-se uma inscrição das respectivas regiões de proveniência, definidas por limites administrativos ou geográficos e com referência à altitude.\n\n8 - Admitem-se como materiais de reprodução controlados os materiais de base cujos materiais de reprodução possuam valor de utilização melhorado, resultante de ensaios efectuados de acordo com as exigências constantes do anexo IV, exigindo-se informações sobre as condições ecológicas dos locais em que os ensaios forem realizados e sua duração.\n\n9 - As exigências mínimas para as diferentes espécies são as fixadas no anexo V ao presente Regulamento.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161175": {
+   "fragment_id": "1194345175",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Anualmente, o IF estabelece as listas do material de base para as várias espécies aprovadas, das quais constará o material de reprodução seleccionado, controlado e proveniente de pomares de semente não testados.\n\n2 - Os critérios segundo os quais as listas são estabelecidas devem fixar-se de acordo com os n.os 4, 6, 7 e 8 do artigo anterior.\n\n3 - Das listas e suas modificações é imediatamente dado conhecimento à Comissão das Comunidades Europeias.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161275": {
+   "fragment_id": "1194345375",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 4.º\n\nCompete ao IF fiscalizar a aplicação dos critérios enunciados no artigo anterior e proceder à aprovação do material de base apresentado pelo proprietário, seu representante ou qualquer pessoa interessada na comercialização do material florestal de reprodução, quando o material em questão seja do domínio público.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161375": {
+   "fragment_id": "1194345575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Os materiais de reprodução devem ser, desde a colheita, acondicionamento e armazenagem, até ao transporte e utilização final, mantidos em lotes separados e identificados de acordo com os seguintes critérios:\n\na) Espécie, subespécie, variedade e clone;\n\nb) Categoria;\n\nc) Região de proveniência, para os materiais de reprodução seleccionados;\n\nd) Material de base, para materiais de reprodução controlados;\n\ne) Pomar de semente, para material de reprodução de pomares não testados;\n\nf) Materiais autóctones ou não autóctones;\n\ng) Ano de maturação das sementes;\n\nh) Tempo de permanência em seminário e ou em plantório.\n\n2 - Os materiais de reprodução devem, ainda, ser acompanhados de uma etiqueta ou de um documento do fornecedor que contenha, nomeadamente, as seguintes indicações:\n\na) Nome botânico da espécie, subespécie, variedade ou clone a que diz respeito;\n\nb) Designação do fornecedor responsável pelo lote;\n\nc) Quantidade;\n\nd) Designação «admissão provisória» para os materiais de reprodução provenientes de pomares de sementes não testados cujos materiais de base tenham sido admitidos de acordo com a alínea h) do n.º 2 do artigo 1.º;\n\ne) Quando o material de base se destine a outra finalidade que não a produção de madeira, deve vir designado «material de reprodução para ...», acrescido da indicação sobre o seu uso específico.\n\n3 - A etiqueta deve ser verde, para o material de reprodução seleccionado, e azul, para o material de reprodução controlado.\n\n4 - As sementes só podem ser comercializadas em embalagens fechadas, devendo o sistema de fecho garantir a sua inutilização depois da abertura.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161475": {
+   "fragment_id": "1194345875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Nenhum material de reprodução importado pode ser introduzido no País sem estar acompanhado de certificado oficial, conforme ao modelo constante do anexo VI a este Regulamento, passado por outro membro da Comunidade ou, quando se trate de um país terceiro, por um certificado equivalente.\n\n2 - A importação de material de reprodução de outro Estado membro ou de um país terceiro deve ser acompanhada das seguintes informações:\n\na) Natureza do produto;\n\nb) Espécie e, quando for caso disso, subespécie, variedade ou clone;\n\nc) Categoria;\n\nd) País produtor e respectivo serviço de controlo oficial;\n\ne) Região de proveniência, para os materiais de reprodução seleccionados;\n\nf) Material de base, para material de reprodução controlado;\n\ng) Pomar de sementes, para material de reprodução proveniente de pomar não testado;\n\nh) País expedidor;\n\ni) Importador;\n\nj) Quantidade;\n\nl) Ano de maturação das sementes;\n\nm) Materiais autóctones ou não autóctones.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161575": {
+   "fragment_id": "1037477175",
+   "type": 14,
+   "heading": "Anexo I — [A que se refere a alínea a) do n.º 1 do artigo 1.º]",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo I — [A que se refere a alínea a) do n.º 1 do artigo 1.º]\n\n1 - Materiais de reprodução sexuada de:\n\nAbies alba Mill. (Abies pectinata D. C.);\n\nLarix decidua Mill.;\n\nPicea abies Karst. (Picea excelsa Link.);\n\nPicea sitchensis Trautv. et Mey (Picea menziesii Carr.);\n\nPinus nigra Arn. (Pinus laricio Poir.);\n\nPinus silvestris L.;\n\nPinus strobus L.;\n\nPseudotsuga menziesii (Mirb.) Franco [Pseudotsuga taxifolia (Poir) Britt] (Pseudotsuga douglasii Carr.);\n\nQuercus rubra Du Roi (Quercus borealis Michx.);\n\nQuercus robur L. (Quercus pedunculata Ehrh.);\n\nQuercus sessiliflora Sal. (Quercus petraea Liebl.);\n\nFagus silvatica L.\n\n2 - Materais de reprodução vegetativa de Populus sp.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161675": {
+   "fragment_id": "1037477375",
+   "type": 14,
+   "heading": "Anexo II — [A que se refere a alínea b) do n.º 1 do artigo 1.º]",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo II — [A que se refere a alínea b) do n.º 1 do artigo 1.º]\n\nEspécies de particular interesse para Portugal:\n\nPinus pinaster Ait.;\n\nPinus pinea L.;\n\nQuercus suber L.;\n\nCastanea sativa Mill.;\n\nEucalyptus globulus Labill.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161775": {
+   "fragment_id": "1037477575",
+   "type": 14,
+   "heading": "Anexo III — [A que se refere a alínea d) do n.º 2 do artigo 1.º]",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo III — [A que se refere a alínea d) do n.º 2 do artigo 1.º]\n\nExigências relativas à admissão de materiais de base destinados à produção de materiais de reprodução seleccionados.\n\nA) Povoamentos\n\n1 - Materiais de base: são admitidos de preferência como materiais de base os povoamentos autóctones ou não autóctones que tenham dado prova do seu valor.\n\n2 - Localização: os povoamentos situados a uma distância suficiente de maus povoamentos da mesma espécie ou de povoamentos de uma espécie ou variedades susceptível de com eles hibridar.\n\nO critério de localização é particularmente importante desde que os povoamentos circundantes não sejam autóctones.\n\n3 - Homogeneidade: os povoamentos que apresentam uma variabilidade individual normal das características morfológicas.\n\n4 - Produção em volume: a produção em volume é muitas vezes um dos critérios essenciais de admissão, devendo ser superior àquela que se considera como média para as mesmas condições ecológicas.\n\n5 - Qualidade tecnológica: a qualidade é tomada em consideração, podendo, em certos casos, ser um critério essencial.\n\n6 - Forma: os povoamentos devem apresentar caracteres morfológicos particularmente favoráveis, nomeadamente no que respeita à rectidão do tronco, à disposição e finura dos ramos e à desramação natural, devendo apresentar reduzida frequência de bifurcações e de fio espiralado.\n\n7 - Estado sanitário e resistência: os povoamentos que, de uma maneira geral, se apresentem sãos e na sua estação demonstrem boa resistência aos organismos nocivos e a influências exteriores desfavoráveis.\n\n8 - Efectivo da população: os povoamentos que comportem um ou vários conjuntos de árvores que permitam manter uma interfecundação suficiente. Para evitar os efeitos desfavoráveis da consanguinidade, os povoamentos devem apresentar um número suficiente de indivíduos numa superfície mínima.\n\n9 - Idade: os povoamentos cujas árvores tenham atingido uma idade susceptível de permitir uma apreciação clara dos critérios enumerados acima.\n\nB) Pomares de sementes\n\nOs pomares de sementes devem ser estabelecidos de tal modo que exista uma garantia suficiente para que as sementes ali produzidas representem, pelo menos, as qualidades genéticas médias dos materiais de base donde provêm os pomares de sementes.\n\nC) Clones\n\nSão aplicáveis os n.os 4, 5, 6, 7 e 9 da parte A).\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161875": {
+   "fragment_id": "1037477775",
+   "type": 14,
+   "heading": "Anexo IV — [A que se refere a alínea e) do n.º 2 do artigo 1.º]",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo IV — [A que se refere a alínea e) do n.º 2 do artigo 1.º]\n\nExigências para ensaios comparativos efectuados com vista à admissão de materiais de base destinados à produção de materiais de reprodução controlados.\n\n1 - Generalidades:\n\n1.1 - Os ensaios efectuados com vista a permitir a admissão de materiais de base são preparados, instalados, conduzidos e os seus resultados interpretados de modo a permitir comparar objectivamente os materiais de reprodução entre si e em relação a uma ou várias testemunhas previamente escolhidas.\n\n1.2 - Serão tomadas todas as disposições para garantir que os materiais de reprodução, incluindo as testemunhas, sejam representativos dos materiais de base estudados.\n\n1.3 - Se, no decorrer dos ensaios, resultar a prova de que os materiais de reprodução não correspondem, pelo menos, às características:\n\nDe identificação do seu material base, são desde logo eliminados;\n\nDe resistência do material base aos organismos de importância economicamente nociva, podem ser eliminados.\n\n2 - Instalação dos dispositivos experimentais:\n\n2.1 - Os materiais de reprodução são instalados, quer em viveiros, quer no local definido, segundo dispositivos experimentais casualizados, incluindo repetições, por forma a permitir o controlo das diferentes causas de variabilidade genética e do meio, assim como as interacções e os erros experimentais.\n\n2.2 - As parcelas unitárias compreendem um número de árvores suficiente que permita a avaliação das características próprias de cada material a examinar.\n\n2.3 - Os materiais de base representados e as repetições são em número suficiente para assegurar um grau satisfatório de rigor estatístico.\n\n3 - Gestão dos dispositivos:\n\n3.1 - Os materiais de reprodução, compreendendo as testemunhas, são tratados, quer sejam sementes ou estacas, quer estejam em viveiros ou no local definitivo e até ao fim dos ensaios, de forma idêntica quanto a adubação, limpeza, desramações e a qualquer outro método de cultura e manutenção.\n\n3.2 - No que respeita aos desbastes, o método aplicado deve ter em conta o desenvolvimento de cada material de reprodução.\n\n4 - Condições de escolha e colheita dos materiais de reprodução submetidos a ensaios, compreendendo as testemunhas:\n\n4.1 - Os materiais de base devem:\n\na) Ser bem definidos quanto à proveniência, constituição e composição e ter isolamento suficiente contra polinizações estranhas;\n\nb) Ter idade e desenvolvimento tais que permitam revelar estabilidade suficiente quanto às características do material de reprodução.\n\n4.2 - Os materiais de reprodução sexuada são colhidos:\n\na) Ao longo dos anos com boa floração e frutificação a menos que tenha sido efectuada uma polinização artificial;\n\nb) Segundo métodos que permitam assegurar que as amostras obtidas são representantivas.\n\n4.3 - Os materiais de reprodução vegetativa provêm, por via vegetativa, de um único indivíduo.\n\n5 - Condições suplementares para testemunhas:\n\n5.1 - As testemunhas devem, tanto quanto possível, ser conhecidas na região do ensaio durante um período suficientemente longo. São, em princípio, materiais que deram provas no aspecto da silvicultura da espécie, nomeadamente nas condições ecológicas propostas para admissão do material. Provêm, tanto quanto possível, de materiais de base admitidos.\n\n5.2 - No caso de materiais de base sexuados, podem igualmente servir como testemunhas os clones ou os descendentes de polinizações controladas.\n\n5.3 - Podem ser utilizadas várias testemunhas. Em caso de necessidade justificada, uma testemunha pode ser substituída por aquele dos materiais submetidos a ensaios que pareça mais adequado.\n\n5.4 - As mesmas testemunhas são utilizadas no maior número de ensaios possível.\n\n6 - Caracteres submetidos a exame:\n\n6.1 - São submetidos a exame:\n\nCaracteres de identificação, no que respeita a materiais de base;\n\nCaracteres de comportamento;\n\nCaracteres de produção.\n\n6.2 - Os caracteres de identificação, no que respeita a materiais de base, são apresentados em forma de ficha descritiva suficientemene completa.\n\n6.3 - Relativamente aos caracteres de comportamento e de produção, o exame incide normalmente no crescimento, adaptação e resistência a factores abióticos e a organismos nocivos de importância económica. Além disso, outras características consideradas importantes, tendo em vista o objectivo perseguido, serão abrangidas e avaliadas em função das condições ecológicas da região do ensaio.\n\n7 - Análise dos resultados e avaliação:\n\n7.1 - Os resultados dos ensaios, no que respeita às características de comportamento e de produção, são apresentados sob a forma de dados numéricos e separadamente para cada carácter avaliado, tendo em conta o determinado no n.º 6.3. Os caracteres são apreciados independentemente uns dos outros.\n\n7.2 - A análise determina a classificação para cada característica de comportamento e de produção e para cada meio estudado, indicando os valores de cada material de reprodução, na base da média e, eventualmente, da variância intramaterial.\n\nÉ indicado o nível de significância das diferenças. A diferença, tanto em valor absoluto como relativo, é expressa em termos de ganho genético em relação à testemunha.\n\nÉ indicada a idade do material de reprodução no momento da avaliação da característica.\n\n7.3 - Por comparação com as testemunhas, constatar-se-á superioridade significativa do ponto de vista económico e estatístico (ao nível de significância de 95%) em relação a, pelo menos, um dos caracteres avaliados em conformidade com o estabelecido no n.º 6.3.\n\nDesde que a superioridade seja constatada apenas por um carácter, os valores de, pelo menos, dois outros caracteres avaliados, de acordo com o n.º 6.3 devem ser iguais ou superiores aos valores médios das testemunhas para estes dois caracteres.\n\nDevem ser indicados claramente os caracteres avaliados, de acordo com o n.º 6.3, que sejam significativamente (ao nível de 95%) inferiores aos das testemunhas. Todavia, se os seus efeitos forem susceptíveis de ser compensados por outros caracteres favoráveis, tal deve ser invocado.\n\n7.4 - Desde que o ensaio tenha como finalidade a admissão de um material base relativamente apenas a um carácter considerado como essencial para a sobrevivência em condições ecológicas extremas, a condição de igualação do valor dos outros caracteres ao valor médio das testemunhas não é exigida.\n\n7.5 - A metodologia seguida para o ensaio bem como a relação dos resultados obtidos são acessíveis a todas as pessoas com comprovado interesse na matéria.\n\n8 - Testes precoces:\n\nOs testes juvenis em viveiro, em local defintivo e em laboratório são admitidos como testes precoces válidos, se for demonstrado que existe uma correlação estreita entre os valores dos caracteres apreciados no estado juvenil e no decorrer dos estádios de desenvolvimento ulteriores.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195161975": {
+   "fragment_id": "1037477975",
+   "type": 14,
+   "heading": "Anexo V — [A que se refere o n.º 9 do artigo 2.º]",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo V — [A que se refere o n.º 9 do artigo 2.º]\n\nI - Condições a que devem obedecer as sementes\n\n1.1 - Os frutos e sementes devem responder, no que respeita à pureza específica, às seguintes condições:\n\n(ver documento original)\n\n1.2 - A presença de organismos nocivos reduzindo o valor de utilização das sementes só é tolerado no mais baixo nível possível.\n\nII - Condições a que devem obedecer os propágulos de plantas\n\n2.1 - Populus sp. - Os lotes terão de comportar, pelo menos, 95% de propágulos de plantas com valor comercial.\n\nO valor comercial é determinado por critérios de conformação e de estado sanitário, assim como, se for o caso, por critérios de dimensão.\n\n2.1.1 - Conformação e estado sanitário. - São consideradas como não tendo valor comercial os propágulos de plantas:\n\na) De lenho não atempado;\n\nb) De lenho com mais de dois períodos vegetativos;\n\nc) Que apresentem anomalias de forma, tais como bifurcação, ramificação, curvatura excessiva;\n\nd) Que tenham menos de dois gomos bem conformados;\n\ne) Cujas secções não sejam planas;\n\nf) Parcial ou totalmente secas, com feridas ou cuja casca esteja separada do lenho;\n\ng) Que apresentem necroses ou danos causados por organismos nocivos;\n\nh) Que apresentem qualquer outra alteração que diminua o seu valor para a multiplicação.\n\nOs critérios enunciados nas alíneas a), b), c) e d) não se aplicam nem às estacas radiculares, nem às estacas herbáceas.\n\n2.1.2 - Dimensões mínimas. - Os critérios que estabelecem as dimensões apenas se aplicam aos propágulos de plantas da secção Aigeiros, exceptuando as estacas radiculares e as estacas herbáceas:\n\nComprimento mínimo: 20 cm;\n\nDiâmetro mínimo na extremidade:\n\nClasse 1/CEE: 8 mm;\n\nClasse 2/CEE: 10 mm.\n\n2.2 - Outras espécies florestais, excluindo as do género Populus. - Os lotes terão de comportar, pelo menos, 95% de propágulos de plantas com valor comercial.\n\nSão consideradas como não tendo valor comercial os propágulos de plantas:\n\na) Que apresentem defeitos de conformação ou vigor insuficiente;\n\nb) Cujas secções não sejam planas;\n\nc) Cuja idade ou dimensão as tornem impróprias para a multiplicação;\n\nd) Parcial ou totalmente secas ou com feridas, salvo as que resultem de podas culturais;\n\ne) Que apresentem necroses ou danos causados por organismos nocivos;\n\nf) Que apresentem qualquer outra alteração que diminua o seu valor para a multiplicação.\n\nTodos estes critérios devem ser apreciados em função das espécies ou dos clones considerados.\n\nIII - Condições a que devem obedecer as plantas\n\n3 - Os lotes terão de comportar, pelo menos, 95% de plantas com valor comercial.\n\nO valor comercial é determinado por critérios de conformação, estado sanitário, idade e dimensões.\n\n3.1 - Conformação e estado sanitário. - O quadro abaixo indica, para cada género e espécies consideradas, os defeitos que não conferem às plantas valor comercial. Todos os critérios devem ser apreciados em função da espécie ou do clone considerado, bem como em função da aptidão dos materiais de reprodução para a arborização:\n\n(ver documento original)\n\n3.2 - Idade e dimensões.\n\n3.2.1 - Espécies florestais excluindo as do género Populus.\n\n3.2.1.1 - Campo de aplicação. - Os critérios relativos à idade e às dimensões das plantas só são aplicáveis às plantas repicadas.\n\n3.2.1.2 - Normas mínimas CEE (idade e dimensões):\n\n(ver documento original)\n\n3.2.2 - Populus.\n\n3.2.2.1 - Campo de aplicação. - As normas relativas às dimensões só são aplicáveis às plantas de Populus, secção Aigeiros.\n\n3.2.2.2 - Idade das plantas. - A idade máxima admitida é de quatro anos para o caule e de cinco anos para a raiz.\n\n3.2.2.3 - Classes de dimensões:\n\na) Regiões não mediterrânicas\n\n(ver documento original)\n\nb) Regiões mediterrânicas\n\n(ver documento original)\n\n> Nota: [Diploma, Portaria n.º 79/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/79-1998-209839) As alíneas f) e o) do n.º 3.2.1.2 do presente anexo, passem a ter a seguinte redacção: «f) Caule e ramos não completamente atempados; ... o) Plantas apresentando indícios de aquecimento, de fermentação ou de bolor em consequência do acondicionamento em viveiro.»\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  },
+  "1195162075": {
+   "fragment_id": "1037478175",
+   "type": 14,
+   "heading": "Anexo VI — Certificado de proveniência",
+   "in_force_from": "2003-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+   ],
+   "markdown": "## Anexo VI — Certificado de proveniência\n\n(A que se refere o n.º 1 do artigo 6.º)\n\nCertificado de identidade\n\nN.º ...\n\n... (País)\n\nCertifica-se que o material florestal de reprodução abaixo descrito foi controlado pelos serviços habilitados e que, verificados e analisados os documentos, corresponde às indicações a seguir discriminadas:\n\n1 - Natureza do produto: sementes/propágulos de plantas/plantas (ver nota *).\n\n2 - Espécie, subespécie, variedade, clone (ver nota *):\n\na) Designação comum: ...\n\nb) Designação botânica: ...\n\n3 - Categoria: materiais de reprodução seleccionados/materiais de reprodução controlados (ver nota *).\n\n4 - a) Região de proveniência e eventualmente proveniência (para os materiais seleccionados e controlados): ...\n\nb) Material de base (para os materiais controlados): ...\n\nc) Autóctone/introduzido de ... (origem)/desconhecida (ver nota *).\n\n5 - Natureza do material base: povoamento/clones/pomares de sementes (ver nota *).\n\n6 - a) Ano de maturação das sementes ...\n\nb) Permanência em viveiro no seminário/planta multiplicada por via vegetativa/planta repicada (ver nota *) ...\n\n7 - Quantidade: ...\n\n8 - Número de embalagens e seu tipo ...\n\n9 - Marca da embalagem: ...\n\n10 - Indicações suplementares: ...\n\n... (lugar e data).\n\nCarimbo ou selo do serviço ... (assinatura).\n\n... (função).\n\n(nota *) Riscar o que não interessa.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-13."
+  }
+ },
+ "unavailable_dates": [
+  "1994-03-04"
+ ]
+}

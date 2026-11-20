@@ -38,10 +38,21 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-12'
+version_history:
+  file: decreto-lei-91-2020.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2026-11-12'
+    amending: pt:dre:1194495725:por
+    amending_title: Decreto-Lei n.º 215/2026
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 19.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/91/2020/10/20/p/dre/pt/html
@@ -54,20 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2020/10/20/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116
-  consolidated_url: null
-  retrieved_at: '2026-10-23T03:41:33Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-145900460
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-145900460
+  retrieved_at: '2026-11-20T13:51:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 0b7b23384122dc3d6a51e4557d5821070d25038db4f650ecf7e6d54e47f89b58
+  source_sha256: bbcaf150ef8fa4559571ad263f2b83cfa152f2a7c99371083260b303e76703e1
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T03:41:33Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:13Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-91-2020.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,6 +126,11 @@ subjects:
 - União Europeia
 - Veículo
 relationships:
+- type: amended_by
+  target: pt:dre:1194495725:por
+  label: Adita Artigo 8.º-A; Adita Artigo 19.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725
+  date: '2026-11-11'
 - type: cites
   target: celex:32008D0768
   label: null
@@ -191,56 +208,26 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 58
-  section_count: 9
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 60
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T03:41:33Z'
+  checked_at: '2026-11-20T13:51:13Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 91/2020
 
-de 20 de outubro
-
-O [Decreto-Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), de 17 de fevereiro, estabeleceu as condições técnicas que contribuem para o aumento da segurança do sistema ferroviário e de circulação segura e sem interrupção de comboios, transpondo as [Diretivas 2008/57/CE](http://data.europa.eu/eli/dir/2008/57/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de junho de 2008, [2008/110/CE](http://data.europa.eu/eli/dir/2008/110/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, e [2009/131/CE](http://data.europa.eu/eli/dir/2009/131/oj?locale=pt), da Comissão, de 16 de outubro de 2009, contribuindo para o bom desempenho e qualidade do sistema ferroviário.
-
-Por razões de clareza, para que todos beneficiassem das vantagens decorrentes da criação de um espaço ferroviário europeu único, a [Diretiva 2008/57/CE](http://data.europa.eu/eli/dir/2008/57/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de junho de 2008, foi revogada e substituída pela [Diretiva (UE) 2016/797](http://data.europa.eu/eli/dir/2016/797/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio de 2016, que tem como objetivo incentivar a interconexão e a interoperabilidade das redes ferroviárias nacionais, bem como o acesso a essas redes, executar todas as medidas necessárias para a harmonização das normas técnicas e, ainda, facilitar, melhorar e desenvolver os serviços internacionais de transporte ferroviário na União Europeia e com os Estados terceiros e contribuir para a criação gradual do mercado da União Europeia dos equipamentos e serviços de construção, renovação, adaptação e exploração do sistema ferroviário, reduzindo os custos e a duração dos procedimentos de autorização e aumentando a segurança ferroviária.
-
-Deste modo, o presente decreto-lei fixa as condições técnicas e procedimentais relativas à conceção, construção, entrada em serviço de instalações fixas, colocação no mercado de veículos ferroviários, readaptação e renovação, operação e manutenção dos subsistemas que constituem o sistema ferroviário, designadamente a infraestrutura, energia, controlo-comando e sinalização de via e de bordo, exploração e gestão do tráfego, manutenção e aplicações telemáticas para os serviços de transporte ferroviário de passageiros e de mercadorias, estabelecendo, ainda, as especificações técnicas que devem ser cumpridas pelos vários subsistemas.
-
-No sentido de reforçar a competitividade do setor ferroviário da União Europeia, a Agência Ferroviária da União Europeia, doravante designada por Agência, criada pelo [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio de 2016 [[Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt)], e as autoridades nacionais de segurança ferroviária assumem a responsabilidade pelas autorizações que emitem.
-
-A autoridade nacional de segurança responsável pela aplicação das normas relativas à interoperabilidade fixadas no presente decreto-lei é o Instituto da Mobilidade e dos Transportes, I. P. A autoridade notificadora nacional é o Instituto Português da Qualidade, I. P., que irá proceder à instauração e execução dos procedimentos necessários para a notificação dos organismos de avaliação da conformidade, enquanto a avaliação e a monitorização desses organismos serão feitas pelo Instituto Português de Acreditação, I. P., como organismo nacional de acreditação.
-
-As autoridades nacionais de segurança e a Agência definem os requisitos essenciais de interoperabilidade ferroviária, elaborando as especificações técnicas de interoperabilidade (ETI), promovendo a qualidade dos serviços ferroviários na União Europeia, através da compatibilidade das características da rede, incluindo as partes dos subsistemas, e as características dos veículos.
-
-A elaboração de novas ETI tem como objetivo assegurar a compatibilidade com os subsistemas existentes, evitando custos adicionais desnecessários que exijam a adaptação ou renovação dos subsistemas existentes para assegurar a sua compatibilidade e, caso não seja possível essa compatibilidade, é estabelecido o quadro de decisão para uma nova autorização de entrada em serviço ou de colocação no mercado. Em caso de adaptação ou renovação de infraestruturas, o requerente pode apresentar, através do balcão único da Agência, previsto no [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), o pedido à autoridade nacional de segurança, para que esta possa determinar se é necessária uma nova autorização com base nos critérios estabelecidos no presente decreto-lei. No caso de adaptação ou renovação de veículos que dispõem de uma autorização de colocação no mercado, o requerente solicita uma nova autorização à autoridade de segurança nacional ou à Agência. Após a entrada em serviço ou a colocação no mercado de um subsistema deve ser garantida a sua exploração e manutenção em conformidade com os requisitos especiais aplicáveis.
-
-O presente decreto-lei procura, ainda, clarificar quais as entidades adjudicantes para a encomenda do projeto, a construção, a renovação ou adaptação de um subsistema, que podem ser uma empresa ferroviária, o gestor de infraestrutura, uma entidade responsável pela manutenção, um detentor ou o concessionário responsável pela execução de um projeto. Todavia, estas entidades devem definir as especificações suplementares necessárias para completar as especificações europeias ou normas nacionais.
-
-A [Diretiva (UE) 2016/797](http://data.europa.eu/eli/dir/2016/797/oj?locale=pt) altera igualmente as regras relativas à avaliação das soluções técnicas sobre os equipamentos de via do Sistema Europeu de Gestão do Tráfego Ferroviário (European Rail Traffic Management System - ERTMS), as quais são avaliadas pela Agência antes do lançamento ou publicação de qualquer concurso público.
-
-A fim de facilitar a colocação de veículos no mercado e procurar reduzir os encargos administrativos é introduzida a noção de autorização de colocação no mercado, válida em toda a União Europeia.
-
-Excluídos do âmbito de aplicação do presente decreto-lei ficaram os metropolitanos, os elétricos e outros sistemas de metropolitano ligeiro, que, em virtude de estarem sujeitos a requisitos técnicos nacionais, devem integrar um outro quadro regulatório, pelo que não são interoperáveis de acordo com as presentes regras e condições.
-
-O presente regime apresenta vantagens para os cidadãos e para as empresas, diminui as barreiras para o normal e pleno funcionamento do mercado de veículos ferroviários, facilita o acesso dos operadores e, deste modo, desenvolve os serviços de transporte ferroviário internacional, contribui para o aumento da segurança do funcionamento do sistema ferroviário e da qualidade de serviço deste modo de transporte, melhora os requisitos de ordem técnica e simplifica os procedimentos administrativos, potenciando o incremento da economia.
-
-Assim:
-
-Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
-
-### CAPÍTULO I — Disposições gerais
+### Capítulo I — Disposições gerais
 
 ###### Artigo 1.º — Objeto
 
-1 - O presente decreto-lei transpõe para a ordem jurídica interna a [Diretiva (UE) 2016/797](http://data.europa.eu/eli/dir/2016/797/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à interoperabilidade do sistema ferroviário na União Europeia, fixando as condições a cumprir para a interoperabilidade do sistema ferroviário da União Europeia de forma compatível com a legislação aplicável à segurança ferroviária.
+1 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva (UE) 2016/797, do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à interoperabilidade do sistema ferroviário na União Europeia, fixando as condições a cumprir para a interoperabilidade do sistema ferroviário da União Europeia de forma compatível com a legislação aplicável à segurança ferroviária.
 
 2 - As condições referidas no número anterior são as relativas à conceção, construção, entrada em serviço, adaptação, renovação, exploração e manutenção dos elementos do referido sistema, bem como às qualificações profissionais e às condições de saúde e de segurança do pessoal que participa na sua exploração e manutenção.
 
@@ -280,7 +267,7 @@ c) Sem prejuízo do disposto no artigo 22.º, no caso de exploração transfront
 
 Para efeitos do presente decreto-lei, entende-se por:
 
-a) «Acreditação» uma acreditação na aceção do ponto 10) do artigo 2.º do [Regulamento (CE) n.º 765/2008](http://data.europa.eu/eli/reg/2008/765/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de julho de 2008 [[Regulamento (CE) n.º 765/2008](http://data.europa.eu/eli/reg/2008/765/oj?locale=pt)];
+a) «Acreditação» uma acreditação na aceção do ponto 10) do artigo 2.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008 [Regulamento (CE) n.º 765/2008];
 
 b) «Adaptação» uma modificação importante num subsistema ou numa das suas partes que provoca uma alteração do processo técnico que acompanha a declaração CE de verificação, se esse processo técnico existir, e que melhora o desempenho global do subsistema;
 
@@ -300,7 +287,7 @@ i) «Componente de interoperabilidade» um componente elementar, um grupo de com
 
 j) «Detentor» uma pessoa singular ou coletiva que explora um veículo enquanto meio de transporte, quer seja proprietário do veículo quer tenha o direito de o utilizar, registada como tal num registo de veículos a que se refere o artigo 45.º;
 
-k) «Empresa ferroviária» uma empresa ferroviária na aceção da alínea m) do artigo 3.º do [Decreto-Lei n.º 217/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), de 7 de outubro, na sua redação atual, e qualquer outra empresa pública ou privada cuja atividade consista em prestar serviços de transporte ferroviário de mercadorias e/ou passageiros, devendo a tração ser obrigatoriamente garantida pela empresa, incluindo as empresas que apenas efetuam a tração;
+k) «Empresa ferroviária» uma empresa ferroviária na aceção da alínea m) do artigo 3.º do Decreto-Lei n.º 217/2015, de 7 de outubro, na sua redação atual, e qualquer outra empresa pública ou privada cuja atividade consista em prestar serviços de transporte ferroviário de mercadorias e/ou passageiros, devendo a tração ser obrigatoriamente garantida pela empresa, incluindo as empresas que apenas efetuam a tração;
 
 l) «Entidade adjudicante» uma entidade, pública ou privada, que encomenda o projeto e/ou a construção, a renovação ou a adaptação de um subsistema;
 
@@ -310,11 +297,11 @@ n) «Entrada em serviço» o conjunto das operações através das quais um subs
 
 o) «Especificação europeia» uma especificação incluída numa das categorias seguintes:
 
-i) Uma especificação técnica comum, na aceção do anexo vii do Código dos Contratos Públicos (CCP), aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual;
+i) Uma especificação técnica comum, na aceção do anexo vii do Código dos Contratos Públicos (CCP), aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual;
 
 ii) Uma especificação emitida em conformidade com uma norma nacional que transponha uma norma europeia, uma homologação técnica europeia, uma especificação técnica comum, uma norma internacional ou um sistema técnico de referência estabelecido por um organismo de normalização europeu, conforme disposto no artigo 49.º do CCP; ou
 
-iii) Uma norma europeia na aceção da alínea b) do n.º 1 do artigo 2.º do [Regulamento (UE) n.º 1025/2012](http://data.europa.eu/eli/reg/2012/1025/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de outubro de 2012 [[Regulamento (UE) n.º 1025/2012](http://data.europa.eu/eli/reg/2012/1025/oj?locale=pt)];
+iii) Uma norma europeia na aceção da alínea b) do n.º 1 do artigo 2.º do Regulamento (UE) n.º 1025/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012 [Regulamento (UE) n.º 1025/2012];
 
 p) «Especificação técnica» um documento que estabelece as prescrições técnicas que um produto, um subsistema, um processo ou um serviço tem de satisfazer;
 
@@ -324,7 +311,7 @@ r) «Estado de funcionamento nominal» o modo de exploração normal e a degrada
 
 s) «Fabricante» uma pessoa singular ou coletiva que fabrica ou manda projetar ou fabricar um produto sob a forma de componentes de interoperabilidade, de subsistemas ou de veículos, e que o comercializa com o seu próprio nome ou com a sua marca;
 
-t) «Gestor de infraestrutura» um gestor da infraestrutura na aceção da alínea r) do artigo 3.º do [Decreto-Lei n.º 217/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), de 7 de outubro, na sua redação atual;
+t) «Gestor de infraestrutura» um gestor da infraestrutura na aceção da alínea r) do artigo 3.º do Decreto-Lei n.º 217/2015, de 7 de outubro, na sua redação atual;
 
 u) «Interoperabilidade» a capacidade do sistema ferroviário para permitir a circulação segura e sem interrupção de comboios que cumpram os níveis de desempenho exigidos;
 
@@ -332,7 +319,7 @@ v) «Mandatário» uma pessoa, singular ou coletiva, estabelecida na União Euro
 
 w) «Metropolitano ligeiro» um sistema de transporte ferroviário urbano e/ou suburbano com uma capacidade de resistência ao choque C-III ou C-IV (em conformidade com a norma EN 15227:2020) e uma resistência máxima do veículo de 800 kN (força de compressão longitudinal na zona de acoplamento), podendo os sistemas de metropolitano ligeiro ter vias de circulação próprias ou partilhar vias de circulação com o tráfego rodoviário, e habitualmente os seus veículos não são intercambiáveis com os utilizados no tráfego de passageiros ou mercadorias de longo curso;
 
-x) «Norma harmonizada» uma norma europeia na aceção da alínea c) do n.º 1 do artigo 2.º do [Regulamento (UE) n.º 1025/2012](http://data.europa.eu/eli/reg/2012/1025/oj?locale=pt);
+x) «Norma harmonizada» uma norma europeia na aceção da alínea c) do n.º 1 do artigo 2.º do Regulamento (UE) n.º 1025/2012;
 
 y) «Organismo de avaliação da conformidade» um organismo notificado ou designado como responsável pelas atividades de avaliação da conformidade, nomeadamente calibração, ensaio, certificação e inspeção, sendo que:
 
@@ -340,7 +327,7 @@ i) Um organismo de avaliação da conformidade é classificado como «organismo 
 
 ii) Um organismo de avaliação da conformidade é classificado como «organismo designado» na sequência de designação por um Estado-Membro;
 
-z) «Organismo nacional de acreditação» um organismo nacional de acreditação na aceção do ponto 11) do artigo 2.º do [Regulamento (CE) n.º 765/2008](http://data.europa.eu/eli/reg/2008/765/oj?locale=pt);
+z) «Organismo nacional de acreditação» um organismo nacional de acreditação na aceção do ponto 11) do artigo 2.º do Regulamento (CE) n.º 765/2008;
 
 aa) «Parâmetros fundamentais» as condições regulamentares, técnicas ou operacionais determinantes para a interoperabilidade, especificadas nas ETI aplicáveis;
 
@@ -388,7 +375,7 @@ ss) «Veículo» um veículo ferroviário apto a circular sobre rodas em linhas 
 
 O sistema ferroviário da União Europeia, os subsistemas e os componentes de interoperabilidade, incluindo as interfaces, devem satisfazer os requisitos essenciais aplicáveis.
 
-### CAPÍTULO II — Especificações técnicas de interoperabilidade
+### Capítulo II — Especificações técnicas de interoperabilidade
 
 ###### Artigo 5.º — Conteúdo das especificações técnicas de interoperabilidade
 
@@ -412,7 +399,7 @@ c) Definir as especificações funcionais e técnicas que o subsistema e as suas
 
 d) Determinar os componentes de interoperabilidade e as interfaces que devem ser objeto de especificações europeias, incluindo normas europeias, necessários para a interoperabilidade do sistema ferroviário da União Europeia;
 
-e) Indicar, em cada caso, e com base nos módulos definidos na [Decisão 2010/713/UE](http://data.europa.eu/eli/dec/2010/713/oj?locale=pt), da Comissão, de 9 de novembro de 2010 ([Decisão 2010/713/UE](http://data.europa.eu/eli/dec/2010/713/oj?locale=pt)), os procedimentos que devem ser utilizados para avaliar a conformidade ou a aptidão para utilização dos componentes de interoperabilidade, por um lado, ou para proceder à verificação CE dos subsistemas, por outro;
+e) Indicar, em cada caso, e com base nos módulos definidos na Decisão 2010/713/UE, da Comissão, de 9 de novembro de 2010 (Decisão 2010/713/UE), os procedimentos que devem ser utilizados para avaliar a conformidade ou a aptidão para utilização dos componentes de interoperabilidade, por um lado, ou para proceder à verificação CE dos subsistemas, por outro;
 
 f) Indicar a sua estratégia de aplicação, precisando, nomeadamente, as fases a completar, face ao custo e vantagens previsíveis e ao impacto esperado a nível das partes interessadas afetadas, de forma que o cumprimento das ETI seja a norma, e incluindo, quando seja necessária uma aplicação coordenada da ETI, por exemplo, ao longo de um corredor ou entre os gestores de infraestrutura e as empresas ferroviárias, propostas para uma conclusão faseada;
 
@@ -472,7 +459,23 @@ e) A projetos de subsistemas novos ou a projetos de renovação ou adaptação d
 
 8 - Na falta de decisão da Comissão Europeia no prazo de quatro meses a contar da apresentação do pedido, acompanhado do processo completo, considera-se que o pedido foi deferido.
 
-### CAPÍTULO III — Componentes de interoperabilidade
+###### Artigo 8.º-A — Não aplicação de regras técnicas nacionais
+
+1 - Podem ser apresentados à AMT pedidos de não aplicação de regras técnicas nacionais nos projetos de subsistemas novos ou às suas partes, à renovação ou adaptação de subsistemas existentes, ou a qualquer dos elementos referidos no n.º 2 do artigo 1.º, devidamente fundamentados, tendo por base o seguinte:
+
+a) Encontrarem-se em estado de desenvolvimento avançado ou que sejam objeto de contratos em execução à data de aplicação das regras nacionais em causa;
+
+b) Quando a aplicação das regras nacionais em causa comprometer a viabilidade económica do projeto.
+
+2 - Nos casos previstos no número anterior, o requerente deve apresentar:
+
+a) Medidas alternativas que comprovem a manutenção do nível global de segurança, mediante a realização de uma análise de segurança que demonstre a minimização dos riscos para um nível aceitável;
+
+b) Análise de riscos, com as medidas mitigadoras dos mesmos, eventual exportação de riscos para terceiros e a aceitação desses riscos por estes.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
+### Capítulo III — Componentes de interoperabilidade
 
 ###### Artigo 9.º — Condições de colocação de componentes de interoperabilidade no mercado
 
@@ -532,11 +535,11 @@ c) De deficiência das especificações europeias.
 
 3 - Após a consulta das partes, o IMT, I. P., é informado, no prazo máximo de 20 dias a contar do início do processo, da decisão da Agência relativamente à justificação das medidas adotadas.
 
-4 - Caso a decisão referida no n.º 1 tenha como base uma deficiência das especificações europeias, e se a especificação em causa for uma norma harmonizada, o IMT, I. P., deve restringir ou suprimir essa norma, nos termos do artigo 11.º do [Regulamento (UE) n.º 1025/2012](http://data.europa.eu/eli/reg/2012/1025/oj?locale=pt).
+4 - Caso a decisão referida no n.º 1 tenha como base uma deficiência das especificações europeias, e se a especificação em causa for uma norma harmonizada, o IMT, I. P., deve restringir ou suprimir essa norma, nos termos do artigo 11.º do Regulamento (UE) n.º 1025/2012.
 
 5 - No caso de um componente de interoperabilidade que disponha da declaração «CE» de conformidade se revelar não conforme com os requisitos essenciais, o IMT, I. P., deve tomar as medidas adequadas relativamente a quem emitiu a declaração e informar desse facto a Comissão Europeia e os restantes Estados-Membros.
 
-### CAPÍTULO IV — Subsistemas
+### Capítulo IV — Subsistemas
 
 ###### Artigo 13.º — Livre circulação dos subsistemas
 
@@ -574,7 +577,7 @@ b) Quando um novo pedido de não aplicação de ETI tiver sido apresentado nos t
 
 c) Caso as regras nacionais se tornem redundantes após a publicação ou a revisão da ETI em causa.
 
-2 - O IMT, I. P., deve notificar o texto integral das regras nacionais, a que se refere o número anterior, pelos meios informáticos apropriados, nos termos do artigo 27.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio de 2016 [[Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt)].
+2 - O IMT, I. P., deve notificar o texto integral das regras nacionais, a que se refere o número anterior, pelos meios informáticos apropriados, nos termos do artigo 27.º do Regulamento (UE) 2016/796, do Parlamento Europeu e do Conselho, de 11 de maio de 2016 [Regulamento (UE) 2016/796].
 
 3 - O IMT, I. P., certifica-se de que as regras nacionais a que se refere o n.º 1, incluindo as regras relativas às interfaces dos veículos com a rede, são facilmente acessíveis e do domínio público, e utilizam uma terminologia que todas as partes interessadas podem compreender.
 
@@ -584,13 +587,13 @@ a) Quando uma ETI não satisfaça inteiramente os requisitos essenciais;
 
 b) Enquanto medida preventiva urgente, designadamente na sequência de acidente.
 
-5 - O projeto das novas regras nacionais deve ser apresentado, atempada e fundamentadamente, à Agência e à Comissão Europeia, para análise antes da sua implementação, através de aplicação informática existente para o efeito, nos termos do artigo 27.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), e de acordo com os prazos referido no n.º 1 do artigo 25.º do mesmo Regulamento.
+5 - O projeto das novas regras nacionais deve ser apresentado, atempada e fundamentadamente, à Agência e à Comissão Europeia, para análise antes da sua implementação, através de aplicação informática existente para o efeito, nos termos do artigo 27.º do Regulamento (UE) 2016/796, e de acordo com os prazos referido no n.º 1 do artigo 25.º do mesmo Regulamento.
 
-6 - Para efeitos do número anterior, o IMT, I. P., deve certificar-se que o texto se encontra devidamente desenvolvido para que a Agência possa realizar o exame previsto no n.º 2 do artigo 25.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+6 - Para efeitos do número anterior, o IMT, I. P., deve certificar-se que o texto se encontra devidamente desenvolvido para que a Agência possa realizar o exame previsto no n.º 2 do artigo 25.º do Regulamento (UE) 2016/796.
 
-7 - Caso seja adotada uma nova regra nacional, o IMT, I. P., deve notificá-la à Agência e à Comissão Europeia pelos meios informáticos apropriados, nos termos do artigo 27.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+7 - Caso seja adotada uma nova regra nacional, o IMT, I. P., deve notificá-la à Agência e à Comissão Europeia pelos meios informáticos apropriados, nos termos do artigo 27.º do Regulamento (UE) 2016/796.
 
-8 - Em caso de medidas preventivas urgentes, o IMT, I. P., pode adotar e aplicar imediatamente uma nova regra nacional, que deve ser notificada nos termos do n.º 2 do artigo 25.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt) e sujeita à avaliação da Agência, nos termos dos n.os 1, 2 e 5 do artigo 26.º desse regulamento.
+8 - Em caso de medidas preventivas urgentes, o IMT, I. P., pode adotar e aplicar imediatamente uma nova regra nacional, que deve ser notificada nos termos do n.º 2 do artigo 25.º do Regulamento (UE) 2016/796 e sujeita à avaliação da Agência, nos termos dos n.os 1, 2 e 5 do artigo 26.º desse regulamento.
 
 9 - Aquando da notificação de uma regra nacional nova ou a que se refere o n.º 1, o IMT, I. P., deve justificar a necessidade dessa regra para efeitos de cumprimento de um requisito essencial não abrangido pela ETI aplicável.
 
@@ -642,7 +645,7 @@ b) De deficiência de uma ETI.
 
 Presume-se que os componentes de interoperabilidade e os subsistemas que respeitam as normas harmonizadas ou partes delas, cujas referências estão publicadas no Jornal Oficial da União Europeia, satisfazem os requisitos essenciais abrangidos por essas normas, ou partes delas.
 
-### CAPÍTULO V — Colocação no mercado e entrada em serviço
+### Capítulo V — Colocação no mercado e entrada em serviço
 
 ###### Artigo 19.º — Autorização de entrada em serviço de instalações fixas
 
@@ -662,11 +665,11 @@ c) Da integração segura dos subsistemas, estabelecida com base nas ETI e nas r
 
 d) Da decisão de deferimento da Agência emitida nos termos do artigo seguinte, no caso de subsistemas de controlo-comando e sinalização de via que envolvam equipamento do Sistema Europeu de Controlo dos Comboios e/ou do Sistema Global de Comunicações Móveis Ferroviárias;
 
-e) Da conformidade com o resultado do procedimento referido no n.º 2 do artigo 30.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), no caso de alterações efetuadas ao projeto de caderno de encargos ou à descrição das soluções técnicas previstas, depois de emitida a decisão de deferimento.
+e) Da conformidade com o resultado do procedimento referido no n.º 2 do artigo 30.º do Regulamento (UE) 2016/796, no caso de alterações efetuadas ao projeto de caderno de encargos ou à descrição das soluções técnicas previstas, depois de emitida a decisão de deferimento.
 
 5 - No prazo de um mês a contar da data de receção do pedido do requerente, o IMT, I. P., informa-o de que o processo está completo ou pede-lhe as informações complementares necessárias, estabelecendo o prazo para a sua entrega.
 
-6 - O IMT, I. P., verifica a completude, a relevância e a coerência do processo e, no caso do equipamento de via do ERTMS, a conformidade com a decisão de deferimento da Agência emitida nos termos do artigo 20.º e, se for caso disso, a conformidade com o resultado do procedimento referido no n.º 2 do artigo 30.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+6 - O IMT, I. P., verifica a completude, a relevância e a coerência do processo e, no caso do equipamento de via do ERTMS, a conformidade com a decisão de deferimento da Agência emitida nos termos do artigo 20.º e, se for caso disso, a conformidade com o resultado do procedimento referido no n.º 2 do artigo 30.º do Regulamento (UE) 2016/796.
 
 7 - Após a verificação referida no número anterior, o IMT, I. P., emite a autorização de entrada em serviço de instalações fixas, ou informa o requerente da sua decisão de indeferimento, num prazo não superior a quatro meses a contar da receção de todas as informações necessárias.
 
@@ -694,6 +697,18 @@ d) Se forem introduzidas alterações nos valores dos parâmetros que estiveram 
 
 15 - Caso o IMT, I. P., confirme a sua decisão de indeferimento, o requerente pode impugnar administrativa e/ou judicialmente essa decisão, nos termos da legislação aplicável à segurança ferroviária.
 
+###### Artigo 19.º-A — Dispensa temporária de autorização
+
+1 - Quando o processo de construção, implantação ou verificação de um ou mais subsistemas estruturais de instalações fixas, ou parte deles, renovados ou modificados, deva ser realizado sem interrupção do serviço ferroviário e demonstrada a impraticabilidade de reverter ou inibir essas modificações, o gestor da infraestrutura pode requerer à AMT a concessão de uma dispensa temporária de autorização, colocando os subsistemas em operação com tráfego ferroviário comercial, a título temporário e na área geográfica estritamente necessária, sob a sua responsabilidade e sem prejuízo do disposto no artigo anterior.
+
+2 - Os elementos instrutórios a apresentar para efeitos de emissão de dispensa temporária de autorização de entrada em serviço são os referidos no n.º 4 do artigo 19.º, excetuando-se apenas aqueles que, pela natureza do pedido, não possam ser apresentados.
+
+3 - Compete à AMT definir o prazo da dispensa temporária de autorização de entrada em serviço que nunca pode ultrapassar 18 meses desde a data da emissão.
+
+4 - O incumprimento do prazo definido na dispensa temporária de autorização de entrada em serviço determina a aplicação imediata pela AMT de medidas temporárias de segurança, que podem resultar na limitação ou revogação da autorização de segurança concedida.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
 ###### Artigo 20.º — Implantação harmonizada do Sistema Europeu de Gestão de Tráfego Ferroviário na União Europeia
 
 1 - O requerente deve apresentar à Agência um pedido de aprovação que, se relacionado com os projetos ERTMS ou com uma combinação de projetos, linhas, grupo de linhas ou redes, deve ser acompanhado de um processo que inclua:
@@ -706,7 +721,7 @@ c) Provas documentais de que as soluções técnicas previstas cumprem as ETI ap
 
 d) Outros documentos pertinentes, tais como pareceres do IMT, I. P., declarações de verificação ou certificados de conformidade.
 
-2 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+2 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do Regulamento (UE) 2016/796.
 
 3 - O IMT, I. P., pode emitir um parecer sobre o pedido de aprovação dirigido ao requerente, antes da apresentação do pedido, ou à Agência, depois dessa apresentação.
 
@@ -736,7 +751,7 @@ c) Da integração segura dos subsistemas referidos na alínea a) no veículo, e
 
 d) Da compatibilidade técnica do veículo com a rede na área de utilização referida no número anterior, estabelecida com base nas ETI pertinentes e, se aplicável, nas regras nacionais, nos registos da infraestrutura e no MCS para a avaliação dos riscos fixados na legislação aplicável à segurança ferroviária.
 
-6 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+6 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do Regulamento (UE) 2016/796.
 
 7 - Sempre que sejam necessários ensaios para obter a prova documental da compatibilidade técnica referida nas alíneas b) e d) do n.º 5, o IMT, I. P., pode emitir autorizações temporárias que permitam ao requerente utilizar o veículo para verificações práticas na rede.
 
@@ -764,7 +779,7 @@ b) Envia o processo do requerente às autoridades nacionais de segurança pertin
 
 17 - O IMT, I. P., e as autoridades de segurança que tenham emitido uma avaliação negativa devem cooperar para chegarem a acordo sobre uma avaliação mutuamente aceitável, envolvendo, se necessário, o requerente.
 
-18 - No prazo de um mês, caso não tenha sido alcançado o acordo previsto no número anterior, é tomada uma decisão final, salvo se, durante esse prazo, o processo tiver sido remetido para arbitragem pela instância de recurso estabelecida nos termos do artigo 61.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+18 - No prazo de um mês, caso não tenha sido alcançado o acordo previsto no número anterior, é tomada uma decisão final, salvo se, durante esse prazo, o processo tiver sido remetido para arbitragem pela instância de recurso estabelecida nos termos do artigo 61.º do Regulamento (UE) 2016/796.
 
 19 - No prazo de um mês a contar do pedido do IMT, I. P., ou das autoridades nacionais de segurança referidas no n.º 17, a instância de recurso decide se confirma o projeto de decisão da Agência.
 
@@ -788,7 +803,7 @@ c) As ETI aplicáveis o exigirem.
 
 1 - Caso a área de utilização esteja limitada à rede ferroviária nacional, o IMT, I. P., pode emitir a autorização de colocação do veículo no mercado, sob a sua própria responsabilidade e caso o requerente o solicite.
 
-2 - Para efeitos do número anterior, o IMT, I. P. avalia o processo relativamente aos elementos especificados no n.º 5 do artigo anterior, de acordo com os procedimentos estabelecidos no [Regulamento de Execução (UE) 2018/545](http://data.europa.eu/eli/reg/2018/545/oj?locale=pt), da Comissão, de 4 de abril de 2018.
+2 - Para efeitos do número anterior, o IMT, I. P. avalia o processo relativamente aos elementos especificados no n.º 5 do artigo anterior, de acordo com os procedimentos estabelecidos no Regulamento de Execução (UE) 2018/545, da Comissão, de 4 de abril de 2018.
 
 3 - No prazo de um mês a contar da receção do pedido do requerente, o IMT, I. P., informa o requerente de que o processo está completo ou pede a informação suplementar pertinente.
 
@@ -822,7 +837,7 @@ d) As condições de utilização do veículo e outras restrições.
 
 3 - O IMT, I. P., dispõe do prazo de dois meses, a contar da receção do pedido de revisão, para confirmar ou alterar a sua decisão.
 
-4 - No caso de indeferimento, o requerente pode interpor um recurso perante a instância de recurso designada nos termos do artigo 55.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+4 - No caso de indeferimento, o requerente pode interpor um recurso perante a instância de recurso designada nos termos do artigo 55.º do Regulamento (UE) 2016/796.
 
 5 - Caso a decisão de indeferimento do IMT, I. P., seja confirmada, o requerente pode interpor recurso para a Autoridade da Mobilidade e dos Transportes (AMT).
 
@@ -860,7 +875,7 @@ c) Que o veículo está adequadamente integrado na composição do comboio em qu
 
 1 - Se adequado, e de acordo com o procedimento estabelecido no artigo 23.º, o IMT, I. P., pode emitir autorizações de tipo para veículos.
 
-2 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+2 - O pedido referido no número anterior, bem como as informações sobre todos os pedidos de autorização, sobre a tramitação desses procedimentos e respetivos resultados e, se aplicável, sobre os pedidos apresentados e as decisões da Câmara de Recurso, devem ser apresentados através do balcão único a que se refere o artigo 12.º do Regulamento (UE) 2016/796.
 
 3 - Se o IMT, I. P., emitir uma autorização de colocação no mercado relativa a um veículo deve emitir também, ao mesmo tempo e a pedido do requerente, a autorização de tipo do veículo, em relação à mesma área de utilização do veículo.
 
@@ -872,7 +887,7 @@ c) Que o veículo está adequadamente integrado na composição do comboio em qu
 
 a) Os procedimentos de verificação previstos nas ETI aplicáveis; ou
 
-b) Caso não sejam aplicáveis ETI, os procedimentos de avaliação da conformidade definidos nos módulos B+D, B+F e H1 da [Decisão n.º 768/2008/CE](http://data.europa.eu/eli/dec/2008/768/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de julho de 2008 ([Decisão n.º 768/2008/CE](http://data.europa.eu/eli/dec/2008/768/oj?locale=pt)).
+b) Caso não sejam aplicáveis ETI, os procedimentos de avaliação da conformidade definidos nos módulos B+D, B+F e H1 da Decisão n.º 768/2008/CE, do Parlamento Europeu e do Conselho, de 9 de julho de 2008 (Decisão n.º 768/2008/CE).
 
 7 - A autorização de tipos de veículos é registada no registo europeu de autorizações de tipos de veículos a que se refere o artigo 46.º
 
@@ -896,7 +911,7 @@ b) Caso não sejam aplicáveis ETI, os procedimentos de avaliação da conformid
 
 6 - Se, nos casos previstos nos números anteriores, as medidas corretivas aplicadas pela empresa ferroviária não assegurarem a conformidade com os requisitos essenciais aplicáveis e esse incumprimento der origem a um risco grave em matéria de segurança, o IMT, I. P., pode aplicar medidas temporárias de segurança no âmbito das suas atribuições de supervisão, nos termos definidos na legislação aplicável sobre segurança ferroviária.
 
-7 - Sem prejuízo do disposto no número anterior, podem ser aplicadas medidas temporárias de segurança sob a forma de suspensão da autorização do tipo de veículo, em paralelo pelo IMT, I. P., sem prejuízo de controlo judicial e do procedimento de arbitragem previsto no artigo 61.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+7 - Sem prejuízo do disposto no número anterior, podem ser aplicadas medidas temporárias de segurança sob a forma de suspensão da autorização do tipo de veículo, em paralelo pelo IMT, I. P., sem prejuízo de controlo judicial e do procedimento de arbitragem previsto no artigo 61.º do Regulamento (UE) 2016/796.
 
 8 - Nos casos referidos nos n.os 6 e 7, na sequência de uma revisão da eficácia das medidas tomadas para resolver o risco grave em matéria de segurança, o IMT, I. P., pode decidir revogar ou alterar a autorização se houver provas de que, no momento da autorização, não estava preenchido um requisito essencial.
 
@@ -924,15 +939,15 @@ b) Caso não sejam aplicáveis ETI, os procedimentos de avaliação da conformid
 
 ###### Artigo 31.º — Decisão de aplicação de medidas temporárias de segurança
 
-1 - Em caso de desacordo entre a Agência e o IMT, I. P., quanto à necessidade de limitar ou revogar a autorização, é aplicável o procedimento de arbitragem previsto no artigo 61.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt).
+1 - Em caso de desacordo entre a Agência e o IMT, I. P., quanto à necessidade de limitar ou revogar a autorização, é aplicável o procedimento de arbitragem previsto no artigo 61.º do Regulamento (UE) 2016/796.
 
 2 - Se, da aplicação do procedimento referido no número anterior, se concluir que a autorização de colocação do veículo no mercado não precisa de ser limitada nem revogada, as medidas de segurança temporárias referidas no n.º 6 do artigo anterior são suspensas.
 
-3 - Caso a decisão da Agência seja confirmada, o titular da autorização de colocação do veículo no mercado pode interpor um recurso perante a instância de recurso designada nos termos do artigo 55.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), no prazo previsto no artigo 59.º desse regulamento.
+3 - Caso a decisão da Agência seja confirmada, o titular da autorização de colocação do veículo no mercado pode interpor um recurso perante a instância de recurso designada nos termos do artigo 55.º do Regulamento (UE) 2016/796, no prazo previsto no artigo 59.º desse regulamento.
 
 4 - Caso a decisão do IMT, I. P., seja confirmada, o titular da autorização de colocação do veículo no mercado pode interpor recurso no prazo de dois meses a contar da notificação dessa decisão, para a AMT.
 
-### CAPÍTULO VI — Organismos de avaliação da conformidade
+### Capítulo VI — Organismos de avaliação da conformidade
 
 ###### Artigo 32.º — Autoridades notificadoras
 
@@ -978,7 +993,7 @@ f) Dispor de recursos humanos com competência técnica e em número suficiente 
 
 ###### Artigo 34.º — Acreditação dos organismos de avaliação da conformidade
 
-1 - Compete ao IPAC, I. P., enquanto organismo nacional de acreditação, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 23/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2011-279775), de 11 de fevereiro, e dos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 81/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2012-553949), de 27 de março, a avaliação e o controlo dos organismos de avaliação da conformidade.
+1 - Compete ao IPAC, I. P., enquanto organismo nacional de acreditação, nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, e dos n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 81/2012, de 27 de março, a avaliação e o controlo dos organismos de avaliação da conformidade.
 
 2 - Para efeitos de notificação e de designação, os organismos de avaliação da conformidade devem ser previamente acreditados pelo IPAC, I. P., nas modalidades correspondentes às atividades de avaliação da conformidade pretendidas.
 
@@ -1006,7 +1021,7 @@ c) Procedimentos adequados ao exercício das suas atividades, que tenham devidam
 
 7 - Os organismos de avaliação da conformidade devem participar nas atividades de normalização relevantes e nas atividades do grupo de coordenação dos organismos de avaliação da conformidade notificados, criado ao abrigo do direito aplicável da União Europeia, ou assegurar que os seus avaliadores sejam informados dessas atividades, e devem aplicar, como orientações gerais, as decisões e os documentos administrativos decorrentes do trabalho desse grupo.
 
-8 - Os organismos de avaliação da conformidade notificados para subsistemas de controlo-comando e de sinalização de via e/ou de bordo devem participar nas atividades do grupo de trabalho do ERTMS, criado pelo artigo 29.º do [Regulamento (UE) 2016/796](http://data.europa.eu/eli/reg/2016/796/oj?locale=pt), ou assegurar que os seus avaliadores sejam informados dessas atividades.
+8 - Os organismos de avaliação da conformidade notificados para subsistemas de controlo-comando e de sinalização de via e/ou de bordo devem participar nas atividades do grupo de trabalho do ERTMS, criado pelo artigo 29.º do Regulamento (UE) 2016/796, ou assegurar que os seus avaliadores sejam informados dessas atividades.
 
 9 - Os organismos de avaliação da conformidade devem aplicar as diretrizes resultantes do trabalho do grupo referido no número anterior, salvo quando considerem inoportuno ou impossível aplicar essas diretrizes, caso em que devem apresentar as suas observações ao grupo referido no número anterior para debate, a fim de possibilitar o aperfeiçoamento contínuo das diretrizes.
 
@@ -1058,7 +1073,7 @@ d) Aptidão suficiente para redigir os certificados, registos e relatórios comp
 
 ###### Artigo 39.º — Unidades internas acreditadas
 
-1 - Os requerentes podem recorrer aos serviços de uma unidade interna acreditada para as atividades de avaliação da conformidade, para efeitos da execução dos procedimentos estabelecidos nos módulos A1, A2, C1 ou C2, definidos no anexo ii da [Decisão n.º 768/2008/CE](http://data.europa.eu/eli/dec/2008/768/oj?locale=pt), e nos módulos CA1 e CA2 definidos no anexo i da [Decisão 2010/713/UE](http://data.europa.eu/eli/dec/2010/713/oj?locale=pt).
+1 - Os requerentes podem recorrer aos serviços de uma unidade interna acreditada para as atividades de avaliação da conformidade, para efeitos da execução dos procedimentos estabelecidos nos módulos A1, A2, C1 ou C2, definidos no anexo ii da Decisão n.º 768/2008/CE, e nos módulos CA1 e CA2 definidos no anexo i da Decisão 2010/713/UE.
 
 2 - A unidade referida no número anterior deve ser autónoma e distinta das outras unidades do requerente em causa e não pode participar no projeto, produção, fornecimento, instalação, utilização ou manutenção dos produtos que avalie.
 
@@ -1142,7 +1157,7 @@ b) Aos documentos que devem ser mantidos à disposição do IPQ, I. P., nos term
 
 3 - O dever de informação previsto no n.º 1 do artigo 42.º aplica-se também aos organismos designados, que devem informar o IMT, I. P.
 
-### CAPÍTULO VII — Registos
+### Capítulo VII — Registos
 
 ###### Artigo 46.º — Sistema de numeração dos veículos
 
@@ -1212,11 +1227,11 @@ c) Os dados das autorizações relacionadas com a área de utilização de um ti
 
 4 - O IMT, I. P., assegura que o registo da infraestrutura é atualizado nos termos definidos no procedimento de regulamentação instituído pela Comissão Europeia.
 
-### CAPÍTULO VIII — Fiscalização e regime sancionatório
+### Capítulo VIII — Fiscalização e regime sancionatório
 
 ###### Artigo 50.º — Poderes de fiscalização
 
-1 - O poder de fiscalização do cumprimento do disposto no presente decreto-lei compete ao IMT, I. P., nos termos do [Decreto-Lei n.º 236/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2012-191561), de 31 de outubro, na sua redação atual.
+1 - O poder de fiscalização do cumprimento do disposto no presente decreto-lei compete ao IMT, I. P., nos termos do Decreto-Lei n.º 236/2012, de 31 de outubro, na sua redação atual.
 
 2 - Para efeitos do disposto no número anterior, o IMT, I. P., dispõe de:
 
@@ -1264,7 +1279,7 @@ n) Incumprimento da obrigação de informar imediatamente o IMT, I. P., de qualq
 
 2 - A aplicação das coimas previstas no presente decreto-lei compete ao conselho diretivo do IMT, I. P.
 
-3 - Às contraordenações previstas no presente decreto-lei, e em tudo quanto nele se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral do ilícito de mera ordenação social e respetivo processo, previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
+3 - Às contraordenações previstas no presente decreto-lei, e em tudo quanto nele se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral do ilícito de mera ordenação social e respetivo processo, previsto no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.
 
 ###### Artigo 53.º — Produto das coimas
 
@@ -1280,7 +1295,7 @@ d) 2 % para o IPAC, I. P.;
 
 e) 2 % para o IPQ, I. P.
 
-### CAPÍTULO IX — Disposições complementares, transitórias e finais
+### Capítulo IX — Disposições complementares, transitórias e finais
 
 ###### Artigo 54.º — Taxas
 
@@ -1290,13 +1305,13 @@ e) 2 % para o IPQ, I. P.
 
 ###### Artigo 55.º — Regime transitório de utilização de veículos
 
-1 - As autorizações de entrada em serviço de veículos emitidas nos termos do [Decreto-Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), de 17 de fevereiro, na sua redação atual, incluindo as autorizações emitidas até 16 de junho de 2019, bem como as autorizações emitidas ao abrigo de acordos internacionais, em particular o Regulamento para a Utilização Recíproca das Carruagens e dos Furgões em Tráfego Internacional e o Regulamento para a Utilização Recíproca dos Vagões em Tráfego Internacional, mantêm-se válidas nas condições em que foram emitidas.
+1 - As autorizações de entrada em serviço de veículos emitidas nos termos do Decreto-Lei n.º 27/2011, de 17 de fevereiro, na sua redação atual, incluindo as autorizações emitidas até 16 de junho de 2019, bem como as autorizações emitidas ao abrigo de acordos internacionais, em particular o Regulamento para a Utilização Recíproca das Carruagens e dos Furgões em Tráfego Internacional e o Regulamento para a Utilização Recíproca dos Vagões em Tráfego Internacional, mantêm-se válidas nas condições em que foram emitidas.
 
 2 - Os veículos autorizados a entrar em serviço nos termos do número anterior devem receber uma nova autorização de colocação no mercado para poderem ser explorados em redes que não são ainda abrangidas pelas autorizações de que são detentores, às quais se aplica o artigo 21.º
 
 ###### Artigo 56.º — Norma revogatória
 
-É revogado o [Decreto-Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), de 17 de fevereiro, na sua redação atual.
+É revogado o Decreto-Lei n.º 27/2011, de 17 de fevereiro, na sua redação atual.
 
 ###### Artigo 57.º — Produção de efeitos
 
@@ -1318,7 +1333,7 @@ Referendado em 14 de outubro de 2020.
 
 O Primeiro-Ministro, António Luís Santos da Costa.
 
-## ANEXO I — [a que se refere a alínea ii) do artigo 3.º]
+## Anexo I — [a que se refere a alínea ii) do artigo 3.º]
 
 Requisitos essenciais
 
@@ -1352,9 +1367,9 @@ Requisitos essenciais
 
 1.4.3 - O material circulante e os sistemas de alimentação de energia devem ser projetados e construídos para serem eletromagneticamente compatíveis com as instalações, os equipamentos e as redes públicas ou privadas com as quais possa haver interferências.
 
-1.4.4 - O projeto e a exploração do sistema ferroviário devem impedir que este origine um nível de ruído inadmissível, de acordo com o Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro, na sua redação atual:
+1.4.4 - O projeto e a exploração do sistema ferroviário devem impedir que este origine um nível de ruído inadmissível, de acordo com o Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de janeiro, na sua redação atual:
 
-Nas zonas próximas da infraestrutura ferroviária, tal como definida na alínea p) do artigo 3.º do [Decreto-Lei n.º 217/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), de 7 de outubro, na sua redação atual; e
+Nas zonas próximas da infraestrutura ferroviária, tal como definida na alínea p) do artigo 3.º do Decreto-Lei n.º 217/2015, de 7 de outubro, na sua redação atual; e
 
 Na cabina de condução.
 
@@ -1488,7 +1503,7 @@ Um acesso fácil dos utilizadores às informações.
 
 2.7.5 - Acessibilidade - devem ser tomadas as medidas adequadas para assegurar que os subsistemas de aplicações telemáticas para os passageiros garantem a funcionalidade necessária requerida para assegurar a acessibilidade das pessoas com deficiência e das pessoas com mobilidade reduzida.
 
-## ANEXO II — [a que se referem a alínea kk) do artigo 3.º e as alíneas a) e c) do n.º 6 do artigo 5.º]
+## Anexo II — [a que se referem a alínea kk) do artigo 3.º e as alíneas a) e c) do n.º 6 do artigo 5.º]
 
 Elementos do sistema ferroviário da União Europeia
 
@@ -1524,7 +1539,7 @@ Veículos especiais, designadamente máquinas de via.
 
 A presente lista de veículos inclui os veículos que são concebidos especialmente para circular nos diferentes tipos de linhas de alta velocidade descritas no n.º 1.
 
-## ANEXO III — [a que se referem a alínea mm) do artigo 3.º e o n.º 1 e a alínea a) do n.º 6 do artigo 5.º]
+## Anexo III — [a que se referem a alínea mm) do artigo 3.º e o n.º 1 e a alínea a) do n.º 6 do artigo 5.º]
 
 Subsistemas
 
@@ -1576,7 +1591,7 @@ b) As aplicações para os serviços de mercadorias, designadamente os sistemas 
 
 2.8 - Manutenção - os procedimentos e os equipamentos conexos, as instalações logísticas de manutenção e as reservas para a manutenção corretiva e preventiva necessária para assegurar a interoperabilidade do sistema ferroviário da União Europeia e os desempenhos exigidos.
 
-## ANEXO IV — (a que se refere o n.º 1 do artigo 16.º)
+## Anexo IV — (a que se refere o n.º 1 do artigo 16.º)
 
 Procedimento de verificação «CE» dos subsistemas
 

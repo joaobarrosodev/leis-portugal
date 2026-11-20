@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2008-09-26'
+  consolidation_date: '2011-11-22'
 version_history:
   file: decreto-lei-75-2003.versoes.json
-  count: 2
-  source_lastmod: '2026-10-21'
+  count: 3
+  source_lastmod: '2026-10-23'
   versions:
   - date: '2007-05-09'
     amending: pt:dre:520841:por
@@ -68,6 +68,11 @@ version_history:
     amending_title: Decreto-Lei n.º 191/2008
     changes:
     - Altera Anexo VI
+  - date: '2011-11-22'
+    amending: pt:dre:279843:por
+    amending_title: Decreto-Lei n.º 27/2011
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/75/2003/04/16/p/dre/pt/html
@@ -82,19 +87,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2003/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-996319153
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-996319153
-  retrieved_at: '2026-10-22T14:02:49Z'
+  retrieved_at: '2026-11-20T13:48:57Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-10-21T00:00:00Z'
+  source_modified_at: '2026-10-23T00:00:00Z'
 integrity:
-  source_sha256: 8839e7afc7c81159b09d221542c3d1d4e44020d6077e90ff75672c741bac3321
+  source_sha256: 0338389637555b0fd27bb12df87b951dc93572575a340dae7e40f02d2019dfe3
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:02:49Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-75-2003.versoes.json.
+  generated_at: '2026-11-20T13:48:57Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-75-2003.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,6 +133,11 @@ relationships:
   label: Altera Anexo VI
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2008-452206
   date: '2008-09-25'
+- type: amended_by
+  target: pt:dre:279843:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 - type: cites
   target: celex:31992D0096
   label: null
@@ -177,7 +187,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:02:49Z'
+  checked_at: '2026-11-20T13:48:57Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +212,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 1.º — Objecto
 
@@ -221,6 +235,8 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 3 - O âmbito de aplicação do presente decreto-lei será progressivamente alargado a todo o sistema ferroviário convencional, incluindo as vias de acesso aos serviços dos terminais e portos que sirvam ou possam servir mais de um cliente final, com excepção das infra-estruturas e do material circulante reservados a uma utilização estritamente local, histórica ou turística ou das infra-estruturas que estejam funcionalmente isoladas do resto do sistema ferroviário, e sem prejuízo das derrogações à aplicação das ETI nos casos previstos no artigo 6.º
 
 4 - As disposições do presente decreto-lei são aplicáveis apenas às partes da rede que ainda não estejam abrangidas pelo n.º 1 a partir da data de entrada em vigor das ETI correspondentes.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
@@ -256,11 +272,15 @@ n) «Sistema ferroviário existente» o conjunto constituído pelas infra-estrut
 
 p) «Entrada em serviço» o conjunto das operações através das quais um subsistema é colocado no seu estado de funcionamento nominal.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ###### Artigo 3.º — Âmbito
 
 O presente diploma abrange as disposições relativas, para cada subsistema, aos componentes de interoperabilidade, às interfaces e aos procedimentos, bem como às condições de coerência global do sistema ferroviário transeuropeu convencional, necessárias para realizar a sua interoperabilidade.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 4.º — Requisitos essenciais
 
@@ -268,7 +288,11 @@ O presente diploma abrange as disposições relativas, para cada subsistema, aos
 
 2 - As especificações técnicas suplementares referidas no n.º 4 do artigo 18.º da Directiva n.º 93/38/CEE que sejam necessárias para completar as especificações europeias ou as restantes normas aplicáveis não devem contrariar os requisitos essenciais.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo II — Especificações técnicas de interoperabilidade
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 5.º — Caracterização e função
 
@@ -279,6 +303,8 @@ O presente diploma abrange as disposições relativas, para cada subsistema, aos
 3 - As ETI não afectam a possibilidade de utilização de infra-estruturas que integrem o sistema ferroviário europeu convencional para a circulação de material circulante nelas não contemplado.
 
 4 - A adopção gradual das ETI e o cumprimento das mesmas permitirão realizar progressivamente a interoperabilidade do sistema ferroviário transeuropeu convencional.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
@@ -300,9 +326,13 @@ f) Aos vagões que tenham proveniência ou destino em países não pertencentes 
 
 2 - Nos casos previstos no número anterior, a intenção de não aplicação será previamente comunicada pelo Instituto Nacional do Transporte Ferroviário (INTF) à Comissão Europeia, enviando-lhe um processo com as ETI ou as partes das ETI que se pretende não sejam aplicadas, bem como as especificações correspondentes que se pretende aplicar.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ### Capítulo III — Componentes de interoperabilidade
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 7.º — Condições de utilização
 
@@ -311,6 +341,8 @@ f) Aos vagões que tenham proveniência ou destino em países não pertencentes 
 2 - Os componentes de interoperabilidade só podem ser utilizados no respectivo domínio de utilização em conformidade com o fim a que se destinam e têm de ser objecto de instalação e manutenção adequadas.
 
 3 - As disposições dos números anteriores não obstam a que esses componentes sejam colocados no mercado para outras aplicações.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 8.º — Conformidade com os requisitos essenciais
 
@@ -330,6 +362,8 @@ f) Aos vagões que tenham proveniência ou destino em países não pertencentes 
 
 .
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ###### Artigo 9.º — Cláusula de salvaguarda
@@ -346,6 +380,8 @@ c) De uma insuficiência das especificações europeias.
 
 3 - Se um componente de interoperabilidade que disponha da declaração «CE» de conformidade se revelar não conforme, o INTF tomará as medidas adequadas contra quem tenha passado a declaração e informará do facto a Comissão Europeia e os restantes Estados membros da União Europeia.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ###### Artigo 10.º — Declaração de conformidade
 
 1 - Para elaborar a declaração «CE» de conformidade ou de aptidão para utilização de um componente de interoperabilidade, o fabricante, ou o respectivo mandatário, deve aplicar as disposições previstas nas ETI que lhe digam respeito.
@@ -360,7 +396,11 @@ c) De uma insuficiência das especificações europeias.
 
 6 - Sem prejuízo do disposto no artigo 9.º, a constatação de que a declaração «CE» foi indevidamente emitida obriga o fabricante, ou o respectivo mandatário, a colocar o componente de interoperabilidade em conformidade e a fazer cessar a infracção.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo IV — Subsistemas
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 11 — Entrada em serviço
 
@@ -375,6 +415,8 @@ c) De uma insuficiência das especificações europeias.
 5 - O IMTT analisa o dossier e, tendo em conta a estratégia de execução indicada na ETI aplicável, decide se a importância dos trabalhos justifica a necessidade de uma nova autorização de entrada em serviço, a qual é sempre necessária quando o nível de segurança global possa ser afectado pelas obras previstas.
 
 6 - Caso seja necessária uma nova autorização, o IMTT decide em que medida as ETI devem ser aplicadas ao projecto, e notifica a sua decisão à Comissão Europeia e aos restantes Estados membros da União Europeia.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
@@ -410,6 +452,8 @@ e) Dados críticos de segurança relativos ao calendário de manutenção do ve�
 
 5 - As especificações comuns do registo são adoptadas nos termos previstos na legislação comunitária, tendo por base um projecto elaborado pela Agência Ferroviária Europeia.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ###### Artigo 12.º — Interoperabilidade
@@ -419,6 +463,8 @@ e) Dados críticos de segurança relativos ao calendário de manutenção do ve�
 2 - A verificação da interoperabilidade, dentro da observância dos requisitos essenciais, dos subsistemas de carácter estrutural constitutivos do sistema ferroviário transeuropeu convencional será feita com base nas ETI, caso existam.
 
 3 - Se as ETI não satisfizerem integralmente os requisitos essenciais, o assunto pode ser submetido à apreciação do comité instituído pela Directiva n.º 96/48/CE, nos termos do n.º 1 do artigo 21.º da Directiva n.º 2001/16/CE.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 13.º — Processo de verificação «CE»
 
@@ -434,13 +480,19 @@ a) Todos os documentos necessários relativos às características do subsistema
 
 b) Todos os elementos relativos às condições e restrições de utilização e às instruções de manutenção, fiscalização contínua ou periódica, regulação e conservação.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ###### Artigo 14.º — Verificações complementares
 
 1 - Se se verificar que um subsistema de carácter estrutural, munido da declaração «CE» de verificação acompanhada pelo processo técnico, não observa integralmente o disposto no presente diploma e, nomeadamente, os requisitos essenciais, o INTF poderá requerer a realização de verificações complementares.
 
 2 - O INTF, de imediato e fundamentadamente, informará a Comissão Europeia das verificações complementares solicitadas.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo V — Organismos notificados
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 15.º — Organismos notificados
 
@@ -452,11 +504,17 @@ b) Todos os elementos relativos às condições e restrições de utilização e
 
 4 - O INTF retirará a autorização a qualquer organismo que deixe de satisfazer os critérios enunciados no anexo VII, informando imediatamente do facto a Comissão e os restantes Estados membros da União Europeia.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo VI — Fiscalização e regime sancionatório
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 16.º — Fiscalização
 
 A fiscalização do cumprimento do disposto no presente diploma compete ao INTF.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 17.º — Contra-ordenações
 
@@ -478,11 +536,15 @@ g) A entrada em serviço dos subsistemas de carácter estrutural constitutivos d
 
 h) A renovação ou readaptação dos subsistemas por parte do gestor ou da empresa sem nova autorização de entrada em serviço, quando a ela haja lugar.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ###### Artigo 18.º — Instrução dos processos e aplicação das coimas
 
 1 - A instrução dos processos por contra-ordenações previstas no presente diploma compete ao INTF.
 
 2 - A aplicação das coimas previstas no presente diploma compete ao conselho de administração do INTF.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 19.º — Produto das coimas
 
@@ -492,11 +554,17 @@ a) 40% para o INTF;
 
 b) 60% para o Estado.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ### Capítulo VII — Disposições finais
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 20.º — Comunicação das vias de recurso e dos prazos de interposição
 
 A comunicação aos interessados das decisões tomadas em aplicação do presente diploma relativas à avaliação da conformidade ou da aptidão para utilização de componentes de interoperabilidade e à verificação dos subsistemas que constituem o sistema ferroviário transeuropeu convencional, bem como das decisões tomadas em aplicação dos artigos 9.º e 14.º, deve conter indicação das formas de impugnação das decisões e dos respectivos prazos de interposição.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ###### Artigo 21.º — Acompanhamento da aplicação do diploma
 
@@ -514,6 +582,8 @@ b) Divulgar os documentos relativos à interoperabilidade do sistema ferroviári
 
 , do Parlamento Europeu e do Conselho, de 29 de Abril, sendo a mesma colocada à disposição das partes interessadas, incluindo, pelo menos, os profissionais do sector.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira.
@@ -527,6 +597,8 @@ O Presidente da República, JORGE SAMPAIO.
 Referendado em 3 de Abril de 2003.
 
 O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ## Anexo I — O sistema ferroviário transeuropeu convencional
 
@@ -606,6 +678,8 @@ Aumento da segurança do funcionamento.
 
 Além disso, esta avaliação indicará o impacte previsto a nível de todos os operadores e agentes económicos envolvidos.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ## Anexo II — Subsistemas
@@ -653,6 +727,8 @@ b) As aplicações ao serviço do transporte de mercadorias, que incluem os sist
 1.6 - Material circulante - estrutura, sistema de comando e controlo de todos os equipamentos do comboio, equipamentos de tracção e de transformação da energia, de frenagem, acoplamento, órgãos de rolamento (bogies, rodados) e a suspensão, as portas, as interfaces homem-máquina (maquinista, pessoal de bordo, passageiros, incluindo as necessidades das pessoas com mobilidade reduzida), dispositivos de segurança passivos ou activos, dispositivos necessários à saúde dos passageiros e do pessoal de bordo.
 
 1.7 - Manutenção - procedimentos, equipamentos associados, instalações logísticas de manutenção, reservas que permitem garantir as operações de manutenção correctiva e preventiva de carácter obrigatório previstas para assegurar a interoperabilidade do sistema ferroviário e os desempenhos necessários.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ## Anexo III — Requisitos essenciais
 
@@ -792,6 +868,8 @@ Um acesso fácil dos utilizadores às informações.
 
 2.7.4 - Segurança - devem assegurar-se níveis de integridade e fiabilidade suficientes para a armazenagem ou a transmissão de informações ligadas à segurança.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.
 
 ## Anexo IV — Conformidade e aptidão para utilização dos componentes de interoperabilidade
@@ -834,6 +912,8 @@ Se aplicável, referência das especificações europeias;
 
 Identificação do signatário habilitado para representar o fabricante ou o seu mandatário estabelecido na Comunidade.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 ## Anexo V — Declaração de verificação dos subsistemas
 
 A declaração «CE» de verificação e os documentos que a acompanham devem ser datados e assinados.
@@ -855,6 +935,8 @@ Quaisquer disposições pertinentes, provisórias ou definitivas, que o subsiste
 Caso seja provisória: prazo de validade da declaração «CE»;
 
 Identificação do signatário.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 ## Anexo VI — Procedimento de verificação dos subsistemas
 
@@ -930,6 +1012,8 @@ Certificados de verificação emitidos ou recusados.
 
 8 - Língua - os processos e a correspondência relativos aos procedimentos de verificação 'CE' devem ser redigidos em português.
 
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
+
 > Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 191/2008 - Diário da República n.º 186/2008, Série I de 2008-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2008-452206), em vigor a partir de 2008-09-26.
 
 ## Anexo VII — Critérios mínimos que devem ser tidos em consideração para a notificação de organismos
@@ -963,5 +1047,7 @@ A aptidão necessária para redigir os certificados, as actas e os relatórios q
 6 - O organismo deve fazer um seguro de responsabilidade civil.
 
 7 - O pessoal do organismo está sujeito a sigilo profissional em relação a todas as informações que obtiver no exercício das suas funções no âmbito do presente diploma, excepto em relação às autoridades administrativas competentes.
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-11-22.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2007 - Diário da República n.º 88/2007, Série I de 2007-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841), em vigor a partir de 2007-05-09.

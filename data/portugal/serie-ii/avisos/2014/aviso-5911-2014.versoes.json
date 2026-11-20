@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25707464:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2014-1194724275",
+ "dre_path": "/dr/detalhe/aviso/5911-2014-25707464",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2014-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194727275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194727275": {
+   "fragment_id": "1194724375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto na alínea d) do n.º 1 do artigo 37.º da Lei n.º 12-A/2008, de 27 de fevereiro, torna-se pública a lista nominativa do pessoal do Supremo Tribunal Administrativo que cessou funções por motivo de aposentação, com efeitos a 1 de janeiro de 2014:\n\nNome: Rui Alberto Santos Sousa Calado\n\nCarreira/Categoria: Assistente Operacional\n\nPosição: 8.ª\n\nNível Remuneratório: 8.º"
+  }
+ }
+}

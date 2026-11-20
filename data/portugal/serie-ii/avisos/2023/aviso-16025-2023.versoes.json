@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220340902:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2023-1192899075",
+ "dre_path": "/dr/detalhe/aviso/16025-2023-220340902",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2023-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1192909575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1192909575": {
+   "fragment_id": "1192899175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  }
+ }
+}

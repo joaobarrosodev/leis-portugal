@@ -3,7 +3,7 @@
  "id": "pt:dre:55021010:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-65884812",
  "dre_path": "/dr/detalhe/decreto-lei/113-2014-55021010",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-09",
  "versions": [
   {
    "date": "2014-07-16",
@@ -287,6 +287,68 @@
     "65887959",
     "65887960",
     "216567205",
+    "65887962",
+    "65887963",
+    "65887964",
+    "131051343",
+    "216567206",
+    "131051347",
+    "131051349",
+    "131051351",
+    "65887965",
+    "839791866",
+    "216567207",
+    "65887968",
+    "131051336",
+    "131051337",
+    "131051338",
+    "131051339",
+    "839791867",
+    "216567200",
+    "216567201",
+    "216567202",
+    "65898575",
+    "65898576",
+    "65898577",
+    "216567208",
+    "65898579",
+    "65898580",
+    "65898581",
+    "65898582"
+   ]
+  },
+  {
+   "date": "2027-01-05",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1192107480:por",
+     "title": "Decreto-Lei n.º 214/2026",
+     "published": "2026-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/214-2026-1192107480"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "65887945",
+    "65887946",
+    "65887947",
+    "216567203",
+    "131051326",
+    "65887950",
+    "65887951",
+    "65887952",
+    "65887953",
+    "65887954",
+    "65887955",
+    "65887956",
+    "216567204",
+    "65887958",
+    "65887959",
+    "65887960",
+    "1192802175",
     "65887962",
     "65887963",
     "65887964",
@@ -631,9 +693,9 @@
    "heading": "Artigo 11.º — Condições específicas",
    "in_force_from": "2016-09-14",
    "changed_by": [
-    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
    ],
-   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
   },
   "75326349": {
    "fragment_id": "65884846",
@@ -845,10 +907,10 @@
    "heading": "Artigo 11.º — Condições específicas",
    "in_force_from": "2023-08-01",
    "changed_by": [
-    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
-    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
    ],
-   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.\n\n2 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado de uma instituição de ensino universitário está condicionada:\n\na) À realização dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para o ingresso no ciclo de estudos em causa através do regime geral de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro; e\n\nb) À obtenção nesses exames de uma classificação não inferior à classificação mínima fixada pela instituição de ensino superior nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98, de 25 de setembro.\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
   },
   "216567206": {
    "fragment_id": "131051255",
@@ -934,6 +996,18 @@
     "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
    ],
    "markdown": "###### Artigo 25.º — Articulação das vagas das diferentes modalidades de acesso\n\n1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado por despacho do membro do Governo responsável pela área do ensino superior.\n\n2 - O número total de vagas aberto anualmente em cada instituição de ensino superior para a candidatura à matrícula e inscrição através do concurso a que se refere a alínea a) do n.º 2 do artigo 3.º não pode ser inferior a 5 % do limite máximo de admissões do conjunto dos ciclos de estudos dessa instituição.\n\n3 - O despacho a que se refere o n.º 1 pode fixar um valor mínimo a afetar a uma ou mais das modalidades de acesso a que se refere o mesmo número, por par instituição/ciclo de estudos ou globalmente.\n\n4 - Para o ingresso em cada ano letivo só podem ser abertas vagas para um par instituição/ciclo de estudos para as modalidades de acesso a que se refere o n.º 1 quando tenham sido igualmente abertas para o regime geral de acesso.\n\n5 - (Revogado.)\n\n6 - As vagas não preenchidas num par instituição/ciclo de estudos no regime geral de acesso podem reverter para outras modalidades de acesso ao mesmo ciclo de estudos nos termos fixados pelos regulamentos do concurso nacional e dos concursos institucionais.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 32/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2021-171942716), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77-A/2021 - Diário da República n.º 167/2021, 1º Suplemento, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "1192802175": {
+   "fragment_id": "65884829",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições específicas",
+   "in_force_from": "2027-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
+   ],
+   "markdown": "###### Artigo 11.º — Condições específicas\n\n1 - A realização da candidatura a um curso de licenciatura ou integrado de mestrado de uma instituição de ensino superior está sujeita às condições fixadas pelo respetivo órgão legal e estatutariamente competente.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.\n\n> Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14."
   }
  }
 }

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:889280168:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1195991575",
+ "dre_path": "/dr/detalhe/aviso/21594-2024-889280168",
+ "source_lastmod": "2026-11-16",
+ "versions": [
+  {
+   "date": "2024-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195992075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195992075": {
+   "fragment_id": "1195991675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Faz-se público, em cumprimento do disposto no n.º 3 do artigo 20.º da Portaria n.º 217/2011, de 31 de maio, alterada pela Portaria n.º 356/2013, de 10 de dezembro, e pela Portaria n.º 274-A/2015, de 8 de setembro, que, por meu despacho de 19 de setembro de 2024, foi homologada a lista de classificação final dos candidatos do seguinte júri, no âmbito do procedimento concursal nacional de habilitação ao grau de consultor da carreira médica, aberto pelo Aviso n.º 19641 -A/2021, de 18 de outubro, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2021.\n\nAssim:\n\nJúri n.º 19 de Medicina Geral e Familiar - ARS Norte\n\nAida Sofia de Carvalho Guerra Fernandes - Aprovado\n\nDiogo Filipe de Pinho Silva e Oliveira da Costa - Aprovado\n\nElsa Carina da Silva Matos - Aprovado\n\nEmanuel Arlindo Afonso Airosa - Aprovado\n\nEstefânia da silva Correia Barge - Aprovado\n\nFilipa Alexandra Lopes Fernandes - Aprovado\n\nFrancisca Emanuel de Carvalho Mateus - Aprovado\n\nIsabel Margarida Antunes Borralheiro Cruz Corais - Aprovado\n\nIsabel Maria Santos Costa - Aprovado\n\nIsabel Maria da Silva Pereira - Aprovado\n\nIvone Cristina dos Santos Abreu Martins - Aprovado\n\nJoana Isabel Carvalho dos Santos - Aprovado\n\nJoana Oliveira Saraiva Santos - Aprovado\n\nJorge Alexandre Almeida Queirós - Aprovado\n\nLia Rafaela Gonçalves Pereira Beleza - Aprovado\n\nLiliana da Conceição Almeida Ferreira - Aprovado\n\nMarlene Glória Guimarães Malheiro de Sousa - Aprovado\n\nMiguel Ângelo Martins da Cunha - Aprovado\n\nMónica Vanessa Luís Moreira da Mota - Aprovado\n\nDe acordo com o disposto no n.º 2 do artigo 22.º da Portaria supracitada, a data de obtenção do grau de consultor dos médicos aprovados constantes da lista acima mencionada reporta-se a 8 de fevereiro de 2024, data da publicação da primeira lista da presente especialidade médica, conforme o Aviso n.º 3200/2024, publicado no Diário da República, 2.ª série, n.º 28, de 8 de fevereiro de 2024."
+  }
+ }
+}

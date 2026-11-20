@@ -45,13 +45,25 @@ version:
   consolidation_date: '2005-03-24'
 version_history:
   file: portaria-311-c-2005.versoes.json
-  count: 1
-  source_lastmod: '2024-12-30'
+  count: 2
+  source_lastmod: '2026-11-20'
   versions:
   - date: '2005-03-24'
     amending: null
     amending_title: null
     changes: []
+  - date: '2027-02-18'
+    amending: pt:dre:1196863264:por
+    amending_title: Portaria n.º 522/2026/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/311-c/2005/p/cons/20250129/pt/html
@@ -66,10 +78,10 @@ source:
   metadata_url: https://data.dre.pt/eli/port/311-c/2005/p/cons/20250129/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-901548366
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-901548366
-  retrieved_at: '2026-10-22T13:21:02Z'
+  retrieved_at: '2026-11-20T13:54:23Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-12-30T00:00:00Z'
+  source_modified_at: '2026-11-20T00:00:00Z'
 integrity:
   source_sha256: e3eea1ceb8c128281f01b8e17dea74a80237fd2d9863e0ab42436677a16b5e60
   source_sha256_scope: official_source_content_bytes
@@ -77,8 +89,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:21:02Z'
-  notes: 1 versão(ões); histórico completo em portaria-311-c-2005.versoes.json.
+  generated_at: '2026-11-20T13:54:23Z'
+  notes: 2 versão(ões); histórico completo em portaria-311-c-2005.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -93,6 +105,12 @@ subjects:
 - Regulamento
 - Regulamento dos Avisadores Especiais
 relationships:
+- type: amended_by
+  target: pt:dre:1196863264:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264
+  date: '2026-11-20'
 - type: cites
   target: pt:dre:250659:por
   label: null
@@ -114,7 +132,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:21:02Z'
+  checked_at: '2026-11-20T13:54:23Z'
   warnings: []
   errors: []
 ---

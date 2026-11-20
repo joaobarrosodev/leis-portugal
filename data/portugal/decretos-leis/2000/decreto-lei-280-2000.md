@@ -41,18 +41,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2005-09-27'
 version_history:
   file: decreto-lei-280-2000.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-18'
   versions:
-  - date: '2000-11-10'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2005-09-27'
     amending: pt:dre:148001:por
     amending_title: Decreto-Lei n.º 165/2005
@@ -70,21 +66,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2000-614347
   metadata_url: https://data.dre.pt/eli/dec-lei/280/2000/11/10/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2000-614347
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:20:36Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006610134
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1006610134
+  retrieved_at: '2026-11-20T13:53:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: 93ff50443be87cfae0cf5fc699b50b256ee944abdfc0d15d513586d594f52aea
+  source_sha256: fdb50338490ade18c3bff6737d81750d8932dffcf9c68a0f240b0d0d0b29293e
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:20:36Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 165/2005. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-280-2000.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:43Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-280-2000.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,32 +117,30 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:20:36Z'
+  checked_at: '2026-11-20T13:53:43Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 280/2000
 
-de 10 de Novembro
-
-O INOFOR - Instituto para a Inovação na Formação foi criado através do [Decreto-Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1997-385209), de 12 de Maio, para dar resposta imediata a uma necessidade urgente do sistema nacional de formação profissional: a existência de uma entidade pública que desenvolvesse, com carácter de permanência, as tarefas de conceber, desenvolver, avaliar e contribuir para a generalização de metodologias, programas e instrumentos necessários à plena valorização dos recursos humanos no quadro da evolução dos sistemas social e produtivo, das tecnologias e da organização do trabalho, que nessa medida se constituísse como suporte da intervenção operacional dos serviços do Ministério do Trabalho e da Solidariedade e demais entidades públicas e privadas ligadas ao sector da formação e inserção profissional, ao nível da investigação e da inovação na formação.
+O INOFOR - Instituto para a Inovação na Formação foi criado através do Decreto-Lei n.º 115/97, de 12 de Maio, para dar resposta imediata a uma necessidade urgente do sistema nacional de formação profissional: a existência de uma entidade pública que desenvolvesse, com carácter de permanência, as tarefas de conceber, desenvolver, avaliar e contribuir para a generalização de metodologias, programas e instrumentos necessários à plena valorização dos recursos humanos no quadro da evolução dos sistemas social e produtivo, das tecnologias e da organização do trabalho, que nessa medida se constituísse como suporte da intervenção operacional dos serviços do Ministério do Trabalho e da Solidariedade e demais entidades públicas e privadas ligadas ao sector da formação e inserção profissional, ao nível da investigação e da inovação na formação.
 
 A exigência técnica das atribuições cometidas ao INOFOR torna indispensável que os respectivos recursos humanos integrem profissionais qualificados no domínio da inovação e formação profissional.
 
-Em face da necessidade de dotar o INOFOR no momento da sua criação com os recursos necessários à sua entrada em funcionamento imediata, iniciando o desenvolvimento de projectos fundamentais para a adequação do sistema nacional de formação às necessidades da procura formativa do País, bem como para poder desenvolver a importante competência que lhe foi cometida no âmbito da acreditação de entidades formadoras, o referido Instituto recorreu aos instrumentos de contratação de pessoal a título provisório previstos na lei geral do trabalho, nos termos da alínea b) do n.º 4 do artigo 21.º do [Decreto-Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1997-385209), de 12 de Maio.
+Em face da necessidade de dotar o INOFOR no momento da sua criação com os recursos necessários à sua entrada em funcionamento imediata, iniciando o desenvolvimento de projectos fundamentais para a adequação do sistema nacional de formação às necessidades da procura formativa do País, bem como para poder desenvolver a importante competência que lhe foi cometida no âmbito da acreditação de entidades formadoras, o referido Instituto recorreu aos instrumentos de contratação de pessoal a título provisório previstos na lei geral do trabalho, nos termos da alínea b) do n.º 4 do artigo 21.º do Decreto-Lei n.º 115/97, de 12 de Maio.
 
 Efectivamente, as tentativas de recrutamento de pessoal através dos instrumentos de mobilidade resultaram infrutíferas, o que evidencia a dificuldade, no âmbito da função pública, dos perfis de competências necessários ao INOFOR, mercê da exigência e especificidade técnica das suas atribuições.
 
 As vicissitudes envolvidas com a instalação de um novo Instituto Público, com a implantação de raiz de novos procedimentos e métodos de trabalho e com a sedimentação das respectivas competências, âmbitos de actuação e projectos a desenvolver, contribuíram para que, até à data, não se lograsse a necessária estabilização e adequação às respectivas exigências de funcionamento do quadro de pessoal do INOFOR.
 
-Passadas que estão as fases de instalação do Instituto e de estabilização das suas funções e tarefas no quadro do apoio à política nacional de formação profissional, torna-se claro que o pessoal existente é manifestamente insuficiente para dar cumprimento às atribuições que são cometidas ao INOFOR. A existência de um elevado número de vagas no seu quadro de pessoal, aprovado pela [Portaria n.º 1197/97](https://diariodarepublica.pt/dr/detalhe/portaria/1197-1997-406360), de 28 de Novembro, é o melhor espelho desta situação.
+Passadas que estão as fases de instalação do Instituto e de estabilização das suas funções e tarefas no quadro do apoio à política nacional de formação profissional, torna-se claro que o pessoal existente é manifestamente insuficiente para dar cumprimento às atribuições que são cometidas ao INOFOR. A existência de um elevado número de vagas no seu quadro de pessoal, aprovado pela Portaria n.º 1197/97, de 28 de Novembro, é o melhor espelho desta situação.
 
 Por outro lado, o desenvolvimento das funções do INOFOR, em particular aquelas que se situam directamente nos domínios da inovação e qualidade do sistema de formação profissional, exigem um corpo de colaboradores estável, qualificado e coeso, e com um perfil profissional exigente em áreas técnicas específicas.
 
@@ -170,7 +164,7 @@ Durante o período de 90 dias, contados da data de entrada em vigor do presente 
 
 Os contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até ao limite de seis anos, se não forem oportunamente denunciados nos termos da lei geral.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), publicado em 2005-09-22.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005 - Diário da República n.º 183/2005, Série I-A de 2005-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), em vigor a partir de 2005-09-27, com efeitos a partir de 2005-09-01.
 
 ###### Artigo 3.º — Recrutamento
 

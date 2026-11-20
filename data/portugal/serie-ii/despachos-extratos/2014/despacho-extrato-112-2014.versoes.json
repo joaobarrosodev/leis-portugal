@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1994297:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2014-1195285075",
+ "dre_path": "/dr/detalhe/despacho-extrato/112-2014-1994297",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2014-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195282675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195282675": {
+   "fragment_id": "1195285175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho de 16 de dezembro de 2013, do Presidente do Grupo Parlamentar do Bloco de Esquerda:\n\nPedro Manuel Bastos Rodrigues Soares, professor do Instituto de Geografia e Ordenamento do Território da Universidade de Lisboa (IGOT-UL) - nomeado, nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, para a categoria de assistente parlamentar do Grupo Parlamentar do Bloco de Esquerda, com efeitos a partir do dia 2 de janeiro de 2014."
+  }
+ }
+}

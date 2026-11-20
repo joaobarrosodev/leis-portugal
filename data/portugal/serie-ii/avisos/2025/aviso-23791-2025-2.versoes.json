@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:936743415:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2025-1185284575",
+ "dre_path": "/dr/detalhe/aviso/23791-2025-936743415",
+ "source_lastmod": "2026-10-29",
+ "versions": [
+  {
+   "date": "2025-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1185284775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1185284775": {
+   "fragment_id": "1185284675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  }
+ }
+}
