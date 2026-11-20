@@ -1,0 +1,133 @@
+[
+ {
+  "id": "pt:dre:215770:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º n.os 5 e 6 novos, conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º, 11.º e 12.º conforme DL 5/73 e DL 642/74 (art. 2.º); art. 10.º revogado (art. 3.º do DL 642/74); art. 13.º n.º 1 al. a) conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 13.º n.os 2 e 3 conforme DL 642/74.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º n.os 2 e 3 conforme DL 642/74.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º n.º 3 al. b) conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º n.º 3 al. d) conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º n.º 4 al. c) nova conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 23.º n.º 4 conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Art. 25.º n.º 1 als. b) e c) conforme DL 5/73 (o 'd.e' está no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Art. 27.º n.º 3 conforme DL 596/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 39.º n.º 1 conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 53.º n.º 1 conforme DL 5/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 59.º n.º 1 conforme DL 5/73.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 375/77, art. 2.º: nova redação do n.º 3 do art. 22.º do Estatuto dos TLP ('O produto dos aumentos de taxas consentidas pelo Decreto-Lei n.º 46033 ... será contabilizado nas receitas de exploração a partir dessa mesma data.'). O art. 22.º consta do Anexo II do original (n.º 3 'Os aumentos de taxas consentidos pelo Decreto-Lei n.º 46033 serão cobrados pelos TLP ...') e o consolidado não o alterou; alvo conhecido, não aplicado (sem justificação do consolidador)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 244/74, arts. 1.º a 4.º (extinção dos conselhos de administração, fiscal e geral; conselhos de gerência e fiscalização; funções do correio-mor)",
+    "motivo": "não textual: não dá nova redação ao estatuto; foi revogado pelo DL 642/74 (art. 6.º)"
+   },
+   {
+    "instrucao": "DL 244/74, art. 5.º (aposentação voluntária especial)",
+    "motivo": "não textual: norma autónoma sem nova redação do estatuto"
+   },
+   {
+    "instrucao": "DL 642/74, art. 1.º (extinção do conselho de gerência/fiscalização e reinstituição dos órgãos)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 642/74, art. 4.º (funções do correio-mor e da comissão executiva passam ao presidente e ao conselho de administração)",
+    "motivo": "não textual: transferência de funções sem nova redação"
+   },
+   {
+    "instrucao": "DL 642/74, art. 5.º (funções do conselho geral exercidas pelo Governo)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 642/74, art. 6.º (revogação do DL 244/74)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 375/77, art. 2.º: alteração dos arts. 14.º (n.º 2 al. c)) e 24.º (n.º 2) do Estatuto dos TLP",
+    "motivo": "outro diploma (Estatuto dos TLP, DL 48007); esses artigos não constam do Anexo II do original"
+   },
+   {
+    "instrucao": "DL 87/92 (transformação dos CTT em sociedade anónima e aprovação de estatutos)",
+    "motivo": "não textual: não altera nem revoga expressamente o texto do original"
+   },
+   {
+    "instrucao": "DL 277/92 (cisão dos CTT, S. A., Telecom Portugal)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 18/2003, art. 1.º (altera o art. 4.º do DL 20-C/86 e referências aos CTT e TLP)",
+    "motivo": "outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

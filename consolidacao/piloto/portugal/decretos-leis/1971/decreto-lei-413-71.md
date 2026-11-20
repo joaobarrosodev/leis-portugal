@@ -19,9 +19,6 @@ consolidacao:
   - id: pt:dre:208255:por
     title: Decreto-Lei n.º 215/97
     publication_date: '1997-08-18'
-  - id: pt:dre:468830:por
-    title: Portaria n.º 18/78
-    publication_date: '1978-01-11'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -498,7 +495,7 @@ e) O Grupo de Trabalho sobre Poluição do Ar, criado pela [Portaria n.º 22035]
 
 1. As direcções-gerais são órgãos centrais a que compete, dentro das suas atribuições específicas, orientar as instituições, serviços e estabelecimentos de saúde e assistência, coordenar a sua actuação e fiscalizar a execução das respectivas actividades.
 
-2. (Revogado.)
+2 - (Revogado.)
 
 3. A Direcção-Geral dos Hospitais orienta, coordena e fiscaliza as actividades dos estabelecimentos hospitalares centrais e distritais e presta o apoio que lhe seja solicitado pela Direcção-Geral de Saúde no domínio das atribuições de internamento que a esta competem.
 
@@ -782,15 +779,15 @@ d) A proibição de venda e apreensão dos produtos fabricados em contravenção
 
 ###### Artigo 36.º — Outros serviços
 
-1. (Revogado.)
+1 - (Revogado.)
 
-2. (Revogado.)
+2 - (Revogado.)
 
-3. (Revogado.)
+3 - (Revogado.)
 
-4. (Revogado.)
+4 - (Revogado.)
 
-5. (Revogado.)
+5 - (Revogado.)
 
 6. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, designadamente das Inspecções Superiores de Profilaxia e de Medicina Social, ao qual compete armazenar e conservar o material sanitário de consumo corrente, bem como os medicamentos, soros, vacinas, desinfectantes, desinfestantes e outras substâncias de utilização normal, e ainda recolher e cuidar da manutenção das viaturas em serviço.
 
@@ -1282,7 +1279,7 @@ e) Exercer as demais competências que por lei lhes sejam cometidas.
 
 2. As autoridades sanitárias distritais são coadjuvadas pelo pessoal técnico que for indispensável ao serviço, conforme a extensão e as valências dos respectivos centros de saúde.
 
-3. Em Lisboa e Porto haverá dois directores de saúde, designando o Secretário de Estado da Saúde aquele a quem, coadjuvado pelo outro e por demais pessoal técnico indispensável, compete dirigir os serviços.
+3 - Em Lisboa e Porto haverá dois directores de saúde, designando o Secretário de Estado da Saúde aquele a quem, coadjuvado pelo outro e por demais pessoal técnico indispensável, compete dirigir os serviços.
 
 4. Os directores de saúde dirigem os centros de saúde distritais, pelo que perceberão uma gratificação.
 
@@ -1683,10 +1680,6 @@ p) [Decreto-Lei n.º 102/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 3. A integração dos serviços oficiais de saúde e assistência das ilhas adjacentes na orgânica estabelecida por este diploma será feita nos termos e prazos a fixar em portaria dos Ministros do Interior e da Saúde e Assistência.
 
 4. Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
-
-Para efeito de preenchimento dos lugares de auxiliar de enfermagem de saúde pública e de enfermeiro de 3.ª e de 2.ª classes de saúde pública é considerado como limite o número global correspondente ao somatório do número de lugares destas três categorias.
-
-> Alterado pelo/a [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830), publicado em 1978-01-11.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 

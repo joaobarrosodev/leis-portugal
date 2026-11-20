@@ -51,19 +51,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterações aos mapas I e II anexos (art. 5.º do DL 331/72, art. 2.º do Decreto 823/76, art. 3.º do DR 18/77, art. 1.º do DR 7/78): os mapas só existem em imagem ('ver documento original'), não aplicadas.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 5.º, n.º 1 (alteração dos mapas I e II anexos): só em imagem: os mapas novos vêm só em imagem e o texto atual não tem título de anexo para os mapas (vêm dentro do corpo do art. 52.º).\nAlterador 1, arts. 1.º a 3.º e art. 5.º quanto aos quadros II, VI, VIII, IX e X: outro diploma: alteram o Decreto-Lei n.º 413/71.\nAlterador 4, art. 2.º (alteração do mapa I, carreira farmacêutica): só em imagem: o mapa vem só em imagem e não há título de anexo no texto atual.\nAlterador 4, art. 3.º (alteração dos quadros e colocação como chefes de serviço): não textual: norma transitória e de execução.\nAlterador 5, art. 3.º (substituição do n.º VII do mapa II): só em imagem: o mapa vem só em imagem e não há título de anexo no texto atual.\nAlterador 5, art. 4.º (quadro X anexo ao Decreto-Lei n.º 413/71): outro diploma: altera o Decreto-Lei n.º 413/71.\nAlterador 5, arts. 5.º a 7.º (transição do pessoal e encargos): não textual: normas transitórias.\nAlterador 6, art. 1.º (alteração do mapa I): só em imagem: o mapa vem só em imagem e não há título de anexo no texto atual; a parte do quadro X é de outro diploma (Decreto-Lei n.º 413/71).\nAlterador 6, art. 2.º (n.º 3 do art. 59.º): outro diploma: altera o Decreto-Lei n.º 413/71.\nAlterador 7, artigo único (letras M ou L para os auxiliares de saúde pública): não textual: fixa a remuneração da categoria em quadros e mapas, sem alterar o texto de nenhum artigo.",
   "instrucoes": [
-    "DL 331/72 art. 1.º-3.º: alteram e aditam artigos do DL 413/71 (outro diploma): ignorados.",
-    "DL 331/72 art. 4.º: nova redacção do 7.º (depois substituída pelo DR 7/78) e do 29.º (aplicada, 4 números).",
-    "DL 331/72 art. 5.º: alteração dos mapas I e II, só em imagem: não aplicada.",
-    "DL 471/74: nova redacção do n.º 6 do 13.º: aplicada.",
-    "DL 58/75: nova redacção do 40.º: aplicada.",
-    "Decreto 823/76 art. 1.º: alíneas b) e c) do n.º 4 do 21.º: aplicadas; art. 2.º (mapa I) só em imagem; art. 3.º não textual.",
-    "DR 18/77 art. 1.º: nova redacção do 38.º e do n.º 15 do 39.º: aplicadas; art. 2.º: n.º 16 do 39.º revogado e o n.º 17 passa a n.º 16 (o antigo n.º 16 desaparece); art. 3.º mapa II em imagem.",
-    "DR 7/78 art. 3.º: nova redacção do 7.º e do n.º 2 do 8.º: aplicadas; art. 1.º (mapa I) em imagem; art. 2.º altera o DL 413/71: ignorado.",
-    "Decreto do Governo 40/83: não altera o texto do original (letras de vencimento de categoria): nada a aplicar."
+    "Alterador 1 (DL 331/72), art. 4.º: nova redação dos arts. 7.º e 29.º (o 7.º volta a ser substituído pelo alterador 6; o 29.º fica com os n.os 1 a 4 do alterador).",
+    "Alterador 1, art. 5.º: mapas I e II só em imagem, sem título de anexo: nao_aplicavel.",
+    "Alterador 2 (DL 471/74): nova redação do n.º 6 do art. 13.º.",
+    "Alterador 3 (DL 58/75): nova redação do art. 40.º.",
+    "Alterador 4 (Decreto 823/76), art. 1.º: novas als. b) e c) do n.º 4 do art. 21.º; art. 2.º (mapa I) só em imagem; art. 3.º não textual.",
+    "Alterador 5 (DR 18/77), art. 1.º: nova redação do art. 38.º e do n.º 15 do art. 39.º; art. 2.º: revogado o n.º 16 do art. 39.º e o n.º 17 passa a n.º 16; art. 3.º (mapa II) só em imagem; art. 4.º outro diploma.",
+    "Alterador 6 (DR 7/78), art. 3.º: nova redação do art. 7.º e do n.º 2 do art. 8.º; art. 1.º (mapa I) só em imagem; art. 2.º outro diploma.",
+    "Alterador 7 (Decreto do Governo 40/83): não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

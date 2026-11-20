@@ -10,18 +10,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Acórdão do Tribunal Constitucional n.º 801/2014: declara com força obrigatória geral a inconstitucionalidade do n.º 4 do artigo 3.º (numeração da Lei 1/2013); não é alteração textual, pelo que o texto do n.º 4 se mantém.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º (nova redação do art. 18.º da Lei n.º 19/2003): outro diploma; a lei original só deu redação a esse diploma.\nAlterador 2, declaração de inconstitucionalidade com força obrigatória geral do n.º 4 do art. 3.º (numeração da Lei n.º 1/2013): não textual; o acórdão não elimina o texto.\nAlterador 2, declaração de inconstitucionalidade do n.º 8 do art. 5.º da Lei n.º 19/2003: outro diploma.\nAlterador 3, art. 2.º (nova redação dos arts. 5.º e 12.º da Lei n.º 19/2003): outro diploma.\nAlterador 5, arts. 1.º e 2.º (reduções e nova redação dos arts. 5.º e 12.º da Lei n.º 19/2003): outro diploma.\nAlterador 8, alteração da Lei n.º 77/88 (LOFAR): outro diploma; o original só aparece na lista das alterações anteriores.",
   "instrucoes": [
-    "Lei 1/2013 art. 1.º: nova redação do art. 3.º — n.os 1 e 2 novos (reduções até 2016), antigos n.os 2 e 3 passam a 3 e 4 — aplicado.",
-    "Lei 1/2013 art. 2.º: altera a Lei 19/2003 — ignorado.",
-    "Acórdão TC 801/2014: inconstitucionalidade do n.º 4 do art. 3.º — não textual (nao_aplicavel).",
-    "Lei Orgânica 5/2015: altera a Lei 28/82 e a Lei 19/2003 — ignorado.",
-    "Lei 4/2017 art. 4.º n.º 1: revoga os n.os 1 e 2 do art. 3.º na redação da Lei 1/2013 (as reduções) — \"1 - (Revogado.)\" e \"2 - (Revogado.)\", ficando os n.os 3 e 4 (antigos 2 e 3). O reparo do verificador não procede: a redação da Lei 1/2013 está no alterador 1 e a numeração é a dela.",
-    "Lei 4/2017 arts. 1.º e 2.º: alteram a Lei 19/2003 — ignorado.",
-    "Leis 42/2016, 114/2017 e LO 1/2018: sem artigos dirigidos ao original.",
-    "Lei 50/2025: altera a Lei 77/88 (LOFAR) — ignorado."
+    "Alterador 1 (Lei 1/2013), art. 1.º: nova redação do art. 3.º com novos n.os 1 e 2 e os antigos n.os 2 e 3 renumerados 3 e 4: aplicada (o reparo diz que a vista não mostra a Lei 1/2013, mas ela está no pedido como alterador 1, por isso a renumeração confirma-se).",
+    "Alterador 2 (Acórdão TC 801/2014): declara inconstitucional o n.º 4 do art. 3.º: não textual, texto mantido; vai em nao_aplicavel.",
+    "Alterador 5 (Lei 4/2017), art. 4.º, n.º 1: revoga os n.os 1 e 2 do art. 3.º na redação da Lei 1/2013: '1 - (Revogado.)' e '2 - (Revogado.)'; ficam os n.os 3 (referências ao salário mínimo) e 4 (natureza interpretativa).",
+    "Alteradores 4, 6 e 7: o pedido não traz texto nenhum dirigido ao original; nada a aplicar.",
+    "Alterações da Lei 19/2003 e da Lei 77/88 feitas pelos alteradores 1, 3, 5 e 8: são de outro diploma; arts. 1.º e 2.º do original ficam como estão."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

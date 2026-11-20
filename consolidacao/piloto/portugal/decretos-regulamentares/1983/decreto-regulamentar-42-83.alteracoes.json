@@ -1160,5 +1160,19 @@
     "unidade": [],
     "diploma": "pt:dre:493271:por",
     "alterador": "pt:dre:533376:por;pt:dre:396352:por;pt:dre:221310:por;pt:dre:498574:por"
+  },
+  {
+    "artigo": "SUBSECÇÃO VI — Pessoal técnico superior",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "##### SUBSECÇÃO VI — Pessoal técnico superior",
+    "depois": "##### SUBSECÇÃO VI — Pessoal técnico superior e técnico",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:493271:por",
+    "alterador": "pt:dre:533376:por;pt:dre:396352:por;pt:dre:221310:por;pt:dre:498574:por"
   }
 ]

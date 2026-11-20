@@ -40,15 +40,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 241/92 (art. 1.º) extingue o Instituto Politécnico de Faro e DL 304/94 (art. 7.º) extingue a Escola Superior de Tecnologia de Tomar e cria novos institutos e escolas, sem alterarem nem revogarem expressamente o texto dos artigos 5.º, 10.º ou 17.º; o DL 373/88 articula a Universidade do Algarve e o Instituto Politécnico de Faro sem alteração textual. Esses textos ficam como estão.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, articulação da Universidade do Algarve com o Instituto Politécnico de Faro e reconversão das escolas deste (arts. 1.º e 16.º): não textual — regula de novo o Instituto sem dar nova redação nem revogar o artigo 10.º do original.\nAlterador 4, extinção do Instituto Politécnico de Faro (art. 1.º): não textual — extingue o Instituto sem revogar nem alterar a alínea e) do artigo 5.º nem o artigo 10.º.\nAlterador 5, criação e extinção de institutos e escolas (arts. 1.º a 8.º, incluindo a extinção da Escola Superior de Tecnologia de Tomar): não textual — não dá nova redação nem revoga artigos do original (por exemplo, a alínea b) do n.º 1 do artigo 17.º).\nAlterador 6, integração das escolas superiores de tecnologia da saúde nos Institutos Politécnicos de Coimbra, Lisboa e Porto (art. 1.º): não textual — não adita alíneas aos artigos 9.º, 11.º e 12.º.",
   "instrucoes": [
-    "Lei 29/80 art. 1.º: nova redação do n.º 2 do art. 9.º e do art. 20.º — aplicado.",
-    "Lei 29/80 art. 2.º: revogadas as als. b) e c) do n.º 1 do art. 9.º, als. b) e c) do n.º 1 e n.º 2 dos arts. 11.º e 12.º, al. a) do n.º 1 e n.º 2 do art. 17.º e als. b) e c) do art. 23.º — aplicado.",
-    "DL 333/88: nova redação do art. 11.º (proémio \"é composto pelos\" e al. e) \"Escola Superior de Comunicação Social\") — aplicado; o reparo do verificador que dizia não haver base não procede; o n.º 2 fica \"2 - (Revogado.)\" como o verificador apontou.",
-    "DL 373/88, DL 241/92 e DL 304/94: sem alteração textual do original (nao_aplicavel).",
-    "DL 175/2004 art. 13.º n.º 1: revogadas a al. d) do n.º 1 dos arts. 11.º e 12.º — aplicado; restantes revogações dirigidas a outros diplomas ignoradas."
+    "Alterador 1 (Lei 29/80), art. 1.º: nova redação do n.º 2 do artigo 9.º (n.º 1 «...» fica) e do artigo 20.º.",
+    "Alterador 1, art. 2.º: revogadas as alíneas b) e c) do n.º 1 do artigo 9.º, as alíneas b) e c) e o n.º 2 dos artigos 11.º e 12.º, a alínea a) do n.º 1 e o n.º 2 do artigo 17.º e as alíneas b) e c) do artigo 23.º.",
+    "Alterador 2 (DL 333/88), artigo único: nova redação do proémio («é composto pelos seguintes») e da alínea e) («Escola Superior de Comunicação Social») do artigo 11.º; a) a d) «...» ficam como estavam (b e c já revogadas). O reparo diz que nenhum alterador muda o proémio nem a alínea e), mas o texto do DL 333/88 dá-lhes nova redação; por isso apliquei-a.",
+    "Alterador 6 (DL 175/2004), art. 13.º, n.º 1: revogadas a alínea d) do n.º 1 do artigo 11.º e a alínea d) do n.º 1 do artigo 12.º; o resto do art. 13.º é de outros diplomas.",
+    "Alteradores 3, 4 e 5 e art. 1.º do alterador 6: sem instrução textual sobre o original; vão em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

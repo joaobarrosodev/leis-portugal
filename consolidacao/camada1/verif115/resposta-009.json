@@ -1,0 +1,96 @@
+[
+ {
+  "id": "pt:dre:303221:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Arts. 4.º e 5.º n.º 1 do original substituídos pela redação do DL 274/98 art. 1.º (n.º 2 do art. 5.º mantido por '...'); restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "DL 394-A/98 art. 6.º n.º 2: item Póvoa retirado da via estreita; Guimarães transferido para a via larga com a nova redação, no fim da via larga. Resto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 394-A/98 art. 6.º n.º 1: aditamento da alínea d) ao n.º 2 do art. 2.º dos Estatutos da CP aprovados pelo DL 109/77",
+    "motivo": "Visa os Estatutos aprovados pelo DL 109/77 (outro diploma); a instrução não diz 'na redação dada pelo DL 116/92' e o n.º 2 do art. 2.º do original só tem '...'."
+   },
+   {
+    "instrucao": "DL 394-A/98 art. 6.º n.os 3 a 6 (aditamento ao art. 11.º do DL 104/97, anexo V do DL 104/97, compensações à CP)",
+    "motivo": "Visam outro diploma (DL 104/97) ou não são textuais (compensações)."
+   },
+   {
+    "instrucao": "DL 137-A/2009 art. 16.º: revoga o DL 109/77, alterado pelos DL 406/78, 116/92 e 274/98",
+    "motivo": "Revoga outro diploma (DL 109/77); o original só aparece na lista das suas alterações."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:308336:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 3.º al. a): 'e)' passa a 'd)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 4.º al. a): 'e)' passa a 'd)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 5.º al. a): 'e)' passa a 'd)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 6.º al. b): 'áreas destinada' passa a 'área destinada'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:311209:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Lei 40/94 art. 1.º n.º 3: novo art. 9.º (n.º 1 com 199,5 milhões, n.º 2 igual, novo n.º 3 = mapa X, n.º 4 = anterior n.º 5); anterior n.º 3 suprimido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 40/94 art. 1.º n.os 1 e 2: substituição dos mapas I a IV e IX a XI",
+    "motivo": "Texto novo só em imagem (ver documento original) e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "Declaração 66/95: alterações às despesas e receitas do OE 1994",
+    "motivo": "Quadros só em imagem; sem anexo com título onde os pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

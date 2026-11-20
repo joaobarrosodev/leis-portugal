@@ -40,7 +40,7 @@
     {
       "chave": "24.º",
       "epigrafe": "",
-      "texto": "1 - Haverá um Conselho de Ministros especializado para os assuntos económicos, presidido pelo Primeiro-Ministro, do qual fazem parte:\n\na) O Vice-Primeiro-Ministro;\n\nb) O Ministro de Estado;\n\nc) O Ministro das Finanças e do Plano;\n\nd) O Ministro do Trabalho e Segurança Social;\n\ne) O Ministro da Agricultura;\n\nf) O Ministro da Indústria e Energia;\n\ng) O Ministro do Comércio e Turismo;\n\nh) O Ministro do Equipamento Social;\n\ni) O Ministro do Mar.\n\n2 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão também nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.\n\n3 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros ministros e secretários de Estado, o presidente da Comissão para a Integração Europeia ou o Subsecretário de Estado do Orçamento, quando os assuntos a tratar se relacionem com os respectivos departamentos.",
+      "texto": "1 - Haverá um Conselho de Ministros especializado para os assuntos económicos, presidido pelo Primeiro-Ministro, do qual fazem parte:\n\na) O Vice-Primeiro-Ministro;\n\nb) O Ministro de Estado;\n\nc) O Ministro das Finanças e do Plano;\n\nd) O Ministro do Trabalho e Segurança Social;\n\ne) O Ministro da Agricultura [...]\n\nf) O Ministro da Indústria e Energia;\n\ng) O Ministro do Comércio e Turismo;\n\nh) O Ministro do Equipamento Social;\n\ni) O Ministro do Mar.\n\n2 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão também nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.\n\n3 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros ministros e secretários de Estado, o presidente da Comissão para a Integração Europeia ou o Subsecretário de Estado do Orçamento, quando os assuntos a tratar se relacionem com os respectivos departamentos.",
       "alterador": 2
     },
     {
@@ -53,25 +53,27 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "DL 388/84 (alterador 2): o art. 2.º (extinção do Ministério da Agricultura, Florestas e Alimentação e das quatro secretarias de Estado) e o art. 3.º, n.º 1 (organismos da alínea a) do artigo 43.º passam à dependência exclusiva do Ministério da Agricultura, salvo o Instituto dos Produtos Florestais) são normas autónomas sem instrução de nova redacção: o texto dos artigos 28.º, 29.º e 43.º não foi alterado; os n.os 2 e 3 do art. 3.º alteram o DL 23/84 (outro diploma). DL 279-A/85 (alterador 3): os arts. 1.º, 3.º, 4.º, 5.º e 6.º (extinção do Ministério da Qualidade de Vida, dependência dos seus serviços, etc.) são normas autónomas sem alteração textual do original. DL 451/83, DL 319/88 e DL 296-A/95 (alteradores 1, 4 e 5) não trazem instruções dirigidas ao texto do original (o DL 296-A/95 substitui a estrutura do DL 451/91, não revoga expressamente este diploma).",
+  "nao_aplicavel": "Alterador 2, art. 2.º (extinção do Ministério da Agricultura, Florestas e Alimentação e das quatro secretarias de Estado): não textual, extinção orgânica sem nova redação do original.\nAlterador 2, art. 3.º, n.º 1 (organismos da alínea a) do artigo 43.º passam à dependência exclusiva do Ministério da Agricultura, salvo o Instituto dos Produtos Florestais): não textual, não dá nova redação ao artigo 43.º.\nAlterador 3, art. 1.º (extinção do Ministério da Qualidade de Vida): não textual, extinção orgânica sem nova redação do original.",
   "instrucoes": [
-    "DL 388/84 art. 1.º, artigo 2.º alínea j): passa a «j) Ministro da Agricultura;» - aplicado (reparo confirmado).",
-    "DL 388/84 art. 1.º, artigo 16.º: nova redacção (Ministério da Agricultura; Secretarias de Estado da Produção Agrícola e do Comércio e Indústrias Agrícolas) - aplicado (reparo confirmado).",
-    "DL 388/84 art. 1.º, artigo 23.º n.º 3: nova redacção copiada letra a letra, com a gralha «Adjundo» do alterador; n.os 1, 2 e 4 ficam - aplicado (reparo confirmado).",
-    "DL 388/84 art. 1.º, artigo 24.º n.º 1 alínea e): «O Ministro da Agricultura [...]»; o «[...]» lido como o resto da unidade atual (o «;» final da alínea) - fica «e) O Ministro da Agricultura;» - aplicado (reparo confirmado).",
-    "DL 388/84 art. 1.º, artigo 33.º: nova redacção - aplicado (reparo confirmado).",
-    "DL 388/84 arts. 2.º e 3.º: normas autónomas ou dirigidas ao DL 23/84 - nao_aplicavel.",
-    "DL 279-A/85 art. 2.º, artigo 2.º: «...» e novas alíneas p) Ministro dos Assuntos Parlamentares e q) Ministro do Mar; sai a alínea do Ministro da Qualidade de Vida e a antiga r) - aplicado sobre a redacção do DL 388/84 (reparo confirmado).",
-    "DL 279-A/85 art. 2.º, artigo 6.º: corpo e alíneas a) e b) ficam; novas alíneas c) a h) - aplicado (reparo confirmado).",
-    "DL 279-A/85 art. 2.º, artigo 8.º: nova redacção dos n.os 1 a 3 (com «Qualidade Vida» como no alterador) - aplicado (reparo confirmado).",
-    "DL 279-A/85 art. 7.º: revoga o artigo 20.º - «(Revogado.)».",
-    "DL 279-A/85 arts. 1.º, 3.º a 6.º e 8.º: normas autónomas ou de produção de efeitos - nao_aplicavel / sem efeito no texto.",
-    "DL 451/83, DL 319/88 e DL 296-A/95: sem instruções dirigidas ao texto do original."
+    "Alterador 1 (DL 451/83): mantém em vigor o DL 293/82 no MAFA; não altera o texto do original; nada aplicado.",
+    "Alterador 2, art. 1.º: nova redação da alínea j) do art. 2.º (Ministro da Agricultura), aplicada.",
+    "Alterador 2, art. 1.º: nova redação do art. 16.º (Ministério da Agricultura, duas secretarias de Estado), aplicada.",
+    "Alterador 2, art. 1.º: nova redação do n.º 3 do art. 23.º, aplicada; n.os 1, 2 e 4 ficam.",
+    "Alterador 2, art. 1.º: nova redação da alínea e) do n.º 1 do art. 24.º, copiada letra a letra do alterador («e) O Ministro da Agricultura [...]»); restantes alíneas e números ficam.",
+    "Alterador 2, art. 1.º: nova redação do art. 33.º, aplicada.",
+    "Alterador 2, arts. 2.º e 3.º n.º 1: não textuais (ver nao_aplicavel); art. 3.º n.os 2 e 3 alteram o DL 23/84 (outro diploma), ignorados; arts. 4.º e 5.º sem alteração ao original.",
+    "Alterador 3, art. 2.º: art. 2.º do original — alíneas a) a o) ficam (com a j) do alterador 2), p) Ministro dos Assuntos Parlamentares e q) Ministro do Mar; sai o Ministro da Qualidade de Vida e a antiga r).",
+    "Alterador 3, art. 2.º: art. 6.º — proémio e alíneas a) e b) ficam; alíneas c) a h) com a nova redação.",
+    "Alterador 3, art. 2.º: art. 8.º com a nova redação dos n.os 1 a 3.",
+    "Alterador 3, art. 7.º: revoga o art. 20.º do original; fica (Revogado.).",
+    "Alterador 3, arts. 1.º, 3.º a 6.º: extinção do Ministério e regras orgânicas, sem nova redação do original (art. 1.º em nao_aplicavel).",
+    "Alterador 4 (DL 319/88): cria um lugar no quadro da Secretaria-Geral do Ministério da Saúde (DL 210/87); não altera o original.",
+    "Alterador 5 (DL 296-A/95): nova Lei Orgânica do Governo que substitui a do DL 451/91; nenhuma instrução dirigida ao DL 344-A/83."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "24.º: parágrafo que não está no alterador nem no original: e) O Ministro da Agricultura;"
-  ],
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

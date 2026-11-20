@@ -83,27 +83,33 @@ c) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do 
 
 d) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;
 
-e) [Actual alínea d).]
+e) Rendimento médio mensal bruto (Rmb) - quantitativo que resulte da divisão por 12 dos rendimentos auferidos por todos os elementos do agregado familiar no ano civil anterior ao da candidatura;
 
-f) [Actual alínea e).]
+f) Salário mínimo nacional (Smn) - média das remunerações mínimas mensais garantidas e aprovadas para a generalidade dos trabalhadores, reportadas ao ano anterior ao da candidatura;
 
-g) [Actual alínea f).]
+g) Área bruta (A) - somatório do espaço circunscrito pelas paredes exteriores da habitação, que pode desenvolver-se num ou mais pisos;
 
-h) [Actual alínea g).]
+h) Factor familiar (Ff) - factor de bonificação, que contempla o número de dependentes do agregado familiar, resultante da fórmula seguinte, em que y representa o número de dependentes do agregado familiar padrão, a fixar por resolução do Governo Regional dos Açores:
 
-i) [Actual alínea h).]
+Ff = Nd/y
 
-j) [Actual alínea i).]
+i) Factor económico (Fe) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla o valor do salário mínimo nacional e o rendimento médio mensal bruto e em que n representa o número de salários mínimos, a fixar por resolução do Governo Regional dos Açores:
+
+Fe = (n x Smn)/Rmb
+
+j) Factor habitação (Fh) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla a área da habitação e em que X representa a área por dependente, a fixar por resolução do Governo Regional dos Açores:
+
+Fh = (Nd x X)/A
 
 l) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:
 
 Ap = (((Ff + Fe + Fh)/3z) + 1) x Vp
 
-m) [Actual alínea 1).]
+m) Rendimentos - remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho que revistam carácter certo e permanente, os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos, as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória;
 
-n) [Actual alínea m).]
+n) Situação habitacional não resolvida - toda aquela situação em que se encontre uma pessoa singular de não ter uma habitação com as condições de habitabilidade mínimas e ou adequadas ao seu agregado familiar, não as podendo obter por outros mecanismos legais que não os definidos no presente diploma;
 
-o) [Actual alínea n).]
+o) Agregado familiar em situação de desequilíbrio sócio-económico - traduz uma relação desajustada com o contexto sócio-económico e habitacional onde se insere, na medida em que não consegue gerar e ou gerir os recursos necessários para a satisfação das suas necessidades básicas, nomeadamente alimentação, vestuário, habitação, saúde e educação.
 
 2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.
 

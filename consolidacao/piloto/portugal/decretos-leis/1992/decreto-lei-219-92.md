@@ -384,7 +384,7 @@ A nomeação dos júris previstos neste diploma é feita pelo dirigente do organ
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), publicado em 1999-04-20.
+> Alterado pelo/a [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), publicado em 1999-04-20.
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Filipe Alves Monteiro - António Fernando Couto dos Santos - Jorge Manuel Mendes Antas - Arlindo Gomes de Carvalho - João Prates Bebiano.
 

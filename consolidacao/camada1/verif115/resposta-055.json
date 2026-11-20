@@ -1,0 +1,203 @@
+[
+ {
+  "id": "pt:dre:455465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 55/98 (art. 1.º), igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 conforme DL 55/98; n.os 1 a 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 55/98 (alíneas renumeradas, n.os 2, 6 e 7 novos; n.os 3 a 5 mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "O consolidado tem a nova redação do DL 55/98 mas deixa ainda, em parágrafo seguinte, a frase antiga do original ('...pelo Ministro da Presidência.'). A redação nova substitui o artigo inteiro.",
+    "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Conforme DL 55/98 (n.º 2 novo, n.º 1 mantido).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 (art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 (art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Troca de conteúdo com o art. 11.º por DL 55/98 (n.os 1 e 2 do atual art. 11.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Conteúdo do atual art. 10.º com o n.º 3 aditado pelo DL 23/96, por DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 (art. 8.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 43/96; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 conforme DL 55/98 (substitui DL 43/96); restantes n.os mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 conforme DL 17/99; restantes n.os mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 (art. 8.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Redação integral do DL 55/98 (n.os 1 a 4); n.os 5 e 6 deixam de existir.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 55/98; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas d) a x) do n.º 3 conforme DL 23/96 (art. 5.º); restante mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Conforme DL 55/98: n.º 3 original eliminado e n.º 4 passa a n.º 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 55/98; restantes n.os mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 55/98; restantes n.os mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 55/98; restantes n.os mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 (nova redação) e n.os 6 a 8 (aditados) conforme DL 23/96 (art. 7.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 (art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 (art. 2.º).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 3-B/96: regime do Alto-Comissário para a Igualdade e a Família (só remete para o n.º 7 do art. 6.º do original)",
+    "motivo": "Confirmado: o diploma não contém nenhuma instrução de alteração ao original."
+   },
+   {
+    "instrucao": "DL 55/98, art. 3.º: referências a Ministros extintos consideram-se feitas a outros Ministros",
+    "motivo": "Confirmado: norma remissiva/interpretativa, sem nova redação de artigos do original (mudança de designação sem nova redação)."
+   },
+   {
+    "instrucao": "DL 474-A/99, art. 37.º n.º 1: a estrutura orgânica do DL 296-A/95 'é substituída' pela do novo diploma",
+    "motivo": "Confirmado: substituição global sem revogação expressa nem nova redação de artigos do original; não é textual. Ressalva: pode ser lida como revogação tácita total (dúvida de política de consolidação)."
+   },
+   {
+    "instrucao": "DL 171/2004 (orgânica do Ministério da Segurança Social e do Trabalho)",
+    "motivo": "Confirmado: nenhuma instrução dirigida ao DL 296-A/95 (só aparece em remissões de outros diplomas)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

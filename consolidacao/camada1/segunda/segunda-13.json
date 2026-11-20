@@ -1,0 +1,11 @@
+[
+ {
+  "id": "pt:dre:655311:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Artigo 59.º: a alínea g) do artigo 50.º do Decreto-Lei n.º 132/2019 revoga, a partir de 1/1/2020, o artigo 2.º do Decreto-Lei n.º 237/2004, que é precisamente a norma que deu ao artigo 59.º a epígrafe «Tesoureiros de finanças», o novo n.º 7 e os n.os 8 a 13. Quem consolidou tratou esta revogação como sem efeito no texto, por ser sobre «outro diploma», e o verificador aceitou. Mas assim a revogação fica sem conteúdo útil, e a leitura mais natural é que o legislador quis eliminar o regime de 2004 dos tesoureiros de finanças. Nesse caso, os n.os 7 a 13 do artigo 59.º ficariam «(Revogado.)», e o n.º 7 original não renasce (n.º 4 do artigo 7.º do Código Civil). Sem uma consolidação oficial no acervo nem registo do DRE sobre o artigo 59.º, não consigo decidir entre manter o texto de 2004 (como está) e dar os n.os 7 a 13 por revogados.",
+   "Nota, sem reparo: o rótulo da relação repealed_by (DL 132/2019) inclui os artigos 30.º e 31.º e omite o 73.º. O texto da alínea f) do artigo 50.º no acervo diz «28.º, 29.º e 32.º» e «72.º a 76.º». O consolidado segue o texto: os artigos 30.º (na redação do DL 17/2017) e 31.º em vigor, o 73.º revogado. Parece um erro do rótulo, mas convém confirmar no PDF do DR n.º 166/2019 se a alínea f) não diz «28.º a 32.º»."
+  ],
+  "vigencia": null
+ }
+]

@@ -21,16 +21,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "As alterações ao mapa anexo do artigo 1.º (DL 95/72, arts. 3.º e 4.º; Portarias 543/75, 38/76, 313/76, 1/77, 179/77, 746/78, 192/79, 395/79, 765/79, 211/81, 456/81 e 990/81; DL 26/78, art. 1.º) mexem em lugares, categorias e letras de vencimento de um mapa que só existe em imagem ('ver documento original'); não se aplicam ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º, n.º 1, substituição da categoria de auxiliar técnico de desmagnetização no grupo III do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 1, art. 4.º, n.º 1, nova subdivisão do grupo IV «Pessoal hospitalar» do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 2, aumento e eliminação de lugares nos grupos I, V, XV, XVIII, XX, XXII e XXIII do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 3, aumento e eliminação de lugares no grupo XXIII do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 4, aumento de um lugar no grupo VII e eliminação de um no grupo XXIII do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 5, aumento de dois contínuos no grupo XXII e eliminação de dois serventes no grupo XXIII do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 6, aumento de dois lugares de motorista e diminuição de dois de operário no mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 7, art. 1.º, novo quadro do grupo V integrado no mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 8, aumento de lugares do mapa A e pessoal supranumerário do mapa B: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 9, aumento de um lugar de programador estagiário no grupo V do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 10, alterações aos grupos I, III, IV, VII, VIII, XV, XVII, XVIII, XIX, XX, XXII e XXIII do quadro: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 11, aumento de um operador-chefe e eliminação de dois operadores de registo no grupo V do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 12, nova constituição do grupo IV (pessoal técnico auxiliar e auxiliar de farmácia) segundo o mapa anexo à portaria: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 13, aumento de lugares no grupo V e eliminação nos grupos I, II e V do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.\nAlterador 14, aumento de um lugar no grupo IX e eliminação de dois no grupo I do mapa: só em imagem: o mapa anexo (artigo 1.º, n.º 1) só existe em imagem dentro do texto do artigo 18.º e não há título de anexo onde o pôr.",
   "instrucoes": [
-    "DL 95/72, art. 1.º: aditado o n.º 4 ao art. 4.º, copiado letra a letra (incluindo 'para para').",
-    "DL 95/72, art. 2.º: substituído o n.º 2 do art. 11.º (quatro alíneas); n.º 1 mantido do texto atual.",
-    "DL 95/72, arts. 3.º e 4.º: alteram categorias do grupo III e o grupo IV do mapa anexo (em imagem); não aplicados (nao_aplicavel).",
-    "Portarias 543/75, 38/76, 313/76, 1/77, 179/77, 746/78, 192/79, 395/79, 765/79, 211/81, 456/81 e 990/81: aumentam, eliminam ou redesignam lugares do mapa anexo; mapa só em imagem, não aplicadas (nao_aplicavel).",
-    "DL 26/78, art. 1.º: novo quadro do grupo V integrado no mapa anexo (em imagem); não aplicado (nao_aplicavel).",
-    "DL 26/78, art. 3.º: o corpo do art. 6.º passa a n.º 1 e é aditado o n.º 2; aplicado com a numeração '1 - ' / '2 - ' do alterador."
+    "Alterador 1 (DL 95/72), art. 1.º: aditado o n.º 4 ao artigo 4.º.",
+    "Alterador 1, art. 2.º: nova redacção do n.º 2 do artigo 11.º (alíneas a) a d)).",
+    "Alterador 1, arts. 3.º e 4.º, n.º 1: alterações ao mapa, só em imagem e sem título de anexo: não aplicadas; arts. 3.º, n.º 2, 4.º, n.os 2 a 4, e 5.º são normas autónomas.",
+    "Alteradores 2 a 6 e 8 a 14 (portarias): alterações aos lugares do mapa, que só existe em imagem e sem título de anexo: não aplicadas.",
+    "Alterador 7 (DL 26/78), art. 3.º: o corpo do artigo 6.º passa a n.º 1 e é aditado o n.º 2; art. 1.º (quadro do grupo V) não aplicado; arts. 2.º e 4.º autónomos."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

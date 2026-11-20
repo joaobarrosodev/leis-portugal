@@ -1,0 +1,39 @@
+[
+ {
+  "id": "pt:dre:173758:por",
+  "artigos": [
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "certo",
+    "motivo": "Epígrafe: DL 44-G/2010 art. 3.º n.º 1 a) deu 'Funções do InIR' e DL 110/2015 art. 3.º n.º 1 a) deu 'Funções do IMT'; o consolidado tem 'IMT'. Mas a base XXIV por baixo ficou por alterar (ver instrucoes_em_falta).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO X",
+    "veredicto": "certo",
+    "motivo": "Epígrafe: DL 110/2015 art. 3.º n.º 1 b) dá 'Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios'; o consolidado coincide. O corpo (bases XLV a LI) ficou igual ao original, falta aplicar as alterações às bases (ver instrucoes_em_falta).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 19/2007 art. 2.º e 4.º: bases I, II, V, XXVI e revogação da alínea f) do n.º 1 da base II: sem efeito; alvo incerto (bases fora de CAPÍTULO VII e X, cujo texto não vem na vista).",
+   "DL 44-G/2010 art. 1.º: nova redação da base XXIV (InIR em vez de IEP; 'podem ser executados pelo InIR') no CAPÍTULO VII: não aplicada, o consolidado ainda diz 'IEP' (sem texto por imagem nem remissão que o impeça).",
+   "DL 44-G/2010 art. 1.º: nova redação das bases XLV, XLVI, XLVII, XLVIII, XLIX e L do CAPÍTULO X (a base XLV passa p.ex. a ter o n.º 1 'A Concessionária deve manter a Auto-Estrada, bem como os demais bens...'): não aplicada, o consolidado mantém o texto original; as bases estão no texto do consolidado, portanto o alvo é conhecido.",
+   "DL 110/2015 art. 1.º: nova redação da base XXIV (IMT, 'são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa'): não aplicada.",
+   "DL 110/2015 art. 1.º: nova redação das bases XLV, XLVII, XLVIII e L do CAPÍTULO X: não aplicada.",
+   "DL 110/2015 art. 5.º: revogação dos n.os 6 e 7 e das alíneas d) e l) do n.º 8 da base XLV, dos n.os 2 e 3 da base XLVIII e da alínea f) do n.º 4 e n.º 5 da base L: não aplicada, os números existem no CAPÍTULO X do consolidado.",
+   "DL 44-G/2010 art. 1.º e DL 110/2015 art. 1.º, 2.º, 5.º: restantes bases (I, II, IV a XXIII, XXV a XLIV, LII a LXXXIX, e aditamentos XVIII-A, XXXIV-A, LI-A, LVII-A a LVII-BB, LXV-A a E, etc.): sem efeito; alvo incerto (as bases dos outros capítulos não aparecem na vista; os capítulos 'iguais ao original' não foram alterados).",
+   "DL 44-G/2010 art. 3.º n.º 1 c) e d): epígrafes dos capítulos XVII e XXI; n.º 2: aditamento do capítulo X-A (Portagens) e secções; DL 110/2015 art. 3.º n.os 2 a 4 (epígrafes de secções do capítulo X-A e aditamento do capítulo XXII-A): sem efeito; alvo incerto (estes títulos não existem no consolidado, que só chega ao capítulo X).",
+   "DL 44-G/2010 art. 6.º n.º 2 e DL 110/2015 art. 6.º n.º 2: onde se lê 'InIR' deve ler-se 'IMT' na republicação: não aplicado nas bases do CAPÍTULO X/VII (base XXIV ainda diz IEP)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44-G/2010 art. 6.º n.º 1 e DL 110/2015 art. 6.º n.º 1: republicação das bases em anexo",
+    "motivo": "O diploma que altera não traz o texto do anexo de republicação; confirmado na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

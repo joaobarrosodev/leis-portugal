@@ -1,0 +1,150 @@
+[
+ {
+  "id": "pt:dre:627272:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Al. d) revogada pelo art. 7.º do DL 169-C/75; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Al. b) revogada pelo art. 7.º do DL 169-C/75; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "§ único com a redação do art. 1.º do DL 67/80 (400$00); corpo igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redação final do DL 233/84 (art. 1.º), com os §§ 1 a 4 do DL 240/83 e § 2 do DL 67/80 mantido onde o 240/83 diz '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 67/80 (n.os 1 a 3).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 67/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Redação do art. 1.º do DL 240/83 (substitui a do DL 67/80).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Redação do art. 1.º do DL 240/83.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 237/70, art. 18.º: fixa em 1,5% a taxa do art. 1.º do original (art. 1.º está na lista dos IGUAIS). Depois o DL 169-C/75 fixa 4%.",
+   "DL 169-C/75, art. 1.º: taxa do art. 1.º do original (referida via art. 18.º do DL 237/70) fixada em 4%; o art. 1.º do original ficou sem efeito (alvo parcialmente indireto).",
+   "DL 169-C/75, art. 2.º: quotização do art. 2.º do original fixada em 4% (3,5% para inscritos em caixas de reforma ou previdência); art. 2.º está na lista dos IGUAIS.",
+   "DL 190/79, art. 4.º: taxa de compensação pela mora do § único do art. 14.º do original elevada para 20%; art. 14.º está na lista dos IGUAIS."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 612/76, art. 1.º: modelos de guias A e B anexos ao original substituídos pelo modelo único anexo",
+    "motivo": "Texto novo só em imagem; os modelos A e B não têm anexo com título no consolidado."
+   },
+   {
+    "instrucao": "DL 190/79, art. 3.º: multa do § único do art. 6.º reduzida a metade se paga no prazo do art. 175.º do CPCI",
+    "motivo": "Não textual: regra autónoma, sem nova redação do art. 6.º."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:631384:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Al. a) com 'nove' (DL 330/72); al. b) 'ou mistos' e n.os 2 e 3 novos (DL 136/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 136/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 depois revogada pela al. d) do art. 5.º do DL 116/94; consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 e 2); substitui a do DL 330/72.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 a 3).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Al. a) 'nove' (DL 330/72) e al. b) 'ou mistos' (DL 136/75); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 a 4).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 a 5).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 136/75 (n.os 1 e 2). O cabeçalho 'III - Disposições finais', no fim do art. 23.º do original, já não aparece.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "O cabeçalho 'III - Disposições finais' (no fim do art. 23.º do original) desapareceu do art. 23.º; não se vê se foi reposto fora dos artigos."
+ }
+]

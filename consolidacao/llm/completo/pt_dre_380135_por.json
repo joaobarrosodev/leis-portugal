@@ -63,17 +63,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 1.º (nova redação dos artigos 5.º e 14.º do Decreto-Lei n.º 384/93): outro diploma, o original só é referido no n.º 3 do artigo 14.º desse decreto-lei.\nAlterador 4, Declaração de Retificação n.º 712/2022 (retifica o Despacho n.º 9514/2022): outro diploma, o original só é citado no texto retificado do despacho.",
   "instrucoes": [
-    "Alt.1 (DL 345/89) art. 1.º: nova redação do n.º 1 dos arts. 36.º e 43.º (restantes números '...' mantidos) e nova redação integral do art. 50.º com nova epígrafe e novo n.º 3; aplicado.",
-    "Alt.1 arts. 2.º e 3.º: normas autónomas (dispensa e aplicação no tempo), não alteram o texto; ignoradas.",
-    "Alt.2 (DL 15-A/99) art. 1.º: altera o DL 384/93, não o original; ignorado.",
-    "Alt.2 art. 2.º: nova redação do art. 1.º, do n.º 1 do art. 3.º, do n.º 3 do art. 16.º e aditamento dos n.os 5 a 7, do n.º 3 do art. 19.º e dos n.os 2 e 3 do art. 21.º; aplicado.",
-    "Alt.2 arts. 3.º e 4.º: normas transitória e de vigência; ignoradas.",
-    "Alt.3 (DL 127/2000) art. 1.º: nova redação dos n.os 1 e 3 do art. 14.º e dos n.os 2 e 9 do art. 42.º; aplicado.",
-    "Alt.4 (Declaração de Retificação 712/2022): retifica o Despacho 9514/2022, não o original; nada a aplicar."
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do artigo 36.º, do n.º 1 do artigo 43.º e do artigo 50.º (epígrafe e n.os 1 a 3); os restantes números ficam como estão.",
+    "Alterador 1, arts. 2.º e 3.º: normas próprias do Decreto-Lei n.º 345/89 (dispensa de professores do ensino particular e aplicação no tempo); não alteram o texto do original.",
+    "Alterador 2, art. 1.º: altera o Decreto-Lei n.º 384/93, outro diploma (nao_aplicavel).",
+    "Alterador 2, art. 2.º: nova redação do artigo 1.º, do n.º 1 do artigo 3.º, do n.º 3 do artigo 16.º com aditamento dos n.os 5 a 7, do n.º 3 do artigo 19.º e dos n.os 2 e 3 do artigo 21.º.",
+    "Alterador 2, arts. 3.º e 4.º: norma transitória e entrada em vigor do alterador; sem alteração de texto.",
+    "Alterador 3, art. 1.º: nova redação dos n.os 1 e 3 do artigo 14.º e dos n.os 2 e 9 do artigo 42.º.",
+    "Alterador 4: retificação do Despacho n.º 9514/2022, outro diploma (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,16 @@
+[
+ {
+  "id": "pt:dre:157046:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação dos mapas n.os 2 e 3 anexos (Despacho Normativo n.º 15/81): sem texto — o pedido não traz nenhum texto deste alterador, e os mapas n.os 2 e 3 não têm título de anexo no texto atual (estão no corpo do artigo 18.º).\nAlterador 2, nova redação dos mapas n.os 2 e 3 anexos (Despacho Normativo n.º 3/82): sem texto — o pedido não traz nenhum texto deste alterador, e os mapas n.os 2 e 3 não têm título de anexo no texto atual.\nAlterador 3, nova redação dos mapas n.os 2 e 3 anexos (Despacho Normativo n.º 57/83): sem texto — o pedido não traz nenhum texto deste alterador, e os mapas n.os 2 e 3 não têm título de anexo no texto atual.\nAlterador 4, aditamento de habilitações próprias (anexo I): outro diploma — adita ao Despacho Normativo n.º 32/84, emitido ao abrigo do artigo 3.º do original; o anexo I só vem em imagem.",
+  "instrucoes": [
+   "Alterador 1 (DN 15/81): sem texto no pedido; não aplicado (nao_aplicavel).",
+   "Alterador 2 (DN 3/82): sem texto no pedido; não aplicado (nao_aplicavel).",
+   "Alterador 3 (DN 57/83): sem texto no pedido; não aplicado (nao_aplicavel).",
+   "Alterador 4 (DN 52/96): adita habilitações ao Despacho Normativo n.º 32/84, ao abrigo do artigo 3.º do original; não altera o texto do original (nao_aplicavel)."
+  ]
+ }
+]

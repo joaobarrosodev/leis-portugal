@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:629160:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "O original só tem o título; o consolidado acrescenta a imagem da republicação das bases feita pelo art. 6.º do DL 110/2009 (endereço 0306103099.pdf, imagem do diploma que altera), que substitui o anexo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 44-A/2010, art. 1.º: novas redacções parciais das bases 2 (n.os 9 e 10 novos, 11 e 12 renumerados, restantes mantidos) e 3 (nova alínea b), realinhamento c) a g)) do anexo I; o alvo é conhecido (bases 2 e 3 do anexo I) mas o consolidado só tem a imagem da republicação de 2009, sem estas alterações; texto novo existe em texto e não foi aplicado (alvo incerto não é justificação)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 13/2008, art. 1.º: nova redacção da base 10 (limite de 31-12-2099)",
+    "motivo": "Já incorporada na imagem da republicação do DL 110/2009 (art. 6.º), que o consolidado usou como corpo do anexo I; as bases só existem em imagem."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 1.º: nova redacção do art. 7.º do DL 374/2007",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 110/2009, arts. 2.º, 3.º e 5.º, n.º 2: alterações, aditamentos (bases 2-A, 7-A, 12-A, 35-A, 41-A, 63-A, quadro IV) e revogações nas bases",
+    "motivo": "Incorporadas na imagem da republicação do DL 110/2009 (art. 6.º), usada como corpo do anexo I; o texto das bases só existe em imagem."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 5.º, n.º 1: revogação dos n.os 3 e 4 do art. 8.º do DL 374/2007",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 7.º, n.º 2 e DL 44-A/2010 arts. 2.º e 3.º, Lei 13/2008 art. 2.º: produção de efeitos, outorga do contrato",
+    "motivo": "Não são textuais."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

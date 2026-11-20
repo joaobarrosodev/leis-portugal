@@ -1,0 +1,73 @@
+[
+ {
+  "id": "pt:dre:408485:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 388/84 al. j) «Ministro da Agricultura»; DL 279-A/85 p) Assuntos Parlamentares e q) Mar (Qualidade de Vida sai); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 279-A/85 art. 2.º: alíneas a) a h) novas/renumeradas; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 279-A/85 art. 2.º: n.os 1 a 3; igual (incl. «Qualidade Vida»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 388/84 art. 1.º: nova redação com duas secretarias de Estado; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 279-A/85 art. 7.º revoga o art. 20.º; consolidado «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 388/84: n.º 3 novo («sem direito a voto», «Adjundo», acrescenta o Secretário de Estado da Administração Pública); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "errado",
+    "motivo": "O consolidado deixou o marcador literal «[...]» na alínea e) do n.º 1 («O Ministro da Agricultura [...]»); não pode ficar «[...]» no texto. Com a extinção do Ministério da Agricultura, Florestas e Alimentação a redação é «O Ministro da Agricultura;» (se o [...] se substituísse pelo texto original, seria «O Ministro da Agricultura, Florestas e Alimentação;»; em qualquer caso sem o marcador).",
+    "texto_esperado": "e) O Ministro da Agricultura;"
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 388/84 art. 1.º: nova redação; igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 388/84 art. 2.º: extinção do Ministério da Agricultura, Florestas e Alimentação e de quatro secretarias de Estado",
+    "motivo": "extinção orgânica sem nova redação; os arts. 16.º, 33.º etc. já foram reescritos pelo art. 1.º"
+   },
+   {
+    "instrucao": "DL 388/84 art. 3.º, n.º 1: organismos da al. a) do art. 43.º passam à dependência exclusiva do Ministério da Agricultura (IPF para o Comércio e Turismo)",
+    "motivo": "atribuição de dependência sem texto novo para o art. 43.º (não vejo o art. 43.º na vista; está nos IGUAIS)"
+   },
+   {
+    "instrucao": "DL 279-A/85 art. 1.º: extinção do Ministério da Qualidade de Vida",
+    "motivo": "extinção orgânica sem nova redação; as consequências textuais vêm dos arts. 2.º e 7.º, aplicados"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

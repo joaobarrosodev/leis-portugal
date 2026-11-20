@@ -1,0 +1,74 @@
+[
+ {
+  "pedaco": 1,
+  "ids": [
+   "pt:dre:114796179:por",
+   "pt:dre:116043536:por"
+  ],
+  "chars": 70293
+ },
+ {
+  "pedaco": 2,
+  "ids": [
+   "pt:dre:157046:por",
+   "pt:dre:211059785:por",
+   "pt:dre:220892:por",
+   "pt:dre:234698:por"
+  ],
+  "chars": 137230
+ },
+ {
+  "pedaco": 3,
+  "ids": [
+   "pt:dre:237461:por"
+  ],
+  "chars": 136918
+ },
+ {
+  "pedaco": 4,
+  "ids": [
+   "pt:dre:241999:por",
+   "pt:dre:286105:por",
+   "pt:dre:288411:por",
+   "pt:dre:310440:por",
+   "pt:dre:322508:por"
+  ],
+  "chars": 132933
+ },
+ {
+  "pedaco": 5,
+  "ids": [
+   "pt:dre:331978:por",
+   "pt:dre:413054:por",
+   "pt:dre:424101:por"
+  ],
+  "chars": 113081
+ },
+ {
+  "pedaco": 6,
+  "ids": [
+   "pt:dre:492465:por",
+   "pt:dre:537844:por",
+   "pt:dre:541267:por"
+  ],
+  "chars": 49194
+ },
+ {
+  "pedaco": 7,
+  "ids": [
+   "pt:dre:553893:por",
+   "pt:dre:612243:por"
+  ],
+  "chars": 123141
+ },
+ {
+  "pedaco": 8,
+  "ids": [
+   "pt:dre:657446:por",
+   "pt:dre:662487:por",
+   "pt:dre:66773610:por",
+   "pt:dre:684579:por"
+  ],
+  "chars": 132932
+ }
+]

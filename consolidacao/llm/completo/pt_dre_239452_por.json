@@ -34,17 +34,21 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Portaria n.º 340/78 altera o quadro de pessoal da Escola Preparatória de Loriga, «tendo em atenção» o DL 47480: não textual (ao abrigo de; altera o mapa da Portaria n.º 776/77, outro diploma)",
   "instrucoes": [
-    "DL 48541, art. 8.º, n.º 1: aditados os n.os 4 e 5 ao art. 6.º — aplicado.",
-    "DL 48541, art. 8.º, n.º 2: nova redação dos arts. 17.º, 19.º n.º 1 (n.º 2 mantém-se: '...') e 27.º (n.os 1 a 6) — aplicado.",
-    "DL 48541, art. 12.º: revogada a segunda parte do n.º 2 do art. 25.º — aplicado (reparo confirmado): suprimida a segunda oração coordenada 'e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares', ficando o n.º 2 a terminar em 'do Ministro.'",
-    "DL 48541, arts. 1.º-7.º, 9.º-11.º e 13.º: disposições autónomas, não alteram o texto do original.",
-    "Portaria 340/78: altera o quadro de pessoal de uma escola (Portaria 776/77), não o texto do DL 47480 — nada a aplicar."
+    "Alterador 1, art. 8.º, n.º 1: aditados os n.os 4 e 5 ao art. 6.º; n.os 1 a 3 do texto atual.",
+    "Alterador 1, art. 8.º, n.º 2: nova redação do art. 17.º; do n.º 1 do art. 19.º (n.º 2 fica do texto atual); e do art. 27.º inteiro (n.os 1 a 6).",
+    "Alterador 1, art. 12.º: revogada a segunda parte do n.º 2 do art. 25.º. O n.º 2 tem duas orações ligadas por «e»: «a referida Direcção ficará na dependência imediata do Ministro» e «a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares». Tirei a segunda e deixei a primeira letra a letra do texto atual, terminada em ponto final. O reparo do programa ao parágrafo vem desta revogação parcial; o outro reparo pede que ela se aplique, e foi aplicada.",
+    "Alterador 1, arts. 1.º a 7.º, 9.º a 11.º e 13.º e as tabelas: disposições próprias do DL 48541, que não alteram o texto do original.",
+    "Alterador 2: sem instrução sobre o texto do original (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [
     "25.º: parágrafo que não está no alterador nem no original: 2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério,"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

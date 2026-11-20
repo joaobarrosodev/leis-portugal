@@ -1,0 +1,211 @@
+[
+ {
+  "id": "pt:dre:424312:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "dúvida",
+    "motivo": "A Lei 36/91 art. 2.º n.º 1 não altera o original: dá nova redação ao n.º 3 do art. 24.º da Lei 65/90, cujo texto declara revogado o art. 2.º do DL 143-A/89 'a partir da data de entrada em vigor da presente lei' e 'sem prejuízo da manutenção do regime fiscal' da dívida emitida na vigência. Efeito dependente de outro diploma e com data ambígua; o consolidado aplicou '(Revogado.)'.",
+    "texto_esperado": "Art. 2.º (Revogado.) se se aceitar a revogação por esta via; caso contrário, texto original."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:463997:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Lei 36/81 acrescenta o art. 32.º à lista do artigo único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 22.º n.º 1: acrescentado 'bem como as congregações e associações religiosas'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 29.º n.º 3: nova remissão a 32.º n.os 3 e 4 e 33.º n.os 3 e 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 31.º n.os 2 e 3 novos e art. 32.º n.º 1 novo, iguais à Lei 36/81; o n.º 2 do art. 32.º coincide com o texto antigo do 33.º n.º 2, como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 32.º n.os 3 a 6, art. 33.º n.os 1 a 6 e art. 34.º n.os 1 e 2 conforme a Lei 36/81, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 36/81: art. 36.º da Lei 80/77 listado no novo artigo único",
+    "motivo": "o diploma que altera não traz o texto da alteração (sem corpo para o art. 36.º)"
+   },
+   {
+    "instrucao": "Lei 5/84: nova redação do art. 23.º da Lei 80/77",
+    "motivo": "instrução de outro diploma (Lei 80/77), não do original"
+   },
+   {
+    "instrucao": "DL 332/91 art. 12.º n.º 1 b): revogação dos arts. 14.º e 16.º da Lei 80/77",
+    "motivo": "instrução de outro diploma (Lei 80/77), não do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:139722:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 353-B/77 acrescenta n.º 2; n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/78: n.º 3 com 'coluna (4)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/78: n.º 2 com 'determinação da matéria colectável, nos termos do Código da Contribuição Industrial'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 280/78 art. 2.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 280/78 art. 2.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "DL 280/78 art. 3.º: regras 1, 2, 3 e 7 novas; regra 3 reescrita pelo DL 66/79; regras 4 a 6 mantidas. Nota: a linha de assinatura final do anexo (ministros) do original não consta do consolidado; não é texto normativo e nenhuma instrução a visa.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Prorrogações do prazo dos n.os 1 e 2 do art. 1.º: DL 126/78 (1978), 20/79 (1979), 519-M2/79 (1980), 569/80 (1981), 72/84 (1984), 230/85 (1985), 79/88 (1988)",
+    "motivo": "não textual: prorrogação de prazo, sem nova redação"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (salvo a assinatura final do anexo, não reproduzida)"
+ },
+ {
+  "id": "pt:dre:146259:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 95/72 art. 1.º: aditado n.º 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 26/78 art. 3.º: corpo passa a n.º 1 e é aditado n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 95/72 art. 2.º: nova redação do n.º 2 (alíneas a) a d)).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 95/72 art. 3.º n.º 1: categoria de auxiliar técnico de desmagnetização substituída no grupo III do mapa",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "DL 95/72 art. 4.º n.º 1: subdivisão do grupo IV (texto novo só em imagem)",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 543/75: aumento e eliminação de lugares no mapa",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 38/76: aumento e eliminação de lugares no grupo XXIII",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 313/76: fotógrafo e operário no mapa",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 1/77: contínuos e serventes no mapa",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 179/77: motoristas e operários no mapa",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "DL 26/78 art. 1.º: novo quadro do grupo V (só em imagem)",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 746/78: mapas A e B (só em imagem)",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 192/79: programador estagiário no grupo V",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 395/79: alterações aos grupos do quadro (nos 1 a 16; partes em imagem)",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 765/79: operador-chefe e operadores de registo no grupo V",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 211/81: nova constituição do grupo IV (anexo só em imagem)",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 456/81: lugares no grupo V e eliminações nos grupos I, II e V",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "Portaria 990/81: conferencista-demonstrador (grupo IX) e eliminações no grupo I",
+    "motivo": "o mapa/quadro anexo ao original só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pt:dre:522859:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 351/97 art.1 substitui o art.2.º; texto igual."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1-5 mantidos; n.º 6 substituído pela nova redação do DL 351/97."
+   },
+   {
+    "artigo": "Artigo 7.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art.2 do DL 351/97, texto igual."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1-2 mantidos; n.º 3 substituído."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1-3 mantidos; n.º 4 aditado conforme DL 351/97."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 38/2014 art.6 al. a): revoga o art.2.º do DL 31/94 na parte em que se refere ao Reg. (CEE) 2079/92",
+    "motivo": "Revogação condicional/parcial por matéria, sem texto a eliminar; confirmado no texto do alterador."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

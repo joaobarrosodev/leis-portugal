@@ -91,6 +91,9 @@ def vista(d: dict) -> str:
         f"Alterador completo: {str(d['alterador_completo']).lower()}",
         f"Títulos normalizados: {str(bool(d.get('titulos_normalizados'))).lower()}", "",
         "### TEXTO DO DIPLOMA QUE ALTERA", d["texto_alterador"].strip(), "",
+        # Camada 1 (ronda 115): o que o respondedor diz que não aplicou, para o verificador confirmar ou não.
+        *(["### O QUE QUEM CONSOLIDOU DIZ QUE NÃO APLICOU (não é prova: confirma no texto do diploma que altera)",
+           str(d["nao_aplicavel_respondedor"]).strip(), ""] if d.get("nao_aplicavel_respondedor") else []),
         *(["### TEXTO DO ORIGINAL (inteiro, sem artigos: os trechos abaixo são os parágrafos que mudaram; o resto ficou igual)", d["texto_original"].strip(), ""] if d.get("modo") == "corrido" else
           [f"### ARTIGOS DO CONSOLIDADO IGUAIS AO ORIGINAL ({len(c['iguais'])})", "; ".join(c["iguais"]) or "(nenhum)", ""]),
         f"### {'TRECHOS' if d.get('modo') == 'corrido' else 'ARTIGOS'} DO CONSOLIDADO QUE DIFEREM DO ORIGINAL ({len(c['diferentes'])})",
@@ -161,7 +164,7 @@ def saida(ronda: int, pasta: Path) -> None:
         linhas.append({
             "id": d["id"], "instrucoes_em_falta": r.get("instrucoes_em_falta", []), "artigos_a_mais": r.get("artigos_a_mais", []),
             "artigos_em_falta": r.get("artigos_em_falta", []), "fora_dos_artigos": r.get("fora_dos_artigos") or "dúvida: o verificador não respondeu",
-        })
+        } | ({"instrucoes_justificadas": r["instrucoes_justificadas"]} if "instrucoes_justificadas" in r else {}))
         por_lote.setdefault(ficheiro.name, []).extend(json.dumps(x, ensure_ascii=False) for x in linhas)
     for nome, linhas in por_lote.items():
         destino = VERIFICACAO / nome.replace("entrada-", "saida-")

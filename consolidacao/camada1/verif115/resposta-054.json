@@ -1,0 +1,67 @@
+[
+ {
+  "id": "pt:dre:430025:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Lei 29/80: n.º 2 com nova redação; revoga alíneas b) e c) do n.º 1."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 333/88 (corpo e alínea e)); Lei 29/80 revoga b), c) e n.º 2; DL 175/2004 art. 13.º n.º 1 revoga d)."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Lei 29/80 revoga b), c) e n.º 2; DL 175/2004 art. 13.º n.º 1 revoga d)."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Lei 29/80 revoga a) do n.º 1 e o n.º 2."
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Lei 29/80 art. 1.º nova redação."
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Lei 29/80 art. 2.º revoga as alíneas b) e c)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 373/88 arts. 1.º e 16.º: articulação da Universidade do Algarve com o IP de Faro e reconversão das escolas",
+    "motivo": "Não textual: regula o Instituto sem dar nova redação nem revogar artigos do original."
+   },
+   {
+    "instrucao": "DL 241/92 art. 1.º: extinção do Instituto Politécnico de Faro",
+    "motivo": "Não textual: extingue o Instituto sem alterar nem revogar texto do original."
+   },
+   {
+    "instrucao": "DL 304/94 arts. 1.º a 8.º: criação e extinção de institutos e escolas (incl. extinção da ES Tecnologia de Tomar)",
+    "motivo": "Não textual: não dá nova redação nem revoga artigos do original (ex.: art. 17.º n.º 1 b))."
+   },
+   {
+    "instrucao": "DL 304/94 art. 9.º n.º 2: revoga disposições de outros decretos-leis",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 175/2004 art. 1.º: integração das ES de tecnologia da saúde nos IP de Coimbra, Lisboa e Porto",
+    "motivo": "Não textual: não adita nem altera alíneas dos arts. 9.º, 11.º e 12.º."
+   },
+   {
+    "instrucao": "DL 175/2004 art. 13.º: revogação da referência no art. 8.º do Decreto do Governo 46/85 e arts. do DL 99/2001",
+    "motivo": "Outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

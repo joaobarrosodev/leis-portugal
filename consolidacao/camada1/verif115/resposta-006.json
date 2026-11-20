@@ -1,0 +1,765 @@
+[
+ {
+  "id": "pt:dre:234506:por",
+  "artigos": [
+   {
+    "artigo": "SECÇÃO VII",
+    "veredicto": "errado",
+    "motivo": "Epígrafe da secção alterada correctamente (DL 315/73 art. 3.º), mas as alterações do art. 1.º do mesmo DL aos arts. 340.º (n.os 2.º e 3.º), 341.º (n.º 4.º) e 342.º (corpo, n.os 1.º e 4.º) não foram aplicadas: o corpo continua com \"manipuladores\".",
+    "texto_esperado": "#### SECÇÃO VII — Do director do laboratório, dos analistas e dos preparadores\n\nArt. 340.º Ao director do laboratório compete especialmente:\n\n1.º Dirigir todo o serviço do laboratório;\n\n2.º Fazer as análises que, pela sua importância, entenda dever efectuar pessoalmente e distribuir as demais pelos analistas e preparadores, tendo em conta a sua categoria;\n\n3.º Assinar as análises que fizer e visar as que forem feitas pelos analistas e preparadores;\n\n4.º Proceder, quanto à verificação da exactidão dos instrumentos, do mesmo modo que para as análises;\n\n5.º Estudar os corantes e desnaturantes que possam ser adoptados nas alfândegas;\n\n6.º Mandar processar as guias de pagamento das análises ou verificações de instrumentos que devam ser pagas;\n\n7.º Presidir ao júri dos concursos para manipulador e ser vogal do júri dos concursos para analistas de 1.ª e 2.ª classes;\n\n8.º Visitar os laboratórios das alfândegas, para efeitos de carácter técnico-laboratorial, quando o director-geral o determine ou ele próprio o julgue conveniente, pedindo, neste caso, a necessária autorização ao director-geral por intermédio do director do Gabinete de Estudos;\n\n9.º Fornecer ao director do Gabinete de Estudos os esclarecimentos e informações especiais que pelo mesmo lhe sejam solicitados para a boa instrução dos processos ou fundamento de estudos a que haja de proceder-se no referido Gabinete.\n\n10.º Desempenhar as demais atribuições que lhe sejam conferidas pelas leis e regulamentos.\n\nArt. 341.º Aos analistas compete especialmente:\n\n1.º Efectuar as análises que lhes forem distribuídas, assinando o competente resultado;\n\n2.º Proceder de modo idêntico com as verificações da exactidão dos instrumentos;\n\n3.º Velar pela boa conservação de todos os aparelhos e material do laboratório;\n\n4.º Fazer parte do júri dos concursos para preparador;\n\n5.º Desempenhar as demais atribuições próprias de analista.\n\n§ único. Não obstante o disposto no corpo deste artigo, as análises e outros trabalhos de maior complexidade, quando não forem efectuados pelo director do laboratório, devem ser distribuídos a analistas de 1.ª classe.\n\nArt. 342.º Aos preparadores compete especialmente:\n\n1.º Fazer as análises e as preparações que lhes sejam ordenadas pelo director do laboratório ou pelos analistas;\n\n2.º Cuidar da limpeza, arrumo e conservação dos aparelhos e outro material do laboratório;\n\n3.º Processar as guias de pagamento das análises ou verificações de instrumentos que devam ser pagas;\n\n4.º Desempenhar as demais atribuições próprias de preparador."
+   },
+   {
+    "artigo": "SECÇÃO VI #2",
+    "veredicto": "errado",
+    "motivo": "Epígrafe alterada correctamente (DL 315/73 art. 3.º), mas o art. 366.º continua com a redacção antiga (manipuladores) em vez da nova redacção (analistas) do art. 1.º, e falta o art. 366.º-A aditado pelo art. 2.º.",
+    "texto_esperado": "#### SECÇÃO VI — Dos analistas e dos preparadores\n\nArt. 366.º Aos analistas compete especialmente:\n\n1.º Efectuar as análises que lhes forem distribuídas pelo chefe do serviço de despacho, assinando o competente resultado;\n\n2.º Desempenhar as demais atribuições próprias de analista.\n\nArt. 366.º-A. Aos preparadores compete especialmente:\n\n1.º Fazer análises de carácter simples e as preparações que lhes forem ordenadas pelo chefe do serviço de despacho ou pelos analistas da respectiva alfândega;\n\n2.º Cuidar da limpeza, arrumo e conservação dos aparelhos e outro material do laboratório;\n\n3.º Desempenhar as demais atribuições próprias de preparador."
+   },
+   {
+    "artigo": "LIVRO V",
+    "veredicto": "certo",
+    "motivo": "Epígrafe do livro V alterada por DL 73/2001 art. 4.º n.º 1 para \"Dos declarantes e representantes perante a alfândega\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #4",
+    "veredicto": "errado",
+    "motivo": "Epígrafe \"De quem pode declarar\" correcta (DL 73/2001 art. 4.º n.º 1), mas os arts. 426.º, 427.º e 430.º mantêm a redacção original; 428.º e 429.º não foram revogados (DL 89/92 art. 3.º; DL 73/2001); falta o art. 430.º-A.",
+    "texto_esperado": "## TÍTULO I — De quem pode declarar\n\nArt. 426.º\n\nA solicitação nas alfândegas de qualquer declaração aduaneira ou fiscal de mercadorias ou de outras declarações cuja recepção venha a ser atribuída à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, bem como a promoção de quaisquer documentos que lhes digam respeito, compete exclusivamente:\n\n1.º Aos donos ou consignatários das mercadorias, quer se apresentem pessoalmente quer por intermédio dos seus empregados;\n\n2.º Aos despachantes oficiais a quem seja conferida pelos donos ou consignatários das mercadorias procuração para agir em seu nome e por sua conta;\n\n3.º A qualquer pessoa, incluindo os despachantes oficiais, designada pelos donos ou consignatários das mercadorias para declarar por sua conta mas em nome próprio, desde que reúna os requisitos regulamentarmente estabelecidos.\n\n§ 1.º Os donos ou agentes das empresas de navegação marítima ou aérea, em relação aos navios ou aeronaves de que sejam proprietários ou que lhes venham consignados, podem intervir no conjunto de actos e formalidades necessários ao designado 'despacho de navios e de aeronaves', quando as referidas empresas, se forem estrangeiras, mantenham com o País carreiras regulares com toda ou parte da sua frota.\n\n§ 2.º O disposto no presente artigo aplica-se sem prejuízo do regime transitório previsto para os agentes aduaneiros e despachantes privativos.\n\nArt. 427.º\n\nOs agentes aduaneiros das empresas de caminho de ferro e de navegação aérea que mantenham carreiras regulares com o País, habilitados a promover o desalfandegamento das mercadorias pertencentes às mesmas empresas ou a empresas delas associadas, podem intervir:\n\n1.º ...\n\n2.º ...\n\n3.º ...\n\n4.º ...\n\n5.º ...\n\n§ 1.º ...\n\n1.º ...\n\n2.º ...\n\n3.º ...\n\n§ 2.º ...\n\n1.º ...\n\n2.º ...\n\n§ 3.º ...\n\nArt. 430.º\n\nNão podem efectuar declarações perante a alfândega os comerciantes falidos não reabilitados ou aqueles sobre quem impenda a interdição do exercício da actividade de declarar perante a alfândega e os despachantes oficiais durante o período de cumprimento da pena disciplinar de suspensão.\n\n(NOTA: no art. 427.º os n.os 1.º a 5.º e §§ 1.º a 3.º '...' mantêm o texto original; o art. 428.º fica '(Revogado.)' (DL 89/92 art. 3.º) e o art. 429.º '(Revogado.)' (DL 73/2001 art. 4.º n.º 1 a); o art. 430.º tem apenas a nova redacção, sem o § único; acresce o art. 430.º-A (DL 280/92, DL 445/99 e DL 73/2001); o texto do art. 427.º da vista é a redacção do corpo dada pelo DL 73/2001.)"
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 1.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 2.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 3.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 4.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Artigo 5.º da tabela do DL 68/2007 revogado pelo art. 273.º da Lei 114/2017.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 6.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 7.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 8.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 9.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 10.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 11.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 12.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 13.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual, letra a letra, ao artigo 14.º da tabela aprovada pelo DL 68/2007 art. 2.º (que substitui a tabela II revogada pelo art. 3.º n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Artigo da antiga tabela II, revogada pelo DL 68/2007 art. 3.º n.º 2; a nova tabela só tem 14 artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Artigo da antiga tabela II, revogada pelo DL 68/2007 art. 3.º n.º 2; a nova tabela só tem 14 artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Artigo da antiga tabela II, revogada pelo DL 68/2007 art. 3.º n.º 2; a nova tabela só tem 14 artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Artigo da antiga tabela II, revogada pelo DL 68/2007 art. 3.º n.º 2; a nova tabela só tem 14 artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "errado",
+    "motivo": "Corpo \"(Revogado.)\" e eliminação do mapa XIII (DL 280/92 art. 4.º n.º 1) correctos, mas os MAPAS I a X mantêm o endereço da imagem de 1965; o DL 464/70 art. 8.º substituiu os mapas I, II, III, IV, V, VII, VIII, IX e X (imagem 14391455.pdf) e o DL 315/73 art. 4.º os mapas III, IV, VI e VIII (imagem 10561058.pdf); a nova imagem devia ter ficado nos mapas respectivos (mapas III e IV foram ainda substituídos pelo DL 116/79, sem endereço de imagem).",
+    "texto_esperado": "Artigo 19.º (Revogado.) seguido dos MAPAS I a XII, com os endereços: mapas I, II, V, VII, IX, X -> https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf; mapas VI e VIII -> https://files.diariodarepublica.pt/1s/1973/06/14300/10561058.pdf; mapas III e IV -> última substituição (DL 116/79, sem endereço); mapas XI e XII mantêm o de 1965; sem o mapa XIII."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Alterador 2, artigo 1.º, nova redacção dos artigos 30.º, 52.º, 92.º, 96.º, 116.º, 140.º, 142.º, 180.º, 184.º, 235.º, 269.º, 293.º, 408.º, 410.º e 457.º da Reforma: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 2, artigo 2.º, artigo 4.º da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 3, aditamento do § 3.º ao artigo 53.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 4, § 1.º do artigo 223.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 5, substituição da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 6, artigo 1.º, nova redacção dos artigos 4.º, 48.º, 49.º, 52.º, 54.º, 61.º, 73.º, 94.º a 96.º, 115.º, 117.º, 119.º, 194.º a 197.º, 203.º, 206.º, 210.º, 212.º, 213.º, 216.º, 217.º, 220.º, 222.º, 243.º, 280.º a 285.º, 320.º, 353.º, 355.º, 390.º, 392.º, 393.º, 400.º e 526.º da Reforma: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 6, artigo 2.º, eliminação de disposições dos artigos 7.º, 53.º, 56.º, 60.º, 63.º, 171.º, 220.º, 365.º e 400.º e do artigo 503.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 6, artigo 8.º, substituição dos mapas I, II, III, IV, V, VII, VIII, IX e X e alteração do mapa XI: o consolidado tem os MAPAS correspondentes (art. 19.º) com o endereço da imagem de 1965; devia ter o da imagem do alterador",
+   "Alterador 7, artigo 3.º, n.º 3.º, § 3.º e § 1.º do artigo 429.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 7, artigo 4.º, artigo 8.º da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 8, artigo 1.º, nova redacção dos artigos 6.º, 73.º, 77.º, 234.º, 235.º, 332.º, 340.º a 342.º, 346.º e 366.º da Reforma: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 8, artigo 2.º, aditamento dos artigos 347.º-A e 366.º-A: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 8, artigo 4.º, substituição dos mapas III, IV, VI e VIII: o consolidado tem os MAPAS correspondentes (art. 19.º) com o endereço da imagem de 1965; devia ter o da imagem do alterador",
+   "Alterador 8, artigo 6.º, eliminação do artigo 500.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 9, § 2.º do artigo 96.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 10, artigo 1.º, § 4.º do artigo 213.º e n.º 2 do artigo 500.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 10, artigo 2.º, aditamento dos artigos 195.º-A e 195.º-B: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 10, artigo 3.º, eliminação do § 2.º do artigo 213.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 11, nova redacção dos artigos 4.º, 140.º e 142.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 12, artigo 1.º, nova redacção dos artigos 472.º, 474.º, 476.º e 524.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 13, artigos 1.º e 2.º, eliminação dos §§ 1.º e 4.º e nova redacção dos §§ 2.º e 3.º do artigo 195.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 14, artigo 7.º da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 15, nova redacção dos artigos 292.º e 293.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 16, nova redacção do artigo 95.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 18, artigo 5.º, corpo do artigo 241.º e n.º 2 do § 2.º do artigo 262.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 19, artigo 1.º, eliminação do § único do artigo 117.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 19, artigo 2.º, nova redacção dos artigos 119.º a 121.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 20, observação 6.ª da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 21, nova redacção dos artigos 215.º e 216.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 22, artigo 1.º, nova redacção dos artigos 140.º e 152.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 24, nova redacção do n.º 1.º do artigo 217.º, do artigo 328.º, do § 1.º do artigo 330.º e dos artigos 344.º e 345.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 25, artigo 1.º, corpo do artigo 142.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 25, artigo 2.º, eliminação do § 2.º do artigo 136.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 26, nova redacção do artigo 293.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 27, artigo 5.º, eliminação de disposições dos artigos 434.º, 440.º, 443.º, 444.º, 449.º, 451.º e 472.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 27, artigo 6.º, renumeração de parágrafos dos artigos 437.º, 440.º, 443.º e 444.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 27, artigo 7.º, nova redacção dos artigos 434.º, 435.º, 440.º a 443.º, 445.º, 448.º a 451.º, 453.º a 456.º, 472.º e 474.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 31, nova redacção do artigo 4.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 33, nova redacção do artigo 110.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 34, artigo 6.º, nova redacção do artigo 442.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 35, artigo 1.º, nova redacção dos artigos 4.º, 136.º, 139.º, 140.º, 142.º e 152.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 36, nova redacção dos artigos 96.º, 98.º, 100.º, 104.º e 105.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 37, aditamento do § 4.º ao artigo 96.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 39, aditamento dos §§ 3.º e 4.º ao artigo 94.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 46, nova redacção do artigo 457.º e eliminação do seu § único: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 48, nova redacção do artigo 454.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 49, artigo 3.º, substituição da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 49, artigo 3.º, tabela III aditada: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 49, artigo 4.º, aditamento do n.º 3.º ao artigo 319.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 61, nova redacção do artigo 89.º e aditamento do seu § 5.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 62, artigo 1.º, nova redacção dos artigos 112.º, 113.º, 128.º, 129.º, 134.º, 136.º, 139.º a 142.º, 146.º a 149.º e 151.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 62, artigo 2.º, revogação do § único do artigo 115.º e dos artigos 119.º e 130.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 62, artigo 3.º, aditamento dos artigos 114.º-A a 114.º-F, 155.º-A e 155.º-B: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 64, nova redacção do artigo 429.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 67, artigo 1.º, aditamento do n.º 7.º ao § 1.º do artigo 140.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 67, artigo 2.º, nova redacção do n.º 7.º do artigo 4.º e dos artigos 114.º-D e 142.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 70, nova redacção do artigo 126.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 71, nova redacção dos artigos 162.º a 164.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 73, artigo 1.º, nova redacção dos artigos 41.º, 73.º e 98.º a 104.º e do n.º 27.º do artigo 352.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 73, artigo 2.º, n.º 1, revogação dos artigos 105.º e 106.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 78, artigo 1.º, revogação do § único do artigo 180.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 78, artigos 2.º, n.º 1, e 3.º, n.º 1, disposições da tabela I: [alvo incerto: a tabela I/III não existe no consolidado]",
+   "Alterador 84, nova redacção do artigo 136.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 102, artigo 12.º, nova redacção dos artigos 72.º, 149.º e 354.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 102, artigo 17.º, alínea b), revogação do n.º 2 do § 2.º do artigo 72.º, do § único do artigo 431.º e do § 2.º do artigo 437.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 107, nova redacção do artigo 439.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 110, nova redacção do artigo 56.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 126, artigo 1.º, nova redacção dos artigos 426.º e 430.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 126, artigo 3.º, revogação do artigo 428.º e do § 4.º do artigo 433.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 127, artigo 1.º, nova redacção dos artigos 426.º e 430.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 127, artigo 3.º, revogação do artigo 428.º e do § 4.º do artigo 433.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 133, artigo 1.º, aditamento dos artigos 430.º-A e 430.º-B: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 133, artigo 2.º, nova redacção dos artigos 426.º, 439.º e 478.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 133, artigo 4.º, n.º 1, revogação dos artigos 440.º a 457.º, 459.º, 460.º, 462.º a 468.º, 473.º, 477.º, 480.º, 486.º a 490.º e 521.º a 523.º e de disposições dos artigos 458.º, 469.º, 470.º, 474.º e 481.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 165, artigo 4.º, nova redacção dos artigos 426.º, 430.º, 430.º-A, 470.º, 471.º e 478.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 165, artigo 6.º, n.º 1, revogação dos artigos 426.º, n.os 2 e 3, 427.º, 429.º, n.os 2 e 3, §§ 1.º e 2.º, 434.º a 439.º, 458.º, 472.º, 474.º a 476.º, 481.º, 482.º, § único, 485.º, 485.º-A e 524.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 166, artigo 7.º, n.º 1, nova redacção dos artigos 99.º, 101.º e 104.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 166, artigo 7.º, n.º 2, revogação dos artigos 98.º, 102.º e 103.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 167, artigo 4.º, n.º 1, nova redacção dos artigos 426.º, 427.º, 430.º, 430.º-A, 431.º a 433.º, 461.º, 470.º, 471.º e 478.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 167, artigo 4.º, n.º 2, aditamento do artigo 478.º-A: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 167, revogação dos artigos 429.º, 430.º-B, 435.º, 438.º, 439.º, 458.º, 469.º, 472.º, 474.º a 476.º, 481.º, 485.º, 485.º-A e 524.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 168, nova redacção do artigo 101.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 169, artigo 1.º, nova redacção do artigo 180.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 169, artigo 3.º, n.º 1, revogação do artigo 157.º: sem efeito no consolidado; o artigo da Reforma Aduaneira está no texto (blocos IGUAIS ao original)",
+   "Alterador 38, artigo 3.º, aditamento de um § único ao artigo 469.º da Reforma: sem efeito no consolidado"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Alterador 1, isenção dos emolumentos dos artigos 11.º e 19.º da tabela II para a semente de purgueira",
+    "motivo": "não é textual: isenção, sem mudar o texto da tabela"
+   },
+   {
+    "instrucao": "Alterador 2, artigo 4.º, alterações no mapa XII",
+    "motivo": "texto novo só em imagem (sem endereço utilizável ou sem texto) e sem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Alterador 6, artigo 4.º, n.º 3, quadros dos mapas IX, X e XI",
+    "motivo": "texto novo só em imagem (sem endereço utilizável ou sem texto) e sem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Alterador 6, artigos 12.º, 15.º, 17.º e 18.º (Contencioso Aduaneiro, Instruções Preliminares das Pautas, Regulamento das Alfândegas)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 7, artigo 2.º, Decreto n.º 45814",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 17, não cobrança temporária do emolumento do artigo 12.º da tabela II na exportação",
+    "motivo": "não é textual: suspensão temporária da cobrança, sem mudar o texto"
+   },
+   {
+    "instrucao": "Alterador 18, artigo 1.º, alteração dos mapas conforme o mapa junto",
+    "motivo": "texto novo só em imagem (sem endereço utilizável ou sem texto) e sem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Alterador 18, artigo 4.º, extinção de categorias do mapa IX",
+    "motivo": "texto novo só em imagem (sem endereço utilizável ou sem texto) e sem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Alterador 22, artigo 2.º, artigo 199.º do Regulamento das Alfândegas",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 23, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 24, substituição dos mapas III e IV",
+    "motivo": "texto novo só em imagem (sem endereço utilizável ou sem texto) e sem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Alterador 27, artigo 1.º, derrogação transitória do § 1.º do artigo 439.º",
+    "motivo": "não é textual: derrogação transitória, sem mudar o texto"
+   },
+   {
+    "instrucao": "Alterador 27, artigo 3.º e Regulamento das Sociedades de Despachantes Oficiais",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 30, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 32, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 34, artigos 3.º, 5.º e 7.º (Decreto-Lei n.º 513-F1/79 e Regulamento das Sociedades de Despachantes Oficiais)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 35, artigo 2.º, artigo 199.º do Regulamento das Alfândegas",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 38, Decreto-Lei n.º 513-F1/79, Regulamento das Sociedades de Despachantes Oficiais e Decreto-Lei n.º 397/82",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 40, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 41, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 42, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 43, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 44, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 45, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 47, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 49, artigo 2.º, n.º 1, inclusão das delegações de Alverca e do Freixieiro no mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 50, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 51, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 52, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 53, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 54, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 55, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 56, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 57, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 58, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 59, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 60, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 62, artigo 4.º, revogação da legislação em contrário",
+    "motivo": "revogação condicional (só o que contrarie o diploma)"
+   },
+   {
+    "instrucao": "Alterador 63, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 65, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 66, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 68, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 69, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 72, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 73, artigo 2.º, n.º 2, revogação do Decreto-Lei n.º 45855",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 74, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 76, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 77, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 79, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 80, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 81, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 82, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 83, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 85, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 86, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 88, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 89, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 90, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 91, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 92, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 93, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa IV",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 94, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 95, artigos 1.º e 3.º (Pauta dos Direitos de Importação e Decreto-Lei n.º 45/87)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 96, artigos 1.º e 3.º (Pauta dos Direitos de Importação e Decreto-Lei n.º 45/87)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 97, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 98, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 99, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 100, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 101, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 102, artigos 11.º, 13.º a 17.º (Regulamento das Alfândegas, regulamentos dos terminais TIR e outros diplomas)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 103, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 104, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 105, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 106, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 108, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 109, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 111, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 112, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 113, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 114, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 115, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 116, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 117, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 118, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 119, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 120, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 121, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 122, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 123, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 124, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa I",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 125, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 128, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 129, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 130, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 131, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 132, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 133, artigos 3.º e 4.º, n.os 2 e 3 (Regulamento das Sociedades de Despachantes Oficiais e Decretos-Leis n.os 513-F1/79 e 89/92)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 134, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 135, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 136, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 137, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 138, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 139, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 140, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 141, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 142, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 143, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 144, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 145, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 146, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 147, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 148, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 149, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 150, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 151, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 152, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 153, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 154, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 155, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 156, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 157, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 158, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 159, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 160, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 161, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação do mapa II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 162, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 163, criação, extinção ou mudança de estâncias aduaneiras e postos fiscais e rectificação dos mapas I e II",
+    "motivo": "o alterador não traz o texto da alteração (mapa só em imagem, sem texto)"
+   },
+   {
+    "instrucao": "Alterador 164, artigos sobre o Decreto-Lei n.º 28/84 e a revogação do Decreto-Lei n.º 160/88",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 165, artigos 3.º, 5.º e 6.º, n.º 2 (Regulamento das Alfândegas, Decretos-Leis n.os 289/88 e 513-F1/79)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 166, artigos 1.º a 6.º e restantes (códigos e leis tributárias)",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 167, alterações ao Decreto-Lei n.º 445/99, ao Decreto-Lei n.º 289/88, ao Estatuto do Despachante Oficial, ao Estatuto da Câmara dos Despachantes Oficiais e ao Regulamento das Alfândegas",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   },
+   {
+    "instrucao": "Alterador 169, artigo 4.º, artigo 4.º do Decreto-Lei n.º 274/90",
+    "motivo": "a instrução altera outro diploma, não a Reforma Aduaneira"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

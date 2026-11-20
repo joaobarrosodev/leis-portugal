@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:512991:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 406-B/75 art. 5.º dá a redação final (substitui a do DL 44534); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 44534 acrescenta v), x), z); DL 49294 art. 13.º dá nova al. j) (terminada em ponto); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "§§ 1.º a 4.º do DL 406-B/75 (substituem os do DL 49294 e o limite de 50 contos do DL 45401); § 6.º do DL 44534; § 8.º do DL 49294; restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 49294 art. 13.º: corpo, § 2.º e novo § 3.º; § 1.º original; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 406-B/75 art. 5.º dá ao artigo a redação final (um só parágrafo, sem §§), substituindo as de 44534 e 49294; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DL 49294 art. 16.º revoga o § 2.º; consolidado «§ 2.º (Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 49294 art. 13.º: nova redação do corpo e §§ 1.º (com 2.º parágrafo) e 2.º; igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 45401 art. 3.º: aplica-se a todas as associações agrícolas o § 1.º do art. 10.º",
+    "motivo": "alarga o âmbito sem dar nova redação; confirmado no alterador"
+   },
+   {
+    "instrucao": "DL 233/85 art. 22.º: revogadas as disposições do DL 43355 que contrariem este diploma",
+    "motivo": "revogação condicional («que contrariem»)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

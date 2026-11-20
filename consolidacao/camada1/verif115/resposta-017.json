@@ -1,0 +1,174 @@
+[
+ {
+  "id": "pt:dre:477288:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "n.º 5: alínea b) substituída, aditadas e) e f); restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Aditadas alíneas c) e d); proémio, a) e b) mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Alínea i): 5 passa a 9,5 milhões de contos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1: 735 passa a 715 milhões de contos; n.º 2 mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração n.º 6/96: publicação dos mapas I a VIII modificados até 30 de Junho",
+    "motivo": "Os mapas só vêm em imagem (ver documento original) e o consolidado não tem anexo com título onde os pôr; sem nova redação textual."
+   },
+   {
+    "instrucao": "Lei n.º 52-A/96, art. 1.º: mapas I a VIII e XI anexos substituem os da Lei n.º 10-B/96",
+    "motivo": "Texto novo só em imagem (anexos ao diploma alterador) e o consolidado não tem anexo com título onde os pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:484667:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado reproduz a nova redação do alterador, com o original nos '...'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 198/2000, art. 1.º: altera artigos 19.º, 25.º e 28.º do DL 182/95",
+    "motivo": "Instrução de outro diploma (DL 182/95)."
+   },
+   {
+    "instrucao": "DL 198/2000, art. 4.º: revoga o artigo 56.º do DL 182/95",
+    "motivo": "Instrução de outro diploma (DL 182/95)."
+   },
+   {
+    "instrucao": "DL 198/2000, art. 6.º: referências a quatro licenças vinculadas de distribuição consideradas alteradas",
+    "motivo": "Regra interpretativa sobre referências, sem nova redação de artigos do original; não textual."
+   },
+   {
+    "instrucao": "DL 76/2019, art. 79.º, n.º 1: revoga o DL 183/95 exceto artigos 6.º, 7.º e 53.º",
+    "motivo": "Efeito adiado: revogação sem prejuízo da vigência transitória do DL 183/95 (art. 61.º n.º 1 e art. 70.º do DL 76/2019) até conclusão da extinção dos CAE, facto futuro."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

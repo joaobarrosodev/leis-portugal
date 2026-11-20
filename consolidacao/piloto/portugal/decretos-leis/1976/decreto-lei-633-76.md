@@ -1035,7 +1035,7 @@ j) Promover a preparação do pessoal do INMG nos domínios da informática.
 
 Os institutos universitários de meteorologia e de geofísica funcionarão como observatórios do INMG e serão orientados de acordo com este serviço pelo que respeita à terminologia e aos processos de trabalho.
 
-### CAPÍTULO III — Cursos de formação para as carreiras de meteorologia e de geofísica
+### CAPÍTULO III — Cursos de formação
 
 ###### Artigo 67.º — (Finalidade dos cursos de formação)
 
@@ -1099,7 +1099,7 @@ b) Pelo ministro respectivo, quanto aos restantes funcionários.
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
 
-#### SECÇÃO IV — Abonos dos frequentadores dos cursos
+#### SECÇÃO III — Abonos dos frequentadores dos cursos
 
 ###### Artigo 74.º — (Abonos dos estagiários)
 
@@ -1124,8 +1124,6 @@ b) Subsídio de marcha, correspondente às despesas de deslocação do local ond
 4 - Os mesmos funcionários terão ainda direito a outros abonos que lhes sejam devidos, nos termos da lei, pela sua qualidade de funcionários.
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
-
-##### DIVISÃO V — Cursos de formação para a carreira de meteorologia
 
 ###### Artigo 76.º — (Vínculo dos estagiários)
 
@@ -1175,7 +1173,7 @@ Aos cursos de formação para observador meteorológico-adjunto poderão ser adm
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
 
-##### DIVISÃO VI — Cursos de formação para a carreira de geofísica
+##### DIVISÃO III — Curso de formação para as carreiras de geofísica
 
 ###### Artigo 81.º — (Espécies e duração dos cursos de formação para as carreiras de geofísica)
 
@@ -1224,12 +1222,6 @@ Aos cursos de formação para observador geofísico-adjunto poderão ser admitid
 2 - Os cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, terão a duração de doze meses, sendo o primeiro período de quatro e o segundo de oito meses.
 
 > Alterado pelo/a [Decreto-Lei n.º 295/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1988-379921), publicado em 1988-08-24.
-
-### CAPÍTULO IV — Pessoal
-
-##### DIVISÃO I — Pessoal pertencente ao quadro
-
-#### SECÇÃO I — Disposições comuns
 
 ###### Artigo 86.º — (Admissão aos cursos de formação para operador de telecomunicações meteorológicas e geofísicas)
 
@@ -1327,8 +1319,6 @@ e) Os chefes de repartição, em conformidade com o estabelecido no [Decreto-Lei
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
 
-#### SECÇÃO II — Pessoal dirigente
-
 ###### Artigo 93.º — (Recrutamento do pessoal de meteorologia e de geofísica)
 
 1 - O ingresso nas carreiras de meteorologia e de geofísica para meteorologistas e geofísicos far-se-á por concurso documental de entre indivíduos habilitados com licenciaturas em Ciências Geofísicas, Física, Engenharia do Ambiente, Engenharia Geográfica e outras licenciaturas em Física ou Engenharia cujo plano de estudos inclua uma formação em física e em matemática apropriada.
@@ -1361,17 +1351,11 @@ f) Montador de telecomunicações: em conformidade com a lei geral.
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
 
-#### SECÇÃO III — Pessoal técnico
-
-##### SUBSECÇÃO I — Pessoal de meteorologia e de geofísica
-
 ###### Artigo 95.º — (Recrutamento do pessoal de informática)
 
 O recrutamento do pessoal de informática far-se-á obedecendo às disposições do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 > Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.
-
-##### SUBSECÇÃO II — Pessoal de informática
 
 ###### Artigo 96.º — (Recrutamento de pessoal das carreiras comuns)
 
@@ -1432,19 +1416,3 @@ O recrutamento do pessoal operário far-se-á nos termos da lei geral.
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
-
-##### SUBSECÇÃO III — Técnicos
-
-##### SUBSECÇÃO IV — Pessoal técnico auxiliar
-
-#### SECÇÃO IV — Pessoal administrativo
-
-#### SECÇÃO V — Pessoal de apoio técnico
-
-#### SECÇÃO VI — Pessoal auxiliar
-
-##### DIVISÃO II — Outro pessoal
-
-### CAPÍTULO V — Prestação de serviço
-
-### CAPÍTULO VI — Disposições finais e transitórias

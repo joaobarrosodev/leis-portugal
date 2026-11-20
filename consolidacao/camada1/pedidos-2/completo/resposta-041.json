@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:522859:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "",
+    "texto": "A coordenação global das medidas previstas nos regulamentos referidos no artigo anterior é da competência da Direcção-Geral de Desenvolvimento Rural, no que se refere aos Regulamentos n.os [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt) e [2079/92](https://data.europa.eu/eli/reg/1992/2079/oj?locale=pt), e da Direcção-Geral das Florestas, no que se refere ao Regulamento n.º [2080/92](https://data.europa.eu/eli/reg/1992/2080/oj?locale=pt), em articulação com os organismos sectoriais competentes nas respectivas áreas e com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).",
+    "alterador": 1
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "",
+    "texto": "1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes do contrato, o IFADAP pode modificar ou rescindir unilateralmente os contratos.\n\n2 - Em caso de rescisão do contrato pelo IFADAP, o beneficiário será notificado para, no prazo de 15 dias, proceder à restituição das importâncias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.\n\n3 - No caso de o reembolso não ser feito no prazo estabelecido no número anterior, passarão a incidir sobre as importâncias em dívida juros calculados à taxa moratória legalmente estabelecida, contados desde o termo do referido prazo e até ao efectivo reembolso.\n\n4 - Verificada a situação prevista no número anterior, constitui-se, ainda, o beneficiário na obrigação de pagar ao IFADAP os encargos resultantes das despesas extrajudiciais para cobrança dos montantes devidos, fixando-se esta obrigação em 10% do valor total das quantias recebidas pelos beneficiários.\n\n5 - O disposto nos n.os 2, 3 e 4 é igualmente aplicável aos casos de modificação unilateral do contrato que determine a obrigação de devolução das importâncias recebidas.\n\n6 - No âmbito do Programa de Medidas Agro-Ambientais aprovado ao abrigo do Regulamento n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, e sem prejuízo do disposto no número anterior, o beneficiário fica ainda obrigado ao pagamento de uma quantia igual ao dobro das recebidas indevidamente durante o período de vigência do contrato quando se verifique um desvio significativo nas áreas ou animais objecto de ajuda, nos termos a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ou deste e do Ministro do Ambiente, consoante o caso.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 6.º, al. a), revoga o art. 2.º «na parte em que se refere ao Regulamento (CEE) n.º 2079/92»: revogação condicional — revogação parcial por matéria, sem indicar texto a eliminar; reescrever o art. 2.º seria inventar redação.",
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação do art. 2.º — copiada do alterador (o programa tinha-a aplicado sem as ligações dos regulamentos).",
+   "Alterador 1, art. 1.º: nova redação do n.º 6 do art. 6.º; n.os 1 a 5 «...» ficam do texto atual — devolvido com o texto do alterador (com a ligação do regulamento).",
+   "Alterador 1, art. 1.º: n.º 3 do art. 10.º — o programa aplicou-o certo; sem mudança.",
+   "Alterador 1, art. 1.º: aditado o n.º 4 ao art. 11.º — o programa aplicou-o certo; sem mudança.",
+   "Alterador 1, art. 2.º: aditado o art. 7.º-A — o programa aplicou-o certo; sem mudança.",
+   "Alterador 2, art. 6.º, al. a): revogação do art. 2.º na parte relativa ao Regulamento 2079/92 — não aplicada (nao_aplicavel); als. b) a d) são de outros diplomas."
+  ]
+ }
+]

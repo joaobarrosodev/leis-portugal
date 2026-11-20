@@ -1,0 +1,38 @@
+[
+ {
+  "id": "pt:dre:553893:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 14/2024/A, art. 6.º: derroga o regime do DLR 15/2012/A sempre que disponha de modo diverso, exceto regime de proteção mais restritivo",
+    "motivo": "Revogação condicional (derrogação genérica, sem indicar preceitos nem texto a mudar)."
+   },
+   {
+    "instrucao": "DLR 14/2024/A, art. 3.º, n.º 3 do artigo 33.º aditado ao DLR 28/2011/A: derroga as disposições do DLR 15/2012/A sobre competências dos órgãos de gestão dos PNI",
+    "motivo": "Derrogação genérica por matéria, sem identificar artigos; além disso o aditamento é a outro diploma (DLR 28/2011/A)."
+   },
+   {
+    "instrucao": "DLR 14/2024/A, art. 3.º: aditamentos ao DLR 28/2011/A e restantes referências ao DLR 15/2012/A",
+    "motivo": "Instruções de outro diploma; as referências ao DLR 15/2012/A nos artigos aditados são só remissões, sem alterar o seu texto."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:612243:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 13/2023: revogação dos artigos 14.º a 32.º do DL 64/89 (conforme o reparo)",
+    "motivo": "O diploma que altera não traz o texto da alteração (secção do alterador vazia na vista); não é possível confirmar nem copiar a instrução."
+   }
+  ]
+ }
+]

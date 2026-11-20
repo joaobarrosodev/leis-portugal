@@ -1,0 +1,51 @@
+[
+ {
+  "id": "pt:dre:592760:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DLR 28-A/2001/M art. 2.º: n.º 1 substituído e aditado n.º 5; consolidado coincide; n.os 2 a 4 iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DLR 28-A/2001/M art. 3.º: n.º 1 novo, alínea b) do n.º 3 'seis anos'; restante igual ('...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DLR 28-A/2001/M art. 4.º: aditada alínea e) com o texto exacto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º-A",
+    "veredicto": "certo",
+    "motivo": "DLR 28-A/2001/M art. 5.º: artigo aditado com a epígrafe e o texto exactos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "DLR 10/2016/M art. 5.º revoga o artigo 42.º; consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 28-A/2001/M art. 1.º: substituição dos mapas I a IX anexos ao original",
+    "motivo": "Os mapas novos só vêm em imagem e o consolidado não tem anexo com título onde os pôr (os mapas do original só aparecem como imagem após as assinaturas); confirmado no texto do alterador."
+   },
+   {
+    "instrucao": "DLR 29-A/2001/M, 30-A/2003/M, 3/2007/M, 2-A/2008/M, 45/2008/M, 34/2009/M, 2/2011/M, 5/2012/M, 42/2012/M, 31-A/2013/M, 18/2014/M, 17/2015/M: manutenção em vigor do artigo 5.º",
+    "motivo": "Não textual: mantêm o artigo em vigor sem lhe dar nova redação (texto dos alteradores omitido na vista; nota da triagem coincide com a afirmação de quem consolidou; sem efeito textual a aplicar)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]
