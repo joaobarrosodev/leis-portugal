@@ -1,0 +1,17 @@
+[
+ {
+  "id": "pt:dre:474127:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação não aplicada: as relationships trazem corrected_by pt:dre:470217:por (Declaração de 4/8/1980, DR I n.º 178), republicada com correções pela Declaração pt:dre:469662:por (DR I n.º 199, 29/8/1980, também referida na Portaria n.º 354/83). Nenhuma das duas está entre os alteradores e o consolidado não as aplica nas partes que conserva.",
+   "Preâmbulo, n.º 3 (o consolidado mantém o original): «que devem ser dados e que os Portugueses têm direito a esperar» deve ler-se «que devem ser dados ao que os Portugueses têm direito a esperar» (na republicação de 29/8 vem «portugueses», em minúscula).",
+   "Epígrafe da secção do capítulo II que no original aparece como «SECÇÃO IV — Serviços de apoio técnico à gestão de coordenação interna e de administração» (o capítulo II não tem secção III): a retificação manda ler «Secção III» (na republicação, «Secção 3.ª»). O consolidado mantém «SECÇÃO IV».",
+   "Epígrafe da secção I do capítulo IV: a declaração de 4/8 manda ler «Quadro e carreiras» em vez de «Quadros e carreiras». A republicação de 29/8 já não traz este ponto, pelo que é duvidoso se vale. O consolidado mantém «Quadros e carreiras».",
+   "As demais retificações (arts. 7.º, 10.º, 14.º, 21.º, 41.º, 51.º, 66.º, 75.º e 89.º, n.º 1, e o mapa anexo) recaem sobre partes revogadas pelo art. 55.º do DL 339/83 e não mudam o texto vigente. A revogação «com excepção dos n.os 3, 4 e 5 do artigo 89.º» está bem aplicada: os n.os 1 e 2 do art. 89.º e todos os outros artigos e o anexo estão como revogados, e os n.os 3 a 5 estão intactos. As portarias que criam lugares no mapa e o art. 50.º do DL 339/83 não mudam o texto."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado pelo art. 55.º do Decreto-Lei n.º 339/83, de 20 de julho (repealed_by pt:dre:453800:por), com excepção dos n.os 3, 4 e 5 do artigo 89.º, que continuam no texto. A vigência destes números não foi verificada."
+  }
+ }
+]

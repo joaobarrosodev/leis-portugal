@@ -1,0 +1,186 @@
+[
+ {
+  "id": "pt:dre:312664:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 129.º",
+    "veredicto": "certo",
+    "motivo": "DL 125/73 (artigo único) dá nova redação ao corpo e ao § 1.º; consolidado coincide letra a letra; § 2.º inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 144.º",
+    "veredicto": "certo",
+    "motivo": "DL 402/72, art. 4.º: §§ 2.º a 4.º novos e § 5.º = antigo § 4.º; § 1.º inalterado. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 160.º",
+    "veredicto": "certo",
+    "motivo": "DL 137/72, art. 2.º: só o § 3.º muda (quatro passa a seis); restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 164.º",
+    "veredicto": "certo",
+    "motivo": "DL 402/72, art. 4.º: novo § único coincide letra a letra; corpo inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 175.º",
+    "veredicto": "certo",
+    "motivo": "DL 137/72, art. 2.º: n.os 4 a 11 novos (n.os 1 a 3 mantidos); n.º 11 com a redação do DL 506-A/75, art. 2.º (visava o antigo n.º 10, hoje n.º 11). Coincide.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 402/72, art. 6.º (gratificações dos mapas anexos passam a 1500$00 mensais; secretário-geral com direito à gratificação): alvo incerto, as gratificações estão nas notas dos mapas e o consolidado não as alterou"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 49202, art. 2.º (categorias de tradutor do mapa XIII passam ao grupo L)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 49356, arts. 1.º, 2.º, 4.º, 5.º, 7.º (regime transitório, nomeação provisória/definitiva, encargos)",
+    "motivo": "não textual: regimes transitórios sem nova redação de artigos do original"
+   },
+   {
+    "instrucao": "DL 49356, arts. 3.º e 6.º (extinção do quadro do n.º 4 do mapa VI; categorias do mapa XI nas letras J e H)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 49356, art. 8.º (artigo 99.º do Decreto n.º 45664)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 535/70, arts. 1.º e 2.º (três vogais substitutos do Conselho Superior de Disciplina e sua gratificação)",
+    "motivo": "não textual: fixa número e gratificação sem nova redação de artigo do original"
+   },
+   {
+    "instrucao": "DL 92/71, art. 1.º (aditamento do mapa XV)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 137/72, art. 1.º (substituição da alínea 1) do mapa VII)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 371/72, art. 1.º (substituição do mapa X)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr; depois revogado e o mapa X de novo substituído"
+   },
+   {
+    "instrucao": "DL 402/72, art. 1.º a 3.º (aplicação de regimes do Estatuto do Funcionalismo Ultramarino)",
+    "motivo": "não textual: aplicação de regime sem nova redação"
+   },
+   {
+    "instrucao": "DL 402/72, art. 5.º (dezasseis inspectores superiores no mapa IV)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 402/72, art. 7.º (artigo 23.º do DL 229/71)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 583/73",
+    "motivo": "o diploma que altera não traz o texto da alteração (vem vazio)"
+   },
+   {
+    "instrucao": "DL 125/75, arts. 1.º, 7.º e 17.º (extinção de conselhos e serviços; Gabinete dos Assuntos Jurídicos)",
+    "motivo": "não textual: extinção de serviços sem revogação nem nova redação de artigos do original"
+   },
+   {
+    "instrucao": "DL 125/75, art. 7.º, n.º 1, e mapa anexo (substituição do mapa X)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 125/75, art. 23.º (revogação de outros decretos-leis)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 506-A/75, art. 1.º (artigo 142.º do Decreto n.º 492/73)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 248/77, arts. 1.º a 3.º (extinção do Conselho Superior de Disciplina do Ultramar; director do Gabinete)",
+    "motivo": "não textual: extinção sem revogação nem nova redação de artigos"
+   },
+   {
+    "instrucao": "DL 539/77, art. 1.º (extinção da Inspecção Superior das Alfândegas e do Conselho Superior Técnico Aduaneiro)",
+    "motivo": "não textual: extinção sem nova redação"
+   },
+   {
+    "instrucao": "DL 90/79, art. 1.º (extinção do Gabinete Militar e de Marinha)",
+    "motivo": "não textual: extinção sem nova redação do artigo 5.º"
+   },
+   {
+    "instrucao": "DL 385/79, art. 21.º (extinção das Direcções-Gerais de Administração Civil, Fazenda e Educação)",
+    "motivo": "efeito adiado: só produz efeito com o decreto regulamentar do Serviço de Integração Administrativa"
+   },
+   {
+    "instrucao": "DL 385/79, art. 22.º (revogações)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Decreto Regulamentar 81/79, art. 11.º (extinção das mesmas Direcções-Gerais)",
+    "motivo": "não textual: extinção sem nova redação"
+   },
+   {
+    "instrucao": "Portaria 26-B/80, n.os 5 a 7 (substituição dos quadros das Direcções-Gerais por quadros anexos)",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 26-B/80, n.os 1 a 4 e 8",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Portaria 849/82, n.º 2, alíneas b) e c) (substituição do mapa VI e do mapa I, E))",
+    "motivo": "só em imagem: o mapa só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 849/82, n.º 2, alíneas a), d), e) e n.º 1",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:374825:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "dúvida",
+    "motivo": "Matemáticas Aplicadas (Port. 662/93, anexo II, imagem 1993/07/162b00) e Relações Internacionais (Port. 1010/93, imagem 1993/10/239b00) estão certos. Arquitectura: a Port. 436/2000 substitui o plano por anexo com imagem 2000/07/163b00/32863287 ('Grau de licenciatura'); o consolidado traz Quadros n.º 1 a 5 com imagem 2001/05/123b00/31423143, que só pode vir da Port. 539/2001, cujo texto vem omitido na vista, pelo que não consigo confirmar. Se a 539/2001 não substitui esse plano, o esperado era o anexo da 436/2000.",
+    "texto_esperado": "Curso de Arquitectura conforme anexo da Port. 436/2000 (Universidade Lusíada de Lisboa, Grau de licenciatura, imagem 2000/07/163b00/32863287.pdf), ou o da Port. 539/2001 se esta o substituir"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Port. 662/93, anexo I (plano do curso de Economia)",
+    "motivo": "instrução de outro diploma: é o plano do Despacho 135/MEC/86, não consta do anexo do original"
+   },
+   {
+    "instrucao": "Port. 436/2000, n.os 2.º a 4.º (semanas lectivas, aplicação, transição)",
+    "motivo": "não textual: não altera texto do original"
+   },
+   {
+    "instrucao": "Port. 1195/2000 (plano de Arquitectura em Vila Nova de Famalicão)",
+    "motivo": "outro diploma: curso não consta do anexo do original (texto omitido na vista; confirmado só pela nota da triagem e pelo anexo do original, que tem apenas Lisboa)"
+   },
+   {
+    "instrucao": "Port. 1196/2000 e Port. 1287/2001 (plano de Arquitectura no Porto)",
+    "motivo": "outro diploma: curso do Porto não consta do anexo do original (texto omitido na vista)"
+   },
+   {
+    "instrucao": "Port. 1296/2002 (plano constante do anexo à Port. 1287/2001)",
+    "motivo": "outro diploma: altera o anexo da Port. 1287/2001"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

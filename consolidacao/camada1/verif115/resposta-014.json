@@ -1,0 +1,654 @@
+[
+ {
+  "id": "pt:dre:430865:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 297/88 (artigo único); texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 com a redacção do DL 213/85 (artigo único); restantes números iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 314/80 (art. 1.º), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 314/80 (art. 1.º), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 314/80 (art. 1.º), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 314/80 (art. 1.º), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Título do capítulo III do DL 335/81 (art. 1.º, n.º 3).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III #3",
+    "veredicto": "certo",
+    "motivo": "Título da secção III do DL 335/81 (Abonos dos frequentadores dos cursos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO III #2",
+    "veredicto": "certo",
+    "motivo": "Título da divisão III do DL 335/81 antes do art. 81.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º, al. a), do DL 229/2005 (na numeração do DL 335/81); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 295/88 aplicada sobre a do DL 335/81 (números com \"...\" mantidos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 96.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 100.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo conforme capítulos III a V do DL 335/81 (art. 1.º, n.º 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º, al. a), do DL 229/2005 (na numeração do DL 335/81); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV #3",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO V",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VI",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO IV",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I #3",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO II #4",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO II #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO III #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 102.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO IV #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 104.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV #4",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 105.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 106.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 107.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 108.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO V #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 110.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 113.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 114.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 116.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 119.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO VI",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 120.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 123.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO II #2",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 124.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 125.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 127.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 128.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 129.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 130.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VI",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 131.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 132.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 133.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 134.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 136.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 137.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 138.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 139.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 141.º",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 335/81 (art. 1.º, n.º 3) substitui os capítulos III, IV, V e VI do original pelos novos III, IV e V; este título/artigo não existe na nova redacção.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 335/81, art. 1.º, n.º 1: substituição, nos capítulos I e II, de «departamento», «coordenador de departamento», «departamento de telecomunicações meteorológicas» e «coordenação de departamento» por «divisão», «chefe de divisão», «divisão de telecomunicações meteorológicas e geofísicas» e «chefia de divisão»; o alvo é conhecido (capítulos I e II, p. ex. art. 55.º, al. b), 'departamentos do INMG'); não aplicada, e 'alvo incerto' não é justificação",
+   "DL 335/81, art. 1.º, n.º 3: título «DIVISÃO I — Disposições comuns» e «SECÇÃO I — Finalidade, divisão, orientação e disciplina dos cursos de formação» antes do art. 67.º do capítulo III (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «SECÇÃO II — Admissão e exclusão dos cursos de formação» antes do art. 70.º (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «DIVISÃO II — Cursos de formação para as carreiras de meteorologia» antes do art. 77.º (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «DIVISÃO IV — Cursos de formação para a carreira de telecomunicações meteorológicas e geofísicas» antes do art. 85.º (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «CAPÍTULO IV — Pessoal pertencente ao quadro» e «SECÇÃO I — Disposições comuns» antes do art. 87.º (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «SECÇÃO II — Recrutamento do pessoal» antes do art. 92.º (sem efeito no consolidado)",
+   "DL 335/81, art. 1.º, n.º 3: título «CAPÍTULO V — Disposições finais» antes do art. 100.º (sem efeito no consolidado)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 715/79, 1.º, n.º 1: aumento do quadro de pessoal com os lugares do quadro anexo",
+    "motivo": "O mapa vem só em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "Portaria 357/81, 1.º: aumento do quadro de pessoal com os lugares do mapa anexo",
+    "motivo": "O mapa vem só em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DL 335/81, art. 1.º, n.º 2: substituição dos quadros anexos ao DL 633/76 pelos quadros I e III anexos",
+    "motivo": "Os quadros vêm só em imagem e o consolidado não tem anexo com título onde os pôr (os antigos estavam no fim do art. 141.º, que sai com o capítulo VI)."
+   },
+   {
+    "instrucao": "Portaria 1065/81, 1.º: substituição do quadro do pessoal de informática pelo mapa I",
+    "motivo": "O mapa vem só em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DL 78/91, art. único: INMG colocado na dependência do Ministro do Ambiente e Recursos Naturais",
+    "motivo": "Não é textual: muda a tutela sem nova redacção de nenhum artigo."
+   },
+   {
+    "instrucao": "DL 220/2003, art. 40.º: subsídio de residência do art. 89.º, norma interpretativa",
+    "motivo": "Não é textual: lei interpretativa que não altera o texto do art. 89.º."
+   },
+   {
+    "instrucao": "DL 220/2003, art. 42.º: revogação das disposições legais e regulamentares que contrariem o diploma (mantendo o art. 89.º)",
+    "motivo": "Revogação condicional («que contrariem o presente diploma»)."
+   },
+   {
+    "instrucao": "DL 335/81, art. 5.º: revogação das disposições do DL 633/76 em conformidade com as alterações introduzidas",
+    "motivo": "Revogação condicional («em conformidade com as alterações»); o efeito está nas substituições do art. 1.º."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,510 @@
+[
+ {
+  "id": "pt:dre:331978:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Igual ao original até «o Governo decreta o seguinte:»; os artigos passaram para entradas próprias",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 aditado conforme DL 128/90 art. 5.º, n.º 5 (Lei 32-B/2002, art. 9.º, n.º 4, e Lei 1/2004, art. 1.º, n.º 4); n.os 1 a 4 iguais ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (apenas a formatação do título normalizada)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 32-B/2002, art. 9.º, n.os 1, 2, 3, 5: alterações ao Estatuto da Aposentação, revogação do DL 116/85, alteração do DL 327/85",
+    "motivo": "Instruções de outros diplomas"
+   },
+   {
+    "instrucao": "Lei 32-B/2002, art. 9.º, n.os 6 a 8: regime transitório para processos de aposentação enviados até 31/12/2002",
+    "motivo": "Não textual e dependente de factos futuros/condições do subscritor; não altera o texto do original"
+   },
+   {
+    "instrucao": "Acórdão TC 360/2003: inconstitucionalidade com força obrigatória geral das normas do art. 9.º da Lei 32-B/2002",
+    "motivo": "Declaração de inconstitucionalidade sem eliminar texto do original (a norma foi reposta pela Lei 1/2004)"
+   },
+   {
+    "instrucao": "Lei 1/2004, art. 1.º, n.os 1, 2, 3, 5: Estatuto da Aposentação, revogação do DL 116/85, DL 327/85",
+    "motivo": "Instruções de outros diplomas"
+   },
+   {
+    "instrucao": "Lei 1/2004, art. 1.º, n.os 6 a 8: regime transitório por referência à data de entrada em vigor",
+    "motivo": "Não textual; ressalva transitória sem nova redação ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:413054:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (título em maiúsculas normalizado); a instrução do alterador não o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 34/76, arts. 1.º a 3.º e 5.º: reclassificação/transição de funcionários, incorporação nos quadros e efeitos retroactivos",
+    "motivo": "Não textual: disposições próprias do alterador sem nova redação ao original"
+   },
+   {
+    "instrucao": "DL 34/76, art. 4.º: mapa II anexo ao original substituído pelo mapa II do alterador",
+    "motivo": "O novo mapa só vem em imagem; o consolidado não tem anexo com título onde o pôr (mapas soltos após as assinaturas, e o mapa II nem consta)"
+   },
+   {
+    "instrucao": "DL 34/76, art. 6.º: ficam alteradas as disposições do original incompatíveis com o diploma",
+    "motivo": "Revogação/alteração condicional («que forem incompatíveis») sem texto novo"
+   },
+   {
+    "instrucao": "Portaria 29/76, n.os 1 e 2: desdobramento da Tesouraria do 5.º Bairro Fiscal de Lisboa",
+    "motivo": "Não textual: organização de serviços, não altera o texto do original"
+   },
+   {
+    "instrucao": "Portaria 29/76, n.º 3: acrescidas unidades ao quadro do mapa III (2 tesoureiros J, 2 ajudantes P, 11 auxiliares S)",
+    "motivo": "O mapa III só existe em imagem, sem anexo com título, e a portaria não traz o mapa novo"
+   },
+   {
+    "instrucao": "Portaria 60/76, n.os 1 e 2: criada tesouraria e fixado o seu quadro, alterando-se o mapa III",
+    "motivo": "Mapa III só em imagem, sem anexo com título; a portaria não traz o mapa novo"
+   },
+   {
+    "instrucao": "DL 186/98, art. 25.º, c): revogação do original na parte relativa às atribuições e competências transitadas para a DGT",
+    "motivo": "Revogação condicional («na parte relativa…») sem indicar preceitos"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:424101:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 107/2005 (art. 19.º do regime anexo ao DL 269/98)",
+    "motivo": "Instrução de outro diploma"
+   },
+   {
+    "instrucao": "Lei 60-A/2005",
+    "motivo": "O pedido não traz o texto do alterador"
+   },
+   {
+    "instrucao": "Lei 53-A/2006, art. 134.º (arts. 95.º, 124.º, 131.º, 142.º do DL 224-A/96)",
+    "motivo": "Instrução de outro diploma (Código das Custas Judiciais)"
+   },
+   {
+    "instrucao": "DL 303/2007",
+    "motivo": "O pedido não traz o texto do alterador"
+   },
+   {
+    "instrucao": "Lei 48/2007 (Código de Processo Penal)",
+    "motivo": "Instrução de outro diploma"
+   },
+   {
+    "instrucao": "Lei 67-A/2007",
+    "motivo": "O pedido não traz o texto do alterador"
+   },
+   {
+    "instrucao": "DL 34/2008",
+    "motivo": "Instruções de outros diplomas (Código de Processo Civil e outros)"
+   },
+   {
+    "instrucao": "DL 116/2008, art. 16.º (art. 3.º do DL 200/2003)",
+    "motivo": "Instrução de outro diploma"
+   },
+   {
+    "instrucao": "Acórdão TC 375/2008 (art. 13.º, n.º 2 do Código das Custas Judiciais)",
+    "motivo": "Declaração de inconstitucionalidade sem eliminar texto; alvo é outro diploma"
+   },
+   {
+    "instrucao": "Lei 20/2013 (art. 101.º do CPP)",
+    "motivo": "Instrução de outro diploma"
+   },
+   {
+    "instrucao": "Lei 39/2020 (CPP)",
+    "motivo": "Instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

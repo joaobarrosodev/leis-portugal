@@ -1,0 +1,15 @@
+[
+  {
+    "id": "pt:dre:583042:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação por aplicar: a Declaração de Retificação n.º 6/97 (pt:dre:517440:por, DR I-A n.º 66 de 19/03/1997), que está nas relationships como corrected_by e não está entre os alteradores, retifica dois passos que o consolidado deixa como no original. (1) Artigo 29.º, n.º 3, na redação dada ao n.º 8 do artigo 80.º do Código do IRS: onde está «de harmonia com o disposto no n.º 6 do artigo 55.º» deve ler-se «de harmonia com o disposto no n.º 7 do artigo 55.º». O artigo 29.º vem na lista dos iguais ao original. (2) Artigo 40.º, n.º 1: onde está «até ao limite de 1530000$00» deve ler-se «até ao limite de 1530000000$00». O consolidado mantém «1530000$00».",
+      "Menor (marcadores de imagem, não texto normativo): o consolidado tira 8 das 9 ligações «[(ver documento original)](…02040557.pdf)» que, no original, marcam quadros que só existem em imagem. Faltam, por exemplo, no artigo 101 da TGIS («1 - Letras:» fica sem nada a seguir), no n.º 2 do artigo 1.º do DL 124/94 (intervalos do ISP), nas tabelas do imposto automóvel, no quadro da sisa e no fim do artigo dos avales/garantias. Só fica a ligação final, a seguir à referenda. Parece uma deduplicação de parágrafos iguais. O leitor deixa de saber que ali há um quadro.",
+      "Sem reparo: a alínea c) do artigo 61.º (Lei n.º 130-B/97, art. 2.º) está bem aditada. As substituições de mapas (Declaração n.º 6/97, Declaração n.º 9/97 e art. 1.º da Lei n.º 130-B/97) só vêm em imagem, e a justificação aceita-se. As três relações repealed_by (DL 398/98, DL 191/99 e DR 25/2009) revogam normas de outros diplomas (art. 13.º do CPT, DL 275-A/93, DR 2/90) na redação dada por esta lei, sem revogar nem mudar artigos da Lei n.º 52-C/96. O mesmo vale para a repristinação do DL 20/90 pela Lei n.º 159-C/2015."
+    ],
+    "vigencia": {
+      "conclusao": "caducado",
+      "prova": "Lei do Orçamento do Estado para 1997: as normas orçamentais anuais caducaram no fim do ano económico de 1997. As normas que alteram outros códigos vivem nesses diplomas."
+    }
+  }
+]

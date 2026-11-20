@@ -40,5 +40,19 @@
     "unidade": [],
     "diploma": "pt:dre:308336:por",
     "alterador": "pt:dre:581254:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Área abrangida por plano director municipal\n\nNo caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e e) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.",
+    "depois": "###### Artigo 4.º — Área abrangida por plano director municipal\n\nNo caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308336:por",
+    "alterador": "pt:dre:581254:por"
   }
 ]

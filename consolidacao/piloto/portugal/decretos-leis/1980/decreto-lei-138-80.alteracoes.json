@@ -1314,5 +1314,19 @@
     "unidade": [],
     "diploma": "pt:dre:474127:por",
     "alterador": "pt:dre:453800:por"
+  },
+  {
+    "artigo": "ANEXO — Mapa de pessoal",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Mapa de pessoal\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11600/10661087.pdf)",
+    "depois": "## ANEXO — Mapa de pessoal\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:474127:por",
+    "alterador": "pt:dre:453800:por"
   }
 ]

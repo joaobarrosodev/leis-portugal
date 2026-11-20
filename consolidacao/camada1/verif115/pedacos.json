@@ -1,0 +1,713 @@
+[
+ {
+  "pedaco": 1,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:176301:por",
+   "pt:dre:187932:por"
+  ],
+  "chars": 111643,
+  "vista": "camada1/verif115/vista-001.md",
+  "resposta": "camada1/verif115/resposta-001.json"
+ },
+ {
+  "pedaco": 2,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:189484:por"
+  ],
+  "chars": 77873,
+  "vista": "camada1/verif115/vista-002.md",
+  "resposta": "camada1/verif115/resposta-002.json"
+ },
+ {
+  "pedaco": 3,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:212013:por",
+   "pt:dre:222226:por"
+  ],
+  "chars": 128846,
+  "vista": "camada1/verif115/vista-003.md",
+  "resposta": "camada1/verif115/resposta-003.json"
+ },
+ {
+  "pedaco": 4,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:223019:por"
+  ],
+  "chars": 108950,
+  "vista": "camada1/verif115/vista-004.md",
+  "resposta": "camada1/verif115/resposta-004.json"
+ },
+ {
+  "pedaco": 5,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:233945:por"
+  ],
+  "chars": 48245,
+  "vista": "camada1/verif115/vista-005.md",
+  "resposta": "camada1/verif115/resposta-005.json"
+ },
+ {
+  "pedaco": 6,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:234506:por"
+  ],
+  "chars": 694680,
+  "vista": "camada1/verif115/vista-006.md",
+  "resposta": "camada1/verif115/resposta-006.json"
+ },
+ {
+  "pedaco": 7,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:238645:por",
+   "pt:dre:274646:por",
+   "pt:dre:281452:por"
+  ],
+  "chars": 56273,
+  "vista": "camada1/verif115/vista-007.md",
+  "resposta": "camada1/verif115/resposta-007.json"
+ },
+ {
+  "pedaco": 8,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:292305:por",
+   "pt:dre:292498:por"
+  ],
+  "chars": 130490,
+  "vista": "camada1/verif115/vista-008.md",
+  "resposta": "camada1/verif115/resposta-008.json"
+ },
+ {
+  "pedaco": 9,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:303221:por",
+   "pt:dre:308336:por",
+   "pt:dre:311209:por"
+  ],
+  "chars": 115774,
+  "vista": "camada1/verif115/vista-009.md",
+  "resposta": "camada1/verif115/resposta-009.json"
+ },
+ {
+  "pedaco": 10,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:312427:por"
+  ],
+  "chars": 49915,
+  "vista": "camada1/verif115/vista-010.md",
+  "resposta": "camada1/verif115/resposta-010.json"
+ },
+ {
+  "pedaco": 11,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:312664:por",
+   "pt:dre:374825:por"
+  ],
+  "chars": 134336,
+  "vista": "camada1/verif115/vista-011.md",
+  "resposta": "camada1/verif115/resposta-011.json"
+ },
+ {
+  "pedaco": 12,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:408485:por"
+  ],
+  "chars": 56407,
+  "vista": "camada1/verif115/vista-012.md",
+  "resposta": "camada1/verif115/resposta-012.json"
+ },
+ {
+  "pedaco": 13,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:429270:por"
+  ],
+  "chars": 342955,
+  "vista": "camada1/verif115/vista-013.md",
+  "resposta": "camada1/verif115/resposta-013.json"
+ },
+ {
+  "pedaco": 14,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:430865:por"
+  ],
+  "chars": 203833,
+  "vista": "camada1/verif115/vista-014.md",
+  "resposta": "camada1/verif115/resposta-014.json"
+ },
+ {
+  "pedaco": 15,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:431793:por",
+   "pt:dre:462061:por"
+  ],
+  "chars": 113702,
+  "vista": "camada1/verif115/vista-015.md",
+  "resposta": "camada1/verif115/resposta-015.json"
+ },
+ {
+  "pedaco": 16,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:469072:por",
+   "pt:dre:474127:por"
+  ],
+  "chars": 135604,
+  "vista": "camada1/verif115/vista-016.md",
+  "resposta": "camada1/verif115/resposta-016.json"
+ },
+ {
+  "pedaco": 17,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:477288:por",
+   "pt:dre:484667:por"
+  ],
+  "chars": 111339,
+  "vista": "camada1/verif115/vista-017.md",
+  "resposta": "camada1/verif115/resposta-017.json"
+ },
+ {
+  "pedaco": 18,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:493271:por"
+  ],
+  "chars": 194685,
+  "vista": "camada1/verif115/vista-018.md",
+  "resposta": "camada1/verif115/resposta-018.json"
+ },
+ {
+  "pedaco": 19,
+  "lote": "entrada-piloto-115-lote-01.jsonl",
+  "ids": [
+   "pt:dre:512991:por"
+  ],
+  "chars": 71890,
+  "vista": "camada1/verif115/vista-019.md",
+  "resposta": "camada1/verif115/resposta-019.json"
+ },
+ {
+  "pedaco": 20,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:522859:por"
+  ],
+  "chars": 24776,
+  "vista": "camada1/verif115/vista-020.md",
+  "resposta": "camada1/verif115/resposta-020.json"
+ },
+ {
+  "pedaco": 21,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:545648:por"
+  ],
+  "chars": 126256,
+  "vista": "camada1/verif115/vista-021.md",
+  "resposta": "camada1/verif115/resposta-021.json"
+ },
+ {
+  "pedaco": 22,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:545650:por"
+  ],
+  "chars": 96177,
+  "vista": "camada1/verif115/vista-022.md",
+  "resposta": "camada1/verif115/resposta-022.json"
+ },
+ {
+  "pedaco": 23,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:553668:por"
+  ],
+  "chars": 288000,
+  "vista": "camada1/verif115/vista-023.md",
+  "resposta": "camada1/verif115/resposta-023.json"
+ },
+ {
+  "pedaco": 24,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:583042:por"
+  ],
+  "chars": 150004,
+  "vista": "camada1/verif115/vista-024.md",
+  "resposta": "camada1/verif115/resposta-024.json"
+ },
+ {
+  "pedaco": 25,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:592760:por"
+  ],
+  "chars": 88319,
+  "vista": "camada1/verif115/vista-025.md",
+  "resposta": "camada1/verif115/resposta-025.json"
+ },
+ {
+  "pedaco": 26,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:626423:por"
+  ],
+  "chars": 615962,
+  "vista": "camada1/verif115/vista-026.md",
+  "resposta": "camada1/verif115/resposta-026.json"
+ },
+ {
+  "pedaco": 27,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:629160:por"
+  ],
+  "chars": 37185,
+  "vista": "camada1/verif115/vista-027.md",
+  "resposta": "camada1/verif115/resposta-027.json"
+ },
+ {
+  "pedaco": 28,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:632738:por"
+  ],
+  "chars": 243384,
+  "vista": "camada1/verif115/vista-028.md",
+  "resposta": "camada1/verif115/resposta-028.json"
+ },
+ {
+  "pedaco": 29,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:638772:por"
+  ],
+  "chars": 24460,
+  "vista": "camada1/verif115/vista-029.md",
+  "resposta": "camada1/verif115/resposta-029.json"
+ },
+ {
+  "pedaco": 30,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:642527:por"
+  ],
+  "chars": 378919,
+  "vista": "camada1/verif115/vista-030.md",
+  "resposta": "camada1/verif115/resposta-030.json"
+ },
+ {
+  "pedaco": 31,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:643283:por"
+  ],
+  "chars": 152654,
+  "vista": "camada1/verif115/vista-031.md",
+  "resposta": "camada1/verif115/resposta-031.json"
+ },
+ {
+  "pedaco": 32,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:643342:por"
+  ],
+  "chars": 16760,
+  "vista": "camada1/verif115/vista-032.md",
+  "resposta": "camada1/verif115/resposta-032.json"
+ },
+ {
+  "pedaco": 33,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:659563:por",
+   "pt:dre:668330:por"
+  ],
+  "chars": 133303,
+  "vista": "camada1/verif115/vista-033.md",
+  "resposta": "camada1/verif115/resposta-033.json"
+ },
+ {
+  "pedaco": 34,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:686232:por",
+   "pt:dre:687387:por"
+  ],
+  "chars": 127043,
+  "vista": "camada1/verif115/vista-034.md",
+  "resposta": "camada1/verif115/resposta-034.json"
+ },
+ {
+  "pedaco": 35,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:692200:por"
+  ],
+  "chars": 136960,
+  "vista": "camada1/verif115/vista-035.md",
+  "resposta": "camada1/verif115/resposta-035.json"
+ },
+ {
+  "pedaco": 36,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:201053:por"
+  ],
+  "chars": 84405,
+  "vista": "camada1/verif115/vista-036.md",
+  "resposta": "camada1/verif115/resposta-036.json"
+ },
+ {
+  "pedaco": 37,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:215770:por"
+  ],
+  "chars": 163024,
+  "vista": "camada1/verif115/vista-037.md",
+  "resposta": "camada1/verif115/resposta-037.json"
+ },
+ {
+  "pedaco": 38,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:391404:por"
+  ],
+  "chars": 156237,
+  "vista": "camada1/verif115/vista-038.md",
+  "resposta": "camada1/verif115/resposta-038.json"
+ },
+ {
+  "pedaco": 39,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:424312:por",
+   "pt:dre:463997:por",
+   "pt:dre:139722:por",
+   "pt:dre:146259:por"
+  ],
+  "chars": 135542,
+  "vista": "camada1/verif115/vista-039.md",
+  "resposta": "camada1/verif115/resposta-039.json"
+ },
+ {
+  "pedaco": 40,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:152365:por",
+   "pt:dre:157016:por",
+   "pt:dre:171362:por"
+  ],
+  "chars": 113882,
+  "vista": "camada1/verif115/vista-040.md",
+  "resposta": "camada1/verif115/resposta-040.json"
+ },
+ {
+  "pedaco": 41,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:172897:por"
+  ],
+  "chars": 82175,
+  "vista": "camada1/verif115/vista-041.md",
+  "resposta": "camada1/verif115/resposta-041.json"
+ },
+ {
+  "pedaco": 42,
+  "lote": "entrada-piloto-115-lote-02.jsonl",
+  "ids": [
+   "pt:dre:173758:por"
+  ],
+  "chars": 484475,
+  "vista": "camada1/verif115/vista-042.md",
+  "resposta": "camada1/verif115/resposta-042.json"
+ },
+ {
+  "pedaco": 43,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:193229:por",
+   "pt:dre:199627:por",
+   "pt:dre:221697:por"
+  ],
+  "chars": 137517,
+  "vista": "camada1/verif115/vista-043.md",
+  "resposta": "camada1/verif115/resposta-043.json"
+ },
+ {
+  "pedaco": 44,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:223017:por",
+   "pt:dre:226629:por"
+  ],
+  "chars": 99688,
+  "vista": "camada1/verif115/vista-044.md",
+  "resposta": "camada1/verif115/resposta-044.json"
+ },
+ {
+  "pedaco": 45,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:237463:por"
+  ],
+  "chars": 68474,
+  "vista": "camada1/verif115/vista-045.md",
+  "resposta": "camada1/verif115/resposta-045.json"
+ },
+ {
+  "pedaco": 46,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:237465:por"
+  ],
+  "chars": 75148,
+  "vista": "camada1/verif115/vista-046.md",
+  "resposta": "camada1/verif115/resposta-046.json"
+ },
+ {
+  "pedaco": 47,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:264966:por"
+  ],
+  "chars": 137906,
+  "vista": "camada1/verif115/vista-047.md",
+  "resposta": "camada1/verif115/resposta-047.json"
+ },
+ {
+  "pedaco": 48,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:285477:por"
+  ],
+  "chars": 135155,
+  "vista": "camada1/verif115/vista-048.md",
+  "resposta": "camada1/verif115/resposta-048.json"
+ },
+ {
+  "pedaco": 49,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:306575:por"
+  ],
+  "chars": 35561,
+  "vista": "camada1/verif115/vista-049.md",
+  "resposta": "camada1/verif115/resposta-049.json"
+ },
+ {
+  "pedaco": 50,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:371035:por",
+   "pt:dre:375192:por"
+  ],
+  "chars": 135351,
+  "vista": "camada1/verif115/vista-050.md",
+  "resposta": "camada1/verif115/resposta-050.json"
+ },
+ {
+  "pedaco": 51,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:380135:por",
+   "pt:dre:390270:por",
+   "pt:dre:401512:por"
+  ],
+  "chars": 118150,
+  "vista": "camada1/verif115/vista-051.md",
+  "resposta": "camada1/verif115/resposta-051.json"
+ },
+ {
+  "pedaco": 52,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:402880:por"
+  ],
+  "chars": 214591,
+  "vista": "camada1/verif115/vista-052.md",
+  "resposta": "camada1/verif115/resposta-052.json"
+ },
+ {
+  "pedaco": 53,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:402909:por",
+   "pt:dre:419781:por",
+   "pt:dre:424689:por"
+  ],
+  "chars": 117563,
+  "vista": "camada1/verif115/vista-053.md",
+  "resposta": "camada1/verif115/resposta-053.json"
+ },
+ {
+  "pedaco": 54,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:430025:por"
+  ],
+  "chars": 46442,
+  "vista": "camada1/verif115/vista-054.md",
+  "resposta": "camada1/verif115/resposta-054.json"
+ },
+ {
+  "pedaco": 55,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:455465:por"
+  ],
+  "chars": 168103,
+  "vista": "camada1/verif115/vista-055.md",
+  "resposta": "camada1/verif115/resposta-055.json"
+ },
+ {
+  "pedaco": 56,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:463975:por",
+   "pt:dre:509026:por"
+  ],
+  "chars": 113533,
+  "vista": "camada1/verif115/vista-056.md",
+  "resposta": "camada1/verif115/resposta-056.json"
+ },
+ {
+  "pedaco": 57,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:560020:por"
+  ],
+  "chars": 223273,
+  "vista": "camada1/verif115/vista-057.md",
+  "resposta": "camada1/verif115/resposta-057.json"
+ },
+ {
+  "pedaco": 58,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:569887:por",
+   "pt:dre:576960:por"
+  ],
+  "chars": 109751,
+  "vista": "camada1/verif115/vista-058.md",
+  "resposta": "camada1/verif115/resposta-058.json"
+ },
+ {
+  "pedaco": 59,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:627272:por",
+   "pt:dre:631384:por"
+  ],
+  "chars": 116008,
+  "vista": "camada1/verif115/vista-059.md",
+  "resposta": "camada1/verif115/resposta-059.json"
+ },
+ {
+  "pedaco": 60,
+  "lote": "entrada-piloto-115-lote-03.jsonl",
+  "ids": [
+   "pt:dre:632207:por",
+   "pt:dre:632220:por"
+  ],
+  "chars": 78886,
+  "vista": "camada1/verif115/vista-060.md",
+  "resposta": "camada1/verif115/resposta-060.json"
+ },
+ {
+  "pedaco": 61,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:632740:por"
+  ],
+  "chars": 54952,
+  "vista": "camada1/verif115/vista-061.md",
+  "resposta": "camada1/verif115/resposta-061.json"
+ },
+ {
+  "pedaco": 62,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:655311:por"
+  ],
+  "chars": 94967,
+  "vista": "camada1/verif115/vista-062.md",
+  "resposta": "camada1/verif115/resposta-062.json"
+ },
+ {
+  "pedaco": 63,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:667147:por"
+  ],
+  "chars": 260750,
+  "vista": "camada1/verif115/vista-063.md",
+  "resposta": "camada1/verif115/resposta-063.json"
+ },
+ {
+  "pedaco": 64,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:667887:por",
+   "pt:dre:686788:por"
+  ],
+  "chars": 116936,
+  "vista": "camada1/verif115/vista-064.md",
+  "resposta": "camada1/verif115/resposta-064.json"
+ },
+ {
+  "pedaco": 65,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:242189:por"
+  ],
+  "chars": 613922,
+  "vista": "camada1/verif115/vista-065.md",
+  "resposta": "camada1/verif115/resposta-065.json"
+ },
+ {
+  "pedaco": 66,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:398139:por"
+  ],
+  "chars": 1194769,
+  "vista": "camada1/verif115/vista-066.md",
+  "resposta": "camada1/verif115/resposta-066.json"
+ },
+ {
+  "pedaco": 67,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:432796:por"
+  ],
+  "chars": 663720,
+  "vista": "camada1/verif115/vista-067.md",
+  "resposta": "camada1/verif115/resposta-067.json"
+ },
+ {
+  "pedaco": 68,
+  "lote": "entrada-piloto-115-lote-04.jsonl",
+  "ids": [
+   "pt:dre:516068:por"
+  ],
+  "chars": 457324,
+  "vista": "camada1/verif115/vista-068.md",
+  "resposta": "camada1/verif115/resposta-068.json"
+ }
+]

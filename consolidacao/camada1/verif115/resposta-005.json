@@ -1,0 +1,44 @@
+[
+ {
+  "id": "pt:dre:233945:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Lei 92-A/95 art. 7.º: novo n.º 3, anteriores 3 e 4 passam a 4 e 5."
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Novo n.º 1 e n.º 2; anteriores 2 e 3 passam a 3 e 4."
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Corpo, alíneas a) e c) com nova redacção; restantes '...' mantidas."
+   },
+   {
+    "artigo": "Artigo 74.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com 824 milhões; n.os 2 e 3 mantidos."
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Alínea a) com a nova redacção; restantes mantidas."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Lei n.º 92-A/95, art. 2.º: montante global do FEF do n.º 1 do artigo 12.º fixado em 221,1 milhões de contos para 1995. Alvo provável: art. 12.º n.º 1 (valor do montante); o artigo está nos IGUAIS e não é visível na vista, por isso não confirmo que seja não textual (alvo incerto)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 92-A/95, art. 1.º: mapas I a IV, IX, X e XI substituídos",
+    "motivo": "Texto novo só em imagem e o consolidado não tem anexo com título onde o pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

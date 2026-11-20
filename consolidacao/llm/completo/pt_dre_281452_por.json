@@ -39,20 +39,24 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: adita § 2.º ao art. 6.º e o § único passa a § 1.º; aplicado.",
-    "Alterador 1, art. 2.º: nova redacção do art. 8.º; aplicada e depois substituída pela do alterador 2.",
-    "Alterador 2, art. 1.º: art. 5.º com novo § 2.º e o antigo § 2.º passa a § 3.º; aplicado.",
-    "Alterador 2, art. 1.º: nova redacção dos arts. 8.º e 9.º; aplicada.",
-    "Alterador 2, art. 1.º: nova redacção do corpo do art. 29.º, mantendo o § único; aplicada.",
-    "Alterador 2, art. 2.º: norma autónoma sobre registo; nada a aplicar.",
-    "Alterador 3, artigo único: nova redacção do § único do art. 32.º; aplicada."
+    "Alterador 1, art. 1.º: aditado ao art. 6.º um § 2.º; o § único passa a § 1.º (texto atual com a designação nova, como manda a instrução). O reparo ao 6.º vem desta renumeração; mantém-se.",
+    "Alterador 1, art. 2.º: nova redação do art. 8.º; substituída depois pelo alterador 2.",
+    "Alterador 2, art. 1.º: art. 5.º com novo § 2.º e o antigo § 2.º passa a § 3.º («§ 3.º (O actual § 2.º).»), corpo e § 1.º do texto atual. O reparo ao 5.º vem desta renumeração; mantém-se.",
+    "Alterador 2, art. 1.º: nova redação dos arts. 8.º e 9.º e do corpo do art. 29.º (§ único '...' do texto atual).",
+    "Alterador 2, art. 2.º: regra própria sobre o registo da propriedade horizontal; não altera o texto do original.",
+    "Alterador 3: nova redação do § único do art. 32.º; corpo e alíneas do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [
     "5.º: parágrafo que não está no alterador nem no original: § 3.º O interessado poderá satisfazer imediatamente a importância necessária par",
     "6.º: parágrafo que não está no alterador nem no original: § 1.º Na classificação dos concorrentes atender-se-á, na medida do possível, ao "
-  ]
+  ],
+  "avisos": []
 }

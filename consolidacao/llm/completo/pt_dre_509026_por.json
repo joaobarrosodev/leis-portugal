@@ -10,15 +10,20 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Despacho Normativo n.º 107/77 esclarece o prazo do n.º 2 do artigo 4.º: não textual (interpretação ao abrigo do artigo 10.º, sem alterar o texto)\nAlterador 2, Portaria n.º 348/77 aprovada ao abrigo do n.º 1 do artigo 1.º: não textual (ao abrigo de)\nAlterador 5, Portaria n.º 1049/81 exclui bens do regime ao abrigo do n.º 6 do artigo 4.º: não textual (ao abrigo de)\nAlterador 9, artigo 8.º, n.º 3, do DL 415-A/86 mantém em vigor as disposições que não colidam: revogação condicional (na parte em que colidam)\nAlterador 10, Portaria n.º 826/2005 aprovada ao abrigo do artigo 1.º: não textual (ao abrigo de; altera outro diploma, a Portaria n.º 618-A/2005)",
   "instrucoes": [
-    "Alterador 3 (DL 531/79): nova redação do n.º1 do 4.º; depois revogado pelo DL 29/80 e substituído.",
-    "Alterador 4 (DL 29/80): nova redação do 4.º: n.º1 novo, n.os 2 a 4 mantidos ('...'), aditados n.os 5 e 6. O reparo enganava-se: os n.os 5 e 6 vêm do DL 29/80, que está no pedido.",
-    "Alteradores 6 e 7 (DL 184/82, DL 294/84): nova redação do n.º1 do 4.º, n.os 2 a 6 mantidos.",
-    "Alterador 8 (DL 368/86): nova redação do n.º1 do 4.º, n.os 2 a 6 mantidos, aditados n.os 7, 8 e 9. Resultado: n.º1 do DL 368/86, n.os 2 a 4 do texto atual, n.os 5 e 6 do DL 29/80, n.os 7 a 9 do DL 368/86.",
-    "Alteradores 1, 2, 5, 9 e 10 (Desp. Normativo 107/77, Portarias 348/77, 1049/81, DL 415-A/86, Portaria 826/2005): interpretação, regulamentação ou alteração de outros diplomas; nada a aplicar ao texto."
+    "Alterador 3 (DL 531/79): nova redação do n.º 1 do art. 4.º; ultrapassada pelos alteradores seguintes (e o DL 531/79 foi revogado pelo DL 29/80).",
+    "Alterador 4 (DL 29/80): nova redação do art. 4.º (n.º 1; n.os 2 a 4 '...'; aditados n.os 5 e 6): n.os 5 e 6 copiados deste alterador.",
+    "Alteradores 6 e 7 (DL 184/82, DL 294/84): nova redação do n.º 1 do art. 4.º; ultrapassada pelo alterador 8.",
+    "Alterador 8 (DL 368/86): nova redação do n.º 1 e aditados n.os 7 a 9 do art. 4.º; n.os 2 a 6 '...' mantidos (2 a 4 do texto atual, 5 e 6 do DL 29/80).",
+    "Reparo ao art. 4.º: os n.os 5 e 6 vêm do DL 29/80, que é o alterador 4 deste pedido; confirmados.",
+    "Alteradores 1, 2, 5, 9 e 10: sem alteração textual (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

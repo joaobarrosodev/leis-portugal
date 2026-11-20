@@ -87,14 +87,19 @@ def selecionar(db: sqlite3.Connection) -> list[dict]:
     return sorted(resultado, key=lambda r: (-r["citacoes"], r["id"]))
 
 
-def selecionar_todos(db: sqlite3.Connection) -> list[dict]:
-    """Escala: todos os em vigor alterados, com texto, com os alteradores por ordem de data."""
+def selecionar_todos(db: sqlite3.Connection, ids: set[str] | None = None) -> list[dict]:
+    """Escala: todos os em vigor alterados, com texto, com os alteradores por ordem de data.
+
+    Com `ids`, só esses e com qualquer `legal_status`: é assim que entram os de vigência
+    desconhecida (`unknown`), que a seleção por omissão não vê (camada 1, `camada1.py`)."""
+    filtro = "legal_status in ('in_force', 'partially_in_force')" if ids is None else "1 = 1"
     alvo = {
         linha[0]: dict(zip(COLUNAS.split(", "), linha, strict=True))
         for linha in db.execute(
-            f"select {COLUNAS} from documentos where legal_status in ('in_force', 'partially_in_force')"
+            f"select {COLUNAS} from documentos where {filtro}"
             " and version_kind = 'original' and jurisdiction in ('portugal', 'regional') and text_quality = 'texto'"
         )
+        if ids is None or linha[0] in ids
     }
     relacoes: dict[str, dict[str, dict]] = defaultdict(dict)  # original -> alvo da relação -> relação
     for origem, alvo_rel, alvo_id, data, rotulo, tipo in db.execute(

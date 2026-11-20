@@ -203,5 +203,19 @@
     ],
     "diploma": "pt:dre:187932:por",
     "alterador": "pt:dre:211499215:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Processo de contra-ordenação\n\n1 - Às contraordenações previstas no presente decreto-lei aplica-se o disposto no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.\n\n2 - Ao INEM, I. P., incumbe, na área da sua competência, processar as contraordenações resultantes das infrações ao presente decreto-lei, bem como aplicar as coimas, as sanções acessórias e as medidas cautelares.\n\n3 - Sem prejuízo do disposto do número anterior, o INEM, I. P., pode confiar a execução de medidas cautelares e sanções acessórias às autoridades policiais.\n\n4 - O produto das coimas previstas no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para o INEM, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "depois": "###### Artigo 13.º — Processo de contra-ordenação\n\n1 - Às contraordenações previstas no presente decreto-lei aplica-se o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.\n\n2 - Ao INEM, I. P., incumbe, na área da sua competência, processar as contraordenações resultantes das infrações ao presente decreto-lei, bem como aplicar as coimas, as sanções acessórias e as medidas cautelares.\n\n3 - Sem prejuízo do disposto do número anterior, o INEM, I. P., pode confiar a execução de medidas cautelares e sanções acessórias às autoridades policiais.\n\n4 - O produto das coimas previstas no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para o INEM, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Alterado pelo/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:187932:por",
+    "alterador": "pt:dre:211499215:por"
   }
 ]

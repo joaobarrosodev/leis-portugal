@@ -1537,7 +1537,7 @@ No Ministério formam quadros separados o pessoal da Repartição do Gabinete, o
 
 § 4.º O Ministro pode também, em despacho sem dependência de visto ou anotação do Tribunal de Contas, deslocar transitòriamente, sempre que as circunstâncias do serviço o aconselhem, pessoal de uns para outros departamentos do Ministério.
 
-§ 5.º (O actual § 4.º)
+§ 5.º A faculdade prevista no parágrafo anterior é atribuída, dentro dos respectivos serviços, aos directores-gerais e funcionários que dirijam departamentos do Ministério não integrados em direcções-gerais.
 
 > Alterado pelo/a [Decreto-Lei n.º 402/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838), publicado em 1972-10-24.
 

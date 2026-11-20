@@ -295,10 +295,10 @@
   },
   {
     "artigo": "34.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 34.º — Produção de efeitos\n\nO presente diploma reporta os seus efeitos a 28 de Maio de 1992.\n\nVisto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Filipe Alves Monteiro - António Fernando Couto dos Santos - Jorge Manuel Mendes Antas - Arlindo Gomes de Carvalho - João Prates Bebiano.\n\nPromulgado em Viana do Castelo em 25 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
-    "depois": "###### Artigo 34.º — Produção de efeitos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), publicado em 1999-04-20.\n\nVisto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Filipe Alves Monteiro - António Fernando Couto dos Santos - Jorge Manuel Mendes Antas - Arlindo Gomes de Carvalho - João Prates Bebiano.\n\nPromulgado em Viana do Castelo em 25 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 34.º — Produção de efeitos\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), publicado em 1999-04-20.\n\nVisto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Filipe Alves Monteiro - António Fernando Couto dos Santos - Jorge Manuel Mendes Antas - Arlindo Gomes de Carvalho - João Prates Bebiano.\n\nPromulgado em Viana do Castelo em 25 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

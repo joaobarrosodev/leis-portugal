@@ -1,0 +1,54 @@
+[
+ {
+  "id": "pt:dre:659563:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lei 87/98 art. 2.º: n.º 29 substituído; aditados n.os 34 a 42; restantes n.os (\"...\") iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Bloco inclui o art. 70.º, alterado pelo art. 3.º da Lei 87/98 (12 milhões -> 17 milhões, nova redação aplicada letra a letra). Resto igual; só desaparecem ligações repetidas ao mesmo PDF de imagem, sem efeito de substância.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 87/98, art. 1.º: mapas I a IV e XI substituem, na parte respectiva, os da Lei 127-B/97",
+    "motivo": "Texto novo só em imagem; consolidado sem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "Declaração 5/99: mapa IX substitui na parte alterada o mapa IX",
+    "motivo": "Texto novo só em imagem; consolidado sem anexo com título onde o pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:668330:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do DL 895/76 dá ao art. 9.º do DL 407-A/75 a nova redação; consolidado igual, sem n.os.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portarias 215/79, 476/81, 576/81 e 1219/82: desanexação e transmissão de parcelas de prédios",
+    "motivo": "Não textual: atos de transmissão de domínio ao abrigo do original, sem nova redação."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

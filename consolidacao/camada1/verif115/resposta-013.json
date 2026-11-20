@@ -1,0 +1,752 @@
+[
+ {
+  "id": "pt:dre:429270:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79 corrige o artigo (maiúsculas, estatutos e regulamentos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79: opções -> operações.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79: acrescenta «a» na alínea a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 substitui o artigo (conselho directivo, n.os 1 a 3); n.º 5 sai com a nova redacção integral.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 art. 2.º: epígrafe «Conselho directivo».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 nova redacção e epígrafe «Competência do presidente».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/97 art. 3.º revoga os artigos 15.º a 19.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 143/97 art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 143/97 art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 143/97 art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 143/97 art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "DL 188/89: aditada alínea d) do n.º 1 e n.os 3 e 4; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 188/89 art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "DL 403/93 art. 1.º nova redacção e epígrafe.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79 (n.os 1 e 2) e Portaria 123/80 (4 pilotos).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao original; a linha «Funchal» é título que precede o aditado artigo 67.º-A (Portaria 273/79).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 188/89 e revogado pelo DL 229/2005 art. 2.º c).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 188/89 art. 4.º n.º 1 (a redacção da Portaria 443/80 fica prejudicada).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 403/93 art. 2.º n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 403/93 art. 2.º n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 188/89 art. 5.º nova redacção (n.os 1 a 3; os n.os 4 e 5 saem).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º #2",
+    "veredicto": "dúvida",
+    "motivo": "DL 188/89 art. 5.º correcto. Mas o DL 229/2005 art. 2.º revoga «todas as normas que estabelecem acréscimos de tempo de serviço» e nomeia o art. 72.º do DL 361/78, cujo texto é o mesmo (20%/10%): o art. 59.º do Estatuto do Pessoal pode estar abrangido; alvo incerto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #4",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79 e 273/79 (n.º 3 com a área do Funchal).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #4",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79: n.os 1 e 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º #4",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79: n.º 3 acrescentado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º #4",
+    "veredicto": "certo",
+    "motivo": "Portaria 240/79: n.os 1 e 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO V #3",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões (Portaria 240/79 e 273/79): Lisboa passa a V.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º #4",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VI #3",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões pela Portaria 240/79 / 273/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VII #3",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões pela Portaria 240/79 / 273/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VIII #2",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões pela Portaria 240/79 / 273/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO IX",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões pela Portaria 240/79 / 273/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO X",
+    "veredicto": "certo",
+    "motivo": "Retificação da numeração das divisões pela Portaria 240/79 / 273/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-D",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-E",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-F",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 n.º 4; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a rectificação/alteração da Portaria 240/79 (ou instrução posterior); confere com o diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO III #2",
+    "veredicto": "certo",
+    "motivo": "Tabela D: Portaria 143/85 n.º 2.º (2500$00 e 1250$00), que prevalece sobre a Portaria 366/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO IV #2",
+    "veredicto": "certo",
+    "motivo": "Alteração parcial por imagem (Portaria 240/79, anexo IV, artigo 4.º n.º 1 d)): corpo antigo mais as linhas da imagem do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO XI",
+    "veredicto": "errado",
+    "motivo": "O título «DIVISÃO XI — Funchal» (com o subtítulo «I - Pilotagem») que a Portaria 273/79 n.º 4 acrescenta antes do artigo 103.º-A não está no consolidado; a antiga divisão XI (Vila Real de Santo António) passou a X, pelo que a saída do título original é correcta, mas o novo falta.",
+    "texto_esperado": "##### DIVISÃO XI — Funchal\n\nI - Pilotagem"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 273/79 n.º 4: título «DIVISÃO XI — Funchal» e subtítulo «I - Pilotagem» antes do artigo 103.º-A do Regulamento (o consolidado não tem esta linha de título; o sítio é conhecido: depois do artigo 99.º; «alvo incerto» não é justificação). Os subtítulos «II - Requisições» e «III - Taxas» e os artigos 103.º-A a 103.º-F estão aplicados.",
+   "DL 229/2005 artigo 2.º, proémio (revoga «todas as normas que estabelecem acréscimos de tempo de serviço»): sem efeito no consolidado além do artigo 72.º (nomeado na alínea c)); o artigo 59.º do Estatuto do Pessoal (Anexo I) tem o mesmo conteúdo (acréscimos de 20% e 10%) e não foi tocado; alvo incerto."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 49/79 n.os 1 a 5 (coeficientes das taxas de pilotagem)",
+    "motivo": "Não textual: fixa coeficientes ao abrigo do n.º 3 do artigo 32.º, sem texto novo para o diploma."
+   },
+   {
+    "instrucao": "Portaria 273/79 n.º 1 (Departamento de Pilotagem do Funchal classificado na 2.ª categoria)",
+    "motivo": "Não textual: classificação feita pela portaria, sem redacção nova."
+   },
+   {
+    "instrucao": "Portaria 366/83 n.os 1.º e 3.º (coeficientes; manutenção da tabela portuária)",
+    "motivo": "Não textual: fixação de coeficientes. O n.º 2.º (tabela D) aplicou-se (e foi depois substituído pela Portaria 143/85)."
+   },
+   {
+    "instrucao": "Portaria 143/85 n.os 1.º e 3.º (coeficientes; manutenção da tabela portuária)",
+    "motivo": "Não textual: fixação de coeficientes."
+   },
+   {
+    "instrucao": "DL 356/91 artigo 11.º do Estatuto do Pessoal das Administrações dos Portos (duas cópias do alterador)",
+    "motivo": "Outro diploma (Decreto-Lei n.º 101/88)."
+   },
+   {
+    "instrucao": "Portaria 280/93 (15,5% das receitas para o Fundo de Aposentações em 1993)",
+    "motivo": "Não textual: fixação anual ao abrigo do n.º 3 do artigo 35.º."
+   },
+   {
+    "instrucao": "DL 403/93 artigo 2.º n.º 1 (revogação dos artigos 58.º a 67.º)",
+    "motivo": "Efeito adiado: o n.º 3 só o faz produzir efeitos na entrada em vigor da portaria de fixação dos quadros de pessoal (facto futuro)."
+   },
+   {
+    "instrucao": "DL 403/93 artigo 2.º n.º 1 (revogação da Portaria n.º 123/80)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Portaria 210/95 (actualização de remunerações e senhas de presença)",
+    "motivo": "Não textual: fixação ao abrigo do n.º 1 do artigo 53.º e do n.º 1 do artigo 40.º do Estatuto do Pessoal."
+   },
+   {
+    "instrucao": "Portaria 500/95 (26% das receitas para o Fundo de Aposentações em 1995)",
+    "motivo": "Não textual: fixação anual ao abrigo do n.º 3 do artigo 35.º."
+   },
+   {
+    "instrucao": "DL 296-A/95 (INPP passa a integrar o Ministério do Equipamento Social)",
+    "motivo": "Não textual: só enumera o INPP entre os organismos do Ministério, sem texto novo para o diploma."
+   },
+   {
+    "instrucao": "Portaria 240/96 (actualização das remunerações e das senhas de presença)",
+    "motivo": "Não textual: fixação ao abrigo do n.º 1 do artigo 53.º e do n.º 1 do artigo 40.º do Estatuto do Pessoal."
+   },
+   {
+    "instrucao": "DL 234-A/98 artigo único n.º 1 (suspende a aplicabilidade do artigo 5.º aos portos do continente)",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DL 331/98 artigo 12.º n.º 1 a) (revoga o DL 361/78, excepto o artigo 35.º n.os 1 d), 2, 3 e 4, os artigos 58.º, 59.º e 72.º na redacção do DL 188/89)",
+    "motivo": "Revogação feita «sem prejuízo da aplicação das disposições de natureza transitória» do próprio DL 331/98 (artigo 2.º n.º 3: o IMP assegura as atribuições do INPP) e dos diplomas futuros que reestruturem as juntas autónomas e as administrações portuárias: efeito dependente de factos futuros / revogação condicional. Confirmado no texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [
+   "DIVISÃO XI — Funchal (título novo, Portaria 273/79 n.º 4)"
+  ],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

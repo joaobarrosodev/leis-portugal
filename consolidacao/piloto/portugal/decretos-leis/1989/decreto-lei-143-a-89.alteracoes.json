@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 2.º Os rendimentos da dívida pública interna que venha a ser emitida após a publicação do presente diploma contam apenas por 80% para fins de IRS e de IRC.",
+    "depois": "Art. 2.º (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:424312:por",
+    "alterador": "pt:dre:691435:por"
+  }
+]

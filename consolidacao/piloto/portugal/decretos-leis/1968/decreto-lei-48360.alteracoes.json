@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.\n\n§ único. O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.",
+    "depois": "###### Artigo 3.º\n\nA missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.\n\n§ 1.º O Ministro dos Negócios Estrangeiros, ouvido o Ministro da Economia, poderá decidir por simples despacho que a chefia da missão permanente seja exercida, em acumulação de funções, pelo representante de Portugal junto da Associação Europeia de Comércio Livre.\n\n§ 2.º O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1975-160544), publicado em 1975-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274646:por",
+    "alterador": "pt:dre:160544:por"
+  }
+]

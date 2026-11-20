@@ -1,0 +1,2332 @@
+[
+ {
+  "id": "pt:dre:626423:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 4.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 2.º: artigo 5.º-A aditado, texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 7.º na numeração do original); DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 8.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 9.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 10.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 11.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 12.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 14.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 26.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 28.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 36.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 41.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 43.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 45.º na numeração do original); DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 46.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 47.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 56.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 57.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 62.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 64.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 66.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 67.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 70.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 85.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 87.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 89.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 93.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 99.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "DL 175/97 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 105.º",
+    "veredicto": "certo",
+    "motivo": "DL 175/97 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 106.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IX",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91, art. 7.º: título passa a \"Reclamações e recursos em matéria administrativa\"; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 108.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 108.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 109.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 110.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 111.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 112.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 113.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 113.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 114.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 114.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 115.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 116.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 116.º",
+    "veredicto": "errado",
+    "motivo": "Lei 27/91 art. 1.º, artigo 117.º do original (cons. 116.º): o texto \"Os militares dos QP servem as Forças Armadas como profissionais ... constituem factor da afirmação e perenidade\" não foi aplicado; consolidado igual ao original. Numeração da instrução incoerente (\"1 -\" e \"2 -\"), mas o alvo é a frase do actual n.º 2.",
+    "texto_esperado": "###### Artigo 116.º — Militares dos QP\n\n1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.\n\n2 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.\n\n3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial."
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 118.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 119.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 119.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 120.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 120.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 121.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 122.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 123.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 123.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 124.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 124.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 125.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 125.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 126.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 127.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 127.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 128.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 128.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 129.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 129.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 130.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 130.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 131.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 131.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 132.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 132.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 133.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 133.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 134.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 134.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 135.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 135.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 136.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 136.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 137.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 137.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 138.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 138.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 139.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 139.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 140.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 141.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 141.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 142.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 142.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 143.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 143.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 144.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 144.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 145.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 145.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 146.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 147.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 147.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 148.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 148.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 149.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 149.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 150.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 150.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 151.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 151.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 152.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 152.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 153.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 153.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 154.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 154.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 155.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 155.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 156.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 156.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 157.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 157.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 158.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 158.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 159.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 159.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 160.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 160.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 161.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 161.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 162.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 162.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 163.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 164.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 164.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 165.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 165.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 166.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 166.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 167.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 167.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 168.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 168.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 169.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 169.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 170.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 170.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 171.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 171.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 172.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 172.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 173.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 173.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 174.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 174.º",
+    "veredicto": "certo",
+    "motivo": "Lei 15/92 art. 1.º n.º 1: alínea c) do artigo 175.º do original: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 175.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 176.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 176.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 177.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 177.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 178.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 178.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 179.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 179.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 180.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 180.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 181.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 181.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 182.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 182.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 183.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 183.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 184.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 184.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 185.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 185.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 186.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 186.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 187.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 187.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 188.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 188.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 189.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 189.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 190.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 190.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 191.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 191.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 192.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 192.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 193.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 193.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 194.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 194.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 195.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 195.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 196.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 196.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 197.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 197.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 198.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 198.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 199.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 199.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 200.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 200.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 201.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 201.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 202.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 203.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 203.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 204.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 204.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 205.º na numeração do original); DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 205.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 206.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 206.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 207.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 208.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 209.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 209.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 210.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 211.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 211.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 212.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 212.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 213.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 213.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 214.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 214.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 215.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 216.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 216.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 217.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 217.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 218.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 218.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 219.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 219.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 220.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 220.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 221.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 221.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 222.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 222.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 223.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 223.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 224.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 224.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 225.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 225.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 226.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 226.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 227.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 227.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 228.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 228.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 229.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 229.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 230.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 230.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 231.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 231.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 232.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 232.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 233.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 233.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 234.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 234.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 235.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 235.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 236.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 236.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 237.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 237.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 238.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 238.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 239.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 239.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 240.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 240.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 241.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 241.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 242.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 242.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 243.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 243.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 244.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 244.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 245.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 245.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 2.º: alterações às alíneas a) a d) do artigo 246.º do original: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 246.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 247.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 247.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 248.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 248.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 249.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 249.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 250.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 250.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 251.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 251.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 252.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 252.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 253.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 253.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 254.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 254.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 255.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 255.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 256.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 256.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 257.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 257.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 258.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 258.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 259.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 259.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 260.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 260.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 261.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 261.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 262.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 262.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 263.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 263.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 264.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 264.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 265.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 265.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 266.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 266.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 267.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 267.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 268.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 268.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 269.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 269.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 270.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 271.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 271.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 272.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 273.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 273.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 274.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 274.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 275.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 275.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 3.º n.º 2: eliminado o n.º 2 e n.º 1 passa a corpo do artigo 276.º do original: nova redação aplicada, restante texto igual ao original. O quadro de especialidades e postos (n.º 1, aditamento do posto de coronel) só existe em imagem; ver instruções justificadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 276.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 277.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 277.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 278.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 278.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 279.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 279.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 280.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 280.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 281.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 281.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 282.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 282.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 283.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 283.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 4.º: alterações às alíneas b) a h) do artigo 284.º do original: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 284.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 285.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 285.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 286.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 286.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 287.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 287.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 288.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 288.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 289.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 289.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 290.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 290.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 291.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 291.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 292.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 292.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 293.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 293.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 294.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 294.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 295.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 295.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 296.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 296.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 297.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 298.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 298.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 299.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 300.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 300.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 301.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 301.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 302.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 302.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 303.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 303.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 304.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 304.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 305.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 306.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 306.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 307.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 307.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 308.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 308.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 309.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 309.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 310.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 310.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 311.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 311.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 312.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 312.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 313.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 313.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 314.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 314.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 315.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 315.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 316.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 316.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 317.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 317.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 318.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 318.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 319.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 319.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 320.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 320.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 321.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 321.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 322.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 322.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 323.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 323.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 324.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 324.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 325.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 325.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 326.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 326.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 327.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 327.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 328.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 328.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 329.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 329.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 330.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 330.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 331.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 331.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 332.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 332.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 333.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 333.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 334.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 334.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 335.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 335.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 336.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 336.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 337.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 337.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 338.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 338.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92 art. 1.º: nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 339.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 340.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 340.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 341.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 341.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 342.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 342.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 343.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 343.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 344.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 344.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 345.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 345.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91 art. 1.º (artigo 346.º na numeração do original): nova redação aplicada, restante texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 346.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 347.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 347.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 348.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 348.º",
+    "veredicto": "certo",
+    "motivo": "Sem alteração do texto: igual ao artigo 349.º do original (renumeração por eliminação do artigo 110.º, Lei 27/91 art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 349.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 349.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "LIVRO III",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livro III passa a \"Do serviço efectivo normal\"; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 350.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 350.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 351.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 351.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 352.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 352.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 353.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 353.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 354.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 354.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 355.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 355.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 356.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 356.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 357.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 357.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 358.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 358.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 359.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 359.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 360.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 360.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 361.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 361.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 362.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 362.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 363.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 363.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 364.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 364.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 365.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 365.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 366.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 366.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 367.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 367.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 368.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 368.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 369.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 369.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 370.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 370.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 371.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 371.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 372.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 372.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 373.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 373.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 374.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 374.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 375.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 375.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 376.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 376.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 377.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 377.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 378.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 378.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 379.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 379.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 380.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 380.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 381.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 381.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 382.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 382.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 383.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 383.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 384.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 384.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 385.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 385.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 386.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 386.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 387.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 387.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 388.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 388.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 389.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 389.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 390.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 390.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 391.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 391.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 392.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 392.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 393.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 393.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 394.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 394.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "LIVRO IV",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livro IV passa a \"Dos regimes de voluntariado e de contrato\"; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #3",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Título I \"Do regime de voluntariado\"; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 395.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 395.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 396.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 396.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 397.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 397.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 398.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 398.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 399.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 399.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 400.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 400.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 401.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 401.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 402.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 402.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 403.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 403.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 404.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 404.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 405.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 405.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 406.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 406.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 407.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 407.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 408.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Livros III e IV substituídos; epígrafe e texto do artigo 408.º iguais ao alterador (letra a letra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 409.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 410.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 411.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 412.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 413.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 414.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 415.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 416.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 417.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 418.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 419.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO II #3",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 1.º: Título II \"Do regime de contrato\"; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 420.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 421.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 422.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 423.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 424.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 425.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 426.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 427.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 428.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 429.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 430.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 431.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 432.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 433.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 434.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 435.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 436.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 437.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 438.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 439.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/92, art. 3.º: artigos 409.º e seguintes revogados (excepto 440.º); título (renumerado) mantido e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 440.º",
+    "veredicto": "certo",
+    "motivo": "Lei 27/91, art. 6.º: artigo 440.º novo (Suspensão do artigo 166.º), texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Parte comum #4",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO III #3",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IV #3",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #4",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Parte comum #5",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO II #4",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO III #4",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IV #4",
+    "veredicto": "certo",
+    "motivo": "Epígrafe de secção do antigo Livro III/IV, eliminada com a substituição dos Livros III e IV (DL 157/92, art. 1.º); não existe no novo texto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "Lei 27/91, art. 1.º, artigo 117.º do original (cons. 116.º): '1 - Os militares dos QP servem as Forças Armadas como profissionais, ... constituem factor da afirmação e perenidade dos valores da instituição militar. 2 - ...' -- não aplicada; alvo: a frase do n.º 2 actual (numeração da instrução incoerente, mas o alvo é conhecido)",
+    "motivo": "o consolidado mantém 'forças armadas' e 'garante'"
+   }
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 27/91, art. 3.º n.º 1: aditado o posto de coronel às especialidades PIL, NAV e outras no quadro do n.º 1 do artigo 276.º (cons. 275.º)",
+    "motivo": "o quadro só existe em imagem, sem anexo com título, e o alterador não traz imagem nem texto da nova tabela; aplicado apenas o n.º 2 do art. 3.º (confirmado no alterador)"
+   },
+   {
+    "instrucao": "Lei 27/91, art. 5.º n.º 3: referências aos artigos 111.º e seguintes entendem-se feitas aos 110.º e seguintes",
+    "motivo": "não textual: regra de interpretação de remissões; os n.os 1 e 2 (eliminação do 110.º e renumeração) estão aplicados"
+   },
+   {
+    "instrucao": "DL 224-A/96, art. 3.º n.º 2 alínea p): mantém em vigor o artigo 23.º do Estatuto (isenção de custas)",
+    "motivo": "não textual: ressalva de vigência, sem nova redacção"
+   },
+   {
+    "instrucao": "Lei 25/2000, arts. 1.º a 4.º (alterações e revogação de artigos do DL 236/99 e do EMFAR de 1999, incluindo o artigo 123.º)",
+    "motivo": "outro diploma: visam o DL 236/99 e o EMFAR por ele aprovado, não o DL 34-A/90"
+   },
+   {
+    "instrucao": "Lei 25/2000, art. 5.º: repristinação do regime dos artigos 12.º a 15.º do DL 34-A/90 e de normas da Lei 15/92",
+    "motivo": "não textual: repristinação de regime de artigos do decreto preambular, que não constam do texto consolidado"
+   },
+   {
+    "instrucao": "DL 261/2009, arts. 1.º a 3.º e mapa anexo (efectivos dos QP; suspensão do n.º 3 do artigo 174.º do EMFAR; revogação do DL 202/93)",
+    "motivo": "outro diploma: o mapa é do próprio DL 261/2009 e o artigo 174.º suspenso é o do EMFAR de 1999; a suspensão não é textual"
+   },
+   {
+    "instrucao": "Declaração de rectificação n.º 2564/2010: rectifica a declaração de rectificação n.º 2346/2010",
+    "motivo": "outro diploma: rectifica um acto individual publicado na 2.ª série; o original só é citado"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

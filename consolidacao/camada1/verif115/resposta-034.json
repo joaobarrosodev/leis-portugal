@@ -1,0 +1,181 @@
+[
+ {
+  "id": "pt:dre:686232:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73 art. 1.º: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73 art. 1.º: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73 art. 1.º: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: só a alínea a) alterada; restante inalterado (\"...\").",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 49394 art. 1.º: artigo substituído, com § único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: alíneas a), b), c), f) alteradas; restantes inalteradas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: corpo e § único substituídos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 49018: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: aditada alínea d); resto inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Lei 169/99 art. 100.º n.º 2 revoga expressamente o artigo 27.º (redação de 1973 aplicada antes); fica (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: corpo substituído e § único aditado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 49018: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: corpo, alínea f), § 1.º (ex-§ único inalterado) e § 2.º conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "DL 179/73: nova redação aplicada.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47801, art. 1.º: o regime do artigo 37.º passa a ser extensivo às instalações de carácter social das Câmaras de Lisboa e Porto",
+    "motivo": "Não textual: alarga o âmbito sem dar nova redação ao artigo 37.º."
+   },
+   {
+    "instrucao": "Lei 169/99, art. 100.º n.º 2, parte final: revogação de todas as disposições legislativas contrárias",
+    "motivo": "Revogação condicional (contrárias à lei), não se aplica ao texto. A revogação expressa do artigo 27.º foi aplicada."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:687387:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243 art. 1.º: só o § 3.º alterado; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "DL 49003: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/73: nova redação aplicada (n.º 1 com alíneas a) e b), § 1.º e § 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "DL 49003: só § 1.º alterado; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "DL 387/73: § único passa a § 1.º e aditado § 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243: nova redação aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243 (corpo, alíneas, §§ 1.º a 5.º), DL 49003 (§§ 4.º e 5.º) e DL 279/73 (alínea a) e § 6.º) aplicados na ordem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243: corpo inalterado e aditado § único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243: nova redação com § único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243: nova redação com § único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 2.º n.º 3: nova redação aplicada.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

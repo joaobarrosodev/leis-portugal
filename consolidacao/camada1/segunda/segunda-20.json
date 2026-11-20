@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:176301:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 46.º: os n.os 1 a 4 foram revogados pelo Decreto-Lei n.º 191-A/79, de 25 de junho, art. 7.º («São revogados [...] os n.os 1 a 4 do artigo 46.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969»), que está nas relationships (repealed_by pt:dre:432671:por) mas não entre os alteradores. No consolidado o art. 46.º está igual ao original. Texto certo: n.os 1 a 4 «(Revogado.)»; o n.º 5 mantém-se.",
+   "Nota sem efeito no texto: a Retificação de 19/06/1970 (corrected_by pt:dre:140852:por) só retifica o mapa do pessoal civil dos Ministérios civis, que no original e no consolidado existe só em imagem; o Decreto-Lei n.º 30/70 (vazio no pedido) só mantém em vigor o art. 36.º no que não regulou (art. 25.º), sem nova redação. O art. 2.º, n.º 2, do DL 191-A/79 suspende as alíneas c) e d) do n.º 1 e o n.º 2 do art. 30.º: suspensão, não muda o texto."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:484667:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 13.º, n.os 4 e 5, e artigo 15.º, n.º 5 (aditados pelo DL 198/2000): revogados pelo Decreto-Lei n.º 153/2004, de 30 de junho, art. 7.º («São revogados os n.os 4 e 5 do artigo 13.º e o 5 do artigo 15.º do Decreto-Lei n.º 183/95 [...] aditados pelo artigo 3.º do Decreto-Lei n.º 198/2000»), nas relationships (repealed_by pt:dre:517467:por) e no acervo, mas não aplicado: o consolidado mantém o texto dos três números. Texto certo: «4 - (Revogado.)» e «5 - (Revogado.)» no art. 13.º e «5 - (Revogado.)» no art. 15.º.",
+   "Artigos 6.º, 7.º e 53.º (os ressalvados pela revogação do DL 172/2006): revogados pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, art. 96.º, alínea c) («Os artigos 6.º, 7.º e 53.º do Decreto-Lei n.º 183/95, de 27 de Julho»), nas relationships (repealed_by pt:dre:340237:por) e no acervo, sem cláusula de vigência transitória; não aplicado (art. 6.º com a redação do DL 56/97, arts. 7.º e 53.º iguais ao original). Texto certo: os três «(Revogado.)».",
+   "Nota: o «alterador 3» (DL 76/2019) traz o art. 79.º do DL 172/2006 na redação republicada; a não marcação dos restantes artigos como revogados, por causa da vigência transitória para os CAE (art. 61.º, n.º 1, e art. 70.º), é defensável e não a conto como reparo. O art. 31.º sem os n.os 6 e 7 está certo (confirmado pela republicação do DL 56/97)."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "DL 172/2006, art. 79.º, n.º 1: revogado o DL 183/95 com exceção dos arts. 6.º, 7.º e 53.º, «sem prejuízo da vigência transitória» para os efeitos do n.º 1 do art. 61.º (centros com CAE ainda em vigor, art. 70.º na redação do DL 76/2019); DL 226-A/2007, art. 96.º, alínea c): revogados os arts. 6.º, 7.º e 53.º. Fica só a aplicação transitória aos CAE."
+  }
+ }
+]

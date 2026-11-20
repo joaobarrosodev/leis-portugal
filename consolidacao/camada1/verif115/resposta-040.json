@@ -1,0 +1,137 @@
+[
+ {
+  "id": "pt:dre:152365:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 54/90 art. 5.º dá ao n.º 2 'Os impressos ... aprovados por portaria do Ministro da Justiça'; DL 318/2007 art. 11.º dá novos n.os 1 e 2, anterior n.º 2 (impressos, já na redação do DL 54/90) passa a 3 e anterior n.º 3 a 4. Consolidado conforme.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 286/2012 cita o n.º 1 do art. 3.º do DL 145/85",
+    "motivo": "Só 'ao abrigo de'; não altera o texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:157016:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DR 63/82 art. 4.º n.º 1 revoga a alínea a) do n.º 6 do art. 3.º; consolidado '(Revogada.)', resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DR 63/82 art. 4.º n.º 2 revoga o n.º 2 do art. 15.º; consolidado '2 - (Revogado.)', n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DR 63/82 art. 4.º n.º 3 revoga o art. 16.º; epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 1039/80 n.º 1.º: quadro de pessoal de informática substituído pelo quadro I anexo",
+    "motivo": "O quadro de pessoal do original só existe em imagem e o consolidado não tem anexo com título onde pôr o novo. Quadros I e II da portaria só em imagem."
+   },
+   {
+    "instrucao": "Portaria 223/82, 466/83 e 982/84 n.º 1.º: criação de lugares no quadro de pessoal do INE",
+    "motivo": "O quadro de pessoal do original só existe em imagem e o consolidado não tem anexo com título onde pôr o novo."
+   },
+   {
+    "instrucao": "DR 63/82 art. 1.º n.os 1 e 2: eliminação da carreira técnica de estatística do quadro e aditamento de lugares",
+    "motivo": "O quadro de pessoal do original só existe em imagem e o consolidado não tem anexo com título onde pôr o novo. O texto do art. 2.º não muda."
+   },
+   {
+    "instrucao": "Portarias n.º 2.º (extinção do lugar quando vagar); Portaria 1039/80 n.os 2.º a 6.º (integração, tempo de serviço, efeitos); DR 63/82 arts. 2.º e 3.º (provimento, efeitos)",
+    "motivo": "Não textuais: não dão nova redação a artigo do original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:171362:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 1.º dá nova redação aos n.os 2, 3 e 4 (n.º 1 '...' fica); consolidado conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 1.º: novos n.os 1 e 2 (texto do alterador, incluindo 'do Ministros'), anterior n.º 2 passa a 3; consolidado conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 302/86 deu redação com 5 números; DL 97/2006 dá novos n.os 1, 4, 5 e 6 e mantém n.os 2 e 3 ('...'); consolidado: n.os 2 e 3 do DL 302/86, restantes do DL 97/2006, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 3.º al. a) revoga o art. 8.º; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 3.º al. a) revoga o art. 9.º; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 277/87 n.º 1.º: o quadro de pessoal a que se refere o n.º 1 do art. 4.º do DL 459/85 é substituído pelo mapa anexo (mapa em texto no próprio alterador, não em imagem; o consolidado diz que o mapa está no corpo do Artigo 10.º, depois das assinaturas, e não o substituiu; alvo incerto, Artigo 10.º está na lista dos IGUAIS)",
+   "Portaria 49-A/92 n.º 1.º: n.º 4 (pessoal especializado) do mapa alterado para 31/1/1 funcionários (texto novo em texto, não imagem; alvo incerto: mapa sem título de anexo, não aplicado)",
+   "Portaria 282/97 n.º 1.º: n.º 4 do mapa alterado para 31/1/2 funcionários (texto novo em texto, não imagem; alvo incerto, não aplicado)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 277/87 n.º 2.º; Portarias 49-A/92 e 282/97 n.os 2.º e 3.º: mapa I do DL 133/85, quadro do pessoal especializado do MNE e quadro I da Portaria 411/87",
+    "motivo": "Instruções de outro diploma."
+   },
+   {
+    "instrucao": "Portaria 319/2004 n.º 1.º: alteração do mapa anexo à Portaria 330-A/2002 (conselheiro militar)",
+    "motivo": "Altera o mapa de outro diploma (Portaria 330-A/2002) e o texto novo só vem em imagem."
+   },
+   {
+    "instrucao": "DL 97/2006 art. 3.º al. b): revoga o DL 234-B/98",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 97/2006 art. 2.º (transitória) e art. 4.º (republicação); DL 302/86 art. 2.º (efeitos desde 5/11/1985); Portarias, disposições de efeitos",
+    "motivo": "Não textuais."
+   },
+   {
+    "instrucao": "DL 100/2019: suspensão transitória dos períodos máximos de permanência e do recrutamento (renovação de comissões)",
+    "motivo": "Suspensão transitória, não textual."
+   },
+   {
+    "instrucao": "DL 32/2022, DL 32/2024, DL 87-A/2025",
+    "motivo": "A vista não traz o texto do diploma que altera."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

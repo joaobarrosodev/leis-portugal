@@ -1,0 +1,59 @@
+[
+ {
+  "id": "pt:dre:242189:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º n.os 1 e 2 conforme DL 303/76 art. 1.º; n.os 3-5 inalterados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º n.os 1-3 e início do n.º 4 (agora n.º 3, com 'rurais de 1.ª ordem ... 3000$00' tal como no alterador) conforme DL 303/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "N.os 4-6 do art. 5.º e art. 6.º conforme DL 303/76 e DL 77/90 (redação mais recente do art. 6.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 3 revogado pelo art. 3.º do DL 303/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º n.º 1 conforme art. 1.º do DL 303/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º revogado pelo art. 37.º, al. i), da Lei 30/2006.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "errado",
+    "motivo": "Art. 5.º do Regulamento de Instalações Colectivas revogado pelo art. 5.º do DR 90/84 (revogação aplicada), mas o consolidado perdeu a epígrafe 'Chegada.'; deve manter-se a epígrafe e o corpo ficar '(Revogado.)'.",
+    "texto_esperado": "Art. 5.º Chegada. - (Revogado.)"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 90/84 art. 3.º: arts. 3.º e 4.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas passam a ter a redação dos n.os 25 e 24 do art. 3.º do Regulamento de Redes de Distribuição em BT, anexo",
+    "motivo": "O texto do alterador na vista não traz a redação (está num anexo que não consta); confirmado: o art. 3.º só remete para ele."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

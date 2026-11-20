@@ -1,0 +1,64 @@
+[
+ {
+  "id": "pt:dre:391404:por",
+  "substituicoes": [],
+  "insercoes": [
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05700/03280328.pdf)",
+    "alterador": 3
+   },
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26100/16381639.pdf)",
+    "alterador": 5
+   },
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/29200/18341835.pdf)",
+    "alterador": 7
+   },
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/03/07400/03350337.pdf)",
+    "alterador": 8
+   },
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/10/23500/13541355.pdf)",
+    "alterador": 10
+   },
+   {
+    "depois_de": 9,
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/05800/02840287.pdf)",
+    "alterador": 12
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, introduzir na lista as mercadorias da nota ao artigo 74.04.02: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem (unidade 9).\nAlterador 2, art. 3.º, as mercadorias dos artigos 84.62.04 e 84.62.05 continuam incluídas na lista: não textual — confirma a inclusão, não muda o texto.\nAlterador 4, introduzir na lista as mercadorias da nota ao artigo 38.11.02: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 6, Decreto-Lei n.º 48757: sem texto — o texto do alterador só altera a pauta de importação; não traz nenhuma instrução dirigida à lista anexa ao original.\nAlterador 7, art. 2.º, 1.º e 2.º, eliminar produtos de várias posições e emendar a numeração das subposições 73.10.03 e 73.11.06: alvo incerto — a lista só existe em imagem (unidade 9); não há texto onde eliminar ou renumerar (o 3.º, inclusão em imagem, foi aplicado).\nAlterador 9, art. 4.º, introduzir na lista o artigo 41.02.03 (wet blues): alvo incerto — a lista só existe em imagem; não se sabe onde inserir o texto.\nAlterador 11, introduzir na lista os artigos ex 48.07.07, 90.23.02 e 90.28.04: alvo incerto — a lista só existe em imagem; não se sabe onde inserir o texto.\nAlterador 13, art. 3.º, incluir na lista o produto da nota ao artigo 68.13: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 14, art. 3.º, o artigo 84.25.05 da lista passa a 84.25.06: alvo incerto — a lista só existe em imagem; não há texto onde renumerar.\nAlterador 14, art. 4.º, incluir na lista as mercadorias do artigo 84.25.03: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 15, art. 7.º, introduzir na lista os artigos 91.09.03, 91.09.04 e 91.11: sem texto — o alterador só dá os números e a lista só existe em imagem.\nAlterador 16, art. 2.º, eliminar os artigos 29.25.01, 73.24.02 e 90.10, emendar a numeração de 29.25.02 e 29.25.03, incluir produtos e alterar a redação de posições: alvo incerto — a lista só existe em imagem; não há texto onde eliminar, renumerar, inserir ou alterar.\nAlterador 17, art. 6.º, eliminar da lista os produtos do artigo 56.01.01: alvo incerto — a lista só existe em imagem; não há texto onde eliminar.\nAlterador 18, art. 9.º, n.º 1, introduzir na lista os artigos 73.01, 73.06, 73.07.01, 73.15.04 e 73.15.41: sem texto — o alterador só dá os números e a lista só existe em imagem.\nAlterador 19, art. 4.º, incluir na lista as mercadorias das notas do artigo 2.º: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 20, art. 9.º, alíneas a) a c), introduzir mercadorias e alterar o dizer dos artigos 32.09.01, 39.01.03 e 48.01.10 na lista: alvo incerto — a lista só existe em imagem; não há texto onde inserir ou alterar.\nAlterador 21, art. 3.º, introduzir na lista as mercadorias da nota da posição 85.20: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 22, art. 5.º, incluir na lista as mercadorias do diploma: sem texto — o alterador não traz a redação a incluir e a lista só existe em imagem.\nAlterador 23, art. 4.º, introduzir o artigo 59.17.11 e alterar os n.os 59.17.14 e 59.17.16 na lista: alvo incerto — a lista só existe em imagem; não há texto onde inserir ou renumerar.",
+  "instrucoes": [
+   "Alterador 1 (DL 48222): inclusão na lista das mercadorias da nota ao 74.04.02; sem texto, não aplicada.",
+   "Alterador 2 (DL 48225), art. 3.º: mantém incluídos 84.62.04 e 84.62.05; não textual.",
+   "Alterador 3 (DL 48268), art. 2.º: alterações à lista em imagem; linhas da imagem acrescentadas a seguir ao corpo da lista (inserção depois da unidade 9).",
+   "Alterador 4 (DL 48424): inclusão das mercadorias da nota ao 38.11.02; sem texto, não aplicada.",
+   "Alterador 5 (DL 48664), art. 2.º: alteração à lista em imagem; linhas da imagem acrescentadas depois da unidade 9.",
+   "Alterador 6 (DL 48757): o texto só altera a pauta; nenhuma instrução dirigida ao original (reparo confirmado).",
+   "Alterador 7 (DL 48760), art. 2.º: 1.º e 2.º (eliminar e renumerar) não aplicados (lista em imagem); 3.º inclusão em imagem acrescentada depois da unidade 9.",
+   "Alterador 8 (DL 48940), art. 2.º: inclusão de produtos em imagem; acrescentada depois da unidade 9.",
+   "Alterador 9 (DL 49133), art. 4.º: inclusão textual do 41.02.03 numa lista em imagem; não aplicada.",
+   "Alterador 10 (DL 49292), art. 3.º: alteração à lista em imagem; acrescentada depois da unidade 9.",
+   "Alterador 11 (DL 49365): inclusão textual de três artigos numa lista em imagem; não aplicada.",
+   "Alterador 12 (DL 89/70): inclusão de artigos pautais em imagem; acrescentada depois da unidade 9.",
+   "Alterador 13 (DL 326/70), art. 3.º: inclusão do produto da nota ao 68.13; sem texto, não aplicada.",
+   "Alterador 14 (DL 595/70), arts. 3.º e 4.º: renumeração 84.25.05 -> 84.25.06 e inclusão do 84.25.03; não aplicadas (lista em imagem).",
+   "Alterador 15 (DL 670/70), art. 7.º: inclusão de 91.09.03, 91.09.04 e 91.11; não aplicada (art. 6.º é de outro diploma, o DL 86/70).",
+   "Alterador 16 (DL 603/71), art. 2.º: eliminações, renumerações, inclusões e redações na lista; não aplicadas (lista em imagem). Arts. 3.º a 6.º são de outros diplomas.",
+   "Alterador 17 (DL 626/71), art. 6.º: eliminação do 56.01.01 da lista; não aplicada.",
+   "Alterador 18 (DL 600/72), art. 9.º, n.º 1: inclusão de artigos pautais; não aplicada. As imagens das listas I e II são do próprio alterador.",
+   "Alterador 19 (DL 260/73), art. 4.º: inclusão das mercadorias das notas; sem texto, não aplicada.",
+   "Alterador 20 (DL 304/73), art. 9.º: inclusões e alterações de redação na lista; não aplicadas. Arts. 10.º e 11.º são de outros diplomas.",
+   "Alterador 21 (DL 287/74), art. 3.º: inclusão das mercadorias da nota 85.20; sem texto, não aplicada.",
+   "Alterador 22 (DL 401/74), art. 5.º: inclusão das mercadorias do diploma; sem texto, não aplicada.",
+   "Alterador 23 (DL 555/75), art. 4.º: inclusão do 59.17.11 e renumerações na lista; não aplicadas."
+  ]
+ }
+]

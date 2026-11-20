@@ -1,0 +1,25 @@
+[
+  {
+    "id": "pt:dre:477288:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação não aplicada: a Declaração de Retificação n.º 11/96 (pt:dre:428662:por, DR I-A n.º 149, de 29/6/1996), registada em relationships como corrected_by, não está entre os diplomas que alteram e o consolidado mantém o texto errado nos artigos que retifica (dados como iguais ao original).",
+      "Art. 34.º, n.º 2 (redação do n.º 4 do art. 15.º do CIVA): onde se lê «percentagens referidas no n.º 2 do artigo 3.º-A do Decreto-Lei n.º 43/86, de 16 de Junho» deve ler-se «… do Decreto-Lei n.º 143/86, de 16 de Junho».",
+      "Art. 41.º, n.º 1 (redação do art. 3.º do Decreto-Lei n.º 123/94, «Incidência»): a seguir a «b) ...» falta a linha «c) ...», que a retificação acrescenta.",
+      "Art. 45.º, n.º 1 (redação do art. 32.º do Código da Contribuição Autárquica): a epígrafe «Reclamação das matrizes» deve ser «Reclamações das matrizes», e no n.º 1 «das inscrições matriciais na repartição de finanças» deve ser «das inscrições matriciais, na repartição de finanças».",
+      "Art. 33.º, n.º 2 (n.º 1 do art. 101 da Tabela Geral do Imposto do Selo): o ponto 1) da retificação também o corrige, mas o «onde se lê» e o «deve ler-se» são iguais no texto (a tabela das letras está em imagem no original); não há correção textual que se possa aplicar.",
+      "O resto está certo: as alterações da Lei n.º 52-A/96 aos arts. 59.º (n.º 5, al. b) substituída e al. e) e f) aditadas), 60.º (al. c) e d) aditadas), 62.º (al. i)) e 68.º (n.º 1) estão bem aplicadas; os mapas (Declaração n.º 6/96 e art. 1.º da Lei n.º 52-A/96) só existem em imagem; os outros alteradores mexem em códigos alterados por esta lei, não no texto dela. A revogação do art. 14.º-A do CPT pelo DL 398/98 (repealed_by) cai sobre o CPT, não sobre esta lei. «Ri-cardo» no art. 60.º, al. d), vem do texto do alterador (hifenização do DR)."
+    ],
+    "vigencia": {"conclusao": "caducado", "prova": "Lei do Orçamento do Estado para 1996: as autorizações orçamentais são anuais (por exemplo, os arts. 59.º a 68.º só valem para o ano económico de 1996). As alterações que fez a códigos vivem nesses códigos."}
+  },
+  {
+    "id": "pt:dre:152365:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Revogação não aplicada: o art. 4.º foi revogado pelo Decreto-Lei n.º 42/89, de 3 de fevereiro, art. 88.º, al. f) («O artigo 4.º do Decreto-Lei n.º 145/85, de 8 de Maio»), que está em relationships como repealed_by (pt:dre:610474:por). No consolidado o art. 4.º continua igual ao original; devia aparecer como revogado.",
+      "Revogação não aplicada: o art. 2.º foi revogado pelo Decreto-Lei n.º 40/94, de 11 de fevereiro, art. 31.º («… e o artigo 2.º do Decreto-Lei n.º 145/85, de 8 de Maio»), que está em relationships como repealed_by (pt:dre:524225:por). No consolidado o art. 2.º continua igual ao original; devia aparecer como revogado.",
+      "O art. 3.º está certo: o n.º 2 tem a redação do art. 5.º do DL 54/90; os n.os 1 e 2 têm a do art. 11.º do DL 318/2007, e os n.os 3 e 4 são os antigos n.os 2 e 3. A Portaria n.º 286/2012 só cita o n.º 1 do art. 3.º como habilitação e não muda o texto."
+    ],
+    "vigencia": null
+  }
+]

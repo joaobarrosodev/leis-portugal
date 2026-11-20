@@ -69,18 +69,28 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 46243 art. 1.º: novo § 3.º do art. 17.º e novas redacções dos arts. 101.º, 111.º, 115.º, 117.º; no art. 112.º mantém-se o corpo ('...') e acrescenta-se o § único — aplicadas. Art. 2.º é norma autónoma — ignorado.",
-    "DL 49003: nova redacção do art. 68.º, do § 1.º do art. 70.º e dos §§ 4.º e 5.º do art. 111.º — aplicadas.",
-    "DL 49306 art. 2.º n.º 3: nova redacção do art. 122.º — aplicada; restantes artigos alteram os DL 44698, 44699, 44700 e 44701 — ignorados.",
-    "DL 23/73: nova redacção do art. 69.º (o § único passa a §§ 1.º e 2.º) — aplicada.",
-    "DL 279/73: nova alínea a) e novo § 6.º do art. 111.º — aplicados sobre a redacção do DL 46243/49003.",
-    "DL 387/73: § único do art. 98.º passa a § 1.º e adita-se § 2.º — aplicado."
+    "Alterador 1, art. 1.º: nova redação do § 3.º do art. 17.º; aplicada.",
+    "Alterador 1, art. 1.º: nova redação do art. 101.º; aplicada.",
+    "Alterador 1, art. 1.º: nova redação do art. 111.º (corpo, alíneas a) e b), §§ 1.º a 5.º); aplicada.",
+    "Alterador 1, art. 1.º: art. 112.º, corpo mantido ('...') e aditado § único; aplicada.",
+    "Alterador 1, art. 1.º: nova redação dos arts. 115.º e 117.º (corpo e § único); aplicada.",
+    "Alterador 1, art. 2.º: autorização ao Ministro do Ultramar para conceder isenções; não altera o texto do original.",
+    "Alterador 2: nova redação do art. 68.º, do § 1.º do art. 70.º e dos §§ 4.º e 5.º do art. 111.º; aplicada.",
+    "Alterador 3, art. 2.º, n.º 3: nova redação do art. 122.º; aplicada. As restantes instruções do alterador 3 são dirigidas aos Decretos-Leis n.os 44698, 44699, 44700 e 44701 e foram ignoradas.",
+    "Alterador 4: nova redação do art. 69.º; aplicada.",
+    "Alterador 5: nova redação da alínea a) do art. 111.º e aditado o § 6.º; aplicada sobre a redação dos alteradores 1 e 2.",
+    "Alterador 6: o § único do art. 98.º passa a § 1.º (texto mantido letra a letra, só muda a designação, como manda a instrução) e é aditado o § 2.º; aplicada. O reparo anterior sobre o '§ 1.º' do art. 98.º não procede: a renumeração vem da própria instrução."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [
     "98.º: parágrafo que não está no alterador nem no original: § 1.º Os montepios e mutualidades, na parte em que funcionem como instituições d"
-  ]
+  ],
+  "avisos": []
 }

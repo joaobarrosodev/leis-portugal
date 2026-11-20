@@ -35,15 +35,20 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Mapa de pessoal: a Portaria n.º 277/87 (2) substitui o mapa de pessoal pelo mapa anexo e as Portarias n.os 49-A/92 (3) e 282/97 (4) alteram o seu n.º 4, mas no texto atual o mapa não vem como anexo com título e «Corpo do anexo» (está colado ao fim do art. 10.º, depois das assinaturas), pelo que não há onde aplicar estas substituições sem pôr o corpo de um anexo em «artigos». A Portaria n.º 319/2004 (2.ª série) (5) altera o mapa anexo à Portaria n.º 330-A/2002, que não consta do texto e só vem em imagem. O DL 97/2006, art. 2.º, e o DL 100/2019 são regimes transitórios/suspensões sem alteração textual; os alteradores 8 a 10 não trazem texto.",
+  "nao_aplicavel": "Alterador 2, n.º 1.º, substituição do mapa de pessoal anexo pelo mapa anexo à Portaria n.º 277/87: alvo incerto: o mapa vem no texto atual dentro do corpo do artigo 10.º, depois das assinaturas, sem título de anexo («#### Título de divisão») nem «Corpo do anexo» onde pôr o texto novo\nAlterador 2, n.º 2.º, mapa I do Decreto-Lei n.º 133/85: outro diploma\nAlterador 3, n.º 1.º, alteração do n.º 4 do mapa anexo à Portaria n.º 277/87: alvo incerto: o mapa não tem título de anexo no texto atual (e o mapa alterado é o da Portaria n.º 277/87)\nAlterador 3, n.os 2.º e 3.º, quadros do Decreto-Lei n.º 133/85 e da Portaria n.º 411/87: outro diploma\nAlterador 4, n.º 1.º, alteração do n.º 4 do mapa anexo à Portaria n.º 277/87: alvo incerto: o mapa não tem título de anexo no texto atual (e o mapa alterado é o da Portaria n.º 277/87)\nAlterador 4, n.os 2.º e 3.º, quadros do Decreto-Lei n.º 133/85 e da Portaria n.º 411/87: outro diploma\nAlterador 5, n.º 1.º, alteração do mapa anexo à Portaria n.º 330-A/2002: outro diploma (o mapa é o da Portaria n.º 330-A/2002 e o novo só vem em imagem, sem título de anexo no texto atual)\nAlterador 6, artigo 3.º, alínea b), revogação do Decreto-Lei n.º 234-B/98: outro diploma\nAlterador 7, suspensão transitória dos períodos máximos de permanência e do procedimento de recrutamento: não textual\nAlterador 8, Decreto-Lei n.º 32/2022: sem texto\nAlterador 9, Decreto-Lei n.º 32/2024: sem texto\nAlterador 10, Decreto-Lei n.º 87-A/2025: sem texto",
   "instrucoes": [
-    "Reparo ao artigo 6.º rejeitado: o DL 302/86 é o alterador 1 da lista e dá nova redação a todo o art. 6.º (n.os 1 a 5): o n.º 2 passa a «propostos pelos respectivos presidentes dos governos», o antigo n.º 3 (4 anos) sai e o regime supletivo passa a n.º 3. Copiou-se o n.º 2 letra a letra do DL 302/86 («governos das regiões autónomas», em minúsculas); a maiúscula vem só da republicação do DL 97/2006.",
-    "DL 97/2006 (6): art. 6.º n.os 1, 4, 5 e 6 novos, n.os 2 e 3 «...» (redação do DL 302/86).",
-    "DL 97/2006 (6): art. 3.º n.os 2 a 4 novos; art. 4.º n.os 1 e 2 novos e n.º 3 = anterior n.º 2 (copiado «portaria conjunta do Ministros» letra a letra); arts. 8.º e 9.º revogados (art. 3.º, a)).",
-    "Portarias 277/87, 49-A/92, 282/97 e 319/2004 (mapa de pessoal), DL 97/2006 art. 2.º e DL 100/2019: ver nao_aplicavel."
+    "Alterador 1 (DL 302/86), art. 1.º: nova redação do artigo 6.º (n.os 1 a 5); aplicada e depois sobreposta pelo alterador 6 nos n.os 1, 4 e 5 (e aditado o 6); os n.os 2 e 3 («...» no alterador 6) ficam com a redação do DL 302/86, copiada letra a letra dele (minúsculas em «governos das regiões autónomas», como no DL 302/86; o reparo engana-se ao dizer que este diploma não está na lista: é o alterador 1).",
+    "Alterador 2 (Portaria 277/87): substituição do mapa de pessoal: não aplicada (sem título de anexo); n.º 2.º é de outro diploma.",
+    "Alteradores 3 e 4: alteração do n.º 4 do mapa da Portaria 277/87: não aplicada; restantes números de outro diploma.",
+    "Alterador 5: mapa da Portaria 330-A/2002, só em imagem: não aplicado.",
+    "Alterador 6 (DL 97/2006), art. 1.º: novas redações dos artigos 3.º (n.º 1 mantido), 4.º (n.º 3 = anterior n.º 2) e 6.º; art. 3.º a): revogados os artigos 8.º e 9.º; art. 3.º b): outro diploma; art. 4.º: republicação (conferida).",
+    "Alterador 7 (DL 100/2019): suspensão transitória, não textual.",
+    "Alteradores 8 a 10: sem texto no pedido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

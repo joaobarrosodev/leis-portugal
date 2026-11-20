@@ -334,5 +334,33 @@
     "unidade": [],
     "diploma": "pt:dre:643283:por",
     "alterador": "pt:dre:491436:por;pt:dre:584865:por;pt:dre:339393:por"
+  },
+  {
+    "artigo": "ANEXO I — MAPA A",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — MAPA A\nMapa a que se refere o n.º 1 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)\n\nMAPA B\n\nMapa a que se refere o n.º 1 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)\n\nMAPA C\n\nMapa a que se refere o n.º 1 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)",
+    "depois": "## ANEXO I — MAPA A\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643283:por",
+    "alterador": "pt:dre:491436:por;pt:dre:584865:por;pt:dre:339393:por"
+  },
+  {
+    "artigo": "ANEXO II — MAPA A",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — MAPA A\nMapa a que se refere o n.º 4 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)\n\nMAPA B\n\nMapa a que se refere o n.º 4 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)\n\nMAPA C\n\nMapa a que se refere o n.º 4 do artigo 11.º\n\n[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)",
+    "depois": "## ANEXO II — MAPA A\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643283:por",
+    "alterador": "pt:dre:491436:por;pt:dre:584865:por;pt:dre:339393:por"
   }
 ]

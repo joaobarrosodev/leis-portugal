@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Fundo de Equilíbrio Financeiro\n\n1 - O montante global do Fundo de Equilíbrio Financeiro é fixado em 194,4 milhões de contos para o ano de 1994.\n\n2 - As transferências financeiras a que se refere o número anterior são repartidas entre correntes e de capital, na proporção de 58,9% e 41,1%, respectivamente.\n\n3 - No ano de 1994 todos os municípios manterão o valor nominal do Fundo de Equilíbrio Financeiro recebido no ano anterior.\n\n4 - O montante global a atribuir a cada município no ano de 1994 é o que consta do mapa X em anexo.\n\n5 - No ano de 1994 e para efeitos do disposto no n.º 1 do artigo 3.º da Lei n.º 1/87, de 6 de Janeiro, o financiamento de novas competências a cometer eventualmente aos municípios será assegurado através das dotações inscritas nos orçamentos dos diversos departamentos ministeriais ou equiparados que se achavam afectas aos domínios que passam para a responsabilidade dos municípios.",
+    "depois": "###### Artigo 9.º — Fundo de Equilíbrio Financeiro\n\n1 - O montante global do Fundo de Equilíbrio Financeiro é fixado em 199,5 milhões de contos para o ano de 1994.\n\n2 - As transferências financeiras a que se refere o número anterior são repartidas entre correntes e de capital, na proporção de 58,9% e 41,1%, respectivamente.\n\n3 - O montante global a atribuir a cada município no ano de 1994 é o que consta do mapa X em anexo.\n\n4 - No ano de 1994 e para efeitos do disposto no n.º 1 do artigo 3.º da Lei n.º 1/87, de 6 de Janeiro, o financiamento de novas competências a cometer eventualmente aos municípios será assegurado através das dotações inscritas nos orçamentos dos diversos departamentos ministeriais ou equiparados que se achavam afectas aos domínios que passam para a responsabilidade dos municípios.\n\n> Alterado pelo/a [Lei n.º 40/94](https://diariodarepublica.pt/dr/detalhe/lei/40-1994-572957), publicado em 1994-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311209:por",
+    "alterador": "pt:dre:572957:por"
+  }
+]

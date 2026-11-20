@@ -1,0 +1,355 @@
+[
+ {
+  "id": "pt:dre:632738:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "n.º 5 a) revogada (DL 530/79 art. 51.º a)); n.º 6 aditado (DL 331/72 art. 2.º), texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "n.os 2 (e), 3 e 4 com a redacção do DL 331/72 art. 1.º; alínea b) mantida (extinção dos Serviços de Inspecção não é textual).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "n.º 7 aditado pelo DL 331/72 art. 2.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e corpo substituídos pelo DL 331/72 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e corpo substituídos pelo DL 331/72 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 revogado (DL 530/79 art. 51.º a)); restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Artigo revogado pelo DL 530/79 art. 51.º a); epígrafe mantida e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogadas as alíneas a) e b) dos n.os 1 e 2 (DL 530/79 art. 51.º a)); restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Artigo revogado pelo DL 530/79 art. 51.º a) (inclui o n.º 10 aditado em 1972).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 com a redacção do DL 331/72 art. 1.º; restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Alínea l) do n.º 1 aditada e n.º 3 alterado pelo DL 331/72, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Artigo revogado pelo DL 530/79 art. 51.º a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 5 revogados pelo DL 530/79 art. 51.º a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 1 com a redacção do DL 331/72.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e corpo com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 com a redacção do Decreto Regulamentar 7/78 art. 2.º, que substitui a do DL 331/72.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "n.º 6 aditado pelo DL 331/72 art. 2.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "n.os 4 e 7 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 alterados e n.º 4 aditado pelo DL 331/72, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º (alterações dos DL 515/74 e 91/84 ficam sem efeito).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 215/97 art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 com a redacção do DL 331/72 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas c), f), i), k), n) e o) do n.º 1 com a redacção do DL 331/72 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 18/78: acrescentar anotação ao quadro X (limite global dos lugares de auxiliar de enfermagem de saúde pública e enfermeiro de 3.ª e 2.ª classes de saúde pública) - alvo incerto: o quadro X não tem título de anexo no consolidado e a anotação é texto, não imagem"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 160/72 art. 1.º: acrescento de categorias ao quadro tipo anexo ao Estatuto Hospitalar",
+    "motivo": "outro diploma: o quadro tipo é anexo ao DL 48357; o art. 71.º do DL 413/71 só é referido, não alterado"
+   },
+   {
+    "instrucao": "DL 331/72 art. 3.º: gratificações das alíneas g) e h) do quadro II consideram-se atribuídas desde a colocação",
+    "motivo": "regra de efeitos, não textual, sem texto a substituir"
+   },
+   {
+    "instrucao": "DL 331/72 art. 4.º: artigos 7.º e 29.º do DL 414/71",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 331/72 art. 5.º n.º 1: alteração dos quadros II, VI, VIII, IX e X (e mapas I e II do DL 414/71)",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado; mapas são de outro diploma"
+   },
+   {
+    "instrucao": "DL 82/73 art. 15.º n.º 3: alteração do quadro VI por inerência do inspector superior de Medicina Desportiva",
+    "motivo": "quadro só em imagem, sem texto novo nem anexo com título"
+   },
+   {
+    "instrucao": "DL 333/73: modificação do quadro VI",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 515/74 art. 1.º: delegação nos directores-gerais dos poderes dos arts. 81.º e 82.º",
+    "motivo": "delegação de poderes, não textual"
+   },
+   {
+    "instrucao": "DL 590/74: prorrogação do período de instalação (art. 79.º n.º 2)",
+    "motivo": "prorrogação, não textual"
+   },
+   {
+    "instrucao": "DL 73/75 art. 1.º: alteração do quadro VIII",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 403/75 art. 7.º n.º 1: extinção dos Serviços de Inspecção a que se refere o art. 14.º",
+    "motivo": "extinção de serviço sem nova redação nem revogação expressa do texto (arts. 12.º n.º 2 b) e 14.º ficam intactos); critério discutível"
+   },
+   {
+    "instrucao": "DL 403/75 art. 7.º n.º 2: extinção de lugares no quadro II-B",
+    "motivo": "quadro só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 278/76 art. 2.º n.º 1: aplicação à Escola Nacional de Saúde Pública dos arts. 79.º a 85.º",
+    "motivo": "remissão, sem alterar o texto"
+   },
+   {
+    "instrucao": "Portaria 299/76 n.º 1.º: entrada em vigor da tabela B do quadro X",
+    "motivo": "não textual (entrada em vigor)"
+   },
+   {
+    "instrucao": "Decreto 510/76 art. 1.º: alteração do quadro VIII (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 3/77 n.os 1 e 2: alteração dos quadros VI e X",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DecReg 18/77 arts. 1.º a 3.º: arts. 38.º e 39.º e mapa II do DL 414/71",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DecReg 18/77 art. 4.º: abate e acréscimo de lugares no quadro X (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 224/77: novo quadro VIII (tabela B, enfermagem)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DecReg 39/77 art. 1.º: alteração do quadro II (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DecReg 7/78 art. 1.º: alteração do quadro X (e mapa I do DL 414/71)",
+    "motivo": "quadro só em imagem; mapa é de outro diploma"
+   },
+   {
+    "instrucao": "DecReg 7/78 art. 3.º: arts. 7.º e 8.º n.º 2 do DL 414/71",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Decreto 89/78 art. 1.º: alteração do quadro VIII (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 424/79 n.º 1.º: letra do chefe de secretaria do quadro III",
+    "motivo": "texto só em imagem/quadro, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 530/79 art. 39.º: extinção da Direcção-Geral de Saúde e transferência de pessoal",
+    "motivo": "extinção de serviço, não textual; os efeitos textuais expressos (art. 51.º) foram aplicados"
+   },
+   {
+    "instrucao": "Portaria 714/79: aumento dos quadros da Secretaria-Geral e da DG da Assistência Social",
+    "motivo": "mapas só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 26-D/80 n.º 1: alteração do quadro II (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 224/80 n.º 1.º: lugares acrescentados e abatidos ao quadro X",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 242/80 n.º 1: criação de lugares no quadro IX (tabela B)",
+    "motivo": "texto novo só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 301/80 n.º 1.º: substituição do quadro (tabela A) do Gabinete de Estudos e Planeamento",
+    "motivo": "quadro novo só em imagem; o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 534/81 n.os 1.º e 2.º: substituição dos quadros IV e V pelos anexos I e II",
+    "motivo": "a portaria não traz o texto dos anexos"
+   },
+   {
+    "instrucao": "Portaria 534/81 n.os 3.º e 4.º: equiparações de cargos",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "Portaria 380/82 n.º 1.º: aumento do quadro da Direcção-Geral de Saúde",
+    "motivo": "mapa só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 621/82 n.º 1.º: criação de um lugar de assessor no quadro do GEP",
+    "motivo": "quadro só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 247/84: alteração dos quadros do Instituto Nacional de Saúde (anexos I e II)",
+    "motivo": "anexos só em imagem; o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DL 210/89 art. 1.º n.º 2: referências ao Instituto no ensino de enfermagem passam a referir o Departamento de Recursos Humanos",
+    "motivo": "mudança de designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 210/89 art. 3.º: mapas I e II (quadros do Departamento e do Instituto)",
+    "motivo": "mapas só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 210/89 art. 4.º: revogação do DL 496/74",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -22,7 +22,19 @@
     {
       "chave": "9.º",
       "epigrafe": "(Estrutura geral do INPP)",
-      "texto": "1 - São órgãos do INPP:\n\na) O conselho directivo;\n\nb) O conselho geral.\n\n2 - São serviços do INPP:\n\na) Os serviços administrativos;\n\nb) Os serviços técnicos de apoio.\n\n3 - Os departamentos de pilotagem compreendem os serviços de pilotagem e os auxiliares do serviço de pilotagem.",
+      "texto": "1 - O INPP compreenderá:\n\na) O conselho directivo;\n\nb) Serviços;\n\nc) Departamentos de pilotagem.\n\n2 - São serviços do INPP:\n\na) Os serviços administrativos;\n\nb) Os serviços técnicos de apoio.\n\n3 - Os departamentos de pilotagem compreendem os serviços de pilotagem e os auxiliares do serviço de pilotagem.",
+      "alterador": 18
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Conceito)",
+      "texto": "O conselho directivo é o órgão de gestão do INPP, com as competências definidas no artigo 12.º",
+      "alterador": 18
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Constituição)",
+      "texto": "1 - O conselho directivo é nomeado pelo Ministro do Equipamento, do Planeamento e da Administração do Território, sendo constituído por um presidente, equiparado a director-geral, e dois vogais, equiparados a subdirectores-gerais.\n\n2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal por si designado.\n\n3 - Os membros do conselho directivo têm direito à remuneração a fixar por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do membro do Governo que tem a seu cargo a Administração Pública.",
       "alterador": 18
     },
     {
@@ -32,8 +44,44 @@
       "alterador": 18
     },
     {
+      "chave": "13.º",
+      "epigrafe": "Competência do presidente",
+      "texto": "Compete especialmente ao presidente do INPP:\n\na) Convocar e presidir ao conselho directivo;\n\nb) Assegurar as relações do INPP com o Governo e com os organismos da Administração Pública;\n\nc) Convocar reuniões conjuntas do conselho directivo com as comissões administrativas dos departamentos sempre que o julgar conveniente;\n\nd) Representar o INPP em juízo e fora dele.",
+      "alterador": 18
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "1 - O conselho directivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que o presidente o julgue conveniente ou quando for requerido pelos dois vogais.\n\n2 - O conselho directivo só pode deliberar quando estiver presente a maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria absoluta, gozando o presidente ou quem o substituir de voto de qualidade.\n\n4 - As deliberações do conselho directivo são registadas em acta e assinadas pelos membros presentes na reunião.",
+      "alterador": 18
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
       "chave": "17.º",
       "epigrafe": "(Competência)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Participação)",
       "texto": "(Revogado.)",
       "alterador": 18
     },
@@ -80,6 +128,12 @@
       "alterador": 2
     },
     {
+      "chave": "51.º-A",
+      "epigrafe": "Limite de idade",
+      "texto": "O limite de idade para o exercício de funções pelo pessoal do INPP é o aprovado pelo [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, com excepção do dos pilotos e do pessoal auxiliar de pilotagem, que é fixado em 65 anos.",
+      "alterador": 9
+    },
+    {
       "chave": "54.º",
       "epigrafe": "(Pessoal requisitado a outros serviços)",
       "texto": "1 - Quando se mostre indispensável, o Secretário de Estado da Marinha Mercante poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no INPP, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do INPP, e com o acordo do Ministro requisitando, se for esse o caso.\n\n2 - O pessoal requisitado ao abrigo do número anterior não abre vaga no serviço de origem, mas o respectivo lugar pode ser preenchido interinamente.\n\n3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos a promoção.",
@@ -87,7 +141,7 @@
     },
     {
       "chave": "57.º",
-      "epigrafe": "(Quadros de pessoal)",
+      "epigrafe": "Quadros de pessoal",
       "texto": "Os quadros de pessoal do departamento central e dos departamentos de pilotagem do INPP são fixados por portaria conjunta dos Ministros das Finanças e do Mar, sob proposta do respectivo conselho de gestão.",
       "alterador": 13
     },
@@ -96,6 +150,18 @@
       "epigrafe": "(Quadro de pessoal)",
       "texto": "1 - O departamento de pilotagem de Sines é constituído pelo seguinte pessoal:\n\n4 pilotos.\n\n2 - A composição e lotação do quadro do departamento de pilotagem de Sines serão completadas de acordo com o desenvolvimento e as necessidades do porto por portaria do Secretário de Estado da Marinha Mercante, sobre proposta do conselho de gestão.\n\nPortimão",
       "alterador": 4
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "O departamento de pilotagem de Vila Real de Santo António terá o seguinte quadro de pessoal:\n\n1 piloto.\n\n1 mestre.\n\n1 motorista.\n\n1 marinheiro.\n\nFunchal",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º-A",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "O Departamento de Pilotagem do Funchal terá o seguinte quadro de pessoal:\n\n3 pilotos.\n\n2 mestres.\n\n2 motoristas.\n\n1 contínuo.",
+      "alterador": 3
     },
     {
       "chave": "71.º",
@@ -512,18 +578,6 @@
       "alterador": 2
     },
     {
-      "chave": "51.º-A",
-      "epigrafe": "(Limite de idade)",
-      "texto": "O limite de idade para o exercício de funções pelo pessoal do INPP é o aprovado pelo [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, com excepção do dos pilotos e do pessoal auxiliar de pilotagem, que é fixado em 65 anos.",
-      "alterador": 9
-    },
-    {
-      "chave": "67.º-A",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "O Departamento de Pilotagem do Funchal terá o seguinte quadro de pessoal:\n\n3 pilotos.\n\n2 mestres.\n\n2 motoristas.\n\n1 contínuo.",
-      "alterador": 3
-    },
-    {
       "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A",
       "epigrafe": "",
       "texto": "1 - A pilotagem é obrigatória para todas as embarcações nacionais e estrangeiras na navegação e ou manobras efectuadas:\n\na) No porto do Funchal - na área não superior a três milhas do extremo leste do molhe-cais;\n\nb) Na praia Formosa - na área não superior a três milhas do quadro da amarração.\n\n2 - Quando requisitados os serviços de pilotagem, podem ainda ser prestados em qualquer outra área do arquipélago da Madeira.\n\n3 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.\n\n4 - Para efeitos do artigo 7.º deste Regulamento consideram-se os seguintes limites exteriores:\n\na) No porto do Funchal, a distância de uma milha do extremo leste do cais-molhe;\n\nb) Na praia Formosa, a distância de uma milha do quadro de amarração.\n\n5 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas nas seguintes áreas:\n\na) Porto do Funchal - na área para oeste do meridiano 16 53.9 W. e para norte do paralelo 32 38.0 N.;\n\nb) Praia Formosa - na área limitada a norte pela linha da costa, a sul pela linha que une os pontos 32 38.0 N. e 16 58 W. e 32 37.5 N. e 16 57.4 W., a leste pela linha correspondente ao Zv = 045º à chaminé do lado poente da fábrica Walle (32 38.0 N., 16 56.8 W.) e a oeste pela linha correspondente ao Zv = 054º à torre da igreja de S. Martinho (32 38.9 N. e 16 56.6 W.).\n\nII - Requisições",
@@ -558,58 +612,15 @@
       "epigrafe": "",
       "texto": "As taxas de aluguer de material a cobrar são as que constam da tabela D, anexa a este Regulamento.",
       "alterador": 3
-    },
-    {
-      "chave": "10.º",
-      "epigrafe": "(Conceito)",
-      "texto": "O conselho directivo é o órgão de gestão do INPP, com as competências definidas no artigo 12.º",
-      "alterador": 18
-    },
-    {
-      "chave": "11.º",
-      "epigrafe": "(Constituição)",
-      "texto": "1 - O conselho directivo é nomeado pelo Ministro do Equipamento, do Planeamento e da Administração do Território, sendo constituído por um presidente, equiparado a director-geral, e dois vogais, equiparados a subdirectores-gerais.\n\n2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal por si designado.\n\n3 - Os membros do conselho directivo têm direito à remuneração a fixar por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do membro do Governo que tem a seu cargo a Administração Pública.",
-      "alterador": 18
-    },
-    {
-      "chave": "13.º",
-      "epigrafe": "(Competência do presidente)",
-      "texto": "Compete especialmente ao presidente do INPP:\n\na) Convocar e presidir ao conselho directivo;\n\nb) Assegurar as relações do INPP com o Governo e com os organismos da Administração Pública;\n\nc) Convocar reuniões conjuntas do conselho directivo com as comissões administrativas dos departamentos sempre que o julgar conveniente;\n\nd) Representar o INPP em juízo e fora dele.",
-      "alterador": 18
-    },
-    {
-      "chave": "14.º",
-      "epigrafe": "(Funcionamento)",
-      "texto": "1 - O conselho directivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que o presidente o julgue conveniente ou quando for requerido pelos dois vogais.\n\n2 - O conselho directivo só pode deliberar quando estiver presente a maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria absoluta, gozando o presidente ou quem o substituir de voto de qualidade.\n\n4 - As deliberações do conselho directivo são registadas em acta e assinadas pelos membros presentes na reunião.",
-      "alterador": 18
-    },
-    {
-      "chave": "15.º",
-      "epigrafe": "(Conceito)",
-      "texto": "(Revogado.)",
-      "alterador": 18
-    },
-    {
-      "chave": "16.º",
-      "epigrafe": "(Constituição)",
-      "texto": "(Revogado.)",
-      "alterador": 18
-    },
-    {
-      "chave": "18.º",
-      "epigrafe": "(Funcionamento)",
-      "texto": "(Revogado.)",
-      "alterador": 18
-    },
-    {
-      "chave": "19.º",
-      "epigrafe": "(Participação)",
-      "texto": "(Revogado.)",
-      "alterador": 18
     }
   ],
   "removidos": [],
   "titulos": [
+    {
+      "atual": "#### SECÇÃO I — Conselho de gestão",
+      "novo": "#### SECÇÃO I — Conselho directivo",
+      "alterador": 18
+    },
     {
       "atual": "##### DIVISÃO VI — Lisboa",
       "novo": "##### DIVISÃO V — Lisboa",
@@ -639,81 +650,50 @@
       "atual": "##### DIVISÃO XI — Vila Real de Santo António",
       "novo": "##### DIVISÃO X — Vila Real de Santo António",
       "alterador": 2
-    },
-    {
-      "atual": "#### SECÇÃO I — Conselho de gestão",
-      "novo": "#### SECÇÃO I — Conselho directivo",
-      "alterador": 18
     }
   ],
-  "nao_aplicavel": "Não textuais ou sem alvo no texto: alteradores 1, 7 e 8 (coeficientes das taxas e valores da tabela D, que só existe como título/imagem), 12 e 15 (percentagem do Fundo de Aposentações), 14 (actualização de remunerações); alterador 2: nota B da tabela C (anexo II só com título) e figura do anexo IV (imagem); alterador 3, n.º 1 (classificação do Departamento do Funchal na 2.ª categoria) e títulos novos 'Funchal' e 'DIVISÃO XI — Funchal', que não existem no texto atual (não inventados como títulos). Alterador 13, art. 2.º, n.º 1: a revogação dos artigos 58.º a 67.º não foi aplicada, porque o n.º 3 adia o seu efeito para a entrada em vigor da portaria de fixação dos quadros de pessoal (facto futuro); esses artigos ficam com o texto atual, salvo o 64.º, que leva as alterações dos alteradores 2 e 4/5 (n.º 1 com 4 pilotos). | Alterador 20 (DL 331/98, art. 12.º, n.º 1, a)): revoga o DL 361/78 com excepção do art. 35.º n.º 1 d), 2, 3 e 4 e dos arts. 58.º, 59.º e 72.º, mas 'sem prejuízo' das disposições transitórias e dos diplomas que venham a reestruturar as juntas autónomas e administrações portuárias (o art. 2.º, n.º 3, mantém as atribuições do INPP até lá): efeito adiado para data incerta e excepções ambíguas (58.º/59.º do diploma ou do anexo I), não aplicada. Alterador 19 (DL 234-A/98): suspende a aplicabilidade do art. 5.º aos portos do continente; não é alteração textual. Alterador 18, art. 9.º: a nova redação ('1 - ... a) O conselho directivo; b) ... c) ...', seguida de n.os 2 e 3 sobre serviços e departamentos) foi escrita sobre uma estrutura de 3 números; apliquei o '1 - ...' à lista de órgãos (antigo n.º 2), o que faz desaparecer o atual n.º 1 ('O INPP compreenderá') e o n.º 5 (grupos de trabalho); a correspondência é incerta. | Alterador 21 (DL 229/2005), artigo 2.º, proémio: a revogação genérica de \"todas as normas que estabelecem acréscimos de tempo de serviço\" não nomeia outras disposições do original; o artigo 59.º do Anexo I (Estatuto do pessoal), que prevê acréscimos idênticos, não é indicado expressamente e não foi revogado. Artigo 3.º, n.º 3 (revogação das disposições que contrariem) é condicional e não se aplica ao texto. Artigo 6.º, n.º 2 (salvaguarda dos acréscimos até 31-12-2005) não altera o texto.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO II — TABELA C",
+      "texto": "1.º Permanência do piloto a bordo, fora da barra quando requisitado para pilotar embarcações que não possam entrar por qualquer motivo e, dentro do porto, quando requisitado pelas próprias ou mandado pela capitania por motivo de mau tempo, quando exceder uma hora, por cada hora ou fracção ... 3$15\n\n2.º Os serviços de entrada, saída ou mudança que excedam duas horas, contadas a partir do seu início, por cada hora ou fracção ... 3$15\n\n3.º Piloto às ordens de uma embarcação, sem serviço, por cada hora ou fracção ... 3$15\n\n4.º Piloto, retirado do serviço, sujeito a revisão médica, por cada hora ou fracção ... 6$30\n\n5.º Piloto em viagem, por cada dia ou fracção ... 15$75\n\n6.º Piloto de quarentena, a bordo ou em terra, por cada dia ou fracção ... 15$75\n\n7.º Piloto requisitado para serviço que não chegue a efectuar-se por motivo de embarcação ou pedidos de piloto fora das horas de expediente estabelecidas ... 6$30\n\n8.º Transmissão de ordens a uma embarcação no mar quando não chegue a entrar ... 15$75\n\n9.º Arriar ou rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou fora desta, a pagar pela que obriga a manobra, por cada hora ou fracção ... 3$15\n\nNota A. - A esta tabela serão acrescidas as sobretaxas estabelecidas pelo artigo 29.º, observando-se, porém, o seguinte:\n\n1 - Em qualquer período da situação de «às ordens» só serão devidas com sobretaxas as horas que caírem dentro dos períodos do horário não normal;\n\n2 - As verbas indicadas nos pontos 5.º e 6.º serão acrescidas na sobretaxa respectiva quando devidas aos domingos e dias feriados.\n\nNota B. - Nos casos previstos no n.º 3.º, começa-se a contar o tempo ao fim da primeira meia hora.",
+      "alterador": 2
+    },
+    {
+      "titulo": "## ANEXO III — TABELA D",
+      "texto": "Embarque e desembarque de pilotos:\n\nPrimeira hora ou fracção ... 2500$00\n\nCada meia hora ou fracção a mais ... 1250$00\n\nAluguer de embarcações para transportes ou amarrações e desamarrações:\n\nA tabela portuária.\n\nServiço de reboques:\n\nA tabela portuária.",
+      "alterador": 8
+    },
+    {
+      "titulo": "## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)",
+      "texto": "[Artigo 4.º, n.º 1, alínea d)]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11900/10911099.pdf)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.os 1 a 5 (coeficientes a aplicar às taxas de pilotagem): não textual: fixa coeficientes ao abrigo do n.º 3 do artigo 32.º e não altera o texto do diploma\nAlterador 3, n.º 1 (classificação do Departamento de Pilotagem do Funchal na 2.ª categoria): não textual: classificação feita pela portaria, sem texto novo para o diploma\nAlterador 3, n.º 4, título «DIVISÃO XI — Funchal» e subtítulo «I - Pilotagem» antes do artigo 103.º-A do Regulamento: alvo incerto: é um título novo e o texto atual não tem nenhuma linha de título nesse lugar que se possa mudar (as regras não deixam inventar títulos); os artigos 103.º-A a 103.º-F e os subtítulos «II - Requisições» e «III - Taxas» ficaram aplicados\nAlterador 7, n.os 1.º e 3.º (coeficientes das taxas de pilotagem; manutenção da tabela portuária): não textual: fixa coeficientes ao abrigo do n.º 3 do artigo 32.º\nAlterador 8, n.os 1.º e 3.º (coeficientes das taxas de pilotagem; manutenção da tabela portuária): não textual: fixa coeficientes ao abrigo do n.º 3 do artigo 32.º\nAlterador 10 (e alterador 11, o mesmo diploma), artigo 11.º do Estatuto do Pessoal das Administrações dos Portos: outro diploma: é do Decreto-Lei n.º 101/88\nAlterador 12 (percentagem de 15,5% das receitas para o Fundo de Aposentações em 1993): não textual: fixação ao abrigo da alínea a) do n.º 3 do artigo 35.º\nAlterador 13, artigo 2.º, n.º 1 (revogação dos artigos 58.º a 67.º): efeito adiado: o n.º 3 diz que só produz efeitos na data da entrada em vigor da portaria de fixação dos quadros de pessoal de cada departamento\nAlterador 13, artigo 2.º, n.º 1 (revogação da Portaria n.º 123/80): outro diploma\nAlterador 14 (atualização das remunerações e das senhas de presença): não textual: fixação ao abrigo do n.º 1 do artigo 53.º e do n.º 1 do artigo 40.º do Estatuto do Pessoal\nAlterador 15 (percentagem de 26% das receitas para o Fundo de Aposentações em 1995): não textual: fixação ao abrigo da alínea a) do n.º 3 do artigo 35.º\nAlterador 16 (Lei Orgânica do Governo: o INPP passa a integrar o Ministério do Equipamento Social): não textual: não altera o texto do diploma\nAlterador 17 (atualização das remunerações dos pilotos e das senhas de presença): não textual: fixação ao abrigo do n.º 1 do artigo 53.º e do n.º 1 do artigo 40.º do Estatuto do Pessoal\nAlterador 19 (suspensão da aplicabilidade do artigo 5.º aos portos do continente): não textual: suspensão\nAlterador 20, artigo 12.º, n.º 1, alínea a) (revoga o Decreto-Lei n.º 361/78, com exceção do artigo 35.º, n.º 1, alínea d), e n.os 2, 3 e 4, dos artigos 58.º e 59.º e do artigo 72.º na redação do Decreto-Lei n.º 188/89): alvo incerto: é a revogação do diploma inteiro, feita «sem prejuízo da aplicação das disposições de natureza transitória» do próprio Decreto-Lei n.º 331/98 e dos diplomas que venham a reestruturar as juntas autónomas e as administrações portuárias, e não se sabe com segurança que artigos continuam a aplicar-se transitoriamente; os artigos ficam com a última redação e a revogação do diploma regista-se ao nível do diploma\nAlterador 21, artigo 2.º, proémio (revoga «todas as normas que estabelecem acréscimos de tempo de serviço»): alvo incerto: só nomeia o artigo 72.º (aplicado); o artigo 59.º do Estatuto do Pessoal tem conteúdo do mesmo tipo mas não vem nomeado",
   "instrucoes": [
-    "Alt.1 Portaria 49/79: fixa coeficientes, não textual.",
-    "Alt.2 Portaria 240/79: rectificações/alterações em 2.º,3.º,6.º,9.º,12.º,17.º,25.º,29.º,31.º,38.º,44.º,46.º,54.º,71.º,80.º,82.º do Estatuto; anexo I 1.º,4.º,5.º,6.º,14.º,15.º,20.º,29.º,30.º,35.º,40.º,42.º,53.º,63.º,64.º,69.º,73.º; anexo III 3.º,4.º,17.º,30.º,55.º,71.º; anexo IV 1.º,2.º,3.º,4.º,7.º,8.º,11.º,18.º,21.º,22.º,23.º,24.º,27.º,28.º,29.º,30.º,31.º,33.º,36.º,40.º,41.º (n.º 3 aditado),44.º,48.º,50.º,54.º,57.º,58.º,60.º,67.º,75.º,82.º,88.º,93.º,94.º,99.º; renumeração das divisões V a X do cap. III do anexo IV (títulos). 14.º n.º 5 sem diferença; 64.º depois revogado.",
-    "Alt.3 Portaria 273/79: aditado 67.º-A; anexo IV 1.º n.º 3 substituído (com Funchal); aditados 103.º-A a 103.º-F.",
-    "Alt.4/5 Portaria 123/80 (duplicada): 64.º n.º 1 com 4 pilotos (sobre a redacção do alt.2).",
-    "Alt.6 Portaria 443/80: nova redacção do 73.º; depois revogado pelo alt.9.",
-    "Alt.9 DL 188/89: 35.º (alínea d) do n.º 1 e n.os 3 e 4 aditados), 72.º nova redacção, aditado 51.º-A, revogado 73.º, anexo I 58.º e 59.º nova redacção.",
-    "Alt.10/11 DL 356/91 (duplicado): anexo I 19.º e 31.º, n.º 1 alínea a); art. 11.º do DL 101/88 ignorado.",
-    "Alt.13 DL 403/93: 57.º nova redacção; revogados 78.º e 79.º; revogação dos 58.º a 67.º não aplicada (efeito adiado, n.º 3).",
-    "Alt.7, 8, 12, 14, 15: não textuais.",
-    "Alterador 16 (DL 296-A/95, Lei Orgânica do Governo): só põe o INPP na dependência do Ministro do Equipamento Social; nenhuma alteração textual ao original.",
-    "Alterador 17 (Portaria 240/96): actualiza remunerações e senhas ao abrigo do art. 53.º e do art. 40.º do anexo I; nenhuma alteração textual.",
-    "Alterador 18 (DL 143/97), art. 1.º: nova redação dos arts. 9.º a 14.º (conselho directivo); aplicada, com nova epígrafe '(Competência do presidente)' no 13.º e as restantes epígrafes mantidas ([...]).",
-    "Alterador 18, art. 2.º: epígrafe da secção I da divisão II do capítulo II passa a 'Conselho directivo'; aplicada em titulos.",
-    "Alterador 18, art. 3.º: revoga os arts. 15.º a 19.º; cada um fica '(Revogado.)'.",
-    "Alterador 19 (DL 234-A/98): suspensão da aplicabilidade do art. 5.º; não textual, em nao_aplicavel.",
-    "Alterador 20 (DL 331/98), art. 12.º: revogação do DL 361/78 com excepções e ressalva de regime transitório até à reestruturação das juntas autónomas e administrações portuárias; não aplicada, em nao_aplicavel.",
-    "Alterador 21, art. 2.º, alínea c): revoga o artigo 72.º do Decreto-Lei n.º 361/78 — artigo 72.º passa a (Revogado.).",
-    "Alterador 21, art. 2.º, proémio (revogação genérica de normas de acréscimo de tempo de serviço): sem alvo expresso além do 72.º; não aplicado ao Anexo I::59.º.",
-    "Alterador 21, art. 3.º, n.º 3: revogação condicional das disposições que contrariem; não aplicada.",
-    "Restantes artigos do alterador 21 dizem respeito a outros regimes ou diplomas; ignorados."
+    "Alterador 1 (Portaria 49/79): coeficientes das taxas; não textual, em nao_aplicavel.",
+    "Alterador 2 (Portaria 240/79): retificações e alterações de artigos do Estatuto do INPP (2.º, 3.º, 6.º, 9.º, 12.º, 14.º, 17.º, 25.º, 29.º, 31.º, 38.º, 44.º, 46.º, 54.º, 64.º, 71.º, 80.º, 82.º), do Estatuto do Pessoal (1.º, 4.º, 5.º, 6.º, 14.º, 15.º, 20.º, 29.º, 30.º, 35.º, 40.º, 42.º, 53.º, 63.º, 64.º, 69.º, 73.º), do Estatuto Disciplinar (3.º, 4.º, 17.º, 30.º, 55.º, 71.º) e do Regulamento (1.º a 4.º, 7.º, 8.º, 11.º, 18.º, 21.º a 24.º, 27.º a 31.º, 33.º, 36.º, 40.º, 41.º, 44.º, 48.º, 50.º, 54.º, 57.º, 58.º, 60.º, 67.º, 75.º, 82.º, 88.º, 93.º, 94.º, 99.º): aplicadas só as partes transcritas, com '...' a manter o texto atual; no 41.º o n.º 3 vem sem os n.os 1 e 2 e ficou como aditamento (o n.º 4 do preâmbulo diz que só se transcreve a parte afetada de cada artigo); nos 8.º e 48.º o artigo passa a ter n.os 1 e 2; no 88.º mantém-se o subtítulo «III - Taxas» que lhe segue. As redações de 9.º, 12.º, 14.º e 17.º foram depois substituídas pelo alterador 18, a do 64.º pelo alterador 4 e a do n.º 3 do 1.º do Regulamento pelo alterador 3.",
+    "Alterador 2: renumeração das divisões do capítulo III do Regulamento (Lisboa V, Portimão VI, Setúbal VII, Sines VIII, Viana do Castelo IX, Vila Real de Santo António X), em titulos.",
+    "Alterador 2: nota B da tabela C (anexo II do Regulamento) passa a 'ao fim da primeira meia hora', em anexos.",
+    "Alterador 2: figura do anexo IV do Regulamento substituída pela imagem nova (só em imagem), em anexos com as linhas da imagem do alterador; o título do anexo não muda.",
+    "Alterador 3 (Portaria 273/79): aditado o artigo 67.º-A (Funchal) e o subtítulo «Funchal» posto no fim do artigo 67.º, como os outros nomes de departamento deste capítulo que estão no fim do artigo anterior; nova redação do n.º 3 do artigo 1.º do Regulamento; aditados os artigos 103.º-A a 103.º-F do Regulamento, com «II - Requisições» no fim do 103.º-A e «III - Taxas» no fim do 103.º-C (como nas outras divisões); o título «DIVISÃO XI — Funchal» e «I - Pilotagem» vão para nao_aplicavel; o n.º 1 (classificação) é não textual.",
+    "Alteradores 4 e 5 (Portaria 123/80, o mesmo diploma duas vezes): n.º 1 do artigo 64.º passa a '4 pilotos', mantendo o n.º 2 na redação do alterador 2.",
+    "Alterador 6 (Portaria 443/80): nova redação do artigo 73.º, depois revogado pelo alterador 9.",
+    "Alteradores 7 e 8 (Portarias 366/83 e 143/85): valores da tabela D (embarque e desembarque de pilotos) passam a 1500$00/750$00 e depois a 2500$00/1250$00, em anexos com a redação do alterador 8; coeficientes em nao_aplicavel.",
+    "Alterador 9 (DL 188/89): aditadas a alínea d) do n.º 1 e os n.os 3 e 4 do artigo 35.º; nova redação do artigo 72.º (depois revogado pelo alterador 21); aditado o artigo 51.º-A; revogado o artigo 73.º; nova redação dos artigos 58.º e 59.º do Estatuto do Pessoal. Os artigos 2.º e 4.º, n.os 2 a 8, são normas autónomas, não alteram o texto.",
+    "Alteradores 10 e 11 (DL 356/91, o mesmo diploma duas vezes): alínea a) do n.º 1 dos artigos 19.º e 31.º do Estatuto do Pessoal; o artigo 11.º é de outro diploma.",
+    "Alterador 12 (Portaria 280/93): não textual.",
+    "Alterador 13 (DL 403/93): nova redação do artigo 57.º; revogados os artigos 78.º e 79.º; a revogação dos artigos 58.º a 67.º tem efeito adiado (nao_aplicavel).",
+    "Alteradores 14, 15, 16 e 17: não textuais.",
+    "Alterador 18 (DL 143/97): nova redação dos artigos 9.º a 14.º (no 9.º, aplicado à letra: n.º 1 mantém o proémio e as alíneas b) e c) e a alínea a) passa a 'O conselho directivo'; os antigos n.os 3 e 4 passam a n.os 2 e 3 com o texto do alterador e o n.º 5 deixa de existir, porque a nova redação só tem n.os 1 a 3); epígrafe da secção I da divisão II passa a 'Conselho directivo'; revogados os artigos 15.º a 19.º.",
+    "Alterador 19 (DL 234-A/98): suspensão, não textual.",
+    "Alterador 20 (DL 331/98): revogação do diploma com exceções, em nao_aplicavel (alvo incerto).",
+    "Alterador 21 (DL 229/2005): revogado o artigo 72.º; a revogação genérica dos acréscimos de tempo de serviço vai para nao_aplicavel."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "chars": 282572,
-      "artigos": 93
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        16,
-        17,
-        18,
-        19,
-        20
-      ],
-      "chars": 292873,
-      "artigos": 11
-    },
-    {
-      "n": 3,
-      "alteradores": [
-        21
-      ],
-      "chars": 230490,
-      "artigos": 1
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

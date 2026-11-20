@@ -1,0 +1,23 @@
+[
+ {
+  "id": "pt:dre:308336:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Área abrangida por plano director municipal",
+    "texto": "No caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Artigo 3.º, alínea a): 'e)' passa a 'd)'; já está no texto atual (aplicado pelo programa), nada a mudar.",
+   "Artigo 4.º, alínea a): 'alíneas a), b) e e) do artigo 2.º' passa a 'alíneas a), b) e d) do artigo 2.º'; o resto da alínea ('e na alínea c) do artigo 3.º;') fica como está. Reparo: a alínea resultante junta o texto da retificação com o resto do texto atual, como manda a retificação, que só corrige o trecho entre aspas.",
+   "Artigo 5.º, alínea a): já retificada no texto atual, nada a mudar.",
+   "Artigo 6.º, alínea b): 'áreas destinada' passa a 'área destinada'; já está no texto atual, nada a mudar."
+  ]
+ }
+]

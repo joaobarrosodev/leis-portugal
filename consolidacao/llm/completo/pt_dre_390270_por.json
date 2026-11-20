@@ -16,13 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 180/70 art. 1.º: nova redação do art. 1.º, aplicada; arts. 2.º e 3.º do DL 180/70 são normas próprias e o art. 4.º altera o DL 48948: ignorados",
-    "DL 9/78 art. 1.º: nova redação do art. 2.º (n.º 2 al. a) 'As comissões de cobrança;' e n.º 3), aplicada; o reparo do verificador sobre a al. a) não procede, a instrução existe",
-    "DL 161/88: revoga o n.º 3 do art. 2.º, aplicado"
+    "Alterador 1, art. 1.º: nova redação do artigo 1.º; aplicada.",
+    "Alterador 1, arts. 2.º e 3.º: disposições próprias; art. 4.º altera o artigo 16.º do Decreto-Lei n.º 48948 (outro diploma); não alteram o original.",
+    "Alterador 2, art. 1.º: nova redação do artigo 2.º: n.os 1 e 2, alíneas b) e c) mantidas, alínea a) passa a «As comissões de cobrança;», n.º 3 com nova redação; aplicado. Reparo falso: a nova alínea a) vem expressamente do art. 1.º do Decreto-Lei n.º 9/78 (alterador 2).",
+    "Alterador 3, artigo único: revoga o n.º 3 do artigo 2.º; aplicado (a redação do alterador 2 para o n.º 3 fica substituída pela revogação)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

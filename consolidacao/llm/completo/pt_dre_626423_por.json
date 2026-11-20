@@ -2,6 +2,12 @@
   "id": "pt:dre:626423:por",
   "artigos": [
     {
+      "chave": "2.º",
+      "epigrafe": "Âmbito",
+      "texto": "O presente Estatuto aplica-se aos militares das forças armadas em qualquer situação e forma de prestação de serviço.",
+      "alterador": 6
+    },
+    {
       "chave": "3.º",
       "epigrafe": "Formas de prestação de serviço",
       "texto": "As formas de prestação do serviço efectivo são as seguintes:\n\na) Serviço efectivo nos quadros permanentes (QP);\n\nb) Serviço efectivo normal (SEN);\n\nc) Serviço efectivo em regime de voluntariado (RV);\n\nd) Serviço efectivo em regime de contrato (RC);\n\ne) Serviço efectivo decorrente de convocação ou mobilização.",
@@ -10,13 +16,25 @@
     {
       "chave": "4.º",
       "epigrafe": "Militar dos QP",
-      "texto": "É militar do QP, nos termos do artigo 4.º, n.º 4, da Lei n.º 30/87, o que, tendo ingressado voluntariamente na carreira militar, se encontra vinculado às Forças Armadas com carácter de permanência.",
+      "texto": "É militar do QP, nos termos do artigo 4.º, n.º 4, da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), o que, tendo ingressado voluntariamente na carreira militar, se encontra vinculado às Forças Armadas com carácter de permanência.",
       "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Militar em RC",
+      "texto": "É militar em RC o que, tendo cumprido o SEN e prestado serviço em RV pelo período mínimo de 12 meses, continua ou regressa ao serviço por um período de tempo limitado, com vista à satisfação de necessidades das Forças Armadas ou ao seu eventual recrutamento para os QP.",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º-A",
+      "epigrafe": "Militar em RV",
+      "texto": "É militar em RV o que, tendo cumprido o SEN, deseje manter-se ao serviço por um período de tempo não superior a 18 meses, com vista à satisfação de necessidades das Forças Armadas, à passagem ao RC ou ao seu eventual recrutamento para os QP.",
+      "alterador": 2
     },
     {
       "chave": "7.º",
       "epigrafe": "Militar convocado ou mobilizado",
-      "texto": "1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.\n\n2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.\n\n3 - São aplicáveis aos militares convocados ou mobilizados as disposições estatutárias respeitantes às formas de prestação de serviço que antecederam a passagem à reserva de disponibilidade e licenciamento.\n\n4 - Aos militares mobilizados a que se refere o número anterior serão igualmente aplicadas as disposições estatutárias respeitantes a outras formas de prestação de serviço quando a duração dos períodos de mobilização o justifique.\n\n5 - Aos militares mobilizados a partir da reserva territorial são aplicáveis as disposições estatutárias respeitantes aos militares em SEN.",
+      "texto": "1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.\n\n2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.\n\n3 - São aplicáveis aos militares convocados ou mobilizados as disposições estatutárias respeitantes às formas de prestação de serviço que antecederam a passagem à reserva de disponibilidade e licenciamento.\n\n4 - Aos militares mobilizados a que se refere o número anterior serão igualmente aplicadas as disposições estatutárias respeitantes a outras formas de prestação de serviço quando a duração dos períodos de mobilização o justifique.\n\n5 - Aos militares mobilizados a partir da reserva territorial são aplicáveis as disposições estatutárias respeitantes aos militares em SEN.",
       "alterador": 2
     },
     {
@@ -58,7 +76,7 @@
     {
       "chave": "26.º",
       "epigrafe": "Outros direitos",
-      "texto": "O militar tem, nomeadamente, direito:\n\na) A progredir na carreira, nos termos do artigo 11.º, n.º 1, da Lei n.º 11/89, de 1 de Junho;\n\nb) A receber treino e formação geral, cívica, científica, técnica e profissional, inicial e permanente, adequados ao pleno exercício das funções e missões que lhe forem atribuídas;\n\nc) A receber formação de actualização, reciclagem e progressão, com vista à sua valorização humana e profissional e a progredir na carreira;\n\nd) A beneficiar para si, e para a sua família, de assistência médica, medicamentosa, hospitalar e de meios de diagnóstico, nos termos fixados em diploma próprio;\n\ne) A serem-lhe aplicadas em matéria de maternidade e paternidade as disposições constantes da lei;\n\nf) A apresentar queixas ao Provedor de Justiça, de acordo com a LDNFA e nos termos que vierem a ser fixados em lei da Assembleia da República;\n\ng) A redução nas tarifas dos transportes colectivos públicos, de acordo com o estabelecido em legislação própria;\n\nh) A beneficiar, nos termos da lei, para si e para a sua família, de um sistema de assistência e protecção, abrangendo designadamente pensões de reforma, de sobrevivência e de preço de sangue e subsídios de invalidez e outras formas de assistência e apoio social.",
+      "texto": "O militar tem, nomeadamente, direito:\n\na) A progredir na carreira, nos termos do artigo 11.º, n.º 1, da [Lei n.º 11/89](https://diariodarepublica.pt/dr/detalhe/lei/11-1989-609999), de 1 de Junho;\n\nb) A receber treino e formação geral, cívica, científica, técnica e profissional, inicial e permanente, adequados ao pleno exercício das funções e missões que lhe forem atribuídas;\n\nc) A receber formação de actualização, reciclagem e progressão, com vista à sua valorização humana e profissional e a progredir na carreira;\n\nd) A beneficiar para si, e para a sua família, de assistência médica, medicamentosa, hospitalar e de meios de diagnóstico, nos termos fixados em diploma próprio;\n\ne) A serem-lhe aplicadas em matéria de maternidade e paternidade as disposições constantes da lei;\n\nf) A apresentar queixas ao Provedor de Justiça, de acordo com a LDNFA e nos termos que vierem a ser fixados em lei da Assembleia da República;\n\ng) A redução nas tarifas dos transportes colectivos públicos, de acordo com o estabelecido em legislação própria;\n\nh) A beneficiar, nos termos da lei, para si e para a sua família, de um sistema de assistência e protecção, abrangendo designadamente pensões de reforma, de sobrevivência e de preço de sangue e subsídios de invalidez e outras formas de assistência e apoio social.",
       "alterador": 1
     },
     {
@@ -66,6 +84,12 @@
       "epigrafe": "Categorias",
       "texto": "Os militares agrupam-se hierarquicamente, e por ordem decrescente, nas seguintes categorias:\n\na) Oficiais;\n\nb) Sargentos;\n\nc) Praças.",
       "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Antiguidade relativa entre militares",
+      "texto": "1 - O militar dos QP é sempre considerado mais antigo que os militares em RC, RV, SEN, mobilizados e convocados promovidos a posto igual ou correspondente com a mesma data de antiguidade.\n\n2 - O militar graduado é sempre considerado mais moderno que os militares promovidos a posto igual ou correspondente.",
+      "alterador": 2
     },
     {
       "chave": "36.º",
@@ -176,6 +200,24 @@
       "alterador": 1
     },
     {
+      "chave": "101.º",
+      "epigrafe": "Licença para férias",
+      "texto": "1 - O militar tem direito, em cada ano civil, a um período de licença para férias, a gozar seguida ou interpoladamente, calculado de acordo com as seguintes regras:\n\na) 22 dias úteis de férias até completar 39 anos de idade;\n\nb) 23 dias úteis de férias até completar 49 anos de idade;\n\nc) 24 dias úteis de férias até completar 59 anos de idade;\n\nd) 25 dias úteis de férias a partir dos 60 anos de idade.\n\n2 - A idade relevante para efeitos da aplicação do número anterior é aquela que o militar completar até 31 de Dezembro do ano em que a licença para férias se vence.\n\n3 - Na concessão da licença para férias deve ter-se em atenção o seguinte:\n\na) Só pode ser concedida a quem tiver 12 meses ou mais de serviço efectivo;\n\nb) A concessão não pode prejudicar a tramitação de processo disciplinar ou criminal em curso;\n\nc) O período abrangido não pode sobrepor-se à frequência de cursos, tirocínios, instrução, treino ou estágios e está condicionado pela actividade operacional;\n\nd) Num mesmo ano, um dos períodos de férias não deve ser inferior a 11 dias;\n\ne) Só poderá ser interrompida por imperiosa necessidade de serviço ou por outros motivos excepcionais;\n\nf) É concedida independentemente do gozo anterior de qualquer outra licença ou dispensa e do registo disciplinar;\n\ng) A sua concessão deve obedecer a um planeamento capaz de assegurar o regular funcionamento dos serviços.\n\n4 - A licença para férias respeitante a determinado ano não gozada por motivo de serviço ou doença pode sê-lo no ano civil imediato, seguida ou não das férias vencidas neste.\n\n5 - No caso de acumulação de férias por motivo de serviço ou doença, o militar não pode ser impedido de gozar os dias de férias respeitantes ao ano anterior mais metade dos dias de férias a que tiver direito no ano a que as mesmas se reportem.",
+      "alterador": 5
+    },
+    {
+      "chave": "105.º",
+      "epigrafe": "Licença por casamento",
+      "texto": "A licença por casamento é concedida por 11 dias úteis seguidos, tendo em atenção o seguinte:\n\na) O pedido deve ser apresentado com uma antecedência mínima de 15 dias relativamente à data em que se pretende iniciar o período de licença;\n\nb) A confirmação do casamento é efectuada através de certidão destinada ao processo individual.",
+      "alterador": 5
+    },
+    {
+      "chave": "106.º",
+      "epigrafe": "Licença registada",
+      "texto": "1 - A licença registada pode ser concedida, a requerimento do interessado, por motivos de natureza particular que justifiquem tal petição, ou imposta por motivos decorrentes de conveniência de serviço.\n\n2 - A licença registada não confere direito a remuneração ou compensação financeira e não conta como tempo de serviço militar.",
+      "alterador": 2
+    },
+    {
       "chave": "108.º",
       "epigrafe": "Reclamação e recurso",
       "texto": "O militar poderá, nos termos legalmente previstos, reclamar e recorrer dos actos administrativos.",
@@ -226,7 +268,7 @@
     {
       "chave": "116.º",
       "epigrafe": "Militares dos QP",
-      "texto": "1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.\n\n2 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.\n\n3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.",
+      "texto": "1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.\n\n2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.\n\n3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.",
       "alterador": 1
     },
     {
@@ -2170,44 +2212,8 @@
     {
       "chave": "440.º",
       "epigrafe": "Suspensão do artigo 166.º",
-      "texto": "A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.",
+      "texto": "A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.\n\nO Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.\n\nDo ANEXO I ao ANEXO III\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)",
       "alterador": 1
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "Militar em RC",
-      "texto": "É militar em RC o que, tendo cumprido o SEN e prestado serviço em RV pelo período mínimo de 12 meses, continua ou regressa ao serviço por um período de tempo limitado, com vista à satisfação de necessidades das Forças Armadas ou ao seu eventual recrutamento para os QP.",
-      "alterador": 2
-    },
-    {
-      "chave": "5.º-A",
-      "epigrafe": "Militar em RV",
-      "texto": "É militar em RV o que, tendo cumprido o SEN, deseje manter-se ao serviço por um período de tempo não superior a 18 meses, com vista à satisfação de necessidades das Forças Armadas, à passagem ao RC ou ao seu eventual recrutamento para os QP.",
-      "alterador": 2
-    },
-    {
-      "chave": "31.º",
-      "epigrafe": "Antiguidade relativa entre militares",
-      "texto": "1 - O militar dos QP é sempre considerado mais antigo que os militares em RC, RV, SEN, mobilizados e convocados promovidos a posto igual ou correspondente com a mesma data de antiguidade.\n\n2 - O militar graduado é sempre considerado mais moderno que os militares promovidos a posto igual ou correspondente.",
-      "alterador": 2
-    },
-    {
-      "chave": "106.º",
-      "epigrafe": "Licença registada",
-      "texto": "1 - A licença registada pode ser concedida, a requerimento do interessado, por motivos de natureza particular que justifiquem tal petição, ou imposta por motivos decorrentes de conveniência de serviço.\n\n2 - A licença registada não confere direito a remuneração ou compensação financeira e não conta como tempo de serviço militar.",
-      "alterador": 2
-    },
-    {
-      "chave": "101.º",
-      "epigrafe": "Licença para férias",
-      "texto": "1 - O militar tem direito, em cada ano civil, a um período de licença para férias, a gozar seguida ou interpoladamente, calculado de acordo com as seguintes regras:\n\na) 22 dias úteis de férias até completar 39 anos de idade;\n\nb) 23 dias úteis de férias até completar 49 anos de idade;\n\nc) 24 dias úteis de férias até completar 59 anos de idade;\n\nd) 25 dias úteis de férias a partir dos 60 anos de idade.\n\n2 - A idade relevante para efeitos da aplicação do número anterior é aquela que o militar completar até 31 de Dezembro do ano em que a licença para férias se vence.\n\n3 - Na concessão da licença para férias deve ter-se em atenção o seguinte:\n\na) Só pode ser concedida a quem tiver 12 meses ou mais de serviço efectivo;\n\nb) A concessão não pode prejudicar a tramitação de processo disciplinar ou criminal em curso;\n\nc) O período abrangido não pode sobrepor-se à frequência de cursos, tirocínios, instrução, treino ou estágios e está condicionado pela actividade operacional;\n\nd) Num mesmo ano, um dos períodos de férias não deve ser inferior a 11 dias;\n\ne) Só poderá ser interrompida por imperiosa necessidade de serviço ou por outros motivos excepcionais;\n\nf) É concedida independentemente do gozo anterior de qualquer outra licença ou dispensa e do registo disciplinar;\n\ng) A sua concessão deve obedecer a um planeamento capaz de assegurar o regular funcionamento dos serviços.\n\n4 - A licença para férias respeitante a determinado ano não gozada por motivo de serviço ou doença pode sê-lo no ano civil imediato, seguida ou não das férias vencidas neste.\n\n5 - No caso de acumulação de férias por motivo de serviço ou doença, o militar não pode ser impedido de gozar os dias de férias respeitantes ao ano anterior mais metade dos dias de férias a que tiver direito no ano a que as mesmas se reportem.",
-      "alterador": 5
-    },
-    {
-      "chave": "105.º",
-      "epigrafe": "Licença por casamento",
-      "texto": "A licença por casamento é concedida por 11 dias úteis seguidos, tendo em atenção o seguinte:\n\na) O pedido deve ser apresentado com uma antecedência mínima de 15 dias relativamente à data em que se pretende iniciar o período de licença;\n\nb) A confirmação do casamento é efectuada através de certidão destinada ao processo individual.",
-      "alterador": 5
     }
   ],
   "removidos": [],
@@ -2220,6 +2226,16 @@
     {
       "atual": "## LIVRO III — Do serviço militar obrigatório",
       "novo": "## LIVRO III — Do serviço efectivo normal",
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO I",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "## Parte comum",
+      "novo": null,
       "alterador": 2
     },
     {
@@ -2243,6 +2259,16 @@
       "alterador": 2
     },
     {
+      "atual": "## TÍTULO I",
+      "novo": "## TÍTULO I — Do regime de voluntariado",
+      "alterador": 2
+    },
+    {
+      "atual": "## Parte comum",
+      "novo": null,
+      "alterador": 2
+    },
+    {
       "atual": "## TÍTULO II — Da Marinha",
       "novo": "## TÍTULO II — Do regime de contrato",
       "alterador": 2
@@ -2258,73 +2284,32 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Art. 3.º, n.º 1, da Lei n.º 27/91: o aditamento do posto de coronel aos postos das especialidades de pilotos, navegadores e outros no n.º 1 do artigo 276.º (agora 275.º) não foi aplicado, porque o quadro de especialidades e postos só existe em imagem ('ver documento original'); aplicou-se só a eliminação do n.º 2 e a passagem do n.º 1 a corpo. Art. 5.º, n.º 3 (as remissões para os artigos 111.º e seguintes entendem-se feitas aos artigos 110.º e seguintes) é regra de interpretação, não alteração textual: as remissões nos textos não foram reescritas. | Títulos de divisão dos livros III e IV que repetem linhas anteriores do texto atual, não devolvidos por não se poderem identificar sem ambiguidade só pela linha: no livro III, '## TÍTULO I' e '## Parte comum' (eliminados pela nova redação do livro III, que não tem títulos); no livro IV, '## TÍTULO I' passa a '## TÍTULO I — Do regime de voluntariado' e '## Parte comum' é eliminado. São a 2.ª e a 3.ª ocorrência de '## TÍTULO I' e a 5.ª e a 6.ª de '## Parte comum'; as anteriores (livros I e II) não mudam. Os pares '## TÍTULO II — Da Marinha', '## TÍTULO III — Do Exército' e '## TÍTULO IV — Da Força Aérea' vão em 'titulos' pela ordem do texto (1.ª ocorrência no livro III, 2.ª no livro IV). | Lei n.º 25/2000 (alterador 6), art. 5.º: repristina o regime dos artigos 12.º a 15.º do Decreto-Lei n.º 34-A/90 (normas do decreto preambular, que não constam do texto atual) até se esgotarem os efeitos; não é alteração textual. Os restantes artigos da Lei n.º 25/2000 alteram o Decreto-Lei n.º 236/99 e o seu EMFAR, não o original. | Alterador 7 (DL 261/2009): fixa efectivos dos QP e revoga o DL 202/93; o art. 2.º, n.º 4, apenas suspende até 31/12/2014 a aplicação do n.º 3 do artigo 174.º do EMFAR (suspensão temporária, não alteração textual, e dirigida ao EMFAR vigente, não ao texto deste diploma). Alterador 8 (Declaração de Rectificação n.º 2564/2010): rectifica uma declaração de rectificação de um acto individual de passagem à reforma; não contém qualquer instrução dirigida ao texto do original.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, artigo 117.º (n.º 1 «Os militares dos QP servem as Forças Armadas como profissionais…» e n.º 2 «...»): alvo incerto: o texto novo dado como n.º 1 corresponde ao n.º 2 atual (o n.º 1 atual é «São militares dos QP…») e a instrução não diz o que acontece ao n.º 3; a numeração é incoerente e não se sabe com segurança que número substitui, pelo que o artigo (hoje 116.º) fica com o texto atual.\nAlterador 1, art. 3.º, n.º 1 (aditamento do posto de coronel às especialidades PIL, NAV e outras no quadro do n.º 1 do artigo 276.º, hoje 275.º): só em imagem: o quadro só existe em imagem, não tem título de anexo no texto atual e o alterador não traz imagem nova; aplicou-se só o n.º 2 do art. 3.º.\nAlterador 1, art. 5.º, n.º 3 (as referências aos artigos 111.º e seguintes entendem-se feitas aos artigos 110.º e seguintes): não textual: regra de interpretação das remissões, sem alterar a letra dos artigos.\nAlterador 4, art. 3.º, n.º 2, alínea p) (mantém em vigor o artigo 23.º do Estatuto): não textual: ressalva de vigência de uma isenção de custas, sem alterar o texto.\nAlterador 6, arts. 1.º a 4.º (alterações ao Decreto-Lei n.º 236/99 e ao EMFAR por ele aprovado, incluindo os artigos 2.º e 3.º desse Estatuto): outro diploma: visam o novo EMFAR de 1999, não o original.\nAlterador 6, art. 5.º (repristinação do regime dos artigos 12.º a 15.º do Decreto-Lei n.º 34-A/90): não textual: repristinação de regime do decreto preambular, cujos artigos não vêm no texto atual.\nAlterador 7, arts. 1.º a 3.º e mapa anexo (efectivos dos QP e suspensão do n.º 3 do artigo 174.º do EMFAR): outro diploma: o mapa é do próprio Decreto-Lei n.º 261/2009 e o artigo 174.º suspenso é o do EMFAR de 1999; a suspensão é ainda não textual.\nAlterador 8, rectificação da declaração de rectificação n.º 2346/2010: outro diploma: rectifica um acto individual publicado na 2.ª série; o original só é citado.",
   "instrucoes": [
-    "Art. 1.º: nova redação dos artigos 3.º, 4.º, 7.º-12.º, 14.º, 26.º, 28.º, 36.º, 41.º, 43.º, 45.º-47.º, 56.º, 57.º, 62.º, 64.º, 66.º, 67.º, 70.º, 85.º, 87.º, 89.º, 93.º, 99.º, 108.º, 109.º (aplicada com a numeração antiga; '...' mantém o texto atual; '(O corpo do artigo.)' passa o corpo antigo a número).",
-    "Art. 1.º: artigo 28.º com redação só do corpo e alíneas a)-c) (sem '...' para os n.os 2-4): aplicado tal como vem, os antigos n.os 2-4 deixam de constar.",
-    "Art. 1.º: artigos 111.º, 112.º, 116.º, 117.º, 119.º-121.º, 124.º, 126.º, 127.º, 130.º, 139.º, 142.º, 145.º, 153.º, 162.º, 174.º, 180.º, 184.º, 202.º, 205.º-207.º, 209.º, 249.º, 286.º, 310.º, 342.º, 346.º, 352.º, 376.º, 384.º, 391.º, 395.º, 396.º, 410.º, 415.º, 424.º, 431.º, 438.º alterados e depois renumerados (-1) pelo art. 5.º.",
-    "Art. 1.º, artigo 117.º: a nova redação vem como '1 -' seguida de '2 - ...', mas é o texto do n.º 2 (servem como profissionais... 'factor' em vez de 'o garante'); aplicada ao n.º 2, mantendo os n.os 1 e 3 (sai como 116.º).",
-    "Art. 1.º, artigo 207.º: novo n.º 1; antigos n.os 1 e 2 passam a 2 e 3 (sai como 206.º).",
-    "Art. 2.º: artigo 246.º (sai como 245.º): alínea a) substituídos os parágrafos de justiça e estados-maiores; nas alíneas b), c) e d) aditados os parágrafos de funções diplomáticas e de justiça antes do parágrafo dos estados-maiores.",
-    "Art. 3.º: artigo 276.º (sai como 275.º): eliminado o n.º 2 e o n.º 1 passa a corpo; aditamento do posto de coronel ao quadro em imagem não aplicado.",
-    "Art. 4.º: artigo 284.º (sai como 283.º): alínea b) 1.º parágrafo substituído e aditado in fine o das missões militares; alíneas c), d), e), f) e h) com os dois parágrafos aditados in fine.",
-    "Art. 5.º: eliminado o artigo 110.º e renumerados os artigos 111.º a 440.º para 110.º a 439.º (todos devolvidos com a chave nova); a chave 110.º passa a ter o antigo 111.º, por isso nenhuma chave desaparece.",
-    "Art. 6.º: aditado o artigo 440.º 'Suspensão do artigo 166.º'.",
-    "Art. 7.º: título IX do livro I passa a 'Reclamações e recursos em matéria administrativa' (em titulos).",
-    "Art. 1.º: nova redação dos artigos 3.º (com nova epígrafe 'Formas de prestação de serviço'), 5.º, 7.º, 31.º (n.º 1; n.º 2 mantido), 45.º (n.º 4; restantes mantidos), 106.º (n.º 2), 145.º (n.º 1; n.os 2 e 3 mantidos), 204.º (n.os 1 e 3; n.º 2 mantido), 296.º, 304.º e 338.º (epígrafes '[...]' mantidas do texto atual): aplicado.",
-    "Art. 1.º: nova redação do livro III (artigos 349.º a 364.º) e do livro IV (artigos 365.º a 408.º): cada artigo 349.º-408.º substituído pela nova redação, com as epígrafes novas. O artigo que o alterador numera '251.º — Funções', entre o 350.º e o 352.º do livro III, foi tratado como gralha de 351.º (o artigo 251.º atual, 'Tempo de navegação', não é tocado).",
-    "Art. 1.º: novos títulos dos livros III ('Do serviço efectivo normal') e IV ('Dos regimes de voluntariado e de contrato'); o livro III deixa de ter títulos e o livro IV passa a ter só 'TÍTULO I — Do regime de voluntariado' e 'TÍTULO II — Do regime de contrato': devolvidos em 'titulos' os não ambíguos; ver nao_aplicavel.",
-    "Art. 2.º: aditado o artigo 5.º-A 'Militar em RV': aplicado.",
-    "Art. 3.º: revogados os artigos 409.º e seguintes, com excepção do 440.º: 409.º a 439.º devolvidos como '(Revogado.)'; 440.º mantido.",
-    "Art. 4.º: disposições transitórias, não alteram o texto do Estatuto: não aplicável ao texto.",
-    "Alterador 3 (Lei n.º 15/92), art. 1.º, n.º 1: nova redação da alínea c) do 'artigo 175.º' (Passagem à reforma: 'nove anos' de reserva fora da efectividade passa a 'cinco anos'); no texto atual essa alínea está no artigo com a chave 174.º (Reforma), o mesmo que a Lei n.º 25/2000 cita como 174.º; aplicada ao 174.º, mantendo a), b) e d).",
-    "Alterador 3, arts. 1.º, n.os 2 a 4, e 2.º a 10.º: regime transitório e medidas avulsas (reforma antecipada, bonificação, indemnização, passagem à reserva), sem alteração textual do original; ignorados.",
-    "Alterador 4 (Decreto-Lei n.º 224-A/96), art. 3.º, n.º 2, alínea p): mantém em vigor o artigo 23.º do Estatuto; nada a alterar.",
-    "Alterador 5 (Decreto-Lei n.º 175/97), art. 1.º: nova redação dos artigos 101.º (Licença para férias) e 105.º (Licença por casamento); aplicadas integralmente.",
-    "Alterador 6 (Lei n.º 25/2000): arts. 1.º a 4.º alteram o Decreto-Lei n.º 236/99 e o EMFAR por ele aprovado (outro diploma); ignorados. Art. 5.º repristina os artigos 12.º a 15.º do decreto preambular do original: sem efeito textual, registado em nao_aplicavel.",
-    "Alterador 7, art. 1.º-3.º: efectivos dos QP e revogação do DL 202/93 - não altera o original; nada aplicado",
-    "Alterador 7, art. 2.º, n.º 4: suspensão temporária do n.º 3 do art. 174.º do EMFAR - não textual; nada aplicado",
-    "Alterador 8: rectificação de acto administrativo individual que cita o art. 11.º do DL 34-A/90 - sem instrução sobre o texto; nada aplicado"
+    "Alterador 1 (Lei 27/91), art. 1.º: nova redacção dos artigos 3.º, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 26.º, 28.º, 36.º, 41.º, 43.º, 45.º, 46.º, 47.º, 56.º, 57.º, 62.º, 64.º, 66.º, 67.º, 70.º, 85.º, 87.º, 89.º, 93.º, 99.º, 108.º, 109.º, 111.º, 112.º, 116.º, 119.º, 120.º, 121.º, 124.º, 126.º, 127.º, 130.º, 139.º, 142.º, 145.º, 153.º, 162.º, 174.º, 180.º, 184.º, 202.º, 205.º, 206.º, 207.º, 209.º, 249.º, 286.º, 310.º, 342.º e 346.º (numeração original), aplicada antes da renumeração do art. 5.º, com «...» = texto atual, «(O corpo do artigo.)» e «(O n.º N do artigo.)» = unidade atual; os 28.º e 112.º ficam só com o texto dado (sem os n.ºs que a nova redacção não traz). As alterações aos artigos 352.º a 438.º ficaram sem efeito porque o alterador 2 deu nova redacção aos livros III e IV e revogou os restantes.",
+    "Alterador 1, art. 1.º, artigo 117.º: não aplicado (numeração incoerente), ver nao_aplicavel.",
+    "Alterador 1, art. 2.º: no artigo 246.º (hoje 245.º), alínea a) substituídos os parágrafos das funções de justiça e de estados-maiores; nas alíneas b), c) e d) aditados «Exercício de funções diplomáticas…» e «Exercício de funções de justiça;» antes da referência às funções em estados-maiores.",
+    "Alterador 1, art. 3.º: no artigo 276.º (hoje 275.º) eliminado o n.º 2 e o n.º 1 passa a corpo; o aditamento do posto de coronel ao quadro em imagem vai para nao_aplicavel.",
+    "Alterador 1, art. 4.º: no artigo 284.º (hoje 283.º), alínea b) primeiro parágrafo substituído e aditado in fine o parágrafo das missões militares; alíneas c), d), e), f) e h) com os dois parágrafos aditados in fine.",
+    "Alterador 1, art. 5.º: eliminado o artigo 110.º e renumerados os artigos 111.º a 440.º para 110.º a 439.º: cada chave de 110.º a 439.º recebe a epígrafe e o texto do artigo seguinte (o 110.º, que o programa tinha posto como revogado, fica com a antiga Reclamação). As remissões internas não foram mudadas (n.º 3, ver nao_aplicavel).",
+    "Alterador 1, art. 6.º: aditado o novo artigo 440.º «Suspensão do artigo 166.º»; a assinatura e a referência aos anexos I a III que estavam no fim do antigo 440.º continuam no fim do texto.",
+    "Alterador 1, art. 7.º: o título IX do livro I passa a «Reclamações e recursos em matéria administrativa» (em titulos).",
+    "Alterador 2 (DL 157/92), art. 1.º: nova redacção dos artigos 3.º (com a epígrafe nova), 5.º, 7.º, 31.º, 45.º, 106.º, 145.º, 204.º, 296.º, 304.º e 338.º na numeração dada pela Lei 27/91 (145.º = antigo 146.º, 204.º = antigo 205.º, 296.º = antigo 297.º, 304.º = antigo 305.º, 338.º = antigo 339.º), com «...» = texto atual; livros III e IV com a nova redacção dos artigos 349.º a 408.º.",
+    "Alterador 2, títulos dos livros III e IV: LIVRO III passa a «Do serviço efectivo normal» e perde os títulos I a IV e a «Parte comum»; LIVRO IV passa a «Dos regimes de voluntariado e de contrato», com o título I «Do regime de voluntariado» e o título II «Do regime de contrato» (o antigo título II do livro IV); eliminados a «Parte comum» e os títulos III e IV do livro IV. Os títulos ficam no lugar que têm no texto atual, que não se pode mudar.",
+    "Alterador 2, art. 2.º: aditado o artigo 5.º-A «Militar em RV».",
+    "Alterador 2, art. 3.º: revogados os artigos 409.º a 439.º (numeração da Lei 27/91), mantendo-se o 440.º; cada um com o corpo «(Revogado.)».",
+    "Alterador 2, art. 4.º: disposições transitórias, sem alteração do texto.",
+    "Alterador 3 (Lei 15/92), art. 1.º, n.º 1: nova redacção da alínea c) do artigo 175.º (numeração original, a mesma que a Lei 25/2000 cita como 174.º), aplicada ao artigo hoje 174.º «Reforma»; os n.ºs 2 a 4 e os arts. 2.º a 10.º são regime transitório, sem alteração do texto.",
+    "Alterador 4 (DL 224-A/96): só ressalva a vigência do artigo 23.º; ver nao_aplicavel.",
+    "Alterador 5 (DL 175/97): nova redacção integral dos artigos 101.º e 105.º.",
+    "Alteradores 6, 7 e 8: não visam o texto do original; ver nao_aplicavel.",
+    "Artigo 2.º: o programa tinha-o posto como revogado, mas nenhuma instrução o revoga (a Lei 25/2000 altera o artigo 2.º do DL 236/99): reposto o texto original (alterador indicado: 6, de onde vinha o erro)."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1
-      ],
-      "chars": 290823,
-      "artigos": 362
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        2
-      ],
-      "chars": 323195,
-      "artigos": 103
-    },
-    {
-      "n": 3,
-      "alteradores": [
-        3,
-        4,
-        5,
-        6
-      ],
-      "chars": 314139,
-      "artigos": 3
-    },
-    {
-      "n": 4,
-      "alteradores": [
-        7,
-        8
-      ],
-      "chars": 286464,
-      "artigos": 0
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

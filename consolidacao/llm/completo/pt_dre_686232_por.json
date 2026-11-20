@@ -87,19 +87,28 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º (regime do artigo 37.º extensivo às instalações de carácter social): não textual — alarga o âmbito do regime sem dar nova redação ao artigo 37.º.\nAlterador 6, artigo 100.º, n.º 2 (revogação de todas as disposições legislativas contrárias): revogação condicional — só atinge o que contrarie a Lei n.º 169/99.",
   "instrucoes": [
-    "Alt. 1: torna extensivo o regime do art. 37.º a instalações de carácter social, sem alteração textual: nada aplicado.",
-    "Alt. 2: nova redação dos arts. 21.º e 34.º: aplicada ('...' entre os dois artigos tratado como separador).",
-    "Alt. 3: nova redação do art. 16.º (corpo e § único): aplicada.",
-    "Alt. 4: sem artigos que mencionem o original.",
-    "Alt. 5 art. 1.º: nova redação dos arts. 12.º, 13.º, 14.º, 15.º (alínea a)), 17.º (alíneas a), b), c), e), f)), 18.º, 26.º (nova alínea d)), 27.º, 32.º, 35.º (corpo, alínea f), § único passa a § 1.º, § 2.º novo) e 40.º: aplicada; unidades com '...' mantidas.",
-    "Alt. 5 arts. 2.º-5.º: normas autónomas: não alteram o texto do original.",
-    "Alt. 6 art. 100.º n.º 2: revoga o art. 27.º: aplicado."
+    "Alterador 1 (DL 47801): art. 1.º não textual; art. 2.º diz respeito ao DL 44830 — nada aplicado.",
+    "Alterador 2 (DL 49018): nova redação dos artigos 21.º (um só parágrafo, que substitui o corpo e os n.os 1.º e 2.º; o «...» separa os artigos) e 34.º.",
+    "Alterador 3 (DL 49394): nova redação do artigo 16.º (corpo e § único).",
+    "Alterador 4 (DL 30/70): sem texto dirigido ao original.",
+    "Alterador 5 (DL 179/73, art. 1.º): nova redação dos artigos 12.º, 13.º, 14.º, 18.º, 32.º e 40.º; no 15.º só a alínea a) (o resto mantido); no 17.º as alíneas a), b) com 1) e 2), c), e) e f), as outras mantidas, e mantidos também a alínea u) e os §§ 1.º e 2.º, que a redação não menciona; no 26.º aditada a alínea d); no 35.º novo corpo, aditada a alínea f), o § único passa a § 1.º (o alterador diz «§ 1.º ...», ou seja, fica o texto da unidade atual, renumerada) e aditado o § 2.º; o 27.º ganhou nova redação, depois revogada pelo alterador 6. Os artigos 2.º a 5.º do DL 179/73 são normas autónomas, não alteram o original.",
+    "Reparo sobre o 35.º confirmado no alterador: o «§ 1.º ...» do DL 179/73 mantém o texto do antigo § único com o número novo («§ 1.º» seguido do texto atual, como os outros §§ do diploma); o reparo não se confirma e a redação mantém-se.",
+    "Alterador 6 (Lei 169/99, art. 100.º, n.º 2): revoga o artigo 27.º — fica «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [
     "35.º: parágrafo que não está no alterador nem no original: § 1.º O director do Conservatório de Música do Porto mantém direito à gratificaç"
+  ],
+  "avisos": [
+    "19.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam",
+    "23.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam",
+    "24.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam"
   ]
 }

@@ -44,6 +44,12 @@
       "alterador": 2
     },
     {
+      "chave": "32.º",
+      "epigrafe": "",
+      "texto": "As transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.",
+      "alterador": 2
+    },
+    {
       "chave": "31.º-A",
       "epigrafe": "",
       "texto": "As instituições de crédito mencionadas no artigo 2.º do presente decreto-lei poderão cobrar prémios de transferência sobre o valor da liquidação das operações de pagamentos interterritoriais que efectuarem e ressarcir-se dos encargos em que efectivamente incorrerem com a execução daquelas operações.\n\n§ 1.º A simples abertura de contas em nome de residentes em outro território nacional não dará lugar à cobrança de qualquer prémio ou comissão.\n\n§ 2.º Os prémios de transferência mencionados no presente artigo não poderão ultrapassar 0,6 por cento das respectivas importâncias. Este limite será reduzido a metade sempre que as operações de pagamentos interterritoriais provenham de operações em moeda estrangeira.",
@@ -60,24 +66,22 @@
       "epigrafe": "",
       "texto": "Independentemente dos prémios de transferência ou de cobrança a que se referem os artigos precedentes, e das comissões que forem devidas ao agente do sistema instituído pelo [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, as instituições de crédito cobrarão sempre dos ordenadores das operações de pagamentos interterritoriais uma comissão a favor dos fundos cambiais das províncias ultramarinas a que as aludidas operações respeitem.\n\n§ único. A comissão mencionada no presente artigo será de 0,5 por cento sobre a importância total das operações de pagamentos interterritoriais ou dos valores a cobrar e deverá ser entregue para crédito do respectivo fundo cambial no próprio dia da sua cobrança ou no dia útil imediato. Quando a operação respeitar a duas províncias ultramarinas, a importância da comissão cobrada será dividida em partes iguais pelos fundos cambiais dessas províncias.",
       "alterador": 2
-    },
-    {
-      "chave": "32.º",
-      "epigrafe": "",
-      "texto": "As transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.",
-      "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 49306, art. 10.º: os arts. 31.º-A a 31.º-C passam a constituir uma nova secção IV do capítulo II, «Dos prémios e comissões de transferência e cobrança»; os artigos foram aditados, mas o novo título de divisão não existe no texto atual e o campo 'titulos' só muda títulos existentes, por isso o cabeçalho da secção não foi criado. DL 44828 (alterador 1), artigo único: fixa em 1 de Março de 1963 a entrada em vigor prevista no art. 34.º, sem nova redação do artigo (alteração não textual); não aplicada ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único (data de entrada em vigor do artigo 34.º fixada para 1 de Março de 1963): não textual; adia a entrada em vigor sem dar nova redação ao artigo 34.º\nAlterador 2, artigos 1.º e 2.º (Decreto-Lei n.º 44698 e artigo 122.º do Decreto-Lei n.º 45296): outro diploma\nAlterador 2, artigos 3.º e 4.º (Decreto-Lei n.º 44699, incluindo o § único do artigo 7.º que passa a § 1.º e o novo § 2.º): outro diploma; o reparo não procede, porque o artigo 7.º alterado é o do Decreto-Lei n.º 44699 e não o do original (Decreto-Lei n.º 44701)\nAlterador 2, artigo 5.º (Decreto-Lei n.º 44700): outro diploma\nAlterador 2, artigos 7.º a 9.º (instruções sobre vales de correio, declarações e troca de notas): não textual; normas autónomas que não dão nova redação a nenhum artigo do original\nAlterador 2, artigo 10.º, criação da secção IV do capítulo II «Dos prémios e comissões de transferência e cobrança»: alvo incerto; os artigos 31.º-A a 31.º-C foram aditados, mas o título de divisão novo não existe no texto atual e «titulos» só muda ou elimina títulos que lá estão, por isso não o pus",
   "instrucoes": [
-    "Alterador 1 (DL 44828), artigo único: adia a entrada em vigor para 1-3-1963; não textual, em nao_aplicavel.",
-    "Alterador 2 (DL 49306), arts. 1.º a 5.º e 7.º a 9.º: alteram os DL 44698, 44699 e 44700 ou são normas autónomas; não são do original. O reparo sobre o art. 7.º (§ único passa a § 1.º e novo § 2.º) não se confirma: o art. 3.º do DL 49306 refere-se ao art. 7.º do DL 44699, não ao 44701.",
-    "Alterador 2, art. 6.º: novo § único do art. 2.º; nova redação do art. 6.º; art. 13.º com novo proémio do § único ('exceptuados') e nova alínea c), ficando a) e b); art. 24.º: § único substituído por §§ 1.º e 2.º; novos §§ únicos dos arts. 25.º, 28.º e 29.º; nova redação do art. 32.º.",
-    "Alterador 2, art. 10.º: aditados os arts. 31.º-A, 31.º-B e 31.º-C (reparo confirmado); o título da nova secção IV vai em nao_aplicavel."
+    "Alterador 1: só fixa a data de entrada em vigor (1 de Março de 1963); não textual (nao_aplicavel).",
+    "Alterador 2, art. 6.º: nova redação dos artigos 2.º (§ único), 6.º (corpo inteiro), 13.º (§ único com nova frase de abertura e nova alínea c); a) e b) mantidas), 24.º (§ único substituído por §§ 1.º e 2.º), 25.º, 28.º e 29.º (§ único), 32.º (corpo inteiro).",
+    "Alterador 2, art. 10.º: aditados os artigos 31.º-A, 31.º-B e 31.º-C; o título da nova secção IV não foi criado (nao_aplicavel).",
+    "Alterador 2, arts. 1.º a 5.º: alteram outros diplomas (44698, 44699, 44700, 45296); arts. 7.º a 9.º: normas autónomas; não aplicados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

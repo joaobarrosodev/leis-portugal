@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Retificação do artigo 7.º: «o Decreto n.º 33/79, de 21 de Março» passa a «de 21 de Abril»; no texto atual a referência é a «33/79, de 21 de Março» (lista de Decretos n.os), alvo inequívoco; substituído «21 de Março» por «21 de Abril» nessa referência."
+    "Alterador 1 (Declaração de Rectificação n.º 44/92): no artigo 7.º, onde se lê «de 21 de Março» (data do Decreto n.º 33/79) passa a ler-se «de 21 de Abril»; resto do artigo copiado do texto atual, incluindo as ligações."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [
     "7.º: parágrafo que não está no alterador nem no original: São revogados os Decretos n.os 41641, de 23 de Maio de 1958, 202/70, de 9 de Mai"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }
