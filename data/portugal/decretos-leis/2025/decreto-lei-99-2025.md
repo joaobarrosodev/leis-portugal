@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-11-06'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-99-2025.versoes.json
-  count: 2
-  source_lastmod: '2025-11-05'
+  count: 3
+  source_lastmod: '2026-11-03'
   versions:
   - date: '2025-08-28'
     amending: null
@@ -55,6 +55,11 @@ version_history:
   - date: '2025-11-06'
     amending: pt:dre:944410938:por
     amending_title: Decreto-Lei n.º 117/2025
+    changes:
+    - Altera Artigo 5.º
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
     changes:
     - Altera Artigo 5.º
 identifiers:
@@ -71,19 +76,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2025/p/cons/20251105/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-933578177
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-933578177
-  retrieved_at: '2026-10-22T13:36:07Z'
+  retrieved_at: '2026-11-20T13:49:46Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2025-11-05T00:00:00Z'
+  source_modified_at: '2026-11-03T00:00:00Z'
 integrity:
-  source_sha256: c49dbc0a143cf9713c4295a12eb54b826ca159751b2db78cc8ef036628cd5388
+  source_sha256: ada802cd976e50cabf75831f70062874de668c47c3effef89955d7250c638dbd
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:36:07Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-99-2025.versoes.json.
+  generated_at: '2026-11-20T13:49:46Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-99-2025.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,6 +122,11 @@ relationships:
   label: Altera Artigo 5.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938
   date: '2025-11-05'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -174,7 +184,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:36:07Z'
+  checked_at: '2026-11-20T13:49:46Z'
   warnings: []
   errors: []
 ---
@@ -245,13 +255,15 @@ a) O IGeFE, I. P., sendo as suas atribuições integradas, nos termos do present
 
 b) A DGAE, sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., no Centro Jurídico do Estado (CEJURE), e no Instituto de Educação, Qualidade e Avaliação, I. P. (EduQA, I. P.);
 
-c) A DGEstE, sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., no CEJURE e nas Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.).
+c) A DGEstE, sendo as suas atribuições integradas, nos termos do presente capítulo, na AGSE, I. P., no EduQA, I. P., no CEJURE e nas Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.).
 
 2 - No âmbito dos processos de extinção por fusão e de reestruturação, o presente capítulo:
 
 a) Estabelece os serviços e organismos integradores no âmbito da transferência das atribuições e competências;
 
 b) Regula o procedimento de reafetação de trabalhadores.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897).
 
 ###### Artigo 4.º — Órgãos, serviços e organismos integradores
 
@@ -293,7 +305,7 @@ i) Apoio ao funcionamento das atividades do Conselho Científico-Pedagógico da 
 
 ii) Serviço de consultoria jurídica e contencioso, que transita para o CEJURE;
 
-d) Da DGEstE, em matéria de coordenação, acompanhamento e apoio à organização e funcionamento das escolas, da gestão e validação das ofertas formativas e educativas, da constituição de grupos e turmas, da segurança escolar, do desporto escolar e da celebração de contratos de financiamento no âmbito do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, na sua redação atual, designadamente no que respeita a contratos de patrocínio e contratos de cooperação, no âmbito da rede de oferta de cursos profissionais e de cursos de educação e formação a entidades privadas;
+d) Da DGEstE, exceto nas matérias que transitam para o EduQA, I. P., para o CEJURE e para as CCDR, I. P.;
 
 e) Da Direção-Geral de Educação (DGE), em matéria de desporto escolar, nos termos do decreto-lei que procede à sua extinção;
 
@@ -303,7 +315,7 @@ g) Da Agência Nacional Erasmus+ Educação e Formação, em matéria de acompan
 
 2 - A ESPAP, I. P., sucede nas atribuições e competências, bem como nos direitos e obrigações, do IGeFE, I. P., nas matérias de gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MECI, incluindo o pessoal docente e técnico das escolas, e de aquisição de bens e serviços que não sejam específicos da atividade do MECI, aqui sucedendo igualmente nas respetivas posições contratuais.
 
-3 - O EduQA, I. P., sucede nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, da DGAE em matéria de apoio ao funcionamento das atividades do CCPFC.
+3 - O EduQA, I. P., sucede nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, da DGAE, em matéria de apoio ao funcionamento das atividades do CCPFC, e da DGEstE, em matéria de apreciação dos recursos das decisões sobre os pedidos de revisão relativos à avaliação das aprendizagens.
 
 4 - A DGEPA sucede nas atribuições e competências, bem como nos direitos e obrigações e nas posições contratuais, do IGeFE, I. P., em matéria das atividades de entidade coordenadora dos programas orçamentais do MECI.
 
@@ -324,6 +336,10 @@ e) Acompanhar a organização e funcionamento das escolas, em articulação com 
 f) Planear as redes de dupla certificação para jovens, de ofertas educativas para adultos e dos centros especializados em qualificação escolar de adultos, sem prejuízo da supervisão estratégica e da definição de orientações por parte do Instituto de Educação, Qualidade e Avaliação, I. P., e os demais serviços da área governativa da educação, ciência e inovação.
 
 7 - O presente decreto-lei constitui, para todos os efeitos legais, incluindo o de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando as mesmas isentas do pagamento de quaisquer taxas ou emolumentos.
+
+> Nota: [Artigo 13.º, Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897) Os recursos das decisões sobre os pedidos de revisão relativos à avaliação das aprendizagens apresentados a órgão ou entidade distintos do referido no n.º 3 do presente artigo, na redação que lhe é dada pelo Decreto-Lei n.º 207/2026, de 2 de novembro, são enviados oficiosamente ao EduQA, I. P., disso se notificando o particular. Nestes casos considera-se a data da apresentação inicial do requerimento para efeitos da sua tempestividade.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03, com efeitos a partir de 2026-07-01.
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06
 

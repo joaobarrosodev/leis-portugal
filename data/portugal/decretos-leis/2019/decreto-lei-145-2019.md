@@ -38,10 +38,24 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-10-28'
+version_history:
+  file: decreto-lei-145-2019.versoes.json
+  count: 1
+  source_lastmod: '2026-10-30'
+  versions:
+  - date: '2026-10-28'
+    amending: pt:dre:1186535403:por
+    amending_title: Decreto-Lei n.º 206/2026
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Anexo III
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/145/2019/09/23/p/dre/pt/html
@@ -54,20 +68,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021
   metadata_url: https://data.dre.pt/eli/dec-lei/145/2019/09/23/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2019-124917021
-  consolidated_url: null
-  retrieved_at: '2026-10-23T03:37:19Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124994586
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124994586
+  retrieved_at: '2026-11-20T13:49:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-30T00:00:00Z'
 integrity:
-  source_sha256: 1e7cb5650e0a154d86ca8c8e0d08d193a3e3ca79603d89d732a4e7705cc66c3a
+  source_sha256: a3ab5de180f5bca840715c71f19e40409ffdc9150f884b7b453cf01bf4863c34
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T03:37:19Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:25Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-145-2019.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,6 +117,11 @@ relationships:
     de 2024-07-29, nos termos do seu n.º 1 do artigo 48.º
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
   date: '2024-07-29'
+- type: amended_by
+  target: pt:dre:1186535403:por
+  label: Altera Artigo 6.º; Altera Artigo 9.º; Altera Anexo I; Altera Anexo II; Revoga Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403
+  date: '2026-10-27'
 - type: cites
   target: pt:dre:117471256:por
   label: null
@@ -188,53 +208,51 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 8
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T03:37:19Z'
+  checked_at: '2026-11-20T13:49:25Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 145/2019
 
-de 23 de setembro
+O Decreto-Lei n.º 115/2018, de 21 de dezembro, aprovou o novo regime das carreiras especiais de conservador de registos e de oficial de registos. Nos termos deste decreto-lei, procedeu-se à revisão, adaptação e concentração, num único diploma, da legislação que regulava as anteriores carreiras de conservador, de notário, de ajudante e de escriturário dos registos e do notariado, que passaram a constituir, respetivamente, as carreiras únicas de conservador de registos e de oficial de registos.
 
-O [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro, aprovou o novo regime das carreiras especiais de conservador de registos e de oficial de registos. Nos termos deste decreto-lei, procedeu-se à revisão, adaptação e concentração, num único diploma, da legislação que regulava as anteriores carreiras de conservador, de notário, de ajudante e de escriturário dos registos e do notariado, que passaram a constituir, respetivamente, as carreiras únicas de conservador de registos e de oficial de registos.
-
-Nos termos do disposto nos artigos 6.º e 19.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), a determinação do número de posições remuneratórias e a identificação dos respetivos níveis remuneratórios das novas carreiras faz-se por diploma próprio, a aprovar no prazo de 180 dias após a entrada em vigor daquele decreto-lei.
+Nos termos do disposto nos artigos 6.º e 19.º do Decreto-Lei n.º 115/2018, a determinação do número de posições remuneratórias e a identificação dos respetivos níveis remuneratórios das novas carreiras faz-se por diploma próprio, a aprovar no prazo de 180 dias após a entrada em vigor daquele decreto-lei.
 
 Operada a revisão da componente do estatuto das carreiras, importa agora rever, adaptar e atualizar a componente do estatuto remuneratório.
 
-Assim, e em conformidade com os princípios e regras consagrados nas [Leis n.os 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, e [35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e na [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de dezembro, o presente decreto-lei estabelece o novo regime remuneratório das carreiras especiais de conservador de registos e oficial de registos.
+Assim, e em conformidade com os princípios e regras consagrados nas Leis n.os 12-A/2008, de 27 de fevereiro, na sua redação atual, e 35/2014, de 20 de junho, na sua redação atual, e na Portaria n.º 1553-C/2008, de 31 de dezembro, o presente decreto-lei estabelece o novo regime remuneratório das carreiras especiais de conservador de registos e oficial de registos.
 
 Das alterações promovidas pelo presente decreto-lei destacam-se: a concentração, num único diploma, deste regime remuneratório; a atualização do conceito de remuneração base nestas carreiras, eliminando-se a divisão entre vencimento da categoria e vencimento de exercício, que são agora integrados; a determinação do número de posições remuneratórias e a identificação dos correspondentes níveis remuneratórios; a transição dos trabalhadores para a nova tabela retributiva garantindo o princípio do não retrocesso salarial; e a previsão da remuneração mensal a abonar ao candidato à carreira de conservador de registos que frequente o curso de formação inicial específica correspondente.
 
 Por outro lado, continua a mostrar-se extremamente difícil o preenchimento de vagas de conservador e de oficial de registos nas Regiões Autónomas dos Açores e da Madeira, por falta de interessados, ocasionando graves perturbações na prestação de serviços aos cidadãos e empresas. Assim, e como forma de incentivo, mantém-se o abono de subsídio e de outros apoios pela insularidade aos trabalhadores daquelas carreiras que ocupem posto de trabalho nestas Regiões Autónomas.
 
-No que se refere à transição dos atuais trabalhadores para a tabela remuneratória agora estabelecida, o regime remuneratório do presente decreto-lei aplica os princípios fixados no artigo 41.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, bem como no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, designadamente o da neutralidade orçamental na transição e o da sustentabilidade na evolução remuneratória das carreiras.
+No que se refere à transição dos atuais trabalhadores para a tabela remuneratória agora estabelecida, o regime remuneratório do presente decreto-lei aplica os princípios fixados no artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, bem como no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, designadamente o da neutralidade orçamental na transição e o da sustentabilidade na evolução remuneratória das carreiras.
 
-Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
 
 Assim:
 
-Ao abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, nos artigos 87.º e 149.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo àquela lei, no n.º 1 do artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, nos artigos 6.º e 19.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Ao abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, nos artigos 87.º e 149.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo àquela lei, no n.º 1 do artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, nos artigos 6.º e 19.º do Decreto-Lei n.º 115/2018, de 21 de dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Disposição preliminar
+### Capítulo I — Disposição preliminar
 
 ###### Artigo 1.º — Objeto
 
 1 - O presente decreto-lei estabelece o regime remuneratório das carreiras especiais de conservador de registos e de oficial de registos, identificando o número de posições remuneratórias e os respetivos níveis da tabela remuneratória.
 
-2 - O presente decreto-lei define, ainda, as regras de transição remuneratória dos trabalhadores integrados nas anteriores carreiras de conservador, de notário, de ajudante e de escriturário dos registos e do notariado, que transitaram, nos termos dos artigos 39.º a 41.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro, para as carreiras especiais de conservador de registos e de oficial de registos.
+2 - O presente decreto-lei define, ainda, as regras de transição remuneratória dos trabalhadores integrados nas anteriores carreiras de conservador, de notário, de ajudante e de escriturário dos registos e do notariado, que transitaram, nos termos dos artigos 39.º a 41.º do Decreto-Lei n.º 115/2018, de 21 de dezembro, para as carreiras especiais de conservador de registos e de oficial de registos.
 
-### CAPÍTULO II — Da remuneração das carreiras especiais de conservador de registos e de oficial de registos
+### Capítulo II — Da remuneração das carreiras especiais de conservador de registos e de oficial de registos
 
-#### SECÇÃO I — Disposição geral
+#### Secção I — Disposição geral
 
 ###### Artigo 2.º — Componentes da remuneração
 
@@ -246,7 +264,7 @@ b) Suplementos remuneratórios;
 
 c) Prémios de desempenho e/ou de produtividade.
 
-#### SECÇÃO II — Da remuneração base
+#### Secção II — Da remuneração base
 
 ###### Artigo 3.º — Remuneração base
 
@@ -258,25 +276,27 @@ c) Prémios de desempenho e/ou de produtividade.
 
 Os candidatos ao ingresso na carreira especial de conservador de registos que frequentem o curso de formação inicial específica têm direito a uma remuneração mensal, de valor correspondente a 50 % do primeiro nível remuneratório da primeira posição remuneratória desta carreira.
 
-#### SECÇÃO III — Dos suplementos remuneratórios
+#### Secção III — Dos suplementos remuneratórios
 
 ###### Artigo 5.º — Condições gerais de atribuição
 
-1 - Sem prejuízo do disposto no [Decreto-Lei n.º 25/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2015-66443113), de 6 de fevereiro, o conservador de registos e o oficial de registos beneficiam dos suplementos previstos no presente decreto-lei e demais legislação especial que lhes seja aplicável.
+1 - Sem prejuízo do disposto no Decreto-Lei n.º 25/2015, de 6 de fevereiro, o conservador de registos e o oficial de registos beneficiam dos suplementos previstos no presente decreto-lei e demais legislação especial que lhes seja aplicável.
 
 2 - Os suplementos remuneratórios são devidos e pagos em 12 meses por ano, apenas enquanto haja exercício de funções efetivo, ou como tal considerado por lei.
 
 ###### Artigo 6.º — Abonos
 
-1 - O conservador de registos e o oficial de registos mantêm o direito ao abono dos emolumentos pessoais previstos no artigo 63.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de dezembro, na sua redação atual, e na [Portaria n.º 996/98](https://diariodarepublica.pt/dr/detalhe/portaria/996-1998-216752), de 25 de novembro.
+1 - O conservador de registos e o oficial de registos mantêm o direito ao abono dos emolumentos pessoais previstos no artigo 63.º do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, na sua redação atual, e na Portaria n.º 996/98, de 25 de novembro.
 
 2 - O conservador de registos e o oficial de registos em exercício de funções na Região Autónoma dos Açores que, à data da ocupação do posto de trabalho, tenham residência há mais de um ano fora da referida região autónoma, ou em ilha diferente, têm direito a um subsídio mensal de insularidade, de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça.
 
 3 - O direito ao subsídio referido no número anterior mantém-se enquanto o conservador de registos e o oficial de registos ocuparem posto de trabalho nos serviços de registo situados na referida região autónoma.
 
-4 - O subsídio previsto no n.º 2 substitui os subsídios de compensação e de fixação a abonar, nos termos do artigo 10.º do [Decreto-Lei n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2003-482474), de 8 de outubro, aos trabalhadores que ocupam posto de trabalho nos serviços de registo da Região Autónoma da Madeira.
+4 - O subsídio previsto no n.º 2 substitui os subsídios de compensação e de fixação a abonar, nos termos do artigo 10.º do Decreto-Lei n.º 247/2003, de 8 de outubro, aos trabalhadores que ocupam posto de trabalho nos serviços de registo da Região Autónoma da Madeira.
 
-5 - O disposto no presente artigo não prejudica a previsão de novos abonos, designadamente o abono para falhas ou similares, aquando da revisão da tabela única de suplementos da Administração Pública.
+5 - O oficial de registos que manuseie ou tenha à sua guarda valores ou numerário, sendo por eles responsáveis, tem direito a um abono para falhas, no montante fixado na portaria a que se refere o n.º 1 do artigo 4.º do Decreto-Lei n.º 4/89, de 6 de janeiro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2026-11-02.
 
 ###### Artigo 7.º — Despesas de viagem e transporte de bagagem
 
@@ -286,13 +306,13 @@ Os candidatos ao ingresso na carreira especial de conservador de registos que fr
 
 3 - Os encargos a que se referem os números anteriores são suportados pelo Instituto dos Registos e Notariado, I. P., o qual procede à marcação das viagens através dos seus serviços centrais, devendo o respetivo pedido ser efetuado até 15 dias ou até dois meses antes da data do embarque, consoante seja feito ao abrigo, respetivamente, do n.º 1 ou do n.º 2.
 
-#### SECÇÃO IV — Prémios de desempenho e de produtividade
+#### Secção IV — Prémios de desempenho e de produtividade
 
 ###### Artigo 8.º — Atribuição
 
-Os prémios de desempenho e/ou de produtividade são atribuídos aos conservadores e oficiais de registo nos termos da portaria prevista no artigo 38.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro.
+Os prémios de desempenho e/ou de produtividade são atribuídos aos conservadores e oficiais de registo nos termos da portaria prevista no artigo 38.º do Decreto-Lei n.º 115/2018, de 21 de dezembro.
 
-### CAPÍTULO III — Posicionamento remuneratório
+### Capítulo III — Posicionamento remuneratório
 
 ###### Artigo 9.º — Posições remuneratórias
 
@@ -302,13 +322,15 @@ Os prémios de desempenho e/ou de produtividade são atribuídos aos conservador
 
 3 - Os trabalhadores que ingressam nas carreiras especiais de conservador de registos e de oficial de registos são remunerados pela primeira posição das respetivas tabelas, exceto quando já possuam vínculo de contrato de trabalho em funções públicas e a sua remuneração corresponda a montante pecuniário mais elevado, que deve servir de referência para integração na respetiva tabela.
 
-4 - Nas carreiras de conservador de registos e de oficial de registos são criadas as posições remuneratórias complementares a que correspondem os níveis remuneratórios constantes do anexo III ao presente decreto-lei, do qual faz parte integrante.
+4 - [Revogado.]
 
-5 - As posições remuneratórias complementares referidas no número anterior são consideradas para efeitos de aplicação do disposto no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho.
+5 - [Revogado.]
 
-6 - Todos os trabalhadores que transitem para a carreira de conservador de registos e para a carreira e categoria de oficial de registos que constem da lista nominativa referida no artigo 109.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, podem ser posicionados, verificados os requisitos legais, nas posições remuneratórias complementares.
+6 - Todos os trabalhadores que transitem para a carreira de conservador de registos e para a carreira e categoria de oficial de registos que constem da lista nominativa referida no artigo 109.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, podem ser posicionados, verificados os requisitos legais, nas posições remuneratórias complementares.
 
-7 - A alteração da posição remuneratória em cada uma das carreiras e categorias referidas nos n.os 1 e 2 efetua-se nos termos previstos na Lei Geral do Trabalho em Funções Públicas, com as especificidades previstas na portaria a que se refere o artigo 38.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro.
+7 - A alteração da posição remuneratória em cada uma das carreiras e categorias referidas nos n.os 1 e 2 efetua-se nos termos previstos na Lei Geral do Trabalho em Funções Públicas, com as especificidades previstas na portaria a que se refere o artigo 38.º do Decreto-Lei n.º 115/2018, de 21 de dezembro.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 10.º — Reposicionamento remuneratório
 
@@ -320,19 +342,19 @@ Os prémios de desempenho e/ou de produtividade são atribuídos aos conservador
 
 4 - A remuneração base a que se referem os números anteriores é a que resulta da soma do vencimento de categoria e do vencimento de exercício a que os trabalhadores tenham direito, de acordo com o posto de trabalho de que são titulares na data de entrada em vigor do presente decreto-lei.
 
-5 - Os trabalhadores remunerados nos termos dos [Decretos-Leis n.os 287/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1994-534653), de 14 de novembro, e [253/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1996-145872), de 26 de dezembro, dos n.os 2 e 4 do artigo 82.º do [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), de 13 de maio e do n.º 5 da [Portaria n.º 942/99](https://diariodarepublica.pt/dr/detalhe/portaria/942-1999-692208), de 27 de outubro, são reposicionados nos termos do n.º 1.
+5 - Os trabalhadores remunerados nos termos dos Decretos-Leis n.os 287/94, de 14 de novembro, e 253/96, de 26 de dezembro, dos n.os 2 e 4 do artigo 82.º do Decreto-Lei n.º 129/98, de 13 de maio e do n.º 5 da Portaria n.º 942/99, de 27 de outubro, são reposicionados nos termos do n.º 1.
 
-6 - Os trabalhadores remunerados nos termos dos artigos 110.º e 111.º do [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de fevereiro, são reposicionados nos termos dos n.os 1, 2 e 3.
+6 - Os trabalhadores remunerados nos termos dos artigos 110.º e 111.º do Decreto-Lei n.º 26/2004, de 4 de fevereiro, são reposicionados nos termos dos n.os 1, 2 e 3.
 
-### CAPÍTULO IV — Disposições transitórias e finais
+### Capítulo IV — Disposições transitórias e finais
 
 ###### Artigo 11.º — Substituições e acumulações
 
 1 - Os trabalhadores que, à data da entrada em vigor do presente decreto-lei, exercem funções em regime de mobilidade em substituição ou em acumulação mantêm o direito à respetiva remuneração, caso esta seja superior à que resulta da aplicação do artigo anterior, e enquanto se mantiverem na situação de substituição ou acumulação.
 
-2 - Enquanto não for revista a lei orgânica dos serviços de registo, a remuneração a que se refere o número anterior continua a ser determinada nos termos do disposto no n.º 1 do artigo 56.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de dezembro, na sua redação atual.
+2 - Enquanto não for revista a lei orgânica dos serviços de registo, a remuneração a que se refere o número anterior continua a ser determinada nos termos do disposto no n.º 1 do artigo 56.º do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, na sua redação atual.
 
-3 - O disposto no n.º 1 também é aplicável às situações a que se refere o n.º 2 do artigo 56.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de dezembro, na sua redação atual.
+3 - O disposto no n.º 1 também é aplicável às situações a que se refere o n.º 2 do artigo 56.º do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, na sua redação atual.
 
 ###### Artigo 12.º — Comissão de serviço
 
@@ -340,31 +362,31 @@ Os conservadores de registos e os oficiais de registos que, à data da entrada e
 
 ###### Artigo 13.º — Regime subsidiário
 
-Em tudo o que não se encontre especificamente regulado no presente decreto-lei, são aplicáveis, com as necessárias adaptações, os regimes constantes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, do [Decreto-Lei n.º 25/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2015-66443113), de 6 de fevereiro, e do [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de abril, na sua redação atual.
+Em tudo o que não se encontre especificamente regulado no presente decreto-lei, são aplicáveis, com as necessárias adaptações, os regimes constantes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, da Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, do Decreto-Lei n.º 25/2015, de 6 de fevereiro, e do Decreto-Lei n.º 106/98, de 24 de abril, na sua redação atual.
 
 ###### Artigo 14.º — Norma revogatória
 
 São revogados:
 
-a) O [Decreto-Lei n.º 38 610/1952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38610-1952-603049), de 22 de janeiro;
+a) O Decreto-Lei n.º 38 610/1952, de 22 de janeiro;
 
-b) Os artigos 52.º a 55.º, 61.º, 68.º, 80.º a 84.º, 93.º e 95.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de dezembro, na sua redação atual;
+b) Os artigos 52.º a 55.º, 61.º, 68.º, 80.º a 84.º, 93.º e 95.º do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, na sua redação atual;
 
-c) O [Decreto-Lei n.º 66/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1988-287458), de 1 de março, na sua redação atual;
+c) O Decreto-Lei n.º 66/88, de 1 de março, na sua redação atual;
 
-d) O [Decreto-Lei n.º 131/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953), de 2 de abril;
+d) O Decreto-Lei n.º 131/91, de 2 de abril;
 
-e) O artigo 82.º do [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), de 13 de maio, na sua redação atual;
+e) O artigo 82.º do Decreto-Lei n.º 129/98, de 13 de maio, na sua redação atual;
 
-f) O n.º 1 do artigo 110.º e o n.º 1 do 111.º do [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de fevereiro, na sua redação atual;
+f) O n.º 1 do artigo 110.º e o n.º 1 do 111.º do Decreto-Lei n.º 26/2004, de 4 de fevereiro, na sua redação atual;
 
-g) A [Portaria n.º 940/99](https://diariodarepublica.pt/dr/detalhe/portaria/940-1999-692206), de 27 de outubro;
+g) A Portaria n.º 940/99, de 27 de outubro;
 
-h) A [Portaria n.º 942/99](https://diariodarepublica.pt/dr/detalhe/portaria/942-1999-692208), de 27 de outubro;
+h) A Portaria n.º 942/99, de 27 de outubro;
 
-i) A [Portaria n.º 1448/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1448-2001-536989), de 29 de dezembro;
+i) A Portaria n.º 1448/2001, de 29 de dezembro;
 
-j) O [Despacho n.º 31/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1990-571255), publicado no Diário da República, n.º 187, de 14 de agosto.
+j) O Despacho n.º 31/90, publicado no Diário da República, n.º 187, de 14 de agosto.
 
 ###### Artigo 15.º — Produção de efeitos
 
@@ -384,36 +406,68 @@ Referendado em 17 de setembro de 2019.
 
 O Primeiro-Ministro, António Luís Santos da Costa.
 
-## ANEXO I — (a que se referem o n.º 1 do artigo 9.º e o n.º 1 do artigo 10.º)
+## Anexo I — Tabela remuneratória da carreira especial de conservador de registos
 
-Carreira de conservador de registos
+(a que se referem o n.º 1 do artigo 9.º e o n.º 1 do artigo 10.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0026500272.pdf)
+1 de julho de 2025
 
-## ANEXO II — (a que se referem o n.º 2 do artigo 9.º e o n.º 2 do artigo 10.º)
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 43 | 48 | 53 | 58 | 63 | 68 | 73 | 78 | 84 |
 
-Carreira de oficial de registos
+1 de janeiro de 2026
 
-Categoria de oficial de registos
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 44 | 49 | 54 | 59 | 64 | 69 | 74 | 79 | 84 |
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0026500272.pdf)
+1 de janeiro de 2027
 
-Categoria de oficial de registos especialista
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 |
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0026500272.pdf)
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
-## ANEXO III — (a que se refere o n.º 4 do artigo 9.º)
+## Anexo II — Tabela remuneratória da carreira especial de oficial de registos
+
+(a que se referem o n.º 2 do artigo 9.º e o n.º 2 do artigo 10.º)
+
+1 de julho de 2025
+
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 16 | 20 | 24 | 28 | 32 | 36 | 40 | 45 | 49 | 53 | 57 |
+
+1 de janeiro de 2026
+
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 18 | 22 | 26 | 30 | 34 | 37 | 41 | 45 | 49 | 53 | 57 |
+
+1 de janeiro de 2027
+
+| Posições remuneratórias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Níveis remuneratórios da TRU | 19 | 23 | 27 | 31 | 35 | 38 | 42 | 46 | 50 | 54 | 58 |
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
+
+## Anexo III — (a que se refere o n.º 4 do artigo 9.º)
 
 Posições remuneratórias complementares
 
 Carreira de conservador de registos
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0026500272.pdf)
+(ver documento original)
 
 Carreira de oficial dos registos
 
 Categoria de oficial de registos
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0026500272.pdf)
+(ver documento original)
 
 112594086
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.

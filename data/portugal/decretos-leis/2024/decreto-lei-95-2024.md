@@ -39,10 +39,21 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-03'
+version_history:
+  file: decreto-lei-95-2024.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre/pt/html
@@ -55,20 +66,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
-  consolidated_url: null
-  retrieved_at: '2026-10-23T03:50:34Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-898203763
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-898203763
+  retrieved_at: '2026-11-20T13:51:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 5f9806da352277aa5a32d632d42b4dc75ff35650acb92ab581bf1dfb224156c6
+  source_sha256: 1d31fe6de75a107272987c87701bf3c1f82e19c8d218b2aab1082df8e196a883
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T03:50:34Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:10Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-95-2024.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,6 +100,11 @@ relationships:
   target: pt:dre:992627242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Revoga Artigo 3.º; Revoga Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: amends
   target: pt:numero:decreto-lei:117-A/2012
   label: Altera, a partir de 29 de novembro de 2024, os artigos 1.º, 3.º (este último nos termos do n.º 2 do artigo 6.º),
@@ -116,24 +133,22 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
 article_structure:
-  article_count: 0
+  article_count: 6
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T03:50:34Z'
+  checked_at: '2026-11-20T13:51:10Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 95/2024
 
-de 28 de novembro
-
-Através do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, concretizou-se a criação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), que assumiu a missão e atribuições do Instituto de Informática, da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E., e da Agência Nacional de Compras Públicas, E. P. E., que foram extintos, por fusão.
+Através do Decreto-Lei n.º 117-A/2012, de 14 de junho, concretizou-se a criação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), que assumiu a missão e atribuições do Instituto de Informática, da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E., e da Agência Nacional de Compras Públicas, E. P. E., que foram extintos, por fusão.
 
 A fusão das atribuições dos referidos organismos na ESPAP, I. P., visou refundar e melhorar o desempenho das funções ligadas ao desenvolvimento e à gestão dos serviços partilhados prestados à Administração Pública no seu conjunto, agilizando a adoção de soluções e modelos de operação comuns e mais eficientes, nomeadamente nas áreas de gestão de recursos humanos, financeiros e das tecnologias de informação e comunicação (TIC), e potenciando sinergias das várias valências que se encontravam dispersas por três realidades organizacionais.
 
@@ -141,11 +156,11 @@ Com a prestação de serviços partilhados reduziram-se custos de funcionamento 
 
 Na área das TIC, previu-se a utilização das capacidades existentes como instrumentos de dinamização e suporte à prestação de serviços partilhados e, em geral, à promoção da reutilização e partilha de recursos comuns.
 
-Por último, manteve-se o Sistema Nacional de Compras Públicas definido no [Decreto-Lei n.º 37/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2007-517987), de 19 de fevereiro, assumindo a ESPAP, I. P., as funções de entidade gestora daquele sistema, sucedendo à Agência Nacional de Compras Públicas, E. P. E. A ESPAP, I. P., assumiu igualmente as funções de gestora do parque de veículos do Estado.
+Por último, manteve-se o Sistema Nacional de Compras Públicas definido no Decreto-Lei n.º 37/2007, de 19 de fevereiro, assumindo a ESPAP, I. P., as funções de entidade gestora daquele sistema, sucedendo à Agência Nacional de Compras Públicas, E. P. E. A ESPAP, I. P., assumiu igualmente as funções de gestora do parque de veículos do Estado.
 
 No âmbito da reforma da organização, governação e prestação do setor público, o Programa do XXIV Governo Constitucional prevê a «agregação, aquisição e desenvolvimento de centros de competência de excelência». Por sua vez, o Plano de Recuperação e Resiliência inclui na componente 19 uma reforma funcional e orgânica da Administração Pública (TD-r35) que autonomiza os serviços de suporte, isto é, aqueles que prestam serviços para o Estado, e que podem ser serviços comuns ou serviços partilhados.
 
-Neste contexto, foi aprovado o [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, no qual se estabelece a reestruturação da ESPAP, I. P., com o alargamento do seu âmbito de atividade, serviços e intervenção.
+Neste contexto, foi aprovado o Decreto-Lei n.º 43-B/2024, de 2 de julho, no qual se estabelece a reestruturação da ESPAP, I. P., com o alargamento do seu âmbito de atividade, serviços e intervenção.
 
 Cumprindo estes objetivos, o presente decreto-lei procede à alteração da orgânica da ESPAP, I. P., que incorpora as atribuições e competências a transferir para esta entidade, no âmbito dos processos de fusão e reestruturação das secretarias-gerais, relativamente aos serviços, entidades e estruturas que as integram, bem como, no caso da Secretaria-Geral da Presidência do Conselho de Ministros, das áreas governativas a que presta apoio, nas seguintes matérias: assegurar as funções de unidade ministerial de compras, o processamento de remunerações e outros abonos, a prestação de serviços nos domínios da gestão dos recursos financeiros, a rede informática e demais infraestruturas tecnológicas de informação e comunicação, a aquisição de bens e serviços de acordo com o regime de contratação pública, e a gestão dos equipamentos.
 
@@ -157,17 +172,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º
+###### Artigo 1.º — Objeto
 
-Objeto
+O presente decreto-lei procede, no âmbito do processo de reestruturação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), previsto no Decreto-Lei n.º 43-B/2024, de 2 de julho, à segunda alteração ao Decreto-Lei n.º 117-A/2012, de 14 de junho, alterado pelo Decreto-Lei n.º 17/2024, de 29 de janeiro.
 
-O presente decreto-lei procede, no âmbito do processo de reestruturação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, à segunda alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, alterado pelo [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro.
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 117-A/2012, de 14 de junho
 
-Artigo 2.º
-
-Alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho
-
-Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 14.º e 17.º do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, na sua redação atual, passam a ter a seguinte redação:
+Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 14.º e 17.º do Decreto-Lei n.º 117-A/2012, de 14 de junho, na sua redação atual, passam a ter a seguinte redação:
 
 «Artigo 1.º
 
@@ -291,7 +302,7 @@ Artigo 7.º
 
 [...]
 
-1 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras (CIC), mantendo articulação com o Fórum da Administração Pública, previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, cuja presidência é assegurada pelo presidente do conselho diretivo da ESPAP, I. P., ou por quem este designar.
+1 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras (CIC), mantendo articulação com o Fórum da Administração Pública, previsto no Decreto-Lei n.º 43-B/2024, de 2 de julho, cuja presidência é assegurada pelo presidente do conselho diretivo da ESPAP, I. P., ou por quem este designar.
 
 2 - A CIC é integrada, por inerência, pelo diretor-geral do Orçamento, pelo secretário-geral do Governo, pelos secretários-gerais dos Ministérios dos Negócios Estrangeiros, da Defesa Nacional e da Administração Interna e por um representante a indicar por cada área governativa.
 
@@ -311,7 +322,7 @@ Artigo 8.º
 
 [...]
 
-A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
+A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.
 
 Artigo 14.º
 
@@ -365,33 +376,29 @@ k) Secretarias-Gerais dos Negócios Estrangeiros, da Defesa Nacional e da Admini
 
 4 - [...]»
 
-Artigo 3.º
-
-Trabalhadores com relação jurídica de emprego público
+###### Artigo 3.º — Trabalhadores com relação jurídica de emprego público
 
 1 - Aos trabalhadores com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, pertençam ao mapa de pessoal da ESPAP, I. P., ou que venham a integrá-lo na sequência da reafetação de pessoal decorrente dos processos de fusão e reestruturação das secretarias-gerais é garantida a manutenção integral do seu estatuto jurídico.
 
 2 - Os trabalhadores a que se refere o número anterior integram o mapa de pessoal da ESPAP, I. P., que se mantém com caráter residual, exclusivamente para efeitos de desenvolvimento da carreira daqueles trabalhadores, sendo os respetivos postos de trabalho a extinguir quando vagarem, da base para o topo.
 
-Artigo 4.º
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
-Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
+###### Artigo 4.º — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
 
 Aos trabalhadores em cedência de interesse público na ESPAP, I. P., à data da entrada em vigor do presente decreto-lei, incluindo o pessoal reafeto a esta entidade na sequência dos processos de fusão e reestruturação das secretarias-gerais, continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo-se as cedências de interesse público até ao seu termo.
 
-Artigo 5.º
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
-Comissões de serviço de cargos dirigentes
+###### Artigo 5.º — Comissões de serviço de cargos dirigentes
 
-No âmbito do processo de reestruturação da ESPAP, I. P., a que refere o presente decreto-lei, às comissões de serviço dos cargos dirigentes não se aplica o disposto no artigo 10.º do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, mantendo-se pela duração remanescente.
+No âmbito do processo de reestruturação da ESPAP, I. P., a que refere o presente decreto-lei, às comissões de serviço dos cargos dirigentes não se aplica o disposto no artigo 10.º do Decreto-Lei n.º 43-B/2024, de 2 de julho, mantendo-se pela duração remanescente.
 
-Artigo 6.º
-
-Entrada em vigor e produção de efeitos
+###### Artigo 6.º — Entrada em vigor e produção de efeitos
 
 1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de novembro de 2024, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente decreto-lei.
 
-2 - O disposto no n.º 7 do artigo 3.º do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, na redação introduzida pelo presente decreto-lei, produz efeitos a 1 de junho de 2025.
+2 - O disposto no n.º 7 do artigo 3.º do Decreto-Lei n.º 117-A/2012, de 14 de junho, na redação introduzida pelo presente decreto-lei, produz efeitos a 1 de junho de 2025.
 
 Visto e aprovado em Conselho de Ministros de 29 de outubro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro.
 

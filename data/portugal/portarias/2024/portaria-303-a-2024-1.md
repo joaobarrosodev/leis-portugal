@@ -45,17 +45,29 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-08-01'
+  consolidation_date: '2026-09-09'
 version_history:
   file: portaria-303-a-2024-1.versoes.json
-  count: 1
-  source_lastmod: '2026-08-03'
+  count: 2
+  source_lastmod: '2026-11-10'
   versions:
   - date: '2026-08-01'
     amending: pt:dre:1153698652:por
     amending_title: Portaria n.º 320-C/2026/1
     changes:
-    - Altera Artigo 5
+    - Altera Artigo 5.º
+  - date: '2026-09-09'
+    amending: pt:dre:1167945131:por
+    amending_title: Portaria n.º 426/2026/1
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Anexo III
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/303-a/2024/11/26/p/dre/pt/html
@@ -70,19 +82,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303-a/2024/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-938020064
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-938020064
-  retrieved_at: '2026-10-22T13:47:45Z'
+  retrieved_at: '2026-11-20T13:50:50Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-08-03T00:00:00Z'
+  source_modified_at: '2026-11-10T00:00:00Z'
 integrity:
-  source_sha256: e24829d997dfdc45338ebb7157a709c550c4bfaf90336127d7a1c171ad795e8f
+  source_sha256: d858aa1353749614a807339d912f3b7f9366b3d1feb35eca111ca20bcbfc5cb5
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:47:45Z'
-  notes: 1 versão(ões); histórico completo em portaria-303-a-2024-1.versoes.json.
+  generated_at: '2026-11-20T13:50:50Z'
+  notes: 2 versão(ões); histórico completo em portaria-303-a-2024-1.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,6 +123,12 @@ relationships:
   label: Altera Artigo 5
   source: https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652
   date: '2026-07-31'
+- type: amended_by
+  target: pt:dre:1167945131:por
+  label: Altera Artigo 5.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 18.º; Altera Artigo
+    21.º; Altera Artigo 23.º; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131
+  date: '2026-09-08'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -144,7 +162,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:47:45Z'
+  checked_at: '2026-11-20T13:50:50Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +237,7 @@ a) As pessoas singulares que sejam jovens agricultores na aceção da alínea d)
 
 b) As pessoas coletivas que revistam a forma de sociedade por quotas e com a atividade agrícola no seu objeto social, desde que todos os sócios-gerentes sejam jovens agricultores, que detenham a maioria do capital social e uma participação individual superior a 25 %.
 
-###### Artigo 5 — Critérios de elegibilidade dos beneficiários
+###### Artigo 5.º — Critérios de elegibilidade dos beneficiários
 
 1 - Nos termos do disposto no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os candidatos aos apoios previstos na presente portaria devem reunir as seguintes condições:
 
@@ -237,7 +255,7 @@ a) Possuírem registo e declaração do beneficiário efetivo devidamente atuali
 
 b) Não terem sido condenados em processos-crime por factos que envolvam disponibilidades financeiras no âmbito dos fundos europeus;
 
-c) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, bem como assegurar a identificação dos polígonos de investimento e respetivas infraestruturas;
+c) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, bem como assegurar a identificação dos polígonos de investimento;
 
 d) Possuírem formação agrícola adequada, nos termos do artigo seguinte;
 
@@ -249,7 +267,7 @@ g) Não terem recebido quaisquer ajudas aos investimentos no setor agrícola, ne
 
 h) Apresentar um plano de negócios, nos termos do disposto no n.º 1 do artigo 8.º, com a duração de cinco anos.
 
-3 - No caso de candidaturas apresentadas por pessoas coletivas, os sócios-gerentes devem reunir individualmente as condições previstas nas alíneas b), d) e e) do número anterior.
+3 - No caso de candidaturas apresentadas por pessoas coletivas, os sócios-gerentes devem reunir individualmente as condições previstas nas alíneas b), d), e) e f) do número anterior.
 
 4 - As condições previstas nas alíneas a), c) e d) do n.º 1 e nas alíneas b), e), f) e g) do n.º 2 do presente artigo devem encontrar-se cumpridas à data de submissão da candidatura.
 
@@ -261,7 +279,7 @@ h) Apresentar um plano de negócios, nos termos do disposto no n.º 1 do artigo 
 
 a) Declaração de início de atividade;
 
-b) Licenciamento pecuário, ou demonstração de que a exploração se encontra em processo de licenciamento, no âmbito do Regime de Exercício da Atividade Pecuária (NREAP), incluindo o Plano de Gestão de Efluentes Pecuários (PGEP), para explorações em que seja desenvolvida a atividade;
+b) Licenciamento pecuário, ou demonstração de que a exploração se encontra em processo de licenciamento, no âmbito do novo regime de exercício da atividade pecuária (NREAP), para explorações em que seja desenvolvida a atividade;
 
 c) Título de utilização dos recursos hídricos (TURH), para captações de água existentes na exploração;
 
@@ -270,6 +288,10 @@ d) Registo vitícola (RV) atualizado, quando seja desenvolvida a atividade de pr
 8 - As condições previstas nas alíneas a) e c) n.º 2 do presente artigo, devem encontrar-se cumpridas até à data de assinatura do termo de aceitação, quando o candidato não tenha desenvolvido qualquer atividade agrícola.
 
 9 - A condição prevista na alínea g) do n.º 2 não é aplicável a candidaturas que tenham sido aprovadas nos 24 meses anteriores à submissão da candidatura no âmbito do domínio B.3, «Programa Nacional para Apoio ao Setor da Vitivinicultura», do eixo B, «Abordagem sectorial integrada».
+
+> Nota: [Artigo 25.º, Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131) A alteração ao n.º 2 do presente artigo produz os seus efeitos a 27 de novembro de 2024.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09.
 
 > Alterado pelo/a Artigo 4.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2024-11-27.
 
@@ -381,17 +403,19 @@ b) Custos unitários.
 
 3 - A forma do apoio a conceder é definida no aviso para apresentação de candidaturas.
 
-4 - Caso os apoios assumam a forma de custos unitários, são publicitados em anexo ao respetivo aviso para apresentação de candidaturas.
+4 - Caso os apoios assumam a forma de custos unitários, são publicitados em anexo ao respetivo aviso para apresentação de candidaturas ou à orientação técnica da respetiva intervenção ou tipologia.
 
 5 - Os níveis e limites do apoio a conceder constam do anexo ii à presente portaria, de que faz parte integrante.
 
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.
+
 ###### Artigo 12.º — Critérios de elegibilidade das operações
 
-1 - Podem beneficiar dos apoios previstos no presente capítulo as operações que se enquadrem nos objetivos específicos do artigo 2.º, que tenham um investimento superior a 25 000 euros, e que reúnam as seguintes condições:
+1 - Podem beneficiar dos apoios previstos no presente capítulo as operações que se enquadrem nos objetivos específicos do artigo 2.º, que tenham um investimento total igual ou superior a 25 000 euros, e que reúnam as seguintes condições:
 
-a) Tenham início após a data definida no aviso para apresentação das candidaturas;
+a) [Revogada.]
 
-b) Não se encontrem materialmente concluídas nem totalmente executadas, nos termos do disposto na alínea e) do artigo 3.º da presente portaria;
+b) Não se encontrem materialmente concluídas nem totalmente executadas, nos termos do disposto na alínea e) do artigo 3.º da presente portaria, à data da submissão da candidatura;
 
 c) Evidenciem viabilidade económica e financeira, medida através do valor atualizado líquido (VAL), tendo a atualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu, em vigor à data de início de apresentação das candidaturas constante do respetivo aviso;
 
@@ -401,7 +425,7 @@ e) Cumpram as disposições legais aplicáveis aos investimentos propostos, desi
 
 f) Não contemplem investimentos cuja decisão ainda se encontre pendente, ou que já tenham sido aprovados ou financiados ao abrigo do FEADER, bem como ao abrigo de outros fundos europeus, exceto nas situações em que tenha sido apresentada desistência.
 
-2 - O critério de elegibilidade previsto na alínea b) do número anterior não é aplicável a investimentos de natureza ambiental.
+2 - O critério de elegibilidade previsto na alínea c) do número anterior não é aplicável a investimentos de natureza ambiental.
 
 3 - Podem beneficiar dos apoios previstos no presente capítulo os projetos de investimento em regadio que, além dos requisitos referidos nos números anteriores, preencham as seguintes condições:
 
@@ -413,7 +437,9 @@ b) Existência ou instalação, ao abrigo do investimento, de contadores de medi
 
 5 - Caso o investimento tenha incidência em massas de águas subterrâneas ou de superfície cujo estado tenha sido identificado como inferior a bom no plano de gestão de bacia hidrográfica por motivos ligados à quantidade de água, deve ser alcançada uma redução efetiva do consumo de água de 5 % que contribua para assegurar um bom estado dessas massas de água.
 
-6 - As condições previstas nos n.<sup>os </sup>4 e 5 não se aplicam a investimentos em instalações existentes que incidam unicamente na eficiência energética, a investimentos na criação de um reservatório nem a investimentos na utilização de água para reutilização que não tenham incidência em massas de águas subterrâneas ou de superfície.
+6 - As condições previstas nos n.os 4 e 5 não se aplicam a investimentos em instalações existentes que incidam unicamente na eficiência energética, a investimentos na criação de um reservatório nem a investimentos na utilização de água para reutilização que não tenham incidência em massas de águas subterrâneas ou de superfície.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.
 
 ###### Artigo 13.º — Despesas elegíveis e não elegíveis
 
@@ -421,7 +447,9 @@ b) Existência ou instalação, ao abrigo do investimento, de contadores de medi
 
 2 - A elegibilidade temporal é definida no aviso para apresentação de candidaturas, não podendo ser anterior a 1 de janeiro de 2023, e desde que a operação não se encontre materialmente concluída nem totalmente executada, nos termos do disposto na alínea e) do artigo 3.º
 
-3 - As despesas realizadas em data anterior à submissão da candidatura, nos termos do número anterior, são elegíveis quando apresentadas no primeiro pedido de pagamento, no prazo máximo de 60 dias a contar da data de assinatura do termo de aceitação.
+3 - As despesas realizadas em data anterior à submissão da candidatura, nos termos do número anterior, são elegíveis quando apresentadas no primeiro pedido de pagamento, no prazo máximo de 60 dias a contar da data de assinatura do termo de aceitação, ainda que tenha sido apresentado pedido de pagamento a título de adiantamento anterior.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.
 
 ### Capítulo IV — PROCEDIMENTO
 
@@ -513,11 +541,15 @@ b) Cumprir o plano de negócios, nos termos e condições aprovados;
 
 c) Manter a titularidade das parcelas identificadas no plano de negócios e o respetivo registo atualizado no Sistema de Informação Parcelar (SIP), durante o período de cinco anos a contar da data de liquidação do último pagamento do prémio;
 
-d) Manter, durante o período de cinco anos a contar da data liquidação do último pagamento do prémio, as condições previstas na alínea b) do artigo 4.º, nomeadamente as relativas à detenção do capital social.
+d) Manter, durante o período de cinco anos a contar da data liquidação do último pagamento do prémio, as condições previstas na alínea b) do artigo 4.º, nomeadamente as relativas à detenção do capital social;
+
+e) Iniciar a instalação em regime de exclusividade até 12 meses após a data de submissão eletrónica e autenticação do termo de aceitação, quando tenha optado pelo regime de exclusividade;
+
+f) Manter o regime de exclusividade até ao fim do período mínimo de cinco anos a contar da data de liquidação do último pedido de pagamento.
 
 3 - Além do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, referido no número anterior, os beneficiários dos apoios constantes no âmbito da tipologia C.2.2.2 «Investimento produtivo Jovens Agricultores» são, ainda, obrigados a:
 
-a) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento;
+a) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 8 do presente artigo;
 
 b) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;
 
@@ -525,15 +557,25 @@ c) Manter a situação tributária e contributiva regularizada perante a adminis
 
 d) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão;
 
-e) Não interromper a execução da operação por período superior a 90 dias seguidos;
+e) Comprovar a não interrupção da execução da operação por período superior a 90 dias seguidos através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 8 do presente artigo;
 
 f) Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no SIP, durante o período de cinco anos a contar da liquidação do último pagamento.
 
 4 - Para além do disposto nos números anteriores, os beneficiários devem manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados.
 
-5 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação das obrigações previstas nas alíneas a) e e) do n.º 3 do presente artigo.
+5 - O cumprimento da obrigação prevista na alínea e) do n.º 2 do presente artigo é aferido no último pedido de pagamento.
 
-6 - O incumprimento da obrigação prevista na alínea e) do n.º 3 constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+6 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação do prazo estabelecido nas alíneas a) e e) do n.º 3 do presente artigo.
+
+7 - Sem prejuízo do disposto no número anterior, o incumprimento das obrigações previstas nas alíneas a) e e) do n.º 3 constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+8 - No caso de operação inteiramente sujeita a custos unitários, as obrigações previstas nas alíneas a) e e) do n.º 3 são comprovadas através da submissão de pedido de pagamento ou da apresentação de fotografia digital georreferenciada e datada, recolhida dentro do prazo definido ou através da apresentação de documento comprovativo a definir em normativo específico.
+
+9 - Sem prejuízo do disposto no n.º 9 do artigo 21.º da presente portaria, o incumprimento do n.º 8 do mesmo artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+10 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.
 
 ###### Artigo 19.º — Execução das operações
 
@@ -567,15 +609,17 @@ f) Manter a titularidade das parcelas que intercetam o polígono de investimento
 
 9 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.
 
-10 - O disposto nos n.<sup>os</sup> 2, 3, 6 e 7 não é aplicável aos projetos exclusivamente aprovados com custos unitários, sendo o número máximo de pedidos de pagamento definidos no respetivo aviso para apresentação de candidaturas.
+10 - O disposto nos n.os 2, 3, 6 e 7 não é aplicável aos projetos exclusivamente aprovados com custos unitários, sendo o número máximo de pedidos de pagamento definidos no respetivo aviso para apresentação de candidaturas.
 
-11 - Em alternativa ao adiantamento previsto no n.º 4, podem ser apresentados pedidos de pagamento a título de adiantamento contra fatura, relativos a despesas elegíveis faturadas e não pagas.
+11 - [Revogado.]
 
-12 - Os adiantamentos contra fatura são regularizados no prazo de 30 dias úteis após o seu recebimento, mediante a apresentação do comprovativo do pagamento integral da despesa.
+12 - [Revogado.]
 
-13 - Em caso de incumprimento do disposto no número anterior, a regularização dos adiantamentos contra fatura implica a reposição do valor adiantado, no prazo de 30 dias úteis, vencendo-se juros de mora desde a data do pagamento.
+13 - [Revogado.]
 
 14 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09.
 
 ###### Artigo 22.º — Análise e decisão dos pedidos de pagamento
 
@@ -593,7 +637,9 @@ f) Manter a titularidade das parcelas que intercetam o polígono de investimento
 
 1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.
 
-2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida no termo de aceitação.
+2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida na alínea b) do n.º 3 do artigo 18.º
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.
 
 ###### Artigo 24.º — Controlo
 
@@ -670,30 +716,34 @@ Tipologia de Intervenção C.2.2.2, «Investimento produtivo Jovens Agricultores
 
 (a que se refere o n.º 2 do artigo 25.º)
 
-| Artigo 18.º | Obrigações dos beneficiários | Número<br>de incumprimentos verificados | Consequências do incumprimento |
-| --- | --- | --- | --- |
-| N.º 1, alínea a) | Executar as operações nos termos, condições e resultados aprovados | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |  |
-| N.º 1, alínea b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |  |
-| N.º 1, alínea c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 % |
-| N.º 1, alínea d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |
-| N.º 1, alínea e) | Manter as condições legais necessárias ao exercício da atividade | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |  |
-| N.º 1, alínea f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |
-| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |  |
-| N.º 1, alínea g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |
-| N.º 1, alínea h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenham delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |
-| N.º 1, alínea i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços | 1 | Redução do pagamento do apoio numa percentagem de 20 % sobre a despesa objeto de incumprimento |
-| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento |  |  |
-| N.º 2, alínea a) | Possuir formação de acordo com o previsto nos artigos 5.º e 6.º da presente portaria | Não aplicável | Devolução integral do apoio |
-| N.º 2, alínea b) | Cumprir o plano de negócios nos termos e condições aprovadas | Não aplicável | Execução física ou financeira que apresente divergência entre o previsto no plano de negócios e a execução efetivamente realizada, são aplicadas as seguintes reduções:a) 0,75 ≤ B/A < 100 = 0 %;b) 0,50 ≤ B/A < 0,75 = 15 %;c) 0,33 ≤ B/A < 0,50 = 25 %;d) B/A < 0,33 = 100 %.em que:A - corresponde ao montante do investimento proposto no plano de negócios;B - Corresponde ao montante do investimento executado do plano de negócios. |
-| N.º 2, alínea c) | Manter a titularidade das parcelas identificadas no plano de negócios e o respetivo registo atualizado no Sistema de Informação Parcelar (SIP), durante o período de cinco anos a contar da data de liquidação do último pagamento do prémio | Não aplicável | Devolução integral do apoio |
-| N.º 2, alínea d) | Manter, durante o período de cinco anos a contar da data liquidação do último pagamento do prémio, as condições previstas na alínea b) do artigo 4.º, nomeadamente as relativas à detenção do capital social, caso se trate de pessoa coletiva | Não aplicável | Devolução integral do apoio |
-| N.º 3, alínea a) | Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento | 1 | Redução do pagamento do apoio, numa percentagem de 15 % |
-| N.º 3, alínea b) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas |
-| N.º 3, alínea d) | Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados |
-| N.º 3, alínea f) | Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no Sistema de Informação Parcelar, durante o período de cinco anos a contar da liquidação do último pagamento | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados |
-| N.º 4 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso |
+| Artigo 18.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |  |
+| --- | --- | --- | --- | --- |
+| N.º 1, alínea a) | Executar as operações nos termos, condições e resultados aprovados | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |  |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |
+| N.º 1, alínea b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |  |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |
+| N.º 1, alínea c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 % |  |
+| N.º 1, alínea d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |  |
+| N.º 1, alínea e) | Manter as condições legais necessárias ao exercício da atividade | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |  |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |
+| N.º 1, alínea f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |  |
+|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |
+| N.º 1, alínea g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |  |
+| N.º 1, alínea h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 % |  |
+| N.º 1, alínea i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços | 1 | Redução do pagamento do apoio numa percentagem de 20 % sobre a despesa objeto de incumprimento |  |
+| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento |  |  |  |
+| N.º 2, alínea a) | Possuir formação de acordo com o previsto nos artigos 5.º e 6.º da presente portaria | Não aplicável | Devolução integral do apoio |  |
+| N.º 2, alínea b) | Cumprir o plano de negócios nos termos e condições aprovadas | Não aplicável | Execução física ou financeira que apresente divergência entre o previsto no plano de negócios e a execução efetivamente realizada, são aplicadas as seguintes reduções:<br>a) 0,75 ≤ B/A < 100 = 0 %;<br>b) 0,50 ≤ B/A < 0,75 = 15 %;<br>c) 0,33 ≤ B/A < 0,50 = 25 %;<br>d) B/A < 0,33 = 100 %.<br>em que:<br>A - corresponde ao montante do investimento proposto no plano de negócios;<br>B - Corresponde ao montante do investimento executado do plano de negócios. |  |
+| N.º 2, alínea c) | Manter a titularidade das parcelas identificadas no plano de negócios e o respetivo registo atualizado no Sistema de Informação Parcelar (SIP), durante o período de cinco anos a contar da data de liquidação do último pagamento do prémio | Não aplicável | Devolução integral do apoio |  |
+| N.º 2, alínea d) | Manter, durante o período de cinco anos a contar da data liquidação do último pagamento do prémio, as condições previstas na alínea b) do artigo 4.º, nomeadamente as relativas à detenção do capital social, caso se trate de pessoa coletiva | Não aplicável | Devolução integral do apoio |  |
+| N.º 2, alínea e) | Iniciar a instalação em regime de exclusividade até 12 meses após a data de submissão eletrónica e autenticação do termo de aceitação, quando tenha optado pelo regime de exclusividade; | Não aplicável | Exclusão dos pagamentos dos apoios a realizar relativos à respetiva majoração |  |
+| N.º 2, alínea f) | Manter o regime de exclusividade até ao fim do período mínimo de cinco anos a contar da data de liquidação do último pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados relativos à respetiva majoração |  |
+| [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] |  |
+| N.º 3, alínea b) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas |  |
+| N.º 3, alínea d) | Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados |  |
+| N.º 3, alínea f) | Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no Sistema de Informação Parcelar, durante o período de cinco anos a contar da liquidação do último pagamento | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados |  |
+| N.º 4 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso |  |
 
-118393387
+> Nota: [Artigo 25.º, Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131) As alterações introduzidas ao presente anexo produzem efeitos a partir de 27 de novembro de 2024, com exceção daquelas que incidiram sobre as alíneas e) e f) do n.º 2.
+
+> Alterado pelo/a Anexo IV do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2024-11-27.

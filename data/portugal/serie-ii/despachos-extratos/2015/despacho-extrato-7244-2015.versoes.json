@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67641534:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2015-1194725175",
+ "dre_path": "/dr/detalhe/despacho-extrato/7244-2015-67641534",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2015-07-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194727975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194727975": {
+   "fragment_id": "1194725275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por meu despacho de 22 de junho de 2015, foi concedida ao assistente técnico Gilberto Fernandes Paulo, licença sem remuneração, a seu pedido, por um período de 24 meses, nos termos dos artigos 280.º e 281.º da Lei n.º 35/2014, de 20 de junho, com efeitos a partir de 11 de junho de 2015."
+  }
+ }
+}

@@ -3,7 +3,7 @@
  "id": "pt:dre:248178:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475",
  "dre_path": "/dr/detalhe/decreto-lei/18-2008-248178",
- "source_lastmod": "2026-09-11",
+ "source_lastmod": "2026-11-11",
  "versions": [
   {
    "date": "2008-01-29",
@@ -5241,10 +5241,12 @@
     "Altera Artigo 34.º",
     "Altera Artigo 35.º",
     "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
     "Altera Artigo 39.º",
     "Altera Artigo 40.º",
     "Altera Artigo 42.º",
     "Altera Artigo 43.º",
+    "Altera Artigo 45.º",
     "Altera Artigo 47.º",
     "Altera Artigo 49.º",
     "Altera Artigo 50.º",
@@ -5351,6 +5353,10 @@
     "Altera Artigo 319.º",
     "Altera Artigo 329.º",
     "Altera Artigo 338.º",
+    "Altera Artigo 339.º",
+    "Altera Artigo 340.º",
+    "Altera Artigo 341.º",
+    "Altera Artigo 342.º",
     "Altera Artigo 348.º",
     "Altera Artigo 354.º",
     "Altera Artigo 357.º",
@@ -5362,6 +5368,8 @@
     "Altera Artigo 380.º",
     "Altera Artigo 381.º",
     "Altera Artigo 384.º",
+    "Altera Artigo 405.º",
+    "Altera Artigo 406.º",
     "Altera Artigo 410.º",
     "Altera Artigo 413.º",
     "Altera Artigo 429.º",
@@ -5502,7 +5510,7 @@
     "125057128",
     "44667675",
     "108090653",
-    "44667875",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -5511,7 +5519,7 @@
     "108090656",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -5912,11 +5920,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "44749775",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -5995,8 +6003,8 @@
     "44757575",
     "44757675",
     "44757775",
-    "44757875",
-    "44757975",
+    "1192525475",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -6199,7 +6207,7 @@
     "125057128",
     "44667675",
     "108090653",
-    "44667875",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -6208,7 +6216,7 @@
     "108090656",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -6609,11 +6617,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "44749775",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -6692,8 +6700,8 @@
     "44757575",
     "44757675",
     "44757775",
-    "44757875",
-    "44757975",
+    "1192525475",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -6809,9 +6817,7 @@
     }
    ],
    "changes": [
-    "Altera Artigo 37.º",
-    "Altera Artigo 109.º",
-    "Altera Artigo 340.º"
+    "Altera Artigo 109.º"
    ],
    "fragments": [
     "56360139",
@@ -6895,7 +6901,7 @@
     "125057128",
     "44667675",
     "108090653",
-    "126878507",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -6904,7 +6910,7 @@
     "108090656",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -7305,11 +7311,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "126878509",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -7388,8 +7394,8 @@
     "44757575",
     "44757675",
     "44757775",
-    "44757875",
-    "44757975",
+    "1192525475",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -7505,9 +7511,7 @@
     }
    ],
    "changes": [
-    "Altera Artigo 37.º",
-    "Altera Artigo 109.º",
-    "Altera Artigo 340.º"
+    "Altera Artigo 109.º"
    ],
    "fragments": [
     "56360139",
@@ -7591,7 +7595,7 @@
     "125057128",
     "44667675",
     "108090653",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -7600,7 +7604,7 @@
     "108090656",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -8001,11 +8005,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -8084,8 +8088,8 @@
     "44757575",
     "44757675",
     "44757775",
-    "44757875",
-    "44757975",
+    "1192525475",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -8380,7 +8384,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -8389,7 +8393,7 @@
     "163851606",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -8791,11 +8795,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -8834,7 +8838,7 @@
     "44753475",
     "163851660",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -8875,8 +8879,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -9077,7 +9081,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -9086,7 +9090,7 @@
     "163851606",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -9488,11 +9492,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -9531,7 +9535,7 @@
     "44753475",
     "163851660",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -9572,8 +9576,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -9790,7 +9794,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -9799,7 +9803,7 @@
     "203101146",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -10202,11 +10206,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -10245,7 +10249,7 @@
     "44753475",
     "203101140",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -10286,8 +10290,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -10490,7 +10494,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -10499,7 +10503,7 @@
     "203101146",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -10902,11 +10906,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -10945,7 +10949,7 @@
     "44753475",
     "203101140",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -10986,8 +10990,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -11189,7 +11193,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -11198,7 +11202,7 @@
     "203101146",
     "108090657",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -11601,11 +11605,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -11644,7 +11648,7 @@
     "44753475",
     "203101140",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -11685,8 +11689,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -11888,7 +11892,7 @@
     "125057128",
     "44667675",
     "163851604",
-    "130402256",
+    "1192529175",
     "44667975",
     "108090654",
     "44668175",
@@ -11897,7 +11901,7 @@
     "203101146",
     "942141001",
     "56360157",
-    "44668775",
+    "1192529475",
     "44668875",
     "108092947",
     "108090658",
@@ -12300,11 +12304,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -12343,7 +12347,7 @@
     "44753475",
     "203101140",
     "143857650",
-    "163851661",
+    "1194873875",
     "163851662",
     "44753975",
     "44754075",
@@ -12384,8 +12388,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "163851666",
-    "44757975",
+    "1194901975",
+    "1192528675",
     "44758075",
     "44758175",
     "44758275",
@@ -12569,7 +12573,6 @@
     "Altera Artigo 34.º",
     "Altera Artigo 35.º-A",
     "Altera Artigo 36.º",
-    "Altera Artigo 37.º",
     "Altera Artigo 39.º",
     "Altera Artigo 42.º",
     "Altera Artigo 43.º",
@@ -12812,7 +12815,7 @@
     "1167938575",
     "44667675",
     "1167747775",
-    "1167747975",
+    "1192529175",
     "44667975",
     "1167748175",
     "44668175",
@@ -12822,7 +12825,7 @@
     "1167748575",
     "1167940175",
     "1167940375",
-    "1167940475",
+    "1192529475",
     "1167940575",
     "1167940675",
     "1167940775",
@@ -13242,11 +13245,11 @@
     "44749275",
     "44749375",
     "108099658",
-    "44749575",
-    "44749675",
-    "130402258",
-    "44749875",
-    "44749975",
+    "1192530175",
+    "1192527175",
+    "1192531375",
+    "1192534075",
+    "1192535575",
     "44750075",
     "44750175",
     "44750275",
@@ -13286,7 +13289,7 @@
     "1167768575",
     "1167948875",
     "1167949075",
-    "1167949175",
+    "1194875975",
     "1167949275",
     "1167949375",
     "1167949475",
@@ -13329,8 +13332,8 @@
     "163851665",
     "44757675",
     "44757775",
-    "1167769975",
-    "44757975",
+    "1194909675",
+    "1192528675",
     "1167960575",
     "44758175",
     "1167770175",
@@ -19743,6 +19746,16 @@
    ],
    "markdown": "###### Artigo 36.º — Decisão de contratar e decisão de autorização da despesa\n\n1 - O procedimento de formação de qualquer contrato inicia-se com a decisão de contratar, a qual deve ser fundamentada e cabe ao órgão competente para autorizar a despesa inerente ao contrato a celebrar, podendo essa decisão estar implícita nesta última.\n\n2 - Quando o contrato a celebrar não implique o pagamento de um preço pela entidade adjudicante, a decisão de contratar cabe ao órgão desta que for competente para o efeito nos termos da respectiva lei orgânica ou dos seus estatutos.\n\n3 - Quando o valor do contrato for igual ou superior a (euro) 5 000 000, a fundamentação prevista no n.º 1 deve basear-se numa avaliação de custo/benefício e deve conter, nomeadamente e quando aplicável:\n\na) A identificação do tipo de beneficiários do contrato a celebrar;\n\nb) A taxa prevista de utilização da infraestrutura, serviço ou bem;\n\nc) A análise da rentabilidade;\n\nd) Os custos de manutenção;\n\ne) A avaliação dos riscos potenciais e formas de mitigação dos mesmos;\n\nf) O impacto previsível para a melhoria da organização;\n\ng) O impacto previsível no desenvolvimento ou na reconversão do país ou da região coberta pelo investimento.\n\n4 - Quando o tipo de procedimento utilizado seja a parceria para a inovação, o limiar referido no número anterior é de (euro) 2 500 000.\n\n5 - As peças do procedimento devem identificar todos os pareceres prévios, licenciamentos e autorizações necessárias que possam condicionar o procedimento e a execução do contrato.\n\n6 - O disposto nos números anteriores não prejudica a aplicação de regimes especiais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
   },
+  "1192529175": {
+   "fragment_id": "41129175",
+   "type": 11,
+   "heading": "Artigo 37.º — Decisão de contratar nas parcerias público-privadas",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 37.º — Decisão de contratar nas parcerias público-privadas\n\nQuando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela sectorial, consoante o caso.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
   "108090654": {
    "fragment_id": "41129375",
    "type": 11,
@@ -19786,6 +19799,16 @@
     "Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30"
    ],
    "markdown": "###### Artigo 43.º — Caderno de encargos do procedimento de formação de contratos de empreitada\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.\n\n2 - Quando a obra seja classificada, nos termos da portaria prevista no n.º 7, na categoria iii ou superior, bem como naqueles casos em que o preço base, fixado no caderno de encargos, seja enquadrável na classe 3 de alvará ou em classe superior, o projeto de execução referido no número anterior deve ser objeto de prévia revisão por entidade devidamente qualificada para a sua elaboração, distinta do autor do mesmo.\n\n3 - Em casos excecionais devidamente fundamentados, nos quais o adjudicatário deva assumir, nos termos do caderno de encargos, obrigações de resultado relativas à utilização da obra a realizar, ou nos quais a complexidade técnica do processo construtivo da obra a realizar requeira, em razão da tecnicidade própria dos concorrentes, a especial ligação destes à conceção daquela, a entidade adjudicante pode prever, como aspeto da execução do contrato a celebrar, a elaboração do projeto de execução, caso em que o caderno de encargos deve ser integrado apenas por um programa preliminar.\n\n4 - Em qualquer dos casos previstos nos números anteriores, o projecto de execução deve ser acompanhado de:\n\na) Uma descrição dos trabalhos preparatórios ou acessórios, tal como previstos no artigo 350.º;\n\nb) Uma lista completa de todas as espécies de trabalhos necessárias à execução da obra a realizar e do respectivo mapa de quantidades.\n\n5 - Em qualquer dos casos previstos nos n.os 1 a 3, o projeto de execução deve ser acompanhado, para além dos demais elementos legalmente exigíveis, dos que, em função das características específicas da obra, se justifiquem, nomeadamente:\n\na) Dos levantamentos e das análises de base e de campo;\n\nb) Dos estudos geológicos e geotécnicos;\n\nc) Dos estudos ambientais, incluindo a declaração de impacto ambiental, nos termos da legislação aplicável;\n\nd) Dos estudos de impacte social, económico ou cultural, nestes se incluindo a identificação das medidas de natureza expropriatória a realizar, dos bens e direitos a adquirir e dos ónus e servidões a impor;\n\ne) Dos resultados dos ensaios laboratoriais ou outros;\n\nf) Do plano de prevenção e gestão de resíduos de construção e demolição, nos termos da legislação aplicável.\n\n6 - No caso previsto no n.º 1, o projecto de execução deve ainda ser acompanhado do planeamento das operações de consignação, seja esta total ou parcial nos termos do disposto nos artigos 358.º e 359.º\n\n7 - O conteúdo obrigatório dos elementos referidos nos n.os 1 e 3 é fixado por portaria do ministro responsável pela área das obras públicas.\n\n8 - O caderno de encargos é nulo quando:\n\na) Não seja integrado pelo projeto de execução previsto no n.º 1 ou pelo programa preliminar previsto na parte final do n.º 3;\n\nb) Seja elaborado em violação do disposto no n.º 2;\n\nc) O projecto de execução nele integrado não esteja acompanhado dos elementos previstos no n.º 5;\n\nd) Os elementos da solução da obra nele integrados não observem o conteúdo obrigatório previsto na portaria referida no número anterior.\n\n9 - A nulidade prevista no número anterior é suscetível de sanação, nos termos do disposto no n.º 2 do artigo 164.º do Código do Procedimento Administrativo.\n\n10 - Para efeitos do disposto no número anterior, considera-se sanada a nulidade nas seguintes situações:\n\na) Se, verificado o vício antes de decorrido o prazo para apresentação de propostas, a entidade adjudicante proceder à junção dos elementos em falta, no prazo de cinco dias, sendo prorrogado o prazo para apresentação de propostas, nos termos do artigo 64.º;\n\nb) Se, no prazo de cinco dias após notificação para, querendo, sanar a nulidade, o contraente público proceder à junção dos elementos em falta, desde que não alterem os pressupostos em que assentou a elaboração da proposta do adjudicatário;\n\nc) Se, no prazo de cinco dias após notificação para, querendo, sanar a nulidade, o contraente público apresentar as razões que justificam a não exigência dos elementos previstos no n.º 5.\n\n11 - No caso previsto n.º 3, o contrato a celebrar não é considerado um contrato misto para os efeitos do disposto no artigo 32.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2012-179776), em vigor a partir de 2012-08-11\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30"
+  },
+  "1192529475": {
+   "fragment_id": "41129975",
+   "type": 11,
+   "heading": "Artigo 45.º — Caderno de encargos das parcerias público-privadas",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 45.º — Caderno de encargos das parcerias público-privadas\n\nOs cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias público-privadas devem submeter à concorrência os aspetos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela direta ou indiretamente afetos decorrentes da configuração do modelo contratual.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "108092947": {
    "fragment_id": "108092606",
@@ -21323,22 +21346,22 @@
   "108099636": {
    "fragment_id": "41142775",
    "type": 11,
-   "heading": "Artigo 258.º — Celebração de contratos ao abrigo de acordos quadro cujos termos abranjam todos os seus aspectos submetidos à concorrência",
+   "heading": "Artigo 258.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos abranjam todos os seus aspetos submetidos à concorrência",
    "in_force_from": "2018-01-01",
    "changed_by": [
     "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 258.º — Celebração de contratos ao abrigo de acordos quadro cujos termos abranjam todos os seus aspectos submetidos à concorrência\n\n1 - Deve adoptar-se o ajuste directo para a formação de contratos a celebrar ao abrigo de acordos quadro celebrados na modalidade prevista na alínea a) do n.º 1 do artigo 252.º\n\n2 - Quando exista mais do que um cocontratante no acordo-quadro, o adjudicatário é selecionado de acordo com os critérios objetivos estabelecidos no caderno de encargos do acordo-quadro, não havendo reabertura da concorrência.\n\n3 - O conteúdo dos contratos a que se refere o n.º 1 deve corresponder às condições contratuais estabelecidas no acordo-quadro, não sendo necessária a elaboração de um caderno de encargos.\n\n4 - Caso tal se revele necessário, a entidade adjudicante pode solicitar ao cocontratante do acordo-quadro que pormenorize aspetos constantes da sua proposta.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   "markdown": "###### Artigo 258.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos abranjam todos os seus aspetos submetidos à concorrência\n\n1 - Deve adotar-se o ajuste direto para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea a) do n.º 1 do artigo 252.º\n\n2 - Quando exista mais do que um cocontratante no acordo-quadro, o adjudicatário é selecionado de acordo com os critérios objetivos estabelecidos no caderno de encargos do acordo-quadro, não havendo reabertura da concorrência.\n\n3 - O conteúdo dos contratos a que se refere o n.º 1 deve corresponder às condições contratuais estabelecidas no acordo-quadro, não sendo necessária a elaboração de um caderno de encargos.\n\n4 - Caso tal se revele necessário, a entidade adjudicante pode solicitar ao cocontratante do acordo-quadro que pormenorize aspetos constantes da sua proposta.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "108099637": {
    "fragment_id": "41142875",
    "type": 11,
-   "heading": "Artigo 259.º — Celebração de contratos ao abrigo de acordos quadro cujos termos não abranjam todos os seus aspectos submetidos à concorrência",
+   "heading": "Artigo 259.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos não abranjam todos os seus aspetos submetidos à concorrência",
    "in_force_from": "2018-01-01",
    "changed_by": [
     "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 259.º — Celebração de contratos ao abrigo de acordos quadro cujos termos não abranjam todos os seus aspectos submetidos à concorrência\n\n1 - Deve adotar-se o procedimento de consulta prévia para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea b) do n.º 1 do artigo 252.º\n\n2 - O caderno de encargos do acordo-quadro deve prever as regras quanto aos cocontratantes a convidar em cada procedimento, designadamente em função do lote, se existente, ou do valor do contrato a celebrar.\n\n3 - Quando o caderno de encargos do acordo-quadro preveja que a adjudicação da proposta seja determinada apenas com base no preço ou custo e a aquisição seja realizada através de sistemas de informação disponibilizados pela própria entidade adjudicante, ficam dispensadas outras formalidades previstas no presente Código, designadamente a elaboração de relatórios preliminar e final e audiência prévia.\n\n4 - A entidade adjudicante deve convidar os cocontratantes do acordo-quadro a apresentar propostas circunscritas:\n\na) Aos termos do acordo-quadro, concretizando, desenvolvendo ou complementando em virtude das particularidades da necessidade cuja satisfação se visa com a celebração do contrato; ou\n\nb) Aos aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos do acordo-quadro para os efeitos do procedimento de formação do contrato a celebrar ao seu abrigo.\n\n5 - O convite deve indicar o prazo e o modo de apresentação das propostas, os termos ou aspetos referidos no número anterior e o critério de adjudicação de acordo com as regras para o efeito definidas no caderno de encargos de formação do acordo-quadro, não sendo necessária a elaboração de um caderno de encargos.\n\n6 - O convite pode ainda prever a realização de leilão eletrónico, aplicando-se, com as necessárias adaptações, os artigos 140.º a 145.º\n\n7 - Sempre que o critério de adjudicação adotado em função do disposto no caderno de encargos do acordo-quadro seja o da proposta economicamente mais vantajosa, na modalidade prevista na alínea a) do n.º 1 do artigo 74.º, é ainda aplicável o disposto no artigo 139.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   "markdown": "###### Artigo 259.º — Celebração de contratos ao abrigo de acordos-quadro cujos termos não abranjam todos os seus aspetos submetidos à concorrência\n\n1 - Deve adotar-se o procedimento de consulta prévia para a formação de contratos a celebrar ao abrigo de acordos-quadro na modalidade prevista na alínea b) do n.º 1 do artigo 252.º\n\n2 - O caderno de encargos do acordo-quadro deve prever as regras quanto aos cocontratantes a convidar em cada procedimento, designadamente em função do lote, se existente, ou do valor do contrato a celebrar.\n\n3 - Quando o caderno de encargos do acordo-quadro preveja que a adjudicação da proposta seja determinada apenas com base no preço ou custo e a aquisição seja realizada através de sistemas de informação disponibilizados pela própria entidade adjudicante, ficam dispensadas outras formalidades previstas no presente Código, designadamente a elaboração de relatórios preliminar e final e audiência prévia.\n\n4 - A entidade adjudicante deve convidar os cocontratantes do acordo-quadro a apresentar propostas circunscritas:\n\na) Aos termos do acordo-quadro, concretizando, desenvolvendo ou complementando em virtude das particularidades da necessidade cuja satisfação se visa com a celebração do contrato; ou\n\nb) Aos aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos do acordo-quadro para os efeitos do procedimento de formação do contrato a celebrar ao seu abrigo.\n\n5 - O convite deve indicar o prazo e o modo de apresentação das propostas, os termos ou aspetos referidos no número anterior e o critério de adjudicação de acordo com as regras para o efeito definidas no caderno de encargos de formação do acordo-quadro, não sendo necessária a elaboração de um caderno de encargos.\n\n6 - O convite pode ainda prever a realização de leilão eletrónico, aplicando-se, com as necessárias adaptações, os artigos 140.º a 145.º\n\n7 - Sempre que o critério de adjudicação adotado em função do disposto no caderno de encargos do acordo-quadro seja o da proposta economicamente mais vantajosa, na modalidade prevista na alínea a) do n.º 1 do artigo 74.º, é ainda aplicável o disposto no artigo 139.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "108092896": {
    "fragment_id": "38192875",
@@ -21827,6 +21850,56 @@
    ],
    "markdown": "###### Artigo 338.º — Contratos entre contraentes públicos\n\n1 - A parte iii é aplicável aos contratos celebrados entre contraentes públicos, sem prejuízo das necessárias adaptações quando os mesmos sejam celebrados num plano de igualdade jurídica, designadamente no que respeita ao exercício dos poderes de conformação da relação contratual.\n\n2 - O disposto na parte final do artigo anterior não afasta a possibilidade de qualquer um dos contraentes públicos exercer o poder de resolução unilateral do contrato por razões de interesse público.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
   },
+  "1192530175": {
+   "fragment_id": "41169475",
+   "type": 8,
+   "heading": "Secção III — Execução e modificação de parcerias público-privadas",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "#### Secção III — Execução e modificação de parcerias público-privadas\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
+  "1192527175": {
+   "fragment_id": "42348175",
+   "type": 11,
+   "heading": "Artigo 339.º — Dever de informação",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 339.º — Dever de informação\n\nQuando o serviço ou a entidade que represente o contraente público na execução do contrato que configure uma parceria público-privada tomar conhecimento de situações suscetíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes na respetiva implementação ou execução, devem, de imediato, comunicar tais factos ao membro do Governo responsável pela área das finanças e ao membro do Governo da tutela, indicando, sempre que possível, os valores estimados envolvidos.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
+  "1192531375": {
+   "fragment_id": "42348275",
+   "type": 11,
+   "heading": "Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias público-privadas",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias público-privadas\n\n1 - Nos contratos que configurem uma parceria público-privada, compete ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso:\n\na) O exercício de poderes de fiscalização;\n\nb) O acompanhamento do contrato, tendo por objetivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias público-privadas.\n\n2 - A modificação do contrato que configure uma parceria público-privada depende de decisão conjunta dos membros do Governo ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela setorial.\n\n3 - No âmbito da administração indireta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do membro do Governo ou do membro do Governo Regional da tutela setorial.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
+  "1192534075": {
+   "fragment_id": "42348375",
+   "type": 11,
+   "heading": "Artigo 341.º — Partilha de benefícios",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 341.º — Partilha de benefícios\n\n1 - Nos contratos que configurem uma parceria público-privada, sempre que ocorrer um acréscimo anormal e imprevisível dos benefícios financeiros para o cocontratante que não resulte da sua eficiente gestão e das oportunidades por si criadas, há lugar à partilha equitativa desses benefícios entre o cocontratante e o contraente público.\n\n2 - Na falta de estipulação contratual, a partilha equitativa dos benefícios financeiros deve ser efetuada através da revisão de preços ou da assunção, por parte do cocontratante, do dever de prestar ao contraente público o valor correspondente ao acréscimo das receitas ou ao decréscimo dos encargos previstos com a execução do contrato.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
+  "1192535575": {
+   "fragment_id": "42348475",
+   "type": 11,
+   "heading": "Artigo 342.º — Acompanhamento de processos arbitrais",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 342.º — Acompanhamento de processos arbitrais\n\n1 - Quando, nos termos do contrato que configure uma parceria público-privada, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o respetivo contraente público deve comunicar imediatamente ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças ou ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso, a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo arbitral.\n\n2 - Devem ser remetidas, periodicamente, à entidade diretamente incumbida de proceder ao acompanhamento do respetivo processo arbitral cópias dos atos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareces técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
   "125057126": {
    "fragment_id": "42349075",
    "type": 11,
@@ -21897,9 +21970,9 @@
    "heading": "Artigo 372.º — Recusa da execução de trabalhos complementares",
    "in_force_from": "2018-01-01",
    "changed_by": [
-    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes dos n.os 2 e 4 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares dela reclamar, fundamentadamente.\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos a mais, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução os trabalhos a mais; ou\n\nb) Optar pela execução dos trabalhos a mais, directamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma peremptória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos a mais, directamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes dos n.ºs 2 e 4 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares dela reclamar, fundamentadamente.\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos complementares, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou\n\nb) Optar pela execução dos trabalhos complementares, directamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma peremptória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.ºs 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos complementares, directamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "108099850": {
    "fragment_id": "42351875",
@@ -21965,6 +22038,26 @@
     "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
    ],
    "markdown": "###### Artigo 384.º — Forma e conteúdo\n\n1 - O subcontrato está sujeito à forma escrita e o seu clausulado deve conter, sob pena de nulidade, os seguintes elementos:\n\na) A identificação das partes e dos respectivos representantes, assim como do título a que intervêm, com indicação dos actos que os habilitam para esse efeito;\n\nb) A identificação dos alvarás ou certificados de empreiteiro de obras públicas das partes;\n\nc) A descrição do objecto do subcontrato;\n\nd) O preço;\n\ne) A forma e o prazo de pagamento do preço;\n\nf) O prazo de execução das prestações objecto do subcontrato.\n\n2 - O empreiteiro deve assegurar e certificar-se do cumprimento do disposto no número anterior, não podendo, consequentemente, invocar a nulidade aí prevista.\n\n3 - O disposto no número anterior é igualmente aplicável aos contratos de subempreitada celebrados entre o subempreiteiro e um terceiro.\n\n4 - Os empreiteiros, os subempreiteiros, assim como os terceiros são obrigadas a manter em arquivo os contratos celebrados em que são intervenientes pelo período de cinco anos a contar da data da conclusão das obras.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+  },
+  "1192525475": {
+   "fragment_id": "42354275",
+   "type": 11,
+   "heading": "Artigo 405.º — Resolução pelo dono da obra",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 405.º — Resolução pelo dono da obra\n\n1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos:\n\na) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho;\n\nb) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra;\n\nc) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;\n\nd) Se o empreiteiro não der início à execução dos trabalhos complementares decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;\n\ne) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;\n\nf) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º;\n\ng) Se não foram corrigidos os defeitos detetados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º\n\n2 - Em caso de resolução, o dono da obra deve informar o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.\n\n3 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.\n\n4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da atividade de construção.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+  },
+  "1192528675": {
+   "fragment_id": "42354375",
+   "type": 11,
+   "heading": "Artigo 406.º — Resolução pelo empreiteiro",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
+   ],
+   "markdown": "###### Artigo 406.º — Resolução pelo empreiteiro\n\nSem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o empreiteiro tem o direito de resolver o contrato nos seguintes casos:\n\na) Se não for feita consignação da obra no prazo de seis meses contados da data da celebração do contrato por facto não imputável ao empreiteiro;\n\nb) Se, havendo sido feitas uma ou mais consignações parciais, o retardamento da consignação ou consignações subsequentes acarretar a interrupção dos trabalhos por mais de 120 dias, seguidos ou interpolados;\n\nc) Se, avaliados os trabalhos complementares e os trabalhos a menos, relativos ao contrato e resultantes de atos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual;\n\nd) Se a suspensão da empreitada se mantiver:\n\ni) Por período superior a um quinto do prazo de execução da obra, quando resulte de caso de força maior;\n\nii) Por período superior a um décimo do mesmo prazo, quando resulte de facto imputável ao dono da obra;\n\ne) Se, verificando-se os pressupostos do artigo 354.º, os danos do empreiteiro excederem 20 % do preço contratual.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "108099666": {
    "fragment_id": "42354775",
@@ -22568,16 +22661,6 @@
    ],
    "markdown": "## Anexo VIII — Lista de serviços de investigação e de desenvolvimento\n\n[a que se refere a alínea j) do n.º 4 do artigo 5.º e a alínea e) do n.º 1 do artigo 27.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
   },
-  "126878507": {
-   "fragment_id": "41129175",
-   "type": 11,
-   "heading": "Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas",
-   "in_force_from": "2019-12-05",
-   "changed_by": [
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-   ],
-   "markdown": "###### Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas\n\n1 - Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo Regional da tutela setorial ou ao Conselho de Ministros, consoante o caso.\n\n2 - Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a) e d) do n.º 1 do artigo 2.º se enquadre na previsão do número anterior, a decisão de contratar, bem como a aprovação das regras a observar na formação dos respetivos contratos, revestem a forma de Resolução do Conselho de Ministros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-  },
   "126878508": {
    "fragment_id": "41136375",
    "type": 11,
@@ -22587,27 +22670,6 @@
     "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
    ],
    "markdown": "###### Artigo 109.º — Norma de habilitação\n\n1 - Todas as competências atribuídas pelo presente Código ao órgão competente para a decisão de contratar podem ser delegadas, sem prejuízo do disposto na parte final no n.º 2 do artigo 69.º\n\n2 - As competências atribuídas pelo artigo 37.º ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo Regional da tutela setorial só podem ser delegadas em membros do Governo Regional.\n\n3 - A delegação da competência para autorização da despesa inerente ao contrato a celebrar ou, quando o contrato a celebrar não implique o pagamento de um preço pela entidade adjudicante, a delegação da competência para a decisão de contratar, implica a delegação das demais competências do órgão competente para a decisão de contratar atribuídas pelo presente Código, excepto daquelas que o delegante expressamente reservar para si.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-  },
-  "126878509": {
-   "fragment_id": "42348275",
-   "type": 11,
-   "heading": "Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas",
-   "in_force_from": "2019-12-05",
-   "changed_by": [
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-   ],
-   "markdown": "###### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas\n\n1 - Nos contratos que configurem uma parceria pública-privada, compete ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso:\n\na) O exercício de poderes de fiscalização;\n\nb) O acompanhamento do contrato, tendo por objectivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias públicas-privadas.\n\n2 - A modificação do contrato que configure uma parceria público-privada, nos termos e para os efeitos do Decreto-Lei n.º 111/2012, de 23 de maio, na sua redação atual, depende de Resolução do Conselho de Ministros ou de decisão conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela setorial.\n\n3 - No âmbito da administração indirecta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do ministro ou do membro do Governo Regional da tutela sectorial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-  },
-  "130402256": {
-   "fragment_id": "41129175",
-   "type": 11,
-   "heading": "Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas",
-   "in_force_from": "2020-03-19",
-   "changed_by": [
-    "Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19",
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-   ],
-   "markdown": "###### Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas\n\nQuando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria pública-privada, a decisão de contratar compete, conjuntamente, ao ministro ou ao membro do Governo Regional responsável pela área das finanças e ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso.\n\n> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é repristinado o artigo 37.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
   },
   "130402257": {
    "fragment_id": "41136375",
@@ -22619,17 +22681,6 @@
     "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
    ],
    "markdown": "###### Artigo 109.º — Norma de habilitação\n\n1 - Todas as competências atribuídas pelo presente Código ao órgão competente para a decisão de contratar podem ser delegadas, sem prejuízo do disposto na parte final no n.º 2 do artigo 69.º\n\n2 - As competências atribuídas pelo artigo 37.º ao ministro ou ao membro do Governo Regional responsável pela área das finanças e ao ministro ou ao membro do Governo Regional da tutela sectorial só podem ser delegadas em membros do Governo ou do Governo Regional, consoante o caso.\n\n3 - A delegação da competência para autorização da despesa inerente ao contrato a celebrar ou, quando o contrato a celebrar não implique o pagamento de um preço pela entidade adjudicante, a delegação da competência para a decisão de contratar, implica a delegação das demais competências do órgão competente para a decisão de contratar atribuídas pelo presente Código, excepto daquelas que o delegante expressamente reservar para si.\n\n> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é respristinado o artigo 109.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-  },
-  "130402258": {
-   "fragment_id": "42348275",
-   "type": 11,
-   "heading": "Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas",
-   "in_force_from": "2020-03-19",
-   "changed_by": [
-    "Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19",
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-   ],
-   "markdown": "###### Artigo 340.º — Fiscalização, acompanhamento e modificação de parcerias públicas-privadas\n\n1 - Nos contratos que configurem uma parceria pública-privada, compete ao ministro ou ao membro do Governo Regional responsável pela área das finanças ou ao ministro ou ao membro do Governo Regional da tutela sectorial, consoante o caso:\n\na) O exercício de poderes de fiscalização;\n\nb) O acompanhamento do contrato, tendo por objectivo a avaliação dos seus custos e riscos, bem como a melhoria do processo de constituição de novas parcerias públicas-privadas.\n\n2 - A modificação do contrato que configure uma parceria pública-privada depende de decisão conjunta dos ministros ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela sectorial.\n\n3 - No âmbito da administração indirecta do Estado ou das Regiões Autónomas, a decisão de modificação depende de parecer favorável do ministro ou do membro do Governo Regional da tutela sectorial.\n\n> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é respristinado o artigo 340.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
   },
   "163851576": {
    "fragment_id": "39696075",
@@ -23571,16 +23622,16 @@
    ],
    "markdown": "###### Artigo 370.º — Trabalhos complementares\n\n1 - São trabalhos complementares aqueles cuja espécie ou quantidade não esteja prevista no contrato.\n\n2 - O dono da obra pode ordenar a execução de trabalhos complementares ao empreiteiro caso a mudança do cocontratante:\n\na) Não possa ser efetuada por razões técnicas, designadamente em função da necessidade de assegurar a permutabilidade ou interoperabilidade com equipamentos, serviços ou instalações existentes; e\n\nb) Provoque um aumento considerável de custos para o dono da obra;\n\nc) (Revogada);\n\nd) (Revogada);\n\n3 - (Revogado).\n\n4 - O valor dos trabalhos complementares não pode exceder, de forma acumulada, 50 % do preço contratual inicial.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2012 - Diário da República n.º 134/2012, Série I de 2012-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2012-179776), em vigor a partir de 2012-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 278/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), em vigor a partir de 2009-10-07"
   },
-  "163851661": {
+  "1194873875": {
    "fragment_id": "42351475",
    "type": 11,
    "heading": "Artigo 372.º — Recusa da execução de trabalhos complementares",
    "in_force_from": "2021-06-20",
    "changed_by": [
-    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20",
-    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes do n.º 2 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares, reclamar da mesma fundamentadamente..\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos a mais, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução os trabalhos a mais; ou\n\nb) Optar pela execução dos trabalhos a mais, directamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma peremptória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos a mais, directamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes do n.º 2 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares, reclamar da mesma fundamentadamente.\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos complementares, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou\n\nb) Optar pela execução dos trabalhos complementares, directamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma peremptória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.ºs 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos complementares, directamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "163851662": {
    "fragment_id": "42351575",
@@ -23627,15 +23678,16 @@
    ],
    "markdown": "###### Artigo 403.º — Atraso na execução da obra\n\n1 - Em caso de atraso no início ou na conclusão da execução da obra por facto imputável ao empreiteiro, o dono da obra pode aplicar uma sanção contratual, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual inicial, sem prejuízo de o contrato poder prever valor mais elevado, até ao dobro daquele valor.\n\n2 - Em caso de incumprimento de prazos parciais de execução da obra por facto imputável ao empreiteiro, é aplicável o disposto no número anterior, sendo o montante da sanção contratual aí prevista reduzido a metade.\n\n3 - O empreiteiro tem direito ao reembolso das quantias pagas a título de sanção contratual por incumprimento de prazos parciais de execução da obra quando recupere o atraso na execução dos trabalhos e a obra seja concluída dentro do prazo de execução do contrato.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20"
   },
-  "163851666": {
+  "1194901975": {
    "fragment_id": "42354275",
    "type": 11,
    "heading": "Artigo 405.º — Resolução pelo dono da obra",
    "in_force_from": "2021-06-20",
    "changed_by": [
-    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20"
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 405.º — Resolução pelo dono da obra\n\n1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos:\n\na) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho;\n\nb) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra;\n\nc) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;\n\nd) Se o empreiteiro não der início à execução dos trabalhos a mais decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;\n\ne) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;\n\nf) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º;\n\ng) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;\n\nh) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º\n\n2 - Em caso de resolução, o dono da obra deve informar a Inspecção-Geral das Obras Públicas, Transportes e Comunicações e o Instituto da Construção e do Imobiliário, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.\n\n3 - O Instituto da Construção e do Imobiliário, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.\n\n4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da actividade de construção.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20"
+   "markdown": "###### Artigo 405.º — Resolução pelo dono da obra\n\n1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos:\n\na) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho;\n\nb) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra;\n\nc) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;\n\nd) Se o empreiteiro não der início à execução dos trabalhos complementares decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;\n\ne) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;\n\nf) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º;\n\ng) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;\n\nh) Se não foram corrigidos os defeitos detetados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º\n\n2 - Em caso de resolução, o dono da obra deve informar o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.\n\n3 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.\n\n4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da atividade de construção.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "163851667": {
    "fragment_id": "108092646",
@@ -24800,18 +24852,6 @@
    ],
    "markdown": "###### Artigo 36.º — Decisão de contratar e decisão de autorização da despesa\n\n1 - O procedimento de formação de qualquer contrato inicia-se com a decisão de contratar, a qual deve ser fundamentada e cabe ao órgão competente para autorizar a despesa inerente ao contrato a celebrar.\n\n2 - Quando o contrato a celebrar não implique o pagamento de um preço pela entidade adjudicante, a decisão de contratar cabe ao órgão desta que for competente para o efeito nos termos da respectiva lei orgânica ou dos seus estatutos.\n\n3 - A decisão de contratar deve ter em consideração critérios de economicidade e qualidade, de modo a permitir alcançar o resultado mais vantajoso para a satisfação das necessidades da entidade adjudicante e, quando tal se revele adequado, prosseguir objetivos de desenvolvimento sustentável, de inovação e de responsabilidade social.\n\n4 - Quando o valor estimado do contrato for igual ou superior a 5 000 000 € ou, no caso de parceria para a inovação, a 2 500 000 €, a fundamentação prevista no n.º 1 deve basear-se numa avaliação de custo-benefício e deve conter, quando aplicável:\n\na) A identificação do tipo de beneficiários do contrato a celebrar;\n\nb) A taxa prevista de utilização da infraestrutura, serviço ou bem;\n\nc) A análise da rentabilidade;\n\nd) Os custos de manutenção;\n\ne) A avaliação dos riscos potenciais e formas de mitigação dos mesmos;\n\nf) O impacto previsível para a melhoria da organização;\n\ng) O impacto previsível no desenvolvimento ou na reconversão do país ou da região coberta pelo investimento.\n\n5 - O disposto no número anterior não é aplicável aos procedimentos de formação de contratos que se destinem à execução de projetos financiados ou cofinanciados por fundos europeus, à promoção da habitação pública ou de custos controlados, ou que tenham por objeto a conservação, manutenção e reabilitação de imóveis, infraestruturas e equipamentos ou a aquisição de bens ou serviços essenciais de uso corrente.\n\n6 - As peças do procedimento devem identificar todos os pareceres prévios, licenciamentos e autorizações necessárias que possam condicionar o procedimento e a execução do contrato.\n\n7 - O disposto nos números anteriores não prejudica a aplicação de regimes especiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
   },
-  "1167747975": {
-   "fragment_id": "41129175",
-   "type": 11,
-   "heading": "Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas",
-   "in_force_from": "2026-10-01",
-   "changed_by": [
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.",
-    "Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19",
-    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-   ],
-   "markdown": "###### Artigo 37.º — Decisão de contratar nas parcerias públicas-privadas\n\nQuando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso.\n\n> Nota: [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855) Em virtude da cessação de vigência do Decreto-Lei n.º 170/2019, de 4 de dezembro, que procede à décima primeira alteração ao Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, operada pela Resolução da Assembleia da República n.º 16/2020, de 19 de março, é repristinado o artigo 37.º na redação do Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2020-130399855), em vigor a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/2019 - Diário da República n.º 233/2019, Série I de 2019-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686), em vigor a partir de 2019-12-05"
-  },
   "1167748175": {
    "fragment_id": "41129375",
    "type": 11,
@@ -24872,14 +24912,6 @@
     "Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30"
    ],
    "markdown": "###### Artigo 44.º — Cadernos de encargos relativos a contratos de concessão\n\nSem prejuízo do disposto no artigo 42.º, os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas e de concessão de serviços integram um código de exploração que contém os direitos e as obrigações das partes relativas à exploração, incluindo, quando for o caso, as normas de exploração que são estabelecidas também no interesse dos utentes da obra ou do serviço a explorar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30"
-  },
-  "1167940475": {
-   "fragment_id": "41129975",
-   "type": 11,
-   "heading": "Artigo 45.º — Caderno de encargos das parcerias públicas-privadas",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 45.º — Caderno de encargos das parcerias públicas-privadas\n\nOs cadernos de encargos dos procedimentos de formação de contratos que configurem parcerias públicas-privadas devem submeter à concorrência os aspectos da sua execução relativos aos encargos para a entidade adjudicante e aos riscos a ela directa ou indirectamente afectos decorrentes da configuração do modelo contratual."
   },
   "1167940575": {
    "fragment_id": "41130075",
@@ -26499,17 +26531,17 @@
    ],
    "markdown": "###### Artigo 371.º — Obrigação de execução de trabalhos complementares\n\n1 - O empreiteiro tem a obrigação de executar os trabalhos complementares, desde que tal lhe seja ordenado por escrito pelo dono da obra e lhe sejam entregues as alterações aos elementos da solução da obra necessárias à sua execução, quando os mesmos tenham integrado o caderno de encargos relativo ao procedimento de formação do contrato.\n\n2 - Nos casos de contratos de empreitada de conceção-construção, e quando a ordem de execução de trabalhos complementares ocorra na fase de elaboração do projeto de execução, o disposto no número anterior concretiza-se mediante a entrega, pelo dono da obra, de ordem escrita acompanhada da alteração ao programa preliminar.\n\n3 - Nos casos de contratos de empreitada de conceção-construção, e quando a ordem de execução de trabalhos complementares ocorra na fase de construção, o disposto no n.º 1 concretiza-se mediante a entrega, pelo dono da obra, de ordem escrita acompanhada da identificação e descrição clara e suficiente das alterações ao projeto pretendidas.\n\n4 - O empreiteiro não está sujeito à obrigação prevista no n.º 1 quando opte por exercer o direito de resolução do contrato ou quando, sendo os trabalhos complementares de espécie diferente dos previstos no contrato ou da mesma espécie de outros nele previstos, mas a executar em condições diferentes, o empreiteiro não disponha dos meios humanos ou técnicos indispensáveis para a sua execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Parte III do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
   },
-  "1167949175": {
+  "1194875975": {
    "fragment_id": "42351475",
    "type": 11,
    "heading": "Artigo 372.º — Recusa da execução de trabalhos complementares",
    "in_force_from": "2026-10-01",
    "changed_by": [
     "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.",
-    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20",
-    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 4 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes da alínea c) do n.º 1 do artigo 312.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares, reclamar da mesma fundamentadamente.\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos a mais, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou\n\nb) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.ºs 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   "markdown": "###### Artigo 372.º — Recusa da execução de trabalhos complementares\n\n1 - Para efeitos do disposto no n.º 4 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes da alínea c) do n.º 1 do artigo 312.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares, reclamar da mesma fundamentadamente.\n\n2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.\n\n3 - Quanto considere injustificada a não execução dos trabalhos complementares, o dono da obra pode:\n\na) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou\n\nb) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.ºs 2 a 4 do artigo 325.º\n\n4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:\n\na) Aplicar ao empreiteiro uma sanção pecuniária compulsória, por cada dia de atraso, em valor correspondente a 1 (por mil) do preço contratual, sem prejuízo de o contrato poder prever valor mais elevado; ou\n\nb) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "1167949275": {
    "fragment_id": "42351575",
@@ -26671,16 +26703,17 @@
    ],
    "markdown": "###### Artigo 393.º-A — Liquidação e pagamento por marcos de execução\n\n1 - Caso o caderno de encargos determine o pagamento do preço contratual com base em marcos de execução, esse pagamento é realizado faseadamente, de acordo com o cumprimento dos marcos de execução definidos no caderno de encargos nos termos do n.º 2 do artigo 43.º-A.\n\n2 - Nos casos previstos no número anterior não se aplica o disposto nos artigos 389.º, 392.º e 393.º\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01."
   },
-  "1167769975": {
+  "1194909675": {
    "fragment_id": "42354275",
    "type": 11,
    "heading": "Artigo 405.º — Resolução pelo dono da obra",
    "in_force_from": "2026-10-01",
    "changed_by": [
     "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.",
-    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20"
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
    ],
-   "markdown": "###### Artigo 405.º — Resolução pelo dono da obra\n\n1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos:\n\na) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho;\n\nb) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra;\n\nc) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;\n\nd) Se o empreiteiro não der início à execução dos trabalhos a mais decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;\n\ne) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;\n\nf) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º;\n\ng) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;\n\nh) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º\n\n2 - Em caso de resolução, o dono da obra deve informar, no prazo de 10 dias após ato de resolução se tornar inimpugnável, o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., para publicitação de tal facto na área pública do portal dos contratos públicos, e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.\n\n3 - O Instituto da Construção e do Imobiliário, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.\n\n4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da actividade de construção.\n\n5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20"
+   "markdown": "###### Artigo 405.º — Resolução pelo dono da obra\n\n1 - Sem prejuízo dos fundamentos gerais de resolução do contrato e de outros neste previstos e do direito de indemnização nos termos gerais, o dono da obra pode resolver o contrato nos seguintes casos:\n\na) Se o empreiteiro, de forma grave ou reiterada, não cumprir o disposto na legislação sobre segurança, higiene e saúde no trabalho;\n\nb) Se, tendo faltado à consignação sem justificação aceite pelo dono da obra, o empreiteiro não comparecer, após segunda notificação, no local, na data e na hora indicados pelo dono da obra para nova consignação desde que não apresente justificação de tal falta aceite pelo dono da obra;\n\nc) Se ocorrer um atraso no início da execução dos trabalhos imputável ao empreiteiro que seja superior a 1/40 do prazo de execução da obra;\n\nd) Se o empreiteiro não der início à execução dos trabalhos complementares decorridos 15 dias da notificação da decisão do dono da obra que indefere a reclamação apresentada por aquele e reitera a ordem para a sua execução;\n\ne) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;\n\nf) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º;\n\ng) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;\n\nh) Se não foram corrigidos os defeitos detetados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º\n\n2 - Em caso de resolução, o dono da obra deve informar, no prazo de 10 dias após ato de resolução se tornar inimpugnável, o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., para publicitação de tal facto na área pública do portal dos contratos públicos, e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.\n\n3 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., sendo o caso, dá conhecimento da resolução do contrato à entidade que comprova a inscrição na lista oficial de empreiteiros aprovados do país de que seja nacional ou no qual se situe o estabelecimento principal do empreiteiro.\n\n4 - O disposto nos números anteriores não prejudica a aplicação das sanções que se mostrem devidas nos termos da legislação que regula o exercício da atividade de construção.\n\n5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 177/2026 - Diário da República n.º 172/2026, Série I de 2026-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779), em vigor a partir de 2026-10-01.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 30/2021 - Diário da República n.º 99/2021, Série I de 2021-05-21](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), em vigor a partir de 2021-06-20.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01."
   },
   "1167960575": {
    "fragment_id": "39723275",

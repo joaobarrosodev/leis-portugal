@@ -38,10 +38,19 @@ legal_status: not_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-11-25'
+version_history:
+  file: decreto-regulamentar-regional-25-2011-a.versoes.json
+  count: 1
+  source_lastmod: '2026-11-18'
+  versions:
+  - date: '2011-11-25'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/25/2011/11/25/a/dre/pt/html
@@ -54,20 +63,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2011-146201
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2011/11/25/a/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2011-146201
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:30:53Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-169252089
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-169252089
+  retrieved_at: '2026-11-20T13:53:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: 3477453e03833487b138f5cac810b9d579959244bc27918d43ac7fcfa0a99e94
+  source_sha256: 7c21de0d0d6a7ddb4bf39b4a92a81d5336eb0e25f0417f72fa5b4dc7add8286c
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:30:53Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:49Z'
+  notes: 1 versão(ões); histórico completo em decreto-regulamentar-regional-25-2011-a.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,31 +162,19 @@ relationships:
   date: '2013-07-17'
 article_structure:
   article_count: 78
-  section_count: 32
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 20
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:30:53Z'
+  checked_at: '2026-11-20T13:53:49Z'
   warnings: []
   errors: []
 ---
 
 # Decreto Regulamentar Regional n.º 25/2011/A
-
-Aprova a orgânica da Secretaria Regional da Educação e Formação
-
-Pelo [Decreto Regulamentar Regional n.º 25/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2008-444253), de 31 de Dezembro, alterado pelo [Decreto Regulamentar Regional n.º 17/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2010-342079), de 21 de Setembro, foi aprovada a estrutura orgânica do X Governo Regional dos Açores, tendo, em consequência, sido criados e reestruturados alguns dos departamentos do Governo Regional, com a consequente criação e alteração de competências.
-
-Por força deste diploma, foi criada a Secretaria Regional da Educação e Formação, órgão operativo do Governo Regional, para as áreas da educação, escolas de formação profissional, acompanhamento do ensino superior e desporto.
-
-Na dependência do departamento governamental criado ficaram a Direcção Regional da Educação e Formação, a Direcção Regional do Desporto e a Inspecção Regional da Educação.
-
-Torna-se, deste modo, necessário fixar a orgânica da Secretaria Regional da Educação e Formação e das direcções regionais e serviço inspectivo que a integram.
-
-Assim, nos termos da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 6 do artigo 231.º da Constituição, o Governo Regional decreta o seguinte:
 
 ###### Artigo 1.º — Objecto
 
@@ -186,27 +184,17 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-
 
 Pelo presente diploma são revogados:
 
-a) Os artigos 1.º a 27.º, 44.º a 65.º, 98.º a 101.º, 103.º e 122.º a 124.º do anexo ao [Decreto Regulamentar Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2007-518232), de 30 de Janeiro, na redacção actual;
+a) Os artigos 1.º a 27.º, 44.º a 65.º, 98.º a 101.º, 103.º e 122.º a 124.º do anexo ao Decreto Regulamentar Regional n.º 2/2007/A, de 30 de Janeiro, na redacção actual;
 
-b) O [Decreto Regulamentar Regional n.º 17/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2007-640643), de 21 de Agosto.
+b) O Decreto Regulamentar Regional n.º 17/2007/A, de 21 de Agosto.
 
 ###### Artigo 3.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Setembro de 2011.
+## Anexo
 
-O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
-
-Assinado em Angra do Heroísmo em 11 de Agosto de 2011.
-
-Publique-se.
-
-O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
-
-## ANEXO I — Orgânica da Secretaria Regional da Educação e Formação
-
-### CAPÍTULO I — Natureza, missão e atribuições
+### Capítulo I — Natureza, missão e atribuições
 
 ###### Artigo 1.º — Natureza e missão
 
@@ -250,7 +238,7 @@ c) Dirigir e coordenar a actuação dos directores regionais e outros dirigentes
 
 d) Orientar superiormente toda a acção da SREF e exercer as demais competências previstas na lei.
 
-### CAPÍTULO II — Estrutura orgânica
+### Capítulo II — Estrutura orgânica
 
 ###### Artigo 4.º — Estrutura geral
 
@@ -304,13 +292,11 @@ Os órgãos e serviços funcionam em estreita cooperação e interligação func
 
 2 - A realização de estudos, projectos e outros trabalhos específicos pode ser confiada, mediante contrato e de acordo com o disposto na lei, a entidades de reconhecida competência.
 
-### CAPÍTULO III — Serviços e órgãos
+### Capítulo III — Serviços e órgãos
 
-#### SECÇÃO I — Serviços executivos
+#### Secção I — Serviços executivos
 
-##### SUBSECÇÃO I
-
-##### Divisão de Apoio Técnico-Administrativo
+##### Subsecção I — Divisão de Apoio Técnico-Administrativo
 
 ###### Artigo 9.º — Natureza e missão
 
@@ -362,9 +348,7 @@ r) Coordenar e dirigir as secções que integram a Divisão.
 
 6 - Para além das funções gerais de coordenação do funcionamento da Divisão, compete ao chefe de divisão, cargo de direcção intermédia de 2.º grau, certificar os actos que integram processos existentes na DATA e exercer as funções notariais previstas na lei.
 
-###### Artigo 10.º
-
-#### Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
 
 1 - Compete à Secção de Pessoal, Expediente e Arquivo, nomeadamente:
 
@@ -388,9 +372,7 @@ i) Assegurar a abertura e encerramento das instalações.
 
 2 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um coordenador técnico.
 
-###### Artigo 11.º
-
-#### Secção de Contabilidade
+###### Artigo 11.º — Secção de Contabilidade
 
 1 - Compete à Secção de Contabilidade, designadamente:
 
@@ -420,9 +402,7 @@ l) Coordenar o trabalho do pessoal que lhe é afecto.
 
 2 - A Secção de Contabilidade é dirigida por um coor-denador técnico.
 
-##### SUBSECÇÃO II
-
-##### Divisão de Documentação e Estatística
+##### Subsecção II — Divisão de Documentação e Estatística
 
 ###### Artigo 12.º — Natureza e missão
 
@@ -456,7 +436,7 @@ k) Assegurar a edição de publicações de interesse para os sistemas educativo
 
 4 - A DDE é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-##### SUBSECÇÃO III — Núcleo de Informática e Telecomunicações
+##### Subsecção III — Núcleo de Informática e Telecomunicações
 
 ###### Artigo 13.º — Natureza e missão
 
@@ -490,7 +470,7 @@ l) Articular com os diferentes serviços da SREF o tipo e a forma de acesso à i
 
 3 - O NIT é coordenado pelo trabalhador designado para o efeito através de despacho do Secretário Regional da Educação e Formação, sendo-lhe aplicável o disposto no artigo 7.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO IV — Observatório de Segurança Escolar
+##### Subsecção IV — Observatório de Segurança Escolar
 
 ###### Artigo 14.º — Natureza e missão
 
@@ -514,7 +494,7 @@ g) Apresentar anualmente o relatório de segurança escolar.
 
 3 - O OSE é coordenado pelo trabalhador designado para o efeito através de despacho do Secretário Regional da Educação e Formação, sendo-lhe aplicável o disposto no artigo 7.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO V — Direcções regionais
+##### Subsecção V — Direcções regionais
 
 ###### Artigo 15.º — Competências dos directores regionais
 
@@ -530,7 +510,7 @@ d) Orientar os serviços dependentes da SREF nas suas áreas de competência.
 
 2 - Os directores regionais podem delegar ou subdelegar competências nos dirigentes sob sua dependência hierárquica.
 
-##### SUBSECÇÃO VI — Direcção Regional da Educação e Formação
+##### Subsecção VI — Direcção Regional da Educação e Formação
 
 ###### Artigo 16.º — Natureza e missão
 
@@ -648,9 +628,7 @@ b) Divisão de Desenvolvimento Curricular (DDC).
 
 3 - A DSIDC é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 20.º
-
-##### Divisão de Avaliação e Inovação
+###### Artigo 20.º — Divisão de Avaliação e Inovação
 
 1 - À DAI compete, nomeadamente:
 
@@ -680,9 +658,7 @@ l) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DAI é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 21.º
-
-##### Divisão de Desenvolvimento Curricular
+###### Artigo 21.º — Divisão de Desenvolvimento Curricular
 
 1 - À DDC compete, nomeadamente:
 
@@ -772,9 +748,7 @@ b) Divisão de Formação Profissional (DFP).
 
 4 - A DSRH é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 23.º
-
-##### Divisão de Gestão de Recursos Humanos
+###### Artigo 23.º — Divisão de Gestão de Recursos Humanos
 
 1 - À DGRH compete, nomeadamente:
 
@@ -798,9 +772,7 @@ i) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DGRH é dirigida por um chefe divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 24.º
-
-##### Divisão de Formação Profissional
+###### Artigo 24.º — Divisão de Formação Profissional
 
 1 - Compete à DFP, nomeadamente:
 
@@ -866,9 +838,7 @@ b) Divisão de Instalações e Equipamento Escolares (DIEE).
 
 3 - A DSFE é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 27.º
-
-##### Divisão de Planeamento e Gestão Financeira
+###### Artigo 27.º — Divisão de Planeamento e Gestão Financeira
 
 1 - À DPGF compete, nomeadamente:
 
@@ -904,9 +874,7 @@ o) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DPGF é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 28.º
-
-##### Divisão de Instalações e Equipamento Escolares
+###### Artigo 28.º — Divisão de Instalações e Equipamento Escolares
 
 1 - À DIEE compete, nomeadamente:
 
@@ -934,7 +902,7 @@ k) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DIEE é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-##### SUBSECÇÃO VII — Direcção Regional do Desporto
+##### Subsecção VII — Direcção Regional do Desporto
 
 ###### Artigo 29.º — Natureza e missão
 
@@ -1022,9 +990,7 @@ b) A Divisão do Desporto Federado (DDF).
 
 3 - A DSDD é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 33.º
-
-##### Divisão de Formação e Promoção Desportiva
+###### Artigo 33.º — Divisão de Formação e Promoção Desportiva
 
 1 - Compete à DFPD, nomeadamente:
 
@@ -1052,9 +1018,7 @@ k) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DFPD é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 34.º
-
-##### Divisão do Desporto Federado
+###### Artigo 34.º — Divisão do Desporto Federado
 
 1 - Compete à DDF, nomeadamente:
 
@@ -1112,9 +1076,7 @@ n) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 3 - A DSAFIGR é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 36.º
-
-##### Divisão da Actividade Física e Gestão
+###### Artigo 36.º — Divisão da Actividade Física e Gestão
 
 1 - Compete à DAFG, nomeadamente:
 
@@ -1282,9 +1244,7 @@ g) Aprovar a conta de gerência e remetê-la para julgamento da Secção Regiona
 
 h) Propor as linhas de orientação administrativas a que deve obedecer a organização e funcionamento de cada coordenação e dos seus serviços.
 
-###### Artigo 44.º
-
-#### Secção de Apoio Administrativo
+###### Artigo 44.º — Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo dos SD, nomeadamente:
 
@@ -1308,9 +1268,9 @@ i) Emitir parecer sobre assuntos a submeter a despacho superior;
 
 j) Proceder ao controlo da assiduidade do pessoal.
 
-#### SECÇÃO II — Serviço inspectivo
+#### Secção II — Serviço inspectivo
 
-##### SUBSECÇÃO I — Inspecção Regional de Educação
+##### Subsecção I — Inspecção Regional de Educação
 
 ###### Artigo 45.º — Natureza
 
@@ -1542,9 +1502,9 @@ O pessoal dirigente e de inspecção goza do direito ao uso de cartão de identi
 
 O apoio administrativo à IRE é prestado pela DATA, nos termos dos artigos 9.º e seguintes.
 
-### CAPÍTULO IV — Pessoal
+### Capítulo IV — Pessoal
 
-#### SECÇÃO I — Disposições gerais
+#### Secção I — Disposições gerais
 
 ###### Artigo 64.º — Quadros
 
@@ -1556,15 +1516,15 @@ O apoio administrativo à IRE é prestado pela DATA, nos termos dos artigos 9.º
 
 As actuais alterações na estrutura orgânica da Secretaria Regional da Educação e Formação são acompanhadas pela respectiva transição do pessoal afecto aos serviços objecto da presente reestruturação.
 
-#### SECÇÃO II — Pessoal da IRE
+#### Secção II — Pessoal da IRE
 
-##### SUBSECÇÃO I — Disposições gerais
+##### Subsecção I — Disposições gerais
 
 ###### Artigo 66.º — Recrutamento e provimento
 
 O recrutamento e o provimento do pessoal da IRE, designadamente o dirigente, regulam-se pela lei geral, com as especificidades previstas nos artigos seguintes relativamente à carreira especial de inspecção.
 
-##### SUBSECÇÃO II — Carreira especial de inspecção
+##### Subsecção II — Carreira especial de inspecção
 
 ###### Artigo 67.º — Pessoal de inspecção
 
@@ -1572,7 +1532,7 @@ O pessoal de inspecção da IRE constitui uma carreira unicategorial e o exercí
 
 ###### Artigo 68.º — Acesso e integração na carreira especial de inspecção
 
-1 - O acesso à carreira especial de inspecção é feito mediante procedimento concursal com a tramitação constante da Resolução do Conselho do Governo n.º 178/2009, de 24 de Novembro, rectificada pela [Declaração de Rectificação n.º 14/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-2009-601477), de 2 de Dezembro.
+1 - O acesso à carreira especial de inspecção é feito mediante procedimento concursal com a tramitação constante da Resolução do Conselho do Governo n.º 178/2009, de 24 de Novembro, rectificada pela Declaração de Rectificação n.º 14/2009, de 2 de Dezembro.
 
 2 - A integração na carreira especial de inspecção depende da aprovação em curso de formação específico, regulado por portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da administração pública e da educação, de duração não inferior a seis meses, que deve ter lugar no decurso do período experimental nos termos do regime geral.
 
@@ -1636,6 +1596,8 @@ Além da sujeição aos deveres gerais inerentes ao exercício da função públ
 
 3 - O advogado referido no n.º 1 é indicado pelo inspector regional, ouvido o interessado.
 
-## ANEXO II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Educação e Formação
+## Anexo II
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22700/0506005078.pdf)
+Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Educação e Formação
+
+(ver documento original)

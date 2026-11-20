@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2022-10-31'
+version_history:
+  file: despacho-extrato-12650-2022.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2022-10-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/12650-2022-202846264
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/12650-2022-202846264
-  consolidated_url: null
-  retrieved_at: '2026-10-26T12:03:56Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2022-1194540975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2022-1194540975
+  retrieved_at: '2026-11-20T13:51:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: de74049c225ff55c7e3f2cd84882c92f98d199a9517c666c61f3f6fd58687285
+  source_sha256: 40808f0cc8aa5fc19776e9ccb77b7b6e66c3c6f7209e34a6819874c1efc890c7
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T12:03:56Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:04Z'
+  notes: 1 versão(ões); histórico completo em despacho-extrato-12650-2022.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +79,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T12:03:56Z'
+  checked_at: '2026-11-20T13:51:04Z'
   warnings: []
   errors: []
 ---
@@ -84,8 +94,4 @@ validation:
 
 Por despacho da Presidente do Supremo Tribunal Administrativo, de 18 de outubro de 2022:
 
-Anabela Teixeira dos Santos, Escrivã Auxiliar - nomeada, em comissão de serviço e pelo período de três anos, ao abrigo do disposto no artigo 54.º do Estatuto dos Funcionários de Justiça, para exercer funções no Supremo Tribunal Administrativo, com efeitos a partir de 1 de outubro de 2022.
-
-18 de outubro de 2022. - O Administrador, Rogério Paulo Martins Pereira.
-
-315798666
+Anabela Teixeira dos Santos, Escrivã Auxiliar - nomeada, em comissão de serviço e pelo período de três anos, ao abrigo do disposto no artigo 54.º do Estatuto dos Funcionários de Justiça, para exercer funções no Supremo Tribunal Administrativo, com efeitos a partir de 1 de novembro de 2022.

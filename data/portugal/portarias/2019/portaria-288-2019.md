@@ -38,10 +38,22 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-19'
+version_history:
+  file: portaria-288-2019.versoes.json
+  count: 1
+  source_lastmod: '2026-11-18'
+  versions:
+  - date: '2026-11-19'
+    amending: pt:dre:1195884751:por
+    amending_title: Portaria n.º 503/2026/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/288/2019/09/03/p/dre/pt/html
@@ -54,20 +66,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2019-124392066
   metadata_url: https://data.dre.pt/eli/port/288/2019/09/03/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2019-124392066
-  consolidated_url: null
-  retrieved_at: '2026-10-27T01:09:11Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-124392239
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-124392239
+  retrieved_at: '2026-11-20T13:53:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-18T00:00:00Z'
 integrity:
-  source_sha256: d0a42c507616bdd8973bbf8b411d1e1fec27f31eab7e4d14bc485d370e1af8a2
+  source_sha256: 0375e1e0564e33ccdee6814e91a30b358e685869bf4f20872df9e975b9957adc
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-27T01:09:11Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:56Z'
+  notes: 1 versão(ões); histórico completo em portaria-288-2019.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,54 +101,39 @@ subjects:
 - Qualificação Profissional
 - Regulamento
 - Sargento
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1195884751:por
+  label: Altera Artigo 1.º; Altera Artigo 16.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/503-2026-1195884751
+  date: '2026-11-18'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-27T01:09:11Z'
+  checked_at: '2026-11-20T13:53:56Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 288/2019
 
-de 3 de setembro
-
-O Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67348942/details/normal?l=1), de 29 de maio, na sua redação atual, e o Estatuto dos Militares da Guarda Nacional Republicana (EMGNR), aprovado pelo [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106642828/details/normal?l=1), de 22 de março, exigem a frequência, com aproveitamento, de um ciclo de estudos de nível 5 de qualificação, de acordo com o Quadro Nacional de Qualificações (QNQ), conferido no âmbito do ensino superior politécnico para o ingresso na categoria de sargentos dos quadros permanentes (QP) dos ramos das Forças Armadas e para o ingresso na categoria de sargentos da Guarda Nacional Republicana (GNR).
-
-Pretende-se, deste modo, efetivar a criação de um novo modelo de curso de formação de sargentos (CFS), que constitua uma valorização da carreira militar na categoria de sargentos tendo em consideração a evolução dos níveis de ensino exigidos para o ingresso nas diversas categorias das Forças Armadas e da GNR e a crescente complexidade funcional na execução das suas missões, num quadro de reforço da articulação entre as especificidades do ensino superior militar com o sistema nacional de ensino, para o pleno exercício e desempenho de funções inerentes às classes, armas, serviços, e especialidades dos ramos das Forças Armadas e quadros da GNR.
-
-Desta forma, foi efetuada uma alteração significativa no que concerne ao modelo de formação exigido para ingresso na categoria de sargentos que assenta na aquisição de competências de nível superior politécnico, tendo sido definido, à luz da evolução do enquadramento legal relativo ao ensino superior, que o modelo a adotar seria o correspondente ao ciclo de estudos conducente ao Diploma de Técnico Superior Profissional (DTSP).
-
-Nesta esteira, o [Decreto-Lei n.º 249/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/70832992/details/normal?l=1), de 28 de outubro, que estabelece a orgânica do ensino superior militar, consagra as suas especificidades no contexto do ensino superior e aprova o estatuto do Instituto Universitário Militar (IUM), prevê a integração de uma Unidade Politécnica Militar (UPM) no IUM, remetendo a sua regulamentação para diploma próprio. Neste sentido, foi aprovado o [Decreto-Lei n.º 17/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/118275383/details/normal?l=1), de 22 de janeiro, que estabelece a orgânica da UPM e consagra ainda as especificidades da componente politécnica do ensino superior militar no contexto do ensino superior politécnico.
-
-A UPM tem, entre outras, a incumbência de promover a realização, harmonização e coordenação de ciclos de estudos que visem a atribuição do DTSP, enquanto entidade responsável pela formação inicial dos sargentos dos QP das Forças Armadas e dos quadros da GNR.
-
-Assim, a presente portaria procede à criação e à regulamentação do ciclo de estudos que habilita ao ingresso na categoria de sargentos dos QP das Forças Armadas e para o ingresso na categoria de sargentos da GNR, de acordo com o disposto no n.º 1 do artigo 129.º do EMFAR e no n.º 1 do artigo 218.º do EMGNR.
-
-Acresce que, atentas as especificidades da formação, pode justificar-se a realização de uma componente de formação adicional em determinadas classes, armas, serviços, especialidades e quadros, que determina o aumento da duração do curso em casos específicos.
-
-Por outro lado, uma vez que os ramos das Forças Armadas e a GNR estão sujeitos a uma exigente gestão entre as admissões, as saídas e as promoções dos militares, de forma a garantir a manutenção das suas necessidades estruturais para a execução das atividades previstas para cada ano, o que determina a fixação anual do número de efetivos dos ramos das Forças Armadas e da GNR, esta circunstância pode determinar que, no que concerne à periodicidade de realização dos CFS das diferentes classes, armas, serviços, e especialidades dos ramos das Forças Armadas e quadros da GNR, estes não se realizem todos os anos, podendo haver períodos de interregno.
-
-Foram ouvidas a Associação Nacional de Sargentos e a Associação Nacional de Sargentos da Guarda.
-
-Foi promovida a audição da Associação de Praças e da Associação dos Profissionais da Guarda.
-
-Assim:
-
-Manda o Governo, pelos Ministros da Defesa Nacional, da Administração Interna e da Ciência, Tecnologia e Ensino Superior, nos termos do disposto no n.º 1 do artigo 129.º do EMFAR, aprovado pelo [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67348942/details/normal?l=1), de 29 de maio, na sua redação atual, e no n.º 1 do artigo 218.º do [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106642828/details/normal?l=1), de 22 de março, que aprovou o EMGNR, o seguinte:
-
 ###### Artigo 1.º — Objeto e âmbito
 
-1 - A presente portaria regula o regime de atribuição do nível 5 de qualificação, de acordo com o Quadro Nacional de Qualificações (QNQ), após a conclusão com aproveitamento de um ciclo de estudos conducente ao Diploma de Técnico Superior Profissional (DTSP), conferido pelo Instituto Universitário Militar (IUM), através da Unidade Politécnica Militar (UPM), que se constitui como habilitação de ingresso na categoria de sargentos dos quadros permanentes (QP) das Forças Armadas e de ingresso na categoria de sargentos da Guarda Nacional Republicana (GNR).
+1 - A presente portaria regula o regime de atribuição do nível 5 de qualificação, de acordo com o Quadro Nacional de Qualificações (QNQ), após a conclusão com aproveitamento de um ciclo de estudos conducente ao diploma de técnico superior profissional (DTSP), conferido pelo Instituto Universitário Militar (IUM), através da Unidade Politécnica Militar (UPM).
 
-2 - O presente diploma aplica-se ao Curso de Formação de Sargentos (CFS) exigido para ingresso na categoria de sargentos dos QP das Forças Armadas e de ingresso na categoria de sargentos da GNR.
+2 - O presente diploma aplica-se ao Curso de Formação de Sargentos (CFS) exigido para ingresso na categoria de sargentos dos quadros permanentes (QP) das Forças Armadas e de ingresso na categoria de sargentos da Guarda Nacional Republicana (GNR).
+
+3 - Os sargentos dos QP das Forças Armadas e da GNR, os sargentos no regime de contrato, nas suas várias modalidades e no regime de voluntariado e os militares em formação para ingresso na categoria de sargentos nestes regimes, podem frequentar os ciclos de estudos conducentes ao DTSP, com as devidas adaptações e quando necessário e adequado ao desempenho das funções inerentes às classes, armas, serviços, especialidades e quadros.
+
+4 - No âmbito da cooperação internacional de segurança e defesa, os CFS ministrados pela UPM podem ser frequentados por militares e civis estrangeiros, com requisitos adequados à formação, nos termos de protocolos celebrados.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 503/2026/1 - Diário da República n.º 224/2026, Série I de 2026-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/503-2026-1195884751), em vigor a partir de 2026-11-19.
 
 ###### Artigo 2.º — Designação
 
@@ -233,7 +231,7 @@ d) No âmbito do planeamento e da organização.
 
 4 - Os documentos referidos no número anterior podem ser plurilingues, sem prejuízo de a referência aos graus e diplomas dever ser formulada em língua portuguesa, e a sua emissão é acompanhada de um suplemento ao diploma.
 
-5 - A atribuição do DTSP é objeto de registo obrigatório numa plataforma eletrónica, nos termos previstos no artigo 49.º-A do regime jurídico dos graus e diplomas do ensino superior, aprovado pelo [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/671387/details/normal?l=1), de 24 de março, na sua redação atual.
+5 - A atribuição do DTSP é objeto de registo obrigatório numa plataforma eletrónica, nos termos previstos no artigo 49.º-A do regime jurídico dos graus e diplomas do ensino superior, aprovado pelo Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual.
 
 ###### Artigo 15.º — Creditação
 
@@ -249,7 +247,9 @@ d) No âmbito do planeamento e da organização.
 
 ###### Artigo 16.º — Frequência de unidades curriculares avulsas
 
-Os sargentos dos QP das Forças Armadas e da GNR e os militares admitidos na categoria de sargentos nos diferentes regimes de contrato e no regime de voluntariado podem frequentar unidades curriculares avulsas do CFS que se constitui como habilitação de ingresso na categoria de sargentos dos QP das Forças Armadas e de ingresso na categoria de sargento da GNR, quando necessárias ao desempenho das funções inerentes às classes, armas, serviços, especialidades e quadros.
+Os militares dos QP das Forças Armadas e da GNR, os militares no regime de contrato, nas suas várias modalidades, e no regime de voluntariado, designadamente os militares em formação para ingresso nos QP, RC e RV, podem frequentar unidades curriculares avulsas do CFS, que se constitui como habilitação de ingresso na categoria de sargentos dos QP das Forças Armadas e de ingresso na categoria de sargento da GNR, quando necessárias e adequadas ao desempenho das funções inerentes às classes, armas, serviços, especialidades e quadros, de acordo com a legislação em vigor sobre a frequência de unidades curriculares avulsas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 503/2026/1 - Diário da República n.º 224/2026, Série I de 2026-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/503-2026-1195884751), em vigor a partir de 2026-11-19.
 
 ###### Artigo 17.º — Condições de admissão e de ingresso
 
@@ -273,13 +273,13 @@ d) O processamento do concurso.
 
 ###### Artigo 18.º — Condições de frequência e avaliação dos alunos
 
-As condições de frequência e avaliação dos alunos do CFS encontram-se previstas no regulamento interno da UPM, nos termos do disposto nos n.os 3 e 4 do artigo 26.º do [Decreto-Lei n.º 17/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/118275383/details/normal?l=1), de 22 de janeiro.
+As condições de frequência e avaliação dos alunos do CFS encontram-se previstas no regulamento interno da UPM, nos termos do disposto nos n.os 3 e 4 do artigo 26.º do Decreto-Lei n.º 17/2019, de 22 de janeiro.
 
 ###### Artigo 19.º — Pedido de registo de curso de formação de sargentos
 
-1 - O pedido de registo de CFS deve ser apresentado entre 1 de dezembro e 30 de abril para entrada em funcionamento no ano letivo seguinte.
+O pedido de registo de CFS deve ser apresentado nos termos e prazos fixados por despacho do presidente do conselho diretivo do Instituto do Ensino Superior, I. P. para entrada em funcionamento no ano letivo seguinte.
 
-2 - O requerimento de registo de criação de CFS deve ser apresentado através de aplicação online, disponível em https://tesp.dges.gov.pt/login.
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 503/2026/1 - Diário da República n.º 224/2026, Série I de 2026-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/503-2026-1195884751), em vigor a partir de 2026-11-19.
 
 ###### Artigo 20.º — Instalações
 
@@ -297,7 +297,7 @@ Sem prejuízo da legislação aplicável, os casos omissos e as dúvidas de inte
 
 ###### Artigo 23.º — Norma revogatória
 
-A presente portaria revoga as [Portarias n.os 417/2002](https://diariodarepublica.pt/web/guest/pesquisa/-/search/288378/details/normal?l=1), de 19 de abril, [8/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588805/details/normal?l=1), de 10 de janeiro, e [60/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/572427/details/normal?l=1), de 10 de março, com efeitos a partir do início do ano letivo 2020/2021.
+A presente portaria revoga as Portarias n.os 417/2002, de 19 de abril, 8/2013, de 10 de janeiro, e 60/2014, de 10 de março, com efeitos a partir do início do ano letivo 2020/2021.
 
 ###### Artigo 24.º — Entrada em vigor
 

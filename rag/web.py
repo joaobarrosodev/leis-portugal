@@ -161,6 +161,8 @@ def serializar(id_: str, consulta, resposta, *, pesquisa=None) -> dict:
         juris.append(
             {
                 "artigo": j["artigo"],
+                "tribunal": j.get("tribunal") or "TC",
+                "titulo": jurisprudencia.titulo_acordao(j),
                 "numero": j["numero"],
                 "data": jurisprudencia.data_pt(j["data"]),
                 "sentido": jurisprudencia.ROTULOS.get(j["sentido"], j["sentido"]),

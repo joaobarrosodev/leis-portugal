@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2012-12-29'
+  consolidation_date: '2026-11-20'
 version_history:
   file: decreto-legislativo-regional-15-93-m.versoes.json
-  count: 3
-  source_lastmod: '2026-10-14'
+  count: 4
+  source_lastmod: '2026-11-20'
   versions:
   - date: '1996-07-05'
     amending: pt:dre:424126:por
@@ -75,6 +75,29 @@ version_history:
     - Altera Artigo 12.º
     - Altera Artigo 13.º
     - Altera Artigo 22.º
+  - date: '2026-11-20'
+    amending: pt:dre:1196568819:por
+    amending_title: Decreto Legislativo Regional n.º 19/2026/M
+    changes:
+    - Adita Artigo 18.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre/pt/html
@@ -89,19 +112,19 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1993-1041149745
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1993-1041149745
-  retrieved_at: '2026-10-22T14:01:30Z'
+  retrieved_at: '2026-11-20T13:54:23Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-10-14T00:00:00Z'
+  source_modified_at: '2026-11-20T00:00:00Z'
 integrity:
-  source_sha256: 38d433be190ef9f7b37c80e9fe3461d16c8f287170a7714bf016552656019801
+  source_sha256: 599c1c358c204754842164cd002344c566ff8de0aa9ba46e30be99b8769a9fe9
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:01:30Z'
-  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-15-93-m.versoes.json.
+  generated_at: '2026-11-20T13:54:23Z'
+  notes: 4 versão(ões); histórico completo em decreto-legislativo-regional-15-93-m.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,6 +159,14 @@ relationships:
   label: Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 22.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386
   date: '2012-12-28'
+- type: amended_by
+  target: pt:dre:1196568819:por
+  label: Adita Artigo 18.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 22.º;
+    Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819
+  date: '2026-11-19'
 - type: cites
   target: pt:dre:300389:por
   label: null
@@ -149,7 +180,7 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
 article_structure:
-  article_count: 24
+  article_count: 25
   section_count: 4
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -157,7 +188,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:01:30Z'
+  checked_at: '2026-11-20T13:54:23Z'
   warnings: []
   errors: []
 ---
@@ -194,25 +225,29 @@ b) Zona de protecção à estrada.
 
 1 - Constituem zona da estrada:
 
-a) O terreno por ela ocupado, abrangendo a faixa de rodagem, as bermas e, quando existam, as valetas, banquetas ou taludes;
+a) O terreno por ela ocupado e seus elementos funcionais, abrangendo a faixa de rodagem, as bermas e, quando existam, as valetas, banquetas ou taludes, passeios, parques de estacionamento e miradouros, bem como os terrenos para alargamento da plataforma da estrada ou para equipamentos acessórios;
 
-b) As pontes e viadutos nela incorporados, bem como os terrenos para alargamento da plataforma da estrada e terrenos acessórios, tais como passeios, parques de estacionamento e miradouros.
+b) As pontes e viadutos nela incorporados.
 
-2 - A faixa de rodagem conjuntamente com as bermas formam a plataforma da estrada.
+2 - A plataforma da estrada abrange a faixa de rodagem, bermas, passeios e valetas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ###### Artigo 4.º — Zona de protecção à estrada
 
 Constituem zona de protecção à estrada:
 
-a) As faixas com servidão non aedificandi, delimitadas nos termos da alínea b) do n.º 1 do artigo 9.º, onde é proibido qualquer tipo de edificação, com excepção de vedações;
+a) As faixas com servidão non aedificandi, delimitadas nos termos da alínea a) do n.º 1 do artigo 9.º, onde é proibido qualquer tipo de edificação, com exceção do disposto no n.º 4 do mesmo artigo;
 
-b) As faixas de respeito, delimitadas nos termos do n.º 1 do artigo 12.º, onde a nenhum proprietário é permitido fazer edificações e outras obras e trabalhos de qualquer natureza, sem parecer prévio favorável da Direcção Regional de Estradas;
+b) As faixas de respeito, delimitadas nos termos do n.º 1 do artigo 12.º, onde a nenhum proprietário é permitido fazer edificações ou outras obras e trabalhos de qualquer natureza, sem parecer prévio favorável da Direção Regional de Estradas;
 
 c) As faixas de preservação, cuja área é variável em função da natureza da intervenção, onde são proibidas ou sujeitas a autorização actuações com incidências na salvaguarda de aspectos paisagísticos e de protecção do tráfego, conforme disposto nos artigos 9.º e 12.º, n.º 2.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
+
 ### Capítulo II — Regime aplicável à zona da estrada
 
-###### Artigo 5.º — Proibições
+###### Artigo 5.º — Proibições na zona da estrada
 
 1 - Nas áreas incluídas na zona da estrada são proibidas todas as acções que, enquadrando-se no disposto no artigo 1.º, se traduzam em uso, fruição ou alteração do solo respectivo e dos correspondentes subsolo e espaço aéreo, bem como do que neles se contém ou neles esteja integrado.
 
@@ -226,7 +261,7 @@ c) Cortar, mutilar, destruir ou danificar de qualquer modo árvores, demais vege
 
 d) Descarregar ou arrastar objectos na faixa de rodagem da estrada, suas bermas ou valetas, ainda que em parte sustentados por rodas, ou aí os deixar depositados com demora;
 
-e) Ter animais soltos ou presos;
+e) Ter animais soltos ou permitir que circulem desacompanhados sem meios de contenção legalmente exigidos;
 
 f) Limpar, lavar ou reparar veículos ou quaisquer outros objectos;
 
@@ -234,29 +269,31 @@ g) Lançar, mesmo através de valas ou canos, águas pluviais ou poluídas ou qu
 
 h) Obstruir as valetas ou impedir, de qualquer forma, o livre escoamento das águas, designadamente colocando grelhas ou manilhas não autorizadas;
 
-i) Permanecer para vender quaisquer objectos;
+i) Permanecer para vender quaisquer objetos ou artigos, salvo se autorizado nos termos previstos na alínea h) do n.º 1 do artigo 8.º;
 
 j) Movimentar máquinas com rasto metálico na faixa de rodagem da estrada;
 
 l) Lançar garrafas e outras taras, bem como deixar ou depositar sacos, papéis ou outros elementos poluidores;
 
-m) Deixar na faixa de rodagem, em regime de permanência ou circulando esporadicamente, veículos degradados;
+m) Deixar na plataforma de estrada, em permanência ou circulando esporadicamente, veículos, máquinas ou outros equipamentos degradados;
 
 n) Causar, por qualquer forma, perturbação ao trânsito ou prejudicar ou pôr em perigo os utentes da estrada.
 
-3 - Para efeitos do disposto no número anterior, presume-se o estado de necessidade, pelo que decorridas quarenta e oito horas da notificação do respectivo proprietário, ou sendo este desconhecido, pode a Direcção Regional de Estradas remover qualquer animal, objecto ou veículo deixado na zona da via com demora, sendo lavrado auto da ocorrência.
+3 - Para efeitos do disposto no número anterior, presume-se o estado de necessidade, pelo que decorridas 48 horas da notificação do respetivo proprietário, ou sendo este desconhecido, pode a Direção Regional de Estradas promover as diligências necessárias à regularização da situação, sendo lavrado auto da ocorrência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/96/M - Diário da República n.º 153/1996, Série I-A de 1996-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1996-424126), em vigor a partir de 1996-07-05.
 
 ###### Artigo 6.º — Obrigações dos proprietários confinantes com a zona da estrada
 
-1 - Os proprietários confinantes com a zona da estrada devem abster-se de qualquer procedimento que prejudique ou possa pôr em risco o trânsito ou seus utentes e, bem assim, tomar todas as disposições no sentido de evitar prejuízos à estrada.
+1 - Os proprietários confinantes com a zona da estrada devem abster-se de qualquer conduta que prejudique ou possa pôr em risco o trânsito ou seus utentes e, bem assim, tomar todas as precauções no sentido de evitar prejuízos à estrada.
 
-2 - Nesse sentido são os mesmos proprietários obrigados a, designadamente:
+2 - Os proprietários referidos no número anterior ficam, designadamente, obrigados a:
 
-a) Não ter quaisquer objectos que fiquem salientes sobre a estrada;
+a) Não ter nos seus imóveis quaisquer objetos que fiquem salientes sobre a zona da estrada;
 
-b) Não ter nos seus imóveis vasos, caixotes ou quaisquer objectos que (sem adequado resguardo) invadam a zona da estrada;
+b) Não ter nos seus imóveis vasos, caixotes ou quaisquer outros objetos que invadam, ou em condições suscetíveis de invadir, a zona da estrada;
 
 c) Demolir as edificações ou outras obras que ameacem ruína e desabamento sobre a zona da estrada;
 
@@ -266,43 +303,47 @@ e) Remover, imediatamente, da zona da estrada as árvores, entulhos e materiais 
 
 f) Recolher as águas pluviais em algerozes ou caleiras nos telhados e daí conduzi-las, através de tubos condutores, para aquedutos ou outros dispositivos apropriados;
 
-g) Manter os edifícios, vedações e muros com bom aspecto e em bom estado de acabamento e conservação;
+g) Manter os edifícios, vedações e muros em bom estado de conservação e manutenção;
 
 h) Remover imediatamente os materiais, troncos, ramos e folhas caídos sobre as vias ou taludes por motivo de execução do disposto nas alíneas c) e d).
 
-3 - A Direcção Regional de Estradas pode proceder à execução administrativa para cumprimento do disposto no número anterior, sendo aplicável o procedimento legalmente previsto para a execução para prestação de facto fungível.
+3 - A Direção Regional de Estradas pode proceder à execução administrativa para cumprimento do disposto no número anterior, sendo aplicável o procedimento legalmente previsto para a execução para prestação de facto fungível.
 
 4 - Para efeitos do disposto no número anterior, nos casos previstos nas alíneas a) a e) e h) do n.º 2, presume-se o estado de necessidade, sendo legítima a execução sem prévia notificação do interessado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/96/M - Diário da República n.º 153/1996, Série I-A de 1996-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1996-424126), em vigor a partir de 1996-07-05.
 
 ###### Artigo 7.º — Acessos à zona da estrada
 
-1 - As ligações às estradas regionais de vias públicas ou municipais e os acessos a vias particulares devem localizar-se e possuir características técnicas indispensáveis, de forma a não prejudicarem ou oferecerem risco para o trânsito.
+1 - As ligações dos acessos particulares às estradas regionais, bem como as ligações das estradas regionais às estradas municipais, caminhos públicos ou particulares, devem ser implantadas em locais adequados e apresentar as características técnicas necessárias, de modo a não prejudicar a fluidez do trânsito nem comprometer a segurança rodoviária.
 
-2 - Nas ligações das estradas regionais com estradas municipais, caminhos públicos ou particulares serão adoptadas curvas de concordância dos eixos com raios não inferiores aos seguintes:
+2 - As ligações das estradas regionais a estradas municipais, caminhos públicos ou particulares devem, para além do disposto no número anterior, adotar curvas de concordância dos eixos com raios não inferiores aos seguintes:
 
 a) Nas ligações de estradas regionais com estradas municipais ou estradas particulares - 20 m;
 
 b) Nas ligações de estradas regionais com caminhos públicos ou particulares - 15 m;
 
-c) Nos casos especiais de incidências muito oblíquas ou de inclinações fortes que não convenha agravar, poderão baixar-se os raios definidos neste artigo para valores compatíveis com as condições locais, mediante autorização da Direcção Regional de Estradas, a requerimento fundamentado da entidade interessada.
+c) Nos casos especiais de incidências muito oblíquas ou de inclinações fortes que não convenha agravar, poderão baixar-se os raios definidos neste artigo para valores compatíveis com as condições locais, mediante autorização da Direção Regional de Estradas, a requerimento fundamentado da entidade interessada.
 
 3 - Os acessos a hotéis, restaurantes, igrejas e recintos de espectáculos só serão autorizados desde que possuam uma zona de espera, de modo que a entrada e saída de veículos se faça sem prejuízo para o trânsito e desde que disponham de parques de estacionamento próprios.
 
 4 - Os acessos a fábricas, armazéns, supermercados e oficinas de dimensão considerável serão autorizados desde que as instalações possuam uma zona de espera, de modo que a entrada e saída de veículos se faça sem prejuízo para o trânsito, as portas de acesso às instalações destinadas a cargas e descargas se situem, em regra, na retaguarda do edifício em relação à estrada e disponham de parques de estacionamento próprios.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
+
 ###### Artigo 8.º — Permissões referentes à zona da estrada
 
-1 - Nas áreas incluídas na zona da estrada é permitido, mediante licença da Direcção Regional de Estradas:
+1 - Nas áreas incluídas na zona da estrada é permitido, mediante autorização da Direção Regional de Estradas:
 
-a) Estabelecer acessos à mesma zona, com observância dos requisitos definidos no artigo anterior;
+a) Estabelecer acessos à zona da estrada, com observância dos requisitos definidos no artigo anterior;
 
-b) Estabelecer construções ou abrigos móveis e andaimes, temporariamente e sempre fora da plataforma da estrada;
+b) Efetuar construções ou colocar abrigos móveis e andaimes, temporariamente e, sempre que possível, fora da plataforma da estrada;
 
 c) Colocar mastros para embandeiramento ou ornamentação, temporariamente, sempre que possível fora da plataforma da estrada;
 
-d) Implantar candeeiros e postes de apoio de linhas telefónicas, de transporte ou de distribuição de energia eléctrica de baixa tensão ou outros fins, nas bermas, taludes, banquetas ou terrenos acessórios da estrada;
+d) Implantar candeeiros e postes de apoio de linhas telefónicas, de transporte ou de distribuição de energia elétrica de baixa tensão ou outros fins, nas bermas, taludes, banquetas, ou terrenos para alargamento da plataforma da estrada ou para equipamentos acessórios, passeios, parques de estacionamento e miradouros;
 
 e) Passar águas de rega através das valetas;
 
@@ -310,57 +351,57 @@ f) Estabelecer, no subsolo, canalizações ou aquedutos ou cabos condutores de e
 
 g) Estabelecer passadiços e atravessamentos por conduções aéreas ou obras de qualquer natureza em altura não inferior a 5 m a contar do nível da estrada;
 
-2 - Em casos muito excepcionais poderá ser licenciada a realização de obras ou utilização do solo, subsolo e espaço aéreo da zona da estrada, quando se mostre absolutamente imprescindível para o requerente.
+h) Permanecer para venda de quaisquer objetos ou artigos, desde que a respetiva ocupação seja compatível com o uso público viário, não comprometa as condições de circulação e de segurança rodoviária, a perfeita visibilidade do trânsito ou a estabilidade, conservação e gestão da infraestrutura rodoviária, e que o local disponha de zona de estacionamento permitido ou parque de estacionamento.
 
-3 - A fim de garantir a reposição da zona da estrada na situação anterior à respectiva utilização, a emissão de licença ou de autorização pode ser condicionada à prestação de caução, de montante correspondente ao dos trabalhos de reposição.
+2 - Em casos excecionais pode ser autorizada a realização de obras ou utilização do solo, subsolo e espaço aéreo da zona da estrada, quando se mostre absolutamente imprescindível para o requerente, ficando as obras a realizar no subsolo obrigatoriamente sujeitas à observância dos condicionamentos para abertura e fecho de valas nas estradas regionais, estabelecidos em portaria a aprovar pelo membro do Governo Regional responsável pela área das estradas regionais.
 
-4 - As obras e demais acções contempladas no presente artigo estão sujeitas a autorização da Direcção Regional de Estradas, sempre que a respectiva iniciativa seja de uma pessoa colectiva de direito público ou de utilidade pública.
+3 - A fim de garantir a reposição da zona da estrada na situação anterior à respetiva utilização, a emissão de autorização pode ser condicionada à prestação de caução, de montante correspondente ao dos trabalhos de reposição.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ### Capítulo III — Regime aplicável à zona de protecção à estrada
 
 ###### Artigo 9.º — Proibições na zona de protecção à estrada
 
-1 - É proibida a construção, estabelecimento ou implantação de:
+1 - Nas áreas incluídas na zona de proteção à estrada é proibida a construção, estabelecimento ou implantação de:
 
-a) Vedações de alvenaria, betão ou materiais semelhantes e muros que sirvam de suporte ou revestimento de terrenos sobranceiros nas zonas de visibilidade ou a menos de 2 m das bermas da estrada, valetas ou lancis da estrada.
+a) Vedações, construções e muros que sirvam de suporte ou revestimento de terrenos sobranceiros nas zonas de visibilidade ou a menos de 2 m das bermas da estrada, valetas ou lancis da estrada;
 
-A altura destas vedações não poderá exceder 0,90 m acima do terreno natural, podendo ser encimadas por rede ou grade de ferro com mais de 0,50 m em terrenos de nível ou inferior à plataforma da estrada. Quando os taludes tiverem 0,90 m ou mais, apenas se permite vedação em rede ou grade com soco;
+b) [Revogada.]
 
-b) Edifícios para habitação ou quaisquer construções simples, ainda que removíveis, numa faixa de terreno com a largura de 5 m para cada lado do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 7 m e as classificadas como via rápida, em que a referida faixa terá a largura de 10 m;
-
-c) Instalações de carácter industrial ou comercial, nomeadamente fábricas, oficinas, armazéns, restaurantes, hotéis e congéneres, igrejas, recintos de espectáculo, matadouros e quartéis de bombeiros, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m;
+c) [Revogada.]
 
 d) Edifícios ou outros obstáculos, independentemente da sua natureza, localizados em pontos de interesse panorâmico, entendendo-se como tais os locais que proporcionam um ângulo de visão alargado, dentro de uma área delimitada pelo eixo da estrada e por uma linha situada a 50 m daquele para cada lado e nas zonas de visibilidade, excepto se a cimalha construtiva do edifício ou o ponto mais alto do obstáculo ficarem 1 m abaixo do ponto mais baixo da rasante;
 
 e) Depósitos de sucata e de materiais ou objectos com mau aspecto, incluindo veículos automóveis inutilizados, contentores, desde que visíveis da estrada, salvo se se tratar de local expressamente preparado e autorizado para o efeito;
 
-f) Depósitos de materiais para venda, nomeadamente madeiras, carros ou máquinas, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m, sendo ainda, para além da distância mínima referida, a visibilidade reduzida por sebe e arranjo paisagístico adequado;
+f) [Revogada.]
 
-g) Depósitos de lixos ou entulhos desde que visíveis da estrada, excepto se se tratar de local expressamente preparado e autorizado para o efeito;
+h) Exposição e venda de quaisquer artigos ou produtos, exceto quando realizadas em locais dotados de zona de estacionamento permitido ou de parque de estacionamento, desde que a respetiva ocupação não prejudique o uso público viário, não comprometa as condições de circulação e de segurança rodoviária, não afete a visibilidade do trânsito, nem a estabilidade, conservação e gestão da infraestrutura rodoviária;
 
-h) Exposição e venda, designadamente de artigos regionais ou produtos agrícolas, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m, salvo se existir local adequado com parque privativo de modo que o estacionamento de veículos se verifique fora da zona da estrada e seja servido por acessos que respeitem o disposto no presente diploma;
+i) Plantação de árvores ou arbustos nas zonas de visibilidade ou a menos de 2 m do limite da zona da estrada, salvo se a Direção Regional de Estradas, designadamente por razões de segurança ou de ordem estética e ornamental, promover a arborização da estrada ou autorizar que a mesma se faça a distância inferior;
 
-i) Plantação de árvores ou arbustos nas zonas de visibilidade ou a menos de 2 m do limite da zona da estrada, salvo se a Secretaria Regional do Equipamento Social e Ambiente, designadamente por razões de segurança ou de ordem estética e ornamental, promover a arborização da estrada ou autorizar que a mesma se faça a distância inferior;
+j) Alterações do terreno natural por meio de aterros ou escavações nas zonas de visibilidade ou a menos de 20 m do limite da zona da estrada, salvo se devidamente licenciadas pelas entidades competentes, após parecer prévio favorável da Direção Regional de Estradas;
 
-j) Alterações do terreno natural por meio de aterros ou escavações nas zonas de visibilidade ou a menos de 50 m do limite da zona da estrada, salvo se devidamente licenciadas, após parecer favorável da Secretaria Regional do Equipamento Social e Ambiente;
-
-l) Tabuletas, anúncios, reclamos ou quaisquer objectos de publicidade, com ou sem carácter comercial, nas zonas de visibilidade ou a menos de 100 m do limite da zona da estrada, salvo se colocados nas paredes dos próprios edifícios e nunca a menos de 2 m do limite da plataforma da estrada. Exceptuam-se as tabuletas destinadas a identificar instalações públicas ou particulares de interesse geral, desde que autorizadas pela Direcção Regional de Estradas.
+l) Tabuletas, anúncios, reclamos ou quaisquer objetos de publicidade, com ou sem carácter comercial, nas zonas de visibilidade ou a menos de 50 m do limite da zona da estrada no caso das estradas regionais classificadas como via rápida ou via expresso, ou a menos de 20 m do limite da zona da estrada no caso das demais estradas regionais, salvo se colocados nas paredes dos próprios edifícios ou quando se trate de tabuletas destinadas a identificar instalações públicas ou particulares de interesse geral, desde que autorizadas pela Direção Regional de Estradas.
 
 2 - A distância das construções ao limite da zona da estrada mede-se pela parte mais saliente daquelas como escadas, varandas, beirais ou partes semelhantes.
 
-3 - É ainda proibida:
+3 - Na zona de proteção à estrada é ainda proibida:
 
-a) A incidência de focos luminosos que possam prejudicar ou pôr em perigo o trânsito;
+a) A escavação ou qualquer tipo de atividade que prejudique ou ponha em risco a estabilidade das áreas envolventes às fundações de muros de suporte ou outro tipo de infraestruturas da estrada;
 
-b) A produção de fumo proveniente de queimadas, gases tóxicos ou maus cheiros que possam prejudicar ou pôr em perigo o trânsito;
+b) A incidência de focos luminosos que possam prejudicar ou pôr em perigo o trânsito;
 
-c) A instalação de símbolos ou inscrições de carácter fúnebre, visíveis da estrada.
+c) A produção de fumo proveniente de queimadas, gases tóxicos ou maus cheiros que possam prejudicar ou pôr em perigo o trânsito;
 
-4 - A proibição a que se refere o n.º 1 do presente artigo não abrange:
+d) A instalação de símbolos ou inscrições de carácter fúnebre, visíveis da estrada.
 
-a) O estabelecimento de sebes vivas, desde que sejam mantidas aparadas, com a altura máxima de 0,90 m, a distância não inferior a 1 m da zona da estrada, e a construção ou estabelecimento, a título precário, de vedações de fácil remoção, em rede ou fio de arame liso, as quais poderão ser implantadas em soco de alvenaria ou betão, com altura não superior a 0,30 m acima do terreno natural, sempre que daí não resulte qualquer inconveniente para a estrada e com uma altura não superior a 1,40 m acima do terreno natural.
+4 - A proibição prevista no n.º 1 não abrange as seguintes situações, desde que precedidas de parecer prévio favorável da Direção Regional de Estradas:
 
-Tais vedações poderão ser mandadas retirar a todo o tempo, pela Direcção Regional de Estradas, mediante notificação aos proprietários respectivos e sem que lhes seja reconhecido direito a indemnização;
+a) O estabelecimento de sebes vivas, desde que sejam mantidas aparadas, com a altura máxima de 0,90 m e a construção ou estabelecimento, a título precário, de vedações de fácil remoção, em rede ou fio de arame liso, com uma altura não superior a 2 m acima do terreno natural, ambas a distância não inferior a 1 m da zona da estrada, sempre que daí não resulte qualquer inconveniente para a estrada, podendo as sebes vivas e vedações ser mandadas retirar a todo o tempo, pela Direção Regional de Estradas, mediante notificação aos respetivos proprietários e sem que lhes seja reconhecido direito a indemnização;
 
 b) As construções a efectuar à margem de estradas regionais quando atravessem centros populacionais, definidos como urbanos em plano municipal de ordenamento do território ou quando existam alinhamentos definidos aos quais essas construções deverão ficar subordinadas;
 
@@ -368,7 +409,9 @@ c) As construções que comprovadamente se destinem a solucionar problemas socia
 
 d) As construções à margem de estradas regionais, que condicionalismos especiais decorrentes de limitações geológicas e orográficas obriguem à respectiva implantação fora dos limites estabelecidos no n.º 1, desde que sustentados em estudo geológico específico elaborado por técnico habilitado da especialidade.
 
-5 - (Revogado.)
+e) As edificações cuja implantação seja anterior a 5 de setembro de 1993, comprovada pela câmara municipal territorialmente competente com base em elementos cartográficos ou outros meios de registo idóneos, e desde que as ampliações ou alterações posteriores de que tenham sido objeto não tenham agravado os afastamentos ou as condições de segurança da estrada regional.
+
+5 - [Revogado.]
 
 6 - A zona de visibilidade referida no n.º 1 do presente artigo é a zona de visibilidade no interior das concordâncias das ligações ou cruzamentos de estradas regionais entre si ou com vias municipais ou particulares e é limitada por uma linha que se obtém da seguinte maneira:
 
@@ -380,7 +423,9 @@ c) Pela projecção assim determinada traça-se uma recta igualmente inclinada s
 
 d) Quando se trate de concordâncias estabelecidas com raio superior aos indicados no n.º 2 do artigo 7.º deste diploma, é da curva traçada com esse raio que se partirá para obter a linha limite da zona de visibilidade.
 
-7 - (Revogado.)
+7 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41/2012/M - Diário da República n.º 251/2012, Série I de 2012-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386), em vigor a partir de 2012-12-29.
 
@@ -392,7 +437,9 @@ d) Quando se trate de concordâncias estabelecidas com raio superior aos indicad
 
 1 - Os proprietários de terrenos situados na zona de protecção à estrada têm obrigação de não praticar e de impedir a prática por terceiros das intervenções proibidas nos termos do n.º 1 do artigo anterior.
 
-2 - Sem prejuízo do direito de regresso do proprietário relativamente a terceiros, a Direcção Regional de Estradas pode proceder à execução administrativa para cumprimento do disposto no número anterior, sendo aplicável o procedimento legalmente previsto para a execução para prestação de facto fungível.
+2 - Sem prejuízo do direito de regresso do proprietário relativamente a terceiros, a Direção Regional de Estradas pode proceder à execução administrativa para cumprimento do disposto no número anterior, sendo aplicável o procedimento legalmente previsto para a execução para prestação de facto fungível.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ###### Artigo 11.º — Permissões em zonas com servidão non aedificandi
 
@@ -410,13 +457,17 @@ e) Obrigarem-se os proprietários a não exigir indemnização, no caso de futur
 
 2 - Não carecem de autorização, nos termos do presente diploma, as obras de simples conservação, reparação ou limpeza.
 
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41/2012/M - Diário da República n.º 251/2012, Série I de 2012-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386), em vigor a partir de 2012-12-29.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 25/2010/M - Diário da República n.º 252/2010, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634), em vigor a partir de 2010-12-31.
 
 ###### Artigo 12.º — Acções sujeitas a parecer ou a autorização na zona de protecção à estrada
 
-1 - Sem prejuízo do disposto no artigo 9.º, carecem de parecer favorável da Direcção Regional de Estradas as construções, ainda que facilmente removíveis, as obras, os trabalhos ou as actuações de qualquer natureza situados numa faixa de 30 m para cada lado a partir do eixo da plataforma da estrada.
+1 - Sem prejuízo do disposto no artigo 9.º, carecem de parecer prévio favorável da Direção Regional de Estradas as construções, ainda que facilmente removíveis, as obras, os trabalhos ou as atuações de qualquer natureza situados numa faixa de 30 m para cada lado a partir do eixo da plataforma da estrada.
+
+2 - Dependem de autorização da Direção Regional de Estradas:
 
 2 - Dependem de autorização da Direcção Regional de Estradas:
 
@@ -424,55 +475,69 @@ a) O estabelecimento de postos de abastecimento de combustíveis ou as obras nel
 
 b) A implantação de tabuletas ou objectos de publicidade, comercial ou não, desde que visíveis das estradas regionais.
 
-3 - As construções mencionadas no presente artigo podem ser recusadas quando, por razões estéticas ou de volumetria, haja prejuízo para a paisagem ou para a segurança do trânsito.
+3 - As construções mencionadas no presente artigo não são autorizadas quando, por razões estéticas ou de volumetria, resulte prejuízo para a paisagem ou para a segurança do trânsito.
+
+4 - Não carecem de autorização, nem de parecer prévio, nos termos do presente diploma, as obras de simples conservação, reparação ou limpeza.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41/2012/M - Diário da República n.º 251/2012, Série I de 2012-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386), em vigor a partir de 2012-12-29.
 
 ###### Artigo 13.º — Medidas de prevenção na fase de projecto
 
-Na ausência de específicas medidas preventivas, a constar de portaria do Vice-Presidente do Governo Regional, o regime definido no presente diploma para a zona de proteção à estrada é aplicável desde a publicação no Jornal Oficial da aprovação do estudo prévio de uma estrada regional ou de qualquer documento base equivalente, nomeadamente plantas ou esboços corográficos com base em cartas de escala rigorosa.
+Na ausência de aprovação de medidas preventivas, o regime definido no presente diploma para a zona de proteção à estrada é aplicável desde a publicação no Jornal Oficial da Região Autónoma da Madeira da aprovação do estudo prévio de uma estrada regional ou de qualquer documento base equivalente, nomeadamente plantas ou esboços corográficos com base em cartas de escala rigorosa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41/2012/M - Diário da República n.º 251/2012, Série I de 2012-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386), em vigor a partir de 2012-12-29.
 
 ### Capítulo IV — Disposições finais
 
-###### Artigo 14.º — Condições de licença, autorização ou parecer
+###### Artigo 14.º — Condições da autorização ou parecer prévio
 
-1 - A concessão de licenças e autorizações ou emissão de pareceres favoráveis previstas no presente diploma está sempre condicionada à salvaguarda da perfeita visibilidade para o trânsito.
+1 - A atribuição de autorizações ou a emissão de pareceres prévios favoráveis previstos no presente diploma está sempre condicionada à salvaguarda da perfeita visibilidade para o trânsito.
 
-2 - As obras ou intervenções devem efectuar-se em rigoroso acordo com os termos e condições constantes das licenças, autorizações ou pareceres, podendo ser exigida a prestação de caução, sob qualquer das formas em direito admitidas.
+2 - As obras ou intervenções devem efetuar-se em rigoroso acordo com os termos e condições constantes das autorizações ou pareceres, podendo ser exigida a prestação de caução, sob qualquer das formas em direito admitidas.
 
-3 - Se não for dado cumprimento às condições constantes das licenças, será imediatamente apreendido o respectivo título.
+3 - [Revogado.]
 
-4 - Os alinhamentos e cotas de nível necessários à execução de obras que careçam desses elementos serão marcados pelo pessoal da Direcção Regional de Estradas.
+4 - [Revogado.]
 
-5 - A concessão de autorização ou licença ou a emissão de parecer favorável para qualquer intervenção não dispensa outros actos ou formalidades que devam preceder a actuação, não isenta o requerente de responsabilidade civil, não envolve presunção de propriedade ou posse sobre os prédios, não pode ser invocada para contestar a oposição de terceiros e possui sempre natureza precária, não ocasionando a sua extinção, por motivo de interesse público, qualquer indemnização.
+5 - A atribuição de autorização ou a emissão de parecer prévio favorável para qualquer intervenção não dispensa outros atos ou formalidades que devam preceder a atuação, não isenta o requerente de responsabilidade civil, não envolve presunção de propriedade ou posse sobre os prédios, não pode ser invocada para contestar a oposição de terceiros e possui sempre natureza precária, não ocasionando a sua extinção, por motivo de interesse público, qualquer indemnização.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ###### Artigo 15.º — Forma e prazo
 
-1 - As licenças constarão de alvarás, que fixarão as condições e o prazo em que as obras devem ser concluídas, findo o qual devem ser revalidadas, ser for caso disso, mediante o pagamento de nova taxa.
+1 - [Revogado.]
 
-2 - A autorização para obras tem lugar por notificação constante de ofício, contendo os elementos referidos no número anterior.
+2 - As autorizações previstas no presente diploma são concedidas mediante notificação ao interessado, da qual constam os termos e condições para a realização das obras, intervenções ou atividades, podendo a autorização, a pedido do interessado e quando tal se justifique, ser revalidada mediante o pagamento de nova taxa, quando aplicável.
 
-3 - As licenças, autorizações ou pareceres, quando referentes a operações urbanísticas sujeitas a licenciamento pelas câmaras municipais, serão concedidos ou emitidos nos termos e nos prazos definidos no Decreto-Lei n.º 555/99, de 16 de Dezembro.
+3 - As autorizações ou pareceres, quando referentes a operações urbanísticas sujeitas a licenciamento pelas câmaras municipais, serão concedidos ou emitidos nos termos e nos prazos definidos no Decreto-Lei n.º 555/99, de 16 de dezembro.
 
-4 - As licenças, autorizações ou pareceres referentes a outras intervenções serão concedidos ou emitidos no prazo de 30 dias e seguirão o procedimento prescrito na legislação aplicável em função da intervenção.
+4 - As autorizações ou pareceres referentes a outras intervenções serão concedidos ou emitidos no prazo de 20 dias e seguirão o procedimento prescrito na legislação aplicável em função da intervenção.
 
-5 - (Revogado.)
+5 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 25/2010/M - Diário da República n.º 252/2010, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634), em vigor a partir de 2010-12-31.
 
 ###### Artigo 16.º — Fiscalização
 
-A fiscalização do cumprimento do estatuído no presente diploma compete à Direcção Regional de Estradas e a quaisquer entidades com competência em razão da natureza da intervenção.
+A fiscalização do cumprimento do estatuído no presente diploma compete à Direção Regional de Estradas e a quaisquer entidades com competência em razão da natureza da intervenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ###### Artigo 17.º — Nulidade
 
 1 - São nulos e de nenhum efeito os licenciamentos ou autorizações concedidos por quaisquer entidades com violação do disposto no presente diploma.
 
-2 - Os factos geradores das nulidades previstas neste artigo e quaisquer outros factos de que possa resultar a invalidade dos actos administrativos previstos no presente diploma devem ser participados, por quem deles tenha conhecimento, ao Ministério Público para efeitos de propositura da competente acção administrativa especial e respectivos meios processuais acessórios.
+2 - Os factos geradores das nulidades previstas neste artigo e quaisquer outros factos de que possa resultar a invalidade dos atos administrativos previstos no presente diploma devem ser participados, por quem deles tenha conhecimento, ao Ministério Público para efeitos de propositura da competente ação administrativa e respetivos meios processuais acessórios.
 
-3 - (Revogado.)
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 25/2010/M - Diário da República n.º 252/2010, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634), em vigor a partir de 2010-12-31.
 
@@ -480,15 +545,55 @@ A fiscalização do cumprimento do estatuído no presente diploma compete à Dir
 
 Tratando-se de edificações sujeitas a licenciamento municipal, não há lugar à emissão do parecer previsto no n.º 1 do artigo 12.º, caso as mesmas se situem em área abrangida por plano de pormenor ou alvará de loteamento, excepto havendo qualquer alteração a esses instrumentos de planeamento.
 
+###### Artigo 18.º-A — Acesso a prédios particulares
+
+1 - Sempre que, por razões de conservação, manutenção, proteção ou segurança da estrada ou da circulação rodoviária, se mostre necessário realizar trabalhos em prédio particular destinados a prevenir ou eliminar situações suscetíveis de pôr em risco a estrada ou a segurança da circulação rodoviária, a Direção Regional de Estradas pode determinar o acesso ao mesmo e a sua utilização temporária, na medida estritamente necessária à execução dos trabalhos.
+
+2 - O disposto no número anterior aplica-se independentemente da localização ou da contiguidade do prédio com a zona da estrada ou com as respetivas zonas de proteção, desde que os trabalhos a realizar se mostrem necessários à conservação, manutenção, proteção ou segurança da estrada ou à prevenção ou eliminação de situações suscetíveis de afetar a circulação rodoviária.
+
+3 - Para efeitos do disposto no n.º 1, podem ser realizados, designadamente, os seguintes trabalhos:
+
+a) Inspeções, levantamentos, estudos e avaliações técnicas;
+
+b) Desmatação, limpeza, corte ou poda de árvores, arbustos ou outra vegetação;
+
+c) Limpeza, consolidação ou estabilização de taludes e escarpas;
+
+d) Remoção de terras, pedras, árvores ou outros materiais suscetíveis de atingir ou afetar a estrada;
+
+e) Execução de trabalhos destinados a prevenir ou eliminar situações de erosão, desprendimento ou deslizamento de terras ou pedras;
+
+f) Outras intervenções necessárias à conservação, manutenção, proteção ou segurança da estrada ou da circulação rodoviária.
+
+4 - O acesso e a utilização dos prédios são efetuados por pessoas devidamente credenciadas para o efeito e devem limitar-se à área, ao período e aos trabalhos estritamente necessários à intervenção.
+
+5 - Salvo nas situações de perigo iminente ou quando a urgência da intervenção não seja compatível com a sua realização, os proprietários ou demais titulares de direitos sobre os prédios são previamente notificados da natureza, finalidade e, quando possível, duração previsível dos trabalhos.
+
+6 - Os proprietários ou demais titulares de direitos sobre os prédios não podem impedir ou dificultar o acesso ou a realização dos trabalhos determinados nos termos do presente artigo.
+
+7 - Em caso de oposição ou impedimento à realização dos trabalhos, a Direção Regional de Estradas pode, mediante decisão fundamentada, solicitar a colaboração das autoridades policiais para assegurar o acesso ao prédio e a execução da intervenção.
+
+8 - Nas situações de perigo iminente para a segurança da estrada ou da circulação rodoviária, os trabalhos podem ser executados de imediato, sem prévia notificação dos proprietários ou demais titulares de direitos, devendo estes ser informados logo que possível.
+
+9 - Os prejuízos efetivamente causados pelo acesso ou utilização temporária dos prédios são indemnizados, nos termos da lei.
+
+10 - O acesso e a utilização dos prédios efetuados ao abrigo do presente artigo não conferem à Administração qualquer direito sobre os mesmos, nem prejudicam os direitos dos respetivos titulares.
+
+11 - A oposição ou o impedimento injustificado à realização dos trabalhos que determine a ocorrência ou o agravamento de danos na estrada ou na segurança da circulação rodoviária, não prejudica o apuramento da responsabilidade do respetivo autor.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
+
 ###### Artigo 19.º — Contra-ordenações
 
-1 - Constitui contra-ordenação, punível com coima de montante entre (euro) 250 e o limite máximo estabelecido no Regime Geral das Contra-Ordenações, a prática de actividades ou a omissão de deveres em violação do estipulado nos artigos 5.º a 12.º do presente diploma, sem prejuízo da sujeição do transgressor a medidas que se mostrem adequadas à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma.
+1 - Constitui contraordenação, punível com coima de montante entre 250 € e os limites máximos estabelecidos no regime geral das contraordenações, a prática de atividades ou a omissão de deveres em violação do estipulado nos artigos 5.º a 12.º e no n.º 2 do artigo 14.º, sem prejuízo da sujeição do transgressor a medidas que se mostrem adequadas à reposição da situação anterior à infração e à minimização dos efeitos decorrentes da mesma.
 
 2 - A tentativa e a negligência são puníveis nos termos do regime geral das contra-ordenações.
 
-3 - O director regional de Estradas é competente para a instrução do processo de contra-ordenação e aplicação da coima e das sanções acessórias.
+3 - O diretor regional de Estradas é competente para a instauração, instrução e decisão do processo de contraordenação, bem como para a aplicação da coima e das sanções acessórias.
 
 4 - A afectação do produto das coimas reverte para a Região.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 25/2010/M - Diário da República n.º 252/2010, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634), em vigor a partir de 2010-12-31.
 
@@ -508,21 +613,23 @@ c) Cessação ou suspensão de licenças, alvarás ou autorizações.
 
 ###### Artigo 21.º — Embargo e demolição
 
-1 - Sem prejuízo do disposto nos artigos anteriores, a Secretaria Regional do Equipamento Social e Ambiente e as câmaras municipais podem embargar e demolir as obras, bem como fazer cessar outras intervenções realizadas em violação ao disposto no presente diploma, tal como determinar a reposição do terreno nas condições anteriores à prática da infracção.
+1 - Sem prejuízo do disposto nos artigos anteriores, a Direção Regional de Estradas e as câmaras municipais podem embargar e demolir as obras, bem como fazer cessar outras intervenções realizadas em violação ao disposto no presente diploma, tal como determinar a reposição do terreno nas condições anteriores à prática da infração.
 
 2 - A notificação do embargo é feita no local a qualquer das pessoas que realizam os trabalhos, bem como ao interessado, bastando qualquer dessas notificações para obrigar à suspensão dos trabalhos.
 
 3 - Após o embargo, é de imediato lavrado o respectivo auto, que contém a identificação do funcionário ordenante, das testemunhas, se as houver, e do notificado, a data, a hora e o local da diligência, as razões que a justificam, o estado da obra e a ordem de proibição de prosseguir a obra, bem como das consequências legais do incumprimento.
 
-4 - As entidades competentes nos termos do n.º 1, sendo caso disso, intimam o proprietário a demolir as obras ou a repor o terreno no estado anterior à intervenção, estabelecendo um prazo para o efeito. Se o proprietário não acatar a ordem, a demolição de obras ou a reposição do terreno será efectuada pelas entidades competentes, sendo os respectivos custos da responsabilidade do infractor e cobrados coercivamente na falta de pagamento voluntário.
+4 - As entidades competentes nos termos do n.º 1 podem, quando for caso disso, notificar o proprietário para demolir as obras ou repor o terreno no estado anterior à intervenção, fixando um prazo para o efeito.
 
-5 - A ordem de demolição ou de reposição a que se refere o número anterior é antecedida de audição do interessado, que dispõe de oito dias a contar da data da sua notificação para se pronunciar.
+5 - A ordem de demolição ou de reposição a que se refere o número anterior é antecedida de audiência prévia do interessado, que dispõe do prazo de oito dias a contar da data da notificação para se pronunciar.
 
-6 - Decorrido o prazo referido no número anterior sem que a ordem se mostre cumprida, a entidade ordenante procede à demolição ou à reposição do terreno por conta do interessado.
+6 - Decorrido o prazo referido no n.º 4, sem que se mostre cumprida a ordem, a entidade ordenante procede à demolição das obras ou à reposição do terreno por conta do infrator, sendo os respetivos custos cobrados coercivamente na falta de pagamento voluntário.
 
 7 - Quando não for possível a reposição da situação anterior, haverá lugar ao pagamento de indemnização à Região.
 
-8 - No caso de se verificar perigo eminente para os utentes da estrada, a demolição será efectuada sem prévia audição do interessado, podendo ser imediatamente executada pelas entidades competentes, embora por conta do interessado.
+8 - No caso de se verificar perigo iminente para os utentes da estrada, a demolição ou reposição do terreno pode ser efetuada sem audiência prévia do infrator, podendo ser imediatamente executada pelas entidades competentes, por conta do infrator.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 ###### Artigo 22.º — Taxas
 
@@ -530,9 +637,9 @@ c) Cessação ou suspensão de licenças, alvarás ou autorizações.
 
 a) Pela ocupação do subsolo da zona da estrada, por cada metro de extensão de canalização ou aqueduto;
 
-b) Pela ocupação temporária de parte da zona da estrada com construções, abrigos móveis ou andaimes, por metro quadrado, em cada mês ou fracção;
+b) Pela ocupação temporária de parte da zona da estrada com construções ou abrigos móveis, por metro quadrado, em cada mês ou fração;
 
-c) Pela passagem de águas de rega pelas valetas da estrada ou em canalizações ao longo da estrada, por cada metro de extensão;
+c) [Revogada.]
 
 d) Pelos passadiços ou atravessamentos no espaço aéreo da estrada, por cada metro;
 
@@ -544,19 +651,23 @@ g) Pela construção, ampliação ou modificação de edifícios, por cada metro
 
 h) Pelo estabelecimento de muros ou vedações de carácter não removível, por cada metro de extensão;
 
-i) Pela implantação temporária de mastros para embandeiramento ou ornamentação, por cada mastro;
+i) [Revogada.]
 
-j) Pela implantação de tabuletas ou objectos de publicidade, por cada metro quadrado ou fracção;
+j) [Revogada.]
 
 l) Pelo estabelecimento ou ampliação de postos de combustível por cada bomba abastecedora de combustível.
 
-2 - O valor das taxas a aplicar será fixado anualmente por portaria conjunta do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.
+2 - O valor das taxas a aplicar será fixado anualmente por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e das estradas regionais.
 
-3 - São isentas de qualquer taxa:
+3 - Estão isentas de taxas:
 
-a) As obras de igrejas, escolas, hospitais e estabelecimentos de beneficência ou de interesse público;
+a) As obras relativas a edifícios públicos, designadamente escolas, hospitais e estabelecimentos de beneficência, bem como outras consideradas de interesse público;
 
 b) Canalizações de águas e esgotos respeitantes a serviços públicos.
+
+c) Redes técnicas de eletricidade e telecomunicações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/M - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41/2012/M - Diário da República n.º 251/2012, Série I de 2012-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386), em vigor a partir de 2012-12-29.
 

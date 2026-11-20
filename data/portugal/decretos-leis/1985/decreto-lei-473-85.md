@@ -43,11 +43,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2020-04-01'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-473-85.versoes.json
-  count: 2
-  source_lastmod: '2024-06-25'
+  count: 3
+  source_lastmod: '2026-11-11'
   versions:
   - date: '1985-11-11'
     amending: null
@@ -58,6 +58,12 @@ version_history:
     amending_title: Lei n.º 2/2020
     changes:
     - Adita Artigo 2.º-A
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/473/1985/p/cons/20200331/pt/html
@@ -72,19 +78,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/473/1985/p/cons/20200331/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-131293593
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-131293593
-  retrieved_at: '2026-10-22T12:31:48Z'
+  retrieved_at: '2026-11-20T13:51:12Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 11c2a9d1ebe45e2181f71eb044db055a43d7875a78dcd0eede2800557a03a289
+  source_sha256: 6dcae17e517b0f4aac27908219de9ded6105664157f0df453ebb3443016ce6be
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:31:48Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-473-85.versoes.json.
+  generated_at: '2026-11-20T13:51:12Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-473-85.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,6 +110,11 @@ relationships:
   label: Adita Artigo 2.º-A
   source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
   date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 1.º; Revoga Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 article_structure:
   article_count: 4
   section_count: 0
@@ -113,7 +124,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:31:48Z'
+  checked_at: '2026-11-20T13:51:12Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +147,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º
 
-Aos motoristas dos gabinetes dos membros do Governo e da Presidência da República, bem como ao pessoal referido nos Decretos-Leis n.º 305/82, de 2 de Agosto, e 434-B1/82, de 29 de Outubro, e ainda aos elementos da Polícia de Segurança Pública que garantem a segurança pessoal aos membros do Governo não abrangidos pelos referidos diplomas poderá ser satisfeito o encargo com a refeição, até ao limite de 25% da correspondente ajuda de custo diária, sempre que, deslocados em serviço que não dê origem ao pagamento de ajudas de custo, o período da deslocação abranja a hora da refeição e, em virtude da função desempenhada, este pessoal fique impossibilitado de a tomar no local habitual.
+Aos motoristas dos gabinetes dos membros do Governo e da Presidência da República, bem como ao pessoal referido no Decreto-Lei n.º 434-B1/82, de 29 de outubro, e ainda aos elementos da Polícia de Segurança Pública que garantem a segurança pessoal aos membros do Governo não abrangidos pelos referidos decretos-leis é satisfeito o encargo com a refeição, em montante correspondente a 25 % da respetiva ajuda de custo diária, sempre que, deslocados em serviço que não dê origem ao pagamento de ajudas de custo, o período da deslocação abranja a hora da refeição e este pessoal fique impossibilitado de a tomar no local habitual, ou sempre que permaneçam ao serviço após as 20 horas ou ao fim de semana ou feriado por força de obrigações profissionais e fiquem impossibilitados de tomar a refeição no local de residência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03, com efeitos a partir de 2026-12-02.
 
 ###### Artigo 2.º
 
 Quando o encargo satisfeito nos termos do artigo anterior corresponder ao almoço, será deduzido do valor do subsídio diário de refeição a que houver direito.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 ###### Artigo 2.º-A
 

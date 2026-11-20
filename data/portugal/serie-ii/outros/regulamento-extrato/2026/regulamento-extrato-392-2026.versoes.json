@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1086130050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-extrato/2026-1130499775",
+ "dre_path": "/dr/detalhe/regulamento-extrato/392-2026-1086130050",
+ "source_lastmod": "2026-10-27",
+ "versions": [
+  {
+   "date": "2026-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1186527975",
+    "1130500175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1186527975": {
+   "fragment_id": "1130499875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovação da 2.ª alteração da tabela de taxas\n\n1 - A aprovação da alteração da Tabela de Taxas quanto à taxa aplicada nos pontos 4.4 - “Loja para restauração, com uma área útil de 80,00 m2, por mês” e 4.5 - “Espaço armazém, com uma área de 12,40 m2, por mês”, nos termos do n.º 3 do artigo 7.º do Regulamento da Tabela Geral das Taxas da UFOPAC, que deverá vigorar a partir da sua publicação no D.R., após a aprovação do Executivo e da Assembleia de Freguesia.\n\n| 4. | Arrendamento de espaços comerciais - lojas delegação Caxias * |  |  |\n| --- | --- | --- | --- |\n| 4.1 | Loja n.º 6, com uma área de 30,97 m2, por mês | 361,13 | NS |\n| 4.2 | Loja n.º 7, com uma área de 31,15 m2, por mês | 423,20 | NS |\n| 4.3 | Loja n.º 8, com uma área de 33,25 m2, por mês | 387,77 | NS |\n| 4.4 | Loja para restauração, com uma área útil de 80,00 m2, por mês * | 1 500,00 | NS |\n| 4.5 | Espaço armazém, com uma área de 12,40 m2, por mês ** | 50,00 | NS |\n\n* atualmente € 932,76\n\n** atualmente € 46,53\n\n2 - O envio da presente proposta à Assembleia de Freguesia para análise e aprovação, nos termos da alínea d), do n.º 1, do artigo 9.º, da Lei n.º 75/2013 de 12 de setembro.\n\n3 - Disponibilizar para consulta nos atendimentos ao público, em formato de papel e em local visível, nos locais de estilo nos edifícios da sede e delegações, o regulamento e fundamentação económico-financeira que cria as taxas previstas na lei do “Regime Geral das Taxas das Autarquias Locais” (Lei n.º 53-E/2006 de 29/12), de acordo com o seu artigo 13.º\n\n4 - Publicar a alteração à Tabela de Taxas no Diário da República.\n\n5 - Publicar edital da presente deliberação na página eletrónica, nos locais de estilo nos edifícios da sede e delegações, conforme previsto na lei do “Regime Geral das Taxas das Autarquias Locais” (Lei n.º 53-E/2006 de 29/12), de acordo com o seu artigo 13.º"
+  },
+  "1130500175": {
+   "fragment_id": "1130500075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "16 de fevereiro de 2026. - A Presidente, Madalena Castro."
+  }
+ }
+}

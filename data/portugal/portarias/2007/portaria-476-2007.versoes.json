@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519418:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-978667811",
+ "dre_path": "/dr/detalhe/portaria/476-2007-519418",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2010-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609585:por",
+     "title": "Portaria n.º 114/2010",
+     "published": "2010-02-25",
+     "dre_path": "/dr/detalhe/portaria/114-2010-609585"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "978750475",
+    "1194720775",
+    "1194722875",
+    "1194720975",
+    "1194723075",
+    "1194721175",
+    "1194723175",
+    "1194723375",
+    "978750675"
+   ]
+  }
+ ],
+ "fragments": {
+  "978750475": {
+   "fragment_id": "978750375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Portaria n.º 1488/2004, de 24 de Dezembro, adoptou, a título de experiência pedagógica, a terminologia linguística para os ensinos básico e secundário (TLEBS), constante do respectivo anexo. Essa iniciativa foi, então, justificada pela necessidade, largamente partilhada pelos especialistas e pelos próprios professores, de corrigir os erros terminológicos e de superar a desactualização da nomenclatura gramatical portuguesa, aprovada pela Portaria n.º 22664, de 28 de Abril de 1967.\n\nA mesma portaria determinou o início da experiência no ano lectivo de 2004-2005, fixando a sua duração em três anos lectivos, findos os quais a TLEBS entraria generalizadamente em vigor. Admitia, porém, expressamente, a possibilidade de introdução das alterações que os resultados da experiência viessem a aconselhar.\n\nO desenvolvimento da experiência piloto, durante o ano de 2005-2006, bem como a entrada progressiva de escolas e docentes na fase experimental, permitiu identificar alguns termos inadequados na lista aprovada pela Portaria n.º 1488/2004, de 24 de Dezembro, que aprova a TLEBS, e, bem assim, dificuldades nas condições científicas e pedagógicas da sua generalização.\n\nDeste modo, tornou-se necessário definir novas orientações, tendo em especial consideração que qualquer intervenção deverá salvaguardar a continuidade e estabilidade pedagógicas e respeitar o trabalho que professores e alunos realizam nas escolas.\n\nForam ouvidas a Associação de Editores e Livreiros e a União de Editores Portugueses.\n\nAssim:\n\nAo abrigo do disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 47587, de 10 de Março de 1967, no n.º 7 do artigo 47.º da Lei n.º 46/86, de 14 de Outubro, e no n.º 1 do artigo 14.º do Decreto-Lei n.º 213/2006, de 27 de Outubro:\n\nManda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "1194720775": {
+   "fragment_id": "1194720675",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nA terminologia linguística para os ensinos básico e secundário (TLEBS), publicada em anexo à Portaria n.º 1488/2004, de 24 de Dezembro, é objecto de revisão científica e adaptação pedagógica nos termos dos números seguintes."
+  },
+  "1194722875": {
+   "fragment_id": "1194722775",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA Direcção-Geral de Inovação e Desenvolvimento Curricular (DGIDC), recorrendo à colaboração de especialistas de reconhecido mérito, deve apresentar dois documentos de referência:\n\na) Um, de carácter científico, com a lista de termos e respectivas definições, destinado a professores;\n\nb) Outro, de carácter didáctico-pedagógico, com os termos a trabalhar, por ciclo de ensino, e propostas de materiais a utilizar pelos professores nas situações de ensino-aprendizagem."
+  },
+  "1194720975": {
+   "fragment_id": "1194720875",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nOs documentos referidos no número anterior serão submetidos a consulta pública por um período não inferior a 90 dias."
+  },
+  "1194723075": {
+   "fragment_id": "1194722975",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nSão revogados os n.os 4.º e 5.º da Portaria n.º 1147/2005, de 8 de Novembro."
+  },
+  "1194721175": {
+   "fragment_id": "1194721075",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nA DGIDC procede, até Janeiro de 2009, à revisão dos programas das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade."
+  },
+  "1194723175": {
+   "fragment_id": "1194721275",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2010-02-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26."
+   ],
+   "markdown": "###### Artigo 6.º\n\nOs programas revistos e homologados entram em vigor no ano lectivo de 2010-2011.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26."
+  },
+  "1194723375": {
+   "fragment_id": "1194721475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2010-02-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26."
+   ],
+   "markdown": "###### Artigo 7.º\n\nFicam suspensos, até 2010, os processos de adopção de novos manuais das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26."
+  },
+  "978750675": {
+   "fragment_id": "978750575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 7 de Março de 2007."
+  }
+ },
+ "unavailable_dates": [
+  "2007-04-18"
+ ]
+}

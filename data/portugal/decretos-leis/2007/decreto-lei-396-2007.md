@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2019-06-29'
+  consolidation_date: '2026-10-23'
 version_history:
   file: decreto-lei-396-2007.versoes.json
-  count: 3
-  source_lastmod: '2024-06-25'
+  count: 4
+  source_lastmod: '2026-10-23'
   versions:
   - date: '2007-12-31'
     amending: null
@@ -82,6 +82,11 @@ version_history:
     changes:
     - Adita Artigo 20.º-A
     - Altera Artigo 16.º
+  - date: '2026-10-23'
+    amending: pt:dre:1184484176:por
+    amending_title: Lei n.º 64-A/2026
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/396/2007/p/cons/20190628/pt/html
@@ -96,19 +101,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/396/2007/p/cons/20190628/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34556675
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34556675
-  retrieved_at: '2026-10-22T11:52:33Z'
+  retrieved_at: '2026-11-20T13:48:47Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-23T00:00:00Z'
 integrity:
-  source_sha256: f49173450911cda126591656c89de21e10f58112607fc7b4398396f606e5f0d0
+  source_sha256: 2699ae5ab6a0cf66a928d770a66c1db739c272f4f58d243305007e30a68e7a2e
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:52:33Z'
-  notes: 3 versão(ões); histórico completo em decreto-lei-396-2007.versoes.json.
+  generated_at: '2026-11-20T13:48:47Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-396-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,6 +150,11 @@ relationships:
   label: Adita Artigo 20.º-A; Altera Artigo 16.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
   date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:1184484176:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2026-1184484176
+  date: '2026-10-22'
 - type: cites
   target: pt:dre:200004:por
   label: null
@@ -190,7 +200,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:52:33Z'
+  checked_at: '2026-11-20T13:48:47Z'
   warnings: []
   errors: []
 ---
@@ -551,11 +561,15 @@ A apreciação da adequação da estrutura curricular e do plano dos cursos de f
 
 1 - Constituem a rede de entidades formadoras do SNQ os estabelecimentos de ensino básico e secundário, os centros de formação profissional e de reabilitação profissional de gestão direta e protocolares do IEFP, I. P., no âmbito dos ministérios responsáveis pelas áreas da educação e da formação profissional, as entidades formadoras integradas noutros ministérios ou noutras pessoas coletivas de direito público, bem como os estabelecimentos de ensino particular e cooperativo, as escolas profissionais, os centros especializados em qualificação de adultos e as entidades com estruturas formativas certificadas do setor privado, sem prejuízo no disposto nos n.os 2, 3 e 4 do artigo 1.º
 
-2 - A certificação das entidades formadoras é realizada pelo serviço competente do ministério responsável pela área da formação profissional envolvendo a participação dos parceiros sociais e outras entidades representativas do setor, nos termos de portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+2 - A certificação das entidades formadoras é realizada pelo serviço competente do ministério responsável pela área da formação profissional envolvendo a participação de um representante de cada região autónoma, dos parceiros sociais e outras entidades representativas do setor, nos termos de portaria conjunta dos membros do Governo responsáveis pelas áreas da educação e da formação profissional, sem prejuízo do disposto no n.º 4.
 
-3 -(Revogado).
+3 - (Revogado.)
 
-> Alterado pelo/a Artigo 207.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+4 -  Os representantes das regiões autónomas são nomeados por despacho do secretário regional que tutela a área da formação e qualificação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64-A/2026 - Diário da República n.º 205/2026, Suplemento, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2026-1184484176), em vigor a partir de 2026-10-23.
+
+> Alterado pelo/a Artigo 207.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
 

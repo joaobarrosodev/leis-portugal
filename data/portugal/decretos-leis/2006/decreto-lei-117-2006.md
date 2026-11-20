@@ -40,18 +40,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2007-01-01'
 version_history:
   file: decreto-lei-117-2006.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-11'
   versions:
-  - date: '2006-06-20'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2007-01-01'
     amending: pt:dre:197511:por
     amending_title: Lei n.º 53-A/2006
@@ -69,21 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2006-345300
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2006/06/20/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2006-345300
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:52:06Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-979328550
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-979328550
+  retrieved_at: '2026-11-20T13:51:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 682ac263c8a8e3fd54a706aca751ea802f92d61d3e67225d0e1e24d84ba6687d
+  source_sha256: f6f889bfeec9ff88ea806ad688b90b3f81ff7171b0c90999be3a0704f31e9554
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:52:06Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 53-A/2006. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-117-2006.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:52Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-117-2006.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,24 +118,22 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:52:06Z'
+  checked_at: '2026-11-20T13:51:52Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 117/2006
 
-de 20 de Junho
-
 A possibilidade de se estabelecer, na Administração Pública, vínculo laboral por contrato individual de trabalho surgiu da necessidade de modernização da Administração Pública. Esta abertura tem vindo a tornar-se extensiva a um maior número de serviços e organismos. Assim, assiste-se cada vez com mais frequência à inscrição no regime geral de segurança social dos trabalhadores por conta de outrem, designadamente de indivíduos que terminaram contratos administrativos de provimento e iniciaram com a mesma entidade um contrato individual de trabalho. Estes indivíduos, inscritos de novo no regime geral da segurança social e que se encontravam, por força do anterior vínculo laboral, abrangidos pelo regime de protecção social aplicável aos funcionários e agentes da Administração Pública, não devem ver a sua situação contributiva prejudicada para efeitos de atribuição das prestações deste regime no que diz respeito ao cômputo de prazos de garantia, de remuneração de referência e de índice de profissionalidade. Na verdade, pese embora que já se encontrem previstas, no regime de cada uma das eventualidades, normas que consagram a totalização de períodos contributivos inscritos em qualquer regime obrigatório de protecção social, o certo é que a determinação do montante de subsídio a atribuir ao beneficiário só tem em consideração as remunerações inscritas no regime de segurança social. Daqui resulta que ao trabalhador sejam atribuídos subsídios de montante inferior ao de que deveriam beneficiar se, durante o tempo tido por legalmente necessário, tivessem contribuído sempre para este regime. Este limite é o resultado do princípio da contributividade consagrado na lei de bases da segurança social. É, pois, neste contexto, e na harmonia entre o princípio da contributividade e o da justiça material para com os trabalhadores que ininterruptamente, de forma obrigatória, contribuíram para um sistema de segurança social, que o XVII Governo Constitucional aprova, através do presente decreto-lei, regras especiais aplicáveis às situações de transição do regime de protecção social dos funcionários e agentes da Administração Pública para o regime geral de segurança social dos trabalhadores por conta de outrem.
 
-Atendendo a que a matéria constante do presente decreto-lei se destina exclusivamente aos trabalhadores da Administração Pública em regime de direito privado, na sua elaboração não se aplicam os procedimentos constantes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio, conforme resulta do disposto no seu artigo 1.º
+Atendendo a que a matéria constante do presente decreto-lei se destina exclusivamente aos trabalhadores da Administração Pública em regime de direito privado, na sua elaboração não se aplicam os procedimentos constantes da Lei n.º 23/98, de 26 de Maio, conforme resulta do disposto no seu artigo 1.º
 
 Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
 
@@ -191,7 +185,7 @@ A concessão das prestações nos termos do artigo anterior, bem como a determin
 
 4 - Os descontos correspondentes à protecção social efectuados sobre as remunerações dos trabalhadores abrangidos pelo n.º 1 do presente artigo devem ser entregues pelas entidades empregadoras nos cofres do Estado na rubrica de receita 'Outras receitas correntes - Outras'.
 
-> Alterado pelo/a Artigo 141.º do/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
+> Alterado pelo/a Artigo 141.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01.
 
 ###### Artigo 8.º — Encargos
 

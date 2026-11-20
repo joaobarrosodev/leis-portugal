@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:924672853:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-924789635",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2025-924672853",
+ "source_lastmod": "2026-11-09",
+ "versions": [
+  {
+   "date": "2026-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1192521453:por",
+     "title": "Decreto Legislativo Regional n.º 19/2026/A",
+     "published": "2026-11-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "924789555",
+    "924789556",
+    "1192855675",
+    "1192855975",
+    "1192856275",
+    "924789560",
+    "924789561",
+    "1192856575",
+    "924789563",
+    "924789564",
+    "924789565",
+    "924789566",
+    "924789567",
+    "924789568",
+    "924789569",
+    "924789570"
+   ]
+  }
+ ],
+ "fragments": {
+  "924789555": {
+   "fragment_id": "924789636",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria o cheque-dentista\n\nDe acordo com a Organização Mundial de Saúde (OMS), uma boa saúde oral permite o desempenho de funções essenciais como comer, respirar e falar e contribui para o bem-estar, autoconfiança e a capacidade de socializar e trabalhar sem dor, vergonha e desconforto.\n\nEntre as mais recentes resoluções políticas sobre esta matéria, indicadas pela OMS e pela Federação Dentária Internacional, destaca-se, precisamente, a intenção de garantir uma cobertura universal da saúde oral até 2030.\n\nPara a Região Autónoma dos Açores importa, pois, desenvolver estratégias e implementar medidas com vista à melhoria da saúde oral, através da prevenção e tratamento precoce de doenças.\n\nNessa conformidade, o Plano Regional Anual aprovado para o ano de 2025 vem consagrar, pela primeira vez, um investimento público na área da saúde oral, com vista à criação e regulamentação do cheque-dentista.\n\nA implementação do cheque-dentista permitirá a cobertura e o acesso a cuidados personalizados, preventivos e curativos em toda a nossa Região, garantindo-se a melhoria do estado de saúde oral e, naturalmente, da saúde como um todo.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, e do n.º 1 do artigo 37.º e do n.º 1 do artigo 59.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "924789556": {
+   "fragment_id": "924789637",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria o cheque-dentista na Região Autónoma dos Açores."
+  },
+  "1192855675": {
+   "fragment_id": "924789638",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2026-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO cheque-dentista é atribuído aos utentes inscritos no Serviço Regional de Saúde cujo agregado familiar apresente um rendimento bruto per capita anual igual ou inferior a 14 vezes o valor correspondente à remuneração mínima mensal garantida na Região Autónoma dos Açores, acrescido de 20 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+  },
+  "1192855975": {
+   "fragment_id": "924789639",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de prioridade",
+   "in_force_from": "2026-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+   ],
+   "markdown": "###### Artigo 3.º — Critérios de prioridade\n\nO cheque-dentista é atribuído de acordo com os seguintes critérios de prioridade:\n\na) Grávidas seguidas no Serviço Regional de Saúde, com indicação até 60 dias após o parto;\n\nb) Idade inferior a 18 anos;\n\nc) Impacto na resolução de problemas de saúde, devidamente validado pelo médico especialista do Serviço Regional de Saúde assistente do utente;\n\nd) [Revogada.]\n\ne) Utentes que já iniciaram tratamento ao abrigo do presente diploma e cujo tratamento preventivo ou curativo não foi finalizado por motivo não imputável aos próprios;\n\nf) Utentes com indicação para reabilitação oral em casos específicos de problemas graves de oclusão, fonéticos ou estéticos, desde que devidamente validados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+  },
+  "1192856275": {
+   "fragment_id": "924789640",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor",
+   "in_force_from": "2026-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+   ],
+   "markdown": "###### Artigo 4.º — Valor\n\n1 - O valor de cada cheque-dentista corresponde a 95 % do custo do plano de tratamento para os seguintes cuidados de saúde oral:\n\na) Consultas de rotina e avaliação, com vista à prevenção e promoção da saúde oral de forma integrada;\n\nb) Tratamentos dentários preventivos que incluam profilaxia periódica, reabilitação das estruturas dentárias e extrações dentárias em casos extremos;\n\nc) Tratamentos ortodônticos em utentes com idade inferior a 18 anos à data da avaliação prévia nos termos do artigo seguinte, em casos de problemas graves de oclusão, fonéticos ou estéticos;\n\nd) Tratamentos de reabilitação oral, com recurso a prótese dentária removível;\n\ne) Tratamentos de reabilitação oral fixa, em casos extremos e devidamente fundamentados.\n\n2 - Excluem-se todos os tratamentos de cariz estritamente estético.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+  },
+  "924789560": {
+   "fragment_id": "924789641",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação prévia\n\n1 - A atribuição do cheque-dentista depende de avaliação prévia do médico dentista da Unidade de Saúde de Ilha (USI) de referência do utente a fim de determinar a necessidade dos cuidados de saúde oral referidos no artigo anterior.\n\n2 - A avaliação a que se refere o número anterior pode ser realizada na sequência de referenciação interna do médico de família ou médico assistente.\n\n3 - Na ausência de médico dentista na USI, a avaliação é feita por médico dentista de outra USI da Região."
+  },
+  "924789561": {
+   "fragment_id": "924789642",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuição\n\n1 - Após a verificação da necessidade da prestação dos cuidados de saúde oral referidos no artigo 4.º, o utente apresenta, na USI em que se encontra inscrito, dois planos de tratamento de entidades privadas ou do setor social, à sua escolha, sedeadas na Região Autónoma dos Açores e regularmente registadas, com a calendarização e montante do respetivo tratamento.\n\n2 - Nas ilhas em que haja apenas um prestador de serviços, o utente é dispensado da apresentação de dois planos de tratamento.\n\n3 - Para efeito do disposto nos números anteriores, ficam excluídos os prestadores privados com os quais existam relações de propriedade ou contratação de prestação de serviços com o médico dentista que interveio na avaliação prévia a que se refere o artigo anterior.\n\n4 - A título excecional e por motivos de superior interesse público, pode o membro do Governo Regional com competência em matéria de saúde autorizar, em despacho devidamente fundamentado, a prestação de serviços pelos prestadores privados referidos no número anterior.\n\n5 - O cheque-dentista é atribuído pela USI, pelo valor mais baixo dos planos de tratamento apresentados.\n\n6 - O utente pode optar pelo plano de tratamento com o valor mais elevado desde que suporte a diferença.\n\n7 - São excluídos da atribuição do cheque dentista:\n\na) Utentes com várias faltas imputáveis aos próprios que impeçam a conclusão do plano de tratamento na calendarização definida;\n\nb) Utentes que não cumpram com as indicações médicas de forma reiterada;\n\nc) Utentes cujos comportamentos aditivos comprometam o sucesso e a calendarização do tratamento.\n\n8 - As situações referidas no número anterior são comunicadas pelo médico dentista assistente à USI de referência."
+  },
+  "1192856575": {
+   "fragment_id": "924789643",
+   "type": 11,
+   "heading": "Artigo 7.º — Tramitação",
+   "in_force_from": "2026-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+   ],
+   "markdown": "###### Artigo 7.º — Tramitação\n\n1 - O utente apresenta os planos de tratamento, respetiva calendarização e orçamento, a que se refere o artigo anterior, à USI, para efeitos de análise e autorização da despesa.\n\n2 - Após aprovação do plano de tratamento e da despesa, a USI comunica à entidade prestadora, com conhecimento ao utente, a autorização da despesa.\n\n3 - Após a comunicação referida no número anterior, o utente dispõe de 30 dias para proceder, diretamente junto da entidade prestadora, ao pagamento de 5 % do montante do plano de tratamento, bem como, quando aplicável, do valor da diferença referida no n.º 6 do artigo anterior.\n\n4 - O incumprimento do disposto no número anterior determina a caducidade do plano de tratamento.\n\n5 - À medida que é executado o plano de tratamento, a entidade prestadora emite fatura em nome da USI, com a identificação do utente, correspondente a 95 % do montante do plano de tratamento a suportar pela USI, acompanhada da respetiva fatura-recibo comprovativa do pagamento efetuado pelo utente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10."
+  },
+  "924789563": {
+   "fragment_id": "924789644",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento\n\nO prazo de pagamento da fatura apresentada pela entidade prestadora é de 60 dias a contar da data de emissão."
+  },
+  "924789564": {
+   "fragment_id": "924789645",
+   "type": 11,
+   "heading": "Artigo 9.º — Utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Utilização\n\n1 - Após a autorização da despesa, o utente dispõe de 90 dias para iniciar o plano de tratamento.\n\n2 - O incumprimento do prazo previsto no número anterior impede o utente de beneficiar do cheque-dentista nos dois anos subsequentes."
+  },
+  "924789565": {
+   "fragment_id": "924789646",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas de deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas de deslocação\n\n1 - São excluídas as despesas com viagens nas situações em que os cuidados de saúde oral sejam prestados fora da ilha de residência do utente, exceto no caso em que não exista a prestação daqueles cuidados na respetiva ilha.\n\n2 - Na exceção referida no número anterior, aplica-se o disposto na Portaria n.º 95/2018, de 2 de agosto, na sua redação atual, que aprova o Regulamento de Deslocação de Doentes do Serviço Regional de Saúde, sendo a despesa suportada pelo orçamento corrente da USI."
+  },
+  "924789566": {
+   "fragment_id": "924789647",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acumulação de apoios\n\nO cheque-dentista não é acumulável com o direito a reembolso ou outros apoios públicos, nos termos a definir na regulamentação do presente diploma."
+  },
+  "924789567": {
+   "fragment_id": "924789648",
+   "type": 11,
+   "heading": "Artigo 12.º — Implementação e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Implementação e regulamentação\n\nA fim de implementar e regulamentar o cheque-dentista, cabe ao Governo Regional dos Açores:\n\na) Proceder à distribuição da dotação orçamental da ação do Plano de Investimento Regional pelas USI;\n\nb) Coordenar o modo de atribuição, devendo definir, por portaria do membro do Governo Regional com competência em matéria da saúde, as regras de emissão, tramitação, utilização e pagamento do cheque-dentista;\n\nc) Elaborar um relatório para efeitos de avaliação anual de implementação, o qual deve ser publicado no Portal do Governo Regional."
+  },
+  "924789568": {
+   "fragment_id": "924789649",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização e acompanhamento\n\n1 - A fiscalização do cumprimento do presente diploma cabe à direção regional com competência em matéria de saúde.\n\n2 - Durante o período do plano de tratamento, o utente pode ser chamado pela USI para acompanhamento e avaliação da respetiva execução."
+  },
+  "924789569": {
+   "fragment_id": "924789650",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - Os encargos decorrentes da aplicação do presente diploma, no ano de 2025, têm por limite a dotação prevista no Plano Regional Anual para o ano de 2025."
+  },
+  "924789570": {
+   "fragment_id": "924789651",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 3 de junho de 2025.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 9 de julho de 2025.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n119286428"
+  }
+ },
+ "unavailable_dates": [
+  "2025-07-14"
+ ]
+}

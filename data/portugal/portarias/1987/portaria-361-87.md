@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2023-09-05'
+  consolidation_date: '2026-10-24'
 version_history:
   file: portaria-361-87.versoes.json
-  count: 3
-  source_lastmod: '2024-06-25'
+  count: 4
+  source_lastmod: '2026-10-23'
   versions:
   - date: '1987-04-30'
     amending: null
@@ -65,6 +65,11 @@ version_history:
     changes:
     - Altera Capítulo I
     - Altera Secção I
+  - date: '2026-10-24'
+    amending: pt:dre:1184835234:por
+    amending_title: Portaria n.º 466/2026/1
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/361/1987/p/cons/20230904/pt/html
@@ -79,19 +84,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/361/1987/p/cons/20230904/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1987-221266243
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1987-221266243
-  retrieved_at: '2026-10-22T12:59:07Z'
+  retrieved_at: '2026-11-20T13:48:44Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-23T00:00:00Z'
 integrity:
-  source_sha256: ad69be16c9fb498b564793310349150dc0465b8279c0222ebcc91b4386662e60
+  source_sha256: ff812ba454eb9eb60556fd28b938ad2953ec232ee3b3e9b93ca66dc27058a5bb
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:59:07Z'
-  notes: 3 versão(ões); histórico completo em portaria-361-87.versoes.json.
+  generated_at: '2026-11-20T13:48:44Z'
+  notes: 4 versão(ões); histórico completo em portaria-361-87.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,6 +121,11 @@ relationships:
   label: Altera Capítulo I; Altera Secção I
   source: https://diariodarepublica.pt/dr/detalhe/portaria/273-2023-221225703
   date: '2023-09-04'
+- type: amended_by
+  target: pt:dre:1184835234:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234
+  date: '2026-10-23'
 article_structure:
   article_count: 0
   section_count: 9
@@ -125,16 +135,12 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:59:07Z'
+  checked_at: '2026-11-20T13:48:44Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 361/87
-
-Portaria n.º 361/87
-
-de 30 de Abril
 
 O Decreto-Lei n.º 165/85, de 16 de Maio, instituiu o novo regime de formação profissional em cooperação entre o Instituto do Emprego e Formação Profissional (IEFP) e as diversas entidades do sector público, privado ou cooperativo que pretendam desenvolver acções de formação profissional.
 
@@ -160,9 +166,13 @@ Assinada em 8 de Abril de 1987.
 
 O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
+
 ## Anexo — Adaptação do protocolo que criou o centro de formação profissional para o sector eléctrico e electrónico
 
 O Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional das Indústriais de Material Eléctrico e Electrónico (ANIMEE) adaptam o protocolo que criou o centro de formação profissional de harmonia com as cláusulas seguintes:
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
 
 ### Capítulo I — Disposições gerais
 
@@ -206,6 +216,8 @@ Sede e delegações
 
 O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
+
 > Alterado pelo/a Anexo I do/a [Portaria n.º 273/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/273-2023-221225703), em vigor a partir de 2023-09-05, produz efeitos a partir de 2020-12-28
 
 > Retificado pelo/a [Declaração de Rectificação n.º 13/2011 - Diário da República n.º 97/2011, Série I de 2011-05-19](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2011-287660), produz efeitos a partir de 2011-04-14
@@ -227,6 +239,8 @@ b) O director;
 c) O conselho técnico-pedagógico (CTP);
 
 d) A comissão de fiscalização (CF).
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
 
 #### Secção I — Do conselho de administração
 
@@ -278,6 +292,8 @@ Funcionamento
 
 7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
+
 > Alterado pelo/a Anexo I do/a [Portaria n.º 273/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/273-2023-221225703), em vigor a partir de 2023-09-05, produz efeitos a partir de 2020-12-28
 
 > Alterado pelo/a Anexo I do/a [Portaria n.º 157/2011 - Diário da República n.º 73/2011, Série I de 2011-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/157-2011-276803), em vigor a partir de 2011-04-14
@@ -322,6 +338,8 @@ j) Presidir às reuniões do CTP.
 
 3 - O pessoal a admitir pelo Centro nos termos da alínea d) do número anterior será preferencialmente seleccionado através da rede dos centros de emprego do primeiro outorgante.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
+
 #### Secção III — Do conselho técnico-pedagógico
 
 XII
@@ -347,6 +365,8 @@ Funcionamento
 2 - Das reuniões do CTP será lavrada acta.
 
 3 - Os membros do CTP poderão fazer-se acompanhar por qualquer técnico nacional ou estrangeiro quando tal se justifique em função da complexidade ou especificidade das matérias a tratar.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
 
 #### Secção IV — Da comissão de fiscalização
 
@@ -391,6 +411,8 @@ Funcionamento
 5 - No exercício da sua actividade, poderá a CF solicitar todos os elementos de informação que entenda necessários.
 
 6 - A convite do CA, poderão os membros da CF assistir, individual ou conjuntamente, às reuniões daquele conselho, embora sem direito a voto.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
 
 ### Capítulo III — Disposições financeiras
 
@@ -480,6 +502,8 @@ Receitas e despesas
 
 5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da comparticipação dos outorgantes referida no n.º 2.
 
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
+
 ### Capítulo IV — Disposições diversas
 
 XXIV
@@ -535,5 +559,7 @@ Lisboa, Fevereiro de 1987. - O Ministro do Trabalho e Segurança Social, Luís F
 Homologo.
 
 23 de Fevereiro de 1987. - Luís Fernando Mira Amaral.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 466/2026/1 - Diário da República n.º 206/2026, Série I de 2026-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234), em vigor a partir de 2026-10-24.
 
 > Alterado pelo/a Anexo I do/a [Portaria n.º 157/2011 - Diário da República n.º 73/2011, Série I de 2011-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/157-2011-276803), em vigor a partir de 2011-04-14

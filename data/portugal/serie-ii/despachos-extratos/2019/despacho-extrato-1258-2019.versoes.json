@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:119188365:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2019-1194721675",
+ "dre_path": "/dr/detalhe/despacho-extrato/1258-2019-119188365",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2019-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194722275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194722275": {
+   "fragment_id": "1194721775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho do Presidente do Supremo Tribunal Administrativo, de 9 de janeiro de 2019:\n\nTeresa Maria Pereira da Silva Lourenço, escrivã de direito, a exercer funções, em regime de comissão de serviço, no Supremo Tribunal Administrativo, afeta ao Conselho Superior dos Tribunais Administrativos e Fiscais - renovada a referida comissão de serviço, com efeitos reportados a 1 de janeiro de 2019."
+  }
+ }
+}

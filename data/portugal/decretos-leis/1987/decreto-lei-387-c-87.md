@@ -45,7 +45,7 @@ version:
 version_history:
   file: decreto-lei-387-c-87.versoes.json
   count: 1
-  source_lastmod: '2026-10-12'
+  source_lastmod: '2026-10-22'
   versions:
   - date: '1991-11-07'
     amending: pt:dre:321701:por
@@ -79,10 +79,10 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-1072579017
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-1072579017
-  retrieved_at: '2026-10-22T14:01:25Z'
+  retrieved_at: '2026-11-20T13:48:37Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-10-12T00:00:00Z'
+  source_modified_at: '2026-10-22T00:00:00Z'
 integrity:
   source_sha256: 9e2fb97a83fc34979054514504bada6508506625ba9ba2e47b3fe4aa6b03fba0
   source_sha256_scope: official_source_content_bytes
@@ -90,7 +90,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:01:25Z'
+  generated_at: '2026-11-20T13:48:37Z'
   notes: 1 versão(ões); histórico completo em decreto-lei-387-c-87.versoes.json.
 reuse:
   status: permitted
@@ -120,7 +120,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:01:25Z'
+  checked_at: '2026-11-20T13:48:37Z'
   warnings: []
   errors: []
 ---

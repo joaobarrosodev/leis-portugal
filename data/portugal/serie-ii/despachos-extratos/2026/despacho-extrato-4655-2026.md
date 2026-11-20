@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-04-09'
+version_history:
+  file: despacho-extrato-4655-2026.versoes.json
+  count: 1
+  source_lastmod: '2026-11-13'
+  versions:
+  - date: '2026-04-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/4655-2026-1083043880
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/4655-2026-1083043880
-  consolidated_url: null
-  retrieved_at: '2026-10-26T12:06:31Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2026-1195523975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2026-1195523975
+  retrieved_at: '2026-11-20T13:52:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-13T00:00:00Z'
 integrity:
-  source_sha256: 97b252a40d63e559b375e4799227504af681212bc5d179f8c1579f58ea83934f
+  source_sha256: bf99b08a2b08f3708d0bd00e9d7ee8f3bd22cee6c8a123d45cdb69160d20d31e
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T12:06:31Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:57Z'
+  notes: 1 versão(ões); histórico completo em despacho-extrato-4655-2026.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +87,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T12:06:31Z'
+  checked_at: '2026-11-20T13:52:57Z'
   warnings: []
   errors: []
 ---
 
 # Despacho (extrato) n.º 4655/2026
 
-Em cumprimento do disposto no n.º 1.º do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, torna-se público que por despacho do Chefe do Estado-Maior Conjunto, Rui José dos Santos Pedroso Pinheiro de Freitas, Tenente-general, foi homologado o processo de período experimental dos trabalhadores abaixo identificados, na sequência da celebração do contrato de trabalho em funções públicas por tempo indeterminado, com este Estado-Maior-General das Forças Armadas, decorrente de procedimento concursal aberto através do [Aviso (extrato) n.º 26796/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/26796-2024-898320420), publicitado no Diário da República, 2.ª série, n.º 232, de 29 de novembro de 2024, para o desempenho de funções na carreira/categoria de Assistente Técnico.
+Em cumprimento do disposto no n.º 1.º do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que por despacho do Chefe do Estado-Maior Conjunto, Rui José dos Santos Pedroso Pinheiro de Freitas, Tenente-general, foi homologado o processo de período experimental dos trabalhadores abaixo identificados, na sequência da celebração do contrato de trabalho em funções públicas por tempo indeterminado, com este Estado-Maior-General das Forças Armadas, decorrente de procedimento concursal aberto através do Aviso (extrato) n.º 26796/2024/2, publicitado no Diário da República, 2.ª série, n.º 232, de 29 de novembro de 2024, para o desempenho de funções na carreira/categoria de Assistente Técnico.
 
 Nos termos do n.º 4 e 5 do artigo 46.º da Lei Geral do Trabalho em Funções Públicas:
 
@@ -102,8 +112,8 @@ Período Experimental concluído com sucesso
 | Clara Filomena M. Pontes Coutinho Pimpão | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Daniela Cossu | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | David Emanuel de O. Santos Correia Pinto | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
-| Isabel Maria Conceição Serrano | 01.04.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
-| Lurdes Maria Fernandes Carvalho | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
+| Isabel Maria Conceição Serrano | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
+| Lurdes Maria Fernandes Carvalho | 01.04.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Joana Maria Pereira dos Santos Bordonhos | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Manuela Ferraz Carreira | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Marta dos Reis Cotovio | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
@@ -111,7 +121,3 @@ Período Experimental concluído com sucesso
 | Patrícia Isabel Pereira Duarte Alves | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Sandra Filipa Rodrigues da Costa | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
 | Vera Lúcia Morais Grazina Martins | 21.03.2025 | 1.ª | 7 | 979,05 | 11.11.2025 |
-
-9 de janeiro de 2026. - O Chefe do Estado-Maior Conjunto, Rui Freitas, TGen/PILAV.
-
-319984355

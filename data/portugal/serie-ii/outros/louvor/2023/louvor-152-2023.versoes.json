@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:212438546:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor/2023-1189890675",
+ "dre_path": "/dr/detalhe/louvor/152-2023-212438546",
+ "source_lastmod": "2026-11-02",
+ "versions": [
+  {
+   "date": "2023-05-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1189894675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1189894675": {
+   "fragment_id": "1189890775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Chegado o termo do meu exercício de funções enquanto Presidente do Tribunal Constitucional, impõem a justiça e a gratidão, dar público testemunho do empenho, zelo, dedicação, disponibilidade, lealdade e elevada competência técnica dos serviços prestados ao meu Gabinete por:\n\nDoutora Raquel Barradas de Freitas\n\nMestre Sónia Cristina Carvalho Rodrigues\n\nMestre Rui Marco de Figueiredo Alves Cardona Ferreira\n\nLicenciada Adriana Luísa dos Santos Batista Correia Oliveira\n\nLicenciada Cristina Alexandra do Nascimento Pereira\n\nLicenciada Joana de Oliveira Esteves Vaz Antunes\n\nLicenciada Joana Riquito de Seabra Batista da Gama\n\nLicenciada Rafaela Gonçalves e Neves\n\nLicenciado José Manuel Namora Soares de Andrade\n\nManuel António Horta Valente\n\nMaria da Conceição de Barros Mimoso\n\nSob coordenação da Chefe de Gabinete, formaram uma equipa extraordinária, que soube maximizar as capacidades de cada um, num trabalho coletivo que muito facilitou o exercício das minhas funções."
+  }
+ }
+}

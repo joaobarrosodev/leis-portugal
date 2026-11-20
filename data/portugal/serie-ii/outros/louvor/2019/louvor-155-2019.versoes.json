@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:121942434:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor/2019-1194907475",
+ "dre_path": "/dr/detalhe/louvor/155-2019-121942434",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2019-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194902975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194902975": {
+   "fragment_id": "1194907575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Louvo o Tenente-Coronel da Guardia Civil, Don Ignácio López Luz, Subdiretor de Cooperação Policial Internacional do Ministério do Interior do Reino de Espanha, pela valorosa e exemplar colaboração que vem disponibilizando ao longo dos últimos anos, sempre revelando qualidades de provado esforço, energia e grande dedicação ao serviço da segurança pública e contribuindo significativamente para as excelentes relações que se foram desenvolvendo e consolidando entre as Forças de Segurança do Reino de Espanha e da República Portuguesa.\n\nReservado mas naturalmente afável e cultivando excelentes relações pessoais, de elevada competência técnico-profissional e inexcedível dedicação ao serviço e à causa pública, o Tenente-Coronel Ignácio López manifestou, de forma permanente, uma consistente e consolidada perceção das especiais exigências colocadas à cooperação internacional no âmbito das questões conexas com a segurança, em estímulo constante à colaboração e à valorização mútuas e ao cultivo de excelente relacionamento entre as instituições e responsáveis pela segurança nos dois países.\n\nSalienta-se, em particular, o apoio que vem dando à Embaixada de Portugal em Madrid, principalmente através da articulação com o oficial de Ligação do Ministério da Administração Interna, em todos os assuntos Institucionais, nomeadamente no âmbito da preparação e acompanhamento de visitas Oficiais de diversos dignatários nacionais ao Reino de Espanha, do reforço do intercâmbio de informação de interesse policial e da procura das soluções mais adequadas para as diversas questões que reiteradamente se colocam no domínio da segurança pública, sempre procurando contribuir para a melhor consolidação dos laços Institucionais, já tradicionalmente firmes, entre as Instituições policiais de ambos os Estados Ibéricos.\n\nPelas relevantes qualidades e virtudes pessoais e profissionais e excecional desempenho demonstrados, que lhe têm permitido corresponder com a exigível tempestividade a todas as solicitações e contribuir de forma significativa e relevante para o prestígio institucional e em prol da segurança e da ordem pública, assente numa eficiente cooperação internacional, é o Tenente-Coronel Ignácio López inequivocamente merecedor de que os serviços que vem prestando a Portugal sejam publicamente destacados e classificados de extraordinariamente importantes, relevantes e distintos.\n\nPelo que, ao abrigo dos artigos 7.º e 10.º do Decreto-Lei n.º 177/82, de 12 de maio, manda o Governo, pelo Ministro da Administração Interna, condecorar com a Medalha de Prata de Serviços Distintos de Segurança Pública, o Tenente-Coronel da Guardia Civil, Don Ignácio López Luz, Subdiretor de Cooperação Policial Internacional do Ministério do Interior do Reino de Espanha."
+  }
+ }
+}

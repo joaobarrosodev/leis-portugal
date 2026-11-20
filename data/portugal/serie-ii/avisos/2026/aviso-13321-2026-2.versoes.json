@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1128499262:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2026-1193725275",
+ "dre_path": "/dr/detalhe/aviso/13321-2026-1128499262",
+ "source_lastmod": "2026-11-12",
+ "versions": [
+  {
+   "date": "2026-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1193727275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1193727275": {
+   "fragment_id": "1193725375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Faz-se público, em cumprimento do disposto no n.º 3 do artigo 20.º da Portaria n.º 217/2011, de 31 de maio, alterada pela Portaria n.º 356/2013, de 10 de dezembro, e pela Portaria n.º 274-A/2015, de 8 de setembro, que, por meu despacho de 26 de maio de 2026, foi homologada a lista de classificação final dos candidatos do seguinte júri, no âmbito do procedimento concursal nacional de habilitação ao grau de consultor da carreira médica, aberto pelo Aviso n.º 649-A/2024, de 11 de janeiro, publicado no Diário da República, 2.ª série, n.º 8, de 11 de janeiro de 2024.\n\nAssim:\n\nJúri n.º 2 de Medicina Intensiva - Região Centro\n\nAnabela dos Santos Oliveira - Aprovada\n\nAndreia Luísa Cardoso dos Santos - Aprovada\n\nAndriy Krystopchuk - Aprovado\n\nEmília Luísa Trigo - Aprovada\n\nFrancisco Daniel Parraga Nunez - Aprovado\n\nMarco Rodrigo Marques Simões - Aprovado\n\nMaria Angeles Holgado Zazo - Aprovada\n\nMaria Del Pilar Crugeiras Perez - Aprovada\n\nMaria Dulce Pinto Pascoalinho - Aprovada\n\nOdete Maria Marques Gomes - Aprovada\n\nSilvia Margarida Correia de Castro - Aprovada\n\nDe acordo com o disposto no n.º 2 do artigo 22.º da Portaria supracitada, a data de obtenção do grau de consultor dos médicos aprovados constantes da lista acima mencionada reporta-se a 31 de outubro de 2025, data da publicação da primeira lista da presente especialidade médica, conforme o Aviso n.º 27327/2025/2, publicado no Diário da República, 2.ª série, n.º 211, de 31 de outubro de 2025.\n\nDo despacho da homologação cabe recurso administrativo a interpor para o membro do governo responsável pela área da saúde, no prazo de 10 dias úteis, contados a partir da data de publicação do presente aviso no Diário da República o qual deve ser dirigido à Secretaria-Geral do Ministério da Saúde."
+  }
+ }
+}

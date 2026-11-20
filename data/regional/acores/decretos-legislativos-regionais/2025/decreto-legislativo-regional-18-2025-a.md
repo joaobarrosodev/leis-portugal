@@ -38,10 +38,23 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-10'
+version_history:
+  file: decreto-legislativo-regional-18-2025-a.versoes.json
+  count: 1
+  source_lastmod: '2026-11-09'
+  versions:
+  - date: '2026-11-10'
+    amending: pt:dre:1192521453:por
+    amending_title: Decreto Legislativo Regional n.º 19/2026/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/18/2025/07/14/a/dre/pt/html
@@ -54,20 +67,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2025-924672853
   metadata_url: https://data.dre.pt/eli/declegreg/18/2025/07/14/a/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2025-924672853
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:23:18Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-924789635
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-924789635
+  retrieved_at: '2026-11-20T13:50:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
-  source_sha256: dd7f7b30bee0be8c25688e0cd9a4fb5315ab0b43c82b45286ec90ae1692b20a8
+  source_sha256: 3de5a3cb3893a0bbf6b59c283dd770a860da8fb7dd148afb57d272ef336fe3b1
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:23:18Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:50:04Z'
+  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-18-2025-a.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,17 +97,22 @@ subjects:
 - Região Autónoma
 - Serviço Regional de Saúde
 - Utente
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1192521453:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453
+  date: '2026-11-09'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:23:18Z'
+  checked_at: '2026-11-20T13:50:04Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +139,9 @@ O presente diploma cria o cheque-dentista na Região Autónoma dos Açores.
 
 ###### Artigo 2.º — Âmbito
 
-O cheque-dentista é atribuído aos utentes inscritos no Serviço Regional de Saúde cujo agregado familiar apresente um rendimento bruto per capita anual igual ou inferior a 14 000 €.
+O cheque-dentista é atribuído aos utentes inscritos no Serviço Regional de Saúde cujo agregado familiar apresente um rendimento bruto per capita anual igual ou inferior a 14 vezes o valor correspondente à remuneração mínima mensal garantida na Região Autónoma dos Açores, acrescido de 20 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10.
 
 ###### Artigo 3.º — Critérios de prioridade
 
@@ -132,11 +153,13 @@ b) Idade inferior a 18 anos;
 
 c) Impacto na resolução de problemas de saúde, devidamente validado pelo médico especialista do Serviço Regional de Saúde assistente do utente;
 
-d) Jovens com indicação para tratamento ortodôntico, em casos específicos de problemas graves de oclusão, fonéticos ou estéticos, desde que devidamente validados;
+d) [Revogada.]
 
 e) Utentes que já iniciaram tratamento ao abrigo do presente diploma e cujo tratamento preventivo ou curativo não foi finalizado por motivo não imputável aos próprios;
 
 f) Utentes com indicação para reabilitação oral em casos específicos de problemas graves de oclusão, fonéticos ou estéticos, desde que devidamente validados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10.
 
 ###### Artigo 4.º — Valor
 
@@ -146,13 +169,15 @@ a) Consultas de rotina e avaliação, com vista à prevenção e promoção da s
 
 b) Tratamentos dentários preventivos que incluam profilaxia periódica, reabilitação das estruturas dentárias e extrações dentárias em casos extremos;
 
-c) Tratamentos ortodônticos em jovens, em casos de problemas graves de oclusão, fonéticos ou estéticos;
+c) Tratamentos ortodônticos em utentes com idade inferior a 18 anos à data da avaliação prévia nos termos do artigo seguinte, em casos de problemas graves de oclusão, fonéticos ou estéticos;
 
 d) Tratamentos de reabilitação oral, com recurso a prótese dentária removível;
 
 e) Tratamentos de reabilitação oral fixa, em casos extremos e devidamente fundamentados.
 
 2 - Excluem-se todos os tratamentos de cariz estritamente estético.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10.
 
 ###### Artigo 5.º — Avaliação prévia
 
@@ -192,11 +217,13 @@ c) Utentes cujos comportamentos aditivos comprometam o sucesso e a calendarizaç
 
 2 - Após aprovação do plano de tratamento e da despesa, a USI comunica à entidade prestadora, com conhecimento ao utente, a autorização da despesa.
 
-3 - Após a comunicação referida no número anterior, o utente dispõe de 30 dias para liquidar na USI o pagamento de 5 % do montante do plano de tratamento, bem como o valor da diferença referida no n.º 6 do artigo anterior.
+3 - Após a comunicação referida no número anterior, o utente dispõe de 30 dias para proceder, diretamente junto da entidade prestadora, ao pagamento de 5 % do montante do plano de tratamento, bem como, quando aplicável, do valor da diferença referida no n.º 6 do artigo anterior.
 
 4 - O incumprimento do disposto no número anterior determina a caducidade do plano de tratamento.
 
-5 - À medida que é executado o plano de tratamento, a entidade prestadora emite fatura em nome da USI, com a identificação do utente, para efeitos de pagamento.
+5 - À medida que é executado o plano de tratamento, a entidade prestadora emite fatura em nome da USI, com a identificação do utente, correspondente a 95 % do montante do plano de tratamento a suportar pela USI, acompanhada da respetiva fatura-recibo comprovativa do pagamento efetuado pelo utente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2026/A - Diário da República n.º 217/2026, Série I de 2026-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1192521453), em vigor a partir de 2026-11-10.
 
 ###### Artigo 8.º — Pagamento
 

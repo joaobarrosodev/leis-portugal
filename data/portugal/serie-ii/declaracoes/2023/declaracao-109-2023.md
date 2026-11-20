@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2023-12-15'
+version_history:
+  file: declaracao-109-2023.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2023-12-15'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/109-2023-261865040
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/109-2023-261865040
-  consolidated_url: null
-  retrieved_at: '2026-10-26T12:00:58Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2023-1194535975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2023-1194535975
+  retrieved_at: '2026-11-20T13:51:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: b86f617e100261d27501a14c40c06455be056c3f1777fbd9656af4e9b9a8d23c
+  source_sha256: 53844b98c595ba29d16bf117c5581dcdb4855780a1cb3f5d65c98b5c8bc62ade
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T12:00:58Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:24Z'
+  notes: 1 versão(ões); histórico completo em declaracao-109-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +83,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T12:00:58Z'
+  checked_at: '2026-11-20T13:51:24Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +98,4 @@ validation:
 
 Eleição da Juíza Conselheira Graça Maria Lima de Figueiredo Amaral como Vice-Presidente do Supremo Tribunal de Justiça
 
-Por eleição realizada no dia 16 de setembro de 2023, foi a Excelentíssima Senhora Juíza Conselheira Graça Maria Lima de Figueiredo Amaral eleita como Vice-Presidente do Supremo Tribunal de Justiça, nos termos do n.º 2 do artigo 63.º e n.º 1 do artigo 59.º, da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26 de agosto (Lei da Organização do Sistema Judiciário).
-
-11 de dezembro de 2023. - O Administrador do Supremo Tribunal de Justiça, António Nolasco.
-
-317150651
+Por eleição realizada no dia 16 de novembro de 2023, foi a Excelentíssima Senhora Juíza Conselheira Graça Maria Lima de Figueiredo Amaral eleita como Vice-Presidente do Supremo Tribunal de Justiça, nos termos do n.º 2 do artigo 63.º e n.º 1 do artigo 59.º, da Lei n.º 62/2013, de 26 de agosto (Lei da Organização do Sistema Judiciário).
