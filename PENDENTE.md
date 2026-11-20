@@ -145,6 +145,23 @@ Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no co
   os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
   «Candidatos ao reranker e pesquisa semântica»).
 
+## Última milha nas reais: o que falta ligar na aplicação (medido a 20/11)
+
+Os números estão no `rag/README.md`, em «Última milha nas reais: as peças que faltam ligar».
+
+- **Medido** nas 281 reais, no índice final, com uma só pesquisa por pergunta. Certas / respondidas:
+  - A, a aplicação 0.1.1: 115 / 185, com o artigo certo em 1.º em 140 e nos 8 primeiros em 233;
+  - B, A com as notas estáveis do reranker: 108 / 186 (4 ganhos, 11 perdas);
+  - C, B com o reranker a ler as perguntas do artigo: **149 / 211** (50 ganhos, 16 perdas), com o artigo em 1.º em 173. «Sem resposta» respondidas: 7 de 80, contra 5;
+  - D, C com o LLM a escrever a partir dos 8 primeiros artigos (limiar 1, quatro juízes): **231 / 241** (124 ganhos, 8 perdas). «Sem resposta» respondidas: 2.
+- **Das 93 perguntas com o artigo certo do 2.º ao 8.º lugar,** ficam certas 35 na C e 85 na D. Das 115 certas da A, perdem-se 16 na C e 8 na D.
+- **O que compensa:** o reranker a ler as perguntas (sem chave) e o LLM (com chave). As notas estáveis sozinhas não melhoram o número; servem para a medição ser repetível.
+- **Por fazer:**
+  - confirmar a C nas 1.298 perguntas (a correr a 20/11);
+  - medir a D com a pergunta reescrita (`reescrita2`);
+  - decidir o limiar da C: com 3,5 fica com as mesmas 5 «sem resposta» da A, 145 certas e 51 erradas (contra 70). O limiar continua 3 no código;
+  - ligar na aplicação só depois de o índice com perguntas estar publicado. Os valores por omissão do `rag/web.py` não mudaram.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.
