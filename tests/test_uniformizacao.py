@@ -159,6 +159,10 @@ def test_mesma_lei_e_daquele_codigo():
     normas = j.normas("decide não declarar a inconstitucionalidade das normas contidas nos artigos 83º e 84º da Lei n.º 91/2001, "
                       "de 20 de Agosto, aditadas pela Lei Orgânica n.º 2/2002, de 28 de Agosto, e no artigo 3º desta última Lei.")
     assert ("3.º", "Lei Orgânica n.º 2/2002") in [(n.artigo, n.diploma_texto) for n in normas]
+    normas = j.normas("decide declarar a ilegalidade da norma contida no artigo 4.º-A do Decreto Legislativo Regional n.º 1/2009/M, "
+                      "de 12 de Janeiro, aditado pelo artigo 2.º do Decreto Legislativo Regional n.º 9/2010/M, de 4 de Junho, bem "
+                      "como da norma contida no artigo 4.º, n.º 2 deste último diploma.")
+    assert [(n.artigo, n.numero) for n in normas] == [("4.º-A", "1/2009/M"), ("4.º", "9/2010/M")]
     # "daquele Código" não é o decreto-lei da redação citado entre parênteses.
     normas = _normas("Fora dos casos previstos no artigo 688.º do Código de Processo Civil (na redacção anterior ao "
                      "Decreto-Lei n.º 303/2007, de 24 de Setembro), deverá admiti-lo como requerimento para a conferência "

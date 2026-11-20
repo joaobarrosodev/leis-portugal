@@ -542,7 +542,11 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None, 
             # ("(na redacção anterior ao Decreto-Lei n.º 303/2007) … artigo 700.º daquele Código").
             todas = [i for i, m in enumerate(mencoes) if m.fim <= pos]
             anteriores = [i for i in todas if i not in alteracao] or todas
-            if (mesmo := _MESMO_DIPLOMA.search(entre)) and (do_tipo := [i for i in todas if _do_tipo(mencoes[i], mesmo.group(1))]):
+            mesmo = _MESMO_DIPLOMA.search(entre)
+            if mesmo and re.search(r"últim", mesmo.group(0), re.I):
+                # "deste último diploma", "desta última Lei": o citado imediatamente antes, mesmo o da alteração.
+                anteriores = todas
+            elif mesmo and (do_tipo := [i for i in todas if _do_tipo(mencoes[i], mesmo.group(1))]):
                 # "artigos 140.º e 141.º do Código Penal, na redacção dada pela Lei n.º 6/84, bem como dos artigos
                 # 2.º e 3.º desta mesma lei": o diploma anterior do tipo dito, mesmo que seja o da alteração.
                 anteriores = do_tipo
