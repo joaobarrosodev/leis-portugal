@@ -803,6 +803,70 @@ As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem
 
 Pergunta a pergunta, da base para o final ganham-se 9 certas (6 reais, 2 de texto alterado, 1 coloquial) e perdem-se 5 (3 reais, 2 coloquiais): o saldo de +4 fica dentro do ruído. O ganho real é encontrar o artigo (+90 no top 10, quase todo nas coloquiais), que a 0.1.1 aproveita pouco porque o reranker dela não lê as perguntas. Entre o índice das 15h27 e o final não muda nenhuma resposta: as retificações e a vigência não mexem na pesquisa destas perguntas. Literais, temporais e revogadas ficam iguais. O índice final cumpre os critérios para se publicar; a publicação espera pelo fecho da auditoria dos consolidados, e o índice volta a construir-se nessa altura.
 
+## Reranker por passagens (20/11/2026)
+
+É a medida 2 do diagnóstico das reais não encontradas (`reports/diagnostico-reais-nao-encontradas.md`). **Está desligada por omissão**: a aplicação, o limiar e o índice não mudam.
+
+- **O problema:** o reranker lê os primeiros 1.200 caracteres de cada texto, contando o rótulo. Num artigo comprido, o número que responde à pergunta pode estar depois do corte.
+- **O que a opção faz** (`Reranker(passagens=True)` em `rag/modelos.py`; `--reranker-passagens` no `rag.avaliar`): o resto de um artigo comprido é partido em passagens pelos números do artigo. Um número maior do que uma passagem parte-se pelas alíneas, com o corpo do número repetido. Cada passagem leva o rótulo e a epígrafe e, com `--reranker-com-perguntas`, as perguntas do artigo. O reranker pontua o início e as passagens, e o artigo fica com a melhor nota. A nota de um artigo nunca desce.
+- **Custo limitado:** no máximo 4 textos por artigo (o início e 3 passagens) e 40 passagens a mais por pergunta (`--passagens-artigo`, `--passagens-pergunta`). Quando há mais passagens do que o teto, ficam as que têm mais termos em comum com a pergunta. A escolha não usa o excerto do conjunto de avaliação, que o sistema real não conhece.
+- **`Resultado.passagem`** guarda a passagem que deu a nota, quando não foi o início. A resposta ainda não a usa: mostra o início do artigo.
+- Funciona com `--estavel` (as notas guardadas reutilizam-se) e com `--reranker-com-perguntas`. Testes em `tests/test_modelos.py`, com um modelo falso.
+
+### Medição pequena
+
+Não é a medição das 1.298. São 140 perguntas reais no índice final de 19/11 (16h54), com `scripts/medir_passagens.py`:
+
+- as 48 em que o artigo certo não chegava aos 8 primeiros;
+- as 32 dos quatro códigos republicados (Estrada, IVA, IRC, IRS) que não estão nessas 48;
+- uma amostra ao acaso de 60 das outras 201 que hoje funcionam.
+
+Cada pergunta correu quatro vezes com o mesmo reranker em modo `estavel` e o limiar 3, sem LLM. Assim a diferença entre as colunas vem só das passagens e das perguntas por artigo, e não do ruído do lote. A coluna «Base» não é igual à medição `app011-final`, que pontua em lotes de 16: a posição do artigo certo difere em 21 das 140, quase sempre por um ou dois lugares.
+
+| Grupo | Medida | Base | Passagens | Perguntas por artigo | As duas |
+|---|---|--:|--:|--:|--:|
+| As 48 que falhavam | Artigo certo nos 8 | 1 | 14 | 15 | 22 |
+| | Artigo certo em 1.º | 0 | 4 | 7 | 9 |
+| | Certas | 0 | 1 | 1 | 8 |
+| | Respondidas e erradas | 12 | 13 | 12 | 13 |
+| Quatro códigos (32) | Artigo certo nos 8 | 32 | 32 | 31 | 32 |
+| | Artigo certo em 1.º | 15 | 15 | 27 | 28 |
+| | Certas | 6 | 7 | 23 | 25 |
+| | Respondidas e erradas | 9 | 9 | 3 | 4 |
+| Amostra das que funcionam (60) | Artigo certo nos 8 | 58 | 59 | 60 | 60 |
+| | Artigo certo em 1.º | 43 | 44 | 45 | 48 |
+| | Certas | 35 | 36 | 40 | 45 |
+| | Respondidas e erradas | 11 | 12 | 10 | 9 |
+
+**Só as passagens, contra a base:**
+
+- **Nas 48:** o artigo certo sobe em 15 e não desce em nenhuma. Entra nos 8 primeiros em 13, das quais 9 são falhas reais e 4 são das 7 que o diagnóstico deu como problema do teste. As 10 da causa «corte do reranker» sobem todas e ficam nos 8; 3 ficam em 1.º.
+- **Nas 92 que funcionavam:** o artigo certo sobe em 6 e desce em 13. Em 12 das 13 desce um ou dois lugares e nenhuma sai dos 8; a outra (real-227) estava em 9.º e sai dos 10. O 1.º lugar ganha-se em 4 e perde-se em 3 (real-128, real-219, real-297). Ganham-se 3 certas e perde-se 1 (real-128). Uma pergunta que dizia «não sei» passa a responder errado (real-007).
+- **Porque descem:** os outros artigos compridos também sobem. Em 8 das 13 descidas, o artigo que fica em 1.º tem a nota de uma passagem.
+
+**As passagens por cima das perguntas por artigo** (da 3.ª coluna para a 4.ª): nas 140, o artigo certo sobe em 19 e desce em 7, entra nos 8 em 8 e não sai em nenhuma. Ganham-se 17 certas e perdem-se 3 (real-031, real-058, real-295, que passam de 1.º para 2.º). Duas passam a responder errado (real-007, real-241).
+
+**O que esta medição não diz:**
+
+- **O limiar.** Com passagens, a nota do 1.º sobe em 34 das 140 perguntas (em média 0,3 nas 140; no máximo 6,2), e o sistema responde a mais perguntas: 78 em vez de 73, e 104 em vez de 89 com as perguntas por artigo. O limiar 3 foi escolhido sem passagens. As perguntas «sem resposta», a que o sistema deve dizer «não sei», não entraram aqui.
+- **Os outros tipos de pergunta** (literais, temporais, coloquiais, revogadas) não entraram.
+- **A amostra é pequena:** 60 de 201. Uma ou duas perguntas de diferença nas certas ficam dentro do acaso.
+
+### Custo em tempo
+
+- **Textos lidos:** 44,9 por pergunta na base e mais 24,2 passagens em média (mediana 23; 40 no máximo, que é o teto). São 1,54 vezes os textos.
+- **Tempo:** 1,54 vezes. Em modo `estavel`, com 3 fios e a máquina ocupada com outras medições, foram 20 s por pergunta na base e 31 s com passagens.
+- **Em lotes de 16, como a aplicação pontua, não foi medido.** As passagens têm o tamanho dos outros textos, por isso a razão deve ser parecida: cerca de 11 a 12 s por pergunta em vez de 7 a 8.
+
+### Como medir nas 1.298
+
+```bash
+PYTHONPATH=src python -m rag.avaliar --nome passagens-final --indice rag/indice/indice-final.sqlite \
+    --reranker cruzado --limiar 3 --sem-llm --reranker-passagens
+```
+
+É a configuração da `app011-final` com as passagens ligadas. Com `--reranker-com-perguntas` mede as duas coisas juntas. Para comparar duas medições sem o ruído do lote, juntar `--estavel` às duas, o que demora mais.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
