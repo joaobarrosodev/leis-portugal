@@ -28,7 +28,7 @@ from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 
-from rag.fontes import RAIZ, revogado
+from rag.fontes import RAIZ, efeitos_da_revogacao, revogado
 
 
 PASTA = Path(__file__).resolve().parent / "perguntas_artigo"
@@ -130,21 +130,23 @@ _DATA_NOTA = re.compile(r"em vigor a partir de (\d{4}-\d{2}-\d{2})|de (\d{4}-\d{
 _TEXTO_REVOGADO = re.compile(r"^\(?\s*revogad[oa]", re.I)
 
 
-def revogado_agora(texto: str, notas: str) -> bool:
+def revogado_agora(texto: str, notas: str, hoje: str | None = None) -> bool:
     """O artigo está revogado hoje: o texto diz "(Revogado.)" ou a nota mais recente é uma revogação.
 
     `rag.fontes.revogado` basta-lhe uma nota "Revogado pelo/a …", mas os artigos 1064.º a 1113.º do
     Código Civil têm a revogação de 1990 ou 2006 e, depois, "Aditado/Alterado pela Lei n.º 6/2006"
-    ou por leis seguintes: estão em vigor."""
+    ou por leis seguintes: estão em vigor. Uma revogação que só produz efeitos depois de `hoje` ainda não conta."""
     if _TEXTO_REVOGADO.match(texto.strip()):
         return True
+    hoje = hoje or date.today().isoformat()
+    notas = "\n".join(n for n in notas.splitlines() if not (_TEXTO_REVOGADO.match(n.strip()) and (efeitos_da_revogacao(n) or "") > hoje))
     datadas = []
     for nota in notas.splitlines():
         m = _DATA_NOTA.search(nota)
         if m:
             datadas.append((m.group(1) or m.group(2), bool(_TEXTO_REVOGADO.match(nota.strip()))))
     if not datadas:
-        return revogado(texto, notas)
+        return revogado(texto, notas, hoje)
     return max(datadas)[1]
 
 

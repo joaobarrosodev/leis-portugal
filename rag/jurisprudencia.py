@@ -732,7 +732,8 @@ class Jurisprudencia:
     def por_artigo(self, documento: str, artigo: str | None, parte: str | None = None) -> list[dict]:
         lista = [
             j for p, j in self._por_artigo.get((documento, artigo), [])
-            if parte is None or p is None or p == parte
+            # Uma norma registada na parte do diploma («») antes de `## ANEXO` contar como anexo (20/11/2026) vale para o artigo desse anexo.
+            if parte is None or p is None or p == parte or (p == "" and not parte.startswith("Anexo"))
         ]
         return sorted(lista, key=lambda j: (self._ORDEM.get(j["sentido"], 9), "".join(chr(0x10FFFF - ord(c)) for c in (j["data"] or ""))))
 

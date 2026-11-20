@@ -27,7 +27,7 @@ from rag import ambito as ambito_mod
 from rag import referencias as refs_mod
 from rag import texto as termos_mod
 from rag import vigencia as vigencia_mod
-from rag.fontes import PASTA_INDICE, revogado
+from rag.fontes import PASTA_INDICE, revogacao_por_produzir_efeitos, revogado
 
 
 PESOS_BM25 = (2.0, 1.0)  # cabeçalho (diploma, sumário, anexo, epígrafe), texto
@@ -283,7 +283,7 @@ class Pesquisa:
             linhas.sort(key=lambda x: x[1])
         else:
             linhas = self.con.execute(sql + " ORDER BY s LIMIT ?", (consulta, limite * 10)).fetchall()
-        info = self._info([i for i, _ in linhas])
+        info = self._info([i for i, _ in linhas], data)
         if not documentos and self.so_referencia:
             linhas = [(i, s) for i, s in linhas if info[i][2] not in self.so_referencia]
         pontuacoes = [
@@ -326,14 +326,14 @@ class Pesquisa:
             desconto += RERANKER_ANTIGO
         return desconto
 
-    def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str, bool]]:
-        """(desde, ate, documento, parte, artigo revogado) de cada pedaço."""
+    def _info(self, ids: list[int], data: str | None = None) -> dict[int, tuple[str | None, str | None, str, str, bool]]:
+        """(desde, ate, documento, parte, artigo revogado na data) de cada pedaço."""
         resultado = {}
         for n in range(0, len(ids), 900):
             lote = ids[n : n + 900]
             sql = f"SELECT id, desde, ate, documento, parte, substr(texto, 1, 40), notas FROM pedacos WHERE id IN ({','.join('?' * len(lote))})"
             for i, desde, ate, documento, parte, inicio, notas in self.con.execute(sql, lote):
-                resultado[i] = (desde, ate, documento, parte, revogado(inicio, notas or ""))
+                resultado[i] = (desde, ate, documento, parte, revogado(inicio, notas or "", data))
         return resultado
 
     # ------------------------------------------------------------------ pesquisa
@@ -422,12 +422,12 @@ class Pesquisa:
             resultados.sort(
                 key=lambda r: (
                     -min(r.nivel, 2),
-                    revogado(r.texto, r.notas),
+                    revogado(r.texto, r.notas, data),
                     -((r.reranker if r.reranker is not None else -1e9) - self._desconto_reranker(r, pergunta)),
                 )
             )
         else:
-            resultados.sort(key=lambda r: (-r.nivel, revogado(r.texto, r.notas), -r.pontuacao))
+            resultados.sort(key=lambda r: (-r.nivel, revogado(r.texto, r.notas, data), -r.pontuacao))
 
         unicos: list[Resultado] = []
         vistos: set[tuple[str, str]] = set()
@@ -518,9 +518,12 @@ class Pesquisa:
             r.avisos.append("Vigência do diploma desconhecida.")
         elif r.documento in getattr(self, "vigencia", {}):
             r.avisos.append(vigencia_mod.aviso(self.vigencia[r.documento]))
-        if revogado(r.texto, r.notas):
+        if revogado(r.texto, r.notas, data):
             nota = next((n for n in r.notas.splitlines() if n.strip().lower().startswith("revogad")), "")
             r.avisos.append(f"Artigo revogado ({_sem_ligacoes(nota)})." if nota else "Artigo revogado.")
+        elif por_produzir := revogacao_por_produzir_efeitos(r.notas or "", data):
+            # A revogação já foi publicada mas ainda não produz efeitos: o artigo está em vigor, com data para acabar.
+            r.avisos.append(f"Em vigor até à véspera de {por_produzir[0]}, data em que a revogação produz efeitos ({_sem_ligacoes(por_produzir[1])}).")
         if r.ate is not None:
             r.avisos.append(f"Redação em vigor de {r.desde} a {r.ate}, não a atual.")
         alteracoes = [(titulo, quando) for tipo, _, titulo, quando in relacoes if tipo == "amended_by" and (quando or "") <= data]

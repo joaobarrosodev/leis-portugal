@@ -38,7 +38,7 @@ from pathlib import Path
 
 from rag import texto as termos_mod
 from rag.copias import impressao
-from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, ler_artigos, ler_historico, revogado, texto_da_versao
+from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, fora_dos_artigos, ler_artigos, ler_historico, revogado, texto_da_versao
 
 
 ESQUEMA = """
@@ -62,6 +62,9 @@ MAX_CARACTERES = 30_000
 PALAVRAS_POR_BLOCO = 300
 _TEXTO_EM_VIGOR = re.compile(r"^- type: republished_by\n  target: (\S+)\n  label: '?Texto em vigor", re.M)
 _LIGACAO = re.compile(r"<a [^>]*>(.*?)</a>")
+
+
+NAO_SAO_ARTIGOS = ("Base ", "N.º ")
 
 
 @dataclass
@@ -96,7 +99,9 @@ def rotulo(doc: Documento, parte: str, numero: str, epigrafe: str) -> str:
     if parte:
         partes.append(parte)
     if numero:
-        partes.append(f"Artigo {numero}" + (f" — {epigrafe}" if epigrafe else ""))
+        # As bases e os números das portarias já trazem o nome no número («Base IV», «N.º 1.º»).
+        unidade = numero if numero.startswith(NAO_SAO_ARTIGOS) else f"Artigo {numero}"
+        partes.append(unidade + (f" — {epigrafe}" if epigrafe else ""))
     return " › ".join(partes)
 
 
@@ -229,12 +234,66 @@ def pedacos_do_documento(doc: Documento) -> tuple[list[Pedaco], list[str], bool]
     em_vigor_em = _TEXTO_EM_VIGOR.findall(cabecalho_yaml)
     historico = ler_historico(caminho)
     if historico and historico.get("versions"):
-        return _com_historico(historico), em_vigor_em, True
-    texto = corpo(markdown)
+        pedacos = _com_historico(historico)
+        if pedacos:
+            return pedacos, em_vigor_em, True
+    # Sem histórico, ou com um histórico que não dá nenhum pedaço: o texto do `.md`.
+    return _de_artigos(_unidades(corpo(markdown)), doc.data, None), em_vigor_em, bool(historico and historico.get("versions"))
+
+
+@dataclass
+class _Bloco:
+    """Um bloco de texto sem artigo, com os mesmos campos de um artigo para seguir pelo mesmo caminho."""
+
+    parte: str
+    chave: str
+    texto: str
+    numero: str = ""
+    epigrafe: str = ""
+    notas: tuple[str, ...] = ()
+
+
+# O texto fora dos artigos (antes do primeiro artigo de uma parte) só entra em blocos a partir deste tamanho, sem
+# contar os títulos: abaixo disso é o nome do diploma, do anexo ou do capítulo.
+ABERTURA_MINIMA = 300
+
+
+def _texto_util(texto: str) -> int:
+    return sum(len(linha.strip()) for linha in texto.splitlines() if not linha.startswith("#"))
+
+
+def _unidades(texto: str) -> list:
+    """O que entra no índice de um texto: os artigos ou, sem artigos nenhuns, o texto inteiro em blocos.
+
+    Nos registos em que nenhum artigo vem de um título `###### Artigo` (só «ARTIGO», «Base» ou «1.º»), que antes de
+    20/11/2026 entravam inteiros em blocos, nada pode ficar de fora. Entram também em blocos:
+
+    - o texto fora dos artigos (antes do primeiro artigo do diploma e de cada `## Anexo`, e os `## Anexo` sem artigos),
+      se tiver texto que se veja (`ABERTURA_MINIMA`): o decreto que aprova uma convenção está muitas vezes aí;
+    - o que passa dos 30 000 caracteres de um artigo (os mapas de uma lei do orçamento colados ao único título): o
+      pedaço do artigo fica cortado no limite, como todos, e o resto vai em blocos.
+
+    Nos outros registos nada muda: o preâmbulo nunca entrou e os artigos compridos são cortados no limite."""
     artigos = ler_artigos(texto)
-    if artigos:
-        return _de_artigos(artigos, doc.data, None), em_vigor_em, False
-    return [Pedaco("", "", "", f"texto#{n}", bloco, "", doc.data, None) for n, bloco in enumerate(_blocos(texto), 1)], em_vigor_em, False
+    if not artigos:
+        return [_Bloco("", f"texto#{n}", bloco) for n, bloco in enumerate(_blocos(texto), 1)]
+    if any(a.forma == "Artigo" for a in artigos):
+        return artigos
+    blocos: list[_Bloco] = []
+    numeros: dict[str, int] = {}
+
+    def em_blocos(parte: str, texto_: str) -> None:
+        for bloco in _blocos(texto_):
+            numeros[parte] = numeros.get(parte, 0) + 1
+            blocos.append(_Bloco(parte, f"{parte}::texto#{numeros[parte]}" if parte else f"texto#{numeros[parte]}", bloco))
+
+    for parte, fora in fora_dos_artigos(texto):
+        if _texto_util(fora) >= ABERTURA_MINIMA:
+            em_blocos(parte, fora)
+    for artigo in artigos:
+        if len(artigo.texto) > MAX_CARACTERES:
+            em_blocos(artigo.parte, artigo.texto[MAX_CARACTERES:])
+    return artigos + blocos
 
 
 def _com_historico(historico: dict) -> list[Pedaco]:
@@ -242,14 +301,17 @@ def _com_historico(historico: dict) -> list[Pedaco]:
 
     Uma revogação que só acrescenta a nota "Revogado pelo/a …" ao texto antigo também abre uma
     redação nova, com a nota: sem isso, o artigo ficava com o texto e as notas de antes, como em
-    vigor."""
+    vigor.
+
+    Os blocos de texto (uma versão sem artigos) seguem o mesmo caminho: um bloco que muda de uma versão
+    para a outra fecha e abre outro."""
     abertos: dict[tuple[str, int], tuple[object, str]] = {}
     feitos: list[Pedaco] = []
     for versao in historico["versions"]:
         quando = versao["date"]
         atuais: dict[tuple[str, int], object] = {}
         vistos: dict[str, int] = {}
-        for artigo in ler_artigos(texto_da_versao(historico, versao)):
+        for artigo in _unidades(texto_da_versao(historico, versao)):
             vistos[artigo.chave] = vistos.get(artigo.chave, 0) + 1
             atuais[(artigo.chave, vistos[artigo.chave])] = artigo
         for chave in list(abertos):
@@ -335,7 +397,8 @@ def construir(
 
     inicio = time.time()
     proximo_id = 1
-    contagem = {"documentos": 0, "pedacos": 0, "sem_ficheiro": 0, "com_historico": 0, "redacoes_anteriores": 0, "registos_com_redacoes_anteriores": 0}
+    contagem = {"documentos": 0, "pedacos": 0, "sem_ficheiro": 0, "com_historico": 0, "redacoes_anteriores": 0, "registos_com_redacoes_anteriores": 0,
+                "bases_e_numeros": 0}
     with ThreadPoolExecutor(fios) as executor:
         for n, lote in enumerate(_lotes(documentos, 1000)):
             for doc, pedacos, em_vigor_em, com_historico in executor.map(processar, lote):
@@ -374,6 +437,7 @@ def construir(
                 con.executemany("INSERT INTO pedacos_fts (rowid, cabecalho, texto) VALUES (?, ?, ?)", fts)
                 contagem["documentos"] += 1
                 contagem["pedacos"] += len(linhas)
+                contagem["bases_e_numeros"] += sum(1 for p in pedacos if p.numero.startswith(NAO_SAO_ARTIGOS))
                 contagem["com_historico"] += int(com_historico)
             con.commit()
             feitos = min((n + 1) * 1000, len(documentos))

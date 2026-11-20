@@ -15,11 +15,15 @@ NOTA = "\n\n> Alterado pelo/a [Decreto-Lei n.º 9/2025 - DR de 2025-04-01](https
 
 
 def test_numeracoes_da_mesma_parte_do_indice():
-    # «## ANEXO» em maiúsculas não abre parte no leitor do índice: o decreto e a republicação ficam na parte «».
-    texto = _artigos(["Objeto", "Republicação"]) + "\n\n## ANEXO — (a que se refere o artigo 2.º)\n\n" + _artigos(TEMAS)
+    # Um título que não é «Anexo» não abre parte no leitor do índice: o decreto e o código ficam na parte «».
+    texto = _artigos(["Objeto", "Republicação"]) + "\n\n## CÓDIGO DAS COISAS\n\n" + _artigos(TEMAS)
     lidas = copias.ler_partes(texto)
     assert {n: (len(p.artigos), p.parte_no_indice, p.numeracao, p.numeracoes) for n, p in lidas.items()} == {"": (2, "", 1, 2), "(2.ª numeração)": (12, "", 2, 2)}
     assert lidas["(2.ª numeração)"].textos["3.º"] == copias.impressao("Texto do artigo 3.")
+    # «## ANEXO» em maiúsculas abre parte, como «## Anexo» (desde 20/11/2026).
+    com_anexo = copias.ler_partes(texto.replace("## CÓDIGO DAS COISAS", "## ANEXO — (a que se refere o artigo 2.º)"))
+    assert {n: (len(p.artigos), p.parte_no_indice, p.numeracoes) for n, p in com_anexo.items()} == {
+        "": (2, "", 1), "ANEXO — (a que se refere o artigo 2.º)": (12, "ANEXO — (a que se refere o artigo 2.º)", 1)}
 
 
 def test_impressao_ignora_a_grafia_do_acordo_ortografico():
@@ -72,8 +76,8 @@ def test_redacoes_anteriores_com_prova_e_o_que_fica_de_fora(tmp_path):
     acervo, cabecalhos = _acervo(tmp_path, registos, {"atual": alteradores})
     marcas, fora = copias.redacoes_anteriores(acervo, cabecalhos, tmp_path, "2026-11-20", tipos=("decreto-lei",))
     # A republicação de 2010 fica fechada na data da prova mais antiga: o diploma de 2012, que o DRE regista como alterador.
-    assert [(m.documento, m.parte, m.ate, m.alvo, len(m.artigos)) for m in marcas] == [("rep", "", "2012-07-07", "atual", 12)]
-    assert ("1.º", copias.impressao("Texto do artigo 1.")) in marcas[0].artigos
+    assert [(m.documento, m.parte, m.ate, m.alvo, len(m.artigos)) for m in marcas] == [("rep", "ANEXO", "2012-07-07", "atual", 12)]
+    assert ("ANEXO::1.º", copias.impressao("Texto do artigo 1.")) in marcas[0].artigos
     motivos = {f["id"]: f["motivo"].split(":")[0].split(" (")[0] for f in fora}
     assert motivos == {"cita": "a parte mistura o articulado de um diploma de alteração com o texto que ele cita", "ultima": "sem prova de um texto posterior ao desta cópia"}
 

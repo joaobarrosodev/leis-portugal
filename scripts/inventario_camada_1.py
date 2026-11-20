@@ -30,6 +30,11 @@ O que mede (os números da secção correspondente do `reports/inventario-camada
 5. **Antigos sem texto**: em vigor segundo o DRE, só com digitalização, e citados por diplomas em vigor.
 6. **Lista de controlo** dos diplomas centrais (`scripts/inventario_diplomas_centrais.json`).
 7. **Fora do export**: CNPD, Tribunal Constitucional e acordos coletivos sem texto.
+8. **O que o índice não lê como artigos.** Desde 20/11/2026 o leitor conhece `###### ARTIGO`, `###### Base`,
+   `###### 1.º` e `## ANEXO`. Fica por ler como unidade: as «Base N» e «Cláusula N» soltas no texto, os títulos
+   de outra forma e os «Artigo 1.º … Art. 2.º …» em texto corrido (`leitura-fora-dos-artigos.jsonl`). Com
+   `--indice`, também os registos em vigor sem um pedaço aberto e não revogado, e as revogações que ainda
+   não produziram efeitos (`indice-sem-artigos-abertos.jsonl`, `revogacoes-por-produzir-efeitos.jsonl`).
 
 Uso (na raiz do repositório):
 
@@ -38,6 +43,7 @@ Uso (na raiz do repositório):
 
 Sem sitemap, a secção 4 e a parte «o DRE mexeu depois da recolha» ficam por medir. Com `--indice`,
 verifica também se «artigo N.º do Código X» chega ao registo certo (só BM25, sem modelos).
+`--sem-leitura` salta a secção 8, que lê todos os `.md` (cerca de um minuto e meio).
 Num worktree sem `exports/`, usa o export da pasta principal.
 """
 
@@ -75,6 +81,7 @@ from rag.copias import (  # noqa: E402, F401 (os testes usam estes nomes a parti
     referencias,
     sobreposicao,
 )
+from rag.fontes import comum, corpo, fora_dos_artigos, ler_artigos, revogacao_por_produzir_efeitos, revogado  # noqa: E402
 
 
 SITEMAP_CONSOLIDADOS = "https://files.diariodarepublica.pt/sitemap/legislacao-consolidada-sitemap-1.xml"
@@ -449,6 +456,240 @@ def fora_do_export(acervo: Acervo, raiz: Path, export: Path) -> dict:
     }
 
 
+# ------------------------------------------------------------------ 8. o que o índice não lê como artigos
+
+# O leitor do índice (`avaliacao/comum.py`) conhece `###### Artigo N.º`, `###### ARTIGO N.º`, `###### Base IV`,
+# `###### 1.º` e os anexos `## Anexo` e, com artigos, `## ANEXO` (desde 20/11/2026). O que fica por ler como unidade: as «Base N» e
+# «Cláusula N» sozinhas numa linha de texto corrido, os títulos de nível 6 de outra forma e os «Artigo 1.º … Art. 2.º …»
+# do texto corrido que o `structure` não marcou.
+LIMITE_DO_PEDACO = 30_000  # `rag.indice.MAX_CARACTERES`: o texto de um pedaço é cortado aqui
+ABERTURA_MINIMA = 300  # `rag.indice.ABERTURA_MINIMA`: o texto fora dos artigos de um registo só com títulos novos entra em blocos a partir daqui
+EM_VIGOR_NO_DRE = ("in_force", "partially_in_force")
+_SOLTA = re.compile(r"^(?:\*\*)?(Base|Cláusula) +(?:[IVXLC]+|\d+)\.?[ªº]?\.?(?:\*\*)?$", re.M | re.I)
+_ARTIGO_SOLTO = re.compile(r"^(?:Artigo|ARTIGO|Art\.) ?\d+\.?[º°]", re.M)
+_ROMANO = re.compile(r"^[IVXLC]+\.?$")
+# Na leitura rápida, em bytes: um título de nível 6 que não é «Artigo», ou uma «Base»/«Cláusula»/«Artigo» no início de uma linha.
+_SUSPEITO = re.compile(rb"^###### (?!Artigo[ \d])|^(?:\*\*)?(?:Base|BASE|Cl\xc3\xa1usula|CL\xc3\x81USULA) |^(?:Artigo|ARTIGO|Art\.) ?\d", re.M)
+
+
+def rotulo_do_titulo(titulo: str) -> str | None:
+    """A classe de um título de nível 6 que o índice não lê como unidade; None se o lê ou se é uma citação.
+
+    Uma citação («Artigo 5.º, com aspas) é a redação nova dentro de um ato de alteração: fica bem no texto do artigo que a traz."""
+    palavra = titulo.split()[0] if titulo.split() else ""
+    if not palavra or palavra[0] in "«\"“'[(" or comum._cabecalho("###### " + titulo):
+        return None
+    if palavra.lower().rstrip(".º") in ("artigo", "art", "artº") or palavra.startswith(("Artigo", "ARTIGO")):
+        return "Artigo (outra forma)"
+    if palavra.lower() == "base":
+        return "Base (outra forma)"
+    if palavra.lower() in ("cláusula", "clausula"):
+        return "Cláusula"
+    if palavra[0].isdigit():
+        return "número (outra forma)"
+    if _ROMANO.match(palavra):
+        return "número romano"
+    return "outro"
+
+
+def _unidade(linha: str) -> str | None:
+    """«Cláusula», «Base (solta)»… se a linha é uma unidade que o índice não lê (título de nível 6 ou «Base N» solta)."""
+    if linha.startswith("###### "):
+        return rotulo_do_titulo(linha[7:])
+    solta = _SOLTA.match(linha)
+    return solta.group(1).capitalize() + " (solta)" if solta else None
+
+
+def leitura_do_registo(markdown: str) -> dict | None:
+    """Como o índice lê um registo que tem unidades que não conhece, ou que está em blocos com artigos soltos no texto.
+
+    Destino de cada unidade, pelo que `rag.indice.pedacos_do_documento` faz:
+
+    - `em_blocos`: o registo não tem nenhuma unidade lida, ou a unidade está na abertura que o índice guarda em blocos:
+      blocos de ~300 palavras (pesquisável, mas sem número nem epígrafe);
+    - `dentro_de_um_artigo`: a unidade vem depois de um artigo (também num `## ANEXO` sem artigos): fica colada ao texto dele;
+    - `cortada`: o mesmo, mas para lá dos 30 000 caracteres do pedaço, que o índice corta;
+    - `fora_do_indice`: a unidade vem antes do primeiro artigo do diploma, ou de um `## Anexo` que depois tem artigos.
+
+    Nos registos com histórico o índice lê as versões e não o `.md`; aqui lê-se o `.md`, que é a última versão.
+    """
+    texto = corpo(markdown)
+    unidades = Counter(u for linha in texto.split("\n") if (u := _unidade(linha)))
+    artigos = ler_artigos(texto)
+    soltos = 0 if artigos else len(_ARTIGO_SOLTO.findall(texto))
+    if not unidades and soltos < 3:
+        return None
+    destino: dict[str, Counter] = defaultdict(Counter)
+    if not artigos:
+        for u, n in unidades.items():
+            destino[u]["em_blocos"] += n
+    else:
+        contadas: Counter = Counter()
+        for artigo in artigos:
+            posicao = 0
+            for linha in artigo.texto.split("\n"):
+                u = _unidade(linha)
+                if u:
+                    destino[u]["cortada" if posicao >= LIMITE_DO_PEDACO else "dentro_de_um_artigo"] += 1
+                    contadas[u] += 1
+                posicao += len(linha) + 1
+        # O texto fora dos artigos entra em blocos nos registos só com títulos das formas novas (`rag.indice._unidades`).
+        if all(a.forma != "Artigo" for a in artigos):
+            for _, fora in fora_dos_artigos(texto):
+                if sum(len(l.strip()) for l in fora.split("\n") if not l.startswith("#")) < ABERTURA_MINIMA:
+                    continue
+                for linha in fora.split("\n"):
+                    u = _unidade(linha)
+                    if u:
+                        destino[u]["em_blocos"] += 1
+                        contadas[u] += 1
+        for u, n in unidades.items():
+            if n > contadas[u]:
+                destino[u]["fora_do_indice"] += n - contadas[u]
+    return {
+        "artigos_lidos": len(artigos), "unidades": dict(unidades), "caracteres": len(texto),
+        "destino": {u: dict(d) for u, d in destino.items()},
+        "no_indice": "artigos" if artigos else "blocos",
+        **({"artigos_soltos_no_texto": soltos} if soltos >= 3 else {}),
+    }
+
+
+def leitura_dos_registos(acervo: Acervo, raiz: Path) -> list[dict]:
+    """Os registos portugueses com texto em que o índice não lê tudo como unidades (lê todos os `.md`: cerca de um minuto e meio)."""
+    linhas = []
+    for i, d in acervo.docs.items():
+        if d["text_quality"] != "texto" or not d["path"]:
+            continue
+        try:
+            bruto = (raiz / d["path"]).read_bytes()
+        except OSError:
+            continue
+        if not _SUSPEITO.search(bruto):
+            continue
+        leitura = leitura_do_registo(bruto.decode("utf-8"))
+        if leitura:
+            linhas.append({"id": i, "titulo": d["title"], "tipo": d["document_type"], "data": d["publication_date"], "estado": d["legal_status"] or "unknown",
+                           "versao": d["version_kind"], "serie": d["series"], "sumario": (d["summary"] or "")[:120], "citado_por_vigentes": acervo.citado_por_vigentes.get(i, 0), **leitura})
+    return linhas
+
+
+def gravar_leitura(saida: Path, nao_lidos: list[dict]) -> None:
+    """A lista da secção 8: os registos com unidades por ler, em vigor no DRE, e as bases também dos de vigência desconhecida
+    (a Lei n.º 95/2019 é um deles). Os que só têm «Artigo N.º» em texto corrido são um teto e ficam só contados."""
+    escolhidos = [l for l in nao_lidos if l["unidades"] and (l["estado"] in EM_VIGOR_NO_DRE or (vigencia_no_dre(l["estado"]) == "desconhecida" and "Base (solta)" in l["unidades"]))]
+    _jsonl(saida / "leitura-fora-dos-artigos.jsonl", sorted(
+        ({k: v for k, v in l.items() if k not in ("sumario", "serie", "versao") or (k == "sumario" and "Base (solta)" in l["unidades"])} for l in escolhidos),
+        key=lambda l: (l["estado"] not in EM_VIGOR_NO_DRE, -sum(l["unidades"].values()), -l["caracteres"], l["id"])))
+
+
+def vigencia_no_dre(estado: str | None) -> str:
+    return "em_vigor" if estado in EM_VIGOR_NO_DRE else "desconhecida" if estado in (None, "", "unknown") else "sem_vigencia"
+
+
+def resumo_da_leitura(linhas: list[dict]) -> dict:
+    """Por família de unidades por ler e por vigência: registos, unidades e o destino de cada uma no índice."""
+
+    def prioritario(l: dict) -> bool:
+        return l["tipo"] in PRIORITARIOS and l["serie"] == "I"
+
+    def conta(escolhidas: list[dict], rotulos: tuple[str, ...]) -> dict:
+        saida: dict = {"registos": len(escolhidas), "unidades": sum(l["unidades"].get(u, 0) for l in escolhidas for u in rotulos), "por_vigencia": {}}
+        for vigencia in ("em_vigor", "desconhecida", "sem_vigencia"):
+            grupo = [l for l in escolhidas if vigencia_no_dre(l["estado"]) == vigencia]
+            destino: Counter = Counter()
+            for l in grupo:
+                for u in rotulos:
+                    destino.update(l["destino"].get(u, {}))
+            saida["por_vigencia"][vigencia] = {
+                "registos": len(grupo), "prioritarios": sum(prioritario(l) for l in grupo), "portarias": sum(l["tipo"] == "portaria" for l in grupo),
+                "leitura_no_indice": dict(Counter(l["no_indice"] for l in grupo)),
+                "unidades": sum(l["unidades"].get(u, 0) for l in grupo for u in rotulos), "unidades_por_destino": dict(destino),
+            }
+        return saida
+
+    familias = {"bases_soltas": ("Base (solta)",), "clausulas": ("Cláusula", "Cláusula (solta)"),
+                "outros_titulos": ("Artigo (outra forma)", "Base (outra forma)", "número (outra forma)", "número romano", "outro")}
+    em_vigor = [l for l in linhas if vigencia_no_dre(l["estado"]) == "em_vigor"]
+    soltos = [l for l in em_vigor if l.get("artigos_soltos_no_texto")]
+    return {
+        "registos": len(linhas),
+        **{nome: conta([l for l in linhas if any(u in l["unidades"] for u in rotulos)], rotulos) for nome, rotulos in familias.items()},
+        "leis_com_bases_soltas": [{k: l[k] for k in ("titulo", "data", "estado", "sumario", "no_indice", "unidades", "citado_por_vigentes")}
+                                  for l in sorted(linhas, key=lambda l: l["data"] or "") if l["tipo"] == "lei" and vigencia_no_dre(l["estado"]) != "sem_vigencia" and "Base (solta)" in l["unidades"]],
+        "em_vigor_em_blocos_com_artigos_soltos_no_texto": {
+            "registos": len(soltos), "prioritarios": sum(prioritario(l) for l in soltos), "portarias": sum(l["tipo"] == "portaria" for l in soltos),
+            "artigos_soltos": sum(l["artigos_soltos_no_texto"] for l in soltos),
+            "leis_e_decretos_leis_por_decada": dict(sorted(Counter((l["data"] or "0000")[:3] + "0" for l in soltos if l["tipo"] in ("lei", "decreto-lei")).items())),
+        },
+    }
+
+
+def sem_artigos_abertos(indice: Path, hoje: str) -> tuple[list[dict], list[dict]]:
+    """Os registos portugueses do índice sem um pedaço que a pesquisa possa dar como lei em vigor, e as revogações por produzir efeitos.
+
+    Classes: `sem_pedacos`; `todos_fechados` (todos com `ate`), com ou sem ligação a outro registo; `abertos_todos_revogados`
+    (todos os pedaços abertos estão revogados em `hoje`). Uma revogação que ainda não produziu efeitos não conta como
+    revogação (`rag.fontes.revogado` com data): esses pedaços vão na segunda lista."""
+    con = sqlite3.connect(f"file:{indice}?mode=ro", uri=True)
+    docs = {r[0]: r for r in con.execute("SELECT id, titulo, tipo, data, legal_status, versao, com_historico FROM documentos WHERE id LIKE 'pt:%'")}
+    ligados = {r[0] for r in con.execute("SELECT DISTINCT documento FROM relacoes WHERE tipo IN ('texto_em_vigor_em', 'redacao_atual_em')")}
+    conta: dict[str, list[int]] = defaultdict(lambda: [0, 0, 0, 0])  # pedaços, abertos, abertos não revogados, abertos com revogação por produzir efeitos
+    datas: dict[str, Counter] = defaultdict(Counter)
+    for documento, ate, inicio, notas in con.execute("SELECT documento, ate, substr(texto, 1, 40), notas FROM pedacos"):
+        if documento not in docs:
+            continue
+        c = conta[documento]
+        c[0] += 1
+        if ate is None or ate == "":
+            c[1] += 1
+            if not revogado(inicio, notas or "", hoje):
+                c[2] += 1
+                if notas and (por_produzir := revogacao_por_produzir_efeitos(notas, hoje)):
+                    c[3] += 1
+                    datas[documento][por_produzir[0]] += 1
+    con.close()
+
+    def linha(i: str, classe: str | None = None) -> dict:
+        _, titulo, tipo, data, estado, versao, com_historico = docs[i]
+        c = conta.get(i, [0, 0, 0, 0])
+        return {"id": i, "titulo": titulo, "tipo": tipo, "data": data, "estado": estado, "versao": versao, "com_historico": bool(com_historico), **({"classe": classe} if classe else {}),
+                "pedacos": c[0], "abertos": c[1], "abertos_nao_revogados": c[2], "abertos_com_revogacao_por_produzir_efeitos": c[3],
+                **({"efeitos_a_partir_de": dict(datas[i])} if i in datas else {})}
+
+    sem_abertos = []
+    for i in docs:
+        c = conta.get(i)
+        if c is None:
+            classe = "sem_pedacos"
+        elif c[1] == 0:
+            classe = "todos_fechados_com_ligacao" if i in ligados else "todos_fechados_sem_ligacao"
+        elif c[2] == 0:
+            classe = "abertos_todos_revogados"
+        else:
+            continue
+        sem_abertos.append(linha(i, classe))
+    return sem_abertos, [linha(i) for i in datas]
+
+
+def resumo_sem_abertos(sem_abertos: list[dict], por_produzir: list[dict]) -> dict:
+    def grupo(l: dict) -> str:
+        return "prioritarios" if l["tipo"] in PRIORITARIOS else "portarias" if l["tipo"] == "portaria" else "outros"
+
+    em_vigor = [l for l in sem_abertos if l["estado"] in EM_VIGOR_NO_DRE]
+    return {
+        "em_vigor_no_dre": len(em_vigor),
+        "em_vigor_por_classe": dict(Counter(l["classe"] for l in em_vigor)),
+        "em_vigor_por_classe_e_grupo": {c: dict(Counter(grupo(l) for l in em_vigor if l["classe"] == c)) for c in sorted({l["classe"] for l in em_vigor})},
+        "vigencia_desconhecida_por_classe": dict(Counter(l["classe"] for l in sem_abertos if l["estado"] == "unknown")),
+        "sem_vigencia_por_classe": dict(Counter(l["classe"] for l in sem_abertos if l["estado"] not in EM_VIGOR_NO_DRE and l["estado"] != "unknown")),
+        "revogacoes_por_produzir_efeitos": {
+            "registos": len(por_produzir), "pedacos": sum(l["abertos_com_revogacao_por_produzir_efeitos"] for l in por_produzir),
+            "por_data": dict(sorted(sum((Counter(l["efeitos_a_partir_de"]) for l in por_produzir), Counter()).items())),
+            "registos_em_que_sao_todos_os_abertos_em_vigor": sum(l["abertos_nao_revogados"] == l["abertos_com_revogacao_por_produzir_efeitos"] for l in por_produzir),
+        },
+    }
+
+
 # ------------------------------------------------------------------ resumo e tabelas
 
 
@@ -669,6 +910,17 @@ def inventario(args: argparse.Namespace) -> dict:
     # 7
     resumo["fora_do_export"] = fora_do_export(acervo, raiz, export)
 
+    # 8
+    if not getattr(args, "sem_leitura", False):
+        nao_lidos = leitura_dos_registos(acervo, raiz)
+        gravar_leitura(saida, nao_lidos)
+        resumo["leitura"] = resumo_da_leitura(nao_lidos)
+    if args.indice:
+        sem_abertos, por_produzir = sem_artigos_abertos(Path(args.indice), args.hoje)
+        _jsonl(saida / "indice-sem-artigos-abertos.jsonl", sorted((l for l in sem_abertos if l["estado"] in EM_VIGOR_NO_DRE), key=lambda l: (l["classe"], l["tipo"] not in PRIORITARIOS, -l["pedacos"], l["id"])))
+        _jsonl(saida / "revogacoes-por-produzir-efeitos.jsonl", sorted(por_produzir, key=lambda l: -l["abertos_com_revogacao_por_produzir_efeitos"]))
+        resumo["indice_sem_artigos_abertos"] = resumo_sem_abertos(sem_abertos, por_produzir)
+
     repetidos = duplicados(acervo, PRIORITARIOS)
     _jsonl(saida / "registos-duplicados.jsonl", repetidos)
     resumo["registos_duplicados"] = {
@@ -727,6 +979,38 @@ def tabelas(resumo: dict, controlo: list[dict], lista_obras: list[dict]) -> str:
         [[l["area"], l["nome"], l["diploma"],
           (l.get("vive_em_titulo") or "—") + (f", {l['parte'][:40]}" if l.get("parte") else "") + (f" ({l['texto'].replace('consolidado_', '').replace('_', ' ')})" if l.get("texto") else ""),
           l.get("estado", "—"), l.get("consolidado_ate") or "—", "—" if "em_dia" not in l else "sim" if l["em_dia"] else "**não**", "; ".join(l["problemas"]) or "—"] for l in controlo]))
+    if "leitura" in resumo:
+        le = resumo["leitura"]
+        nomes = {"bases_soltas": "«Base N» solta no texto", "clausulas": "«Cláusula N»", "outros_titulos": "títulos de nível 6 de outra forma"}
+        destinos = ["em_blocos", "dentro_de_um_artigo", "cortada", "fora_do_indice"]
+        blocos.append(
+            "## 8. O que o índice não lê como artigos\n\nRegistos portugueses com texto. «Em vigor»: `in_force` ou `partially_in_force` no DRE. O leitor conhece "
+            "`###### Artigo`, `###### ARTIGO`, `###### Base`, `###### 1.º` e os anexos `## Anexo` e `## ANEXO`; aqui conta-se o que fica por ler como unidade. "
+            "Destino das unidades dos registos em vigor: em blocos de ~300 palavras, dentro do texto de um artigo, cortada (para lá dos 30 000 caracteres do pedaço) "
+            "e fora do índice (antes do primeiro artigo do diploma ou do anexo).\n\n" + _tabela(
+                ["Unidade", "Registos", "Em vigor", "Dos quais prioritários", "Vigência desconhecida", "Unidades (em vigor)", "Em blocos", "Dentro de um artigo", "Cortadas", "Fora do índice"],
+                [[nomes[f], le[f]["registos"], le[f]["por_vigencia"]["em_vigor"]["registos"], le[f]["por_vigencia"]["em_vigor"]["prioritarios"], le[f]["por_vigencia"]["desconhecida"]["registos"],
+                  le[f]["por_vigencia"]["em_vigor"]["unidades"], *[le[f]["por_vigencia"]["em_vigor"]["unidades_por_destino"].get(d, 0) for d in destinos]] for f in nomes]))
+        so = le["em_vigor_em_blocos_com_artigos_soltos_no_texto"]
+        blocos.append(
+            f"Em vigor, em blocos, com «Artigo 1.º … Art. 2.º …» no início das linhas (teto, por expressão regular): {so['registos']} registos "
+            f"({so['prioritarios']} prioritários, {so['portarias']} portarias), {so['artigos_soltos']} artigos.")
+        if le["leis_com_bases_soltas"]:
+            blocos.append("Leis em vigor ou de vigência desconhecida com bases soltas no texto:\n\n" + _tabela(
+                ["Lei", "Data", "Vigência", "Sumário", "No índice", "Bases", "Citada por vigentes"],
+                [[l["titulo"], l["data"], l["estado"], l["sumario"][:90], l["no_indice"], sum(l["unidades"].values()), l["citado_por_vigentes"]] for l in le["leis_com_bases_soltas"]]))
+    if "indice_sem_artigos_abertos" in resumo:
+        ia = resumo["indice_sem_artigos_abertos"]
+        classes = {"sem_pedacos": "sem um único pedaço", "todos_fechados_com_ligacao": "todos os pedaços fechados, com ligação ao registo que tem o texto",
+                   "todos_fechados_sem_ligacao": "todos os pedaços fechados, sem ligação", "abertos_todos_revogados": "pedaços abertos, todos revogados"}
+        r = ia["revogacoes_por_produzir_efeitos"]
+        blocos.append(
+            f"## 8-B. Em vigor no DRE e sem um artigo aberto e não revogado no índice ({ia['em_vigor_no_dre']})\n\n" + _tabela(
+                ["Classe", "Prioritários", "Portarias", "Outros", "Total"],
+                [[classes[c], g.get("prioritarios", 0), g.get("portarias", 0), g.get("outros", 0), sum(g.values())] for c, g in ia["em_vigor_por_classe_e_grupo"].items()])
+            + f"\n\nRevogações publicadas que ainda não produziram efeitos (os artigos contam como em vigor até lá): {r['pedacos']} artigos em {r['registos']} registos "
+            f"({r['registos_em_que_sao_todos_os_abertos_em_vigor']} em que são todos os artigos em vigor do registo); por data de efeitos: "
+            + ", ".join(f"{d} {n}" for d, n in r["por_data"].items()) + ".")
     return "\n\n".join(blocos) + "\n"
 
 
@@ -738,6 +1022,7 @@ def main(argv: list[str] | None = None) -> None:
     parser.add_argument("--sitemap-consolidados", default=None, help="ficheiro com o sitemap da legislação consolidada do DRE")
     parser.add_argument("--descarregar-sitemap", action="store_true", help=f"descarrega {SITEMAP_CONSOLIDADOS}")
     parser.add_argument("--indice", default=None, help="índice do RAG, para verificar «artigo N.º do Código X» (só leitura)")
+    parser.add_argument("--sem-leitura", action="store_true", help="salta a secção 8 (lê todos os .md do data/: cerca de um minuto e meio)")
     parser.add_argument("--hoje", default=date.today().isoformat())
     args = parser.parse_args(argv)
     args.export = args.export or str(export_por_omissao(Path(args.raiz)))

@@ -39,7 +39,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from rag import reescrita
-from rag.fontes import RAIZ, normalizar
+from rag.fontes import RAIZ, acertar_fontes, normalizar
 from rag.pesquisa import Consulta, Pesquisa
 from rag.resposta import Resposta, llm_disponivel, responder
 
@@ -58,9 +58,11 @@ def perguntas_reais() -> Path | None:
 
 
 def ler_perguntas(incluir_reais: bool = True, ficheiro: Path | None = None) -> list[dict]:
-    """As perguntas do conjunto (e as reais e coloquiais, se existirem), ou só as de `ficheiro`."""
+    """As perguntas do conjunto (e as reais e coloquiais, se existirem), ou só as de `ficheiro`.
+
+    As chaves dos artigos das fontes vêm acertadas pelo leitor de hoje (`rag.fontes.acertar_fontes`)."""
     if ficheiro is not None:
-        return [json.loads(linha) for linha in ficheiro.read_text(encoding="utf-8").splitlines() if linha.strip()]
+        return acertar_fontes([json.loads(linha) for linha in ficheiro.read_text(encoding="utf-8").splitlines() if linha.strip()])
     ficheiros = [RAIZ / "avaliacao" / "perguntas.jsonl"]
     reais = perguntas_reais()
     if incluir_reais and reais:
@@ -68,7 +70,7 @@ def ler_perguntas(incluir_reais: bool = True, ficheiro: Path | None = None) -> l
         coloquiais = reais.parent / "perguntas-coloquiais.jsonl"  # as reais reescritas como as escreve um utilizador
         if coloquiais.exists():
             ficheiros.append(coloquiais)
-    return [json.loads(linha) for f in ficheiros for linha in f.read_text(encoding="utf-8").splitlines() if linha.strip()]
+    return acertar_fontes([json.loads(linha) for f in ficheiros for linha in f.read_text(encoding="utf-8").splitlines() if linha.strip()])
 
 
 def _mesmo_sentido():

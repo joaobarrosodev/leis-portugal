@@ -33,6 +33,51 @@ def ler_artigos(texto: str) -> list[Artigo]:
     return comum.artigos(texto)
 
 
+def fora_dos_artigos(texto: str) -> list[tuple[str, str]]:
+    """(parte, texto) do que `ler_artigos` não devolve: o texto antes do primeiro artigo de cada parte (`comum.fora_dos_artigos`)."""
+    return comum.fora_dos_artigos(texto)
+
+
+def chave_atual(artigos: list[Artigo], chave: str, epigrafe: str | None = None) -> str:
+    """A chave que o leitor de hoje dá ao artigo que uma chave escrita antes de 20/11/2026 identificava.
+
+    Até essa data `## ANEXO` em maiúsculas não abria parte: o artigo 13.º de um regulamento anexo tinha a chave
+    «13.º», como se fosse do diploma, e agora tem «ANEXO — Regulamento…::13.º». As perguntas de avaliação guardam
+    a chave antiga e a epígrafe: se o artigo com essa chave já não existe, ou existe com outra epígrafe (é o do
+    diploma e não o do anexo), procura-se o do mesmo número e da mesma epígrafe. Sem um candidato único, fica a chave dada."""
+    com_a_chave = [a for a in artigos if a.chave == chave]
+    if any(epigrafe is None or a.epigrafe == epigrafe for a in com_a_chave):
+        return chave
+    numero = chave.rsplit("::", 1)[-1]
+    do_numero = [a for a in artigos if a.numero == numero and a.chave != chave]
+    for candidatos in ([a for a in do_numero if epigrafe is not None and a.epigrafe == epigrafe], [] if com_a_chave else do_numero):
+        chaves = {a.chave for a in candidatos}
+        if len(chaves) == 1:
+            return chaves.pop()
+    return chave
+
+
+def acertar_fontes(perguntas: list[dict], raiz: Path = RAIZ) -> list[dict]:
+    """Põe nas fontes das perguntas de avaliação a chave que o leitor de hoje dá a cada artigo (`chave_atual`).
+
+    Só em memória: os ficheiros das perguntas ficam como estão. A chave antiga fica em `artigo_antes`.
+    Um índice construído antes de 20/11/2026 tem as chaves antigas: para o medir, usar o código dessa altura."""
+    lidos: dict[str, list[Artigo]] = {}
+    for pergunta in perguntas:
+        fonte = pergunta.get("fonte") or {}
+        alvos = [(fonte.get("caminho"), a) for a in fonte.get("artigos", [])] + [(x.get("caminho"), x) for x in (fonte, pergunta.get("distrator") or {})]
+        for caminho, alvo in alvos:
+            if not caminho or not alvo.get("artigo"):
+                continue
+            if caminho not in lidos:
+                ficheiro = raiz / caminho
+                lidos[caminho] = ler_artigos(corpo(ficheiro.read_text(encoding="utf-8"))) if ficheiro.exists() else []
+            nova = chave_atual(lidos[caminho], alvo["artigo"], alvo.get("epigrafe")) if lidos[caminho] else alvo["artigo"]
+            if nova != alvo["artigo"]:
+                alvo["artigo_antes"], alvo["artigo"] = alvo["artigo"], nova
+    return perguntas
+
+
 _REVOGADO = re.compile(r"^\(?\s*revogad[oa]", re.I)
 
 
@@ -40,16 +85,47 @@ _PUBLICADO_EM = re.compile(r"Série [^,\]]*?de (\d{4}-\d{2}-\d{2})")
 _EM_VIGOR_DESDE = re.compile(r"em vigor a partir de (\d{4}-\d{2}-\d{2})")
 
 
-def revogado(texto: str, notas: str) -> bool:
+_EFEITOS_DESDE = re.compile(r"(?:em vigor|com efeitos|produz efeitos) a partir de (\d{4}-\d{2}-\d{2})")
+
+
+def efeitos_da_revogacao(nota: str) -> str | None:
+    """A data em que uma nota "Revogado pelo/a …" passa a valer, pelo que a própria nota do DRE diz.
+
+    «… em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31»: o diploma que revoga entra em vigor
+    em agosto, mas o artigo vigora até 30 de dezembro. É a mais tardia das datas da nota («em vigor», «com
+    efeitos», «produz efeitos a partir de»); sem nenhuma, não se sabe e devolve None."""
+    datas = [d for d in _EFEITOS_DESDE.findall(nota) if d >= "1800"]
+    return max(datas) if datas else None
+
+
+def revogacao_por_produzir_efeitos(notas: str, data: str) -> tuple[str, str] | None:
+    """(data de efeitos, nota) se todas as revogações do artigo só passam a valer depois de `data`; senão None."""
+    futuras = []
+    for nota in (n.strip() for n in notas.splitlines()):
+        if _REVOGADO.match(nota):
+            efeitos = efeitos_da_revogacao(nota)
+            if efeitos is None or efeitos <= data:
+                return None
+            futuras.append((efeitos, nota))
+    return min(futuras) if futuras else None
+
+
+def revogado(texto: str, notas: str, data: str | None = None) -> bool:
     """O artigo está revogado: o texto é "(Revogado.)" ou uma nota diz "Revogado pelo/a …".
 
     Nos consolidados do DRE, um artigo revogado fica muitas vezes com o texto antigo e só ganha a
     nota (p. ex. os do Código do Trabalho de 2003, revogados pela Lei n.º 7/2009). Conta a nota de
     revogação mais recente: se uma nota com data posterior o altera (o artigo foi reposto, como os
-    do arrendamento do Código Civil, revogados em 1975 e repostos pela Lei n.º 6/2006), já não está."""
+    do arrendamento do Código Civil, revogados em 1975 e repostos pela Lei n.º 6/2006), já não está.
+
+    Com `data` (a da pergunta), uma revogação só conta a partir do dia em que produz efeitos
+    (`efeitos_da_revogacao`): a Lei n.º 13/2003 foi revogada em agosto de 2026 com efeitos a 31 de dezembro.
+    Sem `data`, conta qualquer nota de revogação, como antes."""
     if _REVOGADO.match(texto.strip()):
         return True
     linhas = [n.strip() for n in notas.splitlines() if n.strip()]
+    if data is not None:
+        linhas = [n for n in linhas if not (_REVOGADO.match(n) and (efeitos_da_revogacao(n) or "") > data)]
     revogacoes = [n for n in linhas if _REVOGADO.match(n)]
     if not revogacoes:
         return False

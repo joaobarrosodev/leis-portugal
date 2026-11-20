@@ -97,6 +97,27 @@ _DIPLOMA_UE = re.compile(
     re.I,
 )
 _ARTIGO = re.compile(r"(?<!\w)(?:artigo|art\.)\s*(\d+)\s*\.?\s*[º°o]?(?:\s*-\s*([A-Z]{1,2})\b)?", re.I)
+# "base IV da Lei n.º 52/2012", "Base 20": as leis de bases numeram as bases em romano ou em árabe.
+_BASE = re.compile(r"(?<!\w)(?i:bases?)\s+([IVXLC]+|\d{1,3})(?!\w)")
+_ROMANOS = ((100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I"))
+
+
+def _romano_de(n: int) -> str:
+    saida = ""
+    for valor, letras in _ROMANOS:
+        while n >= valor:
+            saida, n = saida + letras, n - valor
+    return saida
+
+
+def _arabe(romano: str) -> int:
+    valores = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+    total = 0
+    for letra, seguinte in zip(romano, romano[1:] + " ", strict=True):
+        total += -valores[letra] if valores.get(seguinte, 0) > valores[letra] else valores[letra]
+    return total
+
+
 _CODIGO = re.compile(r"(?<!\w)(" + "|".join(re.escape(c) for c in sorted(CODIGOS, key=len, reverse=True)) + r")(?!\w)", re.I)
 
 
@@ -142,6 +163,13 @@ def extrair(pergunta: str) -> Referencias:
         numero = f"{m.group(1)}.º" + (f"-{m.group(2).upper()}" if m.group(2) else "")
         if numero not in refs.artigos:
             refs.artigos.append(numero)
+    for m in _BASE.finditer(pergunta):
+        # O índice guarda «Base IV» ou «Base 4», como o diploma escreve: procuram-se as duas formas.
+        n = int(m.group(1)) if m.group(1).isdigit() else _arabe(m.group(1))
+        if 0 < n < 400:
+            for numero in (f"Base {_romano_de(n)}", f"Base {n}"):
+                if numero not in refs.artigos:
+                    refs.artigos.append(numero)
     return refs
 
 
