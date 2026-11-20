@@ -44,6 +44,16 @@ no export nem no índice.
   na secção 2, os pedaços «atuais» das cópias já são os que sobram depois da regra.
 - **Nada foi corrigido.** As correções estão descritas em 8.6, com o que entrava no índice.
 
+## Atualização de 20/11/2026 (manhã): as falhas de leitura têm correção no código
+
+- **Corrigido no código que lê os dados** (o `data/` não mudou): as linhas 12, 13, 14, 15 e, nas bases com título, a 16.
+  A descrição e os números de antes e depois estão em `rag/README.md`, «O que o índice lê de um registo».
+- **A secção 8 abaixo é a medição de antes da correção** e fica como registo. O `resumo.json`, o `tabelas.md` e os
+  `.jsonl` também são de antes: regeneram-se sobre o índice novo, quando for reconstruído. O script já mede com o leitor
+  novo (conta só o que continua por ler como unidade).
+- **Fica por corrigir:** a linha 17 (texto corrido por marcar) e as bases soltas da linha 16, medidas numa amostra de
+  50 registos em `reports/leitura-texto-corrido-amostra.md`; e a linha 18, que é do estado no DRE.
+
 ## Resumo, por ordem de retorno
 
 | # | Falha | Tipo | Quantos | Verificado ou teto | Esforço | Valor para o produto |

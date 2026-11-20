@@ -237,8 +237,7 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
     _registo(tmp_path, "data/dl-114-94.md", _artigos(epigrafes))
     _registo(tmp_path, "data/lei-72-2013.md", "###### Artigo 1.º — Objeto\n\nAltera.\n\n## Anexo — CÓDIGO DA ESTRADA\n\n" + _artigos(epigrafes, nota), consolidado_ate="2025-04-11")
     _registo(tmp_path, "data/dl-5-2001.md", _artigos(["Objeto", "Âmbito"]))
-    _registo(tmp_path, "data/lei-52-2012.md", BASES, consolidado_ate="2026-05-09")
-    (tmp_path / "data" / "lei-52-2012.versoes.json").write_text("{}", encoding="utf-8")
+    _registo(tmp_path, "data/lei-2127.md", "Base I\n\nTexto.\n\nBase II\n\nTexto.\n")
     (tmp_path / "consolidacao" / "auditoria").mkdir(parents=True)
     (tmp_path / "consolidacao" / "auditoria" / "vigencia-revista.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "marca": "nao_vigora"}) + "\n", encoding="utf-8")
     (tmp_path / "consolidacao" / "resultados-escala.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "estado": "para LLM", "passos": [{"id": "pt:dre:9:por"}]}) + "\n", encoding="utf-8")
@@ -250,7 +249,7 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
         ("pt:dre:1:por", "Decreto-Lei n.º 114/94", "Aprova o Código da Estrada", "decreto-lei", "1994-05-03", "in_force", "original", "data/dl-114-94.md"),
         ("pt:dre:2:por", "Lei n.º 72/2013", "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94", "lei", "2013-09-03", "in_force", "consolidated", "data/lei-72-2013.md"),
         ("pt:dre:3:por", "Decreto-Lei n.º 5/2001", "Regime de qualquer coisa", "decreto-lei", "2001-01-10", "unknown", "original", "data/dl-5-2001.md"),
-        ("pt:dre:4:por", "Lei n.º 52/2012", "Lei de Bases dos Cuidados Paliativos", "lei", "2012-09-05", "in_force", "consolidated", "data/lei-52-2012.md"),
+        ("pt:dre:4:por", "Lei n.º 2127", "Promulga as bases do regime dos acidentes de trabalho", "lei", "1965-08-03", "in_force", "original", "data/lei-2127.md"),
     ])
     con.executemany("INSERT INTO relacoes VALUES (?, 'amended_by', ?, ?, ?, NULL)", [
         ("pt:dre:1:por", "pt:dre:2:por", "pt:dre:2:por", "2013-09-03"), ("pt:dre:3:por", "pt:dre:9:por", "pt:dre:9:por", "2005-02-02")])
@@ -267,10 +266,9 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
     por_fechar = [json.loads(l) for l in (saida / "texto-em-vigor-por-fechar.jsonl").read_text(encoding="utf-8").splitlines()]
     assert [(l["id"], l["marca_de_vigencia"]) for l in por_fechar] == [("pt:dre:3:por", "nao_vigora")]
     assert "## 6. Lista de controlo" in (saida / "tabelas.md").read_text(encoding="utf-8")
-    assert resumo["leitura"]["bases"]["por_vigencia"]["em_vigor"] == {
-        "registos": 1, "prioritarios": 1, "portarias": 0, "leitura_no_indice": {"sem pedaços": 1}, "unidades": 2, "unidades_por_destino": {"sem_pedacos": 2}}
-    assert resumo["leitura"]["em_vigor_sem_pedacos_por_ter_historico_sem_artigos"]["registos"] == 1
-    assert [l["titulo"] for l in resumo["leitura"]["leis_de_bases_em_vigor"]] == ["Lei n.º 52/2012"]
+    assert resumo["leitura"]["bases_soltas"]["por_vigencia"]["em_vigor"] == {
+        "registos": 1, "prioritarios": 1, "portarias": 0, "leitura_no_indice": {"blocos": 1}, "unidades": 2, "unidades_por_destino": {"em_blocos": 2}}
+    assert [l["titulo"] for l in resumo["leitura"]["leis_com_bases_soltas"]] == ["Lei n.º 2127"]
     assert "## 8. O que o índice não lê como artigos" in (saida / "tabelas.md").read_text(encoding="utf-8")
     assert "indice_sem_artigos_abertos" not in resumo  # só com `--indice`
 
@@ -279,60 +277,50 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
 
 
 def test_rotulo_do_titulo():
-    assert inv.rotulo_do_titulo("Artigo 1.º — Objeto") is None
-    assert inv.rotulo_do_titulo("«Artigo 5.º") is None  # redação nova citada num ato de alteração
-    assert inv.rotulo_do_titulo("Base I — Âmbito") == "Base"
-    assert inv.rotulo_do_titulo("ARTIGO 1.º") == "ARTIGO"
-    assert inv.rotulo_do_titulo("1.º") == "número"
-    assert inv.rotulo_do_titulo("IV") == "número romano"
+    # O que o leitor do índice lê não conta.
+    for lido in ("Artigo 1.º — Objeto", "ARTIGO 1.º", "Base I — Âmbito", "1.º", "«Artigo 5.º"):
+        assert inv.rotulo_do_titulo(lido) is None
     assert inv.rotulo_do_titulo("Cláusula 2.ª — Vigência") == "Cláusula"
+    assert inv.rotulo_do_titulo("IV") == "número romano"
+    assert inv.rotulo_do_titulo("Art. 3.º") == "Artigo (outra forma)"
+    assert inv.rotulo_do_titulo("Base de cálculo") == "Base (outra forma)"
+    assert inv.rotulo_do_titulo("3.º — Com epígrafe") == "número (outra forma)"
 
 
 def test_o_limite_do_pedaco_e_o_do_indice():
-    from rag.indice import MAX_CARACTERES
+    from rag.indice import ABERTURA_MINIMA, MAX_CARACTERES
 
-    assert inv.LIMITE_DO_PEDACO == MAX_CARACTERES
+    assert inv.LIMITE_DO_PEDACO == MAX_CARACTERES and inv.ABERTURA_MINIMA == ABERTURA_MINIMA
 
 
 BASES = "# Lei n.º 52/2012\n\n### Capítulo I\n\n###### Base I — Âmbito\n\nTexto.\n\n###### Base II — Conceitos\n\nTexto.\n"
-
-
-def test_leitura_do_registo_so_com_bases():
-    com_historico = inv.leitura_do_registo(BASES, com_historico=True)
-    assert com_historico["no_indice"] == "sem pedaços" and com_historico["destino"] == {"Base": {"sem_pedacos": 2}}
-    sem_historico = inv.leitura_do_registo(BASES, com_historico=False)
-    assert sem_historico["no_indice"] == "blocos" and sem_historico["destino"] == {"Base": {"em_blocos": 2}}
-
-
-def test_leitura_do_registo_com_artigos_e_bases_no_anexo():
-    articulado = "###### Artigo 1.º — Objeto\n\nAprova as bases.\n\n###### Artigo 2.º — Entrada em vigor\n\nNo dia seguinte.\n\n"
-    # «## Anexo» fecha o artigo: as bases com título ficam fora do índice.
-    fora = inv.leitura_do_registo(articulado + "## Anexo — Bases da concessão\n\n###### Base I — Objeto\n\nTexto.\n\n###### Base II — Prazo\n\nTexto.\n", False)
-    assert fora["artigos_lidos"] == 2 and fora["destino"] == {"Base": {"fora_do_indice": 2}}
-    # «## ANEXO» em maiúsculas não fecha: as bases soltas colam-se ao último artigo, e o pedaço é cortado aos 30 000 caracteres.
-    comprido = "Texto. " * 5000
-    coladas = inv.leitura_do_registo(articulado + f"## ANEXO — (a que se refere o artigo 1.º)\n\nBase 1\n\n{comprido}\n\nBase 2\n\nTexto.\n", False)
-    assert coladas["destino"] == {"Base (solta)": {"dentro_de_um_artigo": 1, "cortada": 1}}
+ARTICULADO = "###### Artigo 1.º — Objeto\n\nAprova as bases.\n\n###### Artigo 2.º — Entrada em vigor\n\nNo dia seguinte.\n\n"
 
 
 def test_leitura_do_registo_deixa_passar_o_que_o_indice_le():
-    assert inv.leitura_do_registo("###### Artigo 1.º — Objeto\n\nA base de dados é pública.\n\n###### «Artigo 5.º\n\nCitação.»\n", True) is None
-    assert inv.leitura_do_registo("Despacho sem artigos nem bases.\n", False) is None
-    # Sem artigos e com histórico: fica sem pedaços, mesmo em texto corrido.
-    assert inv.leitura_do_registo("Portaria em texto corrido.\n", True)["no_indice"] == "sem pedaços"
-    corrido = inv.leitura_do_registo("Artigo 1.º É criada a fundação.\n\nArt. 2.º Tem sede em Lisboa.\n\nArt. 3.º Entra em vigor.\n", False)
-    assert corrido["no_indice"] == "blocos" and corrido["artigos_soltos_no_texto"] == 3
+    assert inv.leitura_do_registo(BASES) is None  # as bases com título já são unidades
+    assert inv.leitura_do_registo(ARTICULADO + "## ANEXO — Bases\n\n###### Base I — Objeto\n\nTexto.\n") is None
+    assert inv.leitura_do_registo("###### Artigo 1.º — Objeto\n\nA base de dados é pública.\n\n###### «Artigo 5.º\n\nCitação.»\n") is None
+    assert inv.leitura_do_registo("Despacho sem artigos nem bases.\n") is None
 
 
-def test_revogacao_por_produzir_efeitos():
-    futura = "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - DR, Série I de 2026-08-13](https://x), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
-    antiga = "Revogado pelo/a Artigo 3.º do/a [Lei n.º 45/2005 - DR, Série I-A de 2005-08-29](https://x), em vigor a partir de 2005-10-28"
-    alterado = "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2017 - DR, Série I de 2017-07-28](https://x), em vigor a partir de 2017-07-29"
-    assert inv.revogacao_por_produzir_efeitos(futura + "\n" + alterado, "2026-11-20") == "2026-12-31"
-    assert inv.revogacao_por_produzir_efeitos(futura, "2026-12-31") is None  # já produziu efeitos
-    assert inv.revogacao_por_produzir_efeitos(antiga, "2026-11-20") is None
-    assert inv.revogacao_por_produzir_efeitos(futura + "\n" + antiga, "2026-11-20") is None  # já estava revogado antes
-    assert inv.revogacao_por_produzir_efeitos(alterado, "2026-11-20") is None
+def test_leitura_do_registo_com_bases_soltas():
+    # Num `## ANEXO` sem unidades (a Lei de Bases da Saúde), as bases soltas colam-se ao último artigo do diploma;
+    # o pedaço é cortado aos 30 000 caracteres.
+    comprido = "Texto. " * 5000
+    coladas = inv.leitura_do_registo(ARTICULADO + f"## ANEXO — (a que se refere o artigo 1.º)\n\nBase 1\n\n{comprido}\n\nBase 2\n\nTexto.\n")
+    assert coladas["artigos_lidos"] == 2 and coladas["destino"] == {"Base (solta)": {"dentro_de_um_artigo": 1, "cortada": 1}}
+    # Antes do primeiro artigo de um anexo que tem artigos, ficam de fora.
+    fora = inv.leitura_do_registo(ARTICULADO + "## Anexo\n\nCláusula 1.ª\n\nTexto.\n\n###### Artigo 1.º\n\nTexto.\n")
+    assert fora["destino"] == {"Cláusula (solta)": {"fora_do_indice": 1}}
+    # Sem unidades lidas, o registo inteiro vai em blocos.
+    so_bases = inv.leitura_do_registo("Base I\n\nTexto.\n\nBase II\n\nTexto.\n")
+    assert so_bases["no_indice"] == "blocos" and so_bases["destino"] == {"Base (solta)": {"em_blocos": 2}}
+
+
+def test_leitura_do_registo_em_texto_corrido():
+    corrido = inv.leitura_do_registo("Artigo 1.º É criada a fundação.\n\nArt. 2.º Tem sede em Lisboa.\n\nArt. 3.º Entra em vigor.\n")
+    assert corrido["no_indice"] == "blocos" and corrido["artigos_soltos_no_texto"] == 3 and corrido["unidades"] == {}
 
 
 def test_sem_artigos_abertos_no_indice(tmp_path):
@@ -355,21 +343,12 @@ def test_sem_artigos_abertos_no_indice(tmp_path):
     con.commit()
     con.close()
     sem_abertos, por_produzir = inv.sem_artigos_abertos(indice, "2026-11-20")
+    # A Lei n.º 13/2003 já não está aqui: a revogação só produz efeitos a 31/12 e até lá o artigo conta como em vigor.
     assert {l["titulo"]: l["classe"] for l in sem_abertos} == {
-        "Lei n.º 13/2003": "abertos_todos_revogados_com_efeitos_por_produzir", "Lei n.º 52/2012": "sem_pedacos",
-        "Decreto-Lei n.º 114/94": "todos_fechados_com_ligacao", "Lei n.º 99/2003": "abertos_todos_revogados"}
+        "Lei n.º 52/2012": "sem_pedacos", "Decreto-Lei n.º 114/94": "todos_fechados_com_ligacao", "Lei n.º 99/2003": "abertos_todos_revogados"}
     assert {l["titulo"]: l["efeitos_a_partir_de"] for l in por_produzir} == {"Lei n.º 13/2003": {"2026-12-31": 1}, "Lei n.º 7/2009": {"2026-12-31": 1}}
     resumo = inv.resumo_sem_abertos(sem_abertos, por_produzir)
-    assert resumo["em_vigor_no_dre"] == 4 and resumo["revogacoes_por_produzir_efeitos"] == {
-        "registos": 2, "pedacos": 2, "por_data": {"2026-12-31": 2}, "registos_com_todos_os_abertos_dados_como_revogados": 1}
-
-
-def test_anexo_em_maiusculas():
-    corpo = ("###### Artigo 1.º — Objeto\n\nAprova o regulamento.\n\n###### Artigo 2.º — Entrada em vigor\n\nAmanhã.\n\n"
-             "## ANEXO — Regulamento\n\n###### Artigo 1.º — Âmbito\n\nTexto.\n\n###### Artigo 3.º — Taxas\n\nTexto.\n")
-    assert inv.anexo_em_maiusculas(corpo.encode()) == {"artigos_no_anexo": 2, "com_o_numero_de_um_artigo_do_diploma": 1}
-    assert inv.anexo_em_maiusculas(corpo.replace("## ANEXO", "## Anexo").encode()) is None
-    # Um `## Anexo` bem escrito a seguir já é lido como parte: os artigos dele não contam.
-    assert inv.anexo_em_maiusculas((corpo + "\n## Anexo II — Tabela\n\n###### Artigo 1.º — Valores\n\nTexto.\n").encode())["artigos_no_anexo"] == 2
-    # O leitor do índice põe mesmo os dois «1.º» na parte do diploma.
-    assert [(a.parte, a.numero) for a in inv.ler_artigos(corpo)] == [("", "1.º"), ("", "2.º"), ("", "1.º"), ("", "3.º")]
+    assert resumo["em_vigor_no_dre"] == 3 and resumo["revogacoes_por_produzir_efeitos"] == {
+        "registos": 2, "pedacos": 2, "por_data": {"2026-12-31": 2}, "registos_em_que_sao_todos_os_abertos_em_vigor": 1}
+    # Depois da data de efeitos, a lei fica só com artigos revogados.
+    assert {l["titulo"]: l["classe"] for l in inv.sem_artigos_abertos(indice, "2027-01-02")[0]}["Lei n.º 13/2003"] == "abertos_todos_revogados"
