@@ -304,7 +304,7 @@ Leis e decretos-leis de vigência desconhecida por ano de publicação (desde 20
 | processo civil | Estatuto do Ministério Público | Lei n.º 68/2019 | Lei n.º 68/2019 (dre) | in_force | 2026-03-29 | sim | — |
 | processo civil | Estatuto da Ordem dos Solicitadores e dos Agentes de Execução | Lei n.º 154/2015 | Lei n.º 154/2015 (dre) | in_force | 2024-04-01 | sim | — |
 | penal | Código Penal | Decreto-Lei n.º 400/82 | Decreto-Lei n.º 48/95, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | o original não aponta para o registo com o texto em vigor (sem `republished_by` «Texto em vigor»); 3 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 400/82 (texto de 1982-09-23), Decreto-Lei n.º 400/82 (texto de 1982-09-23), Lei n.º 59/2007 (texto de 2007-09-04) |
-| penal | Código de Processo Penal | Decreto-Lei n.º 78/87 | Decreto-Lei n.º 78/87, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 48/2007 (texto de 2007-08-29); «artigo 263.º do Código de Processo Penal» não chega ao registo certo (veio: Lei n.º 59/2007, Anexo — CÓDIGO PENAL, artigo 264.º) |
+| penal | Código de Processo Penal | Decreto-Lei n.º 78/87 | Decreto-Lei n.º 78/87, (2.ª numeração) (dre) | in_force | 2026-09-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 48/2007 (texto de 2007-08-29); «artigo 263.º do Código de Processo Penal» não chega ao registo certo (veio: Decreto-Lei n.º 48/95, articulado, artigo 264.º) |
 | penal | Código da Execução das Penas | Lei n.º 115/2009 | Lei n.º 115/2009 (dre) | in_force | 2023-08-20 | sim | «artigo 6.º do Código da Execução das Penas e Medidas Privativas da Liberdade» chega ao registo certo mas a outro artigo (veio: Lei n.º 115/2009, Anexo — CÓDIGO DA EXECUÇÃO DAS PENAS E MEDIDAS PRIVATIVAS DA LIBERDADE, artigo 133.º) |
 | penal | Regime Geral das Contraordenações | Decreto-Lei n.º 433/82 | Decreto-Lei n.º 433/82 (dre) | in_force | 2025-01-14 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 244/95 (texto de 1995-09-14) |
 | penal | Lei da droga (tráfico e consumo) | Decreto-Lei n.º 15/93 | Decreto-Lei n.º 15/93 (dre) | in_force | 2023-10-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 18/2009 (texto de 2009-05-11) |
@@ -371,7 +371,7 @@ Leis e decretos-leis de vigência desconhecida por ano de publicação (desde 20
 | comercial | Código dos Valores Mobiliários | Decreto-Lei n.º 486/99 | Decreto-Lei n.º 486/99, Anexo — CÓDIGO DOS VALORES MOBILIÁRIOS (dre) | in_force | 2026-09-01 | sim | 2 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 357-A/2007 (texto de 2007-10-31), Lei n.º 35/2018 (texto de 2018-07-20); «artigo 212.º do Código dos Valores Mobiliários» não chega ao registo certo (veio: Decreto-Lei n.º 261/95, articulado, artigo 250.º) |
 | comercial | Regime Geral das Instituições de Crédito e Sociedades Financeiras | Decreto-Lei n.º 298/92 | Decreto-Lei n.º 298/92, (2.ª numeração) (dre) | in_force | 2025-12-28 | sim | 6 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 201/2002 (texto de 2002-09-26), Decreto-Lei n.º 1/2008 (texto de 2008-01-03), Decreto-Lei n.º 157/2014 (texto de 2014-10-24), Lei n.º 23-A/2015 (texto de 2015-03-26), Lei n.º 35/2018 (texto de 2018-07-20), Lei n.º 23-A/2022 (texto de 2022-12-09) |
 | comercial | Código da Propriedade Industrial | Decreto-Lei n.º 110/2018 | Decreto-Lei n.º 110/2018 (dre) | in_force | 2026-09-30 | sim | «artigo 9.º do Código da Propriedade Industrial» chega ao registo certo mas a outro artigo (veio: Decreto-Lei n.º 110/2018, Anexo — Código da Propriedade Industrial, artigo 374.º) |
-| comercial | Código do Direito de Autor e dos Direitos Conexos | Decreto-Lei n.º 63/85 | Decreto-Lei n.º 63/85, Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS (dre) | in_force | 2024-01-01 | sim | 2 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 45/85 (texto de 1985-09-17), Lei n.º 16/2008 (texto de 2008-04-01); «artigo 115.º do Código do Direito de Autor e dos Direitos Conexos» não chega ao registo certo (veio: Lei n.º 45/85, Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS, artigo 205.º) |
+| comercial | Código do Direito de Autor e dos Direitos Conexos | Decreto-Lei n.º 63/85 | Decreto-Lei n.º 63/85, Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS (dre) | in_force | 2024-01-01 | sim | 2 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 45/85 (texto de 1985-09-17), Lei n.º 16/2008 (texto de 2008-04-01); «artigo 115.º do Código do Direito de Autor e dos Direitos Conexos» chega ao registo certo mas a outro artigo (veio: Decreto-Lei n.º 63/85, Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS, artigo 177.º) |
 | comercial | Código Cooperativo | Lei n.º 119/2015 | Lei n.º 119/2015 (dre) | in_force | 2026-07-29 | sim | «artigo 62.º do Código Cooperativo» não chega ao registo certo (veio: Decreto-Lei n.º 49/2014, articulado, artigo 53.º) |
 | comercial | Lei da Concorrência | Lei n.º 19/2012 | Lei n.º 19/2012 (dre) | in_force | 2022-09-16 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 17/2022 (texto de 2022-08-17) |
 | comercial | Regime jurídico do contrato de seguro | Decreto-Lei n.º 72/2008 | Decreto-Lei n.º 72/2008 (dre) | in_force | 2026-04-16 | sim | — |
@@ -462,3 +462,75 @@ Leis e decretos-leis de vigência desconhecida por ano de publicação (desde 20
 | saúde e educação | Estatuto do Aluno e Ética Escolar | Lei n.º 51/2012 | Lei n.º 51/2012 (dre) | in_force | 2012-09-05 | sim | — |
 | saúde e educação | Regime jurídico das instituições de ensino superior | Lei n.º 62/2007 | Lei n.º 62/2007 (dre) | in_force | 2026-08-01 | sim | 1 cópia(s) com texto de outra data servida(s) como em vigor: Lei n.º 32/2026 (texto de 2026-07-20) |
 | saúde e educação | Estatuto da Carreira Docente | Decreto-Lei n.º 139-A/90 | Decreto-Lei n.º 41/2012, Anexo — ESTATUTO DA CARREIRA DOS EDUCADO (dre) | in_force | 2023-12-30 | sim | o original não aponta para o registo com o texto em vigor (sem `republished_by` «Texto em vigor»); numeração diferente da do original: só 96 de 148 artigos com o mesmo número têm a mesma epígrafe; 4 cópia(s) com texto de outra data servida(s) como em vigor: Decreto-Lei n.º 139-A/90 (texto de 1990-04-28), Decreto-Lei n.º 1/98 (texto de 1998-01-02), Decreto-Lei n.º 15/2007 (texto de 2007-01-19), Decreto-Lei n.º 270/2009 (texto de 2009-09-30) |
+
+## 8. O que o índice não lê como artigos
+
+Registos portugueses com texto. «Em vigor»: `in_force` ou `partially_in_force` no DRE. Destino das unidades dos registos em vigor: sem pedaços (o registo tem histórico e nenhum artigo lido: não entra na pesquisa), em blocos de ~300 palavras, dentro do texto de um artigo, cortada (para lá dos 30 000 caracteres do pedaço) e fora do índice (a seguir a um `## Anexo`).
+
+| Unidade | Registos | Em vigor | Dos quais prioritários | Vigência desconhecida | Unidades (em vigor) | Sem pedaços | Em blocos | Dentro de um artigo | Cortadas | Fora do índice |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| «###### Base N» | 37 | 35 | 34 | 0 | 1957 | 71 | 0 | 52 | 129 | 1705 |
+| «Base N» solta no texto | 284 | 219 | 170 | 23 | 6689 | 123 | 2810 | 1722 | 2012 | 22 |
+| «###### ARTIGO N.º» (maiúsculas ou «Art.») | 2168 | 1685 | 821 | 46 | 26731 | 339 | 24973 | 862 | 42 | 515 |
+| «###### 1.º» ou «###### IV» (número sem «Artigo») | 172 | 137 | 3 | 0 | 1157 | 908 | 0 | 62 | 0 | 187 |
+| «Cláusula N» | 1803 | 209 | 11 | 1285 | 4307 | 60 | 3560 | 387 | 90 | 210 |
+| outros títulos de nível 6 | 10 | 9 | 2 | 0 | 57 | 24 | 0 | 3 | 0 | 30 |
+
+Em vigor e sem um único pedaço no índice, por terem histórico e nenhum `###### Artigo`: 2343 (45 prioritários, 1436 portarias); 2226 em texto corrido e 117 com unidades por ler (1525); cerca de 11640 blocos de texto.
+
+Em vigor, em blocos, com «Artigo 1.º … Art. 2.º …» no início das linhas (teto, por expressão regular): 8768 registos (4000 prioritários, 1469 portarias), 114511 artigos.
+
+Em vigor, com `## ANEXO` em maiúsculas e artigos a seguir (o índice põe-nos na parte do diploma): 1946 registos (725 prioritários, 561 portarias), 71805 artigos; em 1229 registos, 12514 desses artigos têm o número de um artigo do próprio diploma.
+
+Leis em vigor organizadas em bases:
+
+| Lei | Data | Sumário | No índice | Bases | Citada por vigentes |
+|---|---|---|---|--:|--:|
+| Lei n.º 2103 | 1960-03-22 | Promulga as bases do abastecimento de água às populações rurais | blocos | 19 | 6 |
+| Lei n.º 2107 | 1961-04-05 | Promulga as bases para a execução do Plano de construções para o ensino primário no contin | sem pedaços | 25 | 68 |
+| Lei n.º 2108 | 1961-04-18 | Promulga as bases para a execução do plano de desenvolvimento e beneficiação das redes de  | sem pedaços | 17 | 3 |
+| Lei n.º 2112 | 1962-02-17 | Promulga as bases para assegurar o funcionamento dos órgãos de governo do Estado da Índia | blocos | 10 | 7 |
+| Lei n.º 2113 | 1962-04-11 | Promulga as bases da organização judiciária | blocos | 23 | 4 |
+| Lei n.º 2114 | 1962-06-15 | Promulga as bases do arrendamento rural | sem pedaços | 29 | 4 |
+| Lei n.º 2119 | 1963-06-24 | Promulga as alterações à Lei Orgânica do Ultramar Português | blocos | 33 | 17 |
+| Lei n.º 2122 | 1964-01-14 | Promulga as bases para os reembolsos dos custos de linhas novas de energia eléctrica | blocos | 5 | 2 |
+| Lei n.º 2123 | 1964-12-14 | Promulga as bases para a execução do Plano Intercalar de Fomento do continente e ilhas adj | blocos | 14 | 23 |
+| Lei n.º 2126 | 1965-06-21 | Promulga as bases que alteram o Decreto-Lei n.º 28219 (uso de acendedores e isqueiros) | blocos | 6 | 0 |
+| Lei n.º 2127 | 1965-08-03 | Promulga as bases do regime jurídico dos acidentes de trabalho e doenças profissionais | sem pedaços | 51 | 49 |
+| Lei n.º 2129 | 1966-08-20 | Promulga as bases sobre a preferência dos cônjuges no provimento de lugares de professores | blocos | 8 | 1 |
+| Lei n.º 2132 | 1967-05-26 | Promulga o regime jurídico da caça | blocos | 70 | 10 |
+| Lei n.º 2133 | 1967-12-20 | Promulga as bases em que o Governo promoverá a execução do III Plano de Fomento para o per | blocos | 11 | 14 |
+| Lei n.º 2137 | 1968-12-26 | Considera eleitores da Assembleia Nacional todos os cidadãos portugueses, maiores ou emanc | blocos | 2 | 2 |
+| Lei n.º 2144 | 1969-05-29 | Promulga a reorganização das Casas do Povo e os regimes de previdência rural - Revoga o De | blocos | 33 | 14 |
+| Lei n.º 4/70 | 1970-04-29 | Autoriza o Governo a instituir tribunais de família, que constituirão órgãos judiciais ord | blocos | 6 | 3 |
+| Lei n.º 5/70 | 1970-06-06 | Determina que seja livre a circulação de mercadorias nacionais ou nacionalizadas entre as  | blocos | 7 | 14 |
+| Lei n.º 6/70 | 1970-06-08 | Insere disposições relativas à realização de acordos colectivos sobre a comercialização de | blocos | 10 | 1 |
+| Lei n.º 8/70 | 1970-06-18 | Autoriza as federações dos grémios da lavoura, os organismos de coordenação económica e os | blocos | 7 | 2 |
+| Lei n.º 1/71 | 1971-01-29 | Determina que sejam designados pelas respectivas corporações os vogais que fazem parte dos | blocos | 8 | 1 |
+| Lei n.º 2/71 | 1971-04-12 | Estabelece o regime de actividade de seguros e resseguros - Cria o Conselho Nacional de Se | blocos | 26 | 5 |
+| Lei n.º 5/71 | 1971-11-05 | Promulga as bases relativas à lei de imprensa | blocos | 42 | 2 |
+| Lei n.º 8/71 | 1971-12-09 | Promulga as bases relativas à actividade teatral - Revoga várias disposições legislativas | blocos | 37 | 6 |
+| Lei n.º 2/72 | 1972-05-10 | Promulga as base sobre organização judiciária | blocos | 6 | 4 |
+| Lei n.º 3/72 | 1972-05-27 | Promulga as bases sobre fomento industrial - Revoga as Leis n.os 2005 e 2052 | blocos | 29 | 15 |
+| Lei n.º 5/72 | 1972-06-23 | Promulga as bases sobre a revisão da Lei Orgânica do Ultramar | blocos | 78 | 52 |
+| Lei n.º 2/73 | 1973-02-10 | Institui o registo nacional de identificação | blocos | 8 | 2 |
+| Lei n.º 4/73 | 1973-06-04 | Estabelece normas sobre a constituição e o regime dos agrupamentos complementares de empre | sem pedaços | 6 | 6 |
+| Lei n.º 5/73 | 1973-07-25 | Aprova as bases a que deve obedecer a reforma do sistema educativo | sem pedaços | 29 | 6 |
+| Lei n.º 6/73 | 1973-08-13 | Promulga a Lei de Terras do Ultramar | blocos | 33 | 2 |
+| Lei n.º 8/73 | 1973-12-26 | Organização e execução do IV Plano de Fomento (1974-1979) | blocos | 18 | 6 |
+| Lei n.º 22/92 | 1992-08-14 | Altera a Lei n.º 2127, de 3 de Agosto de 1965, estabelecendo a igualdade de direitos relat | blocos | 2 | 0 |
+| Lei n.º 161/99 | 1999-09-14 | Primeira alteração, por apreciação parlamentar, do Decreto-Lei n.º 394-A/98, de 15 de Deze | artigos | 3 | 11 |
+| Lei n.º 27/2002 | 2002-11-08 | Aprova o novo regime jurídico da gestão hospitalar e procede à primeira alteração à Lei n. | artigos | 3 | 66 |
+| Lei n.º 30/2006 | 2006-07-11 | Procede à conversão em contra-ordenações de contravenções e transgressões em vigor no orde | artigos | 2 | 12 |
+| Lei n.º 52/2012 | 2012-09-05 | Lei de Bases dos Cuidados Paliativos | sem pedaços | 35 | 5 |
+
+## 8-B. Em vigor no DRE e sem um artigo aberto e não revogado no índice (2422)
+
+| Classe | Prioritários | Portarias | Outros | Total |
+|---|--:|--:|--:|--:|
+| pedaços abertos, todos com nota de revogação | 37 | 13 | 9 | 59 |
+| pedaços abertos, todos dados como revogados, com revogações que ainda não produziram efeitos | 4 | 1 | 0 | 5 |
+| sem um único pedaço | 45 | 1436 | 862 | 2343 |
+| todos os pedaços fechados, com ligação ao registo que tem o texto | 15 | 0 | 0 | 15 |
+
+Revogações que ainda não produziram efeitos e que o leitor já dá como revogação: 197 artigos em 15 registos (6 com todos os artigos abertos dados como revogados); por data de efeitos: 2026-11-28 5, 2026-12-01 1, 2026-12-31 133, 2027-01-01 16, 2027-03-01 41, 2032-07-04 1.

@@ -7,8 +7,9 @@ no export nem no índice.
 - **Âmbito:** 1.ª Série. «Prioritários» são as leis, leis orgânicas, leis constitucionais, decretos-leis, decretos
   regulamentares e decretos legislativos regionais. As portarias têm só contagens. A 2.ª Série fica de fora.
 - **Para repetir:** `python scripts/inventario_camada_1.py --descarregar-sitemap --indice rag/indice/indice.sqlite`
-  (meio minuto sem o índice). Grava `reports/inventario-camada-1/`: `resumo.json` com todos os
-  números, `tabelas.md` com as tabelas completas e uma lista `.jsonl` por falha.
+  (meio minuto sem o índice e com `--sem-leitura`; a secção 8 lê todos os `.md` e leva mais minuto e meio). Grava
+  `reports/inventario-camada-1/`: `resumo.json` com todos os números, `tabelas.md` com as tabelas completas e uma
+  lista `.jsonl` por falha.
 - **«Verificado»** quer dizer contado no registo, no índice ou no DRE. **«Teto»** quer dizer que o número vem de uma
   regra (a triagem da consolidação, uma comparação de datas, o sumário) e que o número real é igual ou menor.
 
@@ -26,9 +27,22 @@ no export nem no índice.
   articulado do diploma de alteração.
 - **A deteção alargou-se** aos diplomas que alteram um texto e o republicam sem o DRE os consolidar com nome de anexo
   (os DL 2/98, 265-A/2001 e 44/2005 no Código da Estrada, o DL 198/2001 no IRS e no IRC, as Leis n.os 30/2012 e
-  129/2015). Por isso `tabelas.md` e os `.jsonl`, regenerados a 20/11 sobre o índice da auditoria, têm mais textos e
-  mais cópias do que as secções 2.1 e 2.2 abaixo, que são a medição de 19/11 e ficam como registo.
-- **Falta** reconstruir o índice e medir. As linhas 3 a 11 não mudaram.
+  129/2015). Por isso `tabelas.md` e os `.jsonl`, regenerados a 20/11, têm mais textos e mais cópias do que as
+  secções 2.1 e 2.2 abaixo, que são a medição de 19/11 e ficam como registo.
+- **O índice foi reconstruído com a regra** a 20/11 (1h15): fecha 43.596 pedaços em 493 registos, os mesmos números
+  do ensaio (lidos na tabela `meta`). Falta medir nas 1.298 perguntas. As linhas 3 a 11 não mudaram.
+
+## Atualização de 20/11/2026 (4h): o que o índice não lê como artigos
+
+- **Três reparos da sessão do diagnóstico, verificados:** a Lei n.º 13/2003 sem artigos em vigor, as leis de bases que
+  o índice não lê, e a passagem mostrada na resposta (esta é da pesquisa, não entra aqui).
+- **O que se acrescentou:** a secção 8, com as contagens, e as linhas 12 a 18 do resumo. O script ganhou a secção 8
+  (`leitura-fora-dos-artigos.jsonl`, `anexos-em-maiusculas.jsonl`, `indice-sem-artigos-abertos.jsonl`,
+  `revogacoes-por-produzir-efeitos.jsonl`).
+- **Sobre quê:** o export de 20/11 (1h01), o `data/` do `main` e o índice reconstruído à 1h15 com as redações anteriores
+  (`indice-redacoes.sqlite`, só leitura). `tabelas.md`, `resumo.json` e os `.jsonl` foram regenerados sobre este índice:
+  na secção 2, os pedaços «atuais» das cópias já são os que sobram depois da regra.
+- **Nada foi corrigido.** As correções estão descritas em 8.6, com o que entrava no índice.
 
 ## Resumo, por ordem de retorno
 
@@ -49,6 +63,18 @@ no export nem no índice.
 As linhas 1, 2, 4 e 11 são **falhas de apresentação**: o texto certo existe, mas há outro texto ao lado a ser servido
 como atual, ou a pesquisa não o encontra. As linhas 3 e 8 são **falhas de estado**. As linhas 5, 6, 7, 9 e 10 são
 **falhas de dados**: falta texto ou o texto não está em dia.
+
+Acrescentadas a 20/11 (secção 8), pela mesma ordem. «Em vigor» é `in_force` ou `partially_in_force` no DRE.
+
+| # | Falha | Tipo | Quantos | Verificado ou teto | Esforço | Valor para o produto |
+|---|---|---|---|---|---|---|
+| 12 | Consolidados com histórico e sem `###### Artigo`: ficam sem um único pedaço no índice | apresentação (índice) | 2.343 em vigor: 45 prioritários, 1.436 portarias, 366 resoluções do Conselho de Ministros; a Lei n.º 52/2012 entre eles | Verificado no índice | Baixo: cair nos blocos | Alto: regulamentação em vigor que a pesquisa não pode devolver |
+| 13 | `## ANEXO` em maiúsculas: os artigos do anexo ficam na parte do diploma | apresentação (leitura) | 1.946 registos em vigor (725 prioritários), 71.805 artigos; em 1.229 registos, 12.514 artigos com o número de um artigo do diploma. Mais 3.514 registos de vigência desconhecida, com 118.289 artigos | Verificado no `data/`; a mistura confirmada no índice em 10 casos | Baixo: ler «ANEXO» sem olhar a maiúsculas | Alto: regulamentos e códigos anexos respondem como «artigo N.º do decreto» |
+| 14 | Revogações que ainda não produziram efeitos, lidas como revogação | apresentação (leitura) | 197 artigos em 15 registos; 5 registos em vigor com todos os artigos dados como revogados (Lei n.º 13/2003, DL 464/80, DL 568/99, DL 208/2001, Portaria n.º 257/2012) | Verificado no índice e no DL 166/2026 | Baixo: comparar a data de efeitos com a data da pergunta | Médio: rendimento social de inserção até 30/12/2026; 133 dos 197 resolvem-se sozinhos a 31/12 |
+| 15 | «ARTIGO» em maiúsculas nos títulos: o registo entra em blocos, sem número nem epígrafe | apresentação (leitura) | 1.685 registos em vigor (821 prioritários), 26.731 artigos; quase todos de 1970–1989 | Verificado no `data/` e, por amostra, no índice | Baixo: ler «ARTIGO» sem olhar a maiúsculas | Médio: Lei Constitucional n.º 1/82, convenções aprovadas por decreto |
+| 16 | Bases em vez de artigos | apresentação (leitura) e dados (`structure`) | 245 registos em vigor (195 prioritários) e 23 de vigência desconhecida, com 8.646 e 1.712 bases; só 37 registos as têm como título | Verificado | Médio: o leitor para os títulos, o `structure` para as 284 em texto corrido | Médio: Lei de Bases da Saúde e dos Cuidados Paliativos; o resto são bases de concessões |
+| 17 | Texto corrido com «Artigo 1.º … Art. 2.º …» por marcar | dados (`structure`) | 8.768 registos em vigor em blocos (4.000 prioritários), 114.511 artigos | Teto: contagem por expressão regular no início das linhas | Médio a alto: `structure` e revisão | Médio: decretos-leis de 1960–1999 em vigor |
+| 18 | Em vigor no DRE com todos os artigos revogados | estado | 59 registos (37 prioritários): Lei n.º 99/2003, DL 94-B/98, DL 275-A/2000 | Verificado no índice (as notas são do DRE) | Baixo | Baixo: cada artigo já sai com o aviso de revogado |
 
 ## Os números da sessão coordenadora
 
@@ -264,6 +290,124 @@ Três casos a ver à mão:
 
 O export tem só `pt:dre:` (405.830) e `eu:celex:` (55.250).
 
+## 8. O que o índice não lê como artigos (20/11/2026)
+
+O índice parte cada registo em artigos pelos títulos `###### Artigo N.º` e separa os anexos pelos títulos `## Anexo`
+(`avaliacao/comum.py`, que o `rag.indice` usa). O que não tem esta forma segue um de cinco caminhos:
+
+- **sem pedaços:** o registo tem histórico de versões (`.versoes.json`) e nenhum artigo lido. O índice lê o histórico,
+  não encontra artigos e não cai nos blocos de texto. O registo fica na tabela `documentos` e sem nenhum pedaço: a
+  pesquisa não o pode devolver;
+- **em blocos:** sem histórico e sem artigos, o texto entra em blocos de cerca de 300 palavras, pesquisáveis mas sem
+  número nem epígrafe;
+- **dentro de um artigo:** a unidade vem depois de um artigo na mesma parte e fica colada ao texto dele;
+- **cortada:** o mesmo, para lá dos 30.000 caracteres a que o índice corta cada pedaço;
+- **fora do índice:** a unidade vem a seguir a um `## Anexo` e antes de qualquer artigo desse anexo. Não entra.
+
+### 8.1 Lei n.º 13/2003: a revogação só produz efeitos a 31/12/2026
+
+- **No índice tem 62 artigos abertos**, em todos os índices de 17/11 a 20/11. Não tem «0 artigos»: tem 0 artigos que
+  o leitor dê como não revogados.
+- **Porquê:** os 62 trazem uma nota «Revogado pelo/a…». 24 foram revogados entre 2005 e 2017. Os outros 38 têm a
+  nota do artigo 62.º do Decreto-Lei n.º 166/2026, «em vigor a partir de 2026-08-14, com efeitos a partir de
+  2026-12-31». O artigo 63.º desse decreto-lei diz que entra em vigor no dia útil seguinte ao da publicação e produz
+  efeitos a 31 de dezembro de 2026 (verificado no `data/`).
+- **O leitor (`rag.fontes.revogado`) só vê a palavra «Revogado»** e a data de publicação da nota. Não compara a data
+  de efeitos com a data da pergunta.
+- **Efeito:** até 30/12/2026 os 38 artigos estão em vigor, mas a pesquisa põe-nos atrás dos não revogados do mesmo
+  nível, tira-lhes peso e mostra «Artigo revogado»; as perguntas por artigo deixam-nos de fora. O DRE dá a lei como
+  `partially_in_force`.
+- **Quantos têm o mesmo problema:** 197 artigos em 15 registos. Por data de efeitos: 5 a 28/11/2026, 1 a 1/12, 133 a
+  31/12 (os do DL 166/2026: prestações sociais), 16 a 1/1/2027, 41 a 1/3/2027 e 1 em 2032. Em 5 registos em vigor
+  ficam todos os artigos abertos como revogados: Lei n.º 13/2003 (38 dos 62), DL 464/80 (22 dos 24), DL 568/99 (41 de
+  41), DL 208/2001 (8 de 8) e Portaria n.º 257/2012 (32 dos 36). Lista: `revogacoes-por-produzir-efeitos.jsonl`.
+
+### 8.2 Em vigor no DRE e sem um artigo aberto e não revogado: 2.422
+
+Registos portugueses com texto, `in_force` ou `partially_in_force`, no índice de 20/11 (1h15). Nenhum de vigência
+desconhecida está nesta situação.
+
+| Classe | Prioritários | Portarias | Outros | Total | Causa |
+|---|--:|--:|--:|--:|---|
+| Sem um único pedaço | 45 | 1.436 | 862 | 2.343 | Consolidado com histórico e sem `###### Artigo` (linha 12) |
+| Pedaços abertos, todos com nota de revogação | 37 | 13 | 9 | 59 | O DRE dá o diploma como em vigor e todos os artigos como revogados (linha 18) |
+| Todos os pedaços fechados, com ligação ao registo que tem o texto | 15 | 0 | 0 | 15 | A regra das redações anteriores (DL 114/94, DL 44/2005…): é o pretendido |
+| Pedaços abertos, todos dados como revogados, com revogações por produzir efeitos | 4 | 1 | 0 | 5 | 8.1 (linha 14) |
+
+- **Os 2.343 sem pedaços** são 2.226 em texto corrido e 117 com unidades que o leitor não conhece (títulos «1.º»,
+  «Base», «ARTIGO», «Cláusula»). Por tipo: 1.436 portarias, 366 resoluções do Conselho de Ministros, 139 despachos
+  normativos, 90 avisos, 46 decretos do Presidente da República, 33 decretos-leis. A contagem feita no `data/` (histórico
+  e nenhum artigo lido) dá os mesmos 2.343 que a contagem no índice. Lista: `indice-sem-artigos-abertos.jsonl`.
+- Sem vigência (revogados ou caducados) há mais 117 sem pedaços e 735 só com artigos revogados; não são falha.
+
+### 8.3 Bases em vez de artigos
+
+312 registos têm o texto, ou um anexo, organizado em bases. São 245 em vigor (195 prioritários), 23 de vigência
+desconhecida e 44 sem vigência. Só 37 têm as bases como título (`###### Base I — …`, todos consolidados do DRE); nos
+outros 284 a «Base N» está sozinha numa linha de texto corrido (9 têm as duas formas).
+
+| Onde ficam as bases dos registos em vigor | Bases com título | Bases soltas no texto | Total |
+|---|--:|--:|--:|
+| Fora do índice (a seguir a um `## Anexo`) | 1.705 | 22 | 1.727 |
+| Em blocos de texto | 0 | 2.810 | 2.810 |
+| Dentro do texto de um artigo, até aos 30.000 caracteres | 52 | 1.722 | 1.774 |
+| Cortadas, para lá dos 30.000 caracteres | 129 | 2.012 | 2.141 |
+| Em registos sem pedaços | 71 | 123 | 194 |
+| **Total** | **1.957** | **6.689** | **8.646** |
+
+- **Lei n.º 52/2012 (cuidados paliativos):** 35 bases com título, registo consolidado com histórico, **0 pedaços**. As
+  outras três nesta situação são as Leis n.os 4/73 e 5/73 e o DL 193/92.
+- **Lei n.º 95/2019 (Lei de Bases da Saúde):** está como texto original e de vigência desconhecida. As 37 bases estão
+  num `## ANEXO` em maiúsculas, soltas no texto: 34 ficam dentro do pedaço do artigo 4.º («Entrada em vigor»), que tem
+  os 30.000 caracteres do limite, e 3 são cortadas. Verificado no índice.
+- **A maior parte são bases de concessões** (autoestradas, águas, gás, portos) anexas a decretos-leis: 139 dos 245
+  registos em vigor são decretos-leis. No DL 62/2020 as 184 bases estão fora do índice; no DL 248-A/99, as 105.
+- **Leis em vigor com bases: 37.** Trinta e duas são de 1960 a 1973 (Lei n.º 2127, dos acidentes de trabalho; Lei
+  n.º 2114, do arrendamento rural; Lei n.º 5/73, da reforma do sistema educativo). Quatro são leis posteriores que só
+  alteram ou citam duas ou três bases. A outra é a Lei n.º 52/2012. As leis de bases recentes (educação, segurança
+  social, habitação, clima) usam artigos e leem-se bem. Lista em `tabelas.md`.
+
+### 8.4 Outras unidades que o leitor não conhece
+
+| Unidade | Registos | Em vigor | Dos quais prioritários | Unidades nos em vigor | Onde ficam |
+|---|--:|--:|--:|--:|---|
+| `###### ARTIGO N.º` em maiúsculas | 2.168 | 1.685 | 821 | 26.731 | 24.973 em blocos, 862 dentro de um artigo, 515 fora do índice, 339 em registos sem pedaços, 42 cortadas |
+| `###### 1.º` ou `###### IV` (número sem «Artigo») | 172 | 137 | 3 | 1.157 | 908 em registos sem pedaços, 187 fora do índice, 62 dentro de um artigo |
+| «Cláusula N» | 1.803 | 209 | 11 | 4.307 | 3.560 em blocos; 1.285 dos registos são acordos coletivos de vigência desconhecida |
+| `## ANEXO` em maiúsculas com artigos a seguir | 6.393 | 1.946 | 725 | 71.805 artigos | na parte do diploma, e não na do anexo; mais 3.514 registos de vigência desconhecida, com 118.289 artigos |
+
+- **«ARTIGO» em maiúsculas:** 538 leis, 407 decretos, 231 decretos-leis e 150 portarias em vigor, quase todos de 1970
+  a 1989 (a Lei Constitucional n.º 1/82 tem 590, o DL 42826 tem 684). Numa amostra de 300 registos, 5.360 dos 5.361
+  títulos têm um número que o leitor atual sabe ler.
+- **`## ANEXO` em maiúsculas:** o leitor só conhece `## Anexo`. Os artigos do anexo ficam com a parte vazia, como os
+  do diploma. Em 1.229 registos em vigor, 12.514 artigos do anexo têm o número de um artigo do próprio
+  diploma: há dois «artigo 1.º» na mesma parte. Verificado no índice: o DL 177/2026 tem 581 pedaços abertos na parte
+  vazia (11 do decreto e 570 do Código dos Contratos Públicos republicado), a Lei n.º 59/98 tem 542. Estes anexos também
+  não levam o desconto das republicações, que procura «republica» no nome da parte. Lista: `anexos-em-maiusculas.jsonl`.
+- **Sem artigo e sem anexo com nome,** o texto de um anexo em maiúsculas cola-se ao último artigo do diploma (é o caso
+  da Lei n.º 95/2019). É por isso que há bases «dentro de um artigo».
+
+### 8.5 Texto corrido com artigos por marcar (teto)
+
+8.768 registos em vigor entram em blocos e têm três ou mais linhas a começar por «Artigo N.º» ou «Art. N.º»: são
+114.511 artigos que o `structure` não marcou como título. 4.000 são prioritários e 1.469 são portarias. Nas leis e
+decretos-leis: 1.227 são de 1960–1969, 1.059 de 1970–1979, 765 de 1980–1989 e 436 de 1990–1999. É um teto: a contagem é por expressão regular no início das linhas e não foi vista caso a
+caso. A pesquisa encontra o texto, mas não o artigo pelo número.
+
+### 8.6 Correções, sem as fazer, e o que entrava
+
+| Correção | Onde | O que entrava no índice |
+|---|---|---|
+| Quando o histórico não dá nenhum pedaço, ler o `.md` (artigos ou blocos) | `rag/indice.py`, `pedacos_do_documento` | 2.343 registos em vigor, em cerca de 11.330 blocos (contados com o partidor do índice; o script estima 11.640 pelos caracteres) |
+| Ler `## ANEXO` sem olhar a maiúsculas | `avaliacao/comum.py`, `_ANEXO` | Nenhum pedaço novo: 71.805 artigos de 1.946 registos em vigor (e 118.289 de 3.514 de vigência desconhecida) mudam de parte e deixam de repetir chaves. As chaves mudam, por isso as perguntas por artigo e os conjuntos de avaliação que as usam têm de ser conferidos. **Risco:** o texto de um anexo sem artigos, que hoje se cola ao último artigo do diploma, passava a ficar fora do índice (as 34 bases da Lei n.º 95/2019, por exemplo). Só deve entrar com a correção seguinte, ou com o texto dos anexos sem artigos a entrar em blocos |
+| Ler `###### ARTIGO`, `###### Base` e `###### N.º` como unidades | `avaliacao/comum.py`, `_ARTIGO` | Nos registos em vigor: 26.731 artigos, 1.957 bases e 1.157 números passam a pedaços com número e epígrafe (hoje, 24.973 estão em blocos e 2.407 fora do índice). Para as bases, a referência («base IV da Lei n.º 52/2012») também tem de ser lida em `rag/referencias.py` |
+| Comparar a data de efeitos da revogação com a data da pergunta | `rag/fontes.py`, `revogado`, e quem a chama | 197 artigos em 15 registos deixam de sair como revogados até à data de efeitos; o aviso pode dizer a data |
+| Marcar as «Base N» soltas e os «Artigo N.º» em texto corrido | `structure` (muda o `data/`) | 6.689 bases em 219 registos em vigor, mais as 37 da Lei n.º 95/2019; até 114.511 artigos em 8.768 registos (teto) |
+
+A segunda e a terceira mexem no leitor que a avaliação também usa: convém medir nas 1.298 perguntas antes e depois.
+Não contei quanto texto de anexos sem artigos fica hoje fora do índice para além das bases (tabelas, mapas, estatutos
+em texto corrido a seguir a um `## Anexo`).
+
 ## Limites deste inventário
 
 - A separação entre «alteração que muda o texto» e «`amended_by` sem alteração textual» é a da triagem da
@@ -272,5 +416,9 @@ O export tem só `pt:dre:` (405.830) e `eu:celex:` (55.250).
   números de artigo e epígrafes. Não vê cópias em registos que o DRE não consolida, nem pares sem epígrafes e sem nota
   do DRE.
 - «Em dia» não vê uma alteração que o DRE não tenha registado como `amended_by`.
+- A secção 8 conta os títulos no `.md`. Nos registos com histórico o índice lê as versões e não o `.md`; a última
+  versão é o `.md`, mas a comparação não foi feita registo a registo. O total de registos sem pedaços bate com o índice.
+- Na secção 8, «em vigor» é o estado do DRE. Os de vigência desconhecida estão contados à parte e só nas bases.
+- Os «artigos por marcar» em texto corrido (8.5) são uma contagem por expressão regular: é um teto.
 - A lista de controlo foi escrita à mão: os 198 títulos resolvem todos menos o Código Comercial, mas a escolha dos
   diplomas é minha e pode faltar algum.

@@ -237,6 +237,8 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
     _registo(tmp_path, "data/dl-114-94.md", _artigos(epigrafes))
     _registo(tmp_path, "data/lei-72-2013.md", "###### Artigo 1.º — Objeto\n\nAltera.\n\n## Anexo — CÓDIGO DA ESTRADA\n\n" + _artigos(epigrafes, nota), consolidado_ate="2025-04-11")
     _registo(tmp_path, "data/dl-5-2001.md", _artigos(["Objeto", "Âmbito"]))
+    _registo(tmp_path, "data/lei-52-2012.md", BASES, consolidado_ate="2026-05-09")
+    (tmp_path / "data" / "lei-52-2012.versoes.json").write_text("{}", encoding="utf-8")
     (tmp_path / "consolidacao" / "auditoria").mkdir(parents=True)
     (tmp_path / "consolidacao" / "auditoria" / "vigencia-revista.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "marca": "nao_vigora"}) + "\n", encoding="utf-8")
     (tmp_path / "consolidacao" / "resultados-escala.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "estado": "para LLM", "passos": [{"id": "pt:dre:9:por"}]}) + "\n", encoding="utf-8")
@@ -248,6 +250,7 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
         ("pt:dre:1:por", "Decreto-Lei n.º 114/94", "Aprova o Código da Estrada", "decreto-lei", "1994-05-03", "in_force", "original", "data/dl-114-94.md"),
         ("pt:dre:2:por", "Lei n.º 72/2013", "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94", "lei", "2013-09-03", "in_force", "consolidated", "data/lei-72-2013.md"),
         ("pt:dre:3:por", "Decreto-Lei n.º 5/2001", "Regime de qualquer coisa", "decreto-lei", "2001-01-10", "unknown", "original", "data/dl-5-2001.md"),
+        ("pt:dre:4:por", "Lei n.º 52/2012", "Lei de Bases dos Cuidados Paliativos", "lei", "2012-09-05", "in_force", "consolidated", "data/lei-52-2012.md"),
     ])
     con.executemany("INSERT INTO relacoes VALUES (?, 'amended_by', ?, ?, ?, NULL)", [
         ("pt:dre:1:por", "pt:dre:2:por", "pt:dre:2:por", "2013-09-03"), ("pt:dre:3:por", "pt:dre:9:por", "pt:dre:9:por", "2005-02-02")])
@@ -264,3 +267,109 @@ def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
     por_fechar = [json.loads(l) for l in (saida / "texto-em-vigor-por-fechar.jsonl").read_text(encoding="utf-8").splitlines()]
     assert [(l["id"], l["marca_de_vigencia"]) for l in por_fechar] == [("pt:dre:3:por", "nao_vigora")]
     assert "## 6. Lista de controlo" in (saida / "tabelas.md").read_text(encoding="utf-8")
+    assert resumo["leitura"]["bases"]["por_vigencia"]["em_vigor"] == {
+        "registos": 1, "prioritarios": 1, "portarias": 0, "leitura_no_indice": {"sem pedaços": 1}, "unidades": 2, "unidades_por_destino": {"sem_pedacos": 2}}
+    assert resumo["leitura"]["em_vigor_sem_pedacos_por_ter_historico_sem_artigos"]["registos"] == 1
+    assert [l["titulo"] for l in resumo["leitura"]["leis_de_bases_em_vigor"]] == ["Lei n.º 52/2012"]
+    assert "## 8. O que o índice não lê como artigos" in (saida / "tabelas.md").read_text(encoding="utf-8")
+    assert "indice_sem_artigos_abertos" not in resumo  # só com `--indice`
+
+
+# ---------------------------------------------------------------------------------- 8. o que o índice não lê como artigos
+
+
+def test_rotulo_do_titulo():
+    assert inv.rotulo_do_titulo("Artigo 1.º — Objeto") is None
+    assert inv.rotulo_do_titulo("«Artigo 5.º") is None  # redação nova citada num ato de alteração
+    assert inv.rotulo_do_titulo("Base I — Âmbito") == "Base"
+    assert inv.rotulo_do_titulo("ARTIGO 1.º") == "ARTIGO"
+    assert inv.rotulo_do_titulo("1.º") == "número"
+    assert inv.rotulo_do_titulo("IV") == "número romano"
+    assert inv.rotulo_do_titulo("Cláusula 2.ª — Vigência") == "Cláusula"
+
+
+def test_o_limite_do_pedaco_e_o_do_indice():
+    from rag.indice import MAX_CARACTERES
+
+    assert inv.LIMITE_DO_PEDACO == MAX_CARACTERES
+
+
+BASES = "# Lei n.º 52/2012\n\n### Capítulo I\n\n###### Base I — Âmbito\n\nTexto.\n\n###### Base II — Conceitos\n\nTexto.\n"
+
+
+def test_leitura_do_registo_so_com_bases():
+    com_historico = inv.leitura_do_registo(BASES, com_historico=True)
+    assert com_historico["no_indice"] == "sem pedaços" and com_historico["destino"] == {"Base": {"sem_pedacos": 2}}
+    sem_historico = inv.leitura_do_registo(BASES, com_historico=False)
+    assert sem_historico["no_indice"] == "blocos" and sem_historico["destino"] == {"Base": {"em_blocos": 2}}
+
+
+def test_leitura_do_registo_com_artigos_e_bases_no_anexo():
+    articulado = "###### Artigo 1.º — Objeto\n\nAprova as bases.\n\n###### Artigo 2.º — Entrada em vigor\n\nNo dia seguinte.\n\n"
+    # «## Anexo» fecha o artigo: as bases com título ficam fora do índice.
+    fora = inv.leitura_do_registo(articulado + "## Anexo — Bases da concessão\n\n###### Base I — Objeto\n\nTexto.\n\n###### Base II — Prazo\n\nTexto.\n", False)
+    assert fora["artigos_lidos"] == 2 and fora["destino"] == {"Base": {"fora_do_indice": 2}}
+    # «## ANEXO» em maiúsculas não fecha: as bases soltas colam-se ao último artigo, e o pedaço é cortado aos 30 000 caracteres.
+    comprido = "Texto. " * 5000
+    coladas = inv.leitura_do_registo(articulado + f"## ANEXO — (a que se refere o artigo 1.º)\n\nBase 1\n\n{comprido}\n\nBase 2\n\nTexto.\n", False)
+    assert coladas["destino"] == {"Base (solta)": {"dentro_de_um_artigo": 1, "cortada": 1}}
+
+
+def test_leitura_do_registo_deixa_passar_o_que_o_indice_le():
+    assert inv.leitura_do_registo("###### Artigo 1.º — Objeto\n\nA base de dados é pública.\n\n###### «Artigo 5.º\n\nCitação.»\n", True) is None
+    assert inv.leitura_do_registo("Despacho sem artigos nem bases.\n", False) is None
+    # Sem artigos e com histórico: fica sem pedaços, mesmo em texto corrido.
+    assert inv.leitura_do_registo("Portaria em texto corrido.\n", True)["no_indice"] == "sem pedaços"
+    corrido = inv.leitura_do_registo("Artigo 1.º É criada a fundação.\n\nArt. 2.º Tem sede em Lisboa.\n\nArt. 3.º Entra em vigor.\n", False)
+    assert corrido["no_indice"] == "blocos" and corrido["artigos_soltos_no_texto"] == 3
+
+
+def test_revogacao_por_produzir_efeitos():
+    futura = "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - DR, Série I de 2026-08-13](https://x), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+    antiga = "Revogado pelo/a Artigo 3.º do/a [Lei n.º 45/2005 - DR, Série I-A de 2005-08-29](https://x), em vigor a partir de 2005-10-28"
+    alterado = "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2017 - DR, Série I de 2017-07-28](https://x), em vigor a partir de 2017-07-29"
+    assert inv.revogacao_por_produzir_efeitos(futura + "\n" + alterado, "2026-11-20") == "2026-12-31"
+    assert inv.revogacao_por_produzir_efeitos(futura, "2026-12-31") is None  # já produziu efeitos
+    assert inv.revogacao_por_produzir_efeitos(antiga, "2026-11-20") is None
+    assert inv.revogacao_por_produzir_efeitos(futura + "\n" + antiga, "2026-11-20") is None  # já estava revogado antes
+    assert inv.revogacao_por_produzir_efeitos(alterado, "2026-11-20") is None
+
+
+def test_sem_artigos_abertos_no_indice(tmp_path):
+    indice = tmp_path / "indice.sqlite"
+    con = sqlite3.connect(indice)
+    con.execute("CREATE TABLE documentos (id, titulo, tipo, data, legal_status, versao, com_historico)")
+    con.execute("CREATE TABLE pedacos (documento, ate, texto, notas)")
+    con.execute("CREATE TABLE relacoes (documento, tipo, alvo)")
+    con.executemany("INSERT INTO documentos VALUES (?, ?, 'lei', '2003-05-21', ?, 'consolidated', 1)", [
+        ("pt:dre:1:por", "Lei n.º 13/2003", "partially_in_force"), ("pt:dre:2:por", "Lei n.º 52/2012", "in_force"), ("pt:dre:3:por", "Decreto-Lei n.º 114/94", "in_force"),
+        ("pt:dre:4:por", "Lei n.º 99/2003", "partially_in_force"), ("pt:dre:5:por", "Lei n.º 7/2009", "in_force"), ("eu:1", "Regulamento", "in_force")])
+    futura = "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - DR, Série I de 2026-08-13](https://x), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+    antiga = "Revogado pelo/a Artigo 12.º do/a [Lei n.º 7/2009 - DR, Série I de 2009-02-12](https://x), em vigor a partir de 2009-02-17"
+    con.executemany("INSERT INTO pedacos VALUES (?, ?, ?, ?)", [
+        ("pt:dre:1:por", None, "A presente lei institui o rendimento social de inserção.", futura), ("pt:dre:1:por", "2026-08-14", "Redação anterior.", ""),
+        ("pt:dre:3:por", "1998-01-03", "Artigo do código de 1994.", ""),
+        ("pt:dre:4:por", None, "Artigo do código de 2003.", antiga),
+        ("pt:dre:5:por", None, "Artigo em vigor.", ""), ("pt:dre:5:por", None, "Outro, que acaba no fim do ano.", futura)])
+    con.execute("INSERT INTO relacoes VALUES ('pt:dre:3:por', 'texto_em_vigor_em', 'pt:dre:9:por')")
+    con.commit()
+    con.close()
+    sem_abertos, por_produzir = inv.sem_artigos_abertos(indice, "2026-11-20")
+    assert {l["titulo"]: l["classe"] for l in sem_abertos} == {
+        "Lei n.º 13/2003": "abertos_todos_revogados_com_efeitos_por_produzir", "Lei n.º 52/2012": "sem_pedacos",
+        "Decreto-Lei n.º 114/94": "todos_fechados_com_ligacao", "Lei n.º 99/2003": "abertos_todos_revogados"}
+    assert {l["titulo"]: l["efeitos_a_partir_de"] for l in por_produzir} == {"Lei n.º 13/2003": {"2026-12-31": 1}, "Lei n.º 7/2009": {"2026-12-31": 1}}
+    resumo = inv.resumo_sem_abertos(sem_abertos, por_produzir)
+    assert resumo["em_vigor_no_dre"] == 4 and resumo["revogacoes_por_produzir_efeitos"] == {
+        "registos": 2, "pedacos": 2, "por_data": {"2026-12-31": 2}, "registos_com_todos_os_abertos_dados_como_revogados": 1}
+
+
+def test_anexo_em_maiusculas():
+    corpo = ("###### Artigo 1.º — Objeto\n\nAprova o regulamento.\n\n###### Artigo 2.º — Entrada em vigor\n\nAmanhã.\n\n"
+             "## ANEXO — Regulamento\n\n###### Artigo 1.º — Âmbito\n\nTexto.\n\n###### Artigo 3.º — Taxas\n\nTexto.\n")
+    assert inv.anexo_em_maiusculas(corpo.encode()) == {"artigos_no_anexo": 2, "com_o_numero_de_um_artigo_do_diploma": 1}
+    assert inv.anexo_em_maiusculas(corpo.replace("## ANEXO", "## Anexo").encode()) is None
+    # Um `## Anexo` bem escrito a seguir já é lido como parte: os artigos dele não contam.
+    assert inv.anexo_em_maiusculas((corpo + "\n## Anexo II — Tabela\n\n###### Artigo 1.º — Valores\n\nTexto.\n").encode())["artigos_no_anexo"] == 2
+    # O leitor do índice põe mesmo os dois «1.º» na parte do diploma.
+    assert [(a.parte, a.numero) for a in inv.ler_artigos(corpo)] == [("", "1.º"), ("", "2.º"), ("", "1.º"), ("", "3.º")]
