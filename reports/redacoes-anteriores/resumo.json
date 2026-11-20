@@ -1,13 +1,13 @@
 {
  "gerado": "2026-11-20",
- "obras": 641,
- "marcadas": 536,
- "registos_com_marcas": 493,
- "de_fora": 345,
+ "obras": 657,
+ "marcadas": 565,
+ "registos_com_marcas": 515,
+ "de_fora": 352,
  "de_fora_por_motivo": {
-  "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 200,
-  "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 140,
-  "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 4,
+  "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 203,
+  "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 145,
+  "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 3,
   "texto corrido com outro articulado a seguir: não se separa nos blocos do índice": 1
  }
 }

@@ -1266,3 +1266,87 @@ Nada se apaga. `python -m rag.duplicados` lista os pares e os de fora; `python -
 - Não ganha as linhas 2 e 4, que estão no código da pesquisa e das referências.
 
 **Reconstruir:** `python -m rag.indice`, como sempre, sem opções novas (o `rag.duplicados` acrescenta uns 40 s no início). Os pedaços não mudam, por isso o `rag.jurisprudencia` não precisa de correr de novo por causa disto. A medição com reranker nas 1.298 fica para depois da reconstrução.
+
+## Texto corrido lido como artigos (20/11/2026, tarde)
+
+Os registos sem nenhum título de artigo entravam inteiros em blocos de ~300 palavras. Muitos são diplomas de 1960 a 1999
+com os artigos em texto corrido («Artigo 1.º Texto… Art. 2.º - Texto…»). Agora o índice lê-os como artigos na construção
+(`rag/corrido.py`, chamado por `rag.indice._unidades`), com o leitor do acervo (`leis_portugal.domain.articles.parse_articles`),
+mas só quando a leitura passa a salvaguarda. O `data/` não muda; a leitura desfaz-se com `--sem-texto-corrido`.
+
+**A salvaguarda** (cabeçalho de `rag/corrido.py`): só artigos (nem bases, nem números de portaria); em cada parte, numeração
+de 1 (ou «único») em diante, sem saltos nem repetidos; nenhum artigo aberto depois de «… seguinte redacção:» nem a acabar
+nessa frase; a numeração não recomeça logo a seguir a um artigo que acaba em «:»; o último artigo de cada parte não tem
+dentro o seguinte; nenhuma parte é o sumário de outra; nenhum título `######` no registo; três ou mais linhas «Artigo N.º»;
+não é acórdão nem parecer; num diploma que «Aprova o Código …», todos os artigos na parte do diploma (é lá que a pesquisa
+procura o código pelo sumário). Ficam também em blocos os registos com uma cópia marcada em texto corrido pela regra das
+redações anteriores (o Código Penal no DL 400/82, o do IVA no DL 394-B/84 e mais 2): a marca procura o texto antigo nos blocos.
+
+**Revisão à mão** (`reports/leitura-texto-corrido-amostra.md`): 50 + 150 + 100 + 100 registos aceites em vigor, os 145 com uma
+«Parte 2» implícita e 56 fora de vigor ou da UE. Cada família de erro que apareceu deu uma regra. Na última amostra, tirada
+já com a regra final e que não serviu para fazer regras: 100 registos, 1.274 artigos, nenhum erro (intervalo de 95 %: até
+3,6 % dos registos aceites com algum erro). Nos 4.040 artigos das quatro amostras, o texto de cada artigo bate com o trecho do
+original entre a linha que o abre e a seguinte.
+
+**O que entra**, no export de 20/11 (pela construção do ensaio abaixo, que tem todos os registos que mudam):
+
+| Vigência no DRE | Registos | Artigos novos | Blocos antes | Blocos depois |
+|---|--:|--:|--:|--:|
+| Em vigor | 5.592 | 63.382 | 24.114 | 8.283 |
+| Sem vigência | 4.684 | 60.534 | 23.551 | 8.215 |
+| Desconhecida | 245 | 2.218 | 1.111 | 322 |
+| Revogados | 21 | 250 | 169 | 103 |
+| **Total** | **10.542** | **126.384** | **48.945** | **16.923** |
+
+Mais uns 94 mil pedaços no índice inteiro. Na população revista (em vigor, em blocos, com três ou mais linhas «Artigo N.º»):
+5.602 de 8.750 registos (64 %), 63.479 artigos.
+
+**O que fica de fora:** os 3.148 registos dessa população que não passam (rubricas de orçamento, diplomas de alteração com a
+redação nova sem aspas, registos mistos…) continuam em blocos, como antes; os acórdãos e pareceres; os registos com títulos
+`######`. As bases soltas no texto (242 registos, 8.401 bases; a Lei n.º 95/2019 tem as 37 num `## ANEXO`) ficam como estavam:
+misturam a redação nova citada («Base II [...]» dentro de um artigo «Alteração às bases…») com a republicação no anexo, muitas
+vezes com várias numerações no mesmo registo, e não há ainda uma regra que as separe com segurança. Nos registos de concessões
+de 2010 a 2015 (DL 44-B/2010 a 44-G/2010, DL 214-A/2015…) a maior parte das bases fica para lá dos 30.000 caracteres do último
+artigo e não está no índice: fica como trabalho à parte.
+
+**Nenhum texto sai do índice.** Todo o texto fora dos artigos de um registo lido (preâmbulo, fórmula, assinaturas, títulos dos
+capítulos, mapas) entra em blocos, seja qual for o tamanho, e o que passa dos 30.000 caracteres de um artigo também. Verificado
+nos 10.570 registos que mudam no ensaio, pelas palavras de cada registo antes e depois (texto, epígrafe e notas): saem só os
+números dos artigos («2º», «único»), que passam a ser o número do pedaço, e o título de um anexo, que passa a ser o nome da parte.
+
+**Redações anteriores nas declarações de retificação (`rag/copias.py`, `TIPOS`).** As declarações de retificação contam como
+cópias possíveis de um texto: 558 → 565 marcas (`reports/redacoes-anteriores/`), nenhuma perdida nem mudada. As 7 novas: a
+Declaração de Rectificação n.º 100-A/2007 (Código de Processo Penal de 2007, fechado a 2009-01-02, quando o DL 78/87 tem
+alterações a esses artigos); as DR 25-A/2018, 21/2014, 1-A/2005 e 20/93; a Lei n.º 31-A/2009 e a Lei Orgânica n.º 5/2014,
+cujo texto em vigor o DRE consolida no registo da Declaração de Rectificação n.º 52/2009.
+
+**Verificado num índice de ensaio** (22.459 registos: os 12.120 da fase 1, todos os que a leitura muda e os das marcas novas),
+com o código do `main` antes (`fd47829befb`) e depois, numa pasta temporária:
+
+- esquema igual; pedaços 394.966 → 489.377; abertos com número 202.851 → 328.383; blocos abertos 77.514 → 45.492;
+- nenhum dos 198 diplomas centrais perde artigos (197 iguais, 1 fora do acervo); 630 → 640 nomes de anexos e códigos;
+  nenhum nome começado por «código», «lei geral», «estatuto» ou «regime» muda de resolução; os 39 da lista de controlo
+  resolvem-se para os mesmos registos; códigos principais 44 → 44. Uma primeira versão, sem a regra do «Aprova o Código»,
+  tirava 4 dos códigos principais (o Código do Imposto de Capitais e outros dos anos 60 ficavam numa «Parte 2»);
+- chaves das perguntas de avaliação: das 1.519 perguntas (as 1.298, as da UE e as da 2.ª Série), nenhuma tem a fonte ou o
+  distrator num registo que muda (só um revogador, sem artigo); `acertar_fontes` não tem nada a acertar;
+- com o código da etiqueta `app-v0.1.1`: um delta gerado hoje (10.570 registos, 135 MB) e aplicado por ela dá o mesmo índice
+  que a construção de raiz (documentos, pedaços e relações iguais linha a linha), e 10 pesquisas dão os mesmos resultados;
+- só BM25 e referências, sem reranker nem LLM, nas 1.414 perguntas com fonte:
+
+| | Antes | Depois |
+|---|--:|--:|
+| Artigo esperado em 1.º | 840 | 831 |
+| Nos 5 primeiros | 1.111 | 1.104 |
+| Nos 10 primeiros | 1.182 | 1.180 |
+| Nos 10 primeiros com o texto do excerto | 1.169 | 1.167 |
+
+50 perguntas sobem e 88 descem (21 perdem o 1.º lugar, 12 ganham-no; saem 9 do top 10 e entram 7). Em nenhuma das 88 que
+descem o 1.º lugar é um registo que mudou: a troca vem das estatísticas do BM25 no índice inteiro (mais 94 mil pedaços mudam o
+IDF e o comprimento médio). Nenhuma pergunta de avaliação tem a fonte num registo lido agora, por isso esta medição só vê o
+custo; o ganho é nas perguntas que citam um diploma antigo e o artigo («artigo 3.º do Decreto-Lei n.º 47908»), que antes só
+podiam receber um bloco. O efeito com o reranker mede-se na reconstrução.
+
+**Reconstruir:** `python -m rag.indice`, como sempre; a leitura está ligada por omissão (`--sem-texto-corrido` desliga-a, para
+medir). A regra das cópias com as declarações de retificação também está ligada por omissão. Depois, `python -m rag.jurisprudencia`,
+como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos podem passar a encontrar o artigo).
