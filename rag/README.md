@@ -998,7 +998,9 @@ O `rag.indice` usa as marcas ao construir (por omissão; `--sem-redacoes-anterio
 - nos registos em blocos de texto (o IVA de 1984), fecham os blocos a seguir àquele onde o código começa;
 - a ligação para o registo com o texto atual é `texto_em_vigor_em` quando o registo fica sem artigos abertos, e `redacao_atual_em` quando ficam os do próprio diploma: a pesquisa troca artigos pelo número só no primeiro caso.
 
-`python -m rag.copias` grava `reports/redacoes-anteriores/`: `marcadas.jsonl` (com a prova de cada uma), `de-fora.jsonl` (com o motivo) e `resumo.json`. A 20/11: 536 cópias marcadas em 493 registos e 345 de fora; num índice de ensaio só com esses registos, 43.596 pedaços fechados. Falta medir nas 1.298 perguntas.
+`python -m rag.copias` grava `reports/redacoes-anteriores/`: `marcadas.jsonl` (com a prova de cada uma), `de-fora.jsonl` (com o motivo) e `resumo.json`. A 20/11: 536 cópias marcadas em 493 registos e 345 de fora; num índice de ensaio só com esses registos, 43.596 pedaços fechados.
+
+**Medido nas 1.298 perguntas como a aplicação 0.1.1 pesquisa** (`rag/resultados/app011-redacoes.json`, índice das 1h15 de 20/11, contra o `app011-final`, que é o mesmo sem a regra e sem a auditoria fechada): certas 619 → 629, artigo certo em 1.º 739 → 761, no top 10 1.038 → 1.036, «sem resposta» respondidas 5 → 5. Reais 115 → 120 certas (artigo em 1.º 140 → 150), premissa errada 23 → 29, literais 237 → 235. Pergunta a pergunta ganham-se 17 (7 reais, 6 de premissa errada, 2 literais, 2 coloquiais) e perdem-se 7. Quatro das perdas são literais cuja fonte esperada é a própria cópia antiga (um anexo de republicação): a resposta passa a ser o texto atual, que é o que se quer; as outras três ficam no ruído do reranker em lotes (o artigo em 3.º, ou a nota 2,98 contra o limiar 3). Este índice não se publica: o publicado leva também a correção da leitura (secção seguinte).
 
 ## O que o índice lê de um registo (20/11/2026)
 
