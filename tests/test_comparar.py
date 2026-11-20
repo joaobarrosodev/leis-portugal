@@ -68,3 +68,22 @@ def test_com_llm_so_se_sobe_o_limiar_e_os_juizes_decidem_as_certas(tmp_path):
     assert x["real"]["certas"] == 1 and x["real"]["certas_brando"] == 2 and x["real"]["erradas"] == 1
     assert list(x["limiares"]) == ["2"]  # abaixo do limiar da corrida não se sabe o que o LLM diria
     assert x["limiares"]["2"]["real"]["respondidas"] == 1 and x["limiares"]["2"]["real"]["certas"] == 0
+
+
+def test_por_tipo_o_total_nao_conta_as_sem_resposta(tmp_path):
+    _medicao(tmp_path, "base", [
+        _linha("real-1"),
+        _linha("lit-1", tipo="literal", posicao=3, certa=False),
+        _linha("sem-1", tipo="sem_resposta", posicao=None, responde=False, certa=True),
+    ])
+    _medicao(tmp_path, "nova", [
+        _linha("real-1", posicao=2, certa=False),
+        _linha("lit-1", tipo="literal"),
+        _linha("sem-1", tipo="sem_resposta", posicao=None, responde=True, certa=False, nota=3.2),
+    ])
+    r = comparar.comparar("base", ["nova"], [], resultados=tmp_path, todos_os_tipos=True)["variantes"]["nova"]["por_tipo"]
+    assert (r["real"]["ganhos"], r["real"]["perdas"]) == (0, 1) and (r["literal"]["ganhos"], r["literal"]["perdas"]) == (1, 0)
+    assert r["sem_resposta"]["base"]["respondidas"] == 0 and r["sem_resposta"]["variante"]["respondidas"] == 1
+    total = r["total"]
+    assert (total["base"]["n"], total["base"]["certas"], total["variante"]["certas"], total["ganhos"], total["perdas"]) == (3, 1, 1, 1, 1)
+    assert "| total | 3 | 1 → 1 |" in comparar.tabela_por_tipo("nova", r)

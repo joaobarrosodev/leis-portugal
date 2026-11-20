@@ -15,6 +15,9 @@ Lê os detalhes por pergunta de `rag/resultados/privado/<medição>-detalhe.json
   limiar decide sozinho se responde; com LLM só se pode subir o limiar da corrida (abaixo dele o LLM
   não viu a pergunta).
 
+Com `--por-tipo`, junta as contas de todos os tipos de pergunta (certas, respondidas, artigo certo em 1.º e nos 8
+primeiros, ganhos e perdas), para confirmar no conjunto inteiro o que se viu nas reais.
+
 Numa medição com LLM que tenha juízes (`<nome>-juizes.json`, do `rag.juiz importar`), «certas» são as
 que todos os juízes dão como corretas e fundamentadas, e `certas_brando` as do critério automático.
 """
@@ -118,7 +121,7 @@ def face_a_base(base: dict[str, dict], variante: dict[str, dict], tipo: str = "r
     return r
 
 
-def comparar(base: str, variantes: list[str], limiares: list[float], *, tipo: str = "real", resultados: Path = RESULTADOS) -> dict:
+def comparar(base: str, variantes: list[str], limiares: list[float], *, tipo: str = "real", resultados: Path = RESULTADOS, todos_os_tipos: bool = False) -> dict:
     conf_base, linhas_base = ler(base, resultados)
     saida = {"tipo": tipo, "base": {"nome": base, "configuracao": conf_base, **contas(linhas_base, tipo)}, "variantes": {}}
     for nome in variantes:
@@ -130,8 +133,40 @@ def comparar(base: str, variantes: list[str], limiares: list[float], *, tipo: st
                 continue  # abaixo do limiar da corrida o LLM não viu a pergunta
             outras = {i: com_limiar(x, limiar, com_llm) for i, x in linhas.items()}
             r["limiares"][f"{limiar:g}"] = {**contas(outras, tipo), "face_a_base": face_a_base(linhas_base, outras, tipo)}
+        if todos_os_tipos:
+            r["por_tipo"] = por_tipo(linhas_base, linhas)
         saida["variantes"][nome] = r
     return saida
+
+
+def por_tipo(base: dict[str, dict], variante: dict[str, dict]) -> dict:
+    """Por tipo de pergunta e no total: as contas da base e da variante e os ganhos e as perdas de certas.
+    Como no `rag.avaliar`, o total das certas não conta as «sem resposta» (aí, certa é não responder)."""
+    def contar(linhas: list[dict]) -> dict:
+        return {"n": len(linhas), "certas": sum(bool(x["certa"]) for x in linhas), "respondidas": sum(bool(x["responde"]) for x in linhas),
+                "artigo@1": _nos(linhas, 1), f"artigo@{CONTEXTO}": _nos(linhas, CONTEXTO)}
+
+    ids = [i for i in base if i in variante]
+    r = {}
+    for tipo in [*dict.fromkeys(base[i]["tipo"] for i in ids), "total"]:
+        do_tipo = [i for i in ids if tipo in (base[i]["tipo"], "total")]
+        contam = [i for i in do_tipo if tipo != "total" or base[i]["tipo"] != "sem_resposta"]
+        b, v = contar([base[i] for i in do_tipo]), contar([variante[i] for i in do_tipo])
+        if tipo == "total":
+            b["certas"], v["certas"] = (sum(bool(m[i]["certa"]) for i in contam) for m in (base, variante))
+        r[tipo] = {"base": b, "variante": v,
+                   "ganhos": sum(bool(variante[i]["certa"]) and not base[i]["certa"] for i in contam),
+                   "perdas": sum(bool(base[i]["certa"]) and not variante[i]["certa"] for i in contam)}
+    return r
+
+
+def tabela_por_tipo(nome: str, r: dict) -> str:
+    linhas = [f"| Tipo ({nome}) | n | Certas | Respondidas | Artigo em 1.º | Nos {CONTEXTO} primeiros | Ganhos / perdas |", "|---|--:|--:|--:|--:|--:|--:|"]
+    for tipo, x in r.items():
+        b, v = x["base"], x["variante"]
+        linhas.append(f"| {tipo} | {b['n']} | {b['certas']} → {v['certas']} | {b['respondidas']} → {v['respondidas']} | {b['artigo@1']} → {v['artigo@1']} | "
+                      f"{b[f'artigo@{CONTEXTO}']} → {v[f'artigo@{CONTEXTO}']} | {x['ganhos']} / {x['perdas']} |")
+    return "\n".join(linhas)
 
 
 def tabela(saida: dict) -> str:
@@ -162,11 +197,15 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--variantes", nargs="+", required=True)
     parser.add_argument("--limiares", default="", help="Outros limiares do reranker, separados por vírgulas.")
     parser.add_argument("--tipo", default="real")
+    parser.add_argument("--por-tipo", action="store_true", help="Junta as contas de todos os tipos de pergunta.")
     args = parser.parse_args(argv)
     limiares = [float(x) for x in args.limiares.split(",") if x]
-    saida = comparar(args.base, args.variantes, limiares, tipo=args.tipo)
+    saida = comparar(args.base, args.variantes, limiares, tipo=args.tipo, todos_os_tipos=args.por_tipo)
     (RESULTADOS / f"{args.nome}.json").write_text(json.dumps(saida, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(tabela(saida))
+    for nome, r in saida["variantes"].items():
+        if "por_tipo" in r:
+            print("\n" + tabela_por_tipo(nome, r["por_tipo"]))
     return 0
 
 

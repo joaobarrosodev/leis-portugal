@@ -1,0 +1,352 @@
+{
+ "tipo": "real",
+ "base": {
+  "nome": "app011-final",
+  "configuracao": {
+   "reranker": "cruzado",
+   "limiar": 3.0,
+   "llm": false,
+   "reescrita": false
+  },
+  "real": {
+   "n": 281,
+   "certas": 115,
+   "respondidas": 185,
+   "nao_sei": 96,
+   "erradas": 70,
+   "artigo@1": 140,
+   "artigo@8": 233
+  },
+  "sem_resposta": {
+   "n": 80,
+   "respondidas": 5
+  },
+  "premissa_errada": {
+   "n": 50,
+   "certas": 23,
+   "respondidas": 43,
+   "nao_sei": 7,
+   "erradas": 20,
+   "artigo@1": 26,
+   "artigo@8": 47
+  }
+ },
+ "variantes": {
+  "um-c-todas": {
+   "configuracao": {
+    "reranker": "cruzado",
+    "limiar": 3.0,
+    "llm": false,
+    "reescrita": false,
+    "reranker_com_perguntas": true,
+    "estavel": true
+   },
+   "real": {
+    "n": 281,
+    "certas": 149,
+    "respondidas": 211,
+    "nao_sei": 70,
+    "erradas": 62,
+    "artigo@1": 173,
+    "artigo@8": 245
+   },
+   "sem_resposta": {
+    "n": 80,
+    "respondidas": 7
+   },
+   "premissa_errada": {
+    "n": 50,
+    "certas": 29,
+    "respondidas": 45,
+    "nao_sei": 5,
+    "erradas": 16,
+    "artigo@1": 31,
+    "artigo@8": 47
+   },
+   "face_a_base": {
+    "em_1": {
+     "n": 140,
+     "certas_base": 115,
+     "certas": 113,
+     "ganhos": 14,
+     "perdas": 16,
+     "artigo@1": 125,
+     "artigo@8": 140
+    },
+    "de_2_a_8": {
+     "n": 93,
+     "certas_base": 0,
+     "certas": 35,
+     "ganhos": 35,
+     "perdas": 0,
+     "artigo@1": 41,
+     "artigo@8": 90
+    },
+    "fora_dos_8": {
+     "n": 48,
+     "certas_base": 0,
+     "certas": 1,
+     "ganhos": 1,
+     "perdas": 0,
+     "artigo@1": 7,
+     "artigo@8": 15
+    },
+    "total": {
+     "n": 281,
+     "certas_base": 115,
+     "certas": 149,
+     "ganhos": 50,
+     "perdas": 16,
+     "artigo@1": 173,
+     "artigo@8": 245
+    }
+   },
+   "limiares": {
+    "3.5": {
+     "real": {
+      "n": 281,
+      "certas": 145,
+      "respondidas": 196,
+      "nao_sei": 85,
+      "erradas": 51,
+      "artigo@1": 173,
+      "artigo@8": 245
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 5
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 28,
+      "respondidas": 44,
+      "nao_sei": 6,
+      "erradas": 16,
+      "artigo@1": 31,
+      "artigo@8": 47
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 110,
+       "ganhos": 13,
+       "perdas": 18,
+       "artigo@1": 125,
+       "artigo@8": 140
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 34,
+       "ganhos": 34,
+       "perdas": 0,
+       "artigo@1": 41,
+       "artigo@8": 90
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 1,
+       "ganhos": 1,
+       "perdas": 0,
+       "artigo@1": 7,
+       "artigo@8": 15
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 145,
+       "ganhos": 48,
+       "perdas": 18,
+       "artigo@1": 173,
+       "artigo@8": 245
+      }
+     }
+    }
+   },
+   "por_tipo": {
+    "literal": {
+     "base": {
+      "n": 250,
+      "certas": 237,
+      "respondidas": 249,
+      "artigo@1": 238,
+      "artigo@8": 249
+     },
+     "variante": {
+      "n": 250,
+      "certas": 240,
+      "respondidas": 250,
+      "artigo@1": 240,
+      "artigo@8": 249
+     },
+     "ganhos": 5,
+     "perdas": 2
+    },
+    "temporal": {
+     "base": {
+      "n": 102,
+      "certas": 94,
+      "respondidas": 97,
+      "artigo@1": 96,
+      "artigo@8": 102
+     },
+     "variante": {
+      "n": 102,
+      "certas": 92,
+      "respondidas": 95,
+      "artigo@1": 96,
+      "artigo@8": 102
+     },
+     "ganhos": 1,
+     "perdas": 3
+    },
+    "revogada": {
+     "base": {
+      "n": 55,
+      "certas": 55,
+      "respondidas": 55,
+      "artigo@1": 55,
+      "artigo@8": 55
+     },
+     "variante": {
+      "n": 55,
+      "certas": 55,
+      "respondidas": 55,
+      "artigo@1": 55,
+      "artigo@8": 55
+     },
+     "ganhos": 0,
+     "perdas": 0
+    },
+    "sem_resposta": {
+     "base": {
+      "n": 80,
+      "certas": 75,
+      "respondidas": 5,
+      "artigo@1": 0,
+      "artigo@8": 0
+     },
+     "variante": {
+      "n": 80,
+      "certas": 73,
+      "respondidas": 7,
+      "artigo@1": 0,
+      "artigo@8": 0
+     },
+     "ganhos": 0,
+     "perdas": 2
+    },
+    "texto_alterado": {
+     "base": {
+      "n": 99,
+      "certas": 72,
+      "respondidas": 94,
+      "artigo@1": 84,
+      "artigo@8": 94
+     },
+     "variante": {
+      "n": 99,
+      "certas": 73,
+      "respondidas": 95,
+      "artigo@1": 84,
+      "artigo@8": 94
+     },
+     "ganhos": 1,
+     "perdas": 0
+    },
+    "composta": {
+     "base": {
+      "n": 100,
+      "certas": 0,
+      "respondidas": 73,
+      "artigo@1": 0,
+      "artigo@8": 60
+     },
+     "variante": {
+      "n": 100,
+      "certas": 0,
+      "respondidas": 78,
+      "artigo@1": 0,
+      "artigo@8": 61
+     },
+     "ganhos": 0,
+     "perdas": 0
+    },
+    "premissa_errada": {
+     "base": {
+      "n": 50,
+      "certas": 23,
+      "respondidas": 43,
+      "artigo@1": 26,
+      "artigo@8": 47
+     },
+     "variante": {
+      "n": 50,
+      "certas": 29,
+      "respondidas": 45,
+      "artigo@1": 31,
+      "artigo@8": 47
+     },
+     "ganhos": 7,
+     "perdas": 1
+    },
+    "real": {
+     "base": {
+      "n": 281,
+      "certas": 115,
+      "respondidas": 185,
+      "artigo@1": 140,
+      "artigo@8": 233
+     },
+     "variante": {
+      "n": 281,
+      "certas": 149,
+      "respondidas": 211,
+      "artigo@1": 173,
+      "artigo@8": 245
+     },
+     "ganhos": 50,
+     "perdas": 16
+    },
+    "coloquial": {
+     "base": {
+      "n": 281,
+      "certas": 23,
+      "respondidas": 33,
+      "artigo@1": 100,
+      "artigo@8": 179
+     },
+     "variante": {
+      "n": 281,
+      "certas": 109,
+      "respondidas": 137,
+      "artigo@1": 160,
+      "artigo@8": 201
+     },
+     "ganhos": 88,
+     "perdas": 2
+    },
+    "total": {
+     "base": {
+      "n": 1298,
+      "certas": 619,
+      "respondidas": 834,
+      "artigo@1": 739,
+      "artigo@8": 1019
+     },
+     "variante": {
+      "n": 1298,
+      "certas": 747,
+      "respondidas": 973,
+      "artigo@1": 839,
+      "artigo@8": 1054
+     },
+     "ganhos": 152,
+     "perdas": 24
+    }
+   }
+  }
+ }
+}

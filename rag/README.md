@@ -921,6 +921,26 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 
 O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, a C tem as mesmas 5 «sem resposta» da A, mais 30 certas e menos 19 erradas. Com o LLM, subir o limiar tira muito mais respostas certas do que erradas (de 1 para 3: menos 39 certas, menos 2 não certas).
 
+**Confirmação da C nas 1.298 perguntas** (`um-c-todas`, com as mesmas consultas guardadas; `rag.comparar --por-tipo`, resumo em `rag/resultados/ultima-milha-todas.json`). As 411 perguntas repetidas deram exatamente o mesmo resultado, como se espera das notas estáveis.
+
+| Tipo | n | Certas (A → C) | Respondidas | Artigo em 1.º | Nos 8 primeiros | Ganhos / perdas |
+|---|--:|--:|--:|--:|--:|--:|
+| Reais | 281 | 115 → 149 | 185 → 211 | 140 → 173 | 233 → 245 | 50 / 16 |
+| Coloquiais | 281 | 23 → 109 | 33 → 137 | 100 → 160 | 179 → 201 | 88 / 2 |
+| Literais | 250 | 237 → 240 | 249 → 250 | 238 → 240 | 249 → 249 | 5 / 2 |
+| Temporais | 102 | 94 → 92 | 97 → 95 | 96 → 96 | 102 → 102 | 1 / 3 |
+| Revogadas | 55 | 55 → 55 | 55 → 55 | 55 → 55 | 55 → 55 | 0 / 0 |
+| Texto alterado | 99 | 72 → 73 | 94 → 95 | 84 → 84 | 94 → 94 | 1 / 0 |
+| Premissa errada | 50 | 23 → 29 | 43 → 45 | 26 → 31 | 47 → 47 | 7 / 1 |
+| Compostas (sem LLM não há certas) | 100 | 0 → 0 | 73 → 78 | — | 60 → 61 | — |
+| «Sem resposta» (respondidas por engano) | 80 | — | 5 → 7 | — | — | — |
+| **Total** | 1.298 | **619 → 747** | 834 → 973 | 739 → 839 | 1.019 → 1.054 | **152 / 24** |
+
+- **O ganho confirma-se:** mais 128 certas em 1.298, com 152 ganhos e 24 perdas. O ruído entre duas corridas em lotes é de cerca de 8 perguntas.
+- **Fora das reais e das coloquiais quase não mexe:** literais, temporais, revogadas e texto alterado somam 7 ganhos e 5 perdas em 506. As temporais perdem 2 no saldo (1 ganho, 3 perdas).
+- **As coloquiais sobem muito** (23 → 109), mas foram escritas por sessões do Claude, como as perguntas dos artigos: partilham vocabulário e o ganho nelas está inflacionado. O número mais seguro continua a ser o das reais.
+- **«Sem resposta»:** 7 respondidas em vez de 5. Com o limiar 3,5 voltam a ser 5, e as certas no total ficam em 726.
+
 **Custo em tempo.** Tempo de pesquisa por pergunta em 15 reais, com as três configurações alternadas pergunta a pergunta e a máquina carregada por outras medições (por isso só a relação entre elas conta): mediana de 19,6 s na A, 21,4 s na B (+9 %) e 23,6 s na C (+20 %). Com o CPU livre, a A leva 7 a 8 s («Próximos passos»), o que dá cerca de 1,5 s a mais por pergunta na C. O tempo do LLM não se mediu: as sessões não são a API. O prompt da D tem 11,8 mil caracteres em média.
 
 **Ressalvas:**
@@ -930,7 +950,7 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 - 136 das 281 reais serviram para afinar as regras da pesquisa. As perguntas por artigo foram escritas sem ver nenhuma pergunta de avaliação.
 
 **Conclusão:**
-1. **O reranker a ler as perguntas compensa, sem chave:** mais 34 certas em 281 (115 → 149), com 50 ganhos e 16 perdas, menos 8 erradas e mais 2 «sem resposta» respondidas, por cerca de 20 % mais tempo de pesquisa. O ganho está muito acima do ruído e é maior nas reais que nunca afinaram.
+1. **O reranker a ler as perguntas compensa, sem chave:** mais 34 certas em 281 (115 → 149), com 50 ganhos e 16 perdas, menos 8 erradas e mais 2 «sem resposta» respondidas, por cerca de 20 % mais tempo de pesquisa. O ganho está muito acima do ruído, é maior nas reais que nunca afinaram e confirma-se nas 1.298 perguntas (619 → 747 certas, 152 ganhos e 24 perdas), sem estragar os outros tipos.
 2. **As notas estáveis sozinhas não melhoram:** menos 7 certas (4 ganhos, 11 perdas). Valem porque tornam a medição repetível e as notas comparáveis com um limiar, não pelo número.
 3. **O LLM dá o maior salto:** 231 certas em 241 respondidas, e 85 das 93 perguntas com o artigo do 2.º ao 8.º lugar passam a certas. Depende de o utilizador ter chave.
 
