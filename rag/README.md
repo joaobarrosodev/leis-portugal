@@ -1086,3 +1086,58 @@ Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto 
 Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
+
+## Nomes de códigos, texto em vigor noutro registo e registos repetidos (20/11/2026)
+
+Três falhas de apresentação do inventário da camada 1 (`reports/inventario-camada-1.md`, linhas 2, 4 e 11 do resumo): o texto certo existe, mas a pesquisa não chegava lá ou servia outro ao lado.
+
+**Linha 2: o artigo de um diploma cujo texto em vigor está noutro registo (`rag/pesquisa.py`).** Desde a regra das redações anteriores, o índice já liga 68 das 71 obras em vigor da secção 2.1 (`texto_em_vigor_em` ou `redacao_atual_em`; o Código Penal → DL 48/95 e o IVA → DL 102/2008 incluídos). As 3 sem ligação são cópias que o `rag.copias` deixa de fora por falta de prova. Mas o texto antigo ficou fechado, e «artigo 131.º do Decreto-Lei n.º 400/82» deixou de chegar a qualquer lado: a referência só procurava no próprio registo. Agora, quando o diploma citado não tem esse artigo em vigor, a pesquisa segue a ligação (`_no_texto_em_vigor`):
+
+- o artigo antigo dá a epígrafe e a parte. Responde o artigo do mesmo número com a mesma epígrafe, ou com uma epígrafe retocada (semelhança ≥ 0,75: «Proibição temporária da circulação…» → «… temporária ou permanente…»);
+- se a numeração mudou, responde o único artigo com a mesma epígrafe (ou com uma ≥ 0,9), com o aviso «O artigo 98.º de Decreto-Lei n.º 442-A/88 é, no texto em vigor, o artigo 105.º». No IRS, o «Local de pagamento» passou de 98.º para 105.º;
+- se o artigo do mesmo número é outro (o 81.º do Código da Estrada de 1994 era «Avaria nas luzes» e hoje é o do álcool) e nenhum tem a epígrafe, não se troca;
+- sem artigo antigo (o Código Penal de 1982 e o IVA de 1984 estão em blocos), responde o do mesmo número, à frente o do anexo e com epígrafe;
+- se o original foi revogado (o CPI de 2003 → o de 2018), o aviso também o diz;
+- o BM25 dos diplomas citados também lê o registo com o texto em vigor.
+
+**Linha 4: nomes de códigos (`rag/referencias.py`, `rag/pesquisa.py`).**
+
+- `CODIGOS` tem os nomes que faltavam nos 39 centrais (Constituição, RCP, CEPMPL, RGIT, CPT, LTFP, IEC, ISV, IUC, Código Comercial, Registos Comercial, Predial e Civil, CVM, CPI, CDADC, Cooperativo, CIRE, CPTA, Expropriações, Publicidade, Notariado) e algumas formas curtas.
+- `SIGLAS` só valem em maiúsculas: CRP, CT, CPC, CPP, CPA, CSC, CCP, CPI, CVM, CRCom, CRPredial, CRCivil, CPT, RCP, CEPMPL. «CC» e «CP» ficam de fora (cartão de cidadão, código postal).
+- «Constituição» com maiúscula a meio da frase é a da República; «constituição de sociedade» não é.
+- `nome_normalizado` tira as consoantes mudas («infracções» = «infrações») e o «a que se refere o n.º 1 do artigo 1.º» no fim do nome de um anexo (o ISV e o IUC não resolviam).
+- `codigo` aceita o nome sem palavras de ligação («Código de Processo Penal» = «Código do Processo Penal», o sumário do DL 78/87).
+- A Constituição resolve-se pelo sumário do decreto que a aprova.
+- `Pesquisa.codigos_na_pergunta`: um «Código …» que o próprio índice tem (anexo ou «Aprova o Código…»), com 20 ou mais artigos em vigor e fora da `so_referencia`, conta como citado sem estar em `CODIGOS`.
+- Um código citado que o acervo não tem (o Código Comercial) vai para `diplomas_em_falta`.
+
+**Linha 11: registos repetidos do mesmo diploma (`rag/duplicados.py`, chamado pelo `rag.indice`).** Mesmo tipo, título com número e data. O texto tem de o confirmar: o mesmo sumário (ou um que começa pelo outro) ou o mesmo início do texto, e quase os mesmos números de artigo. No export de 20/11 são 7 pares: a Lei n.º 28/82 (consolidado e original), a Lei n.º 13/90, a Lei n.º 62/90, o DL 103-A/84, o DLR 1/84/A e as Portarias n.os 11/84 e 434/83. Ficam 122 de fora: 121 são diplomas diferentes com o mesmo número no DRE (o DL 129/86, a Lei n.º 27/81, portarias da 2.ª Série), e 1 é o DR 31/83, cujos dois registos dizem um que vigora e o outro que não. Para cada repetido, o índice grava:
+
+- `mesmo_diploma_em` para o principal (o consolidado; depois o de estado conhecido, com mais alterações e mais artigos). A pesquisa nova troca o repetido pelo principal quando a pergunta o cita;
+- `texto_em_vigor_em`, só se o principal é um consolidado em vigor (a Lei n.º 28/82);
+- o repetido na `so_referencia`.
+
+Nada se apaga. `python -m rag.duplicados` lista os pares e os de fora; `python -m rag.indice --sem-repetidos` desliga, para medir.
+
+**Verificado** sobre o índice publicado a 20/11 (2.582.317 pedaços), copiado para uma pasta temporária com as 8 relações e as 7 entradas da `so_referencia` que a construção nova grava. Mediu-se só com BM25 e referências, sem reranker nem LLM, com o código de `fd47829befb` (antes) e o de agora:
+
+| | Antes | Depois |
+|---|--:|--:|
+| 1.414 perguntas com fonte: artigo esperado em 1.º | 853 | 852 |
+| … nos 10 primeiros | 1.195 | 1.195 |
+| 39 nomes centrais: «artigo N.º do Código X» chega ao artigo | 17 | 36 |
+| … chega ao registo | 26 | 37 |
+| 211 sondas «artigo N.º do <diploma original>» (71 obras e a Lei n.º 28/82): chega ao artigo do texto em vigor | 5 | 202 |
+
+- **Pergunta a pergunta, nas 1.414:** nenhuma sobe e uma desce de 1.º para 2.º (`lit-215`). A pergunta cita «n.º 5 do artigo 30.º da LTFP» como contexto: agora a LTFP resolve-se, e só com BM25 a referência exata passa à frente do artigo 9.º da Lei n.º 112/2017. Com o reranker os dois concorrem (não medido).
+- **Chaves:** as chaves das perguntas, acertadas por `acertar_fontes` com o `data/` de hoje, estão no índice antes e depois, menos as mesmas 3 (`alt-007`, `alt-020`, `alt-051`).
+- **Nomes que faltam:** o Código Comercial (não está no acervo; sai «em falta»), o CPT (o nome do anexo vem colado ao primeiro título, «CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais»: é da leitura) e o Código do Registo Civil (resolve para o DL 47678, de 1967, que o DRE dá como em vigor, e não para o DL 131/95).
+- **Sondas que falham (9):** 4 do DL 59/2003, em que o próprio registo ainda tem esse artigo em vigor e responde (o que se quer); 3 da Lei n.º 13/91, que vão para o anexo da Lei n.º 130/99 e não para o articulado dela, com o mesmo estatuto e a mesma epígrafe; 2 «artigo 1.º» em que o diploma novo tem um artigo 1.º no articulado e outro no anexo.
+- **Construção:** um índice pequeno (417 registos: os centrais, as 71 obras e os pares) construído com o código de antes e com o de agora. Os pedaços são iguais, nenhum dos 198 centrais perde artigos, e só mudam as 8 relações e as 7 entradas da `so_referencia`.
+
+**A aplicação 0.1.1** (verificado com o código da etiqueta `app-v0.1.1` sobre a cópia com as linhas novas): a pesquisa corre e ignora `mesmo_diploma_em`.
+
+- Ganha a linha 11, que viaja no índice. «artigo 6.º da Lei n.º 28/82» deixa de dar o artigo duas vezes (o registo original sai, trocado pelo consolidado pela `texto_em_vigor_em`), e os 7 repetidos saem do BM25 em todo o acervo.
+- Não ganha as linhas 2 e 4, que estão no código da pesquisa e das referências.
+
+**Reconstruir:** `python -m rag.indice`, como sempre, sem opções novas (o `rag.duplicados` acrescenta uns 40 s no início). Os pedaços não mudam, por isso o `rag.jurisprudencia` não precisa de correr de novo por causa disto. A medição com reranker nas 1.298 fica para depois da reconstrução.
