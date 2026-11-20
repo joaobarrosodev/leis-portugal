@@ -1,7 +1,8 @@
 # Camada 1: falhas de dados fechadas a 20/11/2026
 
 Segue a tabela «Resumo» de `reports/inventario-camada-1.md`. As provas de cada número estão em
-`reports/camada-1-falhas-de-dados/`. O índice não foi reconstruído e o export é o de antes da recolha.
+`reports/camada-1-falhas-de-dados/`. O índice não foi reconstruído e o export é o de antes da recolha. O `data/`
+está limpo e com commit no main (`c1a6cbfbd23`): recolha em `8443c1dc0d5`, `structure` em `045e132a2b9`.
 
 ## Resumo
 
@@ -11,7 +12,7 @@ Segue a tabela «Resumo» de `reports/inventario-camada-1.md`. As provas de cada
 | 5 | Consolidados novos do DRE | 217 (32 prioritários) | 97 recolhidos (20 prioritários) | 120 (12 prioritários): o DRE lista-os como consolidados e não tem texto em nenhuma data |
 | 5 | Centrais conferidos contra o DRE | não conferidos | 156 conferidos, 154 com todos os artigos iguais | 2 com um artigo que a comparação não alinha (tabelas); os 42 centrais que não são consolidados do DRE não têm com que comparar |
 | 10 | Código Comercial | fora do acervo | entrou a Carta de Lei de 28/6/1888 que o aprova | O articulado do código: o DRE não o tem. Precisa de outra fonte, que é decisão do João |
-| 8 e 18 | Revogados por inteiro que o DRE dá como em vigor | 217 e 58 (tetos) | 9 verificados, com prova manual | 261: sem prova que chegue (ver abaixo). 5 dos 58 já tinham marca |
+| 8 e 18 | Revogados por inteiro que o DRE dá como em vigor | 217 e 58 (tetos) | 9 verificados e já `repealed` nos registos | 261: sem prova que chegue (ver abaixo). 5 dos 58 já tinham marca |
 | 3 | Vigência desconhecida | 2.449 prioritários | sem mudança: a regra está descrita e medida, **por aplicar** | À espera de decisão (ver «Linha 3») |
 
 ## Linha 5: consolidados do DRE
@@ -61,7 +62,7 @@ Segue a tabela «Resumo» de `reports/inventario-camada-1.md`. As provas de cada
   frase e todas as outras menções ao diploma no revogador.
 - **Verificados: 9**, todos `in_force` no DRE. Entraram em `reports/vigencia-manual.jsonl`, com a frase do revogador:
   DL 249/96, DL 288/98, DL 92/94, DL 69/94, DR 18/2004, DR 72/84, DL 354-A/80, DLR 14/89/A e DL 395/2007.
-  **O estado só muda nos registos quando se correr o `structure`**, que ainda não corri.
+  O `structure` aplicou-as: os nove registos estão `repealed`, com a prova em `legal_status_basis` (commit `045e132a2b9`).
 - **Ficam 261, com o motivo em `revogados-por-inteiro.jsonl`:**
   - 169: a frase de revogação tem ressalva, não está no revogador, ou há uma alteração posterior;
   - 66: o DRE não regista a revogação do diploma inteiro (só de partes, ou nenhuma). São 48 da linha 18, em que cada
@@ -116,9 +117,29 @@ anteriores a 2014; pode valer a pena deixá-los de fora numa primeira aplicaçã
 
 Listas: `vigencia-regra.jsonl` (os 2.427, com o motivo dos que ficam de fora) e `vigencia-amostra.jsonl` (os 150).
 
+## O `structure` depois da recolha (commit `045e132a2b9`)
+
+Corri o `structure` na pasta principal para aplicar as nove provas e dar entrada em vigor aos registos de hoje. Alterou
+**17.004 registos**, muito mais do que isso. Antes do commit vi porquê:
+
+- **Causa:** os editais e os regulamentos recolhidos a 13/11 (commits `c69a66827c4` e `ab3486874a0`) ainda não tinham
+  os campos que o `structure` escreve. No commit anterior, só 3.440 registos da 2.ª Série tinham `entry_into_force`;
+  o relatório de 16/11 já contava 20.204. Dos 17.004 alterados, 16.930 são da 2.ª Série (11.701 regulamentos e 4.878
+  editais) e 11.718 vêm do commit dos regulamentos.
+- **O que mudou:** 16.826 registos passam a ter `entry_into_force` (uns 10.300 com data; os outros só com a regra,
+  porque a data depende de um facto que o texto não dá). 364 mudam
+  de `legal_status`, todos com a prova em `legal_status_basis`:
+  - 9 `in_force` → `repealed`, pelas provas manuais acima;
+  - 351 `unknown` → `repealed`: 341 pela norma revogatória e 10 pela relação do DRE. 348 são da 2.ª Série;
+  - 4 `unknown` → `not_in_force`, pela cláusula de vigência.
+- **O que conferi:** o corpo de nenhum registo muda (31 registos dos Açores passam de fins de linha CRLF para LF); os
+  17.004 passam o esquema do projeto; numa amostra de 8 das 341 revogações pela norma revogatória, as 8 têm a frase
+  de revogação do diploma inteiro, com o número e a data.
+- **Na camada 1** entram os nove estados e a entrada em vigor dos registos de hoje. O resto é 2.ª Série.
+
 ## O que não fiz
 
-- Não corri `structure`, `export` nem `rag.indice`.
+- Não corri `export` nem `rag.indice`.
 - Não apliquei a regra da linha 3.
 - Não fiz a recolha completa dos consolidados do DRE.
 - Os relatórios de `reports/inventario-camada-1/` foram regenerados sobre o índice publicado (`indice-fase1.sqlite`) e
