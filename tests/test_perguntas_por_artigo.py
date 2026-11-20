@@ -33,6 +33,76 @@ def test_ambito_do_piloto_e_dos_outros_codigos():
     assert len({b.nome for b in pa.AMBITO}) == len(pa.AMBITO)
 
 
+UTENTE = "pt:dre:571943:por"  # Lei n.º 15/2014
+TAXAS = "pt:dre:146061:por"  # Decreto-Lei n.º 113/2011
+CUIDADOR = "pt:dre:124500714:por"  # Lei n.º 100/2019
+OCC = "pt:dre:70196966:por"  # Lei n.º 139/2015
+
+
+def test_ambito_dos_avulsos():
+    assert len(pa.AVULSOS) == 48
+    assert {b.arquivo for b in pa.AVULSOS} == {"avulsos-saude", "avulsos-seguranca-social", "avulsos-habitacao", "avulsos-consumo", "avulsos-familia"}
+    assert pa.bloco_de(UTENTE, "3.º").arquivo == "avulsos-saude"
+    assert pa.bloco_de(UTENTE, "3.º").nome == "lei-15-2014-utente-saude"
+    # Nos quatro com o regime num anexo, só o anexo: o articulado que o aprova fica de fora.
+    assert pa.bloco_de(CUIDADOR, "5.º") is None
+    assert pa.bloco_de(CUIDADOR, "Anexo — ESTATUTO DO CUIDADOR INFORMAL::5.º").nome == "lei-100-2019-cuidador-informal"
+    # Contabilistas: o Estatuto em vigor (Anexo I); a cópia de 2019 que se lia no Anexo II sai.
+    assert pa.bloco_de(OCC, "Anexo I — ESTATUTO DA ORDEM DOS CONTABILISTAS CERTIFICADOS::1.º").arquivo == "estatuto-ordem-contabilistas"
+    assert pa.bloco_de(OCC, "Anexo II — CÓDIGO DEONTOLÓGICO DOS CONTABILISTAS CERTIFICADOS::1.º") is None
+    # Os códigos continuam num ficheiro cada um.
+    assert all(b.arquivo == b.nome for b in pa.PILOTO + pa.OUTROS_CODIGOS)
+
+
+def test_ficheiros_de_perguntas_batem_com_o_ambito():
+    # Cada ficheiro de rag/perguntas_artigo/ é de um bloco do âmbito, cada linha do bloco desse ficheiro, e todas validam.
+    # Um ficheiro fora do âmbito (o «codigo-deontologico-contabilistas» de 19/11) ficava no `ler` e dava «em falta».
+    arquivos = {b.arquivo for b in pa.AMBITO}
+    for ficheiro in sorted(pa.PASTA.glob("*.jsonl")):
+        assert ficheiro.stem in arquivos, ficheiro.name
+        for linha in pa._ler_jsonl(ficheiro):
+            bloco = pa.bloco_de(linha["documento"], linha["chave"])
+            assert bloco is not None and bloco.arquivo == ficheiro.stem, (ficheiro.name, linha["chave"])
+            assert pa.validar(linha, {}) == [], (ficheiro.name, linha["chave"])
+
+
+@pytest.mark.parametrize(
+    "pergunta",
+    [
+        "O que diz o regime jurídico do processo de adoção?",
+        "A Lei de Defesa do Consumidor obriga a loja a trocar?",
+        "O Estatuto do Cuidador Informal dá-me folgas?",
+        "A lei de bases da saúde garante consulta?",
+    ],
+)
+def test_validar_recusa_nomes_dos_avulsos(pergunta):
+    assert any("cita" in p for p in pa.validar({**BOA, "perguntas": [*BOA["perguntas"][:2], pergunta]}, {"chave": "k"}))
+
+
+def test_importar_avulsos_de_varios_diplomas_num_so_ficheiro(tmp_path):
+    caminho = _construir(tmp_path / "avulsos.sqlite", {**A,
+        UTENTE: ("Lei n.º 15/2014", "Direitos e deveres do utente dos serviços de saúde", [
+            ("", "3.º", "Escolha", "O utente tem direito de escolher os serviços.", "2014-03-21", None),
+            ("", "4.º", "Consentimento", "O consentimento é livre e esclarecido.", "2014-03-21", None),
+        ], []),
+        TAXAS: ("Decreto-Lei n.º 113/2011", "Taxas moderadoras", [
+            ("", "4.º", "Isenção", "Estão isentos os utentes em situação de insuficiência económica.", "2011-11-29", None),
+        ], []),
+        CUIDADOR: ("Lei n.º 100/2019", "Estatuto do Cuidador Informal", [
+            ("", "1.º", "Objeto", "A presente lei aprova o Estatuto.", "2019-09-06", None),
+        ], []),
+    })
+    lotes, destino = tmp_path / "lotes", tmp_path / "perguntas"
+    destino.mkdir()
+    _gravar(destino / "avulsos-saude.jsonl", [{"documento": UTENTE, "chave": "3.º", "perguntas": ["Posso escolher o hospital?"]}])
+    assert pa.exportar(caminho, lotes, 10, so_sem_perguntas=True, destino=destino) == 2  # o 3.º já tem; o articulado da Lei 100/2019 não entra
+    _gravar(lotes / "saida-01.jsonl", [_linha("4.º", UTENTE), _linha("4.º", TAXAS)])
+    r = pa.importar(lotes, destino, gerado="2026-11-20")
+    assert (r["importados"], r["em_falta"]) == (2, [])
+    assert sorted(p.name for p in destino.iterdir()) == ["avulsos-saude.jsonl"]
+    assert [(x["documento"], x["chave"]) for x in pa._ler_jsonl(destino / "avulsos-saude.jsonl")] == [(UTENTE, "3.º"), (UTENTE, "4.º"), (TAXAS, "4.º")]
+
+
 def test_ambito_sem_blocos_repetidos():
     # Cada (documento, parte) num só bloco, menos o Código Civil, partido por intervalo de artigos.
     partes = [(b.documento, b.parte) for b in pa.AMBITO]

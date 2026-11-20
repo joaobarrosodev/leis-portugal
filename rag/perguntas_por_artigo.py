@@ -5,7 +5,8 @@ recebe as palavras do dia a dia. Aqui, sessões do Claude escrevem para cada art
 como as faria uma pessoa sem formação jurídica (regras em `rag/perguntas_artigo/REGRAS.md`), e
 `rag.indice.juntar_perguntas` junta-as aos termos do artigo em vigor. O piloto cobriu o Código do
 Trabalho e o arrendamento (`PILOTO`); desde 19/11 o âmbito tem também os outros códigos principais
-(`OUTROS_CODIGOS`). A medição está em `rag/README.md`, «Perguntas por artigo».
+(`OUTROS_CODIGOS`) e, desde 20/11, a 1.ª leva de diplomas avulsos (`AVULSOS`). A medição está em `rag/README.md`,
+«Perguntas por artigo».
 
     PYTHONPATH=src python -m rag.perguntas_por_artigo exportar --indice I --pasta P   # lotes para as sessões
     PYTHONPATH=src python -m rag.perguntas_por_artigo estado --pasta P                # lotes validados e por fazer
@@ -41,6 +42,11 @@ class Bloco:
     parte: str
     de: int | None = None  # intervalo dos números dos artigos, inclusive
     ate: int | None = None
+    ficheiro: str | None = None  # vários blocos no mesmo ficheiro (os avulsos, um por tema); por omissão, `nome`
+
+    @property
+    def arquivo(self) -> str:
+        return self.ficheiro or self.nome
 
 
 # O piloto (16/11): o Código do Trabalho, o arrendamento do Código Civil e o NRAU.
@@ -104,10 +110,86 @@ OUTROS_CODIGOS = (
     Bloco("codigo-propriedade-industrial", "pt:dre:117279933:por", "Anexo — Código da Propriedade Industrial"),
     Bloco("codigo-direito-autor", "pt:dre:326921:por", "Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS"),
     Bloco("codigo-publicidade", "pt:dre:565417:por", "Anexo — Código da Publicidade"),
-    Bloco("codigo-deontologico-contabilistas", "pt:dre:70196966:por", "Anexo II — CÓDIGO DEONTOLÓGICO DOS CONTABILISTAS CERTIFICADOS"),
+    # Até 19/11 era o «Anexo II — CÓDIGO DEONTOLÓGICO…», mas o texto lido nessa parte era o do Estatuto de 2019
+    # (127 artigos). Na leitura de 20/11 (fase 1) essa cópia fica com fim de vigência em 2023-12-07 e o Estatuto em
+    # vigor está no Anexo I. O Código Deontológico propriamente dito não tem artigos em vigor no índice.
+    Bloco("estatuto-ordem-contabilistas", "pt:dre:70196966:por", "Anexo I — ESTATUTO DA ORDEM DOS CONTABILISTAS CERTIFICADOS"),
 )
 
-AMBITO = PILOTO + OUTROS_CODIGOS
+# A 1.ª leva de diplomas avulsos (20/11), da lista de `reports/perguntas-por-artigo-avulsos-proposta.md`: os regimes
+# de base de saúde, segurança social, arrendamento e habitação, consumo e família. Só o articulado (parte ""), menos
+# nos quatro em que o regime está num anexo. Um ficheiro por tema.
+def _avulsos(ficheiro: str, *blocos: tuple[str, str, str]) -> tuple[Bloco, ...]:
+    return tuple(Bloco(nome, documento, parte, ficheiro=ficheiro) for nome, documento, parte in blocos)
+
+
+AVULSOS = (
+    *_avulsos(
+        "avulsos-saude",
+        ("lei-15-2014-utente-saude", "pt:dre:571943:por", ""),
+        ("dl-113-2011-taxas-moderadoras", "pt:dre:146061:por", ""),
+        ("portaria-142-b-2012-transporte-doentes", "pt:dre:572591:por", ""),
+        ("lei-25-2012-testamento-vital", "pt:dre:179517:por", ""),
+        ("dl-202-96-incapacidade", "pt:dre:226809:por", ""),
+        ("lei-100-2019-cuidador-informal", "pt:dre:124500714:por", "Anexo — ESTATUTO DO CUIDADOR INFORMAL"),
+        ("dr-1-2022-cuidador-informal", "pt:dre:177363476:por", ""),
+        ("lei-31-2018-fim-de-vida", "pt:dre:115712240:por", ""),
+        ("lei-16-2007-ivg", "pt:dre:519464:por", ""),
+        ("portaria-153-2017-tempos-resposta", "pt:dre:106970981:por", ""),
+    ),
+    *_avulsos(
+        "avulsos-seguranca-social",
+        ("dl-187-2007-pensoes", "pt:dre:520669:por", ""),
+        ("dl-220-2006-desemprego", "pt:dre:546202:por", ""),
+        ("dl-176-2003-abono-familia", "pt:dre:652702:por", ""),
+        ("dl-91-2009-parentalidade", "pt:dre:603961:por", ""),
+        ("dl-126-a-2017-psi", "pt:dre:108269605:por", ""),
+        ("dl-28-2004-doenca", "pt:dre:592342:por", ""),
+        ("dl-322-90-morte", "pt:dre:565458:por", ""),
+        ("dl-232-2005-csi", "pt:dre:469064:por", ""),
+        ("dl-70-2010-condicao-recursos", "pt:dre:335683:por", ""),
+    ),
+    *_avulsos(
+        "avulsos-habitacao",
+        ("dl-74-a-2017-credito-habitacao", "pt:dre:107561581:por", ""),
+        ("lei-81-2014-arrendamento-apoiado", "pt:dre:65949853:por", ""),
+        ("dl-157-2006-obras-arrendados", "pt:dre:538614:por", ""),
+        ("dl-1-2013-balcao-arrendamento", "pt:dre:588827:por", ""),
+        ("dl-268-94-condominio", "pt:dre:624624:por", ""),
+        ("dl-160-2006-contrato-arrendamento", "pt:dre:538613:por", ""),
+    ),
+    *_avulsos(
+        "avulsos-consumo",
+        ("dl-84-2021-garantias", "pt:dre:172938301:por", ""),
+        ("dl-17-2018-viagens", "pt:dre:114832293:por", ""),
+        ("dl-446-85-clausulas-gerais", "pt:dre:177869:por", ""),
+        ("dl-133-2009-credito-consumo", "pt:dre:494264:por", ""),
+        ("dl-24-2014-contratos-distancia", "pt:dre:572450:por", ""),
+        ("lei-144-2015-litigios-consumo", "pt:dre:70215248:por", ""),
+        ("dl-57-2008-praticas-desleais", "pt:dre:246504:por", ""),
+        ("lei-24-96-consumidor", "pt:dre:406882:por", ""),
+        ("dl-156-2005-livro-reclamacoes", "pt:dre:143320:por", ""),
+        ("dl-70-2007-saldos", "pt:dre:520472:por", ""),
+        ("lei-23-96-servicos-essenciais", "pt:dre:408366:por", ""),
+        ("dl-138-90-precos", "pt:dre:332222:por", ""),
+        ("dl-383-89-produtor", "pt:dre:550177:por", ""),
+    ),
+    *_avulsos(
+        "avulsos-familia",
+        ("lei-147-99-criancas-perigo", "pt:dre:581619:por", "Anexo — Lei de protecção de crianças e jovens em perigo"),
+        ("lei-143-2015-adocao", "pt:dre:70215247:por", "Anexo — Regime Jurídico do Processo de Adoção"),
+        ("lei-112-2009-violencia-domestica", "pt:dre:490247:por", ""),
+        ("lei-141-2015-tutelar-civel", "pt:dre:70215245:por", "Anexo — (a que se refere o artigo 2.º)"),
+        ("lei-103-2009-apadrinhamento", "pt:dre:489737:por", ""),
+        ("dl-272-2001-conservatorias", "pt:dre:621556:por", ""),
+        ("lei-7-2001-uniao-facto", "pt:dre:314194:por", ""),
+        ("dl-164-99-fundo-alimentos", "pt:dre:321716:por", ""),
+        ("lei-75-98-alimentos-menores", "pt:dre:230700:por", ""),
+        ("lei-6-2001-economia-comum", "pt:dre:314191:por", ""),
+    ),
+)
+
+AMBITO = PILOTO + OUTROS_CODIGOS + AVULSOS
 
 _NUMERO = re.compile(r"(\d+)")
 
@@ -197,10 +279,16 @@ _CODIGOS = (
     r"execu[çc][ãa]o|justi[çc]a|regimes?|contratos|expropria[çc][õo]es|sociedades|insolv[êe]ncia|valores|registo|notariado|"
     r"propriedade|direito|publicidade)"
 )
+# Os nomes dos diplomas avulsos (20/11). «A portaria» sozinha passa (32 perguntas dos códigos usam-na); o nome de um
+# regime, de uma lei de bases ou de um estatuto do utente ou do cuidador, não.
+_AVULSOS_NOMES = (
+    r"\bregime jur[íi]dico\b|\blei de bases\b|\bestatuto (?:do|dos) (?:cuidador|utente)|"
+    r"\blei (?:de|da|do) (?:defesa do consumidor|prote[cç][ãa]o de crian[çc]as|uni[ãa]o de facto|economia comum)"
+)
 _SIGLAS = r"cirs|circ|civa|cimi|cimt|cis|ciuc|cisv|ciec|cpc|cpp|cpa|cpta|cppt|lgt|ltfp|csc|cire|ccp|cvm|cpi|cdadc|crp|crc|crpredial|cnot"
 _PROIBIDO = re.compile(
     r"\d+\.º|\bartigos?\b|\bart\.|n\.º|\bal[ií]nea|\bc[óo]digo\s+(?:" + _CODIGOS + r")|\bnrau\b|\blei n\.?º|\blei geral (?:tribut|do trabalho em fun)|"
-    r"decreto-lei|\bdecreto\b|\bdl\b|\b(?:" + _SIGLAS + r")\b",
+    r"decreto-lei|\bdecreto\b|\bdl\b|\b(?:" + _SIGLAS + r")\b|" + _AVULSOS_NOMES,
     re.I,
 )
 
@@ -255,17 +343,17 @@ def importar(pasta: Path, destino: Path = PASTA, *, modelo: str = "claude-opus-5
                            "perguntas": [p.strip() for p in linha["perguntas"]], "gerado": gerado, "modelo": modelo}
     destino.mkdir(parents=True, exist_ok=True)
     ordem = {k: i for i, k in enumerate(entradas)}
-    por_bloco: dict[str, list[dict]] = defaultdict(list)
+    por_arquivo: dict[str, list[dict]] = defaultdict(list)
     for chave in sorted(boas, key=ordem.__getitem__):
-        por_bloco[bloco_de(*chave).nome].append(boas[chave])
-    nesta_pasta = {bloco_de(*k).nome for k in entradas if bloco_de(*k)}
-    for b in AMBITO:
-        if b.nome not in nesta_pasta:
+        por_arquivo[bloco_de(*chave).arquivo].append(boas[chave])
+    nesta_pasta = {bloco_de(*k).arquivo for k in entradas if bloco_de(*k)}
+    for arquivo in dict.fromkeys(b.arquivo for b in AMBITO):
+        if arquivo not in nesta_pasta:
             continue
-        ficheiro = destino / f"{b.nome}.jsonl"
+        ficheiro = destino / f"{arquivo}.jsonl"
         antes = [x for x in _ler_jsonl(ficheiro) if (x["documento"], x["chave"]) not in entradas] if ficheiro.exists() else []
         with ficheiro.open("w", encoding="utf-8") as f:
-            for linha in antes + por_bloco.get(b.nome, []):
+            for linha in antes + por_arquivo.get(arquivo, []):
                 f.write(json.dumps(linha, ensure_ascii=False) + "\n")
     em_falta = [k for k in entradas if k not in boas]
     return {"artigos": len(entradas), "importados": len(boas), "perguntas": sum(len(x["perguntas"]) for x in boas.values()),
