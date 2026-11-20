@@ -40,10 +40,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-07-01'
+version_history:
+  file: decreto-lei-32-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: pt:dre:233745:por
+    amending_title: Decreto-Lei n.º 107/2005; Lei n.º 3/2010; Decreto-Lei n.º 62/2013
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 4.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre/pt/html
@@ -69,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:41:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/2005; Lei n.º
+    3/2010; Decreto-Lei n.º 62/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-32-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,61 +243,35 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [2000/35/CE](https://data.europa.eu/eli/dir/2000/35/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Junho, a qual estabelece medidas de luta contra os atrasos de pagamento nas transacções comerciais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-1 - O presente diploma aplica-se a todos os pagamentos efectuados como remunerações de transacções comerciais.
+(Revogado.)
 
-2 - São excluídos da sua aplicação:
-
-a) Os contratos celebrados com consumidores;
-
-b) Os juros relativos a outros pagamentos que não os efectuados para remunerar transacções comerciais;
-
-c) Os pagamentos efectuados a título de indemnização por responsabilidade civil, incluindo os efectuados por companhias de seguros.
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 3.º — Definições
 
-Para efeitos do presente diploma, entende-se por:
+(Revogado.)
 
-a) «Transacção comercial» qualquer transacção entre empresas ou entre empresas e entidades públicas, qualquer que seja a respectiva natureza, forma ou designação, que dê origem ao fornecimento de mercadorias ou à prestação de serviços contra uma remuneração;
-
-b) «Empresa» qualquer organização que desenvolva uma actividade económica ou profissional autónoma, mesmo que exercida por pessoa singular;
-
-c) «Taxa de juro da principal facilidade de refinanciamento do Banco Central Europeu» a taxa de juro aplicável a estas operações no caso de leilões a taxa fixa. Quando uma operação principal de refinanciamento for efectuada segundo o processo de leilão a taxa variável, a taxa de juro reporta-se à taxa de juro marginal resultante do leilão em causa.
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 4.º — Juros e indemnização
 
-1 - Os juros aplicáveis aos atrasos de pagamento das transacções previstas no presente diploma são os estabelecidos no Código Comercial.
+(Revogado.)
 
-2 - Sempre que do contrato não conste a data ou o prazo de pagamento, são devidos juros, os quais se vencem automaticamente, sem necessidade de novo aviso:
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), publicado em 2010-04-27.
 
-a) 30 dias após a data em que o devedor tiver recebido a factura ou documento equivalente;
-
-b) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando a data de recepção da factura ou de documento equivalente seja incerta;
-
-c) 30 dias após a data de recepção efectiva dos bens ou da prestação dos serviços quando o devedor receba a factura ou documento equivalente antes do fornecimento dos bens ou da prestação dos serviços;
-
-d) 30 dias após a data de aceitação quando esteja previsto um processo mediante o qual deva ser determinada a conformidade dos bens ou serviços e o devedor receba a factura ou documento equivalente antes dessa aceitação.
-
-3 - O credor pode provar que a mora lhe causou dano superior aos juros referidos no n.º 1 e exigir a indemnização suplementar correspondente.
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 5.º — Cláusulas nulas
 
-1 - Nas transacções comerciais previstas no presente diploma são nulas as cláusulas contratuais que, sem motivo atendível e justificado face às circunstâncias concretas:
+(Revogado.)
 
-a) Estabeleçam prazos excessivos para o pagamento;
-
-b) Excluam ou limitem, de modo directo ou indirecto, a responsabilidade pela mora.
-
-2 - Nos casos previstos no número anterior, os contratos mantêm-se, vigorando na parte afectada as normas supletivas aplicáveis, com recurso, se necessário, às regras de integração dos negócios jurídicos.
-
-3 - Quando a nulidade afecte a cláusula que prevê o prazo de pagamento, aplicam-se os prazos previstos no n.º 2 do artigo anterior, salvo se o juiz, atendendo às circunstâncias do caso, estabelecer prazo diverso.
-
-4 - A invocação da nulidade pode ser feita judicial ou extrajudicialmente, devendo, neste caso, ser efectuada por escrito, com a devida fundamentação.
-
-5 - As cláusulas nulas referidas neste artigo, sendo cláusulas contratuais gerais, podem ser objecto da acção inibitória prevista no Decreto-Lei n.º 446/85, de 25 de Outubro, o qual estabelece o regime das cláusulas contratuais gerais, aplicando-se os respectivos artigos 25.º a 34.º, com as necessárias adaptações.
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 6.º — Alteração ao Código Comercial
 
@@ -293,11 +291,13 @@ Há lugar ao decurso e contagem de juros em todos os actos comerciais em que for
 
 § 4.º A taxa de juro referida no parágrafo anterior não poderá ser inferior ao valor da taxa de juro aplicada pelo Banco Central Europeu à sua mais recente operação principal de refinanciamento efectuada antes do 1.º dia de Janeiro ou Julho, consoante se esteja, respectivamente, no 1.º ou no 2.º semestre do ano civil, acrescida de 7 pontos percentuais.»
 
-###### Artigo 7.º — Aplicação do regime da injunção
+###### Artigo 7.º — Procedimentos especiais
 
-1 - O atraso de pagamento em transacções comerciais, nos termos previstos no presente diploma, confere ao credor o direito a recorrer à injunção, independentemente do valor da dívida.
+(Revogado.)
 
-2 - Para valores superiores à alçada do tribunal de 1.ª instância, a dedução de oposição no processo de injunção determina a remessa dos autos para o tribunal competente, aplicando-se a forma de processo comum.
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), publicado em 2005-07-01.
+
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 8.º — Alteração ao Decreto-Lei n.º 269/98, de 1 de Setembro
 
@@ -407,13 +407,15 @@ d) 2 UC, quando o procedimento tenha valor igual ou superior à alçada do tribu
 
 ###### Artigo 9.º — Aplicação no tempo
 
-O presente diploma aplica-se às prestações de contratos de execução continuada ou reiterada que se vençam a partir da data da sua entrada em vigor.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 ###### Artigo 10.º — Disposições finais
 
-1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.
+(Revogado.)
 
-2 - Os artigos 7.º e 8.º do presente diploma entram em vigor no 30.º dia posterior à sua publicação.
+> Revogado pelo/a [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), publicado em 2013-05-10.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - Carlos Manuel Tavares da Silva.
 

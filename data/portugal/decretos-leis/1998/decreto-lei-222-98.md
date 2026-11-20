@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-31'
+version_history:
+  file: decreto-lei-222-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-31'
+    amending: pt:dre:353346:por
+    amending_title: Lei n.º 98/99
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/222/1998/07/17/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:58:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 98/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-222-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -275,19 +292,27 @@ c) Continuidade de estradas regionais nas mesmas condições de circulação e s
 
 3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.
 
-4 - Enquanto se mantiverem sob responsabilidade da administração central, as estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.
+4 - As estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.
 
 5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições.
+
+> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26.
 
 ###### Artigo 13.º — Redes municipais
 
 1 - As estradas não incluídas no plano rodoviário nacional integrarão as redes municipais, mediante protocolos a celebrar entre a Junta Autónoma de Estradas e as câmaras municipais e após intervenções de conservação que as reponham em bom estado de utilização ou, em alternativa, mediante acordo equitativo com a respectiva autarquia.
 
-2 - As estradas classificadas para integração nas redes municipais, até à recepção pelas respectivas autarquias, ficarão sob tutela da Junta Autónoma de Estradas, que, entretanto, lhes assegurará padrões mínimos de conservação.
+2 - Poderão ainda ser integradas nas redes municipais, nas mesmas condições das estradas referidas no número anterior e mediante despacho do ministro da tutela do sector rodoviário, as estradas regionais (ER).
 
-###### Artigo 14.º — Regime das estradas regionais e municipais
+3 - As estradas classificadas para integração nas redes municipais, até à recepção pelas respectivas autarquias, ficarão sob tutela da Junta Autónoma de Estradas, que, entretanto, lhes assegurará padrões mínimos de conservação.
 
-Para além do previsto no presente diploma e no Estatuto das Estradas da Rede Nacional, as estradas regionais e municipais serão reguladas por diplomas próprios.
+> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26.
+
+###### Artigo 14.º — Regime das estradas municipais
+
+Para além do previsto no presente diploma e no Estatuto das Estradas da Rede Nacional, as estradas municipais serão regulamentadas por diploma próprio.
+
+> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26.
 
 ###### Artigo 15.º — Norma revogatória
 

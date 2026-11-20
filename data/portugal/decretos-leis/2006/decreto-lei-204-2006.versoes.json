@@ -1,0 +1,817 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545648:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2e520ecd13f26736",
+    "4064eb938373489a",
+    "f5e1740f0143ce00",
+    "8af1de6c3f641763",
+    "f21c8d266df155df",
+    "193e932ab95b0383",
+    "a6bdf6cdd00499c5",
+    "ad968d8e20a0637b",
+    "b29e04144916c529",
+    "a78c75a62745b909",
+    "e1d581de6547898a",
+    "4ba1b07bbbcbeec0",
+    "915663c275215b18",
+    "245cbf53e4ee1a0f",
+    "cd2904129873462c",
+    "21150b0851268437",
+    "403ff56c03736b10",
+    "fc582b67fa7631ff",
+    "a6e13f04e7e551ee",
+    "c46703c5884cf359",
+    "5004af3418bea057",
+    "0260aa7eb83ba502",
+    "7b77cb3aedf5baa1",
+    "188ae0aa3db975b8",
+    "fd9fc9b40f9200ac",
+    "501cf10f84182be8",
+    "3e3c3ded8d9783e3",
+    "39b1e0e66ac1753a",
+    "82637fb7aaedc4c3",
+    "a1f9762a7c936ffa",
+    "a2a846de9d6000fd",
+    "9b6a62c06bb23867",
+    "d5a690d07703769e",
+    "d1d808137d49f3c2",
+    "de73b14241499cd9",
+    "3e90dffd7dd1e2f0",
+    "c568aead9d525f1d",
+    "c44671589e6d767c",
+    "15f5055390e32156",
+    "b42a18dfc9e95915",
+    "ca1fee70f476d55e",
+    "df7abc303ae2ff3b",
+    "0e0a9323cfd98070"
+   ]
+  },
+  {
+   "date": "2012-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145192:por",
+     "title": "Decreto-Lei n.º 121/2011",
+     "published": "2011-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/121-2011-145192"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Altera Artigo ANEXO I — Cargos de direcção superior da administração directa",
+    "Altera Artigo ANEXO II — Dirigentes de organismos da administração indirecta"
+   ],
+   "fragments": [
+    "2e520ecd13f26736",
+    "4064eb938373489a",
+    "b875877bff4ff4ef",
+    "bc91a38ec21e32fd",
+    "f21c8d266df155df",
+    "4b3723c303508efe",
+    "cc71c2558b0e2969",
+    "220da54cdec9185b",
+    "8b6dfb4ce21910d4",
+    "80c98d5a0fd81e7d",
+    "5d02b17b3940d94f",
+    "4ba1b07bbbcbeec0",
+    "915663c275215b18",
+    "85a5e9b3584190e2",
+    "c8d293b20761d4fa",
+    "36ceb6ca99bf45a8",
+    "79283cc113289c57",
+    "2fa52efca1aa6dfa",
+    "b9c09d611ac70ed3",
+    "8d4040f27bc54b56",
+    "5004af3418bea057",
+    "dfd68c0215b094b3",
+    "37e384dff9924e1b",
+    "bcbe36b70371669c",
+    "fd9fc9b40f9200ac",
+    "dadd45b80fa4d5c6",
+    "3e3c3ded8d9783e3",
+    "2fb898c39871f8ee",
+    "1cf16e375bc8350d",
+    "a1f9762a7c936ffa",
+    "e1827c205506d0d0",
+    "300fc63e00a5e198",
+    "d5a690d07703769e",
+    "d1d808137d49f3c2",
+    "41270894f7f5a81f",
+    "3e897aea87f7889f",
+    "2c3c34cbf6fd8c6d",
+    "fe8cca2fa67f9376",
+    "f2692611301f3e40",
+    "25b6bf19f878b35c",
+    "89d8bae97de4b215",
+    "171ee8a445246674",
+    "28850191b9bb2602"
+   ]
+  }
+ ],
+ "fragments": {
+  "2e520ecd13f26736": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro\n\nO Programa de Governo consagra a modernização da Administração Pública como um dos instrumentos essenciais da estratégia de desenvolvimento do País. Com esse objectivo, no domínio da reorganização estrutural da Administração, o Governo aprovou, através da [Resolução do Conselho de Ministros n.º 124/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2005-240610), de 4 de Agosto, o Programa de Reestruturação da Administração Central do Estado, abreviadamente designado por PRACE, tendo como objectivo a promoção da cidadania, do desenvolvimento económico e da qualidade dos serviços públicos, com ganhos de eficiência pela simplificação, racionalização e automatização, que permitam a diminuição do número de serviços e dos recursos a eles afectos.\n\nNa sequência da aprovação do PRACE, a [Resolução do Conselho de Ministros n.º 39/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2006-649909), de 30 de Março, veio definir as orientações, gerais e especiais, para a reestruturação dos ministérios.\n\nAs orientações gerais definidas, relativas quer à reorganização dos serviços centrais dos Ministérios para o exercício de funções de apoio à governação, de gestão de recursos, de natureza consultiva e coordenação interministerial e de natureza operacional, quer à reorganização dos serviços desconcentrados de nível regional, sub-regional e local e à descentralização de funções, determinam, desde logo, a introdução de um novo modelo organizacional que tem por base a racionalização de estruturas, o reforço e a homogeneização das funções estratégicas de suporte à governação, a aproximação da Administração Central dos cidadãos e a devolução de poderes para o nível local ou regional.\n\nNessa esteira, as orientações especiais definidas reflectem não só a prossecução dos objectivos em que assenta o PRACE, como concretizam os objectivos estabelecidos no Programa de Governo para o movimento de modernização administrativa, preconizando a melhoria da qualidade dos serviços públicos, nos termos acima referidos.\n\nA actual Lei Orgânica do Ministério dos Negócios Estrangeiros foi aprovada pelo [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471) de 24 de Fevereiro, contando portanto doze anos, durante os quais muito se alteraram as relações internacionais, as responsabilidades de Portugal no mundo, bem como os objectivos e formas de prossecução da nossa política externa.\n\nPara além da necessidade de adaptar a referida legislação às novas realidades internacionais, a prática tem vindo igualmente a revelar alguns desajustamentos na actual lei orgânica, de que se salientam, a frequente duplicação de funções de suporte por diversos organismos, por contraposição a uma gestão centralizada dos recursos que permitiria maior coerência e economia: a crescente sobreposição das atribuições na área da política externa verificada entre diversas unidades orgânicas, cujos limites de competência cumpre clarificar; a incapacidade de responder de modo flexível aos novos desafios da integração europeia, da globalização e do terrorismo, entre outros, que acabou por redundar no surgimento de práticas e hierarquias informais situadas aquém da estrutura orgânica vigente; a desconformidade do actual organograma com os objectivos principais da política externa portuguesa, designadamente em sede de diplomacia económica.\n\nComo tal, mantendo-se as atribuições e competências tradicionais do Ministério dos Negócios Estrangeiros que historicamente o singularizam no conjunto dos departamentos governamentais portugueses, as principais alterações introduzidas pelo presente diploma são as seguintes:\n\n- Centralização das funções comuns de carácter logístico na secretaria-geral do Ministério, de acordo com os princípios previstos na [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, sem diminuição das relevantes funções que vem desempenhando tradicionalmente;\n\n- Criação de uma nova direcção-geral dedicada aos assuntos técnicos, científicos e económicos internacionais;\n\n- Diminuição de estruturas directamente dependentes do Ministro;\n\n- Racionalização de estruturas dedicadas à definição, coordenação e execução das diversas vertentes da política externa portuguesa, para maior aproveitamento das sinergias existentes.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nLEI ORGÂNICA DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS"
+  },
+  "4064eb938373489a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Missão e atribuições"
+  },
+  "f5e1740f0143ce00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Ministério dos Negócios Estrangeiros, abreviadamente designado por MNE, é o departamento governamental que tem por missão formular, coordenar e executar a política externa de Portugal."
+  },
+  "8af1de6c3f641763": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições do MNE:\n\na) Preparar e executar a política externa portuguesa, bem como coordenar as intervenções, em matéria de relações internacionais, de outros departamentos, serviços e organismos da administração pública;\n\nb) Defender e promover os interesses portugueses no estrangeiro;\n\nc) Conduzir e coordenar a participação portuguesa no processo de construção europeia;\n\nd) Conduzir e coordenar a participação portuguesa no sistema transatlântico de segurança colectiva;\n\ne) Assegurar a protecção dos cidadãos portugueses no estrangeiro, bem como apoiar e valorizar as comunidades portuguesas espalhadas pelo mundo;\n\nf) Defender e promover a língua e cultura portuguesas no estrangeiro;\n\ng) Promover a lusofonia em todos os seus aspectos e valorizar e reforçar a Comunidade dos Países de Língua Portuguesa;\n\nh) Definir e executar a política de cooperação para o desenvolvimento, especialmente com os Países Africanos de Língua Oficial Portuguesa e Timor-Leste, e coordenar a acção desempenhada nessa matéria por outros departamentos, serviços e organismos da administração pública;\n\ni) Conduzir as negociações internacionais e a responsabilidade pelo processo visando a vinculação internacional do Estado Português, sem prejuízo das competências atribuídas por lei a outras entidades públicas;\n\nj) Representar o Estado português junto de sujeitos de Direito Internacional Público ou de outros entes envolvidos na área das relações internacionais.\n\n2 - O MNE articula-se ainda com outros ministérios na prossecução das seguintes atribuições:\n\na) Promoção da cultura portuguesa no estrangeiro;\n\nb) Ensino português no estrangeiro;\n\nc) Definição do quadro político de participação das Forças Armadas e das forças de segurança portuguesas em missões de carácter internacional;\n\nd) Prossecução da diplomacia económica."
+  },
+  "f21c8d266df155df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica"
+  },
+  "193e932ab95b0383": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MNE prossegue as suas atribuições através de serviços integrados na administração directa do Estado, de organismos integrados na administração indirecta do Estado, de órgãos consultivos e de outras estruturas."
+  },
+  "a6bdf6cdd00499c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\n1 - Integram a administração directa do Estado, no âmbito do MNE, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Direcção-Geral de Política Externa;\n\nc) A Inspecção-Geral Diplomática e Consular;\n\nd) A Direcção-Geral dos Assuntos Europeus;\n\ne) A Direcção-Geral dos Assuntos Técnicos e Económicos;\n\nf) A Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas.\n\n2 - Integram ainda a administração directa do Estado, no âmbito do MNE, os seguintes serviços periféricos externos:\n\na) Embaixadas;\n\nb) Missões e representações permanentes e missões temporárias;\n\nc) Postos consulares."
+  },
+  "ad968d8e20a0637b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\nProsseguem atribuições do MNE, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) O Fundo para as Relações Internacionais, I. P.;\n\nb) O Instituto Camões, I. P.;\n\nc) O Instituto Português de Apoio ao Desenvolvimento, I. P."
+  },
+  "b29e04144916c529": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgão consultivo\n\nO Conselho das Comunidades Portuguesas desempenha funções de órgão consultivo."
+  },
+  "a78c75a62745b909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\nNo âmbito do MNE funcionam ainda:\n\na) A Comissão Nacional da UNESCO;\n\nb) A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas."
+  },
+  "e1d581de6547898a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlador financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlador financeiro\n\nNo âmbito do MNE pode ainda actuar um controlador financeiro, nos termos previstos no [Decreto-Lei n.º 33/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2006-683408), de 17 de Janeiro."
+  },
+  "4ba1b07bbbcbeec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Serviços, organismos, órgãos consultivos e outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Serviços, organismos, órgãos consultivos e outras estruturas"
+  },
+  "915663c275215b18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Serviços da administração directa do Estado"
+  },
+  "245cbf53e4ee1a0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar as funções de apoio técnico e administrativo aos órgãos, serviços e gabinetes dos membros integrados no MNE, nos domínios do protocolo do Estado, da gestão de recursos humanos, financeiros e patrimoniais, da formação do pessoal, do apoio jurídico e contencioso, da informação e das relações públicas e das tecnologias de informação e comunicação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;\n\nb) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;\n\nc) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\nd) Assegurar a elaboração do orçamento de funcionamento do MNE, bem como acompanhar a respectiva execução e a do orçamento de investimento;\n\ne) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nf) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;\n\ng) Programar e coordenar a aplicação de medidas que promovam a inovação, a modernização, a formação e as tecnologias de informação e comunicação no MNE;\n\nh) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e externos do MNE;\n\ni) Promover uma política eficaz de comunicação e de relações públicas;\n\nj) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\nl) Assegurar as funções de unidade ministerial de compras;\n\nm) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;\n\nn) Assegurar o normal funcionamento do ministério nas áreas que não sejam da competência específica de outros serviços.\n\n3 - A Secretaria-Geral integra os seguintes serviços, na dependência directa do Secretário-Geral:\n\na) O Protocolo do Estado;\n\nb) O Departamento Geral de Administração;\n\nc) O Departamento de Assuntos Jurídicos;\n\nd) O Instituto Diplomático;\n\ne) O Gabinete de Informação e Imprensa.\n\n4 - A SG é dirigida por um secretário-geral coadjuvado por um secretário-geral adjunto.\n\n5 - Junto do Secretário-Geral, que a eles preside, funcionam o Conselho Diplomático e o Conselho de Directores-Gerais."
+  },
+  "cd2904129873462c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção-Geral de Política Externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção-Geral de Política Externa\n\n1 - A Direcção-Geral de Política Externa, abreviadamente designada por DGPE, tem por missão assegurar a coordenação e decisão dos assuntos de natureza político-diplomática, incluindo a Política Externa e de Segurança Comum (PESC) e a Política Europeia de Segurança e Defesa (PESD), bem como dos assuntos no domínio da segurança e defesa, e executar a política externa portuguesa no plano das relações bilaterais e no plano multilateral de carácter político.\n\n2 - A DGPE prossegue as seguintes atribuições:\n\na) Assegurar o apoio ao exercício das funções de coordenação político-diplomática;\n\nb) Estudar, emitir pareceres, decidir ou apresentar propostas de actuação sobre todos os assuntos atinentes às atribuições que prossegue;\n\nc) Recolher informação, analisar e apresentar propostas de actuação sobre assuntos de particular relevância político-diplomática;\n\nd) Assegurar a representação de Portugal em reuniões no estrangeiro em relação às atribuições que prossegue;\n\ne) Transmitir instruções que sejam dirigidas às embaixadas, representações permanentes e missões temporárias, e postos consulares de Portugal;\n\nf) Assegurar a coordenação interministerial no acompanhamento e tratamento de questões internacionais, necessária à coerência e unidade da acção externa do Estado;\n\ng) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objectivos do MNE;\n\nh) Apoiar a definição das principais opções em matéria orçamental, assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental e de reporte;\n\ni) Acompanhar e avaliar a execução das políticas e programas do MNE.\n\n3 - Junto da DGPE funcionam os seguintes organismos:\n\na) O Conselho Coordenador Político-Diplomático, com funções de coordenação dos serviços do MNE nos assuntos de natureza político-diplomática;\n\nb) A Comissão Interministerial de Política Externa, com funções de coordenação das intervenções dos restantes ministérios no âmbito das relações internacionais, visando a acção unitária e coerente do Estado português na ordem internacional;\n\nc) A Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas;\n\nd) A Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares.\n\n4 - A DGPE é dirigida por um director-geral coadjuvado por três subdirectores gerais."
+  },
+  "21150b0851268437": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Inspecção-Geral Diplomática e Consular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inspecção-Geral Diplomática e Consular\n\n1 - A Inspecção-Geral Diplomática e Consular, abreviadamente designada por IGDC, tem por missão verificar o cumprimento das normas reguladoras do funcionamento dos serviços internos e externos do MNE, bem como assegurar a acção disciplinar e a auditoria de gestão, diplomática e consular.\n\n2 - A IGDC prossegue as seguintes atribuições:\n\na) Apreciar a conformidade legal e regulamentar dos actos dos serviços e organismos do MNE ou sujeitos à tutela do respectivo ministro e avaliar o seu desempenho e gestão, através da realização de acções de inspecção e auditoria;\n\nb) Proceder à avaliação de indícios de irregularidades e incumprimento de normas por parte dos serviços;\n\nc) Auditar os sistemas e procedimentos de controlo interno dos serviços;\n\nd) Assegurar a realização de inquéritos, sindicâncias, peritagens ou outras acções de carácter inspectivo.\n\n3 - A IGDC é dirigida por um inspector-geral."
+  },
+  "403ff56c03736b10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção-Geral dos Assuntos Europeus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção-Geral dos Assuntos Europeus\n\n1 - A Direcção-Geral dos Assuntos Europeus, abreviadamente designada por DGAE, tem por missão orientar a acção portuguesa nas instituições próprias da União Europeia, as relações bilaterais com os respectivos Estados membros e outros admitidos como candidatos, bem como acompanhar e coordenar a definição das posições nacionais sobre as políticas da União, em conjunto com todos os ministérios sectoriais competentes e com os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira.\n\n2 - A DGAE prossegue as seguintes atribuições:\n\na) Coordenar a participação portuguesa nas reuniões do Conselho Europeu, do Conselho de Assuntos Gerais e Relações Externas e nas sessões das diversas formações do Conselho de Ministros da União Europeia;\n\nb) Assegurar a representação do Estado português junto do Tribunal de Justiça das Comunidades Europeias e coordenar as acções para a definição da posição portuguesa em todos os casos de pré-contencioso e contencioso comunitário;\n\nc) Coordenar a definição da posição nacional nas questões relacionadas com o processo de decisão e o sistema institucional da União Europeia, incluindo os processos de revisão dos Tratados e os processos de alargamento, bem como em matérias de justiça e assuntos internos e no que concerne às questões financeiras da União Europeia;\n\nd) Acompanhar as negociações das acções da União Europeia em todas as matérias que enquadram a existência do mercado interno;\n\ne) Preparar e assegurar a representação portuguesa nas reuniões do Comité do artigo 133.º do Tratado que instituti a Comunidade Europeia e articular a posição portuguesa no âmbito das relações comunitárias externas da União Europeia.\n\n3 - Junto da DGAE funciona a Comissão Interministerial para os Assuntos Europeus, com funções de coordenação dos diversos ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estabelecimento de orientações concertadas e à definição das posições portuguesas, a nível técnico, junto das diferentes instituições da União Europeia.\n\n4 - A DGAE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais."
+  },
+  "fc582b67fa7631ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção-Geral dos Assuntos Técnicos e Económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção-Geral dos Assuntos Técnicos e Económicos\n\n1 - A Direcção-Geral dos Assuntos Técnicos e Económicos, abreviadamente designada por DGATE, tem por missão dar efectividade e continuidade à acção do MNE no plano internacional bilateral e multilateral no que respeita a todos os assuntos de carácter económico, científico e técnico.\n\n2 - A DGATE prossegue as seguintes atribuições:\n\na) Conduzir a diplomacia económica definida pelo Governo, em articulação com os outros departamentos, serviços ou organismos sectoriais competentes;\n\nb) Recolher, tratar e difundir informações macro-económicas e de mercados;\n\nc) Acompanhar e assegurar a participação em organismos internacionais de natureza económica ou técnico-científica, designadamente os que assumem carácter estratégico no âmbito da actividade externa do Estado;\n\nd) Assegurar a coordenação com os outros departamentos, serviços ou entidades públicas de todos os assuntos de carácter económico, técnico ou científico cuja decisão vincule o Estado Português.\n\n3 - A DGATE é dirigida por um director-geral coadjuvado por dois subdirectores-gerais."
+  },
+  "a6e13f04e7e551ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas\n\n1 - A Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, abreviadamente designada por DGACCP, tem por missão assegurar a efectividade e a continuidade da acção do MNE no domínio da gestão dos postos consulares e da realização da protecção consular, bem como na coordenação e execução da política de apoio à emigração e às comunidades portuguesas no estrangeiro.\n\n2 - A DGACCP prossegue as seguintes atribuições:\n\na) Orientar e supervisionar a actividade dos postos consulares;\n\nb) Assegurar a unidade da acção do Estado no domínio das relações internacionais de carácter consular;\n\nc) Executar as políticas dirigidas às comunidades portuguesas no estrangeiro e, em função das experiências recolhidas, contribuir para a sua melhor definição;\n\nd) Conceber e propor programas de acção, decorrentes das políticas definidas pelo MNE, na relação com os cidadãos portugueses residentes no estrangeiro, em coordenação com entidades públicas e privadas, nacionais e estrangeiras, e outras organizações internacionais;\n\ne) Garantir a prestação de apoio consular aos cidadãos portugueses no estrangeiro.\n\n3 - Junto da DGACCP funcionam:\n\na) A Comissão Interministerial para as Comunidades Portuguesas, com funções de coordenação em matéria de política de emigração e de comunidades portuguesas no estrangeiro;\n\nb) A Comissão Organizadora do Recenseamento Eleitoral dos Portugueses no Estrangeiro, que tem por missão organizar e apoiar o recenseamento eleitoral dos portugueses no estrangeiro e garantir a realização dos actos eleitorais e outros sufrágios junto das mesas eleitorais constituídas no estrangeiro.\n\n4 - A DGACCP é dirigida por um director-geral coadjuvado por dois subdirectores-gerais."
+  },
+  "c46703c5884cf359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços periféricos externos\n\n1 - Para a prossecução das suas atribuições no estrangeiro, o MNE dispõe dos seguintes serviços periféricos externos:\n\na) Embaixadas;\n\nb) Missões e representações permanentes e missões temporárias;\n\nc) Postos consulares.\n\n2 - Sempre que a prática internacional o aconselhe, podem ser adoptadas outras designações para os serviços periféricos externos referidos no número anterior.\n\n3 - Os serviços periféricos externos são criados por despacho conjunto dos membros do Governo responsáveis pelas áreas dos Negócios Estrangeiros e das Finanças e da Administração Pública.\n\n4 - A identificação, a categoria e a sede das embaixadas, representações permanentes e missões temporárias, e postos consulares existentes constam de lista aprovada por despacho conjunto dos membros do Governo responsáveis pelas áreas dos Negócios Estrangeiros e das Finanças e da Administração Pública."
+  },
+  "5004af3418bea057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Organismos da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Organismos da administração indirecta do Estado"
+  },
+  "0260aa7eb83ba502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fundo para as Relações Internacionais, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fundo para as Relações Internacionais, I. P.\n\n1 - O Fundo para as Relações Internacionais, I. P., abreviadamente designado FRI, I. P., tem por missão apoiar acções especiais de política externa, projectos de formação no âmbito da política de relações internacionais, a modernização dos serviços externos do MNE, acções de natureza social de apoio a agentes das relações internacionais e actividades destinadas às comunidades portuguesas.\n\n2 - São atribuições do FRI, I. P.:\n\na) Apoiar as acções de modernização dos serviços externos;\n\nb) Satisfazer os encargos ocasionados por acções extraordinárias de política externa;\n\nc) Comparticipar em acções de natureza social promovidas por entidades de natureza associativa, constituídas nos termos da lei, visando o apoio aos agentes das relações internacionais;\n\nd) Apoiar acções de formação e conceder subsídios e bolsas a pessoas singulares e colectivas, públicas e privadas, nacionais ou estrangeiras, no âmbito da política definida em matéria de relações internacionais;\n\ne) Apoiar actividades de natureza social, cultural, económica e comercial, designadamente destinadas às comunidades portuguesas, promovidas por entidades públicas e privadas, nacionais ou estrangeiras, no quadro das diversas vertentes da política externa portuguesa.\n\n3 - O FRI, I. P. é dirigido por um conselho de direcção composto pelo Secretário-geral, que preside, e pelos dirigentes máximos da Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas e do Departamento Geral de Administração."
+  },
+  "7b77cb3aedf5baa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Instituto Camões, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instituto Camões, I. P.\n\n1 - O Instituto Camões, I. P., abreviadamente designado por IC, I. P., tem por missão propor e executar a política de ensino e divulgação da língua e cultura portuguesa no estrangeiro, assegurar a presença de leitores de português nas universidades estrangeiras e gerir a rede do ensino de português no estrangeiro a nível básico e secundário, em coordenação com outros departamentos governamentais, em especial os Ministérios da Educação, da Ciência, Tecnologia e Ensino Superior e da Cultura.\n\n2 - São atribuições do IC, I. P.:\n\na) Estruturar e coordenar a política de difusão e promoção da língua e da cultura portuguesas no estrangeiro e promover o português como língua de comunicação internacional;\n\nb) Coordenar a actividade dos leitorados, dos centros de formação de professores e da rede do ensino de língua e cultura portuguesas no estrangeiro a nível do ensino básico e secundário;\n\nc) Apoiar a criação e funcionamento de cátedras de português e centros de língua portuguesa junto de instituições estrangeiras de ensino superior e de organismos internacionais;\n\nd) Propor a criação e gerir a rede de centros culturais portugueses no estrangeiro;\n\ne) Promover a celebração e acompanhar a execução de acordos de cooperação cultural, sem prejuízo das atribuições do Ministério da Cultura.\n\n3 - O IC, I. P., é dotado apenas de autonomia administrativa.\n\n4 - A competência relativa à definição das orientações estratégicas nas matérias respeitantes à acção cultural externa do Estado Português, no quadro do IC, I. P., bem como ao acompanhamento da sua execução, é exercida em articulação com o membro do Governo responsável pela área da Cultura.\n\n5 - O IC, I. P., é dirigido por um Presidente e dois Vice-Presidentes, cargos de direcção superior de primeiro e segundo grau, respectivamente."
+  },
+  "188ae0aa3db975b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Instituto Português de Apoio ao Desenvolvimento, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instituto Português de Apoio ao Desenvolvimento, I. P.\n\n1 - O Instituto Português de Apoio ao Desenvolvimento, I. P., abreviadamente designado por IPAD, I. P., tem por missão propor e executar a política de cooperação portuguesa e coordenar as actividades de cooperação desenvolvidas por outras entidades públicas que participem na execução daquela política.\n\n2 - São atribuições do IPAD, I. P.:\n\na) Assegurar o planeamento, a programação, o acompanhamento da execução e a avaliação dos programas e projectos de cooperação portuguesa;\n\nb) Financiar programas e projectos de cooperação, na íntegra ou em co-financiamento com outras entidades públicas ou privadas, nacionais ou internacionais;\n\nc) Representar o Estado português nos debates internacionais sobre a cooperação e a ajuda pública ao desenvolvimento, sem prejuízo das atribuições do Ministério das Finanças quanto às instituições financeiras internacionais.\n\n3 - O IPAD, I. P., é dotado apenas de autonomia administrativa.\n\n4 - Junto do IPAD, I. P., funciona a Comissão Interministerial para a Cooperação, com funções de coordenação das actividades de cooperação desenvolvidas por outros ministérios.\n\n5 - O IPAD, I. P., é dirigido por um Presidente e três Vice-Presidentes, cargos de direcção superior de primeiro e segundo grau, respectivamente."
+  },
+  "fd9fc9b40f9200ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Órgãos consultivos"
+  },
+  "501cf10f84182be8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Conselho das Comunidades Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho das Comunidades Portuguesas\n\nO Conselho das Comunidades Portuguesas, assembleia representativa dos portugueses residentes no estrangeiro, tem a composição e prossegue as atribuições previstas em diploma próprio."
+  },
+  "3e3c3ded8d9783e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Outras estruturas"
+  },
+  "39b1e0e66ac1753a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Comissão Nacional da UNESCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão Nacional da UNESCO\n\nA Comissão Nacional da UNESCO tem por missão prossegurir os fins previstos no Acto Constitutivo da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), tendo a natureza, composição e prosseguindo as atribuições previstas em diploma próprio."
+  },
+  "82637fb7aaedc4c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas\n\n1 - A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas tem por missão assegurar a participação portuguesa nas reuniões das comissões mistas luso-espanholas previstas no Tratado de Limites entre Portugal e Espanha, assinado em 29 de Setembro de 1864, e na Convenção sobre Cooperação para a Protecção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas, assinada em Albufeira em 30 de Novembro de 1998, bem como acompanhar e propor soluções relativas às matérias abrangidas por estas e outras convenções internacionais celebradas entre Portugal e Espanha, em coordenação com os demais serviços competentes do Ministério dos Negócios Estrangeiros e dos ministérios sectorialmente competentes.\n\n2 - A competência relativa à definição das orientações estratégicas no domínio da Convenção sobre Cooperação para a Protecção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas, bem como ao acompanhamento da sua execução, é exercida em articulação com o membro do Governo responsável pela área do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.\n\n3 - A composição e o funcionamento da Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas são definidos em diploma próprio."
+  },
+  "a1f9762a7c936ffa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal e cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal e cargos dirigentes"
+  },
+  "a2a846de9d6000fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Ordenação protocolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ordenação protocolar\n\nPara efeitos de natureza protocolar, é a seguinte a ordenação dos dirigentes dos serviços internos e organismos tutelados:\n\na) O Secretário-Geral, o mais alto funcionário da hierarquia do Ministério dos Negócios Estrangeiros;\n\nb) O Director-geral de Política Externa;\n\nc) O Inspector-geral Diplomático e Consular;\n\nd) O Director-geral dos Assuntos Europeus;\n\ne) O Director-geral dos Assuntos Técnicos e Económicos;\n\nf) O Director-geral dos Assuntos Consulares e Comunidades Portuguesas;\n\ng) O Chefe do Protocolo do Estado;\n\nh) O Presidente do Instituto Camões;\n\ni) O Presidente do Instituto Português de Apoio ao Desenvolvimento;\n\nj) O Director do Departamento Geral de Administração;\n\nl) O Presidente da Comissão Nacional da UNESCO;\n\nm) O Presidente da Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas;\n\nn) O Director do Departamento de Assuntos Jurídicos;\n\no) O Presidente do Instituto Diplomático;\n\np) O Director do Gabinete de Informação e Imprensa."
+  },
+  "9b6a62c06bb23867": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Provimento dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Provimento dos cargos dirigentes\n\n1 - O secretário-geral é escolhido de entre funcionários diplomáticos com a categoria de embaixador.\n\n2 - Os titulares dos cargos de director-geral ou equiparado são escolhidos de entre os funcionários com a categoria de embaixador ou ministro plenipotenciário, neste caso com, pelo menos, três anos na categoria.\n\n3 - Os titulares dos cargos de secretário-geral adjunto, subdirector-geral ou equiparado são escolhidos de entre funcionários com categoria não inferior a ministro plenipotenciário ou, a título excepcional, de entre conselheiros de embaixada com, pelo menos, três anos na categoria.\n\n4 - Os titulares dos cargos de director de serviços são escolhidos de entre funcionários de categoria não inferior a conselheiro de embaixada ou de secretário de embaixada com, pelo menos, nove anos na categoria.\n\n5 - Os titulares de cargos de chefe de divisão são escolhidos de entre os funcionários de categoria não inferior a secretário de embaixada com, pelo menos, cinco anos na categoria.\n\n6 - O provimento dos cargos dirigentes do MNE pode ser feito nos termos da lei geral, nos casos em que a legislação aplicável ao respectivo serviço expressamente o preveja.\n\n7 - O provimento dos cargos dirigentes, quando recair em funcionários diplomáticos, é feito em comissão de serviço por tempo indeterminado, podendo ser alterada a sua colocação, nos termos previstos no Estatuto da Carreira Diplomática."
+  },
+  "d5a690d07703769e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Forma dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Forma dos actos\n\n1 - A nomeação e a exoneração dos embaixadores, dos outros chefes de missão diplomática e dos enviados extraordinários são efectuadas por decreto do Presidente da República, nos termos da Constituição.\n\n2 - A promoção a embaixador é efectuada por decreto, nos termos da Constituição e da lei.\n\n3 - São praticados por despacho conjunto do Primeiro-Ministro e do membro do Governo responsável pela área dos Negócios Estrangeiros os actos seguintes:\n\na) A promoção de funcionários diplomáticos a ministro plenipotenciário;\n\nb) A nomeação e a exoneração de directores-gerais ou cargos equiparados, incluindo as direcções de institutos públicos pertencentes à administração indirecta do MNE.\n\n4 - São efectuados por despacho do membro do Governo responsável pela área dos Negócios Estrangeiros:\n\na) A nomeação e a exoneração dos subdirectores-gerais;\n\nb) A nomeação e a exoneração dos directores de serviço e dos chefes de divisão ou equiparados, cujos cargos sejam providos por funcionários diplomáticos;\n\nc) A homologação dos resultados dos concursos para adido de embaixada e para conselheiro de embaixada, devendo a nomeação individual dos candidatos aprovados ser efectuada mediante lista conjunta publicada no Diário da República, com a assinatura do Secretário-Geral do MNE;\n\nd) A colocação e transferência dos funcionários diplomáticos com categoria igual ou superior à de conselheiro de embaixada, sem prejuízo do disposto no n.º 1;\n\ne) A nomeação, exoneração e promoção dos funcionários diplomáticos até à categoria de conselheiro de embaixada;\n\nf) A nomeação, exoneração e transferência dos cônsules-gerais e dos cônsules, atentos os procedimentos previstos no Estatuto da Carreira Diplomática e no Regulamento Consular, bem como dos cônsules honorários;\n\ng) A nomeação, exoneração e transferência dos vice-cônsules e chanceleres, com observância dos procedimentos previstos no Estatuto do Pessoal dos Serviços Externos;\n\nh) A emissão de cartas patentes que acreditem perante outros Estados os cônsules-gerais, cônsules e vice-cônsules e, bem assim, os cônsules honorários;\n\ni) A emissão de cartas credenciais, ou documentos de idêntico valor jurídico, que acreditem, perante quaisquer organizações internacionais, congressos ou outras reuniões internacionais, as delegações portuguesas que aí forem enviadas;\n\nj) Todos os outros actos que criem, alterem ou extingam a situação dos funcionários diplomáticos."
+  },
+  "d1d808137d49f3c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições transitórias e finais"
+  },
+  "de73b14241499cd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Outras entidades\n\nNo âmbito do MNE funciona ainda o Instituto Português de Santo António em Roma, nos termos do respectivo estatuto."
+  },
+  "3e90dffd7dd1e2f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadro de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Quadro de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração directa e indirecta do MNE, constantes dos anexos I e II ao presente decreto-lei, respectivamente, do qual fazem parte integrante."
+  },
+  "c568aead9d525f1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Criação, fusão e reestruturação de serviços e organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Criação, fusão e reestruturação de serviços e organismos\n\n1 - São criadas:\n\na) A Direcção-Geral dos Assuntos Técnicos e Económicos;\n\nb) A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas.\n\n2 - É extinto, sem qualquer transferência de competências, o Conselho Consultivo para a Cooperação Económica e Empresarial.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Direcção Geral dos Assuntos Multilaterais, cujas atribuições no domínio dos assuntos políticos são transferidas para a Direcção-Geral de Política Externa, e cujas atribuições no domínio dos assuntos económicos, científicos e técnicos são integradas na Direcção-Geral dos Assuntos Técnicos e Económicos;\n\nb) A Direcção Geral das Relações Bilaterais, sendo as suas atribuições no domínio dos assuntos políticos transferidas para a Direcção-Geral de Política Externa, com excepção das relações bilaterais com os Estados membros da UE e países oficialmente admitidos como candidatos, que transitam para a Direcção-Geral dos Assuntos Europeus, e as suas atribuições no domínio dos assuntos económicos, científicos e técnicos integradas na Direcção-Geral dos Assuntos Técnicos e Económicos;\n\nc) A Comissão Internacional de Limites entre Portugal e Espanha, a Comissão Internacional sobre as Bacias Hidrográficas Luso-Espanholas e a Comissão para a Aplicação da Convenção de Albufeira, cujas atribuições são integradas na Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas;\n\nd) O Gabinete de Organização, Planeamento e Avaliação cujas atribuições são integradas na Secretaria-Geral.\n\n4 - É objecto de reestruturação a Direcção-Geral dos Assuntos Comunitários que passa a denominar-se Direcção-Geral dos Assuntos Europeus.\n\n5 - São ainda objecto de reestruturação os demais serviços e organismos referidos nos artigos 4.º, 5.º, 6.º e 7.º"
+  },
+  "c44671589e6d767c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objecto de criação, fusão e reestruturação referidos no artigo anterior, consideram-se feitos aos serviços ou organismos que passam a integrar as respectivas atribuições."
+  },
+  "15f5055390e32156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Produção de efeitos\n\n1 - As criações, fusões e reestruturações de serviços e organismos previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respectivos diplomas orgânicos.\n\n2 - Exceptua-se do disposto no número anterior, a nomeação dos titulares dos cargos de direcção superior e dos órgãos de direcção dos organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusões, a nomeação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes nomeados a direcção dos serviços e organismos objecto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direcção superior de serviços cuja reestruturação ou fusão tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação ou fusão, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "b42a18dfc9e95915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Diplomas orgânicos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Diplomas orgânicos complementares\n\n1 - Os diplomas orgânicos pelos quais se procede à criação, fusão e reestruturação dos serviços e organismos do MNE devem ser aprovados no prazo de 90 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do MNE continuam a reger-se pelas disposições normativas que lhes são aplicáveis.\n\n3 - O diploma que aprove a reestruturação da Direcção-Geral dos Assuntos Europeus pode determinar o prazo de diferimento da respectiva entrada em vigor para data posterior à Presidência Portuguesa do Conselho da União Europeia, sem prejuízo da imediata concretização da transferência de atribuições prevista na alínea b) do n.º 3 do artigo 27.º"
+  },
+  "ca1fee70f476d55e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), de 24 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 19 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "df7abc303ae2ff3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Cargos de direcção superior da administração directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Cargos de direcção superior da administração directa\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74477454.pdf)"
+  },
+  "0e0a9323cfd98070": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Dirigentes de organismos da administração indirecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Dirigentes de organismos da administração indirecta\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74477454.pdf)"
+  },
+  "b875877bff4ff4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 1.º — Missão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "bc91a38ec21e32fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "4b3723c303508efe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "cc71c2558b0e2969": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "220da54cdec9185b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "8b6dfb4ce21910d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Órgão consultivo",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 6.º — Órgão consultivo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "80c98d5a0fd81e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "5d02b17b3940d94f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlador financeiro",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 8.º — Controlador financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "85a5e9b3584190e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Secretaria-Geral",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 9.º — Secretaria-Geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "c8d293b20761d4fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção-Geral de Política Externa",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 10.º — Direcção-Geral de Política Externa\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "36ceb6ca99bf45a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Inspecção-Geral Diplomática e Consular",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 11.º — Inspecção-Geral Diplomática e Consular\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "79283cc113289c57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção-Geral dos Assuntos Europeus",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 12.º — Direcção-Geral dos Assuntos Europeus\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "2fa52efca1aa6dfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção-Geral dos Assuntos Técnicos e Económicos",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 13.º — Direcção-Geral dos Assuntos Técnicos e Económicos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "b9c09d611ac70ed3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 14.º — Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "8d4040f27bc54b56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Serviços periféricos externos",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 15.º — Serviços periféricos externos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "dfd68c0215b094b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fundo para as Relações Internacionais, I. P.",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 16.º — Fundo para as Relações Internacionais, I. P.\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "37e384dff9924e1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Instituto Camões, I. P.",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 17.º — Instituto Camões, I. P.\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "bcbe36b70371669c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Instituto Português de Apoio ao Desenvolvimento, I. P.",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 18.º — Instituto Português de Apoio ao Desenvolvimento, I. P.\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "dadd45b80fa4d5c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Conselho das Comunidades Portuguesas",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 19.º — Conselho das Comunidades Portuguesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "2fb898c39871f8ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Comissão Nacional da UNESCO",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 20.º — Comissão Nacional da UNESCO\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "1cf16e375bc8350d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 21.º — Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "e1827c205506d0d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Ordenação protocolar",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 22.º — Ordenação protocolar\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "300fc63e00a5e198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Provimento dos cargos dirigentes",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 23.º — Provimento dos cargos dirigentes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "41270894f7f5a81f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Outras entidades",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 25.º — Outras entidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "3e897aea87f7889f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadro de pessoal dirigente",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 26.º — Quadro de pessoal dirigente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "2c3c34cbf6fd8c6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Criação, fusão e reestruturação de serviços e organismos",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 27.º — Criação, fusão e reestruturação de serviços e organismos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "fe8cca2fa67f9376": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Referências legais",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 28.º — Referências legais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "f2692611301f3e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Produção de efeitos",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 29.º — Produção de efeitos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "25b6bf19f878b35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Diplomas orgânicos complementares",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 30.º — Diplomas orgânicos complementares\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "89d8bae97de4b215": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 19 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "171ee8a445246674": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Cargos de direcção superior da administração directa",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "## ANEXO I — Cargos de direcção superior da administração directa\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  },
+  "28850191b9bb2602": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Dirigentes de organismos da administração indirecta",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+   ],
+   "markdown": "## ANEXO II — Dirigentes de organismos da administração indirecta\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29."
+  }
+ }
+}
