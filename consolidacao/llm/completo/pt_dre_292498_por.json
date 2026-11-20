@@ -12,25 +12,49 @@
       "epigrafe": "Divisão de Assuntos Jurídicos e Contencioso",
       "texto": "Compete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
       "alterador": 6
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Divisão de Auditoria",
+      "texto": "(Revogado.)",
+      "alterador": 6
     }
   ],
   "removidos": [],
-  "titulos": [],
-  "nao_aplicavel": "Artigo 19.º (Decreto Regulamentar n.º 1/98, art. 1.º): a nova redação mantém as alíneas a) a f) ('...') e muda a alínea g), mas o texto atual do artigo 19.º está vazio (só aparece o título de divisão 'Divisão de Apoio e Exploração'), pelo que não há alíneas a) a f) para manter nem se pode compor o artigo sem inventar; não aplicado. Despachos Normativos n.os 196/94, 212/94, 258/94, 314/94 e 341/94 e Portarias n.os 1453/2000, 1006/2003 e 1009/2003: criam lugares no quadro de pessoal (anexo I, só em imagem); Portaria n.º 414/98: altera o quadro de pessoal por quadro anexo que só vem em imagem; não aplicáveis ao texto.",
+  "titulos": [
+    {
+      "atual": "##### Divisão de Gestão Financeira e de Contabilidade",
+      "novo": null,
+      "alterador": 6
+    },
+    {
+      "atual": "##### Divisão de Auditoria",
+      "novo": null,
+      "alterador": 6
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+      "texto": "Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\nPessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)",
+      "alterador": 7
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor de informática principal no quadro de pessoal (anexo I): sem texto: o despacho não traz o quadro alterado.\nAlterador 2, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: o despacho não traz o quadro alterado.\nAlterador 3, criação de um lugar de assessor de informática principal no quadro de pessoal (anexo I): sem texto: o despacho não traz o quadro alterado.\nAlterador 4, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: o despacho não traz o quadro alterado.\nAlterador 5, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: o despacho não traz o quadro alterado.\nAlterador 6, nova redacção do artigo 19.º (alínea g), com as alíneas a) a f) em «...»): alvo incerto: o corpo do artigo 19.º não vem no texto atual (o artigo aparece vazio, seguido do título «Divisão de Apoio e Exploração»), pelo que não há onde copiar as alíneas a) a f) que ficam.\nAlterador 8, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: a portaria não traz o quadro alterado.\nAlterador 9, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: a portaria não traz o quadro alterado.\nAlterador 10, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto: a portaria não traz o quadro alterado.",
   "instrucoes": [
-    "Desp. Norm. 196/94, 212/94, 258/94, 314/94, 341/94: criação de lugares no quadro de pessoal (anexo I em imagem) - nao_aplicavel.",
-    "DR 1/98 art. 1.º, art. 2.º: alínea l) nova; texto atual já a tem (programa) - sem mudança.",
-    "DR 1/98 art. 1.º, arts. 9.º, 10.º, 11.º, 12.º, 17.º: texto atual já coincide (programa) - sem mudança.",
-    "DR 1/98 art. 1.º, art. 19.º: só muda a alínea g), mas o artigo 19.º está vazio no texto atual (reparo confirmado: a alteração não se vê, mas não há alíneas a) a f) para manter) - nao_aplicavel.",
-    "DR 1/98 art. 1.º, art. 21.º: 'o Gabinete de Assuntos Jurídicos e Contencioso' passa a 'a Divisão de Assuntos Jurídicos e Contencioso' - aplicado.",
-    "DR 1/98 art. 1.º, art. 22.º: nova epígrafe e proémio 'Divisão de Assuntos Jurídicos e Contencioso', alíneas a) a f) mantidas - aplicado.",
-    "DR 1/98 art. 2.º: aditamento do art. 17.º-A; já está no texto atual (programa) - sem mudança.",
-    "DR 1/98 art. 3.º: remete alterações do quadro para portaria - não é alteração textual.",
-    "DR 1/98 art. 4.º: revoga o art. 29.º; já '(Revogado.)' no texto atual - sem mudança.",
-    "Portaria 414/98: altera o quadro de pessoal por anexo em imagem - nao_aplicavel.",
-    "Portarias 1453/2000, 1006/2003, 1009/2003: criam lugares no quadro de pessoal - nao_aplicavel."
+    "Alteradores 1 a 5 (Despachos Normativos de 1994): criam lugares no quadro do anexo I sem trazer o quadro: não aplicados.",
+    "Alterador 6 (DR 1/98), art. 1.º: arts. 2.º (al. l)), 9.º, 10.º, 11.º, 12.º e 17.º já estavam aplicados pelo programa e certos; art. 21.º com nova redacção; art. 22.º com nova epígrafe e proémio, als. a) a f) ficam; art. 19.º não aplicado (corpo não está no texto atual).",
+    "Alterador 6, art. 1.º (art. 10.º): o título «##### Divisão de Gestão Financeira e de Contabilidade» é a epígrafe do antigo art. 10.º, substituído pela nova redacção: eliminado.",
+    "Alterador 6, art. 2.º: art. 17.º-A aditado, já estava pelo programa e certo.",
+    "Alterador 6, art. 3.º: norma autónoma sobre portaria futura, nada a aplicar.",
+    "Alterador 6, art. 4.º: art. 29.º revogado (já estava); a epígrafe «Divisão de Auditoria», que vinha como título de divisão a seguir, passa para o artigo e o título é eliminado.",
+    "Alterador 7 (Portaria 414/98): quadro do anexo I alterado de acordo com o quadro anexo (imagem): corpo atual do anexo I, linha em branco e as linhas do anexo da portaria.",
+    "Alteradores 8 a 10 (Portarias de 2000 e 2003): criam lugares no quadro sem trazer o quadro: não aplicados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

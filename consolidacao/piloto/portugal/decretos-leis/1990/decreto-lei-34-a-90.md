@@ -13,12 +13,12 @@ consolidacao:
   - id: pt:dre:275443:por
     title: Decreto-Lei n.º 157/92
     publication_date: '1992-07-31'
-  - id: pt:dre:274443:por
-    title: Lei n.º 15/92
-    publication_date: '1992-08-05'
   - id: pt:dre:149645:por
     title: Decreto-Lei n.º 175/97
     publication_date: '1997-07-22'
+  - id: pt:dre:274443:por
+    title: Lei n.º 15/92
+    publication_date: '1992-08-05'
 ---
 
 # Decreto-Lei n.º 34-A/90
@@ -1439,9 +1439,7 @@ O Estatuto dos Militares das Forças Armadas, adiante designado por Estatuto, de
 
 ###### Artigo 2.º — Âmbito
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+O presente Estatuto aplica-se aos militares das forças armadas em qualquer situação e forma de prestação de serviço.
 
 ###### Artigo 3.º — Formas de prestação de serviço
 
@@ -1461,7 +1459,7 @@ e) Serviço efectivo decorrente de convocação ou mobilização.
 
 ###### Artigo 4.º — Militar dos QP
 
-É militar do QP, nos termos do artigo 4.º, n.º 4, da Lei n.º 30/87, o que, tendo ingressado voluntariamente na carreira militar, se encontra vinculado às Forças Armadas com carácter de permanência.
+É militar do QP, nos termos do artigo 4.º, n.º 4, da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), o que, tendo ingressado voluntariamente na carreira militar, se encontra vinculado às Forças Armadas com carácter de permanência.
 
 > Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
@@ -1483,9 +1481,9 @@ e) Serviço efectivo decorrente de convocação ou mobilização.
 
 ###### Artigo 7.º — Militar convocado ou mobilizado
 
-1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.
+1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.
 
-2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.
+2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.
 
 3 - São aplicáveis aos militares convocados ou mobilizados as disposições estatutárias respeitantes às formas de prestação de serviço que antecederam a passagem à reserva de disponibilidade e licenciamento.
 
@@ -1633,7 +1631,7 @@ O militar tem direito a receber do Estado patrocínio judiciário e assistência
 
 O militar tem, nomeadamente, direito:
 
-a) A progredir na carreira, nos termos do artigo 11.º, n.º 1, da Lei n.º 11/89, de 1 de Junho;
+a) A progredir na carreira, nos termos do artigo 11.º, n.º 1, da [Lei n.º 11/89](https://diariodarepublica.pt/dr/detalhe/lei/11-1989-609999), de 1 de Junho;
 
 b) A receber treino e formação geral, cívica, científica, técnica e profissional, inicial e permanente, adequados ao pleno exercício das funções e missões que lhe forem atribuídas;
 
@@ -2461,7 +2459,7 @@ O recurso contencioso deve ser interposto nos prazos e termos fixados na Lei de 
 
 1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.
 
-2 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.
+2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.
 
 3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.
 
@@ -5739,10 +5737,6 @@ O serviço efectivo normal tem início no primeiro dia da incorporação do turn
 
 ## LIVRO III — Do serviço efectivo normal
 
-## TÍTULO I
-
-## Parte comum
-
 ###### Artigo 350.º — Designação e identificação dos militares em SEN
 
 1 - Os militares em SEN são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, pelo regime em que se encontram e número de identificação e nome.
@@ -6269,9 +6263,7 @@ A inscrição no primeiro posto de cada uma das categorias é feita por ordem de
 
 ## LIVRO IV — Dos regimes de voluntariado e de contrato
 
-## TÍTULO I
-
-## Parte comum
+## TÍTULO I — Do regime de voluntariado
 
 ###### Artigo 395.º — Condições de promoção
 
@@ -6617,7 +6609,7 @@ Ao militar em RC que revele vocação e aptidões adequadas à carreira militar 
 
 ###### Artigo 440.º — Suspensão do artigo 166.º
 
-A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.
+A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.
 
 > Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 

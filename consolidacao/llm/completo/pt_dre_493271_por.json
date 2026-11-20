@@ -501,39 +501,35 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Portaria 875/83): contingentação do quadro por mapas em imagem, sem instrução textual ao articulado. Alterador 2, art. 3.º: alteração ao mapa I anexo ao DR 42/83 por mapa que só vem em imagem. Alterador 3 (Portaria 755/85): aumento do quadro geral por mapa em imagem (mapa I do original), não textual. Alterador 8, art. 10.º n.º 2: anuncia nova redação do artigo 52.º do DR 42/83 mas o texto novo não vem no pedido (excerto só com os artigos que mencionam o original); o alterador 9 (art. 55.º n.º 1) dá o 52.º todo com '...', pelo que o 52.º ficou sem alteração textual. Alterador 10 (DL 132/2019), al. i): revoga a alínea a) do n.º 1 do artigo 105.º, mas o 105.º já estava integralmente revogado pelo alterador 8 (artigos 98.º a 109.º); ficou '(Revogado.)' com alterador 8. Nota: no texto atual há cabeçalhos duplicados '15.º', '17.º', '18.º', '25.º' e '39.º' a seguir ao 133.º, que são o texto do DR 54/80 citado no 133.º e não artigos do original; as chaves devolvidas referem-se aos artigos próprios do DR 42/83.",
-  "instrucoes": [
-    "Alterador 1 (Portaria 875/83): distribui o pessoal do quadro por mapas em imagem; nada a aplicar ao texto.",
-    "Alterador 2 (DR 89/84) art. 1.º: nova redação dos arts. 39.º (só n.º 10, regra III), 40.º, 47.º, 55.º, 66.º (al. f) do n.º 1), 108.º (epígrafe e n.º 3), 109.º (aditado n.º 4) e 118.º (n.º 1). Aplicadas; 39.º e 118.º devolvidos com esta redação; 40.º, 47.º, 55.º, 66.º, 108.º e 109.º foram depois revogados pelo alterador 8 e devolvidos como (Revogado.). Art. 2.º é norma própria do alterador. Art. 3.º (mapa I) só em imagem: não aplicado.",
-    "Alterador 3 (Portaria 755/85): aumento do quadro por mapa em imagem; não aplicado.",
-    "Alterador 4 (DR 71/86) art. 1.º: nova redação integral do art. 76.º; aplicada. Arts. 2.º e 3.º são normas próprias do alterador.",
-    "Alterador 5 (DR 4/87) art. 1.º: nova redação do art. 5.º (integral, n.os 1 a 11) e do art. 65.º (n.º 1 = corpo atual, n.º 2 novo); aplicadas, mas ambos os artigos foram depois revogados pelo alterador 8 (1.º a 30.º e 54.º a 66.º), pelo que são devolvidos como (Revogado.). Arts. 2.º e 3.º do alterador não alteram o texto do original.",
-    "Alterador 6 (DR 61/87) artigo único: nova redação do n.º 2 do art. 83.º; aplicada.",
-    "Alterador 7 (DR 20/89) artigo único: art. 48.º passa a ter n.º 5 com texto novo (n.os 1 a 4 mantidos); aplicado.",
-    "Alterador 8 (DL 408/93) art. 10.º n.º 2: anuncia nova redação do art. 52.º sem texto no pedido; não aplicado. Art. 57.º al. b): revogação dos arts. 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, als. a) e b) do n.º 1 do 48.º, 49.º, als. b) e d) do 50.º, 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º; aplicada: 77 artigos com corpo (Revogado.), 48.º com als. a) e b) (Revogada.) e 50.º com als. b) e d) (Revogada.). As restantes alíneas do art. 57.º revogam outros diplomas: ignoradas.",
-    "Alterador 9 (DL 42/97) art. 55.º n.º 1: art. 52.º com todos os números e alíneas em '...', sem alteração textual; os restantes artigos alteram o DL 408/93, o DL 187/90 e o DL 434/91 ou são normas próprias: ignorados.",
-    "Alterador 10 (DL 132/2019) art. 50.º al. i): revoga a al. a) do n.º 1 do art. 105.º, já integralmente revogado pelo alterador 8; sem efeito adicional. As restantes alíneas revogam outros diplomas: ignoradas."
-  ],
-  "modelo": "claude-fable-5-1",
-  "pedido": "completo",
-  "passagens": [
+  "titulos": [
     {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "chars": 209295,
-      "artigos": 83
+      "atual": "##### SUBSECÇÃO VI — Pessoal técnico superior",
+      "novo": "##### SUBSECÇÃO VI — Pessoal técnico superior e técnico",
+      "alterador": 2
     }
   ],
-  "problemas": []
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Portaria n.º 875/83 (distribuição do pessoal do quadro pelos mapas anexos): não textual; a portaria contingenta o pessoal e não altera o texto do original, e os mapas só vêm em imagem.\nAlterador 2, artigo 3.º (alteração do mapa I anexo ao original): só em imagem; o mapa I do original não tem título de anexo no texto atual (vem só em imagem no fim do artigo 136.º).\nAlterador 3, Portaria n.º 755/85 (aumento do quadro geral do pessoal com os lugares do mapa I da portaria): só em imagem; o mapa vem só em imagem e o quadro não tem título de anexo no texto atual.\nAlterador 5, artigo 3.º (aumento do quadro de pessoal dirigente aprovado pelo Decreto Regulamentar n.º 16/85): outro diploma.\nAlterador 8, artigo 10.º n.º 2 / artigo 55.º (nova redação do artigo 52.º): sem texto; o alterador anuncia a nova redação do artigo 52.º mas não a traz.\nAlterador 9, artigo 1.º (nova redação do artigo 55.º do Decreto-Lei n.º 408/93, que dá ao artigo 52.º do original uma redação só com «...»): outro diploma; a instrução altera o Decreto-Lei n.º 408/93 e a redação do artigo 52.º que transcreve só tem «...», sem texto novo.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 875/83): distribuição do pessoal pelos mapas; não textual (nao_aplicavel).",
+    "Alterador 2, art. 1.º: art. 39.º n.º 10 regra III substituída; art. 40.º, 47.º, 55.º, 66.º, 108.º e 109.º com nova redação, depois revogados pelo alterador 8 (ficam (Revogado.); art. 108.º com a epígrafe da redação do alterador 2); art. 118.º n.º 1 substituído (n.os 2 e 3 mantidos).",
+    "Alterador 2, art. 1.º: a epígrafe da SUBSECÇÃO VI passa a «Pessoal técnico superior e técnico» (titulos).",
+    "Alterador 2, art. 2.º: disposição transitória autónoma; não altera o texto.",
+    "Alterador 2, art. 3.º: mapa I alterado só em imagem, sem título de anexo (nao_aplicavel).",
+    "Alterador 3 (Portaria 755/85): aumento do quadro em mapa só em imagem (nao_aplicavel).",
+    "Alterador 4, art. 1.º: art. 76.º com nova redação integral (6 números). Art. 2.º e 3.º autónomos.",
+    "Alterador 5, art. 1.º: art. 5.º e 65.º com nova redação, depois revogados pelo alterador 8. Art. 2.º autónomo; art. 3.º altera o quadro do DR 16/85 (outro diploma).",
+    "Alterador 6: art. 83.º n.º 2 substituído.",
+    "Alterador 7: art. 48.º n.º 5 substituído pelo texto do DR 20/89 (a instrução traz expressamente a nova redação do n.º 5, por isso não se mantém o n.º 5 antigo, ao contrário do reparo).",
+    "Alterador 8, art. 57.º b): revogados os art. 1.º a 30.º (incluindo o 3.º, que fica só (Revogado.)), 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, 49.º, 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º; alíneas a) e b) do n.º 1 do art. 48.º e alíneas b) e d) do art. 50.º revogadas. As chaves «15.º#2», «17.º#2», «18.º#2», «25.º#2» e «39.º#2» são artigos do DR 54/80 transcritos no art. 133.º e não são abrangidos.",
+    "Alterador 8, art. 10.º n.º 2: nova redação do art. 52.º anunciada sem texto (nao_aplicavel).",
+    "Alterador 9: altera o DL 408/93; a redação do art. 52.º no art. 55.º só tem «...», o art. 52.º fica igual (nao_aplicavel, outro diploma).",
+    "Alterador 10, art. 50.º i): revoga a alínea a) do n.º 1 do art. 105.º, que já estava revogado por inteiro pelo alterador 8; o art. 105.º fica (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

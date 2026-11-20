@@ -1,0 +1,15 @@
+[
+ {
+  "id": "pt:dre:172897:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação não aplicada: a Declaração de 12-07-1961 (DG I n.º 165, de 18-07-1961; pt:dre:172537:por, no acervo em data/portugal/declaracoes/1961/declaracao-1961-07-18-172537.md), que não está nas relationships nem entre os alteradores, retifica o § 3.º do artigo 17.º: onde se lê «o disposto nos artigos 13.º e 14.º do Decreto-lei n.º 40397» deve ler-se «o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397». O consolidado dá o art. 17.º igual ao original, com o texto por retificar. Texto certo do § 3.º: «É aplicável à exploração das apostas mútuas desportivas o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.»",
+   "Menor, sem efeito no texto: o Decreto-Lei n.º 317/2002 está entre os alteradores, mas só altera e republica o Decreto-Lei n.º 84/85 (arts. 1.º a 3.º); não toca neste diploma. O Decreto-Lei n.º 400/82 só manda considerar feitas ao novo Código Penal as remissões dos arts. 19.º e 20.º (não textual), e os arts. 19.º e 20.º estão bem iguais ao original.",
+   "Restantes alterações conferidas e certas: arts. 3.º (corpo do DL 47866; § 2.º revogado pelo DL 720/76 e reposto com als. a) a c) pelo DL 280/84), 4.º, 6.º (o DL 280/84 substitui os §§ 1.º e 2.º do DL 47866 por um só § 1.º; o «...» que se segue marca o salto do art. 7.º), 7.º (DL 720/76), 8.º (o § único do DL 47866 cai com a nova redação do DL 280/84), 9.º a 13.º (DL 280/84), 14.º e 15.º (DL 636/70, que absorve a al. a) do § 1.º do art. 14.º dada pelo DL 46449). As justificações dadas (prazos dos DL 47866 art. 4.º e DL 720/76 art. 2.º, revogação do art. 4.º do DL 47866, Portaria 1106/80, art. 6.º do DL 280/84) estão bem: não mudam o texto. A Declaração de 20-09-1967 (pt:dre:391609:por) retifica o art. 5.º do DL 47866, norma não inserida neste diploma."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado parcialmente, «na parte prejudicada», pelo art. 26.º, al. a), do Decreto-Lei n.º 84/85, de 28 de Março (relação repealed_by pt:dre:546379:por). É revogação tácita/indeterminada, sem artigos identificados; não muda o texto."
+  }
+ }
+]

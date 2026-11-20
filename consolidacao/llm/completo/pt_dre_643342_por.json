@@ -1,15 +1,27 @@
 {
   "id": "pt:dre:643342:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 155/87), art. 1.º: revoga o regime transitório do artigo 40.º 'na parte em que os seus efeitos não haviam cessado já' por força do Decreto-Lei n.º 93/75; é uma revogação parcial/condicionada que não se aplica ao texto. Alteradores 2 (Decreto-Lei n.º 228/89, extinção do Gabinete) e 3 (Decreto-Lei n.º 6/90, transmissão de imóveis) não contêm alterações textuais ao original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º (fim da proibição do n.º 1 do artigo 10.º do Decreto-Lei n.º 93/75): outro diploma (não toca no original)\nAlterador 2, extinção do Gabinete da Área de Sines (artigo 1.º) e regime da liquidação: não textual (extingue o organismo sem revogar nem alterar artigos do original; não traz cláusula revogatória do original)\nAlterador 3, transmissão dos imóveis do ex-GAS para o Estado e o IAPMEI: não textual (não traz instrução dirigida ao texto do original)",
   "instrucoes": [
-    "Alterador 1, art. 1.º: revogação do regime transitório do artigo 40.º na parte ainda não cessada - não aplicada ao texto (revogação condicionada).",
-    "Alterador 1, art. 2.º: refere-se ao Decreto-Lei n.º 93/75 - ignorado.",
-    "Alterador 2: extingue o Gabinete da Área de Sines e regula a liquidação - sem alteração textual ao original.",
-    "Alterador 3: transmissão de imóveis do ex-GAS para o Estado e IAPMEI - sem alteração textual ao original."
+    "Alterador 1, art. 1.º: revoga o regime transitório do artigo 40.º (na parte que ainda não tinha cessado por força do Decreto-Lei n.º 93/75); não é revogação condicional, revoga o que restava do regime - artigo 40.º fica '(Revogado.)'.",
+    "Alterador 1, art. 2.º: diz respeito ao artigo 10.º do Decreto-Lei n.º 93/75 - outro diploma (nao_aplicavel).",
+    "Alterador 2: extingue o Gabinete e regula a liquidação; sem revogação expressa nem alteração textual do original (nao_aplicavel).",
+    "Alterador 3: transmite os imóveis do ex-GAS; sem instrução ao texto do original (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

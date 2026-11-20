@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:201053:por",
+  "substituicoes": [
+   {
+    "de": 50,
+    "ate": 54,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 138,
+    "ate": 145,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 147,
+    "ate": 149,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 152,
+    "ate": 158,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 161,
+    "ate": 163,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 165,
+    "ate": 172,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 174,
+    "ate": 179,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 182,
+    "ate": 184,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 71.º, alínea a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo incerto: o alterador não diz quais são as bases e várias só em parte tratam da previdência (por exemplo as bases IV, XI, XVIII, XXIX a XXXI), por isso não se sabe com segurança a que unidades se aplica",
+  "instrucoes": [
+   "Alterador 1 (DL 81/85), artigo 71.º, alínea a): revogadas as bases VIII e XXII a XXVIII da Lei n.º 2144. Em cada uma fica a unidade 'BASE …' do texto atual e a epígrafe e o corpo (unidades seguintes até ao fim da base) passam a '(Revogada.)'. Corrige os reparos: já não se escreve 'BASE … - (Revogada.)' num só parágrafo.",
+   "Alterador 1, artigo 71.º, alínea a), segunda parte (demais bases sobre previdência e assistência): não aplicada, alvo incerto (nao_aplicavel).",
+   "Alterador 1, artigos 11.º e 67.º e preâmbulo: referem a Lei n.º 2144 sem lhe alterar o texto (substituição do regime); nada aplicado além da revogação.",
+   "Alterador 1, restantes alíneas do artigo 71.º e demais artigos: dirigidos a outros diplomas ou normas próprias; ignorados."
+  ]
+ }
+]

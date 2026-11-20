@@ -148,16 +148,33 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "A al. h) do n.º 1 do art. 33.º do DL 298/2009 revoga também os anexos I e II (mapas), que não vêm no texto atual como artigos: não representado.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — MAPA A",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "titulo": "## ANEXO II — MAPA A",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, artigos 1.º, 2.º, 4.º e 5.º (Lei Orgânica da GNR e Estatuto dos Militares da GNR, incluindo o artigo 266.º a que o original deu redação): outro diploma\nAlterador 3, declaração de inconstitucionalidade da alínea c), n.º 1), do artigo 266.º do Estatuto dos Militares da GNR: outro diploma (norma do Estatuto, não do original)\nAlterador 4, artigo 1.º (artigo 10.º do Decreto-Lei n.º 265/93, na redação dada pelo original) e restantes artigos (Estatuto dos Militares da GNR): outro diploma\nAlterador 5, não contagem do tempo de serviço para progressão e congelamento dos suplementos até 31/12/2006: não textual (suspensão temporária sem alterar o texto)",
   "instrucoes": [
-    "DL 174/2000 art. 1.º: nova redação dos arts. 12.º, 13.º (n.os 4 e 5) e 18.º, aplicada (o 18.º fica depois revogado)",
-    "DL 15/2002 art. 3.º: nova redação das als. c) e d) do n.º 1 do art. 12.º, aplicada; o reparo do verificador (al. c) do DL 174/2000 e sem al. d)) não procede, a instrução existe e o DL 181/2005 confirma-a; os arts. 1.º e 2.º alteram outros diplomas: ignorados",
-    "Acórdão 562/2003 e DL 119/2004: incidem sobre o Estatuto dos Militares da GNR (DL 265/93): ignorados",
-    "Lei 43/2005: sem instrução dirigida ao original",
-    "DL 181/2005 art. 1.º: nova redação do n.º 6 do art. 12.º, aplicada",
-    "DL 298/2009 art. 33.º, n.º 1, al. h): revoga o DL 504/99 exceto os arts. 12.º, 13.º e 14.º: arts. 1.º-11.º e 15.º-25.º revogados"
+    "Alterador 1, art. 1.º: nova redação dos artigos 12.º (inteiro, 7 números), 13.º (n.os 4 e 5; restantes '...' mantidos) e 18.º (inteiro); o 18.º acabou revogado pelo alterador 7.",
+    "Alterador 2, art. 3.º: nova redação das alíneas c) e d) do n.º 1 do artigo 12.º (d aditada); restantes '...' mantidos. O reparo que pedia a alínea c) do DL 174/2000 e sem d) não se confirma: o DL 15/2002 altera expressamente o n.º 1 e o DL 181/2005 mantém o n.º 1 ('1 - ...') na redação do DL 15/2002.",
+    "Alterador 2, arts. 1.º, 2.º, 4.º, 5.º: outros diplomas; nao_aplicavel.",
+    "Alterador 3: acórdão sobre o artigo 266.º do Estatuto dos Militares da GNR; outro diploma; nao_aplicavel.",
+    "Alterador 4: alterações ao DL 265/93 e ao Estatuto; outro diploma; nao_aplicavel.",
+    "Alterador 5: congelamento de progressões e suplementos; não textual; nao_aplicavel.",
+    "Alterador 6, art. 1.º: nova redação do n.º 6 do artigo 12.º (alíneas a) e b)); restantes números mantidos.",
+    "Alterador 7, art. 33.º, n.º 1, al. h): revoga o DL 504/99 exceto os artigos 12.º, 13.º e 14.º; artigos 1.º a 11.º e 15.º a 25.º ficam '(Revogado.)' e os corpos dos anexos I e II (mapas) também; 12.º, 13.º e 14.º mantêm-se."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

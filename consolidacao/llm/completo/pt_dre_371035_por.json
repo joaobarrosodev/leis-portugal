@@ -97,14 +97,24 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Reparo ao artigo 26.º (dúvida): as remissões «[Anterior alínea X).]» do DL 119/2003 só batem com o texto se se contar a lista atual sem a alínea b) (Agência de Inovação, que o mesmo diploma passa para o n.º 2 do art. 27.º como sociedade anónima): anterior c) = IGM, d) = INETI, e) = INPI, i) = Agência Sócrates/Leonardo, j) = CNE, l) = ITN, m) = INSA, n) = CITE, o) = CNPCJR, p) = IEFP, q) = Inovinter, r) = SCML, s) = LNEC. É essa a leitura que a republicação anexa ao próprio DL 119/2003 (e as dos DL 20/2004 e 176/2004) confirma, e as remissões do DL 20/2004 (sobre a redação do 119/2003) batem com ela sem desvios. Saem APAD, IIPM, INIA e ANEFA, substituídos pelas novas alíneas e) INIAP e f) LNIV; entra j) Instituto de Genética Médica. As alíneas que só mudam de letra copiam o texto atual letra a letra (por isso f) e m) mantêm a redação atual, que difere da republicação).",
-    "DL 119/2003 (1): art. 6.º n.º 2 (nova b), c) e d) = anteriores b) e c)); os n.os 3 e 4 do art. 6.º passam a n.os 2 e 3 do novo art. 6.º-A (o 6.º fica só com os n.os 1 e 2); 6.º-A corrigido, pois o programa deixara os marcadores «(Anterior n.º 3/4 do artigo 6.º)» em vez do texto; arts. 9.º n.º 1, 14.º n.º 2, 17.º n.º 4, 20.º n.º 2, 24.º n.º 2, 25.º n.os 2 e 6 c), 26.º, 27.º, 29.º n.º 2, 30.º n.º 2 e 31.º n.º 2.",
-    "DL 20/2004 (2): art. 18.º n.º 1; art. 26.º (nova b) INETI, nova l) CITE, restantes renumeradas).",
-    "DL 176/2004 (3): art. 9.º n.º 4 d) revogada; art. 25.º n.º 2, novos n.os 6 e 7, n.º 8 = anterior n.º 6; aditado o art. 32.º-A.",
-    "As republicações anexas aos três decretos-leis trocam também «Ministra» por «Ministro» e fazem outros acertos de redação em artigos que nenhuma instrução altera (p. ex. arts. 2.º, 7.º, 13.º, 33.º); não foram aplicados por não haver instrução de alteração."
+    "Alterador 1, art. 1.º, art. 6.º: n.º 2 com nova alínea b) e anteriores b) e c) passam a c) e d); os n.os 3 e 4 passam para o novo artigo 6.º-A (como na republicação), pelo que o artigo 6.º fica só com os n.os 1 e 2.",
+    "Alterador 1, art. 2.º: aditado o artigo 6.º-A; n.os 2 e 3 recebem o texto dos anteriores n.os 3 e 4 do artigo 6.º (corrige a redação do programa, que deixara as remissões literais).",
+    "Alterador 1, art. 1.º, art. 9.º: nova redação do n.º 1; restantes números mantidos.",
+    "Alterador 1, art. 1.º, arts. 14.º, 17.º, 20.º, 24.º, 29.º, 30.º e 31.º: nova redação dos números indicados; restantes mantidos.",
+    "Alterador 1, art. 1.º, art. 25.º: nova redação do n.º 2 e da alínea c) do n.º 6.",
+    "Alterador 1, art. 1.º, art. 26.º: novo proémio sem numeração e nova ordenação das alíneas; as remissões 'anterior alínea X)' estão deslocadas uma letra em relação ao texto atual (a alínea b) do original, Agência de Inovação, deixa de constar), e foram resolvidas pela republicação anexa ao próprio alterador: b) IGM (atual d), c) INETI (atual e), d) INPI (atual f), e) INIAP e f) LNIV novas, g)-i) atuais j), l), m), j) Instituto de Genética Médica novo, l)-r) atuais n)-t); desaparecem Agência de Inovação, APAD, IIPM, INIA e ANEFA. Texto das alíneas movidas copiado do texto atual.",
+    "Alterador 1, art. 1.º, art. 27.º: nova redação (n.os 1 e 2).",
+    "Alterador 2, art. 1.º, art. 18.º: nova redação do n.º 1.",
+    "Alterador 2, art. 1.º, art. 26.º: nova alínea b) (INETI), alíneas c) a j) e m) a q) passam a ser as anteriores d) a l) e n) a r), nova alínea l) (CITE).",
+    "Alterador 3, art. 1.º, art. 9.º: revogada a alínea d) do n.º 4.",
+    "Alterador 3, art. 1.º, art. 25.º: nova redação do n.º 2, novos n.os 6 e 7, anterior n.º 6 passa a n.º 8.",
+    "Alterador 3, art. 2.º: aditado o artigo 32.º-A.",
+    "Normas de produção de efeitos e republicação dos alteradores: não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

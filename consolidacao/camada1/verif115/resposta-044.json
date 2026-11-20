@@ -1,0 +1,200 @@
+[
+ {
+  "id": "pt:dre:223017:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 46/2002 art. 5.º n.º 1 adita alínea g) ao n.º 2 do art. 3.º; consolidado tem-na após f), texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 40/2002 art. 1.º dá nova redação ao art. 7.º: n.º 1 novo e n.º 2 = anterior n.º 3; consolidado corresponde letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 46/2002 art. 6.º n.º 1 b) revoga os n.os 2 e 3 do art. 12.º do DL 339/98; consolidado tem '2 - (Revogado.)' e '3 - (Revogado.)', n.º 1 intacto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46/2002, art. 6.º n.º 1 d): revoga todos os preceitos que contrariem o diploma",
+    "motivo": "Revogação condicional; não se aplica ao texto"
+   },
+   {
+    "instrucao": "DL 251-A/2015 (alterador sem texto)",
+    "motivo": "O diploma que altera não traz o texto da alteração (sem artigos no pedido)"
+   },
+   {
+    "instrucao": "DL 169-B/2019 (alterador sem texto)",
+    "motivo": "O diploma que altera não traz o texto da alteração (sem artigos no pedido)"
+   },
+   {
+    "instrucao": "DL 32/2022 (alterador sem texto)",
+    "motivo": "O diploma que altera não traz o texto da alteração (sem artigos no pedido)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:226629:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Art. 70.º n.º 1 DL 124/99 revoga o Estatuto; art. 1.º não está nas exceções; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Mantêm-se n.os 1 e 2; n.os 3 a 5 revogados (fora das exceções). Consolidado correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "dúvida",
+    "motivo": "n.º 1, alínea a) do n.º 2, n.os 3 e 4 revogados e d) do n.º 2 mantida (correto); mas as alíneas b) e c) do n.º 2 só mantêm a 'parte inicial' e o consolidado deixou-as inteiras (alvo incerto: DL 219/92 art. 70.º n.º 1 revoga o Estatuto sem prejuízo da manutenção da 'parte inicial das alíneas b) e c)' do n.º 2 do art. 10.º; o texto não diz onde acaba a parte inicial, logo não se sabe que parte final dessas alíneas fica revogada; o consolidado manteve-as inteiras).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Art. 62.º n.º 3 DL 124/99: n.º 4 com nova redação; consolidado igual letra a letra, n.os 1 a 3 intactos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1; revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Fora das exceções do art. 70.º n.º 1 (mantêm-se só arts. 2, 3 n.1-2, 6, 10 n.2 parte, 11 a 21); corpo '(Revogado.)'; assinaturas do art. 34 mantidas.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "alvo incerto: DL 219/92 art. 70.º n.º 1 revoga o Estatuto sem prejuízo da manutenção da 'parte inicial das alíneas b) e c)' do n.º 2 do art. 10.º; o texto não diz onde acaba a parte inicial, logo não se sabe que parte final dessas alíneas fica revogada; o consolidado manteve-as inteiras"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 62.º n.º 4: referências ao CRAF nas disposições mantidas consideram-se feitas ao conselho científico",
+    "motivo": "Mudança de designação sem nova redação; não textual"
+   },
+   {
+    "instrucao": "Art. 62.º n.os 1 e 2, arts. 64.º, 67.º e 69.º do DL 124/99",
+    "motivo": "Regime transitório/normas autónomas que só remetem para o original; não alteram o texto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

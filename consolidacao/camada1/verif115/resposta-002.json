@@ -1,0 +1,89 @@
+[
+ {
+  "id": "pt:dre:189484:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'. Art. 4.º: a alteração da al. d) do n.º 2 pela Lei 3/2010 fica superada pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'. Art. 7.º: epígrafe 'Procedimentos especiais' dada pelo DL 107/2005 (art. 5.º); texto superado pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º, n.º 1 do DL 62/2013 (revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º); epígrafe mantida; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 324/2003 (texto omitido pela triagem): altera o regime anexo ao DL 269/98, não o DL 32/2003",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 107/2005, arts. 1.º a 4.º e 6.º (alteração, aditamento, revogação e republicação do DL 269/98 e do seu regime anexo)",
+    "motivo": "instrução de outro diploma; confirmado no texto: só o art. 5.º visa o DL 32/2003"
+   },
+   {
+    "instrucao": "Lei 14/2006, DL 303/2007, Lei 67-A/2007, DL 34/2008, DL 226/2008 (textos omitidos): alteram o regime anexo ao DL 269/98",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Lei 3/2010, arts. 3.º e 4.º (alteração e aditamento ao Código dos Contratos Públicos)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 62/2013, art. 11.º (alteração do art. 102.º do Código Comercial) e demais artigos que não visam o DL 32/2003",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 62/2013, art. 13.º, n.º 2 (remissões para o DL 32/2003 consideram-se feitas para o novo diploma)",
+    "motivo": "não é textual: regra de remissão sem nova redação"
+   },
+   {
+    "instrucao": "Acórdão do TC 99/2019: inconstitucionalidade de n.os 3 e 5 do art. 12.º do regime anexo ao DL 269/98",
+    "motivo": "outro diploma e declaração de inconstitucionalidade sem eliminar texto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

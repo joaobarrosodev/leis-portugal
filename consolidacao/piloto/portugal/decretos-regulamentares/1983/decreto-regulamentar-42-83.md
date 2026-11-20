@@ -517,7 +517,7 @@ e) Investigadores, mediante provas de selecção, que têm de incluir um trabalh
 
 2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas candidatos com classificação não inferior a 16 valores ou a Bom com distinção no curso de pós-graduação, e às provas de selecção para economistas licenciados com a classificação não inferior a 14 valores.
 
-##### SUBSECÇÃO VI — Pessoal técnico superior
+##### SUBSECÇÃO VI — Pessoal técnico superior e técnico
 
 ###### Artigo 53.º — (Nomeação de técnicos economistas)
 

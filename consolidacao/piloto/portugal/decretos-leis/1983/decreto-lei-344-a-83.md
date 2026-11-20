@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:401354:por
-    title: Decreto-Lei n.º 388/84
-    publication_date: '1984-12-10'
   - id: pt:dre:291837:por
     title: Decreto-Lei n.º 279-A/85
     publication_date: '1985-07-19'
+  - id: pt:dre:401354:por
+    title: Decreto-Lei n.º 388/84
+    publication_date: '1984-12-10'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -93,7 +93,7 @@ h) Ministro do Trabalho e Segurança Social;
 
 i) Ministro da Saúde;
 
-j) Ministro da Agricultura, Florestas e Alimentação;
+j) Ministro da Agricultura;
 
 l) Ministro da Indústria e Energia;
 
@@ -103,11 +103,11 @@ n) Ministro da Cultura;
 
 o) Ministro do Equipamento Social;
 
-p) Ministro da Qualidade de Vida;
+p) Ministro dos Assuntos Parlamentares;
 
-q) Ministro dos Assuntos Parlamentares;
+q) Ministro do Mar.
 
-r) Ministro do Mar.
+> Alterado pelo/a [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.
 
 ###### Artigo 3.º
 
@@ -131,11 +131,17 @@ b) Secretário de Estado Adjunto do Primeiro-Ministro;
 
 c) Secretário de Estado Adjunto do Vice-Primeiro-Ministro;
 
-d) Secretário de Estado Adjunto do Ministro de Estado;
+d) Secretário de Estado dos Desportos;
 
-e) Secretário de Estado da Administração Pública;
+e) Secretário de Estado do Ambiente;
 
-f) Secretário de Estado do Fomento Cooperativo.
+f) Secretário de Estado Adjunto do Ministro de Estado;
+
+g) Secretário de Estado da Administração Pública;
+
+h) Secretário de Estado do Fomento Cooperativo.
+
+> Alterado pelo/a [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.
 
 ###### Artigo 7.º
 
@@ -177,7 +183,13 @@ n) Ao Grupo Executivo da Navegabilidade do Douro.
 
 ###### Artigo 8.º
 
-O Vice-Primeiro-Ministro é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro.
+1 - O Vice-Primeiro-Ministro é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro.
+
+2 - As Secretarias de Estado dos Desportos e do Ambiente são colocadas na directa dependência do Vice-Primeiro-Ministro.
+
+3 - As competências atribuídas por lei ao Ministro da Qualidade Vida passam a ser exercidas pelo Vice-Primeiro-Ministro.
+
+> Alterado pelo/a [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.
 
 ###### Artigo 9.º
 
@@ -243,15 +255,13 @@ c) Secretaria de Estado da Segurança Social.
 
 ###### Artigo 16.º
 
-O Ministério da Agricultura, Florestas e Alimentação compreende as seguintes secretarias de Estado:
+O Ministério da Agricultura compreende as seguintes secretarias de Estado:
 
-a) Secretaria de Estado da Agricultura;
+a) Secretaria de Estado da Produção Agrícola;
 
-b) Secretaria de Estado das Florestas;
+b) Secretaria de Estado do Comércio e Indústrias Agrícolas.
 
-c) Secretaria de Estado da Alimentação;
-
-d) Secretaria de Estado das Estruturas e Recursos Agrários.
+> Alterado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354), publicado em 1984-12-10.
 
 ###### Artigo 17.º
 
@@ -287,7 +297,7 @@ d) Secretaria de Estado das Comunicações.
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354) e [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.
+> Revogado pelo/a [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.
 
 ###### Artigo 21.º
 
@@ -311,9 +321,11 @@ Conselho de Ministros
 
 2 - Os ministros da República para as regiões autónomas têm assento no Conselho de Ministros nas reuniões que tratem de assuntos de interesse para as respectivas regiões.
 
-3 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão nas reuniões do Conselho de Ministros, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.
+3 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjundo do Primeiro-Ministro, o Secretário de Estado Adjunto do Vice-Primeiro-Ministro e o Secretário de Estado da Administração Pública.
 
 4 - Podem ser especialmente convocados pelo Primeiro-Ministro, por sua iniciativa ou a solicitação do respectivo ministro, para participarem, sem direito de voto, nas reuniões do Conselho de Ministros os restantes secretários de Estado e o Subsecretário de Estado do Orçamento, bem como o presidente da Comissão para a Integração Europeia.
+
+> Alterado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354), publicado em 1984-12-10.
 
 ###### Artigo 24.º
 
@@ -327,7 +339,7 @@ c) O Ministro das Finanças e do Plano;
 
 d) O Ministro do Trabalho e Segurança Social;
 
-e) O Ministro da Agricultura, Florestas e Alimentação;
+e) O Ministro da Agricultura [...]
 
 f) O Ministro da Indústria e Energia;
 
@@ -340,6 +352,8 @@ i) O Ministro do Mar.
 2 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão também nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.
 
 3 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros ministros e secretários de Estado, o presidente da Comissão para a Integração Europeia ou o Subsecretário de Estado do Orçamento, quando os assuntos a tratar se relacionem com os respectivos departamentos.
+
+> Alterado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354), publicado em 1984-12-10.
 
 ###### Artigo 25.º
 
@@ -437,7 +451,9 @@ c) A Secretaria de Estado do Ordenamento e Ambiente passa a denominar-se Secreta
 
 ###### Artigo 33.º
 
-É criado o Ministério da Agricultura, Florestas e Alimentação, o qual integra os serviços anteriormente integrados no extinto Ministério da Agricultura, Comércio e Pescas, à excepção dos da Secretaria de Estado das Pescas, agora integrados no Ministério do Mar, e dos da Secretaria de Estado do Comércio, agora integrados no Ministério do Comércio e Turismo.
+É criado o Ministério da Agricultura, o qual integra os serviços anteriormente integrados no extinto Ministério da Agricultura, Florestas e Alimentação.
+
+> Alterado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354), publicado em 1984-12-10.
 
 ###### Artigo 34.º
 

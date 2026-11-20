@@ -1,0 +1,113 @@
+[
+ {
+  "id": "pt:dre:312427:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º dá nova redação integral ao art. 2.º (com o ponto final depois de «colectivas» e as alíneas a) a e) renumeradas); consolidado igual letra a letra; a al. e) do DL 235-A/83 fica superada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 32/85 art. 3.º aplicada letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º: n.º 1 e novo n.º 2, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º: n.os 1 e 5 novos, n.os 2 a 4 «...» mantidos; consolidado igual. O art. 6.º do DL 32/85 repete o prazo de 3 meses já dado pelo art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "dúvida",
+    "motivo": "DL 32/85 art. 3.º só dá o n.º 1 novo (sem «2 - ...» nem «3 - ...»); o consolidado manteve os n.os 2 e 3 do original. Lido à letra, a nova redação do artigo seria só o n.º 1; se os n.os 2 e 3 se mantêm é interpretação. N.º 1 do consolidado está certo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83: n.º 1 com «exibição», n.os 2 a 4 «...»; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º: n.os 1 e 2 «...», novo n.º 3; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º: n.º 1 «...», novo n.º 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "DL 32/85 art. 3.º: n.º 4 novo («6 meses após a sua emissão.»), restantes «...»; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83: n.º 1 «...», n.º 2 novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "DL 433/83 art. 1.º: n.º 1 «...», n.os 2 e 3 novos; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83: n.os 1 e 2 «...», novos n.os 3 e 4; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83: nova redação com n.os 1 a 3; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83 al. e): «15.º, 19.º, 20.º, 25.º e 63.º» (vírgula e aditamento do 63.º); resto igual, incluindo o quadro final em imagem.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria n.º 310/84, n.º 1.º: aumento do quadro de pessoal a que se refere o n.º 1 do artigo 76.º (anexo em imagem). O texto do alterador vem omitido na vista, não posso confirmar que seja só imagem, e o consolidado tem um quadro com título («Quadro de pessoal a que se refere o n.º 1 do artigo 76.º do Decreto-Lei n.º 144/83») no fim do art. 92.º, ainda com a imagem do original; alvo incerto/não verificável.",
+   "Portaria n.º 364/85, n.º 1.º: aumento do quadro de pessoal (mapa anexo): mesmo ponto; quadro com título existe no art. 92.º e mantém a imagem original; não confirmável (texto omitido).",
+   "Portaria n.º 316/87, n.º 14.º: novo quadro (anexo XII): mesmo ponto; não confirmável (texto omitido); o quadro do art. 92.º mantém a imagem original.",
+   "Despacho Normativo n.º 260/91, n.º 1: quadro de pessoal do GEP: mesmo ponto; não confirmável (texto omitido).",
+   "Despacho Normativo n.º 30/92, n.º 1: lugar de assessor principal no quadro: mesmo ponto; não confirmável (texto omitido).",
+   "Despacho Normativo n.º 156/94, n.º 1: lugar de assessor principal no quadro: mesmo ponto; não confirmável (texto omitido).",
+   "Portaria n.º 306/96, n.º 1.º: aumento do quadro de pessoal (mapa anexo): mesmo ponto; não confirmável (texto omitido)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 433/83 art. 2.º: prazos do n.º 1 do art. 85.º e do art. 86.º prorrogados até 31 de Março de 1984",
+    "motivo": "prorrogação sem nova redação; confirmado no texto do alterador"
+   },
+   {
+    "instrucao": "DL 32/85 art. 6.º: passa a ser de 3 meses o prazo do art. 31.º",
+    "motivo": "o art. 3.º do mesmo diploma já dá a nova redação dos n.os 1 e 5 com «3 meses» e mantém os n.os 2 a 4 («...»); o art. 6.º não dá redação própria e foi aplicado através do art. 3.º"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

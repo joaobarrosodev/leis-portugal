@@ -16,18 +16,24 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 7 (DL 314-A/2002): o art. 4.º, n.º 1, revoga o art. 4.º do DL 330-A/95 (norma de outro diploma, que aditou o n.º 9 da base I) e repristina o regime de portagem da alínea h) do n.º 1 da base I; o n.º 2 e os anexos I e II alteram as bases anexas ao DL 294/97, não as do original. Não há instrução textual dirigida ao original, pelo que o n.º 9 da base I se mantém tal como aditado pelo alterador 4. Os quadros de lanços (base I, n.º 3; base VII) e o quadro do art. 2.º do DL 81/96 só vêm em imagem.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, ampliação da concessão ao lanço Malveira-Torres Vedras (RCM 46/93): não textual — amplia o objecto da concessão sem alterar o texto das bases.\nAlterador 4, artigo 7.º, alínea a) (exoneração do reembolso do empréstimo do n.º 2 do artigo 3.º): não textual — não altera o texto do artigo 3.º.\nAlterador 5, ampliação da concessão aos sublanços Évora Este-Estremoz e Setúbal-Montijo (DL 81/96): não textual — amplia o objecto da concessão sem alterar o texto das bases.\nAlterador 7, artigo 4.º, n.º 1 (revogação do artigo 4.º do DL 330-A/95, com repristinação do regime de portagem da alínea h) do n.º 1 da base I): outro diploma — revoga um artigo do DL 330-A/95, não o texto do original; o n.º 9 da base I mantém-se.\nAlterador 7, artigo 4.º, n.º 2 e anexo I (alterações às bases I e XXVII anexas ao DL 294/97, incluindo a eliminação do n.º 9 da base I): outro diploma — são as bases do DL 294/97, não as do original.",
   "instrucoes": [
-    "Alterador 1 (DL 12/92), artigo único: adita o artigo 2.º-A (zonas de servidão non aedificandi) - aditado como artigo novo.",
-    "Alterador 2 (DL 193/92): nova redação da base XVIII (n.os 1 a 5 mantidos; n.os 6 a 12 novos em lugar dos antigos 6 e 7) - aplicado no lugar, dentro do artigo 5.º (que contém as bases; o artigo leva alterador 4, o da última mudança).",
-    "Alterador 3 (RCM 46/93): amplia a concessão ao lanço Malveira-Torres Vedras sem alterar o texto das bases - nada a aplicar.",
-    "Alterador 4 (DL 330-A/95): arts. 1.º, 2.º, 5.º e 8.º vêm revogados (sem texto); art. 3.º adita o n.º 8 à base I e art. 4.º o n.º 9 (alíneas a) a d)), postos no fim da base I depois do n.º 7; art. 6.º dá nova redação à base XLIII (prazo até 31 de Dezembro de 2025), substituída no lugar; art. 7.º tem medidas financeiras não textuais.",
-    "Reparos do verificador: confirmados os n.os 8 e 9 da base I no lugar e a base XLIII substituída, sem blocos soltos; o bloco de n.os 6 a 12 não é invenção - vem do alterador 2 e fica na base XVIII.",
-    "Alterador 5 (DL 81/96): amplia a concessão (sublanços da A 6 e da A 12) sem alteração textual - nada a aplicar.",
-    "Alterador 6 (DL 474-A/99, Lei Orgânica do XIV Governo): sem instruções dirigidas ao original - nada a aplicar.",
-    "Alterador 7 (DL 314-A/2002): revoga o art. 4.º do DL 330-A/95 e altera as bases anexas ao DL 294/97 - instruções a outros diplomas, ignoradas (ver nao_aplicavel)."
+    "Alterador 1 (DL 12/92), artigo único: aditado o artigo 2.º-A — acrescentado com o texto do alterador.",
+    "Alterador 2 (DL 193/92): nova redacção da base XVIII (n.os 1 a 5 mantidos, n.os 6 a 12 novos) — aplicada no artigo 5.º, no lugar da base XVIII; saem os antigos n.os 6 e 7. O reparo que dava a base XVIII como inalterada não se confirma: o DL 193/92 dirige-se às bases aprovadas pelo DL 315/91.",
+    "Alterador 3 (RCM 46/93): ampliação da concessão, sem alteração do texto — em nao_aplicavel.",
+    "Alterador 4 (DL 330-A/95), artigo 3.º: aditado o n.º 8 à base I — inserido no fim da base I, depois do n.º 7.",
+    "Alterador 4 (DL 330-A/95), artigo 4.º: aditado o n.º 9 à base I, com as alíneas a) a d) — inserido a seguir ao n.º 8.",
+    "Alterador 4 (DL 330-A/95), artigo 6.º: nova redacção da base XLIII (2025) — substituída no seu lugar.",
+    "Alterador 5 (DL 81/96): ampliação da concessão, sem alteração do texto — em nao_aplicavel.",
+    "Alterador 6 (DL 474-A/99): lei orgânica do Governo, sem instrução dirigida ao original.",
+    "Alterador 7 (DL 314-A/2002): revoga o artigo 4.º do DL 330-A/95 e altera as bases anexas ao DL 294/97 — outro diploma, em nao_aplicavel.",
+    "Nada foi inserido no topo do artigo 5.º; o resto do artigo fica como no texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

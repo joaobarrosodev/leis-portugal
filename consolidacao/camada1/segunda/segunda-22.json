@@ -1,0 +1,25 @@
+[
+  {
+    "id": "pt:dre:419781:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação não aplicada: a Declaração de 29/09/1987 (DR I, n.º 225, 2.º supl., de 30/09/1987; pt:dre:647304:por, relação corrected_by, no acervo em data/portugal/declaracoes/1987/declaracao-1987-09-30-647304.md) não está entre os alteradores. Retifica o artigo 17.º, n.º 1, alínea a): onde se lê «Vidreira do Norte» deve ler-se «Videira do Norte». O artigo 17.º do consolidado é igual ao original e mantém «Vidreira do Norte (Mira)». As outras retificações da declaração são ao mapa I, que só existe em imagem.",
+      "Artigo 14.º: no original, o corpo do artigo está no elemento «##### Divisão de Protecção à Produção Vegetal» que vem a seguir a «###### Artigo 14.º» (texto: «... sem prejuízo das atribuídas no n.º 4 do artigo 9.º à DV (Estação Vitivinícola da Beira Litoral).»). O consolidado pôs a nova redação do DL 184/90 (art. 2.º) dentro do «Artigo 14.º», mas a vista dá esse elemento «Divisão de Protecção à Produção Vegetal» como igual ao original. Então o texto antigo, que foi substituído, continua no consolidado logo a seguir ao novo, e o artigo fica duplicado. O artigo 14.º deve ter só: «A DPPV tem as competências referidas no n.º 2 do artigo 15.º do Decreto-Lei n.º 190/86, de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral.»"
+    ],
+    "vigencia": {
+      "conclusao": "substituido",
+      "prova": "O Decreto Regulamentar n.º 15/97 aprovou uma nova Lei Orgânica da Direcção Regional de Agricultura da Beira Litoral, sem revogação expressa no texto. Depois, o DR 12/2007 revogou o DR 15/97 (art. 13.º, n.º 2, al. c)) e determinou que a DRAP do Centro sucede nas atribuições da DRABL (art. 11.º, n.º 2)."
+    }
+  },
+  {
+    "id": "pt:dre:632740:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Revogação em falta: o Decreto-Lei n.º 33/73, de 6 de Fevereiro (repealed_by pt:dre:684868:por), diz no art. 22.º: «São revogados os n.os 3 e 4 do artigo 15.º do Decreto-Lei n.º 414/71». O artigo 15.º do consolidado é igual ao original e mantém os n.os 3 e 4. Devem ficar «3. (Revogado.)» e «4. (Revogado.)».",
+      "Revogação em falta: o Decreto Regulamentar n.º 87/77, de 30 de Dezembro (repealed_by pt:dre:176479:por), diz no art. 8.º: «São revogados os artigos 34.º e 37.º do Decreto-Lei n.º 414/71 [...] e bem assim as alíneas IV) e VI) do mapa II». Os artigos 34.º e 37.º do consolidado são iguais ao original. Devem ficar «(Revogado.)». A parte do mapa II só existe em imagem.",
+      "Revogação em falta: o Decreto-Lei n.º 305/81, de 12 de Novembro (repealed_by pt:dre:568308:por), revoga no art. 20.º, al. c), as «Secções VI, VII e VIII do capítulo II do Decreto-Lei n.º 414/71», isto é, os artigos 29.º a 33.º. O consolidado mantém os artigos 30.º a 33.º iguais ao original e o artigo 29.º na redação do DL 331/72. Os artigos 29.º, 30.º, 31.º, 32.º e 33.º devem ficar «(Revogado.)».",
+      "Nota, sem reparo: o DL 674/75 revoga o diploma «no que diz respeito às designações de chefe de serviço e director de serviço de hospital central e de director de serviço de hospital distrital». É uma revogação material, sem preceitos identificados, e não se aplica ao texto. O DL 519-N1/79 (art. 18.º, n.º 2) revoga o diploma quanto à carreira médica de saúde pública, mas o art. 2.º do DL 81/80 mantém em vigor as normas revogadas. Em nenhum dos dois casos o texto muda. O Decreto n.º 534/76 só toca o mapa II, que só existe em imagem."
+    ],
+    "vigencia": null
+  }
+]

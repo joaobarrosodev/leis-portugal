@@ -1,0 +1,49 @@
+[
+ {
+  "id": "pt:dre:431793:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "Definições",
+    "texto": "1 - Para efeitos do presente diploma, considerando-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) Rendimento médio mensal bruto (Rmb) - quantitativo que resulte da divisão por 12 dos rendimentos auferidos por todos os elementos do agregado familiar no ano civil anterior ao da candidatura;\n\nf) Salário mínimo nacional (Smn) - média das remunerações mínimas mensais garantidas e aprovadas para a generalidade dos trabalhadores, reportadas ao ano anterior ao da candidatura;\n\ng) Área bruta (A) - somatório do espaço circunscrito pelas paredes exteriores da habitação, que pode desenvolver-se num ou mais pisos;\n\nh) Factor familiar (Ff) - factor de bonificação, que contempla o número de dependentes do agregado familiar, resultante da fórmula seguinte, em que y representa o número de dependentes do agregado familiar padrão, a fixar por resolução do Governo Regional dos Açores:\n\nFf = Nd/y\n\ni) Factor económico (Fe) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla o valor do salário mínimo nacional e o rendimento médio mensal bruto e em que n representa o número de salários mínimos, a fixar por resolução do Governo Regional dos Açores:\n\nFe = (n x Smn)/Rmb\n\nj) Factor habitação (Fh) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla a área da habitação e em que X representa a área por dependente, a fixar por resolução do Governo Regional dos Açores:\n\nFh = (Nd x X)/A\n\nl) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:\n\nAp = (((Ff + Fe + Fh)/3z) + 1) x Vp\n\nm) Rendimentos - remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho que revistam carácter certo e permanente, os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos, as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória;\n\nn) Situação habitacional não resolvida - toda aquela situação em que se encontre uma pessoa singular de não ter uma habitação com as condições de habitabilidade mínimas e ou adequadas ao seu agregado familiar, não as podendo obter por outros mecanismos legais que não os definidos no presente diploma;\n\no) Agregado familiar em situação de desequilíbrio sócio-económico - traduz uma relação desajustada com o contexto sócio-económico e habitacional onde se insere, na medida em que não consegue gerar e ou gerir os recursos necessários para a satisfação das suas necessidades básicas, nomeadamente alimentação, vestuário, habitação, saúde e educação.\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.",
+    "alterador": 3
+   },
+   {
+    "chave": "24.º",
+    "epigrafe": "Requisitos de acesso",
+    "texto": "1 - Constituem requisitos de acesso ao apoio à aquisição de habitação própria os seguintes:\n\na) Não ter sido, ou estar a ser, o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por qualquer programa de apoio à habitação;\n\nb) Não ter a sua situação habitacional resolvida nos termos definidos na alínea m) do artigo 3.º do presente diploma;\n\nc) O requerente não possuir, nem qualquer outro elemento do seu agregado familiar, prédios urbanos ou rústicos, excepto se os prédios rústicos forem a única fonte de rendimento do agregado e, sendo estes passíveis de ser urbanizados, não tenham uma área superior a 1400 m2;\n\nd) Não exceder a área bruta da habitação a adquirir os valores limite fixados na alínea g) do artigo 19.º;\n\ne) Não ser o rendimento médio mensal bruto do candidato ou do agregado superior:\n\ni) A 2,5 salários mínimos nacionais, no caso de o candidato concorrer sozinho;\n\nii) A 3,5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 2 elementos;\n\niii) A 5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 3 ou 4 elementos;\n\niv) A 6 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 5 elementos;\n\nv) Em todos os agregados familiares em que o número de elementos seja superior a 5 será considerado mais meio salário mínimo nacional por cada dependente;\n\nf) Não ser o preço da habitação candidatada superior ao valor da avaliação daquela, efectuada pelos serviços competentes;\n\ng) Não ser a área envolvente à habitação candidatada passível de ser urbanizada superior a 250 m2 e 1400 m2 nas zonas urbanas ou rurais, respectivamente;\n\nh) Não ser o preço referido na alínea b) superior a 115 vezes o salário mínimo nacional arredondado para a centena de euros imediatamente superior.\n\n2 - Na análise do processo, o departamento competente do Governo Regional dos Açores poderá considerar uma tolerância de 20% nos limites máximos previstos na alínea d) do número anterior, em casos devidamente ponderados e justificados.\n\n3 - O preço referido na alínea h) poderá beneficiar de uma margem de tolerância até 40%, nos casos em que a localização geográfica da habitação candidata permita reduzir os condicionalismos físicos, ambientais, económicos e sociais do candidato ou de algum elemento do seu agregado familiar com deficiência.",
+    "alterador": 2
+   },
+   {
+    "chave": "28.º",
+    "epigrafe": "Definição, requisitos e formas de apoio",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "Obrigações dos beneficiários",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "30.º",
+    "epigrafe": "Sanções",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (8/98/A), art. 1.º: art. 3.º com nova al. d) (pessoa com deficiência) e antigas als. d) a n) renumeradas e) a o) («[Actual alínea 1).]» lido como antiga al. l)); arts. 19.º (n.º 2) e 31.º (n.º 1) e al. h) e n.º 3 do 24.º — o 19.º e o 31.º já estavam certos no texto atual.",
+   "Alterador 1, art. 2.º: aditado o 31.º-A — já estava no texto atual, igual.",
+   "Alterador 2 (5/2002/A), art. 1.º: nova al. l) (Apoio, com a fórmula) do art. 3.º, que substitui a antiga al. j) renumerada; nova al. h) do n.º 1 do art. 24.º («alínea b)» copiada como vem).",
+   "Alterador 2, art. 2.º: aditado o 31.º-B — já estava no texto atual, igual.",
+   "Alterador 3 (37/2006/A), art. 1.º: art. 3.º passa a n.º 1 com o proémio «considerando-se» e als. a) a o) atuais, e é aditado o n.º 2 (majoração nas ilhas). Art. 2.º adita o 19.º-A ao DLR 6/2002/A: outro diploma, ignorado.",
+   "Alterador 4 (23/2009/A), art. 47.º, n.º 1: revogado o capítulo VII (arts. 28.º a 30.º), que ficam «(Revogado.)»; o título do capítulo mantém-se. A revogação do DLR 47/2006/A é de outro diploma; o n.º 2 (manutenção dos apoios) não é textual."
+  ]
+ }
+]

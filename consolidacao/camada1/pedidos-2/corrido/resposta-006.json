@@ -1,0 +1,15 @@
+[
+ {
+  "id": "pt:dre:322508:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, n.º 1.º: o número de lugares de professor-adjunto do anexo A passa a 44: só em imagem: o quadro do anexo A só existe em imagem e a portaria não traz imagem nova do quadro.\nAlterador 3, criação no quadro transitório do anexo B de um lugar de professor: só em imagem: o quadro do anexo B só existe em imagem e a portaria não traz imagem nova do quadro.\nAlterador 5, art. 33.º, n.º 1, al. b): revogação do Decreto Regulamentar n.º 71/85, com excepção do n.º 3 do artigo 42.º e do n.º 1 do artigo 43.º: efeito adiado: só com a entrada em vigor dos Estatutos e tomada de posse dos órgãos constituídos nos termos destes.\nAlterador 5, art. 33.º, n.º 2: revogação do n.º 3 do artigo 42.º: efeito adiado: só com a primeira alteração ao quadro de pessoal docente da Escola.",
+  "instrucoes": [
+   "Alterador 1 (DL 94/89): integra a ENIDH no ensino superior politécnico e muda a tutela; não altera o texto do Regulamento; nada a fazer.",
+   "Alterador 2 (Portaria 1053/94): lugares de professor-adjunto do anexo A passam a 44; anexo só em imagem, sem imagem nova: nao_aplicavel.",
+   "Alterador 3 (Portaria 761/98): cria um lugar de professor no quadro transitório do anexo B; anexo só em imagem, sem imagem nova: nao_aplicavel.",
+   "Alterador 4 (DL 474-A/99): lei orgânica do Governo, só integra a ENIDH no Ministério do Equipamento Social; nenhuma instrução textual ao original.",
+   "Alterador 5 (DL 16/2002), art. 33.º, n.º 1, al. b) e n.º 2: revogações diferidas para a entrada em vigor dos Estatutos e tomada de posse dos órgãos e para a primeira alteração do quadro docente; efeito adiado: nao_aplicavel, texto mantido."
+  ]
+ }
+]

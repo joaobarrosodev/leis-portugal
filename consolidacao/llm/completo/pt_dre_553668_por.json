@@ -2,6 +2,18 @@
   "id": "pt:dre:553668:por",
   "artigos": [
     {
+      "chave": "85.º",
+      "epigrafe": "Taxa de justiça na 1.ª instância",
+      "texto": "1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários e abreviados, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.",
+      "alterador": 2
+    },
+    {
+      "chave": "131.º",
+      "epigrafe": "Destino das receitas",
+      "texto": "1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.",
+      "alterador": 3
+    },
+    {
       "chave": "23.º",
       "epigrafe": "Taxa de justiça inicial",
       "texto": "Para promoção de acções, incidentes e recursos é devido o pagamento da taxa de justiça inicial autoliquidada nos termos da tabela em anexo.",
@@ -116,12 +128,6 @@
       "alterador": 5
     },
     {
-      "chave": "85.º",
-      "epigrafe": "Taxa de justiça na 1.ª instância",
-      "texto": "1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários e abreviados, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.",
-      "alterador": 2
-    },
-    {
       "chave": "91.º",
       "epigrafe": "Remuneração dos peritos",
       "texto": "1 - A remuneração dos peritos, por cada perícia, é a seguinte:\n\na) Perícia descritiva ou louvação, um décimo de UC;\n\nb) Perícia que implique investigação, habilitação ou conhecimentos especiais, metade de 1 UC.\n\n2 - A remuneração por cada perícia médico-legal, incluindo o respectivo relatório, é a seguinte:\n\na) Perícia tanatológica, cinco quartos de UC;\n\nb) Perícia de clínica médico-legal, 3/20 de UC;\n\nc) Perícia de clínica médico-legal especializada com utilização de instrumentos próprios, 1 UC.\n\n3 - As perícias de especialidade, designadamente de toxicologia forense, de biologia forense, de psiquiatria forense e de anatomia patológica e histopatologia forense, são remuneradas nos termos da respectiva tabela.\n\n4 - Os auxiliares de perícias tanatológicas são remunerados, por cada uma delas, nos termos seguintes:\n\na) Com habilitação específica, três quintos de UC;\n\nb) Sem habilitação específica, dois quintos de UC.\n\n5 - Os enfermeiros que intervenham em qualquer perícia médico-legal são remunerados, por cada uma, com um décimo de UC.\n\n6 - Se a perícia médico-legal for realizada por médico com formação pós-graduada em Medicina Legal, a remuneração referida no n.º 2 é elevada ao dobro.\n\n7 - Quando o pagamento não seja assegurado pelo Cofre Geral dos Tribunais, revertem para os institutos de medicina legal ou para os gabinetes médico-legais ou outros estabelecimentos oficiais especializados, consoante os casos, os emolumentos pelas perícias efectuadas pelos peritos que neles prestem serviço.\n\n8 - A remuneração dos peritos estabelecida nos números anteriores pode ser actualizada por portaria do Ministro da Justiça.",
@@ -142,38 +148,14 @@
     {
       "chave": "124.º",
       "epigrafe": "Depósitos",
-      "texto": "1 - (Revogado.)\n\n2 - As formas de pagamento da taxa de justiça são fixadas por portaria do Ministro da Justiça.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.\n\n8 - Os depósitos existentes na Caixa Geral de Depósitos na data de entrada em vigor do Decreto-Lei n.º 324/2003, de 27 de Dezembro, são objecto de transferência para a conta do Instituto de Gestão Financeira e Patrimonial da Justiça, mediante ordem do tribunal com jurisdição sobre os mesmos.",
-      "alterador": 9
-    },
-    {
-      "chave": "126.º",
-      "epigrafe": "Guias para depósito ou pagamento",
-      "texto": "1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas e lavra termo, entregando-as às partes ou aos seus representantes ou mandatários quando o solicitarem.\n\n2 - Havendo lugar à notificação para pagamento de quaisquer quantias, a secção juntar-lhe-á as guias, contando-se o prazo desde a data daquele acto.\n\n3 - Nos casos especiais em que a lei autorize o interessado a solicitar guias para qualquer pagamento, são estas imediatamente passadas e entregues.\n\n4 - Tratando-se de guias que devam ser pagas por quem seja solidariamente obrigado ao pagamento, são entregues por termo nos autos a quem primeiro as solicitar.\n\n5 - No caso de ser urgente a prática de actos que dependam do pagamento de quaisquer quantias e de estar fechada a Caixa Geral de Depósitos, o secretário ou quem o substituir é seu fiel depositário, devendo depositá-las no primeiro dia útil seguinte.\n\n6 - Das quantias referidas no número anterior, é entregue ao interessado, no próprio acto, nota-recibo, numerada e assinada por quem as recebeu, de que constem a importância, o nome da pessoa por quem o depósito ou o pagamento é efectuado e a identificação do processo, arquivando-se o respectivo talão.",
-      "alterador": 3
-    },
-    {
-      "chave": "127.º",
-      "epigrafe": "Menções constantes das guias",
-      "texto": "1 - As guias para pagamento de qualquer importância contêm os seguintes elementos:\n\na) Identificação da conta e balcão da Caixa Geral de Depósitos;\n\nb) Data limite em que o depósito ou o pagamento podem ser efectuados;\n\nc) Tribunal de que emanam, natureza e número do processo e da conta de custas, se for caso disso;\n\nd) Nome do obrigado ao pagamento;\n\ne) Discriminação e destino dos valores.\n\n2 - As guias são passadas em triplicado, ficando um exemplar na Caixa Geral de Depósitos, outro no processo, entregando-se o terceiro ao depositante.\n\n3 - Nos casos de liquidação, as guias conterão os elementos indispensáveis ao lançamento.\n\n4 - Por portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento.",
-      "alterador": 3
-    },
-    {
-      "chave": "131.º",
-      "epigrafe": "Destino das receitas",
-      "texto": "1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\nh) O produto da coima cobrado por via judicial, independentemente da origem do respectivo processo de contra-ordenação, salvo se constituir receitas das Regiões Autónomas, do orçamento da segurança social das autarquias locais, ou percentagem a que por lei tenha direito o autuante, o participante ou outra entidade.\n\n2 - (Revogado.)\n\n3 - Das receitas mencionadas na alínea c) do n.º 1, revertem:\n\nb) 5 (por mil) para o Conselho Geral da Câmara dos Solicitadores;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no número seguinte, incumbe ao Instituto de Gestão Financeira e Patrimonial da Justiça o envio mensal das receitas referidas na alínea a) do n.º 1 e no n.º 3 às entidades a que se destinam, sendo competente para tal efeito, no âmbito do sistema de segurança social, o Instituto de Gestão Financeira da Segurança Social.\n\n6 - (Revogado.)\n\n9 - (Revogado.)",
-      "alterador": 9
-    },
-    {
-      "chave": "132.º",
-      "epigrafe": "Livros da secção central",
-      "texto": "1 - A secção central utiliza obrigatoriamente os seguintes livros:\n\na) De registo de contas;\n\nb) De pagamentos;\n\nc) De conta corrente com as dotações orçamentais;\n\nd) De emolumentos de actos avulsos;\n\ne) De contas correntes-processos.\n\n2 - Os livros a que se refere o número anterior são, sempre que possível, substituídos por suportes informáticos, dependendo de portaria do Ministro da Justiça a aprovação dos necessários procedimentos contabilísticos.",
-      "alterador": 3
+      "texto": "1 - O prévio pagamento da taxa de justiça inicial e o pagamento da taxa de justiça subsequente são efectuados directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça.\n\n2 - Os pagamentos das taxas de justiça inicial e subsequente que não sejam realizados de forma prévia e todos os outros pagamentos não abrangidos pelo número anterior são efectuados através de guia a emitir pelo tribunal.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.",
+      "alterador": 5
     },
     {
       "chave": "142.º",
       "epigrafe": "Perda de validade dos cheques",
-      "texto": "1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.\n\n5 - Nos casos referidos no n.º 3, só são pagas quantias com valor igual ou superior a (euro) 10.",
-      "alterador": 9
+      "texto": "1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.",
+      "alterador": 5
     },
     {
       "chave": "144.º",
@@ -185,25 +167,28 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 5 (DL 320-B/2000), art. 3.º, n.º 2: revogação dos artigos 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º adiada para a entrada em vigor de portaria a publicar - não aplicada. Alterador 5, art. 3.º, n.º 3: revogação do n.º 3 do artigo 43.º adiada para a aprovação da tabela de preparos por portaria - não aplicada. Alterador 5, art. 2.º e anexo, e alterador 6 (DL 323/2001), anexo, art. 32.º: as tabelas a que se referem os artigos 13.º, 23.º e 25.º só vêm em imagem (ver documento original) - não transcritas. Alterador 6, art. 1.º, n.º 2: conversão automática em euros das referências a escudos não previstas no anexo - regra geral, não textual. Alteradores 8 (Lei 60-A/2005) e 9 (Lei 53-A/2006): alteram a redacção dada pelo DL 324/2003, que não está na cadeia; as unidades marcadas '...' que não existem no texto atual não foram preenchidas nem inventadas: artigo 131.º, n.º 1, alínea g), n.º 3, alínea a), e n.os 7 e 8; artigo 124.º, n.os 5 a 7; artigo 142.º, n.º 4. Alterador 9, art. 134.º, n.º 3 (efeitos da revogação da alínea c) em 2007 só para processos entrados a partir de 1-1-2007), art. 22.º e art. 135.º: regras de aplicação no tempo, não textuais. Alterador 11 (Acórdão do TC n.º 375/2008): declaração de inconstitucionalidade do artigo 13.º, n.º 2, na redacção do DL 324/2003, só numa certa interpretação - não é alteração textual. Alterador 12 (Lei 42/2016), art. 148.º: transferência de depósitos, não altera o texto do original.",
+  "nao_aplicavel": "Alterador 3, DL 304/99 art. 2.º (nova redacção dos arts. 121.º, 124.º, 126.º, 127.º e 132.º): efeito adiado: o art. 3.º, n.º 2, só a põe em vigor com a publicação das portarias do n.º 4 do art. 127.º e do n.º 2 do art. 132.º, facto futuro que o pedido não mostra; os arts. 126.º, 127.º e 132.º ficam como no texto atual (121.º e 124.º recebem depois a redacção do DL 320-B/2000)\nAlterador 4, DL 533/99: sem texto: o pedido não traz nenhum artigo que altere o original\nAlterador 5, DL 320-B/2000 art. 3.º, n.º 2 (revogação dos arts. 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º): efeito adiado: só com a entrada em vigor da portaria que aprovar os novos procedimentos\nAlterador 5, DL 320-B/2000 art. 3.º, n.º 3 (revogação do n.º 3 do art. 43.º): efeito adiado: só com a aprovação da tabela de preparos por portaria\nAlterador 5, DL 320-B/2000 art. 2.º e anexo (tabela dos arts. 23.º e 25.º): só em imagem: a tabela vem só em imagem e não há título de anexo no texto atual\nAlterador 6, DL 323/2001 anexo art. 32.º (tabelas do art. 13.º e dos arts. 23.º e 25.º): só em imagem: as tabelas vêm só em imagem e não há título de anexo no texto atual\nAlterador 6, DL 323/2001 arts. 1.º, n.º 2, e 3.º (conversão automática em euros e valor da UC): não textual\nAlterador 8, Lei 60-A/2005 art. 94.º (art. 131.º, alínea h) do n.º 1 e n.º 9): alvo incerto: a instrução pressupõe a redacção do DL 324/2003 (alíneas a) a g) e n.os 1 a 9), que não está no texto atual (o 131.º tem só as alíneas a) a f) e os n.os 1 a 3)\nAlterador 9, Lei 53-A/2006 art. 134.º (arts. 124.º, 131.º e 142.º, incluindo as revogações do n.º 2): alvo incerto: as novas redacções e revogações são sobre a redacção do DL 324/2003 (124.º com 8 números, 131.º com 9 números e alíneas no n.º 3, 142.º com 5 números), que não está no texto atual; aplicar deixaria números inexistentes ou trocaria o sentido dos que existem\nAlterador 9, Lei 53-A/2006 arts. 22.º, 134.º, n.º 3, e 135.º (regime transitório e produção de efeitos): não textual\nAlterador 10, DL 116/2008: sem texto: o pedido não traz nenhum artigo que altere o original\nAlterador 11, Acórdão do TC n.º 375/2008 (art. 13.º, n.º 2, numa interpretação): não textual: declaração de inconstitucionalidade de uma interpretação, sem eliminar o texto\nAlterador 12, Lei 42/2016 art. 148.º (depósitos do n.º 8 do art. 124.º): não textual: regra própria de transferência de depósitos, sem alterar o texto do Código",
   "instrucoes": [
-    "Reparo 124.º: confirmado na Lei 53-A/2006, art. 134.º, n.os 1 e 2 - n.º 1 revogado, n.º 2 substituído, n.os 3 e 4 mantêm-se (texto atual, redacção do DL 320-B/2000), n.º 8 aditado; n.os 5 a 7 ('...') sem texto atual, ficam por preencher.",
-    "Reparos 126.º, 127.º e 132.º: a revogação do DL 320-B/2000, art. 3.º, n.º 2, é adiada para portaria futura e não se aplica; mantêm-se as redacções do DL 304/99, art. 2.º (n.º 1 do 126.º, n.º 4 do 127.º, n.º 2 do 132.º).",
-    "Reparo 131.º: confirmado - Lei 60-A/2005 adita a alínea h) do n.º 1 e o n.º 9; Lei 53-A/2006 revoga os n.os 2, 4, 6 e 9, substitui o n.º 3 (corpo, alínea b), alíneas c) e d) revogadas) e o n.º 5; alínea a) do n.º 1 segundo o DL 304/99; alínea g) do n.º 1, alínea a) do n.º 3 e n.os 7 e 8 não existem no texto atual e não foram inventados.",
-    "Reparo 142.º: confirmado - Lei 53-A/2006 adita o n.º 5; n.º 2 segundo o DL 320-B/2000; n.º 4 ('...') sem texto atual.",
-    "DL 91/97 (1): artigo 131.º, n.º 1, alínea a) e n.º 3 - já aplicados pelo programa; n.º 3 mantém-se.",
-    "Lei 59/98 (2), art. 7.º: artigo 85.º, n.º 1, alínea c) - aplicada.",
-    "DL 304/99 (3), art. 1.º: artigo 131.º, n.º 1, alínea a) (Regiões Autónomas) - aplicada; art. 2.º: 121.º e 124.º, n.º 4 (depois substituídos pelo DL 320-B/2000), 126.º, n.º 1, 127.º, n.º 4, 132.º, n.º 2 - aplicados.",
-    "DL 533/99 (4) e DL 116/2008 (10): sem instruções dirigidas ao original no pedido.",
-    "DL 320-B/2000 (5), art. 1.º: nova redacção dos artigos 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 32.º, 33.º, 34.º, 42.º, 43.º, 53.º (renumeração), 56.º, 57.º, 59.º (renumeração), 64.º, 71.º (alíneas renumeradas), 91.º, 121.º, 124.º, 142.º e 144.º - aplicada; art. 3.º, n.º 1: artigo 70.º revogado; art. 3.º, n.os 2 e 3: revogações adiadas, não aplicadas; tabela em imagem.",
-    "DL 323/2001 (6), anexo, art. 32.º: artigo 27.º com valor em euros - aplicado; tabelas em imagem, não transcritas.",
-    "DL 38/2003 (7), art. 18.º: artigo 32.º (alínea g) do n.º 1 substituída, n.os 3 e 4 aditados; alínea h) mantém-se) e artigo 33.º, n.º 4 - aplicados.",
-    "Lei 60-A/2005 (8), art. 94.º: artigo 40.º, n.º 6 - aplicado; artigo 131.º, n.º 1, alínea h) e n.º 9 - aplicados (n.º 9 depois revogado pela Lei 53-A/2006).",
-    "Lei 53-A/2006 (9), art. 134.º: artigo 95.º, n.º 2, artigo 124.º, artigo 131.º e artigo 142.º, n.º 5 - aplicados nos termos acima; art. 134.º, n.º 3, e arts. 22.º e 135.º não textuais.",
-    "Acórdão do TC 375/2008 (11) e Lei 42/2016 (12): sem alteração textual."
+    "DL 91/97 (1): nova redacção da alínea a) e do n.º 3 do art. 131.º — o n.º 3 mantém-se; a alínea a) foi depois substituída pelo DL 304/99",
+    "Lei 59/98 (2): alínea c) do n.º 1 do art. 85.º — aplicada",
+    "DL 304/99 (3) art. 1.º: alínea a) do n.º 1 do art. 131.º — aplicada (o resto do 131.º fica como o deixou o DL 91/97)",
+    "DL 304/99 (3) art. 2.º: arts. 121.º, 124.º, 126.º, 127.º e 132.º — não aplicado: entrada em vigor dependente das portarias (art. 3.º, n.º 2); ver nao_aplicavel",
+    "DL 533/99 (4): sem artigos no pedido",
+    "DL 320-B/2000 (5) art. 1.º: arts. 23.º, 24.º (nova epígrafe; n.º 2 mantido), 25.º, 26.º, 27.º (nova epígrafe), 28.º (nova epígrafe), 32.º (alínea b) e nova alínea h)), 33.º n.º 2, 34.º n.º 3, 42.º, 43.º n.º 2, 53.º (antigo n.º 3 eliminado, 4 e 5 passam a 3 e 4), 56.º, 57.º, 59.º (antigo n.º 3 eliminado, 4 a 6 passam a 3 a 5), 64.º, 71.º (antiga alínea a) eliminada, b) e c) passam a a) e b)), 91.º n.º 8, 121.º, 124.º, 142.º n.º 2 e 144.º — aplicados",
+    "DL 320-B/2000 (5) art. 3.º, n.º 1: art. 70.º revogado — aplicado",
+    "DL 320-B/2000 (5) art. 3.º, n.os 2 e 3, e tabela anexa — não aplicados (efeito adiado; imagem)",
+    "DL 323/2001 (6) anexo art. 32.º: art. 27.º em euros — aplicado (epígrafe do DL 320-B/2000); tabelas só em imagem",
+    "DL 38/2003 (7) art. 18.º: art. 32.º (alínea g) do n.º 1 e n.os 3 e 4; a alínea h) do DL 320-B/2000, que a instrução não menciona, mantém-se) e art. 33.º n.º 4 — aplicados",
+    "Lei 60-A/2005 (8) art. 94.º: art. 40.º n.º 6 — aplicado; art. 131.º — não aplicado (alvo incerto)",
+    "Lei 53-A/2006 (9) art. 134.º: art. 95.º n.º 2 — aplicado; arts. 124.º, 131.º e 142.º — não aplicados (alvo incerto)",
+    "DL 116/2008 (10): sem artigos no pedido",
+    "Acórdão TC 375/2008 (11): não textual",
+    "Lei 42/2016 (12) art. 148.º: não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

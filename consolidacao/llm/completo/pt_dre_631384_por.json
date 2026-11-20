@@ -73,15 +73,15 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 330/72): alínea a) do n.º 1 do art. 2.º ('nove lugares'), art. 15.º ('nove') e alínea a) do n.º 1 do art. 19.º ('nove'): aplicados, depois sobrepostos pelo alterador 2 onde este dá redação nova.",
-    "Alterador 2 (DL 136/75), art. 1.º, art. 2.º: n.º 1 a) '...' mantém a redação em vigor nessa data, que é a do DL 330/72 ('nove'); b) nova; c) '...'; n.os 2 e 3 novos. Reparo do verificador ('oito') rejeitado: '...' remete para o texto vigente, já alterado pelo DL 330/72, que se aplica antes.",
-    "Alterador 2, arts. 14.º, 15.º, 16.º, 17.º, 18.º, 20.º, 21.º e 23.º: nova redação integral aplicada (o 14.º é depois revogado pelo alterador 3).",
-    "Alterador 2, art. 19.º: n.º 1 corpo e a) '...' (mantêm o texto vigente, a) na redação do DL 330/72, 'nove'); b) nova; n.º 2 '...'. Reparo do verificador ('oito') rejeitado pela mesma razão.",
-    "Alterador 2, art. 2.º: revogado o art. 7.º.",
-    "Alterador 3 (DL 116/94), art. 5.º, alínea d): revogado o art. 14.º. O resto do diploma (Regulamento dos Impostos de Circulação e Camionagem) não altera o original."
+    "Alterador 1 (DL 330/72), art. único: alínea a) do n.º 1 do art. 2.º ('nove lugares'), art. 15.º e alínea a) do n.º 1 do art. 19.º ('nove'): aplicadas; o 15.º foi depois substituído pelo alterador 2.",
+    "Alterador 2 (DL 136/75), art. 1.º: nova redação dos arts. 2.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º e 23.º: aplicadas. No 2.º e no 19.º a alínea a) vem '...', pelo que fica o texto atual dessa alínea, que é o dado pelo alterador 1 ('nove'); o reparo que pedia 'oito' não se confirma, porque ignora o DL 330/72, aplicado antes. No 19.º os n.os 1 (proémio) e 2 vêm '...' e ficam como estavam.",
+    "Alterador 2, art. 2.º: revoga o art. 7.º: (Revogado.).",
+    "Alterador 3 (DL 116/94), art. 5.º, alínea d): revoga o art. 14.º: (Revogado.). As outras alíneas do art. 5.º e o resto do diploma não se dirigem ao DL 477/71."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

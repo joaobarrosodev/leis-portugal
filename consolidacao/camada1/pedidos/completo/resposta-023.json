@@ -1,0 +1,36 @@
+[
+ {
+  "id": "pt:dre:424689:por",
+  "artigos": [
+   {
+    "chave": "12.º",
+    "epigrafe": "Estradas regionais",
+    "texto": "1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - As estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições.",
+    "alterador": 1
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "Redes municipais",
+    "texto": "1 - As estradas não incluídas no plano rodoviário nacional integrarão as redes municipais, mediante protocolos a celebrar entre a Junta Autónoma de Estradas e as câmaras municipais e após intervenções de conservação que as reponham em bom estado de utilização ou, em alternativa, mediante acordo equitativo com a respectiva autarquia.\n\n2 - Poderão ainda ser integradas nas redes municipais, nas mesmas condições das estradas referidas no número anterior e mediante despacho do ministro da tutela do sector rodoviário, as estradas regionais (ER).\n\n3 - As estradas classificadas para integração nas redes municipais, até à recepção pelas respectivas autarquias, ficarão sob tutela da Junta Autónoma de Estradas, que, entretanto, lhes assegurará padrões mínimos de conservação.",
+    "alterador": 1
+   },
+   {
+    "chave": "14.º",
+    "epigrafe": "Regime das estradas municipais",
+    "texto": "Para além do previsto no presente diploma e no Estatuto das Estradas da Rede Nacional, as estradas municipais serão regulamentadas por diploma próprio.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º da Lei n.º 98/99 (alterações às listas II, III, IV e V anexas): só em imagem (o texto novo só vem em imagem e o texto atual não tem título de anexo para as listas, só a imagem «Rede nacional»)\nAlterador 2, art. 1.º do DL n.º 182/2003 (estradas alteradas, acrescentadas e retiradas nas listas I a V): só em imagem (o texto novo só vem em imagem e o texto atual não tem título de anexo para as listas)\nAlterador 3, Declaração de Retificação n.º 779/2025/2, art. 4.º, n.º 1, alínea b) (cita o PRN entre os instrumentos de gestão territorial em vigor): outro diploma (o original aparece numa lista, sem instrução sobre o seu texto)",
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação do n.º 4 do art. 12.º (n.os 1 a 3 '...' e n.º 5, não mencionado, do texto atual).",
+   "Alterador 1, art. 1.º: art. 13.º com novo n.º 2; o anterior n.º 2 passa a n.º 3 (texto atual com o número novo); n.º 1 do texto atual.",
+   "Alterador 1, art. 1.º: nova epígrafe e novo corpo do art. 14.º.",
+   "Alterador 1, art. 2.º, e alterador 2, art. 1.º: alterações às listas anexas, só em imagem (ver nao_aplicavel).",
+   "Alterador 3: só cita o original (ver nao_aplicavel)."
+  ]
+ }
+]

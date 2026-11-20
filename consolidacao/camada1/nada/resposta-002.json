@@ -1,0 +1,249 @@
+[
+ {
+  "id": "pt:dre:157046:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "O original vinha em texto corrido; o consolidado só o dividiu em artigos e passou 'Art.' a 'Artigo', sem mudar o texto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Despacho Normativo n.º 15/81: nova redação dos mapas n.os 2 e 3 anexos ao Decreto-Lei n.º 519-E2/79",
+    "motivo": "O diploma que altera não traz o texto da alteração (vem vazio na vista)."
+   },
+   {
+    "instrucao": "Despacho Normativo n.º 3/82: nova redação dos mapas n.os 2 e 3 anexos",
+    "motivo": "O diploma que altera não traz o texto da alteração (vem vazio na vista)."
+   },
+   {
+    "instrucao": "Despacho Normativo n.º 57/83: nova redação dos mapas n.os 2 e 3 anexos",
+    "motivo": "O diploma que altera não traz o texto da alteração (vem vazio na vista)."
+   },
+   {
+    "instrucao": "Despacho Normativo n.º 52/96: aditamento de habilitações ao abrigo do artigo 3.º do original",
+    "motivo": "Altera o Despacho Normativo n.º 32/84 (outro diploma); ao abrigo do artigo 3.º é só o fundamento, não altera o texto do original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (o original em texto corrido foi dividido em artigos, mesmo texto)"
+ },
+ {
+  "id": "pt:dre:211059785:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:220892:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 5.º, n.º 1, al. d) do DL 16/2013: revoga os n.os 1 e 3 do artigo 12.º e o artigo 14.º do DL 163-A/2000 'na parte em que contrariem o disposto no presente decreto-lei'",
+    "motivo": "Revogação condicional (na parte em que contrarie); não se aplica ao texto."
+   },
+   {
+    "instrucao": "Art. 5.º, n.º 2 do DL 16/2013: revoga as demais normas que contrariem o decreto-lei",
+    "motivo": "Revogação condicional sem alvo textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:234698:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Divisão do texto corrido do original em artigos (e preâmbulo), sem mudança de texto; 'Art.' passa a 'Artigo'. Mapas I e II mantidos em imagem como no original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 370/72, artigo único: efectivos da classe dos músicos do mapa II passam a ser os indicados (2, 68, 14, 4, 4, total 92). O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. O novo texto é textual e pode ser posto sob o título MAPA II.",
+   "DL 535/72, art. 1.º: efectivos dos farmacêuticos navais do mapa I acrescidos de um capitão-de-mar-e-guerra. O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. ",
+   "DL 65/73, art. 1.º: novos efectivos de capitães-de-mar-e-guerra e capitães-de-fragata (quadro em imagem do alterador). O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. Alteração parcial: ficam o corpo antigo e as linhas da imagem do alterador.",
+   "DL 136/74, art. 1.º: aumento dos efectivos do serviço especial no mapa I (capitães-de-mar-e-guerra 5, capitães-de-fragata 14, capitães-tenentes 26). O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. ",
+   "DL 27/76, art. 1.º: reduções (contra-almirante 2; capitão-de-mar-e-guerra de marinha 10) e aumentos (comodoro 2; capitão-de-fragata de marinha 10) nos efectivos do activo. O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. ",
+   "Portaria 57/85, n.os 1.º e 2.º: efectivos de primeiro-tenente de fuzileiros passam para o bloco de oficiais subalternos e acerto na coluna 'Total por postos' do mapa I. O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. ",
+   "DL 166/85, artigo único: efectivos de capitão-tenente e oficiais subalternos dos oficiais técnicos do mapa I passam para os valores do quadro anexo (imagem do alterador). O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. ",
+   "DL 279/86, art. 1.º: efectivos de capitão-de-mar-e-guerra, capitão-de-fragata e oficiais subalternos de fuzileiros no mapa I ajustados para o quadro anexo (imagem do alterador). O alvo é o MAPA I/II do artigo 9.º do consolidado, que tem título 'MAPA I'/'MAPA II' e liga a imagem; o consolidado não o alterou. "
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (o original em texto corrido foi dividido em artigos, mesmo texto)"
+ }
+]

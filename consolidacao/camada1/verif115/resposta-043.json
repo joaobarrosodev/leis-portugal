@@ -1,0 +1,235 @@
+[
+ {
+  "id": "pt:dre:193229:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "§ 3.º igual à redação do DL 46746.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 47114, art. 2.º (corpo e § único).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46290, art. 2.º (forças terrestres, navais e aéreas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46815, art. 1.º (corpo, alíneas a) a d) e § único).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 46290: aditados n.os 9.º e 10.º; 7.º a) com 60 dias e ponto final; restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46290, art. 2.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 46290, art. 3.º: alteração das tabelas n.º 10 e 11 (gratificações de representação, S. Tomé e Príncipe e Guiné). O texto da alteração é textual mas o alvo (tabelas) só existe em imagem no consolidado; não está na lista de exceções, pelo que fica em falta.",
+   "DL 47501, § único: aditada a especialidade «comando» às tabelas n.os 10 e 13 (alvo só em imagem; texto textual, fora das exceções).",
+   "DL 47756, artigo único: aditados quantitativos diários à tabela n.º 7 (texto textual, alvo só em imagem; fora das exceções).",
+   "DL 48793, art. 1.º: gratificação de 2250$00 incluída na tabela n.º 10 (Macau) (texto textual, alvo só em imagem; fora das exceções).",
+   "DL 228/72, art. 1.º: gratificação de 2250$00 incluída na tabela n.º 10 (Timor) (texto textual, alvo só em imagem; fora das exceções).",
+   "DL 133/72, art. 2.º: gratificação de pisteiro de combate aditada às tabelas n.os 10 a 16 (texto textual, alvo só em imagem; fora das exceções)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46815, art. 2.º: tabela n.º 17 substituída pela nova tabela anexa",
+    "motivo": "Texto novo só vem em imagem e o consolidado não tem anexo com título onde a pôr."
+   },
+   {
+    "instrucao": "DL 47795, artigo único: tabela n.º 17 substituída pela nova tabela anexa",
+    "motivo": "Texto novo só vem em imagem e o consolidado não tem anexo com título onde a pôr."
+   },
+   {
+    "instrucao": "DL 266/70, art. 1.º: tabelas n.os 1 a 9 substituídas pelas anexas",
+    "motivo": "Texto novo só vem em imagem e o consolidado não tem anexo com título onde as pôr."
+   },
+   {
+    "instrucao": "DL 233/74, art. 1.º: novos prés mensais das praças",
+    "motivo": "Quadro só em imagem; não dá nova redação a nenhum artigo do original."
+   },
+   {
+    "instrucao": "DL 233/74, art. 2.º n.os 1 e 2 (aplicação às praças do DL 44864; tabela 8 reajustada) e art. 3.º (abolição da classificação de 1.ª e 2.ª)",
+    "motivo": "Não textual: muda o regime sem nova redação de artigo; o reajustamento da tabela 8 remete para tabelas só em imagem."
+   },
+   {
+    "instrucao": "DL 47114, art. 1.º: vencimentos em Cabo Verde passam a ser os das tabelas da Guiné e S. Tomé e Príncipe",
+    "motivo": "Não textual: remete para tabelas sem mudar o texto de nenhum artigo."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:199627:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 18/75, art. 1.º: novo corpo; alíneas a) a f) e restante mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 18/75 (poderá ser constituído; alíneas a) a d)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 18/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 3 e 4 do DL 153/70 e n.º 5 do DL 38/73 aditados; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 18/75 substitui o artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 18/75; rubrica «B) Comandos militar, naval e aéreo» mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; as fórmulas finais passaram para o novo artigo 24.º (colocação final do diploma).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo DL 18/75, art. 2.º, texto igual; fórmulas finais do diploma depois dele.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:221697:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: corpo do n.º 1 e alínea c) novos; a), b) e n.º 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: novo corpo e alínea c) aditada (art. 2.º do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: alíneas a) e e) novas; corpo do n.º 1 também vem com «Ministério do Comércio e Turismo» no texto do alterador (não consta da lista inicial de partes alteradas, mas o texto reproduzido é a redação nova); restante igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: alíneas b), c) e f) do n.º 1 novas; restante igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: n.º 3 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: n.º 3 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: n.os 2 e 3 novos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: n.º 1 com corpo e alíneas a) e b) novos; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: artigo reduzido ao novo n.º 1 (o alterador só traz o n.º 1).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: artigo reduzido ao novo n.º 1 (o alterador só traz o n.º 1).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "DL 149/88: alíneas a) e c) do n.º 1 novas; restante igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "DL 235/91, art. 2.º: artigo substituído pelo texto único novo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 235/91, art. 1.º: aditamento dos n.os 12 e 13 ao artigo 29.º (alvo incerto: refere o art. 29.º na redação do DL 434/88, que não está entre os alteradores; o consolidado só tem o n.º 1 do art. 29.º e a instrução é textual, pelo que não cabe nas exceções)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 391/88: transfere as competências das alíneas c), d) e e) do n.º 1 do art. 5.º para a Região de Turismo do Alto Minho",
+    "motivo": "Não textual: transferência de competência (ao abrigo do art. 6.º), sem nova redação."
+   },
+   {
+    "instrucao": "DL 235/91, art. 3.º: renovação dos prazos do n.º 1 do art. 85.º e do n.º 2 do art. 86.º para aldeamentos e conjuntos turísticos",
+    "motivo": "Não textual: prorrogação de prazos."
+   },
+   {
+    "instrucao": "Resolução da AR 10/96: recusa de ratificação do DL 327/95 com repristinação das normas revogadas",
+    "motivo": "Não textual: recusa de ratificação, sem texto novo; o original não traz revogação a desfazer."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

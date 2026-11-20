@@ -290,8 +290,12 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74477454.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29.
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74477454.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), publicado em 2011-12-29.

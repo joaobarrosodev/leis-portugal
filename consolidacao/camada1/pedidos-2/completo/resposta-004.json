@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:311209:por",
+  "artigos": [
+   {
+    "chave": "9.º",
+    "epigrafe": "Fundo de Equilíbrio Financeiro",
+    "texto": "1 - O montante global do Fundo de Equilíbrio Financeiro é fixado em 199,5 milhões de contos para o ano de 1994.\n\n2 - As transferências financeiras a que se refere o número anterior são repartidas entre correntes e de capital, na proporção de 58,9% e 41,1%, respectivamente.\n\n3 - O montante global a atribuir a cada município no ano de 1994 é o que consta do mapa X em anexo.\n\n4 - No ano de 1994 e para efeitos do disposto no n.º 1 do artigo 3.º da Lei n.º 1/87, de 6 de Janeiro, o financiamento de novas competências a cometer eventualmente aos municípios será assegurado através das dotações inscritas nos orçamentos dos diversos departamentos ministeriais ou equiparados que se achavam afectas aos domínios que passam para a responsabilidade dos municípios.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, substituição dos mapas I a IV e IX a XI (art. 1.º, n.os 1 e 2): só em imagem: os mapas novos só vêm em imagem e o texto atual não tem título de anexo onde os pôr.\nAlterador 3, alterações às despesas e receitas do Orçamento do Estado para 1994: só em imagem: os quadros só vêm em imagem e o texto atual não tem título de anexo onde os pôr.",
+  "instrucoes": [
+   "Alterador 1 (Lei 39-B/94): só cita a Lei 75/93; nada a aplicar.",
+   "Alterador 2 (Lei 40/94), art. 1.º, n.º 3: nova redação do art. 9.º (n.º 1 com 199,5 milhões de contos; n.º 2 igual; n.º 3 = antigo n.º 4; n.º 4 = antigo n.º 5; antigo n.º 3 desaparece); aplicada.",
+   "Alterador 2 (Lei 40/94), art. 1.º, n.os 1 e 2: substituição dos mapas I a IV e IX a XI; só em imagem e sem título de anexo no texto atual; em nao_aplicavel.",
+   "Alterador 3 (Declaração 66/95): alterações orçamentais em quadros só em imagem; em nao_aplicavel.",
+   "Alteradores 4 a 58: texto omitido, não mudam o texto deste diploma (não mencionam, outro diploma ou não textual); nada a aplicar."
+  ]
+ }
+]

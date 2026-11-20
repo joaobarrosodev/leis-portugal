@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pt:dre:686232:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Decreto-Lei n.º 30/70 (pt:dre:227236) não aplicado: na vista o texto do alterador está vazio, mas o diploma está no acervo (data/portugal/decretos-leis/1970/decreto-lei-30-70.md) e o seu artigo 12.º dá nova redação aos artigos 19.º, 23.º e 24.º do Decreto-Lei n.º 45248. No consolidado esses três artigos estão iguais ao original. Texto certo: art. 19.º, corpo: «O preenchimento de lugares de escriturário-dactilógrafo de 2.ª classe das Câmaras Municipais de Lisboa e do Porto será feito mediante concurso de provas públicas, entre indivíduos que possuam a habilitação correspondente à escolaridade obrigatória segundo a idade do candidato.» (o resto do artigo mantém-se, «...»); art. 23.º: «Os lugares de terceiro-oficial são providos mediante concurso de provas públicas, a que podem candidatar-se escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria, e indivíduos estranhos ao quadro, com a habilitação mínima do 2.º ciclo do ensino liceal ou equiparada. § único. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação referida na parte final do corpo deste artigo não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem tal habilitação.»; art. 24.º: «Os lugares de escriturário-dactilógrafo de 1.ª classe são providos, mediante concurso de provas públicas, de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de dois anos de bom e efectivo serviço.»",
+      "Retificação de 30/05/1973 (pt:dre:422257, corrected_by) ao Decreto-Lei n.º 179/73 não aplicada: no art. 12.º, onde está «cargos criados posteriormente a 1973» deve estar «cargos criados posteriormente a 1963»; no art. 40.º, onde está «que não les sejam imputáveis» deve estar «que não lhes sejam imputáveis»."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:139722:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Anexo (menor, não normativo): o Decreto-Lei n.º 280/78 só deu nova redação às regras 1, 2, 3 e 7, mas o consolidado perdeu a assinatura que fecha o anexo no original («O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.»). Deve repor-se depois da regra 7. O resto está certo: o art. 1.º n.º 2 foi aditado, o art. 5.º n.º 3 e o art. 6.º n.º 2 têm a nova redação, os arts. 6.º-A e 6.º-B foram aditados, as regras 1, 2 e 7 vêm do DL 280/78 e a regra 3 do DL 66/79. As prorrogações de prazo são, de facto, não textuais."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:306575:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": {
+      "conclusao": "outro",
+      "prova": "Vigência parcial, não do diploma inteiro. O Acórdão do TC n.º 801/2014 (DR I, 23/12/2014) declara inconstitucional, com força obrigatória geral, a norma do n.º 4 do art. 3.º da Lei n.º 55/2010, na numeração dada pela Lei n.º 1/2013. Essa é a norma interpretativa que está hoje no n.º 4 do consolidado. O texto mantém-se (o acórdão não o reescreve), mas convinha uma nota. Os n.os 1 e 2 do art. 3.º foram revogados pelo art. 4.º, n.º 1, da Lei n.º 4/2017 (desde 01/01/2017) e estão bem marcados como revogados; a renumeração da Lei n.º 1/2013 está bem aplicada."
+    }
+  },
+  {
+    "id": "pt:dre:238645:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação de 10/05/1965 (pt:dre:293966, corrected_by) não aplicada: na alínea e) do art. 6.º, onde está «operações mencionadas no n.º 4.º do artigo 19.º» deve estar «operações mencionadas no n.º 4.º do artigo 20.º». A retificação anterior, de 03/05/1965 (pt:dre:236747), diz «alínea c)», mas a passagem que corrige só existe na alínea e). As duas apontam para a mesma correção, e a alínea c) não muda.",
+      "Dúvida nos arts. 29.º e 33.º: o Decreto-Lei n.º 143/74 dá nova redação aos artigos e transcreve só o corpo de cada um. O consolidado manteve os §§ únicos do original. O mesmo diploma, ao reescrever o art. 38.º («33.º e § único» passa a «33.º») e o art. 40.º («29.º e § único» passa a «29.º»), deixa de remeter para esses §§ únicos, o que sugere que os deu por eliminados. Falta confirmar no Diário do Governo (DG I n.º 83, de 08/04/1974) se o «...» depois do art. 29.º e do art. 33.º quer dizer que o resto do artigo se mantém ou se só separa os artigos."
+    ],
+    "vigencia": null
+  }
+]

@@ -567,13 +567,26 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "As Portarias n.º 437/81, 765/81, 1019/81, 1075/81, 26/82, 863/82, 1029/82, 26/83, 38/83, 147/83, 354/83, 368/83 e 485/83 alteram apenas o mapa anexo do quadro de pessoal (não está no texto por artigos; a Portaria 354/83 vem só em imagem); não aplicadas.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Mapa de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 14
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1 a 7, 10, 12 e 13, n.º 1.º (criação de um lugar no quadro do mapa anexo): sem texto; a portaria não traz o mapa alterado e o anexo vem só em imagem (o anexo fica de qualquer modo revogado pelo alterador 14)\nAlteradores 1 a 7, 10, 12 e 13, n.º 2.º (extinção do lugar quando vagar): não textual\nAlteradores 8 e 9 (alargamento da área de recrutamento de chefes de divisão): não textual\nAlterador 14, artigo 50.º (transição do pessoal do quadro anexo): não textual",
   "instrucoes": [
-    "Portarias 437/81 a 485/83 (alteradores 1 a 13): criam lugares ou alargam recrutamento no quadro de pessoal anexo; sem artigos a alterar; não aplicadas",
-    "DL 339/83 art. 50.º: norma de transição de pessoal; não altera o texto",
-    "DL 339/83 art. 55.º: revoga o DL 138/80 salvo os n.os 3, 4 e 5 do art. 89.º; todos os artigos 1.º a 94.º ficam (Revogado.), exceto o 89.º, onde só os n.os 1 e 2 ficam (Revogado.)"
+    "Alteradores 1-7, 10, 12, 13: criam lugares no quadro do mapa anexo sem trazer o mapa: nao_aplicavel.",
+    "Alteradores 8 e 9: alargam a área de recrutamento, não textual: nao_aplicavel.",
+    "Alterador 11: altera na parte respectiva o quadro anexo (imagem); superado pela revogação do alterador 14.",
+    "Alterador 14, art. 55.º: revoga o Decreto-Lei n.º 138/80 com excepção dos n.os 3, 4 e 5 do artigo 89.º: os artigos 1.º a 94.º ficam «(Revogado.)», o artigo 89.º fica com os n.os 1 e 2 revogados e os n.os 3 a 5 mantidos, e o corpo do anexo fica «(Revogado.)».",
+    "Alterador 14, art. 50.º: transição de pessoal, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

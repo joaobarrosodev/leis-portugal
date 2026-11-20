@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pt:dre:659563:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação por aplicar: a Declaração de Rectificação n.º 7/98 (relação corrected_by pt:dre:2979830; texto no acervo em data/portugal/declaracoes-retificacao/1998/declaracao-retificacao-7-98.md, pt:dre:208444) não está entre os alteradores e o consolidado não a reflete. Artigo 13.º, n.º 1 (dado como igual ao original): deve terminar «..., sendo a distribuição por município efectuada de acordo com os montantes das correspondentes despesas.» (e não «...de acordo com os montantes das processadas para cada município correspondentes despesas.»).",
+      "Mesma retificação, artigo 13.º, n.º 2: deve ler-se «As verbas processadas para cada município ao abrigo do número anterior devem constar de portaria dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.» (o consolidado mantém «As verbas ao abrigo do número anterior devem constar...»).",
+      "Mesma retificação, artigo 61.º (que no texto está dentro do bloco do artigo 39.º): deve ler-se «inscritas no Orçamento do Estado para 1997, no capítulo 60 do Ministério das Finanças,»; o consolidado mantém «para 1998» (o diff do bloco do artigo 39.º só mostra a alteração do artigo 70.º).",
+      "A mesma retificação corrigia a alínea 29) do artigo 6.º («550000» -> «600000 contos»), mas essa alínea foi depois substituída por inteiro pela Lei n.º 87/98, que já diz 600000 contos: esta parte ficou sem objeto e o texto está certo. A correção ao mapa VI só existe nos mapas (imagem).",
+      "No bloco do artigo 39.º o consolidado perdeu 4 das 5 remissões «(ver documento original)» que o original tem para as tabelas em imagem: depois de «TABELA I», depois de «TABELA III e IV» (imposto automóvel), depois de «serão as constantes da tabela seguinte:» (artigo 33.º do Código da Sisa, no artigo 40.º) e depois do «5 - ...» do artigo 52.º do EBF (no artigo 43.º). Nenhum alterador as suprime; devem ser repostas.",
+      "Observação, sem efeito no veredicto: o Despacho n.º 19328/98 (2.ª série) aparece como amended_by («Alterado o limite»), não está entre os alteradores e o acervo só tem os metadados. Por ser um despacho, deve fixar um limite ao abrigo de uma autorização da lei, e não mudar o texto, mas não se pode confirmar.",
+      "Observação de estrutura: os artigos 40.º a 75.º (e o capítulo X e seguintes) estão fundidos no artigo 39.º, tanto no original como no consolidado, porque as aspas de «TABELA I/III e IV» não fecham; não muda o texto, mas a divisão em artigos está errada."
+    ],
+    "vigencia": {
+      "conclusao": "caducado",
+      "prova": "É a lei do Orçamento do Estado para 1998 («Na execução do Orçamento do Estado para 1998 fica o Governo autorizado a...», artigo 6.º); as normas orçamentais são anuais e esgotaram-se com a execução de 1998. As normas que alteram códigos (IRS, IRC, EBF, IVA, Sisa) vivem hoje nesses códigos."
+    }
+  }
+]

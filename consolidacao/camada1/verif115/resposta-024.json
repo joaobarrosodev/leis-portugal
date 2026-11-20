@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:583042:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "O texto 'Artigo 33.º' do original engloba o resto da lei (incl. art. 61.º). Única instrução textual (Lei 130-B/97, art. 2.º: nova alínea c) ao art. 61.º) aplicada letra a letra, depois da alínea b). Restante texto igual; só desapareceram 8 linhas de marcador de imagem '(ver documento original)' (tabelas/anexos só em imagem), sem texto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 130-B/97, art. 1.º: mapas II a IV e XI anexos substituem na parte respectiva os da Lei 52-C/96",
+    "motivo": "Mapas só em imagem; o consolidado não tem anexo com título de mapa onde os pôr"
+   },
+   {
+    "instrucao": "Declaração n.º 6/97: novo mapa IX (alteração ao orçamento da segurança social) substitui na parte alterada o mapa IX",
+    "motivo": "Só em imagem; o consolidado não tem anexo com título do mapa IX"
+   },
+   {
+    "instrucao": "Declaração n.º 9/97: publicação dos mapas I a VIII modificados",
+    "motivo": "Só em imagem (pdf); o consolidado não tem anexo com título desses mapas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

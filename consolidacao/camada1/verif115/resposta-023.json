@@ -1,0 +1,223 @@
+[
+ {
+  "id": "pt:dre:553668:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 art. 1.º: n.º único novo, epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: epígrafe, n.º 1, 3 e 4 novos; n.º 2 mantido",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: corpo novo, epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: n.º 1 e 2 novos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 (epígrafe e corpo) com conversão em euros do DL 323/2001 art. 32.º (199519,16)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: epígrafe e corpo novos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 (alíneas b) e h)) e DL 38/2003 art. 18.º (alínea g), n.os 3 e 4)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 (n.º 2) e DL 38/2003 (n.º 4)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: aditado n.º 3",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Lei 60-A/2005 art. 94.º: n.º 6 novo",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: alínea d) e n.º 2",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: n.º 2 novo; n.º 3 mantido (revogação adiada pelo art. 3.º, n.º 3)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: novo n.º 2, renumeração 3 e 4, original n.º 3 eliminado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: n.os 1, 2, 3 (a, b, d) e 4 novos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: n.os 1 e 2 novos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: renumeração; original n.º 3 eliminado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: alínea c) do n.º 1",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 art. 3.º, n.º 1: revogado, epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: alíneas a) e b) renumeradas",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Lei 59/98 art. 7.º: alínea c) do n.º 1",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: aditado n.º 8",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Lei 53-A/2006 art. 134.º, n.º 1: n.º 2 novo",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000 (a nova redacção do DL 304/99 está adiada)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 144.º",
+    "veredicto": "certo",
+    "motivo": "DL 320-B/2000: n.os 1 e 2 novos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 131.º",
+    "veredicto": "dúvida",
+    "motivo": "Aplicadas as redacções do DL 91/97 e DL 304/99 art. 1.º (n.º 1 a) e n.º 3). Mas a Lei 60-A/2005 (alínea h) e n.º 9) e a Lei 53-A/2006 art. 134.º (n.os 2 a 9 e revogações) não têm efeito: dependem da redacção do DL 324/2003, que não está no texto; não é possível dizer o texto esperado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 124.º",
+    "veredicto": "dúvida",
+    "motivo": "Aplicada a redacção do DL 320-B/2000 (n.os 1 a 4). Mas a Lei 53-A/2006 art. 134.º (n.º 1 revogado, n.º 2 novo, n.º 8) não tem efeito e depende da redacção do DL 324/2003; texto esperado incerto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 142.º",
+    "veredicto": "dúvida",
+    "motivo": "Aplicado o n.º 2 do DL 320-B/2000. Mas a Lei 53-A/2006 art. 134.º (n.º 5 novo, números 1 a 4 sobre a redacção do DL 324/2003) não tem efeito; texto esperado incerto",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Lei 60-A/2005 art. 94.º: art. 131.º, alínea h) do n.º 1 e n.º 9 (alvo incerto: pressupõe a redacção do DL 324/2003, que não está no texto)",
+   "Lei 53-A/2006 art. 134.º, n.º 1: arts. 124.º (n.º 1 revogado, n.º 2 novo, n.º 8), 131.º (n.os 2 a 9) e 142.º (n.º 5) (alvo incerto: redacção do DL 324/2003 que não está no texto)",
+   "Lei 53-A/2006 art. 134.º, n.º 2: revogação do n.º 1 do art. 124.º e dos n.os 2, 4, 6, 9 e alíneas c) e d) do n.º 3 do art. 131.º (alvo incerto)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 304/99 art. 2.º: nova redacção dos arts. 121.º, 124.º, 126.º, 127.º e 132.º",
+    "motivo": "efeito adiado: art. 3.º, n.º 2, só a põe em vigor com a publicação das portarias (facto futuro)"
+   },
+   {
+    "instrucao": "DL 533/99",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "DL 320-B/2000 art. 3.º, n.º 2: revogação dos arts. 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º",
+    "motivo": "efeito adiado para a entrada em vigor de portaria futura"
+   },
+   {
+    "instrucao": "DL 320-B/2000 art. 3.º, n.º 3: revogação do n.º 3 do art. 43.º",
+    "motivo": "efeito adiado para a aprovação futura da tabela de preparos por portaria"
+   },
+   {
+    "instrucao": "DL 320-B/2000 art. 2.º e anexo: tabela dos arts. 23.º e 25.º",
+    "motivo": "a tabela vem só em imagem e o consolidado não tem anexo com título onde a pôr"
+   },
+   {
+    "instrucao": "DL 323/2001 anexo art. 32.º: tabelas do art. 13.º e dos arts. 23.º e 25.º (incluindo a linha 'Para além de (euro) 49879,79 ...')",
+    "motivo": "tabelas em imagem e consolidado sem anexo com título onde as pôr"
+   },
+   {
+    "instrucao": "DL 323/2001 arts. 1.º, n.º 2, e 3.º (conversão automática, valor da UC)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "Lei 53-A/2006 arts. 22.º, 134.º, n.º 3, e 135.º",
+    "motivo": "não textual: regime transitório e produção de efeitos"
+   },
+   {
+    "instrucao": "DL 116/2008",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "Acórdão TC 375/2008 (art. 13.º, n.º 2, numa interpretação)",
+    "motivo": "declaração de inconstitucionalidade de uma interpretação, sem eliminar o texto"
+   },
+   {
+    "instrucao": "Lei 42/2016 art. 148.º (depósitos do n.º 8 do art. 124.º)",
+    "motivo": "não textual: regra própria de transferência de depósitos"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

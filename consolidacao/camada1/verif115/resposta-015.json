@@ -1,0 +1,121 @@
+[
+ {
+  "id": "pt:dre:431793:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DLR 8/98 (alíneas renumeradas, nova d) pessoa com deficiência), DLR 5/2002 (alínea l) Ap em euros e nova fórmula) e DLR 37/2006 (n.º 1 com 'considerando-se' e novo n.º 2) aplicados letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DLR 8/98: n.º 2 com tolerância 10%/20% e 'Governo Regional'; n.os 1 e 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DLR 8/98 (n.º 3 novo; alínea h)) e DLR 5/2002 (alínea h) em euros, 'alínea b)' como no diploma); restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "DLR 23/2009, art. 47.º n.º 1, revoga o capítulo VII do original (arts. 28.º a 30.º); corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Idem: capítulo VII revogado pelo art. 47.º n.º 1 do DLR 23/2009.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Idem: capítulo VII revogado pelo art. 47.º n.º 1 do DLR 23/2009.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DLR 8/98 art. 1.º: novo n.º 1 (portaria do Secretário Regional da Habitação e Equipamentos); n.os 2 e 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DLR 8/98; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DLR 5/2002; texto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:462061:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/83 art. 1.º: nova redação, incluindo 'Administração e da Função Pública', 'uma vez aprovados' e nova alínea m).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/83 art. 2.º: lista de serviços de 1) a 8) igual; epígrafe de secção final do original mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/83 art. 8.º revoga o n.º 2 do art. 8.º; n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/83 art. 8.º revoga o art. 20.º; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 115/83 art. 6.º: quadro (art. 31.º do original) aumentado de 5 técnicos superiores e deduzido de 10 escriturários-dactilógrafos",
+    "motivo": "o quadro só existe em imagem; o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "DL 115/83 art. 9.º: extinção de 2 lugares de consultor jurídico do quadro anexo",
+    "motivo": "o quadro anexo só existe em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 115/83 art. 10.º: novo quadro de pessoal constante do mapa anexo",
+    "motivo": "o mapa só vem em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Portaria 65/88: quadro de pessoal constituído conforme o mapa anexo",
+    "motivo": "o mapa só vem em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 117/2011 (alterador 3)",
+    "motivo": "o diploma que altera não traz texto (corpo vazio na vista)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

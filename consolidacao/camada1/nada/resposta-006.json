@@ -1,0 +1,60 @@
+[
+ {
+  "id": "pt:dre:492465:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 530/79: extinção dos Serviços Médico-Sociais constantes do DL 17/77",
+    "motivo": "Não textual: extingue os serviços sem dar nova redação nem revogar artigos do original (texto do alterador omitido na vista, resumo da triagem confirma)."
+   },
+   {
+    "instrucao": "DL 296-A/95, art. 22.º, n.º 3, al. h) e art. 34.º: enquadramento do Instituto de Gestão Financeira da Segurança Social no novo ministério",
+    "motivo": "Não textual: o texto do alterador só muda o enquadramento ministerial; não contém instrução com nova redação para qualquer artigo do DL 17/77."
+   },
+   {
+    "instrucao": "DL 260/99: derrogação das disposições do DL 17/77 em tudo o que contrarie o presente diploma",
+    "motivo": "Revogação condicional («em tudo o que contrarie»), sem indicar preceitos; não se aplica ao texto."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:537844:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 15/2007, art. 25.º, al. f): revoga o mapa II anexo ao DL 57/2004, na parte que respeita aos docentes da educação pré-escolar e dos ensinos básico e secundário",
+    "motivo": "Revogação parcial por matéria dentro de um mapa que só existe em imagem, sem título de anexo no consolidado onde se possa aplicar; não é possível reescrever a imagem."
+   },
+   {
+    "instrucao": "DL 15/2007, art. 25.º, als. a), b), c), d), e), g), h)",
+    "motivo": "Instruções dirigidas a outros diplomas (DL 232/87, DL 139-A/90, DL 249/92, DL 384/93, DL 312/99, DL 224/2006, DR 29/92); não são do original."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:541267:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 38/2014, art. 6.º, al. b): revoga o artigo 5.º do DL 64/2004 na parte relativa à intervenção «Reforma Antecipada» (alvo incerto: o texto original do artigo não está na vista, só na lista dos IGUAIS; a revogação parcial por matéria não é condicional e o consolidante não demonstra que o artigo não tem texto sobre o tema)",
+   "DL 38/2014, art. 6.º, al. b): revoga o artigo 8.º do DL 64/2004 na parte relativa à intervenção «Reforma Antecipada» (alvo incerto, mesmo motivo)",
+   "DL 38/2014, art. 6.º, al. b): revoga o n.º 1 do artigo 16.º do DL 64/2004 na parte em que se refere ao Regulamento (CEE) n.º 2079/92 (alvo incerto: a referência a retirar não é verificável na vista, o artigo consta como IGUAL ao original)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 38/2014, art. 6.º, als. a), c), d)",
+    "motivo": "Instruções dirigidas a outros diplomas (DL 31/94, Portaria 854/94, Portaria 99/2001); não são do original."
+   }
+  ]
+ }
+]

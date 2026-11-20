@@ -1,0 +1,155 @@
+[
+ {
+  "id": "pt:dre:463975:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DR 40/83 art. 1.º: lista nova com a Direcção de Serviços do Aprovisionamento Público; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DR 40/83: epígrafe nova, n.º 1 e alíneas a) a d) mantidos ('...'), alínea e) nova igual; consolidado só tem a) por o texto atual do original só ter a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DR 40/83 art. 2.º: aditados os n.os 9, 10 e 11 com texto letra a letra igual; 1 a 8 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 4.º do DR 40/83; n.os 1 e 2 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo mapa viii do DL 121/2008 (Declaração de Rectificação 49/2008); epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado (mapa viii do DL 121/2008, rectificado); restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado pelo art. 5.º do DR 40/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo mapa viii do DL 121/2008 (Decl. Rect. 49/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo mapa viii do DL 121/2008 (Decl. Rect. 49/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "dúvida",
+    "motivo": "Artigo revogado pelo mapa viii do DL 121/2008 (Decl. Rect. 49/2008), corpo '(Revogado.)' certo. Mas o original traz no fim do artigo o cabeçalho estrutural 'SUBSEÇÇÃO II / Pessoal técnico superior' (cabeçalho da subsecção seguinte, mal anexado ao art. 17.º) e o consolidado perdeu-o; não pertence ao artigo revogado.",
+    "texto_esperado": "###### Artigo 17.º — Graduação dos candidatos para efeitos de nomeação para a categoria de auxiliar de gestão patrimonial de 2.ª classe\n\n(Revogado.)\n\nSUBSEÇÇÃO II\n\nPessoal técnico superior"
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DR 69/80: n.º 3 com 'limite máximo anual de 30% dos mesmos'; resto igual (epígrafe passada a título).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 116/85, n.os 1.º a 5.º: cria a carreira de técnico superior de informática 'em substituição das carreiras de analista e programador' (art. 12.º, n.º 4 do original: '...programador e analista') e fixa as funções; o consolidado deixou o n.º 4 do art. 12.º igual ao original; alvo incerto quanto ao texto novo.",
+   "Portaria 73/87, ANEXO 'Conteúdo funcional da carreira de técnico auxiliar' (texto, não imagem): sem efeito no consolidado; alvo incerto (nenhuma instrução diz onde se insere)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 59/80: extinção do GVE e transferência das atribuições para a DGPE",
+    "motivo": "não textual; não dá redacção nova a nenhum artigo"
+   },
+   {
+    "instrucao": "Portaria 79/81: alargamento da área de recrutamento (art. 13.º)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DR 40/83 art. 3.º: quadro de pessoal aditado dos lugares do mapa anexo",
+    "motivo": "só em imagem; o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 869/84, n.º 1.º: quadro aumentado do lugar do mapa anexo",
+    "motivo": "só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Portaria 101/85, n.os 1.º e 2.º: lugares acrescidos/extinto e criado, pelo mapa anexo",
+    "motivo": "só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Portaria 116/85, n.º 6.º: quadro de informática do mapa I alterado pelo quadro anexo",
+    "motivo": "só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Portaria 290/86: criação de um lugar de assessor, letra C, no quadro",
+    "motivo": "o diploma que altera não traz o texto/mapa da alteração"
+   },
+   {
+    "instrucao": "Portaria 73/87: quadro substituído pelo mapa de pessoal anexo",
+    "motivo": "só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Portaria 531/89: alargamento excepcional da área de recrutamento (art. 13.º)",
+    "motivo": "não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "O cabeçalho 'SUBSEÇÇÃO II / Pessoal técnico superior', que o original traz no fim do art. 17.º, desapareceu do consolidado; fora isso sem alterações."
+ },
+ {
+  "id": "pt:dre:509026:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 = DL 368/86 (575000/115000 contos); n.os 5 e 6 do DL 29/80; n.os 7 a 9 do DL 368/86; n.os 2 a 4 mantidos do original. Alterações anteriores do n.º 1 (531/79, 29/80, 184/82, 294/84) superadas; arts. 2.º dos DL 29/80, 184/82, 294/84 e 368/86 e 3.º do 29/80 visam outros diplomas.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Despacho Normativo 107/77: esclarece o prazo do n.º 2 do art. 4.º",
+    "motivo": "não textual; interpretação ao abrigo do art. 10.º, sem redacção nova"
+   },
+   {
+    "instrucao": "Portaria 348/77, ao abrigo do n.º 1 do art. 1.º",
+    "motivo": "não textual; 'ao abrigo de'"
+   },
+   {
+    "instrucao": "Portaria 1049/81, ao abrigo do n.º 6 do art. 4.º (exclui bens do regime)",
+    "motivo": "não textual; 'ao abrigo de'"
+   },
+   {
+    "instrucao": "DL 415-A/86 art. 8.º n.º 3: mantêm-se em vigor as disposições que não colidam",
+    "motivo": "condicional ('que não colidam'); sem texto a alterar"
+   },
+   {
+    "instrucao": "Portaria 826/2005, ao abrigo do art. 1.º",
+    "motivo": "não textual; 'ao abrigo de'; altera a Portaria 618-A/2005 (outro diploma)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

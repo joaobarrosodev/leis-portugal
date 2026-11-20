@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157016:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5f6aef08e151648b",
+    "508c9b2a1bb83d8a",
+    "0acb13b0a7fe6d77",
+    "c4913c228e8f2e8d",
+    "27e85ad2c742f5a6",
+    "7681689f3ed98a6b",
+    "cd49c50749cf7d85",
+    "83b1b713189a5920",
+    "6b84091c377c80e1",
+    "92bf29d9c92741ab",
+    "96c4e57adbaba637",
+    "ae05e7482631a161",
+    "2e9c008ca5d30dbd",
+    "6f274a68feca72fb",
+    "ecc318b6d009e2d4",
+    "162e568b24284473",
+    "f33362356a52849b",
+    "600d51932895a4ef",
+    "e1d754079cd28589",
+    "af0a335b1572655b",
+    "c2f135f27d5ee245",
+    "b81e1b8abb64ad95",
+    "758c91090096c52f"
+   ]
+  },
+  {
+   "date": "1982-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:375264:por",
+     "title": "Decreto Regulamentar n.º 63/82",
+     "published": "1982-09-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/63-1982-375264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "5f6aef08e151648b",
+    "a89c5ae73efbf988",
+    "0acb13b0a7fe6d77",
+    "c4913c228e8f2e8d",
+    "fc5d9c9fcb27420a",
+    "8916bdcfaec26622",
+    "727dfb3cace047b1",
+    "bab63fdd1de5327b",
+    "e8b4ffe899b42f1a",
+    "753a0ed3d1d805e1",
+    "f6ff5e012904d9da",
+    "751ca411d1e98b87",
+    "9378e943016755e3",
+    "5a44b133841daa49",
+    "ba0bea3e0dc269aa",
+    "6e7178fc73b91ac4",
+    "2c1e3a0bcb0d4ff6",
+    "f193f31c1b6f8a40",
+    "c5e47395590074d0",
+    "b9b8198c0f74509a",
+    "f93473edc91333ab",
+    "7659409efc287912",
+    "9838455852f26e2e"
+   ]
+  }
+ ],
+ "fragments": {
+  "5f6aef08e151648b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Dezembro\n\nDesde há muito que se vem sentido a necessidade de uma reestruturação, global e profunda, do INE, em ordem a dotá-lo de uma eficiente capacidade de resposta às novas necessidades de informação estatística, designadamente as que advêm da adesão de Portugal à Comunidade Económica Europeia.\n\nNão obstante já se encontrarem em curso estudos prévios que visam essa reestruturação, impõe-se, desde já implementar algumas medidas prévias no domínio da organização dos serviços e dos recursos humanos que possibilitem alcançar os objectivos de reestruturação de forma gradual e equilibrada.\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "508c9b2a1bb83d8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Estrutura orgânica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Estrutura orgânica)\n\nSão criadas nas direcções de serviços adiante nomeadas as secções de apoio e de execução técnica seguintes:\n\na) Direcção dos Serviços de Coordenação e Administração Geral:\n\nDivisão de Coordenação Estatística:\n\nSecção de Apoio ao Conselho Nacional de Estatística.\n\nSecção de Cooperação Técnica.\n\nSecção de Informação Estatística Geral.\n\nServiço de Contencioso:\n\nSecção de Transgressões Estatísticas.\n\nRepartição de Contabilidade e Património:\n\nSecção de Orçamento e Contas.\n\nSecção de Expediente Geral."
+  },
+  "0acb13b0a7fe6d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Economato.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Economato.\n\nb) Direcção dos Serviços de Estatísticas Correntes:\n\nDivisão de Estatísticas Agrícolas e Alimentares:\n\nSecção de Coordenação e de Informações.\n\nSecção de Estatísticas Agrícolas e Florestais.\n\nSecção das Estatísticas da Pecuária.\n\nSecção das Estatísticas da Pesca.\n\nDivisão de Estatísticas Industriais:\n\nSecção de Coordenação e de Informações.\n\nSecção de Estatísticas das Indústrias Extractivas e da Electricidade, Gás e Água.\n\nSecção de Estatísticas das Indústrias da Alimentação, Bebidas e Tabaco,\n\nTêxteis e do Vestuário e do Couro.\n\nSecção de Estatísticas das Outras Indústrias Transformadoras.\n\nSecção de Estatísticas da Construção.\n\nSecção dos Indicadores Qualitativos.\n\nDivisão de Estatísticas da Distribuição e Serviços:\n\nSecção de Coordenação e Informações.\n\nSecção de Estatísticas da Importação.\n\nSecção de Estatísticas de Exportação e Reexportação.\n\nSecção de Estatísticas do Comércio Interno, dos Preços e dos Indicadores Qualitativos.\n\nSecção de Estatísticas dos Transportes e Comunicações.\n\nSecção de Estatísticas do Turismo.\n\nDivisão de Estatísticas Financeiras:\n\nSecção de Coordenação e Informações.\n\nSecção de Estatísticas das Empresas.\n\nSecção de Estatísticas Monetárias e Financeiras.\n\nSecção de Estatísticas da Administração Central.\n\nSecção de Estatísticas da Administração Regional e Local.\n\nDivisão de Estatísticas Demográficas e Sociais:\n\nSecção de Coordenação e Informações.\n\nSecção de Estatísticas da Demografia.\n\nSecção de Estatísticas da Saúde.\n\nSecção de Estatísticas da Educação, da Investigação Científica e Tecnológica e da Cultura e Recreio.\n\nSecção de Estatísticas da Justiça.\n\nSecção de Estatísticas dos Salários.\n\nSecção de Estatísticas das Condições de Trabalho e das Organizações Profissionais.\n\nSecção de Estatísticas das Forças de Trabalho.\n\nSecção de Estatísticas da Segurança Social.\n\nDivisão de Estatísticas Gerais e Regionais:\n\nSecção de Publicações Gerais e Regionais.\n\nSecção de Apoio aos Serviços Regionais.\n\nc) Direcção dos Serviços de Censos e Inquéritos:"
+  },
+  "c4913c228e8f2e8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Apoio.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Apoio.\n\nDivisão de Preparação de Censos e Inquéritos e de Análise de Resultados:\n\nSecção de Informação e Publicações.\n\nDivisão de Execução de Censos e Inquéritos:\n\nSecções de Contrôle e Supervisão de Trabalhos de Campo (Zonas Norte, Centro e Sul).\n\nSecção de Análise da Informação.\n\nSecção de Codificação da Informação.\n\nSecção de Validação da Informação."
+  },
+  "27e85ad2c742f5a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Quadro do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Quadro do pessoal)\n\nO quadro do pessoal do Instituto Nacional de Estatística passa a ser o que consta do mapa anexo a este decreto e dele faz parte integrante."
+  },
+  "7681689f3ed98a6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Pessoal dirigente)\n\n1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.\n\n2 - Os cargos de directores do Centro de Estudos Demográficos, do Centro de Estudos Económicos e do Centro de Informática são equiparados a directores de serviços.\n\n3 - O cargo de subdirector do Centro de Informática é equiparado a chefe de divisão.\n\n4 - Os cargos referidos nos números anteriores e os de director de serviços e chefe de divisão são providos nos termos da lei geral.\n\n5 - O lugar de chefe de repartição será provido de entre:\n\na) Chefe de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nb) Indivíduos possuidores de curso superior e experiência adequada.\n\n6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:\n\na) Técnicos de estatística principal ou de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nc) Indivíduos possuidores de curso superior e experiência adequada."
+  },
+  "cd49c50749cf7d85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Carreiras técnicas superiores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Carreiras técnicas superiores)\n\n1 - Os lugares das carreiras técnicas superiores de estatística e de jurista são providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n2 - Os lugares de bibliotecário-arquivista são providos nos termos previstos no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto."
+  },
+  "83b1b713189a5920": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Chefe de secção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Chefe de secção)\n\nOs lugares de chefe de secção serão providos de entre:\n\na) Primeiros-oficais, técnicos auxiliares principais e agentes de censos e inquéritos principais com, pelo menos, três anos de bom e efectivo serviço na categoria que tenham revelado capacidade para o exercício de funções de coordenação e chefia e que tenham adquirido formação adequada;\n\nb) Indivíduos habilitados com curso superior adequado."
+  },
+  "6b84091c377c80e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Carreira de topógrafo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Carreira de topógrafo)\n\n1 - Os lugares de topógrafo principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, topógrafos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de topógrafo de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário e comprovada experiência profissional."
+  },
+  "92bf29d9c92741ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Carreira de técnico auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Carreira de técnico auxiliar)\n\n1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário."
+  },
+  "96c4e57adbaba637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Carreira de agente de censos e inquéritos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Carreira de agente de censos e inquéritos)\n\n1 - Os lugares de agente de censos e inquéritos principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, agentes de censos e inquéritos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de agente de censos e inquéritos de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário."
+  },
+  "ae05e7482631a161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Carreira de desenhador)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Carreira de desenhador)\n\n1 - Os lugares de desenhador principal e de 1.ª classe serão providos de entre, respectivamente, desenhadores de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário, sendo dada preferência aos que possuam experiência ou formação específica para as funções a que se destinam."
+  },
+  "2e9c008ca5d30dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (carreira de operador de microfilmagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (carreira de operador de microfilmagem)\n\nO provimento na carreira de operador de microfilmagem será feito nos mesmos termos da carreira de desenhador."
+  },
+  "6f274a68feca72fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Carreira administrativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Carreira administrativa)\n\n1 - Os lugares de primeiro-oficial e segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n3 - O provimento nos lugares de escriturário-dactilógrafo far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho."
+  },
+  "ecc318b6d009e2d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Tesoureiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Tesoureiro)\n\n1 - O lugar de tesoureiro de 1.ª classe será provido de entre segundos-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - O lugar de tesoureiro de 2.ª classe será provido de entre terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria."
+  },
+  "162e568b24284473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Carreiras operárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Carreiras operárias)\n\nO provimento nas categorias de impressor de offset, dactilógrafo-compositor, mecânico e litografo de offset será feito de acordo com o disposto na portaria a que se refere o n.º 6 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho."
+  },
+  "f33362356a52849b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Pessoal auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Pessoal auxiliar)\n\nOs lugares de encarregado de pessoal auxiliar, motorista, telefonista, contínuo, guarda e auxiliar de limpeza serão providos nos termos da lei geral."
+  },
+  "600d51932895a4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Intercomunicabilidade de carreiras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Intercomunicabilidade de carreiras)\n\n1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.\n\n2 - Os técnicos de estatística principal poderão transitar para técnico superior de estatística de 1.ª classe, mediante provas de selecção que impliquem a avaliação de conhecimentos de nível superior."
+  },
+  "e1d754079cd28589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Carreira a extinguir)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Carreira a extinguir)\n\nA carreira de técnico de estatística extinguir-se-á à medida que forem os lugares vagando em resultado da normal progressão na carreira."
+  },
+  "af0a335b1572655b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Primeiro provimento)\n\n1 - Até 31 de Dezembro de 1979, o provimento dos lugares do quadro de pessoal anexo ao presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor deste decreto se encontre vinculado a qualquer título ao Instituto Nacional de Estatística, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria imediatamente superior, desde que preencha os requisitos de tempo para a promoção previstos para a respectiva carreira;\n\nc) Para categoria de ingresso em outra carreira para a qual possua as habilitações necessárias;\n\nd) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remuneradas pela mesma letra de vencimento, ou por letra de vencimento imediatamente superior, quando não se verifique coincidência da remuneração.\n\n2 - O disposto na alínea d) do número anterior só se aplica quando, por força do presente diploma, se tiver verificado extinção de uma categoria ou carreira e a sua substituição por nova categoria ou carreira.\n\n3 - O provimento referido no n.º 1 do presente artigo não prejudica a situação que os funcionários inseridos em carreira já detêm, salvaguardado o acesso à categoria de técnico assessor, de acordo com o disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n4 - Para efeitos do disposto no número anterior os funcionários providos como técnicos de estatística e habilitados com curso superior transitam para a carreira técnica superior de estatística.\n\n5 - O provimento a que se referem os números anteriores efectuar-se-á mediante lista ou listas nominativas, aprovadas por despacho do Ministro da Coordenação Económica e do Plano, publicadas no Diário da República e visadas ou anotadas pelo Tribunal de Contas, consoante se verifique ou não mudança de situação funcional.\n\n6 - O tempo exigido para o provimento nos termos da alínea b) do n.º 1 poderá ser reduzido de um ano se um funcionário tiver classificação de serviço Bom."
+  },
+  "c2f135f27d5ee245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Dúvidas de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Dúvidas de aplicação)\n\nAs dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da Coordenação Económica e do Plano e do Ministro das Finanças e do Secretário de Estado da Administração Pública de acordo com as respectivas competências."
+  },
+  "b81e1b8abb64ad95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Produção de efeitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Produção de efeitos)\n\nO presente diploma produz efeitos desde 1 de Agosto de 1979."
+  },
+  "758c91090096c52f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.\n\nPromulgado em 27 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf)\n\nAntónio Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago."
+  },
+  "a89c5ae73efbf988": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Estrutura orgânica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Estrutura orgânica)\n\nSão criadas nas direcções de serviços adiante nomeadas as secções de apoio e de execução técnica seguintes:\n\na) Direcção dos Serviços de Coordenação e Administração Geral:\n\nDivisão de Coordenação Estatística:\n\nSecção de Apoio ao Conselho Nacional de Estatística.\n\nSecção de Cooperação Técnica.\n\nSecção de Informação Estatística Geral.\n\nServiço de Contencioso:\n\nSecção de Transgressões Estatísticas.\n\nRepartição de Contabilidade e Património:\n\nSecção de Orçamento e Contas.\n\nSecção de Expediente Geral."
+  },
+  "fc5d9c9fcb27420a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Quadro do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Quadro do pessoal)\n\nO quadro do pessoal do Instituto Nacional de Estatística passa a ser o que consta do mapa anexo a este decreto e dele faz parte integrante."
+  },
+  "8916bdcfaec26622": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Pessoal dirigente)",
+   "in_force_from": "1982-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+   ],
+   "markdown": "###### Artigo 3.º — (Pessoal dirigente)\n\n1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.\n\n2 - Os cargos de directores do Centro de Estudos Demográficos, do Centro de Estudos Económicos e do Centro de Informática são equiparados a directores de serviços.\n\n3 - O cargo de subdirector do Centro de Informática é equiparado a chefe de divisão.\n\n4 - Os cargos referidos nos números anteriores e os de director de serviços e chefe de divisão são providos nos termos da lei geral.\n\n5 - O lugar de chefe de repartição será provido de entre:\n\na) Chefe de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nb) Indivíduos possuidores de curso superior e experiência adequada.\n\n6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:\n\na) (Revogada.)\n\nb) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nc) Indivíduos possuidores de curso superior e experiência adequada.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+  },
+  "727dfb3cace047b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Carreiras técnicas superiores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Carreiras técnicas superiores)\n\n1 - Os lugares das carreiras técnicas superiores de estatística e de jurista são providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n2 - Os lugares de bibliotecário-arquivista são providos nos termos previstos no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto."
+  },
+  "bab63fdd1de5327b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Chefe de secção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Chefe de secção)\n\nOs lugares de chefe de secção serão providos de entre:\n\na) Primeiros-oficais, técnicos auxiliares principais e agentes de censos e inquéritos principais com, pelo menos, três anos de bom e efectivo serviço na categoria que tenham revelado capacidade para o exercício de funções de coordenação e chefia e que tenham adquirido formação adequada;\n\nb) Indivíduos habilitados com curso superior adequado."
+  },
+  "e8b4ffe899b42f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Carreira de topógrafo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Carreira de topógrafo)\n\n1 - Os lugares de topógrafo principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, topógrafos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de topógrafo de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário e comprovada experiência profissional."
+  },
+  "753a0ed3d1d805e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Carreira de técnico auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Carreira de técnico auxiliar)\n\n1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário."
+  },
+  "f6ff5e012904d9da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Carreira de agente de censos e inquéritos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Carreira de agente de censos e inquéritos)\n\n1 - Os lugares de agente de censos e inquéritos principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, agentes de censos e inquéritos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de agente de censos e inquéritos de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário."
+  },
+  "751ca411d1e98b87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Carreira de desenhador)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Carreira de desenhador)\n\n1 - Os lugares de desenhador principal e de 1.ª classe serão providos de entre, respectivamente, desenhadores de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário, sendo dada preferência aos que possuam experiência ou formação específica para as funções a que se destinam."
+  },
+  "9378e943016755e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (carreira de operador de microfilmagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (carreira de operador de microfilmagem)\n\nO provimento na carreira de operador de microfilmagem será feito nos mesmos termos da carreira de desenhador."
+  },
+  "5a44b133841daa49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Carreira administrativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Carreira administrativa)\n\n1 - Os lugares de primeiro-oficial e segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n3 - O provimento nos lugares de escriturário-dactilógrafo far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho."
+  },
+  "ba0bea3e0dc269aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Tesoureiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Tesoureiro)\n\n1 - O lugar de tesoureiro de 1.ª classe será provido de entre segundos-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - O lugar de tesoureiro de 2.ª classe será provido de entre terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria."
+  },
+  "6e7178fc73b91ac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Carreiras operárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Carreiras operárias)\n\nO provimento nas categorias de impressor de offset, dactilógrafo-compositor, mecânico e litografo de offset será feito de acordo com o disposto na portaria a que se refere o n.º 6 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho."
+  },
+  "2c1e3a0bcb0d4ff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Pessoal auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Pessoal auxiliar)\n\nOs lugares de encarregado de pessoal auxiliar, motorista, telefonista, contínuo, guarda e auxiliar de limpeza serão providos nos termos da lei geral."
+  },
+  "f193f31c1b6f8a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Intercomunicabilidade de carreiras)",
+   "in_force_from": "1982-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+   ],
+   "markdown": "###### Artigo 15.º — (Intercomunicabilidade de carreiras)\n\n1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+  },
+  "c5e47395590074d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Carreira a extinguir)",
+   "in_force_from": "1982-09-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+   ],
+   "markdown": "###### Artigo 16.º — (Carreira a extinguir)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27."
+  },
+  "b9b8198c0f74509a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Primeiro provimento)\n\n1 - Até 31 de Dezembro de 1979, o provimento dos lugares do quadro de pessoal anexo ao presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor deste decreto se encontre vinculado a qualquer título ao Instituto Nacional de Estatística, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria imediatamente superior, desde que preencha os requisitos de tempo para a promoção previstos para a respectiva carreira;\n\nc) Para categoria de ingresso em outra carreira para a qual possua as habilitações necessárias;\n\nd) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remuneradas pela mesma letra de vencimento, ou por letra de vencimento imediatamente superior, quando não se verifique coincidência da remuneração.\n\n2 - O disposto na alínea d) do número anterior só se aplica quando, por força do presente diploma, se tiver verificado extinção de uma categoria ou carreira e a sua substituição por nova categoria ou carreira.\n\n3 - O provimento referido no n.º 1 do presente artigo não prejudica a situação que os funcionários inseridos em carreira já detêm, salvaguardado o acesso à categoria de técnico assessor, de acordo com o disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n4 - Para efeitos do disposto no número anterior os funcionários providos como técnicos de estatística e habilitados com curso superior transitam para a carreira técnica superior de estatística.\n\n5 - O provimento a que se referem os números anteriores efectuar-se-á mediante lista ou listas nominativas, aprovadas por despacho do Ministro da Coordenação Económica e do Plano, publicadas no Diário da República e visadas ou anotadas pelo Tribunal de Contas, consoante se verifique ou não mudança de situação funcional.\n\n6 - O tempo exigido para o provimento nos termos da alínea b) do n.º 1 poderá ser reduzido de um ano se um funcionário tiver classificação de serviço Bom."
+  },
+  "f93473edc91333ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Dúvidas de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Dúvidas de aplicação)\n\nAs dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da Coordenação Económica e do Plano e do Ministro das Finanças e do Secretário de Estado da Administração Pública de acordo com as respectivas competências."
+  },
+  "7659409efc287912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Produção de efeitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Produção de efeitos)\n\nO presente diploma produz efeitos desde 1 de Agosto de 1979."
+  },
+  "9838455852f26e2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.\n\nPromulgado em 27 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf)\n\nAntónio Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago."
+  }
+ }
+}

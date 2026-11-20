@@ -3,11 +3,15 @@
   "artigos": [],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (Lei n.º 13/2023): o pedido não traz nenhum texto deste diploma (secção vazia), pelo que não há instrução dirigida ao original que se possa ler e aplicar.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Lei n.º 13/2023, revogação dos artigos 14.º a 32.º indicada no reparo: sem texto, o pedido não traz nenhum artigo da Lei n.º 13/2023 (o texto do alterador vem vazio), pelo que não se pode confirmar nem copiar a instrução",
   "instrucoes": [
-    "Lei n.º 13/2023: sem texto no pedido; nada aplicado"
+    "Alterador 1 (Lei n.º 13/2023): o pedido não traz texto do alterador; o reparo (revogação dos arts. 14.º a 32.º) não se pode confirmar no texto, por isso nada foi aplicado (nao_aplicavel, sem texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

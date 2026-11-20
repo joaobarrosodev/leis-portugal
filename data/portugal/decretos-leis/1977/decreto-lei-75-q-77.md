@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-11-04'
+version_history:
+  file: decreto-lei-75-q-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-11-04'
+    amending: pt:dre:221108:por
+    amending_title: Decreto-Lei n.º 368/86
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:10:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 368/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-75-q-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,17 +180,25 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1. A sujeição de bens e serviços aos regimes de preços previstos no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, com as alterações constantes do presente diploma, será determinada em portaria do Ministro do Comércio e Turismo, com base quer na natureza dos bens e serviços, quer na dimensão das empresas, por iniciativa própria ou mediante proposta do Ministério da Tutela.
+###### Artigo 1.º
+
+1. A sujeição de bens e serviços aos regimes de preços previstos no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, com as alterações constantes do presente diploma, será determinada em portaria do Ministro do Comércio e Turismo, com base quer na natureza dos bens e serviços, quer na dimensão das empresas, por iniciativa própria ou mediante proposta do Ministério da Tutela.
 
 2. A sujeição dos bens ou serviços constantes da lista anexa ao [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231) aos regimes de preços em vigor, bem como a composição da mesma lista, serão efectuadas por portaria do Ministro do Comércio e Turismo e do Ministro da Tutela que superintender na respectiva actividade.
 
 3. A fixação de preços e de margens de comercialização constará de despacho do Ministro do Comércio e Turismo ou de despacho conjunto com o Ministro competente.
 
-Art. 2.º É suprimido o regime de preços controlados, a que se refere a alínea b) do n.º 1 e o n.º 3 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231).
+###### Artigo 2.º
 
-Art. 3.º O regime de preços declarados, previsto na alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), é alterado de acordo com o disposto no presente decreto-lei, passando a consistir na possibilidade de as empresas praticarem novos preços, mediante comunicação prévia, reservando-se a Administração a faculdade de se opor a esses preços, se não os considerar justificados, perante os elementos de que dispõe e que as empresas são obrigadas a apresentar.
+É suprimido o regime de preços controlados, a que se refere a alínea b) do n.º 1 e o n.º 3 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231).
 
-Art. 4.º - 1. Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno no ano anterior tenha sido superior a 50000 contos, mas somente aqueles cuja facturação tenha sido superior a 10000 contos, quando tais bens ou serviços não estejam abrangidos naquele estádio de produção ou comercialização por qualquer outro regime.
+###### Artigo 3.º
+
+O regime de preços declarados, previsto na alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), é alterado de acordo com o disposto no presente decreto-lei, passando a consistir na possibilidade de as empresas praticarem novos preços, mediante comunicação prévia, reservando-se a Administração a faculdade de se opor a esses preços, se não os considerar justificados, perante os elementos de que dispõe e que as empresas são obrigadas a apresentar.
+
+###### Artigo 4.º
+
+1 - Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total, correspondente a vendas no mercado interno no ano anterior, tenha sido superior a 575000 contos, mas somente aqueles bens ou serviços enquadrados numa posição da Classificação das Actividades Económicas (CAE, revisão de 1973) a seis dígitos, cuja facturação nessa posição tenha sido superior a 115000 contos, quando tais bens ou serviços não sejam abrangidos naquele estádio de produção ou importação por qualquer outro regime.
 
 2. As declarações de novos preços a praticar pelas empresas abrangidas no número anterior, quando envolvam aumento, deverão ser enviadas em carta registada, com aviso de recepção, para as Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar, consoante a natureza dos bens e serviços, com a antecedência mínima de quinze dias da data em que se pretenda sejam aplicados.
 
@@ -203,9 +226,25 @@ Lucro da exploração.
 
 4. O disposto nos n.os 2, 3 e 4 do artigo 8.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231) aplica-se às empresas sujeitas ao regime definido no artigo 3.º do presente diploma.
 
-Art. 5.º Às empresas produtoras ou importadoras submetidas ao regime de preços declarados por força do disposto no artigo anterior que pretendam lançar no mercado novos bens ou serviços de utilização igual ou semelhante à dos bens ou serviços sujeitos aquele regime aplica-se, quanto a estes bens ou serviços, o disposto nos n.os 2, 3 e 4 daquele artigo.
+5 - Os limites de facturação previstos no n.º 1 poderão ser alterados por portaria do Ministro do Comércio e Turismo sempre que tal se julgue conveniente para posições determinadas da Classificação das Actividades Económicas (C. A. E.) a seis dígitos.
 
-Art. 6.º - 1. Se as Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar considerarem não justificados os preços declarados pelas empresas nos termos dos artigos 4.º e 5.º, submeterão novos preços à aprovação do Ministro do Comércio e Turismo.
+6 - Os bens ou serviços enquadrados numa dada posição da Classificação das Actividades Económicas (C. A. E.) a seis dígitos poderão ser excluídos ou incluídos no regime de preços declarados por portaria do Ministro do Comércio e Turismo, ou por portaria conjunta com o Ministro da tutela, no caso dos bens constantes da lista anexa à [Portaria n.º 1/78](https://diariodarepublica.pt/dr/detalhe/portaria/1-1978-468815), de 2 de Janeiro.
+
+7 - Os limites de facturação definidos no n.º 1 deste artigo serão anualmente revistas com base numa taxa de actualização obtida a partir do «índice de preços no consumidor», sem habilitação, publicada pelo INE em Dezembro de cada ano, sendo o valor desta taxa de actualização o da variação média anual daquele «índice de preços» verificada nos doze meses do ano a que se refere a actualização.
+
+8 - O montante que resulta da aplicação da taxa de actualização referida no número anterior será arredondado, por excesso, por forma que seja expresso em valores múltiplos de 25000 contos.
+
+9 - A actualização do montante de facturação bruta dos bens ou serviços enquadrados numa posição CAE a seis dígitos deverá corresponder a um quinto do montante da facturação bruta total, revisto nos termos deste artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 368/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1986-221108), publicado em 1986-11-03.
+
+###### Artigo 5.º
+
+Às empresas produtoras ou importadoras submetidas ao regime de preços declarados por força do disposto no artigo anterior que pretendam lançar no mercado novos bens ou serviços de utilização igual ou semelhante à dos bens ou serviços sujeitos aquele regime aplica-se, quanto a estes bens ou serviços, o disposto nos n.os 2, 3 e 4 daquele artigo.
+
+###### Artigo 6.º
+
+1. Se as Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar considerarem não justificados os preços declarados pelas empresas nos termos dos artigos 4.º e 5.º, submeterão novos preços à aprovação do Ministro do Comércio e Turismo.
 
 2. O despacho a alterar os preços praticados pelas empresas só poderá ser proferido até sessenta dias após a recepção nas Direcções-Gerais da declaração a que se refere o n.º 2 do artigo 4.º deste decreto-lei.
 
@@ -213,19 +252,29 @@ Art. 6.º - 1. Se as Direcções-Gerais do Comércio Alimentar e do Comércio n�
 
 4. Os preços constantes dos despachos referidos nos números antecedentes serão comunicados às empresas por carta registada, com aviso de recepção, e deverão começar a ser praticados no terceiro dia útil a contar da data da recepção.
 
-Art. 7.º - 1. A venda de bens ou a prestação de Serviços por preços superiores aos que resultam da aplicação do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), com as alterações introduzidas pelo presente diploma, constitui crime de especulação.
+###### Artigo 7.º
+
+1. A venda de bens ou a prestação de Serviços por preços superiores aos que resultam da aplicação do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), com as alterações introduzidas pelo presente diploma, constitui crime de especulação.
 
 2. Incorrem no crime previsto e punido no artigo 242.º do Código Penal aqueles que prestarem falsas declarações nas diligências a que são obrigadas as empresas nos termos deste diploma.
 
 3. A falta de declaração a que são obrigadas as empresas nos termos do artigo 5.º é punida com multa igual a 3% da facturação dos bens e serviços em causa.
 
-Art. 8.º A violação do disposto neste diploma e no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), ou o não cumprimento de diligências legalmente exigidas na sua execução, constituem transgressão punível com a multa de 2000$00 a 10000$00, se outra sanção mais grave não lhes for aplicável.
+###### Artigo 8.º
 
-Art. 9.º O regime estabelecido neste diploma não se aplica aos pedidos de revisão de preços entrados nas Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar até à data da sua entrada em vigor.
+A violação do disposto neste diploma e no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), ou o não cumprimento de diligências legalmente exigidas na sua execução, constituem transgressão punível com a multa de 2000$00 a 10000$00, se outra sanção mais grave não lhes for aplicável.
 
-Art. 10.º As dúvidas suscitadas na interpretação do presente decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+###### Artigo 9.º
 
-Art. 11.º São revogados os seguintes preceitos do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231): alínea b) do n.º 1 e n.os 3 e 4 do artigo 1.º; artigo 2.º; alíneas b), c) e d) do artigo 4.º; artigo 7.º, com excepção do n.º 3, e artigos 9.º, 10.º, 11.º e 14.º
+O regime estabelecido neste diploma não se aplica aos pedidos de revisão de preços entrados nas Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar até à data da sua entrada em vigor.
+
+###### Artigo 10.º
+
+As dúvidas suscitadas na interpretação do presente decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+
+###### Artigo 11.º
+
+São revogados os seguintes preceitos do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231): alínea b) do n.º 1 e n.os 3 e 4 do artigo 1.º; artigo 2.º; alíneas b), c) e d) do artigo 4.º; artigo 7.º, com excepção do n.º 3, e artigos 9.º, 10.º, 11.º e 14.º
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
 
