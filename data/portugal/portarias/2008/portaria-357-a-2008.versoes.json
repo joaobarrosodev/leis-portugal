@@ -1,0 +1,875 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:618169:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-973681231",
+ "dre_path": "/dr/detalhe/portaria/357-a-2008-618169",
+ "source_lastmod": "2026-10-30",
+ "versions": [
+  {
+   "date": "2009-06-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494776:por",
+     "title": "Portaria n.º 666/2009",
+     "published": "2009-06-18",
+     "dre_path": "/dr/detalhe/portaria/666-2009-494776"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "974757175",
+    "974757375",
+    "974757575",
+    "974757775",
+    "974757975",
+    "974758175",
+    "974758375",
+    "974758575",
+    "974758775",
+    "974758975",
+    "974759175",
+    "974759375",
+    "974759575",
+    "974759775",
+    "974759975",
+    "974760175",
+    "1182181575",
+    "1184286675",
+    "974760775",
+    "974760975",
+    "1184286875",
+    "1184287075",
+    "974761575",
+    "974761775",
+    "974761975",
+    "974762175",
+    "974762375",
+    "1178558175"
+   ]
+  },
+  {
+   "date": "2009-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491192:por",
+     "title": "Portaria n.º 1162/2009",
+     "published": "2009-10-02",
+     "dre_path": "/dr/detalhe/portaria/1162-2009-491192"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "974757175",
+    "974757375",
+    "974757575",
+    "974757775",
+    "974757975",
+    "974758175",
+    "974758375",
+    "974758575",
+    "974758775",
+    "1186343675",
+    "1186343875",
+    "974759375",
+    "974759575",
+    "974759775",
+    "974759975",
+    "974760175",
+    "1186344075",
+    "1184286675",
+    "974760775",
+    "974760975",
+    "1184286875",
+    "1184287075",
+    "974761575",
+    "974761775",
+    "974761975",
+    "974762175",
+    "974762375",
+    "1178558175"
+   ]
+  },
+  {
+   "date": "2010-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343948:por",
+     "title": "Portaria n.º 814/2010",
+     "published": "2010-08-27",
+     "dre_path": "/dr/detalhe/portaria/814-2010-343948"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo II",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "974757175",
+    "974757375",
+    "974757575",
+    "974757775",
+    "974757975",
+    "974758175",
+    "974758375",
+    "974758575",
+    "974758775",
+    "1186343675",
+    "1186343875",
+    "1188590075",
+    "1188588975",
+    "974759775",
+    "1188589175",
+    "974760175",
+    "1186344075",
+    "1188589375",
+    "1188589575",
+    "974760975",
+    "1184286875",
+    "1184287075",
+    "974761575",
+    "974761775",
+    "1188590375",
+    "974762175",
+    "1188590575",
+    "1178558175"
+   ]
+  },
+  {
+   "date": "2011-05-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287108:por",
+     "title": "Portaria n.º 184/2011",
+     "published": "2011-05-05",
+     "dre_path": "/dr/detalhe/portaria/184-2011-287108"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Anexo IV",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "974757175",
+    "974757375",
+    "974757575",
+    "974757775",
+    "974757975",
+    "974758175",
+    "1189978275",
+    "1189958775",
+    "1189958975",
+    "1189959175",
+    "1189959375",
+    "1189959575",
+    "1189959775",
+    "1189959975",
+    "1189960175",
+    "1189978375",
+    "1189960375",
+    "1189960575",
+    "1189960775",
+    "1189960975",
+    "1189961175",
+    "1189961375",
+    "1189961575",
+    "1189978475",
+    "1188590375",
+    "1189975575",
+    "1189975875",
+    "1189976175",
+    "1189976475",
+    "1189976775",
+    "1189977075",
+    "1189977375",
+    "1189978575",
+    "1189978675",
+    "1189978775",
+    "1189978075"
+   ]
+  }
+ ],
+ "fragments": {
+  "974757175": {
+   "fragment_id": "974757075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A estrutura empresarial dos territórios rurais, a nível nacional, reflecte o envelhecimento da população em geral, não tendo sido alvo das acções necessárias ao seu rejuvenescimento. Os novos desafios com que se deparam as explorações agrícolas nacionais, reflectindo as influências das tendências globais e europeias, justificam, só por si, a necessidade de uma acção eficaz sobre o tecido empresarial do sector, possibilitando uma maior e mais sustentável competitividade.\n\nConsequentemente, a necessidade de continuar a manter e atrair recursos humanos para a actividade agrícola implica a continuação do regime de incentivo à instalação de jovens agricultores.\n\nContudo, a experiência e avaliação do passado aponta para a necessidade de alterações ao modelo utilizado, melhorando, entre outras, a componente da formação profissional e o sistema de acompanhamento.\n\nA instalação, bem sucedida, de jovens agricultores deverá contribuir para a melhoria geral da actividade, induzir maior dinamismo empresarial baseado em novas competências, melhor adaptabilidade com melhorias na gestão, níveis de produtividade mais elevada e, consequentemente, maior capacidade competitiva. O prémio agora instituído insere-se, assim, no eixo da competitividade e pretende contribuir para essa renovação e rejuvenescimento sustentado do tecido rural e empresarial.\n\nA concepção desta acção, utilizando um instrumento base do quadro legislativo comunitário, possibilita aos jovens agricultores em primeira instalação apresentar um pedido de apoio sob a forma de prémio à instalação, fundamentado num plano empresarial justificado, coerente e com potencialidades, elaborado de acordo com as suas características particulares. Procura-se, desta forma, promover o processo de desenvolvimento e adaptação das explorações, gerando impactes positivos para os sectores e as regiões onde se desenvolvem.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "974757375": {
+   "fragment_id": "974757275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Acção n.º 1.1.3, «Instalação de Jovens Agricultores», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "974757575": {
+   "fragment_id": "974757475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo aos requisitos mínimos de aptidão e competência profissional adequada;\n\nb) Anexo II, relativo aos critérios de viabilidade económica da exploração em primeira instalação;\n\nc) Anexo III, relativo ao cálculo da valia dos jovens agricultores."
+  },
+  "974757775": {
+   "fragment_id": "974757675",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "974757975": {
+   "fragment_id": "974757875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Maio de 2008."
+  },
+  "974758175": {
+   "fragment_id": "974758075",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 1.1.3, «INSTALAÇÃO DE JOVENS AGRICULTORES»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 1.1.3, «INSTALAÇÃO DE JOVENS AGRICULTORES»"
+  },
+  "974758375": {
+   "fragment_id": "974758275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "974758575": {
+   "fragment_id": "974758475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da acção n.º 1.1.3, «Instalação de jovens agricultores», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "974758775": {
+   "fragment_id": "974758675",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO apoio previsto no presente Regulamento, designado «prémio à primeira instalação», prossegue os seguintes objectivos:\n\na) Fomentar a renovação e o rejuvenescimento das empresas agrícolas;\n\nb) Promover o processo de instalação de jovens agricultores;\n\nc) Contribuir para uma adequada formação e qualificação profissional dos jovens agricultores."
+  },
+  "974758975": {
+   "fragment_id": "974758875",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\na) «Aptidão e competência profissional adequada», possuir o perfil de qualificação e formação de acordo com o disposto na alínea b) do n.º 1 do artigo 5.º\n\nb) «Exploração agrícola», o conjunto de unidades de produção submetidas a uma gestão única.\n\nc) «Jovem agricultor», o agricultor que, à data da apresentação do pedido, tem mais de 18 e menos de 40 anos de idade.\n\nd) «Primeira instalação», a situação em que o jovem agricultor assume pela primeira vez a titularidade de uma exploração agrícola.\n\ne) «Titular de uma exploração agrícola», o gestor do aparelho produtivo e detentor, a qualquer título legítimo, do património fundiário necessário à produção de um ou vários produtos agrícolas.\n\nf) «Unidade de produção», o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização."
+  },
+  "974759175": {
+   "fragment_id": "974759075",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do prémio à primeira instalação previsto no presente Regulamento:\n\na) Os jovens agricultores que se instalem, pela primeira vez, numa exploração agrícola nos seis meses anteriores à data de apresentação do pedido de apoio;\n\nb) As pessoas colectivas que revistam a forma de sociedade por quotas com a actividade agrícola como objecto social, desde que os sócios gerentes que sejam detentores da maioria do capital social tenham mais de 18 e menos de 40 anos à data de apresentação do pedido, e se instalem pela primeira vez como tal."
+  },
+  "974759375": {
+   "fragment_id": "974759275",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Para além do disposto no artigo anterior, os candidatos devem ainda reunir os seguintes requisitos:\n\na) Possuírem o 9.º ano de escolaridade;\n\nb) Possuírem a aptidão e competência profissional adequada de acordo com os requisitos mínimos definidos no anexo i, sem prejuízo do disposto na alínea e) do n.º 1 do artigo 6.º;\n\nc) Deterem a titularidade da exploração agrícola objecto da primeira instalação;\n\nd) Deterem um sistema de contabilidade organizada, ou um sistema de contabilidade simplificada, aplicado nos termos das normas RICA, ou outros equiparados e reconhecidos para o efeito.\n\n2 - Os candidatos devem apresentar um plano empresarial relativo a um período de cinco anos, com coerência técnica, económica e financeira para uma exploração que apresente viabilidade económica de acordo com os critérios constantes do anexo ii, do qual conste, nomeadamente, o seguinte:\n\na) Situação inicial da exploração;\n\nb) Etapas e metas específicas, físicas e financeiras, para o desenvolvimento das actividades da exploração com o respectivo cronograma;\n\nc) Descrição de acções ou serviços necessários ao desenvolvimento da actividade agrícola;\n\nd) Descrição detalhada dos investimentos, designadamente os necessários para dar cumprimento às normas comunitárias em vigor, se aplicável.\n\n3 - Os candidatos devem ainda apresentar um plano de formação, com a identificação da formação necessária para adquirir a aptidão e competência profissional adequada quando, à data da apresentação do pedido de apoio, não a possuírem, bem como da formação complementar de interesse relevante para o exercício das actividades da exploração agrícola."
+  },
+  "974759575": {
+   "fragment_id": "974759475",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos beneficiários\n\n1 - Para além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, os beneficiários do prémio à primeira instalação devem:\n\na) Cumprir o plano empresarial;\n\nb) Manter a actividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de celebração do contrato de financiamento;\n\nc) Manter um sistema de contabilidade nos termos previstos na alínea d) do n.º 1 do artigo 5.º;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Se aplicável, adquirir, no prazo máximo de 36 meses a contar da data de celebração do contrato de financiamento, a aptidão e competência profissional adequada, bem como a formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.\n\n2 - Os beneficiários do prémio à primeira instalação devem ainda possuir o registo da exploração no Sistema de Identificação Parcelar (SIP)."
+  },
+  "974759775": {
+   "fragment_id": "974759675",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e valor do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma e valor do apoio\n\nOs apoios são concedidos sob a forma de subsídio não reembolsável, no valor de (euro) 40 000 por beneficiário."
+  },
+  "974759975": {
+   "fragment_id": "974759875",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de prémio à primeira instalação são avaliados de acordo com a aplicação dos seguintes factores:\n\na) A valia do plano empresarial (VPE), que valoriza a capacidade intrínseca da exploração agrícola de gerar riqueza;\n\nb) A valia do plano de formação (VPF), que valoriza a aptidão e competência profissional adequada, necessária ao jovem agricultor para gerir e desenvolver as actividades da exploração agrícola, bem como a iniciativa individual de se actualizar nos vários domínios de interesse relevante ao exercício da actividade.\n\n2 - Os pedidos são pontuados em função do resultado do cálculo da respectiva valia dos jovens agricultores (VJA), efectuado de acordo com a fórmula constante do anexo iii."
+  },
+  "974760175": {
+   "fragment_id": "974760075",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "1182181575": {
+   "fragment_id": "974760275",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 9.º — Apresentação dos pedidos de apoio\n\n1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio são submetidos nos seguintes períodos:\n\na) De 1 a 31 de Janeiro;\n\nb) De 1 a 30 de Abril;\n\nc) De 1 a 31 de Julho;\n\nd) De 1 a 31 de Outubro.\n\n2 - Para o ano de 2008, excepcionalmente, os pedidos de apoio ao prémio à primeira instalação são submetidos nos seguintes períodos:\n\na) De 12 de Maio a 25 de Julho;\n\nb) De 1 de Setembro a 31 de Outubro;\n\nc) De 1 de Novembro a 31 de Dezembro.\n\n3 - A apresentação dos pedidos efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+  },
+  "1184286675": {
+   "fragment_id": "974760475",
+   "type": 11,
+   "heading": "Artigo 10.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": "2009-06-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 10.º — Análise e decisão dos pedidos de apoio\n\n1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários, bem como a aplicação dos factores referidos no artigo 8.º\n\n2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Sem prejuízo do disposto no n.º 2, o parecer referido no n.º 1 é emitido num prazo máximo de 40 dias úteis a contar do termo do período de apresentação dos pedidos de apoio, sendo remetido à autoridade de gestão.\n\n4 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção em função do princípio da coesão territorial e hierarquiza os pedidos de acordo com a pontuação obtida no cálculo da VJA até ao limite da dotação orçamental, privilegiando, em caso de empate, os pedidos com VPE superior e, entre estes, os que primeiro tenham sido apresentados.\n\n5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 10 dias úteis a contar da data de recepção do parecer previsto no n.º 3.\n\n6 - Se o plano empresarial previsto no n.º 2 do artigo 5.º incluir investimentos inseridos em pedido de apoio à acção n.º 1.1.1, «Modernização e capacitação das empresas», o referido pedido deverá ser apresentado em simultâneo com o pedido de apoio objecto da presente portaria.\n\n7 - No caso previsto no número anterior, a decisão do pedido ao prémio à primeira instalação depende da aprovação do pedido apresentado à acção n.º 1.1.1, «Modernização e capacitação das empresas», quando o jovem agricultor também se tenha candidatado a esta, sendo, neste caso, o prazo referido no n.º 5 contado a partir da data de decisão adoptada naquela acção.\n\n8 - No caso previsto nos n.os 6 e 7 do presente artigo, os prazos aplicáveis à apreciação e decisão dos pedidos à acção n.º 1.1.1 são os previstos nos n.os 3 e 5 do presente artigo.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "974760775": {
+   "fragment_id": "974760675",
+   "type": 11,
+   "heading": "Artigo 11.º — Transição de pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transição de pedidos\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o período de submissão de pedidos seguinte ao da data da respectiva decisão, sendo definitivamente recusados caso não obtenham aprovação durante dois períodos consecutivos."
+  },
+  "974760975": {
+   "fragment_id": "974760875",
+   "type": 11,
+   "heading": "Artigo 12.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "1184286875": {
+   "fragment_id": "974761075",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento",
+   "in_force_from": "2009-06-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento devem ser apresentados de acordo com o seguinte:\n\na) 80 % do valor do prémio até 10 dias úteis após a celebração do contrato de financiamento;\n\nb) 20 % do valor do prémio após 36 meses a contar da data da celebração do contrato de financiamento, condicionado ao cumprimento das etapas e metas definidas no plano empresarial.\n\n3 - Para efeitos de pagamento ao beneficiário, o secretariado técnico verifica a existência de dotação orçamental, que comunica ao IFAP, I. P.\n\n4 - O pagamento do apoio é efectuado pelo IFAP, I. P., por transferência bancária, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da respectiva autorização.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "1184287075": {
+   "fragment_id": "974761275",
+   "type": 11,
+   "heading": "Artigo 14.º — Controlo",
+   "in_force_from": "2009-06-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 14.º — Controlo\n\n1 - O cumprimento das obrigações previstas nas alíneas a) e b) do n.º 1 do artigo 6.º está sujeito a controlo, até cinco anos após a data de celebração do contrato.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "974761575": {
+   "fragment_id": "974761475",
+   "type": 11,
+   "heading": "Artigo 15.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro.\n\n2 - Em caso de incumprimento das metas físicas previstas no plano empresarial, face às efectivamente realizadas cinco anos após a data de celebração do contrato de financiamento, o apoio pode ser recuperado, de forma proporcional ao grau de incumprimento detectado, quando este seja superior a 5  %."
+  },
+  "974761775": {
+   "fragment_id": "974761675",
+   "type": 1,
+   "heading": "Capítulo III — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposição transitória"
+  },
+  "974761975": {
+   "fragment_id": "974761875",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedidos de apoio apresentados em 2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pedidos de apoio apresentados em 2008\n\nPara os pedidos de apoio do ano de 2008, a instalação dos candidatos que sejam jovens agricultores à data de apresentação do pedido pode ter ocorrido após 1 de Janeiro de 2007."
+  },
+  "974762175": {
+   "fragment_id": "974762075",
+   "type": 14,
+   "heading": "Anexo I — Requisitos mínimos de aptidão e competência profissional adequada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Requisitos mínimos de aptidão e competência profissional adequada\n\n[a que se refere a alínea b) do n.º 1 do artigo 5.º]\n\n1 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação não é de componente agrícola e sem experiência agrícola de três anos:\n\na) Formação básica de agricultura, quarenta e oito horas;\n\nb) Formação específica para a orientação produtiva da instalação, até sessenta horas;\n\nc) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nd) Componente prática em contexto empresarial, sessenta horas.\n\n2 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade não é de componente agrícola, mas com experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, até sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n3 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação não é de componente agrícola, com experiência no sector agrícola de pelo menos três anos e com experiência de três anos na área de actividade da primeira instalação:\n\na) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nb) Formação específica para a orientação produtiva da instalação, sessenta horas.\n\n4 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas sem experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n5 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas com experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n6 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação é de componente agrícola, com experiência no sector agrícola de pelo menos três anos e com experiência de três anos na área de actividade da primeira instalação:\n\na) Formação de gestão da empresa agrícola, quarenta e cinco horas.\n\n7 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola [doutoramento, mestrado, licenciatura, bacharelato, curso de especialização tecnológica (CET), técnico de nível 3] e sem experiência agrícola de pelo menos três anos:\n\na) Aplicável de acordo com o referencial do n.º 1.\n\n8 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector agrícola de pelo menos três anos.\n\na) Aplicável de acordo com o referencial do n.º 2.\n\n9 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector de pelo menos três anos e experiência de pelo menos três anos na área de investimento.\n\na) Aplicável de acordo com o n.º 6.\n\n10 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3) ou curso de empresário agrícola homologado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), independentemente dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.\n\n11 - Candidatos com curso de empresário agrícola homologado pelo MADRP, independentemente dos níveis de escolaridade e dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória."
+  },
+  "974762375": {
+   "fragment_id": "974762275",
+   "type": 14,
+   "heading": "Anexo II — Viabilidade económica da exploração agrícola em primeira instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Viabilidade económica da exploração agrícola em primeira instalação\n\n(a que se refere o n.º 2 do artigo 5.º)\n\nA viabilidade económica da exploração expressa-se pela verificação conjunta das seguintes expressões:\n\nI - REL (igual ou maior que) SMN\n\nII - VALcf/UTA (igual ou maior que) 1,5 x SMN\n\nIII - VALinv (maior que) 0\n\nonde:\n\nREL - rendimento empresarial líquido;\n\nSMN - salário mínimo nacional;\n\nVALcf - valor acrescentado líquido a custo de factores;\n\nUTA - unidade de trabalho ano;\n\nVALinv - valor actualizado líquido do investimento.\n\nA expressão referida em iii é aplicável quando o plano empresarial preveja investimentos a realizar."
+  },
+  "1178558175": {
+   "fragment_id": "1178556575",
+   "type": 14,
+   "heading": "Anexo III — Cálculo da valia dos jovens agricultores",
+   "in_force_from": "2008-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+   ],
+   "markdown": "## Anexo III — Cálculo da valia dos jovens agricultores\n\n(a que se refere o artigo 8.º)\n\nA valia dos jovens agricultores (VJA) é obtida por aplicação da seguinte fórmula:\n\nVJA = 0,60 VPE + 0,40 VPF\n\nna qual:\n\nVPE - valia do plano empresarial;\n\nVPF - valia do plano de formação.\n\nOs pedidos de instalação que tenham uma VJA inferior a 4 não são aprovados.\n\nAs pontuações atribuídas às duas componentes do VJA são atribuídas da seguinte forma:\n\nI - Quanto à valia do plano empresarial:\n\nProdução de produtos estratégicos - 2;\n\nUtilização de energias renováveis - 2;\n\nAumento do volume de vendas (maior que 20 %) - 2;\n\nVALcf/UTA (maior que) 2 SMN - 2;\n\nAnálise SWOT detalhada e consistente - 2;\n\nMetas e objectivos de acordo com análise SWOT - 2.\n\nII - Quanto à valia do plano de formação:\n\nFormação adequada - 4;\n\nFormação complementar de interesse relevante para o exercício da actividade agrícola - 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+  },
+  "1186343675": {
+   "fragment_id": "974758875",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\na) «Aptidão e competência profissional adequada», possuir o perfil de qualificação e formação de acordo com o disposto na alínea b) do n.º 1 do artigo 5.º\n\nb) «Exploração agrícola», o conjunto de unidades de produção submetidas a uma gestão única.\n\nc) «Jovem agricultor», o agricultor que, à data da apresentação do pedido, tem mais de 18 e menos de 40 anos de idade.\n\nd) «Primeira instalação», a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio à instalação, nos casos em que este pedido venha a ser aprovado;\n\ne) «Titular de uma exploração agrícola», o gestor do aparelho produtivo e detentor, a qualquer título legítimo, do património fundiário necessário à produção de um ou vários produtos agrícolas.\n\nf) «Unidade de produção», o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+  },
+  "1186343875": {
+   "fragment_id": "974759075",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do prémio à primeira instalação previsto no presente Regulamento:\n\na) Os jovens agricultores que se instalem pela primeira vez numa exploração agrícola;\n\nb) As pessoas colectivas que revistam a forma de sociedade por quotas com a actividade agrícola como objecto social, desde que os sócios gerentes que sejam detentores da maioria do capital social tenham mais de 18 e menos de 40 anos à data de apresentação do pedido, e se instalem pela primeira vez como tal.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+  },
+  "1186344075": {
+   "fragment_id": "974760275",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação dos pedidos de apoio",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 9.º — Apresentação dos pedidos de apoio\n\n1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio são submetidos anualmente entre 2 de Janeiro e 31 de Dezembro.\n\n2 - (Revogado.)\n\n3 - A apresentação dos pedidos efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+  },
+  "1188590075": {
+   "fragment_id": "974759275",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Para além do disposto no artigo anterior, os candidatos devem ainda reunir os seguintes requisitos:\n\na) Possuírem o 9.º ano de escolaridade;\n\nb) Possuírem a aptidão e competência profissional adequada de acordo com os requisitos mínimos definidos no anexo i, sem prejuízo do disposto na alínea e) do n.º 1 do artigo 6.º;\n\nc) Deterem a titularidade da exploração agrícola objecto da primeira instalação;\n\nd) [Revogada.]\n\n2 - Os candidatos devem apresentar um plano empresarial relativo a um período de cinco anos, com coerência técnica, económica e financeira para uma exploração que apresente viabilidade económica de acordo com os critérios constantes do anexo ii, do qual conste, nomeadamente, o seguinte:\n\na) Situação inicial da exploração;\n\nb) Etapas e metas específicas, físicas e financeiras, para o desenvolvimento das actividades da exploração com o respectivo cronograma;\n\nc) Descrição de acções ou serviços necessários ao desenvolvimento da actividade agrícola;\n\nd) Descrição detalhada dos investimentos, designadamente os necessários para dar cumprimento às normas comunitárias em vigor, se aplicável.\n\n3 - Os candidatos devem ainda apresentar um plano de formação, com a identificação da formação necessária para adquirir a aptidão e competência profissional adequada quando, à data da apresentação do pedido de apoio, não a possuírem, bem como da formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1188588975": {
+   "fragment_id": "974759475",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 6.º — Obrigações dos beneficiários\n\n1 - Para além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, os beneficiários do prémio à primeira instalação devem:\n\na) Cumprir o plano empresarial;\n\nb) Manter a actividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de celebração do contrato de financiamento;\n\nc) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Se aplicável, adquirir, no prazo máximo de 36 meses a contar da data de celebração do contrato de financiamento, a aptidão e competência profissional adequada, bem como a formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.\n\n2 - Os beneficiários do prémio à primeira instalação devem ainda possuir o registo da exploração no Sistema de Identificação Parcelar (SIP).\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1188589175": {
+   "fragment_id": "974759875",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de prémio à primeira instalação são avaliados de acordo com a aplicação dos seguintes factores:\n\na) A valia do plano empresarial (VPE), que valoriza a capacidade intrínseca da exploração agrícola de gerar riqueza;\n\nb) A valia do plano de formação (VPF), que valoriza a aptidão e competência profissional adequada, necessária ao jovem agricultor para gerir e desenvolver as actividades da exploração agrícola, bem como a iniciativa individual de se actualizar nos vários domínios de interesse relevante ao exercício da actividade.\n\n2 - Os pedidos são pontuados em função do resultado do cálculo da respectiva valia dos jovens agricultores (VJA), efectuado de acordo com a fórmula constante do anexo iii.\n\n3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1188589375": {
+   "fragment_id": "974760475",
+   "type": 11,
+   "heading": "Artigo 10.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 10.º — Análise e decisão dos pedidos de apoio\n\n1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários, bem como a aplicação dos factores referidos no artigo 8.º\n\n2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Sem prejuízo do disposto no n.º 2, o parecer referido no n.º 1 é emitido num prazo máximo de 40 dias úteis a contar da data de apresentação dos pedidos de apoio, sendo remetido à autoridade de gestão.\n\n4 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção em função do princípio da coesão territorial e hierarquiza os pedidos de acordo com a pontuação obtida no cálculo da VJA até ao limite da dotação orçamental, privilegiando, em caso de empate, os pedidos com VPE superior e, entre estes, os que primeiro tenham sido apresentados.\n\n5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 10 dias úteis a contar da data de recepção do parecer previsto no n.º 3.\n\n6 - Se o plano empresarial previsto no n.º 2 do artigo 5.º incluir investimentos inseridos em pedido de apoio à acção n.º 1.1.1, «Modernização e capacitação das empresas», o referido pedido deverá ser apresentado em simultâneo com o pedido de apoio objecto da presente portaria.\n\n7 - No caso previsto no número anterior, a decisão do pedido ao prémio à primeira instalação depende da aprovação do pedido apresentado à acção n.º 1.1.1, «Modernização e capacitação das empresas», quando o jovem agricultor também se tenha candidatado a esta, sendo, neste caso, o prazo referido no n.º 5 contado a partir da data de decisão adoptada naquela acção.\n\n8 - No caso previsto nos n.os 6 e 7 do presente artigo, os prazos aplicáveis à apreciação e decisão dos pedidos à acção n.º 1.1.1 são os previstos nos n.os 3 e 5 do presente artigo.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "1188589575": {
+   "fragment_id": "974760675",
+   "type": 11,
+   "heading": "Artigo 11.º — Readmissão de pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 11.º — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1188590375": {
+   "fragment_id": "974761875",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedidos de apoio apresentados em 2008",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 16.º — Pedidos de apoio apresentados em 2008\n\nPara os pedidos de apoio do ano de 2008, a instalação dos candidatos que sejam jovens agricultores à data de apresentação do pedido pode ter ocorrido após 1 de Janeiro de 2007.\n\n> Revogado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1188590575": {
+   "fragment_id": "974762275",
+   "type": 14,
+   "heading": "Anexo II — Viabilidade económica da exploração agrícola em primeira instalação",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "## Anexo II — Viabilidade económica da exploração agrícola em primeira instalação\n\n(a que se refere o n.º 2 do artigo 5.º)\n\nA viabilidade económica da exploração expressa-se pela verificação conjunta das seguintes expressões:\n\nI - REL (igual ou maior que) SMN\n\nII - VALcf/UTA (igual ou maior que) 1,5 x SMN\n\nIII - (Revogado.)\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189978275": {
+   "fragment_id": "974758275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1189958775": {
+   "fragment_id": "974758475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime de aplicação da acção n.º 1.1.3, «Instalação de jovens agricultores», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.\n\n2 - O apoio a conceder no âmbito do presente Regulamento reveste as seguintes tipologias:\n\na) Prémio à instalação;\n\nb) Apoio aos investimentos realizados na exploração, incluindo pequenos investimentos de transformação e comercialização de produtos agrícolas provenientes da própria exploração.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189958975": {
+   "fragment_id": "974758675",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO apoio previsto no presente Regulamento prossegue os seguintes objectivos:\n\na) Fomentar a renovação e o rejuvenescimento das empresas agrícolas;\n\nb) Promover o processo de instalação de jovens agricultores e o desenvolvimento e adaptação das suas explorações agrícolas;\n\nc) Contribuir para uma adequada formação e qualificação profissional dos jovens agricultores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189959175": {
+   "fragment_id": "974758875",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\na) «Aptidão e competência profissional adequada», possuir o perfil de qualificação e formação de acordo com o disposto na alínea b) do n.º 1 do artigo 5.º\n\nb) «Exploração agrícola», o conjunto de unidades de produção submetidas a uma gestão única.\n\nc) «Jovem agricultor», o agricultor que, à data da apresentação do pedido, tem mais de 18 e menos de 40 anos de idade.\n\nd) «Primeira instalação», a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio a esta acção, nos casos em que este pedido venha a ser aprovado.\n\ne) «Titular de uma exploração agrícola», o gestor do aparelho produtivo e detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas.\n\nf) «Unidade de produção», o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.\n\ng) «Produtos agrícolas», os produtos abrangidos pelo anexo i do Tratado de Amesterdão, com excepção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 104/2000, do Conselho, de 17 de Dezembro de 1999.\n\nh) «Termo da operação», o ano de conclusão da operação, determinado no contrato de financiamento.\n\ni) «Valor do investimento do plano empresarial (VIPE)», o valor considerado para efeito do cálculo do prémio à instalação.\n\nj) «Valor do investimento elegível», o valor considerado para efeito do cálculo do apoio ao investimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+  },
+  "1189959375": {
+   "fragment_id": "974759075",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio previsto no presente Regulamento:\n\na) Os jovens agricultores que se instalem pela primeira vez numa exploração agrícola;\n\nb) As pessoas colectivas que revistam a forma de sociedade por quotas com a actividade agrícola como objecto social, desde que os sócios gerentes que sejam detentores da maioria do capital social tenham mais de 18 e menos de 40 anos à data de apresentação do pedido, e se instalem pela primeira vez como tal.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03, com efeitos a partir de 2008-05-10."
+  },
+  "1189959575": {
+   "fragment_id": "974759275",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Para além do disposto no artigo anterior, os candidatos devem ainda reunir os seguintes requisitos:\n\na) Possuírem o 9.º ano de escolaridade;\n\nb) Possuírem a aptidão e competência profissional adequada de acordo com os requisitos mínimos definidos no anexo i, sem prejuízo do disposto na alínea m) do n.º 1 do artigo 7.º;\n\nc) Encontrarem-se legalmente constituídos, quando se tratem de pessoas colectivas;\n\nd) (Revogada.)\n\ne) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;\n\nf) Não terem obtido aprovação de quaisquer ajudas ao investimento antes da data de apresentação do pedido de apoio;\n\ng) Não terem recebido quaisquer ajudas à produção ou à actividade agrícola, excepto nos dois anos anteriores ao ano de apresentação do pedido de apoio.\n\n2 - Os candidatos devem apresentar um plano empresarial de desenvolvimento da exploração agrícola do qual conste, nomeadamente, o seguinte:\n\na) Situação inicial da exploração;\n\nb) Etapas e metas específicas para o desenvolvimento das actividades da exploração;\n\nc) Descrição de acções ou serviços necessários ao desenvolvimento da actividade agrícola;\n\nd) Descrição detalhada dos investimentos, designadamente os necessários para dar cumprimento às normas comunitárias em vigor, se aplicável.\n\n3 - Os candidatos devem ainda apresentar um plano de formação, com a identificação da formação necessária para adquirir a aptidão e competência profissional adequada quando, à data da apresentação do pedido de apoio, não a possuírem, bem como da formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189959775": {
+   "fragment_id": "974759475",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar do apoio previsto no presente Regulamento as operações que reúnam as seguintes condições:\n\na) Cujo valor elegível do investimento, apurado na análise da respectiva candidatura, seja igual ou superior a (euro) 5000;\n\nb) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas ('OCM única') e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;\n\nc) Cujo investimento não seja incompatível com compromissos ou obrigações a que as parcelas, objecto do investimento, estejam sujeitas;\n\nd) Apresentem viabilidade económica, medida através do valor actualizado líquido, tendo a actualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu em vigor à data da abertura do concurso, à data de início do período ou à data de apresentação do pedido de apoio, consoante a modalidade de submissão;\n\ne) Apresentem coerência técnica, económica e financeira;\n\nf) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.\n\n2 - São elegíveis as despesas de investimento realizadas após a apresentação do pedido de apoio, excepto as despesas referidas nos n.os 7 e 10 do anexo ii, desde que realizadas até três meses antes da apresentação do pedido de apoio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189959975": {
+   "fragment_id": "974759675",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos beneficiários",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 7.º — Obrigações dos beneficiários\n\n1 - Os beneficiários do apoio previsto no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento e cumprir o plano empresarial;\n\nb) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PRODER;\n\nc) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\nd) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\ne) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\nf) Manter a actividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;\n\ng) Não locar, alienar ou por qualquer forma onerar os equipamentos, as plantações e as instalações co-financiadas, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, sem prévia autorização da autoridade de gestão;\n\nh) Assegurar o autofinanciamento necessário à execução da operação;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito;\n\nj) Apresentar à autoridade de gestão, três anos após o recebimento integral dos apoios, um relatório de avaliação sobre os resultados da operação, sempre que tal seja contratualmente previsto;\n\nl) Cumprir as normas comunitárias aplicáveis aos investimentos em questão;\n\nm) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de celebração do contrato de financiamento, a aptidão e competência profissional adequada, bem como a formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.\n\n2 - Os beneficiários dos apoios devem possuir o registo da exploração no Sistema de Identificação Parcelar (SIP).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189960175": {
+   "fragment_id": "974759875",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma, nível e limites do apoio",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 8.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto no presente Regulamento é atribuído sob a forma de subsídio não reembolsável.\n\n2 - Os níveis e limites do apoio são fixados no aviso de abertura ou anúncio, não podendo ultrapassar os níveis máximos estabelecidos no Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189978375": {
+   "fragment_id": "974760075",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "1189960375": {
+   "fragment_id": "974760275",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e não elegíveis\n\n1 - Para a determinação do valor do investimento elegível, as despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo ii, considerando, para a transformação e comercialização dos produtos agrícolas da exploração, os sectores de actividades (CAE) aí mencionados.\n\n2 - Para a determinação do valor do investimento do plano empresarial (VIPE), as despesas elegíveis são, designadamente, as constantes dos anexos ii e iii.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1162/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192), em vigor a partir de 2009-10-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1229-A/2008 - Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293), com efeitos a partir de 2008-05-10.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+  },
+  "1189960575": {
+   "fragment_id": "974760475",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados em função do resultado da respectiva valia do plano empresarial (VPE), calculada de acordo com os factores e a fórmula constantes do anexo iv.\n\n2 - A alteração dos critérios de selecção referidos no n.º 1, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "1189960775": {
+   "fragment_id": "974760675",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação dos pedidos de apoio",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "###### Artigo 11.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.\n\n2 - A apresentação dos pedidos efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189960975": {
+   "fragment_id": "974760875",
+   "type": 11,
+   "heading": "Artigo 12.º — Avisos de abertura e anúncios",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 12.º — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) O prazo para apresentação dos pedidos de apoio;\n\ne) A dotação orçamental a atribuir;\n\nf) Os níveis e limites dos apoios a conceder, respeitando o disposto no artigo 8.º;\n\ng) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridades fixados.\n\n2 - Os avisos de abertura ou os anúncios dos períodos de apresentação são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189961175": {
+   "fragment_id": "974761075",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 13.º — Análise e decisão dos pedidos de apoio\n\n1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos critérios referidos no artigo 10.º\n\n2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 60 dias úteis a contar da data de apresentação dos pedidos de apoio e remetido à autoridade de gestão.\n\n4 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção em função do princípio da coesão territorial até ao limite da dotação orçamental disponível.\n\n5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer previsto no n.º 3.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "1189961375": {
+   "fragment_id": "974761275",
+   "type": 11,
+   "heading": "Artigo 14.º — Readmissão de pedidos de apoio",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+   ],
+   "markdown": "###### Artigo 14.º — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19."
+  },
+  "1189961575": {
+   "fragment_id": "974761475",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189978475": {
+   "fragment_id": "974761675",
+   "type": 1,
+   "heading": "Capítulo III — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposição transitória"
+  },
+  "1189975575": {
+   "fragment_id": "1189975475",
+   "type": 11,
+   "heading": "Artigo 17.º — Execução das operações",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 17.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física das operações são, respectivamente, de 6 e 24 meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no n.º 1.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189975875": {
+   "fragment_id": "1189975775",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O prémio à instalação é pago, na totalidade, após a celebração do contrato de financiamento, mediante a apresentação do respectivo pedido de pagamento.\n\n3 - O pagamento do apoio ao investimento está condicionado à apresentação de pedidos de pagamento reportados às despesas efectivamente realizadas e pagas e ao cumprimento do disposto nos números seguintes.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas efectuadas por transferência bancária, débito em conta ou cheque, comprovados por extracto bancário, nos termos previstos nas cláusulas contratuais e nos números seguintes.\n\n5 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.\n\n6 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação e o seu pagamento ser condicionado à conclusão da formação, quando prevista no plano empresarial.\n\n7 - Sem prejuízo do disposto no n.º 2, podem ser apresentados até quatro pedidos de pagamento por operação.\n\n8 - Nas operações sujeitas a licenciamento, o último pagamento do apoio só pode ser efectuado quando o beneficiário demonstrar ser detentor de alvará de licença de utilização actualizado, nos termos da legislação aplicável.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189976175": {
+   "fragment_id": "1189976075",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos. 2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189976475": {
+   "fragment_id": "1189976375",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamentos",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 20.º — Pagamentos\n\nOs pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea i) do n.º 1 do artigo 7.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189976775": {
+   "fragment_id": "1189976675",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 21.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189977075": {
+   "fragment_id": "1189976975",
+   "type": 11,
+   "heading": "Artigo 22.º — Reduções e exclusões",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 22.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n2 - Em caso de incumprimento do plano empresarial, o prémio à instalação pode ser recuperado, de forma proporcional ao grau de incumprimento detectado, quando este seja superior a 5 %.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189977375": {
+   "fragment_id": "1189977275",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "###### Artigo 23.º\n\nNos pedidos de apoio apresentados até 31 de Agosto de 2011, são elegíveis as despesas das operações anteriores à respectiva apresentação, desde que efectuadas a partir de 1 de Julho de 2010.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189978575": {
+   "fragment_id": "974762075",
+   "type": 14,
+   "heading": "Anexo I — Requisitos mínimos de aptidão e competência profissional adequada",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "## Anexo I — Requisitos mínimos de aptidão e competência profissional adequada\n\n[a que se refere a alínea b) do n.º 1 do artigo 5.º]\n\n1 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação não é de componente agrícola e sem experiência agrícola de três anos:\n\na) Formação básica de agricultura, quarenta e oito horas;\n\nb) Formação específica para a orientação produtiva da instalação, até sessenta horas;\n\nc) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nd) Componente prática em contexto empresarial, sessenta horas.\n\n2 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade não é de componente agrícola, mas com experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, até sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n3 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação não é de componente agrícola, com experiência no sector agrícola de pelo menos três anos e com experiência de três anos na área de actividade da primeira instalação:\n\na) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nb) Formação específica para a orientação produtiva da instalação, até sessenta horas.\n\n4 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas sem experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, até sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n5 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas com experiência no sector agrícola de pelo menos três anos:\n\na) Formação específica para a orientação produtiva da instalação, sessenta horas;\n\nb) Formação de gestão da empresa agrícola, quarenta e cinco horas;\n\nc) Componente prática em contexto empresarial, sessenta horas.\n\n6 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta formação é de componente agrícola, com experiência no sector agrícola de pelo menos três anos e com experiência de três anos na área de actividade da primeira instalação:\n\na) Formação de gestão da empresa agrícola, quarenta e cinco horas.\n\n7 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola [doutoramento, mestrado, licenciatura, bacharelato, curso de especialização tecnológica (CET), técnico de nível 3] e sem experiência agrícola de pelo menos três anos:\n\na) Aplicável de acordo com o referencial do n.º 1.\n\n8 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector agrícola de pelo menos três anos:\n\na) Aplicável de acordo com o referencial do n.º 2.\n\n9 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector de pelo menos três anos e experiência de pelo menos três anos na área de investimento:\n\na) Aplicável de acordo com o n.º 6.\n\n10 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3) ou curso de empresário agrícola homologado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), independentemente dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.\n\n11 - Candidatos com curso de empresário agrícola homologado pelo MADRP, independentemente dos níveis de escolaridade e dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  },
+  "1189978675": {
+   "fragment_id": "974762275",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis e sectores de actividades",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+   ],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis e sectores de actividades\n\n(a que se refere o n.º 1 do artigo 9.º)\n\nDespesas elegíveis\n\nOs indicadores de custo unitário, por hora e por formando, em matéria de formação de iniciativa individual e de participações individuais, estão definidos na Portaria n.º 596-D/2008, de 8 de Julho.\n\n(ver documento original)\n\nDespesas não elegíveis\n\n(ver documento original)\n\nSectores abrangidos para a transformação e comercialização\n\nTransformação dos produtos agrícolas provenientes da própria exploração cujo produto final se enquadre nas actividades que constam no quadro seguinte, bem como a sua comercialização.\n\nSectores industriais enquadrados no PRODER (CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Novembro)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28."
+  },
+  "1189978775": {
+   "fragment_id": "1178556575",
+   "type": 14,
+   "heading": "Anexo III — Cálculo da valia dos jovens agricultores",
+   "in_force_from": "2011-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+   ],
+   "markdown": "## Anexo III — Cálculo da valia dos jovens agricultores\n\n(a que se refere o n.º 2 do artigo 9.º)\n\nDespesas elegíveis para a determinação do VIPE\n\nPara além de todas as despesas elegíveis no âmbito do investimento (anexo ii), são também elegíveis, nomeadamente, as seguintes despesas:\n\n1) Compra de animais;\n\n2) Aquisição de prédios rústicos e terrenos;\n\n3) Aquisição de participações sociais em cooperativas ou outras formas de organização de produtores;\n\n4) Aquisição de direitos de produção agrícola.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 496-A/2008 - Diário da República n.º 119/2008, 1º Suplemento, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340), em vigor a partir de 2008-05-10."
+  },
+  "1189978075": {
+   "fragment_id": "1189977775",
+   "type": 14,
+   "heading": "Anexo IV — Cálculo da valia do plano empresarial",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+   ],
+   "markdown": "## Anexo IV — Cálculo da valia do plano empresarial\n\n(a que se refere o artigo 10.º)\n\nA valia do plano empresarial (VPE) é obtida por aplicação da seguinte fórmula: VPE = L + VA + NQ na qual:\n\na) A localização (L) valoriza a contribuição da instalação de jovens agricultores em zonas desfavorecidas;\n\nb) A valia ambiental (VA) valoriza os benefícios ambientais dos investimentos;\n\nc) O nível de qualificação (NQ) valoriza a qualificação do beneficiário na área agrícola.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 184/2011 - Diário da República n.º 87/2011, Série I de 2011-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), em vigor a partir de 2011-05-06."
+  }
+ },
+ "unavailable_dates": [
+  "2008-05-09",
+  "2008-05-10"
+ ]
+}

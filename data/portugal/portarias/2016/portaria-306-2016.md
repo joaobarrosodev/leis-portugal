@@ -38,10 +38,20 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-01'
+version_history:
+  file: portaria-306-2016.versoes.json
+  count: 1
+  source_lastmod: '2026-10-30'
+  versions:
+  - date: '2026-11-01'
+    amending: pt:dre:1186535402:por
+    amending_title: Decreto-Lei n.º 205/2026
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/306/2016/12/07/p/dre/pt/html
@@ -54,20 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-2016-105323790
   metadata_url: https://data.dre.pt/eli/port/306/2016/12/07/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-2016-105323790
-  consolidated_url: null
-  retrieved_at: '2026-10-27T00:49:57Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-952478875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-952478875
+  retrieved_at: '2026-11-20T13:49:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-30T00:00:00Z'
 integrity:
-  source_sha256: fbd789a52294555c9f1809b0e7a8418ceca8f4fe3b1affffbe211236f3036662
+  source_sha256: 006b1b6f705bac931c3cc658ed2b5cb23fc817ec7eb5beda928dd1b7ea778037
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-27T00:49:57Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:21Z'
+  notes: 1 versão(ões); histórico completo em portaria-306-2016.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,28 +92,33 @@ subjects:
 - Gestão de Resíduos
 - Orgânica
 - Presidente
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1186535402:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402
+  date: '2026-10-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-27T00:49:57Z'
+  checked_at: '2026-11-20T13:49:21Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 306/2016
 
-Tendo em vista uma gestão mais eficiente dos recursos que promova uma efetiva transição de uma economia linear para uma economia circular, o [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540016/details/normal?l=1), de 5 de setembro, alterado pelo [Decreto-Lei n.º 173/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453550/details/normal?l=1), de 26 de agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, pelos [Decretos-Leis n.os 183/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/493485/details/normal?l=1), de 10 de agosto, [73/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/670034/details/normal?l=1), de 17 de junho, e [127/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/499546/details/normal?l=1), de 30 de agosto, pela [Lei n.º 82-D/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66022084/details/normal?l=1), de 31 de dezembro, pelos [Decretos-Leis n.os 75/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67185043/details/normal?l=1), de 11 de maio, e [103/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67485179/details/normal?l=1), de 15 de junho, pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73958532/details/normal?l=1), de 30 de março, e pelos [Decretos-Leis n.os 73/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/670034/details/normal?l=1), de 17 de junho, e [71/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75662181/details/normal?l=1), de 4 de novembro, que estabelece o regime geral aplicável à prevenção, produção e gestão de resíduos, criou, ao abrigo do seu artigo 50.º, a Comissão de Acompanhamento da Gestão de Resíduos (CAGER), que assume competências enquanto entidade de apoio técnico à formulação, acompanhamento e avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos.
+Tendo em vista uma gestão mais eficiente dos recursos que promova uma efetiva transição de uma economia linear para uma economia circular, o Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, pela Lei n.º 82-D/2014, de 31 de dezembro, pelos Decretos-Leis n.os 75/2015, de 11 de maio, e 103/2015, de 15 de junho, pela Lei n.º 7-A/2016, de 30 de março, e pelos Decretos-Leis n.os 73/2011, de 17 de junho, e 71/2016, de 4 de novembro, que estabelece o regime geral aplicável à prevenção, produção e gestão de resíduos, criou, ao abrigo do seu artigo 50.º, a Comissão de Acompanhamento da Gestão de Resíduos (CAGER), que assume competências enquanto entidade de apoio técnico à formulação, acompanhamento e avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos.
 
 Importa, deste modo e neste enquadramento, definir a estrutura, a composição e o funcionamento da CAGER.
 
-Assim, ao abrigo do disposto no artigo 50.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540016/details/normal?l=1), de 5 de setembro, bem como das competências delegadas pelos Ministros da Economia e do Ambiente, nos termos do Despacho n.º 2983/2016, de 17 de fevereiro, publicado na 2.ª série do Diário da República n.º 40, de 26 de fevereiro, e do Despacho n.º 489/2016, de 29 de dezembro, publicado na 2.ª série do Diário da República n.º 7, de 12 de janeiro de 2016, respetivamente, determina-se o seguinte:
+Assim, ao abrigo do disposto no artigo 50.º do Decreto-Lei n.º 178/2006, de 5 de setembro, bem como das competências delegadas pelos Ministros da Economia e do Ambiente, nos termos do Despacho n.º 2983/2016, de 17 de fevereiro, publicado na 2.ª série do Diário da República n.º 40, de 26 de fevereiro, e do Despacho n.º 489/2016, de 29 de dezembro, publicado na 2.ª série do Diário da República n.º 7, de 12 de janeiro de 2016, respetivamente, determina-se o seguinte:
 
 ###### Artigo 1.º — Objeto, áreas de intervenção e atribuições
 
@@ -116,7 +132,7 @@ Assim, ao abrigo do disposto no artigo 50.º do [Decreto-Lei n.º 178/2006](http
 
 a) Convocar e presidir as reuniões, estabelecer a ordem de trabalhos das mesmas, bem como presidir e dirigir os trabalhos da CAGER;
 
-b) A definição, regulamentação e supervisão do mecanismo de alocação e compensação entre entidades gestoras dos fluxos específicos de resíduos;
+b) (Revogada.)
 
 c) A elaboração de um relatório final dos trabalhos dos grupos específicos que venham a ser constituídos no sentido de contribuir para a tomada de decisão e definição de políticas sustentáveis na área da gestão de resíduos, a transmitir aos membros do Governo responsáveis pelas áreas da economia e do ambiente;
 
@@ -143,6 +159,8 @@ b) A emissão de pareceres com vista a apoiar a tomada de decisão;
 c) A observação e análise crítica, continuada e sistemática, da evolução de resultados e indicadores;
 
 d) A emissão de alertas sempre que verifique situações anómalas no setor, incluindo a recomendação da realização de auditorias.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01.
 
 ###### Artigo 2.º — Nomeação e composição
 
@@ -224,7 +242,7 @@ y) Da área científica e da investigação.
 
 1 - A participação nas reuniões ou em quaisquer outras atividades da CAGER não confere aos seus membros, referidos nos n.os 1 e 2 do artigo 2.º, o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senha de presença ou ajudas de custo.
 
-2 - Os encargos associados à gestão do mecanismo de alocação e de compensação são assegurados através da taxa prevista no n.º 7 do artigo 44.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540016/details/normal?l=1), de 5 de setembro, na redação dada pelo [Decreto-Lei n.º 71/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75662181/details/normal?l=1), de 4 de novembro.
+2 - Os encargos associados à gestão do mecanismo de alocação e de compensação são assegurados através da taxa prevista no n.º 7 do artigo 44.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na redação dada pelo Decreto-Lei n.º 71/2016, de 4 de novembro.
 
 ###### Artigo 5.º — Disposições transitórias
 
@@ -234,12 +252,10 @@ y) Da área científica e da investigação.
 
 ###### Artigo 6.º — Norma revogatória
 
-É revogada a [Portaria n.º 32/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/262076/details/normal?l=1), de 8 de janeiro.
+É revogada a Portaria n.º 32/2007, de 8 de janeiro.
 
 ###### Artigo 7.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 18 de novembro de 2016.
-
-O Secretário de Estado Adjunto e do Comércio, Paulo Alexandre dos Santos Ferreira. - O Secretário de Estado do Ambiente, Carlos Manuel Martins.

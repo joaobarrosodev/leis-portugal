@@ -3,7 +3,7 @@
  "id": "pt:dre:173481:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-164868294",
  "dre_path": "/dr/detalhe/decreto-lei/296-a-1998-173481",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-06",
  "versions": [
   {
    "date": "1998-09-25",
@@ -961,6 +961,86 @@
     "216567191",
     "164868876",
     "216567192",
+    "164871127",
+    "216567193",
+    "216567194",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "216567195",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2027-01-05",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1192107480:por",
+     "title": "Decreto-Lei n.º 214/2026",
+     "published": "2026-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/214-2026-1192107480"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "216567178",
+    "216567179",
+    "216567180",
+    "216567181",
+    "216567182",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "1192463775",
+    "164867955",
+    "164868968",
+    "164867957",
+    "216567184",
+    "216567185",
+    "164867960",
+    "164867961",
+    "216567186",
+    "164867963",
+    "164867964",
+    "164868969",
+    "216567187",
+    "1051456154",
+    "216567189",
+    "216567197",
+    "911304770",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "216567191",
+    "164868876",
+    "1192463975",
     "164871127",
     "216567193",
     "216567194",
@@ -2140,6 +2220,31 @@
     "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
    ],
    "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a um nem superior a três.\n\n4 - O número de elencos alternativos de provas fixado para cada par instituição/ciclo de estudos não pode ser superior a seis.\n\n5 - (Revogado.)\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2026-1051282294), em vigor a partir de 2026-02-21\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "1192463775": {
+   "fragment_id": "164868307",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição da Comissão Nacional de Acesso ao Ensino Superior",
+   "in_force_from": "2027-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 10.º — Composição da Comissão Nacional de Acesso ao Ensino Superior\n\n1 - A Comissão Nacional de Acesso ao Ensino Superior (CNAES) é constituída por cinco membros, designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área do ensino superior, de entre personalidades de reconhecido mérito e experiência.\n\n2 - Para o efeito do disposto no número anterior:\n\na) Três dos membros a propor ao Conselho de Ministros são selecionados de entre seis personalidades indicadas em lista apresentada, conjuntamente, pelo Conselho de Reitores das Universidades Portuguesas, pelo Conselho Coordenador dos Institutos Superiores Politécnicos e pela Associação Portuguesa do Ensino Superior Privado, ao membro do Governo responsável pela área do ensino superior;\n\nb) Dois dos membros a propor ao Conselho de Ministros são escolhidos pelo membro do Governo responsável pela área do ensino superior.\n\n3 - O presidente da CNAES é designado através da resolução do Conselho de Ministros referida no n.º 1, sob proposta do membro do Governo responsável pela área do ensino superior, de entre os membros referidos na alínea b) do número anterior.\n\n4 - O mandato dos membros da CNAES é de quatro anos, renovável uma vez por igual período.\n\n5 - Em caso de cessação antecipada do mandato, o novo representante inicia novo mandato.\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "1192463975": {
+   "fragment_id": "164868330",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": "2027-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em instituições de ensino superior público é feita através de um concurso nacional organizado pela DGES com a colaboração dos serviços do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) As instituições de ensino superior militar e policial, em que a candidatura é feita através de concursos locais organizados por cada instituição de ensino superior;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\nc) [Revogada.]\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do membro do Governo responsável pela área do ensino superior, a requerimento da instituição de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos.\n\n5 - A apresentação da candidatura ao concurso nacional é realizada através da Internet.\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 214/2026 - Diário da República n.º 216/2026, Série I de 2026-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480), em vigor a partir de 2027-01-05.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
   }
  }
 }

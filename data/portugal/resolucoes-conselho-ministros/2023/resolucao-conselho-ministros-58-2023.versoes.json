@@ -3,7 +3,7 @@
  "id": "pt:dre:214278015:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2023-896834947",
  "dre_path": "/dr/detalhe/resolucao-conselho-ministros/58-2023-214278015",
- "source_lastmod": "2024-11-18",
+ "source_lastmod": "2026-11-11",
  "versions": [
   {
    "date": "2023-06-14",
@@ -43,6 +43,36 @@
     "896752900",
     "896987333",
     "897029550"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1193730361:por",
+     "title": "Resolução do Conselho de Ministros n.º 221/2026",
+     "published": "2026-11-10",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "896752899",
+    "896987343",
+    "896987342",
+    "896987341",
+    "896987340",
+    "896987339",
+    "897029549",
+    "896987337",
+    "896987336",
+    "896987335",
+    "896752900",
+    "896987333",
+    "1194627175"
    ]
   }
  ],
@@ -154,6 +184,17 @@
     "Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 166/2024 - Diário da República n.º 223/2024, Série I de 2024-11-18](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902), em vigor a partir de 2024-11-19"
    ],
    "markdown": "## Anexo II — (a que se referem os n.os 1, 3, 5 e 6)\n\nANEXO II [...] [...]\n\nNota. - Aos valores indicados acresce IVA à taxa legal em vigor. [...]\n\nNota. - Aos valores indicados acresce IVA à taxa legal em vigor.\n\n> Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 166/2024 - Diário da República n.º 223/2024, Série I de 2024-11-18](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902), em vigor a partir de 2024-11-19"
+  },
+  "1194627175": {
+   "fragment_id": "896987384",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem os n.os 1, 3, 5 e 6)",
+   "in_force_from": "2026-11-15",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 221/2026 - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361), em vigor a partir de 2026-11-15, com efeitos a partir de 2026-11-05.",
+    "Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 166/2024 - Diário da República n.º 223/2024, Série I de 2024-11-18](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "## Anexo II — (a que se referem os n.os 1, 3, 5 e 6)\n\nEstimativa orçamental e escalonamento plurianual - Instalação afeta à Polícia Judiciária\n\n| Área geográfica de intervenção | Projetos | Anos | Total |  |\n| --- | --- | --- | --- | --- |\n| 2025 | 2026 |  |  |  |\n| Norte | Departamento de Investigação Criminal de Braga | 3 811 818,78 € | 2 510 761,22 € | 6 322 580,00 € |\n\nNota. - Aos valores indicados acresce IVA à taxa legal em vigor.\n\nFontes de financiamento e escalonamento plurianual\n\n| Fontes de financiamento | Anos | Total |  |\n| --- | --- | --- | --- |\n| 2025 | 2026 |  |  |\n| Receitas próprias da Polícia Judiciária | 2 192 465,84 € | 1 564 263,22 € | 3 756 729,06 € |\n| Fundo Ambiental - Plano de Recuperação e Resiliência (PRR) | 1 619 352,94 € | 946 498,00 € | 2 565 850,94 € |\n| Total | 3 811 818,78 € | 2 510 761,22 € | 6 322 580,00 € |\n\nNota. - Aos valores indicados acresce IVA à taxa legal em vigor.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 221/2026 - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/221-2026-1193730361), em vigor a partir de 2026-11-15, com efeitos a partir de 2026-11-05.\n\n> Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 166/2024 - Diário da República n.º 223/2024, Série I de 2024-11-18](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2024-896834902), em vigor a partir de 2024-11-19"
   }
  }
 }

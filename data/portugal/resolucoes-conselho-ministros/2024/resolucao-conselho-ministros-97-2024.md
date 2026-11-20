@@ -39,10 +39,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2024-07-26'
+version_history:
+  file: resolucao-conselho-ministros-97-2024.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2024-07-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/97/2024/07/26/p/dre/pt/html
@@ -55,20 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2024-873620389
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2024/07/26/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2024-873620389
-  consolidated_url: null
-  retrieved_at: '2026-10-23T13:34:28Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2024-939543113
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2024-939543113
+  retrieved_at: '2026-11-20T13:51:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 9518866ef8f78a6ea671e7c5580a8e80281eb23eed5e031c003e3278b43f6e07
+  source_sha256: 9b9c1ab180fb85a823830327bbf9468e2df0b7cb55bb8958afc52991e030c38f
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T13:34:28Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:20Z'
+  notes: 1 versão(ões); histórico completo em resolucao-conselho-ministros-97-2024.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,42 +125,40 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T13:34:28Z'
+  checked_at: '2026-11-20T13:51:20Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 97/2024
 
-O Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), é um instituto público de regime especial que, nos termos previstos no n.º 1 do artigo 3.º do [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, na sua redação atual, tem por missão a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social.
+O Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), é um instituto público de regime especial que, nos termos previstos no n.º 1 do artigo 3.º do Decreto-Lei n.º 84/2012, de 30 de março, na sua redação atual, tem por missão a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social.
 
 No âmbito das suas atribuições, compete ao IGFSS, I. P., as funções de tesouraria única do sistema de segurança social, nos termos da alínea b) do n.º 5 do artigo 3.º do referido decreto-lei.
 
 Neste âmbito, importa assegurar o pagamento de prestações diferidas e sociais, nomeadamente, pensões, rendimento social de inserção e doenças profissionais mediante a emissão de vales postais, sendo esta aquisição de serviços imprescindível e revestindo um caráter corrente e contínuo.
 
-A prestação de serviços postais será assegurada pelos CTT - Correios de Portugal, S. A., na medida em que se trata da empresa prestadora do serviço postal universal em território nacional, detendo por esta via a exclusividade dos serviços de aceitação, tratamento e distribuição de objetos postais, bem como a emissão e venda de selos e outros valores postais, tal como decorre do n.º 1 da Cláusula 5.ª do Contrato de Concessão do Serviço Postal Universal, de 6 de janeiro de 2022, e da [Resolução do Conselho de Ministros n.º 144/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2021-173732853), de 3 de novembro, pelo que os serviços postais a contratualizar se enquadram no âmbito do disposto no n.º 1 e na alínea a) do n.º 4 do artigo 5.º do Código dos Contratos Públicos, aprovado em anexo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, não sendo, por consequência, aplicáveis as disposições desse diploma ao presente procedimento contratual.
+A prestação de serviços postais será assegurada pelos CTT - Correios de Portugal, S. A., na medida em que se trata da empresa prestadora do serviço postal universal em território nacional, detendo por esta via a exclusividade dos serviços de aceitação, tratamento e distribuição de objetos postais, bem como a emissão e venda de selos e outros valores postais, tal como decorre do n.º 1 da Cláusula 5.ª do Contrato de Concessão do Serviço Postal Universal, de 6 de janeiro de 2022, e da Resolução do Conselho de Ministros n.º 144/2021, de 3 de novembro, pelo que os serviços postais a contratualizar se enquadram no âmbito do disposto no n.º 1 e na alínea a) do n.º 4 do artigo 5.º do Código dos Contratos Públicos, aprovado em anexo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, não sendo, por consequência, aplicáveis as disposições desse diploma ao presente procedimento contratual.
 
 A concretização de tal processo dará origem a encargos orçamentais em mais de um ano económico, prevendo-se a celebração de um contrato de serviços para emissão de vale postal para pagamento de prestações familiares, diferidas e sociais, para um período de 24 meses, sem possibilidade de renovação, cuja despesa corresponde ao montante máximo global de 6 512 210,40 EUR, isento de imposto sobre o valor acrescentado.
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996) de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012 de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Autorizar o conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), a realizar a despesa relativa à contratação de serviços para emissão de vale postal para pagamento de prestações familiares, diferidas e sociais, para um período de 24 meses, até ao montante máximo global de 6 512 210,40 EUR, isento de imposto sobre o valor acrescentado (IVA).
+1 - Autorizar o conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), a realizar a despesa relativa à contratação de serviços para emissão de vale postal para pagamento de prestações familiares, diferidas e sociais, até ao montante máximo global de 6 261 375,40 €, isento de imposto sobre o valor acrescentado (IVA).
 
 2 - Determinar que os encargos resultantes do disposto no número anterior não podem exceder, em cada ano económico, os seguintes montantes, isento de IVA.
 
-a) 2025 - 3 145 043,35 EUR;
+a) 2025 - 3 145 043,35 €;
 
-b) 2026 - 3 116 332,05 EUR;
-
-c) 2027 - 250 835,00 EUR.
+b) 2026 - 3 116 332,05 €.
 
 3 - Estabelecer que os valores fixados em cada ano económico podem ser acrescidos do saldo apurado no ano que antecede.
 
@@ -161,5 +169,3 @@ c) 2027 - 250 835,00 EUR.
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 16 de julho de 2024. - O Primeiro-Ministro, Luís Montenegro.
-
-117943318

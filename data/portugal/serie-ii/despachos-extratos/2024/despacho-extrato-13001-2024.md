@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2024-11-04'
+version_history:
+  file: despacho-extrato-13001-2024.versoes.json
+  count: 1
+  source_lastmod: '2026-11-16'
+  versions:
+  - date: '2024-11-04'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/13001-2024-895231165
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-extrato/13001-2024-895231165
-  consolidated_url: null
-  retrieved_at: '2026-10-26T12:05:01Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1195541375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1195541375
+  retrieved_at: '2026-11-20T13:53:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-16T00:00:00Z'
 integrity:
-  source_sha256: d4523a7a884d3f29b18e9de480cc16d937a25891bb09270e938cd1fe2c4705d8
+  source_sha256: b8ee12a9394fa4be0f5563a5afed28848da18b4986f4a42db48da51a1894bf16
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T12:05:01Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:14Z'
+  notes: 1 versão(ões); histórico completo em despacho-extrato-13001-2024.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +83,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T12:05:01Z'
+  checked_at: '2026-11-20T13:53:14Z'
   warnings: []
   errors: []
 ---
 
 # Despacho (extrato) n.º 13001/2024
 
-Por despacho de 25-09-2024 de Sua Ex.ª o Secretário de Estado Adjunto da Presidência, foi autorizada a consolidação definitiva das mobilidades intercarreiras na carreira e categoria de Técnico Superior, nos termos do artigo 99.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, dos seguintes trabalhadores:
+Por despacho de 25-09-2024 de Sua Ex.ª o Secretário de Estado Adjunto da Presidência, foi autorizada a consolidação definitiva das mobilidades intercarreiras na carreira e categoria de Técnico Superior, nos termos do artigo 99.º da Lei n.º 35/2014, de 20 de junho, dos seguintes trabalhadores:
 
 Anabela Campos Freitas;
 
@@ -94,7 +104,7 @@ Ana Margarida Rosado Pimenta;
 
 Ana Sofia Borges Sousa;
 
-Cláudia Maria Geitoira dos Santos Martins;
+Cláudia Maria Geitoeira dos Santos Martins;
 
 Francisco Manuel Cabeças Praia Azul;
 
@@ -106,7 +116,7 @@ José João Trindade Bento;
 
 Miguel Joaquim Tavares Cebolas;
 
-Rita Maria Silva Paz;
+Rita Isabel Silva Paz;
 
 Svetlana Victorovna Kabelevskaia Oliveira Alves;
 
@@ -115,7 +125,3 @@ Tiago Filipe da Silva Marques.
 Foi também autorizada a consolidação definitiva da mobilidade intercarreiras na carreira e categoria de Assistente Técnico da trabalhadora Regina Maria Cortesão Antunes da Silva.
 
 As referidas consolidações produzem efeitos à data do Despacho.
-
-11 de outubro de 2024. - O Diretor do Departamento Financeiro e de Recursos Humanos, Pedro Marques.
-
-318276763

@@ -41,18 +41,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2007-12-25'
 version_history:
   file: portaria-904-2006.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-11'
   versions:
-  - date: '2006-09-04'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2007-12-25'
     amending: pt:dre:627824:por
     amending_title: Portaria n.º 1611/2007
@@ -71,21 +67,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/904-2006-540003
   metadata_url: https://data.dre.pt/eli/port/904/2006/09/04/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/904-2006-540003
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:17:01Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-979327802
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-979327802
+  retrieved_at: '2026-11-20T13:51:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 0493ff4320409db52c3aec5ea6290ab9b9939d2217b600b3d31747f09489de27
+  source_sha256: 726803c3817faed266944bd26b84f501013257a31f2618a8389dd586ac09b0e3
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:17:01Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1611/2007. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-904-2006.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:17Z'
+  notes: 1 versão(ões); histórico completo em portaria-904-2006.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,23 +122,29 @@ relationships:
   target: celex:31998L0048
   label: null
   source: http://data.europa.eu/eli/dir/1998/48/oj
+- type: transposes
+  target: celex:31998L0034
+  label: null
+  source: null
+- type: transposes
+  target: celex:31998L0048
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:17:01Z'
+  checked_at: '2026-11-20T13:51:17Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 904/2006
-
-de 4 de Setembro
 
 O Decreto-Lei n.º 160/2005, de 21 de Setembro, veio regular o cultivo de variedades geneticamente modificadas, visando assegurar a sua coexistência com culturas convencionais e com o modo de produção biológico.
 
@@ -160,7 +162,7 @@ Confere-se, assim, aos agricultores a possibilidade de obterem, por parte de um 
 
 Deste modo, faz-se, essencialmente, depender a manutenção do estabelecimento de uma zona livre do cumprimento do acordo que os agricultores entre si celebram e declaram.
 
-Foram observados os procedimentos previstos no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpôs a Directiva n.º [98/34/CE](http://data.europa.eu/eli/dir/1998/34/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º [98/48/CE](http://data.europa.eu/eli/dir/1998/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Julho, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas.
+Foram observados os procedimentos previstos no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpôs a Directiva n.º 98/34/CE, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º 98/48/CE, do Parlamento Europeu e do Conselho, de 20 de Julho, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas.
 
 Assim, ao abrigo do disposto no artigo 13.º do Decreto-Lei n.º 160/2005, de 21 de Setembro:
 
@@ -188,7 +190,7 @@ b) No caso em que os agricultores referidos na alínea anterior não sejam os pr
 
 c) No caso de uma zona livre de iniciativa municipal que abranja toda a área do município, não é necessária a apresentação dos documentos referidos nas anteriores alíneas a) e b).
 
-> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20.
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1611/2007 - Diário da República n.º 245/2007, Série I de 2007-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), em vigor a partir de 2007-12-25, com efeitos a partir de 2007-12-20.
 
 ###### Artigo 4.º — Área
 
@@ -252,13 +254,13 @@ c) Haja violação às declarações escritas previstas no artigo 3.º, nomeadam
 
 3 - A deliberação sobre o pedido de estabelecimento de zona livre é aprovada por maioria absoluta dos votos dos membros presentes na reunião da assembleia municipal.
 
-4 - Caso algum agricultor da área proposta para zona livre declare por escrito a vontade de não participar na mesma, a assembleia municipal fica impedida de prosseguir com o pedido de estabelecimento.
+4 - ...
 
 5 - Após a deliberação referida nos n.os 2 e 3, compete ao órgão executivo do município assegurar o cumprimento do procedimento previsto no artigo 3.º, devendo assegurar a publicitação da intenção de criação da zona livre através de edital, a afixar em todas as juntas de freguesia da área objecto de zona livre, bem como em jornal de maior tiragem na região e na página da Internet do município.
 
 6 - Compete igualmente ao órgão executivo do município, nos termos previstos para o estabelecimento, a iniciativa tendente à cessação da zona livre ou renovação do pedido de estabelecimento, nos casos em que a mesma não ocorra automaticamente.
 
-> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20.
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1611/2007 - Diário da República n.º 245/2007, Série I de 2007-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), em vigor a partir de 2007-12-25, com efeitos a partir de 2007-12-20.
 
 ###### Artigo 13.º — Fiscalização
 

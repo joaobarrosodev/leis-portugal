@@ -42,11 +42,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2016-10-28'
+  consolidation_date: '2026-08-28'
 version_history:
   file: portaria-8-b-2007.versoes.json
-  count: 2
-  source_lastmod: '2024-08-22'
+  count: 3
+  source_lastmod: '2026-10-30'
   versions:
   - date: '2007-01-03'
     amending: null
@@ -58,6 +58,13 @@ version_history:
     changes:
     - Revoga Artigo 5.º
     - Revoga Artigo 6.º
+  - date: '2026-08-28'
+    amending: pt:dre:1162304245:por
+    amending_title: Portaria n.º 394/2026/1
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/8-b/2007/p/cons/20161027/pt/html
@@ -72,19 +79,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8-b/2007/p/cons/20161027/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-885358413
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-885358413
-  retrieved_at: '2026-10-22T13:12:43Z'
+  retrieved_at: '2026-11-20T13:49:27Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-08-22T00:00:00Z'
+  source_modified_at: '2026-10-30T00:00:00Z'
 integrity:
-  source_sha256: eda6ef1c6f361a668e6c81aefc044b52f8aa7f272c30ae7abc3f086d45aa7b24
+  source_sha256: 6ab4f820b90e8eeb6bbe6c1041197020449a12535b517f3d02fcc6dc92c2f6bd
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:12:43Z'
-  notes: 2 versão(ões); histórico completo em portaria-8-b-2007.versoes.json.
+  generated_at: '2026-11-20T13:49:27Z'
+  notes: 3 versão(ões); histórico completo em portaria-8-b-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,6 +118,11 @@ relationships:
   label: Revoga Artigo 5.º; Revoga Artigo 6.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/282-2016-75607854
   date: '2016-10-27'
+- type: amended_by
+  target: pt:dre:1162304245:por
+  label: Altera Artigo 7.º; Altera Artigo 15.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245
+  date: '2026-08-27'
 - type: cites
   target: pt:dre:167057:por
   label: null
@@ -132,7 +144,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:12:43Z'
+  checked_at: '2026-11-20T13:49:27Z'
   warnings: []
   errors: []
 ---
@@ -197,13 +209,15 @@ Os beneficiários das prestações de desemprego que se encontrem a prestar trab
 
 ###### Artigo 7.º — Contagem do prazo de garantia
 
-1 - Na contagem de prazo de garantia para efeitos de atribuição do subsídio de desemprego e do subsídio social de desemprego, a que se refere o artigo 22.º, consideram-se, respectivamente, os 24 e 12 meses civis anteriores ao da data do desemprego, sem prejuízo de, nas situações em que se mostre necessário para o preenchimento do respectivo prazo de garantia, relevarem:
+1 - Na contagem do prazo de garantia para efeitos de atribuição do subsídio de desemprego a que se refere o artigo 22.º consideram-se os 24 meses civis anteriores à data do desemprego, sem prejuízo de, nas situações em que se mostre necessário para o preenchimento do respetivo prazo de garantia, relevarem:
 
 a) Os dias de trabalho prestados no mês em que ocorreu o desemprego;
 
 b) Os dias de férias vencidos e não gozados na vigência do contrato de trabalho.
 
 2 - O período de ausência de registo de remunerações durante o período de concessão de pensões provisórias de invalidez ou no âmbito da protecção nos riscos profissionais não é considerado para efeitos de contagem do prazo de garantia e de cálculo da remuneração de referência das prestações de desemprego, relevando os períodos de registo de remunerações anteriores e posteriores.
+
+> Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
 
 ###### Artigo 8.º — Subsídio de desemprego parcial
 
@@ -218,6 +232,8 @@ Para efeitos do disposto no artigo 27.º, nas situações em que o beneficiário
 ###### Artigo 10.º — Subsídio social de desemprego subsequente ao subsídio de desemprego
 
 Na definição do período de duração do subsídio social de desemprego subsequente ao subsídio de desemprego, a que se refere o artigo 38.º, a carreira contributiva a considerar é aquela que relevou para atribuição da prestação inicial de desemprego.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
 
 ###### Artigo 11.º — Frequência de formação profissional durante a concessão de subsídio de desemprego parcial
 
@@ -241,9 +257,11 @@ Para efeitos do disposto na alínea b) do artigo 56.º o período de ausência d
 
 ###### Artigo 15.º — Pensão de velhice por antecipação da idade
 
-1 - O acesso à pensão de velhice por antecipação da idade, nas situações enquadráveis no artigo 57.º em que não haja lugar a subsídio social de desemprego, por não se encontrar preenchida a condição de recursos, depende da manutenção da situação de desemprego de longa duração, comprovada pela inscrição no centro de emprego.
+1 - O acesso à pensão de velhice por antecipação da idade, nas situações enquadráveis no artigo 57.º, depende da manutenção da situação de desemprego de longa duração, comprovada pela inscrição no centro de emprego.
 
-2 - Para efeitos da aplicação da norma transitória, constante do n.º 3 do artigo 82.º, considera-se que integram o seu âmbito, para além das situações em que os beneficiários tenham requerido ou se encontrem a receber subsídio de desemprego, subsídio social de desemprego ou subsídio de desemprego parcial, aquelas em que o pagamento das prestações se encontra suspenso e as enquadradas no artigo 46.º do Decreto-Lei n.º 119/99, de 14 de Abril.
+2 - Para efeitos de aplicação da norma transitória constante do n.º 3 do artigo 82.º, considera-se que integram no seu âmbito, para além das situações em que os beneficiários tenham requerido ou se encontrem a receber subsídio de desemprego ou subsídio de desemprego parcial, aqueles em que o pagamento das prestações se encontra suspenso e as enquadradas no artigo 46.º do Decreto-Lei n.º 119/99, de 14 de abril.
+
+> Alterado pelo/a Artigo 30.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
 
 ###### Artigo 16.º — Serviço de segurança social competente
 

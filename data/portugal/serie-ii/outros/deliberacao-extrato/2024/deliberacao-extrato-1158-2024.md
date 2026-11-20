@@ -28,10 +28,19 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2024-08-30'
+version_history:
+  file: deliberacao-extrato-1158-2024.versoes.json
+  count: 1
+  source_lastmod: '2026-11-16'
+  versions:
+  - date: '2024-08-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: null
   eli: null
@@ -44,20 +53,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao-extrato/1158-2024-886310124
   metadata_url: null
-  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao-extrato/1158-2024-886310124
-  consolidated_url: null
-  retrieved_at: '2026-10-26T16:03:57Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/deliberacao-extrato/2024-1195621675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/deliberacao-extrato/2024-1195621675
+  retrieved_at: '2026-11-20T13:53:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-16T00:00:00Z'
 integrity:
-  source_sha256: bcf0da871f08baf3fec215c677989f3b011c8cacc9e426d15884e21c49b3696b
+  source_sha256: 68bc4bdb1dc14959dcda450b95e8429b1b3e44450e5811d76db4428d0c0e9cbc
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-26T16:03:57Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:17Z'
+  notes: 1 versão(ões); histórico completo em deliberacao-extrato-1158-2024.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +79,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-26T16:03:57Z'
+  checked_at: '2026-11-20T13:53:17Z'
   warnings: []
   errors: []
 ---
@@ -830,7 +840,7 @@ Licenciada Liliana Isabel Alves, Procuradora da República, auxiliar na comarca 
 
 Licenciada Maria Cristina Oliveira de Castro, Procuradora da República, auxiliar na comarca da Madeira, colocada no Funchal - Central Criminal, comarca da Madeira, auxiliar;
 
-Licenciada Catarina Lopes Lima, Procuradora da República, efetiva na comarca de Castelo Branco, colocada em Coimbra - DIAP, comarca de Coimbra, auxiliar;
+Licenciada Catarina Lopes Lima, Procuradora da República, efetiva na comarca de Castelo Branco, movimentada para Coimbra - DIAP, comarca de Coimbra, colocada em Castelo Branco - Local Criminal, comarca de Castelo Branco, auxiliar, por permuta;
 
 Licenciada Inês Oliveira Silva, Procuradora da República, auxiliar na comarca de Santarém, colocada em Leiria - TAF, auxiliar;
 
@@ -842,7 +852,7 @@ Licenciada Daniela da Silva Pinho, Procuradora da República, efetiva na comarca
 
 Licenciada Cassia Gomes da Silva Monteiro, Procuradora da República, auxiliar na comarca de Coimbra, colocada em Leiria - DIAP, comarca de Leiria, auxiliar;
 
-Licenciada Natália Elisabete de Castro Rodrigues, Procuradora da República, auxiliar na comarca de Coimbra, colocada em Castelo Branco - Local Criminal, comarca de Castelo Branco, auxiliar;
+Licenciada Natália Elisabete de Castro Rodrigues, Procuradora da República, auxiliar na comarca de Coimbra, movimentada para Castelo Branco - Local Criminal de Castelo Branco, comarca de Castelo Branco, colocada em Coimbra - DIAP, comarca de Coimbra, auxiliar, por permuta;
 
 Licenciado Gonçalo Maria Leite Marinho Falcão Gomes, Procurador da República, auxiliar na comarca de Lisboa Oeste, colocado em Moimenta da Beira, comarca de Viseu, efetivo;
 
@@ -1265,6 +1275,8 @@ Os efeitos do movimento agora aprovado estão condicionados à obtenção de cab
 Prazo para aceitação da nomeação: 5 dias para o Continente e 10 dias para as Regiões
 
 Autónomas.
+
+> Retificado pelo/a [Declaração de Retificação n.º 706-A/2024/2 - Diário da República n.º 168/2024, Suplemento, Série II de 2024-08-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/706-a-2024-886514226), com efeitos a partir de 2024-08-30.
 
 12 de agosto de 2024. - A Secretária-Geral da Procuradoria-Geral da República, Cristina Vicente.
 

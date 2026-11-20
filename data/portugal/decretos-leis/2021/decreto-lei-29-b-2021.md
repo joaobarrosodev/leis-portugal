@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2024-09-10'
+  consolidation_date: '2026-10-30'
 version_history:
   file: decreto-lei-29-b-2021.versoes.json
-  count: 3
-  source_lastmod: '2024-06-25'
+  count: 4
+  source_lastmod: '2026-11-03'
   versions:
   - date: '2021-05-04'
     amending: null
@@ -72,6 +72,19 @@ version_history:
     - Altera Artigo 6.º
     - Altera Artigo 11.º
     - Altera Artigo 12.º
+  - date: '2026-10-30'
+    amending: pt:dre:1188732999:por
+    amending_title: Decreto-Lei n.º 206-A/2026
+    changes:
+    - Adita Artigo 12.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/29-b/2021/p/cons/20240909/pt/html
@@ -86,19 +99,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29-b/2021/p/cons/20240909/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-216138232
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-216138232
-  retrieved_at: '2026-10-22T12:58:21Z'
+  retrieved_at: '2026-11-20T13:49:49Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-03T00:00:00Z'
 integrity:
-  source_sha256: c677b661e87ad1654c62873522ab4ed24e0f6595b04244f3897f1f4ae6846960
+  source_sha256: ff979e7ec5a18639ac49f2a30cdb53c612a0e0eb19b616387a752bbc28003905
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:58:21Z'
-  notes: 3 versão(ões); histórico completo em decreto-lei-29-b-2021.versoes.json.
+  generated_at: '2026-11-20T13:49:49Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-29-b-2021.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,8 +157,18 @@ relationships:
   label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 11.º; Altera Artigo 12.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450
   date: '2024-09-09'
+- type: amended_by
+  target: pt:dre:1188732999:por
+  label: Adita Artigo 12.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999
+  date: '2026-10-29'
 - type: cites
   target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1939
   label: null
   source: null
 - type: cites
@@ -161,7 +184,7 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
 article_structure:
-  article_count: 15
+  article_count: 16
   section_count: 0
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -169,7 +192,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:58:21Z'
+  checked_at: '2026-11-20T13:49:49Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +233,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei estabelece o modelo de governação dos fundos europeus atribuídos a Portugal através do Plano de Recuperação e Resiliência (PRR) no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia para o período 2021-2026, bem como a estrutura orgânica relativa ao exercício das competências de gestão estratégica e operacional, acompanhamento, monitorização e avaliação, controlo, auditoria, financiamento, circuitos financeiros e sistema de informação de reporte e transmissão de dados à Comissão Europeia.
+O presente decreto-lei estabelece o modelo de governação dos fundos europeus atribuídos a Portugal através do Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia, para o período de 2021-2026, incluindo as fases finais de execução e de encerramento e o cumprimento das obrigações que subsistam após o termo da implementação das reformas e dos investimentos, e define a estrutura orgânica aplicável à gestão estratégica e operacional, acompanhamento, monitorização e avaliação, controlo, auditoria, conservação de dados e documentos, financiamento, circuitos financeiros e sistema de informação para reporte e transmissão de dados à Comissão Europeia e às demais instituições e organismos nacionais e da União Europeia competentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 ###### Artigo 2.º — Princípios gerais
 
@@ -258,7 +283,7 @@ c) Aprovar as propostas de revisão dos investimentos e das reformas que integra
 
 d) Apreciar e aprovar, após parecer da CNA a que se refere o artigo seguinte, os relatórios semestrais de monitorização apresentados pela estrutura de missão «Recuperar Portugal»;
 
-e) Apreciar e aprovar o relatório anual de progresso, após parecer da CNA a que se refere o artigo seguinte e antes do respetivo envio à Assembleia da República;
+e) Apreciar e aprovar, após parecer da CNA a que se refere o artigo seguinte, o relatório anual de progresso e o relatório final do PRR, antes do respetivo envio à Assembleia da República;
 
 f) Apreciar os assuntos de caráter setorial, bem como os de natureza transversal às várias áreas governativas, com implicações na boa execução dos investimentos e na concretização das reformas que integram o PRR;
 
@@ -267,6 +292,8 @@ g) Elaborar e aprovar o respetivo regulamento interno.
 5 - Podem ainda participar nas reuniões da Comissão Interministerial outros membros do Governo convocados por indicação do Primeiro-Ministro.
 
 6 - Nas ausências e impedimentos do Primeiro-Ministro, a Comissão Interministerial é presidida pelo membro do Governo responsável pela área do planeamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25, produz efeitos a partir de 2022-03-30
 
@@ -320,13 +347,17 @@ b) Acompanhar as medidas de informação, comunicação e de promoção de uma m
 
 c) Acompanhar os progressos na implementação do PRR, designadamente através da produção de relatórios, podendo para o efeito reunir com beneficiários diretos, intermediários ou finais, e propor recomendações de melhoria dos mecanismos de implementação e execução;
 
-d) Emitir parecer sobre os relatórios semestrais ou anuais de monitorização apresentados pela estrutura de missão ‘Recuperar Portugal’ no prazo máximo de 30 dias consecutivos a contar da data da sua receção, podendo efetuar recomendações;
+d) Emitir parecer sobre os relatórios semestrais e anuais de monitorização e sobre o relatório final do PRR, apresentados pela estrutura de missão «Recuperar Portugal», no prazo máximo de 30 dias consecutivos a contar da data da sua receção, podendo efetuar recomendações;
 
-e) Analisar os relatórios de avaliação de resultados e de impacto do PRR.
+e) [Revogada.]
 
 6 - O presidente da CNA pode convidar a participar nas reuniões, sempre que tal se justifique, especialistas ou personalidades de reconhecido mérito, em função das matérias agendadas na qualidade de observadores, sempre que tal se justifique.
 
 7 - O apoio logístico e administrativo decorrente do funcionamento da CNA é assegurado pela estrutura de missão «Recuperar Portugal».
+
+8 - A CNA extingue-se com a emissão do parecer sobre o relatório final do PRR a que se refere a alínea d) do n.º 5.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2024 - Diário da República n.º 174/2024, Série I de 2024-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450), em vigor a partir de 2024-09-10
 
@@ -340,47 +371,53 @@ e) Analisar os relatórios de avaliação de resultados e de impacto do PRR.
 
 a) Coordenar a execução das reformas e investimentos do PRR, assegurando a prossecução dos seus objetivos estratégicos e promovendo a monitorização e a concretização dos objetivos operacionais através de marcos e de metas;
 
-b) Assegurar, em articulação com a Agência, I. P., e com o GPEARI, a interação e os contactos com a Comissão Europeia durante o período de execução do PRR;
+b) Assegurar, em articulação com a Agência, I. P., e com o GPEARI, a interação e os contactos com a Comissão Europeia durante a execução e o encerramento do PRR;
 
 c) Fornecer apoio técnico às equipas das áreas governativas responsáveis e entidades executoras das reformas e investimentos do PRR, disponibilizando orientações técnicas que assegurem a sua execução mais eficaz e eficiente;
 
 d) Preparar e submeter à Comissão Europeia, nos termos do Regulamento (UE) 2021/241, os pedidos de desembolso dos financiamentos do PRR semestrais, recolhendo, junto das entidades competentes, as informações necessárias;
 
-e) Elaborar os relatórios anuais e semestrais, bem como os outros documentos e informações necessárias para dar cumprimento às obrigações de reporte à Comissão Europeia fixadas no Regulamento (UE) 2021/241, e responder às solicitações da Comissão Interministerial, da CNA e da CAC;
+e) Elaborar os relatórios semestrais e anuais e o relatório final do PRR, bem como os documentos e informações necessários ao cumprimento das obrigações de reporte previstas no Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, e nos demais instrumentos jurídicos aplicáveis, tendo em conta a Comunicação da Comissão C (2026) 2647 final, de 30 de abril de 2026, e responder às solicitações da Comissão Interministerial, da CNA e da CAC;
 
 f) Implementar um sistema de gestão e controlo interno, suportado em modelos adequados de monitorização e informação, que previna, detete e reporte situações de irregularidades assegurando a prevenção da duplicação de ajudas, de risco de conflito de interesses, de corrupção e de fraude, e que permita a adoção, sempre que necessário, das medidas corretivas oportunas e adequadas;
 
 g) Adotar medidas antifraude eficazes e proporcionadas, tendo em conta os riscos identificados;
 
-h) Promover a avaliação dos resultados do PRR, articulando com a Agência, I. P., o GPEARI e o Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública, no âmbito das respetivas competências.
+h) Promover a avaliação dos resultados do PRR, articulando com a Agência, I. P., o GPEARI e o Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública, no âmbito das respetivas competências;
 
-3 - A remuneração dos técnicos superiores da estrutura de missão 'Recuperar Portugal' pode ser fixada até ao nível 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante a experiência e conhecimento dos respetivos elementos, nos termos fixados na resolução do Conselho de Ministros referida no n.º 1.
+i) Coordenar a fase de encerramento do PRR, nos termos das orientações estabelecidas pela Comissão Europeia, e assegurar o cumprimento das obrigações previstas no artigo 12.º-A.
 
-4 - Nos casos em que, para a operacionalização da missão da estrutura de missão 'Recuperar Portugal', exista recurso ao regime da mobilidade, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e demais legislação aplicável, pode ser atribuída ao trabalhador posição remuneratória imediatamente seguinte à posição remuneratória detida relativamente a candidatos com relação jurídica de emprego público previamente constituída.
+3 - A remuneração dos técnicos superiores da estrutura de missão «Recuperar Portugal» pode ser fixada até ao nível 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante a experiência e conhecimento dos respetivos elementos, nos termos fixados na resolução do Conselho de Ministros referida no n.º 1.
 
-5 - O disposto nos n.os 3 e 4 é aplicável, com as necessárias adaptações, aos trabalhadores inseridos nas carreiras de assistente técnico e de assistente operacional contratados para exercer funções na estrutura de missão 'Recuperar Portugal'.
+4 - Nos casos em que, para a operacionalização da missão da estrutura de missão «Recuperar Portugal», exista recurso ao regime da mobilidade, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e demais legislação aplicável, pode ser atribuída ao trabalhador posição remuneratória imediatamente seguinte à posição remuneratória detida relativamente a candidatos com relação jurídica de emprego público previamente constituída.
 
-6 - Quando os trabalhadores que exercem funções nos programas operacionais sejam recrutados para o exercício de funções na estrutura de missão 'Recuperar Portugal', mantêm o direito ao suplemento remuneratório, nos termos em que o venham auferindo, ao abrigo do disposto nos n.os 3 a 7 do artigo 9.º do Decreto-Lei n.º 34/2018, de 15 de maio, na sua redação atual.
+5 - O disposto nos n.ºs 3 e 4 é aplicável, com as necessárias adaptações, aos trabalhadores inseridos nas carreiras de assistente técnico e de assistente operacional contratados para exercer funções na estrutura de missão «Recuperar Portugal».
 
-7 - Para as funções de apoio aos trabalhos da CNA pode ser designado, por despacho do membro do Governo responsável pela área do planeamento e nos termos previstos na resolução do Conselho de Ministros referida no n.º 1, um técnico superior da estrutura de missão 'Recuperar Portugal' com equiparação para efeitos remuneratórios a dirigente superior de 2.º grau.
+6 - Quando os trabalhadores que exercem funções nos programas operacionais sejam recrutados para o exercício de funções na estrutura de missão 'Recuperar Portugal', mantêm o direito ao suplemento remuneratório, nos termos em que o venham auferindo, ao abrigo do disposto nos n.ºs 3 a 7 do artigo 9.º do Decreto-Lei n.º 34/2018, de 15 de maio, na sua redação atual.
 
-8 - No âmbito da coordenação do PRR são criadas as seguintes redes de articulação funcional, coordenadas pelo presidente da estrutura de missão ‘Recuperar Portugal’, sem prejuízo das competências próprias das entidades envolvidas:
+7 - Para as funções de apoio aos trabalhos da CNA pode ser designado, por despacho do membro do Governo responsável pela área do planeamento e nos termos previstos na resolução do Conselho de Ministros referida no n.º 1, um técnico superior da estrutura de missão «Recuperar Portugal» com equiparação para efeitos remuneratórios a dirigente superior de 2.º grau.
 
-a) ‘Rede de articulação funcional - Reformas PRR’, que integra representantes das áreas governativas responsáveis pela implementação das reformas, designados por despacho do membro do Governo competente quanto à matéria, com o objetivo de monitorizar a concretização dos respetivos marcos e metas, bem como promover a definição de procedimentos, práticas harmonizadas e partilha de informação relevante, bem como identificar riscos que possam pôr em causa o cumprimento dos marcos, metas, reformas e investimentos e apresentar soluções alternativas que mitiguem potenciais riscos identificados;
+8 - No âmbito da coordenação do PRR são criadas as seguintes redes de articulação funcional, coordenadas pelo presidente da estrutura de missão «Recuperar Portugal», sem prejuízo das competências próprias das entidades envolvidas:
 
-b) ‘Rede de articulação funcional - Investimentos PRR’, que integra os dirigentes máximos dos beneficiários diretos e intermediários, ou seus representantes, com o objetivo de monitorizar a implementação dos investimentos, seus marcos e metas, bem como promover a definição de procedimentos, orientações técnicas, práticas harmonizadas e partilha de boas práticas e informação relevante, conducentes ao cumprimento dos objetivos do PRR.
+a) «Rede de articulação funcional - Reformas PRR», que integra representantes das áreas governativas responsáveis pela implementação das reformas, designados por despacho do membro do Governo competente quanto à matéria, com o objetivo de monitorizar a concretização dos respetivos marcos e metas, bem como promover a definição de procedimentos, práticas harmonizadas e partilha de informação relevante, bem como identificar riscos que possam pôr em causa o cumprimento dos marcos, metas, reformas e investimentos e apresentar soluções alternativas que mitiguem potenciais riscos identificados;
+
+b) «Rede de articulação funcional - Investimentos PRR», que integra os dirigentes máximos dos beneficiários diretos e intermediários, ou seus representantes, com o objetivo de monitorizar a implementação dos investimentos, seus marcos e metas, bem como promover a definição de procedimentos, orientações técnicas, práticas harmonizadas e partilha de boas práticas e informação relevante, conducentes ao cumprimento dos objetivos do PRR.
 
 9 - Em função da matéria, as redes de articulação funcional referidas no número anterior podem integrar outras entidades ou peritos, na qualidade de observadores, a convite do seu coordenador, sendo as suas regras de funcionamento definidas por regulamento interno.
 
 10 - Aos membros das redes de articulação funcional referidas no n.º 8 e aos representantes de entidades ou peritos referidos no número anterior não é devida qualquer remuneração.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2024 - Diário da República n.º 174/2024, Série I de 2024-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450), em vigor a partir de 2024-09-10
+11 - A resolução do Conselho de Ministros referida no n.º 1 define a organização e a duração do mandato da estrutura de missão «Recuperar Portugal», bem como as regras aplicáveis à transição para a fase de encerramento do PRR.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2024 - Diário da República n.º 174/2024, Série I de 2024-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450), em vigor a partir de 2024-09-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25.
 
 ###### Artigo 7.º — Órgão de Auditoria e Controlo
 
-1 - A estrutura responsável pela auditoria e controlo do PRR é a CAC.
+1 - Até à cessação do respetivo mandato, nos termos do n.º 8, a estrutura responsável pela auditoria e controlo do PRR é a CAC.
 
 2 - A CAC é presidida por um representante da Inspeção-Geral de Finanças e integra:
 
@@ -401,6 +438,12 @@ c) Apresentar, no âmbito das ações de controlo e auditoria referidas na alín
 5 - As competências da CAC são asseguradas pelas entidades que a integram, em função das respetivas atribuições legais, atuando no respeito pelos princípios de bom governo e pelos princípios internacionais de auditoria, designadamente o princípio da segregação de funções e o princípio da independência organizacional, funcional, técnica e metodológica, nos termos definidos em regulamento interno da CAC.
 
 6 - A Inspeção-Geral de Finanças e a Agência, I. P., asseguram o apoio técnico e administrativo à CAC, podendo para este efeito, sempre que não o possam assegurar por meios próprios, recorrer à contratação externa de serviços de auditoria e de peritos necessários a assegurar o cumprimento das competências da CAC, designadamente para efeitos de aferição do cumprimento dos marcos e metas previstos.
+
+7 - Após o termo da fase de execução do PRR, são realizados, com base no risco, controlos ex post e auditorias independentes às medidas do PRR, designadamente em 2027 e, se necessário, em 2028, no contexto dos interesses da União Europeia, em particular quanto à prevenção, deteção e correção de fraude, corrupção, conflitos de interesses e duplo financiamento.
+
+8 - O mandato da CAC cessa com a emissão do parecer prévio sobre o décimo e último pedido de pagamento a submeter à Comissão Europeia, cabendo, a partir desse momento, à Inspeção-Geral de Finanças, enquanto Autoridade de Auditoria, planear, realizar e acompanhar os controlos e auditorias referidos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25
 
@@ -430,7 +473,7 @@ c) As restantes obrigações decorrentes do Regulamento (UE) 2021/241.
 
 3 - Os beneficiários intermediários reportam à estrutura de missão «Recuperar Portugal» a informação relativa aos beneficiários finais.
 
-4 - A informação referida nos n.os 2 e 3 é submetida por meios eletrónicos através do sistema de informação disponibilizado para o efeito pela 'Recuperar Portugal', podendo, sempre que necessária, ser utilizada a informação residente no Balcão dos Fundos Europeus.
+4 - A informação referida nos n.ºs 2 e 3 é submetida por meios eletrónicos através do sistema de informação disponibilizado para o efeito pela «Recuperar Portugal», podendo, sempre que necessária, ser utilizada a informação residente no Balcão dos Fundos Europeus.
 
 5 - Para efeito do disposto nos números anteriores, entende-se por:
 
@@ -440,7 +483,13 @@ b) «Beneficiário intermediário», a entidade pública globalmente responsáve
 
 c) «Beneficiário final», a entidade responsável pela implementação e execução física e financeira de uma reforma e ou de um investimento, beneficiando de um financiamento do PRR diretamente enquanto «beneficiário direto», ou através do apoio de um «beneficiário intermediário».
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25
+6 - Sem prejuízo das obrigações contratualmente previstas, os beneficiários do PRR asseguram às entidades nacionais competentes, à Comissão Europeia, ao Organismo Europeu de Luta Antifraude (OLAF), ao Tribunal de Contas Europeu e, quando aplicável, à Procuradoria Europeia (EPPO), durante a fase de encerramento e, pelo menos, até 31 de dezembro de 2031, o acesso aos locais, instalações, dados e documentos relacionados com os financiamentos e conservam esses dados e documentos nos termos do artigo 12.º-A.
+
+7 - As obrigações de verificação, acompanhamento e reporte das medidas do PRR, incluindo as previstas na regulamentação específica dos sistemas de incentivos e dos instrumentos financeiros, mantêm-se após o termo da implementação dos marcos e metas pelo período necessário ao cumprimento das obrigações aplicáveis, nos termos do artigo 12.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25.
 
 ###### Artigo 10.º — Fluxos financeiros e pagamentos a beneficiários
 
@@ -450,9 +499,13 @@ c) «Beneficiário final», a entidade responsável pela implementação e execu
 
 3 - A estrutura de missão «Recuperar Portugal» emite as ordens de pagamento em cumprimento dos contratos celebrados com os beneficiários nos termos do artigo anterior.
 
-4 - Os financiamentos do PRR recebidos da União Europeia que não sejam executados na totalidade nos projetos aprovados e concluídos são afetos a projetos em curso no PRR cuja conclusão e cumprimento das metas e marcos implique a necessidade de reforço da respetiva dotação.
+4 - Os montantes de financiamento atribuídos no âmbito do PRR a projetos aprovados e concluídos, que não tenham sido integralmente utilizados, são reafetos a projetos em curso no âmbito do PRR que tenham contribuído para o cumprimento de marcos e metas, ou a projetos aprovados no âmbito do PRR que, não tendo contribuído para esse efeito, se encontrem em execução.
 
-5 - Os apoios do PRR recebidos da União Europeia a título de empréstimos são objeto de orientações específicas a estabelecer por portaria dos membros do Governo responsáveis pelas áreas das finanças e do planeamento.
+5 - A reafetação de montantes nos termos do número anterior é realizada de acordo com os critérios de prioridade definidos por resolução do Conselho de Ministros.
+
+6 - Os apoios do PRR recebidos da União Europeia a título de empréstimos são objeto de orientações específicas a estabelecer por portaria dos membros do Governo responsáveis pelas áreas das finanças e do planeamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25
 
@@ -528,21 +581,51 @@ d) Os resultados das verificações no local efetuadas pela estrutura de missão
 
 1 - Os financiamentos do PRR não são acumuláveis com outros fundos ou mecanismos europeus para as mesmas despesas.
 
-2 - A verificação da condição referida no número anterior é efetuada através da conjugação, quando aplicável, de análises sistemáticas dos financiamentos atribuídos pelos fundos europeus, de declarações dos beneficiários e da verificação desta temática nas ações de acompanhamento e controlo a desenvolver pela estrutura de missão 'Recuperar Portugal'.
+2 - A verificação da condição referida no número anterior é efetuada através da conjugação, quando aplicável, de análises sistemáticas dos financiamentos atribuídos pelos fundos europeus, de declarações dos beneficiários e da verificação desta temática nas ações de acompanhamento e controlo a desenvolver pela estrutura de missão «Recuperar Portugal».
 
-3 - As análises sistemáticas relativamente a financiamentos de fundos europeus do Portugal 2020 e do Portugal 2030, nos termos do número anterior, são asseguradas pela Agência, I. P., designadamente de acordo com metodologias de avaliação de risco, cujos resultados são acompanhados pela estrutura de missão 'Recuperar Portugal' através das respetivas coordenações temáticas e de controlo.
+3 - As análises sistemáticas relativamente a financiamentos de fundos europeus do Portugal 2020 e do Portugal 2030, nos termos do número anterior, são asseguradas pela Agência, I. P., designadamente de acordo com metodologias de avaliação de risco, cujos resultados são acompanhados pela estrutura de missão «Recuperar Portugal» através das respetivas coordenações temáticas e de controlo.
 
-4 - Cabe à estrutura de missão 'Recuperar Portugal' assegurar a verificação da não acumulação dos financiamentos do PRR com os fundos europeus não incluídos no número anterior ou outros mecanismos europeus.
+4 - Cabe à estrutura de missão «Recuperar Portugal» assegurar a verificação da não acumulação dos financiamentos do PRR com os fundos europeus não incluídos no número anterior ou outros mecanismos europeus.
 
-5 - Para efeitos do disposto no número anterior, as entidades gestoras dos fundos e dos mecanismos europeus devem prestar à estrutura de missão 'Recuperar Portugal' toda a colaboração que por esta lhes seja solicitada, designadamente disponibilizando, de forma tempestiva, a informação que se revele necessária.
+5 - Para efeitos do disposto no número anterior, as entidades gestoras dos fundos e dos mecanismos europeus devem prestar à estrutura de missão «Recuperar Portugal» toda a colaboração que por esta lhes seja solicitada, designadamente disponibilizando, de forma tempestiva, a informação que se revele necessária.
 
-6 - Para o acesso à informação referida no número anterior, a estrutura de missão 'Recuperar Portugal' pode proceder à celebração de protocolos com as entidades gestoras dos fundos e dos mecanismos europeus.
+6 - Para o acesso à informação referida no número anterior, a estrutura de missão «Recuperar Portugal» pode proceder à celebração de protocolos com as entidades gestoras dos fundos e dos mecanismos europeus.
 
-7 - A estrutura de missão ‘Recuperar Portugal’ disponibiliza aos beneficiários intermediários no Sistema de Informação do PRR os dados transmitidos por outras entidades coordenadoras e gestoras de fundos europeus, permitindo o cruzamento e análise de dados, tendo em vista mitigar o risco de duplo financiamento nas operações que se encontrem em fase de decisão de aprovação ou de execução.
+7 - A estrutura de missão «Recuperar Portugal» disponibiliza aos beneficiários intermediários no Sistema de Informação do PRR os dados transmitidos por outras entidades coordenadoras e gestoras de fundos europeus, permitindo o cruzamento e análise de dados, tendo em vista mitigar o risco de duplo financiamento nas operações que se encontrem em fase de decisão de aprovação ou de execução.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2024 - Diário da República n.º 174/2024, Série I de 2024-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450), em vigor a partir de 2024-09-10
+8 - A Agência, I. P., mantém a sua intervenção nas análises sistemáticas enquanto forem necessários os controlos ex post relativos ao risco de duplo financiamento previstos no n.º 7 do artigo 7.º, sem prejuízo das competências da Inspeção-Geral de Finanças, enquanto Autoridade de Auditoria.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 55/2024 - Diário da República n.º 174/2024, Série I de 2024-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450), em vigor a partir de 2024-09-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), em vigor a partir de 2023-07-25.
+
+###### Artigo 12.º-A — Encerramento do PRR, controlos ex post e conservação de dados
+
+1 - A fase de encerramento do PRR inicia-se após a submissão, pela estrutura de missão «Recuperar Portugal», do último pedido de pagamento à Comissão Europeia e prolonga-se até ao cumprimento integral das obrigações decorrentes do Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, do Regulamento (UE, Euratom) 2024/2509, do Parlamento Europeu e do Conselho, de 23 de setembro de 2024, relativo às regras financeiras aplicáveis ao orçamento geral da União, da convenção de financiamento e do acordo de empréstimo, tendo em conta a Comunicação da Comissão C(2026) 2647 final, de 30 de abril de 2026, relativa aos aspetos operacionais da fase final e do encerramento do MRR.
+
+2 - Durante a fase de encerramento, compete à estrutura de missão «Recuperar Portugal», em articulação com as demais entidades do modelo de governação:
+
+a) Responder às verificações, revisões, controlos, auditorias e inquéritos da Comissão Europeia, do OLAF, do Tribunal de Contas Europeu e, quando aplicável, da EPPO, e assegurar o respetivo acompanhamento;
+
+b) Comunicar à Comissão Europeia as irregularidades ou suspeitas de irregularidades, designadamente através do Sistema de Gestão de Irregularidades e da plataforma EUSend, nos termos das orientações aplicáveis;
+
+c) Comunicar, sem demora, ao OLAF os casos de fraude, corrupção ou outra atividade ilegal lesiva dos interesses financeiros da União Europeia;
+
+d) Comunicar à EPPO as suspeitas de infração penal da sua competência, nos termos do Regulamento (UE) 2017/1939, do Conselho, de 12 de outubro de 2017, que dá execução a uma cooperação reforçada para a instituição da Procuradoria Europeia;
+
+e) Exercer as funções de ponto de contacto único nacional, coordenando as respostas aos pedidos das entidades referidas na alínea a) e o acesso a locais, dados e beneficiários;
+
+f) Elaborar e apresentar as comunicações e os reportes finais exigidos pela Comissão Europeia, incluindo os que devam ser apresentados após a submissão do último pedido de pagamento.
+
+3 - As entidades que integram o modelo de governação e os beneficiários diretos, intermediários e finais conservam os dados, documentos e demais elementos de prova relacionados com a execução das medidas do PRR, designadamente os previstos no artigo 22.º do Regulamento (UE) 2021/241, em condições que garantam a respetiva integridade, segurança e acesso, durante cinco anos a contar da data do respetivo pagamento final e, em qualquer caso, pelo menos até 31 de dezembro de 2031.
+
+4 - Os dados, registos e documentos respeitantes a auditorias, recursos, litígios, reclamações relativas a compromissos jurídicos ou inquéritos do OLAF são conservados até à conclusão desses procedimentos, quando esta ocorra em data posterior à prevista no número anterior.
+
+5 - Os elementos referidos nos números anteriores são disponibilizados, quando solicitados, às entidades nacionais competentes, à Comissão Europeia, ao OLAF, ao Tribunal de Contas Europeu e, quando aplicável, à EPPO.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206-A/2026 - Diário da República n.º 210/2026, Suplemento, Série I de 2026-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2026-1188732999), em vigor a partir de 2026-10-30.
 
 ###### Artigo 13.º — Regiões Autónomas
 

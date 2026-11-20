@@ -3,7 +3,7 @@
  "id": "pt:dre:1118713683:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1118739775",
  "dre_path": "/dr/detalhe/portaria/214-2026-1118713683",
- "source_lastmod": "2026-08-04",
+ "source_lastmod": "2026-11-10",
  "versions": [
   {
    "date": "2026-08-01",
@@ -38,6 +38,57 @@
     "1118745475",
     "1118745675",
     "1118745875",
+    "1118746075",
+    "1118746275",
+    "1118746475",
+    "1118746675",
+    "1118746875",
+    "1118747075",
+    "1118747275",
+    "1118747475",
+    "1118747675",
+    "1118747875",
+    "1118748075",
+    "1118748275",
+    "1118748475"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1167945131:por",
+     "title": "Portaria n.º 426/2026/1",
+     "published": "2026-09-08",
+     "dre_path": "/dr/detalhe/portaria/426-2026-1167945131"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "1118739975",
+    "1118740175",
+    "1118740375",
+    "1118740575",
+    "1194446075",
+    "1118743175",
+    "1118743675",
+    "1154289275",
+    "1194446275",
+    "1194446475",
+    "1118744475",
+    "1118744675",
+    "1118744875",
+    "1118745075",
+    "1118745275",
+    "1118745475",
+    "1118745675",
+    "1194446675",
     "1118746075",
     "1118746275",
     "1118746475",
@@ -304,6 +355,49 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo II — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 21.º)\n\n| Artigo 14.º da presente portaria | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |\n| --- | --- | --- | --- |\n| N.º 1, alínea a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |\n| N.º 1, alínea b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |\n| N.º 1, alínea c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |\n| N.º 1, alínea d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |\n| N.º 1, alínea f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| N.º 1, alínea g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento |\n| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento. |  |  |\n| N.º 2, alínea b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P.: e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |\n| N.º 2, alínea c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas, em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |\n| N.º 2, alínea e) | Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |\n| N.º 2, alínea g) | Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no SIP, durante o período de cinco anos a contar da liquidação do último pagamento. | Não aplicável | Redução proporcional ao período de incumprimento, dos pagamentos já realizados. |"
+  },
+  "1194446075": {
+   "fragment_id": "1118742675",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2026-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção;\n\nb) «Candidatura em parceria», a candidatura apresentada em simultâneo por duas ou mais pessoas coletivas ou por pessoas coletivas e singulares que tenham celebrado entre si um contrato de parceria;\n\nc) «Catástrofe natural», um acontecimento natural, biótico ou abiótico, que perturba gravemente os sistemas de produção agrícola ou as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para os setores agrícola ou florestal;\n\nd) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas ou privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria, as obrigações, os deveres e as responsabilidades de todos os seus membros, a respetiva participação financeira, bem como identificação da entidade gestora da parceria;\n\ne) «Entidade gestora da parceria», a entidade responsável pela gestão administrativa e executiva da parceria, designada pelos respetivos membros para a representar, submeter o termo de aceitação e apresentar os pedidos de pagamento;\n\nf) «Exploração agrícola», o conjunto das unidades de produção utilizadas para atividades agrícolas e geridas por um agricultor, situadas no território continental;\n\ng) «Fenómenos climatéricos adversos equiparáveis a catástrofes naturais», as condições meteorológicas desfavoráveis, como a geada, as tempestades, o granizo, o gelo, as chuvas fortes ou persistentes, as secas graves que afetam o potencial produtivo;\n\nh) «Operações não concluídas materialmente nem totalmente executadas», todas as operações que apresentem uma execução física ou financeira igual ou inferior a 50 %;\n\ni) «Organismos de quarentena ou outros regulados», praga ou doença para a qual é necessário adotar medidas a fim de prevenir a sua introdução e propagação na totalidade do território da União Europeia, ou que, não sendo de quarentena, estejam sujeitas a medidas oficiais de controlo;\n\nj) «Plano de ação», plano de contingência oficial que contém informações sobre o processo de tomada de decisão, os procedimentos e os protocolos a seguir, bem como os recursos a disponibilizar em caso de confirmação oficial ou suspeita da presença de um organismo de quarentena;\n\nk) «Medida fitossanitária», ações determinadas pela autoridade nacional fitossanitária para prevenir, erradicar ou controlar um organismo de quarentena ou outros regulados;\n\nl) «Poda sanitária», o processo de remoção de partes de plantas, nomeadamente lançamentos e pernadas secas, doentes, danificados ou infestados por pragas ou doenças, com o objetivo de melhorar a saúde da planta, prevenir a propagação e promover um crescimento equilibrado;\n\nm) «Potencial produtivo», os ativos fixos tangíveis e os ativos biológicos.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+  },
+  "1194446275": {
+   "fragment_id": "1118743975",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2026-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º, e que reúnam as seguintes condições:\n\na) Enquadrem-se em plano de ação a que se refere a alínea i) do artigo 3.º, no Programa de Ação para a Adaptação às Alterações Climáticas - P3-AC ou, na sua falta, em estudo prévio que demonstre vulnerabilidade da zona de intervenção a catástrofes naturais ou fenómenos climatéricos adversos equiparáveis a catástrofes naturais e o benefício da intervenção, ou no âmbito de despacho da entidade competente para o efeito;\n\nb) Não se encontrem materialmente concluídas nem totalmente executadas, nos termos do disposto na alínea h) do artigo 3.º da presente portaria, à data da submissão da candidatura;\n\nc) Apresentem coerência técnica;\n\nd) Não respeitem a operações apoiadas no âmbito de outros regimes de apoio, designadamente os relativos à intervenção C.2.1, «Investimento na exploração agrícola», e às intervenções C.2.2, «Investimento de jovens agricultores na exploração agrícola», e D.1.1.1.1, «Pequenos investimentos nas explorações agrícolas», do PEPAC;\n\ne) Cumpram as condições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nf) Se destinem a reforçar a resiliência ou reduzir os impactos nas explorações agrícolas de prováveis catástrofes naturais, fenómenos climatéricos adversos equiparáveis a catástrofes naturais, designadamente doenças que afetem culturas permanentes.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+  },
+  "1194446475": {
+   "fragment_id": "1118744175",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2026-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+   ],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo i à presente portaria da qual faz parte integrante.\n\n2 - A elegibilidade temporal é definida no aviso para apresentação de candidaturas, não podendo ser anterior a 1 de janeiro de 2023, e desde que a operação não se encontre materialmente concluída nem totalmente executada à data da submissão da candidatura, nos termos do disposto na alínea h) do artigo 3.º\n\n3 - As despesas realizadas em data anterior à submissão da candidatura, nos termos do número anterior, são elegíveis quando apresentadas no primeiro pedido de pagamento no prazo máximo de 60 dias a contar da data de assinatura do termo de aceitação.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+  },
+  "1194446675": {
+   "fragment_id": "1118745775",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações dos beneficiários",
+   "in_force_from": "2026-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
+   ],
+   "markdown": "###### Artigo 14.º — Obrigações dos beneficiários\n\n1 - Nos termos do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os beneficiários dos apoios previstos na presente portaria são obrigados a:\n\na) Executar as operações nos termos, condições e resultados aprovados;\n\nb) Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução;\n\nc) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nd) Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável, se esta estabelecer prazo superior;\n\ne) Manter as condições legais necessárias ao exercício da atividade;\n\nf) Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido;\n\ng) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nh) Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal;\n\ni) Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nj) Repor os montantes indevidamente recebidos e cumprir as sanções administrativas aplicadas.\n\n2 - Além do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, referido no número anterior do presente artigo, os beneficiários dos apoios constantes na presente portaria são, ainda, obrigados a:\n\na) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 5 do presente artigo;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento;\n\nd) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\ne) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente;\n\nf) Comprovar a não interrupção da execução da operação por período superior a 90 dias seguidos através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 5 do presente artigo;\n\ng) Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no Sistema de Informação Parcelar, durante o período de cinco anos a contar da liquidação do último pagamento.\n\n3 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação do prazo estabelecido nas alíneas a) e f) do n.º 2 do presente artigo.\n\n4 - O incumprimento das obrigações previstas nas alíneas a) e f) do n.º 2 constitui fundamento suscetível de determinar a revogação da decisão de aprovação.\n\n5 - No caso de operação inteiramente sujeita a custos unitários, as obrigações previstas nas alíneas a) e f) do n.º 2 são comprovadas através da submissão de pedido de pagamento ou da apresentação de fotografia digital georreferenciada e datada, recolhida dentro do prazo definido ou através da apresentação de documento comprovativo a definir em normativo específico.\n\n6 - Sem prejuízo do disposto no n.º 9 do artigo 17.º da presente portaria, o incumprimento do n.º 8 do mesmo artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.\n\n7 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2026-05-12."
   }
- }
+ },
+ "unavailable_dates": [
+  "2026-05-11"
+ ]
 }

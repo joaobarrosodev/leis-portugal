@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261865040:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2023-1194535975",
+ "dre_path": "/dr/detalhe/declaracao/109-2023-261865040",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2023-12-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194536575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194536575": {
+   "fragment_id": "1194536075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Eleição da Juíza Conselheira Graça Maria Lima de Figueiredo Amaral como Vice-Presidente do Supremo Tribunal de Justiça\n\nPor eleição realizada no dia 16 de novembro de 2023, foi a Excelentíssima Senhora Juíza Conselheira Graça Maria Lima de Figueiredo Amaral eleita como Vice-Presidente do Supremo Tribunal de Justiça, nos termos do n.º 2 do artigo 63.º e n.º 1 do artigo 59.º, da Lei n.º 62/2013, de 26 de agosto (Lei da Organização do Sistema Judiciário)."
+  }
+ }
+}

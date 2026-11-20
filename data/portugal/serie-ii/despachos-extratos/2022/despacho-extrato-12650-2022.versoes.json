@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:202846264:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2022-1194540975",
+ "dre_path": "/dr/detalhe/despacho-extrato/12650-2022-202846264",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2022-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194540175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194540175": {
+   "fragment_id": "1194541075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho da Presidente do Supremo Tribunal Administrativo, de 18 de outubro de 2022:\n\nAnabela Teixeira dos Santos, Escrivã Auxiliar - nomeada, em comissão de serviço e pelo período de três anos, ao abrigo do disposto no artigo 54.º do Estatuto dos Funcionários de Justiça, para exercer funções no Supremo Tribunal Administrativo, com efeitos a partir de 1 de novembro de 2022."
+  }
+ }
+}

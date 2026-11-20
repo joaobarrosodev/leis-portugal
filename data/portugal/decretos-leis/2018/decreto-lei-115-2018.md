@@ -39,10 +39,30 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-10-28'
+version_history:
+  file: decreto-lei-115-2018.versoes.json
+  count: 1
+  source_lastmod: '2026-10-30'
+  versions:
+  - date: '2026-10-28'
+    amending: pt:dre:1186535403:por
+    amending_title: Decreto-Lei n.º 206/2026
+    changes:
+    - Adita Artigo 38.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+    - Altera Artigo 42.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/115/2018/12/21/p/dre/pt/html
@@ -55,20 +75,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2018/12/21/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256
-  consolidated_url: null
-  retrieved_at: '2026-10-23T03:34:57Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-117465442
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-117465442
+  retrieved_at: '2026-11-20T13:49:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-30T00:00:00Z'
 integrity:
-  source_sha256: b243ef439e2c5776663a8bb0f11658d7b9fa350ada5c3be3b7237c65da0cb79c
+  source_sha256: 49583606bf3036ab8b3648943e9953d8d2b934b50208972074eca01ba7670d67
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T03:34:57Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:22Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-115-2018.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,6 +126,12 @@ subjects:
 - Remuneração
 - Serviços de Registo e Notariado
 relationships:
+- type: amended_by
+  target: pt:dre:1186535403:por
+  label: Adita Artigo 38.º-A; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo
+    17.º; Altera Artigo 21.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo 33.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403
+  date: '2026-10-27'
 - type: cites
   target: pt:dre:105658704:por
   label: null
@@ -146,22 +173,20 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
 article_structure:
-  article_count: 49
+  article_count: 50
   section_count: 9
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T03:34:57Z'
+  checked_at: '2026-11-20T13:49:22Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 115/2018
-
-de 21 de dezembro
 
 O Programa do XXI Governo Constitucional defende um Estado forte que esteja presente nas áreas estratégicas para o interesse público e que simultaneamente seja inteligente e moderno.
 
@@ -191,15 +216,15 @@ Do conjunto das alterações previstas no presente decreto-lei, evidenciam-se as
 
 O presente decreto-lei abrange, em particular, a revisão da componente da estrutura das carreiras: a revisão da componente do estatuto remuneratório será consagrada em diploma especial próprio. A referida componente das carreiras está de tal modo desatualizada face à realidade dos serviços de registo e notariado e às necessidades de um serviço público de justiça mais moderno, ágil e eficaz, que a revisão da mesma revela-se de maior premência. Neste contexto, prevê-se no presente decreto-lei uma norma transitória que permite, até à entrada em vigor do novo estatuto remuneratório, a manutenção da atual situação remuneratória dos trabalhadores que transitam para as novas carreiras especiais de conservador de registos e de oficial de registos.
 
-Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
 
 Foram ouvidos o Sindicato dos Trabalhadores dos Registos e Notariado, a Associação Sindical dos Conservadores dos Registos, o Sindicato Nacional dos Registos, o Sindicato dos Quadros Técnicos do Estado e de Entidades com Fins Públicos, a Federação Nacional de Sindicatos dos Trabalhadores em Funções Públicas e Sociais e a Federação de Sindicatos da Administração Pública.
 
 Assim:
 
-Ao abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, no artigo 84.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo àquela lei, na sua redação atual, no artigo 101.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Ao abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, no artigo 84.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo àquela lei, na sua redação atual, no artigo 101.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Disposições gerais
+### Capítulo I — Disposições gerais
 
 ###### Artigo 1.º — Objeto
 
@@ -213,7 +238,7 @@ O exercício de funções nas carreiras especiais de conservador de registos e d
 
 Os conservadores de registos e os oficiais de registos podem desempenhar, em regime de comissão de serviço, nos serviços do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), cargos e funções não inseridas na carreira especial de conservador de registos e de oficial de registos, que venham a ser identificados na respetiva lei orgânica.
 
-### CAPÍTULO II — Carreira de conservador de registos
+### Capítulo II — Carreira de conservador de registos
 
 ###### Artigo 4.º — Categoria
 
@@ -287,21 +312,25 @@ h) Cooperação com entidades públicas nacionais e estrangeiras em matérias da
 
 2 - Caso a substituição não possa efetuar-se nos termos do número anterior, a mesma é assegurada por conservador de outro serviço de registo, preferencialmente do mesmo concelho ou de concelho limítrofe, designado pelo presidente do conselho diretivo do IRN, I. P., em regime de acumulação, com caráter excecional, e com o devido fundamento.
 
-3 - Na impossibilidade de a substituição ser assegurada nos termos dos números anteriores e sempre que se justifique, o presidente do conselho diretivo do IRN, I. P., adota, de modo fundamentado, as medidas necessárias ao regular funcionamento do serviço, designadamente a substituição por oficial de registos especialista que tenha a melhor classificação de desempenho e pertença ao mesmo serviço de registo.
+3 - Na impossibilidade de a substituição ser assegurada nos termos dos números anteriores e sempre que se justifique, o presidente do conselho diretivo do IRN, I. P., adota, de modo fundamentado, as medidas necessárias ao regular funcionamento do serviço, designadamente a substituição por oficial de registos que tenha a melhor classificação de desempenho e pertença ao mesmo serviço de registo
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 11.º — Delegação de competências
 
-1 - O conservador de registos pode, em casos excecionais e devidamente fundamentados, delegar competências em oficial dos registos especialista pertencente ao mesmo serviço de registo, com exceção das que são competência exclusiva ou que digam respeito à apreciação de direito estrangeiro.
+O conservador de registos pode, em casos excecionais e devidamente fundamentados, delegar competências em oficial dos registos pertencente ao mesmo serviço de registo, com exceção das que são competência exclusiva ou que digam respeito à apreciação de direito estrangeiro, não se considerando como tal a mera aplicação de normas de conflitos do direito português nem a apreciação de documentos estrangeiros que não exija interpretação jurídica autónoma desse direito.
 
-2 - No ato de delegação, o conservador de registos deve especificar os atos que o oficial de registos especialista pode praticar, bem como a norma atributiva da competência delegada.
+2 - No ato de delegação, o conservador de registos deve especificar os atos que o oficial de registos pode praticar, bem como a norma atributiva da competência delegada.
 
 3 - O ato de delegação de competências deve assumir a forma escrita e ser publicado no sítio institucional do IRN, I. P., na Internet.
 
-4 - O oficial de registos especialista delegado deve mencionar essa qualidade sempre que atue no uso da delegação.
+4 - O oficial de registos delegado deve mencionar essa qualidade sempre que atue no uso da delegação.
 
 5 - Sempre que possível, o conservador de registos delegante deve emitir diretivas ou instruções vinculativas para o delegado sobre o modo como devem ser exercidas as competências delegadas.
 
 6 - O conservador de registos delegante tem o poder de avocar a prática de atos compreendidos no âmbito da delegação de competências.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 12.º — Poder de direção e poder disciplinar
 
@@ -309,17 +338,23 @@ O conservador de registos está sujeito ao poder de direção e ao poder discipl
 
 ###### Artigo 13.º — Organização e tempo do trabalho
 
-Em matéria de organização e tempo de trabalho, são aplicáveis ao conservador de registos o regime da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual (LTFP), os instrumentos de regulamentação coletiva e o regulamento interno que verse sobre a matéria.
+Em matéria de organização e tempo de trabalho, são aplicáveis ao conservador de registos o regime da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP), os instrumentos de regulamentação coletiva e o regulamento interno que verse sobre a matéria.
 
 ###### Artigo 14.º — Condições de ingresso na carreira
 
 1 - Para além dos requisitos legais exigidos para a constituição de vínculo de emprego público, o ingresso na carreira de conservador de registos depende da verificação cumulativa dos seguintes requisitos:
 
-a) Ser titular do grau académico de mestre em Direito; e
+a) Possuir:
+
+i) Licenciatura em Direito obtida em data anterior à da entrada em vigor do regime estabelecido pelo Decreto-Lei n.º 74/2006, de 24 de março; ou
+
+ii) Licenciatura em Direito obtida ao abrigo do Decreto-Lei n.º 74/2006, de 24 de março, seguida de conclusão, com aproveitamento, da parte curricular dos cursos de mestrado ou de doutoramento em área do Direito obtidos em universidade portuguesa, ou grau académico e parte escolar equivalentes reconhecidos em Portugal; ou
+
+iii) Licenciatura em Direito obtida ao abrigo do Decreto-Lei n.º 74/2006, de 24 de março, ou grau académico equivalente reconhecido em Portugal, acompanhada de experiência profissional nos serviços de registo de duração efetiva não inferior a cinco anos;
 
 b) Ter aprovação no curso de formação inicial específica previsto no presente artigo.
 
-2 - Os titulares do grau de licenciado em Direito obtido na sequência de ciclos de estudos realizados no quadro de organização de estudos anterior ao regime introduzido pelo [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, ou equivalente legal podem ingressar na carreira de conservador de registos com dispensa do requisito previsto na alínea a) do número anterior.
+2 - [Revogado.]
 
 3 - O candidato a conservador de registos frequenta um curso de formação inicial específica, com a duração de 12 meses, compreendendo uma fase formativa teórica e uma fase formativa prática, em fase anterior à admissão na carreira, e como condição da mesma, que não integra o período experimental.
 
@@ -337,35 +372,45 @@ b) Ter aprovação no curso de formação inicial específica previsto no presen
 
 10 - Nos 30 dias subsequentes ao final do prazo referido no n.º 7, o conselho diretivo do IRN, I. P., publicita, nos locais previstos no n.º 6, o resultado das colocações dos candidatos a conservador de registos.
 
-11 - O contrato de trabalho em funções públicas por tempo indeterminado é celebrado no prazo de 30 dias a contar da publicitação das colocações previstas no número anterior, ficando o trabalhador sujeito ao dever de ocupação efetiva do posto de trabalho, por período nunca inferior a um ano a contar da data de celebração daquele contrato.
+11 - O contrato de trabalho em funções públicas por tempo indeterminado é celebrado no prazo de 30 dias a contar da publicitação das colocações previstas no número anterior, ficando o trabalhador sujeito ao dever de ocupação efetiva do posto de trabalho, por período não inferior a dois anos a contar da data de celebração daquele contrato.
 
 12 - O curso de formação específica inicial é regulado por portaria do membro do Governo responsável pela área da justiça, a aprovar no prazo de 120 dias após a publicação do presente decreto-lei.
 
 13 - Ao candidato a conservador de registos aplica-se o regime jurídico do conservador de registos previsto no presente decreto-lei, com as necessárias adaptações, e, subsidiariamente, o regime previsto na LTFP.
 
+14 - Os candidatos que desistam após a seleção para admissão ao curso de formação inicial específica ficam impedidos de se candidatar no concurso seguinte para admissão às carreiras especiais.
+
+15 - O incumprimento do dever de ocupação efetiva do posto de trabalho a que se refere o n.º 11 ou a desistência após o início da formação implica uma compensação ao IRN, I. P., do valor da formação suportada por este Instituto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
+
 ###### Artigo 15.º — Recrutamento
 
 1 - O recrutamento para ingresso na carreira especial de conservador de registos é feito mediante procedimento concursal.
 
-2 - O recrutamento de trabalhadores já integrados na carreira de conservador de registos e detentores de vínculo de emprego público, para preenchimento de postos de trabalho previstos no respetivo mapa de pessoal dos serviços de registos que sejam considerados necessários ao normal funcionamento dos referidos serviços, deve ser obrigatoriamente promovido pelo IRN, I. P., mediante procedimento concursal, até ao final do primeiro semestre de cada ano.
+2 - O movimento de trabalhadores integrados na carreira de conservador de registos que seja considerado necessário ao normal funcionamento dos serviços de registo deve ser promovido pelo IRN, I. P., mediante procedimento concursal simplificado, a cada dois anos.
 
 3 - Os requisitos de candidatura, os critérios de seleção e a tramitação dos procedimentos concursais previstos nos n.os 1 e 2 são aprovados por portaria dos membros do Governo responsáveis pelas áreas da administração pública e da justiça, a aprovar no prazo de 120 dias após a publicação do presente decreto-lei.
 
-4 - Os procedimentos concursais identificam os serviços de registo cujos postos de trabalho são colocados a concurso, bem como os requisitos de candidatura e os critérios de seleção.
+4 - [Revogado.]
+
+5 - Os trabalhadores colocados no procedimento concursal ficam sujeitos ao dever de ocupação efetiva do posto de trabalho, por período não inferior a dois anos a contar da data de celebração do contrato em funções públicas por tempo indeterminado.
+
+6 - Os trabalhadores que incumpram o disposto no número anterior ficam impedidos de se candidatar no procedimento concursal seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 16.º — Período experimental
 
 O período experimental para o ingresso na carreira especial de conservador de registos é de 240 dias a contar do início do exercício de funções no posto de trabalho a que o trabalhador se candidatou.
 
-### CAPÍTULO III — Carreira de oficial de registos
+### Capítulo III — Carreira de oficial de registos
 
 ###### Artigo 17.º — Categoria
 
-A carreira especial de oficial de registos é pluricategorial, estruturando-se nas seguintes categorias:
+A carreira especial de oficial de registos é unicategorial.
 
-a) Oficial de registos; e
-
-b) Oficial de registos especialista.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 18.º — Grau de complexidade funcional
 
@@ -395,9 +440,15 @@ e) Emitir certidões e fotocópias com valor de informação;
 
 f) Exercer funções inerentes ao estatuto de entidade auxiliar na prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo;
 
-g) Executar a organização do arquivo em suporte eletrónico e físico, sob a supervisão de oficial de registos especialista; e
+g) Executar a organização do arquivo em suporte eletrónico e físico;
 
-h) Tratar do expediente e outros atos de natureza administrativa que lhe sejam distribuídos pelo conservador de registos.
+h) Tratar do expediente e outros atos de natureza administrativa que lhe sejam distribuídos pelo conservador de registos;
+
+i) Efetuar, sob a direção do conservador de registos ou de quem legalmente o substitua, o acompanhamento profissional de oficiais de registos, nos termos definidos por despacho do conservador de registos, de quem legalmente o substitua ou do presidente do conselho diretivo do IRN, I. P.;
+
+j) Participar na coordenação dos serviços, sob a supervisão do conservador de registos ou de quem legalmente o substitua, nos termos definidos por despacho do conservador de registos, de quem legalmente o substitua ou do presidente do conselho diretivo do IRN, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 22.º — Conteúdo funcional do oficial de registos especialista
 
@@ -435,11 +486,17 @@ Em matéria de organização e tempo de trabalho, são aplicáveis ao oficial de
 
 ###### Artigo 26.º — Condições de ingresso na carreira
 
-1 - Para além dos requisitos legais exigidos para a constituição de vínculo de emprego público, o ingresso na carreira de oficial de registos depende da verificação da titularidade, pelo candidato, do nível habilitacional correspondente ao grau académico de licenciado em Direito.
+1 - Para além dos requisitos legais exigidos para a constituição de vínculo de emprego público, o ingresso na carreira de oficial de registos depende da verificação da titularidade, pelo candidato, do nível habilitacional correspondente ao grau académico de licenciado em Direito, Solicitadoria ou Administração Pública.
 
 2 - O trabalhador que ingresse na carreira de oficial de registos frequenta um curso de formação inicial específica, em fase imediatamente posterior ao ingresso na carreira e que integra o período experimental, com a duração de cinco meses, compreendendo uma fase formativa teórica e uma fase formativa prática, regulado pela portaria prevista no n.º 12 do artigo 14.º
 
-3 - O trabalhador que ingresse na carreira está sujeito ao dever de ocupação efetiva do posto de trabalho por período nunca inferior a um ano após o período experimental.
+3 - O trabalhador que ingresse na carreira está sujeito ao dever de ocupação efetiva do posto de trabalho por período não inferior a dois anos após o período experimental.
+
+4 - Os trabalhadores que desistam após o ingresso na carreira de oficial de registo ficam impedidos de se candidatar ao concurso seguinte para admissão às carreiras especiais.
+
+5 - O incumprimento do dever de ocupação efetiva do posto de trabalho a que se refere o n.º 3 ou a desistência após o ingresso na carreira implica uma compensação ao IRN, I. P., do valor da formação suportada por este Instituto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 27.º — Condições de admissão à categoria de oficial de registos especialista
 
@@ -453,27 +510,33 @@ Em matéria de organização e tempo de trabalho, são aplicáveis ao oficial de
 
 ###### Artigo 28.º — Recrutamento
 
-1 - O recrutamento para ingresso na carreira especial de oficial de registos, bem como para a mudança de categoria prevista no artigo anterior, é feito mediante procedimento concursal.
+1 - O recrutamento para ingresso na carreira especial de oficial de registos é feito mediante procedimento concursal.
 
-2 - O recrutamento de trabalhadores já integrados na carreira de oficial de registos e detentores de vínculo de emprego público, para preenchimento de postos de trabalho previstos no respetivo mapa de pessoal dos serviços de registos, que sejam considerados necessários ao normal funcionamento dos referidos serviços, deve ser obrigatoriamente promovido pelo IRN, I. P., mediante procedimento concursal, até ao final do primeiro semestre de cada ano.
+2 - O movimento de trabalhadores integrados na carreira de oficial de registos que seja considerado necessário ao normal funcionamento dos serviços de registo deve ser promovido pelo IRN, I. P., mediante procedimento concursal simplificado, a cada dois anos.
 
 3 - Os requisitos de candidatura, os critérios de seleção e a tramitação dos procedimentos concursais previstos nos n.os 1 e 2 são aprovados pela portaria prevista no n.º 3 do artigo 15.º
 
-4 - Os procedimentos concursais identificam os serviços de registo cujos postos de trabalho são colocados a concurso, bem como os requisitos de candidatura e os critérios de seleção.
+4 - [Revogado.]
+
+5 - Os trabalhadores colocados no procedimento concursal ficam sujeitos ao dever de ocupação efetiva do posto de trabalho, por período não inferior a dois anos a contar da data de celebração do contrato em funções públicas por tempo indeterminado.
+
+6 - Os trabalhadores que incumpram o disposto no número anterior ficam impedidos de se candidatar no procedimento concursal seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 29.º — Período experimental
 
 O período experimental para o ingresso na carreira especial de oficial de registos é de 240 dias a contar do início do exercício de funções no posto de trabalho a que o trabalhador se candidatou.
 
-### CAPÍTULO IV — Formação profissional
+### Capítulo IV — Formação profissional
 
 ###### Artigo 30.º — Formação profissional
 
 1 - A formação dos trabalhadores integrados nas carreiras de conservador de registos e de oficial de registos desenvolve-se ao longo da sua carreira profissional e promove, designadamente, a atualização dos seus conhecimentos e a sua valorização pessoal e profissional, em consonância com as políticas de desenvolvimento, inovação e mudança da Administração Pública, devendo ser proporcionadas as condições de formação que lhes permitam desempenhar a sua função com dignidade, qualidade, eficiência e garantindo a segurança e a certeza jurídicas.
 
-2 - Sem prejuízo do disposto no [Decreto-Lei n.º 86-A/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), de 29 de dezembro, a formação dos trabalhadores integrados nas carreiras de conservador de registos e de oficial de registos é regulada pela portaria referida no n.º 12 do artigo 14.º
+2 - Sem prejuízo do disposto no Decreto-Lei n.º 86-A/2016, de 29 de dezembro, a formação dos trabalhadores integrados nas carreiras de conservador de registos e de oficial de registos é regulada pela portaria referida no n.º 12 do artigo 14.º
 
-### CAPÍTULO V — Garantias de imparcialidade
+### Capítulo V — Garantias de imparcialidade
 
 ###### Artigo 31.º — Incompatibilidades e impedimentos
 
@@ -483,7 +546,7 @@ a) Eles próprios, os seus cônjuges não separados de pessoas e bens, quem com 
 
 b) Sociedade em cujo capital detenham, direta ou indiretamente, por si mesmos ou conjuntamente com as pessoas referidas na alínea anterior, uma participação social.
 
-2 - O conservador de registos e o oficial de registos podem, nos termos do disposto no n.º 3 do artigo 5.º do Código do Notariado, aprovado pelo [Decreto-Lei n.º 207/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1995-478043), de 14 de agosto, na sua redação atual, intervir nos atos em que seja parte ou interessada uma sociedade por ações de que ele ou as pessoas indicadas no n.º 1 sejam sócios, e nos atos em que seja parte ou interessada alguma pessoa coletiva de utilidade pública a cuja administração ele pertença.
+2 - O conservador de registos e o oficial de registos podem, nos termos do disposto no n.º 3 do artigo 5.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, na sua redação atual, intervir nos atos em que seja parte ou interessada uma sociedade por ações de que ele ou as pessoas indicadas no n.º 1 sejam sócios, e nos atos em que seja parte ou interessada alguma pessoa coletiva de utilidade pública a cuja administração ele pertença.
 
 ###### Artigo 32.º — Acumulação de funções
 
@@ -495,7 +558,7 @@ b) Sociedade em cujo capital detenham, direta ou indiretamente, por si mesmos ou
 
 4 - A acumulação de funções carece de prévia autorização do conselho diretivo do IRN, I. P., nos termos previstos na LTFP.
 
-### CAPÍTULO VI — Mobilidade
+### Capítulo VI — Mobilidade
 
 ###### Artigo 33.º — Mobilidade
 
@@ -503,11 +566,13 @@ b) Sociedade em cujo capital detenham, direta ou indiretamente, por si mesmos ou
 
 2 - A mobilidade na categoria opera-se para o exercício de funções inerentes à categoria de que o trabalhador é titular e tem a duração máxima de 18 meses.
 
-3 - A mobilidade intercarreiras ou categorias opera-se para o exercício de funções não inerentes à categoria de que o trabalhador é titular e tem a duração máxima de 3 anos.
+3 - A mobilidade intercarreiras opera-se para o exercício de funções não inerentes à carreira de que o trabalhador é titular e tem a duração máxima de três anos.
 
 4 - Nas situações previstas nos números anteriores, o trabalhador tem o direito de optar pela remuneração base devida na sua situação jurídico-funcional de origem.
 
-### CAPÍTULO VII — Disposições complementares
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
+
+### Capítulo VII — Disposições complementares
 
 ###### Artigo 34.º — Alteração do posicionamento remuneratório
 
@@ -531,7 +596,13 @@ Em matéria disciplinar, é aplicável aos conservadores de registos e aos ofici
 
 A avaliação do desempenho relativa aos trabalhadores que integrem as carreiras especiais de conservador de registos e de oficial de registos é a prevista no regime que fixa o sistema integrado de gestão e avaliação do desempenho na Administração Pública, com as adaptações que forem introduzidas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração pública e da justiça, a aprovar no prazo de 120 dias após a entrada em vigor do presente decreto-lei.
 
-### CAPÍTULO VIII — Disposições transitórias
+###### Artigo 38.º-A — Conteúdos funcionais não específicos
+
+Sem prejuízo do disposto na alínea a) do artigo 21.º, o conselho diretivo do IRN, I. P., pode determinar que trabalhadores de outras carreiras deem entrada aos pedidos ali referidos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
+
+### Capítulo VIII — Disposições transitórias
 
 ###### Artigo 39.º — Transição para a carreira de conservador
 
@@ -539,7 +610,7 @@ A avaliação do desempenho relativa aos trabalhadores que integrem as carreiras
 
 a) Os conservadores integrados nos quadros do registo civil e do registo predial;
 
-b) Os notários que, na sequência do processo de privatização do notariado, regulado pelo [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de fevereiro, na sua redação atual, optaram pela integração em serviço do IRN, I. P., bem como os notários que, nos termos do mesmo decreto-lei, regressem ao serviço do IRN, I. P.;
+b) Os notários que, na sequência do processo de privatização do notariado, regulado pelo Decreto-Lei n.º 26/2004, de 4 de fevereiro, na sua redação atual, optaram pela integração em serviço do IRN, I. P., bem como os notários que, nos termos do mesmo decreto-lei, regressem ao serviço do IRN, I. P.;
 
 c) Os notários dos serviços não abrangidos pelo processo de privatização a que se refere a alínea anterior.
 
@@ -569,13 +640,13 @@ c) Os notários dos serviços não abrangidos pelo processo de privatização a 
 
 a) Os ajudantes principais, primeiros-ajudantes e segundos-ajudantes integrados nos quadros do registo civil e do registo predial;
 
-b) Os ajudantes principais, primeiros-ajudantes e segundos-ajudantes que, na sequência do processo de privatização do notariado, regulado no [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de fevereiro, na sua redação atual, optaram pela integração em serviço do IRN, I. P., bem como aqueles que, nos termos do mesmo decreto-lei, regressem ao serviço do IRN, I. P.;
+b) Os ajudantes principais, primeiros-ajudantes e segundos-ajudantes que, na sequência do processo de privatização do notariado, regulado no Decreto-Lei n.º 26/2004, de 4 de fevereiro, na sua redação atual, optaram pela integração em serviço do IRN, I. P., bem como aqueles que, nos termos do mesmo decreto-lei, regressem ao serviço do IRN, I. P.;
 
 c) Os atuais ajudantes principais, primeiros-ajudantes e segundos-ajudantes dos serviços de notariado não abrangidos pelo processo de privatização a que se refere a alínea anterior;
 
 d) Os atuais escriturários e escriturários superiores da carreira de escriturário dos registos e do notariado;
 
-e) Os escriturários e escriturários superiores que, na sequência do processo de privatização do notariado, regulado no [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de fevereiro, na sua redação atual, regressem ao serviço do IRN, I. P.
+e) Os escriturários e escriturários superiores que, na sequência do processo de privatização do notariado, regulado no Decreto-Lei n.º 26/2004, de 4 de fevereiro, na sua redação atual, regressem ao serviço do IRN, I. P.
 
 2 - Os trabalhadores referidos nas alíneas a) e d) do número anterior mantém-se no posto de trabalho de que são titulares no serviço a cujo mapa de pessoal pertencem.
 
@@ -587,7 +658,9 @@ e) Os escriturários e escriturários superiores que, na sequência do processo 
 
 2 - O tempo de serviço prestado enquanto adjunto de conservador, em substituição legal de conservador, por períodos superiores a 30 dias, releva para a contagem do tempo de serviço na carreira especial de conservador de registos.
 
-3 - Para efeitos de transição para a carreira especial de oficial de registos, e de admissão, nos termos do artigo 27.º, à categoria de oficial de registos especialista, releva a contagem integral do tempo de serviço prestado pelos trabalhadores atualmente integrados nas carreiras de escriturário e de ajudante.
+3 - Para efeitos de transição para a carreira especial de oficial de registos releva a contagem integral do tempo de serviço prestado pelos trabalhadores atualmente integrados nas carreiras de ajudante e de escriturário dos registos e notariado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2026-1186535403), em vigor a partir de 2026-10-28, com efeitos a partir de 2025-07-01.
 
 ###### Artigo 43.º — Situações remuneratórias
 
@@ -609,7 +682,7 @@ Até que se verifique a admissão de trabalhadores na categoria de oficial de re
 
 Até que se verifique a admissão de trabalhadores na categoria de oficial de registos especialista, o conservador de registos pode, nos termos do disposto no artigo 11.º, delegar competências em trabalhador pertencente ao mesmo serviço de registo que, através do presente decreto-lei, transite para a categoria de oficial de registos.
 
-### CAPÍTULO IX — Disposições finais
+### Capítulo IX — Disposições finais
 
 ###### Artigo 47.º — Legislação aplicável
 
@@ -619,13 +692,13 @@ Em tudo o que não se encontre regulado no presente decreto-lei, aplica-se a leg
 
 São revogados:
 
-a) Os artigos 21.º, 23.º a 33.º, 35.º, 40.º a 42.º, 44.º, 46.º a 50.º, 76.º, 88.º a 91.º e 94.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de dezembro, na sua redação atual;
+a) Os artigos 21.º, 23.º a 33.º, 35.º, 40.º a 42.º, 44.º, 46.º a 50.º, 76.º, 88.º a 91.º e 94.º do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, na sua redação atual;
 
-b) O [Decreto-Lei n.º 92/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), de 17 de março, na sua redação atual;
+b) O Decreto-Lei n.º 92/90, de 17 de março, na sua redação atual;
 
-c) O [Decreto-Lei n.º 206/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1997-202586), de 12 de agosto, na sua redação atual;
+c) O Decreto-Lei n.º 206/97, de 12 de agosto, na sua redação atual;
 
-d) Os artigos 49.º a 51.º, 53.º a 56.º, 59.º, 60.º, 62.º a 66.º, 68.º, 80.º a 92.º, 94.º a 98.º, 100.º a 111.º, 114.º a 116.º e 143.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de outubro, na sua redação atual.
+d) Os artigos 49.º a 51.º, 53.º a 56.º, 59.º, 60.º, 62.º a 66.º, 68.º, 80.º a 92.º, 94.º a 98.º, 100.º a 111.º, 114.º a 116.º e 143.º do Decreto Regulamentar n.º 55/80, de 8 de outubro, na sua redação atual.
 
 ###### Artigo 49.º — Produção de efeitos
 

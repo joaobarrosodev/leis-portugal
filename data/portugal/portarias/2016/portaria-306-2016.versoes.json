@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105323790:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-952478875",
+ "dre_path": "/dr/detalhe/portaria/306-2016-105323790",
+ "source_lastmod": "2026-10-30",
+ "versions": [
+  {
+   "date": "2026-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1186535402:por",
+     "title": "Decreto-Lei n.º 205/2026",
+     "published": "2026-10-27",
+     "dre_path": "/dr/detalhe/decreto-lei/205-2026-1186535402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "952479175",
+    "1187486975",
+    "952479575",
+    "952479775",
+    "952479975",
+    "952480175",
+    "952480375",
+    "952480575",
+    "952480775"
+   ]
+  }
+ ],
+ "fragments": {
+  "952479175": {
+   "fragment_id": "952479075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em vista uma gestão mais eficiente dos recursos que promova uma efetiva transição de uma economia linear para uma economia circular, o Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, pela Lei n.º 82-D/2014, de 31 de dezembro, pelos Decretos-Leis n.os 75/2015, de 11 de maio, e 103/2015, de 15 de junho, pela Lei n.º 7-A/2016, de 30 de março, e pelos Decretos-Leis n.os 73/2011, de 17 de junho, e 71/2016, de 4 de novembro, que estabelece o regime geral aplicável à prevenção, produção e gestão de resíduos, criou, ao abrigo do seu artigo 50.º, a Comissão de Acompanhamento da Gestão de Resíduos (CAGER), que assume competências enquanto entidade de apoio técnico à formulação, acompanhamento e avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos.\n\nImporta, deste modo e neste enquadramento, definir a estrutura, a composição e o funcionamento da CAGER.\n\nAssim, ao abrigo do disposto no artigo 50.º do Decreto-Lei n.º 178/2006, de 5 de setembro, bem como das competências delegadas pelos Ministros da Economia e do Ambiente, nos termos do Despacho n.º 2983/2016, de 17 de fevereiro, publicado na 2.ª série do Diário da República n.º 40, de 26 de fevereiro, e do Despacho n.º 489/2016, de 29 de dezembro, publicado na 2.ª série do Diário da República n.º 7, de 12 de janeiro de 2016, respetivamente, determina-se o seguinte:"
+  },
+  "1187486975": {
+   "fragment_id": "952479275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto, áreas de intervenção e atribuições",
+   "in_force_from": "2026-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto, áreas de intervenção e atribuições\n\n1 - A presente portaria fixa a estrutura, composição e funcionamento da Comissão de Acompanhamento da Gestão de Resíduos, doravante designada por CAGER.\n\n2 - A CAGER é uma entidade de apoio técnico à formulação, acompanhamento e avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos, com vista a uma gestão mais eficiente dos recursos, que promova uma efetiva transição de uma economia linear para uma economia circular.\n\n3 - A CAGER é constituída por um Presidente e por um Conselho Consultivo.\n\n4 - Compete ao Presidente:\n\na) Convocar e presidir as reuniões, estabelecer a ordem de trabalhos das mesmas, bem como presidir e dirigir os trabalhos da CAGER;\n\nb) (Revogada.)\n\nc) A elaboração de um relatório final dos trabalhos dos grupos específicos que venham a ser constituídos no sentido de contribuir para a tomada de decisão e definição de políticas sustentáveis na área da gestão de resíduos, a transmitir aos membros do Governo responsáveis pelas áreas da economia e do ambiente;\n\nd) A elaboração, respetivamente, no início e no final de cada ano civil, do plano e do relatório de atividades, a enviar aos membros do Governo responsáveis pelas áreas da economia e do ambiente.\n\n5 - Compete ao Conselho Consultivo emitir parecer não vinculativo sobre as matérias em que seja chamado a pronunciar-se, podendo formular propostas, sugestões e recomendações que entenda pertinentes nas seguintes áreas de intervenção:\n\na) Registo de produtores e produtos abrangidos por legislação relativa a fluxos específicos de resíduos;\n\nb) Operadores e operações de gestão de resíduos, incluindo a recolha, transporte, valorização e eliminação de resíduos;\n\nc) Economia dos resíduos, abrangendo a organização e promoção da reutilização e do mercado de matérias-primas secundárias, o funcionamento do mercado de resíduos, os subprodutos e o fim de estatuto de resíduo;\n\nd) Mecanismos de alocação e de compensação entre entidades gestoras de fluxos específicos de resíduos;\n\ne) Atualizações e adaptações ao progresso técnico das especificações técnicas dos resíduos de embalagens, provenientes da recolha seletiva e indiferenciada, cuja responsabilidade está atribuída aos municípios, às associações de municípios e/ou às entidades gestoras de sistemas multimunicipais ou intermunicipais.\n\n6 - Cabe, ainda, ao Conselho Consultivo assegurar:\n\na) O acompanhamento, monitorização e avaliação integrada da execução das políticas;\n\nb) A emissão de pareceres com vista a apoiar a tomada de decisão;\n\nc) A observação e análise crítica, continuada e sistemática, da evolução de resultados e indicadores;\n\nd) A emissão de alertas sempre que verifique situações anómalas no setor, incluindo a recomendação da realização de auditorias.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 205/2026 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402), em vigor a partir de 2026-11-01."
+  },
+  "952479575": {
+   "fragment_id": "952479475",
+   "type": 11,
+   "heading": "Artigo 2.º — Nomeação e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Nomeação e composição\n\n1 - O Presidente da CAGER é nomeado por despacho conjunto dos membros do Governo responsáveis pelas áreas da economia e do ambiente, por um período máximo de quatro anos.\n\n2 - O Conselho Consultivo é designado pelos membros do Governo responsáveis pelas áreas da economia e do ambiente, devendo integrar representantes de cada uma das seguintes entidades:\n\na) Agência Portuguesa do Ambiente, I. P. (APA);\n\nb) Direção-Geral das Atividades Económicas (DGAE);\n\nc) Direção-Geral de Saúde;\n\nd) Dos órgãos dos Governos Regionais da Região Autónoma dos Açores e da Região Autónoma da Madeira;\n\ne) Associação Nacional de Municípios Portugueses;\n\nf) Comissões de Coordenação e Desenvolvimento Regional, em regime de rotatividade;\n\ng) Autoridade da Concorrência;\n\nh) IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\ni) Instituto Nacional de Estatística, I. P.;\n\nj) Agência Nacional de Inovação, S. A.;\n\nk) Direção-Geral de Energia e Geologia;\n\nl) Entidade Nacional para o Mercado de Combustíveis, E. P. E.;\n\nm) Instituto dos Mercados Públicos de Imobiliário e da Construção, I. P.;\n\nn) Direção-Geral do Consumidor;\n\no) Instituto da Mobilidade e dos Transportes, I. P.;\n\np) Entidade Reguladora dos Serviços das Águas e dos Resíduos, I. P.;\n\nq) Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\nr) Autoridade de Segurança Alimentar e Económica;\n\ns) Autoridade Tributária e Aduaneira;\n\nt) ESGRA - Associação para a Gestão de Resíduos;\n\nu) CPADA - Confederação Portuguesa das Associações de Defesa do Ambiente;\n\nv) De cada uma das entidades gestoras de fluxos específicos de resíduos;\n\nw) Associações dos operadores de tratamento de resíduos;\n\nx) Associações de produtores e distribuidores de produtos abrangidos por fluxos específicos de resíduos;\n\ny) Da área científica e da investigação.\n\n3 - Os representantes indicados no número anterior, com exceção das alíneas d) a g), l), p), e t) a y), são designados pelos membros do Governo responsáveis pelas áreas que tutelam.\n\n4 - No âmbito da CAGER é constituído um grupo de trabalho com vista à definição de mecanismos de alocação e compensação entre entidades gestoras de fluxos específicos de resíduos, composto por um Presidente, a quem cabe dirigir os trabalhos, e por membros da APA e da DGAE.\n\n5 - O Presidente pode constituir outros grupos de trabalho, no âmbito da composição da CAGER, para apoiar o respetivo funcionamento em missões específicas, pontuais e delimitadas no tempo.\n\n6 - Podem, ainda, por decisão do Presidente, tomar parte nos trabalhos, ou em alguma das reuniões da CAGER, outras entidades de âmbito nacional consideradas relevantes para a prossecução das suas competências.\n\n7 - Os membros que integram a CAGER estão vinculados ao dever de confidencialidade das informações que constituam segredo comercial ou industrial."
+  },
+  "952479775": {
+   "fragment_id": "952479675",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - A CAGER funciona junto da APA, que lhe presta o necessário apoio logístico.\n\n2 - A CAGER é apoiada no desenvolvimento da sua atividade por um secretariado técnico assegurado pela APA e pela DGAE.\n\n3 - O Conselho Consultivo reúne semestralmente ou, a título extraordinário, mediante convocatória do Presidente.\n\n4 - O Presidente aprova o regulamento interno de funcionamento da CAGER."
+  },
+  "952479975": {
+   "fragment_id": "952479875",
+   "type": 11,
+   "heading": "Artigo 4.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Encargos\n\n1 - A participação nas reuniões ou em quaisquer outras atividades da CAGER não confere aos seus membros, referidos nos n.os 1 e 2 do artigo 2.º, o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senha de presença ou ajudas de custo.\n\n2 - Os encargos associados à gestão do mecanismo de alocação e de compensação são assegurados através da taxa prevista no n.º 7 do artigo 44.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na redação dada pelo Decreto-Lei n.º 71/2016, de 4 de novembro."
+  },
+  "952480175": {
+   "fragment_id": "952480075",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições transitórias\n\n1 - A constituição da CAGER deve entrar em funcionamento no prazo de um mês após a entrada em vigor da presente portaria.\n\n2 - O regulamento interno a que se refere o n.º 4 do artigo 3.º é submetido, para homologação, aos membros do Governo responsáveis pelas áreas da economia e do ambiente no prazo de dois meses após a entrada em vigor da presente portaria."
+  },
+  "952480375": {
+   "fragment_id": "952480275",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 32/2007, de 8 de janeiro."
+  },
+  "952480575": {
+   "fragment_id": "952480475",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "952480775": {
+   "fragment_id": "952480675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 18 de novembro de 2016."
+  }
+ },
+ "unavailable_dates": [
+  "2016-12-07"
+ ]
+}

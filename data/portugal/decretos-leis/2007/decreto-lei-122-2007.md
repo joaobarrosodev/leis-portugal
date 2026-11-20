@@ -39,18 +39,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2008-08-03'
 version_history:
   file: decreto-lei-122-2007.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-11'
   versions:
-  - date: '2007-04-27'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2008-08-03'
     amending: pt:dre:454821:por
     amending_title: Decreto-Lei n.º 146/2008
@@ -68,21 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2007-520977
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2007/04/27/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2007-520977
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:56:09Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-978350732
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-978350732
+  retrieved_at: '2026-11-20T13:51:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: 9a19769dc63717984ee006816e790c0ff3caf12120b1abb1ea9a59d049511544
+  source_sha256: 5249afb72f5b8c3c84b677111805c22e40c9f202238fa3ff36035193b889d684
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:56:09Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 146/2008. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-122-2007.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:01Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-122-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,30 +119,28 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
 article_structure:
-  article_count: 10
+  article_count: 11
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:56:09Z'
+  checked_at: '2026-11-20T13:51:01Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 122/2007
 
-de 27 de Abril
+O Sistema de Acção Social Complementar foi criado pelo Decreto-Lei n.º 194/91, de 25 de Maio, com o objectivo de coordenar a actuação dos diversos serviços sociais existentes na Administração Pública. Os princípios enformadores do Sistema - uniformização e generalização, adequação e não cumulação - visavam a concessão, com carácter de complementaridade ou substituição, de benefícios aos funcionários e agentes da Administração Pública numa perspectiva que garantisse a eficácia, eficiência e economia dos serviços. Subsistem, contudo, grandes disparidades entre os diversos serviços sociais quer em termos de funcionamento quer em termos de tipo e montante dos benefícios concedidos.
 
-O Sistema de Acção Social Complementar foi criado pelo [Decreto-Lei n.º 194/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1991-631203), de 25 de Maio, com o objectivo de coordenar a actuação dos diversos serviços sociais existentes na Administração Pública. Os princípios enformadores do Sistema - uniformização e generalização, adequação e não cumulação - visavam a concessão, com carácter de complementaridade ou substituição, de benefícios aos funcionários e agentes da Administração Pública numa perspectiva que garantisse a eficácia, eficiência e economia dos serviços. Subsistem, contudo, grandes disparidades entre os diversos serviços sociais quer em termos de funcionamento quer em termos de tipo e montante dos benefícios concedidos.
-
-No sentido de colmatar as deficiências existentes a [Resolução do Conselho de Ministros n.º 39/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2006-649909), de 30 de Março, que aprovou o Programa de Reestruturação da Administração Central do Estado (PRACE) determinou a criação dos Serviços Sociais da Administração Pública e a extinção dos Serviços Sociais do Ministério das Finanças e da Administração Pública (SOFE), dos Serviços Sociais do Ministério do Trabalho e da Solidariedade Social (SSMTSS), dos Serviços Sociais do Ministério da Educação (SSME), da Obra Social do Ministério das Obras Públicas, Transportes e Comunicações (OSMOP), dos Serviços Sociais da Presidência do Conselho de Ministros (SSPCM) e dos Serviços Sociais do Ministério da Justiça (estes no tocante aos trabalhadores não abrangidos pelo subsistema de saúde da Justiça).
+No sentido de colmatar as deficiências existentes a Resolução do Conselho de Ministros n.º 39/2006, de 30 de Março, que aprovou o Programa de Reestruturação da Administração Central do Estado (PRACE) determinou a criação dos Serviços Sociais da Administração Pública e a extinção dos Serviços Sociais do Ministério das Finanças e da Administração Pública (SOFE), dos Serviços Sociais do Ministério do Trabalho e da Solidariedade Social (SSMTSS), dos Serviços Sociais do Ministério da Educação (SSME), da Obra Social do Ministério das Obras Públicas, Transportes e Comunicações (OSMOP), dos Serviços Sociais da Presidência do Conselho de Ministros (SSPCM) e dos Serviços Sociais do Ministério da Justiça (estes no tocante aos trabalhadores não abrangidos pelo subsistema de saúde da Justiça).
 
 Os Serviços Sociais da Administração Pública devem obedecer aos princípios enformadores da acção social complementar - adequação, não cumulação e responsabilidade do Estado - garantindo, simultaneamente, a eficácia, eficiência e economia dos serviços.
 
-Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio, relativamente à matéria da acção social complementar.
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio, relativamente à matéria da acção social complementar.
 
 Assim:
 
@@ -204,7 +198,7 @@ c) O pessoal em situação de mobilidade especial, nos termos previstos no respe
 
 3 - Constituem o agregado familiar:
 
-a) O cônjuge, ou a pessoa que esteja nas condições previstas na [Lei n.º 7/2001](https://diariodarepublica.pt/dr/detalhe/lei/7-2001-314194), de 11 de Maio, e respectivos descendentes ou equiparados susceptíveis de poderem usufruir de prestações sociais, nos termos da legislação em vigor sobre segurança social;
+a) O cônjuge, ou a pessoa que esteja nas condições previstas na Lei n.º 7/2001, de 11 de Maio, e respectivos descendentes ou equiparados susceptíveis de poderem usufruir de prestações sociais, nos termos da legislação em vigor sobre segurança social;
 
 b) Os ascendentes a cargo do beneficiário que não concorram para a economia comum com rendimentos próprios mensais iguais ou superiores a 60% do indexante dos apoios sociais ou, correspondentes ao respectivo montante, tratando-se de um casal.
 
@@ -242,15 +236,15 @@ Os equipamentos sociais relativos à educação pré-escolar, creches, residênc
 
 Sem prejuízo do disposto no presente decreto-lei, os institutos públicos podem, ainda, mediante autorização prévia dos Ministros das Finanças e da tutela, desenvolver iniciativas de acção social complementar relativas a educação pré-escolar e creches, cujas finalidades se destinem essencialmente à conciliação da vida profissional, pessoal e familiar dos seus trabalhadores e a promover as condições da igualdade de género e o combate às discriminações múltiplas.
 
-> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2008-454821), publicado em 2008-07-29.
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2008-454821), em vigor a partir de 2008-08-03, com efeitos a partir de 2008-07-01.
 
 ###### Artigo 9.º — Norma revogatória
 
 1 - São revogados os seguintes diplomas:
 
-a) O [Decreto-Lei n.º 194/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1991-631203), de 25 de Maio;
+a) O Decreto-Lei n.º 194/91, de 25 de Maio;
 
-b) O [Decreto-Lei n.º 212/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1996-168055), de 20 de Novembro.
+b) O Decreto-Lei n.º 212/96, de 20 de Novembro.
 
 2 - Até à publicação da regulamentação prevista no artigo 2.º, mantêm-se em vigor os actuais regulamentos, com excepção dos relativos às prestações enunciadas nas alíneas seguintes, os quais cessam a sua vigência com a entrada em vigor do presente decreto-lei:
 

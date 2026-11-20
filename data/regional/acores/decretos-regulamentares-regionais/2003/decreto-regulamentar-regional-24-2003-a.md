@@ -43,16 +43,40 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-01-09'
+  consolidation_date: '2026-11-11'
 version_history:
   file: decreto-regulamentar-regional-24-2003-a.versoes.json
-  count: 2
-  source_lastmod: '2025-01-08'
+  count: 4
+  source_lastmod: '2026-11-12'
   versions:
   - date: '2003-08-07'
     amending: null
     amending_title: null
     changes: []
+  - date: '2007-04-24'
+    amending: pt:dre:519267:por
+    amending_title: Decreto Regulamentar Regional n.º 11/2007/A
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Anexo II
   - date: '2025-01-09'
     amending: pt:dre:902264456:por
     amending_title: Decreto Legislativo Regional n.º 2/2025/A
@@ -60,6 +84,11 @@ version_history:
     - Revoga Artigo 13.º
     - Revoga Artigo 14.º
     - Revoga Artigo 15.º
+  - date: '2026-11-11'
+    amending: pt:dre:1193730363:por
+    amending_title: Decreto Regulamentar Regional n.º 23/2026/A
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/24/2003/a/cons/20250108/pt/html
@@ -74,19 +103,19 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2003/a/cons/20250108/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2003-902591747
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2003-902591747
-  retrieved_at: '2026-10-22T13:21:22Z'
+  retrieved_at: '2026-11-20T13:52:20Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2025-01-08T00:00:00Z'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 4c43af5176f2e7358a85edd269c89c72015cbe470969ba3f6e4f7ece749fa21e
+  source_sha256: 46051a868b7f5ff04020e9694cee2861a1f363c8330c6c315cb4cec69761f61e
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:21:22Z'
-  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-24-2003-a.versoes.json.
+  generated_at: '2026-11-20T13:52:20Z'
+  notes: 4 versão(ões); histórico completo em decreto-regulamentar-regional-24-2003-a.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,10 +130,23 @@ subjects:
 - Açores
 relationships:
 - type: amended_by
+  target: pt:dre:519267:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 21.º;
+    Altera Artigo 22.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 31.º;
+    Altera Artigo 33.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo 43.º;
+    Altera Artigo 44.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267
+  date: '2007-04-23'
+- type: amended_by
   target: pt:dre:902264456:por
   label: Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456
   date: '2025-01-08'
+- type: amended_by
+  target: pt:dre:1193730363:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363
+  date: '2026-11-10'
 - type: cites
   target: pt:dre:145612:por
   label: null
@@ -150,14 +192,12 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:21:22Z'
+  checked_at: '2026-11-20T13:52:20Z'
   warnings: []
   errors: []
 ---
 
 # Decreto Regulamentar Regional n.º 24/2003/A
-
-Decreto Regulamentar Regional n.º 24/2003/A
 
 O Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, reformulou e aperfeiçoou o enquadramento orgânico da protecção civil e bombeiros dos Açores, preconizando, no seu artigo 22.º, que as matérias respeitantes à organização, funcionamento, quadros de pessoal e respectivo estatuto dos serviços de protecção civil e suas estruturas inspectivas, bem como as suas atribuições e competências seriam aprovadas, mediante decreto regulamentar regional, de acordo com o que dispõe o n.º 5 do artigo 17.º da Lei n.º 113/91, de 29 de Agosto.
 
@@ -183,17 +223,25 @@ Foi ouvida a Federação de Bombeiros da Região Autónoma dos Açores.
 
 Assim, em execução do disposto no artigo 22.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, alterado pelos Decretos Legislativos Regionais n.os 25/2000/A, de 9 de Agosto, e 15/2002/A, de 30 de Abril, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 1.º — Objecto
 
 São aprovados a orgânica e o quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores (SRPCBA), que constam dos anexos I e II ao presente diploma, do qual fazem parte integrante.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 2.º — Revogação
 
 São revogados os Decretos Regulamentares Regionais n.os 32/87/A, de 19 de Novembro, 33/87/A, de 24 de Novembro, 32/90/A, de 10 de Outubro, 13/92/A, de 23 de Março, e 42/92/A, de 19 de Novembro.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 3.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 Aprovado em Conselho do Governo Regional na Madalena, Pico, em 3 de Abril de 2003.
 
@@ -205,9 +253,15 @@ Publique-se.
 
 O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ## Anexo I — Orgânica do Serviço Regional de Protecção Civil e Bombeiros dos Açores
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ### Capítulo I — Natureza e atribuições
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 1.º — Natureza
 
@@ -215,21 +269,33 @@ O Ministro da República para a Região Autónoma dos Açores, Álvaro José Bri
 
 2 - O SRPCBA depende do membro do Governo Regional com competência em matéria de protecção civil e bombeiros.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 2.º — Atribuições
 
 São atribuições do SRPCBA orientar, coordenar e fiscalizar, a nível da Região Autónoma dos Açores, as actividades de protecção civil e dos corpos de bombeiros, bem como assegurar o funcionamento de um sistema de transporte terrestre de emergência médica, de forma a garantir, aos sinistrados ou vítimas de doença súbita, a pronta e correcta prestação de cuidados de saúde.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ### Capítulo II — Serviços regional e municipais de protecção civil
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 3.º — Estrutura
 
 A estrutura da protecção civil na Região Autónoma dos Açores compreende o Serviço Regional e os serviços municipais.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 4.º — Serviço Regional de Protecção Civil
 
-1 - O SRPCBA, criado pelo Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, assegura o desempenho das atribuições e competências cometidas à administração regional dos Açores no âmbito da protecção civil, dos bombeiros e do transporte terrestre de doentes.
+1 - O SRPCBA assegura o desempenho das atribuições e competências cometidas à administração regional dos Açores no âmbito da protecção civil, dos bombeiros e do transporte terrestre de doentes.
 
 2 - Compete ao SRPCBA decidir da oportunidade, do tipo e da extensão da intervenção de qualquer agente de protecção civil em caso de iminência ou ocorrência de qualquer facto ou acontecimento susceptível de desencadear a sua acção.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 5.º — Desconcentração de meios do Serviço Regional
 
@@ -239,15 +305,33 @@ A estrutura da protecção civil na Região Autónoma dos Açores compreende o S
 
 3 - Na ilha de São Miguel haverá um delegado por área de intervenção de corpo de bombeiros.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 6.º — Serviços municipais de protecção civil
 
-1 - Os municípios dispõem de serviços municipais de protecção civil, aos quais incumbe, ao nível da respectiva circunscrição territorial, a prossecução dos objectivos e o desenvolvimento das acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 3.º da Lei n.º 113/91, de 29 de Agosto.
+1 - Os municípios dispõem de serviços municipais de protecção civil, aos quais incumbe, ao nível da respectiva circunscrição territorial, a prossecução dos objectivos e o desenvolvimento das acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 4.º da
 
-2 - Compete ainda aos serviços municipais de protecção civil constituírem e assegurarem a funcionalidade dos respectivos centros municipais de operações de emergência, nos termos do n.º 1 do artigo 9.º do Decreto Legislativo Regional n.º 13/99/A, de 15 de Abril.
+Lei n.º 27/2006
+
+, de 3 de Julho.
+
+2 - Compete ainda aos serviços municipais de protecção civil constituírem e assegurarem a funcionalidade dos respectivos centros municipais de operações de emergência, nos termos do n.º 1 do artigo 9.º do
+
+Decreto Legislativo Regional n.º 13/99/A
+
+, de 15 de Abril, enquanto este se mantiver em vigor.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ### Capítulo III — Órgãos, serviços e competências
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 #### Secção I — Órgãos
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 7.º — Órgãos do Serviço Regional
 
@@ -261,15 +345,17 @@ c) A comissão de fiscalização;
 
 d) O conselho regional de bombeiros (CRB).
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 8.º — Presidente
 
-1 - O SRPCBA é dirigido por um presidente, equiparado, para todos os efeitos, a director regional, coadjuvado por um vice-presidente, equiparado a subdirector-geral.
+1 - O SRPCBA é dirigido por um presidente, equiparado, para todos os efeitos, a director regional, coadjuvado por um vice-presidente, equiparado a subdirector regional.
 
 2 - Compete ao presidente:
 
 a) Coordenar toda a actividade do SRPCBA, garantindo o seu funcionamento;
 
-b) Representar o SRPCBA em juízo e fora dele;
+b) Representar o SRPCBA em juízo e fora dele, nomeadamente na outorga de contratos de qualquer natureza em que aquele seja parte, independentemente do valor da despesa e da entidade competente para a autorizar;
 
 c) Convocar e presidir ao conselho administrativo;
 
@@ -293,11 +379,21 @@ l) Homologar as licenças concedidas ao comandante, 2.º comandante e ao adjunto
 
 m) Presidir ou designar os júris dos concursos de promoção e classificação nas provas de acesso às diferentes categorias do quadro activo;
 
-n) Superintender na gestão do pessoal dos corpos de bombeiros e aprovar os respectivos planos anuais, nos termos da lei.
+n) Superintender na formação do pessoal dos corpos de bombeiros e aprovar os respectivos planos anuais, nos termos da lei;
 
-3 - Sempre que da adopção de alguma das medidas de carácter excepcional, designadamente as referidas no artigo 4.º da Lei n.º 113/91, de 29 de Agosto, resultar uma situação de interdição ou condicionamento de duração superior a 30 dias, o presidente do SRPCBA solicitará a homologação da respectiva decisão ao membro do Governo Regional que tutele a protecção civil.
+o) Emitir parecer obrigatório sobre os pedidos de isenção de impostos ou taxas relativos a importação de material ou equipamento para os corpos de bombeiros.
+
+3 - Sempre que da adopção de alguma das medidas de carácter excepcional, designadamente as referidas no artigo 8.º da
+
+Lei n.º 27/2006
+
+, 3 de Julho, resultar uma situação de interdição ou condicionamento de duração superior a 30 dias, o presidente do SRPCBA solicitará a homologação da respectiva decisão ao membro do Governo Regional que tutele a protecção civil.
 
 4 - Ao vice-presidente do SRPCBA compete substituir o presidente nas suas faltas e impedimentos, bem como exercer as competências que lhe forem delegadas.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 9.º — Conselho administrativo
 
@@ -313,13 +409,17 @@ d) Dois vogais, a nomear pelo membro do Governo Regional referido no n.º 2 do a
 
 2 - O presidente pode convidar outros funcionários do SRPCBA para, sem direito a voto, participarem nas reuniões do conselho administrativo.
 
-3 - O conselho administrativo reúne-se semanalmente em sessão ordinária e extraordinariamente sempre que convocado pelo presidente ou pelo substituto legal, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+3 - O conselho administrativo reúne-se quinzenalmente em sessão ordinária e extraordinariamente sempre que convocado pelo presidente ou pelo substituto legal, por sua iniciativa ou a solicitação de qualquer dos seus membros.
 
 4 - O conselho administrativo elabora o seu regulamento interno, dele constando, obrigatoriamente, os mecanismos de substituição dos respectivos membros, em caso de ausência, impedimento ou vacatura de lugar.
 
 5 - As deliberações do conselho administrativo tornam-se eficazes logo que se encontrem regularmente aprovadas as respectivas actas.
 
 6 - Excepcionalmente, quando a emergência das situações o imponha, as deliberações do conselho administrativo tornam-se eficazes logo que aprovada a minuta da acta da respectiva reunião, documento esse que, para além das menções exigidas por lei, deve conter a assinatura de todos os participantes com direito a voto.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 10.º — Competências do conselho administrativo
 
@@ -335,23 +435,23 @@ d) Verificar a legalidade das despesas;
 
 e) Fiscalizar a contabilidade e proceder à verificação regular dos valores em cofre e em depósito;
 
-f) Autorizar a realização de despesas e escolher procedimentos aquisitivos, dentro dos limites legalmente estabelecidos;
+f) Aprovar as minutas dos contratos em que o SRPCBA seja parte;
 
-g) Aprovar as minutas dos contratos em que o SRPCBA seja parte;
+g) Administrar o património;
 
-h) Administrar o património;
+h) Elaborar o relatório anual de gestão e de exercício orçamental, bem como a conta de gerência do respectivo exercício e demais instrumentos de prestação de contas previstos na lei, a submeter anualmente ao parecer da comissão de fiscalização, à aprovação da tutela e a jurisdição do Tribunal de Contas;
 
-i) Elaborar o relatório anual de gestão e de exercício orçamental, bem como a conta de gerência do respectivo exercício e demais instrumentos de prestação de contas previstos na lei, a submeter anualmente ao parecer da comissão de fiscalização, à aprovação da tutela e a jurisdição do Tribunal de Contas;
+i) Promover, nos termos legais, a alienação do material dispensável;
 
-j) Promover, nos termos legais, a alienação do material dispensável;
+j) Celebrar acordos de cooperação com outras entidades, públicas ou privadas, no âmbito das atribuições do serviço;
 
-k) Aprovar os estudos, pareceres e propostas a apresentar à tutela;
-
-l) Celebrar acordos de cooperação com outras entidades, públicas ou privadas, no âmbito das atribuições do serviço;
-
-m) Pronunciar-se sobre a aceitação de heranças, legados ou doações.
+k) Pronunciar-se sobre a aceitação de heranças, legados ou doações.
 
 2 - O conselho administrativo pode delegar algumas das suas competências no seu presidente.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 11.º — Comissão de fiscalização
 
@@ -368,6 +468,8 @@ c) Dois vogais suplentes.
 3 - Os membros da comissão de fiscalização são nomeados por despacho conjunto do membro do Governo Regional que tutela o SRPCBA e do membro do Governo Regional que exerça a sua competência na área das finanças.
 
 4 - Os membros da comissão de fiscalização exercem as suas funções cumulativamente com as dos respectivos cargos nos termos da lei geral e receberão um suplemento mensal a fixar por despacho conjunto do membro do Governo Regional que tutela o SRPCBA e dos membros do Governo que exerçam a sua competência na área das finanças e da Administração Pública.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 12.º — Competências da comissão de fiscalização
 
@@ -388,6 +490,8 @@ f) Efectuar as conferências que julgar convenientes, particularmente no que se 
 g) Elaborar relatórios sobre a sua actividade e apresentá-lo ao membro do Governo Regional que tutela o SRPCBA e ao membro do Governo Regional que exerça a sua competência na área das finanças;
 
 h) Quaisquer outras que lhe estejam ou venham a ser atribuídas por lei.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 13.º — Conselho regional de bombeiros
 
@@ -411,7 +515,7 @@ g) Pronunciar-se acerca da delimitação geográfica da acção restrita dos cor
 
 h) Dar parecer relativamente a propostas de criação de novos corpos de bombeiros ou secções destacadas.
 
-> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09.
 
 ###### Artigo 14.º — Composição
 
@@ -431,7 +535,7 @@ f) Os comandantes dos corpos de bombeiros da Região.
 
 2 - A solicitação do presidente ou por este autorizados, podem ser convocados técnicos, peritos, organizações e entidades competentes para a emissão de pareceres em áreas especializadas ou quaisquer outros elementos cuja presença seja considerada oportuna.
 
-> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09.
 
 ###### Artigo 15.º — Reuniões
 
@@ -443,11 +547,15 @@ f) Os comandantes dos corpos de bombeiros da Região.
 
 4 - O CRB elabora o seu regulamento interno.
 
-> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09.
 
 #### Secção II — Serviços
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ##### Subsecção I — Serviços centrais
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 16.º — Estrutura
 
@@ -458,6 +566,8 @@ a) O Serviço de Apoio Geral (SAG);
 b) A Direcção de Serviços de Planeamento e Operações (DSPO);
 
 c) A Inspecção de Bombeiros (IB).
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 17.º — Serviço de Apoio Geral
 
@@ -511,6 +621,8 @@ u) Desenvolver e gerir os meios informáticos, em articulação com os demais se
 
 4 - O SAG compreende a Secção Administrativa e Financeira (SAF).
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 18.º — Secção Administrativa e Financeira
 
 À SAF compete o apoio administrativo e financeiro ao funcionamento geral do SRPCBA, nomeadamente:
@@ -532,6 +644,8 @@ g) Zelar pela segurança e conservação das instalações, mobiliário e equipa
 h) Assegurar a higiene do edifício sede do serviço;
 
 i) Gerir o economato.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 19.º — Direcção de Serviços de Planeamento e Operações
 
@@ -570,6 +684,8 @@ n) Assegurar funções de inspecção de protecção civil.
 a) A Divisão de Planeamento, Operações e Avaliação de Riscos (DPOAR);
 
 b) A Divisão de Prevenção, Formação e Sensibilização (DPFS).
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 20.º — Divisão de Planeamento, Operações e Avaliação de Riscos
 
@@ -611,15 +727,23 @@ o) Assegurar o desencadeamento das acções consequentes a cada tipo de alerta;
 
 p) Proceder à gestão do parque de viaturas.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 21.º — Estação Açor
 
 1 - A Estação Açor assegura:
 
 a) A manutenção primária dos equipamentos de comunicações;
 
-b) O funcionamento da rede de telecomunicações do serviço.
+b) O funcionamento da rede de telecomunicações do serviço;
+
+c) O funcionamento do Sistema de Coordenação Operacional dos Bombeiros da Região.
 
 2 - A Estação Açor funciona em regime de permanência.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 22.º — Divisão de Prevenção, Formação e Sensibilização
 
@@ -633,7 +757,7 @@ c) Elaborar a proposta do plano anual de formação, ouvidos os demais dirigente
 
 d) Promover e apoiar a formação, em matéria de protecção civil;
 
-e) Assegurar ou promover, directamente ou através de acordos de cooperação com entidades acreditadas, a formação dos elementos dos corpos de bombeiros e dos tripulantes de ambulância;
+e) Assegurar ou promover, directamente ou através de acordos de cooperação com entidades acreditadas, a formação dos elementos dos corpos de bombeiros e dos tripulantes de ambulância, bem como proceder à sua credenciação;
 
 f) Promover formas de articulação com os serviços de saúde;
 
@@ -648,6 +772,10 @@ j) Coordenar e gerir o material de áudio-visual do SRPCBA;
 k) Assegurar o funcionamento de um centro de documentação responsável pela organização, actualização e conservação do património documental e bibliográfico do SRPCBA, nas áreas das suas competências;
 
 l) Colaborar na execução das suas competências com os outros serviços do SRPCBA.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 23.º — Inspecção de Bombeiros
 
@@ -701,6 +829,8 @@ a) A Divisão de Socorro e Equipamento (DSE);
 
 b) A Divisão de Segurança contra Incêndios (DSCI).
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 24.º — Divisão de Socorro e Equipamento
 
 1 - Compete à DSE, designadamente:
@@ -743,6 +873,8 @@ q) Colaborar na execução das competências dos outros serviços do SRPCBA.
 
 3 - De acordo com a estrutura referida no número anterior, poderão ser nomeados coordenadores.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 25.º — Divisão de Segurança contra Incêndios
 
 Compete à DSCI, nomeadamente:
@@ -765,29 +897,41 @@ h) Apoiar as entidades que sejam credenciadas para efeitos dos regulamentos de s
 
 i) Colaborar na execução das competências dos outros serviços do SRPCBA.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ##### Subsecção II — Unidades desconcentradas
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 26.º — Delegados
 
-1 - Os delegados são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos com conhecimentos comprovados nesta área de intervenção e de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, providos em comissão de serviço, por períodos de três anos.
+1 - Os delegados são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos com conhecimentos comprovados nesta área de intervenção, sendo providos em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.
 
-2 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.
+2 - O provimento no cargo de delegado produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
 
-3 - O exercício do cargo de delegado pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor.
+3 - O despacho de nomeação é publicado no Jornal Oficial.
 
-4 - O valor da remuneração de base do cargo de delegado corresponderá a uma percentagem da remuneração de base de um director-geral, a qual será definida por correspondência ao número de eleitores do concelho a que se reportar o exercício de funções, e de acordo com o seguinte:
+4 - Aos titulares do cargo de delegado é-lhes aplicado, com as necessárias adaptações, o disposto nos artigos 13.º, 15.º, 23.º, n.º 1, 24.º, n.ºs 1, primeira parte, 3 e 4, 25.º, n.º 1, alíneas e), f) e i), e 29.º, n.º 1, do estatuto do pessoal dirigente.
 
-a) Municípios com mais de 40000 eleitores - 55%;
+5 - O exercício do cargo de delegado pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor.
 
-b) Municípios com mais de 20000 e menos de 40000 eleitores - 50%;
+6 - O valor da remuneração de base do cargo de delegado corresponderá a uma percentagem da remuneração de base de um director regional, a qual será definida por correspondência ao número de habitantes do concelho a que se reportar o exercício de funções, e de acordo com o seguinte:
 
-c) Mais de 12000 e menos de 20000 eleitores - 45%;
+a) Municípios com mais de 40000 habitantes - 55%;
+
+b) Municípios com mais de 20000 e menos de 40000 habitantes - 50%;
+
+c) Mais de 10000 e menos de 20000 habitantes - 45%;
 
 d) Restantes municípios - 25%.
 
-5 - Quando a área de intervenção de um delegado abranger mais de um concelho, para a determinação da sua remuneração será considerado o total dos eleitores dos concelhos abrangidos.
+7 - Quando a área de intervenção de um delegado abranger mais de um concelho, para a determinação da sua remuneração será considerado o total dos habitantes dos concelhos abrangidos.
 
-6 - A remuneração referida nos números anteriores será acrescida do subsídio de refeição e demais regalias gerais em vigor para o funcionalismo público.
+8 - A remuneração referida nos números anteriores será acrescida do subsídio de refeição e demais regalias gerais em vigor para o funcionalismo público.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 27.º — Competências dos delegados
 
@@ -795,7 +939,11 @@ d) Restantes municípios - 25%.
 
 a) Executar as directivas, ordens e instruções dimanadas do SRPCBA na prossecução, ao nível do seu âmbito de actuação, das respectivas atribuições;
 
-b) Desenvolver acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 3.º da Lei n.º 113/91, de 29 de Agosto;
+b) Desenvolver acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 4.º da
+
+Lei n.º 27/2006
+
+, de 3 de Julho;
 
 c) Apoiar as autarquias da sua área de actuação, nomeadamente na organização e funcionamento dos respectivos serviços municipais de protecção civil, na elaboração de planos de emergência e na inventariação de meios e recursos;
 
@@ -803,7 +951,7 @@ d) Propor a realização de averiguações e inquéritos;
 
 e) Emitir os pareceres e efectuar as vistorias previstas nos regulamentos de segurança contra incêndios, quando credenciados para o efeito pelo presidente do Serviço;
 
-f) Exercer as competências referidas no n.º 2 do artigo 24.º sempre que na respectiva área de intervenção não exista coordenador de bombeiros;
+f) Exercer as competências referidas no n.º 2 do artigo 29.º sempre que na respectiva área de intervenção não exista coordenador de bombeiros;
 
 g) Recolher, sistematizar e enviar para o SRPCBA os dados estatísticos que lhes forem determinados;
 
@@ -811,21 +959,37 @@ h) Elaborar ou recolher relatórios diários, semanais, mensais ou sazonais de v
 
 i) Exercer as demais competências que lhe forem cometidas.
 
-2 - A credenciação prevista na alínea e) do número anterior só poderá ser emitida quando o delegado reúna os requisitos previstos no n.º 1 do artigo seguinte.
+2 - Aos delegados, no âmbito do exercício desconcentrado das atribuições do SRPCBA, compete, igualmente:
 
-3 - Aos delegados de ilha, no âmbito do exercício desconcentrado das atribuições do SRPCBA, compete, igualmente:
+a) Nas situações previstas no artigo 8.º da
 
-a) Nas situações previstas no artigo 2.º da Lei n.º 113/91, de 29 de Agosto, ou aquando de outras ocorrências consideradas pelo Governo Regional ou pelo presidente do SRPCBA como tendo âmbito de protecção civil, promover a realização das acções necessárias, em face do evento desencadeador;
+Lei n.º 27/2006
+
+, de 3 de Julho, ou aquando de outras ocorrências consideradas pelo Governo Regional ou pelo presidente do SRPCBA como tendo âmbito de protecção civil, promover a realização das acções necessárias, em face do evento desencadeador;
 
 b) Executar as directivas, ordens e instruções superiormente dimanadas, garantindo a prossecução, ao nível do seu âmbito de actuação, das acções levadas a cabo pelo referido serviço, aquando da ocorrência de acidentes ou outros sinistros.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
+
 ###### Artigo 28.º — Coordenadores
 
-1 - Os coordenadores de bombeiros são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, providos em comissão de serviço, por períodos de três anos.
+1 - Os coordenadores de bombeiros são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, sendo providos em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.
 
-2 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.
+2 - O provimento no cargo de coordenador de bombeiros produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
 
-3 - O exercício do cargo de coordenador de bombeiros pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor.
+3 - O despacho de nomeação é publicado no Jornal Oficial.
+
+4 - Aos titulares do cargo de coordenador de bombeiros é-lhes aplicado, com as necessárias adaptações, o disposto nos artigos 13.º, 15.º, 23.º, n.º 1, 24.º, n.ºs 1, primeira parte, 3 e 4, 25.º, n.º 1, alíneas e), f) e i), e 29.º, n.º 1, do estatuto do pessoal dirigente.
+
+5 - O exercício do cargo de coordenador de bombeiros pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor.
+
+6 - A remuneração de base do cargo de coordenador de bombeiros será a correspondente a 55% do vencimento de base de um director regional, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 29.º — Competências dos coordenadores
 
@@ -847,9 +1011,13 @@ f) Emitir os pareceres e efectuar as vistorias previstas nos regulamentos de seg
 
 g) Propor a realização de inquéritos.
 
-3 - A remuneração de base do cargo de coordenador de bombeiros será a correspondente a 45% do vencimento de base de um director-geral, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ##### Subsecção III — Centro de Formação
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 30.º — Caracterização
 
@@ -869,19 +1037,25 @@ e) Conceber, programar e realizar acções de formação e aperfeiçoamento prof
 
 3 - Sempre que tal se justifique ou seja solicitado, poderá o CF promover acções de formação em domínios conexos ou complementares ao da actividade do SRPCBA.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 31.º — Articulação funcional
 
-1 - O CF articula-se funcionalmente com os demais serviços do SRPCBA, em geral, e com a DPFS em especial.
+O CF articula-se funcionalmente com os demais serviços do SRPCBA, em geral, e com a DPFS, em especial.
 
-2 - O programa dos cursos de formação a ministrar no CF será objecto de portaria conjunta do membro do Governo Regional que tutele o serviço e do que tenha a seu cargo a área da formação profissional.
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
-3 - Sempre que as matérias leccionadas exorbitem das áreas técnicas constantes das competências do SRPCBA, a portaria referida no número anterior incluirá também a assinatura dos membros do Governo Regional que tutelem essas áreas.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 32.º — Delegação de competências
 
 As competências a que se reportam as alíneas do n.º 2 do artigo 30.º poderão ser delegadas no inspector de bombeiros e nos chefes de divisão que tenham a seu cargo a formação da área das matérias leccionadas ou sejam directamente responsáveis pela execução das tarefas inerentes à instrução teórico-prática dos agentes que intervenham em acções relacionadas com as atribuições do serviço.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ### Capítulo IV — Do pessoal do SRPCBA
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 33.º — Quadro de pessoal
 
@@ -909,17 +1083,39 @@ j) Pessoal de emergência.
 
 2 - A transição do pessoal do SRPCBA para o quadro anexo ao presente diploma far-se-á automática e independentemente de quaisquer formalidades.
 
+3 - O técnico profissional especialista principal, escalão 5, índice 360, que exerce funções no SRPCBA desde o início da sua constituição, transita para a carreira de operador de telecomunicações, categoria de especialista principal, escalão 5, índice 360.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
+
 ###### Artigo 34.º — Condições de ingresso e de acesso
 
 As condições e regras de ingresso e acesso dos funcionários do SRPCBA, para as respectivas categorias, são as estabelecidas no Decreto-Lei n.º 404-A/98, de 18 de Dezembro, e alterações subsequentes, bem como as previstas neste diploma e na legislação geral e regional complementar.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 35.º — Pessoal dirigente
 
-1 - A área de recrutamento do pessoal dirigente do SRPCBA é a prevista no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, na sua redacção actualizada.
+1 - O pessoal dirigente do SRPCBA, bem como os demais serviços integrados na estrutura regional de protecção civil e bombeiros, é recrutado, mediante escolha ou concurso, de entre:
 
-2 - Os comandantes, 2.os comandantes ou adjuntos de comando que venham a ser providos em cargos dirigentes do SRPCBA suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.
+a) Titulares de licenciatura, curso superior que não confira licenciatura, bacharelato ou equiparado;
 
-3 - O tempo de duração do exercício, no SRPCBA, das funções referidas no número anterior conta, para todos os efeitos, como tendo sido prestado no cargo de origem.
+b) Oficiais das forças armadas ou das forças de segurança ou equiparados, ainda que na situação de reserva ou de reforma;
+
+c) Indivíduos com experiência no exercício de funções de comando ou de coordenação de bombeiros.
+
+2 - Ao pessoal dirigente a que se refere o número anterior aplica-se, com as necessárias adaptações, o estatuto do pessoal dirigente.
+
+3 - Os comandantes, 2.os comandantes ou adjuntos de comando que venham a ser providos em cargos dirigentes do SRPCBA suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.
+
+4 - O tempo de duração do exercício, no SRPCBA, das funções referidas no número anterior conta, para todos os efeitos, como tendo sido prestado no cargo de origem.
+
+5 - O presente artigo não se aplica aos cargos previstos nos artigos 26.º, 28.º e 36.º do presente diploma.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 36.º — Inspectores-coordenadores
 
@@ -941,21 +1137,33 @@ g) Produzir relatórios e demais peças processuais;
 
 h) Exercer as demais funções que lhe forem cometidas.
 
-2 - Os inspectores-coordenadores são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, sendo providos em comissão de serviço por períodos de três anos.
+2 - Os inspectores-coordenadores são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, sendo providos em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.
 
-3 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.
+3 - O provimento no cargo de inspector-coordenador produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
 
-4 - Os elementos de comando que venham a ser providos no cargo de inspector-coordenador suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.
+4 - O despacho de nomeação é publicado no Jornal Oficial.
 
-5 - A remuneração de base do cargo de inspector-coordenador será a correspondente a 65% do vencimento de base de um director-geral, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
+5 - Aos titulares do cargo de inspector-coordenador é-lhes aplicado, com as necessárias adaptações, o disposto nos artigos 13.º, 15.º, 23.º, n.º 1, 24.º, n.ºs 1, primeira parte, 3 e 4, 25.º, n.º 1, alíneas e), f) e i), e 29.º, n.º 1, do estatuto do pessoal dirigente.
+
+6 - Os elementos de comando que venham a ser providos no cargo de inspector-coordenador suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.
+
+7 - A remuneração de base do cargo de inspector-coordenador será a correspondente a 65% do vencimento de base de um director regional, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 37.º — Pessoal de informática
 
 As regras de ingresso e acesso do pessoal de informática são as estabelecidas no Decreto-Lei n.º 97/2001, de 26 de Março.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 38.º — Pessoal operário altamente qualificado
 
 As regras de ingresso e acesso do pessoal operário altamente qualificado são as estabelecidas no Decreto-Lei n.º 518/99, de 10 de Dezembro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 39.º — Conselheiros técnicos
 
@@ -967,43 +1175,71 @@ As regras de ingresso e acesso do pessoal operário altamente qualificado são a
 
 4 - A retribuição referida no número anterior será definida por despacho conjunto dos membros do Governo Regional que exerçam competências nos domínios das finanças, da Administração Pública e da tutela do SRPCBA, respectivamente.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 40.º — Carreira de operador de telecomunicações
 
-1 - O recrutamento para a carreira de operador de telecomunicações far-se-á de entre indivíduos habilitados com adequado curso tecnológico ou profissional, designadamente nas áreas de telecomunicações e electrónica ou similares.
+1 - O recrutamento para a carreira de operador de telecomunicações far-se-á de entre indivíduos habilitados com o 12.º ano de escolaridade ou equivalente.
 
-2 - Na impossibilidade de se verificar o recrutamento nos termos do número anterior, o ingresso na categoria de operador de telecomunicações de 2.ª classe poderá fazer-se de entre indivíduos habilitados com o 9.º ano de escolaridade que tenham obtido aprovação num estágio de 12 meses, o qual será regulamentado por despacho normativo dos membros do Governo Regional da tutela e da Administração Pública.
+2 - O provimento na carreira de operador de telecomunicações de 2.ª classe fica dependente da frequência com aproveitamento de um estágio de 12 meses, o qual será regulamentado por despacho conjunto dos membros do Governo Regional da tutela e da Administração Pública.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 41.º — Disponibilidade
 
-1 - O serviço prestado no SRPCBA é de carácter permanente e de total disponibilidade, pelo que todo o pessoal em exercício no SRPCBA não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou de ocorrência de acidente grave, catástrofe ou calamidade.
+1 - Em caso de iminência ou de ocorrência de acidente grave, catástrofe ou calamidade o serviço prestado no SRPCBA é de carácter permanente e de total disponibilidade, pelo que todo o pessoal em exercício no SRPCBA não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço.
 
 2 - A inobservância do dever especial previsto no número anterior implica responsabilidade disciplinar nos termos da lei.
+
+3 - Os operadores de telecomunicações encontram-se em regime de disponibilidade permanente, sendo-lhes atribuído um suplemento remuneratório mensal de 10% sobre a remuneração base.
+
+4 - O suplemento a que se refere o número anterior só é devido relativamente aos dias em que se verifique prestação efectiva de trabalho ou nas situações legalmente equiparadas, não sendo considerado para efeitos de cálculo dos subsídios de férias e de natal.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 42.º — Trabalho por turnos
 
 A Estação Açor funciona permanentemente, em regime de trabalho por turnos, de acordo com a legislação em vigor.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ### Capítulo V — Disposições finais
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 43.º — Símbolo
 
 1 - O símbolo da protecção civil está genericamente definido no artigo 15.º do Regulamento Relativo à Identificação do Protocolo Adicional 1 às Convenções de Genebra, de 12 de Agosto de 1949, aprovado pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril.
 
-2 - A designação e o emblema devem respeitar o disposto na lei relativamente ao Serviço Nacional de Protecção Civil.
+2 - A designação e o emblema devem respeitar o disposto na lei relativamente ao Serviço Nacional de Bombeiros e Protecção Civil.
 
 3 - Por portaria do membro do Governo Regional com competência na área da protecção civil, poderão ser introduzidas pequenas alterações que, não descaracterizando a simbologia comummente adoptada, individualizem o Serviço Regional.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
+
 ###### Artigo 44.º — Distintivos
 
-1 - Os modelos dos distintivos e do vestuário do pessoal do SRPCBA, bem como as condições do respectivo uso, serão aprovados por portaria do membro do Governo Regional competente.
+1 - Os modelos dos distintivos e do vestuário do pessoal do SRPCBA, bem como as condições do respectivo uso, serão aprovados por portaria do membro do Governo Regional que tutele o Serviço.
 
 2 - Os serviços municipais poderão, por deliberação da respectiva câmara municipal, adoptar distintivos e vestuário próprios, desde que não colidam com as determinações imperativas fixadas na lei geral e no regulamento a aprovar, nos termos do número anterior.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.
 
 ###### Artigo 45.º — Transporte terrestre de doentes
 
 1 - No prazo de 90 dias contados da data da entrada em vigor do presente diploma, será produzida nova regulamentação disciplinadora do transporte terrestre de doentes na Região Autónoma dos Açores.
 
 2 - Os tripulantes de ambulância têm direito a cartão de identificação, segundo modelos e nas condições previstas em portaria do membro do Governo Regional que tutele o SRPCBA.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 46.º — Cooperação
 
@@ -1017,6 +1253,8 @@ a) A homologação do membro do Governo Regional que tutele o Serviço, sempre q
 
 b) A homologação do Presidente do Governo Regional, sempre que o outro outorgante tenha carácter internacional.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 47.º — Apoios
 
 1 - O SRPCBA deve assegurar aos agentes de protecção civil e à população em geral os meios que permitam a realização das suas atribuições.
@@ -1027,15 +1265,21 @@ b) A homologação do Presidente do Governo Regional, sempre que o outro outorga
 
 4 - A competência referida no número anterior pode ser delegada.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 48.º — Gratificações dos comandantes dos corpos de bombeiros
 
 Aos comandantes dos corpos de bombeiros voluntários da Região que não exerçam quaisquer cargos dirigentes ou de chefia no âmbito do SRPCBA será atribuída uma gratificação de valor correspondente ao do índice 100 da tabela de vencimentos do regime geral da função pública.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 49.º — Apoio técnico e científico e prestação de serviços
 
 1 - Os departamentos e serviços da administração regional dos Açores prestarão gratuitamente o apoio técnico, logístico e científico solicitado pelo SRPCBA.
 
 2 - O SRPCBA poderá estabelecer protocolos com outros serviços e organismos para prestação de apoio técnico e científico.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 50.º — Identificação do pessoal
 
@@ -1045,9 +1289,13 @@ Aos comandantes dos corpos de bombeiros voluntários da Região que não exerça
 
 3 - Os modelos de cartões de identificação e o regulamento respeitante à sua utilização são aprovados por portaria do membro do Governo Regional que tutele o SRPCBA.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 51.º — Identificação dos bombeiros da Região
 
 Os bombeiros têm direito a cartão de identificação, segundo modelos e nas condições previstas em portaria do membro do Governo Regional que tutele o SRPCBA.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
 
 ###### Artigo 52.º — Credenciais avulsas
 
@@ -1055,16 +1303,28 @@ Os bombeiros têm direito a cartão de identificação, segundo modelos e nas co
 
 2 - Das credenciais deve constar a identificação completa dos seus titulares, acompanhada, se possível, de fotografia do portador, bem como a natureza da relação entre o portador e a estrutura da protecção civil regional e, ainda, a natureza, a extensão e os limites das prerrogativas conferidas.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 53.º — Uniforme e regulamento
 
 1 - Os elementos do SRPCBA, em funções operacionais, exercem as suas missões devidamente uniformizados.
 
 2 - Os modelos dos uniformes e o regulamento respeitante à sua utilização são aprovados por portaria do membro do Governo Regional que tutele o SRPCBA.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ###### Artigo 54.º — Participação de cidadãos
 
 Na prossecução das suas atribuições o SRPCBA poderá recorrer, se necessário, ao voluntariado, de acordo com o regime estabelecido na Lei n.º 71/98, de 3 de Novembro, e sua regulamentação.
 
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
 ## Anexo II — Quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores
 
 (ver quadro no documento original)
+
+> Nota: [Artigo 2.º, Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267) 1. No quadro de pessoal do Serviço Regional de Proteção Civil e Bombeiros dos Açores, que consta do presente anexo, a carreira do pessoal técnico-profissional é objeto das seguintes alterações: a) É criado um lugar de coordenador; b) É abatido um lugar de técnico profissional; e c) É aditado um lugar de operador de telecomunicações. 2. As notas associadas ao quadro de pessoal passam a ter a seguinte redação: «(a) Remuneração de acordo com o estatuto do pessoal dirigente. (b) ... (c) ... (d) ... (e) Remuneração de acordo com o artigo 26.º da presente orgânica. (f) Remuneração de acordo com o artigo 28.º da presente orgânica. (g) Remuneração de acordo com o artigo 36.º da presente orgânica. (h) ... (i) ... (k) ... (l) ... (m) Remuneração de acordo com o Decreto-Lei n.º 404-A/98, de 18 de Dezembro. Tem direito ao suplemento remuneratório a que se refere o artigo 41.º do presente diploma.»
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 23/2026/A - Diário da República n.º 218/2026, Série I de 2026-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2026-1193730363), em vigor a partir de 2026-11-11.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2007/A - Diário da República n.º 79/2007, Série I de 2007-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267), em vigor a partir de 2007-04-24.

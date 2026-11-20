@@ -44,8 +44,8 @@ version:
   consolidation_date: '2026-02-21'
 version_history:
   file: decreto-lei-296-a-98.versoes.json
-  count: 12
-  source_lastmod: '2024-06-25'
+  count: 13
+  source_lastmod: '2026-11-06'
   versions:
   - date: '1998-09-25'
     amending: null
@@ -151,6 +151,12 @@ version_history:
     amending_title: Decreto-Lei n.º 56/2026
     changes:
     - Altera Artigo 20.º
+  - date: '2027-01-05'
+    amending: pt:dre:1192107480:por
+    amending_title: Decreto-Lei n.º 214/2026
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 27.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/296-a/1998/p/cons/20260216/pt/html
@@ -165,10 +171,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296-a/1998/p/cons/20260216/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-164868294
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-164868294
-  retrieved_at: '2026-10-22T12:42:26Z'
+  retrieved_at: '2026-11-20T13:50:02Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-06T00:00:00Z'
 integrity:
   source_sha256: 1e9afb448dd1b28ca86a31a5c01569f1962019362ac9625af59525bd9b1e3ec4
   source_sha256_scope: official_source_content_bytes
@@ -176,8 +182,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:42:26Z'
-  notes: 12 versão(ões); histórico completo em decreto-lei-296-a-98.versoes.json.
+  generated_at: '2026-11-20T13:50:02Z'
+  notes: 13 versão(ões); histórico completo em decreto-lei-296-a-98.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -273,6 +279,11 @@ relationships:
   label: Altera Artigo 20.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2026-1051282294
   date: '2026-02-16'
+- type: amended_by
+  target: pt:dre:1192107480:por
+  label: Altera Artigo 10.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480
+  date: '2026-11-06'
 - type: cites
   target: pt:dre:314396:por
   label: null
@@ -294,7 +305,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:42:26Z'
+  checked_at: '2026-11-20T13:50:02Z'
   warnings: []
   errors: []
 ---

@@ -45,7 +45,7 @@ version:
 version_history:
   file: resolucao-conselho-ministros-77-2019.versoes.json
   count: 2
-  source_lastmod: '2025-04-15'
+  source_lastmod: '2026-11-10'
   versions:
   - date: '2019-05-02'
     amending: null
@@ -70,10 +70,10 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2019/p/cons/20250422/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2019-166025471
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2019-166025471
-  retrieved_at: '2026-10-22T13:25:15Z'
+  retrieved_at: '2026-11-20T13:50:40Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2025-04-15T00:00:00Z'
+  source_modified_at: '2026-11-10T00:00:00Z'
 integrity:
   source_sha256: e8a861e1c7968cff5b62b73f1c01c080bc3430fcd5e95eb586638bbb6c0cd1a8
   source_sha256_scope: official_source_content_bytes
@@ -81,7 +81,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:25:15Z'
+  generated_at: '2026-11-20T13:50:40Z'
   notes: 2 versão(ões); histórico completo em resolucao-conselho-ministros-77-2019.versoes.json.
 reuse:
   status: permitted
@@ -132,7 +132,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:25:15Z'
+  checked_at: '2026-11-20T13:50:40Z'
   warnings: []
   errors: []
 ---

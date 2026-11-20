@@ -52,16 +52,21 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2021-01-06'
+  consolidation_date: '2026-05-12'
 version_history:
   file: decreto-legislativo-regional-1-2021-m.versoes.json
-  count: 1
-  source_lastmod: '2024-06-25'
+  count: 2
+  source_lastmod: '2026-10-30'
   versions:
   - date: '2021-01-06'
     amending: null
     amending_title: null
     changes: []
+  - date: '2026-05-12'
+    amending: pt:dre:1118713684:por
+    amending_title: Decreto Legislativo Regional n.º 9/2026/M
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/1/2021/m/cons/20210209/pt/html
@@ -76,19 +81,19 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2021/m/cons/20210209/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-156872601
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-156872601
-  retrieved_at: '2026-10-22T12:39:16Z'
+  retrieved_at: '2026-11-20T13:49:18Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-30T00:00:00Z'
 integrity:
-  source_sha256: eb5a483e278f404f08069c2565e029824ad255141cf0f1426fde7bd14ffb19fd
+  source_sha256: 970ce86d831dffda803b781ceae63728ca8869f20b6ae0a4843a2d6210a6f389
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:39:16Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-1-2021-m.versoes.json.
+  generated_at: '2026-11-20T13:49:18Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-1-2021-m.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,6 +136,11 @@ subjects:
 - Comunidade de Energia Renovável
 - Plano Nacional Energia e Clima 2030
 relationships:
+- type: amended_by
+  target: pt:dre:1118713684:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684
+  date: '2026-05-11'
 - type: cites
   target: celex:32008R0765
   label: null
@@ -195,7 +205,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:39:16Z'
+  checked_at: '2026-11-20T13:49:18Z'
   warnings: []
   errors: []
 ---
@@ -225,6 +235,8 @@ A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da a
 1 - O presente decreto legislativo regional procede à adaptação à Região Autónoma da Madeira (RAM) do Decreto-Lei n.º 162/2019, de 25 de outubro, que aprova o regime jurídico aplicável ao autoconsumo de energia renovável, tendo em conta as especificidades próprias do sistema elétrico regional, estabelecendo a disciplina da atividade de produção associada às instalações de utilização do autoconsumidor de energia renovável.
 
 2 - O presente decreto legislativo regional estabelece, igualmente, o regime jurídico das comunidades de energia renovável.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 2.º — Definições
 
@@ -294,13 +306,15 @@ bb) «Rede de Transporte (RT)», a rede de transporte de energia elétrica, na R
 
 cc) «UPAC», uma ou mais unidades de produção para autoconsumo que tem como fonte primária a energia renovável associada(s) a uma ou várias IU, destinada primordialmente à satisfação de necessidades próprias de abastecimento de energia elétrica, podendo ser propriedade ou gerida por terceiros para a colocação, exploração, incluindo a contagem e manutenção, desde que a instalação continue sujeita às instruções do autoconsumidor de energia renovável, não sendo os terceiros considerados em si mesmos autoconsumidores de energia renovável.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 3.º — Condições de exercício
 
 1 - A UPAC com potência instalada igual ou inferior a 350 W não está sujeita a registo.
 
 2 - A UPAC com potência instalada superior a 350 W e igual ou inferior a 30 kW, está sujeita a registo e fiscalização por parte da Direção Regional de Economia e Transportes Terrestres, adiante abreviadamente designada por DRETT.
 
-3 - A UPAC com potência instalada superior a 30 kW e igual ou inferior a 1 m está sujeita a registo prévio para a instalação da UPAC e a certificado de exploração, nos termos do disposto nos artigos 24.º e 25.º, respetivamente.
+3 - A UPAC com potência instalada superior a 30 kW e igual ou inferior a 1 MW está sujeita a registo prévio para a instalação da UPAC e a certificado de exploração, nos termos do disposto nos artigos 24.º e 25.º, respetivamente.
 
 4 - A pronúncia do operador da rede a que se refere a alínea c) do n.º 1 do artigo 24.º, apenas é obrigatória nos casos em que no pedido de registo de UPAC se prevê a possibilidade de injeção de potência na RESPM.
 
@@ -311,6 +325,10 @@ cc) «UPAC», uma ou mais unidades de produção para autoconsumo que tem como f
 7 - Sem prejuízo do disposto no número anterior, no caso de UPAC para a qual se preveja a possibilidade de injeção na RESPM superior a 1 MVA, o início do procedimento para obtenção de licença de produção de eletricidade depende da prévia atribuição de reserva de capacidade de injeção na RESPM, nos termos do artigo 5.º-A do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual.
 
 8 - As instalações de UPAC com ligação à RESPM ou com injeção de energia excendentária estão sujeitas à definição de quotas publicadas em despacho do Diretor Regional da Economia e Transportes Terrestres.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
+> Retificado pelo/a [Declaração de Retificação n.º 5/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2021-156848061)
 
 ###### Artigo 4.º — Remuneração
 
@@ -323,6 +341,8 @@ b) Através da venda direta ao comercializador de último recurso.
 2 - No caso de venda da energia excedentária à RESPM, pelo autoconsumidor, o valor do kWh, é definido por despacho do Diretor Regional da Economia e Transportes Terrestres, após parecer da Entidade Reguladora dos Serviços Energéticos (ERSE).
 
 3 - O autoconsumidor individual ou coletivo é integralmente responsável pelos desvios que provocar no Sistema Elétrico Regional, nos termos definidos no Manual de Procedimentos do Acesso e Operação do SEPM, aprovado pela ERSE, competindo-lhe liquidar os desvios.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 5.º — Requisito para acesso à atividade
 
@@ -344,6 +364,8 @@ c) Qualquer outro elemento de natureza técnica ou regulamentar.
 
 3 - Não é permitida a ligação de UPAC, no mesmo ponto de consumo, a unidades de produção de eletricidade abrangidas por regimes de remuneração garantida, salvo se as mesmas possuírem um sistema de contagem de energia injetada na rede que permita diferenciar a energia produzida pela UPAC da energia produzida pelas unidades de produção de eletricidade abrangidas por regimes de remuneração garantida.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 6.º — Autoconsumidores coletivos
 
 1 - O registo para instalação de UPAC em nome de condomínios, bem como o eventual recurso a financiamento pelo condomínio e respetivas condições, seguem o regime previsto nos artigos 1425.º e 1426.º do Código Civil.
@@ -357,6 +379,8 @@ c) Qualquer outro elemento de natureza técnica ou regulamentar.
 5 - Os autoconsumidores coletivos devem obrigatoriamente designar um técnico responsável, devidamente qualificado, e a entidade gestora do autoconsumo coletivo, a qual é encarregue da prática de atos de gestão operacional da atividade corrente, incluindo a gestão da rede interna, quando exista, a articulação com o Portal, a ligação com a RESPM e articulação com operador da rede pública, nomeadamente em matéria de partilha da produção e respetivos coeficientes, o relacionamento comercial a adotar para os excedentes, podendo ainda ser definidos os respetivos poderes, incluindo representativos.
 
 6 - Os autoconsumidores coletivos respondem conjuntamente pelo cumprimento dos deveres e obrigações estabelecidos no presente diploma.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 7.º — Direitos do autoconsumidor
 
@@ -386,6 +410,8 @@ h) Aceder à informação disponibilizada na área do Portal reservada ao autoco
 
 i) Cessar a atividade de autoconsumidor, nos termos previstos na lei em acordos eventualmente celebrados com terceiros ou demais autoconsumidores, no caso do autoconsumo coletivo.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 8.º — Obrigações do autoconsumidor
 
 Sem prejuízo do cumprimento da demais legislação e regulamentação aplicáveis, no exercício da atividade de produção de eletricidade para autoconsumo prevista no presente diploma, constituem obrigações do autoconsumidor de energia renovável:
@@ -411,6 +437,8 @@ i) Para as UPAC sujeitas a registo ou licença, nos termos previstos no artigo 3
 j) Assegurar que os equipamentos de produção instalados se encontram certificados, nos termos previstos no artigo 14.º;
 
 k) Cessada a atividade, adotar os procedimentos necessários para a desativação e remoção da UPAC e demais instalações auxiliares, quando existam.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 9.º — Atribuições e competências da DRETT
 
@@ -440,6 +468,8 @@ j) Fiscalizar o cumprimento da Regulamentação Técnica aplicável.
 
 3 - A informação e documentos referidos nas alíneas f) a j) do número anterior deve ser publicada no Portal.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 10.º — Desmaterialização de procedimentos
 
 1 - O Portal disponibiliza as seguintes funcionalidades:
@@ -468,6 +498,8 @@ j) Identificação dos autoconsumidores e das CER, bem como das entidades instal
 
 3 - Todas as notificações e comunicações ao requerente ao longo do procedimento são efetuadas através do Portal ou via e-mail da DRETT.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 11.º — Alteração da Unidade de Produção para Autoconsumo
 
 1 - A alteração da UPAC, quando substancial, carece de novo de registo e certificado de exploração ou licença, consoante os casos, aplicável à totalidade da instalação.
@@ -477,6 +509,8 @@ j) Identificação dos autoconsumidores e das CER, bem como das entidades instal
 3 - No caso de alteração substancial, a atribuição de novo registo, certificado de exploração ou licença, consoante o regime a que esteja sujeito, nos termos do artigo 3.º, implica a imediata caducidade do existente.
 
 4 - A alteração não substancial da UPAC está sujeita a averbamento, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 12.º — Averbamento de alterações
 
@@ -502,6 +536,8 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 
 5 - O averbamento das alterações previstas nas alíneas c) e d) do n.º 1 pode ser recusado, nomeadamente por razões de desconformidade com as normas constantes do Regulamento Técnico e de Qualidade previsto no artigo seguinte.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 13.º — Regulamentos específicos
 
 1 - Na RAM, são aplicados os regulamentos técnicos em vigor, previstos no Decreto-Lei n.º 162/2019, de 25 de outubro.
@@ -511,6 +547,8 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 3 - O Regulamento de Inspeção e Certificação inclui os procedimentos associados às ações de inspeção ou vistoria e certificação, bem como as condições associadas de aprovação de UPAC, incluindo a definição e classificação das deficiências e a identificação das deficiências que permitem a certificação condicionada para entrada em exploração.
 
 4 - Na RAM, são, igualmente, aplicados os regulamentos relativos às UPAC publicados pela ERSE, previstos no artigo 16.º
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 14.º — Controlo de certificação de equipamentos
 
@@ -524,6 +562,8 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 
 5 - Quando não existam as normas referidas nos n.os 3 e 4, os equipamentos devem conformar-se com as normas ou especificações técnicas portuguesas relativas ao equipamento em causa, que estejam publicadas pelo Instituto Português da Qualidade, I. P.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 15.º — Entidades instaladoras de Unidade de Produção para Autoconsumo
 
 1 - A instalação de UPAC com potência instalada superior a 350 W é obrigatoriamente executada por entidade instaladora de instalações elétricas de serviço particular ou técnicos responsáveis pela execução de instalações elétricas, nos termos da Lei n.º 14/2015, de 16 de fevereiro, na atual redação, e do Decreto Legislativo Regional n.º 4/2019/M, de 1 de julho.
@@ -533,6 +573,8 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 3 - A entidade instaladora ou o técnico responsável, conforme aplicável, deve assegurar que a UPAC se encontra isenta de registo ou devidamente registada ou licenciada, nos termos do presente decreto legislativo regional, consoante aplicável.
 
 4 - A entidade instaladora deve declarar no Portal as UPAC instaladas, indicando a potência instalada, a tecnologia utilizada e a freguesia e concelho de localização.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 16.º — Contagem e disponibilização de dados
 
@@ -580,6 +622,8 @@ b) A informação sobre a energia produzida e não consumida no período de cont
 
 16 - O fornecimento de energia reativa obedece às regras do Regulamento da Rede de Transporte e de Distribuição de Energia Elétrica da RAM.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 17.º — Relacionamento comercial do autoconsumidor de energia renovável
 
 1 - A participação de uma unidade de produção para autoconsumo através de contratação bilateral deve cumprir os requisitos dos contratos a efetuar entre ambas as partes.
@@ -589,6 +633,8 @@ b) A informação sobre a energia produzida e não consumida no período de cont
 3 - Quando o total da potência das UPAC ligadas à RESPM provoque problemas técnicos que conduzam à violação dos limites de operacionalidade da rede ou dos indicadores de qualidade de serviço, o operador da rede pode proceder à redução da potência ou ao deslastre temporário destas instalações de produção, sem que, em qualquer caso, haja lugar a compensação, nos termos definidos no Manual de Procedimentos do Acesso e Operação do SEPM, aprovado pela ERSE.
 
 4 - Nos termos do Regulamento das Relações Comerciais, o fornecimento de energia elétrica pode ser interrompido pelo operador de rede por facto imputável ao cliente, caso a instalação seja causa de perturbações que afetem a qualidade técnica do fornecimento a outros utilizadores da rede, de acordo com o disposto no Regulamento da Qualidade de Serviço (RQS).
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 18.º — Tarifas devidas pelas unidades de produção para autoconsumo
 
@@ -601,6 +647,8 @@ a) Das tarifas de uso das redes dos níveis de tensão a montante do nível de t
 b) De parte das tarifas de uso das redes dos níveis de tensão a montante do nível de tensão de ligação da UPAC, no montante a definir pela ERSE, quando exista inversão do fluxo de energia na rede pública para montante do nível de tensão de ligação à UPAC.
 
 3 - As disposições a aplicar no cálculo das tarifas de acesso às redes determinadas nos termos do número anterior são estabelecidas no Regulamento Tarifário, aprovado pela ERSE.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 19.º — Comunidades de energia renovável
 
@@ -634,11 +682,15 @@ f) Estejam disponíveis instrumentos que facilitem o acesso a financiamento e a 
 
 g) Sejam estabelecidas regras para assegurar o tratamento equitativo e não discriminatório dos consumidores que participem na CER.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 20.º — Regime aplicável às comunidades de energia renovável
 
 1 - As instalações de produção das CER estão sujeitas a registo ou licença de produção, nos termos do disposto no artigo 3.º, podendo ser definidos requisitos específicos por portaria do membro do Governo da RAM responsável pela área da energia.
 
 2 - Em matéria de direitos, obrigações contagem da energia produzida na CER e relacionamento comercial são aplicáveis, com as necessárias adaptações, as regras do autoconsumo coletivo.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 21.º — Taxas
 
@@ -658,11 +710,15 @@ c) A realização de inspeções periódicas da UPAC.
 
 5 - A falta de pagamento da taxa no prazo referido no número anterior dá lugar à sua cobrança coerciva, em processo de execução fiscal.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 22.º — Fiscalização
 
 1 - As UPAC são sujeitas a fiscalização para verificar a sua conformidade com o disposto no presente decreto legislativo regional e nos regulamentos técnicos aplicáveis.
 
 2 - Compete à DRETT a fiscalização do cumprimento das obrigações previstas no presente diploma em matéria de exercício da atividade.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 23.º — Inspeção periódica
 
@@ -683,6 +739,8 @@ b) No decurso das inspeções periódicas sejam identificadas desconformidades e
 4 - As regras e orientações metodológicas associadas às inspeções periódicas são definidas por despacho do diretor regional com competências na área da energia e objeto de publicação no Portal.
 
 5 - Para efeitos dos números anteriores, o autoconsumidor de energia renovável deve permitir e facilitar o acesso às respetivas UPAC por parte da entidade fiscalizadora, bem como fornecer-lhe as informações e dados técnicos respeitantes às mesmas.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 24.º — Registo prévio
 
@@ -718,6 +776,8 @@ c) Caso o respetivo titular renuncie ao registo.
 
 7 - As regras de funcionamento do Portal e de operacionalização do procedimento de registo prévio, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários são aprovadas por despacho do diretor regional da economia e transportes terrestres, no prazo de 180 dias após a publicação do presente decreto legislativo regional e após a entrada em funcionamento pleno do Portal referido no artigo 9.º
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 25.º — Certificado de exploração
 
 1 - A instalação da UPAC é efetuada por uma entidade instaladora de instalações elétricas de serviço particular ou técnico responsável pela execução de instalações elétricas habilitados nos termos da legislação aplicável.
@@ -727,6 +787,8 @@ c) Caso o respetivo titular renuncie ao registo.
 3 - No prazo de 10 dias após a submissão do relatório de inspeção que ateste a conformidade da UPAC é emitido o certificado de exploração pela DRETT e autorizada a ligação à rede que, para o efeito, é comunicada ao ORD.
 
 4 - Após estabelecimento da ligação à rede, o ORD insere a respetiva data na plataforma informática.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 26.º — Seguro
 
@@ -746,11 +808,15 @@ c) Caso o respetivo titular renuncie ao registo.
 
 8 - A Autoridade de Supervisão de Seguros e Fundos de Pensões define, em norma regulamentar, o regime aplicável ao seguro de responsabilidade civil referido no n.º 1.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 27.º — Regime de microprodução e miniprodução
 
 1 - Independentemente dos regimes remuneratórios aplicáveis aos regimes da microprodução ou miniprodução, os respetivos titulares podem optar pelo seu enquadramento no regime jurídico da produção para autoconsumo previsto no presente decreto legislativo regional, devendo para o efeito apresentar um pedido no Portal, acompanhado do respetivo certificado de exploração.
 
 2 - A opção referida no número anterior implica a cessação definitiva do regime remuneratório que o produtor esteja a beneficiar ao abrigo do regime da microprodução ou miniprodução e a assunção do dever de cumprimento dos regulamentos aplicáveis ao abrigo do disposto no presente diploma.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 28.º — Regime sancionatório
 
@@ -774,6 +840,8 @@ e) A infração ao disposto nos n.os 1 a 4 do artigo 16.º
 
 5 - O produto da aplicação das coimas no âmbito do presente decreto legislativo regional, constitui receita própria da Região Autónoma da Madeira.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 29.º — Sanções acessórias
 
 1 - Em simultâneo com a coima e em função da gravidade das infrações e da culpa do agente, pode ser aplicada ao infrator uma das seguintes sanções acessórias:
@@ -790,9 +858,13 @@ e) O encerramento da UPAC.
 
 2 - As sanções previstas no número anterior são participadas ao IMPIC, I. P., e à respetiva ordem ou associação profissional, quando esta exista.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 30.º — Responsabilidade criminal
 
 O desrespeito da decisão de aplicação definitiva da sanção acessória prevista nas alíneas b), d) e e) do n.º 1 do artigo 29.º faz incorrer o infrator no crime de desobediência previsto e punível nos termos do disposto no artigo 348.º do Código Penal.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
 
 ###### Artigo 31.º — Norma transitória
 
@@ -806,6 +878,24 @@ O desrespeito da decisão de aplicação definitiva da sanção acessória previ
 
 5 - Os pedidos cuja tramitação estiver em curso à data da entrada em vigor do presente decreto legislativo regional são decididos nos termos do mesmo, aproveitando-se os atos e formalidades úteis já praticados.
 
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
 ###### Artigo 32.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia 1 de janeiro de 2021.
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de novembro de 2020.
+
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+Assinado em 17 de dezembro de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+113855442
+
+> Revogado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 9/2026/M - Diário da República n.º 90/2026, Série I de 2026-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684), em vigor a partir de 2026-05-12.
