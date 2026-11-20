@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 41 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/172123000/0004100048.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-22'
+entry_into_force:
+  date: '2005-09-22'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

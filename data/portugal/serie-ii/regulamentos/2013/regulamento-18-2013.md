@@ -23,6 +23,15 @@ publication:
   pages: 1411 - 1414
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/007000000/0141101414.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia do mês de janeiro de 2013
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

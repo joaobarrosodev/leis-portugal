@@ -24,6 +24,16 @@ publication:
   pages: 25625 - 25628
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/157000000/2562525628.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º Semestre do ano letivo de 2015/2016 e o mesmo poderá ser revisto pelo Conselho Pedagógico, após homologação
+    pelo Presidente do ISCSP
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

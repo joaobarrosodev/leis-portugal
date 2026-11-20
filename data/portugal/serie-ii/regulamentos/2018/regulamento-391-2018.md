@@ -23,6 +23,16 @@ publication:
   pages: 17878 - 17880
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/122000000/1787817880.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º dia útil seguinte ao da sua publicação no Diário da República, sendo também publicitado na internet, no sítio
+    institucional do Município, e mediante afixação de edital nas sedes das Juntas de F
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

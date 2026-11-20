@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 21936 - 21938
   pdf_url: https://files.diariodarepublica.pt/2s/2013/07/133000000/2193621938.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-07-13'
+entry_into_force:
+  date: '2013-07-13'
+  rule: no dia imediatamente a seguir à sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:121939071:por#art-32'
+    detail: É revogado o [Regulamento n.º 253/2013], publicado no Diário da República n.º 133, 2.ª série, de 12 de julho de
+      2013.
 notes: []
 language: por
 version:

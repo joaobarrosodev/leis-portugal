@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21 - 28
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/075052000/0002100028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-05-18'
+entry_into_force:
+  date: '2005-05-18'
+  rule: 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 50 - 53
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/145000000/0005000053.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2027-01-01'
+entry_into_force:
+  date: '2027-01-01'
+  rule: no 1 de janeiro de 2027, com exceção da alteração ao n.º 3 do artigo 11.º, a qual
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

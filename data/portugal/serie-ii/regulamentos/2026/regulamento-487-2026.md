@@ -23,6 +23,15 @@ publication:
   pages: 755 - 769
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/087000000/0075500769.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 (dez) dias após a publicação nos termos legais em vigor
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

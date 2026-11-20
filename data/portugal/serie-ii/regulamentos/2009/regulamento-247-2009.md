@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23708 - 23715
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/114000000/2370823715.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-07-01'
+entry_into_force:
+  date: '2009-07-01'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

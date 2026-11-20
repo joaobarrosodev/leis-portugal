@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/099000000/0020200220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:871222197:por#art-28'
+    detail: 1 - O presente regulamento revoga o [Regulamento n.º 495/2022], de 3 de maio de 2022, publicado no Diário da República
+      de 23 de maio de 2022.
 notes: []
 language: por
 version:

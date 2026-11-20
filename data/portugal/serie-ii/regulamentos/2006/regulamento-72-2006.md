@@ -23,6 +23,15 @@ publication:
   pages: 7863 - 7866
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/105000000/0786307866.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2006-2007, inclusive
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

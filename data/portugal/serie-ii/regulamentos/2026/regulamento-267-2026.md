@@ -23,6 +23,15 @@ publication:
   pages: 713 - 716
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/055000000/0071300716.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

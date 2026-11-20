@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 616 - 625
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/048000000/0061600625.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-20'
+entry_into_force:
+  date: '2026-03-20'
+  rule: 10 dias após a sua publicação e aprovação nos termos legais, ficando revogado o Regulamento n.º 1039/2020 (Regulamento
+    para atribuição de bolsas de estudo, incluindo passagens aéreas, a alunos dos ens
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

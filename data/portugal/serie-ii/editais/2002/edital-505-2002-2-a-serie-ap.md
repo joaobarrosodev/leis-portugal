@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 53 - 65
   pdf_url: https://files.diariodarepublica.pt/2s/2002/11/261141000/0005300065.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-27'
+entry_into_force:
+  date: '2002-11-27'
+  rule: 15 dias após a sua publicação no Diário da República, aplicando-se a todos os pedidos apresentados a partir dessa
+    data, inclusive
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

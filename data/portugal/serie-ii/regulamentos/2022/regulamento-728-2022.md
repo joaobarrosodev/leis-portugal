@@ -23,6 +23,15 @@ publication:
   pages: 337 - 341
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/146000000/0033700341.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2021/2022, após a sua aprovação e devida publicitação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

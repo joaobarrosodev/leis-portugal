@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 187 - 191
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/059000000/0018700191.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-24'
+entry_into_force:
+  date: '2023-03-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-13
+  effects_date: '2023-02-28'
+  effects_rule: a 28 de fevereiro de 2023, ficando ratificados todos os atos praticados no âmbito da presente deliberação
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

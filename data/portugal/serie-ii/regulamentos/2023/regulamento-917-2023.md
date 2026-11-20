@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 599 - 606
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/158000000/0059900606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-17'
+entry_into_force:
+  date: '2023-08-17'
+  rule: no dia seguinte ao da sua publicação, pelos meios legalmente definidos
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

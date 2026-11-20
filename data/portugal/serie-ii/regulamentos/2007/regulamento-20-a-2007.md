@@ -23,6 +23,15 @@ publication:
   pages: 3116-(61) a 3116-(65)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/02/025000001/0006100065.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação e com entrada em funcionamento do mercado
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

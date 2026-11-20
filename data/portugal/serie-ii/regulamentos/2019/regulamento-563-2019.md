@@ -23,6 +23,15 @@ publication:
   pages: 344 - 349
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/134000000/0034400349.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal e publicação em edital e Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 437 - 446
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/137000000/0043700446.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-18'
+entry_into_force:
+  date: '2026-07-18'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, cessando a respetiva vigência a 31 de dezembro
+    de 2026
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 172 - 184
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/087000000/0017200184.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-08'
+entry_into_force:
+  date: '2025-05-08'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem
+    na Internet
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: após homologação pelo membro do Governo responsável pela área das finanças, a qual se considera dada se não
+    houver decisão em contrário nos noventa dias seguintes ao da sua receção
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 512 - 516
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/049000000/0051200516.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal e publicação nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

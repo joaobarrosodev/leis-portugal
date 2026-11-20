@@ -23,6 +23,15 @@ publication:
   pages: 764 - 766
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/070000000/0076400766.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na semana seguinte à aprovação da Assembleia de Freguesia
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 38 - 61
   pdf_url: https://files.diariodarepublica.pt/2s/2004/06/128071000/0003800061.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-06-02'
+entry_into_force:
+  date: '2004-06-02'
+  rule: no dia seguinte à publicação no Diário da República, aplicando-se a todos os pedidos de licenciamento ou autorização
+    apresentados a partir desta data, inclusive
+  method: clausula
+  article: art-159
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

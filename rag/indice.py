@@ -375,9 +375,10 @@ def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, 
 
 def construir(
     saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None,
-    perguntas: dict[tuple[str, str], list[str]] | None = None, redacoes: dict[str, list] | None = None,
+    perguntas: dict[tuple[str, str], list[str]] | None = None, redacoes: dict[str, list] | None = None, repetidos: list[dict] | None = None,
 ) -> None:
-    """`redacoes`: registo → marcas das cópias que são redação anterior (`rag.copias`)."""
+    """`redacoes`: registo → marcas das cópias que são redação anterior (`rag.copias`).
+    `repetidos`: registos repetidos do mesmo diploma, com o principal (`rag.duplicados`)."""
     redacoes = redacoes or {}
     saida.parent.mkdir(parents=True, exist_ok=True)
     temporario = saida.with_suffix(".tmp")
@@ -388,6 +389,13 @@ def construir(
     con.executemany("INSERT INTO relacoes VALUES (?, ?, ?, ?, ?)", relacoes_do_export(export, ids))
     with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as origem:
         titulos = dict(origem.execute("SELECT id, title FROM documentos"))
+    repetidos = [r for r in repetidos or () if r["repetido"] in ids and r["principal"] in ids]
+    if repetidos:
+        from rag import duplicados
+
+        con.executemany("INSERT INTO relacoes VALUES (?, ?, ?, ?, ?)", duplicados.relacoes(repetidos, titulos))
+        # O repetido só se encontra quando a pergunta cita o diploma, e aí a pesquisa troca-o pelo principal.
+        so_referencia = (so_referencia or set()) | {r["repetido"] for r in repetidos}
 
     def processar(doc: Documento):
         try:
@@ -446,7 +454,7 @@ def construir(
     con.executemany(
         "INSERT INTO meta VALUES (?, ?)",
         [("metodo_termos", termos_mod.METODO), ("construido", date.today().isoformat()), ("export", str(export)),
-         *((k, str(v)) for k, v in contagem.items())],
+         *((k, str(v)) for k, v in contagem.items()), ("repetidos_do_mesmo_diploma", str(len(repetidos)))],
     )
     if so_referencia:
         # Encontram-se só quando a pergunta os cita: `Pesquisa.bm25` tira-os da pesquisa em todo o acervo.
@@ -508,6 +516,10 @@ def main(argv: list[str] | None = None) -> int:
         help="Não marcar as cópias antigas de um texto como redação anterior (`rag.copias`), para medir o efeito.",
     )
     parser.add_argument(
+        "--sem-repetidos", action="store_true",
+        help="Não ligar os registos repetidos do mesmo diploma ao principal (`rag.duplicados`), para medir o efeito.",
+    )
+    parser.add_argument(
         "--com-perguntas", action="store_true",
         help="Juntar aos artigos as perguntas de leigo de rag/perguntas_artigo/ (piloto; publicar exige --com-perguntas).",
     )
@@ -533,7 +545,13 @@ def main(argv: list[str] | None = None) -> int:
         marcas, fora, _ = copias.calcular(export, RAIZ)
         redacoes = copias.marcas_por_documento(marcas)
         print(f"Redações anteriores: {len(marcas)} cópias em {len(redacoes)} registos; {len(fora)} de fora (python -m rag.copias lista-as)", file=sys.stderr, flush=True)
-    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas, redacoes=redacoes)
+    repetidos = None
+    if not args.sem_repetidos:
+        from rag import duplicados
+
+        repetidos, fora_repetidos = duplicados.calcular(export, RAIZ)
+        print(f"Registos repetidos: {len(repetidos)} com principal, {len(fora_repetidos)} de fora (python -m rag.duplicados lista-os)", file=sys.stderr, flush=True)
+    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas, redacoes=redacoes, repetidos=repetidos)
     return 0
 
 

@@ -23,6 +23,15 @@ publication:
   pages: 86 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/180000000/0008600094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação nos meios de comunicação oficiais da Ordem
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

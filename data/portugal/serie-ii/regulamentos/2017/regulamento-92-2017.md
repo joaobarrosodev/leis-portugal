@@ -23,6 +23,15 @@ publication:
   pages: 2986 - 2988
   pdf_url: https://files.diariodarepublica.pt/2s/2017/02/032000000/0298602988.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

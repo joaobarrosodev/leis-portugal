@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 16687 - 16690
   pdf_url: https://files.diariodarepublica.pt/2s/2001/10/231000000/1668716690.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-10-05'
+entry_into_force:
+  date: '2001-10-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:945197482:por#art-37'
+    detail: É revogado o [Regulamento n.º 20/2001], de 4 de outubro, alterado pelo [Regulamento n.º 340/2013], de 3 de setembro.
 notes: []
 language: por
 version:

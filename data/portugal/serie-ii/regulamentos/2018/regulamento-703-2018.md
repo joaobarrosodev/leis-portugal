@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28435 - 28438
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/203000000/2843528438.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-01'
+entry_into_force:
+  date: '2018-12-01'
+  rule: no primeiro dia do segundo mês seguinte ao da sua publicação, nos termos legais, não sendo aplicável às reservas comprovadamente
+    efetuadas anteriormente
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

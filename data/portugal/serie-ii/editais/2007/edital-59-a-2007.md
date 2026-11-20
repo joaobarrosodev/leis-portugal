@@ -23,6 +23,15 @@ publication:
   pages: 1712-(18) a 1712-(37)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/014000001/0001800037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação em edital
+  method: clausula
+  article: art-104
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

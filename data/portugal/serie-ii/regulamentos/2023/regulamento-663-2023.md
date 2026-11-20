@@ -24,6 +24,15 @@ publication:
   pages: 363 - 366
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/112000000/0036300366.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em Assembleia de Freguesia de Parreira e Chouto
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

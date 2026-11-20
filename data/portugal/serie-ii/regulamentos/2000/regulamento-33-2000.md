@@ -23,6 +23,16 @@ publication:
   pages: 19377 - 19378
   pdf_url: https://files.diariodarepublica.pt/2s/2000/11/277000000/1937719378.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a respectiva aprovação pelo Fórum, sendo enviado pela Direcção-Geral das Autarquias Locais para publicação no
+    Diário da República, 2.ª série, no prazo máximo de oito dias subsequentes à sua aprov
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 23694 - 23696
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/106000000/2369423696.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da sua homologação pelo Presidente do ISEP
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

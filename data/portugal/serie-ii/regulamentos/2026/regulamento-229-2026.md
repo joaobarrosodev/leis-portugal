@@ -24,6 +24,16 @@ publication:
   pages: 771 - 785
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/048000000/0077100785.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua aprovação pela Assembleia de Freguesia e após a sua publicação em edital
+    a afixar no edifício sede da União das Freguesias, e publicação nos termos legais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

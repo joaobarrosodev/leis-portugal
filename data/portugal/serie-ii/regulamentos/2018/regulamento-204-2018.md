@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9587 - 9589
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/066000000/0958709589.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-09'
+entry_into_force:
+  date: '2018-04-09'
+  rule: no quinto dia após a sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

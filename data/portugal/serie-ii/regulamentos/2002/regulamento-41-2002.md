@@ -23,6 +23,16 @@ publication:
   pages: 15741 - 15743
   pdf_url: https://files.diariodarepublica.pt/2s/2002/09/216000000/1574115743.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo conselho científico e ao mesmo será dada publicidade no Guia da Escola e na página da
+    Internet da ESTG
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

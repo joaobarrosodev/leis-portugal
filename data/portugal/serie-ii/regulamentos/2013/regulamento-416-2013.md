@@ -23,6 +23,16 @@ publication:
   pages: 32015 - 32018
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/208000000/3201532018.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 01 de outubro, exceto o n.º 1 do artigo 5.º, o artigo 6.º, e outras disposições que prevejam um período semanal
+    de trabalho de quarenta horas e diário de oito horas, as quais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1832 - 1835
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/011000000/0183201835.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-23'
+entry_into_force:
+  date: '2016-01-23'
+  rule: 5 dias após a sua publicação no Diário da República, sendo também publicitado nos termos do artigo 56.º da Lei n.º
+    75/2013, de 12 de setembro
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

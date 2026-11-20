@@ -23,6 +23,15 @@ publication:
   pages: 92 - 96
   pdf_url: https://files.diariodarepublica.pt/2s/2002/08/191114000/0009200096.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente à sua aprovação pela Assembleia Municipal de Vila Nova de Poiares
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

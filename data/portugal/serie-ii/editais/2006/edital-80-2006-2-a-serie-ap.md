@@ -23,6 +23,16 @@ publication:
   pages: 108 - 116
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/031014000/0010800116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 30 dias da data da respectiva publicação no Diário da República, considerando-se revogado o Regulamento do Serviço
+    de Saneamento do Concelho de Alcobaça, aprovado em Assembleia Municipal de 30 de
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

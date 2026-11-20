@@ -23,6 +23,15 @@ publication:
   pages: 3729 - 3730
   pdf_url: https://files.diariodarepublica.pt/2s/2006/03/052000000/0372903730.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2005-2006
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

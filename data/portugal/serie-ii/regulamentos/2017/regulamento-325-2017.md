@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 12416 - 12420
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/116000000/1241612420.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-01'
+entry_into_force:
+  date: '2017-07-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:873180324:por#art-30'
+    detail: 1 - O presente regulamento revoga o [Regulamento n.º 325/2017], de 19 de junho.
 notes: []
 language: por
 version:

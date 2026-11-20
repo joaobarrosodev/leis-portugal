@@ -23,6 +23,15 @@ publication:
   pages: 264 - 287
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/070000000/0026400287.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a sua publicação no Diário da República
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

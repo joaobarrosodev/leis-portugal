@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/035000000/0063700654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:942991716:por#art-4-2'
+    detail: É revogado o [Regulamento n.º 253/2025], publicado no Diário da República, 2.ª série, n.º 35, de 19 de fevereiro.
 notes: []
 language: por
 version:

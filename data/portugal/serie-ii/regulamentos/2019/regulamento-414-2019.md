@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14272 - 14275
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/089000000/1427214275.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-09'
+entry_into_force:
+  date: '2019-05-09'
+  rule: após a publicação no Diário da República, na página eletrónica e em edital a afixar nos locais habituais da freguesia
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

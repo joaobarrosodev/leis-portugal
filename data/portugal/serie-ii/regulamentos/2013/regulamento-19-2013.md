@@ -23,6 +23,15 @@ publication:
   pages: 1490 - 1501
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/007000000/0149001501.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia útil, contado da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

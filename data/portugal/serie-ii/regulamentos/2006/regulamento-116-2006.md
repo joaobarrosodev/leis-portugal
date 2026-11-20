@@ -23,6 +23,15 @@ publication:
   pages: 9293 - 9294
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/122000000/0929309294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da candidatura ao acesso no ano lectivo de 2006-2007, inclusive
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

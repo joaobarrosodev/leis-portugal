@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 257 - 262
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/024000000/0025700262.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-04'
+entry_into_force:
+  date: '2020-02-04'
+  rule: a partir da data da sua publicação no Diário da República, após aprovação pelos órgãos competentes e estará disponível
+    em www.cm-sever.pt
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8596-8610
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/07/07/215339016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Jornal Oficial da Região Autónoma dos Açores
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

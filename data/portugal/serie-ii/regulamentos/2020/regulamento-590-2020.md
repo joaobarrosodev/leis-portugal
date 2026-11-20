@@ -23,6 +23,16 @@ publication:
   pages: 328 - 331
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/137000000/0032800331.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, revogando-se o Regulamento anterior sobre a mesma matéria, publicado
+    na 2.ª série do Diário da República, de 14 de janeiro de 2013
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

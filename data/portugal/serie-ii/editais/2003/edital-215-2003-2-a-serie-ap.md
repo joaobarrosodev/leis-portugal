@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 58 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/058039000/0005800077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-03-11'
+entry_into_force:
+  date: '2003-03-11'
+  rule: no dia seguinte ao da publicação no Diário da República, aplicando-se a todos os pedidos apresentados a partir dessa
+    data
+  method: clausula
+  article: art-111
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

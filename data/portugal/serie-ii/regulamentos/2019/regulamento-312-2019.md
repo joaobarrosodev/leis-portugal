@@ -23,6 +23,15 @@ publication:
   pages: 10490 - 10501
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/065000000/1049010501.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia útil após a sua publicação
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

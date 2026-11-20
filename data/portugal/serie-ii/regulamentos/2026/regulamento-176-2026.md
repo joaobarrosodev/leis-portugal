@@ -23,6 +23,15 @@ publication:
   pages: 426 - 429
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/037000000/0042600429.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após publicação em Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

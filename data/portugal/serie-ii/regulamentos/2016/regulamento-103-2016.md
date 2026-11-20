@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/020000000/0350203507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74067662:por#art-43'
+    detail: É revogado o [Regulamento n.º 103/2016], publicado no Diário da República n.º 20, 2.ª série, de 29 de janeiro
+      de 2016.
 notes: []
 language: por
 version:

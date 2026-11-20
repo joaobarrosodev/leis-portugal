@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 85 - 89
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/068045000/0008500089.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-04-20'
+entry_into_force:
+  date: '2003-04-20'
+  rule: 30 dias após a sua publicação e revoga o Regulamento actualmente em vigor
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

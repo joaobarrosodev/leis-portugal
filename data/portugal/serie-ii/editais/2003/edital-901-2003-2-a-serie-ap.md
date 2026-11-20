@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 39 - 50
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/279180000/0003900050.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-18'
+entry_into_force:
+  date: '2003-12-18'
+  rule: 15 dias após a sua publicação, considerando-se revogados todos os anteriores regulamentos do serviço de abastecimento
+    de água ao concelho de São Vicente e posteriores alterações
+  method: clausula
+  article: art-95
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 36 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/077054000/0003600038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias seguidos contados após a sua publicação na forma de edital, nos locais de estilo ou, em caso de alterações
+    operadas ao respectivo projecto de Regulamento, de aviso publicado na 2.ª série do
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

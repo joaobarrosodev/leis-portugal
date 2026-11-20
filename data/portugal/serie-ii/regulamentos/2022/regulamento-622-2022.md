@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 546 - 548
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/131000000/0054600548.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-09'
+entry_into_force:
+  date: '2022-07-09'
+  rule: no dia seguinte à sua publicação no Diário da República, depois de aprovado pela Assembleia de Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

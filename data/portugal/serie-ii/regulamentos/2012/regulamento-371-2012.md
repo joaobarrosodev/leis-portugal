@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 29080 - 29082
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/158000000/2908029082.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-17'
+entry_into_force:
+  date: '2012-08-17'
+  rule: no dia seguinte à data da publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:161864480:por#art-26'
+    detail: b) [Regulamento n.º 371/2012], publicado no Diário da República n.º 158 da 2.ª série de 16 de agosto de 2012 -
+      Regulamento de comparticipação municipal em medicamentos, e respetiva Declaração de retificação n.º 152/2013, publicada
+      no Diário da República n.º 22 da 2.ª série de 31 de janeiro de 2013.
 notes: []
 language: por
 version:

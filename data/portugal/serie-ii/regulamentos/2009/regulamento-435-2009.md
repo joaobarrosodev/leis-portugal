@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 45418 - 45419
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/216000000/4541845419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-07'
+entry_into_force:
+  date: '2009-11-07'
+  rule: no dia seguinte ao da sua publicação, salvo o disposto no Capítulo II, que
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

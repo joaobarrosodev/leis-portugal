@@ -25,6 +25,16 @@ publication:
   pages: 597 - 602
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/005000000/0059700602.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua homologação pelo membro do Governo responsável pela área das finanças, a qual se considera dada se
+    não houver decisão em contrário nos 90 dias seguintes ao da sua receção, e ficará disp
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

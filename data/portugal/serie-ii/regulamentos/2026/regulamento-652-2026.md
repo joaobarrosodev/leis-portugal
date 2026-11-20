@@ -24,6 +24,15 @@ publication:
   pages: 592 - 596
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/101000000/0059200596.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

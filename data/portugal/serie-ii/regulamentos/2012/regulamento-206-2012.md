@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 20057 - 20058
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/107000000/2005720058.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-06-02'
+entry_into_force:
+  date: '2012-06-02'
+  rule: 'no dia imediato ao da sua publicação no Diário da República e revoga o Regulamento aprovado pelo Despacho n.º 8010/2011,
+    publicado no Diário da República, 2.ª série, n.º 108, de 3 de junho de 2011, e '
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 10231 - 10236
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/059000000/1023110236.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de quinze dias úteis a contar da sua publicação no Diário da República
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7390 - 7392
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/043000000/0739007392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-02-29'
+entry_into_force:
+  date: '2012-02-29'
+  rule: no dia da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

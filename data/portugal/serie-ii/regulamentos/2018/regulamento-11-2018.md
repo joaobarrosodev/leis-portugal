@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 909 - 914
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/006000000/0090900914.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-24'
+entry_into_force:
+  date: '2018-01-24'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

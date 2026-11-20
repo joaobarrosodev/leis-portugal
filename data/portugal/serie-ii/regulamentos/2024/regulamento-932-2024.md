@@ -23,6 +23,16 @@ publication:
   pages: 792 - 801
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/160000000/0079200801.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º (quinto) dia após a sua publicação no Diário da República, sendo ainda publicitado no sítio da internet da
+    Junta de Freguesia de Estrela
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 674 - 688
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/058000000/0067400688.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-08'
+entry_into_force:
+  date: '2026-04-08'
+  rule: quinze dias após a respetiva publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

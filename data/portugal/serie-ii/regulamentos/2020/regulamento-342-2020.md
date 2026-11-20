@@ -23,6 +23,15 @@ publication:
   pages: 361 - 366
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/067000000/0036100366.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República, mas apenas
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

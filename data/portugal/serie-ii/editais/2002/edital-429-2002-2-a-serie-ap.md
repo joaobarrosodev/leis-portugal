@@ -23,6 +23,15 @@ publication:
   pages: 44 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2002/09/204121000/0004400045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação, nos termos da lei
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

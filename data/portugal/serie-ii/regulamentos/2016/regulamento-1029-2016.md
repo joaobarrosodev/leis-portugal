@@ -23,8 +23,24 @@ publication:
   pages: 33789 - 33791
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/218000000/3378933791.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da aprovação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:119010372:por#art-14'
+    detail: É revogado o [Regulamento n.º 1029/2016] do Reitor do ISCTE-IUL, publicado no Diário da República n.º 218/2016,
+      Série II, de 14 de novembro de 2016.
 notes: []
 language: por
 version:

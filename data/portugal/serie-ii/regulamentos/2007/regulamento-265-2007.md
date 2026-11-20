@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/196000000/2942329424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:926142984:por#art-20'
+    detail: O presente regulamento revoga o [Regulamento n.º 265/2007], publicado no Diário da República, 2.ª série, n.º 196,
+      a 11 de outubro de 2007.
 notes: []
 language: por
 version:

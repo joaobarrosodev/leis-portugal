@@ -23,6 +23,15 @@ publication:
   pages: 36202 - 36209
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/212000000/3620236209.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia de Freguesia de Paranhos
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

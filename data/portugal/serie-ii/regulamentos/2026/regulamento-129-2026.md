@@ -23,6 +23,16 @@ publication:
   pages: 508 - 518
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/025000000/0050800518.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião de Executivo da Junta de Freguesia e pela Aprovação em reunião da Assembleia de Freguesia
+    de Atalaia e Alto Estanqueiro - Jardia e após a sua publicação nos termos lega
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 22922 - 22924
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/140000000/2292222924.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua aprovação, depois de publicitado nos termos legais
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

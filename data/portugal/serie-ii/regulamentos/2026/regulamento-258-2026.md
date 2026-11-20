@@ -23,6 +23,15 @@ publication:
   pages: 316 - 332
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/053000000/0031600332.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 21456 - 21458
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/149000000/2145621458.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-04'
+entry_into_force:
+  date: '2015-08-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74672389:por#art-19'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 493/2015], publicado na 2.ª série do Diário da República
+      em 3 de agosto.
 notes: []
 language: por
 version:

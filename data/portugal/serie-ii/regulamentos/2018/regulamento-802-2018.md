@@ -23,6 +23,15 @@ publication:
   pages: 32190 - 32195
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/231000000/3219032195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 5 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

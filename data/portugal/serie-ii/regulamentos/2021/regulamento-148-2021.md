@@ -23,6 +23,15 @@ publication:
   pages: 140 - 148
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/035000000/0014000148.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a deliberação do Conselho Intermunicipal que o aprovou e
+  method: clausula
+  article: art-18
+  effects_date: '2021-01-01'
+  effects_rule: no dia 1 de janeiro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

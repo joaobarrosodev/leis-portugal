@@ -23,6 +23,15 @@ publication:
   pages: 8597 - 8601
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/056000000/0859708601.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 (dez) dias após a publicação nos termos legais em vigor
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

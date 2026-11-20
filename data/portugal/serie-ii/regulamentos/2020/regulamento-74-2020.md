@@ -23,6 +23,15 @@ publication:
   pages: 339 - 343
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/021000000/0033900343.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente seguinte ao da sua publicação em Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

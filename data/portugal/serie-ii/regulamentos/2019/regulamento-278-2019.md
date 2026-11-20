@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 9498 - 9501
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/061000000/0949809501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-28'
+entry_into_force:
+  date: '2019-03-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:205489688:por#art-18'
+    detail: é revogado o [Regulamento n.º 278/2019] publicado no Diário da República, 2.ª série - N.º 61 - 27 de março de
+      2019
 notes: []
 language: por
 version:

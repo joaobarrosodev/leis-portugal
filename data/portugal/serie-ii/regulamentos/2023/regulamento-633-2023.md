@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 242 - 260
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/108000000/0024200260.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-06'
+entry_into_force:
+  date: '2023-06-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República e permanece durante a vigência do Programa de Apoio à
+    Redução Tarifária (PART) nos Transportes Públicos
+  method: clausula
+  article: art-22
+  effects_date: '2023-01-01'
+  effects_rule: a 1 de janeiro de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

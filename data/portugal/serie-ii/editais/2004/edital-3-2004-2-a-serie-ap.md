@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 47 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2004/01/005002000/0004700055.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-02-06'
+entry_into_force:
+  date: '2004-02-06'
+  rule: 30 dias após a sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

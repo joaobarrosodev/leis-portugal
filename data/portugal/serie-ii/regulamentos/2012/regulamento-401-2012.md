@@ -23,6 +23,15 @@ publication:
   pages: 32367 - 32373
   pdf_url: https://files.diariodarepublica.pt/2s/2012/09/186000000/3236732373.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 25211 - 25215
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/153000000/2521125215.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1079638477:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 305/2013], publicado no Diário da República, 2.ª série, n.º 153
+      de 09 de agosto de 2025.
 notes: []
 language: por
 version:

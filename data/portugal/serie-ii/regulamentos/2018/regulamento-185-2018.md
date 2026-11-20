@@ -23,6 +23,15 @@ publication:
   pages: 8575 - 8577
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/058000000/0857508577.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

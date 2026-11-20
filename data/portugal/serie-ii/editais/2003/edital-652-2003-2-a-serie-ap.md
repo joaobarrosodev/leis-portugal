@@ -23,6 +23,15 @@ publication:
   pages: 19 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/195127000/0001900055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia Municipal, 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

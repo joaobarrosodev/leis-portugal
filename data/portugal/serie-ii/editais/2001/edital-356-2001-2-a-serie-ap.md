@@ -23,6 +23,15 @@ publication:
   pages: 74 - 97
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/199104000/0007400097.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação em boletim municipal
+  method: clausula
+  article: art-217
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

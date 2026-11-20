@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 281 - 285
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/153000000/0028100285.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-09'
+entry_into_force:
+  date: '2023-08-09'
+  rule: no dia seguinte ao da publicação do respetivo aviso no Diário da República, nos termos do disposto na alínea t) do
+    n.º 1 do artigo 35.º conjugado com o artigo n.º 56.º da Lei n.º 75/2013 de 12 de sete
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

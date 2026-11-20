@@ -23,6 +23,15 @@ publication:
   pages: 895 - 896
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/006000000/0089500896.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

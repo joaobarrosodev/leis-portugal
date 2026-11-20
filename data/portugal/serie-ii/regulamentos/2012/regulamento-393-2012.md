@@ -23,6 +23,16 @@ publication:
   pages: 31365 - 31368
   pdf_url: https://files.diariodarepublica.pt/2s/2012/09/178000000/3136531368.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da respetiva publicitação no Diário da República, e revoga o anterior regulamento publicado no
+    Diário da República 2.ª série, n.º 93, de 13 de maio de 2011
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

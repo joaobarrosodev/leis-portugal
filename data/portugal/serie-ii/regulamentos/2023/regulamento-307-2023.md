@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 424 - 443
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/050000000/0042400443.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-04-09'
+entry_into_force:
+  date: '2023-04-09'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

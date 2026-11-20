@@ -23,6 +23,15 @@ publication:
   pages: 21012-(170) a 21012-(179)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/141000002/0017000179.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação pelo órgão executivo
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

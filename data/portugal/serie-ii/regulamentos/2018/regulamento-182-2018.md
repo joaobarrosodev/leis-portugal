@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8535 - 8537
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/058000000/0853508537.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-06'
+entry_into_force:
+  date: '2018-04-06'
+  rule: 15 dias após a sua publicação em Ordem de Serviço Interna
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

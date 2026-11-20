@@ -23,6 +23,15 @@ publication:
   pages: 22814 - 22819
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/102000000/2281422819.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da publicitação por edital, afixado nos lugares de estilo
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

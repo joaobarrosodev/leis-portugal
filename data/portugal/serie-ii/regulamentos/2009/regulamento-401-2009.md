@@ -23,6 +23,15 @@ publication:
   pages: 40877 - 40879
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/195000000/4087740879.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado e no dia imediato ao da sua publicação, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 8448 - 8450
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/107000000/0844808450.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ano de 2005
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

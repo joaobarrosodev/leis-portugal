@@ -23,6 +23,15 @@ publication:
   pages: 18743 - 18744
   pdf_url: https://files.diariodarepublica.pt/2s/2002/11/261000000/1874318744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação no senado da Universidade Técnica de Lisboa
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

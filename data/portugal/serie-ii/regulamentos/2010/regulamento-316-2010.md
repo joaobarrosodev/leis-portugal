@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16932 - 16948
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/063000000/1693216948.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-31'
+entry_into_force:
+  date: '2010-03-31'
+  rule: após a sua publicação nos termos legais, e revoga qualquer outro que tenha vigorado até à sua entrada em vigor
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

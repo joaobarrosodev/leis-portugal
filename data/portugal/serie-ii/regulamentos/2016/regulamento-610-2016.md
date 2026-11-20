@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19729 - 19735
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/120000000/1972919735.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-09'
+entry_into_force:
+  date: '2016-07-09'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

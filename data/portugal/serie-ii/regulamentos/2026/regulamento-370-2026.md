@@ -23,6 +23,16 @@ publication:
   pages: 343 - 352
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/070000000/0034300352.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 5.º (quinto) dia após a sua publicação no Diário da República, sendo ainda publicitado no sítio de Internet da
+    Junta de Freguesia de Estrela
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

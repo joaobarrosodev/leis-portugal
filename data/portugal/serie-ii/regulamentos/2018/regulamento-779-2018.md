@@ -23,6 +23,15 @@ publication:
   pages: 30829 - 30830
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/222000000/3082930830.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo Presidente do IPC
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

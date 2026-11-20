@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 231 - 238
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/090000000/0023100238.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-13'
+entry_into_force:
+  date: '2025-05-13'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

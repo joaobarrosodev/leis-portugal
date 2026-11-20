@@ -23,6 +23,15 @@ publication:
   pages: 8 - 8
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/138089000/0000800008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação na reunião da Assembleia Municipal
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

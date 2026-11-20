@@ -23,6 +23,15 @@ publication:
   pages: 16628 - 16630
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/070000000/1662816630.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da sua assinatura
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

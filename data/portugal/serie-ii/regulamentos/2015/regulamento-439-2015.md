@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 19725 - 19727
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/141000000/1972519727.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-06'
+entry_into_force:
+  date: '2015-08-06'
+  rule: 15 dias após a data da sua publicação através de edital nos lugares de estilo, nos termos, e para os efeitos, do disposto
+    no artigo 56.º da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

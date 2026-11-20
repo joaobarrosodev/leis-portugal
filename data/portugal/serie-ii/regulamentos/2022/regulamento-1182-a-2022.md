@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 387-(6) a 387-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/243000001/0000600022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-21'
+entry_into_force:
+  date: '2022-12-21'
+  rule: no dia seguinte ao da publicação no Diário da República e será publicado por edital e no sítio da Internet do Município
+    de Cascais em www.cm-cascais.pt
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 530 - 533
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/211000000/0053000533.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-30'
+entry_into_force:
+  date: '2026-10-30'
+  rule: após a sua publicação no Diário da República e será dado a conhecer a todos os possíveis interessados, através da
+    sua publicitação no site da Junta de Freguesia
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

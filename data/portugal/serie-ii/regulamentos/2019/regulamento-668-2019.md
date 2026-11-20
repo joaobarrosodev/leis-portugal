@@ -23,6 +23,16 @@ publication:
   pages: 301 - 304
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/161000000/0030100304.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação nos termos legais e será igualmente objeto de publicitação na página eletrónica
+    da internet do Município
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

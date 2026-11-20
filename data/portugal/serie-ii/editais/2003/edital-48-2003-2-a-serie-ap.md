@@ -23,6 +23,15 @@ publication:
   pages: 2 - 8
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/020012000/0000200008.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente a seguir à data da sua aprovação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

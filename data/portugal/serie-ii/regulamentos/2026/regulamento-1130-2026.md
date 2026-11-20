@@ -23,6 +23,15 @@ publication:
   pages: 600 - 603
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/161000000/0060000603.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após discussão em reunião de Executivo da Junta de Freguesia do Caniço e aprovado em Assembleia de Freguesia
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

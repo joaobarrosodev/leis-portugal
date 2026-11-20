@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11639 - 11643
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/078000000/1163911643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-21'
+entry_into_force:
+  date: '2018-04-21'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

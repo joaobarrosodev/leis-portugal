@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 81 - 83
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/068045000/0008100083.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-11-30'
+entry_into_force:
+  date: '2002-11-30'
+  rule: no dia 30 de Novembro de 2002, após ter sido aprovado em reunião do órgão executivo com conhecimento do órgão deliberativo
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

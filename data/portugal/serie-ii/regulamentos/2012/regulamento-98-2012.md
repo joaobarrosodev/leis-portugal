@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 8179 - 8180
   pdf_url: https://files.diariodarepublica.pt/2s/2012/03/046000000/0817908180.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-06'
+entry_into_force:
+  date: '2012-03-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e revoga o regulamento de avaliação da capacidade de
+    frequência das licenciaturas da Faculdade de Ciências Sociais e Humanas (FCSH) dos ind
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

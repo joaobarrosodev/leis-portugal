@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13677 - 13679
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/055000000/1367713679.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-20'
+entry_into_force:
+  date: '2010-03-20'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 238 - 252
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/226000000/0023800252.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-29'
+entry_into_force:
+  date: '2020-11-29'
+  rule: 10 dias após a data da sua publicação através de edital nos lugares de estilo, nos termos, e para os efeitos, do disposto
+    no artigo 56.º, do Anexo I da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

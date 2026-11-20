@@ -23,6 +23,15 @@ publication:
   pages: 76 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/124080000/0007600077.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a sua aprovação pela Câmara Municipal
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

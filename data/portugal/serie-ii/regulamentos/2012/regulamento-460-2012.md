@@ -23,6 +23,15 @@ publication:
   pages: 36702 - 36704
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/216000000/3670236704.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos 8 dias seguintes à sua aprovação pela Câmara Municipal de Vila Pouca de Aguiar
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

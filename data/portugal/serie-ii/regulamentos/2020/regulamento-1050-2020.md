@@ -24,6 +24,15 @@ publication:
   pages: 164 - 168
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/230000000/0016400168.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes e
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: para o ano letivo 2020/2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

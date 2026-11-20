@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12120 - 12127
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/093000000/1212012127.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-05-29'
+entry_into_force:
+  date: '2015-05-29'
+  rule: 15 dias após a sua publicação pelos meios legalmente previstos
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 38034 - 38040
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/181000000/3803438040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-09-17'
+entry_into_force:
+  date: '2009-09-17'
+  rule: na data da respectiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem na internet
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

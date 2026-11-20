@@ -24,6 +24,15 @@ publication:
   pages: 1269 - 1271
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/008000000/0126901271.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no último dia do mês imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

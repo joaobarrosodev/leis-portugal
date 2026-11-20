@@ -23,6 +23,16 @@ publication:
   pages: 516 - 520
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/141000000/0051600520.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após aprovação em reunião de Assembleia de Freguesia, e encontra-se disponível para consulta no site
+    e na Secretaria da Junta do Lumiar
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

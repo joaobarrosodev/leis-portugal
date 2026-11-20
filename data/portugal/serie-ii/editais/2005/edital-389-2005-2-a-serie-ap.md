@@ -23,6 +23,15 @@ publication:
   pages: 55 - 57
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/127091000/0005500057.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação pela assembleia municipal e no 15.º dia posterior ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

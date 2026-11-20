@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 22512-(104) a 22512-(119)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/151000002/0010400119.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-22'
+entry_into_force:
+  date: '2007-08-22'
+  rule: 15 dias após a publicação nos termos legais
+  method: clausula
+  article: art-110
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

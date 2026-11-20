@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2010 - 2011
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/009000000/0201002011.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-29'
+entry_into_force:
+  date: '2009-01-29'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

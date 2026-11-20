@@ -24,6 +24,16 @@ publication:
   pages: 29437 - 29442
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/102000000/2943729442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pelos conselho científicos e Pedagógicos das Escolas Universitárias do IADE e publicitado nos termos
+    legais
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

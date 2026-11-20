@@ -23,6 +23,15 @@ publication:
   pages: 41 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2000/03/051032000/0004100045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 20 dias após a data da afixação do edital a publicitar a sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

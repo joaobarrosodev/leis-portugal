@@ -23,6 +23,16 @@ publication:
   pages: 219 - 228
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/155000000/0021900228.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação e respetiva publicação no Diário da República, encontrando-se disponível para consulta no site
+    oficial, www.jf-madalena.pt
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

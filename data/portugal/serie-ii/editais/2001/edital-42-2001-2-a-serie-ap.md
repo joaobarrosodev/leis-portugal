@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 13
   pdf_url: https://files.diariodarepublica.pt/2s/2001/02/030014000/0001100013.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-02-20'
+entry_into_force:
+  date: '2001-02-20'
+  rule: 15 dias após a data da sua publicação no Diária da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4 - 4
   pdf_url: https://files.diariodarepublica.pt/2s/2001/06/141074000/0000400004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-07-05'
+entry_into_force:
+  date: '2001-07-05'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

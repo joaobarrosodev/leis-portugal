@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26645 - 26647
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/176000000/2664526647.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-09-22'
+entry_into_force:
+  date: '2007-09-22'
+  rule: 10 dias após publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

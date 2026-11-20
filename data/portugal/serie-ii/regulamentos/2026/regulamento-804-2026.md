@@ -23,6 +23,16 @@ publication:
   pages: 497 - 519
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/124000000/0049700519.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil, seguinte a sua publicação no Diário da República e em edital a afixar no edifício da sede da
+    União das Freguesias de Figueiró dos Vinhos e Bairradas
+  method: clausula
+  article: art-81
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

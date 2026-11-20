@@ -23,9 +23,25 @@ publication:
   supplement: null
   pages: 13281 - 13286
   pdf_url: https://files.diariodarepublica.pt/2s/2019/04/083000000/1328113286.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-01'
+entry_into_force:
+  date: '2019-05-01'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1173180518:por#art-28'
+    detail: É revogado o [Regulamento n.º 386/2019] de 30 de abril, publicado no Diário da República, 2.ª série.
 notes: []
 language: por
 version:

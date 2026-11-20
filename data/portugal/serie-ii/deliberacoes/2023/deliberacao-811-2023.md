@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/163000000/0002200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:857564242:por#n-9'
+    detail: 9 - É revogada a [Deliberação n.º 811/2023], publicada no Diário da República, 2.ª série, n.º 163, de 23 de agosto.
 notes: []
 language: por
 version:

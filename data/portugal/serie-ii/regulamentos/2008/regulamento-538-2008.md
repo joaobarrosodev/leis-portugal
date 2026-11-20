@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 42370 - 42373
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/201000000/4237042373.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-10-17'
+entry_into_force:
+  date: '2008-10-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo aplicável ao concurso para o ano lectivo de 2008-2009
+    e concursos subsequentes
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

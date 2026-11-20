@@ -23,6 +23,15 @@ publication:
   pages: 8835 - 8837
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/050000000/0883508837.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do ano de 2016
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

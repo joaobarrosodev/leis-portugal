@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 22104-(162) a 22104-(164)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/148000001/0016200164.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-17'
+entry_into_force:
+  date: '2007-08-17'
+  rule: 15 dias após a sua publicação em edital afixado nos lugares de estilo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

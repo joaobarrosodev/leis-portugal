@@ -23,6 +23,15 @@ publication:
   pages: 577 - 580
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/129000000/0057700580.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a 26 de janeiro 2024, conforme Edital da criação do Canal de Denúncia Interno
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

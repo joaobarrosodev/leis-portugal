@@ -23,6 +23,16 @@ publication:
   pages: 421 - 428
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/112000000/0042100428.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil de janeiro de 2020, com a aplicação do Sistema de Normalização Contabilística para as Administrações
+    Públicas - SNC-AP
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

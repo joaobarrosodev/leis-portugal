@@ -24,6 +24,15 @@ publication:
   pages: 110 - 120
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/144000000/0011000120.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 (um) de abril de 2019 (dois mil e dezanove)
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

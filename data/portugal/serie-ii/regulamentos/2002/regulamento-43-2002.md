@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19718 - 19724
   pdf_url: https://files.diariodarepublica.pt/2s/2002/11/277000000/1971819724.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-01'
+entry_into_force:
+  date: '2002-12-01'
+  rule: a partir do dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

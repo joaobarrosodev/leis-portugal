@@ -23,6 +23,15 @@ publication:
   pages: 755 - 762
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/014000000/0075500762.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 (dez) dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 17533 - 17534
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/110000000/1753317534.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua aprovação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

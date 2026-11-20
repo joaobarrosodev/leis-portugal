@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 97 - 99
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/168000000/0009700099.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-04'
+entry_into_force:
+  date: '2019-09-04'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1189982185:por#texto'
+    detail: É revogado o [Regulamento n.º 688/2019], de 3 de setembro, publicado no Diário da República, 2.ª série, n.º 168,
+      de 3 de setembro de 2019.
 notes: []
 language: por
 version:

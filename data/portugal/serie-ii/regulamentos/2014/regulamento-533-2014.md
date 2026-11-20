@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/233000000/3024730254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124981040:por#art-2'
+    detail: Com o presente Regulamento revoga-se o [Regulamento n.º 533/2014], de 2 de dezembro, sobre o cálculo de Dotações
+      Seguras dos Cuidados de Enfermagem.
 notes: []
 language: por
 version:

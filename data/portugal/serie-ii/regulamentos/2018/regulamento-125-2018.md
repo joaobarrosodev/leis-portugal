@@ -23,6 +23,15 @@ publication:
   pages: 5826 - 5828
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/037000000/0582605828.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a homologação do reitor e a sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

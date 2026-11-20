@@ -23,6 +23,15 @@ publication:
   pages: 24901 - 24904
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/152000000/2490124904.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da publicação da versão definitiva
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6697 - 6698
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/033000000/0669706698.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-04'
+entry_into_force:
+  date: '2009-03-04'
+  rule: 15 dias após a publicação do respectivo edital
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

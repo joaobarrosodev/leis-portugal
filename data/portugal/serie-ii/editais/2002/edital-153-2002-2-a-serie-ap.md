@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33 - 35
   pdf_url: https://files.diariodarepublica.pt/2s/2002/04/083044000/0003300035.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-04-10'
+entry_into_force:
+  date: '2002-04-10'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

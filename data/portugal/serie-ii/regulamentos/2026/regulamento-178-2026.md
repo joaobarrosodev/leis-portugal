@@ -23,6 +23,15 @@ publication:
   pages: 559 - 575
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/037000000/0055900575.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 13 - 16
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/108069000/0001300016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte àquele em que se perfizerem 30 dias sobre a data da sua publicação no Diário
+    da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

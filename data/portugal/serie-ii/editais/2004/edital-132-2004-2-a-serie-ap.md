@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 64 - 89
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/042024000/0006400089.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-03-05'
+entry_into_force:
+  date: '2004-03-05'
+  rule: 15 dias após a sua publicação, considerando-se revogados os anteriores regulamentos de abastecimento de água e de
+    drenagem de águas residuais do município
+  method: clausula
+  article: art-205
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

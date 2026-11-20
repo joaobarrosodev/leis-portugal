@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19534 - 19536
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/132000000/1953419536.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-13'
+entry_into_force:
+  date: '2019-07-13'
+  rule: no dia seguinte à da sua publicação e
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: para e a partir do ano letivo 2019/2020
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 22607 - 22609
   pdf_url: https://files.diariodarepublica.pt/2s/2013/07/136000000/2260722609.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo quinto dia contado da data da sua publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

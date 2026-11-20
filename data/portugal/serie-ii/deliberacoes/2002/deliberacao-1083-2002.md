@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 12067 - 12068
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/153000000/1206712068.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-07-05'
+entry_into_force:
+  date: '2002-07-05'
+  rule: na data da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

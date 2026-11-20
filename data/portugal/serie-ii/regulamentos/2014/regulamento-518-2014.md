@@ -23,6 +23,15 @@ publication:
   pages: 28800 - 28812
   pdf_url: https://files.diariodarepublica.pt/2s/2014/11/221000000/2880028812.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação e publicação em Diário da República
+  method: clausula
+  article: art-128
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

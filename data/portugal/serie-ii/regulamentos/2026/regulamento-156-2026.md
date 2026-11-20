@@ -23,6 +23,15 @@ publication:
   pages: 201 - 203
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/031000000/0020100203.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação formal pelo Conselho Geral
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

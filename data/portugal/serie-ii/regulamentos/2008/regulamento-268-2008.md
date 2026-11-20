@@ -23,6 +23,15 @@ publication:
   pages: 23088 - 23094
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/099000000/2308823094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a sua publicitação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

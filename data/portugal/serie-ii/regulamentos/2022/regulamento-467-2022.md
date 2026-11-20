@@ -23,6 +23,15 @@ publication:
   pages: 317 - 322
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/094000000/0031700322.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente a seguir à sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

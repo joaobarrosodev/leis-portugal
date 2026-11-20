@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 447 - 471
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/247000000/0044700471.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-27'
+entry_into_force:
+  date: '2023-12-27'
+  rule: no dia imediato ao da sua publicação, nos termos legais
+  method: clausula
+  article: art-95
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

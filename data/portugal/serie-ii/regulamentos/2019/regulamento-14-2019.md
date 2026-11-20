@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/003000000/0056500566.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:836795038:por#art-15'
+    detail: Revoga-se o [Regulamento n.º 14/2019], de 4 de janeiro, da ESAI.
 notes: []
 language: por
 version:

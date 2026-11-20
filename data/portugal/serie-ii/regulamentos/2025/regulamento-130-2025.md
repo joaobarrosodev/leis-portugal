@@ -23,6 +23,15 @@ publication:
   pages: 376 - 380
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/015000000/0037600380.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

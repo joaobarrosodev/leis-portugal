@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2 - 16
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/050031001/0000200016.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-01'
+entry_into_force:
+  date: '2000-03-01'
+  rule: no dia imediato ao da sua publicação integral no Diário da República, 2.ª série, depois de aprovados pela Assembleia
+    Municipal e de se mostrarem cumpridas as restantes formalidades legais exigidas pel
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

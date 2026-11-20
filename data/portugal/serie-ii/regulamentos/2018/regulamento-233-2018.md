@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11187 - 11188
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/076000000/1118711188.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-04-19'
+entry_into_force:
+  date: '2018-04-19'
+  rule: no dia imediato à sua publicação nos termos legais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

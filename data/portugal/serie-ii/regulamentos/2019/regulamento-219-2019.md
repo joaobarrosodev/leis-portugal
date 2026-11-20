@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 7923 - 7927
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/052000000/0792307927.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-15'
+entry_into_force:
+  date: '2019-03-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: relativamente a todas as casas de habitação não permanente que se encontrem incluídas no levantamento referido
+    nos n.os 2 e 3 do artigo 2.º do presente Regulamento
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

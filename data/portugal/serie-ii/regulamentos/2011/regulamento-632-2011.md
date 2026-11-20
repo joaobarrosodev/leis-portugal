@@ -23,6 +23,15 @@ publication:
   pages: 48582 - 48583
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/237000000/4858248583.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após serem feitas as aprovações e publicações exigidas por lei
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14042 - 14044
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/088000000/1404214044.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-09'
+entry_into_force:
+  date: '2019-05-09'
+  rule: no dia a seguir ao da sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

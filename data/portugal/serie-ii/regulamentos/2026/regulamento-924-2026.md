@@ -23,6 +23,16 @@ publication:
   pages: 667 - 670
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/136000000/0066700670.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República, com efeitos retroativos à data de 1 de
+    janeiro de 2026
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

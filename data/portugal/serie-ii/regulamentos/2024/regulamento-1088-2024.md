@@ -23,6 +23,16 @@ publication:
   pages: 199 - 203
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/191000000/0019900203.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do mandato 2025-2028, em 1 de abril de 2025, ou no primeiro dia útil imediatamente a seguir, quando aquele
+    não o for
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

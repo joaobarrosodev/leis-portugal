@@ -23,6 +23,16 @@ publication:
   pages: 1933 - 1937
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/010000000/0193301937.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, sendo também publicitado em Edital a afixar no edifício
+    sede da Junta de Freguesia de Santa Joana e no site institucional da autarquia (ww
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

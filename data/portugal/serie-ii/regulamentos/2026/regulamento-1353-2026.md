@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 626 - 632
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/200000000/0062600632.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-16'
+entry_into_force:
+  date: '2026-10-16'
+  rule: no dia seguinte à sua publicação oficial no Diário da República, após ter sido aprovado em reunião do Órgão Executivo
+    e votado favoravelmente em sessão plenária do Órgão Deliberativo (Assembleia de Fr
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

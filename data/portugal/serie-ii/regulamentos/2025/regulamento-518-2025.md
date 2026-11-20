@@ -24,6 +24,15 @@ publication:
   pages: 552 - 556
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/080000000/0055200556.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à sua aprovação pela Assembleia de Freguesia, revogando-se, desta forma, toda a regulamentação anterior
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

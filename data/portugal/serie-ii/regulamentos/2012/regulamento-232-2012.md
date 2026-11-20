@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 21808 - 21812
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/118000000/2180821812.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-07-05'
+entry_into_force:
+  date: '2012-07-05'
+  rule: 15 dias após a publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

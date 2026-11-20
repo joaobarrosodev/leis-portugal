@@ -23,6 +23,16 @@ publication:
   pages: 138 - 141
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/015000000/0013800141.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, e após a devida aprovação pelo Reitor, nos termos da alínea
+    m) do n.º 3 do artigo 23.º dos Estatutos da Universidade de Aveiro
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

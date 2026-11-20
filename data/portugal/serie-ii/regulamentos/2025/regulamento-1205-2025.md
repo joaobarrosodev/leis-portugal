@@ -23,6 +23,15 @@ publication:
   pages: 113 - 123
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/212000000/0011300123.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: para as candidaturas para o ano de 2026 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

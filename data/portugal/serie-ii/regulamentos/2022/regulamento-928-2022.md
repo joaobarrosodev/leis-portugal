@@ -23,6 +23,15 @@ publication:
   pages: 311 - 318
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/195000000/0031100318.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação nos termos da lei
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: para o ano escolar 2022/23 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

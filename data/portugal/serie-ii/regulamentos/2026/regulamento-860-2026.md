@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 182 - 186
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/130000000/0018200186.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-09'
+entry_into_force:
+  date: '2026-07-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: relativamente às situações decorrentes das intempéries ocorridas em janeiro e fevereiro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

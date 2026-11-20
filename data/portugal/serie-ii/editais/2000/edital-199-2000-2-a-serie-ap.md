@@ -23,6 +23,15 @@ publication:
   pages: 37 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/124080000/0003700045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: percorridos que sejam os trâmites legais exigidos após a sua publicação no Diário da República
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

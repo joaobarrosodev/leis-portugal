@@ -24,6 +24,15 @@ publication:
   pages: 13469 - 13471
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/082000000/1346913471.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2016-2017, inclusive
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

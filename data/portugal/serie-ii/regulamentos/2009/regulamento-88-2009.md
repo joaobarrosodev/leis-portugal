@@ -23,6 +23,15 @@ publication:
   pages: 7012 - 7015
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/035000000/0701207015.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis a contar do dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

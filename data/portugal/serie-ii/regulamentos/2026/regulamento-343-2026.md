@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 254 - 265
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/065000000/0025400265.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-03'
+entry_into_force:
+  date: '2026-04-03'
+  rule: no dia imediatamente a seguir ao da sua publicação nos termos legais
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

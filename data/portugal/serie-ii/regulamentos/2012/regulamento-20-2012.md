@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2479 - 2481
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/015000000/0247902481.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-02-04'
+entry_into_force:
+  date: '2012-02-04'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

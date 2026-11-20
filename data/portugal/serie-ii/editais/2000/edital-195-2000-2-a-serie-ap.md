@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 8 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/124080000/0000800012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-13'
+entry_into_force:
+  date: '2000-06-13'
+  rule: 15 dias após a sua publicação no Diário da República, 2.ª série, na versão definitiva, ou, em sua substituição, de
+    aviso publicitado nas alterações havidas ao presente projecto de Regulamento
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

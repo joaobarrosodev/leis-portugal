@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 429 - 432
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/045000000/0042900432.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-04'
+entry_into_force:
+  date: '2023-03-04'
+  rule: no dia seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

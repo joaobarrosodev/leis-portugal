@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 73 - 74
   pdf_url: https://files.diariodarepublica.pt/2s/2001/04/078039000/0007300074.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-04-17'
+entry_into_force:
+  date: '2001-04-17'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

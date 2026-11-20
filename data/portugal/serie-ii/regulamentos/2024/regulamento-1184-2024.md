@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 210 - 215
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/203000000/0021000215.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-19'
+entry_into_force:
+  date: '2024-10-19'
+  rule: no dia seguinte ao da sua publicação no Diário da República, revogando o Regulamento do Despacho n.º 3472/2018, publicado
+    no Diário da República, 2.ª série, n.º 68 de 6 de abril de 2018
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,13 @@ publication:
   pdf_url: null
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:215487068:por'
+    detail: Revogado, no que às partes outorgantes respeita, pelo Contrato Colectivo de Trabalho n.º 153/2023
 notes:
 - 'Fonte sem texto: o DRE não tem texto eletrónico nem PDF deste diploma; o registo tem só os metadados (verificado em 2026-11-13).'
 language: por

@@ -23,6 +23,15 @@ publication:
   pages: 640 - 648
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/009000000/0064000648.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a aprovação pelo órgão deliberativo e publicação em edital a afixar nas instalações desta Junta de Freguesia
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

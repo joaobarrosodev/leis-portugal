@@ -23,6 +23,15 @@ publication:
   pages: 513 - 518
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/054000000/0051300518.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicitação, nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

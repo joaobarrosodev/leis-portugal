@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 469 - 479
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/202000000/0046900479.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-16'
+entry_into_force:
+  date: '2024-11-16'
+  rule: 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

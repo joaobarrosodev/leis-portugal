@@ -23,6 +23,15 @@ publication:
   pages: 546 - 548
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/139000000/0054600548.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela assembleia de freguesia de Dornelas, e
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: a partir de ano letivo 2022/2023 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

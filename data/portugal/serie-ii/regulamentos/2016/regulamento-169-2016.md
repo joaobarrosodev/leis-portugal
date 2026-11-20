@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 5684 - 5687
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/034000000/0568405687.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-18'
+entry_into_force:
+  date: '2016-02-18'
+  rule: após a sua publicação nos termos legais, ficando revogadas todas as disposições regulamentares que com ele estejam
+    em contradição
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

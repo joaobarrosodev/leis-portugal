@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 283 - 306
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/153000000/0028300306.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-09'
+entry_into_force:
+  date: '2024-08-09'
+  rule: no dia seguinte ao da publicação no Diário da República, sendo republicado na íntegra na sua nova versão
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

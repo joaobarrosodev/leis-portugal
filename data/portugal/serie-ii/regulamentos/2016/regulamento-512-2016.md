@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/100000000/1622216227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:889942093:por#art-9'
+    detail: O presente Regulamento revoga o [Regulamento n.º 512/2016], publicado no Diário da República, 2.ª série, n.º 100
+      de 24 de maio, alterado pelo [Aviso n.º 2151/2018], publicado no Diário da República, 2.ª série, n.º 34 de 16 de fevereiro.
 notes: []
 language: por
 version:

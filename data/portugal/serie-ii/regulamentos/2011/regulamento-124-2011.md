@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/035000000/0865608657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:115698617:por#art-8'
+    detail: Com a publicação deste documento são revogados o [Regulamento n.º 124/2011] de 18 de fevereiro e [Regulamento
+      n.º 188/2015] de 22 de abril.
 notes: []
 language: por
 version:

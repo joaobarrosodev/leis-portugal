@@ -23,6 +23,15 @@ publication:
   pages: 27781 - 27785
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/199000000/2778127785.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte ao da sua publicitação nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 506 - 519
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/056000000/0050600519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-21'
+entry_into_force:
+  date: '2023-03-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

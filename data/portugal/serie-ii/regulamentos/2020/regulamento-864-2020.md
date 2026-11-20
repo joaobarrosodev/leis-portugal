@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 164 - 182
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/199000000/0016400182.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-14'
+entry_into_force:
+  date: '2020-10-14'
+  rule: no dia seguinte ao da sua publicação no Diário da República e aplica-se ao acesso e ingresso por titulares dos cursos
+    de dupla certificação de nível secundário e cursos artísticos especializados nos c
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31920-(3) a 31920-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/211000001/0000300006.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: no dia 1 de Janeiro de 2008
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

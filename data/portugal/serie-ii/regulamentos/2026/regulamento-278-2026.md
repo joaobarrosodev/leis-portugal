@@ -23,6 +23,16 @@ publication:
   pages: 645 - 656
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/057000000/0064500656.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar no edifício da sede da Junta de Freguesia de
+    São Julião da Figueira da Foz e publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

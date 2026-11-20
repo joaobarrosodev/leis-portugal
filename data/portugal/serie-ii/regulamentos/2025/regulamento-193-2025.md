@@ -23,6 +23,16 @@ publication:
   pages: 434 - 444
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/024000000/0043400444.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião de Executivo da Junta de Freguesia e pela Aprovação em reunião da Assembleia de Freguesia
+    de Moinhos da Gândara e após a sua publicação nos termos legais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

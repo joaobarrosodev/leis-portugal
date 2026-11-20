@@ -23,6 +23,15 @@ publication:
   pages: 12104 - 12107
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/072000000/1210412107.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2016/2017, aplicando-se a todos os estudantes que se matriculem ou inscrevam nesse ano letivo
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

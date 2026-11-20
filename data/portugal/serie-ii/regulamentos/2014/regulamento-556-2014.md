@@ -23,8 +23,24 @@ publication:
   pages: 31728 - 31734
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/243000000/3172831734.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107541030:por#art-30'
+    detail: É revogado o [Regulamento n.º 556/2014], publicado no Diário da República, 2.a serie, n.º 243, de 17 de dezembro
+      de 2014, alterado pelo Despacho RT.47/2015, de 12 de junho de 2015.
 notes: []
 language: por
 version:

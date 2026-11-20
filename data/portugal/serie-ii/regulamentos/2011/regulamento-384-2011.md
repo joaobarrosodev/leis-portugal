@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 26232 - 26235
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/118000000/2623226235.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-21'
+entry_into_force:
+  date: '2011-06-21'
+  rule: após a sua publicação no Diário da República, sendo igualmente publicitado nas instalações da Câmara Municipal de
+    Vila Real de Santo António e no sítio electrónico do Município
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

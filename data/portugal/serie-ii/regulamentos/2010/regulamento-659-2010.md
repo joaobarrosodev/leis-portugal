@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 41275 - 41296
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/148000000/4127541296.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-01'
+entry_into_force:
+  date: '2010-09-01'
+  rule: 30 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-113
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

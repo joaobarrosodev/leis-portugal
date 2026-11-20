@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28198 - 28205
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/177000000/2819828205.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-24'
+entry_into_force:
+  date: '2016-09-24'
+  rule: 'dez dias após a data da sua publicação através de edital nos lugares de estilo e no sítio do Município de Braga na
+    Internet, nos termos e para os efeitos do disposto no artigo 56.º, do referido anexo '
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

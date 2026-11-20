@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 214 - 221
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/080000000/0021400221.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-24'
+entry_into_force:
+  date: '2026-04-24'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: imediatos
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

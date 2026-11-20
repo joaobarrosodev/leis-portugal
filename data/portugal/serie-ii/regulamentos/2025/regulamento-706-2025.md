@@ -24,6 +24,16 @@ publication:
   pages: 258 - 264
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/106000000/0025800264.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua publicitação nos termos legais, revogando qualquer outro que não esteja conforme às normas e princípios
+    nele contidos
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

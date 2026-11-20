@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 10144 - 10154
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/058000000/1014410154.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-24'
+entry_into_force:
+  date: '2016-03-24'
+  rule: no dia imediato ao da sua publicação, a sua publicação em edital, a afixar no edifício da sede da Junta de Freguesia,
+    após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

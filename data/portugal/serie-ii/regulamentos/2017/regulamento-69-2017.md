@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1973 - 1978
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/019000000/0197301978.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-27'
+entry_into_force:
+  date: '2017-01-27'
+  rule: no dia imediato ao da sua publicação no Diário da República, podendo ser interpretado, modificado e suspenso, pela
+    Assembleia Municipal de Vila Nova de Gaia, mediante proposta da Câmara Municipal
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 13723 - 13727
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/086000000/1372313727.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação nos órgãos competentes e devida publicitação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

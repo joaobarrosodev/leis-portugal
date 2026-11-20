@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 58 - 60
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/293153000/0005800060.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-01-15'
+entry_into_force:
+  date: '2005-01-15'
+  rule: 30 dias após a sua publicação definitiva no Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

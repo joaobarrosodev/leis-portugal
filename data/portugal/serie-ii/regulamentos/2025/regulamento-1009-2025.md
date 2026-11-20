@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 413 - 427
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/158000000/0041300427.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-20'
+entry_into_force:
+  date: '2025-08-20'
+  rule: no dia seguinte ao da sua publicação no Portal Municipal, com publicitação nos editais consuetudinários
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

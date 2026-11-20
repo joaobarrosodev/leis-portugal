@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 419 - 421
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/151000000/0041900421.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-04'
+entry_into_force:
+  date: '2023-08-04'
+  rule: após a sua publicação nos termos legais, ficando revogadas todas as disposições regulamentares que com ele estejam
+    em contradição, sem prejuízo do disposto no artigo 77.º
+  method: clausula
+  article: art-80
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

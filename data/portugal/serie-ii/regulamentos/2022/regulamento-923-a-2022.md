@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 355-(2) a 355-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/193000001/0000200014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-07'
+entry_into_force:
+  date: '2022-10-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

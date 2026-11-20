@@ -23,6 +23,16 @@ publication:
   pages: 921 - 925
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/168000000/0092100925.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois da sua aprovação pelo Executivo da Junta de Freguesia e pela Assembleia de Freguesia seguindo-se quinze dias
+    após a sua publicitação nos termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

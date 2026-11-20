@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 99 - 101
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/142102000/0009900101.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-07-27'
+entry_into_force:
+  date: '2005-07-27'
+  rule: no dia seguinte ao da respectiva publicação em Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

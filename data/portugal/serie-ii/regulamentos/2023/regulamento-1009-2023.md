@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 518 - 520
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/174000000/0051800520.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-08'
+entry_into_force:
+  date: '2023-09-08'
+  rule: no dia seguinte à sua publicação nos termos legais e será igualmente objeto de publicitação na página oficial da internet
+    do Município
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

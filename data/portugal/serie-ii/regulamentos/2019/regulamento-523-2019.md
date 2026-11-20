@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18282 - 18283
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/119000000/1828218283.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-30'
+entry_into_force:
+  date: '2019-06-30'
+  rule: 5 dias após a sua publicação, nos termos da Lei
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

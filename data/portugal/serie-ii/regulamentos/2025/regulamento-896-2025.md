@@ -23,6 +23,16 @@ publication:
   pages: 755 - 757
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/138000000/0075500757.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, sendo que os seus efeitos jurídicos retroagem ao
+    dia 1 de janeiro de 2025, no que respeita a efeitos favoráveis aos beneficiários e se
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 32426 - 32432
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/233000000/3242632432.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-05'
+entry_into_force:
+  date: '2018-12-05'
+  rule: no dia seguinte à sua publicação no Diário da República, revogando o Regulamento de Avaliação dos Docentes da FBAUP,
+    n.º 399/2016, publicado em DR, 2.ª série, n.º 79, de 22 de abril de 2016
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

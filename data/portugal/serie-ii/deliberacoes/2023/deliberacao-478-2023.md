@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/088000000/0013400134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:214850039:por#n-4'
+    detail: 4 - Por força da presente deliberação é revogada a [Deliberação n.º 478/2023], 8 de maio.
 notes: []
 language: por
 version:

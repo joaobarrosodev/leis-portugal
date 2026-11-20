@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14324 - 14325
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/097000000/1432414325.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-01'
+entry_into_force:
+  date: '2018-06-01'
+  rule: a 1 de junho de 2018 e sendo publicado em edital, a afixar nos lugares de estilo da freguesia
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

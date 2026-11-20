@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 39 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/197130000/0003900045.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-27'
+entry_into_force:
+  date: '2003-08-27'
+  rule: na data da respectiva publicação, considerando-se revogado o anterior Regulamento do Serviço de Abastecimento de Água
+    ao Concelho de Mira
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

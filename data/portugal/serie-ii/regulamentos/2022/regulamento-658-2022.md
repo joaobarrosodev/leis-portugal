@@ -23,6 +23,15 @@ publication:
   pages: 332 - 336
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/137000000/0033200336.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias úteis após a sua publicação via Edital nos locais de estilo, e na página eletrónica da Câmara Municipal
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 2128 - 2130
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/009000000/0212802130.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias apôs a sua publicação e afixação em editais a anunciar a sua aprovação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

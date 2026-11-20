@@ -24,9 +24,27 @@ publication:
   supplement: null
   pages: 367 - 371
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/134000000/0036700371.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-14'
+entry_into_force:
+  date: '2022-07-14'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: para todos os cursos/formações não conferentes de grau incluídos no projeto da U.Porto ao abrigo do
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:911926221:por#art-15'
+    detail: É revogado o [Regulamento n.º 634/2022] (Regulamento para a atribuição de bolsas de incentivo à (re)qualificação
+      e atualização de competências no âmbito das formações não conferentes de grau da Universidade do Porto, ao abrigo do
+      Programa
 notes: []
 language: por
 version:

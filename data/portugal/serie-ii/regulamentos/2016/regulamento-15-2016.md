@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 591 - 592
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/004000000/0059100592.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-08'
+entry_into_force:
+  date: '2016-01-08'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

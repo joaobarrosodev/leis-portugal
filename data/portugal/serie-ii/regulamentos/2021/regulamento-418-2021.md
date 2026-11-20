@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 332 - 335
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/094000000/0033200335.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-15'
+entry_into_force:
+  date: '2021-05-15'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:212003124:por#texto'
+    detail: É revogado o [Regulamento n.º 418/2021], de 14 de maio.
 notes: []
 language: por
 version:

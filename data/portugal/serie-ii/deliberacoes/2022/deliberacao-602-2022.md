@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 249 - 265
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/097000000/0024900265.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-01'
+entry_into_force:
+  date: '2022-03-01'
+  rule: em 1 de março de 2022, considerando-se ratificados todos os atos praticados no seu âmbito, desde aquela data até à
+    data da respetiva publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

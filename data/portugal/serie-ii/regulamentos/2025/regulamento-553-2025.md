@@ -23,6 +23,16 @@ publication:
   pages: 185 - 212
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/087000000/0018500212.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: relativamente aos procedimentos de inscrição, no dia seguinte ao da respetiva publicação no Diário da República, após
+    homologação pelo membro do Governo responsável pela área das finanças
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

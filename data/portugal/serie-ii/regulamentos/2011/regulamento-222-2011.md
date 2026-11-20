@@ -23,6 +23,15 @@ publication:
   pages: 15624 - 15632
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/066000000/1562415632.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias sobre a sua publicação, por meio de editais, nos locais do costume
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

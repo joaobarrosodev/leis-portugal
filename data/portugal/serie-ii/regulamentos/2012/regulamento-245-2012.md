@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23338 - 23342
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/127000000/2333823342.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-07-18'
+entry_into_force:
+  date: '2012-07-18'
+  rule: 15 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

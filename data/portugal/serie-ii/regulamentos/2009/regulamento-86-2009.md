@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6717 - 6720
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/033000000/0671706720.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-02-18'
+entry_into_force:
+  date: '2009-02-18'
+  rule: no dia seguinte ao da publicação na 2.ª série do DR
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

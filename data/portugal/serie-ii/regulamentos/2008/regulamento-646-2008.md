@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 50764 - 50772
   pdf_url: https://files.diariodarepublica.pt/2s/2008/12/245000000/5076450772.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-03'
+entry_into_force:
+  date: '2009-01-03'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

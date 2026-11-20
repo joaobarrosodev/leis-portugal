@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8885 - 8885
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/046000000/0888508885.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-07'
+entry_into_force:
+  date: '2009-03-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,23 @@ publication:
   pages: 332-(4) a 332-(16)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/125000002/0000400016.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à data da publicação no Diário da República
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:220218645:por#art-5'
+    detail: É revogado o [Regulamento n.º 596-B/2021], publicado no Diário da República, 2.ª série, n.º 125, de 30 de junho.
 notes: []
 language: por
 version:

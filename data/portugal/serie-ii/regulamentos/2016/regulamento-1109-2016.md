@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 36886 - 36887
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/241000000/3688636887.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-20'
+entry_into_force:
+  date: '2016-12-20'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:901536140:por#art-9'
+    detail: É revogado o [Regulamento n.º 1109/2016], de 19 de dezembro, alterado pelo [Regulamento n.º 831/2021], de 19 de
+      setembro.
 notes: []
 language: por
 version:

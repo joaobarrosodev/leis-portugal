@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 557 - 567
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/057000000/0055700567.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-22'
+entry_into_force:
+  date: '2025-03-22'
+  rule: no dia seguinte à sua publicação no Diário da República, aplicando-se a todas as alienações de lotes existentes na
+    Área de Acolhimento Empresarial da Portela de Santa Eulália realizadas após a sua ent
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

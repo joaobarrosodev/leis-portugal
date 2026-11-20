@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9261 - 9263
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/067000000/0926109263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-04'
+entry_into_force:
+  date: '2014-04-04'
+  rule: na data da sua publicação e terá a duração de dois anos desde essa data
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

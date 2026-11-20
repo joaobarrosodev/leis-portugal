@@ -23,6 +23,16 @@ publication:
   pages: 548 - 562
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/081000000/0054800562.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em Reunião de Junta de Freguesia, nos termos do disposto no artigo 16.º, n.º 1, h)
+    do Regime Jurídico das Autarquias Locais
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

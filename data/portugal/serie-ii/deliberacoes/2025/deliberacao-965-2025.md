@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/142000000/0022900229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:989598494:por#n-5'
+    detail: a [Deliberação n.º 657/2023], de 27 de junho, a [Deliberação n.º 504/2024], de 17 de abril, a [Deliberação n.º
+      835/2024], de 27 de junho e a [Deliberação n.º 965/2025], de 25 de julho.
 notes: []
 language: por
 version:

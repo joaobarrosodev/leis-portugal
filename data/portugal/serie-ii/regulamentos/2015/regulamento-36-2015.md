@@ -23,8 +23,24 @@ publication:
   pages: 2721 - 2722
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/019000000/0272102722.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:115369000:por#art-13'
+    detail: Fica revogado o [Regulamento n.º 36/2015], publicado no Diário da República n.º 19 da 2.ª série de 28 de janeiro
+      de 2015.
 notes: []
 language: por
 version:

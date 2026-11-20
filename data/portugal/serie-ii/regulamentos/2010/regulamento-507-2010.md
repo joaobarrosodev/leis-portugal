@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30930 - 30935
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/108000000/3093030935.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-05'
+entry_into_force:
+  date: '2010-06-05'
+  rule: no dia seguinte à sua publicação no Diário da República, após a devida aprovação pelo Reitor, nos termos do n.º 3
+    do artigo 52.º dos Estatutos
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

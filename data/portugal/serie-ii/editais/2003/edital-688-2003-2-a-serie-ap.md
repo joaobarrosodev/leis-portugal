@@ -23,6 +23,15 @@ publication:
   pages: 78 - 81
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/203134000/0007800081.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

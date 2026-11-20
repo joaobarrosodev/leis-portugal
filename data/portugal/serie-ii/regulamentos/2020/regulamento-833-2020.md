@@ -25,6 +25,15 @@ publication:
   pages: 503 - 577
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/192000000/0050300577.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 5 dias úteis após a sua aprovação pelo Órgão Competente
+  method: clausula
+  article: art-177
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

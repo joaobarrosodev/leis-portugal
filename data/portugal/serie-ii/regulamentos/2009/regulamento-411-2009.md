@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 41287 - 41288
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/197000000/4128741288.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-13'
+entry_into_force:
+  date: '2009-10-13'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo ainda publicado em edital
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

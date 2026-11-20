@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8432 - 8434
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/038000000/0843208434.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-11'
+entry_into_force:
+  date: '2010-03-11'
+  rule: 15 dias após a data da sua publicação nos termos legais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

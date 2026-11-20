@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30938 - 30940
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/198000000/3093830940.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-10-29'
+entry_into_force:
+  date: '2013-10-29'
+  rule: quinze dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

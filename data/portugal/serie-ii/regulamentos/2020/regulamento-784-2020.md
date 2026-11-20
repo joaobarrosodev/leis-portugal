@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 432 - 445
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/182000000/0043200445.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-18'
+entry_into_force:
+  date: '2020-09-18'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: relativamente a todas as casas de habitação não permanente que se encontrem incluídas no levantamento referido
+    no n.º 2 do artigo 2.º do presente Regulamento
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

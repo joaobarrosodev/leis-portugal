@@ -23,6 +23,15 @@ publication:
   pages: 189 - 195
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/205000000/0018900195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 5 dias após a sua publicação nos termos da Lei
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: para o ano letivo 2020/2021, inclusive, e anos letivos seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

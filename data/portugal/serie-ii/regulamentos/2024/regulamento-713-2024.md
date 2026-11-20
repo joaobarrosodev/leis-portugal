@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 845 - 852
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/126000000/0084500852.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-17'
+entry_into_force:
+  date: '2024-07-17'
+  rule: 15 dias após a sua publicação no Diário da República e em edital a afixar no edifício da sede da União de Freguesias
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 157 - 162
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/187000000/0015700162.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-26'
+entry_into_force:
+  date: '2026-09-26'
+  rule: no dia seguinte à sua publicação no Diário da República, após a devida aprovação pelo Reitor, nos termos do n.º 2
+    do artigo 40.º-A dos Estatutos
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

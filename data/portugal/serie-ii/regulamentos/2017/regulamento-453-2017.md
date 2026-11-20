@@ -23,6 +23,16 @@ publication:
   pages: 18124 - 18126
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/160000000/1812418126.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Conselho de Gestão da FMDUL, devendo ser objeto de publicitação no sítio
+    eletrónico da FMDUL e adequada divulgação junto dos potenciais utilizadores
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

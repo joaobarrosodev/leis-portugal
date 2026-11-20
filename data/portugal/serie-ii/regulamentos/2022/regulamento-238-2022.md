@@ -23,6 +23,16 @@ publication:
   pages: 230 - 235
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/049000000/0023000235.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após homologação pelo Reitor, e no dia seguinte ao da sua publicação no Diário da República, sendo revogadas todas
+    as normas que o contrariem
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

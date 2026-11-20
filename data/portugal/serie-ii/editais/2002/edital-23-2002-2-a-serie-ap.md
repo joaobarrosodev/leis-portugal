@@ -23,6 +23,15 @@ publication:
   pages: 10 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/024007000/0001000012.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: oito dias após a sua publicitação
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

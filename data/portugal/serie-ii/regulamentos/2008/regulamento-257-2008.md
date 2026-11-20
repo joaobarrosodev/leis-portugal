@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 21911 - 21920
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/094000000/2191121920.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-05-30'
+entry_into_force:
+  date: '2008-05-30'
+  rule: 15 dias após a sua publicação no Diário da República, e aplica-se aos processos iniciados após a sua entrada em vigor
+    e aos processos pendentes
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

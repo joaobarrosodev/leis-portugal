@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 355 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/132000000/0035500359.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-09'
+entry_into_force:
+  date: '2021-07-09'
+  rule: após a sua publicação do Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

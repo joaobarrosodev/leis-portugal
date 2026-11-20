@@ -23,6 +23,15 @@ publication:
   pages: 29983 - 29985
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/136000000/2998329985.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no sexto dia útil após a sua publicitação nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

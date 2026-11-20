@@ -23,6 +23,16 @@ publication:
   pages: 24653 - 24655
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/106000000/2465324655.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação na Segunda Série do Diário da República, precedendo apreciação pública e
+    audiência prévia dos interessados, nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

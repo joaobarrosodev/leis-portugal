@@ -23,6 +23,15 @@ publication:
   pages: 530 - 541
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/218000000/0053000541.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em Assembleia de Freguesia e publicitação nos termos legais
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

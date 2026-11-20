@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28512 - 28514
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/204000000/2851228514.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-24'
+entry_into_force:
+  date: '2018-10-24'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se aos atos académicos relativos ao ano letivo
+    2018/2019
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

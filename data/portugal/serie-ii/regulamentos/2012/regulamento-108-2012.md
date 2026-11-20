@@ -23,8 +23,23 @@ publication:
   pages: 8774 - 8775
   pdf_url: https://files.diariodarepublica.pt/2s/2012/03/049000000/0877408775.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua homologação pelo Reitor
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:122418981:por#art-15'
+    detail: 3) É revogado o [Regulamento n.º 108/2012], de 8 de março.
 notes: []
 language: por
 version:

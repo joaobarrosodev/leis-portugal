@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15900 - 15912
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/098000000/1590015912.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-06'
+entry_into_force:
+  date: '2019-06-06'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-90
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

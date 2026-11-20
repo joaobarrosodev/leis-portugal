@@ -23,6 +23,16 @@ publication:
   pages: 681 - 684
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/207000000/0068100684.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, após publicação no Diário da República, edital afixado
+    nos locais de estilo da Freguesa e no sítio da Internet da Junta de Freguesia de
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

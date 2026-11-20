@@ -23,6 +23,15 @@ publication:
   pages: 16480 - 16482
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/151000000/1648016482.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato ao da sua homologação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

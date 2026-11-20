@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19597 - 19656
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/140000000/1959719656.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-05'
+entry_into_force:
+  date: '2015-08-05'
+  rule: quinze dias após a respetiva publicação em 2.ª série de Diário da República
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

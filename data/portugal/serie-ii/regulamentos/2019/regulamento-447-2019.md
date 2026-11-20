@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 15892 - 15896
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/098000000/1589215896.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-01'
+entry_into_force:
+  date: '2019-04-01'
+  rule: no dia 1 de abril de 2019, sem prejuízo do previsto nos protocolos a celebrar com os operadores de serviço público
+    de transportes
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

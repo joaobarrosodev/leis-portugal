@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22220 - 22241
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/081000000/2222022241.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-28'
+entry_into_force:
+  date: '2010-04-28'
+  rule: no dia imediatamente a seguir à sua publicação em Edital, no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

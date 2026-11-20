@@ -23,6 +23,15 @@ publication:
   pages: 27823 - 27825
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/199000000/2782327825.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicitação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

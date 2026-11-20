@@ -23,6 +23,15 @@ publication:
   pages: 27182 - 27184
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/148000000/2718227184.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Presidente da FMH, depois de ouvido o Conselho Científico
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

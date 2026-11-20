@@ -23,6 +23,15 @@ publication:
   pages: 15455 - 15458
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/142000000/1545515458.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do dia seguinte à data da sua aprovação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

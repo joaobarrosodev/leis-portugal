@@ -23,6 +23,15 @@ publication:
   pages: 21357 - 21359
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/095000000/2135721359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2011-2012, inclusive
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 34665 - 34671
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/230000000/3466534671.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação nos termos legais, e revogam qualquer outro que tenha vigorado até à sua entrada em vigor
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

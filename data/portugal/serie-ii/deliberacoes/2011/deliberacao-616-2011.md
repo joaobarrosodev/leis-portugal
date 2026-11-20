@@ -23,6 +23,16 @@ publication:
   pages: 10481 - 10482
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/043000000/1048110482.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente a seguir à sua aprovação e é publicado no Diário da República e no sítio e locais de estilo do
+    ISCTE-IUL
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

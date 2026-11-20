@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 18734 - 18749
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/123000000/1873418749.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-07-31'
+entry_into_force:
+  date: '2019-07-31'
+  rule: trinta dias após a data da respetiva publicação no Diário da República, considerando-se revogada toda a legislação
+    incompatível com o disposto no presente Regulamento
+  method: clausula
+  article: art-117
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

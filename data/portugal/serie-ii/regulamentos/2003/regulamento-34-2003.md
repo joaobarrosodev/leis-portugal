@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 11702 - 11706
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/178000000/1170211706.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-05'
+entry_into_force:
+  date: '2003-08-05'
+  rule: 'no dia seguinte à sua publicação no Diário da República, devendo as empresas de seguros dar cumprimento às disposições
+    relativas à definição, implementação e controlo das políticas de investimento, o '
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

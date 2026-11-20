@@ -23,6 +23,15 @@ publication:
   pages: 287 - 288
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/196000000/0028700288.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a sua aprovação em Assembleia de Freguesia e divulgação através de Edital, e publicação no Diário da República
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

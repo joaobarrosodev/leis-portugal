@@ -23,6 +23,15 @@ publication:
   pages: 13134 - 13134
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/078000000/1313413134.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da presente data, podendo ser revogada ou alterada pelo plenário a todo o tempo
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

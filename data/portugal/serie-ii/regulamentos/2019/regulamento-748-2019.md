@@ -23,8 +23,26 @@ publication:
   pages: 176 - 183
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/186000000/0017600183.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da respetiva publicitação no Diário da República, e revoga o anterior regulamento publicado no
+    Diário da República 2.ª série, n.º 178, de 13 de setembro de 2012
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:152637715:por#art-25'
+    detail: O presente regulamento, uma vez homologado pelo Reitor da U.Porto, entra em vigor no dia seguinte ao da respetiva
+      publicação no Diário da República, e revoga o [Regulamento n.º 748/2019], publicado no Diário da República 2.ª série,
+      n.º 186, de 27 de setembro.
 notes: []
 language: por
 version:

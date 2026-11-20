@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 5310 - 5312
   pdf_url: https://files.diariodarepublica.pt/2s/2014/02/036000000/0531005312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-02-21'
+entry_into_force:
+  date: '2014-02-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:117621175:por#art-13'
+    detail: O presente regulamento revoga o [Regulamento n.º 77/2014], de 20 de fevereiro "Creditação de Formação e de Experiência
+      Profissional" da Universidade da Madeira, publicado no Diário da República, 2.ª série, n.º 36.
 notes: []
 language: por
 version:

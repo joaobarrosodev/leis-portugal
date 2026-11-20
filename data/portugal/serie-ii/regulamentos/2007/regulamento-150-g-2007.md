@@ -23,6 +23,15 @@ publication:
   pages: 220 - 222
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/133000002/0022000222.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias úteis sobre a sua publicitação e publicação nos termos legais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

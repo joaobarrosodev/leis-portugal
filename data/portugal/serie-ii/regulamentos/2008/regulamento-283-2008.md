@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23892 - 23903
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/102000000/2389223903.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-06-12'
+entry_into_force:
+  date: '2008-06-12'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

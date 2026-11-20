@@ -24,6 +24,15 @@ publication:
   pages: 359 - 363
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/150000000/0035900363.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

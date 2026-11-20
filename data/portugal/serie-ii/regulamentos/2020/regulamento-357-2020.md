@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/071000000/0017100176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:924672511:por#art-15'
+    detail: O presente regulamento revoga o [Regulamento n.º 357/2020], de 9 de abril.
 notes: []
 language: por
 version:

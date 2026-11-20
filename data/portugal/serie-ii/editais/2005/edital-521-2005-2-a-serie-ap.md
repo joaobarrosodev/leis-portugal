@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 48 - 67
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/172123000/0004800067.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-08'
+entry_into_force:
+  date: '2005-09-08'
+  rule: no dia seguinte ao da publicação no Diário da República, aplicando-se a todos os pedidos de apresentados a partir
+    desta data
+  method: clausula
+  article: art-111
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

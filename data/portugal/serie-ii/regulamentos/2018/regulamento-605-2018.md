@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 25660 - 25663
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/180000000/2566025663.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-03'
+entry_into_force:
+  date: '2018-10-03'
+  rule: no prazo de quinze dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

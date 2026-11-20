@@ -23,6 +23,15 @@ publication:
   pages: 20614 - 20635
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/145000000/2061420635.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis após a sua publicitação, nos termos da lei
+  method: clausula
+  article: art-93
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

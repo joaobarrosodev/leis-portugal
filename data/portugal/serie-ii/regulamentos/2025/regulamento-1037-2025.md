@@ -23,6 +23,15 @@ publication:
   pages: 871 - 877
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/164000000/0087100877.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação, nos termos gerais
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

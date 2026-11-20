@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 78 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2001/04/078039000/0007800078.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-02'
+entry_into_force:
+  date: '2001-05-02'
+  rule: 30 dias após publicação do presente edital no Diário da República, ficando porém o cumprimento das disposições sobre
+    o trânsito e estacionamento dependentes da colocação da respectiva sinalização, que
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

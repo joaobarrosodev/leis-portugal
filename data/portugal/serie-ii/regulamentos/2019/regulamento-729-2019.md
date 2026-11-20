@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 285 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/179000000/0028500300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-23'
+entry_into_force:
+  date: '2019-09-23'
+  rule: cinco dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

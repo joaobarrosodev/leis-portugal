@@ -23,6 +23,15 @@ publication:
   pages: 19938-(10) a 19938-(19)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/074000001/0001000019.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis, contados do dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-70
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/022000000/0030100322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1008945583:por#art-37'
+    detail: É revogado o [Regulamento n.º 77/2020], Regulamento de Avaliação do Desempenho de Docentes do ISCTE, publicado
+      no Diário da República, 2.ª série n.º 22, de 31 de janeiro.
 notes: []
 language: por
 version:

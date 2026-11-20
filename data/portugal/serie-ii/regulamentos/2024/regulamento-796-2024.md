@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 564 - 571
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/142000000/0056400571.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-07-25'
+entry_into_force:
+  date: '2024-07-25'
+  rule: no dia seguinte da sua publicação no Diário da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

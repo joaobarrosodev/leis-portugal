@@ -23,6 +23,15 @@ publication:
   pages: 2699 - 2702
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/038000000/0269902702.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da homologação do reitor após a sua aprovação pelo senado da Universidade da Madeira
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

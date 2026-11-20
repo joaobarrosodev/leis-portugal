@@ -23,6 +23,16 @@ publication:
   pages: 42 - 45
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/106050000/0004200045.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação, devendo ser afixado nos Paços do Município e no acesso principal do Complexo das
+    Piscinas Municipais
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

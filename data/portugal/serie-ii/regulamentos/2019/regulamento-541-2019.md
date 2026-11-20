@@ -23,6 +23,15 @@ publication:
   pages: 18892 - 18923
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/125000000/1889218923.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2018/2019
+  method: clausula
+  article: art-159
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 181 - 194
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/020000000/0018100194.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República, devendo ser, igualmente, publicitado no
+    Boletim Municipal e nas páginas da Internet e Intranet da Câmara Municipal da Amadora
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

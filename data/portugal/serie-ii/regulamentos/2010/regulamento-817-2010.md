@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 53698 - 53700
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/209000000/5369853700.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-27'
+entry_into_force:
+  date: '2010-10-27'
+  rule: no dia da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

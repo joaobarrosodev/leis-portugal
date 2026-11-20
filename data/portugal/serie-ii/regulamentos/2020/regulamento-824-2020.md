@@ -23,6 +23,15 @@ publication:
   pages: 309 - 313
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/191000000/0030900313.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pelo Presidente do IPV e aplica-se ao ano letivo de 2020-2021 e seguintes
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

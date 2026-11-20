@@ -23,6 +23,15 @@ publication:
   pages: 10928 - 10931
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/075000000/1092810931.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2017/2018
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

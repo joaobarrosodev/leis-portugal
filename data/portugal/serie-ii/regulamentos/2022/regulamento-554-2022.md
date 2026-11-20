@@ -23,6 +23,15 @@ publication:
   pages: 177 - 181
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/114000000/0017700181.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua homologação pelo Reitor da Universidade do Algarve e publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

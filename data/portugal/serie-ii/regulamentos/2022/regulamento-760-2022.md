@@ -23,6 +23,16 @@ publication:
   pages: 328 - 333
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/152000000/0032800333.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo nele fixado, podendo também ser consultado na Internet, no sítio institucional do Município de Leiria, em
+    www.cm-leiria.pt, ou no Balcão Único de Atendimento da Câmara Municipal de Leiria
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

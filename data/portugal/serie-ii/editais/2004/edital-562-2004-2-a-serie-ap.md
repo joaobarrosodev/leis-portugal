@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 88 - 90
   pdf_url: https://files.diariodarepublica.pt/2s/2004/08/200105000/0008800090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-09'
+entry_into_force:
+  date: '2004-09-09'
+  rule: 15 dias após a sua publicação e revoga as taxas anteriormente aprovadas
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

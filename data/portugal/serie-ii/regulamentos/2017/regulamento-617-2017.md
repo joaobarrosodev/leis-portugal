@@ -23,6 +23,15 @@ publication:
   pages: 27949 - 27950
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/238000000/2794927950.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

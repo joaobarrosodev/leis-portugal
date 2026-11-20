@@ -23,6 +23,15 @@ publication:
   pages: 18230-(298) a 18230-(306)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/122000001/0029800306.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos que sejam os trâmites legais exigidos, após a sua publicação no Diário da República
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

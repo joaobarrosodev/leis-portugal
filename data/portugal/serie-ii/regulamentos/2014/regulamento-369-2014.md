@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20919 - 20922
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/154000000/2091920922.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-08-13'
+entry_into_force:
+  date: '2014-08-13'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

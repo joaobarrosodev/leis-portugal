@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 456 - 458
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/173000000/0045600458.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-05'
+entry_into_force:
+  date: '2020-09-05'
+  rule: no dia imediato à sua publicação no Diário da República, e serão revogadas todas as disposições previstas no anterior
+    regulamento
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

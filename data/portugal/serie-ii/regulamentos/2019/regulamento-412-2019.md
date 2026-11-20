@@ -23,6 +23,15 @@ publication:
   pages: 14267 - 14268
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/089000000/1426714268.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República (artigo 139.º do CPA)
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

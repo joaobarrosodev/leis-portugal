@@ -23,6 +23,16 @@ publication:
   pages: 5335-5339
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/05/09/183231679.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na primeira reunião do Conselho posterior à sua aprovação nos termos do artigo 6.º da Lei n.º 33/98, de 18 de julho,
+    na sua redação atual
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

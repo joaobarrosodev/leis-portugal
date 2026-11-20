@@ -61,6 +61,22 @@ no export nem no índice.
 - **Os ficheiros de `reports/inventario-camada-1/`** foram regenerados sobre o índice publicado (`indice-fase1.sqlite`) e
   o sitemap do DRE de 20/11, com o export de antes da recolha da linha 5.
 
+## Atualização de 20/11/2026 (tarde): as linhas 2, 4 e 11 têm correção
+
+Descrição e números em `rag/README.md`, «Nomes de códigos, texto em vigor noutro registo e registos repetidos». Medido
+só com BM25 e referências, sobre uma cópia do índice publicado:
+
+- **Linha 2:** o índice já liga 68 das 71 obras em vigor. Faltava responder a «artigo N.º do <diploma original>» com o
+  texto fechado: agora a pesquisa segue a ligação, pelo número ou pela epígrafe quando a numeração mudou. Em 211
+  sondas, chega ao artigo certo em 5 → 202.
+- **Linha 4:** dos 39 nomes centrais, chegam ao artigo pedido 17 → 36 e ao registo 26 → 37. Faltam o Código Comercial
+  (não está no acervo), o CPT (nome do anexo lido com o primeiro título) e o Registo Civil (o DRE dá o de 1967 como em
+  vigor).
+- **Linha 11:** 7 pares ligados ao principal; a Lei n.º 28/82 responde pelo consolidado. O DR 31/83 fica de fora:
+  os dois registos têm estados contraditórios.
+- Nas 1.414 perguntas com fonte: 853 → 852 em 1.º, nenhuma sobe e uma desce. A aplicação 0.1.1 só ganha a linha 11.
+  As secções abaixo são a medição de antes e ficam como registo.
+
 ## Resumo, por ordem de retorno
 
 | # | Falha | Tipo | Quantos | Verificado ou teto | Esforço | Valor para o produto |

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5210 - 5214
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/033000000/0521005214.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-02'
+entry_into_force:
+  date: '2018-03-02'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 37549 - 37558
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/247000000/3754937558.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-11'
+entry_into_force:
+  date: '2017-01-11'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

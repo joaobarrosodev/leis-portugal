@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 27163 - 27171
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/148000000/2716327171.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-02'
+entry_into_force:
+  date: '2012-08-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República e deverá ser divulgado no portal eletrónico da Ordem e
+    publicado na Revista INGENIUM ou publicação equivalente a nível nacional
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

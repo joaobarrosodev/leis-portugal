@@ -23,6 +23,15 @@ publication:
   pages: 103 - 108
   pdf_url: https://files.diariodarepublica.pt/2s/2002/11/272149000/0010300108.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 do mês seguinte ao da distribuição do Boletim Municipal, em que seja publicado
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

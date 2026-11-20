@@ -24,6 +24,15 @@ publication:
   pages: 19576 - 19578
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/105000000/1957619578.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2012-2013, inclusive
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6522 - 6525
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/038000000/0652206525.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-03-03'
+entry_into_force:
+  date: '2012-03-03'
+  rule: 10 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

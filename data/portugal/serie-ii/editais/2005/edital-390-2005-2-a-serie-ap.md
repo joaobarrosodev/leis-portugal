@@ -23,6 +23,15 @@ publication:
   pages: 57 - 59
   pdf_url: https://files.diariodarepublica.pt/2s/2005/07/127091000/0005700059.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias, a contar da data da sua publicação em Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 196 - 212
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/218000000/0019600212.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República, nos termos do disposto no artigo 140.º do Código
+    de Procedimento Administrativo, sem prejuízo de tal publicação poder ser feita també
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

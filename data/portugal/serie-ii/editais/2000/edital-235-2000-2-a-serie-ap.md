@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 93 - 98
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/140091000/0009300098.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-06-19'
+entry_into_force:
+  date: '2000-06-19'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

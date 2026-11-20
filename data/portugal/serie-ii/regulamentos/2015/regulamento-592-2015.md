@@ -24,6 +24,15 @@ publication:
   pages: 24687 - 24694
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/167000000/2468724694.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para o ingresso no ano letivo de 2015-2016
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

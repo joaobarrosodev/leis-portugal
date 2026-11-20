@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28645 - 28647
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/124000000/2864528647.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-15'
+entry_into_force:
+  date: '2008-07-15'
+  rule: 15 dias após a data da sua publicação nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

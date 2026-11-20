@@ -23,8 +23,24 @@ publication:
   pages: 405 - 429
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/228000000/0040500429.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação nos termos legais
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:875591380:por#art-66'
+    detail: O presente Regulamento revoga o [Regulamento n.º 1147/2022], Regulamento Municipal de Acesso à Habitação, publicado
+      na 2.ª série do Diário da República, n.º 228, em 25-11-2022.
 notes: []
 language: por
 version:

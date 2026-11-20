@@ -23,6 +23,15 @@ publication:
   pages: 80 - 81
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/137078000/0008000081.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado em reunião da Assembleia Municipal e após 15 dias da sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

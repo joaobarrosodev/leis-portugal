@@ -23,6 +23,15 @@ publication:
   pages: 508 - 523
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/097000000/0050800523.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 dias após a sua aprovação em Assembleia Municipal e posterior afixação de edital
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

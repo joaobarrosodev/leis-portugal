@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 10921 - 10923
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/063000000/1092110923.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-01'
+entry_into_force:
+  date: '2016-04-01'
+  rule: no dia seguinte ao da publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:221430548:por#texto'
+    detail: É revogado o [Regulamento n.º 344/2016], publicado no Diário da República, 2.ª série, n.º 63, de 31 de março.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/131084000/0003600041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-06'
+entry_into_force:
+  date: '2000-07-06'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

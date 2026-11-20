@@ -23,6 +23,15 @@ publication:
   pages: 7702 - 7704
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/079000000/0770207704.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

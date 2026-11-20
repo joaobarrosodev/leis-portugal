@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 957 - 959
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/007000000/0095700959.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-15'
+entry_into_force:
+  date: '2012-01-15'
+  rule: 5 dias após a data da sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

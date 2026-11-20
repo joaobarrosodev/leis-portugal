@@ -23,6 +23,16 @@ publication:
   pages: 9797 - 9801
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/062000000/0979709801.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, depois de publicitado nos termos legais, na 2.ª série do Diário
+    da República, nos termos dos artigos 139.º e 140.º do CPA
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

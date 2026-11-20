@@ -23,6 +23,15 @@ publication:
   pages: 45443 - 45448
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/168000000/4544345448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias, após a sua publicitação nos termos legais, revogando todas as regulamentações existentes anteriormente
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

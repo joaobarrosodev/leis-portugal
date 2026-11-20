@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 782 - 788
   pdf_url: https://files.diariodarepublica.pt/2s/2012/01/006000000/0078200788.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-01-10'
+entry_into_force:
+  date: '2012-01-10'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

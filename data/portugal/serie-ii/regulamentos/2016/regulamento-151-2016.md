@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 5035 - 5037
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/029000000/0503505037.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-11'
+entry_into_force:
+  date: '2016-02-11'
+  rule: no dia da sua publicação em Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

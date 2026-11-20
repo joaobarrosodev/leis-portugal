@@ -23,6 +23,15 @@ publication:
   pages: 50 - 52
   pdf_url: https://files.diariodarepublica.pt/2s/2003/10/228148000/0005000052.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias úteis após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

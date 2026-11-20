@@ -23,6 +23,16 @@ publication:
   pages: 216 - 224
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/038000000/0021600224.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Técnico-Científico da ENIDH e é publicado na 2.ª série do Diário da República
+    e no sítio da ENIDH na internet
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

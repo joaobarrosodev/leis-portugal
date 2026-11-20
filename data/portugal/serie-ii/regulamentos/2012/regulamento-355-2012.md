@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28383 - 28387
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/156000000/2838328387.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-18'
+entry_into_force:
+  date: '2012-08-18'
+  rule: cinco dias após a sua publicação e as alterações por ele introduzidas ao Regulamento de liquidação e cobrança de taxas
+    devidas ao ICP-ANACOM são aplicáveis aos processos de lançamento, liquidação e co
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

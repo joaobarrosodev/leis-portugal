@@ -23,6 +23,16 @@ publication:
   pages: 20668 - 20671
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/076000000/2066820671.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos legais, após a sua publicação, de acordo com o preceituado no artigo 91.º da Lei n.º 169/99, de 18 de Setembro
+    e com as alterações introduzidas e republicadas na Lei n.º 5 A/2002 de 11 de J
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

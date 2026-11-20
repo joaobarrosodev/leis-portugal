@@ -23,6 +23,15 @@ publication:
   pages: 308 - 327
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/230000000/0030800327.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do quinto dia seguinte ao da sua publicação por edital e no site institucional do Município de Silves
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

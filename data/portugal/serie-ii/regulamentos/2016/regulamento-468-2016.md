@@ -23,6 +23,15 @@ publication:
   pages: 15399 - 15405
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/095000000/1539915405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 11639 - 11641
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/050000000/1163911641.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação, revogando todas as disposições ou determinações anteriores que disponham em contrário ao
+    agora regulamentado
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

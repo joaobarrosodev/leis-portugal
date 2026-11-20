@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 285-(17) a 285-(30)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/146000002/0001700030.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-30'
+entry_into_force:
+  date: '2021-07-30'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

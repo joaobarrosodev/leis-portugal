@@ -25,7 +25,17 @@ publication:
   supplement: null
   pages: 48197 - 48208
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/236000000/4819748208.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-12-12'
+entry_into_force:
+  date: '2011-12-12'
+  rule: no dia da sua publicação
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

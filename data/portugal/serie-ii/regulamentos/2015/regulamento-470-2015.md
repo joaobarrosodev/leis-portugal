@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20696 - 20712
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/145000000/2069620712.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-12'
+entry_into_force:
+  date: '2015-08-12'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-114
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

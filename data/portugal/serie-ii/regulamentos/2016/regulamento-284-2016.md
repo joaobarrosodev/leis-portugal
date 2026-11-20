@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 9542 - 9557
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/054000000/0954209557.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-01'
+entry_into_force:
+  date: '2016-04-01'
+  rule: 15 dias após a sua publicação no Diário da República, à exceção das disposições relativas à estrutura tarifária, do
+    Artigo 50.º ao Artigo 57.º, as quais
+  method: clausula
+  article: art-76
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

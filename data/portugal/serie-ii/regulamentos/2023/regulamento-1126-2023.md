@@ -23,6 +23,15 @@ publication:
   pages: 168 - 172
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/205000000/0016800172.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: desde 1 de janeiro do ano 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

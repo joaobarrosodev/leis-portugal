@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 210 - 225
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/242000000/0021000225.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-01'
+entry_into_force:
+  date: '2024-01-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação, devendo ser publicado em edital e afixado no edifício dos Paços
+    do Concelho, bem como em todos os serviços da CMP
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

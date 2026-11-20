@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 20812 - 20818
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/140000000/2081220818.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-01'
+entry_into_force:
+  date: '2007-08-01'
+  rule: no 1.º dia do mês seguinte à data da sua publicação
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:2079253:por#art-57'
+    detail: É revogado o [Regulamento n.º 156/2007], publicado no Diário da República, 2.ª série, n.º 140, de 23 de Julho
+      de 2007.
 notes: []
 language: por
 version:

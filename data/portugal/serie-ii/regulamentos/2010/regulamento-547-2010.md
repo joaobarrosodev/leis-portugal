@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34190 - 34203
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/119000000/3419034203.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-22'
+entry_into_force:
+  date: '2010-07-22'
+  rule: trinta dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-97
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

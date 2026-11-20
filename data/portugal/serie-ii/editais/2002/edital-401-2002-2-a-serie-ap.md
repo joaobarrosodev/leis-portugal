@@ -23,6 +23,15 @@ publication:
   pages: 51 - 57
   pdf_url: https://files.diariodarepublica.pt/2s/2002/08/191114000/0005100057.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a publicação em Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

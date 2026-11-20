@@ -23,8 +23,24 @@ publication:
   pages: 23878 - 23881
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/202000000/2387823881.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:121785034:por#art-25'
+    detail: O presente regulamento revoga o [Regulamento n.º 565/2017], publicado na 2.ª série do Diário da República n.º
+      202, de 19 de outubro.
 notes: []
 language: por
 version:

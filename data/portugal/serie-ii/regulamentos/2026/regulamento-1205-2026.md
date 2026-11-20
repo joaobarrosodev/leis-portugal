@@ -23,6 +23,16 @@ publication:
   pages: 288 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/188000000/0028800294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos competentes da Freguesia (Junta e Assembleia de Freguesia) e subsequente publicação
+    oficial no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

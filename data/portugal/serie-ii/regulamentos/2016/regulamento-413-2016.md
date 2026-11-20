@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13462 - 13469
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/082000000/1346213469.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-28'
+entry_into_force:
+  date: '2016-05-28'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

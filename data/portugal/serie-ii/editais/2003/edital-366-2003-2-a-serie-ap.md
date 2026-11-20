@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6 - 23
   pdf_url: https://files.diariodarepublica.pt/2s/2003/05/107070000/0000600023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-06-08'
+entry_into_force:
+  date: '2003-06-08'
+  rule: no 30.º dia após a publicação do edital da deliberação da Assembleia Municipal que o aprovar
+  method: clausula
+  article: art-114
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

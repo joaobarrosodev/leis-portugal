@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 500 - 502
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/093000000/0050000502.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-13'
+entry_into_force:
+  date: '2022-05-13'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: '2021-10-07'
+  effects_rule: a partir de 7 de outubro de 2021
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

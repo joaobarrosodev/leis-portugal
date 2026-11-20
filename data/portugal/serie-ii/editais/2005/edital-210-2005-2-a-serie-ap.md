@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 79 - 81
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/066044000/0007900081.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-05-01'
+entry_into_force:
+  date: '2005-05-01'
+  rule: no dia 1 do mês seguinte ao da data da sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

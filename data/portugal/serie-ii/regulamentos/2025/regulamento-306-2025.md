@@ -24,6 +24,16 @@ publication:
   pages: 259 - 266
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/047000000/0025900266.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos 15 dias úteis imediatos a seguir à sua publicação no Diário da República, data a partir da qual todos os estabelecimentos
+    têm de conformar os respetivos horários de funcionamento e afixá-los nos s
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

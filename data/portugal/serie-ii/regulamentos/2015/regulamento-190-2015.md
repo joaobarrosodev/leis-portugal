@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/079000000/1008710090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1076923206:por#art-12'
+    detail: É revogado o [Regulamento n.º 190/2015], de 23 de abril.
 notes: []
 language: por
 version:

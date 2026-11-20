@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9590 - 9591
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/054000000/0959009591.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-17'
+entry_into_force:
+  date: '2016-03-17'
+  rule: a partir da data da sua publicação, após aprovação, nos termos da lei, pela Junta de Freguesia e pela Assembleia de
+    Freguesia de Avenidas Novas
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

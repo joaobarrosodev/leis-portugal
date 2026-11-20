@@ -23,6 +23,16 @@ publication:
   pages: 10525 - 10526
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/060000000/1052510526.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação nos termos da lei, isto é, por edital afixado nos lugares de estilo durante cinco dos 10 dias subsequentes
+    à tomada da deliberação ou decisão, no sítio da Internet e no boletim da freg
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 753 - 777
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/208000000/0075300777.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

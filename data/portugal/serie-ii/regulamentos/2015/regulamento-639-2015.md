@@ -23,6 +23,15 @@ publication:
   pages: 27349 - 27351
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/185000000/2734927351.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação no Diário da República, nos termos legais
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 432 - 444
   pdf_url: https://files.diariodarepublica.pt/2s/2020/01/013000000/0043200444.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da aprovação pela Assembleia de freguesia e no quinto dia após a sua publicação, nos termos do artigo 139.º
+    e 140.º do Código do Procedimento Administrativo (Lei n.º 4/2015, de 15 de janeiro e
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

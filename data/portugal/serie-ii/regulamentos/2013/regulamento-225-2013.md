@@ -24,6 +24,15 @@ publication:
   pages: 19267 - 19270
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/113000000/1926719270.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil de 2014
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

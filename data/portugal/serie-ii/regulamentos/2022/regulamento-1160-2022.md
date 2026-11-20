@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 369 - 396
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/236000000/0036900396.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-24'
+entry_into_force:
+  date: '2022-12-24'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

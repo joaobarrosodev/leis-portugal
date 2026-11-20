@@ -23,8 +23,24 @@ publication:
   pages: 45966 - 45969
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/223000000/4596645969.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente posterior ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:3480766:por#art-22'
+    detail: 1 - O presente regulamento revoga o [Regulamento n.º 606/2011], publicado na 2.ª série do Diário da República
+      em 21 de novembro de 2011 ("Regulamento Provisório de Inscrição").
 notes: []
 language: por
 version:

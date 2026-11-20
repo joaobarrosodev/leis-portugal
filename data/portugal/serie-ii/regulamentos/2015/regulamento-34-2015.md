@@ -23,8 +23,24 @@ publication:
   pages: 2717 - 2719
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/019000000/0271702719.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:206618670:por#art-3'
+    detail: É revogado o [Regulamento n.º 34/2015], publicada no Diário da República, 2.ª série, n.º 19, de 28 de janeiro
+      de 2015.
 notes: []
 language: por
 version:

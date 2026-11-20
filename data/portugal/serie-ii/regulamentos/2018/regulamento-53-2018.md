@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 2895 - 2901
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/016000000/0289502901.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-24'
+entry_into_force:
+  date: '2018-01-24'
+  rule: no dia seguinte ao da sua publicação no sistema de informação da FEUP, sem prejuízo de posterior publicação no Diário
+    da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

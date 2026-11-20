@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 282 - 297
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/045000000/0028200297.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-03'
+entry_into_force:
+  date: '2023-03-03'
+  rule: após a sua publicação na 2.ª série do Diário da República, e
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: à data da sua aprovação pela Assembleia Municipal e, quando aplicável, pela Fundação Para a Ciência e Tecnologia,
+    I
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

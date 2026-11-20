@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 218 - 224
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/159000000/0021800224.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-20'
+entry_into_force:
+  date: '2025-08-20'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o período de transição, exceto quanto ao disposto nas normas de exceção
 end_of_validity_date: null
 legal_status: unknown
 notes: []

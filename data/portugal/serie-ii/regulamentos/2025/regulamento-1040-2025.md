@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 192 - 196
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/167000000/0019200196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-16'
+entry_into_force:
+  date: '2025-09-16'
+  rule: no décimo quinto dia após ao da sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

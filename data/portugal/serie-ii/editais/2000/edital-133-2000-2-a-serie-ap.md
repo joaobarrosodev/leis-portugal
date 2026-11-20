@@ -23,6 +23,15 @@ publication:
   pages: 81 - 84
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/088058000/0008100084.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a aprovação pela Assembleia Municipal de Monção
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

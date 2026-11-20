@@ -23,6 +23,15 @@ publication:
   pages: 151 - 157
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/101000000/0015100157.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo Conselho de Ação Social
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

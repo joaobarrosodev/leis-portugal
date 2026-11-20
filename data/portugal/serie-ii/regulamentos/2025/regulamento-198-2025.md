@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 602 - 612
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/025000000/0060200612.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-02-06'
+entry_into_force:
+  date: '2025-02-06'
+  rule: no dia seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1082861085:por#art-36'
+    detail: O presente regulamento revoga o [Regulamento n.º 198/2025], de 5 de fevereiro, publicado no Diário da República,
+      2.ª série n.º 25 de 5 de fevereiro de 2025, Regulamento Municipal de Ação Social Escolar.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1138714081:por#art-36'
+    detail: O presente regulamento revoga o [Regulamento n.º 198/2025], de 5 de fevereiro, publicado no Diário da República,
+      2.ª série n.º 25 de 5 de fevereiro de 2025, Regulamento Municipal de Ação Social Escolar.
 notes: []
 language: por
 version:

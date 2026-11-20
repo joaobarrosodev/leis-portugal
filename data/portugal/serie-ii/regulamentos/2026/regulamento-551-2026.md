@@ -23,6 +23,15 @@ publication:
   pages: 362 - 366
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/094000000/0036200366.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia posterior à sua homologação pelo Reitor da Universidade do Porto, com posterior publicação no Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

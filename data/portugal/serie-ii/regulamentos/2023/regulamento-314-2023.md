@@ -23,6 +23,16 @@ publication:
   pages: 509 - 515
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/051000000/0050900515.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação definitiva pelo Executivo Municipal, devendo ser imediatamente publicado no sítio da internet
+    do Município de Odemira e no Diário da República e revoga o regulamento vigente
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

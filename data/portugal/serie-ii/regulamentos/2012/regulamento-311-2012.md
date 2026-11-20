@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 26959 - 26961
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/147000000/2695926961.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-01'
+entry_into_force:
+  date: '2012-08-01'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75051695:por#art-22'
+    detail: '[Regulamento n.º 311/2012], publicado no Diário da República, 2.ª série, n.º 147, de 31 de julho de 2012.'
 notes: []
 language: por
 version:

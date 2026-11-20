@@ -23,6 +23,15 @@ publication:
   pages: 25285 - 25288
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/090000000/2528525288.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediatamente posterior à sua publicitação nos termos legais
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

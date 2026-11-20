@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 294 - 299
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/121000000/0029400299.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-24'
+entry_into_force:
+  date: '2021-06-24'
+  rule: na data da sua publicação e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: '2021-12-31'
+  end_rule: até dia 31/12/2021
 end_of_validity_date: null
-legal_status: unknown
+legal_status: not_in_force
+legal_status_basis:
+  source: clausula_vigencia
+  evidence:
+  - status: not_in_force
+    provenance: 'cláusula de vigência: art-11'
+    detail: até dia 31/12/2021
 notes: []
 language: por
 version:

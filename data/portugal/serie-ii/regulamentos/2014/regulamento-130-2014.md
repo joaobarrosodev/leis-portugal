@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8636 - 8646
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/063000000/0863608646.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-04-15'
+entry_into_force:
+  date: '2014-04-15'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

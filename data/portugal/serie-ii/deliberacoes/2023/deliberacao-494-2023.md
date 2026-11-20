@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/090000000/0020000202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1195843286:por#texto'
+    detail: 4) A presente deliberação revoga a [Deliberação n.º 494/2023], de 2 de janeiro, publicada no Diário da República,
+      2.ª série, n.º 90.
 notes: []
 language: por
 version:

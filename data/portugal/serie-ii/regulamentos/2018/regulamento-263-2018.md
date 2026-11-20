@@ -23,6 +23,15 @@ publication:
   pages: 13031 - 13033
   pdf_url: https://files.diariodarepublica.pt/2s/2018/05/090000000/1303113033.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil a seguir à sua publicitação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: a partir da data da sua assinatura e é válido durante o ano de ___
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

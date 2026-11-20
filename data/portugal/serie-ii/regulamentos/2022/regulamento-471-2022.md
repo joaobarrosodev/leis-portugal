@@ -23,6 +23,15 @@ publication:
   pages: 317 - 332
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/095000000/0031700332.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 18074 - 18080
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/079000000/1807418080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-01'
+entry_into_force:
+  date: '2011-05-01'
+  rule: no dia 01 de Maio de 2011
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

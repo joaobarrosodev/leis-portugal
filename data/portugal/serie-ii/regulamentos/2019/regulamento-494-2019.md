@@ -23,6 +23,15 @@ publication:
   pages: 17408 - 17410
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/109000000/1740817410.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: para o ano letivo 2018/2019, inclusive, e anos letivos seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 247 - 268
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/099000000/0024700268.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no início do ano letivo de 2026-2027, sem prejuízo de os estudantes com estatuto especial já concedido à data de publicação
+    deste Regulamento poderem realizar, na época especial referente ao ano letiv
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

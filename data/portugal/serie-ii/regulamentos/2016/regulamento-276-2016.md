@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 9363 - 9367
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/053000000/0936309367.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-21'
+entry_into_force:
+  date: '2016-03-21'
+  rule: no quinto dia após a sua publicação, no Diário da República e no sítio institucional da Câmara Municipal de Moura,
+    sem prejuízo da afixação nos respetivos locais de trabalho
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

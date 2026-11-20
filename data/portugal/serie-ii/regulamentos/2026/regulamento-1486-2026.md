@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 546 - 551
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/209000000/0054600551.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-02'
+entry_into_force:
+  date: '2026-11-02'
+  rule: no quinto dia após a sua publicação na 2.ª série do Diário da República, revogando-se desta forma, toda a regulamentação
+    anterior, nos termos do artigo 140.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

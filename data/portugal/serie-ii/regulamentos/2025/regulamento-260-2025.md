@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/037000000/0003500047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1194799759:por#art-23'
+    detail: 3 - É revogado o [Regulamento n.º 260/2025], de 21 de fevereiro, publicado na 2.ª série do Diário da República
+      n.º 37.
 notes: []
 language: por
 version:

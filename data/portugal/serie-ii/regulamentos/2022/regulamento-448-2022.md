@@ -23,6 +23,15 @@ publication:
   pages: 445 - 447
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/091000000/0044500447.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: n-2
+  effects_date: '2022-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

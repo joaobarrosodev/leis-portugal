@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 20251 - 20253
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/143000000/2025120253.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-27'
+entry_into_force:
+  date: '2018-07-27'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:186145809:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 468/2018], publicado no Diário da República, 2.ª série, n.º 143
+      de 26 de julho de 2018.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:202198375:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 468/2018], publicado no Diário da República, 2.ª série, n.º 143,
+      de 26 de julho de 2018.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 20062 - 20068
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/148000000/2006220068.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal e posterior publicação do Diário da República
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

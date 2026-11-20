@@ -23,6 +23,16 @@ publication:
   pages: 2 - 54
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/084000002/0000200054.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação, ficando automaticamente revogado o Regulamento da Organização
+    dos Serviços Municipais e a Estrutura Orgânica Flexível publicados no Diário da Repúbl
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

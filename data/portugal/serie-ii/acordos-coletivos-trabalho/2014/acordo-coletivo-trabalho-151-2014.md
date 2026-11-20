@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/247000000/3236832370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:107486762:por'
+    detail: Revogado pelo Acordo Coletivo de Trabalho n.º 17/2017 - Diário da República n.º 110/2017, Série II de 2017-06-07
 notes: []
 language: por
 version:

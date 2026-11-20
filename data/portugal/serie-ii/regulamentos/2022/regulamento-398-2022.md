@@ -24,6 +24,16 @@ publication:
   pages: 464 - 475
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/078000000/0046400475.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediatamente seguinte à data do seu registo pela Autoridade para a Prevenção e o Combate à Violência
+    no Desporto (APCVD)
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

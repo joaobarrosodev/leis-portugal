@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30332 - 30334
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/233000000/3033230334.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-12-03'
+entry_into_force:
+  date: '2014-12-03'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 33524 - 33526
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/221000000/3352433526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-09-30'
+entry_into_force:
+  date: '2013-09-30'
+  rule: no dia 30 de setembro de 2013, revogando todas as disposições ou determinações anteriores que disponham em contrário
+    ao agora regulamentado
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

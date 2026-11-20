@@ -23,6 +23,15 @@ publication:
   pages: 318 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/039000000/0031800320.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

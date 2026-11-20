@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13937 - 13945
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/128000000/1393713945.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-10'
+entry_into_force:
+  date: '2017-07-10'
+  rule: no prazo de 5 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

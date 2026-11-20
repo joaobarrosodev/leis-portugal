@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 45888 - 45893
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/171000000/4588845893.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-03'
+entry_into_force:
+  date: '2010-09-03'
+  rule: no dia seguinte ao da sua publicação, dele fazendo parte integrante os Anexos i a ii
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

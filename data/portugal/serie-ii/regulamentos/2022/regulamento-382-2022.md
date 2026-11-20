@@ -23,6 +23,15 @@ publication:
   pages: 555 - 558
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/074000000/0055500558.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação nos termos legais."
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

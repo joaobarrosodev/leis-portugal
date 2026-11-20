@@ -24,6 +24,16 @@ publication:
   pages: 14623 - 14633
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/057000000/1462314633.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após a sua aprovação em reunião do conselho científico e em reunião do órgão competente da UNL, e da sua publicação
+    no Diário da República, data a partir do qual é automaticamente revogado o anterior '
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 14483 - 14486
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/090000000/1448314486.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias, após a sua publicação nos termos legalmente previstos
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

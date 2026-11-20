@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28217 - 28220
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/177000000/2821728220.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-19'
+entry_into_force:
+  date: '2016-09-19'
+  rule: 5 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 26801 - 26809
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/181000000/2680126809.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias sobre a sua publicitação, nos termos legais
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

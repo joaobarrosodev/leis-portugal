@@ -23,8 +23,23 @@ publication:
   pages: 12211 - 12212
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/094000000/1221112212.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:73823573:por#art-14'
+    detail: É revogado o [Regulamento n.º 251/2015] publicado na 2.ª série do Diário da República a 15 de maio de 2015.
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 267 - 274
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/024000000/0026700274.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-02-03'
+entry_into_force:
+  date: '2024-02-03'
+  rule: no dia seguinte ao da sua publicação no Diário da República, conforme o disposto nos artigos 139.º e 140.º, do Código
+    do Procedimento Administrativo, após a sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15365 - 15367
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/073000000/1536515367.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-04-30'
+entry_into_force:
+  date: '2009-04-30'
+  rule: 15 dias após a sua publicação, nos termos do n.º 4 do artigo 29.º da Lei n.º 42/98, de 6 de Agosto
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

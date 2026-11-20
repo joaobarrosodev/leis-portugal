@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 324 - 331
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/115000000/0032400331.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-17'
+entry_into_force:
+  date: '2021-06-17'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:213069611:por#art-20'
+    detail: O presente Regulamento revoga o [Regulamento n.º 560/2021], publicado no Diário da República, 2.ª série, n.º 115
+      de 16 de junho de 2021.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29146 - 29147
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/132000000/2914629147.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-13'
+entry_into_force:
+  date: '2011-07-13'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

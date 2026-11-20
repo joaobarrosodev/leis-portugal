@@ -23,6 +23,15 @@ publication:
   pages: 41 - 47
   pdf_url: https://files.diariodarepublica.pt/2s/2003/09/211139000/0004100047.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua publicação no Diário da República
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

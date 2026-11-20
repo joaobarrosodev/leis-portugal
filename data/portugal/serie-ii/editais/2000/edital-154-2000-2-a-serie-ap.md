@@ -23,6 +23,15 @@ publication:
   pages: 3 - 6
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/099064000/0000300006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após publicitação da sua aprovação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

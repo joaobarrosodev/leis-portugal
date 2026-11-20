@@ -24,6 +24,15 @@ publication:
   pages: 10744 - 10750
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/076000000/1074410750.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à publicitação no Diário da República, aplicando-se aos estágios e projetos profissionais em curso
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

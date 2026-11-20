@@ -771,6 +771,66 @@ A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista �
 - **Feito (23/11):** os 327 lotes gerados e validados, com 11.389 artigos e 42.392 perguntas novas (3 a 5 por artigo, 3,7 em média) em 37 ficheiros de `rag/perguntas_artigo/`, um por bloco. Com o piloto, são 12.154 artigos e 45.470 perguntas. Um lote falhou a validação e foi repetido: o 280, por uma pergunta com «decreto». O lote 38 trazia o `documento` trocado pela parte, e esse campo foi corrigido a partir da entrada. A geração parou de 19 a 23/11 por falta de uso do plano. Ainda não está medido: as perguntas só entram no índice com `rag.indice --com-perguntas`.
 - `exportar --so-sem-perguntas` exporta só os artigos que ainda não têm perguntas. `estado --pasta P` diz que lotes já estão validados, para retomar depois de um corte. O `importar` só reescreve os blocos que vêm na pasta e guarda as linhas que já lá estavam.
 
+### 1.ª leva de diplomas avulsos (20/11/2026)
+
+É a medida 2 do diagnóstico das reais não encontradas. A lista é a de `reports/perguntas-por-artigo-avulsos-proposta.md`: 48 diplomas de saúde, segurança social, arrendamento e habitação, consumo e família.
+
+**Âmbito** (`AVULSOS` em `rag/perguntas_por_artigo.py`):
+- Os 48 diplomas entram só pelo articulado. Nos quatro em que o regime está num anexo, entra só o anexo: o Estatuto do Cuidador Informal, a proteção de crianças e jovens, a adoção e o processo tutelar cível.
+- Há um ficheiro por tema: `avulsos-saude`, `avulsos-seguranca-social`, `avulsos-habitacao`, `avulsos-consumo` e `avulsos-familia`. Para isso, `Bloco.ficheiro` deixa vários blocos partilhar um ficheiro.
+- No índice da fase 1 (20/11) são **1.825 artigos** em vigor e não revogados. A proposta, feita no índice de 19/11, contava 1.798: os DL 220/2006 e 91/2009 têm agora mais artigos lidos.
+
+**Os 127 «em falta»** do `rag.indice --com-perguntas` eram todos do bloco do Código Deontológico dos Contabilistas.
+- O que se lia como «Anexo II» da Lei n.º 139/2015 era a cópia de 2019 do Estatuto da Ordem. Na leitura da fase 1, essa cópia fica fechada a 2023-12-07, e o Estatuto em vigor está no Anexo I.
+- O bloco passa a ser o `estatuto-ordem-contabilistas`, sobre o Anexo I: **129 artigos com perguntas novas**, escritas sobre o texto em vigor. O ficheiro antigo, com 127 artigos e 476 perguntas, sai.
+- O Código Deontológico propriamente dito não tem artigos em vigor no índice. Fica como achado para a camada 1.
+
+**Geração e validação:** com o mesmo método dos lotes anteriores.
+- 56 lotes de 35 artigos, escritos por 28 subagentes Opus com dois lotes cada. Cada subagente leu só as regras e os seus lotes, sem acesso às perguntas de avaliação.
+- As regras (`REGRAS.md`) ganham as palavras do dia a dia das áreas novas. A validação passa também a recusar «regime jurídico», «lei de bases», «Estatuto do Cuidador» ou «do Utente», «Lei de Defesa do Consumidor» e outros nomes de leis avulsas. As 45.470 perguntas anteriores continuam todas válidas.
+- Os 56 lotes passaram a validação à primeira: **1.954 artigos e 7.256 perguntas** (3,7 por artigo, mediana de 14 palavras). Ficaram no commit antes de qualquer medição.
+- Ao todo, `rag/perguntas_artigo/` tem agora 13.981 artigos e 52.250 perguntas, em 45 ficheiros.
+- Um teste verifica que cada ficheiro e cada linha pertencem a um bloco do âmbito: um ficheiro órfão voltaria a dar «em falta».
+
+**Medição: só BM25 e referências, sem reranker nem LLM.**
+- «Antes» é uma cópia do índice publicado a 20/11 (fase 1), que já tem as perguntas dos códigos. «Depois» é essa cópia com o `juntar`: 13.981 artigos, 0 em falta.
+- Correram as 1.519 perguntas (o conjunto, as reais, as coloquiais, as da UE e as da 2.ª Série). Destas, 1.414 têm artigo esperado.
+- Resumos em `rag/resultados/pav-antes-bm25.json` e `pav-depois-bm25.json`. O detalhe pergunta a pergunta está em `privado/`.
+
+| Grupo | n | Em 1.º | Nos 8 primeiros | Nos 10 primeiros | Ganhos / perdas no 1.º | Ganhos / perdas nos 10 |
+|---|--:|--:|--:|--:|--:|--:|
+| **Reais do diagnóstico com o artigo nestes diplomas** | 18 | 2 → **8** | 4 → **16** | 4 → **17** | 6 / 0 | 13 / 0 |
+| Reais do diagnóstico, as outras 23 | 23 | 5 → 5 | 13 → 13 | 14 → 14 | 0 / 0 | 0 / 0 |
+| Reais com o artigo nestes diplomas (todas) | 63 | 17 → **35** | 37 → **58** | 39 → **62** | 20 / 2 | 23 / 0 |
+| Coloquiais com o artigo nestes diplomas | 63 | 6 → **30** | 14 → 50 | 14 → 50 | 24 / 0 | 36 / 0 |
+| Outros tipos com o artigo nestes diplomas | 44 | 12 → 14 | 24 → 34 | 26 → 37 | 2 / 0 | 14 / 3 |
+| Artigo fora destes diplomas | 1.244 | 819 → 812 | 1.100 → 1.097 | 1.118 → 1.116 | 0 / 7 | 0 / 2 |
+| **Todas com artigo esperado** | 1.414 | 854 → **891** | 1.175 → **1.239** | 1.197 → **1.265** | 46 / 9 | 73 / 5 |
+
+- **As 18 do diagnóstico** (grupo C2 e outras dos mesmos diplomas): o artigo certo chega aos 8 primeiros em 16, contra 4 antes, e ao 1.º lugar em 8. Fica de fora dos 10 primeiros uma só.
+- **Nas 281 reais:** em 1.º passa de 141 para 158 e nos 10 primeiros de 239 para 262. Nas coloquiais passa de 98 para 116 em 1.º e de 172 para 206 nos 10 primeiros.
+- Literais, temporais, revogadas e texto alterado ficam iguais.
+- **As 9 perdas no 1.º lugar** passam todas para o 2.º ou o 3.º lugar, menos uma, que vai para o 10.º. São do tipo que o piloto já tinha:
+  - em 2 casos, um artigo vizinho do mesmo diploma passa à frente (o testamento vital e o transporte de doentes);
+  - em 7 casos, um artigo avulso com perguntas passa à frente de um código (6 coloquiais e 1 real). Por exemplo, o subsídio parental do DL 91/2009 fica à frente da licença do Código do Trabalho, e o DL 160/2006 à frente do 1069.º do Código Civil.
+  - Algumas destas podem ser respostas igualmente válidas, mas não foram lidas uma a uma.
+
+**O que não está medido:**
+- **Não se mediu com o reranker nem o limiar.** O reranker da 0.1.1 não lê as perguntas: elas só mudam os candidatos que ele recebe. O diagnóstico estimou que, com o artigo nos candidatos, o reranker o punha nos 8 primeiros em 15 destas 18. Só 4 delas passavam o limiar 3. Por isso, o ganho em respostas certas é um teto, e fica para a medição da reconstrução.
+- **Risco de afinar para o teste,** como diz a proposta: 7 dos 48 diplomas são fonte de reais. As 63 reais com o artigo nestes diplomas são todas desses 7: 52 de saúde e 11 de pensões. A habitação, o consumo e a família não têm nenhuma real no conjunto, e por isso o efeito nesses temas não está medido.
+- As coloquiais partilham o vocabulário das perguntas geradas, como nas medições anteriores. O sinal mais seguro são as reais: +18 em 1.º nas 63, com 2 perdas.
+
+**Decisão: compensa uma 2.ª leva, pequena e dirigida** (cerca de 470 artigos, 14 lotes):
+- a Lei n.º 29/2013, da mediação (50 artigos): 3 das 41 reais do diagnóstico;
+- o Estatuto dos Benefícios Fiscais, só o anexo do DL 215/89 (93 artigos): 1 real e muitas dúvidas de contribuintes;
+- o anexo do DL 147/2003, dos bens em circulação (13 artigos): 1 real;
+- a Lei n.º 13/2003, do rendimento social de inserção: no índice da fase 1 já tem 39 artigos em vigor;
+- a Lei n.º 98/2009, dos acidentes de trabalho (188), o DL 265/99, do complemento por dependência (36), e a Lei n.º 32/2006, da procriação medicamente assistida (54).
+
+Com estes, as 5 reais C2 que esta leva não cobre ficam cobertas. Os outros diplomas da 2.ª leva da proposta podem ficar de fora: o Estatuto do SNS, as comunicações eletrónicas, o Mais Habitação, o alojamento local e o arrendamento acessível são sobretudo organização, regulação ou alteração de outras leis.
+
+Antes de mais levas, convém o conjunto de avaliação ganhar perguntas de consumo e família.
+
 **Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
 - **Pesquisa:** uma só por pergunta, no índice de uso de 17/11 numa cópia fixa, com as consultas reescritas de `reescrita2`, o reranker cruzado com 30 candidatos e o limiar 1. O LLM recebe os 8 ou os 16 primeiros artigos da mesma consulta (`passo_llm exportar --contextos 8,16 --consultas PASTA`). Assim, o ruído do reranker não entra na comparação.
 - **LLM:** um subagente Opus por lote e por contexto, que só lê a entrada.
@@ -1151,3 +1211,58 @@ Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.6
 Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
+
+## Nomes de códigos, texto em vigor noutro registo e registos repetidos (20/11/2026)
+
+Três falhas de apresentação do inventário da camada 1 (`reports/inventario-camada-1.md`, linhas 2, 4 e 11 do resumo): o texto certo existe, mas a pesquisa não chegava lá ou servia outro ao lado.
+
+**Linha 2: o artigo de um diploma cujo texto em vigor está noutro registo (`rag/pesquisa.py`).** Desde a regra das redações anteriores, o índice já liga 68 das 71 obras em vigor da secção 2.1 (`texto_em_vigor_em` ou `redacao_atual_em`; o Código Penal → DL 48/95 e o IVA → DL 102/2008 incluídos). As 3 sem ligação são cópias que o `rag.copias` deixa de fora por falta de prova. Mas o texto antigo ficou fechado, e «artigo 131.º do Decreto-Lei n.º 400/82» deixou de chegar a qualquer lado: a referência só procurava no próprio registo. Agora, quando o diploma citado não tem esse artigo em vigor, a pesquisa segue a ligação (`_no_texto_em_vigor`):
+
+- o artigo antigo dá a epígrafe e a parte. Responde o artigo do mesmo número com a mesma epígrafe, ou com uma epígrafe retocada (semelhança ≥ 0,75: «Proibição temporária da circulação…» → «… temporária ou permanente…»);
+- se a numeração mudou, responde o único artigo com a mesma epígrafe (ou com uma ≥ 0,9), com o aviso «O artigo 98.º de Decreto-Lei n.º 442-A/88 é, no texto em vigor, o artigo 105.º». No IRS, o «Local de pagamento» passou de 98.º para 105.º;
+- se o artigo do mesmo número é outro (o 81.º do Código da Estrada de 1994 era «Avaria nas luzes» e hoje é o do álcool) e nenhum tem a epígrafe, não se troca;
+- sem artigo antigo (o Código Penal de 1982 e o IVA de 1984 estão em blocos), responde o do mesmo número, à frente o do anexo e com epígrafe;
+- se o original foi revogado (o CPI de 2003 → o de 2018), o aviso também o diz;
+- o BM25 dos diplomas citados também lê o registo com o texto em vigor.
+
+**Linha 4: nomes de códigos (`rag/referencias.py`, `rag/pesquisa.py`).**
+
+- `CODIGOS` tem os nomes que faltavam nos 39 centrais (Constituição, RCP, CEPMPL, RGIT, CPT, LTFP, IEC, ISV, IUC, Código Comercial, Registos Comercial, Predial e Civil, CVM, CPI, CDADC, Cooperativo, CIRE, CPTA, Expropriações, Publicidade, Notariado) e algumas formas curtas.
+- `SIGLAS` só valem em maiúsculas: CRP, CT, CPC, CPP, CPA, CSC, CCP, CPI, CVM, CRCom, CRPredial, CRCivil, CPT, RCP, CEPMPL. «CC» e «CP» ficam de fora (cartão de cidadão, código postal).
+- «Constituição» com maiúscula a meio da frase é a da República; «constituição de sociedade» não é.
+- `nome_normalizado` tira as consoantes mudas («infracções» = «infrações») e o «a que se refere o n.º 1 do artigo 1.º» no fim do nome de um anexo (o ISV e o IUC não resolviam).
+- `codigo` aceita o nome sem palavras de ligação («Código de Processo Penal» = «Código do Processo Penal», o sumário do DL 78/87).
+- A Constituição resolve-se pelo sumário do decreto que a aprova.
+- `Pesquisa.codigos_na_pergunta`: um «Código …» que o próprio índice tem (anexo ou «Aprova o Código…»), com 20 ou mais artigos em vigor e fora da `so_referencia`, conta como citado sem estar em `CODIGOS`.
+- Um código citado que o acervo não tem (o Código Comercial) vai para `diplomas_em_falta`.
+
+**Linha 11: registos repetidos do mesmo diploma (`rag/duplicados.py`, chamado pelo `rag.indice`).** Mesmo tipo, título com número e data. O texto tem de o confirmar: o mesmo sumário (ou um que começa pelo outro) ou o mesmo início do texto, e quase os mesmos números de artigo. No export de 20/11 são 7 pares: a Lei n.º 28/82 (consolidado e original), a Lei n.º 13/90, a Lei n.º 62/90, o DL 103-A/84, o DLR 1/84/A e as Portarias n.os 11/84 e 434/83. Ficam 122 de fora: 121 são diplomas diferentes com o mesmo número no DRE (o DL 129/86, a Lei n.º 27/81, portarias da 2.ª Série), e 1 é o DR 31/83, cujos dois registos dizem um que vigora e o outro que não. Para cada repetido, o índice grava:
+
+- `mesmo_diploma_em` para o principal (o consolidado; depois o de estado conhecido, com mais alterações e mais artigos). A pesquisa nova troca o repetido pelo principal quando a pergunta o cita;
+- `texto_em_vigor_em`, só se o principal é um consolidado em vigor (a Lei n.º 28/82);
+- o repetido na `so_referencia`.
+
+Nada se apaga. `python -m rag.duplicados` lista os pares e os de fora; `python -m rag.indice --sem-repetidos` desliga, para medir.
+
+**Verificado** sobre o índice publicado a 20/11 (2.582.317 pedaços), copiado para uma pasta temporária com as 8 relações e as 7 entradas da `so_referencia` que a construção nova grava. Mediu-se só com BM25 e referências, sem reranker nem LLM, com o código de `fd47829befb` (antes) e o de agora:
+
+| | Antes | Depois |
+|---|--:|--:|
+| 1.414 perguntas com fonte: artigo esperado em 1.º | 853 | 852 |
+| … nos 10 primeiros | 1.195 | 1.195 |
+| 39 nomes centrais: «artigo N.º do Código X» chega ao artigo | 17 | 36 |
+| … chega ao registo | 26 | 37 |
+| 211 sondas «artigo N.º do <diploma original>» (71 obras e a Lei n.º 28/82): chega ao artigo do texto em vigor | 5 | 202 |
+
+- **Pergunta a pergunta, nas 1.414:** nenhuma sobe e uma desce de 1.º para 2.º (`lit-215`). A pergunta cita «n.º 5 do artigo 30.º da LTFP» como contexto: agora a LTFP resolve-se, e só com BM25 a referência exata passa à frente do artigo 9.º da Lei n.º 112/2017. Com o reranker os dois concorrem (não medido).
+- **Chaves:** as chaves das perguntas, acertadas por `acertar_fontes` com o `data/` de hoje, estão no índice antes e depois, menos as mesmas 3 (`alt-007`, `alt-020`, `alt-051`).
+- **Nomes que faltam:** o Código Comercial (não está no acervo; sai «em falta»), o CPT (o nome do anexo vem colado ao primeiro título, «CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais»: é da leitura) e o Código do Registo Civil (resolve para o DL 47678, de 1967, que o DRE dá como em vigor, e não para o DL 131/95).
+- **Sondas que falham (9):** 4 do DL 59/2003, em que o próprio registo ainda tem esse artigo em vigor e responde (o que se quer); 3 da Lei n.º 13/91, que vão para o anexo da Lei n.º 130/99 e não para o articulado dela, com o mesmo estatuto e a mesma epígrafe; 2 «artigo 1.º» em que o diploma novo tem um artigo 1.º no articulado e outro no anexo.
+- **Construção:** um índice pequeno (417 registos: os centrais, as 71 obras e os pares) construído com o código de antes e com o de agora. Os pedaços são iguais, nenhum dos 198 centrais perde artigos, e só mudam as 8 relações e as 7 entradas da `so_referencia`.
+
+**A aplicação 0.1.1** (verificado com o código da etiqueta `app-v0.1.1` sobre a cópia com as linhas novas): a pesquisa corre e ignora `mesmo_diploma_em`.
+
+- Ganha a linha 11, que viaja no índice. «artigo 6.º da Lei n.º 28/82» deixa de dar o artigo duas vezes (o registo original sai, trocado pelo consolidado pela `texto_em_vigor_em`), e os 7 repetidos saem do BM25 em todo o acervo.
+- Não ganha as linhas 2 e 4, que estão no código da pesquisa e das referências.
+
+**Reconstruir:** `python -m rag.indice`, como sempre, sem opções novas (o `rag.duplicados` acrescenta uns 40 s no início). Os pedaços não mudam, por isso o `rag.jurisprudencia` não precisa de correr de novo por causa disto. A medição com reranker nas 1.298 fica para depois da reconstrução.

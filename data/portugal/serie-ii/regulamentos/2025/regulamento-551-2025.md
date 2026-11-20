@@ -23,8 +23,24 @@ publication:
   pages: 368 - 372
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/086000000/0036800372.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1134465497:por#art-12'
+    detail: É revogado o [Regulamento n.º 551/2025], de 6 de maio de 2025, publicado na 2.ª série do Diário da República,
+      n.º 86, de 6 de maio de 2025.
 notes: []
 language: por
 version:

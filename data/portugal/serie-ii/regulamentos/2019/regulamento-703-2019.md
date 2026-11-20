@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 189 - 196
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/171000000/0018900196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-11'
+entry_into_force:
+  date: '2019-09-11'
+  rule: cinco dias após a sua publicação na 2.ª série do Diário da República, nos termos dos artigos 139.º e 140.º do CPA
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

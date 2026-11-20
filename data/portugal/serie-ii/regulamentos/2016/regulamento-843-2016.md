@@ -24,8 +24,24 @@ publication:
   pages: 26693 - 26697
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/163000000/2669326697.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das candidaturas para o ano letivo 2016/2017, inclusive
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:108016151:por#art-27'
+    detail: 1 - É revogado o [Regulamento n.º 843/2016], de 25 de agosto, para os Regimes Reingresso e de Mudança de Par Instituição/Curso,
+      da Universidade da Madeira, publicado no Diário da República, 2.ª série, n.º 163.
 notes: []
 language: por
 version:

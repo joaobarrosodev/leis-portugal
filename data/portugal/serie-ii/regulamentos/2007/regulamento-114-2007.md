@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16254 - 16261
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/111000000/1625416261.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-07-11'
+entry_into_force:
+  date: '2007-07-11'
+  rule: no 30.º dia após a publicação edital da respectiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

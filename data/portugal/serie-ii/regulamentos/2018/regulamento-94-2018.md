@@ -23,6 +23,16 @@ publication:
   pages: 4440 - 4443
   pdf_url: https://files.diariodarepublica.pt/2s/2018/02/027000000/0444004443.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2017/2018, tendo sido aprovado em reunião do Conselho Pedagógico de 10 de julho de 2017 e em reunião
+    do Conselho Científico de 18 de julho de 2017
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

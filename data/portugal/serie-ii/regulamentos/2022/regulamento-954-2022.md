@@ -22,9 +22,30 @@ publication:
   supplement: null
   pages: 375 - 381
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/198000000/0037500381.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-14'
+entry_into_force:
+  date: '2022-10-14'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:922704501:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 954/2022], publicado no Diário da República, 2.ª série, n.º 198
+      de 13 de outubro de 2022.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:938605559:por#art-19'
+    detail: O presente Regulamento revoga o [Regulamento n.º 954/2022], publicado no Diário da República, 2.ª série, n.º 198
+      de 13 de outubro de 2022.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 5382 - 5383
   pdf_url: https://files.diariodarepublica.pt/2s/2006/04/071000000/0538205383.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação e revoga o publicado pelo aviso n.º 6020/2004 (2.ª série), de 25 de Maio
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

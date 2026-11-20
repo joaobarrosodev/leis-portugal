@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 16348 - 16350
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/111000000/1634816350.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-12'
+entry_into_force:
+  date: '2018-06-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:911688722:por#art-56'
+    detail: a) O [Regulamento n.º 351/2018], de 11 de junho
 notes: []
 language: por
 version:

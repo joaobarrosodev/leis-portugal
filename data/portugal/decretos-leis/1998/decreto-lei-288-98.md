@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto-Lei n.º 37/2004, que entra em vigor no dia seguinte ao da publicação; o DRE regista
+    a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:568933:por'
+    detail: É revogado o Decreto-Lei n.º 288/98, de 17 de Setembro.
 notes: []
 language: por
 version:
@@ -99,6 +108,12 @@ relationships:
   label: "Revogado pelo DEC LEI.37/2004.26.02.2004.MADRP, DR.IS-A [48] de 26.02.2004\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2004-568933
   date: '2004-02-26'
+- type: repealed_by
+  target: pt:dre:568933:por
+  label: Revogado por inteiro pelo Decreto-Lei n.º 37/2004, que entra em vigor no dia seguinte ao da publicação; o DRE regista
+    a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2004-02-27'
 article_structure:
   article_count: 2
   section_count: 0

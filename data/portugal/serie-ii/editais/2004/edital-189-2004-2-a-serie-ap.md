@@ -23,6 +23,15 @@ publication:
   pages: 60 - 76
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/069037000/0006000076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 dias úteis contados do dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

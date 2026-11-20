@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 152-(2) a 152-(23)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/149000001/0000200023.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-04'
+entry_into_force:
+  date: '2020-08-04'
+  rule: no dia imediato ao da sua publicação, nos termos legais
+  method: clausula
+  article: art-95
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

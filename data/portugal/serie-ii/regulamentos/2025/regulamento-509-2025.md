@@ -23,6 +23,16 @@ publication:
   pages: 586 - 592
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/079000000/0058600592.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em reunião de Assembleia Municipal, conforme previsto no n.º 4 do artigo 9.º do Decreto-Lei n.º
+    23/2019, de 30 de janeiro e é publicitado no sítio institucional do Município de Mo
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

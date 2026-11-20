@@ -23,6 +23,16 @@ publication:
   pages: 388 - 392
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/215000000/0038800392.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República, sem prejuízo de a União das Freguesias de Vide e Cabeça
+    poder propor à Assembleia de Freguesia a suspensão da sua vigência, caso se verifi
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

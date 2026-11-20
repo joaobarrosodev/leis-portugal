@@ -23,6 +23,16 @@ publication:
   pages: 509 - 513
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/077000000/0050900513.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação no Diário da República, vigorando enquanto não for expressa ou tacitamente
+    revogado
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

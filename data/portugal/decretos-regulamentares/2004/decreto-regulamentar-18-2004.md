@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto Regulamentar n.º 30/2007, que entra em vigor no 1.º dia do mês seguinte ao da
+    publicação; o DRE regista a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:520441:por'
+    detail: É revogado o Decreto Regulamentar n.º 18/2004, de 28 de Abril.
 notes: []
 language: por
 version:
@@ -99,6 +108,12 @@ relationships:
   label: "Revogado pelo DR.30/2007.29.03.2007.ME, DR.IS [63] de 29.03.2007\07\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-2007-520441
   date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:520441:por
+  label: Revogado por inteiro pelo Decreto Regulamentar n.º 30/2007, que entra em vigor no 1.º dia do mês seguinte ao da publicação;
+    o DRE regista a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2007-04-01'
 article_structure:
   article_count: 11
   section_count: 7

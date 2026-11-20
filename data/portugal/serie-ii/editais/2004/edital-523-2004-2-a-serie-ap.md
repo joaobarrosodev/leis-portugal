@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 108 - 110
   pdf_url: https://files.diariodarepublica.pt/2s/2004/08/181100000/0010800110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-08-18'
+entry_into_force:
+  date: '2004-08-18'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

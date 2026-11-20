@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14314 - 14363
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-06'
+entry_into_force:
+  date: '2010-04-06'
+  rule: no décimo quinto dia posterior à sua publicação no Diário da República
+  method: clausula
+  article: art-104
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

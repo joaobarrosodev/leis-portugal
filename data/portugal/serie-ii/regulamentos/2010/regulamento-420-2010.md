@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 25206 - 25222
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/090000000/2520625222.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-11'
+entry_into_force:
+  date: '2010-05-11'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República e revoga qualquer outro que não esteja conforme
+    às normas e princípios nele contidos
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

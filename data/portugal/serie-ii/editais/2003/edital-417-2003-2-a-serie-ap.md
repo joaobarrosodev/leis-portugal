@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 9
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/128082000/0000200009.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-06-18'
+entry_into_force:
+  date: '2003-06-18'
+  rule: 15 dias após a data da sua publicação
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

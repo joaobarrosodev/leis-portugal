@@ -24,6 +24,16 @@ publication:
   pages: 153 - 159
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/194000000/0015300159.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, e após a devida aprovação pelo Reitor, nos termos do n.º 2 do
+    artigo 44.º dos Estatutos da Universidade de Aveiro
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

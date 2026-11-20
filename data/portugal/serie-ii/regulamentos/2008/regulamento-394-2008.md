@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31857 - 31858
   pdf_url: https://files.diariodarepublica.pt/2s/2008/07/137000000/3185731858.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-08-01'
+entry_into_force:
+  date: '2008-08-01'
+  rule: no 15.º dia posterior à sua publicação integral na 2.ª série do Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

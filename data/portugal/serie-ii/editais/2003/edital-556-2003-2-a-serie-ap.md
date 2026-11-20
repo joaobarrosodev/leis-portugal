@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 69 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/162107000/0006900077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-07-24'
+entry_into_force:
+  date: '2003-07-24'
+  rule: oito dias após a sua publicação
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

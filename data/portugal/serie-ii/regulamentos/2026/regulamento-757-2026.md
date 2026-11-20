@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 415 - 420
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/118000000/0041500420.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-23'
+entry_into_force:
+  date: '2026-06-23'
+  rule: 'no dia seguinte à sua publicação no Diário da República e revoga o Regulamento n.º 615/2022, das Residências de Estudantes
+    dos Serviços de Ação Social do Instituto Politécnico de Lisboa, publicado no '
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

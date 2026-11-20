@@ -23,6 +23,15 @@ publication:
   pages: 1756 - 1759
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/008000000/0175601759.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação em Edital, a publicar nos locais de estilo
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

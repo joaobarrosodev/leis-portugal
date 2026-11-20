@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 29758 - 29764
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/135000000/2975829764.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-16'
+entry_into_force:
+  date: '2011-07-16'
+  rule: no dia imediato à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:107526064:por#art-29'
+    detail: 1 - O presente regulamento revoga o [Regulamento n.º 433/2011], de 15 de julho, alterado pelo [Regulamento n.º
+      200/2015], de 28 de abril, e entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 notes: []
 language: por
 version:

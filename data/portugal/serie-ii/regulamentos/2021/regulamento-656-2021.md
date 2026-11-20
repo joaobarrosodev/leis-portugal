@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 173 - 191
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/137000000/0017300191.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-17'
+entry_into_force:
+  date: '2021-07-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

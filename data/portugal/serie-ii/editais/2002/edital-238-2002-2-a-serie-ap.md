@@ -23,6 +23,15 @@ publication:
   pages: 40 - 42
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/125069000/0004000042.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

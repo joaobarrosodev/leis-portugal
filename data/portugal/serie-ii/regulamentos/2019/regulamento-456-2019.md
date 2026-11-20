@@ -24,6 +24,15 @@ publication:
   pages: 16121 - 16124
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/099000000/1612116124.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos termos do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, após publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

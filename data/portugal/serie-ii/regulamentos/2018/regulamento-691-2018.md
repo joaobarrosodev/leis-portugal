@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 28104 - 28110
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/201000000/2810428110.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-18'
+entry_into_force:
+  date: '2018-10-18'
+  rule: após a sua publicação nos termos da Lei, e revoga o anterior "Regulamento de funcionamento dos serviços da Componente
+    de Apoio à Família nos estabelecimentos de educação pré-escolar e 1.º ciclo da red
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

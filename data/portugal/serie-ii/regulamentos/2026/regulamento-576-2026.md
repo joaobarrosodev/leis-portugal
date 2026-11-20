@@ -23,6 +23,16 @@ publication:
   pages: 578 - 583
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/095000000/0057800583.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-14
+  effects_date: '2026-05-18'
+  effects_rule: após a sua publicação no Diário da República, podendo ainda ser divulgado no sítio institucional da União
+    das Freguesias
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

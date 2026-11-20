@@ -23,6 +23,16 @@ publication:
   pages: 463 - 475
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/253000000/0046300475.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia de janeiro do ano de dois mil e vinte e um, após a sua publicação no Diário da República e na página
+    eletrónica da Junta de Freguesia de Outeiro da Cortiçada e Arruda dos Pisões, em ww
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

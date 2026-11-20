@@ -23,6 +23,15 @@ publication:
   pages: 29966 - 29968
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/144000000/2996629968.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a aprovação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

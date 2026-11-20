@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2918 - 2921
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/016000000/0291802921.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-24'
+entry_into_force:
+  date: '2018-01-24'
+  rule: no dia imediatamente a seguir ao da publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

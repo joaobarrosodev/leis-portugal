@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 17912 - 17914
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/108000000/1791217914.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-11'
+entry_into_force:
+  date: '2016-06-11'
+  rule: no 5.º dia após a sua publicação no Diário da República nos termos, e para os efeitos, do disposto no artigo 140.º
+    do Código do Procedimento Administrativo
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

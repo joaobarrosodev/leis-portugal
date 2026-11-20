@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/027000000/0028200288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:927366452:por#n-12'
+    detail: 12 - É revogada a [Deliberação n.º 195/2025], de 30 de janeiro de 2025, com as alterações operadas pela [Deliberação
+      n.º 298/2025], de 25 de fevereiro de 2025.
 notes: []
 language: por
 version:

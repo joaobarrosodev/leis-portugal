@@ -23,6 +23,15 @@ publication:
   pages: 11423 - 11425
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/089000000/1142311425.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua homologação pelo órgão legal e estatutariamente competente
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

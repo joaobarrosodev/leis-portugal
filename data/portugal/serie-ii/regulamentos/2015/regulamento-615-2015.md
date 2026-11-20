@@ -24,6 +24,15 @@ publication:
   pages: 26181 - 26183
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/176000000/2618126183.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte, após a sua aprovação pela Assembleia Municipal da Nazaré
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

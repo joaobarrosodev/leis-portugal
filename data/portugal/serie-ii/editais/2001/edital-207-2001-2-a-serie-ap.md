@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26 - 37
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/117062000/0002600037.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-22'
+entry_into_force:
+  date: '2001-05-22'
+  rule: no dia imediato à sua publicação em edital
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

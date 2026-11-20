@@ -23,6 +23,15 @@ publication:
   pages: 1587-1594
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/02/16/207540927.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a publicação no JORAA
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,23 @@ publication:
   pages: 18903 - 18905
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/111000000/1890318905.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no dia seguinte ao da sua aprovação e vigora de acordo com o tipo de prémio do seguinte modo:'
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:67224422:por#art-14'
+    detail: É revogado o [Regulamento n.º 218/2013] publicado na 2.ª série do Diário da República a 11 de junho de 2013.
 notes: []
 language: por
 version:

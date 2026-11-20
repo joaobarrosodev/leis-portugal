@@ -23,6 +23,15 @@ publication:
   pages: 5117 - 5121
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/030000000/0511705121.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a sua aprovação e publicitação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

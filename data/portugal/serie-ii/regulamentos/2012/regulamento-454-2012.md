@@ -23,6 +23,16 @@ publication:
   pages: 36325 - 36327
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/213000000/3632536327.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à data de publicação no Diário da República, vigorando enquanto não for expressa
+    ou tacitamente revogado
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

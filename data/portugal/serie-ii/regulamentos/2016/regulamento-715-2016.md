@@ -23,6 +23,15 @@ publication:
   pages: 22748 - 22751
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/139000000/2274822751.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

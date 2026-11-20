@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 400 - 412
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/020000000/0040000412.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-28'
+entry_into_force:
+  date: '2023-01-28'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:840369291:por#art-4'
+    detail: É revogado o [Regulamento n.º 145/2023], publicada no Diário da República, 2.ª série, n.º 20, de 27 de janeiro
+      de 2023.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 110 - 127
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/242000000/0011000127.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao despacho da Presidente da ESEnfC, após a aprovação por parte da Fundação para a Ciência e a Tecnologia
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

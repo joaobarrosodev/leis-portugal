@@ -34,7 +34,13 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1194943529:por#art-15'
+    detail: É revogada a [Portaria n.º 227/2018], de 13 de agosto.
 notes: []
 language: por
 version:

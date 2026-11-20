@@ -23,6 +23,15 @@ publication:
   pages: 194 - 201
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/165000000/0019400201.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para as candidaturas no ano letivo 2025/2026 e seguintes
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

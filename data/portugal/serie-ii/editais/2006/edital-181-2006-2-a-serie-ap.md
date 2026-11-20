@@ -23,6 +23,15 @@ publication:
   pages: 36 - 44
   pdf_url: https://files.diariodarepublica.pt/2s/2006/04/070034000/0003600044.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente a seguir à sua aprovação
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

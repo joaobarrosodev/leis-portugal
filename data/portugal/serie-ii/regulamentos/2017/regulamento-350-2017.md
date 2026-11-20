@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13642 - 13656
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/126000000/1364213656.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-07-04'
+entry_into_force:
+  date: '2017-07-04'
+  rule: no dia seguinte à publicação no Diário da República
+  method: clausula
+  article: art-84
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

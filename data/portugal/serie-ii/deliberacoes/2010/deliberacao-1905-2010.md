@@ -24,6 +24,15 @@ publication:
   pages: 52125 - 52132
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/205000000/5212552132.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15755 - 15764
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/097000000/1575515764.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-03'
+entry_into_force:
+  date: '2016-06-03'
+  rule: 15 dias após a data da sua publicação
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

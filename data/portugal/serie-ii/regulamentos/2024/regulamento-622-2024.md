@@ -23,6 +23,16 @@ publication:
   pages: 265 - 270
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/107000000/0026500270.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação no Diário da República, sendo aplicável ao ano letivo de 2024/2025 e seguintes,
+    a partir de quando a anterior redação deixará de produzir quaisquer efeitos
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

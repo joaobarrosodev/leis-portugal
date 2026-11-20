@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 58 - 63
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/036018000/0005800063.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-07'
+entry_into_force:
+  date: '2006-03-07'
+  rule: 15 dias após a sua publicação definitiva no Diário da República
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

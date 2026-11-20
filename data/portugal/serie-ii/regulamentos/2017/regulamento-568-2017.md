@@ -23,6 +23,15 @@ publication:
   pages: 23954 - 23959
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/203000000/2395423959.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua aprovação pelo Conselho Intermunicipal
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

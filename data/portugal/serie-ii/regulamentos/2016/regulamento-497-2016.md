@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 15867 - 15868
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/098000000/1586715868.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-05-21'
+entry_into_force:
+  date: '2016-05-21'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: n-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1087366187:por#art-1'
+    detail: 8 - O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República, e revoga
+      o [Regulamento n.º 497/2016], de 20 de maio.
 notes: []
 language: por
 version:

@@ -23,6 +23,16 @@ publication:
   pages: 78-(2) a 78-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/099046001/0000200006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao término do prazo de 15 dias úteis se nenhuma sugestão for apresentada e aprovada decorrente da
+    apreciação pública
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

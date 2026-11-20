@@ -23,6 +23,15 @@ publication:
   pages: 19820 - 19820
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/147000000/1982019820.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no momento da sua aprovação, devendo contudo ser publicado no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

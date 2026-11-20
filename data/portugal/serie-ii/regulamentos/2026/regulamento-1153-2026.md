@@ -23,6 +23,15 @@ publication:
   pages: 244 - 257
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/174000000/0024400257.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo/a Reitor/a do UPV
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

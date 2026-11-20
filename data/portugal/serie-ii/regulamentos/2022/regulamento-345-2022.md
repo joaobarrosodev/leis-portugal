@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 346 - 358
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/067000000/0034600358.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-01'
+entry_into_force:
+  date: '2009-01-01'
+  rule: a 1 de janeiro de 2009 e após a sua publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-12-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

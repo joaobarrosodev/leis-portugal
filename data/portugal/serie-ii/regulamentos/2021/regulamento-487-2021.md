@@ -23,6 +23,15 @@ publication:
   pages: 294 - 296
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/100000000/0029400296.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

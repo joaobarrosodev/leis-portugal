@@ -23,8 +23,23 @@ publication:
   pages: 697 - 714
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0069700714.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediato ao da sua publicação por edital
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1121025805:por#art-48'
+    detail: O presente Regulamento revoga o [Regulamento n.º 11/2026], publicado no Diário da República, 2.ª série, em 06.01.2026.
 notes: []
 language: por
 version:

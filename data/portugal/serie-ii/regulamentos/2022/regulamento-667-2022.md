@@ -23,6 +23,15 @@ publication:
   pages: 484 - 492
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/137000000/0048400492.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2022/2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

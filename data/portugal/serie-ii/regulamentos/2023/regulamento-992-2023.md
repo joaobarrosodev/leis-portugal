@@ -23,6 +23,15 @@ publication:
   pages: 547 - 561
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/170000000/0054700561.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

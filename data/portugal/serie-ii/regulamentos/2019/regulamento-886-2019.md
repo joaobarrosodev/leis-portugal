@@ -23,6 +23,15 @@ publication:
   pages: 264 - 267
   pdf_url: https://files.diariodarepublica.pt/2s/2019/11/220000000/0026400267.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação Conselho de Ação Social do IPC pelo Conselho de Ação Social do IPC
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

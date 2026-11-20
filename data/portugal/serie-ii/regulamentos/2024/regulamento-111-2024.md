@@ -23,6 +23,15 @@ publication:
   pages: 834 - 849
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/018000000/0083400849.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

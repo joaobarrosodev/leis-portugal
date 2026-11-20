@@ -24,6 +24,16 @@ publication:
   pages: 358 - 394
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/230000000/0035800394.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República, sem prejuízo de publicação em Edital
+    e na página institucional da UFSSB, em www.uf-ssb.pt
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

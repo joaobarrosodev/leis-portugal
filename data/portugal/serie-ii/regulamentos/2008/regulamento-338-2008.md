@@ -23,6 +23,16 @@ publication:
   pages: 28170 - 28185
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/123000000/2817028185.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com a macroestrutura do município, após aprovação pela Câmara e Assembleia Municipal, publicação no
+    Diário da República e no Boletim Municipal
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

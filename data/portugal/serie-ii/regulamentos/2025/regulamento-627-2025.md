@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 294 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/095000000/0029400300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-20'
+entry_into_force:
+  date: '2025-05-20'
+  rule: no dia seguinte da sua publicação no Diário da República, nos termos do disposto no artigo 139.º do Código de Procedimento
+    Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na atu
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

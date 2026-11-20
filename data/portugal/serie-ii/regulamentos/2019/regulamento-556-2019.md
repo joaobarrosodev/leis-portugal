@@ -23,6 +23,15 @@ publication:
   pages: 19550 - 19553
   pdf_url: https://files.diariodarepublica.pt/2s/2019/07/132000000/1955019553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação, substituindo e revogando o Regulamento n.º 112/2019, de 28 de janeiro
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

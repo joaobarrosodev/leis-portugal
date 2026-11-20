@@ -23,6 +23,15 @@ publication:
   pages: 19581 - 19592
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/140000000/1958119592.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias após a sua publicitação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

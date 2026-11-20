@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 99 - 107
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/182000000/0009900107.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-09-24'
+entry_into_force:
+  date: '2019-09-24'
+  rule: no dia seguinte ao da sua publicação, com exceção da alínea a), do n.º 1 do artigo 9.º referente às obrigações de
+    inventário, aplicáveis aos comercializadores grossistas e retalhistas de GPL engarrafa
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

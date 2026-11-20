@@ -23,6 +23,15 @@ publication:
   pages: 25261 - 25263
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/175000000/2526125263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao do mês sua publicitação na página eletrónica do IPV e no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

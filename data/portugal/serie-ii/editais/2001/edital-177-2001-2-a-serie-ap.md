@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 97 - 102
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/103054000/0009700102.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-03'
+entry_into_force:
+  date: '2001-06-03'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

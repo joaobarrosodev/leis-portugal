@@ -23,6 +23,15 @@ publication:
   pages: 501 - 502
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/004000000/0050100502.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 depois da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

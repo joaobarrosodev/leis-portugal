@@ -25,6 +25,16 @@ publication:
   pages: 186 - 189
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/065000000/0018600189.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República e no sítio oficial da Área Metropolitana de Lisboa,
+    na Internet
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

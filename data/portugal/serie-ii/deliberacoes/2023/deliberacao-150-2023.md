@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/032000000/0003100034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:223200327:por#n-6'
+    detail: 6 - A presente Deliberação revoga [Deliberação n.º 150/2023] do Conselho Diretivo do Alto Comissariado para as
+      Migrações, I. P. de 23 de janeiro de 2023, publicada na 2.ª série do Diário da República, n.º 32 de 14 de fevereiro
+      de 2023.
 notes: []
 language: por
 version:

@@ -25,6 +25,16 @@ publication:
   pages: 13246 - 13247
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/073000000/1324613247.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias contados desde a data da sua publicitação em edital e nos termos do disposto no n.º 1 do artigo
+    91.º da Lei n.º 169/99 de 18 de setembro, com a nova redação dada pela Lei n.º 5-
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

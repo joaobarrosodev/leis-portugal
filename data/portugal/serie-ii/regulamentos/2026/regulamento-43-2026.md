@@ -23,6 +23,16 @@ publication:
   pages: 365 - 401
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/011000000/0036500401.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República e substitui o anterior, o qual fica expressamente
+    revogado a partir daquela data
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

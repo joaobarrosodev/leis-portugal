@@ -23,6 +23,15 @@ publication:
   pages: 29214 - 29215
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/186000000/2921429215.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação e publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 639 - 648
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/082000000/0063900648.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2026-2027, revogando o Regulamento n.º 393/2024
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

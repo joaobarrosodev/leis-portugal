@@ -23,6 +23,16 @@ publication:
   pages: 511 - 517
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/064000000/0051100517.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da instalação do conselho, para o mandato 2021/2025, que deve ocorrer no prazo de 60 dias seguidos, a contar
+    da data de publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 77 - 80
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/251000001/0007700080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-01-01'
+entry_into_force:
+  date: '2020-01-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

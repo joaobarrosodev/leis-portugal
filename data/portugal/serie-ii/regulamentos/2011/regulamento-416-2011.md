@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 29147 - 29149
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/132000000/2914729149.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-07-13'
+entry_into_force:
+  date: '2011-07-13'
+  rule: no dia seguinte à sua publicação, revogando a partir dessa data o Regulamento para Melhoramentos Habitacionais no
+    Município de Alandroal, publicado sob o aviso n.º 1420/2004, no apêndice n.º 29, 2.ª s
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

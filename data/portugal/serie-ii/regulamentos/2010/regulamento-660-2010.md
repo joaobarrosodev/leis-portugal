@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 41499 - 41501
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/149000000/4149941501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-08-18'
+entry_into_force:
+  date: '2010-08-18'
+  rule: 15 dias após a sua publicação em edital a afixar no Edifício da Junta de Freguesia e na respectiva página electrónica,
+    caso exista
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

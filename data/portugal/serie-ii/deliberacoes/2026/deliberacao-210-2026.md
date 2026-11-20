@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 282 - 283
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/041000000/0028200283.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-02-28'
+entry_into_force:
+  date: '2026-02-28'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: '2026-01-01'
+  effects_rule: a 1 de janeiro de 2026 para o diretor do DAI e a 1 de fevereiro de 2026 para o diretor do DSI, ficando ratificados,
+    nos termos do artigo 164.º do CPA, todos os atos praticados no âmbito das competênci
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15 - 19
   pdf_url: https://files.diariodarepublica.pt/2s/2006/07/139062000/0001500019.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-08-19'
+entry_into_force:
+  date: '2006-08-19'
+  rule: 30 dias após a publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

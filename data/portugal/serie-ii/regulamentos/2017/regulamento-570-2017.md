@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 24054 - 24057
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/204000000/2405424057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-10-24'
+entry_into_force:
+  date: '2017-10-24'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:142338945:por#art-18'
+    detail: É revogado o [Regulamento n.º 570/2017], de 18 de julho de 2017, Regulamento de Comunicado de Vindima na Região
+      Demarcada do Douro, publicado no Diário da República, 2.ª série, n.º 204, de 23 de outubro de 2017.
 notes: []
 language: por
 version:

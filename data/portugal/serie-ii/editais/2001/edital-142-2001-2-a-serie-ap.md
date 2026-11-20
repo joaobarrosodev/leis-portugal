@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 59 - 68
   pdf_url: https://files.diariodarepublica.pt/2s/2001/04/091048000/0005900068.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-05-18'
+entry_into_force:
+  date: '2001-05-18'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-84
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

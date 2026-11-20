@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 334 - 337
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/023000000/0033400337.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-02-04'
+entry_into_force:
+  date: '2026-02-04'
+  rule: no dia seguinte à publicação no Diário da República, aplicando-se aos procedimentos concursais relativos aos anos
+    letivos de 2026/27 e seguintes
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

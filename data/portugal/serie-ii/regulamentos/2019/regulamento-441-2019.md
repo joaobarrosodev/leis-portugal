@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 15463 - 15467
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/095000000/1546315467.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-01'
+entry_into_force:
+  date: '2019-06-01'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da Junta de Freguesia
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

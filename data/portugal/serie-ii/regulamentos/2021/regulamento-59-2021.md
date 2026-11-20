@@ -23,6 +23,15 @@ publication:
   pages: 601 - 611
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/010000000/0060100611.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia de Freguesia de Sines e quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

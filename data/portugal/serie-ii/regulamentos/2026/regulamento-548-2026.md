@@ -23,6 +23,15 @@ publication:
   pages: 741 - 744
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/093000000/0074100744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicitação legal
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

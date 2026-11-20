@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27951 - 27952
   pdf_url: https://files.diariodarepublica.pt/2s/2006/12/233000000/2795127952.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-01'
+entry_into_force:
+  date: '2007-01-01'
+  rule: no dia 1 do mês seguinte ao da publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

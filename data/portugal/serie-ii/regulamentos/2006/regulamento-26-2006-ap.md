@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 112 - 115
   pdf_url: https://files.diariodarepublica.pt/2s/2006/09/184073000/0011200115.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-10-07'
+entry_into_force:
+  date: '2006-10-07'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

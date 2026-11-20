@@ -23,6 +23,15 @@ publication:
   pages: 5497 - 5500
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/024000000/0549705500.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

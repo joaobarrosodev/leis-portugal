@@ -23,6 +23,16 @@ publication:
   pages: 37 - 39
   pdf_url: https://files.diariodarepublica.pt/2s/2005/02/039026000/0003700039.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias seguidos sobre a data da sua afixação em edital, o que ocorrerá após a sua aprovação por parte
+    da Assembleia Municipal de Esposende
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 574 - 588
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/199000000/0057400588.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua aprovação pela Assembleia de Freguesia, após a sua publicação em edital
+    a afixar no edifício sede da Freguesia e da sua publicação no Diário da República e n
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

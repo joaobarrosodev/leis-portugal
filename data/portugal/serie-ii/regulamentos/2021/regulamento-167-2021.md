@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 253 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/040000000/0025300263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-27'
+entry_into_force:
+  date: '2021-02-27'
+  rule: a partir do dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

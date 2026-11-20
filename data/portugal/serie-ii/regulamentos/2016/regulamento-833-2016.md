@@ -23,8 +23,24 @@ publication:
   pages: 26582 - 26587
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/162000000/2658226587.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2016/2017, ficando o anterior revogado, bem assim como todas as normas internas que o contrariem
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:114771435:por#art-37'
+    detail: 1 - O presente regulamento entra em vigor no ano letivo de 2017/2018, revogando o [Regulamento n.º 833/2016],
+      de 24 de agosto.
 notes: []
 language: por
 version:

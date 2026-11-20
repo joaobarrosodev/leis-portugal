@@ -23,6 +23,15 @@ publication:
   pages: 8575 - 8577
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/113000000/0857508577.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do concurso relativo ao ano de 2006-2007
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

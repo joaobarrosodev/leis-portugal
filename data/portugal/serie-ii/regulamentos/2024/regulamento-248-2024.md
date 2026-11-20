@@ -23,6 +23,15 @@ publication:
   pages: 325 - 377
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/044000000/0032500377.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação pela Assembleia Municipal, ficando a sua eficácia condicionada à publicação no Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

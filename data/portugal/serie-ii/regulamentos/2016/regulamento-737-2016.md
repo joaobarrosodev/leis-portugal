@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 23184 - 23186
   pdf_url: https://files.diariodarepublica.pt/2s/2016/07/142000000/2318423186.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-07-27'
+entry_into_force:
+  date: '2016-07-27'
+  rule: no dia imediatamente a seguir à sua publicação no Diário da República, e aplicam-se a partir do ano letivo 2016/2017
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

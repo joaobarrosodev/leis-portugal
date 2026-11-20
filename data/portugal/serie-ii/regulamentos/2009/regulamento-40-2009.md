@@ -28,7 +28,7 @@ entry_into_force:
   date: null
   rule: no dia da sua aprovação
   method: clausula
-  article: art-9
+  article: art-8
   effects_date: null
   effects_rule: null
   end_date: null

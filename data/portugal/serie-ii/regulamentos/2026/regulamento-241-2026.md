@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 475 - 493
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/050000000/0047500493.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-13'
+entry_into_force:
+  date: '2026-03-13'
+  rule: no dia seguinte ao da sua publicação no Diário da República, ficando, desde essa data, revogado o Regulamento Orgânico
+    dos Serviços da Comunidade Intermunicipal do Oeste anteriormente em vigor, sem pr
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

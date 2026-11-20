@@ -23,6 +23,15 @@ publication:
   pages: 70 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2004/01/006003000/0007000078.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil a contar da data da sua publicação no Diário da República
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 696 - 701
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/241000000/0069600701.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-12-17'
+entry_into_force:
+  date: '2024-12-17'
+  rule: no quinto dia após a sua publicação na 2.ª série do Diário da República e no sítio institucional da Junta de Freguesia
+    de Santa Catarina
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

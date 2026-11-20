@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 23 - 41
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/114056000/0002300041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-06-15'
+entry_into_force:
+  date: '2006-06-15'
+  rule: no dia seguinte à publicação no Diário da República, aplicando-se a todos os pedidos de licenciamento ou autorização
+    apresentados a partir desta data, inclusive
+  method: clausula
+  article: art-129
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

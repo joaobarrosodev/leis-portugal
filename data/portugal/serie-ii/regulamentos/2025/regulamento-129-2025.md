@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 338 - 340
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/015000000/0033800340.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-23'
+entry_into_force:
+  date: '2025-01-23'
+  rule: no dia seguinte ao da sua publicação no Diário da República, com efeitos retroativos a 1 de janeiro de 2024
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

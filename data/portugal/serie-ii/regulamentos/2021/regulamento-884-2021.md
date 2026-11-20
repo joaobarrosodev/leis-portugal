@@ -23,6 +23,15 @@ publication:
   pages: 293 - 303
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/189000000/0029300303.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente à sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 7229 - 7231
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/108000000/0722907231.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2004-2005
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

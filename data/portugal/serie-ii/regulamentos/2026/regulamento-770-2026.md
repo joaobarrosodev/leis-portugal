@@ -24,6 +24,15 @@ publication:
   pages: 502 - 513
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/120000000/0050200513.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2026/2027, inclusive
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

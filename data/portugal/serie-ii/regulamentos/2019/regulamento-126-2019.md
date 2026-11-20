@@ -23,6 +23,15 @@ publication:
   pages: 4506 - 4507
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/024000000/0450604507.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

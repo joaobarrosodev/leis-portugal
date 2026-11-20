@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7 - 18
   pdf_url: https://files.diariodarepublica.pt/2s/2002/05/118065000/0000700018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-21'
+entry_into_force:
+  date: '2002-06-21'
+  rule: no 30.º dia após a publicação edital da respectiva deliberação da Assembleia Municipal
+  method: clausula
+  article: art-115
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

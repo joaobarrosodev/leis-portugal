@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 267 - 282
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/047000000/0026700282.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-08'
+entry_into_force:
+  date: '2025-03-08'
+  rule: no dia seguinte à data da sua publicação, revogando todas as normas e regulamentos referentes ao funcionamento dos
+    refeitórios escolares em vigor a essa data
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 100 - 109
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/068045000/0010000109.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-03-21'
+entry_into_force:
+  date: '2003-03-21'
+  rule: na data da respectiva publicação, considerando-se revogado o Regulamento do Serviço de Saneamento do Concelho de Viseu,
+    aprovado por portaria do Ministério da Administração Interna e Secretaria de Est
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

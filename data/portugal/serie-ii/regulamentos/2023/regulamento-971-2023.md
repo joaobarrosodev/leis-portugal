@@ -23,6 +23,15 @@ publication:
   pages: 443 - 448
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/166000000/0044300448.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação em edital a afixar no edifício sede da Junta de Freguesia
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

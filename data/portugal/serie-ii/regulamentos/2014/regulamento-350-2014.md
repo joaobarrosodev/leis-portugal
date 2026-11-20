@@ -23,8 +23,24 @@ publication:
   pages: 20245 - 20246
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/150000000/2024520246.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente a seguir à sua aprovação sendo publicitado nos termos legais
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74931875:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 350/2014], publicado no Diário da República, 2.ª série, N.º 150
+      de 6 de agosto.
 notes: []
 language: por
 version:

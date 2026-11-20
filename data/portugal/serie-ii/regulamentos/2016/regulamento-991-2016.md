@@ -23,6 +23,15 @@ publication:
   pages: 32402 - 32404
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/208000000/3240232404.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos que sejam cinco dias da sua publicitação em Edital
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

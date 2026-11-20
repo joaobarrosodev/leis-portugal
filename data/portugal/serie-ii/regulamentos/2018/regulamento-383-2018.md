@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17225 - 17225
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/117000000/1722517225.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-21'
+entry_into_force:
+  date: '2018-06-21'
+  rule: no dia seguinte à publicação no Diário da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

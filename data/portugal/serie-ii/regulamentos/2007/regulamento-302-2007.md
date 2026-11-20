@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 32656 - 32659
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/216000000/3265632659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-24'
+entry_into_force:
+  date: '2007-11-24'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

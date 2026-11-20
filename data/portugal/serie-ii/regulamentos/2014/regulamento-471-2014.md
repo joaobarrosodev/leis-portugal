@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26862 - 26866
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/205000000/2686226866.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-11-07'
+entry_into_force:
+  date: '2014-11-07'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

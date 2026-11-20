@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 423 - 431
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/225000000/0042300431.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-12-04'
+entry_into_force:
+  date: '2026-12-04'
+  rule: no prazo de 15 dias após publicação no Diário da República
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

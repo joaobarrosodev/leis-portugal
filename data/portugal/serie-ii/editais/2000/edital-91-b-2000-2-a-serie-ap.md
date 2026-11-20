@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 4
   pdf_url: https://files.diariodarepublica.pt/2s/2000/03/063038001/0000300004.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-03-16'
+entry_into_force:
+  date: '2000-03-16'
+  rule: no dia imediato ao da sua publicação no Diário da República, depois de cumpridas todas as formalidades legais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

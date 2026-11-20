@@ -24,6 +24,16 @@ publication:
   pages: 409 - 412
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/110000000/0040900412.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da respetiva publicitação, no Diário da República, nos termos do artigo 139.º do Código do Procedimento
+    Administrativo
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 17058 - 17072
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/102000000/1705817072.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-107
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

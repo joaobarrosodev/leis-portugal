@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29384 - 29386
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/161000000/2938429386.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-21'
+entry_into_force:
+  date: '2012-08-21'
+  rule: na data da sua publicação no Diário da República e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: no ano letivo de 2012/2013
 end_of_validity_date: null
 legal_status: unknown
 notes: []

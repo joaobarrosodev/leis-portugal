@@ -23,6 +23,15 @@ publication:
   pages: 36 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2001/09/224112000/0003600038.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

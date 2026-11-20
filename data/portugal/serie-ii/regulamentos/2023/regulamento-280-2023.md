@@ -23,6 +23,15 @@ publication:
   pages: 372 - 380
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/047000000/0037200380.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: trinta dias após a sua aprovação pela Assembleia Municipal e publicação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

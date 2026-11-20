@@ -23,6 +23,15 @@ publication:
   pages: 6743 - 6745
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/044000000/0674306745.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

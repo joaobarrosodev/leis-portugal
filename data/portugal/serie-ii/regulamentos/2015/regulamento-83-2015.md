@@ -22,9 +22,32 @@ publication:
   supplement: null
   pages: 4748 - 4751
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/038000000/0474804751.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-02-25'
+entry_into_force:
+  date: '2015-02-25'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:121357318:por#art-22'
+    detail: O presente Regulamento revoga o [Regulamento n.º 83/2015], publicado no Diário da República, 2.ª série, n.º 38,
+      de 24 de fevereiro de 2015, republicado por [Regulamento n.º 93/2018], publicado no Diário da República, 2.ª série,
+      n.º 27, de 7 de fevereiro de 2018.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:134918047:por#art-22'
+    detail: O presente Regulamento revoga o [Regulamento n.º 83/2015], publicado no Diário da República, 2.ª série, n.º 38,
+      de 24 de fevereiro de 2015, republicado por [Regulamento n.º 93/2018], publicado no Diário da República, 2.ª série,
+      n.º 27, de 7 de fevereiro de 2018.
 notes: []
 language: por
 version:

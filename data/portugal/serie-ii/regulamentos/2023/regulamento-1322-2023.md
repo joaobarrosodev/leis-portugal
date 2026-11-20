@@ -23,6 +23,15 @@ publication:
   pages: 855 - 875
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/241000000/0085500875.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 15 dias à sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

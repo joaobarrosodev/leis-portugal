@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 300 - 304
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/136000000/0030000304.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-07-16'
+entry_into_force:
+  date: '2022-07-16'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:902718907:por#art-16'
+    detail: 2 - A entrada em vigor do presente regulamento revoga o [Regulamento n.º 649/2022], publicado no Diário da República,
+      2.ª série, n.º 136, de 15 de julho de 2022.
 notes: []
 language: por
 version:

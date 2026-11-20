@@ -23,6 +23,15 @@ publication:
   pages: 218 - 237
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/249000000/0021800237.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: passados cinco dias úteis, após a publicitação da deliberação da Câmara Municipal, feita nos termos da lei em vigor
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/038000000/0832208323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1271876:por#n-2'
+    detail: Este regulamento revoga o [Regulamento n.º 135/2010] de 14 de Junho.
 notes: []
 language: por
 version:

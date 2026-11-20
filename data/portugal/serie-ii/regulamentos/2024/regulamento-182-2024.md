@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 434 - 442
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/027000000/0043400442.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-01'
+entry_into_force:
+  date: '2024-01-01'
+  rule: no dia 1 de janeiro de 2024
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

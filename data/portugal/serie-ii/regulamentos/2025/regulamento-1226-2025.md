@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 387 - 392
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/218000000/0038700392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-11-11'
+entry_into_force:
+  date: '2025-11-11'
+  rule: a partir da sua publicação no Diário da República, substituindo o anterior regulamento aprovado pelo Conselho de Administração
+    da CESPU a 29-05-2023
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

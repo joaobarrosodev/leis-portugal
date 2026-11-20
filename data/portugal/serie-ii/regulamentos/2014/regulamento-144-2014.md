@@ -23,6 +23,15 @@ publication:
   pages: 9508 - 9510
   pdf_url: https://files.diariodarepublica.pt/2s/2014/04/068000000/0950809510.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após homologação e aplica-se a partir do ano letivo 2014/2015
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

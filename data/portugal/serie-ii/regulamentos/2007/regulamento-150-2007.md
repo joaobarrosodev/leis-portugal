@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/133000000/2007320074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1677148:por#art-19'
+    detail: 3 - Revoga-se o [Regulamento n.º 150/2007], de 12 de julho de 2007, publicado no Diário da República n.º 133,
+      2.ª série.
 notes: []
 language: por
 version:

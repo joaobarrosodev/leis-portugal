@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 179 - 179
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/033000000/0017900179.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-02-16'
+entry_into_force:
+  date: '2023-02-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República e
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: 'desde 1 de setembro, ficando ratificados, nos termos do artigo 164.º do Código do Procedimento Administrativo,
+    todos os atos que, no âmbito da presente subdelegação, tenham sido praticados desde essa '
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

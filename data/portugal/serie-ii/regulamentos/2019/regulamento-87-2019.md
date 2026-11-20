@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 2834 - 2837
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/014000000/0283402837.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-01'
+entry_into_force:
+  date: '2019-02-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1130568149:por#art-26'
+    detail: O presente regulamento revoga o [Regulamento n.º 87/2019], de 21 de janeiro.
 notes: []
 language: por
 version:

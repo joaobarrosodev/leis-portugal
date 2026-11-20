@@ -23,6 +23,15 @@ publication:
   pages: 32054 - 32054
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/245000000/3205432054.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelos órgãos competentes do ISA
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

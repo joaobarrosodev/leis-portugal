@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 10 - 18
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/170113000/0001000018.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-08-09'
+entry_into_force:
+  date: '2003-08-09'
+  rule: 15 dias após a sua publicação legal e revoga todas as disposições regulamentares anteriores relacionadas com a matéria
+  method: clausula
+  article: art-75-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

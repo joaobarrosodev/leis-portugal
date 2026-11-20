@@ -24,6 +24,15 @@ publication:
   pages: 541 - 549
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/209000000/0054100549.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: de imediato e
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: a partir do ano letivo de 2023/2024
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

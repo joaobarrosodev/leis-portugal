@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 25742 - 25744
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/173000000/2574225744.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-05'
+entry_into_force:
+  date: '2015-09-05'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

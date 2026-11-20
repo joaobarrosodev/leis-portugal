@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20558 - 20561
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/145000000/2055820561.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-31'
+entry_into_force:
+  date: '2018-07-31'
+  rule: no dia seguinte à sua publicação, nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

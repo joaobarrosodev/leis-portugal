@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/134000000/1822318226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:855279649:por#texto'
+    detail: 1 - Pelo presente regulamento é revogado o [Regulamento n.º 304/2014], de 15 de julho, publicado na 2.ª série
+      do Diário da República, n.º 134.
 notes: []
 language: por
 version:

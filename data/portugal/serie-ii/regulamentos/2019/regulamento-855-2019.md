@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 187 - 213
   pdf_url: https://files.diariodarepublica.pt/2s/2019/11/211000000/0018700213.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-11-05'
+entry_into_force:
+  date: '2019-11-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República, encontrando-se disponível no sitio do Município de Cantanhede,
+    em www.cm-cantanhede.pt
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

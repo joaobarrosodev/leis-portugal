@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3113 - 3128
   pdf_url: https://files.diariodarepublica.pt/2s/2014/01/021000000/0311303128.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-01-30'
+entry_into_force:
+  date: '2014-01-30'
+  rule: após a sua publicação nos termos legais, revogando qualquer outro diploma municipal sobre a matéria
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

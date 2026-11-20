@@ -23,6 +23,16 @@ publication:
   pages: 895 - 898
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/027000000/0089500898.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia de Freguesia de Soutelo de Aguiar, afixação nos lugares públicos do costume e publicação
+    no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

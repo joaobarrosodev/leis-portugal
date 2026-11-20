@@ -23,6 +23,15 @@ publication:
   pages: 9717 - 9722
   pdf_url: https://files.diariodarepublica.pt/2s/2015/04/077000000/0971709722.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês seguinte ao da sua aprovação e revoga todas as disposições e determinações anteriores
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

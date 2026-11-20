@@ -23,6 +23,16 @@ publication:
   pages: 153 - 158
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/147000000/0015300158.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua assinatura pelos Membros admitidos até à referida data (Lista em Anexo) e, subsequentemente,
+    será objeto de publicação nos sítios institucionais dos mesmos
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

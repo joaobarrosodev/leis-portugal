@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 326 - 373
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/236000000/0032600373.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-09'
+entry_into_force:
+  date: '2019-12-09'
+  rule: após a publicação no Diário da República
+  method: clausula
+  article: art-115
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

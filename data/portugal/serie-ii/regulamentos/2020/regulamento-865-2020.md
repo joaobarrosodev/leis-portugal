@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 191 - 198
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/199000000/0019100198.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-13'
+entry_into_force:
+  date: '2020-10-13'
+  rule: na data da sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

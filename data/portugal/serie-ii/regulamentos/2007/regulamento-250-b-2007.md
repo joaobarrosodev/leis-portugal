@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 27508-(110) a 27508-(114)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/181000002/0011000114.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-09-19'
+entry_into_force:
+  date: '2007-09-19'
+  rule: a partir da data da sua publicação em Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

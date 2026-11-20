@@ -23,6 +23,15 @@ publication:
   pages: 230 - 232
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/068000000/0023000232.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Presidente do IPV e subsequente publicitação nos termos legais aplicáveis
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

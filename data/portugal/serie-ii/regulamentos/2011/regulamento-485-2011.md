@@ -23,6 +23,15 @@ publication:
   pages: 33180 - 33181
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/154000000/3318033181.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à sua aprovação e revoga o aprovado em assembleia de delegados de 15/07/2003
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 411 - 424
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/052000000/0041100424.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-29'
+entry_into_force:
+  date: '2025-03-29'
+  rule: 15 dias após a sua publicação, revogando o Regulamento de Utilização de Autocarros publicado no Diário da República,
+    2.ª série, n.º 155, de 8 de julho de 2003 com as alterações publicadas no Diário da
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

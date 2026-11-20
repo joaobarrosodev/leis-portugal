@@ -23,6 +23,15 @@ publication:
   pages: 11246 - 11247
   pdf_url: https://files.diariodarepublica.pt/2s/2006/07/135000000/1124611247.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que publicado
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

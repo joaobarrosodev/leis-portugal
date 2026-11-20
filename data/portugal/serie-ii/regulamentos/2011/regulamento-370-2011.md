@@ -23,6 +23,15 @@ publication:
   pages: 23942 - 23943
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/107000000/2394223943.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2011/2012
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

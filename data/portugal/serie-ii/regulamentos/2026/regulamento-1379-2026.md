@@ -23,6 +23,15 @@ publication:
   pages: 328 - 355
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/202000000/0032800355.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação por edital e na página oficial do município na internet
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 762 - 764
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/019000000/0076200764.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-27'
+entry_into_force:
+  date: '2024-01-27'
+  rule: no dia seguinte ao da sua publicação na 2.ª série do Diário da República, sendo publicitado em edital afixado nos
+    lugares do costume, bem como no Site da Freguesia de Aljubarrota
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

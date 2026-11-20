@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 34830 - 34832
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/234000000/3483034832.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-15'
+entry_into_force:
+  date: '2015-12-15'
+  rule: no prazo de 15 dias a contar da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1110002279:por#art-52'
+    detail: c) [Regulamento n.º 820/2015], de 30 de novembro - Regulamento Municipal de Atribuição de Bolsas de Estudo e Mérito.
 notes: []
 language: por
 version:

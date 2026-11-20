@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 366 - 395
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/099000000/0036600395.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-05'
+entry_into_force:
+  date: '2021-06-05'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

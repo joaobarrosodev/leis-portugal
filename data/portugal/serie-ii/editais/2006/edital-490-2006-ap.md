@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 113 - 144
   pdf_url: https://files.diariodarepublica.pt/2s/2006/12/245088000/0011300144.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-06'
+entry_into_force:
+  date: '2007-01-06'
+  rule: 15 dias após a sua publicação legal
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

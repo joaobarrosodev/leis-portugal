@@ -24,6 +24,16 @@ publication:
   pages: 7534 - 7537
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/043000000/0753407537.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação em reunião de Câmara e Assembleia Municipal, sob proposta do Vereador do Pelouro da Juventude, baseada
+    em parecer técnico dos Serviços e ouvido o CMJFF
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

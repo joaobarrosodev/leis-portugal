@@ -23,6 +23,15 @@ publication:
   pages: 301 - 317
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/068000000/0030100317.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado e após publicitação no Boletim Municipal
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

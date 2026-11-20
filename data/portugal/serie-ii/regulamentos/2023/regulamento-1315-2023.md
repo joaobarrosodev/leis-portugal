@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 561 - 568
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/240000000/0056100568.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-29'
+entry_into_force:
+  date: '2023-12-29'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício-sede da Junta de Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

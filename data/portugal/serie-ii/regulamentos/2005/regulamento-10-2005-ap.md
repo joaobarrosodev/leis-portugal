@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 79 - 83
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/115082000/0007900083.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-18'
+entry_into_force:
+  date: '2005-06-18'
+  rule: no 1.º dia após a publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

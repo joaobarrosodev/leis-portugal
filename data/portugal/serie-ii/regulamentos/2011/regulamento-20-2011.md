@@ -23,6 +23,15 @@ publication:
   pages: 1920 - 1924
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/007000000/0192001924.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação nos termos legais
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

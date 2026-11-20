@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 25598 - 25601
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/154000000/2559825601.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-08-27'
+entry_into_force:
+  date: '2013-08-27'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: à data da sua entrada em vigor, com exceção da aplicação das disposições do presente Regulamento que pressupõem
+    a existência do "Balcão do Empreendedor"
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 4527 - 4529
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/024000000/0452704529.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Câmara Municipal e pela Assembleia Municipal de Santa Cruz e depois de publicado no Diário da
+    República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

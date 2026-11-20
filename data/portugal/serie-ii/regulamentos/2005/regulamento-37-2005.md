@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7640 - 7643
   pdf_url: https://files.diariodarepublica.pt/2s/2005/05/095000000/0764007643.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-05-27'
+entry_into_force:
+  date: '2005-05-27'
+  rule: no prazo de 10 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

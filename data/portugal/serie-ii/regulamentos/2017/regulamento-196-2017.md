@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/075000000/0725107264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:219919987:por#texto'
+    detail: O presente regulamento revoga o [Regulamento n.º 196/2017] - Regulamento de Taxas e Outras Receitas do Município
+      da Ribeira Brava, com as alterações introduzidas no [Aviso n.º 15195/2018] de 22 de outubro.
 notes: []
 language: por
 version:

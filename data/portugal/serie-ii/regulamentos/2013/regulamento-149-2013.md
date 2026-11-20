@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13828 - 13848
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/083000000/1382813848.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-15'
+entry_into_force:
+  date: '2013-05-15'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República, à exceção da secção II do Capítulo III que
+  method: clausula
+  article: art-92
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

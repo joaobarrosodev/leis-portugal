@@ -23,6 +23,15 @@ publication:
   pages: 4 - 6
   pdf_url: https://files.diariodarepublica.pt/2s/2000/02/045028000/0000400006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação por edital
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

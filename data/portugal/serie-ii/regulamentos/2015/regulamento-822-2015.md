@@ -23,6 +23,15 @@ publication:
   pages: 34899 - 34901
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/235000000/3489934901.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em simultâneo com a entrada em produção do sistema de gestão documental
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

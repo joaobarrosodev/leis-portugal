@@ -23,6 +23,16 @@ publication:
   pages: 8618-(157) a 8618-(166)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/03/064000003/0015700166.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de decorridos 15 dias sobre a sua publicação por edital, nos lugares de estilo, revogando e substituindo toda
+    a anterior regulamentação sobre a matéria
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

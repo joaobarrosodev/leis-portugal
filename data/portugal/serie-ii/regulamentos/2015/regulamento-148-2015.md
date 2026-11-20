@@ -23,6 +23,15 @@ publication:
   pages: 7452 - 7463
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/059000000/0745207463.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: aquando da atualização e aprovação do respetivo tarifário
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

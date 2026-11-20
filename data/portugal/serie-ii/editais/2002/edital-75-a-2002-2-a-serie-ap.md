@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 110-(14) a 110-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2002/02/035012002/0001400022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-02-16'
+entry_into_force:
+  date: '2002-02-16'
+  rule: cinco dias após a sua publicação em editais municipais
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 12650 - 12655
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/118000000/1265012655.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-21'
+entry_into_force:
+  date: '2017-06-21'
+  rule: após a sua publicação nos termos legais, ficando revogadas todas as disposições regulamentares que com ele estejam
+    em contradição
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

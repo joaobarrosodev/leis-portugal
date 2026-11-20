@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 413 - 419
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/100000000/0041300419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-06-08'
+entry_into_force:
+  date: '2023-06-08'
+  rule: no prazo de 15 dias contados da data da publicação mediante editais fixados nos lugares de estilo
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

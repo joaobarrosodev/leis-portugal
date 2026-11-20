@@ -23,6 +23,15 @@ publication:
   pages: 1085 - 1086
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/007000000/0108501086.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2017/2018
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

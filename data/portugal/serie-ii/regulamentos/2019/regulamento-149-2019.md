@@ -23,6 +23,15 @@ publication:
   pages: 4853 - 4855
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/026000000/0485304855.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que forem aprovados em Assembleia da União das Freguesias
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

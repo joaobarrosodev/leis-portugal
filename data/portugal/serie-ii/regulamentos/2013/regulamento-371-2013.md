@@ -23,6 +23,15 @@ publication:
   pages: 29943 - 29944
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/189000000/2994329944.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 498 - 508
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/104000000/0049800508.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediatamente seguinte à data do seu registo no Sistema Nacional de Informação Desportiva da
+    Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos da Resoluç
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

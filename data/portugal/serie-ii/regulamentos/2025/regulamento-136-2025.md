@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 204 - 208
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/016000000/0020400208.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-24'
+entry_into_force:
+  date: '2025-01-24'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem
+    na Internet
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

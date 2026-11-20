@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 281 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/084000000/0028100293.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-03'
+entry_into_force:
+  date: '2023-05-03'
+  rule: no dia seguinte ao da sua publicação, não sendo aplicável aos procedimentos pendentes já aprovados ao abrigo do Regulamento
+    do Programa de Apoio às Atividades Culturais e Recreativas
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

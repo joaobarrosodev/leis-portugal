@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 544 - 549
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/172000000/0054400549.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-13'
+entry_into_force:
+  date: '2025-09-13'
+  rule: cinco dias após publicação no DRE
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 36967 - 36970
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/248000000/3696736970.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em todo o concelho de Campo Maior, após a sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

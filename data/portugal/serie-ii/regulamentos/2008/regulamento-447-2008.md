@@ -24,6 +24,16 @@ publication:
   pages: 35883 - 35886
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/155000000/3588335886.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano escolar 2007/08, inclusive, para os ciclos de estudos adequados ao novo regime jurídico de graus e
+    diplomas do ensino superior
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

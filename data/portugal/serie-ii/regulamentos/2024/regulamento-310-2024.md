@@ -24,6 +24,15 @@ publication:
   pages: 336 - 348
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/056000000/0033600348.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

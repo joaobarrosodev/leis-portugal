@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 3982 - 3985
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/019000000/0398203985.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-29'
+entry_into_force:
+  date: '2019-01-29'
+  rule: no dia seguinte ao da sua publicação, substituindo e revogando o Regulamento n.º 536/2014, de 2 de dezembro
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:123092065:por#art-19'
+    detail: O presente Regulamento é publicado no Diário da República, 2.ª série, divulgado na página do ISMAI na Internet,
+      e entra em vigor no dia útil seguinte ao da sua publicação, substituindo e revogando o [Regulamento n.º 112/2019], de
+      28 de janeiro.
 notes: []
 language: por
 version:

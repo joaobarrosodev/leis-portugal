@@ -23,6 +23,16 @@ publication:
   pages: 345 - 347
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/046000000/0034500347.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, depois de aprovado pela Assembleia de Freguesia,
+    com efeitos retroativos a 1 de janeiro de 2024
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

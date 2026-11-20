@@ -23,6 +23,15 @@ publication:
   pages: 241 - 252
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/144000000/0024100252.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2026-2027
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/152000000/4239442395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:67282734:por#art-16'
+    detail: Com o presente regulamento é revogado o [Regulamento n.º 665/2010], publicado na 2.ª série do Diário da República,
+      de 6 de agosto de 2010.
 notes: []
 language: por
 version:

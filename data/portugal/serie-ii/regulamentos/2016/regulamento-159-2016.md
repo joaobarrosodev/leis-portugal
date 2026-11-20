@@ -23,6 +23,15 @@ publication:
   pages: 5298 - 5300
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/032000000/0529805300.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação, nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

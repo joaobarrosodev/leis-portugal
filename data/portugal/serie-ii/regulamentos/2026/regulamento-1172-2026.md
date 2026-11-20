@@ -23,6 +23,15 @@ publication:
   pages: 335 - 345
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/180000000/0033500345.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia de Freguesia de Paços de Gaiolo e a sua publicitação nos termos legais
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

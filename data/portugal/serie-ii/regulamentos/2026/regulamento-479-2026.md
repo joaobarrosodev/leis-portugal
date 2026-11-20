@@ -23,6 +23,16 @@ publication:
   pages: 533 - 539
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/087000000/0053300539.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia Municipal de Elvas e vigoram pelo tempo necessário à concretização das iniciativas
+    aqui referidas
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 326 - 330
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/016000000/0032600330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-30'
+entry_into_force:
+  date: '2021-01-30'
+  rule: no quinto dia após a sua publicação no Diário da República nos termos do artigo 140.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

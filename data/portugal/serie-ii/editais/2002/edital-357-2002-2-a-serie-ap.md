@@ -23,6 +23,15 @@ publication:
   pages: 26 - 31
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/174100000/0002600031.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação nos termos legais
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

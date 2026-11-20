@@ -23,6 +23,16 @@ publication:
   pages: 45936 - 45942
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/171000000/4593645942.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2010-2011, logo que aprovado pelo Conselho Científico e Pedagógico das Escolas Universitárias do
+    IADE e publicitado nos termos legais
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

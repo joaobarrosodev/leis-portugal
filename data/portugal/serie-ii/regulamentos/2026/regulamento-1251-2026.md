@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 609 - 618
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/194000000/0060900618.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-08'
+entry_into_force:
+  date: '2026-10-08'
+  rule: no dia seguinte ao da sua publicação definitiva na 2.ª série do Diário da República, após a conclusão do período legal
+    de consulta pública e aprovação em Assembleia de Freguesia
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

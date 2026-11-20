@@ -23,6 +23,15 @@ publication:
   pages: 57370 - 57371
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/227000000/5737057371.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua homologação pelo Presidente da ESAV
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

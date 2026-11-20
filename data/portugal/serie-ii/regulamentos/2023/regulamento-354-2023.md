@@ -23,6 +23,15 @@ publication:
   pages: 375 - 377
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/056000000/0037500377.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

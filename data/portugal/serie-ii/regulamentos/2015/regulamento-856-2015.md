@@ -23,8 +23,24 @@ publication:
   pages: 36705 - 36713
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/247000000/3670536713.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do dia da sua publicação no Diário da República
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:116231232:por#art-48'
+    detail: Considera-se revogado o [Regulamento n.º 856/2015] do MICF, publicado pelo Diário da República, 2.ª série, n.º
+      247, de 18 de dezembro de 2015.
 notes: []
 language: por
 version:

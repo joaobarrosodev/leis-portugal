@@ -23,8 +23,24 @@ publication:
   pages: 73 - 85
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/093000000/0007300085.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após a sua aprovação pela assembleia geral, nos termos do disposto no artigo 22.º do Estatuto da Ordem dos Farmacêuticos
+    e publicação na 2.ª série do Diário da República e meio de comunicação oficial '
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:864845931:por#art-51'
+    detail: É revogado o [Regulamento n.º 521/2023].
 notes: []
 language: por
 version:

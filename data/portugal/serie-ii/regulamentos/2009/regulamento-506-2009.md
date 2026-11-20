@@ -23,6 +23,15 @@ publication:
   pages: 51439 - 51442
   pdf_url: https://files.diariodarepublica.pt/2s/2009/12/245000000/5143951442.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

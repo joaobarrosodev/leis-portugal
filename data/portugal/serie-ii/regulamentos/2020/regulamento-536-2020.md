@@ -24,6 +24,15 @@ publication:
   pages: 276 - 279
   pdf_url: https://files.diariodarepublica.pt/2s/2020/06/119000000/0027600279.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação nos termos da lei
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

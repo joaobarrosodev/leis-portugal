@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24880 - 24883
   pdf_url: https://files.diariodarepublica.pt/2s/2018/09/170000000/2488024883.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-09-19'
+entry_into_force:
+  date: '2018-09-19'
+  rule: 15 dias após a sua publicação ser afixada em edital nos lugares devidos
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

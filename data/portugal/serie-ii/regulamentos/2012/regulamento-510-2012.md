@@ -23,8 +23,24 @@ publication:
   pages: 40712 - 40716
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/250000000/4071240716.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente posterior ao da sua publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:73943634:por#art-20'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 510/2012], publicado na 2.ª série do Diário da República
+      em 27 de dezembro.
 notes: []
 language: por
 version:

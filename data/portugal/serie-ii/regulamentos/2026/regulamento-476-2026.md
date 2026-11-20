@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 358 - 378
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/086000000/0035800378.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-06'
+entry_into_force:
+  date: '2026-05-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República, nos termos legais aplicáveis
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 30151 - 30154
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/105000000/3015130154.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

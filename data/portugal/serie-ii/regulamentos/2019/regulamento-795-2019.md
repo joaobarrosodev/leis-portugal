@@ -24,6 +24,16 @@ publication:
   pages: 131 - 134
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/196000000/0013100134.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no primeiro dia útil após a publicação no Diário da República e é aplicável a todos os pedidos de reconhecimento
+    específico do grau de Licenciado em Ciências Básicas da Saúde Oral efetuados ao abrigo '
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

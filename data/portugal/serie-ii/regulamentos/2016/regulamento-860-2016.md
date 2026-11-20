@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27547 - 27559
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/169000000/2754727559.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-17'
+entry_into_force:
+  date: '2016-09-17'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

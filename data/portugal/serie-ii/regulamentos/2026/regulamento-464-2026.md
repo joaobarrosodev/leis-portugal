@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 285 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/084000000/0028500293.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-01'
+entry_into_force:
+  date: '2026-05-01'
+  rule: no dia seguinte à sua publicação nos termos legais e revoga o Regulamento dos Apoios para Habitação dos Agregados
+    Familiares Carenciados do Município das Lajes do Pico, Regulamento n.º 1208/2024, publ
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

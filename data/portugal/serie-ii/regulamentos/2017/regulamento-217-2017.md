@@ -23,6 +23,16 @@ publication:
   pages: 7803 - 7805
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/080000000/0780307805.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a aprovação pela Assembleia Municipal de Bragança e respetiva publicação em edital a ser afixado nos
+    lugares de estilo e página eletrónica da Câmara Municipal de Bragança
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

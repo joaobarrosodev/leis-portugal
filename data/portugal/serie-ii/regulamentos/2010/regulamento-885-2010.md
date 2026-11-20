@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 61114 - 61123
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/242000000/6111461123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-31'
+entry_into_force:
+  date: '2010-12-31'
+  rule: 15 dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

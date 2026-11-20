@@ -23,6 +23,15 @@ publication:
   pages: 153 - 156
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/211000000/0015300156.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação e publicitação nos termos legais aplicáveis
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

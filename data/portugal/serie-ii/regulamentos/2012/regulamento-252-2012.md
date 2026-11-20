@@ -24,6 +24,15 @@ publication:
   pages: 24260 - 24264
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/132000000/2426024264.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2012/2013
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

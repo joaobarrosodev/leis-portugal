@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28260 - 28260
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/202000000/2826028260.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-10-19'
+entry_into_force:
+  date: '2018-10-19'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

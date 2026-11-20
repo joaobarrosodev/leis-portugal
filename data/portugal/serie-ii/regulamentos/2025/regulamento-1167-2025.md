@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 483 - 486
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/201000000/0048300486.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-17'
+entry_into_force:
+  date: '2025-10-17'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 26675 - 26677
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/163000000/2667526677.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2016/2017, após a respetiva aprovação e publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

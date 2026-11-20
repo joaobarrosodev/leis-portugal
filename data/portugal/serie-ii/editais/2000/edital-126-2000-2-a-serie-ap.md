@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 77 - 79
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/085055000/0007700079.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-10'
+entry_into_force:
+  date: '2000-05-10'
+  rule: 30 dias após a sua publicação e revoga todas as disposições legais anteriores sobre a mesma matéria
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

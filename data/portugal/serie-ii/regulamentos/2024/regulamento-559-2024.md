@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 655 - 657
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/095000000/0065500657.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-05-17'
+entry_into_force:
+  date: '2024-05-17'
+  rule: no dia seguinte ao da sua publicação no Diário da República, vigorando para o ano letivo 2023/2024 e seguintes
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

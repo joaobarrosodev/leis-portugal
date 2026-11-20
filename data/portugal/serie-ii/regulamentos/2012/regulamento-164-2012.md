@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16043 - 16049
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/089000000/1604316049.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-23'
+entry_into_force:
+  date: '2012-05-23'
+  rule: quinze dias após a publicação do edital informando a sua aprovação
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 206 - 210
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/199000000/0020600210.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-10-28'
+entry_into_force:
+  date: '2021-10-28'
+  rule: no prazo de 15 dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

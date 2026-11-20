@@ -23,6 +23,15 @@ publication:
   pages: 40660 - 40664
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/194000000/4066040664.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir de um Janeiro, 15 dias após a sua publicação em edital a afixar no edifício da Sede da Junta de Freguesia
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []
