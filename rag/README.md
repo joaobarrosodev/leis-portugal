@@ -1148,4 +1148,6 @@ Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto 
 
 Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
 
+Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
+
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
