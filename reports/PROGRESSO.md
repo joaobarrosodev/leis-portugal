@@ -1,6 +1,6 @@
 # Progresso do projeto
 
-Relatório gerado em 2026-11-20.
+Relatório gerado em 2026-11-21.
 
 ## Estado real
 
@@ -9,23 +9,23 @@ Relatório gerado em 2026-11-20.
 | Estrutura do pacote Python | Implementado | `src/leis_portugal/` |
 | Registo de fontes | Implementado | `config/sources.yml` validado por esquema |
 | Esquemas de metadados | Implementado | `schemas/` |
-| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 55253 ato(s) da UE no acervo |
-| Conector DRE (por data, por caminho, consolidados, em falta e referidos) | Operacional | 405886 documento(s) do DRE |
+| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 55268 ato(s) da UE no acervo |
+| Conector DRE (por data, por caminho, consolidados, em falta e referidos) | Operacional | 405894 documento(s) do DRE |
 | Verificação pelos sitemaps do DRE | Implementado | `collect dre --missing` (`reports/dre_sitemap_coverage.json`) |
 | Catálogo do Jornal Oficial dos Açores | Implementado | registos regionais em `data/regional/acores/` |
-| Recolha direta (vs. importação inicial) | Concluída | 461138 recolhidos diretamente; 1 ainda com o texto da importação inicial |
+| Recolha direta (vs. importação inicial) | Concluída | 461161 recolhidos diretamente; 1 ainda com o texto da importação inicial |
 | Relações entre diplomas | Implementado | DRE e CELLAR (alterações, revogações, retificações); citações e transposições detetadas no texto; ligações inversas nos atos da UE; referências por ELI resolvidas para ids do acervo (`link`) |
 | Índice de relações e exportação | Implementado | `leis-portugal export` (JSONL, SQLite, Parquet em `exports/`) |
 | Relatórios derivados dos dados | Implementado | `reports/` |
 | Atualização diária automática | Implementado | `.github/workflows/atualizacao-diaria.yml` (DRE + EUR-Lex do dia anterior) |
-| Histórico de versões consolidadas | Implementado | 10918 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
+| Histórico de versões consolidadas | Implementado | 10943 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
 
 ## Estado das fontes
 
 | Fonte | Estado | Última verificação | Documentos |
 |---|---|---|---:|
-| eurlex-cellar | operational | 2026-10-26 | 55253 |
-| dre | operational | 2026-10-26 | 405886 |
+| eurlex-cellar | operational | 2026-10-26 | 55268 |
+| dre | operational | 2026-10-26 | 405894 |
 | parlamento | planned | — | 0 |
 | cnpd | operational | 2026-11-12 | 0 |
 | tribunal-constitucional | operational | 2026-11-12 | 0 |
