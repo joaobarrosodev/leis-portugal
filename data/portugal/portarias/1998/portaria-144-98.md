@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2004-05-25'
     amending: pt:dre:270437:por
-    amending_title: Portaria n.º 535/2004
+    amending_title: Portaria n.º 535/2004; Decreto-Lei n.º 74/2004
     changes:
     - Altera Artigo unidades 15-15
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/144/1998/03/06/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:06:59Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 535/2004. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-144-98.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-144-98.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 74/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,33 +146,21 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 74/91
 
 Manda o Governo, pelo Ministro da Educação, o seguinte:
 
-1.º São criados na Escola Secundária Especializada de Ensino Artístico de Soares dos Reis os cursos de ensino recorrente a seguir indicados:
+1.º - (Revogado.)
 
-a) Curso Geral de Artes Visuais;
-
-b) Curso de Imagem e Comunicação;
-
-c) Curso de Artes Gráficas;
-
-d) Curso de Ourivesaria;
-
-e) Curso de Cerâmica;
-
-f) Curso de Equipamento;
-
-g) Curso de Artes Têxteis.
+> Revogado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26, com efeitos a partir de 2004-03-31.
 
 2.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 535/2004](https://diariodarepublica.pt/dr/detalhe/portaria/535-2004-270437), publicado em 2004-05-20.
 
-3.º A conclusão com aproveitamento do curso referido na alínea a) do n.º 1.º da presente portaria confere um diploma de estudos secundários.
+3.º - (Revogado.)
 
-4.º A conclusão com aproveitamento dos cursos referidos nas alíneas b), c), d), e), f) e g) do n.º 1.º confere um diploma de estudos secundários e qualificação profissional de nível III.
+4.º - (Revogado.)
 
-5.º Os cursos agora criados funcionam em regime de experiência pedagógica, a implementar no ano lectivo de 1996-1997, devendo respeitar os princípios organizativos e pedagógicos previstos no Despacho n.º 273/ME/92, de 10 de Novembro, com as alterações introduzidas pelo Despacho n.º 41/SEED/94, de 14 de Junho.
+5.º - (Revogado.)
 
-6.º A Escola Secundária Especializada de Ensino Artístico de Soares dos Reis elaborará um regulamento interno do funcionamento dos cursos a ser homologado pelo Departamento do Ensino Secundário.
+6.º - (Revogado.)
 
 Ministério da Educação.
 

@@ -16,7 +16,7 @@
    ]
   },
   {
-   "date": "1981-08-31",
+   "date": "1991-09-11",
    "future": false,
    "acts": [
     {
@@ -24,6 +24,12 @@
      "title": "Lei n.º 36/81",
      "published": "1981-08-31",
      "dre_path": "/dr/detalhe/lei/36-1981-577899"
+    },
+    {
+     "id": "pt:dre:304536:por",
+     "title": "Decreto-Lei n.º 332/91",
+     "published": "1991-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/332-1991-304536"
     }
    ],
    "changes": [
@@ -33,11 +39,12 @@
     "Altera Artigo unidades 50-50",
     "Adita Artigo depois da unidade 50",
     "Altera Artigo unidades 51-55",
-    "Altera Artigo unidades 56-59"
+    "Altera Artigo unidades 56-59",
+    "Revoga Artigo 1"
    ],
    "fragments": [
     "c77df03d0c70ea67",
-    "b36eab641f38c804",
+    "9d4de1c41c181d8f",
     "d50bd259fb87bc4c",
     "477f0b398f9a0df0",
     "c07842ec086fb53d"
@@ -65,29 +72,30 @@
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1981-08-31",
+   "in_force_from": "1991-09-11",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
    ],
    "markdown": "de 2 de Setembro\n\nA [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, para além de constituir a forma de promover o pagamento das indemnizações devidas aos ex-titulares de bens expropriados ou nacionalizados, pretendeu ainda representar um importante factor de dinamização do investimento, cujo ritmo se perdeu e não foi completamente reencontrado.\n\nEntretanto, as dificuldades surgidas com a regulamentação de várias das suas disposições, resultantes, na maior parte, da complexidade dos esquemas nela previstos, impediram a consecução de tais objectivos, pelo que se impõe a sua revisão.\n\nNesse sentido, torna-se necessário proceder à eliminação de disposições menos claras ou de aplicação inviável e, bem assim, a algumas rectificações, tendentes a conferir, face aos prejuízos sofridos, um mais elevado espírito de justiça ao tratamento de um importante número de investidores. Isto para além de se procurar encontrar meios mais eficazes e simples de mobilização dos títulos de indemnização.\n\nEntre as alterações agora introduzidas, salientam-se:\n\nA eliminação da comissão prevista para se pronunciar sobre os valores definitivos das indemnizações, em virtude de o respectivo parecer, não sendo vinculativo, para o Ministro, representar uma complicação processual, atendendo a que se encontra salvaguardada a defesa dos direitos dos titulares através dos recursos previstos, máxime para o Supremo Tribunal Administrativo;\n\nA simplificação da constituição e funcionamento das comissões arbitrais, tornando-as mais operativas;\n\nA concessão de um tratamento mais favorável às misericórdias e outras instituições de solidariedade social, às fundações e às cooperativas, atentos os fins sociais prosseguidos por estas entidades.\n\nPor último, aproveita-se a oportunidade para tornar mais eficiente, do ponto de vista administrativo, a forma de arredondamento final da indemnização, por razões evidentes de operacionalidade e de economia das operações a efectuar.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pela [Lei n.º 32/80](https://diariodarepublica.pt/dr/detalhe/lei/32-1980-472087), de 28 de Julho, o seguinte:\n\nArtigo único. Os artigos 1.º, 14.º, 15.º, 16.º, 22.º, 23.º, 26.º, 29.º, 31.º, 32.º, 33.º, 34.º e 36.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, passam a ter a seguinte redacção:\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
   },
-  "b36eab641f38c804": {
+  "9d4de1c41c181d8f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º - 1 - ...",
-   "in_force_from": "1981-08-31",
+   "in_force_from": "1991-09-11",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.",
     "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.",
-    "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
+    "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.",
+    "Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06, com efeitos a partir de 1991-09-11."
    ],
-   "markdown": "###### Artigo 1.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Excluem-se do disposto na presente lei:\n\na) As indemnizações devidas pelas nacionalizações operadas pelos Decretos-Leis n.os [450/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1974-473882), [451/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1974-473765) e [452/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1974-473766), de 13 de Setembro;\n\nb) As indemnizações devidas pela nacionalização operada pelo [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho;\n\nc) As indemnizações por expropriações não expressamente referidas no n.º 2.\n\n5 - Na atribuição de indemnização nenhuma discriminação poderá fazer-se entre nacionais e estrangeiros, salvo o disposto na presente lei.\n\n6 - O disposto nas alíneas a) e b) do n.º 4 não impede a mobilização, por qualquer das formas previstas nos artigos 29.º e seguintes, dos títulos entregues em pagamento das indemnizações devidas pelas nacionalizações nele referidas.\n\nArt. 14.º O valor de cada acção ou parte de capital, para efeitos de indemnização definitiva, será determinado, relativamente a cada empresa, por despacho do Ministro das Finanças e do Plano, de acordo com o preceituado no [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), de 7 de Julho, em tudo o que não contrarie o disposto na presente lei.\n\nArt. 15.º O valor da indemnização definitiva devida pela nacionalização e expropriação de prédios ao abrigo da legislação sobre reforma agrária será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, de acordo com os princípios e regras a definir pelo Governo, nos termos do n.º 2 do artigo 37.º\n\nArt. 16.º - 1 - Sem prejuízo do recurso para outras instâncias competentes, a resolução de quaisquer litígios relativos à titularidade do direito à indemnização e à sua fixação, liquidação e efectivação poderá ser feita por comissões arbitrais.\n\n2 - As comissões arbitrais serão constituídas a requerimento dos titulares de direito à indemnização, dirigido ao Ministro das Finanças e do Plano, de acordo com os seguintes princípios:\n\na) Só pode haver uma comissão arbitral para os ex-sócios ou accionistas de uma mesma empresa nacionalizada;\n\nb) Só pode haver uma comissão arbitral para os comproprietários de um mesmo bem nacionalizado ou expropriado.\n\n3 - Cada comissão arbitral será constituída por três membros, sendo um representante do Governo, outro da parte litigante e o terceiro, que presidirá, um árbitro escolhido por mútuo acordo entre os dois primeiros.\n\n4 - O Governo designará o seu representante no prazo de trinta dias a contar da solicitação de constituição da comissão arbitral, devendo esta emitir a sua decisão no prazo máximo de sessenta dias após a sua entrada em funcionamento.\n\n5 - O Ministro das Finanças e do Plano fixará, por despacho, os emolumentos devidos ao árbitro presidente, os quais serão satisfeitos pelo litigante.\n\n6 - As decisões das comissões arbitrais terão validade após homologação, por despacho do Ministro das Finanças e do Plano, publicado na 2.ª série do Diário da República.\n\n7 - Dos despachos que recaiam sobre decisões das comissões arbitrais cabe recurso para o Supremo Tribunal Administrativo.\n\n8 - Os requerimentos visando a criação de comissões arbitrais só terão efeito se forem enviados ao Ministro das Finanças e do Plano no prazo de trinta dias a contar da data do despacho ou acto que seja causa de litígio.\n\nArt. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas, bem como as congregações e associações religiosas, terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.\n\n2 - O disposto no número anterior poderá também ser aplicado, por despacho do Ministro das Finanças e do Plano, aos institutos públicos.\n\nArt. 23.º - 1 - O valor global das indemnizações a atribuir a cada indemnizado em conformidade com a totalidade de valores apurados de acordo com a presente lei, quando terminar em escudos ou dezenas de escudos, será arredondado para a centena de escudos mais próxima.\n\n2 - As respectivas fracções de valor inferior a 1000$00 serão pagas em dinheiro.\n\nArt. 26.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O serviço deste empréstimo é confiado à Junta de Crédito Público, que poderá contratar com a banca nacionalizada a prática de operações a ele relativas.\n\n5 - O Governo regulará por decreto-lei as restantes condições deste empréstimo.\n\nArt. 29.º - 1 - Para os efeitos da mobilização prevista no presente capítulo será considerado, para os títulos representativos do direito à indemnização, o valor que resultar da actualização, à taxa correspondente à classe I definida no quadro referido no artigo 19.º, dos valores correspondentes ao pagamento de juros e amortizações a que os títulos conferem direito.\n\n2 - ...\n\n3 - Para além do que se dispõe no n.º 5 do presente artigo e nos artigos 31.º, n.º 2, 32.º, n.os 3 e 4, 33.º, n.os 3 e 4, e 34.º, n.º 3, exceptuam-se ainda do disposto no n.º 1 as operações realizadas ao abrigo dos artigos 30.º e 35.º, para as quais poderão ser fixadas, pelo Governo, taxas mais favoráveis, tendo em conta, respectivamente, as necessidades orçamentais e a política habitacional.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.\n\n4 - ...\n\n5 - ...\n\nArt. 31.º - 1 - Os titulares do direito à indemnização poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas, contraídas antes da nacionalização ou expropriação, do titular do crédito à Caixa Geral de Aposentações ou outras instituições de previdência, ao Fundo de Desemprego ou a instituições de crédito.\n\n2 - Os titulares do direito à indemnização pela nacionalização ou expropriação de prédios ao abrigo da legislação sobre reforma agrária poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas contraídas antes da nacionalização ou expropriação e relativas à actividade agrícola exercida nos prédios nacionalizados ou expropriados, provenientes de empréstimos concedidos ao titular pelo Ministério da Agricultura e Pescas ou por serviços nele integrados, por caixas de crédito agrícola mútuo, por empresas públicas ou por quaisquer instituições nacionalizadas.\n\n3 - A mobilização prevista nos números anteriores poderá efectuar-se imediatamente pelo valor nominal dos títulos.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
+   "markdown": "###### Artigo 1.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Excluem-se do disposto na presente lei:\n\na) As indemnizações devidas pelas nacionalizações operadas pelos Decretos-Leis n.os [450/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1974-473882), [451/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1974-473765) e [452/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1974-473766), de 13 de Setembro;\n\nb) As indemnizações devidas pela nacionalização operada pelo [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho;\n\nc) As indemnizações por expropriações não expressamente referidas no n.º 2.\n\n5 - Na atribuição de indemnização nenhuma discriminação poderá fazer-se entre nacionais e estrangeiros, salvo o disposto na presente lei.\n\n6 - O disposto nas alíneas a) e b) do n.º 4 não impede a mobilização, por qualquer das formas previstas nos artigos 29.º e seguintes, dos títulos entregues em pagamento das indemnizações devidas pelas nacionalizações nele referidas.\n\nArt. 14.º (Revogado.)\n\nArt. 15.º O valor da indemnização definitiva devida pela nacionalização e expropriação de prédios ao abrigo da legislação sobre reforma agrária será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, de acordo com os princípios e regras a definir pelo Governo, nos termos do n.º 2 do artigo 37.º\n\nArt. 16.º (Revogado.)\n\nArt. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas, bem como as congregações e associações religiosas, terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.\n\n2 - O disposto no número anterior poderá também ser aplicado, por despacho do Ministro das Finanças e do Plano, aos institutos públicos.\n\nArt. 23.º - 1 - O valor global das indemnizações a atribuir a cada indemnizado em conformidade com a totalidade de valores apurados de acordo com a presente lei, quando terminar em escudos ou dezenas de escudos, será arredondado para a centena de escudos mais próxima.\n\n2 - As respectivas fracções de valor inferior a 1000$00 serão pagas em dinheiro.\n\nArt. 26.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O serviço deste empréstimo é confiado à Junta de Crédito Público, que poderá contratar com a banca nacionalizada a prática de operações a ele relativas.\n\n5 - O Governo regulará por decreto-lei as restantes condições deste empréstimo.\n\nArt. 29.º - 1 - Para os efeitos da mobilização prevista no presente capítulo será considerado, para os títulos representativos do direito à indemnização, o valor que resultar da actualização, à taxa correspondente à classe I definida no quadro referido no artigo 19.º, dos valores correspondentes ao pagamento de juros e amortizações a que os títulos conferem direito.\n\n2 - ...\n\n3 - Para além do que se dispõe no n.º 5 do presente artigo e nos artigos 31.º, n.º 2, 32.º, n.os 3 e 4, 33.º, n.os 3 e 4, e 34.º, n.º 3, exceptuam-se ainda do disposto no n.º 1 as operações realizadas ao abrigo dos artigos 30.º e 35.º, para as quais poderão ser fixadas, pelo Governo, taxas mais favoráveis, tendo em conta, respectivamente, as necessidades orçamentais e a política habitacional.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.\n\n4 - ...\n\n5 - ...\n\nArt. 31.º - 1 - Os titulares do direito à indemnização poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas, contraídas antes da nacionalização ou expropriação, do titular do crédito à Caixa Geral de Aposentações ou outras instituições de previdência, ao Fundo de Desemprego ou a instituições de crédito.\n\n2 - Os titulares do direito à indemnização pela nacionalização ou expropriação de prédios ao abrigo da legislação sobre reforma agrária poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas contraídas antes da nacionalização ou expropriação e relativas à actividade agrícola exercida nos prédios nacionalizados ou expropriados, provenientes de empréstimos concedidos ao titular pelo Ministério da Agricultura e Pescas ou por serviços nele integrados, por caixas de crédito agrícola mútuo, por empresas públicas ou por quaisquer instituições nacionalizadas.\n\n3 - A mobilização prevista nos números anteriores poderá efectuar-se imediatamente pelo valor nominal dos títulos.\n\n> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.\n\n> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06, com efeitos a partir de 1991-09-11."
   },
   "d50bd259fb87bc4c": {
    "fragment_id": null,
    "type": null,
    "heading": "ARTIGO 32.º",
-   "in_force_from": "1981-08-31",
+   "in_force_from": "1991-09-11",
    "changed_by": [
     "Aditado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
    ],
@@ -97,7 +105,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "ARTIGO 33.º",
-   "in_force_from": "1981-08-31",
+   "in_force_from": "1991-09-11",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
    ],
@@ -107,7 +115,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "ARTIGO 34.º",
-   "in_force_from": "1981-08-31",
+   "in_force_from": "1991-09-11",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31."
    ],

@@ -47,7 +47,7 @@
    ]
   },
   {
-   "date": "2000-03-22",
+   "date": "2003-02-02",
    "future": false,
    "acts": [
     {
@@ -55,6 +55,12 @@
      "title": "Decreto Regulamentar Regional n.º 13/2000/M",
      "published": "2000-03-21",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-2000-515268"
+    },
+    {
+     "id": "pt:dre:167377:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2003/M",
+     "published": "2003-02-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2003-167377"
     }
    ],
    "changes": [
@@ -69,13 +75,28 @@
     "Altera Artigo 19.º",
     "Adita Artigo 25.º-A",
     "Adita Artigo 25.º-B",
-    "Adita Artigo 25.º-C"
+    "Adita Artigo 25.º-C",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 10",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 14-A",
+    "Revoga Artigo 14-B",
+    "Revoga Artigo 15",
+    "Revoga Artigo 17",
+    "Revoga Artigo 25",
+    "Revoga Artigo 25-A",
+    "Revoga Artigo 25-B",
+    "Revoga Artigo 25-C",
+    "Revoga Artigo 26"
    ],
    "fragments": [
     "dbf71cdc4f25435b",
     "705c849b52790f29",
-    "9b83ba88e3ee76e8",
-    "1cf4532e95968088",
+    "ae6939c5772c974a",
+    "2107a92a9f0a7c89",
     "6d1c3b8dcb538cc6",
     "a3a488290fcec2bd",
     "50e011d3fe90324d",
@@ -84,17 +105,17 @@
     "a3fb3d03c06872c3",
     "317cc420002fd520",
     "b159040c63f667c2",
-    "16c3a36a6729d6ed",
+    "bfaa66139fe59673",
     "f387e4c13bfd7718",
     "fd25e6f9036c9aed",
-    "f5af4714e436d6b6",
-    "0a29fb2b9713097f",
-    "2fa870fed2ccc81d",
-    "956a1caa42803d61",
-    "3afb7de8aa9af1cf",
-    "d02e635cb47ca80f",
+    "299224f3bd288952",
+    "36b97667ea19d2ea",
+    "4c72f17371883d7e",
+    "f089518add991c5b",
+    "ad1057af47aa05a1",
+    "4df00a1a1c85316f",
     "c2532cfb7355f815",
-    "af2a83ad28eb410c",
+    "174763d85e4c83c7",
     "d03f158aa1399397",
     "9b6660c12a1c2dd0",
     "15d281b8a242c1ec",
@@ -105,11 +126,11 @@
     "0e77bf2f74f12474",
     "61f6dcf2d6cbefd4",
     "3a8618ec79872eb5",
-    "fa094be7c6522ba7",
-    "e502ad33dae15985",
-    "8af20cce45f99a06",
-    "f8bf4c2dd8247059",
-    "e8e07e7277ba5aad"
+    "4062492e5e9b9c6b",
+    "dd539f21f24dc36a",
+    "b55d968dbee19d9d",
+    "94133ce7a1294440",
+    "1eacc45e1e02584e"
    ]
   }
  ],
@@ -378,81 +399,123 @@
    "changed_by": [],
    "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação\n\nAprovado em Conselho do Governo Regional de 13 de Janeiro de 1997.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 6 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
   },
+  "ae6939c5772c974a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": "2003-02-02",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2003-167377), publicado em 2003-02-01, com efeitos a partir de 2003-02-02."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2003-167377), publicado em 2003-02-01, com efeitos a partir de 2003-02-02."
+  },
+  "2107a92a9f0a7c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n(Revogado.)"
+  },
   "6d1c3b8dcb538cc6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Estrutura da Secretaria Regional",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
    "markdown": "###### Artigo 3.º — Estrutura da Secretaria Regional\n\n1 - A estrutura orgânica da SRAS compreende os seguintes órgãos e serviços:\n\n1.1 - Serviços directamente dependentes do Secretário Regional:\n\na) Gabinete do Secretário Regional;\n\nb) Gabinete para os Assuntos Parlamentares;\n\nc) Direcção de Serviços Técnicos e de Administração;\n\nd) Gabinete de Documentação, Estudos e Planeamento;\n\ne) Gabinete para a Qualidade e Investigação;\n\nf) Gabinete de Avaliação e Desenvolvimento de Recursos.\n\n1.2 - Órgãos da SRAS:\n\na) Direcção Regional de Segurança Social;\n\nb) Direcção Regional dos Hospitais;\n\nc) Direcção Regional de Saúde Pública;\n\nd) Centro de Segurança Social da Madeira;\n\ne) Centro Hospitalar do Funchal;\n\nf) Centro Regional de Saúde;\n\ng) Serviço Regional de Protecção Civil da Madeira;\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "2fa870fed2ccc81d": {
+  "bfaa66139fe59673": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Serviço Regional de Protecção Civil da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço Regional de Protecção Civil da Madeira\n\n(Revogado.)"
+  },
+  "299224f3bd288952": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gabinete do Secretário Regional\n\n(Revogado.)"
+  },
+  "36b97667ea19d2ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Gabinete para os Assuntos Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Gabinete para os Assuntos Parlamentares\n\n(Revogado.)"
+  },
+  "4c72f17371883d7e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º — Direcção de Serviços Técnicos e de Administração",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 14.º — Direcção de Serviços Técnicos e de Administração\n\n1 - A Direcção de Serviços Técnicos e de Administração, adiante abreviadamente designada por DSTA, é um órgão com funções de coordenação, estudo e apoio técnico nas áreas de administração e assuntos jurídicos, ao qual compete:\n\na) Assegurar a coordenação e execução do expediente e arquivo gerais;\n\nb) Prestar apoio técnico-jurídico e administrativo ao Secretário Regional e ao respectivo Gabinete e aos demais serviços na dependência daquele, quando tal se revele necessário;\n\nc) Elaborar, em conjunto com o Núcleo de Estudos e Planeamento, as propostas de orçamento dos serviços na directa dependência do Secretário Regional e proceder à respectiva execução, assegurando os respectivos procedimentos contabilísticos;\n\nd) Proceder à execução dos processos de aquisição necessários ao funcionamento dos serviços na dependência directa do Secretário Regional e efectuar o respectivo cadastro patrimonial;\n\ne) Assegurar a gestão dos recursos humanos e materiais que lhe estão afectos e apoiar e coordenar a gestão dos recursos correspondentes dos demais serviços na directa dependência do Secretário Regional.\n\n2 - A DSTA integra os seguintes serviços:\n\na) Divisão de Pareceres e Estudos Jurídicos;\n\nb) Divisão de Coordenação Administrativa.\n\n3 - À Divisão de Pareceres e Estudos Jurídicos, adiante abreviadamente designada por DPEJ, cabe o exercício de funções de mera consulta jurídica, de emissão de pareceres jurídicos e de pronúncia sobre questões de direito de natureza genérica de interesse para a SRAS e será dirigida por um chefe de divisão.\n\n4 - A DPEJ integra a Secção de Apoio Documental, à qual compete prestar o apoio administrativo e de recolha, selecção e arquivo dos textos normativos necessários ao bom funcionamento da Divisão.\n\n5 - A Divisão de Coordenação Administrativa integra o Departamento de Contabilidade e Pessoal e o Departamento de Assuntos Gerais e Coordenação.\n\n6 - A Divisão de Coordenação Administrativa será dirigida por um chefe de divisão, cuja nomeação poderá fazer-se, mediante concurso, de entre chefes de departamento, conforme as regras estabelecidas no artigo 18.º, n.º 3, do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 14.º — Direcção de Serviços Técnicos e de Administração\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "956a1caa42803d61": {
+  "f089518add991c5b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º-A — Departamento de Contabilidade e Pessoal",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 14.º-A — Departamento de Contabilidade e Pessoal\n\n1 - O Departamento de Contabilidade e Pessoal é o órgão de apoio e execução técnico-administrativo da DSTA para as áreas da contabilidade, orçamento, aprovisionamento e pessoal, ao qual compete:\n\na) Organizar todo o processo contabilístico da SRAS;\n\nb) Coordenar a elaboração do orçamento da SRAS, respectivas alterações e gestão corrente;\n\nc) Coordenar as aquisições necessárias ao funcionamento dos serviços;\n\nd) Manter o cadastro patrimonial dos bens móveis e coordenar a manutenção dos bens afectos à SRAS;\n\ne) Coordenar todo o processo de gestão de pessoal.\n\n2 - O Departamento de Contabilidade e Pessoal integra a Secção de Aprovisionamento e o Serviço de Gestão de Pessoal.\n\n3 - Ao Serviço de Gestão de Pessoal cabe executar todo o processo de gestão de pessoal, designadamente processos de recrutamento, promoção, mobilidade e aposentação, mantendo o adequado registo biográfico dos funcionários e respectiva actualização.\n\n4 - O Serviço de Gestão de Pessoal será dirigido por um funcionário da carreira de coordenador.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 14.º-A — Departamento de Contabilidade e Pessoal\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "3afb7de8aa9af1cf": {
+  "ad1057af47aa05a1": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação\n\n1 - O Departamento de Assuntos Gerais e Coordenação é o órgão de apoio e execução administrativa da DSTA para as áreas de registo, arquivo geral e expediente e para a área da coordenação da DSTA com o Gabinete e demais serviços na dependência do Secretário Regional.\n\n2 - O Departamento de Assuntos Gerais e Coordenação integra o Serviço de Expediente, Registo e Arquivo e a Secção de Assuntos Gerais e Documentação.\n\n3 - O Serviço de Expediente, Registo e Arquivo é chefiado por um funcionário da carreira de coordenador.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "d02e635cb47ca80f": {
+  "4df00a1a1c85316f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento\n\n1 - O Gabinete de Documentação, Estudos e Planeamento é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Informação;\n\nb) Recolha, selecção, compilação e divulgação de documentação;\n\nc) Estudos e planeamento, nos vários domínios de intervenção da SRAS.\n\n2 - O Gabinete de Documentação, Estudos e Planeamento integra:\n\na) O Núcleo de Estudos e Planeamento, abreviadamente designado por NEP, ao qual compete prestar apoio técnico em matéria de estudos e planeamento, nos vários domínios de intervenção da SRAS;\n\nb) O Departamento de Apoio Administrativo e Documentação, ao qual compete assegurar o expediente geral e arquivo internos do Gabinete, bem como coordenar a ligação administrativa deste com os demais serviços na dependência da SRAS e coordenar a recolha, selecção, compilação e divulgação de textos legislativos e regulamentares e publicações normativas e bibliográficas.\n\n3 - O NEP é dirigido por um chefe de divisão.\n\n4 - O Departamento de Apoio Administrativo e Documentação integra a Secção de Informação e Documentação, à qual compete a execução da recolha, selecção, compilação e divulgação de textos legislativos e regulamentares e publicações normativas e bibliográficas.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
   "c2532cfb7355f815": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º — Gabinete para a Qualidade e Investigação",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
    "markdown": "###### Artigo 16.º — Gabinete para a Qualidade e Investigação\n\n1 - O Gabinete para a Qualidade e Investigação é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Investigação;\n\nb) Bioestatística e epidemiologia;\n\nc) Auditoria da qualidade e promoção dos cuidados de saúde;\n\nd) Unidades privadas de saúde;\n\ne) Regulamentação técnica da actividade farmacêutica;\n\nf) Internatos médicos.\n\ng) Programas de saúde.\n\n2 - O Gabinete para a Qualidade e Investigação integra o Departamento de Apoio Técnico-Administrativo, ao qual compete:\n\na) Dar apoio às acções no âmbito dos programas de saúde;\n\nb) Dar apoio à organização e promoção dos eventos científicos realizados pelo Gabinete;\n\nc) Dar apoio no âmbito das convenções com prestadores privados de saúde.\n\n3 - O Departamento de Apoio Técnico-Administrativo integra a Secção de Expediente, à qual compete a execução de registos informáticos dos programas de saúde, expediente e arquivo internos do Gabinete.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "af2a83ad28eb410c": {
+  "174763d85e4c83c7": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos\n\n1 - O Gabinete de Avaliação e Desenvolvimento de Recursos é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Avaliação de recursos;\n\nb) Gestão orçamental e auditoria de gestão;\n\nc) Formação profissional;\n\nd) Informática;\n\ne) Estatística.\n\n2 - O Gabinete de Avaliação e Desenvolvimento de Recursos integra:\n\na) Departamento de Coordenação Orçamental, ao qual compete a coordenação do controlo da execução orçamental dos serviços com autonomia administrativa e financeira na dependência da SRAS;\n\nb) Secção de Cursos de Formação, à qual compete proceder à execução administrativa das acções de formação da SRAS e assegurar o expediente e arquivo internos do Gabinete.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
   "d03f158aa1399397": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º — Directores dos gabinetes",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
@@ -462,41 +525,57 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º — Gestão dos programas de saúde",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
    "markdown": "###### Artigo 19.º — Gestão dos programas de saúde\n\nOs responsáveis pelos programas de saúde coordenados no âmbito do Gabinete para a Qualidade e Investigação e respectivos projectos auferirão um suplemento no valor de 20% ou 30% sobre o vencimento base da categoria de assistente da carreira médica hospitalar, escalão 1, em regime de tempo completo, com dedicação exclusiva, durante o respectivo período de execução, a definir por despacho do Secretário Regional, de acordo com a importância, dimensão, duração e características do programa ou projecto.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "e502ad33dae15985": {
+  "4062492e5e9b9c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\n(Revogado.)"
+  },
+  "dd539f21f24dc36a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º-A — Do pessoal",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 25.º-A — Do pessoal\n\n1 - O pessoal do quadro da SRAS é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal administrativo;\n\ne) Pessoal auxiliar.\n\n2 - O quadro de pessoal da SRAS será aprovado por portaria conjunta dos Secretários Regionais dos Assuntos Sociais e Parlamentares e do Plano e da Coordenação.\n\n3 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n4 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 25.º-A — Do pessoal\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "8af20cce45f99a06": {
+  "b55d968dbee19d9d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º-B — Transição dos chefes de repartição",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 25.º-B — Transição dos chefes de repartição\n\n1 - São criados no quadro de pessoal da Secretaria Regional dos Assuntos Sociais e Parlamentares cinco lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na nova categoria.\n\n5 - A transição produz efeitos a partir da data da transição na nova categoria.\n\n6 - Mantém-se em vigor o concurso pendente para a categoria de chefe de repartição, sendo o respectivo candidato aprovado provido na categoria de chefe de departamento, nos termos dos números anteriores.\n\n7 - Sem prejuízo do disposto no número anterior, são extintos os lugares de chefe de repartição.\n\n8 - O disposto no presente artigo não prejudica a faculdade de os chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 25.º-B — Transição dos chefes de repartição\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
   },
-  "f8bf4c2dd8247059": {
+  "94133ce7a1294440": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º-C — Transição para a carreira de coordenador",
-   "in_force_from": "2000-03-22",
+   "in_force_from": "2003-02-02",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
    ],
-   "markdown": "###### Artigo 25.º-C — Transição para a carreira de coordenador\n\n1 - Os chefes de secção actualmente afectos à DSTA nas áreas de pessoal e expediente e arquivo transitam, independentemente de quaisquer formalidades, para a carreira de coordenador.\n\n2 - Os chefes de secção a que se refere o número anterior e que possuam no mínimo três anos na categoria transitam para a categoria de coordenador especialista.\n\n3 - A transição faz-se para índice igual ou, na falta deste, para o índice mais aproximado àquele em que se encontrem posicionados.\n\n4 - A transição faz-se por aplicação deste diploma e produz efeitos à data da sua publicação.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   "markdown": "###### Artigo 25.º-C — Transição para a carreira de coordenador\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "1eacc45e1e02584e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\n(Revogado.)\n\nAprovado em Conselho do Governo Regional de 13 de Janeiro de 1997.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 6 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
   }
  }
 }

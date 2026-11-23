@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2002-10-22'
     amending: pt:dre:432449:por
-    amending_title: Decreto-Lei n.º 208/2002
+    amending_title: Decreto-Lei n.º 208/2002; Decreto-Lei n.º 206/98
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -89,6 +89,7 @@ version_history:
     - Revoga Artigo 33.º
     - Revoga Artigo 34.º
     - Revoga Artigo 35.º
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/143/1996/08/26/p/dre/pt/html
@@ -115,7 +116,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:44:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 208/2002. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-143-96.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-143-96.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 206/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -378,9 +381,11 @@ b) Elaborar um regulamento geral de arquivos corrente e intermédio do ME, a apr
 
 c) Organizar e manter o Arquivo Histórico, o Arquivo Intermédio e o Arquivo Corrente;
 
-d) Promover a instalação do Arquivo Histórico e propor o regulamento específico da sua consulta e utilização por parte dos utentes, interessados, estudiosos, investigadores e órgãos da comunicação social;
+d) (Revogada.)
 
-e) Elaborar, actualizar e divulgar um catálogo do Arquivo Histórico, bem como guias e roteiros que facilitem a difusão do espólio classificado;
+> Revogado pelo/a [Decreto-Lei n.º 206/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1998-484664), publicado em 1998-07-13, com efeitos a partir de 1998-07-18.
+
+e) (Revogada.)
 
 f) Elaborar e actualizar as tabelas gerais de avaliação, selecção e eliminação de documentos de acordo com a legislação em vigor relativamente aos serviços do ME e ainda aos estabelecimentos dos ensinos básico e secundário, esta última em articulação com os serviços responsáveis pela educação básica e pelo ensino secundário;
 

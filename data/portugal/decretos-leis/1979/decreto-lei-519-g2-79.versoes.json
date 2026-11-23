@@ -129,7 +129,7 @@
    ]
   },
   {
-   "date": "1982-07-29",
+   "date": "1983-02-25",
    "future": false,
    "acts": [
     {
@@ -149,6 +149,12 @@
      "title": "Decreto-Lei n.º 298/82",
      "published": "1982-07-29",
      "dre_path": "/dr/detalhe/decreto-lei/298-1982-397370"
+    },
+    {
+     "id": "pt:dre:311401:por",
+     "title": "Decreto-Lei n.º 119/83",
+     "published": "1983-02-25",
+     "dre_path": "/dr/detalhe/decreto-lei/119-1983-311401"
     }
    ],
    "changes": [
@@ -165,124 +171,216 @@
     "Retifica Artigo 74",
     "Retifica Artigo 79",
     "Retifica Artigo 95",
-    "Revoga Artigo 88"
+    "Revoga Artigo 88",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 23",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 35",
+    "Revoga Artigo 36",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52",
+    "Revoga Artigo 53",
+    "Revoga Artigo 54",
+    "Revoga Artigo 55",
+    "Revoga Artigo 56",
+    "Revoga Artigo 57",
+    "Revoga Artigo 58",
+    "Revoga Artigo 59",
+    "Revoga Artigo 60",
+    "Revoga Artigo 61",
+    "Revoga Artigo 62",
+    "Revoga Artigo 63",
+    "Revoga Artigo 64",
+    "Revoga Artigo 65",
+    "Revoga Artigo 66",
+    "Revoga Artigo 67",
+    "Revoga Artigo 68",
+    "Revoga Artigo 69",
+    "Revoga Artigo 70",
+    "Revoga Artigo 71",
+    "Revoga Artigo 72",
+    "Revoga Artigo 73",
+    "Revoga Artigo 74",
+    "Revoga Artigo 75",
+    "Revoga Artigo 76",
+    "Revoga Artigo 77",
+    "Revoga Artigo 78",
+    "Revoga Artigo 79",
+    "Revoga Artigo 80",
+    "Revoga Artigo 81",
+    "Revoga Artigo 82",
+    "Revoga Artigo 83",
+    "Revoga Artigo 84",
+    "Revoga Artigo 85",
+    "Revoga Artigo 86",
+    "Revoga Artigo 87",
+    "Revoga Artigo 89",
+    "Revoga Artigo 90",
+    "Revoga Artigo 91",
+    "Revoga Artigo 92",
+    "Revoga Artigo 93",
+    "Revoga Artigo 94",
+    "Revoga Artigo 95"
    ],
    "fragments": [
-    "1f18f61e1724811e",
+    "7659c4fa5ba3fc61",
     "41acac52aa5e538f",
     "23836370ae405d04",
-    "a49de62f400e2424",
-    "c13126d67934a4b7",
-    "198ab8140aea64d6",
-    "87002eede8be580d",
-    "50d465da7d93d229",
-    "b898cbd32acec470",
+    "0941df14226df02c",
+    "4c487e5309f05010",
+    "f663f5eac063a27c",
+    "a40f7bfb777107ce",
+    "a5bfbc54f01a5c96",
+    "261cf3d1606cf9b3",
     "725f0a5aef8f5f7a",
     "5264fcb92ec86a27",
     "2958d73a6c595b3d",
-    "10b7469cea7fb575",
-    "03cd7fa20dde1523",
-    "01fef5c432bad3f2",
-    "216a003ece835669",
+    "af4b8ab91d5347a9",
+    "5877ecf3bd2772be",
+    "ac8e14e7f028a7cc",
+    "e8bb7ed079be6302",
     "abfc34db93162fc1",
-    "b281a97ebd436768",
-    "9ea3089ed5e94f23",
-    "6d9053329ae01512",
-    "2ad94bc84d7f3041",
-    "146da32561b6bfd5",
-    "2c02aedae7995bce",
+    "848ca38a702081ea",
+    "95893fac34e9901d",
+    "a19552861ff9a416",
+    "f1d9e3d0415c8bbe",
+    "92ce5a7b165d6560",
+    "48f6f361966a7685",
     "fe9e45ff93ce8bed",
-    "cb33fe238dd082e0",
-    "0da4ce43511e5edd",
-    "91eb4fef0110181f",
-    "0bf350c921323dbb",
+    "6442cc8812c76339",
+    "fd156a0f2c762922",
+    "f77aff47aa9608f4",
+    "b9cedcc14a8cbcc5",
     "c1ef23e7a702c904",
-    "46b53e0689fb5dce",
+    "c481ee03a66f60cb",
     "b062f9247d1b67fb",
-    "8b02ff03ac3162ae",
-    "b7d329188142d8f1",
+    "9502dad65d6a6fd7",
+    "5d0b4956a462a5ea",
     "c1910865c5d31ad3",
-    "fa13bf4c28d72708",
-    "814906047c86c871",
-    "9bca46f562591294",
-    "d8e4b2c552bcb431",
-    "3125136642487e3d",
-    "de826e248c5adc77",
+    "94334df73d3bd09b",
+    "6bdc22a576e047d0",
+    "7675c5492453ea1a",
+    "a69886074dc1e637",
+    "f1ed6b9b990ec9f4",
+    "7d4fc6ed10b5094d",
     "743fb19252d8520f",
-    "b359fc16f2819462",
-    "c70615beaf09f1c9",
-    "c8e2c56e532b4497",
-    "307e9476c18ed9d3",
-    "cd6e000657c58d1f",
-    "387d4c2dd0e26eb4",
-    "3e041d7d067d9a88",
-    "70f9006ed32fec6a",
-    "ced001d879e71a45",
-    "5c647c17efebb4a1",
+    "d14d600b46963e97",
+    "1dad4b92caa76a05",
+    "3b6bc223f5829f39",
+    "837361087aaf9401",
+    "c5581a97f4b8d099",
+    "9007530d29f2a847",
+    "12ee862186a305e1",
+    "fb3ee5f92a4d5629",
+    "2d6b74da364c2e17",
+    "fde337cd9ee9c669",
     "95548190496dcc8c",
-    "6b6bdef6dfd20397",
-    "69ea4f322e539b2d",
-    "17f402055f24a66c",
-    "dc45dbc4149dbcca",
-    "dc397bb564fd7cd9",
-    "48ccc6925f3c440f",
-    "884e21cb90eb5318",
+    "0546d95949d75ac3",
+    "8796806136dfff49",
+    "baaa891b5f520ba8",
+    "9bb1ed11901626df",
+    "62c336dbc9903522",
+    "f3e997f22bc56d2a",
+    "44646c1d4db99123",
     "b1ee47fdc94fb2fe",
     "3f79144aaa573bc2",
-    "9a4c06db38df5f54",
-    "0d05c780192973b5",
-    "e374a8e9a16095cb",
-    "bda2c9e0fe049385",
-    "ec85b53f9404ed22",
-    "60ebe024cf520b33",
+    "942b9c4ab8c30d3b",
+    "e95a31ef771c5848",
+    "e95d62616957da3d",
+    "01de658a2774c632",
+    "68b383da924e38c9",
+    "d5b42b49f60deed1",
     "973c5074404cc824",
-    "f1d8ce4e638ef57f",
-    "40b0646f5a4196c8",
-    "c5489b5f5f7b2589",
-    "80dfad522a866347",
-    "006840a283101130",
-    "24d468b3892ea6ad",
+    "fc1272067272ff02",
+    "7846d095c23c6448",
+    "408df0dc56801e93",
+    "6f8f5983d838ddf8",
+    "4c5af780e535d84d",
+    "cbcacfc6e1973d62",
     "9f93717f6b576d4e",
-    "1b9859a39bb3c1a4",
-    "cadcd04e10454396",
-    "3ea1ae7cf0529188",
-    "d43a7d0513e01e6b",
-    "ff54aca5b653ec99",
-    "fa0136bca0847a50",
-    "09b3e93ca54ab202",
+    "2e059c515c814727",
+    "f447a541f2d1a10f",
+    "9e9c900d09cee9a9",
+    "d2d0d74e5ccb202a",
+    "d74eeab2c20fba53",
+    "9218ab5f7177beec",
+    "85fe9b192bae8105",
     "aee5ab46ceb5e23b",
-    "083c3bb12e5ecfcd",
-    "7c025093d41d08b8",
-    "5f0423d372e8ac72",
-    "669945e450034ff7",
-    "0d4773484d9048b7",
+    "ffd4e1ded9c3cbd5",
+    "fbc5fe989de229b5",
+    "2a19989b244e0d45",
+    "42ab7b65e1771f8f",
+    "80cc8b801a3cfc12",
     "3e4dba720d30e645",
-    "7ee7ca490dc69a9f",
-    "f3206022b067bbd9",
-    "50fe673e16283f5e",
-    "a3eadbec77c24549",
-    "c7869a86057a670e",
-    "748e7b156eb9db7d",
+    "309fd75230c92daa",
+    "89399eb50d833a96",
+    "2cbcfdeb7e24fa40",
+    "d7c0521fc9426152",
+    "6a5449dbd17e09f6",
+    "029da4c750d6d4a3",
     "f377df21c1485ac5",
     "79c8a5db63ab7859",
-    "f995dd5ec0bb284b",
-    "e6ea97c021cebf11",
-    "9b97bc6cd924e4e2",
-    "b3bdfd570c5b20e3",
+    "bc7b45936dc0a450",
+    "844edfe108e32415",
+    "70c36db60fd8d2c9",
+    "955c082a88a78e51",
     "d87e1cff500c375e",
-    "ba898db7837c310e",
-    "7df5cf5fe27f26e8",
-    "87ca54312b4d3bc5",
+    "7e4545bc51ca1b27",
+    "e4b3edf20af8e627",
+    "27e34eef780c2777",
     "91ceb478cf853f76",
-    "1a3f4e91abe5af97",
-    "1ab27d38e25f58d7",
-    "79cee51aba8cd0bf",
-    "701d2fbffd40f878",
-    "1732ba26d4a238e1",
-    "72446ba5651f529f",
-    "57976ce247eb3189",
-    "128cb52b9af74072",
-    "4f6696597427b7cf"
+    "e23a2d2dbcff7568",
+    "6eaff73e125cd35c",
+    "6178195f19e44f73",
+    "eda6f13fddc1463b",
+    "ae07b2a151bb8f4a",
+    "6014be61dd2647d4",
+    "56c41af8cba47418",
+    "8040d7a19f3840ff",
+    "86bcc4275f0428bc"
    ]
   }
  ],
@@ -1207,123 +1305,756 @@
    "changed_by": [],
    "markdown": "###### Artigo 95.º — (Revogações)\n\nFica revogada a legislação em contrário, designadamente as disposições do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, referentes às instituições particulares de assistência e o disposto no artigo 2.º do [Decreto-Lei n.º 618/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1975-310594), de 11 de Novembro, respeitante às Misericórdias.\n\nO Ministro dos Assuntos Sociais, Alfredo Bruto da Costa."
   },
-  "1f18f61e1724811e": {
+  "7659c4fa5ba3fc61": {
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1982-07-29",
+   "in_force_from": "1983-02-25",
    "changed_by": [
-    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-679457), publicado em 1980-02-18."
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-679457), publicado em 1980-02-18.",
+    "Revogado pelo/a [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), publicado em 1983-02-25."
    ],
-   "markdown": "de 29 de Dezembro\n\n1. A Constituição da República, no n.º 3 do seu artigo 63.º, prescreve que a organização do sistema de segurança social não prejudicará a existência de instituições privadas de solidariedade social não lucrativas, que serão permitidas, regulamentadas por lei e sujeitas à fiscalização do Estado.\n\nA lei fundamental do País reconheceu assim a vigorosa realidade que constitui, entre nós, a iniciativa privada nos amplos domínios da solidariedade social.\n\nNa verdade, a vasta rede de instituições que a actividade particular criou forma um valioso património moral e material que, ao longo dos séculos e ainda hoje, tem contribuído, como inegável constante social, para a melhoria das condições de vida do povo português.\n\nSensibilizadas por altos ideários e conscientes do dever moral que lhes cabe de exprimir por forma organizada a solidariedade entre os indivíduos, essas instituições favorecem a humanização das actividades que importa desenvolver no exercício de uma política social dignificante.\n\nPor isso, o Estado as reconhece, valoriza e apoia, incentivando e fomentando o seu funcionamento, que, todavia, dados os interesses públicos em jogo e o bem comum em vista, não pode deixar de regulamentar e fiscalizar, como determina a Constituição e se propõe este diploma ao criar, para tal efeito, as normas necessárias.\n\n2. O propósito deste diploma não é o de definir os esquemas de prestações ou serviços que a Constituição indica no artigo 63.º, como conteúdo do sistema de segurança social.\n\nO seu objectivo é o de estabelecer a disciplina jurídica das instituições que visam prosseguir fins não lucrativos de segurança social. A sua inclusão no sistema resulta da própria Constituição, na leitura tida como correcta.\n\n3. os diplomas mais importantes que anteriormente se ocuparam desta matéria são, sem dúvida, além do Código Administrativo de 1940, a [Lei n.º 1998](https://diariodarepublica.pt/dr/detalhe/lei/1998-1944-548976), de 15 de Maio de 1944 (Estatuto da Assistência Social), e a [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963 (Estatuto da Saúde e Assistência).\n\nTodavia, qualquer destas duas últimas leis tem objectivos muito alargados, procurando organizar, na época em que foram elaboradas, o sistema completo de protecção social, nos termos em que então era concebido. Daí que a matéria própria das instituições ou entidades particulares incluídas nesse sistema tenha sido tratada por forma dispersa e pouco desenvolvida. O aprofundamento do seu regime jurídico viria depois a ser efectuado em diplomas regulamentares posteriores, dos quais se citam apenas o [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, e o [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nÉ, pois, novo o projecto que neste momento se realiza, reunindo num só diploma as linhas fundamentais do regime jurídico destas instituições.\n\nO estatuto que agora se publica resultou de um demorado processo de trabalho, mantido com persistência ao longo do mandato de vários Governos Constitucionais e que, com a publicação, atinge o seu termo. Ouvido um número representativo destas instituições, a União das Misericórdias Portuguesas e a Conferência Episcopal Portuguesa, consultados os serviços e obtida a colaboração dos Ministérios envolvidos nesta matéria, considera-se o presente estatuto em condições de ser oferecido às instituições portuguesas de solidariedade social.\n\n4. O quadro completo das instituições privadas de solidariedade social é estabelecido no artigo 3.º do estatuto. Aí podemos encontrar, ao lado de formas tradicionais, como sejam as associações de solidariedade social (nome novo das antigas associações de assistência ou beneficentes), as Misericórdias, as associações de socorros mútuos e as fundações, novas figuras agora aconselhadas pelo evoluir das necessidades sociais e dos meios de as satisfazer. É o caso das cooperativas de solidariedade social e das associações de voluntários sociais. E também o das suas uniões e federações.\n\nEm relação a todas elas são estabelecidas normas de aplicação comum e depois, para cada uma, disposições especiais, de aplicação restrita.\n\n5. Caberá agora indicar, ainda que por forma abreviada, as grandes linhas de força do estatuto e as soluções novas que nele foram previstas. Assim:\n\na) Incluíram-se expressamente estas instituições no sistema de segurança social previsto na Constituição, a partir do registo;\n\nb) Houve particular cuidado na defesa das consequências jurídicas que decorrem da liberdade de associação, eliminando totalmente as anteriores formas de intervenção tutelar da Administração, a qual ficará restrita aos poderes constitucionais de regulamentação, coordenação e fiscalização;\n\nc) Todos os restantes actos que sejam de intervenção substitutiva passaram para a área jurisdicional, pelo que só podem ser praticados pelos tribunais;\n\nd) Tudo o que antecede resulta da circunstância de estas instituições deixarem de ser consideradas pessoas colectivas de utilidade pública administrativa, acentuando-se, deste modo, o seu carácter privado;\n\ne) Em contrapartida, estas instituições têm, nos termos da própria Constituição, um regime legal mais regulamentado do que o das simples pessoas colectivas de utilidade pública ([Decreto-Lei n.º 460/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1977-277832), de 7 de Novembro), em homenagem aos objectivos sociais que prosseguem e de que o próprio Estado é garante;\n\nf) Houve a preocupação de evitar nesta regulamentação que fossem atingidas as disposições da Concordata celebrada entre o Estado Português e a Santa Sé;\n\ng) Tomaram-se disposições para que, em termos de acordo, possam vir a ser eliminadas as situações criadas pelo [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de que resulta a separação legal entre as irmandades ou confrarias da Misericórdia e a respectiva associação civil, fórmula que durante largo período afectou as relações entre a Administração e estas instituições;\n\nh) Foi assegurada a participação das instituições em todos os escalões do sistema de segurança social;\n\ni) Criaram-se formas instrumentais de apoio à actividade das instituições, admitindo que elas se possam agrupar em uniões e federações;\n\nj) Finalmente, deixou-se para diploma próprio a regulamentação específica das associações de socorros mútuos, dada a complexidade de que se revestem a sua estrutura e o seu funcionamento.\n\n6. O presente diploma tem implícito um juízo de positivo valor em relação às iniciativas privadas de solidariedade social na realização dos grandes objectivos que a comunidade nacional se propõe realizar no campo da protecção social dos cidadãos.\n\nO Governo, consciente de que este estatuto abre perspectivas históricas ao desenvolvimento dessas instituições, exprime também, neste diploma, um acto de confiança nas próprias instituições e na sua capacidade de resposta às necessidades específicas dos nossos tempos.\n\nNestes termos:\n\nTendo presente o disposto no artigo 63.º da Constituição e em conformidade com o respectivo programa:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-679457), publicado em 1980-02-18.\n\nArtigo 1.º - 1 - É aprovado por este decreto-lei o Estatuto das Instituições Privadas de Solidariedade Social, referidas no n.º 3 do artigo 63.º da Constituição.\n\n2 - O Estatuto vai anexo a este diploma e entra em vigor no dia 1 de Janeiro de 1980.\n\n3 - No texto do Estatuto, as instituições [privadas de solidariedade social são designadas apenas por instituições.\n\nArt. 2.º - 1 - As instituições privadas de solidariedade social ficam submetidas ao regime estabelecido pelo Estatuto, salvo no que especificamente diga respeito a fins estranhos ao sistema de segurança social que eventualmente prossigam.\n\n2 - Ficam igualmente abrangidas por este Estatuto as instituições ou entidades privadas que, juntamente com objectivos respeitantes à efectivação de direitos sociais ou culturais, prossigam actividades de segurança social, mas só quanto ao exercício destas e à respectiva acção orientadora e tutelar do Estado.\n\n3 - O disposto nos números anteriores aplica-se às organizações e instituições religiosas que por forma exclusiva ou cumulativa prossigam actividades de segurança social, mas, tratando-se de organizações ou instituições da igreja católica, a aplicação do Estatuto far-se-á com respeito pelas disposições da Concordata entre a Santa Sé e a República Portuguesa de 7 de Maio de 1940.\n\n4 - Os serviços e estabelecimentos criados ou mantidos por empresas destinados a desenvolver acções de segurança social em benefício do respectivo pessoal e seus familiares ficam sujeitos à orientação técnica e à fiscalização do Ministério dos Assuntos Sociais.\n\n5 - As associações de socorros mútuos, como instituições privadas de solidariedade social, regem-se pelas disposições do Estatuto que lhes sejam aplicáveis e pelas que constem de diploma próprio, a publicar.\n\n6 - As organizações populares de base territorial ficam sujeitas ao disposto no Estatuto pelo que respeita a iniciativas do âmbito da segurança social que eventualmente desenvolvam.\n\nArt. 3.º A aplicação do Estatuto nas Regiões Autónomas dos Açores e da Madeira será determinada, com as adaptações necessárias, em decretos regionais e terá lugar logo que ali se organizem os serviços indispensáveis.\n\nArt. 4.º - 1 - O Ministério dos Assuntos Sociais emitirá os regulamentos e as instruções indispensáveis à execução do Estatuto agora aprovado.\n\n2 - As dúvidas que surjam na aplicação deste diploma e do Estatuto serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais.\n\nVisto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - Alfredo Bruto da Costa.\n\nPromulgado em 24 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nESTATUTO DAS INSTITUIÇÕES PRIVADAS DE SOLIDARIEDADE SOCIAL"
+   "markdown": "de 29 de Dezembro\n\n1. A Constituição da República, no n.º 3 do seu artigo 63.º, prescreve que a organização do sistema de segurança social não prejudicará a existência de instituições privadas de solidariedade social não lucrativas, que serão permitidas, regulamentadas por lei e sujeitas à fiscalização do Estado.\n\nA lei fundamental do País reconheceu assim a vigorosa realidade que constitui, entre nós, a iniciativa privada nos amplos domínios da solidariedade social.\n\nNa verdade, a vasta rede de instituições que a actividade particular criou forma um valioso património moral e material que, ao longo dos séculos e ainda hoje, tem contribuído, como inegável constante social, para a melhoria das condições de vida do povo português.\n\nSensibilizadas por altos ideários e conscientes do dever moral que lhes cabe de exprimir por forma organizada a solidariedade entre os indivíduos, essas instituições favorecem a humanização das actividades que importa desenvolver no exercício de uma política social dignificante.\n\nPor isso, o Estado as reconhece, valoriza e apoia, incentivando e fomentando o seu funcionamento, que, todavia, dados os interesses públicos em jogo e o bem comum em vista, não pode deixar de regulamentar e fiscalizar, como determina a Constituição e se propõe este diploma ao criar, para tal efeito, as normas necessárias.\n\n2. O propósito deste diploma não é o de definir os esquemas de prestações ou serviços que a Constituição indica no artigo 63.º, como conteúdo do sistema de segurança social.\n\nO seu objectivo é o de estabelecer a disciplina jurídica das instituições que visam prosseguir fins não lucrativos de segurança social. A sua inclusão no sistema resulta da própria Constituição, na leitura tida como correcta.\n\n3. os diplomas mais importantes que anteriormente se ocuparam desta matéria são, sem dúvida, além do Código Administrativo de 1940, a [Lei n.º 1998](https://diariodarepublica.pt/dr/detalhe/lei/1998-1944-548976), de 15 de Maio de 1944 (Estatuto da Assistência Social), e a [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963 (Estatuto da Saúde e Assistência).\n\nTodavia, qualquer destas duas últimas leis tem objectivos muito alargados, procurando organizar, na época em que foram elaboradas, o sistema completo de protecção social, nos termos em que então era concebido. Daí que a matéria própria das instituições ou entidades particulares incluídas nesse sistema tenha sido tratada por forma dispersa e pouco desenvolvida. O aprofundamento do seu regime jurídico viria depois a ser efectuado em diplomas regulamentares posteriores, dos quais se citam apenas o [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, e o [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nÉ, pois, novo o projecto que neste momento se realiza, reunindo num só diploma as linhas fundamentais do regime jurídico destas instituições.\n\nO estatuto que agora se publica resultou de um demorado processo de trabalho, mantido com persistência ao longo do mandato de vários Governos Constitucionais e que, com a publicação, atinge o seu termo. Ouvido um número representativo destas instituições, a União das Misericórdias Portuguesas e a Conferência Episcopal Portuguesa, consultados os serviços e obtida a colaboração dos Ministérios envolvidos nesta matéria, considera-se o presente estatuto em condições de ser oferecido às instituições portuguesas de solidariedade social.\n\n4. O quadro completo das instituições privadas de solidariedade social é estabelecido no artigo 3.º do estatuto. Aí podemos encontrar, ao lado de formas tradicionais, como sejam as associações de solidariedade social (nome novo das antigas associações de assistência ou beneficentes), as Misericórdias, as associações de socorros mútuos e as fundações, novas figuras agora aconselhadas pelo evoluir das necessidades sociais e dos meios de as satisfazer. É o caso das cooperativas de solidariedade social e das associações de voluntários sociais. E também o das suas uniões e federações.\n\nEm relação a todas elas são estabelecidas normas de aplicação comum e depois, para cada uma, disposições especiais, de aplicação restrita.\n\n5. Caberá agora indicar, ainda que por forma abreviada, as grandes linhas de força do estatuto e as soluções novas que nele foram previstas. Assim:\n\na) Incluíram-se expressamente estas instituições no sistema de segurança social previsto na Constituição, a partir do registo;\n\nb) Houve particular cuidado na defesa das consequências jurídicas que decorrem da liberdade de associação, eliminando totalmente as anteriores formas de intervenção tutelar da Administração, a qual ficará restrita aos poderes constitucionais de regulamentação, coordenação e fiscalização;\n\nc) Todos os restantes actos que sejam de intervenção substitutiva passaram para a área jurisdicional, pelo que só podem ser praticados pelos tribunais;\n\nd) Tudo o que antecede resulta da circunstância de estas instituições deixarem de ser consideradas pessoas colectivas de utilidade pública administrativa, acentuando-se, deste modo, o seu carácter privado;\n\ne) Em contrapartida, estas instituições têm, nos termos da própria Constituição, um regime legal mais regulamentado do que o das simples pessoas colectivas de utilidade pública ([Decreto-Lei n.º 460/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1977-277832), de 7 de Novembro), em homenagem aos objectivos sociais que prosseguem e de que o próprio Estado é garante;\n\nf) Houve a preocupação de evitar nesta regulamentação que fossem atingidas as disposições da Concordata celebrada entre o Estado Português e a Santa Sé;\n\ng) Tomaram-se disposições para que, em termos de acordo, possam vir a ser eliminadas as situações criadas pelo [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de que resulta a separação legal entre as irmandades ou confrarias da Misericórdia e a respectiva associação civil, fórmula que durante largo período afectou as relações entre a Administração e estas instituições;\n\nh) Foi assegurada a participação das instituições em todos os escalões do sistema de segurança social;\n\ni) Criaram-se formas instrumentais de apoio à actividade das instituições, admitindo que elas se possam agrupar em uniões e federações;\n\nj) Finalmente, deixou-se para diploma próprio a regulamentação específica das associações de socorros mútuos, dada a complexidade de que se revestem a sua estrutura e o seu funcionamento.\n\n6. O presente diploma tem implícito um juízo de positivo valor em relação às iniciativas privadas de solidariedade social na realização dos grandes objectivos que a comunidade nacional se propõe realizar no campo da protecção social dos cidadãos.\n\nO Governo, consciente de que este estatuto abre perspectivas históricas ao desenvolvimento dessas instituições, exprime também, neste diploma, um acto de confiança nas próprias instituições e na sua capacidade de resposta às necessidades específicas dos nossos tempos.\n\nNestes termos:\n\nTendo presente o disposto no artigo 63.º da Constituição e em conformidade com o respectivo programa:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-679457), publicado em 1980-02-18.\n\nArtigo 1.º - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), publicado em 1983-02-25.\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º (Revogado.)\n\nArt. 4.º - (Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - Alfredo Bruto da Costa.\n\nPromulgado em 24 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nESTATUTO DAS INSTITUIÇÕES PRIVADAS DE SOLIDARIEDADE SOCIAL"
   },
-  "50d465da7d93d229": {
+  "0941df14226df02c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Definição e objectivo das instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Definição e objectivo das instituições)\n\n(Revogado.)"
+  },
+  "4c487e5309f05010": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Enquadramento e natureza das instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Enquadramento e natureza das instituições)\n\n(Revogado.)"
+  },
+  "f663f5eac063a27c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Formas e agrupamento das instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Formas e agrupamento das instituições)\n\n(Revogado.)"
+  },
+  "a40f7bfb777107ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Personalidade colectiva e utilidade pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Personalidade colectiva e utilidade pública)\n\n(Revogado.)"
+  },
+  "a5bfbc54f01a5c96": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — (Directrizes da acção das instituições)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º — (Directrizes da acção das instituições)\n\n1 - A acção das instituições desenvolve-se de acordo com as directrizes seguintes:\n\na) É livre a escolha das suas áreas de actividade e autónomo o exercício, de acordo com as orientações que o Estado estabeleça para o desenvolvimento do sistema de segurança social;\n\nb) Neste exercício, as instituições assumem responsabilidades sociais e jurídicas perante a sociedade e o Estado e perante os beneficiários;\n\nc) Os interesses e direitos dos beneficiários e dos grupos sociais a que pertençam preferem aos das próprias instituições, dos seus associados ou fundadores;\n\nd) A vontade dos fundadores, testadores ou doadores será sempre respeitada, e a sua interpretação orientar-se-á por forma a fazer coincidir os objectivos essenciais das instituições com as necessidades colectivas em geral e dos beneficiários em particular e ainda com a evolução dessas necessidades e dos meios ou formas de as satisfazer;\n\ne) Os beneficiários devem ser respeitados na sua dignidade e na intimidade da vida privada, não podem sofrer discriminações fundadas em critérios ideológicos, políticos, confessionais ou raciais e serão ajudados a superar o isolamento e a marginalização sociais;\n\nf) O apoio do Estado e das autarquias locais destina-se a reforçar os recursos próprios das instituições, aumentando-lhes as possibilidades de actuação e melhorando a qualidade desta;\n\ng) As instituições devem cooperar entre si e com os serviços públicos para obter o mais alto grau de justiça e de benefícios sociais e também de aproveitamento dos recursos;\n\nh) As crises, as dificuldades e os diferendos surgidos na vida interna das instituições devem ser resolvidos no quadro dos seus órgãos estatutários, pelo que só excepcionalmente justificam a intervenção das entidades oficiais referidas neste Estatuto;\n\ni) A organização interna das instituições é livremente estabelecida pelos seus órgãos gerentes, com respeito pelas disposições estatutárias e pela legislação aplicável.\n\n2 - Não se consideram discriminações que desrespeitem o disposto na alínea e) do número anterior as restrições do âmbito de acção que correspondam a carências específicas de determinados grupos ou categorias de pessoas."
+   "markdown": "###### Artigo 5.º — (Directrizes da acção das instituições)\n\n(Revogado.)"
   },
-  "0bf350c921323dbb": {
+  "261cf3d1606cf9b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Relações entre o Estado e as instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Relações entre o Estado e as instituições)\n\n(Revogado.)"
+  },
+  "af4b8ab91d5347a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Criação das instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Criação das instituições)\n\n(Revogado.)"
+  },
+  "5877ecf3bd2772be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Estatutos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Estatutos)\n\n(Revogado.)"
+  },
+  "ac8e14e7f028a7cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Matéria estatutária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Matéria estatutária)\n\n(Revogado.)"
+  },
+  "e8bb7ed079be6302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Modificação dos estatutos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Modificação dos estatutos)\n\n(Revogado.)"
+  },
+  "848ca38a702081ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Corpos gerentes e suas funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Corpos gerentes e suas funções)\n\n(Revogado.)"
+  },
+  "95893fac34e9901d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Corpos gerentes obrigatórios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Corpos gerentes obrigatórios)\n\n(Revogado.)"
+  },
+  "a19552861ff9a416": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Composição dos corpos gerentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Composição dos corpos gerentes)\n\n(Revogado.)"
+  },
+  "f1d9e3d0415c8bbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Gratuitidade do exercício)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Gratuitidade do exercício)\n\n(Revogado.)"
+  },
+  "92ce5a7b165d6560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Responsabilidade dos gerentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Responsabilidade dos gerentes)\n\n(Revogado.)"
+  },
+  "48f6f361966a7685": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Incapacidades e impedimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Incapacidades e impedimentos)\n\n(Revogado.)"
+  },
+  "6442cc8812c76339": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Princípios orientadores da gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Princípios orientadores da gestão)\n\n(Revogado.)"
+  },
+  "fd156a0f2c762922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Competências de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Competências de gestão)\n\n(Revogado.)"
+  },
+  "f77aff47aa9608f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Alienação e arrendamento de imóveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Alienação e arrendamento de imóveis)\n\n(Revogado.)"
+  },
+  "b9cedcc14a8cbcc5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º — (Depósito de capitais)",
-   "in_force_from": "1982-07-29",
+   "in_force_from": "1983-02-25",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 467/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1980-462017), publicado em 1980-10-14."
    ],
-   "markdown": "###### Artigo 21.º — (Depósito de capitais)\n\n1 - Os capitais das instituições são depositados, à ordem ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência ou em qualquer banco nacional.\n\n2 - Os depósitos a prazo serão objecto de deliberação do órgão competente da instituição, nos termos dos respectivos estatutos e tendo em conta as orientações técnico-normativas gerais, de carácter financeiro, do Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 467/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1980-462017), publicado em 1980-10-14."
+   "markdown": "###### Artigo 21.º — (Depósito de capitais)\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 467/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1980-462017), publicado em 1980-10-14."
   },
-  "46b53e0689fb5dce": {
+  "c481ee03a66f60cb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º — (Aceitação de heranças, legados e doações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 23.º — (Aceitação de heranças, legados e doações)\n\n1 - As instituições só podem aceitar heranças a benefício de inventário e desde que os encargos não excedam a terça parte das forças da herança ou dos respectivos rendimentos, se estes forem afectados a prestações futuras e repetidas.\n\n2 - A aceitação de legados e doações rege-se, na parte aplicável, pelo estabelecido no número anterior."
+   "markdown": "###### Artigo 23.º — (Aceitação de heranças, legados e doações)\n\n(Revogado.)"
   },
-  "de826e248c5adc77": {
+  "9502dad65d6a6fd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Acordos de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Acordos de gestão)\n\n(Revogado.)"
+  },
+  "5d0b4956a462a5ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Regime do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Regime do pessoal)\n\n(Revogado.)"
+  },
+  "94334df73d3bd09b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Formas de modificação e de extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Formas de modificação e de extinção)\n\n(Revogado.)"
+  },
+  "6bdc22a576e047d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Defesa dos objectivos sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Defesa dos objectivos sociais)\n\n(Revogado.)"
+  },
+  "7675c5492453ea1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Integração, fusão ou cisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Integração, fusão ou cisão)\n\n(Revogado.)"
+  },
+  "a69886074dc1e637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Processo de extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Processo de extinção)\n\n(Revogado.)"
+  },
+  "f1ed6b9b990ec9f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Destino dos bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Destino dos bens)\n\n(Revogado.)"
+  },
+  "7d4fc6ed10b5094d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º — (Processo de atribuição dos bens)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 32.º — (Processo de atribuição dos bens)\n\n1 - A atribuição dos bens em qualquer das situações previstas nesta secção será homologada por despacho do Ministro da Coordenação Social e dos Assuntos Sociais, ouvidas as uniões de que as instituições façam parte e os serviços competentes.\n\n2 - Se as instituições forem extintas por decisão judicial, serão observadas as directrizes estabelecidas no artigo 31.º do presente Estatuto.\n\n3 - Quando as instituições que prossigam fins de outra natureza se extingam ou cessem com carácter definitivo, o exercício das acções de segurança social, os bens afectados a esta actividade ou que interessem directamente ao cumprimento de acordos de cooperação terão o destino previsto no artigo 31.º"
+   "markdown": "###### Artigo 32.º — (Processo de atribuição dos bens)\n\n(Revogado.)"
   },
-  "c70615beaf09f1c9": {
+  "d14d600b46963e97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Registo central)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Registo central)\n\n(Revogado.)"
+  },
+  "1dad4b92caa76a05": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º — (Actos sujeitos a registo)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 34.º — (Actos sujeitos a registo)\n\n1 - Estão sujeitos a registo:\n\na) Os actos jurídicos de constituição ou de fundação das instituições, os respectivos estatutos e suas alterações;\n\nb) Os actos jurídicos de constituição das uniões e federações de instituições, os respectivos estatutos e suas alterações;\n\nc) Os actos jurídicos de integração, fusão e cisão das instituições;\n\nd) A extinção das instituições, das suas uniões e federações;\n\ne) A declaração de nulidade dos actos jurídicos de constituição ou fundação das instituições;\n\nf) A eleição, designação e recondução dos corpos gerentes.\n\n2 - Ficam igualmente sujeitos a registo os actos jurídicos de constituição, fundação ou extinção das instituições que prossigam, juntamente com objectivos\n\nrespeitantes à efectivação de direitos sociais ou culturais, actividades de segurança social.\n\n3 - As instituições não poderão exercer actividades ou abrir estabelecimentos para a realização dos seus fins de segurança social enquanto não estiverem inscritas no registo central."
+   "markdown": "###### Artigo 34.º — (Actos sujeitos a registo)\n\n(Revogado.)"
   },
-  "dc45dbc4149dbcca": {
+  "3b6bc223f5829f39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Equiparação a actos sujeitos a registo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Equiparação a actos sujeitos a registo)\n\n(Revogado.)"
+  },
+  "837361087aaf9401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Conteúdo do registo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Conteúdo do registo)\n\n(Revogado.)"
+  },
+  "c5581a97f4b8d099": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Extractos e averbamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Extractos e averbamentos)\n\n(Revogado.)"
+  },
+  "9007530d29f2a847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Espécies dos livros de registo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Espécies dos livros de registo)\n\n(Revogado.)"
+  },
+  "12ee862186a305e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Processo do registo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Processo do registo)\n\n(Revogado.)"
+  },
+  "fb3ee5f92a4d5629": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Inscrições e averbamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Inscrições e averbamentos)\n\n(Revogado.)"
+  },
+  "2d6b74da364c2e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Comunicações das autoridades administrativas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Comunicações das autoridades administrativas)\n\n(Revogado.)"
+  },
+  "fde337cd9ee9c669": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Comunicações dos tribunais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Comunicações dos tribunais)\n\n(Revogado.)"
+  },
+  "0546d95949d75ac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Conteúdo da acção do Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Conteúdo da acção do Estado)\n\n(Revogado.)"
+  },
+  "8796806136dfff49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Função regulamentadora)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Função regulamentadora)\n\n(Revogado.)"
+  },
+  "baaa891b5f520ba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Função fiscalizadora e inspectiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Função fiscalizadora e inspectiva)\n\n(Revogado.)"
+  },
+  "9bb1ed11901626df": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º — (Função interventiva)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 46.º — (Função interventiva)\n\n1 - No exercício da função interventiva, cabe ao Ministro da Coordenação Social e dos Assuntos Sociais ou aos serviços do respectivo Ministério, de acordo com as respectivas competências:\n\na) Participar ao Ministério Público todos os factos considerados ilegais, apurados no exercício da acção orientadora e tutelar;\n\nb) Pedir judicialmente, através do Ministério Público, a destituição dos corpos gerentes cuja acção revele prática reiterada de actos de gestão prejudiciais aos interesses das instituições, dos beneficiários ou do Estado.\n\n2 - No caso previsto na alínea b) do número anterior, observar-se-á o seguinte:\n\na) O Ministério Público especificará os factos que justificam o pedido, oferecendo logo a prova, e os corpos gerentes arguidos serão citados para contestar;\n\nb) O juiz decidirá a final, devendo nomear uma comissão provisória de gestão, proposta pelo Ministério Público, com a competência dos corpos gerentes estatutários e cujo mandato terá a duração de um ano, prorrogável até três;\n\nc) São aplicáveis a este procedimento as normas que regulam os processos de jurisdição voluntária;\n\nd) A comissão provisória de gestão deverá convocar a assembleia geral antes do termo das suas funções para eleger os novos corpos gerentes."
+   "markdown": "###### Artigo 46.º — (Função interventiva)\n\n(Revogado.)"
   },
-  "48ccc6925f3c440f": {
+  "62c336dbc9903522": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Providência cautelar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Providência cautelar)\n\n(Revogado.)"
+  },
+  "f3e997f22bc56d2a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 48.º — (Homologação ou visto dos actos de gerência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 48.º — (Homologação ou visto dos actos de gerência)\n\n1 - Carecem de homologação dos serviços competentes do Ministério dos Assuntos Sociais:\n\na) A fixação da estrutura orgânica das instituições e suas modificações;\n\nb) A mudança de actividade social ou sua cessação;\n\nc) A aquisição de bens imóveis a título oneroso e a alienação por qualquer título;\n\nd) A realização de empréstimos.\n\n2 - Os orçamentos, as contas das instituições e os seus quadros de pessoal são aprovados pelos corpos gerentes, nos termos estatutários, mas carecem de visto dos serviços competentes do Ministério dos Assuntos Sociais.\n\n3 - As contas das instituições de que trata este Estuto não estão sujeitas a julgamento do Tribunal de Contas.\n\n4 - Pode o Ministro da Coordenação Social e dos Assuntos Sociais dispensar de visto os orçamentos e as contas de instituições de valor inferior ao que for fixado em portaria, sem prejuízo da verificação de documentos de receita e despesa por meio de inspecção."
+   "markdown": "###### Artigo 48.º — (Homologação ou visto dos actos de gerência)\n\n(Revogado.)"
   },
-  "9a4c06db38df5f54": {
+  "44646c1d4db99123": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Poder de requisição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Poder de requisição)\n\n(Revogado.)"
+  },
+  "942b9c4ab8c30d3b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º — (Fins e constituição das associações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 50.º — (Fins e constituição das associações)\n\n1 - Associações de solidariedade social são as constituídas com o fim de exercer actividades do âmbito da segurança social.\n\n2 - Estas associações constituem-se, adquirem personalidade jurídica e regulam o seu funcionamento em conformidade com a lei geral sobre associações civis ou ainda nos termos da Concordata."
+   "markdown": "###### Artigo 50.º — (Fins e constituição das associações)\n\n(Revogado.)"
   },
-  "c5489b5f5f7b2589": {
+  "e95a31ef771c5848": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Associados - Direitos e deveres)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Associados - Direitos e deveres)\n\n(Revogado.)"
+  },
+  "e95d62616957da3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Corpos gerentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Corpos gerentes)\n\n(Revogado.)"
+  },
+  "01de658a2774c632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Convocação da assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Convocação da assembleia geral)\n\n(Revogado.)"
+  },
+  "68b383da924e38c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Comissão provisória de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Comissão provisória de gestão)\n\n(Revogado.)"
+  },
+  "d5b42b49f60deed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Extinção das associações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Extinção das associações)\n\n(Revogado.)"
+  },
+  "fc1272067272ff02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — (Definição e reconhecimento legal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Definição e reconhecimento legal)\n\n(Revogado.)"
+  },
+  "7846d095c23c6448": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Regime aplicável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Regime aplicável)\n\n(Revogado.)"
+  },
+  "408df0dc56801e93": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 58.º — (Associados)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 58.º — (Associados)\n\n1 - Podem ser admitidos como associados das irmandades da Misericórdia os indivíduos maiores, de ambos os sexos, que se comprometam a colaborar na prossecução dos objectivos daquelas instituições, respeitando o espírito que as informa.\n\n2 - As obrigações e os direitos dos associados constam do compromisso da respectiva irmandade."
+   "markdown": "###### Artigo 58.º — (Associados)\n\n(Revogado.)"
   },
-  "7ee7ca490dc69a9f": {
+  "6f8f5983d838ddf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Extinção e destino dos bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Extinção e destino dos bens)\n\n(Revogado.)"
+  },
+  "4c5af780e535d84d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Regime subsidiário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Regime subsidiário)\n\n(Revogado.)"
+  },
+  "cbcacfc6e1973d62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — (Santa Casa da Misericórdia de Lisboa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — (Santa Casa da Misericórdia de Lisboa)\n\n(Revogado.)"
+  },
+  "2e059c515c814727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — (Conceitos e objectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — (Conceitos e objectivos)\n\n(Revogado.)"
+  },
+  "f447a541f2d1a10f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — (Processo de constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — (Processo de constituição)\n\n(Revogado.)"
+  },
+  "9e9c900d09cee9a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — (Capital)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — (Capital)\n\n(Revogado.)"
+  },
+  "d2d0d74e5ccb202a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — (Sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — (Sócios)\n\n(Revogado.)"
+  },
+  "d74eeab2c20fba53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — (Saldos de exercício)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — (Saldos de exercício)\n\n(Revogado.)"
+  },
+  "9218ab5f7177beec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — (Extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — (Extinção)\n\n(Revogado.)"
+  },
+  "85fe9b192bae8105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — (Regime subsidiário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — (Regime subsidiário)\n\n(Revogado.)"
+  },
+  "ffd4e1ded9c3cbd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — (Fins das associações de voluntários de acção social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — (Fins das associações de voluntários de acção social)\n\n(Revogado.)"
+  },
+  "fbc5fe989de229b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — (Constituição)\n\n(Revogado.)"
+  },
+  "2a19989b244e0d45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — (Acordos de colaboração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — (Acordos de colaboração)\n\n(Revogado.)"
+  },
+  "42ab7b65e1771f8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — (Extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — (Extinção)\n\n(Revogado.)"
+  },
+  "80cc8b801a3cfc12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — (Regime subsidiário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — (Regime subsidiário)\n\n(Revogado.)"
+  },
+  "309fd75230c92daa": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 74.º — (Fins e reconhecimento das fundações de solidariedade social)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 74.º — (Fins e reconhecimento das fundações de solidariedade social)\n\n1 - Fundações de solidariedade social são as instituídas nos termos da lei geral e da Concordata, mas com o fim específico de prosseguir actividades de segurança social.\n\n2 - O reconhecimento das fundações de solidariedade social é da competência do Ministro da Coordenação Social e dos Assuntos Sociais.\n\n3 - O reconhecimento será negado quando os fins não coincidam com os do sistema de segurança social ou quando o património indicado seja manifestamente insuficiente para a prossecução dos fins visados e não haja expectativas fundadas de suprimento da insuficiência."
+   "markdown": "###### Artigo 74.º — (Fins e reconhecimento das fundações de solidariedade social)\n\n(Revogado.)"
   },
-  "748e7b156eb9db7d": {
+  "89399eb50d833a96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — (Modificação dos estatutos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — (Modificação dos estatutos)\n\n(Revogado.)"
+  },
+  "2cbcfdeb7e24fa40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — (Alteração de fins)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — (Alteração de fins)\n\n(Revogado.)"
+  },
+  "d7c0521fc9426152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — (Integração de fundações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — (Integração de fundações)\n\n(Revogado.)"
+  },
+  "6a5449dbd17e09f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — (Institutos de entidades religiosas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — (Institutos de entidades religiosas)\n\n(Revogado.)"
+  },
+  "029da4c750d6d4a3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 79.º — (Regime supletivo)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 79.º — (Regime supletivo)\n\n1 - Não se aplicam às fundações de solidariedade social as disposições do presente Estatuto respeitantes à fusão e cisão de instituições.\n\n2 - Em tudo o que não se encontre especialmente previsto neste Estatuto, as fundações de solidariedade social regem-se pelo regime comum das fundações estabelecido na lei geral, com respeito pelas disposições concordatárias, quando aplicáveis."
+   "markdown": "###### Artigo 79.º — (Regime supletivo)\n\n(Revogado.)"
   },
-  "1ab27d38e25f58d7": {
+  "bc7b45936dc0a450": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — (Fins das uniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — (Fins das uniões)\n\n(Revogado.)"
+  },
+  "844edfe108e32415": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — (Constituição e regime legal das uniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — (Constituição e regime legal das uniões)\n\n(Revogado.)"
+  },
+  "70c36db60fd8d2c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — (Limites da representação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — (Limites da representação)\n\n(Revogado.)"
+  },
+  "955c082a88a78e51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — (Isenções e regalias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — (Isenções e regalias)\n\n(Revogado.)"
+  },
+  "7e4545bc51ca1b27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — (Fins das federações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — (Fins das federações)\n\n(Revogado.)"
+  },
+  "e4b3edf20af8e627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — (Constituição e regime legal das federações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — (Constituição e regime legal das federações)\n\n(Revogado.)"
+  },
+  "27e34eef780c2777": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — (Regime subsidiário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — (Regime subsidiário)\n\n(Revogado.)"
+  },
+  "e23a2d2dbcff7568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — (Direcção-Geral de Segurança Social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — (Direcção-Geral de Segurança Social)\n\n(Revogado.)"
+  },
+  "6eaff73e125cd35c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 88.º — (Mudança de qualificação)",
-   "in_force_from": "1982-07-29",
+   "in_force_from": "1983-02-25",
    "changed_by": [
     "Revogado pelo/a [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), publicado em 1982-07-29."
    ],
-   "markdown": "###### Artigo 88.º — (Mudança de qualificação)\n\n1 - As instituições com fins de solidariedade social anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa deixam de ter essa qualificação e passam a ser consideradas instituições privadas de solidariedade social, pelo que ficam sujeitas ao regime estabelecido no presente Estatuto.\n\n2 - Estas instituições deverão reformar os estatutos de acordo com o novo regime e adoptar a forma que melhor se adapte às suas finalidades.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), publicado em 1982-07-29."
+   "markdown": "###### Artigo 88.º — (Mudança de qualificação)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), publicado em 1982-07-29."
   },
-  "4f6696597427b7cf": {
+  "6178195f19e44f73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — (Qualificação e registo de certas instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — (Qualificação e registo de certas instituições)\n\n(Revogado.)"
+  },
+  "eda6f13fddc1463b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — (Erecção canónica das Misericórdias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — (Erecção canónica das Misericórdias)\n\n(Revogado.)"
+  },
+  "ae07b2a151bb8f4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — (Termo do regime dualista)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — (Termo do regime dualista)\n\n(Revogado.)"
+  },
+  "6014be61dd2647d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — (Cooperativas de solidariedade social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — (Cooperativas de solidariedade social)\n\n(Revogado.)"
+  },
+  "56c41af8cba47418": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — (Disposições supletivas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — (Disposições supletivas)\n\n(Revogado.)"
+  },
+  "8040d7a19f3840ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — (Regime transitório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — (Regime transitório)\n\n(Revogado.)"
+  },
+  "86bcc4275f0428bc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 95.º — (Revogações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 95.º — (Revogações)\n\nFica revogada a legislação em contrário, designadamente as disposições do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, referentes às instituições particulares de assistência e o disposto no artigo 2.º do [Decreto-Lei n.º 618/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1975-310594), de 11 de Novembro, respeitante às Misericórdias.\n\nO Ministro da Coordenação Social e dos Assuntos Sociais, Alfredo Bruto da Costa."
+   "markdown": "###### Artigo 95.º — (Revogações)\n\n(Revogado.)\n\nO Ministro da Coordenação Social e dos Assuntos Sociais, Alfredo Bruto da Costa."
   }
  }
 }

@@ -54,7 +54,7 @@ version_history:
   - date: '2020-01-01'
     amending: pt:dre:124324704:por
     amending_title: Decreto-Lei n.º 132/2019; Portaria n.º 5/95; Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96;
-      Portaria n.º 1279/97; Decreto-Lei n.º 82/2007
+      Portaria n.º 1279/97; Decreto-Lei n.º 82/2007; Decreto-Lei n.º 273/99; Decreto-Lei n.º 360/99
     changes:
     - Revoga Artigo 53.º
     - Revoga Artigo 53.º
@@ -72,6 +72,14 @@ version_history:
     - Revoga Artigo 53
     - Revoga Artigo 69
     - Revoga Artigo 70
+    - Revoga Artigo 64
+    - Revoga Artigo 65
+    - Revoga Artigo 66
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 5
+    - Revoga Artigo 8
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -311,45 +319,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza
 
-A Direcção-Geral das Alfândegas, adiante designada abreviadamente DGA, é o departamento do Ministério das Finanças que tem por objectivos fundamentais estudar, propor, coordenar, executar e avaliar programas e medidas de política aduaneira, bem como os relativos ao regime fiscal dos impostos indirectos que lhe estão cometidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), publicado em 1999-09-16, com efeitos a partir de 2000-01-01.
 
 ###### Artigo 2.º — Atribuições
 
-São atribuições da DGA:
-
-a) Produzir, tratar, organizar e difundir a informação necessária à sua participação na definição das políticas nacionais e comunitárias nos domínios aduaneiro, fiscal e de prevenção e repressão da fraude;
-
-b) Executar acções de coordenação e controlo da aplicação das políticas definidas e das disposições legais em vigor no domínio da sua competência;
-
-c) Preparar e assegurar a participação da administração aduaneira no âmbito das relações externas bilaterais e das relações externas da Comunidade Europeia com terceiros países e com organizações internacionais;
-
-d) Contribuir, no âmbito das suas atribuições, para que seja assegurada a coerência interna das várias políticas comunitárias susceptíveis de interacções no Mercado Único;
-
-e) Promover a cooperação com as administrações aduaneiras dos demais Estados membros da Comunidade Europeia com vista à troca regular de informações, necessária à fundamentação de estudos e intervenções que assegurem uma participação eficaz e homogénea no funcionamento do Mercado Único;
-
-f) Acompanhar as negociações das matérias comunitárias que se enquadrem nas suas atribuições e assegurar a participação dos serviços, em razão da sua competência;
-
-g) Colaborar numa gestão eficaz e competitiva da fronteira externa, procurando soluções que contribuam para uma harmonização de procedimentos a nível comunitário e impeçam desvios de tráfego e perturbações no funcionamento concorrencial dos mercados;
-
-h) Controlar as trocas de mercadorias e os meios de transporte com fins fiscais e económicos e, bem assim, exercer outros controlos que lhe forem cometidos;
-
-i) Garantir a correcta aplicação das disposições legais a que se encontrem sujeitas as mercadorias introduzidas no território aduaneiro da Comunidade, até que lhes seja atribuído um destino aduaneiro;
-
-j) Atribuir um destino aduaneiro às mercadorias nos termos da legislação em vigor e proceder, nos casos em que a ela houver lugar, à cobrança das receitas nacionais e comunitárias;
-
-l) Proceder, no âmbito da sua competência, às adequadas verificações na fronteira externa e no mercado nacional, através de controlos físicos nos locais de partida, destino e trânsito das mercadorias e do controlo da contabilidade dos agentes económicos;
-
-m) Assegurar, nas trocas comerciais com países terceiros, a liquidação e cobrança do IVA e a administração dos impostos especiais de consumo, bem como, nas trocas intracomunitárias e na produção nacional, a administração destes últimos e dos demais impostos indirectos que lhe estão cometidos;
-
-n) Prevenir e reprimir a fraude aduaneira e fiscal e os tráficos ilícitos, designadamente de droga, precursores, armas químicas, explosivos, bens de alta tecnologia, armas e objectos de arte, com recurso aos instrumentos e meios de informação adequados;
-
-o) Cooperar com outros serviços no âmbito das actividades referidas na alínea anterior, nomeadamente pela prática da assistência mútua internacional;
-
-p) Solicitar para os fins e domínios referidos na alínea n) a colaboração de serviços policiais e forças de segurança;
-
-q) Proceder à realização de controlos, inspecções e auditorias com vista a garantir a correcta aplicação dos regimes aduaneiros e fiscais;
-
-r) Assegurar aos agentes económicos e sociais informação concreta e orientada para o esclarecimento das questões suscitadas pelo exercício das suas atribuições e, nomeadamente, pelo funcionamento do Mercado Único.
+(Revogado.)
 
 ###### Artigo 3.º — Território aduaneiro
 
@@ -371,19 +347,7 @@ b) O Conselho Técnico-Aduaneiro.
 
 ###### Artigo 5.º — Director-geral
 
-1 - Compete ao director-geral:
-
-a) Dirigir e orientar a acção dos serviços da DGA;
-
-b) Apresentar à aprovação do membro do Governo competente o plano e o relatório de actividades da DGA;
-
-c) Submeter à aprovação das entidades competentes os orçamentos e a conta anual da DGA;
-
-d) Representar e fazer representar a DGA em quaisquer actos ou contratos em que ela haja de intervir, em juízo ou fora dela.
-
-2 - O director-geral é coadjuvado por subdirectores-gerais, nos quais pode delegar parte da sua competência.
-
-3 - O director-geral pode delegar parte da sua competência nos directores de serviço e chefes de divisão ou equiparados, com poderes para subdelegarem.
+(Revogado.)
 
 ###### Artigo 6.º — Conselho Técnico-Aduaneiro
 
@@ -421,19 +385,7 @@ m) Direcção de Serviços de Prevenção e Repressão da Fraude.
 
 ###### Artigo 8.º — Gabinete de Auditoria Interna
 
-1 - Ao Gabinete de Auditoria Interna compete:
-
-a) Desenvolver acções no âmbito da inspecção e auditoria de gestão;
-
-b) Analisar e avaliar, em termos de eficácia e eficiência, a actividade prosseguida pelos serviços, detectando e caracterizando os factores e as situações condicionantes ou impeditivas da realização dos objectivos definidos;
-
-c) Verificar o cumprimento das disposições legais e regulamentares;
-
-d) Cooperar com os serviços comunitários na realização de auditorias e acompanhar posteriormente as sugestões por eles formuladas;
-
-e) Recolher informações, elaborar relatórios e propor medidas tendentes à eliminação das deficiências e irregularidades detectadas.
-
-2 - O Gabinete de Auditoria Interna é dirigido por um director de serviços.
+(Revogado.)
 
 ###### Artigo 9.º — Direcção de Serviços Jurídicos
 
@@ -491,29 +443,7 @@ f) Elaborar o balanço social.
 
 ##### Divisão de Formação
 
-1 - À Divisão de Formação compete:
-
-a) Realizar os estudos necessários à determinação do diagnóstico de necessidades dos serviços em matéria de formação e aperfeiçoamento profissional;
-
-b) Apoiar a formulação das políticas de formação e aperfeiçoamento profissional da DGA e assegurar a sua aplicação;
-
-c) Programar e realizar as acções de formação e aperfeiçoamento profissional que se mostrem adequadas ao aumento da eficácia e eficiência dos serviços e à qualificação dos recursos humanos;
-
-d) Proceder à caracterização do perfil de formador e assegurar a preparação de formadores especialistas nas diversas áreas de interesse para a DGA;
-
-e) Desenvolver as operações técnicas necessárias à avaliação e validação das acções;
-
-f) Informar, através da elaboração e divulgação do relatório, o resultado das suas actividades e fornecer indicadores numa perspectiva do enquadramento destes na gestão global da DGA;
-
-g) Conceber e manter actualizada uma base de dados relativa à formação ministrada, formandos, formadores e outros elementos relativos aos cursos e sua frequência;
-
-h) Colaborar com os serviços comunitários na concepção e realização de programas de formação adaptados à evolução do processo comunitário;
-
-i) Colaborar, sempre que solicitada, na realização de acções de formação promovidas por entidades estranhas à DGA, designadamente no âmbito da cooperação;
-
-j) Promover e desenvolver acções de formação, programas e projectos que lhe sejam solicitados por outros países no âmbito da cooperação bilateral, comunitária ou internacional.
-
-2 - A Divisão de Formação é dirigida por um chefe de divisão.
+(Revogado.)
 
 ###### Artigo 13.º — Direcção de Serviços Financeiros
 
@@ -1261,27 +1191,17 @@ São criados no quadro de pessoal da DGA os lugares de direcção e chefia const
 
 ###### Artigo 64.º — Transição do pessoal de fiscalização dos tabacos
 
-1 - O pessoal de fiscalização dos tabacos afecto ao Núcleo de Fiscalização dos Tabacos (NUFT) que, à data da entrada em vigor do presente diploma, se encontre provido em lugares da carreira de agente fiscal do quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, transita para o quadro de pessoal da DGA para lugares da mesma carreira, categoria e escalão que já possui, mantendo-se-lhe aplicável o regime aprovado pelo [Decreto Regulamentar n.º 48/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1991-301601), de 20 de Setembro.
+(Revogado.)
 
-2 - O actual chefe de delegação poderá optar por transitar e ser provido definitivamente em idêntico cargo no quadro de pessoal da DGA, nos termos do número anterior, cessando na mesma data a situação de comissão de serviço em que se encontra.
-
-3 - A opção referida no número anterior faz-se por requerimento ao director-geral das Alfândegas no prazo de 15 dias contados da data da entrada em vigor do presente diploma.
-
-4 - O tempo de serviço prestado no quadro de origem conta para todos os efeitos legais como prestado no novo quadro, sendo o tempo de serviço neste quadro classificado nos termos da [Portaria n.º 31/88](https://diariodarepublica.pt/dr/detalhe/portaria/31-1988-283368), de 15 de Janeiro.
-
-5 - Os agentes fiscais que à data da entrada em vigor do presente diploma se encontrem a exercer funções em regime de comissão de serviço noutros quadros ou serviços mantêm essa situação, sem prejuízo da sua transição nos termos do n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 273/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1999-354699), publicado em 1999-07-22, com efeitos a partir de 1999-04-01.
 
 ###### Artigo 65.º — Criação de lugares da carreira de fiscalização de tabacos
 
-Para efeito do disposto no n.º 1 do artigo anterior, são criados no quadro de pessoal da DGA, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, os lugares considerados necessários à assunção da competência relativa à administração do imposto de consumo sobre os tabacos manufacturados, constantes do anexo IV ao presente diploma, que dele faz parte integrante, sendo abatidos ao quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, por aplicação do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, todos os lugares da carreira de fiscalização de tabacos.
+(Revogado.)
 
 ###### Artigo 66.º — Provimento do pessoal de fiscalização dos tabacos
 
-1 - O lugar de chefe de delegação é provido de entre agentes fiscais especialistas com três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função, habilitados com o curso geral do ensino secundário ou equivalente.
-
-2 - Os lugares de agente fiscal especialista e principal são providos de entre, respectivamente, agentes fiscais principais e de 1.ª classe com classificação não inferior a Bom, logo que completem três anos de serviço na categoria.
-
-3 - O conteúdo funcional da carreira de agente fiscal consta do anexo V ao presente diploma, que dele faz parte integrante.
+(Revogado.)
 
 ###### Artigo 67.º — Concursos e estágios pendentes
 

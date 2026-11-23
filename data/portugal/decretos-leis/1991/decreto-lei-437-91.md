@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2009-09-23'
     amending: pt:dre:286105:por
-    amending_title: Decreto-Lei n.º 412/98; Decreto-Lei n.º 248/2009
+    amending_title: Decreto-Lei n.º 412/98; Decreto-Lei n.º 248/2009; Decreto-Lei n.º 229/2005
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
@@ -121,7 +121,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:13:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/98; Decreto-Lei
-    n.º 248/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-437-91.alteracoes.json'
+    n.º 248/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-437-91.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 229/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -707,11 +709,13 @@ c) Regime de horário acrescido, com a duração de quarenta e duas horas semana
 
 7 - A remuneração referida no n.º 3 deste artigo releva para efeitos de pagamento dos subsídios de férias e de Natal.
 
-8 - Este regime confere direito a um acréscimo de 25% no tempo de serviço para efeitos de aposentação.
+8 - (Revogado.)
 
 9 - Para efeitos de fixação da pensão de aposentação, a remuneração atribuída em função deste regime é considerada nos termos do Estatuto da Aposentação.
 
 10 - Aos enfermeiros com idade superior a 55 anos que venham praticando este regime há, pelo menos, cinco anos será concedida, se a requererem, redução de uma hora em cada ano no horário de trabalho semanal, até que o mesmo perfaça as trinta e cinco horas, sem perda de regalias.
+
+> Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29, com efeitos a partir de 2006-01-01.
 
 ###### Artigo 56.º — Regras de organização, prestação e compensação de trabalho
 

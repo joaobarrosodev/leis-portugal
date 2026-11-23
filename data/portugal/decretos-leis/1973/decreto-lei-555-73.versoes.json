@@ -88,6 +88,24 @@
      "title": "Portaria n.º 17/81",
      "published": "1981-01-09",
      "dre_path": "/dr/detalhe/portaria/17-1981-570342"
+    },
+    {
+     "id": "pt:dre:506818:por",
+     "title": "Decreto-Lei n.º 64/76",
+     "published": "1976-01-24",
+     "dre_path": "/dr/detalhe/decreto-lei/64-1976-506818"
+    },
+    {
+     "id": "pt:dre:312427:por",
+     "title": "Decreto-Lei n.º 144/83",
+     "published": "1983-03-31",
+     "dre_path": "/dr/detalhe/decreto-lei/144-1983-312427"
+    },
+    {
+     "id": "pt:dre:245342:por",
+     "title": "Decreto-Lei n.º 235-A/83",
+     "published": "1983-06-01",
+     "dre_path": "/dr/detalhe/decreto-lei/235-a-1983-245342"
     }
    ],
    "changes": [
@@ -102,7 +120,19 @@
     "Altera Artigo 46.º",
     "Altera Artigo 47.º",
     "Revoga Artigo 85.º",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 40",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 84",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 8",
+    "Revoga Artigo 10",
+    "Revoga Artigo 15",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 25",
+    "Revoga Artigo 63"
    ],
    "fragments": [
     "68301ecf59484ec8",
@@ -110,28 +140,28 @@
     "11aca49d607a870c",
     "aa9c79611d8de692",
     "53c334e283eb98d7",
-    "4c8313f5c3d1ce5f",
-    "7951e0a8a51efc10",
+    "d959ef5cd45d8278",
+    "b316b1dac8b96425",
     "0c82d8363a3163d2",
     "ac42ec47e3b815bb",
     "60ca1785452ac93b",
     "e25a7058bd844e87",
-    "5411744f85eee665",
+    "5b1df369f880437b",
     "3ba5c4107ff9b504",
     "47356e3fa60673b0",
-    "7597efbe3fe55d4d",
+    "d35c87303dba6a73",
     "677ad77869931e9e",
     "85c5ab10a9732a00",
     "cfc4cb1af12b0abe",
     "f948b1b619b27a0e",
     "3a52fc62fc3e5856",
-    "f6a3c7121d8faa8a",
+    "6a7c1b5d7af9745a",
     "51a883199299a837",
     "cd3843f51fa6325b",
     "6e65f68a85712be9",
     "25f168b8d2b3e0b5",
-    "537a1242877a0fa9",
-    "6ee5ee2f0913ff2e",
+    "770c1b1577e09fa0",
+    "3baafc2786e0174d",
     "b1180cc0129ba0b9",
     "4117d8cc4626548f",
     "a65da83e6fb8b14b",
@@ -139,7 +169,7 @@
     "7c64e44e9ef8b871",
     "1df3d718447f68f6",
     "dbe582302514f82c",
-    "e4f5d2967e0fbe3a",
+    "6c45802c120bd6bc",
     "79e665e338adef60",
     "1c6d145a96a7ecaa",
     "2ccdc7baeb18d217",
@@ -157,7 +187,7 @@
     "896db0dc673e5104",
     "5441d8cb69045400",
     "18f4ba14547ed841",
-    "b2d7632021159459",
+    "afea95c602395000",
     "0566b8b6374d3ceb",
     "1f7f88615bbf6aab",
     "abfcf67f9d7f784d",
@@ -174,7 +204,7 @@
     "94dcabae2ef6125a",
     "53d0ab926f181a2a",
     "db6f40cb1973400d",
-    "b725195c688ef278",
+    "7f8662a7ec8e305b",
     "b010f45dc1507774",
     "02f822a944db2743",
     "f07844cd9a2b956f",
@@ -188,7 +218,7 @@
     "0403088226795319",
     "af2ec8063f469342",
     "bbb77a72c62dd9f6",
-    "af2bcf4abd1c4cac",
+    "3dc39eb345142cd4",
     "5a95e87a6de8e108",
     "f1947f70aba96a13",
     "0e8dac5e6ec2ca25",
@@ -218,7 +248,7 @@
     "72ff78bba717b2bf",
     "0e0c98fb78a64d06",
     "409b6d9583ebef90",
-    "fe33abcd6dc941b1",
+    "57acc75554edd6bc",
     "7d039834c53a5739",
     "95630ed5d293cfd1",
     "5f8c367cd21e6775",
@@ -502,17 +532,18 @@
    "changed_by": [],
    "markdown": "###### Artigo 3.º — Âmbito facultativo do ficheiro central de população\n\n1. O ficheiro central de população pode ainda incluir os cidadãos estrangeiros:\n\na) Que sejam titulares de bilhete de identidade ou passaporte emitido por entidades portuguesas;\n\nb) Que tenham residido em Portugal;\n\nc) Casados com cidadãos portugueses;\n\nd) Ascendentes ou descendentes de portugueses.\n\n2. O Ministro da Justiça pode autorizar por despacho a inclusão no ficheiro de outros indivíduos cujas redações de conexão com a ordem jurídica portuguesa o justifiquem."
   },
-  "4c8313f5c3d1ce5f": {
+  "d959ef5cd45d8278": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas",
    "in_force_from": "2001-03-30",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+    "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.",
+    "Revogado pelo/a [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), publicado em 1983-03-31."
    ],
-   "markdown": "###### Artigo 4.º — Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas\n\nO ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 4.º — Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.\n\n> Revogado pelo/a [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), publicado em 1983-03-31."
   },
-  "7951e0a8a51efc10": {
+  "b316b1dac8b96425": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas",
@@ -520,7 +551,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
    ],
-   "markdown": "###### Artigo 5.º — Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas\n\nO ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 5.º — Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
   },
   "ac42ec47e3b815bb": {
    "fragment_id": null,
@@ -546,7 +577,7 @@
    "changed_by": [],
    "markdown": "###### Artigo 7.º — Conteúdo facultativo do registo individual de cidadão\n\n1. Podem ainda ser incluídos em cada registo individual os seguintes elementos:\n\na) Grupo sanguíneo;\n\nb) Altura;\n\nc) Fórmula dactiloscópica;\n\nd) Habilitações escolares ou profissionais;\n\ne) Situação de emancipado ou adoptado;\n\nf) Nomes do cônjuge ou ex-cônjuge e dos filhos;\n\ng) Nomes dos avós;\n\nh) Sinais particulares;\n\ni) Alcunhas ou nomes usados em alternativa;\n\nj) Data de emissão e validade do bilhete de identidade;\n\nl) Números que ao titular do registo tenham sido atribuídos em documentos oficiais e enquanto neles não forem substituídos pelo número nacional;\n\nm) Referência ao assento de nascimento e a quaisquer outros documentos ou fontes em que tenham sido obtidos os elementos constantes do registo.\n\n2. Pode ainda ser autorizada, em portaria do Ministro da Justiça, a inclusão no registo individual de outros dados de carácter público ou cuja prova seja, por lei, atribuída a serviços públicos."
   },
-  "5411744f85eee665": {
+  "5b1df369f880437b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º — Conteúdo do registo individual de pessoas colectivas e entidades equiparadas",
@@ -554,7 +585,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
    ],
-   "markdown": "###### Artigo 8.º — Conteúdo do registo individual de pessoas colectivas e entidades equiparadas\n\n1 - O registo de cada pessoa colectiva deve conter informação sobre:\n\na) O número de identificação;\n\nb) A designação;\n\nc) A localização da sede e o endereço postal;\n\nd) A natureza jurídica;\n\ne) A actividade principal;\n\nf) A data da constituição e, quando aplicável, da publicação no Diário da República do instrumento de constituição.\n\n2 - Podem ser incluídos no registo elementos sobre alterações ao instrumento de constituição, datas de emissão e validade do cartão de identificação e outros dados que tenham carácter público e ofereçam interesse estatístico ou de planeamento económico, bem como a referência às fontes em que os diversos elementos foram colhidos.\n\n3 - As indicações referentes às datas de constituição e de publicação são substituídas, no caso dos empresários em nome individual, pela indicação do número do bilhete de identidade e da data do nascimento, e, no caso de sociedades irregulares, pela indicação do nome e número do bilhete de identidade dos sócios.\n\n4 - Em favor de cada titular de registo pode ser emitido um cartão de identificação com a indicação do número de identificação, da designação, da sede, da natureza jurídica, da actividade principal e das datas de constituição e de publicação no Diário da República.\n\n5 - O modelo de cartão de identificação, que constitui exclusivo do Gabinete do Registo Nacional, deve ser diferente para as pessoas colectivas e para as entidades equiparadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 8.º — Conteúdo do registo individual de pessoas colectivas e entidades equiparadas\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
   },
   "3ba5c4107ff9b504": {
    "fragment_id": null,
@@ -572,7 +603,7 @@
    "changed_by": [],
    "markdown": "###### Artigo 9.º — Número nacional de cidadão\n\n1. O código de identificação pessoal, designado por número nacional, será constituído, para os cidadãos, pelos seguintes elementos:\n\na) Data de nascimento, em forma corrente ou codificada;\n\nb) Número sequencial de ordem de introdução no registo nacional;\n\nc) Dígito ou dígitos de contrôle.\n\n2. O primeiro dígito do número sequencial poderá indicar a área de naturalidade ou a nacionalidade, e o último o sexo."
   },
-  "7597efbe3fe55d4d": {
+  "d35c87303dba6a73": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º — Número nacional de pessoa colectiva ou entidade equiparada",
@@ -580,7 +611,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
    ],
-   "markdown": "###### Artigo 10.º — Número nacional de pessoa colectiva ou entidade equiparada\n\n1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.\n\n2 - Podem ser usadas sequências numéricas diferentes correspondentes à área de localização geográfica da sede do titular do registo.\n\n3 - O significado dos dígitos correspondentes a pessoas colectivas e a entidades equiparadas, bem como as sequências correspondentes a áreas geográficas distintas, devem ser objecto de divulgação em portaria do Ministro da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 10.º — Número nacional de pessoa colectiva ou entidade equiparada\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
   },
   "677ad77869931e9e": {
    "fragment_id": null,
@@ -622,13 +653,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º — Responsabilidade do Centro de Informática do Ministério da Justiça\n\n1. A organização material e manutenção dos ficheiros que integram o registo nacional de identificação e bem assim a sua exploração constituem responsabilidade do Centro de Informática do Ministério da Justiça.\n\n2. A análise e a programação necessárias ao funcionamento do sistema de tratamento da informação serão efectuadas pelos serviços do Centro de Informática, sob especificações fornecidas pelo Gabinete do Registo Nacional."
   },
-  "f6a3c7121d8faa8a": {
+  "6a7c1b5d7af9745a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — Exclusividade da atribuição e da designação do número nacional",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 15.º — Exclusividade da atribuição e da designação do número nacional\n\n1. O número nacional será atribuído exclusivamente pelo Centro de Informática do Ministério da Justiça.\n\n2. Fica vedado o uso de designações que possam estabelecer qualquer confusão sobre a sua natureza sectorial, tais como número individual de identificação, de cidadão, de estabelecimento, de empresa, ou similar."
+   "markdown": "###### Artigo 15.º — Exclusividade da atribuição e da designação do número nacional\n\n(Revogado.)"
   },
   "51a883199299a837": {
    "fragment_id": null,
@@ -662,7 +693,7 @@
    "changed_by": [],
    "markdown": "###### Artigo 18.º — Comunicação de residências e admissões de pessoal\n\n1. Os cidadãos portugueses e os cidadãos estrangeiros residentes em Portugal a quem tenha sido atribuído número nacional ficam obrigados a comunicar, ao Registo Nacional, no prazo de trinta dias, as mudanças de residência.\n\n2. Todos os organismos e entidades patronais serão obrigados, a partir da data que for determinada em portaria do Ministro da Justiça, a comunicar ao Registo Nacional, no prazo de quinze dias, as admissões e despedimentos de pessoal.\n\n3. As comunicações referidas nos números anteriores serão efectuadas em impressos próprios, devidamente preenchidos."
   },
-  "537a1242877a0fa9": {
+  "770c1b1577e09fa0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º — Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades",
@@ -670,9 +701,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
    ],
-   "markdown": "###### Artigo 19.º — Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades\n\n1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.\n\n2 - A mesma obrigação incumbe aos empresários em nome individual, no prazo de trinta dias, a contar do início da sua actividade.\n\n3 - As sociedades comerciais já constituídas bem como os empresários em nome individual em actividade são obrigados à posse de cartão de identificação válido a partir de 1 de Janeiro de 1980.\n\n4 - Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de empresários em nome individual, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 19.º — Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
   },
-  "6ee5ee2f0913ff2e": {
+  "3baafc2786e0174d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo",
@@ -680,7 +711,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
    ],
-   "markdown": "###### Artigo 20.º — Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo\n\n1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.\n\n2 - A mesma obrigação incumbe aos serviços públicos por onde corre o expediente relativo à aprovação dos estatutos das fundações ou a quem incumbe receber a participação escrita da constituição de pessoas colectivas religiosas.\n\n3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio, exclusivo do Gabinete do Registo Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
+   "markdown": "###### Artigo 20.º — Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09."
   },
   "a65da83e6fb8b14b": {
    "fragment_id": null,
@@ -722,13 +753,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 24.º — Acesso a registos individuais de cidadãos\n\nTêm acesso ao conteúdo de registos individuais de cidadãos:\n\na) O próprio titular do registo;\n\nb) Os ascendentes, os descendentes, o cônjuge ou ex-cônjuge e o tutor ou curador do titular do registo, desde que mostrem legítimo interesse;\n\nc) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titular do registo ou, estando este ausente ou tendo falecido, as pessoas referidas na alínea anterior ou os presumíveis herdeiros."
   },
-  "e4f5d2967e0fbe3a": {
+  "6c45802c120bd6bc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º — Acesso a registos individuais de pessoas colectivas e de entidades equiparadas",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 25.º — Acesso a registos individuais de pessoas colectivas e de entidades equiparadas\n\nTêm acesso ao conteúdo de registos individuais de pessoas colectivas e de entidades equiparadas:\n\na) Os respectivos corpos gerentes ou os responsáveis pela sua direcção ou gestão;\n\nb) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titular do registo."
+   "markdown": "###### Artigo 25.º — Acesso a registos individuais de pessoas colectivas e de entidades equiparadas\n\n(Revogado.)"
   },
   "79e665e338adef60": {
    "fragment_id": null,
@@ -868,13 +899,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 39.º — Sigilo profissional\n\n1. Todos os funcionários ou quaisquer pessoas ao serviço do Gabinete do Registo Nacional, do Centro de Informática do Ministério da Justiça e dos serviços de identificação estão obrigados a guardar segredo de todos os elementos de identificação não públicos de que tiverem conhecimento por força do exercício das suas funções.\n\n2. As pessoas referidas no número anterior que estejam directamente em contacto com os ficheiros individuais ou a eles possam ter acesso ficam obrigadas à prestação de juramento perante o director do Gabinete do Registo Nacional.\n\n3. O disposto nos números precedentes é aplicável a consultores ou funcionários de empresas fornecedoras de equipamento ou de serviços."
   },
-  "b2d7632021159459": {
+  "afea95c602395000": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º — Regime de prestação de informações",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 40.º — Regime de prestação de informações\n\nA prestação de informações de identificação civil por parte dos organismos referidos no artigo precedente, seja para que efeito for, fica sujeita ao disposto nos artigos 21.º a 30.º do presente diploma."
+   "in_force_from": "2001-03-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), publicado em 1976-01-24, com efeitos a partir de 1976-02-23."
+   ],
+   "markdown": "###### Artigo 40.º — Regime de prestação de informações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), publicado em 1976-01-24, com efeitos a partir de 1976-02-23."
   },
   "0566b8b6374d3ceb": {
    "fragment_id": null,
@@ -992,13 +1025,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 50.º — Enumeração de serviços\n\n1. O Gabinete do Registo Nacional possui serviços centrais e serviços externos.\n\n2. São serviços centrais:\n\na) A Direcção dos Serviços de Coordenação e Planeamento, com três divisões:\n\nDivisão de Programação e Organização;\n\nDivisão de Coordenação e Contrôle;"
   },
-  "b725195c688ef278": {
+  "7f8662a7ec8e305b": {
    "fragment_id": null,
    "type": null,
    "heading": "Divisão de Contrôle Técnico;",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "##### Divisão de Contrôle Técnico;\n\nc) Os Serviços de Gestão e Formação de Pessoal;\n\nd) Os Serviços de Relações Públicas;\n\ne) A Repartição Administrativa.\n\n3. São serviços externos:\n\na) Os Serviços de Identificação;\n\nb) As delegações e subdelegações.\n\n4. A organização, competência e funcionamento dos serviços serão definidos em diploma regulamentar."
+   "markdown": "##### Divisão de Contrôle Técnico;\n\nc) Os Serviços de Gestão e Formação de Pessoal;\n\nd) Os Serviços de Relações Públicas;\n\ne) A Repartição Administrativa.\n\n3. São serviços externos:\n\na) (Revogada.)\n\nb) As delegações e subdelegações.\n\n4. A organização, competência e funcionamento dos serviços serão definidos em diploma regulamentar."
   },
   "b010f45dc1507774": {
    "fragment_id": null,
@@ -1104,13 +1137,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 62.º — Promoções\n\nAs promoções são feitas, por escolha, entre titulares da categoria anterior, de harmonia com o mérito e a dedicação ao serviço revelados, e não dependem do tempo de serviço prestado."
   },
-  "af2bcf4abd1c4cac": {
+  "3dc39eb345142cd4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 63.º — Pessoal de direcção e chefia ou com funções especializadas",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 63.º — Pessoal de direcção e chefia ou com funções especializadas\n\nPor despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas."
+   "in_force_from": "2001-03-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01."
+   ],
+   "markdown": "###### Artigo 63.º — Pessoal de direcção e chefia ou com funções especializadas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01."
   },
   "5a95e87a6de8e108": {
    "fragment_id": null,
@@ -1314,13 +1349,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 83.º — Aluguer de equipamento mecanográfico\n\n1. É autorizado o Centro de Informática do Ministério da Justiça a celebrar contratos adicionais para aluguer de equipamento mecanográfico, destinado à implantação do Registo Nacional, até à importância máxima anual de 46950000$00.\n\n2. No ano em curso e no ano de 1974, o aluguer referido no número anterior não poderá exceder as importâncias, respectivamente, de 445000$00 e de 19470000$00."
   },
-  "fe33abcd6dc941b1": {
+  "57acc75554edd6bc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 84.º — Serviços de identificação",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 84.º — Serviços de identificação\n\n1. A Direcção dos Serviços de Identificação passa a depender do Gabinete do Registo Nacional.\n\n2. O número nacional de identificação será aposto nos bilhetes de identidade em substituição do actual número sequencial a partir da data que for determinada em portaria do Ministro da Justiça."
+   "markdown": "###### Artigo 84.º — Serviços de identificação\n\n1. (Revogado.)\n\n2. O número nacional de identificação será aposto nos bilhetes de identidade em substituição do actual número sequencial a partir da data que for determinada em portaria do Ministro da Justiça."
   },
   "7d039834c53a5739": {
    "fragment_id": null,

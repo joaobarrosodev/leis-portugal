@@ -20,7 +20,7 @@
    ]
   },
   {
-   "date": "1986-05-26",
+   "date": "1986-09-13",
    "future": false,
    "acts": [
     {
@@ -40,6 +40,12 @@
      "title": "Portaria n.º 231/86",
      "published": "1986-05-21",
      "dre_path": "/dr/detalhe/portaria/231-1986-227047"
+    },
+    {
+     "id": "pt:dre:220131:por",
+     "title": "Portaria n.º 502/86",
+     "published": "1986-09-08",
+     "dre_path": "/dr/detalhe/portaria/502-1986-220131"
     }
    ],
    "changes": [
@@ -91,7 +97,14 @@
     "Revoga Artigo 46",
     "Revoga Artigo 47",
     "Revoga Artigo 48",
-    "Revoga Artigo 49"
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52",
+    "Revoga Artigo 53",
+    "Revoga Artigo 54",
+    "Revoga Artigo 55",
+    "Revoga Artigo 56"
    ],
    "fragments": [
     "cbc98e34e5aa8991",
@@ -149,13 +162,13 @@
     "0d74c42b76155364",
     "4016970a3c170cf5",
     "a3576812e79329c9",
-    "3d38edd60cfb9345",
-    "5ee051656bd3e94a",
-    "4d5763f001f595ae",
-    "3906e7cadf84fd57",
-    "5d2cb0a73b242b92",
-    "8a562e584a7f26c8",
-    "f6b0cb5b70d1e74b"
+    "d7d26553497ff8f0",
+    "75ea3c72fe55d102",
+    "f7b75d0c43ea145e",
+    "85e2c25c66fde3c5",
+    "10610e92b2cd10c5",
+    "ea507fc97dbe8994",
+    "e4c088ff43077912"
    ]
   }
  ],
@@ -292,7 +305,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Revogado pelo/a [Portaria n.º 599/84](https://diariodarepublica.pt/dr/detalhe/portaria/599-1984-382418), publicado em 1984-08-11, com efeitos a partir de 1984-08-12."
    ],
@@ -302,7 +315,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -320,7 +333,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -338,7 +351,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -356,7 +369,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -366,7 +379,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -472,7 +485,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 29.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Revogado pelo/a [Portaria n.º 231/86](https://diariodarepublica.pt/dr/detalhe/portaria/231-1986-227047), publicado em 1986-05-21, com efeitos a partir de 1986-05-26."
    ],
@@ -482,7 +495,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 30.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -620,7 +633,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
@@ -658,63 +671,65 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO V — Normas finais e transitórias"
   },
-  "3d38edd60cfb9345": {
+  "d7d26553497ff8f0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 50.º\n\nOs júris para concursos de provimento de lugares para assistente ou chefe de serviços hospitalares de psiquiatria em estabelecimentos e serviços oficiais sob tutela do Instituto de Assistência Psiquiátrica serão homologados pelo respectivo delegado de zona, que assumirá simultaneamente todas as atribuições e competências que neste diploma são conferidas em idênticas circunstâncias às comissões inter-hospitalares."
+   "in_force_from": "1986-09-13",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 502/86](https://diariodarepublica.pt/dr/detalhe/portaria/502-1986-220131), publicado em 1986-09-08, com efeitos a partir de 1986-09-13."
+   ],
+   "markdown": "###### Artigo 50.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 502/86](https://diariodarepublica.pt/dr/detalhe/portaria/502-1986-220131), publicado em 1986-09-08, com efeitos a partir de 1986-09-13."
   },
-  "5ee051656bd3e94a": {
+  "75ea3c72fe55d102": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 51.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 51.º\n\nDos actos classificativos dos júris previstos neste diploma não cabe recurso hierárquico."
+   "markdown": "###### Artigo 51.º\n\n(Revogado.)"
   },
-  "4d5763f001f595ae": {
+  "f7b75d0c43ea145e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 52.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 52.º\n\nConsideram-se como estabelecimentos ou hospitais centrais e como tal sujeitos aos concursos nos moldes previstos neste diploma as seguintes instituições dependentes do Instituto de Assistência Psiquiátrica: Hospital de Miguel Bombarda, Hospital de Júlio de Matos, Centro de Saúde Mental Infantil de Lisboa, Hospital de Sobral Cid, Centro de Saúde Infantil de Coimbra, Centro de Saúde Mental Ocidental do Porto, Hospital do Conde de Ferreira, Centro de Saúde Mental Infantil e Juvenil do Porto e Centro de Saúde Mental de Vila Nova de Gaia."
+   "markdown": "###### Artigo 52.º\n\n(Revogado.)"
   },
-  "3906e7cadf84fd57": {
+  "85e2c25c66fde3c5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 53.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 53.º\n\nAs competências atribuídas neste diploma às comissões inter-hospitalares pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais."
+   "markdown": "###### Artigo 53.º\n\n(Revogado.)"
   },
-  "5d2cb0a73b242b92": {
+  "10610e92b2cd10c5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 54.º",
-   "in_force_from": "1986-05-26",
+   "in_force_from": "1986-09-13",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
    ],
-   "markdown": "###### Artigo 54.º\n\n1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a partir da data de abertura dos primeiros concursos assistentes hospitalares a realizar ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.\n\n2 - Os concursos que decorrem à data da publicação do presente diploma deverão concluir-se dentro do prazo indicado no número anterior, já que a ele ficam também sujeitos os candidatos desses mesmos concursos.\n\n> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
+   "markdown": "###### Artigo 54.º\n\n(Revogado.)\n\n> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25."
   },
-  "8a562e584a7f26c8": {
+  "ea507fc97dbe8994": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 55.º\n\nAs dúvidas sobre a matéria deste Regulamento serão resolvidas por despacho do Ministro dos Assuntos Sociais."
+   "markdown": "###### Artigo 55.º\n\n(Revogado.)"
   },
-  "f6b0cb5b70d1e74b": {
+  "e4c088ff43077912": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 56.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério dos Assuntos Sociais, 10 de Novembro de 1982. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.\n\nMODELO ANEXO AO ARTIGO 42.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27100/39123918.pdf)"
+   "markdown": "###### Artigo 56.º\n\n(Revogado.)\n\nMinistério dos Assuntos Sociais, 10 de Novembro de 1982. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.\n\nMODELO ANEXO AO ARTIGO 42.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27100/39123918.pdf)"
   }
  }
 }

@@ -43,7 +43,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1999-07-11'
+  consolidation_date: '2002-06-22'
 version_history:
   file: portaria-955-90.versoes.json
   count: 2
@@ -53,13 +53,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1999-07-11'
+  - date: '2002-06-22'
     amending: pt:dre:374181:por
-    amending_title: Portaria n.º 485/99
+    amending_title: Portaria n.º 485/99; Portaria n.º 658/2002
     changes:
     - Altera Artigo unidades 7-9
     - Altera Artigo unidades 11-11
     - Altera Artigo unidades 12-12
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:34:40Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 485/99. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-955-90.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-955-90.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 658/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,21 +157,21 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º É criada a Zona de Caça Social da Serra da Nogueira (processo n.º 381 da Direcção-Geral das Florestas), situada nas freguesias de Carrazedo, Gostei, Mós, Nogueira, Rebordãos, Rebordainhos, Santa Comba de Rossas, Sortes e Zoio, concelho de Bragança, Celas, concelho de Vinhais, e Soutelo de Mourisco, concelho de Macedo de Cavaleiros, com uma área total de 14035 ha, cujos limites constam da planta anexa, de que faz parte integrante.
+1.º - (Revogado.)
 
-2.º - 1 - A administração da zona de caça social da serra da Nogueira, criada por tempo indeterminado pela [Portaria n.º 955/90](https://diariodarepublica.pt/dr/detalhe/portaria/955-1990-555642), de 9 de Outubro, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social da serra da Nogueira, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.
+> Revogado pelo/a [Portaria n.º 658/2002](https://diariodarepublica.pt/dr/detalhe/portaria/658-2002-146248), publicado em 2002-06-17, com efeitos a partir de 2002-06-22.
 
-2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, três representantes das juntas de freguesia que abrangem os terrenos integrados na zona de caça e ainda um representante da Associação de Amigos da Serra da Nogueira.
+2.º - (Revogado.)
 
-3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.
+3.º - (Revogado.)
 
-4.º O acesso dos caçadores a esta zona de caça bem como as demais regras de funcionamento da mesma obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.
+4.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 485/99](https://diariodarepublica.pt/dr/detalhe/portaria/485-1999-374181), publicado em 1999-07-06.
 
-5.º A linha perimetral desta zona de caça é obrigatoriamente sinalizada com tabuletas do modelo n.º 2 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, sendo aplicável em conjunto o disposto neste diploma legal e na [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+5.º - (Revogado.)
 
-6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Amigos da Serra da Nogueira, a requerer a nomeação de guardas florestais auxiliares, se necessário, para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.
+6.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 485/99](https://diariodarepublica.pt/dr/detalhe/portaria/485-1999-374181), publicado em 1999-07-06.
 

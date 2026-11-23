@@ -44,11 +44,12 @@ version_history:
     changes: []
   - date: '1977-09-29'
     amending: pt:dre:278703:por
-    amending_title: Decreto-Lei n.º 412/77; Rectificação
+    amending_title: Decreto-Lei n.º 412/77; Rectificação; Lei n.º 76/77
     changes:
     - Altera Artigo 5.º
     - Retifica texto
     - Retifica Artigo 3
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -76,7 +77,8 @@ provenance:
   generated_at: '2026-10-22T22:34:53Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/77. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-547-74.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação. Revogações registadas só como repealed_by,
+    aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Lei n.º 76/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,15 +175,9 @@ Os casos de arrendamento rural em que as terras foram dadas de arrendamento no e
 
 ###### Artigo 3.º
 
-1. Cabe às comissões arbitrais decidir sobre a existência dos factos referidos no artigo 1.º e das benfeitorias e fixar o valor destas.
+(Revogado.)
 
-2. As comissões arbitrais são constituídas pelo juiz da comarca, que preside e tem voto de desempate, por um técnico designado pela Secretaria de Estado da Agricultura, por um representante dos proprietários e outro dos colonos-rendeiros, ambos designados pelas respectivas associações, se existirem, ou eleitos em assembleias expressamente convocadas para esse fim pelo Instituto de Reorganização Agrária.
-
-3. Das decisões das comissões arbitrais cabe recurso, com efeito meramente devolutivo, para o tribunal da relação competente, que julga em definitivo.
-
-4. As decisões das comissões arbitrais serão tomadas como base nos meios de prova que as mesmas admitirem como válidos.
-
-5. Os rendeiros estão isentos de quaisquer encargos, quando recorrerem às comissões arbitrais para os efeitos prescritos neste diploma, e não são por eles devidas custas nos recursos interpostos para o tribunal da relação.
+> Revogado pelo/a [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), publicado em 1977-09-29.
 
 ###### Artigo 4.º
 

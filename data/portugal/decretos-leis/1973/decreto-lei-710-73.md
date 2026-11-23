@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1976-01-26'
     amending: pt:dre:506831:por
-    amending_title: Decreto-Lei n.º 69/76
+    amending_title: Decreto-Lei n.º 69/76; Decreto-Lei n.º 498-E/74
     changes:
     - Revoga Artigo 6.º
+    - Revoga Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:29:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 69/76. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-710-73.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-710-73.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 498-E/74.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,11 +174,11 @@ b) Oficiais do Exército com o curso geral de estado-maior, oficiais engenheiros
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)
 
-O somatório dos quantitativos mensais dos aumentos de pré e dos prés das praças readmitidas será arredondado para a centena de escudos superior.
-
 6. As remunerações constantes dos n.os 1 e 2 do artigo 2.º e do artigo 4.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302) são substituídas, respectivamente, pelas de 4600$00,
 
 3400$00 e 3400$00.
+
+> Revogado pelo/a [Decreto-Lei n.º 498-E/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-e-1974-672145), publicado em 1974-09-30.
 
 ###### Artigo 2.º
 

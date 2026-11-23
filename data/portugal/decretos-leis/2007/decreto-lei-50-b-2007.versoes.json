@@ -89,6 +89,12 @@
      "title": "Decreto-Lei n.º 12/2015",
      "published": "2015-01-26",
      "dre_path": "/dr/detalhe/decreto-lei/12-2015-66325236"
+    },
+    {
+     "id": "pt:dre:248178:por",
+     "title": "Decreto-Lei n.º 18/2008",
+     "published": "2008-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2008-248178"
     }
    ],
    "changes": [
@@ -108,7 +114,8 @@
     "Revoga Artigo 18",
     "Revoga Artigo 19",
     "Revoga Artigo 20",
-    "Revoga Artigo 21"
+    "Revoga Artigo 21",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "0ccbbe55f31365db",
@@ -125,7 +132,7 @@
     "c5a275eecf88964c",
     "1c0f73e23be04f29",
     "b2a4761ddf441396",
-    "72706c46ca27b151",
+    "d3812e2ae0eb30f7",
     "454573c4d8b3a9c6",
     "fbf06aa89b08d9d6",
     "6300555ed8c6859e",
@@ -721,6 +728,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 10.º — Financiamento\n\n(Revogado.)"
+  },
+  "d3812e2ae0eb30f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Aquisição de bens e serviços",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29, com efeitos a partir de 2008-07-29."
+   ],
+   "markdown": "###### Artigo 11.º — Aquisição de bens e serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29, com efeitos a partir de 2008-07-29."
   },
   "fbf06aa89b08d9d6": {
    "fragment_id": null,

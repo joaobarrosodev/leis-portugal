@@ -63,6 +63,12 @@
      "title": "Decreto-Lei n.º 148/99",
      "published": "1999-05-04",
      "dre_path": "/dr/detalhe/decreto-lei/148-1999-334370"
+    },
+    {
+     "id": "pt:dre:330845:por",
+     "title": "Decreto-Lei n.º 150/99",
+     "published": "1999-05-07",
+     "dre_path": "/dr/detalhe/decreto-lei/150-1999-330845"
     }
    ],
    "changes": [
@@ -91,7 +97,10 @@
     "Revoga Artigo 17",
     "Revoga Artigo 20",
     "Revoga Artigo 21",
-    "Revoga anexo ou texto fora do articulado"
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 19"
    ],
    "fragments": [
     "c215713b529c27cc",
@@ -99,8 +108,8 @@
     "ed98f911238ac48b",
     "10500ac0c5a15c53",
     "50a6838458c4dff8",
-    "383c61de25c564a6",
-    "7d01e0245d2913c7",
+    "b769adfed2ab1fea",
+    "80ab896964d3bef8",
     "0cb403f2ccfb7406",
     "297eb4435321e87c",
     "8a48d98f18e2abb8",
@@ -119,7 +128,7 @@
     "87c90f1c9b41850e",
     "12305f31d4d36df4",
     "e4024fa04e97559f",
-    "da6669ea87151006",
+    "452330afa9b18103",
     "ac0912a0dd48d300",
     "1daf8d78a04d6fd2",
     "ecd5ca6ff6c64421"
@@ -387,15 +396,24 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante."
   },
-  "383c61de25c564a6": {
+  "b769adfed2ab1fea": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Proibições",
    "in_force_from": "1999-06-29",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+    "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.",
+    "Revogado pelo/a [Decreto-Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1999-330845), publicado em 1999-05-07, com efeitos a partir de 1999-05-08."
    ],
-   "markdown": "###### Artigo 3.º — Proibições\n\nSem prejuízo do que se ncontra estabelecido no Decreto-Lei n.º 440/89, de 27 de Dezembro, que aprovou o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, não é permitido:\n\na) Colocar no mercado, deter ou administrar a animais de qualquer espécie e por qualquer meio estilbenos, seus derivados e seus sais e ésteres, bem como substâncias de acção tireostática;\n\nb) Sem prejuízo do disposto na alínea anterior, colocar no mercado, deter ou administrar anabolizantes a animais de exploração, excepto quando entrem na composição de medicamentos, antecipadamente preparados e apresentados de acordo com a denominação e as condições de acondicionamento autorizados nos termos da legislação em vigor.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 3.º — Proibições\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.\n\n> Revogado pelo/a [Decreto-Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1999-330845), publicado em 1999-05-07, com efeitos a partir de 1999-05-08."
+  },
+  "80ab896964d3bef8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de utilização\n\n(Revogado.)"
   },
   "0cb403f2ccfb7406": {
    "fragment_id": null,
@@ -524,6 +542,14 @@
     "Revogado pelo/a [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24."
    ],
    "markdown": "###### Artigo 18.º — Autorização de introdução no mercado de produtos de uso veterinário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24."
+  },
+  "452330afa9b18103": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Farmacovigilância e toxicologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Farmacovigilância e toxicologia\n\n(Revogado.)"
   },
   "ac0912a0dd48d300": {
    "fragment_id": null,

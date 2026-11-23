@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1975-09-04'
+  consolidation_date: '1977-09-03'
 version_history:
   file: decreto-lei-82-72.versoes.json
   count: 2
@@ -41,12 +41,27 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1975-09-04'
+  - date: '1977-09-03'
     amending: pt:dre:475726:por
-    amending_title: Decreto-Lei n.º 389/74; Decreto-Lei n.º 481/75
+    amending_title: Decreto-Lei n.º 389/74; Decreto-Lei n.º 481/75; Decreto-Lei n.º 364/77
     changes:
     - Altera Artigo 13.º
     - Revoga Artigo 17
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 18
 identifiers:
   celex: null
   eli: null
@@ -152,19 +167,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 1.º
 
-1. O pessoal da Polícia Judiciária constitui um quadro único, com a composição constante do mapa anexo ao presente diploma.
+(Revogado.)
 
-2. O pessoal técnico é integrado em carreiras, organizadas nos termos do mapa referido no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), publicado em 1977-09-02, com efeitos a partir de 1977-09-03.
 
 ###### Artigo 2.º
 
-Para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações mínimas:
-
-a) Inspectores de 3.ª classe e chefes de secretaria - licenciatura em Direito;
-
-b) Técnicos de laboratório de 3.ª classe - curso superior adequado;
-
-c) Agentes de 3.ª classe e técnicos auxiliares de 3.ª classe de lofoscopia e de laboratório - curso geral dos liceus ou habilitação equiparada.
+(Revogado.)
 
 ###### Artigo 3.º
 
@@ -180,75 +189,59 @@ c) Agentes de 3.ª classe e técnicos auxiliares de 3.ª classe de lofoscopia e 
 
 ###### Artigo 5.º
 
-1. A nomeação para os cargos de agente de 3.ª classe recairá em indivíduos com idade não superior a 30 anos, que revelem as necessárias aptidões em inspecção médica, testes adequados e mediante outros elementos de informação.
-
-2. O provimento terá carácter provisório durante um ano e, enquanto não se converter em definitivo, os agentes de 3.ª classe são considerados agentes estagiários.
+(Revogado.)
 
 ###### Artigo 6.º
 
-1. Os agentes estagiários são providos definitivamente como agentes de 3.ª classe, decorrido o prazo a que se refere o n.º 2 do artigo anterior, se tiverem aproveitamento em curso de preparação adequado e revelarem aptidão para o exercício das funções, ou exonerados, logo que, na frequência do curso ou na execução do serviço, mostrem não possuir a necessária capacidade.
-
-2. O provimento definitivo será efectuado pela ordem da classificação obtida no curso, conjugada com as informações do estágio.
+(Revogado.)
 
 ###### Artigo 7.º
 
 São condições especiais de promoção:
 
-a) A agente de 1.ª classe - classificação de serviço de Bom na categoria anterior e aproveitamento em trás cursos de aperfeiçoamento;
+a) (Revogada.)
 
 b) A subinspector de 2.ª classe - classificação de serviço de Muito bom na categoria anterior e aproveitamento, com igual classificação, em curso de formação especial;
 
-c) A subinspector de 1.ª classe - classificação de serviço de Muito bom na categoria anterior.
+c) (Revogada.)
 
 ###### Artigo 8.º
 
-Na falta de agentes de 1.ª classe com as condições de acesso, podem ser promovidos a subinspector de 2.ª classe os agentes de 2.ª classe com seis anos de serviço efectivo na categoria, que satisfaçam aos demais requisitos estabelecidos na alínea b) do artigo anterior.
+(Revogado.)
 
 ###### Artigo 9.º
 
-Os artigos 5.º a 8.º são aplicáveis, com as necessárias adaptações, às carreiras do pessoal técnico auxiliar de lofoscopia e de laboratório.
+(Revogado.)
 
 ###### Artigo 10.º
 
-O ingresso e a promoção no quadro único podem ainda depender, mediante despacho do Ministro da Justiça, da frequência de cursos ou estágios, no País ou no estrangeiro.
+(Revogado.)
 
 ###### Artigo 11.º
 
-Sem prejuízo do disposto no n.º 1 do artigo 5.º, o provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato.
+(Revogado.)
 
 ###### Artigo 12.º
 
-1. Aos funcionários das carreiras do pessoal técnico auxiliar de investigação criminal e de lofoscopia é aplicável o disposto no n.º 4 do artigo 60.º e no artigo 61.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
-
-2. O limite de idade de aposentação dos subinspectores poderá ser elevado para os 65 anos, por despacho do Ministro da Justiça, a requerimento dos interessados e mediante parecer do conselho de polícia.
+(Revogado.)
 
 ###### Artigo 13.º
 
-O director, os subdirectores e os inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 389/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1974-475726), publicado em 1974-08-26.
 
 ###### Artigo 14.º
 
-Serão regulados por despacho do Ministro da Justiça:
-
-a) Os sistemas de notação dos funcionários, as condições relativas à distribuição do pessoal e os regimes de substituição, na falta ou impedimento dos titulares;
-
-b) A composição e atribuições do conselho de polícia, das secções e das brigadas e a discriminação do número e categoria dos lugares afectos a cada serviço;
-
-c) Os requisitos a que deve obedecer a designação de inspectores e de subinspectores para o exercício das funções de adjunto do director ou subdirector e de chefe de brigada, respectivamente;
-
-d) O esclarecimento das dúvidas que se suscitem na execução do presente diploma.
+(Revogado.)
 
 ###### Artigo 15.º
 
-1. Serão extintos, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previsto no mapa anexo.
-
-2. Os concursos para chefe de brigada já realizados na data da publicação do presente diploma mantêm a sua validade e substituem, para todos os efeitos, o aproveitamento, com classificação de Muito bom, no curso a que se refere a alínea b) do artigo 7.º
+(Revogado.)
 
 ###### Artigo 16.º
 
-A colocação dos actuais funcionários nos lugares correspondentes do mapa anexo far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Justiça, considerando-se definitivamente providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
+(Revogado.)
 
 ###### Artigo 17.º
 
@@ -258,9 +251,7 @@ A colocação dos actuais funcionários nos lugares correspondentes do mapa anex
 
 ###### Artigo 18.º
 
-1. Os encargos a que der lugar a execução do presente diploma, na parte consignada a vencimentos e salários com o pessoal da Polícia Judiciária, que excedam a respectiva dotação do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
-
-2. Enquanto não for corrigido o Orçamento Geral do Estado, os encargos serão satisfeitos pelas disponibilidades da dotação de vencimentos dos quadros da Polícia Judiciária e do Laboratório de Polícia Científica.
+(Revogado.)
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 

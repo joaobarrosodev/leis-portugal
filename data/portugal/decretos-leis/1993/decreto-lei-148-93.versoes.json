@@ -35,19 +35,26 @@
      "title": "Lei n.º 33/99",
      "published": "1999-05-18",
      "dre_path": "/dr/detalhe/lei/33-1999-322974"
+    },
+    {
+     "id": "pt:dre:305592:por",
+     "title": "Decreto-Lei n.º 173/94",
+     "published": "1994-06-25",
+     "dre_path": "/dr/detalhe/decreto-lei/173-1994-305592"
     }
    ],
    "changes": [
     "Altera Artigo 5.º",
     "Revoga Artigo 2.º",
     "Revoga Artigo 4",
-    "Revoga Artigo 5"
+    "Revoga Artigo 5",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "a75cfb0a4f40880c",
     "d35f481963d632f8",
     "bfc1cada57b1ae50",
-    "dd53acfab7f3dab5",
+    "8f864d7491fd2262",
     "28f67fcca33e2983",
     "b46aba0d8f3dcea1",
     "b893dad55894bdbf",
@@ -98,13 +105,15 @@
    ],
    "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), publicado em 2001-03-17."
   },
-  "dd53acfab7f3dab5": {
+  "8f864d7491fd2262": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1 - É criada na Direcção-Geral dos Serviços Judiciários a Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência.\n\n2 - Compete à Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência:\n\na) Recolher, tratar e conservar, nos termos da lei, extractos das decisões criminais proferidas por tribunais portugueses contra os indivíduos neles acusados ou por tibunais estrangeiros contra cidadãos portugueses;\n\nb) Recolher, classificar e arquivar, nos termos da lei, as impressões digitais dos arguidos condenados nos tribunais portugueses;\n\nc) Registar, nos termos da lei, as decisões dos tribunais de menores ou de família e menores que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em estabelecimentos de educação;\n\nd) Registar, nos termos da lei, as decisões dos tribunais que, de acordo com as normas de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar;\n\ne) Assegurar, nos termos da lei, a emissão de certificados e a prestação de informações em matéria de identificação criminal e de contumazes;\n\nf) Assegurar a identificação dos objectores de consciência e a emissão dos documentos que lhe forem solicitados pelas entidades competentes, nos termos da lei.\n\n3 - A Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência compreende:\n\na) A Divisão de Identificação Criminal, a quem cabe exercer as competências previstas nas alíneas a), b) e c) e, na parte referente à identificação criminal, na alínea e) do número anterior;\n\nb) A Divisão de Contumazes e Objectores de Consciência, a quem cabe exercer as competências previstas nas alíneas d) e e), na parte referente à identificação de contumazes, e na alínea f) do número anterior.\n\n4 - O funcionamento da Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência é apoiado pelos serviços administrativos da Direcção-Geral dos Serviços Judiciários no que respeita à gestão do pessoal, à administração financeira e patrimonial e às actividades inerentes ao expediente, arquivo e impressos."
+   "in_force_from": "2001-03-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 173/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1994-305592), publicado em 1994-06-25, com efeitos a partir de 1994-06-30."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 173/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1994-305592), publicado em 1994-06-25, com efeitos a partir de 1994-06-30."
   },
   "28f67fcca33e2983": {
    "fragment_id": null,

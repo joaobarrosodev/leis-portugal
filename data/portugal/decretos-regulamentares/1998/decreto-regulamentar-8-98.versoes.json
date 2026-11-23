@@ -44,12 +44,20 @@
      "title": "Decreto-Lei n.º 78/2015",
      "published": "2015-05-13",
      "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    },
+    {
+     "id": "pt:dre:240064:por",
+     "title": "Resolução do Conselho de Ministros n.º 120/2005",
+     "published": "2005-07-28",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/120-2005-240064"
     }
    ],
    "changes": [
     "Revoga Artigo 5.º",
     "Revoga Artigo 8.º",
-    "Revoga Artigo 9.º"
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "19938dddf568a7ba",
@@ -62,8 +70,8 @@
     "8a58f0c4be89cf16",
     "5271c5328fbb98c2",
     "fc5ff89e316b7286",
-    "227b26e595de2f06",
-    "6eca593e1fa8184a",
+    "c133c2393cced35b",
+    "9113ba51fd100c64",
     "128eca45ed6c45cd",
     "ae629f6b5011f8a9",
     "f04690c2784a2517",
@@ -283,6 +291,24 @@
     "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
    ],
    "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "c133c2393cced35b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Interdições",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Resolução do Conselho de Ministros n.º 120/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2005-240064), publicado em 2005-07-28."
+   ],
+   "markdown": "###### Artigo 10.º — Interdições\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução do Conselho de Ministros n.º 120/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2005-240064), publicado em 2005-07-28."
+  },
+  "9113ba51fd100c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos e actividades sujeitos a autorização\n\n(Revogado.)"
   }
  }
 }
