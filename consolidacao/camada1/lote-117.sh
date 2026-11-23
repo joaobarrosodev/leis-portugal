@@ -3,6 +3,7 @@
 set -e
 cd "/Users/barroso/Documents/Seamless Doubt/leis-portugal"
 while [ -f .git/index.lock ]; do echo "à espera do index.lock"; sleep 5; done
+GIT_EDITOR=true git pull --no-rebase -q origin main
 git status --porcelain -- data | sort > "$TMPDIR/antes-117.txt"
 PYTHONPATH=src .venv/bin/python consolidacao/acervo.py 2>&1 | grep -E "^Aplicados"
 git status --porcelain -- data | sort > "$TMPDIR/depois-117.txt"
