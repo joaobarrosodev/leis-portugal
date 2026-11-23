@@ -1,0 +1,13 @@
+[
+ {
+  "id": "pt:dre:172897:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 17.º, § 3.º: falta aplicar a Declaração de retificação de 12-07-1961 (Diário do Governo n.º 165/1961, Série I, de 18-07-1961; pt:dre:172537:por, no acervo em data/portugal/declaracoes/1961/declaracao-1961-07-18-172537.md). Não está nas relationships como corrected_by (a declaração só 'cita' o diploma), mas existe no acervo, ao contrário do que diz a justificação 'sem texto'. Onde o consolidado diz «o disposto nos artigos 13.º e 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955» deve dizer «o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955»."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Decreto-Lei n.º 84/85, artigo 26.º, alínea a): revogado «na parte prejudicada» pelo novo regime das apostas mútuas (revogação parcial e implícita, não aplicável como total)."
+  }
+ }
+]
