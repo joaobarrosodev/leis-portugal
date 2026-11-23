@@ -118,7 +118,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 208/2002. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-143-96.alteracoes.json.
     Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
-    n.º 206/98.'
+    n.º 206/98. Texto antigo deixado a seguir à nova redação ou a «(Revogado.)» retirado por regra e verificado às cegas (consolidacao/texto_antigo.py):
+    arts. 10.º, 13.º, 19.º, 23.º, 24.º, 25.º.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -285,39 +286,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-###### Artigo 10.º
+###### Artigo 10.º — Divisão de Pessoal
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-##### Divisão de Pessoal
-
-1 - À Divisão de Pessoal compete:
-
-a) Realizar estudos relativos à aplicação das medidas conducentes à melhor racionalização da gestão do pessoal;
-
-b) Recolher e tratar os dados relevantes para a gestão integrada dos recursos humanos e elaborar, periodicamente, os respectivos relatórios;
-
-c) Desenvolver as acções tendentes à preparação de decisões em matéria de gestão provisional de efectivos;
-
-d) Promover e implementar sistemas de avaliação da produtividade e preparar as instruções necessárias à sua aplicação;
-
-e) Desencadear, de acordo com o disposto na lei geral, o processo periódico de avaliação do serviço desempenhado pelo pessoal, acompanhar o seu desenvolvimento e propor a adaptação do sistema geral a situações específicas, nomeadamente as carreiras de regime especial;
-
-f) Executar as acções necessárias à organização e instrução dos processos relativos ao pessoal do quadro único do ME;
-
-g) Assegurar os procedimentos relativos a concursos;
-
-h) Assegurar a organização e actualização do cadastro de pessoal;
-
-i) Assegurar, nos termos legais, a preparação e divulgação da lista de antiguidades do pessoal;
-
-j) Estudar a aplicação da legislação sobre vencimentos e abonos de pessoal e propor as medidas necessárias à sua correcta e efectiva execução;
-
-l) Propor e proceder à afectação do pessoal do quadro único do ME e garantir a mobilidade nos termos da lei.
-
-2 - A Divisão de Pessoal organiza-se e desenvolve as suas competências, designadamente, através das áreas técnica, cadastro e provimentos.
 
 ###### Artigo 11.º — Gabinete de Formação
 
@@ -337,19 +311,6 @@ l) Propor e proceder à afectação do pessoal do quadro único do ME e garantir
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-#### Secção de Processamento de Abonos
-
-À Secção de Processamento de Abonos compete:
-
-a) Processar os vencimentos e outras remunerações certas do pessoal do quadro único do ME de acordo com as normas vigentes sobre a matéria, utilizando, designadamente, meios informáticos;
-
-b) Processar os vencimentos e outras remunerações certas dos membros do Governo e do pessoal afecto aos respectivos gabinetes;
-
-c) Processar, de modo idêntico ao referido na alínea a), as remunerações relativas aos agentes que a qualquer título prestem serviço na SG;
-
-d) Estabelecer, de acordo com o previsto na alínea anterior, as ligações necessárias com o Centro de Informática do Ministério das Finanças e com a respectiva delegação da Direcção-Geral da Contabilidade Pública;
-
-e) Garantir informação regular aos funcionários e assegurar o respectivo atendimento individual, nomeadamente através da resposta atempada às respectivas solicitações e de acordo com orientações e decisões superiores.
 
 ###### Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário
 
@@ -411,43 +372,12 @@ g) Organizar bases de dados para os arquivos do ME;
 
 ##### Divisão de Instalações e Equipamento
 
-###### Artigo 19.º
+###### Artigo 19.º — Divisão de Instalações e Equipamento
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-##### Divisão de Instalações e Equipamento
-
-À Divisão de Instalações e Equipamento compete:
-
-a) Gerir, conservar, remodelar e manter as instalações e equipamento relativos a edifícios do ME que por lei dependam da SG;
-
-b) Proceder a estudos e à elaboração de normas de utilização das instalações e equipamentos afectos aos serviços do ME;
-
-c) Assegurar as funções técnicas e administrativas inerentes à planificação e realização de obras de construção, reparação, remodelação e conservação dos edifícios e seu apetrechamento afectos do ME;
-
-d) Proceder à análise dos processos, pareceres técnicos e elaboração de propostas para aquisição de terrenos, imóveis ou fracções, articulando todos os aspectos de ordem legal com o Gabinete Jurídico;
-
-e) Fiscalizar o cumprimento dos contratos, nos seus aspectos técnicos, administrativos e financeiros, de acordo com a legislação em vigor e em articulação com o Gabinete Jurídico;
-
-f) Proceder ao levantamento das necessidades relativas a instalações e equipamentos a afectar ao ME, elaborando propostas de actuação tendo em vista a preparação do plano global de intervenção;
-
-g) Proceder à análise dos processos, pareceres técnicos e elaboração de propostas sobre pedidos de actualização de rendas de prédios arrendados pelo ME, bem como proceder aos trâmites necessários à realização de novos contratos de arrendamento;
-
-h) Conduzir os processos de aquisição, instalação e conservação do equipamento a instalar nos edifícios afectos ao ME;
-
-i) Planear, coordenar e gerir o sistema de telecomunicações do ME, de acordo com as necessidades do serviço e a evolução tecnológica;
-
-j) Planear e coordenar as actividades relacionadas com a segurança das instalações e o equipamento afecto ao ME;
-
-l) Elaborar e divulgar normas, procedimentos e manuais de utilização do equipamento, visando garantir a segurança das pessoas e das instalações;
-
-m) Propor a aquisição de viaturas para o ME;
-
-n) Elaborar e manter actualizado, em colaboração com o Gabinete de Organização, Gestão e Informática, uma base de dados dos terrenos, instalações e equipamento cuja gestão esteja cometida à SG, contendo, nomeadamente, elementos referentes à sua localização, utilização, estado de conservação e taxa de ocupação.
-
-##### SUBSECÇÃO V — Gabinete de Organização, Gestão e Informática
 
 ###### Artigo 20.º — Gabinete de Organização, Gestão e Informática
 
@@ -477,9 +407,6 @@ n) Elaborar e manter actualizado, em colaboração com o Gabinete de Organizaç�
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-#### Secção de Expediente Geral
-
-À Secção de Expediente Geral compete, em especial, proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos, bem como assegurar a expedição da correspondência a enviar pela SG.
 
 ###### Artigo 24.º
 
@@ -487,25 +414,6 @@ n) Elaborar e manter actualizado, em colaboração com o Gabinete de Organizaç�
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-#### Secção de Administração Financeira
-
-À Secção de Administração Financeira compete:
-
-a) Elaborar, em articulação com o serviço competente do ME e tendo em consideração o plano anual de actividades da SG, a proposta de orçamento;
-
-b) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração de relatórios de execução financeira;
-
-c) Assegurar os serviços de contabilidade e tesouraria;
-
-d) Assegurar uma contabilidade analítica como instrumento de apoio à gestão;
-
-e) Instruir os processos relativos a despesas e informar quanto à sua legalidade e cabimento, efectuando processamentos, liquidações e pagamentos;
-
-f) Processar as requisições mensais de fundos por conta das dotações orçamentais consignadas no Orçamento do Estado à SG;
-
-g) Apoiar os gabinetes dos membros do Governo, comissões e estruturas de missão relativamente às competências referidas nas alíneas anteriores;
-
-h) Promover a regularização dos fundos permanentes.
 
 ###### Artigo 25.º
 
@@ -513,21 +421,6 @@ h) Promover a regularização dos fundos permanentes.
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-#### Secção de Economato e Património
-
-À Secção de Economato e Património compete:
-
-a) Proceder ao apetrechamento dos serviços do ME e manter actualizado o respectivo inventário e cadastro, utilizando meios informáticos;
-
-b) Assegurar os aprovisionamentos para a SG e gabinetes dos membros do Governo, procedendo ao controlo da qualidade dos bens e produtos adquiridos;
-
-c) Organizar na sua globalidade os processos de aquisição e distribuição de bens e serviços a afectar aos serviços centrais do ME e assegurar a gestão do armazém, mantendo em depósito o material necessário ao seu funcionamento;
-
-d) Assegurar a gestão de viaturas ao serviço do ME;
-
-e) Proceder à aquisição e distribuição de fardamento do pessoal;
-
-f) Superintender no pessoal auxiliar afecto à SG e executar a tramitação dos processos que possibilitem assegurar o serviço de limpeza e o serviço de vigilância das instalações que dela dependam.
 
 ### CAPÍTULO III — Princípios de gestão
 
