@@ -37,7 +37,7 @@ import traceback
 from collections import Counter
 from pathlib import Path
 
-from texto import RAIZ
+from texto import RAIZ, front_matter
 
 PASTA = RAIZ / "consolidacao"
 CAMADA1 = PASTA / "camada1"
@@ -552,7 +552,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",)}
 
 
 def _sufixo() -> str:
@@ -860,12 +860,22 @@ def refazer_selecao() -> int:
     eram estas que faltavam. Substitui as linhas destes diplomas em `selecao-escala.jsonl`, corre as
     regras (`consolidar.processar`) e substitui as linhas em `resultados-escala.jsonl`, na parte 7 e nos
     pendentes."""
-    from consolidar import processar  # noqa: PLC0415
     from selecionar import completar, selecionar_todos  # noqa: PLC0415
 
     ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
     db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
     novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": "ronda 116"} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    _trocar_selecao(novos)
+    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
+    print(f"{len(novos)} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
+    return 0
+
+
+def _trocar_selecao(novos: dict[str, dict]) -> None:
+    """Troca as linhas destes diplomas em `selecao-escala.jsonl`, corre as regras (`consolidar.processar`) e troca as
+    linhas em `resultados-escala.jsonl`, na parte 7 e nos pendentes."""
+    from consolidar import processar  # noqa: PLC0415
+
     linhas = [json.loads(l) for l in SELECAO_ESCALA.read_text(encoding="utf-8").splitlines() if l.strip()]
     trocadas = 0
     with SELECAO_ESCALA.open("w", encoding="utf-8") as f:
@@ -886,15 +896,39 @@ def refazer_selecao() -> int:
         if e.get("pendentes") and e["estado"] in ("para LLM", "falhou a verificação"):
             pendentes.append({"id": i, "title": e["title"], "itens": e["pendentes"]})
     (PASTA / "pendentes-escala.jsonl").write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pendentes), encoding="utf-8")
-    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
-    print(f"{trocadas} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
-    print(dict(Counter(e["estado"] for e in estados.values())))
+    print(f"{trocadas} linhas trocadas na seleção; regras: {dict(Counter(e['estado'] for e in estados.values()))}")
+
+
+def acrescentar_alteradores(ficheiro: Path) -> int:
+    """Ronda 118: os alteradores que a segunda leitura achou no acervo e que não estavam na seleção (uma linha por par,
+    `{"id": …, "alterador_path": "data/…", "motivo": …}`). Entram na lista de alteradores do diploma, pela data, e as
+    regras correm de novo sobre a seleção nova."""
+    selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
+    novos: dict[str, dict] = {}
+    for par in _jsonl(ficheiro):
+        r = novos.get(par["id"]) or json.loads(json.dumps(selecao[par["id"]]))
+        bruto = (RAIZ / par["alterador_path"]).read_text(encoding="utf-8")
+        meta = front_matter(bruto)
+        from texto import corpo  # noqa: PLC0415
+        qualidade = meta.get("text_quality") or ("texto" if len(corpo(bruto).strip()) > 200 else None)
+        r["alteradores"] = [x for x in r["alteradores"] if x["id"] != meta["id"]]
+        tipo = str(meta.get("document_type") or "")
+        a = {"id": meta["id"], "title": meta["title"], "path": par["alterador_path"], "text_quality": qualidade,
+             "document_type": tipo, "legal_status": meta.get("legal_status"), "publication_date": str(meta.get("publication_date")),
+             "rotulos_dre": [par["motivo"]], "datas_dre": [], "ordem": str(meta.get("publication_date"))}
+        if "declara" in tipo.lower() or "retifica" in meta["title"].lower() or "rectifica" in meta["title"].lower():
+            a["retificacao"] = True
+        r["alteradores"] = sorted(r["alteradores"] + [a], key=lambda x: (x.get("ordem") or "", x["id"]))
+        r["selecao_refeita"] = "ronda 118: alteradores da segunda leitura"
+        novos[par["id"]] = r
+    _trocar_selecao(novos)
+    print(f"{len(novos)} diplomas com alteradores acrescentados")
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao"))
+    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao", "acrescentar-alteradores"))
     parser.add_argument("n", type=int)
     parser.add_argument("--ronda", type=int, default=115, choices=sorted(PASTAS_DA_RONDA))
     parser.add_argument("--pasta", default="pedidos", help="pedidos: a pasta em camada1/")
@@ -916,6 +950,8 @@ def main() -> int:
         return juntar_triagem()
     if args.passo == "refazer-selecao":
         return refazer_selecao()
+    if args.passo == "acrescentar-alteradores":
+        return acrescentar_alteradores(args.ids_extra)
     if args.passo == "estado":
         return estado()
     if args.passo == "entrada-nada":
