@@ -1,0 +1,143 @@
+[
+ {
+  "id": "pt:dre:402909:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme Lei 32/86 art. 2.º: «300 milhões de dólares americanos»; restantes números inalterados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Lei 3-B/2000 art. 44.º n.º 11 deu nova redação; a Lei 64-B/2011 art. 127.º n.º 9 revoga-o. Fica epígrafe e (Revogado.).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 32/86 art. 1.º: mapas I a IV substituem na parte respetiva os da Lei 9/86",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Declaração: verbas da despesa e da receita alteradas",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Lei 3-B/2000 art. 44.º n.os 1 a 10, 12 e 13",
+    "motivo": "instruções de outros diplomas (Código do IVA, DL 241/86, 362/99, etc.)"
+   },
+   {
+    "instrucao": "Lei 64-B/2011 art. 127.º n.os 1 a 8 (passagem ao regime normal de IVA, inventário)",
+    "motivo": "não textual: não altera o texto do original; o n.º 9 (revogação) foi aplicado"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:419781:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90 art. 2.º: nova alínea e) DSV e alínea f) DPPV no n.º 3; restante inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90 art. 4.º revoga a alínea c) do n.º 1 e o n.º 4; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 184/90 art. 3.º; texto letra a letra conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90 art. 2.º: epígrafe «Divisão de Protecção à Produção Vegetal» e corpo «A DPPV tem as competências...»; conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 43/90 art. 5.º: n.º 2 «Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada»; n.º 1 inalterado (...).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portarias 646/88, 649/88, 378/89, Despachos Normativos 125/90, 110/91, 193/92, Portarias 1222/91, 494/93, 648/93: criação/alteração de lugares no quadro de pessoal (mapa anexo I)",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 184/90 art. 1.º: transferência do Centro de Estudos Vitivinícolas do Dão e da Zona Agrária de Leiria",
+    "motivo": "não textual: não altera texto de artigo"
+   },
+   {
+    "instrucao": "DL 184/90 art. 5.º e DR 43/90 art. 7.º n.º 1: alteração do quadro de pessoal (mapas)",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DR 43/90 art. 4.º: nova redação do art. 17.º do DR 63/86",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DR 12/2007 art. 11.º n.º 2: sucessão da DRAP do Centro nas atribuições da DRABL",
+    "motivo": "não textual: não altera nem revoga texto do original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:424689:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Lei 98/99 art. 1.º: n.º 4 passa a «As estradas regionais estão subordinadas...» (sem «Enquanto se mantiverem...»); n.os 1-3 e 5 inalterados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Lei 98/99: novo n.º 2 (estradas regionais nas redes municipais) e anterior n.º 2 passa a n.º 3; conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Lei 98/99: epígrafe «Regime das estradas municipais» e novo corpo; conforme.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 98/99 art. 2.º: alterações às listas II, III, IV e V",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 182/2003 art. 1.º: alterações às listas I a V",
+    "motivo": "texto só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Declaração de Retificação 779/2025/2 art. 4.º n.º 1 al. b): cita o PRN",
+    "motivo": "não é instrução sobre o texto do original (apenas lista o PRN); outro diploma"
+   }
+  ]
+ }
+]

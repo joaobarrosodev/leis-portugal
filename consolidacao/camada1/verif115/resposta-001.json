@@ -1,0 +1,150 @@
+[
+ {
+  "id": "pt:dre:176301:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "b) e n.º 2 de DL 27/74 e depois n.º 2 de DL 192/84 art. 3.º (versão final, sem 'trabalho extraordinário' nem 'funções inspectivas'); n.º 5 de DL 183-F/80 art. 3.º; texto conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 19/89 art. 2.º; epígrafe/título mantido",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 19/89 art. 2.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 19/89 art. 2.º (o intertítulo 'Serviços sociais' que seguia o corpo no original foi removido; é cabeçalho de secção, não do artigo)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 e alíneas a) e b) conforme DL 103/76; n.º 2 igual ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 30/70 (alterador 1): sem texto no pedido",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "DL 514/70 art. 1.º: alteração dos mapas do pessoal civil dos Ministérios civis e dos departamentos militares",
+    "motivo": "texto novo só em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 514/70 arts. 2.º a 5.º (data de pagamento, diuturnidades, enfermagem Ministério da Justiça, professores EF)",
+    "motivo": "não textual: normas próprias que não dão nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 142/75 art. 1.º (art. 17.º do DL 48686) e art. 2.º (lugar de secretário-geral no quadro do Ministério da Comunicação Social)",
+    "motivo": "instruções de outro diploma / quadro de pessoal, não alteram texto do DL 49410"
+   },
+   {
+    "instrucao": "DL 96/76 arts. 1.º e 2.º (categorias Q e L do mapa dos departamentos militares); art. 3.º efeitos",
+    "motivo": "texto novo só em imagem sem anexo titulado; efeitos não textuais"
+   },
+   {
+    "instrucao": "DL 191/76 art. 1.º (categoria de telefonista no mapa anexo)",
+    "motivo": "mapa só em imagem, sem anexo titulado no consolidado"
+   },
+   {
+    "instrucao": "DL 183-F/80 art. 1.º, 2.º, 4.º, 5.º (Código do Imposto Complementar e normas próprias)",
+    "motivo": "instruções de outro diploma"
+   },
+   {
+    "instrucao": "DL 192/84 (Código do Imposto Complementar e normas próprias; só o art. 3.º visa o original e foi aplicado)",
+    "motivo": "instruções de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:187932:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "alínea b) nova; resto [...] igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 a 3 novos, alíneas a)-d) originais, e) e n.º 4 revogados; texto conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 4.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 novos; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "redação nova; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 e alíneas novos, n.os 2 e 3 revogados, n.º 4 novo; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º-A",
+    "veredicto": "certo",
+    "motivo": "artigo aditado; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º-B",
+    "veredicto": "certo",
+    "motivo": "artigo aditado; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "redação nova n.os 1 a 4; epígrafe [...] mantida; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 [...] originais; n.º 3 novo; conforme",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "art. 5.º n.º 2: leituras 'diploma'->'decreto-lei', 'despacho conjunto'->'despacho dos membros do Governo' e tempo verbal presente",
+    "motivo": "regra de leitura só 'para efeitos de republicação' (a republicação em anexo), não é nova redação textual dos artigos do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-01-27'
+version_history:
+  file: decreto-lei-618-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-01-27'
+    amending: pt:dre:396736:por
+    amending_title: Decreto-Lei n.º 95/72; Decreto-Lei n.º 26/78
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:17:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 95/72; Decreto-Lei
+    n.º 26/78. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-618-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,7 +213,9 @@ Considerando a conveniência de reestruturar o quadro do pessoal civil do Minist
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O pessoal civil de carácter permanente necessário para a execução dos serviços que, normalmente, não incumbem ao pessoal militar constitui quadro único e comum às diferentes direcções e outros órgãos do Ministério da Marinha e é designado por quadro do pessoal civil do Ministério da Marinha (Q. P. C. M. M.), cujas categorias, efectivos e ordenados ou salários são os indicados no mapa anexo a este diploma.
+###### Artigo 1.º
+
+1. O pessoal civil de carácter permanente necessário para a execução dos serviços que, normalmente, não incumbem ao pessoal militar constitui quadro único e comum às diferentes direcções e outros órgãos do Ministério da Marinha e é designado por quadro do pessoal civil do Ministério da Marinha (Q. P. C. M. M.), cujas categorias, efectivos e ordenados ou salários são os indicados no mapa anexo a este diploma.
 
 2. É, porém, incluído em quadros privativos o pessoal civil permanente do Arsenal do Alfeite, do Instituto Hidrográfico, do Instituto de Socorros a Náufragos, da Junta Nacional da Marinha Mercante e da Junta Nacional de Fomento das Pescas, dada a autonomia destes Organismos.
 
@@ -204,15 +223,21 @@ Artigo 1.º - 1. O pessoal civil de carácter permanente necessário para a exec
 
 4. Os efectivos e salários do pessoal do Q. P. C. M. M. poderão ser alterados por portaria do Ministro da Marinha, depois de obtido o acordo do Ministro das Finanças, quando as necessidades o justifiquem.
 
-Art. 2.º - 1. Poderá ser contratado ou assalariado além do quadro outro pessoal civil destinado à execução transitória de serviços ou quando estes tenham lugar em localidades ou em situações em que não se justifique ou não convenha serem desempenhados por pessoal do quadro; e, ainda, para a substituição temporária de pessoal do quadro nas situações de doença que se preveja prolongada e de aguardando aposentação.
+###### Artigo 2.º
+
+1. Poderá ser contratado ou assalariado além do quadro outro pessoal civil destinado à execução transitória de serviços ou quando estes tenham lugar em localidades ou em situações em que não se justifique ou não convenha serem desempenhados por pessoal do quadro; e, ainda, para a substituição temporária de pessoal do quadro nas situações de doença que se preveja prolongada e de aguardando aposentação.
 
 2. Os contratos e assalariamentos nos termos da primeira parte do n.º 1 serão válidos até final do ano económico que estiver correndo, podendo ser prorrogados desde que se reconheça indispensável à boa eficiência dos serviços; e os realizados nos termos da segunda parte do mesmo n.º 1 caducam no fim do mês em que se verificar a apresentação ao serviço dos substituídos ou a vaga do respectivo lugar, podendo, neste último caso, e desde que não exista candidato aprovado, ser prorrogados até que a vaga seja preenchida nos termos regulamentares.
 
-Art. 3.º - 1. Pertence à 4.ª Repartição (Pessoal Civil) da Direcção do Serviço do Pessoal tratar de todos os assuntos relativos ao pessoal civil do quadro ou além do quadro, designadamente no que respeita à admissão, promoção, movimento e registo.
+###### Artigo 3.º
+
+1. Pertence à 4.ª Repartição (Pessoal Civil) da Direcção do Serviço do Pessoal tratar de todos os assuntos relativos ao pessoal civil do quadro ou além do quadro, designadamente no que respeita à admissão, promoção, movimento e registo.
 
 2. Compete à mesma Repartição distribuir aquele pessoal pelas diversas direcções e outros órgãos do Ministério da Marinha, de acordo com as lotações que forem estabelecidas por despacho do Ministro da Marinha.
 
-Art. 4.º - 1. A admissão ao Q. P. C. M. M. realiza-se mediante concurso ou por escolha, observadas as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e segundo for estabelecido por despacho do Ministro da Marinha.
+###### Artigo 4.º
+
+1. A admissão ao Q. P. C. M. M. realiza-se mediante concurso ou por escolha, observadas as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e segundo for estabelecido por despacho do Ministro da Marinha.
 
 2. O recrutamento de guardas de 2.ª classe do Corpo de Polícia dos Estabelecimentos de Marinha pode efectuar-se entre o pessoal já pertencente ao Q. P. C. M. M., em condições a fixar, igualmente, por despacho do Ministro da Marinha.
 
@@ -230,15 +255,29 @@ Pessoal de faróis;
 
 Troço do mar.
 
-Art. 5.º - 1. As promoções do pessoal do Q. P. C. M. M. realizam-se de acordo com as instruções aprovadas por despacho do Ministro da Marinha, observadas as condições dos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969.
+4. O disposto no número anterior também é aplicável aos auxiliares técnicos de especialidades para para as quais os estabelecimentos de ensino do Ministério da Marinha ministrem preparação adequada.
+
+> Alterado pelo/a [Decreto-Lei n.º 95/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1972-396736), publicado em 1972-03-20.
+
+###### Artigo 5.º
+
+1. As promoções do pessoal do Q. P. C. M. M. realizam-se de acordo com as instruções aprovadas por despacho do Ministro da Marinha, observadas as condições dos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969.
 
 2. A promoção do pessoal de secretaria existente à data do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, realiza-se por antiguidade e por concurso na proporção de uma em cada três vacaturas.
 
 3. A graduação por classes do pessoal da mestrança e operários terá lugar em função do tempo e das informações de serviço, nas condições a estabelecer pelo Ministro da Marinha.
 
-Art. 6.º O funcionamento dos concursos de admissão ou promoção, respectivos programas, forma de classificação e constituição dos júris serão regulados por despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal (4.ª Repartição).
+###### Artigo 6.º
 
-Art. 7.º - 1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia dos Estabelecimentos de Marinha e do troço do mar tem direito a um subsídio para fardamento igual ao das praças da Armada.
+1 - O funcionamento dos concursos de admissão ou promoção, respectivos programas, forma de classificação e constituição dos júris serão regulados por despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal (4.ª Repartição).
+
+2 - A aplicação do disposto no número anterior ao pessoal de informática subordina-se ao que estiver estabelecido nas normas em vigor sobre admissão e promoção nos quadros do pessoal civil de informática das forças armadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 26/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1978-331858), publicado em 1978-01-27.
+
+###### Artigo 7.º
+
+1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia dos Estabelecimentos de Marinha e do troço do mar tem direito a um subsídio para fardamento igual ao das praças da Armada.
 
 2. Os motoristas, contínuos, guardas de museu e serventes do grupo XXII têm direito aos fardamentos estabelecidos na lei geral.
 
@@ -246,7 +285,9 @@ Art. 7.º - 1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia do
 
 4. Os práticos da costa do Algarve, quando embarcados em unidades da Armada, terão direito ao subsídio de embarque que for abonado aos sargentos-ajudantes.
 
-Art. 8.º - 1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia dos Estabelecimentos de Marinha e do troço do mar fica sujeito ao Regulamento de Disciplina Militar, na parte aplicável a militares.
+###### Artigo 8.º
+
+1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia dos Estabelecimentos de Marinha e do troço do mar fica sujeito ao Regulamento de Disciplina Militar, na parte aplicável a militares.
 
 2. Os restantes indivíduos do Q. P. C. M. M. ficam sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis.
 
@@ -254,7 +295,9 @@ Art. 8.º - 1. O pessoal do Corpo de Polícia Marítima, do Corpo de Polícia do
 
 4. No que se refere a licença e faltas ao serviço, são aplicáveis a todo o pessoal do Q. P. C. M. M. as disposições que figuram no [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
 
-Art. 9.º Para efeitos de disciplina e de concessão de transportes por conta do Estado, a equiparação do pessoal referido no n.º 1 do artigo anterior ao pessoal militar é a seguinte:
+###### Artigo 9.º
+
+Para efeitos de disciplina e de concessão de transportes por conta do Estado, a equiparação do pessoal referido no n.º 1 do artigo anterior ao pessoal militar é a seguinte:
 
 a) A primeiro-tenente - inspector do Corpo de Polícia Marítima;
 
@@ -268,7 +311,9 @@ e) A segundo-sargento - agentes de 2.ª classe do Corpo de Polícia Marítima, g
 
 f) A marinheiro - marinheiros e electricistas do troço do mar e ajudantes de maquinista.
 
-Art. 10.º - 1. Em relação aos componentes dos grupos de pessoal a seguir designados, no âmbito de cada grupo, são aplicáveis as disposições do Regulamento de Continências e Honras Militares:
+###### Artigo 10.º
+
+1. Em relação aos componentes dos grupos de pessoal a seguir designados, no âmbito de cada grupo, são aplicáveis as disposições do Regulamento de Continências e Honras Militares:
 
 a) Corpo de Polícia Marítima;
 
@@ -278,23 +323,35 @@ c) Troço do mar.
 
 2. Para efeitos do disposto no número anterior é adoptada a hierarquia definida no artigo 9.º
 
-Art. 11.º - 1. O disposto no artigo anterior também é aplicável aos cabos-de-mar e aos mateiros, que para esse efeito são considerados como pertencendo, respectivamente, ao Corpo de Policia Marítima e ao Corpo de Polícia dos Estabelecimentos de Marinha.
+###### Artigo 11.º
 
-2. Para os fins de que trata o artigo anterior a hierarquia dos cabos-de-mar e dos mateiros é a seguinte:
+1. O disposto no artigo anterior também é aplicável aos cabos-de-mar e aos mateiros, que para esse efeito são considerados como pertencendo, respectivamente, ao Corpo de Policia Marítima e ao Corpo de Polícia dos Estabelecimentos de Marinha.
 
-a) Equiparação a segundo-sargento - cabos-de-mar de 1.ª e de 2.ª classes;
+2. Para os fins de que trata o artigo anterior, a hierarquia dos cabos-de-mar e dos mateiros é a seguinte:
 
-b) Equiparação a cabo - cabos-de-mar de 3.ª classe e mateiro-chefe;
+a) Equiparação a primeiro-sargento - cabos-de-mar de 1.ª classe;
 
-c) Equiparação a marinheiro - mateiros.
+b) Equiparação a segundo-sargento - cabos-de-mar de 2.ª classe;
 
-Art. 12.º O pessoal de que tratam os artigos 10.º e 11.º presta continência militar aos oficiais e sargentos que, tendo em conta o disposto nos artigos 9.º e 11.º, sejam seus superiores hierárquicos.
+c) Equiparação a cabo - cabos-de-mar de 3.ª classe e mateiro-chefe;
 
-Art. 13.º - 1. O pessoal do Q. P. C. M. M., quando autorizado pelo Ministro da Marinha a prestar serviço nos comandos territoriais do ultramar ou nas direcções e repartições provinciais dos serviços de marinha das províncias ultramarinas, dá origem a vacatura nos respectivos quadros a contar da data em que embarcar para prestar aquele serviço.
+d) Equiparação a marinheiro - mateiros.
+
+> Alterado pelo/a [Decreto-Lei n.º 95/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1972-396736), publicado em 1972-03-20.
+
+###### Artigo 12.º
+
+O pessoal de que tratam os artigos 10.º e 11.º presta continência militar aos oficiais e sargentos que, tendo em conta o disposto nos artigos 9.º e 11.º, sejam seus superiores hierárquicos.
+
+###### Artigo 13.º
+
+1. O pessoal do Q. P. C. M. M., quando autorizado pelo Ministro da Marinha a prestar serviço nos comandos territoriais do ultramar ou nas direcções e repartições provinciais dos serviços de marinha das províncias ultramarinas, dá origem a vacatura nos respectivos quadros a contar da data em que embarcar para prestar aquele serviço.
 
 2. O mesmo pessoal quando regressar à metrópole fica na situação de supranumerário ao respectivo quadro, ocupando a primeira vacatura que se verificar na sua categoria.
 
-Art. 14.º - 1. Os funcionários do Q. P. C. M. M. que presentemente ocupam os lugares de director e de subdirector do Instituto de Biologia Marítima são providos, respectivamente, nas categorias de investigador-inspector superior e de investigador-chefe, as quais não são inerentes ao exercício daqueles cargos.
+###### Artigo 14.º
+
+1. Os funcionários do Q. P. C. M. M. que presentemente ocupam os lugares de director e de subdirector do Instituto de Biologia Marítima são providos, respectivamente, nas categorias de investigador-inspector superior e de investigador-chefe, as quais não são inerentes ao exercício daqueles cargos.
 
 2. Por no Q. P. C. M. M. serem extintas as categorias de arquivista de 1.ª classe, de porteiro de 1.ª classe e de encarregado da rede eléctrica, os funcionários que a elas pertenciam ficam integrados, respectivamente, nas categorias de segundo-oficial, contínuo de 1.ª classe e de contramestre de 2.ª classe.
 
@@ -302,19 +359,27 @@ Art. 14.º - 1. Os funcionários do Q. P. C. M. M. que presentemente ocupam os l
 
 4. No lugar de auxiliar de investigador de 1.ª classe aumentado no grupo II ingressa o funcionário da mesma categoria contratado além do quadro pelo Aquário de Vasco da Gama.
 
-Art. 15.º Enquanto não forem providos os lugares de maquinista-chefe e de maquinista de 1.ª classe do troço do mar, o efectivo dos maquinistas de 2.ª classe é acrescido de tantas unidades quantas as que faltarem nas referidas categorias.
+###### Artigo 15.º
 
-Art. 16.º - 1. O limite de idade para aposentação do pessoal dos grupos VIII, IX, X, XI, XII, XIII e XIV passa a ser de 65 anos.
+Enquanto não forem providos os lugares de maquinista-chefe e de maquinista de 1.ª classe do troço do mar, o efectivo dos maquinistas de 2.ª classe é acrescido de tantas unidades quantas as que faltarem nas referidas categorias.
+
+###### Artigo 16.º
+
+1. O limite de idade para aposentação do pessoal dos grupos VIII, IX, X, XI, XII, XIII e XIV passa a ser de 65 anos.
 
 2. Aos funcionários e agentes que à data da publicação do presente diploma tenham 65 anos de idade, bem como àqueles que já os excederam ou ainda os não completaram e não reúnam os restantes requisitos legais para a aposentação por inteiro correspondente à categoria em que se encontrem investidos, é permitido, até 31 de Dezembro de 1975, permanecerem ao serviço pelo tempo necessário para reunirem aqueles requisitos ou beneficiarem do aumento do quantitativo da pensão.
 
 3. Os funcionários e agentes, abrangidos pelo disposto no n.º 2, que, antes de 31 de Dezembro de 1975, perfaçam 70 anos de idade serão imediatamente desligados da efectividade do serviço, com fixação da pensão de aposentação a que tiverem direito.
 
-Art. 17.º - 1. Procedimentos idênticos aos fixados neste diploma são aplicáveis ao pessoal dos quadros do pessoal civil do Instituto Hidrográfico e do Instituto de Socorros a Náufragos.
+###### Artigo 17.º
+
+1. Procedimentos idênticos aos fixados neste diploma são aplicáveis ao pessoal dos quadros do pessoal civil do Instituto Hidrográfico e do Instituto de Socorros a Náufragos.
 
 2. O Ministro da Marinha regulará por despacho em que condições o pessoal do Q. P. C. M. M. poderá ser transferido para os quadros do pessoal civil do Instituto Hidrográfico ou do Instituto de Socorros a Náufragos ou destes para aquele.
 
-Art. 18.º As dúvidas que se suscitem na aplicação deste diploma serão esclarecidas por despacho do Ministro da Marinha.
+###### Artigo 18.º
+
+As dúvidas que se suscitem na aplicação deste diploma serão esclarecidas por despacho do Ministro da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 

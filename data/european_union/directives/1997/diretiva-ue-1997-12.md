@@ -111,10 +111,6 @@ relationships:
   target: pt:dre:596317:por
   label: null
   source: null
-- type: cited_by
-  target: pt:dre:622097:por
-  label: null
-  source: null
 - type: cites
   target: celex:31985L0511
   label: null
@@ -255,6 +251,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/9de141be-f714-11e5-abb1-01aa75ed71a1
   date: '2016-03-31'
+- type: transposed_by
+  target: pt:dre:622097:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 13

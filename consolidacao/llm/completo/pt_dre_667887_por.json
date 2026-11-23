@@ -16,16 +16,20 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 42.º, n.º 3 (mantêm-se em vigor as taxas do artigo 9.º): não textual: só mantém em vigor, não altera o texto\nAlterador 3, repristinação dos artigos 8.º, 9.º, 12.º e 15.º: não textual: repristinação sem alteração do texto, que já está no texto atual\nAlterador 4, artigo 106.º (âmbito da alteração ao artigo 12.º): não textual: norma de aplicação no tempo, sem alteração do texto\nAlterador 5, artigo 10.º (repristinação do artigo 12.º): não textual: repristinação sem alteração do texto, que já está no texto atual\nAlterador 6, artigo 106.º (âmbito da alteração ao artigo 12.º): não textual: norma de aplicação no tempo, sem alteração do texto",
   "instrucoes": [
-    "Alterador 1 (DL 199/99), art. 42.º, n.º 3: só mantém em vigor as taxas do art. 9.º; não altera o texto.",
-    "Alterador 2 (Lei 118/99), art. 21.º: art. 4.º com n.º 4 novo, que já está no texto atual (já aplicado pelo programa, igual); art. 14.º com nova epígrafe 'Contra-ordenações' e novo n.º 2; n.os 1, 3, 4 e 5 ficam; o n.º 6, não mencionado nem revogado, fica.",
-    "Alterador 3 (DL 87/2004): repristina os arts. 8.º, 9.º, 12.º e 15.º; sem mudança textual (a revogação pela Lei 99/2003 não está entre os alteradores).",
-    "Alterador 4 (DL 187/2007), art. 95.º: nova alínea c) do art. 12.º (62 anos e 40 anos civis); substituída depois pelo alterador 6.",
-    "Alterador 5 (DL 167-E/2013), art. 10.º: repristina o art. 12.º; sem mudança textual.",
-    "Alterador 6 (DL 16-A/2021), art. 95.º: nova alínea c) do art. 12.º ('remunerações'). Reparo confirmado: a redação põe a alínea sob um '2 - ...', mas o art. 12.º só tem alíneas no n.º 1 (a única alínea c) do artigo); aplicada à alínea c) do n.º 1, mantendo os n.os 2 a 4. Art. 106.º (âmbito pessoal) não é textual."
+    "Alterador 1 (DL 199/99), art. 42.º, n.º 3: mantém em vigor as taxas do artigo 9.º; sem alteração do texto.",
+    "Alterador 2 (Lei 118/99), art. 21.º: nova redação do n.º 4 do artigo 4.º (já aplicada pelo programa, texto atual certo, sem mudança); artigo 14.º com nova epígrafe «Contra-ordenações» e novo n.º 2; n.os 1, 3, 4, 5 e 6 mantidos do texto atual.",
+    "Alterador 3 (DL 87/2004): repristina os artigos 8.º, 9.º, 12.º e 15.º; o texto já está presente, sem mudança.",
+    "Alterador 4 (DL 187/2007), art. 95.º: nova alínea c) do artigo 12.º (62 anos e 40 anos civis); a redação mostra-a sob um «2 -», mas o artigo 12.º só tem alíneas no n.º 1, pelo que se substituiu a alínea c) do n.º 1; o texto final vem do alterador 6.",
+    "Alterador 5 (DL 167-E/2013), art. 10.º: repristina o artigo 12.º; sem mudança de texto.",
+    "Alterador 6 (DL 16-A/2021), art. 95.º: mesma nova alínea c) do artigo 12.º (com «remunerações»), aplicada à alínea c) do n.º 1; art. 106.º é norma de aplicação no tempo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

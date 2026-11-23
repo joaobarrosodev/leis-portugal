@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308336:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6321543a8530c163",
+    "98dff7e8df623d98",
+    "0b4febdaf2cf7f8a",
+    "f9d2b8eb6f80dfc6",
+    "fdd850c2b2e84c0f",
+    "f39b358d6d4b15af",
+    "a9755eb4c827b3d8",
+    "936668386d652198",
+    "0a5b545da170c913",
+    "edf5f6924a0d0092",
+    "137511b089edb6a6",
+    "bc3b68a15c7fcc91",
+    "c43679a1048d5a02"
+   ]
+  },
+  {
+   "date": "1992-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:581254:por",
+     "title": "Declaração de Rectificação n.º 8/92",
+     "published": "1992-02-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/8-1992-581254"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 6.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "6321543a8530c163",
+    "98dff7e8df623d98",
+    "0b4febdaf2cf7f8a",
+    "57cc44ac4fc6d52d",
+    "1f1400bbb3936a76",
+    "9efd7059cd06a817",
+    "2d4827ff06c28c34",
+    "936668386d652198",
+    "0a5b545da170c913",
+    "edf5f6924a0d0092",
+    "137511b089edb6a6",
+    "bc3b68a15c7fcc91",
+    "c43679a1048d5a02"
+   ]
+  }
+ ],
+ "fragments": {
+  "6321543a8530c163": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Novembro\n\nO [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, que aprovou o novo regime jurídico das operações de loteamento e das obras de urbanização, prevê que a instrução dos respectivos pedidos de licenciamento seja definida em decreto regulamentar.\n\nA opção tomada tem subjacente o objectivo de articulação dos licenciamentos com os intrumentos de planeamento territorial em vigor, numa óptica de simplificação e clarificação processual.\n\nPor outro lado, pretendeu-se igualmente destacar a importância da correcta instrução dos requerimentos ao nível dos processos de licenciamento. Com efeito, dela depende não só a aceitação do próprio pedido de licenciamento, como a celeridade da apreciação do mesmo quer pela Câmara Municipal, quer pelas entidades que eventualmente venham a ser consultadas.\n\nAssim:\n\nAo abrigo do disposto nos artigos 9.º e 20.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "98dff7e8df623d98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Operações de loteamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Operações de loteamento\n\nO requerimento para o licenciamento de operações de loteamento é dirigido ao presidente da câmara do município em que estiverem situados os terrenos abrangidos, devendo constar do requerimento a identificação e o domicílio do requerente."
+  },
+  "0b4febdaf2cf7f8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Área abrangida por plano de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Área abrangida por plano de pormenor\n\nNo caso de a área a lotear estar abrangida por plano de pormenor, o requerimento é instruído com os seguintes elementos:\n\na) Documento comprovativo de que o requerente é proprietário do prédio ou de que possui poderes para o representar no requerimento;\n\nb) Memória descritiva e justificativa;\n\nc) Extracto do plano de pormenor, assinalando a área a lotear;\n\nd) Declaração do autor do projecto quanto ao cumprimento das disposições legais e regulamentares aplicáveis."
+  },
+  "f9d2b8eb6f80dfc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Área abrangida por plano de urbanização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área abrangida por plano de urbanização\n\nNo caso de a área a lotear estar abrangida por plano de urbanização, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e e) do artigo anterior;\n\nb) Extracto de plano de urbanização, assinalando a área a lotear;\n\nc) Planta de síntese, à escala de 1:1000 ou superior, indicando, nomeadamente, a topografia actual e a modelação proposta para o terreno, a estrutura viária, as redes de abastecimento de água, de saneamento, de energia eléctrica, de gás e de condutas destinadas à instalação de infra-estruturas de telecomunicações, a divisão em lotes e sua numeração, o polígono de base para a implantação dos edifícios, devidamente cotado e referenciado, com indicação das cérceas e do número de pisos acima e abaixo da cota de soleira, e a localização dos equipamentos e das áreas que lhes são destinadas, bem como das reservas para espaços verdes e de utilização colectiva."
+  },
+  "fdd850c2b2e84c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Área abrangida por plano director municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Área abrangida por plano director municipal\n\nNo caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e e) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal."
+  },
+  "f39b358d6d4b15af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Área não abrangida por plano municipal de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Área não abrangida por plano municipal de ordenamento do território\n\nNo caso de a área a lotear não estar abrangida por nenhum dos instrumentos de planeamento referidos nos artigos anteriores, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e e) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Planta de localização à escala 1:25000, indicando o local da situação do terreno a lotear;\n\nc) Extracto da carta da Reserva Agrícola Nacional abrangendo os solos que se pretende utilizar ou, quando não exista, parecer sobre a sua capacidade de uso emitido pelos serviços competentes para o efeito;\n\nd) Extracto da carta da Reserva Ecológica Nacional abrangendo os solos que se pretende utilizar, quando exista;\n\ne) Planta da situação existente, à escala 1:1000 ou superior, correspondente ao estado e uso actual do terreno a lotear e de uma faixa envolvente com dimensão adequada à avaliação da integração da operação na área em que se insere, com indicação dos elementos ou valores naturais e construídos, de servidões administrativas e restrições de utilidade pública à construção, das infra-estruturas existentes e, ainda, dos solos abrangidos pelos regimes da Reserva Agrícola Nacional e da Reserva Ecológica Nacional;\n\nf) Justificação da adequabilidade da proposta com particular incidência sobre a relação das tendências dominantes em termos de transformação do uso do solo e dos ritmos de crescimento nos lugares centrais envolventes."
+  },
+  "a9755eb4c827b3d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Memória justificativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Memória justificativa\n\nA memória referida na alínea b) do artigo 2.º deve descrever e justificar a solução proposta para a operação de loteamento, com referência específica ao enquadramento em planos existentes e, ainda, aos seguintes elementos:\n\na) Superfície total do terreno a lotear;\n\nb) Área dos lotes e áreas destinada à implantação dos edifícios;\n\nc) Área de construção e volumetria dos edifícios com indicação dos índices urbanísticos adoptados, nomeadamente a distribuição percentual das diferentes ocupações propostas para o solo, os índices de implantação e de construção e a densidade populacional, quando for o caso;\n\nd) Cércea e número de pisos acima e abaixo da cota de soleira para cada um dos edifícios;\n\ne) Áreas destinadas a espaços de utilização colectiva, incluindo espaços verdes e respectivos arranjos;\n\nf) Natureza e dimensionamento dos equipamentos;\n\ng) Natureza das actividades não habitacionais e dimensionamento das áreas a elas destinadas;\n\nh) Tipologia dos edifícios e números de fogos, quando for o caso;\n\ni) Condicionamentos relativos à implantação dos edifícios e construções anexas, se for o caso;\n\nj) Solução adoptada para o funcionamento das redes de abastecimento de água, de energia eléctrica, de saneamento e de condutas de telecomunicações e suas ligações às redes gerais, quando for o caso;\n\nl) Estrutura viária adoptada, especificando as áreas destinadas às vias, acessos e estacionamentos de veículos, incluindo as previstas em cave, quando for o caso;\n\nm) Identificação do técnico responsável."
+  },
+  "936668386d652198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definições\n\nPara efeitos do disposto nos artigos anteriores, entende-se por:\n\na) Polígono de base para implantação de um edifício, o perímetro que demarca a área na qual pode ser implantado o edifício;\n\nb) Índice de implantação, o quociente entre a área medida em projecção zenital das construções e a área do prédio a lotear;\n\nc) Índice de construção, o quociente entre o somatório das áreas dos pavimentos a construir acima e abaixo da cota de soleira e a área do prédio a lotear; se a área a construir abaixo da cota de soleira se destinar exclusivamente a estacionamento, o seu valor não será utilizado para efeito do cálculo de índice de construção, a menos que o contrário esteja previsto em plano municipal de ordenamento do território;\n\nd) Densidade populacional, o quociente entre a população prevista e a área do prédio a lotear."
+  },
+  "0a5b545da170c913": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obras de urbanização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obras de urbanização\n\nO requerimento para o licenciamento de obras de urbanização é dirigido ao presidente da câmara do município em que estiverem situados os terrenos abrangidos, devendo constar do requerimento a identificação e o domicílio do requerente."
+  },
+  "edf5f6924a0d0092": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Instrução do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução do requerimento\n\nO requerimento é instruído com os seguintes elementos:\n\na) Documento comprovativo de que o requerente é proprietário do prédio ou de que possui poderes bastantes para o representar no requerimento;\n\nb) Cópia da notificação do deferimento, pela câmara municipal, do pedido de licenciamento da operação de loteamento, quando for o caso;\n\nc) Projectos das diferentes especialidades que integram a obra, designadamente arruamentos, redes de abastecimento de águas, de saneamento, de gás e electrificação, de telecomunicações, arranjos exteriores, devendo cada projecto conter memória descritiva e justificativa, bem como os cálculos, se for caso disso, e as peças desenhadas, em escala tecnicamente adequada, com os respectivos termos de responsabilidade dos técnicos autores dos projectos;\n\nd) Orçamento da obra, por especialidades e global, baseado em quantidades e qualidades dos trabalhos necessários à sua execução, devendo neles ser adoptadas as normas portuguesas em vigor ou as especificações do Laboratório Nacional de Engenharia Civil;\n\ne) Condições técnicas gerais e especiais do caderno de encargos, incluindo prazos para o início e para o termo da execução dos trabalhos."
+  },
+  "137511b089edb6a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Número de cópias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Número de cópias\n\nOs requerimentos de licenciamento de operações de loteamento e de obras de urbanização, bem como os respectivos elementos instrutores, devem ser apresentados em triplicado, sendo um dos exemplares restituído, no próprio acto, ao requerente, com indicação da data de recepção."
+  },
+  "bc3b68a15c7fcc91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Passagem de recibos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Passagem de recibos\n\nAlém dos casos expressamente referidos neste diploma, os serviços municipais devem passar recibo, nomeadamente sob a forma de restituição de cópia com a indicação da data da recepção do original, de todos os requerimentos ou documentos que lhes sejam apresentados nos termos da lei."
+  },
+  "c43679a1048d5a02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regime das notificações e comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime das notificações e comunicações\n\n1 - Todas as notificações e comunicações referidas neste diploma e no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, devem ser feitas, obrigatoriamente, por carta registada com aviso de recepção, caso não seja viável a notificação pessoal.\n\n2 - No caso de aprovação, autorização, parecer ou deliberação, a sua notificação ou comunicação é feita até ao 5.º dia posterior ao termo do prazo em que foram proferidos.\n\nPresidência do Conselho de Ministros, 12 de Agosto de 1991.\n\nAníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego.\n\nPromulgado em 29 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Novembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "57cc44ac4fc6d52d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Área abrangida por plano de urbanização",
+   "in_force_from": "1992-02-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+   ],
+   "markdown": "###### Artigo 3.º — Área abrangida por plano de urbanização\n\nNo caso de a área a lotear estar abrangida por plano de urbanização, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo anterior;\n\nb) Extracto de plano de urbanização, assinalando a área a lotear;\n\nc) Planta de síntese, à escala de 1:1000 ou superior, indicando, nomeadamente, a topografia actual e a modelação proposta para o terreno, a estrutura viária, as redes de abastecimento de água, de saneamento, de energia eléctrica, de gás e de condutas destinadas à instalação de infra-estruturas de telecomunicações, a divisão em lotes e sua numeração, o polígono de base para a implantação dos edifícios, devidamente cotado e referenciado, com indicação das cérceas e do número de pisos acima e abaixo da cota de soleira, e a localização dos equipamentos e das áreas que lhes são destinadas, bem como das reservas para espaços verdes e de utilização colectiva.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+  },
+  "1f1400bbb3936a76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Área abrangida por plano director municipal",
+   "in_force_from": "1992-02-29",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+   ],
+   "markdown": "###### Artigo 4.º — Área abrangida por plano director municipal\n\nNo caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+  },
+  "9efd7059cd06a817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Área não abrangida por plano municipal de ordenamento do território",
+   "in_force_from": "1992-02-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+   ],
+   "markdown": "###### Artigo 5.º — Área não abrangida por plano municipal de ordenamento do território\n\nNo caso de a área a lotear não estar abrangida por nenhum dos instrumentos de planeamento referidos nos artigos anteriores, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Planta de localização à escala 1:25000, indicando o local da situação do terreno a lotear;\n\nc) Extracto da carta da Reserva Agrícola Nacional abrangendo os solos que se pretende utilizar ou, quando não exista, parecer sobre a sua capacidade de uso emitido pelos serviços competentes para o efeito;\n\nd) Extracto da carta da Reserva Ecológica Nacional abrangendo os solos que se pretende utilizar, quando exista;\n\ne) Planta da situação existente, à escala 1:1000 ou superior, correspondente ao estado e uso actual do terreno a lotear e de uma faixa envolvente com dimensão adequada à avaliação da integração da operação na área em que se insere, com indicação dos elementos ou valores naturais e construídos, de servidões administrativas e restrições de utilidade pública à construção, das infra-estruturas existentes e, ainda, dos solos abrangidos pelos regimes da Reserva Agrícola Nacional e da Reserva Ecológica Nacional;\n\nf) Justificação da adequabilidade da proposta com particular incidência sobre a relação das tendências dominantes em termos de transformação do uso do solo e dos ritmos de crescimento nos lugares centrais envolventes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+  },
+  "2d4827ff06c28c34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Memória justificativa",
+   "in_force_from": "1992-02-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+   ],
+   "markdown": "###### Artigo 6.º — Memória justificativa\n\nA memória referida na alínea b) do artigo 2.º deve descrever e justificar a solução proposta para a operação de loteamento, com referência específica ao enquadramento em planos existentes e, ainda, aos seguintes elementos:\n\na) Superfície total do terreno a lotear;\n\nb) Área dos lotes e área destinada à implantação dos edifícios;\n\nc) Área de construção e volumetria dos edifícios com indicação dos índices urbanísticos adoptados, nomeadamente a distribuição percentual das diferentes ocupações propostas para o solo, os índices de implantação e de construção e a densidade populacional, quando for o caso;\n\nd) Cércea e número de pisos acima e abaixo da cota de soleira para cada um dos edifícios;\n\ne) Áreas destinadas a espaços de utilização colectiva, incluindo espaços verdes e respectivos arranjos;\n\nf) Natureza e dimensionamento dos equipamentos;\n\ng) Natureza das actividades não habitacionais e dimensionamento das áreas a elas destinadas;\n\nh) Tipologia dos edifícios e números de fogos, quando for o caso;\n\ni) Condicionamentos relativos à implantação dos edifícios e construções anexas, se for o caso;\n\nj) Solução adoptada para o funcionamento das redes de abastecimento de água, de energia eléctrica, de saneamento e de condutas de telecomunicações e suas ligações às redes gerais, quando for o caso;\n\nl) Estrutura viária adoptada, especificando as áreas destinadas às vias, acessos e estacionamentos de veículos, incluindo as previstas em cave, quando for o caso;\n\nm) Identificação do técnico responsável.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29."
+  }
+ }
+}

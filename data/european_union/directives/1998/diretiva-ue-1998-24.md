@@ -240,6 +240,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:616576:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:640912:por
   label: null
   source: null

@@ -10,15 +10,18 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 54/90, art. 5.º: nova redação do n.º 2 do art. 3.º (impressos aprovados por portaria, sem a parte final 'e constituem exclusivo... Decreto-Lei n.º 144/83'); n.ºs 1 e 3 ficam ('...').",
-    "DL 318/2007, art. 11.º: nova redação do art. 3.º com n.ºs 1 e 2 novos; n.º 3 = anterior n.º 2 (na redação do DL 54/90, já sem a parte final) e n.º 4 = anterior n.º 3. Reparo do verificador não aceite: o anterior n.º 2 à data do DL 318/2007 era o texto dado pelo DL 54/90, que suprimiu a parte final.",
-    "DL 54/90, arts. 1.º a 4.º e 6.º: alteram o Código do Registo Civil ou são normas avulsas; não são do original, ignorados.",
-    "DL 318/2007, restantes artigos: alteram outros diplomas; ignorados.",
-    "Portaria 286/2012: altera outras portarias; a referência ao n.º 1 do art. 3.º do DL 145/85 é só norma habilitante; nada a aplicar."
+    "Alterador 1 (DL 54/90), artigo 5.º: nova redacção do n.º 2 do artigo 3.º («Os impressos ... são aprovados por portaria do Ministro da Justiça.»), mantendo os n.os 1 e 3 — aplicada.",
+    "Alterador 1, artigos 1.º a 4.º: alteram o Código do Registo Civil ou são normas avulsas — não são do original.",
+    "Alterador 2 (DL 318/2007), artigo 11.º: nova redacção do artigo 3.º, com n.os 1 e 2 novos, n.º 3 = anterior n.º 2 e n.º 4 = anterior n.º 3 — aplicada. O anterior n.º 2 é o da redacção do DL 54/90, que já tinha suprimido a parte final («e constituem exclusivo da respectiva Direcção-Geral...»); o reparo que a queria repor não se confirma.",
+    "Alterador 3 (Portaria 286/2012): só invoca o n.º 1 do artigo 3.º como norma habilitante («ao abrigo de»); não altera o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

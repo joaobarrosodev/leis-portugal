@@ -3,18 +3,25 @@
   "artigos": [],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Acórdão do TC n.º 375/2008 (alterador 9): declara inconstitucional o n.º 2 do artigo 13.º do Código das Custas Judiciais apenas quando interpretado num certo sentido (transação homologada com custas a meias); é uma declaração interpretativa, não uma alteração textual, e incide sobre o CCJ (DL 224-A/96), pelo que não se aplica ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 107/2005, alteração ao artigo 19.º do regime anexo ao DL 269/98: outro diploma; o original só aparece como autor de redação anterior.\nAlterador 2, Lei n.º 60-A/2005: sem texto; o pedido não traz nenhum artigo deste alterador dirigido ao original (o que se sabe é que altera o Código das Custas Judiciais, outro diploma).\nAlterador 3, Lei n.º 53-A/2006, art. 134.º (arts. 95.º, 124.º, 131.º e 142.º do DL 224-A/96): outro diploma; o alvo é o Código das Custas Judiciais, o original só lhe deu redação.\nAlterador 4, Decreto-Lei n.º 303/2007: sem texto; o pedido não traz nenhum artigo deste alterador dirigido ao original (altera o Código de Processo Civil, outro diploma).\nAlterador 5, Lei n.º 48/2007 (Código de Processo Penal): outro diploma; o original só consta da lista de alterações anteriores.\nAlterador 6, Lei n.º 67-A/2007: sem texto; o pedido não traz nenhum artigo deste alterador dirigido ao original (altera o regime anexo ao DL 269/98, outro diploma).\nAlterador 7, Decreto-Lei n.º 34/2008: outro diploma; altera o Código de Processo Civil e outros diplomas, o original só consta de listas.\nAlterador 8, Decreto-Lei n.º 116/2008, art. 16.º (artigo 3.º do DL 200/2003): outro diploma; o alvo é o DL 200/2003.\nAlterador 9, Acórdão do Tribunal Constitucional n.º 375/2008 (art. 13.º, n.º 2 do Código das Custas Judiciais): não textual; declaração de inconstitucionalidade sem eliminar texto, e o alvo é o Código das Custas Judiciais.\nAlterador 10, Lei n.º 20/2013 (art. 101.º do Código de Processo Penal): outro diploma; o original só consta da lista de alterações anteriores.\nAlterador 11, Lei n.º 39/2020 (Código de Processo Penal): outro diploma; o original só consta da lista de alterações anteriores.",
   "instrucoes": [
-    "Alterador 1 (DL 107/2005): altera os artigos 1.º e 6.º do DL 269/98, o regime anexo a esse diploma (arts. 1.º, 3.º, 4.º, 9.º a 14.º, 16.º, 17.º, 19.º; adita 13.º-A e 15.º-A; revoga 22.º) e o art. 7.º do DL 32/2003; o original só é citado como alteração anterior: outros diplomas, ignorado.",
-    "Alteradores 2, 4 e 6 (Lei 60-A/2005, DL 303/2007, Lei 67-A/2007): sem artigos que mencionem o original; nada aplicado.",
-    "Alterador 3 (Lei 53-A/2006, art. 134.º): altera os arts. 95.º, 124.º, 131.º e 142.º e revoga números e alíneas dos arts. 124.º e 131.º do 'Decreto-Lei n.º 224-A/96 [CCJ], com a redacção que lhe foi dada pelo DL 324/2003': instrução dirigida a outro diploma (o CCJ, na redação dada pelo original), ignorada; o Anexo II (republicação do CCJ) fica como está.",
-    "Alterador 5 (Lei 48/2007, art. 1.º): altera o Código de Processo Penal; o original só é citado como alteração anterior: ignorado.",
-    "Alterador 7 (DL 34/2008): art. 1.º e art. 25.º alteram/revogam o CPC, o CPP, o regime do DL 269/98 e revogam o DL 224-A/96 (CCJ): outros diplomas, ignorado.",
-    "Alterador 8 (DL 116/2008, art. 16.º): altera o art. 3.º do DL 200/2003, 'alterado pelo DL 324/2003': outro diploma, ignorado.",
-    "Alterador 9 (Acórdão TC 375/2008): inconstitucionalidade interpretativa do art. 13.º, n.º 2, do CCJ; não textual, em nao_aplicavel.",
-    "Alteradores 10 e 11 (Lei 20/2013, Lei 39/2020): alteram o CPP, o Código Penal e a Lei 92/95; o original só é citado na lista de alterações do CPP: ignorado."
+    "Alterador 1: altera o regime anexo ao DL 269/98; nada aplicado ao original.",
+    "Alterador 2: texto vazio no pedido; nenhuma instrução dirigida ao original; nada aplicado.",
+    "Alterador 3: altera o Código das Custas Judiciais (DL 224-A/96); nada aplicado.",
+    "Alterador 4: texto vazio no pedido; nenhuma instrução dirigida ao original; nada aplicado.",
+    "Alterador 5: altera o Código de Processo Penal; nada aplicado.",
+    "Alterador 6: texto vazio no pedido; nenhuma instrução dirigida ao original; nada aplicado.",
+    "Alterador 7: altera o Código de Processo Civil e outros; nada aplicado.",
+    "Alterador 8: altera o DL 200/2003; nada aplicado.",
+    "Alterador 9: declaração de inconstitucionalidade sobre o Código das Custas Judiciais, não textual; nada aplicado.",
+    "Alterador 10: altera o Código de Processo Penal; nada aplicado.",
+    "Alterador 11: altera o Código de Processo Penal; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

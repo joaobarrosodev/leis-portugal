@@ -1,0 +1,79 @@
+[
+ {
+  "id": "pt:dre:237465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305 art. 1.º: n.º 3 do art. 10.º com nova redação (art. 40.º do DL 49304); corpo e §§ 1.º e 2.º mantidos; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305 art. 1.º: nova redação do artigo; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305 art. 1.º: corpo mantido, novo § único (sem ponto final, tal como no diploma que altera); idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305 art. 1.º: novo § 1.º (quotas e 'proporções'); idêntico. Corpo e § 2.º mantidos. Nota: DL 479/71 art. 5.º traz quotas novas para o capital total, tratado como norma autónoma (ver instruções justificadas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "DL 48702 art. 1.º substitui o artigo (corpo + §§ 1.º e 2.º) e DL 49305 art. 2.º adita o § 3.º; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305 art. 3.º: nova redação da al. d); idêntico.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 479/71, art. 1.º, n.º 1: o capital de 1500000 contos atribuído ao Fundo pelo art. 3.º do original 'é elevado para 3 milhões de contos'; alvo conhecido (art. 3.º, na lista dos IGUAIS) e o consolidado mantém o montante antigo. O diploma não traz redação nova, por isso pode ser considerado dúvida (analogamente o art. 5.º, n.º 1, quanto às quotas do art. 36.º, § 1.º)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44828, artigo único (fixa em 1 de Março de 1963 a entrada em vigor prevista, entre outros, no art. 63.º)",
+    "motivo": "não textual: adiamento da entrada em vigor sem nova redação (equivale a prorrogação)"
+   },
+   {
+    "instrucao": "DL 46632 (prazo do § único do art. 41.º passa a quatro anos)",
+    "motivo": "superada: revogada pelo DL 48006 art. 2.º e o art. 41.º foi reescrito pelo DL 48702; efeito já refletido no consolidado"
+   },
+   {
+    "instrucao": "DL 48006 art. 1.º (§ único do art. 41.º substituído por §§ 1.º e 2.º)",
+    "motivo": "superada pelo DL 48702, que substitui o artigo 41.º inteiro; efeito já refletido"
+   },
+   {
+    "instrucao": "DL 48702 art. 2.º (redução da taxa de juro de empréstimos do Fundo)",
+    "motivo": "norma autónoma sem nova redação de artigo do original"
+   },
+   {
+    "instrucao": "DL 479/71 arts. 1.º, n.º 2, 2.º, 3.º, 4.º, 5.º e quotas-partes (nova emissão de títulos e novas quotas)",
+    "motivo": "normas autónomas que não dão nova redação a artigos do original"
+   },
+   {
+    "instrucao": "Decreto 553/71 (novo sistema de compensação 'em substituição do sistema instituído pelo artigo 1.º')",
+    "motivo": "não textual: substituição de regime sem instrução de alteração ou nova redação"
+   },
+   {
+    "instrucao": "DL 317/80 (extinção e liquidação do Fundo; revoga o DL 478/71 e o Decreto 553/71)",
+    "motivo": "instrução de outro diploma e não textual (não revoga artigos do original)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

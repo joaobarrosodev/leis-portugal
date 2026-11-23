@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:553893:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 6.º (derrogação do regime do DLR 15/2012/A sempre que disponha de modo diverso do DLR 28/2011/A, salvo regime de proteção mais restritivo): revogação condicional; não indica nenhuma norma nem texto do original a mudar.\nAlterador 1, n.º 3 do artigo 33.º aditado ao DLR 28/2011/A (derroga as disposições do DLR 15/2012/A sobre as competências dos órgãos de gestão dos PNI quanto às áreas marinhas protegidas costeiras): revogação condicional; derrogação genérica, sem identificar artigos nem texto do original.",
+  "instrucoes": [
+    "Reparo da triagem confirmado: o alterador 1 (DLR 14/2024/A) altera e adita artigos ao DLR 28/2011/A (Parque Marinho); o DLR 15/2012/A só aparece citado (artigos 1.º, 2.º, 4.º, 28.º e 116.º) e numa derrogação genérica.",
+    "Artigo 6.º do alterador 1: derrogação do regime do original na parte em que disponha de modo diverso; não textual/condicional, vai para nao_aplicavel; nenhum artigo do original muda.",
+    "Artigo 33.º, n.º 3, aditado ao DLR 28/2011/A: derroga genericamente disposições do original sobre competências de gestão; condicional, vai para nao_aplicavel.",
+    "Artigos 1.º, 2.º, 4.º, 28.º e 116.º do alterador: apenas remetem para o original; nada a aplicar. Não há artigos assinalados como alterados por programa."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

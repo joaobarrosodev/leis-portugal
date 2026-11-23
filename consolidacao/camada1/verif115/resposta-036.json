@@ -1,0 +1,62 @@
+[
+ {
+  "id": "pt:dre:201053:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Base VIII revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Base XXII revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Base XXIII revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Base XXIV revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Base XXV revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Base XXVI revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Base XXVII revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Base XXVIII revogada pelo art. 71.º, al. a) do Decreto-Lei 81/85; consolidado '(Revogada.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 71.º, al. a): revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo» - alvo incerto (o alterador não identifica as bases; candidatas parciais: XVIII n.º 2, XXIX, XXX, XXXI, XI n.º 4)"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

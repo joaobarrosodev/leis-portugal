@@ -962,4 +962,6 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapa de pessoal
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11600/10661087.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.

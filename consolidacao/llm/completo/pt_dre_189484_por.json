@@ -1,19 +1,74 @@
 {
   "id": "pt:dre:189484:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Juros e indemnização",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Cláusulas nulas",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Procedimentos especiais",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Aplicação no tempo",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Disposições finais",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "DL n.º 62/2013, artigo 13.º, n.º 1: revoga o DL 32/2003, com exceção dos artigos 6.º e 8.º, mas mantém-no em vigor para os contratos celebrados antes da entrada em vigor do DL 62/2013. É uma revogação com ressalva de vigência (como as condicionais), por isso não marquei os artigos 1.º a 5.º, 7.º, 9.º e 10.º como «(Revogado.)».",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, arts. 1.º a 4.º e 6.º (alteração, aditamento, revogação e republicação do Decreto-Lei n.º 269/98 e do seu regime anexo): outro diploma; o original só deu redação a alguns desses artigos (artigo 8.º)\nAlterador 3, art. 4.º (alteração dos artigos 10.º e 11.º do regime anexo ao Decreto-Lei n.º 269/98): outro diploma; o original só lhes deu redação (artigo 8.º)\nAlterador 9, art. 11.º (alteração do artigo 102.º do Código Comercial): outro diploma; o original só lhe deu redação (artigo 6.º)\nAlterador 10, declaração de inconstitucionalidade dos n.os 3 e 5 do artigo 12.º do regime anexo ao Decreto-Lei n.º 269/98, na redação do artigo 8.º do original: outro diploma; e não textual, não elimina texto",
   "instrucoes": [
-    "DL 324/2003 (alterador 1): não traz texto dirigido ao original — nada a aplicar",
-    "DL 107/2005, artigo 5.º: nova redação dos n.os 2 a 4 do artigo 7.º — o texto atual já está assim; sem mudança",
-    "DL 107/2005, artigos 1.º a 4.º e 6.º: alteram o DL 269/98 e o seu regime anexo — não são do original; ignorados",
-    "Lei 14/2006: altera o CPC, o Estatuto da Câmara dos Solicitadores, o regime anexo ao DL 269/98 e o DL 202/2003 — não são do original; ignorada",
-    "DL 303/2007, Lei 67-A/2007, DL 34/2008, DL 226/2008: não trazem texto dirigido ao original — nada a aplicar",
-    "Lei 3/2010, artigo 2.º: nova redação da alínea d) do n.º 2 do artigo 4.º — o texto atual já está assim; sem mudança",
-    "DL 62/2013, artigo 13.º, n.º 1: revoga o diploma, salvo os artigos 6.º e 8.º, mantendo-o em vigor para os contratos anteriores — não aplicado (ver nao_aplicavel)",
-    "Acórdão TC 99/2019: declara inconstitucionais os n.os 3 e 5 do artigo 12.º do regime anexo ao DL 269/98 — não é norma do original; ignorado"
+    "Alterador 1 (DL 324/2003): sem artigos que mencionem o original; nada a aplicar.",
+    "Alterador 2 (DL 107/2005), art. 5.º: nova redação do art. 7.º (epígrafe 'Procedimentos especiais', n.os 2 a 4); já estava aplicada pelo programa e confere letra a letra; fica depois revogada pelo alterador 9.",
+    "Alterador 2, arts. 1.º a 4.º e 6.º: alteram/republicam o DL 269/98 e o seu regime anexo; outro diploma, ignorado.",
+    "Alterador 3 (Lei 14/2006), art. 4.º: altera arts. 10.º e 11.º do regime anexo ao DL 269/98; outro diploma, ignorado.",
+    "Alteradores 4 a 7 (DL 303/2007, Lei 67-A/2007, DL 34/2008, DL 226/2008): sem artigos que mencionem o original; nada a aplicar.",
+    "Alterador 8 (Lei 3/2010), art. 2.º, n.º 1: nova redação da alínea d) do n.º 2 do art. 4.º; já estava aplicada pelo programa e confere letra a letra; fica depois revogada pelo alterador 9.",
+    "Alterador 9 (DL 62/2013), art. 13.º, n.º 1: revoga o DL 32/2003 com exceção dos arts. 6.º e 8.º (mantendo-o em vigor para contratos anteriores, sem adiar o efeito da revogação); arts. 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 9.º e 10.º ficam '(Revogado.)'; 6.º e 8.º mantêm-se.",
+    "Alterador 9, art. 11.º: altera o art. 102.º do Código Comercial; outro diploma.",
+    "Alterador 10 (Acórdão TC 99/2019): declara inconstitucional norma do art. 12.º do regime anexo ao DL 269/98 (redação do art. 8.º do original); outro diploma e não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

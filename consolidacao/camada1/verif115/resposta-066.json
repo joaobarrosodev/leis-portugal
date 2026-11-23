@@ -1,0 +1,2566 @@
+[
+ {
+  "id": "pt:dre:398139:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "dúvida",
+    "motivo": "N.º 4 corresponde ao DL 46538; n.os 2 e 3 (tribunais de família, juízos de instrução criminal, tribunais centrais) não constam de alterador fornecido (DL 202/73 e 414/73 sem texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "dúvida",
+    "motivo": "Texto do art. 20.º n.º 3 («quinto superior», remissão ao art. 11.º) não consta de alterador fornecido; o DL 487/70 dá outra redação («terço superior»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "dúvida",
+    "motivo": "Art. 30.º (n.os 1 a 3, DL 45732) e art. 31.º n.os 2 e 3 e 32.º n.º 3 (DL 696/73) conferem; art. 31.º n.º 1, 4 e art. 32.º n.os 1, 2 e 4 dependem de DL 202/73/414/73 sem texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "dúvida",
+    "motivo": "O DL 47691 dá n.º 2 «Concluído o julgamento... é distribuído entre os juízes do tribunal cível...»; o consolidado acrescenta uma oração inicial e retira «do tribunal cível», o que não consta de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "dúvida",
+    "motivo": "DL 45732 dá «na área do distrito judicial de Lisboa e o do Porto na área dos distritos judiciais do Porto e Coimbra»; o consolidado acrescenta Évora, que não consta de alterador fornecido.",
+    "texto_esperado": "Art. 38.º - 1. O plenário do tribunal criminal de Lisboa exerce jurisdição na área do distrito judicial de Lisboa e o do Porto na área dos distritos judiciais do Porto e Coimbra. (DL 45732, se mais nada o alterar)"
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "dúvida",
+    "motivo": "Art. 42.º n.os 2 a 4 (DL 201/76) e art. 43.º (DL 47691) conferem, mas no art. 43.º n.º 3 o consolidado acrescenta «e de família» e passa «tribunal tutelar central de menores» a minúsculas, o que o DL 47691 não diz (dependente de DL 202/73 sem texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "dúvida",
+    "motivo": "Art. 49.º: o DL 47691 dá «serão substituídos pelos conservadores do registo predial e civil da sede da comarca»; o consolidado tem outra redação (juiz ou conservador), sem alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "dúvida",
+    "motivo": "N.º 3 (DL 281/71, n.º 2) confere; os n.os 2, 6, 7 e 8 e a remissão do n.º 7 (n.os 2 e 3 do art. 11.º, n.º 4 do art. 26.º, n.º 3) não constam de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "dúvida",
+    "motivo": "DL 281/71 dá «não excederá um oitavo» e «Em Lisboa, Porto e Coimbra»; o consolidado tem «não deve exceder um décimo», «através dos serviços competentes» e Évora, que não constam de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "dúvida",
+    "motivo": "N.os 4 e 5 conferem com o DL 47691; o aditamento ao n.º 3 («ao qual igualmente compete autorizar a cessação do arrendamento») não consta de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "dúvida",
+    "motivo": "DL 47139 dá «caducando a nomeação apenas quando se der o provimento efectivo ou cessar o impedimento»; o consolidado tem outra formulação (provimento «seguido de exercício» / «regresso às funções de qualquer dos delegados impedidos») que não consta de alterador fornecido.",
+    "texto_esperado": "5. Na falta de delegado, ou no caso de impedimento superior a 30 dias, pode o lugar ser provido interinamente por licenciado em Direito, caducando a nomeação apenas quando se der o provimento efectivo ou cessar o impedimento."
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 79",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 80",
+    "veredicto": "dúvida",
+    "motivo": "Art. 191.º confere com o DL 46140; as alterações dos arts. 190.º e 192.º não constam de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 81",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 82",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 83",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 84",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 85",
+    "veredicto": "dúvida",
+    "motivo": "A alínea b) do art. 197.º (quatro procuradores junto das Relações) não consta de alterador fornecido (os DL 369-A/75 e 609/74 dão «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 86",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 87",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 88",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 89",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 90",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 91",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 92",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 93",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 94",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 95",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 96",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 97",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 98",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 99",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 100",
+    "veredicto": "dúvida",
+    "motivo": "Alínea b) do art. 227.º alterada sem instrução visível (DL 46140 só altera a alínea d), DL 47691 só a h)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 101",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 102",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 103",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 104",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 105",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 106",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 107",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 108",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 109",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 110",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 111",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 112",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 113",
+    "veredicto": "dúvida",
+    "motivo": "DL 47691 dá «A licença graciosa dos funcionários de justiça só pode ser utilizada...»; o consolidado tem «licença para férias dos funcionários das secretarias dos tribunais», que não consta de alterador fornecido.",
+    "texto_esperado": "3. A licença graciosa dos funcionários de justiça só pode ser utilizada, embora interpoladamente, nas férias judiciais; são considerados de licença graciosa, para todos os efeitos legais, os dias em que, ao abrigo do disposto no número anterior, os funcionários estiverem ausentes da sede do lugar."
+   },
+   {
+    "artigo": "Trecho 114",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 115",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 116",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 117",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 118",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 119",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 120",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 121",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 122",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 123",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 124",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 125",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 126",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 127",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 128",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 129",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 130",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 131",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 132",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 133",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 134",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 135",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 136",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 137",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 138",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 139",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 140",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 141",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 142",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 143",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 144",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 145",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 146",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 147",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 148",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 149",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 150",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 151",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 152",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 153",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 154",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 155",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 156",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 157",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 158",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 159",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 160",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 161",
+    "veredicto": "dúvida",
+    "motivo": "Alteração («aos requisitos» para «os requisitos») sem instrução nos alteradores fornecidos (DL 47139 deixa o n.º 1 em «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 162",
+    "veredicto": "dúvida",
+    "motivo": "Alteração de «dois anos» para «um ano» sem instrução nos alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 163",
+    "veredicto": "dúvida",
+    "motivo": "N.º 2 confere com o DL 47139; no n.º 3 a mudança de «quinze» para «dez anos» e «solicitadores provisionários» não consta de alterador fornecido (DL 47139 deixa o n.º 3 em «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 164",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 165",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 166",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 167",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 168",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 169",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 170",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 171",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 172",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 173",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 174",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 175",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 176",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 177",
+    "veredicto": "dúvida",
+    "motivo": "DL 46140 dá «no terço superior da escala de antiguidade da respectiva classe»; o consolidado tem «no quinto superior», que não consta de alterador fornecido.",
+    "texto_esperado": "a) Se encontrem no terço superior da escala de antiguidade da respectiva classe;"
+   },
+   {
+    "artigo": "Trecho 178",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 179",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 180",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 181",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 182",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 183",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 184",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 185",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 186",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 187",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 188",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 189",
+    "veredicto": "dúvida",
+    "motivo": "Alíneas d) e e) conferem com o DL 201/76; no n.º 2 «cinco juízes mais antigos» não consta de alterador fornecido (o DL 201/76 deixa o n.º 2 em «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 190",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 191",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 192",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 193",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 194",
+    "veredicto": "dúvida",
+    "motivo": "N.os 4 e 5 conferem com o DL 47139; os n.os 2 e 3 (quadros de solicitadores, Évora) não constam de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 195",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 196",
+    "veredicto": "certo",
+    "motivo": "Conferido letra a letra com o alterador que dá a nova redação (e com o original onde há «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 197",
+    "veredicto": "dúvida",
+    "motivo": "N.º 3 confere com o DL 47691; as alterações dos n.os 1 e 2 e o n.º 4 não constam de alterador fornecido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 198",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 199",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 200",
+    "veredicto": "dúvida",
+    "motivo": "A nova redação (ou parte dela) não consta de nenhum alterador fornecido: vem de diplomas sem texto no pedido (DL 202/73, DL 414/73) ou de alteração sem instrução visível; não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 201",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 202",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 203",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 204",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 205",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 206",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 207",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 208",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 209",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 210",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 211",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 212",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 213",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 214",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 215",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 216",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 217",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 218",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 219",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 220",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 221",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 222",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 223",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 224",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 225",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 226",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 227",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 228",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 229",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 230",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 231",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 232",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 233",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 234",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 235",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 236",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 237",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 238",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 239",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 240",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 241",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 242",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 243",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 244",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 245",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 246",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 247",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 248",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 249",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 250",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 251",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 252",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 253",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 254",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 255",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 256",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 257",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 258",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 259",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 260",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 261",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 262",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 263",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 264",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 265",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 266",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 267",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 268",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 269",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 270",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 271",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 272",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 273",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 274",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 275",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 276",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 277",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 278",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 279",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 280",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 281",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 282",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 283",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 284",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 285",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 286",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 287",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 288",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 289",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 290",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 291",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 292",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 293",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 294",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 295",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 296",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 297",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 298",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 299",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 300",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 301",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 302",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 303",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 304",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 305",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 306",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 307",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 308",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 309",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 310",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 311",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 312",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 313",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 314",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 315",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 316",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 317",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 318",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 319",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 320",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 321",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 322",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 323",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 324",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 325",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 326",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 327",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 328",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 329",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 330",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 331",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 332",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 333",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 334",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 335",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 336",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 337",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 338",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 339",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 340",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 341",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 342",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 343",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 344",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 345",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 346",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 347",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 348",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 349",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 350",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 351",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 352",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 353",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 354",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 355",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 356",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 357",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 358",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 359",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 360",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 361",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 362",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 363",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 364",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 365",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 366",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 367",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 368",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 369",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 370",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 371",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 372",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 373",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 374",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 375",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 376",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 377",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 378",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 379",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 380",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 381",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 382",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 383",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 384",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 385",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 386",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 387",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 388",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 389",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 390",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 391",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 392",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 393",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 394",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 395",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 396",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 397",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 398",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 399",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 400",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 401",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 402",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 403",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 404",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 405",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 406",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 407",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 408",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 409",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 410",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 411",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 412",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 413",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 414",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 415",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 416",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 417",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 418",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 419",
+    "veredicto": "dúvida",
+    "motivo": "Mapa anexo alterado por vários diplomas, incl. DL 202/73 e 414/73 sem texto no pedido; as alterações não se conseguem verificar com os alteradores fornecidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Alterador 10 (DL 487/70), art. 5.º, mapa VIII, entrada de Cascais (círculo judicial - 1.º círculo de Lisboa): alvo incerto; o consolidado não tem entrada de Cascais no mapa VIII",
+   "Alterador 120 (DL 31/77), art. 2.º, mapa IX, Relação de Évora (secretário e Repartição Administrativa): alvo incerto"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Alterador 2 (DL 44959), art. 2.º: art. 2.º do Decreto-Lei n.º 30545",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "Alterador 7 (DL 47139), arts. 6.º e 7.º: Regulamento aprovado pelo Decreto n.º 41078 e Decreto-Lei n.º 38386",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "Alterador 11 (DL 281/71), mapa anexo ao Decreto-Lei n.º 44288 (tribunais tutelares centrais de menores)",
+    "motivo": "outro diploma; o quadro vem ainda só em imagem"
+   },
+   {
+    "instrucao": "Alterador 13 (DL 202/73), todas as instruções sobre o Estatuto",
+    "motivo": "o diploma que altera não traz o texto da alteração (só o título)"
+   },
+   {
+    "instrucao": "Alterador 14 (DL 414/73), todas as instruções sobre o Estatuto",
+    "motivo": "o diploma que altera não traz o texto da alteração (só o título)"
+   },
+   {
+    "instrucao": "Alterador 15 (DL 696/73), art. 4.º: art. 8.º do Código das Custas Judiciais",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "Alterador 19 (DL 609/74), art. 1.º: arts. 7.º, 8.º e 11.º do Decreto-Lei n.º 40768",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "Alterador 49 (DL 201/76), arts. 2.º a 4.º: art. 23.º e revogação do art. 28.º do Decreto-Lei n.º 35007; art. 51.º do Código de Processo Civil",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "Alterador 206 (DL 25/2009), art. 51.º e restantes",
+    "motivo": "outro diploma: não menciona o Estatuto Judiciário nem o Decreto-Lei n.º 44278 (pesquisa no texto sem ocorrências)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -220,19 +220,35 @@
     {
       "chave": "37.º",
       "epigrafe": "Norma revogatória",
-      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Até à revisão dos diplomas que regulam os fundos autónomos, integrando as matérias relativas à afectação de receitas e respectiva gestão, mantêm-se em vigor os artigos 22.º e 23.º do [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), de 24 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 19 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Até à revisão dos diplomas que regulam os fundos autónomos, integrando as matérias relativas à afectação de receitas e respectiva gestão, mantêm-se em vigor os artigos 22.º e 23.º do [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), de 24 de Fevereiro.",
       "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "A revogação do diploma pelo DL 117/2011 abrange também os anexos I e II (mapas de dirigentes), que não constam do texto atual por artigos; não há chave para os assinalar.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Cargos de direcção superior da administração directa",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO II — Dirigentes de organismos da administração indirecta",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 4, artigo 202.º (alteração do artigo 22.º do Decreto-Lei n.º 47/2005): outro diploma: o original só aparece como diploma que revogou o DL 47/2005",
   "instrucoes": [
-    "Alterador 1 (DL 69-A/2009, art. 73.º): altera a alínea i) do n.º 2 do artigo 14.º; já refletida no texto atual (artigo já alterado), sem mudança adicional; o artigo fica depois revogado pelo alterador 3.",
-    "Alterador 2 (DL 86-A/2011, Lei Orgânica do XIX Governo): não contém instrução dirigida ao original; nada aplicado.",
-    "Alterador 3 (DL 117/2011, art. 33.º, al. b)): revoga o DL 205/2006 com exceção do n.º 4 do artigo 37.º; artigos 1.º a 36.º passam a (Revogado.) e no artigo 37.º os n.os 1 a 3 passam a (Revogado.), mantendo-se o n.º 4.",
-    "Alterador 4 (Lei 7-A/2016, art. 202.º): altera o artigo 22.º do DL 47/2005; outro diploma, ignorado."
+    "Alterador 1 (DL 69-A/2009), art. 73.º: adita a alínea i) ao n.º 2 do artigo 14.º; já aplicada pelo programa, depois coberta pela revogação do alterador 3.",
+    "Alterador 2 (DL 86-A/2011): nenhuma instrução dirigida ao original; nada aplicado.",
+    "Alterador 3 (DL 117/2011), art. 33.º, alínea b): revoga o DL 205/2006 com excepção do n.º 4 do artigo 37.º; artigos 1.º a 36.º com corpo «(Revogado.)», artigo 37.º com os n.os 1 a 3 revogados e o n.º 4 mantido; corpos dos anexos I e II «(Revogado.)».",
+    "Alterador 4 (Lei 7-A/2016), art. 202.º: altera o DL 47/2005, outro diploma; não aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

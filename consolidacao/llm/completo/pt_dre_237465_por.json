@@ -40,18 +40,24 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 44828): fixa para 1 de Março de 1963 a entrada em vigor, prevista no artigo 63.º, sem alterar textualmente o artigo; não aplicado ao texto. Alterador 6 (DL 479/71): eleva o capital do Fundo para 3 milhões de contos e fixa novas quotas-partes em disposições autónomas, sem dar nova redação aos artigos 3.º, 36.º ou 37.º; não é alteração textual. Alterador 7 (Decreto 553/71): cria um novo sistema 'em substituição' do instituído pelo artigo 1.º e regula de novo a matéria, sem alterar nem revogar expressamente artigos do original; substituição implícita, não textual. Alterador 8 (DL 317/80): extingue o Fundo e revoga o DL 478/71 e o Decreto 553/71, sem revogar expressamente o original nem artigos dele; não aplicado ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único do DL 44828 (fixa em 1 de Março de 1963 a entrada em vigor prevista no art. 63.º): não textual: adiamento da entrada em vigor, sem mandar mudar a redação do art. 63.º.\nAlterador 6, arts. 1.º a 5.º do DL 479/71 (eleva o capital do art. 3.º para 3 milhões de contos, nova emissão de títulos e novas quotas-partes das províncias): não textual: normas autónomas que não dão nova redação aos arts. 3.º nem 36.º.\nAlterador 7, Decreto 553/71 (novo sistema de compensação interterritorial «em substituição do sistema instituído pelo artigo 1.º» e novo regime do Fundo Monetário): não textual: substituição de regime sem instrução de alteração, revogação ou nova redação de artigos do original.\nAlterador 8, DL 317/80 (extinção e liquidação do Fundo Monetário da Zona do Escudo; revogação do DL 478/71 e do Decreto 553/71): outro diploma: a revogação é de outros diplomas e a extinção do Fundo não dá redação nova a artigos do original.",
   "instrucoes": [
-    "DL 44828, artigo único: adia a entrada em vigor (art. 63.º) para 1-3-1963; não textual, em nao_aplicavel.",
-    "DL 46632, artigo único: prazo do § único do art. 41.º passa a quatro anos; superado pelos DL 48006 (que o revoga) e 48702.",
-    "DL 48006, art. 1.º: substitui o § único do art. 41.º por §§ 1.º e 2.º; art. 2.º revoga o DL 46632; superado pelo DL 48702.",
-    "DL 48702, art. 1.º: nova redação integral do art. 41.º (corpo 'por força de parte', §§ 1.º e 2.º); aplicado. Art. 2.º é norma autónoma.",
-    "DL 49305, art. 1.º: novo § 3.º do art. 10.º, nova redação do art. 20.º, novo § único do art. 29.º (sem ponto final, como no alterador), novo § 1.º do art. 36.º; aplicados.",
-    "DL 49305, art. 2.º: adita § 3.º ao art. 41.º, sobre a redação do DL 48702; aplicado. O reparo do verificador está errado: o corpo e os §§ 1.º e 2.º vêm do DL 48702 (alterador 4), que está no pedido.",
-    "DL 49305, art. 3.º: nova alínea d) do art. 47.º; aplicado.",
-    "DL 479/71, Decreto 553/71 e DL 317/80: sem alterações textuais ao original; em nao_aplicavel."
+    "Alterador 1 (DL 44828): adia a entrada em vigor para 1/3/1963; não textual (nao_aplicavel).",
+    "Alterador 2 (DL 46632): prazo do § único do art. 41.º passa a quatro anos; ultrapassado pelos alteradores 3 e 4, que reescrevem esse parágrafo.",
+    "Alterador 3 (DL 48006, art. 1.º): § único do art. 41.º substituído por §§ 1.º e 2.º; ultrapassado pelo alterador 4.",
+    "Alterador 4 (DL 48702, art. 1.º): art. 41.º substituído por inteiro (corpo «por força de parte», § 1.º «quatro anos» e juro «fixada atendendo às circunstâncias», § 2.º); aplicado. O reparo do verificador (só o § 3.º do DL 49305) não se confirma: os DL 48006 e 48702 alteram o art. 41.º.",
+    "Alterador 5 (DL 49305): art. 10.º § 3.º, art. 20.º, art. 29.º § único e art. 36.º § 1.º com nova redação (o resto mantido pelos «...»); art. 2.º adita o § 3.º ao art. 41.º; art. 3.º dá nova redação à alínea d) do art. 47.º; tudo aplicado.",
+    "Alterador 6 (DL 479/71): aumento de capital e novas quotas-partes por normas autónomas; não textual (nao_aplicavel).",
+    "Alterador 7 (Decreto 553/71): novo regime em substituição; sem instrução textual (nao_aplicavel).",
+    "Alterador 8 (DL 317/80): extingue o Fundo e revoga outros diplomas (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": [
+    "43.º: o DRE diz «Alterado o art. 43º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo » (Decreto-Lei n.º 44828) e nem a resposta nem as regras o mudam"
+  ]
 }

@@ -126,6 +126,18 @@ DE_FORA = {
     "pt:dre:606505:por",
 }
 
+def _fora_da_camada1() -> set[str]:
+    """Camada 1 (`camada1.py`, ronda 115): os diplomas da onda cujo estado não é «aplicar». Um que passou às
+    cegas pode ter sido recusado na segunda leitura jurídica (uma retificação ou uma revogação por aplicar);
+    o motivo está em `auditoria/camada1-estado.jsonl`."""
+    f = PASTA / "auditoria" / "camada1-estado.jsonl"
+    if not f.exists():
+        return set()
+    return {d["id"] for d in map(json.loads, f.read_text(encoding="utf-8").splitlines()) if d["estado"] != "aplicar"}
+
+
+DE_FORA |= _fora_da_camada1()
+
 # Consolidações refeitas que passaram às cegas mas não substituem a nossa anterior, por serem
 # menos fiéis ao original num ponto que a verificação não apanhou.
 NAO_SUBSTITUIR = {

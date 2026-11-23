@@ -1,0 +1,23 @@
+[
+ {
+  "id": "pt:dre:643342:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "errado",
+    "motivo": "O art. 1.º do DL 155/87 revoga o regime transitório do art. 40.º apenas na parte em que os seus efeitos não haviam cessado já por força do art. 1.º do DL 93/75: revogação condicional, que não se aplica ao texto. O consolidado pôs (Revogado.).",
+    "texto_esperado": "Igual ao original: Artigo 40.º, n.os 1 a 4 do original, sem alteração."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 2.º do DL 155/87: extinta a proibição do n.º 1 do artigo 10.º do DL 93/75",
+    "motivo": "instrução de outro diploma (DL 93/75), não toca no original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": "pt:dre:281452:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Falta aplicar a revogação expressa do artigo 33.º do Decreto-Lei n.º 583/72, de 30 de Dezembro (pt:dre:665133:por, em vigor a 1 de Janeiro de 1973; relação repealed_by no registo): «Ficam revogadas ... os artigos 3.º e seguintes do Decreto-Lei n.º 42951, de 27 de Abril de 1960, com as alterações do Decreto-Lei n.º 45362, de 21 de Novembro de 1963». O consolidado mantém os artigos 3.º a 35.º com o texto em vigor, quando deviam aparecer como revogados (as alterações do DL 48946 e do DL 217/70 aos artigos 5.º, 6.º, 8.º, 9.º e 29.º são anteriores à revogação). A ressalva final («sem prejuízo do disposto no artigo 27.º») refere-se aos regimes do DL 49033 e não salva estes artigos.",
+   "Questão a decidir no artigo 32.º: o Decreto-Lei n.º 7/85, posterior à revogação, deu nova redacção ao § único do artigo 32.º (taxas de 15,5% e 14,5%). Uma alteração a norma já revogada não a repristina expressamente; o mais seguro é marcar o artigo 32.º revogado pelo DL 583/72 com nota da redacção dada pelo DL 7/85, ou manter essa redacção com nota da revogação — mas não deixar o artigo sem referência à revogação."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Artigos 3.º e seguintes revogados pelo artigo 33.º do Decreto-Lei n.º 583/72 (data/portugal/decretos-leis/1972/decreto-lei-583-72.md); ficam em vigor só os artigos 1.º e 2.º."
+  }
+ },
+ {
+  "id": "pt:dre:576960:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:390270:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nota sem efeito no texto: o Decreto-Lei n.º 119/74 (n.º 2 da sua norma revogatória) revoga o artigo 3.º só «no que se refere ao exercício da actividade comercial de mediação na realização de empréstimos com garantia hipotecária»; como as entidades do DL 43767 incluem também a mediação na compra e venda de imóveis, a revogação é parcial e não textual, e o artigo 3.º fica com o seu texto (convém uma nota)."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:308336:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:668330:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Falta aplicar a revogação do artigo 4.º pelo artigo 40.º do Decreto-Lei n.º 81/78, de 29 de Abril (pt:dre:425528:por; relação repealed_by no registo): «Ficam revogados os artigos 3.º do Decreto-Lei n.º 406-A/75 ..., 4.º do Decreto-Lei n.º 407-A/75, de 30 de Julho ...». O consolidado mantém o artigo 4.º igual ao original; devia ser «Artigo 4.º — (Revogado.)»."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Revogado pela Lei n.º 77/77, de 29 de Setembro (artigo final: «Sem prejuízo do disposto nos artigos 60.º a 70.º, são revogados os Decretos-Leis n.os ... 407-A/75, de 30 de Julho ...»), que manteve transitoriamente o artigo 4.º (direito de reserva) e os artigos 10.º a 12.º (gestão dos prédios nacionalizados); o artigo 4.º foi depois revogado pelo DL 81/78."
+  }
+ },
+ {
+  "id": "pt:dre:274646:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

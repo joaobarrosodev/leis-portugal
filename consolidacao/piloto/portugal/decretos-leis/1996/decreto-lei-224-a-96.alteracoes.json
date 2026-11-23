@@ -14,6 +14,34 @@
     "alterador": "pt:dre:469177:por"
   },
   {
+    "artigo": "85.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 85.º — Taxa de justiça na 1.ª instância\n\n1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.",
+    "depois": "###### Artigo 85.º — Taxa de justiça na 1.ª instância\n\n1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários e abreviados, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.\n\n> Alterado pelo/a [Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110), publicado em 1998-08-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553668:por",
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
+  },
+  {
+    "artigo": "131.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.",
+    "depois": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553668:por",
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
+  },
+  {
     "artigo": "23.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -25,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "24.º",
@@ -39,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "25.º",
@@ -53,7 +81,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "26.º",
@@ -67,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "28.º",
@@ -81,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "34.º",
@@ -95,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "42.º",
@@ -109,7 +137,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "43.º",
@@ -123,7 +151,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "53.º",
@@ -137,7 +165,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "56.º",
@@ -151,7 +179,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "57.º",
@@ -165,7 +193,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "59.º",
@@ -179,7 +207,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "64.º",
@@ -193,7 +221,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "70.º",
@@ -207,7 +235,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "71.º",
@@ -221,7 +249,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "91.º",
@@ -235,7 +263,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "121.º",
@@ -249,7 +277,35 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
+  },
+  {
+    "artigo": "124.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 124.º — Depósitos\n\n1 - As quantias provenientes de custas, multas e preparos para despesas, seja qual for o seu destino, são depositadas, directamente, através de guias, em conta aberta na Caixa Geral de Depósitos, em numerário, cheque visado ou vale postal a seu favor, ou através de sistema electrónico.\n\n2 - Os cheques ou os vales postais mencionados no número anterior podem ser remetidos ao escrivão do processo, por forma a serem recebidos até ao dia anterior ao termo do prazo de pagamento.\n\n3 - O escrivão deve entregar imediatamente os cheques ou os vales e as guias ao secretário, que, por seu turno, efectuará a sua entrega na Caixa Geral de Depósitos.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos, à ordem do juiz do processo.",
+    "depois": "###### Artigo 124.º — Depósitos\n\n1 - O prévio pagamento da taxa de justiça inicial e o pagamento da taxa de justiça subsequente são efectuados directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça.\n\n2 - Os pagamentos das taxas de justiça inicial e subsequente que não sejam realizados de forma prévia e todos os outros pagamentos não abrangidos pelo número anterior são efectuados através de guia a emitir pelo tribunal.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.\n\n> Alterado pelo/a [Decreto-Lei n.º 320-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2000-393230), publicado em 2000-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553668:por",
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
+  },
+  {
+    "artigo": "142.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 142.º — Perda de validade dos cheques\n\n1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o tribunal no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.",
+    "depois": "###### Artigo 142.º — Perda de validade dos cheques\n\n1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.\n\n> Alterado pelo/a [Decreto-Lei n.º 320-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2000-393230), publicado em 2000-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553668:por",
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "144.º",
@@ -263,7 +319,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "27.º",
@@ -277,7 +333,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "32.º",
@@ -291,7 +347,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "33.º",
@@ -305,7 +361,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "40.º",
@@ -319,21 +375,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "85.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 85.º — Taxa de justiça na 1.ª instância\n\n1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.",
-    "depois": "###### Artigo 85.º — Taxa de justiça na 1.ª instância\n\n1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários e abreviados, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo.\n\n> Alterado pelo/a [Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110), publicado em 1998-08-25.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   },
   {
     "artigo": "95.º",
@@ -347,90 +389,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "124.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 124.º — Depósitos\n\n1 - As quantias provenientes de custas, multas e preparos para despesas, seja qual for o seu destino, são depositadas, directamente, através de guias, em conta aberta na Caixa Geral de Depósitos, em numerário, cheque visado ou vale postal a seu favor, ou através de sistema electrónico.\n\n2 - Os cheques ou os vales postais mencionados no número anterior podem ser remetidos ao escrivão do processo, por forma a serem recebidos até ao dia anterior ao termo do prazo de pagamento.\n\n3 - O escrivão deve entregar imediatamente os cheques ou os vales e as guias ao secretário, que, por seu turno, efectuará a sua entrega na Caixa Geral de Depósitos.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos, à ordem do juiz do processo.",
-    "depois": "###### Artigo 124.º — Depósitos\n\n1 - (Revogado.)\n\n2 - As formas de pagamento da taxa de justiça são fixadas por portaria do Ministro da Justiça.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.\n\n8 - Os depósitos existentes na Caixa Geral de Depósitos na data de entrada em vigor do Decreto-Lei n.º 324/2003, de 27 de Dezembro, são objecto de transferência para a conta do Instituto de Gestão Financeira e Patrimonial da Justiça, mediante ordem do tribunal com jurisdição sobre os mesmos.\n\n> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "131.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.",
-    "depois": "###### Artigo 131.º — Destino das receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\nh) O produto da coima cobrado por via judicial, independentemente da origem do respectivo processo de contra-ordenação, salvo se constituir receitas das Regiões Autónomas, do orçamento da segurança social das autarquias locais, ou percentagem a que por lei tenha direito o autuante, o participante ou outra entidade.\n\n2 - (Revogado.)\n\n3 - Das receitas mencionadas na alínea c) do n.º 1, revertem:\n\nb) 5 (por mil) para o Conselho Geral da Câmara dos Solicitadores;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no número seguinte, incumbe ao Instituto de Gestão Financeira e Patrimonial da Justiça o envio mensal das receitas referidas na alínea a) do n.º 1 e no n.º 3 às entidades a que se destinam, sendo competente para tal efeito, no âmbito do sistema de segurança social, o Instituto de Gestão Financeira da Segurança Social.\n\n6 - (Revogado.)\n\n9 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.\n\n> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "142.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 142.º — Perda de validade dos cheques\n\n1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o tribunal no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.",
-    "depois": "###### Artigo 142.º — Perda de validade dos cheques\n\n1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.\n\n5 - Nos casos referidos no n.º 3, só são pagas quantias com valor igual ou superior a (euro) 10.\n\n> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "126.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 126.º — Guias para depósito ou pagamento\n\n1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas, lavra termo, entrega-as às partes ou aos seus representantes ou mandatários quando se apresentarem a levantá-las.\n\n2 - Havendo lugar à notificação para pagamento de quaisquer quantias, a secção juntar-lhe-á as guias, contando-se o prazo desde a data daquele acto.\n\n3 - Nos casos especiais em que a lei autorize o interessado a solicitar guias para qualquer pagamento, são estas imediatamente passadas e entregues.\n\n4 - Tratando-se de guias que devam ser pagas por quem seja solidariamente obrigado ao pagamento, são entregues por termo nos autos a quem primeiro as solicitar.\n\n5 - No caso de ser urgente a prática de actos que dependam do pagamento de quaisquer quantias e de estar fechada a Caixa Geral de Depósitos, o secretário ou quem o substituir é seu fiel depositário, devendo depositá-las no primeiro dia útil seguinte.\n\n6 - Das quantias referidas no número anterior, é entregue ao interessado, no próprio acto, nota-recibo, numerada e assinada por quem as recebeu, de que constem a importância, o nome da pessoa por quem o depósito ou o pagamento é efectuado e a identificação do processo, arquivando-se o respectivo talão.",
-    "depois": "###### Artigo 126.º — Guias para depósito ou pagamento\n\n1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas e lavra termo, entregando-as às partes ou aos seus representantes ou mandatários quando o solicitarem.\n\n2 - Havendo lugar à notificação para pagamento de quaisquer quantias, a secção juntar-lhe-á as guias, contando-se o prazo desde a data daquele acto.\n\n3 - Nos casos especiais em que a lei autorize o interessado a solicitar guias para qualquer pagamento, são estas imediatamente passadas e entregues.\n\n4 - Tratando-se de guias que devam ser pagas por quem seja solidariamente obrigado ao pagamento, são entregues por termo nos autos a quem primeiro as solicitar.\n\n5 - No caso de ser urgente a prática de actos que dependam do pagamento de quaisquer quantias e de estar fechada a Caixa Geral de Depósitos, o secretário ou quem o substituir é seu fiel depositário, devendo depositá-las no primeiro dia útil seguinte.\n\n6 - Das quantias referidas no número anterior, é entregue ao interessado, no próprio acto, nota-recibo, numerada e assinada por quem as recebeu, de que constem a importância, o nome da pessoa por quem o depósito ou o pagamento é efectuado e a identificação do processo, arquivando-se o respectivo talão.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "127.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 127.º — Menções constantes das guias\n\n1 - As guias para pagamento de qualquer importância contêm os seguintes elementos:\n\na) Identificação da conta e balcão da Caixa Geral de Depósitos;\n\nb) Data limite em que o depósito ou o pagamento podem ser efectuados;\n\nc) Tribunal de que emanam, natureza e número do processo e da conta de custas, se for caso disso;\n\nd) Nome do obrigado ao pagamento;\n\ne) Discriminação e destino dos valores.\n\n2 - As guias são passadas em triplicado, ficando um exemplar na Caixa Geral de Depósitos, outro no processo, entregando-se o terceiro ao depositante.\n\n3 - Nos casos de liquidação, as guias conterão os elementos indispensáveis ao lançamento.\n\n4 - Por portaria do Ministro da Justiça, podem ser aprovados mecanismos de pagamento que permitam efectuá-lo em qualquer balcão da Caixa Geral de Depósitos ou por transferência electrónica.",
-    "depois": "###### Artigo 127.º — Menções constantes das guias\n\n1 - As guias para pagamento de qualquer importância contêm os seguintes elementos:\n\na) Identificação da conta e balcão da Caixa Geral de Depósitos;\n\nb) Data limite em que o depósito ou o pagamento podem ser efectuados;\n\nc) Tribunal de que emanam, natureza e número do processo e da conta de custas, se for caso disso;\n\nd) Nome do obrigado ao pagamento;\n\ne) Discriminação e destino dos valores.\n\n2 - As guias são passadas em triplicado, ficando um exemplar na Caixa Geral de Depósitos, outro no processo, entregando-se o terceiro ao depositante.\n\n3 - Nos casos de liquidação, as guias conterão os elementos indispensáveis ao lançamento.\n\n4 - Por portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
-  },
-  {
-    "artigo": "132.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 132.º — Livros da secção central\n\n1 - A secção central utiliza obrigatoriamente os seguintes livros:\n\na) De registo de contas;\n\nb) De pagamentos;\n\nc) De conta corrente com as dotações orçamentais;\n\nd) De emolumentos de actos avulsos;\n\ne) De contas correntes-processos.\n\n2 - Os livros a que se refere o número anterior devem, sempre que possível, ser constituídos por suportes informáticos.",
-    "depois": "###### Artigo 132.º — Livros da secção central\n\n1 - A secção central utiliza obrigatoriamente os seguintes livros:\n\na) De registo de contas;\n\nb) De pagamentos;\n\nc) De conta corrente com as dotações orçamentais;\n\nd) De emolumentos de actos avulsos;\n\ne) De contas correntes-processos.\n\n2 - Os livros a que se refere o número anterior são, sempre que possível, substituídos por suportes informáticos, dependendo de portaria do Ministro da Justiça a aprovação dos necessários procedimentos contabilísticos.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:553668:por",
-    "alterador": "pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:448110:por;pt:dre:197511:por;pt:dre:426158:por"
+    "alterador": "pt:dre:448110:por;pt:dre:426158:por;pt:dre:393230:por;pt:dre:540216:por;pt:dre:220944:por;pt:dre:376234:por;pt:dre:197511:por"
   }
 ]

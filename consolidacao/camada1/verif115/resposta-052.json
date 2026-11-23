@@ -1,0 +1,46 @@
+[
+ {
+  "id": "pt:dre:402880:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 2.º-A aditado pelo DL 12/92.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "errado",
+    "motivo": "As alterações às bases foram postas no sítio errado: um bloco (n.os 8 e 9 com alíneas a) a d) da base I, n.os 6 a 12 da base XVIII e a frase «O prazo de concessão termina em 31 de Dezembro do ano 2025.») foi colado no corpo do art. 5.º, entre a autorização aos Ministros e «Visto e aprovado…», e as próprias bases ficam inalteradas: Base I sem n.º 8; Base XVIII com n.os 6 e 7 do original (triplo da taxa; taxas aprovados); Base XLIII com «2020».",
+    "texto_esperado": "Corpo do art. 5.º só com o parágrafo da autorização aos Ministros, seguido da assinatura. Base I: aditar, depois do n.º 7, o n.º 8 «O valor das taxas de portagem aplicado na A7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este.» (DL 330-A/95, art. 3.º); o n.º 9 (CREL) do art. 4.º do DL 330-A/95 foi revogado pelo art. 4.º, n.º 1 do DL 314-A/2002, pelo que não deve constar (a confirmar). Base XVIII: n.os 1 a 5 iguais ao original e n.os 6 a 12 conforme o DL 193/92 (6 - As taxas de portagem a praticar inicialmente… aprovadas…; 7 - A falta de pagamento de qualquer taxa… multa… quíntuplo do mínimo; 8 a 12 como no DL 193/92), substituindo os n.os 6 e 7 do original. Base XLIII: «O prazo de concessão termina em 31 de Dezembro do ano 2025.» (DL 330-A/95, art. 6.º). Restantes bases iguais ao original."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 193/92, base único: nova redacção da base XVIII (n.os 6 a 12) não aplicada na base XVIII; texto apenas colado no art. 5.º",
+   "DL 330-A/95, art. 3.º: aditamento do n.º 8 à base I não aplicado na base I",
+   "DL 330-A/95, art. 4.º: aditamento do n.º 9 à base I (revogado depois pelo art. 4.º, n.º 1 do DL 314-A/2002; efeito sobre o texto por confirmar) — não aplicado na base I; o texto aparece fora do sítio",
+   "DL 330-A/95, art. 6.º: nova redacção da base XLIII (31 de Dezembro de 2025) não aplicada; base XLIII mantém 2020"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "RCM 46/93, n.º 1: ampliação da concessão ao lanço Malveira-Torres Vedras",
+    "motivo": "Não textual: amplia o objecto da concessão sem dar nova redacção às bases."
+   },
+   {
+    "instrucao": "DL 81/96, art. 1.º: ampliação da concessão aos sublanços Évora Este-Estremoz e Setúbal-Montijo",
+    "motivo": "Não textual: ampliação sem nova redacção."
+   },
+   {
+    "instrucao": "DL 330-A/95, art. 7.º, al. a): exoneração do reembolso do empréstimo do n.º 2 do art. 3.º",
+    "motivo": "Não textual: medida financeira que não altera o texto do art. 3.º."
+   },
+   {
+    "instrucao": "DL 314-A/2002, art. 4.º, n.º 2 e anexo I (bases do DL 294/97)",
+    "motivo": "Outro diploma: bases anexas ao DL 294/97, não as do DL 315/91."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

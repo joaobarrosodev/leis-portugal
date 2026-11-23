@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:157016:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "(Pessoal dirigente)",
+    "texto": "1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.\n\n2 - Os cargos de directores do Centro de Estudos Demográficos, do Centro de Estudos Económicos e do Centro de Informática são equiparados a directores de serviços.\n\n3 - O cargo de subdirector do Centro de Informática é equiparado a chefe de divisão.\n\n4 - Os cargos referidos nos números anteriores e os de director de serviços e chefe de divisão são providos nos termos da lei geral.\n\n5 - O lugar de chefe de repartição será provido de entre:\n\na) Chefe de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nb) Indivíduos possuidores de curso superior e experiência adequada.\n\n6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:\n\na) (Revogada.)\n\nb) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nc) Indivíduos possuidores de curso superior e experiência adequada.",
+    "alterador": 3
+   },
+   {
+    "chave": "15.º",
+    "epigrafe": "(Intercomunicabilidade de carreiras)",
+    "texto": "1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.\n\n2 - (Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "16.º",
+    "epigrafe": "(Carreira a extinguir)",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º (quadro de pessoal de informática substituído pelo quadro I): só em imagem: o quadro do pessoal do original só existe em imagem, depois das assinaturas, sem título de anexo no texto atual onde pôr o quadro novo.\nAlterador 2, n.º 1.º (criação de 1 lugar de assessor, letra C, no quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.\nAlterador 3, art. 1.º, n.os 1 e 2 (eliminação da carreira técnica de estatística do quadro e aditamento de 2 lugares de técnico superior de estatística de 1.ª classe e 9 de 2.ª classe): só em imagem: alteração ao quadro do pessoal a que se refere o artigo 2.º, que só existe em imagem e não tem título de anexo no texto atual; o texto do artigo 2.º não muda.\nAlterador 4, n.º 1.º (acrescentado 1 lugar de técnico superior principal, letra D, ao quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.\nAlterador 5, n.º 1.º (criado 1 lugar de assessor, letra B, no quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.",
+  "instrucoes": [
+   "Alterador 1: substitui o quadro de pessoal de informática (imagem); não aplicado (nao_aplicavel); n.os 2.º a 6.º são regras próprias.",
+   "Alterador 2: cria 1 lugar de assessor no quadro; não aplicado (nao_aplicavel).",
+   "Alterador 3, art. 1.º: altera o quadro do pessoal (carreira técnica de estatística eliminada, lugares aditados); não aplicado por o quadro só existir em imagem sem título de anexo (nao_aplicavel). O reparo foi confirmado: a instrução existe, mas não há onde a aplicar com segurança.",
+   "Alterador 3, arts. 2.º e 3.º: provimento e efeitos, disposições próprias.",
+   "Alterador 3, art. 4.º: revoga a alínea a) do n.º 6 do artigo 3.º, o n.º 2 do artigo 15.º e o artigo 16.º; aplicado.",
+   "Alteradores 4 e 5: acrescentam lugares ao quadro; não aplicados (nao_aplicavel)."
+  ]
+ }
+]

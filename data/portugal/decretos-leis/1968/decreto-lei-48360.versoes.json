@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274646:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9b8acad703a1742"
+   ]
+  },
+  {
+   "date": "1975-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160544:por",
+     "title": "Decreto-Lei n.º 100/75",
+     "published": "1975-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/100-1975-160544"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "232e0dc237a9182d",
+    "d7176f1a0ef872ad",
+    "aa84420121b0db34",
+    "ac5413bd27f2ee49",
+    "08beac328e462843"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9b8acad703a1742": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de regular o funcionamento das delegações portuguesas nos organismos e organizações internacionais com sede em Genebra;\n\nTendo em vista o artigo 3.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966;\n\nUsando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade.\n\nArt. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.\n\nArt. 3.º A missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.\n\n§ único. O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.\n\nArt. 4.º As despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.\n\n§ único (transitório). As despesas efectuadas e a efectuar este ano económico com a missão permanente a que alude este decreto-lei serão suportadas pela verba do capítulo 5.º, artigo 36.º, n.º 3), alínea 5, do orçamento do Ministério dos Negócios Estrangeiros actualmente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "232e0dc237a9182d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de regular o funcionamento das delegações portuguesas nos organismos e organizações internacionais com sede em Genebra;\n\nTendo em vista o artigo 3.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966;\n\nUsando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "d7176f1a0ef872ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade."
+  },
+  "aa84420121b0db34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953."
+  },
+  "ac5413bd27f2ee49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1975-03-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 100/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1975-160544), publicado em 1975-03-03."
+   ],
+   "markdown": "###### Artigo 3.º\n\nA missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.\n\n§ 1.º O Ministro dos Negócios Estrangeiros, ouvido o Ministro da Economia, poderá decidir por simples despacho que a chefia da missão permanente seja exercida, em acumulação de funções, pelo representante de Portugal junto da Associação Europeia de Comércio Livre.\n\n§ 2.º O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1975-160544), publicado em 1975-03-03."
+  },
+  "08beac328e462843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.\n\n§ único (transitório). As despesas efectuadas e a efectuar este ano económico com a missão permanente a que alude este decreto-lei serão suportadas pela verba do capítulo 5.º, artigo 36.º, n.º 3), alínea 5, do orçamento do Ministério dos Negócios Estrangeiros actualmente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

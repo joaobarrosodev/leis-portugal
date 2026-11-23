@@ -29,10 +29,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-08-31'
+version_history:
+  file: decreto-lei-343-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-08-31'
+    amending: pt:dre:577899:por
+    amending_title: Lei n.º 36/81
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 46-46
+    - Altera Artigo unidades 50-50
+    - Adita Artigo depois da unidade 50
+    - Altera Artigo unidades 51-55
+    - Altera Artigo unidades 56-59
 identifiers:
   celex: null
   eli: null
@@ -58,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:31:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 36/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-343-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +179,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pela [Lei n.º 32/80](https://diariodarepublica.pt/dr/detalhe/lei/32-1980-472087), de 28 de Julho, o seguinte:
 
-Artigo único. Os artigos 1.º, 14.º, 15.º, 16.º, 22.º, 23.º, 26.º, 29.º, 31.º, 33.º, 34.º e 36.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 14.º, 15.º, 16.º, 22.º, 23.º, 26.º, 29.º, 31.º, 32.º, 33.º, 34.º e 36.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, passam a ter a seguinte redacção:
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
 
 ###### Artigo 1.º - 1 - ...
 
@@ -202,7 +225,9 @@ b) Só pode haver uma comissão arbitral para os comproprietários de um mesmo b
 
 8 - Os requerimentos visando a criação de comissões arbitrais só terão efeito se forem enviados ao Ministro das Finanças e do Plano no prazo de trinta dias a contar da data do despacho ou acto que seja causa de litígio.
 
-Art. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.
+Art. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas, bem como as congregações e associações religiosas, terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
 
 2 - O disposto no número anterior poderá também ser aplicado, por despacho do Ministro das Finanças e do Plano, aos institutos públicos.
 
@@ -224,7 +249,9 @@ Art. 29.º - 1 - Para os efeitos da mobilização prevista no presente capítulo
 
 2 - ...
 
-3 - Para além do que se dispõe no n.º 5 do presente artigo e nos artigos 31.º, n.º 2, e 34.º, n.º 3, exceptuam-se ainda do disposto no n.º 1 as operações realizadas ao abrigo dos artigos 30.º e 35.º, para as quais poderão ser fixadas, pelo Governo, taxas mais favoráveis, tendo em conta, respectivamente, as necessidades orçamentais e a política habitacional.
+3 - Para além do que se dispõe no n.º 5 do presente artigo e nos artigos 31.º, n.º 2, 32.º, n.os 3 e 4, 33.º, n.os 3 e 4, e 34.º, n.º 3, exceptuam-se ainda do disposto no n.º 1 as operações realizadas ao abrigo dos artigos 30.º e 35.º, para as quais poderão ser fixadas, pelo Governo, taxas mais favoráveis, tendo em conta, respectivamente, as necessidades orçamentais e a política habitacional.
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
 
 4 - ...
 
@@ -232,25 +259,55 @@ Art. 29.º - 1 - Para os efeitos da mobilização prevista no presente capítulo
 
 Art. 31.º - 1 - Os titulares do direito à indemnização poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas, contraídas antes da nacionalização ou expropriação, do titular do crédito à Caixa Geral de Aposentações ou outras instituições de previdência, ao Fundo de Desemprego ou a instituições de crédito.
 
-2 - A mobilização prevista no número anterior poderá efectuar-se imediatamente pelo valor nominal dos títulos.
+2 - Os titulares do direito à indemnização pela nacionalização ou expropriação de prédios ao abrigo da legislação sobre reforma agrária poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas contraídas antes da nacionalização ou expropriação e relativas à actividade agrícola exercida nos prédios nacionalizados ou expropriados, provenientes de empréstimos concedidos ao titular pelo Ministério da Agricultura e Pescas ou por serviços nele integrados, por caixas de crédito agrícola mútuo, por empresas públicas ou por quaisquer instituições nacionalizadas.
 
-Art. 33.º - 1 - ...
+3 - A mobilização prevista nos números anteriores poderá efectuar-se imediatamente pelo valor nominal dos títulos.
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
+
+###### ARTIGO 32.º
+
+1 - As instituições de crédito poderão conceder crédito com pagamento caucionado por títulos representativos do direito à indemnização aos titulares desse direito desde que aquele se destine ao financiamento de investimentos directos produtivos, ou à realização do capital social de empresas, e tal seja necessário para a efectivação de investimentos produtivos ou para o saneamento financeiro das empresas respectivas.
 
 2 - Poderão ainda ser abrangidos igualmente para o efeito do disposto no n.º 1 os investimentos integráveis em contratos de desenvolvimento para a exportação, em contratos de viabilização ou em qualquer outra forma de intervenção contratual do Estado ou de entidade pública para o efeito por ele designada.
 
-3 - A mobilização dos títulos representativos do direito à indemnização, para efeitos dos investimentos referidos nos n.os 1 e 2, será regulamentada por portaria no prazo de noventa dias a contar da publicação do presente diploma.
+3 - A mobilização dos títulos representativos do direito à indemnização para o efeito de saneamento financeiro de empresas poderá efectuar-se imediatamente pelo valor nominal dos títulos e será regulamentada por portaria do Ministro das Finanças e do Plano.
 
-4 - O saneamento financeiro a considerar, ainda para o efeito do disposto no n.º 1, deverá ser acompanhado directa ou indirectamente pelo Estado, em condições a regular pelo Governo através de decreto-lei.
+4 - A mobilização dos títulos representativos do direito à indemnização para efeito de realização de investimentos produtivos não abrangidos pelo número anterior poderá ser efectuada por valor superior ao referido no n.º 1 do artigo 29.º e será regulamentada por portaria do Ministro das Finanças e do Plano.
 
-5 - Para os efeitos do n.º 1, os titulares dos créditos a mobilizar deverão apresentar em qualquer instituição de crédito um projecto detalhado de investimento, acompanhado de estudos de natureza técnica, económica e financeira, cuja viabilidade deve ser expressamente reconhecida pela instituição de crédito.
+5 - O saneamento financeiro a considerar, ainda para o efeito do disposto no n.º 3, deverá ser acompanhado directa ou indirectamente pelo Estado, em condições a regular pelo Governo através de decreto-lei.
 
-Art. 34.º - 1 - Em conformidade com a definição legal dos sectores vedados à iniciativa privada, e quando for de interesse para a economia nacional, poderá ser proposta, pelo Estado ou pelos indemnizados, a mobilização dos títulos representativos do direito à indemnização por troca com participação do Estado ou do sector público empresarial em sociedades privadas, podendo ser dada preferência:
+6 - Para o efeito do n.º 1, os titulares dos créditos a mobilizar deverão apresentar em qualquer instituição de crédito um projecto pormenorizado de investimento, acompanhado de estudos de natureza técnica, económica e financeira, cuja viabilidade deve ser expressamente reconhecida pela instituição de crédito.
 
-a) Aos indemnizados que sejam accionistas ou sócios das sociedades privadas de que se pretenda alienar partes de capital pertencentes ao sector público;
+> Aditado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
 
-b) Aos indemnizados que, na data da nacionalização, fossem accionistas ou sócios de empresas nacionalizadas, quando estas, naquela mesma data, detivessem partes de capital nas sociedades privadas em que haja participações do sector público cuja troca por títulos representativos do direito à indemnização se admita.
+###### ARTIGO 33.º
 
-2 - Serão fixadas por portaria dos Ministros das Finanças e do Plano e da tutela das empresas públicas proprietárias das participações as condições em que estas podem ser objecto de troca pelos títulos representativos do direito à indemnização.
+1 - Poderão ainda os titulares dos direitos referidos nos artigos anteriores ceder os títulos representativos desse direito a instituições de crédito, com sub-rogação destes no correspondente direito sobre o Estado, a fim de obterem meios de financiamento para investimentos directos produtivos ou para a realização de capital de empresas, desde que tal seja necessário para a efectivação de investimentos produtivos ou para o saneamento financeiro das empresas respectivas.
+
+2 - Poderão ainda ser abrangidos igualmente, para o efeito do disposto no n.º 1, os investimentos integráveis em contratos de viabilização ou em qualquer outra forma de intervenção contratual do Estado ou de entidade pública para o efeito por ele designada.
+
+3 - A mobilização dos títulos representativos do direito à indemnização, para efeito de saneamento financeiro de empresas, poderá efectuar-se imediatamente pelo valor nominal dos títulos e será regulamentada por portaria do Ministério das Finanças e do Plano.
+
+4 - A mobilização dos títulos representativos do direito à indemnização, para efeito de realização de investimentos directos produtivos não abrangidos pelo número anterior, poderá ser efectuada por valor superior ao referido no n.º 1 do artigo 29.º e será regulamentada por portaria do Ministro das Finanças e do Plano.
+
+5 - O saneamento financeiro a considerar, ainda para o efeito do disposto no n.º 1, deverá ser acompanhado directa ou indirectamente pelo Estado, em condições a regular pelo Governo através de decreto-lei.
+
+6 - Para o efeito do n.º 1, os titulares dos créditos a mobilizar deverão apresentar em qualquer instituição de crédito um projecto pormenorizado de investimento, acompanhado de estudos de natureza técnica, económica e financeira, cuja viabilidade deve ser expressamente reconhecida pela instituição de crédito.
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
+
+###### ARTIGO 34.º
+
+1 - Em conformidade com a definição legal dos sectores vedados à iniciativa privada, e quando for de interesse para a economia nacional, poderá ser proposta pelo Estado ou pelos indemnizados a mobilização dos títulos representativos do direito à indemnização para pagamento do preço da aquisição de participações do Estado ou do sector público empresarial em sociedades privadas, podendo ser dada preferência pela seguinte ordem:
+
+a) Aos indemnizados que sejam accionistas ou sócios das sociedades privadas de que se pretenda alienar partes de capital pertencentes ao sector público e que já o fossem à data da nacionalização das empresas que detinham as partes do capital a alienar;
+
+b) Aos indemnizados que, na data da nacionalização, fossem accionistas ou sócios de empresas nacionalizadas quando estas, naquela mesma data, detivessem partes de capital nas sociedades privadas em que haja participações do sector público para as quais se admita que o preço de aquisição seja pago mediante títulos representativos do direito à indemnização.
+
+2 - Serão fixadas por portaria dos Ministros das Finanças e do Plano e da tutela das empresas públicas proprietárias das participações as condições em que o preço de aquisição pode ser pago por títulos representativos do direito à indemnização.
+
+> Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
 
 3 - A mobilização prevista no n.º 1 poderá efectuar-se imediatamente pelo valor nominal dos títulos.
 

@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:239457:por
     title: Decreto Regulamentar n.º 1/98
     publication_date: '1998-01-19'
+  - id: pt:dre:424337:por
+    title: Portaria n.º 414/98
+    publication_date: '1998-07-20'
 ---
 
 # Decreto Regulamentar n.º 17/92
@@ -219,8 +222,6 @@ g) Assegurar as ligações com as instituições bancárias;
 h) Elaborar e analisar indicadores financeiros.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
-
-##### Divisão de Gestão Financeira e de Contabilidade
 
 Compete à Divisão de Gestão Financeira e de Contabilidade:
 
@@ -566,13 +567,13 @@ b) Prestar informações orais e escritas a beneficiários, utentes e, de um mod
 
 2 - Cada centro de atendimento é chefiado por um chefe de secção.
 
-###### Artigo 29.º
+###### Artigo 29.º — Divisão de Auditoria
 
 (Revogado.)
 
 > Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
 
-##### Divisão de Auditoria
+> Revogado pelo/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
 
 A Divisão de Auditoria funciona na dependência directa do conselho directivo.
 
@@ -639,6 +640,12 @@ Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/de
 Aplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
+
+Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)
+
+> Alterado pelo/a [Portaria n.º 414/98](https://diariodarepublica.pt/dr/detalhe/portaria/414-1998-424337), publicado em 1998-07-20.
 
 ## ANEXO II — Formação dos operadores de telecomunicações
 

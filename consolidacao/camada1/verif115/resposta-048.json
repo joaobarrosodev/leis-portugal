@@ -1,0 +1,267 @@
+[
+ {
+  "id": "pt:dre:285477:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 290/91 art. 1.º dá nova redação ao art. 1.º: acrescenta 'Francisco Gentil' e 'ao anexo'; consolidado coincide letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria n.º 110/89: altera/substitui o quadro de pessoal da Escola de Enfermagem de Bissaia Barreto",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 556/89: altera/substitui o quadro de pessoal da Escola de Enfermagem de São João de Deus",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 633/89: altera/substitui o quadro de pessoal da Escola de Enfermagem de Portalegre",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 772/90: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 922/90: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Leiria",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 290/91: art. 3.º, acrescenta ao anexo o quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 127/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bissaya Barreto",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 850/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem do Dr. Ângelo da Fonseca",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 857/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Santarém",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 994/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Braga",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1085/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Vila Real",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1087/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1093/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João de Deus",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1100/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Leiria",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1101/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Viana do Castelo",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1102/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1104/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Beja",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1115/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem do Dr. Lopes Dias",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1118/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Artur Ravara",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1119/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bragança",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1127/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Braga",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1228/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem da Guarda",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1229/92: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de D. Ana Guedes",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 133/93: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Faro",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 728/93: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Portalegre",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 644/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Artur Ravara",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 669/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Santarém",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 711/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Vila Real",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 714/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João de Deus",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 717/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Viana do Castelo",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 726/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem da Guarda",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 761/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem Dr. Ângelo da Fonseca",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 769/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem do Dr. Lopes Dias",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 810/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 811/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 812/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Viseu",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 813/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bragança",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 818/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bissaya Barreto",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 819/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Leiria",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 864/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Braga",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 867/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Faro",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1031/94: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Portalegre",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 90/95: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de D. Ana Guedes",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 105/95: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Beja",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 744/98: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Artur Ravara",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 763/98: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Vila Real",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 34/99: altera/substitui o quadro de pessoal da Escola da Superior de Enfermagem de Viana do Castelo",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 99/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de D. Ana Guedes",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 192/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Viseu",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 236/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Santarém",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 237/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem da Guarda",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 275/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 276/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 473/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem do Dr. Ângelo da Fonseca",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 471/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Calouste Gulbenkian de Braga",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 861/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bissaya Barreto",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 876/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Leiria",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 939/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Faro",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 986/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Bragança",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1016/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Beja",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 1032/99: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de Portalegre",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   },
+   {
+    "instrucao": "Portaria n.º 459/2000: altera/substitui o quadro de pessoal da Escola Superior de Enfermagem de São João de Deus",
+    "motivo": "O quadro só vem em imagem no diploma que altera e o consolidado não tem anexo com título onde o pôr (confirmado no texto: a portaria remete para 'quadro anexo', que é só imagem)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

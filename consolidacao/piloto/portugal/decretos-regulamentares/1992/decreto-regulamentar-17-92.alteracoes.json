@@ -123,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:292498:por",
-    "alterador": "pt:dre:239457:por"
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
   },
   {
     "artigo": "22.º",
@@ -137,6 +137,62 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:292498:por",
-    "alterador": "pt:dre:239457:por"
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
+  },
+  {
+    "artigo": "29.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.",
+    "depois": "###### Artigo 29.º — Divisão de Auditoria\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
+  },
+  {
+    "artigo": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\nPessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+    "depois": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\nPessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\nPessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)\n\n> Alterado pelo/a [Portaria n.º 414/98](https://diariodarepublica.pt/dr/detalhe/portaria/414-1998-424337), publicado em 1998-07-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
+  },
+  {
+    "artigo": "Divisão de Gestão Financeira e de Contabilidade",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "##### Divisão de Gestão Financeira e de Contabilidade",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
+  },
+  {
+    "artigo": "Divisão de Auditoria",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "##### Divisão de Auditoria",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
   }
 ]

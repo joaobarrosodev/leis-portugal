@@ -292,19 +292,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 132/2019, art. 50.º, alínea g): revoga o artigo 2.º do DL 237/2004 (a norma que deu nova redação ao artigo 59.º); é uma revogação dirigida a outro diploma, não ao texto do original, e não repristina a redação anterior do artigo 59.º, que fica com a redação do DL 237/2004.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigos 1.º, 3.º, 4.º e 7.º (Decretos-Leis n.os 366/99, 262/2002, 187/99, 519-A1/79 e 187/90): outro diploma\nAlterador 2, n.º 1 do artigo 6.º (as referências às tesourarias da Fazenda Pública consideram-se feitas aos serviços de finanças): não textual; regra geral de leitura das remissões, sem nova redação de nenhum artigo\nAlterador 4, artigo 2.º (artigo 8.º do Decreto-Lei n.º 81/2007): outro diploma\nAlterador 7, alínea g) do artigo 50.º (revoga o artigo 2.º do Decreto-Lei n.º 237/2004, que deu a nova redação ao artigo 59.º): outro diploma; a revogação recai sobre a norma que alterou, não sobre o artigo 59.º, que fica com a redação dada pelo Alterador 2\nAlterador 7, alíneas a) a e) e h) a m) do artigo 50.º: outro diploma",
   "instrucoes": [
-    "DL 299/2001, art. 2.º: percentagem do art. 51.º passa a 63% — superada pelas alterações posteriores ao art. 51.º.",
-    "DL 237/2004, art. 2.º: nova redação do art. 59.º (epígrafe 'Tesoureiros de finanças', n.os 1 a 6 mantidos, n.º 7 substituído, n.os 8 a 13 aditados) — aplicado; o artigo 59.º não é revogado por nenhum diploma e fica na resposta (reparo confirmado).",
-    "DL 237/2004, arts. 1.º, 3.º e 4.º: alteram outros diplomas — ignorados.",
-    "DL 36/2008, art. 3.º: nova redação dos arts. 15.º e 45.º — superada pela revogação pelo DL 132/2019.",
-    "DL 212/2008, art. 1.º: art. 51.º a 40% — superada pela Lei 64-B/2011.",
-    "Lei 64-B/2011, art. 178.º: art. 51.º fixa 10% — aplicado.",
-    "DL 17/2017, art. 2.º: nova redação dos arts. 15.º, 16.º, 30.º, 38.º, 41.º e 45.º; art. 4.º revoga 15.º n.º1 c), 30.º n.os 5 e 6, 32.º n.os 4 a 6 — aplicado ao art. 30.º; os restantes ficam revogados pelo DL 132/2019.",
-    "DL 132/2019, art. 50.º, alínea f): revoga os arts. 3.º a 24.º, 28.º, 29.º, 32.º, 37.º a 42.º, 45.º, 46.º, 48.º a 50.º, 67.º a 70.º e 72.º a 76.º — aplicado, um elemento '(Revogado.)' por artigo.",
-    "DL 132/2019, art. 50.º, alínea g): revoga o art. 2.º do DL 237/2004 — não aplicado ao texto (ver nao_aplicavel)."
+    "Alterador 1, art. 2.º: a percentagem do artigo 51.º passa a 63%; ultrapassado pelas novas redações do artigo 51.º dadas pelos Alteradores 4 (40 %) e 5 (10 %), por isso o 51.º fica com a do Alterador 5 (epígrafe '[...]' mantida).",
+    "Alterador 2, art. 2.º: nova redação do artigo 59.º, com a nova epígrafe 'Tesoureiros de finanças', n.os 1 a 6 mantidos ('...') e n.os 7 a 13 novos; o artigo continua na resposta com a chave 59.º (o reparo vinha da mudança de epígrafe).",
+    "Alterador 3, art. 3.º: nova redação dos artigos 15.º e 45.º; Alterador 6, arts. 2.º e 4.º: nova redação dos artigos 15.º, 16.º, 30.º, 38.º, 41.º e 45.º e revogação da alínea c) do n.º 1 do 15.º, dos n.os 5 e 6 do 30.º e dos n.os 4 a 6 do 32.º; todos estes, exceto o 30.º, foram depois revogados por inteiro pelo Alterador 7; o 30.º fica com a redação do Alterador 6 (n.os 1 a 4 novos, 5 e 6 revogados).",
+    "Alterador 4, art. 1.º e Alterador 5, art. 178.º: nova redação do artigo 51.º (fica a do Alterador 5).",
+    "Alterador 7, alínea f) do art. 50.º: revogados os artigos 3.º a 24.º, 28.º, 29.º, 32.º, 37.º a 42.º, 45.º, 46.º, 48.º a 50.º, 67.º a 70.º e 72.º a 76.º (um elemento '(Revogado.)' por artigo); alínea g) revoga o art. 2.º do DL 237/2004 (outro diploma)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

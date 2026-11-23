@@ -1,0 +1,93 @@
+[
+ {
+  "id": "pt:dre:237463:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: novo § único; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: nova redação; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: nova al. c) do § único; a1) e b) «...»; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: § único passa a § 1.º com nova redação e novo § 2.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: novo § único; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: novo § único; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: novo § único; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 10.º: artigo aditado, igual (falta só o título da secção IV, ver instruções).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-B",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 10.º: artigo aditado; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 10.º: artigo aditado; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 49306 art. 6.º: nova redação; igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49306 art. 10.º: os artigos 31.º-A a 31.º-C «constituirão a secção IV do capítulo II», sob a designação «Dos prémios e comissões de transferência e cobrança». O consolidado não tem o título «SECÇÃO IV — Dos prémios e comissões de transferência e cobrança». Sei onde vai: depois do art. 31.º (fim da secção III) e antes do art. 31.º-A."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44828 artigo único: data de entrada em vigor do DL 44701 (art. 34.º) fixada para 1 de Março de 1963",
+    "motivo": "fixação/adiamento da data de vigência sem nova redação do artigo; não vejo o texto do art. 34.º (está nos IGUAIS)"
+   },
+   {
+    "instrucao": "DL 49306 arts. 1.º, 2.º, 3.º, 4.º e 5.º",
+    "motivo": "alteram outros diplomas (DL 44698, DL 45296, DL 44699, DL 44700)"
+   },
+   {
+    "instrucao": "DL 49306 arts. 7.º a 9.º",
+    "motivo": "normas autónomas (instruções, declarações, troca de notas) que não dão nova redação a artigo do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Falta o título da secção IV do capítulo II (ver instrucoes_em_falta); resto sem alterações"
+ }
+]

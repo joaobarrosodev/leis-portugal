@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:466431:por
     title: Decreto Legislativo Regional n.º 28-A/2001/M
     publication_date: '2001-11-13'
-  - id: pt:dre:466431:por
-    title: Decreto Legislativo Regional n.º 28-A/2001/M
-    publication_date: '2001-11-13'
   - id: pt:dre:73766218:por
     title: Decreto Legislativo Regional n.º 10/2016/M
     publication_date: '2016-03-03'
@@ -56,7 +53,7 @@ b) Mapa IX, com os programas e projectos plurianuais.
 
 ###### Artigo 4.º — Cooperação técnica e financeira
 
-1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a celebrar contratos-programa de natureza sectorial ou plurissectorial com uma ou várias autarquias locais, associações de municípios ou empresas concessionárias destes, assim como acordos de colaboração nos termos do disposto no artigo 7.º da Lei n.º 42/98, de 6 de Agosto.
+1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a celebrar contratos-programa de natureza sectorial ou plurissectorial com uma ou várias autarquias locais, associações de municípios ou empresas concessionárias destes, assim como acordos de colaboração nos termos do disposto no artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto.
 
 2 - Os programas e projectos executados pelas autarquias locais da Região Autónoma da Madeira que se encontrem incluídos no Plano de Desenvolvimento Regional e que sejam financiados pelo POPRAM II poderão, nos termos do disposto no n.º 7 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, ser comparticipados até ao limite de 25% pelo Orçamento da Região Autónoma da Madeira, ficando dispensados da celebração de contratos-programa ou de acordos de colaboração.
 
@@ -64,15 +61,17 @@ b) Mapa IX, com os programas e projectos plurianuais.
 
 4 - Os contratos-programa assinados com data anterior a 2001, e cujo término não tenha ocorrido até ao final de 2000, mantêm-se em vigor em 2001, sem quaisquer formalidades adicionais, excepto o novo escalonamento para o Orçamento de 2001 dos encargos que não tenham sido suportados pelo Orçamento de 2000.
 
-5 - Nos termos do n.º 3 do artigo 7.º da Lei n.º 42/98, de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a conceder auxílios financeiros, até ao montante de 20000 contos, para edifícios sede de autarquias locais negativamente afectadas na respectiva funcionalidade.
+5 - Nos termos do n.º 3 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a conceder auxílios financeiros, até ao montante de 20000 contos, para edifícios sede de autarquias locais negativamente afectadas na respectiva funcionalidade.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 ###### Artigo 5.º — Linha de crédito bonificada
 
-1 - Nos termos do n.º 7 do artigo 7.º da Lei n.º 42/98, de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a celebrar protocolos com instituições financeiras com vista à criação de uma linha de crédito bonificada, até ao montante de 7 milhões de contos, a favor das autarquias locais, associações de municípios ou empresas concessionárias destes, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER e aprovados no âmbito do III Quadro Comunitário de Apoio.
+1 - Nos termos do n.º 7 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a celebrar protocolos com instituições financeiras com vista à criação de uma linha de crédito bonificada, até ao montante de 7 milhões de contos, a favor das autarquias locais, associações de municípios ou empresas concessionárias destes, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER e aprovados no âmbito do III Quadro Comunitário de Apoio.
 
 2 - O Governo Regional comparticipará até 70% do valor dos juros a suportar no âmbito da linha de crédito a que se refere o número anterior.
 
@@ -89,6 +88,8 @@ d) O reembolso dos empréstimos será efectuado em prestações trimestrais, igu
 4 - As condições de acesso bem como as condições dos empréstimos e da atribuição das bonificações serão definidas através de decreto regulamentar regional.
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 ###### Artigo 6.º
 
@@ -124,9 +125,9 @@ c) Pagamento antecipado, total ou parcial, de empréstimos já contratados;
 
 d) Conversão de empréstimos existentes, nos termos e nas condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.
 
-e) Assunção de dívida contraída pelo Centro Regional de Saúde e pelo Centro Hospitalar do Funchal até ao montante de 10024100 contos e 1975951 contos, respectivamente.»
+e) Assunção de dívida contraída pelo Centro Regional de Saúde e pelo Centro Hospitalar do Funchal até ao montante de 10024100 contos e 1975951 contos, respectivamente.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431) e [Decreto Legislativo Regional n.º 10/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2016-73766218), publicado em 2016-03-03.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 ###### Artigo 10.º — Alienação de participações sociais em empresas regionais
 
@@ -354,7 +355,7 @@ As receitas cobradas pelas escolas no âmbito da acção social escolar, bem com
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431) e [Decreto Legislativo Regional n.º 10/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2016-73766218), publicado em 2016-03-03.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 10/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2016-73766218), publicado em 2016-03-03.
 
 ###### Artigo 43.º — Recursos próprios de terceiros
 

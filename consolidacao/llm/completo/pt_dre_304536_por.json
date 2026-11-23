@@ -21,19 +21,25 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Retificação art. 3.º n.º 1: «entre os resultados» -> «entre os resultantes»; aplicada.",
-    "Retificação art. 7.º n.º 1: «adoptar-se-á à fórmula geral:» -> «adoptar-se-á a fórmula geral:»; aplicada.",
-    "Retificação art. 9.º n.º 1: «os titulares do direito a indemnização» -> «à indemnização»; aplicada no n.º 1.",
-    "Retificação art. 9.º n.º 2 a): «pelos titulares do direito a indemnização,» -> «à indemnização,»; aplicada."
+    "Retificação, art. 3.º, n.º 1: «entre os resultados» -> «entre os resultantes»; aplicada, só essas palavras trocadas no parágrafo atual.",
+    "Retificação, art. 7.º, n.º 1: «adoptar-se-á à fórmula geral:» -> «adoptar-se-á a fórmula geral:»; aplicada.",
+    "Retificação, art. 9.º, n.º 1: «os titulares do direito a indemnização» -> «os titulares do direito à indemnização»; aplicada.",
+    "Retificação, art. 9.º, n.º 2, alínea a): «pelos titulares do direito a indemnização,» -> «pelos titulares do direito à indemnização,»; aplicada.",
+    "Reparos sobre parágrafos que não estão no alterador nem no original: confirmados como falsos; uma retificação «onde se lê … deve ler-se …» troca só as palavras indicadas, e o parágrafo resultante é o atual com essa troca."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [
     "3.º: parágrafo que não está no alterador nem no original: 1 - O valor a atribuir às participações financeiras detidas pelas empresas nacio",
     "7.º: parágrafo que não está no alterador nem no original: 1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte d",
     "9.º: parágrafo que não está no alterador nem no original: 1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipu",
     "9.º: parágrafo que não está no alterador nem no original: a) Um, designado pelos titulares do direito à indemnização, a identificar, junto"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

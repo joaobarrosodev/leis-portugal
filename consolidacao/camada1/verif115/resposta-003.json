@@ -1,0 +1,116 @@
+[
+ {
+  "id": "pt:dre:212013:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Bloco do original (arts. 49.º a 71.º agregados): aplicados Lei 85/2001 art. 2.º (alínea c) do art. 62.º), art. 3.º (alíneas l) a n) do art. 63.º), art. 4.º (nova redação do art. 71.º, epígrafe e corpo, 430 milhões); Lei 4/2002 art. 2.º (art. 64.º-A após o 64.º), art. 3.º (art. 66.º-A após o 66.º), art. 4.º (art. 70.º, 940 milhões, epígrafe mantida). Texto letra a letra conforme.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração n.º 8/2001: publica os mapas I a VIII modificados",
+    "motivo": "texto só em imagem (PDF) e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Lei 85/2001 art. 1.º: mapas I a IV e IX substituem na parte respetiva os da Lei 30-C/2000",
+    "motivo": "texto novo só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Lei 4/2002 art. 1.º: mapa I substitui na parte respetiva o mapa I",
+    "motivo": "texto novo só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Acórdão n.º 10/2001: inconstitucionalidade com força obrigatória geral dos n.os 1 e 2 do art. 9.º (na incidência na Madeira)",
+    "motivo": "declaração de inconstitucionalidade sem eliminar o texto; não textual"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:222226:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme Lei 72/88 art. 2.º (redação final «nos termos da Constituição e do presente diploma»); n.º 3 aditado pela Lei 24/87; n.º 2 inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 conforme Lei 72/88 art. 2.º; n.os 3 e 4 revogados pelo art. 4.º da Lei 72/88.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Lei 24/87 art. 2.º; a Lei 72/88 art. 4.º revoga o art. 2.º da Lei 24/87 (que o aditou), logo fica (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme Lei 72/88 art. 1.º; n.os 2 e 3 inalterados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 a 3 conforme Lei 72/88 art. 2.º; n.º 4 é o antigo n.º 3 (Lei 24/87, «N.º 3 do artigo 4.º do decreto-lei»); n.º 5 da Lei 24/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Lei 24/87: «n.º 2 do artigo 83.º da Constituição» e «com aviso de recepção»; conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto conforme Lei 72/88 art. 1.º (n.º 1 com alíneas a) a h) e n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) conforme Lei 72/88 art. 2.º; alínea d) aditada pelo art. 3.º da Lei 72/88; resto inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Alínea e) e n.º 2 conforme Lei 72/88 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 conforme Lei 24/87 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Conforme Lei 72/88 art. 1.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 72/88 art. 4.º: revogação dos artigos 3.º e 4.º da Lei n.º 20/86",
+    "motivo": "instrução de outro diploma"
+   }
+  ]
+ }
+]

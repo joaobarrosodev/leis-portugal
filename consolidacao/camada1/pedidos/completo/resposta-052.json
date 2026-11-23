@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:390270:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "",
+    "texto": "Compete ao Ministro das Finanças fixar, por portaria, sob parecer do Banco de Portugal, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias, ou por quaisquer outras entidades.",
+    "alterador": 1
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "",
+    "texto": "1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) As comissões de cobrança;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3 - (Revogado.)",
+    "alterador": 3
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação do artigo 1.º; aplicada.",
+   "Alterador 1, arts. 2.º e 3.º: disposições próprias; art. 4.º altera o artigo 16.º do Decreto-Lei n.º 48948 (outro diploma); não alteram o original.",
+   "Alterador 2, art. 1.º: nova redação do artigo 2.º: n.os 1 e 2, alíneas b) e c) mantidas, alínea a) passa a «As comissões de cobrança;», n.º 3 com nova redação; aplicado. Reparo falso: a nova alínea a) vem expressamente do art. 1.º do Decreto-Lei n.º 9/78 (alterador 2).",
+   "Alterador 3, artigo único: revoga o n.º 3 do artigo 2.º; aplicado (a redação do alterador 2 para o n.º 3 fica substituída pela revogação)."
+  ]
+ }
+]

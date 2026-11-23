@@ -40,8 +40,12 @@ OCC = "pt:dre:70196966:por"  # Lei n.º 139/2015
 
 
 def test_ambito_dos_avulsos():
-    assert len(pa.AVULSOS) == 48
-    assert {b.arquivo for b in pa.AVULSOS} == {"avulsos-saude", "avulsos-seguranca-social", "avulsos-habitacao", "avulsos-consumo", "avulsos-familia"}
+    assert len(pa.AVULSOS) == 48 + 7  # a 1.ª leva e a 2.ª
+    assert {b.arquivo for b in pa.AVULSOS} == {"avulsos-saude", "avulsos-seguranca-social", "avulsos-habitacao", "avulsos-consumo", "avulsos-familia",
+                                               "avulsos-justica", "avulsos-impostos"}
+    # O Estatuto dos Benefícios Fiscais: só o anexo, não o articulado do DL 215/89.
+    assert pa.bloco_de("pt:dre:620928:por", "Anexo — ESTATUTO DOS BENEFÍCIOS FISCAIS::58.º-A").arquivo == "avulsos-impostos"
+    assert pa.bloco_de("pt:dre:620928:por", "1.º") is None
     assert pa.bloco_de(UTENTE, "3.º").arquivo == "avulsos-saude"
     assert pa.bloco_de(UTENTE, "3.º").nome == "lei-15-2014-utente-saude"
     # Nos quatro com o regime num anexo, só o anexo: o articulado que o aprova fica de fora.
@@ -73,6 +77,8 @@ def test_ficheiros_de_perguntas_batem_com_o_ambito():
         "A Lei de Defesa do Consumidor obriga a loja a trocar?",
         "O Estatuto do Cuidador Informal dá-me folgas?",
         "A lei de bases da saúde garante consulta?",
+        "O Estatuto dos Benefícios Fiscais isenta a casa?",
+        "Que isenções dá o EBF a quem compra casa?",
     ],
 )
 def test_validar_recusa_nomes_dos_avulsos(pergunta):

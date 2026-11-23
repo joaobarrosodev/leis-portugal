@@ -69,18 +69,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (DL 164/84) art. 3.º manda ler «Ministério do Equipamento Social» onde se lê «Ministério da Habitação e Obras Públicas»; o texto atual só tem «Ministro da Habitação e Obras Públicas» (arts. 19.º, n.º 1, b), e 27.º), que a instrução não nomeia; não substituído. Alterador 2 (DL 46/94) art. 91.º, alínea t): norma derrogatória (o original não se aplica na matéria daquele diploma), não é alteração textual; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º, substituição de «Ministério da Habitação e Obras Públicas» por «Ministério do Equipamento Social»: alvo incerto (o texto atual só diz «Ministro da Habitação e Obras Públicas», nos artigos 19.º, n.º 1, alínea b), e 27.º; a expressão «Ministério» não aparece, e não se troca «Ministro» por inferência)\nAlterador 2, art. 91.º, n.º 1, alínea t), do DL 46/94 (o DL 403/82 não se aplica na matéria respeitante ao DL 46/94): revogação condicional (derrogação limitada à matéria do novo diploma, sem revogar o texto)",
   "instrucoes": [
-    "Alterador 1 (DL 164/84) art. 1.º: aditado n.º 5 ao artigo 2.º e n.ºs 3 e 4 ao artigo 4.º; aplicado.",
-    "Alterador 1 art. 2.º: nova redação dos artigos 14.º, 15.º n.º 1, 16.º, 17.º n.º 2, 21.º alínea f), 22.º (epígrafe '(Coimas)'), 23.º (epígrafe '(Outras obrigações dos infractores)') e 24.º n.º 1; aplicado, mantendo do texto atual os números e alíneas com '...'.",
-    "Alterador 1 art. 3.º: substituição global de «multa» por «coima» (só restava no artigo 25.º, n.ºs 2 e 3, 'multas' -> 'coimas'; nos 22.º e 23.º o texto foi todo substituído), «Secretaria de Estado do Ordenamento e Ambiente» por «Secretaria de Estado do Ambiente» (só existia nos 15.º, 23.º e 24.º, já substituídos) e «Ministério da Habitação e Obras Públicas» (sem ocorrências; ver nao_aplicavel).",
-    "Alterador 1 art. 4.º: aplicação nas Regiões Autónomas; norma própria, ignorada.",
-    "Alterador 2 (DL 46/94) art. 91.º: derrogação, não textual; nada a aplicar."
+    "Alterador 1, art. 1.º: aditado o n.º 5 ao art. 2.º e os n.os 3 e 4 ao art. 4.º; restantes números do texto atual.",
+    "Alterador 1, art. 2.º: nova redação dos arts. 14.º, 15.º n.º 1, 16.º, 17.º n.º 2, 21.º alínea f), 22.º (epígrafe «(Coimas)»), 23.º (epígrafe «(Outras obrigações dos infractores)») e 24.º n.º 1; os '...' ficam com o texto atual.",
+    "Alterador 1, art. 3.º: onde se lê «multa» passa a ler-se «coima»: aplicado ao art. 25.º, n.os 2 e 3 («multas» > «coimas»), o único artigo não substituído que ainda tinha a palavra. O reparo ao 25.º vem desta substituição global, que está no alterador 1 (art. 3.º); por isso mantém-se. «Secretaria de Estado do Ordenamento e Ambiente» só aparecia em artigos já substituídos (15.º, 23.º, 24.º). «Ministério da Habitação e Obras Públicas» não aparece (ver nao_aplicavel).",
+    "Alterador 1, art. 4.º: aplicação nas Regiões Autónomas; não altera o texto.",
+    "Alterador 2: derrogação na matéria do DL 46/94 (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [
     "25.º: parágrafo que não está no alterador nem no original: 2 - Os equipamentos, meios de acção e inertes apreendidos e removidos nas condiç",
     "25.º: parágrafo que não está no alterador nem no original: 3 - Nos casos de transgressões consideradas graves pela Direcção-Geral dos Recur"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

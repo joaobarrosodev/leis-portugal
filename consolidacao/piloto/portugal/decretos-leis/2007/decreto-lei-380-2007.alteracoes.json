@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO I — Bases da concessão",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — Bases da concessão",
+    "depois": "## ANEXO I — Bases da concessão\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0306103099.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2009-608685), publicado em 2009-05-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:629160:por",
+    "alterador": "pt:dre:608685:por"
+  }
+]

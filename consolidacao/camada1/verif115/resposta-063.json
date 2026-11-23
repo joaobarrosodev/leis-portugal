@@ -1,0 +1,278 @@
+[
+ {
+  "id": "pt:dre:667147:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 64-A/2000 art 1 (art 7.º): n.º 1 mantido, n.º 2 e n.º 3 novos; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 64-A/2000: novo n.º 4; resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 257/95: «nos artigos 4.º e 120.º». A instrução do DL 329-B/2000 encabeçada «Artigo 12.º» (n.º 2 «referidas no número anterior... artigos 38.º e 39.º») é texto do art. 13.º: ver Artigo 13.º #2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #2",
+    "veredicto": "dúvida",
+    "motivo": "O DL 329-B/2000 art 1 encabeça a alteração com «Artigo 12.º» (n.º 1 «...», n.º 2 «A realização das obras referidas no número anterior... artigos 38.º e 39.º»), mas o art. 12.º original não tem n.os; o texto corresponde ao n.º 2 do art. 13.º. O consolidado aplicou-o ao 13.º (n.º 2 «artigos 38.º e 39.º»); resultado plausível mas a instrução literal visa o art. 12.º (numeração do alterador errada).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.os 1, 3 a 16 novos, n.º 2 mantido; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.os 1-4 mantidos, novo n.º 5; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: corpo substituído; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93: corpo único «permitida nos casos previstos...»; n.º 2 original desaparece; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 (alínea a)) e DL 329-B/2000 (alíneas a) e b)); consolidado igual à redação final do DL 329-B.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.os 1-3 novos; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.os 1-3 novos, n.º 4 = anterior n.º 3; igual. Ac. 114/98 (n.º 1) não textual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.os 1, 2 e 4 novos, n.º 3 mantido; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: novo n.º 3, anterior n.º 3 passa a 4; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: só alínea e) do n.º 1 alterada; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 (corpo do n.º 1) e DL 329-B/2000 (alíneas a) a d)); igual. Ac. 55/99 não textual (e a alínea foi reescrita pelo DL 329-B).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: novo n.º 3; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: nova epígrafe, n.os 1 e 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93: n.º 1 e novo n.º 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 artigo novo + Lei 13/94 (n.º 2 novo, antigo n.º 2 passa a 3); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "DL 163/95 art 3: n.º 4 novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Lei 135/99 (alínea e) «dois anos», novo n.º 2, renumeração 3 e 4) e Lei 6/2001 (alínea f)); igual (pontuação do fim da e) não é erro de substância).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93: n.º 1 novo, n.º 2 mantido. O n.º 3 fica no consolidado: repristinação pelo Ac. TC 410/97 (inconstitucionalidade da eliminação do n.º 3 do art. 89.º), coerente. A secção do consolidador não menciona este acórdão.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 art 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º-B",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 art 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 art 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º-D",
+    "veredicto": "certo",
+    "motivo": "DL 278/93 art 2 (sem epígrafe); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "DL 278/93: n.º 2 novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 107.º",
+    "veredicto": "certo",
+    "motivo": "DL 329-B/2000: n.º 1 (corpo e alíneas a), b)) novo, n.º 2 mantido; igual. Ac. 97/2000 não textual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "DL 64-A/2000: novo n.º 3; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "DL 64-A/2000: n.º 3 novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 2: novo art. 117.º; o antigo 117.º passa a 121.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 2: novo art. 118.º; o antigo 118.º passa a 122.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 119.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 2: artigo novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 120.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 2: artigo novo; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 arts 3 e 4: antigo 117.º renumerado, com nova redação; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 3 (antigo 118.º) + DL 64-A/2000 (n.º 2 novo); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 123.º",
+    "veredicto": "certo",
+    "motivo": "DL 257/95 art 5: artigo novo; igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Alterador 4 (DL 257/95) art 5.º: aditamento do título «CAPÍTULO V — Do arrendamento para outros fins não habitacionais» antes do artigo 123.º: o consolidado não tem este capítulo (a lista de artigos iguais termina em CAPÍTULO IV). O alvo é claro (antes do art. 123.º), 'alvo incerto' não é justificação.",
+   "Alterador 4 (DL 257/95) arts 2.º e 3.º: os novos artigos 117.º a 120.º ficam no capítulo III e os antigos 117.º e 118.º passam a 121.º e 122.º (capítulo IV); o título do CAPÍTULO IV está antes do 117.º (depois do 116.º) quando devia estar antes do 121.º."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Alterador 3 (DL 163/95) arts 1.º e 2.º: alterações ao Código Civil",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Alterador 6, Ac. TC 114/98: inconstitucionalidade com força obrigatória geral do n.º 1 do art. 36.º",
+    "motivo": "Confirmado no acórdão: declaração de inconstitucionalidade sem eliminar o texto; além disso o DL 329-B/2000 reescreveu o n.º 1."
+   },
+   {
+    "instrucao": "Alterador 7, Ac. TC 55/99: inconstitucionalidade do art. 69.º n.º 1 a) na parte dos descendentes em 1.º grau",
+    "motivo": "Confirmado no acórdão: declaração de inconstitucionalidade sem eliminar o texto (a alínea foi depois reescrita pelo DL 329-B/2000)."
+   },
+   {
+    "instrucao": "Alterador 9, Ac. TC 97/2000: inconstitucionalidade do art. 107.º n.º 1 b)",
+    "motivo": "Confirmado no acórdão: declaração de inconstitucionalidade sem eliminar o texto (a alínea foi reescrita pelo DL 329-B/2000)."
+   },
+   {
+    "instrucao": "Alterador 10, DL 64-A/2000 art 2.º: revogação de alíneas do Código do Notariado",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Alterador 11, DL 329-B/2000 arts 2.º a 4.º: Lei 2088, DL 105/96 e DL 68/86",
+    "motivo": "Outros diplomas."
+   },
+   {
+    "instrucao": "Alterador 13, Lei 7/2001 (art 10.º revoga a Lei 135/99)",
+    "motivo": "Outro diploma: revogar a lei alteradora não desfaz a redação já dada ao art. 85.º; o resto da lei não traz instrução dirigida ao RAU."
+   },
+   {
+    "instrucao": "Alterador 14, Lei 6/2006 art 60.º n.º 1: revoga o RAU 'salvo nas matérias a que se referem os artigos 26.º e 28.º'",
+    "motivo": "Revogação com ressalva material (do tipo condicional): não identifica artigos do RAU, aplicá-la ao texto seria errado. A secção diz 'alvo incerto', que por si não justificaria."
+   },
+   {
+    "instrucao": "Alterador 15, Lei 29/2009",
+    "motivo": "O diploma que altera não traz texto (vazio)."
+   },
+   {
+    "instrucao": "Alterador 16, Lei 24/2017",
+    "motivo": "Outro diploma: não contém instrução ao RAU (só aparece o DL 321-B/90 na lista de alterações do Código Civil)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Títulos de capítulo: falta o «CAPÍTULO V — Do arrendamento para outros fins não habitacionais» antes do art. 123.º e o título CAPÍTULO IV está antes do art. 117.º em vez de antes do 121.º; o resto sem alterações."
+ }
+]

@@ -2,15 +2,39 @@
   "id": "pt:dre:241999:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Resolução 15/2003/M): o art. 1.º substitui o quadro de pessoal pelo anexo I, que só vem em imagem (\"ver quadro no documento original\"); o art. 4.º muda a designação das categorias (encarregado/auxiliar de bar para cafetaria; encarregado de pessoal auxiliar parlamentar) sem dar nova redação aos artigos 36.º-J, 36.º-K e 36.º-H, por isso não é uma alteração textual; os arts. 2.º e 3.º integram carreiras e mandam aplicar o 36.º-F, sem alterar texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (novo quadro de pessoal no anexo I): só em imagem — o quadro novo vem só como «(ver quadro no documento original)», sem endereço da imagem, e é o quadro de pessoal da Assembleia previsto no artigo 31.º, n.º 2, do DLR 24/89/M; o corpo do «ANEXO I» do original está vazio e a imagem atual está sob o subtítulo «Anexo a que se refere o artigo 15.º, n.º 2», que se repete\nAlterador 1, arts. 2.º e 3.º (integração das carreiras de informática e de ecónomo parlamentar): não textual — integração de carreiras e transição de pessoal, sem alterar texto; os artigos 36.º, 36.º-B, 36.º-C e 36.º-F citados são do DLR 24/89/M na redação dada pelo original\nAlterador 1, art. 4.º (as categorias dos artigos 36.º-H, 36.º-J e 36.º-K passam a designar-se de outro modo): não textual — designação de categorias, sem nova redação; os artigos são do DLR 24/89/M na redação dada pelo original\nAlterador 2, DLR 14/2005/M: sem texto — o pedido não traz nenhum artigo do alterador (os anexos IV e V que republica não vêm no pedido)\nAlterador 3, DLR 16/2012/M: sem texto — o pedido não traz nenhum artigo do alterador\nAlterador 4, arts. 1.º e 2.º (artigos 46.º e 47.º do DLR 24/89/M): outro diploma — alteram o DLR 24/89/M, a que o original só deu redação",
   "instrucoes": [
-    "Alterador 1, art. 1.º: novo quadro de pessoal no anexo I, só em imagem; não aplicado.",
-    "Alterador 1, arts. 2.º e 3.º: integração de carreiras de informática e aplicação do art. 36.º-F à carreira de ecónomo; não alteram texto; nada a fazer.",
-    "Alterador 1, art. 4.º: nova designação de categorias dos arts. 36.º-J, 36.º-K e 36.º-H, sem redação nova; não aplicado ao texto.",
-    "Alteradores 2 e 3: sem artigos que mencionem o original; nada a fazer.",
-    "Alterador 4, arts. 1.º e 2.º: alteram os arts. 46.º e 47.º do DLR 24/89/M (outro diploma); ignorados."
+    "Alterador 1 (Res. ALR 15/2003/M), art. 1.º: novo quadro de pessoal só em imagem sem endereço; não aplicado",
+    "Alterador 1, arts. 2.º a 4.º: integração e redesignação de carreiras do DLR 24/89/M; não textual, não aplicado",
+    "Alterador 2 (DLR 14/2005/M): sem artigos no pedido; não aplicado",
+    "Alterador 3 (DLR 16/2012/M): sem artigos no pedido; não aplicado",
+    "Alterador 4 (DLR 2/2015/M): altera arts. 46.º e 47.º do DLR 24/89/M (outro diploma); ignorado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": [
+    "21.º: o DRE diz «Alterada a alínea h) do artigo 21.º, a alínea e) do artigo 22.º-B, os artigos 23.º, 36.º-B» (Decreto Legislativo Regional n.º 14/2005/M) e nem a resposta nem as regras o mudam",
+    "9.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "12.º-B: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "14.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "20.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "21.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "22.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "23.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "24.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "27.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "28.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "32.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "34.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "36.º-A: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "40.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "57.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "58.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam",
+    "59.º: o DRE diz «Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A» (Decreto Legislativo Regional n.º 16/2012/M) e nem a resposta nem as regras o mudam"
+  ]
 }

@@ -1,0 +1,54 @@
+[
+ {
+  "id": "pt:dre:430025:por",
+  "artigos": [
+   {
+    "chave": "9.º",
+    "epigrafe": "",
+    "texto": "1 - O Instituto Politécnico de Coimbra agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Escola Superior Agrária.\n\n2 - A Escola Superior Agrária a que se refere o número anterior resultará da reconversão da Escola de Regentes Agrícolas de Coimbra.",
+    "alterador": 1
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "",
+    "texto": "O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.\n\n2 - (Revogado.)",
+    "alterador": 6
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "",
+    "texto": "1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - (Revogado.)",
+    "alterador": 6
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "",
+    "texto": "1 - São criadas:\n\na) (Revogada.)\n\nb) A Escola Superior de Tecnologia de Tomar.\n\n2 - (Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "20.º",
+    "epigrafe": "",
+    "texto": "A concretização da reconversão das escolas de regentes agrícolas prevista neste diploma far-se-á por decreto-lei.",
+    "alterador": 1
+   },
+   {
+    "chave": "23.º",
+    "epigrafe": "",
+    "texto": "É revogada toda a legislação em contrário, nomeadamente:\n\na) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, articulação da Universidade do Algarve com o Instituto Politécnico de Faro e reconversão das escolas deste (arts. 1.º e 16.º): não textual — regula de novo o Instituto sem dar nova redação nem revogar o artigo 10.º do original.\nAlterador 4, extinção do Instituto Politécnico de Faro (art. 1.º): não textual — extingue o Instituto sem revogar nem alterar a alínea e) do artigo 5.º nem o artigo 10.º.\nAlterador 5, criação e extinção de institutos e escolas (arts. 1.º a 8.º, incluindo a extinção da Escola Superior de Tecnologia de Tomar): não textual — não dá nova redação nem revoga artigos do original (por exemplo, a alínea b) do n.º 1 do artigo 17.º).\nAlterador 6, integração das escolas superiores de tecnologia da saúde nos Institutos Politécnicos de Coimbra, Lisboa e Porto (art. 1.º): não textual — não adita alíneas aos artigos 9.º, 11.º e 12.º.",
+  "instrucoes": [
+   "Alterador 1 (Lei 29/80), art. 1.º: nova redação do n.º 2 do artigo 9.º (n.º 1 «...» fica) e do artigo 20.º.",
+   "Alterador 1, art. 2.º: revogadas as alíneas b) e c) do n.º 1 do artigo 9.º, as alíneas b) e c) e o n.º 2 dos artigos 11.º e 12.º, a alínea a) do n.º 1 e o n.º 2 do artigo 17.º e as alíneas b) e c) do artigo 23.º.",
+   "Alterador 2 (DL 333/88), artigo único: nova redação do proémio («é composto pelos seguintes») e da alínea e) («Escola Superior de Comunicação Social») do artigo 11.º; a) a d) «...» ficam como estavam (b e c já revogadas). O reparo diz que nenhum alterador muda o proémio nem a alínea e), mas o texto do DL 333/88 dá-lhes nova redação; por isso apliquei-a.",
+   "Alterador 6 (DL 175/2004), art. 13.º, n.º 1: revogadas a alínea d) do n.º 1 do artigo 11.º e a alínea d) do n.º 1 do artigo 12.º; o resto do art. 13.º é de outros diplomas.",
+   "Alteradores 3, 4 e 5 e art. 1.º do alterador 6: sem instrução textual sobre o original; vão em nao_aplicavel."
+  ]
+ }
+]

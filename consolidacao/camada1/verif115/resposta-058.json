@@ -1,0 +1,88 @@
+[
+ {
+  "id": "pt:dre:569887:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova alínea j) e n.º 2 do DL 237/2004; anterior n.º 2 passa a n.º 3",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.º 3 do DL 237/2004; n.os 1, 2, 4 iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "n.os 2 e 3 novos e anterior n.º 3 passa a n.º 4 (DL 237/2004); anterior n.º 2 sai",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Corpo único do DL 237/2004; n.os 1 e 2 antigos substituídos",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.os 1 e 2 do DL 237/2004; anterior n.º 3 sai",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 3/2000, art. 2.º; assinaturas mantidas",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 237/2004, art. 1.º, artigo 9.º do DL 366/99 (nova alínea j) «Instalações;» no n.º 2, anterior alínea j) passa a l), novo n.º 3 «As unidades de apoio referidas nas alíneas b) a j) do número anterior podem possuir o nível de direcção de serviços, e a prevista na alínea l) constitui um núcleo.»): sem efeito no consolidado (artigo 9.º está na lista dos IGUAIS); o alvo é o artigo 9.º do original, portanto não justificável"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 237/2004 arts. 2.º a 4.º e 7.º (alteram DL 557/99, DL 262/2002, DL 187/99; revogam DL 519-A1/79 e art. 10.º do DL 187/90)",
+    "motivo": "Instruções de outros diplomas"
+   },
+   {
+    "instrucao": "DL 18/2005 (transferência de serviços fiscais para a Madeira) e DRR 4/2017/M",
+    "motivo": "Sem instrução dirigida ao DL 366/99; a DRR só o refere ao remeter para o art. 23.º"
+   },
+   {
+    "instrucao": "DL 118/2011, art. 15.º, n.º 2: mantém-se em vigor o n.º 5 do art. 6.º e os n.os 1 e 2 do art. 23.º do DL 366/99",
+    "motivo": "Não é textual: manutenção em vigor, sem nova redacção"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:576960:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alínea g) aditada pelo DL 95/85 e alínea h) pelo DL 62/90; restantes números iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 115/2026/2 (altera e republica o quadro anexo à Portaria 606/2009)",
+    "motivo": "Instrução de outro diploma: o DL 233/81 só surge como habilitação («ao abrigo do n.º 2 do artigo 1.º»)"
+   },
+   {
+    "instrucao": "DL 62/90, arts. 2.º a 8.º (funcionamento, quadro e estatuto da Missão Militar junto do Colégio de Defesa OTAN)",
+    "motivo": "Normas autónomas, não alteram o DL 233/81"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

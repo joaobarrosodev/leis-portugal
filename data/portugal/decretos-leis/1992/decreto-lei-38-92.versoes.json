@@ -1,0 +1,317 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:187932:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "88016c82c2743ad2",
+    "b75c2d3be001d5d8",
+    "cf29384f3dc55c6a",
+    "9aab6793ddd6aa4e",
+    "1b69cfc5e7b40dc2",
+    "c1aa228ae4cce108",
+    "83f5e542696e9dbd",
+    "a3356353eabfc7f4",
+    "c1da43ffb9fcec25",
+    "afe7788d0ef03450",
+    "8cb40f54920534fc",
+    "98e212314274b968",
+    "2c1cda9d01afa425",
+    "895756b4d772e867",
+    "0114dfc104fbb0ea",
+    "724ab5dd52f8319d"
+   ]
+  },
+  {
+   "date": "2023-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211499215:por",
+     "title": "Decreto-Lei n.º 24/2023",
+     "published": "2023-04-06",
+     "dre_path": "/dr/detalhe/decreto-lei/24-2023-211499215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 12.º-B",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "88016c82c2743ad2",
+    "b75c2d3be001d5d8",
+    "cf29384f3dc55c6a",
+    "9aab6793ddd6aa4e",
+    "1b69cfc5e7b40dc2",
+    "ee1da9a7fdfcdbdf",
+    "63c07bc0dcb537aa",
+    "4aabed124437eae8",
+    "07a7afe15568f7b4",
+    "afe7788d0ef03450",
+    "8cb40f54920534fc",
+    "a7b775354d3a413a",
+    "e630491266e0ac48",
+    "5b4d19ccfe9872f7",
+    "1d76f6ac940382a1",
+    "fb844c8c3bc48508",
+    "514f91c6f035c421",
+    "724ab5dd52f8319d"
+   ]
+  }
+ ],
+ "fragments": {
+  "88016c82c2743ad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março\n\nA actividade de transporte de doentes não está no nosso país devidamente regulamentada, do que resultam graves inconvenientes quanto à rentabilidade dos meios existentes e à eficiência dos serviços prestados.\n\nTorna-se necessário, portanto, proceder ao enquadramento de tal actividade considerando as suas implicações quer no plano dos cuidados de saúde, quer no plano das exigências de segurança rodoviária.\n\nÉ inegável o interesse de a comunidade em geral e de os doentes em particular disporem de uma rede de transportes de saúde que lhes garanta a cabal satisfação das suas necessidades nesta matéria.\n\nA actividade de transporte de doentes, independentemente de quem a exerce, assume grande relevância na prestação dos cuidados de saúde e está, por isso mesmo, sujeita à disciplina e inspecção do Ministério da Saúde, conforme estipulado no n.º 2 da base XXIII da [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto.\n\nDaí que o exercício de tal actividade deva processar-se segundo modelos técnicos e organizacionais que se coadunem eficazmente com os restantes serviços de saúde.\n\nO relevante papel que as corporações de bombeiros têm desempenhado neste âmbito, voluntariosamente e de modo duradouro, impõe, a justo título, algumas especificidades de regime.\n\nForam ouvidos o Serviço Nacional de Bombeiros, a Liga dos Bombeiros Portugueses e os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "b75c2d3be001d5d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A actividade de transporte de doentes, efectuada por via terrestre, rege-se pelo disposto no presente decreto-lei e sua regulamentação.\n\n2 - O presente diploma não abrange o transporte de doentes efectuado por forças militares ou militarizadas, salvo nos casos em que haja para o efeito acordo celebrado com os serviços do Ministério da Saúde."
+  },
+  "cf29384f3dc55c6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autorização\n\n1 - O exercício da actividade de transporte de doentes depende de autorização do Ministro da Saúde, a conceder nos termos do disposto no presente diploma.\n\n2 - A actividade de transporte de doentes só pode ser exercida por pessoas colectivas.\n\n3 - Sem prejuízo do disposto no n.º 1, o exercício da actividade de transporte de doentes por entidade tutelada por outros Ministérios depende ainda de autorização dos respectivos membros do Governo.\n\n4 - A autorização referida nos números anteriores depende de requerimento, do qual deve constar obrigatoriamente:\n\na) A área territorial onde se pretende exercer habitualmente a actividade;\n\nb) A natureza dos transportes a realizar;\n\nc) O número de veículos existentes a efectuar e suas características;\n\nd) Certidão do instrumento de constituição de pessoa colectiva e certidão comprovativa dos necessários registos;\n\ne) Certificados dos registos criminal e comercial referentes aos indivíduos encarregados da administração, direcção ou gerência social, comprovativos da inexistência de inibição do exercício do comércio por ter sido declarada falência ou insolvência, enquanto não for levantada a inibição ou decretada a reabilitação do falido.\n\n5 - No caso das associações ou corporações de bombeiros é dispensada a apresentação dos documentos mencionados na alínea e) do número anterior, que são substituídos por documento comprovativo do auto de posse do respectivo órgão directivo, reconhecido notarialmente."
+  },
+  "9aab6793ddd6aa4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Concessão de alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessão de alvará\n\n1 - Na concessão de alvará são considerados os seguintes requisitos:\n\na) Sede em território nacional;\n\nb) Capacidade financeira necessária para assegurar a boa gestão da entidade transportadora;\n\nc) Comprovada capacidade profissional do responsável pela frota de transporte afecta ao transporte de doentes, mediante atestado de capacidade profissional, a emitir pelo Ministério da Saúde.\n\n2 - No caso das entidades de utilidade pública é dispensada a prova dos requisitos previstos nas alíneas a) e b) do número anterior."
+  },
+  "1b69cfc5e7b40dc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Critérios de atribuição de alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de atribuição de alvará\n\nNa atribuição de alvarás são tomados em consideração os seguintes critérios:\n\na) Natureza dos serviços a prestar e da área de actuação;\n\nb) Avaliação dos meios existentes;\n\nc) Verificação da necessidade de mais operadores na área respectiva;\n\nd) Avaliação das condições técnicas, considerando a natureza dos transportes que a entidade se propõe realizar, designadamente no respeitante a meios humanos e materiais;\n\ne) Características dos respectivos veículos e seu equipamento."
+  },
+  "c1aa228ae4cce108": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Cassação do alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cassação do alvará\n\nO alvará é intransmissível e será cassado:\n\na) Se o titular não iniciar a exploração no prazo de um ano a contar da data de emissão do alvará;\n\nb) Se deixarem de se verificar os requisitos previstos no artigo 3.º;\n\nc) Se o titular deixar de possuir recursos humanos e técnicos adequados."
+  },
+  "83f5e542696e9dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Veículos utilizados no transporte de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Veículos utilizados no transporte de doentes\n\n1 - Os veículos utilizados no transporte de doentes devem ser previamente licenciados pela Direcção-Geral de Viação.\n\n2 - As características específicas dos veículos que podem efectuar o transporte de doentes serão fixadas por portaria conjunta dos Ministros da Administração Interna e da Saúde.\n\n3 - As licenças das viaturas são canceladas pela Direcção-Geral de Viação nos seguintes casos:\n\na) Cassação do alvará;\n\nb) Penhora dos respectivos veículos;\n\nc) Transferência de propriedade dos veículos a que respeitem;\n\nd) Cancelamento da matrícula dos respectivos veículos;\n\ne) Manutenção por períodos superiores a 60 dias das causas de suspensão da licença previstas no número seguinte.\n\n4 - As licenças podem ser suspensas até que cesse a situação determinante da suspensão, quando os veículos a que respeitam:\n\na) Não forem aprovados em inspecção;\n\nb) Não se apresentem, sem motivo justificado, às inspecções a que estão obrigados;\n\nc) Tenham sido apreendidos."
+  },
+  "a3356353eabfc7f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Concessão de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Concessão de licenças\n\nOs requerimentos para a concessão de licenças são entregues na Direcção-Geral de Viação e deles deve constar sempre:\n\na) A denominação e a sua sede social;\n\nb) A indicação do respectivo número do alvará;\n\nc) A indicação do tipo de veículo e a respectiva matrícula."
+  },
+  "c1da43ffb9fcec25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inspecções\n\n1 - Sem prejuízo do regime geral aplicável às inspecções de veículos automóveis, os veículos para o transporte de doentes são obrigatoriamente sujeitos a inspecção, nos seguintes termos:\n\na) Aquando do seu licenciamento;\n\nb) Quando tenham sofrido acidente que obrigue à interrupção da circulação por um prazo superior a 90 dias.\n\n2 - Por decreto regulamentar serão definidas as situações em que a Direcção-Geral de Viação pode ordenar a inspecção de veículos, para além dos definidos no número anterior."
+  },
+  "afe7788d0ef03450": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Identificação\n\nOs veículos de transporte de doentes devem ser assinalados, de modo a garantir a sua fácil identificação exterior, pela forma que vier a ser definida por despacho conjunto dos Ministros da Administração Interna e da Saúde."
+  },
+  "8cb40f54920534fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime de preços\n\n1 - As tabelas de preços aplicáveis ao transporte de doentes serão aprovadas por portaria do Ministro da Saúde.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se em vigor os acordos celebrados entre os serviços do Ministério da Saúde e as entidades transportadoras de doentes.\n\n3 - Os acordos a que se refere o número anterior serão revistos após a entrada em vigor da portaria a que se refere o n.º 1."
+  },
+  "98e212314274b968": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Coordenação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Coordenação e fiscalização\n\nA regulamentação, coordenação e fiscalização técnica de toda a actividade de transporte de doentes, bem como a definição dos requisitos a preencher pelo pessoal afecto à actividade transportadora, compete ao Ministro da Saúde, sem prejuízo da competência do Ministro da Administração Interna quanto à coordenação e fiscalização dos transportes, características dos veículos, sua utilização e licenciamento."
+  },
+  "2c1cda9d01afa425": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Infracções e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Infracções e coimas\n\n1 - Constitui contra-ordenação, punível com coima de 250000$00 a 500000$00, ou de 3000000$00 a 6000000$00, consoante o agente seja pessoa singular ou colectiva, o exercício sem alvará da actividade de transporte de doentes.\n\n2 - Constitui contra-ordenação, punível com coima de 200000$00 a 1000000$00:\n\na) A utilização para outros fins de veículos afectos ao transporte de doentes;\n\nb) A utilização na actividade de transporte de doentes de veículos não licenciados;\n\nc) O incumprimento do regime de inspecção periódica dos veículos.\n\n3 - Constitui contra-ordenação, punível com coima de 50000$00 a 200000$00 a incorrecta identificação do veículo destinado ao transporte de doentes.\n\n4 - A tentativa e a negligência são puníveis."
+  },
+  "895756b4d772e867": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Processo de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo de contra-ordenação\n\n1 - Às contra-ordenações previstas no presente diploma aplica-se o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.\n\n2 - À Direcção-Geral de Viação incumbe, na área da sua competência, processar as contra-ordenações resultantes das infracções ao presente diploma.\n\n3 - A aplicação das coimas resultantes dos processos de contra-ordenação é da competência do respectivo director-geral.\n\n4 - O produto das coimas previstas no presente diploma reverterá para o estado na percentagem de 70% e o remanescente, em partes iguais, para o Instituto Nacional de Emergência Médica e para a Direcção-Geral de Viação."
+  },
+  "0114dfc104fbb0ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\n1 - Às entidades de utilidade pública que, à data da entrada em vigor do presente diploma, exerçam a actividade de transporte de doentes será concedido imediatamente, pelo período de um ano, o respectivo alvará.\n\n2 - Durante o período de tempo a que se refere o número anterior, devem tais entidades fazer prova da observância dos requisitos mencionados no presente diploma, sob pena de caducidade do alvará concedido.\n\n3 - Para efeitos do disposto no número anterior, no que se refere à observância dos requisitos legalmente exigidos, serão ouvidos o Serviço Nacional de Bombeiros e a Liga dos Bombeiros Portugueses."
+  },
+  "724ab5dd52f8319d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência dos órgãos das Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência dos órgãos das Regiões Autónomas\n\nAs competências conferidas pelo presente diploma serão exercidas, nas Regiões Autónomas dos Açores e da Madeira, pelos órgãos e serviços que nelas prossigam idênticas atribuições.\n\nVisto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Lourenço - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.\n\nPromulgado em 13 de Março de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Março de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva"
+  },
+  "ee1da9a7fdfcdbdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Cassação do alvará",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 5.º — Cassação do alvará\n\nO alvará é intransmissível e será cassado:\n\na) Se o titular não iniciar a exploração no prazo de um ano a contar da data de emissão do alvará;\n\nb) Se deixarem de se verificar os requisitos previstos no artigo 3.º do presente decreto-lei e no Regulamento do Transporte de Doentes, que é aprovado por portaria dos membros do Governo responsáveis pelas áreas da administração interna e da saúde;\n\nc) Se o titular deixar de possuir recursos humanos e técnicos adequados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "63c07bc0dcb537aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Veículos utilizados no transporte de doentes",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 6.º — Veículos utilizados no transporte de doentes\n\n1 - Os veículos utilizados no transporte de doentes devem ser previamente vistoriados pelo Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), que emite um certificado de vistoria.\n\n2 - As características específicas dos veículos que podem efetuar o transporte de doentes são fixadas por portaria dos membros do Governo responsáveis pelas áreas da administração interna e da saúde.\n\n3 - O certificado previsto no n.º 1 é cancelado pelo INEM, I. P., nos seguintes casos:\n\na) Cassação do alvará;\n\nb) Penhora dos respectivos veículos;\n\nc) Transferência de propriedade dos veículos a que respeitem;\n\nd) Cancelamento da matrícula dos respectivos veículos;\n\ne) (Revogada.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "4aabed124437eae8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Concessão de licenças",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 7.º — Concessão de licenças\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "07a7afe15568f7b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Inspecções",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 8.º — Inspecções\n\n1 - São definidas, por decreto regulamentar, as situações em que o Instituto da Mobilidade e dos Transportes, I. P., pode ordenar a inspeção de veículos.\n\n2 - Sem prejuízo do disposto no número anterior e do regime geral aplicável às inspeções de veículos automóveis, os veículos para o transporte de doentes são obrigatoriamente sujeitos a inspeção quando tenham sofrido acidente que obrigue à interrupção da circulação por um prazo superior a 90 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "a7b775354d3a413a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Coordenação e fiscalização",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 11.º — Coordenação e fiscalização\n\nA regulamentação, coordenação e fiscalização técnica de toda a atividade de transporte de doentes, bem como a definição dos requisitos a preencher pelo pessoal afeto à atividade transportadora, compete ao membro do Governo responsável pela área da saúde, sem prejuízo da competência do membro do Governo responsável pela área da administração interna quanto à coordenação e fiscalização dos transportes, características dos veículos e sua utilização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "e630491266e0ac48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Infracções e coimas",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 12.º — Infracções e coimas\n\n1 - Constitui contraordenação, punível com coima de (euro) 1000,00 a (euro) 3000,00, para pessoas singulares, e até ao limite de (euro) 25 000,00, para pessoas coletivas:\n\na) O exercício sem alvará da atividade de transporte de doentes;\n\nb) A utilização para outros fins de veículos afetos ao transporte de doentes;\n\nc) A utilização, na atividade de transporte de doentes, de veículos não vistoriados;\n\nd) A violação dos requisitos, definidos no Regulamento de Transporte de Doentes, para a atribuição de alvará e para as características e equipamentos de veículos;\n\ne) O incumprimento do equipamento mínimo definido por despacho do membro do Governo responsável pela área da saúde para as ambulâncias e veículos dedicados ao transporte de doentes;\n\nf) O exercício da atividade de transporte de doentes por tripulantes que não estejam registados, pelas entidades transportadoras, perante o INEM, I. P.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A tentativa e a negligência são puníveis, sendo, nestes casos, o limite máximo e mínimo da coima reduzidos a metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "5b4d19ccfe9872f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º-A — Sanções acessórias",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 12.º-A — Sanções acessórias\n\n1 - Quando a gravidade da infração o justifique e caso esteja em causa a segurança dos doentes, podem as contraordenações previstas no presente decreto-lei determinar a aplicação das seguintes sanções acessórias:\n\na) A interdição do exercício da atividade;\n\nb) A suspensão de subsídio atribuído pelo INEM, I. P., conexo com a atividade de transporte de doentes urgentes e ou emergentes;\n\nc) A devolução de veículos ou equipamentos cedidos pelo INEM, I. P., ao agente, que tenham sido utilizados como instrumento na prática da infração.\n\n2 - As sanções acessórias referidas nas alíneas a) e b) do número anterior têm a duração máxima de dois anos contados a partir da data da decisão condenatória definitiva.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "1d76f6ac940382a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º-B — Medida cautelar",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 12.º-B — Medida cautelar\n\n1 - Quando se revele necessário para a instrução do processo de contraordenação ou existam fortes indícios da prática de facto que constitua contraordenação nos termos do artigo 12.º, o INEM, I. P., pode apreender, provisoriamente, objetos ou documentos que serviram ou estavam destinados à prática de uma contraordenação.\n\n2 - A medida cautelar determinada nos termos do número anterior vigora, consoante os casos:\n\na) Até ao seu levantamento pelo presidente do conselho diretivo do INEM, I. P., em face da sua desnecessidade para efeitos de prova, ou por decisão judicial;\n\nb) Até decisão definitiva no processo de contraordenação;\n\nc) Até ao início da aplicação da sanção acessória de interdição do exercício da atividade, prevista na alínea a) do n.º 1 do artigo anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "fb844c8c3bc48508": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Processo de contra-ordenação",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.",
+    "Alterado pelo/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 13.º — Processo de contra-ordenação\n\n1 - Às contraordenações previstas no presente decreto-lei aplica-se o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.\n\n2 - Ao INEM, I. P., incumbe, na área da sua competência, processar as contraordenações resultantes das infrações ao presente decreto-lei, bem como aplicar as coimas, as sanções acessórias e as medidas cautelares.\n\n3 - Sem prejuízo do disposto do número anterior, o INEM, I. P., pode confiar a execução de medidas cautelares e sanções acessórias às autoridades policiais.\n\n4 - O produto das coimas previstas no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para o INEM, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06.\n\n> Alterado pelo/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  },
+  "514f91c6f035c421": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+   ],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\n1 - Às entidades de utilidade pública que, à data da entrada em vigor do presente diploma, exerçam a actividade de transporte de doentes será concedido imediatamente, pelo período de um ano, o respectivo alvará.\n\n2 - Durante o período de tempo a que se refere o número anterior, devem tais entidades fazer prova da observância dos requisitos mencionados no presente diploma, sob pena de caducidade do alvará concedido.\n\n3 - Para efeitos do disposto no número anterior, no que se refere à observância dos requisitos legalmente exigidos, são ouvidas a Autoridade Nacional de Emergência e Proteção Civil e a Liga dos Bombeiros Portugueses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215), publicado em 2023-04-06."
+  }
+ }
+}

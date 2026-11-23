@@ -64,6 +64,7 @@ ROTULOS = {
     # STJ e STA (rag.uniformizacao).
     "fixa_jurisprudencia": "Fixa jurisprudência",
     "uniformiza_jurisprudencia": "Uniformiza jurisprudência",
+    "declara_ilegalidade_fog": "Declara a ilegalidade com força obrigatória geral",
 }
 SIGLAS_TRIBUNAIS = {"TC": "do TC", "STJ": "do STJ", "STA": "do STA"}
 
@@ -313,7 +314,7 @@ _NOME_CODIGO = re.compile(
     r"Lei\s+de\s+Processo\s+nos\s+Tribunais|Lei\s+de\s+Organização\s+e\s+Processo|"
     r"Novo\s+Regime)[^,;()\n\d]{3,110}?)(?=\s*(?:\(|,|;|\.|$|\d|\s+na\s+reda|\s+aprovad|\s+quando|\s+na\s+parte|\s+interpretad|\s+no\s+sentido|\s+e\s+(?:d[oa]s?|o|a|os|as|n\.|artigos?|art\.)\s"
     # O verbo da frase a seguir ao nome ("do Código Penal pode ser concedido", "do CPTA efectuada imediatamente").
-    r"|\s+(?:pode|podem|deve|devem|é|são|não|abrange|integra|implica|constitui|cabe|efe(?:c)?tuad[oa]s?|aos?|às?)\s))",
+    r"|\s+(?:pode|podem|deve|devem|é|são|não|abrange|integra|implica|constitui|cabe|decorre|resulta|efe(?:c)?tuad[oa]s?|aos?|às?)\s))",
 )
 # O fim do nome limpo dentro do texto: "Código do Registo Predial e 89.º" acaba antes do " e".
 _FIM_DO_NOME = re.compile(r"\s+(?:e|ou|de|do|da)\s*$")
@@ -421,7 +422,7 @@ _INTERPRETACAO = re.compile(
     r"segundo\s+a\s+qual|no\s+segmento|no\s+sentido\s+(?:de|segundo)|ao\s+(?:prever|estabelecer|fazer|determinar|impor)|enquanto)\b",
     re.I,
 )
-_ALTERACAO_MENCAO = re.compile(r"(?:redac?[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa]|mantid[oa]s?)[^;]{0,45}$", re.I)
+_ALTERACAO_MENCAO = re.compile(r"(?:redac?[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa]|mantid[oa]s?|que\s+lhe\s+foi\s+dad[oa])[^;]{0,45}$", re.I)
 _ALTERACAO_ANTES = re.compile(r"(?:aprovad|criad|introduzid|alterad|prorrogad|conferid|dad|republicad|mantid|aditad)[oa]s?[^,;()]{0,40}?\s+pel[oa]s?\b[^;()]{0,30}$", re.I)
 # "da mesma lei", "deste diploma": o diploma é o citado antes. "do mesmo preceito" (o mesmo artigo) não conta.
 _MESMO_DIPLOMA = re.compile(r"\b(?:mesm[oa]|dest[ea]|daquel[ea]|referid[oa])\s+(?:(?:últim[oa]|mesm[oa])\s+)?(lei|diploma|código|decreto|portaria|regime|estatuto|regulamento)", re.I)
@@ -516,6 +517,12 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None, 
         depois = [i for i, m in enumerate(mencoes) if m.inicio > pos]
         entre = texto[pos: mencoes[depois[0]].inicio] if depois else texto[pos:]
         if _CONSTITUICAO.search(entre):
+            continue
+        if sigla_desconhecida and re.search(
+                r"(?:\b(?:daquel|dess|dest|aquel)[ea]|\bmesmo)\s+$|altera[çc][ãa]o\s+(?:decorrente|resultante|introduzida)\s+d[oa]\s+$",
+                texto[max(0, pos - 40): pos], re.I):
+            # "n.º 3 daquele artigo 54.º" volta a um artigo já citado; "alteração decorrente do artigo 1.º da Lei
+            # n.º 14/2006" é o artigo que altera, não o interpretado.
             continue
         if sigla_desconhecida and (sigla := re.search(r"\b(?:d[oa]s?)\s+([A-Z]{2,}[A-Za-z]*)\b", entre)) and sigla.group(1) not in siglas:
             # "art. 13.º, n.º 1, do RJC, e do art. 41.º, n.º 1, do RGCO": o artigo é de um diploma que não se
@@ -668,7 +675,10 @@ CODIGOS_NO_TEMPO: dict[str, list[tuple[str, str | tuple[str, str] | None]]] = {
     "decreto-lei 433/99": [("2000-01-01", "atual"), ("1991-07-01", ("decreto-lei", "154/91")), ("", None)],
     "codigo procedimento processo tributario": [("2000-01-01", "atual"), ("1991-07-01", ("decreto-lei", "154/91")), ("", None)],
     "codigo estrada": [("1994-10-01", "atual"), ("", None)],
-    "codigo penal": [("1983-01-01", "atual"), ("", None)],
+    # A revisão de 1995 (Decreto-Lei n.º 48/95, em vigor a 1/10/1995) renumerou o Código Penal de 1982: o artigo
+    # 142.º de 1982 (ofensas corporais) é o 143.º de hoje, e o 142.º de hoje é a interrupção da gravidez.
+    "codigo penal": [("1995-10-01", "atual"), ("1983-01-01", ("decreto-lei", "400/82")), ("", None)],
+    "decreto-lei 480/99": [("2000-01-01", "atual"), ("1982-01-01", ("decreto-lei", "272-A/81")), ("", None)],
     "codigo imposto sobre rendimento pessoas singulares": [("2001-07-04", "atual"), ("", None)],
     "codigo imposto sobre rendimento pessoas coletivas": [("2001-07-04", "atual"), ("", None)],
     "lei 15/2001": [("2001-07-06", "atual"), ("", None)],
@@ -798,7 +808,7 @@ class Jurisprudencia:
     # As decisões do Plenário em fiscalização abstrata (declarar ou recusar declarar com força obrigatória
     # geral) e preventiva valem para todos e vêm antes dos juízos em casos concretos; a uniformização do
     # STJ e do STA orienta os tribunais e vem também antes deles.
-    _ORDEM = {"declara_fog": 0, "nao_declara_fog": 1, "pronuncia": 2, "nao_pronuncia": 2, "fixa_jurisprudencia": 2,
+    _ORDEM = {"declara_fog": 0, "declara_ilegalidade_fog": 0, "nao_declara_fog": 1, "pronuncia": 2, "nao_pronuncia": 2, "fixa_jurisprudencia": 2,
               "uniformiza_jurisprudencia": 2, "julga": 3, "nao_julga": 3}
 
     def __init__(self, caminho: Path | tuple[Path, ...] | list[Path] = (SAIDA, SAIDA_UNIFORMIZACAO)) -> None:

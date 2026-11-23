@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:306575:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "Disposição transitória",
+    "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - As referências feitas na Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de Julho, e alterada pela [Lei n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/lei/13-2010-334321), de 19 de Julho, ao salário mínimo nacional consideram-se reportadas ao indexante de apoios sociais, abreviadamente designado por IAS, criado pela [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de Dezembro, como valor de referência da subvenção pública.\n\n4 - O disposto no n.º 8 do artigo 5.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de Junho, introduzido pela presente lei, tem natureza interpretativa.",
+    "alterador": 5
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º (nova redação do art. 18.º da Lei n.º 19/2003): outro diploma; a lei original só deu redação a esse diploma.\nAlterador 2, declaração de inconstitucionalidade com força obrigatória geral do n.º 4 do art. 3.º (numeração da Lei n.º 1/2013): não textual; o acórdão não elimina o texto.\nAlterador 2, declaração de inconstitucionalidade do n.º 8 do art. 5.º da Lei n.º 19/2003: outro diploma.\nAlterador 3, art. 2.º (nova redação dos arts. 5.º e 12.º da Lei n.º 19/2003): outro diploma.\nAlterador 5, arts. 1.º e 2.º (reduções e nova redação dos arts. 5.º e 12.º da Lei n.º 19/2003): outro diploma.\nAlterador 8, alteração da Lei n.º 77/88 (LOFAR): outro diploma; o original só aparece na lista das alterações anteriores.",
+  "instrucoes": [
+   "Alterador 1 (Lei 1/2013), art. 1.º: nova redação do art. 3.º com novos n.os 1 e 2 e os antigos n.os 2 e 3 renumerados 3 e 4: aplicada (o reparo diz que a vista não mostra a Lei 1/2013, mas ela está no pedido como alterador 1, por isso a renumeração confirma-se).",
+   "Alterador 2 (Acórdão TC 801/2014): declara inconstitucional o n.º 4 do art. 3.º: não textual, texto mantido; vai em nao_aplicavel.",
+   "Alterador 5 (Lei 4/2017), art. 4.º, n.º 1: revoga os n.os 1 e 2 do art. 3.º na redação da Lei 1/2013: '1 - (Revogado.)' e '2 - (Revogado.)'; ficam os n.os 3 (referências ao salário mínimo) e 4 (natureza interpretativa).",
+   "Alteradores 4, 6 e 7: o pedido não traz texto nenhum dirigido ao original; nada a aplicar.",
+   "Alterações da Lei 19/2003 e da Lei 77/88 feitas pelos alteradores 1, 3, 5 e 8: são de outro diploma; arts. 1.º e 2.º do original ficam como estão."
+  ]
+ }
+]
