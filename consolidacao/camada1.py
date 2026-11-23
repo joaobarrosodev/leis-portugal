@@ -37,7 +37,7 @@ import traceback
 from collections import Counter
 from pathlib import Path
 
-from texto import RAIZ
+from texto import RAIZ, front_matter
 
 PASTA = RAIZ / "consolidacao"
 CAMADA1 = PASTA / "camada1"
@@ -457,6 +457,43 @@ _NUMERACAO_LARGA = re.compile(r"^(?:§\s*(?:\d+\s*\.?\s*[º°o]|[úu]nico)|Art(?
 _REVOGADO_LARGO = re.compile(r"^\(?Revogad[oa]s?\.?\)?\.?$", re.I)
 
 
+def troca_de_expressao(par: str, base: list[str], alteradores: list[str], maximo: int = 15) -> bool:
+    """O parágrafo é um parágrafo da base (texto atual ou original) com uma expressão trocada por outra, e o
+    mesmo alterador traz as duas expressões letra a letra: «onde se lê … deve ler-se …», «a expressão … é
+    substituída por …», «os prazos até 30 de Abril … passam para 30 de Junho». Todos os textos já vêm planos
+    (`_plano`). As diferenças ficam numa só zona de até `maximo` palavras; essa zona, com o contexto que for
+    preciso para ter pelo menos 15 caracteres de cada lado da troca, tem de estar no alterador antes e depois."""
+    import difflib  # noqa: PLC0415
+
+    p = par.split()
+    if len(p) < 4:
+        return False
+    for q_texto in base:
+        q = q_texto.split()
+        if not q or abs(len(q) - len(p)) > maximo:
+            continue
+        m = difflib.SequenceMatcher(None, q, p, autojunk=False)
+        if m.real_quick_ratio() < 0.6 or m.quick_ratio() < 0.6:
+            continue
+        ops = [o for o in m.get_opcodes() if o[0] != "equal"]
+        if not ops:
+            continue
+        i1, i2, j1, j2 = ops[0][1], ops[-1][2], ops[0][3], ops[-1][4]
+        if max(i2 - i1, j2 - j1) > maximo:
+            continue
+        for esq in range(0, 5):
+            for dir_ in range(0, 5):
+                if i1 - esq < 0 or j1 - esq < 0 or i2 + dir_ > len(q) or j2 + dir_ > len(p):
+                    continue
+                antes = " ".join(q[i1 - esq : i2 + dir_])
+                depois = " ".join(p[j1 - esq : j2 + dir_])
+                if len(antes) < 15 or len(depois) < 15:
+                    continue
+                if any(antes in a and depois in a for a in alteradores):
+                    return True
+    return False
+
+
 def _problemas_que_ficam(problemas: list[str], fontes: list[str]) -> tuple[list[str], list[str]]:
     """Separa os problemas «parágrafo que não está no alterador nem no original» que são só numeração
     (o parágrafo, sem «§ N.º» ou «Art. N.º -», está numa fonte, ou é uma revogação) dos outros."""
@@ -506,6 +543,9 @@ def importar(pastas: list[str]) -> int:
         from verificar import _plano  # noqa: PLC0415
         fontes = [_plano(x) for x in atuais] + [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
         fontes.append(_plano(lc.publicado(RAIZ / selecao[i]["path"])))
+        alts = [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        base = [_plano(x) for t in atuais + [lc.publicado(RAIZ / selecao[i]["path"])] + textos_alts for x in t.split("\n\n") if x.strip()]
         inteiros = {}
         for artigo in resposta.get("artigos") or []:
             for par in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):
@@ -520,6 +560,8 @@ def importar(pastas: list[str]) -> int:
             plano = _plano(resto)
             if _REVOGADO_LARGO.match(resto) or (len(plano) >= 20 and any(plano in f for f in fontes)):
                 aceites.append(prob)
+            elif troca_de_expressao(_plano(par), base, alts):
+                aceites.append(prob + " (troca de expressão do alterador)")
             else:
                 ficam.append(prob)
         resposta["problemas"] = ficam
@@ -534,15 +576,28 @@ def importar(pastas: list[str]) -> int:
     if corridos:
         subprocess.run([sys.executable, str(PASTA / "llm_corrido.py"), "importar", *map(str, corridos)], check=True)
         # No texto corrido, «Art. 10.º - (Revogado.)» é a revogação na forma do diploma: não é texto inventado.
+        # Um parágrafo com uma expressão trocada pelo alterador também não (troca_de_expressao).
+        import llm_corrido as lco  # noqa: PLC0415
+        from verificar import _plano  # noqa: PLC0415
+
         for f in corridos:
             for r in json.loads(f.read_text(encoding="utf-8")):
                 g = PASTA / "llm" / "corrido" / f"{r['id'].replace(':', '_')}.json"
                 d = json.loads(g.read_text(encoding="utf-8"))
+                registo = selecao[r["id"]]
+                base = [_plano(t) for tipo, _, t in lco.itens(lco._registo_base(registo)) if tipo == "u" and t.strip()]
+                textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lco._alteradores(registo) if a.get("path")]
+                alts = [_plano(t) for t in textos_alts]
+                base += [_plano(x) for t in textos_alts for x in t.split("\n\n") if x.strip()]
+                novos = [p.strip() for s in (d.get("substituicoes") or []) + (d.get("insercoes") or []) for p in (s.get("texto") or "").split("\n\n") if p.strip()]
                 ficam, aceites = [], []
                 for prob in d.get("problemas") or []:
                     m = re.match(r"^.+?: parágrafo que não está no alterador nem no original: (.*)$", prob)
+                    inteiro = next((p for p in novos if m and p.startswith(m.group(1))), None)
                     if m and _REVOGADO_LARGO.match(_NUMERACAO_LARGA.sub("", m.group(1)).strip()):
                         aceites.append(prob)
+                    elif inteiro and troca_de_expressao(_plano(inteiro), base, alts):
+                        aceites.append(prob + " (troca de expressão do alterador)")
                     else:
                         ficam.append(prob)
                 if aceites:
@@ -552,7 +607,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",)}
 
 
 def _sufixo() -> str:
@@ -821,6 +876,12 @@ def estado() -> int:
                       "nao_aplicadas": justificadas, "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl; camada1/segunda{_sufixo()}/segunda-*.json"}
             if i in segunda and segunda[i].get("vigencia"):
                 e["vigencia"] = segunda[i]["vigencia"]
+        elif i in nossos and anteriores and juntados.get(i, {}).get("estado") == "aplicado com LLM":
+            # tirado da entrada às cegas: a resposta desta ronda deu o mesmo texto que a ronda anterior já recusou
+            a = anteriores[i]
+            prefixo = f"a resposta da ronda {RONDA} deu o mesmo texto que a ronda anterior recusou; "
+            e |= {"estado": a["estado"], "motivo": prefixo + str(a.get("motivo")).replace(prefixo, "")[:500],
+                  "prova": a.get("prova")}
         elif i in nada:
             d = nada[i]
             if d.get("instrucoes_em_falta"):
@@ -860,12 +921,22 @@ def refazer_selecao() -> int:
     eram estas que faltavam. Substitui as linhas destes diplomas em `selecao-escala.jsonl`, corre as
     regras (`consolidar.processar`) e substitui as linhas em `resultados-escala.jsonl`, na parte 7 e nos
     pendentes."""
-    from consolidar import processar  # noqa: PLC0415
     from selecionar import completar, selecionar_todos  # noqa: PLC0415
 
     ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
     db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
     novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": "ronda 116"} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    _trocar_selecao(novos)
+    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
+    print(f"{len(novos)} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
+    return 0
+
+
+def _trocar_selecao(novos: dict[str, dict]) -> None:
+    """Troca as linhas destes diplomas em `selecao-escala.jsonl`, corre as regras (`consolidar.processar`) e troca as
+    linhas em `resultados-escala.jsonl`, na parte 7 e nos pendentes."""
+    from consolidar import processar  # noqa: PLC0415
+
     linhas = [json.loads(l) for l in SELECAO_ESCALA.read_text(encoding="utf-8").splitlines() if l.strip()]
     trocadas = 0
     with SELECAO_ESCALA.open("w", encoding="utf-8") as f:
@@ -886,15 +957,39 @@ def refazer_selecao() -> int:
         if e.get("pendentes") and e["estado"] in ("para LLM", "falhou a verificação"):
             pendentes.append({"id": i, "title": e["title"], "itens": e["pendentes"]})
     (PASTA / "pendentes-escala.jsonl").write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pendentes), encoding="utf-8")
-    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
-    print(f"{trocadas} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
-    print(dict(Counter(e["estado"] for e in estados.values())))
+    print(f"{trocadas} linhas trocadas na seleção; regras: {dict(Counter(e['estado'] for e in estados.values()))}")
+
+
+def acrescentar_alteradores(ficheiro: Path) -> int:
+    """Ronda 118: os alteradores que a segunda leitura achou no acervo e que não estavam na seleção (uma linha por par,
+    `{"id": …, "alterador_path": "data/…", "motivo": …}`). Entram na lista de alteradores do diploma, pela data, e as
+    regras correm de novo sobre a seleção nova."""
+    selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
+    novos: dict[str, dict] = {}
+    for par in _jsonl(ficheiro):
+        r = novos.get(par["id"]) or json.loads(json.dumps(selecao[par["id"]]))
+        bruto = (RAIZ / par["alterador_path"]).read_text(encoding="utf-8")
+        meta = front_matter(bruto)
+        from texto import corpo  # noqa: PLC0415
+        qualidade = meta.get("text_quality") or ("texto" if len(corpo(bruto).strip()) > 200 else None)
+        r["alteradores"] = [x for x in r["alteradores"] if x["id"] != meta["id"]]
+        tipo = str(meta.get("document_type") or "")
+        a = {"id": meta["id"], "title": meta["title"], "path": par["alterador_path"], "text_quality": qualidade,
+             "document_type": tipo, "legal_status": meta.get("legal_status"), "publication_date": str(meta.get("publication_date")),
+             "rotulos_dre": [par["motivo"]], "datas_dre": [], "ordem": str(meta.get("publication_date"))}
+        if "declara" in tipo.lower() or "retifica" in meta["title"].lower() or "rectifica" in meta["title"].lower():
+            a["retificacao"] = True
+        r["alteradores"] = sorted(r["alteradores"] + [a], key=lambda x: (x.get("ordem") or "", x["id"]))
+        r["selecao_refeita"] = "ronda 118: alteradores da segunda leitura"
+        novos[par["id"]] = r
+    _trocar_selecao(novos)
+    print(f"{len(novos)} diplomas com alteradores acrescentados")
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao"))
+    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao", "acrescentar-alteradores"))
     parser.add_argument("n", type=int)
     parser.add_argument("--ronda", type=int, default=115, choices=sorted(PASTAS_DA_RONDA))
     parser.add_argument("--pasta", default="pedidos", help="pedidos: a pasta em camada1/")
@@ -916,6 +1011,8 @@ def main() -> int:
         return juntar_triagem()
     if args.passo == "refazer-selecao":
         return refazer_selecao()
+    if args.passo == "acrescentar-alteradores":
+        return acrescentar_alteradores(args.ids_extra)
     if args.passo == "estado":
         return estado()
     if args.passo == "entrada-nada":

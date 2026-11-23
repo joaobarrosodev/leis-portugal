@@ -99,18 +99,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/564/1999/p/cons/20230710/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-215421202
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-215421202
-  retrieved_at: '2026-11-20T13:49:08Z'
+  retrieved_at: '2026-11-23T15:54:50Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-10-27T00:00:00Z'
 integrity:
-  source_sha256: 86eb85db50234dc0185230d74a0c4130272a546ce6aef9e6831f6ac3bbeed049
+  source_sha256: 53f65d95220da5d991ea79d66db3f2aed6b3b3b9f45f22c381b4b62e4133577e
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-11-20T13:49:08Z'
+  generated_at: '2026-11-23T15:54:50Z'
   notes: 3 versão(ões); histórico completo em portaria-564-99.versoes.json.
 reuse:
   status: permitted
@@ -155,7 +155,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-11-20T13:49:08Z'
+  checked_at: '2026-11-23T15:54:50Z'
   warnings: []
   errors: []
 ---
@@ -194,9 +194,11 @@ Pelo Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso, Sec
 
 > Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2023 - Diário da República n.º 132/2023, Série I de 2023-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/195-2023-215375651).
 
-###### 3.º
+###### Artigo 3.º
 
 A referida portaria entra em vigor no 1.º dia útil a seguir à data da sua publicação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 469/2026/1 - Diário da República n.º 208/2026, Série I de 2026-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/469-2026-1186535404).
 
 ## Anexo — PROTOCOLO DO CENTRO DE REABILITAÇÃO PROFISSIONAL DE GAIA
 

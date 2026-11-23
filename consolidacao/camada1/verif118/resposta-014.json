@@ -1,0 +1,110 @@
+[
+ {
+  "id": "pt:dre:511670:por",
+  "artigos": [
+   {
+    "artigo": "SECÇÃO I",
+    "veredicto": "errado",
+    "motivo": "Só o título da secção foi atualizado; o corpo mantém o texto original (1.º Cédula ... 25$00, etc.), quando o art. 1.º do DL 157/87 substitui todo o art. 1.º da tabela (n.os 1.º a 89.º) e o DL 84/89 muda os n.os 4.º e 7.º.",
+    "texto_esperado": "Art. 1.º do DL 157/87 (n.os 1.º a 13.º da Secção I - Protecção consular: 1.º Inscrição 240$00 com § único; 2.º Cédula 480$00; 3.º 480$00; 4.º passaporte; 5.º; 6.º; 7.º; 8.º; 9.º; 10.º a 13.º), com os n.os 4.º e 7.º conforme DL 84/89 (art. 1.º) e a redação em vigor dos valores; o consolidado mantém o corpo antigo (cédula por um ano, 25$00, etc.)."
+   },
+   {
+    "artigo": "SECÇÃO VI",
+    "veredicto": "errado",
+    "motivo": "Título mudou para «Percentagens» mas o corpo é o antigo (85.º a 90.º, Actos diversos). Pelo DL 157/87 a Secção VI - Percentagens tem os n.os 79.º a 83.º.",
+    "texto_esperado": "#### SECÇÃO VI — Percentagens: 79.º Intervenção do funcionário consular na venda de navio português ... 4%; 80.º Presidência ... leilão ... 6% (§ único); 81.º Guarda e depósito ... 1% por ano (§§ 1.º e 2.º); 82.º; 83.º Cobrança de créditos ... 8% (§ único), conforme DL 157/87."
+   },
+   {
+    "artigo": "SECÇÃO VII",
+    "veredicto": "errado",
+    "motivo": "Título mudou para «Actos diversos» mas o corpo é o antigo (91.º a 95.º, Percentagens). Pelo DL 157/87 a Secção VII - Actos diversos tem os n.os 84.º a 89.º.",
+    "texto_esperado": "#### SECÇÃO VII — Actos diversos: 84.º Busca em diligência não judicial ... 480$00 (§ único 3600$00); 85.º 2400$00; 86.º 570$00/380$00; 87.º 640$00/380$00; 88.º 1440$00; 89.º 1000$00, conforme DL 157/87."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70, art. 1.º: nova redação com § único, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/87, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 633/70, art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Lei 4/82, art. 1.º: n.os 1 a 6, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/87, art. 1.º: nova redação, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 47010, art. 2.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 157/87, art. 1.º: nova redação do art. 1.º da tabela (Secções I a VII, n.os 1.º a 89.º) só aplicada nos títulos de secção; o corpo das Secções I a V (artigos «SECÇÃO I», «SECÇÃO II», «SECÇÃO III», «SECÇÃO IV», «SECÇÃO V»; as 4 últimas na lista dos IGUAIS) continua o texto antigo. O alvo é conhecido (corpo do art. 1.º da tabela está no consolidado), pelo que não é justificação «alvo incerto».",
+   "DL 633/70, art. 1.º: nova redação dos n.os 1.º e 2.º do art. 1.º da tabela (Inscrição 25$00 / Cédula 100$00) sem efeito (mesmo alvo, depois absorvido pelo DL 157/87).",
+   "DL 633/70, art. 1.º: nova redação do art. 3.º da tabela («Além do emolumento ... 30 por cento ...»): o artigo «ARTIGO 3.º» do consolidado está na lista dos IGUAIS ao original; não vejo o texto original mas nada indica que seja igual à nova redação.",
+   "DL 47010, art. 2.º: revogação dos n.os 65.º e 66.º do art. 1.º da tabela, sem efeito (depois absorvida pela nova redação integral do DL 157/87).",
+   "DL 582/72, art. único: revogação do n.º 73.º do art. 1.º da tabela, sem efeito (idem).",
+   "DL 339/87, art. 1.º: nova redação dos n.os 28.º e 29.º (340$00) do art. 1.º da tabela, Secção II (SECÇÃO II consta dos IGUAIS), sem efeito.",
+   "DL 84/89, art. 1.º: nova redação dos n.os 4.º e 7.º do art. 1.º da tabela (passaporte comum 3000$00/4500$00/2500$00; título individual de viagem única 400$00), sem efeito."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

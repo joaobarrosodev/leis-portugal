@@ -24,7 +24,7 @@
     "1195874375",
     "1195874575",
     "1006298775",
-    "1006298975",
+    "1197648075",
     "1006299175",
     "1006299375",
     "1006299575",
@@ -64,7 +64,7 @@
     "1195874375",
     "1195874575",
     "1006298775",
-    "1006298975",
+    "1197648275",
     "1196830975",
     "1006299375",
     "1196831175",
@@ -116,13 +116,13 @@
    "changed_by": [],
    "markdown": "Em 15 de Novembro de 2000.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
   },
-  "1006298975": {
+  "1197648075": {
    "fragment_id": "1006298875",
    "type": 14,
-   "heading": "Anexo",
+   "heading": "Anexo — Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "## Anexo\n\nRegulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia."
+   "markdown": "## Anexo — Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia"
   },
   "1006299175": {
    "fragment_id": "1006299075",
@@ -238,6 +238,14 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo II — Raça bovina Frísia\n\n(ver quadro no documento original)"
+  },
+  "1197648275": {
+   "fragment_id": "1006298875",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia"
   },
   "1196830975": {
    "fragment_id": "1006299075",

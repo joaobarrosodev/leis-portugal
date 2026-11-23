@@ -18,8 +18,9 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Texto | ~246 mil com texto pesquisável; ~70 mil só com o PDF oficial (sobretudo 1910–1959, digitalizações); ~24 mil só com metadados, porque a fonte não tem texto nem PDF |
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
-| Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
+| Relações | ~1,42 milhões de relações registadas (alterações, revogações, retificações, citações, transposições), segundo a contagem em [`reports/COBERTURA.md`](reports/COBERTURA.md) |
 | Decisões (fora da legislação) | 122.223 decisões da CNPD, todas as do histórico de 1994 a 2026 (114.331 autorizações anteriores ao RGPD), 99,7 % com texto (36.197 delas por OCR das digitalizações; 311 continuam sem texto); 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site, e 5.320 decisões sumárias de 1998 a 2026; 8.966 normas julgadas tiradas da decisão dos de 1983 a 2026, com 371 declarações de inconstitucionalidade com força obrigatória geral, ligadas ao diploma (precisão medida às cegas: 90 % em 2016–2026, 78 % antes de 2016) |
+| Total | Mais de 618 mil documentos, entre legislação e decisões, ligados por ~1,42 milhões de relações |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |

@@ -8,18 +8,6 @@
       "alterador": 1
     },
     {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::43.º",
-      "epigrafe": "Representação por procurador",
-      "texto": "1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::140.º",
-      "epigrafe": "Publicidade do processo",
-      "texto": "1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
-      "alterador": 1
-    },
-    {
       "chave": "8.º",
       "epigrafe": "Alteração ao [Decreto-Lei n.º 236/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2001-631841), de 30 de Agosto",
       "texto": "Os artigos 2.º e 3.º do [Decreto-Lei n.º 236/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2001-631841), de 30 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída a qualquer conservador dos registos, por acordo com os nubentes e independentemente da área de circunscrição territorial a que o conservador pertença.\n\n2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.\n\nArtigo 3.º\n\n[...]\n\n1 - Quando não haja disponibilidade ou possibilidade por parte dos conservadores referidos no artigo anterior para celebrar o casamento, devem aqueles designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - ...»",
@@ -42,6 +30,18 @@
       "epigrafe": "Objecto e obrigatoriedade do registo",
       "texto": "1 - O registo civil é obrigatório e tem por objecto os seguintes factos:\n\na) O nascimento;\n\nb) A filiação;\n\nc) A adopção;\n\nd) O casamento;\n\ne) As convenções antenupciais e as alterações do regime de bens convencionado ou legalmente fixado;\n\nf) A regulação do exercício do poder paternal, sua alteração e cessação;\n\ng) A inibição ou suspensão do exercício do poder paternal e as providências limitativas desse poder;\n\nh) A interdição e inabilitação definitivas, a tutela de menores ou interditos, a administração de bens de menores e a curadoria de inabilitados;\n\ni) O apadrinhamento civil e a sua revogação;\n\nj) A curadoria provisória ou definitiva de ausentes e a morte presumida;\n\nl) A declaração de insolvência, o indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, e o encerramento do processo de insolvência;\n\nm) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, assim como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;\n\nn) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;\n\no) A exoneração do passivo restante, assim como o início e cessação antecipada do respectivo procedimento e a revogação da exoneração;\n\np) O óbito;\n\nq) Os que determinem a modificação ou extinção de qualquer dos factos indicados e os que decorram de imposição legal.\n\n2 - Os factos respeitantes a estrangeiros só estão sujeitos a registo obrigatório quando ocorram em território português.\n\n3 - Quando os sujeitos da relação jurídica de filiação, adoção ou apadrinhamento civil estejam casados ou unidos de facto com pessoa do mesmo sexo, os assentos, averbamentos ou novos assentos de nascimento no registo civil são efetuados de forma idêntica à prevista nas leis em vigor para casais de sexo diferente.",
       "alterador": 19
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::43.º",
+      "epigrafe": "Representação por procurador",
+      "texto": "1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::49.º",
+      "epigrafe": "Documentos passados em país estrangeiro",
+      "texto": "1 - Os documentos passados em país estrangeiro, em conformidade com a lei local, podem servir de base a actos de registo ou instruir processos independentemente de prévia legalização, desde que não haja dúvidas fundadas acerca da sua autenticidade.\n\n2 - Em caso de dúvida sobre a autenticidade do conteúdo de documentos emitidos no estrangeiro, pode ser solicitada às autoridades emitentes a confirmação da sua autenticidade, sendo os encargos suportados pelos interessados.\n\n3 - A promoção oficiosa das diligências exigidas pela confirmação prevista no número anterior constitui fundamento de sustação da feitura do registo ou da prossecução do procedimento a instruir com o documento cuja autenticidade se pretende confirmar.\n\n4 - Se, em virtude das diligências referidas no número anterior, for verificada a falta de autenticidade do documento emitido, o conservador deve recusar a atribuição de qualquer valor probatório ao mesmo.\n\n5 - Se, em virtude das diligências referidas no n.º 3, se concluir pelo carácter defeituoso ou incorrecto do documento emitido, o conservador aprecia livremente em que medida o seu valor probatório é afectado pelo defeito ou incorrecção verificada.\n\n6 - A recusa pelo conservador de atribuição de valor probatório ao documento e a atribuição de valor probatório parcial ao mesmo são notificadas ao interessado no registo ou procedimento, para efeitos do disposto no n.º 2 do artigo 292.º\n\n7 - Sendo interposto o recurso a que se refere o n.º 2 do artigo 292.º, a falta de valor probatório, total ou parcial, do documento emitido em país estrangeiro pode ser suprida com base nas declarações ou meios de prova complementares apresentados em sede de recurso.\n\n8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.",
+      "alterador": 21
     },
     {
       "chave": "ANEXO — Republicação do Código do Registo Civil::69.º",
@@ -68,10 +68,64 @@
       "alterador": 4
     },
     {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::112.º",
+      "epigrafe": "Obrigatoriedade da declaração de maternidade",
+      "texto": "1 - O declarante do nascimento deve identificar, quando possível, a mãe do registando.\n\n2 - A maternidade indicada é mencionada no assento.\n\n3 - A identificação da mãe do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.",
+      "alterador": 21
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::118.º",
+      "epigrafe": "Menção obrigatória da paternidade",
+      "texto": "1 - A paternidade presumida é obrigatoriamente mencionada no assento de nascimento do filho, sem prejuízo do disposto no artigo seguinte.\n\n2 - Se o registo de casamento dos pais vier a ser efectuado posteriormente ao assento de nascimento do filho, e se deste não constar a menção da paternidade, deve ser-lhe averbada, oficiosamente, a paternidade presumida.\n\n3 - A identificação do pai do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.",
+      "alterador": 21
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::126.º",
+      "epigrafe": "Requisitos especiais",
+      "texto": "1 - Além dos requisitos gerais, o assento da declaração de maternidade deve conter os seguintes elementos:\n\na) O nome completo, sexo, estado, data do nascimento, naturalidade e residência habitual do filho;\n\nb) O nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil da mãe;\n\nc) A declaração expressa da maternidade;\n\nd) A indicação da data do óbito do filho e a última residência habitual, no caso de ser falecido.\n\n2 - A declarante deve exibir, sempre que possível, os documentos de identificação dela e do filho.\n\n3 - Não sendo exibidos os documentos a que se refere o número anterior, é oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar os registos de nascimento da declarante e do filho.\n\n4 - Na sequência do assento é lançada cota de referência ao assento de nascimento do filho e, se este já for falecido, ao assento do seu óbito.",
+      "alterador": 21
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::140.º",
+      "epigrafe": "Publicidade do processo",
+      "texto": "1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
+      "alterador": 1
+    },
+    {
       "chave": "ANEXO — Republicação do Código do Registo Civil::163.º",
       "epigrafe": "Verificação da capacidade matrimonial de português",
       "texto": "1 - O português residente em Portugal que pretenda casar no estrangeiro pode requerer a verificação da sua capacidade matrimonial e a passagem do respectivo certificado em qualquer conservatória do registo civil.\n\n2 - O certificado é passado pelo conservador mediante a organização prévia do processo de casamento e dele devem constar todos os elementos de identificação do interessado, bem como do outro nubente, e o prazo para a celebração.\n\n3 - O português residente no estrangeiro que pretenda casar perante as autoridades locais pode requerer a verificação da sua capacidade matrimonial a qualquer conservatória do registo civil ou aos agentes diplomáticos ou consulares competentes para a organização do processo preliminar de casamento.\n\n4 - (Revogado.)",
       "alterador": 4
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::202.º-A",
+      "epigrafe": "Menção da habilitação de herdeiros e do processo de inventário",
+      "texto": "1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.\n\n2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respetivo, por meio de cota de referência que identifique o cartório notarial onde o processo foi instaurado e o seu número.",
+      "alterador": 13
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::202.º-B",
+      "epigrafe": "Comunicações a efetuar pelos tribunais e notários",
+      "texto": "1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.\n\n2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o notário comunica a qualquer conservatória do registo civil, preferencialmente por via eletrónica, a instauração do processo de inventário.",
+      "alterador": 13
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::207.º",
+      "epigrafe": "Justificação judicial",
+      "texto": "1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.\n\n4 - O assento de óbito referido no número anterior produz os mesmos efeitos que a morte.",
+      "alterador": 16
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::208.º",
+      "epigrafe": "Naufrágio",
+      "texto": "1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao magistrado do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover, no prazo máximo de 30 dias a contar da receção do auto referido no número seguinte, a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima remete, no prazo máximo de 60 dias a contar da data do naufrágio, ao Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.",
+      "alterador": 16
+    },
+    {
+      "chave": "ANEXO — Republicação do Código do Registo Civil::210.º",
+      "epigrafe": "Comunicações a efectuar pelo conservador",
+      "texto": "1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou para as finalidades previstas no regime jurídico do processo de inventário:\n\na) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e\n\nb) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.\n\n2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.\n\n3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respetiva declaração.\n\n4 - O conservador deve comunicar, por via eletrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:\n\na) O teor dos autos relativos aos óbitos lavrados no mês anterior;\n\nb) Os números de documentos de identificação ulteriormente conhecidos;\n\nc) Qualquer completamento ou retificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.",
+      "alterador": 13
     },
     {
       "chave": "ANEXO — Republicação do Código do Registo Civil::210.º-A",
@@ -128,73 +182,32 @@
       "alterador": 4
     },
     {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::207.º",
-      "epigrafe": "Justificação judicial",
-      "texto": "1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.\n\n4 - O assento de óbito referido no número anterior produz os mesmos efeitos que a morte.",
-      "alterador": 16
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::208.º",
-      "epigrafe": "Naufrágio",
-      "texto": "1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao magistrado do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover, no prazo máximo de 30 dias a contar da receção do auto referido no número seguinte, a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima remete, no prazo máximo de 60 dias a contar da data do naufrágio, ao Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.",
-      "alterador": 16
-    },
-    {
       "chave": "ANEXO — Republicação do Código do Registo Civil::299.º",
       "epigrafe": "Emolumentos",
       "texto": "(Revogado.)",
       "alterador": 18
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::49.º",
-      "epigrafe": "Documentos passados em país estrangeiro",
-      "texto": "1 - Os documentos passados em país estrangeiro, em conformidade com a lei local, podem servir de base a actos de registo ou instruir processos independentemente de prévia legalização, desde que não haja dúvidas fundadas acerca da sua autenticidade.\n\n2 - Em caso de dúvida sobre a autenticidade do conteúdo de documentos emitidos no estrangeiro, pode ser solicitada às autoridades emitentes a confirmação da sua autenticidade, sendo os encargos suportados pelos interessados.\n\n3 - A promoção oficiosa das diligências exigidas pela confirmação prevista no número anterior constitui fundamento de sustação da feitura do registo ou da prossecução do procedimento a instruir com o documento cuja autenticidade se pretende confirmar.\n\n4 - Se, em virtude das diligências referidas no número anterior, for verificada a falta de autenticidade do documento emitido, o conservador deve recusar a atribuição de qualquer valor probatório ao mesmo.\n\n5 - Se, em virtude das diligências referidas no n.º 3, se concluir pelo carácter defeituoso ou incorrecto do documento emitido, o conservador aprecia livremente em que medida o seu valor probatório é afectado pelo defeito ou incorrecção verificada.\n\n6 - A recusa pelo conservador de atribuição de valor probatório ao documento e a atribuição de valor probatório parcial ao mesmo são notificadas ao interessado no registo ou procedimento, para efeitos do disposto no n.º 2 do artigo 292.º\n\n7 - Sendo interposto o recurso a que se refere o n.º 2 do artigo 292.º, a falta de valor probatório, total ou parcial, do documento emitido em país estrangeiro pode ser suprida com base nas declarações ou meios de prova complementares apresentados em sede de recurso.\n\n8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.",
-      "alterador": 21
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::112.º",
-      "epigrafe": "Obrigatoriedade da declaração de maternidade",
-      "texto": "1 - O declarante do nascimento deve identificar, quando possível, a mãe do registando.\n\n2 - A maternidade indicada é mencionada no assento.\n\n3 - A identificação da mãe do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.",
-      "alterador": 21
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::118.º",
-      "epigrafe": "Menção obrigatória da paternidade",
-      "texto": "1 - A paternidade presumida é obrigatoriamente mencionada no assento de nascimento do filho, sem prejuízo do disposto no artigo seguinte.\n\n2 - Se o registo de casamento dos pais vier a ser efectuado posteriormente ao assento de nascimento do filho, e se deste não constar a menção da paternidade, deve ser-lhe averbada, oficiosamente, a paternidade presumida.\n\n3 - A identificação do pai do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.",
-      "alterador": 21
-    },
-    {
-      "chave": "ANEXO — Republicação do Código do Registo Civil::126.º",
-      "epigrafe": "Requisitos especiais",
-      "texto": "1 - Além dos requisitos gerais, o assento da declaração de maternidade deve conter os seguintes elementos:\n\na) O nome completo, sexo, estado, data do nascimento, naturalidade e residência habitual do filho;\n\nb) O nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil da mãe;\n\nc) A declaração expressa da maternidade;\n\nd) A indicação da data do óbito do filho e a última residência habitual, no caso de ser falecido.\n\n2 - A declarante deve exibir, sempre que possível, os documentos de identificação dela e do filho.\n\n3 - Não sendo exibidos os documentos a que se refere o número anterior, é oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar os registos de nascimento da declarante e do filho.\n\n4 - Na sequência do assento é lançada cota de referência ao assento de nascimento do filho e, se este já for falecido, ao assento do seu óbito.",
-      "alterador": 21
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 116/2008: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 3, Lei n.º 61/2008, arts. 1.º a 4.º e 6.º a 8.º (Código Civil, Código de Processo Civil, Decreto-Lei n.º 272/2001, Código Penal): outro diploma; só o art. 5.º (art. 272.º do Código do Registo Civil) foi aplicado ao anexo.\nAlterador 4, Decreto-Lei n.º 247-B/2008, art. 46.º, alíneas a) a d) e f) a i): outro diploma.\nAlterador 5, Lei n.º 64-A/2008: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 6, Decreto-Lei n.º 122/2009 (Código do Registo Predial, CIVA, Código do Registo Comercial, CIRC, Decreto-Lei n.º 322-A/2001, RERN e outros): outro diploma.\nAlterador 7, Lei n.º 29/2009, art. 81.º (nova redação dos arts. 202.º-A, 202.º-B e 210.º do Código do Registo Civil): efeito adiado: o próprio pedido assinala que o artigo foi revogado pelo art. 6.º da Lei n.º 23/2013, em vigor a 2013-09-02, sem que esta redação tenha passado a vigorar; não aplicado.\nAlterador 9, Decreto-Lei n.º 99/2010 (Decreto-Lei n.º 322-A/2001, RERN, Decreto-Lei n.º 116/2008 e outros): outro diploma.\nAlterador 10, Lei n.º 64-B/2011: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 11, Decreto-Lei n.º 209/2012, arts. 2.º a 15.º e 18.º (RERN, Decreto-Lei n.º 322-A/2001, registos predial e comercial e outros): outro diploma; o art. 16.º (art. 299.º do Código do Registo Civil) foi aplicado.\nAlterador 12, Lei n.º 63/2012, art. 5.º (RERN): outro diploma.\nAlterador 13, Lei n.º 23/2013: sem texto: o pedido só traz o art. 1.º (objeto); a nova redação dos arts. 202.º-A, 202.º-B e 210.º do Código do Registo Civil (art. 5.º, citada no reparo) não vem no pedido.\nAlterador 14, Decreto-Lei n.º 122/2013 (Decreto-Lei n.º 272/2001): outro diploma.\nAlterador 15, Decreto-Lei n.º 19/2015 (registo de pessoas jurídicas canónicas, Decreto-Lei n.º 322-A/2001, RERN): outro diploma.\nAlterador 17, Lei n.º 143/2015: sem texto: o pedido não traz nenhum artigo; a alteração do art. 69.º do Código do Registo Civil (alínea d) e n.º 5, citada no reparo) não vem no pedido.\nAlterador 18, Decreto-Lei n.º 201/2015, arts. 1.º a 28.º e 29.º, alíneas a) a d) e f) a i): outro diploma; a alínea e) do art. 29.º (revogação do art. 299.º do Código do Registo Civil) foi aplicada.\nAlterador 19, Lei n.º 2/2016, arts. 2.º, 3.º e 6.º (Lei n.º 7/2001, Lei n.º 9/2010, Decreto-Lei n.º 121/2010): outro diploma.\nAlterador 20, Lei n.º 110/2017 (Estatuto dos Benefícios Fiscais, RERN): outro diploma.\nAlterador 22, Lei n.º 49/2018, art. 12.º (Decreto-Lei n.º 272/2001): outro diploma; a alteração dos arts. 1.º, 69.º, 70.º e 174.º do Código do Registo Civil (art. 5.º, citada no reparo) é sem texto: não vem no pedido.\nAlterador 23, Decreto-Lei n.º 66/2019 (RJUE, RJRU, RERN e outros): outro diploma.\nDecreto-Lei n.º 100/2009, art. 2.º, e Lei n.º 7/2011, art. 5.º (citados no reparo): sem texto: não são alteradores deste pedido e o seu texto não vem nele.",
+  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 116/2008: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 3, art. 6.º (arts. 12.º e 14.º do Decreto-Lei n.º 272/2001): outro diploma: o original só lhes tinha dado a redação (art. 7.º).\nAlterador 4, art. 46.º, alíneas a) a d) e f) a i) (RNPC, Código do Registo Comercial, RERN e outros): outro diploma.\nAlterador 5, Lei n.º 64-A/2008: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 6, Decreto-Lei n.º 122/2009 (arts. 5.º e 6.º, Decreto-Lei n.º 322-A/2001 e RERN; restantes artigos): outro diploma: o original só lhes tinha dado a redação (arts. 10.º e 11.º).\nAlterador 7, Lei n.º 29/2009, art. 81.º (arts. 202.º-A, 202.º-B e 210.º do CRC): efeito adiado: a redação dependia da entrada em vigor do regime do inventário da Lei n.º 29/2009 e o próprio texto do alterador assinala que o artigo foi revogado pelo art. 6.º da Lei n.º 23/2013; não aplicado.\nAlterador 8, arts. 30.º a 32.º (Código do IRS, LOFTJ, Código Civil): outro diploma.\nAlterador 9, Decreto-Lei n.º 99/2010 (Decreto-Lei n.º 322-A/2001, RERN e outros): outro diploma.\nAlterador 10, Lei n.º 64-B/2011: sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 11, arts. 2.º a 15.º e 18.º (RERN, Decreto-Lei n.º 322-A/2001, Decreto-Lei n.º 519-F2/79 e outros): outro diploma.\nAlterador 12, Lei n.º 63/2012, art. 5.º (Decreto-Lei n.º 322-A/2001): outro diploma.\nAlterador 14, Decreto-Lei n.º 122/2013 (Decreto-Lei n.º 272/2001): outro diploma.\nAlterador 15, Decreto-Lei n.º 19/2015, arts. 19.º e 20.º (Decreto-Lei n.º 322-A/2001 e RERN): outro diploma.\nAlterador 17, Lei n.º 143/2015, art. 4.º (art. 69.º do CRC, referido nos reparos): sem texto: o pedido não traz nenhum artigo deste diploma.\nAlterador 18, arts. 21.º a 27.º e 29.º, alíneas a) a d) e f) a i) (registos predial, comercial e automóvel, RERN e outros): outro diploma.\nAlterador 19, arts. 2.º e 3.º (Leis n.os 7/2001 e 9/2010): outro diploma.\nAlterador 20, Lei n.º 110/2017 (EBF e RERN): outro diploma.\nAlterador 22, Lei n.º 49/2018, art. 12.º (Decreto-Lei n.º 272/2001): outro diploma; o art. 5.º (arts. 1.º, 69.º, 70.º e 174.º do CRC, referido nos reparos): sem texto: o pedido só traz o art. 12.º.\nAlterador 23, Decreto-Lei n.º 66/2019 (RJUE, RJRU e RERN): outro diploma.\nFora dos alteradores, Decreto-Lei n.º 100/2009, Lei n.º 7/2011, Lei n.º 5/2017, Decreto-Lei n.º 126/2023 e Lei n.º 39/2025 (alterações e revogações ao CRC referidas nos reparos): sem texto: não são alteradores deste pedido e o texto não vem no pedido.",
   "instrucoes": [
-    "Alt. 1 (Decl. Ret. 107/2007), n.os 1 e 2: corrigidos os n.os 2 e 3 do art. 43.º do CRC no texto citado no art. 1.º do decreto-lei e no anexo.",
-    "Alt. 1, n.º 3: corrigida a remissão para a alínea g) no n.º 1 do art. 140.º do CRC (art. 1.º do decreto-lei e anexo).",
-    "Alt. 1, n.º 4: corrigido o n.º 1 do art. 3.º do DL 236/2001 citado no art. 8.º do decreto-lei.",
-    "Alt. 1, n.º 5: corrigido o n.º 4 do art. 13.º do decreto-lei (texto do «deve ler-se»).",
-    "Alt. 1, n.º 6: n.º 3 do art. 103.º do anexo já está «(Revogado.)» no texto atual; sem mudança.",
-    "Alt. 3 (Lei 61/2008), art. 5.º: nova redação da alínea c) do n.º 1 e do n.º 2 do art. 272.º do anexo.",
-    "Alt. 4 (DL 247-B/2008), art. 31.º: arts. 69.º (n.º 3), 95.º (n.º 2), 163.º (n.º 2), 210.º-A (n.º 2 b), novo n.º 5, n.º 6 = anterior 5), 210.º-C (n.os 1, 2, 3 = anterior 2), 210.º-G e 210.º-H (epígrafes e corpo novos), 215.º (n.º 1), 272.º-A (n.os 1 a 8) e 272.º-C do anexo.",
-    "Alt. 4, art. 46.º, e): revogados o n.º 2 do art. 70.º, o n.º 5 do art. 210.º-G e a alínea c) do n.º 1 do art. 270.º do anexo.",
-    "Alt. 4, art. 46.º, j): revogado o n.º 2 do art. 24.º do decreto-lei.",
-    "Alt. 7 (Lei 29/2009), art. 81.º: não aplicado (revogado pela Lei 23/2013).",
-    "Alt. 8 (Lei 103/2009), art. 29.º: nova alínea i) no n.º 1 do art. 1.º e nova alínea h) no n.º 1 do art. 69.º do anexo, com as alíneas seguintes renumeradas; nova redação do n.º 2 do art. 78.º.",
-    "Alt. 11 (DL 209/2012), art. 16.º: n.os 3 e 4 do art. 299.º do anexo; depois o alt. 18 (DL 201/2015, art. 29.º, e)) revoga o art. 299.º: fica «(Revogado.)».",
-    "Alt. 16 (Lei 90/2015): novo n.º 4 do art. 207.º e nova redação dos n.os 1 e 2 do art. 208.º do anexo.",
-    "Alt. 19 (Lei 2/2016), art. 4.º: novo n.º 3 do art. 1.º do anexo.",
-    "Alt. 21 (DL 51/2018), art. 2.º: n.º 8 do art. 49.º, novos n.os 3 dos arts. 112.º e 118.º e alínea b) do n.º 1 do art. 126.º do anexo.",
-    "Restantes alteradores: outro diploma ou sem texto (ver nao_aplicavel); os textos da Lei 49/2018 (art. 5.º), Lei 143/2015, Lei 23/2013 (art. 5.º), DL 100/2009 e Lei 7/2011 citados nos reparos não estão no pedido e não foram usados."
+    "Alterador 1 (Retificação 107/2007): n.os 2 e 3 do art. 43.º e n.º 1 do art. 140.º do CRC corrigidos no texto citado no art. 1.º do decreto-lei e no anexo (arts. 43.º e 140.º); n.º 1 do art. 3.º do DL 236/2001 corrigido no art. 8.º; n.º 4 do art. 13.º corrigido («artigo 10.º»); art. 103.º, n.º 3, do anexo já estava «(Revogado.)» pelo programa: mantido, sem alteração.",
+    "Alterador 3 (Lei 61/2008, art. 5.º): art. 272.º do anexo, n.º 1, c), e n.º 2, nova redação.",
+    "Alterador 4 (DL 247-B/2008, art. 31.º): nova redação dos arts. 69.º (n.º 3), 95.º (n.º 2), 163.º (n.º 2), 210.º-A (n.º 2, b), novo n.º 5, antigo 5 passa a 6), 210.º-C (n.os 1 e 2, antigo 2 passa a 3), 210.º-G e 210.º-H (redação integral, com epígrafe), 215.º (n.º 1), 272.º-A (n.os 1 a 8, com os antigos 4 e 5 como 6 e 8) e 272.º-C do anexo; art. 46.º, e): revogados o n.º 2 do art. 70.º, o n.º 5 do art. 210.º-G e a alínea c) do n.º 1 do art. 270.º do anexo; art. 46.º, j): revogado o n.º 2 do art. 24.º do decreto-lei.",
+    "Alterador 8 (Lei 103/2009, art. 29.º): art. 1.º do anexo, nova alínea i) no n.º 1 e antigas i) a p) passam a j) a q); art. 69.º, nova alínea h) no n.º 1 e antigas h) a p) passam a i) a q); art. 78.º, n.º 2, nova redação.",
+    "Alterador 11 (DL 209/2012, art. 16.º): n.os 3 e 4 do art. 299.º do anexo; sem efeito no resultado, porque o alterador 18 revoga o artigo.",
+    "Alterador 13 (Lei 23/2013, art. 5.º): art. 202.º-A do anexo, n.º 2; art. 202.º-B, epígrafe e n.º 2; art. 210.º, n.º 1 (corpo e b), a) mantida), novos n.os 2 e 3 e n.º 4 (antigo n.º 3, com a redação do alterador), nova redação. A redação do art. 81.º da Lei 29/2009 fica sem efeito (revogado).",
+    "Alterador 16 (Lei 90/2015): art. 207.º do anexo, novo n.º 4; art. 208.º, n.os 1 e 2, nova redação.",
+    "Alterador 18 (DL 201/2015, art. 29.º, e)): art. 299.º do anexo revogado.",
+    "Alterador 19 (Lei 2/2016, art. 4.º): art. 1.º do anexo, novo n.º 3.",
+    "Alterador 21 (DL 51/2018, art. 2.º): art. 49.º do anexo, n.º 8; arts. 112.º e 118.º, novo n.º 3; art. 126.º, n.º 1, b).",
+    "Restantes alteradores e instruções: ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

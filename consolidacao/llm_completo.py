@@ -45,6 +45,7 @@ Uso:
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import json
 import random
 import re
@@ -206,7 +207,9 @@ def _revoga_o_diploma(texto: str, padrao: re.Pattern[str]) -> bool:
 
     cabecalho = ""
     for paragrafo in (x.strip() for x in texto.split("\n\n") if x.strip()):
-        if re.match(r"^(?:[a-z]{1,2}\)|\d+\s*-)\s", paragrafo) and cabecalho:
+        # Alínea com rótulo, ou item sem rótulo terminado em «;» («São revogados: / O Decreto-Lei …, com
+        # excepção do artigo 25.º; / Os artigos 46.º a 53.º do …»).
+        if cabecalho and (re.match(r"^(?:[a-z]{1,2}\)|\d+\s*-)\s", paragrafo) or paragrafo.rstrip().endswith(";")):
             frase = cabecalho + " " + paragrafo
         else:
             frase = paragrafo
@@ -551,7 +554,13 @@ def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo],
     for artigo in a_remover:  # por identidade: com chaves repetidas, dois artigos podem ser iguais
         consolidado.segmentos = [s for s in consolidado.segmentos if s is not artigo]
         registos_llm.append(Registo(artigo.chave, "revogar", "llm", "\n".join(artigo.linhas).strip(), "", "", "", metodo="llm"))
+    sem_cardinal = lambda t: re.sub(r"^#+\s*", "", str(t or "").strip())
+    total = Counter(sem_cardinal(x.get("titulo")) for x in resposta.get("anexos") or [])
+    vistos: Counter = Counter()
     for anexo in resposta.get("anexos") or []:
+        chave_titulo = sem_cardinal(anexo.get("titulo"))
+        ocorrencia = (vistos[chave_titulo], total[chave_titulo])
+        vistos[chave_titulo] += 1
         n = next(iter(sorted({int(x) for x in re.findall(r"\d+", str(anexo.get("alterador") or ""))} & set(por_numero))), None)
         escolhidos = [por_numero[n]] if n else alteradores
         ligacoes = []
@@ -559,7 +568,7 @@ def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo],
             url = (front_matter((RAIZ / a["path"]).read_text(encoding="utf-8")).get("source") or {}).get("official_url") or ""
             ligacoes.append(f"[{a['title']}]({url})" if url else a["title"])
         data = max((a.get("publication_date") or "" for a in escolhidos), default="")
-        feito, erro = _mudar_corpo_do_anexo(consolidado, anexo, " e ".join(ligacoes), data)
+        feito, erro = _mudar_corpo_do_anexo(consolidado, anexo, " e ".join(ligacoes), data, ocorrencia)
         if erro:
             return registos_llm, citados, erro
         if feito is not None:
@@ -711,7 +720,7 @@ def _fim_do_corpo(segmento: list[str], k: int) -> int:
     return next((j for j in range(k + 1, len(segmento)) if texto_mod._TITULO.match(segmento[j])), len(segmento))
 
 
-def _mudar_corpo_do_anexo(consolidado, anexo: dict, ligacao: str, data: str):
+def _mudar_corpo_do_anexo(consolidado, anexo: dict, ligacao: str, data: str, ocorrencia: tuple[int, int] | None = None):
     """Troca o corpo de um anexo que está fora dos artigos (as linhas entre o título "## Anexo …" e
     o título seguinte) pelo `texto` da resposta, seguido da nota "> Alterado pelo/a …". O título tem
     de existir letra a letra e uma só vez. Devolve (registo, erro); (None, None) quando o corpo novo
@@ -719,6 +728,10 @@ def _mudar_corpo_do_anexo(consolidado, anexo: dict, ligacao: str, data: str):
     titulo = re.sub(r"^#+\s*", "", str(anexo.get("titulo") or "").strip())
     lugares = [(s, i) for s in consolidado.segmentos if not isinstance(s, Artigo)
                for i, l in enumerate(s) if texto_mod._ANEXO.match(l) and re.sub(r"^#+\s*", "", l.strip()) == titulo]
+    # Um título repetido (dois anexos «ANEXO — Cartão…»): a resposta traz um elemento por ocorrência, pela ordem do
+    # texto, e `ocorrencia` é (k, n), o k-ésimo dos n elementos da resposta com este título.
+    if len(lugares) > 1 and ocorrencia is not None and ocorrencia[1] == len(lugares):
+        lugares = [lugares[ocorrencia[0]]]
     if len(lugares) != 1:
         return None, f"anexo {titulo[:60]}: o título " + ("não existe no texto" if not lugares else "repete-se no texto")
     segmento, i = lugares[0]
@@ -730,10 +743,11 @@ def _mudar_corpo_do_anexo(consolidado, anexo: dict, ligacao: str, data: str):
     linhas = [""]
     for p in paragrafos:
         linhas += [p, ""]
-    linhas += [f"> {'Alterado' if paragrafos else 'Revogado'} pelo/a {ligacao}, publicado em {data}.", ""]
+    revogado = not paragrafos or bool(_REVOGADO.match(paragrafos[0]))
+    linhas += [f"> {'Revogado' if revogado else 'Alterado'} pelo/a {ligacao}, publicado em {data}.", ""]
     segmento[i + 1 : fim] = linhas
     depois = "\n".join(segmento[i : i + len(linhas) + 1]).strip()
-    return Registo(titulo, "substituir" if paragrafos else "revogar", "llm", "\n".join([segmento[i], antes]).strip(), depois, "", "", metodo="llm"), None
+    return Registo(titulo, "revogar" if revogado else "substituir", "llm", "\n".join([segmento[i], antes]).strip(), depois, "", "", metodo="llm"), None
 
 
 def _recolocar_assinaturas(consolidado, ultimos: set[str] | None = None) -> None:

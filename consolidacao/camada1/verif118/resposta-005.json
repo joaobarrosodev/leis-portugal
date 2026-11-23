@@ -1,0 +1,119 @@
+[
+ {
+  "id": "pt:dre:292498:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DR 1/98 art. 1.º: só a alínea l) muda para «Direcção de Serviços de Auditoria»; as restantes «...» ficam como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e corpo novos do DR 1/98 art. 1.º, letra a letra (original só tinha o número; atenção ao troço antigo «Divisão de Gestão Financeira e de Contabilidade», ver artigos_a_mais).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DR 1/98, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 1/98 art. 1.º; alíneas «...» mantêm o original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 4.º do DR 1/98; epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Portaria 414/98 altera o quadro por anexo em imagem (parcial): ficam o corpo antigo e a linha da imagem do alterador (34803482.pdf), que é a do anexo da Portaria 414/98.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 1/98, art. 1.º, nova redação do art. 19.º (alíneas a) a f) «...» e alínea g) nova «Colaborar na gestão da rede informática da segurança social e assegurar a gestão da rede interna do CNP.»): o art. 19.º do consolidado está igual ao original, a alínea g) não foi aplicada; alvo incerto quanto ao corpo exacto (o corpo do original não está visível na vista, só a epígrafe «Divisão de Apoio e Exploração» como troço separado), mas o artigo 19.º é identificável"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Despacho Normativo 196/94: criação de um lugar de assessor de informática principal no quadro (anexo I)",
+    "motivo": "o despacho não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Despacho Normativo 212/94: criação de um lugar de assessor principal no quadro (anexo I)",
+    "motivo": "o despacho não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Despacho Normativo 258/94: criação de um lugar de assessor de informática principal no quadro (anexo I)",
+    "motivo": "o despacho não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Despacho Normativo 314/94: criação de um lugar de assessor principal no quadro (anexo I)",
+    "motivo": "o despacho não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Despacho Normativo 341/94: criação de um lugar de assessor principal no quadro (anexo I)",
+    "motivo": "o despacho não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Portaria 1453/2000: criação de um lugar de assessor principal no quadro (anexo I)",
+    "motivo": "a portaria não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Portaria 1006/2003: criação de um lugar de assessor principal no quadro",
+    "motivo": "a portaria não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "Portaria 1009/2003: criação de um lugar de assessor principal no quadro",
+    "motivo": "a portaria não traz o texto do quadro alterado"
+   },
+   {
+    "instrucao": "DR 1/98 art. 3.º: alterações ao quadro de pessoal aprovadas por portaria",
+    "motivo": "não é textual (remissão para portaria futura)"
+   }
+  ],
+  "artigos_a_mais": [
+   "Troço «Divisão de Gestão Financeira e de Contabilidade» (listado como igual ao original, entre Artigo 8.º e Artigo 13.º, conteúdo não visível): provavelmente o corpo antigo do art. 10.º, que a nova redação do art. 10.º («Divisão de Gestão e Controlo Orçamental») substituiu; se for texto antigo deve sair. Não confirmável na vista."
+  ],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -72,7 +72,7 @@ source:
   metadata_url: https://data.dre.pt/eli/port/318/2011/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-962954938
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-962954938
-  retrieved_at: '2026-10-22T13:57:50Z'
+  retrieved_at: '2026-11-23T15:42:21Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-09-30T00:00:00Z'
@@ -83,7 +83,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:57:50Z'
+  generated_at: '2026-11-23T15:42:21Z'
   notes: 1 versão(ões); histórico completo em portaria-318-2011.versoes.json.
 reuse:
   status: permitted
@@ -152,7 +152,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:57:50Z'
+  checked_at: '2026-11-23T15:42:21Z'
   warnings: []
   errors: []
 ---

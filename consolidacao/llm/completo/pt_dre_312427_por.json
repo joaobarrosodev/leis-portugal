@@ -555,23 +555,29 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO IV — Do certificado de admissibilidade de firmas e denominações",
+      "novo": "### CAPÍTULO IV — Do certificado de admissibilidade de firmas e denominações\n#### SECÇÃO I — Disposições gerais",
+      "alterador": 1
+    }
+  ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, retificação do n.º 5 do preâmbulo: alvo incerto: o preâmbulo não faz parte do texto atual, que só traz os artigos\nAlterador 1, aditamento do título «SECÇÃO I — Disposições gerais» antes do art. 36.º: alvo incerto: esse título não está no texto atual e só se podem mudar ou eliminar títulos que lá estão (os arts. 36.º a 54.º foram depois revogados pelo alterador 3)\nAlterador 4, art. 2.º, prorrogação até 31 de março de 1984 dos prazos do n.º 1 do art. 85.º e do art. 86.º: não textual (prorrogação; os artigos foram depois revogados pelo alterador 15)\nAlterador 5, n.º 1.º, aumento do quadro de pessoal do Gabinete de Estudos e Planeamento com os lugares do mapa anexo: só em imagem (o mapa só vem em imagem e o quadro, no fim do art. 92.º, não tem título de anexo no texto atual)\nAlterador 7, n.º 1.º, aumento do quadro de pessoal com os lugares do mapa anexo: só em imagem (o mapa só vem em imagem e o quadro não tem título de anexo no texto atual)\nAlterador 8, n.º 14.º, o quadro de pessoal do Gabinete de Estudos e Planeamento passa a ser o do anexo XII: só em imagem (os anexos I a XIII vêm numa só imagem e o quadro não tem título de anexo no texto atual)\nAlterador 10, n.º 1, criação de um lugar de assessor principal no quadro de pessoal: sem texto (o alterador não traz o quadro alterado)\nAlterador 11, n.º 1, criação de um lugar de assessor principal no quadro de pessoal: sem texto (o alterador não traz o quadro alterado)\nAlterador 12, n.º 1, criação de um lugar de assessor principal no quadro de pessoal: sem texto (o alterador não traz o quadro alterado)\nAlterador 13, n.º 1.º, aumento do quadro de pessoal de harmonia com o mapa anexo: só em imagem (o mapa só vem em imagem e o quadro não tem título de anexo no texto atual)",
+  "nao_aplicavel": "Alterador 1, retificação do n.º 5 do preâmbulo («por vários diplomas. Os diferentes objectivos que lhe têm sido assinalados»): alvo incerto — o preâmbulo não vem no texto atual (só artigos e títulos), não há onde o pôr.\nAlterador 1, retificação do quadro anexo: só em imagem — a imagem retificada tem o mesmo endereço da atual e o quadro não tem título de anexo no texto atual.\nAlterador 4, art. 2.º (prorrogação até 31/3/1984 dos prazos do n.º 1 do art. 85.º e do art. 86.º): não textual — prorrogação; de resto os arts. 85.º e 86.º foram depois revogados pelo alterador 15.\nAlterador 5, alargamento do quadro de pessoal do GEPMJ (mapa anexo): só em imagem — o mapa só vem em imagem e o quadro não tem título de anexo no texto atual.\nAlterador 6, art. 6.º (passa a 3 meses o prazo do art. 31.º): não textual — sem redação; o art. 31.º foi depois revogado pelo alterador 9.\nAlterador 7, alargamento do quadro de pessoal do GEPMJ (mapa anexo): só em imagem — o mapa só vem em imagem e o quadro não tem título de anexo no texto atual.\nAlterador 8, n.º 14.º (novo quadro de pessoal do GEP, anexo XII): só em imagem — o anexo só vem em imagem e o quadro não tem título de anexo no texto atual.\nAlterador 9, art. 88.º, alíneas c), d) e e) (revogação dos Decretos-Leis n.os 235-A/83 e 425/83 e de artigos do Decreto-Lei n.º 32/85): outro diploma — revogam os diplomas que alteram, não o texto do original.\nAlterador 10, criação de um lugar de assessor principal no quadro de pessoal do GEPMJ: sem texto — o despacho não traz texto para o quadro, que só vem em imagem e sem título de anexo.\nAlterador 11, criação de um lugar de assessor principal no quadro de pessoal do GEPMJ: sem texto — o despacho não traz texto para o quadro, que só vem em imagem e sem título de anexo.\nAlterador 12, criação de um lugar de assessor principal no quadro de pessoal do GEPMJ: sem texto — o despacho não traz texto para o quadro, que só vem em imagem e sem título de anexo.\nAlterador 13, aumento do quadro de pessoal do GEPMJ (mapa anexo): só em imagem — o mapa só vem em imagem e o quadro não tem título de anexo no texto atual.\nAlterador 15, art. 12.º, alíneas b) a g) (revogação do Decreto-Lei n.º 42/89 e de outros diplomas): outro diploma.",
   "instrucoes": [
-    "Alterador 1 (retificação): art. 3.º b) e c) «contra própria» → «conta própria» e art. 37.º n.º 3 «novo projecto» → «novo objecto»; aplicadas, mas os artigos foram depois revogados (arts. 3.º pelo alterador 9 e 37.º pelo alterador 3). Quadro anexo: a imagem «deve ler-se» é a mesma: nada a mudar. Preâmbulo e título SECÇÃO I: nao_aplicavel.",
-    "Alterador 2 (DL 235-A/83): nova redação dos arts. 2.º e), 37.º n.º 1, 70.º n.º 2, 78.º n.os 3 e 4, 91.º e 92.º e); só fica a do art. 92.º e) (aplicada), os outros artigos foram revogados depois.",
-    "Alterador 3 (DL 425/83), art. 68.º c): revoga os arts. 36.º a 54.º: aplicado, um elemento «(Revogado.)» por artigo.",
-    "Alterador 4 (DL 433/83): nova redação do art. 77.º (depois revogado pelo alterador 15); prorrogação dos prazos dos arts. 85.º e 86.º: nao_aplicavel (não textual).",
-    "Alterador 6 (DL 32/85), art. 3.º: nova redação dos arts. 2.º, 21.º, 23.º, 31.º, 34.º, 55.º, 57.º e 61.º; art. 6.º: prazo de 3 meses do art. 31.º; todos depois revogados pelo alterador 9 (o reparo sobre os n.os 2 e 3 do art. 34.º fica sem objeto). O art. 4.º altera o DL 425/83: outro diploma.",
-    "Alteradores 5, 7, 8, 10, 11, 12 e 13: mudanças ao quadro de pessoal do Gabinete de Estudos e Planeamento (no fim do art. 92.º, sem título de anexo): nao_aplicavel.",
-    "Alterador 9 (DL 42/89), art. 88.º b): revoga os arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º: aplicado, um elemento por artigo.",
-    "Alterador 14 (DL 355/97): revoga o n.º 2 do art. 78.º; o artigo foi depois revogado por inteiro pelo alterador 15.",
-    "Alterador 15 (DL 129/98), art. 12.º a): revoga os arts. 1.º, 4.º e 71.º a 91.º: aplicado, um elemento por artigo. O art. 92.º não é revogado."
+    "Alterador 1 (retificação): art. 3.º, b) e c), «contra própria» → «conta própria» — sem efeito, o art. 3.º foi revogado pelo alterador 9; aditado o título «#### SECÇÃO I — Disposições gerais» a seguir ao título do CAPÍTULO IV (em titulos, linha do capítulo seguida da da secção); art. 37.º, n.º 3, «projecto» → «objecto» — já estava no texto atual, e o art. 37.º foi revogado pelo alterador 3; preâmbulo e quadro: nao_aplicavel.",
+    "Alterador 2 (DL 235-A/83): nova redação dos arts. 2.º, 37.º, 70.º, 78.º e 91.º — sem efeito no texto final, todos revogados depois (alteradores 3, 9 e 15); art. 92.º, alínea e), nova redação — aplicada (o resto do art. 92.º fica como está).",
+    "Alterador 3 (DL 425/83): art. 68.º, c), revoga os arts. 36.º a 54.º — aplicado, cada um «(Revogado.)».",
+    "Alterador 4 (DL 433/83): nova redação do art. 77.º, n.os 2 e 3 — sem efeito, o art. 77.º foi revogado pelo alterador 15; prorrogação dos prazos dos arts. 85.º e 86.º — nao_aplicavel.",
+    "Alteradores 5, 7, 8, 10, 11, 12 e 13: alterações ao quadro de pessoal (só em imagem ou sem texto) — nao_aplicavel.",
+    "Alterador 6 (DL 32/85): nova redação dos arts. 2.º, 21.º, 23.º, 31.º, 34.º, 55.º, 57.º e 61.º — sem efeito, todos revogados pelo alterador 9; art. 6.º (prazo) — nao_aplicavel.",
+    "Alterador 9 (DL 42/89): art. 88.º, b), revoga os arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º — aplicado, cada um «(Revogado.)».",
+    "Alterador 14 (DL 355/97): revoga o n.º 2 do art. 78.º — sem efeito próprio, o art. 78.º foi revogado por inteiro pelo alterador 15.",
+    "Alterador 15 (DL 129/98): art. 12.º, a), revoga os arts. 1.º, 4.º e 71.º a 91.º — aplicado, cada um «(Revogado.)». Fica em vigor só o art. 92.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

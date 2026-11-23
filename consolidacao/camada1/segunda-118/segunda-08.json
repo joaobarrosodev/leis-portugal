@@ -1,0 +1,20 @@
+[
+ {
+  "id": "pt:dre:432796:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Art. 8.º, n.º 1.º: falta a alínea z''') aditada pelo art. 10.º do DL 625/71, de 31 de Dezembro (data/portugal/decretos-leis/1971/decreto-lei-625-71.md), que não está nas relações nem entre os alteradores, e nenhum alterador posterior a revoga. Entre z\") e z\"\") deve ficar: «z''') Os rendimentos sujeitos ao imposto sobre o rendimento do petróleo.»",
+   "Art. 28.º, alínea c): a Lei 2/88 (alterador da lista, que no pedido trazia só o art. 59.º) dá-lhe nova redação no art. 29.º, n.º 1. O consolidado mantém a do DL 119-J/83 e devia ficar: «c) Os juros e encargos de dívidas dos titulares dos rendimentos englobados que tenham sido contraídas com os seguintes objectivos e dentro dos limites a seguir fixados: / 1) Até ao limite de 1000000$00 para a aquisição, construção ou beneficiação de imóveis para habitação do agregado familiar; / 2) Pela totalidade no que respeita ao pagamento de despesas, líquidas de comparticipações, com a saúde das pessoas que constituem o agregado familiar, incluindo intervenções cirúrgicas e aparelhos de prótese.» A relação no DRE diz o mesmo: «Alterada a al. c) do art. 28.º». O reparo do consolidador que a deixa com a redação do DL 119-J/83 está errado.",
+   "Art. 85.º, n.º 13.º: a Lei 2/88, art. 35.º, n.º 2, revoga-o: «É revogado o n.º 13.º do artigo 85.º do Código do Imposto Complementar, no sentido de tributar em sede desse imposto o fabrico de tabacos.» A revogação é total, porque depois do DL 172-A/78 o n.º só cobre o fabrico. Deve ficar «13.º (Revogado.)», e não «Os rendimentos de fabrico de tabaco nacional;». O reparo do consolidador («sem revogação») contraria o texto da lei e a relação no DRE.",
+   "Art. 84.º, § 1.º (redação do DL 756/75): não foi aplicada a retificação da Declaração de 23/1/1976, publicada no DG n.º 33, de 9/2/1976 (pt:dre:506652, corrected_by do DL 756/75): «Serão apenas sujeitos» passa a «Serão apenas os sujeitos». O texto certo é «… os rendimentos a considerar serão apenas os sujeitos a impostos parcelares no território do continente e ilhas adjacentes.»",
+   "Art. 15.º, regra 4.ª, alínea c) (redação do DL 119-J/83, que nenhum alterador posterior mudou): não foi aplicada a retificação da Declaração publicada no DR de 30/6/1983 (pt:dre:316343, corrected_by do DL 119-J/83). Deve ler-se: «c) As importâncias dos abonos relativos à situação de reserva, das pensões de aposentação ou de reforma, bem como das pensões sociais, de velhice, invalidez e de sobrevivência, e ainda outras de idêntica natureza, líquidas de descontos obrigatórios;»",
+   "Art. 91.º, § 2.º (redação do DL 115-D/85): não foi aplicada a retificação da Declaração publicada no DR de 31/5/1985 (pt:dre:495131, corrected_by do DL 115-D/85): «nos termos das alíneas a) e b) e do § 1.º do artigo 89.º» deve ler-se «nos termos das alíneas a) e b) do § 1.º do artigo 89.º».",
+   "Art. 3.º, § 1.º, do próprio DL 45399 (redação do DL 115-D/85): a mesma Declaração de 31/5/1985 retifica «nos termos dos artigos 3.º e 31.º» para «nos termos dos artigos 30.º e 31.º». O consolidado mantém «3.º e 31.º».",
+   "Nota, sem efeito no texto: o DL 739/76 (art. 4.º) deu redação à alínea z\"\") do art. 8.º e não está nas relações; a redação foi substituída depois pela do DL 172-A/78, que é a que está. O art. 4.º do DL 66/89, que fixa em 20%/18% o desconto da regra 3.ª do art. 39.º-A, é transitório (autoliquidação dos rendimentos de 1988) e não o tomo por alteração textual."
+  ],
+  "vigencia": {
+   "conclusao": "substituido",
+   "prova": "DL 442-A/88, de 30/11, art. 3.º, n.º 1: com a entrada em vigor do Código do IRS (1/1/1989) é abolido o imposto complementar, sem prejuízo de continuar a aplicar-se aos rendimentos auferidos até essa data; o DL 442-B/88 faz o mesmo com o IRC."
+  }
+ }
+]

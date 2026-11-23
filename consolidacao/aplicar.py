@@ -261,9 +261,16 @@ def _formulas_finais(artigo: Artigo) -> list[str]:
     em texto corrido ("III" e o título na linha seguinte). Ficam quando o artigo é reescrito."""
     from leis_portugal.domain.articles import _signature
 
+    def assinatura(linha: str) -> bool:
+        # «O Primeiro-Ministro, Aníbal Cavaco Silva.» é assinatura; «O Primeiro-Ministro, salvo sua indicação em
+        # contrário, será substituído…» é o corpo de um artigo, que não pode ficar a seguir à nova redação.
+        if re.match(r"^O (?:Primeiro-Ministro|Presidente da República),", linha):
+            return bool(re.match(r"^O (?:Primeiro-Ministro|Presidente da República), [A-ZÁÉÍÓÚÂÊÔ]", linha))
+        return _signature(linha)
+
     linhas = artigo.linhas
     cheias = [i for i in range(1, len(linhas)) if linhas[i].strip()]
-    inicio = next((i for i in cheias if _signature(linhas[i].strip())), None)
+    inicio = next((i for i in cheias if assinatura(linhas[i].strip())), None)
     if inicio is not None:
         antes = [i for i in cheias if i < inicio]
         if antes and _NOMES.match(linhas[antes[-1]].strip()):
@@ -284,8 +291,12 @@ def _formulas_finais(artigo: Artigo) -> list[str]:
 def _reescrever(artigo: Artigo, epigrafe: str, paragrafos: list[str], nota: str) -> None:
     formulas = _formulas_finais(artigo)
     if formulas:
+        # Sai da nova redação só o bloco das fórmulas, do seu começo para a frente: uma linha igual mais acima
+        # (a mesma ligação «(ver documento original)» de um mapa no corpo) é do artigo e fica.
         fora = {l.strip() for l in formulas if l.strip()}
-        paragrafos = [p for p in paragrafos if p.strip() not in fora]
+        primeira = next((l.strip() for l in formulas if l.strip()), "")
+        inicio = max((k for k, p in enumerate(paragrafos) if p.strip() == primeira), default=len(paragrafos))
+        paragrafos = paragrafos[:inicio] + [p for p in paragrafos[inicio:] if p.strip() not in fora]
     artigo.epigrafe = epigrafe
     artigo.linhas = _bloco(artigo.numero, epigrafe, paragrafos, artigo.notas + [nota], [""] + formulas if formulas else _fim(artigo))
 

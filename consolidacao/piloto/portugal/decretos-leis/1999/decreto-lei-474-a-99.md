@@ -145,8 +145,6 @@ O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, na
 
 > Alterado pelo/a [Decreto-Lei n.º 267-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-a-2000-276467), publicado em 2000-10-20.
 
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
-
 ###### Artigo 8.º
 
 O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
@@ -328,8 +326,6 @@ x) TRANSTEJO - Transportes Tejo, S. A.
 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.
 
 2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.
-
-3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.
 
 > Alterado pelo/a [Decreto-Lei n.º 247/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2001-642555), publicado em 2001-09-18.
 

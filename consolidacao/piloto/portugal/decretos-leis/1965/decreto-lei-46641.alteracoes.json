@@ -166,5 +166,47 @@
     "unidade": [],
     "diploma": "pt:dre:511670:por",
     "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por;pt:dre:472903:por"
+  },
+  {
+    "artigo": "SECÇÃO I",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO I",
+    "depois": "#### SECÇÃO I — Protecção consular",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por;pt:dre:472903:por"
+  },
+  {
+    "artigo": "SECÇÃO VI — Actos diversos",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO VI — Actos diversos",
+    "depois": "#### SECÇÃO VI — Percentagens",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por;pt:dre:472903:por"
+  },
+  {
+    "artigo": "SECÇÃO VII — Percentagens",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO VII — Percentagens",
+    "depois": "#### SECÇÃO VII — Actos diversos",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por;pt:dre:472903:por"
   }
 ]

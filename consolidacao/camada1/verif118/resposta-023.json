@@ -1,0 +1,79 @@
+[
+ {
+  "id": "pt:dre:419781:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90, art. 2.º: alínea e) passa a DSV e DPPV passa a f); o resto mantém-se ('...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90, art. 4.º revoga a alínea c) do n.º 1 e o n.º 4; consolidado tem 'c) (Revogada.)' e '4 - (Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo novo, DL 184/90, art. 3.º; texto letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90, art. 2.º dá nova redação ao art. 14.º com a epígrafe e o corpo da DPPV; o artigo antigo 'Divisão de Protecção...' fica substituído (não resta texto antigo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DR 43/90, art. 5.º: n.º 2 com nova redação (Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada); n.º 1 '...' mantém.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Declaração de retificação: 'Vidreira do Norte' -> 'Videira do Norte' no art. 17.º, n.º 1, al. a); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Protecção à Produção Vegetal",
+    "veredicto": "certo",
+    "motivo": "Removido: o DL 184/90, art. 2.º, dá nova redação ao art. 14.º com este corpo (agora referindo o n.º 2 do art. 13.º-A); o texto antigo não subsiste.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de retificação, retificações ao mapa I (médico veterinário, chamada (c)->(e), técnico auxiliar 2.ª classe 3->8, eliminar Chefe de secção e Capataz, motorista de ligeiros, letra K)",
+    "motivo": "só em imagem: mapa I só existe em imagem e o consolidado não tem anexo com título onde o pôr (confirmado: os alteradores só dão o mapa em imagem ou criam lugares sem texto)"
+   },
+   {
+    "instrucao": "Portaria 646/88, 649/88, 378/89; Despachos Normativos 125/90, 110/91, 193/92; Portaria 648/93: criação/aumento de lugares no quadro",
+    "motivo": "não textual: cria/aumenta lugares no quadro de pessoal sem dar redação a nenhum artigo do original"
+   },
+   {
+    "instrucao": "DL 184/90, art. 5.º e mapa anexo I (alteração do quadro de pessoal da DRABL)",
+    "motivo": "só em imagem: mapa I só existe em imagem e o consolidado não tem anexo com título onde o pôr (confirmado: os alteradores só dão o mapa em imagem ou criam lugares sem texto)"
+   },
+   {
+    "instrucao": "DR 43/90, art. 7.º, n.º 1 e anexos I a IV (alteração do quadro da DRABL; mapas em imagem)",
+    "motivo": "só em imagem: mapa I só existe em imagem e o consolidado não tem anexo com título onde o pôr (confirmado: os alteradores só dão o mapa em imagem ou criam lugares sem texto)"
+   },
+   {
+    "instrucao": "Portaria 1222/91 (carreiras de informática) e Portaria 494/93 (técnico superior de serviço social): mapas anexos",
+    "motivo": "só em imagem: mapa I só existe em imagem e o consolidado não tem anexo com título onde o pôr (confirmado: os alteradores só dão o mapa em imagem ou criam lugares sem texto)"
+   },
+   {
+    "instrucao": "DR 12/2007, art. 11.º, n.º 2: sucessão da DRAP do Centro nas atribuições da DRABL e transição de pessoal",
+    "motivo": "não textual: não revoga nem dá redação a nenhum artigo do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

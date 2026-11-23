@@ -82,7 +82,7 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2002/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-999532843
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-999532843
-  retrieved_at: '2026-10-22T14:02:44Z'
+  retrieved_at: '2026-11-23T15:52:28Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-10-21T00:00:00Z'
@@ -93,7 +93,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:02:44Z'
+  generated_at: '2026-11-23T15:52:28Z'
   notes: 2 versão(ões); histórico completo em decreto-lei-146-2002.versoes.json.
 reuse:
   status: permitted
@@ -152,7 +152,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:02:44Z'
+  checked_at: '2026-11-23T15:52:28Z'
   warnings: []
   errors: []
 ---

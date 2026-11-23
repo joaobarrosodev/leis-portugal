@@ -13,9 +13,6 @@ consolidacao:
   - id: pt:dre:692253:por
     title: Decreto-Lei n.º 186-A/99
     publication_date: '1999-05-31'
-  - id: pt:dre:241228:por
-    title: Lei n.º 44/96
-    publication_date: '1996-09-03'
   - id: pt:dre:169460:por
     title: Decreto-Lei n.º 39/99
     publication_date: '1999-02-09'
@@ -115,13 +112,11 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
-
-###### Artigo 6.º — Tribunais de círculo
+###### artigo 6º — (Tribunais de círculo)
 
 (Revogado.)
 
-> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
+> Alterado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 6.º-A — Secretarias judiciais privativas
 
@@ -141,13 +136,13 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 9.º — Tribunais de família e tribunais de família e menores
+###### Artigo 9.º — (Tribunais de família e tribunais de família e menores)
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 10.º — Constituição do tribunal colectivo noutros tribunais
+###### Artigo 10.º — (Constituição do tribunal colectivo noutros tribunais)
 
 (Revogado.)
 
@@ -195,7 +190,7 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 16.º — Presidência do tribunal para efeitos administrativos
+###### Artigo 16.º — (Presidência do tribunal para efeitos administrativos)
 
 (Revogado.)
 
@@ -225,17 +220,11 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 21.º — Magistrados do Ministério Público
+###### Artigo 21.º — (Magistrados do Ministério Público)
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
-
-###### Artigo 21.º-A
-
-(Revogado.)
-
-> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
 ###### Artigo 22.º — Turnos de férias judiciais
 
@@ -261,7 +250,7 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 > Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 23.º — Juízes de instrução criminal
+###### Artigo 23.º — (Juízes de instrução criminal)
 
 (Revogado.)
 
@@ -275,11 +264,11 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 ###### Artigo 25.º — (Informática nos tribunais)
 
-1 - A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.
+1. A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.
 
 2 - Para efeitos do disposto no número anterior, podem ser constituídas equipas de projecto integrando magistrados judiciais e do Ministério Público, funcionários de justiça e técnicos designações pelo Ministério da Justiça em regime de acumulação de funções ou em comissão de serviço, destacamento ou requisição, observadas as normas estatutárias respectivas.
 
-3 - A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.
+3. A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.
 
 4 - Durante a fase de estudos, trabalhos preparatórios e implantação de projectos de informática nas instituições judiciárias, incluindo os respeitantes à constituição de bases de dados jurídicas, e até final de 1999, é aplicável aos magistrados que desempenham funções nesse âmbito o disposto no artigo 19.º do presente diploma, com as devidas adaptações.
 
@@ -475,7 +464,7 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 55.º — Entrada em funcionamento de novos tribunais ou juízos
+###### Artigo 55.º — (Entrada em funcionamento de novos tribunais ou juízos)
 
 (Revogado.)
 
@@ -539,9 +528,29 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 (Revogado.)
 
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
 3 Procuradores da República
 
 1 Procurador da República
+
+(Revogado.)
+
+(Revogado.)
 
 > Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-579923), publicado em 1988-07-30.
 

@@ -1,0 +1,189 @@
+[
+ {
+  "id": "pt:dre:692200:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Redação final do DL 247/2001, art. 1.º (substitui as do DL 267-A/2000 e 116/2001); lista a)-t) igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 do DL 247/2001; n.º 3 do DL 116/2001 (que o DL 247 mantém com «...»); n.º 4 = anterior n.º 6 (DL 267-A/2000). Os n.os 4 a 6 antigos desaparecem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000, art. 1.º: letra igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 conforme DL 247/2001; n.os 1 e 3 do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 267-A/2000 e repristinado pelo DL 247/2001, art. 2.º, com o texto que o consolidado traz.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 conforme DL 116/2001; n.os 1, 3 e 4 do original (reticências).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 revogado pelo DL 247/2001; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.º 1 igual; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 247/2001; n.º 2 original. O n.º 3 acrescentado pelo DL 267-A/2000 não consta da redação do DL 247/2001 (só n.os 1 e 2), pelo que a sua ausência é coerente com o texto do art. 17.º do DL 247/2001.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 247/2001; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 e n.º 4 conforme DL 116/2001; n.º 5 conforme DL 247/2001; n.os 2 e 3 do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.º 1 igual; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 247/2001: n.º 1 igual; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 247/2001: n.º 1 igual; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.os 2, 5 e 6 igual; n.os 1, 3 e 4 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 247/2001: n.os 1, 3 e 4 iguais; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000 e n.º 2 alterado pelo DL 116/2001; n.os 1 e 3 conforme DL 267-A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000, art. 3.º, n.º 2: passa a «Do Conselho de Ministros».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.os 1 e 2 iguais; n.os 3 e 4 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000, art. 2.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.os 1 e 2 iguais; n.os 3 e 4 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000: n.º 4 novo (com a gralha «Reforrna» do diploma), n.º 9 = anterior n.º 10 (anterior n.º 9 desaparece); restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 24/2002; texto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 267-A/2000 art. 1.º e DL 116/2001 art. 1.º (nova redação do art. 8.º): o art. 8.º está na lista dos IGUAIS ao original e o original não é visível na vista; alvo incerto, só correto se o texto original coincidir com a redação final do DL 116/2001 («O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.»)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 120/2002, art. 32.º, n.º 1: a estrutura orgânica do DL 474-A/99 é substituída pela do novo diploma",
+    "motivo": "não textual: substituição global sem revogação expressa nem nova redação de artigos"
+   },
+   {
+    "instrucao": "DL 151/2019: sem instrução dirigida ao DL 474-A/99 (art. 22.º revoga os DL 202/94 e 379/98)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 267-A/2000, art. 4.º, n.º 9: referências ao Ministro Adjunto em matéria de autarquias locais consideram-se feitas ao Ministro do Ambiente e do Ordenamento do Território",
+    "motivo": "não textual: norma de remissão autónoma, sem nova redação"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

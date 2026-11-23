@@ -197,5 +197,8 @@
    "changed_by": [],
    "markdown": "## Tabela X — Capitação diária de combustível\n\n(ver documento original)"
   }
- }
+ },
+ "unavailable_dates": [
+  "1975-06-30"
+ ]
 }

@@ -75,22 +75,38 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO I",
+      "novo": "#### SECÇÃO I — Protecção consular",
+      "alterador": 5
+    },
+    {
+      "atual": "#### SECÇÃO VI — Actos diversos",
+      "novo": "#### SECÇÃO VI — Percentagens",
+      "alterador": 5
+    },
+    {
+      "atual": "#### SECÇÃO VII — Percentagens",
+      "novo": "#### SECÇÃO VII — Actos diversos",
+      "alterador": 5
+    }
+  ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, revogação dos n.os 65.º e 66.º do artigo 1.º da tabela: alvo incerto: o corpo do artigo 1.º da tabela (os números das secções) não está no texto atual, só os títulos das secções.\nAlterador 1, artigo 6.º (competência do director-geral): não textual.\nAlterador 2, nova redação dos n.os 1.º e 2.º do artigo 1.º e do artigo 3.º da tabela: alvo incerto: o artigo 1.º da tabela (corpo das secções) e o artigo 3.º da tabela não estão no texto atual (as chaves 1.º a 3.º são os artigos do decreto que aprova a tabela); não se cria artigo com chave inventada.\nAlterador 2, revogação dos artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 47010: outro diploma.\nAlterador 3, revogação do n.º 73.º do artigo 1.º da tabela: alvo incerto: o corpo do artigo 1.º da tabela não está no texto atual.\nAlterador 4, artigos 2.º e 3.º (actualização e publicidade das taxas de câmbio): não textual.\nAlterador 5, nova redação do artigo 1.º da tabela (secções I a VII, n.os 1.º a 89.º, com troca das secções VI «Percentagens» e VII «Actos diversos»): alvo incerto: o texto atual só tem os títulos das secções, sem o corpo do artigo 1.º da tabela; mudar só os títulos deixaria títulos novos sobre números antigos, e não há chave onde pôr o corpo.\nAlterador 6, nova redação dos n.os 28.º e 29.º do artigo 1.º da tabela: alvo incerto: o corpo do artigo 1.º da tabela não está no texto atual.\nAlterador 7, nova redação dos n.os 4.º e 7.º do artigo 1.º da tabela: alvo incerto: o corpo do artigo 1.º da tabela não está no texto atual.",
+  "nao_aplicavel": "Alterador 1, art. 2.º, revogação dos n.os 65.º e 66.º do artigo 1.º da tabela: alvo incerto (o corpo do artigo 1.º da tabela, com os n.os 1.º a 89.º, não está no texto atual; só os títulos das secções)\nAlterador 2, art. 1.º, nova redação dos n.os 1.º e 2.º do artigo 1.º da tabela: alvo incerto (o corpo do artigo 1.º da tabela não está no texto atual)\nAlterador 2, art. 1.º, nova redação do artigo 3.º da tabela: alvo incerto (o artigo 3.º da tabela não está no texto atual; a chave 3.º é o artigo 3.º do decreto que aprova a tabela)\nAlterador 3, revogação do n.º 73.º do artigo 1.º da tabela: alvo incerto (o corpo do artigo 1.º da tabela não está no texto atual)\nAlterador 5, art. 1.º, nova redação do artigo 1.º da tabela (secções I a VII, n.os 1.º a 89.º): alvo incerto (o corpo do artigo 1.º da tabela não está no texto atual; aplicados só os títulos das secções que mudam)\nAlterador 6, art. 1.º, nova redação dos n.os 28.º e 29.º do artigo 1.º da tabela: alvo incerto (o corpo do artigo 1.º da tabela não está no texto atual)\nAlterador 7, art. 1.º, nova redação dos n.os 4.º e 7.º do artigo 1.º da tabela: alvo incerto (o corpo do artigo 1.º da tabela não está no texto atual)",
   "instrucoes": [
-    "Alt. 1, art. 2.º: revoga o artigo 25.º da tabela (e os n.os 65.º e 66.º do art. 1.º): 25.º (Revogado.); n.os 65.º/66.º em nao_aplicavel.",
-    "Alt. 1, arts. 3.º-5.º: nova redação dos arts. 7.º e 8.º e eliminação de referência no 12.º; substituídos depois pelo Alt. 2.",
-    "Alt. 2, art. 1.º: nova redação dos arts. 7.º a 13.º da tabela aplicada; n.os 1.º e 2.º do art. 1.º e art. 3.º da tabela em nao_aplicavel (não estão no texto atual).",
-    "Alt. 2, art. 2.º: revoga o art. 22.º da tabela: (Revogado.).",
-    "Alt. 3: revoga o n.º 73.º do art. 1.º da tabela: nao_aplicavel.",
-    "Alt. 4, art. 1.º: nova redação do art. 23.º da tabela (n.os 1 a 6) aplicada.",
-    "Alt. 5, art. 1.º: nova redação dos arts. 19.º e 24.º aplicada; art. 1.º da tabela em nao_aplicavel.",
-    "Alt. 6 e Alt. 7: números do art. 1.º da tabela: nao_aplicavel."
+    "Alterador 1, art. 2.º: revoga os n.os 65.º e 66.º do art. 1.º (alvo ausente) e o art. 25.º da tabela; art. 25.º passa a «(Revogado.)».",
+    "Alterador 1, arts. 3.º a 5.º: novas redações dos arts. 7.º e 8.º e eliminação da referência no art. 12.º; substituídos depois pelo alterador 2 (que também revoga esses artigos do DL 47010).",
+    "Alterador 2, art. 1.º: novas redações dos arts. 7.º a 13.º da tabela (aplicadas, artigos inteiros); n.os 1.º e 2.º do art. 1.º e art. 3.º da tabela sem alvo.",
+    "Alterador 2, art. 2.º: revogado o art. 22.º da tabela.",
+    "Alterador 3: revoga o n.º 73.º do art. 1.º (alvo ausente).",
+    "Alterador 4, art. 1.º: nova redação do art. 23.º da tabela (aplicada).",
+    "Alterador 5, art. 1.º: novas redações dos arts. 19.º e 24.º (aplicadas) e do art. 1.º da tabela (corpo ausente; mudados os títulos das secções I, VI e VII como vêm no alterador).",
+    "Alteradores 6 e 7: alteram números do art. 1.º da tabela (alvo ausente)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

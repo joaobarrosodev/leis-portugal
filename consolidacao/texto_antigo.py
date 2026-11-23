@@ -63,7 +63,10 @@ def paragrafos(corpo: str) -> list[str]:
 
 def marcados(original: str, consolidado: str) -> list[dict]:
     """Os artigos do consolidado que mantêm o corpo antigo a seguir à nova redação ou a «(Revogado.)»."""
-    o, c = artigos(original), artigos(consolidado)
+    # um anexo («## ANEXO …») que vem dentro do bloco de um artigo não é do artigo: o corpo acaba no seu título
+    ate_ao_anexo = lambda corpo: corpo[: m.start()] if (m := ANEXO.search(corpo)) else corpo
+    o = {k: ate_ao_anexo(v) for k, v in artigos(original).items()}
+    c = {k: ate_ao_anexo(v) for k, v in artigos(consolidado).items()}
     ultimo = list(o)[-1] if o else None
     achados = []
     for chave, corpo in c.items():

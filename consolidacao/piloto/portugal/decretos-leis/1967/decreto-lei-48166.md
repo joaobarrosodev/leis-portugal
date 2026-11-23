@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:217350:por
     title: Decreto-Lei n.º 49434
     publication_date: '1969-12-09'
+  - id: pt:dre:154456:por
+    title: Decreto-Lei n.º 676/70
+    publication_date: '1970-12-31'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -197,9 +200,11 @@ b) Os lugares de auxiliar de enfermagem, depois de efectuada a adição referida
 
 3. Por despachos publicados no Diário do Governo, o Ministro da Saúde e Assistência fixará a divisão de lugares em cada quadro, nos termos do número anterior, e aprovará a distribuição do pessoal em serviço, à qual será aplicável o regime estabelecido nos n.os 2 e 3 do artigo 17.º
 
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20242024.pdf)
+
 1. (Revogada.)
 
-> Alterado pelo/a [Decreto-Lei n.º 49434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49434-1969-217350), publicado em 1969-12-09.
+> Alterado pelo/a [Decreto-Lei n.º 676/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1970-154456), publicado em 1970-12-31.
 
 Publique-se e cumpra-se como nele se contém.
 

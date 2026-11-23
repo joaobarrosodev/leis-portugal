@@ -1,0 +1,235 @@
+[
+ {
+  "id": "pt:dre:642527:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Rectificações 1 a 3 da Decl. Rect. 107/2007 aplicadas às citações do art. 43.º n.os 2 e 3 e do art. 140.º n.º 1 (alínea g)); sem outras diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Decl. Rect. 107/2007, n.º 4: art. 3.º n.º 1 do DL 236/2001 com o texto «deve ler-se» (conservadores referidos no artigo anterior; devem aqueles designar).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Decl. Rect. 107/2007, n.º 5: n.º 4 com «bases de dados» e «artigo 10.º».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 46.º j): revogado o n.º 2 do art. 24.º do DL 324/2007; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009, art. 29.º: nova alínea i) e renumeração j) a q); Lei 2/2016, art. 4.º: novo n.º 3. Texto coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Decl. Rect. 107/2007, n.os 1 e 2: «documento assinado» nos n.os 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018, art. 2.º: novo n.º 8 (língua inglesa, francesa ou espanhola).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009, art. 29.º: nova alínea h) e renumeração i) a q); DL 247-B/2008, art. 31.º: n.º 3 com alínea f). Texto coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 46.º e): n.º 2 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009, art. 29.º: n.º 2 com «prazo de um dia».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.º 2 com «n.º 5 do artigo 92.º».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Decl. Rect. 107/2007, n.º 6: n.º 3 passa a «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018, art. 2.º: novo n.º 3 (identificação da mãe com número de identificação civil).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018, art. 2.º: novo n.º 3 (identificação do pai com número de identificação civil).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018, art. 2.º: alínea b) do n.º 1 com «número de identificação civil da mãe».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Decl. Rect. 107/2007, n.º 3: alínea g) em vez de f).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.º 2 novo texto. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º-A",
+    "veredicto": "errado",
+    "motivo": "O texto novo não vem de nenhuma instrução visível na vista: o único alterador visível (Lei 29/2009, art. 81.º) diz «a conservatória ou o cartório notarial», não só «o cartório notarial». O consolidado parece vir da Lei 23/2013, cujo texto só tem o art. 1.º (objeto) na vista. Sem instrução confirmável, o artigo é errado (nem original nem Lei 29/2009).",
+    "texto_esperado": "###### Artigo 202.º-A — Menção da habilitação de herdeiros e do processo de inventário\n\n1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.\n\n2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respectivo, por meio de cota de referência que identifique a conservatória ou o cartório notarial onde o processo foi instaurado e o seu número."
+   },
+   {
+    "artigo": "Artigo 202.º-B",
+    "veredicto": "errado",
+    "motivo": "Epígrafe e n.º 2 não correspondem a nenhuma instrução visível: Lei 29/2009, art. 81.º, dá epígrafe «tribunais, conservatórias e notários» e n.º 2 «a conservatória ou o notário comunicam». O consolidado diz «tribunais e notários» e «o notário comunica» (provável origem Lei 23/2013, texto ausente da vista).",
+    "texto_esperado": "###### Artigo 202.º-B — Comunicações a efectuar pelos tribunais, conservatórias e notários\n\n1 - (texto original do n.º 1, inalterado)\n\n2 - Para os efeitos do disposto no n.º 2 do artigo anterior, a conservatória ou o notário comunicam a qualquer conservatória do registo civil, preferencialmente por via electrónica, a instauração do processo de inventário."
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: novo n.º 4. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: n.os 1 e 2 novo texto. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º",
+    "veredicto": "errado",
+    "motivo": "n.os 1, 2 e 3 e alínea b) só coincidem em parte com Lei 29/2009, art. 81.º: o corpo do n.º 1 diz «ou para as finalidades previstas no regime jurídico do processo de inventário», que não vem de nenhuma instrução visível (Lei 29/2009: «ou do tribunal do lugar da abertura da sucessão»). Origem provável Lei 23/2013, ausente da vista.",
+    "texto_esperado": "###### Artigo 210.º — Comunicações a efectuar pelo conservador\n\n1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou do tribunal do lugar da abertura da sucessão:\n\na) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e\n\nb) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.\n\n2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.\n\n3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respectiva declaração.\n\n4 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:\n\na) O teor dos autos relativos aos óbitos lavrados no mês anterior;\n\nb) Os números de documentos de identificação ulteriormente conhecidos;\n\nc) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação."
+   },
+   {
+    "artigo": "Artigo 210.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: alínea b) do n.º 2, novo n.º 5 e renumeração do n.º 6. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.os 1 e 2 novos e anterior n.º 2 passa a n.º 3. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-G",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: artigo reescrito (epígrafe, n.os 1 a 5 com n.º 5 revogado). Coincide; também art. 46.º e).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-H",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.os 1 a 3. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.º 1 novo texto. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 46.º e): alínea c) do n.º 1 revogada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Lei 61/2008, art. 5.º: alínea c) do n.º 1 e n.º 2 novos. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: n.os 1 a 8 novos/renumerados. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008, art. 31.º: remissão com 210.º-L, 210.º-N e 210.º-M. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "DL 201/2015, art. 29.º e): revogado o art. 299.º (superou a redação do art. 16.º do DL 209/2012); epígrafe mantida, corpo «(Revogado.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Lei n.º 29/2009, art. 81.º (arts. 202.º-A, 202.º-B e 210.º do CRC): não aplicada tal como está (o consolidado tem outro texto). A vista não mostra o adiamento de efeitos: só a nota «Revogado pelo art. 6.º da Lei n.º 23/2013, em vigor a partir de 2013-09-02», que não prova que a redação nunca produziu efeito. Alvo certo."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 61/2008, art. 6.º (arts. 12.º e 14.º do DL 272/2001)",
+    "motivo": "Instrução de outro diploma (DL 272/2001); o original só lhes deu a redação."
+   },
+   {
+    "instrucao": "Lei n.º 61/2008, art. 8.º (Código Civil e Código de Processo Civil)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 247-B/2008, art. 46.º, alíneas a) a d) e f) a i)",
+    "motivo": "Outros diplomas (RNPC, Código do Registo Comercial, RERN, DL 111/2005, DL 125/2006, Lei 40/2007)."
+   },
+   {
+    "instrucao": "DL 122/2009, Lei 103/2009 arts. 30.º a 32.º, DL 99/2010, DL 209/2012 (exceto art. 16.º), Lei 63/2012, DL 122/2013, DL 19/2015, DL 201/2015 (exceto art. 29.º e)), Lei 2/2016 arts. 2.º e 3.º, Lei 110/2017, Lei 49/2018 art. 12.º, DL 66/2019",
+    "motivo": "Instruções dirigidas a outros diplomas (RERN, DL 322-A/2001, Código do Registo Predial/Comercial, DL 272/2001, Código do IRS, LOFTJ, Código Civil, EBF, RJUE, RJRU, Leis 7/2001 e 9/2010, etc.), não ao DL 324/2007; confirmado no texto."
+   },
+   {
+    "instrucao": "Lei n.º 143/2015, art. 4.º (art. 69.º do CRC, segundo quem consolidou)",
+    "motivo": "A vista traz o diploma sem nenhum artigo: o diploma que altera não traz o texto da alteração."
+   },
+   {
+    "instrucao": "Lei n.º 49/2018, art. 5.º (arts. 1.º, 69.º, 70.º e 174.º do CRC, segundo quem consolidou)",
+    "motivo": "A vista só traz o art. 12.º: o texto da alteração não está no diploma que altera tal como fornecido."
+   },
+   {
+    "instrucao": "DL 116/2008, Lei 64-A/2008 e Lei 64-B/2011",
+    "motivo": "Cabeçalho sem nenhum artigo na vista: sem texto da alteração; nenhuma instrução identificável."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

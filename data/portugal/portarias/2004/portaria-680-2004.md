@@ -100,7 +100,7 @@ source:
   metadata_url: https://data.dre.pt/eli/port/680/2004/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-990181804
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-990181804
-  retrieved_at: '2026-10-22T13:41:40Z'
+  retrieved_at: '2026-11-23T14:51:44Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-02-24T00:00:00Z'
@@ -111,7 +111,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:41:40Z'
+  generated_at: '2026-11-23T14:51:44Z'
   notes: 4 versão(ões); histórico completo em portaria-680-2004.versoes.json.
 reuse:
   status: permitted
@@ -182,7 +182,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:41:40Z'
+  checked_at: '2026-11-23T14:51:44Z'
   warnings: []
   errors: []
 ---

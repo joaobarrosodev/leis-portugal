@@ -223,6 +223,8 @@ h) Elaborar e analisar indicadores financeiros.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
 
+##### Divisão de Gestão Financeira e de Contabilidade
+
 Compete à Divisão de Gestão Financeira e de Contabilidade:
 
 a) Proceder à elaboração das propostas de orçamento do CNP, com base nos programas de actividade anuais;
@@ -574,6 +576,8 @@ b) Prestar informações orais e escritas a beneficiários, utentes e, de um mod
 > Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
 
 > Revogado pelo/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.
+
+##### Divisão de Auditoria
 
 A Divisão de Auditoria funciona na dependência directa do conselho directivo.
 

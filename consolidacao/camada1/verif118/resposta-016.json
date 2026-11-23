@@ -1,0 +1,209 @@
+[
+ {
+  "id": "pt:dre:642527:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 pontos 1 a 3: art. 43.º n.os 2 e 3 e art. 140.º n.º 1 (texto de rectificação) aplicados dentro do texto do art. 1.º do DL; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 ponto 4: art. 3.º n.º 1 do DL 236/2001 (na redacção do art. 8.º) com a nova redacção («dos conservadores referidos no artigo anterior… devem aqueles designar»); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 ponto 5: n.º 4 com «bases de dados» e «artigo 10.º»; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 46.º j): n.º 2 revogado; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009 art. 29.º (nova alínea i), renumeração j) a q) e Lei 2/2016 art. 4.º (novo n.º 3); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 pontos 1 e 2: n.os 2 e 3 sem «escrito e».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018 art. 2.º: n.º 8 com a ressalva da língua inglesa, francesa ou espanhola; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 (n.º 3 alínea f)) e Lei 103/2009 (nova alínea h) e renumeração h) a q)); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 46.º e): n.º 2 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009 art. 29.º: n.º 2 com «um dia».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 31.º: n.º 2 com «n.º 5 do artigo 92.º».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 ponto 6: n.º 3 passa a «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018 art. 2.º: novo n.º 3 (identificação da mãe).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018 art. 2.º: novo n.º 3 (identificação do pai).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018 art. 2.º: alínea b) do n.º 1 com «filiação e número de identificação civil da mãe».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 ponto 3: n.º 1 com «alíneas a), b), c) e g)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 31.º: n.º 2 com a nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º-A",
+    "veredicto": "certo",
+    "motivo": "Redacção da Lei 23/2013 art. 5.º (n.º 2 com «respetivo» e «cartório notarial»); a Lei 29/2009 art. 81.º não foi aplicada (nota de revogação na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º-B",
+    "veredicto": "certo",
+    "motivo": "Redacção da Lei 23/2013 art. 5.º (epígrafe e n.º 2 «o notário comunica… eletrónica»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: novo n.º 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: n.os 1 e 2 com a nova redacção (prazos de 30 e 60 dias).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º",
+    "veredicto": "certo",
+    "motivo": "Redacção da Lei 23/2013 art. 5.º (n.os 1 a 4 e alínea c) do n.º 4 «retificação»); a alínea a) do n.º 1 e as alíneas a), b) do n.º 4 mantêm o original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.º 2 alínea b), novo n.º 5 e renumeração do antigo n.º 5 para n.º 6.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.os 1, 2 novo e 3 (antigo n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-G",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: epígrafe e n.os 1 a 4 com a nova redacção; n.º 5 «(Revogado.)» (também art. 46.º e)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-H",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.os 1, 2 e 3 com a nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.º 1 com a nova redacção; n.os 2 a 7 iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 46.º e): alínea c) do n.º 1 revogada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Lei 61/2008 art. 5.º: alínea c) do n.º 1 e n.º 2 com a nova redacção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.os 1 a 8 com a nova redacção e renumeração (antigos n.os 4 e 5 passam a 6 e 8).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: remissão final com 210.º-L e 210.º-M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "DL 201/2015 art. 29.º e) revoga o art. 299.º (a redacção do DL 209/2012 art. 16.º ficou assim sem efeito); corpo «(Revogado.)» com epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 29/2009, art. 81.º: nova redacção dos arts. 202.º-A, 202.º-B e 210.º do CRC",
+    "motivo": "A nota do alterador na vista diz que o art. 81.º foi revogado pelo art. 6.º da Lei 23/2013 (em vigor desde 2013-09-02), e o art. 5.º da Lei 23/2013 (que está na vista) dá aos mesmos três artigos a redacção que o consolidado tem; o resultado final coincide. Cautela: o texto do art. 87.º/entrada em vigor da Lei 29/2009 não vem na vista, por isso o «efeito adiado» alegado por quem consolidou não é confirmável, só a revogação posterior."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

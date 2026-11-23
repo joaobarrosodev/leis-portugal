@@ -477,6 +477,46 @@ A varredura aos 2.795 consolidados do data/ (23/11/2026) marcou 157 artigos em 1
 
   24 são artigos revogados com o corpo antigo a seguir a um título de divisão. Estes 4 vão para a ronda seguinte.
 
+**Revogação mecânica (`texto_antigo.revogar_inteiro`, testes em `tests/test_texto_antigo.py`).** Quando a instrução revoga um artigo inteiro, o resultado é mecânico: fica o título, «(Revogado.)» e as notas, e sai o resto até ao artigo ou título de estrutura seguinte. São títulos de estrutura: Artigo, ANEXO/MAPA/QUADRO/TABELA, PARTE a SUBSECÇÃO em qualquer caixa, e DIVISÃO só com número. As fórmulas finais e as assinaturas ficam. A epígrafe que estava num título de divisão interno passa para o título do artigo. Com o texto original, só sai o que é do corpo original do artigo. Ao LLM ficam só as novas redações e as revogações parciais de números e alíneas. Os 24 artigos dos 4 consolidados acima foram corrigidos assim e verificados às cegas (`auditoria/texto-antigo-corrigidos.jsonl`). O `acervo.py` lê esse ficheiro e não escreve por cima.
+
+**Revogações, 3.ª passagem (`entrada-r3`).** Os pares com reparo foram repedidos ao respondedor com até 100 mil caracteres do diploma que revoga e o texto em vigor inteiro (até 150 mil). Resultado final em `auditoria/revogacoes-estado.jsonl`: **217 pares aplicados em 160 consolidados** (1.623 artigos ou unidades), 146 «não se aplica» confirmados às cegas e 42 sem confirmação, que ficam como estão.
+
+**Ronda 117** (`pedidos-4`, `verif117`, `segunda-117`). Os recusados da 116 repedidos com a adenda «Ronda 117»: uma nova redação substitui o artigo, nunca se acrescenta, e o texto vem das fontes, não dos reparos. **4 para o data/.**
+
+**Ronda 118** (`pedidos-5`, `verif118`, `segunda-118`, 23/11/2026). Dos 77 recusados, 30 tinham um reparo concreto e corrigível. Os outros 47 ficam como estão, com o motivo em `camada1/ronda-118-excluidos.jsonl`:
+
+| Motivo de ficar de fora | Diplomas |
+|---|---:|
+| falhou a letra a letra nas rondas 116 e 117, sem reparo concreto | 28 |
+| revogação de uma «parte» do texto sem limites claros, ou com ressalva | 8 |
+| texto em falta ou só em imagem | 6 |
+| título novo de capítulo ou secção, que o formato não acrescenta | 3 |
+| nova redação que remete para outro regulamento | 1 |
+| reparo concreto, mas falhou nas duas rondas: fica para revisão à mão | 1 |
+
+Quatro alteradores que faltavam entraram na seleção (`acrescentar-alteradores`). A ronda mostrou quatro defeitos no código que junta as respostas, todos corrigidos com testes:
+- **«O Primeiro-Ministro, salvo…» passava por assinatura** (`aplicar._formulas_finais`): o corpo antigo ficava a seguir à nova redação. Agora a linha só é assinatura com um nome a seguir à vírgula.
+- **Ligações de imagem iguais às do fecho** (`aplicar._reescrever`): uma ligação «(ver documento original)» de um mapa no corpo saía da nova redação por ser igual à do fim. Agora sai só o bloco das fórmulas finais.
+- **«São revogados: / O Decreto-Lei …, com excepção do artigo 25.º;»** não contava como revogação do diploma (`llm_completo._revoga_o_diploma`).
+- **Anexos de título repetido** iam todos ao primeiro (`_mudar_corpo_do_anexo`). Agora vão pela ordem da resposta. Um anexo revogado leva «Revogado pelo/a».
+
+A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_expressao`). Um parágrafo passa quando é um parágrafo do texto atual, do original ou de um alterador com uma só zona trocada, até 15 palavras, e o antes e o depois dessa zona, com o contexto à volta, estão os dois letra a letra no mesmo alterador. São casos como «onde se lê … deve ler-se …» ou «30 de Abril» → «30 de Junho». A barreira mecânica deixou de contar o anexo dentro do bloco de um artigo: o corpo do artigo acaba no título do anexo.
+
+- 4 respostas deram o mesmo texto que a ronda 117 recusou e não voltaram às cegas; mantêm o estado com esse motivo.
+- No DR 38/87, o corpo antigo do art. 14.º saiu por regra (`corrigir_artigo`), e a vista foi verificada de novo (`camada1/ronda-118-correcoes-mecanicas.jsonl`).
+- 23 foram às cegas e 11 passaram; a segunda leitura recusou 7. **4 para o data/:** DL 43777, DL 44864, DL 47958 e DR 38/87.
+
+| Estado depois da ronda 118 (214 diplomas) | Diplomas |
+|---|---:|
+| aplicar | 44 |
+| sem_alteracao_textual | 50 |
+| resposta_recusada | 32 |
+| recusado_as_cegas | 31 |
+| sem_alteracao_aplicavel | 22 |
+| so_em_imagem | 20 |
+| recusado_na_segunda_leitura | 10 |
+| sem_texto_do_alterador | 5 |
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

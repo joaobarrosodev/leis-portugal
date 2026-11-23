@@ -97,18 +97,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2012/p/cons/20240906/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70888932
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70888932
-  retrieved_at: '2026-10-22T12:03:50Z'
+  retrieved_at: '2026-11-20T16:51:25Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: d0e3e3ce8bce4fdc6bc06a59ef2387e5ba4c945860e14a18026ad76acc826f25
+  source_sha256: 14b7d5635ff696d91e1515b1f05caf04abf753f5bb238005431e0f9cee23f6a9
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:03:50Z'
+  generated_at: '2026-11-20T16:51:25Z'
   notes: 6 versão(ões); histórico completo em decreto-lei-35-2012.versoes.json.
 reuse:
   status: permitted
@@ -187,7 +187,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:03:50Z'
+  checked_at: '2026-11-20T16:51:25Z'
   warnings: []
   errors: []
 ---
@@ -240,9 +240,9 @@ d) Prover o SNS com os adequados sistemas de informação e comunicação e meca
 
 e) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente recursos financeiros e humanos, em articulação com a DE-SNS, I. P.;
 
-f) (Revogada.)
+f) [Revogada.]
 
-g) (Revogada.)
+g) [Revogada.]
 
 h) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;
 
@@ -250,19 +250,19 @@ i) Promover a aplicação das medidas de política de organização e de recurso
 
 j) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde;
 
-k) (Revogada.)
+k) [Revogada.]
 
 l) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;
 
 m) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;
 
-n) (Revogada);
+n) [Revogada.]
 
 o) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;
 
-p) (Revogada.)
+p) [Revogada.]
 
-q) Assegurar o Inventário Nacional dos Profissionais de Saúde.
+q) Assegurar o Inventário Nacional dos Profissionais de Saúde;
 
 r) Celebrar, sob proposta da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), acordos com entidades prestadoras de cuidados de saúde, entidades do setor privado ou social e com profissionais em regime de trabalho independente, incluindo nas áreas dos cuidados continuados integrados e cuidados paliativos, bem como celebrar e acompanhar os contratos em regime de parceria público-privada;
 
@@ -284,9 +284,9 @@ t) Coordenar no âmbito do MS a implementação de medidas na área da sustentab
 
 > Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . As alterações ao presente artigo produzem efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.
 
-> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01.
 
-> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24
 

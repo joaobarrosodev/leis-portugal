@@ -68,7 +68,7 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2018/12/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921223
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921223
-  retrieved_at: '2026-10-22T13:46:26Z'
+  retrieved_at: '2026-11-23T15:09:55Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-07-24T00:00:00Z'
@@ -79,7 +79,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:46:26Z'
+  generated_at: '2026-11-23T15:09:55Z'
   notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-22-2018-m.versoes.json.
 reuse:
   status: permitted
@@ -161,7 +161,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:46:26Z'
+  checked_at: '2026-11-23T15:09:55Z'
   warnings: []
   errors: []
 ---

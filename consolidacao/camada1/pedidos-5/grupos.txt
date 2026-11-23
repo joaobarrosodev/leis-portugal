@@ -1,0 +1,12 @@
+1|completo/pedido-022.md|770
+2|completo/pedido-004.md|717
+3|corrido/pedido-002.md|558
+4|completo/pedido-011.md|531
+5|corrido/pedido-003.md, completo/pedido-015.md|698
+6|completo/pedido-023.md, completo/pedido-012.md|489
+7|completo/pedido-018.md, completo/pedido-007.md, corrido/pedido-001.md|574
+8|completo/pedido-005.md, completo/pedido-025.md, completo/pedido-014.md|464
+9|completo/pedido-010.md, completo/pedido-006.md, completo/pedido-003.md, completo/pedido-026.md|537
+10|completo/pedido-001.md, completo/pedido-017.md, completo/pedido-016.md, completo/pedido-027.md|430
+11|completo/pedido-019.md, completo/pedido-020.md, completo/pedido-002.md, completo/pedido-024.md|319
+12|completo/pedido-013.md, completo/pedido-021.md, completo/pedido-008.md, completo/pedido-009.md|220

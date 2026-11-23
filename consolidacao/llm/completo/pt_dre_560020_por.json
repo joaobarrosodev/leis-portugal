@@ -26,27 +26,9 @@
       "alterador": 12
     },
     {
-      "chave": "4.º-A",
-      "epigrafe": "Desdobramento de secções",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
       "chave": "5.º",
       "epigrafe": "(Tribunais judiciais de 1ª. Instância)",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "Tribunais de círculo",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "6.º-A",
-      "epigrafe": "Secretarias judiciais privativas",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\n###### artigo 6º — (Tribunais de círculo)\n\n(Revogado.)",
       "alterador": 12
     },
     {
@@ -63,13 +45,13 @@
     },
     {
       "chave": "9.º",
-      "epigrafe": "Tribunais de família e tribunais de família e menores",
+      "epigrafe": "(Tribunais de família e tribunais de família e menores)",
       "texto": "(Revogado.)",
       "alterador": 12
     },
     {
       "chave": "10.º",
-      "epigrafe": "Constituição do tribunal colectivo noutros tribunais",
+      "epigrafe": "(Constituição do tribunal colectivo noutros tribunais)",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -92,20 +74,8 @@
       "alterador": 12
     },
     {
-      "chave": "13.º-A",
-      "epigrafe": "Coadjuvação do tribunal",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
       "chave": "14.º",
       "epigrafe": "Comparecimento pessoal e despesas de deslocação",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "14.º-A",
-      "epigrafe": "Âmbito de competência para a prática de actos judiciais",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -117,7 +87,7 @@
     },
     {
       "chave": "16.º",
-      "epigrafe": "Presidência do tribunal para efeitos administrativos",
+      "epigrafe": "(Presidência do tribunal para efeitos administrativos)",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -147,15 +117,9 @@
     },
     {
       "chave": "21.º",
-      "epigrafe": "Magistrados do Ministério Público",
+      "epigrafe": "(Magistrados do Ministério Público)",
       "texto": "(Revogado.)",
       "alterador": 12
-    },
-    {
-      "chave": "21.º-A",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 7
     },
     {
       "chave": "22.º",
@@ -164,26 +128,8 @@
       "alterador": 12
     },
     {
-      "chave": "22.º-A",
-      "epigrafe": "Tribunais de turno",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "22.º-B",
-      "epigrafe": "Magistrados dos tribunais de turno",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "22.º-C",
-      "epigrafe": "Competência e funcionamento dos tribunais de turno",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
       "chave": "23.º",
-      "epigrafe": "Juízes de instrução criminal",
+      "epigrafe": "(Juízes de instrução criminal)",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -196,7 +142,7 @@
     {
       "chave": "25.º",
       "epigrafe": "(Informática nos tribunais)",
-      "texto": "1 - A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.\n\n2 - Para efeitos do disposto no número anterior, podem ser constituídas equipas de projecto integrando magistrados judiciais e do Ministério Público, funcionários de justiça e técnicos designações pelo Ministério da Justiça em regime de acumulação de funções ou em comissão de serviço, destacamento ou requisição, observadas as normas estatutárias respectivas.\n\n3 - A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.\n\n4 - Durante a fase de estudos, trabalhos preparatórios e implantação de projectos de informática nas instituições judiciárias, incluindo os respeitantes à constituição de bases de dados jurídicas, e até final de 1999, é aplicável aos magistrados que desempenham funções nesse âmbito o disposto no artigo 19.º do presente diploma, com as devidas adaptações.\n\n5 - Os oficiais de justiça a desempenhar funções nos termos do presente artigo estão, para esse efeito, sujeitos, até final de 1999, ao regime geral de trabalho extraordinário da função pública.\n\n6 - O tempo de serviço prestado nas equipas previstas no n.º 2 é considerado para todos os efeitos como de efectivo serviço na categoria e a nomeação não dá origem a abertura de vaga no lugar de origem.",
+      "texto": "1. A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.\n\n2 - Para efeitos do disposto no número anterior, podem ser constituídas equipas de projecto integrando magistrados judiciais e do Ministério Público, funcionários de justiça e técnicos designações pelo Ministério da Justiça em regime de acumulação de funções ou em comissão de serviço, destacamento ou requisição, observadas as normas estatutárias respectivas.\n\n3. A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.\n\n4 - Durante a fase de estudos, trabalhos preparatórios e implantação de projectos de informática nas instituições judiciárias, incluindo os respeitantes à constituição de bases de dados jurídicas, e até final de 1999, é aplicável aos magistrados que desempenham funções nesse âmbito o disposto no artigo 19.º do presente diploma, com as devidas adaptações.\n\n5 - Os oficiais de justiça a desempenhar funções nos termos do presente artigo estão, para esse efeito, sujeitos, até final de 1999, ao regime geral de trabalho extraordinário da função pública.\n\n6 - O tempo de serviço prestado nas equipas previstas no n.º 2 é considerado para todos os efeitos como de efectivo serviço na categoria e a nomeação não dá origem a abertura de vaga no lugar de origem.",
       "alterador": 11
     },
     {
@@ -248,12 +194,6 @@
       "alterador": 12
     },
     {
-      "chave": "33.º-A",
-      "epigrafe": "Tribunais de Pequena Instância de Almada e Vila Nova de Gaia",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
       "chave": "34.º",
       "epigrafe": "(Tribunal de família de Lisboa)",
       "texto": "(Revogado.)",
@@ -274,12 +214,6 @@
     {
       "chave": "37.º",
       "epigrafe": "(Tribunal do trabalho de Angra do Heroísmo)",
-      "texto": "(Revogado.)",
-      "alterador": 12
-    },
-    {
-      "chave": "37.º-A",
-      "epigrafe": "Tribunal do Trabalho de Aveiro",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -387,7 +321,7 @@
     },
     {
       "chave": "55.º",
-      "epigrafe": "Entrada em funcionamento de novos tribunais ou juízos",
+      "epigrafe": "(Entrada em funcionamento de novos tribunais ou juízos)",
       "texto": "(Revogado.)",
       "alterador": 12
     },
@@ -448,29 +382,83 @@
     {
       "chave": "65.º",
       "epigrafe": "(Encargos)",
-      "texto": "(Revogado.)\n\nMAPA VIII\n\nMAGISTRADOS DO MINISTÉRIO PÚBLICO\n\nTRIBUNAIS SUPERIORES\n\nSUPREMO TRIBUNAL ADMINISTRATIVO\n\n3 Procuradores da República\n\nTRIBUNAL TRIBUTÁRIO DE 2a. INSTÂNCIA\n\n1 Procurador-Geral-Adjunto\n\n1 Procurador da República\n\nTRIBUNAIS DE 1a. INSTÂNCIA\n\nPROCURADORES DA REPÚBLICA\n\nTribunal Administrativo do Círculo de Lisboa 1 Procurador da República\n\nTribunal Admnistrativo do Círculo do Porto 1 Procurador da República (ver nota a)\n\nTribunal Administrativo do Círculo de Coimbra 1 Procurador da República (ver nota b)\n\n(nota a) Exerce também funções no Tribunal Administrativo do Círculo de Coimbra.\n\n(nota b) É Procurador da República no Tribunal Administrativo do Círculo do Porto.\n\nDELEGADOS DO PROCURADOR DA REPÚBLICA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf)",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira.\n\nPromulgado em 14 de Junho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Junho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMAPA I\n\nDISTRITOS JUDICIAIS\n\n(Revogado.)\n\nMAPA II\n\nCÍRCULOS JUDICIAIS\n\n(Revogado.)\n\nMAPA III\n\nCOMARCAS\n\n(Revogado.)\n\nMAPA IV\n\nSUPREMO TRIBUNAL DE JUSTIÇA\n\n(Revogado.)\n\nMAPA V\n\nTRIBUNAIS DE RELAÇÃO\n\n(Revogado.)\n\nMAPA VI\n\nTRIBUNAIS JUDICIAIS DE 1ª INSTÂNCIA\n\n(Revogado.)\n\nMAPA VII\n\nTRIBUNAIS DE PEQUENAS CAUSAS\n\n(Revogado.)\n\nMAPA VIII\n\nMAGISTRADOS DO MINISTÉRIO PÚBLICO\n\nTRIBUNAIS SUPERIORES\n\n(Revogado.)\n\nSUPREMO TRIBUNAL ADMINISTRATIVO\n\n3 Procuradores da República\n\nTRIBUNAL TRIBUTÁRIO DE 2a. INSTÂNCIA\n\n1 Procurador-Geral-Adjunto\n\n1 Procurador da República\n\nTRIBUNAIS DE 1a. INSTÂNCIA\n\nPROCURADORES DA REPÚBLICA\n\n(Revogado.)\n\nTribunal Administrativo do Círculo de Lisboa 1 Procurador da República\n\nTribunal Admnistrativo do Círculo do Porto 1 Procurador da República (ver nota a)\n\nTribunal Administrativo do Círculo de Coimbra 1 Procurador da República (ver nota b)\n\n(nota a) Exerce também funções no Tribunal Administrativo do Círculo de Coimbra.\n\n(nota b) É Procurador da República no Tribunal Administrativo do Círculo do Porto.\n\nDELEGADOS DO PROCURADOR DA REPÚBLICA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf)\n\nMAPA IX\n\nTRIBUNAIS DE CÍRCULO AUXILIARES DE LISBOA E PORTO\n\n(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "4.º-A",
+      "epigrafe": "Desdobramento de secções",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "Secretarias judiciais privativas",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "13.º-A",
+      "epigrafe": "Coadjuvação do tribunal",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "14.º-A",
+      "epigrafe": "Âmbito de competência para a prática de actos judiciais",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "37.º-A",
+      "epigrafe": "Tribunal do Trabalho de Aveiro",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "33.º-A",
+      "epigrafe": "Tribunais de Pequena Instância de Almada e Vila Nova de Gaia",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "22.º-A",
+      "epigrafe": "Tribunais de turno",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "22.º-B",
+      "epigrafe": "Magistrados dos tribunais de turno",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "22.º-C",
+      "epigrafe": "Competência e funcionamento dos tribunais de turno",
+      "texto": "(Revogado.)",
       "alterador": 12
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, retificação do formulário do diploma («pela Lei n.º 38/87»): alvo incerto: o formulário não vem no texto atual (nenhuma unidade o contém), por isso não há onde a aplicar.\nAlterador 7, artigos 1.º, 2.º e 4.º (alterações à Lei n.º 38/87, à Lei n.º 21/85 e ao Decreto-Lei n.º 376/87): outro diploma.\nAlterador 12, artigo 74.º, n.os 2 e 3 (manutenção até 15 de setembro de 1999 do mapa II e do mapa X da Lei n.º 44/96): não textual: prazo transitório, não muda o texto.\nAlterador 12, artigo 74.º, n.º 1, mapa VIII, delegados do procurador da República: só em imagem: o quadro dos delegados (procuradores-adjuntos) só existe em imagem e não se pode separar a parte dos tribunais administrativos e fiscais, que se mantém, da parte revogada; a linha da imagem fica como está.\nAlterador 13, artigo 6.º (mantêm-se os quadros dos procuradores-adjuntos nos tribunais administrativos de círculo do mapa VIII; extintos quando vagarem): não textual.\nAlterador 13, restantes artigos (alterações aos Decretos-Leis n.os 129/84, 374/84 e 173-A/78): outro diploma.\nAlterador 14, Decreto-Lei n.º 25/2009 (alterações ao Decreto-Lei n.º 186-A/99 e organização das comarcas piloto): outro diploma: não traz instrução dirigida ao Decreto-Lei n.º 214/88.",
+  "nao_aplicavel": "Alterador 1, retificação do formulário («Decreto-Lei n.º 38/87» para «Lei n.º 38/87», «pelo» para «pela»): alvo incerto: o formulário (preâmbulo) não está no texto atual, que só traz os artigos.\nAlterador 1, retificações do quadro de delegados do mapa VIII («Coimbra 12 (1 TT)», «Moncorvo 1», «Oeiras 7 (1 TT)», «Penala», «Ponta Delagada», «Santo Tirso 6 (2 TT)», «Vila Nova de Famalicão 5», «Lisboa» a seguir a Vouzela): só em imagem: o quadro de delegados do procurador da República só existe em imagem no texto atual.\nAlteradores 3, 5, 8 e 10, mapa VIII, delegados do procurador da República por comarca: só em imagem: o quadro de delegados só existe em imagem no texto atual e os alteradores trazem só as linhas mudadas, sem imagem nova.\nAlterador 12, art. 74.º, n.º 1, revogação do mapa VIII salvo quanto aos tribunais administrativos e fiscais, na parte «DELEGADOS DO PROCURADOR DA REPÚBLICA»: alvo incerto: o quadro de delegados só vem em imagem e, segundo o art. 6.º do DL 301-A/99, inclui procuradores-adjuntos dos tribunais administrativos de círculo; não se sabe que linhas da imagem ficam e quais são revogadas, por isso a imagem fica como está.\nAlterador 7, art. 5.º, revogação do artigo 21.º-A: alvo incerto: o artigo 21.º-A (aditado pelo DL 312/93, que não está entre os alteradores) não está no texto atual; além disso a revogação só produz efeito na data do início de funcionamento dos tribunais de turno (90 dias após um aviso a publicar).\nAlterador 7, art. 22.º-A, n.º 1, mapa X: outro diploma: o mapa X é anexo à Lei n.º 44/96 e não ao original (o próprio DL 186-A/99, art. 74.º, n.º 3, o diz anexo à Lei n.º 44/96).\nAlterador 12, art. 74.º, n.os 2 e 3 (manutenção até 15 de Setembro de 1999 da composição dos círculos do mapa II, da área territorial dos tribunais e do mapa X): não textual: regime transitório com termo já passado; o mapa II fica revogado.\nAlterador 13, art. 6.º (mantêm-se os quadros dos procuradores-adjuntos nos tribunais administrativos de círculo do mapa VIII, extintos quando vagarem): não textual: não muda o texto do mapa VIII.",
   "instrucoes": [
-    "Alterador 1 (Declaração): retificações aos artigos 28.º a 54.º e aos mapas; as do mapa VIII no Supremo Tribunal Administrativo («3 Procuradores da República») e no Tribunal Tributário de 2.ª Instância («1 Procurador da República») aplicadas no lugar, na parte do mapa VIII que se mantém (artigo 65.º); as restantes ficam sem efeito pela revogação do alterador 12; a do formulário vai em nao_aplicavel.",
-    "Alterador 2 (DL 206/91): nova redação dos artigos 6.º, 9.º, 10.º, 13.º, 14.º, 16.º, 21.º, 23.º, 25.º e 55.º; aditamento dos artigos 4.º-A, 6.º-A, 13.º-A, 14.º-A e 37.º-A; revogação do 8.º; alteração dos mapas: tudo depois revogado pelo alterador 12, exceto o artigo 25.º (n.os 2 e 6 desta redação mantêm-se). Epígrafes novas usadas nos artigos revogados.",
-    "Alterador 3 (DL 222/94): nova redação dos artigos 6.º e 36.º e alteração de mapas: depois revogados pelo alterador 12.",
-    "Alterador 4 (DL 29/95), alterador 6 (DL 18/96) e alterador 9 (DL 137/97): nova redação dos n.os 4 e 5 do artigo 25.º, substituída pela do alterador 11.",
-    "Alterador 5 (DL 153/95): nova redação do 33.º, aditamento do 33.º-A, alteração de mapas: depois revogados pelo alterador 12.",
-    "Alterador 7 (Lei 44/96): nova redação dos artigos 22.º e 22.º-A, aditamento dos 22.º-B e 22.º-C, revogação do 21.º-A (devolvido como revogado, sem epígrafe por não vir no pedido): os 22.º a 22.º-C depois revogados pelo alterador 12.",
-    "Alterador 8 (DL 173/96) e alterador 10 (DL 110/98): alteração dos mapas VI, VII e VIII: sem efeito no texto porque não tocam a parte do mapa VIII que se mantém e o resto foi revogado.",
-    "Alterador 11 (DL 39/99): nova redação dos n.os 4 e 5 do artigo 25.º; os n.os 1 e 3 ficam do texto atual e os n.os 2 e 6 da redação do DL 206/91; artigo 25.º devolvido inteiro.",
-    "Alterador 12 (DL 186-A/99, art. 74.º, n.º 1): revogação do diploma salvo o artigo 25.º e o mapa VIII quanto aos magistrados do Ministério Público nos tribunais administrativos e fiscais: todos os outros artigos (incluindo o 6.º, que vinha dentro do 5.º, e os aditados) com o corpo «(Revogado.)»; o artigo 65.º fica «(Revogado.)» seguido só da parte que se mantém do mapa VIII (Supremo Tribunal Administrativo, Tribunal Tributário de 2.ª Instância, tribunais administrativos de círculo e notas, e a linha da imagem dos delegados); mapas I a VII e IX e as assinaturas retirados.",
-    "Alterador 13 (DL 301-A/99) e alterador 14 (DL 25/2009): sem instrução textual ao original (nao_aplicavel)."
+    "Alterador 1 (Declaração de retificação): retificações dos artigos 28.º, 29.º, 30.º, 32.º, 35.º, 43.º, 49.º, 50.º, 53.º, 54.º e dos mapas I a VII e IX ficam absorvidas pela revogação do alterador 12; no mapa VIII, parte mantida, aplicadas «3 Procuradores da República» (STA) e «1 Procurador da República» (TT 2.ª instância, em vez de «1 Procurador-Geral da República»); formulário e quadro de delegados em nao_aplicavel.",
+    "Alterador 2 (DL 206/91): nova redação dos arts. 6.º, 9.º, 10.º, 13.º, 14.º, 16.º, 21.º, 23.º, 25.º e 55.º, aditamento dos arts. 4.º-A, 6.º-A, 13.º-A, 14.º-A e 37.º-A, revogação do art. 8.º e alteração dos mapas: no art. 25.º (que fica em vigor) ficam os n.os 2 e 6 desta redação; o resto é revogado pelo alterador 12 (os artigos aditados vão como «(Revogado.)», com a epígrafe que este alterador lhes deu; as epígrafes novas dos arts. 13.º e 14.º ficam).",
+    "Alterador 3 (DL 222/94): nova redação dos arts. 6.º e 36.º, arts. 2.º e 3.º próprios, alteração dos mapas: tudo revogado pelo alterador 12.",
+    "Alteradores 4, 6, 9 e 11 (DL 29/95, 18/96, 137/97, 39/99): nova redação dos n.os 4 e 5 do art. 25.º; fica a do DL 39/99 (até final de 1999); n.os 1 e 3 do texto atual e n.os 2 e 6 do DL 206/91.",
+    "Alterador 5 (DL 153/95): nova redação do art. 33.º (epígrafe nova fica), aditamento do art. 33.º-A, alteração dos mapas: revogados pelo alterador 12.",
+    "Alterador 7 (Lei 44/96): nova redação dos arts. 22.º (epígrafe nova fica) e 22.º-A, aditamento dos arts. 22.º-B e 22.º-C: revogados pelo alterador 12 (22.º-A, 22.º-B e 22.º-C como «(Revogado.)»); revogação do 21.º-A e mapa X em nao_aplicavel.",
+    "Alteradores 8 e 10 (DL 173/96, 110/98): alteração dos mapas VI, VII e VIII: revogados pelo alterador 12 (delegados em imagem: nao_aplicavel).",
+    "Alterador 12 (DL 186-A/99, art. 74.º, n.º 1): revogação do original salvo o art. 25.º e o mapa VIII quanto aos magistrados do MP nos tribunais administrativos e fiscais: todos os outros artigos com «(Revogado.)» (o art. 6.º, que vem dentro do 5.º, também); no art. 65.º o corpo «(Encargos)» passa a «(Revogado.)», tiradas as linhas soltas «1 Procurador da República», ficam as fórmulas finais, os mapas I a VII e IX com «(Revogado.)» a seguir ao título, e no mapa VIII ficam o STA, o TT de 2.ª instância e os tribunais administrativos de círculo (com as notas), com «(Revogado.)» no lugar de Macau e das relações e dos procuradores dos círculos judiciais.",
+    "Alterador 13 (DL 301-A/99): só o art. 6.º menciona o original, sem alteração textual (nao_aplicavel).",
+    "Alterador 14 (DL 25/2009): não traz instruções dirigidas ao original (altera o DL 186-A/99)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

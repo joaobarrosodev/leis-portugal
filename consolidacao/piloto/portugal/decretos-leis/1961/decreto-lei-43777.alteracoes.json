@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "6.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "8.º",
@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "9.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "10.º",
@@ -67,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "11.º",
@@ -81,7 +81,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "12.º",
@@ -95,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "13.º",
@@ -109,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "4.º",
@@ -123,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "7.º",
@@ -137,7 +137,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "14.º",
@@ -151,7 +151,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   },
   {
     "artigo": "15.º",
@@ -165,6 +165,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:172897:por",
-    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por"
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\nÉ criado na Santa Casa da Misericórdia de Lisboa um departamento de apostas mútuas desportivas, destinado a assegurar o expediente das actividades a que se refere este diploma, com autonomia financeira, orçamento e conta própria.\n\n§ 1.º A organização interna deste departamento e o modo da sua dependência ou coordenação com a Repartição da Lotaria e os demais serviços da Santa Casa da Misericórdia de Lisboa, os critérios para compensação desta por encargos ocasionados pela exploração das apostas mútuas desportivas, a competência dos diversos órgãos para autorização das despesas, os quadros do pessoal, as respectivas remunerações e bem assim as dos membros da mesa, das comissões executivas e dos júris previstos nos artigos 6.º e 10.º e ainda a integração nos quadros do pessoal já ao serviço serão fixados em portaria do Ministro da Saúde e Assistência.\n\n§ 2.º Para facilidade de relações de natureza comercial, é autorizada a Santa Casa da Misericórdia de Lisboa a abrir contas em quaisquer estabelecimentos bancários.\n\n§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto nos artigos 13.º e 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.\n\n§ 4.º Podem os Ministros das Finanças e das Comunicações estabelecer, em portaria, um regime especial adequado ao pagamento dos prémios por meio de vale de correio ou cheques sobre a Caixa Geral de Depósitos, Crédito e Previdência.",
+    "depois": "###### Artigo 17.º\n\nÉ criado na Santa Casa da Misericórdia de Lisboa um departamento de apostas mútuas desportivas, destinado a assegurar o expediente das actividades a que se refere este diploma, com autonomia financeira, orçamento e conta própria.\n\n§ 1.º A organização interna deste departamento e o modo da sua dependência ou coordenação com a Repartição da Lotaria e os demais serviços da Santa Casa da Misericórdia de Lisboa, os critérios para compensação desta por encargos ocasionados pela exploração das apostas mútuas desportivas, a competência dos diversos órgãos para autorização das despesas, os quadros do pessoal, as respectivas remunerações e bem assim as dos membros da mesa, das comissões executivas e dos júris previstos nos artigos 6.º e 10.º e ainda a integração nos quadros do pessoal já ao serviço serão fixados em portaria do Ministro da Saúde e Assistência.\n\n§ 2.º Para facilidade de relações de natureza comercial, é autorizada a Santa Casa da Misericórdia de Lisboa a abrir contas em quaisquer estabelecimentos bancários.\n\n§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.\n\n§ 4.º Podem os Ministros das Finanças e das Comunicações estabelecer, em portaria, um regime especial adequado ao pagamento dos prémios por meio de vale de correio ou cheques sobre a Caixa Geral de Depósitos, Crédito e Previdência.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1961-172537), publicado em 1961-07-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172897:por",
+    "alterador": "pt:dre:382402:por;pt:dre:390074:por;pt:dre:408945:por;pt:dre:146055:por;pt:dre:172537:por"
   }
 ]

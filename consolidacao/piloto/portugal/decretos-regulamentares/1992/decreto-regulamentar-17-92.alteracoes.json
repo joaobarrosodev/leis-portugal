@@ -166,33 +166,5 @@
     "unidade": [],
     "diploma": "pt:dre:292498:por",
     "alterador": "pt:dre:239457:por;pt:dre:424337:por"
-  },
-  {
-    "artigo": "Divisão de Gestão Financeira e de Contabilidade",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "##### Divisão de Gestão Financeira e de Contabilidade",
-    "depois": "",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:292498:por",
-    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
-  },
-  {
-    "artigo": "Divisão de Auditoria",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "##### Divisão de Auditoria",
-    "depois": "",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:292498:por",
-    "alterador": "pt:dre:239457:por;pt:dre:424337:por"
   }
 ]

@@ -76,18 +76,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1109-a/2000/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970365
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970365
-  retrieved_at: '2026-11-20T13:54:13Z'
+  retrieved_at: '2026-11-23T16:13:04Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: a47ade10e3b001273830c9d7168387c960fddd8740fffeb4e8d3384870a7d616
+  source_sha256: 308fe4e098c65a3e40b5445170fb1591b6589af508e35b4ac864d8d94bee1134
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-11-20T13:54:13Z'
+  generated_at: '2026-11-23T16:13:04Z'
   notes: 2 versão(ões); histórico completo em portaria-1109-a-2000.versoes.json.
 reuse:
   status: permitted
@@ -166,7 +166,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-11-20T13:54:13Z'
+  checked_at: '2026-11-23T16:13:04Z'
   warnings: []
   errors: []
 ---
@@ -199,9 +199,7 @@ Em 15 de Novembro de 2000.
 
 A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
-## Anexo
-
-Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia.
+## Anexo — Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia
 
 ###### Artigo 1.º — Âmbito e objectivos
 

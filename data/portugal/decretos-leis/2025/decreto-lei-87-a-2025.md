@@ -71,7 +71,7 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-926588602
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-926588602
-  retrieved_at: '2026-10-22T13:45:37Z'
+  retrieved_at: '2026-11-23T15:06:41Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-07-10T00:00:00Z'
@@ -82,7 +82,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:45:37Z'
+  generated_at: '2026-11-23T15:06:41Z'
   notes: 2 versão(ões); histórico completo em decreto-lei-87-a-2025.versoes.json.
 reuse:
   status: permitted
@@ -209,7 +209,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:45:37Z'
+  checked_at: '2026-11-23T15:06:41Z'
   warnings: []
   errors: []
 ---

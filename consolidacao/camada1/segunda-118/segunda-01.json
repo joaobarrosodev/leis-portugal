@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:193229:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:462061:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 56.º (fim do diploma): a seguir a «(Revogado.)» e às fórmulas finais ficou o título «Quadro do pessoal a que se refere o artigo 31.º», com a ligação à imagem do quadro de 1980 (files.diariodarepublica.pt/1s/1980/10/23900/33963405.pdf). O art. 28.º do Decreto-Lei n.º 279/99 revoga o Decreto-Lei n.º 476/80 inteiro, «com excepção do artigo 25.º», e o quadro anexo faz parte do diploma (o art. 31.º que o aprova também está revogado). O quadro já tinha sido substituído pelo mapa anexo ao Decreto-Lei n.º 115/83 (art. 10.º) e depois pelo da Portaria n.º 65/88. Deve sair, ou ficar marcado como revogado, como se fez para os quadros anexos de outros diplomas revogados (precedente: pt:dre:292305:por, segunda-117). As fórmulas finais (Visto e aprovado, Promulgado, Publique-se) podem ficar."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado pelo art. 28.º do Decreto-Lei n.º 279/99, de 26 de julho, «com excepção do artigo 25.º»; só o art. 25.º continua em vigor (o Decreto-Lei n.º 118/83 remete para ele, e o Decreto-Lei n.º 234/2005 mantém essas remissões). O Decreto-Lei n.º 117/2011 não lhe dá redação nem o revoga."
+  }
+ },
+ {
+  "id": "pt:dre:172897:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado pelo art. 26.º, al. a), do Decreto-Lei n.º 84/85, de 28 de março, só «na parte prejudicada pelo disposto no presente diploma» (revogação condicional, bem deixada por aplicar). O próprio Decreto-Lei n.º 84/85 continua a remeter para os arts. 10.º e 17.º do Decreto-Lei n.º 43777."
+  }
+ }
+]
