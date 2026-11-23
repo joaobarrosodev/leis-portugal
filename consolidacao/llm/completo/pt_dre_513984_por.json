@@ -8,14 +8,20 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2 (DL 44585), art. 4.º: elimina um lugar de primeiro-oficial e um de dactilógrafo do mapa anexo ao original. O mapa só existe em imagem ('ver documento original'), por isso não se pode aplicar ao texto.",
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, arts. 1.º a 4.º, custas e quadro do pessoal do Conselho Ultramarino: outro diploma: nenhuma instrução dirigida ao Decreto-Lei n.º 43203.\nAlterador 2, arts. 1.º, 3.º (parte final), 6.º, 8.º, 9.º e 10.º, novas redações de artigos dos Decretos-Leis n.os 39602, 41169, 42194 e 43353: outro diploma.\nAlterador 2, art. 4.º, eliminação de um lugar de primeiro-oficial e de um de dactilógrafo no mapa anexo: só em imagem: o mapa do pessoal só vem em imagem e não há título de anexo no texto atual.\nAlterador 2, arts. 2.º, 5.º e 7.º, encargos, gratificações e vencimentos: não textual: normas próprias do alterador, sem nova redação do original.",
   "instrucoes": [
-    "Alterador 1 (DL 43828): não traz nenhuma instrução dirigida ao original (altera o Regimento e o quadro do Conselho Ultramarino). Nada a aplicar.",
-    "Alterador 2 (DL 44585), art. 3.º: revoga o art. 13.º do original. O corpo do artigo passou a '(Revogado.)'. A nova redacção do art. 59.º do DL 41169 é de outro diploma: ignorada.",
-    "Alterador 2, art. 4.º: elimina lugares do mapa anexo, que só vem em imagem. Não aplicado (ver nao_aplicavel).",
-    "Alterador 2, arts. 1.º, 6.º, 8.º, 9.º e 10.º: alteram outros diplomas (DL 39602, 42194, 41169, 43353). Ignorados."
+    "Alterador 1: nada dirigido ao original.",
+    "Alterador 2, art. 3.º: revoga o artigo 13.º: 13.º fica «(Revogado.)».",
+    "Alterador 2, art. 4.º: lugares eliminados no mapa anexo, só em imagem e sem título de anexo: não aplicado.",
+    "Alterador 2, restantes artigos: alteram outros diplomas ou são normas próprias: não aplicados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,479 @@
+[
+ {
+  "id": "pt:dre:493270:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "(Natureza)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "(Objectivo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "(Atribuições)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "(Órgãos)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "(Competência do presidente)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "(Delegação de competência)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "(Composição do conselho geral)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "(Natureza e competência do conselho geral)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "(Funcionamento do conselho geral)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "(Composição do conselho administrativo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "(Competência do conselho administrativo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "(Funcionamento do conselho administrativo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "(Composição da comissão de fiscalização)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "14.º",
+    "epigrafe": "(Competência da comissão de fiscalização)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "15.º",
+    "epigrafe": "(Funcionamento da comissão de fiscalização)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "16.º",
+    "epigrafe": "(Serviços centrais e desconcentrados)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "(Serviços centrais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "18.º",
+    "epigrafe": "(Departamento de Administração Geral)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "19.º",
+    "epigrafe": "(Departamento de Pessoal)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "20.º",
+    "epigrafe": "(Departamento de Coordenação Técnica e do Estudos e Planeamento)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "(Departamento Técnico-Jurídico)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "(Divisão de Documentação)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "23.º",
+    "epigrafe": "(Divisão de Informação e Relações Públicas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "24.º",
+    "epigrafe": "(Serviços desconcentrados)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "25.º",
+    "epigrafe": "(Delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "26.º",
+    "epigrafe": "(Atribuições das delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "27.º",
+    "epigrafe": "(Órgãos das delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "28.º",
+    "epigrafe": "(Competência do delegado regional)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "(Composição do conselho consultivo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "30.º",
+    "epigrafe": "(Competência do conselho consultivo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "31.º",
+    "epigrafe": "(Funcionamento do conselho consultivo)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "32.º",
+    "epigrafe": "(Serviços das delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "33.º",
+    "epigrafe": "(Departamento de Coordenação e Apoio Técnico)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "34.º",
+    "epigrafe": "(Repartição de Administração Geral e Pessoal)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "35.º",
+    "epigrafe": "(Núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "36.º",
+    "epigrafe": "(Competência dos núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "37.º",
+    "epigrafe": "(Órgãos dos núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "38.º",
+    "epigrafe": "(Competência do director do núcleo de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "39.º",
+    "epigrafe": "(Composição da comissão consultiva)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "40.º",
+    "epigrafe": "(Competência da comissão consultiva)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "41.º",
+    "epigrafe": "(Funcionamento da comissão consultiva)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "42.º",
+    "epigrafe": "(Serviços dos núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "43.º",
+    "epigrafe": "(Equipas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "44.º",
+    "epigrafe": "(Coordenação das equipas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "45.º",
+    "epigrafe": "(Apoio às equipas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "46.º",
+    "epigrafe": "(Funcionamento do Instituto)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "47.º",
+    "epigrafe": "(Acordos de cooperação e contratos de tarefa)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "48.º",
+    "epigrafe": "(Articulação com os órgãos e serviços da administração da justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "49.º",
+    "epigrafe": "(Articulação com órgãos e serviços de outros sectores da Administração Pública)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "50.º",
+    "epigrafe": "(Articulação com instituições privadas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "51.º",
+    "epigrafe": "(Articulação com organizações internacionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "52.º",
+    "epigrafe": "(Princípios de gestão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "53.º",
+    "epigrafe": "(Instrumentos de gestão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "54.º",
+    "epigrafe": "(Meios financeiros)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "55.º",
+    "epigrafe": "(Despesas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "56.º",
+    "epigrafe": "(Orçamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "57.º",
+    "epigrafe": "(Levantamento dos fundos)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "58.º",
+    "epigrafe": "(Pagamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "59.º",
+    "epigrafe": "(Regras de contabilidade)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "60.º",
+    "epigrafe": "(Prestação de contas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "61.º",
+    "epigrafe": "(Arquivo e conservação de documentos)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "62.º",
+    "epigrafe": "(Património)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "63.º",
+    "epigrafe": "(Inventário)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "64.º",
+    "epigrafe": "(Regime financeiro das delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "65.º",
+    "epigrafe": "(Organização da contabilidade das delegações regionais)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "66.º",
+    "epigrafe": "(Regime financeiro dos núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "67.º",
+    "epigrafe": "(Organização da contabilidade dos núcleos de extensão)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "68.º",
+    "epigrafe": "(Regime financeiro das equipas)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "93.º",
+    "epigrafe": "(Comissão Instaladora)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "94.º",
+    "epigrafe": "(Competência regulamentar)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "95.º",
+    "epigrafe": "(Afectação de pessoal)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "96.º",
+    "epigrafe": "(Transição de pessoal)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "97.º",
+    "epigrafe": "(Admissão de pessoal)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "98.º",
+    "epigrafe": "(Instalação dos serviços desconcentrados)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "99.º",
+    "epigrafe": "(Implantação da estrutura orgânica)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "100.º",
+    "epigrafe": "(Providências financeiras)",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "101.º",
+    "epigrafe": "(Produção de efeitos)",
+    "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 12 de Maio de 1983.\n\nPublique-se\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Maio de 1983.\n\nPelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.\n\nAnexo I a que se refere o artigo 69.º\n\nQuadro de pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11601/00010020.pdf)\n\nAnexo II a que se refere o artigo 73.º\n\nConteúdo funcional dos técnicos de regime de prova e reinserção social\n\n1 - Compete, genericamente, aos técnicos de regime de prova e reinserção social:\n\na) Conceber, adoptar e ou aplicar métodos e processos técnico-científicos na elaboração de estudos e relatórios; na concepção e ou desenvolvimento de programas de estudo psico-social e de acompanhamento individual de delinquentes imputáveis e inimputáveis, bem como de menores; na concepção e ou desenvolvimento de projectos de actuação a nível de grupos específicos, de instituições e da comunidade, global ou sectorialmente considerada;\n\nb) Participar em projectos e acções, designadamente de pesquisa e análise de situações de delinquência e marginalidade social, que exijam conhecimentos especializados e uma visão global do processo de reinserção social no sistema da administração pública em geral e da administração da justiça em particular;\n\nc) Prestar assessoria técnica de elevado grau de qualificação e responsabilidade nas áreas de política de reinserção social e prevenção criminal, assegurando tarefas de consultadoria, gestão de serviços, coordenação técnica e de actuação do Instituto nas diversas áreas de intervenção.\n\n2 - As funções referidas na alínea c) do número anterior serão atribuídas, preferencialmente, aos técnicos de reinserção social das categorias de assessor e principal.\n\n3 - As actividades mencionadas no n.º 1 serão exercidas no âmbito das atribuições do Instituto de Reinserção Social, nas respectivas áreas de intervenção, designadamente:\n\na) Apoio técnico aos tribunais na aplicação e ou execução de medidas de não institucionais consagradas no Código Penal e legislação complementar;\n\nb) Acção social institucional e pós-institucional em articulação com a administração penitenciária, com os tribunais criminais, de execução de penas, de menores e de família e com outros departamentos, designadamente da justiça, da segurança social, do trabalho, da educação e ensino;\n\nc) Apoio técnico aos tribunais de menores, de família e de comarca no exercício das respectivas competências em matéria de protecção e defesa dos direitos e interesses dos menores;\n\nd) Prevenção criminal e situações de marginalidade social, em articulação com outros serviços e organismos da administração da justiça e das áreas da educação, do trabalho e da segurança social;\n\ne) Apoio a grupos de cidadãos e a instituições privadas que, pontual ou continuamente, prossigam objectivos complementares da reinserção social e prevenção criminal.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, n.º 15.º da Portaria n.º 316/87 (o quadro de pessoal do Instituto passa a ser o do anexo XIII): só em imagem: o anexo XIII só vem em imagem e o quadro de pessoal (anexo I) não tem título de anexo no texto atual; está dentro do corpo do artigo 101.º\nAlterador 3, artigo 36.º, n.º 1, do Decreto-Lei n.º 215/2012 (mantém em vigor os artigos 87.º, 88.º e 92.º): não textual: norma transitória que mantém artigos em vigor; não muda o texto e o alterador não traz a revogação dos restantes artigos do capítulo V",
+  "instrucoes": [
+   "Alterador 1 (Portaria n.º 316/87), 15.º: substitui o quadro de pessoal do Instituto pelo anexo XIII, só em imagem e sem título de anexo no texto atual: nao_aplicavel.",
+   "Alterador 2 (Decreto-Lei n.º 58/95), artigo 99.º: remete para o capítulo V e o n.º 4 do artigo 76.º; não altera o texto do original.",
+   "Alterador 2 (Decreto-Lei n.º 58/95), artigo 120.º, n.º 1, alínea c): revoga o Decreto-Lei n.º 204/83 exceto o capítulo V; os artigos 1.º a 68.º e 93.º a 101.º ficam (Revogado.), com a epígrafe atual; os artigos 69.º a 92.º (capítulo V) ficam como estão. No 101.º, a seguir a (Revogado.), ficam as assinaturas e os anexos I e II, que são do capítulo V (artigos 69.º e 73.º). Os títulos de divisão ficam.",
+   "Alterador 3 (Decreto-Lei n.º 215/2012), artigo 36.º, n.º 1: mantém em vigor os artigos 87.º, 88.º e 92.º; não textual: nao_aplicavel."
+  ]
+ }
+]

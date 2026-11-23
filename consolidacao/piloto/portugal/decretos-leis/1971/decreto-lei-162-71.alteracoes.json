@@ -12,5 +12,33 @@
     "unidade": [],
     "diploma": "pt:dre:444725:por",
     "alterador": "pt:dre:471529:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, passa a ter a seguinte redacção:\n\n###### Artigo 1.º ...\n\n§ 1.º Será criado um lugar de professor do ensino primário para cada grupo de trinta e cinco crianças em idade escolar, não ficando, porém, sujeita a esse número nem a criação de lugares nas freguesias onde não haja outra escola e nas localidades cuja distância à escola mais próxima seja superior a 3 km, nem a criação de lugares destinados a alunos deficientes motores ou sensoriais.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444725:por",
+    "alterador": "pt:dre:307616:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. Quando os alunos matriculados numa escola excederem em não menos de quinze o número correspondente aos lugares docentes em funcionamento, criados com base no mínimo fixado na primeira parte do § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, na redacção dada no artigo 2.º do presente diploma, poderá ser criado mais um lugar.\n\n2. Os lugares de frequência mista integram-se nas escolas em que funcionam.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444725:por",
+    "alterador": "pt:dre:307616:por"
   }
 ]

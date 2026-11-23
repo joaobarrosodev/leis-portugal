@@ -35,7 +35,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º — (Emissão de títulos de participação)
+###### Artigo 1.º — Emissão de títulos de participação
 
 1 - As empresas públicas e as sociedades anónimas pertencentes maioritariamente ao Estado, directa ou indirectamente, podem, de acordo com o disposto no presente diploma, emitir títulos de crédito denominados «títulos de participação», representativos de empréstimos por elas contraídos.
 
@@ -73,7 +73,7 @@ Nas disposições seguintes deste diploma as designações «empresa», «títul
 
 8 - O apuramento feito pela empresa dos elementos a atender para a determinação da remuneração e, bem assim, o cálculo desta devem ser submetidos a parecer de revisor oficial de contas a nomear pelos participantes.
 
-###### Artigo 4.º — (Reembolso)
+###### Artigo 4.º — Reembolso
 
 1 - Os títulos são reembolsados apenas em caso de liquidação da empresa ou, se esta assim o decidir, após terem decorrido pelo menos 10 anos sobre a sua liberação, nas condições definidas aquando da emissão.
 

@@ -8,10 +8,16 @@
       "alterador": 1
     },
     {
+      "de": 19,
+      "ate": 19,
+      "texto": "",
+      "alterador": 1
+    },
+    {
       "de": 26,
       "ate": 26,
-      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano.",
-      "alterador": 2
+      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
+      "alterador": 1
     },
     {
       "de": 63,
@@ -33,18 +39,15 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "DL 191-A/89, art. 1.º: a nova redacção do art. 5.º do decreto-lei só lista os n.os 1 (a) e b)) e 2 e não menciona o n.º 3 (unidade 19); como nenhuma instrução o revoga por escrito, o n.º 3 fica como está.",
+  "nao_aplicavel": "Alterador 2, art. 11.º (prazo do n.º 2 do artigo 6.º reduzido para um ano): não textual — reduz o prazo sem dar nova redação ao n.º 2 (como uma prorrogação); o n.º 2 com «um ano» não está em nenhuma fonte, e fica a redação dada pelo alterador 1.",
   "instrucoes": [
-    "Alterador 1, art. 1.º, art. 5.º, n.º 1, alínea b): nova redacção; unidade 15 substituída. N.º 1 corpo, alínea a) e n.º 2 com '...' ficam iguais.",
-    "Alterador 1, art. 1.º, art. 6.º, n.º 2: nova redacção (prazo de dois anos, sem a parte sobre acções nominativas); alterador 2, art. 11.º: o prazo do n.º 2 do art. 6.º é reduzido para um ano. Unidade 26 = redacção do alterador 1 com 'dois anos' trocado por 'um ano' (reparo confirmado).",
-    "Alterador 1, art. 1.º, art. 6.º, n.º 6: novo número; inserido a seguir à unidade 29 (n.º 5). N.os 1, 3, 4 e 5 com '...' ficam iguais.",
-    "Alterador 1, art. 2.º, estatutos art. 4.º, n.º 1, alínea b): nova redacção; unidade 63 substituída.",
-    "Alterador 1, art. 2.º, estatutos art. 4.º, n.os 3 e 4: a nova redacção do artigo traz como n.os 3 e 4 os antigos n.os 4 e 5 (o antigo n.º 3 sai); unidades 67 a 69 substituídas pelos novos n.os 3 e 4, letra a letra do alterador.",
-    "Alterador 2, arts. 1.º a 10.º e 12.º: regime próprio da reprivatização, não alteram o texto do original."
+    "Alterador 1, art. 1.º: nova redação do art. 5.º — alínea b) do n.º 1 substituída (unidade 15); a redação lista só os n.os 1 e 2, e o n.º 3 (unidade 19) é eliminado.",
+    "Alterador 1, art. 1.º: nova redação do art. 6.º — n.º 2 substituído pelo texto do alterador (unidade 26); n.os 1, 3, 4 e 5 mantêm-se ('...'); aditado o n.º 6 a seguir à unidade 29.",
+    "Alterador 1, art. 2.º: nova redação do art. 4.º dos estatutos — alínea b) do n.º 1 substituída (unidade 63); n.º 2 mantém-se; o antigo n.º 3 desaparece e os novos n.os 3 e 4 (antigos 4 e 5, com o texto do alterador) substituem as unidades 67 a 69.",
+    "Alterador 2, art. 11.º: redução do prazo do n.º 2 do art. 6.º para um ano — não aplicada (sem nova redação do número; ver nao_aplicavel).",
+    "Alterador 2, restantes artigos: regime de reprivatização da 2.ª fase, não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 26-26: parágrafo que não está no alterador nem no original: 2 - As acções a que se referem as alíneas a) e b) do número anterior não podem s"
-  ]
+  "problemas": []
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19641966.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19641966.pdf)",
+    "depois": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19641966.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/081b00/16391640.pdf)\n\nLaboratório Nacional de Engenharia Civil\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25272528.pdf)\n\nQuadro de efectivos interdepartamentais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25272528.pdf)\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/294b00/90659066.pdf)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 31/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1999-654499), publicado em 1999-12-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616427:por",
+    "alterador": "pt:dre:654499:por"
+  }
+]

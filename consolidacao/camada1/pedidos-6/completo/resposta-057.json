@@ -1,0 +1,14 @@
+[
+ {
+  "id": "pt:dre:606527:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação no anexo I, parte B, n.º 1 («cálculo da arqueação líquida» passa a «cálculo da arqueação bruta e líquida»): alvo incerto: o texto atual só traz o título da parte B (que já diz «arqueações bruta e líquida»), sem o n.º 1 nem a expressão a retificar, que deve estar só no documento original.",
+  "instrucoes": [
+   "Alterador 1: retifica o anexo I, parte B, n.º 1; o n.º 1 não está no texto atual (a parte B só tem o título), vai para nao_aplicavel.",
+   "Alterador 2, art. 2.º, n.º 1, d): apenas remete para o original na definição de arqueação; não é instrução de alteração, nada a aplicar."
+  ]
+ }
+]

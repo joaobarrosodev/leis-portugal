@@ -33,6 +33,8 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.
 
+2 - À parte correspondente das despesas comuns calculadas nos termos do número anterior acrescem as despesas especificamente imputáveis a cada modalidade de jogo, constituindo a sua soma as respectivas despesas de exploração.
+
 > Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 225/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698), publicado em 1998-07-17.
 
 > Alterado pelo/a [Decreto-Lei n.º 210/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2004-480286), publicado em 2004-08-20.

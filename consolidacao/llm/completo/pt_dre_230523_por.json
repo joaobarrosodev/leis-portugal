@@ -4,19 +4,23 @@
     {
       "chave": "1.º",
       "epigrafe": "",
-      "texto": "1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.",
+      "texto": "1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n2 - À parte correspondente das despesas comuns calculadas nos termos do número anterior acrescem as despesas especificamente imputáveis a cada modalidade de jogo, constituindo a sua soma as respectivas despesas de exploração.",
       "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 210/2004, art. 16.º: a nova redação do artigo 1.º mantém o n.º 2 ('2 - ...'), mas o texto atual do artigo 1.º (já alterado por um programa) só tem o n.º 1 e nenhum dos diplomas do pedido traz o texto do n.º 2 original; não o inventei, pelo que o artigo vem só com o n.º 1 e o n.º 2 original tem de ser reposto a partir do texto original do DL 64/95. O art. 2.º do original (revogação 'na parte prejudicada' de norma do DL 84/85) e as alterações do DL 225/98 ao DL 412/93 e do DL 77-B/2021 ao DL 84/85 e ao DL 200/2009 não são instruções dirigidas ao texto do DL 64/95.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, menção do Decreto-Lei n.º 64/95 na lista de alterações do Decreto-Lei n.º 84/85 (art. 1.º): outro diploma",
   "instrucoes": [
-    "DL 225/98, art. 7.º, n.º 3: nova redação do n.º 1 do art. 1.º (Totogolo) — já refletida no texto atual e depois substituída pelo DL 210/2004.",
-    "DL 210/2004, art. 16.º: nova redação do n.º 1 do art. 1.º (Departamento de Jogos; EUROMILHÕES) e '2 - ...' — aplicado o n.º 1; o n.º 2 original não está no texto atual nem em nenhum diploma do pedido (ver nao_aplicavel). Confirmado o reparo de que o n.º 2 se mantém, mas sem texto para o copiar.",
-    "DL 77-B/2021: altera o DL 84/85 e o DL 200/2009, nada dirigido ao DL 64/95 — ignorado."
+    "Alterador 1, art. 7.º, n.º 3: nova redação do n.º 1 do art. 1.º (com Totogolo); substituída depois pelo alterador 2",
+    "Alterador 2, art. 16.º: nova redação do n.º 1 do art. 1.º (Departamento de Jogos, EUROMILHÕES); '2 - ...' mantém o n.º 2 do texto original, reposto",
+    "Alterador 3: só cita o DL 64/95 entre as alterações do DL 84/85; nada aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

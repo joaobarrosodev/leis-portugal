@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:616427:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19641966.pdf)",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/081b00/16391640.pdf)\n\nLaboratório Nacional de Engenharia Civil\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25272528.pdf)\n\nQuadro de efectivos interdepartamentais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25272528.pdf)\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/294b00/90659066.pdf)",
+    "alterador": 4
+   }
+  ],
+  "nao_aplicavel": "Alterador 3, artigo 11.º, alínea b), revoga o mapa anexo na parte aplicável às carreiras de observador meteorológico, observador geofísico e operador de telecomunicações meteorológicas e geofísicas: só em imagem (o mapa só existe em imagem e o alterador não traz imagem nova; não se pode retirar a parte revogada)\nAlterador 6 (mapa VIII do Decreto-Lei n.º 121/2008, alterador 5, republicado na redacção corrigida), revoga o Decreto Regulamentar n.º 16/91 com excepção das disposições relativas às categorias subsistentes e de maquinista marítimo, marinheiro e mestre de tráfego local: alvo incerto (as excepções referem-se a categorias que só constam do anexo em imagem e os artigos 1.º a 6.º regem também essas categorias; não se sabe com segurança que artigos ficam revogados)",
+  "instrucoes": [
+   "Alterador 1, artigo único: adita ao anexo o mapa do LNEC (só em imagem): corpo do anexo passa a ter a linha de imagem do alterador.",
+   "Alterador 2, artigo 1.º: altera o mapa anexo nas partes do LNEC e do quadro de efectivos interdepartamentais (em imagem): acrescentadas ao corpo do anexo as linhas do mapa do alterador.",
+   "Alterador 3, artigo 11.º, alínea b): revogação parcial do mapa anexo, sem imagem: para nao_aplicavel.",
+   "Alterador 4, artigo 1.º: escalas salariais do LNEC constantes do diploma alteradas de acordo com o mapa anexo (imagem): acrescentada a linha de imagem ao corpo do anexo.",
+   "Alterador 5: sem texto que mencione o original.",
+   "Alterador 6: mapa VIII do Decreto-Lei n.º 121/2008 republicado; revogação do original com excepções: para nao_aplicavel (o reparo confirma-se: as excepções não deixam aplicar)."
+  ]
+ }
+]

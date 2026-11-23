@@ -9,15 +9,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 2.º: substitui a tabela anexa a que se refere o artigo 7.º pela tabela anexa ao DL 35/94, que só vem em imagem ('ver documento original'); não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º (a tabela anexa a que se refere o artigo 7.º é substituída pela tabela anexa ao DL 35/94): só em imagem: a tabela nova só vem em imagem e no texto atual não há título de anexo para ela (a tabela antiga vem em imagem no fim do corpo do artigo 43.º).",
   "instrucoes": [
-    "Alt. 1, art. 1.º: altera o art. 1.º do DL 36874 (outro diploma) - ignorado.",
-    "Alt. 1, art. 2.º: substitui a tabela anexa referida no art. 7.º - só em imagem, em nao_aplicavel.",
-    "Alt. 1, art. 3.º: revoga o Despacho Normativo 259/91 (outro diploma) - ignorado.",
-    "Alt. 2, art. 1.º: art. 29.º mantém n.os 1 e 2, nova redação dos n.os 3 e 4 e adita n.º 5 - aplicado.",
-    "Alt. 2, art. 2.º: regulamentação por portaria - não altera o original."
+    "Alterador 1, art. 1.º: altera o artigo 1.º do DL 36874: outro diploma, ignorado.",
+    "Alterador 1, art. 2.º: substituição da tabela anexa (imagem, sem título de anexo): nao_aplicavel.",
+    "Alterador 1, art. 3.º: revoga o Despacho Normativo n.º 259/91: outro diploma, ignorado.",
+    "Alterador 2, art. 1.º: nova redação do artigo 29.º: n.os 1 e 2 ficam como estão («...»), n.os 3, 4 e 5 novos, em vez dos antigos n.os 3 e 4.",
+    "Alterador 2, art. 2.º: regulamentação por portaria: norma própria, sem alterar o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

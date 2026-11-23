@@ -2,9 +2,51 @@
   "id": "pt:dre:227236:por",
   "substituicoes": [
     {
+      "de": 260,
+      "ate": 266,
+      "texto": "Vencimentos dos governadores civis e vice-governadores civis\n\na) Governadores civis:\n\nLisboa e Porto ... 30500$00\n\nOutros distritos ... 26000$00\n\nb) Vice-governadores civis:\n\nLisboa e Porto ... 24750$00\n\nOutros distritos ... 22500$00\n\nQuando o exercício do cargo obrigue o governador civil, o vice-governador civil, ou ambos, a mudança de residência, e esta não seja facultada em edifício público, abonar-se-á o subsídio mensal de habitação de 7000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.",
+      "alterador": 7
+    },
+    {
+      "de": 309,
+      "ate": 309,
+      "texto": "Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo ... 7800$00",
+      "alterador": 1
+    },
+    {
+      "de": 310,
+      "ate": 310,
+      "texto": "Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo ... 7800$00",
+      "alterador": 1
+    },
+    {
+      "de": 313,
+      "ate": 313,
+      "texto": "Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo ... 6500$00",
+      "alterador": 1
+    },
+    {
+      "de": 315,
+      "ate": 315,
+      "texto": "Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo, e das demais juntas distritais ... 6500$00",
+      "alterador": 1
+    },
+    {
+      "de": 372,
+      "ate": 456,
+      "texto": "a) Distritos de 1.ª ordem:\n\nLisboa:\n\n1 secretário.\n\n1 adjunto do secretário.\n\n3 chefes de secção.\n\n3 primeiros-oficiais.\n\n1 tesoureiro.\n\n7 segundos-oficiais.\n\n12 terceiros-oficiais.\n\n15 escriturários-dactilógrafos de 1.ª classe.\n\n15 escriturários-dactilógrafos de 2.ª classe.\n\nPorto:\n\n1 secretário.\n\n2 chefes de secção.\n\n2 primeiros-oficiais.\n\n1 tesoureiro.\n\n2 segundos-oficiais.\n\n3 terceiros-oficiais.\n\n5 escriturários-dactilógrafos de 1.ª classe.\n\n6 escriturários-dactilógrafos de 2.ª classe.\n\nFunchal e Ponta Delgada:\n\n1 secretário.\n\n2 primeiros-oficiais.\n\n2 segundos-oficiais.\n\n1 terceiro-oficial.\n\n3 escriturários-dactilógrafos de 1.ª classe.\n\n3 escriturários-dactilógrafos de 2.ª classe.\n\nb) Distritos de 2.ª ordem:\n\nAngra do Heroísmo:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n2 segundos-oficiais.\n\n1 terceiro-oficial.\n\n1 escriturário-dactilógrafo de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nAveiro:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n1 segundo-oficial.\n\n2 terceiros-oficiais.\n\n2 escriturários-dactilógrafos de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nBeja, Castelo Branco, Évora, Horta, Vila Real e Viseu:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n1 segundo-oficial.\n\n1 terceiro-oficial.\n\n1 escriturário-dactilógrafo de 1.ª classe.\n\n1 escriturário-dactilógrafo de 2.ª classe.\n\nBraga e Setúbal:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n1 segundo-oficial.\n\n1 terceiro-oficial.\n\n2 escriturários-dactilógrafos de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nBragança, Guarda, Portalegre e Viana do Castelo:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n1 segundo-oficial.\n\n1 escriturário-dactilógrafo de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nCoimbra:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n2 segundos-oficiais.\n\n1 terceiro-oficial.\n\n2 escriturários-dactilógrafos de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nFaro:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n2 segundos-oficiais.\n\n2 terceiros-oficiais.\n\n2 escriturários-dactilógrafos de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nLeiria:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n1 segundo-oficial.\n\n2 escriturários-dactilógrafos de 1.ª classe.\n\n2 escriturários-dactilógrafos de 2.ª classe.\n\nSantarém:\n\n1 secretário.\n\n1 primeiro-oficial.\n\n2 segundos-oficiais.\n\n1 terceiro-oficial.\n\n3 escriturários-dactilógrafos de 1.ª classe.\n\n3 escriturários-dactilógrafos de 2.ª classe.",
+      "alterador": 4
+    },
+    {
+      "de": 519,
+      "ate": 527,
+      "texto": "Ordenados dos governadores e vice-governadores dos distritos autónomos e dos presidentes e vice-presidentes das juntas gerais.\n\n1 - a) Ordenados dos governadores ... 16600$00\n\nb) Ordenados dos vice-governadores ... 15000$00\n\nOs governadores e vice-governadores do Funchal e de Ponta Delgada e os dos restantes distritos autónomos têm direito aos subsídios mensais de 5000$00 e 3000$00, respectivamente, para despesas de representação.\n\nQuando o exercício do cargo obrigue o governador, o vice-governador ou ambos a mudar de residência, e esta não seja facultada em edifício público, abonar-ser-á o subsídio mensal de habitação de 5000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.\n\n2 - a) Ordenados dos presidentes das juntas gerais ... 15500$00\n\nb) Ordenados dos vice-presidentes dos mesmos corpos administrativos ... 13900$00",
+      "alterador": 5
+    },
+    {
       "de": 568,
       "ate": 568,
-      "texto": "4 ajudantes de pecuária (e) e (f), a ...",
+      "texto": "4 ajudantes de pecuária (e) e (f), a ... 2200$00",
       "alterador": 1
     },
     {
@@ -16,7 +58,7 @@
     {
       "de": 657,
       "ate": 657,
-      "texto": "2 ajudantes de pecuária (e) e (f), a ...",
+      "texto": "2 ajudantes de pecuária (e) e (f), a ... 2200$00",
       "alterador": 1
     },
     {
@@ -28,7 +70,7 @@
     {
       "de": 725,
       "ate": 725,
-      "texto": "2 ajudantes de pecuária (e) e (f), a ...",
+      "texto": "2 ajudantes de pecuária (e) e (f), a ... 2200$00",
       "alterador": 1
     },
     {
@@ -40,7 +82,7 @@
     {
       "de": 779,
       "ate": 779,
-      "texto": "1 ajudante de pecuária (e) e (f) ...",
+      "texto": "1 ajudante de pecuária (e) e (f) ... 2200$00",
       "alterador": 1
     },
     {
@@ -57,18 +99,18 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "DL 157/77 (alterador 6), art. 2.º n.º 1: extingue o quadro especial de pessoal criado pelo art. 20.º do original, sem revogar nem dar nova redação ao art. 20.º; não é alteração textual, o art. 20.º fica como está. DL 156/74 (alterador 4), arts. 2.º a 4.º: mantém o cargo de conservador do art. 20.º e fixa novos quadros do pessoal auxiliar dos governos civis (incluindo o Funchal), sem instrução textual sobre os arts. 20.º e 21.º do original; não aplicado. DL 130/70 (alterador 1), art. 2.º n.º 1: as linhas dos ajudantes de pecuária vêm no alterador sem o ordenado ('... (e) e (f), a ...'); copiaram-se letra a letra, sem acrescentar o montante.",
+  "nao_aplicavel": "Alterador 2, art. 1.º, nova redação dos arts. 460.º (§§ 1.º e 5.º) e outros do Código Administrativo: outro diploma — o original só deu a redação do art. 460.º do Código no seu art. 9.º\nAlterador 3, nova redação do § único do art. 485.º e do § 2.º do art. 665.º do Código Administrativo: outro diploma — o original só deu a redação do art. 485.º do Código no seu art. 9.º\nAlterador 4, art. 3.º, quadro do pessoal auxiliar contratado dos governos civis: alvo incerto — não diz que substitui o art. 21.º do original (quadro do pessoal auxiliar do Governo Civil do Funchal, que inclui um telefonista) nem outra unidade do texto\nAlterador 4, arts. 2.º, 4.º, 5.º, 6.º e 8.º (cargo de conservador, pessoal assalariado, telefonistas, integração dos chefes de secção e do tesoureiro do Governo Civil de Lisboa na 2.ª categoria): não textual — disposições novas que não dão redação a nenhuma unidade do original\nAlterador 4, arts. 7.º e 13.º, nova redação dos arts. 479.º e 485.º e revogação da alínea e) do art. 488.º do Código Administrativo: outro diploma — o original só deu a redação desses artigos do Código no seu art. 9.º\nAlterador 5, arts. 1.º e 2.º, nova redação do art. 405.º e aditamento ao art. 406.º do Código Administrativo: outro diploma\nAlterador 5, art. 5.º, ordenado dos presidentes das Juntas Distritais de Lisboa e do Porto: não textual — não dá redação a nenhuma unidade da tabela\nAlterador 6, art. 2.º, n.º 1, extinção do quadro especial de pessoal criado pelo art. 20.º do original: não textual — extingue o quadro mas não revoga nem dá redação ao art. 20.º\nAlterador 6, art. 1.º, nova redação do art. 3.º do Decreto-Lei n.º 810/76: outro diploma",
   "instrucoes": [
-    "DL 130/70 art. 1.º (alínea A) do cap. IV da tabela A anexa ao Código Administrativo): altera o anexo do Código, outro diploma; ignorado.",
-    "DL 130/70 art. 2.º n.º 1 (mapa a que se refere o art. 1.º do DL 30/70, quadros das intendências de pecuária e inspeções de saúde): substituídas as linhas dos ajudantes de pecuária e dos delegados de saúde do Funchal, Ponta Delgada, Angra do Heroísmo e Horta (unidades 568, 572, 657, 661-662, 725, 728-729, 779, 782-785), letra a letra do alterador.",
-    "DL 130/70 art. 2.º n.º 2 (nova redação da nota (f) do mapa): unidades 798-800 substituídas pela nova nota (f) com os cinco pontos.",
-    "DL 48/71 art. 1.º (arts. 460.º §§ 1.º e 5.º e outros do Código Administrativo): altera o Código, outro diploma (na redação dada pelo original); ignorado. Restantes artigos do DL 48/71 não se dirigem ao original.",
-    "DL 163/72 (arts. 485.º e 665.º do Código Administrativo): altera o Código; ignorado.",
-    "DL 156/74 art. 1.º (quadro do pessoal maior dos governos civis) e art. 7.º (arts. 479.º e 485.º do Código) e art. 13.º (revoga a alínea e) do art. 488.º do Código): alteram o Código/tabela A; ignorados. Arts. 2.º a 4.º: sem instrução textual sobre o original (ver nao_aplicavel).",
-    "DL 530/74 arts. 1.º a 4.º (arts. 405.º e 406.º do Código, n.º I da tabela A anexa ao Código, tabela anexa ao Estatuto dos Distritos Autónomos): alteram outros diplomas; ignorados.",
-    "DL 157/77 art. 1.º altera o DL 810/76 (ignorado); art. 2.º n.º 1 extingue o quadro especial do art. 20.º sem alteração textual (ver nao_aplicavel).",
-    "DL 67/79 (capítulo I da tabela A anexa ao Código Administrativo): altera o anexo do Código; ignorado.",
-    "Reparo do verificador (DL 157/77 art. 2.º n.º 1) confirmado: extinção não textual, posta em nao_aplicavel; o art. 20.º mantém-se."
+    "Alterador 1, art. 1.º: nova redação da alínea A) do capítulo IV da tabela A — unidades 309, 310, 313 e 315 com o texto do alterador; os ordenados (7800$00, 6500$00), que a instrução não muda, ficam do texto atual",
+    "Alterador 1, art. 2.º, n.º 1: nova redação dos quadros das intendências de pecuária e inspecções de saúde dos distritos autónomos — linhas dos ajudantes de pecuária (o '...' do alterador mantém o ordenado 2200$00 do texto atual) e dos delegados de saúde substituídas no Funchal, Ponta Delgada, Angra do Heroísmo e Horta",
+    "Alterador 1, art. 2.º, n.º 2: nova redação da nota (f) — unidades 798 a 800 substituídas",
+    "Alteradores 2 e 3: alteram artigos do Código Administrativo — não aplicados (outro diploma)",
+    "Alterador 4, art. 1.º: novo quadro do pessoal maior das secretarias dos governos civis — substituída a parte «Governos civis» do quadro VIII da tabela A (unidades 372 a 456)",
+    "Alterador 4, restantes artigos — não aplicados, ver nao_aplicavel",
+    "Alterador 5, art. 3.º: nova redação do n.º I da tabela A — substituída depois pelo alterador 7 (capítulo I por inteiro), que é a redação que fica",
+    "Alterador 5, art. 4.º: modificações da tabela anexa ao Estatuto dos Distritos Autónomos — unidades 519 a 527 substituídas pelo texto do alterador",
+    "Alterador 6: extinção do quadro especial do art. 20.º — não textual; art. 1.º altera outro diploma",
+    "Alterador 7, artigo único: capítulo I da tabela A com a redação do mapa — unidades 260 a 266 substituídas (fica o numeral I)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

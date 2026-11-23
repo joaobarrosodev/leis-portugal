@@ -7,15 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:235920:por
-    title: Decreto Legislativo Regional n.º 48-A/2006/M
-    publication_date: '2006-12-19'
-  - id: pt:dre:444240:por
-    title: Decreto Legislativo Regional n.º 45/2008/M
-    publication_date: '2008-12-31'
-  - id: pt:dre:145067:por
-    title: Decreto Legislativo Regional n.º 22/2011/M
-    publication_date: '2011-12-26'
   - id: pt:dre:128771582:por
     title: Decreto Legislativo Regional n.º 1-A/2020/M
     publication_date: '2020-01-31'
@@ -223,7 +214,7 @@ a) Manutenção das dificuldades de tesouraria para a Região Autónoma da Madei
 
 b) Estejam assegurados pelo FET-RAM os meios financeiros necessários para o pagamento dos suplementos referidos no n.º 2 do presente artigo.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 48-A/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/48-a-2006-235920) e [Decreto Legislativo Regional n.º 45/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240) e [Decreto Legislativo Regional n.º 22/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2011-145067) e [Decreto Legislativo Regional n.º 1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), publicado em 2020-01-31.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), publicado em 2020-01-31.
 
 ###### Artigo 17.º — Execução
 

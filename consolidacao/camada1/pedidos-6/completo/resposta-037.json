@@ -1,0 +1,18 @@
+[
+ {
+  "id": "pt:dre:684232:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação do n.º 2 da base XXXIV e do n.º 4 da base XLII: alvo incerto: as bases anexas não vêm no texto atual, que só traz os artigos 1.º a 5.º e os títulos dos capítulos das bases, sem o texto de nenhuma base; não há onde aplicar a instrução\nAlterador 2, nova redação do n.º 1 da base LIII: alvo incerto: as bases anexas não vêm no texto atual, que só traz os artigos 1.º a 5.º e os títulos dos capítulos das bases, sem o texto de nenhuma base; não há onde aplicar a instrução (e o alterador só traz o n.º 1, não a base inteira)\nAlterador 4, artigo 1.º, 5), revogação do benefício fiscal do n.º 1 da base XXX: alvo incerto: as bases anexas não vêm no texto atual, que só traz os artigos 1.º a 5.º e os títulos dos capítulos das bases, sem o texto de nenhuma base; não há onde aplicar a instrução\nAlterador 4, artigo 3.º, 11), revogação do benefício fiscal do n.º 2 da base XXX, sem prejuízo dos já concedidos: alvo incerto: as bases anexas não vêm no texto atual, que só traz os artigos 1.º a 5.º e os títulos dos capítulos das bases, sem o texto de nenhuma base; não há onde aplicar a instrução\nAlterador 5, artigo 15.º, n.º 4, alínea c), mantém a vigência de regimes de várias bases até à celebração dos contratos: não textual: norma transitória que não muda o texto",
+  "instrucoes": [
+   "Alterador 1 (Rectificação): corrige o n.º 2 da base XXXIV e o n.º 4 da base XLII; as bases não estão no texto atual: nao_aplicavel.",
+   "Alterador 2 (Decreto-Lei n.º 287/73): nova redação do n.º 1 da base LIII (o reparo confirma-se no alterador); a base LIII não está no texto atual: nao_aplicavel.",
+   "Alterador 3 (Decreto n.º 609/75): abre um crédito especial e só cita a base LIII; não altera o original.",
+   "Alterador 4 (Decreto-Lei n.º 485/88): revoga os benefícios fiscais dos n.os 1 e 2 da base XXX; a base XXX não está no texto atual: nao_aplicavel.",
+   "Alterador 5 (Decreto-Lei n.º 137-A/2009): o artigo 15.º, n.º 4, alínea c), mantém em vigor regimes de várias bases; não textual: nao_aplicavel.",
+   "Os artigos 1.º a 5.º não são visados por nenhuma instrução e ficam como estão."
+  ]
+ }
+]

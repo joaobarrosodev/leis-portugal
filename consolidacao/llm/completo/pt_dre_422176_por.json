@@ -1,17 +1,30 @@
 {
   "id": "pt:dre:422176:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "30.º",
+      "epigrafe": "Cobertura de encargos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Todos os alteradores (Portaria 42/76, DR 70/77, Portaria 683/78, Portaria 714/79, DR 49/80, Portaria 438/81) alteram apenas o quadro de pessoal do mapa anexo (artigo 20.º), que só existe em imagem; não há alteração textual a artigos.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Portaria n.º 42/76 (n.º 452/76) aumenta o quadro de pessoal com as unidades do quadro anexo: só em imagem: o mapa do artigo 20.º só existe em imagem, no fim do texto, sem título de anexo no texto atual; o DR 70/77 considerou a portaria sem efeito\nAlterador 2, Decreto-Lei n.º 425/77, art. 8.º, assegura a comparticipação do artigo 30.º até ao fim de 1976: não textual\nAlterador 3, Decreto Regulamentar n.º 70/77, art. 1.º, aumenta o quadro de pessoal com os lugares do quadro anexo: só em imagem: o mapa do artigo 20.º só existe em imagem e não há título de anexo no texto atual onde pôr os lugares\nAlterador 3, Decreto Regulamentar n.º 70/77, arts. 2.º a 5.º, provimento dos lugares de técnico auxiliar e integração do pessoal: não textual\nAlterador 4, Portaria n.º 683/78, n.º 3.º, altera o número de lugares do mapa do artigo 20.º: só em imagem: o mapa só existe em imagem e não há título de anexo no texto atual\nAlterador 5, Portaria n.º 714/79 aumenta o quadro da Direcção-Geral da Previdência com o mapa IV: só em imagem: o mapa do original só existe em imagem e não há título de anexo no texto atual\nAlterador 6, Decreto Regulamentar n.º 49/80 extingue a carreira de arquivista do mapa anexo e acrescenta lugares ao quadro: só em imagem: o mapa só existe em imagem e não há título de anexo no texto atual\nAlterador 7, Portaria n.º 438/81 rectifica o mapa anexo à Portaria n.º 514/80: outro diploma",
   "instrucoes": [
-    "Alt.1 Portaria 42/76: aumenta o quadro do mapa anexo (quadro em imagem) - não aplicável ao texto.",
-    "Alt.2 DR 70/77: aumenta lugares do quadro e regula provimento em normas próprias, não altera artigos do original - nada a aplicar.",
-    "Alt.3 Portaria 683/78 n.º 3.º: altera números de lugares do mapa anexo - não aplicável ao texto (mapa em imagem).",
-    "Alt.4 Portaria 714/79: aumenta o quadro (mapa IV em imagem) - não aplicável.",
-    "Alt.5 DR 49/80: extingue carreira de arquivista e acrescenta lugares ao mapa - não aplicável ao texto.",
-    "Alt.6 Portaria 438/81: rectifica mapa da Portaria 514/80 (imagem) - não é do texto do original."
+    "Alt. 1 (Portaria 42/76): aumento do quadro em imagem: nao_aplicavel",
+    "Alt. 2 (DL 425/77): art. 7.º revoga o artigo 30.º do DL 228/73: 30.º fica «(Revogado.)»; o resto é de outros diplomas",
+    "Alt. 3 (DR 70/77): aumento do quadro e regras de provimento: nao_aplicavel",
+    "Alt. 4 (Portaria 683/78): alterações ao mapa: nao_aplicavel",
+    "Alt. 5 (Portaria 714/79): aumento do quadro: nao_aplicavel",
+    "Alt. 6 (DR 49/80): extinção da carreira de arquivista no mapa: nao_aplicavel",
+    "Alt. 7 (Portaria 438/81): rectifica o mapa de outra portaria: nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

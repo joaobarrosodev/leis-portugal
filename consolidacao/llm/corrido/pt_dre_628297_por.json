@@ -123,15 +123,9 @@
     },
     {
       "de": 419,
-      "ate": 419,
+      "ate": 420,
       "texto": "Art. 127.º Deduzida a acusação, o juiz ordenará, logo, a notificação do arguido para, no prazo de trinta dias, contestar ou, no caso previsto no artigo 118.º, efectuar o pagamento voluntário ou contestar, entregando-se-lhe, no mesmo acto, cópia da acusação.",
       "alterador": 5
-    },
-    {
-      "de": 420,
-      "ate": 420,
-      "texto": "",
-      "alterador": 2
     },
     {
       "de": 421,
@@ -142,7 +136,7 @@
     {
       "de": 422,
       "ate": 424,
-      "texto": "Art. 129.º - (Revogado.)\n\nArt. 130.º - (Revogado.)\n\nArt. 131.º - (Revogado.)",
+      "texto": "Art. 129.º (Revogado.)\n\nArt. 130.º (Revogado.)\n\nArt. 131.º (Revogado.)",
       "alterador": 2
     },
     {
@@ -171,14 +165,8 @@
     },
     {
       "de": 465,
-      "ate": 465,
-      "texto": "b) Tratando-se de multa fiscal e de custas, será competente a repartição de finanças a que pertencer o respectivo processo, salvo se este tiver sido julgado pelos Tribunais de 1.ª Instância de Lisboa e do Porto, caso em que se seguirão os termos do § 3.º do artigo 172.º",
-      "alterador": 3
-    },
-    {
-      "de": 466,
       "ate": 466,
-      "texto": "§ 1.º As execuções contra os devedores domiciliados nos concelhos de Lisboa e Porto correrão pelos tribunais de 1.ª instância com sede nessas cidades.",
+      "texto": "b) Tratando-se de multa fiscal e de custas, será competente a repartição de finanças a que pertencer o respectivo processo, salvo se este tiver sido julgado pelos Tribunais de 1.ª Instância de Lisboa e do Porto, caso em que se seguirão os termos do § 3.º do artigo 172.º\n\n§ 1.º As execuções contra os devedores domiciliados nos concelhos de Lisboa e Porto correrão pelos tribunais de 1.ª instância com sede nessas cidades.",
       "alterador": 3
     },
     {
@@ -292,29 +280,26 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterador 8 (Decreto-Lei n.º 177/86, art. 52.º) dá nova redacção aos artigos 167.º e 193.º do Código, mas o texto da nova redacção não vem no pedido: não aplicado. Alterador 10 (Decreto-Lei n.º 275-A/93) só tem revogação tácita genérica (art. 51.º), sem alteração textual ao Código.",
+  "nao_aplicavel": "Alterador 8, nova redação dos artigos 167.º e 193.º do Código (art. 52.º do Decreto-Lei n.º 177/86): sem texto — o pedido só traz a frase introdutória, sem a nova redação dos dois artigos.\nAlterador 10, revogação do Código de Processo das Contribuições e Impostos a partir da entrada em vigor do Código de Processo Tributário (art. 11.º do Decreto-Lei n.º 154/91): sem texto da data de entrada em vigor do CPT no pedido — o pedido só traz o art. 11.º do DL 154/91, sem a norma de entrada em vigor do decreto ou do Código; o texto fica com a última redação antes da revogação.",
   "instrucoes": [
-    "Alt. 1, art. 11.º: aditado § único ao art. 80.º (inserção após 291) e ao art. 88.º (inserção após 311).",
-    "Alt. 2, art. 5.º: § único aditado ao art. 49.º (inserção após 199); § único do art. 66.º (242) substituído, depois novamente por alt. 5 (texto final de alt. 5); art. 127.º corpo novo e § único suprimido (420 = \"\"; corpo final de alt. 5); art. 128.º (421); art. 135.º e § único (430-431); art. 166.º reescrito (504-507); art. 264.º reescrito (802-804).",
-    "Alt. 2, art. 7.º: revogados os arts. 129.º, 130.º e 131.º (422-424 com \"(Revogado.)\").",
-    "Alt. 2, arts. 1.º-4.º e 6.º: normas autónomas, não alteram o texto do Código.",
-    "Alt. 3, art. 1.º: nova alínea b) do art. 152.º (465); art. 2.º: aditado § 3.º ao art. 172.º (inserção após 532).",
-    "Alt. 3, art. 12.º: art. 29.º d) nova e e) aditada (133); art. 30.º corpo (134); art. 40.º d) e g) (171, 174); art. 76.º g) (273); art. 84.º (297); art. 89.º § único (316); art. 115.º § único passa a § 1.º (401) e § 2.º aditado (texto final de alt. 5, inserção após 401); art. 152.º § 1.º (466); art. 222.º (687); art. 243.º corpo e a) (745-746), b) depois substituída por alt. 7.",
-    "Alt. 3, art. 3.º e alt. 5, art. 3.º e alt. 6, art. 2.º alteram o Decreto-Lei n.º 48699, não o original: ignorados.",
-    "Alt. 4: limite do art. 137.º elevado para 40000$00 (434).",
-    "Alt. 5, art. 1.º: arts. 11.º (78), 16.º § único (93), 29.º a) e c) (130, 132), 31.º (144), 57.º (222), 66.º § único (242), 75.º (261-264), 112.º § único (393), 115.º § 2.º, 118.º (407), 127.º (419), 139.º (436), 140.º (437), 163.º corpo e §§ 1.º-3.º (493, 497-498), 209.º (642-646), 219.º d) a g) (alínea d) antiga suprimida; 678-681 com e)-g); d) final de alt. 6 em 677), 262.º segundo parágrafo (799).",
-    "Alt. 5, art. 2.º: eliminado o art. 119.º (408 = \"\").",
-    "Alt. 6: art. 32.º (147, com parágrafo novo; § único mantém-se); art. 217.º (670); art. 219.º d) (677); art. 229.º § 2.º (707).",
-    "Alt. 7: art. 243.º b), c) e d) (747-749); corpo igual ao de alt. 3.",
-    "Alt. 8: nova redacção dos arts. 167.º e 193.º sem texto no pedido: não aplicada.",
-    "Alt. 9: aditado § 4.º ao art. 163.º (inserção após 498).",
-    "Alt. 10: sem instrução textual dirigida ao Código."
+    "Alterador 1 (DL 45400), art. 11.º: aditado § único ao art. 80.º (inserção depois da unidade 291, dois parágrafos) e ao art. 88.º (inserção depois de 311). Os arts. 1.º a 10.º e 12.º são de outros códigos ou normas autónomas: ignorados.",
+    "Alterador 2 (DL 48699), art. 5.º: aditado § único ao art. 49.º (inserção depois de 199); nova redação dos arts. 128.º (421), 135.º com § único (430-431), 166.º com § único (504-507) e 264.º (802-804, artigo inteiro, sem alíneas); art. 66.º § único e art. 127.º ficam com a redação posterior do alterador 5. Art. 7.º: revogados os arts. 129.º, 130.º e 131.º (422-424, «Art. N.º (Revogado.)», sem o hífen que o reparo apontou). Arts. 1.º a 4.º e 6.º são normas autónomas.",
+    "Alterador 3 (DL 217/76): art. 1.º, nova alínea b) do art. 152.º, e art. 12.º, novo § 1.º do art. 152.º (465-466); art. 2.º, aditado § 3.º ao art. 172.º (inserção depois de 532); art. 12.º, novas alíneas d) e e) do art. 29.º (133), corpo do art. 30.º (134), alíneas d) e g) do art. 40.º (171, 174), alínea g) do art. 76.º (273), art. 84.º (297), § único do art. 89.º (316), § 1.º do art. 115.º em lugar do § único (401), art. 222.º (687), corpo e alínea a) do art. 243.º (745-746). Art. 3.º altera o DL 48699: outro diploma.",
+    "Alterador 4 (DL 434/77): elevado para 40000$00 o limite do art. 137.º (434, só o valor trocado).",
+    "Alterador 5 (DL 500/79), art. 1.º: nova redação dos arts. 11.º (78), 16.º § único (93), 29.º alíneas a) e c) (130, 132), 31.º (144), 57.º com § único (222), 66.º § único (242), 75.º (261-264), 112.º § único (393), 115.º § 2.º (inserção depois de 401), 118.º (407), 127.º sem o § único antigo (419-420), 139.º (436), 140.º com § único (437), 163.º corpo e §§ 1.º a 3.º (493, 497-498), 209.º (642-646), 219.º alíneas e) a g) (678-681; a alínea d) fica com a redação do alterador 6) e 262.º segundo parágrafo (799). Art. 2.º: eliminado o art. 119.º (408 passa a \"\"). Art. 3.º altera o DL 48699 e art. 7.º o Regulamento das Custas: outro diploma.",
+    "Alterador 6 (DL 362/82): nova redação dos arts. 32.º (147, com o novo segundo parágrafo), 217.º (670), 219.º alínea d) (677) e 229.º § 2.º (707). Art. 2.º altera o DL 48699: outro diploma.",
+    "Alterador 7 (DL 485/82): novas alíneas b), c) e d) do art. 243.º (747-749).",
+    "Alterador 8 (DL 177/86), art. 52.º: arts. 167.º e 193.º sem a nova redação no pedido: em nao_aplicavel.",
+    "Alterador 9 (DL 414/88): aditado § 4.º ao art. 163.º (inserção depois de 498).",
+    "Alterador 10 (DL 154/91), art. 11.º: revogação do Código inteiro a partir da entrada em vigor do CPT; a data não está no pedido (só vem o art. 11.º): em nao_aplicavel.",
+    "Alterador 11 (DL 275-A/93): nenhuma instrução dirigida ao original (o art. 50.º revoga outros diplomas)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 129.º - (Revogado.)",
-    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 130.º - (Revogado.)",
-    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 131.º - (Revogado.)"
+  "problemas": [],
+  "numeracao_aceite": [
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 129.º (Revogado.)",
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 130.º (Revogado.)",
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 131.º (Revogado.)"
   ]
 }

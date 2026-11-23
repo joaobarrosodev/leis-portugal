@@ -16,20 +16,27 @@
     {
       "chave": "12.º",
       "epigrafe": "Duração",
-      "texto": "1 - O FEARC extinguir-se-á em 31 de Dezembro de 2001, sem qualquer outra possibilidade de prorrogação, e a sua liquidação, a cargo da comissão directiva, deverá estar encerrada no prazo de seis meses.\n\n2 - Os direitos e obrigações do FEARC à data da extinção serão assumidos pelo Estado.\n\nVisto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 29 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva",
+      "texto": "1 - O FEARC extinguir-se-á em 31 de Dezembro de 2001, sem qualquer outra possibilidade de prorrogação, e a sua liquidação, a cargo da comissão directiva, deverá estar encerrada no prazo de seis meses.\n\n2 - Os direitos e obrigações do FEARC à data da extinção serão assumidos pelo Estado.",
       "alterador": 6
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alt. 4 (DL 184/96) indica no art. 2.º um '9 - ...' que não existe na redação dada pelo DL 161/95 (que tem 8 números); ignorado, sem efeito no texto. A planta anexa referida no n.º 9 (DL 342/93) só existe em imagem.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo 1.º (n.º 9 do artigo 2.º, planta anexa das áreas sinistrada e circundante): só em imagem, a planta vem só como imagem no alterador e não há título de anexo no texto atual onde a pôr.",
   "instrucoes": [
-    "Art. 2.º: alt.1 n.º 4; alt.2 n.º 1, alínea h), n.os 3, 6, 9 e renumeração; alt.3 corpo do n.º 2, alínea i), renumeração (anterior n.º 6 da bonificação de 30% desaparece); alt.4 alínea j), n.os 3 e 5; alt.5 n.os 3 e 5; alt.6 corpo do n.º 2, n.º 8 novo, n.º 9 = anterior 8",
-    "Art. 3.º: alt.1 n.os 1-3 (antigo n.º 4 desaparece, novo n.º 3); alt.2 n.os 1 e 4; alt.3 n.º 4; alt.5 n.os 1 e 4",
-    "Art. 12.º: alt.2, alt.3, alt.5 e por fim alt.6 n.º 1; n.º 2 mantém-se",
-    "Alt.2 art. 2.º (efeitos), alt.5 art. 2.º e alt.6 art. 2.º: normas sobre efeitos, não alteram o texto"
+    "Alterador 1: nova redação dos artigos 2.º (n.º 4 novo, restantes '...') e 3.º (n.os 1 a 3 novos; o antigo n.º 4 deixa de existir, pois a nova redação substitui o artigo inteiro); aplicada.",
+    "Alterador 2: artigo 2.º (n.º 1 novo, alínea h) aditada, n.º 3 novo, n.os 4 e 5 = anteriores 3 e 4, n.º 6 novo, n.os 7 e 8 = anteriores 5 e 6, n.º 9 novo), artigo 3.º (n.os 1 e 4 novos, 2 e 3 '...'), artigo 12.º (n.º 1 novo); aplicada. Planta anexa só em imagem: nao_aplicavel.",
+    "Alterador 3: artigo 2.º (corpo do n.º 2 novo, alínea i) aditada, n.os 6 a 8 = anteriores 7 a 9; o n.º 6 da redação anterior, bonificação de 30%, desaparece com a nova redação), artigo 3.º (n.º 4 novo), artigo 12.º (n.º 1 novo); aplicada.",
+    "Alterador 4: artigo 2.º (alínea j) aditada, n.os 3 e 5 novos); aplicada. O '9 - ...' da sua redação não corresponde a nenhum número em vigor (o artigo tinha 8 números) e não tem texto; ignorado.",
+    "Alterador 5: artigo 2.º (n.os 3 e 5 novos), artigo 3.º (n.os 1 e 4 novos), artigo 12.º (n.º 1 novo); aplicada. Artigo 2.º do alterador (aplicação no tempo): não textual.",
+    "Alterador 6: artigo 2.º (corpo do n.º 2 novo, n.º 8 novo, n.º 9 = anterior 8) e artigo 12.º (n.º 1 novo); aplicada. Artigo 2.º do alterador (efeitos): não textual.",
+    "Reparos: os números com '...' foram seguidos pela cadeia completa de alteradores 1 a 6 do pedido (todos estão na lista); o texto de cada número vem do alterador que o redigiu por último ou do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

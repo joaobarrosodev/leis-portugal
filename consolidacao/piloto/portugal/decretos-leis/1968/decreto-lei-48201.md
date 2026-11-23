@@ -3,7 +3,8 @@ id: pt:dre:233171:por
 title: Decreto-Lei n.º 48201
 original: data/portugal/decretos-leis/1968/decreto-lei-48201.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:329439:por
@@ -19,9 +20,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 1.º
 
-(Revogado.)
+O quadro e vencimentos do pessoal vitalício do Fundo de Abastecimentos são os constantes do mapa anexo ao presente diploma.
 
-> Revogado pelo/a [Portaria n.º 575/78](https://diariodarepublica.pt/dr/detalhe/portaria/575-1978-329439), publicado em 1978-09-21.
+§ único. As condições de prestação de serviço dos vogais do conselho administrativo serão livremente fixadas por despacho do Secretário de Estado do Comércio.
 
 ###### Artigo 2.º
 

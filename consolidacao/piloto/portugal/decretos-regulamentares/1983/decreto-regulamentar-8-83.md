@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:283525:por
+    title: Decreto-Lei n.º 195/93
+    publication_date: '1993-05-24'
   - id: pt:dre:221537:por
     title: Decreto Regulamentar n.º 67/86
     publication_date: '1986-11-28'
@@ -56,463 +59,133 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ###### Artigo 1.º — (Natureza e objectivos)
 
-1 - O Instituto Nacional de Defesa do Consumidor, abreviadamente designado por INDC, criado pelo artigo 15.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, é um organismo destinado a estudar, participar e promover a política de salvaguarda dos direitos dos consumidores, bem como a coordenar e executar medidas tendentes à sua protecção, informação e educação e de apoio às organizações representativas.
+(Revogado.)
 
-2 - O INDC é dotado de personalidade jurídica e de autonomia administrativa.
-
-3 - O INDC funciona sob tutela do Ministério da Qualidade de Vida.
-
-4 - O INDC tem sede em Lisboa, podendo, nos termos da lei geral, abrir delegações ou outras formas de representação noutras localidades do território português.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 2.º — (Atribuições)
 
-1 - São atribuições do INDC:
+(Revogado.)
 
-a) Estudar e propor ao Governo a definição de políticas de defesa do consumidor;
-
-b) Estudar e promover formas de apoio técnico e financeiro às associações de defesa do consumidor;
-
-c) Estudar e promover programas especiais de apoio aos consumidores mais desfavorecidos, designadamente os idosos, os deficientes e os economicamente débeis;
-
-d) Incentivar e propor medidas de formação e informação do consumidor;
-
-e) Estabelecer contactos e participar regularmente nas actividades e acções comuns dos organismos internacionais e estrangeiros relacionados com o âmbito das suas atribuições e propor a celebração de acordos de convenções internacionais;
-
-f) Impulsionar em geral a aplicação das medidas previstas na [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, através da elaboração, colaboração e coordenação da feitura de legislação e das normas portuguesas com incidência no consumo.
-
-2 - O INDC exerce as suas atribuições em colaboração com outros serviços e entidades cujas áreas de actuação funcional apresentem interesse para a defesa do consumidor, assegurando a coordenação interdepartamental neste âmbito.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 3.º — (Competências)
 
-Para a prossecução das atribuições referidas no artigo anterior, compete ao INDC:
+(Revogado.)
 
-a) Estudar, propor e dar parecer sobre as políticas directamente relacionadas com a protecção do consumidor;
-
-b) Organizar e manter actualizado o censo das associações de defesa do consumidor;
-
-c) Proporcionar apoio técnico às associações de defesa do consumidor, tendo em vista, nomeadamente, acções de informação e formação;
-
-d) Promover a concessão de apoio financeiro às associações de consumidores, controlando a sua adequada aplicação;
-
-e) Proporcionar assistência individual aos consumidores, em particular aos mais desfavorecidos, mediante a prestação de informações e a recepção e o encaminhamento das suas sugestões e reclamações;
-
-f) Proporcionar mecanismos de concertação e arbitragem para pequenos litígios surgidos no âmbito do consumo;
-
-g) Incentivar e cooperar com os serviços públicos competentes na educação dos consumidores, quer jovens, quer adultos, contribuindo, designadamente, para uma melhor orientação dos consumos;
-
-h) Promover acções de formação de conselheiros de consumo, designadamente educadores e elementos de organizações de consumidores;
-
-i) Propor soluções conducentes a uma racionalização de consumos, tendo em consideração os factores de qualidade e preços;
-
-j) Esclarecer e sensibilizar as estruturas da Admitração Pública para as matérias do âmbito da defesa do consumidor;
-
-l) Coordenar a informação relativa à defesa do consumidor e difundi-la através dos meios de comunicação social ou dos seus meios próprios;
-
-m) Programar e promover a execução de estudos relativos a bens e serviços, nomeadamente de ensaios comparativos, tendo em vista o devido esclarecimento do consumidor;
-
-n) Criar e manter permanentemente actualizado um centro de documentação;
-
-o) Estar representado nos conselhos, comissões e grupos de trabalho criados no âmbito da Administração Pública com interesse para a protecção do consumidor, assegurando a representação do ministério da tutela sempre que lhe for determinado;
-
-p) Estudar e assegurar a elaboração de legislação relativa à protecção dos direitos e interesses dos consumidores;
-
-q) Estudar e propor, em colaboração com outros organismos competentes em matéria de protecção dos consumidores, todas as medidas decorrentes da integração de Portugal na Comunidade Económica Europeia;
-
-r) Fomentar o estabelecimento de relações com outras entidades, sempre que consideradas necessárias à prossecução das suas atribuições;
-
-s) Enviar propostas e recomendações aos organismos da Administração Pública e às empresas públicas e privadas, com vista a assegurar a realização das suas atribuições;
-
-t) Solicitar e receber as informações necessárias à prossecução das suas atribuições, tanto dos organismos da Administração Pública como das empresas públicas e privadas.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 4.º — (Princípios orientadores)
 
-No exercício da sua actividade deverá o INDC ter em conta os seguintes factores:
+(Revogado.)
 
-a) Necessidade de proteger o consumidor quanto a bens e serviços susceptíveis de ameaçar a sua saúde e segurança;
-
-b) Grupos de consumidores mais desfavorecidos;
-
-c) Características regionais do consumo.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 ###### Artigo 5.º — (Órgãos)
 
-São órgãos do INDC:
+(Revogado.)
 
-a) O conselho geral;
-
-b) O director;
-
-c) O conselho administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 6.º — (Constituição do conselho geral)
 
-1 - O conselho geral é constituído por 7 membros, designados pela forma seguinte:
+(Revogado.)
 
-a) 2 pela Assembleia da República;
-
-b) 2 pelo Governo;
-
-c) 2 pelas associações de consumidores com representatividade genérica;
-
-d) 1 pelas cooperativas de consumo.
-
-2 - Os membros a que se refere a alínea a) do número anterior são designados pela Assembleia da República nos termos prescritos no seu Regimento.
-
-3 - Os membros a que se refere a alínea b) do n.º 1 são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro da Qualidade de Vida.
-
-4 - O Ministro da Qualidade de Vida, atendendo à implantação das organizações de consumidores, designará, por despacho, as que serão convidadas a designar, de entre si, os membros a que aludem as alíneas c) e d) do n.º 1; no caso da alínea d), a Secretaria de Estado do Fomento Cooperativo.
-
-5 - Os membros do conselho geral elegem de entre si o presidente.
-
-6 - O mandato dos membros do conselho geral é de 3 anos.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 7.º — (Competência do conselho geral)
 
-A gestão do INDC é assegurada pelo conselho geral, competindo-lhe:
+(Revogado.)
 
-a) Fixar os princípios a que deve subordinar-se a elaboração do plano anual de actividades e o orçamento do INDC, bem como os planos plurianuais de actividade e financeiros e respectivas revisões;
-
-b) Submeter à aprovação do Ministro da Qualidade de Vida os documentos referidos na alínea anterior e, bem assim, o relatório de actividades e a conta de gerência, sem prejuízo do julgamento desta pelo Tribunal de Contas;
-
-c) Acompanhar as actividades do INDC.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 8.º — (Funcionamento do conselho geral)
 
-1 - O conselho geral reúne, por convocação do seu presidente, ordinariamente uma vez por trimestre e extraordinariamente sempre que para tal for convocado por iniciativa do presidente ou a pedido da maioria dos seus membros.
+(Revogado.)
 
-2 - Para que o conselho geral possa reunir e funcionar validamente é necessária a presença da maioria dos seus membros.
-
-3 - As deliberações do conselho geral são tomadas por maioria de votos dos membros presentes na reunião, dispondo o presidente de voto de qualidade.
-
-4 - O director do INDC assiste às reuniões do conselho geral, sem direito a voto, podendo fazer-se acompanhar por funcionários do INDC especialistas na matéria a tratar.
-
-5 - O exercício das funções de membro do conselho geral é gratuito, sem prejuízo do recebimento, nos termos da lei, de senhas de presença e dos abonos de deslocação e ajudas de custo a que porventura haja lugar.
-
-6 - O conselho geral é secretariado por um funcionário do INDC a designar pelo director, ouvido o presidente daquele órgão.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 9.º — (Director)
 
-1 - O director é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro da Qualidade de Vida, mediante proposta deste, ouvido o conselho geral.
+(Revogado.)
 
-2 - O director do INDC será coadjuvado por um subdirector, nomeado por despacho do Ministro da Qualidade de Vida, sob proposta do director, a quem incumbirá o exercício das funções e competências que lhe forem cometidas, delegadas ou subdelegadas por este último.
-
-3 - O director será substituído nas suas faltas e impedimentos pelo subdirector.
-
-4 - O director e o subdirector serão equiparados, para todos os efeitos, respectivamente, a director-geral e a subdirector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 10.º — (Competência do director)
 
-O director é o órgão do INDC a quem compete executar as medidas de gestão definidas pelo conselho geral, incumbindo-lhe, em especial:
+(Revogado.)
 
-a) Assegurar a elaboração de planos de actividades, programas e orçamentos, relatórios de actividades e a conta de gerência, a submeter ao conselho geral;
-
-b) Promover a adopção das medidas necessárias à prossecução das atribuições do INDC;
-
-c) Assegurar os contactos com as organizações de consumidores necessários à prossecução das atribuições do INDC;
-
-d) Dirigir superiormente os serviços do INDC e assegurar os meios necessários ao seu funcionamento;
-
-e) Representar o INDC em juízo e fora dele;
-
-f) Exercer relativamente ao pessoal do INDC todos os poderes atribuídos na administração central aos directores-gerais quanto ao pessoal dos respectivos serviços;
-
-g) Submeter a despacho do ministro da tutela os assuntos que requeiram a sua apreciação;
-
-h) Assegurar os contactos com organismos similares estrangeiros;
-
-i) Exercer os demais poderes que lhe sejam conferidos por lei ou delegação.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 11.º — (Constituição do conselho administrativo)
 
-O conselho administrativo é constituído pelo director do INDC, que presidirá, pelo subdirector, por um representante do Ministério das Finanças e do Plano e pelo director de Serviços de Administração.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 12.º — (Competência do conselho administrativo)
 
-O conselho administrativo é o órgão de gestão de fundos, competindo-lhe especialmente:
+(Revogado.)
 
-a) Promover a elaboração dos projectos de orçamento e dos subsequentes pedidos de alteração;
-
-b) Promover e fiscalizar a arrecadação das receitas próprias e a realização das despesas nos termos permitidos por lei;
-
-c) Emitir parecer sobre a atribuição de subsídios às associações de consumidores;
-
-d) Promover a elaboração das contas de gerência e remetê-las ao Tribunal de Contas dentro do prazo legal;
-
-e) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam submetidos pelo director do INDC.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 13.º — (Funcionamento do conselho administrativo)
 
-1 - O conselho administrativo reúne ordinariamente uma vez por semana e extraordinariamente quando o director o convocar.
+(Revogado.)
 
-2 - As restantes regras de funcionamento do conselho administrativo serão estabelecidas em regulamento interno.
-
-3 - O representante do Ministério das Finanças referido no artigo 11.º terá direito a uma gratificação mensal a fixar nos termos da legislação em vigor.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 14.º — (Serviços)
 
-São serviços do INDC:
+(Revogado.)
 
-a) A Direcção de Serviços de Formação e Apoio aos Consumidores;
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
-b) A Direcção de Serviços de Estudos do Consumo;
+###### Artigo 15.º — Direcção de Serviços de Formação e Apoio aos Consumidores
 
-c) A Direcção de Serviços de Administração;
+(Revogado.)
 
-d) O Centro de Documentação.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+###### Artigo 16.º — Direcção de Serviços de Estudos do Consumo
 
-###### Artigo 15.º — (Direcção de Serviços de Formação e Apoio aos Consumidores)
+(Revogado.)
 
-1 - À Direcção de Serviços de Formação e Apoio aos Consumidores incumbe coordenar e executar as medidas destinadas ao esclarecimento, educação e apoio aos consumidores e às suas organizações representativas.
-
-2 - A Direcção de Serviços de Formação e Apoio aos Consumidores compreende:
-
-a) A Divisão de Formação;
-
-b) A Divisão de Informação.
-
-c) A Divisão de Apoio aos Consumidores e Associações.
-
-3 - À Divisão de Formação compete:
-
-a) Coordenar junto dos diferentes departamentos da Administração Pública as acções de formação a empreender a nível nacional, dando especial relevo à articulação com o Ministério da Educação relativamente à elaboração de programas de ensino e a acções de educação permanente de adultos;
-
-b) Colaborar com o Ministério da Educação, a Radiodifusão Portuguesa e a Radiotelevisão Portuguesa de modo a assegurar a inclusão nos programas de ensino à distância de matérias relacionadas com a defesa do consumidor;
-
-c) Organizar e assegurar a formação a grupos especialmente interessados na defesa do consumidor, designadamente conselheiros de consumo, educadores, elementos de associações de consumidores e jornalistas, bem como a elementos da Administração Pública.
-
-4 - À Divisão de Informação compete:
-
-a) À Divisão de Informação compete coordenar e difundir junto do consumidor dados informativos de interesse para este, nomeadamente os obtidos através de estudos relativos a bens e serviços, utilizando, para o efeito, os meios de comunicação social ou os seus meios próprios, em especial:
-
-Grande imprensa e imprensa regional;
-
-Rádio e televisão;
-
-Realização e divulgação de filmes;
-
-Publicações próprias;
-
-Exposições;
-
-Conferências e colóquios;
-
-Campanhas de sensibilização.
-
-b) Divulgar os estudos efectuados pelo INDC.
-
-5 - À Divisão de Apoio aos Consumidores e Associações compete:
-
-a) Fomentar e apoiar o associativismo dos consumidores através da concessão de meios técnicos e financeiros, avaliando a sua adequada aplicação;
-
-b) Organizar e manter actualizado o censo das associações de defesa do consumidor;
-
-c) Conceder assistência individual aos consumidores, mediante a prestação de informações de qualquer natureza no âmbito do consumo, incluindo a jurídica, e a recepção e encaminhamento das suas reclamações;
-
-d) Proporcionar mecanismos de concertação e arbitragem para pequenos litígios surgidos no âmbito do consumo;
-
-e) Elaborar, periodicamente, estudos dos resultados e da receptividade das acções de mediação e arbitragem.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
-
-###### Artigo 16.º — (Direcção de Serviços de Estudos do Consumo)
-
-1 - À Direcção de Serviços de Estudos do Consumo incumbe coordenar a realização de estudos técnicos, jurídicos, económicos e sociais adequados à definição e implantação das políticas de protecção do consumidor.
-
-2 - A Direcção de Serviços de Estudos do Consumo compreende:
-
-a) A Divisão das Políticas de Consumo;
-
-b) A Divisão de Estudos Técnicos;
-
-c) A Divisão de Consultadoria Jurídica.
-
-3 - À Divisão das Políticas de Consumo compete:
-
-a) Efectuar os estudos necessários à definição das políticas de protecção do consumidor;
-
-b) Estudar as características nacionais e regionais do consumo, tendo em vista a elaboração de propostas conducentes à sua racionalização;
-
-c) Promover e apoiar acções de descentralização, a nível regional e local, no âmbito da protecção dos consumidores;
-
-d) Estudar e propor medidas especiais de apoio aos consumidores, atendendo, nomeadamente, às situações específicas dos jovens, idosos, deficientes e economicamente débeis;
-
-e) Elaborar pareceres sobre quaisquer políticas directamente relacionadas com a protecção dos consumidores, designadamente sobre política de preços de bens e serviços e das normas de defesa da concorrência.
-
-4 - À Divisão de Estudos Técnicos compete:
-
-a) Elaborar, através dos seus próprios meios ou mediante o recurso a outros serviços, estudos e pareceres relativos a bens e serviços, em especial sobre qualidade, segurança, preços e circuitos de distribuição, por meio de várias acções, designadamente:
-
-Ensaios e estudos comparativos;
-
-Estudos de mercado;
-
-Inquéritos;
-
-b) Colaborar com os organismos que exercem funções de normalização e certificação em matérias que interessam à protecção do consumidor;
-
-c) Analisar e acompanhar o exercício da actividade publicitária comercial, de forma a verificar e controlar o cumprimento da lei.
-
-5 - À Divisão de Consultadoria Jurídica compete:
-
-a) Assegurar a elaboração dos projectos de diplomas legais regulamentadores da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, bem como dos que respeitem à protecção da saúde e segurança e dos interesses económicos e jurídicos dos consumidores;
-
-b) Acompanhar e analisar a produção legislativa respeitante à matéria de protecção do consumidor;
-
-c) Elaborar estudos, informações e pareceres de natureza jurídica sobre matérias da competência do INDC;
-
-d) Fomentar as relações necessárias com os serviços competentes nestas matérias, assegurando a participação do INDC nos grupos de trabalho que a nível interdepartamental se venham a constituir.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 17.º — (Direcção de Serviços de Administração)
 
-1 - À Direcção de Serviços de Administração incumbe coordenar as actividades relacionadas com a gestão administrativa, económica e financeira do INDC.
+(Revogado.)
 
-2 - A Direcção de Serviços de Administração compreende:
-
-a) A Repartição Administrativa;
-
-b) A Divisão de Planeamento.
-
-3 - A Repartição Administrativa compreende:
-
-a) A Secção de Pessoal e Expediente;
-
-b) A Secção Financeira.
-
-4 - À Secção de Pessoal e Expediente compete:
-
-a) Executar todos os actos relacionados com a administração de pessoal;
-
-b) Assegurar a recepção, classificação e expedição de toda a correspondência e promover os circuitos de distribuição;
-
-c) Manter em funcionamento o arquivo geral;
-
-d) Prestar apoio administrativo aos restantes serviços;
-
-e) Assegurar o trabalho de reprografia, bem como os serviços de telefones e transportes;
-
-f) Superintender no serviço de limpeza.
-
-5 - À Secção Financeira compete:
-
-a) Elaborar os orçamentos e a conta de gerência, coordenando toda a actividade orçamental em articulação com a Divisão de Planeamento;
-
-b) Promover a cobrança das receitas e o processamento das despesas, verificando a sua legalidade;
-
-c) Fornecer, mensalmente, os elementos indispensáveis para o controle orçamental da gestão financeira do INDC;
-
-d) Contabilizar receitas e despesas do INDC;
-
-e) Elaborar diariamente o mapa referente ao movimento de tesouraria;
-
-f) Elaborar toda a escrita contabilística que traduza clara e integralmente a actividade de gestão;
-
-g) Organizar e manter actualizado o inventário do INDC, bem como assegurar uma correcta gestão de stocks;
-
-h) Organizar os processos de aquisição de bens e promover as respectivas compras;
-
-i) Promover a conservação das instalações do INDC e garantir a manutenção e conservação do equipamento, mobiliário e outro material necessário ao bom funcionamento dos serviços;
-
-j) Assegurar a guarda de valores de recebimentos e pagamentos devidamente autorizados e, bem assim, o registo e movimento respectivos.
-
-6 - À Divisão de Planeamento compete:
-
-a) Efectuar os estudos necessários ao conhecimento da situação existente e ao estabelecimento de prioridades de actuação e elaborar padrões que viabilizem a elaboração de programas de acção futuros alternativos;
-
-b) Assegurar a elaboração dos planos de actividade do Instituto, bem como acompanhar a execução de programas aprovados e proceder à avaliação periódica e anual das acções resultantes;
-
-c) Assegurar a elaboração do relatório de actividades do INDC;
-
-d) Efectuar a recolha, análise e tratamento dos dados estatísticos necessários à actividade do INDC;
-
-e) Colaborar com os serviços competentes do Ministério da Qualidade de Vida no planeamento geral das acções em matéria de defesa do consumidor.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 18.º — (Centro de Documentação)
 
-1 - O Centro de Documentação funciona na directa dependência do director do INDC.
+(Revogado.)
 
-2 - Ao Centro de Documentação compete:
-
-a) Pesquisar, seleccionar, adquirir e armazenar documentos de origem nacional ou estrangeira com interesse para o INDC;
-
-b) Coligir e manter actualizada a documentação produzida pelos diversos serviços do INDC;
-
-c) Providenciar quanto à organização, actualização e conservação de uma biblioteca;
-
-d) Difundir, pelos diversos serviços do INDC, a informação relativa à documentação recebida, de acordo com a matéria de que se ocupam;
-
-e) Proceder à análise da imprensa;
-
-f) Assegurar, na matéria da sua competência, as relações do INDC com os restantes departamentos da Administração Pública.
-
-3 - O Centro de Documentação será dirigido por um chefe de divisão.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 19.º — (Gestão financeira)
 
-1 - A gestão financeira do INDC será disciplinada pelo plano anual de actividades e pelo Orçamento do Estado.
+(Revogado.)
 
-2 - Sempre que necessário, poderão ser ainda elaborados planos plurianuais de actividades e financeiros.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ### CAPÍTULO III — Gestão financeira
 
 ###### Artigo 20.º — (Receitas)
 
-1 - Além das dotações que lhe forem atribuídas e devidamente discriminadas no Orçamento do Estado, são consignadas ao INDC as seguintes receitas:
+(Revogado.)
 
-a) As comparticipações, subsídios ou donativos concedidos por quaisquer entidades de direito público ou privado;
-
-b) A venda das suas publicações e impressos, podendo o seu produto servir de contrapartida às respectivas despesas;
-
-c) O produto da realização de estudos, inquéritos e outros trabalhos de carácter técnico confiados ao INDC mediante contrato com entidades nacionais ou estrangeiras;
-
-d) A cobrança de direitos de autor e a de direitos adquiridos sobre a tradução de obras estrangeiras;
-
-e) O produto de heranças, legados ou doações com que seja beneficiado;
-
-f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
-
-2 - As receitas do INDC serão depositadas, em conta própria, na Caixa Geral de Depósitos, Crédito e Previdência.
-
-3 - As receitas referidas no número anterior serão entregues nos cofres do Estado até ao dia 10 do mês seguinte àquele em que entrarem na posse do serviço, mediante guias de receita, pelo mesmo processadas, devendo um dos exemplares, averbado do pagamento, ser remetido a correspondente delegação da Direcção-Geral da Contabilidade Pública.
-
-4 - Os exemplares das guias de receita, averbadas do pagamento a que alude o n.º 3 antecedente, documentarão os pedidos de inscrição ou reforço de verbas a propor pelo INDC à respectiva delegação da Direcção-Geral da Contabilidade Pública, ficando a utilização daquelas verbas sujeita ao designado «duplo cabimento».
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 21.º — (Despesas)
 
-1 - Constituem encargos do INDC os que resultem do exercício das funções que legalmente lhe estão cometidas, designadamente:
+(Revogado.)
 
-a) Os decorrentes do respectivo funcionamento;
-
-b) Os subsídios, comparticipações ou qualquer outra forma de apoio financeiro que deva conceder ou suportar, nos termos que, para cada caso, vierem a ser definidos por despacho do Ministro da Qualidade de Vida;
-
-c) Os subsídios reembolsáveis que suporte por conta de associações de consumidores ou consumidores isolados a quem preste apoio;
-
-d) Os assumidos com a edição de publicações;
-
-e) Os necessários à representação do INDC junto de organismos similares, nacionais e estrangeiros.
-
-2 - Poderá ser constituído um fundo de maneio, de montante fixado por despacho do Ministro da Qualidade de Vida, destinado ao pagamento de despesas correntes.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ###### Artigo 22.º — (Quadro de pessoal)
 
@@ -628,35 +301,19 @@ Em casos excepcionais devidamente fundamentados, poderá ser autorizado o exerc�
 
 ###### Artigo 34.º — (Revisão)
 
-Este diploma será revisto 3 anos após a sua entrada em vigor, com vista a adaptá-lo às exigências decorrentes da experiência obtida.
+(Revogado.)
 
-Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Luís Eduardo da Silva Barbosa - Basílio Adolfo Mendonça Horta da Franca - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
-
-Promulgado em 22 de Janeiro de 1983.
-
-Publique-se.
-
-O Presidente da República, ANTÓNIO RAMALHO EANES.
-
-Referendado em 25 de Janeiro de 1983.
-
-O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
-
-Quadro do pessoal a que se refere o n.º 1 do artigo 23.º do Decreto Regulamentar n.º 8/83
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03000/03610368.pdf)
-
-> Alterado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Revogado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
 ###### Artigo 36.º
 
-Todas as referências ao Gabinete de Defesa do Consumidor, constantes de diplomas legais e outros documentos, consideram-se feitas ao INDC.
+(Revogado.)
 
-> Aditado pelo/a [Decreto Regulamentar n.º 67/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537), publicado em 1986-11-28.
+> Aditado pelo/a [Decreto-Lei n.º 195/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1993-283525), publicado em 1993-05-24.
 
-###### Artigo 37.º — (Incompatibilidades)
+###### Artigo 37.º — Incompatibilidades
 
 1 - É vedado aos funcionários do INDC, em áreas directamente relacionadas com as atribuições do organismo:
 

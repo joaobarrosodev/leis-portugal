@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:618082:por",
     "alterador": "pt:dre:235968:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Ficam isentas de sisa as primeiras transmissões de prédios ou suas fracções autónomas, destinados a habitação, quando operadas por contrato celebrado até 31 de Dezembro de 1974 ou posteriormente, mas, neste caso, em cumprimento de promessa de compra e venda com as assinaturas reconhecidas por notário até àquela data e do qual conste que o promitente comprador prestou sinal de importância não inferior a 40% do preço convencionado, desde que, num ou noutro caso, se verifiquem as seguintes condições:\n\na) O valor sobre que incidiria a sisa não seja superior a 1000000$00 e o valor por metro quadrado de área coberta, por habitação, não seja superior a 9000$00;\n\nb) O contrato de venda ser celebrado menos de um ano após a data ou o momento fixados no artigo 20.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.\n\n2. Depois de 1 de Janeiro de 1975, os notários só poderão realizar os contratos abrangidos pelo número anterior com dispensa do pagamento de sisa desde que lhes seja apresentado o título da promessa nele prevista para ficar arquivado no respectivo cartório.",
+    "depois": "###### Artigo 1.º\n\n1. Ficam isentas de sisa as primeiras transmissões de prédios ou suas fracções autónomas, destinados a habitação, quando operadas por contrato celebrado até 31 de Dezembro de 1974 ou posteriormente, mas, neste caso, em cumprimento de promessa de compra e venda com as assinaturas reconhecidas por notário até àquela data e do qual conste que o promitente comprador prestou sinal de importância não inferior a 40% do preço convencionado, desde que, num ou noutro caso, se verifiquem as seguintes condições:\n\na) O valor sobre que incidiria a sisa não seja superior a 1000000$00 e o valor por metro quadrado de área coberta, por habitação, não seja superior a 9000$00;\n\nb) O contrato de venda ser celebrado menos de dois anos após a data ou o momento fixado no artigo 20.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.\n\n2. Depois de 1 de Janeiro de 1975, os notários só poderão realizar os contratos abrangidos pelo número anterior com dispensa do pagamento de sisa desde que lhes seja apresentado o título da promessa nele prevista para ficar arquivado no respectivo cartório.\n\n> Alterado pelo/a [Decreto-Lei n.º 738-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/738-c-1975-402877), publicado em 1975-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618082:por",
+    "alterador": "pt:dre:402877:por"
   }
 ]

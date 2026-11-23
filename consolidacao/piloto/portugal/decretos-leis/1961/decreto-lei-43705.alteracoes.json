@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 38-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 7.º É a Junta Autónoma de Estradas autorizada, mediante despacho do Ministro das Obras Públicas, a contratar ou assalariar, além do quadro, o pessoal necessário para o serviço de portagens, com as categorias e as remunerações que forem fixadas no mesmo despacho, com o acordo do Ministro das Finanças.\n\n§ único. Ao pessoal referido neste artigo serão fornecidos fardamentos e impermeáveis para o desempenho do serviço que lhe compete, sendo os encargos suportados pelas verbas que forem destinadas à conservação e exploração das obras.",
+    "depois": "Art. 7.º (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:170928:por",
+    "alterador": "pt:dre:442320:por"
+  }
+]

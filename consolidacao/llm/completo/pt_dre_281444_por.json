@@ -261,19 +261,19 @@
     },
     {
       "chave": "73.º",
-      "epigrafe": "transitório",
-      "texto": "As declarações dos actuais subscritores feitas ao abrigo do regime estabelecido nos Decretos n.os 14589, de 18 de Novembro de 1927, e 22199, de 15 de Fevereiro de 1933, serão cumpridas segundo o disposto no presente estatuto, se for possível e na medida em que o for; no caso contrário, serão nulas e de nenhum efeito.",
+      "epigrafe": "",
+      "texto": "transitório\nAs declarações dos actuais subscritores feitas ao abrigo do regime estabelecido nos Decretos n.os 14589, de 18 de Novembro de 1927, e 22199, de 15 de Fevereiro de 1933, serão cumpridas segundo o disposto no presente estatuto, se for possível e na medida em que o for; no caso contrário, serão nulas e de nenhum efeito.",
       "alterador": 1
     },
     {
       "chave": "80.º",
-      "epigrafe": "transitório",
+      "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 4
     },
     {
       "chave": "81.º",
-      "epigrafe": "transitório",
+      "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 4
     },
@@ -287,18 +287,20 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "1) DL 284/95, art. 10.º, n.º 2: a revogação das normas que disponham sobre matéria relativa aos beneficiários e aos subscritores só produz efeitos com a entrada em vigor da portaria que aprova o regulamento dos beneficiários do IASFA (facto futuro que o pedido não mostra). Por isso não se aplicou a revogação da alínea d) do n.º 1 aos artigos do estatuto sobre subscritores e beneficiários: 3.º (subsídio por morte dos subscritores; fica com o § único dado pelo DL 434-G/82), 4.º a 6.º (Capítulo II, Dos subscritores) e 72.º a 79.º (disposições transitórias sobre os actuais subscritores e beneficiários; o 73.º fica com a redação do DL 44331). Os restantes artigos 1.º, 2.º e 33.º a 71.º e 80.º a 82.º foram dados como revogados; a fronteira entre uns e outros é interpretativa. 2) DL 316/78, artigo único: fixa em 200000$00 o limite máximo do art. 7.º, múltiplo de 10000$00, e atribui ao CEMGFA a sua modificação, sem dar nova redação ao art. 7.º: alteração não textual, art. 7.º mantém-se. 3) DL 44331, art. 1.º: a nova redação do art. 2.º é seguida de um '...' isolado antes do art. 24.º, que pode corresponder a disposições omitidas no texto disponível; não se inventou nada. A redação do art. 2.º ficou prejudicada pela revogação do art. 2.º pelo DL 284/95. 4) DL 44331, art. 4.º: modificação do impresso modelo II, que só existe em imagem: não aplicável. 5) Reparo sobre o art. 82.º confirmado: o DL 284/95 revoga artigos, não os modelos, tabelas e quadros anexos ao estatuto (as tabelas A e B servem os arts. 15.º e 18.º, que se mantêm); por isso o corpo do art. 82.º fica '(Revogado.)' seguido, sem alteração, do fecho e dos modelos I a V, tabelas A, B e C e quadros I e II que vinham no texto atual a seguir a ele. Do mesmo modo, nos arts. 51.º e 60.º mantiveram-se os subtítulos '1) Da direcção' e '2) Dos serviços' que vinham no fim dos respectivos corpos.",
+  "nao_aplicavel": "Alterador 1, artigo 4.º do DL 44331 (modificar o impresso modelo II do estatuto): sem texto: o alterador não traz o novo modelo II, que no texto atual só existe em imagem.\nAlterador 2, artigo único do DL 316/78 (limite máximo do artigo 7.º fixado em 200000$00, múltiplo de 10000$00, e alterável por despacho do CEMGFA): sem texto: fixa o novo limite mas não dá nova redação ao artigo 7.º nem manda substituir palavras no seu texto.\nAlterador 4, artigo 10.º, n.º 1, alínea d), revogação dos artigos 3.º, 4.º, 5.º, 6.º, 72.º, 73.º, 74.º, 75.º, 76.º, 77.º, 78.º e 79.º: efeito adiado: são normas sobre subscritores e beneficiários, cuja revogação só produz efeitos na data da entrada em vigor da portaria que aprova o regulamento dos beneficiários do IASFA (n.º 2 do artigo 10.º).\nAlterador 4, artigo 10.º, n.º 1, corpo (revogada toda a legislação que contrarie o diploma): revogação condicional.\nAlterador 4, artigo 6.º, n.º 2 (menções ao CPFA nos artigos 7.º a 32.º feitas para o IASFA): não textual: remissão, sem alterar o texto.",
   "instrucoes": [
-    "Alterador 1 (DL 44331), art. 1.º: nova redação do art. 2.º (aplicada, mas depois revogada pelo alterador 4), do art. 24.º (aplicada) e do art. 73.º (transitório) (aplicada).",
-    "Alterador 1, arts. 2.º a 7.º: normas próprias (arredondamentos, relação de descontos, pagamentos, éditos, rendas); não dão nova redação ao estatuto; o art. 4.º manda modificar o modelo II (só em imagem): não aplicável.",
-    "Alterador 2 (DL 316/78): fixa o limite máximo dos subsídios do art. 7.º em 200000$00 sem nova redação do artigo: alteração não textual, não aplicada.",
-    "Alterador 3 (DL 434-G/82): nova redação do § único do art. 3.º (aplicada), das alíneas a) e c) do art. 33.º e do corpo do art. 35.º (aplicadas mas prejudicadas pela revogação destes artigos pelo alterador 4).",
-    "Alterador 4 (DL 284/95), art. 10.º, n.º 1, alínea d): revoga os arts. 1.º a 6.º e 33.º a 82.º do DL 42945: aplicada a 1.º, 2.º, 33.º a 71.º e 80.º a 82.º; não aplicada a 3.º a 6.º e 72.º a 79.º por causa do n.º 2 (efeito adiado para a portaria do regulamento dos beneficiários). O artigo único do decreto-lei que aprova o estatuto não é revogado.",
-    "Alterador 4, restantes artigos e Estatuto do IASFA em anexo: normas próprias, não alteram o texto do original.",
-    "Reparo sobre o art. 82.º: confirmado; o fecho, modelos, tabelas e quadros mantêm-se a seguir a '(Revogado.)'."
+    "Alterador 1, art. 1.º: nova redação do artigo 2.º (depois revogado pelo alterador 4: fica «(Revogado.)»), do artigo 24.º (aplicada) e do artigo 73.º (aplicada; a revogação pelo alterador 4 tem efeito adiado).",
+    "Alterador 1, arts. 2.º a 7.º: normas próprias do DL 44331, sem alterar o texto do estatuto; o art. 4.º (modelo II) vai em nao_aplicavel.",
+    "Alterador 2: limite do artigo 7.º: nao_aplicavel (sem texto).",
+    "Alterador 3: nova redação do § único do artigo 3.º (aplicada; a revogação do artigo 3.º tem efeito adiado) e das alíneas a) e c) do artigo 33.º e do corpo do artigo 35.º (absorvidas pela revogação destes artigos pelo alterador 4).",
+    "Alterador 4, art. 10.º, n.º 1, d): revogados os artigos 1.º, 2.º, 33.º a 71.º e 80.º a 82.º (no 51.º e no 60.º fica, a seguir a «(Revogado.)», o título da subdivisão seguinte, «1) Da direcção» e «2) Dos serviços»; no 82.º fica, a seguir a «(Revogado.)», a assinatura e os modelos, tabelas e quadros anexos ao estatuto, que não são revogados); artigos 3.º a 6.º e 72.º a 79.º com efeito adiado (n.º 2), em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [],
+  "ronda_camada1": 119,
+  "problemas": [
+    "73.º: parágrafo que não está no alterador nem no original: transitório\nAs declarações dos actuais subscritores feitas ao abrigo do regime e"
+  ],
+  "numeracao_aceite": [],
   "avisos": []
 }

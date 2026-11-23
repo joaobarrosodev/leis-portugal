@@ -1,0 +1,18 @@
+[
+ {
+  "id": "pt:dre:297028:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º, suspensão da aplicação dos artigos 37.º, 38.º, 56.º e 57.º até à publicação do diploma de uniformização de carreiras: não textual: suspensão, sem eliminar o texto.\nAlterador 1, artigo 2.º, manutenção das letras de vencimento a que se refere o artigo 59.º: não textual: regra transitória, sem nova redação.\nAlterador 1, artigo 3.º, alínea a), letras D e E para director e chefe de divisão no quadro de pessoal do artigo 19.º: só em imagem: o quadro de pessoal só existe em imagem, dentro do texto que se segue ao artigo 68.º, e não há título de anexo no texto atual onde o pôr.\nAlterador 1, artigo 3.º, alínea b), suspensão da coluna de letras de vencimento «após 1 de Janeiro de 1979» do quadro: não textual: suspensão; além disso o quadro só existe em imagem.\nAlterador 2, n.º 4, substituição do quadro de pessoal do CIDA pelo quadro anexo IV: só em imagem: o quadro novo só vem em imagem e não há título de anexo no texto atual onde o pôr.\nAlterador 3, n.º 1.º, n.º 3, aumento do quadro de pessoal com os lugares do mapa III: só em imagem: o mapa só vem em imagem e não há título de anexo no texto atual onde o pôr.\nAlterador 4, artigo 1.º, manutenção em vigor do Decreto Regulamentar n.º 26/78 até aos diplomas do artigo 19.º do Decreto-Lei n.º 99/81 (e artigo 3.º, provimento dos lugares vagos): não textual: manutenção em vigor, sem nova redação.\nAlterador 5, n.º 1.º, criação de 1 lugar de assessor, letra C, no quadro de pessoal: só em imagem: o quadro de pessoal só existe em imagem e não há título de anexo no texto atual onde o acrescentar.\nAlterador 6, n.º 1.º, aumento do quadro de pessoal com os lugares do mapa anexo: só em imagem: o mapa só vem em imagem e não há título de anexo no texto atual onde o pôr.\nAlterador 7, n.º 1.º, aumento do quadro de pessoal com os lugares do mapa anexo: só em imagem: o mapa só vem em imagem e não há título de anexo no texto atual onde o pôr.",
+  "instrucoes": [
+   "Alterador 1 (DR 2/79): suspende os arts. 37.º, 38.º, 56.º e 57.º; mantém letras do art. 59.º; altera o quadro do art. 19.º (letras D e E; suspende uma coluna). Nada textual aplicável: o quadro só está em imagem depois do art. 68.º, sem título de anexo; em nao_aplicavel. Reparo confirmado: o quadro não está em texto.",
+   "Alterador 2 (Portaria 26-B/80): n.º 4 substitui o quadro de pessoal do CIDA pelo anexo IV, só em imagem; os outros números são de outros serviços. Em nao_aplicavel.",
+   "Alterador 3 (Portaria 777/80): n.º 1.º, n.º 3 aumenta o quadro do CIDA com o mapa III, só em imagem; os outros números são de outros serviços. Em nao_aplicavel.",
+   "Alterador 4 (DL 331/81): mantém em vigor o diploma e permite o provimento de lugares vagos; não textual. Em nao_aplicavel.",
+   "Alterador 5 (Portaria 121/82): cria 1 lugar de assessor no quadro de pessoal; o quadro só existe em imagem, sem título de anexo. Reparo confirmado; em nao_aplicavel.",
+   "Alterador 6 (Portaria 298/82) e alterador 7 (Portaria 487/82): aumentam o quadro de pessoal com mapa em imagem; sem título de anexo no texto atual. Em nao_aplicavel."
+  ]
+ }
+]

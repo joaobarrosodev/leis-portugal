@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:468178:por
+    title: Rectificação
+    publication_date: '1974-12-17'
   - id: pt:dre:264716:por
     title: Decreto-Lei n.º 541-A/75
     publication_date: '1975-09-27'
@@ -131,9 +134,9 @@ Desde a apresentação das candidaturas e durante o mandato os funcionários do 
 
 ###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)
 
-1 - A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
+1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
 
-2 - Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
+2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
 
 > Alterado pelo/a [Decreto-Lei n.º 541-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716), publicado em 1975-09-27.
 
@@ -295,7 +298,7 @@ c) As autoridades diplomáticas ou consulares competentes anunciarão aos reside
 
 d) A autoridade superior no território promoverá a publicação de idênticos anúncios nos territórios ultramarinos ainda sob administração portuguesa.
 
-###### Artigo 30.º — (Pedido de inscrição)
+###### Artigo 30.º — (Período de inscrição)
 
 1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.
 
@@ -343,7 +346,7 @@ d) A autoridade superior no território promoverá a publicação de idênticos 
 
 No território eleitoral os directores de estabelecimentos de hospitalização de alienados deverão enviar, até 27 de Dezembro de 1974, às comissões de recenseamento das freguesias das respectivas residências, antes do internamento, relações dos cidadãos em idade eleitoral.
 
-###### Artigo 36.º — (Exposição da cópia para exame e reclamação)
+###### Artigo 36.º — (Exposição de cópia para exame e reclamação)
 
 1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.
 
@@ -465,11 +468,13 @@ O procedimento criminal por infracções relativas ao recenseamento eleitoral pr
 
 ###### Artigo 50.º — (Inscrição dolosa)
 
-1 - Aquele que dolosamente inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.
+1 - Aquele que dolosamente se inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.
 
 2 - Aquele que dolosamente se inscrever mais de uma vez ou que promover a inscrição do mesmo cidadão no recenseamento eleitoral de dois ou mais locais de recenseamento será punido com a pena de prisão de seis meses a um ano e multa de 1000$00 a 5000$00.
 
 3 - Todo o português residente no estrangeiro que, não estando nas condições previstas no artigo 4.º, der falsas informações, a fim de obter a sua inscrição no recenseamento, será punido com a pena do n.º 2. Se, porém, conseguir inscrever-se, a pena aplicável será a do n.º 1.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-468178), publicado em 1974-12-17.
 
 ###### Artigo 51.º — (Não cumprimento do dever de informação para efeito de recenseamento)
 

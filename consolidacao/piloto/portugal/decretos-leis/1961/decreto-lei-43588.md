@@ -1,0 +1,95 @@
+---
+id: pt:dre:558457:por
+title: Decreto-Lei n.º 43588
+original: data/portugal/decretos-leis/1961/decreto-lei-43588.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:427433:por
+    title: Decreto-Lei n.º 315/76
+    publication_date: '1976-04-29'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 43588
+
+1. A Direcção-Geral da Aeronáutica Civil foi organizada pelos Decretos-Leis n.os 36319 e 36619, respectivamente de 2 de Junho e 24 de Novembro de 1947, data esta também em que o [Decreto-Lei n.º 36622](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36622-1947-636703) estendeu a sua competência ao ultramar.
+
+De então para cá, porém, mercê do grande desenvolvimento da aviação civil e da importância crescente que esta vem tendo na economia tanto da metrópole como das províncias ultramarinas, os serviços a cargo da Direcção-Geral da Aeronáutica Civil avolumaram-se extraordinàriamente, tornando-se patentes deficiências de orgânica e insuficiências de meios.
+
+Cumpre, pois, num futuro tão próximo quanto possível, reorganizar a referida Direcção-Geral, sob pena de este departamento do Estado não poder corresponder aos seus fins; e para esse efeito estão a correr os necessários estudos e trabalhos preparatórios, esperando-se que o respectivo diploma legal possa ser publicado em prazo relativamente breve.
+
+No entanto, e sem prejuízo da projectada reforma, torna-se indispensável resolver desde já certas questões urgentes.
+
+É essa a finalidade do presente decreto-lei.
+
+2. A intensificação e a sempre crescente expansão das actividades da Direcção-Geral da Aeronáutica Civil trouxeram para o director-geral um aumento de trabalho tal que não lhe permite estudar e despachar devidamente os problemas que lhe são postos e ao mesmo tempo orientar e fiscalizar o funcionamento dos serviços.
+
+Nestas condições, e dada não só a dispersão dos serviços externos como ainda a necessidade cada vez maior de coordenar as diversas e progressivas actividades aeronáuticas metropolitanas e ultramarinas, impõe-se a criação no quadro da Direcção-Geral de um corpo de inspectores superiores que coadjuvem o director-geral, realizando os estudos e fazendo as inspecções que forem convenientes.
+
+Todavia, a delimitação desse quadro terá de fazer-se à luz de certos elementos que ainda se não possuem, e, por outro lado, depende da posição que se tomar em relação a determinadas questões postas pela reorganização da Direcção-Geral, designadamente a constituição de duas comissões consultivas - a comissão de transporte aéreo e a comissão de navegação aérea - prevista nos trabalhos preparatórios em curso e em cujo funcionamento os inspectores superiores serão chamados a ter papel preponderante.
+
+Enquanto não for constituído o quadro de inspectores superiores antes referido, considera-se imperioso criar, desde já, um lugar de adjunto do director-geral, com o fim de libertar o director-geral de certo expediente e ocorrer a trabalhos e estudos urgentes.
+
+3. Aproveita-se ainda a oportunidade para tomar certas medidas, também de carácter urgente, relativas aos quadros do pessoal.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+É criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+§ único. (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.
+
+> Alterado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.
+
+###### Artigo 2.º
+
+Compete ao adjunto do director-geral:
+
+a) Realizar as inspecções e missões que forem ordenadas pelo director-geral;
+
+b) Orientar a execução de trabalhos e serviços por determinação do director-geral;
+
+c) Proceder a estudos, prestar informações e dar pareceres sobre assuntos que o director-geral lhe indicar;
+
+d) Sugerir as providências que reputar convenientes para o bom funcionamento dos serviços;
+
+e) Coadjuvar o director-geral e substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 3º
+
+O director-geral da Aeronáutica Civil poderá delegar no adjunto do director-geral a competência que por lei lhe é conferida e em cada um dos directores de serviços, bem como nos chefes das repartições não integradas nas direcções de Serviço, aquela que diga respeito ao despacho corrente das mesmas.
+
+###### Artigo 4.º
+
+O lugar de engenheiro civil de 1.ª ou 2.ª classes, piloto aviador, previsto no quadro do pessoal técnico anexo ao [Decreto-Lei n.º 36319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36319-1947-185742), de 2 de Junho de 1947, é substituído por um lugar de inspector de material de voo, com a categoria e vencimentos correspondentes à letra F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 13 de Dezembro de 1958.
+
+§ único. O lugar a que se refere este artigo será provido por escolha entre indivíduos habilitados com o curso de Engenharia que possuam os conhecimentos reputados necessários para o exercício do cargo.
+
+###### Artigo 5.º
+
+É eliminada a observação a) aos mapas I a V anexos ao [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
+
+###### Artigo 6.º
+
+Até à reorganização dos quadros a que se referem os artigos 7.º dos Decretos-Leis n.os 36319 e 36619, respectivamente de 2 de Junho e 24 de Novembro de 1947, poderá o Ministro das Comunicações, por despacho a publicar no Diário do Governo, alterar as dotações dos mesmos quadros, desde que das alterações não resulte aumento de unidades em cada categoria e classe, considerados aqueles quadros no seu conjunto.
+
+§ único. Os ajustamentos orçamentais indispensáveis poderão efectuar-se por simples transferência de verbas autorizada por despacho do Ministro das Comunicações e publicada no Diário do Governo depois de obtida a concordância do Ministro das Finanças.
+
+###### Artigo 7.º
+
+Os encargos resultantes da execução dos artigos 1.º e 4.º do presente diploma serão suportados pelas disponibilidades da competente dotação do actual orçamento do Ministério das Comunicações, convenientemente reforçadas se vierem a mostrar-se insuficientes.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 10 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.

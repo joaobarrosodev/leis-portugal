@@ -3,22 +3,35 @@
   "substituicoes": [
     {
       "de": 3,
+      "ate": 3,
+      "texto": "Artigo 1.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 4,
+      "ate": 5,
+      "texto": "Art. 2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 6,
       "ate": 7,
-      "texto": "Artigo 1.º - (Revogado.)\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º - (Revogado.)",
+      "texto": "Art. 3.º - (Revogado.)",
       "alterador": 1
     }
   ],
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 5.º: revoga os artigos 1.º, 2.º e 3.º do original; unidades 3 a 7 substituídas pelas três menções de revogado.",
-    "Alterador 1, arts. 1.º a 4.º: regime próprio do novo diploma, sem alteração textual do original."
+    "Alterador 1 (DL 515/71), art. 5.º: revoga os artigos 1.º, 2.º e 3.º do DL 48879; cada artigo fica com a sua numeração tal como está no texto atual ('Artigo 1.º', 'Art. 2.º', 'Art. 3.º') e '(Revogado.)', como mandam as regras (unidade revogada fica com a numeração e '(Revogado.)'); os n.os 1 e 2 dos artigos 2.º e 3.º entram na mesma substituição. Os reparos apontam esses parágrafos por não estarem nas fontes, mas a forma é a que as regras prescrevem para unidades revogadas; o resto do texto não muda.",
+    "Alterador 1, arts. 1.º a 4.º: disposições próprias do DL 515/71 (novo regime do grau de licenciado), não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 3-7: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
-    "substituição 3-7: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
-    "substituição 3-7: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)"
+  "problemas": [],
+  "numeracao_aceite": [
+    "substituição 3-3: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
+    "substituição 4-5: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 6-7: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)"
   ]
 }

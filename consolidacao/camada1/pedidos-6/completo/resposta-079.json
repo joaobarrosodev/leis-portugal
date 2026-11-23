@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:558457:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "",
+    "texto": "É criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ único. (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 1.º (é extinto o lugar de adjunto do director-geral criado pelo DL 43588): não textual: extinção do lugar, sem revogar nem dar nova redação a nenhum artigo do original.",
+  "instrucoes": [
+   "Alterador 1 (DL 315/76), art. 1.º: revoga o § único do artigo 1.º; o programa tinha revogado o artigo 1.º inteiro, o que nenhuma instrução manda: repus o corpo do artigo 1.º do original e o § único fica '§ único. (Revogado.)'.",
+   "Alterador 1, art. 2.º: novo modo de provimento do lugar de adjunto, disposição própria sem alteração textual do original (o § único já fica revogado).",
+   "Alterador 2 (Decreto 658/76), art. 1.º: extinção do lugar de adjunto, não textual: nao_aplicavel. Arts. 2.º a 6.º: disposições próprias (criação de lugares de subdirector-geral), não alteram o texto do original."
+  ]
+ }
+]

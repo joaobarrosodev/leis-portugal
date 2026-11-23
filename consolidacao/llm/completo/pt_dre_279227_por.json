@@ -34,16 +34,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 31/70 (artigo único) extingue o conselho administrativo da Escola Náutica referido no art. 11.º sem dar nova redação (alteração não textual); o art. 11.º recebe depois nova redação do DL 157/70. DL 47724, art. 2.º, revoga o DL 43246 (diploma alterador), não o art. 20.º do original: o art. 20.º aditado pelo DL 43246 fica com o texto aditado; se se entender que a revogação do 43246 o faz cair, o art. 20.º devia ficar '(Revogado.)' — ambiguidade.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 2.º, revoga o Decreto-Lei n.º 43246, que aditou o art. 20.º: alvo incerto: revoga o diploma que fez o aditamento e não diz se o art. 20.º aditado deixa de vigorar; não se marca o art. 20.º como revogado\nAlterador 3, artigo único, extingue o conselho administrativo da Escola Náutica (art. 11.º): não textual: extinção sem nova redação; o art. 11.º recebe depois nova redação do alterador 4",
   "instrucoes": [
-    "DL 43246 artigo único: adita art. 20.º -> aditado",
-    "DL 47724 art. 1.º: nova redação das condições 2.ªs dos n.os 1) a 4) da alínea B) da secção I) do art. 6.º -> substituídas",
-    "DL 47724 art. 2.º: revoga o DL 43246 -> instrução sobre outro diploma, art. 20.º mantido (ver nao_aplicavel)",
-    "DL 31/70: extingue o conselho administrativo do art. 11.º -> não textual (nao_aplicavel)",
-    "DL 157/70 art. 1.º: nova redação do corpo do art. 1.º, do corpo e § 1.º do art. 8.º e do art. 11.º -> aplicadas; §§ do art. 1.º e § 2.º do art. 8.º mantidos ('...')",
-    "DL 157/70 art. 2.º: norma própria, não altera o original -> ignorada"
+    "Alterador 1 (DL 43246), artigo único: adita o art. 20.º; aditado.",
+    "Alterador 2 (DL 47724), art. 1.º: nova redação das condições 2.as dos n.os 1) a 4) da alínea B) da secção I) do art. 6.º; substituídas, o resto do artigo fica.",
+    "Alterador 2, art. 2.º: revoga o DL 43246; não aplicado ao art. 20.º (nao_aplicavel).",
+    "Alterador 3 (DL 31/70): extingue o conselho administrativo do art. 11.º; não textual (nao_aplicavel).",
+    "Alterador 4 (DL 157/70), art. 1.º: nova redação do corpo do art. 1.º (§§ ficam), do corpo e § 1.º do art. 8.º (§ 2.º fica) e do art. 11.º; aplicado. Art. 2.º é norma própria."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

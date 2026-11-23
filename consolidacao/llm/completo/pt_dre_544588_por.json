@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:544588:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "Redução do valor da caução nos contratos públicos",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação do Mapa I (Receita da Região Autónoma dos Açores): só em imagem: o mapa vem em imagem e, no texto atual, está no fim do corpo do artigo 40.º, sem título de anexo onde o pôr\nAlterador 2, artigo 1.º, alteração dos mapas X e XI: só em imagem: os mapas novos só vêm em imagem e, no texto atual, não há título de anexo destes mapas (estão no fim do corpo do artigo 40.º)\nAlterador 3, artigo 23.º (artigo 5.º do DLR 14/2009/A na redação dada pelo artigo 23.º do original) e artigo que altera o artigo 2.º do DLR 4/2008/A: outro diploma\nAlterador 3, artigos sobre o DLR 8/2002/A e o DLR 19/2007/A (o original aparece na lista de alterações): outro diploma\nAlterador 4, artigo que altera o artigo 5.º do DLR 14/2009/A na redação dada pelo original, e artigos sobre os DLR 8/2002/A e 19/2007/A: outro diploma\nAlteradores 5 a 8, artigos sobre os DLR 8/2002/A e 19/2007/A (o original aparece na lista de alterações): outro diploma\nAlterador 9, artigo 103.º, alíneas a) a e) e partes da alínea f) sobre o DLR 2/2014/A e o DLR 1/2015/A: outro diploma\nAlterador 10, artigos sobre os DLR 4/2008/A, 8/2002/A e 19/2007/A: outro diploma\nAlterador 11, artigos sobre o DLR 8/2002/A e artigo 62.º (COMPAMID, DLR 4/2008/A): outro diploma\nAlterador 12, artigo 64.º (COMPAMID, DLR 4/2008/A): outro diploma",
+  "instrucoes": [
+    "Alterador 1 (Retificação 13/2012): retifica o Mapa I, só em imagem e sem título de anexo: nao_aplicavel.",
+    "Alterador 2 (DLR 18/2012/A), art. 1.º: altera os mapas X e XI, só em imagem e sem título de anexo: nao_aplicavel.",
+    "Alterador 3 (DLR 2/2013/A), art. 24.º: nova redação do artigo 24.º (n.os 1 a 3, até 31 de dezembro de 2014): aplicada, mas depois revogada pelo alterador 9.",
+    "Alterador 4 (DLR 2/2014/A), art. 25.º: aditado o n.º 4 ao artigo 24.º (n.os 1 a 3 mantidos): aplicado, mas depois revogado pelo alterador 9.",
+    "Alterador 9 (DLR 27/2015/A), art. 103.º, alínea f): revoga o artigo 24.º do original com a entrada em vigor do diploma: artigo 24.º fica «(Revogado.)», com a epígrafe mantida.",
+    "Restantes menções ao original nos alteradores 3 a 12 são de outros diplomas (DLR 14/2009/A, 4/2008/A, 8/2002/A, 19/2007/A): ignoradas, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

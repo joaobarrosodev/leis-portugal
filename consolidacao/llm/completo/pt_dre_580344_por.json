@@ -16,13 +16,17 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 377/85, artigo único: nova redação do artigo 6.º (palavra «MARINHA»); superada pelo DL 105/2005, que a mantém como n.º 1.",
-    "DL 105/2005, art. 1.º: artigo 6.º passa a ter n.º 1 (anterior artigo único, i.e. a redação do DL 377/85) e n.º 2 novo (POLÍCIA MARÍTIMA); reparo confirmado: o n.º 1 vem do DL 377/85.",
-    "DL 105/2005, art. 2.º: aditado o artigo 12.º."
+    "Alterador 1 (DL 377/85): nova redação do artigo 6.º (palavra «MARINHA»); absorvida pela redação do alterador 2, cujo n.º 1 é o anterior artigo único.",
+    "Alterador 2 (DL 105/2005), art. 1.º: nova redação do artigo 6.º: n.º 1 = anterior artigo único (texto do DL 377/85), n.º 2 novo (POLÍCIA MARÍTIMA).",
+    "Alterador 2, art. 2.º: aditado o artigo 12.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

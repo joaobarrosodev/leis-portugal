@@ -7,12 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:220114:por
-    title: Decreto Legislativo Regional n.º 6/2005/M
-    publication_date: '2005-06-01'
+  - id: pt:dre:616586:por
+    title: Declaração de Rectificação n.º 133/93
+    publication_date: '1993-07-31'
   - id: pt:dre:305814:por
     title: Decreto Legislativo Regional n.º 21/93/M
     publication_date: '1993-12-10'
+  - id: pt:dre:220114:por
+    title: Decreto Legislativo Regional n.º 6/2005/M
+    publication_date: '2005-06-01'
 ---
 
 # Decreto Legislativo Regional n.º 4/93/M
@@ -29,9 +32,11 @@ São aprovados pelo presente diploma:
 
 a) O Orçamento da Região Autónoma da Madeira para 1993, constante dos mapas I a IV;
 
-b) Os orçamentos dos fundos e serviços autónomos, constantes dos mapas V a VII;
+b) Os orçamentos dos fundos e serviços autónomos, constantes dos mapas V a VIII;
 
 c) Os programas e projectos plurianuais, constantes do mapa IX.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 133/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-1993-616586), publicado em 1993-07-31.
 
 ### CAPÍTULO II — Finanças locais
 
@@ -188,20 +193,6 @@ i) Quando se trate de encomenda ou obtenção de estudos.
 a) Na altura da abertura do concurso ou do início do processo de consulta haver razões para admitir que os preços das propostas dos concorrentes não ultrapassem aqueles limites;
 
 b) Os elementos disponíveis permitam concluir que da anulação do processo e da abertura do subsequente concurso limitado ou público venham a resultar encargos elevados.
-
-###### Artigo 17.º — Tramitação dos processos de concurso
-
-1 - O processo dos concursos público e limitado e os critérios de adjudicação relativos a contratos de empreitada e fornecimento de obras públicas regem-se pelo disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.
-
-2 - O processo dos concursos público e limitado e os critérios de adjudicação relativos a contratos de fornecimento ou aquisição de bens e serviços regem-se, no caso de não haver regulamentação própria especialmente aplicável, pelo disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.
-
-3 - Aos processos de concurso público e limitado referidos nos números anteriores e, bem assim, ao processo de ajuste directo aplica-se o disposto no Decreto-Lei n.º 442/91, de 15 de Novembro.
-
-4 - O disposto no presente diploma não prejudica a aplicação da Directiva n.º [71/305/CEE](http://data.europa.eu/eli/dir/1971/305/oj?locale=pt), de 26 de Julho, transposta pelo Decreto-Lei n.º 235/86, de 18 de Agosto, e do Decreto-Lei n.º 396/90, de 11 de Dezembro, relativamente aos contratos de empreitadas de obras públicas, nem a aplicação da Directiva n.º [77/62/CEE](http://data.europa.eu/eli/dir/1977/62/oj?locale=pt), de 21 de Dezembro, e do Decreto-Lei n.º 24/92, de 25 de Fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 196/92, de 12 de Setembro, relativamente aos contratos de fornecimento de direito público, os quais prevalecem, em caso de colisão, sobre todas e quaisquer normas do presente diploma.
-
-5 - Nos concursos públicos a que se refere o presente artigo, a exigência de publicação do anúncio, designadamente para efeitos do prazo do concurso, considera-se reportada à 2.ª série do Jornal Oficial da Região Autónoma da Madeira, sem prejuízo da sua publicação no Diário da República e das demais publicações exigidas por lei.
-
-6 - O disposto no número anterior não se aplica, porém, aos concursos públicos que devam ser celebrados no âmbito da Comunidade Europeia, em que a contagem dos prazos deve ser efectuada nos termos das directivas comunitárias aplicáveis.
 
 ###### Artigo 17.º — Tramitação dos processos de concurso
 
