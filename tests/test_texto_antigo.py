@@ -107,3 +107,12 @@ def test_com_original_tira_o_corpo_original():
     consolidado = "\n\n".join(["###### Artigo 22.º", "(Revogado.)", NOTA, "##### Divisão de Pessoal", "À Divisão compete:", "a) Gerir.", "###### Artigo 23.º", "y"])
     novo, feitos = t.revogar_inteiro(consolidado, original)
     assert "À Divisão compete" not in novo and "###### Artigo 22.º — Divisão de Pessoal" in novo and len(feitos) == 1
+
+
+def test_com_original_tira_tambem_as_alineas_ja_revogadas():
+    original = "\n\n".join(["###### Artigo 16.º", "##### Divisão de Arquivo", "1 - À Divisão compete:", "c) Organizar;", "d) Apoiar;", "###### Artigo 17.º", "y"])
+    consolidado = "\n\n".join(["###### Artigo 16.º", "(Revogado.)", NOTA, "##### Divisão de Arquivo", "1 - À Divisão compete:", "c) Organizar;",
+                               "d) (Revogada.)", "> Revogado pelo/a [DL 206/98](https://x), publicado em 1998-07-13.", "###### Artigo 17.º", "y"])
+    novo, feitos = t.revogar_inteiro(consolidado, original, so={"16.º"})
+    assert "À Divisão compete" not in novo and "d) (Revogada.)" not in novo and len(feitos) == 1
+    assert t.revogar_inteiro(consolidado, original, so={"9.º"})[1] == []

@@ -286,7 +286,10 @@ def retificados_por_regra() -> set[str]:
     registadas só como `repealed_by`: uma nova corrida
     não os escreve por cima."""
     ids: set[str] = set()
-    for nome in ("retificacoes-aplicadas.jsonl", "anexos-aplicados.jsonl", "plantas-aplicadas.jsonl", "revogacoes-aplicadas.jsonl"):
+    # também os corrigidos por `texto_antigo.py`: o piloto deles ainda tem o texto antigo, e uma nova corrida
+    # repunha-o (aconteceu na ronda 117 com o DL 99/94 e o DL 106/97)
+    for nome in ("retificacoes-aplicadas.jsonl", "anexos-aplicados.jsonl", "plantas-aplicadas.jsonl", "revogacoes-aplicadas.jsonl",
+                 "texto-antigo-corrigidos.jsonl"):
         caminho = PASTA / "auditoria" / nome
         if caminho.exists():
             ids |= {json.loads(l)["id"] for l in caminho.read_text(encoding="utf-8").splitlines() if l.strip()}

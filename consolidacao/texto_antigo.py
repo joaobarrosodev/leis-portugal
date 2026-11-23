@@ -111,7 +111,7 @@ def _e_fecho(linha: str) -> bool:
     return bool(FECHO.search(s) or _ASSINATURAS.match(s))
 
 
-def revogar_inteiro(texto: str, original: str | None = None) -> tuple[str, list[dict]]:
+def revogar_inteiro(texto: str, original: str | None = None, so: set[str] | None = None) -> tuple[str, list[dict]]:
     """Revogação de um artigo inteiro, por regra e sem LLM. Em cada artigo cujo corpo começa por «(Revogado.)», o
     corpo fica «(Revogado.)» e as notas («> Revogado pelo/a …»). Sai o resto até ao artigo seguinte ou a um título de
     estrutura (capítulo, secção, anexo…), incluindo os títulos de divisão que estão dentro dele («##### Divisão de
@@ -132,7 +132,7 @@ def revogar_inteiro(texto: str, original: str | None = None) -> tuple[str, list[
             fim += 1
         bloco = linhas[i + 1:fim]
         nao_vazias = [l for l in bloco if l.strip()]
-        if not nao_vazias or not REVOGADO.fullmatch(nao_vazias[0].strip()):
+        if not nao_vazias or not REVOGADO.fullmatch(nao_vazias[0].strip()) or (so is not None and _chave(m.group(1)) not in so):
             saida.extend(linhas[i:fim])
             i = fim
             continue
@@ -152,7 +152,9 @@ def revogar_inteiro(texto: str, original: str | None = None) -> tuple[str, list[
             # (um título de secção em texto simples, «III / Das casas…», é da secção seguinte e fica)
             corpo_o = {p.strip() for p in artigos(original).get(_chave(m.group(1)), "").split("\n\n") if p.strip()}
             tirados = [p.strip() for p in "\n".join(removidas).split("\n\n") if p.strip()]
-            if not corpo_o or any(p not in corpo_o for p in tirados):
+            # num artigo revogado, saem também as partes do corpo antigo já revogadas («d) (Revogada.)») e as suas notas
+            ja_revogado = re.compile(r"^(?:[\w§º°.\-]{1,12}\s*[-–)]?\s*)?\(Revogad[oa]s?\.?\)\.?$")
+            if not corpo_o or any(p not in corpo_o and not p.startswith(">") and not ja_revogado.match(p) for p in tirados):
                 saida.extend(linhas[i:fim])
                 i = fim
                 continue
@@ -306,7 +308,84 @@ def corrigir(raiz: str, aplicar: bool) -> int:
     return 0
 
 
+PENDENTES_R2 = "auditoria/texto-antigo-revogar.jsonl"
+VERIFICACAO_R2 = "llm/texto-antigo-r2"
+
+
+def revogar_no_acervo(raiz: str, aplicar: bool) -> int:
+    """`revogar_inteiro` nos artigos de `auditoria/texto-antigo-revogar.jsonl` (caminho, artigo) do data/. Sem
+    `aplicar`, escreve a entrada da verificação às cegas em `llm/texto-antigo-r2/entrada.jsonl`; com `aplicar`,
+    grava só os artigos que a verificação deu `certo` (`llm/texto-antigo-r2/saida.jsonl`), com o histórico refeito."""
+    from pathlib import Path  # noqa: PLC0415
+
+    sys.path.insert(0, str(Path(raiz) / "src"))
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from acervo import blocos, historico  # noqa: PLC0415
+
+    from leis_portugal.domain.history import render_version, summarize  # noqa: PLC0415
+    from leis_portugal.infrastructure.repository import Acervo  # noqa: PLC0415
+
+    pasta = Path(__file__).resolve().parent
+    acervo = Acervo(Path(raiz))
+    por: dict[str, set[str]] = {}
+    for l in (pasta / PENDENTES_R2).read_text(encoding="utf-8").splitlines():
+        if l.strip():
+            d = json.loads(l)
+            por.setdefault(d["caminho"], set()).add(d["artigo"])
+    certos = set()
+    if aplicar:
+        for l in (pasta / VERIFICACAO_R2 / "saida.jsonl").read_text(encoding="utf-8").splitlines():
+            if l.strip():
+                v = json.loads(l)
+                if v["veredicto"] == "certo":
+                    certos.add((v["caminho"], v["artigo"]))
+    itens, feitos, recusas = [], [], []
+    for caminho, chaves in sorted(por.items()):
+        md = Path(raiz) / caminho
+        registo, texto = acervo.read(md)
+        dados = acervo.read_history(md)
+        if len(dados["versions"]) != 2:
+            recusas.append(f"{caminho}: o histórico não tem duas versões")
+            continue
+        original = render_version(dados, dados["versions"][0], title=registo.title)
+        so = {c for c in chaves if not aplicar or (caminho, c) in certos}
+        if not so:
+            continue
+        novo, mudados = revogar_inteiro(texto, original, so=so)
+        for c in chaves - {x["artigo"] for x in mudados}:
+            recusas.append(f"{caminho} art. {c}: a regra não se aplica (o que vem a seguir a «(Revogado.)» não é só texto antigo)")
+        a_o, a_c, a_n = artigos(original), artigos(texto), artigos(novo)
+        for x in mudados:
+            itens.append({"n": len(itens) + 1, "caminho": caminho, "id": registo.id, "diploma": registo.title, "artigo": x["artigo"],
+                          "artigo_original": a_o.get(x["artigo"], "").strip(), "antes": a_c.get(x["artigo"], "").strip(),
+                          "depois": a_n.get(x["artigo"], "").strip(), "removido": x["removido"], "epigrafe_no_titulo": x["epigrafe_no_titulo"]})
+        if not aplicar or not mudados:
+            continue
+        primeira, segunda = (dict(v) for v in dados["versions"])
+        novos = historico(registo.id, registo.title, original, novo, [primeira, segunda])
+        if blocos(render_version(novos, novos["versions"][1], title=registo.title)) != blocos(novo):
+            recusas.append(f"{caminho}: o histórico não reproduz o texto")
+            continue
+        registo.version_history = summarize(novos, acervo.history_path(md).name)
+        acervo.save(registo, novo, target=md)
+        acervo.write_history(md, novos)
+        feitos.append({"id": registo.id, "caminho": caminho, "titulo": registo.title, "artigos": [x["artigo"] for x in mudados]})
+    if aplicar:
+        anteriores = (pasta / CORRIGIDOS).read_text(encoding="utf-8") if (pasta / CORRIGIDOS).exists() else ""
+        (pasta / CORRIGIDOS).write_text(anteriores + "".join(json.dumps(f, ensure_ascii=False) + "\n" for f in feitos), encoding="utf-8")
+        print(f"{sum(len(f['artigos']) for f in feitos)} artigos revogados por regra em {len(feitos)} consolidados")
+    else:
+        (pasta / VERIFICACAO_R2).mkdir(parents=True, exist_ok=True)
+        (pasta / VERIFICACAO_R2 / "entrada.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
+        print(f"{len(itens)} artigos para a verificação às cegas em {VERIFICACAO_R2}/entrada.jsonl")
+    for r in recusas:
+        print("  recusa:", r)
+    return 0
+
+
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("revogar", "revogar-aplicar"):
+        return revogar_no_acervo(sys.argv[2], sys.argv[1] == "revogar-aplicar")
     if len(sys.argv) > 1 and sys.argv[1] in ("corrigir", "aplicar"):
         return corrigir(sys.argv[2], sys.argv[1] == "aplicar")
     total = 0
