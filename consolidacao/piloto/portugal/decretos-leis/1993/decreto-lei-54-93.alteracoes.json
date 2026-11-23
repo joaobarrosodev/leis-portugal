@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\n1 - São proibidos o uso e a comercialização de compostos organoestânicos estremes ou como componentes de preparações destinadas:\n\na) Ao tratamento de águas industriais, independentemente do seu uso;\n\nb) A impedir a fixação de microrganismos, plantas ou animais em:\n\ni) Cascos de embarcações de comprimento de fora a fora inferior a 25 m, tal como definido na norma ISO 8666;\n\nii) Gaiolas, flutuadores, redes e qualquer outra aparelhagem ou equipamento utilizado em piscicultura ou conquicultura;\n\niii) Qualquer aparelhagem ou equipamento total ou parcialmente imerso.\n\n2 - Exceptua-se do disposto na alínea b) do número anterior a venda a utilizadores profissionais em embalagens com capacidade igual ou superior a 20 l, que devem ostentar de modo legível e indelével a menção «Reservado aos utilizadores profissionais», sem prejuízo de outras menções a constar nos rótulos, de acordo com o Decreto-Lei n.º 280-A/87, de 17 de Julho.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 256/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), publicado em 2000-10-17.",
+    "excerto": "1 - É revogado o artigo 6.º do Decreto-Lei n.º 54/93, de 26 de Fevereiro.",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:657440:por",
+    "alterador": "pt:dre:532459:por"
+  }
+]

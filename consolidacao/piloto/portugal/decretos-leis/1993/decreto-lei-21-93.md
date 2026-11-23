@@ -3,8 +3,7 @@ id: pt:dre:601283:por
 title: Decreto-Lei n.º 21/93
 original: data/portugal/decretos-leis/1993/decreto-lei-21-93.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
-    sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:495715:por
@@ -32,7 +31,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-O prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 20/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1994-495715), publicado em 1994-01-26.
 
 ###### Artigo 2.º
 

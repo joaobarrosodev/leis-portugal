@@ -1,0 +1,32 @@
+[
+  {
+    "artigo": "31.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 31.º\n\n1 - Dentro das verbas disponíveis para o efeito, pode o Instituto:\n\na) Contratar e conceder remunerações por tarefas determinadas a pessoal científico e técnico, nacional ou estrangeiro, necessário à realização de projectos determinados;\n\nb) Conceder, nomeadamente a membros do pessoal docente ou a estudantes de instituições de ensino superior a que se encontre ligado por convénios ou contratos, remunerações à tarefa por trabalhos com objecto e prazo de execução definidos;\n\nc) Arrendar bens imóveis e contratar serviços.\n\n2 - Sob proposta fundamentada do conselho científico, pode o Ministro da Educação e das Universidades autorizar que, dentro das verbas disponíveis para o efeito e por períodos anuais renováveis ou por prazo inferior, sejam contratados para exercer funções científicas, de formação ou técnicas, em condições especiais de prestação do serviço e de remuneração, a fixar caso a caso, os nacionais e estrangeiros cuja colaboração, nessas condições, seja de comprovado interesse para o Instituto, não conferindo tais contratos, porém, a qualidade de agente administrativo.",
+    "depois": "###### Artigo 31.º\n\n1 - Dentro das verbas disponíveis para o efeito, pode o Instituto:\n\na) Contratar e conceder remunerações por tarefas determinadas a pessoal científico e técnico, nacional ou estrangeiro, necessário à realização de projectos determinados;\n\nb) Conceder, nomeadamente a membros do pessoal docente ou a estudantes de instituições de ensino superior a que se encontre ligado por convénios ou contratos, remunerações à tarefa por trabalhos com objecto e prazo de execução definidos;\n\nc) Alugar bens móveis e contratar serviços.\n\n2 - Sob proposta fundamentada do conselho científico, pode o Ministro da Educação e das Universidades autorizar que, dentro das verbas disponíveis para o efeito e por períodos anuais renováveis ou por prazo inferior, sejam contratados para exercer funções científicas, de formação ou técnicas, em condições especiais de prestação do serviço e de remuneração, a fixar caso a caso, os nacionais e estrangeiros cuja colaboração, nessas condições, seja de comprovado interesse para o Instituto, não conferindo tais contratos, porém, a qualidade de agente administrativo.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-599940), publicado em 1982-03-10.",
+    "excerto": "No artigo 31.º, n.º 1, alínea c), onde se lê «c) Arrendar bens imóveis e contratar serviços.» deve ler-se «c) Alugar bens móveis e contratar serviços.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600356:por",
+    "alterador": "pt:dre:599940:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 7.º\n\n1 - O director do Instituto é nomeado pelo Ministro da Educação e das Universidades, ouvido o reitor da Universidade, sob proposta do conselho científico, de entre professores universitários no domínio das ciências sociais ou investigadores do Instituto.\n\n2 - A nomeação é feita por um período de 3 anos, renovável por iguais períodos, nas mesmas condições.\n\n3 - O director tem direito a uma gratificação mensal de quantitativo igual a 15% da remuneração fixada para a letra A, acumulável com o vencimento da sua categoria.",
+    "depois": "###### Artigo 7.º\n\n1 - O director do Instituto é nomeado pelo Ministro da Educação e das Universidades, ouvido o reitor da Universidade, sob proposta do conselho científico, de entre professores universitários no domínio das ciências sociais ou investigadores do Instituto.\n\n2 - A nomeação é feita por um período de 3 anos, renovável por iguais períodos, nas mesmas condições.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), publicado em 1985-07-11.",
+    "excerto": "São revogados:\n\ne) O n.º 3 do artigo 7.º do Decreto-Lei n.º 46/82, de 10 de Fevereiro;",
+    "artigo_alterador": "8.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:600356:por",
+    "alterador": "pt:dre:182637:por"
+  }
+]

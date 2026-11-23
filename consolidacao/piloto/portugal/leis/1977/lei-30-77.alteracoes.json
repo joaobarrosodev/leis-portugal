@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 5.º\n\nAs obrigações do Tesouro - FIP, classe A, 1977, terão as seguintes características:\n\na) Taxa de juro nominal de 14% ao ano;\n\nb) Valor nominal de 1000$00;\n\nc) Amortização, ao par, por sorteio, em cinco anuidades iguais, excepto uma, se necessário;\n\nd) Primeira amortização em 1900.",
+    "depois": "###### Artigo 5.º\n\nAs obrigações do Tesouro - FIP, classe A, 1977, terão as seguintes características:\n\na) Taxa de juro nominal de 14% ao ano;\n\nb) Valor nominal de 1000$00;\n\nc) Amortização, ao par, por sorteio, em cinco anuidades iguais, excepto uma, se necessário;\n\nd) Primeira amortização em 1980.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-250062), publicado em 1977-06-28.",
+    "excerto": "No artigo 5.º, alínea d), onde se lê: «Primeira amortização em 1900», deve ler-se: «Primeira amortização em 1980».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252181:por",
+    "alterador": "pt:dre:250062:por"
+  }
+]

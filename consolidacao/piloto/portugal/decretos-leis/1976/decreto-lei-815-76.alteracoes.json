@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 9.º — (Disposições transitórias)\n\nA Direcção de Obras Públicas do Distrito da Horta depende administrativamente da Secretaria-Geral, até à sua integração no Governo Regional dos Açores, de acordo com o disposto no Decreto-Lei n.º 100/73, de 3 de Fevereiro.",
+    "depois": "###### Artigo 9.º — (Disposições transitórias)\n\nA Direcção de Obras Públicas do Distrito da Horta depende administrativamente da Secretaria-Geral, até à sua integração no Governo Regional dos Açores, de acordo com o disposto no Decreto-Lei n.º 100/76, de 3 de Fevereiro.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-406724), publicado em 1976-11-23.",
+    "excerto": "No artigo 9.º, onde se lê: «Decreto-Lei n.º 100/73, de 3 de Fevereiro», deve ler-se: «Decreto-Lei n.º 100/76, de 3 de Fevereiro».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407141:por",
+    "alterador": "pt:dre:406724:por"
+  }
+]
