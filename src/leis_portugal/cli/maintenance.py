@@ -1,4 +1,4 @@
-"""link | validate | reports | sources | export"""
+"""link | validate | reports | sources | export | textos-manuais"""
 
 from __future__ import annotations
 
@@ -18,6 +18,10 @@ def register(commands) -> None:
         "link", help="Ligar os atos da UE aos diplomas portugueses e resolver as referências por ELI para ids do acervo."
     ).set_defaults(handler=link)
     commands.add_parser("validate", help="Validar o registo de fontes e todos os documentos em data/.").set_defaults(handler=validate)
+    commands.add_parser(
+        "textos-manuais",
+        help="Gravar nos registos os textos transcritos do PDF oficial (reports/textos-manuais.jsonl), onde a fonte serve o texto de outro diploma.",
+    ).set_defaults(handler=manual_texts)
     commands.add_parser("reports", help="Gerar relatórios a partir dos registos existentes.").set_defaults(handler=reports)
     commands.add_parser("sources", help="Listar o estado registado das fontes.").set_defaults(handler=sources)
     export = commands.add_parser("export", help="Exportar o índice de relações e os metadados (JSONL, SQLite, Parquet).")
@@ -58,6 +62,24 @@ def validate(args) -> int:
         return 1
     print("Validação concluída sem erros.")
     return 0
+
+
+def manual_texts(args) -> int:
+    repository = acervo(args)
+    texts = repository.manual_texts()
+    index = repository.index()
+    missing = 0
+    for record_id in sorted(texts):
+        path = index.get(record_id)
+        if path is None:
+            print(f"{record_id}: sem registo no acervo", file=sys.stderr)
+            missing += 1
+            continue
+        record, body = repository.read(path)
+        changed = repository.write(record, body, path)
+        print(f"{'gravado' if changed else 'igual'}: {repository.relative(path)}")
+    print(f"Textos manuais: {len(texts)}; sem registo: {missing}")
+    return 1 if missing else 0
 
 
 def reports(args) -> int:

@@ -4,6 +4,16 @@ Alterações ao formato dos dados, aos comandos e aos ficheiros gerados que poss
 
 O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_document.schema.json) (`schema_version: '1.0'`). Uma alteração incompatível ao esquema muda a versão e fica assinalada aqui como **incompatível**.
 
+## 2026-11-23
+
+### Textos transcritos do PDF oficial (novo)
+- Nalguns registos, o DRE serve o texto de outro diploma. No Decreto-Lei n.º 41561, de 1958, serve o do Decreto-Lei n.º 41560. Nestes casos, o texto certo é transcrito do PDF oficial, conferido à vista e guardado em `reports/textos-manuais/`.
+- A lista, com a prova de cada registo, está em `reports/textos-manuais.jsonl`: PDF, sha256 do PDF, páginas, data da conferência, motivo e sha256 do texto.
+- A recolha e as outras escritas no acervo (`Acervo.write` e `Acervo.save`) gravam sempre o texto transcrito destes registos. Uma nova recolha atualiza os metadados mas não volta a pôr o texto errado.
+- O registo leva uma nota em `notes` que começa por «Texto transcrito do PDF oficial». Perde também a relação `cites` para o diploma cujo texto o DRE servia.
+- `leis-portugal textos-manuais` grava a lista nos registos.
+- Os casos conferidos que não entram ficam em `reports/textos-manuais/conferidos-sem-mudanca.jsonl`, com o motivo. Ou o Diário da República publicou mesmo o mesmo texto duas vezes, ou não há PDF oficial para os provar.
+
 ## 2026-11-20
 
 ### Em vigor por inferência (novo)
