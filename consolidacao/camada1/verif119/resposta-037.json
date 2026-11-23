@@ -1,0 +1,210 @@
+[
+ {
+  "id": "pt:dre:376218:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Aplicadas as redações do art. 19.º do DLR 45/2008/M (b: 40%, n.º 6), do art. 2.º do DLR 22/2011/M (b: 10%, n.os 7 a 9) e do art. 80.º do DLR 1-A/2020/M (alínea c) do n.º 3); texto original no lugar dos [...].",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 48-A/2006/M, art. 1.º: substituição dos mapas II a IX do orçamento",
+    "motivo": "Os mapas novos só vêm em imagem (ligação ao documento original) e o consolidado não tem anexo com título onde os pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:415443:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 do DL 546/76; n.os 4 e 5 da Lei 22/87, com o n.º 5 substituído pela Lei 108/97; n.º 6 aditado pela Lei 108/97.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.os 6 e 7 revogados pelo art. 4.º da Lei 22/87; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º da Lei 22/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Corpo igual ao original; o bloco de assinaturas passa para o fim do diploma, depois do novo art. 9.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo art. 3.º da Lei 22/87, texto fiel.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:430600:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 487/77.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 aditado pelo art. 2.º do DL 487/77; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 aditado pelo art. 2.º do DL 487/77; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Corpo igual ao original; assinaturas passam para o fim do diploma.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo art. 3.º do DL 487/77, texto fiel.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 142/2008, art. 53.º, n.º 1, al. b): revogação do n.º 3 do art. 2.º e dos arts. 3.º a 9.º e 11.º",
+    "motivo": "Efeito adiado para um facto futuro: o n.º 2 do art. 53.º só a faz produzir efeitos com a entrada em vigor dos planos de ordenamento das áreas protegidas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:513984:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 44585; consolidado mantém título e '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44585, art. 4.º: eliminação de um lugar de primeiro-oficial e de um de dactilógrafo no mapa anexo ao DL 43203",
+    "motivo": "O mapa anexo só existe em imagem e não há título de anexo no consolidado onde aplicar a eliminação."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:553889:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DLR 41-A/2012/M, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação (sem 'através do Secretário Regional...'); n.º 2 igual ao original ('...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com alíneas a) e b) novas; n.º 2 igual ao original ('...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo n.º 7 do art. 60.º do DLR 42/2012/M; mantém título e '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 41-A/2012/M, art. 3.º: substituição dos mapas I a VI, VIII e IX",
+    "motivo": "O alterador não reproduz os mapas (só ligação ao documento original) e o consolidado não tem título de anexo."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:580344:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 = antigo artigo único do DL 377/85; n.º 2 aditado pelo DL 105/2005.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Corpo igual ao original; assinaturas passam para o fim do diploma.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo art. 2.º do DL 105/2005, texto fiel.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:601283:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 20/94, art. 1.º: o adicional de 4% estabelecido no DL 21/93 é eliminado para alta e média tensão e baixa tensão acima de 19,8 kVA",
+    "motivo": "Não é textual: elimina o adicional sem revogar nem dar nova redação a artigo concreto do original (nota: o texto do original não está na vista, não confirmei o efeito sobre o art. 2.º)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

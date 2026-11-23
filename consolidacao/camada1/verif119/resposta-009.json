@@ -1,0 +1,129 @@
+[
+ {
+  "id": "pt:dre:390438:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "O DL 48219 art. 1.º substitui a BASE III anexa. O consolidado inseriu a nova Base III no meio do artigo (a seguir a «Este decreto entra imediatamente em vigor.») e deixou a BASE III antiga intacta nas bases anexas.",
+    "texto_esperado": "A nova redação da BASE III («A província obriga-se a inscrever nos orçamentos gerais, como despesa obrigatória, as verbas destinadas à liquidação das anuidades do empréstimo a começar em 1969 e até liquidação final da dívida.») no lugar da BASE III antiga, nas Bases anexas; o resto do artigo igual ao original (sem o parágrafo da Base III inserido a seguir a «Este decreto entra imediatamente em vigor.», e sem o texto antigo «...do empréstimo e dos respectivas encargos a começar em 1968...»)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48219 art. 2.º a 4.º: autorização de contrato adicional, isenção fiscal, entrada em vigor",
+    "motivo": "não textual (normas autónomas, não alteram texto do original)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:412618:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação: alínea e) «Ministério» -> «Ministro da Educação Nacional»; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80 (arts. 10.º a 15.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80 (a nova redação das alíneas f) e g) pelo DL 498-C/79 ficou absorvida pela revogação).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 14.º do DL 102/80; o título de secção «III - Do pessoal» é do original e mantém-se.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 132/75 cria o n.º 3 no art. 17.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação: n.º 1 «no n.º 2 do artigo 17.º deste diploma»; resto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 498-C/79 art. 29.º, n.º 2: referências à Direcção-Geral dos Assuntos Culturais «consideram-se feitas» a outros serviços",
+    "motivo": "não textual: regra de leitura sem nova redação"
+   },
+   {
+    "instrucao": "DL 498-C/79 art. 33.º, n.º 3: revogação de disposições em contrário a partir de diplomas futuros",
+    "motivo": "efeito adiado para facto futuro e revogação condicional"
+   },
+   {
+    "instrucao": "DL 498-C/79 art. 29.º, n.º 3: nova redação das alíneas f) e g) do art. 13.º, n.º 1",
+    "motivo": "aplicada, mas o artigo 13.º foi depois revogado na íntegra pelo DL 102/80 art. 14.º; sem efeito visível, consolidado correto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:422176:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77 (revogação incondicional do artigo 30.º do DL 228/73); epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 42/76, DR 70/77 art. 1.º, Portaria 683/78 n.º 3.º, Portaria 714/79 (mapa IV), DR 49/80 arts. 1.º e 2.º: alterações ao quadro/mapa do art. 20.º",
+    "motivo": "mapa só existe em imagem no original, sem anexo com título onde pôr as alterações; os alteradores não trazem imagem substitutiva"
+   },
+   {
+    "instrucao": "Portaria 42/76 (sem efeito pelo DR 70/77 art. 6.º), DR 70/77 arts. 2.º a 5.º, Portaria 683/78 n.os 1.º a 2.º e 4.º a 6.º, Portaria 714/79 restante, DR 49/80 arts. 3.º a 5.º, DL 425/77 art. 8.º",
+    "motivo": "não textual (provimento, integração de pessoal, efeitos)"
+   },
+   {
+    "instrucao": "Portaria 438/81",
+    "motivo": "outro diploma (rectifica a Portaria 514/80)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,43 @@
+[
+ {
+  "id": "pt:dre:517191:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 34/2015, art. 5.º, al. t) revoga o artigo 4.º do DL 234/2001; consolidado mantém título e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "errado",
+    "motivo": "Epígrafe «Funções do IMT» correta (DL 214-B/2015, art. 3.º, al. a)), mas a Base XXIV ficou com o texto original; foi reescrita pelo DL 44-B/2010 (InIR) e pelo DL 214-B/2015 art. 1.º (IMT).",
+    "texto_esperado": "### CAPÍTULO VII — Funções do IMT\n\nBase XXIV\n\nIMT\n\nSem prejuízo dos poderes cometidos a outras entidades, designadamente à IP e à UTAP, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa."
+   },
+   {
+    "artigo": "CAPÍTULO X",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe do capítulo foi alterada (DL 44-B art. 3.º n.º 1 al. b)); o corpo das bases XLV a LI (e seguintes do capítulo) mantém o texto original, apesar de reescritas pelo DL 44-B/2010 art. 1.º (XLV a LVI) e DL 214-B/2015 art. 1.º (XLV, XLVII a LVI), incl. revogação dos n.os 2 e 3 da base XLVIII e das al. f) e g) do n.º 1 e n.os 3 a 5 da base L, n.os 2, 3 e 7 da base LI (art. 5.º DL 214-B). Ex.: Base XLV n.º 1 deve terminar 'condições de utilização e segurança ... os fins a que se destinam'; Base XLVIII n.os 2 e 3 '[Revogado]'.",
+    "texto_esperado": "Corpo das bases XLV a LVI conforme as redações do DL 44-B/2010 e do DL 214-B/2015 (esta prevalece), com as revogações do art. 5.º do DL 214-B/2015; epígrafe «Manutenção, exploração e conservação da Auto-Estrada»."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 44-B/2010 art. 1.º: nova redação das bases I, II, IV a VII, IX a XIV, XVI, XVII, XIX, XXII a XL, XLII, XLIII (capítulos I a IX, que o consolidado deu como iguais ao original) e XLV a LVI (capítulo X, não aplicada no corpo); alvo conhecido, não é alvo incerto",
+   "DL 44-B/2010 art. 2.º: aditamento das bases XVIII-A e XIX-A (lugar nos capítulos existentes) e das restantes bases (LVII-A a LVII-CC, LXV-A: sem capítulo no consolidado, que só tem capítulos I a X)",
+   "DL 44-B/2010 art. 3.º n.º 1 al. c) e d), n.º 2: epígrafes dos capítulos XVII e XXI e aditamento do capítulo X-A com secções e subsecções (sem esses capítulos no consolidado)",
+   "DL 214-B/2015 art. 1.º: nova redação das bases I, II, V a IX, XIII, XIV, XVI, XVIII, XVIII-A, XIX, XIX-A, XXIV (capítulo VII), XXVII, XXIX a XXXIV, XXXVI a XLI, XLIII (capítulos I a IX) e XLV, XLVII a LVI (capítulo X), e bases posteriores sem capítulo no consolidado",
+   "DL 214-B/2015 art. 2.º: aditamento das bases XXXIV-A (lugar nos capítulos existentes), LXV-B a LXV-E, LXXXVI-A, XCIII-A a XCIII-C",
+   "DL 214-B/2015 art. 3.º al. b) a i): epígrafes de secções do capítulo X-A, bases LVII-V e LVII-Y, capítulo XII e aditamento do capítulo XXII-A (capítulos inexistentes no consolidado)",
+   "DL 214-B/2015 art. 5.º: revogações das al. mmm) e nnn) do n.º 1 da base I, n.º 3 da base XIV, n.os 11 a 14 da base XXXIV (capítulos I a IX, dados como iguais), n.os 2 e 3 da base XLVIII, al. f) e g) do n.º 1 e n.os 3 a 5 da base L, n.os 2, 3 e 7 da base LI, n.º 5 da base LIV (capítulo X), e demais"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44-B/2010 art. 6.º e DL 214-B/2015 art. 6.º: republicação das bases em anexo",
+    "motivo": "o diploma que altera, na vista, não traz o texto do anexo da republicação; não é alteração textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

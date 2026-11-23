@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pt:dre:147408:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Anexo (Regulamento das Sociedades de Despachantes Oficiais e seus Empregados): o DL 445/99, art. 6.º, n.º 2, revoga o art. 9.º do DL 513-F1/79, que é o artigo que aprova o Regulamento. O preâmbulo do DL 445/99 diz expressamente que se trata da «revogação do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados». O consolidado marca só o art. 9.º como «(Revogado.)» e mantém em vigor o texto dos arts. 1.º a 12.º do anexo. Juridicamente, o Regulamento caiu com o art. 9.º. Não consigo decidir se a convenção do projeto obriga a marcar o anexo como revogado (cada artigo, ou o anexo inteiro, como «(Revogado.)») ou se isso é matéria de vigência. Fora isto, o texto está certo: a retificação do art. 6.º, 1) (434.º), as revogações dos arts. 1.º, 2.º e 4.º, dos n.os 1 e 8 do art. 1.º e do art. 8.º do Regulamento, a nova redação do art. 2.º e do art. 11.º e o aditamento do art. 12.º. Não ficou texto antigo depois da nova redação."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogados os arts. 1.º, 2.º e 4.º (DL 280/92, art. 4.º, n.º 2) e o art. 9.º, com o Regulamento anexo (DL 445/99, art. 6.º, n.º 2, e o preâmbulo). Os arts. 3.º e 5.º a 8.º e 10.º são normas de revogação, de alteração da Reforma Aduaneira ou transitórias."
+  }
+ },
+ {
+  "id": "pt:dre:163048:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:397495:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Arts. 1.º a 13.º e 15.º a 18.º do decreto-lei (revogados pelo DL 406/90, art. 8.º, n.º 1): o consolidado escreve «1.º - (Revogado.)», «2.º - (Revogado.)» … «18.º - (Revogado.)» e perde a designação do artigo. Deve ficar «Artigo 1.º - (Revogado.)», «Art. 2.º - (Revogado.)» … «Art. 18.º - (Revogado.)», como no original e como está no «Art. 14.º». A revogação com exceção («com excepção do disposto no artigo 14.º») está bem aplicada: o art. 14.º e os estatutos anexos (mantidos pelo n.º 2 do art. 8.º) ficam intactos, e os anexos I e II passam a «(Revogado.)». As retificações aplicáveis (preâmbulo, art. 15.º, n.º 5, e art. 18.º, n.º 1, alínea b), dos estatutos) estão aplicadas."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 406/90, art. 8.º: revogado, com exceção do art. 14.º; os estatutos do IPE continuam em vigor até à sua alteração (n.º 2)."
+  }
+ },
+ {
+  "id": "pt:dre:374255:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:580344:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

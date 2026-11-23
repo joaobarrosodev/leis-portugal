@@ -1,0 +1,144 @@
+[
+ {
+  "id": "pt:dre:140346:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 156/2014 art. 2.º dá nova redação ao art. 1.º (substitui as de 430/82 e 267/86); consolidado igual letra a letra, incluindo «das florestal»."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas f) (DL 174/80), g) (DL 251/80), h) (DL 430/82) e i) (DL 156/2014) acrescentadas; n.os 2 e 3 e alíneas a) a e) mantidos ([...])."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 267/86 art. 2.º: revogadas as disposições do DL 82/77 e do DL 430/82 que contrariem o diploma",
+    "motivo": "revogação condicional («que contrariem»)"
+   },
+   {
+    "instrucao": "DL 156/2014 art. 3.º: referências a «Ministério da Agricultura e Pescas», «Ministro da Agricultura e Pescas» e «Ministro da Agricultura, Comércio e Pescas» consideram-se feitas a «Ministério da Agricultura e do Mar» e a «membro do Governo responsável…»",
+    "motivo": "mudança de designação sem nova redação (norma de remissão, não reescreve o texto)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:176529:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/2006 art. 12.º revoga expressamente a alínea b) do n.º 1 e o n.º 3 do art. 2.º; consolidado tem «b) (Revogada.)» e «3 - (Revogado.)»; restante igual."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 143/2006 art. 12.º revoga expressamente o art. 7.º; consolidado mantém epígrafe e «(Revogado.)»."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 143/2006 art. 12.º: revogação do DL 6/2003 «na parte em que prevê a realização de um segundo segmento da 2.ª fase», além das disposições designadas",
+    "motivo": "revogação condicional (a parte genérica); as disposições designadas foram aplicadas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:197491:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Lei 3-B/2010 art. 16.º; DL 29-A/2011 art. 84.º dá nova redação ao n.º 1 (epígrafe e n.º 2 mantidos); DL 105/2013 art. 6.º n.º 1 revoga o n.º 2. Consolidado igual (incluindo «3-B/20010», erro do alterador)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 64-B/2011 art. 189.º; DL 105/2013 arts. 2.º a 5.º e 6.º n.º 2; Lei 30/2014 arts. 2.º a 4.º; DL 81/2015 arts. 2.º a 7.º",
+    "motivo": "instruções de outros diplomas (DL 118/83, DL 158/2005, DL 167/2005, DL 36/2013); a Lei 53-D/2006 só é citada"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:279227:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/70 art. 1.º dá nova redação ao corpo do art. 1.º; §§ 1.º e 2.º mantidos."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 47724 art. 1.º substitui as condições 2.ª dos n.os 1) a 4) da alínea B) da secção I); consolidado coincide (com as subalíneas a)/b) e a 3.ª condição do n.º 2 mantida)."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/70 art. 1.º substitui o corpo do art. 8.º e o § 1.º; § 2.º mantido."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/70 art. 1.º dá nova redação ao art. 11.º; consolidado igual."
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "errado",
+    "motivo": "O art. 20.º foi aditado pelo DL 43246, cujo único conteúdo é esse aditamento; o DL 47724 art. 2.º revoga o DL 43246 (e o seu preâmbulo integra no art. 6.º as habilitações do DL 43246). O art. 20.º devia ficar revogado; o consolidado mantém o texto.",
+    "texto_esperado": "###### Artigo 20.º\n\n(Revogado.)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 47724 art. 2.º: «É revogado o Decreto-Lei n.º 43246» (que aditou o art. 20.º); sem efeito no consolidado, o art. 20.º continua com texto. O alvo é conhecido (o único artigo aditado por esse decreto-lei), não é alvo incerto."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 31/70 art. único: extintos os conselhos administrativos (incl. da Escola Náutica, art. 11.º)",
+    "motivo": "não textual (extinção sem nova redação); o art. 11.º recebe depois nova redação do DL 157/70, aplicada"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:296230:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 47429 substitui o n.º 3; DL 239/71 art. 3.º n.º 1 dá nova redação ao n.º 1 (corpo e alínea d)) e adita o n.º 4, mantendo as alíneas a) a c) e os n.os 2 e 3; consolidado igual."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 239/71 art. 3.º n.º 2 adita a alínea d) ao n.º 1; restante igual ao original."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 417/99 art. 5.º: revogadas as disposições em contrário constantes do DL 46377",
+    "motivo": "revogação condicional (não indica disposições concretas)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -379,8 +379,8 @@ def _segunda_e_nada() -> dict[str, list[str]]:
     for f in sorted(CAMADA1.glob("nada*/resposta-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             por.setdefault(d["id"], []).extend(f"Instrução que não se vê aplicada: {i}" for i in d.get("instrucoes_em_falta") or [])
-    if ESTADO.exists():
-        for e in _jsonl(ESTADO):
+    for f in sorted((PASTA / "auditoria").glob("camada1-estado*.jsonl")):
+        for e in _jsonl(f):
             if e.get("estado") == "recusado_na_verificacao_mecanica":
                 por.setdefault(e["id"], []).append(
                     "Uma verificação mecânica viu o texto antigo a seguir à nova redação ou a «(Revogado.)». Devolve cada um destes "
@@ -862,6 +862,7 @@ def entrada_nada() -> int:
 
 
 ESTADO = PASTA / "auditoria" / "camada1-estado.jsonl"
+ONDA = 1
 BLOQUEADOS = {  # alteradores sem texto no acervo que, pelo sumário ou rótulo, dão nova redação a artigos
     "pt:dre:466238:por": "DL 35108: os DL 35590, 36095, 36430, 41105, 41321, 41401, 41723 e 42210 dão nova redação a artigos e só há PDF no acervo",
     "pt:dre:328440:por": "o alterador «Alterados os artºs 20º, 21º, 23º, 28º, 29º…» só tem metadados no acervo",
@@ -887,7 +888,7 @@ def _resumo_cegas(linhas: list[dict]) -> str:
 
 def estado() -> int:
     """`auditoria/camada1-estado.jsonl`: o estado final de cada diploma da onda 1, com o motivo e a prova."""
-    itens = _jsonl(CAMADA1 / "onda-1.jsonl")
+    itens = _jsonl(CAMADA1 / f"onda-{ONDA}.jsonl")
     triagem = {d["id"]: d for d in _jsonl(CAMADA1 / "triagem.jsonl")}
     juntados = {}
     for nome in ("juntados-completo.jsonl", "juntados-corrido.jsonl"):
@@ -1078,8 +1079,11 @@ def main() -> int:
     parser.add_argument("--so-extra", action="store_true", help="pedidos: só os de --ids-extra")
     parser.add_argument("--ids-extra", type=Path, help="pedidos: mais estes ids (um por linha), p. ex. os que a triagem às cegas mandou para o LLM")
     args = parser.parse_args()
-    global RONDA  # noqa: PLW0603
+    global RONDA, ONDA, ESTADO  # noqa: PLW0603
     RONDA = args.ronda
+    ONDA = args.n
+    if ONDA != 1:  # a onda 1 fica em camada1-estado.jsonl; as seguintes têm o seu ficheiro
+        ESTADO = PASTA / "auditoria" / f"camada1-estado-onda-{ONDA}.jsonl"
     CAMADA1.mkdir(exist_ok=True)
     ficheiro = CAMADA1 / f"onda-{args.n}.jsonl"
     if args.passo == "onda":
