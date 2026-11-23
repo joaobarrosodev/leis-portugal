@@ -64,7 +64,6 @@ version_history:
     amending_title: Decreto-Lei n.º 157/2026
     changes:
     - Altera Artigo 3.º
-    - Altera Artigo 4.º
     - Altera Artigo 7.º
     - Altera Artigo 8.º
     - Altera Artigo 14.º
@@ -89,18 +88,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2020/p/cons/20260803/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-148214604
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-148214604
-  retrieved_at: '2026-10-22T13:48:09Z'
+  retrieved_at: '2026-11-23T15:15:40Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-08-11T00:00:00Z'
 integrity:
-  source_sha256: 84191d8b092629d5a8781bfc8ad0d5b28e0bf196b330257e3488b4c7b42c9329
+  source_sha256: 572a43d702f2fd05c24df01aa8005472d62e29f241ce043338891278cb768eea
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:48:09Z'
+  generated_at: '2026-11-23T15:15:40Z'
   notes: 3 versão(ões); histórico completo em decreto-lei-67-2020.versoes.json.
 reuse:
   status: permitted
@@ -234,7 +233,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:48:09Z'
+  checked_at: '2026-11-23T15:15:40Z'
   warnings: []
   errors: []
 ---
@@ -327,6 +326,8 @@ Para efeitos do presente decreto-lei são adotadas as definições pertinentes c
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 157/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2026-1153918006), em vigor a partir de 2026-08-04.
 
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595).
+
 ###### Artigo 5.º — Laboratórios nacionais de referência e laboratórios oficiais
 
 1 - A DGAV designa os laboratórios nacionais de referência, no domínio das medidas de proteção contra pragas de vegetais, nos termos do artigo 100.º do Regulamento (UE) n.º 2017/625, para cada laboratório de referência da União Europeia designado nos termos do n.º 1 do artigo 93.º do mesmo Regulamento, no mesmo domínio.
@@ -392,6 +393,8 @@ Para efeitos do presente decreto-lei são adotadas as definições pertinentes c
 7 - As medidas previstas no número anterior são notificadas aos operadores profissionais pela autoridade competente.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 157/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2026-1153918006), em vigor a partir de 2026-08-04.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595).
 
 ###### Artigo 9.º — Deveres gerais de pessoas que não sejam operadores profissionais
 

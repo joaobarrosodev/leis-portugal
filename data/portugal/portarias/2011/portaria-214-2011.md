@@ -67,7 +67,7 @@ source:
   metadata_url: https://data.dre.pt/eli/port/214/2011/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964380225
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964380225
-  retrieved_at: '2026-10-22T13:55:23Z'
+  retrieved_at: '2026-11-23T15:36:06Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-09-16T00:00:00Z'
@@ -78,7 +78,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:55:23Z'
+  generated_at: '2026-11-23T15:36:06Z'
   notes: 1 versão(ões); histórico completo em portaria-214-2011.versoes.json.
 reuse:
   status: permitted
@@ -130,7 +130,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:55:23Z'
+  checked_at: '2026-11-23T15:36:06Z'
   warnings: []
   errors: []
 ---

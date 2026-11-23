@@ -683,7 +683,7 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47344/1966/p/cons/20260623/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1966-34509075
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1966-34509075
-  retrieved_at: '2026-10-22T11:48:10Z'
+  retrieved_at: '2026-11-20T15:49:15Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
@@ -694,7 +694,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:48:10Z'
+  generated_at: '2026-11-20T15:49:15Z'
   notes: 55 versão(ões); histórico completo em decreto-lei-47344.versoes.json.
 reuse:
   status: permitted
@@ -1183,7 +1183,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:48:10Z'
+  checked_at: '2026-11-20T15:49:15Z'
   warnings: []
   errors: []
 ---
@@ -11581,6 +11581,10 @@ d) Praticar quaisquer actos ou actividades que tenham sido proibidos no título 
 3 - As obras que modifiquem a linha arquitectónica ou o arranjo estético do edifício podem ser realizadas se para tal se obtiver prévia autorização da assembleia de condóminos, aprovada por maioria representativa de dois terços do valor total do prédio.
 
 4 - Sempre que o título constitutivo não disponha sobre o fim de cada fração autónoma, a alteração ao seu uso carece da autorização da assembleia de condóminos, aprovada por maioria representativa de dois terços do valor total do prédio, com exceção do previsto no artigo 1422.º-B.
+
+> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 267/94 - Diário da República n.º 247/1994, Série I-A de 1994-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1994-624626), em vigor a partir de 1995-01-01
 
 ###### Artigo 1422.º-A — Junção e divisão de fracções autónomas
 

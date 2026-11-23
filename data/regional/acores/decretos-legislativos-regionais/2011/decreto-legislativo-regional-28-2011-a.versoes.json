@@ -6,6 +6,42 @@
  "source_lastmod": "2026-09-30",
  "versions": [
   {
+   "date": "2011-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75023977",
+    "1173503475",
+    "1175289475",
+    "1175289775",
+    "1173492775",
+    "1173492975",
+    "1173503775",
+    "1173510675",
+    "1173528775",
+    "1173494075",
+    "1175290075",
+    "1175290375",
+    "1173529375",
+    "1175281975",
+    "1175282275",
+    "1175282575",
+    "1175282875",
+    "1175283175",
+    "1173562375",
+    "1173562675",
+    "1175283475",
+    "1175283775",
+    "1173494775",
+    "1175292975",
+    "1175293275",
+    "1175293675",
+    "1173532475",
+    "1173533175"
+   ]
+  },
+  {
    "date": "2016-07-20",
    "future": false,
    "acts": [
@@ -110,8 +146,6 @@
     "Adita Artigo 23.º",
     "Adita Artigo 24.º",
     "Adita Artigo 25.º",
-    "Adita Artigo 39.º",
-    "Adita Artigo 40.º",
     "Adita Artigo 31.º",
     "Adita Artigo 32.º",
     "Adita Artigo 33.º",
@@ -120,6 +154,8 @@
     "Adita Artigo 36.º",
     "Adita Artigo 37.º",
     "Adita Artigo 38.º",
+    "Adita Artigo 39.º",
+    "Adita Artigo 40.º",
     "Adita Artigo 45.º",
     "Adita Artigo 46.º",
     "Adita Artigo 47.º",
@@ -284,9 +320,6 @@
     "1176147575",
     "1176147675",
     "1176144675",
-    "1175281975",
-    "1176153675",
-    "1176153475",
     "1175288675",
     "1176151075",
     "1176150175",
@@ -299,6 +332,9 @@
     "1176153075",
     "1176152675",
     "1175288875",
+    "1175281975",
+    "1176153675",
+    "1176153475",
     "1175282275",
     "1176179075",
     "1176179175",
@@ -420,6 +456,214 @@
    "changed_by": [],
    "markdown": "### Capítulo I — Disposições gerais"
   },
+  "1175289475": {
+   "fragment_id": "1175289375",
+   "type": 8,
+   "heading": "Secção I — Rede de áreas marinhas protegidas dos Açores",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção I — Rede de áreas marinhas protegidas dos Açores"
+  },
+  "1175289775": {
+   "fragment_id": "1175289675",
+   "type": 8,
+   "heading": "Secção II — Pressupostos, princípios, objetivos de gestão e objetivos de conservação da RAMPA",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção II — Pressupostos, princípios, objetivos de gestão e objetivos de conservação da RAMPA"
+  },
+  "1173492775": {
+   "fragment_id": "1173492675",
+   "type": 1,
+   "heading": "Capítulo II — Áreas marinhas protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Áreas marinhas protegidas"
+  },
+  "1173492975": {
+   "fragment_id": "1173492875",
+   "type": 8,
+   "heading": "Secção I — Fundamentos para a classificação, categorias e objectivos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Fundamentos para a classificação, categorias e objectivos de gestão"
+  },
+  "1173503775": {
+   "fragment_id": "1173503675",
+   "type": 8,
+   "heading": "Secção II — Reserva natural marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Reserva natural marinha"
+  },
+  "1173510675": {
+   "fragment_id": "1173510575",
+   "type": 8,
+   "heading": "Secção III — Áreas marinhas protegidas para a gestão de habitats ou espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Áreas marinhas protegidas para a gestão de habitats ou espécies"
+  },
+  "1173528775": {
+   "fragment_id": "1173528675",
+   "type": 8,
+   "heading": "Secção IV — Área protegida para gestão de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Área protegida para gestão de recursos"
+  },
+  "1173494075": {
+   "fragment_id": "1173493975",
+   "type": 1,
+   "heading": "Capítulo III — Áreas marinhas protegidas situadas fora da zona económica exclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Áreas marinhas protegidas situadas fora da zona económica exclusiva"
+  },
+  "1175290075": {
+   "fragment_id": "1175289975",
+   "type": 8,
+   "heading": "Secção I — Áreas marinhas protegidas costeiras existentes",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção I — Áreas marinhas protegidas costeiras existentes"
+  },
+  "1175290375": {
+   "fragment_id": "1175290275",
+   "type": 8,
+   "heading": "Secção II — Novas áreas marinhas protegidas costeiras",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção II — Novas áreas marinhas protegidas costeiras"
+  },
+  "1173529375": {
+   "fragment_id": "1173529275",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão do Parque Marinho dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão do Parque Marinho dos Açores"
+  },
+  "1175281975": {
+   "fragment_id": "1175281875",
+   "type": 8,
+   "heading": "Secção I — Disposições Gerais",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições Gerais"
+  },
+  "1175282275": {
+   "fragment_id": "1175282175",
+   "type": 8,
+   "heading": "Secção II — Reserva natural marinha",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção II — Reserva natural marinha"
+  },
+  "1175282575": {
+   "fragment_id": "1175282475",
+   "type": 8,
+   "heading": "Secção III — Área marinha protegida para gestão de habitats ou espécies",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção III — Área marinha protegida para gestão de habitats ou espécies"
+  },
+  "1175282875": {
+   "fragment_id": "1175282775",
+   "type": 8,
+   "heading": "Secção IV — Áreas marinhas protegidas para a gestão de recursos",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção IV — Áreas marinhas protegidas para a gestão de recursos"
+  },
+  "1175283175": {
+   "fragment_id": "1175283075",
+   "type": 8,
+   "heading": "Secção V — Áreas marinhas protegidas oceânicas situadas na plataforma continental além do limite exterior da ZEE, adjacente ao arquipélago dos Açores",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção V — Áreas marinhas protegidas oceânicas situadas na plataforma continental além do limite exterior da ZEE, adjacente ao arquipélago dos Açores"
+  },
+  "1173562375": {
+   "fragment_id": "1173562275",
+   "type": 11,
+   "heading": "Artigo 25.º-A — Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º-A — Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa\n\n1 - A Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa, referida na alínea e) do n.º 1 do artigo 21.º é classificada com os fundamentos constantes no n.º 1 do artigo 5.º, conforme ficha descritiva constante do anexo iii.\n\n2 - Os limites territoriais da Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa estão representados no anexo ii pela sigla PMA12."
+  },
+  "1173562675": {
+   "fragment_id": "1173562575",
+   "type": 11,
+   "heading": "Artigo 25.º-B — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º-B — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa\n\n1 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa, referida na alínea f) do n.º 1 do artigo 21.º é classificada com os fundamentos constantes no n.º 1 do artigo 5.º conforme ficha descritiva constante do anexo iii.\n\n2 - Os limites territoriais da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa, estão representados no anexo ii pela sigla PMA13."
+  },
+  "1175283475": {
+   "fragment_id": "1175283375",
+   "type": 8,
+   "heading": "Secção VI — Usos e atividades proibidos nas áreas marinhas protegidas oceânicas",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção VI — Usos e atividades proibidos nas áreas marinhas protegidas oceânicas"
+  },
+  "1175283775": {
+   "fragment_id": "1175283675",
+   "type": 8,
+   "heading": "Secção VII — Usos e atividades condicionados nas áreas marinhas protegidas oceânicas",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção VII — Usos e atividades condicionados nas áreas marinhas protegidas oceânicas"
+  },
+  "1173494775": {
+   "fragment_id": "1173494675",
+   "type": 1,
+   "heading": "Capítulo V — Instrumentos de gestão do Parque Marinho dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Instrumentos de gestão do Parque Marinho dos Açores"
+  },
+  "1175292975": {
+   "fragment_id": "1175292875",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "1175293275": {
+   "fragment_id": "1175293175",
+   "type": 8,
+   "heading": "Secção II — Estratégia de gestão da RAMPA",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção II — Estratégia de gestão da RAMPA"
+  },
+  "1175293675": {
+   "fragment_id": "1175293575",
+   "type": 8,
+   "heading": "Secção III — Instrumentos de ordenamento e gestão da área marinha protegida",
+   "in_force_from": "2025-09-30",
+   "changed_by": [],
+   "markdown": "#### Secção III — Instrumentos de ordenamento e gestão da área marinha protegida"
+  },
+  "1173532475": {
+   "fragment_id": "1173532375",
+   "type": 14,
+   "heading": "Anexo I — Identificação e limites das áreas marinhas protegidas incluídas no Parque Marinho dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Identificação e limites das áreas marinhas protegidas incluídas no Parque Marinho dos Açores"
+  },
+  "1173533175": {
+   "fragment_id": "1173533075",
+   "type": 14,
+   "heading": "Anexo II — Carta simplificada das áreas marinhas protegidas incluídas no Parque Marinho dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Carta simplificada das áreas marinhas protegidas incluídas no Parque Marinho dos Açores\n\n(ver documento original)"
+  },
   "1173497475": {
    "fragment_id": "1173497375",
    "type": 11,
@@ -451,22 +695,6 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 4.º — Actos e actividades interditos\n\n1 - No Parque Marinho dos Açores constituem actos e actividades interditos todos os que sejam tipificados como tal na legislação regional, nacional e comunitária, bem como em convenções ou acordos internacionais que vinculem a Região ou o Estado Português.\n\n2 - Fica, ainda, interdita a introdução de espécies exóticas ou geneticamente modificadas em qualquer área do Parque Marinho dos Açores.\n\n3 - No Parque Marinho dos Açores é interdita a realização de actividades de investigação científica e de bioprospecção que não respeitem o estabelecido no Código de Conduta para a Investigação Científica no Mar Profundo e no Alto Mar na Área Marítima da OSPAR (OSPAR Code of Conduct for Responsible Marine Research in the Deep Seas and High Seas of the OSPAR Maritime Area), aprovado pela Comissão OSPAR (OSPAR 08/24/1, anexo n.º 6) e suas alterações.\n\n4 - No Parque Marinho dos Açores constituem, em termos gerais, actos e actividades condicionados e sujeitos a parecer prévio vinculativo ou a autorização do serviço com competência em matéria de ambiente a extracção de quaisquer recursos biológicos e minerais marinhos não sujeitos a regulamentação específica, sem prejuízo das demais normas regulamentares definidas pelo presente diploma e restante legislação aplicável."
-  },
-  "1173492775": {
-   "fragment_id": "1173492675",
-   "type": 1,
-   "heading": "Capítulo II — Áreas marinhas protegidas",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo II — Áreas marinhas protegidas"
-  },
-  "1173492975": {
-   "fragment_id": "1173492875",
-   "type": 8,
-   "heading": "Secção I — Fundamentos para a classificação, categorias e objectivos de gestão",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "#### Secção I — Fundamentos para a classificação, categorias e objectivos de gestão"
   },
   "1173498275": {
    "fragment_id": "1173498175",
@@ -516,14 +744,6 @@
    "changed_by": [],
    "markdown": "###### Artigo 10.º — Limites das áreas marinhas protegidas\n\n1 - Os limites das áreas que integram o Parque Marinho dos Açores estão descritos e fixados no anexo i e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.\n\n2 - Todas as dúvidas de interpretação suscitadas pela leitura da carta simplificada a que se refere o anexo ii podem ser esclarecidas pela consulta do departamento da administração regional autónoma com competência em matéria de assuntos do mar ou no portal na Internet do Governo Regional dos Açores.\n\n3 - O departamento da administração regional autónoma com competência nos assuntos do mar mantém actualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii."
   },
-  "1173503775": {
-   "fragment_id": "1173503675",
-   "type": 8,
-   "heading": "Secção II — Reserva natural marinha",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "#### Secção II — Reserva natural marinha"
-  },
   "1173499475": {
    "fragment_id": "1173499375",
    "type": 11,
@@ -564,14 +784,6 @@
    "changed_by": [],
    "markdown": "###### Artigo 15.º — Reserva Natural Marinha do Monte Submarino Sedlo\n\n1 - Constituem fundamentos específicos para a classificação da Reserva Natural Marinha do Monte Submarino Sedlo as características únicas dos seus habitats, a sua produtividade e a importância da área para espécies, habitats e ecossistemas protegidos.\n\n2 - A Reserva Natural Marinha do Monte Submarino Sedlo referida na alínea d) do artigo 11.º é classificada em função dos objectivos de gestão referidos no n.º 1 do artigo 9.º e dos seguintes objectivos específicos:\n\na) Proteger a biodiversidade do Monte Submarino Sedlo e águas circundantes para as espécies residentes e ocasionais, bem como para as comunidades associadas ao ecossistema;\n\nb) Promover a exploração sustentável das espécies e evitar a perturbação dos processos naturais que alicerçam a estrutura e função do ecossistema;\n\nc) Salvaguardar o potencial para as espécies que utilizam o Monte Submarino Sedlo para a reprodução ou alimentação;\n\nd) Aumentar o conhecimento científico relacionado com os processos que regulam o funcionamento de montes submarinos;\n\ne) Aumentar o interesse do público para a conservação de áreas offshore e dos ecossistemas oceânicos associados.\n\n3 - Sem prejuízo do disposto no n.º 4, na Reserva Natural do Monte Submarino Sedlo, a partir dos 200 m de profundidade e fundos subjacentes, ficam interditos os actos e actividades seguintes:\n\na) Todas as actividades de pesca, com excepção da pesca dirigida a espécies epipelágicas migratórias;\n\nb) As dragagens e a extracção de substratos dos fundos marinhos;\n\nc) A utilização de quaisquer substâncias tóxicas ou poluentes, ou de explosivos que possam causar dano ou perturbação das espécies em presença;\n\nd) A instalação de cabos submarinos de comunicações e de transmissão de energia e condutas de gás, hidrocarbonetos ou outros;\n\ne) A deposição de quaisquer materiais com impacte na paisagem submarina e funcionamento do ecossistema;\n\nf) A exploração de recursos que envolva técnicas invasivas do fundo marinho e ecossistemas associados, incluindo a exploração mineral, de recursos energéticos, geotérmica e biotecnológica;\n\ng) A realização de quaisquer actividades que perturbem o equilíbrio natural, nomeadamente a introdução de ruído no meio aéreo ou subaquático que possa causar perturbação nas populações de aves marinhas ou cetáceos, incluindo o uso de sonares navais activos de alta intensidade, de qualquer frequência, e a utilização de canhões de ar e tecnologias similares para investigação sísmica ou hidrográfica.\n\n4 - Na Reserva Natural Marinha do Monte Submarino Sedlo, e sem prejuízo das atribuições dos serviços competentes em razão da matéria, ficam condicionados e sujeitos a parecer prévio vinculativo do director do Parque Marinho dos Açores os actos e actividades seguintes:\n\na) A investigação científica e monitorização ambiental, incluindo a captura de espécimes;\n\nb) A recolha de amostras biológicas e geológicas;\n\nc) A visitação e as actividades de turismo de natureza;\n\nd) Filmagens para fins comerciais ou publicitários;\n\ne) A prospecção de recursos que envolvam técnicas invasivas que possam colocar em risco os fundos marinhos e os ecossistemas associados;\n\nf) A ancoragem e a instalação de quaisquer equipamentos que tenham contacto directo com os fundos marinhos.\n\n5 - Para garantir os objectivos de gestão mencionados na alínea b) do n.º 2, por portaria conjunta dos membros do Governo Regional com competência em matéria de ambiente, assuntos do mar e pescas, podem ser definidas zonas de protecção integral ou outras normas organizativas dentro da Reserva Natural Marinha do Monte Submarino Sedlo, podendo incidir sobre os fundos submarinos ou sobre parte ou toda a coluna de água sobrejacente.\n\n6 - A Reserva Natural Marinha do Monte Submarino Sedlo integra no seu âmbito os objectivos inerentes à classificação como Área Marinha Protegida da Convenção OSPAR Monte Submarino Sedlo (O-PT-020008).\n\n7 - Os limites territoriais da Reserva Natural Marinha do Monte Submarino Sedlo estão representados no anexo ii pela sigla PMA05."
   },
-  "1173510675": {
-   "fragment_id": "1173510575",
-   "type": 8,
-   "heading": "Secção III — Áreas marinhas protegidas para a gestão de habitats ou espécies",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "#### Secção III — Áreas marinhas protegidas para a gestão de habitats ou espécies"
-  },
   "1173558375": {
    "fragment_id": "1173500375",
    "type": 11,
@@ -599,14 +811,6 @@
     "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
    ],
    "markdown": "###### Artigo 18.º-A — Área Marinha Protegida do Banco Princesa Alice\n\n1 - A Área Marinha Protegida do Banco Princesa Alice, referida na alínea c) do artigo 16.º, é classificada em função dos objetivos de gestão referidos no n.º 2 do artigo 9.º, conforme ficha descritiva constante do anexo iii ao presente diploma, que dele faz parte integrante.\n\n2 - Constitui fundamento específico para a classificação da Área Marinha Protegida do Banco Princesa Alice a sua importância por representar um habitat tipicamente pelágico, onde várias espécies são agregadas, para além dessa área conter elementos típicos dos ecossistemas costeiros, apesar de se localizar a uma grande distância da zona costeira mais próxima.\n\n3 - Na Área Marinha Protegida do Banco Princesa Alice ficam condicionados e sujeitos a parecer do serviço com competência em matéria de assuntos do mar os atos e atividades seguintes:\n\na) A utilização de quaisquer substâncias tóxicas ou poluentes, ou de explosivos que possam causar danos ou perturbar as espécies em presença, nomeadamente a avifauna;\n\nb) A introdução de ruído no meio aéreo ou subaquático que possa causar perturbação nas populações de aves marinhas ou cetáceos;\n\nc) A realização de quaisquer atividades suscetíveis de perturbar o equilíbrio ecológico das espécies em presença.\n\n4 - Os limites territoriais da área marinha protegida para a gestão de habitats ou espécies do cume do Banco Princesa Alice estão representados no anexo ii pela sigla PMA15.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
-  },
-  "1173528775": {
-   "fragment_id": "1173528675",
-   "type": 8,
-   "heading": "Secção IV — Área protegida para gestão de recursos",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "#### Secção IV — Área protegida para gestão de recursos"
   },
   "1173558575": {
    "fragment_id": "1173500975",
@@ -656,14 +860,6 @@
    ],
    "markdown": "###### Artigo 20.º-C — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, incluída na Zona Económica Exclusiva (ZEE) portuguesa\n\n1 - Constituem fundamentos específicos para a classificação da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, incluída na Zona Económica Exclusiva (ZEE) portuguesa, os valores naturais em presença e a importância para as espécies, habitats e ecossistemas, assim como o interesse da área para o conhecimento dos mares e para a exploração dos recursos existentes de forma sustentável.\n\n2 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, incluída na Zona Económica Exclusiva (ZEE) portuguesa, referida na alínea d) do n.º 1 do artigo 19.º, é classificada, conforme ficha descritiva constante do anexo iii, em função dos objetivos de gestão referidos no n.º 3 do artigo 9.º e também:\n\na) Proteger e conservar áreas representativas da diversidade de espécies, habitats, processos ecológicos da área e recursos haliêuticos;\n\nb) Promover a exploração sustentável das espécies e evitar a perturbação excessiva dos processos naturais que alicerçam a estrutura e função do ecossistema;\n\nc) Promover a consciencialização ambiental, nomeadamente sobre as espécies, habitats presentes e recursos existentes.\n\n3 - Na Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, incluída na Zona Económica Exclusiva (ZEE) portuguesa, ficam condicionadas e sujeitas a parecer prévio do serviço com competência em matéria de assuntos do mar os atos e atividades seguintes:\n\na) As ações de conservação da natureza e da biodiversidade e de salvaguarda dos valores naturais;\n\nb) A recolha de amostras geológicas;\n\nc) A investigação científica e monitorização ambiental;\n\nd) A instalação de cabos submarinos de comunicações e de transmissão de energia, condutas de gás, hidrocarbonetos ou outros;\n\ne) A introdução de ruído no meio aéreo ou subaquático que possa causar perturbação nas populações de cetáceos, nomeadamente a utilização de sonares navais ativos de alta intensidade, de qualquer frequência, e a utilização de canhões de ar para investigação sísmica ou hidrográfica;\n\nf) A utilização de quaisquer substâncias tóxicas ou poluentes, ou de explosivos que possam causar dano ou perturbação às espécies em presença;\n\ng) Atividades de prospeção de recursos.\n\n4 - Os limites territoriais da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, incluída na Zona Económica Exclusiva (ZEE) portuguesa, estão representados no anexo ii, pela sigla PMA13.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
   },
-  "1173494075": {
-   "fragment_id": "1173493975",
-   "type": 1,
-   "heading": "Capítulo III — Áreas marinhas protegidas situadas fora da zona económica exclusiva",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo III — Áreas marinhas protegidas situadas fora da zona económica exclusiva"
-  },
   "1173558775": {
    "fragment_id": "1173501375",
    "type": 11,
@@ -690,26 +886,6 @@
    "changed_by": [],
    "markdown": "###### Artigo 23.º — Área Marinha Protegida do Monte Submarino Altair\n\n1 - A Área Marinha Protegida do Monte Submarino Altair, referida na alínea b) do n.º 1 do artigo 21.º, foi classificada com os fundamentos específicos constantes da Decisão OSPAR 2010/3, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 38), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/14, sobre a gestão da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 39), adoptadas pelas Partes da Convenção OSPAR reunidas em Bergen em Setembro de 2010.\n\n2 - Os limites territoriais da Área Marinha Protegida do Monte Submarino Altair, conforme fixados pela Decisão OSPAR 2010/3, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 38), estão representados no anexo ii pela sigla PMA08."
   },
-  "1173562375": {
-   "fragment_id": "1173562275",
-   "type": 11,
-   "heading": "Artigo 25.º-A — Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa",
-   "in_force_from": "2016-07-20",
-   "changed_by": [
-    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
-   ],
-   "markdown": "###### Artigo 25.º-A — Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa\n\n1 - A Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa, referida na alínea e) do n.º 1 do artigo 21.º é classificada com os fundamentos constantes no n.º 1 do artigo 5.º, conforme ficha descritiva constante do anexo iii.\n\n2 - Os limites territoriais da Área Marinha Protegida do Arquipélago Submarino do Meteor localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa estão representados no anexo ii pela sigla PMA12.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
-  },
-  "1173562675": {
-   "fragment_id": "1173562575",
-   "type": 11,
-   "heading": "Artigo 25.º-B — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa",
-   "in_force_from": "2016-07-20",
-   "changed_by": [
-    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
-   ],
-   "markdown": "###### Artigo 25.º-B — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa\n\n1 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa, referida na alínea f) do n.º 1 do artigo 21.º é classificada com os fundamentos constantes no n.º 1 do artigo 5.º conforme ficha descritiva constante do anexo iii.\n\n2 - Os limites territoriais da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa, estão representados no anexo ii pela sigla PMA13.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
-  },
   "1173502075": {
    "fragment_id": "1173501975",
    "type": 11,
@@ -725,14 +901,6 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 25.º — Área Marinha Protegida do MARNA\n\n1 - A Área Marinha Protegida do MARNA, referida na alínea d) do n.º 1 do artigo 21.º, foi classificada com os fundamentos específicos constantes da Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (Mid-Atlantic Ridge North of the Azores High Seas Marine Protected Area - Decisão OSPAR 10/23/1-E, anexo n.º 44), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/17, sobre a gestão da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 45), adoptadas pelas Partes da Convenção OSPAR reunidas em Bergen em Setembro de 2010.\n\n2 - Os limites territoriais da Área Marinha Protegida do MARNA, conforme fixados pela Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 44), estão representados no anexo ii pela sigla PMA10."
-  },
-  "1173529375": {
-   "fragment_id": "1173529275",
-   "type": 1,
-   "heading": "Capítulo IV — Gestão do Parque Marinho dos Açores",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo IV — Gestão do Parque Marinho dos Açores"
   },
   "1173502475": {
    "fragment_id": "1173502375",
@@ -757,14 +925,6 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 28.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo:\n\na) Apreciar os planos anuais e plurianuais e os relatórios anuais de actividades;\n\nb) Apreciar as propostas quanto à elaboração periódica de relatórios de estado do Parque Marinho dos Açores, submetendo a realização da respectiva elaboração à decisão do membro do Governo Regional com competência em matéria de ambiente e mar;\n\nc) Dar parecer sobre qualquer assunto com interesse para o Parque Marinho dos Açores;\n\nd) Aprovar o seu regulamento interno de funcionamento."
-  },
-  "1173494775": {
-   "fragment_id": "1173494675",
-   "type": 1,
-   "heading": "Capítulo V — Instrumentos de gestão do Parque Marinho dos Açores",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo V — Instrumentos de gestão do Parque Marinho dos Açores"
   },
   "1173503075": {
    "fragment_id": "1173502975",
@@ -1199,36 +1359,6 @@
    ],
    "markdown": "###### Artigo 30.º — Áreas importantes para as aves marinhas\n\nNa classificação e reclassificação de novas áreas marinhas protegidas, costeiras ou oceânicas, devem ponderar-se as áreas importantes para as aves marinhas (IBAS) identificadas em estudos científicos atualizados.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
-  "1175281975": {
-   "fragment_id": "1175281875",
-   "type": 8,
-   "heading": "Secção I — Disposições Gerais",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção I — Disposições Gerais\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1176153675": {
-   "fragment_id": "1175196875",
-   "type": 11,
-   "heading": "Artigo 39.º — Limites das áreas marinhas protegidas oceânicas",
-   "in_force_from": null,
-   "changed_by": [
-    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "###### Artigo 39.º — Limites das áreas marinhas protegidas oceânicas\n\n1 - O Parque Marinho dos Açores é composto pelas áreas marinhas protegidas oceânicas previstas nas secções i a iv do presente capítulo, cujos limites estão descritos e fixados no anexo i, através do respetivo código, e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.\n\n2 - Para efeitos de esclarecimento de quaisquer dúvidas, a carta simplificada, a que se refere o anexo ii, deve estar disponível, para consulta, no departamento do Governo Regional com competência em matéria de mar e pescas ou no sítio da Internet do Governo Regional dos Açores - Portal do Governo dos Açores.\n\n3 - O departamento do Governo Regional com competência em matéria de assuntos do mar e pescas mantém atualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii.\n\n4 - A Autoridade de Gestão da RAMPA, após a sua constituição e entrada em funcionamento, sucede ao departamento do Governo Regional com competência em matéria de assuntos do mar e pescas, nas situações referidas nos números anteriores.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1176153475": {
-   "fragment_id": "1175197175",
-   "type": 11,
-   "heading": "Artigo 40.º — Compatibilização de regimes",
-   "in_force_from": null,
-   "changed_by": [
-    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "###### Artigo 40.º — Compatibilização de regimes\n\n1 - Nas áreas marinhas protegidas oceânicas, o regime de usos e atividades proibidos ou condicionados deve articular-se com os seguintes regimes:\n\na) Rede fundamental de conservação da natureza, prevista na secção iii do capítulo ii;\n\nb) Plano de situação de ordenamento do espaço marítimo, subdivisão Açores;\n\nc) Programa Regional para as Alterações Climáticas, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2019-126669989\"><u>Decreto Legislativo Regional n.º 30/2019/A</u></a>, de 28 de novembro;\n\nd) Quadro legal da pesca açoriana, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040\"><u>Decreto Legislativo Regional n.º 29/2010/A</u></a>, de 9 de novembro, na sua redação atual, designadamente e sem limitar, quanto às seguintes matérias:\n\ni) Medidas de conservação, gestão e exploração, previstas no artigo 7.º do citado diploma;\n\nii) Classificação e delimitação das áreas e definição das condições de atividade dos apanhadores de recursos marinhos, dos pescadores submarinos, dos pescadores de costa e de operação das embarcações regionais, bem como dos respetivos requisitos previstos na alínea c) do n.º 2 do artigo 9.º do citado diploma;\n\niii) Interdição ou restrição do exercício da pesca em certas áreas, ou por certos períodos, ou de certas espécies, ou para embarcações regionais com certas características, ou com certas artes e instrumentos, prevista na alínea d) do n.º 2 do artigo 9.º do citado diploma;\n\niv) Restrições ao exercício da pesca por outros motivos, previstas no artigo 10.º do citado diploma.\n\ne) Regime jurídico da pesca lúdica na ZEE, subárea dos Açores, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2007-519398\"><u>Decreto Legislativo Regional n.º 9/2007/A</u></a>, de 19 de abril, na sua redação atual, designadamente e sem limitar, quanto às matérias reguladas nos respetivos artigos 21.º, 26.º e 27.º;\n\nf) Regime de direitos de soberania e poderes de jurisdição aplicável na ZEE e na plataforma continental, em conformidade com a CNUDM.\n\n2 - Em caso de conflito das normas referidas no número anterior com as previstas no presente diploma quanto ao regime de usos e atividades proibidos ou condicionados, é sempre aplicável o regime que estabelecer maiores restrições ao desenvolvimento de usos e atividades.\n\n3 - Para efeitos do disposto nos números anteriores, a EGRAMPA deve determinar o sistema de compatibilização dos regimes em presença na RAMPA, bem como a metodologia a utilizar para o efeito.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
   "1175288675": {
    "fragment_id": "1173493975",
    "type": 1,
@@ -1349,15 +1479,25 @@
    ],
    "markdown": "### Capítulo IV — Áreas marinhas protegidas oceânicas\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
-  "1175282275": {
-   "fragment_id": "1175282175",
-   "type": 8,
-   "heading": "Secção II — Reserva natural marinha",
-   "in_force_from": "2025-09-30",
+  "1176153675": {
+   "fragment_id": "1175196875",
+   "type": 11,
+   "heading": "Artigo 39.º — Limites das áreas marinhas protegidas oceânicas",
+   "in_force_from": null,
    "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
-   "markdown": "#### Secção II — Reserva natural marinha\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
+   "markdown": "###### Artigo 39.º — Limites das áreas marinhas protegidas oceânicas\n\n1 - O Parque Marinho dos Açores é composto pelas áreas marinhas protegidas oceânicas previstas nas secções i a iv do presente capítulo, cujos limites estão descritos e fixados no anexo i, através do respetivo código, e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.\n\n2 - Para efeitos de esclarecimento de quaisquer dúvidas, a carta simplificada, a que se refere o anexo ii, deve estar disponível, para consulta, no departamento do Governo Regional com competência em matéria de mar e pescas ou no sítio da Internet do Governo Regional dos Açores - Portal do Governo dos Açores.\n\n3 - O departamento do Governo Regional com competência em matéria de assuntos do mar e pescas mantém atualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii.\n\n4 - A Autoridade de Gestão da RAMPA, após a sua constituição e entrada em funcionamento, sucede ao departamento do Governo Regional com competência em matéria de assuntos do mar e pescas, nas situações referidas nos números anteriores.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
+  },
+  "1176153475": {
+   "fragment_id": "1175197175",
+   "type": 11,
+   "heading": "Artigo 40.º — Compatibilização de regimes",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
+   ],
+   "markdown": "###### Artigo 40.º — Compatibilização de regimes\n\n1 - Nas áreas marinhas protegidas oceânicas, o regime de usos e atividades proibidos ou condicionados deve articular-se com os seguintes regimes:\n\na) Rede fundamental de conservação da natureza, prevista na secção iii do capítulo ii;\n\nb) Plano de situação de ordenamento do espaço marítimo, subdivisão Açores;\n\nc) Programa Regional para as Alterações Climáticas, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2019-126669989\"><u>Decreto Legislativo Regional n.º 30/2019/A</u></a>, de 28 de novembro;\n\nd) Quadro legal da pesca açoriana, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040\"><u>Decreto Legislativo Regional n.º 29/2010/A</u></a>, de 9 de novembro, na sua redação atual, designadamente e sem limitar, quanto às seguintes matérias:\n\ni) Medidas de conservação, gestão e exploração, previstas no artigo 7.º do citado diploma;\n\nii) Classificação e delimitação das áreas e definição das condições de atividade dos apanhadores de recursos marinhos, dos pescadores submarinos, dos pescadores de costa e de operação das embarcações regionais, bem como dos respetivos requisitos previstos na alínea c) do n.º 2 do artigo 9.º do citado diploma;\n\niii) Interdição ou restrição do exercício da pesca em certas áreas, ou por certos períodos, ou de certas espécies, ou para embarcações regionais com certas características, ou com certas artes e instrumentos, prevista na alínea d) do n.º 2 do artigo 9.º do citado diploma;\n\niv) Restrições ao exercício da pesca por outros motivos, previstas no artigo 10.º do citado diploma.\n\ne) Regime jurídico da pesca lúdica na ZEE, subárea dos Açores, aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2007-519398\"><u>Decreto Legislativo Regional n.º 9/2007/A</u></a>, de 19 de abril, na sua redação atual, designadamente e sem limitar, quanto às matérias reguladas nos respetivos artigos 21.º, 26.º e 27.º;\n\nf) Regime de direitos de soberania e poderes de jurisdição aplicável na ZEE e na plataforma continental, em conformidade com a CNUDM.\n\n2 - Em caso de conflito das normas referidas no número anterior com as previstas no presente diploma quanto ao regime de usos e atividades proibidos ou condicionados, é sempre aplicável o regime que estabelecer maiores restrições ao desenvolvimento de usos e atividades.\n\n3 - Para efeitos do disposto nos números anteriores, a EGRAMPA deve determinar o sistema de compatibilização dos regimes em presença na RAMPA, bem como a metodologia a utilizar para o efeito.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1176179075": {
    "fragment_id": "1173499375",
@@ -1468,16 +1608,6 @@
     "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
    "markdown": "###### Artigo 51.º — Reserva Natural Marinha dos Ilhéus das Formigas\n\n1 - A Reserva Natural Marinha dos Ilhéus das Formigas, referida na alínea j) do artigo 41.º, tem os limites descritos e fixados no anexo i, pelo código PMA31, e representados na carta simplificada constante do anexo ii.\n\n2 - A Reserva Natural Marinha dos Ilhéus das Formigas integra no seu âmbito:\n\na) A zona especial de conservação (ZEC) do Ilhéu das Formigas e Recife Dollabarat (código PTSMA0023);\n\nb) A Área Marinha Protegida OSPAR Banco das Formigas e Recife Dollabarat (O-PT020001).\n\n3 - A Reserva Natural Marinha dos Ilhéus das Formigas observa, cumulativamente com o regime definido pelo presente diploma, o regime estabelecido pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2006-353938\"><u>Decreto Legislativo Regional n.º 20/2006/A</u></a>, de 6 de junho, que aprova o Plano Setorial Rede Natura 2000 da Região Autónoma dos Açores, na sua redação atual, e os objetivos e limites inerentes à classificação como ZEC Ilhéu das Formigas e Recife Dollabarat, bem como Área Marinha Protegida OSPAR Banco das Formigas e Recife Dollabarat.\n\n4 - A Reserva Natural Marinha dos Ilhéus das Formigas é uma área protegida Ramsar n.º 1804 - 3PT024 - sítio Ramsar Ilhéu das Formigas e Recife Dollabarat (oceânico).\n\n5 - A Reserva Natural Marinha dos Ilhéus das Formigas é classificada nos termos e com o regime previsto no anexo ix do presente diploma e que dele faz parte integrante.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1175282575": {
-   "fragment_id": "1175282475",
-   "type": 8,
-   "heading": "Secção III — Área marinha protegida para gestão de habitats ou espécies",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção III — Área marinha protegida para gestão de habitats ou espécies\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1176202675": {
    "fragment_id": "1173500375",
@@ -1630,16 +1760,6 @@
    ],
    "markdown": "###### Artigo 66.º — Área Marinha Protegida para a gestão de habitats e espécies do Mar da Prata Sul\n\n1 - A Área Marinha Protegida para a gestão de habitats e espécies do Mar da Prata Sul, referida na alínea q) do n.º 1 do artigo 52.º, tem os limites descritos e fixados no anexo i, pelo código PMA30, e representados na carta simplificada constante do anexo ii.\n\n2 - A Área Marinha Protegida para a gestão de habitats e espécies do Mar da Prata Sul é classificada nos termos e com o regime previsto no anexo xxiii do presente diploma e que dele faz parte integrante.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
-  "1175282875": {
-   "fragment_id": "1175282775",
-   "type": 8,
-   "heading": "Secção IV — Áreas marinhas protegidas para a gestão de recursos",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção IV — Áreas marinhas protegidas para a gestão de recursos\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
   "1176204575": {
    "fragment_id": "1173500975",
    "type": 11,
@@ -1660,16 +1780,6 @@
     "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
    "markdown": "###### Artigo 68.º — Regime\n\nAs áreas marinhas protegidas para a gestão de recursos referidas no artigo anterior situam-se na plataforma continental além do limite exterior da ZEE e seguem o regime previsto na secção seguinte.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1175283175": {
-   "fragment_id": "1175283075",
-   "type": 8,
-   "heading": "Secção V — Áreas marinhas protegidas oceânicas situadas na plataforma continental além do limite exterior da ZEE, adjacente ao arquipélago dos Açores",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção V — Áreas marinhas protegidas oceânicas situadas na plataforma continental além do limite exterior da ZEE, adjacente ao arquipélago dos Açores\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1176208375": {
    "fragment_id": "1175204075",
@@ -1733,16 +1843,6 @@
    ],
    "markdown": "###### Artigo 74.º — Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores\n\n1 - A Área Marinha Protegida para a gestão de recursos do perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores, referida na alínea b) do artigo 67.º e na alínea e) do n.º 1 do artigo 69.º, é classificada em função dos objetivos específicos de gestão referidos no n.º 3 do artigo 15.º\n\n2 - Constituem fundamentos para a classificação da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores as características e o estado de conservação dos seus habitats, bem como os valores geológicos e naturais em presença.\n\n3 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores tem os limites descritos e fixados no anexo i, pelo código PMA13, e representados na carta simplificada constante do anexo ii.\n\n4 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores (PMA13) integra no seu âmbito a Reserva Natural Marinha do Campo Hidrotermal Rainbow, referida na alínea d) do artigo 41.º e no artigo 45.º\n\n5 - Constituem fundamentos para a classificação da Reserva Natural Marinha do Campo Hidrotermal Rainbow as características únicas dos seus habitats, os valores geológicos e naturais em presença e os objetivos de conservação inerentes à classificação como área marinha protegida no âmbito da Convenção OSPAR Campo Hidrotermal Rainbow, identificada no n.º 7.\n\n6 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow é classificada em função dos objetivos específicos de gestão referidos no n.º 3 do artigo 13.º\n\n7 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow integra no seu âmbito a Área Marinha Protegida OSPAR Campo Hidrotermal Rainbow (O-PT-020007).\n\n8 - O Campo Hidrotermal Rainbow consta da lista nacional de propostas de novos sítios de importância comunitária, aprovada pela Resolução do Conselho do Governo Regional n.º 56/2010, de 10 de maio, aplicando-se o disposto no n.º 3 do artigo 22.º\n\n9 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow tem os limites descritos e fixados no anexo i, pelo código PMA04, e representados na carta simplificada constante do anexo ii.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20."
   },
-  "1175283475": {
-   "fragment_id": "1175283375",
-   "type": 8,
-   "heading": "Secção VI — Usos e atividades proibidos nas áreas marinhas protegidas oceânicas",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção VI — Usos e atividades proibidos nas áreas marinhas protegidas oceânicas\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
   "1176210575": {
    "fragment_id": "1175204375",
    "type": 11,
@@ -1782,16 +1882,6 @@
     "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
    "markdown": "###### Artigo 78.º — Usos e atividades proibidos nas áreas marinhas protegidas para a gestão de recursos\n\n1 - Nas áreas marinhas protegidas oceânicas para a gestão de recursos são proibidos os seguintes usos e atividades:\n\na) Artes de pesca comercial:\n\ni) Palangre de superfície;\n\nii) Palangre de fundo;\n\niii) Palangre derivante para espada preto;\n\niv) Redes de emalhar;\n\nv) Artes de cerco e de levantar, com exceção da captura para isco vivo;\n\nvi) Armadilhas.\n\nb) Infraestruturas:\n\ni) Energias renováveis;\n\nii) Ductos e emissários submarinos;\n\niii) Plataformas multiúsos e estruturas flutuantes não abrangidas pelo regime de condicionamento;\n\niv) Afundamento de navios e outras estruturas.\n\nc) Armazenamento geológico de carbono.\n\nd) Aquicultura e atividades similares:\n\ni) Aquicultura;\n\nii) Fish aggregating devices (FAD).\n\ne) Mineração, exploração de gás ou petróleo:\n\ni) Extração de recursos minerais metálicos;\n\nii) Extração de recursos minerais não metálicos;\n\niii) Extração de recursos energéticos fósseis;\n\niv) Prospeção de recursos minerais e petrolíferos.\n\nf) Imersão de dragados.\n\ng) Transporte de matérias perigosas.\n\n2 - A pesca de arrasto ou arrasto de fundo, desenvolvida sobre o leito do mar, constitui uma atividade proibida, nos termos da legislação nacional e europeia em vigor.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1175283775": {
-   "fragment_id": "1175283675",
-   "type": 8,
-   "heading": "Secção VII — Usos e atividades condicionados nas áreas marinhas protegidas oceânicas",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção VII — Usos e atividades condicionados nas áreas marinhas protegidas oceânicas\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1176212575": {
    "fragment_id": "1175205575",
@@ -1843,16 +1933,6 @@
    ],
    "markdown": "### Capítulo V — Sistema de gestão e órgãos da RAMPA\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
-  "1175292975": {
-   "fragment_id": "1175292875",
-   "type": 8,
-   "heading": "Secção I — Disposições gerais",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção I — Disposições gerais\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
   "1176213875": {
    "fragment_id": "1175206875",
    "type": 11,
@@ -1872,16 +1952,6 @@
     "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
    "markdown": "###### Artigo 84.º — Órgãos da RAMPA\n\n1 - A RAMPA é dotada de um órgão de gestão denominado por Autoridade de Gestão.\n\n2 - A Autoridade de Gestão tem a natureza de serviço externo do departamento do Governo Regional com competência em matéria de mar e pescas, é dotada de autonomia administrativa nos termos da lei e funciona na dependência coordenada dos membros do Governo Regional com competência em matéria de mar e pescas e ambiente.\n\n3 - A RAMPA dispõe de um conselho consultivo, com natureza de órgão consultivo do departamento do Governo Regional com competência em matéria de mar e pescas, cuja missão é apoiar o Governo Regional e a Autoridade de Gestão na formulação e acompanhamento das políticas públicas relativas às áreas marinhas protegidas, através da emissão de pareceres e recomendações, sempre que lhe sejam solicitadas.\n\n4 - A constituição, composição, missão, atribuições e competências, estatuto remuneratório e demais aspetos relativos ao funcionamento da Autoridade de Gestão e do Conselho Consultivo são aprovados por decreto regulamentar regional.\n\n5 - A aprovação do decreto regulamentar regional referido no número anterior deve ser anterior à aprovação da EGRAMPA, referida no n.º 3 do artigo anterior.\n\n6 - O início de funções da Autoridade de Gestão e do Conselho Consultivo da RAMPA deve ser coincidente com a data de aprovação da EGRAMPA, referida no n.º 3 do artigo anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1175293275": {
-   "fragment_id": "1175293175",
-   "type": 8,
-   "heading": "Secção II — Estratégia de gestão da RAMPA",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção II — Estratégia de gestão da RAMPA\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1176215175": {
    "fragment_id": "1175207975",
@@ -1922,16 +1992,6 @@
     "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
    ],
    "markdown": "###### Artigo 88.º — Aprovação e revisão da EGRAMPA\n\n1 - A EGRAMPA deve ser aprovada no prazo de um ano a contar da data da publicação do presente diploma, em conformidade com o disposto no n.º 3 do artigo 83.º\n\n2 - O relatório referido na alínea b) do artigo anterior deve identificar a metodologia e o prazo de revisão da EGRAMPA.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-  },
-  "1175293675": {
-   "fragment_id": "1175293575",
-   "type": 8,
-   "heading": "Secção III — Instrumentos de ordenamento e gestão da área marinha protegida",
-   "in_force_from": "2025-09-30",
-   "changed_by": [
-    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
-   ],
-   "markdown": "#### Secção III — Instrumentos de ordenamento e gestão da área marinha protegida\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30."
   },
   "1175297875": {
    "fragment_id": "1175297775",

@@ -7,7 +7,7 @@
  "versions": [
   {
    "date": "2026-11-02",
-   "future": true,
+   "future": false,
    "acts": [
     {
      "id": "pt:dre:1154275222:por",
@@ -199,5 +199,8 @@
    ],
    "markdown": "## Anexo IV — Requerimento para emissão de cédula profissional provisória para o exercício das profissões no âmbito das terapêuticas não convencionais\n\n(ver documento original)\n\n> Revogado pelo/a Artigo do/a [Portaria n.º 323/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/323-2026-1154275222), em vigor a partir de 2026-11-02."
   }
- }
+ },
+ "unavailable_dates": [
+  "2014-09-12"
+ ]
 }

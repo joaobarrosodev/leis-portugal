@@ -41,10 +41,10 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-01-06'
+  consolidation_date: '2026-10-17'
 version_history:
   file: portaria-101-2023.versoes.json
-  count: 4
+  count: 5
   source_lastmod: '2024-06-25'
   versions:
   - date: '2023-04-11'
@@ -100,6 +100,22 @@ version_history:
     - Altera Artigo 17.º
     - Altera Artigo 18.º
     - Altera Artigo 19.º
+  - date: '2026-10-17'
+    amending: pt:dre:1182082414:por
+    amending_title: Portaria n.º 458/2026/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/101/2023/04/11/p/dre/pt/html
@@ -114,19 +130,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/101/2023/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-229976085
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-229976085
-  retrieved_at: '2026-10-22T13:01:09Z'
+  retrieved_at: '2026-11-23T12:27:12Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: fc0a7cb4ac7cf7dfcb5fc5946e4c19c255960436f80b5831dd98482f639a4f56
+  source_sha256: 1308dbab9abebb161555cafe6ce04d00510db38bac88a620aa1349675a6f052a
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:01:09Z'
-  notes: 4 versão(ões); histórico completo em portaria-101-2023.versoes.json.
+  generated_at: '2026-11-23T12:27:12Z'
+  notes: 5 versão(ões); histórico completo em portaria-101-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,6 +170,12 @@ relationships:
     Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275
   date: '2026-01-05'
+- type: amended_by
+  target: pt:dre:1182082414:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 13.º-A;
+    Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414
+  date: '2026-10-16'
 - type: cites
   target: celex:32013R1407
   label: null
@@ -191,7 +213,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:01:09Z'
+  checked_at: '2026-11-23T12:27:12Z'
   warnings: []
   errors: []
 ---
@@ -252,29 +274,25 @@ b) «Eventos corporativos», os eventos promovidos por empresas com o objetivo d
 
 c) «Eventos de natureza cultural», os eventos que, enquadrados nas alíneas a) ou c) do n.º 1 do artigo 6.º, promovam o conhecimento, a ciência, a história, os costumes, as experiências, as tradições, as crenças, as indústrias criativas, o cinema, o audiovisual, demais manifestações artísticas, intelectuais ou musicais, ou outras caraterísticas que sejam suscetíveis de distinguir uma sociedade, um grupo social ou um território;
 
-d) «Territórios de baixa densidade», as áreas territoriais identificadas no anexo iii da Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro, atualizada pela alteração introduzida pela deliberação n.º 20/2018 da CIC Portugal 2020, de 12 de setembro, que aprovou a inclusão na lista de Municípios classificados como Municípios de baixa densidade, a União das Freguesias da Raiva, Pedorido e Paraíso que fazem parte integrante do Município de Castelo de Paiva;
+d) «Territórios de baixa densidade», as áreas territoriais identificadas no anexo iii da Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro, atualizada pela alteração introduzida pela Deliberação n.º 31/2023/PL da CIC Portugal 2030, de 22 de setembro, que aprovou a inclusão na lista de municípios classificados como municípios de baixa densidade a União das Freguesias de Raiva, Pedorido e Paraíso que fazem parte integrante do Município de Castelo de Paiva, ou por outra deliberação que a venha a substituir;
 
-e) «Produtos Turísticos Estratégicos», os produtos turísticos considerados estratégicos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.;
+e) «Produtos turísticos estratégicos», os produtos turísticos considerados estratégicos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.;
 
-f) «Data início dos trabalhos», data a que se refere o n.º 23 do artigo 2.º, sobre a definição de início dos trabalhos, e artigo 6.º, sobre o efeito de incentivo, do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+f) «Data início dos trabalhos», a data a que se refere o n.º 23 do artigo 2.º, sobre a definição de início dos trabalhos, e artigo 6.º, sobre o efeito de incentivo, do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
 
-g) «Convention Bureaux», as associações de direito privado, que têm especificamente por objeto a promoção, dinamização e captação de congressos e eventos.
+g) «Convention bureaux», as associações de direito privado, que têm especificamente por objeto a promoção, dinamização e captação de congressos e eventos;
+
+h) «Entidades gestoras dos planos de eventos regionais», as entidades regionais de turismo e as secretarias regionais de turismo que são responsáveis pela seleção, instrução e apresentação das candidaturas relativas a projetos enquadráveis na alínea c) do n.º 1 do artigo 6.º, pela contratualização do apoio concedido no âmbito do sistema de incentivos Portugal Events com cada uma das entidades beneficiárias finais, pelo pagamento do mesmo a cada uma de acordo com o disposto no artigo 17.º, e pelo acompanhamento da execução dos respetivos planos anuais de eventos, aprovados nos termos do disposto no artigo 14.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11
 
 ###### Artigo 3.º — Dotação
 
-1 - A dotação disponível para financiamento das operações ao abrigo do presente programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de € 75 000 000,00 (setenta e cinco milhões de euros), repartidos da seguinte forma, em função das tipologias de eventos a que se refere o n.º 1 do artigo 6.º do presente Regulamento:
+A dotação disponível para financiamento das operações ao abrigo do presente programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é definida por despacho do membro do Governo com tutela sobre o setor do turismo, tendo por base uma proposta do Turismo de Portugal, I. P., podendo ser alterada em função das necessidades que se vierem a registar no decurso da execução do Programa.
 
-a) Eventos a que se refere a alínea a): € 55 950 000,00 (cinquenta e cinco milhões, novecentos e cinquenta mil euros), dos quais € 31 500 000,00 (trinta e um milhões, quinhentos mil euros) a alocar aos anos de 2026 a 2028, repartidos em partes iguais pelos três anos;
-
-b) Eventos a que se refere a alínea b): € 5 750 000,00 (cinco milhões, setecentos e cinquenta mil euros), dos quais € 3 000 000,00 (três milhões de euros) a alocar aos anos de 2026 a 2028, repartidos em partes iguais pelos três anos;
-
-c) Eventos a que se refere a alínea c): € 13 300 000,00 (treze milhões e trezentos mil euros), dos quais € 10 500 000,00 (dez milhões e quinhentos mil euros) a alocar aos anos de 2026 e 2028 repartidos em partes iguais pelos três anos.
-
-2 - [Revogado.]
-
-3 - As dotações previstas no número anterior podem ser alteradas por despacho do membro do Governo com tutela sobre o setor do turismo, em função das necessidades que se vierem a registar no decurso da execução do Programa.
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 
@@ -288,17 +306,19 @@ O sistema de incentivos Portugal Events é aplicável a todo o território nacio
 
 ###### Artigo 5.º — Entidades beneficiárias
 
-1 - São entidades beneficiárias do sistema de incentivos Portugal Events, as seguintes:
+1 - Podem ser entidades beneficiárias do sistema de incentivos Portugal Events:
 
-a) As empresas de qualquer dimensão, detentoras dos direitos de organização dos eventos ou que tenham como atividade principal a sua organização;
+a) As empresas, com sede em Portugal, de qualquer dimensão, detentoras dos direitos de organização dos eventos ou que tenham como atividade principal a sua organização;
 
-b) Entidades públicas, incluindo aquelas em cuja gestão as entidades da administração central do Estado, regional e local tenham posição dominante, Convention Bureaux, Associações, Fundações, Instituições de Ensino Superior, assim como as Agências Regionais de Promoção Turística reconhecidas pela Confederação do Turismo de Portugal.
+b) Entidades públicas, incluindo aquelas em cuja gestão as entidades da administração central do Estado, regional e local tenham posição dominante, convention bureaux, associações, fundações, instituições de ensino superior.
 
-2 - As empresas com sede no estrangeiro que reúnam as caraterísticas definidas na alínea a) do número anterior, são entidades beneficiárias do sistema de incentivos Portugal Events, desde que, no que respeita às empresas promotoras de eventos a que se refere o n.º 2 do artigo 20.º, tenham em Portugal a devida representação nomeadamente por via de sucursal ou outra tipologia de representação.
+2 - As empresas com sede no estrangeiro que reúnam as demais caraterísticas definidas na alínea a) do número anterior podem ser entidades beneficiárias do sistema de incentivos Portugal Events, desde que, no que respeita às empresas promotoras de eventos a que se refere o n.º 2 do artigo 20.º, tenham em Portugal a devida representação nomeadamente por via de sucursal ou outra tipologia de representação.
 
-3 - É conferida às entidades regionais de turismo e secretarias regionais de turismo a faculdade de apresentarem ao Portugal Events candidaturas que traduzam um plano anual de eventos de natureza local ou regional, em nome e em representação de entidades que revistam a natureza de entidades beneficiárias nos termos do presente artigo, que serão as beneficiárias finais do apoio, e que preencham as condições e critérios de avaliação definidos no presente Regulamento.
+3 - É conferida às entidades gestoras dos planos de eventos regionais, a faculdade de apresentarem ao Portugal Events candidaturas que traduzam um plano anual de eventos de natureza local ou regional, em nome e em representação de entidades que revistam a natureza de entidades beneficiárias, nos termos do presente artigo, que serão as beneficiárias finais do apoio, e que preencham as condições e critérios de avaliação definidos no presente Regulamento.
 
-4 - Na preparação da candidatura a que se refere o número anterior, devem as entidades regionais de turismo e as secretarias regionais de turismo assegurar a ampla publicidade e transparência do processo, garantindo a coerência dos respetivos planos de eventos.
+4 - Na preparação da candidatura a que se refere o número anterior, devem as entidades gestoras dos planos de eventos regionais assegurar a ampla publicidade e transparência do processo, garantindo a coerência dos respetivos planos de eventos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11
 
@@ -334,7 +354,7 @@ c) Terem uma situação regularizada perante a administração fiscal, a seguran
 
 d) Disporem de contabilidade organizada nos termos da legislação aplicável;
 
-e) No caso de empresas, possuírem uma situação líquida no ano anterior à data da candidatura ou, não possuindo, demonstrarem que a possuem à data da candidatura, mediante apresentação de balanço intercalar certificado pelo respetivo contabilista certificado;
+e) No caso de empresas, possuírem uma situação líquida positiva no ano anterior à data da candidatura ou, não possuindo, demonstrarem que a possuem à data da candidatura, mediante apresentação de balanço intercalar certificado pelo respetivo contabilista certificado;
 
 f) Não se enquadrarem no conceito de empresa em dificuldade nos termos da definição que consta do n.º 18 do artigo 2.º do Regulamento Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
 
@@ -344,9 +364,13 @@ h) Não terem sido condenadas nos dois anos anteriores à data da candidatura, p
 
 i) Não se encontrarem impedidas de acesso aos apoios financeiros com a natureza que decorre do presente diploma;
 
-j) No que se refere aos eventos enquadrados na alínea b) do n.º 1 do artigo 6.º, nos casos em que a entidade beneficiária não seja a entidade organizadora do evento, deve aquela apresentar declaração de representação assinada pela entidade organizadora do evento.
+j) No que se refere aos eventos enquadrados na alínea b) do n.º 1 do artigo 6.º, nos casos em que a entidade beneficiária não seja a entidade organizadora do evento, deve aquela apresentar declaração de representação assinada pela entidade organizadora do evento;
+
+k) Comprometerem-se a desenvolver um mecanismo de avaliação do impacto do evento face aos objetivos a atingir, com metas específicas, assim como a reportar os resultados atingidos com a apresentação do pedido de pagamento final do apoio.
 
 2 - Com exceção da condição prevista na alínea c) do número anterior, que pode ser verificada até à data da assinatura do Termo de Aceitação, as demais condições de elegibilidade são aferidas à data da candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11
 
@@ -439,30 +463,41 @@ b) Os pagamentos em numerário, exceto nas situações em que se revele ser este
 ###### Artigo 11.º — Apoio financeiro
 
 1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com quaisquer outros apoios concedidos pelo Turismo de Portugal, I. P., sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores do evento apoiado.
-2 - O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º do presente Regulamento, com o limite máximo de € 300 000,00 (trezentos mil euros), é determinado em função do grau de relevância do evento, apurado nos termos do n.º 2 do artigo 12.º do presente Regulamento, e mediante a aplicação da respetiva taxa ao montante total de investimento elegível apurado:
+
+O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º do presente Regulamento, com o limite máximo de € 300 000,00 (trezentos mil euros), é determinado em função do grau de relevância do evento, apurado nos termos do n.º 2 do artigo 12.º do presente Regulamento, e mediante a aplicação da respetiva taxa ao montante total de investimento elegível apurado:
+
 a) Grau de relevância 1: 10 %;
+
 b) Grau de relevância 2: 20 %;
+
 c) Grau de relevância 3: 30 %;
+
 d) Grau de relevância 4: 40 %;
+
 e) Grau de relevância 5: 50 %.
+
 3 - Ao valor de apoio financeiro, mesmo que no limite máximo, apurado nos termos do número anterior, acresce uma majoração de 25 %, se 75 % do investimento associado ao evento se realizar em território de baixa densidade.
-4 - A atribuição de apoio financeiro aos eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º, tem por base a aplicação da seguinte matriz:
+
+4 - O apoio financeiro a conceder aos eventos a que se refere a alínea b) do n.º 1 do artigo 6.º do presente Regulamento, com o limite máximo de 50 000,00 € (cinquenta mil euros), é determinado em função do número de dormidas previstas em empreendimentos turísticos ou em estabelecimentos de alojamento local, de acordo com a seguinte matriz:
 
 Escalões de apoio financeiro por número de dormidas
 
-| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |
+| De 50 a 299 | De 300 a 599 | De 600 a 1 199 | De 1 200 a 1 799 | De 1 800 a 2 699 | De 2 700 a 3 599 | De 3 600 a 5 399 | De 5 400 a 7 199 | Igual ou superior a 7 200 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-| 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |
+| 5 000 € | 6 500 € | 10 000 € | 15 000 € | 17 500 € | 22 500 € | 27 500 € | 32 500 € | 50 000 € |
 
-5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz constante do número anterior, é suportado em 75 % pelo Turismo de Portugal, I. P., cabendo ao respetivo Convention Bureau ou Agência Regional de Promoção Turística a decisão quanto à atribuição do apoio em relação aos restantes 25 %.6 - Nos casos em que o Convention Bureau ou a Agência Regional de Promoção Turística não acompanhe o apoio financeiro do Turismo de Portugal, I. P., a que se refere o número anterior, ou nos casos em que as candidaturas sejam submetidas por aquelas entidades, o montante a atribuir em cada escalão apurado será de 75 % a suportar apenas pelo Turismo de Portugal, I. P.
+5 - [Revogado.]
+6 - [Revogado.]
 
 7 - Ao apoio financeiro apurado nos termos do número anterior acrescem as seguintes majorações, a suportar pelo Turismo de Portugal, I. P.:
 a) 25 %, se o evento for realizado durante o período de inverno IATA;
 b) 25 %, se o evento for realizado em Territórios de Baixa Densidade.
+8 - O membro do Governo responsável pela área do turismo pode, em casos excecionais, sob proposta fundamentada do Turismo de Portugal, I. P., e desde que o projeto obtenha um grau de relevância de 5, nos termos do n.º 2 do artigo 12.º, autorizar que o apoio financeiro exceda as taxas de comparticipação e os limites previstos no presente artigo, sem prejuízo do respeito pelos limites estabelecidos nos enquadramentos referidos no artigo 20.º do presente Regulamento.
+9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de 500 000,00 € (quinhentos mil euros) por cada uma das entidades gestoras dos planos de eventos regionais, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.ºs 1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
 
-8 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda as taxas de comparticipação e os limites previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º do presente Regulamento.
-9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.os1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
+10 - O apoio financeiro apurado nos termos do número anterior é transferido pelo Turismo de Portugal, I. P., para cada uma das entidades gestoras dos planos de eventos regionais, que são responsáveis, por sua vez, por efetuarem o pagamento do apoio devido a cada uma das entidades beneficiárias finais, observando para o efeito o disposto no artigo 17.º do presente Regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 
@@ -524,17 +559,19 @@ e) Plano de comunicação no que se refere às operações enquadradas na alíne
 
 ###### Artigo 13.º-A — Pedidos de enquadramento no plano anual de eventos
 
-1 - No que respeita aos eventos enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, os pedidos de enquadramento no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento são apresentados pelas entidades beneficiárias à entidade regional de turismo ou à secretaria regional de turismo territorialmente competente.
+1 - No que respeita aos eventos enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, os pedidos de enquadramento no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento são apresentados pelas entidades beneficiárias às entidades gestoras dos planos de eventos regionais.
 
 2 - Com os pedidos de enquadramento a que se refere o número anterior, as entidades beneficiárias devem apresentar os elementos elencados no n.º 1 do artigo anterior.
 
 3 - Para efeitos dos números anteriores, as entidades regionais de turismo e as secretarias regionais de turismo procedem à abertura de concursos e à respetiva publicitação nas suas páginas institucionais na Internet.
 
-4 - Os pedidos de enquadramento no plano anual de eventos são analisados à luz dos critérios de enquadramento referidos na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, e, sendo o caso, selecionados pelas entidades regionais de turismo e pelas secretarias regionais de turismo territorialmente competentes através da aplicação dos critérios de avaliação das operações e respetivos graus de relevância definidos no artigo 12.º do presente Regulamento
+4 - Os pedidos de enquadramento no plano anual de eventos são analisados à luz dos critérios de enquadramento referidos na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, e, sendo o caso, selecionados pelas entidades gestoras dos planos de eventos regionais territorialmente competentes através da aplicação dos critérios de avaliação das operações e respetivos graus de relevância definidos no artigo 12.º do presente Regulamento.
 
-5 - As entidades regionais de turismo e as secretarias regionais de turismo devem facultar às entidades beneficiárias o direito de se pronunciarem em sede de audiência prévia, nos termos e para os efeitos do artigo 121.º do Código do Procedimento Administrativo, em caso de não aceitação do pedido de enquadramento no plano anual de eventos apresentado.
+5 - As entidades gestoras dos planos de eventos regionais devem facultar às entidades beneficiárias o direito de se pronunciarem em sede de audiência prévia, nos termos e para os efeitos do artigo 121.º do Código do Procedimento Administrativo, em caso de não aceitação do pedido de enquadramento no plano anual de eventos apresentado.
 
-6 - Após a seleção dos projetos que vão integrar o plano anual de eventos, as entidades regionais de turismo e as secretarias regionais de turismo apresentam as respetivas candidaturas ao presente sistema de incentivos, junto do Turismo de Portugal, I. P., nos termos do artigo anterior.
+6 - Após a seleção dos projetos que vão integrar o plano anual de eventos, as entidades gestoras dos planos de eventos regionais apresentam as respetivas candidaturas ao presente sistema de incentivos, junto do Turismo de Portugal, I. P., nos termos do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Aditado pelo/a Artigo 3.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06.
 
@@ -544,15 +581,17 @@ e) Plano de comunicação no que se refere às operações enquadradas na alíne
 
 2 - Sempre que necessário, o Turismo de Portugal, I. P., pode solicitar esclarecimentos complementares às entidades beneficiárias, ou às entidades regionais de turismo e secretarias regionais de turismo, no caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.ºdo presente Regulamento, a prestar no prazo máximo de 10 dias úteis contados da data da notificação do respetivo pedido, decorrido o qual a ausência de resposta determina a caducidade da candidatura.
 
-3 - No que respeita às candidaturas apresentadas no âmbito da alínea b) do n.º 1 do artigo 6.º, o Turismo de Portugal, I. P., solicita ao respetivo Convention Bureau ou Agência Regional de Promoção Turística informação quanto à assunção por estas entidades do compromisso de financiamento dos 25 % do apoio a que se refere o n.º 5 do artigo 11.º
+3 - [Revogado.]
 
-4 - Findo o prazo concedido para a prestação da informação a que se refere o número anterior, sem que a mesma seja prestada, o Turismo de Portugal, I. P. procede ao cálculo do valor do incentivo, no caso de elegibilidade da candidatura, de acordo com o disposto no n.º 6 do artigo 11.º do presente Regulamento.
+4 - [Revogado.]
 
 5 - Das decisões tomadas pelo Turismo de Portugal, I. P., em relação a cada uma das candidaturas apresentadas, o Turismo de Portugal, I. P., dá conhecimento às entidades regionais de turismo ou secretarias regionais de turismo territorialmente competentes.
 
 6 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 8 do artigo 11.º
 
 7 - No que se refere aos eventos incluídos no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento, a análise referida no n.º 1 do presente artigo integra a avaliação efetuada pelas entidades regionais de turismo ou secretarias regionais de turismo no que diz respeito aos critérios de avaliação das operações e aos graus de relevância previstos no artigo 12.º do presente Regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 
@@ -566,17 +605,27 @@ e) Plano de comunicação no que se refere às operações enquadradas na alíne
 
 2 - A não aceitação do respetivo Termo de Aceitação por razões imputáveis ao beneficiário, no prazo de 20 dias úteis contado da data da notificação da atribuição do apoio financeiro, determina a caducidade do direito ao mesmo.
 
+3 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, as entidades gestoras dos planos de eventos regionais devem, após a formalização do apoio com o Turismo de Portugal, I. P., contratualizar com as entidades beneficiárias finais, no prazo de 20 dias úteis, os termos da concessão do apoio financeiro relativo a cada uma das operações que integram os respetivos planos de eventos, sob pena de caducidade do direito ao apoio financeiro.
+
+4 - A contratualização a que se refere o número anterior obedece ao modelo aprovado pelo Turismo de Portugal, I. P., a que se refere o n.º 1 do presente artigo.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
+
 ###### Artigo 16.º — Resolução do Termo de Aceitação
 
-1 - A decisão de concessão do apoio financeiro pode ser revogada e o respetivo Termo de Aceitação anulado unilateralmente pelo Turismo de Portugal, I. P., se verificado, por facto imputável à entidade beneficiária, o incumprimento de qualquer obrigação dele resultante ou dos pressupostos da atribuição do apoio.
+1 - A decisão de concessão do apoio financeiro pode ser revogada e o respetivo termo de aceitação anulado unilateralmente pelo Turismo de Portugal, I. P., se verificado, por facto imputável à entidade beneficiária, o incumprimento de qualquer obrigação dele resultante ou dos pressupostos da atribuição do apoio.
 
-2 - A revogação da decisão de concessão do apoio financeiro e a anulação do Termo de Aceitação implicam a devolução do apoio financeiro recebido pelo beneficiário no prazo de 60 dias úteis contado da data da respetiva notificação, acrescido dos juros calculados à taxa Euribor a seis meses, acrescida de um spread de três pontos percentuais, contabilizados desde a data do recebimento do apoio.
+2 - A revogação da decisão de concessão do apoio financeiro e a anulação do termo de aceitação implicam a devolução do apoio financeiro recebido pela entidade beneficiária no prazo de 60 dias úteis contado da data da respetiva notificação, acrescido dos juros de mora calculados à taxa legal em vigor.
+
+3 - Em caso de resolução dos contratos de concessão de apoio financeiro celebrados entre as entidades gestoras dos planos de eventos regionais e as entidades beneficiárias finais, nos termos do disposto no n.º 3 do artigo 15.º do presente Regulamento, aquelas comunicam esse facto ao Turismo de Portugal, I. P., devendo as primeiras transferir para o Turismo de Portugal, I. P., os valores que, nos termos do número anterior, venham a recuperar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 ###### Artigo 17.º — Pagamentos
 
 1 - O pagamento do apoio financeiro é concretizado da seguinte forma:
 
-1.1 - Para os eventos e planos de eventos, incluindo para os eventos aí integrados, enquadrados nas alíneas a) e c) do n.º 1 do artigo 6.º do presente Regulamento:
+1.1 - Para os eventos enquadrados na alínea a) do n.º 1 do artigo 6.º do presente Regulamento:
 
 a) Libertação de 50 % com a assinatura do Termo de Aceitação;
 
@@ -584,17 +633,37 @@ b) Libertação de uma parcela adicional de 25 % com a justificação da realiza
 
 c) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P. da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º
 
-1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:
+1.2 - Para os eventos enquadrados na alínea b) do n.º 1 do artigo 6.º do presente Regulamento:
 
 a) Libertação de 50 % com a assinatura do Termo de Aceitação;
 
 b) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação e apresentação de todos os elementos comprovativos do cumprimento da matriz referida no n.º 4 do artigo 11.º
 
-2 - O apoio financeiro a conceder às operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.
+1.3 - Para os eventos enquadrados na alínea c) do n.º 1 do artigo 6.º do presente Regulamento:
 
-3 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.
+1.3.1 - Compete ao Turismo de Portugal, I. P., transferir para as entidades gestoras dos planos de eventos regionais o valor do apoio financeiro atribuído e acompanhar a respetiva execução, nos seguintes termos:
 
-4 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, condicionado a disponibilidade orçamental, de acordo com os seguintes critérios:
+a) Libertação de 50 % com a contratualização do respetivo apoio financeiro;
+
+b) Libertação do valor remanescente, até duas parcelas, em função das necessidades decorrentes da gestão financeira dos respetivos planos de eventos regionais, mediante apresentação de declaração de investimento subscrita pelos responsáveis financeiros de cada uma das entidades gestoras dos mesmos, a emitir de acordo com modelo aprovado pelo Turismo de Portugal, I. P., que comprove a libertação para as entidades beneficiárias finais de, pelo menos, 80 % do montante transferido anteriormente pelo Turismo de Portugal, I. P.;
+
+c) Apresentação, até 30 de abril do ano subsequente, de relatório final de execução do plano de eventos regionais do ano anterior, que demonstre a boa e integral execução física e financeira do mesmo, e a adequada aplicação do apoio financeiro recebido, relatório esse emitido de acordo com modelo aprovado pelo Turismo de Portugal, I. P.;
+
+1.3.2 - Compete às entidades gestoras dos planos de eventos regionais proceder à libertação do apoio financeiro para as entidades beneficiárias finais, nos seguintes termos:
+
+a) Libertação de 50 % com a contratualização do respetivo apoio financeiro;
+
+b) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária final;
+
+c) Libertação do valor remanescente após a verificação, pelas entidades gestoras dos planos de eventos regionais, da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º do presente Regulamento.
+
+2 - Para a justificação da realização das despesas associadas aos pagamentos previstos nas alíneas b) e c) do ponto 1.3.2, as entidades beneficiárias finais observam, junto da respetiva entidade gestora do plano de eventos regionais, o disposto na alínea a) do n.º 1 e no n.º 2 do artigo 19.º do presente Regulamento.
+
+3 - O apoio financeiro a conceder às operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.
+
+4 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.
+
+5 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, condicionado a disponibilidade orçamental, de acordo com os seguintes critérios:
 
 a) Se o número de dormidas registado for superior ao estimado, o correspondente acréscimo do valor do apoio é apurado automaticamente no encerramento do processo;
 
@@ -604,7 +673,9 @@ i) Inferior a 90 % do estimado e superior ao limite mínimo de dormidas, há lug
 
 ii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de Aceitação, nos termos do artigo 16.º
 
-5 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito.
+6 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 
@@ -616,9 +687,11 @@ ii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de
 
 As entidades beneficiárias devem cumprir as seguintes obrigações em matéria de acompanhamento e divulgação dos apoios aprovados:
 
-a) Permitir o acesso do Turismo Portugal I. P., e, no caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, às entidades regionais de turismo e secretarias regionais de turismo territorialmente competentes, aos locais de realização dos eventos e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para o acompanhamento e controlo da sua utilização, em conformidade com o projeto e com as normas nacionais e europeias aplicáveis, nas suas componentes material, financeira e contabilística;
+a) Permitir o acesso do Turismo Portugal, I. P., e, no caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, às entidades gestoras dos planos de eventos regionais, aos locais de realização dos eventos e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para o acompanhamento e controlo da sua utilização, em conformidade com o projeto e com as normas nacionais e europeias aplicáveis, nas suas componentes material, financeira e contabilística;
 
 b) Publicitar os apoios concedidos nos termos da respetiva regulamentação específica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 
@@ -626,17 +699,19 @@ b) Publicitar os apoios concedidos nos termos da respetiva regulamentação espe
 
 ###### Artigo 19.º — Acompanhamento, controlo e auditoria
 
-1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, o acompanhamento da execução das operações é efetuado de acordo com os seguintes procedimentos:
+1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, nomeadamente em matéria de verificações por amostragem, o acompanhamento da execução das operações pelo Turismo de Portugal, I. P., e, no que se refere às operações enquadráveis na alínea c) do n.º 1 do artigo 6.º, pelas entidades gestoras dos planos de eventos regionais, é efetuado de acordo com os seguintes procedimentos:
 
-a) A verificação financeira tem por base o mapa de despesas de investimento devidamente preenchido e certificado por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, no qual deve constar o custo total do evento, a discriminação das despesas elegíveis realizadas e pagas, bem como a discriminação das receitas, patrocínios e outros apoios financeiros obtidos;
+a) A verificação financeira tem por base o mapa de despesas de investimento devidamente preenchido e certificado por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, de acordo com modelo aprovado pelo Turismo de Portugal, I. P., no qual deve constar o custo total do evento, a discriminação das despesas elegíveis e pagas, bem como a discriminação das receitas, patrocínios e outros apoios financeiros obtidos;
 
-b) A verificação física tem por base a realização de visitas aos locais de realização dos eventos, pelo Turismo de Portugal, I. P., bem como a confirmação do cumprimento das regras de publicitação do apoio definidas no Termo de Aceitação.
+b) A verificação física tem por base a realização de visitas aos locais de realização dos eventos pelo Turismo de Portugal, I. P., e pelas entidades gestoras dos planos de eventos regionais territorialmente competentes no caso dos eventos enquadráveis na alínea c) do n.º 1 do artigo 6.º, bem como a confirmação do cumprimento das regras de publicitação do apoio contratualmente definidas.
 
-2 - O acompanhamento da execução das operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º do presente Regulamento baseia-se, ainda, na análise do relatório final de execução, a apresentar pelo beneficiário em sede de encerramento do processo, o qual deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos e do cumprimento das regras de publicitação do apoio concedido.
+2 - O acompanhamento da execução das operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º do presente Regulamento baseia-se, ainda, na análise do relatório final de execução, a apresentar pelas entidades beneficiárias ao Turismo de Portugal, I. P., e pelas entidades beneficiárias finais às entidades gestoras dos planos de eventos regionais, em sede de encerramento do processo, o qual, para além do disposto na alínea a) do n.º 1 do presente artigo, deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos e do cumprimento das regras de publicitação do apoio concedido.
 
 3 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º, para além dos elementos referidos no n.º 1 do presente artigo, deverão ainda apresentar o respetivo relatório final do evento, incluindo em anexo o relatório referente às dormidas que determinaram o respetivo escalão do financiamento, nos termos devidamente previstos no Termo de Aceitação.
 
 4 - Compete ao Turismo de Portugal, I. P., desenvolver e implementar um processo de controlo e de auditoria adequado aos apoios financeiros a conceder no âmbito do Portugal Events, nomeadamente através de uma amostragem, que assegure que os recursos financeiros alocados a esta medida são utilizados de acordo com os seus objetivos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 458/2026/1 - Diário da República n.º 201/2026, Série I de 2026-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/458-2026-1182082414), em vigor a partir de 2026-10-17.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06
 

@@ -67,7 +67,7 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86-a/2016/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-891753493
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-891753493
-  retrieved_at: '2026-10-22T13:38:21Z'
+  retrieved_at: '2026-11-23T14:38:45Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2025-12-12T00:00:00Z'
@@ -78,7 +78,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:38:21Z'
+  generated_at: '2026-11-23T14:38:45Z'
   notes: 1 versão(ões); histórico completo em decreto-lei-86-a-2016.versoes.json.
 reuse:
   status: permitted
@@ -143,7 +143,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:38:21Z'
+  checked_at: '2026-11-23T14:38:45Z'
   warnings: []
   errors: []
 ---

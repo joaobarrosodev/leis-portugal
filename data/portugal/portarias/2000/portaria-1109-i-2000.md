@@ -40,24 +40,20 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2001-09-20'
 version_history:
   file: portaria-1109-i-2000.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-19'
   versions:
-  - date: '2000-11-27'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2001-09-20'
     amending: pt:dre:650304:por
     amending_title: Portaria n.º 1103-B/2001
     changes:
-    - Altera Artigo ANEXO::5.º
-    - Altera Artigo ANEXO::6.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-i/2000/11/27/p/dre/pt/html
@@ -70,21 +66,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-i-2000-554633
   metadata_url: https://data.dre.pt/eli/port/1109-i/2000/11/27/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1109-i-2000-554633
-  consolidated_url: null
-  retrieved_at: '2026-10-23T14:19:50Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970517
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1005970517
+  retrieved_at: '2026-11-23T16:13:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: cbfb2c78e48df6110213234503a346215f4cf392d5f247083a6b30649ffda12f
+  source_sha256: a5a5ff3f2d44b84e8bb5a6d49d98b8c4c77a71d8c49703c6b91933c56ebb7157
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T14:19:50Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-i-2000.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-23T16:13:13Z'
+  notes: 1 versão(ões); histórico completo em portaria-1109-i-2000.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,29 +130,31 @@ relationships:
   target: celex:31999R1257
   label: null
   source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: cites
+  target: celex:32002R0445
+  label: null
+  source: null
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T14:19:50Z'
+  checked_at: '2026-11-23T16:13:13Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 1109-I/2000
 
-de 27 de Novembro
-
 No âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006 foram aprovados o Programa Operacional de Agricultura e Desenvolvimento Rural (Programa AGRO), bem como os programas operacionais de âmbito regional onde se inclui a medida Agricultura e Desenvolvimento Rural, abreviadamente designada por AGRIS.
 
 A medida AGRIS pretende garantir a promoção e o desenvolvimento das zonas rurais, nomeadamente através do desenvolvimento e aperfeiçoamento das infra-estruturas ligadas às explorações agrícolas.
 
-A medida AGRIS integra assim a acção «Caminhos e electrificação agro-rurais», enquadrada no âmbito do Regulamento (CE) n.º [1257/1999](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio, travessão 9 do artigo 33.º, e através da qual se pretende, designadamente, melhorar as acessibilidades nas zonas rurais.
+A medida AGRIS integra assim a acção «Caminhos e electrificação agro-rurais», enquadrada no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de Maio, travessão 9 do artigo 33.º, e através da qual se pretende, designadamente, melhorar as acessibilidades nas zonas rurais.
 
 Assim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
 
@@ -166,9 +164,7 @@ Em 31 de Outubro de 2000.
 
 A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
-## ANEXO
-
-Regulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais»
+## Anexo — Regulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais»
 
 ###### Artigo 1.º — Objecto
 
@@ -200,7 +196,7 @@ b) Caminhos rurais: autarquias locais.
 
 2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.
 
-> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
+> Alterado pelo/a Assinatura 11.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20.
 
 ###### Artigo 6.º — Despesas elegíveis
 
@@ -214,7 +210,7 @@ c) Acompanhamento e fiscalização das obras;
 
 d) Controlo de qualidade em ensaios.
 
-> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
+> Alterado pelo/a Assinatura 11.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20.
 
 ###### Artigo 7.º — Apresentação das candidaturas
 
@@ -234,7 +230,7 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessas competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
-2 - As candidaturas são decididas nos meses de Abril e Outubro, só podendo ser objecto de decisão aquelas que tenham sido apresentadas até ao fim dos meses de Fevereiro e Agosto, respectivamente.
+2 - (Revogado.)
 
 3 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.
 
@@ -262,7 +258,7 @@ h) Localização em zonas desfavorecidas.
 
 1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário no prazo máximo de 30 dias a contar da data da notificação ao interessado e àquele Instituto da aprovação da candidatura.
 
-2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas.
+2 -  (Revogado.)
 
 ###### Artigo 12.º — Obrigações dos beneficiários
 
@@ -276,7 +272,7 @@ b) Assegurar a conservação e manutenção dos caminhos após a conclusão da o
 
 1 - A elaboração dos estudos e dos projectos de investimento e a execução das obras são da responsabilidade dos proponentes.
 
-2 - O início das obras só poderá efectuar-se depois da assinatura do contrato e após a sua comunicação pelo beneficiário à entidade fiscalizadora, de modo a permitir um correcto acompanhamento das mesmas.
+2 - O início das obras só se poderá concretizar após a data de apresentação da candidatura.
 
 3 - Os prazos de início e conclusão das obras são estabelecidos no contrato.
 
@@ -290,7 +286,7 @@ As alterações aos projectos serão apreciadas e decididas de acordo com o proc
 
 2 - O primeiro pagamento da ajuda só será efectuado após a realização de 5% do investimento elegível.
 
-3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas.
+3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.
 
 ###### Artigo 16.º — Candidaturas apresentadas no âmbito do QCA II
 

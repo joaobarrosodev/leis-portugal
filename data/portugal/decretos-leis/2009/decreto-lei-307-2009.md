@@ -95,7 +95,7 @@ version_history:
     - Altera Artigo 17.º
     - Altera Artigo 18.º
     - Altera Artigo 19.º
-    - Altera Artigo 20.º
+    - Altera Artigo 25.º
   - date: '2015-01-07'
     amending: pt:dre:56501680:por
     amending_title: Decreto-Lei n.º 136/2014
@@ -155,18 +155,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/307/2009/p/cons/20260529/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34511675
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34511675
-  retrieved_at: '2026-10-22T11:47:37Z'
+  retrieved_at: '2026-11-20T15:50:38Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: aac22065c01fe3824c1ae68e70ea01490aab2a1d61dcb52e925b83cbdaa685c0
+  source_sha256: c348f5be7af9112e6bd5de28e6841339179eade13a9b25ddd2580d31f5b6fbee
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:47:37Z'
+  generated_at: '2026-11-20T15:50:38Z'
   notes: 8 versão(ões); histórico completo em decreto-lei-307-2009.versoes.json.
 reuse:
   status: permitted
@@ -295,7 +295,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:47:37Z'
+  checked_at: '2026-11-20T15:50:38Z'
   warnings: []
   errors: []
 ---
@@ -662,13 +662,13 @@ A aprovação de uma operação de reabilitação urbana obriga a respetiva enti
 
 1 - A operação de reabilitação urbana aprovada através de instrumento próprio vigora pelo prazo fixado na estratégia de reabilitação urbana ou no programa estratégico de reabilitação urbana, com possibilidade de prorrogação, não podendo, em qualquer caso, vigorar por prazo superior a 15 anos a contar da data da referida aprovação.
 
-2 -Tratando-se de alteração do tipo de operação de reabilitação urbana de sistemática para simples, não há lugar à discussão pública.
+2 - A prorrogação prevista no número anterior é aprovada pela assembleia municipal, sob proposta da câmara municipal.
 
 3 - A operação de reabilitação urbana aprovada através de plano de pormenor de reabilitação urbana vigora pelo prazo de execução do mesmo, não podendo, em qualquer caso, vigorar por prazo superior a 15 anos a contar da data da referida aprovação.
 
 4 - O disposto nos números anteriores não obsta a que, findos aqueles prazos, possa ser aprovada nova operação de reabilitação urbana que abranja a mesma área.
 
-> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/32-2012-175306), em vigor a partir de 2012-09-13
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/32-2012-175306).
 
 ###### Artigo 20.º-A — Acompanhamento e avaliação da operação de reabilitação urbana
 

@@ -91,6 +91,92 @@
     "1025319575",
     "1025319775"
    ]
+  },
+  {
+   "date": "2001-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:576276:por",
+     "title": "Decreto-Lei n.º 315/2001",
+     "published": "2001-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/315-2001-576276"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "1025306175",
+    "1025306375",
+    "1025306575",
+    "1025306775",
+    "1025306975",
+    "1025307175",
+    "1025307375",
+    "1025307575",
+    "1025307775",
+    "1025307975",
+    "1025308175",
+    "1025308375",
+    "1025308575",
+    "1025308775",
+    "1025308975",
+    "1025309175",
+    "1025309375",
+    "1025309575",
+    "1025309775",
+    "1025309975",
+    "1025310175",
+    "1197107875",
+    "1196585275",
+    "1025310775",
+    "1025310975",
+    "1025311175",
+    "1025311375",
+    "1025311575",
+    "1025311775",
+    "1025311975",
+    "1195838575",
+    "1025312375",
+    "1025312575",
+    "1025312775",
+    "1025312975",
+    "1025313175",
+    "1025313375",
+    "1025313575",
+    "1025313775",
+    "1025313975",
+    "1025314175",
+    "1025314375",
+    "1025314575",
+    "1025314775",
+    "1025314975",
+    "1025315175",
+    "1025315375",
+    "1025315575",
+    "1025315775",
+    "1025315975",
+    "1025316175",
+    "1025316375",
+    "1025316575",
+    "1025316775",
+    "1025316975",
+    "1025317175",
+    "1025317375",
+    "1025317575",
+    "1025317775",
+    "1025317975",
+    "1025318175",
+    "1025318375",
+    "1025318575",
+    "1025318775",
+    "1025318975",
+    "1025319175",
+    "1025319375",
+    "1025319575",
+    "1025319775"
+   ]
   }
  ],
  "fragments": {
@@ -651,6 +737,17 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo I — Mapa a que se refere o n.º 2 do artigo 48.º\n\n(ver documento original)"
+  },
+  "1197107875": {
+   "fragment_id": "1025310275",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção-Geral das Relações Económicas Internacionais",
+   "in_force_from": "2001-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), em vigor a partir de 2001-12-15, com efeitos a partir de 2002-07-07.",
+    "Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
+   ],
+   "markdown": "###### Artigo 16.º — Direcção-Geral das Relações Económicas Internacionais\n\n1 - É criada a Direcção-Geral das Relações Económicas Internacionais.\n\n2 - A Direcção-Geral das Relações Económicas Internacionais é um serviço dotado de autonomia administrativa, responsável no domínio das relações económicas internacionais pela formulação de políticas e pela dinamização de acções numa lógica integrada, bem como pela coordenação e apoio técnico do Ministério da Economia em matérias relacionadas com a União Europeia e outras organizações internacionais de carácter económico, competindo-lhe:\n\na) Contribuir para a definição e execução das políticas que enquadram o relacionamento económico externo, em articulação com o Ministério dos Negócios Estrangeiros, apoiando o Governo no acompanhamento da actividade das organizações internacionais de carácter económico, designadamente as respeitantes à Organização Mundial do Comércio, e na formulação e execução da política comercial da União Europeia;\n\nb) Contribuir para a internacionalização das empresas industriais, comerciais e de serviços, mediante a criação de uma envolvente favorável à inovação e ao desenvolvimento tecnológico daquelas empresas, articulando a sua projecção externa com os movimentos de investimento directo estrangeiro;\n\nc) Colaborar com outras entidades oficiais nas negociações de acordos de cooperação económica e apoiar o desenvolvimento da cooperação económica externa, bilateral e multilateral;\n\nd) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia;\n\ne) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito da União Europeia nas áreas da indústria, energia, comércio e turismo, promovendo as necessárias adaptações estruturais, institucionais e legais;\n\nf) Coordenar a representação do Ministério da Economia nas organizações internacionais de carácter económico no domínio das suas atribuições, nomeadamente através da participação nos comités e grupos de trabalho da Organização para a Cooperação e Desenvolvimento Económico (OCDE).\n\n3 - A Direcção-Geral é dirigida por um director-geral, coadjuvado, no exercício das suas funções, por três subdirectores-gerais.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 315/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276) A alteração ao presente artigo produz efeitos na data da entrada em vigor das alterações a introduzir à estrutura orgânica da DGAIEC e às respectivas competências que são definidas por portaria do Ministro das Finanças.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), em vigor a partir de 2001-12-15, com efeitos a partir de 2002-07-07.\n\n> Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05."
   }
  },
  "unavailable_dates": [

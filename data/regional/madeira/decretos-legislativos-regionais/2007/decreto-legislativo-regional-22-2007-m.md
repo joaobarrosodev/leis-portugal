@@ -69,7 +69,7 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2007/12/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-119474490
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-119474490
-  retrieved_at: '2026-10-22T14:02:36Z'
+  retrieved_at: '2026-11-23T15:52:05Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-10-21T00:00:00Z'
@@ -80,7 +80,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:02:36Z'
+  generated_at: '2026-11-23T15:52:05Z'
   notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-22-2007-m.versoes.json.
 reuse:
   status: permitted
@@ -129,7 +129,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:02:36Z'
+  checked_at: '2026-11-23T15:52:05Z'
   warnings: []
   errors: []
 ---
