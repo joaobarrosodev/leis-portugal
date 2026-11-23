@@ -1,0 +1,26 @@
+[
+ {
+  "id": "pt:dre:374825:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — Universidade Lusíada",
+    "texto": "Curso de Matemáticas Aplicadas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)\n\nCurso de Arquitectura\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 5\n\n5.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nCurso de Relações Internacionais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/239b00/57285729.pdf)",
+    "alterador": 6
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, plano de estudos do curso de Economia (anexo I): outro diploma, é o plano anexo ao Despacho n.º 135/MEC/86\nAlterador 4, plano de estudos de Arquitectura da Universidade Lusíada em Vila Nova de Famalicão: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa (Portarias n.os 436/2000 e 539/2001); o curso de Famalicão funciona conjugado com as Portarias n.os 73/91 e 1209/93 e não há no anexo lugar próprio para o seu plano\nAlterador 5, plano de estudos de Arquitectura da Universidade Lusíada no Porto: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa; o curso do Porto funciona conjugado com as Portarias n.os 73/91 e 1132/91 e não há no anexo lugar próprio para o seu plano\nAlterador 7, novo plano de estudos de Arquitectura da Universidade Lusíada no Porto (substitui o da Portaria n.º 1196/2000): alvo incerto, pelo mesmo motivo do alterador 5\nAlterador 8, alteração do plano de Arquitectura (Porto) constante do anexo à Portaria n.º 1287/2001: outro diploma, altera o anexo da Portaria n.º 1287/2001",
+  "instrucoes": [
+   "Alterador 1 (Portaria 662/93): plano de Matemáticas Aplicadas substituído pelo anexo II (imagem) - aplicado no corpo do anexo; anexo I (Economia) é de outro diploma",
+   "Alterador 2 (Portaria 1010/93): plano de Relações Internacionais substituído (imagem) - aplicado no corpo do anexo",
+   "Alterador 3 (Portaria 436/2000): plano de Arquitectura (Lisboa) substituído (imagem) - aplicado e depois substituído pelo alterador 6",
+   "Alterador 4 (Portaria 1195/2000): plano de Arquitectura em Famalicão - nao_aplicavel (alvo incerto)",
+   "Alterador 5 (Portaria 1196/2000): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
+   "Alterador 6 (Portaria 539/2001): plano de Arquitectura (Lisboa) passa a ser o do anexo (Quadros n.os 1 a 5, imagem) e substitui o da Portaria 436/2000 - aplicado no corpo do anexo",
+   "Alterador 7 (Portaria 1287/2001): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
+   "Alterador 8 (Portaria 1296/2002): altera o anexo da Portaria 1287/2001 - outro diploma"
+  ]
+ }
+]

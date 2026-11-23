@@ -1,0 +1,77 @@
+[
+ {
+  "id": "pt:dre:176301:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 1 conforme DL 27/74; n.º 2 conforme DL 192/84 art. 3.º (substitui a redação do DL 27/74); n.º 5 conforme DL 183-F/80 art. 3.º; restantes iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 19/89.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 19/89.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "dúvida",
+    "motivo": "Revogado pelo art. 2.º do DL 19/89, corpo (Revogado.) certo; mas o original termina com a linha 'Serviços sociais' (título da secção seguinte colado ao artigo) que desapareceu do consolidado; não se vê na vista se foi reposta antes do art. 19.º.",
+    "texto_esperado": "(Revogado.) [mais, se o título 'Serviços sociais' fizer parte do texto, a linha 'Serviços sociais']"
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 103/76 (alíneas a) e b)); n.º 2 igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 4 revogados pelo DL 191-A/79 (n.os 1 a 4 do art. 46.º); n.º 5 igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Rectificação: correções ao mapa do pessoal civil dos Ministérios civis (categorias F, I, J, O, P, Q, R, S, U)",
+    "motivo": "o mapa só existe em imagem no original e o consolidado não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "DL 30/70",
+    "motivo": "o diploma na vista não traz texto de alteração do original"
+   },
+   {
+    "instrucao": "DL 514/70 art. 1.º: alteração dos mapas anexos (civis e militares)",
+    "motivo": "o texto novo só vem em imagem (ver documento original) e o consolidado não tem anexo com título"
+   },
+   {
+    "instrucao": "DL 142/75 art. 2.º: aditado lugar de secretário-geral no quadro do Ministério da Comunicação Social, com categoria B do mapa",
+    "motivo": "altera o quadro de outro serviço, não o texto do original nem do seu mapa (que está só em imagem)"
+   },
+   {
+    "instrucao": "DL 96/76 arts. 1.º e 2.º: eliminação de designações na categoria Q e alteração da categoria L do mapa dos departamentos militares",
+    "motivo": "só em imagem; o consolidado não tem anexo com título"
+   },
+   {
+    "instrucao": "DL 191/76 art. 1.º: eliminação da distribuição por classes na categoria de telefonista do mapa",
+    "motivo": "só em imagem; o consolidado não tem anexo com título"
+   },
+   {
+    "instrucao": "DL 191-A/79 art. 2.º n.º 2: suspensão das alíneas c) e d) do n.º 1 e do n.º 2 do art. 30.º",
+    "motivo": "não textual: suspensão até novo diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "possível perda do título 'Serviços sociais' que no original aparece no fim do art. 18.º (ver art. 18.º); resto sem alterações"
+ }
+]

@@ -7,9 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:571971:por
+    title: Declaração de Rectificação n.º 13-P/2001
+    publication_date: '2001-06-30'
   - id: pt:dre:466431:por
     title: Decreto Legislativo Regional n.º 28-A/2001/M
     publication_date: '2001-11-13'
+  - id: pt:dre:220114:por
+    title: Decreto Legislativo Regional n.º 6/2005/M
+    publication_date: '2005-06-01'
   - id: pt:dre:73766218:por
     title: Decreto Legislativo Regional n.º 10/2016/M
     publication_date: '2016-03-03'
@@ -63,33 +69,13 @@ b) Mapa IX, com os programas e projectos plurianuais.
 
 5 - Nos termos do n.º 3 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a conceder auxílios financeiros, até ao montante de 20000 contos, para edifícios sede de autarquias locais negativamente afectadas na respectiva funcionalidade.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
-
 > Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 ###### Artigo 5.º — Linha de crédito bonificada
 
-1 - Nos termos do n.º 7 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a celebrar protocolos com instituições financeiras com vista à criação de uma linha de crédito bonificada, até ao montante de 7 milhões de contos, a favor das autarquias locais, associações de municípios ou empresas concessionárias destes, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER e aprovados no âmbito do III Quadro Comunitário de Apoio.
+(Revogado.)
 
-2 - O Governo Regional comparticipará até 70% do valor dos juros a suportar no âmbito da linha de crédito a que se refere o número anterior.
-
-3 - Os empréstimos referidos no n.º 1 deste artigo estão sujeitos às seguintes condições:
-
-a) O prazo dos empréstimos a contrair no âmbito da linha de crédito referida no n.º 1 deste artigo não poderá exceder 15 anos, contados da data da primeira utilização do capital, admitindo-se um período de carência até 7 anos;
-
-b) O período de utilização do capital não poderá exceder seis anos, contados da data da primeira utilização;
-
-c) Os juros serão contados sobre o capital em dívida, à taxa de juro contratual, e calculados e pagos trimestral e postecipadamente pelo método das taxas equivalentes. Durante o período de utilização, os juros serão contados dia a dia sobre o capital efectivamente utilizado;
-
-d) O reembolso dos empréstimos será efectuado em prestações trimestrais, iguais e sucessivas, de capital e juros, determinadas pelo método das taxas equivalentes.
-
-4 - As condições de acesso bem como as condições dos empréstimos e da atribuição das bonificações serão definidas através de decreto regulamentar regional.
-
-> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), publicado em 2005-06-01.
 
 ###### Artigo 6.º
 
@@ -235,7 +221,9 @@ c) Sem limite, pelos secretários regionais, pelo Vice-Presidente e pelo Preside
 
 ###### Artigo 22.º — Apoio a entidades de utilidade pública
 
-Fica o Governo Regional autorizado a apoiar entidades de utilidade pública, mediante a celebração de contratos-programa e desde que esteja devidamente fundamentada a prossecução efectiva da satisfação das necessidades públicas e da melhoria da dualidade de vida das populações.
+Fica o Governo Regional autorizado a apoiar entidades de utilidade pública, mediante a celebração de contratos-programa e desde que esteja devidamente fundamentada a prossecução efectiva da satisfação das necessidades públicas e da melhoria da qualidade de vida das populações.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 13-P/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-p-2001-571971), publicado em 2001-06-30.
 
 ###### Artigo 23.º — Apoio humanitário
 
@@ -321,7 +309,7 @@ As despesas relativas aos programas e projectos que, nos termos do presente dipl
 
 Em todos os actos legislativos onde se faz referência ao Instituto de Desenvolvimento Regional deverá ler-se Instituto de Gestão de Fundos Comunitários.
 
-> Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
+> Aditado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), publicado em 2001-11-13.
 
 ###### Artigo 36.º — Encargos com parques industriais
 

@@ -5039,61 +5039,61 @@ MAPA I
 
 Alfândegas, delegações e subdelegações, postos de despacho e postos fiscais habilitados a despachar
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA II
 
 Postos fiscais e sua distribuição pelas alfândegas
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA III
 
 Quadro do pessoal técnico-aduaneiro e sua distribuição
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+(ver documento original)
 
 MAPA IV
 
-Remunerações do pessoal técnico-aduaneiro
+Remunerações do pessoal técnico aduaneiro
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+(ver documento original)
 
 MAPA V
 
-Quadros e vencimentos do pessoal auxiliar técnico-aduaneiro
+Quadro e vencimentos do pessoal auxiliar técnico-aduaneiro
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA VI
 
-Quadros e vencimentos do pessoal do laboratório
+Quadro e vencimentos do pessoal do laboratório
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/14300/10561058.pdf)
 
 MAPA VII
 
-Quadros e remunerações do pessoal de tesouraria
+Quadro e remunerações do pessoal de tesouraria
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA VIII
 
-Quadros e vencimentos do pessoal administrativo
+Quadro e vencimentos do pessoal administrativo
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/14300/10561058.pdf)
 
 MAPA IX
 
-Quadros e vencimentos do pessoal do serviço do tráfego
+Quadros e vencimentos do pessoal do serviço de tráfego
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA X
 
-Quadros e remunerações do pessoal do serviço fluvial e marítimo
+Quadro e remunerações do pessoal do serviço fluvial e marítimo
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09201/05070597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23400/14391455.pdf)
 
 MAPA XI
 

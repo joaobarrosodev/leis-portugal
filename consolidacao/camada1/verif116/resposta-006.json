@@ -1,0 +1,109 @@
+[
+ {
+  "id": "pt:dre:193229:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 46746 artigo único: novo § 3.º do art. 7.º; consolidado igual ao texto novo, §§ 1.º e 2.º mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 47114 art. 2.º: nova redação do art. 12.º com § único; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 46290 art. 2.º: nova redação do art. 13.º (forças terrestres, navais e aéreas); consolidado igual, com o link do DL 31896 do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 46815 art. 1.º: art. 16.º e § único substituídos; consolidado igual (corpo, alíneas a) a d) e § único).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 47550 art. 18.º revoga os arts. 17.º, 18.º e 19.º do original; consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 47550 art. 18.º revoga o art. 18.º; consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 47550 art. 18.º revoga o art. 19.º (e o art. 1.º do DL 46290 que lhe aditava n.os 9.º e 10.º e alterava o n.º 7.º, a)); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "DL 46290 art. 2.º: nova redação do art. 43.º; consolidado igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46290 art. 3.º: alteração das tabelas n.º 10 e 11 (gratificações de representação)",
+    "motivo": "Tabelas só existem em imagem no original; o consolidado não tem anexo com título onde as pôr."
+   },
+   {
+    "instrucao": "DL 46815 art. 2.º: substituição da tabela n.º 17",
+    "motivo": "Texto novo só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "DL 47114 art. 1.º: vencimentos de Cabo Verde passam a ser os da Guiné e S. Tomé e Príncipe",
+    "motivo": "Não textual: remissão para as tabelas anexas, sem nova redação de qualquer artigo."
+   },
+   {
+    "instrucao": "DL 47501 artigo único e § único: gratificação de 400$00 ao pessoal com especialidade «comando» e aditamento às tabelas n.os 10 e 13",
+    "motivo": "A gratificação é disposição autónoma sem nova redação de artigo; o aditamento às tabelas só existe em imagem, sem anexo com título."
+   },
+   {
+    "instrucao": "DL 47550 arts. 1.º a 17.º: novo regime de abonos",
+    "motivo": "Disposições autónomas do próprio diploma, sem dar nova redação a artigos do original (a única instrução dirigida ao original é a revogação do art. 18.º, aplicada)."
+   },
+   {
+    "instrucao": "DL 47756 artigo único: aditamento de quantitativos à tabela n.º 7",
+    "motivo": "A tabela 7 só existe em imagem no original; sem anexo com título onde pôr o aditamento."
+   },
+   {
+    "instrucao": "DL 47795 artigo único: substituição da tabela n.º 17",
+    "motivo": "Tabela nova só em imagem; sem anexo com título."
+   },
+   {
+    "instrucao": "DL 48793 art. 1.º: gratificação incluída na tabela n.º 10 (Macau)",
+    "motivo": "Tabela só em imagem; sem anexo com título."
+   },
+   {
+    "instrucao": "DL 266/70 art. 1.º: substituição das tabelas n.os 1 a 9",
+    "motivo": "Tabelas novas só em imagem; sem anexo com título."
+   },
+   {
+    "instrucao": "DL 133/72 art. 2.º: gratificação de pisteiro aditada às tabelas n.os 10 a 16",
+    "motivo": "Tabelas só em imagem; sem anexo com título."
+   },
+   {
+    "instrucao": "DL 228/72 art. 1.º: gratificação incluída na tabela n.º 10 (Timor)",
+    "motivo": "Tabela só em imagem; sem anexo com título."
+   },
+   {
+    "instrucao": "DL 233/74 arts. 1.º a 3.º: prés das praças, reajuste da tabela 8, abolição da classificação de 1.ª e 2.ª",
+    "motivo": "Não textual: remissões e mudança de designação sem nova redação de artigos; tabelas só em imagem e a tabela 8 não vem reajustada em texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

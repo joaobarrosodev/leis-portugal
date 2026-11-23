@@ -738,13 +738,11 @@ Compete ao IGP a fiscalização do cumprimento do disposto no presente decreto-l
 
 ###### Artigo 52.º — Período experimental
 
-1 - O prazo de aplicação do regime experimental previsto no presente decreto-lei e a identificação das áreas a que o mesmo se aplica são estabelecidos em portaria do membro do Governo responsável pelo ordenamento do território, mantendo-se em vigor no restante território nacional o disposto no Regulamento do Cadastro Predial, aprovado pelo [Decreto-Lei n.º 172/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1995-462035), de 18 de Julho.
+1 - O prazo de aplicação do regime experimental previsto no presente decreto-lei e a identificação das áreas a que o mesmo se aplica são estabelecidos em portaria do membro do Governo responsável pelo ordenamento do território, mantendo-se em vigor no restante território nacional o disposto no Regulamento do Cadastro Predial, aprovado pelo Decreto-Lei n.º 172/95, de 18 de Julho.
 
 2 - Para efeitos do disposto no número anterior podem ser estabelecidas áreas que não coincidam, no seu âmbito territorial, com a delimitação das freguesias.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2011-287820), publicado em 2011-05-16.
-
-> Alterado pelo/a [Decreto-Lei n.º 65/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2011-287820), publicado em 2011-05-16.
 
 ###### Artigo 53.º — Avaliação e revisão
 

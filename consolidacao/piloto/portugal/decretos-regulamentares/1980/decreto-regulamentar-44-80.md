@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:450847:por
-    title: Decreto Regulamentar n.º 40/83
-    publication_date: '1983-05-10'
+  - id: pt:dre:520429:por
+    title: Decreto Regulamentar n.º 21/2007
+    publication_date: '2007-03-29'
   - id: pt:dre:453254:por
     title: Declaração de Rectificação n.º 49/2008
     publication_date: '2008-08-27'
-  - id: pt:dre:457470:por
-    title: Decreto Regulamentar n.º 69/80
-    publication_date: '1980-11-05'
 ---
 
 # Decreto Regulamentar n.º 44/80
@@ -42,47 +39,23 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ###### Artigo 1.º — Níveis de serviços
 
-A estrutura da Direcção-Geral do Património do Estado (DGPE) compreende os seguintes níveis de serviços operativos:
+(Revogado.)
 
-a) Serviços centrais;
-
-b) Serviços delegados;
-
-c) Serviços regionais.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO I — Orgânica dos serviços centrais
 
 ###### Artigo 2.º — Serviços centrais operativos
 
-Os serviços centrais operativos integram:
+(Revogado.)
 
-Direcção de Serviços de Cadastro e Inventário;
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
-Direcção de Serviços de Gestão Patrimonial;
+###### Artigo 3.º — Estrutura dos serviços centrais operativos
 
-Direcção de Serviços Especiais e de Inspecção Patrimonial;
+(Revogado.)
 
-Direcção de Serviços de Gestão de Veículos do Estado;
-
-Direcção de Serviços do Aprovisionamento Público.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
-
-###### Artigo 3.º — Estrutura dos serviços operativos
-
-1 - Os serviços centrais operativos da DGPE têm a seguinte estrutura:
-
-a) Direcção de Serviços de Cadastro e Inventário:
-
-e) Direcção de Serviços do Aprovisionamento Público:
-
-Divisão de Racionalização de Consumos;
-
-Divisão de Coordenação de Aquisições;
-
-Divisão de Divulgação e Controle.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### Divisão de Móveis;
 
@@ -108,139 +81,31 @@ d) Direcção de Serviços de Gestão de Veículos do Estado.
 
 ###### Artigo 4.º — Atribuições genéricas
 
-Incumbe genericamente às direcções de serviços referidas no artigo anterior:
+(Revogado.)
 
-a) Informar sobre a aplicação da lei nos casos concretos que sejam submetidos a apreciação ou decisão dos serviços centrais e esclarecer as dúvidas postas por outros serviços;
-
-b) Propor instruções para a correcta aplicação das disposições legais respectivas, em ordem à eficácia dos serviços e à harmonização doutrinária;
-
-c) Colaborar na realização de estudos e na preparação das normas inerentes ao exercício da actividade de gestão patrimonial, propondo as medidas de revisão e actualização que se mostrem necessárias;
-
-d) Estabelecer ligação com o núcleo de informática da DGPE, fornecendo os elementos para a produção das informações referentes à gestão patrimonial;
-
-e) Executar quaisquer outras actividades relacionadas com a gestão patrimonial que lhe sejam cometidas por lei ou por determinação do director-geral.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 5.º — Atribuições específicas
 
-1 - À Direcção de Serviços de Cadastro e Inventário incumbe, através da suas divisões:
+(Revogado.)
 
-a) Manter actualizado e normalizado, em colaboração com o Ministério das Obras Públicas, o cadastro das instalações da Administração Pública;
-
-b) Receber, conferir, classificar e tratar os elementos do cadastro dos bens do Estado;
-
-c) Processar as operações relativas à elaboração do inventário geral dos bens do Estado, em ordem à organização da conta do património.
-
-2 - À Divisão de Aquisições e de Arrendamentos para o Estado cabe:
-
-a) Propor a compra para o Estado de bens imóveis ou de direitos a eles respeitantes, ouvidos os departamentos técnicos competentes dos demais Ministérios;
-
-b) Assegurar o processamento dos actos relativos à aquisição de imóveis para instalação de serviços públicos ou outros fins;
-
-c) Assegurar a instrução dos processos de arrendamento para o Estado, até à respectiva autorização;
-
-d) Assegurar o processamento dos actos relativos à aquisição de móveis a título oneroso, nos casos em que a lei o determine;
-
-e) Proceder à afectação dos imóveis aos diversos serviços ou entidades;
-
-f) Assegurar o processamento dos actos relativos a heranças, legados e doações a favor do Estado;
-
-g) Assegurar o processamento dos actos relativos à prescrição de títulos e outros valores;
-
-h) Assegurar o processamento do expediente relativo aos actos de registo subsequentes à aquisição, incluindo os actos de regularização e registo de veículos automóveis.
-
-3 - À Divisão de Administração Patrimonial compete:
-
-a) Assegurar o processamento dos actos relativos ao arrendamento de bens do Estado;
-
-b) Assegurar o processamento dos actos relacionados com a conservação e valorização dos bens do Estado na directa administração da DGPE;
-
-c) Assegurar os demais actos de gestão dos bens do Estado, nos termos que a lei definir.
-
-4 - À Divisão de Alienação de Bens incumbe:
-
-a) Assegurar o processamento dos actos relacionados com a venda de bens do Estado;
-
-b) Assegurar o processamento dos actos relacionados com a cessão definitiva de bens do Estado;
-
-c) Assegurar o processamento dos actos decorrentes da aplicação do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940.
-
-5 - À Direcção de Serviços Especiais e de Inspecção Patrimonial incumbe, através da Divisão de Serviços Especiais, assegurar o processamento de todos os actos relacionados com a coordenação da gestão e dos planos de actividade dos palácios e monumentos nacionais e do Arquivo Histórico do Ministério das Finanças enquanto não se operar a prevista transferência para o Instituto Português do Património Cultural.
-
-6 - À Divisão de Inspecção Patrimonial cabe:
-
-a) Assegurar o processamento de todos os actos relacionados com a verificação da utilização que os serviços fazem dos bens do Estado que lhes estão afectos;
-
-b) Assegurar o processamento dos actos relacionados com um aproveitamento racional dos bens do património do Estado.
-
-7 - À Direcção de Serviços de Gestão de Veículos do Estado incumbem as atribuições conferidas pelo [Decreto-Lei n.º 49/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1978-447689), de 23 de Março, e pelo [Decreto Regulamentar n.º 69/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1979-365762), de 28 de Dezembro.
-
-8 - A Direcção de Serviços referida no número anterior será efectivamente implementada no âmbito da DGPE, nos termos e condições do artigo 17.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro.
-
-9 - À Divisão de Racionalização de Consumos compete:
-
-a) Estudar e propor as exigências técnicas a que deverão obedecer as aquisições públicas nos aspectos de concepção/construção e utilização/conservação, numa perspectiva de equilíbrio do custo com a eficácia;
-
-b) Seleccionar os métodos de verificação da qualidade dos produtos;
-
-c) Preparar os elementos de carácter técnico a integrar nos contratos e assegurar a análise técnica das propostas;
-
-d) Estudar os dossiers de fabrico compatíveis com as exigências técnicas das especificações dos produtos;
-
-e) Promover, em colaboração com as entidades especializadas, os testes necessários à verificação do cumprimento das cláusulas técnicas;
-
-f) Estabelecer regras de apoio técnico à recepção dos produtos e acompanhar os serviços na sua execução.
-
-10 - À Divisão de Coordenação de Aquisições compete:
-
-a) Estudar e propor as exigências económicas que deverão integrar os contratos e proceder à análise económica das propostas;
-
-b) Desenvolver estudos e assegurar a revisão e actualização dos preços dos bens e serviços integrados nos contratos e elaborar as fórmulas de revisão tipo quando esteja prevista a sua aplicação;
-
-c) Proceder à determinação global das necessidades de aquisição com base nos elementos fornecidos pelas entidades públicas em ordem à programação das aquisições;
-
-d) Desenvolver estudos económicos de prospecção e evolução dos mercados;
-
-e) Orientar os agrupamentos de ecomenda;
-
-f) Promover junto dos fornecedores a recolha de dados quanto à utilização dos contratos na modalidade de compra directa.
-
-11 - À Divisão de Divulgação e Controle compete:
-
-a) Elaborar e difundir pelos serviços públicos toda a informação com interesse para a melhoria dos aprovisionamentos;
-
-b) Assegurar a divulgação aos serviços públicos dos contratos celebrados com os fornecedores;
-
-c) Promover a elaboração de estatísticas dos contratos de aprovisionamento celebrados pelos serviços públicos;
-
-d) Proceder ao lançamento de inquéritos e ao tratamento e recolha de dados sobre consumos e preferências dos serviços;
-
-e) Apoiar os serviços ou comissões de aprovisionamento específico.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO II — Serviços de apoio técnico
 
 ##### SUBSECÇÃO I
 
-###### Artigo 6.º
+###### Artigo 6.º — Divisão de Estudos Patrimoniais
 
-Divisão de Estudos Patrimoniais
+(Revogado.)
 
-A Divisão de Estudos Patrimoniais é um serviço de apoio técnico cuja acção se enquadra no âmbito da investigação e do estudo relacionados com a gestão patrimonial, ao qual incumbe:
-
-a) Realizar trabalhos de investigação nos domínios respeitantes à gestão patrimonial e matérias afins;
-
-b) Realizar estudos preparatórios de diplomas legislativos sobre matéria no âmbito dos objectivos da DGPE e participar na respectiva elaboração;
-
-c) Emitir parecer nos processos que lhe sejam submetidos pelo director-geral;
-
-d) Colaborar com a Direcção de Serviços Administrativos, através da Divisão de Pessoal, na elaboração dos textos de apoio às acções de formação e sua revisão periódica;
-
-e) Colaborar nos estudos e providências necessários à implementação de um plano racional de instalações para os serviços públicos e na execução de medidas para a instalação desses serviços nos casos de urgência;
-
-f) Manter actualizado um ficheiro geral de legislação onde se reúnam de forma sistematizada e de fácil consulta todos os elementos que contenham doutrina ou contribuam para a interpretação e esclarecimento dos preceitos legais.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 7.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### Divisão Técnica de Obras e Avaliação
 
@@ -254,85 +119,15 @@ b) Vistoriar os prédios do Estado, pronunciar-se sobre as obras de que careçam
 
 ###### Artigo 8.º — Núcleo de informática
 
-O núcleo de informática é o serviço de apoio instrumental cuja acção se enquadra no domínio do tratamento automático das informações, é chefiado por um director de serviços e incumbe-lhe:
+(Revogado.)
 
-a) Cooperar com os serviços do Instituto de Informática e outros serviços congéneres nas fases de levantamento e estudo prévio, bem como na implantação de novas aplicações informáticas;
-
-b) Estabelecer permanente ligação ao centro processador, com vista ao bom andamento das tarefas correntes;
-
-c) Executar e coordenar as actividades relacionadas com a exploração de equipamentos periféricos, nomeadamente para a obtenção, em suportes adequados, das informações a tratar;
-
-d) Transmitir aquelas informações ao centro processador em data oportuna e condições controladas de exactidão;
-
-e) Receber do centro os produtos do tratamento e, após o respectivo contrôle, remetê-los aos vários serviços interessados.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 9.º — Direcção de Serviços Administrativos
 
-1 - A Direcção de Serviços Administrativos é um serviço de apoio instrumental e tem a seguinte estrutura:
+(Revogado.)
 
-Repartição de Pessoal;
-
-Repartição de Contabilidade e Material;
-
-Repartição de Expediente e Arquivo.
-
-2 - À Repartição de Pessoal compete:
-
-a) Assegurar as tarefas administrativas relacionadas com a abertura de concursos ou de provas de selecção;
-
-b) Planificar as acções de formação e aperfeiçoamento profissional de acordo com as políticas e programas de formação superiormente aprovados;
-
-c) Apreciar e propor a elaboração dos programas de formação de acordo com as necessidades de preparação e desenvolvimento profissional;
-
-d) Assegurar a realização de provas de selecção para o ingresso e promoção nas carreiras profissionais;
-
-e) Promover a publicação de textos de apoio às acções de formação e proceder à sua actualização periódica;
-
-f) Assegurar os procedimentos administrativos respeitantes à nomeação e cessação de funções, à requisição dos funcionários e à contratação de pessoal e rescisão de contratos;
-
-g) Efectuar os movimentos de transferências e promoções;
-
-h) Assegurar os procedimentos relacionados com a concessão de licenças;
-
-i) Proceder ao contrôle das assiduidades;
-
-j) Elaborar a lista de antiguidade dos funcionários;
-
-k) Assegurar o expediente respeitante aos pedidos de aposentação, concessão de diuturnidades e benefícios sociais a que os funcionários tenham direito;
-
-l) Coordenar e controlar o registo das informações de serviço;
-
-m) Organizar e manter organizado o registo central dos funcionários da DGPE.
-
-3 - À Repartição de Contabilidade e Material cabe, designadamente:
-
-a) Elaborar as propostas orçamentais;
-
-b) Assegurar o expediente necessário ao pagamento das remunerações e abonos diversos aos funcionários;
-
-c) Propor, realizar e processar as despesas de acordo com o orçamento aprovado e o programa de actividade da DGPE e com observância das normas gerais referentes à contabilidade pública;
-
-d) Manter actualizado o inventário dos bens afectos à DGPE;
-
-e) Elaborar as propostas de aquisição de material;
-
-f) Superintender na organização das consultas e concursos públicos, bem como na elaboração de contratos escritos para aquisição de material;
-
-g) Gerir e assegurar a distribuição e velar pela manutenção do material necessário ao funcionamento dos serviços.
-
-4 - À Repartição de Expediente e Arquivo cabe, designamente:
-
-a) Assegurar os serviços de recepção, distribuição e expedição de correspondência;
-
-b) Organizar e manter em funcionamento os arquivos da DGPE;
-
-c) Fornecer aos serviços os elementos de arquivo que lhe forem solicitados;
-
-d) Assegurar a reprodução dos documentos necessários para a DGPE;
-
-e) Colaborar nos trabalhos de aperfeiçoamento da organização dos processos.
-
-3 - As atribuições de cada uma das repartições referidas nos números anteriores serão distribuídas por duas secções.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ### CAPÍTULO II — Do pessoal
 
@@ -342,15 +137,15 @@ e) Colaborar nos trabalhos de aperfeiçoamento da organização dos processos.
 
 ###### Artigo 10.º — Categorias, vencimentos e número de funcionários
 
-As categorias, letras de vencimento e número de funcionários da DGPE, de harmonia com o disposto no artigo 15.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, constam do mapa anexo ao presente decreto, que pode ser alterado, quer em efectivos, quer em categorias, sempre que os mesmos constem da lei geral, por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, com observância das normas constantes do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março, e da [Portaria n.º 133/80](https://diariodarepublica.pt/dr/detalhe/portaria/133-1980-677466), de 26 de Março.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 10.º-A
 
-1 - Os lugares previstos no mapa anexo ao presente diploma para a carreira de auxiliar de gestão patrimonial abrangem também a categoria de auxiliar de gestão patrimonial estagiário, a que corresponde o vencimento da letra M.
+(Revogado.)
 
-2 - Um dos lugares de subdirector-geral previstos no mapa anexo ao presente diploma será extinto quando vagar.
-
-> Aditado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+> Aditado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 11.º — Recrutamento para lugares de ingresso
 
@@ -360,47 +155,25 @@ As categorias, letras de vencimento e número de funcionários da DGPE, de harmo
 
 ###### Artigo 12.º — Grupos profissionais
 
-1 - O pessoal da DGPE integra-se num quadro geral e distribui-se pelos seguintes grupos profissionais:
+(Revogado.)
 
-a) Pessoal dirigente;
-
-b) Pessoal técnico superior;
-
-c) Pessoal técnico;
-
-d) Pessoal técnico de gestão patrimonial;
-
-e) Pessoal de informática;
-
-f) Pessoal técnico-profissional e administrativo;
-
-g) Pessoal operário semiqualificado e auxiliar.
-
-2 - O grupo do pessoal técnico superior abrangerá os conservadores dos palácios e monumentos nacionais, os bibliotecários-arquivistas do Arquivo Histórico do Ministério das Finanças e da biblioteca do Palácio Nacional de Mafra, cujo estatuto se rege essencialmente pelo disposto no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e os técnicos superiores licenciados em Direito, Economia, Finanças, Gestão de Empresas ou Engenharia.
-
-3 - (Revogado.)
-
-4 - O grupo do pessoal de informática integra as carreiras de controlador de trabalho, operador de registo de dados, operador, programador e analista.
-
-> Alterado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ##### SUBSECÇÃO II — Provimento e nomeação do pessoal dirigente
 
 ###### Artigo 13.º
 
-O provimento e nomeação do pessoal dirigente, cujos níveis são os constantes do mapa I anexo ao presente decreto, é feito nos termos da lei geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO III — Provimento do pessoal integrado em carreiras
 
 ###### Artigo 14.º
 
-1 - O provimento do pessoal pertencente a categorias de ingresso integradas em carreiras profissionais terá carácter provisório durante um ano, findo o qual os funcionários serão nomeados definitivamente se tiverem revelado aptidão para o lugar, ou exonerados, no caso contrário.
+(Revogado.)
 
-2 - A conversão da nomeação em definitiva ou a exoneração referidas no número anterior deverão ser propostas pelo director-geral até ao fim do mês seguinte ao do termo daquele prazo, continuando entretanto os funcionários na mesma situação.
-
-3 - (Revogado.)
-
-> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO II — Dinâmica das carreiras
 
@@ -422,63 +195,47 @@ O provimento e nomeação do pessoal dirigente, cujos níveis são os constantes
 
 (Revogado.)
 
-> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
+SUBSEÇÇÃO II
+
+Pessoal técnico superior
+
+> Alterado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 18.º — Provimento
 
-1 - O provimento do pessoal técnico superior é feito nos termos da lei geral.
+(Revogado.)
 
-2 - O provimento dos conservadores dos palácios e monumentos nacionais será feito de entre habilitados com o curso superior e especialização adequada ao exercício das respectivas funções.
-
-3 - O provimento dos bibliotecários é feito de entre habilitados com licenciatura, complementada com curso específico, nos termos do artigo 4.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO III — Pessoal técnico
 
 ###### Artigo 19.º — Provimento
 
-O provimento do pessoal técnico é feito nos termos da lei geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO IV — Pessoal de informática
 
 ###### Artigo 20.º — Recrutamento
 
-O pessoal de informática é o constante do mapa I anexo e o seu recrutamento é feito nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO V — Pessoal técnico-profissional e administrativo
 
 ###### Artigo 21.º — Recrutamento
 
-1 - O recrutamento do pessoal técnico-profissional far-se-á nos seguintes termos, tendo preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da DGPE:
+(Revogado.)
 
-a) Técnico auxiliar principal, por concurso documental, de entre técnicos auxiliares de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
-
-b) Técnico auxiliar de 1.ª classe, por concurso documental, de entre técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
-
-c) Técnico auxiliar de 2.ª classe, por concurso de provas práticas, de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e formação complementar a que se refere o artigo 6.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto;
-
-d) Auxiliares técnicos principais, de entre auxiliares técnicos de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria;
-
-e) Auxiliares técnicos de 1.ª classe, de entre auxiliares técnicos de 2.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria;
-
-f) Auxiliares técnicos de 2.ª classe, por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória, de harmonia com a idade do candidato, bem como experiência e formação adequada à função a que se destinam.
-
-2 - O recrutamento do pessoal administrativo far-se-á nos seguintes termos:
-
-a) Escriturários-dactilógrafos, nos termos da lei geral, tendo preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da DGPE;
-
-b) Terceiros-oficiais, mediante provas de selecção, às quais poderão concorrer indivíduos que possuam o curso geral do ensino secundário ou habilitação equivalente e que tenham, pelo menos, 18 anos de idade, tendo preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da DGPE;
-
-c) Segundos-oficiais, mediante provas de selecção entre terceiros-oficiais com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 24.º,
-
-d) Primeiros-oficiais, mediante provas de selecção entre segundos-oficiais com, pelo menos, três anos de serviço na categoria e habilitados com o curso geral do ensino secundário ou equivalente, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 24.º;
-
-e) Chefes de secção, de entre primeiros-oficiais com, pelo menos, três anos de serviço na categoria e aprovação no curso V mencionado no mapa III anexo ao presente diploma, sendo as nomeações efectuadas segundo a graduação estabelecida nos termos dos n.os 1 a 3 do artigo 24.º
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 22.º — Pessoal operário semiqualificado e pessoal auxiliar
 
-1 - O lugar de jardineiro será provido nos termos da lei geral.
+(Revogado.)
 
-2 - Os lugares de motorista, telefonista, operador de reprografia, encarregado de pessoal auxiliar, contínuo, guarda-nocturno, guarda e auxiliar de limpeza serão também providos nos termos da lei geral.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO III — Provas de selecção
 
@@ -486,141 +243,97 @@ e) Chefes de secção, de entre primeiros-oficiais com, pelo menos, três anos d
 
 ###### Artigo 23.º
 
-As normas reguladoras das provas de selecção serão as consignadas no diploma previsto no artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO II — Determinação do mérito dos candidatos para efeitos de promoção
 
-###### Artigo 24.º
+###### Artigo 24.º — Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.
 
-Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.
+(Revogado.)
 
-1 - Quando o recrutamento para as categorias de acesso das carreiras profissionais dependa da aprovação em provas finais a realizar após os estágios ou cursos, bem como de concursos de prestação de provas ou provas de apreciação curricular, a graduação far-se-á com base nos seguintes factores:
-
-a) Nota obtida nos provas finais, nos concursos ou nas provas de apreciação curricular;
-
-b) Classificação de serviço referente à média dos três últimos anos;
-
-c) Antiguidade na categoria.
-
-2 - O factor referido na alínea a) do número anterior será ponderado com o coeficiente 2, o factor referido na alínea b) com o coeficiente 1 e a antiguidade será valorizada com 0,2 valores por ano completo de serviço na categoria ou cargo até ao máximo de dez anos.
-
-3 - A classificação final dos candidatos será a média dos factores mencionados nas alíneas a) e b) do n.º 1 aumentada da valorização atribuída ao factor referido na alínea c), sendo excluídos os candidatos que obtiverem menos de 10 valores nas provas finais, nos concursos ou nas provas de apreciação curricular.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 25.º — Promoções não baseadas na realização de provas
 
-Quando o recrutamento para as categorias de acesso das carreiras profissionais não dependa da realização de provas, a determinação do mérito dos candidatos tendo em vista a respectiva graduação far-se-á com base nos factores b) e c) indicados no n.º 1 do artigo anterior, sendo excluídos os candidatos com média de classificação de serviço inferior a Bom no último triénio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 26.º — Preferências a atender em caso de igualdade de circunstâncias
 
-Nas nomeações para as categorias de acesso das carreiras profissionais terão preferência, em igualdade de circunstâncias, e sem prejuízo dos casos especiais previstos no presente diploma:
+(Revogado.)
 
-a) Os candidatos mais antigos na categoria;
-
-b) Os candidatos mais antigos na DGPE;
-
-c) Os candidatos mais antigos na função pública.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO IV — Requisição e contratação de pessoal
 
 ###### Artigo 27.º — Contrato além do quadro
 
-Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro, nos termos da lei geral, o pessoal indispensável à satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 28.º — Pessoal requisitado
 
-1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços com o acordo prévio do funcionário a requisitar e a anuência do membro do Governo de que dependa, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
+(Revogado.)
 
-2 - O período de requisição, que será previamente fixado, não poderá exceder a duração de um ano, prazo este que joderá ser prorrogado por uma só vez.
-
-3 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO V — Avaliação de mérito
 
 ###### Artigo 29.º
 
-A avaliação de mérito será feita nos termos que vierem a ser definidos pela lei geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO VI — Das competências
 
 ##### SUBSECÇÃO I
 
-###### Artigo 30.º
+###### Artigo 30.º — Pessoal técnico superior
 
-Pessoal técnico superior
+(Revogado.)
 
-1 - Incumbe ao pessoal técnico superior, conforme a sua especialidade, a realização dos trabalhos necessários à prossecução dos objectivos da DGPE.
-
-2 - Aos conservadores dos palácios e monumentos nacionais, ao director do Arquivo Histórico do Ministério das Finanças e aos bibliotecários-arquivistas compete, designadamente:
-
-a) Conservar todo o conjunto de espécies à sua responsabilidade;
-
-b) Propor a aquisição de novas espécies;
-
-c) Catalogar e classificar as espécies cuja conservação lhes compete;
-
-d) Expor ao público, de forma sistematizada, as mesmas espécies;
-
-e) Conduzir acções de estudo e pesquisa visando a identificação e conhecimento do património a seu cargo, tendo em vista a sua conservação e divulgação;
-
-f) Dinamizar as relações desse património com o público;
-
-g) Promover a divulgação do mesmo património por meios gráficos e áudio-visuais.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 31.º — Pessoal de informática
 
-O conteúdo funcional das categorias afectas à área da informática é o constante do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 32.º — Do restante pessoal
 
-Aos funcionários sem funções específicas estabelecidas no presente decreto compete executar os serviços correspondentes aos seus cargos de que sejam encarregados pelos respectivos superiores hierárquicos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 #### SECÇÃO VII
 
-###### Artigo 33.º
+###### Artigo 33.º — Incompatibilidades
 
-Incompatibilidades
+(Revogado.)
 
-1 - É vedado aos funcionários da DGPE desempenhar qualquer actividade, pública ou privada.
-
-2 - Em casos especiais, devidamente justificados, poderá o Ministro das Finanças e do Plano autorizar o desempenho de actividades estranhas à DGPE.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ### CAPÍTULO III
 
 ###### Artigo 34.º — Prémio de gestão patrimonial
 
-O direito à percepção de remunerações até ao limite fixado no artigo 46.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, além dos respectivos vencimentos, em conformidade com o mapa anexo ao presente diploma, tornar-se-á efectivo pela seguinte forma:
+(Revogado.)
 
-1 - O prémio de gestão patrimonial é constituído pela importância correspondente a 1% do valor das operações ou rendimentos patrimoniais realizados ou fiscalizados pela DGPE.
-
-2 - Não participam no prémio de gestão patrimonial os funcionários do quadro da Direcção-Geral que, no exercício das suas funções, não intervenham, directa ou indirectamente, nas operações patrimoniais ou de fiscalização a que se refere o n.º 1, nomeadamente:
-
-a) O pessoal que exerce funções meramente administrativas;
-
-b) O pessoal operário semiqualificado;
-
-c) O pessoal auxiliar;
-
-d) O pessoal que tiver apenas a categoria de estagiário.
-
-3 - O prémio de gestão patrimonial será distribuído pelos funcionários não excluídos nos termos do n.º 2 do presente artigo na proporção dos respectivos vencimentos, com o limite máximo anual de 30% dos mesmos.
-
-4 - A distribuição referida no número anterior será feita trimestralmente, sendo as correspondentes folhas de despesa processadas pela Direcção dos Serviços Administrativos da DGPE em conta de verba apropriada inscrita no orçamento do Ministério das Finanças e do Plano.
-
-5 - No caso de, em face do apuramento correspondente ao valor das operações e rendimentos patrimoniais realizados durante um ano, se verificar que o prémio de gestão distribuído nesse ano foi inferior ao limite estabelecido no n.º 3 deste artigo, será a devida compensação efectivada no primeiro trimestre do ano seguinte.
-
-6 - O prémio de gestão patrimonial fica sujeito aos descontos e imposições legais que incidem sobre os vencimentos e só será devido quando haja lugar ao abono do correspondente vencimento de exercício.
-
-7 - O valor ilíquido do prémio de gestão patrimonial a distribuir por cada funcionário é arredondado trimestralmente para a centena de escudos imediatamente superior, independentemente do disposto na parte final do n.º 3.
-
-> Alterado pelo/a [Decreto Regulamentar n.º 69/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1980-457470), publicado em 1980-11-05.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ### CAPÍTULO IV — Contrato de mera prestação de serviços
 
 ###### Artigo 35.º — Contrato de mera prestação de serviços
 
-1 - A DGPE poderá celebrar contratos de mera prestação de serviços para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+(Revogado.)
 
-2 - Os contratos referidos no número anterior deverão ser reduzidos a escrito, deles constando as condições da sua prestação, o prazo de duração, a remuneração e a menção de que não conferem em caso algum a qualidade de agente administrativo.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
@@ -628,45 +341,51 @@ d) O pessoal que tiver apenas a categoria de estagiário.
 
 ###### Artigo 36.º
 
-1 - A transição para os lugares do quadro I anexo ao presente diploma será feita de entre o pessoal que à data da sua entrada em vigor se encontre vinculado a qualquer título à DGPE, de acordo com as seguintes regras:
+(Revogado.)
 
-a) Para categoria idêntica à que o funcionário já possui, sem prejuízo das habilitações literárias estabelecidas;
-
-b) Para categoria imediatamente superior, desde que estejam preenchidos os requisitos de tempo para promoção previstos para a respectiva carreira;
-
-c) Para categoria de ingresso em outra carreira para a qual detenha as habilitações necessárias;
-
-d) Para nova categoria que resulte da reclassificação referida na tabela de equivalência no anexo II ao presente diploma, sempre que se trate de pessoal provido nas categorias de auxiliares, secretários e subdirectores de património.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 37.º — Contagem de tempo de serviço
 
-O tempo de serviço prestado nas anteriores categorias, no que se refere ao pessoal técnico de gestão patrimonial, conta para todos os efeitos, incluindo o de promoção, como tendo sido prestado na categoria para que transite, de acordo com a tabela de equivalência anexa ao presente decreto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 38.º — Contagem de tempo de serviço ao pessoal do quadro geral de adidos integrado na DGPE
 
-Aos funcionários do quadro geral de adidos que hajam sido ou venham a ser integrados no quadro de pessoal da DGPE ser-lhes-á contado para todos os efeitos, designadamente conversão de provimento provisório em definitivo, promoção, aposentação, antiguidade na categoria, diuturnidades e alterações ou mudanças de designação previstas no presente diploma, todo o tempo de serviço prestado em qualquer das situações referidas no [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e legislação complementar, bem como o de permanência no quadro geral de adidos, sem prejuízo dos direitos eventualmente adquiridos pelo restante pessoal do quadro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 39.º — Manutenção de direitos em matéria de remunerações globais
 
-1 - Da aplicação do presente diploma não poderá resultar para qualquer funcionário diminuição da remuneração global que presentemente aufere.
+(Revogado.)
 
-2 - Enquanto não for estabelecido o sistema geral de remunerações para o pessoal do Ministério das Finanças e do Plano, manter-se-á, para o pessoal excluído pelo n.º 2 do artigo 34.º deste decreto, o regime de remunerações acessórias actualmente em vigor.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 40.º — Listas dos candidatos já aprovados em provas de selecção
 
-As listas em vigor de candidatos já aprovados em provas de selecção para escriturários-dactilógrafos ou em concurso para técnicos superiores mantêm a validade prescrita na legislação vigente à data da realização de provas de selecção e os candidatos delas constantes serão nomeados à medida que surjam vagas durante o período de validade das referidas listas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 41.º — Provimento nas novas categorias e cargos
 
-O provimento das novas categorias e cargos decorrentes das transições estabelecidas no presente decreto será feito mediante diplomas individuais de provimento, nos termos do artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 42.º — Pessoal dos bens culturais
 
-Transita para a DGPE a responsabilidade dos contratos do pessoal recrutado ao abrigo do artigo 6.º do [Decreto-Lei n.º 32404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32404-1942-342409), de 21 de Novembro de 1942.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 ###### Artigo 43.º
 
-O presente decreto entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 

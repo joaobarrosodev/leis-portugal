@@ -2,63 +2,198 @@
   "id": "pt:dre:569887:por",
   "artigos": [
     {
+      "chave": "1.º",
+      "epigrafe": "Natureza e missão",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
       "chave": "2.º",
       "epigrafe": "Âmbito de intervenção",
-      "texto": "1 - Cabe em geral à DGCI, relativamente aos impostos que lhe incumbe administrar:\n\na) Assegurar a respectiva liquidação e cobrança;\n\nb) Exercer a acção de inspecção tributária, prevenindo e combatendo a fraude e evasão fiscais;\n\nc) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;\n\nd) Executar os acordos e convenções internacionais em matéria tributária, nomeadamente os destinados a evitar a dupla tributação;\n\ne) Informar os particulares sobre as respectivas obrigações fiscais e apoiá-los no cumprimento das mesmas;\n\nf) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as respectivas competências;\n\ng) Contribuir para a melhoria da eficácia do sistema fiscal, propondo as providências de carácter normativo, técnico e organizacional que se revelem adequadas;\n\nh) Cooperar com as administrações tributárias de outros Estados e participar nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;\n\ni) Promover e assegurar as relações com organismos nacionais vocacionados para o estudo de matérias fiscais.\n\nj) Contribuir para a investigação científica no domínio da fiscalidade e para o aperfeiçoamento da técnica tributária.\n\n2 - Cabe, ainda, à DGCI a arrecadação e a cobrança de outras receitas do Estado ou de outras pessoas colectivas de direito público que lhe sejam atribuídas por lei.\n\n3 - No desempenho das suas competências, a DGCI actua em coordenação institucional com a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e com a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros e coopera com outros serviços públicos que intervenham na área fiscal e com as administrações tributárias de outros Estados.",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Princípios",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Administração",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Director-geral",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O director-geral é coadjuvado por nove subdirectores-gerais nomeados pelo Ministro das Finanças nos termos previstos na lei geral e ainda de entre funcionários da DGCI com a qualificação profissional de administrador tributário.\n\n5 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Conselho de administração fiscal",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Pelo exercício de funções como membros deste Conselho, será atribuída ao dirigente máximo da DGCI e aos subdirectores-gerais, respectivamente, uma remuneração mensal de 45% e de 25% do valor padrão fixado para o cargo de director-geral.\n\n6 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Estrutura territorial",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Âmbito de intervenção",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Estrutura básica central",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O Centro de Estudos Fiscais é dirigido por um director, equiparado, para efeitos de regime de provimento e remuneratório, a subdirector-geral, sendo nomeado de entre investigadores tributários da DGCI ou, na sua falta, de entre assessores da mesma carreira.\n\n6 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Competências gerais dos departamentos dos serviços centrais",
+      "texto": "(Revogado.)",
       "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Natureza e tipos",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Natureza e âmbito de actuação territorial",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Âmbito de intervenção",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Direcção",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 6
     },
     {
       "chave": "16.º",
       "epigrafe": "Natureza e âmbito de actuação",
-      "texto": "1 - Os serviços locais da DGCI são unidades territoriais de base sediadas em todos os municípios, denominados serviços de finanças e criados por portaria do Ministro das Finanças.\n\n2 - Quando as circunstâncias o aconselharem poderá haver mais de um serviço de finanças em cada município, sendo as respectivas áreas territoriais fixadas no diploma a que se refere o número anterior.\n\n3 - Quando o volume de serviço o justifique ou quando estiver em causa a comodidade do cumprimento das obrigações fiscais e a informação e o apoio aos contribuintes, podem ser criadas extensões de serviços de finanças, por despacho do director-geral, que lhes fixa o âmbito de actuação.\n\n4 - Os serviços de finanças são de nível I ou II, consoante o desenvolvimento dos respectivos municípios, o número de contribuintes e o volume de serviço.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Âmbito de intervenção",
+      "texto": "(Revogado.)",
+      "alterador": 6
     },
     {
       "chave": "18.º",
       "epigrafe": "Estrutura",
-      "texto": "1 - Os serviços de finanças podem ser constituídos por secções, estabelecidas em função do número de contribuintes e do volume de serviço.\n\n2 - Sem prejuízo do disposto no número anterior, os serviços de finanças integram uma secção de tesouraria.\n\n3 - As competências anteriormente atribuídas às tesourarias da Fazenda Pública ou às tesourarias de finanças consideram-se atribuídas aos serviços de finanças e são exercidas através das secções de tesouraria.\n\n4 - Nos serviços de finanças de maior dimensão poderá haver um sector de apoio administrativo.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 6
     },
     {
       "chave": "19.º",
       "epigrafe": "Chefia",
-      "texto": "Os serviços de finanças são chefiados por chefes de finanças, directamente dependentes dos directores de finanças, e as respectivas secções por chefes de finanças-adjuntos.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Regime financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Instrumentos de gestão",
+      "texto": "(Revogado.)",
+      "alterador": 6
     },
     {
       "chave": "23.º",
       "epigrafe": "Coordenação e equipas de trabalho",
       "texto": "1 - Para o desempenho de acções específicas no âmbito da inspecção, da justiça tributária ou para a realização de trabalhos ou projectos excepcionais de natureza temporária, poderão ser constituídas equipas de trabalho, por despacho do director-geral, que fixa os objectivos, composição e duração.\n\n2 - Os funcionários designados para a chefia de equipas ou que coordenem unidades previstas na legislação orgânica da DGCI que não beneficiem de regime remuneratório próprio têm direito a um acréscimo salarial de 30 pontos indiciários a adicionar ao índice do escalão que detêm na categoria, até ao limite do estatuto remuneratório do chefe de divisão.",
-      "alterador": 2
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Regulamentação complementar",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Concursos e estágios pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Quadros de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Competências dos chefes de finanças",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 6
     },
     {
       "chave": "29.º",
       "epigrafe": "Entrada em vigor",
-      "texto": "O presente diploma entra em vigor no dia 1 de Maio de 2000, salvo as normas legais de habilitação de poder regulamentar.",
-      "alterador": 1
+      "texto": "(Revogado.)",
+      "alterador": 6
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, artigo 9.º (nova alínea j) Instalações, antiga j) passa a l), novo n.º 3, n.os 4 a 6 com '...'): alvo incerto: o DL 237/2004 altera o artigo 9.º na redacção do DL 262/2002, que não está no texto atual; aqui o n.º 2 só tem as alíneas a) a e) (a última é o Núcleo de apoio social, que o novo n.º 3 põe na alínea l)), não há alíneas f) a j) nem n.os 4 a 6 para manter com '...', e copiar só as partes novas daria um artigo com alíneas que não existem.",
+  "nao_aplicavel": "Alterador 2, art. 2.º n.º 2 (repristinação dos artigos 17.º, 18.º e 25.º do Decreto-Lei n.º 408/93): outro diploma: a repristinação é do Decreto-Lei n.º 408/93, não do texto do original\nAlterador 3, art. 3.º (nova redacção do n.º 2 do art. 2.º do Decreto-Lei n.º 262/2002): outro diploma: altera o Decreto-Lei n.º 262/2002\nAlterador 6, art. 13.º (revogação do n.º 4 do art. 5.º com excepção da sua parte final): alvo incerto: a revogação de parte de um número não tem forma textual segura; o n.º 4 fica com o texto inteiro\nAlterador 7, art. 15.º n.º 2 (mantém em vigor o n.º 5 do art. 6.º e os n.os 1 e 2 do art. 23.º): não textual: confirma a vigência dessas normas e não revoga expressamente a parte final do n.º 4 do art. 5.º nem o n.º 5 do art. 9.º, que ficam como estavam",
   "instrucoes": [
-    "Alterador 1 (DL 3/2000), art. 2.º: nova redacção do artigo 29.º (entrada em vigor a 1 de Maio de 2000) — aplicado.",
-    "Alterador 1, art. 1.º: altera o DL 360/99 — outro diploma, ignorado.",
-    "Alterador 2 (DL 237/2004), art. 1.º, artigo 2.º: nova alínea j) no n.º 1, novo n.º 2, antigo n.º 2 passa a n.º 3 — aplicado.",
-    "Alterador 2, art. 1.º, artigo 9.º: não aplicado (o texto atual não tem a redacção do DL 262/2002 em que a alteração assenta) — ver nao_aplicavel.",
-    "Alterador 2, art. 1.º, artigo 16.º: nova epígrafe e novo n.º 3; n.os 1, 2 e 4 mantidos — aplicado.",
-    "Alterador 2, art. 1.º, artigo 18.º: novos n.os 2 e 3, antigo n.º 3 passa a n.º 4 — aplicado.",
-    "Alterador 2, art. 1.º, artigo 19.º: novo corpo de um só parágrafo (cai o n.º 2 transitório) — aplicado.",
-    "Alterador 2, art. 1.º, artigo 23.º: nova epígrafe e redacção com n.os 1 e 2 apenas (cai o antigo n.º 3) — aplicado.",
-    "Alterador 2, arts. 2.º a 4.º e 7.º: alteram o DL 557/99, o DL 262/2002, o DL 187/99 e revogam outros diplomas — outro diploma, ignorados; arts. 5.º e 6.º são normas transitórias próprias, sem texto no original.",
-    "Alterador 3 (DL 18/2005): transfere para a RAM os serviços fiscais e extingue a Direcção de Finanças da RAM — sem instrução textual sobre o original.",
-    "Alterador 4 (DL 118/2011), art. 15.º, n.º 2: mantém em vigor o n.º 5 do artigo 6.º e os n.os 1 e 2 do artigo 23.º — não altera o texto; nada a aplicar.",
-    "Alterador 5 (DRR 4/2017/M): altera o DRR 14/2015/M e só remete para o artigo 23.º do original — outro diploma, ignorado."
+    "Alterador 1 (DL 3/2000), art. 2.º: nova redacção do art. 29.º (entrada em vigor a 1 de Maio de 2000); aplicada e depois absorvida pela revogação do alterador 6",
+    "Alterador 2 (DL 262/2002), art. 2.º n.º 1: nova redacção dos arts. 6.º (n.º 1 novo, n.º 5 novo sobre remuneração, anterior n.º 5 passa a 6) e 9.º (n.os 1 a 6 novos); aplicadas antes das alterações seguintes",
+    "Alterador 2, art. 18.º: revoga o art. 10.º do original: art. 10.º com '(Revogado.)'",
+    "Alterador 3 (DL 237/2004), art. 1.º: nova redacção dos arts. 2.º, 9.º (nova alínea j) Instalações, anterior j) passa a l), novo n.º 3), 16.º (epígrafe e n.º 3), 18.º, 19.º e 23.º (epígrafe 'Coordenação e equipas de trabalho', só n.os 1 e 2); o art. 23.º fica com a redacção do alterador 3, os outros são depois revogados pelo alterador 6",
+    "Alterador 4 (DL 18/2005): transfere para a Região Autónoma da Madeira as competências fiscais e extingue a Direcção de Finanças da RAM; não contém instrução textual sobre o original",
+    "Alterador 5 (Lei 53-A/2006), art. 104.º: revoga a alínea b) do art. 27.º; absorvida pela revogação total do art. 27.º pelo alterador 6",
+    "Alterador 6 (DL 81/2007), art. 13.º: revoga o DL 366/99 com excepção da parte final do n.º 4 do art. 5.º, do n.º 5 do art. 6.º, do n.º 5 do art. 9.º e dos n.os 1 e 2 do art. 23.º: todos os artigos ficam '(Revogado.)', salvo os arts. 5.º, 6.º e 9.º, que ficam com os números revogados um a um e o número que se mantém (o n.º 5 dos arts. 6.º e 9.º na redacção dos alteradores 2 e 3), e o art. 23.º (n.os 1 e 2 do alterador 3). Por isso as alterações do alterador 3 ao art. 9.º (alínea j) Instalações, n.º 3 novo) foram aplicadas mas ficam revogadas",
+    "Alterador 7 (DL 118/2011), art. 15.º: revoga o DL 81/2007 (outro diploma) e mantém em vigor normas do original; sem alteração textual",
+    "Alterador 8 (DRR 4/2017/M): só refere o art. 23.º do original no regime das equipas de projecto da AT-RAM; sem instrução sobre o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

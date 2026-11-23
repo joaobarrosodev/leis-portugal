@@ -1,0 +1,171 @@
+[
+ {
+  "id": "pt:dre:234506:por",
+  "artigos": [
+   {
+    "artigo": "SECÇÃO VII",
+    "veredicto": "errado",
+    "motivo": "A epígrafe «dos analistas e dos preparadores» está certa (DL 315/73, art. 3.º), mas os arts. 340.º a 342.º foram revogados pelo art. 158.º, n.º 2, do DL 252-A/82 (arts. 330.º a 351.º) e o consolidado deixou o texto original em vigor.",
+    "texto_esperado": "#### SECÇÃO VII — Do director do laboratório, dos analistas e dos preparadores\n\nArt. 340.º (Revogado.)\n\nArt. 341.º (Revogado.)\n\nArt. 342.º (Revogado.)"
+   },
+   {
+    "artigo": "SECÇÃO VI #2",
+    "veredicto": "errado",
+    "motivo": "Epígrafe «Dos analistas e dos preparadores» certa (DL 315/73, art. 3.º), mas o art. 366.º foi revogado pelo art. 158.º, n.º 2, do DL 252-A/82 (arts. 364.º a 386.º); o consolidado manteve o texto original dos manipuladores.",
+    "texto_esperado": "#### SECÇÃO VI — Dos analistas e dos preparadores\n\nArt. 366.º (Revogado.)"
+   },
+   {
+    "artigo": "LIVRO V",
+    "veredicto": "certo",
+    "motivo": "Epígrafe do livro V alterada pelo DL 73/2001 (art. 4.º, n.º 1, do DL 445/99 na redacção do DL 73/2001): «Dos declarantes e representantes perante a alfândega».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #4",
+    "veredicto": "errado",
+    "motivo": "Epígrafe do título certa, mas os arts. 426.º a 430.º ficaram com o texto original: faltam o novo art. 426.º, a nova frase introdutória do 427.º, a revogação do 428.º (DL 89/92 art. 3.º), a revogação do 429.º (DL 73/2001, art. 6.º) e o novo art. 430.º (sem § único).",
+    "texto_esperado": "## TÍTULO I — De quem pode declarar\n\nArt. 426.º A solicitação nas alfândegas de qualquer declaração aduaneira ou fiscal de mercadorias ou de outras declarações cuja recepção venha a ser atribuída à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, bem como a promoção de quaisquer documentos que lhes digam respeito, compete exclusivamente:\n\n1.º Aos donos ou consignatários das mercadorias, quer se apresentem pessoalmente quer por intermédio dos seus empregados;\n\n2.º Aos despachantes oficiais a quem seja conferida pelos donos ou consignatários das mercadorias procuração para agir em seu nome e por sua conta;\n\n3.º A qualquer pessoa, incluindo os despachantes oficiais, designada pelos donos ou consignatários das mercadorias para declarar por sua conta mas em nome próprio, desde que reúna os requisitos regulamentarmente estabelecidos.\n\n§ 1.º Os donos ou agentes das empresas de navegação marítima ou aérea, em relação aos navios ou aeronaves de que sejam proprietários ou que lhes venham consignados, podem intervir no conjunto de actos e formalidades necessários ao designado 'despacho de navios e de aeronaves', quando as referidas empresas, se forem estrangeiras, mantenham com o País carreiras regulares com toda ou parte da sua frota.\n\n§ 2.º O disposto no presente artigo aplica-se sem prejuízo do regime transitório previsto para os agentes aduaneiros e despachantes privativos.\n\nArt. 427.º Os agentes aduaneiros das empresas de caminho de ferro e de navegação aérea que mantenham carreiras regulares com o País, habilitados a promover o desalfandegamento das mercadorias pertencentes às mesmas empresas ou a empresas delas associadas, podem intervir:\n\n1.º Nos despachos de importação de mercadorias vindas pelo caminho de ferro ou por via aérea, nos termos do § 1.º deste artigo;\n\n2.º Nos despachos de exportação de mercadorias expedidas directamente para o estrangeiro e que cheguem pelo caminho de ferro à estação da fronteira ou pela via aérea ao aeroporto internacional, desacompanhadas de guia de exportação;\n\n3.º Nas guias de trânsito a preencher nas estâncias aduaneiras da fronteira terrestre e, quando for caso disso, nos despachos de trânsito a processar em qualquer estância aduaneira para mercadorias chegadas e reexpedidas pelo caminho de ferro;\n\n4.º Nos despachos de reexportação de mercadorias chegadas e reexpedidas pelo caminho de ferro, arrecadadas em armazéns especiais das empresas;\n\n5.º Nos despachos de baldeação, trânsito ou reexportação, a processar nos aeroportos, referentes a mercadorias chegadas e reexpedidas por via aérea.\n\n§ 1.º Nos despachos de importação de mercadorias vindas pelo caminho de ferro ou pela via aérea atender-se-á às circunstâncias seguintes:\n\n1.º Se as mercadorias, segundo a documentação ferroviária ou aérea, vierem expedidas directamente para localidades onde não haja estância aduaneira, intervirá no respectivo despacho o agente aduaneiro;\n\n2.º Se as mercadorias, segundo a documentação ferroviária ou aérea, vierem consignadas directamente para estação de caminho de ferro que não seja a fronteiriça ou aeroporto e onde haja estância aduaneira, intervirá no respectivo despacho o agente aduaneiro, se o consignatário da mercadoria preferir processá-lo na estância aduaneira da fronteira ou aeroporto internacional de entrada, e ainda na estação ou aeroporto do destino quando, nestes últimos casos, da respectiva declaração de expedição ou carta de porte aéreo constar alguma cláusula nessa conformidade;\n\n3.º Se as mercadorias, segundo a documentação ferroviária ou aérea, vierem consignadas para a estação do caminho de ferro da fronteira ou o aeroporto internacional, intervirá no respectivo despacho o agente aduaneiro, quando o destinatário ou o expedidor assim o designem.\n\n§ 2.º A designação a que se refere o n.º 3.º do parágrafo anterior pode ser expressa ou tácita:\n\n1.º Em relação ao destinatário, é expressa quando seja indicada na senha de remessa ou na carta de porte aéreo e é tácita quando, embora sem tal indicação, as referidas senha ou carta de porte aéreo sejam remetidas ao agente aduaneiro;\n\n2.º Em relação ao expedidor, é expressa ou tácita conforme, não tendo o destinatário recebido a senha ou a carta de porte aéreo, o referido expedidor indique nas mesmas o agente aduaneiro ou as faça acompanhar a mercadoria sem qualquer indicação.\n\n§ 3.º O agente aduaneiro intervirá ainda nas formalidades aduaneiras a preencher nas estações de caminho de ferro onde exista estância aduaneira, quando tais formalidades, podendo ser cumpridas pelo destinatário ou pelo mandatário do expedidor e seus representantes, o não forem nos prazos fixados pelos regulamentos em vigor na estação destinatária, se antes não tiver sido levantada pelo destinatário a declaração de expedição.\n\nArt. 428.º (Revogado.)\n\nArt. 429.º (Revogado.)\n\nArt. 430.º Não podem efectuar declarações perante a alfândega os comerciantes falidos não reabilitados ou aqueles sobre quem impenda a interdição do exercício da actividade de declarar perante a alfândega e os despachantes oficiais durante o período de cumprimento da pena disciplinar de suspensão."
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 1.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 2.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 3.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 4.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 6.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 7.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 8.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 9.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 10.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 11.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 12.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 13.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "errado",
+    "motivo": "O DL 68/2007 (art. 3.º, n.º 2) revoga a tabela II; a nova tabela de taxas é aditada (art. 2.º) como anexo próprio, não substitui os artigos da tabela II. O artigo da tabela II deve ficar «(Revogado.)» e o texto da nova tabela não deve estar aqui.",
+    "texto_esperado": "###### Artigo 14.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «(Revogado.)»: a tabela II e as observações foram revogadas pelo art. 3.º, n.º 2, do DL 68/2007.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 252-A/82, art. 158.º, n.º 2: revogação dos arts. 340.º, 341.º, 342.º e 366.º da Reforma (nas chaves SECÇÃO VII e SECÇÃO VI #2), sem efeito no consolidado.",
+   "DL 315/73, art. 1.º: nova redacção dos arts. 340.º, 341.º, 342.º e 366.º e aditamento do 366.º-A: ficam sem efeito por revogação posterior (DL 252-A/82); só a epígrafe (art. 3.º) se aplica.",
+   "DL 89/92, art. 3.º: revogação do art. 428.º (Título I do Livro V), sem efeito no consolidado.",
+   "DL 50/86 e DL 73/2001, art. 6.º, n.º 1: revogação do art. 429.º, sem efeito no consolidado.",
+   "DL 73/2001, art. 4.º, n.º 1 (DL 445/99 na redacção do DL 73/2001): nova redacção dos arts. 426.º, 427.º (só o corpo) e 430.º, sem efeito no consolidado.",
+   "DL 68/2007, art. 3.º, n.º 2: revogação das tabelas I e II (arts. 1.º a 14.º da tabela II ficam com texto da nova tabela em vez de «(Revogado.)»).",
+   "Instruções sobre artigos da Reforma Aduaneira que não constam do texto original (arts. 1.º a 526.º salvo os acima, tabelas I e III, observações): alvo incerto — o texto actual só tem títulos de divisão e a tabela II, pelo que não há onde as aplicar; são inúmeras (DL 46955 a Lei 114/2017) e não foram enumeradas uma a uma."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Rectificações dos mapas I e II (criação/extinção/designação de estâncias e postos) pelas Portarias 835/2004, 684/85, 1022/91, 976/91, 272/2008, 519/84, 135/79, 660/93, 659/93, 1033/83, 222/91, 39/91, 570/90, 500/90, 336/91, 734/89, 171/84 e restantes",
+    "motivo": "Só em imagem: os mapas I e II existem apenas em imagem e os alteradores não trazem imagem nova nem texto do mapa."
+   },
+   {
+    "instrucao": "DL 360/99, art. 26.º, n.º 2, alínea b): revogação dos capítulos II, IV, V e VI do título II do livro II da Reforma",
+    "motivo": "Efeito adiado para facto futuro: só a partir da entrada em vigor da portaria referida no art. 23.º."
+   },
+   {
+    "instrucao": "DL 315/73, art. 5.º (manipuladores investidos na categoria de preparador); instruções sobre quadros/mapas de pessoal",
+    "motivo": "Não textual (mudança de categoria) ou só em imagem (mapas)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Mapas III a XII: ligações às imagens conforme os alteradores (DL 464/70, DL 315/73, DL 116/79); não verificado em pormenor. A nova tabela de taxas do DL 68/2007 (art. 2.º) devia estar como anexo próprio e não nos arts. 1.º a 14.º da tabela II."
+ }
+]

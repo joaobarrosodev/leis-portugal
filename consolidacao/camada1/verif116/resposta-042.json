@@ -1,0 +1,303 @@
+[
+ {
+  "id": "pt:dre:516068:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º § 2.º al. a): texto do DL 49483 art. 1.º, mantido por 209/75 e 183-D/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º § 2.º als. d) (DL 237/70 art. 4.º), e) (DL 98/88 art. 1.º, que repõe a al. eliminada pelo DL 198/82) e f) (DL 183-D/80).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º §§ 1.º (DL 183-D/80), 2.º (DL 46369) e 3.º (DL 198/82); § 4.º eliminado pelo DL 209/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º als. b) (DL 312/76) e c) (DL 209/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º als. f), g) (DL 198/82) e i) (DL 415/87 art. 8.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º als. a), b), c) revogadas pelo DL 415/87 art. 7.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º al. g) (docentes, DL 183-D/80) revogada pelo DL 415/87 art. 7.º; a al. g) original já fora eliminada pelo DL 209/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º: al. i) (DL 45977), § 1.º revogado (415/87), § 2.º (DL 48316, com 'exercido'), § 3.º revogado (415/87); art. 5.º com 410000$00 (DL 98/88).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º corpo e § 1.º: DL 183-D/80, com 'secção' por 'repartição' (DL 45400 art. 9.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "dúvida",
+    "motivo": "Art. 6.º §§ 3.º (DL 413/87) e 4.º (DL 98/88); 6.º-A (180/84); 7.º (180/84, § único de 138/78); 7.º-A (138/78 e 183-D/80); 7.º-B (183-D/80); 8.º (312/76, 183-D/80, 98/88); 9.º (312/76); 10.º corpo (183-D/80). Dúvida só na al. f) do § 4.º do art. 8.º (312/76, 'dispensada a escrituração...'): o § 4.º do DL 98/88 lista só 'a) ... b) ... c) texto d) ... e) ...' e o DL 183-D/80 só a) a c); o consolidado mantém a al. f), que pode ter deixado de existir. Resto confere.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 10.º n.º 1.º als. a) e b): DL 183-D/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 10.º als. d) a p) e n.º 2.º, §§ 1.º a 4.º (DL 183-D/80, 198/82 al. n), 98/88); 10.º-A (413/87); 11.º (413/87, § 1.º de 209/75; al. b) mantida sem texto); 12.º, 13.º (§ 1.º de 667/76, § 1.º-A de 180/84), 14.º e 15.º (209/75). Art. 11.º e 13.º com 'repartição' por 'secção'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º (209/75, §§ 1.º e 2.º de 180/84 e 138/78, §§ 3.º a 5.º de 180/84); 16.º e 18.º (209/75); 17.º (209/75; §§ 2.º e 3.º de 180/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 19.º § 2.º: DL 312/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º: corpo, §§ 1.º e 3.º de 209/75; § 2.º de 312/76; §§ 4.º a 7.º de 180/84.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º (DL 98/88, §§ 1.º e 2.º anteriores); art. 22.º eliminado (DL 49483); arts. 23.º e 24.º revogados (DL 718/73).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Art. 25.º ('secção' por 'repartição', DL 45400 art. 9.º) e 26.º corpo e al. a) (DL 49483, 209/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Art. 26.º §§ 1.º a 4.º, 27.º, 27.º-A, 28.º, 29.º, 30.º, 31.º revogado (138/78), 32.º, 33.º, 34.º: DL 209/75, 198/82, 324/81, 180/84, 415/87, 45400 art. 9.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Art. 36.º (repartição; § único suprimido pelo DL 45400 art. 2.º), 37.º (100$00, DL 209/75), 38.º (24%, DL 198/82).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 39.º § único (repartição) e 40.º (DL 180/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Art. 43.º-A aditado pelo DL 180/84 art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Art. 44.º al. c) e 44.º-A (DL 180/84), 45.º (DL 180/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Art. 45.º-A aditado pelo DL 180/84 art. 2.º (colocação no cap. VII não verificável na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Art. 47.º (180/84, 209/75), 48.º, 49.º (180/84), 50.º (repartição).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Art. 50.º § único (209/75), 50.º-A (413/87), 51.º, 52.º e § único (413/87), 53.º (209/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Art. 54.º § 1.º: DL 45400 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Art. 54.º-A (DL 312/76) e 54.º-B (DL 180/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Art. 55.º: corpo (198/82), §§ 1.º e 2.º (297/79).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Art. 57.º: corpo (DL 45400), § 1.º com 18% (DL 198/82).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Art. 59.º: DL 180/84, §§ de 183-D/80 e 198/82.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Art. 61.º (DL 98/88, §§ 1.º e 2.º de 312/76) e 62.º (312/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Art. 64.º: DL 413/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Art. 66.º, 67.º (DL 138/78) e 68.º (DL 209/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Art. 73.º, 74.º e § 1.º: DL 45400.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "certo",
+    "motivo": "Art. 77.º: 'repartições' por 'secções' (DL 45400 art. 9.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Art. 79.º (DL 45400) e 79.º-A (DL 198/82).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Art. 81.º: 'repartição' por 'secção' (DL 45400 art. 9.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "certo",
+    "motivo": "Art. 83.º (DL 98/88) e 84.º (repartição).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Art. 84.º-A (DL 198/82) e 85.º (repartição).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "certo",
+    "motivo": "Anexo: título e imagem do DL 98/88 (anexo e art. 2.º), que substitui a tabela anterior.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 209/75 art. 1.º (Art. 1.º § 2.º al. b)): nova redacção 'b) Os abonos para falhas, as ajudas de custo, as verbas para representação, viagens ou deslocações, as bolsas e quaisquer outras importâncias de idêntica natureza que os patrões ou as empresas atribuam a pessoas abrangidas pela alínea a) do artigo seguinte;' (sem 'bem como os impostos ou outros encargos legais...', que passou ao art. 68.º). Nenhum alterador posterior a repõe, e a al. b) ficou igual ao original (artigo da lista dos IGUAIS)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 45400 arts. 3.º e 4.º (profissões e rubrica da tabela anexa)",
+    "motivo": "tabela só em imagem, sem título de anexo onde a pôr"
+   },
+   {
+    "instrucao": "DL 45705 arts. 1.º e 4.º (nova actividade e percentagens na tabela)",
+    "motivo": "tabela só em imagem"
+   },
+   {
+    "instrucao": "DL 375/74",
+    "motivo": "o pedido não traz nenhum artigo deste alterador"
+   },
+   {
+    "instrucao": "DL 209/75 art. 2.º; DL 312/76 art. 2.º; DL 138/78 art. 3.º; DL 183-D/80 art. 2.º (substituição da tabela)",
+    "motivo": "tabela só em imagem; a tabela final do DL 98/88 está aplicada (Trecho 40)"
+   },
+   {
+    "instrucao": "DL 667/76 art. 18.º (actualização de multas por coeficientes)",
+    "motivo": "não textual: actualização genérica de montantes"
+   },
+   {
+    "instrucao": "Resolução 62/79 (inconstitucionalidade da al. e) do § 2.º do art. 1.º)",
+    "motivo": "declaração de inconstitucionalidade sem eliminar o texto; a alínea é eliminada pelo DL 198/82"
+   },
+   {
+    "instrucao": "DL 198/82 art. 5.º (rubricas da tabela)",
+    "motivo": "tabela só em imagem"
+   },
+   {
+    "instrucao": "DL 198/82 art. 1.º (§§ 1.º e 2.º do art. 5.º e § 1.º do art. 28.º dados como mantidos)",
+    "motivo": "'...' sem texto no diploma que altera"
+   },
+   {
+    "instrucao": "DL 180/84 arts. 3.º e 4.º (tabela e modelos 1, 5 e 5-A)",
+    "motivo": "só em imagem"
+   },
+   {
+    "instrucao": "DL 180/84 art. 5.º (declaração modelo n.º 1 entende-se modelo n.º 5)",
+    "motivo": "não textual: regra de interpretação"
+   },
+   {
+    "instrucao": "DL 413/87 art. 1.º (al. b) do art. 11.º dada como mantida)",
+    "motivo": "o diploma que altera não traz o texto da al. b)"
+   },
+   {
+    "instrucao": "Lei 2/88",
+    "motivo": "o pedido não traz nenhum artigo deste alterador"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

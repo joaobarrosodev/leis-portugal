@@ -162,6 +162,20 @@ Os números estão no `rag/README.md`, em «Última milha nas reais: as peças q
   - decidir o limiar da C: com 3,5 fica com as mesmas 5 «sem resposta» da A, 145 certas e 51 erradas (contra 70). O limiar continua 3 no código;
   - ligar na aplicação só depois de o índice com perguntas estar publicado. Os valores por omissão do `rag/web.py` não mudaram.
 
+## Leitura do índice e nomes: o que ficou por corrigir (20/11)
+
+Das sessões do texto corrido (`rag/corrido.py`, 45c59705eac) e dos nomes e ligações (0f0ac113a32), já arquivadas.
+
+**Leitura (`rag/indice.py`, `avaliacao/comum.py`):**
+- **CPT (Código de Processo do Trabalho):** o nome do anexo vem colado ao primeiro título («CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais»), por isso o nome do código não o encontra.
+- **DL 48/95:** o articulado do decreto e o Código Penal ficam na mesma parte, com chaves repetidas.
+- **Bases soltas (passo 4 do texto corrido, ficou de fora):** os 242 registos misturam a redação nova citada com a republicação no anexo, muitas vezes com várias numerações; não se encontrou uma regra segura para as separar. Nos decretos de concessões de 2010–2015, a maior parte das bases fica para lá dos 30.000 caracteres do último artigo e não entra no índice. A Lei n.º 95/2019 (Lei de Bases da Saúde) é um dos casos.
+- **Erro latente em `aplicar_redacoes`:** uma marca sem artigos e sem ponto de início dava `TypeError`. Nenhuma das 565 marcas atuais é assim; falta a guarda e um teste.
+
+**Nomes e estado:**
+- **Registo Civil:** o nome resolve para o DL 47678, de 1967, que o DRE dá como em vigor. O Código do Registo Civil em vigor é o do DL 131/95: confirmar o estado do DL 47678 e pôr o nome a resolver para o DL 131/95.
+- **DR 31/83:** os dois registos têm estados contraditórios; ver qual é o certo.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.

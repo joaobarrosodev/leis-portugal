@@ -1,0 +1,621 @@
+[
+ {
+  "id": "pt:dre:474127:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe com a rectificação da Declaração (\"e da\" -> \"ou da colaboração técnica\"); corpo revogado pelo DL 339/83 art. 55.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe rectificada pela Declaração (Competência -> Competências); corpo revogado pelo DL 339/83 art. 55.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III #2",
+    "veredicto": "certo",
+    "motivo": "Rectificação da Declaração (\"Secção IV\" -> \"Secção III\", p. 1076): o título 'Serviços de apoio técnico...' passa a III; a diferença de chave vem da renumeração da secção.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I #3",
+    "veredicto": "certo",
+    "motivo": "Rectificação da Declaração: 'Quadros e carreiras' -> 'Quadro e carreiras'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III #3",
+    "veredicto": "certo",
+    "motivo": "Título 'Recrutamento e progressão na carreira' igual ao do original (SECÇÃO III #2 no original); diferença só de chave pela rectificação Secção IV->III.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV",
+    "veredicto": "certo",
+    "motivo": "Título 'Disposições comuns' igual ao do original (SECÇÃO IV #2 no original); diferença só de chave pela rectificação Secção IV->III.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "DL 339/83 art. 55.º revoga o diploma com excepção dos n.os 3, 4 e 5 do art. 89.º: n.os 1 e 2 (Revogado.), 3-5 iguais ao original (a rectificação ao n.º 1 fica sem objecto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 55.º do DL 339/83 (revoga o DL 138/80, salvo n.os 3 a 5 do art. 89.º); epígrafe mantida, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 339/83 art. 55.º; o texto de assinatura/promulgação fora do corpo mantém-se.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Mapa de pessoal revogado com o diploma (DL 339/83 art. 55.º); título mantido, corpo (Revogado.).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração: rectificação do n.º 3 do preâmbulo («dados e que» -> «dados ao que»): alvo incerto na vista (o preâmbulo vem na lista dos IGUAIS ao original, sem texto visível); se o preâmbulo tem essa frase, não foi aplicada."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: rectificações aos artigos 7.º n.º 2, 10.º (corpo), 21.º n.º 1, 41.º n.º 1, 66.º, 75.º n.º 1 e 89.º n.º 1",
+    "motivo": "Os corpos desses artigos foram revogados pelo art. 55.º do DL 339/83 (confirmado no texto do alterador), pelo que a rectificação fica sem objecto; as epígrafes rectificadas (10.º, 14.º) e os títulos de secção foram aplicados."
+   },
+   {
+    "instrucao": "Declaração: rectificações ao mapa de pessoal anexo (chefe de secção 27->17; observação (d)); Portarias 437/81, 765/81, 1019/81, 1075/81, 26/82, 863/82, 1029/82, 147/83, 368/83, 485/83 (criação de lugares) e 354/83 (nova tabela só em imagem)",
+    "motivo": "O mapa de pessoal só existe em imagem e foi revogado com o diploma pelo art. 55.º do DL 339/83; o ANEXO consolidado ficou '(Revogado.)'."
+   },
+   {
+    "instrucao": "Portarias 26/83 e 38/83 (alargar a área de recrutamento para chefe de divisão a um técnico superior de 1.ª classe)",
+    "motivo": "Medida individual, não textual, que não altera o texto de nenhum artigo (e os artigos de pessoal estão revogados pelo DL 339/83)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Sem alterações a assinalar, salvo a lista dos 'em falta': 'SECÇÃO IV #2 — Disposições comuns' é só renumeração de chave (no consolidado é SECÇÃO IV); preâmbulo ver instrucoes_em_falta."
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "pt:dre:375192:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'. A retificação do n.º 3 (13.º->12.º) fica absorvida pela revogação."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 revogados (art. 22.º, n.º 1, c) e n.º 2 do DL 11/2012; o diferimento ao fim do período do PAEF já decorreu); n.º 3 mantido por exceção expressa."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, al. c), do DL 11/2012 (revoga o DL 262/88 exceto n.º 3 do art. 9.º e art. 12.º); consolidado mantém epígrafe e '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 12.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 305.º da Lei 114/2017 com a epígrafe 'Motoristas' e o texto igual ao consolidado."
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, n.º 1, c), do DL 11/2012; epígrafe mantida, fecho do diploma fora do artigo preservado."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 72-A/2010, art. 42.º: 'requisição e destacamento...' -> 'cedência de interesse público' no n.º 4 do art. 6.º e arts. 10.º e 11.º",
+    "motivo": "Regra de leitura cuja expressão não existe letra a letra nesses artigos; os três artigos ficam revogados pelo DL 11/2012, sem efeito no texto final."
+   },
+   {
+    "instrucao": "Declaração de retificação: art. 1.º, n.º 3, 'artigo 13.º' -> 'artigo 12.º'",
+    "motivo": "O art. 1.º inteiro é revogado depois pelo DL 11/2012, art. 22.º, n.º 1, c); a retificação não tem efeito no texto final."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

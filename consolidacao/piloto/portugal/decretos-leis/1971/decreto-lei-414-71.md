@@ -13,12 +13,18 @@ consolidacao:
   - id: pt:dre:473288:por
     title: Decreto-Lei n.º 471/74
     publication_date: '1974-09-20'
+  - id: pt:dre:684868:por
+    title: Decreto-Lei n.º 33/73
+    publication_date: '1973-02-06'
   - id: pt:dre:407109:por
     title: Decreto n.º 823/76
     publication_date: '1976-11-13'
-  - id: pt:dre:676628:por
-    title: Decreto-Lei n.º 331/72
-    publication_date: '1972-08-22'
+  - id: pt:dre:568308:por
+    title: Decreto-Lei n.º 305/81
+    publication_date: '1981-11-12'
+  - id: pt:dre:176479:por
+    title: Decreto Regulamentar n.º 87/77
+    publication_date: '1977-12-30'
   - id: pt:dre:140353:por
     title: Decreto Regulamentar n.º 18/77
     publication_date: '1977-03-07'
@@ -281,9 +287,11 @@ Grau 2 - Internato de especialidades.
 
 2. O ingresso nos quadros de pessoal permanente faz-se pela categoria de especialista dos hospitais.
 
-3. O Ministro da Saúde e Assistência poderá, sob proposta de cada hospital e para satisfazer necessidades dos serviços, autorizar, até à realização dos respectivos concursos, a admissão, nas vagas de especialistas, de médicos que tenham terminado o internato das especialidades respectivas.
+3. (Revogado.)
 
-4. A admissão a que se refere o número anterior é feita pelo período de um ano, renovável, até ao máximo de três, dependendo a renovação do contrato da qualificação da actividade exercida.
+4. (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), publicado em 1973-02-06.
 
 ###### Artigo 16.º
 
@@ -459,97 +467,45 @@ d) Os estagiários com, pelo menos, dois anos de bom e efectivo serviço.
 
 ###### Artigo 29.º
 
-1. As normas aplicáveis ao ingresso e acesso na carreira de ensino de enfermagem são as constantes do artigo 5.º do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967.
+(Revogado.)
 
-2. O ingresso na categoria de técnicos de enfermagem de 2.ª classe (grau 8 dos serviços centrais) faz-se por concurso documental não só de entre os profissionais referidos no artigo 33.º, n.º 1, mas ainda entre os dos graus 3 e 4 das escolas que preencham os seguintes requisitos:
-
-a) Terem completado o 3.º ciclo dos liceus ou equivalente;
-
-b) Terem sido aprovados na secção de ensino do curso de enfermagem complementar.
-
-3. O acesso do grau 8 ao grau 9 faz-se por concurso de provas públicas.
-
-4. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 4 das escolas que reúnam os requisitos constantes das alíneas do n.º 2 deste artigo.
-
-> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 #### SECÇÃO VII — Carreira de enfermagem de saúde pública
 
 ###### Artigo 30.º
 
-1. O ingresso na carreira de enfermagem de saúde pública faz-se, por concurso documental, pelo grau 1, para os diplomados com o curso de auxiliar de enfermagem aprovados num curso intensivo de enfermagem de saúde pública apropriado, ou para os indivíduos habilitados com o 2.º ciclo dos liceus ou equivalente e o curso de auxiliares de saúde pública, e pelo grau 4, para os diplomados do curso de enfermagem de saúde pública ou diplomados do curso geral de enfermagem aprovados num curso adequado de saúde pública.
+(Revogado.)
 
-2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:
-
-a) Do grau 1 ao grau 2, por concurso documental, mediante, pelo menos, um ano de bom e efectivo serviço;
-
-b) Dos graus 1 e 2 ao grau 4, por concurso documental, mediante, pelo menos, respectivamente, três anos e um ano de bom e efectivo serviço na classe e aprovação em curso adequado, sendo os candidatos do grau 1 admitidos sòmente na falta de candidatos do grau 2;
-
-c) Do grau 4 ao grau 6, por concurso de provas públicas;
-
-d) Do grau 6 ao grau 8, por nomeação, sob proposta do director-geral de Saúde, de entre os que possuam a habilitação de um curso adequado.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 ###### Artigo 31.º
 
-1. O ingresso na categoria de técnico de enfermagem de saúde pública de 2.ª classe (grau 8 dos serviços centrais) faz-se, por concurso documental, de entre os profissionais dos graus 6 e 8 dos serviços locais que preencham os seguintes requisitos:
+(Revogado.)
 
-a) Terem completado o 3.º ciclo dos liceus ou equivalente;
-
-b) Terem sido aprovados num curso de administração para enfermeiros de saúde pública;
-
-c) Haverem prestado, pelo menos, dois anos de serviço de enfermagem de saúde pública em actividades externas dos serviços.
-
-2. O acesso do grau 8 ao grau 9 far-se-á por concurso de provas públicas.
-
-3. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 8 dos serviços locais que reúnam os requisitos constantes das alíneas do n.º 1 deste artigo.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 #### SECÇÃO VIII — Carreira de enfermagem hospitalar
 
 ###### Artigo 32.º
 
-1. O ingresso na carreira de enfermagem hospitalar faz-se por concurso documental, pelo grau 1, para os diplomados com o curso de auxiliar de enfermagem, e pelo grau 3, para os diplomados com o curso geral, salvo quando o curso exija como habilitação o 3.º ciclo liceal, em que o ingresso poderá fazer-se pelo grau 4.
+(Revogado.)
 
-2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:
-
-a) Do grau 1 ao grau 2, por concurso documental, mediante, pelo menos, um ano de bom e efectivo serviço;
-
-b) Dos graus 1 e 2 ao grau 3, por concurso documental, mediante, pelo menos, respectivamente, três anos e um ano de bom e efectivo serviço na classe e aprovação em curso adequado, sendo os candidatos do grau 1 admitidos sòmente na falta de candidatos do grau 2;
-
-c) Do grau 3 ao grau 4, por concurso documental, mediante, pelo menos, três anos de bom e efectivo serviço na classe;
-
-d) Do grau 4 ao grau 5, por concurso de provas públicas;
-
-e) Do grau 5 ao grau 6, por concurso documental, depois de, pelo menos, três anos de bom e efectivo serviço;
-
-f) Do grau 6 ao grau 7, por concurso documental, de entre os aprovados na secção de administração do curso complementar de enfermagem, preferindo os de maior classificação;
-
-g) Ao grau 8, por livre escolha do conselho de direcção, ouvido o conselho técnico do respectivo hospital, de entre os profissionais do grau 5 e os do grau 4 que possuam a habilitação a que se refere a alínea anterior.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 ###### Artigo 33.º
 
-1. O ingresso na categoria de técnico de enfermagem de 2.ª classe (grau 8 dos serviços centrais) faz-se, por concurso documental, de entre os profissionais dos graus 7 e 8 dos hospitais que preencham os seguintes requisitos:
+(Revogado.)
 
-a) Terem completado o 3.º ciclo dos liceus ou equivalente;
-
-b) Terem sido aprovados na secção de administração do curso complementar de enfermagem.
-
-2. O acesso do grau 8 ao grau 9 far-se-á por concurso de provas públicas.
-
-3. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 8 dos hospitais que reúnam os requisitos constantes das alíneas do n.º 1 deste artigo.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 #### SECÇÃO IX — Carreira de técnicos terapeutas
 
 ###### Artigo 34.º
 
-1. O ingresso na carreira de técnicos terapeutas faz-se por concurso documental, pelos graus 1 e 3, para os indivíduos habilitados com os respectivos cursos.
+(Revogado.)
 
-2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:
-
-a) Do grau 1 ao grau 2 e do grau 3 ao grau 4, por concurso documental, após, pelo menos, três e dois anos de bom e efectivo serviço;
-
-b) Do grau 4 ao grau 5, por concurso de provas públicas, após, pelo menos, três anos de bom e efectivo serviço na classe respectiva;
-
-c) Do grau 5 ao grau 6, por nomeação, sob proposta dos serviços, de entre os profissionais com, pelo menos, três anos de serviço na respectiva classe, classificado de Muito bom.
+> Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30.
 
 #### SECÇÃO X — Carreira de técnicos de serviço social
 
@@ -573,23 +529,9 @@ O ingresso na categoria de técnico inspector de serviço social (grau 7 dos ser
 
 ###### Artigo 37.º
 
-1. O ingresso na carreira de técnicos auxiliares de laboratório faz-se, por concurso documental, pelo grau 1, para os indivíduos que, com o 2.º ciclo dos liceus ou equivalente, possuam a habilitação de um curso especial de preparadores, e pelo grau 3, para habilitados com o 3.º ciclo dos liceus ou equivalente, ou preparadores de 1.ª classe com, pelo menos, cinco anos de serviço.
+(Revogado.)
 
-2. É permitido o ingresso directo pelo grau 5 a indivíduos com curso superior adequado e, pelo menos, um ano de prática profissional contínua e experiência comprovada.
-
-3. As normas aplicáveis à apreciação do currículo dos candidatos a que se refere o número anterior serão as constantes do regulamento do Instituto Nacional de Saúde.
-
-4. No caso de o concurso a que se refere o n.º 1 ficar deserto ou de não haver candidatos em número suficiente para o preenchimento dos lugares do grau 1 ou do grau 3, poderão estes ser preenchidos, respectivamente, por indivíduos com o 2.º ciclo e com o 3.º ciclo dos liceus ou equivalente ou preparadores de 1.ª classe com, pelo menos, dois anos de serviço, mediante concurso com prestação de provas teóricas e práticas.
-
-5. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:
-
-a) Do grau 1 ao grau 2, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço;
-
-b) Do grau 2 ao grau 3, por concurso com prestação de provas, de entre os preparadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nessa classe;
-
-c) Do grau 3 ao grau 4, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço na classe;
-
-d) Do grau 4 ao grau 5, por concurso com prestação de provas de aptidão profissional.
+> Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30.
 
 #### SECÇÃO XII — Carreira de técnicos auxiliares sanitários
 

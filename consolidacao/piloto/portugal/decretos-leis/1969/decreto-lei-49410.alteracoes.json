@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:176301:por",
-    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por"
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
   },
   {
     "artigo": "16.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:176301:por",
-    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por"
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
   },
   {
     "artigo": "17.º",
@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:176301:por",
-    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por"
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
   },
   {
     "artigo": "18.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:176301:por",
-    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por"
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
   },
   {
     "artigo": "27.º",
@@ -67,6 +67,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:176301:por",
-    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por"
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
+  },
+  {
+    "artigo": "46.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 46.º\n\n1. Para o efeito do disposto no artigo anterior, os subscritores da Caixa Geral de Aposentações, ao passarem à situação de aposentados ou reformados, indemnizarão a mesma Caixa da importância correspondente a 1 por cento do vencimento anual que competir ao cargo exercido em 1 de Janeiro de 1970, relativamente aos anos de serviço prestado até à mesma data que aproveitem para o cálculo da respectiva pensão.\n\n2. Não será considerado, para o cômputo da referida indemnização, o tempo de serviço que venha a ser objecto de contagem com base nos vencimentos estabelecidos no presente decreto-lei.\n\n3. O pagamento da indemnização será feito em cento e vinte prestações mensais, a descontar nas pensões fixadas.\n\n4. Aos subscritores que tenham pago ou se encontrem a pagar indemnizações calculadas de acordo com o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), serão levadas em linha de conta, no apuramento da indemnização devida nos termos do presente artigo, as importâncias já satisfeitas.\n\n5. São revogados o artigo 33.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, o artigo. 18.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.",
+    "depois": "###### Artigo 46.º\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5. São revogados o artigo 33.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, o artigo. 18.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n> Alterado pelo/a [Decreto-Lei n.º 191-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), publicado em 1979-06-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176301:por",
+    "alterador": "pt:dre:143302:por;pt:dre:609331:por;pt:dre:507194:por;pt:dre:432671:por"
   }
 ]

@@ -11,8 +11,8 @@
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 2.º n.º 1: nova redação do n.º 3 do artigo 24.º da Lei n.º 65/90, que revoga o artigo 2.º do Decreto-Lei n.º 143-A/89 a partir da entrada em vigor dessa lei: unidade 9 fica 'Art. 2.º (Revogado.)', com a numeração tal como está no original (o reparo apontava o ' - ' que não existe no original).",
-    "Alterador 1, art. 1.º, art. 2.º n.º 2 e art. 3.º a 7.º: autorização legislativa e alterações a outros diplomas (EBF, CIVA, CIRC, Lei n.º 21/89): ignoradas."
+    "Alterador 1 (Lei 65/90, art. 24.º, n.º 3): revoga o artigo 2.º do DL 143-A/89 a partir da entrada em vigor dessa lei (data certa, não facto futuro), com ressalva do regime fiscal da dívida emitida na sua vigência: unidade 9 passa a 'Art. 2.º (Revogado.)'.",
+    "Alterador 2 (Lei 36/91, art. 2.º, n.º 1): dá nova redação ao n.º 3 do art. 24.º da Lei 65/90, mantendo a revogação do artigo 2.º do original (só muda a redação da ressalva); nada mais a mudar no original. Restantes artigos da Lei 36/91 são de outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

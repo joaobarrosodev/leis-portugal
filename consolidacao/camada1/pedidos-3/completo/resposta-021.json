@@ -1,0 +1,25 @@
+[
+ {
+  "id": "pt:dre:590339:por",
+  "artigos": [
+   {
+    "chave": "6.º",
+    "epigrafe": "Programa de Reequilíbrio Financeiro da Região Autónoma da Madeira",
+    "texto": "No âmbito do Programa de Reequilíbrio Financeiro da Região Autónoma da Madeira, através do qual o Orçamento do Estado suporta uma comparticipação extraordinária nos juros da dívida daquela Região correspondente a 50% do seu valor anual:\n\n1) O saldo do orçamento consolidado da Região Autónoma da Madeira, excluídos os passivos financeiros, terá de ser não negativo;\n\n2) A Região Autónoma da Madeira não poderá contrair empréstimos que impliquem um aumento do endividamento líquido da Região, incluindo-se aqui todas as formas de dívida, bancária ou não;\n\n3 - O Governo não poderá aumentar o saldo dos avales prestados à Região Autónoma da Madeira em relação ao valor verificado em 31 de Dezembro de 1988, salvo no que se refere ao montante dos juros capitalizados decorrentes da consolidação da dívida já existente e avalizada àquela data.\n\n4) Se, por força da execução de avales, o Tesouro for chamado a cumprir a obrigação principal relativa a dívidas da Região Autónoma da Madeira, fica o Governo autorizado a reter parte, ou a totalidade, da transferência orçamental anual para aquela Região ou, em caso de insuficiência desta, receitas fiscais da Região até à concorrência dos montantes pagos em execução de avales;\n\n5) A comparticipação nacional nos sistemas comunitários de incentivos financeiros de apoio ao sector produtivo de âmbito nacional respeitantes à Região Autónoma da Madeira será assegurada pelo Orçamento do Estado;\n\n6) A despesa correspondente à comparticipação extraordinária nos juros da dívida da Região Autónoma da Madeira é inscrita no capítulo 12, «Encargos da dívida pública», do Ministério das Finanças.",
+    "alterador": 5
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, alterações ao Código do IRS (Decreto-Lei n.º 442-A/88): outro diploma; a Lei n.º 101/89 só aparece como autorização legislativa e origem de redação anterior desse código.\nAlterador 4, substituição «na parte respectiva» dos mapas II a IV e VII: só em imagem; os mapas não têm título de anexo no texto atual onde pôr as linhas da imagem.\nAlterador 5, art. 2.º (limite do art. 8.º elevado de 40 para 90 milhões de contos): sem texto; o alterador só diz que o limite é elevado, sem dar nova redação do artigo 8.º, e um parágrafo reescrito não estaria letra a letra no alterador nem no original.\nAlterador 5, art. 3.º (limite do n.º 4 do art. 11.º para avales internos elevado para 65 milhões de contos): sem texto; o alterador não dá nova redação do n.º 4, só o novo limite.\nAlterador 5, art. 4.º (limite da alínea a) do n.º 3 do art. 12.º reduzido de 80 para 30 milhões de contos): sem texto; o alterador não dá nova redação da alínea, só o novo limite.\nAlterador 23, Acórdão n.º 260/98 sobre o art. 43.º: não textual; declaração de inconstitucionalidade com força obrigatória geral sem eliminar o texto.",
+  "instrucoes": [
+   "Alteradores 1, 3, 6-22, 24-50: não mencionam a Lei n.º 101/89 (texto omitido pela triagem); nada aplicado.",
+   "Alterador 2: altera o Código do IRS; outro diploma, em nao_aplicavel.",
+   "Alterador 4 (Lei n.º 60/90): substitui na parte respectiva os mapas II a IV e VII, só em imagem e sem título de anexo no texto atual; em nao_aplicavel.",
+   "Alterador 5, art. 1.º: nova redação do n.º 3 do art. 6.º, copiada letra a letra do alterador; os n.os 1, 2, 4, 5 e 6 («...») ficam como no texto atual.",
+   "Alterador 5, arts. 2.º a 4.º: alteram os limites dos arts. 8.º, 11.º n.º 4 e 12.º n.º 3 a) sem nova redação; não reescritos (conforme os reparos), em nao_aplicavel.",
+   "Alterador 23 (Acórdão n.º 260/98): inconstitucionalidade do art. 43.º sem eliminar o texto; em nao_aplicavel."
+  ]
+ }
+]

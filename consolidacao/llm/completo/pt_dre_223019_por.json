@@ -51,7 +51,13 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)",
+      "novo": "## ANEXO I",
+      "alterador": 4
+    }
+  ],
   "anexos": [
     {
       "titulo": "## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)",
@@ -59,24 +65,23 @@
       "alterador": 4
     }
   ],
-  "nao_aplicavel": "Alterador 3, art. 6.º, n.º 1, alínea d) (revoga todos os preceitos que contrariem o diploma): revogação condicional, sem alvo textual.\nAlterador 5, art. 2.º (redenominação da APS para APS - Administração dos Portos de Sines e do Algarve, S.A.): não textual; o diploma só muda o texto onde o diz expressamente (arts. 13.º e 14.º).",
+  "nao_aplicavel": "Alterador 3, art. 6.º, n.º 1, alínea d) (revoga todos os preceitos que contrariem o diploma): revogação condicional, «que contrariem».",
   "instrucoes": [
-    "Alterador 1 (DL 474-A/99, Lei Orgânica do XIV Governo): não traz nenhuma instrução dirigida ao DL 337/98; nada aplicado.",
-    "Alterador 2, art. 1.º, n.º 3: nova redação do n.º 1 do art. 9.º dos Estatutos (presidente e dois vogais), copiada letra a letra (com «e composto»); n.os 2 e 3 mantidos.",
-    "Alterador 3, art. 5.º, n.º 1: aditada a alínea g) ao n.º 2 do art. 3.º do decreto preambular.",
+    "Alterador 1 (DL 474-A/99): só põe a APS na dependência do Ministro do Equipamento Social; nenhuma instrução ao texto.",
+    "Alterador 2 (DL 334/2001), art. 1.º, n.º 3: nova redação do n.º 1 do art. 9.º dos Estatutos (presidente e dois vogais); n.os 2 e 3 mantidos.",
+    "Alterador 3 (DL 46/2002), art. 5.º, n.º 1: aditada a alínea g) ao n.º 2 do art. 3.º.",
     "Alterador 3, art. 6.º, n.º 1, b): revogados os n.os 2 e 3 do art. 12.º.",
     "Alterador 3, art. 6.º, n.º 1, d): revogação condicional, não aplicada.",
-    "Alterador 4, art. 2.º: nova redação do art. 7.º (n.º 1, proémio do n.º 3 e alíneas c) a cc) novas; alíneas a) e b) e n.os 2 e 5 mantidos; n.º 4 revogado).",
-    "Alterador 4, art. 3.º: anexo I (planta) substituído pelo anexo I do DL 95/2010; corpo do anexo passa a ter a ligação da imagem nova.",
+    "Alterador 4 (DL 95/2010), art. 2.º: nova redação do n.º 1, da abertura e das alíneas c) a cc) do n.º 3 do art. 7.º; n.º 4 revogado; a), b), n.º 2 e n.º 5 mantidos.",
+    "Alterador 4, art. 3.º: anexo I substituído pelo anexo I do DL 95/2010 (imagem); título passa a 'ANEXO I' sem a ligação à planta de 1998 e corpo com a ligação de 2010.",
     "Alterador 4, art. 7.º: revogados o n.º 4 do art. 7.º e o art. 8.º.",
-    "Alterador 5, art. 13.º: nova redação dos n.os 1 e 4 do art. 3.º (n.os 2, com a alínea g), e 3 mantidos) e aditado o n.º 6 ao art. 7.º.",
-    "Alterador 5, art. 14.º: nova redação do n.º 1 do art. 1.º, do art. 3.º e da alínea l) do art. 10.º dos Estatutos.",
-    "Alterador 5, art. 2.º (redenominação): não textual.",
-    "Alteradores 6, 7 e 8: sem artigos que mencionem o original; nada aplicado."
+    "Alterador 5 (DL 44/2014), art. 13.º: nova redação dos n.os 1 e 4 do art. 3.º e aditado o n.º 6 ao art. 7.º (n.º 4 continua revogado).",
+    "Alterador 5, art. 14.º: nova redação dos arts. 1.º, n.º 1, 3.º e 10.º, alínea l), dos Estatutos.",
+    "Alteradores 6, 7 e 8 (DL 251-A/2015, 169-B/2019, 32/2022): sem texto que vise o original; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

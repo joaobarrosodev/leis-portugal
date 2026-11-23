@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "101.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "112.º",
@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "115.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "117.º",
@@ -67,7 +67,175 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "41.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 41.º\n\nFica o Governo autorizado a emitir no ultramar, por intermédio do Ministério das Finanças e nos termos a estabelecer, títulos de obrigação denominados «promissórias de fomento ultramarino», reembolsáveis a prazos de um a cinco anos e cujo produto se destinará, exclusivamente, ao financiamento, nas províncias ultramarinas de investimentos previstos em planos aprovados pelo Conselho de Ministros para os Assuntos Económicos.\n\n§ 1.º As promissórias serão títulos nominativos, liberados em moeda nacional com curso legal nas províncias ultramarinas e averbáveis ùnicamente a favor da Fazenda Nacional e das instituições de crédito referidas no artigo 3.º deste diploma.\n\n§ 2.º O valor de cada título não será inferior a 1000000$00 nem excederá 10000000$00.\n\n§ 3.º As promissórias vencerão juro de taxa anual não superior a 2 por cento, pagável no fim de cada semestre, e serão transmissíveis por todos os modos admitidos em direito, mas as transmissões a título oneroso efectuar-se-ão sempre pelo capital nominal.\n\n§ 4.º A importância total das promissórias em circulação não poderá exceder o limite que for acordado, para determinado período e sobre parecer do Ministro do Ultramar, entre o Estado, representado pelo Ministro das Finanças, e os bancos emissores ultramarinos.",
+    "depois": "###### Artigo 41.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "42.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º\n\nO produto da emissão das promissórias de fomento ultramarino será colocado à disposição do Fundo de Fomento Económico, nos termos da alínea f) do artigo 10.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), mediante depósito em conta corrente à ordem no banco emissor da respectiva província ultramarina.",
+    "depois": "###### Artigo 42.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "43.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º\n\nO produto da emissão das promissórias de fomento ultramarino poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimentos ou aos fundos de fomento das províncias ultramarinas referidos no artigo 11.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), para ser por eles utilizado de harmonia com as aplicações indicadas nos planos de emissão dos títulos.",
+    "depois": "###### Artigo 43.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "51.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 51.º\n\nOs depósitos de disponibilidades monetárias a que se refere o artigo 47.º revestirão uma das formas seguintes:\n\n1.º Depósito à ordem;\n\n2.º Depósito a prazo.\n\n§ 1.º Os depósitos referidos no n.º 1.º são imediatamente exigíveis, podendo, todavia, os depositários acordar com os depositantes que os levantamentos, quando excedam determinada importância, dependam de aviso dado com a antecedência de um certo número de dias.\n\n§ 2.º Os depósitos a que respeita o n.º 2.º só são exigíveis findo o prazo por que foram efectuados, prazo que não poderá exceder um ano e se considera prorrogado por um período igual, no caso de falta de declaração em contrário feita pelo depositante até à data do vencimento.\n\n§ 3.º Os depósitos a prazo podem incluir a cláusula de pré-aviso, destinada a torná-los exigíveis antes do prazo estipulado.\n\n§ 4.º Os depósitos a prazo com cláusula de pré-aviso só serão exigíveis depois de prevenido o depositário com a antecipação fixada nesta cláusula, a qual nunca poderá ser superior a 90 dias.",
+    "depois": "###### Artigo 51.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "72.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 72.º\n\nO juro atribuído pelos bancos comerciais nas províncias ultramarinas aos depósitos à ordem não poderá exceder metade da taxa média de desconto do banco emissor da respectiva província durante o semestre anterior à liquidação do mesmo juro e o juro atribuído aos depósitos a prazo até um ano não excederá o valor da taxa média de desconto do dito banco emissor, durante os prazos que precederem a liquidação dos juros, acrescida de 0,5 por cento.",
+    "depois": "###### Artigo 72.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "73.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 73.º\n\nOs bancos comerciais não cobrarão, pelo desconto de efeitos comerciais ou por quaisquer outras operações de crédito a curto prazo, juros de taxa superior à do desconto do banco emissor da respectiva província, acrescida de 2 por cento.\n\n§ 1.º Sendo cobradas quaisquer comissões, estas serão consideradas como juro para efeito do limite fixado no presente artigo. Não serão, porém, considerados para o mesmo efeito os prémios de transferência referentes a letras ou outros efeitos pagáveis em praça diferente daquela onde tiver lugar o desconto e o reembolso de despesas efectuadas.\n\n§ 2.º As taxas de juro aplicadas em conformidade com o presente artigo não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco emissor da província durante o prazo por que as operações forem feitas.",
+    "depois": "###### Artigo 73.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "74.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 74.º\n\nOs Ministros das Finanças e do Ultramar, ouvidos o Conselho Nacional de Crédito e os governos das províncias ultramarinas interessadas, ou por propostas destas ou daquele Conselho, poderão alterar por portaria, em relação a uma ou mais províncias, os limites estabelecidos nos artigos 72.º e 73.º anteriores, bem como fixar os limites de juro de quaisquer outras operações bancárias, nomeadamente das operações de crédito a médio e longo prazos.",
+    "depois": "###### Artigo 74.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "75.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 75.º\n\nA importância das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da respectiva província ultramarina e promissórias de fomento ultramarino, deverá ser equivalente a 20 por cento, pelo menos, das suas responsabilidades à vista e moeda nacional com curso legal na província.\n\n§ 1.º Os vales de correio e os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre, mas apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder cinco dias.\n\n§ 2.º Além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista, para efeito do disposto no corpo do presente artigo, os depósitos a prazo ou com pré-aviso inferiores a 30 dias.",
+    "depois": "###### Artigo 75.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "76.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 76.º\n\nOs bancos comerciais são obrigados a ter disponibilidades de caixa com a constituição referida no artigo anterior, numa importância de 5 por cento, pelo menos, do total das suas responsabilidades, em moeda nacional com curso legal na província, por depósitos a prazo ou com pré-aviso não inferiores a 30 dias.",
+    "depois": "###### Artigo 76.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "77.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 77.º\n\nO Ministro do Ultramar fica com a faculdade de, ouvido o Conselho Nacional de Crédito, alterar por portaria, de acordo com a evolução dos mercados monetários das províncias ultramarinas, as percentagens das disponibilidades de caixa estabelecidas nos artigos 75.º e 76.º, bem como a fixar a participação que nelas poderão atingir as promissórias de fomento ultramarino referidas no artigo 41.º do presente diploma.\n\n§ único. As alterações das percentagens das disponibilidades de caixa poderão não ser idênticas para todas as províncias ultramarinas e a participação nessas disponibilidades das promissórias de fomento ultramarino poderá igualmente variar de província para província.",
+    "depois": "###### Artigo 77.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "78.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 78.º\n\nA parte do valor das responsabilidades à vista e dos depósitos a prazo ou com pré-aviso não inferiores a 30 dias dos bancos comerciais, em moeda nacional com curso legal na província onde os bancos estiverem domiciliados, que exceda a importância das disponibilidades de caixa referidas nos artigos 75.º e 76.º deverá estar garantida por:\n\na) Disponibilidades em ouro e moedas estrangeiras, deduzidas as responsabilidades totais em moedas estrangeiras exigíveis a prazo não superior a 180 dias, que os bancos comerciais tenham constituído ao abrigo da legislação sobre o exercício de comércio de câmbios nas províncias ultramarinas;\n\nb) Disponibilidades em moeda nacional com curso legal noutros territórios portugueses, que os bancos comerciais tenham constituído ao abrigo da legislação sobre a realização de operações de pagamentos interterritoriais;\n\nc) Saldos em outras instituições de crédito domiciliadas na mesma província ultramarina, pagáveis à vista ou a prazos não superiores a 90 dias, e cheques à vista e ordens de pagamento emitidas por entidades de reconhecido crédito sobre essas instituições;\n\nd) Títulos da dívida pública portuguesa, incluindo as promissórias de fomento ultramarino não contadas para os efeitos do artigo 75.º, e obrigações com garantia do Estado emitidas por quaisquer empresas;\n\ne) Acções e obrigações não garantidas pelo Estado, cotadas na bolsa;\n\nf) Valores da carteira comercial a prazo não superior a seis meses, representados por letras, livranças, extractos de facturas e warrants descontados;\n\ng) Disponibilidades e valores realizáveis até 180 dias em posse de correspondentes na província;\n\nh) Empréstimos ou contas correntes a prazo não superior a um ano, caucionados por hipoteca ou pelo penhor de títulos da dívida pública, de títulos de acções e obrigações de empresas, de metais preciosos amoedados ou não, de mercadorias ou dos respectivos conhecimentos que, para esse efeito, as representem, e por warrants.\n\n§ 1.º Nas disponibilidades em moedas estrangeiras, a que se refere a alínea a) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre o exercício do comércio de câmbios nas províncias ultramarinas, as letras em carteira aceites por bancos domiciliados no estrangeiro, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre esses bancos e, bem assim, quaisquer outros valores em moeda estrangeira que os bancos comerciais hajam adquirido ao abrigo daquela legislação.\n\n§ 2.º Nas disponibilidades em moeda nacional com curso legal noutros territórios portugueses, referidas na alínea b) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre as operações de pagamentos interterritoriais, as letras em carteira aceites por instituições de crédito domiciliadas naqueles territórios nacionais, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre essas instituições e, bem assim, quaisquer outros valores em moeda nacional que os bancos comerciais hajam adquirido ao abrigo da citada legislação.",
+    "depois": "###### Artigo 78.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+  },
+  {
+    "artigo": "80.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 80.º\n\nO Ministro do Ultramar, atenta a conjuntura monetária e financeira das províncias ultramarinas e ouvido o Conselho Nacional de Crédito, poderá fixar por portaria:\n\na) A participação dos títulos de dívida pública nas garantias a que se refere o artigo 78.º;\n\nb) O limite máximo de representação nas mesmas garantias, de acções e obrigações, incluindo as obrigações garantidas pelo Estado, dos valores de carteira comercial a prazo superior a 90 dias dos empréstimos e contas correntes caucionados por outra forma que não seja a do penhor de títulos de dívida pública;\n\nc) As condições a que devem obedecer as acções e as obrigações não garantidas pelo Estado para que estes títulos, ou os empréstimos ou contas correntes por eles caucionados, possam ser considerados nas ditas garantias;\n\nd) As condições em que valores não indicados nas alíneas a) a h) do artigo 78.º, ou aí referidos mas a prazos superiores aos estabelecidos nas mesmas alíneas, poderão ser contados como garantias para efeitos do disposto nesse artigo;\n\ne) O limite mínimo da relação entre o montante do capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.\n\n§ único. Os limites e condições a estabelecer pelo Ministro do Ultramar nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.",
+    "depois": "###### Artigo 80.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687387:por",
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "68.º",
@@ -81,7 +249,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "70.º",
@@ -95,7 +263,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "69.º",
@@ -109,7 +277,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "98.º",
@@ -123,7 +291,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "111.º",
@@ -137,7 +305,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   },
   {
     "artigo": "122.º",
@@ -151,6 +319,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:687387:por",
-    "alterador": "pt:dre:238615:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
+    "alterador": "pt:dre:238615:por;pt:dre:296233:por;pt:dre:274851:por;pt:dre:201236:por;pt:dre:683468:por;pt:dre:421979:por;pt:dre:422390:por;pt:dre:216291:por"
   }
 ]

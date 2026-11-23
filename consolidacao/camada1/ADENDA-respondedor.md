@@ -7,6 +7,7 @@ Estes diplomas já foram pedidos antes e a resposta não passou. Alguns trazem, 
 - **Um anexo, quadro ou mapa que só existe em imagem e que o alterador substitui por inteiro**, com a imagem nova no texto do alterador («[(ver documento original)](endereço)»). Se o anexo tem título no texto atual («#### Título de divisão: ## Anexo …», com o «Corpo do anexo»), devolve-o em `anexos`. O `texto` é o corpo novo: as linhas da imagem do alterador, copiadas letra a letra.
 - **Uma alteração parcial de um quadro em imagem** («é alterado o quadro…», «são aditados ao mapa…»). O `texto` é o corpo atual inteiro, uma linha em branco e as linhas da imagem do alterador.
 - **Sem título de anexo no texto atual, ou sem imagem no alterador:** não inventes. Vai para `nao_aplicavel`.
+- **As linhas de imagem que já estão no texto atual** («[(ver documento original)](endereço)», às vezes repetidas com o mesmo endereço) fazem parte do texto: num artigo ou anexo que reescreves, as que a instrução não muda copiam-se todas, como estão (ronda 116: a segunda leitura encontrou consolidados que as perdiam).
 
 ### `nao_aplicavel`
 

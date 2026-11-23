@@ -1,0 +1,120 @@
+[
+ {
+  "id": "pt:dre:484667:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97 art. 2.º: nova redação dos n.os 1 e 2 aplicada (suprime Entidade de Planeamento; DGE)."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.º 3 com nova redação; restantes n.os mantidos."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 96.º, al. c), do DL 226-A/2007 (artigos 6.º, 7.º e 53.º); epígrafe mantida."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 96.º, al. c), do DL 226-A/2007."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: artigo com nova redação integral (n.os 1 a 4, alíneas do n.º 2)."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.os 2, 4 e 7 alterados; 1, 3, 5, 6 mantidos."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.os 1, 4, 7 e 8 alterados; restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 198/2000 aditou n.os 4 e 5, revogados pelo art. 7.º do DL 153/2004."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.º 2 alterado."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.os 1 e 4 alterados; n.º 5 aditado pelo DL 198/2000 e revogado pelo DL 153/2004."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: artigo substituído por 4 números."
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.º 4 alterado."
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: al. g) alterada."
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.os 2 a 6 conforme nova redação; n.º 1 mantido."
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: nova epígrafe e n.os 1 a 3; n.os 4 e 5 mantidos; n.os 6 e 7 do original não constam da nova redação do artigo."
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: nova epígrafe e corpo; alíneas mantidas."
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: n.º 2 alterado."
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "DL 56/97: al. l) do n.º 1 alterada."
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 96.º, al. c), do DL 226-A/2007."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 198/2000, art. 6.º: referências a quatro licenças vinculadas de distribuição/quatro sociedades consideram-se alteradas",
+    "motivo": "Não textual: alteração por remissão genérica, sem texto a substituir; confirmado no texto do alterador."
+   },
+   {
+    "instrucao": "DL 172/2006, art. 79.º, n.º 1: revogação do DL 183/95 (exceto arts. 6.º, 7.º e 53.º)",
+    "motivo": "Efeito adiado: o próprio preceito ressalva a vigência transitória do DL 183/95 para os efeitos do n.º 1 do art. 61.º (CAE em vigor, art. 70.º), até à extinção dos CAE."
+   },
+   {
+    "instrucao": "DL 76/2019, art. 79.º, n.º 1: mesma revogação do DL 183/95",
+    "motivo": "Efeito adiado: mesma ressalva da vigência transitória (art. 61.º, n.º 1 e art. 70.º, n.º 1) enquanto os CAE não se extinguirem."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

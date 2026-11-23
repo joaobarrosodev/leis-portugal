@@ -1,0 +1,150 @@
+[
+ {
+  "id": "pt:dre:687387:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "§ 3.º com a redacção do DL 46243 art. 1.º, letra a letra; restantes parágrafos iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 26.º do DL 46380; epígrafe/título mantido, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 26.º do DL 46380; epígrafe/título mantido, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 26.º do DL 46380; epígrafe/título mantido, corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 49003 (art. único), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 23/73 (art. único), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "§ 1.º com a redacção do DL 49003; resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 48369 (artigos 72.º a 78.º e 80.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "DL 387/73: § único passa a § 1.º e adita-se § 2.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Corpo com a redacção do DL 46243 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Corpo, §§ 1.º-3.º do DL 46243; alínea a) e § 6.º do DL 279/73; §§ 4.º e 5.º do DL 49003 (na redacção do 46243); conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "DL 46243: corpo mantido (\"...\") e § único acrescentado; conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e § único com a redacção do DL 46243.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e § único com a redacção do DL 46243.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do art. 2.º n.º 3 do DL 49306.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

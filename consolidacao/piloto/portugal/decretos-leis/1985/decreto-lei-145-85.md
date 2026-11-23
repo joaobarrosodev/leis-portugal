@@ -7,6 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:610474:por
+    title: Decreto-Lei n.º 42/89
+    publication_date: '1989-02-03'
+  - id: pt:dre:524225:por
+    title: Decreto-Lei n.º 40/94
+    publication_date: '1994-02-11'
   - id: pt:dre:642051:por
     title: Decreto-Lei n.º 318/2007
     publication_date: '2007-09-26'
@@ -40,11 +46,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 2.º
 
-1 - Os vogais do conselho técnico dos registos e do notariado podem ser autorizados a desempenhar as suas funções, em comissão de serviço, nos termos do artigo 35.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e do artigo 1.º do [Decreto-Lei n.º 475/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1980-462065), de 15 de Outubro.
+(Revogado.)
 
-2 - Aos vogais a que se refere o número anterior pode ser atribuída a orientação, supervisão ou inspecção dos serviços dos registos e do notariado em determinadas circunscrições geográficas.
-
-3 - O número e espécie de secções, bem como o número de vogais e as normas de funcionamento do conselho técnico, constam de regulamento aprovado por portaria do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 40/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1994-524225), publicado em 1994-02-11.
 
 ###### Artigo 3.º
 
@@ -60,9 +64,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 4.º
 
-1 - São admitidas apenas como provisórias as inscrições de factos referentes a quaisquer entidades sujeitas a inscrição no registo nacional de pessoas colectivas de que se não comprove a aceitação neste da inscrição definitiva.
+(Revogado.)
 
-2 - A aceitação da inscrição definitiva de actos ou factos jurídicos sujeitos a Registo Comercial será oficiosamente comunicada pelo registo nacional de pessoas colectivas à conservatória do registo comercial competente, que converterá, oficiosa e gratuitamente, a correspondente inscrição provisória.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 5.º
 

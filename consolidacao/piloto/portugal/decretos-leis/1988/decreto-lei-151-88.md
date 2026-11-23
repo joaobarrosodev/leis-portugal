@@ -74,6 +74,56 @@ d) Assegurar a recolha e tratamento de elementos estatísticos.
 
 5 - As remunerações devidas pelas transições resultantes da aplicação do [Decreto n.º 109/80](https://diariodarepublica.pt/dr/detalhe/decreto/109-1980-462429), de 20 de Outubro, reportam-se à data da entrada em vigor do presente diploma.
 
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/268b00/81138114.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/10/235b00/67966798.pdf)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256b00/75667567.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/244b00/49234923.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56515651.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/224b00/58485849.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/06/149b00/39743976.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/04/080b00/18471848.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/10/251b00/72607262.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/10/236b00/68266827.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/04/088b00/20182020.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274b00/83658367.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/282b00/56125612.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/196b00/49354936.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/04/080b00/18451846.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/04/088b00/20202021.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34903491.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/01/017b00/03680369.pdf)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/213b00/47664768.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/069b00/16291630.pdf)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/06/149b00/39773979.pdf)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/032b00/07030704.pdf)
+
+Quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/183a00/40494050.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 290/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1991-680633), publicado em 1991-08-10.
+
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Promulgado em 6 de Abril de 1988.

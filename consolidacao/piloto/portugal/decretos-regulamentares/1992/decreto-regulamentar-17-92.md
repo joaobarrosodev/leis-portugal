@@ -641,8 +641,6 @@ Aplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/po
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
 
-Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
-
 [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)
 
 > Alterado pelo/a [Portaria n.º 414/98](https://diariodarepublica.pt/dr/detalhe/portaria/414-1998-424337), publicado em 1998-07-20.

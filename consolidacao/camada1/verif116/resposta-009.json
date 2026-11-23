@@ -1,0 +1,315 @@
+[
+ {
+  "id": "pt:dre:273612:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas i) (DL 372/70), m) (Decreto 14/77), n) (DL 535/75) com a nova redação e § único aditado (DL 85/75); restantes alíneas iguais ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 48943 art. 1.º: n.º 1 com o corpo original e n.º 2 novo",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 372/70 art. 4.º: nova redação, n.os 1) a 7) letra a letra",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49283 art. 3.º: a gratificação mensal de 500$00 fixada no § 4.º do artigo 36.º passa a 1000$00. Alteração textual do montante, alvo conhecido (§ 4.º do artigo 36.º), que está na lista dos IGUAIS ao original, sem efeito no consolidado",
+   "DL 372/70 art. 5.º: deixa de fazer parte do Conselho Consultivo da DGEMN o representante da Direcção-Geral da Previdência e Habitações Económicas (eliminação de texto, não é nenhuma das categorias justificáveis; o artigo do original que o prevê está nos IGUAIS, alvo incerto na vista, provavelmente o artigo 30.º)",
+   "DL 372/70 art. 6.º: o director do Gabinete de Estudos e Planeamento da JAE passa a ser vogal da Junta e da comissão executiva e tem a gratificação dos directores de serviços (alvo incerto)",
+   "DL 372/70 art. 7.º: é criado o lugar de subdirector-geral dos Serviços de Urbanização (alvo incerto: provavelmente mapa do quadro, só em imagem)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Rectificação ao mapa I anexo ao DL 48498 (onde se lê / deve ler-se)",
+    "motivo": "O texto só vem em imagem; Os quadros/mapas vêm só em imagem e o consolidado não tem anexo com título (nenhum mapa/anexo na lista de artigos) onde os pôr"
+   },
+   {
+    "instrucao": "DL 48943 art. 2.º: validade dos concursos abertos com a redação inicial do artigo 13.º",
+    "motivo": "Norma autónoma transitória, não é alteração textual do original"
+   },
+   {
+    "instrucao": "DL 49283 art. 1.º a), b), c): criação/supressão de lugares nos quadros aprovados pelo artigo 1.º",
+    "motivo": "Alteram os quadros (mapas), só em imagem; Os quadros/mapas vêm só em imagem e o consolidado não tem anexo com título (nenhum mapa/anexo na lista de artigos) onde os pôr"
+   },
+   {
+    "instrucao": "DL 49283 art. 2.º: Gabinete de Estudos e Organização da JAE passa a designar-se Gabinete de Estudos e Planeamento",
+    "motivo": "Mudança de designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 49283 arts. 4.º e 5.º: concurso para desenhador-chefe; encargos",
+    "motivo": "Normas autónomas, não alteram texto do original (o art. 4.º é depois alterado pelo DL 372/70 art. 2.º, que é outro diploma)"
+   },
+   {
+    "instrucao": "DL 372/70 art. 2.º (artigo 4.º do DL 49283), art. 3.º n.º 2 (artigo 52.º do DL 26117), art. 8.º (DL 49169)",
+    "motivo": "Instruções dirigidas a outros diplomas"
+   },
+   {
+    "instrucao": "DL 372/70 art. 3.º n.º 1 (provimento do chefe dos serviços administrativos da Secretaria-Geral)",
+    "motivo": "Norma autónoma, não dá nova redação a artigo do original"
+   },
+   {
+    "instrucao": "DL 313/72 art. 1.º",
+    "motivo": "Norma autónoma sobre a direcção dos Gabinetes, sem nova redação de artigo do original"
+   },
+   {
+    "instrucao": "DL 313/72 art. 2.º: mapas da JAE e da DGCE",
+    "motivo": "Mapas só em imagem; Os quadros/mapas vêm só em imagem e o consolidado não tem anexo com título (nenhum mapa/anexo na lista de artigos) onde os pôr"
+   },
+   {
+    "instrucao": "DL 458/75 art. 1.º: alteração dos quadros de chefes de conservação e de lanço da JAE",
+    "motivo": "Mapas só em imagem; Os quadros/mapas vêm só em imagem e o consolidado não tem anexo com título (nenhum mapa/anexo na lista de artigos) onde os pôr"
+   },
+   {
+    "instrucao": "DL 458/75 arts. 2.º a 7.º",
+    "motivo": "Normas autónomas sobre recrutamento e integração, não alteram texto do original"
+   },
+   {
+    "instrucao": "Decreto 14/77 art. 2.º: revogação de alíneas do DL 118/75",
+    "motivo": "Instrução dirigida a outro diploma"
+   },
+   {
+    "instrucao": "DL 183/80",
+    "motivo": "O alterador vem sem texto na vista (título sem corpo): não traz o texto da alteração"
+   },
+   {
+    "instrucao": "Portaria 415/80 n.os 1 a 8",
+    "motivo": "Substituem quadros de outros organismos, outros diplomas"
+   },
+   {
+    "instrucao": "Portaria 415/80 n.º 9: quadro da DGEMN substituído pelo anexo IX",
+    "motivo": "Anexo só em imagem; Os quadros/mapas vêm só em imagem e o consolidado não tem anexo com título (nenhum mapa/anexo na lista de artigos) onde os pôr"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:281452:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'; cabeçalho de secção que segue o artigo mantém-se",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'; cabeçalho de secção que segue o artigo mantém-se",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "dúvida",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 (artigos 3.º e seguintes, com efeitos a 1/1/1973), o consolidado põe '(Revogado.)'. Mas o DL 7/85 deu depois nova redação ao § único do artigo 32.º sem referir a revogação: pode ser repristinação (§ único com as taxas de 15,5% e 14,5%) ou lapso do legislador; instrução ambígua",
+    "texto_esperado": "Se o § único revive: corpo do original (corpo e alíneas a) e b) revogados ou não, a decidir) e '§ único. A revisão das condições financeiras consistirá no cálculo de uma nova renda, ou da prestação de amortização, a partir da data da modificação da situação do funcionário, utilizando-se no novo cálculo as taxas de 15,5% no caso de exoneração e de 14,5% no caso de passagem à licença ilimitada.'"
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 ('os artigos 3.º e seguintes'), em vigor a 1/1/1973 (art. 32.º): fica só '(Revogado.)'; fecho do diploma (Publique-se...) mantém-se",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 7/85 artigo único: nova redação do § único do artigo 32.º (taxas de 15,5% e 14,5%). O consolidado mantém o artigo 32.º revogado pelo DL 583/72; o § único novo não aparece em lado nenhum (alvo incerto: revogação anterior, sem repristinação expressa)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 583/72, restantes artigos (reorganização do Fundo de Fomento da Habitação)",
+    "motivo": "Normas autónomas ou dirigidas a outros diplomas (Lei 2092, DL 49033, DL 23052); só o art. 33.º visa o original e foi aplicado"
+   },
+   {
+    "instrucao": "DL 217/70 art. 2.º (registo da propriedade horizontal)",
+    "motivo": "Norma autónoma, não altera texto do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "id": "pt:dre:242189:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º: nova redação dos n.os 1 e 2 do art. 4.º aplicada letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º: nova redação dos n.os 1 a 3 do art. 5.º (e início da tabela) aplicada; o resto da tabela é igual ao original e está nos trechos seguintes.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 303/76: n.os 4 a 6 do art. 5.º como na nova redação; art. 6.º com a redação do DL 77/90 (n.os 1 e 2), que substitui a do DL 303/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 3.º revoga o n.º 3 do art. 8.º: '3. (Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º: nova redação do n.º 1 do art. 9.º aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Lei 30/2006 art. 37.º, i) revoga o art. 20.º: corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "DR 90/84 art. 5.º revoga o art. 5.º do Regulamento de Instalações Colectivas: corpo '(Revogado.)'. A designação 'Chegada' (epígrafe da definição) foi omitida, mas o efeito é o correto; manter a epígrafe seria o ideal.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 90/84 art. 3.º: arts. 3.º e 4.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas passam a ter a redação dos n.os 25 e 24 do art. 3.º do Regulamento de Redes de Distribuição BT anexo.",
+    "motivo": "O diploma que altera só remete para o regulamento anexo e não traz o texto da alteração (confirmado: o art. 3.º do DR 90/84 não reproduz a redação)."
+   },
+   {
+    "instrucao": "Alterador 4 (art. 6.º): revogação do art. 1.º e dos Regulamentos anexos, com efeito a partir de portaria do n.º 1 do art. 2.º do DL 226/2005.",
+    "motivo": "Efeito adiado para facto futuro; o texto desse alterador e do DL 226/2005 não vem na vista, por isso não o consegui confirmar, apenas consta da secção de quem consolidou."
+   },
+   {
+    "instrucao": "DL 303/76 art. 2.º (ramais, chegadas ou entradas pagos pelo proprietário).",
+    "motivo": "Norma autónoma do diploma que altera, que não indica alterar artigo do DL 740/74."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

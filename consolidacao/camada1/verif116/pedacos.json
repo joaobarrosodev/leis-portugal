@@ -1,0 +1,426 @@
+[
+ {
+  "pedaco": 1,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:139722:por"
+  ],
+  "chars": 36588,
+  "vista": "camada1/verif116/vista-001.md",
+  "resposta": "camada1/verif116/resposta-001.json"
+ },
+ {
+  "pedaco": 2,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:152365:por"
+  ],
+  "chars": 147536,
+  "vista": "camada1/verif116/vista-002.md",
+  "resposta": "camada1/verif116/resposta-002.json"
+ },
+ {
+  "pedaco": 3,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:171362:por"
+  ],
+  "chars": 51157,
+  "vista": "camada1/verif116/vista-003.md",
+  "resposta": "camada1/verif116/resposta-003.json"
+ },
+ {
+  "pedaco": 4,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:173758:por"
+  ],
+  "chars": 488072,
+  "vista": "camada1/verif116/vista-004.md",
+  "resposta": "camada1/verif116/resposta-004.json"
+ },
+ {
+  "pedaco": 5,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:176301:por"
+  ],
+  "chars": 103439,
+  "vista": "camada1/verif116/vista-005.md",
+  "resposta": "camada1/verif116/resposta-005.json"
+ },
+ {
+  "pedaco": 6,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:193229:por"
+  ],
+  "chars": 52284,
+  "vista": "camada1/verif116/vista-006.md",
+  "resposta": "camada1/verif116/resposta-006.json"
+ },
+ {
+  "pedaco": 7,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:223019:por"
+  ],
+  "chars": 108649,
+  "vista": "camada1/verif116/vista-007.md",
+  "resposta": "camada1/verif116/resposta-007.json"
+ },
+ {
+  "pedaco": 8,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:234506:por"
+  ],
+  "chars": 797067,
+  "vista": "camada1/verif116/vista-008.md",
+  "resposta": "camada1/verif116/resposta-008.json"
+ },
+ {
+  "pedaco": 9,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:273612:por",
+   "pt:dre:281452:por"
+  ],
+  "chars": 90234,
+  "vista": "camada1/verif116/vista-009.md",
+  "resposta": "camada1/verif116/resposta-009.json"
+ },
+ {
+  "pedaco": 10,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:285477:por"
+  ],
+  "chars": 140813,
+  "vista": "camada1/verif116/vista-010.md",
+  "resposta": "camada1/verif116/resposta-010.json"
+ },
+ {
+  "pedaco": 11,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:292498:por"
+  ],
+  "chars": 35926,
+  "vista": "camada1/verif116/vista-011.md",
+  "resposta": "camada1/verif116/resposta-011.json"
+ },
+ {
+  "pedaco": 12,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:371035:por"
+  ],
+  "chars": 215190,
+  "vista": "camada1/verif116/vista-012.md",
+  "resposta": "camada1/verif116/resposta-012.json"
+ },
+ {
+  "pedaco": 13,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:375192:por"
+  ],
+  "chars": 39590,
+  "vista": "camada1/verif116/vista-013.md",
+  "resposta": "camada1/verif116/resposta-013.json"
+ },
+ {
+  "pedaco": 14,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:402880:por"
+  ],
+  "chars": 217052,
+  "vista": "camada1/verif116/vista-014.md",
+  "resposta": "camada1/verif116/resposta-014.json"
+ },
+ {
+  "pedaco": 15,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:419781:por"
+  ],
+  "chars": 66608,
+  "vista": "camada1/verif116/vista-015.md",
+  "resposta": "camada1/verif116/resposta-015.json"
+ },
+ {
+  "pedaco": 16,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:430865:por"
+  ],
+  "chars": 328944,
+  "vista": "camada1/verif116/vista-016.md",
+  "resposta": "camada1/verif116/resposta-016.json"
+ },
+ {
+  "pedaco": 17,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:431793:por"
+  ],
+  "chars": 228747,
+  "vista": "camada1/verif116/vista-017.md",
+  "resposta": "camada1/verif116/resposta-017.json"
+ },
+ {
+  "pedaco": 18,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:432798:por",
+   "pt:dre:463975:por"
+  ],
+  "chars": 116029,
+  "vista": "camada1/verif116/vista-018.md",
+  "resposta": "camada1/verif116/resposta-018.json"
+ },
+ {
+  "pedaco": 19,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:474127:por"
+  ],
+  "chars": 109534,
+  "vista": "camada1/verif116/vista-019.md",
+  "resposta": "camada1/verif116/resposta-019.json"
+ },
+ {
+  "pedaco": 20,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:484667:por"
+  ],
+  "chars": 94004,
+  "vista": "camada1/verif116/vista-020.md",
+  "resposta": "camada1/verif116/resposta-020.json"
+ },
+ {
+  "pedaco": 21,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:485631:por"
+  ],
+  "chars": 132275,
+  "vista": "camada1/verif116/vista-021.md",
+  "resposta": "camada1/verif116/resposta-021.json"
+ },
+ {
+  "pedaco": 22,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:560020:por"
+  ],
+  "chars": 528110,
+  "vista": "camada1/verif116/vista-022.md",
+  "resposta": "camada1/verif116/resposta-022.json"
+ },
+ {
+  "pedaco": 23,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:569887:por"
+  ],
+  "chars": 144314,
+  "vista": "camada1/verif116/vista-023.md",
+  "resposta": "camada1/verif116/resposta-023.json"
+ },
+ {
+  "pedaco": 24,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:590339:por"
+  ],
+  "chars": 24147,
+  "vista": "camada1/verif116/vista-024.md",
+  "resposta": "camada1/verif116/resposta-024.json"
+ },
+ {
+  "pedaco": 25,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:592760:por"
+  ],
+  "chars": 119899,
+  "vista": "camada1/verif116/vista-025.md",
+  "resposta": "camada1/verif116/resposta-025.json"
+ },
+ {
+  "pedaco": 26,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:629160:por"
+  ],
+  "chars": 38195,
+  "vista": "camada1/verif116/vista-026.md",
+  "resposta": "camada1/verif116/resposta-026.json"
+ },
+ {
+  "pedaco": 27,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:632740:por"
+  ],
+  "chars": 191730,
+  "vista": "camada1/verif116/vista-027.md",
+  "resposta": "camada1/verif116/resposta-027.json"
+ },
+ {
+  "pedaco": 28,
+  "lote": "entrada-piloto-116-lote-01.jsonl",
+  "ids": [
+   "pt:dre:638772:por"
+  ],
+  "chars": 24499,
+  "vista": "camada1/verif116/vista-028.md",
+  "resposta": "camada1/verif116/resposta-028.json"
+ },
+ {
+  "pedaco": 29,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:642527:por"
+  ],
+  "chars": 541061,
+  "vista": "camada1/verif116/vista-029.md",
+  "resposta": "camada1/verif116/resposta-029.json"
+ },
+ {
+  "pedaco": 30,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:687387:por"
+  ],
+  "chars": 138584,
+  "vista": "camada1/verif116/vista-030.md",
+  "resposta": "camada1/verif116/resposta-030.json"
+ },
+ {
+  "pedaco": 31,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:215770:por"
+  ],
+  "chars": 246006,
+  "vista": "camada1/verif116/vista-031.md",
+  "resposta": "camada1/verif116/resposta-031.json"
+ },
+ {
+  "pedaco": 32,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:237461:por"
+  ],
+  "chars": 178503,
+  "vista": "camada1/verif116/vista-032.md",
+  "resposta": "camada1/verif116/resposta-032.json"
+ },
+ {
+  "pedaco": 33,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:391404:por"
+  ],
+  "chars": 166033,
+  "vista": "camada1/verif116/vista-033.md",
+  "resposta": "camada1/verif116/resposta-033.json"
+ },
+ {
+  "pedaco": 34,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:226629:por",
+   "pt:dre:237465:por",
+   "pt:dre:374825:por"
+  ],
+  "chars": 121474,
+  "vista": "camada1/verif116/vista-034.md",
+  "resposta": "camada1/verif116/resposta-034.json"
+ },
+ {
+  "pedaco": 35,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:455465:por"
+  ],
+  "chars": 167914,
+  "vista": "camada1/verif116/vista-035.md",
+  "resposta": "camada1/verif116/resposta-035.json"
+ },
+ {
+  "pedaco": 36,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:655311:por"
+  ],
+  "chars": 94578,
+  "vista": "camada1/verif116/vista-036.md",
+  "resposta": "camada1/verif116/resposta-036.json"
+ },
+ {
+  "pedaco": 37,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:692200:por"
+  ],
+  "chars": 137027,
+  "vista": "camada1/verif116/vista-037.md",
+  "resposta": "camada1/verif116/resposta-037.json"
+ },
+ {
+  "pedaco": 38,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:242189:por"
+  ],
+  "chars": 614199,
+  "vista": "camada1/verif116/vista-038.md",
+  "resposta": "camada1/verif116/resposta-038.json"
+ },
+ {
+  "pedaco": 39,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:398139:por"
+  ],
+  "chars": 1195531,
+  "vista": "camada1/verif116/vista-039.md",
+  "resposta": "camada1/verif116/resposta-039.json"
+ },
+ {
+  "pedaco": 40,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:424312:por"
+  ],
+  "chars": 10038,
+  "vista": "camada1/verif116/vista-040.md",
+  "resposta": "camada1/verif116/resposta-040.json"
+ },
+ {
+  "pedaco": 41,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:432796:por"
+  ],
+  "chars": 663694,
+  "vista": "camada1/verif116/vista-041.md",
+  "resposta": "camada1/verif116/resposta-041.json"
+ },
+ {
+  "pedaco": 42,
+  "lote": "entrada-piloto-116-lote-02.jsonl",
+  "ids": [
+   "pt:dre:516068:por"
+  ],
+  "chars": 457065,
+  "vista": "camada1/verif116/vista-042.md",
+  "resposta": "camada1/verif116/resposta-042.json"
+ }
+]

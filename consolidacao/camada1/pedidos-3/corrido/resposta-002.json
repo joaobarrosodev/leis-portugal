@@ -1,0 +1,905 @@
+[
+ {
+  "id": "pt:dre:398139:por",
+  "substituicoes": [
+   {
+    "de": 136,
+    "ate": 136,
+    "texto": "4. São constituídos por mais de um juízo de direito, com competência tanto em matéria cível como criminal, os tribunais constantes do mapa anexo a este estatuto.",
+    "alterador": 7
+   },
+   {
+    "de": 192,
+    "ate": 192,
+    "texto": "m) Conceder prioridade, a requerimento do procurador-geral da República, ao processamento de qualquer acção em que intervenha o Ministério Público sobre o restante serviço não urgente afecto ao tribunal onde correr esse processo, sempre que o justifique a natureza ou o volume excepcional dos interesses morais ou materiais em causa ou a repercussão social dos factos que deram origem ao processo, ficando a decisão exarada no livro de lembranças e transcrita na acta;\n\nn) Desempenhar as demais atribuições que lhes sejam conferidas na lei.",
+    "alterador": 9
+   },
+   {
+    "de": 196,
+    "ate": 196,
+    "texto": "Art. 20.º - 1. As Relações terão o número máximo de juízes constante do mapa anexo a este Estatuto, agrupados em duas ou mais secções sempre que o número de juízes e o volume de serviço o justifiquem.",
+    "alterador": 17
+   },
+   {
+    "de": 212,
+    "ate": 212,
+    "texto": "2. Compete ainda às Relações ou às suas secções:",
+    "alterador": 17
+   },
+   {
+    "de": 222,
+    "ate": 222,
+    "texto": "Art. 25.º A alçada das Relações em matéria cível é de 100000$00, qualquer que seja a natureza dos bens.",
+    "alterador": 9
+   },
+   {
+    "de": 239,
+    "ate": 239,
+    "texto": "Art. 30.º - 1. Os tribunais criminais de Lisboa e do Porto são presididos por um juiz da Relação e têm como vogais, quando funcionem em plenário, os dois presidentes mais antigos, segundo a escala de antiguidade da classe, dos juízos criminais da comarca sede do tribunal.\n\n2. É aplicável ao plenário dos tribunais criminais o disposto no n.º 2 do artigo 26.º, podendo para esse efeito efectuar-se as promoções, para além do quadro, que se tornem necessárias.\n\n3. Os juízes nomeados vogais ao abrigo do disposto no número anterior exercem essas funções cumulativamente com as dos juízos onde servem, sem necessidade de nova posse.",
+    "alterador": 5
+   },
+   {
+    "de": 241,
+    "ate": 241,
+    "texto": "2. O colectivo dos juízos cíveis e dos tribunais de família é constituído pelo juiz do juízo por onde corre o processo, que preside, e por dois dos titulares dos outros juízos, segundo a composição fixada em mapa anexo a este Estatuto.\n\n3. O juiz auxiliar que tenha preparado o processo para julgamento e se encontre em serviço numa vara ou juízo intervirá no respectivo colectivo, como 1.º vogal, tratando-se do colectivo de uma vara cível, ou como presidente, tratando-se do colectivo de um juízo cível ou juízo de família.",
+    "alterador": 17
+   },
+   {
+    "de": 276,
+    "ate": 276,
+    "texto": "a) Às varas cíveis, a preparação e julgamento dos processos ordinários e de quaisquer outros cujo julgamento em matéria de facto seja da competência do tribunal colectivo, se excederem a alçada da Relação, dos que devam considerar-se dependentes desses processos, e bem assim dos procedimentos cautelares a que correspondam acções da sua competência;",
+    "alterador": 9
+   },
+   {
+    "de": 278,
+    "ate": 278,
+    "texto": "2. Concluído o julgamento da matéria de facto, o processo é distribuído entre os juízes do tribunal cível, que constituem o colectivo, para os fins do n.º 5 do artigo 653.º e do n.º 2 do artigo 658.º do Código de Processo Civil.",
+    "alterador": 9
+   },
+   {
+    "de": 285,
+    "ate": 285,
+    "texto": "Art. 38.º - 1. O plenário do tribunal criminal de Lisboa exerce jurisdição na área do distrito judicial de Lisboa e o do Porto na área dos distritos judiciais do Porto e Coimbra.",
+    "alterador": 5
+   },
+   {
+    "de": 296,
+    "ate": 298,
+    "texto": "Art. 43.º - 1. Nos tribunais cíveis de Lisboa e Porto e no tribunal da comarca de Coimbra há sempre um juiz de turno, a quem incumbe presidir à distribuição e efectuar o serviço de expediente dos actos que possam ser praticados, independentemente de distribuição.\n\n2. Os turnos são quinzenais, com início nos dias 1 e 16 de cada mês, seguindo a ordem de numeração das varas e, depois, a dos juízos, nas comarcas de Lisboa e do Porto, e a dos juízos na comarca de Coimbra.\n\n3. Os turnos são suspensos durante as férias judiciais de Verão; nestas férias são distribuídos, em Lisboa e no Porto, por todos os juízes do tribunal cível, e, em Coimbra, pelos juízes do tribunal da comarca e do Tribunal Tutelar Central de Menores, segundo a escala organizada pelo presidente da Relação, com a antecedência mínima de quinze dias, e por forma que haja a possível igualdade na duração de cada turno, podendo o presidente da Relação autorizar a permuta de turnos ou a substituição de um juiz por outro.\n\n4. Nos tribunais de comarca com dois juízos, as atribuições referidas no n.º 1 cabem, alternadamente e por anos completos, a cada um dos respectivos juízes.",
+    "alterador": 9
+   },
+   {
+    "de": 322,
+    "ate": 322,
+    "texto": "Art. 49.º Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa, Porto e Coimbra e daquelas em que haja mais de um juízo serão substituídos pelos conservadores do registo predial e civil da sede da comarca, que o presidente da Relação designar.",
+    "alterador": 9
+   },
+   {
+    "de": 328,
+    "ate": 328,
+    "texto": "Art. 54.º A alçada dos tribunais de comarca em matéria cível é de 40000$00, qualquer que seja a natureza dos bens.",
+    "alterador": 9
+   },
+   {
+    "de": 334,
+    "ate": 334,
+    "texto": "2. Em cada juízo há também um curador de menores, nomeado entre os delegados do procurador da República de qualquer classe.",
+    "alterador": 9
+   },
+   {
+    "de": 350,
+    "ate": 350,
+    "texto": "c) Decidir sobre os procedimentos cautelares requeridos nas acções que preparam ou julgam, cessando, porém, a sua competência no caso de serem deduzidos embargos de terceiro ou do requerido;",
+    "alterador": 9
+   },
+   {
+    "de": 353,
+    "ate": 353,
+    "texto": "2. Os processos de execução em que sejam reclamados quaisquer créditos ou deduzidos embargos de terceiro e os de execução sumária em que se deduza oposição por embargos sobem ao tribunal de comarca, findo que seja o prazo das reclamações ou logo que os embargos sejam deduzidos, para nele prosseguirem até final.",
+    "alterador": 9
+   },
+   {
+    "de": 454,
+    "ate": 454,
+    "texto": "Art. 80.º Ao escriturário-dactilógrafo compete:",
+    "alterador": 12
+   },
+   {
+    "de": 461,
+    "ate": 461,
+    "texto": "d) O escriturário-dactilágrafo, nas mesmas condições em que o são os escriturários-dactilógrafos das secretarias judiciais.",
+    "alterador": 12
+   },
+   {
+    "de": 543,
+    "ate": 543,
+    "texto": "2. O juiz não pode abster-se de julgar, invocando a falta ou a obscuridade da lei, desde que o caso sujeito à apreciação jurisdicional deva ser jurìdicamente regulado.",
+    "alterador": 9
+   },
+   {
+    "de": 595,
+    "ate": 596,
+    "texto": "2. Em casos justificados, pode o Ministro da Justiça autorizar que os magistrados judiciais tomem posse em local diferente daquele onde tenham sido colocados. Nessa hipótese, porém, até que assumam o exercício efectivo das novas funções, serão apenas abonados dos vencimentos correspondentes aos cargos que desempenhavam.\n\nArt. 128.º Os magistrados que sejam promovidos à classe ou instância superior durante o exercício de cargos ou comissões de serviço, nos quais continuem após a promoção ou nomeação, ingressam na nova classe ou categoria a partir da data da publicação dos respectivos despachos no Diário do Governo, independentemente de nova posse.",
+    "alterador": 12
+   },
+   {
+    "de": 603,
+    "ate": 603,
+    "texto": "Art. 130.º - 1. Os cargos de corregedor, inspector judicial, sindicante ou inquiridor, membro dos júris de admissão para cargos judiciais e quaisquer outros em que igualmente devam ser providos magistrados judiciais não podem ser recusados pelos nomeados.\n\nO disposto neste número não se aplica aos presidentes do Supremo Tribunal de Justiça e das Relações e ao vice-presidente do Conselho Superior Judiciário.",
+    "alterador": 32
+   },
+   {
+    "de": 605,
+    "ate": 606,
+    "texto": "3. Os cargos a que se refere o n.º 1, com excepção da presidência do Supremo Tribunal de Justiça e da designação para actos ou diligências isolados, como inquéritos ou sindicâncias, são desempenhados em comissão de serviço por períodos renováveis de três anos.\n\nDecorrido, porém, o primeiro triénio, podem os nomeados requerer a cessação da comissão.\n\nO cargo de corregedor só pode ser provido entre os juízes propostos pelo Conselho.",
+    "alterador": 32
+   },
+   {
+    "de": 613,
+    "ate": 614,
+    "texto": "3. Não podem servir simultâneamente no mesmo tribunal magistrados judiciais e funcionários de justiça ligados por parentesco ou afinidade em qualquer grau da linha recta ou até ao 2.º grau da linha colateral.\n\nSe o impedimento for superveniente às respectivas nomeações, sairá do tribunal o que lhe tiver dado lugar, e, no caso de nenhum lhe ter dado voluntàriamente motivo, o último que tiver sido nomeado, ou o de categoria inferior, se as nomeações forem da mesma data.",
+    "alterador": 12
+   },
+   {
+    "de": 637,
+    "ate": 637,
+    "texto": "2. Quando colocados em outra localidade, não sendo a seu pedido ou por motivo disciplinar, têm os juízes direito ao subsídio fixo de 2000$00.",
+    "alterador": 12
+   },
+   {
+    "de": 640,
+    "ate": 640,
+    "texto": "5. Os juízes nomeados em comissão temporária, nos termos dos n.os 3 e 4 do artigo 20.º e do n.º 2 do artigo 26.º, têm apenas direito ao vencimento da sua classe, acrescido do subsídio referido no n.º 2 e das ajudas de custo ao lhes forem fixadas; todos estes encargos são suportados pelo Cofre Geral dos Tribunais.",
+    "alterador": 12
+   },
+   {
+    "de": 643,
+    "ate": 643,
+    "texto": "Art. 143.º - 1. Aos magistrados judiciais que sejam colocados nas comarcas das ilhas adjacentes abona o Estado, a título de despesas de deslocação, o subsídio a que se refere o n.º 2 do artigo 141.º e a importância do preço da passagem marítima em 1.ª classe, ou o seu equivalente se for preferida a via aérea, para eles e sua família, e do transporte de bagagens desde o porto de embarque até ao de desembarque.",
+    "alterador": 12
+   },
+   {
+    "de": 645,
+    "ate": 645,
+    "texto": "3. Publicado o respectivo despacho, o magistrado enviará à Direcção-Geral da Justiça a declaração especificada das pessoas de família de que pretende fazer-se acompanhar, indicando a data em que deseja embarcar.",
+    "alterador": 12
+   },
+   {
+    "de": 647,
+    "ate": 647,
+    "texto": "Art. 144.º - 1. O disposto no artigo anterior é aplicável aos magistrados das comarcas das ilhas adjacentes que forem colocados em comarca do continente ou de outra ilha.",
+    "alterador": 12
+   },
+   {
+    "de": 649,
+    "ate": 650,
+    "texto": "Art. 145.º - 1. Aos magistrados judiciais que recebam abonos para viagem nos termos dos artigos precedentes e que, antes de dois ou de um ano de serviço nas ilhas adjacentes, conforme nelas tenham ou não sido colocados a seu pedido, sejam passados à situação de licença ilimitada ou nomeados, a seu requerimento, para desempenhar qualquer cargo ou comissão de serviço estranho ao Ministério da Justiça, é aplicável o disposto no n.º 4 ao artigo 143.º\n\n2. Não há lugar a reposição de abonos se as colocações a que se refere o número anterior houverem sido determinadas por conveniência de serviço.",
+    "alterador": 12
+   },
+   {
+    "de": 652,
+    "ate": 656,
+    "texto": "Art. 146.º - 1. A antiguidade dos magistrados judiciais conta-se, dentro de cada classe ou categoria, desde a data da publicação do despacho no Diário do Governo, quando a posse for tomada nos prazos fixados nos termos do n.º 2 do artigo 126.º, sem prejuízo do disposto no n.º 4.\n\n2. Quando um despacho for declarado sem efeito e o magistrado colocado, a seu pedido, noutra comarca ou noutra situação, o tempo de ausência de serviço conta para a determinação do limite de sessenta dias fixado no n.º 4.\n\n3. Se o despacho for declarado sem efeito por conveniência de serviço, o prazo legal para a posse conta-se desde a data da publicação do último despacho, mas a antiguidade conta-se desde a data da exoneração da última situação de exercício efectivo.\n\n4. Para determinação da antiguidade não é contado o tempo de ausência ilegítima da comarca ou do cargo, nem o que exceder sessenta dias, em cada ano, de não comparência ao serviço por motivo de licenças, faltas justificadas, ou utilização de prazo de posse por período superior a trinta ou sessenta dias, conforme se trate do continente ou das ilhas adjacentes, independentemente das consequências que essas faltas ou licenças possam ter para outros efeitos.",
+    "alterador": 12
+   },
+   {
+    "de": 659,
+    "ate": 659,
+    "texto": "a) O tempo de ausência do lugar por motivo de sindicância ou de suspensão em consequência de processo disciplinar ou de pronúncia criminal, e ainda o tempo de prisão preventiva sofrida, se não tiver havido condenação.",
+    "alterador": 12
+   },
+   {
+    "de": 668,
+    "ate": 668,
+    "texto": "2. Os magistrados e funcionários são graduados em cada categoria ou classe de harmonia com o tempo de serviço que lhes for contado, mencionando-se ainda, a respeito de cada um, a data do nascimento, o cargo ou função que desempenham e a data da colocação nessa situação.\n\nRelativamente aos magistrados judiciais e do Ministério Público, indicar-se-á também a comarca da sua naturalidade.\n\n3. De cada edição do Boletim serão enviados doze exemplares à secretaria do Conselho Superior Judiciário.",
+    "alterador": 12
+   },
+   {
+    "de": 680,
+    "ate": 682,
+    "texto": "Art. 157.º - 1. Os requerimentos de aposentação e a documentação que for necessária serão enviados à Direcção-Geral da Justiça, que os remeterá à Administração-Geral da Caixa Geral de Depósitos.\n\n2. Com a antecedência de trinta dias, pelo menos, em relação à data em que atingem o limite de idade, devem os interessados comunicar o facto ao respectivo superior hierárquico, que transmitirá a comunicação à Direcção-Geral da Justiça.",
+    "alterador": 12
+   },
+   {
+    "de": 685,
+    "ate": 711,
+    "texto": "Art. 159.º (Revogado.)\n\nArt. 160.º (Revogado.)\n\nArt. 161.º (Revogado.)\n\nArt. 162.º (Revogado.)\n\nArt. 163.º (Revogado.)\n\nArt. 164.º (Revogado.)\n\nArt. 165.º (Revogado.)\n\nArt. 166.º (Revogado.)",
+    "alterador": 31
+   },
+   {
+    "de": 713,
+    "ate": 713,
+    "texto": "Art. 167.º - 1. Enquanto o Ministério da Justiça, através da Repartição Administrativa dos Cofres, não construir casas de renda limitada ou em regime de propriedade resolúvel para residência dos magistrados, todos os municípios são obrigados a fornecer casas mobiladas para habitação dos magistrados judiciais da comarca ou sede do circulo e a prover à sua conservação, mediante o pagamento da respectiva renda, que não excederá um oitavo dos vencimentos orçamentais dos magistrados. Em Lisboa, Porto e Coimbra, o Ministro da Justiça fixará os termos em que, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, é efectuada a compensação aos magistrados que desempenham cargos dependentes do Ministério da Justiça, enquanto lhes não seja fornecida habitação de harmonia com o disposto neste artigo.",
+    "alterador": 12
+   },
+   {
+    "de": 746,
+    "ate": 746,
+    "texto": "d) Curadorias junto dos tribunais tutelares de menores;\n\ne) Subdelegações junto dos tribunais municipais.",
+    "alterador": 9
+   },
+   {
+    "de": 753,
+    "ate": 753,
+    "texto": "e) Por um curador de menores nos tribunais tutelares de menores;\n\nf) Por um subdelegado do procurador da República nos tribunais municipais.",
+    "alterador": 9
+   },
+   {
+    "de": 758,
+    "ate": 759,
+    "texto": "Art. 178 - 1. Na comarca de Coimbra haverá, junto dos três juízos que a compõem, dois delegados do procurador da República, sendo por este determinada a distribuição de serviço entre eles.\n\n2. Nos outros tribunais de comarca constituídos por mais de um juízo e em que não haja ajudante do procurador da República haverá um delegado do procurador da República junto de cada juízo.\n\nNas comarcas de Lisboa e Porto o Ministério Público é representado no tribunal cível e no tribunal criminal pelos ajudantes colocados nas procuradorias da República e por dezasseis e nove delegados, respectivamente.",
+    "alterador": 7
+   },
+   {
+    "de": 762,
+    "ate": 762,
+    "texto": "Art. 180.º - 1. O Ministério Público, nos tribunais municipais, é representado, independentemente de nomeação e posse, pelo notário da sede do respectivo concelho.",
+    "alterador": 12
+   },
+   {
+    "de": 771,
+    "ate": 771,
+    "texto": "2. Os delegados são substituídos, nas suas faltas e impedimentos, pelo subdelegado do procurador da República, se este for licenciado em Direito, e, não o sendo, pelo notário da sede da comarca.",
+    "alterador": 12
+   },
+   {
+    "de": 773,
+    "ate": 773,
+    "texto": "3. Na falta de subdelegado licenciado em Direito e de notário, o procurador da República nomeará, sob proposta do delegado, ou, na falta desta, sob indicação do juiz, pessoa idónea que substitua o delegado.",
+    "alterador": 12
+   },
+   {
+    "de": 775,
+    "ate": 776,
+    "texto": "5. Na falta de delegado, ou no caso de impedimento superior a 30 dias, pode o lugar ser provido interinamente por licenciado em Direito, caducando a nomeação apenas quando se der o provimento efectivo ou cessar o impedimento.\n\n6. Não sendo possível o provimento interino, a substituição pode ser feita por um licenciado em Direito mandado contratar para o efeito por força da receita do Cofre Geral dos Tribunais, sob proposta do procurador-geral da República.\n\n7. Em caso de urgência, e quando a substituição não possa ser feita nos termos dos números anteriores, o juiz pode designar para cada caso qualquer pessoa idónea.",
+    "alterador": 8
+   },
+   {
+    "de": 810,
+    "ate": 810,
+    "texto": "Art. 191.º Aos magistrados do Ministério Público é contado, para efeitos de antiguidade, o tempo de serviço prestado como interinos quando seguido do provimento efectivo na mesma função, desde que satisfaçam, à data da nomeação interina, aos requisitos exigidos para a nomeação efectiva e se tenham observado as formalidades de que esta nomeação depende.\n\nQuando ao tempo da nomeação interina não satisfaçam a todos aqueles requisitos, ser-lhes-á contado o tempo de serviço posterior à data em que os houverem completado.",
+    "alterador": 6
+   },
+   {
+    "de": 847,
+    "ate": 848,
+    "texto": "x) Conceder a prioridade a que se refere a alínea m) do n.º 1 do artigo 19.º, por sua iniciativa ou sob proposta dos procuradores da República, quando se trate de processos penais na fase da instrução preparatória;\n\nz) Exercer as demais funções que lhe sejam atribuídas por lei ou conferidas pelo Governo e, em geral, todas as que pertencem ao Ministério Público.\n\n2. O procurador-geral deve intervir pessoalmente em todos os processos da competência do tribunal pleno e naqueles a que se referem a alínea c) do artigo 18.º e o n.º 2 do artigo 19.º",
+    "alterador": 9
+   },
+   {
+    "de": 850,
+    "ate": 851,
+    "texto": "Art. 196.º - 1. O procurador-geral é substituído nas suas faltas e impedimentos pelo ajudante em quem tiver delegado parte da sua competência nos termos da alínea d) do artigo 197.º, quando o impedimento não exceda trinta dias; se não houver delegação, a substituição incumbe ao mais antigo dos ajudantes que se encontra em serviço na Procuradoria-Geral.\n\n2. Se o impedimento exceder trinta dias, o Ministro da Justiça designará o substituto.\n\nArt. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por vinte e oito ajudantes distribuídos pela forma seguinte:",
+    "alterador": 28
+   },
+   {
+    "de": 855,
+    "ate": 856,
+    "texto": "d) Sete exercem as funções de ajudantes do procurador-geral no desempenho dos serviços centrais da Procuradoria-Geral e dos demais que lhes sejam confiados, podendo num deles o procurador-geral delegar parte da sua competência;\n\ne) Treze desempenham o serviço de consulta jurídica como auditores jurídicos junto dos vários Ministérios, do Chefe do Estado-Maior-General das Forças Armadas e do Chefe do Estado-Maior do Exército;\n\nf) Um é o agente do Ministério Público junto da 1.ª secção do Supremo Tribunal Administrativo;",
+    "alterador": 28
+   },
+   {
+    "de": 896,
+    "ate": 896,
+    "texto": "Art. 213.º - 1. Junto da Procuradoria-Geral da República funciona o Conselho Superior do Ministério Público, constituído pelo procurador-geral e pelos seus ajudantes em serviço no Supremo Tribunal de Justiça, na 1.ª secção do Supremo Tribunal Administrativo e nas relações.",
+    "alterador": 21
+   },
+   {
+    "de": 911,
+    "ate": 911,
+    "texto": "2. O secretário é substituído nos seus impedimentos pelo técnico de 2.ª classe.",
+    "alterador": 28
+   },
+   {
+    "de": 944,
+    "ate": 944,
+    "texto": "Art. 222.º Ao técnico de 2.ª classe, aos chefes de secção, aos primeiros, segundos e terceiros-oficiais compete:",
+    "alterador": 28
+   },
+   {
+    "de": 950,
+    "ate": 951,
+    "texto": "f) Elaborar, dia a dia, os dados estatísticos de todo o movimento da secretaria.",
+    "alterador": 28
+   },
+   {
+    "de": 966,
+    "ate": 966,
+    "texto": "2. A nomeação é feita por três anos, prorrogáveis por novos triénios.",
+    "alterador": 32
+   },
+   {
+    "de": 968,
+    "ate": 968,
+    "texto": "4. Para efeitos de vencimentos os adjuntos do procurador da República são equiparados a juízes de direito de 2.ª classe, salvo quando sejam já juízes de direito de 1.ª classe.",
+    "alterador": 32
+   },
+   {
+    "de": 976,
+    "ate": 976,
+    "texto": "d) Proferir na instrução preparatória as decisões impostas pelas leis de processo penal relativamente à abstenção de acusação por parte dos delegados, excepto nos casos em que o juiz se houver pronunciado no sentido de que estão verificadas as condições suficientes para a acusação, competindo nesses casos a decisão ao procurador da República;",
+    "alterador": 6
+   },
+   {
+    "de": 1005,
+    "ate": 1005,
+    "texto": "2. (Revogado.)",
+    "alterador": 36
+   },
+   {
+    "de": 1008,
+    "ate": 1008,
+    "texto": "2. A graduação, na respectiva lista de antiguidades, dos delegados nomeados por despachos publicados na mesma data é determinada, sem prejuízo do disposto no artigo 191.º, pela mais alta classificação obtida no concurso; entre os da mesma classificação, atender-se-á ao tempo de serviço que houverem prestado como interinos e, em igualdade de condições, os mais velhos antecederão os mais novos.",
+    "alterador": 6
+   },
+   {
+    "de": 1048,
+    "ate": 1080,
+    "texto": "Art. 251.º (Revogado.)\n\nArt. 252.º (Revogado.)\n\nArt. 253.º (Revogado.)\n\nArt. 254.º (Revogado.)\n\nArt. 255.º (Revogado.)\n\nArt. 256.º (Revogado.)\n\nArt. 257.º (Revogado.)\n\nArt. 258.º (Revogado.)\n\nArt. 259.º (Revogado.)\n\nArt. 260.º (Revogado.)\n\nArt. 261.º (Revogado.)\n\nArt. 262.º (Revogado.)\n\nArt. 263.º (Revogado.)\n\nArt. 264.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1083,
+    "ate": 1178,
+    "texto": "Art. 265.º (Revogado.)\n\nArt. 266.º (Revogado.)\n\nArt. 267.º (Revogado.)\n\nArt. 268.º (Revogado.)\n\nArt. 269.º (Revogado.)\n\nArt. 270.º (Revogado.)\n\nArt. 271.º (Revogado.)\n\nArt. 272.º (Revogado.)\n\nArt. 273.º (Revogado.)\n\nArt. 274.º (Revogado.)\n\nArt. 275.º (Revogado.)\n\nArt. 276.º (Revogado.)\n\nArt. 277.º (Revogado.)\n\nArt. 278.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1180,
+    "ate": 1261,
+    "texto": "Art. 279.º (Revogado.)\n\nArt. 280.º (Revogado.)\n\nArt. 281.º (Revogado.)\n\nArt. 282.º (Revogado.)\n\nArt. 283.º (Revogado.)\n\nArt. 284.º (Revogado.)\n\nArt. 285.º (Revogado.)\n\nArt. 286.º (Revogado.)\n\nArt. 287.º (Revogado.)\n\nArt. 288.º (Revogado.)\n\nArt. 289.º (Revogado.)\n\nArt. 290.º (Revogado.)\n\nArt. 291.º (Revogado.)\n\nArt. 292.º (Revogado.)\n\nArt. 293.º (Revogado.)\n\nArt. 294.º (Revogado.)\n\nArt. 295.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1263,
+    "ate": 1331,
+    "texto": "Art. 296.º (Revogado.)\n\nArt. 297.º (Revogado.)\n\nArt. 298.º (Revogado.)\n\nArt. 299.º (Revogado.)\n\nArt. 300.º (Revogado.)\n\nArt. 301.º (Revogado.)\n\nArt. 302.º (Revogado.)\n\nArt. 303.º (Revogado.)\n\nArt. 304.º (Revogado.)\n\nArt. 305.º (Revogado.)\n\nArt. 306.º (Revogado.)\n\nArt. 307.º (Revogado.)\n\nArt. 308.º (Revogado.)\n\nArt. 309.º (Revogado.)\n\nArt. 310.º (Revogado.)\n\nArt. 311.º (Revogado.)\n\nArt. 312.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1333,
+    "ate": 1357,
+    "texto": "Art. 313.º (Revogado.)\n\nArt. 314.º (Revogado.)\n\nArt. 315.º (Revogado.)\n\nArt. 316.º (Revogado.)\n\nArt. 317.º (Revogado.)\n\nArt. 318.º (Revogado.)\n\nArt. 319.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1359,
+    "ate": 1370,
+    "texto": "Art. 320.º (Revogado.)\n\nArt. 321.º (Revogado.)\n\nArt. 322.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1372,
+    "ate": 1383,
+    "texto": "Art. 323.º (Revogado.)\n\nArt. 324.º (Revogado.)\n\nArt. 325.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1386,
+    "ate": 1409,
+    "texto": "Art. 326.º (Revogado.)\n\nArt. 327.º (Revogado.)\n\nArt. 328.º (Revogado.)\n\nArt. 329.º (Revogado.)\n\nArt. 330.º (Revogado.)\n\nArt. 331.º (Revogado.)\n\nArt. 332.º (Revogado.)\n\nArt. 333.º (Revogado.)\n\nArt. 334.º (Revogado.)\n\nArt. 335.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1411,
+    "ate": 1425,
+    "texto": "Art. 336.º (Revogado.)\n\nArt. 337.º (Revogado.)\n\nArt. 338.º (Revogado.)\n\nArt. 339.º (Revogado.)\n\nArt. 340.º (Revogado.)\n\nArt. 341.º (Revogado.)\n\nArt. 342.º (Revogado.)\n\nArt. 343.º (Revogado.)\n\nArt. 344.º (Revogado.)\n\nArt. 345.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1427,
+    "ate": 1433,
+    "texto": "Art. 346.º (Revogado.)\n\nArt. 347.º (Revogado.)\n\nArt. 348.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1435,
+    "ate": 1459,
+    "texto": "Art. 349.º (Revogado.)\n\nArt. 350.º (Revogado.)\n\nArt. 351.º (Revogado.)\n\nArt. 352.º (Revogado.)\n\nArt. 353.º (Revogado.)\n\nArt. 354.º (Revogado.)\n\nArt. 355.º (Revogado.)\n\nArt. 356.º (Revogado.)\n\nArt. 357.º (Revogado.)\n\nArt. 358.º (Revogado.)\n\nArt. 359.º (Revogado.)\n\nArt. 360.º (Revogado.)\n\nArt. 361.º (Revogado.)\n\nArt. 362.º (Revogado.)",
+    "alterador": 209
+   },
+   {
+    "de": 1487,
+    "ate": 1490,
+    "texto": "Art. 371.º Os concursos constam de duas provas: uma, prática, que é escrita; outra, teórica, que é oral.",
+    "alterador": 22
+   },
+   {
+    "de": 1494,
+    "ate": 1495,
+    "texto": "Art. 373.º - 1. Nas provas orais, que são públicas, os concorrentes não podem assistir à prestação de provas anteriores às suas.\n\n2. Cada interrogatório não pode durar mais de um quarto de hora, salvo se o júri o resolver prolongar até ao máximo de dez minutos.",
+    "alterador": 22
+   },
+   {
+    "de": 1509,
+    "ate": 1540,
+    "texto": "Art. 379.º (Revogado.)\n\nArt. 380.º (Revogado.)\n\nArt. 381.º (Revogado.)\n\nArt. 382.º (Revogado.)\n\nArt. 383.º (Revogado.)\n\nArt. 384.º (Revogado.)\n\nArt. 385.º (Revogado.)\n\nArt. 386.º (Revogado.)\n\nArt. 387.º (Revogado.)",
+    "alterador": 36
+   },
+   {
+    "de": 1542,
+    "ate": 1555,
+    "texto": "Art. 388.º (Revogado.)\n\nArt. 389.º (Revogado.)\n\nArt. 390.º (Revogado.)\n\nArt. 391.º (Revogado.)",
+    "alterador": 36
+   },
+   {
+    "de": 1556,
+    "ate": 1556,
+    "texto": "### CAPÍTULO IV — Disposições especiais relativas aos concursos para escrivão de direito",
+    "alterador": 12
+   },
+   {
+    "de": 1557,
+    "ate": 1574,
+    "texto": "Art. 392.º São requisitos de admissão ao concurso para escrivão de direito, além dos enumerados no artigo 365.º, com excepção do que se refere ao sexo e à idade, o exercício dos cargos de ajudante de escrivão, durante dois anos, ou de escriturário-dactilógrafo das secretarias judiciais, do Conselho Superior Judiciário ou da Polícia Judiciária, ou de arquivista-caixa, durante seis anos, uns e outros com classificação de serviço, resultante de inspecção, não inferior à de Bom.\n\nArt. 393.º - 1. No tempo de serviço a que se refere o artigo anterior é computado o exercício interino dos cargos de chefe de secretaria, escrivão de direito, ajudante de escrivão e escriturário-dactilógrafo.\n\n2. A Direcção-Geral da Justiça coligirá oficiosamente os elementos relativos ao tempo de serviço e à classificação.\n\nArt. 394.º O júri dos concursos para escrivão de direito é composto de um juiz de direito, que preside, e de um magistrado judicial ou do Ministério Público e de dois escrivães de direito, um dos quais desempenhe as funções de chefe de secretaria, como vogais.\n\nArt. 395.º - 1. As provas escritas, em que os concorrentes devem usar os termos e fórmulas legais, incluem a conta simples de um processo, acto ou papel judicial e a redacção de um acto judicial.\n\n2. As provas orais consistem em três interrogatórios sobre:\n\na) A matéria de um ponto tirado por sorteio, com vinte e quatro horas de antecedência, e o tema da prova escrita;\n\nb) Processo civil e processo criminal;\n\nc) Interpretação e aplicação do Código das Custas Judiciais e legislação complementar, parte aplicável da legislação fiscal e atribuições do pessoal das secretarias judiciais e modo de as desempenhar.",
+    "alterador": 12
+   },
+   {
+    "de": 1580,
+    "ate": 1580,
+    "texto": "2. São admitidos os requerentes de ambos os sexos, ainda que tenham mais de 35 anos de idade.",
+    "alterador": 8
+   },
+   {
+    "de": 1601,
+    "ate": 1601,
+    "texto": "b) Os vogais, pelo respectivo substituto legal das Relações a que pertencem;",
+    "alterador": 27
+   },
+   {
+    "de": 1624,
+    "ate": 1624,
+    "texto": "1) Os juízes das Relações e dos tribunais de comarca do continente e das ilhas adjacentes, ainda que servindo em cargos dependentes ou não do Ministério da Justiça, desde que por lei não estejam expressamente sujeitos a outra jurisdição disciplinar, podendo para este efeito mandar proceder às inspecções, inquéritos ou sindicâncias que se mostrem necessários;",
+    "alterador": 53
+   },
+   {
+    "de": 1629,
+    "ate": 1629,
+    "texto": "Art. 404.º - 1. A acção disciplinar do Conselho abrange todos os actos e omissões da vida pública ou particular dos magistrados e funcionários que constituam transgressão de deveres profissionais ou sejam incompatíveis com o decoro e dignidade indispensáveis ao exercício das suas funções.\n\n2. Os juízes do Supremo apenas estão sujeitos à acção disciplinar do Supremo Conselho Disciplinar.",
+    "alterador": 53
+   },
+   {
+    "de": 1638,
+    "ate": 1638,
+    "texto": "3. As deliberações são tomadas em conferência, não sendo permitida, salvo em matéria consultiva, a consignação nas actas ou nos acórdãos de qualquer declaração de voto de vencido. O presidente, que vota como os demais membros, tem ainda direito a voto de desempate.",
+    "alterador": 53
+   },
+   {
+    "de": 1683,
+    "ate": 1683,
+    "texto": "2. Na secretaria exercerão funções, em comissão de serviço, quatro funcionários de justiça, escolhidos pelo Conselho, com vencimento igual ao dos chefes de secretaria dos tribunais cíveis de Lisboa. O vencimento será abonado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.",
+    "alterador": 53
+   },
+   {
+    "de": 1686,
+    "ate": 1686,
+    "texto": "5. Os lugares de escriturário de 1.ª classe são providos por escriturários das secretarias judiciais ou por quaisquer indivíduos, maiores ou emancipados, habilitados com o 2.º ciclo dos liceus ou equivalente.",
+    "alterador": 8
+   },
+   {
+    "de": 1759,
+    "ate": 1759,
+    "texto": "a) Se encontrem no terço superior da escala de antiguidade da respectiva classe;",
+    "alterador": 6
+   },
+   {
+    "de": 1845,
+    "ate": 1845,
+    "texto": "Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de oito inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.",
+    "alterador": 53
+   },
+   {
+    "de": 1848,
+    "ate": 1848,
+    "texto": "Art. 452.º - 1. Para secretariar os inspectores judiciais haverá secretários, recrutados pelo Conselho entre os chefes de secretaria. O número de secretários será fixado pelo Ministro da Justiça, sob proposta do Conselho, tendo em consideração as necessidades do serviço.",
+    "alterador": 11
+   },
+   {
+    "de": 1850,
+    "ate": 1850,
+    "texto": "Art. 453.º A fim de especialmente fiscalizar os serviços de contabilidade e tesouraria das secretarias judiciais, haverá um inspector-contador, escolhido pelo Conselho de entre os chefes de secretaria, e ao qual é aplicável o n.º 2 do artigo anterior.",
+    "alterador": 53
+   },
+   {
+    "de": 1875,
+    "ate": 1875,
+    "texto": "d) O Conselho Superior Judiciário, em sessão plenária, para aplicação de quaisquer penas aos magistrados judiciais de todas as categorias, com excepção dos juízes do Supremo, sendo da sua exclusiva competência a das penas 5.ª a 9.ª;",
+    "alterador": 53
+   },
+   {
+    "de": 2020,
+    "ate": 2020,
+    "texto": "e) Das decisões do Supremo Conselho Disciplinar que apliquem penas a juízes do Supremo;\n\nf) Dos despachos do Ministro da Justiça que homologuem a aplicação das penas 7.ª, 8.ª ou 9.ª por parte do Conselho Superior do Ministério Público ou apliquem essas penas, alterando as decisões do Conselho.",
+    "alterador": 53
+   },
+   {
+    "de": 2025,
+    "ate": 2025,
+    "texto": "d) Nos casos da alínea e), para o Supremo Tribunal de Justiça, em pleno;\n\ne) Das decisões do Ministro da Justiça, para o Supremo Tribunal Administrativo, nos termos da lei geral.",
+    "alterador": 53
+   },
+   {
+    "de": 2577,
+    "ate": 2577,
+    "texto": "4. Sempre que o interesse dos serviços o exija, pode o Ministro da Justiça alterar por simples portaria os quadros fixados nos números anteriores, ouvidos o juiz da comarca e o Conselho Superior Judiciário, a Ordem dos Advogados e a Câmara dos Solicitadores; nas comarcas de Lisboa e Porto, o juiz ouvido será o presidente do tribunal criminal e nas comarcas com mais de um juízo o juiz do 1.º juízo.\n\n5. Os lugares de solicitadores só são preenchidos quando, ouvido o juiz da comarca, a Ordem dos Advogados e a Câmara dos Solicitadores, se reconheça a conveniência do provimento.",
+    "alterador": 8
+   },
+   {
+    "de": 2584,
+    "ate": 2584,
+    "texto": "3. Logo que o período de interrupção perfaça um ano, abrir-se-á vaga no quadro dos solicitadores encartados e, decorridos mais quatro, será cancelada a inscrição.",
+    "alterador": 8
+   },
+   {
+    "de": 2598,
+    "ate": 2598,
+    "texto": "3. O juiz não concederá autorização aos pretendentes a primeira nomeação, que não mostrem ter como habilitações literárias o 1.º ciclo dos liceus ou equivalente, bom comportamento moral e civil, mais de 21 anos e estar isentos de culpa.",
+    "alterador": 9
+   },
+   {
+    "de": 2801,
+    "ate": 2801,
+    "texto": "Presidente e 22 juízes desembargadores",
+    "alterador": 11
+   },
+   {
+    "de": 2803,
+    "ate": 2803,
+    "texto": "Presidente e 15 juízes desembargadores",
+    "alterador": 11
+   },
+   {
+    "de": 2822,
+    "ate": 2822,
+    "texto": "De 2.ª classe: Almada, Angra do Heroísmo, Barreiro, Beja, Cascais, Évora, Faro, Loulé, Loures, Montijo, Oeiras, Olhão, Portimão, Sintra e Vila Franca de Xira.",
+    "alterador": 9
+   },
+   {
+    "de": 2823,
+    "ate": 2823,
+    "texto": "De 3.ª classe: Alcácer do Sal, Alenquer, Arraiolos, Benavente, Cartaxo, Coruche, Cuba, Elvas, Estremoz, Fronteira, Golegã, Horta, ilha das Flores, ilha Graciosa, ilha do Pico, ilha de Santa Maria, ilha de S. Jorge, Lagos, Lourinhã, Mafra, Mértola, Montemor-o-Novo, Moura, Odemira, Ourique, Ponta do Sol, Povoação, Redondo, Reguengos de Monsaraz, Ribeira Grande, Rio Maior, Santa Cruz, Santiago do Cacém, S. Vicente, Seixal, Serpa, Silves, Tavira, Vila Franca do Campo, Vila da Praia da Vitória, Vila Real de Santo António e Vila Viçosa.",
+    "alterador": 6
+   },
+   {
+    "de": 2841,
+    "ate": 2841,
+    "texto": "Comarcas compreendidas: Almada, Alcácer do Sal, Santiago do Cacém e Seixal.",
+    "alterador": 6
+   },
+   {
+    "de": 2855,
+    "ate": 2855,
+    "texto": "Sede nas Caldas da Rainha",
+    "alterador": 9
+   },
+   {
+    "de": 2856,
+    "ate": 2856,
+    "texto": "Comarcas compreendidas: Alenquer, Caldas da Rainha, Lourinhã, Rio Maior e Torres Vedras.",
+    "alterador": 11
+   },
+   {
+    "de": 2871,
+    "ate": 2871,
+    "texto": "Comarcas compreendidas: Anadia, Cantanhede, Figueira da Foz, Montemor-o-Velho, Pombal e Soure.",
+    "alterador": 9
+   },
+   {
+    "de": 2886,
+    "ate": 2886,
+    "texto": "Comarcas compreendidas: Alcobaça, Leiria, Porto de Mós, Tomar e Vila Nova de Ourém.",
+    "alterador": 9
+   },
+   {
+    "de": 2887,
+    "ate": 2887,
+    "texto": "1.º círculo de Lisboa",
+    "alterador": 11
+   },
+   {
+    "de": 2889,
+    "ate": 2889,
+    "texto": "Comarcas compreendidas: Cascais, Mafra e Sintra\n\n2.º círculo de Lisboa\n\nSede em Lisboa\n\nComarcas compreendidas: Loures, Oeiras e Vila Franca de Xira.",
+    "alterador": 11
+   },
+   {
+    "de": 2901,
+    "ate": 2901,
+    "texto": "Comarcas compreendidas: Benavente, Cartaxo, Golegã, Santarém e Torres Novas.",
+    "alterador": 11
+   },
+   {
+    "de": 2918,
+    "ate": 2918,
+    "texto": "(Artigos 29.º, n.º 1, 31.º, n.º 2, e 32.º)",
+    "alterador": 19
+   },
+   {
+    "de": 2921,
+    "ate": 2921,
+    "texto": "Segundo vogal nas comarcas de: Alcácer do Sal - o juiz de Santiago do Cacém; Almada, 1.º juízo - o juiz do Seixal; Almada, 2.º juízo - o juiz do Seixal; Santiago do Cacém - o juiz de Alcácer do Sal; Seixal - o juiz do 2.º juízo de Almada.",
+    "alterador": 6
+   },
+   {
+    "de": 2931,
+    "ate": 2931,
+    "texto": "2.º vogal nas comarcas de: Alenquer - o juiz do 1.º juízo do Tribunal de Execução das Penas de Lisboa; Caldas da Rainha - o juiz de Rio Maior; Lourinhã - o juiz de Torres Vedras; Rio Maior - o juiz das Caldas da Rainha; Torres Vedras - o juiz da Lourinhã.",
+    "alterador": 11
+   },
+   {
+    "de": 2935,
+    "ate": 2935,
+    "texto": "Segundo-vogal nas comarcas de: Ansião - o juiz de Pombal; Arganil - o juiz da Lousã; Coimbra, 1.º juízo - o juiz do 3.º juízo; Coimbra, 2.º juízo - o juiz do 1.º juízo; Coimbra, 3.º juízo - o juiz do 2.º juízo; Lousã - o juiz de Arganil.",
+    "alterador": 7
+   },
+   {
+    "de": 2941,
+    "ate": 2941,
+    "texto": "Segundo vogal nas comarcas de: Anadia, 1.º juizo - o juiz do 2.º juízo; Anadia, 2.º juízo - o juiz do 1.º juízo; Cantanhede - o juiz de Montemor-o-Velho; Figueira da Foz - o juiz de Soure; Montemor-o-Velho - o juiz de Cantanhede; Pombal - o juiz de Ansião; Soure - o juiz da Figueira da Foz.",
+    "alterador": 9
+   },
+   {
+    "de": 2951,
+    "ate": 2951,
+    "texto": "Segundo vogal nas comarcas de: Alcobaça - o juiz de Porto de Mós; Leiria, 1.º juízo - o juiz do 2.º juízo; Leiria, 2.º juízo - o juiz do 1.º juízo; Porto de Mós - o juiz de Alcobaça; Tomar - o juiz de Vila Nova de Ourém; Vila Nova de Ourém - o juiz de Tomar.",
+    "alterador": 9
+   },
+   {
+    "de": 2952,
+    "ate": 2953,
+    "texto": "1.º círculo judicial de Lisboa\n\n2.º vogal nas comarcas de: Cascais, 1.º juízo - o juiz do 2.º juízo; Cascais, 2.º juízo - o juiz do 1.º juízo; Mafra - o juiz do 10.º Juízo Correccional de Lisboa; Sintra - o juiz de Mafra.\n\n2 º círculo judicial de Lisboa\n\n2.º vogal nas comarcas de: Loures - o juiz do 2.º Juízo do Tribunal de Execução das Penas de Lisboa; Oeiras - o juiz do 9.º Juízo Correccional de Lisboa; Vila Franca de Xira - o juiz de Alenquer.",
+    "alterador": 11
+   },
+   {
+    "de": 2959,
+    "ate": 2959,
+    "texto": "Segundo vogal nas comarcas de: Paços de Ferreira - o juiz de Paredes; Paredes - o juiz de Paços de Ferreira; Póvoa de Varzim - o juiz de Vila Nova de Famalicão; Santo Tirso - o juiz de Vila do Conde; Vila do Conde - o juiz de Santo Tirso; Vila Nova de Famalicão - o juiz da Póvoa de Varzim.",
+    "alterador": 9
+   },
+   {
+    "de": 2961,
+    "ate": 2961,
+    "texto": "2.º vogal nas comarcas de: Benavente - o juiz do Cartaxo; Cartaxo - o juiz de Benavente; Golegã - o juiz de Torres Novas; Santarém, 1.º Juízo - o juiz do 2.º Juízo; Santarém, 2.º Juízo - o juiz do 1.º Juízo; Torres Novas - o juiz da Golegã.",
+    "alterador": 11
+   },
+   {
+    "de": 3011,
+    "ate": 3011,
+    "texto": "Tribunais de comarca constituídos por mais de um juízo de direito",
+    "alterador": 9
+   },
+   {
+    "de": 3012,
+    "ate": 3012,
+    "texto": "De 1.ª classe - Aveiro, Braga, Funchal, Guimarães, Leiria, Santarém, Setúbal, Vila da Feira e Viseu.",
+    "alterador": 7
+   },
+   {
+    "de": 3013,
+    "ate": 3013,
+    "texto": "De 2.ª classe - Anadia, Loures, Vila Nova de Famalicão e Vila Nova de Gaia.",
+    "alterador": 19
+   },
+   {
+    "de": 3104,
+    "ate": 3108,
+    "texto": "Almada, Caparica, Costa da Caparica, Cova da Piedade, Trafaria.",
+    "alterador": 6
+   },
+   {
+    "de": 3356,
+    "ate": 3359,
+    "texto": "No concelho de Coruche:\n\nCoruche, Couço, S. José da Lamorosa.",
+    "alterador": 6
+   },
+   {
+    "de": 3646,
+    "ate": 3647,
+    "texto": "",
+    "alterador": 9
+   },
+   {
+    "de": 3649,
+    "ate": 3649,
+    "texto": "Moscavide. Odivelas (Lumiar e Carnide). Sacavém.",
+    "alterador": 9
+   },
+   {
+    "de": 3651,
+    "ate": 3651,
+    "texto": "Amadora. Barcarena.",
+    "alterador": 9
+   },
+   {
+    "de": 3700,
+    "ate": 3700,
+    "texto": "Círculo judicial - 1.º círculo de Lisboa.",
+    "alterador": 11
+   },
+   {
+    "de": 4263,
+    "ate": 4263,
+    "texto": "Círculo judicial - 1.º círculo de Lisboa.",
+    "alterador": 11
+   },
+   {
+    "de": 4420,
+    "ate": 4420,
+    "texto": "Círculo judicial - 2.º círculo de Lisboa.",
+    "alterador": 11
+   },
+   {
+    "de": 4423,
+    "ate": 4423,
+    "texto": "Alhandra, Alverca do Ribatejo, Cachoeiras, Calhandriz, Castanheira do Ribatejo, Póvoa de Santa Iria, S. João dos Montes, Vialonga, Vila Franca de Xira.",
+    "alterador": 6
+   },
+   {
+    "de": 4425,
+    "ate": 4427,
+    "texto": "Arranhó, Arruda dos Vinhos, Cardosas, Santiago dos Velhos.",
+    "alterador": 6
+   },
+   {
+    "de": 4552,
+    "ate": 4556,
+    "texto": "",
+    "alterador": 6
+   },
+   {
+    "de": 4688,
+    "ate": 4688,
+    "texto": "(Artigos 71.º, n.º 1, 88.º, 216 º, n.º 3, 251.º, n.º 1, 297.º, n.º 1, 298.º, n.º 2, e 416.º, n.º 1)",
+    "alterador": 12
+   },
+   {
+    "de": 4690,
+    "ate": 4691,
+    "texto": "Supremo Tribunal de Justiça: 1 secretário, 1 contador, 3 escrivães de direito, 3 oficiais de diligências, 4 ajudantes de escrivão, 1 escriturário-dactilógrafo de 1.ª classe e 2 contínuos de 2.ª classe.\n\nConselho Superior Judiciário: 4 escriturários-dactilógrafos de 1.ª classe e 2 contínuos de 1.ª classe.",
+    "alterador": 12
+   },
+   {
+    "de": 4692,
+    "ate": 4692,
+    "texto": "Procuradoria-Geral da República: 1 secretário, 1 técnico de 2.ª classe, 2 chefes de secção, 3 primeiros-oficiais, 3 segundos-oficiais, 3 terceiros-oficiais, 2 escriturários-dactilógrafos de 1.ª classe, 2 escriturários-dactilógrafos de 2.ª classe, 1 contínuo de 1.ª classe, 1 correio, 1 telefonista de 1.ª classe, 1 motorista de 1.ª classe e 1 serventuário de 1.ª classe.",
+    "alterador": 28
+   },
+   {
+    "de": 4693,
+    "ate": 4695,
+    "texto": "Relação de Lisboa: 1 secretário.\n\nRepartição Administrativa: 1 técnico de 2.ª classe, 2 chefes de secção, 2 primeiros-oficiais, 2 segundos-oficiais, 4 terceiros-oficiais, 2 contínuos, 1 correio e 1 encarregado da biblioteca.\n\nRepartição Judicial: 1 contador, 4 escrivães de direito, 3 oficiais de diligências, 5 ajudantes de escrivão, 9 escriturários-dactilógrafos, 1 telefonista e 1 motorista.\n\nRelação do Porto: 1 secretário.\n\nRepartição Administrativa: 1 técnico de 2.ª classe, 2 chefes de secção, 2 primeiros-oficiais, 2 segundos-oficiais, 2 terceiros-oficiais, 2 contínuos e 1 correio.\n\nRepartição Judicial: 1 contador, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão, 5 escriturários-dactilógrafos, 1 oficial-porteiro, 1 telefonista e 1 motorista.\n\nRelação de Coimbra: 1 secretário.\n\nRepartição Administrativa: 1 técnico de 2.ª classe, 2 chefes de secção, 2 primeiros-oficiais, 2 segundos-oficiais, 2 terceiros-oficiais, 2 escriturários-dactilógrafos de 1.ª classe, 1 correio e 2 contínuos.\n\nRepartição Judicial: 1 contador, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão, 2 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista",
+    "alterador": 124
+   },
+   {
+    "de": 4698,
+    "ate": 4705,
+    "texto": "Secretaria-Geral: 1 secretário-geral, 2 escrivães de direito, 6 escriturários-dactilógrafos, 5 telefonistas, 1 motorista e 6 oficiais-porteiros. Secção Central de Informações e Arquivo: 1 chefe de secretaria, 6 escriturários-dactilógrafos e 2 contínuos de 1.ª classe.\n\nVaras cíveis: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nJuízos cíveis: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão e 4 escriturários-dactilógrafos.\n\nCâmara de Falências: 1 secretário, 5 administradores, 1 arquivista-caixa e 1 escriturário-dactilógrafo.\n\nJuízos criminais: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nJuízos correccionais: 1 chefe de secretaria, 1 escrivão de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 1 escriturário-dactilógrafo.\n\nJuízos de polícia: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 8 ajudantes de escrivão comuns aos dois juízos e 4 escriturários-dactilógrafos comuns aos dois juízos.\n\nTribunal de Execução das Penas: 1 chefe de secretaria comum aos três juízos, 1 escrivão de direito para cada juízo, 1 oficial de diligências para cada juízo, 3 ajudantes de escrivão comuns aos três juízos, 6 escriturários-dactilógrafos comuns aos três juízos e 4 auxiliares sociais.",
+    "alterador": 12
+   },
+   {
+    "de": 4707,
+    "ate": 4783,
+    "texto": "Secretaria-Geral: 1 secretário-geral, 1 escrivão de direito, 5 escriturários-dactilógrafos, 5 telefonistas, 1 motorista e 2 oficiais-porteiros. Secção Central de Informações e Arquivo: 1 chefe de secretaria e 5 escriturários-dactilógrafos.\n\nVaras cíveis: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nJuízos cíveis: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão e 4 escriturários-dactilógrafos.\n\nCâmara de Falências: 1 secretário, 3 administradores, 1 arquivista-caixa e 1 escriturário-dactilógrafo.\n\nJuízos criminais: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nJuízos correccionais: 1 chefe de secretaria, 1 escrivão de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nJuízo de polícia: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 9 ajudantes de escrivão e 8 escriturários-dactilógrafos.\n\nTribunal de Execução das Penas: 1 chefe de secretaria, 2 escrivães de direito, 1 oficial de diligências, 2 ajudantes de escrivão, 2 escriturários-dactilógrafos e 2 auxiliares sociais.\n\nCoimbra\n\n1 chefe de secretaria comum aos três juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos três juízos, 3 escriturários-dactilógrafos comuns aos três juízos, 1 telefonista e 1 motorista.\n\nComarcas com dois juízos de direito\n\nAlmada: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos dois juízos, 6 escriturários-dactilógrafos comuns aos dois juízos e 1 oficial porteiro.\n\nAnadia: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 4 ajudantes de escrivão comuns aos dois juízos, 2 escriturários-dactilógrafos comuns aos dois juízos e 1 oficial-porteiro.\n\nAveiro e Leiria: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos dois juízos, 6 escriturários-dactilógrafos comuns aos dois juízos, 1 oficial-porteiro e 1 motorista.\n\nBraga: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 4 ajudantes de escrivão comuns aos dois juízos, 5 escriturários-dactilógrafos comuns aos dois juízos e 1 motorista.\n\nCascais e Vila da Feira: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos dois juízos e 6 escriturários-dactilógrafos comuns aos dois juízos.\n\nFunchal: 1 chefe de secretaria comum aos dois juízos, 3 escrivães de direito para cada juízo, 3 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos dois juízos, 6 escriturários-dactilógrafos comuns aos dois juízos e 1 oficial-porteiro.\n\nGuimarães: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 4 ajudantes de escrivão comuns aos dois juízos, 5 escriturários-dactilógrafos comuns aos dois juízos e 1 oficial-porteiro.\n\nSantarém e Viseu: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 4 ajudantes de escrivão comuns aos dois juízos, 5 escriturários-dactilógrafos comuns aos dois juízos, 1 oficial-porteiro e 1 motorista.\n\nSetúbal: 1 chefe de secretaria comum aos dois juízos, 2 escrivães de direito para cada juízo, 2 oficiais de diligências para cada juízo, 6 ajudantes de escrivão comuns aos dois juízos, 6 escriturários-dactilógrafos comuns aos dois juízos e 1 motorista.\n\nComarcas de 1.ª classe\n\nBarcelos: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão e 4 escriturários-dactilógrafos.\n\nCaldas da Rainha: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligencias, 4 ajudantes de escrivão, 4 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nFigueira da Foz: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 4 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nPonta Delgada: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nTorres Vedras: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nViana do Castelo: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão, 3 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nVila Real: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão, 4 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nComarcas de 2.ª classe\n\nAbrantes, Cantanhede, Peso da Régua, Portimão, Tomar e Torres Novas: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nÁgueda, Lamego, Póvoa de Varzim e Santa Comba Dão: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nAlcobaça: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nAngra do Heroísmo, Arcos de Valdevez, Fundão, Lousã e Tondela: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 1 escriturário-dactilógrafo.\n\nBarreiro, Chaves e Montijo: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nBeja: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão, 2 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nBragança: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão, 2 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nCastelo Branco: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão, 3 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nCovilhã, Loures e Oeiras: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 4 ajudantes de escrivão e 3 escriturários-dactilógrafos.\n\nÉvora: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão, 4 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nFafe: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão, 1 escriturário-dactilógrafo e 1 oficial-porteiro.\n\nFaro: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 ajudantes de escrivão, 3 escriturários-dactilógrafos e 1 motorista.\n\nGuarda: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 motorista.\n\nLoulé, Mangualde, Olhão, Ovar, Penafiel, Ponte de Lima, Vila do Conde, Vila Nova de Ourém e Vila Verde: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nMontalegre: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nOliveira de Azeméis e Vila Nova de Famalicão: 1 chefe de secretaria, 4 escrivães de direito, 4 oficiais de diligências, 4 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nPombal: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nPortalegre: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão, 2 escriturários-dactilógrafos, 1 oficial-porteiro e 1 motorista.\n\nSanto Tirso: 1 chefe de secretaria, 3 escrivães de direito, 3 oficiais de diligências, 3 ajudantes de escrivão, 3 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nSintra: 1 chefe de secretaria, 4 escrivães de direito, 4 oficiais de diligências, 6 ajudantes de escrivão e 6 escriturários-dactilógrafos.\n\nVila Franca de Xira: 1 chefe de secretaria, 4 escrivães de direito, 4 oficiais de diligências, 4 ajudantes de escrivão, 2 escriturários-dactilógrafos e 1 oficial-porteiro.\n\nComarcas de 3.ª classe\n\nAlbergaria-a-Velha, Amarante e Lourinhã: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 1 ajudante de escrivão e 1 escriturário-dactilógrafo.\n\nAlcácer do Sal e Rio Maior: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 2 ajudantes de escrivão e 1 escriturário-dactilógrafo.\n\nAlenquer, Cartaxo, Estarreja, Felgueiras, Mafra, Paredes e Santa Cruz: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nAlijó, Ansião, Arouca, Baião, Caminha, Castro Daire, Celorico da Beira, Coruche, Esposende, Estremoz, Figueiró dos Vinhos, Gouveia, Lagos, Lousada, Macedo de Cavaleiros, Marco de Canaveses, Mirandela, Monção, Moncorvo, Moura, Odemira, Oliveira do Hospital, Ponte de Sor, Póvoa de Lanhoso, Ribeira Grande, Sabugal, Seia, Soure, Vila da Praia da Vitória e Vila Real de Santo António: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 1 ajudante de escrivão e 1 escriturário-dactilógrafo.\n\nAmares, Arganil, Arraiolos, Cabeceiras de Basto, Celorico de Basto, Cinfães, Cuba, Figueira de Castelo Rodrigo, Fronteira, Idanha-a-Nova, Horta, Meda, Melgaço, Mogadouro, Nisa, Oliveira de Frades, Ourique, Pinhel, Resende, S. João da Pesqueira, S. Vicente, Serpa, Tavira, Valença, Vieira do Minho, Vila Flor, Vila Franca do Campo, Vila Viçosa e Vinhais: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências e 1 escriturário-dactilógrafo.\n\nBenavente: 1 chefe de secretaria, 1 escrivão de direito, 2 oficiais de diligências, 3 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nCastelo de Vide, ilha das Flores, ilha Graciosa, ilha do Pico, ilha de Santa Maria, Mértola, Paredes de Coura e Reguengos de Monsaraz: 1 chefe de secretaria, 1 oficial de diligências e 1 escriturário-dactilógrafo.\n\nElvas, Moimenta da Beira, Ponta do Sol, Porto de Mós e Sertã: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 1 escriturário-dactilógrafo.\n\nGolegã e Santiago do Cacém: 1 chefe de secretaria, 1 escrivão de direito, 2 oficiais de diligências, 2 ajudantes de escrivão e 1 escriturário-dactilógrafo.\n\nIlha de S. Jorge, Miranda do Douro, Montemor-o-Velho, Povoação, Redondo, Tabuaço e Vimioso: 1 chefe de secretaria, 1 oficial de diligências e 2 escriturários-dactilógrafos.\n\nMontemor-o-Novo, Paços de Ferreira, S. Pedro do Sul, Silves, Trancoso, Vagos, Valpaços e Vila Pouca de Aguiar: 1 chefe de secretaria, 1 escrivão de direito, 1 oficial de diligências, 1 ajudante de escrivão e 2 escriturários-dactilógrafos.\n\nSeixal: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 4 ajudantes de escrivão e 2 escriturários-dactilógrafos.\n\nJulgados municipais\n\nAlbufeira, Alfândega da Fé, Almeida, Almodôvar, Alvaiázere, Armamar, Avis, Boticas, Carrazeda de Ansiães, Castelo de Paiva, Condeixa-a-Nova, Ferreira do Alentejo, Ferreira do Zêzere, Fornos de Algodres, Grândola, Mação, Mesão Frio, Monchique, Mondim de Basto, Murça, Oleiros, Pampilhosa da Serra, Penacova, Penamacor, Penela, Ponte da Barca, Portel, Sabrosa, Sátão, Tábua, Vila Nova de Cerveira, Vila Nova de Foz Côa e Vouzela: 1 chefe de secretaria, 1 oficial de diligências e 1 escriturário-dactilógrafo.",
+    "alterador": 12
+   }
+  ],
+  "insercoes": [
+   {
+    "depois_de": 197,
+    "texto": "3. Quando o serviço de uma Relação se encontre consideràvelmente atrasado ou em risco de aglomeração extraordinária por causas duradouras de carácter excepcional, podem ser nomeados para essa Relação os juízes que, além do quadro, se reputem necessários para alcançar a normalização ou evitar a acumulação do serviço. A nomeação será feita de entre os juízes do terço superior da escala de antiguidade da 1.ª classe com a classificação de Muito bom.\n\n4. Os juízes a que se refere o número anterior são nomeados em comissão de serviço, por períodos renováveis de um ano, até ocuparem a vaga que lhes competir no quadro de qualquer das Relações. Finda a comissão sem que se tenha verificado o ingresso nesses quadros, o comissionado será colocado como inspector judicial, nos termos do n.º 1 do artigo 451.º",
+    "alterador": 11
+   },
+   {
+    "depois_de": 242,
+    "texto": "3. É aplicável a estes colectivos o disposto no n.º 3 do artigo antecedente quanto aos juízos cíveis ou de família.",
+    "alterador": 17
+   },
+   {
+    "depois_de": 295,
+    "texto": "2. Compete aos juízos de instrução criminal exercer as funções jurisdicionais relativas à instrução preparatória e, durante a instrução contraditória nos processos comuns e nos processos de segurança instruídos pela Polícia Judiciária, dirigir a instrução contraditória e proferir os despachos de pronúncia e os despachos de não pronúncia.\n\n3. Os juízes de instrução criminal têm a competência fixada na alínea a) do n.º 2 do artigo 33.º, circunscrita porém aos processos em que se proceda a instrução preparatória.\n\n4. Transitado em julgado o despacho de pronúncia, o juiz de instrução criminal ordenará a remessa dos processos ao tribunal competente.",
+    "alterador": 53
+   },
+   {
+    "depois_de": 312,
+    "texto": "2. Os juízes dos tribunais de família substituem-se conforme o disposto nas alíneas c) e d) do número anterior; não sendo a substituição nestes termos possível ou suficiente, o presidente da Relação designará o substituto.",
+    "alterador": 17
+   },
+   {
+    "depois_de": 321,
+    "texto": "3. Na comarca de Coimbra observar-se-á o preceituado na alínea c) do artigo 46.º, devidamente adaptado, recaindo a substituição no juiz do Tribunal Tutelar Central de Menores, nas faltas ou impedimentos de todos os outros juízes.",
+    "alterador": 9
+   },
+   {
+    "depois_de": 571,
+    "texto": "c) Não havendo magistrados classificados para a promoção por mérito, as promoções serão feitas segundo a ordem de antiguidade, com exclusão dos magistrados cuja classificação seja inferior à de Bom, mas, para a Relação, a promoção de cada magistrado classificado de Bom será seguida de duas promoções de magistrados com classificação superior, sempre que os haja entre os cinco juízes mais antigos de 1.ª classe com as condições legais para serem promovidos.",
+    "alterador": 6
+   },
+   {
+    "depois_de": 648,
+    "texto": "3. Aos magistrados das comarcas das ilhas adjacentes são abonadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça as despesas de transporte para deslocação ao continente nas férias judiciais de Verão, desde que regressem à sua comarca.",
+    "alterador": 12
+   },
+   {
+    "depois_de": 715,
+    "texto": "4. As casas que a Repartição Administrativa dos Cofres tenha adquirido ou construído, ou mande construir, nos termos deste artigo ou de outra disposição legal, constituem propriedade do Serviço Social do Ministério da Justiça.\n\n5. Os municípios que tenham construído ou venham a construir casas para magistrados, com subsídios da Repartição Administrativa dos Cofres, podem desonerar-se do encargo estabelecido no n.º 1, desde que esses prédios ingressem, por acordo, no património do Serviço Social do Ministério da Justiça; o valor dos terrenos fornecidos pelos municípios, fixado por despacho dos Ministros do Interior e da Justiça, ser-lhes-á pago pela Repartição Administrativa dos Cofres, constituindo o documento comprovativo do pagamento, juntamente com a certidão do despacho, título suficiente de transferência da propriedade.",
+    "alterador": 9
+   },
+   {
+    "depois_de": 824,
+    "texto": "7. À Procuradoria-Geral incumbe ainda a direcção do Boletim do Ministério da Justiça, sendo a assinatura deste obrigatória para os magistrados, conservadores do registo predial e civil, notários e tribunais.",
+    "alterador": 28
+   },
+   {
+    "depois_de": 856,
+    "texto": "2. O número de auditores previsto na alínea e) do número anterior pode ser aumentado em portaria do Ministro da Justiça, desde que o Ministério ou Ministérios junto dos quais vão desempenhar o serviço de consulta jurídica tenham verba inscrita para a sua remuneração nos mesmos termos dos que exercem funções na Procuradoria-Geral.",
+    "alterador": 12
+   },
+   {
+    "depois_de": 979,
+    "texto": "h) Comparticipar no serviço de turno, a que se referem os artigos 43.º e 192.º, de harmonia com as instruções do seu superior hierárquico.",
+    "alterador": 9
+   },
+   {
+    "depois_de": 1681,
+    "texto": "h) Servir de delegado da direcção do Serviço Social do Ministério da Justiça para os assuntos relativos aos magistrados e funcionários do Conselho.",
+    "alterador": 12
+   },
+   {
+    "depois_de": 2591,
+    "texto": "2. O pedido de nomeação ou transferência não será deferido se algum solicitador provisionário exercer funções na comarca há mais de quinze anos consecutivos, salvo se ele, estando em condições de fazê-lo, não requerer a sua admissão ao primeiro concurso para solicitador encartado que posteriormente tenha lugar ou não for nele aprovado.",
+    "alterador": 8
+   },
+   {
+    "depois_de": 3011,
+    "texto": "Com três juízos: Coimbra.\n\nCom dois juízos:",
+    "alterador": 7
+   },
+   {
+    "depois_de": 3223,
+    "texto": "Benavente (3.ª classe):\n\nSede - Benavente.\n\nDistrito judicial - Lisboa.\n\nCírculo judicial - Santarém.\n\nFreguesias:\n\nDo concelho de Benavente:\n\nBenavente, Samora Correia, Santo Estêvão.\n\nDo concelho de Salvaterra de Magos:\n\nMarinhais, Muge, Salvaterra de Magos.",
+    "alterador": 6
+   },
+   {
+    "depois_de": 3660,
+    "texto": "Loures (2.ª classe):\n\nSede - Loures.\n\nDistrito judicial - Lisboa.\n\nCírculo judicial - 2.º círculo de Lisboa.\n\nFreguesias:\n\nDo concelho de Loures:\n\nApelação. Bucelas. Camarate. Caneças. Fanhões. Frielas. Loures. Lousa. Póvoa de Santo Adrião. Santa Iria de Azoia. Santo António do Tojal. S. João da Talha. S. Julião do Tojal. Unhos.",
+    "alterador": 9
+   },
+   {
+    "depois_de": 3865,
+    "texto": "Oeiras (2.ª classe):\n\nSede - Oeiras.\n\nDistrito judicial - Lisboa.\n\nCírculo judicial - 2.º círculo de Lisboa.\n\nFreguesias:\n\nDo concelho de Oeiras:\n\nCarnaxide. Oeiras. S. Julião da Barra. Paço de Arcos.",
+    "alterador": 9
+   },
+   {
+    "depois_de": 4223,
+    "texto": "Seixal (3.ª classe):\n\nSede - Seixal.\n\nDistrito judicial - Lisboa.\n\nCírculo judicial - Almada.\n\nFreguesias:\n\nDo concelho do Seixal:\n\nAldeia de Paio Pires, Amora, Arrentela, Seixal.\n\nDo concelho de Sesimbra:\n\nSesimbra (Castelo), Sesimbra (Santiago).",
+    "alterador": 6
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 7.º revoga os arts. 291.º e 353.º do Estatuto Judiciário: outro diploma (o DL 43623, de 27 de Abril de 1961, é anterior ao original e visa o Estatuto Judiciário então em vigor; os arts. 291.º e 353.º do original tratam de outra matéria)\nAlterador 14, DL 202/73 (nova redação de vários artigos e mapas): sem texto (o pedido não traz o texto do alterador)\nAlterador 15, retificação do DL 202/73 (art. 7.º, n.º 1, art. 616.º, n.º 1, na redação desse decreto, e mapa VIII: Murça, Ponte da Barca e Vagos): sem texto (retifica o texto do DL 202/73, que não foi fornecido; no texto atual já se lê «Noura» e «Crasto» e a entrada de Vagos não tem «Ouca»)\nAlterador 16, DL 414/73 (nova redação de vários artigos e dos mapas II e V): sem texto (o pedido não traz o texto do alterador)\nAlterador 11, mapa VIII, entrada de Cascais (círculo judicial - 1.º círculo de Lisboa): alvo incerto (o mapa VIII do texto atual não tem a comarca de Cascais, criada por diploma que não está no pedido)\nAlterador 17, art. 31.º, n.º 4 «(Texto do actual n.º 5.)»: alvo incerto (o art. 31.º do texto atual só tem os n.os 1 e 2; o n.º 5 vem do DL 202/73, sem texto)\nAlterador 17, art. 433.º, n.º 4: alvo incerto (o texto novo corresponde ao atual n.º 3 e o atual n.º 4 é outro preceito, sobre o carácter confidencial das informações; a renumeração vem de diploma sem texto)\nAlterador 17, mapa V, B) vogais dos colectivos nos juízos cíveis e nos Tribunais de Família de Lisboa e Porto: alvo incerto (o mapa V do texto atual não tem a parte B) nem tribunais de família, criados pelo DL 202/73, sem texto)\nAlterador 19, mapa V, círculo de Vila da Feira (Espinho, Ovar, Vila da Feira e Vila Nova de Gaia): alvo incerto (o círculo do texto atual não tem Espinho, Ovar nem Vila Nova de Gaia e o alterador não diz que parte da linha substitui)\nAlterador 36, revogação «na parte aplicável» dos arts. 363.º a 378.º: revogação condicional\nAlterador 124, mapa IX, Relação de Évora (secretário e Repartição Administrativa): alvo incerto (o mapa IX do texto atual não tem a Relação de Évora e a Repartição Judicial vem só em «...»)\nAlterador 211, DL 400/82: sem texto (o pedido não traz os artigos)\nAlterador 212, DL 84/84: sem texto (o pedido não traz os artigos)\nAlterador 213, DL 132/93: sem texto (o pedido não traz os artigos)\nAlterador 214, DL 25/2009: outro diploma (altera o DL 186-A/99 e outros; não menciona o Estatuto Judiciário)\nAlteradores 2, 4, 10, 13, 23 a 26, 29, 30, 33 a 35, 37 a 51, 54 a 112, 114 a 123, 125, 127 a 135, 137 a 160 e 162 a 208, portarias e decretos que criam lugares ou aumentam quadros ao abrigo do estatuto: não textual (não dão nova redação ao texto)",
+  "instrucoes": [
+   "A1 (DL 43623): revoga os arts. 291.º e 353.º do Estatuto anterior (1961) — não aplicado; os outros artigos são de outros diplomas.",
+   "A3 (DL 44959): art. 162.º, n.º 3, ganha um 2.º parágrafo — aplicado e depois absorvido pela revogação dos arts. 159.º a 166.º (A31).",
+   "A5 (DL 45732): nova redação do art. 30.º (n.os 1 a 3) e do art. 38.º, n.º 1 — aplicado (o n.º 1 do art. 38.º segue o DL 45732: distritos do Porto e Coimbra, sem Évora).",
+   "A6 (DL 46140): art. 119.º, n.º 1, al. c) aditada; art. 191.º; art. 227.º, al. d); art. 234.º, n.º 2; art. 430.º, n.º 1, al. a) («terço superior»); mapas I, III, IV, V e VIII (Almada, Benavente e Seixal novas comarcas, Coruche, Vila Franca de Xira, fim do julgado de Benavente) — aplicado; o mapa IX deste alterador ficou substituído pelo mapa IX do A12.",
+   "A7 (DL 46538): art. 6.º, n.º 4; art. 178.º; mapa V (Coimbra) e mapa VI (três juízos em Coimbra) — aplicado; mapa IX substituído depois pelo A12.",
+   "A8 (DL 47139): art. 183.º, n.os 5 a 7; art. 396.º, n.º 2; art. 416.º, n.º 5; art. 679.º, n.os 4 e 5; art. 682.º, n.º 3; art. 688.º, n.º 2; art. 691.º, n.º 3 — aplicado (o n.º 5 do art. 183.º segue o DL 47139); art. 265.º revogado depois (A209); mapa IX substituído pelo A12.",
+   "A9 (DL 47691): arts. 19.º (al. m) e n)), 25.º, 36.º, 43.º, 48.º (n.º 3), 49.º, 54.º, 57.º, 62.º, 110.º, 167.º (n.os 4 e 5), 174.º, 175.º, 194.º, 227.º (al. h)), 691.º e mapas III, IV, V, VI e VIII (Lisboa, Loures e Oeiras) — aplicado com o texto do DL 47691 (art. 49.º: conservadores do registo predial e civil); arts. 263.º, 335.º, 337.º, 357.º e 389.º revogados depois (A209, A36); mapa IX substituído pelo A12.",
+   "A11 (DL 487/70): art. 20.º, n.os 3 e 4 («terço superior»); art. 451.º, n.º 1 (substituído depois pelo A53); art. 452.º, n.º 1; mapas I, IV, V e VIII (1.º e 2.º círculos de Lisboa) — aplicado, menos a entrada de Cascais no mapa VIII; nas entradas de Loures e Oeiras, aditadas pelo A9, a linha do círculo tem a redação do A11.",
+   "A12 (DL 281/71): arts. 80.º, 81.º, 127.º, 128.º, 134.º, 141.º, 143.º a 146.º, 148.º, 151.º, 157.º, 167.º (n.º 1), 180.º, 183.º (n.os 2 e 3), 197.º, 392.º a 395.º (e epígrafe do capítulo IV do título III), 415.º e mapa IX inteiro — aplicado; art. 166.º e arts. 251.º a 350.º revogados depois (A31, A209).",
+   "A17 (DL 696/73): art. 20.º, n.º 1; art. 24.º, n.º 2 (proémio); art. 31.º, n.os 2 e 3; art. 32.º, n.º 3 (aditado a seguir ao texto atual); art. 46.º, n.º 2 — aplicado; art. 31.º, n.º 4, art. 433.º, n.º 4, e mapa V B) não aplicados.",
+   "A18 (DL 319/74), A53 (arts. 341.º e 342.º), A124 (arts. 285.º a 289.º) e A126 (DL 45/77, art. 341.º): artigos depois revogados pela Lei 35/80 (A209).",
+   "A19 (DL 325/74): mapa V (cabeçalho) e mapa VI (2.ª classe) — aplicado; círculo de Vila da Feira não aplicado.",
+   "A20 (DL 575/74) e A22 (arts. 384.º, 385.º, 390.º e 391.º): artigos depois revogados pelo A36. A22: arts. 371.º e 373.º — aplicado.",
+   "A21 (DL 609/74): art. 197.º (vinte ajudantes, al. f)) e art. 213.º, n.º 1 — aplicado; o art. 1.º altera o DL 40768.",
+   "A27 (DL 353/75): art. 401.º, al. b) — aplicado.",
+   "A28 (DL 369-A/75): arts. 193.º (n.º 7), 196.º, 197.º (vinte e oito ajudantes, als. d), e) e f)), 216.º, n.º 2, 222.º (al. g) eliminada) e mapa IX (Procuradoria-Geral) — aplicado; a al. b) do art. 197.º fica como está.",
+   "A31 (DL 402/75): revoga os arts. 159.º a 166.º — aplicado.",
+   "A32 (DL 633/75): arts. 130.º (n.os 1 e 3) e 226.º (n.os 2 e 4) — aplicado.",
+   "A36 (DL 714/75): revoga o art. 233.º, n.º 2, e os arts. 379.º a 391.º — aplicado; a revogação «na parte aplicável» dos arts. 363.º a 378.º não se aplica.",
+   "A53 (DL 201/76): arts. 42.º (n.os 2 a 4), 403.º (al. j), 1)), 404.º, 407.º (n.º 3), 416.º (n.º 2), 451.º (n.º 1), 453.º, 460.º (al. d)), 515.º e 516.º — aplicado.",
+   "A124 (DL 31/77): mapa IX, Relações de Lisboa, Porto e Coimbra (a Repartição Judicial fica com o texto atual, do A12) — aplicado; Relação de Évora não aplicada.",
+   "A209 (Lei 35/80): art. 5.º revoga os arts. 251.º a 362.º — aplicado; os outros artigos são do DL 450/78.",
+   "Reparos: as redações que vinham dos DL 202/73 e 414/73 (sem texto) saíram; ficou só o que os alteradores fornecidos dizem."
+  ]
+ }
+]

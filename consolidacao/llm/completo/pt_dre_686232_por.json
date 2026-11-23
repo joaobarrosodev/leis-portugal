@@ -4,7 +4,7 @@
     {
       "chave": "12.º",
       "epigrafe": "",
-      "texto": "O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma, ou, quando se trate de cargos criados posteriormente a 1973, por deliberação da câmara aprovada pelo Ministro do Interior.",
+      "texto": "O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma, ou, quando se trate de cargos criados posteriormente a 1963, por deliberação da câmara aprovada pelo Ministro do Interior.",
       "alterador": 5
     },
     {
@@ -44,10 +44,28 @@
       "alterador": 5
     },
     {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "O preenchimento de lugares de escriturário-dactilógrafo de 2.ª classe das Câmaras Municipais de Lisboa e do Porto será feito mediante concurso de provas públicas, entre indivíduos que possuam a habilitação correspondente à escolaridade obrigatória segundo a idade do candidato.\n\n§ único. Para o provimento no cargo de escriturário-dactilógrafo constitui habilitação mínima a do 1.º ciclo dos liceus ou equivalente.",
+      "alterador": 4
+    },
+    {
       "chave": "21.º",
       "epigrafe": "",
       "texto": "Os júris dos concursos para ingresso e promoção do pessoal de carteira serão constituídos pelo presidente da câmara municipal ou, em delegação deste, por vice-presidente ou por um director de serviços e por dois funcionários designados pelo presidente da câmara, de entre os chefes de repartição e de secção, ou de entre os chefes de repartição quando se trate de concursos para chefes de secção.",
       "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "Os lugares de terceiro-oficial são providos mediante concurso de provas públicas, a que podem candidatar-se escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria, e indivíduos estranhos ao quadro, com a habilitação mínima do 2.º ciclo do ensino liceal ou equiparada.\n\n§ único. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação referida na parte final do corpo deste artigo não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem tal habilitação.",
+      "alterador": 4
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "Os lugares de escriturário-dactilógrafo de 1.ª classe são providos, mediante concurso de provas públicas, de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de dois anos de bom e efectivo serviço.",
+      "alterador": 4
     },
     {
       "chave": "26.º",
@@ -59,7 +77,7 @@
       "chave": "27.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
-      "alterador": 6
+      "alterador": 7
     },
     {
       "chave": "32.º",
@@ -82,33 +100,32 @@
     {
       "chave": "40.º",
       "epigrafe": "",
-      "texto": "Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e Porto os que, excedendo o limite de idade a que se refere o n.º 2 do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem no exercício de funções, a qualquer título, na própria câmara desde data anterior àquela em que atingiram o referido limite, ininterruptamente ou com interrupções por períodos não superiores a sessenta dias e por motivos que não les sejam imputáveis.",
+      "texto": "Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e Porto os que, excedendo o limite de idade a que se refere o n.º 2 do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem no exercício de funções, a qualquer título, na própria câmara desde data anterior àquela em que atingiram o referido limite, ininterruptamente ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis.",
       "alterador": 5
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, artigo 1.º (regime do artigo 37.º extensivo às instalações de carácter social): não textual — alarga o âmbito do regime sem dar nova redação ao artigo 37.º.\nAlterador 6, artigo 100.º, n.º 2 (revogação de todas as disposições legislativas contrárias): revogação condicional — só atinge o que contrarie a Lei n.º 169/99.",
+  "nao_aplicavel": "Alterador 1, extensão do regime do artigo 37.º às instalações de carácter social: não textual, alarga o âmbito do regime sem alterar o texto do artigo 37.º",
   "instrucoes": [
-    "Alterador 1 (DL 47801): art. 1.º não textual; art. 2.º diz respeito ao DL 44830 — nada aplicado.",
-    "Alterador 2 (DL 49018): nova redação dos artigos 21.º (um só parágrafo, que substitui o corpo e os n.os 1.º e 2.º; o «...» separa os artigos) e 34.º.",
-    "Alterador 3 (DL 49394): nova redação do artigo 16.º (corpo e § único).",
-    "Alterador 4 (DL 30/70): sem texto dirigido ao original.",
-    "Alterador 5 (DL 179/73, art. 1.º): nova redação dos artigos 12.º, 13.º, 14.º, 18.º, 32.º e 40.º; no 15.º só a alínea a) (o resto mantido); no 17.º as alíneas a), b) com 1) e 2), c), e) e f), as outras mantidas, e mantidos também a alínea u) e os §§ 1.º e 2.º, que a redação não menciona; no 26.º aditada a alínea d); no 35.º novo corpo, aditada a alínea f), o § único passa a § 1.º (o alterador diz «§ 1.º ...», ou seja, fica o texto da unidade atual, renumerada) e aditado o § 2.º; o 27.º ganhou nova redação, depois revogada pelo alterador 6. Os artigos 2.º a 5.º do DL 179/73 são normas autónomas, não alteram o original.",
-    "Reparo sobre o 35.º confirmado no alterador: o «§ 1.º ...» do DL 179/73 mantém o texto do antigo § único com o número novo («§ 1.º» seguido do texto atual, como os outros §§ do diploma); o reparo não se confirma e a redação mantém-se.",
-    "Alterador 6 (Lei 169/99, art. 100.º, n.º 2): revoga o artigo 27.º — fica «(Revogado.)»."
+    "Alterador 1 (DL 47801): extensão do regime do art. 37.º - não textual, em nao_aplicavel",
+    "Alterador 2 (DL 49018): nova redação dos arts. 21.º e 34.º - aplicada (o art. 21.º passa a ter só o corpo)",
+    "Alterador 3 (DL 49394): nova redação do art. 16.º - aplicada",
+    "Alterador 4 (DL 30/70, art. 12.º): nova redação dos arts. 19.º (corpo; § único mantém-se), 23.º e 24.º - aplicada com o texto do reparo, porque a vista do alterador vem vazia",
+    "Alterador 5 (DL 179/73): nova redação dos arts. 12.º, 13.º, 14.º, 15.º (alínea a)), 17.º (corpo e alíneas indicadas; restantes, alínea u) e §§ mantêm-se), 18.º, 26.º (aditada alínea d)), 27.º, 32.º, 35.º (corpo, alínea f), § único passa a § 1.º, § 2.º novo) e 40.º - aplicada",
+    "Alterador 6 (retificação ao DL 179/73): «1973» -> «1963» no art. 12.º e «les» -> «lhes» no art. 40.º - aplicada",
+    "Alterador 7 (Lei 169/99, art. 100.º, n.º 2): revoga o art. 27.º - aplicada"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
-  "problemas": [],
+  "ronda_camada1": 116,
+  "problemas": [
+    "12.º: parágrafo que não está no alterador nem no original: O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das",
+    "40.º: parágrafo que não está no alterador nem no original: Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmar"
+  ],
   "numeracao_aceite": [
     "35.º: parágrafo que não está no alterador nem no original: § 1.º O director do Conservatório de Música do Porto mantém direito à gratificaç"
   ],
-  "avisos": [
-    "19.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam",
-    "23.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam",
-    "24.º: o DRE diz «Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\u0000\u0000» (Decreto-Lei n.º 30/70) e nem a resposta nem as regras o mudam"
-  ]
+  "avisos": []
 }

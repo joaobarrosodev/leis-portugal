@@ -1,0 +1,1641 @@
+[
+ {
+  "id": "pt:dre:545666:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "(Conceito de custas. Extensão da regra de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "(Concorrência de diversos regimes de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "(Isenções de natureza especial)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "(Isenções processuais. Inventários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "(Isenções processuais. Interdições, inabilitações e outros processos com custas a cargo de incapazes)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "Algumas isenções processuais",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "(Isenção do processado repetido)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "(Valor da causa para efeito de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "(Valor da execução, do concurso de credores e das alienações de bens)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "(Valor da causa havendo reconvenção)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "(Valor declarado pelas partes)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "(Valor ilíquido, desconhecido ou incerto)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "(Imposto de justiça devido nos juízos de paz)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "14.º",
+    "epigrafe": "(Imposto de justiça devido nos tribunais municipais)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "15.º",
+    "epigrafe": "(Imposto de justiça devido nos tribunais arbitrais)",
+    "texto": "(Revogado.)",
+    "alterador": 22
+   },
+   {
+    "chave": "16.º",
+    "epigrafe": "Taxa de justiça devida nos tribunais de comarca",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "Redução a um quarto das taxas de justiça",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "18.º",
+    "epigrafe": "Redução a metade das taxas de justiça",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "19.º",
+    "epigrafe": "(Inventários especiais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "20.º",
+    "epigrafe": "Meios preventivos da falência e processos de recuperação da empresa",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "(Meios suspensivos da falência)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "(Execuções. Embargos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "23.º",
+    "epigrafe": "(Concurso de credores)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "24.º",
+    "epigrafe": "Processos de foro laboral",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "25.º",
+    "epigrafe": "(Depósitos e levantamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "26.º",
+    "epigrafe": "Processos relativos à jurisdição de menores",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "27.º",
+    "epigrafe": "(Recursos interpostos para o tribunal de comarca)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "28.º",
+    "epigrafe": "(Inventário: o que compreende)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "(Partilha adicional)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "30.º",
+    "epigrafe": "(Falências e insolvências: o que compreendem)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "31.º",
+    "epigrafe": "(Embargos à falência ou insolvência)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "32.º",
+    "epigrafe": "Taxa de justiça nos processos de incapazes",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "33.º",
+    "epigrafe": "(Redução do imposto de justiça nas interdições, inabilitações e inventários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "34.º",
+    "epigrafe": "(Limites do imposto de justiça nas cartas precatórias)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "35.º",
+    "epigrafe": "Taxa de justiça devida nos recursos",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "36.º",
+    "epigrafe": "Taxa de justiça devida na reclamação contra o indeferimento ou retenção do recurso",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "37.º",
+    "epigrafe": "Taxa de justiça devida no recurso para o tribunal pleno",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "38.º",
+    "epigrafe": "Taxa de justiça no recurso que sobe com outro de natureza penal",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "39.º",
+    "epigrafe": "Taxa de justiça nas causas intentadas perante as Relações ou o Supremo",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "40.º",
+    "epigrafe": "Redução da taxa de justiça conforme a fase do recurso",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "41.º",
+    "epigrafe": "Taxa de justiça nos recursos em que se tenha aplicado o artigo 464.º-A do Código de Processo Civil",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "42.º",
+    "epigrafe": "(Processos especiais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "43.º",
+    "epigrafe": "(Incidentes e actos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "44.º",
+    "epigrafe": "Incidentes nos processos de incapazes",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "45.º",
+    "epigrafe": "(Incompetência relativa)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "46.º",
+    "epigrafe": "Processos especiais, incidentes e incompetência relativa",
+    "texto": "(Revogado.)",
+    "alterador": 22
+   },
+   {
+    "chave": "47.º",
+    "epigrafe": "(Imposto devido pelo prosseguimento de processo parado)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "48.º",
+    "epigrafe": "Cartas precatórias e comunicações equivalentes",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "49.º",
+    "epigrafe": "(Cartas rogatórias)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "50.º",
+    "epigrafe": "Adiamentos",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "51.º",
+    "epigrafe": "Diminuição excepcional das taxas de justiça",
+    "texto": "(Revogado.)",
+    "alterador": 22
+   },
+   {
+    "chave": "52.º",
+    "epigrafe": "Limites da taxa de justiça e das custas",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "53.º",
+    "epigrafe": "(Encargo de fixar o imposto nos casos em que é variável)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "54.º",
+    "epigrafe": "(Destino do imposto de justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "55.º",
+    "epigrafe": "(Divisão do imposto de justiça no tribunal arbitral)",
+    "texto": "(Revogado.)",
+    "alterador": 17
+   },
+   {
+    "chave": "56.º",
+    "epigrafe": "(Imposto liquidado por percentagem)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "57.º",
+    "epigrafe": "(Imposto do selo devido nos tribunais de comarca, inferiores e arbitrais)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "58.º",
+    "epigrafe": "(Imposto do selo devido nos processos orfanológicos)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "59.º",
+    "epigrafe": "(Imposto do selo devido nos recursos)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "60.º",
+    "epigrafe": "(Redução do imposto do selo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "61.º",
+    "epigrafe": "(Limites do imposto do selo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "62.º",
+    "epigrafe": "(Imposto do selo devido nos depósitos e levantamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "63.º",
+    "epigrafe": "(Imposto do selo: o que abrange o liquidado pelo processo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "64.º",
+    "epigrafe": "(Dispensa do pagamento prévio do imposto do selo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "65.º",
+    "epigrafe": "Encargos",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "66.º",
+    "epigrafe": "(Custo dos anúncios)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "67.º",
+    "epigrafe": "Custas de parte",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "68.º",
+    "epigrafe": "(Percentagem da tesouraria)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "69.º",
+    "epigrafe": "(Remuneração das pessoas com intervenção acidental)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "70.º",
+    "epigrafe": "(Intervenção do tribunal para fixar a remuneração)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "71.º",
+    "epigrafe": "(Remuneração pelos actos avulsos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "72.º",
+    "epigrafe": "(Remuneração às testemunhas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "73.º",
+    "epigrafe": "(Importâncias que revertem para o Cofre Geral dos Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "74.º",
+    "epigrafe": "(Limite de remuneração, nos tribunais arbitrais, para as pessoas com intervenção obrigatória)",
+    "texto": "(Revogado.)",
+    "alterador": 22
+   },
+   {
+    "chave": "75.º",
+    "epigrafe": "(Caminhos a que têm direito os peritos, louvados e técnicos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "76.º",
+    "epigrafe": "(Limite da verba de caminhos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "77.º",
+    "epigrafe": "(Despesas de deslocação)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "78.º",
+    "epigrafe": "(Despesas de transporte dos magistrados e funcionários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "79.º",
+    "epigrafe": "(Anotação das distâncias percorridas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "80.º",
+    "epigrafe": "(Remuneração da administração nas falências e insolvências)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "81.º",
+    "epigrafe": "(Divisão da receita da administração de falências e insolvências e de outras importâncias devidas aos administradores)",
+    "texto": "(Revogado.)",
+    "alterador": 26
+   },
+   {
+    "chave": "82.º",
+    "epigrafe": "(Dispensa de selo do papel em que requerem o síndico e os administradores)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "83.º",
+    "epigrafe": "(Despesas de transportes dos administradores)",
+    "texto": "(Revogado.)",
+    "alterador": 26
+   },
+   {
+    "chave": "84.º",
+    "epigrafe": "(Procuradoria a quem é devida e qual a parte que a paga)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "85.º",
+    "epigrafe": "Critério para a fixação da procuradoria",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "86.º",
+    "epigrafe": "(Remuneração a representantes oficiosamente nomeados)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "87.º",
+    "epigrafe": "Divisão da importância de procuradoria",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "88.º",
+    "epigrafe": "(O que é devido nas notificações e outras diligências avulsas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "89.º",
+    "epigrafe": "(Custo das certidões e traslados)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "90.º",
+    "epigrafe": "(Custo da procuração ou substabelecimento exarado nos autos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "91.º",
+    "epigrafe": "(Importância devida pela busca)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "92.º",
+    "epigrafe": "(Importância devida pelos termos de abertura e encerramento de livros comerciais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "93.º",
+    "epigrafe": "(Importância devida pelas rubricas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "94.º",
+    "epigrafe": "(Custo do diploma de nomeação de solicitador e seu registo)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "95.º",
+    "epigrafe": "(Importância devida pela confiança de processos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "96.º",
+    "epigrafe": "(Preparos: suas modalidades e casos em que são devidos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "97.º",
+    "epigrafe": "(Quando se efectuam os preparos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "98.º",
+    "epigrafe": "(Montante dos preparos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "99.º",
+    "epigrafe": "(Montante dos preparos em casos particulares)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "100.º",
+    "epigrafe": "(Isenção pessoal de preparos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "101.º",
+    "epigrafe": "(A quem incumbe o encargo do processo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "102.º",
+    "epigrafe": "(Obrigação de efectuar os preparos quando há compartes)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "103.º",
+    "epigrafe": "(Pagamento de preparos que a outrem incumbem)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "104.º",
+    "epigrafe": "(Oportunidade de pagamento do preparo inicial)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "105.º",
+    "epigrafe": "(Oportunidade de pagamento dos preparos subsequentes)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "106.º",
+    "epigrafe": "(Oportunidade de pagamento dos preparos para despesas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "107.º",
+    "epigrafe": "(Oportunidade de pagamento dos preparos para julgamento)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "108.º",
+    "epigrafe": "(Tribunal em que os preparos são efectuados)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "109.º",
+    "epigrafe": "(Restituição de preparos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "110.º",
+    "epigrafe": "(Consequências da falta do preparo inicial)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "111.º",
+    "epigrafe": "(Sanção para a falta de preparo subsequente)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "112.º",
+    "epigrafe": "(Consequências da falta de preparo para despesas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "113.º",
+    "epigrafe": "(Sanção contra a falta de preparo para julgamento)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "114.º",
+    "epigrafe": "Taxa de justiça devida pela falta de preparos",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "115.º",
+    "epigrafe": "(Influência do regime de preparos na marcha do processo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "116.º",
+    "epigrafe": "(Pagamento das custas no caso de transferência do processo para outro tribunal)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "117.º",
+    "epigrafe": "Impossibilidade de o devedor de custas praticar actos no processo e obter certidões",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "118.º",
+    "epigrafe": "Garantia com títulos de depósito a prazo",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "119.º",
+    "epigrafe": "Garantia por fiança bancária",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "119.º-A",
+    "epigrafe": "Garantia do pagamento das custas",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "120.º",
+    "epigrafe": "(Garantia do custo das certidões ou outros papéis)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "121.º",
+    "epigrafe": "Proibição de executar a decisão por valor superior ao da conta do processo",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "122.º",
+    "epigrafe": "(Oportunidade de efectuar a conta de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "123.º",
+    "epigrafe": "(Efectivação da conta quando o processo transite do julgado para o tribunal de comarca)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "124.º",
+    "epigrafe": "(Conta de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "125.º",
+    "epigrafe": "(Conta de processo que não terminou ou sujeito a diversos regimes de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "126.º",
+    "epigrafe": "(Conta nos processos de expropriação. Regime de pagamento)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "127.º",
+    "epigrafe": "(Conta e regime de custas nas cartas precatórias e rogatórias)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "128.º",
+    "epigrafe": "(Pagamento de custas em tribunal diferente daquele em que a conta foi feita)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "129.º",
+    "epigrafe": "(Liquidação da procuradoria e das custas de parte)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "130.º",
+    "epigrafe": "(Cálculo dos caminhos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "131.º",
+    "epigrafe": "(Liquidação da percentagem do Serviço Social do Ministério da Justiça, da Ordem dos Advogados e da Câmara dos Solicitadores nas custas e nas multas judiciais).",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "132.º",
+    "epigrafe": "(Prazo para efectuar a conta)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "133.º",
+    "epigrafe": "(Dúvidas sobre a conta)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "134.º",
+    "epigrafe": "(Regras formais a observar na conta. Arredondamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "135.º",
+    "epigrafe": "Não liquidação de custas de valor reduzido",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "136.º",
+    "epigrafe": "(Liquidação do julgado)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "137.º",
+    "epigrafe": "(Conta dos papéis avulsos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "138.º",
+    "epigrafe": "(Exame e reforma da conta)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "139.º",
+    "epigrafe": "(Incidente de reclamação da conta)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "140.º",
+    "epigrafe": "(Recurso da decisão sobre reclamação da conta ou sobre dúvidas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "141.º",
+    "epigrafe": "(Reforma da conta: reposição ou acréscimo de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "142.º",
+    "epigrafe": "(Responsabilidade pelas custas em casos especiais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "143.º",
+    "epigrafe": "(Aviso aos interessados na conta)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "144.º",
+    "epigrafe": "(Expedição dos avisos e o que estes devem conter)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "145.º",
+    "epigrafe": "(Prazo para pagamento voluntário das custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "146.º",
+    "epigrafe": "(Pagamento das custas dos actos e diligências avulsas e das deprecadas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "147.º",
+    "epigrafe": "Pagamento das custas pela parte contrária ou por terceiro",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "148.º",
+    "epigrafe": "(Pagamento e depósito de custas nos litígios com entidades isentas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "149.º",
+    "epigrafe": "(Pagamento de custas por força de depósito que o responsável tenha à ordem do tribunal)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "150.º",
+    "epigrafe": "(Pagamento de custas em prestações)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "151.º",
+    "epigrafe": "(Rateio das prestações recebidas. Extinção da caução)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "152.º",
+    "epigrafe": "(Pagamento de custas pelo levantamento de depósito ou por desconto nos vencimentos, ordenados ou salários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "153.º",
+    "epigrafe": "Rateio das quantias depositadas e instauração da execução",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "154.º",
+    "epigrafe": "(Termos do processo de execução por custas, multas e indemnizações)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "155.º",
+    "epigrafe": "(Execução por custas devidas aos tribunais superiores)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "156.º",
+    "epigrafe": "(Execução por custas de actos ou papéis avulsos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "157.º",
+    "epigrafe": "(Execução por dívidas cumuladas. Pluralidade de devedores)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "158.º",
+    "epigrafe": "(Execução por custas devidas em inventário obrigatório)",
+    "texto": "(Revogado.)",
+    "alterador": 27
+   },
+   {
+    "chave": "159.º",
+    "epigrafe": "(Pagamento antes de instaurada a execução ou de iniciados os descontos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "160.º",
+    "epigrafe": "(Indicação dos bens que serão penhorados)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "161.º",
+    "epigrafe": "(Separação judicial de bens)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "162.º",
+    "epigrafe": "(Penhora em bens sitos noutra comarca)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "163.º",
+    "epigrafe": "Termo da execução por insuficiência do activo e arquivamento condicional da execução",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "164.º",
+    "epigrafe": "(Prescrição da dívida de custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "165.º",
+    "epigrafe": "(Quando tem lugar o rateio)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "166.º",
+    "epigrafe": "(Rateio a efectuar no termo da execução)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "167.º",
+    "epigrafe": "(Precedência a observar no rateio)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "168.º",
+    "epigrafe": "(Incidência do juro de mora)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "169.º",
+    "epigrafe": "(Liquidação do juro de mora no caso de pagamento coercivo em prestações)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "170.º",
+    "epigrafe": "Taxa de juro de mora",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "171.º",
+    "epigrafe": "(Responsabilidade do réu ou arguido pelo imposto de justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "172.º",
+    "epigrafe": "(Responsabilidade pelo imposto no tribunal de execução das penas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "173.º",
+    "epigrafe": "(Responsabilidade do réu ou réus pelas custas)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "174.º",
+    "epigrafe": "(Responsabilidade pelas custas devidas por menor de dezasseis anos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "175.º",
+    "epigrafe": "(Responsabilidade do assistente. Limites do imposto)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "176.º",
+    "epigrafe": "(Responsabilidade do assistente pelas custas)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "177.º",
+    "epigrafe": "(Imposto devido pela constituição de assistente)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "178.º",
+    "epigrafe": "(Responsabilidade de terceiros pelo imposto e pelas custas)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "179.º",
+    "epigrafe": "(Decaimento, no caso de pedidos subsidiários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "180.º",
+    "epigrafe": "(Responsabilidade pelo imposto no caso de isenção de pena)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "181.º",
+    "epigrafe": "(Efeito da suspensão da pena sobre o imposto)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "182.º",
+    "epigrafe": "(Restituição de impostos pagos. O que acresce à indemnização)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "183.º",
+    "epigrafe": "(Isenções)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "184.º",
+    "epigrafe": "Taxa de justiça e fixar na decisão",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "185.º",
+    "epigrafe": "Taxa de justiça devida nos incidentes",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "186.º",
+    "epigrafe": "(Venda de objectos apreendidos em processos criminais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "187.º",
+    "epigrafe": "Taxa devida pelo recorrente nos recursos e nos incidentes",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "188.º",
+    "epigrafe": "Taxa de justiça a fixar na decisão do recurso ou incidente",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "189.º",
+    "epigrafe": "(Depósito das quantias em dívida)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "190.º",
+    "epigrafe": "Taxa devida nos processos de caução e pela interposição de recurso",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "191.º",
+    "epigrafe": "(Redução do imposto nos tribunais de execução das penas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "192.º",
+    "epigrafe": "(Pagamento do imposto devido inicialmente e depósito das quantias em dívida)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "193.º",
+    "epigrafe": "Taxa de justiça variável",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "194.º",
+    "epigrafe": "Custas",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "195.º",
+    "epigrafe": "(Cálculo e liquidação das custas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "196.º",
+    "epigrafe": "(Intervenção do juiz na fixação da remuneração)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "197.º",
+    "epigrafe": "(Liquidação do emolumento para o captor)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "198.º",
+    "epigrafe": "(Importâncias que revertem para o Cofre Geral dos Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "199.º",
+    "epigrafe": "(Prazo para a liquidação. Recopilação)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "200.º",
+    "epigrafe": "(Prazo para pagamento voluntário)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "201.º",
+    "epigrafe": "(Inerência das custas ao imposto de justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "202.º",
+    "epigrafe": "(Pagamento coercivo das importâncias em dívida pelo réu)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "203.º",
+    "epigrafe": "(Pagamento coercivo das importâncias devidas por pessoa diferente do réu)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "204.º",
+    "epigrafe": "(Pagamento coercivo das importâncias devidas na Relação ou no Supremo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "205.º",
+    "epigrafe": "(Precedência das verbas em caso de rateio)",
+    "texto": "(Revogado.)",
+    "alterador": 20
+   },
+   {
+    "chave": "206.º",
+    "epigrafe": "(Juro de mora)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "207.º",
+    "epigrafe": "(Divisão do imposto de justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 22
+   },
+   {
+    "chave": "208.º",
+    "epigrafe": "Montante das multas aplicáveis em processos cíveis e criminais",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "209.º",
+    "epigrafe": "(Divisão da importância das multas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "210.º",
+    "epigrafe": "(Liquidação das multas impostas às partes em processo cível)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "211.º",
+    "epigrafe": "(Liquidação e pagamento de outras multas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "212.º",
+    "epigrafe": "(Responsabilidade pela multa aplicada a menor de 16 anos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "213.º",
+    "epigrafe": "(Pagamento coercivo da multa)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "214.º",
+    "epigrafe": "(Tesourarias judiciais. Depósitos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "215.º",
+    "epigrafe": "(Abono para falhas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "216.º",
+    "epigrafe": "(Livros exigidos para as tesourarias)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "217.º",
+    "epigrafe": "(Apuramento de saldos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "218.º",
+    "epigrafe": "(Livros exigidos para as secções de processos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "219.º",
+    "epigrafe": "(Livros auxiliares)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "220.º",
+    "epigrafe": "(Termos de abertura e de encerramento)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "222.º",
+    "epigrafe": "Guias para depósitos ou pagamentos",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "223.º",
+    "epigrafe": "(Menções constantes das guias)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "224.º",
+    "epigrafe": "(Indicação a registar e operações a efectuar quando o processo transita de secção)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "225.º",
+    "epigrafe": "(Cheques de transferência)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "226.º",
+    "epigrafe": "(Destino das importâncias não movimentadas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "227.º",
+    "epigrafe": "(Nota-recibo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "228.º",
+    "epigrafe": "(Devolução das guias. Aproveitamento da nota-recibo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "229.º",
+    "epigrafe": "(Destino das importâncias recebidas pelo tesoureiro)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "230.º",
+    "epigrafe": "Conta com a Caixa Geral de Depósitos. Assinatura de cheques",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "231.º",
+    "epigrafe": "Destino de algumas receitas",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "232.º",
+    "epigrafe": "(Verificação dos depósitos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "233.º",
+    "epigrafe": "(Verificação de escrita)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "234.º",
+    "epigrafe": "Verificação de escrita, pagamento e cheques",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "235.º",
+    "epigrafe": "(Destino dos cheques. Recibo de pagamento)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "236.º",
+    "epigrafe": "Prescrição dos cheques não apresentados a pagamento",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "237.º",
+    "epigrafe": "(Prescrição do cheque no caso de falecimento do titular)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "238.º",
+    "epigrafe": "(Destino das importâncias dos cheques prescritos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "239.º",
+    "epigrafe": "(Pagamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "240.º",
+    "epigrafe": "(Anotação dos depósitos e pagamentos. Nota da despesa efectuada)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "241.º",
+    "epigrafe": "(Arredondamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "242.º",
+    "epigrafe": "(Visto fiscal nos processos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "243.º",
+    "epigrafe": "(Verificação da tesouraria)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "244.º",
+    "epigrafe": "(Indicação do saldo da conta da tesouraria judicial)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "245.º",
+    "epigrafe": "(Exame e registo das contas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "246.º",
+    "epigrafe": "(Relações a enviar à Repartição dos Cofres)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "247.º",
+    "epigrafe": "(Livros exigidos para as tesourarias privativas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "248.º",
+    "epigrafe": "(Livro exigido para a secção de processos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "249.º",
+    "epigrafe": "(Folha de pagamentos)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "250.º",
+    "epigrafe": "(Divisão da percentagem da tesouraria)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "251.º",
+    "epigrafe": "(Receita do Cofre dos Conservadores, Notários e Funcionários de Justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "252.º",
+    "epigrafe": "(Receita do Cofre Geral dos Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "253.º",
+    "epigrafe": "(Isenções concedidas aos Cofres)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "254.º",
+    "epigrafe": "(Delegações do Cofre Geral dos Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "255.º",
+    "epigrafe": "(Encargos do Cofre Geral dos Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "256.º",
+    "epigrafe": "(Folhas de despesa. Transportes e ajudas de custo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "257.º",
+    "epigrafe": "(Importância destinada a pagamento de pequenas despesas)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "258.º",
+    "epigrafe": "(Encargos do Cofre dos Conservadores, Notários e Funcionários de Justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "259.º",
+    "epigrafe": "(Receita do cofre da secretaria)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "260.º",
+    "epigrafe": "(Destino da receita do cofre da secretaria)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "261.º",
+    "epigrafe": "(Divisão da importância destinada aos funcionários)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "262.º",
+    "epigrafe": "(Contribuição industrial e imposto do selo)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "263.º",
+    "epigrafe": "(Registo da divisão da receita do cofre da secretaria)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "264.º",
+    "epigrafe": "(Prescrição das importâncias emolumentares)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "265.º",
+    "epigrafe": "(Divisão dos emolumentos que competem aos magistrados do tribunal municipal)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "266.º",
+    "epigrafe": "(Gratificação de peritos e auxiliares dos inspectores, inquiridores e sindicantes)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "267.º",
+    "epigrafe": "(Relação sucessória)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "268.º",
+    "epigrafe": "(Disposição revogatória)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   },
+   {
+    "chave": "269.º",
+    "epigrafe": "(Data da entrada em vigor do diploma)",
+    "texto": "(Revogado.)",
+    "alterador": 29
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 46.º (suspensão da aplicação dos artigos 24.º, 46.º, 47.º, 48.º, 50.º, 68.º, 71.º, 87.º, 131.º, 194.º e 235.º, n.º 2): não textual (suspensão)\nAlterador 10, declaração de inconstitucionalidade do artigo 189.º, n.º 1: não textual (declaração de inconstitucionalidade sem eliminar o texto)\nAlterador 11, art. 3.º, e Alterador 13, art. 8.º (uniformização dos prazos do Código): não textual (alteração genérica dos prazos, sem nova redação; de resto, os artigos ficam revogados pelo alterador 29)\nAlterador 20, art. 2.º (substituição das designações «imposto de justiça» e «processos orfanológicos ou obrigatórios»): não textual (designação automática, sem nova redação; não se aplicou às epígrafes)",
+  "instrucoes": [
+   "Alteradores 1 a 28: redações sucessivas de vários artigos; como o alterador 29 revoga o Código inteiro (salvo o artigo 221.º), só contam as epígrafes finais, que se tiraram da última redação que trouxe epígrafe (as «(...)», «[...]» e «...» mantêm a anterior).",
+   "Alterador 1 (DL 47692): novas epígrafes de 5.º, 6.º, 24.º, 25.º, 26.º, 33.º, 43.º, 46.º, 56.º, 84.º, 101.º, 131.º, 150.º, 160.º, 161.º, 171.º, 174.º, 184.º, 188.º, 190.º, 202.º, 236.º, 258.º, 267.º e outras.",
+   "Alterador 2 (DL 48853): epígrafes de 52.º e 264.º («Prescrição das importâncias emolumentares»).",
+   "Alterador 9 (DL 366/80): epígrafes de 73.º, 84.º e 198.º.",
+   "Alterador 14 (DL 118/85): epígrafes de 3.º («Isenções de natureza especial»), 6.º, 64.º, 101.º, 116.º, 117.º, 150.º («Pagamento de custas em prestações»), 167.º, 184.º, 188.º, 205.º, 211.º e outras.",
+   "Alterador 16 (DL 384-A/85): epígrafes de 105.º e 107.º.",
+   "Alterador 17 (Lei 31/86, art. 39.º, n.º 2): revoga o artigo 55.º.",
+   "Alterador 19 (DL 214/87): nova redação e epígrafe do 87.º.",
+   "Alterador 20 (DL 387-D/87): novas epígrafes (sem parênteses) de 16.º, 17.º, 18.º, 20.º, 26.º, 32.º, 35.º a 41.º, 44.º, 48.º, 50.º, 51.º, 52.º, 65.º, 67.º, 114.º, 117.º, 121.º, 147.º, 153.º, 163.º, 184.º, 185.º, 187.º, 188.º, 190.º, 193.º, 194.º, 208.º, 222.º; art. 5.º revoga 13.º, 14.º, 24.º, 34.º, 46.º, 47.º, 53.º, 54.º, 57.º, 58.º, 59.º, 68.º, 94.º, 99.º, 105.º, 111.º, 118.º, 119.º, 123.º, 131.º, 171.º, 173.º, 175.º a 178.º, 180.º, 189.º e 205.º.",
+   "Alterador 21 (DL 92/88): repõe o 46.º com a epígrafe «Processos especiais, incidentes e incompetência relativa».",
+   "Alterador 22 (DL 212/89): novas epígrafes de 6.º, 24.º, 85.º, 118.º, 119.º, 135.º, 170.º, 230.º, 231.º, 234.º, 236.º; adita o 119.º-A; art. 8.º revoga 15.º, 46.º, 51.º, 74.º e 207.º (e n.os do 1.º e 97.º); a tabela do art. 16.º só vem em imagem, sem efeito porque o Código fica revogado.",
+   "Alterador 26 (DL 254/93, art. 11.º): revoga 81.º e 83.º. Alterador 27 (DL 227/94, art. 8.º): revoga 158.º. Alteradores 27 e 28: redações com epígrafe «[...]», sem mudança de epígrafe.",
+   "Alterador 29 (DL 224-A/96, art. 2.º): revoga o Código das Custas Judiciais, com excepção do artigo 221.º: todos os artigos (incluindo o 119.º-A) ficam «(Revogado.)» com a última epígrafe; o 221.º mantém-se sem alteração.",
+   "Reparos: confirmadas as epígrafes alteradas de 3.º, 5.º, 25.º, 33.º, 43.º, 56.º, 64.º, 73.º, 116.º, 131.º, 160.º, 161.º, 171.º, 174.º, 264.º e 267.º (vêm dos alteradores 1, 2, 9 e 14, não do texto original); corrigidas 46.º (alterador 21), 101.º e 150.º (alterador 14)."
+  ]
+ }
+]

@@ -168,32 +168,74 @@
     "alterador": "pt:dre:517247:por"
   },
   {
-    "artigo": "13.º",
-    "operacao": "substituir",
+    "artigo": "6.º",
+    "operacao": "revogar",
     "regra": "llm",
-    "antes": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º",
-    "depois": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º\n\n4 - No caso de não ser aplicável o disposto no n.º 3 do presente artigo, ou no n.º 8 do artigo 11.º e de a entidade concessionária da RNT não exercer o direito de reserva previsto no n.º 1 do presente preceito, o titular da licença de produção vinculada pode adquirir a propriedade do terreno ou a sua posse, caso se trate de bens do domínio público ou privado da Administração Pública, por um valor equivalente ao respectivo valor contabilístico nas contas da entidade concessionária da RNT, desde que, e em simultâneo, solicite a emissão de uma licença de produção não vinculada, para o mesmo local, nos termos do artigo 30.º do presente diploma.\n\n5 - O direito de reserva previsto no n.º 1 do presente artigo só poderá ser exercido pela entidade concessionária da RNT se a utilização da capacidade instalada de produção da referida central for considerada necessária para o SEP no plano de expansão que estiver em vigor, ao tempo da caducidade do contrato de vinculação.\n\n> Alterado pelo/a [Decreto-Lei n.º 198/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2000-330216), publicado em 2000-08-24.",
+    "antes": "###### Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos\n\n1 - A utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos vinculados processa-se nos termos do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, sem prejuízo do disposto nos números seguintes.\n\n2 - O contrato de concessão de utilização do domínio hídrico em aproveitamentos hidroeléctricos é celebrado por ajuste directo com a entidade concessionária da RNT.\n\n3 - A entidade concessionária da RNT fica autorizada a subconceder o contrato de concessão de utilização do domínio hídrico à entidade seleccionada para estabelecer e explorar o novo centro electroprodutor, nos termos do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.",
+    "depois": "###### Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Titularidade dos sítios\n\n1 - No âmbito da autorização preliminar estabelecida no artigo 5.º ou da concessão de utilização do domínio hídrico estabelecida no artigo anterior, a entidade concessionária da RNT procede à aquisição do sítio ou, quando se tratar de bens do domínio público ou privado da Administração Pública, à obtenção da sua posse.\n\n2 - Para efeitos do disposto no número anterior, a entidade concessionária da RNT pode recorrer, mediante declaração de utilidade pública do Ministro da Indústria e Energia, à expropriação ou à criação de servidões sobre o sítio seleccionado, nos termos do Código das Expropriações.\n\n3 - A entidade concessionária da RNT fica autorizada a transmitir a posse dos sítios à entidade seleccionada para, nos termos do presente diploma, estabelecer e explorar o centro electroprodutor.",
+    "depois": "###### Artigo 7.º — Titularidade dos sítios\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484667:por",
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
+  },
+  {
+    "artigo": "53.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 53.º — Direitos adquiridos\n\nAs entidades integradas no SEP, nos termos do artigo 17.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, e que detenham, à data da entrada em vigor do presente diploma, direitos de utilização do domínio hídrico devem, em conjugação com a entidade concessionária da RNT, regularizar, no prazo de um ano, o regime de utilização daquele domínio, nos termos dos artigos 6.º e 7.º",
+    "depois": "###### Artigo 53.º — Direitos adquiridos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484667:por",
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º",
+    "depois": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484667:por",
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   },
   {
     "artigo": "15.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado\n\n1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por determinação da DGE.\n\n2 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado dá ao titular da respectiva licença vinculada de produção o direito a uma indemnização, calculada com base no valor actual dos meios financeiros libertos que o contrato em vigor geraria se fosse integralmente cumprido até ao fim do respectivo prazo.\n\n3 - No caso previsto no número anterior a entidade concessionária da RNT e o titular da respectiva licença vinculada de produção negoceiam as condições da cessação, nos termos do contrato de vinculação.\n\n4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.",
-    "depois": "###### Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado\n\n1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por determinação da DGE.\n\n2 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado dá ao titular da respectiva licença vinculada de produção o direito a uma indemnização, calculada com base no valor actual dos meios financeiros libertos que o contrato em vigor geraria se fosse integralmente cumprido até ao fim do respectivo prazo.\n\n3 - No caso previsto no número anterior a entidade concessionária da RNT e o titular da respectiva licença vinculada de produção negoceiam as condições da cessação, nos termos do contrato de vinculação.\n\n4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º\n\n5 - Se o produtor optar no sentido previsto na parte final do número anterior, terá o direito de adquirir o terreno e a central nos termos do n.º 4 do artigo 13.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.\n\n> Alterado pelo/a [Decreto-Lei n.º 198/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2000-330216), publicado em 2000-08-24.",
+    "depois": "###### Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado\n\n1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por determinação da DGE.\n\n2 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado dá ao titular da respectiva licença vinculada de produção o direito a uma indemnização, calculada com base no valor actual dos meios financeiros libertos que o contrato em vigor geraria se fosse integralmente cumprido até ao fim do respectivo prazo.\n\n3 - No caso previsto no número anterior a entidade concessionária da RNT e o titular da respectiva licença vinculada de produção negoceiam as condições da cessação, nos termos do contrato de vinculação.\n\n4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.\n\n> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   },
   {
     "artigo": "31.º",
@@ -207,7 +249,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   },
   {
     "artigo": "32.º",
@@ -221,7 +263,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   },
   {
     "artigo": "49.º",
@@ -235,7 +277,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   },
   {
     "artigo": "50.º",
@@ -249,6 +291,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:484667:por",
-    "alterador": "pt:dre:330216:por;pt:dre:517247:por"
+    "alterador": "pt:dre:340237:por;pt:dre:517467:por;pt:dre:517247:por"
   }
 ]

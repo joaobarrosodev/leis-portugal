@@ -1,0 +1,517 @@
+[
+ {
+  "id": "pt:dre:432796:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 45399 art. 3.º: corpo conforme DL 119-J/83 art. 3.º; §§ 1.º a 3.º conforme DL 115-D/85 art. 2.º (§ 1.º reformulado, novo § 2.º, antigo § 2.º passa a § 3.º). A Lei 2/88 art. 59.º é só autorização.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º (corpo, §§ 1.º e 2.º n.os 1.º e 2.º) conforme DL 192/84; § 2.º corpo conforme DL 183-F/80; n.º 3.º conforme DL 115-D/85; corpo do art. 3.º conforme DL 192/84.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º n.º 4.º conforme DL 112/86 (pensões sociais, de velhice, invalidez ou sobrevivência).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º n.º 7.º novo, conforme DL 192/84 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º § 2.º conforme DL 93/88 art. 1.º (última redacção; substitui as de Lei 40/77 e DL 115-D/85 que não alteravam este parágrafo desta forma).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º § único conforme DL 183-F/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º reformulado pelo DL 183-F/80 e de novo pelo DL 192/84 (inclui 'ou os valores referidos no artigo 3.º'); alíneas a) a c) desaparecem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º, n.º 1.º, al. a) conforme DL 225-C/76 (retira a Legião Portuguesa).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 1.º als. c), d), e) conforme DL 260-B/81 art. 6.º (substituem as originais; a al. e) tabaco já eliminada pelo DL 172-A/78).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 1.º al. n) conforme DL 47914 e al. o) conforme DL 119-J/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 1.º alíneas z') (DL 45977), z'') (DL 542/71), z''') (DL 172-A/78, substitui a do DL 667/76 com a mesma ordem), z''''') e z'''''') (DL 112/86), z''''''') (DL 135/87); 2.º com 'território sob administração portuguesa' (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 2.º al. b) conforme DL 172-A/78.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.º 2.º als. d) e e) conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º-A conforme DL 183-F/80 (substitui a do DL 225-C/76; § único mantido); art. 9.º conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º: corpo e n.º 2.º (80000$00) conforme DL 192/84; n.º 1.º corpo conforme DL 275/79; als. a) e b) conforme DL 66/89; §§ 1.º e 1.º-A conforme DL 183-F/80; § 1.º-B conforme DL 115-D/85. O parágrafo 'rendimentos exclusivamente por conta de outrem' desaparece com a nova redacção do n.º 1.º (DL 275/79).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º §§ 3.º (DL 192/84), 4.º (DL 172-A/78), 5.º e 6.º (DL 225-C/76), 6.º-A (DL 115-D/85), 7.º (DL 112/86); art. 12.º conforme DL 183-F/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º: n.os 1.º (DL 112/86), 2.º a 6.º (DL 225-C/76), 7.º (DL 183-F/80), 8.º (DL 115-D/85), §§ 1.º e 3.º (DL 192/84), § 2.º (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º regra 3.ª conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º regra 4.ª al. c) conforme DL 119-J/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º regra 7.ª (DL 48316), 7.ª-A (DL 135/87), 8.ª (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º § 3.º (DL 115-D/85), 15.º-A a 15.º-C (DL 192/84), 16.º (DL 183-F/80, corpo DL 225-C/76), corpo do 17.º (DL 183-F/80). Tabela anexa só em imagem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º als. b) a e) (DL 183-F/80, al. c) DL 196/82), § 1.º e § 2.º (DL 192/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Arts. 18.º, 19.º e 20.º (corpo) conforme DL 183-F/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º (DL 225-C/76), 21.º-A (DL 119-J/83), 22.º (DL 115-D/85, prazo 30 de Junho por DL 112/86 art. 4.º), 23.º (DL 112/86), 24.º corpo (DL 192/84, prazo 30 de Junho), al. a) (DL 192/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Art. 24.º als. c) (DL 390/77), d) (DL 119-J/83), §§ 1.º, 5.º (DL 390/77), § 2.º, §§ 3.º e 4.º suprimidos (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Art. 24.º-A (DL 93/88), 25.º (DL 390/77, 30 de Junho por DL 112/86), § único (DL 192/84), 25.º-A (DL 192/84, 30 de Junho), 25.º-B (DL 112/86; § único DL 275/79), 25.º-C (DL 135/87), 26.º e 27.º (DL 390/77), 28.º corpo (DL 192/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "errado",
+    "motivo": "Art. 28.º al. c): o texto 'contraídas com os seguintes objectivos e dentro dos limites ... 1000000$00 ... líquidas de comparticipações' não consta de nenhum dos diplomas que alteram (o consolidado aplicou-o contra a nota de que a alteração da al. c) só vem no rótulo DRE da Lei 2/88, cujo texto só traz o art. 59.º). Última redacção textual: DL 119-J/83 art. 1.º. Al. b) (subalíneas 1) a 4)) conforme DL 112/86 está certa.",
+    "texto_esperado": "b) As importâncias a seguir mencionadas pagas pelos titulares dos rendimentos englobados:\n\n1) Quotizações obrigatórias para instituições de segurança social;\n\n2) Quotizações obrigatórias a que estejam sujeitos os titulares dos rendimentos do trabalho e quaisquer outras por elas pagas para organizações que tenham por fim a defesa dos seus interessas como trabalhadores, na parte que não constitua despesa para efeito da determinação da matéria colectável do imposto profissional;\n\n3) Contribuições para o regime do seguro social voluntário estabelecido pelo Decreto-Lei n.º 368/82, de 18 de Setembro;\n\n4) Contribuições para fundos de pensões constituídos, nos termos da lei, com o objectivo de garantir o pagamento das rendas temporárias ou vitalícias a que se refere a regra 7.ª-A do artigo 15.º;\n\nc) Os juros e encargos de dívidas dos titulares dos rendimentos englobados que tenham sido contraídas para:\n\n1) Aquisição, construção ou beneficiação de imóveis para habitação do agregado familiar;\n\n2) Pagamento de despesas com a saúde das pessoas que constituem o agregado familiar, incluindo intervenções cirúrgicas e aparelhos de prótese;"
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Art. 28.º al. f) conforme DL 196/82 e § 1.º conforme DL 112/86.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Art. 28.º § 3.º (DL 119-J/83), § 4.º (DL 136/81); art. 29.º corpo e als. a)/b) (DL 135/87 e DL 192/84), §§ 1.º-A a 10.º conforme as redacções sucessivas (DL 275/79, 183-F/80, 115-D/85, 192/84, 135/87) - ver trecho seguinte.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Art. 29.º §§ 1.º-A a 10.º conforme última redacção de cada parágrafo (DL 115-D/85, 183-F/80, 4.º DL 48316, 275/79, 192/84, 135/87).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Art. 30.º al. b) (DL 192/84) e al. c) (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Art. 30.º al. e) (DL 258/86 art. 2.º), als. f), g) (DL 192/84), h) e § 1.º (DL 135/87).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Art. 30.º § 3.º (DL 275/79; al. b) DL 192/84), § 3.º-A (DL 115-D/85), § 4.º (DL 136/81), 30.º-A (DL 225-C/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Art. 33.º: corpo e tabelas I/II conforme DL 192/84 e 115-D/85 (e seguintes só em imagem, sem endereço), § 1.º (DL 46369), § 2.º (DL 192/84), § 3.º (DL 115-D/85).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "certo",
+    "motivo": "Art. 35.º § único novo, conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Arts. 37.º (DL 667/76), 38.º com §§ 1.º e 2.º (DL 183-F/80), 39.º e 39.º-A (DL 112/86; regra 3.ª DL 135/87), 40.º (DL 225-C/76), 41.º (DL 756/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Art. 43.º (DL 135/87: 1000$00) e 44.º (DL 196/82: 24%).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "certo",
+    "motivo": "Art. 45.º conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Art. 47.º (DL 112/86) e 48.º (DL 192/84).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "certo",
+    "motivo": "Arts. 49.º, 50.º, 51.º corpo e § 1.º conforme DL 225-C/76 (§ 2.º original mantido).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Art. 51.º § 3.º novo conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "certo",
+    "motivo": "Art. 55.º conforme DL 756/75 (artigo 736.º do Código Civil).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "certo",
+    "motivo": "Art. 56.º § 2.º conforme DL 196/82.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Arts. 56.º-A e 56.º-B conforme DL 136/81 (última redacção).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "certo",
+    "motivo": "Art. 59.º corpo (DL 225-C/76) e § único (DL 196/82).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Art. 61.º § único conforme DL 135/87 (500$00).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Art. 62.º § 1.º conforme DL 196/82 (18%).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Conforme o último alterador que atinge o parágrafo; texto verificado letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "certo",
+    "motivo": "Arts. 68.º-A (DL 225-C/76) e 68.º-B (DL 183-F/80).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Art. 69.º § único novo conforme DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "certo",
+    "motivo": "Art. 72.º-A novo conforme DL 183-F/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "certo",
+    "motivo": "Art. 83.º (DL 112/86), art. 84.º corpo e n.os 1.º a 4.º, §§ 1.º e 3.º (DL 756/75), § 2.º (DL 196/82), § 4.º (DL 115-D/85).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "certo",
+    "motivo": "Art. 85.º n.º 5.º conforme DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "certo",
+    "motivo": "Art. 85.º n.º 11.º suprimido conforme DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "errado",
+    "motivo": "Art. 85.º n.º 13.º: nenhum alterador revoga o n.º 13.º; o DL 172-A/78 art. 1.º dá-lhe a redacção 'fabrico de tabaco nacional'. A revogação só consta do rótulo DRE da Lei 2/88, cujo texto só traz o art. 59.º (autorização), e a própria nota diz que não foi aplicada.",
+    "texto_esperado": "13.º Os rendimentos de fabrico de tabaco nacional;"
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Art. 85.º n.º 15.º conforme DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Art. 85.º n.º 17.º conforme DL 756/75 (n.os 6.º a 8.º e 10.º a 12.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Art. 86.º conforme DL 183-F/80 (inclui z'''') e 86.º-A conforme DL 183-F/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Art. 88.º corpo e § 3.º (DL 112/86), §§ 1.º e 2.º (DL 192/84), § 4.º (DL 172-A/78), §§ 5.º a 7.º (DL 756/75); art. 89.º (DL 756/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Art. 91.º n.º 1.º (DL 756/75) e n.º 2.º como § 2.º (DL 115-D/85); art. 92.º (DL 192/84; §§ 1.º e 2.º DL 756/75); art. 93.º (DL 225-C/76). O art. 91.º vem dos diplomas com 'n.º 1.º' / '§ 2.º' misturado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Art. 94.º al. a) 'e empresas públicas' conforme DL 112/86; tabela só em imagem sem endereço.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Art. 94.º al. c) (DL 667/76), § 1.º e § 2.º (DL 112/86), § 3.º (DL 667/76); art. 94.º-A (DL 756/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Arts. 96.º (DL 183-F/80), 97.º e § único, 97.º-A (DL 756/75), 97.º-B (DL 225-C/76), 100.º e § único (DL 192/84). Arts. 98.º e 99.º eliminados pelo DL 756/75 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Arts. 102.º (DL 429/78), § único, 103.º, § único, 104.º (DL 756/75), 103.º-A (DL 225-C/76), 103.º-B sem § único (DL 119-J/83 art. 2.º). Art. 101.º eliminado pelo DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Art. 105.º-A novo conforme DL 756/75.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "certo",
+    "motivo": "Art. 106.º e 106.º-A conforme DL 756/75; § único do 106.º-A conforme DL 196/82.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "certo",
+    "motivo": "Art. 107.º conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "certo",
+    "motivo": "Art. 108.º eliminado (DL 756/75) e 108.º-B novo (DL 756/75).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "certo",
+    "motivo": "Art. 111.º corpo e § único conforme DL 150/77 art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "certo",
+    "motivo": "Art. 113.º conforme DL 150/77 e § único conforme DL 192/84.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "certo",
+    "motivo": "Art. 124.º corpo (DL 93/88), § único (DL 119-J/83) e art. 125.º corpo (DL 192/84); §§ 1.º e 2.º do 124.º eliminados/reformulados (DL 225-C/76, Lei 40/77).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "certo",
+    "motivo": "Art. 125.º § único al. d) conforme DL 119-J/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "certo",
+    "motivo": "Art. 126.º §§ 1.º e 2.º novos conforme DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Arts. 128.º a 140.º revogados pelo DL 150/77 art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "certo",
+    "motivo": "Art. 141.º revogado pelo DL 150/77 art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "certo",
+    "motivo": "Art. 150.º-A novo (DL 225-C/76); arts. 151.º a 153.º revogados (DL 150/77 art. 31.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "certo",
+    "motivo": "Art. 158.º conforme DL 150/77 art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "certo",
+    "motivo": "Arts. 160.º-A (DL 756/75), 160.º-B (DL 112/86), 161.º (DL 112/86 'quatro artigos').",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração (1976): novos modelos da declaração modelo n.º 1, relação modelo n.º 5 e anexos 1, 2 e 3 (art. 11.º § 7.º, 39.º, 47.º)",
+    "motivo": "texto novo só em imagem ('ver documento original') e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Resolução 307/79: declaração de inconstitucionalidade do art. 7.º do DL 667/76 na parte do art. 33.º",
+    "motivo": "não textual: não elimina texto; alvo é o DL 667/76"
+   },
+   {
+    "instrucao": "DL 183-F/80 art. 3.º (n.º 5 do art. 8.º do DL 49410) e DL 192/84 art. 3.º (n.º 2 do art. 8.º do DL 49410)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 115-D/85 art. 3.º: limite dos motociclos na tabela do art. 15.º-A elevado para 500000$00; DL 112/86 art. 3.º: nova tabela do art. 15.º-A",
+    "motivo": "a tabela só existe como imagem, sem endereço, e o consolidado não tem anexo com título"
+   },
+   {
+    "instrucao": "Novas tabelas I e II do art. 33.º (DL 192/84, 115-D/85, 112/86, 135/87, 66/89) e tabela da al. a) do art. 94.º (DL 667/76, 183-F/80, 196/82, 112/86)",
+    "motivo": "texto novo só em imagem ('ver documento original' sem endereço); fica a linha de imagem anterior"
+   },
+   {
+    "instrucao": "Lei 2/88 art. 59.º: autorização ao Governo para fazer cessar o regime do art. 3.º do DL 45399",
+    "motivo": "não textual: autorização legislativa"
+   },
+   {
+    "instrucao": "Lei 2/88 (só rótulo DRE): alteração da al. c) do art. 28.º e revogação do n.º 13.º do art. 85.º",
+    "motivo": "o diploma que altera não traz o texto da alteração; mas o consolidado aplicou-as (ver trechos 27 e 55)"
+   },
+   {
+    "instrucao": "DL 192/84 art. 6.º: suspensão da tributação em IC secção B relativa a 1983 e 1984 (sociedades do art. 94.º al. a))",
+    "motivo": "não textual: suspensão"
+   },
+   {
+    "instrucao": "DL 66/89 arts. 2.º a 5.º (exoneração, pagamento em prestações, descontos de 20%/18% na regra 3.ª do art. 39.º-A, dedução fundos de investimento, rendimentos de 1988)",
+    "motivo": "disposições transitórias de efeito limitado ao ano de 1988, não alteram o texto do Código"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (os arts. 66.º, 98.º, 99.º, 101.º, 108.º foram eliminados pelos DL 756/75 e 225-C/76 e não constam do consolidado, o que está certo)"
+ }
+]

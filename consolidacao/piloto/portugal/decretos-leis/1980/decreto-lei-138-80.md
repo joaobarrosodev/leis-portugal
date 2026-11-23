@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:453800:por
     title: Decreto-Lei n.º 339/83
     publication_date: '1983-07-20'
+  - id: pt:dre:470217:por
+    title: Declaração
+    publication_date: '1980-08-04'
 ---
 
 # Decreto-Lei n.º 138/80
@@ -138,7 +141,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 > Revogado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.
 
-###### Artigo 10.º — Competências no domínio do relacionamento funcional e da colaboração técnica em geral
+###### Artigo 10.º — Competências no domínio do relacionamento funcional ou da colaboração técnica em geral
 
 (Revogado.)
 
@@ -170,7 +173,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 > Revogado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.
 
-###### Artigo 14.º — Competência
+###### Artigo 14.º — Competências
 
 (Revogado.)
 
@@ -546,7 +549,7 @@ i) Acompanhar a execução do diploma referido na alínea a), propondo a resolu�
 
 > Revogado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.
 
-#### SECÇÃO IV — Serviços de apoio técnico à gestão de coordenação interna e de administração
+#### SECÇÃO III — Serviços de apoio técnico à gestão de coordenação interna e de administração
 
 ##### SUBSECÇÃO I — Direcção de Serviços de Coordenação e Apoio Técnico
 
@@ -718,7 +721,7 @@ e) Estudar e identificar as carências de formação do pessoal e assegurar a pr
 
 ### CAPÍTULO IV — Do pessoal
 
-#### SECÇÃO I — Quadros e carreiras
+#### SECÇÃO I — Quadro e carreiras
 
 ###### Artigo 60.º — Quadro de pessoal
 

@@ -1,0 +1,7 @@
+Camada 1, onda 1: 25 consolidados no data/
+
+Os 25 diplomas da onda 1 com estado «aplicar» em
+consolidacao/auditoria/camada1-estado.jsonl: certos na ronda 115 às
+cegas e na segunda leitura jurídica. Aplicados por consolidacao/acervo.py.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

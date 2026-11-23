@@ -1,0 +1,14 @@
+[
+ {
+  "id": "pt:dre:242189:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas (anexo), arts. 3.º e 4.º: a nova redação dada pelo art. 3.º do Decreto Regulamentar n.º 90/84 não foi aplicada, e a justificação «sem texto» não devia ter sido aceite. O texto está no acervo (data/portugal/decretos-regulamentares/1984/decreto-regulamentar-90-84.md, regulamento anexo, art. 3.º, n.os 25 e 24). O art. 3.º deve ficar «Art. 3.º Rede de distribuição de energia eléctrica em baixa tensão ou, simplesmente, rede de distribuição. - Instalação eléctrica de baixa tensão destinada à transmissão de energia eléctrica a partir de um posto de transformação ou de uma central geradora, constituída por canalizações principais e ramais.» (hoje diz «Instalação de baixa tensão» e «canalizações principais, ramais, troços comuns de chegadas e chegadas»). O art. 4.º deve ficar «Art. 4.º Ramal. - Canalização eléctrica, sem qualquer derivação, que parte do quadro de um posto de transformação, do quadro de uma central geradora ou de uma canalização principal e termina numa portinhola, quadro de colunas ou aparelho de corte de entrada de uma instalação de utilização.» (hoje termina «onde começam uma ou mais chegadas ou troços comuns de chegadas ou numa portinhola ou quadro de colunas»). O n.º 24 traz ainda «Comentários» 1 a 3, que não são normativos; fica por decidir se entram como comentário do art. 4.º. Vale para a versão de 1985 a 2006, e para a atual enquanto o regulamento anexo se mantiver no texto.",
+   "Art. 1.º e Regulamentos anexos: a revogação do art. 6.º do Decreto-Lei n.º 226/2005 (relação repealed_by pt:dre:468999:por) não está aplicada, com a justificação de que tem «efeito adiado» até à portaria do n.º 1 do art. 2.º. Essa portaria existe e está no acervo: a Portaria n.º 949-A/2006, DR I, 1.º suplemento, de 2006-09-11 (data/portugal/portarias/2006/portaria-949-a-2006.md), emitida «ao abrigo do n.º 1 do artigo 2.º do Decreto-Lei n.º 226/2005». A condição verificou-se a 11-09-2006, e a justificação não devia ter sido aceite. No texto em vigor o art. 1.º deve ficar «Art. 1.º - (Revogado.)», e o Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica e o Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, ambos anexos, ficam revogados desde essa data."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogação parcial. O art. 1.º e os dois Regulamentos anexos foram revogados pelo art. 6.º do Decreto-Lei n.º 226/2005, com efeitos desde a publicação da Portaria n.º 949-A/2006 (2006-09-11). O art. 20.º foi revogado pelo art. 37.º, alínea i), da Lei n.º 30/2006. Os arts. 2.º a 19.º e 21.º a 25.º do decreto-lei não têm revogação expressa no registo nem no acervo."
+  }
+ }
+]

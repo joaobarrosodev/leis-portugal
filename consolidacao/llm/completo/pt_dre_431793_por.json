@@ -5,48 +5,191 @@
       "chave": "3.º",
       "epigrafe": "Definições",
       "texto": "1 - Para efeitos do presente diploma, considerando-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) Rendimento médio mensal bruto (Rmb) - quantitativo que resulte da divisão por 12 dos rendimentos auferidos por todos os elementos do agregado familiar no ano civil anterior ao da candidatura;\n\nf) Salário mínimo nacional (Smn) - média das remunerações mínimas mensais garantidas e aprovadas para a generalidade dos trabalhadores, reportadas ao ano anterior ao da candidatura;\n\ng) Área bruta (A) - somatório do espaço circunscrito pelas paredes exteriores da habitação, que pode desenvolver-se num ou mais pisos;\n\nh) Factor familiar (Ff) - factor de bonificação, que contempla o número de dependentes do agregado familiar, resultante da fórmula seguinte, em que y representa o número de dependentes do agregado familiar padrão, a fixar por resolução do Governo Regional dos Açores:\n\nFf = Nd/y\n\ni) Factor económico (Fe) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla o valor do salário mínimo nacional e o rendimento médio mensal bruto e em que n representa o número de salários mínimos, a fixar por resolução do Governo Regional dos Açores:\n\nFe = (n x Smn)/Rmb\n\nj) Factor habitação (Fh) - factor de bonificação resultante da aplicação da fórmula seguinte, que contempla a área da habitação e em que X representa a área por dependente, a fixar por resolução do Governo Regional dos Açores:\n\nFh = (Nd x X)/A\n\nl) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:\n\nAp = (((Ff + Fe + Fh)/3z) + 1) x Vp\n\nm) Rendimentos - remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho que revistam carácter certo e permanente, os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos, as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória;\n\nn) Situação habitacional não resolvida - toda aquela situação em que se encontre uma pessoa singular de não ter uma habitação com as condições de habitabilidade mínimas e ou adequadas ao seu agregado familiar, não as podendo obter por outros mecanismos legais que não os definidos no presente diploma;\n\no) Agregado familiar em situação de desequilíbrio sócio-económico - traduz uma relação desajustada com o contexto sócio-económico e habitacional onde se insere, na medida em que não consegue gerar e ou gerir os recursos necessários para a satisfação das suas necessidades básicas, nomeadamente alimentação, vestuário, habitação, saúde e educação.\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.",
-      "alterador": 3
+      "alterador": 6
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Definição",
+      "texto": "1 - A cedência de projecto de loteamento e de infra-estruturas consiste na entrega de projectos concebidos pelos serviços da administração regional ou por gabinetes da especialidade, sendo os honorários, neste caso, suportados por aquela, a ceder a título gratuito às cooperativas de habitação e ou aos municípios para a construção de habitação social destinada a realojamento.\n\n2 - A cedência de projectos tipo de habitação consiste na entrega de projectos concebidos pelos serviços da administração regional, ou por gabinetes da especialidade, sendo os honorários, neste caso, suportados por aquela, a conceder a título gratuito a pessoas singulares para construção de habitação própria ou aos municípios para construção de habitação social e ainda às cooperativas para construção de habitação a custos controlados.\n\n3 - (Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Requisitos de acesso",
+      "texto": "1 - Só podem ter acesso à cedência de projecto de loteamento e de infra-estruturas os municípios cujos arrendatários de habitação social reúnam os requisitos definidos na lei, com as especificidades previstas no presente diploma, para o acesso ao programa de realojamento e as cooperativas de habitação legalmente constituídas em que haja cooperantes que reúnam cumulativamente os requisitos seguintes:\n\na) Não ter sido, ou estar a ser, o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por qualquer programa de apoio à habitação;\n\nb) Não ter a sua situação habitacional resolvida, nos termos definidos na alínea m) do artigo 3.º do presente diploma;\n\nc) Não possuir o requerente, ou qualquer outro elemento do seu agregado familiar, prédios urbanos ou rústicos, excepto se os prédios rústicos forem a única fonte de rendimento do agregado e, sendo estes passíveis de ser urbanizados, não tenham uma área superior a 1400 m2, ou se, tratando-se de habitação própria, esta for inadequada ao respectivo agregado familiar e insusceptível de ampliação ou remodelação;\n\nd) Não ser o rendimento médio mensal bruto do candidato ou do seu agregado familiar superior:\n\ni) A 2,5 salários mínimos nacionais, no caso de o candidato concorrer sozinho;\n\nii) A 4 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 2 elementos;\n\niii) A 6 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 3 ou 4 elementos;\n\niv) A 7 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 5 elementos;\n\nv) Em todos os agregados familiares em que o número de elementos seja superior a 5 será considerado mais meio salário mínimo nacional por cada dependente a mais.\n\n2 - O acesso a projectos tipo de habitação pode ser feito numa das formas seguintes:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Através dos municípios, devendo o projecto tipo de habitação destinar-se exclusivamente à construção de habitação social para realojamento, cujos requisitos são os definidos na lei, com as especificidades previstas no presente diploma.\n\nCAPITULO III\n\nComparticipação na recuperação de habitação degradada",
+      "alterador": 5
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Requisitos de acesso",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Formas de apoio",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Obrigações do beneficiário",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Requisitos de acesso",
+      "texto": "1 - Constituem requisitos de acesso à cedência de solos por infra-estruturar:\n\na) No caso das autarquias, inscrição no plano de actividades da mesma de construção de habitação social;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - Constituem requisitos de acesso à cedência de lotes infra-estruturados:\n\na) No caso dos municípios, cooperativas de habitação legalmente constituídas e empresas de construção civil, os requisitos fixados no número anterior;\n\nb) (Revogada.)",
+      "alterador": 5
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Custo da cedência de lotes infra-estruturados",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Obrigações dos cessionários ou beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Reversão",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Requisitos de acesso",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Forma e cálculo do apoio",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Obrigações do beneficiário",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 7
     },
     {
       "chave": "24.º",
       "epigrafe": "Requisitos de acesso",
-      "texto": "1 - Constituem requisitos de acesso ao apoio à aquisição de habitação própria os seguintes:\n\na) Não ter sido, ou estar a ser, o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por qualquer programa de apoio à habitação;\n\nb) Não ter a sua situação habitacional resolvida nos termos definidos na alínea m) do artigo 3.º do presente diploma;\n\nc) O requerente não possuir, nem qualquer outro elemento do seu agregado familiar, prédios urbanos ou rústicos, excepto se os prédios rústicos forem a única fonte de rendimento do agregado e, sendo estes passíveis de ser urbanizados, não tenham uma área superior a 1400 m2;\n\nd) Não exceder a área bruta da habitação a adquirir os valores limite fixados na alínea g) do artigo 19.º;\n\ne) Não ser o rendimento médio mensal bruto do candidato ou do agregado superior:\n\ni) A 2,5 salários mínimos nacionais, no caso de o candidato concorrer sozinho;\n\nii) A 3,5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 2 elementos;\n\niii) A 5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 3 ou 4 elementos;\n\niv) A 6 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 5 elementos;\n\nv) Em todos os agregados familiares em que o número de elementos seja superior a 5 será considerado mais meio salário mínimo nacional por cada dependente;\n\nf) Não ser o preço da habitação candidatada superior ao valor da avaliação daquela, efectuada pelos serviços competentes;\n\ng) Não ser a área envolvente à habitação candidatada passível de ser urbanizada superior a 250 m2 e 1400 m2 nas zonas urbanas ou rurais, respectivamente;\n\nh) Não ser o preço referido na alínea b) superior a 115 vezes o salário mínimo nacional arredondado para a centena de euros imediatamente superior.\n\n2 - Na análise do processo, o departamento competente do Governo Regional dos Açores poderá considerar uma tolerância de 20% nos limites máximos previstos na alínea d) do número anterior, em casos devidamente ponderados e justificados.\n\n3 - O preço referido na alínea h) poderá beneficiar de uma margem de tolerância até 40%, nos casos em que a localização geográfica da habitação candidata permita reduzir os condicionalismos físicos, ambientais, económicos e sociais do candidato ou de algum elemento do seu agregado familiar com deficiência.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Forma e cálculo do apoio",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Obrigações do beneficiário",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 7
     },
     {
       "chave": "28.º",
       "epigrafe": "Definição, requisitos e formas de apoio",
       "texto": "(Revogado.)",
-      "alterador": 4
+      "alterador": 8
     },
     {
       "chave": "29.º",
       "epigrafe": "Obrigações dos beneficiários",
       "texto": "(Revogado.)",
-      "alterador": 4
+      "alterador": 8
     },
     {
       "chave": "30.º",
       "epigrafe": "Sanções",
       "texto": "(Revogado.)",
-      "alterador": 4
+      "alterador": 8
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Apoio supletivo a jovens",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "31.º-A",
+      "epigrafe": "Apoio supletivo a deficientes e jovens deficientes",
+      "texto": "(Revogado.)",
+      "alterador": 7
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 4, revogação das «demais disposições que contrariem o disposto no presente diploma» (art. 22.º, alínea a)): revogação condicional.\nAlterador 5, revogação dos capítulos II e IV com excepção das disposições que prevêem apoios às autarquias para habitação social de realojamento (art. 26.º): alvo incerto: aplicada só às unidades inteiras sem apoio às autarquias (art. 5.º n.º 3; art. 6.º n.º 2 alíneas a) e b); art. 13.º n.º 1 alíneas b) e c) e n.º 2 alínea b); arts. 14.º a 17.º); nos arts. 5.º n.os 1 e 2, 6.º n.º 1, 12.º e 13.º n.º 2 alínea a) a mesma frase mistura municípios com cooperativas, empresas ou particulares (e o art. 12.º n.º 3 depende do n.º 2), e a parte revogada não se separa letra a letra.\nAlterador 8, art. 47.º n.º 2 (mantêm-se os apoios atribuídos ao abrigo do diploma): não textual.",
   "instrucoes": [
-    "Alterador 1 (8/98/A), art. 1.º: art. 3.º com nova al. d) (pessoa com deficiência) e antigas als. d) a n) renumeradas e) a o) («[Actual alínea 1).]» lido como antiga al. l)); arts. 19.º (n.º 2) e 31.º (n.º 1) e al. h) e n.º 3 do 24.º — o 19.º e o 31.º já estavam certos no texto atual.",
-    "Alterador 1, art. 2.º: aditado o 31.º-A — já estava no texto atual, igual.",
-    "Alterador 2 (5/2002/A), art. 1.º: nova al. l) (Apoio, com a fórmula) do art. 3.º, que substitui a antiga al. j) renumerada; nova al. h) do n.º 1 do art. 24.º («alínea b)» copiada como vem).",
-    "Alterador 2, art. 2.º: aditado o 31.º-B — já estava no texto atual, igual.",
-    "Alterador 3 (37/2006/A), art. 1.º: art. 3.º passa a n.º 1 com o proémio «considerando-se» e als. a) a o) atuais, e é aditado o n.º 2 (majoração nas ilhas). Art. 2.º adita o 19.º-A ao DLR 6/2002/A: outro diploma, ignorado.",
-    "Alterador 4 (23/2009/A), art. 47.º, n.º 1: revogado o capítulo VII (arts. 28.º a 30.º), que ficam «(Revogado.)»; o título do capítulo mantém-se. A revogação do DLR 47/2006/A é de outro diploma; o n.º 2 (manutenção dos apoios) não é textual."
+    "Alterador 1 (Decl. Rect. 15-A/2002): retifica a alínea h) do n.º 1 do art. 24.º na redação do DLR 5/2002/A («alínea b)» → «alínea f)»); só tem efeito na versão intermédia, porque o art. 24.º fica revogado pelo alterador 7.",
+    "Alterador 2 (DLR 8/98/A), art. 1.º: art. 3.º com nova alínea d) e alíneas antigas d) a n) renumeradas e) a o) (o programa tinha deixado os marcadores «[Actual alínea …]»; reconstruído com o texto das alíneas originais); art. 19.º n.º 2, art. 24.º n.º 1 h) e n.º 3, art. 31.º n.º 1 — sem efeito final, revogados depois pelo alterador 7.",
+    "Alterador 2, art. 2.º: adita o art. 31.º-A — depois revogado pelo alterador 7.",
+    "Alterador 3 (DLR 5/2002/A), art. 1.º: nova alínea l) (Apoio, em euros, nova fórmula) do art. 3.º, aplicada; art. 24.º n.º 1 h) (com a retificação do alterador 1) — sem efeito final.",
+    "Alterador 3, art. 2.º: adita o art. 31.º-B — já está no texto atual, igual.",
+    "Alterador 4 (DLR 6/2002/A), art. 22.º a): revoga os arts. 7.º a 11.º — aplicado ((Revogado.)); a parte «demais disposições que contrariem» é condicional; o art. 23.º liga os efeitos do regime ao regulamento, que já entrou em vigor.",
+    "Alterador 5 (DLR 21/2005/A), art. 26.º: revoga os capítulos II e IV salvo apoios às autarquias para habitação social de realojamento — arts. 14.º a 17.º revogados; revogadas as alíneas/números inteiros sem autarquias nos arts. 5.º, 6.º e 13.º; o resto vai em nao_aplicavel.",
+    "Alterador 6 (DLR 37/2006/A), art. 1.º: art. 3.º passa a n.º 1 («considerando-se:») com as alíneas a) a o) atuais e novo n.º 2 (majoração nas ilhas) — aplicado.",
+    "Alterador 7 (DLR 59/2006/A), art. 40.º: revoga os capítulos V e VI (arts. 18.º a 27.º) e os arts. 31.º e 31.º-A — aplicado ((Revogado.)); o 31.º-B fica.",
+    "Alterador 8 (DLR 23/2009/A), art. 47.º n.º 1: revoga o capítulo VII (arts. 28.º a 30.º) — aplicado ((Revogado.)).",
+    "Títulos de divisão: nenhum muda (os capítulos revogados mantêm o título; o «CAPITULO III» continua como texto corrido no fim do art. 6.º, como no texto atual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

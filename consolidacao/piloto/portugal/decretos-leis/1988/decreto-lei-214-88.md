@@ -7,21 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:579923:por
+    title: Declaração
+    publication_date: '1988-07-30'
+  - id: pt:dre:692253:por
+    title: Decreto-Lei n.º 186-A/99
+    publication_date: '1999-05-31'
   - id: pt:dre:658224:por
     title: Decreto-Lei n.º 206/91
     publication_date: '1991-06-07'
-  - id: pt:dre:218744:por
-    title: Decreto-Lei n.º 222/94
-    publication_date: '1994-08-24'
-  - id: pt:dre:241228:por
-    title: Lei n.º 44/96
-    publication_date: '1996-09-03'
   - id: pt:dre:169460:por
     title: Decreto-Lei n.º 39/99
     publication_date: '1999-02-09'
-  - id: pt:dre:475081:por
-    title: Decreto-Lei n.º 153/95
-    publication_date: '1995-07-01'
 ---
 
 # Decreto-Lei n.º 214/88
@@ -84,327 +81,199 @@ Assim,
 
 No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, de 23 de Dezembro, e nos termos das alíneas a) e c) do nº 1 do artigo 201º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1º — (Divisão judicial)
+###### Artigo 1.º — (Divisão judicial)
 
-1. O território divide-se em quatro distritos judiciais, com sede, respectivamente, em Lisboa, Porto, Coimbra e Évora.
+(Revogado.)
 
-2. Os distritos judiciais dividem-se em círculos judiciais, de acordo com o mapa I anexo ao presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3. Os círculos judiciais, constituídos por uma ou mais comarcas, são os constantes do mapa II anexo ao presente diploma.
+###### Artigo 2.º — (Supremo Tribunal de Justiça)
 
-4. A sede e o âmbito territorial das comarcas são os definidos no mapa III anexo ao presente diploma.
+(Revogado.)
 
-5. Os tribunais judiciais de 1ª instância são classificados de tribunais de ingresso, primeiro acesso a acesso final, de acordo com a natureza, complexidade e volume do serviço, mediante portaria do Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e a Procuradoria-Geral da República.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-6. A classificação a que se refere o número anterior é revista de três em três anos.
+###### Artigo 3.º — (Assessores do Supremo Tribunal de Justiça)
 
-7. Nenhum magistrado pode ser movimentado obrigatoriamente, por virtude da alteração da classificação dos tribunais a que se referem os números anteriores.
+(Revogado.)
 
-###### Artigo 2º — (Supremo Tribunal de Justiça)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. O Supremo Tribunal de Justiça tem sede em Lisboa e jurisdição em todo o território.
+###### Artigo 4.º — (Tribunais de Relação)
 
-2. A composição do Supremo Tribunal de Justiça é a constante do mapa IV anexo ao presente diploma.
+(Revogado.)
 
-###### Artigo 3º — (Assessores do Supremo Tribunal de Justiça)
-
-1. O Supremo Tribunal de Justiça dispõe de assessores que coadjuvam o Presidente e os juízes na recolha de elementos necessários ao exame e decisão dos processos.
-
-2. Os assessores são nomeados pelo Conselho Superior da Magistratura, sob proposta do Presidente do Supremo Tribunal de Justiça, em comissão de serviço de três anos, não renovável, de entre magistrados judiciais de 1ª instância com classificação não inferior a Bom com distinção e antiguidade não superior a 15 anos.
-
-3. O número de assessores é fixado por portaria do Ministro da Justiça sob proposta do Presidente do Supremo Tribunal de Justiça.
-
-###### Artigo 4º — (Tribunais de Relação)
-
-1. Os tribunais de relação têm jurisdição na área do respectivo distrito judicial.
-
-2. A sede e a composição dos tribunais de relação são as constantes do mapa V anexo ao presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 4.º-A — Desdobramento de secções
 
-1 - As secções em matéria cível, em matéria penal e em matéria social do Supremo Tribunal de Justiça e dos tribunais de relação podem desdobrar-se em subsecções.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no n.º 2 do artigo 2.º e no n.º 2 do artigo 4.º, e quando razões justificadas de administração da justiça o determinem, é fixado, por portaria do Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e a Procuradoria-Geral da República, o número de subsecções que compõem cada secção.
-
-3 - O Conselho Superior da Magistratura fixa, de dois em dois anos, sob proposta dos Presidentes do Supremo Tribunal de Justiça e dos tribunais de relação, o número de juízes que compõem cada subsecção.
-
-> Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 5.º — (Tribunais judiciais de 1ª. Instância)
 
-Os tribunais judiciais de 1ª. instância têm a sede, composição e àrea de jurisdição definidas no mapa VI anexo ao presente diploma.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 6.º — Tribunais de círculo
 
-1 - Nos tribunais de círculo, o colectivo é constituído por dois juízes privativos e por um juiz designado nos termos do número seguinte, sem prejuízo do disposto no n.º 3.
+(Revogado.)
 
-2 - O Conselho Superior da Magistratura, tendo em conta o volume de serviço e a melhor gestão dos recursos humanos, designa o terceiro elemento do colectivo de entre magistrados em exercício de funções no mesmo círculo judicial.
-
-3 - Sempre que o volume de serviço não justifique o preenchimento do tribunal de círculo integralmente por juízes privativos, o Conselho Superior da Magistratura, tendo em conta a melhor gestão dos recursos humanos, a igualação e operacionalidade dos serviços, designa os juízes necessários de entre magistrados sediados na mesma comarca ou em comarca vizinha.
-
-4 - Nas varas cíveis e criminais, o colectivo é constituído por juízes privativos.
-
-5 - A designação referida no número anterior não deverá, em regra, ser efectuada por período inferior a seis meses, devendo ponderar-se as disponibilidades dos diversos juízes susceptíveis de serem designados, atendendo ao movimento processual dos respectivos tribunais.
-
-> Aditado pelo/a [Decreto-Lei n.º 222/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1994-218744), publicado em 1994-08-24.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 6.º-A — Secretarias judiciais privativas
 
-1 - O expediente do tribunal de círculo, incluindo o do Ministério Público, é, em regra, assegurado por secretarias judiciais privativas.
+(Revogado.)
 
-2 - Onde não forem criadas secretarias privativas o expediente é assegurado por uma secção de processos privativa, integrada na secretaria judicial da comarca em que aquele tribunal se encontra sediado.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - As secretarias judiciais e as secretarias privativas do Ministério Público dos tribunais de comarca que não sejam sede de círculo funcionam como secretarias judiciais daquele tribunal, na área da respectiva competência.
+###### Artigo 7.º — (Tribunais de círculo de Lisboa e Porto)
 
-> Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+(Revogado.)
 
-###### Artigo 7º — (Tribunais de círculo de Lisboa e Porto)
-
-1. Os tribunais de círculo de Lisboa a Porto funcionam em juízos de competência específica.
-
-2. Os juízos de competência específica dos tribunais de círculo designam-se, respectivamente, por varas cíveis e juízos criminais, conforme compreendam matéria cível ou penal.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 8.º — (Varas Cíveis)
 
 (Revogado.)
 
-> Revogado pelo/a Artigo 37.º-A do/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Revogado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 9.º — Tribunais de família e tribunais de família e menores
+###### Artigo 9.º — (Tribunais de família e tribunais de família e menores)
 
-1 - Aos tribunais de família e aos tribunais de competência especializada mista de família e menores são aplicadas as regras de funcionamento previstas para os tribunais de círculo, quando, nos termos da lei de processo, funcionem como tribunais colectivos.
+(Revogado.)
 
-2. Os juizes privativos dos tribunais referidos no nº 1 são equiparados aos juízes dos tribunais de círculo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+###### Artigo 10.º — (Constituição do tribunal colectivo noutros tribunais)
 
-###### Artigo 10.º — Constituição do tribunal colectivo noutros tribunais
+(Revogado.)
 
-1 - Nos restantes tribunais, sempre que seja admissível a constituição e funcionamento do tribunal colectivo, o Conselho Superior da Magistratura designa os juízes necessários de entre magistrados sediados na mesma comarca ou em comarca vizinha, atendendo aos critérios referidos no n.º 4 do artigo 6.º
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Nos tribunais de trabalho de Lisboa e Porto, haverá um juiz presidente por juízo, a quem cabe o julgamento dos processos em que tenha de intervir o colectivo.
+###### Artigo 11.º — (Competência dos juízos de polícia)
 
-3. O juiz presidente será designado pelo Conselho Superior da Magistratura, atendendo aos critérios da classificação e antiguidade, devendo satisfazer os requisitos previstos no artigo 100º da Lei nº 38/87 e sendo equiparado a juiz de círculo.
+(Revogado.)
 
-4. Nos tribunais de trabalho sediados fora de Lisboa e Porto, os juízes titulares beneficiam de estatuto idêntico ao previsto no número anterior, sempre que satisfaçam os requisitos estabelecidos no artigo 100º da Lei nº 38/87.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+###### Artigo 12.º — (Tribunais de pequenas causas)
 
-###### Artigo 11º — (Competência dos juízos de polícia)
+(Revogado.)
 
-1. Compete aos juízos de polícia a preparação, o julgamento e os termos subsequentes, em matéria crime, nos processos sumários e nos relativos a transgressões.
-
-2. Compete ainda aos juízos de polícia, nas comarcas onde não existam tribunais de pequenas causas, proceder à preparação e realizar a audiência em matéria crime no processo sumaríssimo, bem como julgar os recursos das decisões das autoridades administrativas em processos de contra-ordenação, salvo o disposto nos artigos 66º e 70º, nº 2, da Lei nº 38/87.
-
-###### Artigo 12º — (Tribunais de pequenas causas)
-
-São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 38/87, os tribunais de pequenas causas que constam do mapa VII anexo ao presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 13.º — Deslocação dos tribunais
 
-1 - É obrigatória a deslocação do tribunal de relação, a requerimento de qualquer das partes, quando for superior a 100 km a distância entre a respectiva sede e a sede do tribunal onde deva decorrer a audiência ou sessão, em consequência da aplicação dos critérios referidos nos n.os 2 e 3 do artigo 8.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro.
+(Revogado.)
 
-2 - É igualmente obrigatória a deslocação do tribunal de círculo, a requerimento de qualquer das partes, sempre que a distância entre a sede daquele tribunal e a sede da comarca onde deva decorrer a audiência for superior a 50 km.
-
-3 - Os requerimentos a que se referem os números anteriores são apresentados no momento da interposição do recurso no caso do n.º 1, ou com o oferecimento dos meios de prova, na hipótese prevista no n.º 2.
-
-4 - Mesmo que não se verifiquem os condicionalismos previstos nos números anteriores, deverá o tribunal, oficiosamente ou por sugestão de qualquer das partes, determinar a realização da audiência em local diverso da sua sede, desde que compreendido na área da respectiva circunscrição, sempre que as dificuldades de deslocação dos intervenientes no julgamento superem claramente os inconvenientes decorrentes da deslocação do tribunal.
-
-5 - Nos casos de deslocação do tribunal de 1.ª instância que não seja integralmente constituído por juízes privativos intervém sempre o juiz da comarca onde as audiências e sessões hajam de ter lugar.
-
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 13.º-A — Coadjuvação do tribunal
 
-1 - Nos casos de deslocação em consequência do disposto no artigo anterior, incumbe ao tribunal em cuja sede decorrer a sessão ou audiência fornecer os funcionários indispensáveis à coadjuvação do tribunal, bem como as instalações e demais meios materiais.
+(Revogado.)
 
-2 - O disposto no número anterior não impede que os tribunais de relação ou de círculo se possam fazer assessorar pelos seus funcionários privativos, sempre que o entendam conveniente.
-
-3 - As despesas de deslocação do tribunal por força do disposto no artigo anterior correm por conta do Cofre Geral dos Tribunais.
-
-> Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 14.º — Comparecimento pessoal e despesas de deslocação
 
-1 - O tribunal de círculo poderá ordenar a comparência pessoal de quem residir na área do respectivo círculo judicial, do mesmo modo que o tribunal de comarca está autorizado, nos termos da lei de processo, a determinar a comparência pessoal dos residentes na área da comarca.
+(Revogado.)
 
-2 - Às pessoas residentes fora da comarca em que se encontre sediado o tribunal de relação ou o tribunal de círculo que compareçam em acto processual para que tenham sido convocadas são pagas as despesas de deslocação, de harmonia com as leis de processo e de custas.
-
-3 - Nenhuma das partes pode ser onerada com o pagamento das despesas de deslocação referidas no número anterior pela circunstância de a outra parte beneficiar da isenção ou dispensa de custas, caso em que, na devida proporção, as aludidas despesas serão suportadas pelo Cofre Geral dos Tribunais.
-
-4 - As despesas de deslocação referidas no n.º 2 referente aos casos de renovação da prova em sede de tribunal de relação serão sempre suportadas pelo Cofre Geral dos Tribunais.
-
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 14.º-A — Âmbito de competência para a prática de actos judiciais
 
-1 - O tribunal de círculo pode praticar na área da respectiva jurisdição quaisquer actos judiciais da sua competência.
+(Revogado.)
 
-2 - Tratando-se, porém, de actos que devam ser praticados fora da área da comarca sede do currículo judicial e que o tribunal de círculo não deva, nos termos da lei de processo, realizar directamente, poderá solicitar-se a sua prática ao tribunal de comarca respectivo.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - Apenas se solicitará ao tribunal de círculo a prática dos actos a que alude a alínea e) do n.º 1 do artigo 81.º da Lei Orgânica dos Tribunais Judiciais que devam ser realizados na área da respectiva comarca sede e desde que respeitem a processos pendentes em tribunais de estrutura colectiva.
+###### Artigo 15.º — (Extensão de competência)
 
-> Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+(Revogado.)
 
-###### Artigo 15º — (Extensão de competência)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-Na área de jurisdição dos círculos de Lisboa e Porto, os tribunais de comarca que deles fazem parte podem adoptar no respectivo círculo os procedimentos previstos para a prática de actos da sua competência.
+###### Artigo 16.º — (Presidência do tribunal para efeitos administrativos)
 
-###### Artigo 16.º — Presidência do tribunal para efeitos administrativos
+(Revogado.)
 
-1. Para os efeitos administrativos, a que se refere o artigo 86º da Lei nº 38/87, a presidência do tribunal é atribuída ao respectivo juíz de direito.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Para efeitos do disposto no número anterior, considera-se a presidência atribuída aos magistrados do Ministério Público, relativamente aos serviços que lhe estão afectos.
+###### Artigo 17.º — (Substituição de Juízes)
 
-3 - Nos tribunais e nos juízos em que haja mais de um juiz de direito, a presidência para efeitos administrativos compete, por períodos bianuais, a cada juiz, começando pelo mais antigo e seguindo-se escalonadamente a ordem de antiguidade.
+(Revogado.)
 
-4 - Sempre que estiverem instalados num mesmo edifício diversos tribunais, poderá o Conselho Superior da Magistratura determinar, quando nisso haja vantagem, a existência de um único presidente, para efeitos administrativos, seguindo-se o critério de antiguidade referido no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+###### Artigo 18.º — (Substitutos)
 
-###### Artigo 17º — (Substituição de Juízes)
+(Revogado.)
 
-1. O juiz presidente de tribunal colectivo nas suas faltas e impedimentos é substituído pelo juiz mais antigo do respectivo tribunal.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Nos casos de os juízes dos tribunais não poderem ser substituídos de acordo com o disposto nos números 2 e 3 do artigo 88º da Lei nº 38/87, a substituição é feita por designação do Conselho Superior da Magistratura.
+###### Artigo 19.º — (Acumulação de lugares)
 
-3. A designação a que se refere o número anterior faz-se com observância dos seguintes critérios:
+(Revogado.)
 
-a) A substituição deve ser assegurada por juiz da mesma circunscrição judicial, de preferência com as mesmas qualificações do substituido.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-b) Na falta de juiz nas condições da alínea anterior, a substituição deve ser assegurada por juiz de circunscrição judicial próxima.
+###### Artigo 20.º — (Juízes dos tribunais de círculo)
 
-###### Artigo 18º — (Substitutos)
+(Revogado.)
 
-1. Os substitutos dos magistrados judiciais ou do Ministério Público que não sejam magistrados têm direito a remuneração a fixar pelo Ministro da Justiça entre os limites de um quinto e a totalidade do vencimento correspondente ao cargo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. O pagamento é efectuado pelo Cofre Geral dos Tribunais, mediante informação favorável prestada pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República, conforme os casos.
+###### Artigo 21.º — (Magistrados do Ministério Público)
 
-3. A informação a que se refere o número anterior deverá mencionar o estado do serviço e ainda o esforço e as particulares circunstâncias em que a substituição é exercida.
+(Revogado.)
 
-###### Artigo 19º — (Acumulação de lugares)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. Podem o Conselho Superior da Magistratura e a Procuradoria-Geral da República, face à insuficiência do número de magistrados e ponderadas as necessidades de serviço, determinar que um magistrado exerça funções em mais de um tribunal, ainda que de comarcas diferentes.
+###### Artigo 21.º-A
 
-2. Os magistrados que exerçam funções em regime de acumulação por mais de 30 dias têm direito a remuneração a fixar pelo Ministro da Justiça, com base na informação a prestar pelas entidades referidas no número anterior, entre os limites de um quinto e a totalidade do vencimento correspondente ao cargo.
+(Revogado.)
 
-3. A informação a que se refere o número 2 deverá atender ao estado do serviço no lugar acumulado e no lugar de origem e ainda ao esforço e às particulares circunstâncias em que a acumulação é exercida pelo magistrado.
-
-###### Artigo 20º — (Juízes dos tribunais de círculo)
-
-1. Se não houver magistrado judicial que se candidate a lugar de juiz de tribunal de círculo, de tribunal de família, de tribunal de família e menores ou de juiz presidente de tribunal de trabalho e que reúna os requisitos constantes do artigo 100º da Lei nº 38/87, pode ser interinamente provido neste lugar um juiz de direito que satisfaça as condições para ser colocado em tribunal de acesso final, ou um juiz de direito que estando aí colocado o requeira, constituindo factores atendíveis, sucessivamente, a classificação de serviço e a antiguidade.
-
-2. Em caso de provimento efectuado nos termos do número anterior, o lugar será posto a concurso de dois em dois anos, nos movimentos judiciais, embora possa, durante esse prazo, ser requerida pelo magistrado interino a sua nomeação em comissão de serviço, desde que satisfaça os requisitos legais exigidos.
-
-###### Artigo 21.º — Magistrados do Ministério Público
-
-1. O quadro de magistrados do Ministério Público junto dos tribunais de 1ª. e 2ª. instância é o constante do mapa VIII anexo ao presente diploma.
-
-2. Para tribunais instalados na mesma comarca há um número global de procuradores da república e de delegados do procurador da república, fazendo-se menção, neste caso, dos que podem ser afectos a tribunais do trabalho.
-
-3. Sem prejuízo da superior orientação do Procurador-Geral da República, a distribuição do serviço por procuradores da república e delegados do procurador da república faz-se por despacho do competente procurador-geral adjunto ou procurador da república, respectivamente.
-
-4 - A Procuradoria-Geral da República, ponderando as necessidades de serviço, pode:
-
-a) Determinar que um procurador da República exerça funções em mais de um círculo, sendo aplicável o disposto nos n.os 2 e 3 do artigo 19.º;
-
-b) Determinar a afectação de magistrados de igual categoria, em regime de exclusividade, para coadjuvar o magistrado do Ministério Público em exercício no tribunal de círculo.
-
-5 - Enquanto se mantiver a afectação referida na alínea b) do número anterior, o quadro de magistrados considera-se aumentado do número de unidades correspondentes.
-
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 22.º — Turnos de férias judiciais
 
-1 - Para efeitos do disposto no n.º 1 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, em cada círculo judicial organizam-se um ou mais turnos, que funcionam nos tribunais competentes para assegurar o serviço em causa, sendo abrangidos os magistrados que exerçam funções em tribunais com sede no círculo respectivo.
+(Revogado.)
 
-2 - Nos círculos judiciais de Lisboa e do Porto, os juízes que exerçam funções em tribunais com sede no círculo respectivo agrupam-se do seguinte modo:
-
-a) Juízes das varas cíveis;
-
-b) Juízes dos juízos cíveis, do tribunal de pequena instância cível e do tribunal marítimo;
-
-c) Juízes do tribunal do trabalho;
-
-d) Juízes do tribunal de família e do tribunal de menores;
-
-e) Juízes das varas criminais;
-
-f) Juízes dos juízos criminais, do tribunal de pequena instância criminal, do tribunal de instrução criminal e do tribunal de execução das penas.
-
-> Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 22.º-A — Tribunais de turno
 
-1 - Para efeitos do disposto no n.º 2 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, são criados os tribunais de turno constantes do mapa X anexo ao presente diploma.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no n.º 6, o tribunal de turno instala-se, em regime de rotatividade, em qualquer das comarcas por ele abrangidas nos termos do mapa referido no número anterior e pela ordem alfabética nele constante.
-
-3 - Em cada comarca, o tribunal de turno instala-se no 1.º juízo do tribunal normalmente competente para a execução do serviço urgente em razão do qual o tribunal de turno foi criado.
-
-4 - Quando na comarca tenham sede vários tribunais normalmente competentes para a execução do serviço urgente, a instalação do tribunal de turno tem lugar no 1.º juízo daquele em cuja competência caiba a preparação e o julgamento, em matéria crime, das causas a que corresponda a forma de processo sumário.
-
-5 - A rotatividade prevista no n.º 2 toma em consideração a totalidade dos juízos que compõem os tribunais com sede em cada comarca.
-
-6 - O Tribunal de Turno do Porto instala-se no Tribunal de Pequena Instância Criminal do Porto.
-
-7 - O Ministro da Justiça faz publicar na 2.ª série do Diário da República aviso que dê concretização ao regime previsto nos n.os 2 a 5.
-
-> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 22.º-B — Magistrados dos tribunais de turno
 
-1 - São abrangidos para efeitos de prestação de serviço em cada tribunal de turno os magistrados que exerçam funções nos tribunais com sede nas comarcas abrangidas pelo tribunal de turno.
+(Revogado.)
 
-2 - A designação referida nos n.os 3 e 4 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, recai, sempre que possível, sobre os magistrados que exerçam funções no tribunal onde se encontre instalado o tribunal de turno.
-
-3 - Excepto decisão em contrário, devidamente fundamentada, das entidades competentes são designados, por cada dia e por cada tribunal de turno:
-
-a) Que abranja as comarcas de Espinho, Gondomar, Maia, Matosinhos, Porto, Valongo e Vila Nova de Gaia, quatro juízes e quatro magistrados do Ministério Público;
-
-b) Que abranja a comarca de Lisboa, três juízes e três magistrados do Ministério Público;
-
-c) Que abranja as restantes comarcas, um juiz e um magistrado do Ministério Público.
-
-4 - Nas suas ausências, faltas e impedimentos, os magistrados designados são substituídos por aqueles que se lhes sigam na ordem de designação.
-
-5 - Os magistrados devem, sempre que possível, comunicar a ocorrência das situações referidas no número anterior por forma que fique assegurada a respectiva substituição.
-
-> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 22.º-C — Competência e funcionamento dos tribunais de turno
 
-1 - Cada tribunal de turno tem competência territorial idêntica à dos tribunais normalmente competentes para a execução do serviço urgente que tenham sede em qualquer das comarcas por ele abrangidas, independentemente do âmbito territorial da comarca e do tribunal onde se encontre instalado.
+(Revogado.)
 
-2 - Compete à Ordem dos Advogados tomar as medidas adequadas a assegurar o exercício do direito de defesa.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - As pessoas residentes fora da comarca em que se encontre instalado o tribunal de turno que intervenham em acto processual têm direito ao pagamento das despesas respectivas pelo tribunal referido na parte final do n.º 5, de harmonia com as leis de processo e de custas.
+###### Artigo 23.º — (Juízes de instrução criminal)
 
-4 - A duração diária do serviço no tribunal de turno coincide com a do funcionamento das secretarias, devendo prolongar-se para completa execução do serviço que se encontre em curso.
+(Revogado.)
 
-5 - No primeiro dia útil subsequente, a secretaria do tribunal onde se encontrou instalado o tribunal de turno remete ao tribunal normalmente competente o expediente relativo ao serviço executado.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
+###### Artigo 24.º — (Apoio aos juízes de instrução criminal)
 
-###### Artigo 23.º — Juízes de instrução criminal
+(Revogado.)
 
-1. Nas comarcas em que não haja tribunal de instrução criminal, pode o Conselho Superior da Magistratura, sempre que o movimento processual o justifique determinar a afectação de juízes de direito, em regime de exclusividade, à instrução criminal.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2 - O disposto no número anterior é aplicável à comarca ou comarcas em que não se encontre sediado o tribunal de instrução criminal e se integrem na respectiva área de jurisdição.
-
-3 - Enquanto se mantiver a afectação referida nos números anteriores, o quadro de magistrados considera-se aumentado do número de unidades correspondente.
-
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
-
-###### Artigo 24º — (Apoio aos juízes de instrução criminal)
-
-1. O expediente movimentado pelo juiz de direito com funções de instrução criminal é assegurado pela respectiva secção de apoio.
-
-2. Sempre que o movimento processual o justifique, podem ser destacados oficiais de justiça para apoiar o juiz de direito afecto em regime de exclusividade à instrução criminal.
-
-###### Artigo 25.º — Informática nos tribunais
+###### Artigo 25.º — (Informática nos tribunais)
 
 1. A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.
 
@@ -420,499 +289,297 @@ c) Que abranja as restantes comarcas, um juiz e um magistrado do Ministério Pú
 
 > Alterado pelo/a [Decreto-Lei n.º 39/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1999-169460), publicado em 1999-02-09.
 
-###### Artigo 26º — (Acesso à informação por parte dos magistrados)
+###### Artigo 26.º — (Acesso à informação por parte dos magistrados)
 
-No âmbito dos processos judiciais a seu cargo, os magistrados judiciais e do Ministério Público podem ter acesso à informação constante dos ficheiros informáticos de identificação civil e criminal, do Registo Nacional de Pessoas Colectivas, do registo automóvel, da polícia judiciária, do sistema penitenciário e outros que venham a ser constituídos desde que a natureza destes e as suas finalidades não se mostrem incompatívis com tal acesso.
+(Revogado.)
 
-###### Artigo 27º — (Varas cíveis e juízos cíveis do tribunal cível de Lisboa)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. Os 1º a 9º juizos cíveis de Lisboa mantêm-se, conservando os processos neles pendentes.
+###### Artigo 27.º — (Varas cíveis e juízos cíveis do tribunal cível de Lisboa)
 
-2. Os 10º a 17º juizos cíveis de Lisboa são extintos e convertidos respectivamente, nas 1ª. a 8ª. varas cíveis, às quais são afectos os processos pendentes nos extintos juízos.
+(Revogado.)
 
-3. Os processos que se encontram pendentes nas comarcas de Almada, Loures, Oeiras e Seixal e que passam a ser da competência das varas cíveis transitam para os tribunais de círculo auxiliares, com funções de liquidação desses processos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-4. Até data a designar pelo Conselho Superior da Magistratura, a distribuição da competência das varas cíveis é efectuada pelas 11a. a 13a. varas, com excepção dos processos de falência, insolvência e dos processos especiais de recuperação de empresas em situação económica difícil, que são distribuidos pela totalidade das varas cíveis.
+###### Artigo 28.º — (Varas cíveis e juízos cíveis do tribunal cível do Porto)
 
-5. Um quinto dos processos pendentes nas 1a. a 8a. varas são redistribuidos pelas 9a. e 10a. varas.
+(Revogado.)
 
-6. Findo o período referido no nº 4, procede-se à distribuição pela totalidade das varas cíveis.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-7. O pessoal dos juízos a que se referem os nºs 1 e 2 é colocado sem outra formalidade, e, sem prejuízo do disposto no artº 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em que se encontravam, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 29.º — (Juízos criminais do tribunal criminal de Lisboa)
 
-###### Artigo 28º — (Varas cíveis e juízos cíveis do tribunal cível do Porto)
+(Revogado.)
 
-1. O 1º a 4º juízos cíveis do Porto mantêm-se, conservando os processos neles pendentes.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os 5º a 9º juízos cíveis do Porto são extintos e convertidos respectivamente nas 1a. a 5a. varas cíveis às quais são afectos os processos pendentes nos juízos extintos.
+###### Artigo 30.º — (Juízos criminais do tribunal criminal do Porto)
 
-3. Os processos que se encontram pendentes nas comarcas de Espinho, Matosinhos e Vila Nova de Gaia e que passam a ser da competência das varas cíveis transitam para os tribunais de círculo auxiliares com funções de liquidação desses processos.
+(Revogado.)
 
-4. Até data a designar pelo Conselho Superior da Magistratura, toda a distribuição da competência das varas cíveis é efectuada pela 6a. vara, com excepção dos processos de falência, insolvência e dos processos especiais de recuperação de empresas em situação económica difícil, que são distribuido pela totalidade das varas cíveis.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-5. Findo o período referido no número anterior, procede-se à distribuição pela totalidade das varas cíveis.
+###### Artigo 31.º — (Juízos correccionais do tribunal criminal de Lisboa)
 
-6. O pessoal dos juízos a que se referem os nºs 1 e 2 é colocado sem outra formalidade, e, sem prejuízo do disposto no artº 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em que se encontravam, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 29º — (Juízos criminais do tribunal criminal de Lisboa)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. Os 1º a 4º juizos criminais de Lisboa mantêm a sua actual numeração.
+###### Artigo 32.º — (Juízos correccionais do tribunal criminal do Porto)
 
-2. Os processos, pendentes nos juízos referidos no número anterior, são redistribuídos por todos os juízos criminais.
+(Revogado.)
 
-3. Os processos da competência dos juizos criminais que se encontram nos tribunais de Almada, Loures, Oeiras o Seixal transitam para os tribunais de círculo auxiliares com funções de liquidação desses processos.
-
-4. Os secretários judiciais dos 1º a 4º juízos transitam para os correspondentes lugares das secretarias do 1º e 2º juízos, 3º e 4º juízos, 5º a 6º juízos e 7º e 8º juízos respectivamente.
-
-5. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em que se encontravam, ficando na situação de supranumerários nos restantes casos.
-
-###### Artigo 30º — (Juízos criminais do tribunal criminal do Porto)
-
-1. Os 1º e 2º juizos criminais do Porto mantêm a sua actual numeração.
-
-2. Os processos pendentes nos juízos referidos no número anterior, são redistribuídos por todos os juízos criminais.
-
-3. Os processos da competência dos juízos criminais que se encontrem nos tribunais de Espinho, Matosinhos e Vila Nova de Gaia transitam para os tribunais de círculo auxiliares, com funções de liquidação desses processos.
-
-4. Os secretários judiciais dos 1º e 2º juízos transitam para os correspondentes lugares das secretarias dos 1º e 2º juízos e 3º e 4º juízos respectivamente.
-
-5. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em que se encontravam, ficando na situação de supranumerários nos restantes casos.
-
-###### Artigo 31º — (Juízos correccionais do tribunal criminal de Lisboa)
-
-1. Os 1º a 5º juizos correccionais de Lisboa, mantêm-se, conservando a sua anterior numeração.
-
-2. Os 6º a 10º juizos correccionais de Lisboa são extintos.
-
-3. O equipamento, livros, processos, objectos e papéis pendentes, que se encontrem nos juizos extintos, transita:
-
-a) Para a 3ª. secção do 1º juízo os da 1ª. secção do extinto 6º juizo;
-
-b) Para a 3ª. secção do 2º juizo os da 2ª. secção do extinto 6º juizo;
-
-c) Para a 3ª. secção do 3º juizo os da 1ª. secção do extinto 7º juizo;
-
-d) Para a 3ª. secção do 4º juizo os da 2ª. secção do extinto 7º juizo;
-
-e) Para a 3a. secção do 5º juízo os da 1a. secção do extinto 8º juízo;
-
-f) Para o 1º juizo, onde são distribuidos, os da 2a. secção do extinto 8º juízo;
-
-g) Para o 2º juizo, onde são distribuidos, os da 1a. secção do extinto 9º juizo;
-
-h) Para o 3º juizo, onde são distribuidos, os da 2a. secção do extinto 9º juizo;
-
-i) Para o 4º juízo, onde são distribuídos, os da 1a. secção do extinto 10º juízo.
-
-j) Para o 5º juízo, onde são distribuídos, os da 2a. secção do extinto do 10º juízo.
-
-4. Os livros, processos e papéis findos, existentes nos serviços dos referidos juizos extintos são remetidos ao arquivo.
-
-5. Os escrivães de direito das 1ª e 2ª secções dos extintos 6º e 7º juizos, e da 1a. secção do 8º juízo transitam, sem qualquer formalidade, respectivamente, para as 3 secções dos 1º ao 5º juízos.
-
-6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos, ficando na situação de supranumerários nos restantes casos.
-
-###### Artigo 32º — (Juízos correccionais do tribunal criminal do Porto)
-
-1. Os 1º a 3º juízos correccionais do Porto mantêm-se, conservando a sua anterior numeração.
-
-2. Os 4º e 5º juízos correccionais do Porto são extintos.
-
-3. O equipamento, livros, processos, objectos e papeis pendentes, que se encontrem nos juízos extintos, transita:
-
-a) Para a 3ª secção do 1º juízo o da 1ª secção do extinto 4º juízo;
-
-b) Para a 3ª secção do 2º juízo o da 2.ª secção do extinto 4º juízo;
-
-c) Para a 3a. secção do 3º juízo os da 1a. secção do extinto 5º juízo;
-
-d) Para os 1º a 3º juízos, onde são distribuídos, os da 2a. secção do extinto 5º juízo;
-
-4. Os livros, processos e papeis findos, existentes nos serviços dos referidos juízos extintos são remetidos ao arquivo.
-
-5. Os escrivães de direito das 1ª e 2ª secções do extinto 4º juízo, e da 1a. secção do 5º juízo transitam sem qualquer formalidade, para as 3as secções do 1º a 3º juízos, respectivamente.
-
-6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/86, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos, ficando na situação de supranumerários nos restantes casos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 33.º — Tribunal de Pequena Instância Criminal de Lisboa e Porto
 
-1 - São extintos o 2.º Juízo do Tribunal de Pequena Instância Criminal de Lisboa e o 2.º Juízo do Tribunal de Pequena Instância Criminal do Porto.
+(Revogado.)
 
-2 - Os processos pendentes nas 1.as, 2.as e 3.as Secções dos extintos 2.os Juízos dos Tribunais de Pequena Instância Criminal de Lisboa e do Porto transitam para as 1.as, 2.as e 3.as Secções dos 1.os Juízos, respectivamente.
-
-3 - Os escrivães de direito das secções dos juízos extintos passam à situação de supranumerários, adoptando-se o critério da antiguidade relativamente às restantes categorias.
-
-> Alterado pelo/a [Decreto-Lei n.º 153/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1995-475081), publicado em 1995-07-01.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 33.º-A — Tribunais de Pequena Instância de Almada e Vila Nova de Gaia
 
-1 - São extintos os Tribunais de Pequena Instância Criminal de Almada e Vila Nova de Gaia.
+(Revogado.)
 
-2 - O pessoal da secretaria dos Tribunais de Pequena Instância Criminal de Almada e Vila Nova de Gaia transita para os lugares da correspondente categoria dos agora criados tribunais de pequena instância de competência específica mista de Almada e Vila Nova de Gaia, respectivamente.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - Transitam para os Tribunais de Pequena Instância de Almada e Vila Nova de Gaia os processos de natureza cível da sua competência pendentes nas secções dos juízos de competência especializada cível dos Tribunais da Comarca de Almada e Vila Nova de Gaia, bem como o equipamento, os livros, processos, objectos e papéis findos e pendentes dos Tribunais de Pequena Instância Criminal de Almada e Vila Nova de Gaia.
+###### Artigo 34.º — (Tribunal de família de Lisboa)
 
-> Aditado pelo/a [Decreto-Lei n.º 153/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1995-475081), publicado em 1995-07-01.
+(Revogado.)
 
-###### Artigo 34º — (Tribunal de família de Lisboa)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-Os processos da competência do tribunal de família de Lisboa que se encontram pendentes nos tribunais de Almada, Loures, Oeiras e Seixal, e, que não devam ser remetidos aos tribunais de círculo auxiliares, transitam para o 4º juízo do tribunal de família de Lisboa.
+###### Artigo 35.º — (Tribunais do trabalho de Lisboa)
 
-###### Artigo 35º — (Tribunais do trabalho de Lisboa)
+(Revogado.)
 
-1. Os 1º a 5º juízos do tribunal do trabalho de Lisboa mantêm-se, conservando a sua anterior numeração.
-
-2. São extintos os 6º a 15º juízos dos tribunais do trabalho de Lisboa.
-
-3. O equipamento, livros, processos, objectos e papéis pendentes, que se encontrem nos juízos extintos transitam:
-
-a) Para a 3a. secção do 1º juízo os da 1a. secção do extinto 6º juízo;
-
-b) Para a 3a. secção do 2º juízo os da 2a. secção do extinto 6º juízo;
-
-c) Para a 3a. secção do 3º juízo os da 1a. secção do extinto 7º juízo;
-
-d) Para a 3a. secção do 4º juízo os da 2a. secção do extinto 7º juízo;
-
-e) Para a 3a. secção do 5º juízo os da 1a. secção do extinto 8º juízo;
-
-f) Para a 1a. secção do 1º juízo os da 2a. secção do extinto 8º juízo;
-
-g) Para a 2a. secção do 1º juízo os da 1a. secção do extinto 9º juízo;
-
-h) Para a 3a. secção do 1º juízo o da 2a. secção do extinto 9º juízo.
-
-i) Para a 1a. secção do 2º juízo os da 1a. secção do extinto 10º juízo;
-
-j) Para a 2a. secção do 2º juízo os da 2a. secção do extinto 10º juízo;
-
-l) Para a 3a. secção do 2º juízo os da 1a. secção do extinto 11º juízo;
-
-m) Para a 1a. secção do 3º juízo os da 2a. secção do extinto 11º juízo;
-
-n) Para a 2a. secção do 3º juízo os da 1a. secção do extinto 12º juízo;
-
-o) Para a 3a. secção do 3º juízo o da 2a. secção do extinto 12º juízo;
-
-p) Para a 1a. secção do 4º juízo os da 1a. secção do extinto 13º juízo;
-
-q) Para a 2a. secção do 4º juízo os da 2a. secção do extinto 13º juízo;
-
-r) Para a 3a. secção do 4º juízo os da 1a. secção do extinto 14º juízo;
-
-s) Para a 1a. secção do 5º juízo, os da 2a. secção do extinto 14º juízo;
-
-t) Para a 2a. secção do 5º juízo os da 1a. secção do extinto 15º juízo;
-
-u) Para a 3a. secção do 5º juízo os da 2a. secção do extinto 15º juízo.
-
-4. Os livros, processos e papeis findos existentes nos serviços dos referidos juízos extintos são remetidos ao arquivo.
-
-5. Os escrivães de direito das 1a. e 2a. secções dos 6º e 7º juízos, e 1a. secção do 8º juízo, transitam, sem outra formalidade, para as 3as. secções dos 1º a 5º juízos, respectivamente.
-
-6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos, ficando na situação de supranumerários nos restantes casos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 36.º — (Tribunais do trabalho do Porto)
 
-1 - Os 1.º a 5.º Juízos do Tribunal do Trabalho do Porto mantêm-se, conservando a sua anterior numeração.
+(Revogado.)
 
-2 - São extintos os 6.º a 9.º Juízos do Tribunal do Trabalho do Porto.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - As 1.ª e 2.ª Secções dos 1.º a 5.º Juízos passam a constituir as respectivas secções de processos daqueles.
+###### Artigo 37.º — (Tribunal do trabalho de Angra do Heroísmo)
 
-4 - O equipamento, livros, processos, objectos e papéis pendentes que se encontram nos juízos extintos transitam:
+(Revogado.)
 
-a) Para o 1.º Juízo, os da 1.ª Secção do extinto 6.º Juízo;
-
-b) Para o 2.º Juízo, os da 2.ª Secção do extinto 6.º Juízo;
-
-c) Para o 3.º Juízo, os da 1.ª Secção do extinto 7.º Juízo;
-
-d) Para o 4.º Juízo, os da 2.ª Secção do extinto 7.º Juízo;
-
-e) Para o 5.º Juízo, os da 1.ª Secção do extinto 8.º Juízo.
-
-5 - Os processos pendentes na 2.ª Secção do extinto 8.º Juízo, bem como os da 1.ª e 2.ª Secções do extinto 9.º Juízo, são redistribuídos pelos 1.º a 5.º Juízos.
-
-6 - Os livros, processos e papéis findos, existentes nos serviços dos referidos juízos extintos, são remetidos ao arquivo.
-
-7 - Os secretários judiciais dos 1.º a 5.º Juízos mantêm-se nos mesmos, ficando os dos 6.º a 9.º Juízos na situação de supranumerários.
-
-8 - O restante pessoal é colocado, segundo a antiguidade e desde que haja vaga, no quadro do Tribunal, ficando na situação de supranumerário nos restantes casos.
-
-> Alterado pelo/a [Decreto-Lei n.º 222/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1994-218744), publicado em 1994-08-24.
-
-###### Artigo 37º — (Tribunal do trabalho de Angra do Heroísmo)
-
-1. É extinto o tribunal de trabalho de Angra do Heroísmo.
-
-2. O pessoal da secretaria do tribunal do trabalho de Angra do Heroísmo transita para lugares da correspondente categoria do tribunal da comarca e, não havendo vagas, passa à situação de supranumerário.
-
-3. Transitam igualmente para o tribunal de Angra do Heroísmo o equipamento e os livros, processos, objectos e papéis, findos e pendentes, do tribunal do trabalho de Angra do Heroísmo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 37.º-A — Tribunal do Trabalho de Aveiro
 
-1 - É extinto o 2.º Juízo do Tribunal do Trabalho de Aveiro.
+(Revogado.)
 
-2 - Os processos e papéis pendentes no Juízo extinto transitam para o 1.º Juízo.
+> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3 - O pessoal dos serviços extintos transita sem qualquer formalidade, e sem prejuízo do disposto no artigo 71.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do Tribunal, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 38.º — (Tribunal de menores de Coimbra, Tribunal de menores de Faro e Tribunal de menores do Funchal)
 
-> Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+(Revogado.)
 
-###### Artigo 38º — (Tribunal de menores de Coimbra, Tribunal de menores de Faro e Tribunal de menores do Funchal)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. São extintos os tribunais de menores de Coimbra, de Faro e do Funchal.
+###### Artigo 39.º — (Tribunal da comarca de Almada)
 
-2. O pessoal das secretarias dos tribunais de menores de Coimbra e do Funchal transitam para os lugares da correspondente categoria dos agora criados tribunais de família e menores de Coimbra e do Funchal, sem prejuízo da preferência consignada no artigo 195º do Decreto-Lei nº 376/87, de 11 de Dezembro, relativamente àqueles cujo lugar de chefe de secretaria foi extinto por força do artigo 185º do mesmo diploma.
+(Revogado.)
 
-3. Transitam igualmente para os tribunais de família e menores de Coimbra e do Funchal o equipamento, os livros, processos, objectos e papéis findos e pendentes dos tribunais de menores de Coimbra e do Funchal.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 39º — (Tribunal da comarca de Almada)
+###### Artigo 40.º — (Tribunal da comarca de Coimbra)
 
-1. Os juízos de competência genérica da comarca de Almada são extintos e convertidos o 1º e 2º no 1º e 2º juízos cíveis e o 3º no 1º juízo correccional e de polícia.
+(Revogado.)
 
-2. Os processos de competência cível pendentes nos extintos 1º e 2º juízos mantêm-se nos mesmos, sendo os da competência penal remetidos à distribuição pelos 1º e 2º juízos correccionais e de polícia, sendo esta feita de modo a permitir o equilíbrio do movimento processual entre estes juízos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3. Os processos de competência penal pendentes no 3º juízo transitam para o 1º juízo correcional e de polícia para que este foi convertido, sendo os da competência cível remetidos à distribuição pelos juízos cíveis.
+###### Artigo 41.º — (Tribunal da comarca do Funchal)
 
-4. O actual arquivo comum da comarca fica na dependência da secretaria dos juízos cíveis.
+(Revogado.)
 
-5. O secretário judicial e o escrivão de direito da secção central transitam sem qualquer formalidade para a secretaria dos juízos cíveis e os restantes escrivães de direito transitam de igual modo para os novos serviços em que foram convertidos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-6. O restante pessoal é colocado, sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em se encontravam, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 42.º — (Tribunal da comarca de Lamego)
 
-###### Artigo 40º — (Tribunal da comarca de Coimbra)
+(Revogado.)
 
-1. Os juízos de competência genérica de Coimbra são extintos e convertidos os 1º, 2º e 3º nos 1º, 2º e 3º juízos cíveis e o 4º no 1º juízo correccional e de polícia.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os processos da competência cível, pendentes nos 1º a 3º juízos mantêm-se nos mesmos transitando os da competência penal mediante distribuição para os 1º e 2º juízos correccionais e de polícia, sendo esta feita de modo a permitir o equilíbrio do movimento processual entre estes juízos.
+###### Artigo 43.º — (Tribunal da comarca de Loures)
 
-3. Os processos da competência penal pendentes no 4º juízo transitam para o 1º juízo correccional e de polícia para que este foi convertido, transitando os da competência cível mediante distribuição, para os 1º a 3º juízos cíveis.
+(Revogado.)
 
-4. O actual arquivo comum da comarca fica na dependência da secretaria dos juízos cíveis.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-5. O secretário judicial e o escrivão de direito da secção central transitam, sem qualquer formalidade, para a secretaria dos juízos cíveis e os restantes escrivães de direito transitam, de igual modo, para os novos serviços em que foram convertidos.
+###### Artigo 44.º — (Tribunal da Comarca da Marinha Grande)
 
-6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes àqueles em que se encontravam ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 41º — (Tribunal da comarca do Funchal)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. Os juízos de competência genérica da comarca do Funchal são extintos e convertidos, o 1º e 2º no 1º e 2º juízos cíveis e o 3º no 1º juízo correccional e de polícia.
+###### Artigo 45.º — (Tribunal da comarca de Ovar)
 
-2. Os processos de competência cível pendentes nos 1º e 2º juízos mantêm-se nos mesmos, sendo os da competência penal remetidos à distribuição pelos 1º e 2º juízos correccionais e de polícia, sendo esta feita de modo a permitir o equilíbrio do movimento processual entre estes juizos.
+(Revogado.)
 
-3. Os processos da competência penal pendentes no 3º juízo transitam para o 1º juízo correccional e de polícia para que este foi convertido, sendo os da competência cível remetidos à distribuição pelos juízos cíveis.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-4. O actual arquivo comum da comarca fica na dependência da secretaria dos juízos cíveis.
+###### Artigo 46.º — (Tribunal da comarca de Paços de Ferreira)
 
-5. O secretário judicial e o escrivão de direito da secção central transitam, sem qualquer formalidade, para a secretaria dos juízos cíveis e os restantes escrivães de direito transitam, de igual modo, para os novos serviços em que foram convertidos.
+(Revogado.)
 
-6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos ficando na situação de supranumerários nos restantes casos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 42º — (Tribunal da comarca de Lamego)
+###### Artigo 47.º — (Tribunal de comarca de Santiago do Cacém)
 
-1. É extinto o 2º juízo da comarca de Lamego.
+(Revogado.)
 
-2. Os processos pendentes no juízo extinto são remetidos para o 1º juízo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3. O escrivão de direito da 3a. secção transita, sem qualquer formalidade, para a secção afecta ao tribunal de círculo.
+###### Artigo 48.º — (Tribunal da comarca de Sintra)
 
-###### Artigo 43º — (Tribunal da comarca de Loures)
+(Revogado.)
 
-1. É extinto o 4º juízo do tribunal de comarca de Loures.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os processos pendentes no juízo extinto transitam, por distribuição, para os 1º a 3º juízos.
+###### Artigo 49.º — (Tribunal da comarca de Torres Novas)
 
-3. O pessoal dos serviços extintos é colocado, sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/78, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 44º — (Tribunal da Comarca da Marinha Grande)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. É extinto o 2º juízo da comarca da Marinha Grande.
+###### Artigo 50.º — (Tribunal da comarca de Torres Vedras)
 
-2. Os processos pendentes no juízo extinto são remetidos para o 1º juízo.
+(Revogado.)
 
-3. O pessoal dos serviços extintos transita, sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 45º — (Tribunal da comarca de Ovar)
+###### Artigo 51.º — (Tribunal da comarca de Vila do Conde)
 
-1. É extinto o 3º juízo da comarca de Ovar.
+(Revogado.)
 
-2. Os processos pendentes no juízo extinto transitam por distribuição, para o 1º e 2º juízos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3. O pessoal dos serviços extintos transita, sem qualquer formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 52.º — (Tribunais da comarca de Vila Nova de Gaia)
 
-###### Artigo 46º — (Tribunal da comarca de Paços de Ferreira)
+(Revogado.)
 
-1. É extinto o 2º juízo da comarca de Paços de Ferreira.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os processos pendentes no juízo extinto, são remetidos para o 1º juízo.
+###### Artigo 53.º — (Tribunal da comarca de Vila Verde)
 
-3. O pessoal dos serviços extintos transita, sem qualquer formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 47º — (Tribunal de comarca de Santiago do Cacém)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. É extinto o 2º juízo da comarca de Santiago do Cacém.
+###### Artigo 54.º — (Tribunais de instrução criminal)
 
-2. Os processos pendentes no juízo extinto são remetidas para o 1º juízo.
+(Revogado.)
 
-3. Os escrivães de direito das 1a. e 2a. secções do 2º juízo transitam, sem qualquer formalidade, respectivamente, para as secções de processos do tribunal de círculo e do tribunal do trabalho, aí sediados.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-4. O restante pessoal transita, sem qualquer formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 55.º — (Entrada em funcionamento de novos tribunais ou juízos)
 
-###### Artigo 48º — (Tribunal da comarca de Sintra)
+(Revogado.)
 
-1. Os 1º a 4º juizos do tribunal da comarca de Sintra mantêm-se conservando a sua anterior numeração.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. É extinto o 5º juizo do tribunal da comarca de Sintra, bem como a secretaria do 4º e 5º juízos e a secretaria geral.
+###### Artigo 56.º — (Tribunais de círculo auxiliares)
 
-3. A secretaria do 1º, 2º e 3º juizos passa a funcionar como secretaria do tribunal de comarca onde são integrados o equipamento, livros, processos, objectos e papéis das secretarias extintas.
+(Revogado.)
 
-4. Os processos e papéis pendentes no juizo extinto transitam, por distribuição, para os restantes juizos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-5. O arquivo integrado na extinta secretaria-geral fica na dependência da secretaria do tribunal de comarca.
+###### Artigo 57.º — (Varas e juízos auxiliares)
 
-6. O secretário judicial da secretaria geral transita, sem quaisquer outras formalidades, para o cargo de secretário judicial do tribunal de círculo, mantendo, enquanto em funções na comarca, o vencimento correspondente àquelas que desempenhava na secretaria geral.
+(Revogado.)
 
-7. Os escrivães de direito do extinto 5º juizo transitam, sem quaisquer outras formalidades, para as 1ª e 2ª secções do tribunal de círculo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-8. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços correspondentes aqueles em que se encontravam, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 58.º — (Instalação de tribunais)
 
-###### Artigo 49º — (Tribunal da comarca de Torres Novas)
+(Revogado.)
 
-1. É extinto o 2º juízo da comarca de Torres Novas.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os processos pendentes no juízo extinto transitam para o 1º juízo.
+###### Artigo 59.º — (Remunerações de Magistrados)
 
-3. O pessoal dos serviços extintos é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/78, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 50º — (Tribunal da comarca de Torres Vedras)
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-1. É extinto o 3º juízo da comarca de Torres Vedras.
+###### Artigo 60.º — (Colocação de juízes)
 
-2. Os processos pendentes no juízo extinto transitam, por distribuição, para os 1º e 2º juízos.
+(Revogado.)
 
-3. O escrivão de direito da 1a. secção do 3º juízo transita, sem qualquer outra formalidade, para a secção afecta no tribunal de círculo.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-4. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+###### Artigo 61.º — (Preferências)
 
-###### Artigo 51º — (Tribunal da comarca de Vila do Conde)
+(Revogado.)
 
-1. É extinto o 3º juízo da comarca de Vila do Conde.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-2. Os processos pendentes no juízo extinto transitam, por distribuição para o 1º e 2º juízos.
+###### Artigo 62.º — (Primeira classificação de Tribunais)
 
-3. O escrivão de direito da 1a. secção do 3º juízo transita, sem qualquer outra formalidade, para a secção afecta ao tribunal de círculo.
+(Revogado.)
 
-4. O restante pessoal é colocado, sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-###### Artigo 52º — (Tribunais da comarca de Vila Nova de Gaia)
+###### Artigo 63.º — (Provimento dos oficiais de justiça)
 
-1. Os juízos de competência genérica de Vila Nova de Gaia são extintos e convertidos os 1º, 2º e 3º nos 1º, 2º e 3º juízos cíveis e o 4º no 1º juízo correccional e de polícia.
+(Revogado.)
 
-2. O juízo de polícia de Vila Nova de Gaia é extinto e convertido no 2º juízo correccional e de polícia.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-3. Os processos da competência cível pendentes no 1º a 3º juízos mantêm-se nos mesmos transitando os da competência penal, mediante distribuição, para os 1º e 2º juízos correccionais e de polícia.
+###### Artigo 64.º — (Território de Macau)
 
-4. Os processos de competência penal pendentes no 4º juízo de competência genérica e no juízo de polícia transitam respectivamente para o 1º e 2º juízo correcional e de polícia para que foram convertidos, transitando os da competência cível, mediante distribuição, para os 1º a 3º juízos cíveis.
+(Revogado.)
 
-5. Os actuais arquivos da comarca ficam na dependência da secretaria dos juízos cíveis o do tribunal de competência genérica e da secretaria dos juízos correccionais e de polícia o do juízo de polícia.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
-6. O secretário e o escrivão de direito da secção central do tribunal de comarca transitam, sem qualquer outra formalidade, para a secretaria dos juízos cíveis e os restantes escrivães de direito transitam, de igual modo, para os novos serviços em que foram convertidos os juízos extintos.
+###### Artigo 65.º — (Encargos)
 
-7. Os escrivães de direito do juízo de polícia transitam, sem qualquer outra formalidade, para os correspondentes serviços do 2º juízo correccional e de polícia, sem prejuízo da preferência consignada no artº 195º do Decreto-Lei nº 376/87, de 11 de Dezembro, relativamente àquele cujo lugar de chefe de secretaria foi extinto por força do artigo 185º do mesmo diploma.
+(Revogado.)
 
-8. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 53º — (Tribunal da comarca de Vila Verde)
+(Revogado.)
 
-1. É extinto o 2º juizo da comarca de Vila Verde.
+(Revogado.)
 
-2. Os processos pendentes no juízo extinto transitam para o 1º juízo.
+(Revogado.)
 
-3. O pessoal dos serviços extintos é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/78, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do tribunal, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-###### Artigo 54º — (Tribunais de instrução criminal)
+(Revogado.)
 
-1. São extintos os tribunais de instrução criminal de Almada, Aveiro, Barcelos, Barreiro, Beja, Braga, Bragança, Caldas da Rainha, Cascais, Castelo Branco, Covilhã, Évora, Faro, Figueira da Foz, Funchal, Guarda, Guimarães, Lamego, Leiria, Loures, Matosinhos, Oeiras, Oliveira de Azemeis, Penafiel, Ponta Delgada, Portalegre, Portimão, Santarém, Santo Tirso, Setúbal, Sintra, Tomar, Viana do Castelo, Vila da Feira, Vila Franca de Xira, Vila Nova de Gaia, Vila Real e Viseu.
+(Revogado.)
 
-2. Os tribunais de instrução criminal referidos no número anterior mantêm-se na situação de liquidatários até que, por despacho do Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e a Procuradoria-Geral da República, venha a ser declarada finda esta situação.
+(Revogado.)
 
-3. Finda a liquidação, o pessoal da secretaria dos tribunais referidos no número anterior é colocado, sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga em lugares de correspondentes categoria dos tribunais sediados na comarca, ficando na situação de supranumerários nos restantes casos.
+(Revogado.)
 
-4. O equipamento, livros, processos, objectos e papéis findos transitam igualmente para os respectivos tribunais de comarca.
+(Revogado.)
 
-###### Artigo 55.º — Entrada em funcionamento de novos tribunais ou juízos
+(Revogado.)
 
-1. Os tribunais ou juízos criados ou convertidos pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
+(Revogado.)
 
-2 - Após a instalação dos tribunais referidos no número anterior, dar-se-á cumprimento ao preceituado no n.º 1 do artigo 3.º da [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto.
+3 Procuradores da República
 
-3 - O disposto no número anterior será igualmente aplicável às acções ou incidentes referidos nos artigos 144.º, 147.º, 150.º, 151.º e 153.º do Código de Processo do Trabalho, bem como à actualização das pensões, quando suscitadas em processos de acidente de trabalho já findos.
+1 Procurador da República
 
-4 - Até à entrada em funcionamento dos novos tribunais ou juízos, mantém-se a composição e a competência dos tribunais e juízos, ainda que extintos pelo presente regulamento, que detinham a correspondente jurisdição.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+(Revogado.)
 
-###### Artigo 56º — (Tribunais de círculo auxiliares)
+(Revogado.)
 
-1. São criados os tribunais de círculo auxiliares de competência genérica de Lisboa e Porto, cuja área de jurisdição abrange as comarcas de Almada, Seixal, Loures e Oeiras e as comarcas de Matosinhos, Vila Nova de Gaia e Espinho respectivamente, com funções de liquidação dos processos pendentes e por um período que pode ir até 2 anos, podendo ser prorrogável por 1 ano, por portaria do Ministro da Justiça ouvidos o Conselho Superior da Magistratura e a Procuradoria Geral da República.
+MAPA X
 
-2. Os tribunais de círculo auxiliares constam do mapa IX anexo ao presente diploma.
+(Revogado.)
 
-3. Findo o período de tempo referido no nº 1 ou a partir do momento em que não se justifique a existência do tribunal, os processos, ainda pendentes, serão distribuídos pelas varas cíveis, pelos juízos de família e pelos juízos criminais de Lisboa e Porto.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-579923), publicado em 1988-07-30.
 
-###### Artigo 57º — (Varas e juízos auxiliares)
-
-Nos círculos judiciais de Lisboa e Porto e sempre que o movimento processual o justifique, pode o Ministro da Justiça por portaria, sob proposta do Conselho Superior da Magistratura e da Procuradoria Geral da República, instalar varas e juizos cíveis auxiliares e juizos criminais e correccionais auxiliares, por tempo determinado.
-
-###### Artigo 58º — (Instalação de tribunais)
-
-Para efeitos do disposto no número 1 do artigo 96º da Lei nº 38/87, atende-se às prioridades fixadas pelo Ministério da Justiça e às disponibilidades efectivas dos municípios.
-
-###### Artigo 59º — (Remunerações de Magistrados)
-
-1. Aos juízes privativos dos tribunais de círculo e aos que lhes forem equiparados pelo presente regulamento aplica-se o disposto no número 3 do artigo 22º da Lei nº 21/85, de 30 de Julho.
-
-2. Da aplicação do presente diploma não poderá ocorrer diminuição do nível remuneratório actual de qualquer magistrado, enquanto este não for transferido do tribunal onde se encontra a prestar funções, à data da entrada em vigor do presente regulamento, ou do tribunal para que haja de ser transferido, por força da extinção daqueles.
-
-###### Artigo 60º — (Colocação de juízes)
-
-1. Os juizes dos tribunais não extintos e dos convertidos para cujo provimento se não exijam os requisitos de nomeação previstos no artº 100º da Lei nº 38/87 conservam os respectivos lugares.
-
-2. Os juizes dos tribunais ora extintos beneficiam das preferências consignadas no presente diploma.
-
-###### Artigo 61º — (Preferências)
-
-1. Gozam de preferência absoluta no primeiro provimento do lugar de juiz em tribunal de círculo os actuais juízes de círculo que exerçam funções na área do círculo, desde que reunam os requisitos de nomeação previstos no artigo 100º da Lei nº 38/87.
-
-2. No provimento dos lugares de varas cíveis, dentro do âmbito do respectivo distrito judicial, gozam de preferência, observados os requisitos referidos no número anterior, os actuais juízes de círculo, com provimento efectivo, de círculos judiciais extintos, bem como os juízes dos juízos cíveis extintos.
-
-3. No provimento dos lugares a criar de juízos criminais gozam de igual preferência, dentro do âmbito do respectivo distrito judicial, observados os requisitos referidos no número 1, os actuais juízes de círculo com provimento efectivo de círculos judiciais extintos, bem como os actuais juízes dos juízos correccionais extintos.
-
-4. No provimento, respectivamente, dos lugares de juízes privativos dos tribunais de competência especializada mista de família e menores e dos tribunais de trabalho gozam também de preferência, nos termos do número 1, os juízes colocados nos tribunais de menores e trabalho extintos.
-
-5. Sem prejuízo do referido no nº 1, gozam de preferência no provimento de lugares de tribunal de círculo e trabalho, no âmbito do respectivo círculo judicial, observados os requisitos previstos na lei, os juízes dos tribunais de competência genérica cujos juizos tenham sido extintos.
-
-6. Gozam ainda de preferência absoluta no primeiro provimento dos lugares de procurador da república nos círculos judiciais de Lisboa e Porto os actuais procuradores da república que exerçam funções nas áreas dos círculos judiciais de Almada, Matosinhos e Vila Nova de Gaia.
-
-7. Os juízes dos tribunais extintos que não aproveitem das preferências consignadas nos números anteriores gozam de preferência de segundo grau, na colocação para quaisquer tribunais do respectivo círculo judicial, desde que satisfaçam os requisitos previstos na lei.
-
-###### Artigo 62º — (Primeira classificação de Tribunais)
-
-Na primeira classificação de tribunais, a que se refere o artigo 1º, nº 5, a realizar após a entrada em vigor do presente regulamento não pode ser considerado de ingresso qualquer tribunal hoje classificado de acesso.
-
-###### Artigo 63º — (Provimento dos oficiais de justiça)
-
-Na colocação dos oficiais de justiça, cujos lugares tenham sido extintos por força do presente diploma, só é aplicável o regime do artigo 71º do Decreto-Lei nº 376/87, de 11 de Dezembro, caso não sejam providos em lugares que tenham requerido no primeiro movimento realizado após a entrada em vigor daquele diploma.
-
-###### Artigo 64º — (Território de Macau)
-
-Enquanto não for publicada lei própria, é aplicável no território de Macau o disposto no artigo 10.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro.
-
-###### Artigo 65º — (Encargos)
-
-No ano de 1988, os encargos decorrentes da execução do presente diploma, que não tenham cabimento no Orçamento do Estado do Ministério da Justiça, serão suportados pelo Gabinete de Gestão Financeira.
+> Alterado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira.
 

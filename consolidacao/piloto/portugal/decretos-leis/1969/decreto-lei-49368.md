@@ -7,6 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:216527:por
+    title: Rectificação
+    publication_date: '1969-12-17'
   - id: pt:dre:288622:por
     title: Decreto-Lei n.º 5/73
     publication_date: '1973-01-05'
@@ -16,6 +19,18 @@ consolidacao:
   - id: pt:dre:411624:por
     title: Decreto-Lei n.º 596/73
     publication_date: '1973-11-07'
+  - id: pt:dre:496757:por
+    title: Decreto-Lei n.º 355/87
+    publication_date: '1987-11-14'
+  - id: pt:dre:447294:por
+    title: Decreto-Lei n.º 26/71
+    publication_date: '1971-02-05'
+  - id: pt:dre:611704:por
+    title: Decreto-Lei n.º 147/89
+    publication_date: '1989-05-06'
+  - id: pt:dre:286492:por
+    title: Decreto-Lei n.º 375/77
+    publication_date: '1977-09-05'
 ---
 
 # Decreto-Lei n.º 49368
@@ -42,7 +57,9 @@ Foi, porém, na última década que ganhou corpo a ideia de se rever profundamen
 
 Assim, foi concebida uma estratégia de reforma do sector, a realizar por fases sucessivas e na qual se integra, como pedra angular, o presente diploma.
 
-O primeiro momento de reforma concretizou-se com a publicação do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964, que definiu as providências referidas pelo termo da concessão da Anglo-Portuguese Telephone Company, prevendo a transferência do respectivo estabelecimento para o Estado.
+O primeiro momento de reforma concretizou-se com a publicação do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964, que definiu as providências requeridas pelo termo da concessão da Anglo-Portuguese Telephone Company, prevendo a transferência do respectivo estabelecimento para o Estado.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 O segundo momento é assinalado com o [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, ao ordenar os estudos para a reforma orgânica dos CTT, prevendo a sua diferenciação dos órgãos tradicionais da administração pública.
 
@@ -186,7 +203,9 @@ a) O transporte e distribuição de missivas ou outras correspondências fechada
 
 b) A emissão e venda de selos e outros valores postais;
 
-c) O estabelecimento, gestão e exploração, para uso público, dos serviços previstos nas anteriores alíneas a) e b) dos sistemas de telecomunicações compreendidos no objecto da empresa e dos demais meios electro-magnéticos, ópticos, acústicos, pneumáticos ou de qualquer outra natureza, destinados à permutação de correspondências.
+c) O estabelecimento, gestão e exploração, para uso público, dos serviços previstos nas anteriores alíneas a) e b), dos sistemas de telecomunicações compreendidos no objecto da empresa e dos demais meios electro-magnéticos, ópticos, acústicos, pneumáticos ou de qualquer outra natureza, destinados à permutação de correspondências.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 2. O exclusivo previsto neste artigo não impede:
 
@@ -272,11 +291,9 @@ Art. 9.º - 1. O conselho de administração é composto por um presidente e por
 
 4. Os administradores serão nomeados por portaria conjunta do Ministro do Equipamento Social e do Ambiente e do Secretário de Estado dos Transportes e Comunicações.
 
-> Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
-
 5. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convocar.
 
-> Alterado pelo/a [Decreto-Lei n.º 5/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622), publicado em 1973-01-05.
+> Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
 
 Art. 10.º - (Revogado.)
 
@@ -286,17 +303,13 @@ Art. 11.º - 1. Competem ao conselho de administração todos os poderes necess�
 
 2. Compete também ao conselho de administração celebrar acordos com as administrações ou empresas congéneres sobre a execução dos serviços comuns, desde que se coadunem com a política de actuação dos CTT definida pelo Governo.
 
-> Alterado pelo/a [Decreto-Lei n.º 5/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622), publicado em 1973-01-05.
-
 3. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros os poderes que lhe são conferidos nos números anteriores.
 
 4. Nos regulamentos internos poderão ser desconcentrados poderes sempre sob reserva da superintendência do conselho de administração, para o qual será assegurado recurso hierárquico.
 
-> Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
-
 5. O exercício da competência do conselho de administração depende, nos casos previstos no presente estatuto, da anuência do conselho fiscal ou da aprovação do Governo.
 
-> Alterado pelo/a [Decreto-Lei n.º 5/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622), publicado em 1973-01-05.
+> Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
 
 Art. 12.º As delegações do conselho de administração estabelecerão, quando necessário, os limites e termos do exercício dos poderes delegados e especificarão quais os actos que terão de ser deliberados em reunião do conselho de administração, sendo os restantes decididos por despacho dos membros dele.
 
@@ -344,7 +357,9 @@ Art. 15.º - 1. O conselho fiscal terá uma reunião ordinária mensal e as reun
 
 Art. 16.º - 1. Compete ao conselho fiscal:
 
-a) Velar pelo cumprimento das leis aplicáveis ao funcionamento dos CTT e pela observância do presente estatuto;
+a) Velar pelo cumprimento das leis aplicáveis ao funcionamento dos CTT e pela observância do presente Estatuto;
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 b) Examinar periòdicamente a contabilidade da empresa e seguir, através de informações adequadas, a sua evolução;
 
@@ -464,7 +479,9 @@ Art. 24.º - 1. Dos actos praticados pela comissão executiva ou pelos seus memb
 
 Art. 25.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
 
-a) Precedendo resolução do Conselho de Ministros, nomear o correio-mor e o presidente do conselho geral e exonerá-los a seu pedido por conveniência de serviço;
+a) Precedendo resolução do Conselho de Ministros, nomear o correio-mor e o presidente do conselho geral e exonerá-los a seu pedido ou por conveniência de serviço;
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 b) Fixar o número de administradores-delegados;
 
@@ -526,7 +543,9 @@ b) Nomear o presidente do conselho disciplinar.
 
 ### CAPÍTULO III — Do pessoal
 
-Art. 26.º - 1. O pessoal dos CTT considera-se abrangido pelas disposições do artigo 36.º do Estatuto do Trabalho Nacional ([Decreto-Lei n.º 23548](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23548-1934-674657), de 23 de Setembro de 1933) e o seu regime jurídico será definido em regulamentos especiais.
+Art. 26.º - 1. O pessoal dos CTT considera-se abrangido pelas disposições do artigo 36.º do Estatuto do Trabalho Nacional ([Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), de 23 de Setembro de 1933) e o seu regime jurídico será definido em regulamentos especiais.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 2. Os referidos regulamentos serão elaborados pelo conselho de administração e estabelecerão para o pessoal um regime jurídico que se adapte às actividades específicas dos CTT e tenha em conta a diversidade de tarefas a que tais actividades obrigam. A aprovação desses regulamentos será dada em portaria conjunta dos Ministros das Comunicações e das Corporações e Previdência Social.
 
@@ -638,33 +657,9 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 3. Na fixação das taxas relativas aos serviços internacionais serão também tomadas em consideração as disposições aplicáveis dos tratados, convenções e acordos em vigor.
 
-Art. 35.º - 1. As taxas unitárias são fixadas em portaria firmada pelo Ministro das Comunicações, ouvido o Conselho de Ministros, correspondendo:
+Art. 35.º - (Revogado.)
 
-a) Nos serviços postais, ao porte mínimo da carta ordinária;
-
-b) Nos serviços telegráficos, ao custo de uma palavra ordinária da zona interna do regime metropolitano;
-
-c) Nos serviços telefónicos, ao custo de uma conversação local com o mínimo de duração.
-
-2. São fixados pelo Ministro das Comunicações, de acordo com o disposto no presente Estatuto e disposições regulamentares:
-
-a) Os coeficientes de tarifação dos serviços metropolitanos;
-
-b) As taxas dos CTT do serviço nacional ultramarino e do serviço internacional;
-
-c) As quotas-partes das taxas dos CTT dos serviços referidos na alínea anterior que não constem dos respectivos tratados, convenções ou acordos ou aí não estejam especificadas;
-
-d) As taxas aplicáveis aos licenciamentos da competência dos CTT;
-
-e) Os demais preços necessários ao estabelecimento dos sistemas tarifários dos CTT.
-
-3. Os quantitativos das taxas obtidas por aplicação de coeficientes de tarifação ou que resultem da conversão de moeda estrangeira são arredondados, quando necessário, nos termos que forem aprovados pelo Ministro das Comunicações.
-
-4. Em casos de reconhecida urgência, mediante proposta do conselho de administração, o Ministro das Comunicações pode aprovar, a título provisório, alterações de taxas ou novas taxas, com excepção das unitárias a que se refere o n.º 1. A aprovação definitiva depende de parecer do conselho geral, a obter na primeira reunião que se verificar após a aprovação provisória.
-
-5. Os tarifários dos CTT são constituídos pelas tabelas de taxas ou preços determinados nos termos dos números anteriores deste artigo.
-
-6. Salvas as excepções a que alude o artigo seguinte, a execução pelos CTT dos serviços tabelados depende do pagamento das taxas correspondentes que estiverem em vigor. As alterações dessas taxas ou qualquer nova taxa, ainda que fixadas a título provisório, só vigoram a partir do dia seguinte ao da sua publicação no Diário do Governo, ou em data posterior, se assim for determinado.
+> Alterado pelo/a [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), publicado em 1987-11-14.
 
 Art. 36.º - 1. São mantidas as isenções e reduções de taxas concedidas pelas leis em vigor. O Presidente da República, o Presidente do Conselho de Ministros, o Presidente da Assembleia Nacional, o Presidente da Câmara Corporativa, o Presidente do Supremo Tribunal de Justiça, os Ministros, os Secretários de Estado, os Subsecretários de Estado, o Procurador-Geral da República, o Presidente do Supremo Tribunal Administrativo, os membros dos conselhos de administração e fiscal dos CTT e o presidente e o vice-presidente do conselho geral podem utilizar gratuitamente os serviços nacionais de telecomunicações. As gratuitidades e isenções a estabelecer para o pessoal dos CTT serão fixadas em regulamento interno.
 
@@ -738,7 +733,9 @@ Art. 44.º - 1. Anualmente serão elaborados, com referencia ao dia 31 de Dezemb
 
 3. O inventário e a conta de exploração baseada na receita e na despesa liquidadas estarão patentes à consulta dos membros do conselho geral de 15 de Maio a 12 de Junho seguinte, podendo os referidos membros solicitar aos serviços todos os esclarecimentos que, acerca desses documentos, julguem necessários.
 
-Art. 45.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 por cento, pelo menos, a reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
+Art. 45.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo 5 por cento, pelo menos, à reserva geral, 20 por cento ao Estado, a título de participação nos lucros da empresa, e dispondo do remanescente consoante o estabelecido nos números seguintes.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 2. Se a diminuta importância de lucro ou as previsões do próximo exercício o aconselharem, será levado o remanescente a conta nova.
 
@@ -802,7 +799,9 @@ f) À suspensão temporária, total ou parcial, por determinação do Governo, d
 
 g) À protecção das suas instalações e do seu pessoal;
 
-h) Ao uso público dos serviços, à sua fiscalização, definição de infracções respectivas e à aplicação das consequentes penalidades,
+h) Ao uso público dos serviços, à sua fiscalização, à definição de infracções respectivas e à aplicação das consequentes penalidades,
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1969-216527), publicado em 1969-12-17.
 
 i) À fiscalização radioeléctrica e às intimações, aplicação de sanções e demais actos daquela resultantes;
 
@@ -816,13 +815,9 @@ j) À responsabilidade civil extracontratual.
 
 Art. 54.º O serviço internacional de correios e telecomunicações rege-se pelos tratados, convenções e acordos celebrados pelo Estado Português, observados os preceitos legais aplicáveis.
 
-Art. 55.º Continuam sujeitas ao condicionalismo legal e demais formalidades em que se fundamentaram, com referência a 1 de Janeiro de 1970:
+Art. 55.º - (Revogado.)
 
-a) As aquisições de material já autorizadas;
-
-b) As pequenas obras, já adjudicadas, de conservação, reparação ou simples arranjo de edifícios;
-
-c) As empreitadas e os projectos das obras a que se refere o [Decreto-Lei n.º 40747](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40747-1956-232938), de 31 de Agosto de 1956, que já tenham sido objecto de contrato.
+> Alterado pelo/a [Decreto-Lei n.º 26/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1971-447294), publicado em 1971-02-05.
 
 Art. 56.º - 1. A transferência para os Correios e Telecomunicações de Portugal dos imóveis, veículos, instalações e demais bens que integram a universalidade do estabelecimento a cargo da Administração-Geral dos Correios, Telégrafos e Telefones, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força do artigo 3.º, n.º 1, do presente Estatuto, o qual constituirá título suficiente para todos os efeitos legais, inclusive os de registo.
 
@@ -856,19 +851,13 @@ Art. 61.º Transitòriamente, o presidente do conselho geral, a pedido do presid
 
 Art. 62.º Enquanto não forem estabelecidas, nos termos do presente Estatuto, as remunerações dos membros dos conselhos de administração e fiscal, os seus ordenados e gratificações mensais serão os que se encontram fixados para os Telefones de Lisboa e Porto.
 
-Art. 63.º - 1. A partir de 1 de Janeiro de 1970 o conselho de administração, a comissão executiva e o conselho fiscal dos CTT ficam investidos, respectivamente, em todos os poderes e deveres atribuídos por lei ao conselho de administração, à comissão executiva e ao conselho fiscal dos TLP, considerando-se estes órgãos dissolvidos na mesma data.
+Art. 63.º - (Revogado.)
 
-O exercício destas funções não dá direito a quaisquer remunerações suplementares.
+> Alterado pelo/a [Decreto-Lei n.º 147/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1989-611704), publicado em 1989-05-06.
 
-2. Após a data referida no número anterior, a resolução do expediente diário dos TLP competirá ao membro da comissão executiva dos CTT que, para esse efeito, for designado pelo correio-mor, o qual será coadjuvado por servidores desta última empresa, no máximo de quatro, nas condições que forem fixadas pelo conselho de administração.
+Art. 64.º - (Revogado.)
 
-3. Os TLP comparticiparão nos encargos de gestão das duas empresas nas condições que forem estabelecidas pelo conselho de administração com o acordo do conselho fiscal.
-
-4. Constituirá receita dos CTT a participação nos lucros atribuída pelo conselho geral dos TLP aos membros do conselho de administração desta empresa.
-
-Art. 64.º - 1. A partir de 1 de Janeiro de 1970 o presidente e os vogais do conselho fiscal dos TLP passam, independentemente de quaisquer formalidades, respectivamente, a presidente e vogais do conselho fiscal dos CTT.
-
-2. O primeiro mandato dos membros do conselho fiscal poderá ser fixado para cada um deles, pelos Ministros das Comunicações e das Finanças, conjuntamente, entre dois a cinco anos.
+> Alterado pelo/a [Decreto-Lei n.º 147/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1989-611704), publicado em 1989-05-06.
 
 Art. 65.º Até que seja considerada oportuna a sua integração nos CTT, a exploração dos serviços de comunicações telefónicas e telecomunicações complementares nas áreas de Lisboa e Porto e seus arredores será assegurada pela empresa Telefones de Lisboa e Porto, nos termos do seu Estatuto.
 
@@ -1002,7 +991,9 @@ Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos ser
 
 2. Poderão contrair empréstimos a curto ou a médio prazo em estabelecimentos bancários nacionais ou estrangeiros para antecipação de receitas, aquisição de material ou de prédios e maneio de tesouraria.
 
-3. Os aumentos de taxas consentidos pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469) serão cobrados pelos TLP com consignação para o serviço da dívida contraída para com a antiga concessionária, podendo os saldos que eventualmente se apurarem em cada ano e que pertencem ao Estado ser aplicados no financiamento de investimentos dos próprios TLP, desde o início da actividade destes, mediante autorização e nas condições fixadas pelo Ministro das Finanças.
+3. O produto dos aumentos de taxas consentidas pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964 (Fundo de aquisição), cobrado a partir de 1 de Janeiro de 1976, será contabilizado nas receitas de exploração a partir dessa mesma data.
+
+> Alterado pelo/a [Decreto-Lei n.º 375/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1977-286492), publicado em 1977-09-05.
 
 4. Os TLP pagarão ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração, a qual constituirá encargo da respectiva conta e será liquidada mensalmente.
 

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "pt:dre:485631:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DLR 13/2011 art 3.º: n.º 1 passa a 75 milhões; n.º 2 mantém-se"
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DLR 11/2011 art 1.º: 390 milhões"
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DLR 5/2012 art 16.º n.º 2: alínea a) nova redação, alínea b) mantém-se"
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DLR 31-A/2013 (0,07 %) depois DLR 18/2014 art 20.º n.º 2: 0,085 % e 0,00010 % a 0,00030 %"
+   },
+   {
+    "artigo": "Artigo 24.º-A",
+    "veredicto": "certo",
+    "motivo": "DLR 18/2014 art 20.º n.º 3: aditado, texto igual"
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DLR 13/2011 art 3.º: novo n.º 3, anterior 3 passa a 4; n.os 1 e 2 mantêm-se"
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "DLR 4/2011 art 1.º (n.os 2 a 5) e DLR 13/2011 art 3.º (novo n.º 3, renumeração 4 a 6): consolidado corresponde"
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "DLR 13/2011 art 3.º: n.º 1 mantém-se, novos n.os 2 a 5, anterior n.º 2 passa a 6 com nova alínea a); b) e c) mantêm-se"
+   },
+   {
+    "artigo": "Artigo 50.º-A",
+    "veredicto": "certo",
+    "motivo": "DLR 13/2011 art 4.º (aditamento, n.os 3 e 4 mantidos) com n.os 1, 2 e 5 a 7 da redação do DLR 28/2013 art 4.º; n.os 3 e 4 são os do DLR 13/2011 ('...' no DLR 28/2013)"
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "DLR 13/2011 art 3.º: n.º 1 com alíneas a) a e), novo n.º 2, anteriores 2 a 5 passam a 3 a 6; epígrafe 'serviço' do original mantida"
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "DLR 4/2011 art 1.º: novos n.os 5 e 6, anterior n.º 6 passa a 7; n.os 1 a 4 mantêm-se"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 13/2011 art 1.º: substituição dos mapas II a IX",
+    "motivo": "só em imagem; o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DLR 13/2011 art 2.º: cativações orçamentais adicionais",
+    "motivo": "norma própria do alterador, sem nova redação de artigos do original"
+   },
+   {
+    "instrucao": "DLR 1/2012 art 2.º: percentagem de 15 % do subsídio de insularidade referido na alínea a) do artigo 61.º",
+    "motivo": "não textual: fixa a percentagem sem dar nova redação; o preâmbulo mostra que a alínea apenas remete para outros diplomas; revogado depois pelo DLR 17/2015/M"
+   },
+   {
+    "instrucao": "DLR 5/2012 art 40.º, DLR 31-A/2013 art 43.º: manutenção em vigor de n.os dos artigos 49.º, 50.º-A e 54.º",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DLR 5/2012 art 15.º/17.º, DLR 28/2013 art 2.º/5.º, DLR 11/2011 art 2.º, DLR 1/2012 art 3.º: alterações a outros diplomas (DLR 14/2010, 34/2008, 42/2012, 24/2002, 2/92/M)",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DLR 5/2012 art 15.º n.º 1 e DLR 31-A/2013 art 19.º: prorrogação/manutenção da derrama regional",
+    "motivo": "não textual: prorrogação"
+   },
+   {
+    "instrucao": "DLR 31-A/2013 art 20.º n.º 1, DLR 18/2014 art 20.º n.º 1 e DLR 17/2015, 33/2016, 42-A/2016: prorrogação da contribuição sobre o setor bancário",
+    "motivo": "não textual: prorrogação (os três últimos vêm sem texto na vista)"
+   },
+   {
+    "instrucao": "DRR 8/2011/M: manutenção da expressão orçamental da orgânica do Governo Regional",
+    "motivo": "não textual; o diploma vem sem texto na vista, não traz texto de alteração"
+   }
+  ]
+ }
+]

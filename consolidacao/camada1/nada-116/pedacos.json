@@ -1,0 +1,19 @@
+[
+ {
+  "pedaco": 1,
+  "ids": [
+   "pt:dre:234698:por",
+   "pt:dre:522859:por",
+   "pt:dre:541267:por"
+  ],
+  "chars": 80643
+ },
+ {
+  "pedaco": 2,
+  "ids": [
+   "pt:dre:643342:por",
+   "pt:dre:645280:por"
+  ],
+  "chars": 123564
+ }
+]

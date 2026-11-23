@@ -1,87 +1,941 @@
 [
   {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — (Conceito)\n\nO Instituto Nacional de Meteorologia e Geofísica, adiante designado abreviadamente por INMG, é um organismo dotado de autonomia administrativa, responsável pelas actividades nacionais e relações internacionais nos domínios da meteorologia e geofísica, actuando na dependência do Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 1.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — (Objectivos)\n\nA actividade do INMG deverá ser orientada de forma a satisfazer os seguintes objectivos principais:\n\na) Salvaguarda de vidas humanas no mar, no ar e em terra;\n\nb) Apoio às actividades económicas nacionais, designadamente nos domínios da agricultura, silvicultura, pecuária, pesca, transportes e comunicações e indústrias extractivas e transformadoras, merecendo especial relevo a meteorologia agrícola e a meteorologia marítima;\n\nc) Protecção do ambiente e participação na gestão dos recursos hídricos;\n\nd) Apoio a outras actividades económico-sociais e aproveitamentos energéticos;\n\ne) Desenvolvimento das relações internacionais nos domínios da meteorologia e da geofísica, intensificando a cooperação com todos os países, com particular relevância para os de língua portuguesa.",
+    "depois": "###### Artigo 2.º — (Objectivos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Atribuições)\n\nSão atribuições do INMG:\n\na) A instalação, manutenção e desenvolvimento das redes de estações destinadas à execução das observações meteorológicas e geofísicas;\n\nb) A recolha, arquivo e divulgação dos resultados das observações meteorológicas e geofísicas, para satisfação das necessidades nacionais e compromissos internacionais nestes domínios;\n\nc) A análise, interpretação e previsão dos fenómenos meteorológicos e geofísicos e a divulgação dos resultados;\n\nd) A execução, por si ou em colaboração com outras entidades, de estudos e investigações nos domínios da meteorologia e geofísica;\n\ne) A promoção do ensino e desenvolvimento da investigação nos domínios da meteorologia e geofísica e a instrução do seu pessoal;\n\nf) A prossecução ou coordenação das diligências necessárias para o cumprimento das obrigações internacionais, de carácter técnico e científico, assumidas pela Nação nos campos da meteorologia e da geofísica.",
+    "depois": "###### Artigo 3.º — (Atribuições)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — (Competência)\n\nPara o desempenho das suas atribuições, compete ao INMG:\n\na) Planear e instalar estações terrestres para execução de observações meteorológicas e geofísicas, com carácter permanente ou temporário, convenientemente localizadas no território nacional, e assegurar o seu funcionamento;\n\nb) Promover a instalação de estações para execução de observações meteorológicas e geofísicas a bordo de navios nacionais, para este fim designados, e fiscalizar o seu funcionamento;\n\nc) Promover e coordenar a execução de observações meteorológicas e geofísicas a bordo das aeronaves nacionais;\n\nd) Coordenar e apoiar a instalação de estações de observação meteorológica e geofísica de outras entidades oficiais ou particulares em território nacional;\n\ne) Promover a aquisição, aferição, calibração, construção e reparação dos instrumentos meteorológicos e geofísicos destinados às estações referidas na alínea a) deste artigo e a aferição, calibração, reparação e eventual aquisição dos instrumentos meteorológicos e geofísicos destinados às estações referidas nas alíneas b), c) e d) antecedentes;\n\nf) Registar, recolher, arquivar, tratar, publicar e divulgar os resultados das observações meteorológicas e geofísicas;\n\ng) Instalar e assegurar o funcionamento de centros de análise e previsão meteorológica para fins gerais ou para fins específicos julgados convenientes;\n\nh) Elaborar e difundir comunicados com as informações sobre os fenómenos meteorológicos e geofísicos, assim como previsões do tempo, quer para fins gerais, quer para fins específicos;\n\ni) Executar estudos e investigações nos domínios da meteorologia e geofísica, por forma a dar satisfação às necessidades nacionais e aos compromissos internacionais e contribuir para o desenvolvimento científico naqueles domínios;\n\nj) Coordenar e apoiar tecnicamente os estudos e trabalhos relacionados com a meteorologia e geofísica efectuados por outras entidades;\n\nk) Reunir e promover a publicação dos estudos e trabalhos de meteorologia e geofísica em que se reconheça interesse;\n\nl) Recrutar o seu pessoal e promover a sua instrução;\n\nm) Colaborar no ensino nos domínios da meteorologia e geofísica a cargo de outras entidades;\n\nn) Assegurar a unidade de orientação e métodos nos estudos e trabalhos nos domínios da meteorologia e geofísica no território nacional, elaborando instruções, fixando terminologia e estabelecendo normas;\n\no) Promover a realização de reuniões em que participem utilizadores e/ou representantes de outros serviços públicos com vista a aumentar a eficiência do serviço.",
+    "depois": "###### Artigo 4.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
     "artigo": "4.º-A",
     "operacao": "aditar",
     "regra": "llm",
     "antes": "",
-    "depois": "###### Artigo 4.º-A — Receitas\n\nConstituem receitas do Instituto Nacional de Meteorologia e Geofísica, sendo por este directamente geridas, as comparticipações financeiras, subsídios ou donativos que lhe sejam atribuídos por qualquer entidade pública ou privada, nacional ou estrangeira, destinados a projectos de investigação e desenvolvimento no âmbito da meteorologia e da geofísica.\n\n> Aditado pelo/a [Decreto-Lei n.º 297/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1988-379918), publicado em 1988-08-24.",
+    "depois": "###### Artigo 4.º-A — Receitas\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "5.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 5.º — (Execução de trabalhos meteorológicos para fim especial)\n\n1. A recolha por outras entidades oficiais ou particulares de elementos meteorológicos que o INMG não possa fornecer depende de autorização prévia deste.\n\n2. O plano de instalações e trabalhos e as características do material a empregar serão submetidos à aprovação do INMG, competindo a este fixar as condições especiais de execução dos trabalhos, prestar às entidades autorizadas a assistência técnica de que careçam, acompanhar a execução dos trabalhos e, se assim o entender, aproveitar os seus resultados para fins de interesse geral.\n\n3. As entidades autorizadas darão todas as facilidades para que o INMG possa acompanhar e fiscalizar a execução dos trabalhos e verificar as condições técnicas das instalações e do material.\n\n4. Quando os trabalhos sejam executados pelo próprio INMG para entidades oficiais e particulares com receitas próprias ou que tenham a seu cargo explorações industriais, aqueles serão pagos de harmonia com tabela aprovada por despacho ministerial, constituindo as importâncias pagas receita do Estado.\n\n5. As autorizações a que se refere o presente artigo serão concedidas pelo conselho de gestão, podendo cessar em qualquer momento.",
-    "depois": "###### Artigo 5.º — (Execução de trabalhos meteorológicos para fim especial)\n\n1. A recolha por outras entidades oficiais ou particulares de elementos meteorológicos que o INMG não possa fornecer depende de autorização prévia deste.\n\n2. O plano de instalações e trabalhos e as características do material a empregar serão submetidos à aprovação do INMG, competindo a este fixar as condições especiais de execução dos trabalhos, prestar às entidades autorizadas a assistência técnica de que careçam, acompanhar a execução dos trabalhos e, se assim o entender, aproveitar os seus resultados para fins de interesse geral.\n\n3. As entidades autorizadas darão todas as facilidades para que o INMG possa acompanhar e fiscalizar a execução dos trabalhos e verificar as condições técnicas das instalações e do material.\n\n4 - Quando os trabalhos sejam executados pelo próprio INMG para entidades oficiais e particulares com receitas próprias ou que tenham a seu cargo explorações industriais, aqueles serão pagos de harmonia com a tabela aprovada por despacho do ministro da tutela, constituindo as importâncias pagas receitas do INMG e servindo estas de contrapartida às despesas a realizar com a execução de tais trabalhos.\n\n5. As autorizações a que se refere o presente artigo serão concedidas pelo conselho de gestão, podendo cessar em qualquer momento.\n\n> Alterado pelo/a [Decreto-Lei n.º 213/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1985-182033), publicado em 1985-06-27.",
+    "depois": "###### Artigo 5.º — (Execução de trabalhos meteorológicos para fim especial)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — (Fornecimento de dados meteorológicos)\n\n1. O fornecimento de informações, previsões e avisos de carácter meteorológico às entidades públicas e particulares é da competência exclusiva do INMG.\n\n2. Os outros serviços ou entidades só poderão publicar informações meteorológicas fornecidas ou aprovadas pelo INMG ou extraídas das publicações deste com a indicação da origem dessas mesmas informações.\n\n3. O INMG fornecerá aos estabelecimentos militares e aos serviços oficiais interessados as cartas diárias do tempo e informações meteorológicas eventuais que forem solicitadas pelos comandos e direcções superiores desses estabelecimentos e serviços.\n\n4. Para que possam içar os respectivos sinais, os avisos de mau tempo serão comunicados directamente às capitanias dos portos, delegações e postos semafóricos da costa, competindo ao Ministério de que dependem fornecer àqueles os sinais de mau tempo de modelo oficial.",
+    "depois": "###### Artigo 6.º — (Fornecimento de dados meteorológicos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — (Utilização de redes de telecomunicações de outros serviços ou entidades)\n\nO INMG utilizará normalmente as redes de telecomunicações de outros organismos do Estado e de entidades que com este tenham contratos, dentro do critério geral do aproveitamento económico de instalações e de pessoal, mas de modo a satisfazer inteiramente as necessidades dos serviços meteorológicos e os compromissos internacionais.",
+    "depois": "###### Artigo 7.º — (Utilização de redes de telecomunicações de outros serviços ou entidades)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — (Relações com outros serviços ou entidades)\n\n1. Para o bom desempenho das atribuições que lhe são cometidas pelo presente diploma, o INMG articulará a sua acção com outros serviços ou entidades, quer nacionais ou estrangeiras, públicas ou privadas, civis ou militares, que de qualquer modo se ocupem ou interessem por assuntos de meteorologia ou de geofísica.\n\n2. Sempre que se mostre necessário, poderá o INMG contactar com os referidos serviços ou entidades com o objectivo de adquirir e permutar conhecimentos e experiências sobre todos os assuntos da sua especialidade e, ainda, em casos especiais e mediante despacho ministerial, com vista à realização de estudos, inquéritos ou outros trabalhos de carácter eventual.\n\n3. O INMG relacionar-se-á, directa e permanentemente, com a Organização Meteorológica Mundial relativamente a questões de carácter técnico e científico nos campos da meteorologia e da geofísica.\n\n4. As relações entre o INMG e os serviços ou entidades referidas neste artigo, designadamente os institutos universitários de meteorologia e de geofísica, serão objecto de legislação especial.",
+    "depois": "###### Artigo 8.º — (Relações com outros serviços ou entidades)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — (Estrutura geral do INMG)\n\n1. O INMG compreenderá:\n\na) Órgãos;\n\nb) Serviços;\n\nc) Estabelecimentos.\n\n2. São órgãos do INMG:\n\na) O director;\n\nb) O conselho de gestão;\n\nc) O conselho geral;\n\nd) O conselho técnico do Serviço de Meteorologia;\n\ne) O conselho técnico do Serviço de Geofísica;\n\nf) O conselho técnico do Serviço de Apoio Técnico.\n\n3. São serviços do INMG:\n\na) Os serviços técnicos e de apoio técnico;\n\nb) Os serviços regionais;\n\nc) Os serviços de administração;\n\nd) O Departamento de Telecomunicações Meteorológicas;\n\ne) O Departamento de Informática.\n\n4. Os estabelecimentos do INMG compreendem observatórios, estações, centros e postos necessários à execução dos serviços a seu cargo.\n\n5. A organização dos serviços do INMG poderá ser alterada de acordo com o disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.\n\n6. Com vista à realização de estudos ou outras tarefas necessárias à prossecução dos objectivos do INMG, poderão constituir-se, no âmbito deste, e por iniciativa dos diversos órgãos ou serviços, os grupos de trabalho que se considerem indispensáveis, integrando elementos daqueles, com audição prévia dos respectivos responsáveis interessados.",
+    "depois": "###### Artigo 9.º — (Estrutura geral do INMG)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — (Conceito)\n\n1. O director, com a categoria de director-geral, dirigirá o INMG dentro da orientação estabelecida pelo Governo e em estreita articulação com os restantes órgãos do mesmo Instituto.",
+    "depois": "###### Artigo 10.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — (Competência)\n\n1. Ao director do INMG compete especialmente o seguinte:\n\na) Presidir ao conselho de gestão e ao conselho geral;\n\nb) Assegurar as relações do INMG com o Governo;\n\nc) Assegurar o funcionamento do INMG dentro da orientação definida pelo Governo, conselho geral e conselho de gestão, no âmbito das suas competências;\n\nd) Promover a execução das deliberações que vinculem o INMG:\n\ne) Assegurar a representação do INMG junto de outros serviços e entidades nacionais, estrangeiras e internacionais, designadamente junto da Organização Meteorológica Mundial.\n\n2. No exercício da sua competência, o director será coadjuvado por dois subdirectores, com a categoria de subdirectores-gerais, a quem compete:\n\na) Exercer as funções que lhe forem delegadas pelo director;\n\nb) Substituir o director nas suas ausências e impedimentos;\n\nc) Participar nos trabalhos do conselho de gestão e do conselho geral do INMG.",
+    "depois": "###### Artigo 11.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — (Conceito)\n\nO conselho de gestão é um órgão de gestão do INMG, com a competência definida no artigo 14.º",
+    "depois": "###### Artigo 12.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — (Constituição)\n\n1. O conselho de gestão é constituído pelos elementos do INMG seguintes:\n\na) Director;\n\nb) Subdirectores;\n\nc) Directores de serviços;\n\nd) Director dos serviços de administração.\n\n2. A composição do conselho de gestão poderá ser alterada por portaria do Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 13.º — (Constituição)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — (Competência)\n\nAo conselho de gestão compete:\n\na) Pronunciar-se sobre todos os assuntos que lhe sejam cometidos pelo director;\n\nb) Aplicar, em conformidade com a competência que lhe venha a ser delegada, as penas dos n.os 3.º, 4.º, 5.º e 6.º do artigo 11.º do [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, ouvido o conselho geral;\n\nc) Autorizar, para além da competência legal do director e em conformidade com a competência que lhe venha a ser delegada, no âmbito do orçamento ordinário, despesas com obras ou com aquisições de material, bem como autorizar despesas de idêntica natureza, com dispensa de realização de concursos e de celebração de contrato escrito;\n\nd) Exarar nos processos de movimento de pessoal despachos subsequentes à abertura de concursos, admissão, nomeação, promoção ou transferência, designadamente a homologação dos actos dos júris e das listas de classificação e provimento de vagas;\n\ne) Deslocar funcionários dentro dos quadros a que pertencerem, bem como prorrogar ou renovar anualmente os contratos de pessoal;\n\nf) Conceder licenças a funcionários, com excepção da licença ilimitada e licença sem vencimento;\n\ng) Conceder ou revogar autorizações de residência em localidade diversa daquela onde os servidores do Estado exerçam as suas funções ou que esteja fixada para centro da sua actividade profissional;\n\nh) Autorizar os funcionários a tomarem posse em local diferente daquele em que foram colocados;\n\ni) Conceder aos funcionários dos serviços externos o direito ao vencimento a partir da data da posse, independentemente da entrada em exercício das novas funções;\n\nj) Dirigir-se aos vários departamentos do Estado e ainda a quaisquer entidades públicas ou particulares para efeitos da obtenção de todos os elementos que julgarem necessários à instrução dos processos.",
+    "depois": "###### Artigo 14.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — (Delegação de competência)\n\nPara além das atribuições referidas no artigo anterior, o Ministro dos Transpores e Comunicações poderá delegar no conselho de gestão outras funções que a lei lhe permita delegar nos directores-gerais.",
+    "depois": "###### Artigo 15.º — (Delegação de competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º — (Funcionamento)\n\n1. O conselho de gestão só poderá deliberar com a presença de, pelo menos, quatro dos seus membros, cabendo ao respectivo presidente, em todas as circunstâncias, voto de qualidade.\n\n2. O conselho de gestão reunirá:\n\na) Ordinariamente, uma vez por mês;\n\nb) Extraordinariamente, mediante convocação do director ou a pedido de qualquer dos seus membros.\n\n3. Todas as reuniões serão secretariadas por um funcionário do INMG, para o efeito designado pelo director.\n\n4. As deliberações constarão de acta da reunião em que foram tomadas e só por ela podem ser provadas.\n\n5. As actas podem ser aprovadas:\n\na) No final da reunião;\n\nb) Na reunião seguinte.\n\n6. As actas são assinadas por todos os membros presentes às reuniões a que respeitam e podem ser exaradas:\n\na) Em livro próprio;\n\nb) Em folhas soltas, que serão arquivadas por ordem cronológica.\n\n7. Sem prejuízo do disposto no presente diploma e seus regulamentos, as normas de funcionamento interno do conselho de gestão poderão por este ser estabelecidas, carecendo de aprovação do Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 16.º — (Funcionamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — (Conceito)\n\nConselho geral é um órgão consultivo, de coordenação, planeamento e contrôle do INMG.",
+    "depois": "###### Artigo 17.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — (Constituição)\n\n1. O conselho geral será constituído pelos elementos do INMG seguintes:\n\na) Director;\n\nb) Subdirectores;\n\nc) Directores de serviço;\n\nd) Director dos serviços de administração;\n\ne) Directores dos serviços regionais;\n\nf) Chefes de repartição;\n\ng) Coordenadores dos departamentos;\n\nh) Seis elementos designados pela estrutura representativa dos trabalhadores do INMG.\n\n2. A composição do conselho geral poderá ser alterada por portaria do Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 18.º — (Constituição)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — (Competência)\n\n1. Ao conselho geral compete pronunciar-se sobre:\n\na) Os planos plurianuais de actividade, submetendo-os à aprovação superior;\n\nb) O plano anual de actividade e o orçamento relativo a cada ano, submetendo-os à aprovação superior;\n\nc) O relatório de actividade do INMG;\n\nd) Quaisquer assuntos de interesse para o INMG, podendo emitir os pareceres ou recomendações que considere convenientes;\n\ne) A revisão fundamentada de dotação do pessoal do INMG;\n\nf) Os regulamentos dos concursos e dos cursos de formação;\n\ng) Os quantitativos do subsídio de transporte a que se refere a alínea c) do n.º 2 do artigo 89.º, submetendo-os à aprovação superior;\n\nh) O destacamento de pessoal do INMG para outros serviços ou entidades, bem como as condições em que se efectuará, submetendo-o à aprovação superior;\n\ni) O destacamento, temporário, para o INMG de técnicos de outros departamentos, submetendo-o à aprovação superior;\n\nj) As condições especiais de isolamento que dão direito a compensação de vencimento, submetendo-as a aprovação superior;\n\nk) A tabela a que se refere o n.º 4 do artigo 5.º deste diploma, submetendo-a a aprovação superior;\n\nl) O funcionamento dos departamentos pela forma estabelecida no n.º 3 do artigo 25.º deste diploma;\n\nm) As actividades de interesse local a prosseguir pelos serviços regionais, que não estejam atribuídas pelo presente diploma aos diversos serviços do INMG;\n\nn) Quaisquer assuntos que lhe sejam submetidos pelo Ministro dos Transportes e Comunicações, pelos restantes órgãos do Instituto ou por qualquer dos membros do próprio conselho geral.\n\n2. As deliberações relativas às alíneas do número antecedente carecem de aprovação ministerial, salvo quanto à alínea l).",
+    "depois": "###### Artigo 19.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º — (Funcionamento)\n\n1. O conselho geral só poderá deliberar com a presença de, pelo menos, dois terços dos seus membros, cabendo ao respectivo presidente, em todas as circunstâncias, voto de qualidade.\n\n2. Sempre que tal for julgado conveniente e nos termos que vierem a ser definidos em regulamento interno, pode o conselho geral funcionar por secções ou grupos de trabalho.\n\n3. O conselho geral reunirá:\n\na) Ordinariamente e em plenário, duas vezes por ano;\n\nb) Extraordinariamente, mediante convocação do director, por iniciativa deste ou a pedido de, pelo menos, um terço dos seus membros.\n\n4. Todas as reuniões serão secretariadas por um técnico do INMG, para o efeito designado pelo director.\n\n5. Sem prejuízo do disposto no presente diploma e seus regulamentos, as normas de funcionamento interno do conselho geral poderão ser por este estabelecidas, carecendo de aprovação por despacho do Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 20.º — (Funcionamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "21.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º — (Participação)\n\nSempre que a sua presença seja considerada útil, podem ser solicitados a participar ou fazer-se representar nas sessões do conselho geral outras entidades não previstas no artigo 18.º",
+    "depois": "###### Artigo 21.º — (Participação)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "22.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º — (Conceito)\n\nOs conselhos técnicos são órgãos consultivos, de coordenação e planeamento da actividade técnica dos respectivos serviços do INMG, dentro da orientação superiormente estabelecida e tendo em atenção as necessidades dos departamentos que integram aqueles mesmos serviços.",
+    "depois": "###### Artigo 22.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "23.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º — (Constituição)\n\n1. Os conselhos técnicos terão a constituição seguinte:\n\na) Director do respectivo serviço, que presidirá;\n\nb) Coordenadores de todos os departamentos que integrem o serviço.\n\n2. Aos conselhos técnicos poderão assistir o director e os subdirectores, sempre que estes o julguem conveniente, tomando nesse caso a presidência da sessão.",
+    "depois": "###### Artigo 23.º — (Constituição)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — (Funcionamento)\n\nSem prejuízo do disposto no presente diploma e seus regulamentos, o funcionamento dos conselhos técnicos pode ser regulado pelas normas de funcionamento interno estabelecidas pelo conselho geral, carecendo de aprovação pelo Ministro dos Transportes e Comunicações.",
+    "depois": "###### Artigo 24.º — (Funcionamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "25.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 25.º — (Estrutura)\n\n1. Os serviços técnicos e de apoio técnico compreendem:\n\na) O Serviço de Meteorologia;\n\nb) O Serviço de Geofísica:\n\nc) O Serviço de Apoio Técnico.\n\n2. Os serviços referidos no número antecedente serão integrados por departamentos.\n\n3. O conselho geral poderá, quando o julgar conveniente, deliberar que dois ou mais departamentos passem a funcionar, em todos os aspectos, como se se tratasse de um departamento único.",
+    "depois": "###### Artigo 25.º — (Estrutura)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "26.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 26.º — (Competência dos directores dos serviços técnicos e de apoio)\n\nCada serviço técnico terá um director, a quem compete, em especial:\n\na) Assegurar o funcionamento do serviço que dirige, promovendo a execução das decisões superiores;\n\nb) Estabelecer as relações orgânicas dos departamentos com o director e o conselho de gestão;\n\nc) Participar nos trabalhos do conselho geral e do conselho de gestão e presidir ao conselho técnico do respectivo serviço.",
+    "depois": "###### Artigo 26.º — (Competência dos directores dos serviços técnicos e de apoio)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "27.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 27.º — (Competência dos coordenadores dos departamentos)\n\nCada departamento terá um coordenador, a quem compete, em especial:\n\na) Assegurar o funcionamento do respectivo departamento, subordinando-o à orientação geral definida superiormente;\n\nb) Estabelecer as relações do departamento que coordena com o director do respectivo serviço e com todos os outros departamentos do INMG;\n\nc) Representar o departamento no conselho geral e no respectivo conselho técnico.",
+    "depois": "###### Artigo 27.º — (Competência dos coordenadores dos departamentos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "28.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 28.º — (Competência dos departamentos, em geral)\n\n1. Compete aos departamentos, em geral:\n\na) Coordenar tecnicamente e propor medidas de política departamental e geral;\n\nb) Satisfazer consultas e preparar documentos oficiais solicitados;\n\nc) Planear a rede de estações, promover observações especiais, assim como estudar e recomendar instrumentos especiais;\n\nd) Promover a aquisição, reparação, afinação calibração, aferição comparação e construção dos instrumentos;\n\ne) Preparar a publicação dos estudos, boletins e outros trabalhos executados;\n\nf) Colaborar na instrução do pessoal do INMG ou de outras entidades;\n\ng) Representar o INMG, com a aprovação do conselho de gestão, nos organismos e nas reuniões de carácter nacional e internacional, interessados em assuntos de natureza meteorológica ou geofísica, sendo a referida representação, nos casos em que os assuntos em consideração envolvam vários departamentos, definida pelo conselho geral, sob proposta dos conselhos técnicos dos serviços em cujos domínios estejam incluídos os citados assuntos.\n\n2. Para o exercício da competência técnica que lhe está cometida, poderão os departamentos corresponder-se com outros organismos ou entidades nos termos definidos pelo conselho de gestão.",
+    "depois": "###### Artigo 28.º — (Competência dos departamentos, em geral)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "29.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 29.º — (Estrutura)\n\nServiço de Meteorologia é constituído pelos departamentos seguintes:\n\na) Departamento de Observação Meteorológica;\n\nb) Departamento de Análise e Previsão do Tempo;\n\nc) Departamento de Climatologia;\n\nd) Departamento de Hidrometeorologia;\n\ne) Departamento de Meteorologia Agrícola;\n\nf) Departamento de Meteorologia Marítima;\n\ng) Departamento de Meteorologia Aeronáutica;\n\nh) Departamento de Radiação;\n\ni) Departamento de Aeronomia;\n\nj) Departamento de Protecção do Ar;\n\nk) Departamento de Meteorologia Teórica e Aplicações Especiais da Meteorologia;\n\nl) Departamento de Instrução Meteorológica.",
+    "depois": "###### Artigo 29.º — (Estrutura)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "30.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º — (Competência do Departamento de Observação Meteorológica)\n\nAo Departamento de Observação Meteorológica compete, em especial:\n\na) Promover a instalação e manutenção das redes de observação meteorológica, de superfície e de altitude e assegurar o seu eficiente funcionamento, de forma a dar satisfação às necessidades dos outros departamentos do INMG e do País;\n\nb) Recolher, verificar, registar e arquivar os resultados das observações meteorológicas;\n\nc) Proceder ao registo histórico das estações meteorológicas;\n\nd) Definir as normas e métodos de observação e assegurar o seu cumprimento;\n\ne) Preparar a publicação de manuais de observação;\n\nf) Proceder ao tratamento dos resultados das observações meteorológicas de modo a permitir a sua publicação e utilização por outros departamentos e entidades;\n\ng) Satisfazer os pedidos de informação sobre os resultados das observações meteorológicas.",
+    "depois": "###### Artigo 30.º — (Competência do Departamento de Observação Meteorológica)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "31.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 31.º — (Competência do Departamento de Análise e Previsão do Tempo)\n\nAo Departamento de Análise e Previsão do Tempo compete, em especial:\n\na) Organizar os serviços de análise e previsão do tempo, por métodos clássicos e numéricos, por forma a satisfazer as necessidades dos outros departamentos do INMG e do País;\n\nb) Estabelecer procedimentos e normas de trabalho;\n\nc) Estudar e preparar modelos físico-matemáticos para a análise e previsão do tempo;\n\nd) Coordenar as actividades no domínio da análise e da previsão do tempo nos vários centros meteorológicos;\n\ne) Elaborar comunicados com resultados da análise das condições meteorológicas, assim como previsões do tempo e avisos de mau tempo, e promover a sua difusão;\n\nf) Proceder à análise post mortem das condições meteorológicas observadas, verificar as previsões elaboradas e proceder a estudos de forma a melhorar a sua qualidade.",
+    "depois": "###### Artigo 31.º — (Competência do Departamento de Análise e Previsão do Tempo)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "32.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º — (Competência do Departamento de Climatologia)\n\nAo Departamento de Climatologia compete, em especial:\n\na) Analisar e interpretar os resultados das observações meteorológicas de superfície e de altitude, para uma definição clara e consistente das condições climáticas e sua evolução;\n\nb) Realizar estudos climatológicos a nível nacional, regional ou local;\n\nc) Proceder à comparação das condições meteorológicas actuais com as condições climáticas;\n\nd) Satisfazer os pedidos de informação sobre condições climáticas;\n\ne) Satisfazer os pedidos de informação sobre os elementos climatológicos cujos valores não possam ser obtidos directamente dos arquivos dos resultados das observações.",
+    "depois": "###### Artigo 32.º — (Competência do Departamento de Climatologia)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "33.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 33.º — (Competência do Departamento de Hidrometeorologia)\n\nAo Departamento de Hidrometeorologia compete, em especial:\n\na) Estudar o ramo atmosférico do ciclo hidrológico;\n\nb) Analisar as inter-relações da hidrologia com a meteorologia;\n\nc) Colaborar em estudos de gestão de recursos hídricos;\n\nd) Interpretar os resultados das observações de precipitação;\n\ne) Estudar e preparar modelos de mecanismos da precipitação para utilização em previsões e estudos hidrológicos;\n\nf) Elaborar estudos sobre a evaporação;\n\ng) Elaborar previsões e avisos hidrometeorológicos e promover a sua difusão.",
+    "depois": "###### Artigo 33.º — (Competência do Departamento de Hidrometeorologia)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "34.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 34.º — (Competência do Departamento de Meteorologia Agrícola)\n\nAo Departamento de Meteorologia Agrícola compete, em especial:\n\na) Elaborar estudos agro-meteorológicos;\n\nb) Elaborar estudos micrometeorológicos e microclimáticos de interesse para a agro-pecuária;\n\nc) Assegurar o tratamento das informações meteorológicas que interessem às actividades agro-pecuárias;\n\nd) Elaborar previsões e avisos agro-meteorológicos promover a sua difusão;\n\ne) Planear, desenvolver e coordenar redes de observação fenológicas e promover o seu funcionamento;\n\nf) Analisar os resultados das observações fenológicas e promover a sua difusão.",
+    "depois": "###### Artigo 34.º — (Competência do Departamento de Meteorologia Agrícola)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "35.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 35.º — (Competência do Departamento de Meteorologia Marítima)\n\nAo Departamento de Meteorologia Marítima compete, em especial:\n\na) Estudar a interacção oceano-atmosfera e as suas implicações na meteorologia e na oceanografia;\n\nb) Elaborar previsões e avisos de interesse para as actividades marítimas e promover a sua difusão;\n\nc) Promover e normalizar a observação meteorológica nas regiões oceânicas e outras observações meteorológicas de interesse directo para as actividades marítimas;\n\nd) Promover estudos nos domínios da meteorologia marítima e dos aspectos com ela relacionados da oceanografia;\n\ne) Elaborar estudos de climatologia das regiões oceânicas;\n\nf) Estudar e promover a aplicação às actividades marítimas, dos conhecimentos e técnicas da meteorologia, de forma a assegurar a protecção meteorológica a estas actividades, cumprindo os acordos nacionais e internacionais existentes.",
+    "depois": "###### Artigo 35.º — (Competência do Departamento de Meteorologia Marítima)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "36.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 36.º — (Competência do Departamento de Meteorologia Aeronáutica)\n\nAo Departamento de Meteorologia Aeronáutica compete, em especial:\n\na) Estudar e promover a aplicação à aeronáutica dos conhecimentos e técnicas da meteorologia, de forma a garantir a protecção meteorológica da navegação aérea, cumprindo os acordos nacionais e internacionais existentes;\n\nb) Estabelecer, actualizar e garantir a normalização e cumprimento dos procedimentos e técnicas da meteorologia aeronáutica em estreita cooperação com os organismos nacionais e internacionais competentes;\n\nc) Assegurar o funcionamento dos centros meteorológicos para a aeronáutica;\n\nd) Elaborar estudos de climatologia aeronáutica;\n\ne) Propor superiormente a classificação dos centros meteorológicos para a aeronáutica do território nacional, a ser feita por portaria ministerial de acordo com os regulamentos internacionais.",
+    "depois": "###### Artigo 36.º — (Competência do Departamento de Meteorologia Aeronáutica)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "37.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 37.º — (Competência do Departamento de Radiação)\n\nAo Departamento de Radiação compete, em especial:\n\na) Analisar e interpretar os resultados das observações actinométricas;\n\nb) Elaborar estudos de radiação e turvação da atmosfera e suas relações com o clima;\n\nc) Preparar modelos de radiação a utilizar na previsão do tempo.",
+    "depois": "###### Artigo 37.º — (Competência do Departamento de Radiação)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "38.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 38.º — (Competência do Departamento de Aeronom a)\n\nAo Departamento de Aeronomia compete, em especial:\n\na) Elaborar estudos teóricos e observacionais da composição, da estrutura e da energética dos constituintes neutros ou ionizados da atmosfera;\n\nb) Elaborar e utilizar modelos do balanço de massa e energético dos constituintes minoritários neutros ou ionizados da atmosfera;\n\nc) Analisar fenómenos de interacção radiação-atmosfera.",
+    "depois": "###### Artigo 38.º — (Competência do Departamento de Aeronom a)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "39.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 39.º — (Competência do Departamento de Protecção do Ar)\n\nAo Departamento de Protecção do Ar compete, em especial:\n\na) Estudar as condições meteorológicas e climatológicas de interesse na protecção da qualidade do ar;\n\nb) Executar peritagens meteorológicas para protecção do ambiente;\n\nc) Analisar, preparar e explorar modelos físico-matemáticos utilizados no estudo da dispersão de poluentes do ar;\n\nd) Estudar as modificações artificiais do clima devidas à poluição do ar;\n\ne) Elaborar previsões e avisos de condições desfavoráveis à dispersão de poluentes do ar e promover a sua difusão;\n\nf) Colaborar com outros organismos nacionais e internacionais na definição de normas de qualidade do ar.",
+    "depois": "###### Artigo 39.º — (Competência do Departamento de Protecção do Ar)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "40.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 40.º — (Competência do Departamento de Meteorologia Teórica e Aplicações Espaciais da Meteorologia)\n\nAo Departamento de Meteorologia Teórica e Aplicações Especiais da Meteorologia compete, em especial:\n\na) Promover e divulgar estudos teóricos de meteorologia;\n\nb) Elaborar estudos teóricos e observacionais da circulação geral da atmosfera, incluindo a sua energética;\n\nc) Normalizar, tabular e divulgar as funções e constantes físicas utilizadas em meteorologia;\n\nd) Promover a execução de observações meteorológicas destinadas a aplicações especiais da meteorologia e elaborar estudos nestes domínios.",
+    "depois": "###### Artigo 40.º — (Competência do Departamento de Meteorologia Teórica e Aplicações Espaciais da Meteorologia)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "41.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 41.º — (Competência do Departamento de instrução Meteorológica)\n\nAo Departamento de Instrução Meteorológica compete, em especial:\n\na) Coordenar e assegurar a preparação e aperfeiçoamento profissional do pessoal técnico de meteorologia;\n\nb) Coordenar e assegurar a instrução em meteorologia do pessoal técnico do INMG e de outras entidades;\n\nc) Propor, de acordo com as necessidades previstas, os programas dos cursos e estágios de meteorologia e participar no processo de admissão dos candidatos;\n\nd) Preparar a publicação de manuais de instrução.",
+    "depois": "###### Artigo 41.º — (Competência do Departamento de instrução Meteorológica)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "42.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º — (Estrutura)\n\nServiço de Geofísica é constituído pelos departamentos seguintes:\n\na) Departamento de Geofísica Geral;\n\nb) Departamento de Geofísica Aplicada;\n\nc) Departamento de Sismologia;\n\nd) Departamento de Geomagnetismo.",
+    "depois": "###### Artigo 42.º — (Estrutura)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "43.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º — (Competência do Departamento de Geofísica Geral)\n\nAo Departamento de Geofísica Geral compete, em especial:\n\na) Elaborar estudos nos domínios da geodinâmica, vulcanologia física, tectonofísica, marés terrestres, Tsunamis e relações dos fenómenos geofísicos com a actividade solar;\n\nb) Coordenar a instrução em geofísica do pessoal técnico do INMG e de outras entidades que o solicitem e a preparação e aperfeiçoamento profissional do pessoal técnico de geofísica;\n\nc) Propor, de acordo com as necessidades previstas, os programas de estágios de geofísica e participar no processo de admissão dos candidatos;\n\nd) Preparar a publicação de manuais de instrução.",
+    "depois": "###### Artigo 43.º — (Competência do Departamento de Geofísica Geral)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "44.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 44.º — (Competência do Departamento de Geofísica Aplicada)\n\nAo Departamento de Geofísica Aplicada compete, em especial:\n\na) Executar trabalhos de prospecção geofísica;\n\nb) Executar trabalhos de geofísica aplicada, nomeadamente no sentido do aproveitamento racional dos recursos naturais.",
+    "depois": "###### Artigo 44.º — (Competência do Departamento de Geofísica Aplicada)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "45.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 45.º — (Competência do Departamento de Sismologia)\n\nAo Departamento de Sismologia compete, em especial:\n\na) Planear a instalação, promover a manutenção e assegurar o eficiente funcionamento da rede de estações sismológicas, móveis e fixas, procedendo ao respectivo registo histórico;\n\nb) Recolher, registar, verificar e arquivar os resultados das observações sismológicas;\n\nc) Definir as normas e métodos de observação, assegurando o seu cumprimento, e preparar a publicação dos respectivos manuais;\n\nd) Proceder à vigilância sísmica e elaborar cartas sismológicas;\n\ne) Proceder a estudos nos domínios da sismologia e de apoio a todas as actividades que utilizem dados sísmicos.",
+    "depois": "###### Artigo 45.º — (Competência do Departamento de Sismologia)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "46.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 46.º — (Competência do Departamento de Geomagnetismo)\n\nAo Departamento de Geomagnetismo compete, em especial:\n\na) Planear a instalação, promover a manutenção e assegurar o eficiente funcionamento de rede de estações magnéticas, móveis e fixas, procedendo ao respectivo registo histórico;\n\nb) Recolher, registar, verificar e arquivar os resultados das observações magnéticas;\n\nc) Definir as normas e métodos de observação, assegurando o seu cumprimento, e preparar a publicação dos respectivos manuais;\n\nd) Promover a observação e registo do campo geomagnético e proceder à análise e interpretação dos registos do campo geomagnético;\n\ne) Elaborar e actualizar cartas geomagnéticas;\n\nf) Estudar a variação secular e as causas das perturbações do campo geomagnético;\n\ng) Elaborar estudos de paleomagnetismo.",
+    "depois": "###### Artigo 46.º — (Competência do Departamento de Geomagnetismo)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "47.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 47.º — (Estrutura)\n\nServiço de Apoio Técnico é constituído pelos departamentos seguintes:\n\na) Departamento de Documentação e Informação;\n\nb) Departamento de Instrumentos;\n\nc) Departamento de Aprovisionamento e Transportes;\n\nd) Departamento de Infra-Estruturas;\n\ne) Departamento Gráfico.",
+    "depois": "###### Artigo 47.º — (Estrutura)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "48.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 48.º — (Competência do Departamento de Documentação e informação)\n\nAo Departamento de Documentação e Informação compete, em especial:\n\na) Coleccionar, arquivar e divulgar a informação e documentação bibliográfica de interesse para a meteorologia e geofísica;\n\nb) Assegurar a tradução de trabalhos técnicos;\n\nc) Coordenar a execução e assegurar a distribuição de todas as publicações do INMG;\n\nd) Assegurar as relações com o público em geral;\n\ne) Orientar e encaminhar os utilizadores dentro do INMG;\n\nf) Assegurar os trabalhos de secretariado de encontros nacionais ou internacionais de responsabilidade do INMG nos domínios da meteorologia ou da geofísica.",
+    "depois": "###### Artigo 48.º — (Competência do Departamento de Documentação e informação)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "49.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 49.º — (Competência do Departamento de instrumentos)\n\nAo Departamento de Instrumentos compete, em especial:\n\na) Promover o estudo dos instrumentos meteoro lógicos e geofísicos e das técnicas da sua exploração;\n\nb) Dar apoio técnico aos outros departamentos do INMG nos aspectos instrumentais e responder a consultas neste campo;\n\nc) Garantir o aprovisionamento técnico especializado, gerir o armazém de equipamento técnico e manter actualizado o ficheiro de instrumentos;\n\nd) Reparar, afinar, calibrar, aferir, comparar e construir instrumentos meteorológicos e geofísicos em oficinas, laboratórios ou locais especialmente designados para esse efeito;\n\ne) Assegurar a manutenção dos instrumentos meteorológicos e geofísicos.",
+    "depois": "###### Artigo 49.º — (Competência do Departamento de instrumentos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "50.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 50.º — (Competência do Departamento de Aprovisionamento e Transportes)\n\nAo Departamento de Aprovisionamento e Transportes compete, em especial:\n\na) Garantir o aprovisionamento geral do INMG:\n\nb) Efectuar a gestão dos stocks e dos armazéns gerais do INMG;\n\nc) Coordenar, operar e manter os meios de transporte necessários ao INMG.",
+    "depois": "###### Artigo 50.º — (Competência do Departamento de Aprovisionamento e Transportes)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "51.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 51.º — (Competência do Departamento de Infra-Estruturas)\n\nAo Departamento de Infra-Estruturas compete, em especial:\n\na) Promover a construção, conservação, ampliação e beneficiação dos edifícios e assegurar a\n\nmanutenção das instalações do INMG e o funcionamento das oficinas gerais do serviço;\n\nb) Promover a construção das infra-estruturas necessárias à instalação das estações meteorológicas e geofísicas, assim como assegurar a manutenção dessas infra-estruturas.",
+    "depois": "###### Artigo 51.º — (Competência do Departamento de Infra-Estruturas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "52.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 52.º — (Competência do Departamento Gráfico)\n\nAo Departamento Gráfico compete, em especial:\n\na) Promover a impressão de publicações e impressos, assim como a reprodução de documentos;\n\nb) Apoiar os serviços e os departamentos em trabalhos de desenho, fotografia e microfilmagem.",
+    "depois": "###### Artigo 52.º — (Competência do Departamento Gráfico)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "53.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 53.º — (Conceito)\n\nOs serviços regionais são os serviços do INMG que asseguram regionalmente as actividades que competem aos diversos departamentos daquele e outras de interesse regional aprovadas em conselho geral.",
-    "depois": "###### Artigo 53.º — (Direcções regionais)\n\nAs direcções regionais são os serviços do Instituto de Meteorologia e Geofísica que asseguram regionalmente as atribuições e actividades que competem àquele, nos termos do presente diploma, actuando em articulação funcional com a presidência dos governos das regiões autónomas\n\n> Alterado pelo/a [Decreto-Lei n.º 314/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1980-471111), publicado em 1980-08-19.",
+    "depois": "###### Artigo 53.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "54.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 54.º — (Enumeração)\n\nOs serviços regionais do INMG compreendem:\n\na) O Serviço Regional dos Açores;\n\nb) O Serviço Regional da Madeira.",
-    "depois": "###### Artigo 54.º — (Enumeração)\n\nAs direcções regionais a que se reporta o artigo anterior compreendem:\n\na) Direcção Regional dos Açores;\n\nb) Direcção Regional da Madeira.\n\n> Alterado pelo/a [Decreto-Lei n.º 314/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1980-471111), publicado em 1980-08-19.",
+    "depois": "###### Artigo 54.º — (Enumeração)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "55.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 55.º — (Competência dos serviços regionais)\n\n1. Aos serviços regionais compete, em geral, e no âmbito das actividades meteorológicas e geofísicas, propor a política de actuação do INMG a nível regional.\n\n2. Compete aos mesmos serviços, em especial, o exercício, a nível local, das actividades do INMG, designadamente:\n\na) Promover a instalação, manutenção e desenvolvimento das redes de estações destinadas à execução de observações meteorológicas e geofísicas;\n\nb) Assegurar a recolha e divulgação dos resultados das observações meteorológicas e geofísicas, para satisfação das necessidades regionais, e promover o seu envio para os departamentos do INMG encarregados do seu processamento, publicação e divulgação a nível nacional, bem como proceder ao seu arquivo;\n\nc) Proceder à análise, interpretação e previsão de fenómenos meteorológicos e geofísicos e promover a sua divulgação;\n\nd) Executar por si ou em colaboração com outras entidades estudos e investigações de interesse regional;\n\ne) Apoiar e desenvolver o ensino e investigação nos domínios da meteorologia e geofísica a nível regional.",
-    "depois": "###### Artigo 55.º — (Competência das direcções regionais)\n\n1 - Às direcções regionais compete, em geral, e no âmbito das actividades meteorológicas e geofísicas, propor aos governos das regiões autónomas a política de actuação do INMG, a nível regional.\n\n2 - Compete às mesmas direcções, em especial, o exercício, a nível local, das actividades do INMG, designadamente:\n\na) Promover a instalação, manutenção e desenvolvimento das redes de estações destinadas à execução de observações meteorológicas e geofísicas;\n\nb) Assegurar a recolha e divulgação dos resultados das observações meteorológicas e geofísicas, para satisfação das necessidades regionais, e promover o seu envio para os departamentos do INMG encarregados do seu processamento, publicação e divulgação a nível nacional, bem como proceder ao seu arquivo;\n\nc) Proceder à análise, interpretação e previsão dos fenómenos meteorológicos e geofísicos e promover a sua divulgação;\n\nd) Executar por si, ou em colaboração com outras entidades, estudos e investigações de interesse regional;\n\ne) Apoiar e desenvolver o ensino e investigação nos domínios da meteorologia e geofísica a nível regional.\n\n> Alterado pelo/a [Decreto-Lei n.º 314/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1980-471111), publicado em 1980-08-19.",
+    "depois": "###### Artigo 55.º — (Competência dos serviços regionais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "56.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 56.º — (Competência dos directores dos serviços regionais)\n\nCada serviço regional terá um director, a quem compete:\n\na) Assegurar o funcionamento do respectivo serviço regional, subordinando-o à orientação geral definida superiormente;\n\nb) Estabelecer as relações do serviço regional que dirige com os órgãos e restantes serviços do INMG;\n\nc) Estabelecer, a nível regional, as relações com as entidades e organismos locais;\n\nd) Representar o serviço regional no conselho geral.",
-    "depois": "###### Artigo 56.º — (Competência e recrutamento dos directores regionais)\n\n1 - Cada direcção regional será presidida por um director, a quem compete, além do exercício das funções que lhe forem delegadas pelo director do INMG:\n\na) Assegurar o funcionamento da respectiva direcção regional, subordinando-a à orientação geral, definida superiormente;\n\nb) Estabelecer as relações do serviço regional que dirige com os órgãos e restantes serviços do INMG;\n\nc) Estabelecer, a nível regional, as relações com as entidades e organismos locais, nomeadamente com as presidências dos governos regionais;\n\nd) Representar os serviços regionais no conselho geral.\n\n2 - O recrutamento dos directores regionais far-se-á por escolha do Ministro dos Transportes e Comunicações, sob proposta do director do INMG, precedendo parecer obrigatório dos governos das regiões autónomas, de entre indivíduos de reconhecido mérito e licenciados com curso superior adequado.\n\n3 - Por portaria do Ministro da tutela, serão definidas a categoria, remuneração e condições de exercício do cargo mencionado nos números anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 314/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1980-471111), publicado em 1980-08-19.",
+    "depois": "###### Artigo 56.º — (Competência dos directores dos serviços regionais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "57.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 57.º — (Conceito)\n\nOs serviços de administração são serviços do INMG que asseguram o apoio burocrático e administrativo indispensável ao funcionamento daquele, dentro da orientação estabelecida superiormente.",
+    "depois": "###### Artigo 57.º — (Conceito)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "58.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 58.º — (Constituição)\n\n1. Os serviços de administração do INMG são integrados pelas repartições e secções seguintes:\n\na) Repartição de Expediente e Pessoal;\n\nb) Repartição de Contabilidade, Tesouraria e Aprovisionamento;\n\nc) Secção de Apoio Administrativo à Direcção;\n\nd) Secção de Apoio Administrativo ao Serviço de Meteorologia;\n\ne) Secção de Apoio Administrativo ao Serviço de Geofísica;\n\nf) Secção de Apoio Administrativo ao Serviço de Apoio Técnico.\n\n2. A Repartição de Expediente e Pessoal integra as secções seguintes:\n\na) Secção de Expediente;\n\nb) Secção de Pessoal;\n\nc) Secção de Serviços Sociais.\n\n3. A Repartição de Contabilidade, Tesouraria e Aprovisionamento integra as secções seguintes:\n\na) Secção de Contabilidade e Tesouraria;\n\nb) Secção de Aprovisionamento.",
+    "depois": "###### Artigo 58.º — (Constituição)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "59.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 59.º — (Competência da Repartição de Expediente e Pessoal)\n\nÀ Repartição de Expediente e Pessoal compete essencialmente o seguinte:\n\na) Organizar a gestão do pessoal e manter o seu cadastro disciplinar e técnico actualizado;\n\nb) Assegurar o expediente geral e organizar e manter actualizado o arquivo geral;\n\nc) Assegurar o funcionamento da acção social complementar a prosseguir no INMG e o expediente geral desta, assim como toda a actividade empreendida pelos serviços públicos no âmbito daquela e da segurança social;\n\nd) Coordenar o apoio administrativo dos diversos órgãos e serviços do INMG.",
+    "depois": "###### Artigo 59.º — (Competência da Repartição de Expediente e Pessoal)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "60.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 60.º — (Competência da Repartição de Contabilidade, Tesouraria e Aprovisionamento)\n\nÀ Repartição de Contabilidade, Tesouraria e Aprovisionamento compete essencialmente o seguinte:\n\na) Assegurar a Contabilidade e Tesouraria;\n\nb) Assegurar o processo administrativo dos orçamentos;\n\nc) Assegurar o processo administrativo do aprovisionamento geral do INMG;\n\nd) Assegurar a gestão dos stocks do material de expediente do INMG.",
+    "depois": "###### Artigo 60.º — (Competência da Repartição de Contabilidade, Tesouraria e Aprovisionamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "61.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 61.º — (Coordenação do Departamento)\n\nO Departamento de Telecomunicações Meteorológicas terá um coordenador, a quem compete:\n\na) Assegurar o funcionamento do Departamento de acordo com a orientação superiormente definida;\n\nb) Estabelecer as relações do Departamento que coordena com o director do INMG e com todos os restantes departamentos deste serviço;\n\nc) Representar o departamento no conselho geral.",
+    "depois": "###### Artigo 61.º — (Coordenação do Departamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "62.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 62.º — (Competência)\n\n1. Ao Departamento de Telecomunicações Meteorológicas compete:\n\na) O exercício das atribuições constantes das alíneas a), b) e e) do n.º 1 do artigo 28.º deste diploma;\n\nb) Promover a aquisição, reparação e afinação dos equipamentos de telecomunicações para fins meteorológicos e geofísicos;\n\nc) Colaborar na instrução do pessoal do INMG;\n\nd) Representar o INMG, com a aprovação do conselho de gestão, nos organismos e nas reuniões de carácter nacional e internacional interessados em assuntos de telecomunicações meteorológicas;\n\ne) Propor a política de telecomunicações do INMG, de forma a dar satisfação às necessidades do serviço neste domínio;\n\nf) Assegurar a organização das ligações e meios de transmissão do INMG e de outros serviços postos à sua disposição, em função de acordos internacionais e das necessidades nacionais;\n\ng) Assegurar a troca nacional e internacional de comunicados meteorológicos e geofísicos;\n\nh) Elaborar estudos, normas e procedimentos no domínio das telecomunicações meteorológicas e geofísicas;\n\ni) Promover a preparação especializada do pessoal do INMG destinado a trabalhos de telecomunicações.\n\n2. Para o exercício da competência que lhe é cometida pelo presente artigo o Departamento de Telecomunicações Meteorológicas poderá corresponder-se com outros organismos ou entidades nos termos definidos no n.º 2 do artigo 28.º",
+    "depois": "###### Artigo 62.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "63.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 63.º — (Coordenação do departamento)\n\nO Departamento de Informática terá um coordenador com competência equivalente à que é atribuída pelo artigo 61.º deste diploma ao coordenador do Departamento de Telecomunicações Meteorológicas.",
+    "depois": "###### Artigo 63.º — (Coordenação do departamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "64.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 64.º — (Competência)\n\n1. Ao Departamento de Informática compete:\n\na) O exercício das atribuições constantes das alíneas a), b) e e) do n.º 1 do artigo 28.º deste diploma;\n\nb) Promover o aluguer ou aquisição dos equipamentos de informática, sob o parecer favorável das entidades competentes, bem como a respectiva manutenção;\n\nc) Colaborar na instrução do pessoal do INMG;\n\nd) Representar o INMG, com a aprovação do conselho de gestão, nos organismos e nas reuniões de carácter nacional e internacional interessados em assuntos de informática;\n\ne) Executar todas as operações decorrentes da aplicação da política de informática definida pelo Governo;\n\nf) Propor o plano de informática do INMG, em coordenação com o organismo sectorial competente;\n\ng) Promover a utilização da informática nos vários departamentos do INMG de acordo com os planos estabelecidos;\n\nh) Gerir os meios necessários à execução dos planos estabelecidos e controlar a sua eficiência;\n\ni) Apoiar os departamentos do INMG nas actividades do domínio da informática;\n\nj) Promover a preparação do pessoal do INMG nos domínios da informática.\n\n2. Para o exercício da competência que lhe é cometida pelo presente artigo o Departamento de Informática poderá corresponder-se com outros organismos ou entidades nos termos definidos no n.º 2 do artigo 28.º",
+    "depois": "###### Artigo 64.º — (Competência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "65.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 65.º — (Instalação e funcionamento)\n\n1. Os observatórios, as estações meteorológicas de informação internacional e os centros e postos de previsão do tempo disporão de pessoal permanente e das instalações correspondentes à natureza e extensão dos trabalhos que lhes incubem.\n\n2. As estações e postos climatológicos, udométricos, de observação do mar e do vento e outros análogos serão confiados a pessoas de reconhecida competência e probidade, que perceberão pelo serviço das observações as remunerações fixadas por despacho conjunto dos Ministros dos Transportes e Comunicações e das Finanças, sob proposta do conselho geral.\n\n3. Os dirigentes dos estabelecimentos civis e militares do Estado, dos corpos e corporações administrativas e dos organismos corporativos e de coordenação económica, ou os organismos que eventualmente venham a substituir estes, facilitarão a instalação de estações e postos, a conservação e protecção do material instalado, a execução das observações e a inspecção e fiscalização do serviço.\n\n4. As entidades interessadas no conhecimento das condições meteorológicas e geofísicas de determinada região ou local facilitarão a instalação e o funcionamento de estações e postos e fornecerão o material e pessoal para o efeito necessários, sendo aquelas instalações incluídas nas redes de observação do INMG, funcionando como se a estas pertencessem e as observações nela feitas apuradas e fornecidas àquelas entidades.",
+    "depois": "###### Artigo 65.º — (Instalação e funcionamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "66.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 66.º — (Institutos universitários de meteorologia e geofísica)\n\nOs institutos universitários de meteorologia e de geofísica funcionarão como observatórios do INMG e serão orientados de acordo com este serviço pelo que respeita à terminologia e aos processos de trabalho.",
+    "depois": "###### Artigo 66.º — (Institutos universitários de meteorologia e geofísica)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "67.º",
@@ -95,7 +949,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "68.º",
@@ -109,7 +963,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "69.º",
@@ -123,7 +977,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "70.º",
@@ -137,7 +991,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "71.º",
@@ -151,7 +1005,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "72.º",
@@ -165,7 +1019,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "73.º",
@@ -179,7 +1033,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "74.º",
@@ -193,7 +1047,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "75.º",
@@ -207,7 +1061,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "76.º",
@@ -221,77 +1075,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "79.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 79.º — (Admissão aos cursos de formação para observador meteorológico)\n\n1. Aos cursos de formação para observador meteorológico poderão ser admitidos os indivíduos habilitados com o curso complementar dos liceus que inclua as cadeiras de Matemática e de Ciências Físico-Químicas.\n\n2. Sem prejuízo da sua admissão ao abrigo do número antecedente, poderão ainda ser admitidos àquele curso os observadores meteorológicos-adjuntos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam as cadeiras de Matemática e de Ciências Físico-Químicas do curso complementar dos liceus.\n\n3. Na admissão ao mesmo curso serão reservadas, pelo menos, 75% das vagas existentes para os observadores meteorológicos-adjuntos do INMG, desde que estes satisfaçam ao condicionalismo exigido em qualquer dos números antecedentes.",
-    "depois": "###### Artigo 79.º — (Admissão aos cursos de formação para observador meteorológico)\n\nAos cursos de formação para observador meteorológico poderão ser admitidos indivíduos habilitados com o curso complementar dos liceus ou equivalente que inclua as disciplinas de Matemática e Ciências Físico-Químicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "80.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 80.º — (Admissão aos cursos de formação para observador meteorológico-adjunto)\n\nAos cursos de formação para observador meteorológico-adjunto poderão ser admitidos o indivíduos com o curso geral dos liceus ou equivalente.",
-    "depois": "###### Artigo 80.º — (Admissão aos cursos de formação para observador meteorológico-adjunto)\n\nAos cursos de formação para observador meteorológico-adjunto poderão ser admitidos indivíduos com o 9.º ano de escolaridade obrigatória ou equivalente, sem deficiências nas disciplinas de Matemática e Ciências Físico-Químicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "83.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 83.º — (A admissão aos cursos de formação para observador geofísico analista)\n\nA admissão aos cursos de formação para observador geofísico analista é reservada exclusivamente aos observadores geofísicos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam a habilitação do curso complementar dos liceus ou equivalente que inclua as disciplinas de Matemática e de Ciências Físico-Químicas.",
-    "depois": "###### Artigo 83.º — (Admissão aos cursos de formação para observador geofísico)\n\nAos cursos de formação para observador geofísico poderão ser admitidos indivíduos habilitados com o curso complementar dos liceus ou equivalente que inclua as disciplinas de Matemática e Ciências Físico-Químicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "84.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 84.º — (Admissão aos cursos de formação para observador geofísico)\n\n1. Aos cursos de formação para observador geofísico poderão ser admitidos os indivíduos habilitados com o curso complementar dos liceus que inclua as cadeiras de Matemática e de Ciências Físico-Químicas.\n\n2. Sem prejuízo da sua admissão ao abrigo do número antecedente, poderão ainda ser admitidos àquele curso os observadores geofísicos-adjuntos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam as cadeiras de Matemática e de Ciências Físico-Químicas do curso complementar dos liceus.\n\n3. Na admissão ao mesmo curso serão reservadas, pelo menos, 75% das vagas existentes para os observadores geofísicos-adjuntos do INMG, desde que estes satisfaçam ao condicionalismo exigido em qualquer dos números antecedentes.",
-    "depois": "###### Artigo 84.º — (Admissão aos cursos de formação para observador geofísico-adjunto)\n\nAos cursos de formação para observador geofísico-adjunto poderão ser admitidos indivíduos com o 9.º ano de escolaridade obrigatória ou equivalente, sem deficiências nas disciplinas de Matemática e Ciências Físico-Químicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "86.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 86.º — (Classificação do pessoal)\n\nO pessoal do INMG agrupa-se de harmonia com a classificação seguinte:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico;\n\nc) Pessoal administrativo;\n\nd) Pessoal de apoio técnico;\n\ne) Pessoal auxiliar.",
-    "depois": "###### Artigo 86.º — (Admissão aos cursos de formação para operador de telecomunicações meteorológicas e geofísicas)\n\nA admissão aos cursos de formação para operador de telecomunicações meteorológicas e geofísicas far-se-á por concurso documental, ao qual poderão concorrer indivíduos com o 9.º ano de escolaridade obrigatória ou equivalente.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "87.º",
@@ -305,7 +1089,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "89.º",
@@ -319,7 +1103,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "91.º",
@@ -333,7 +1117,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "92.º",
@@ -347,21 +1131,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "94.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 94.º — (Provimento do pessoal dirigente)\n\n1. O provimento do pessoal dirigente far-se-á em comissão de serviço, nos termos seguintes:\n\na) Director, subdirectores, directores de serviço e directores dos serviços de administração: por um período de três anos, renováveis;\n\nb) Directores dos serviços regionais, coordenadores de departamentos e chefes de repartição: por um período de três anos, renováveis.\n\n2. As comissões de serviço poderão ser dadas por findas, antes do seu termo, pela forma seguinte:\n\na) Director e subdirectores: pelo Ministro;\n\nb) Directores de serviço: pelo Ministro, por sua iniciativa ou por proposta do director do INMG, ouvido o conselho técnico do respectivo serviço e o conselho geral;\n\nc) Director dos serviços de administração: pelo Ministro, por sua iniciativa ou por proposta do director do INMG, ouvido o conselho geral;\n\nd) Directores dos serviços regionais e chefes de repartição: pelo Ministro, por sua iniciativa ou por proposta do conselho geral;\n\ne) Coordenadores de departamento: pelo conselho geral, ouvidos os trabalhadores do respectivo departamento.\n\n3. Os indivíduos providos em comissão de serviço nos termos deste artigo não abrirão vaga nos quadros a que porventura pertençam, podendo os serviços de origem prover, interinamente, os respectivos lugares.",
-    "depois": "###### Artigo 94.º — (Recrutamento do pessoal de telecomunicações meteorológicas e geofísicas)\n\nO recrutamento do pessoal de telecomunicações meteorológicas e geofísicas far-se-á nas seguintes condições:\n\na) Engenheiro electrotécnico: de entre indivíduos habilitados com a licenciatura em Engenharia Electrotécnica;\n\nb) Técnicos: de entre indivíduos habilitados com o curso superior com especialização em electrotecnia que não confira o grau de licenciatura;\n\nc) Operador de telecomunicações meteorológicas e geofísicas: de entre indivíduos habilitados com o curso de formação adequado, ministrado pelo INMG;\n\nd) Técnico auxiliar de telecomunicações meteorológicas e geofísicas: por concurso de prestação de provas de entre indivíduos que possuam o 9.º ano de escolaridade obrigatória e conhecimentos profissionais que o INMG considere adequados para o exercício das respectivas funções;\n\ne) Encarregado de laboratório de radioelectrónica: em conformidade com a lei geral;\n\nf) Montador de telecomunicações: em conformidade com a lei geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), publicado em 1981-12-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "95.º",
@@ -375,7 +1145,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "96.º",
@@ -389,7 +1159,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "97.º",
@@ -403,7 +1173,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "98.º",
@@ -417,7 +1187,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "99.º",
@@ -431,7 +1201,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "100.º",
@@ -445,21 +1215,133 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "77.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 77.º — (Admissão aos cursos de formação para meteorologista)\n\n1. Aos cursos de formação para meteorologista poderão ser admitidos os indivíduos habilitados com uma das licenciaturas seguintes:\n\na) Em Física, com a especialização em macrofísica atmosférica;\n\nb) Em Ciências Geofísicas;\n\nc) Em Ciências Físico-Químicas.\n\n2. Sempre que as necessidades de serviço o aconselhem, poderão ser admitidos aos cursos referidos no número anterior indivíduos habilitados com outras licenciaturas em Ciências Físicas que incluam cadeiras de Meteorologia e de Geofísica ou sejam completadas com elas, nos termos que vierem a ser definidos pelo INMG.\n\n3. Sem prejuízo da sua admissão ao abrigo dos números antecedentes, poderão ainda ser admitidos ao mesmo curso os observadores meteorológicos analistas do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam o bacharelato em Física.",
-    "depois": "###### Artigo 77.º — (Espécies e duração de cursos de formação para as carreiras de meteorologia)\n\n1 - Funcionarão no INMG cursos de formação para as seguintes carreiras de meteorologia:\n\na) Meteorologista operacional;\n\nb) Observador meteorológico;\n\nc) Observador meteorológico-adjunto.\n\n2 - As características dos cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, são as seguintes:\n\na) Meteorologista operacional: duração de quinze meses, sendo o primeiro período de nove e o segundo de seis meses;\n\nb) Observador meteorológico: duração de um ano, sendo o primeiro período de oito e o segundo de quatro meses;\n\nc) Observador meteorológico-adjunto: duração de um ano, sendo o primeiro período de oito e o segundo de quatro meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1988-379921), publicado em 1988-08-24.",
+    "depois": "###### Artigo 77.º — (Espécies e duração de cursos de formação para as carreiras de meteorologia)\n\n1 - Funcionarão no INMG cursos de formação para as seguintes carreiras de meteorologia:\n\na) Meteorologista operacional;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - As características dos cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, são as seguintes:\n\na) Meteorologista operacional: duração de quinze meses, sendo o primeiro período de nove e o segundo de seis meses;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "79.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 79.º — (Admissão aos cursos de formação para observador meteorológico)\n\n1. Aos cursos de formação para observador meteorológico poderão ser admitidos os indivíduos habilitados com o curso complementar dos liceus que inclua as cadeiras de Matemática e de Ciências Físico-Químicas.\n\n2. Sem prejuízo da sua admissão ao abrigo do número antecedente, poderão ainda ser admitidos àquele curso os observadores meteorológicos-adjuntos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam as cadeiras de Matemática e de Ciências Físico-Químicas do curso complementar dos liceus.\n\n3. Na admissão ao mesmo curso serão reservadas, pelo menos, 75% das vagas existentes para os observadores meteorológicos-adjuntos do INMG, desde que estes satisfaçam ao condicionalismo exigido em qualquer dos números antecedentes.",
+    "depois": "###### Artigo 79.º — (Admissão aos cursos de formação para observador meteorológico)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "80.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 80.º — (Admissão aos cursos de formação para observador meteorológico-adjunto)\n\nAos cursos de formação para observador meteorológico-adjunto poderão ser admitidos o indivíduos com o curso geral dos liceus ou equivalente.",
+    "depois": "###### Artigo 80.º — (Admissão aos cursos de formação para observador meteorológico-adjunto)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "81.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 81.º — (Espécies de cursos de formação para a carreira de geofísica)\n\nNo âmbito da carreira de geofísica funcionarão no INMG cursos de formação para as categorias seguintes:\n\na) Geofísico;\n\nb) Observador geofísico analista;\n\nc) Observador geofísico;\n\nd) Observador geofísico-adjunto.",
+    "depois": "###### Artigo 81.º — (Espécies e duração dos cursos de formação para as carreiras de geofísica)\n\n1 - Funcionarão no INMG cursos de formação para as seguintes carreiras de geofísica:\n\na) Geofísico operacional;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - As características dos cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, são as seguintes:\n\na) Geofísico operacional: duração de quinze meses, sendo o primeiro período de nove e o segundo de seis meses;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "83.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 83.º — (A admissão aos cursos de formação para observador geofísico analista)\n\nA admissão aos cursos de formação para observador geofísico analista é reservada exclusivamente aos observadores geofísicos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam a habilitação do curso complementar dos liceus ou equivalente que inclua as disciplinas de Matemática e de Ciências Físico-Químicas.",
+    "depois": "###### Artigo 83.º — (Admissão aos cursos de formação para observador geofísico)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "84.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 84.º — (Admissão aos cursos de formação para observador geofísico)\n\n1. Aos cursos de formação para observador geofísico poderão ser admitidos os indivíduos habilitados com o curso complementar dos liceus que inclua as cadeiras de Matemática e de Ciências Físico-Químicas.\n\n2. Sem prejuízo da sua admissão ao abrigo do número antecedente, poderão ainda ser admitidos àquele curso os observadores geofísicos-adjuntos do INMG que satisfaçam, cumulativamente, às condições seguintes:\n\na) Tenham, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Possuam as cadeiras de Matemática e de Ciências Físico-Químicas do curso complementar dos liceus.\n\n3. Na admissão ao mesmo curso serão reservadas, pelo menos, 75% das vagas existentes para os observadores geofísicos-adjuntos do INMG, desde que estes satisfaçam ao condicionalismo exigido em qualquer dos números antecedentes.",
+    "depois": "###### Artigo 84.º — (Admissão aos cursos de formação para observador geofísico-adjunto)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "85.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 85.º — (Admissão aos cursos de formação para observador geofísico-adjunto)\n\nAos cursos de formação para observador geofísico adjunto poderão ser admitidos os indivíduos com o curso geral dos liceus ou equivalente.",
+    "depois": "###### Artigo 85.º — (Duração do curso do formação para a carreira de telecomunicações meteorológicas e geofísicas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "86.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 86.º — (Classificação do pessoal)\n\nO pessoal do INMG agrupa-se de harmonia com a classificação seguinte:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico;\n\nc) Pessoal administrativo;\n\nd) Pessoal de apoio técnico;\n\ne) Pessoal auxiliar.",
+    "depois": "###### Artigo 86.º — (Admissão aos cursos de formação para operador de telecomunicações meteorológicas e geofísicas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "94.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 94.º — (Provimento do pessoal dirigente)\n\n1. O provimento do pessoal dirigente far-se-á em comissão de serviço, nos termos seguintes:\n\na) Director, subdirectores, directores de serviço e directores dos serviços de administração: por um período de três anos, renováveis;\n\nb) Directores dos serviços regionais, coordenadores de departamentos e chefes de repartição: por um período de três anos, renováveis.\n\n2. As comissões de serviço poderão ser dadas por findas, antes do seu termo, pela forma seguinte:\n\na) Director e subdirectores: pelo Ministro;\n\nb) Directores de serviço: pelo Ministro, por sua iniciativa ou por proposta do director do INMG, ouvido o conselho técnico do respectivo serviço e o conselho geral;\n\nc) Director dos serviços de administração: pelo Ministro, por sua iniciativa ou por proposta do director do INMG, ouvido o conselho geral;\n\nd) Directores dos serviços regionais e chefes de repartição: pelo Ministro, por sua iniciativa ou por proposta do conselho geral;\n\ne) Coordenadores de departamento: pelo conselho geral, ouvidos os trabalhadores do respectivo departamento.\n\n3. Os indivíduos providos em comissão de serviço nos termos deste artigo não abrirão vaga nos quadros a que porventura pertençam, podendo os serviços de origem prover, interinamente, os respectivos lugares.",
+    "depois": "###### Artigo 94.º — (Recrutamento do pessoal de telecomunicações meteorológicas e geofísicas)\n\nO recrutamento do pessoal de telecomunicações meteorológicas e geofísicas far-se-á nas seguintes condições:\n\na) Engenheiro electrotécnico: de entre indivíduos habilitados com a licenciatura em Engenharia Electrotécnica;\n\nb) Técnicos: de entre indivíduos habilitados com o curso superior com especialização em electrotecnia que não confira o grau de licenciatura;\n\nc) (Revogada.)\n\nd) Técnico auxiliar de telecomunicações meteorológicas e geofísicas: por concurso de prestação de provas de entre indivíduos que possuam o 9.º ano de escolaridade obrigatória e conhecimentos profissionais que o INMG considere adequados para o exercício das respectivas funções;\n\ne) Encarregado de laboratório de radioelectrónica: em conformidade com a lei geral;\n\nf) Montador de telecomunicações: em conformidade com a lei geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 553/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1999-655942), publicado em 1999-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "78.º",
@@ -473,21 +1355,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "81.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 81.º — (Espécies de cursos de formação para a carreira de geofísica)\n\nNo âmbito da carreira de geofísica funcionarão no INMG cursos de formação para as categorias seguintes:\n\na) Geofísico;\n\nb) Observador geofísico analista;\n\nc) Observador geofísico;\n\nd) Observador geofísico-adjunto.",
-    "depois": "###### Artigo 81.º — (Espécies e duração dos cursos de formação para as carreiras de geofísica)\n\n1 - Funcionarão no INMG cursos de formação para as seguintes carreiras de geofísica:\n\na) Geofísico operacional;\n\nb) Observador geofísico;\n\nc) Observador geofísico-adjunto.\n\n2 - As características dos cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, são as seguintes:\n\na) Geofísico operacional: duração de quinze meses, sendo o primeiro período de nove e o segundo de seis meses;\n\nb) Observador geofísico: duração de um ano, sendo o primeiro período de oito e o segundo de quatro meses;\n\nc) Observador geofísico-adjunto: duração de um ano, sendo o primeiro período de oito e o segundo de quatro meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1988-379921), publicado em 1988-08-24.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "82.º",
@@ -501,21 +1369,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
-  },
-  {
-    "artigo": "85.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 85.º — (Admissão aos cursos de formação para observador geofísico-adjunto)\n\nAos cursos de formação para observador geofísico adjunto poderão ser admitidos os indivíduos com o curso geral dos liceus ou equivalente.",
-    "depois": "###### Artigo 85.º — (Duração do curso do formação para a carreira de telecomunicações meteorológicas e geofísicas)\n\n1 - Funcionarão no INMG cursos de formação para a carreira de operador de telecomunicações meteorológicas e geofísicas.\n\n2 - Os cursos de formação citados no número anterior, em conformidade com a orientação referida no artigo 68.º, terão a duração de doze meses, sendo o primeiro período de quatro e o segundo de oito meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1988-379921), publicado em 1988-08-24.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "88.º",
@@ -529,7 +1383,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "93.º",
@@ -543,7 +1397,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "90.º",
@@ -557,7 +1411,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "101.º",
@@ -571,7 +1425,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "102.º",
@@ -585,7 +1439,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "103.º",
@@ -599,7 +1453,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "104.º",
@@ -613,7 +1467,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "105.º",
@@ -627,7 +1481,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "106.º",
@@ -641,7 +1495,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "107.º",
@@ -655,7 +1509,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "108.º",
@@ -669,7 +1523,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "109.º",
@@ -683,7 +1537,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "110.º",
@@ -697,7 +1551,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "111.º",
@@ -711,7 +1565,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "112.º",
@@ -725,7 +1579,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "113.º",
@@ -739,7 +1593,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "114.º",
@@ -753,7 +1607,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "115.º",
@@ -767,7 +1621,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "116.º",
@@ -781,7 +1635,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "117.º",
@@ -795,7 +1649,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "118.º",
@@ -809,7 +1663,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "119.º",
@@ -823,7 +1677,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "120.º",
@@ -837,7 +1691,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "121.º",
@@ -851,7 +1705,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "122.º",
@@ -865,7 +1719,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "123.º",
@@ -879,7 +1733,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "124.º",
@@ -893,7 +1747,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "125.º",
@@ -907,7 +1761,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "126.º",
@@ -921,7 +1775,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "127.º",
@@ -935,7 +1789,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "128.º",
@@ -949,7 +1803,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "129.º",
@@ -963,7 +1817,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "130.º",
@@ -977,7 +1831,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "131.º",
@@ -991,7 +1845,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "132.º",
@@ -1005,7 +1859,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "133.º",
@@ -1019,7 +1873,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "134.º",
@@ -1033,7 +1887,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "136.º",
@@ -1047,7 +1901,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "137.º",
@@ -1061,7 +1915,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "138.º",
@@ -1075,7 +1929,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "139.º",
@@ -1089,7 +1943,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "140.º",
@@ -1103,7 +1957,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "141.º",
@@ -1117,7 +1971,35 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "SECÇÃO IV — Departamento de Telecomunicações Meteorológicas",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO IV — Departamento de Telecomunicações Meteorológicas",
+    "depois": "#### SECÇÃO IV — Divisão de Telecomunicações Meteorológicas e Geofísicas",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
+  },
+  {
+    "artigo": "SECÇÃO V — Departamento de Informática",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO V — Departamento de Informática",
+    "depois": "#### SECÇÃO V — Divisão de Informática",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430865:por",
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "CAPÍTULO III — Cursos de formação para as carreiras de meteorologia e de geofísica",
@@ -1131,7 +2013,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO IV — Abonos dos frequentadores dos cursos",
@@ -1145,7 +2027,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "DIVISÃO V — Cursos de formação para a carreira de meteorologia",
@@ -1159,7 +2041,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "DIVISÃO VI — Cursos de formação para a carreira de geofísica",
@@ -1173,7 +2055,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "CAPÍTULO IV — Pessoal",
@@ -1187,7 +2069,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "DIVISÃO I — Pessoal pertencente ao quadro",
@@ -1201,7 +2083,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO I — Disposições comuns",
@@ -1215,7 +2097,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO II — Pessoal dirigente",
@@ -1229,7 +2111,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO III — Pessoal técnico",
@@ -1243,7 +2125,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SUBSECÇÃO I — Pessoal de meteorologia e de geofísica",
@@ -1257,7 +2139,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SUBSECÇÃO II — Pessoal de informática",
@@ -1271,7 +2153,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SUBSECÇÃO III — Técnicos",
@@ -1285,7 +2167,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SUBSECÇÃO IV — Pessoal técnico auxiliar",
@@ -1299,7 +2181,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO IV — Pessoal administrativo",
@@ -1313,7 +2195,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO V — Pessoal de apoio técnico",
@@ -1327,7 +2209,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "SECÇÃO VI — Pessoal auxiliar",
@@ -1341,7 +2223,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "DIVISÃO II — Outro pessoal",
@@ -1355,7 +2237,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "CAPÍTULO V — Prestação de serviço",
@@ -1369,7 +2251,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   },
   {
     "artigo": "CAPÍTULO VI — Disposições finais e transitórias",
@@ -1383,6 +2265,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:430865:por",
-    "alterador": "pt:dre:379918:por;pt:dre:182033:por;pt:dre:471111:por;pt:dre:567458:por;pt:dre:379921:por;pt:dre:469069:por"
+    "alterador": "pt:dre:283524:por;pt:dre:567458:por;pt:dre:655942:por;pt:dre:379921:por;pt:dre:469069:por"
   }
 ]

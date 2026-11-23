@@ -10,9 +10,12 @@ consolidacao:
   - id: pt:dre:517247:por
     title: Decreto-Lei n.º 56/97
     publication_date: '1997-03-14'
-  - id: pt:dre:330216:por
-    title: Decreto-Lei n.º 198/2000
-    publication_date: '2000-08-24'
+  - id: pt:dre:340237:por
+    title: Decreto-Lei n.º 226-A/2007
+    publication_date: '2007-05-31'
+  - id: pt:dre:517467:por
+    title: Decreto-Lei n.º 153/2004
+    publication_date: '2004-06-30'
 ---
 
 # Decreto-Lei n.º 183/95
@@ -85,21 +88,17 @@ A integração no SEP de novos centros electroprodutores processa-se de acordo c
 
 ###### Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos
 
-1 - A utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos vinculados processa-se nos termos do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, sem prejuízo do disposto nos números seguintes.
-
-2 - O contrato de concessão de utilização do domínio hídrico em aproveitamentos hidroeléctricos é celebrado por ajuste directo com a entidade concessionária da RNT.
-
-3 - A entidade concessionária da RNT fica autorizada a subconceder o contrato de concessão de utilização do domínio hídrico à entidade seleccionada para estabelecer e explorar o novo centro electroprodutor, nos termos do presente diploma.
+(Revogado.)
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.
 
+> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.
+
 ###### Artigo 7.º — Titularidade dos sítios
 
-1 - No âmbito da autorização preliminar estabelecida no artigo 5.º ou da concessão de utilização do domínio hídrico estabelecida no artigo anterior, a entidade concessionária da RNT procede à aquisição do sítio ou, quando se tratar de bens do domínio público ou privado da Administração Pública, à obtenção da sua posse.
+(Revogado.)
 
-2 - Para efeitos do disposto no número anterior, a entidade concessionária da RNT pode recorrer, mediante declaração de utilidade pública do Ministro da Indústria e Energia, à expropriação ou à criação de servidões sobre o sítio seleccionado, nos termos do Código das Expropriações.
-
-3 - A entidade concessionária da RNT fica autorizada a transmitir a posse dos sítios à entidade seleccionada para, nos termos do presente diploma, estabelecer e explorar o centro electroprodutor.
+> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.
 
 ###### Artigo 8.º — Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor
 
@@ -185,11 +184,11 @@ c) Nos termos do plano de expansão aprovado.
 
 3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º
 
-4 - No caso de não ser aplicável o disposto no n.º 3 do presente artigo, ou no n.º 8 do artigo 11.º e de a entidade concessionária da RNT não exercer o direito de reserva previsto no n.º 1 do presente preceito, o titular da licença de produção vinculada pode adquirir a propriedade do terreno ou a sua posse, caso se trate de bens do domínio público ou privado da Administração Pública, por um valor equivalente ao respectivo valor contabilístico nas contas da entidade concessionária da RNT, desde que, e em simultâneo, solicite a emissão de uma licença de produção não vinculada, para o mesmo local, nos termos do artigo 30.º do presente diploma.
+4 - (Revogado.)
 
-5 - O direito de reserva previsto no n.º 1 do presente artigo só poderá ser exercido pela entidade concessionária da RNT se a utilização da capacidade instalada de produção da referida central for considerada necessária para o SEP no plano de expansão que estiver em vigor, ao tempo da caducidade do contrato de vinculação.
+5 - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 198/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2000-330216), publicado em 2000-08-24.
+> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30.
 
 ###### Artigo 14.º — Caducidade do contrato de vinculação por revogação da respectiva licença vinculada
 
@@ -213,11 +212,11 @@ c) Nos termos do plano de expansão aprovado.
 
 4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º
 
-5 - Se o produtor optar no sentido previsto na parte final do número anterior, terá o direito de adquirir o terreno e a central nos termos do n.º 4 do artigo 13.º
+5 - (Revogado.)
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.
 
-> Alterado pelo/a [Decreto-Lei n.º 198/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2000-330216), publicado em 2000-08-24.
+> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30.
 
 ###### Artigo 16.º — Extinção do contrato de vinculação por rescisão
 
@@ -657,7 +656,9 @@ b) 40% para a entidade que tiver aplicado a coima.
 
 ###### Artigo 53.º — Direitos adquiridos
 
-As entidades integradas no SEP, nos termos do artigo 17.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, e que detenham, à data da entrada em vigor do presente diploma, direitos de utilização do domínio hídrico devem, em conjugação com a entidade concessionária da RNT, regularizar, no prazo de um ano, o regime de utilização daquele domínio, nos termos dos artigos 6.º e 7.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31.
 
 ###### Artigo 54.º — Norma revogatória
 

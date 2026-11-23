@@ -7,9 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:691435:por
-    title: Lei n.º 36/91
-    publication_date: '1991-07-27'
+  - id: pt:dre:469072:por
+    title: Lei n.º 65/90
+    publication_date: '1990-12-28'
 ---
 
 # Decreto-Lei n.º 143-A/89
@@ -30,7 +30,7 @@ Artigo 1.º Aos rendimentos da dívida pública interna emitida entre 1 de Janei
 
 Art. 2.º (Revogado.)
 
-> Alterado pelo/a [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), publicado em 1991-07-27.
+> Alterado pelo/a [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), publicado em 1990-12-28.
 
 Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 

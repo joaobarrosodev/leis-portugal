@@ -10,9 +10,9 @@ consolidacao:
   - id: pt:dre:150512:por
     title: Decreto-Lei n.º 12/92
     publication_date: '1992-02-04'
-  - id: pt:dre:226646:por
-    title: Decreto-Lei n.º 330-A/95
-    publication_date: '1995-12-16'
+  - id: pt:dre:671934:por
+    title: Decreto-Lei n.º 294/97
+    publication_date: '1997-10-24'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -79,35 +79,115 @@ Ficam revogadas todas as disposições legais que atribuem isenções de portage
 
 Ficam os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações autorizados a, por parte do Estado, outorgar os documentos necessários à formalização das alterações ao contrato de concessão, com faculdade de delegação, decorrentes da entrada em vigor do presente diploma.
 
-8 - O valor das taxas de portagem aplicado na A7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este.
+(Revogada.)
 
-9 - Relativamente à supressão de portagem na A9 - Auto-Estrada CREL (Estádio Nacional-Alverca), desde o Estádio Nacional (A5) até Alverca, aplicar-se-ão os seguintes princípios:
+(Revogada.)
 
-a) Os utentes das auto-estradas (A1 e A8) que utilizem parcial ou totalmente a A9 - Auto-Estrada CREL (Estádio Nacional-Alverca) pagarão, tão-só, as taxas correspondentes aos percursos que efectuarem naquelas auto-estradas (A1 e A8).
+(Revogada.)
 
-b) Sem prejuízo do disposto na alínea c) do n.º 2 da base I, os utentes da A-9 - Auto-Estrada CREL (Estádio Nacional-Alverca) deverão cumprir todas as regras de controlo de portagens, retirando sempre o título de trânsito na portagem de entrada e apresentando-o na portagem de saída;
+(Revogada.)
 
-c) Os aderentes ao sistema via verde deverão utilizar as vias especificamente sinalizadas para esse efeito;
+(Revogada.)
 
-d) O não cumprimento das regras de controlo de portagem, nomeadamente a não apresentação do título de trânsito na portagem de saída, será punida nos termos dos n.os 7 e seguintes da base XVIII anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto.
+(Revogada.)
 
-6 - As taxas de portagem a praticar inicialmente nos lanços e sublanços que entrem em serviço posteriormente à presente data serão aprovadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária, a qual será apresentada com a antecedência mínima de 60 dias em relação à data prevista para a sua entrada em vigor, prazo findo o qual as referidas taxas se consideram tacitamente aprovadas.
+(Revogada.)
 
-7 - A falta de pagamento de qualquer taxa de portagem devidamente aprovada é punida com multa, nunca inferior a 5000$00, cujo montante mínimo será igual a 10 vezes o valor da respectiva taxa de portagem e o máximo o quíntuplo do mínimo.
+(Revogada.)
 
-8 - Quando for variável a determinação da taxa de portagem em função do percurso percorrido, deve considerar-se o valor máximo cobrável no respectivo lanço.
+(Revogada.)
 
-9 - Sempre que um utente passe uma portagem sem proceder ao pagamento da taxa devida é levantado auto de notícia.
+(Revogada.)
 
-10 - Além das entidades com competência para a fiscalização do trânsito, podem levantar os autos referidos no número anterior os portageiros da entidade concessionária, os quais se consideram, para esse efeito, equiparados a funcionários públicos.
+(Revogada.)
 
-11 - A detecção das infracções previstas no n.º 7 pode ser efectuada através de equipamentos técnicos que registem a imagem do veículo com o qual a infracção foi praticada.
+(Revogada.)
 
-12 - Os aparelhos a utilizar para o fim mencionado no número anterior devem ser previamente aprovados pela Direcção-Geral de Viação, nos termos e para os efeitos do n.º 5 do artigo 64.º do Código da Estrada.
+(Revogada.)
 
-O prazo de concessão termina em 31 de Dezembro do ano 2025.
+(Revogada.)
 
-> Alterado pelo/a [Decreto-Lei n.º 330-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-a-1995-226646), publicado em 1995-12-16.
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+(Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 294/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), publicado em 1997-10-24.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 

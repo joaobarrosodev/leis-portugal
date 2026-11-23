@@ -48,30 +48,36 @@
       "epigrafe": "",
       "texto": "Quando os agentes fiscalizadores do Gabinete de Gestão do Fundo de Desemprego verificarem alguma infracção ao disposto no artigo 10.º, levantarão de imediato o competente auto de transgressão, onde o infractor deverá ser identificado pelo nome, estado, profissão, residência e naturalidade.\n\n§ 1.º Quando se trate de contravenções previstas no artigo 10.º, o director do Gabinete de Gestão do Fundo de Desemprego fixará a multa correspondente de harmonia com a gravidade da falta, a importância das quotizações a pagar e as demais circunstâncias do caso.\n\n§ 2.º O auto de transgressão será remetido ao tribunal judicial competente depois de ter aguardado na repartição de finanças respectiva, durante o prazo de 10 dias, o pagamento voluntário da multa.",
       "alterador": 6
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "Quando se reconheça, em face dos elementos constantes dos relatórios e averiguações complementares a que se refere o artigo anterior, que não foram pagas as quotizações devidas para o Fundo de Desemprego, o Comissariado procederá à liquidação do montante das quotizações em dívida, e notificará a entidade responsável pelo seu pagamento, nos termos do artigo 6.º, para, dentro do prazo de dez dias, satisfazer o seu débito ou apresentar a sua reclamação nos termos do artigo 15.º\n\n§ único. As liquidações a que se refere o corpo deste artigo não poderão ultrapassar os últimos cinco anos, e serão acrescidas de uma taxa de 20% como compensação da mora no seu pagamento.",
+      "alterador": 4
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, artigo 18.º (fixa em 1,5 por cento a taxa do artigo 1.º): não textual, fixa a taxa sem dar nova redacção ao artigo 1.º, cujo texto («1 por cento») aparece no corpo e nos §§ 2.º e 5.º\nAlterador 2, artigo 1.º (taxa do artigo 18.º do Decreto-Lei n.º 237/70 fixada em 4%): outro diploma, a instrução é dirigida ao Decreto-Lei n.º 237/70\nAlterador 2, artigo 2.º (quotização do artigo 2.º fixada em 4%, ou 3,5% para inscritos em caixas): não textual, fixa a taxa sem dar nova redacção ao artigo 2.º\nAlterador 3, artigo 1.º (os modelos de guias A e B anexos são substituídos pelo modelo único): só em imagem, o modelo novo só vem em imagem e os modelos A e B não têm título de anexo no texto atual\nAlterador 4, artigo 3.º (a multa do § único do artigo 6.º reduzida a metade se paga no prazo do artigo 175.º do CPCI): não textual, norma autónoma sem nova redacção do artigo 6.º\nAlterador 4, artigo 4.º (taxa de compensação pela mora do § único do artigo 14.º elevada para 20%): não textual, eleva a taxa sem dar nova redacção ao § único do artigo 14.º",
+  "nao_aplicavel": "Alterador 1, art. 18.º (fixa em 1,5 por cento a taxa a que se refere o artigo 1.º): alvo incerto: não dá nova redação; o artigo 1.º tem «1 por cento» no corpo, no § 2.º e no § 5.º e o alterador não diz quais mudam nem como se escreve a nova taxa no texto.\nAlterador 2, art. 1.º (taxa do artigo 18.º do DL 237/70 fixada em 4%): outro diploma: visa o artigo 18.º do DL 237/70 e só por esse meio a taxa do artigo 1.º do original, sem nova redação (e o mesmo alvo incerto do art. 18.º do DL 237/70).\nAlterador 2, art. 2.º (quotização do artigo 2.º fixada em 4%, 3,5% para inscritos em caixas): alvo incerto: não dá nova redação; a taxa aparece no corpo e nos §§ 2.º, 3.º e 5.º do artigo 2.º, e o regime do § 5.º remete para a alteração do DL 760/75, que não está entre os alteradores.\nAlterador 2, arts. 3.º e 4.º (contribuição e quotização dos trabalhadores rurais permanentes): não textual: normas autónomas, não alteram a letra do original.\nAlterador 3, art. 1.º (modelos A e B substituídos pelo modelo único anexo): só em imagem: o modelo novo só vem em imagem e os modelos A e B não têm título de anexo no texto atual (estão no fim do corpo do artigo 22.º).\nAlterador 4, art. 3.º (multa do § único do artigo 6.º reduzida a metade se paga no prazo do artigo 175.º do CPCI): não textual: acrescenta um regime sem dar nova redação ao § único do artigo 6.º.",
   "instrucoes": [
-    "Alt1 arts. 1.º-17.º, 19.º-20.º: dirigidos a outros impostos e códigos; nada no original",
-    "Alt1 art. 18.º: taxa do art. 1.º fixada em 1,5%; sem nova redacção, em nao_aplicavel",
-    "Alt2 art. 1.º: taxa do art. 18.º do DL 237/70; outro diploma, em nao_aplicavel",
-    "Alt2 art. 2.º: quotização do art. 2.º fixada em 4%/3,5%; sem nova redacção, em nao_aplicavel (confirma o reparo)",
-    "Alt2 arts. 3.º-6.º: normas autónomas sobre o sector agrícola; não alteram o texto",
-    "Alt2 art. 7.º: revogadas a alínea d) do art. 4.º e a alínea b) do art. 5.º; aplicado",
-    "Alt3 art. 1.º: modelos de guias substituídos pelo modelo único em imagem; sem título de anexo, em nao_aplicavel",
-    "Alt4 arts. 3.º e 4.º: redução da multa do § único do art. 6.º e taxa de mora de 20% do § único do art. 14.º; sem nova redacção, em nao_aplicavel; arts. 1.º, 2.º e 5.º normas autónomas",
-    "Alt5 art. 1.º: nova redacção dos arts. 6.º (§ único), 7.º (inteiro), 8.º (inteiro) e 10.º (§ 2.º); aplicada (10.º depois substituído pelo Alt6)",
-    "Alt5 art. 2.º: revogado o art. 9.º; aplicado; arts. 3.º-5.º normas autónomas",
-    "Alt6 art. 1.º: nova redacção dos arts. 7.º (§ 2.º mantém-se do Alt5), 10.º e 12.º; aplicada; arts. 2.º-4.º normas autónomas",
-    "Alt7 art. 1.º: nova redacção do corpo e alíneas do art. 7.º, §§ 1.º-4.º mantidos; aplicada"
+    "DL 237/70 (alt. 1), arts. 1.º-17.º e 19.º-20.º: alteram outros códigos ou são autónomos; não visam o original.",
+    "DL 237/70, art. 18.º: taxa do artigo 1.º fixada em 1,5% — não aplicado (alvo incerto, sem nova redação); ver nao_aplicavel.",
+    "DL 169-C/75 (alt. 2), arts. 1.º e 2.º: taxas fixadas em 4% / 3,5% — não aplicadas (sem nova redação, alvo incerto); ver nao_aplicavel.",
+    "DL 169-C/75, art. 7.º: revogadas a alínea d) do artigo 4.º e a alínea b) do artigo 5.º — aplicado.",
+    "DL 612/76 (alt. 3): substitui os modelos de guia por modelo único em imagem — não aplicado (só em imagem, sem título de anexo).",
+    "DL 190/79 (alt. 4), art. 4.º: taxa de compensação pela mora do § único do artigo 14.º elevada para 20% — aplicado ('10 por cento' -> '20%').",
+    "DL 190/79, art. 3.º: redução da multa a metade — não textual; arts. 1.º, 2.º, 5.º autónomos.",
+    "DL 67/80 (alt. 5), art. 1.º: nova redação do § único do artigo 6.º, do artigo 7.º, do artigo 8.º e do § 2.º do artigo 10.º; art. 2.º: revoga o artigo 9.º — aplicado (artigo 10.º depois substituído pelo DL 240/83, § 2.º do artigo 7.º mantém-se desta redação).",
+    "DL 240/83 (alt. 6), art. 1.º: nova redação dos artigos 7.º (§ 2.º '...'), 10.º e 12.º — aplicado.",
+    "DL 233/84 (alt. 7): nova redação do corpo do artigo 7.º (§§ 1.º a 4.º '...') — aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
-  "problemas": [],
+  "ronda_camada1": 116,
+  "problemas": [
+    "14.º: parágrafo que não está no alterador nem no original: § único. As liquidações a que se refere o corpo deste artigo não poderão ultrapa"
+  ],
   "numeracao_aceite": [],
   "avisos": []
 }

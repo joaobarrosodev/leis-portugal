@@ -271,7 +271,8 @@ def texto_dos_reparos(id_: str, ultima: dict[str, list[dict]]) -> str | None:
     _, resposta = _resposta(id_)
     problemas = (resposta or {}).get("problemas") or []
     achados = _achados_da_triagem().get(id_, [])
-    if not artigos and not falta and not problemas and not achados:
+    segunda = _segunda_e_nada().get(id_, [])
+    if not artigos and not falta and not problemas and not achados and not segunda:
         return None
     partes = ["### Reparos às respostas anteriores",
               "Uma resposta anterior a este diploma foi verificada por outro modelo e por um programa, que encontraram estes",
@@ -288,10 +289,26 @@ def texto_dos_reparos(id_: str, ultima: dict[str, list[dict]]) -> str | None:
         partes.append(f"- Instrução que não se vê aplicada: {i if isinstance(i, str) else json.dumps(i, ensure_ascii=False)}")
     for p in problemas[:30]:
         partes.append(f"- Problema na verificação letra a letra da resposta anterior: {p}")
+    for s in segunda:
+        partes.append(f"- {s}")
     for a in achados:
         o_que = "; ".join(a["instrucoes"]) or a["motivo"]
         partes.append(f"- Uma triagem às cegas leu {a['alterador']} e viu ({a['veredicto']}): {o_que}")
     return "\n".join(partes) + "\n"
+
+
+def _segunda_e_nada() -> dict[str, list[str]]:
+    """Os problemas da segunda leitura jurídica e as instruções em falta da verificação do «nada a aplicar»,
+    para os reparos da ronda 116."""
+    por: dict[str, list[str]] = {}
+    for f in sorted((CAMADA1 / "segunda").glob("segunda-*.json")):
+        for d in json.loads(f.read_text(encoding="utf-8")):
+            if d["veredicto"] != "certo":
+                por.setdefault(d["id"], []).extend(f"Uma segunda leitura jurídica encontrou: {p}" for p in d.get("problemas") or [])
+    for f in sorted((CAMADA1 / "nada").glob("resposta-*.json")):
+        for d in json.loads(f.read_text(encoding="utf-8")):
+            por.setdefault(d["id"], []).extend(f"Instrução que não se vê aplicada: {i}" for i in d.get("instrucoes_em_falta") or [])
+    return por
 
 
 def pedidos_llm(itens: list[dict], ids_extra: list[str], nome: str = "pedidos", so_extra: bool = False) -> int:
@@ -475,7 +492,7 @@ def importar(pastas: list[str]) -> int:
     lc.COMPLETO.mkdir(parents=True, exist_ok=True)
     for i, partes in por_id.items():
         resposta = partes[0] if len(partes) == 1 else lc._fundir(partes)
-        resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo", "ronda_camada1": 115}
+        resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo", "ronda_camada1": RONDA}
         extra = lc._estado(selecao[i])
         atuais = [lc._texto_atual(extra["consolidado"]), extra["consolidado"].texto()] if extra.get("consolidado") is not None else []
         problemas = lc.verificar_resposta(resposta, selecao[i], atuais)
@@ -529,6 +546,21 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",)}
+
+
+def _sufixo() -> str:
+    """As pastas `nada/` e `segunda/` são da ronda 115; as das rondas seguintes levam o número."""
+    return "" if RONDA == 115 else f"-{RONDA}"
+
+
+def _nossos() -> set[str]:
+    nossos = set()
+    for nome in PASTAS_DA_RONDA[RONDA]:
+        for f in (CAMADA1 / nome).glob("*/resposta-*.json"):
+            lido = json.loads(f.read_text(encoding="utf-8"))
+            nossos |= {r["id"] for r in (lido if isinstance(lido, list) else [lido])}
+    return nossos
 
 
 def ronda() -> int:
@@ -542,11 +574,7 @@ def ronda() -> int:
     if list(VERIFICACAO.glob(f"entrada-piloto-{RONDA}-lote-*.jsonl")):
         raise SystemExit(f"a ronda {RONDA} já tem entrada")
     subprocess.run([sys.executable, str(PASTA / "cegas.py"), "--escala", "--ronda", str(RONDA)], check=True)
-    nossos = set()
-    for nome in ("pedidos", "pedidos-2"):
-        for f in (CAMADA1 / nome).glob("*/resposta-*.json"):
-            lido = json.loads(f.read_text(encoding="utf-8"))
-            nossos |= {r["id"] for r in (lido if isinstance(lido, list) else [lido])}
+    nossos = _nossos()
     linhas, fora = [], Counter()
     for f in sorted(VERIFICACAO.glob(f"entrada-piloto-{RONDA}-lote-*.jsonl")):
         for d in _jsonl(f):
@@ -574,11 +602,7 @@ def acrescentar_iguais() -> int:
     from cegas import VERIFICACAO, linha_de  # noqa: PLC0415
 
     selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
-    nossos = set()
-    for nome in ("pedidos", "pedidos-2"):
-        for f in (CAMADA1 / nome).glob("*/resposta-*.json"):
-            lido = json.loads(f.read_text(encoding="utf-8"))
-            nossos |= {r["id"] for r in (lido if isinstance(lido, list) else [lido])}
+    nossos = _nossos()
     lotes = sorted(VERIFICACAO.glob(f"entrada-piloto-{RONDA}-lote-*.jsonl"))
     linhas = [d for f in lotes for d in _jsonl(f)]
     ja = {d["id"] for d in linhas}
@@ -653,12 +677,8 @@ def entrada_nada() -> int:
     for nome in ("juntados-completo.jsonl", "juntados-corrido.jsonl"):
         for j in _jsonl(PASTA / "llm" / nome):
             juntados[j["id"]] = j
-    nossos = set()
-    for nome in ("pedidos", "pedidos-2"):
-        for f in (CAMADA1 / nome).glob("*/resposta-*.json"):
-            lido = json.loads(f.read_text(encoding="utf-8"))
-            nossos |= {r["id"] for r in (lido if isinstance(lido, list) else [lido])}
-    pasta = CAMADA1 / "nada"
+    nossos = _nossos()
+    pasta = CAMADA1 / f"nada{_sufixo()}"
     pasta.mkdir(exist_ok=True)
     linhas = []
     for i in sorted(nossos):
@@ -738,26 +758,34 @@ def estado() -> int:
     for nome in ("juntados-completo.jsonl", "juntados-corrido.jsonl"):
         for j in _jsonl(PASTA / "llm" / nome):
             juntados[j["id"]] = j
-    nossos = set()
-    for nome in ("pedidos", "pedidos-2"):
-        for f in (CAMADA1 / nome).glob("*/resposta-*.json"):
-            lido = json.loads(f.read_text(encoding="utf-8"))
-            nossos |= {r["id"] for r in (lido if isinstance(lido, list) else [lido])}
+    nossos = _nossos()
     ronda: dict[str, list[dict]] = {}
     for f in sorted((PASTA / "verificacao").glob(f"saida-piloto-{RONDA}-lote-*.jsonl")):
         for d in _jsonl(f):
             ronda.setdefault(d["id"], []).append(d)
     nada = {}
-    for f in sorted((CAMADA1 / "nada").glob("resposta-*.json")):
+    for f in sorted((CAMADA1 / f"nada{_sufixo()}").glob("resposta-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             nada[d["id"]] = d
     segunda = {}
-    for f in sorted((CAMADA1 / "segunda").glob("segunda-*.json")):
+    for f in sorted((CAMADA1 / f"segunda{_sufixo()}").glob("segunda-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             segunda[d["id"]] = d
+    anteriores = {e["id"]: e for e in _jsonl(ESTADO)} if RONDA != 115 and ESTADO.exists() else {}
+    # barreira mecânica (texto_antigo.py): o corpo antigo que fica a seguir à nova redação ou a «(Revogado.)»
+    import texto_antigo  # noqa: PLC0415
+    mecanica = {}
+    for f in sorted((PASTA / "verificacao").glob(f"entrada-piloto-{RONDA}-lote-*.jsonl")):
+        for d in _jsonl(f):
+            achados = texto_antigo.marcados(d.get("texto_original", ""), d.get("texto_consolidado", ""))
+            if achados:
+                mecanica[d["id"]] = achados
     linhas = []
     for item in itens:
         i = item["id"]
+        if anteriores and i not in nossos:
+            linhas.append(anteriores[i])
+            continue
         e = {"id": i, "titulo": item["titulo"], "citado_por_vigentes": item["citado_por_vigentes"], "central": item["central"],
              "classe_inventario": item["classe"], "categoria": item["categoria"]}
         tri = triagem.get(i)
@@ -772,25 +800,30 @@ def estado() -> int:
             justificadas = diploma.get("instrucoes_justificadas") or []
             if not bom:
                 e |= {"estado": "recusado_as_cegas", "motivo": _resumo_cegas(linhas_r), "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl"}
+            elif i in mecanica:
+                e |= {"estado": "recusado_na_verificacao_mecanica",
+                      "motivo": "passou às cegas, mas o texto antigo ficou a seguir à nova redação ou a «(Revogado.)»: "
+                      + "; ".join(f"art. {a['artigo']} («{a['exemplo'][:80]}»)" for a in mecanica[i])[:600],
+                      "prova": "consolidacao/texto_antigo.py sobre verificacao/entrada-piloto-*.jsonl"}
             elif i not in segunda:
                 e |= {"estado": "por_ver", "motivo": "passou às cegas; falta a segunda leitura"}
             elif segunda[i]["veredicto"] != "certo":
                 e |= {"estado": "recusado_na_segunda_leitura", "motivo": "; ".join(segunda[i].get("problemas") or [])[:600],
-                      "prova": "camada1/segunda/segunda-*.json"}
+                      "prova": f"camada1/segunda{_sufixo()}/segunda-*.json"}
             else:
                 e |= {"estado": "aplicar", "motivo": f"certo às cegas e na segunda leitura; {len(justificadas)} instruções não aplicadas com motivo confirmado às cegas",
-                      "nao_aplicadas": justificadas, "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl; camada1/segunda/segunda-*.json"}
+                      "nao_aplicadas": justificadas, "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl; camada1/segunda{_sufixo()}/segunda-*.json"}
             if i in segunda and segunda[i].get("vigencia"):
                 e["vigencia"] = segunda[i]["vigencia"]
         elif i in nada:
             d = nada[i]
             if d.get("instrucoes_em_falta"):
                 e |= {"estado": "recusado_as_cegas", "motivo": "a resposta não aplicou nada, mas o verificador viu instruções por aplicar: "
-                      + "; ".join(str(x)[:200] for x in d["instrucoes_em_falta"]), "prova": "camada1/nada/resposta-*.json"}
+                      + "; ".join(str(x)[:200] for x in d["instrucoes_em_falta"]), "prova": f"camada1/nada{_sufixo()}/resposta-*.json"}
             else:
                 e |= {"estado": "sem_alteracao_aplicavel", "motivo": "nada a aplicar, confirmado às cegas: "
                       + "; ".join(f"{x.get('instrucao')}: {x.get('motivo')}" for x in (d.get("instrucoes_justificadas") or []))[:800],
-                      "prova": "camada1/nada/resposta-*.json"}
+                      "prova": f"camada1/nada{_sufixo()}/resposta-*.json"}
         elif i in nossos and juntados.get(i, {}).get("estado") == "não junto":
             e |= {"estado": "resposta_recusada", "motivo": str(juntados[i].get("motivo"))[:600], "prova": "llm/juntados-*.jsonl"}
         elif tri is not None and tri["classe"] != "para_llm":
@@ -801,6 +834,9 @@ def estado() -> int:
                   "prova": "camada1/triagem.jsonl"}
         else:
             e |= {"estado": "por_ver", "motivo": "sem resultado nesta onda"}
+        if anteriores:
+            e["ronda"] = RONDA
+            e["estado_ronda_anterior"] = anteriores[i]["estado"]
         linhas.append(e)
     ESTADO.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
     print(f"{len(linhas)} diplomas em {ESTADO.relative_to(RAIZ)}")
@@ -809,14 +845,58 @@ def estado() -> int:
     return 0
 
 
+A_REPEDIR = ("recusado_as_cegas", "recusado_na_segunda_leitura", "resposta_recusada", "recusado_na_verificacao_mecanica")
+
+
+def refazer_selecao() -> int:
+    """Ronda 116: os recusados da onda 1 com a seleção refeita sobre o export de hoje, com as retificações
+    (`corrected_by`) e as revogações (`repealed_by`) na lista de alteradores. A segunda leitura mostrou que
+    eram estas que faltavam. Substitui as linhas destes diplomas em `selecao-escala.jsonl`, corre as
+    regras (`consolidar.processar`) e substitui as linhas em `resultados-escala.jsonl`, na parte 7 e nos
+    pendentes."""
+    from consolidar import processar  # noqa: PLC0415
+    from selecionar import completar, selecionar_todos  # noqa: PLC0415
+
+    ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
+    db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
+    novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": "ronda 116"} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    linhas = [json.loads(l) for l in SELECAO_ESCALA.read_text(encoding="utf-8").splitlines() if l.strip()]
+    trocadas = 0
+    with SELECAO_ESCALA.open("w", encoding="utf-8") as f:
+        for r in linhas:
+            if r["id"] in novos:
+                r = novos[r["id"]]
+                trocadas += 1
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    estados = {i: processar(r) for i, r in novos.items()}
+    for ficheiro in (PASTA / "resultados-escala.jsonl", PARTE):
+        resultado = _jsonl(ficheiro)
+        ja = {r["id"] for r in resultado}
+        resultado = [({k: v for k, v in estados[r["id"]].items() if k != "pendentes"} | {"segundos": 0}) if r["id"] in estados else r for r in resultado]
+        resultado += [{k: v for k, v in e.items() if k != "pendentes"} for i, e in estados.items() if i not in ja and ficheiro == PARTE]
+        ficheiro.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in resultado), encoding="utf-8")
+    pendentes = [p for p in _jsonl(PASTA / "pendentes-escala.jsonl") if p["id"] not in estados]
+    for i, e in estados.items():
+        if e.get("pendentes") and e["estado"] in ("para LLM", "falhou a verificação"):
+            pendentes.append({"id": i, "title": e["title"], "itens": e["pendentes"]})
+    (PASTA / "pendentes-escala.jsonl").write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pendentes), encoding="utf-8")
+    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
+    print(f"{trocadas} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
+    print(dict(Counter(e["estado"] for e in estados.values())))
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado"))
+    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao"))
     parser.add_argument("n", type=int)
+    parser.add_argument("--ronda", type=int, default=115, choices=sorted(PASTAS_DA_RONDA))
     parser.add_argument("--pasta", default="pedidos", help="pedidos: a pasta em camada1/")
     parser.add_argument("--so-extra", action="store_true", help="pedidos: só os de --ids-extra")
     parser.add_argument("--ids-extra", type=Path, help="pedidos: mais estes ids (um por linha), p. ex. os que a triagem às cegas mandou para o LLM")
     args = parser.parse_args()
+    global RONDA  # noqa: PLW0603
+    RONDA = args.ronda
     CAMADA1.mkdir(exist_ok=True)
     ficheiro = CAMADA1 / f"onda-{args.n}.jsonl"
     if args.passo == "onda":
@@ -828,6 +908,8 @@ def main() -> int:
         return 0
     if args.passo == "juntar-triagem":
         return juntar_triagem()
+    if args.passo == "refazer-selecao":
+        return refazer_selecao()
     if args.passo == "estado":
         return estado()
     if args.passo == "entrada-nada":
@@ -839,7 +921,7 @@ def main() -> int:
     if args.passo == "ronda":
         return ronda()
     if args.passo == "importar":
-        return importar(["pedidos", "pedidos-2"])
+        return importar(list(PASTAS_DA_RONDA[RONDA]))
     if args.passo == "encolher":
         return encolher(args.pasta, 300_000)
     itens = _jsonl(ficheiro)

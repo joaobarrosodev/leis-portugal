@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:590339:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 61/90, art. 1.º: o n.º 3 passa à nova redação (salvo juros capitalizados); n.os 1, 2, 4, 5, 6 inalterados. O consolidado mantém a numeração 1) 2) ... do original e o n.º 3 em «3 -», o que é só formatação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Acórdão n.º 260/98 sobre o art. 43.º: o texto do acórdão está omitido na vista (só um resumo da triagem), não consigo confirmar que não é textual."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 60/90: mapas II a IV e VII anexos substituem, na parte respectiva, os mapas da Lei 101/89",
+    "motivo": "O alterador remete para mapas que só existem no documento original (imagem); o consolidado não tem anexo com título onde os pôr."
+   },
+   {
+    "instrucao": "Lei n.º 61/90, art. 2.º: limite de 40 milhões de contos do art. 8.º elevado para 90",
+    "motivo": "O alterador só dá o novo limite, não traz o texto da nova redação do artigo 8.º."
+   },
+   {
+    "instrucao": "Lei n.º 61/90, art. 3.º: limite do n.º 4 do art. 11.º elevado para 65 milhões de contos",
+    "motivo": "O alterador só dá o novo limite, não traz o texto da nova redação do n.º 4."
+   },
+   {
+    "instrucao": "Lei n.º 61/90, art. 4.º: limite de 80 milhões da alínea a) do n.º 3 do art. 12.º reduzido para 30 milhões",
+    "motivo": "O alterador só dá o novo limite, não traz o texto da nova redação da alínea."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:638772:por",
+  "artigos": [
+   {
+    "chave": "48.º-A",
+    "epigrafe": "Âmbito",
+    "texto": "1 - Sem prejuízo do disposto nos capítulos anteriores, as operações de execução do cadastro predial a realizar em zonas de intervenção florestal (ZIF) ficam sujeitas às especificidades previstas no presente capítulo.\n\n2 - Para efeitos do disposto no número anterior, uma operação de execução do cadastro predial abrange a área territorial da ZIF respectiva delimitada pelo seu perímetro exterior, incluindo os prédios encravados constantes da planta anexa ao correspondente despacho de criação ou de alteração.",
+    "alterador": 1
+   },
+   {
+    "chave": "48.º-B",
+    "epigrafe": "Competências",
+    "texto": "1 - A Autoridade Florestal Nacional integra a equipa de apoio técnico a que se refere o artigo 18.º\n\n2 - As câmaras municipais apoiam as operações de execução do cadastro predial, nos termos do artigo 17.º",
+    "alterador": 1
+   },
+   {
+    "chave": "48.º-C",
+    "epigrafe": "Entidade executante",
+    "texto": "1 - As entidades gestoras das ZIF são competentes para realizar operações de execução do cadastro na área territorial da respectiva ZIF e pelo período que lhes vier a ser fixado para o efeito, na qualidade de entidades executantes.\n\n2 - Para os efeitos do número anterior, a entidade executante deve comunicar ao IGP que pretende realizar a operação de execução do cadastro predial, juntando os seguintes elementos:\n\na) Identificação da entidade gestora da ZIF e do respectivo responsável;\n\nb) Identificação do coordenador das operações de execução do cadastro predial, habilitado com curso superior e com os requisitos julgados necessários para o desempenho da operação de execução do cadastro predial;\n\nc) Demonstração da capacidade técnica mediante identificação dos meios técnicos e humanos a afectar à operação.\n\n3 - Os termos e as condições, bem como as normas e especificações técnicas a que deve obedecer a operação de execução do cadastro predial em ZIF, são contratualizados entre as entidades referidas no capítulo iii, a Autoridade Florestal Nacional e a entidade executante, no prazo de 30 dias após a apresentação da comunicação referida no número anterior.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aditamento do título de divisão «CAPÍTULO V-A — Cadastro predial em zonas de intervenção florestal» (artigo 3.º): alvo incerto — o título não existe no texto atual e a resposta só pode mudar títulos que lá estão; os artigos 48.º-A a 48.º-C que o integram foram aditados.",
+  "instrucoes": [
+   "Alterador 1 (Decreto-Lei n.º 65/2011), artigo 2.º: nova redação do artigo 52.º — o texto atual (já alterado pelo programa) já corresponde à nova redação; sem mudança.",
+   "Alterador 1, artigo 3.º: aditamento do capítulo V-A com os artigos 48.º-A, 48.º-B e 48.º-C — artigos aditados; o título do capítulo vai em nao_aplicavel.",
+   "Alterador 1, artigo 4.º: republicação — sem efeito no texto.",
+   "Alterador 2 (Decreto-Lei n.º 16/2025): altera o Decreto-Lei n.º 72/2023 e a Lei n.º 3/2015; só menciona o original no preâmbulo; sem mudança."
+  ]
+ }
+]
