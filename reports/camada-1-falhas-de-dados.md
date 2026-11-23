@@ -2,7 +2,10 @@
 
 Segue a tabela «Resumo» de `reports/inventario-camada-1.md`. As provas de cada número estão em
 `reports/camada-1-falhas-de-dados/`. O índice não foi reconstruído e o export é o de antes da recolha. O `data/`
-está limpo e com commit no main (`c1a6cbfbd23`): recolha em `8443c1dc0d5`, `structure` em `045e132a2b9`.
+está limpo e com commit no main. Os commits:
+
+- 20/11: recolha em `8443c1dc0d5` e `structure` em `045e132a2b9`;
+- 23/11: recolha completa em `1db6fe3f267` e `structure` com a regra da linha 3 em `bab2b9a9610`.
 
 ## Resumo
 
@@ -13,7 +16,7 @@ está limpo e com commit no main (`c1a6cbfbd23`): recolha em `8443c1dc0d5`, `str
 | 5 | Centrais conferidos contra o DRE | não conferidos | 156 conferidos, 154 com todos os artigos iguais | 2 com um artigo que a comparação não alinha (tabelas); os 42 centrais que não são consolidados do DRE não têm com que comparar |
 | 10 | Código Comercial | fora do acervo | entrou a Carta de Lei de 28/6/1888 que o aprova | O articulado do código: o DRE não o tem. Precisa de outra fonte, que é decisão do João |
 | 8 e 18 | Revogados por inteiro que o DRE dá como em vigor | 217 e 58 (tetos) | 9 verificados e já `repealed` nos registos | 261: sem prova que chegue (ver abaixo). 5 dos 58 já tinham marca |
-| 3 | Vigência desconhecida | 2.449 prioritários | sem mudança: a regra está descrita e medida, **por aplicar** | À espera de decisão (ver «Linha 3») |
+| 3 | Vigência desconhecida | 2.449 prioritários | 1.893 `in_force` por inferência, marcados como inferidos (23/11) | Os que a regra deixa de fora (temporários, vigência limitada, ainda sem entrada em vigor) e os 22 só com digitalização |
 
 ## Linha 5: consolidados do DRE
 
@@ -72,7 +75,7 @@ está limpo e com commit no main (`c1a6cbfbd23`): recolha em `8443c1dc0d5`, `str
   - 8: li e não aceitei (revogação condicional ou diferida, só de um anexo, ou a frase não é a norma revogatória).
 - A linha 8 era um teto da triagem: 133 dos 217 estão `partially_in_force` no DRE, e em muitos é o DRE que tem razão.
 
-## Linha 3: vigência desconhecida (regra descrita, por aplicar)
+## Linha 3: vigência desconhecida (a regra como foi medida a 20/11; aplicada a 23/11, ver abaixo)
 
 **Universo:** 2.427 prioritários da 1.ª Série com `legal_status: unknown` e com texto (os outros 22 só têm
 digitalização). 2.418 são de 2014 em diante: o DRE deixou de preencher o campo.
@@ -137,10 +140,68 @@ Corri o `structure` na pasta principal para aplicar as nove provas e dar entrada
   de revogação do diploma inteiro, com o número e a data.
 - **Na camada 1** entram os nove estados e a entrada em vigor dos registos de hoje. O resto é 2.ª Série.
 
+## A recolha completa dos consolidados (20 a 23/11, commit `1db6fe3f267`)
+
+Foram pedidos de novo ao DRE, um de cada vez, os 6.039 registos do sitemap da legislação consolidada de 20/11. Assim se
+apanham os textos que mudam sem mudar a data do sitemap.
+
+- **Resultado:** 5.533 iguais, 226 reescritos e 276 sem texto consolidado na fonte. As 4 falhas de rede passaram à
+  segunda tentativa, com o texto igual, e ficaram como estavam.
+- **O que mudou nos 226:**
+  - em 209, só as datas da recolha e o hash da fonte;
+  - em 4, só as notas;
+  - em 3, os títulos, por exemplo «Artigo 23-B.º» no DL 142/2008, gralha copiada do DRE.
+- **Em 10, o texto:**
+  - o DRE mudou o texto do DL 222/96, do DL 307/2009, da Lei 43/90 e das portarias 49/2001, 101/2023, 1109-I/2000
+    e 248/2015 (esta alterada pela Portaria 511/2026/1);
+  - no DL 35/2012, só a pontuação;
+  - na Portaria 1109-A/2000, o título do anexo;
+  - no Código de Processo Civil (Lei 41/2013), saiu um «Artigo 11120.º»: era a cópia do artigo 1120.º com o número
+    errado, que vinha do DRE. O artigo 1120.º ficou.
+- **Nos centrais:** só 2 mudaram de texto, o Código de Processo Civil e o DL 307/2009 (reabilitação urbana, n.º 2 de um
+  artigo). O Código Civil mudou só nas notas. Fora os 226, os 5.533 recolhidos de novo têm o texto que já tinham.
+
+### A regra da linha 3 aplicada (commit `bab2b9a9610`)
+
+- **Antes da aplicação:** a regra foi conferida numa terceira amostra de 300 diplomas, com 1 erro (a Lei 51/2023).
+  Esse erro levou a alargar a condição do sumário. O limite superior do erro, a 95 %, é de 1,7 %.
+- **O que ficou nos registos:** 1.893 diplomas passam de `unknown` a `in_force`. Cada um tem a marca em
+  `legal_status_basis`: `source: sem_revogacao_conhecida`, `inferred: true`, `dre_status: unknown` e a regra em `rule`.
+  A lista está em `reports/vigencia-inferida.jsonl`.
+- **Condição nova:** a primeira corrida deu 1.898. Cinco eram decretos-leis de 2026 publicados mas ainda sem entrada em
+  vigor (DL 164, 183, 196, 210 e 214/2026). A regra passou a deixá-los de fora até essa data (commit `fe1b68fb6c5`).
+- **Duas provas manuais aplicadas:**
+  - DL 47678 (Código do Registo Civil de 1967): `not_in_force`, substituído pelo DL 51/78;
+  - DR 31/83: `repealed` pela Lei n.º 14/2015.
+- **O que conferi:**
+  - o corpo de nenhum dos 1.941 registos alterados muda, e os 1.941 passam o esquema;
+  - os outros 46 alterados só ganham a entrada em vigor (registos recolhidos há pouco);
+  - na app 0.1.1 só chega o `legal_status`, que ela já conhece. Nem o export nem a app leem o `legal_status_basis`.
+- **Validação do leitor no mesmo `structure`:** 169 de 177 consolidados com os mesmos artigos e epígrafes. Antes deu 174
+  de 179, mas noutra amostra, porque os candidatos mudaram. Os 8 que não batem são leituras de diplomas antigos (por
+  exemplo, despachos normativos de 1984 sem artigos lidos), não mudanças desta recolha.
+
+### A comparação artigo a artigo, depois da recolha
+
+O mesmo método da comparação de 20/11, nos centrais e numa amostra do resto.
+
+- **Os 179 centrais:**
+  - 177 com todos os artigos iguais: 27.406 artigos.
+  - Os outros 2 são os de 20/11: o artigo 71.º do DL 91/2009 e as «Listas I e II» do Código do IVA, que a comparação
+    não alinha.
+- **A amostra de 200 diplomas ao acaso:**
+  - 72 não são consolidados do DRE (a consolidação é do projeto) e não têm com que comparar.
+  - Dos 128 que são, 125 têm todos os artigos iguais (3.268 artigos).
+  - Nos outros 3, o que não alinha são 6 fragmentos que o DRE dá à parte e o leitor não conta como artigos:
+    - 4 quadros da Portaria 1515-A/2007;
+    - os anexos I a VI do DL 275-A/2000;
+    - o «§ único.» da Portaria 635/79, que está no registo.
+- **Datas:** em 16 diplomas (10 centrais e 6 da amostra), a data da versão do registo é anterior à última entrada em
+  vigor que o DRE lista (Código Penal: 24/8 contra 1/9/2026). Todos os artigos dos 16 são iguais aos do DRE. A
+  diferença está na data que o registo dá à versão, não no texto. A causa não está verificada.
+
 ## O que não fiz
 
 - Não corri `export` nem `rag.indice`.
-- Não apliquei a regra da linha 3.
-- Não fiz a recolha completa dos consolidados do DRE.
 - Os relatórios de `reports/inventario-camada-1/` foram regenerados sobre o índice publicado (`indice-fase1.sqlite`) e
   o sitemap de 20/11, mas com o export de antes desta recolha: a linha 5 ainda aparece lá com os números de antes.
