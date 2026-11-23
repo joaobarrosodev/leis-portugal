@@ -17,18 +17,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 4 (RCM 46/93), ampliação da concessão ao lanço Malveira-Torres Vedras: não textual — não altera o texto do original\nAlterador 5 (DL 330-A/95), art. 7.º (exoneração do reembolso do empréstimo do n.º 2 do artigo 3.º e outras medidas financeiras): não textual — não muda a redação do artigo 3.º\nAlterador 6 (DL 81/96), ampliação da concessão aos sublanços da A 6 e da A 12: não textual — não altera o texto do original\nAlterador 7 (DL 294/97), art. 4.º (remissões para a base XVIII): não textual\nAlterador 7 (DL 294/97), art. 6.º, n.º 2 (revogação parcial do DL 330-A/95): outro diploma\nAlterador 8 (DL 474-A/99), lei orgânica do Governo: não textual — só põe a BRISA na dependência de um ministro, sem instrução dirigida ao original\nAlterador 9 (DL 314-A/2002), art. 1.º e anexos I e II (bases anexas ao DL 294/97): outro diploma\nAlterador 9, art. 4.º, n.º 1 (revogação do art. 4.º do DL 330-A/95 e repristinação do regime de portagem da alínea h) do n.º 1 da base I): outro diploma — revoga um artigo do DL 330-A/95; a repristinação é não textual e as bases do original já estavam revogadas pelo DL 294/97\nAlterador 9, art. 4.º, n.º 2 (alínea c) do n.º 2 da base I das bases anexas ao DL 294/97): outro diploma",
+  "nao_aplicavel": "Alterador 1, publicação do título «ANEXO I — Bases do contrato de concessão» e da relação das bases: alvo incerto; o texto atual não tem título do anexo I (as bases vêm no corpo do artigo 5.º) e as regras não deixam criar títulos novos\nAlterador 4, ampliação da concessão ao lanço Malveira-Torres Vedras: não textual\nAlterador 5, artigo 7.º, alínea a), exoneração do reembolso do empréstimo do n.º 2 do artigo 3.º: não textual\nAlterador 6, ampliação da concessão aos sublanços da A 6 e da A 12: não textual\nAlterador 7, artigo 4.º, remissões para a base XVIII: não textual\nAlterador 8, Lei Orgânica do XIV Governo: não textual; não traz instrução dirigida ao original\nAlterador 9, artigos 1.º e 4.º, n.º 2, e anexos I e II (bases anexas ao Decreto-Lei n.º 294/97): outro diploma\nAlterador 9, artigo 4.º, n.º 1, repristinação do regime de portagem da alínea h) do n.º 1 da base I: não textual",
   "instrucoes": [
-    "Alterador 1 (Declaração de Rectificação n.º 261/91): retificações nas bases IX, n.º 4, XIX, n.º 2, XXIII, n.º 3, e XXVIII, n.º 6, e publicação do título do anexo I com a relação das bases — tudo dentro do anexo I (as bases, que vêm no corpo da chave 5.º), revogado depois por inteiro pelo alterador 7, por isso não fica texto a retificar.",
-    "Alterador 2 (DL 12/92): aditado o artigo 2.º-A (zonas de servidão non aedificandi), n.os 1 a 3 — novo elemento 2.º-A, copiado do alterador.",
-    "Alterador 3 (DL 193/92): nova redação dos n.os 6 a 12 da base XVIII — base revogada depois pelo alterador 7, que prevalece.",
-    "Alterador 5 (DL 330-A/95), arts. 3.º e 4.º (n.os 8 e 9 aditados à base I) e art. 6.º (base XLIII, prazo até 2025): bases revogadas depois pelo alterador 7, que prevalece. Os reparos pediam estas redações nas bases, mas não contam com a revogação de todas as bases pelo DL 294/97.",
-    "Alterador 7 (DL 294/97), art. 6.º, n.º 1: revoga as bases anexas ao DL 315/91 (a exceção é a base XXIII do DL 458/85, que não é texto do original). No corpo da chave 5.º, o artigo, as assinaturas e cada uma das 54 bases ficam com o título e a epígrafe, seguidos de «(Revogada.)». O bloco colado na resposta anterior foi retirado. O anexo II (Loures-Malveira) não é uma base e fica como está.",
-    "Alteradores 4, 6, 8 e 9 e o art. 6.º, n.º 2, do alterador 7: não há alteração textual do original, ou a instrução é de outro diploma. Vão em nao_aplicavel."
+    "Alterador 1 (Declaração de Rectificação n.º 261/91): retificações às bases IX, n.º 4, XIX, n.º 2, XXIII, n.º 3, e XXVIII, n.º 6: ficam sem efeito no texto porque o alterador 7 revoga todas as bases; título do anexo I: nao_aplicavel.",
+    "Alterador 2 (DL 12/92): adita o artigo 2.º-A; aditado com o texto do alterador.",
+    "Alterador 3 (DL 193/92): nova redação dos n.os 6 a 12 da base XVIII: absorvida pela revogação das bases pelo alterador 7.",
+    "Alterador 5 (DL 330-A/95): artigos 3.º e 4.º aditam os n.os 8 e 9 à base I; artigo 6.º dá nova redação à base XLIII: absorvidos pela revogação das bases pelo alterador 7 (as bases anexas ao DL 315/91 ficam revogadas, ainda que aqueles artigos do 330-A/95 se mantenham em vigor).",
+    "Alterador 7 (DL 294/97), artigo 6.º, n.º 1: revoga as bases anexas ao DL 315/91 (a exceção é a base XXIII anexa ao DL 458/85, de outro diploma); no artigo 5.º, que traz as bases no corpo, cada base I a LIV fica com o número, a epígrafe e «(Revogada.)»; o texto do artigo 5.º e as assinaturas ficam como estão.",
+    "Anexo II do original não é visado por nenhuma instrução; fica como está."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

@@ -2,6 +2,12 @@
   "id": "pt:dre:638772:por",
   "artigos": [
     {
+      "chave": "52.º",
+      "epigrafe": "Período experimental",
+      "texto": "1 - O prazo de aplicação do regime experimental previsto no presente decreto-lei e a identificação das áreas a que o mesmo se aplica são estabelecidos em portaria do membro do Governo responsável pelo ordenamento do território, mantendo-se em vigor no restante território nacional o disposto no Regulamento do Cadastro Predial, aprovado pelo [Decreto-Lei n.º 172/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1995-462035), de 18 de Julho.\n\n2 - Para efeitos do disposto no número anterior podem ser estabelecidas áreas que não coincidam, no seu âmbito territorial, com a delimitação das freguesias.",
+      "alterador": 1
+    },
+    {
       "chave": "48.º-A",
       "epigrafe": "Âmbito",
       "texto": "1 - Sem prejuízo do disposto nos capítulos anteriores, as operações de execução do cadastro predial a realizar em zonas de intervenção florestal (ZIF) ficam sujeitas às especificidades previstas no presente capítulo.\n\n2 - Para efeitos do disposto no número anterior, uma operação de execução do cadastro predial abrange a área territorial da ZIF respectiva delimitada pelo seu perímetro exterior, incluindo os prédios encravados constantes da planta anexa ao correspondente despacho de criação ou de alteração.",
@@ -23,16 +29,16 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, aditamento do título de divisão «CAPÍTULO V-A — Cadastro predial em zonas de intervenção florestal» (artigo 3.º): alvo incerto — o título não existe no texto atual e a resposta só pode mudar títulos que lá estão; os artigos 48.º-A a 48.º-C que o integram foram aditados.",
+  "nao_aplicavel": "Alterador 1, art. 3.º, aditamento do título «CAPÍTULO V-A — Cadastro predial em zonas de intervenção florestal» antes do artigo 48.º-A: alvo incerto — o título não está no texto atual e «titulos» só muda ou elimina títulos que lá estão; não há linha existente onde o pôr sem inventar a posição (fica entre o artigo 48.º e o artigo 48.º-A, sem título a que se prenda). Os artigos 48.º-A a 48.º-C foram aditados.",
   "instrucoes": [
-    "Alterador 1 (Decreto-Lei n.º 65/2011), artigo 2.º: nova redação do artigo 52.º — o texto atual (já alterado pelo programa) já corresponde à nova redação; sem mudança.",
-    "Alterador 1, artigo 3.º: aditamento do capítulo V-A com os artigos 48.º-A, 48.º-B e 48.º-C — artigos aditados; o título do capítulo vai em nao_aplicavel.",
-    "Alterador 1, artigo 4.º: republicação — sem efeito no texto.",
-    "Alterador 2 (Decreto-Lei n.º 16/2025): altera o Decreto-Lei n.º 72/2023 e a Lei n.º 3/2015; só menciona o original no preâmbulo; sem mudança."
+    "Alterador 1, art. 2.º: nova redação do artigo 52.º (n.os 1 e 2) — já aplicada pelo programa; devolvida com o texto do alterador letra a letra (com a ligação ao Decreto-Lei n.º 172/95).",
+    "Alterador 1, art. 3.º: adita os artigos 48.º-A (Âmbito), 48.º-B (Competências) e 48.º-C (Entidade executante) — aplicados; o título do capítulo V-A vai para nao_aplicavel.",
+    "Alterador 1, art. 4.º: republicação — sem instrução de texto.",
+    "Alterador 2 (Decreto-Lei n.º 16/2025): altera o Decreto-Lei n.º 72/2023 e a Lei n.º 3/2015; o original só aparece no preâmbulo — nenhuma instrução ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

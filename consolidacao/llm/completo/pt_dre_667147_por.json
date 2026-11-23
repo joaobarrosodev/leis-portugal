@@ -28,14 +28,14 @@
     {
       "chave": "12.º#2",
       "epigrafe": "Obras de conservação ordinária",
-      "texto": "As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e nos artigos 4.º e 120.º do presente diploma.",
-      "alterador": 5
+      "texto": "1 - As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e nos artigos 4.º e 120.º do presente diploma.\n\n2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º",
+      "alterador": 13
     },
     {
       "chave": "13.º#2",
       "epigrafe": "Obras de conservação extraordinária e de beneficiação",
       "texto": "1 - As obras de conservação extraordinária e de beneficiação ficam a cargo do senhorio quando, nos termos das leis administrativas em vigor, a sua execução lhe seja ordenada pela câmara municipal competente ou quando haja acordo escrito das partes no sentido da sua realização, com discriminação das obras a efectuar.\n\n2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º\n\n3 - Ficam ressalvados todos os direitos que o senhorio e o arrendatário tenham perante terceiros.",
-      "alterador": 13
+      "alterador": 1
     },
     {
       "chave": "14.º#2",
@@ -90,12 +90,6 @@
       "epigrafe": "Disposição geral",
       "texto": "1 - Quando o senhorio realize no prédio obras de conservação ordinária ou extraordinária, ou obras de beneficiação que se enquadrem na lei geral ou local necessárias para a concessão de licença de utilização e que sejam aprovadas ou compelidas pela respectiva câmara municipal, pode exigir do arrendatário um aumento de renda apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n2 - A renda actualizada nos termos do número anterior ou a que resulte de obras realizadas ao abrigo do RECRIA é exigível no mês subsequente ao da conclusão das obras, sendo actualizável nos termos da alínea a) do n.º 1 do artigo 31.º\n\n3 - O disposto neste preceito não prejudica a possibilidade do acordo referido no artigo seguinte.\n\n4 - A actualização por obras de conservação ordinária prevista no n.º 1 só é aplicável aos arrendatários que se mantenham no local arrendado há oito ou mais anos nessa qualidade, considerando-se também para este efeito como tendo a qualidade de arrendatário a pessoa a quem tal posição se transfira por força dos artigos 84.º e 85.º, contando-se o decurso do tempo de que o transmitente já beneficiasse.",
       "alterador": 13
-    },
-    {
-      "chave": "53.º",
-      "epigrafe": "Interpelação",
-      "texto": "1 - Quando o senhorio ou o arrendatário pretendam fazer cessar o arrendamento, nos casos em que a lei o permita, devem interpelar a outra parte com a antecedência legalmente prescrita.\n\n2 - A interpelação faz-se pela citação, quando seja exigida acção judicial, ou extrajudicialmente, por comunicação escrita, nos restantes casos.\n\n3 - Produz, ainda, os efeitos da interpelação o reconhecimento, pelo arrendatário, do facto jurídico que conduz à cessação do arrendamento, seja pela aposição de escritos, seja por documento por ele assinado.",
-      "alterador": 1
     },
     {
       "chave": "56.º",
@@ -267,41 +261,24 @@
     }
   ],
   "removidos": [],
-  "titulos": [
-    {
-      "atual": "### CAPÍTULO IV — Do arrendamento para o exercício de profissões liberais",
-      "novo": "### CAPÍTULO IV — Do arrendamento para o exercício de profissões liberais",
-      "antes": "121.º",
-      "alterador": 5
-    },
-    {
-      "atual": null,
-      "novo": "### CAPÍTULO V — Do arrendamento para outros fins não habitacionais",
-      "antes": "123.º",
-      "alterador": 5
-    }
-  ],
+  "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 7, Acórdão 114/98 (inconstitucionalidade do n.º 1 do artigo 36.º): não textual: declaração de inconstitucionalidade sem eliminar o texto (o artigo 36.º recebe depois nova redação do DL 329-B/2000).\nAlterador 8, Acórdão 55/99 (alínea a) do n.º 1 do artigo 69.º, na parte em que refere os descendentes em 1.º grau): não textual: declaração de inconstitucionalidade sem eliminar o texto.\nAlterador 9, DL 281/99, artigo 7.º (revoga o n.º 1 do artigo 44.º da Lei 46/85, mantido em vigor pelo n.º 6 do artigo 3.º do original): outro diploma: a revogação é da Lei 46/85; o original só aparece no preâmbulo.\nAlterador 11, Acórdão 97/2000 (alínea b) do n.º 1 do artigo 107.º): não textual: declaração de inconstitucionalidade sem eliminar o texto (a alínea recebe depois nova redação do DL 329-B/2000).\nAlterador 16, Lei 6/2006, artigo 60.º, n.º 1 (revoga o RAU «salvo nas matérias a que se referem os artigos 26.º e 28.º»): alvo incerto: a ressalva é por matérias e não diz que artigos do RAU se mantêm, por isso não se pode marcar artigos como revogados com segurança.\nAlterador 18, Lei 80/2014, artigo 7.º, alínea a) (revoga os artigos 77.º a 81.º «na parte relativa ao regime de renda condicionada»): alvo incerto: revogação parcial por matéria, sem indicar números ou alíneas.\nAlterador 19, Lei 81/2014, artigo 38.º, n.º 2 (revoga os artigos 77.º a 82.º «na parte relativa ao regime de renda apoiada»): alvo incerto: revogação parcial por matéria, sem indicar números ou alíneas.",
+  "nao_aplicavel": "Alterador 5, aditamento do capítulo V («CAPÍTULO V — Do arrendamento para outros fins não habitacionais») antes do artigo 123.º e passagem do título do capítulo IV para antes do novo artigo 121.º: alvo incerto: o formato da resposta só muda ou elimina títulos que já estão no texto atual, não acrescenta um título novo nem o muda de lugar; os artigos 117.º a 123.º vão com o texto certo, mas o título do capítulo IV continua antes do 117.º e o do capítulo V fica por pôr\nAlterador 7 (Acórdão n.º 114/98), inconstitucionalidade do n.º 1 do artigo 36.º: não textual: declaração de inconstitucionalidade sem eliminar o texto (o n.º 1 tem depois nova redação do DL 329-B/2000)\nAlterador 8 (Acórdão n.º 55/99), inconstitucionalidade da alínea a) do n.º 1 do artigo 69.º na parte dos descendentes em 1.º grau: não textual: declaração de inconstitucionalidade sem eliminar o texto\nAlterador 9 (DL 281/99), revogação do n.º 1 do artigo 44.º da Lei n.º 46/85: outro diploma\nAlterador 11 (Acórdão n.º 97/2000), inconstitucionalidade da alínea b) do n.º 1 do artigo 107.º: não textual: declaração de inconstitucionalidade sem eliminar o texto\nAlterador 15 (Lei 7/2001), revogação da Lei n.º 135/99: outro diploma\nAlterador 16 (Lei 6/2006), artigo 60.º, revogação do RAU «salvo nas matérias a que se referem os artigos 26.º e 28.º»: alvo incerto: a revogação ressalva matérias sem dizer que artigos do RAU ficam em vigor (as Leis 80/2014 e 81/2014 tratam depois os artigos 77.º a 82.º como mantidos); os artigos 26.º e 27.º da mesma lei não alteram o texto\nAlterador 17 (Lei 29/2009): sem texto: o alterador não traz nenhum artigo\nAlterador 18 (Lei 80/2014), revogação dos artigos 77.º a 81.º «na parte relativa ao regime de renda condicionada»: revogação condicional: só na parte relativa à renda condicionada, sem dizer que texto\nAlterador 19 (Lei 81/2014), revogação dos artigos 77.º a 82.º «na parte relativa ao regime de renda apoiada»: revogação condicional: só na parte relativa à renda apoiada, sem dizer que texto\nAlterador 20 (Lei 24/2017): outro diploma: altera o Código Civil e o original só aparece na lista das alterações deste",
   "instrucoes": [
-    "Alterador 1 (retificação): 15.º (decreto) «direito ao subsídio» já aplicado pelo programa e certo; RAU: 9.º#2 n.º 4 (depois substituído pelo DL 64-A/2000); 10.º#2 «pelas partes»; 11.º#2 n.º 3 «não sendo imputáveis a acções»; 13.º#2 n.º 2 «nos artigos 38.º e 39.º»; 14.º#2 n.º 1 «artigo 38.º»; 16.º#2 n.º 2 retirado o «o» de «este é o responsável» (o texto atual diz «pelo qual», mantido); 58.º n.º 3 acrescentado «e a importância de indemnização devida»; 60.º n.º 2 b) «ter reconhecido o» (o texto atual dizia «ter conhecido o»); 64.º n.º 1 h) e n.º 2 b) vírgulas; 86.º «e suas limítrofes» e «à data da morte». 20.º, 28.º, 32.º, 42.º, 90.º, 91.º, 96.º, 100.º e 117.º já estavam aplicados pelo programa e estão certos.",
-    "Alterador 1, artigo 53.º: o programa aplicou «A interpelação faz-se» tirando o «2 - » do número; a retificação só corrige «interprelação»; devolvido com «2 - A interpelação faz-se».",
-    "15.º#2: o texto «como estava no original» era o do 16.º (duplicado); fica como base a versão do programa (Execução administrativa), sobre a qual se aplica o DL 329-B/2000 (n.os 1 e 3 novos, n.º 2 mantido, n.os 4 a 16 aditados).",
-    "Alterador 2 (DL 278/93): 30.º nova redação (um só parágrafo); 31.º n.º 1 a) (depois substituída pelo DL 329-B/2000); 69.º proémio do n.º 1; 78.º n.os 1 e 2; 89.º n.º 1; 99.º n.º 2; aditados 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D (este sem epígrafe no alterador).",
-    "Alterador 6 (Acórdão 410/97): declara inconstitucional o artigo 1.º do DL 278/93 na parte em que elimina o n.º 3 do artigo 89.º; por isso o 89.º fica com o n.º 1 novo e mantém os n.os 2 e 3.",
-    "Alterador 3 (Lei 13/94): 81.º-A, n.º 2 novo e o antigo n.º 2 (com as alíneas a) e b)) passa a n.º 3.",
-    "Alterador 4 (DL 163/95): artigo 3.º dá nova redação ao n.º 4 do 84.º; o resto altera o Código Civil (outro diploma).",
-    "Alterador 5 (DL 257/95): 12.º#2 nova redação; novos 117.º a 120.º no capítulo III (as chaves 117.º e 118.º ficam com o texto novo); antigos 117.º e 118.º passam a 121.º e 122.º; 121.º com a nova redação (artigos 110.º a 120.º); 122.º com o texto do antigo 118.º; aditado o 123.º. Títulos: o CAPÍTULO IV deve ficar antes do 121.º (e não antes do 117.º) e o CAPÍTULO V é aditado antes do 123.º; como o formato não tem campo para posição, vão em «titulos» com o campo «antes» (o CAPÍTULO IV com o mesmo texto, só muda de lugar; o CAPÍTULO V com «atual» null por ser novo).",
-    "Alterador 10 (Lei 135/99, artigo 5.º, cabeçalho «Artigo 5.º» por 85.º): 85.º n.º 1 e) nova, n.º 2 novo, antigos n.os 2 e 3 passam a 3 e 4.",
-    "Alterador 12 (DL 64-A/2000): 7.º#2 (n.os 2 e 3 novos; a redação só tem 3 números, sai o antigo n.º 4 e a lista de escrituras); 9.º#2 n.º 4; 111.º n.º 3 aditado; 115.º n.º 3; 122.º n.º 2.",
-    "Alterador 13 (DL 329-B/2000): o bloco encabeçado «Artigo 12.º» (n.º 2 «artigos 38.º e 39.º») é o n.º 2 do 13.º (o 12.º não tem números); aplicado ao 13.º#2, igual ao texto já retificado. 15.º#2, 16.º#2 (n.º 5), 18.º, 31.º (alíneas a) e b)), 32.º (n.os 1 a 3), 36.º (n.os 1 a 3 novos, antigo 3 passa a 4), 38.º (n.os 1, 2 e 4; n.º 3 mantido), 56.º (n.º 3 novo, antigo 3 passa a 4), 64.º n.º 1 e), 69.º alíneas a) a d), 71.º n.º 3, 73.º (epígrafe e corpo), 107.º (n.º 1 e alíneas; n.º 2 mantido). Artigos 2.º a 4.º alteram outros diplomas.",
-    "Alterador 14 (Lei 6/2001, artigo 6.º): aditada a alínea f) ao n.º 1 do 85.º.",
-    "Alterador 15 (Lei 7/2001), alterador 17 (Lei 29/2009, sem texto) e alterador 20 (Lei 24/2017): não trazem instrução dirigida ao texto do original.",
-    "Alteradores 7, 8, 9, 11, 16, 18 e 19: ver nao_aplicavel."
+    "Alterador 1 (retificação): artigo 15.º do decreto (já retificado pelo programa, mantido); no RAU, aplicadas as correções nos artigos 10.º#2, 11.º#2 n.º 3, 13.º#2 n.º 2, 14.º#2 n.º 1, 16.º#2 n.º 2, 58.º n.º 3, 60.º n.º 2 b) (o texto atual diz «ter conhecido o», corrigido para «ter reconhecido o»), 64.º n.º 1 h) e n.º 2 b) e 86.º; as dos artigos 20.º, 28.º, 42.º, 53.º, 90.º, 91.º, 96.º, 100.º e 117.º já estavam aplicadas pelo programa; as dos artigos 9.º n.º 4 e 32.º n.º 2 ficam absorvidas pelas novas redações posteriores",
+    "Alterador 2 (DL 278/93) art. 1.º: novas redações dos artigos 30.º, 31.º (alínea a), 69.º (proémio do n.º 1), 78.º, 89.º (n.º 1) e 99.º (n.º 2); art. 2.º: aditados os artigos 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D; art. 3.º: regime fiscal, não textual",
+    "Alterador 3 (Lei 13/94): artigo 81.º-A com novo n.º 2 e o antigo n.º 2 passa a n.º 3",
+    "Alterador 4 (DL 163/95): arts. 1.º e 2.º alteram o Código Civil (outro diploma); art. 3.º: nova redação do n.º 4 do artigo 84.º",
+    "Alterador 5 (DL 257/95): nova redação do artigo 12.º; aditados os artigos 117.º a 120.º; os antigos 117.º e 118.º passam a 121.º e 122.º; nova redação do 121.º; aditado o artigo 123.º (o título do capítulo V e a mudança de lugar do título do capítulo IV vão em nao_aplicavel)",
+    "Alterador 6 (Acórdão n.º 410/97): declarada inconstitucional a eliminação do n.º 3 do artigo 89.º pelo DL 278/93; o artigo 89.º fica com o n.º 1 do DL 278/93 e os n.os 2 e 3 do texto atual",
+    "Alterador 10 (Lei 135/99) art. 5.º (por gralha encabeçado «Artigo 5.º», é o artigo 85.º): nova alínea e) do n.º 1, novo n.º 2, antigos n.os 2 e 3 passam a 3 e 4",
+    "Alterador 12 (DL 64-A/2000): novas redações dos artigos 7.º#2 (n.os 2 e 3, sai o antigo n.º 4), 9.º#2 (n.º 4), 111.º (n.º 3 aditado), 115.º (n.º 3) e 122.º (n.º 2); art. 2.º altera o Código do Notariado (outro diploma)",
+    "Alterador 13 (DL 329-B/2000) art. 1.º: artigo 12.º#2 com o texto atual como n.º 1 e novo n.º 2 (a instrução visa o 12.º, não o 13.º); novas redações dos artigos 15.º#2, 16.º#2 (n.º 5), 18.º, 31.º (alíneas a) e b)), 32.º, 36.º (antigo n.º 3 passa a 4), 38.º (n.os 1, 2 e 4), 56.º (novo n.º 3, antigo n.º 3 passa a 4), 64.º (alínea e) do n.º 1), 69.º (alíneas a) a d) do n.º 1), 71.º (n.º 3), 73.º (epígrafe e n.os 1 e 2) e 107.º (n.º 1); arts. 2.º a 4.º alteram outros diplomas; art. 5.º não textual",
+    "Alterador 14 (Lei 6/2001) art. 6.º: aditada a alínea f) ao n.º 1 do artigo 85.º"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "10.º#2: parágrafo que não está no alterador nem no original: O prazo do arrendamento urbano é de seis meses, se outro não for determinado por",
     "11.º#2: parágrafo que não está no alterador nem no original: 3 - São obras de conservação extraordinária as ocasionadas por defeito de constr",

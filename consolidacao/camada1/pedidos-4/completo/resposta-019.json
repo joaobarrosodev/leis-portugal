@@ -1,0 +1,473 @@
+[
+ {
+  "id": "pt:dre:560020:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "(Divisão judicial)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "(Supremo Tribunal de Justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "(Assessores do Supremo Tribunal de Justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "(Tribunais de Relação)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "4.º-A",
+    "epigrafe": "Desdobramento de secções",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "(Tribunais judiciais de 1ª. Instância)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "Tribunais de círculo",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "6.º-A",
+    "epigrafe": "Secretarias judiciais privativas",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "(Tribunais de círculo de Lisboa e Porto)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "(Varas Cíveis)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "Tribunais de família e tribunais de família e menores",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "Constituição do tribunal colectivo noutros tribunais",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "(Competência dos juízos de polícia)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "(Tribunais de pequenas causas)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "Deslocação dos tribunais",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "13.º-A",
+    "epigrafe": "Coadjuvação do tribunal",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "14.º",
+    "epigrafe": "Comparecimento pessoal e despesas de deslocação",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "14.º-A",
+    "epigrafe": "Âmbito de competência para a prática de actos judiciais",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "15.º",
+    "epigrafe": "(Extensão de competência)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "16.º",
+    "epigrafe": "Presidência do tribunal para efeitos administrativos",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "(Substituição de Juízes)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "18.º",
+    "epigrafe": "(Substitutos)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "19.º",
+    "epigrafe": "(Acumulação de lugares)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "20.º",
+    "epigrafe": "(Juízes dos tribunais de círculo)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "Magistrados do Ministério Público",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "21.º-A",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 7
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "Turnos de férias judiciais",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "22.º-A",
+    "epigrafe": "Tribunais de turno",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "22.º-B",
+    "epigrafe": "Magistrados dos tribunais de turno",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "22.º-C",
+    "epigrafe": "Competência e funcionamento dos tribunais de turno",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "23.º",
+    "epigrafe": "Juízes de instrução criminal",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "24.º",
+    "epigrafe": "(Apoio aos juízes de instrução criminal)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "25.º",
+    "epigrafe": "(Informática nos tribunais)",
+    "texto": "1 - A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.\n\n2 - Para efeitos do disposto no número anterior, podem ser constituídas equipas de projecto integrando magistrados judiciais e do Ministério Público, funcionários de justiça e técnicos designações pelo Ministério da Justiça em regime de acumulação de funções ou em comissão de serviço, destacamento ou requisição, observadas as normas estatutárias respectivas.\n\n3 - A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.\n\n4 - Durante a fase de estudos, trabalhos preparatórios e implantação de projectos de informática nas instituições judiciárias, incluindo os respeitantes à constituição de bases de dados jurídicas, e até final de 1999, é aplicável aos magistrados que desempenham funções nesse âmbito o disposto no artigo 19.º do presente diploma, com as devidas adaptações.\n\n5 - Os oficiais de justiça a desempenhar funções nos termos do presente artigo estão, para esse efeito, sujeitos, até final de 1999, ao regime geral de trabalho extraordinário da função pública.\n\n6 - O tempo de serviço prestado nas equipas previstas no n.º 2 é considerado para todos os efeitos como de efectivo serviço na categoria e a nomeação não dá origem a abertura de vaga no lugar de origem.",
+    "alterador": 11
+   },
+   {
+    "chave": "26.º",
+    "epigrafe": "(Acesso à informação por parte dos magistrados)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "27.º",
+    "epigrafe": "(Varas cíveis e juízos cíveis do tribunal cível de Lisboa)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "28.º",
+    "epigrafe": "(Varas cíveis e juízos cíveis do tribunal cível do Porto)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "(Juízos criminais do tribunal criminal de Lisboa)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "30.º",
+    "epigrafe": "(Juízos criminais do tribunal criminal do Porto)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "31.º",
+    "epigrafe": "(Juízos correccionais do tribunal criminal de Lisboa)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "32.º",
+    "epigrafe": "(Juízos correccionais do tribunal criminal do Porto)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "33.º",
+    "epigrafe": "Tribunal de Pequena Instância Criminal de Lisboa e Porto",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "33.º-A",
+    "epigrafe": "Tribunais de Pequena Instância de Almada e Vila Nova de Gaia",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "34.º",
+    "epigrafe": "(Tribunal de família de Lisboa)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "35.º",
+    "epigrafe": "(Tribunais do trabalho de Lisboa)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "36.º",
+    "epigrafe": "(Tribunais do trabalho do Porto)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "37.º",
+    "epigrafe": "(Tribunal do trabalho de Angra do Heroísmo)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "37.º-A",
+    "epigrafe": "Tribunal do Trabalho de Aveiro",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "38.º",
+    "epigrafe": "(Tribunal de menores de Coimbra, Tribunal de menores de Faro e Tribunal de menores do Funchal)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "39.º",
+    "epigrafe": "(Tribunal da comarca de Almada)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "40.º",
+    "epigrafe": "(Tribunal da comarca de Coimbra)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "41.º",
+    "epigrafe": "(Tribunal da comarca do Funchal)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "42.º",
+    "epigrafe": "(Tribunal da comarca de Lamego)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "43.º",
+    "epigrafe": "(Tribunal da comarca de Loures)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "44.º",
+    "epigrafe": "(Tribunal da Comarca da Marinha Grande)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "45.º",
+    "epigrafe": "(Tribunal da comarca de Ovar)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "46.º",
+    "epigrafe": "(Tribunal da comarca de Paços de Ferreira)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "47.º",
+    "epigrafe": "(Tribunal de comarca de Santiago do Cacém)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "48.º",
+    "epigrafe": "(Tribunal da comarca de Sintra)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "49.º",
+    "epigrafe": "(Tribunal da comarca de Torres Novas)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "50.º",
+    "epigrafe": "(Tribunal da comarca de Torres Vedras)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "51.º",
+    "epigrafe": "(Tribunal da comarca de Vila do Conde)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "52.º",
+    "epigrafe": "(Tribunais da comarca de Vila Nova de Gaia)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "53.º",
+    "epigrafe": "(Tribunal da comarca de Vila Verde)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "54.º",
+    "epigrafe": "(Tribunais de instrução criminal)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "55.º",
+    "epigrafe": "Entrada em funcionamento de novos tribunais ou juízos",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "56.º",
+    "epigrafe": "(Tribunais de círculo auxiliares)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "57.º",
+    "epigrafe": "(Varas e juízos auxiliares)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "58.º",
+    "epigrafe": "(Instalação de tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "59.º",
+    "epigrafe": "(Remunerações de Magistrados)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "60.º",
+    "epigrafe": "(Colocação de juízes)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "61.º",
+    "epigrafe": "(Preferências)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "62.º",
+    "epigrafe": "(Primeira classificação de Tribunais)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "63.º",
+    "epigrafe": "(Provimento dos oficiais de justiça)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "64.º",
+    "epigrafe": "(Território de Macau)",
+    "texto": "(Revogado.)",
+    "alterador": 12
+   },
+   {
+    "chave": "65.º",
+    "epigrafe": "(Encargos)",
+    "texto": "(Revogado.)\n\nMAPA VIII\n\nMAGISTRADOS DO MINISTÉRIO PÚBLICO\n\nTRIBUNAIS SUPERIORES\n\nSUPREMO TRIBUNAL ADMINISTRATIVO\n\n3 Procuradores da República\n\nTRIBUNAL TRIBUTÁRIO DE 2a. INSTÂNCIA\n\n1 Procurador-Geral-Adjunto\n\n1 Procurador da República\n\nTRIBUNAIS DE 1a. INSTÂNCIA\n\nPROCURADORES DA REPÚBLICA\n\nTribunal Administrativo do Círculo de Lisboa 1 Procurador da República\n\nTribunal Admnistrativo do Círculo do Porto 1 Procurador da República (ver nota a)\n\nTribunal Administrativo do Círculo de Coimbra 1 Procurador da República (ver nota b)\n\n(nota a) Exerce também funções no Tribunal Administrativo do Círculo de Coimbra.\n\n(nota b) É Procurador da República no Tribunal Administrativo do Círculo do Porto.\n\nDELEGADOS DO PROCURADOR DA REPÚBLICA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf)",
+    "alterador": 12
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação do formulário do diploma («pela Lei n.º 38/87»): alvo incerto: o formulário não vem no texto atual (nenhuma unidade o contém), por isso não há onde a aplicar.\nAlterador 7, artigos 1.º, 2.º e 4.º (alterações à Lei n.º 38/87, à Lei n.º 21/85 e ao Decreto-Lei n.º 376/87): outro diploma.\nAlterador 12, artigo 74.º, n.os 2 e 3 (manutenção até 15 de setembro de 1999 do mapa II e do mapa X da Lei n.º 44/96): não textual: prazo transitório, não muda o texto.\nAlterador 12, artigo 74.º, n.º 1, mapa VIII, delegados do procurador da República: só em imagem: o quadro dos delegados (procuradores-adjuntos) só existe em imagem e não se pode separar a parte dos tribunais administrativos e fiscais, que se mantém, da parte revogada; a linha da imagem fica como está.\nAlterador 13, artigo 6.º (mantêm-se os quadros dos procuradores-adjuntos nos tribunais administrativos de círculo do mapa VIII; extintos quando vagarem): não textual.\nAlterador 13, restantes artigos (alterações aos Decretos-Leis n.os 129/84, 374/84 e 173-A/78): outro diploma.\nAlterador 14, Decreto-Lei n.º 25/2009 (alterações ao Decreto-Lei n.º 186-A/99 e organização das comarcas piloto): outro diploma: não traz instrução dirigida ao Decreto-Lei n.º 214/88.",
+  "instrucoes": [
+   "Alterador 1 (Declaração): retificações aos artigos 28.º a 54.º e aos mapas; as do mapa VIII no Supremo Tribunal Administrativo («3 Procuradores da República») e no Tribunal Tributário de 2.ª Instância («1 Procurador da República») aplicadas no lugar, na parte do mapa VIII que se mantém (artigo 65.º); as restantes ficam sem efeito pela revogação do alterador 12; a do formulário vai em nao_aplicavel.",
+   "Alterador 2 (DL 206/91): nova redação dos artigos 6.º, 9.º, 10.º, 13.º, 14.º, 16.º, 21.º, 23.º, 25.º e 55.º; aditamento dos artigos 4.º-A, 6.º-A, 13.º-A, 14.º-A e 37.º-A; revogação do 8.º; alteração dos mapas: tudo depois revogado pelo alterador 12, exceto o artigo 25.º (n.os 2 e 6 desta redação mantêm-se). Epígrafes novas usadas nos artigos revogados.",
+   "Alterador 3 (DL 222/94): nova redação dos artigos 6.º e 36.º e alteração de mapas: depois revogados pelo alterador 12.",
+   "Alterador 4 (DL 29/95), alterador 6 (DL 18/96) e alterador 9 (DL 137/97): nova redação dos n.os 4 e 5 do artigo 25.º, substituída pela do alterador 11.",
+   "Alterador 5 (DL 153/95): nova redação do 33.º, aditamento do 33.º-A, alteração de mapas: depois revogados pelo alterador 12.",
+   "Alterador 7 (Lei 44/96): nova redação dos artigos 22.º e 22.º-A, aditamento dos 22.º-B e 22.º-C, revogação do 21.º-A (devolvido como revogado, sem epígrafe por não vir no pedido): os 22.º a 22.º-C depois revogados pelo alterador 12.",
+   "Alterador 8 (DL 173/96) e alterador 10 (DL 110/98): alteração dos mapas VI, VII e VIII: sem efeito no texto porque não tocam a parte do mapa VIII que se mantém e o resto foi revogado.",
+   "Alterador 11 (DL 39/99): nova redação dos n.os 4 e 5 do artigo 25.º; os n.os 1 e 3 ficam do texto atual e os n.os 2 e 6 da redação do DL 206/91; artigo 25.º devolvido inteiro.",
+   "Alterador 12 (DL 186-A/99, art. 74.º, n.º 1): revogação do diploma salvo o artigo 25.º e o mapa VIII quanto aos magistrados do Ministério Público nos tribunais administrativos e fiscais: todos os outros artigos (incluindo o 6.º, que vinha dentro do 5.º, e os aditados) com o corpo «(Revogado.)»; o artigo 65.º fica «(Revogado.)» seguido só da parte que se mantém do mapa VIII (Supremo Tribunal Administrativo, Tribunal Tributário de 2.ª Instância, tribunais administrativos de círculo e notas, e a linha da imagem dos delegados); mapas I a VII e IX e as assinaturas retirados.",
+   "Alterador 13 (DL 301-A/99) e alterador 14 (DL 25/2009): sem instrução textual ao original (nao_aplicavel)."
+  ]
+ }
+]

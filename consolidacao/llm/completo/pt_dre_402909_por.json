@@ -29,20 +29,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, retificações aos mapas I, II, III e VI e aos anexos aos mapas I e II: só em imagem (os mapas só existem em imagem no texto atual, sem título de anexo nem corpo onde as pôr)\nAlterador 2, correção da retificação aos mapas I e VI e aos anexos aos mapas I e II: só em imagem (recai sobre mapas que só existem em imagem, sem título de anexo no texto atual)\nAlterador 3, artigo 1.º, substituição parcial dos mapas I a IV: só em imagem (mapas novos só em imagem, sem título de anexo no texto atual)\nAlterador 3, artigos 3.º e 4.º (informações à Assembleia; isenção de taxas moderadoras): não textual (normas próprias da Lei n.º 32/86, que não alteram o texto do original)\nAlterador 4, alteração das verbas do Orçamento em execução da Lei n.º 32/86: só em imagem (quadros só em imagem, sem título de anexo no texto atual)\nAlterador 6, artigo 4.º, n.º 1 (regime normal de IVA aos combustíveis do artigo 32.º): não textual (não altera o texto do artigo 32.º)\nAlterador 6, artigo 5.º, revogação do artigo 32.º a partir de 1 de janeiro de 1999: outro diploma (o alterador 7 deu nova redação ao artigo 5.º do Decreto-Lei n.º 323/98, que deixou de revogar o artigo 32.º; o artigo acaba revogado pelo alterador 8)\nAlterador 7, artigo 44.º, n.º 11, nova redação do artigo 32.º: outro diploma (redação que o alterador 8 revoga; o artigo fica «(Revogado.)»)\nAlterador 8, artigo 127.º, n.º 1 (substituição do regime especial do artigo 32.º): não textual (o texto fica revogado pelo n.º 9)",
+  "nao_aplicavel": "Alterador 1, retificações aos mapas I e VI e republicação dos mapas II e III e dos anexos aos mapas I e II: só em imagem; os mapas não têm título de anexo no texto atual\nAlterador 2, retificações às retificações dos mapas I e VI e dos anexos aos mapas I e II: só em imagem; os mapas não estão no texto atual\nAlterador 3, artigo 1.º, substituição na parte alterada dos mapas I a IV: só em imagem; os mapas não têm título de anexo no texto atual\nAlterador 4, alteração das verbas de rubricas da despesa e da receita: só em imagem; os mapas não estão no texto atual\nAlterador 6, artigo 4.º, regime normal de IVA para os combustíveis do artigo 32.º: não textual\nAlterador 7, artigo 44.º, n.º 11, nova redação do artigo 32.º: não textual; ficou sem efeito no texto porque o alterador 8 revogou o artigo 32.º com essa redação\nAlterador 8, artigo 127.º, n.º 1, substituição do regime especial do artigo 32.º a partir de 2012: não textual",
   "instrucoes": [
-    "Alterador 1 (Declaração de 10/7/1986): retificações ao artigo 30.º (n.º 4 alínea m)->o); n.º 5 lista II 1.4 b) 160$00->180$00 por litro; n.º 6 2.13->2.14; n.º 7 2.2->2.7 na frase e no texto; n.º 8 «número anterior»->«n.º 2»): aplicadas; mapas só em imagem: nao_aplicavel",
-    "Alterador 2 (Declaração de 31/7/1986): corrige a retificação dos mapas: só em imagem, nao_aplicavel",
-    "Alterador 3 (Lei n.º 32/86): artigo 2.º dá nova redação ao n.º 1 do artigo 3.º (400 -> 300 milhões de dólares): aplicado; mapas I a IV substituídos só em imagem: nao_aplicavel",
-    "Alterador 4 (Declaração de 1986): verbas alteradas só em imagem: nao_aplicavel",
-    "Alterador 5 (Decreto-Lei n.º 261-A/91), artigo 20.º, n.º 1: revoga o artigo 41.º: (Revogado.)",
-    "Alterador 6 (Decreto-Lei n.º 323/98), artigo 5.º: revoga o artigo 32.º desde 1/1/1999 (retirado pelo alterador 7)",
-    "Alterador 7 (Lei n.º 3-B/2000), artigo 44.º, n.os 10 e 11: deixa de revogar o artigo 32.º e dá-lhe nova redação (revogada pelo alterador 8)",
-    "Alterador 8 (Lei n.º 64-B/2011), artigo 127.º, n.º 9: revoga o artigo 32.º: (Revogado.)"
+    "Alterador 1: retifica o artigo 30.º, n.os 4 (alínea m) passa a o)), 5 (lista II, posição 1.4, b): 180$00 por litro), 6 (posição 2.14), 7 (posição 2.7, na frase e no texto aditado) e 8 («O disposto no n.º 2»); aplicado no artigo 30.º, mantendo o resto do texto atual.",
+    "Alterador 1 e 2: retificações e republicações de mapas em imagem; não aplicadas (nao_aplicavel).",
+    "Alterador 3, artigo 2.º: nova redação do n.º 1 do artigo 3.º (300 milhões de dólares); aplicada.",
+    "Alterador 3, artigo 1.º, e alterador 4: alterações aos mapas em imagem; não aplicadas.",
+    "Alterador 5, artigo 20.º, n.º 1: revoga o artigo 41.º; artigo 41.º fica (Revogado.).",
+    "Alterador 6, artigo 5.º: revoga o artigo 32.º a partir de 1/1/1999; alterador 7 dá-lhe nova redação; alterador 8, artigo 127.º, n.º 9, revoga o artigo 32.º com essa redação; artigo 32.º fica (Revogado.), alterador 8."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "30.º: parágrafo que não está no alterador nem no original: b) Engarrafados ou engarrafonados, de valor superior a 130$00 e igual ou inferio",
     "30.º: parágrafo que não está no alterador nem no original: 2.14 - Utensílios e outros equipamentos exclusiva ou principalmente destinados a",

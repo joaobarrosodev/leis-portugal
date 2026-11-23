@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:390782:por
+    title: Decreto-Lei n.º 47919
+    publication_date: '1967-09-08'
   - id: pt:dre:216291:por
     title: Decreto-Lei n.º 49306
     publication_date: '1969-10-16'
@@ -30,19 +33,13 @@ A realização das operações respeitantes à liquidação de importações, ex
 
 § 2.º A transferência do produto da cobrança de créditos materializados em letras, cheques ou outros títulos de análoga natureza na posse das instituições referidas neste artigo, por desconto ou por mandato, constitui objecto de operações de pagamentos interterritoriais.
 
-§ 3.º Haver-se-ão como residentes num território nacional:
+§ 3.º (Revogado.)
 
-a) As pessoas singulares, portuguesas ou estrangeiras, que nele residam há mais de seis meses;
+§ 4.º (Revogado.)
 
-b) As pessoas colectivas que nele tenham o seu domicílio;
+§ 5.º (Revogado.)
 
-c) As sucursais, agências ou qualquer forma de representação nesse território, de pessoas ou entidades domiciliadas noutro território nacional, tenham aquelas ou não personalidade jurídica.
-
-§ 4.º As pessoas singulares referidas na alínea a) do parágrafo anterior perdem a qualidade de residentes num território nacional quando emigrarem ou saírem desse território para se fixarem noutro ou ainda quando se ausentarem por um período de mais de seis meses.
-
-Não perdem, porém, a mencionada qualidade quando a ausência do território nacional em causa for ocasionada por motivo de doença ou de gozo de licença e, sendo de nacionalidade portuguesa, quando tal ausência for por motivo do exercício de funções públicas que não envolva domicílio necessário.
-
-§ 5.º As pessoas colectivas que tenham o seu domicílio num território nacional mas exerçam noutro ou noutros as suas actividades serão consideradas como residentes naquele em que exercerem a parte principal das mesmas actividades, excepto se forem bancos emissores, e em caso de dúvida será a residência determinada por despacho conjunto dos Ministros das Finanças e do Ultramar.
+> Alterado pelo/a [Decreto-Lei n.º 47919](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47919-1967-390782), publicado em 1967-09-08.
 
 ###### Artigo 2.º
 

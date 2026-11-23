@@ -35,19 +35,19 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, acrescenta dois lugares de servente e deduz um de contínuo ao quadro do mapa II da Portaria n.º 776/77 (Escola Preparatória de Loriga): outro diploma",
+  "nao_aplicavel": "Alterador 2, acréscimo de lugares ao mapa II anexo à Portaria n.º 776/77 (quadro da Escola Preparatória de Loriga): outro diploma; a portaria só invoca o Decreto-Lei n.º 47480 e altera o quadro fixado pela Portaria n.º 776/77.",
   "instrucoes": [
-    "Alt. 1, art. 8.º, n.º 1: aditados os n.os 4 e 5 ao artigo 6.º — aplicado.",
-    "Alt. 1, art. 8.º, n.º 2: nova redacção do artigo 17.º — aplicada.",
-    "Alt. 1, art. 8.º, n.º 2: nova redacção do n.º 1 do artigo 19.º ('...' mantém o n.º 2) — aplicada.",
-    "Alt. 1, art. 8.º, n.º 2: nova redacção do artigo 27.º (n.os 1 a 6) — aplicada.",
-    "Alt. 1, art. 12.º: revogada a segunda parte do n.º 2 do artigo 25.º — retirada a segunda oração coordenada ('e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares'), ficando a primeira ('...a referida Direcção ficará na dependência imediata do Ministro') terminada em ponto.",
-    "Alt. 1, arts. 1.º-7.º, 9.º-11.º, 13.º: disposições autónomas, não alteram o texto do original.",
-    "Alt. 2: altera o quadro da Portaria n.º 776/77 — não aplicável."
+    "Alterador 1, art. 8.º, n.º 1: aditados os n.os 4 e 5 ao artigo 6.º; aplicado.",
+    "Alterador 1, art. 8.º, n.º 2: nova redacção do artigo 17.º; substituído o artigo inteiro.",
+    "Alterador 1, art. 8.º, n.º 2: nova redacção do n.º 1 do artigo 19.º ('...' mantém o n.º 2); aplicado.",
+    "Alterador 1, art. 8.º, n.º 2: nova redacção do artigo 27.º (n.os 1 a 6); substituído o artigo inteiro, sem o texto antigo.",
+    "Alterador 1, art. 12.º: revogada a segunda parte do n.º 2 do artigo 25.º; retirada a segunda oração coordenada ('e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares'), ficando a primeira parte do n.º 2, terminada em ponto.",
+    "Alterador 1, restantes artigos e tabelas: disposições próprias do DL 48541, não alteram o texto do original.",
+    "Alterador 2: altera o quadro do mapa II da Portaria n.º 776/77; não aplicado (outro diploma)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "25.º: parágrafo que não está no alterador nem no original: 2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério,"
   ],

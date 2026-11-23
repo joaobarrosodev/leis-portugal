@@ -7,6 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:442326:por
+    title: Decreto-Lei n.º 361/83
+    publication_date: '1983-09-15'
+  - id: pt:dre:660280:por
+    title: Decreto-Lei n.º 21/84
+    publication_date: '1984-01-14'
   - id: pt:dre:291837:por
     title: Decreto-Lei n.º 279-A/85
     publication_date: '1985-07-19'
@@ -339,7 +345,7 @@ c) O Ministro das Finanças e do Plano;
 
 d) O Ministro do Trabalho e Segurança Social;
 
-e) O Ministro da Agricultura [...]
+e) O Ministro da Agricultura, Florestas e Alimentação;
 
 f) O Ministro da Indústria e Energia;
 
@@ -352,8 +358,6 @@ i) O Ministro do Mar.
 2 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão também nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.
 
 3 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros ministros e secretários de Estado, o presidente da Comissão para a Integração Europeia ou o Subsecretário de Estado do Orçamento, quando os assuntos a tratar se relacionem com os respectivos departamentos.
-
-> Alterado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354), publicado em 1984-12-10.
 
 ###### Artigo 25.º
 
@@ -565,7 +569,9 @@ Continuam cometidas ao Ministro das Finanças e do Plano as funções de orienta
 
 2 - A situação do pessoal dos serviços e organismos dos ministérios ou secretarias de Estado extintas e que passam a integrar novos ministérios ou secretarias de Estado, é regulada por despacho conjunto do titular destes departamentos e dos titulares dos demais departamentos em cada caso interessados.
 
-3 - A gestão do pessoal integrado no quadro único da extinta Secretaria de Estado da Comunicação Social e assegurada pelo Ministro da Qualidade de Vida.
+3 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 361/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1983-442326), publicado em 1983-09-15.
 
 ###### Artigo 46.º
 
@@ -595,7 +601,9 @@ O activo, o passivo, os direitos e as obrigações, incluindo posições contrat
 
 1 - Serão reduzidas ao mínimo indispensável as deslocações de funcionários ou agentes da Administração Pública em missão oficial ao estrangeiro, ficando todas elas sujeitas, caso a caso, ao acordo prévio do Ministro das Finanças e do Plano e do ministro da tutela.
 
-2 - Em caso de urgência, conjugada com a impossibilidade de obtenção de despacho de qualquer dos referidos ministros, poderá a autorização ser dada só por um deles, com imediata informação ao outro das razões da urgência e da autorização.
+2 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 21/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1984-660280), publicado em 1984-01-14.
 
 ###### Artigo 51.º
 

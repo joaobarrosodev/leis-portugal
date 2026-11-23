@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:201053:por",
+  "substituicoes": [
+   {
+    "de": 51,
+    "ate": 54,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 139,
+    "ate": 145,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 148,
+    "ate": 149,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 153,
+    "ate": 158,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 162,
+    "ate": 163,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 166,
+    "ate": 172,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 175,
+    "ate": 179,
+    "texto": "(Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 183,
+    "ate": 184,
+    "texto": "(Revogada.)",
+    "alterador": 2
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das Casas do Povo»: alvo incerto (o alterador não identifica as bases; só algumas partes, como a base XXIX, XXX, XXXI ou o n.º 2 da base XVIII, se poderiam referir a essas funções, sem certeza)\nAlterador 2, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo incerto (o alterador não identifica as bases)",
+  "instrucoes": [
+   "Alterador 1, art. 71.º, al. a): revoga as bases VIII e XXII a XXVII; corpo de cada uma substituído por «(Revogada.)», ficando o título «BASE …» e a epígrafe.",
+   "Alterador 2, art. 71.º, al. a): revoga as bases VIII e XXII a XXVIII; a base XXVIII passa a «(Revogada.)» (as outras já estavam revogadas pelo alterador 1).",
+   "Alteradores 1 e 2: revogação das demais bases relativas à previdência e assistência das Casas do Povo não aplicada (alvo incerto).",
+   "Restantes instruções do art. 71.º visam outros diplomas: ignoradas."
+  ]
+ }
+]

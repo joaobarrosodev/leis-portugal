@@ -16,21 +16,18 @@ consolidacao:
   - id: pt:dre:466059:por
     title: Decreto-Lei n.º 642/74
     publication_date: '1974-11-20'
-  - id: pt:dre:411624:por
-    title: Decreto-Lei n.º 596/73
-    publication_date: '1973-11-07'
   - id: pt:dre:496757:por
     title: Decreto-Lei n.º 355/87
     publication_date: '1987-11-14'
+  - id: pt:dre:411624:por
+    title: Decreto-Lei n.º 596/73
+    publication_date: '1973-11-07'
   - id: pt:dre:447294:por
     title: Decreto-Lei n.º 26/71
     publication_date: '1971-02-05'
   - id: pt:dre:611704:por
     title: Decreto-Lei n.º 147/89
     publication_date: '1989-05-06'
-  - id: pt:dre:286492:por
-    title: Decreto-Lei n.º 375/77
-    publication_date: '1977-09-05'
 ---
 
 # Decreto-Lei n.º 49368
@@ -295,7 +292,7 @@ Art. 9.º - 1. O conselho de administração é composto por um presidente e por
 
 > Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
 
-Art. 10.º - (Revogado.)
+Art. 10.º (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 642/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/642-1974-466059), publicado em 1974-11-20.
 
@@ -517,7 +514,9 @@ q) Autorizar a alienação de bens imobiliários de valor superior ao limite que
 
 r) Autorizar a concessão de licenças, por parte dos CTT, para o estabelecimento e utilização de meios de comunicação radioeléctrica;
 
-s) Aprovar as tarifas e taxas dos serviços das companhias concessionárias, mesmo que, por disposição especial, esta competência haja sido atribuída aos CTT;
+s) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), publicado em 1987-11-14.
 
 t) Decidir sobre os recursos hierárquicos, para ele interpostos, em matéria disciplinar.
 
@@ -657,7 +656,7 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 3. Na fixação das taxas relativas aos serviços internacionais serão também tomadas em consideração as disposições aplicáveis dos tratados, convenções e acordos em vigor.
 
-Art. 35.º - (Revogado.)
+Art. 35.º (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), publicado em 1987-11-14.
 
@@ -815,7 +814,7 @@ j) À responsabilidade civil extracontratual.
 
 Art. 54.º O serviço internacional de correios e telecomunicações rege-se pelos tratados, convenções e acordos celebrados pelo Estado Português, observados os preceitos legais aplicáveis.
 
-Art. 55.º - (Revogado.)
+Art. 55.º (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 26/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1971-447294), publicado em 1971-02-05.
 
@@ -851,11 +850,9 @@ Art. 61.º Transitòriamente, o presidente do conselho geral, a pedido do presid
 
 Art. 62.º Enquanto não forem estabelecidas, nos termos do presente Estatuto, as remunerações dos membros dos conselhos de administração e fiscal, os seus ordenados e gratificações mensais serão os que se encontram fixados para os Telefones de Lisboa e Porto.
 
-Art. 63.º - (Revogado.)
+Art. 63.º (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 147/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1989-611704), publicado em 1989-05-06.
-
-Art. 64.º - (Revogado.)
+Art. 64.º (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 147/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1989-611704), publicado em 1989-05-06.
 
@@ -991,9 +988,7 @@ Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos ser
 
 2. Poderão contrair empréstimos a curto ou a médio prazo em estabelecimentos bancários nacionais ou estrangeiros para antecipação de receitas, aquisição de material ou de prédios e maneio de tesouraria.
 
-3. O produto dos aumentos de taxas consentidas pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964 (Fundo de aquisição), cobrado a partir de 1 de Janeiro de 1976, será contabilizado nas receitas de exploração a partir dessa mesma data.
-
-> Alterado pelo/a [Decreto-Lei n.º 375/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1977-286492), publicado em 1977-09-05.
+3. Os aumentos de taxas consentidos pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469) serão cobrados pelos TLP com consignação para o serviço da dívida contraída para com a antiga concessionária, podendo os saldos que eventualmente se apurarem em cada ano e que pertencem ao Estado ser aplicados no financiamento de investimentos dos próprios TLP, desde o início da actividade destes, mediante autorização e nas condições fixadas pelo Ministro das Finanças.
 
 4. Os TLP pagarão ao Estado a renda de 1 por cento sobre a receita cobrada da sua exploração, a qual constituirá encargo da respectiva conta e será liquidada mensalmente.
 

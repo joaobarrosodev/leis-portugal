@@ -17,17 +17,20 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, art. 2.º (aditamento do anexo III, carta de gestão): só em imagem: a carta só vem em imagem e não há título do anexo III no texto atual\nAlterador 2, n.º 6 (suspensão do Plano de Ordenamento nas áreas sujeitas a medidas preventivas): não textual: suspensão temporária, sem alteração do texto\nAlterador 3, n.º 1 (prorrogação por um ano das medidas preventivas e da suspensão do Plano): não textual: prorrogação",
+  "nao_aplicavel": "Alterador 1, aditamento do anexo III (carta de gestão) ao regulamento: só em imagem — a carta de gestão só vem em imagem e não há título de anexo III no texto atual onde a pôr.\nAlterador 2, suspensão do Plano de Ordenamento nas áreas sujeitas a medidas preventivas: não textual — suspensão, sem alteração do texto.\nAlterador 3, prorrogação por um ano das medidas preventivas e da suspensão do Plano: não textual — prorrogação.",
   "instrucoes": [
-    "Alterador 1 (DR 9/99), art. 1.º: nova redacção do art. 2.º do decreto (já aplicada pelo programa, confere) e do art. 3.º do Regulamento: alínea a) do n.º 1 nova, b) a q) mantidas, r) a v) novas, n.º 2 novo com alíneas a) e b), n.º 3 mantido",
-    "Alterador 1, art. 2.º: aditamento do art. 3.º-A (já aplicado pelo programa, confere) e dos anexos III e IV do Regulamento: anexo IV (critérios para apreciação de projectos de edificação) acrescentado em 'anexos' com o texto completo do alterador; anexo III só em imagem e sem título no texto atual",
-    "Alterador 1, art. 3.º: revoga a Portaria n.º 323/95 (outro diploma); sem efeito no texto",
-    "Alterador 2 (RCM 19/2008): medidas preventivas e suspensão do Plano em certas áreas; não textual",
-    "Alterador 3 (RCM 13/2010): prorrogação das medidas preventivas e da suspensão; não textual"
+    "Alterador 1, art. 1.º: nova redação do art. 2.º do decreto — já aplicada pelo programa e certa; mantém-se.",
+    "Alterador 1, art. 1.º: nova redação do art. 3.º do regulamento — n.º 1 alíneas a), r) a v) novas, b) a q) ('...') do texto atual; n.º 2 novo; n.º 3 = anterior n.º 3.",
+    "Alterador 1, art. 2.º: aditamento do art. 3.º-A — já aplicado pelo programa e certo; mantém-se.",
+    "Alterador 1, art. 2.º: aditamento do anexo IV ao regulamento (critérios para apreciação de projectos de edificação) — devolvido em 'anexos' com o texto completo do alterador, a seguir aos anexos existentes.",
+    "Alterador 1, art. 2.º: aditamento do anexo III (carta de gestão) — só em imagem, sem título no texto atual: nao_aplicavel.",
+    "Alterador 1, art. 3.º: revoga a Portaria n.º 323/95 — outro diploma, ignorada.",
+    "Alterador 2: medidas preventivas e suspensão do Plano — não textual.",
+    "Alterador 3: prorrogação — não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

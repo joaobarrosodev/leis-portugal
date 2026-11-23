@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:173758:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Zonas non aedificandi",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "### CAPÍTULO VII — Funções do IEP",
+    "novo": "### CAPÍTULO VII — Funções do IMT",
+    "alterador": 4
+   },
+   {
+    "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+    "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+    "alterador": 4
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, arts. 2.º e 4.º (nova redacção das bases I, II, V e XXVI; revogação da al. f) do n.º 1 da base II): alvo incerto — as bases não estão no texto atual: o corpo do anexo vem vazio e só há os títulos dos capítulos I a X, sem bases.\nAlterador 2, art. 1.º (nova redacção de bases, entre elas XXIV, XLV, XLVII, XLVIII, XLIX e L): alvo incerto — as bases não estão no texto atual (corpo do anexo vazio).\nAlterador 2, art. 2.º (aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A e LXXXVII-A): alvo incerto — o anexo não tem bases no texto atual onde as situar.\nAlterador 2, art. 3.º, n.º 1, als. c) e d) (epígrafes dos capítulos XVII e XXI): alvo incerto — esses títulos não estão no texto atual.\nAlterador 2, art. 3.º, n.º 2 (aditamento do capítulo X-A e das suas secções e subsecções): alvo incerto — títulos novos sem as bases que agrupam; não se inventam títulos.\nAlterador 2, art. 6.º (republicação das bases): sem texto — o anexo republicado não vem no pedido.\nAlterador 4, art. 1.º (nova redacção de bases, entre elas XXIV, XLV, XLVII, XLVIII e L): alvo incerto — as bases não estão no texto atual (corpo do anexo vazio).\nAlterador 4, art. 2.º (aditamento das bases XXXIV-A, LIV-A, LVII-UA, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B): alvo incerto — o anexo não tem bases no texto atual onde as situar.\nAlterador 4, art. 3.º, n.os 2 a 4 (epígrafes de secções e subsecções do capítulo X-A; aditamento do capítulo XXII-A): alvo incerto — esses títulos não estão no texto atual.\nAlterador 4, art. 5.º (revogação de números e alíneas das bases I, VI, XXXIV, XLV, XLVIII, L, LI-A, LIV, LVII-D, LVII-P, LVII-S, LVII-U, LVII-X, LVII-AA e LXV-A): alvo incerto — as bases não estão no texto atual.\nAlterador 4, art. 6.º (republicação das bases): sem texto — o anexo republicado não vem no pedido.",
+  "instrucoes": [
+   "Alt. 3 (Lei n.º 34/2015), art. 5.º, al. u): revoga o art. 4.º do Decreto-Lei n.º 189/2002 — art. 4.º com o corpo «(Revogado.)».",
+   "Alt. 2, art. 3.º, n.º 1, als. a) e b): epígrafes dos capítulos VII («Funções do InIR») e X («Manutenção, exploração e conservação da Auto-Estrada»), substituídas depois pelo alt. 4.",
+   "Alt. 4, art. 3.º, n.º 1: capítulo VII passa a «Funções do IMT» e capítulo X a «Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios» (titulos).",
+   "Reparos sobre as bases XXIV, XLV, XLVII, XLVIII, XLIX e L: o pedido não traz o texto dessas bases (o corpo do anexo vem «(vazio)» e os capítulos só aparecem como títulos), por isso não há chave nem texto atual onde aplicar as novas redacções e revogações; vão para nao_aplicavel.",
+   "Alt. 1, art. 3.º, e alt. 2/4, restantes disposições: outorga de aditamento e disposições sem alteração ao texto do original."
+  ]
+ }
+]

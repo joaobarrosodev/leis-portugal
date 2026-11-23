@@ -17,18 +17,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 4 (Declaração n.º 6/97), substituição na parte alterada do mapa IX (orçamento da segurança social): só em imagem, e o texto atual não tem título de anexo para o mapa IX.\nAlterador 5 (Declaração n.º 9/97), publicação dos mapas I a VIII modificados: só em imagem, e o texto atual não tem título de anexo para esses mapas.\nAlterador 7 (Lei n.º 130-B/97, art. 1.º), substituição na parte respectiva dos mapas II a IV e XI: só em imagem, e o texto atual não tem título de anexo para esses mapas.\nAlterador 9 (Decreto-Lei n.º 398/98), revogação do art. 13.º do Código de Processo Tributário na redação dada pela Lei n.º 52-C/96: outro diploma; além disso o alterador vem sem texto.\nAlterador 12 (Decreto-Lei n.º 191/99, art. 7.º do regime anexo), revogação do Decreto-Lei n.º 275-A/93 com as alterações da Lei n.º 52-C/96: outro diploma.\nAlterador 37 (Decreto Regulamentar n.º 25/2009, art. 23.º), revogação do Decreto Regulamentar n.º 2/90: outro diploma.",
+  "nao_aplicavel": "Alterador 4, mapa IX substituído na parte alterada: só em imagem (o mapa só vem em imagem e não há título de anexo no texto atual).\nAlterador 5, mapas I a VIII modificados: só em imagem (os mapas só vêm em imagem e não há título de anexo no texto atual).\nAlterador 7, artigo 1.º, mapas II a IV e XI substituídos na parte respectiva: só em imagem (os mapas só vêm em imagem e não há título de anexo no texto atual).\nAlterador 8, uso das autorizações legislativas dos artigos 29.º e 32.º: não textual.\nAlterador 12, artigo 51.º, revogação do Decreto-Lei n.º 275-A/93 com as alterações da Lei n.º 52-C/96: outro diploma.\nAlterador 37, artigo 23.º, revogação do Decreto Regulamentar n.º 2/90: outro diploma.\nAlterador 49, repristinação de alíneas do artigo 2.º do Decreto-Lei n.º 20/90 alterado pela Lei n.º 52-C/96: outro diploma.",
   "instrucoes": [
-    "Alterador 1 (Declaração de Rectificação n.º 6/97): no n.º 3 do art. 29.º, n.º 8 do art. 80.º do CIRS, «n.º 6 do artigo 55.º» passa a «n.º 7 do artigo 55.º»; aplicado na chave 29.º.",
-    "Alterador 1 (Declaração de Rectificação n.º 6/97): no n.º 1 do art. 40.º, «1530000$00» passa a «1530000000$00»; aplicado na chave 33.º (que contém os artigos 33.º a 82.º e as fórmulas finais).",
-    "Alterador 7 (Lei n.º 130-B/97, art. 2.º): aditada a alínea c) ao art. 61.º, a seguir à alínea b); aplicado na chave 33.º. Todas as ligações «(ver documento original)» do texto atual foram mantidas.",
-    "Alterador 7 (Lei n.º 130-B/97, art. 1.º) e alteradores 4 e 5: mapas só em imagem, sem título de anexo: nao_aplicavel.",
-    "Alteradores 9, 12 e 37: revogam normas de outros diplomas: nao_aplicavel.",
-    "Alteradores 2, 3, 6, 8, 10, 11, 13 a 36 e 38 a 49: não mudam o texto do original (não mencionam, não textual ou outro diploma)."
+    "Alterador 1 (Declaração de Rectificação n.º 6/97): no n.º 3 do art. 29.º, n.º 8 do art. 80.º do CIRS, «n.º 6 do artigo 55.º» passa a «n.º 7 do artigo 55.º»; devolvido o art. 29.º inteiro, o resto copiado do texto atual.",
+    "Alterador 1: no n.º 1 do art. 40.º (dentro do bloco 33.º do texto atual), «até ao limite de 1530000$00» passa a «até ao limite de 1530000000$00».",
+    "Alterador 7 (Lei n.º 130-B/97), art. 2.º: aditada a alínea c) ao art. 61.º (dentro do bloco 33.º); devolvido o bloco 33.º inteiro com as duas mudanças (alterador 1 no art. 40.º e alterador 7 no art. 61.º), mantidas todas as linhas de imagem.",
+    "Alteradores 4, 5 e 7 (art. 1.º): mapas só em imagem, sem título de anexo: nao_aplicavel.",
+    "Alteradores 6, 8, 10, 12, 13, 24, 25, 27, 28, 37, 41-43, 45, 46, 49: não textuais ou dirigidos a outros diplomas; nada.",
+    "Restantes alteradores (incluindo o 9, sem texto): não mencionam o original; nada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "29.º: parágrafo que não está no alterador nem no original: 8 - Verificando-se fraccionamento de rendimentos nos termos do artigo 63.º, as d",
     "33.º: parágrafo que não está no alterador nem no original: 1 - É consignado ao Ministério da Saúde 1% do valor global da receita fiscal dos"

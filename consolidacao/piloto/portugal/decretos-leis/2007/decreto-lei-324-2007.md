@@ -13,27 +13,24 @@ consolidacao:
   - id: pt:dre:487360:por
     title: Decreto-Lei n.º 247-B/2008
     publication_date: '2008-12-30'
-  - id: pt:dre:116043536:por
-    title: Lei n.º 49/2018
-    publication_date: '2018-08-14'
-  - id: pt:dre:115578234:por
-    title: Decreto-Lei n.º 51/2018
-    publication_date: '2018-06-25'
+  - id: pt:dre:73740375:por
+    title: Lei n.º 2/2016
+    publication_date: '2016-02-29'
   - id: pt:dre:489737:por
     title: Lei n.º 103/2009
     publication_date: '2009-09-11'
-  - id: pt:dre:259267:por
-    title: Lei n.º 23/2013
-    publication_date: '2013-03-05'
-  - id: pt:dre:69992902:por
-    title: Lei n.º 90/2015
-    publication_date: '2015-08-12'
   - id: pt:dre:439097:por
     title: Lei n.º 61/2008
     publication_date: '2008-10-31'
+  - id: pt:dre:69992902:por
+    title: Lei n.º 90/2015
+    publication_date: '2015-08-12'
   - id: pt:dre:70300348:por
     title: Decreto-Lei n.º 201/2015
     publication_date: '2015-09-17'
+  - id: pt:dre:115578234:por
+    title: Decreto-Lei n.º 51/2018
+    publication_date: '2018-06-25'
 ---
 
 # Decreto-Lei n.º 324/2007
@@ -3112,7 +3109,7 @@ f) A regulação do exercício do poder paternal, sua alteração e cessação;
 
 g) A inibição ou suspensão do exercício do poder paternal e as providências limitativas desse poder;
 
-h) O acompanhamento de maiores e a tutela e administração de bens;
+h) A interdição e inabilitação definitivas, a tutela de menores ou interditos, a administração de bens de menores e a curadoria de inabilitados;
 
 i) O apadrinhamento civil e a sua revogação;
 
@@ -3134,7 +3131,7 @@ q) Os que determinem a modificação ou extinção de qualquer dos factos indica
 
 3 - Quando os sujeitos da relação jurídica de filiação, adoção ou apadrinhamento civil estejam casados ou unidos de facto com pessoa do mesmo sexo, os assentos, averbamentos ou novos assentos de nascimento no registo civil são efetuados de forma idêntica à prevista nas leis em vigor para casais de sexo diferente.
 
-> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
+> Alterado pelo/a [Lei n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), publicado em 2016-02-29.
 
 ###### Artigo 2.º — Atendibilidade dos factos sujeitos a registo
 
@@ -3676,13 +3673,13 @@ b) O estabelecimento da filiação;
 
 c) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;
 
-d) A adoção e a revisão da respetiva sentença;
+d) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;
 
 e) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;
 
 f) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;
 
-g) O acompanhamento de maiores, incluindo as concretas medidas decretadas com relevância registal, a tutela e administração de bens, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
+g) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
 
 h) A constituição do apadrinhamento civil e a sua revogação;
 
@@ -3706,9 +3703,7 @@ q) Em geral, todos os factos jurídicos que modifiquem os elementos de identific
 
 3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.
 
-5 - Após o averbamento do facto referido na alínea d) deverá ser feita a comunicação a que se reporta o n.º 3 do artigo 56.º do Regime Jurídico do Processo de Adoção, a efetuar com preservação dos elementos de identificação dos adotantes, designadamente identidade, filiação, residência, número de documentos de identificação e do tribunal por onde correu o processo de adoção.
-
-> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
+> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.
 
 ###### Artigo 70.º — Averbamentos ao assento de casamento
 
@@ -3722,7 +3717,7 @@ c) A morte presumida de qualquer dos cônjuges;
 
 d) A sanação in radice do casamento católico nulo;
 
-e) A sanação da anulabilidade do casamento celebrado por menor não núbil, por maior acompanhado, nos casos em que o acompanhamento constitua um impedimento, ou sem a intervenção das testemunhas exigidas;
+e) A sanação da anulabilidade do casamento celebrado por menor não núbil, por interdito ou inabilitado por anomalia psíquica ou sem a intervenção das testemunhas exigidas;
 
 f) A separação de pessoas e bens, a reconciliação dos cônjuges separados e a simples separação judicial de bens;
 
@@ -3732,7 +3727,7 @@ h) As alterações ao regime de bens convencionado ou legalmente fixado.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 71.º — Averbamentos ao assento de óbito
 
@@ -4894,7 +4889,7 @@ c) Se o conservador tiver fundadas dúvidas acerca da identidade dos contraentes
 
 d) Se no momento da celebração for oponível ao casamento algum impedimento dirimente;
 
-e) Se, tratando-se de casamento legalmente celebrado sem precedência do processo respetivo, existir no momento da celebração o impedimento de falta de idade nupcial, de acompanhamento, quando a sentença respetiva assim o determine, ou o impedimento de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
+e) Se, tratando-se de casamento legalmente celebrado sem precedência do processo respectivo, existir no momento da celebração o impedimento de falta de idade nupcial, de interdição ou inabilitação por anomalia psíquica, reconhecida por sentença com trânsito em julgado, ou o impedimento de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
 
 2 - Nos casos a que se referem as alíneas b) e c) do número anterior, o conservador deve remeter ao pároco o duplicado ou a certidão, sempre que possível por via electrónica, para que se complete ou esclareça o documento em termos de a transcrição se efectuar, sempre que possível, dentro dos sete dias ulteriores à celebração do casamento.
 
@@ -4903,8 +4898,6 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 4 - A morte de um ou de ambos os cônjuges não obsta à transcrição.
 
 5 - A recusa da transcrição deve ser notificada aos nubentes, pessoalmente ou por carta registada.
-
-> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
 
 ###### Artigo 175.º — Efectivação da transcrição depois de recusada
 
@@ -5190,17 +5183,13 @@ e) Cemitério onde o falecido vai ser ou foi sepultado.
 
 1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.
 
-2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respetivo, por meio de cota de referência que identifique o cartório notarial onde o processo foi instaurado e o seu número.
+2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respectivo, por meio de cota de referência que identifique o tribunal onde o processo foi instaurado e o seu número.
 
-> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
-
-###### Artigo 202.º-B — Comunicações a efetuar pelos tribunais e notários
+###### Artigo 202.º-B — Comunicações a efectuar pelos tribunais e notários
 
 1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.
 
-2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o notário comunica a qualquer conservatória do registo civil, preferencialmente por via eletrónica, a instauração do processo de inventário.
-
-> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
+2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o tribunal comunica a qualquer conservatória do registo civil, preferencialmente por via electrónica, a instauração do processo de inventário.
 
 ##### SUBSECÇÃO III — Óbitos ocorridos em hospitais, cadeias e estabelecimentos equivalentes
 
@@ -5292,25 +5281,21 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 ###### Artigo 210.º — Comunicações a efectuar pelo conservador
 
-1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou para as finalidades previstas no regime jurídico do processo de inventário:
+1 - O conservador do registo civil deve enviar ou disponibilizar o acesso em base de dados ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, das seguintes informações:
 
 a) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e
 
-b) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.
+b) Assentos de óbito lavrados no mês anterior referentes a indivíduos com herdeiros menores, incapazes, ausentes em parte incerta ou pessoas colectivas, acompanhados da indicação da pessoa à qual compete o cargo de cabeça-de-casal.
 
-2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.
+2 - Para os efeitos do disposto no número anterior, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respectiva declaração.
 
-3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respetiva declaração.
-
-4 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:
+3 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:
 
 a) O teor dos autos relativos aos óbitos lavrados no mês anterior;
 
 b) Os números de documentos de identificação ulteriormente conhecidos;
 
 c) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.
-
-> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
 
 ##### SUBSECÇÃO VII — Procedimentos simplificados de sucessão hereditária
 

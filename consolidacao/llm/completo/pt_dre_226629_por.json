@@ -131,17 +131,16 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, art. 70.º, n.º 1, revogação do Estatuto salvo «a parte inicial das alíneas b) e c)» do n.º 2 do artigo 10.º: alvo incerto (o alterador não diz onde acaba a parte inicial dessas alíneas, logo não se sabe que parte final fica revogada; as alíneas b) e c) ficam inteiras)\nAlterador 1, art. 62.º, n.º 4, as referências ao CRAF nas disposições mantidas consideram-se feitas ao conselho científico: não textual (regra de remissão, não muda o texto)",
+  "nao_aplicavel": "Alterador 1, art. 70.º, n.º 1, parte final das alíneas b) e c) do n.º 2 do artigo 10.º: alvo incerto: o alterador mantém só «a parte inicial» dessas alíneas sem dizer onde acaba, por isso ficaram inteiras (o proémio do n.º 2 fica, porque as alíneas mantidas dependem dele).\nAlterador 1, art. 62.º, n.º 4, referências ao CRAF consideradas feitas ao conselho científico: não textual.\nAlterador 1, art. 62.º, n.os 1 e 2, manutenção transitória do regime: não textual.",
   "instrucoes": [
-    "Alterador 1 (DL 124/99), art. 62.º, n.º 3: nova redação do n.º 4 do artigo 12.º; já aplicada pelo programa, certa",
-    "Alterador 1, art. 70.º, n.º 1: revoga o Estatuto (o DL 219/92), mantendo o artigo 2.º, os n.os 1 e 2 do artigo 3.º, o artigo 6.º, a parte inicial das alíneas b) e c) e a alínea d) do n.º 2 do artigo 10.º e os artigos 11.º a 21.º; revogados os artigos 1.º, 4.º, 5.º, 7.º a 9.º e 22.º a 34.º (no 34.º ficam as fórmulas finais e assinaturas), os n.os 3 a 5 do artigo 3.º e, no artigo 10.º, os n.os 1, 3 e 4 e a alínea a) do n.º 2",
-    "Alterador 1, art. 70.º, n.º 1, parte final das alíneas b) e c) do n.º 2 do artigo 10.º: não aplicada, alvo incerto (nao_aplicavel)",
-    "Alterador 1, art. 62.º, n.º 4 (CRAF = conselho científico): não textual (nao_aplicavel)",
-    "Alterador 1, arts. 62.º n.os 1 e 2, 64.º, 67.º, 69.º: só remetem para o original, sem alterar o texto"
+    "Alterador 1, art. 62.º, n.º 3: nova redação do n.º 4 do artigo 12.º; já aplicada pelo programa e certa, fica como está.",
+    "Alterador 1, art. 70.º, n.º 1: revogação do Estatuto (o DL 219/92), salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º: revogados os arts. 1.º, 4.º, 5.º, 7.º, 8.º, 9.º e 22.º a 34.º, os n.os 3 a 5 do art. 3.º e, no art. 10.º, o n.º 1, a alínea a) do n.º 2 e os n.os 3 e 4.",
+    "Art. 34.º revogado: mantidas a seguir as assinaturas e fórmulas finais do diploma, que não são texto do artigo.",
+    "Alterador 1, arts. 64.º, 67.º e 69.º: só remetem para o original, sem alterar texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

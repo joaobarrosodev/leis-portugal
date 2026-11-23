@@ -2,6 +2,12 @@
   "id": "pt:dre:668330:por",
   "artigos": [
     {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
       "chave": "9.º",
       "epigrafe": "",
       "texto": "O Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações.",
@@ -11,14 +17,17 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, desanexação e transmissão de parcela do prédio «Monte da Barca» à EDP: não textual, ato de transmissão de domínio ao abrigo da Lei n.º 77/77, sem alterar o texto do original\nAlterador 3, desanexação e transmissão de parte do prédio «Azenha do Mar» à Câmara Municipal de Odemira: não textual, ato de transmissão de domínio ao abrigo da Lei n.º 77/77, sem alterar o texto do original\nAlterador 4, desanexação e transmissão de parte da «Herdade da Comporta» à Câmara Municipal de Grândola: não textual, ato de transmissão de domínio ao abrigo da Lei n.º 77/77, sem alterar o texto do original\nAlterador 5, desanexação e transmissão de parte do prédio Quinta à Câmara Municipal de Ferreira do Alentejo: não textual, ato de transmissão de domínio ao abrigo da Lei n.º 77/77, sem alterar o texto do original",
+  "nao_aplicavel": "Alterador 2, artigo 76.º (revogação do Decreto-Lei n.º 407-A/75 «sem prejuízo do disposto nos artigos 60.º a 70.º»): alvo incerto: revoga o diploma inteiro com a ressalva dos artigos 60.º a 70.º da Lei, que mantêm transitoriamente em vigor os artigos 4.º e 10.º a 12.º (artigos 62.º e 68.º) até regulamentação futura; o âmbito exato do que fica revogado e quando não é seguro\nAlteradores 5 a 8, portarias de desanexação de prédios nacionalizados: não textual: atos de execução ao abrigo do artigo 40.º da Lei n.º 77/77, sem instrução sobre o texto do original",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do artigo 9.º (passa a ter um só parágrafo, sem números); aplicada, texto copiado do alterador. O art. 1.º altera o Decreto-Lei n.º 406-A/75 (outro diploma) e o art. 3.º não altera o original.",
-    "Alteradores 2 a 5: portarias de desanexação de prédios nacionalizados ao abrigo do original; não alteram o texto, em nao_aplicavel."
+    "Alterador 1 (DL 895/76), art. 2.º: nova redação do artigo 9.º; substituído o artigo inteiro pelo texto novo",
+    "Alterador 2 (Lei 77/77), art. 76.º: revogação global com ressalva dos arts. 60.º-70.º; não aplicada (nao_aplicavel); arts. 62.º, 67.º e 68.º só remetem para o original",
+    "Alterador 3 (DL 81/78), art. 40.º: revoga o artigo 4.º; artigo 4.º passa a (Revogado.)",
+    "Alterador 4: repetição do DL 81/78 (art. 40.º revoga o artigo 4.º); já aplicado como alterador 3",
+    "Alteradores 5-8 (portarias): desanexações, sem alteração do texto"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

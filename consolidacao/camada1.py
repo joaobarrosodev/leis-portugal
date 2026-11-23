@@ -301,13 +301,19 @@ def _segunda_e_nada() -> dict[str, list[str]]:
     """Os problemas da segunda leitura jurídica e as instruções em falta da verificação do «nada a aplicar»,
     para os reparos da ronda 116."""
     por: dict[str, list[str]] = {}
-    for f in sorted((CAMADA1 / "segunda").glob("segunda-*.json")):
+    for f in sorted(CAMADA1.glob("segunda*/segunda-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             if d["veredicto"] != "certo":
                 por.setdefault(d["id"], []).extend(f"Uma segunda leitura jurídica encontrou: {p}" for p in d.get("problemas") or [])
-    for f in sorted((CAMADA1 / "nada").glob("resposta-*.json")):
+    for f in sorted(CAMADA1.glob("nada*/resposta-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             por.setdefault(d["id"], []).extend(f"Instrução que não se vê aplicada: {i}" for i in d.get("instrucoes_em_falta") or [])
+    if ESTADO.exists():
+        for e in _jsonl(ESTADO):
+            if e.get("estado") == "recusado_na_verificacao_mecanica":
+                por.setdefault(e["id"], []).append(
+                    "Uma verificação mecânica viu o texto antigo a seguir à nova redação ou a «(Revogado.)». Devolve cada um destes "
+                    "artigos inteiro, só com o texto em vigor: " + str(e.get("motivo", "")).split(": ", 1)[-1])
     return por
 
 
@@ -546,7 +552,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",)}
 
 
 def _sufixo() -> str:

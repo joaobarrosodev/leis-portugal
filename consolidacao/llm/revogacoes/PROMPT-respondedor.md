@@ -49,3 +49,11 @@ Cada diploma que revoga tem de aparecer, mesmo com `trocas` vazio. Escreve o fic
 - que cada linha é JSON válido;
 - que cada `texto_atual` é, carácter a carácter, a linha L da entrada;
 - que estão todos os diplomas que revogam.
+
+## Ronda r3
+
+Os lotes `entrada-r3-NN.jsonl` são pares a que já se respondeu uma vez. Ou a verificação às cegas não deu `certo`, ou o par ficou sem resposta. Cada diploma que revoga traz um `reparo` com o veredicto e o motivo do verificador. Lê-o primeiro. Diz o que faltou provar ou o que estava errado, por exemplo: a disposição não se via no texto, a data de efeitos, o motivo de «já aplicada» não confirmado, uma exceção não respeitada.
+
+Nesta ronda o diploma que revoga vem mais completo (até 100 000 caracteres). O `texto_em_vigor` vem inteiro quando cabe, e então `texto_parcial` é false.
+
+Responde de novo a cada par, com as mesmas regras. Quando o motivo é «já aplicada», diz na instrução a linha L onde já está «(Revogado.)». A `efeitos` só leva uma data quando a disposição dá à revogação uma data própria: a entrada em vigor diferida do diploma que revoga não conta. Escreve `resposta-r3-NN.jsonl`, com o mesmo NN da entrada.

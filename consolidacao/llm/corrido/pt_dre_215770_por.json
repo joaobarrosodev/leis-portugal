@@ -22,7 +22,7 @@
     {
       "de": 124,
       "ate": 124,
-      "texto": "Art. 10.º - (Revogado.)",
+      "texto": "Art. 10.º (Revogado.)",
       "alterador": 6
     },
     {
@@ -92,6 +92,12 @@
       "alterador": 3
     },
     {
+      "de": 221,
+      "ate": 221,
+      "texto": "s) (Revogada.)",
+      "alterador": 8
+    },
+    {
       "de": 234,
       "ate": 234,
       "texto": "Art. 26.º - 1. O pessoal dos CTT considera-se abrangido pelas disposições do artigo 36.º do Estatuto do Trabalho Nacional ([Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), de 23 de Setembro de 1933) e o seu regime jurídico será definido em regulamentos especiais.",
@@ -106,7 +112,7 @@
     {
       "de": 289,
       "ate": 302,
-      "texto": "Art. 35.º - (Revogado.)",
+      "texto": "Art. 35.º (Revogado.)",
       "alterador": 8
     },
     {
@@ -136,7 +142,7 @@
     {
       "de": 375,
       "ate": 378,
-      "texto": "Art. 55.º - (Revogado.)",
+      "texto": "Art. 55.º (Revogado.)",
       "alterador": 2
     },
     {
@@ -147,21 +153,9 @@
     },
     {
       "de": 394,
-      "ate": 398,
-      "texto": "Art. 63.º - (Revogado.)",
-      "alterador": 10
-    },
-    {
-      "de": 399,
       "ate": 400,
-      "texto": "Art. 64.º - (Revogado.)",
+      "texto": "Art. 63.º (Revogado.)\n\nArt. 64.º (Revogado.)",
       "alterador": 10
-    },
-    {
-      "de": 467,
-      "ate": 467,
-      "texto": "3. O produto dos aumentos de taxas consentidas pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964 (Fundo de aquisição), cobrado a partir de 1 de Janeiro de 1976, será contabilizado nas receitas de exploração a partir dessa mesma data.",
-      "alterador": 7
     }
   ],
   "insercoes": [
@@ -176,31 +170,28 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterador 5, extinção dos conselhos de administração, fiscal e geral e criação do conselho de gerência e do conselho de fiscalização: não textual (não dá nova redação a artigos do Estatuto; o diploma foi revogado pelo Decreto-Lei n.º 642/74)\nAlterador 6, art. 1.º e art. 4.º (extinção do conselho de gerência e do conselho de fiscalização; funções do correio-mor e da comissão executiva passam ao presidente e ao conselho de administração): não textual\nAlterador 7, nova redação da alínea c) do n.º 2 do art. 14.º e do n.º 2 do art. 24.º do Estatuto dos TLP: outro diploma (anexo ao Decreto-Lei n.º 48007; estes artigos não constam do anexo II do original)\nAlterador 8, revogação do art. 25.º do anexo I «na parte em que dispõe sobre tarifas»: alvo incerto: não indica as alíneas; a alínea i) do n.º 1 junta as tarifas às taxas de licenciamento e aos regulamentos de uso público, e a alínea s) trata das tarifas das companhias concessionárias\nAlterador 8, revogação do n.º 3 do art. 14.º do anexo ao Decreto-Lei n.º 48007: outro diploma\nAlterador 8, revogação das outras disposições que contrariem o diploma: revogação condicional\nAlterador 9, revogação dos benefícios fiscais da alínea c) do n.º 2 do art. 53.º do anexo I, mantendo as isenções de sisa e de contribuição predial: alvo incerto: revogação parcial do conteúdo da alínea, sem texto novo; a alínea continua em parte em vigor\nAlterador 9, revogação da alínea b) do art. 15.º do estatuto anexo ao Decreto-Lei n.º 48007: outro diploma\nAlterador 10, revogação do Decreto-Lei n.º 48007: outro diploma\nAlterador 10, revogação de todas as normas que contrariem o diploma: revogação condicional\nAlterador 11, transformação dos CTT em sociedade anónima e aprovação dos seus estatutos: não textual (não altera nem revoga texto do original)\nAlterador 13, art. 15.º, b), revogação do Decreto-Lei n.º 49368 e do anexo I «na parte aplicável à Telecom», com excepção das normas aplicáveis por força do art. 14.º: revogação condicional (não identifica as normas revogadas)\nAlterador 14, nova redação do art. 4.º do Decreto-Lei n.º 20-C/86: outro diploma",
+  "nao_aplicavel": "Alterador 5, DL 244/74, extinção dos conselhos de administração, fiscal e geral e criação do conselho de gerência e do conselho de fiscalização: não textual: não altera o texto do Estatuto e foi revogado pelo alterador 6.\nAlterador 6, arts. 1.º, 4.º e 5.º, reinstituição dos conselhos, funções do correio-mor e da comissão executiva passadas ao presidente e ao conselho de administração, funções do conselho geral exercidas pelo Governo: não textual: designação e atribuição de funções sem nova redação.\nAlterador 7, DL 375/77, arts. 14.º, 22.º e 24.º do Estatuto dos TLP (anexo ao DL 48007, com o art. 22.º na redação do anexo II do original): outro diploma.\nAlterador 8, art. 5.º, revogação do art. 25.º «na parte em que dispõe sobre tarifas», quanto à al. i) do n.º 1 («Aprovar as tarifas, as taxas de licenciamento e os regulamentos sobre o uso público dos serviços…»): alvo incerto: a alínea mistura tarifas com taxas de licenciamento e regulamentos, e o alterador não diz que texto fica; aplicada só a al. s), que é toda sobre tarifas.\nAlterador 8, art. 5.º, revogação de «outras disposições legais que contrariem o disposto no presente diploma»: revogação condicional.\nAlterador 9, art. 2.º, 3), revogação, a partir de 1 de janeiro de 1989, da al. c) do n.º 2 do art. 53.º do anexo I, «mantendo-se, todavia, as isenções de sisa e de contribuição predial»: alvo incerto: a alínea concede a isenção geral de impostos (que abrange a sisa e a contribuição predial, que se mantêm) e a de custas; revogá-la por inteiro apagaria o que se mantém e o alterador não dá o texto que fica.\nAlterador 10, art. 15.º, revogação do DL 48007 e das normas que contrariem o diploma: outro diploma / revogação condicional (aplicada a revogação dos arts. 63.º e 64.º do anexo I).\nAlterador 11, DL 87/92, transformação dos CTT, E. P., em sociedade anónima e aprovação de novos estatutos: não textual: não dá nova redação nem revoga expressamente o original.\nAlterador 13, art. 15.º, al. b), revogação do DL 49368 e do anexo I «na parte aplicável à Telecom»: revogação condicional: não se sabe que unidades são só da Telecom.",
   "instrucoes": [
-    "Alt. 1 (Rectificação): preâmbulo n.º 3 «referidas» → «requeridas» ({{13}}); art. 4.º, n.º 1, c) vírgula após «a) e b)» ({{85}}); art. 16.º, n.º 1, a) «Estatuto» ({{149}}); art. 25.º, n.º 1, a) «a seu pedido ou por» ({{204}}); art. 25.º, n.º 1, c) «conselho de administração» (absorvida pela nova redação da alínea c) do DL 5/73, {{205}}-{{206}}); art. 26.º, n.º 1, Decreto-Lei n.º 23048 ({{234}}); art. 45.º, n.º 1, «à reserva geral» ({{337}}); art. 53.º, n.º 2, h) «à definição» ({{368}}): aplicadas.",
-    "Alt. 2 (DL 26/71), art. 4.º: revoga o art. 55.º do Estatuto (anexo I): {{375}}-{{378}} → «Art. 55.º - (Revogado.)».",
-    "Alt. 3 (DL 5/73): art. 6.º aditados n.os 5 e 6 (inserção após {{101}}); art. 9.º nova redação (depois substituída pelo DL 642/74, mantendo o n.º 5 do DL 5/73); art. 10.º nova redação (depois revogado); art. 11.º nova redação dos n.os 1, 2 e 5 (n.os 3 e 4 depois do DL 642/74); art. 17.º, n.º 3, alíneas b) e d) ({{168}}, {{170}}); art. 20.º, n.º 4, aditada a alínea c) (inserção após {{190}}); art. 23.º, n.º 4 ({{199}}); art. 25.º, n.º 1, alíneas b) e c) ({{205}}-{{206}}); art. 39.º, n.º 1 ({{318}}); art. 53.º, n.º 1 ({{359}}); art. 59.º, n.º 1 ({{383}}): aplicadas.",
-    "Alt. 4 (DL 596/73): nova redação do n.º 3 do art. 27.º ({{252}}): aplicada.",
-    "Alt. 5 (DL 244/74): extinção dos conselhos e criação de órgãos transitórios, sem nova redação: não aplicável (não textual).",
-    "Alt. 6 (DL 642/74), art. 2.º: nova redação dos arts. 9.º ({{120}}-{{123}}, com o n.º 5 do DL 5/73), 11.º ({{125}}-{{128}}, n.os 1, 2 e 5 do DL 5/73 e n.os 3 e 4 novos), 12.º ({{129}}-{{130}}), 13.º, n.º 1, proémio e a), n.os 2 e 3 ({{131}}-{{132}}, {{138}}-{{139}}), 14.º, n.os 2 e 3 ({{142}}-{{143}}); art. 3.º revoga o art. 10.º (do Estatuto, pois o decreto-lei só tem dois artigos): {{124}} → «Art. 10.º - (Revogado.)»; arts. 1.º e 4.º não textuais.",
-    "Alt. 7 (DL 375/77), art. 2.º: nova redação do n.º 3 do art. 22.º do Estatuto dos TLP, cuja redação consta do anexo II do original: aplicada em {{467}} (conforme o reparo); a alínea c) do n.º 2 do art. 14.º e o n.º 2 do art. 24.º não constam do anexo II: não aplicáveis (outro diploma).",
-    "Alt. 8 (DL 355/87), art. 5.º: revoga o art. 35.º do anexo I: {{289}}-{{302}} → «Art. 35.º - (Revogado.)»; revogação do art. 25.º «na parte em que dispõe sobre tarifas»: não aplicada (alvo incerto); n.º 3 do art. 14.º do anexo ao DL 48007: outro diploma; disposições que contrariem: revogação condicional.",
-    "Alt. 9 (DL 485/88), art. 2.º, 3): revogação dos benefícios fiscais da alínea c) do n.º 2 do art. 53.º com ressalva das isenções de sisa e contribuição predial: não aplicada (alvo incerto); art. 2.º, 1): outro diploma.",
-    "Alt. 10 (DL 147/89), art. 15.º: revoga os arts. 63.º e 64.º do anexo I: {{394}}-{{398}} e {{399}}-{{400}} revogados; revogação do DL 48007: outro diploma; normas que contrariem: revogação condicional.",
-    "Alt. 11 (DL 87/92): transforma os CTT em sociedade anónima; sem instrução textual dirigida ao original.",
-    "Alt. 12 (DL 277/92): cisão dos CTT e criação da Telecom Portugal; sem instrução dirigida ao original.",
-    "Alt. 13 (DL 122/94), art. 15.º, b): revogação do DL 49368 e do anexo I na parte aplicável à Telecom: não aplicada (revogação condicional, não identifica texto).",
-    "Alt. 14 (DL 18/2003): altera o DL 20-C/86 e só cita o anexo I do original: outro diploma."
+    "Alterador 1 (retificação): preâmbulo n.º 3 «requeridas»; art. 4.º n.º 1 c) vírgula; art. 16.º n.º 1 a) «Estatuto»; art. 25.º n.º 1 a) «ou por conveniência»; art. 25.º c) substituída depois pelo alterador 3; art. 26.º n.º 1 «23048»; art. 45.º n.º 1 «à reserva geral»; art. 53.º n.º 2 h) «à definição»: aplicadas.",
+    "Alterador 2: revoga o art. 55.º: unidades 375-378 passam a «Art. 55.º (Revogado.)».",
+    "Alterador 3 (DL 5/73): art. 6.º n.os 5 e 6 inseridos; arts. 9.º e 11.º substituídos (depois alterados pelo alterador 6); art. 10.º nova redação (depois revogado); art. 17.º n.º 3 b) e d); art. 20.º n.º 4 c) inserida; art. 23.º n.º 4; art. 25.º n.º 1 b) e c); art. 39.º n.º 1; art. 53.º n.º 1; art. 59.º n.º 1: aplicados.",
+    "Alterador 4: art. 27.º n.º 3 nova redação: aplicado.",
+    "Alterador 5: não textual (nao_aplicavel).",
+    "Alterador 6 (DL 642/74): art. 9.º n.os 1 a 4 (n.º 5 do alterador 3), art. 11.º n.os 3 e 4, art. 12.º, art. 13.º n.º 1 proémio e a), n.os 2 e 3, art. 14.º n.os 2 e 3: aplicados; art. 10.º revogado; arts. 1.º, 4.º e 5.º não textuais.",
+    "Alterador 7: Estatuto dos TLP, outro diploma.",
+    "Alterador 8 (DL 355/87): art. 35.º revogado; art. 25.º n.º 1 s) revogada; al. i) e revogação genérica em nao_aplicavel.",
+    "Alterador 9 (DL 485/88): art. 53.º n.º 2 c) em nao_aplicavel (ressalva de sisa e contribuição predial).",
+    "Alterador 10 (DL 147/89): arts. 63.º e 64.º do anexo I revogados.",
+    "Alterador 11: não textual. Alterador 12 (DL 277/92): sem instrução dirigida ao original. Alterador 13: revogação parcial na parte da Telecom em nao_aplicavel. Alterador 14 (DL 18/2003): só cita o art. 36.º n.º 2 do anexo I, sem instrução."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
   "problemas": [],
   "numeracao_aceite": [
-    "substituição 124-124: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)",
-    "substituição 289-302: parágrafo que não está no alterador nem no original: Art. 35.º - (Revogado.)",
-    "substituição 375-378: parágrafo que não está no alterador nem no original: Art. 55.º - (Revogado.)",
-    "substituição 394-398: parágrafo que não está no alterador nem no original: Art. 63.º - (Revogado.)",
-    "substituição 399-400: parágrafo que não está no alterador nem no original: Art. 64.º - (Revogado.)"
+    "substituição 124-124: parágrafo que não está no alterador nem no original: Art. 10.º (Revogado.)",
+    "substituição 289-302: parágrafo que não está no alterador nem no original: Art. 35.º (Revogado.)",
+    "substituição 375-378: parágrafo que não está no alterador nem no original: Art. 55.º (Revogado.)",
+    "substituição 394-400: parágrafo que não está no alterador nem no original: Art. 63.º (Revogado.)",
+    "substituição 394-400: parágrafo que não está no alterador nem no original: Art. 64.º (Revogado.)"
   ]
 }

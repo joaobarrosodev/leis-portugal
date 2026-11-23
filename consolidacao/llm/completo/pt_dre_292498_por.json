@@ -46,24 +46,17 @@
       "alterador": 7
     }
   ],
-  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor de informática principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 2, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 3, criação de um lugar de assessor de informática principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 4, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 5, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 6, art. 1.º, nova redação do artigo 19.º (Divisão de Apoio e Exploração), com as alíneas a) a f) em «...» e a alínea g) nova: alvo incerto (o artigo 19.º vem vazio no texto atual, só com a epígrafe como título de divisão; o corpo e as alíneas a) a f), que a nova redação manda manter, não estão no texto atual e não se podem copiar letra a letra, por isso não se reescreve o artigo para não as apagar)\nAlterador 8, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 9, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 10, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)",
+  "nao_aplicavel": "Alteradores 1 a 5 (Despachos Normativos n.os 196/94, 212/94, 258/94, 314/94 e 341/94), criação de um lugar no quadro de pessoal: não textual: criam um lugar a extinguir quando vagar, sem texto nem quadro novo do anexo I.\nAlterador 6, nova redação do artigo 19.º (alíneas a) a f) «...» e alínea g) nova): alvo incerto: o corpo atual do artigo 19.º (as alíneas a) a f) que ficam) não está no texto atual, que só traz o título «Divisão de Apoio e Exploração»; não se pode compor o artigo inteiro.\nAlterador 6, artigo 3.º (alterações ao quadro por portaria): não textual.\nAlteradores 8 a 10 (Portarias n.os 1453/2000, 1006/2003 e 1009/2003), criação de um lugar no quadro de pessoal: não textual: criam um lugar a extinguir quando vagar, sem texto nem quadro novo do anexo I.",
   "instrucoes": [
-    "Alterador 6, art. 1.º, artigo 2.º (alínea l) Direcção de Serviços de Auditoria): já aplicado pelo programa, certo",
-    "Alterador 6, art. 1.º, artigo 9.º: já aplicado pelo programa, certo",
-    "Alterador 6, art. 1.º, artigo 10.º (nova epígrafe e corpo): devolvido o artigo com a nova redação e eliminado o título «##### Divisão de Gestão Financeira e de Contabilidade», que era a epígrafe antiga do artigo 10.º",
-    "Alterador 6, art. 1.º, artigos 11.º, 12.º e 17.º: já aplicados pelo programa, certos",
-    "Alterador 6, art. 1.º, artigo 19.º (alínea g) nova): não aplicado, o corpo atual do artigo não vem no texto (nao_aplicavel)",
-    "Alterador 6, art. 1.º, artigo 21.º: nova redação (Divisão de Assuntos Jurídicos e Contencioso)",
-    "Alterador 6, art. 1.º, artigo 22.º: nova epígrafe e proémio; alíneas a) a f) («...») copiadas do texto atual",
-    "Alterador 6, art. 2.º, aditamento do artigo 17.º-A: já aplicado pelo programa, certo",
-    "Alterador 6, art. 3.º: remete alterações do quadro para portaria; não altera o texto",
-    "Alterador 6, art. 4.º, revogação do artigo 29.º: artigo 29.º com a epígrafe Divisão de Auditoria e corpo (Revogado.); eliminado o título «##### Divisão de Auditoria», que era a epígrafe antiga com o corpo antigo",
-    "Alterador 7 (Portaria 414/98): quadro de pessoal alterado de acordo com o quadro anexo em imagem; anexo I = corpo atual + linha da imagem do alterador",
-    "Alteradores 1-5 e 8-10: criação de lugares no quadro de pessoal, sem texto (nao_aplicavel)"
+    "Alt. 6, art. 1.º: nova redação dos arts. 2.º, 9.º, 11.º, 12.º e 17.º: já aplicada pelo programa e certa; 10.º devolvido com a nova redação e sem o corpo antigo, e eliminado o título «Divisão de Gestão Financeira e de Contabilidade» (era a epígrafe antiga do art. 10.º); 21.º e 22.º aplicados (22.º: epígrafe e proémio novos, alíneas a) a f) do texto atual); 19.º em nao_aplicavel.",
+    "Alt. 6, art. 2.º: aditamento do art. 17.º-A: já aplicado pelo programa e certo.",
+    "Alt. 6, art. 4.º: revoga o art. 29.º: epígrafe «Divisão de Auditoria» e corpo (Revogado.); eliminado o título «Divisão de Auditoria», que era a epígrafe do art. 29.º.",
+    "Alt. 7 (Portaria 414/98): altera o quadro de pessoal (anexo I, só em imagem): corpo atual do anexo I + imagem do alterador.",
+    "Alts. 1-5, 8-10: criação de lugares no quadro: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

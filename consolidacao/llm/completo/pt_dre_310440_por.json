@@ -2,448 +2,34 @@
   "id": "pt:dre:310440:por",
   "artigos": [
     {
-      "chave": "1.º",
-      "epigrafe": "(Âmbito do diploma)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "2.º",
-      "epigrafe": "(Regimes dos incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "3.º",
-      "epigrafe": "(Projectos em sectores declarados em reestruturação)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
       "chave": "4.º",
       "epigrafe": "(Definições)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "(Análise macroeconómica do projecto)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "7.º",
-      "epigrafe": "(Métodos dos pontos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "8.º",
-      "epigrafe": "(Produtividade económica)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "9.º",
-      "epigrafe": "(Prioridade sectorial)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "10.º",
-      "epigrafe": "(Prioridade regional)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "11.º",
-      "epigrafe": "(Incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "12.º",
-      "epigrafe": "(Incentivos financeiros: bonificação da taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "13.º",
-      "epigrafe": "(Concessão provisória e definitiva dos incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "14.º",
-      "epigrafe": "(Opção)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "15.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "16.º",
-      "epigrafe": "(Incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "17.º",
-      "epigrafe": "(Incentivos financeiros: bonificação da taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "18.º",
-      "epigrafe": "(Opção)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "19.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "20.º",
-      "epigrafe": "(Incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "1 - Considera-se:\n\na) Projecto de investimento, ou só projecto, a proposta de aplicação de recursos em activo flxo adicional que afecte a produção em quantidade ou custo e que respeite à mesma unidade produtiva e, bem assim, o acréscimo em fundo de maneio associado àquela aplicação;\n\nb) Unidade produtiva, o conjunto individualizado de instalações, equipamento e mão-de-obra, com afectação específica a processos produtivos inerentes aos sectores de actividade abrangidos;\n\nc) Sectores de actividade abrangidos, as divisões 2 e 3 da Classificação das Actividades Económicas Portuguesas (CAE), revisão 1, de 1973, publicada pelo Instituto Nacional de Estatística;\n\nd) Projecto de grande dimensão, o que envolva um montante global de investimento, em activo fixo corpóreo e em acréscimo permanente de fundo de maneio, superior a 250000 contos, a preços constantes do ano de apresentação do projecto;\n\ne) Promotor do projecto, a pessoa, singular ou colectiva, que apresenta o projecto e que requer a concessão de incentivos em seu próprio nome ou em representação de empresa constituída ou a constituir;\n\nf) Data do início do projecto, a da primeira data dos documentos comprovativos da realização material do projecto.\n\n2 - O conceito de projecto, referido na alínea a) do número anterior, aplica-se aos investimentos de substituição, desde que afectem a produção em quantidade ou custo.\n\n3 - Não são, em princípio, susceptíveis de beneficiarem dos incentivos previstos neste diploma os projectos que incluam aplicações de recursos em activo fixo adicional em estado de usado, podendo, no entanto, com parecer prévio favorável do Ministério da Indústria, Energia e Exportação, admitir-se a concessão de incentivos, designadamente em relação às aplicações de recursos que não se refiram a elementos de activo em estado de uso.\n\n4 - Para os efeitos deste diploma, são excluídas do conceito referido na alínea a) do n.º 1 as aplicações de recursos que se traduzam na aquisição de viaturas ligeiras.",
+      "alterador": 1
     },
     {
       "chave": "21.º",
       "epigrafe": "(Incentivos financeiros)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "22.º",
-      "epigrafe": "(Outros incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "23.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "24.º",
-      "epigrafe": "(Incidências patrimoniais e fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "25.º",
-      "epigrafe": "(Montante e concessão)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "26.º",
-      "epigrafe": "(Opção)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "27.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "28.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "29.º",
-      "epigrafe": "(Incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "30.º",
-      "epigrafe": "(Incentivos financeiros)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "31.º",
-      "epigrafe": "(Condições de concessão)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "32.º",
-      "epigrafe": "(Acumulação de incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "33.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "34.º",
-      "epigrafe": "(Actos de concentração)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "35.º",
-      "epigrafe": "(Acordos de cooperação)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "36.º",
-      "epigrafe": "(Incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "37.º",
-      "epigrafe": "(Defesa da concorrência)",
-      "texto": "(Revogado.)",
-      "alterador": 4
-    },
-    {
-      "chave": "38.º",
-      "epigrafe": "(Condições de acesso)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "39.º",
-      "epigrafe": "(Montante e concessão)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "40.º",
-      "epigrafe": "(Apresentação do pedido de incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "41.º",
-      "epigrafe": "(Apreciação preliminar do processo)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "42.º",
-      "epigrafe": "(Avaliação e propostas de Incentivos financeiros: bonificação de taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "43.º",
-      "epigrafe": "(Proposta de incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "44.º",
-      "epigrafe": "(Decisão final)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "45.º",
-      "epigrafe": "(Decurso dos prazos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "46.º",
-      "epigrafe": "(Apresentação do pedido de incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "47.º",
-      "epigrafe": "(Dos incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "48.º",
-      "epigrafe": "(Dos incentivos financeiros: bonificação da taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "49.º",
-      "epigrafe": "(Apreciação preliminar do processo)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "50.º",
-      "epigrafe": "(Proposta de incentivos financeiros)",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "1 - Os incentivos financeiros, a conceder neste regime, constituirão um apoio, não reembolsável, sob forma de prémio de emprego por posto de trabalho criado.\n\n2 - O prémio de emprego a que se refere o número anterior será igual ao valor do subsídio de desemprego multiplicado por 14.\n\n3 - Os projectos candidatos a estes incentivos financeiros que geograficamente se situem nas zonas Z(índice 1) OU Z(índice 2) do mapa anexo IV terão direito a um acréscimo de, respectivamente, 50% ou 25%, no montante do prémio de emprego referido no número anterior.\n\n4 - Ao quantitativo de postos de trabalho criados deduzir-se-á sempre, para efeitos de acesso a estes apoios, o número de postos absorvidos ou eliminados através da execução do projecto.\n\n5 - Para além do preenchimento das condições referidas no artigo 19.º, deverão as empresas que se candidatarem a este regime aceitar cumulativamente o compromisso da manutenção dos postos de trabalho criados.\n\n6 - Decorrido um período de 2 exercícios económicos completos, após o termo da fase de investimento, os efeitos previstos deverão ser comprovados.\n\n7 - Se no prazo de 3 anos, contados a partir da data do despacho de concessão de incentivos, se verificar redução do número de postos de trabalho, será exigido o reembolso do prémio, na parte correspondente, mediante despacho do Ministro do Trabalho, tendo em conta o disposto no [Decreto-Lei n.º 437/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1978-325295), de 28 de Dezembro.",
+      "alterador": 1
     },
     {
       "chave": "51.º",
       "epigrafe": "(Avaliação e proposta de incentivos fiscais)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "52.º",
-      "epigrafe": "(Apresentação do pedido de incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "53.º",
-      "epigrafe": "(Do regime extraordinário das dotações de capital)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "54.º",
-      "epigrafe": "(Do regime contratual para projectos de grande incidência económica e social)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "55.º",
-      "epigrafe": "(Do regime de incentivos à transferência de localização)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "56.º",
-      "epigrafe": "(Do regime de incentivos fiscais à concentração e cooperação de empresas)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "57.º",
-      "epigrafe": "(Obrigações dos promotores dos projectos e sua fiscalização)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "58.º",
-      "epigrafe": "(Penalizações por incumprimento)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "59.º",
-      "epigrafe": "(Penalizações por dolo ou má fé)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "60.º",
-      "epigrafe": "(Pagamento dos incentivos financeiros concedidos sob a forma de bonificação da taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "61.º",
-      "epigrafe": "(Plano de liquidação dos incentivos financeiros atribuídos a título de bonificações de taxa de juro)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "62.º",
-      "epigrafe": "(Protocolo entre o Ministério das Finanças e do Plano e as instituições financiadoras)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "63.º",
-      "epigrafe": "(Do regime simplificado de incentivos para projectos de investimento de pequena dimensão)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "64.º",
-      "epigrafe": "(Do regime extraordinário das dotações de capital)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "65.º",
-      "epigrafe": "(Do regime contratual dos incentivos para projectos de grande incidência económico-social)",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "1 - Para efeitos da concessão de incentivos fiscais, quando o processo lhes tenha sido directamente entregue, as entidades referidas nas alíneas a), b) e d) do n.º 3 do artigo 40.º procederão nos mesmos termos preconizados no artigo 43.º\n\n2 - A Direcção-Geral das Contribuições e Impostos emitirá parecer e proposta dos incentivos, a conceder no prazo estipulado no n.º 1 do artigo anterior, a submeter a despacho do Ministro das Finanças e do Plano.",
+      "alterador": 1
     },
     {
       "chave": "66.º",
       "epigrafe": "(Do regime de incentivos à transferência de localização)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "67.º",
-      "epigrafe": "(Do regime de apoio à investigação e desenvolvimento tecnológico)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "68.º",
-      "epigrafe": "(Concorrência legal de incentivos)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "69.º",
-      "epigrafe": "(Correcção monetária anual)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "70.º",
-      "epigrafe": "(Aplicação às Regiões Autónomas da Madeira e dos Açores)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "71.º",
-      "epigrafe": "(Intervenção especial)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "72.º",
-      "epigrafe": "(Situações transitórias)",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "73.º",
-      "epigrafe": "(Alterações)",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "1 - Os incentivos financeiros previstos na alínea a) do artigo 30.º são pagos aos promotores dos projectos pela Direcção-Geral do Tesouro.\n\n2 - Os incentivos financeiros previstos nas alíneas b) e c) do artigo 30.º são pagos aos promotores dos projectos pelo IEFP.\n\n3 - Os incentivos financeiros a conceder ao abrigo do presente regime são pagos pelas entidades públicas processadoras, após comprovação das despesas sobre que são determinados.",
+      "alterador": 1
     },
     {
       "chave": "74.º",
       "epigrafe": "(Revogação da legislação anterior)",
-      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 22 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Janeiro de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.",
-      "alterador": 3
+      "texto": "Sem prejuízo do disposto no artigo 72.º, é revogado o [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 22 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Janeiro de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.",
+      "alterador": 1
     }
   ],
   "removidos": [],
@@ -466,51 +52,33 @@
   ],
   "anexos": [
     {
-      "titulo": "## ANEXO I — Valor dos parâmetros a utilizar no cálculo do valor líquido actualizado a preços constantes de eficiência económica",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "titulo": "## ANEXO II",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
       "titulo": "## ANEXO III — Graduação de actividade a que se refere o n.º 2 do artigo 9.º",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "titulo": "## ANEXO IV — Zonas a que se referem os artigos 9.º, 16.º, 17.º e 24.º",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "titulo": "## ANEXO V — Distribuição dos incentivos fiscais por classes",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "(A) Sectores de actividade com prioridade sectorial P(índice 2) = 10:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)\n\n(B) Sectores de actividade com prioridade sectorial P(índice 2) = 5:\n\nOs sectores não incluídos em (A) ou (C).\n\n(C) Sectores de actividade com prioridade sectorial P(índice 2) = 0:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)\n\nFabricação de artigos de porcelana, faiança e grés fino:\n\nLouça doméstica;\n\nLouça decorativa de porcelana;\n\nLouça decorativa de faianças (só projectos de racionalização, modernização ou reconversão);\n\nLouça sanitária (só projectos de racionalização, modernização ou reconversão);\n\nPavimentos (só projectos de ampliação, racionalização, modernização ou reconversão);\n\nAzulejo (só projectos de racionalização, modernização ou reconversão).",
+      "alterador": 2
     },
     {
       "titulo": "## ANEXO VI — Formulário e regras de cálculo referentes ao regime extraordinário de dotações de capital",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "(Artigo 25.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06400/09590979.pdf)",
+      "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 5, nova redação dos artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 210/95: outro diploma: altera o Decreto-Lei n.º 210/95, que só refere o original.",
+  "nao_aplicavel": "Alterador 1, anexo II, artigo 8.º, n.º 1, alínea c), «IN» por «IM»: só em imagem; o quadro do anexo II só existe em imagem\nAlterador 1, anexo III, «CAE 2901.1» por «CAE 2909.1»: só em imagem; as listas do anexo III só existem em imagem\nAlterador 1, anexo V, cabeçalho do quadro «artigo 14.º» por «artigo 11.º»: só em imagem; o quadro do anexo V só existe em imagem\nAlterador 3, artigo 12.º, n.º 2, revogação do decreto-lei com excepção do artigo 3.º, dos capítulos VI e VIII e das disposições que relevem para essas matérias: revogação condicional; o alcance depende de saber que disposições relevam para os capítulos e artigo excecionados\nAlterador 4, artigo 16.º, revogação «no que respeita às excepções consagradas» no Decreto-Lei n.º 197-C/86 (crédito fiscal por investimento): alvo incerto; não se sabe com segurança que artigos ou partes ficam revogados\nAlterador 5, nova redação dos artigos 1.º a 3.º do Decreto-Lei n.º 210/95: outro diploma",
   "instrucoes": [
-    "Alt. 1 (declaração de retificação): retificações nos arts. 4.º, 6.º, 12.º, 16.º, 17.º, 19.º, 21.º, 23.º, 27.º, 39.º, 40.º, 43.º, 44.º, 50.º, 51.º, 53.º, 72.º e 74.º — sem efeito no texto final, porque todos esses artigos ficam revogados (alts. 3 e 4); a retificação da epígrafe do art. 66.º («transferência de localização») foi aplicada à epígrafe que se mantém.",
-    "Alt. 1: retificação do título da secção I do capítulo XI («prioridades regionais/sectoriais») e dos títulos dos anexos III e IV — aplicadas em titulos (texto copiado letra a letra, incluindo «o artigos»).",
-    "Alt. 1: retificações no anexo II (art. 8.º, n.º 1, alínea c)), no corpo do anexo III («CAE 2909.1»), nos cabeçalhos dos quadros dos anexos V e VI — alvos só em imagem e, de qualquer modo, anexos revogados pelo alt. 3; ficam sem efeito no texto final.",
-    "Alt. 2 (Portaria 648/83): nova redação da rubrica CAE ex 3610.1.0 do anexo III — reparo confirmado quanto ao texto (vem em texto), mas o anexo III fica revogado com todo o diploma pelo DL 197-C/86 (art. 12.º, n.º 2) e pelo DL 251/86 (art. 16.º); o corpo do anexo III passa a «(Revogado.)», pelo que a nova redação da rubrica não subsiste.",
-    "Alt. 3 (DL 197-C/86) art. 12.º, n.º 2: revoga o DL 132/83, com exceção do art. 3.º, do capítulo VI (art. 27.º) e do capítulo VIII (arts. 33.º a 37.º) — aplicado: todos os outros artigos e os anexos ficam «(Revogado.)» com alterador 3; os arts. 1.º a 11.º do alt. 3 são regime próprio, sem nova redação do original.",
-    "Alt. 4 (DL 251/86) art. 16.º: revoga o DL 132/83 «no que respeita às excepções consagradas no» DL 197-C/86 — aplicado: arts. 3.º, 27.º e 33.º a 37.º ficam «(Revogado.)» com alterador 4; o diploma fica revogado na totalidade.",
-    "Art. 74.º revogado: mantidas, a seguir a «(Revogado.)», as fórmulas finais e assinaturas que vinham no seu corpo.",
-    "Alt. 5 (DL 246/96): altera o DL 210/95 — outro diploma, em nao_aplicavel."
+    "Alterador 1 (retificação): as correções aos artigos 4.º n.º 1 a), 6.º, 12.º, 16.º, 17.º, 19.º, 21.º n.º 2, 23.º, 27.º, 39.º, 40.º, 43.º, 44.º, 50.º, 51.º n.º 1, 53.º e 72.º já estavam aplicadas pelo programa e conferem; ficam como estão.",
+    "Alterador 1: aplicadas as que faltavam: 4.º n.º 4 («diploma»), 21.º n.º 5 («artigo 19.º,»), 51.º n.º 2 (nova redação da parte final), epígrafe do 66.º («transferência de localização»).",
+    "Alterador 1: 74.º («artigo 72.º,») já aplicado pelo programa, mas o programa tirou a ligação do Decreto-Lei n.º 194/80; reposto o texto original com a correção.",
+    "Alterador 1: títulos corrigidos: secção I do capítulo XI («regionais/sectoriais»), anexo III e anexo IV; corpo do anexo VI («(Artigo 25.º)»).",
+    "Alterador 1: correções a quadros em imagem (anexos II, III e V): nao_aplicavel.",
+    "Alterador 2 (Portaria n.º 648/83): nova redação da rubrica CAE ex 3610.1.0 do anexo III, cujas listas só existem em imagem; como alteração parcial de quadro em imagem, o corpo do anexo III fica com o corpo atual e, a seguir, as linhas da portaria.",
+    "Alteradores 3 e 4: revogações de alcance incerto; nao_aplicavel. Alterador 5: outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: 4 - Para os efeitos deste diploma, são excluídas do conceito referido na alínea ",
+    "21.º: parágrafo que não está no alterador nem no original: 5 - Para além do preenchimento das condições referidas no artigo 19.º, deverão a",
+    "51.º: parágrafo que não está no alterador nem no original: 2 - A Direcção-Geral das Contribuições e Impostos emitirá parecer e proposta dos",
     "título #### SECÇÃO I — Do regime geral dos incentivos fiscais e fin: texto que não está no alterador nem no original"
   ],
   "numeracao_aceite": [],

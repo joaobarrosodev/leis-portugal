@@ -153,7 +153,7 @@ c) De 6 horas diárias ou 36 horas semanais, nos serviços de ensino.
 
 1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.
 
-2 - (Revogado.)
+2. (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
@@ -196,6 +196,10 @@ a) O número de lugares de estagiário acresce ao dos enfermeiros de 2.ª e de a
 b) Os lugares de auxiliar de enfermagem, depois de efectuada a adição referida na alínea anterior, são repartidos pelas categorias de auxiliar de 1.ª e de 2.ª, na proporção de um terço e dois terços, respectivamente.
 
 3. Por despachos publicados no Diário do Governo, o Ministro da Saúde e Assistência fixará a divisão de lugares em cada quadro, nos termos do número anterior, e aprovará a distribuição do pessoal em serviço, à qual será aplicável o regime estabelecido nos n.os 2 e 3 do artigo 17.º
+
+1. (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 49434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49434-1969-217350), publicado em 1969-12-09.
 
 Publique-se e cumpra-se como nele se contém.
 

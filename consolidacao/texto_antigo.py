@@ -88,7 +88,140 @@ def marcados(original: str, consolidado: str) -> list[dict]:
     return achados
 
 
+CONFIRMADOS = "auditoria/texto-antigo-confirmados.jsonl"
+CORRIGIDOS = "auditoria/texto-antigo-corrigidos.jsonl"
+VERIFICACAO = "llm/texto-antigo"
+
+
+def _bloco(linhas: list[str], chave: str) -> tuple[int, int] | None:
+    """Linhas [início, fim) do artigo `chave` no texto (do título ao título do artigo seguinte)."""
+    inicio = None
+    for i, linha in enumerate(linhas):
+        m = TITULO.match(linha)
+        if m and inicio is None and _chave(m.group(1)) == chave:
+            inicio = i
+        elif m and inicio is not None:
+            return inicio, i
+    return (inicio, len(linhas)) if inicio is not None else None
+
+
+def corrigir_artigo(linhas: list[str], chave: str, corpo_original: str) -> tuple[list[str], dict] | None:
+    """Tira do artigo `chave` o bloco final que é, letra a letra, o corpo do artigo original (com o título de
+    divisão que lhe servia de epígrafe). Os títulos de capítulo e secção que fecham o bloco ficam, e a epígrafe
+    passa ao título do artigo quando ele não a tem. Devolve None quando o fim do artigo não é o corpo original."""
+    lim = _bloco(linhas, chave)
+    if lim is None:
+        return None
+    ini, fim = lim
+    # os títulos de estrutura (capítulo, secção…) no fim do bloco são do que vem a seguir
+    fecho = fim
+    while fecho > ini and (not linhas[fecho - 1].strip() or re.match(r"^#{1,4} ", linhas[fecho - 1])):
+        fecho -= 1
+    alvo = [l for l in corpo_original.split("\n")]
+    while alvo and (not alvo[-1].strip() or re.match(r"^#{1,4} ", alvo[-1])):
+        alvo.pop()
+    while alvo and not alvo[0].strip():
+        alvo.pop(0)
+    n = len(alvo)
+    if n == 0 or fecho - n <= ini + 1 or linhas[fecho - n:fecho] != alvo:
+        return None
+    resto = linhas[ini:fecho - n]
+    if not any(l.strip() for l in resto[1:]):
+        return None  # sem texto novo antes: não é este erro
+    epigrafe = None
+    m = re.match(r"^#{5}\s+(.+)$", alvo[0])
+    titulo = linhas[ini]
+    if m and " — " not in titulo:
+        epigrafe = m.group(1).strip()
+        titulo = f"{titulo.rstrip()} — {epigrafe}"
+    novas = linhas[:ini] + [titulo] + linhas[ini + 1:fecho - n] + linhas[fecho:]
+    removido = "\n".join(alvo)
+    return novas, {"artigo": chave, "removido": removido, "epigrafe_no_titulo": epigrafe,
+                   "antes": "\n".join(linhas[ini:fim]).strip(), "depois": "\n".join(novas[ini:ini + (fim - ini) - n]).strip()}
+
+
+def corrigir(raiz: str, aplicar: bool) -> int:
+    """Corrige os artigos confirmados em `auditoria/texto-antigo-confirmados.jsonl` e escreve a entrada da
+    verificação às cegas (`llm/texto-antigo/entrada.jsonl`). Com `aplicar`, grava no data/ só os artigos que a
+    verificação deu `certo` (`llm/texto-antigo/saida.jsonl`)."""
+    from pathlib import Path  # noqa: PLC0415
+
+    sys.path.insert(0, str(Path(raiz) / "src"))
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from acervo import blocos, historico  # noqa: PLC0415
+
+    from leis_portugal.domain.history import render_version, summarize  # noqa: PLC0415
+    from leis_portugal.infrastructure.repository import Acervo  # noqa: PLC0415
+
+    pasta = Path(__file__).resolve().parent
+    acervo = Acervo(Path(raiz))
+    por: dict[str, list[str]] = {}
+    for l in (pasta / CONFIRMADOS).read_text(encoding="utf-8").splitlines():
+        if l.strip():
+            d = json.loads(l)
+            por.setdefault(d["caminho"], []).append(d["artigo"])
+    certos = set()
+    if aplicar:
+        for l in (pasta / VERIFICACAO / "saida.jsonl").read_text(encoding="utf-8").splitlines():
+            if l.strip():
+                v = json.loads(l)
+                if v["veredicto"] == "certo":
+                    certos.add((v["caminho"], v["artigo"]))
+    itens, feitos, recusas = [], [], []
+    for caminho, chaves in sorted(por.items()):
+        md = Path(raiz) / caminho
+        registo, texto = acervo.read(md)
+        dados = acervo.read_history(md)
+        if len(dados["versions"]) != 2:
+            recusas.append(f"{caminho}: o histórico não tem duas versões")
+            continue
+        original = render_version(dados, dados["versions"][0], title=registo.title)
+        artigos_o = artigos(original)
+        linhas = texto.split("\n")
+        mudou = []
+        for chave in chaves:
+            r = corrigir_artigo(linhas, chave, artigos_o.get(chave, ""))
+            if r is None:
+                recusas.append(f"{caminho} art. {chave}: o fim do artigo não é o corpo original")
+                continue
+            novas, info = r
+            itens.append({"n": len(itens) + 1, "caminho": caminho, "id": registo.id, "diploma": registo.title,
+                          "artigo_original": artigos_o.get(chave, "").strip()} | info)
+            if aplicar and (caminho, chave) not in certos:
+                continue
+            linhas = novas
+            mudou.append(chave)
+        if not aplicar or not mudou:
+            continue
+        novo = "\n".join(linhas)
+        primeira, segunda = (dict(v) for v in dados["versions"])
+        novos = historico(registo.id, registo.title, original, novo, [primeira, segunda])
+        if blocos(render_version(novos, novos["versions"][1], title=registo.title)) != blocos(novo):
+            recusas.append(f"{caminho}: o histórico não reproduz o texto")
+            continue
+        registo.version_history = summarize(novos, acervo.history_path(md).name)
+        nota = " Texto antigo deixado a seguir à nova redação ou a «(Revogado.)» retirado por regra e verificado às cegas (consolidacao/texto_antigo.py): arts. " + ", ".join(mudou) + "."
+        if "consolidacao/texto_antigo.py" not in (registo.provenance.notes or ""):
+            anteriores = (registo.provenance.notes or "").rstrip()
+            registo.provenance.notes = (anteriores + ("" if not anteriores or anteriores.endswith(".") else ".") + nota).strip()
+        acervo.save(registo, novo, target=md)
+        acervo.write_history(md, novos)
+        feitos.append({"id": registo.id, "caminho": caminho, "titulo": registo.title, "artigos": mudou})
+    if aplicar:
+        (pasta / CORRIGIDOS).write_text("".join(json.dumps(f, ensure_ascii=False) + "\n" for f in feitos), encoding="utf-8")
+        print(f"{sum(len(f['artigos']) for f in feitos)} artigos corrigidos em {len(feitos)} consolidados")
+    else:
+        (pasta / VERIFICACAO).mkdir(parents=True, exist_ok=True)
+        (pasta / VERIFICACAO / "entrada.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
+        print(f"{len(itens)} artigos para a verificação às cegas em {VERIFICACAO}/entrada.jsonl")
+    for r in recusas:
+        print("  recusa:", r)
+    return 0
+
+
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("corrigir", "aplicar"):
+        return corrigir(sys.argv[2], sys.argv[1] == "aplicar")
     total = 0
     for f in sorted(glob.glob(sys.argv[1])):
         for linha in open(f, encoding="utf-8"):

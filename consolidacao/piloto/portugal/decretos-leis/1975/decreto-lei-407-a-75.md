@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:425528:por
+    title: Decreto-Lei n.º 81/78
+    publication_date: '1978-04-29'
   - id: pt:dre:416472:por
     title: Decreto-Lei n.º 895/76
     publication_date: '1976-12-30'
@@ -58,13 +61,9 @@ c) Não mantenham terras incultas ou subaproveitadas nem hajam incorrido em qual
 
 ###### Artigo 4.º
 
-1. O direito de reserva previsto no artigo anterior caduca se não for exercido no prazo de vinte dias a contar da notificação, para o efeito, do proprietário ou de quem o represente, através de declaração escrita, dirigida ao Instituto de Reorganização Agrária.
+(Revogado.)
 
-2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de trinta dias a contar da afixação de editais na sede da associação de regantes e beneficiários do aproveitamento hidroagrícola de que beneficiem os prédios nacionalizados.
-
-3. A declaração de exercício do direito de reserva deverá ser acompanhada, sob pena de ineficácia, de uma outra em que o reservante declare quais os prédios, rústicos e urbanos, de que é proprietário, tomando em consideração o disposto nos artigos 13.º e 14.º deste diploma.
-
-4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício do direito de reserva serão efectuadas mediante carta registada com aviso de recepção.
+> Revogado pelo/a [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), publicado em 1978-04-29.
 
 ###### Artigo 5.º
 
