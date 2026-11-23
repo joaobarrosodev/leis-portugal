@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-01-01'
+version_history:
+  file: decreto-lei-414-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-01-01'
+    amending: pt:dre:670073:por
+    amending_title: Decreto-Lei n.º 387-C/87
+    changes:
+    - Altera Artigo unidades 533-534
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 387-C/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-414-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1249,9 +1264,9 @@ Tendo o solicitador exercido em mais de uma comarca, o juiz da comarca onde exer
 
 Art. 2.º Os mapas II e V anexos ao Estatuto Judiciário são alterados nos termos indicados no final do presente diploma.
 
-Art. 3.º - 1. A circunscrição médico-legal com sede em Lisboa compreende o distrito judicial de Évora.
+Art. 3.º - (Revogado.)
 
-2. Nas comarcas cujos tribunais são constituídos por mais de um juízo, é de três ou mais o número de peritos a que se refere o artigo 1.º do [Decreto-Lei n.º 42216](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42216-1959-585840), de 15 de Abril de 1959; nas restantes comarcas e nos julgados municipais, esse número é de dois ou três.
+> Alterado pelo/a [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), publicado em 1987-12-29.
 
 Art. 4.º Os ajudantes de escrivão são equiparados, para efeitos de participação emolumentar, aos oficiais de diligências do respectivo tribunal.
 

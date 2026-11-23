@@ -38,10 +38,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-49-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:579534:por
+    amending_title: Decreto Regulamentar n.º 2/2005; Resolução do Conselho de Ministros n.º 50/2008; Decreto-Lei n.º 78/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Altera Artigo 6.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 16.º
+    - Altera Artigo ANEXO I — Limites da Reserva Natural
+    - Altera Artigo ANEXO I — Limites da Reserva Natural
+    - Altera Artigo ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/49/1997/11/20/p/dre/pt/html
@@ -67,7 +93,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 2/2005;
+    Resolução do Conselho de Ministros n.º 50/2008; Decreto-Lei n.º 78/2015. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-49-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,13 +219,17 @@ A Reserva Natural Parcial do Paul de Boquilobo é reclassificada como Reserva Na
 
 Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos da Reserva Natural:
 
-a) Preservar e melhorar as condições de habitat para as espécies dependentes do paul, especialmente avifauna aquática, com particular incidência no núcleo central da Reserva;
+a) Preservar as condições de habitat para as espécies dependentes do paul, especialmente da avifauna aquática, com destaque para a consagração de uma área central estritamente protegida com zonas permanentemente inundadas;
 
-b) Favorecer a diversidade de biótopos nas zonas envolventes do núcleo central, tendo por objectivo a criação de uma zona tampão, nomeadamente pela progressiva renaturalização de algumas parcelas;
+b) Favorecer a diversidade de biótopos na zona envolvente da área central, tendo por objectivo a criação de áreas de transição entre aquela área e as zonas de uso agrícola intensivo, nomeadamente pela progressiva renaturalização de algumas parcelas;
 
-c) Compatibilizar os objectivos de conservação com as actividades agrícolas, silvícolas e pastoris da periferia da reserva, tendo como objectivo a criação de uma zona de transição, na qual se possam levar a cabo acções demonstrativas da integração entre conservação da natureza e exploração dos recursos;
+c) Compatibilizar as práticas agrícolas e piscatórias à gestão sustentável dos recursos e conservação de habitats importantes para a Reserva Natural;
 
-d) Elaboração de estudos científicos que fundamentem as acções de conservação e permitam uma cooperação de âmbito internacional no quadro da rede de reservas da biosfera.
+d) Proceder ao ordenamento das utilizações recreativas e da acessibilidade pública;
+
+e) Elaborar estudos científicos, bem como proceder à monitorização de espécies e habitats, que fundamentem as acções de conservação no quadro da rede de zonas de protecção especial para as aves, e de zonas húmidas de importância internacional e de reservas da biosfera.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
 
 ###### Artigo 4.º — Gestão
 
@@ -209,25 +241,25 @@ São órgãos da Reserva Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
 1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.
 
-2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente, sob proposta do presidente do ICN, de cujo presidente depende hierarquicamente.
+2 - A comissão directiva é nomeada nos termos previstos pelo artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.
 
-3 - Um dos vogais é nomeado pelo ICN e o outro pela Câmara Municipal da Golegã, a qual dispõe para o efeito de um prazo de 60 dias após a entrada em vigor do presente diploma.
+3 - As Câmaras Municipais da Golegã e de Torres Novas dispõem do prazo de 44 dias úteis para indicar um dos vogais da comissão directiva.
 
-4 - Na falta de nomeação do vogal pela Câmara Municipal no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área do ordenamento do território e administração local.
+4 - O mandato dos titulares da comissão directiva é de três anos.
 
-5 - O mandato dos titulares da comissão directiva é de três anos.
+5 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente.
 
-6 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente.
+6 - O presidente tem voto de qualidade.
 
-7 - O presidente tem voto de qualidade.
-
-8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, na redacção do [Decreto-Lei n.º 169/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475), de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+> Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
 
 ###### Artigo 7.º — Competências da comissão directiva
 
@@ -263,101 +295,39 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Faculdade de Ciências e Tecnologia da Universidade de Coimbra;
-
-b) Instituto Superior de Agronomia, da Universidade Técnica de Lisboa;
-
-c) Direcção Regional da Agricultura do Ribatejo e Oeste;
-
-d) Direcção Regional do Ambiente - Lisboa e Vale do Tejo;
-
-e) Câmara Municipal da Golegã;
-
-f) Junta de Freguesia da Azinhaga;
-
-g) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área da Reserva Natural;
-
-h) AGROTEJO - União Agrícola do Norte do Vale do Tejo.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.
-
-3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 
-Na área da Reserva Natural são interditos os seguintes actos e actividades:
+(Revogado.)
 
-a) A realização de obras de construção civil, designadamente construção de novos edifícios e infra-estruturas, exceptuando as construções de carácter precário que se destinem à gestão da Reserva Natural ou a apoio temporário a actividades agrícolas;
-
-b) A alteração à morfologia do solo pela instalação de depósitos de ferro-velho, de sucata, de veículos, de areia ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar, ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas, fora dos locais para tal destinados;
-
-c) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural e a diminuição da qualidade das águas superficiais e subterrâneas e respectivo caudal;
-
-d) A abertura de novas estradas, caminhos ou acessos;
-
-e) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pela Reserva Natural e das acções de âmbito científico devidamente autorizadas pela mesma;
-
-f) A introdução de espécies zoológicas e botânicas exóticas;
-
-g) A pesca desportiva como actividade desportiva susceptível de provocar poluição ou ruído ou de deteriorar os factores naturais da área;
-
-h) O sobrevoo de aeronaves com motor abaixo de 1000 pés, salvo por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pela Reserva Natural;
-
-i) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporária ou permanente, de cariz comercial ou não, incluindo a colocação de meios amovíveis, com excepção da sinalização específica da Reserva Natural ou da respectiva Câmara Municipal;
-
-j) A utilização de aparelhagem de amplificação sonora;
-
-l) A prática de campismo e caravanismo fora dos locais para tal destinados;
-
-m) A realização de queimadas e de fogos controlados e a prática de foguear, durante a época oficial de incêndios, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos).
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 11.º — Actos e actividades sujeitos a autorização
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia da Reserva Natural os seguintes actos e actividades:
+(Revogado.)
 
-a) A realização de obras de construção civil para edificações de carácter precário que se destinem a apoio temporário a actividades agrícolas;
-
-b) A alteração do uso actual dos terrenos ou da morfologia do solo, pela alteração do coberto vegetal, pela alteração de culturas ou pela afectação de novas áreas a actividades agro-silvo-pastoris;
-
-c) A alteração à morfologia do solo por escavações ou aterros;
-
-d) A alteração à morfologia do solo ou do coberto vegetal, pela abertura de poços, furos e captações ou pela destruição de compartimentações existentes de sebes vivas;
-
-e) O alargamento ou qualquer modificação de estradas, caminhos ou acessos existentes e obras de manutenção e conservação que impliquem a destruição do coberto vegetal;
-
-f) A instalação de infra-estruturas eléctricas e telefónicas, aéreas e subterrâneas, de telecomunicações, de transporte de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;
-
-g) A prática de actividades desportivas susceptíveis de provocarem poluição ou ruído ou deteriorarem os factores naturais da área, nomeadamente que impliquem a utilização de veículos terrestres ou de embarcações;
-
-h) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção que pela sua natureza não decorram da normal actividade agrícola;
-
-i) A realização de queimadas e de fogos controlados e a prática de foguear, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos).
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 12.º — Contra-ordenações
 
-1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º ou, sem as autorizações necessárias, no artigo 11.º
+(Revogado.)
 
-2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 13.º — Caça
 
-A prática de actividades venatórias na Reserva Natural encontra-se regulamentada pela [Portaria n.º 881/93](https://diariodarepublica.pt/dr/detalhe/portaria/881-1993-659971), de 15 de Setembro.
+(Revogado.)
+
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 14.º — Fiscalização
 
@@ -371,15 +341,9 @@ As funções de fiscalização, para efeitos do disposto no presente diploma e l
 
 ###### Artigo 16.º — Autorizações
 
-1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva da Reserva Natural não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.
+(Revogado.)
 
-2 - Sob proposta fundamentada da comissão directiva, o presidente do ICN pode fazer depender de uma avaliação de impacte ambiental, nos termos do [Decreto-Lei n.º 186/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1990-574930), de 6 de Junho, e do [Decreto Regulamentar n.º 38/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1990-564803), de 27 de Novembro, a autorização para a prática dos actos e actividades referidos no artigo 11.º
-
-3 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações pela comissão directiva da Reserva Natural é de 60 dias.
-
-4 - As autorizações emitidas pela comissão directiva da Reserva Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.
-
-5 - São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste diploma.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 17.º — Direito de preferência
 
@@ -411,14 +375,16 @@ Referendado em 30 de Outubro de 1997.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Limites da Reserva Natural
+## ANEXO I — Limites da Reserva Natural do Paul do Boquilobo
 
-Norte: o Caminho dos Canteiros, entre o rio Almonda e a Vala Real, e o seu prolongamento para oeste, desde o caminho de ferro; a Vala do Canto do Doutor e o seu prolongamento, denominado «Vala do Pé da Galinha», pela sua margem direita, entre a Vala Real e o Casão Pereira.
+Norte: desde o caminho de ferro da linha do Norte no local denominado «Canto da Linha», na Velada, para este ao longo da estrema da propriedade da Quinta do Paul do Boquilobo com a Quinta de Caniços, uma linha recta até ao ponto em que intersecta a vala das Hortas; a referida vala pela margem esquerda até à ponte do mesmo nome; o caminho municipal n.º 1177 para este, pelo lado direito, cruzando a ponte do Paul sobre o rio Almonda, até ao ponto em que se começa a juntar à vala do Canto do Rolão.
 
-Leste: a margem esquerda da Vala da Pereira para sul até ao ponto donde parte um caminho à esquerda; este caminho até ao ponto em que se junta à Vala do Valadão; uma linha para sul, unindo este ponto ao ponto em que um caminho que parte da estrada nacional n.º 365, a norte do cruzamento com o rio Almonda, flecte para este; este caminho até a estrada nacional n.º 365.
+Este: deste ponto para sul ao longo da margem esquerda da vala do Canto do Rolão até à sua junção com a vala dos Dezoito; a margem direita da vala dos Dezoito para montante até à foz da vala do Lister; a margem norte da vala do Lister para montante até ao ponto em que se junta ao valado da Estrema; o lado nascente do valado da Estrema para sul até ao ponto da estrema entre os artigos matriciais 23 e 24 da secção F da freguesia da Azinhaga; segue esta estrema até à Estrada do Meio (caminho municipal n.º 1); deste ponto ao longo do lado poente da Estrada do Meio para sul até ao local em que se junta à estrada nacional n.º 365.
 
-Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até à Quinta da Broa, na margem direita do rio Almonda; o caminho que, partindo desta Quinta, vai até a Quinta de Miranda e o seu prolongamento para noroeste até ao caminho de ferro.
+Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até à Quinta da Broa, na margem direita do rio Almonda; o caminho municipal n.º 7, que parte desta Quinta até à estação elevatória de águas; deste ponto o caminho municipal n.º 25, que vai até ao ponto em que parte o caminho rural que se dirige à Quinta de Miranda; segue este caminho, contornando a sudoeste a área edificada da Quinta de Miranda; o prolongamento deste último para noroeste até ao ponto da antiga passagem de nível no caminho de ferro da linha do Norte.
 
-Oeste: o caminho de ferro, para norte, desde a antiga passagem de nível até a um ponto situado no enfiamento do Caminho dos Canteiros.
+Oeste: desde a antiga passagem de nível, o caminho de ferro para norte até ao ponto em que uma estrada do seu lado esquerdo flecte para noroeste; deste ponto ao longo do lado direito da estrada contornando a mata ripícola, até ao ponto em que a estrada se inicia paralela ao caminho de ferro; deste local o caminho de ferro para norte até ao Aqueduto do Canto dos Finados; ao longo do caminho que parte do dito Aqueduto, em direcção a norte até à intersecção deste com a linha de água da vertente sul do vale da Negra; ao longo desta para montante, pela sua margem esquerda; seguindo para nordeste, até à intersecção desta com o primeiro caminho que atravessa o vale da Negra; pelo dito caminho orientado a 64º (E. N. E.), cruzando a linha de água da vertente norte do vale da Negra; deste ponto até ao local da Fonte da Graça; deste ponto pelo limite que divide o olival e a mata na vertente norte do vale da Negra até ao local em que vai encontrar o caminho de ferro a norte do pontão do vale da Negra; deste local ao longo do lado nascente do caminho de ferro até ao ponto denominado «Canto da Linha», na Velada.
 
-## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)
+> Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
+
+## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25702572.pdf)

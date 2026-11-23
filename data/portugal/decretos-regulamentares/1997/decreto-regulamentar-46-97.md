@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-46-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:529425:por
+    amending_title: Decreto Regulamentar n.º 24/2004; Decreto-Lei n.º 78/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Altera Artigo 6.º
+    - Altera Artigo ANEXO I — Limites da Reserva Natural
+    - Altera Artigo ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)
+    - Altera Artigo ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/46/1997/11/17/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 24/2004;
+    Decreto-Lei n.º 78/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-46-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,11 +202,15 @@ Ao abrigo do disposto nos artigos 13.º e 32.º do [Decreto-Lei n.º 19/93](http
 
 Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos da Reserva Natural:
 
-a) Proteger o ecossistema dunar e o património natural a ele associado, incluindo a sua flora e fauna;
+a) Promover a conservação do ecossistema dunar e dos seus habitats e espécies;
 
-b) Promover acções de sensibilização ambiental;
+b) Assegurar a conservação e a valorização do património natural da área protegida e da zona de protecção especial em que se encontra integrada;
 
-c) Promover e divulgar os seus valores naturais, estéticos e científicos.
+c) Promover a investigação científica e o conhecimento sobre o património natural da zona em que se insere, bem como a monitorização de espécies, habitats e ecossistemas;
+
+d) Assegurar a informação, sensibilização, formação e participação do público, bem como incentivar e mobilizar a sociedade civil para a conservação dos ecossistemas dunares e das zonas húmidas litorais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.
 
 ###### Artigo 4.º — Gestão
 
@@ -196,25 +222,25 @@ São órgãos da Reserva Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
 1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.
 
-2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente, sob proposta do presidente do ICN, de cujo presidente depende hierarquicamente.
+2 - A comissão directiva é nomeada nos termos previstos pelo artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.
 
-3 - Um dos vogais é nomeado pelo ICN e o outro pela Câmara Municipal de Aveiro, a qual dispõe, para o efeito, de um prazo de 60 dias após a entrada em vigor do presente diploma.
+3 - A Câmara Municipal de Aveiro dispõe do prazo de 22 dias úteis para indicar um dos vogais da comissão directiva.
 
-4 - Na falta de nomeação do vogal pela Câmara Municipal no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área da administração local e ordenamento do território.
+4 - O mandato dos titulares da comissão directiva é de três anos.
 
-5 - O mandato dos titulares da comissão directiva é de três anos.
+5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente.
 
-6 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente.
+6 - O presidente tem voto de qualidade.
 
-7 - O presidente tem voto de qualidade.
-
-8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, na redacção do [Decreto-Lei n.º 169/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475), de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+> Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.
 
 ###### Artigo 7.º — Competências da comissão directiva
 
@@ -250,53 +276,15 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Departamento de Biologia da Universidade de Aveiro;
-
-b) Departamento de Geociências da Universidade de Aveiro;
-
-c) Capitania do Porto de Aveiro;
-
-d) Comissão de Coordenação da Região do Centro;
-
-e) Região de Turismo da Rota da Luz;
-
-f) Delegação Regional da Indústria e Energia do Centro;
-
-g) Direcção Regional de Agricultura da Beira Litoral;
-
-h) Direcção Regional de Educação do Centro;
-
-i) Direcção Regional do Ambiente - Centro;
-
-j) Junta Autónoma do Porto de Aveiro;
-
-l) Câmara Municipal de Aveiro;
-
-m) Junta de Freguesia de São Jacinto;
-
-n) Área Militar de São Jacinto;
-
-o) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na região.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.
-
-3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 
@@ -408,6 +396,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Reserva Natural
 
-Do oceano Atlântico, pelo limite das freguesias de São Jacinto e da Torreira até à estrada nacional n.º 327, pela estrada nacional n.º 327 até ao Caminho da Areia e por este caminho até ao aceiro I, seguindo o seu alinhamento até ao oceano Atlântico. No mar, o limite da Reserva Natural passa pela linha de 6 m de profundidade média na maré baixa.
+Do oceano Atlântico, coincidindo com o limite da freguesia de São Jacinto, município de Aveiro, até à estrada nacional n.º 327, pela estrada nacional n.º 327 até ao caminho que liga ao cemitério, por este caminho até ao arrife leste do talhão n.º 37 da Mata Nacional de São Jacinto, por este arrife até ao aceiro I, por este aceiro até ao arrife que divide os talhões n.os 37 e 38, por este arrife até à Avenida de Ria-Mar, por esta avenida até ao arrife oeste do talhão n.º 39, por este arrife até à paralela ao perímetro norte do posto da Brigada Fiscal e por este alinhamento até ao mar. No mar, pela linha de 6 m de profundidade média na maré baixa.
 
-## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)
+> Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.
+
+## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.

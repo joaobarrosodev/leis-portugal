@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-11'
+version_history:
+  file: decreto-lei-117-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-11'
+    amending: pt:dre:693593:por
+    amending_title: Decreto-Lei n.º 471/99
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/117/1996/08/06/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:43:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 471/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-117-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +174,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-É criado o sistema multimunicipal de triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado, integrando, como utilizadores originários, os municípios de Braga, Póvoa de Lanhoso e Vieira do Minho.
+1 - É criado o sistema multimunicipal de triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado, integrando, como utilizadores originários, os municípios de Braga, Póvoa de Lanhoso e Vieira do Minho.
+
+2 - O sistema referido no n.º 1 pode ser alargado a outros municípios, nomeadamente aos municípios de Amares, Terras de Bouro e Vila Verde, mediante reconhecimento de interesse público justificativo.
+
+3 - O interesse público justificativo mencionado no número anterior é reconhecido pelo Ministro do Ambiente, sob proposta da sociedade concessionária do sistema multimunicipal, ouvidos os utilizadores originários.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 471/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1999-693593), publicado em 1999-11-06.
+
+> Alterado pelo/a [Decreto-Lei n.º 471/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1999-693593), publicado em 1999-11-06.
 
 ###### Artigo 2.º
 
@@ -172,6 +197,10 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 2 - A atribuição da concessão opera-se mediante contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente, e a sociedade referida no número anterior.
 
 3 - Na data da celebração do contrato de concessão será prestada a caução referente à exploração.
+
+4 - O alargamento do sistema multimunicipal previsto no n.º 2 do artigo 1.º obriga à alteração, em conformidade, do contrato de concessão, bem como ao eventual reforço da caução referida no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 471/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1999-693593), publicado em 1999-11-06.
 
 ###### Artigo 4.º
 

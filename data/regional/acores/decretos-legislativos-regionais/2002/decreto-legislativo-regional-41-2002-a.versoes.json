@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405299:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "84ef3af1aef3804f",
+    "3c965ddcaf13324a",
+    "97ec31043be135de",
+    "f7cdbfc649af45bf",
+    "ccd04c6b5e597fd8",
+    "31b02abcd70a8c75",
+    "4091990ba476d114",
+    "4a09e53aa43cb488",
+    "5a7b83017669deed",
+    "917d8162394a6bc1",
+    "cf4a7c65b321c71b",
+    "09f12b541a3d0afb",
+    "1efd8311c7ffa372",
+    "bba37d8ca88980e7",
+    "6f3cce39ed087af8",
+    "74d4b4b2549c258a",
+    "fae00031883f16a3",
+    "f2efb70b79fe85e5",
+    "c7bd5582844dff4b",
+    "474ee3ebf6e85e34",
+    "68945ecb1ec8511a",
+    "aa6cb1fbbc591b1f"
+   ]
+  },
+  {
+   "date": "2003-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:660296:por",
+     "title": "Decreto Legislativo Regional n.º 35/2003/A",
+     "published": "2003-08-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/35-2003-660296"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "84ef3af1aef3804f",
+    "3c965ddcaf13324a",
+    "97ec31043be135de",
+    "f7cdbfc649af45bf",
+    "ccd04c6b5e597fd8",
+    "31b02abcd70a8c75",
+    "9978673bede420da",
+    "4a09e53aa43cb488",
+    "5a7b83017669deed",
+    "917d8162394a6bc1",
+    "cf4a7c65b321c71b",
+    "09f12b541a3d0afb",
+    "1efd8311c7ffa372",
+    "bba37d8ca88980e7",
+    "6f3cce39ed087af8",
+    "74d4b4b2549c258a",
+    "fae00031883f16a3",
+    "f2efb70b79fe85e5",
+    "c7bd5582844dff4b",
+    "474ee3ebf6e85e34",
+    "68945ecb1ec8511a",
+    "aa6cb1fbbc591b1f"
+   ]
+  }
+ ],
+ "fragments": {
+  "84ef3af1aef3804f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Orçamento da Região Autónoma dos Açores para 2003\n\nA Assembleia Legislativa Regional dos Açores, nos termos da alínea p) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa e da alínea c) do artigo 30.º e do n.º 1 do artigo 34.º do Estatuto Político-Administrativo da Região, decreta o seguinte:"
+  },
+  "3c965ddcaf13324a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Aprovação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Aprovação do Orçamento"
+  },
+  "97ec31043be135de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado pelo presente diploma o Orçamento da Região Autónoma dos Açores para 2003, constante dos mapas seguintes:\n\na) Mapas I a VIII, do orçamento da administração pública regional, incluindo os orçamentos dos fundos e serviços autónomos;\n\nb) Mapa IX, com os programas e projectos de investimento de cada secretaria regional."
+  },
+  "f7cdbfc649af45bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Transferências e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Transferências e financiamento"
+  },
+  "ccd04c6b5e597fd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Transferências do Orçamento do Estado e da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferências do Orçamento do Estado e da União Europeia\n\n1 - Os montantes a receber, por transferência, do Orçamento do Estado deverão atingir o valor de (euro) 219870452, dos quais (euro) 51429376 correspondem a verbas provenientes do Fundo de Coesão, as quais se destinam, exclusivamente, a financiar projectos de investimento, (euro) 4000000 para suportar a bonificação de juros do crédito à habitação, nos termos do n.º 5 do artigo 30.º da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro, e (euro) 17500000 ao abrigo do n.º 4 do artigo 5.º do mesmo diploma.\n\n2 - O valor estimado para as transferências da União Europeia deverá atingir o montante de (euro) 61469568."
+  },
+  "31b02abcd70a8c75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Garantias de empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Garantias de empréstimos\n\nFica o Governo Regional autorizado a garantir, nas condições correntes nos respectivos mercados, operações financeiras em moeda com curso legal em Portugal ou em moeda estrangeira requeridas pela execução de empreendimentos de reconhecido interesse económico e social para a Região."
+  },
+  "4091990ba476d114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Avales e outras garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avales e outras garantias\n\nÉ fixado em (euro) 60000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores."
+  },
+  "4a09e53aa43cb488": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Gestão do património regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão do património regional\n\n1 - A gestão patrimonial da administração directa e indirecta da Região Autónoma dos Açores deve orientar-se por critérios de eficiência e de racionalidade de modo a minimizar o respectivo impacte orçamental.\n\n2 - O decreto regulamentar regional de execução do Orçamento da Região Autónoma dos Açores define os bens e direitos cuja aquisição ou locação dependem de autorização prévia e específica do Secretário Regional da Presidência para as Finanças e Planeamento.\n\n3 - Na falta ou insuficiência de legislação própria aplica-se à gestão do património regional a legislação nacional aplicável ao domínio privado do Estado, com as necessárias adaptações orgânicas.\n\n4 - O Governo Regional elaborará e aprovará um plano de alienação de património cujas finalidades não se compatibilizem com os objectivos a prosseguir pela administração pública regional ou que se mostre desnecessário às funções a que estava afecto."
+  },
+  "5a7b83017669deed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Gestão da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão da dívida pública\n\n1 - O Governo Regional tomará as medidas adequadas à eficiente gestão da dívida pública, ficando autorizado, através do Secretário Regional da Presidência para as Finanças e Planeamento:\n\na) Ao reforço das dotações orçamentais para amortização de capital, caso isso se mostre necessário;\n\nb) Ao pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nc) À contratação de novas operações destinadas a fazer face ao pagamento antecipado ou à transferência das responsabilidades associadas a empréstimos anteriores;\n\nd) À renegociação das condições de empréstimos anteriores, incluindo a celebração de contratos de troca (swaps), do regime de taxa de juro, de divisa e de outras condições contratuais;\n\ne) À alteração do limite do endividamento externo por contrapartida do limite do endividamento interno, para obter as condições de endividamento mais favoráveis em cada momento."
+  },
+  "917d8162394a6bc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Despesas e alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Despesas e alterações orçamentais"
+  },
+  "cf4a7c65b321c71b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Controlo das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo das despesas\n\nO Governo Regional tomará as medidas necessárias à rigorosa contenção das despesas públicas e ao controlo da sua eficiência, de forma a alcançar uma melhor aplicação dos recursos públicos."
+  },
+  "09f12b541a3d0afb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Fundos e serviços autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fundos e serviços autónomos\n\n1 - Os fundos e serviços autónomos deverão remeter ao Secretário Regional da Presidência para as Finanças e Planeamento balancetes trimestrais que permitam avaliar a respectiva execução orçamental, bem como os elementos necessários à avaliação da execução das despesas incluídas no plano de investimentos da Região, conforme vier a ser definido no decreto regulamentar regional de execução do Orçamento da Região Autónoma dos Açores.\n\n2 - Em 2003, os fundos e serviços autónomos não poderão contrair empréstimos que aumentem o seu endividamento líquido.\n\n3 - A emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do Secretário Regional da Presidência para as Finanças e Planeamento.\n\n4 - Com vista a minimizar os encargos financeiros dos serviços e fundos autónomos, fica o Governo Regional autorizado, através do Secretário Regional da Presidência para as Finanças e Planeamento, a conceder empréstimos e a realizar operações de crédito activas até ao montante de (euro) 4000000 em benefício daqueles, unicamente para fazer face às suas necessidades de tesouraria verificadas durante o ano económico."
+  },
+  "1efd8311c7ffa372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autorização de despesas\n\n1 - São competentes para autorizar despesas com empreitadas de obras públicas, locação e aquisição de bens e serviços as seguintes entidades, com os seguintes limites:\n\na) Até (euro) 100000, os directores regionais e os órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até (euro) 200000, os órgãos máximos dos organismos dotados de autonomia administrativa e financeira;\n\nc) Até (euro) 1000000, os secretários regionais e o subsecretário regional;\n\nd) Até (euro) 4000000, o Presidente do Governo Regional;\n\ne) Sem limite, o Conselho do Governo Regional.\n\n2 - As competências referidas no número anterior podem ser delegadas, nos termos que vierem a ser fixados no decreto regulamentar regional que puser em execução o Orçamento da Região Autónoma dos Açores para 2003 ou em diploma autónomo."
+  },
+  "bba37d8ca88980e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho\n\nNa aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, para além de se dever ter em conta o disposto no artigo anterior, consideram-se reportadas aos órgãos e serviços correspondentes da administração regional as referências feitas naquele diploma a órgãos e serviços da Administração do Estado."
+  },
+  "6f3cce39ed087af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações orçamentais\n\n1 - O Governo Regional fica autorizado a proceder às alterações orçamentais que se revelarem necessárias à execução do Orçamento Regional, fazendo cumprir, nesta matéria, o [Decreto-Lei n.º 71/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1995-230110), de 15 de Abril, com as devidas adaptações, em termos de correspondência dos órgãos e serviços da administração regional às referências ali constantes aos órgãos e serviços da Administração do Estado.\n\n2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional e transferências de pessoal justificadas pela mobilidade e reafectação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os departamentos de destino."
+  },
+  "74d4b4b2549c258a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Adaptação do sistema fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Adaptação do sistema fiscal"
+  },
+  "fae00031883f16a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Deduções à colecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deduções à colecta\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 6.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de Janeiro, determina-se que os lucros que beneficiarão da dedução à colecta são os que forem reinvestidos:\n\na) Na criação de novas unidades de alojamento no turismo rural e de habitação e ampliação e reformulação das já existentes;\n\nb) Na aquisição de embarcações de pesca;\n\nc) Na investigação científica e desenvolvimento experimental (I&D) com interesse relevante;\n\nd) No tratamento de resíduos e efluentes e energias renováveis.\n\n2 - O Governo Regional definirá as condições de aplicabilidade das deduções previstas no número anterior, após aceitação da respectiva notificação pela Comissão Europeia."
+  },
+  "f2efb70b79fe85e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Benefícios fiscais\n\nEm cumprimento do disposto no n.º 4 do artigo 9.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de Janeiro, determina-se que são considerados relevantes, tendo em vista a concessão de benefícios em regime contratual, os projectos de investimentos em unidades produtivas de valor superior a (euro) 2500000."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "474ee3ebf6e85e34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Pagamentos no âmbito do Serviço Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamentos no âmbito do Serviço Regional de Saúde\n\n1 - As instituições e os serviços integrados no Serviço Regional de Saúde e o Instituto de Gestão Financeira da Saúde podem contratar qualquer modalidade de cessão de créditos relativamente às suas dívidas, convencionando juros moratórios inferiores aos legais na ausência de pagamento nos prazos legais, por despacho conjunto dos Secretários Regionais da Presidência para as Finanças e Planeamento e dos Assuntos Sociais.\n\n2 - As cessões de crédito já efectuadas no âmbito dos sistemas de pagamentos em vigor para as instituições e serviços integrados no Serviço Regional de Saúde devem respeitar o disposto no número anterior, sendo a informação centralizada no Instituto de Gestão Financeira da Saúde."
+  },
+  "68945ecb1ec8511a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução orçamental\n\nO Orçamento da Região Autónoma dos Açores será posto em execução pelo Governo Regional mediante decreto regulamentar regional, que estabelecerá medidas regulamentares e de desenvolvimento do disposto no presente diploma, aplicáveis a todos os serviços que integram a administração pública regional, incluindo os organismos dotados de autonomia administrativa e financeira."
+  },
+  "aa6cb1fbbc591b1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro de 2003.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Novembro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 29 de Novembro de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.\n\n[(ver do MAPA I ao MAPA IX no documento original)](https://files.diariodarepublica.pt/1s/2002/12/296a00/80118036.pdf)"
+  },
+  "9978673bede420da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Avales e outras garantias",
+   "in_force_from": "2003-08-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 35/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2003-660296), publicado em 2003-08-16."
+   ],
+   "markdown": "###### Artigo 4.º — Avales e outras garantias\n\nÉ fixado em (euro) 95000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 35/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2003-660296), publicado em 2003-08-16."
+  }
+ }
+}

@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-06-25'
+version_history:
+  file: decreto-lei-539-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-06-25'
+    amending: pt:dre:395357:por
+    amending_title: Decreto-Lei n.º 249/82
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:45:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 249/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-539-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,21 +133,27 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º — (Possibilidade de arrendamento de casas para desalojados)
+###### Artigo 1.º — (Possibilidade de arrendamento de casas para desalojados)
 
 1. Fica autorizado o Ministério do Equipamento Social e do Ambiente, através do serviço competente ou organismo da Administração-Pública que se lhe substitua, a promover o aluguer de casas destinadas a realojar famílias de modestos recursos que em consequência de obras públicas fiquem desalojadas das suas habitações.
 
 2. Só se recorrerá a esta providência quando não for possível o realojamento em habitação social do Estado, de institutos públicos ou de autarquias locais, relativamente à qual os desalojados terão preferência.
 
-###### ARTIGO 2.º — (Competência)
+3. Em casos excepcionais o serviço ou organismo competente poderá ser autorizado, mediante aprovação do Conselho de Ministros, a adquirir as habitações necessárias ao realojamento das famílias referidas no n.º 1.
+
+4 - Não sendo possível proceder ao realojamento nas condições referidas no número anterior poderá o serviço ou organismo competente, pelos seus próprios meios ou através de concurso público e mediante aprovação em Conselho de Ministros, construir as habitações que se mostrem necessárias àquele fim.
+
+> Alterado pelo/a [Decreto-Lei n.º 249/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1982-395357), publicado em 1982-06-25.
+
+###### Artigo 2.º — (Competência)
 
 O Ministro do Equipamento Social e do Ambiente decidirá, caso por caso, após efectuado inquérito sumário, quais os casos em que os rendimentos familiares dos desalojados ou a desalojar devem ser considerados como recursos modestos, para efeitos deste diploma.
 
-###### ARTIGO 3.º — (Execução)
+###### Artigo 3.º — (Execução)
 
 O serviço competente do Ministério do Equipamento Social e do Ambiente ou o organismo que se lhe substitua na realização, direcção ou fiscalização das obras causadoras dos desalojamentos promoverá os alugueres respectivos.
 
-###### ARTIGO 4.º — (Encargos)
+###### Artigo 4.º — (Encargos)
 
 1. O Estado assumirá os encargos resultantes da execução do disposto neste diploma que excedam o montante das rendas que eram pagas pelas famílias desalojadas nas casas a demolir, importâncias estas que continuarão a ser da responsabilidade das mesmas.
 
@@ -140,17 +161,17 @@ O serviço competente do Ministério do Equipamento Social e do Ambiente ou o or
 
 3. Os encargos serão suportados por conta das dotações inscritas nos respectivos orçamentos dos serviços interessados.
 
-###### ARTIGO 5.º — (Condições de utilização)
+###### Artigo 5.º — (Condições de utilização)
 
 1. As habitações alugadas nos termos dos artigos anteriores destinam-se à utilização exclusiva das famílias desalojadas.
 
 2. Em consequência do disposto no número anterior, não podem tais habitações ser sublocadas, no todo ou em parte, pelos moradores beneficiários.
 
-###### ARTIGO 6.º — (Cessação)
+###### Artigo 6.º — (Cessação)
 
 A utilização de habitações arrendadas pelo Estado nos termos deste diploma cessará logo que aos desalojados sejam fornecidas habitações sociais da propriedade da Administração Pública com renda compatível com os rendimentos familiares dos interessados.
 
-###### ARTIGO 7.º — (Entrada em vigor)
+###### Artigo 7.º — (Entrada em vigor)
 
 Este diploma entra em vigor imediatamente.
 

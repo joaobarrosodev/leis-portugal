@@ -1,0 +1,274 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546976:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6c3f0f9da9894833",
+    "e58d4472e5e4977d",
+    "ffbbc5c01218d66b",
+    "afdf9383789d52b0",
+    "ac1b738db9731af3",
+    "e1d479d15f0af440",
+    "e8b8ce506dd1ed10",
+    "b8c05a5621693e85",
+    "098f90f8fd4e0cbc",
+    "4812a277f128d9c9",
+    "5ce0eaed4b581fef",
+    "ecb51ff7950b908a",
+    "1fa4842ac136f8ee",
+    "694fbe8f0fcf9aa2",
+    "0f14a270dcc37577",
+    "7acffb5aa604d343",
+    "e32595066898b3cd",
+    "d1e667e7e6343ec1",
+    "c235bc7e1ca0c9df"
+   ]
+  },
+  {
+   "date": "1998-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168056:por",
+     "title": "Decreto-Lei n.º 214/96",
+     "published": "1996-11-20",
+     "dre_path": "/dr/detalhe/decreto-lei/214-1996-168056"
+    },
+    {
+     "id": "pt:dre:399012:por",
+     "title": "Decreto-Lei n.º 121/97",
+     "published": "1997-05-19",
+     "dre_path": "/dr/detalhe/decreto-lei/121-1997-399012"
+    },
+    {
+     "id": "pt:dre:423602:por",
+     "title": "Decreto-Lei n.º 209/98",
+     "published": "1998-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/209-1998-423602"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "6c3f0f9da9894833",
+    "e58d4472e5e4977d",
+    "ffbbc5c01218d66b",
+    "afdf9383789d52b0",
+    "d23a89769d5ca09a",
+    "e1d479d15f0af440",
+    "e8b8ce506dd1ed10",
+    "b8c05a5621693e85",
+    "098f90f8fd4e0cbc",
+    "4812a277f128d9c9",
+    "5ce0eaed4b581fef",
+    "ecb51ff7950b908a",
+    "1fa4842ac136f8ee",
+    "694fbe8f0fcf9aa2",
+    "8a312ee323ebe054",
+    "7acffb5aa604d343",
+    "ecdb2e6cedf35447",
+    "d1e667e7e6343ec1",
+    "c235bc7e1ca0c9df"
+   ]
+  }
+ ],
+ "fragments": {
+  "6c3f0f9da9894833": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nCom a entrada em vigor do novo Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, o regime jurídico dos exames para aquisição de habilitação para conduzir ficou submetido ao disposto em diploma próprio.\n\nEsse imperativo e o reconhecimento da necessidade de actualizar e credibilizar essa habilitação, fundamental à prossecução de qualquer política de combate à sinistralidade rodoviária, encontram-se na base da presente iniciativa legislativa.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e58d4472e5e4977d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece o regime jurídico dos exames para aquisição de habilitação para conduzir, previsto no artigo 124.º do Código da Estrada (CE), aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio."
+  },
+  "ffbbc5c01218d66b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do regime geral"
+  },
+  "afdf9383789d52b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Provas\n\n1 - As provas que constituem cada exame são do tipo seguinte:\n\na) Teórica, destinada a apurar o nível e conhecimento das regras de circulação e trânsito e aferir da maturidade do candidato relativamente às normas de segurança rodoviária, particularmente no que respeita à prevenção de acidentes;\n\nb) Prática de condução, com a finalidade de apreciar, em manobras e circulação, a capacidade e perícia do candidato no domínio de veículos da categoria a cuja condução se habilite e avaliar a adequação dos comportamentos e atitudes relativamente à circulação em segurança;\n\nc) Técnica, destinada a verificar os conhecimentos do candidato acerca do funcionamento e manutenção dos órgãos do veículo para o qual o exame é requerido, desde que revistam especial interesse para a protecção dos seus ocupantes, bem como para a segurança rodoviária.\n\n2 - A prova prática referida na alínea b) do número anterior, quando se destine à obtenção de carta de condução, é constituída pela realização sequencial de uma prova de destreza de condução em pista e por uma prova de circulação em zona que terá de envolver tráfego urbano.\n\n3 - As provas serão realizadas em regime sequencial, sendo cada uma delas eliminatória e com validade autónoma.\n\n4 - A marcação de um exame envolve a globalidade das provas que o compõem, de acordo com as disposições do presente diploma, a menos que o candidato apresente certificado válido de aprovação relativo a uma ou mais provas, caso em que apenas terá de realizar as restantes.\n\n5 - O período de validade do certificado mencionado no número anterior é de dois anos, contados a partir da realização da prova em que o candidato obteve aprovação.\n\n6 - As regras técnicas relativas às características metodológicas, aos critérios e à duração das provas de exame são objecto de portaria do Ministro da Administração Interna."
+  },
+  "ac1b738db9731af3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Exames para obtenção de carta de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exames para obtenção de carta de condução\n\n1 - O exame para as categorias A e B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C, D e subcategoria E + B consta de uma prova técnica, de uma prova prática e ainda de uma prova teórica para os candidatos à categoria C que, transitoriamente, sejam admitidos a exame sem estarem habilitados com a categoria B.\n\n3 - A admissão a exame às subcategorias E + C e E + D está dependente da prévia habilitação nas categorias C ou D, respectivamente.\n\n4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.\n\n5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes."
+  },
+  "e1d479d15f0af440": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Exames para obtenção de licenças de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exames para obtenção de licenças de condução\n\n1 - Os exames para obtenção de licença de condução constam de uma prova teórica e de uma prova prática;\n\n2 - São dispensados da prestação da prova teórica para obtenção de licença de condução os titulares de carta de condução.\n\n3 - As disposições do presente artigo são aplicáveis aos exames para obtenção de licenças especiais de condução.\n\n4 - A titularidade de licença especial de condução para ciclomotores confere automaticamente a licença de condução de ciclomotores, sem realização de qualquer prova adicional, logo que o seu titular atinja os 16 anos de idade."
+  },
+  "e8b8ce506dd1ed10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Realização de exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Realização de exames\n\n1 - A realização dos exames a que se refere o presente diploma compete às seguintes entidades:\n\na) Licenças de condução de ciclomotores, às câmaras municipais;\n\nb) Licenças e licenças especiais de condução de motocultivadores e tractocarros com peso bruto não superior a 1000 kg, às câmaras municipais;\n\nc) Outras licenças e cartas de condução, à Direcção-Geral de Viação (DGV) ou às entidades para o efeito licenciadas.\n\n2 - Nos casos de licenças de condução e licenças especiais de condução de tractores e máquinas agrícolas, poderá ser estabelecido, por despacho do director-geral de Viação, que os exames sejam realizados pelas entidades autorizadas para a formação dos candidatos a condutores no âmbito abrangido pelas portarias aplicáveis.\n\n3 - A possibilidade prevista no número anterior poderá ser adoptada também nos casos de licenças especiais de condução de ciclomotores para titulares com idade inferior a 16 anos, em relação às entidades autorizadas para a realização dos cursos de formação respectivos.\n\n4 - Quando o exame for realizado por uma câmara municipal e a prova teórica assuma a forma de prova escrita, os testes serão fornecidos pela DGV, enquanto a autarquia local não dispuser de capacidade própria para a sua concepção."
+  },
+  "b8c05a5621693e85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Faltas, interrupções e anulação de provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Faltas, interrupções e anulação de provas\n\n1 - As faltas dadas às provas componentes do exame de condução não podem ser justificadas, podendo, contudo, o candidato requerer nova marcação, dentro do período de validade da licença de aprendizagem, com pagamento da taxa correspondente.\n\n2 - Se qualquer prova do exame for interrompida por caso fortuito ou de força maior, será marcada data para a sua repetição, sem pagamento de nova taxa.\n\n3 - Sem prejuízo de procedimento criminal a que houver lugar, são considerados nulos, com perda das taxas pagas, os exames prestados por candidatos que:\n\na) Se encontrem proibidos de conduzir;\n\nb) Tenham prestado falsas declarações ou apresentado documentos falsos ou viciados;\n\nc) Se tenham feito substituir por outra pessoa ou praticado qualquer outra fraude na realização de qualquer prova do exame de condução."
+  },
+  "098f90f8fd4e0cbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do regime especial"
+  },
+  "4812a277f128d9c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Exames especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exames especiais\n\nEstão sujeitos a exame especial os indivíduos:\n\na) Que tenham prévia certificação de aptidão profissional obtida em curso de formação de condutores de transportes rodoviários de mercadorias, nos termos do disposto no n.º 2 do artigo 127.º do CE;\n\nb) Cuja carta de condução tenha caducado, por aplicação de sanção de inibição de conduzir no período probatório, nos termos do disposto no n.º 4 do artigo 125.º do CE;\n\nc) Cujo prazo de validade da carta tenha expirado sem que tenha havido revalidação, nos termos da alínea c) do n.º 2 do artigo 131.º do CE;\n\nd) Cuja carta tenha sido cassada judicialmente, nos termos do n.º 2 do artigo 151.º do CE;\n\ne) A quem tenha sido determinado exame para diagnóstico de existência de capacidade ou competência para a condução em segurança, nos termos dos n.os 2 e 3 do artigo 129.º do CE;\n\nf) A quem tenha sido determinada reavaliação na sequência de reprovação no exame referido na alínea anterior, nos termos da alínea b) do n.º 2 do artigo 131.º do CE;\n\ng) A quem tenha sido determinado exame na sequência de recusa de emissão de carta de condução, nos termos do n.º 6 do artigo 130.º do CE."
+  },
+  "5ce0eaed4b581fef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Provas de exame especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Provas de exame especial\n\nAs provas a realizar nos casos de exame especial referidos no artigo anterior são as seguintes:\n\na) Para o exame referido na alínea a) do artigo anterior, as provas são idênticas às do regime geral, constantes dos artigos 2.º e 3.º;\n\nb) Para o exame referido nas alíneas b) e d) do artigo anterior, a prova revestirá conteúdo especial, a fixar por portaria do Ministro da Administração Interna;\n\nc) Para o exame referido na alínea c) do artigo anterior, o condutor deverá realizar a prova prática da categoria mais elevada das que anteriormente possuía;\n\nd) Para os exames referidos nas alíneas e) e f) do artigo anterior, as provas revestirão conteúdo especial, a fixar casuisticamente, em correspondência com a causa que os originou, por despacho do director-geral de Viação;\n\ne) Para o exame referido na alínea g) do artigo anterior e quando a recusa se não fundamente na sua falta de autenticidade, constará de prova prática na categoria mais elevada a que o título original habilitava e de prova teórica, no caso de a habilitação mais antiga ter sido obtida há menos de dois anos."
+  },
+  "ecb51ff7950b908a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos examinadores e organização dos centros de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos examinadores e organização dos centros de exame"
+  },
+  "1fa4842ac136f8ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Examinadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Examinadores\n\nAs provas de exames de condução são realizadas pela DGV, nos termos do [Decreto-Lei n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1994-517201), de 26 de Fevereiro, ou por examinadores devidamente credenciados por aquela Direcção-Geral, nos termos do [Decreto-Lei n.º 175/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1991-611319), de 11 de Maio."
+  },
+  "694fbe8f0fcf9aa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Elementos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elementos de registo\n\n1 - Cada centro de exame deverá processar informaticamente toda a informação relativa aos exames de condução nele realizados, devendo manter actualizados todos os dados relativos à identificação dos examinandos, exames realizados e demais elementos que se mostrem relevantes para o esclarecimento das decisões tomadas.\n\n2 - O conteúdo, o formato e os suportes a utilizar no âmbito do número anterior, bem como a periodicidade da prestação de informações, são fixados por despacho do director-geral de Viação.\n\n3 - Os dados referidos no n.º 1 são confidenciais, mas podem ser consultados a todo o tempo pelo examinando, não podendo os centros fazer deles uso comercial, sem prejuízo de lhes ser dado tratamento estatístico, a fornecer à DGV.\n\n4 - Os centros de exame deverão prestar à DGV, sempre que esta o solicite, quaisquer informações necessárias ao esclarecimento das questões relativas ao seu funcionamento."
+  },
+  "0f14a270dcc37577": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Fundo de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fundo de fiscalização\n\nPor cada exame realizado em centro privado de exame, as associações autorizadas nos termos do artigo 2.º do [Decreto-Lei n.º 175/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1991-611319), de 11 de Maio, obrigam-se a fazer reverter para o fundo a que se refere o artigo 3.º do [Decreto-Lei n.º 254/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1992-584257), de 20 de Novembro, importância igual à estabelecida regulamentarmente para cada acto de inspecção de veículo pesado, nos termos do disposto no n.º 2 deste último diploma legal."
+  },
+  "7acffb5aa604d343": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime sancionatório e disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime sancionatório e disposições transitórias"
+  },
+  "e32595066898b3cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções\n\n1 - Constituem contra-ordenações, puníveis com coima de:\n\na) 50000$00 a 300000$00, o não cumprimento, pelos centros de exame, das regras técnicas previstas no n.º 6 do artigo 2.º e seu regulamento e do disposto no artigo 10.º;\n\nb) 200000$00 a 1000000$00, o não cumprimento, pelos centros de exame, dos n.os 3 a 5 do artigo 2.º e a admissão a exame sem respeito pelo artigo 3.º;\n\nc) 400000$00 a 2000000$00, o não cumprimento, pelos centros de exame, dos n.os 1 e 2 do artigo 2.º, bem como a violação dolosa do disposto no mesmo artigo.\n\n2 - Além das sanções previstas no número anterior, poderá o director-geral de Viação, na sequência do mesmo processo contra-ordenacional, determinar a aplicação das seguintes sanções acessórias:\n\na) Suspensão da actividade do centro de exames de um a seis meses, quando aplicada qualquer das sanções previstas na alínea b) do número anterior ou haja incumprimento meramente culposo na realização das provas previstas no artigo 2.º;\n\nb) Encerramento do centro de exames, quando haja violação dolosa dos n.os 1 e 2 do artigo 2.º."
+  },
+  "d1e667e7e6343ec1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência e produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência e produto das coimas\n\n1 - A instrução dos processos contra-ordenacionais é da competência da DGV e a aplicação das coimas previstas no presente diploma é da competência do director-geral de Viação;\n\n2 - O produto das coimas aplicadas reverterá em:\n\na) 60% para o Estado;\n\nb) 40% para a DGV."
+  },
+  "c235bc7e1ca0c9df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Prova de destreza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova de destreza\n\n1 - As provas de destreza mencionadas no n.º 2 do artigo 2.º serão realizadas em pistas fechadas, com características estabelecidas por despacho do director-geral de Viação, sendo implantadas em terrenos integrados nos centros de exame com uma área útil não inferior a 1500 m2.\n\n2 - A localização das pistas referidas no número anterior não terá de ser contígua às restantes instalações do centro de exames.\n\n3 - Cada pista será aprovada por despacho do director-geral de Viação, após vistoria técnica.\n\n4 - A prova mencionada no presente artigo tornar-se-á obrigatória a partir de 1 de Janeiro de 1997 ou, antes dessa data, após a aprovação da pista de cada centro de exames.\n\nVisto e aprovado em Conselho de Ministros de 23 de Junho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro.\n\nPromulgado em 8 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Agosto de 1995.\n\nPelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna."
+  },
+  "d23a89769d5ca09a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Exames para obtenção da carta de condução",
+   "in_force_from": "1998-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.",
+    "Alterado pelo/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20."
+   ],
+   "markdown": "###### Artigo 3.º — Exames para obtenção da carta de condução\n\n1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.\n\n3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.\n\n4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.\n\n5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.\n\n> Alterado pelo/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20."
+  },
+  "8a312ee323ebe054": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Fundo de fiscalização",
+   "in_force_from": "1998-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19.",
+    "Revogado pelo/a [Decreto-Lei n.º 209/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), publicado em 1998-07-15."
+   ],
+   "markdown": "###### Artigo 11.º — Fundo de fiscalização\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19.\n\n> Revogado pelo/a [Decreto-Lei n.º 209/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), publicado em 1998-07-15."
+  },
+  "ecdb2e6cedf35447": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": "1998-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19."
+   ],
+   "markdown": "###### Artigo 12.º — Sanções\n\n1 - Constituem contra-ordenações, sancionadas com coima de:\n\na) 50000$00 a 300000$00, o não cumprimento, pelos centros de exame, das regras técnicas previstas no n.º 6 do artigo 2.º e seu regulamento e do disposto no artigo 10.º;\n\nb) 200000$00 a 1000000$00, o não cumprimento, pelos centros de exame, dos n.os 3 a 5 do artigo 2.º, a admissão a exame em desobediência ao artigo 3.º, bem como o não cumprimento no disposto no artigo 11.º;\n\nc) 400000$00 a 2000000$00, o não cumprimento, pelos centros de exame, dos n.os 1 e 2 do artigo 2.º, bem como a violação dolosa do disposto no mesmo artigo.\n\n2 - Além das sanções previstas no número anterior, poderá o director-geral de Viação, na sequência do mesmo processo contra-ordenacional, determinar a aplicação das seguintes sanções acessórias:\n\na) Suspensão da actividade do centro de exames de um a seis meses, quando aplicada qualquer das sanções previstas na alínea b) do número anterior ou haja incumprimento meramente culposo na realização das provas previstas no artigo 2.º;\n\nb) Encerramento do centro de exames, quando haja violação dolosa dos n.os 1 e 2 do artigo 2.º.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19."
+  }
+ }
+}

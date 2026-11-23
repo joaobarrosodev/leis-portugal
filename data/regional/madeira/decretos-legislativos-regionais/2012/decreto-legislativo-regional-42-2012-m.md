@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-08-07'
+version_history:
+  file: decreto-legislativo-regional-42-2012-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-07'
+    amending: pt:dre:498484:por
+    amending_title: Decreto Legislativo Regional n.º 28/2013/M
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 20.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 41.º
+    - Altera Artigo 46.º
+    - Altera Artigo 11.º
+    - Altera Artigo 41.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/42/2012/12/31/m/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    28/2013/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2012/decreto-legislativo-regional-42-2012-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -425,15 +447,25 @@ a) Redefinir as condições de pagamento de dívidas relacionadas com contratos 
 
 b) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mobiliários e outros ativos financeiros.
 
-###### Artigo 11º — Aquisição de ativos e assunção e regularização de passivos e responsabilidades
+###### Artigo 11.º — Aquisição de ativos e assunção e regularização de passivos e responsabilidades
 
 1 - Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a:
 
 a) Assumir passivos e responsabilidades ou adquirir créditos de entidades públicas e a celebrar acordos para a sua regularização, de acordo com as necessidades de execução do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira;
 
-b) Assumir e regularizar diretamente junto das instituições de crédito o montante das faturas descontadas pelas agências de viagens e ainda não pagas, até ao montante de 6,5 milhões de euros, decorrentes de linhas de crédito protocolarizadas pela Região Autónoma da Madeira, desde que essa dívida tenha sido devidamente contabilizada para efeitos de contas nacionais.
+b) Assumir e regularizar diretamente junto das instituições de crédito o montante das faturas descontadas pelas agências de viagens e ainda não pagas, até ao montante de 6,5 milhões de euros, decorrentes de linhas de crédito protocolarizadas pela Região Autónoma da Madeira, desde que essa dívida tenha sido devidamente contabilizada no défice para efeitos de contas nacionais.
 
 2 - O Governo Regional fica ainda autorizado, através do Secretário Regional do Plano e Finanças em conjunto com o membro do Governo Regional responsável pela assunção da despesa ou com a tutela da entidade, a proceder à celebração de acordos de pagamento com credores das entidades que integrem o universo das administrações públicas em contas nacionais, salvaguardando os devidos efeitos ao nível da execução orçamental, decorrentes da alteração da sua exigibilidade.
+
+3 - Para efeitos do disposto na alínea b) do n.º 1 deste artigo, fica dispensada a aplicação do disposto no artigo 57.º do [Decreto Legislativo Regional n.º 4/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2007-262158), de 11 de janeiro.
+
+4 - O disposto no número anterior prevalece sobre todas as disposições legais, gerais ou especiais, em contrário.
+
+5 - A concretização do contido na alínea b) do n.º 1 deste artigo fica dependente da assinatura de documento por todas as partes intervenientes e interessadas na matéria, direta ou indiretamente, nos termos e condições nele contido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 12º — Alienação de participações sociais da Região
 
@@ -535,17 +567,21 @@ Artigo 6º
 
 O Governo Regional tomará as medidas necessárias para uma rigorosa contenção das despesas públicas e controlo da sua eficiência de forma a alcançar a melhor aplicação dos recursos públicos de acordo com o Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira.
 
-###### Artigo 20º — Alterações orçamentais
+###### Artigo 20.º — Alterações orçamentais
 
 1 - O Governo Regional fica autorizado a proceder às alterações orçamentais que forem necessárias à boa execução do Orçamento, fazendo cumprir a legislação em vigor nesta matéria, designadamente o Decreto-Lei nº 71/95, de 15 de abril.
 
 2 - Fica o Governo Regional autorizado a efetuar as alterações orçamentais indispensáveis, tendo em vista a maximização da utilização dos recursos financeiros disponíveis, independentemente da natureza das classificações funcionais e orgânicas previstas no Orçamento de 2013.
 
-3 - O disposto no número anterior é apenas aplicável em casos excecionais e devidamente justificados, que envolvam a necessidade de reafectação de dotações orçamentais, decorrentes da mobilidade de recursos humanos entre serviços da administração regional, da reestruturação de serviços e de competências, de ajustamentos em dotações orçamentais afetas à execução de projetos cofinanciados e dos reajustamentos orçamentais decorrentes das necessidades de execução dos projetos de reconstrução na sequência da intempérie de 20 de fevereiro de 2010, assim como de necessidades decorrentes do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira, nomeadamente regularização de pagamentos em atraso.
+3 - Fica o Governo Regional autorizado a efetuar as alterações orçamentais que se revelem necessárias ao processamento do subsídio de Natal, do subsídio de férias ou prestações equivalentes.
 
-4 - O Governo Regional fica ainda autorizado, através do Secretário Regional do Plano e Finanças, em conjunto com o membro do Governo responsável pelo orçamento objeto de alteração, a proceder à inscrição ou reforço de dotações orçamentais como contrapartida do aumento de receitas e dos saldos previstos e não utilizados no ano de 2012 decorrentes do Programa de Ajustamento Económico e Financeiro da Região.
+4 - O disposto no número anterior é apenas aplicável em casos excecionais e devidamente justificados, que envolvam a necessidade de reafectação de dotações orçamentais, decorrentes da mobilidade de recursos humanos entre serviços da administração regional, da reestruturação de serviços e de competências, de ajustamentos em dotações orçamentais afetas à execução de projetos cofinanciados e dos reajustamentos orçamentais decorrentes das necessidades de execução dos projetos de reconstrução na sequência da intempérie de 20 de fevereiro de 2010, assim como de necessidades decorrentes do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira, nomeadamente regularização de pagamentos em atraso.
 
-5 - As alterações orçamentais relativas a todas as entidades integradas no universo das administrações públicas em contas nacionais, que envolvam rubricas de classificação económica relativa à aquisição de bens de capital, carecem de autorização do Secretário Regional do Plano e Finanças.
+5 - O Governo Regional fica ainda autorizado, através do Secretário Regional do Plano e Finanças, em conjunto com o membro do Governo responsável pelo orçamento objeto de alteração, a proceder à inscrição ou reforço de dotações orçamentais como contrapartida do aumento de receitas e dos saldos previstos e não utilizados no ano de 2012 decorrentes do Programa de Ajustamento Económico e Financeiro da Região.
+
+6 - As alterações orçamentais relativas a todas as entidades integradas no universo das administrações públicas em contas nacionais, que envolvam rubricas de classificação económica relativa à aquisição de bens de capital, carecem de autorização do Secretário Regional do Plano e Finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 21º — Cativações orçamentais
 
@@ -687,11 +723,15 @@ d) Recuperação de habitações pertencentes a famílias carenciadas.
 
 9 - Os demais procedimentos inerentes aos apoios previstos nesta norma serão definidos no decreto regulamentar regional de execução orçamental.
 
-###### Artigo 33º — Subsídios e outras formas de apoio abrangidos pelo artigo 32º deste diploma
+###### Artigo 33.º — Subsídios e outras formas de apoio abrangidos pelo artigo 32º deste diploma
 
 1 - Estão abrangidos pelo disposto no artigo anterior os subsídios e outras formas de apoio concedidos pelos serviços da administração direta regional, assim como os referentes a todas as entidades públicas que, nos termos da lei, gozem de autonomia administrativa e financeira.
 
 2 - Os apoios financeiros concedidos ao abrigo de legislação específica deverão respeitar o previsto no respetivo regime legal e os n.os 4 a 8 do artigo anterior.
+
+3 - Sem prejuízo do disposto no artigo 37.º do presente diploma, excecionam-se do número anterior os apoios financeiros concedidos ao abrigo de legislação específica na qual se fixe a respetiva quantificação ou que não estejam sujeitos à celebração de contrato programa, designadamente no que respeita aos apoios concedidos no âmbito da habitação, emprego e apoios comunitários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 34º — Apoio humanitário
 
@@ -713,15 +753,17 @@ Fica o Governo Regional autorizado, mediante resolução do plenário do Conselh
 
 5 - O disposto nos números anteriores prevalece sobre todas as disposições legais, gerais ou especiais em contrário, não prejudicando, contudo, a regularização de valores em atraso, desde que os mesmos tenham sido devidamente contabilizados para efeitos de contas nacionais.
 
-###### Artigo 37º — Acompanhamento e fiscalização de subsídios e outros apoios
+###### Artigo 37.º — Acompanhamento e fiscalização de subsídios e outros apoios
 
-1 - Sem prejuízo das competências atribuídas a outras entidades, o acompanhamento e fiscalização do cumprimento do disposto nos artigos 32º a 36º compete à Inspeção Regional de Finanças.
+1 - Sem prejuízo das competências atribuídas a outras entidades, o controlo do cumprimento do disposto nos artigos 32.º a 36.º compete à Inspeção Regional de Finanças.
 
 2 - As entidades que concedam subsídios e outros apoios ao abrigo dos artigos 32º a 36º comunicam essa atribuição à Inspeção Regional de Finanças, nos 30 dias subsequentes a cada trimestre, nos termos indicados no nº 4.
 
 3 - As entidades beneficiárias dos subsídios e outros apoios ficam obrigadas por si ou através dos seus representantes legais ou institucionais à prestação de contas e a permitir o acesso aos locais onde se encontram os elementos e documentação necessários, nomeadamente os de despesa, para o acompanhamento e fiscalização previstos neste artigo.
 
 4 - Para efeitos do nº 2, a comunicação deverá indicar, nomeadamente, a entidade processadora, o nome do beneficiário, o montante atribuído, a data da decisão, a finalidade do apoio e o número atribuído pela Secretaria Regional do Plano e Finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ### CAPÍTULO IX — Autonomia administrativa e financeira
 
@@ -763,9 +805,13 @@ c) As transferências provenientes do Orçamento da Região relativas à compone
 
 ### CAPÍTULO X — Disposições relativas a trabalhadores do setor público
 
-###### Artigo 41º — Contenção da despesa
+###### Artigo 41.º — Contenção da despesa
 
-Para além das normas relativas a contenção de despesa contidas na Lei que aprova o Orçamento do Estado para 2013, aplicadas diretamente à Região Autónoma da Madeira, nomeadamente os artigos 27º, 28º, 29º, 34º, 35º, 37º, 39º, 40º, 45º, 59º, 77º e 78º, mantêm-se ainda em vigor os n.os 1, 2, 4 e 5 do artigo 49º, n.os 1 e 4 do artigo 50º-A, e o nº 5 do artigo 54º do Decreto Legislativo Regional nº 2/2011/M, de 10 de janeiro, alterado pelos Decretos Legislativos Regionais n.os [4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2011-278177), de 11 de março, [11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), de 6 de julho, e [13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), de 5 de agosto.
+Para além das normas relativas a contenção de despesa contidas na Lei que aprova o Orçamento do Estado para 2013, aplicadas diretamente à Região Autónoma da Madeira, nomeadamente os artigos 27.º, 28.º, 29.º, 34.º, 35.º, 37.º, 39.º, 40.º, 45.º, 59.º, 77.º e 78.º, mantêm-se ainda em vigor os n.os 1, 2, 4 e 5 do artigo 49.º, o artigo 50.º-A, e o n.º 5 do artigo 54.º do [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, alterado pelos Decretos Legislativos Regionais n.os [4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2011-278177), de 11 de março, [11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), de 6 de julho, [13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), de 5 de agosto, e pelo presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 42º — Controlo do recrutamento de trabalhadores
 
@@ -909,7 +955,7 @@ c) A celebração, em 2013, de contratos de aquisição de serviços, quando os 
 
 Os encargos decorrentes dos serviços de apoio social prestados no âmbito da Rede de Cuidados Continuados Integrados da Região Autónoma da Madeira (REDE), e da Rede Regional de Cuidados Paliativos da Região Autónoma da Madeira (RCP), nos termos do artigo 1º do Decreto Legislativo Regional nº 30/2012/M, de 8 de novembro, conjugado com o artigo 36º do Decreto-Lei nº 101/2006, de 6 de junho e nos termos do nº 2 do artigo 1º do Decreto Legislativo Regional nº 35/2012/M, de 19 de novembro, conjugado com o nº 1 da Base VIII da Lei nº 52/2012, de 5 de setembro, respetivamente, são assegurados em 2013, pelo setor da saúde.
 
-###### Artigo 46º — Contenção e redução de despesa no setor empresarial da Região Autónoma da Madeira
+###### Artigo 46.º — Contenção e redução de despesa no setor empresarial da Região Autónoma da Madeira
 
 1 - A contratação de trabalhadores, por parte das entidades públicas empresariais e das empresas públicas de capital exclusiva ou maioritariamente público, em qualquer das modalidades, apenas poderá ocorrer em situações excecionais devidamente fundamentadas, e mediante parecer prévio favorável do membro do Governo responsável pelo respetivo setor e do membro do governo responsável pela área das finanças.
 
@@ -923,9 +969,11 @@ b) Aos trabalhadores das empresas públicas de capital exclusiva ou maioritariam
 
 4 - É vedada a prática de quaisquer atos que consubstanciem valorizações remuneratórias dos gestores públicos e dos trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público.
 
-5 - A celebração e renovação de contratos de aquisição de serviços durante o ano de 2013, por entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público, rege-se pelo disposto no artigo 46º do presente diploma.
+5 - A celebração e renovação de contratos de aquisição de serviços durante o ano de 2013, por entidades públicas empresariais e empresas públicas de capital exclusivamente ou maioritariamente público, rege-se pelo disposto nos n.os 1 a 6, e 12 do artigo 45.º do presente diploma.
 
 6 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer normas legais ou convencionais, especiais ou excecionais, em contrário, e, consoante as situações, sobre instrumentos de regulamentação coletiva de trabalho e de contratos de trabalho não podendo ser modificado ou afastado pelos mesmos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 47º — Informação relativa a pessoal das entidades públicas regionais
 

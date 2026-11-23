@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-07-28'
+version_history:
+  file: decreto-lei-48546.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-07-28'
+    amending: pt:dre:430867:por
+    amending_title: Decreto-Lei n.º 634/76
+    changes:
+    - Altera Artigo unidades 31-36
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:06:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 634/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48546.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,17 +184,9 @@ c) Em terceiro lugar, no caso de igualdade de valorização profissional, segund
 
 7. O Ministro da Educação Nacional poderá sempre determinar a cessação, no fim do ano escolar, do exercício dos professores.
 
-Art. 2.º - 1. Quando a carência de pessoal docente o justifique, pode o Ministro da Educação Nacional autorizar:
+Art. 2.º - (Revogado.)
 
-a) Um professor incumbido de regência num lugar do ciclo elementar a reger noutro lugar do mesmo ciclo;
-
-b) Um professor incumbido de regência num lugar do ciclo complementar a reger noutro lugar do ciclo elementar.
-
-2. A acumulação de regências far-se-á em regime de desdobramento, no mesmo estabelecimento de ensino ou em estabelecimentos que não distarem entre si mais de 10 km.
-
-3. A Direcção-Geral do Ensino Primário estudará o horário dos estabelecimentos de ensino que houverem de funcionar nas condições previstas neste artigo, para efeito de apreciação e aprovação ministeriais.
-
-4. O professor, do quadro geral ou dos quadros de agregados, que se encontrar nas condições previstas no presente artigo perceberá a remuneração que lhe pertencer, nos termos gerais, pela regência do ciclo elementar ou pela regência do ciclo complementar, conforme se verificar a hipótese da alínea a) ou a hipótese da alínea b) do n.º 1, como se não houvera acumulação; e, pelo facto desta, perceberá ainda, em qualquer dos casos, uma gratificação mensal, a abonar durante dez meses, igual à gratificação de professor agregado.
+> Alterado pelo/a [Decreto-Lei n.º 634/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/634-1976-430867), publicado em 1976-07-28.
 
 Art. 3.º - 1. Para ocorrer às necessidades do ensino organizar-se-á anualmente, em cada distrito escolar, uma lista dos professores agregados que quiserem prestar serviço no ciclo complementar a título eventual.
 
