@@ -1058,9 +1058,10 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 - **B:** A com `--estavel`. **C:** B com `--reranker-com-perguntas`.
 - **D:** C com o LLM. Uma sessão do Claude (`claude-opus-5-5`) por cada 2 lotes de 10 perguntas, que só lê a entrada: a data, os 8 primeiros artigos e a pergunta. O limiar é 1, o que a aplicação usa com chave (`LIMIAR_COM_LLM`), e o modo é o estrito. Não tem reescrita da pergunta.
 - **D com reescrita:** a D com a pesquisa feita pela consulta jurídica que sessões do Claude escreveram a partir da pergunta (`avaliacao/privado/reescrita2`, as da medição das compostas), como a aplicação faz com chave. O LLM e os juízes continuam a ver a pergunta original.
+- **B com LLM e B com reescrita** (23/11): o mesmo LLM e os mesmos juízes sobre a pesquisa da B, sem e com a pergunta reescrita. Separam o efeito do LLM, o da reescrita e o das perguntas no reranker.
 - **Juízes da D:** os quatro das compostas (a, b, c e s), às cegas, cada um em sessões próprias e numa pasta só com os seus lotes. Uma resposta é certa só se os quatro a dão como correta e fundamentada.
 - **Uma só pesquisa por pergunta:** o `rag.avaliar` e o `rag.passo_llm` guardam e leem as consultas (`--consultas`), por isso o LLM da D viu exatamente a pesquisa medida na C.
-- **Contas:** `rag.comparar` (novo), que emparelha pergunta a pergunta com a base e refaz as contas com outros limiares a partir das notas gravadas. Resumos em `rag/resultados/ultima-milha.json`, `um-b.json`, `um-c.json`, `um-c-llm.json`, `um-c-juizes.json`, `um-cr-llm.json` e `um-cr-juizes.json`.
+- **Contas:** `rag.comparar` (novo), que emparelha pergunta a pergunta com a base e refaz as contas com outros limiares a partir das notas gravadas. Resumos em `rag/resultados/ultima-milha.json`, `um-b.json`, `um-c.json`, `um-c-llm.json`, `um-c-juizes.json`, `um-cr-llm.json`, `um-cr-juizes.json`, `um-b-llm.json`, `um-b-juizes.json`, `um-br-llm.json` e `um-br-juizes.json`.
 - **«Certa» não é o mesmo com e sem LLM.** Sem LLM, é responder com o artigo certo em 1.º lugar. Com LLM, é a resposta escrita que os quatro juízes aprovam.
 
 **Nas 281 reais:**
@@ -1071,19 +1072,20 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 | B: A com notas estáveis | 108 | 186 | 95 | 78 | 138 | 231 | 5 | 26/43 |
 | C: B com o reranker a ler as perguntas | **149** | 211 | 70 | 62 | 173 | 245 | 7 | 29/45 |
 | B com o LLM (limiar 1, juízes; medido a 23/11) | **206** | 214 | 67 | 8 | 138 | 231 | 2 | 43/45 |
+| B com o LLM e a pergunta reescrita (23/11) | **244** | 253 | 28 | 9 | 195 | 262 | 2 | 45/47 |
 | D: C com o LLM (limiar 1, juízes) | **231** | 241 | 40 | 10 | 173 | 245 | 2 | 45/46 |
 | D com a pergunta reescrita | **249** | 257 | 24 | 8 | 194 | 263 | 4 | 45/47 |
 
-«Erradas» são as respondidas que não ficam certas. Na D são as 10 que pelo menos um juiz não aprovou (algum juiz deu incompleta em 6, errada em 1 e sem fundamento em 3), e em todas houve pelo menos um juiz a aprovar. Com a reescrita são 8 (incompleta em 7, errada em 3, sem fundamento em 1), e em 3 delas nenhum juiz aprovou. Com o critério automático das 80 % de palavras, a D teria 199 certas e a D com reescrita 216.
+«Erradas» são as respondidas que não ficam certas. Na D são as 10 que pelo menos um juiz não aprovou (algum juiz deu incompleta em 6, errada em 1 e sem fundamento em 3), e em todas houve pelo menos um juiz a aprovar. Com a reescrita são 8 (incompleta em 7, errada em 3, sem fundamento em 1), e em 3 delas nenhum juiz aprovou. Na B com reescrita são 9 (incompleta em 6, errada em 2, sem fundamento em 1), todas com pelo menos um juiz a aprovar. Com o critério automático das 80 % de palavras, a D teria 199 certas, a D com reescrita 216 e a B com reescrita 222.
 
 **Pergunta a pergunta, face à A,** com as reais agrupadas pelo lugar do artigo certo na A:
 
-| Lugar do artigo certo na A | n | Certas na A | B | C | B com LLM | D | D com reescrita |
-|---|--:|--:|--:|--:|--:|--:|--:|
-| Em 1.º | 140 | 115 | 105 (1 ganho, 11 perdas) | 113 (14 ganhos, 16 perdas) | 125 (16 ganhos, 6 perdas) | 130 (23 ganhos, 8 perdas) | 128 (23 ganhos, 10 perdas) |
-| Do 2.º ao 8.º | 93 | 0 | 3 | **35** | **75** | **85** | **86** |
-| Fora dos 8 primeiros | 48 | 0 | 0 | 1 | 6 | 16 | 35 |
-| **Total** | 281 | 115 | 108 (4 ganhos, 11 perdas) | 149 (**50 ganhos, 16 perdas**) | 206 (**97 ganhos, 6 perdas**) | 231 (**124 ganhos, 8 perdas**) | 249 (**144 ganhos, 10 perdas**) |
+| Lugar do artigo certo na A | n | Certas na A | B | C | B com LLM | B com reescrita | D | D com reescrita |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|
+| Em 1.º | 140 | 115 | 105 (1 ganho, 11 perdas) | 113 (14 ganhos, 16 perdas) | 125 (16 ganhos, 6 perdas) | 129 (23 ganhos, 9 perdas) | 130 (23 ganhos, 8 perdas) | 128 (23 ganhos, 10 perdas) |
+| Do 2.º ao 8.º | 93 | 0 | 3 | **35** | **75** | **80** | **85** | **86** |
+| Fora dos 8 primeiros | 48 | 0 | 0 | 1 | 6 | 35 | 16 | 35 |
+| **Total** | 281 | 115 | 108 (4 ganhos, 11 perdas) | 149 (**50 ganhos, 16 perdas**) | 206 (**97 ganhos, 6 perdas**) | 244 (**138 ganhos, 9 perdas**) | 231 (**124 ganhos, 8 perdas**) | 249 (**144 ganhos, 10 perdas**) |
 
 - **B:** 10 das 11 perdas são trocas no 1.º lugar entre artigos com notas próximas. O lugar do artigo certo muda em 47 das 281 perguntas e a nota do 1.º resultado muda mais de 0,3 em 29. Pontuar cada texto sozinho não é a mesma conta que pontuar em lotes de 16, e a diferença é maior do que o ruído entre duas corridas em lotes (cerca de 8 perguntas em 1.298, o que dá umas 2 em 281).
 - **C:** dos 50 ganhos, em 28 a A não respondia e em 22 respondia com outro artigo. Das 16 perdas, 12 são trocas no 1.º lugar e 4 passam a «não sei». O artigo certo em 1.º sobe de 140 para 173.
@@ -1091,6 +1093,8 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 - **D:** das 8 perdas, 5 são «não sei» do modo estrito (o artigo citado é o texto original de um diploma alterado) e 3 são respostas que um juiz não aprovou. Os 40 «não sei» são 17 do limiar, 12 em que o LLM diz que os artigos não respondem, 8 do texto original e 3 em que a resposta diz que falta a norma. Em 29 dos 40, o artigo certo não estava nos 8 primeiros.
 - **B com LLM** (23/11): o LLM sobre a pesquisa sem as perguntas no reranker. A `app011-final` não gravou as consultas, e repetir a pesquisa da A em lotes de 16 daria outra pesquisa (ruído do lote); usou-se a da B, que é a configuração da A com notas estáveis. Assim a B com LLM e a D só diferem nas perguntas no reranker. Dá 206 certas em 214 respondidas: 8 não certas, e 67 «não sei» (39 do limiar, 17 em que o LLM diz que os artigos não respondem, 8 do texto original e 3 em que falta a norma). Em 42 dos 67 o artigo certo não estava nos 8 primeiros.
 - **Do LLM e das perguntas, separados:** da A (115) para a B com LLM (206) são +91, e da B com LLM para a D (231) são +25, com 31 ganhos e 6 perdas. Dos 31 ganhos, 13 têm o artigo certo fora dos 8 primeiros na B e 11 do 2.º ao 8.º: as perguntas no reranker trazem o artigo para o contexto ou passam a pergunta acima do limiar. O LLM faz a maior parte do salto; com ele, as perguntas no reranker ainda somam +25 certas (sem LLM somavam +34, da A para a C).
+- **B com reescrita** (23/11): a pergunta reescrita sobre a pesquisa da B leva a B com LLM de 206 para **244** certas em 253 respondidas, com 51 ganhos e 13 perdas. Dos ganhos, 27 eram «não sei» do limiar, 14 recusas do LLM, 5 respostas não aprovadas, 4 «não sei» do texto original e 1 em que faltava a norma. Das perdas, 5 são respostas não aprovadas, 3 recusas do LLM, 3 «não sei» do texto original e 2 do limiar. A reescrita põe o artigo certo em 1.º em mais 57 perguntas (138 → 195) e nos 8 primeiros em mais 31 (231 → 262). Os 28 «não sei» são 13 do texto original, 8 em que o LLM diz que os artigos não respondem, 5 do limiar e 2 em que falta a norma; em 15 deles o artigo certo não estava nos 8 primeiros. Das 9 perdas face à A, 4 são «não sei» do texto original, 3 são respostas não aprovadas, 1 é recusa do LLM e 1 é falta da norma. Nas afinadas 128 certas, nas novas 116. Das 80 «sem resposta», 45 chegam ao LLM, que responde a 2 (sem-065 e sem-071).
+- **A reescrita e as perguntas no reranker corrigem quase o mesmo:** sem reescrita, as perguntas valem +25 (206 → 231); com reescrita valem só +5 (244 → 249, com 11 ganhos e 6 perdas). E a reescrita vale +38 sem as perguntas (206 → 244) e +18 com elas (231 → 249). Em boa parte, as duas trazem o artigo certo para o topo nas mesmas perguntas: juntas valem +43 (206 → 249), contra +25 e +38 em separado.
 - **D com reescrita:** face à D, 29 ganhos e 11 perdas. Dos ganhos, 10 eram «não sei» do limiar na D, 9 eram recusas do LLM e 5 eram respostas não aprovadas. A reescrita traz o artigo certo para os 8 primeiros em mais 18 perguntas (245 → 263), e é daí que vêm as 35 certas no grupo que a A deixava fora dos 8. Os 24 «não sei» são 11 do texto original, 8 em que o LLM diz que os artigos não respondem, 4 do limiar e 1 em que falta a norma. Das 10 perdas face à A, 5 são «não sei» do texto original, 4 são respostas não aprovadas e 1 é recusa do LLM.
 - **Com o LLM, afinadas e novas:** na D, 123 certas nas 136 afinadas e 108 nas 145 novas; com reescrita, 130 e 119.
 - **«Sem resposta»:** a C responde às 5 da A e a mais 2 de arrendamento (sem-024 e sem-051, as mesmas da medição de 18/11). Na D, 30 das 80 chegam ao LLM, que responde a 2 (sem-069 e sem-071). Com reescrita chegam 45 e responde a 4 (as mesmas 2, a sem-065 e a sem-075).
@@ -1119,6 +1123,8 @@ E a D com reescrita:
 
 E a B com LLM (sem as perguntas no reranker): limiar 1, 206 / 214 (2 «sem resposta» respondidas); 2, 192 / 198 (1); 2,5, 179 / 184 (1); 3, 165 / 169 (1); 3,5, 145 / 148 (1); 4, 129 / 132 (1). Sem as perguntas, subir o limiar custa mais: de 1 para 3 perdem-se 41 certas, contra 39 na D e 21 na D com reescrita.
 
+E a B com reescrita: limiar 1, 244 / 253; 2, 238 / 247; 2,5, 236 / 245; 3, 230 / 239; 3,5, 225 / 234; 4, 211 / 220 (2 «sem resposta» respondidas em todos). Com a reescrita, de 1 para 3 perdem-se só 14 certas.
+
 O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, a C tem as mesmas 5 «sem resposta» da A, mais 30 certas e menos 19 erradas. Com o LLM, subir o limiar tira muito mais respostas certas do que erradas (de 1 para 3: menos 39 certas, menos 2 não certas).
 
 **Confirmação da C nas 1.298 perguntas** (`um-c-todas`, com as mesmas consultas guardadas; `rag.comparar --por-tipo`, resumo em `rag/resultados/ultima-milha-todas.json`). As 411 perguntas repetidas deram exatamente o mesmo resultado, como se espera das notas estáveis.
@@ -1145,7 +1151,7 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 
 **Ressalvas:**
 - O LLM foi medido sobre a pesquisa da B (notas estáveis), não sobre a da A em lotes de 16, que não ficou gravada. Sem LLM, a B dá 7 certas a menos do que a A; com LLM a diferença deve ser menor, porque o LLM lê os 8 primeiros e o artigo certo está neles em 231 na B e 233 na A, mas não se mediu.
-- A B com a pergunta reescrita não ficou medida: a pesquisa corria a cerca de 4 minutos por pergunta com a máquina carregada por outras medições (mais de um dia para as 411). Parou-se em 6 consultas, que ficam guardadas em `privado/consultas/um-br` para retomar.
+- A pesquisa da B com reescrita parou a 23/11 em 6 consultas, porque a máquina estava carregada por outras medições (cerca de 4 minutos por pergunta). Retomou-se no mesmo dia com a máquina livre, a partir das consultas guardadas: as outras 405 levaram 2 h 33 min.
 - A C foi medida com as notas estáveis. A leitura das perguntas com lotes de 16 não se mediu aqui.
 - Uma corrida por configuração. O LLM e os juízes são o mesmo modelo e não houve revisão de um jurista.
 - A reescrita é a das sessões do Claude (`reescrita2`), não a da API no momento da pergunta. A pesquisa com reescrita correu com o código do main de 20/11, depois de uma junção; a pesquisa por omissão não mudou nessa junção.
@@ -1155,6 +1161,7 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 1. **O reranker a ler as perguntas compensa, sem chave:** mais 34 certas em 281 (115 → 149), com 50 ganhos e 16 perdas, menos 8 erradas e mais 2 «sem resposta» respondidas, por cerca de 20 % mais tempo de pesquisa. O ganho está muito acima do ruído, é maior nas reais que nunca afinaram e confirma-se nas 1.298 perguntas (619 → 747 certas, 152 ganhos e 24 perdas), sem estragar os outros tipos.
 2. **As notas estáveis sozinhas não melhoram:** menos 7 certas (4 ganhos, 11 perdas). Valem porque tornam a medição repetível e as notas comparáveis com um limiar, não pelo número.
 3. **O LLM dá o maior salto:** sozinho, sobre a pesquisa sem as perguntas no reranker, leva as reais de 115 para 206 certas (B com LLM, 97 ganhos e 6 perdas face à A). Com as perguntas no reranker são 231 certas em 241 respondidas, e 85 das 93 perguntas com o artigo do 2.º ao 8.º lugar passam a certas. Com a pergunta reescrita, como a aplicação faz com chave, são 249 em 257: mais 18 certas, com 29 ganhos e 11 perdas face à D, e mais 2 «sem resposta» respondidas (4 em vez de 2). Depende de o utilizador ter chave.
+4. **Com chave, as perguntas no reranker quase não somam:** com o LLM e a reescrita, a B dá 244 certas e a D 249 (+5, com 11 ganhos e 6 perdas), e as duas respondem às mesmas 2 «sem resposta». A reescrita e as perguntas corrigem quase as mesmas falhas da pesquisa. Sem chave, as perguntas continuam a valer +34.
 
 
 ## Próximos passos

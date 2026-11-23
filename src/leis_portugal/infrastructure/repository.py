@@ -23,6 +23,7 @@ from leis_portugal.domain.identifiers import parse_celex, slugify
 from leis_portugal.domain.record import LegalRecord, Relationship, merge_relationships
 from leis_portugal.errors import InvalidRecord, StorageError
 from leis_portugal.infrastructure.config import load_document_types
+from leis_portugal.infrastructure.manual_texts import ManualText, apply_manual_text, load_manual_texts
 from leis_portugal.infrastructure.markdown import read_markdown_record, read_record_id, render_markdown, write_if_changed
 from leis_portugal.infrastructure.schema import SchemaValidator
 
@@ -87,6 +88,7 @@ class Acervo:
         self.types = types or load_document_types(self.root)
         self.schema = SchemaValidator(self.root)
         self._index: dict[str, Path] | None = None
+        self._manual_texts: dict[str, ManualText] | None = None
         self._lock = threading.Lock()
         self._path_locks: dict[Path, threading.Lock] = {}
         self._path_locks_lock = threading.Lock()
@@ -241,8 +243,16 @@ class Acervo:
             raise InvalidRecord(f"{record.id}: metadados inválidos: " + "; ".join(errors))
         record.validation.status = "validated"
 
+    def manual_texts(self) -> dict[str, ManualText]:
+        """Os textos transcritos do PDF oficial (`reports/textos-manuais.jsonl`), lidos uma vez."""
+        if self._manual_texts is None:
+            self._manual_texts = load_manual_texts(self.root)
+        return self._manual_texts
+
     def write(self, record: LegalRecord, body: str, path: Path) -> bool:
-        """Valida e grava tal como está (sem juntar com o existente)."""
+        """Valida e grava tal como está (sem juntar com o existente), salvo o texto de um registo da
+        lista de textos manuais, que é sempre o transcrito."""
+        body = apply_manual_text(record, body, self.manual_texts())
         self.validate(record)
         changed = write_if_changed(path, render_markdown(record.to_dict(), body))
         self.remember(record.id, path)
@@ -278,6 +288,8 @@ class Acervo:
                 _preserve_derived(record, existing)
                 _preserve_timestamps(record, existing)
 
+        # O texto transcrito do PDF oficial prevalece sobre o que a fonte serve (`reports/textos-manuais.jsonl`).
+        body = apply_manual_text(record, body, self.manual_texts())
         if policy.enrich:
             policy.enrich(record, body)
         changed = write_if_changed(target, render_markdown(record.to_dict(), body))
