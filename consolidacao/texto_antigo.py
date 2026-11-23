@@ -71,10 +71,10 @@ def marcados(original: str, consolidado: str) -> list[dict]:
             continue
         if chave == ultimo and ANEXO.search(corpo):
             continue
-        antigos_todos = [p for p in paragrafos(o[chave]) if not FECHO.search(p)]
-        # o que vem a partir da primeira fórmula final do original é fecho, não corpo
+        antigos_todos = [p for p in paragrafos(o[chave]) if not _e_fecho(p)]
+        # o que vem a partir da primeira fórmula final ou das assinaturas do original é fecho, não corpo
         po = paragrafos(o[chave])
-        i = next((k for k, p in enumerate(po) if FECHO.search(p)), None)
+        i = next((k for k, p in enumerate(po) if _e_fecho(p)), None)
         if i is not None:
             antigos_todos = [p for p in po[:i]]
         pc = paragrafos(corpo)
@@ -86,6 +86,93 @@ def marcados(original: str, consolidado: str) -> list[dict]:
             achados.append({"artigo": chave, "corpo_antigo_no_fim": no_fim, "revogado_com_texto_antigo": bool(revogado and mantidos),
                             "exemplo": (mantidos or antigos_todos or [""])[0][:160]})
     return achados
+
+
+ESTRUTURA = re.compile(
+    r"^#{1,6}\s+(?:(?:PARTE|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O|SUBSEC[ÇC][ÃA]O|DIVIS[ÃA]O|SUBDIVIS[ÃA]O)\b|ANEXO|MAPA|QUADRO|TABELA|"
+    r"(?:Artigo|Art\.?)\s*\d)", re.I)
+# «CAPÍTULO», «Secção», «Subsecção»… fecham o artigo em qualquer caso; «Divisão» só com número («DIVISÃO XI», «Divisão I»):
+# «Divisão de Pessoal» é a epígrafe de um artigo orgânico, não uma divisão do diploma
+_ESTRUTURA_NOME = re.compile(r"^#{1,6}\s+(?:PARTE|LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|SUBSEC[ÇC][ÃA]O|SEC[ÇC][ÃA]O)\b", re.I)
+_ESTRUTURA_DIVISAO = re.compile(r"^#{1,6}\s+(?:SUB)?DIVIS[ÃA]O\s+(?:[IVXLC]+|\d+|[ÚU]NICA)\b", re.I)
+# uma linha só de nomes separados por « - » é a das assinaturas
+_ASSINATURAS = re.compile(r"^[A-ZÁÉÍÓÚÂÊÔ][^\d\n]{2,80}(?: - [A-ZÁÉÍÓÚÂÊÔ][^\d\n]{2,80})+\.?$")
+
+
+def _e_estrutura(linha: str) -> bool:
+    """Um título que fecha o artigo: o artigo seguinte, um anexo, ou uma divisão do diploma (capítulo, secção…)."""
+    if TITULO.match(linha) or re.match(r"^#{1,6}\s+(ANEXO|MAPA|QUADRO|TABELA)\b", linha, re.I):
+        return True
+    return bool(_ESTRUTURA_NOME.match(linha) or _ESTRUTURA_DIVISAO.match(linha))
+
+
+def _e_fecho(linha: str) -> bool:
+    s = linha.strip()
+    return bool(FECHO.search(s) or _ASSINATURAS.match(s))
+
+
+def revogar_inteiro(texto: str, original: str | None = None) -> tuple[str, list[dict]]:
+    """Revogação de um artigo inteiro, por regra e sem LLM. Em cada artigo cujo corpo começa por «(Revogado.)», o
+    corpo fica «(Revogado.)» e as notas («> Revogado pelo/a …»). Sai o resto até ao artigo seguinte ou a um título de
+    estrutura (capítulo, secção, anexo…), incluindo os títulos de divisão que estão dentro dele («##### Divisão de
+    Pessoal»), que eram a epígrafe do artigo revogado. A epígrafe passa para o título do artigo quando ele não a tem.
+    As fórmulas finais e as assinaturas («Visto e aprovado…», «Promulgado…») ficam, porque não são corpo do artigo.
+    Devolve o texto e, por artigo mudado, o que saiu."""
+    linhas = texto.split("\n")
+    saida, feitos, i = [], [], 0
+    while i < len(linhas):
+        m = TITULO.match(linhas[i])
+        if not m:
+            saida.append(linhas[i])
+            i += 1
+            continue
+        # o bloco do artigo: até ao artigo seguinte ou a um título de estrutura
+        fim = i + 1
+        while fim < len(linhas) and not _e_estrutura(linhas[fim]):
+            fim += 1
+        bloco = linhas[i + 1:fim]
+        nao_vazias = [l for l in bloco if l.strip()]
+        if not nao_vazias or not REVOGADO.fullmatch(nao_vazias[0].strip()):
+            saida.extend(linhas[i:fim])
+            i = fim
+            continue
+        # «(Revogado.)» e as notas que o seguem ficam; o resto sai até a uma fórmula final
+        k = next(j for j, l in enumerate(bloco) if l.strip())
+        mantidas = bloco[:k + 1]
+        j = k + 1
+        while j < len(bloco) and (not bloco[j].strip() or bloco[j].lstrip().startswith(">")):
+            mantidas.append(bloco[j])
+            j += 1
+        fecho = next((x for x in range(j, len(bloco)) if _e_fecho(bloco[x])), len(bloco))
+        removidas = bloco[j:fecho]
+        titulo = linhas[i]
+        epigrafe = None
+        if original is not None and any(l.strip() for l in removidas):
+            # só sai texto antigo: cada parágrafo tirado tem de ser, letra a letra, do corpo do artigo original
+            # (um título de secção em texto simples, «III / Das casas…», é da secção seguinte e fica)
+            corpo_o = {p.strip() for p in artigos(original).get(_chave(m.group(1)), "").split("\n\n") if p.strip()}
+            tirados = [p.strip() for p in "\n".join(removidas).split("\n\n") if p.strip()]
+            if not corpo_o or any(p not in corpo_o for p in tirados):
+                saida.extend(linhas[i:fim])
+                i = fim
+                continue
+        if any(l.strip() for l in removidas):
+            if " — " not in titulo:
+                h = next((re.match(r"^#{1,5}\s+(.+)$", l) for l in removidas if re.match(r"^#{1,5}\s+\S", l)), None)
+                if h:
+                    epigrafe = h.group(1).strip()
+                    titulo = f"{titulo.rstrip()} — {epigrafe}"
+            feitos.append({"artigo": _chave(m.group(1)), "removido": "\n".join(removidas).strip(), "epigrafe_no_titulo": epigrafe})
+            saida.append(titulo)
+            saida.extend(mantidas)
+            if fecho < len(bloco):
+                saida.append("")
+            saida.extend(bloco[fecho:])
+        else:
+            saida.extend(linhas[i:fim])
+        i = fim
+    novo = re.sub(r"\n{3,}", "\n\n", "\n".join(saida))
+    return novo, feitos
 
 
 CONFIRMADOS = "auditoria/texto-antigo-confirmados.jsonl"

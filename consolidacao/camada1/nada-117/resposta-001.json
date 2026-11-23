@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:629160:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Lei 13/2008, art. 1.º: nova redação da base 10 do anexo ao DL 380/2007 (alvo incerto: aplica-se à base 10 do ANEXO I, mas o consolidado não tem o corpo das bases)",
+   "DL 110/2009, art. 2.º: nova redação das bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 61, 66 e 79 (sem efeito no consolidado; alvo incerto: o corpo do ANEXO I e dos capítulos não traz o texto das bases)",
+   "DL 110/2009, art. 3.º, n.º 1: aditamento das bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A (sem efeito; texto novo integral e disponível, mas não há corpo do anexo onde as pôr: alvo incerto)",
+   "DL 110/2009, art. 3.º, n.º 2: aditamento do quadro IV (sem efeito; texto novo integral e disponível: alvo incerto, sem quadros no consolidado)",
+   "DL 110/2009, art. 5.º, n.º 2: revogação do n.º 3 da base 19, n.os 5 a 9, 14 e 15 da base 61 e n.os 6 a 9 da base 66 (sem efeito; alvo incerto, corpo das bases ausente)",
+   "DL 44-A/2010, art. 1.º: nova redação das bases 2 e 3 (sem efeito; alvo incerto, corpo das bases ausente)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 110/2009, art. 1.º e art. 5.º, n.º 1: alterações e revogação dos artigos 7.º e 8.º do DL 374/2007",
+    "motivo": "instrução de outro diploma (DL 374/2007), confirmado no texto"
+   },
+   {
+    "instrucao": "DL 110/2009, art. 2.º: nova redação da base 60, n.º 2",
+    "motivo": "o texto novo só vem em imagem (ligação ao documento original) e o consolidado não tem onde o pôr"
+   },
+   {
+    "instrucao": "DL 110/2009, art. 6.º: republicação das bases",
+    "motivo": "o diploma que altera não traz o texto republicado, só a ligação ao documento original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

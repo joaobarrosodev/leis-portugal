@@ -1,0 +1,87 @@
+[
+ {
+  "id": "pt:dre:391404:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Verificado parágrafo a parágrafo: imagens de 48268, 48664, 48760 (3.º), 48940, 49292 e 89/70 por ordem; texto de 49133 art. 4.º, 49365, 603/71 art. 2.º 3.º e 4.º (104 linhas iguais) e 304/73 art. 6.º/9.º b); sem texto de outros diplomas",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48222, art. único: introduzir na lista as mercadorias da nota ao 74.04.02 (DL 48221)",
+    "motivo": "o diploma que altera não traz o texto a inserir"
+   },
+   {
+    "instrucao": "DL 48424, art. único: introduzir as mercadorias da nota ao 38.11.02",
+    "motivo": "o diploma que altera não traz o texto a inserir"
+   },
+   {
+    "instrucao": "DL 48760, art. 2.º, 1.º e 2.º: eliminar posições 73.09, 73.12.04, 73.15.01, 73.15.02, 73.15.10 a 73.15.12, 73.18.05; renumerar 73.10.03 e 73.11.06",
+    "motivo": "o alvo (lista do original) só existe em imagem; não há texto onde eliminar ou renumerar"
+   },
+   {
+    "instrucao": "DL 326/70, art. 3.º: incluir na lista o produto da nota ao 68.13",
+    "motivo": "o diploma que altera não traz o texto a inserir"
+   },
+   {
+    "instrucao": "DL 595/70, art. 3.º: 84.25.05 passa a 84.25.06 na lista",
+    "motivo": "o alvo só existe em imagem"
+   },
+   {
+    "instrucao": "DL 595/70, art. 4.º: incluir as mercadorias do 84.25.03",
+    "motivo": "o diploma que altera não traz o texto a inserir"
+   },
+   {
+    "instrucao": "DL 670/70, art. 7.º: introduzir produtos dos artigos 91.09.03, 91.09.04 e 91.11",
+    "motivo": "só indica números de artigos pautais, sem texto"
+   },
+   {
+    "instrucao": "DL 603/71, art. 2.º, 1.º e 2.º: eliminar 29.25.01, 73.24.02, 90.10; renumerar 29.25.02 e 29.25.03",
+    "motivo": "o alvo só existe em imagem"
+   },
+   {
+    "instrucao": "DL 626/71, art. 6.º: eliminar da lista o 56.01.01",
+    "motivo": "o alvo só existe em imagem"
+   },
+   {
+    "instrucao": "DL 600/72, art. 9.º, n.º 1: introduzir produtos dos artigos 73.01, 73.06, 73.07.01, 73.15.04, 73.15.41",
+    "motivo": "só indica números, sem texto"
+   },
+   {
+    "instrucao": "DL 260/73, art. 4.º: incluir na lista as mercadorias das notas do art. 2.º",
+    "motivo": "o diploma que altera não traz o texto para a lista"
+   },
+   {
+    "instrucao": "DL 304/73, art. 9.º, alínea a): introduzir mercadorias dos artigos e notas indicados",
+    "motivo": "só indica números, sem texto"
+   },
+   {
+    "instrucao": "DL 304/73, art. 9.º, alínea c): modificar as referências aos artigos 39.01.03 e 48.01.10",
+    "motivo": "o art. 2.º só dá as notas da Pauta, não o texto das referências da lista"
+   },
+   {
+    "instrucao": "DL 287/74, art. 3.º: introduzir mercadorias da nota da posição 85.20",
+    "motivo": "o diploma que altera não traz o texto para a lista"
+   },
+   {
+    "instrucao": "DL 401/74, art. 5.º: incluir as mercadorias do diploma na lista",
+    "motivo": "o diploma que altera não traz o texto para a lista"
+   },
+   {
+    "instrucao": "DL 555/75, art. 4.º, a): introduzir mercadorias do 59.17.11",
+    "motivo": "o diploma que altera não traz o texto para a lista"
+   },
+   {
+    "instrucao": "DL 555/75, art. 4.º, b): 59.17.14 e 59.17.16 passam a 59.17.15 e 59.17.17",
+    "motivo": "o alvo só existe em imagem"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

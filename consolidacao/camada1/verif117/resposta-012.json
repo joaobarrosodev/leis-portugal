@@ -1,0 +1,2803 @@
+[
+ {
+  "id": "pt:dre:626423:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 1.º (art. 3.º) do DL 157/92, epígrafe nova dada pelo alterador. Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 5.º do DL 157/92 (epígrafe mantida por [...]). Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º-A",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 5.º-A aditado pelo art. 2.º do DL 157/92. Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 7.º do DL 157/92 (epígrafe mantida). Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao n.º 1 do art. 31.º do DL 157/92; n.º 2 mantém o original (\"2 ...\"). Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao n.º 4 do art. 45.º do DL 157/92 (RC e RV); n.ºs 1-3, 5, 6 mantêm o original. Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 96.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 100.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 102.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 104.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 105.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 106.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao n.º 2 do art. 106.º do DL 157/92; n.º 1 mantém o original. Não revogado: o art. 30.º do DL 236/99 ressalva-o; o efeito da revogação do DL 197-A/2003 está adiado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 107.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IX",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º da Lei 27/91: passa a designar-se «Reclamações e recursos em matéria administrativa». Texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 108.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 110.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 111.º (o 110.º original foi eliminado e os seguintes renumerados, art. 5.º da Lei 27/91).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 112.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 113.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 113.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 114.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 114.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 115.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 116.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 116.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 117.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 118.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 119.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 119.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 120.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 120.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 121.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 122.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 123.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 123.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 124.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 124.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 125.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 125.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 126.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 127.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 127.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 128.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 128.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 129.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 129.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 130.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 130.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 131.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 131.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 132.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 132.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 133.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 133.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 134.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 134.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 135.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 135.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 136.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 136.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 137.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 137.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 138.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 138.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 139.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 139.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 140.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 141.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 141.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 142.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 142.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 143.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 143.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 144.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 144.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 145.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 145.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 146.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Alterado pelo DL 157/92 mas revogado depois pelo art. 30.º do DL 236/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 146.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 147.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 147.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 148.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 148.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 149.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 149.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 150.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 150.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 151.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 151.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 152.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 152.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 153.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 153.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 154.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 154.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 155.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 155.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 156.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 156.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 157.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 157.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 158.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 158.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 159.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 159.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 160.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 160.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 161.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 161.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 162.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 162.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 163.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 164.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 164.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 165.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 165.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 166.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 166.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 167.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 167.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 168.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 168.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 169.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 169.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 170.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 170.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 171.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 171.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 172.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 172.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 173.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 173.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 174.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 174.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 175.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 175.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 176.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 176.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 177.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 177.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 178.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 178.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 179.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 179.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 180.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 180.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 181.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 181.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 182.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 182.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 183.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 183.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 184.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 184.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 185.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 185.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 186.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 186.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 187.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 187.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 188.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 188.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 189.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 189.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 190.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 190.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 191.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 191.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 192.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 192.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 193.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 193.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 194.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 194.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 195.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 195.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 196.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 196.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 197.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 197.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 198.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 198.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 199.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 199.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 200.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 200.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 201.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 201.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 202.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 203.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 203.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 204.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 204.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 205.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Alterado pelo DL 157/92 mas revogado depois pelo art. 30.º do DL 236/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 205.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 206.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 206.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 207.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 208.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 209.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 209.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 210.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 211.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 211.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 212.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 212.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 213.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 213.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 214.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 214.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 215.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 216.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 216.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 217.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 217.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 218.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 218.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 219.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 219.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 220.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 220.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 221.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 221.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 222.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 222.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 223.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 223.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 224.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 224.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 225.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 225.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 226.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 226.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 227.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 227.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 228.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 228.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 229.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 229.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 230.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 230.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 231.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 231.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 232.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 232.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 233.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 233.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 234.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 234.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 235.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 235.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 236.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 236.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 237.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 237.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 238.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 238.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 239.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 239.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 240.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 240.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 241.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 241.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 242.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 242.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 243.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 243.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 244.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 244.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 245.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 245.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 246.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 246.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 247.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 247.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 248.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 248.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 249.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 249.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 250.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 250.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 251.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 251.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 252.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 252.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 253.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 253.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 254.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 254.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 255.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 255.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 256.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 256.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 257.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 257.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 258.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 258.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 259.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 259.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 260.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 260.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 261.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 261.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 262.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 262.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 263.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 263.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 264.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 264.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 265.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 265.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 266.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 266.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 267.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 267.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 268.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 268.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 269.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 269.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 270.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 271.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 271.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 272.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 273.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 273.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 274.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 274.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 275.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 275.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 276.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 276.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 277.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 277.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 278.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 278.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 279.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 279.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 280.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 280.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 281.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 281.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 282.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 282.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 283.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 283.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 284.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 284.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 285.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 285.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 286.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 286.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 287.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 287.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 288.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 288.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 289.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 289.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 290.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 290.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 291.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 291.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 292.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 292.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 293.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 293.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 294.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 294.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 295.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 295.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 296.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 296.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 297.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Alterado pelo DL 157/92 mas revogado depois pelo art. 30.º do DL 236/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 297.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 298.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 298.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 299.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 300.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 300.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 301.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 301.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 302.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 302.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 303.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 303.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 304.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 304.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 305.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Alterado pelo DL 157/92 mas revogado depois pelo art. 30.º do DL 236/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 305.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 306.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 306.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 307.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 307.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 308.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 308.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 309.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 309.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 310.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 310.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 311.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 311.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 312.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 312.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 313.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 313.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 314.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 314.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 315.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 315.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 316.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 316.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 317.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 317.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 318.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 318.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 319.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 319.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 320.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 320.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 321.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 321.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 322.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 322.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 323.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 323.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 324.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 324.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 325.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 325.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 326.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 326.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 327.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 327.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 328.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 328.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 329.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 329.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 330.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 330.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 331.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 331.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 332.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 332.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 333.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 333.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 334.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 334.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 335.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 335.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 336.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 336.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 337.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 337.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 338.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 338.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 339.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Alterado pelo DL 157/92 mas revogado depois pelo art. 30.º do DL 236/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 339.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 340.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 340.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 341.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 341.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 342.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 342.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 343.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 343.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 344.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 344.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 345.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 345.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 346.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 346.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 347.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 347.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 348.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 348.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 349.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 349.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 349.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "LIVRO III",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Do serviço efectivo normal» do DL 157/92.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 350.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 350.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 351.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 351.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 352.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 352.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 353.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 353.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 354.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 354.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 355.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 355.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 356.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 356.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 357.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 357.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 358.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 358.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 359.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 359.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 360.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 360.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 361.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 361.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 362.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 362.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 363.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 363.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 364.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 364.º do livro III do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 365.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 365.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 366.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 366.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 367.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 367.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 368.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 368.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 369.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 369.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 370.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 370.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 371.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 371.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 372.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 372.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 373.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 373.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 374.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 374.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 375.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 375.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 376.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 376.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 377.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 377.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 378.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 378.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 379.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 379.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 380.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 380.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 381.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 381.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 382.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 382.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 383.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 383.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 384.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 384.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 385.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 385.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 386.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 386.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 387.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 387.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 388.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 388.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 389.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 389.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 390.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 390.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 391.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 391.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 392.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 392.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 393.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 393.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 394.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 394.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "LIVRO IV",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Dos regimes de voluntariado e de contrato» do DL 157/92.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #3",
+    "veredicto": "certo",
+    "motivo": "Título I «Do regime de voluntariado» do livro IV, DL 157/92.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 395.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 395.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 396.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 396.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 397.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 397.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 398.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 398.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 399.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 399.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 400.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 400.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 401.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 401.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 402.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 402.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 403.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 403.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 404.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 404.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 405.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 405.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 406.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 406.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 407.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 407.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 408.º",
+    "veredicto": "certo",
+    "motivo": "Corresponde letra a letra ao art. 408.º do livro IV do DL 157/92; mantido pela excepção dos livros III e IV no art. 30.º do DL 236/99 (revogação do DL 197-A/2003 com efeito adiado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 409.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 410.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 410.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 411.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 411.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 412.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 412.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 413.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 413.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 414.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 414.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 415.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 415.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 416.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 416.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 417.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 417.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 418.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 418.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 419.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 419.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 420.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 420.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 421.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 421.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 422.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 422.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 423.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 423.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 424.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 424.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 425.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 425.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 426.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 426.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 427.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 427.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 428.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 428.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 429.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 429.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 430.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 430.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 431.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 431.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 432.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 432.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 433.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 433.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 434.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 434.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 435.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 435.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 436.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 436.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 437.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 437.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 438.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 438.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 439.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 439.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 30.º do DL 236/99 (revoga o DL 34-A/90 salvo arts. 3.º,5.º,5.º-A,6.º,7.º,31.º,45.º,106.º do livro I e livros III e IV); corpo «(Revogado.)» e epígrafe mantida. Epígrafe do original art. 440.º por renumeração (art. 5.º da Lei 27/91: elimina o 110.º e renumera os seguintes). Revogado também pelo art. 3.º do DL 157/92 (409.º e seguintes, salvo o 440.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 440.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo art. 6.º da Lei 27/91 (epígrafe e texto iguais); mantido pelo art. 3.º do DL 157/92 («com excepção do artigo 440.º») e pela excepção do livro IV no art. 30.º do DL 236/99. O texto final fora do artigo vem do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Parte comum #4",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO II #3",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO III #3",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IV #3",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO I #4",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Parte comum #5",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO II #4",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO III #4",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "TÍTULO IV #4",
+    "veredicto": "certo",
+    "motivo": "Cabeçalho dos livros III/IV antigos, removido porque o DL 157/92 substitui os livros III e IV (os novos títulos vêm do alterador).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração (1990), rectificação ao preâmbulo (11.º e 12.º parágrafos: «curso superior de curta duração.» → «bacharelato.»): alvo incerto; o preâmbulo vem como igual ao original mas o seu texto não está na vista, e a retificação não foi aplicada.",
+   "Declaração (1990), rectificações aos artigos 14.º, 16.º, 17.º, 18.º, 23.º, 31.º, 32.º, 44.º a 48.º do decreto-lei (antes de «No texto do Estatuto»): alvo incerto; esses artigos do decreto-lei não estão na vista nem no consolidado visível.",
+   "DL 157/92, art. 1.º, livro IV: o novo «TÍTULO II — Do regime de contrato» (antes do art. 388.º) não consta do consolidado (os títulos antigos «TÍTULO II — Da Marinha», etc., foram retirados e este não foi posto)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: rectificações aos artigos do texto do Estatuto (7.º, 14.º, 28.º, 36.º ... 424.º)",
+    "motivo": "Os artigos estão revogados pelo art. 30.º do DL 236/99 ou substituídos pelo DL 157/92 (livros III e IV, 7.º); o consolidado já tem o texto final, a rectificação fica sem objecto."
+   },
+   {
+    "instrucao": "Lei 27/91, arts. 1.º a 4.º: alterações aos arts. 4.º, 8.º ... 438.º, 246.º, 276.º, 284.º",
+    "motivo": "Os artigos foram depois revogados pelo art. 30.º do DL 236/99 ou substituídos pelo DL 157/92; o consolidado tem «(Revogado.)» ou o texto do DL 157/92."
+   },
+   {
+    "instrucao": "Lei 27/91, art. 5.º n.º 3 (referências aos artigos 111.º e seguintes passam a 110.º e seguintes)",
+    "motivo": "Não é textual: regra interpretativa das remissões; as remissões estão em artigos revogados ou substituídos."
+   },
+   {
+    "instrucao": "DL 157/92, art. 4.º (disposições transitórias)",
+    "motivo": "Não é textual: normas transitórias próprias do DL 157/92 que apenas remetem para o Estatuto."
+   },
+   {
+    "instrucao": "DL 157/92, art. 1.º: artigos 145.º, 204.º, 296.º, 304.º e 338.º",
+    "motivo": "Livro II, revogados depois pelo art. 30.º do DL 236/99; o consolidado tem «(Revogado.)»."
+   },
+   {
+    "instrucao": "Lei 15/92, art. 1.º n.º 1 (alínea c) do art. 175.º); n.ºs 2 a 4 e arts. 2.º a 10.º",
+    "motivo": "O art. 175.º está revogado pelo art. 30.º do DL 236/99; os restantes números e artigos são normas próprias da Lei 15/92, que só remetem para o Estatuto."
+   },
+   {
+    "instrucao": "DL 27/94, art. 13.º a): revogação dos arts. 275.º, 277.º, 282.º ... 331.º na parte em que se referem a pára-quedistas",
+    "motivo": "Revogação condicional («na parte em que se referem»); os artigos ficam revogados pelo DL 236/99. Arts. 1.º a 12.º e 14.º: normas próprias do DL 27/94."
+   },
+   {
+    "instrucao": "DL 224-A/96, art. 3.º n.º 2 p): manutenção em vigor do art. 23.º do Estatuto",
+    "motivo": "Não é textual (manutenção em vigor); o art. 23.º fica revogado pelo DL 236/99."
+   },
+   {
+    "instrucao": "DL 175/97, art. 1.º: arts. 101.º e 105.º",
+    "motivo": "Artigos revogados depois pelo art. 30.º do DL 236/99; o consolidado tem «(Revogado.)»."
+   },
+   {
+    "instrucao": "DL 236/99, arts. 9.º, 11.º e 18.º",
+    "motivo": "Normas do DL 236/99 que só remetem para o Estatuto de 1990; não alteram o seu texto."
+   },
+   {
+    "instrucao": "Lei 25/2000, arts. 1.º a 4.º",
+    "motivo": "Alteram o DL 236/99 e o Estatuto por ele aprovado (outro diploma)."
+   },
+   {
+    "instrucao": "Lei 25/2000, art. 5.º (repristinação dos arts. 12.º a 15.º do DL 34-A/90 e de normas da Lei 15/92)",
+    "motivo": "Não é textual: repristinação de um regime até se esgotarem os efeitos; os arts. 12.º a 15.º são do decreto, não do Estatuto."
+   },
+   {
+    "instrucao": "DL 197-A/2003, art. 5.º n.º 1 (revogação dos arts. 3.º, 5.º, 5.º-A, 6.º, 7.º, 31.º, 45.º, 106.º e do livro III)",
+    "motivo": "Efeito adiado: mantêm-se em vigor enquanto persistir a situação do n.º 1 do art. 59.º da Lei 174/99 (facto futuro); confirmado no texto."
+   },
+   {
+    "instrucao": "DL 197-A/2003, art. 5.º n.º 2 (revogação do livro IV)",
+    "motivo": "Ressalva a manutenção em vigor para os militares que fizeram a declaração do n.º 1 do art. 4.º do DL 289/2000; revogação não completa, efeito dependente de facto futuro."
+   },
+   {
+    "instrucao": "DL 197-A/2003, art. 5.º n.º 3 (art. 94.º-A)",
+    "motivo": "Instrução de outro diploma: o art. 94.º-A é do Estatuto aprovado pelo DL 236/99."
+   },
+   {
+    "instrucao": "DL 261/2009 (efectivos, suspensão do n.º 3 do art. 174.º, mapa anexo)",
+    "motivo": "Outro diploma: refere-se ao Estatuto aprovado pelo DL 236/99."
+   },
+   {
+    "instrucao": "Declaração de rectificação n.º 2564/2010",
+    "motivo": "Outro diploma: rectifica uma declaração sobre a situação de um militar."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Os 9 títulos/partes comuns antigos dos livros III e IV (Parte comum, TÍTULO II a IV da Marinha/Exército/Força Aérea, etc.) saem, o que é correcto porque o DL 157/92 substitui esses livros. Falta o título «TÍTULO II — Do regime de contrato» (ver instrucoes_em_falta). O resto do texto fora dos artigos não foi verificável pela vista."
+ }
+]

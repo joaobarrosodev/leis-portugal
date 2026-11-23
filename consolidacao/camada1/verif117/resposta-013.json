@@ -1,0 +1,38 @@
+[
+ {
+  "id": "pt:dre:638772:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 48.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 65/2011, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 65/2011, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 65/2011, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DL 65/2011 (epígrafe mantida por [...]).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 3.º DL 65/2011: aditamento do capítulo V-A «Cadastro predial em zonas de intervenção florestal» (título) antes do art. 48.º-A: alvo incerto alegado, mas a posição é conhecida (entre o art. 48.º e o 48.º-A, antes do CAPÍTULO VI); o consolidado não tem o título"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

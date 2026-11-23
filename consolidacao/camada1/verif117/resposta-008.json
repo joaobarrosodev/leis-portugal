@@ -1,0 +1,1040 @@
+[
+ {
+  "id": "pt:dre:430865:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo DL 297/88 e revogado pelo DL 192/93 (art. 31.º, al. g) e al. a)); consolidado \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 192/93, art. 31.º al. a) (revoga o DL 633/76 exceto os capítulos III a VI na redação do DL 335/81); consolidado mantém epígrafe e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Título dado pelo DL 335/81, art. 1.º n.º 3: \"CAPÍTULO III — Cursos de formação\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III #3",
+    "veredicto": "certo",
+    "motivo": "Título dado pelo DL 335/81: \"SECÇÃO III — Abonos dos frequentadores dos cursos\" antes do art. 74.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com o n.º 2 dado pelo DL 295/88 (quinze meses/nove e seis) e alíneas b) e c) dos n.os 1 e 2 revogadas pelo DL 553/99, art. 11.º al. a) (nomeadas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com o n.º 1 dado pelo DL 295/88; o resto fica como no DL 335/81 (n.º 2 em 78.º; n.º 3 em 82.º, numeração do DL 335/81 mantida).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO III #2",
+    "veredicto": "certo",
+    "motivo": "Título dado pelo DL 335/81: \"DIVISÃO III — Curso de formação para as carreiras de geofísica\" antes do art. 81.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com o n.º 2 dado pelo DL 295/88 (quinze meses/nove e seis) e alíneas b) e c) dos n.os 1 e 2 revogadas pelo DL 553/99, art. 11.º al. a) (nomeadas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com o n.º 1 dado pelo DL 295/88; o resto fica como no DL 335/81 (n.º 2 em 78.º; n.º 3 em 82.º, numeração do DL 335/81 mantida).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 553/99, art. 11.º al. a); consolidado \"(Revogado.)\" com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com o n.º 5 dado pelo DL 295/88; restantes números inalterados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois (art. 89.º mantido em vigor pelo DL 220/2003, art. 42.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 229/2005, art. 2.º al. a); consolidado \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Redação integral dada pelo DL 295/88 (n.os 1 a 5), epígrafe do DL 335/81 mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 335/81 com a alínea c) revogada pelo DL 553/99, art. 11.º al. a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 96.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 100.º",
+    "veredicto": "certo",
+    "motivo": "Igual (letra a letra) à redação dada pelo DL 335/81, art. 1.º n.º 3; não alterado depois.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Revogado expressamente (nomeado) pelo DL 229/2005, art. 2.º al. a); consolidado \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV #3",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO V",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VI",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO IV",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I #3",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO II #4",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO II #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO III #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 102.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO IV #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 104.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV #4",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 105.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 106.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 107.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 108.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO V #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 110.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 113.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 114.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 115.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 116.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 117.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 119.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO VI",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 120.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 121.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 122.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 123.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO II #2",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 124.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 125.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 127.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 128.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 129.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 130.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VI",
+    "veredicto": "certo",
+    "motivo": "Título do original eliminado: os capítulos III a VI do original foram substituídos pelo DL 335/81 (art. 1.º n.º 3); o título antigo não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 131.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 132.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 133.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 134.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 136.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 137.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 138.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 139.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 141.º",
+    "veredicto": "certo",
+    "motivo": "Artigo do original (capítulos IV, V e VI antigos) eliminado: capítulos III a VI do original substituídos pelos capítulos III a V do DL 335/81 (art. 1.º n.º 3 e art. 5.º) e artigos 102.º a 141.º não existem na nova redação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 335/81, art. 1.º n.º 3: título «DIVISÃO I — Disposições comuns» antes do artigo 67.º (capítulo III): o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «SECÇÃO I — Finalidade, divisão, orientação e disciplina dos cursos de formação» antes do artigo 67.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «DIVISÃO II — Cursos de formação para as carreiras de meteorologia» antes do artigo 77.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «DIVISÃO IV — Cursos de formação para a carreira de telecomunicações meteorológicas e geofísicas» antes do artigo 85.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «CAPÍTULO IV — Pessoal pertencente ao quadro» antes do artigo 87.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «SECÇÃO I — Disposições comuns (capítulo IV)» antes do artigo 87.º, a seguir ao CAPÍTULO IV: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «SECÇÃO II — Recrutamento do pessoal» antes do artigo 92.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista",
+   "DL 335/81, art. 1.º n.º 3: título «CAPÍTULO V — Disposições finais» antes do artigo 100.º: o consolidado declara não o ter aplicado por «alvo incerto», mas o lugar é indicado no próprio diploma; os títulos antigos (CAPÍTULO IV, SECÇÃO I #3, SECÇÃO II #4, CAPÍTULO V…) foram eliminados e o título novo não aparece na vista"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 715/79 n.º 1.º, Portaria 357/81 n.º 1.º e Portaria 1065/81 n.º 1.º: aumento/substituição dos lugares do quadro de pessoal",
+    "motivo": "os mapas só vêm em imagem (confirmado: «ver documento original») e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DL 335/81 art. 1.º n.º 1: substituição das designações «departamento», «coordenador de departamento», etc. nos capítulos I e II",
+    "motivo": "mudança de designação sem nova redação; os artigos desses capítulos são revogados pelo DL 192/93 (art. 31.º al. a))"
+   },
+   {
+    "instrucao": "DL 335/81 art. 1.º n.º 2: substituição dos quadros anexos pelos quadros I e III",
+    "motivo": "quadros só em imagem (confirmado) e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DL 1-C/80 art. 2.º n.º 2: revogação da alínea e) do n.º 1 do artigo 93.º do DL 633/76",
+    "motivo": "efeito absorvido: o artigo 93.º do original foi substituído integralmente pelo DL 335/81 e depois pelo DL 295/88; o consolidado tem a redação final correta (a alínea não existe nela)"
+   },
+   {
+    "instrucao": "DL 1-C/80 art. 1.º e art. 2.º n.º 1 (recrutamento de chefes de repartição; revogação do DL 802/76 'na parte que contradiz')",
+    "motivo": "instrução de outro diploma / revogação condicional; sem texto novo para o original"
+   },
+   {
+    "instrucao": "DL 213/85 artigo único (n.º 4 do artigo 5.º do original)",
+    "motivo": "efeito absorvido: o artigo 5.º do original é revogado pelo DL 192/93 (art. 31.º al. a) e al. f)); consolidado '(Revogado.)'"
+   },
+   {
+    "instrucao": "DL 314/80 art. 1.º (nova redação dos artigos 53.º a 56.º)",
+    "motivo": "efeito absorvido: artigos 53.º a 56.º revogados pelo DL 192/93 (art. 31.º al. a) e al. b)); consolidado '(Revogado.)'"
+   },
+   {
+    "instrucao": "DL 78/91 artigo único: INMG passa à dependência do Ministro do Ambiente e Recursos Naturais",
+    "motivo": "não textual: mudança de dependência, sem nova redação"
+   },
+   {
+    "instrucao": "DL 187/93 art. 14.º: extinção do INMG com a entrada em vigor dos diplomas orgânicos",
+    "motivo": "outro diploma / efeito adiado para facto futuro; não altera nem revoga o texto do original"
+   },
+   {
+    "instrucao": "DL 45/97 art. 5.º n.º 2: revogação das disposições sobre meteorologista operacional e geofísico operacional 'em tudo o que contrariem'",
+    "motivo": "revogação condicional (confirmado no texto)"
+   },
+   {
+    "instrucao": "DL 553/99 art. 11.º, proémio: revogação das disposições que contrariem o diploma; art. 9.º (recrutamento de geofísico)",
+    "motivo": "revogação condicional; a lista 'designadamente' foi aplicada (arts. 77.º, 79.º, 80.º, 81.º, 83.º a 86.º, 94.º al. c))"
+   },
+   {
+    "instrucao": "DL 220/2003 art. 42.º (revogação do DL 192/93 e do que contrarie, mantendo o artigo 89.º) e art. 40.º (lei interpretativa sobre o artigo 89.º)",
+    "motivo": "revogação condicional / não textual (interpretação sem nova redação); artigo 89.º mantido sem alteração"
+   },
+   {
+    "instrucao": "DL 229/2005 art. 2.º, proémio: revogação de todas as normas sobre acréscimos de tempo de serviço",
+    "motivo": "revogação condicional; os artigos 90.º e 101.º, nomeados, foram revogados"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Quadros anexos (imagem) não vistos no consolidado; justificado. Os títulos de capítulo/divisão/secção novos do DL 335/81 em falta estão em instrucoes_em_falta. Sem outras alterações visíveis."
+ }
+]

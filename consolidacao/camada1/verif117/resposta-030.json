@@ -1,0 +1,163 @@
+[
+ {
+  "id": "pt:dre:455465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 art. 1.º (substitui o DL 23/96 art. 3.º): lista a)-r) letra a letra."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 5 novo; n.os 1-4 «...»."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 alíneas c)-f), n.os 2, 6 e 7 novos; restantes «...»."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Novo texto do DL 55/98 correcto mas o texto antigo («...pelo Ministro da Presidência.») ficou a seguir.",
+    "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98 (Artigo 8.º (Revogado.))."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 2 novo; n.º 1 «...»."
+   },
+   {
+    "artigo": "Artigo 9.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º."
+   },
+   {
+    "artigo": "Artigo 9.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1 e 2 são os actuais do art. 11.º (Negócios Estrangeiros)."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1-3 são os actuais do art. 10.º (Defesa), incluindo o n.º 3 aditado pelo DL 23/96 art. 4.º."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 art. 8.º."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 43/96 art. 1.º n.º 1; n.º 2 «...»."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 2 (substitui o do DL 43/96); restantes «...»."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 17/99 art. 1.º n.º 2; restantes «...»."
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 art. 8.º."
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 art. 21.º n.os 1-4 substituem o artigo (sem «5 - ...»), como na republicação em anexo."
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98."
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 art. 1.º."
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 art. 1.º."
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 1; n.º 2 «...»."
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96 art. 5.º: alíneas d)-x) novas; a antiga y) (Algarve) não fica, em coerência com a lista nova e com a republicação em anexo ao DL 55/98 (último item x))."
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 3 é o actual n.º 4; n.os 1-2 «...»."
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 1 (substitui o do DL 23/96); n.os 2-4 «...»."
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 1; restantes «...»."
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 n.º 1; restantes «...»."
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267/98."
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96 art. 7.º: n.º 5 novo e n.os 6-8 aditados."
+   },
+   {
+    "artigo": "Artigo 38.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º."
+   },
+   {
+    "artigo": "Artigo 38.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 474-A/99 art. 37.º n.º 1: estrutura orgânica do DL 296-A/95 substituída pela do novo diploma",
+    "motivo": "substituição global não textual, sem revogação expressa nem texto para os artigos"
+   }
+  ]
+ }
+]

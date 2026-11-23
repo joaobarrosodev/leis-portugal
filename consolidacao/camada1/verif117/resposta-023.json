@@ -1,0 +1,57 @@
+[
+ {
+  "id": "pt:dre:285477:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "O artigo 1.º do Decreto-Lei n.º 290/91 dá nova redação ao artigo 1.º (inclui Francisco Gentil e 'constantes ao anexo'); consolidado igual letra a letra.",
+    "texto_esperado": "Os quadros de pessoal das Escolas de Enfermagem de Artur Ravara, Beja, Bissaia Barreto, Bragança, Calouste Gulbenkian de Braga, Calouste Gulbenkian de Lisboa, D. Ana Guedes, Dr. Ângelo da Fonseca, Dr. Lopes Dias, Faro, Francisco Gentil, Guarda, Leiria, Portalegre, Santarém, São João, São João de Deus, Viana do Castelo, Vila Real e Viseu passam a ser os constantes ao anexo ao presente decreto-lei, que dele faz parte integrante."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "O anexo (que no original está dentro deste artigo) está mal aplicado: todos os blocos titulados (Beja, Bissaia Barreto, Bragança, Braga, Guarda, Faro, Leiria, Lisboa, Portalegre, Lopes Dias, Santarém, São João, São João de Deus, Viana, Vila Real, Viseu, Ângelo da Fonseca, D. Ana Guedes) mantêm a imagem de 1988 e a Nota antiga, apesar das portarias que substituem os quadros; as 22 imagens dos alteradores aparecem soltas, sem título, entre o n.º 5 e o quadro de Francisco Gentil, e as restantes (p. ex. 110/89, 556/89, 633/89, 772/90, 922/90, 127/92, 850/92, 857/92, 1085/92... ) não aparecem. O quadro de Francisco Gentil (DL 290/91, art. 3.º) está antes da assinatura e não no fim do anexo.",
+    "texto_esperado": "Texto do n.º 1 a 5 igual ao original; no anexo, cada bloco titulado deve ficar com a imagem do alterador (e não a imagem de 1988) quando a substituição é total, ou com o corpo antigo mais as imagens do alterador quando é parcial; as imagens não podem ficar soltas sem título. Estado final esperado: Beja -> só 1999/11/268b00/81138114 (Port. 1016/99); Bissaia Barreto -> só 1999/10/235b00/67966798 (861/99); Bragança -> só 1999/11/256b00/75667567 (986/99); Faro -> só 1999/10/251b00/72607262 (939/99); Guarda -> só 1999/04/080b00/18471848 (237/99); Leiria -> só 1999/10/236b00/68266827 (876/99); Calouste Gulbenkian de Lisboa -> só 1999/04/088b00/20182020 (275/99); Portalegre -> só 1999/11/274b00/83658367 (1032/99); Santarém -> só 1999/04/080b00/18451846 (236/99); São João -> só 1999/04/088b00/20202021 (276/99); São João de Deus -> só 2000/07/167b00/34903491 (459/2000); Viana do Castelo -> só 1999/01/017b00/03680369 (34/99); Vila Real -> só 1998/09/213b00/47664768 (763/98); Viseu -> só 1999/03/069b00/16291630 (192/99); Dr. Ângelo da Fonseca -> só 1999/06/149b00/39773979 (473/99); D. Ana Guedes -> só 1999/02/032b00/07030704 (99/99); Calouste Gulbenkian de Braga (alteração parcial, Port. 471/99 'seja alterado') -> imagem 1988 + 1992/10/244b00/49234923 + 1992/12/284b00/56515651 + 1994/09/224b00/58485849 + 1999/06/149b00/39743976; Dr. Lopes Dias -> imagem 1988 + 1992/12/282b00/56125612 + 1994/08/196b00/49354936; Francisco Gentil (DL 290/91, art. 3.º) acrescentado no fim do anexo, não antes da assinatura."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Port. 1016/99 (substitui o quadro de Beja pelo mapa anexo): imagem 81138114 não está no bloco 'Escola de Enfermagem de Beja', que mantém a imagem de 1988 (supersede 1104/92, 105/95)",
+   "Port. 861/99 (substitui Bissaia Barreto): imagem 67966798 solta; o bloco mantém a imagem de 1988 (supersede 110/89, 127/92, 818/94)",
+   "Port. 986/99 (substitui Bragança): imagem 75667567 solta; bloco mantém a de 1988 (supersede 1119/92, 813/94)",
+   "Port. 939/99 (substitui Faro): imagem 72607262 solta; bloco mantém a de 1988 (supersede 133/93, 867/94)",
+   "Port. 237/99 (substitui Guarda): imagem 18471848 solta; bloco mantém a de 1988 (supersede 1228/92, 726/94)",
+   "Port. 876/99 (substitui Leiria): imagem 68266827 solta; bloco mantém a de 1988 (supersede 922/90, 1100/92, 819/94)",
+   "Port. 275/99 (substitui Calouste Gulbenkian de Lisboa): imagem 20182020 solta; bloco mantém a de 1988 (supersede 772/90, 1102/92, 811/94)",
+   "Port. 1032/99 (substitui Portalegre): imagem 83658367 solta; bloco mantém a de 1988 (supersede 633/89, 728/93, 1031/94)",
+   "Port. 236/99 (substitui Santarém): imagem 18451846 solta; bloco mantém a de 1988 (supersede 857/92, 669/94)",
+   "Port. 276/99 (substitui São João): imagem 20202021 solta; bloco mantém a de 1988 (supersede 1087/92, 810/94)",
+   "Port. 459/2000 (substitui São João de Deus): imagem 34903491 solta; bloco mantém a de 1988 (supersede 556/89, 1093/92, 714/94)",
+   "Port. 34/99 (substitui Viana do Castelo): imagem 03680369 solta; bloco mantém a de 1988 (supersede 1101/92, 717/94)",
+   "Port. 763/98 (substitui Vila Real): imagem 47664768 solta; bloco mantém a de 1988 (supersede 1085/92, 711/94)",
+   "Port. 192/99 (substitui Viseu): imagem 16291630 solta; bloco mantém a de 1988 (supersede 812/94)",
+   "Port. 473/99 (substitui Dr. Ângelo da Fonseca): imagem 39773979 solta; bloco mantém a de 1988 (supersede 850/92, 761/94)",
+   "Port. 99/99 (substitui D. Ana Guedes): imagem 07030704 solta; bloco mantém a de 1988 (supersede 1229/92, 90/95)",
+   "Port. 471/99 (altera Calouste Gulbenkian de Braga), 864/94, 1127/92 e 994/92: imagens 39743976, 58485849, 56515651, 49234923 estão soltas, sem título, em vez de ficarem no bloco de Braga a seguir ao corpo antigo",
+   "Port. 1115/92 e 769/94 (substituições parciais, Dr. Lopes Dias): imagens 56125612 e 49354936 estão soltas, em vez de ficarem no bloco de Lopes Dias a seguir ao corpo antigo",
+   "DL 290/91, art. 3.º: quadro de Francisco Gentil acrescentado ao anexo, mas colocado antes da assinatura (Visto e aprovado...) e não no fim do anexo"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Port. 744/98 (substitui o quadro de Artur Ravara pelo mapa anexo), e antes 1118/92 e 644/94 (substituições parciais)",
+    "motivo": "Só em imagem e o consolidado não tem bloco/título de Artur Ravara onde pôr a imagem; confirmado no texto dos alteradores (apenas ligação a PDF) e no consolidado (nenhum título de Artur Ravara)"
+   },
+   {
+    "instrucao": "Port. 1085/92, n.º 2.º (extinção dos lugares de técnico auxiliar de biblioteca de Vila Real)",
+    "motivo": "Não textual: o quadro está só em imagem e foi depois substituído por inteiro (763/98); a extinção incide sobre lugares dentro da imagem"
+   },
+   {
+    "instrucao": "Port. 1104/92, n.º 2.º (lugar de técnico auxiliar de biblioteca de Beja fica a extinguir quando vagar)",
+    "motivo": "Efeito adiado para facto futuro (vagatura) e não textual; quadro depois substituído por inteiro (1016/99)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "id": "pt:dre:371035:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto rectificado (Decl. Rect. 20/2002) aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: al. b) nova, n.os 3 e 4 transitados para o 6.º-A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6-A.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 119/2003 com n.os 2 e 3 anteriores n.os 3 e 4 do art. 6.º (texto rectificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Texto duplicado: após a redacção rectificada ('pelo Ministro de Estado') ficou o parágrafo antigo com 'pela Ministra de Estado'.",
+    "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação, DL 119/2003 n.º 1 e DL 176/2004 al. d) revogada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003, DL 176/2004 (n.os 2, 6, 7, 8) sobre texto rectificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Lettering e textos conferem com DL 119/2003 e DL 20/2004 sobre texto rectificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32-A.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 176/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Conforme texto rectificado e alterações aplicáveis.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (Lei 37/2003 não altera este diploma; preâmbulo e artigos iguais não verificáveis contra a rectificação além do anexo de 2004)"
+ }
+]
