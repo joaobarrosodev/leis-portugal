@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424312:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0f332416d351571c"
+   ]
+  },
+  {
+   "date": "1991-01-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469072:por",
+     "title": "Lei n.º 65/90",
+     "published": "1990-12-28",
+     "dre_path": "/dr/detalhe/lei/65-1990-469072"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "1207d317ed0a2725"
+   ]
+  }
+ ],
+ "fragments": {
+  "0f332416d351571c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nPelo presente diploma, que integra o Estatuto dos Benefícios Fiscais, estabelece-se o regime aplicável à dívida pública interna.\n\nO artigo 2.º consagra uma mudança de grande relevo nos domínios da política de financiamento do Estado e do próprio funcionamento do mercado de capitais.\n\nPassa a dívida pública a ser emitida à taxa de juro bruta, deste modo terminando a tradicional discriminação tributária entre instrumentos de captação de poupança.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea s) do artigo 4.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Aos rendimentos da dívida pública interna emitida entre 1 de Janeiro de 1989 e a data da publicação do presente diploma aplica-se a taxa de tributação que resulta do n.º 5 do artigo 3.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, como se aquela dívida tivesse sido emitida até 31 de Dezembro de 1988.\n\nArt. 2.º Os rendimentos da dívida pública interna que venha a ser emitida após a publicação do presente diploma contam apenas por 80% para fins de IRS e de IRC.\n\nArt. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros em 27 de Abril de 1989. - Aníbal António Cavaco Silva. - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 2 de Maio de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Maio de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1207d317ed0a2725": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-01-02",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), publicado em 1990-12-28."
+   ],
+   "markdown": "de 3 de Maio\n\nPelo presente diploma, que integra o Estatuto dos Benefícios Fiscais, estabelece-se o regime aplicável à dívida pública interna.\n\nO artigo 2.º consagra uma mudança de grande relevo nos domínios da política de financiamento do Estado e do próprio funcionamento do mercado de capitais.\n\nPassa a dívida pública a ser emitida à taxa de juro bruta, deste modo terminando a tradicional discriminação tributária entre instrumentos de captação de poupança.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea s) do artigo 4.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Aos rendimentos da dívida pública interna emitida entre 1 de Janeiro de 1989 e a data da publicação do presente diploma aplica-se a taxa de tributação que resulta do n.º 5 do artigo 3.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, como se aquela dívida tivesse sido emitida até 31 de Dezembro de 1988.\n\nArt. 2.º (Revogado.)\n\n> Alterado pelo/a [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), publicado em 1990-12-28.\n\nArt. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros em 27 de Abril de 1989. - Aníbal António Cavaco Silva. - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 2 de Maio de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Maio de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

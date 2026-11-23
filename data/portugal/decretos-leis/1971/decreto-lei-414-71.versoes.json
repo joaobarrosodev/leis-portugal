@@ -1,0 +1,916 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632740:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-09-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9e9c9a3f35e8219",
+    "ef58686ce0f7ae8c",
+    "0e7404ac3099733f",
+    "04272e94e982a7a6",
+    "9267799fd6590364",
+    "3fa4e51f133f94ce",
+    "126b002932f0afca",
+    "0c874251518fc5c8",
+    "49d582729f39543a",
+    "eb3d43374617d90d",
+    "d28009cf216c8f30",
+    "aaabf7cf0ee218c6",
+    "351d12d3914817b1",
+    "34a22b49fa2b0453",
+    "dcd8ca6e4d6ec00d",
+    "5550c129706ef545",
+    "6c2a815ed2fc4dff",
+    "41b2d6be2c7340e7",
+    "7b82659787470a41"
+   ]
+  },
+  {
+   "date": "1981-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:684868:por",
+     "title": "Decreto-Lei n.º 33/73",
+     "published": "1973-02-06",
+     "dre_path": "/dr/detalhe/decreto-lei/33-1973-684868"
+    },
+    {
+     "id": "pt:dre:473288:por",
+     "title": "Decreto-Lei n.º 471/74",
+     "published": "1974-09-20",
+     "dre_path": "/dr/detalhe/decreto-lei/471-1974-473288"
+    },
+    {
+     "id": "pt:dre:159875:por",
+     "title": "Decreto-Lei n.º 58/75",
+     "published": "1975-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/58-1975-159875"
+    },
+    {
+     "id": "pt:dre:407109:por",
+     "title": "Decreto n.º 823/76",
+     "published": "1976-11-13",
+     "dre_path": "/dr/detalhe/decreto/823-1976-407109"
+    },
+    {
+     "id": "pt:dre:140353:por",
+     "title": "Decreto Regulamentar n.º 18/77",
+     "published": "1977-03-07",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/18-1977-140353"
+    },
+    {
+     "id": "pt:dre:176479:por",
+     "title": "Decreto Regulamentar n.º 87/77",
+     "published": "1977-12-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/87-1977-176479"
+    },
+    {
+     "id": "pt:dre:446535:por",
+     "title": "Decreto Regulamentar n.º 7/78",
+     "published": "1978-02-20",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/7-1978-446535"
+    },
+    {
+     "id": "pt:dre:568308:por",
+     "title": "Decreto-Lei n.º 305/81",
+     "published": "1981-11-12",
+     "dre_path": "/dr/detalhe/decreto-lei/305-1981-568308"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 21.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º"
+   ],
+   "fragments": [
+    "e9e9c9a3f35e8219",
+    "8c06b946a7c4813c",
+    "101e85b5e0a3fec4",
+    "f05376d2f2ca6c9e",
+    "5e276f9396fb23d3",
+    "69b198dc3417b08e",
+    "7c7dc12c674167e2",
+    "0e7404ac3099733f",
+    "d2fc4e7da99b72ef",
+    "b66b7c57a4429dab",
+    "edad629cc8a9205d",
+    "88d49c5b0f8fad93",
+    "ca46a5b85792ee05",
+    "84b8cffb01580828",
+    "b73217d9f15647ae",
+    "a99b46fb8b67710c",
+    "76c69b10f46d22f1",
+    "f48bf38f2de0014f",
+    "d46877afe5a87820",
+    "ff1275633365864e",
+    "dca4b3a9eb135490",
+    "1bb2bc120fd3cf78",
+    "60b8283aa7f6dd2d",
+    "d4580c8bf60748b4",
+    "0b83de98431a4fab",
+    "53aedea90c3b29dd",
+    "703c5d315af54750",
+    "d454b64c190e1366",
+    "e9daaa5b8a68ed58",
+    "f2766772e4e3cb5c",
+    "454a4b5c09c1f9c4",
+    "28c268e56014de39",
+    "519cfe5c9bf8b518",
+    "d6cef694e5c6f5b0",
+    "6a9254f4bfedd375",
+    "7d0226142c9f8240",
+    "93680474fc370ef2",
+    "2839b3f791b2b96b",
+    "a24f281ca913af23",
+    "e3e599711be77d2e",
+    "0402dcb56d6e570d",
+    "739f191e53a920d6",
+    "d1d9817d3c8bc704",
+    "a5b80d465d485afe",
+    "4ca499a222532016",
+    "6964e38c372b2ea0",
+    "a52ba033d43b1794",
+    "fa6dc9a78fce48a8",
+    "f9e22715d4408f65",
+    "e1c12c50d1103e9b",
+    "ef1f225b1784d8e7",
+    "ea483092261b1a62",
+    "a8d092dd360ed2c3",
+    "0c2b2562af8c8f9f",
+    "0bb7ea4ca820042b",
+    "a1e38a85da77677f",
+    "e747f592e81e757d",
+    "81f0ea7a65317dd7",
+    "16a82c4f8b13de57",
+    "eaa144b1f0ade111",
+    "4c32c2640fd4f728",
+    "861e74fd3c0232b7",
+    "3362ed67e85619cd",
+    "2366269dd05a913a",
+    "85ee4fd898e76de9",
+    "2577a4cdb39c6f06",
+    "3502f0a2685332e5",
+    "0655d3adb2548752",
+    "4a98a6ea55d04814",
+    "a558978989593160",
+    "7793035404cabf9e"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9e9c9a3f35e8219": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Setembro\n\n1. O presente diploma estabelece o regime legal que vai permitir a estruturação progressiva e o funcionamento regular de carreiras profissionais para os diversos grupos diferenciados de funcionários que prestam serviço no Ministério da Saúde e Assistência, de acordo com o estabelecido no n.º 2 do artigo 63.º do seu diploma orgânico.\n\nEmbora corresponda, no essencial, a um princípio de organização do trabalho, a medida não pretende esgotar as iniciativas que, por outras vias, ajudem a encaminhar os serviços para a actuação plena e eficaz. Insere-se, antes, num conjunto de providências interdependentes, por meio das quais o Governo deseja efectivar uma política de saúde e assistência social que, obedecendo aos modernos princípios de administração de saúde pública, comporte a possibilidade de franca adaptação evolutiva e tenha em conta as condições existentes.\n\nA experiência mostra que, quando se quer concretizar aquela política e passar da fase de planos ou de programas à fase de execução, não se podem ignorar as limitações impostas pelos condicionalismos humanos e materiais, nem a dificuldade de remover aquelas ou adequar estes em curto prazo de tempo.\n\n2. Aceitou-se o princípio da organização de carreiras profissionais por corresponder ao método que se afigura mais apto para proporcionar, simultâneamente, estímulo e compensação dos esforços exigidos aos funcionários, a desejável justiça nos respectivos acessos e o criterioso rigor no recrutamento.\n\nFrente ao desenvolvimento da ciência e ao progresso das técnicas, as actividades a promover no campo da saúde e da assistência social não se compadecem já com improvisações nem, por isso mesmo, com o preenchimento incondicionado dos cargos. Reclamam-se habilitações apropriadas à diferenciação de tarefas e uma actualização permanente, aliás segundo ritmos cada vez mais acelerados. Entretanto, as oportunidades oferecidas pela multiplicidade de opções patentes numa sociedade em crescimento conduzem, quase como regra, a privar o serviço público dos seus elementos mais qualificados ou, quando menos, a afectarem-no por um factor de inércia que importa, a todo o custo, evitar.\n\nDaí pensar-se que a instituição de carreiras profissionais devidamente estruturadas e hierarquizadas, mercê do factor de segurança que o próprio método confere, permitindo a satisfação das legítimas expectativas até pela certeza antecipada da meticulosidade das escolhas a que dá lugar, designadamente pela imposição da observância de normas certas e conhecidas no recrutamento e promoção de funcionários, constitua meio importante para o aliciamento dos necessários valores e dinamização dos existentes, bem como para a reordenação e funcionalização das actuais estruturas e correcção dos seus vícios mais importantes.\n\nEsboço de carreiras encontra-se, sem dúvida, desde longa data, no domínio do que habitualmente se designa saúde pública. Com uma organização local cheia de tradições, primeiro arrimada às instituições municipais, tem mantido, ao longo do tempo, a sua tradição essencial, a despeito das alterações de vária orientação que sucessivas reformas foram, de década a década, introduzindo. Os serviços de saúde pública - precisamente aqueles a que maiores responsabilidades hão-de ser exigidas no quadro das decisões políticas tomadas - necessitam, inequìvocamente, de institucionalizar as regras de recrutamento, acesso e hierarquização de cargos de que, na ordem dos factores ou em virtude de disposições legais não dirigidas especìficamente a este fim, já, de alguma maneira, dispõem.\n\nAcrescentar-se-á que idêntica situação se observa, também, embora em menor grau, pelo que se refere aos serviços centrais da correspondente Direcção-Geral de Saúde.\n\nNão existem tradições similares quanto aos serviços dos hospitais, com excepção dos Hospitais Civis de Lisboa, mas, em contrapartida, tem o legislador ensaiado, a esse respeito, tentativas diversas de ordenação. É exemplo recente a instituição da carreira médica hospitalar.\n\nNum momento em que a juventude parece interessada em participar mais ìntimamente na causa social, convém, sobretudo, que se lhe não neguem as possibilidades de actuação no quadro das instituições da sociedade organizada, as quais, por isso mesmo, hão-de abrir-se-lhe e oferecer-lhe as devidas oportunidades.\n\nA revisão das carreiras hospitalares - em especial da carreira médica hospitalar - é encarada neste contexto como um dos aspectos a que se deve dedicar maior atenção. As intenções que a inspiraram resultam claras e desejar-se-ia que os processos adoptados pudessem mostrar-se, se não já como os mais válidos, pelo menos como os de maiores virtualidades, no sentido de encaminharem para a oportuna adopção de soluções que, sendo as melhores, se mostrem também exequíveis.\n\nA par dessas duas carreiras fulcrais - a carreira médica de saúde pública e a carreira médica hospitalar -, incorporam-se no presente diploma os regimes aplicáveis a outras carreiras que há necessidade urgente de instituir nos diferentes sectores do Ministério.\n\n3. De acordo com a perspectiva que orientou a reforma orgânica do Ministério da Saúde e Assistência e que inspirará os seus futuros planos, centra-se a programação de base nas actividades nucleares de saúde pública, em que se compreendem as formas de promoção da saúde e prevenção da doença e os tratamentos que, pela sua natureza, não carecem de serviços hospitalares diferenciados e, por isso, não devem ser-lhes entregues. Esta estratégia determina a criação de órgãos de trabalho unificado, promotores das integrações, gradualmente recomendáveis, de serviços locais de saúde e assistência e coordenadores das respectivas actividades - os centros de saúde -, que irão constituir os núcleos do novo sistema de cobertura médico-sanitária.\n\nJustifica-se, por isso mesmo, que a aplicação da carreira médica de saúde pública fique dependente, quanto aos serviços locais, da constituição dos referidos centros. Manifesta-se, assim, o propósito de fazer aplicação das carreiras apenas onde outras medidas complementares, de reestruturação de serviços, permitam retirar delas o desejado proveito. Na mesma ordem de ideias, considerou-se que, a outros níveis territoriais - mais concretamente ao nível de distrito -, a existência imediata de adequadas estruturas poderia, desde já, conjugar-se com a aplicação também imediata dos correspondentes graus da carreira. Teve-se, ainda, em conta o facto de os funcionários actualmente colocados no escalão possuírem já, por exigência legal anterior, os requisitos que se consideram suficientes.\n\nPelo que respeita aos serviços centrais da Direcção-Geral de Saúde, foi igualmente ponderado este último aspecto, enquanto, por outro lado, atenta a natureza própria das funções a desempenhar nesse âmbito, a graduação foi gizada, tanto quanto possível, em paralelo com as hierarquizações observáveis de acordo com as regras gerais da Reforma Administrativa.\n\nFormulam-se as mais fundadas esperanças de que o sistema geral adoptado concorra fortemente para a obtenção dos fins visados pela reforma orgânica.\n\n4. A carreira médica hospitalar aparece dividida em dois grandes escalões, assegurando um os quadros permanentes e respeitando o outro a quadros provisórios de preparação. Faz-se, no novo regime, corresponder os quadros provisórios apenas aos períodos do internato - ou seja da preparação pós-licenciatura, que habilita ao exercício especializado. Admite-se, entretanto, uma graduação menor que a da especialização e, por isso, mediante preenchimento de requisitos adequados ao caso, facilitam-se, aos médicos que apenas hajam concluído o internato policlínico, actividades profissionais que não requeiram maior preparação. Extingue-se a categoria, até à data também não permanente, de «graduado», por se entender que, terminada a referida fase de preparação, o médico não deve mais continuar em situações precárias, cabendo-lhe optar pelo exercício de clínica livre da especialidade, o ingresso na carreira de saúde pública e o acesso na carreira hospitalar. Estabelecem-se condicionamentos para a permanência nos quadros dos hospitais e igualmente se condiciona a entrada na carreira de saúde pública; são limitações que, evidentemente, não deveriam ser ignoradas. É deixado, em contrapartida, aos organismos profissionais o estabelecimento das exigências que se lhes afigurem indispensáveis quanto ao exercício da profissão liberal ou de actividades por conta de outrem.\n\nAtento o facto de estar em vigor um regime relativo à carreira hospitalar, houve que regular situações transitórias. Assegura-se a passagem dos médicos dos actuais quadros permanentes para as novas situações criadas pelo regime agora decretado e adopta-se, relativamente aos quadros provisórios, o processo que maiores oportunidades de formação parece oferecer aos internos, com o máximo de facilidades de trânsito do anterior regime para o novo, mas sem prejuízo de, se assim o entenderem, continuarem a regular-se pelo que, à data deste diploma, lhes era aplicável. Tem-se, porém, a convicção de que os benefícios do novo regime ràpidamente farão desaparecer as situações transitórias.\n\nNão se proporcionou idêntica regalia aos «graduados» por não pertencerem a quadros permanentes nem lhes corresponder completa equiparação no novo sistema de graus, nem - o que pareceu ainda mais importante - lhes ficar vedado que concorram aos quadros permanentes dos hospitais centrais e dos hospitais distritais.\n\nEm obediência ao mesmo critério seguido na aplicação dos primeiros graus da carreira médica de saúde pública, também quanto à carreira médica hospitalar se faz depender da sua plena execução do facto de os serviços serem considerados aptos para o efeito. É uma linha de orientação que permite, para mais, conciliar a justiça e eficácia das novas medidas com o necessário escalonamento, no tempo, de inevitáveis e muito pesados encargos financeiros. Irão, pois, estes sendo assumidos à medida que a produtividade dos serviços, criteriosamente apreciada, torne justificável que o País os suporte.\n\nEsclarece-se, entretanto, que foi programada já uma reestruturação por via da qual vão atingir-se as condições que permitam, dentro de poucos anos, considerar aptos, pelo menos, todos os serviços dos hospitais centrais.\n\nAinda quanto à carreira médica hospitalar, refere-se que houve a intenção de respeitar o espírito de corpo dos vários hospitais, sem prejuízo de procurar introduzir-se a conveniente normalização que os encaminhe para padrões unitários de funcionamento.\n\n5. Em ligação indispensável com os serviços de actuação médica, quer no campo hospitalar, quer no da saúde pública, encontram-se os correspondentes serviços de enfermagem. Considera-se, na verdade, de primordial importância o papel do enfermeiro em todos os serviços preventivos ou curativos, e importa promover a atracção do maior número possível de elementos válidos para as carreiras de enfermagem, bem como o aperfeiçoamento permanente dos respectivos profissionais\n\nA reorganização de serviços atende a essa complementaridade e, por isso, julgou-se imprescindível que, paralelamente, fosse a situação profissional da enfermagem revista na oportunidade do presente diploma. Corrigem-se, assim, níveis de vencimentos que não tenham sido recentemente revistos e introduz-se maior perfeição no regime de recrutamento e acesso, trazendo, com essas medidas, prestígio e maiores atractivos às carreiras de enfermagem de saúde pública e de enfermagem hospitalar.\n\n6. Foram, igualmente, consideradas as carreiras de outros técnicos de diversos níveis, cujas funções, na maior parte predominantemente complementares ou auxiliares, é preciso assegurar para completo e harmonioso funcionamento do conjunto sistemático do trabalho nos campos da saúde pública, dos hospitais e da assistência, incluindo a do serviço social.\n\nEstabelecem-se ainda as normas para a criação de outras carreiras, à medida que estas se tornem aconselháveis.\n\n7. O regime do presente diploma comporta a possibilidade de sucessivos aperfeiçoamentos. Observou-se, para cada carreira, o grau de estruturação definida que a experiência permitiu ou aconselhou. Nos casos de profissões auxiliares, prescreveram-se, por isso, esquemas mais maleáveis, a aplicar e desenvolver em paralelo com os avanços que se obtenham de medidas de formação de pessoal dessa natureza. Pretendeu-se, contudo, salvaguardar, ainda nesta hipótese, o devido respeito por critérios de graduação que não alterem o equilíbrio do conjunto.\n\n8. Do que fica exposto infere-se ainda que, de facto, não se conferiu ao regime do presente diploma o carácter de uma medida rígida isolada, que deve ele ser interpretado à luz de uma política de saúde e assistência social progressiva, com mais vastos propósitos, e que também apenas nesse contexto, de iniciativas concertadas, pode obter-se da sua execução gradual o mais amplo resultado.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ef58686ce0f7ae8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Organização das carreiras profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Organização das carreiras profissionais\n\nArtigo 1.º De harmonia com o disposto no n.º 2 do artigo 63.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, são definidas pelo presente diploma as condições de ingresso, graduação e acesso nas carreiras profissionais do Ministério da Saúde e Assistência.\n\nArt. 2.º As carreiras profissionais organizam-se por graus e classificam-se em três tipos:\n\nTipo 1 - De profissionais com habilitação de licenciatura universitária;\n\nTipo 2 - De profissionais com habilitação técnica devidamente titulada;\n\nTipo 3 - De profissionais com habilitação para cargos de pessoal administrativo.\n\nArt. 3.º - 1. Os graus das carreiras do tipo 1 distribuem-se da letra J à letra C, consoante a escala de vencimentos do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.\n\n2. Os graus das carreiras do tipo 2 distribuem-se da letra R à letra F, correspondendo as categorias acima da letra J a lugares de chefia ou de técnicos de serviços centrais.\n\n3. Os graus das carreiras do tipo 3 distribuem-se da letra U à letra F.\n\n4. Nas carreiras que venham a ser criadas observar-se-ão as graduações estabelecidas no presente diploma, tendo em atenção os requisitos de ingresso e a natureza das funções dos profissionais abrangidos.\n\nArt. 4.º - 1. São estabelecidas as seguintes carreiras profissionais:\n\na) Do tipo 1:\n\nCarreira médica de saúde pública;\n\nCarreira médica hospitalar;\n\nCarreira farmacêutica;\n\nCarreira de administração hospitalar;\n\nCarreira de técnicos superiores de laboratório.\n\nb) Do tipo 2:\n\nCarreira de ensino de enfermagem;\n\nCarreira de enfermagem de saúde pública;\n\nCarreira de enfermagem hospitalar;\n\nCarreira de técnicos terapeutas;\n\nCarreira de técnicos de serviço social;\n\nCarreira de técnicos auxiliares de laboratório;\n\nCarreira de técnicos auxiliares sanitários.\n\n2. As carreiras do tipo 3 regem-se pelas normas gerais aplicáveis ao pessoal administrativo.\n\nArt. 5.º Os graus, categorias e vencimentos das carreiras profissionais a que se refere o n.º 1 do artigo anterior constam dos mapas anexos ao presente diploma."
+  },
+  "0e7404ac3099733f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Ingresso e acesso"
+  },
+  "04272e94e982a7a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Carreira médica de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Carreira médica de saúde pública\n\nArt. 6.º - 1. Nos serviços locais da Direcção-Geral de Saúde, o ingresso na carreira médica de saúde pública faz-se por concurso documental, pelas categorias de subdelegado de saúde (grau 2) ou de delegado de saúde de 2.ª classe (grau 3).\n\n2. Podem concorrer ao lugar de subdelegado de saúde os médicos com esta denominação na vigência da lei anterior ao presente diploma, os médicos municipais e os médicos com, pelo menos, dois anos de prática rural, preferindo, porém, aqueles que, embora sem este requisito, hajam completado com aproveitamento o internato geral ou de policlínica.\n\n3. O exercício do cargo de subdelegado de saúde depende de habilitação com um curso de saúde pública.\n\n4. Os médicos nomeados subdelegados de saúde que não possuam a habilitação referida no número anterior deverão obtê-la frequentando o primeiro curso intensivo que se realizar após a nomeação.\n\n5. A frequência do curso é equiparada, para todos os efeitos, ao exercício de funções.\n\n6. O não aproveitamento, ou a falta de frequência do curso a que se refere o número anterior, implica, salvo casos de doença ou de força maior devidamente justificada, a rescisão do contrato.\n\n7. Podem concorrer ao lugar de delegado de saúde de 2.ª classe, pela seguinte ordem de preferência:\n\na) Os médicos que, além de terem completado com aproveitamento o internato das especialidades de medicina interna, pediatria, obstetrícia, ginecologia, pneumotisiologia, cardiologia ou psiquiatria, estejam habilitados ou se habilitem, nos termos do disposto nos n.os 4 a 6 deste artigo, com um curso de saúde pública;\n\nb) Os médicos que, além de terem completado com aproveitamento o internato de policlínica, estejam habilitados ou se comprometam a habilitar-se, de acordo com o disposto nos n.os 4 a 6 deste artigo, com um curso de saúde pública;\n\nc) Os subdelegados de saúde referidos no n.º 2 deste artigo.\n\nArt. 7.º O provimento do lugar de delegado de saúde de 1.ª classe é feito, por concurso documental, de entre os delegados de saúde de 2.ª classe e, na sua falta, de entre os médicos referidos no número anterior e pela mesma ordem de preferência.\n\nArt. 8.º - 1. O acesso à categoria de director de saúde efectua-se mediante concurso de habilitação e de provimento.\n\n2. Ao concurso de habilitação, com prestação de provas, válido por três anos, poderão concorrer os delegados de saúde e os médicos dos serviços centrais do grau 4.\n\n3. No caso de o concurso ficar deserto ou de o número de concorrentes aprovados ser inferior ao de vagas a prover, abrir-se-á novo concurso, ao qual poderão concorrer os médicos referidos no n.º 7 do artigo 6.º\n\n4. Ao concurso de provimento, documental, são admitidos, desde que possuam o curso geral de saúde pública, os candidatos classificados no concurso de habilitação, preferindo os de maior classificação e, em caso de igualdade, os mais classificados naquele curso.\n\nArt. 9.º Os profissionais da carreira médica de saúde pública colocados em serviços locais podem ter acesso aos serviços centrais, aplicando-se para o efeito o disposto no n.º 2 do artigo 10.º\n\nArt. 10.º - 1. Nos serviços centrais da Direcção-Geral de Saúde o ingresso na carreira médica de saúde pública faz-se, por concurso documental:\n\na) Pela categoria de estagiário de saúde pública (grau 1), de entre os licenciados em Medicina, gozando de preferências os que hajam obtido aprovação no internato geral ou de policlínica;\n\nb) Pela categoria de técnico de saúde pública de 3.ª classe (grau 2), de entre os licenciados em Medicina que possuam a habilitação do curso geral de saúde pública, sendo motivo de preferência o referido na alínea anterior.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Por concurso documental, do grau 1 ao grau 2, mediante a habilitação do curso geral de saúde pública;\n\nb) Por concurso documental, do grau 2 ao grau 3;\n\nc) Por concurso com prestação de provas, do grau 3 ao grau 4;\n\nd) Por concurso de provas públicas de apreciação e discussão do currículo e de uma dissertação, do grau 4 ao grau 6;\n\ne) Por livre escolha do Ministro da Saúde e Assistência, do grau 6 ao grau 7, de entre os graduados dos serviços centrais ou locais."
+  },
+  "9267799fd6590364": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Carreira médica hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Carreira médica hospitalar\n\nArt. 11.º - 1. A carreira médica hospitalar inicia-se pelo internato.\n\n2. O internato, que terá regulamento próprio, aprovado por portaria do Ministro da Saúde e Assistência, compreende dois graus:\n\nGrau 1 - Internato de policlínica;\n\nGrau 2 - Internato de especialidades.\n\n3. Para efeitos do disposto no presente diploma, a medicina interna e a cirurgia geral são consideradas especialidades.\n\nArt. 12.º - 1. O internato de policlínica é aberto aos licenciados em Medicina com idade não superior a 35 anos.\n\n2. O internato de policlínica terá a duração mínima de catorze meses, fixada por despacho ministerial de acordo com as condições do hospital onde se efectue.\n\n3. O aproveitamento do internato de policlínica será apreciado em função das informações dos serviços e de exame final, que se efectuará de harmonia com o regulamento do internato e do qual se passará certificado.\n\n4. O não aproveitamento, bem como a falta ao exame final ou a exclusão neste, implicam perda total de vencimento durante o período de repetição, que será único, excepto quando o facto se deva a doença ou caso de força maior devidamente justificado.\n\nArt. 13.º - 1. A admissão ao internato de especialidades efectua-se por concurso com prestação de provas, nos termos do regulamento, de entre os médicos que hajam obtido aprovação no internato geral ou de policlínica há menos de três anos, exceptuados os casos de comissão de serviço militar.\n\n2. O número de vagas em cada ano será fixado por despacho ministerial, tendo em atenção as necessidades nacionais em cada especialidade e a capacidade e possibilidades dos hospitais.\n\n3. Um terço das vagas fixadas, no conjunto dos hospitais, para as especialidades de medicina interna, pediatria, obstetrícia, ginecologia, pneumotisiologia, cardiologia e psiquiatria são reservadas aos médicos de saúde pública que exerçam a sua profissão nos serviços locais há mais de um ano e aos que, em prestação de serviço militar, hajam desempenhado funções nas províncias ultramarinas.\n\n4. As vagas previstas no número anterior que não forem preenchidas nos termos nele estabelecidos sê-lo-ão conforme as regras gerais.\n\n5. O internato de especialidade tem a duração de dois a cinco anos, fixada, para cada especialidade, por portaria do Ministro da Saúde e Assistência, ouvidas a Comissão Médica dos Hospitais Gerais, o Conselho Nacional do Internato Médico e a Ordem dos Médicos.\n\n6. O aproveitamento no internato de especialidades será apreciado anualmente pela informação dos serviços e, no seu termo, por exame final, de provas teóricas e práticas, efectuado de harmonia com o regulamento.\n\n7. Da aprovação no exame final será passado certificado, o qual constitui documento bastante para a inscrição na Ordem dos Médicos na especialidade respectiva.\n\n8. A falta de aproveitamento num ano implica perda total do vencimento durante o ano de repetição, excepto quando se deva a doença ou caso de força maior devidamente justificado.\n\nArt. 14.º - 1. Os médicos aprovados no internato geral ou de policlínica que não possam ser admitidos ao de especialidades nos termos do artigo anterior, por falta de vagas, poderão, porém, frequentá-lo a título voluntário.\n\n2. Os médicos admitidos ao abrigo do número anterior frequentarão o internato de especialidades em condições iguais às aplicáveis aos admitidos em vagas, mas sem direito a vencimento.\n\n3. A admissão e a distribuição dos referidos médicos pelas várias especialidades e hospitais serão, todavia, condicionadas pela capacidade e possibilidades dos serviços, de modo a não perturbar o seu conveniente funcionamento nem a eficiente preparação dos internos.\n\nArt. 15.º - 1. Os lugares dos graus 4 a 7, dos hospitais centrais, e 4 e 5, dos hospitais distritais, fazem parte dos respectivos quadros de pessoal permanente.\n\n2. O ingresso nos quadros de pessoal permanente faz-se pela categoria de especialista dos hospitais.\n\n3. O Ministro da Saúde e Assistência poderá, sob proposta de cada hospital e para satisfazer necessidades dos serviços, autorizar, até à realização dos respectivos concursos, a admissão, nas vagas de especialistas, de médicos que tenham terminado o internato das especialidades respectivas.\n\n4. A admissão a que se refere o número anterior é feita pelo período de um ano, renovável, até ao máximo de três, dependendo a renovação do contrato da qualificação da actividade exercida.\n\nArt. 16.º - 1. O ingresso nos quadros de pessoal permanente dos hospitais distritais faz-se por concurso documental, observadas as condições de preferência estabelecidas no número seguinte.\n\n2. Gozam de preferência na admissão aos quadros permanentes dos hospitais distritais:\n\na) Os médicos que hajam obtido maior classificação no internato complementar ou de especialidades;\n\nb) Em igualdade de classificação, os que hajam adquirido preparação especial, ou hajam desempenhado funções de saúde pública nos serviços locais ou, em prestação de serviço militar, nos serviços de saúde das províncias ultramarinas.\n\n3. Aos concursos para ingresso nos quadros de pessoal permanente dos hospitais distritais são também admitidos os médicos a que a respectiva Ordem haja conferido o título de especialista, observando-se, na parte aplicável, o disposto na alínea b) do número anterior.\n\n4. O ingresso nos quadros de pessoal permanente dos hospitais centrais faz-se, de entre os médicos aprovados no internato das respectivas especialidades, por concurso com prestação de provas públicas.\n\nArt. 17.º O acesso à categoria de chefe de serviço dos hospitais centrais (grau 5) efectua-se de entre os médicos do grau 4 da respectiva especialidade, por concurso documental\n\nArt. 18.º - 1. O acesso à categoria de director de serviço dos hospitais distritais (grau 5) efectua-se de entre os médicos dos graus 4 e 5 dos hospitais centrais e do grau 4 dos distritais, da respectiva especialidade, por concurso de provas públicas de apreciação do currículo e de uma dissertação, sendo esta facultativa para os do primeiro grupo.\n\n2. O acesso à categoria de director de serviço dos hospitais centrais (grau 6) efectua-se de entre os médicos dos graus 4 e 5 dos mesmos hospitais e do grau 5 dos distritais, da respectiva especialidade, por concurso de provas públicas de apreciação do currículo e de uma dissertação.\n\nArt. 19.º O provimento do lugar de director de departamento é feito pelo Ministro da Saúde e Assistência, sob proposta do director do hospital respectivo, de entre os directores e chefes de serviço do próprio hospital ou os directores de departamento e de serviço dos restantes hospitais centrais.\n\nArt. 20.º - 1. Os concursos para acesso nos lugares dos quadros do pessoal permanente dos hospitais centrais são feitos em cada hospital, podendo para o efeito ser dispensada aos grupos e nos centros hospitalares e no conjunto dos hospitais escolares a constituição de júris nos termos do n.º 3 do artigo 47.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.\n\n2. Para os hospitais distritais, os concursos a que se refere o número anterior serão de âmbito nacional e organizados pela Direcção-Geral dos Hospitais.\n\n3. Sob proposta do director do hospital e com parecer favorável da respectiva comissão médica, podem, porém, os lugares ser providos, por transferência de outros hospitais, em médicos da categoria correspondente."
+  },
+  "3fa4e51f133f94ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Carreira farmacêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Carreira farmacêutica\n\nArt. 21.º - 1. A carreira farmacêutica inicia-se pela categoria de técnico farmacêutico estagiário, por concurso documental, de entre os licenciados em Farmácia, constituindo razão de preferência a maior classificação da licenciatura.\n\n2. O primeiro ano de serviço como estagiário constituirá período de prova, findo o qual, consoante as informações dos serviços, os contratos poderão ser renovados ou serão rescindidos.\n\n3. Os contratos dos estagiários só poderão ser renovados pelo máximo de três períodos anuais.\n\n4. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Por concurso com prestação de provas, teóricas e práticas, do grau 1 ao grau 2;\n\nb) Por concurso documental, do grau 2 ao grau 3 e deste ao grau 4;\n\nc) Por concurso de provas públicas de apreciação do currículo e de uma dissertação, do grau 4 ao grau 6.\n\nArt. 22.º - 1. O acesso à categoria de técnico farmacêutico de 3.ª classe (grau 2) efectua-se mediante concursos de habilitação e de provimento.\n\n2. Ao concurso de habilitação, com prestação de provas teóricas e práticas, de acordo com o disposto na alínea a) do n.º 4 do artigo anterior, poderão concorrer os estagiários cujo contrato inicial haja sido renovado e os farmacêuticos que tenham completado o número máximo de períodos referido no n.º 3 do mesmo artigo.\n\n3. Ao concurso de provimento, documental, são admitidos os candidatos classificados no concurso de habilitação preferindo os de maior classificação.\n\nArt. 23.º Nos serviços centrais, o provimento do lugar de director de serviço far-se-á por livre escolha do Ministro da Saúde e Assistência, de entre os graduados do grau 6 dos hospitais centrais."
+  },
+  "126b002932f0afca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Carreira de administração hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Carreira de administração hospitalar\n\nArt. 24.º A carreira de administração hospitalar rege-se pelas disposições constantes do Regulamento Geral dos Hospitais, segundo a redacção dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro."
+  },
+  "0c874251518fc5c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Carreira de técnicos superiores de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Carreira de técnicos superiores de laboratório\n\nArt. 25.º - 1. O ingresso na carreira de técnicos superiores de laboratório faz-se, por concurso documental:\n\na) Pelo grau 1, para os licenciados com um curso superior de natureza adequada;\n\nb) Pelo grau 2, para os licenciados referidos na alínea anterior com, pelos menos, três anos de prática profissional contínua e experiência comprovada;\n\nc) Pelo grau 4, para os indivíduos que possuam o grau de doutor por uma Universidade portuguesa ou por uma Universidade estrangeira, quando equiparado aquele, nos termos da legislação em vigor, para os professores auxiliares das Universidades e primeiros-assistentes da Escola Nacional de Saúde Pública e de Medicina Tropical e ainda para os licenciados que possuam excepcional currículo científico em actividades de investigação no sector a que respeitarem as correspondentes vagas;\n\nd) Pelo grau 6, para os professores extraordinários das Universidades ou da Escola Nacional de Saúde Pública e de Medicina Tropical, para os indivíduos que possuam o título de agregado das Universidades e para os licenciados que possuam excepcional currículo científico em actividades de investigação no âmbito das respectivas especialidades.\n\n2. As normas aplicáveis à apreciação do currículo dos candidatos referidos na alínea b) e na parte final das alíneas c) e d) do número anterior serão as constantes do Regulamento do Instituto Nacional de Saúde.\n\n3. O primeiro ano de serviço como estagiário constituirá período de prova, findo o qual, consoante as informações dos serviços, os contratos poderão ser renovados ou serão rescindidos.\n\n4. As normas aplicáveis à forma de prestação e à apreciação da qualidade do serviço dos estagiários serão as constantes do Regulamento do Instituto Nacional de Saúde.\n\n5. Os contratos dos estagiários só poderão ser renovados pelo máximo de dois períodos anuais.\n\n6. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais dos graus imediatamente inferiores e de acordo com o seguinte:\n\na) Por concurso documental, do grau 1 aos graus 2 e 3 e do grau 2 ao grau 3;\n\nb) Por concurso com prestação de provas de aptidão profissional, dos graus 2 e 3 ao grau 4, do grau 4 ao grau 5 e dos graus 4 e 5 ao grau 6.\n\nArt. 26.º - 1. O provimento do lugar de técnico de laboratório de 3.ª classe é feito de entre os estagiários com, pelo menos, um ano de bom e efectivo serviço e os licenciados referidos na alínea b) do n.º 1 do artigo anterior.\n\n2. O provimento do lugar de técnico de laboratório de 2.ª classe efectua-se, pela seguinte ordem de preferência, de entre:\n\na) Os técnicos de 3.ª classe com, pelo menos, um ano de bom e efectivo serviço na classe;\n\nb) Os estagiários com, pelo menos, dois anos de bom e efectivo serviço.\n\n3. Aos concursos para o lugar de técnico de 1.ª classe podem ser admitidos, desde que possuam currículo na matéria do sector a que respeitem as vagas, além dos indivíduos referidos na alínea c) do n.º 1 do artigo anterior:\n\na) Os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os assistentes das Universidades com, pelo menos, quatro anos de bom e efectivo serviço na categoria e os segundos-assistentes ou assistentes de 2.ª classe de outras escolas superiores e de institutos de investigação com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nc) Os professores auxiliares, os primeiros-assistentes ou assistentes de 1.ª classe, dos organismos a que se refere a alínea anterior.\n\n4. Aos concursos para o lugar de técnico especialista podem ser admitidos, desde que possuam currículo na matéria da respectiva especialidade:\n\na) Os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os professores auxiliares das Universidades, primeiros-assistentes ou assistentes de 1.ª classe de outras escolas superiores ou de institutos de investigação, com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nc) Os técnicos especialistas, ou equiparados, dos organismos a que se refere a alínea anterior.\n\n5. Aos concursos para o lugar de investigador podem ser admitidos, desde que possuam currículo na respectiva especialidade, além dos indivíduos referidos na alínea d) do n.º 1 do artigo anterior:\n\na) Os técnicos especialistas com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os técnicos de 1.ª classe com, pelo menos, seis anos de bom e efectivo serviço nesta categoria;\n\nc) Os técnicos especialistas, ou equiparados, de Universidades ou institutos de investigação com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nd) Os investigadores, ou equiparados, dos organismos a que se refere a alínea anterior.\n\nArt. 27.º - 1. Em serviços de hospitais centrais e distritais cuja dimensão e complexidade técnica o justifiquem poderão os lugares de técnicos ser preenchidos de acordo com as regras dos números seguintes:\n\n2. O ingresso faz-se, por concurso documental:\n\na) Pelo grau 1, para os licenciados com um curso superior de natureza adequada;\n\nb) Pelos graus 2 e 3, para os licenciados em Medicina que hajam completado com aproveitamento o internato de especialidades.\n\n3. É aplicável aos técnicos superiores a que se refere o presente artigo o disposto nos n.os 3 a 5 do artigo 25.º\n\n4. O acesso far-se-á, quanto a cada grau, de acordo com o disposto, na parte aplicável, no n.º 6 do artigo 25.º\n\nArt. 28.º - 1. O provimento do lugar de técnico de 3.ª classe é feito de entre os estagiários com, pelo menos, um ano de bom e efectivo serviço e os médicos referidos na alínea b) do n.º 2 do artigo anterior.\n\n2. O provimento do lugar de técnico de 2.ª classe efectua-se, pela seguinte ordem de preferência, de entre:\n\na) Os técnicos de 3.ª classe providos ao abrigo do disposto na segunda parte do n.º 1 deste artigo;\n\nb) Os médicos referidos na alínea b) do n.º 2 do artigo anterior;\n\nc) Os restantes técnicos de 3.ª classe com, pelo menos, um ano de bom e efectivo serviço na classe;\n\nd) Os estagiários com, pelo menos, dois anos de bom e efectivo serviço.\n\n3. Podem ser admitidos aos concursos para o lugar de técnico de 1.ª classe os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria.\n\n4. Aos concursos para o lugar de técnico especialista podem ser admitidos os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria, desde que possuam currículo na matéria da respectiva especialidade."
+  },
+  "49d582729f39543a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Carreira de ensino de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Carreira de ensino de enfermagem\n\nArt. 29.º As normas aplicáveis ao ingresso e acesso na carreira de ensino de enfermagem são as constantes do artigo 5.º do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967."
+  },
+  "eb3d43374617d90d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Carreira de enfermagem de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Carreira de enfermagem de saúde pública\n\nArt. 30.º - 1. O ingresso na carreira de enfermagem de saúde pública faz-se, por concurso documental, pelo grau 1, para os diplomados com o curso de auxiliar de enfermagem aprovados num curso intensivo de enfermagem de saúde pública apropriado, ou para os indivíduos habilitados com o 2.º ciclo dos liceus ou equivalente e o curso de auxiliares de saúde pública, e pelo grau 4, para os diplomados do curso de enfermagem de saúde pública ou diplomados do curso geral de enfermagem aprovados num curso adequado de saúde pública.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2, por concurso documental, mediante, pelo menos, um ano de bom e efectivo serviço;\n\nb) Dos graus 1 e 2 ao grau 4, por concurso documental, mediante, pelo menos, respectivamente, três anos e um ano de bom e efectivo serviço na classe e aprovação em curso adequado, sendo os candidatos do grau 1 admitidos sòmente na falta de candidatos do grau 2;\n\nc) Do grau 4 ao grau 6, por concurso de provas públicas;\n\nd) Do grau 6 ao grau 8, por nomeação, sob proposta do director-geral de Saúde, de entre os que possuam a habilitação de um curso adequado.\n\nArt. 31.º - 1. O ingresso na categoria de técnico de enfermagem de saúde pública de 2.ª classe (grau 8 dos serviços centrais) faz-se, por concurso documental, de entre os profissionais dos graus 6 e 8 dos serviços locais que preencham os seguintes requisitos:\n\na) Terem completado o 3.º ciclo dos liceus ou equivalente;\n\nb) Terem sido aprovados num curso de administração para enfermeiros de saúde pública;\n\nc) Haverem prestado, pelo menos, dois anos de serviço de enfermagem de saúde pública em actividades externas dos serviços.\n\n2. O acesso do grau 8 ao grau 9 far-se-á por concurso de provas públicas.\n\n3. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 8 dos serviços locais que reúnam os requisitos constantes das alíneas do n.º 1 deste artigo."
+  },
+  "d28009cf216c8f30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Carreira de enfermagem hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Carreira de enfermagem hospitalar\n\nArt. 32.º - 1. O ingresso na carreira de enfermagem hospitalar faz-se por concurso documental, pelo grau 1, para os diplomados com o curso de auxiliar de enfermagem, e pelo grau 3, para os diplomados com o curso geral, salvo quando o curso exija como habilitação o 3.º ciclo liceal, em que o ingresso poderá fazer-se pelo grau 4.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2, por concurso documental, mediante, pelo menos, um ano de bom e efectivo serviço;\n\nb) Dos graus 1 e 2 ao grau 3, por concurso documental, mediante, pelo menos, respectivamente, três anos e um ano de bom e efectivo serviço na classe e aprovação em curso adequado, sendo os candidatos do grau 1 admitidos sòmente na falta de candidatos do grau 2;\n\nc) Do grau 3 ao grau 4, por concurso documental, mediante, pelo menos, três anos de bom e efectivo serviço na classe;\n\nd) Do grau 4 ao grau 5, por concurso de provas públicas;\n\ne) Do grau 5 ao grau 6, por concurso documental, depois de, pelo menos, três anos de bom e efectivo serviço;\n\nf) Do grau 6 ao grau 7, por concurso documental, de entre os aprovados na secção de administração do curso complementar de enfermagem, preferindo os de maior classificação;\n\ng) Ao grau 8, por livre escolha do conselho de direcção, ouvido o conselho técnico do respectivo hospital, de entre os profissionais do grau 5 e os do grau 4 que possuam a habilitação a que se refere a alínea anterior.\n\nArt. 33.º - 1. O ingresso na categoria de técnico de enfermagem de 2.ª classe (grau 8 dos serviços centrais) faz-se, por concurso documental, de entre os profissionais dos graus 7 e 8 dos hospitais que preencham os seguintes requisitos:\n\na) Terem completado o 3.º ciclo dos liceus ou equivalente;\n\nb) Terem sido aprovados na secção de administração do curso complementar de enfermagem.\n\n2. O acesso do grau 8 ao grau 9 far-se-á por concurso de provas públicas.\n\n3. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 8 dos hospitais que reúnam os requisitos constantes das alíneas do n.º 1 deste artigo."
+  },
+  "aaabf7cf0ee218c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Carreira de técnicos terapeutas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Carreira de técnicos terapeutas\n\nArt. 34.º - 1. O ingresso na carreira de técnicos terapeutas faz-se por concurso documental, pelos graus 1 e 3, para os indivíduos habilitados com os respectivos cursos.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2 e do grau 3 ao grau 4, por concurso documental, após, pelo menos, três e dois anos de bom e efectivo serviço;\n\nb) Do grau 4 ao grau 5, por concurso de provas públicas, após, pelo menos, três anos de bom e efectivo serviço na classe respectiva;\n\nc) Do grau 5 ao grau 6, por nomeação, sob proposta dos serviços, de entre os profissionais com, pelo menos, três anos de serviço na respectiva classe, classificado de Muito bom."
+  },
+  "351d12d3914817b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO X — Carreira de técnicos de serviço social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO X — Carreira de técnicos de serviço social\n\nArt. 35.º - 1. O ingresso na carreira de técnicos de serviço social faz-se por concurso documental, pelos graus 1 e 3, para os indivíduos habilitados com os respectivos cursos.\n\n2. O acesso ter-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2 e do grau 3 ao grau 4, por concurso documental, após, pelo menos, respectivamente, três e dois anos de bom e efectivo serviço;\n\nb) Do grau 4 ao grau 5, por concurso de provas públicas de apreciação e discussão do currículo, após, pelo menos, três anos de bom e efectivo serviço na classe respectiva;\n\nc) Do grau 5 ao grau 6, por nomeação, sob proposta dos serviços, de entre os profissionais com, pelo menos, três anos de serviço na respectiva classe, classificado de Muito bom.\n\nArt. 36.º O ingresso na categoria de técnico inspector de serviço social (grau 7 dos serviços centrais) efectua-se por escolha, de entre os profissionais do grau 6 com, pelo menos, dois anos de serviço na categoria respectiva."
+  },
+  "34a22b49fa2b0453": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XI — Carreira de técnicos auxiliares de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XI — Carreira de técnicos auxiliares de laboratório\n\nArt. 37.º - 1. O ingresso na carreira de técnicos auxiliares de laboratório faz-se, por concurso documental, pelo grau 1, para os indivíduos que, com o 2.º ciclo dos liceus ou equivalente, possuam a habilitação de um curso especial de preparadores, e pelo grau 3, para habilitados com o 3.º ciclo dos liceus ou equivalente, ou preparadores de 1.ª classe com, pelo menos, cinco anos de serviço.\n\n2. É permitido o ingresso directo pelo grau 5 a indivíduos com curso superior adequado e, pelo menos, um ano de prática profissional contínua e experiência comprovada.\n\n3. As normas aplicáveis à apreciação do currículo dos candidatos a que se refere o número anterior serão as constantes do regulamento do Instituto Nacional de Saúde.\n\n4. No caso de o concurso a que se refere o n.º 1 ficar deserto ou de não haver candidatos em número suficiente para o preenchimento dos lugares do grau 1 ou do grau 3, poderão estes ser preenchidos, respectivamente, por indivíduos com o 2.º ciclo e com o 3.º ciclo dos liceus ou equivalente ou preparadores de 1.ª classe com, pelo menos, dois anos de serviço, mediante concurso com prestação de provas teóricas e práticas.\n\n5. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço;\n\nb) Do grau 2 ao grau 3, por concurso com prestação de provas, de entre os preparadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nessa classe;\n\nc) Do grau 3 ao grau 4, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço na classe;\n\nd) Do grau 4 ao grau 5, por concurso com prestação de provas de aptidão profissional."
+  },
+  "dcd8ca6e4d6ec00d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XII — Carreira de técnicos auxiliares sanitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XII — Carreira de técnicos auxiliares sanitários\n\nArt. 38.º - 1. O ingresso na carreira de técnicos auxiliares sanitários faz-se, por concurso documental, de entre candidatos aprovados num curso de agentes sanitários.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2, por concurso documental, de entre os profissionais com, pelo menos, dois anos de bom e efectivo serviço;\n\nb) Do grau 2 ao grau 3, de entre os profissionais com as habilitações mínimas correspondentes ao 2.º ciclo dos liceus ou equivalentes, aprovados num curso de fiscais sanitários.\n\n3. Quando não haja candidatos do grau 2 em número suficiente para o preenchimento das vagas correspondentes ao grau 3, poderão ser admitidos em lugares deste grau, por concurso documental, os indivíduos que possuam a habilitação mínima do 2.º ciclo dos liceus ou equivalente e hajam sido aprovados num curso de fiscais sanitários, preferindo os que já estejam providos em lugares do grau 1."
+  },
+  "5550c129706ef545": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XIII — Condições exigíveis para o ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XIII — Condições exigíveis para o ingresso e acesso\n\nArt. 39.º - 1. Os cursos especiais exigíveis para o ingresso ou acesso nas carreiras, nos termos do presente diploma, são os referidos nos números seguintes.\n\n2. Os cursos de saúde pública referidos nos n.os 3 a 6 e nas alíneas b) e c) do n.º 7 do artigo 6.º, no n.º 4 do artigo 8.º e nas alíneas b) do n.º 1 e a) do n.º 2 do artigo 10.º serão, no geral, com a duração de, pelo menos, um ano, ou de especialização, a este equiparado, e o intensivo, com a duração de, pelo menos, três meses.\n\n3. A habilitação do curso geral é conferida pela Escola Nacional de Saúde Pública e de Medicina Tropical e a do curso intensivo por esta Escola e pelo Instituto Nacional de Saúde.\n\n4. Consideram-se equiparados aos cursos de saúde pública os de medicina sanitária professados no Instituto Superior de Higiene do Dr. Ricardo Jorge e nas Faculdades de Medicina do Porto e de Coimbra, bem como os ministrados no País ou no estrangeiro a que a Direcção-Geral de Saúde reconheça idoneidade.\n\n5. O curso de auxiliares de enfermagem referido na primeira parte do n.º 1 do artigo 30.º e na primeira parte do n.º 1 do artigo 32.º é o professado nas escolas de enfermagem oficialmente reconhecidas.\n\n6. O curso geral de enfermagem referido na segunda parte do n.º 1 do artigo 30.º e na segunda parte do n.º 1 do artigo 32.º é o professado nas escolas de enfermagem oficialmente reconhecidas.\n\n7. Os cursos de enfermagem de saúde pública referidos no n.º 1 e na alínea b) do n.º 2 do artigo 30.º são os professados na Escola de Enfermagem de Saúde Pública.\n\n8. O curso de auxiliares de saúde pública referido na primeira parte do n.º 1 do artigo 30.º é professado no Instituto Nacional de Saúde, na Escola de Enfermagem de Saúde Pública ou nos centros de saúde distritais.\n\n9. O curso referido na alínea d) do n.º 2 do artigo 30.º é ministrado na Escola Nacional de Saúde Pública e de Medicina Tropical.\n\n10. Os cursos referidos nas alíneas b) do n.º 1 do artigo 31.º, f) e g) do n.º 2 do artigo 32.º e b) do n.º 1 do artigo 33.º são ministrados na Escola de Ensino e Administração de Enfermagem.\n\n11. O curso referido na alínea b) do n.º 2 do artigo 32.º é professado nas escolas de enfermagem oficialmente reconhecidas.\n\n12. Os cursos de técnicos terapeutas referidos no artigo 34.º são os reconhecidos oficialmente pela Direcção-Geral dos Hospitais.\n\n13. Os cursos referidos no artigo 35.º são os das escolas de serviço social oficialmente reconhecidas pela Direcção-Geral da Assistência Social.\n\n14. O curso especial de preparadores referido no n.º 1 do artigo 37.º é professado no Instituto Nacional de Saúde.\n\n15. O curso referido no n.º 1 do artigo 38.º é professado no Instituto Nacional de Saúde ou nos centros de saúde distritais.\n\n16. O curso referido na alínea b) do n.º 2 e no n.º 3 do artigo 38.º é professado no Instituto Nacional de Saúde.\n\n17. O disposto no presente artigo não prejudica a possibilidade de o Ministro determinar que os cursos dependentes do Ministério da Saúde e Assistência se realizem em estabelecimentos diferentes dos enumerados, quando essa medida se mostre conveniente para assegurar a melhor prestação do ensino.\n\nArt. 40.º Os médicos com habilitações pós-licenciatura obtidas no estrangeiro e devidamente reconhecidas pela Direcção-Geral dos Hospitais podem ser admitidos, consoante essas habilitações, aos concursos para qualquer grau da carreira hospitalar por despacho ministerial, sob proposta do director do hospital a que respeite o ingresso, com parecer favorável da Comissão Médica dos Hospitais Gerais.\n\nArt. 41.º Os indivíduos com preparação profissional adquirida em serviços nacionais ou estrangeiros e devidamente reconhecida, consoante os casos, pelas Direcções-Gerais de Saúde, dos Hospitais ou da Assistência Social, podem ser admitidos aos concursos para os graus das carreiras correspondentes às habilitações que possuam, mediante despacho ministerial, ouvida a direcção-geral competente."
+  },
+  "6c2a815ed2fc4dff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Provimento dos lugares e regime de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Provimento dos lugares e regime de serviço\n\nArt. 42.º O provimento dos lugares das carreiras é feito de harmonia com o disposto no Decreto-Lei n.º 414/71, de 27 de Setembro, salvo quanto à conversão em definitivo do referente aos lugares da carreira médica hospitalar não pertencentes aos quadros permanentes, caso em que os contratos terão a duração que for fixada no respectivo regulamento para cada um dos graus.\n\nArt. 43.º - 1. Os lugares das carreiras são, em princípio, exercidos em regime de tempo completo.\n\n2. Entende-se por tempo completo um mínimo de seis horas diárias de trabalho, dividido em dois períodos não inferiores a duas horas.\n\n3. Em casos especiais, poderá o Ministro da Saúde e Assistência autorizar, sob proposta justificada da respectiva direcção-geral, que o regime de tempo completo seja diferente do indicado no número anterior, desde que o dia de trabalho não tenha duração inferior a quatro horas consecutivas e a semana de trabalho duração inferior a trinta e seis horas.\n\n4. Aos inspectores superiores, inspectores, directores de serviço, directores de saúde e delegados de saúde de 1.ª classe, da carreira de saúde pública, é vedado o exercício da clínica livre, excepto, quanto aos últimos, quando se verifiquem condições excepcionais de carência local de cobertura médica, reconhecida, para cada caso, por despacho ministerial, sob proposta fundamentada da Direcção-Geral de Saúde.\n\n5. Aos internos do internato de policlínica da carreira hospitalar não é permitido o exercício da clínica livre."
+  },
+  "41b2d6be2c7340e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime de aplicação\n\nArt. 44.º - 1. A aplicação das normas sobre graduação, ingresso e acesso nas carreiras, constantes dos artigos 1.º a 38.º fica condicionada à publicação de quadros dos diferentes serviços ou estabelecimentos.\n\n2. Os referidos quadros serão organizados de harmonia com o presente diploma e com observância dos graus e correspondentes vencimentos, podendo, eventualmente, ser suprimidos os graus que se entenda não terem aplicação ao serviço.\n\n3. As denominações dos diferentes cargos serão as correspondentes a cada grau, de acordo com o disposto no presente diploma, podendo, porém, quando se considere necessário para completa identificação de funções, tais denominações ser acrescidas da conveniente indicação complementar, que constará dos quadros, entre parênteses ou em nota.\n\nArt. 45.º - 1. Os graus 2, 3 e 4 da carreira médica de saúde pública, nos serviços locais, terão aplicação apenas nos concelhos onde sejam constituídos centros de saúde.\n\n2. Para assegurar a cobertura médico-sanitária em áreas a que corresponda uma relação médico/habitante inferior a 1/3000 poderão, porém, independentemente da existência de centros de saúde, ser contratados, com a categoria correspondente ao grau 2, médicos que reúnam os requisitos exigidos quanto a este grau.\n\nArt. 46.º - 1. O grau 7 da carreira médica hospitalar será considerado apenas nos hospitais em que a dimensão e complexidade dos serviços justifiquem a organização em departamentos.\n\n2. Nos hospitais distritais, o grau 2 será considerado apenas no caso de disporem de serviços com idoneidade reconhecida para o efeito.\n\n3. A aplicação integral do regime da carreira médica hospitalar regulada pelo presente diploma far-se-á apenas nos serviços que sejam declarados aptos para o efeito por despacho do Ministro da Saúde e Assistência, sob parecer da Comissão Médica dos Hospitais Gerais, ouvido o Conselho Nacional do Internato Médico e as comissões médicas dos respectivos hospitais, tendo em atenção as condições de funcionamento e o regime de tempo completo.\n\n4. Nos serviços declarados aptos, observar-se-á o seguinte:\n\na) Os internos do internato geral passam para o internato de policlínica, ficando sujeitos, sem observância da duração fixada para este, ao disposto no n.º 3 do artigo 12.º;\n\nb) Os internos do internato complementar, que o desejem, poderão continuá-lo no regime em vigor à data do presente diploma, recebendo, no termo do internato, o correspondente certificado, de acordo com o disposto no n.º 7 do artigo 13.º;\n\nc) Os internos do internato complementar, que assim o prefiram, poderão transitar para o internato de especialidades, ingressando no ano correspondente ao do internato complementar;\n\nd) Os graduados manter-se-ão no regime que lhes seja aplicável à data da entrada em vigor do presente diploma, sendo os respectivos lugares extintos à medida que vagarem;\n\ne) Os assistentes ingressarão, por ordem de antiguidade, nos lugares de chefe de serviço constantes dos respectivos quadros e, na falta destes, nos de especialista dos hospitais;\n\nf) Os directores de serviço manter-se-ão como tais.\n\n5. Os outros serviços, até serem declarados aptos, poderão apoiar a preparação dos internos, embora funcionando em tempo parcial, nos termos do Regulamento Geral dos Hospitais.\n\n6. As regras estabelecidas nas alíneas d), e) e f) do n.º 2 aplicam-se aos serviços não aptos.\n\nArt. 47.º A carreira médica hospitalar nos hospitais escolares e a equiparação e as condições de comunicabilidade com a carreira docente de medicina serão reguladas por decreto conjunto dos Ministros da Educação Nacional e da Saúde e Assistência.\n\nArt. 48.º A equiparação e as condições de intercomunicabilidade dos cargos das carreiras previstas no presente diploma com os das existentes ou a criar, além das referidas no artigo anterior, serão estabelecidas por decreto do Ministro da Saúde e Assistência ou em conjunto com os Ministros interessados."
+  },
+  "7b82659787470a41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições gerais, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições gerais, transitórias e finais\n\nArt. 49.º Para além do disposto no presente diploma, as normas a que deverão obedecer os concursos nele referidos, incluindo as condições de preferência não expressamente estabelecidas, constarão de regulamentos aprovados por portaria.\n\nArt. 50.º - 1. O Ministro da Saúde e Assistência determinará as providências necessárias por forma a assegurar a mais rápida execução do disposto no presente diploma, podendo, para o efeito, durante o período de três anos, determinar, por portaria, os convenientes ajustamentos, sem prejuízo do regime de base constante deste decreto-lei.\n\n2. O primeiro provimento em cada lugar pode ser feito com dispensa de requisitos exigidos pelo presente diploma, salvo os de habilitação referidos no artigo 2.º, desde que não haja candidatos que satisfaçam tais requisitos e se considere inadiável o preenchimento do lugar.\n\n3. Durante o período a que se refere o n.º 1 deste artigo, e enquanto as estruturas dos serviços ou estabelecimentos não permitirem a aplicação integral do regime das carreiras, poderá o Ministro da Saúde e Assistência, sob proposta fundamentada da respectiva direcção-geral, manter ou autorizar o exercício em tempo parcial.\n\nArt. 51.º Nos hospitais distritais, a aplicação da carreira hospitalar não fica dependente do regime de tempo completo enquanto não forem fixadas, caso a caso, pela Direcção-Geral dos Hospitais, as condições de funcionamento que o permitam.\n\nArt. 52.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 22 de Setembro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nCarreiras profissionais do tipo I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14341445.pdf)\n\nMAPA II\n\nCarreiras profissionais do tipo II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14341445.pdf)\n\nO Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa."
+  },
+  "8c06b946a7c4813c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Organização das carreiras profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Organização das carreiras profissionais"
+  },
+  "101e85b5e0a3fec4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nDe harmonia com o disposto no n.º 2 do artigo 63.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, são definidas pelo presente diploma as condições de ingresso, graduação e acesso nas carreiras profissionais do Ministério da Saúde e Assistência."
+  },
+  "f05376d2f2ca6c9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs carreiras profissionais organizam-se por graus e classificam-se em três tipos:\n\nTipo 1 - De profissionais com habilitação de licenciatura universitária;\n\nTipo 2 - De profissionais com habilitação técnica devidamente titulada;\n\nTipo 3 - De profissionais com habilitação para cargos de pessoal administrativo."
+  },
+  "5e276f9396fb23d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os graus das carreiras do tipo 1 distribuem-se da letra J à letra C, consoante a escala de vencimentos do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.\n\n2. Os graus das carreiras do tipo 2 distribuem-se da letra R à letra F, correspondendo as categorias acima da letra J a lugares de chefia ou de técnicos de serviços centrais.\n\n3. Os graus das carreiras do tipo 3 distribuem-se da letra U à letra F.\n\n4. Nas carreiras que venham a ser criadas observar-se-ão as graduações estabelecidas no presente diploma, tendo em atenção os requisitos de ingresso e a natureza das funções dos profissionais abrangidos."
+  },
+  "69b198dc3417b08e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. São estabelecidas as seguintes carreiras profissionais:\n\na) Do tipo 1:\n\nCarreira médica de saúde pública;\n\nCarreira médica hospitalar;\n\nCarreira farmacêutica;\n\nCarreira de administração hospitalar;\n\nCarreira de técnicos superiores de laboratório.\n\nb) Do tipo 2:\n\nCarreira de ensino de enfermagem;\n\nCarreira de enfermagem de saúde pública;\n\nCarreira de enfermagem hospitalar;\n\nCarreira de técnicos terapeutas;\n\nCarreira de técnicos de serviço social;\n\nCarreira de técnicos auxiliares de laboratório;\n\nCarreira de técnicos auxiliares sanitários.\n\n2. As carreiras do tipo 3 regem-se pelas normas gerais aplicáveis ao pessoal administrativo."
+  },
+  "7c7dc12c674167e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs graus, categorias e vencimentos das carreiras profissionais a que se refere o n.º 1 do artigo anterior constam dos mapas anexos ao presente diploma."
+  },
+  "d2fc4e7da99b72ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Carreira médica de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Carreira médica de saúde pública"
+  },
+  "b66b7c57a4429dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Nos serviços locais da Direcção-Geral de Saúde, o ingresso na carreira médica de saúde pública faz-se por concurso documental, pelas categorias de subdelegado de saúde (grau 2) ou de delegado de saúde de 2.ª classe (grau 3).\n\n2. Podem concorrer ao lugar de subdelegado de saúde os médicos com esta denominação na vigência da lei anterior ao presente diploma, os médicos municipais e os médicos com, pelo menos, dois anos de prática rural, preferindo, porém, aqueles que, embora sem este requisito, hajam completado com aproveitamento o internato geral ou de policlínica.\n\n3. O exercício do cargo de subdelegado de saúde depende de habilitação com um curso de saúde pública.\n\n4. Os médicos nomeados subdelegados de saúde que não possuam a habilitação referida no número anterior deverão obtê-la frequentando o primeiro curso intensivo que se realizar após a nomeação.\n\n5. A frequência do curso é equiparada, para todos os efeitos, ao exercício de funções.\n\n6. O não aproveitamento, ou a falta de frequência do curso a que se refere o número anterior, implica, salvo casos de doença ou de força maior devidamente justificada, a rescisão do contrato.\n\n7. Podem concorrer ao lugar de delegado de saúde de 2.ª classe, pela seguinte ordem de preferência:\n\na) Os médicos que, além de terem completado com aproveitamento o internato das especialidades de medicina interna, pediatria, obstetrícia, ginecologia, pneumotisiologia, cardiologia ou psiquiatria, estejam habilitados ou se habilitem, nos termos do disposto nos n.os 4 a 6 deste artigo, com um curso de saúde pública;\n\nb) Os médicos que, além de terem completado com aproveitamento o internato de policlínica, estejam habilitados ou se comprometam a habilitar-se, de acordo com o disposto nos n.os 4 a 6 deste artigo, com um curso de saúde pública;\n\nc) Os subdelegados de saúde referidos no n.º 2 deste artigo."
+  },
+  "edad629cc8a9205d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535), publicado em 1978-02-20."
+   ],
+   "markdown": "###### Artigo 7.º\n\nO provimento do lugar de delegado de saúde de 1.ª classe é feito por concurso documental de entre os delegados de saúde de 2.ª classe e técnicos de 1.ª classe que sejam médicos, preferindo os primeiros aos segundos, e, na falta de uns e outros, de entre os médicos referidos no n.º 7 do artigo anterior e pela ordem de preferência ali estabelecida.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535), publicado em 1978-02-20."
+  },
+  "88d49c5b0f8fad93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535), publicado em 1978-02-20."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. O acesso à categoria de director de saúde efectua-se mediante concurso de habilitação e de provimento.\n\n2 - Ao concurso de habilitação, com prestação de provas e válido por três anos, poderão concorrer os delegados de saúde e os médicos dos serviços centrais do grau 6.\n\n3. No caso de o concurso ficar deserto ou de o número de concorrentes aprovados ser inferior ao de vagas a prover, abrir-se-á novo concurso, ao qual poderão concorrer os médicos referidos no n.º 7 do artigo 6.º\n\n4. Ao concurso de provimento, documental, são admitidos, desde que possuam o curso geral de saúde pública, os candidatos classificados no concurso de habilitação, preferindo os de maior classificação e, em caso de igualdade, os mais classificados naquele curso.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535), publicado em 1978-02-20."
+  },
+  "ca46a5b85792ee05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs profissionais da carreira médica de saúde pública colocados em serviços locais podem ter acesso aos serviços centrais, aplicando-se para o efeito o disposto no n.º 2 do artigo 10.º"
+  },
+  "84b8cffb01580828": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Nos serviços centrais da Direcção-Geral de Saúde o ingresso na carreira médica de saúde pública faz-se, por concurso documental:\n\na) Pela categoria de estagiário de saúde pública (grau 1), de entre os licenciados em Medicina, gozando de preferências os que hajam obtido aprovação no internato geral ou de policlínica;\n\nb) Pela categoria de técnico de saúde pública de 3.ª classe (grau 2), de entre os licenciados em Medicina que possuam a habilitação do curso geral de saúde pública, sendo motivo de preferência o referido na alínea anterior.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Por concurso documental, do grau 1 ao grau 2, mediante a habilitação do curso geral de saúde pública;\n\nb) Por concurso documental, do grau 2 ao grau 3;\n\nc) Por concurso com prestação de provas, do grau 3 ao grau 4;\n\nd) Por concurso de provas públicas de apreciação e discussão do currículo e de uma dissertação, do grau 4 ao grau 6;\n\ne) Por livre escolha do Ministro da Saúde e Assistência, do grau 6 ao grau 7, de entre os graduados dos serviços centrais ou locais."
+  },
+  "b73217d9f15647ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Carreira médica hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Carreira médica hospitalar"
+  },
+  "a99b46fb8b67710c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A carreira médica hospitalar inicia-se pelo internato.\n\n2. O internato, que terá regulamento próprio, aprovado por portaria do Ministro da Saúde e Assistência, compreende dois graus:\n\nGrau 1 - Internato de policlínica;\n\nGrau 2 - Internato de especialidades.\n\n3. Para efeitos do disposto no presente diploma, a medicina interna e a cirurgia geral são consideradas especialidades."
+  },
+  "76c69b10f46d22f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O internato de policlínica é aberto aos licenciados em Medicina com idade não superior a 35 anos.\n\n2. O internato de policlínica terá a duração mínima de catorze meses, fixada por despacho ministerial de acordo com as condições do hospital onde se efectue.\n\n3. O aproveitamento do internato de policlínica será apreciado em função das informações dos serviços e de exame final, que se efectuará de harmonia com o regulamento do internato e do qual se passará certificado.\n\n4. O não aproveitamento, bem como a falta ao exame final ou a exclusão neste, implicam perda total de vencimento durante o período de repetição, que será único, excepto quando o facto se deva a doença ou caso de força maior devidamente justificado."
+  },
+  "f48bf38f2de0014f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 471/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1974-473288), publicado em 1974-09-20."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. A admissão ao internato de especialidades efectua-se por concurso com prestação de provas, nos termos do regulamento, de entre os médicos que hajam obtido aprovação no internato geral ou de policlínica há menos de três anos, exceptuados os casos de comissão de serviço militar.\n\n2. O número de vagas em cada ano será fixado por despacho ministerial, tendo em atenção as necessidades nacionais em cada especialidade e a capacidade e possibilidades dos hospitais.\n\n3. Um terço das vagas fixadas, no conjunto dos hospitais, para as especialidades de medicina interna, pediatria, obstetrícia, ginecologia, pneumotisiologia, cardiologia e psiquiatria são reservadas aos médicos de saúde pública que exerçam a sua profissão nos serviços locais há mais de um ano e aos que, em prestação de serviço militar, hajam desempenhado funções nas províncias ultramarinas.\n\n4. As vagas previstas no número anterior que não forem preenchidas nos termos nele estabelecidos sê-lo-ão conforme as regras gerais.\n\n5. O internato de especialidade tem a duração de dois a cinco anos, fixada, para cada especialidade, por portaria do Ministro da Saúde e Assistência, ouvidas a Comissão Médica dos Hospitais Gerais, o Conselho Nacional do Internato Médico e a Ordem dos Médicos.\n\n6. O aproveitamento no internato de especialidades será apreciado anualmente pela informação dos serviços e, no seu termo, por exame final, efectuado de harmonia com o regulamento.\n\n7. Da aprovação no exame final será passado certificado, o qual constitui documento bastante para a inscrição na Ordem dos Médicos na especialidade respectiva.\n\n8. A falta de aproveitamento num ano implica perda total do vencimento durante o ano de repetição, excepto quando se deva a doença ou caso de força maior devidamente justificado.\n\n> Alterado pelo/a [Decreto-Lei n.º 471/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1974-473288), publicado em 1974-09-20."
+  },
+  "d46877afe5a87820": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os médicos aprovados no internato geral ou de policlínica que não possam ser admitidos ao de especialidades nos termos do artigo anterior, por falta de vagas, poderão, porém, frequentá-lo a título voluntário.\n\n2. Os médicos admitidos ao abrigo do número anterior frequentarão o internato de especialidades em condições iguais às aplicáveis aos admitidos em vagas, mas sem direito a vencimento.\n\n3. A admissão e a distribuição dos referidos médicos pelas várias especialidades e hospitais serão, todavia, condicionadas pela capacidade e possibilidades dos serviços, de modo a não perturbar o seu conveniente funcionamento nem a eficiente preparação dos internos."
+  },
+  "ff1275633365864e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), publicado em 1973-02-06."
+   ],
+   "markdown": "###### Artigo 15.º\n\n1. Os lugares dos graus 4 a 7, dos hospitais centrais, e 4 e 5, dos hospitais distritais, fazem parte dos respectivos quadros de pessoal permanente.\n\n2. O ingresso nos quadros de pessoal permanente faz-se pela categoria de especialista dos hospitais.\n\n3. (Revogado.)\n\n4. (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), publicado em 1973-02-06."
+  },
+  "dca4b3a9eb135490": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O ingresso nos quadros de pessoal permanente dos hospitais distritais faz-se por concurso documental, observadas as condições de preferência estabelecidas no número seguinte.\n\n2. Gozam de preferência na admissão aos quadros permanentes dos hospitais distritais:\n\na) Os médicos que hajam obtido maior classificação no internato complementar ou de especialidades;\n\nb) Em igualdade de classificação, os que hajam adquirido preparação especial, ou hajam desempenhado funções de saúde pública nos serviços locais ou, em prestação de serviço militar, nos serviços de saúde das províncias ultramarinas.\n\n3. Aos concursos para ingresso nos quadros de pessoal permanente dos hospitais distritais são também admitidos os médicos a que a respectiva Ordem haja conferido o título de especialista, observando-se, na parte aplicável, o disposto na alínea b) do número anterior.\n\n4. O ingresso nos quadros de pessoal permanente dos hospitais centrais faz-se, de entre os médicos aprovados no internato das respectivas especialidades, por concurso com prestação de provas públicas."
+  },
+  "1bb2bc120fd3cf78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO acesso à categoria de chefe de serviço dos hospitais centrais (grau 5) efectua-se de entre os médicos do grau 4 da respectiva especialidade, por concurso documental"
+  },
+  "60b8283aa7f6dd2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O acesso à categoria de director de serviço dos hospitais distritais (grau 5) efectua-se de entre os médicos dos graus 4 e 5 dos hospitais centrais e do grau 4 dos distritais, da respectiva especialidade, por concurso de provas públicas de apreciação do currículo e de uma dissertação, sendo esta facultativa para os do primeiro grupo.\n\n2. O acesso à categoria de director de serviço dos hospitais centrais (grau 6) efectua-se de entre os médicos dos graus 4 e 5 dos mesmos hospitais e do grau 5 dos distritais, da respectiva especialidade, por concurso de provas públicas de apreciação do currículo e de uma dissertação."
+  },
+  "d4580c8bf60748b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO provimento do lugar de director de departamento é feito pelo Ministro da Saúde e Assistência, sob proposta do director do hospital respectivo, de entre os directores e chefes de serviço do próprio hospital ou os directores de departamento e de serviço dos restantes hospitais centrais."
+  },
+  "0b83de98431a4fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os concursos para acesso nos lugares dos quadros do pessoal permanente dos hospitais centrais são feitos em cada hospital, podendo para o efeito ser dispensada aos grupos e nos centros hospitalares e no conjunto dos hospitais escolares a constituição de júris nos termos do n.º 3 do artigo 47.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.\n\n2. Para os hospitais distritais, os concursos a que se refere o número anterior serão de âmbito nacional e organizados pela Direcção-Geral dos Hospitais.\n\n3. Sob proposta do director do hospital e com parecer favorável da respectiva comissão médica, podem, porém, os lugares ser providos, por transferência de outros hospitais, em médicos da categoria correspondente."
+  },
+  "53aedea90c3b29dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Carreira farmacêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Carreira farmacêutica"
+  },
+  "703c5d315af54750": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 823/76](https://diariodarepublica.pt/dr/detalhe/decreto/823-1976-407109), publicado em 1976-11-13."
+   ],
+   "markdown": "###### Artigo 21.º\n\n1. A carreira farmacêutica inicia-se pela categoria de técnico farmacêutico estagiário, por concurso documental, de entre os licenciados em Farmácia, constituindo razão de preferência a maior classificação da licenciatura.\n\n2. O primeiro ano de serviço como estagiário constituirá período de prova, findo o qual, consoante as informações dos serviços, os contratos poderão ser renovados ou serão rescindidos.\n\n3. Os contratos dos estagiários só poderão ser renovados pelo máximo de três períodos anuais.\n\n4. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Por concurso com prestação de provas, teóricas e práticas, do grau 1 ao grau 2;\n\nb) Por concurso documental do grau 2 ao grau 3, do grau 3 ao grau 4 e deste ao grau 5;\n\nc) Por concurso de provas públicas de apreciação do currículo e de uma dissertação, do grau 5 ao grau 6.\n\n> Alterado pelo/a [Decreto n.º 823/76](https://diariodarepublica.pt/dr/detalhe/decreto/823-1976-407109), publicado em 1976-11-13."
+  },
+  "d454b64c190e1366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. O acesso à categoria de técnico farmacêutico de 3.ª classe (grau 2) efectua-se mediante concursos de habilitação e de provimento.\n\n2. Ao concurso de habilitação, com prestação de provas teóricas e práticas, de acordo com o disposto na alínea a) do n.º 4 do artigo anterior, poderão concorrer os estagiários cujo contrato inicial haja sido renovado e os farmacêuticos que tenham completado o número máximo de períodos referido no n.º 3 do mesmo artigo.\n\n3. Ao concurso de provimento, documental, são admitidos os candidatos classificados no concurso de habilitação preferindo os de maior classificação."
+  },
+  "e9daaa5b8a68ed58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nNos serviços centrais, o provimento do lugar de director de serviço far-se-á por livre escolha do Ministro da Saúde e Assistência, de entre os graduados do grau 6 dos hospitais centrais."
+  },
+  "f2766772e4e3cb5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Carreira de administração hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Carreira de administração hospitalar"
+  },
+  "454a4b5c09c1f9c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA carreira de administração hospitalar rege-se pelas disposições constantes do Regulamento Geral dos Hospitais, segundo a redacção dada pelo [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro."
+  },
+  "28c268e56014de39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Carreira de técnicos superiores de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Carreira de técnicos superiores de laboratório"
+  },
+  "519cfe5c9bf8b518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. O ingresso na carreira de técnicos superiores de laboratório faz-se, por concurso documental:\n\na) Pelo grau 1, para os licenciados com um curso superior de natureza adequada;\n\nb) Pelo grau 2, para os licenciados referidos na alínea anterior com, pelos menos, três anos de prática profissional contínua e experiência comprovada;\n\nc) Pelo grau 4, para os indivíduos que possuam o grau de doutor por uma Universidade portuguesa ou por uma Universidade estrangeira, quando equiparado aquele, nos termos da legislação em vigor, para os professores auxiliares das Universidades e primeiros-assistentes da Escola Nacional de Saúde Pública e de Medicina Tropical e ainda para os licenciados que possuam excepcional currículo científico em actividades de investigação no sector a que respeitarem as correspondentes vagas;\n\nd) Pelo grau 6, para os professores extraordinários das Universidades ou da Escola Nacional de Saúde Pública e de Medicina Tropical, para os indivíduos que possuam o título de agregado das Universidades e para os licenciados que possuam excepcional currículo científico em actividades de investigação no âmbito das respectivas especialidades.\n\n2. As normas aplicáveis à apreciação do currículo dos candidatos referidos na alínea b) e na parte final das alíneas c) e d) do número anterior serão as constantes do Regulamento do Instituto Nacional de Saúde.\n\n3. O primeiro ano de serviço como estagiário constituirá período de prova, findo o qual, consoante as informações dos serviços, os contratos poderão ser renovados ou serão rescindidos.\n\n4. As normas aplicáveis à forma de prestação e à apreciação da qualidade do serviço dos estagiários serão as constantes do Regulamento do Instituto Nacional de Saúde.\n\n5. Os contratos dos estagiários só poderão ser renovados pelo máximo de dois períodos anuais.\n\n6. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais dos graus imediatamente inferiores e de acordo com o seguinte:\n\na) Por concurso documental, do grau 1 aos graus 2 e 3 e do grau 2 ao grau 3;\n\nb) Por concurso com prestação de provas de aptidão profissional, dos graus 2 e 3 ao grau 4, do grau 4 ao grau 5 e dos graus 4 e 5 ao grau 6."
+  },
+  "d6cef694e5c6f5b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. O provimento do lugar de técnico de laboratório de 3.ª classe é feito de entre os estagiários com, pelo menos, um ano de bom e efectivo serviço e os licenciados referidos na alínea b) do n.º 1 do artigo anterior.\n\n2. O provimento do lugar de técnico de laboratório de 2.ª classe efectua-se, pela seguinte ordem de preferência, de entre:\n\na) Os técnicos de 3.ª classe com, pelo menos, um ano de bom e efectivo serviço na classe;\n\nb) Os estagiários com, pelo menos, dois anos de bom e efectivo serviço.\n\n3. Aos concursos para o lugar de técnico de 1.ª classe podem ser admitidos, desde que possuam currículo na matéria do sector a que respeitem as vagas, além dos indivíduos referidos na alínea c) do n.º 1 do artigo anterior:\n\na) Os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os assistentes das Universidades com, pelo menos, quatro anos de bom e efectivo serviço na categoria e os segundos-assistentes ou assistentes de 2.ª classe de outras escolas superiores e de institutos de investigação com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nc) Os professores auxiliares, os primeiros-assistentes ou assistentes de 1.ª classe, dos organismos a que se refere a alínea anterior.\n\n4. Aos concursos para o lugar de técnico especialista podem ser admitidos, desde que possuam currículo na matéria da respectiva especialidade:\n\na) Os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os professores auxiliares das Universidades, primeiros-assistentes ou assistentes de 1.ª classe de outras escolas superiores ou de institutos de investigação, com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nc) Os técnicos especialistas, ou equiparados, dos organismos a que se refere a alínea anterior.\n\n5. Aos concursos para o lugar de investigador podem ser admitidos, desde que possuam currículo na respectiva especialidade, além dos indivíduos referidos na alínea d) do n.º 1 do artigo anterior:\n\na) Os técnicos especialistas com, pelo menos, três anos de bom e efectivo serviço nesta categoria;\n\nb) Os técnicos de 1.ª classe com, pelo menos, seis anos de bom e efectivo serviço nesta categoria;\n\nc) Os técnicos especialistas, ou equiparados, de Universidades ou institutos de investigação com, pelo menos, cinco anos de bom e efectivo serviço na categoria;\n\nd) Os investigadores, ou equiparados, dos organismos a que se refere a alínea anterior."
+  },
+  "6a9254f4bfedd375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Em serviços de hospitais centrais e distritais cuja dimensão e complexidade técnica o justifiquem poderão os lugares de técnicos ser preenchidos de acordo com as regras dos números seguintes:\n\n2. O ingresso faz-se, por concurso documental:\n\na) Pelo grau 1, para os licenciados com um curso superior de natureza adequada;\n\nb) Pelos graus 2 e 3, para os licenciados em Medicina que hajam completado com aproveitamento o internato de especialidades.\n\n3. É aplicável aos técnicos superiores a que se refere o presente artigo o disposto nos n.os 3 a 5 do artigo 25.º\n\n4. O acesso far-se-á, quanto a cada grau, de acordo com o disposto, na parte aplicável, no n.º 6 do artigo 25.º"
+  },
+  "7d0226142c9f8240": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. O provimento do lugar de técnico de 3.ª classe é feito de entre os estagiários com, pelo menos, um ano de bom e efectivo serviço e os médicos referidos na alínea b) do n.º 2 do artigo anterior.\n\n2. O provimento do lugar de técnico de 2.ª classe efectua-se, pela seguinte ordem de preferência, de entre:\n\na) Os técnicos de 3.ª classe providos ao abrigo do disposto na segunda parte do n.º 1 deste artigo;\n\nb) Os médicos referidos na alínea b) do n.º 2 do artigo anterior;\n\nc) Os restantes técnicos de 3.ª classe com, pelo menos, um ano de bom e efectivo serviço na classe;\n\nd) Os estagiários com, pelo menos, dois anos de bom e efectivo serviço.\n\n3. Podem ser admitidos aos concursos para o lugar de técnico de 1.ª classe os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria.\n\n4. Aos concursos para o lugar de técnico especialista podem ser admitidos os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria, desde que possuam currículo na matéria da respectiva especialidade."
+  },
+  "93680474fc370ef2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Carreira de ensino de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Carreira de ensino de enfermagem"
+  },
+  "2839b3f791b2b96b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+   ],
+   "markdown": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+  },
+  "a24f281ca913af23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Carreira de enfermagem de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Carreira de enfermagem de saúde pública"
+  },
+  "e3e599711be77d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+   ],
+   "markdown": "###### Artigo 30.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+  },
+  "0402dcb56d6e570d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+   ],
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+  },
+  "739f191e53a920d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Carreira de enfermagem hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Carreira de enfermagem hospitalar"
+  },
+  "d1d9817d3c8bc704": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+   ],
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+  },
+  "a5b80d465d485afe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+   ],
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12."
+  },
+  "4ca499a222532016": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Carreira de técnicos terapeutas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Carreira de técnicos terapeutas"
+  },
+  "6964e38c372b2ea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30."
+   ],
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30."
+  },
+  "a52ba033d43b1794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO X — Carreira de técnicos de serviço social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO X — Carreira de técnicos de serviço social"
+  },
+  "fa6dc9a78fce48a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. O ingresso na carreira de técnicos de serviço social faz-se por concurso documental, pelos graus 1 e 3, para os indivíduos habilitados com os respectivos cursos.\n\n2. O acesso ter-se-á, quanto a cada grau, por selecção dos profissionais do grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2 e do grau 3 ao grau 4, por concurso documental, após, pelo menos, respectivamente, três e dois anos de bom e efectivo serviço;\n\nb) Do grau 4 ao grau 5, por concurso de provas públicas de apreciação e discussão do currículo, após, pelo menos, três anos de bom e efectivo serviço na classe respectiva;\n\nc) Do grau 5 ao grau 6, por nomeação, sob proposta dos serviços, de entre os profissionais com, pelo menos, três anos de serviço na respectiva classe, classificado de Muito bom."
+  },
+  "f9e22715d4408f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nO ingresso na categoria de técnico inspector de serviço social (grau 7 dos serviços centrais) efectua-se por escolha, de entre os profissionais do grau 6 com, pelo menos, dois anos de serviço na categoria respectiva."
+  },
+  "e1c12c50d1103e9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XI — Carreira de técnicos auxiliares de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XI — Carreira de técnicos auxiliares de laboratório"
+  },
+  "ef1f225b1784d8e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30."
+   ],
+   "markdown": "###### Artigo 37.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), publicado em 1977-12-30."
+  },
+  "ea483092261b1a62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XII — Carreira de técnicos auxiliares sanitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XII — Carreira de técnicos auxiliares sanitários"
+  },
+  "a8d092dd360ed2c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 18/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1977-140353), publicado em 1977-03-07."
+   ],
+   "markdown": "###### Artigo 38.º\n\n1. O ingresso na carreira de técnicos auxiliares sanitários faz-se por concurso documental pelo grau 1, para os indivíduos habilitados com o curso geral dos liceus ou equivalente e o curso de técnicos auxiliares sanitários.\n\n2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais de grau imediatamente inferior e de acordo com o seguinte:\n\na) Do grau 1 ao grau 2, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço;\n\nb) Do grau 2 ao grau 3, por concurso com prestação de provas, de entre os agentes sanitários de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nessa classe;\n\nc) Do grau 3 ao grau 4, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço na classe;\n\nd) Do grau 4 ao grau 5, por concurso com prestação de provas de aptidão profissional.\n\n3. Quando não haja candidatos do grau 2 em número suficiente para preenchimento das vagas correspondentes ao grau 3, poderão ser admitidos em lugares deste grau, por concurso documental, os indivíduos que possuam a habilitação mínima do curso complementar dos liceus ou equivalente e hajam sido aprovados no curso de técnicos auxiliares sanitários.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 18/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1977-140353), publicado em 1977-03-07."
+  },
+  "0c2b2562af8c8f9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XIII — Condições exigíveis para o ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XIII — Condições exigíveis para o ingresso e acesso"
+  },
+  "0bb7ea4ca820042b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 18/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1977-140353), publicado em 1977-03-07."
+   ],
+   "markdown": "###### Artigo 39.º\n\n1. Os cursos especiais exigíveis para o ingresso ou acesso nas carreiras, nos termos do presente diploma, são os referidos nos números seguintes.\n\n2. Os cursos de saúde pública referidos nos n.os 3 a 6 e nas alíneas b) e c) do n.º 7 do artigo 6.º, no n.º 4 do artigo 8.º e nas alíneas b) do n.º 1 e a) do n.º 2 do artigo 10.º serão, no geral, com a duração de, pelo menos, um ano, ou de especialização, a este equiparado, e o intensivo, com a duração de, pelo menos, três meses.\n\n3. A habilitação do curso geral é conferida pela Escola Nacional de Saúde Pública e de Medicina Tropical e a do curso intensivo por esta Escola e pelo Instituto Nacional de Saúde.\n\n4. Consideram-se equiparados aos cursos de saúde pública os de medicina sanitária professados no Instituto Superior de Higiene do Dr. Ricardo Jorge e nas Faculdades de Medicina do Porto e de Coimbra, bem como os ministrados no País ou no estrangeiro a que a Direcção-Geral de Saúde reconheça idoneidade.\n\n5. O curso de auxiliares de enfermagem referido na primeira parte do n.º 1 do artigo 30.º e na primeira parte do n.º 1 do artigo 32.º é o professado nas escolas de enfermagem oficialmente reconhecidas.\n\n6. O curso geral de enfermagem referido na segunda parte do n.º 1 do artigo 30.º e na segunda parte do n.º 1 do artigo 32.º é o professado nas escolas de enfermagem oficialmente reconhecidas.\n\n7. Os cursos de enfermagem de saúde pública referidos no n.º 1 e na alínea b) do n.º 2 do artigo 30.º são os professados na Escola de Enfermagem de Saúde Pública.\n\n8. O curso de auxiliares de saúde pública referido na primeira parte do n.º 1 do artigo 30.º é professado no Instituto Nacional de Saúde, na Escola de Enfermagem de Saúde Pública ou nos centros de saúde distritais.\n\n9. O curso referido na alínea d) do n.º 2 do artigo 30.º é ministrado na Escola Nacional de Saúde Pública e de Medicina Tropical.\n\n10. Os cursos referidos nas alíneas b) do n.º 1 do artigo 31.º, f) e g) do n.º 2 do artigo 32.º e b) do n.º 1 do artigo 33.º são ministrados na Escola de Ensino e Administração de Enfermagem.\n\n11. O curso referido na alínea b) do n.º 2 do artigo 32.º é professado nas escolas de enfermagem oficialmente reconhecidas.\n\n12. Os cursos de técnicos terapeutas referidos no artigo 34.º são os reconhecidos oficialmente pela Direcção-Geral dos Hospitais.\n\n13. Os cursos referidos no artigo 35.º são os das escolas de serviço social oficialmente reconhecidas pela Direcção-Geral da Assistência Social.\n\n14. O curso especial de preparadores referido no n.º 1 do artigo 37.º é professado no Instituto Nacional de Saúde.\n\n15. O curso de técnicos auxiliares sanitários referido nos n.os 1 e 3 do artigo anterior é professado no Instituto Nacional de Saúde.\n\n16. O disposto no presente artigo não prejudica a possibilidade de o Ministro determinar que os cursos dependentes do Ministério da Saúde e Assistência se realizem em estabelecimentos diferentes dos enumerados, quando essa medida se mostre conveniente para assegurar a melhor prestação do ensino.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 18/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1977-140353), publicado em 1977-03-07."
+  },
+  "a1e38a85da77677f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1981-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 58/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1975-159875), publicado em 1975-02-14."
+   ],
+   "markdown": "###### Artigo 40.º\n\nOs médicos com habilitações pós-licenciatura obtidas no estrangeiro e devidamente reconhecidas pela Direcção-Geral dos Hospitais podem ser admitidos, consoante essas habilitações, aos concursos ou exames finais para qualquer grau das carreiras de saúde pública e hospitalar mediante despacho ministerial, sob proposta do estabelecimento onde aqueles se realizem, ou a requerimento do interessado.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1975-159875), publicado em 1975-02-14."
+  },
+  "e747f592e81e757d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs indivíduos com preparação profissional adquirida em serviços nacionais ou estrangeiros e devidamente reconhecida, consoante os casos, pelas Direcções-Gerais de Saúde, dos Hospitais ou da Assistência Social, podem ser admitidos aos concursos para os graus das carreiras correspondentes às habilitações que possuam, mediante despacho ministerial, ouvida a direcção-geral competente."
+  },
+  "81f0ea7a65317dd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Provimento dos lugares e regime de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Provimento dos lugares e regime de serviço"
+  },
+  "16a82c4f8b13de57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nO provimento dos lugares das carreiras é feito de harmonia com o disposto no Decreto-Lei n.º 414/71, de 27 de Setembro, salvo quanto à conversão em definitivo do referente aos lugares da carreira médica hospitalar não pertencentes aos quadros permanentes, caso em que os contratos terão a duração que for fixada no respectivo regulamento para cada um dos graus."
+  },
+  "eaa144b1f0ade111": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. Os lugares das carreiras são, em princípio, exercidos em regime de tempo completo.\n\n2. Entende-se por tempo completo um mínimo de seis horas diárias de trabalho, dividido em dois períodos não inferiores a duas horas.\n\n3. Em casos especiais, poderá o Ministro da Saúde e Assistência autorizar, sob proposta justificada da respectiva direcção-geral, que o regime de tempo completo seja diferente do indicado no número anterior, desde que o dia de trabalho não tenha duração inferior a quatro horas consecutivas e a semana de trabalho duração inferior a trinta e seis horas.\n\n4. Aos inspectores superiores, inspectores, directores de serviço, directores de saúde e delegados de saúde de 1.ª classe, da carreira de saúde pública, é vedado o exercício da clínica livre, excepto, quanto aos últimos, quando se verifiquem condições excepcionais de carência local de cobertura médica, reconhecida, para cada caso, por despacho ministerial, sob proposta fundamentada da Direcção-Geral de Saúde.\n\n5. Aos internos do internato de policlínica da carreira hospitalar não é permitido o exercício da clínica livre."
+  },
+  "4c32c2640fd4f728": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime de aplicação"
+  },
+  "861e74fd3c0232b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. A aplicação das normas sobre graduação, ingresso e acesso nas carreiras, constantes dos artigos 1.º a 38.º fica condicionada à publicação de quadros dos diferentes serviços ou estabelecimentos.\n\n2. Os referidos quadros serão organizados de harmonia com o presente diploma e com observância dos graus e correspondentes vencimentos, podendo, eventualmente, ser suprimidos os graus que se entenda não terem aplicação ao serviço.\n\n3. As denominações dos diferentes cargos serão as correspondentes a cada grau, de acordo com o disposto no presente diploma, podendo, porém, quando se considere necessário para completa identificação de funções, tais denominações ser acrescidas da conveniente indicação complementar, que constará dos quadros, entre parênteses ou em nota."
+  },
+  "3362ed67e85619cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. Os graus 2, 3 e 4 da carreira médica de saúde pública, nos serviços locais, terão aplicação apenas nos concelhos onde sejam constituídos centros de saúde.\n\n2. Para assegurar a cobertura médico-sanitária em áreas a que corresponda uma relação médico/habitante inferior a 1/3000 poderão, porém, independentemente da existência de centros de saúde, ser contratados, com a categoria correspondente ao grau 2, médicos que reúnam os requisitos exigidos quanto a este grau."
+  },
+  "2366269dd05a913a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. O grau 7 da carreira médica hospitalar será considerado apenas nos hospitais em que a dimensão e complexidade dos serviços justifiquem a organização em departamentos.\n\n2. Nos hospitais distritais, o grau 2 será considerado apenas no caso de disporem de serviços com idoneidade reconhecida para o efeito.\n\n3. A aplicação integral do regime da carreira médica hospitalar regulada pelo presente diploma far-se-á apenas nos serviços que sejam declarados aptos para o efeito por despacho do Ministro da Saúde e Assistência, sob parecer da Comissão Médica dos Hospitais Gerais, ouvido o Conselho Nacional do Internato Médico e as comissões médicas dos respectivos hospitais, tendo em atenção as condições de funcionamento e o regime de tempo completo.\n\n4. Nos serviços declarados aptos, observar-se-á o seguinte:\n\na) Os internos do internato geral passam para o internato de policlínica, ficando sujeitos, sem observância da duração fixada para este, ao disposto no n.º 3 do artigo 12.º;\n\nb) Os internos do internato complementar, que o desejem, poderão continuá-lo no regime em vigor à data do presente diploma, recebendo, no termo do internato, o correspondente certificado, de acordo com o disposto no n.º 7 do artigo 13.º;\n\nc) Os internos do internato complementar, que assim o prefiram, poderão transitar para o internato de especialidades, ingressando no ano correspondente ao do internato complementar;\n\nd) Os graduados manter-se-ão no regime que lhes seja aplicável à data da entrada em vigor do presente diploma, sendo os respectivos lugares extintos à medida que vagarem;\n\ne) Os assistentes ingressarão, por ordem de antiguidade, nos lugares de chefe de serviço constantes dos respectivos quadros e, na falta destes, nos de especialista dos hospitais;\n\nf) Os directores de serviço manter-se-ão como tais.\n\n5. Os outros serviços, até serem declarados aptos, poderão apoiar a preparação dos internos, embora funcionando em tempo parcial, nos termos do Regulamento Geral dos Hospitais.\n\n6. As regras estabelecidas nas alíneas d), e) e f) do n.º 2 aplicam-se aos serviços não aptos."
+  },
+  "85ee4fd898e76de9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nA carreira médica hospitalar nos hospitais escolares e a equiparação e as condições de comunicabilidade com a carreira docente de medicina serão reguladas por decreto conjunto dos Ministros da Educação Nacional e da Saúde e Assistência."
+  },
+  "2577a4cdb39c6f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nA equiparação e as condições de intercomunicabilidade dos cargos das carreiras previstas no presente diploma com os das existentes ou a criar, além das referidas no artigo anterior, serão estabelecidas por decreto do Ministro da Saúde e Assistência ou em conjunto com os Ministros interessados."
+  },
+  "3502f0a2685332e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições gerais, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições gerais, transitórias e finais"
+  },
+  "0655d3adb2548752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nPara além do disposto no presente diploma, as normas a que deverão obedecer os concursos nele referidos, incluindo as condições de preferência não expressamente estabelecidas, constarão de regulamentos aprovados por portaria."
+  },
+  "4a98a6ea55d04814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. O Ministro da Saúde e Assistência determinará as providências necessárias por forma a assegurar a mais rápida execução do disposto no presente diploma, podendo, para o efeito, durante o período de três anos, determinar, por portaria, os convenientes ajustamentos, sem prejuízo do regime de base constante deste decreto-lei.\n\n2. O primeiro provimento em cada lugar pode ser feito com dispensa de requisitos exigidos pelo presente diploma, salvo os de habilitação referidos no artigo 2.º, desde que não haja candidatos que satisfaçam tais requisitos e se considere inadiável o preenchimento do lugar.\n\n3. Durante o período a que se refere o n.º 1 deste artigo, e enquanto as estruturas dos serviços ou estabelecimentos não permitirem a aplicação integral do regime das carreiras, poderá o Ministro da Saúde e Assistência, sob proposta fundamentada da respectiva direcção-geral, manter ou autorizar o exercício em tempo parcial."
+  },
+  "a558978989593160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nNos hospitais distritais, a aplicação da carreira hospitalar não fica dependente do regime de tempo completo enquanto não forem fixadas, caso a caso, pela Direcção-Geral dos Hospitais, as condições de funcionamento que o permitam."
+  },
+  "7793035404cabf9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nEste decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 22 de Setembro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nCarreiras profissionais do tipo I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14341445.pdf)\n\nMAPA II\n\nCarreiras profissionais do tipo II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14341445.pdf)\n\nO Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa."
+  }
+ }
+}

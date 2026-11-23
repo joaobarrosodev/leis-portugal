@@ -29,10 +29,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-03-30'
+version_history:
+  file: decreto-lei-126-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-03-30'
+    amending: pt:dre:240847:por
+    amending_title: Decreto-Lei n.º 353-B/77; Decreto-Lei n.º 280/78; Decreto-Lei n.º 66/79
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Altera Artigo ANEXO — Regras para reavaliação do activo imobilizado
 identifiers:
   celex: null
   eli: null
@@ -58,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:01:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 353-B/77; Decreto-Lei
+    n.º 280/78; Decreto-Lei n.º 66/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-126-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,29 +203,65 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º A reavaliação dos bens do activo imobilizado corpóreo de empresas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, directamente acompanhado pelo Estado ou por entidade por este designada para o efeito, incluindo as empresas sob intervenção do Estado, será considerada para efeitos fiscais, nos termos do presente diploma, desde que tal reavaliação seja requerida no prazo de um ano a contar da data de publicação do presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1. As reavaliações a que se refere o presente diploma serão autorizadas, caso a caso, por despacho conjunto do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Ministro que superintenda no sector da actividade a que a empresa pertença.
+1. A reavaliação dos bens do activo imobilizado corpóreo de empresas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, directamente acompanhado pelo Estado ou por entidade por este designada para o efeito, incluindo as empresas sob intervenção do Estado, será considerada para efeitos fiscais, nos termos do presente diploma, desde que tal reavaliação seja requerida no prazo de um ano a contar da data de publicação do presente diploma.
+
+2. O disposto no número anterior é extensivo às empresas públicas, desde que a avaliação seja requerida no prazo de um ano a contar da data da publicação do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 353-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-b-1977-240847), publicado em 1977-08-29.
+
+###### Artigo 2.º
+
+1. As reavaliações a que se refere o presente diploma serão autorizadas, caso a caso, por despacho conjunto do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Ministro que superintenda no sector da actividade a que a empresa pertença.
 
 2. Poderá, pelo despacho referido no número anterior, autorizar-se que o cômputo dos valores dos elementos a reavaliar se efectue globalmente, por grupos ou categorias de elementos, quando, do ponto de vista das amortizações ou reintegrações, tenham sido tratados na contabilidade como um conjunto.
 
-Art. 3.º A reavaliação será requerida ao Ministro das Finanças, devendo o pedido ser acompanhado de uma relação dos bens a reavaliar, com indicação dos valores de aquisição ou construção e instalação, anos em que foram efectuadas, amortizações ou reintegrações acumuladas, valores de substituição e valores de reavaliação propostos.
+###### Artigo 3.º
 
-Art. 4.º A reavaliação dos diferentes elementos do imobilizado corpóreo deve efectuar-se em conformidade com as regras anexas a este diploma.
+A reavaliação será requerida ao Ministro das Finanças, devendo o pedido ser acompanhado de uma relação dos bens a reavaliar, com indicação dos valores de aquisição ou construção e instalação, anos em que foram efectuadas, amortizações ou reintegrações acumuladas, valores de substituição e valores de reavaliação propostos.
 
-Art. 5.º - 1. Na determinação do lucro tributável, nos termos do Código da Contribuição Industrial, das empresas que tenham procedido à reavaliação prevista no presente diploma, aceitar-se-ão, como custos do exercício, e tratando-se de bens ainda não totalmente amortizados, as amortizações calculadas com base no valor reavaliado, aplicando-se, no demais, as regras estabelecidas na [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, e outra legislação aplicável.
+###### Artigo 4.º
+
+A reavaliação dos diferentes elementos do imobilizado corpóreo deve efectuar-se em conformidade com as regras anexas a este diploma.
+
+###### Artigo 5.º
+
+1. Na determinação do lucro tributável, nos termos do Código da Contribuição Industrial, das empresas que tenham procedido à reavaliação prevista no presente diploma, aceitar-se-ão, como custos do exercício, e tratando-se de bens ainda não totalmente amortizados, as amortizações calculadas com base no valor reavaliado, aplicando-se, no demais, as regras estabelecidas na [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, e outra legislação aplicável.
 
 2. Tratando-se de bens já totalmente amortizados à data da reavaliação, aceitar-se-ão como custos do exercício as amortizações calculadas de harmonia com a regra estabelecida no n.º 5 da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, para os bens reavaliados nos termos da [Portaria n.º 20258](https://diariodarepublica.pt/dr/detalhe/portaria/20258-1963-680463), de 28 de Dezembro de 1963, e com observância, na parte aplicável, das demais regras estabelecidas na referida [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132).
 
-3. Os bens reavaliados figurarão em mapas autónomos, do modelo n.º 7, a que se refere a alínea c) do artigo 46.º do Código da Contribuição Industrial, com menção ao presente diploma, na parte superior, e, quanto aos bens que não estavam ainda totalmente amortizados, na coluna (3), do valor de reavaliação, e na coluna (9), do valor das amortizações actualizadas feitas nos exercícios anteriores.
+3 - Os bens reavaliados figurarão em mapas autónomos, do modelo n.º 7, a que se refere a alínea c) do artigo 46.º do Código da Contribuição Industrial, com menção ao presente diploma, na parte superior, e, quanto aos bens que não estavam ainda totalmente amortizados, na coluna (4), do valor de reavaliação, e na coluna (9), do valor das amortizações actualizadas feitas nos exercícios anteriores.
 
-Art. 6.º - 1. Se as empresas venderem bens depois de reavaliados, deverão investir o preço da venda no prazo de um ano, a partir da alienação.
+> Alterado pelo/a [Decreto-Lei n.º 280/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833), publicado em 1978-09-08.
 
-2. Na falta de reinvestimento, nos termos do número anterior, será a reavaliação considerada nula para efeito de determinação de matéria colectável, nos termos do Código do Imposto de Mais-Valias.
+###### Artigo 6.º
+
+1. Se as empresas venderem bens depois de reavaliados, deverão investir o preço da venda no prazo de um ano, a partir da alienação.
+
+2 - Na falta de reinvestimento, nos termos do número anterior, será a reavaliação considerada nula para efeito de determinação da matéria colectável, nos termos do Código da Contribuição Industrial.
 
 3. No caso de só parte do preço ser reinvestido, aplica-se o disposto no número anterior, na proporção da parte não reinvestida para o total.
 
-Art. 7.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas através de despacho do director-geral das Contribuições e Impostos.
+> Alterado pelo/a [Decreto-Lei n.º 280/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833), publicado em 1978-09-08.
+
+###### Artigo 6.º-A
+
+1 - Os movimentos resultantes da reavaliação são registados a débito e a crédito de uma subconta denominada «Reserva de reavaliação - [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril».
+
+2 - O saldo da subconta mencionada no número anterior, excepto nos casos de dissolução da empresa, só pode ser utilizado para aumento de capital e cobertura de prejuízos, sendo qualquer outra utilização considerada como proveito para efeitos fiscais no exercício em que a mesma se verificar, sem prejuízo da multa cominada no artigo 6.º-B.
+
+> Aditado pelo/a [Decreto-Lei n.º 280/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833), publicado em 1978-09-08.
+
+###### Artigo 6.º-B
+
+A infracção ao disposto no n.º 2 do artigo anterior será punida com multa de 20000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, na qual incorrerão solidariamente entre si o contribuinte, os directores, administradores, gerentes e membros do conselho fiscal, em exercício ao tempo em que foi cometida a infracção.
+
+> Aditado pelo/a [Decreto-Lei n.º 280/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833), publicado em 1978-09-08.
+
+###### Artigo 7.º
+
+As dúvidas que surgirem na aplicação do presente diploma serão resolvidas através de despacho do director-geral das Contribuições e Impostos.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
@@ -217,11 +273,17 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Regras para reavaliação do activo imobilizado
 
-1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das desvalorizações intrínsecas desses mesmos bens.
+1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das valorizações intrínsecas desses mesmos bens, podendo ser usados nessas reavaliações os seguintes critérios:
 
-2. O critério geral de reavaliação é o do valor de subtituição (ou valor novo), entendendo-se por tal, para efeito destas regras, aquele que, à data da reavaliação de cada componente do imobilizado corpóreo, teria de ser despendido na aquisição (ou construção) e instalação de uma unidade nova ou idêntica ou equiparável em capacidade, custos de produção e qualidade de produto a obter.
+a) Para os bens ainda não totalmente amortizados e não adquiridos em estado de uso, o critério do valor de substituição (ou valor novo) ou o critério da correcção monetária, nos termos das regras 2, 3 e 4;
 
-3. Não existindo à data da reavaliação unidades idênticas ou equiparáveis, nos termos do número anterior, o valor reavaliado de cada componente do imobilizado corpóreo obtém-se pela aplicação aos respectivos valores de aquisição (ou construção) e instalação dos coeficientes de correcção monetária publicados anualmente pelo Ministério das Finanças para efeitos da determinação da matéria colectável do imposto de mais-valias, de acordo com a [Portaria n.º 556/76](https://diariodarepublica.pt/dr/detalhe/portaria/556-1976-408715), de 6 de Setembro, presentemente em vigor.
+b) Para os bens ainda não totalmente amortizados e adquiridos em estado de uso, os critérios referidos na regra 6;
+
+c) Para os bens totalmente amortizados, o critério estabelecido na regra 5.
+
+2. Entende-se por valor de substituição aquele que à data da reavaliação de cada componente do imobilizado corpóreo teria de ser despendido na aquisição (ou construção) e instalação de uma unidade nova ou idêntica ou equiparável em capacidade, custos de produção e qualidade de produto a obter.
+
+3 - Pela aplicação do critério da correcção monetária, o valor reavaliado obtém-se pela aplicação aos respectivos valores de aquisição (ou construção) e instalação dos coeficientes de correcção monetária publicados anualmente pelo Ministério das Finanças e do Plano para efeitos de determinação da matéria colectável do imposto de mais-valias.
 
 4. Após determinação do valor reavaliado de cada componente do imobilizado corpóreo, o valor acumulado das respectivas amortizações ou reintegrações terá de ser corrigido em conformidade, por forma que o valor líquido correspondente reflicta, em termos actuais, a depreciação sofrida. Para o efeito, o valor líquido contabilístico será actualizado pela aplicação de um coeficiente que traduza a relação existente entre o valor bruto reavaliado, segundo qualquer dos critérios anteriores, e o valor bruto originário (ou contabilístico).
 
@@ -231,6 +293,8 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Se o critério usado para reavaliação de tais bens for o do valor de substituição referido no n.º 2, o valor em novo que se apurar será reduzido na proporção necessária para ter em conta o seu estado de uso à data da sua aquisição pela empresa.
 
-7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, após exame solicitado à Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
+7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, mediante parecer fundamentado da Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
 
 O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
+
+> Alterado pelo/a [Decreto-Lei n.º 66/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1979-382999), publicado em 1979-03-30.

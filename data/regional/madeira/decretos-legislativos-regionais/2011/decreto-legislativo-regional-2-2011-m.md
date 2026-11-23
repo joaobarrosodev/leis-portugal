@@ -39,10 +39,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-01'
+version_history:
+  file: decreto-legislativo-regional-2-2011-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-01'
+    amending: pt:dre:278177:por
+    amending_title: Decreto Legislativo Regional n.º 4/2011/M; Decreto Legislativo Regional n.º 11/2011/M; Decreto Legislativo
+      Regional n.º 13/2011/M; Decreto Legislativo Regional n.º 5/2012/M; Decreto Legislativo Regional n.º 28/2013/M; Decreto
+      Legislativo Regional n.º 18/2014/M
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 26.º
+    - Altera Artigo 41.º
+    - Altera Artigo 49.º
+    - Altera Artigo 53.º
+    - Altera Artigo 13.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Adita Artigo 24.º-A
+    - Altera Artigo 54.º
+    - Adita Artigo 50.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2011/01/10/m/dre/pt/html
@@ -68,7 +94,10 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    4/2011/M; Decreto Legislativo Regional n.º 11/2011/M; Decreto Legislativo Regional n.º 13/2011/M; Decreto Legislativo
+    Regional n.º 5/2012/M; Decreto Legislativo Regional n.º 28/2013/M; Decreto Legislativo Regional n.º 18/2014/M. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2011/decreto-legislativo-regional-2-2011-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -513,9 +542,11 @@ d) Reforço das dotações orçamentais para amortização de capital.
 
 ###### Artigo 9.º — Operações activas do Tesouro Público Regional
 
-1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar operações activas até ao montante de 45 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
+1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar operações activas até ao montante de 75 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
 
 2 - Fica, ainda, o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a renegociar as condições contratuais de empréstimos anteriores, ou a remir os créditos daqueles resultantes.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), publicado em 2011-08-05.
 
 ###### Artigo 10.º — Recuperação de créditos
 
@@ -537,7 +568,9 @@ Fica o Governo Regional autorizado a alienar as participações sociais que a Re
 
 ###### Artigo 13.º — Avales da Região
 
-O limite máximo para a concessão de avales da Região em 2011 é fixado em termos de fluxos líquidos anuais em 250 milhões de euros.
+O limite máximo para a concessão de avales da Região em 2011 é fixado em termos de fluxos líquidos anuais em 390 milhões de euros.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), publicado em 2011-07-06.
 
 ### CAPÍTULO V — Adaptação do sistema fiscal nacional às especificidades regionais
 
@@ -599,17 +632,21 @@ c) As sucursais situadas na Região Autónoma da Madeira de instituições de cr
 
 ###### Artigo 19.º — Incidência objectiva
 
-A contribuição sobre o sector bancário incide sobre:
+A contribuição sobre o setor bancário incide sobre:
 
-a) O passivo apurado e aprovado pelos sujeitos passivos deduzido dos fundos próprios de base (Tier 1) e complementares (Tier 2) e dos depósitos abrangidos pelo Fundo de Garantia de Depósitos;
+a) O passivo apurado e aprovado pelos sujeitos passivos deduzido dos fundos próprios de base (tier 1) e complementares (tier 2) e dos depósitos abrangidos pelo Fundo de Garantia de Depósitos e pelo Fundo de Garantia do Crédito Agrícola Mútuo, e os depósitos na Caixa Central constituídos por caixas de crédito agrícola mútuo pertences ao Sistema Integrado do Crédito Agrícola Mútuo, ao abrigo do artigo 72.º do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de janeiro, republicado pelo [Decreto-Lei n.º 142/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2009-494547), de 16 de junho;
 
 b) O valor nocional dos instrumentos financeiros derivados fora do balanço apurado pelos sujeitos passivos.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 5/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), publicado em 2012-03-30.
+
 ###### Artigo 20.º — Taxa
 
-1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo anterior varia entre 0,01 % e 0,05 % em função do valor apurado.
+1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo anterior varia entre 0,01 % e 0,085 % em função do valor apurado.
 
-2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo anterior varia entre 0,000 10 % e 0,000 20 % em função do valor apurado.
+2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo anterior varia entre 0,00010 % e 0,00030 % em função do valor apurado.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 18/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), publicado em 2014-12-31.
 
 ###### Artigo 21.º — Liquidação
 
@@ -629,6 +666,12 @@ A liquidação é efectuada pelo próprio sujeito passivo, através de declaraç
 
 A base de incidência definida pelo artigo 19.º, as taxas aplicáveis nos termos do artigo 20.º, bem como as regras de liquidação, de cobrança e de pagamento da contribuição são objecto de regulamentação por portaria do secretário regional com a tutela das finanças, ouvido o Banco de Portugal.
 
+###### Artigo 24.º-A — Receita
+
+A receita da contribuição sobre o setor bancário para a Região Autónoma da Madeira, aprovado pelos artigos 17.º a 24.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, reverte integralmente para o Orçamento da Região Autónoma da Madeira, de acordo com o disposto no n.º 1 do artigo 32.º da Lei Orgânica n.º 2/2013, de 2 de setembro.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 18/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), publicado em 2014-12-31.
+
 ### CAPÍTULO VI — Execução orçamental
 
 ###### Artigo 25.º — Execução
@@ -641,7 +684,11 @@ O Governo Regional tomará as medidas necessárias para uma rigorosa contenção
 
 2 - Fica o Governo Regional autorizado a efectuar as alterações orçamentais indispensáveis, tendo em vista a maximização da utilização dos recursos financeiros disponíveis, independentemente da natureza das classificações funcionais e classificações orgânicas previstas no Orçamento Regional para 2011.
 
-3 - O disposto no número anterior é apenas aplicável em casos excepcionais e devidamente justificados, que envolvam a necessidade de reafectação de dotações orçamentais, decorrentes da mobilidade de recursos humanos entre serviços da administração regional, reestruturação de serviços, de ajustamentos em dotações orçamentais afectas à execução de projectos co-financiados e dos reajustamentos orçamentais decorrentes das necessidades de execução dos projectos de reconstrução na sequência da intempérie de 20 de Fevereiro de 2010.
+3 - Fica ainda autorizado o Governo Regional, através do Secretário Regional do Plano e Finanças, em conjunto com o membro do Governo responsável pelo orçamento objecto de alteração, a proceder à inscrição ou reforço de dotações orçamentais, na sequência do aumento da previsão de receitas, decorrentes da obtenção de fundos adicionais, com o objectivo de proceder à regularização e ou integração de compromissos.
+
+4 - O disposto no número anterior é apenas aplicável em casos excepcionais e devidamente justificados, que envolvam a necessidade de reafectação de dotações orçamentais, decorrentes da mobilidade de recursos humanos entre serviços da administração regional, reestruturação de serviços, de ajustamentos em dotações orçamentais afectas à execução de projectos co-financiados e dos reajustamentos orçamentais decorrentes das necessidades de execução dos projectos de reconstrução na sequência da intempérie de 20 de Fevereiro de 2010.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), publicado em 2011-08-05.
 
 ###### Artigo 27.º — Cativações orçamentais
 
@@ -811,7 +858,17 @@ Fica o Governo Regional autorizado, mediante resolução do plenário do Conselh
 
 1 - Em 2011, serão reduzidos os montantes das transferências e apoios para entidades de direito privado, cujo financiamento dependa em mais de 50 % de verbas do Orçamento Regional, em pelo menos 5 % dos valores atribuídos em 2010.
 
-2 - O disposto no número anterior prevalece sobre todas as disposições legais, gerais ou especiais em contrário.
+2 - O disposto no número anterior aplica-se apenas aos apoios e transferências destinadas a co-financiar encargos de funcionamento das entidades abrangidas, excluindo os apoios no âmbito da acção social, incidindo a redução sobre o valor dos contratos anteriormente celebrados.
+
+3 - Nos casos dos apoios ao ensino particular e cooperativo quando, por motivo de alteração do número de alunos, não seja possível aplicar o n.º 1 do presente artigo, aplica-se o critério nele previsto calculado com base no valor unitário por aluno.
+
+4 - A redução prevista no presente artigo aplica-se na renovação dos respectivos contratos.
+
+5 - A atribuição de novos apoios, em que não seja possível aferir do estabelecido no n.º 1, deverá reger-se pelos princípios da economicidade, eficiência e eficácia das despesas.
+
+6 - O disposto nos números anteriores prevalece sobre todas as disposições legais, gerais ou especiais em contrário.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), publicado em 2011-08-05.
 
 ###### Artigo 42.º — Gestão financeira dos projectos enquadrados em programas e iniciativas comunitários no âmbito do sector das pescas
 
@@ -921,17 +978,45 @@ As despesas relativas aos programas e projectos que, nos termos do presente dipl
 
 1 - Os procedimentos concursais ou concursos para categorias superiores de carreiras pluricategoriais, gerais ou especiais, ou, no caso das carreiras não revistas e subsistentes, incluindo carreiras e corpos especiais, para as respectivas categorias de acesso, incluindo os procedimentos internos para mudança de nível ou escalão, pendentes à data da entrada em vigor do diploma que aprova o Orçamento do Estado para 2011, mantêm a respectiva validade.
 
-2 - Com vista ao cumprimento dos princípios orientadores de gestão de recursos humanos da administração pública regional, estão sujeitos a parecer do membro do Governo responsável pelas finanças os seguintes procedimentos:
+2 - O posicionamento remuneratório por negociação na sequência de procedimentos concursais abertos ou mantidos válidos, ao abrigo de disposições contidas no presente diploma e na [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, obedece ao disposto no artigo 26.º da citada lei com as especificidades constantes dos números seguintes.
 
-a) O posicionamento remuneratório do trabalhador, na sequência de procedimento concursal, nos termos do artigo 55.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, quando a posição remuneratória determinada não seja a primeira posição da carreira, ou, no caso de recrutamento de licenciados para a carreira técnica superior, quando o posicionamento seja superior à segunda posição;
+3 - Quando o processo de negociação se estabeleça entre a entidade empregadora pública e trabalhador detentor de uma prévia relação jurídica de emprego público por tempo indeterminado, a entidade empregadora pública propõe a posição remuneratória prevista nas alíneas b), c) ou d) do n.º 1 do artigo 26.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, consoante os casos.
+
+4 - Nas situações em que o trabalhador na situação jurídico-funcional de origem aufira uma remuneração superior à resultante da sua colocação numa das posições remuneratórias referidas no número anterior, a entidade empregadora pública pode propor a posição remuneratória a que corresponda nível remuneratório de montante pecuniário idêntico ao da remuneração base da carreira ou categoria de origem.
+
+5 - Em caso de falta de identidade, a entidade empregadora pode criar uma posição virtual, cujo montante pecuniário corresponda à remuneração base da carreira ou categoria que o trabalhador detém, propondo-a ao trabalhador.
+
+6 - Com vista ao cumprimento dos princípios orientadores de gestão de recursos humanos da administração pública regional, estão sujeitos a parecer do membro do Governo responsável pelas finanças os seguintes procedimentos:
+
+a) O posicionamento remuneratório resultante da aplicação do disposto nos n.os 4 e 5;
 
 b) A mobilidade interna de trabalhadores dos órgãos e serviços da administração central e autárquica, para os restantes órgãos e serviços da administração pública regional;
 
 c) O eventual recrutamento de trabalhadores dos órgãos e serviços da administração central e autárquica, para os restantes órgãos e serviços da administração pública regional.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), publicado em 2011-08-05.
+
 ###### Artigo 50.º — Redução remuneratória na administração pública regional
 
 A redução remuneratória constante do artigo 19.º da lei que aprova o Orçamento do Estado para 2011 é ainda aplicável às remunerações dos titulares dos cargos ou pessoal da administração pública regional que se encontrem indexadas às de qualquer dos titulares e pessoal previstos no n.º 9 do referido normativo, independentemente da natureza da indexação.
+
+###### Artigo 50.º-A — Aumentos remuneratórios
+
+1 - É vedada a prática de atos que consubstanciem aumentos remuneratórios, sem prejuízo das situações permitidas por lei, e das previstas no presente artigo.
+
+2 - Para efeitos do disposto no número anterior consubstanciam aumentos remuneratórios, os atos previstos no artigo 35.º da [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro.
+
+3 - Sem prejuízo do disposto no número seguinte, os aumentos remuneratórios decorrentes de alterações de posicionamento remuneratório, progressões e promoções relativos a actos praticados em 2010 devem, obrigatoriamente, ser processados com sujeição ao n.º 5 do artigo 24.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, até 31 de Agosto de 2011, data a partir da qual se encontram expressamente vedados.
+
+4 - As alterações de posicionamento remuneratório ou progressões relativas a actos praticados em 2010, que apesar de assumidas pelo Governo Regional naquele ano ainda não foram processadas, podem ser pagas após a publicação do presente diploma, não se aplicando nesses casos o disposto na parte final do n.º 5 do artigo 24.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro.
+
+5 - Excecionalmente podem ser realizados atos de alteração de posicionamento remuneratório e de progressão desde que os respetivos requisitos se tenham verificado até 31 de dezembro de 2010.
+
+6 - Para efeitos do disposto no número anterior os serviços devem proceder no prazo máximo de 45 dias contados do dia seguinte ao da publicação do presente diploma, a uma reapreciação da situação dos respetivos trabalhadores.
+
+7 - O processo de alteração de posicionamento remuneratório e de progressão depende do parecer prévio do Secretário Regional do Plano e Finanças, e só pode ocorrer dentro do prazo referido no número anterior.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 28/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), publicado em 2013-08-06.
 
 ###### Artigo 51.º — Reorganização de serviços na administração pública regional
 
@@ -951,15 +1036,27 @@ Ficam suspensas as reorganizações de serviços públicos da administração p�
 
 ###### Artigo 53.º — Contratos de aquisição de serviço
 
-1 - O disposto no artigo 19.º da lei que aprova o Orçamento do Estado para 2011 é aplicável aos valores pagos por contratos de aquisição de serviços, que venham a celebrar-se ou renovar-se em 2011, com idêntico objecto e a mesma contraparte, celebrados por órgãos, serviços da administração pública regional e demais entidades abrangidas pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
+1 - O disposto no artigo 19.º da lei que aprova o Orçamento do Estado para 2011 é aplicável aos valores pagos por contratos de aquisição de serviços, que venham a celebrar-se ou renovar-se em 2011, com idêntico objecto e a mesma contraparte, celebrados por órgãos, serviços da administração pública regional e demais entidades abrangidas pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, com excepção dos seguintes casos:
 
-2 - Carece de parecer prévio vinculativo dos membros do Governo responsáveis pelas áreas da administração pública e das finanças, nos termos e segundo a tramitação a regular por portaria dos referidos membros do Governo, a celebração ou a renovação de contratos de aquisição de serviços por órgãos e serviços abrangidos pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, independentemente da natureza da contraparte, designadamente no que respeita a:
+a) Aquisição de serviços essenciais, água, energia eléctrica, gás natural e gases de petróleo liquefeitos canalizados, comunicações electrónicas, serviços postais, tratamento de águas residuais, e gestão de resíduos sólidos e urbanos, que se encontram previstos no n.º 2 do artigo 1.º da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de Julho, alterada pelas Leis n.os [12/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), de 26 de Fevereiro, e [24/2008](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), de 2 de Junho;
+
+b) Contratos mistos cujo tipo contratual preponderante não seja o da aquisição de serviços ou em que o serviço assuma um carácter acessório da disponibilização de um bem;
+
+c) Aquisição de serviços por órgãos ou serviços adjudicantes ao abrigo de acordo quadro;
+
+d) Aquisição de serviços quando os contratos sejam celebrados ou venham a ser renovados, nos casos permitidos por lei, ao abrigo de concurso público ou procedimentos com consulta a pelo menos cinco entidades, em que o critério de adjudicação seja o do mais baixo preço;
+
+e) Aquisição de serviços a pessoas colectivas públicas que sejam por lei as únicas entidades habilitadas à prestação desse serviço;
+
+2 - As aquisições de serviços abrangidas pelo âmbito de aplicação do número anterior, que não sejam passíveis de sofrer a referida redução remuneratória em virtude das regras de funcionamento de mercado, nomeadamente viagens, transportes aéreos e ferroviários, alojamentos e participação em feiras nacionais e internacionais cujos preços são tabelados, a redução remuneratória é substituída pela obrigação de redução efectiva, em 10 % dos custos globais com aquelas aquisições de serviços.
+
+3 - Carece de parecer prévio vinculativo dos membros do Governo responsáveis pelas áreas da administração pública e das finanças, nos termos e segundo a tramitação a regular por portaria dos referidos membros do Governo, a celebração ou a renovação de contratos de aquisição de serviços por órgãos e serviços abrangidos pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, independentemente da natureza da contraparte, designadamente no que respeita a:
 
 a) Contratos de prestação de serviços nas modalidades de tarefa e de avença;
 
 b) Contratos de aquisição de serviços cujo objecto seja a consultadoria técnica.
 
-3 - O parecer previsto no número anterior depende da:
+4 - O parecer previsto no número anterior depende da:
 
 a) Verificação do requisito previsto na alínea a) do n.º 2 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro;
 
@@ -967,9 +1064,11 @@ b) Confirmação de declaração de cabimento orçamental emitida pela Direcçã
 
 c) Verificação do cumprimento do disposto no n.º 1.
 
-4 - O disposto no n.º 5 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e no n.º 2 do artigo 6.º do [Decreto-Lei n.º 209/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2009-489486), de 3 de Setembro, alterado pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril, aplica-se aos contratos previstos no presente artigo.
+5 - O disposto no n.º 5 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e no n.º 2 do artigo 6.º do [Decreto-Lei n.º 209/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2009-489486), de 3 de Setembro, alterado pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril, aplica-se aos contratos previstos no presente artigo.
 
-5 - São nulos os contratos de aquisição de serviços celebrados sem o parecer previsto nos n.os 2 e 3.
+6 - São nulos os contratos de aquisição de serviços celebrados sem o parecer previsto nos n.os 2 e 3.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), publicado em 2011-08-05.
 
 ###### Artigo 54.º — Contenção e redução de despesa no sector empresarial da Região Autónoma da Madeira
 
@@ -985,9 +1084,13 @@ b) Os trabalhadores das empresas públicas de capital exclusiva ou maioritariame
 
 4 - É vedada a prática de quaisquer actos que consubstanciem valorizações remuneratórias dos gestores públicos e dos trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público.
 
-5 - O valor do subsídio de refeição abonado aos gestores públicos e trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público, nos casos em que nos termos da lei ou por acto próprio tal esteja previsto, não pode ser superior ao valor fixado na [Portaria n.º 1553-D/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-d-2008-243733), de 31 de Dezembro, cessando o abono de quaisquer outros valores a título de subsídio de refeição a partir da entrada em vigor do presente decreto.
+5 - Sem prejuízo do disposto no número seguinte, o valor do subsídio de refeição abonado aos gestores públicos e trabalhadores das entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público, nos casos em que nos termos da lei ou por acto próprio tal esteja previsto, não pode ser superior ao valor fixado na [Portaria n.º 1553-D/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-d-2008-243733), de 31 de Dezembro, alterada pela [Portaria n.º 1458/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), de 31 de Dezembro.
 
-6 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer normas legais ou convencionais, especiais ou excepcionais, em contrário, e, consoante as situações, sobre instrumentos de regulamentação colectiva de trabalho e de contratos de trabalho não podendo ser modificado ou afastado pelos mesmos.
+6 - A partir da data de entrada em vigor do presente diploma, os valores percebidos a 31 de Dezembro de 2010 a título de subsídio de refeição que não coincidam com o montante fixado na portaria referida no número anterior não são objecto de qualquer actualização até que esse montante atinja aquele valor.
+
+7 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer normas legais ou convencionais, especiais ou excepcionais, em contrário, e, consoante as situações, sobre instrumentos de regulamentação colectiva de trabalho e de contratos de trabalho não podendo ser modificado ou afastado pelos mesmos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2011-278177), publicado em 2011-03-11.
 
 ###### Artigo 55.º — Alteração ao [Decreto Legislativo Regional n.º 13/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-333368), de 5 de Agosto
 

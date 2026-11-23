@@ -39,10 +39,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-03-21'
+version_history:
+  file: decreto-lei-337-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-21'
+    amending: pt:dre:536639:por
+    amending_title: Decreto-Lei n.º 334/2001; Decreto-Lei n.º 46/2002; Decreto-Lei n.º 95/2010; Decreto-Lei n.º 44/2014
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::1.º
+    - Altera Artigo ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::3.º
+    - Altera Artigo ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::10.º
+    - Revoga Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::9.º
+    - Altera Artigo ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
+    - Altera Artigo ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/337/1998/11/03/p/dre/pt/html
@@ -68,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/2001; Decreto-Lei
+    n.º 46/2002; Decreto-Lei n.º 95/2010; Decreto-Lei n.º 44/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-337-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,7 +267,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da
 
 ###### Artigo 3.º
 
-1 - A APS, S. A., assegurará o exercício das competências necessárias ao regular funcionamento do porto de Sines nos seus múltiplos aspectos de ordem económica, financeira e patrimonial, de gestão de efectivos e de exploração portuária e ainda as actividades que lhe sejam complementares, subsidiárias ou acessórias, no mesmo âmbito e nos mesmos termos que vinham a ser observados pela Administração do Porto de Sines.
+1 - A APS, S.A., assegura o exercício das competências necessárias ao regular funcionamento dos portos de Sines, de Faro e de Portimão nos seus múltiplos aspetos de ordem económica, financeira e patrimonial, de gestão de efetivos e de exploração portuária e ainda as atividades que lhe sejam complementares, subsidiárias ou acessórias.
 
 2 - No âmbito das atribuições a que se refere o número anterior, são conferidas à APS, S. A., competências para:
 
@@ -259,13 +283,17 @@ e) Protecção das suas instalações e do seu pessoal;
 
 f) Uso público dos serviços inerentes à actividade portuária e sua fiscalização.
 
+g) Assunção da responsabilidade em matéria de segurança marítima e portuária na sua área de jurisdição, definindo as condições de segurança de funcionamento do porto, em todas as suas vertentes, tendo em atenção a necessidade de garantir, de forma adequada, a sua exploração comercial.
+
 3 - No exercício das competências referidas no número anterior, o pessoal da APS, S. A., pode:
 
 a) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;
 
 b) Usar armas para defesa própria, dos objectos de serviço e das instalações ou valores à sua guarda, quando devidamente autorizado, nos termos gerais.
 
-4 - A livre entrada a bordo dos navios fundeados no porto de Sines ou atracados aos cais será sempre facultada aos funcionários da APS, S. A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade mediante a apresentação de documento de identificação emitido pela APS, S. A., acreditando-os para aquela missão.
+4 - A livre entrada a bordo dos navios fundeados nos portos de Sines, de Faro ou de Portimão, ou atracados aos respetivos cais, é sempre facultada aos funcionários da APS, S.A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade mediante a apresentação de documento de identificação emitido pela APS, S.A., acreditando-os para aquela missão.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 4.º
 
@@ -289,7 +317,7 @@ Nos terrenos situados dentro da sua área de jurisdição, as obras a que se ref
 
 ###### Artigo 7.º
 
-1 - A APS, S. A., prosseguirá o seu objecto e atribuições, no âmbito da área de jurisdição da Administração do Porto de Sines, até à sua redefinição, cuja concretização geográfica compreende duas zonas:
+1 - A APS, S. A., prossegue o seu objecto e as suas atribuições, no âmbito da área de jurisdição da Administração do Porto de Sines, cuja concretização geográfica compreende duas zonas:
 
 a) Zona marítima;
 
@@ -305,51 +333,73 @@ c) A sul pelo paralelo 100000;
 
 d) A poente pelo meridiano 131000.
 
-3 - A zona terrestre é limitada por uma linha fechada definida pelos pontos de coordenadas militares e acidentes que a seguir se indicam:
+3 - A zona terrestre é limitada por uma linha poligonal aberta definida pelos pontos de coordenadas militares e acidentes que a seguir se indicam:
 
 a) Ponto de intersecção da linha de costa com o meridiano 140175;
 
 b) Alinhamento recto definido pelo ponto anterior e a intersecção do meridiano 140175 com a berma sul da estrada nacional n.º 120-1;
 
-c) Segue para oeste ao longo da berma sul da estrada nacional n.º 120-1, e na continuação desta, pela berma sul da via R 53 até ao ponto de intersecção desta com o meridiano 138500;
+c) Segue para oeste ao longo da berma sul da estrada nacional n.º 120-1, até à rotunda de Vale Marim (terminal xxi), contornando esta pela berma sul e seguindo ao longo da berma oeste da estrada regional n.º 261-5 até ao ponto de coordenadas x = 139078,03; y = 108965,60;
 
-d) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 138600 e y = 108775;
+d) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 137924,32; y = 109638,02;
 
-e) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 138670 e y = 109240;
+e) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 137686,59; y = 109601,47;
 
-f) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 138440 e y = 110050;
+f) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 137347,84; y = 109720,59;
 
-g) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 137000 e y = 109750;
+g) Alinhamento curvo composto por seis semi-rectas definido pelo ponto anterior e os pontos com as seguintes coordenadas: x = 137321,61, y = 109696,51; x = 137228,29, y = 109645,81; x = 137071,78, y = 109617,23; x = 136893,64, y = 109583,21; x = 136738,91, y = 109573,53 até ao ponto de coordenadas x = 136692,94, y = 109591,31;
 
-h) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 136500 e y = 109750;
+h) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 136635,42, y = 109520,06;
 
-i) Alinhamento recto definido pelo ponto anterior e pelo ponto de coordenadas x = 136360 e y = 109840;
+i) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 136517,98, y = 109610,40;
 
-j) Alinhamento recto definido pelo ponto anterior e pelo ponto de intersecção do meridiano 136000 com a linha que margina imediatamente a norte a via R 53;
+j) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 136363,46, y = 109418,80;
 
-l) Segue pela linha que margina imediatamente a norte a via R 53 até um ponto situado numa perpendicular a esta via que contém um ponto 50 m a poente do Largo da Senhora das Salvas e situado no eixo da Rua do Forte;
+l) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 136204,38, y = 109525,69;
 
-m) Linha definida pela perpendicular à via R 53 que passa por um ponto a 50 m a poente do Largo da Senhora das Salvas e situado no eixo da Rua do Forte, segue-o até encontrar o prolongamento das traseiras dos edifícios com fachada N. E. do Largo da Senhora das Salvas, segue o citado prolongamento, contorna as traseiras dos prédios de fachada S. E. do mesmo largo, continuando depois pela berma sul da Estrada dos Estaleiros até a cruzamento desta estrada com a via de acesso à torre de queima do terminal petroquímico, segue pela berma sul desta via até encontrar o limite de segurança sul dos oleodutos;
+m) Alinhamento recto definido pelo ponto anterior com o ponto de coordenadas x = 136059,02, y = 109379,35;
 
-n) Segue ao longo do limite de segurança sul dos oleodutos até ao ponto de intersecção destes com a bateria limite;
+n) Linha definida pela base do muro existente de este para oeste, definido pelos pontos com as seguintes coordenadas: x = 135959,76, y = 109475,38; x = 135952,67, y = 109490,28; x = 135941,45, y = 109499,86; x = 135916,57, y = 109519,08; x = 135861,47, y = 109597,89 até ao ponto de coordenadas x = 135833,99, y = 109625,40;
 
-o) Deste ponto segue a bateria limite até ao ponto de intersecção desta com o limite de segurança norte dos oleodutos;
+o) Alinhamento recto definido pelo ponto anterior e o ponto de intersecção com a linha do lancil, que margina imediatamente a sul a via R 53, com as seguintes coordenadas x = 135819,72, y = 109618,67;
 
-p) Segue ao longo do limite norte dos oleodutos até ao ponto de encontro com a berma sul da via R 52;
+p) Segue desde o ponto anterior, pela linha que margina imediatamente a sul a via R 53, inflectindo no ponto perpendicular com o início do muro da praia Vasco da Gama, terminando no início do muro da praia Vasco da Gama;
 
-q) Segue para oeste da berma sul da via R 52 até ao ponto de cruzamento com o meridiano 135000;
+q) Segue desde o ponto anterior, pela linha que margina imediatamente a sul o muro e acessos da praia Vasco da Gama, até ao muro do porto de pesca, contornando pela face norte do muro do porto de pesca, segue o alinhamento deste com a linha que margina imediatamente a sul a Avenida de Vasco da Gama, até um ponto situado na projecção vertical do viaduto de acesso ao Terminal de Granéis Líquidos de Sines, com as coordenadas x = 134523,48, y = 109679,22;
 
-r) Começando no ponto anterior, segue para norte ao longo do meridiano 135000 até ao ponto de intersecção deste alinhamento com a linha de costa;
+r) Alinhamento recto definido pelo ponto anterior e o ponto de coordenadas x = 134572,52, y = 109711,06;
 
-s) Linha de costa desde o ponto anterior até ao ponto definido na alínea a), fechando assim o contorno da delimitação da zona terrestre.
+s) Linha definida pelo ponto anterior e o contorno das escadas de acesso, base do murete de pedra circundante do jardim do edifício sede da APS, S. A., até à intersecção com o muro das instalações da Capitania de Sines com o muro de suporte circular designado 'Salgas', no ponto de coordenadas x = 134753,44, y = 109706,17;
 
-4 - A redefinição da área de jurisdição da Administração do Porto de Sines será efectuada em articulação entre os Ministérios do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, precedendo obrigatoriamente a avaliação a que se refere o artigo 10.º
+t) Linha definida pelo ponto anterior, contornando as instalações e os edifícios da Capitania de Sines até ao portão de acesso com os pontos de coordenadas x = 134771,38, y = 109777,08 e x = 134767,84, y = 109780,45, seguindo pelo lancil a nordeste do acesso ao parque de estacionamento do edifício da APS, S. A., até à intersecção com o murete norte desse acesso, continuando pelo murete norte do acesso ao parque de estacionamento do edifício sede da APS, S. A., até ao ponto de coordenadas x = 134731,84, y = 109921,86;
+
+u) Linha definida pelo ponto anterior e a linha que segue a berma sul da Estrada dos Estaleiros até ao cruzamento desta entrada com a via de acesso à torre de queima do terminal petroquímico, seguindo pela berma sul desta via até encontrar o limite de segurança dos oleodutos;
+
+v) Segue ao longo do limite de segurança sul dos oleodutos até ao ponto de intersecção destes com a bateria limite;
+
+x) Do ponto anterior segue a bateria limite até ao ponto de intersecção desta com o limite de segurança norte dos oleodutos;
+
+z) Segue ao longo do limite norte dos oleodutos até ao ponto de encontro com a berma sul da via R 52;
+
+aa) Segue do ponto anterior para oeste ao longo da berma sul da via R 52 até ao ponto de cruzamento com o meridiano 135000;
+
+bb) Começando no ponto anterior, segue para norte ao longo do meridiano 135000 até ao ponto de intersecção deste alinhamento com a linha de costa;
+
+cc) Linha de costa desde o ponto anterior até ao ponto definido na alínea a), fechando assim o contorno da delimitação da zona terrestre.
+
+4 - (Revogado.)
 
 5 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade dentro da área de jurisdição da APS, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Alentejo.
 
+6 - A APS, S.A., prossegue o seu objeto e as suas atribuições, igualmente, nas áreas de jurisdição identificadas no artigo 6.º do Decreto-Lei n.º 44/2014.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
+
 ###### Artigo 8.º
 
-A redefinição da área de jurisdição da APS, S. A., será efectuada tendo em conta a avaliação dos critérios e mecanismos que permitam ajustar as competências e as contrapartidas dos sectores envolvidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
 
 ###### Artigo 9.º
 
@@ -375,13 +425,11 @@ A APS, S. A., só pode participar na constituição e adquirir participações e
 
 1 - A APS, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.
 
-2 - Como órgão consultivo do conselho de administração, a APS, S. A., tem uma comissão de coordenação portuária, à qual compete a formulação de pareceres e recomendações em matérias relacionadas com:
+2 - (Revogado.)
 
-a) A segurança da navegação e a definição dos condicionamentos necessários para garantir e assegurar as ajudas à navegação e sinalização marítimas na área de jurisdição da APS, S. A.;
+3 - (Revogado.)
 
-b) A garantia de um integrado desempenho do serviço de pilotagem.
-
-3 - A comissão de coordenação portuária é composta por três membros, um dos quais representante do conselho de administração, que preside, outro em representação da capitania do porto da área de jurisdição da APS, S. A., e um terceiro a designar pelo Ministro do Equipamento, do Planeamento e da Administração do Território.
+> Alterado pelo/a [Decreto-Lei n.º 46/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), publicado em 2002-03-02.
 
 ###### Artigo 13.º
 
@@ -475,7 +523,11 @@ Referendado em 16 de Outubro de 1998.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
+## ANEXO I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
 
 ## ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.
 
@@ -483,9 +535,11 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ###### Artigo 1.º — Denominação e duração
 
-1 - A sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de APS - Administração do Porto de Sines, S. A., abreviadamente designada por APS, S. A.
+1 - A sociedade adota a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de APS - Administração dos Portos de Sines e do Algarve, S.A., abreviadamente designada por APS, S.A.
 
 2 - A sociedade tem duração ilimitada.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 2.º — Sede
 
@@ -495,7 +549,9 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ###### Artigo 3.º — Objecto
 
-A APS, S. A., tem por objecto a administração do porto do Sines, visando a sua exploração económica, conservação e desenvolvimento e abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
+A APS, S.A., tem por objeto a administração dos portos de Sines, de Faro e de Portimão, visando a sua exploração económica, conservação e desenvolvimento, abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
@@ -575,11 +631,13 @@ i) Deliberar sobre a emissão ou conversão de acções ou outros títulos em fo
 
 ###### Artigo 9.º — Composição do conselho de administração
 
-1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
+1 - O conselho de administração e composto por um presidente e dois vogais.
 
 2 - O mandato dos membros do conselho de administração tem a duração de três anos, podendo ser renovado.
 
 3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.
+
+> Alterado pelo/a [Decreto-Lei n.º 334/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-2001-536639), publicado em 2001-12-24.
 
 ###### Artigo 10.º — Competência do conselho de administração
 
@@ -605,7 +663,7 @@ i) Deliberar sobre a realização de empréstimos ou outras operações financei
 
 j) Autorizar a concessão de subsídios a organismos oficiais ou privados cujas actividades interessam directa ou indirectamente à acção da APS, S. A., bem como a obras de carácter social e cultural;
 
-l) Deliberar sobre a criação de zonas francas ou de armazéns gerais francos na área do porto de Sines e apresentar as respectivas propostas aos ministérios competentes;
+l) Deliberar sobre a criação de zonas francas ou de armazéns gerais francos nas áreas dos portos de Sines, de Faro e de Portimão e apresentar as respetivas propostas aos ministérios competentes;
 
 m) Administrar o domínio público na sua área de jurisdição, atribuir licenças e concessões para a sua utilização e definir o interesse público do respectivo uso privativo para efeitos de concessão;
 
@@ -630,6 +688,8 @@ v) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo
 x) Constituir mandatários da sociedade com os poderes que julgue convenientes;
 
 z) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 11.º — Delegação de competências
 

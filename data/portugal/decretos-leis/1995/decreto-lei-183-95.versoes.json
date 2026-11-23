@@ -1,0 +1,950 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484667:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56cc7622839342a3",
+    "23836370ae405d04",
+    "aef15666ec39e3bb",
+    "217f71b68f580234",
+    "c4b537a91269ab21",
+    "52c16202f93512af",
+    "588145ca1402a797",
+    "9f6119e8460705ea",
+    "3d4dd3190a4aa1f2",
+    "cbc57b53555a5bd0",
+    "d6721b32b6f468d4",
+    "2d35901fa88691eb",
+    "051abc2b8e7065eb",
+    "dd038f32c3aab9ec",
+    "89fea4276fbc4019",
+    "7af40d209ddf90d8",
+    "77c3ed08dfc900cc",
+    "d9ab7a2b5c121b76",
+    "6b3b8a44491d4ff9",
+    "9462759c6dceb0a3",
+    "24349ffa21f5a338",
+    "5778ffb83d933618",
+    "20508279071114be",
+    "6c3711bbcab0a8a9",
+    "8d0dad3cc4dbfa2e",
+    "b0fe87f391662bac",
+    "4f1096a7be547017",
+    "5ace3b1447682ad4",
+    "906e96717e52d25e",
+    "84938e6dfc4c3552",
+    "2ecfe075a9160718",
+    "979a555e55da12dc",
+    "a102fb38b32174f2",
+    "86eff67ecb296f6c",
+    "659fa711b45261d0",
+    "89363f89e8a4ae07",
+    "9aa2ec4e4cd2c678",
+    "ffb55d363e26ff97",
+    "99de22ddcf4e3c29",
+    "3f072a8fd70df458",
+    "b4d490cc30056e41",
+    "794abef72d2927a2",
+    "0228650941d4d654",
+    "225bc9a8f52506bc",
+    "acb57fe7cd9c383c",
+    "72d3cc4516a62b28",
+    "2beaf63dca7e619f",
+    "2966cc5552bb1b3d",
+    "af47219081849f55",
+    "45cce728c41dddc9",
+    "0b8bcb587fb70eba",
+    "fdc8cbf21a30b769",
+    "f7e0df3e2d51e2a5",
+    "f57b5cc1167f3fde",
+    "cf562ffd56557428",
+    "88cbc10d7b466dea",
+    "b6a7600d14f225a0",
+    "8ac956721a8a3019",
+    "f135202381c79a3f",
+    "378292afdee0bc9c",
+    "544e32c57bef647a",
+    "944718fbb4584658",
+    "4c0bca1f4883efa4",
+    "2d75de19b311ac9f",
+    "0eb63eccfe7b2844",
+    "3a8618ec79872eb5",
+    "188e55f47c4d66e1",
+    "f44070c6b28f1903",
+    "badaa3abe322b6ca"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517247:por",
+     "title": "Decreto-Lei n.º 56/97",
+     "published": "1997-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/56-1997-517247"
+    },
+    {
+     "id": "pt:dre:517467:por",
+     "title": "Decreto-Lei n.º 153/2004",
+     "published": "2004-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2004-517467"
+    },
+    {
+     "id": "pt:dre:340237:por",
+     "title": "Decreto-Lei n.º 226-A/2007",
+     "published": "2007-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/226-a-2007-340237"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 53.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º"
+   ],
+   "fragments": [
+    "56cc7622839342a3",
+    "23836370ae405d04",
+    "aef15666ec39e3bb",
+    "217f71b68f580234",
+    "c4b537a91269ab21",
+    "52c16202f93512af",
+    "588145ca1402a797",
+    "1dab036fbcbf1435",
+    "531e2ddb62236cc0",
+    "3e686809fd9d7ec0",
+    "c815ce0618ec961f",
+    "5a83f2500535a8db",
+    "051abc2b8e7065eb",
+    "dd038f32c3aab9ec",
+    "5dbed5ab1fa037d6",
+    "3ad472b1cdba9ba1",
+    "77c3ed08dfc900cc",
+    "227b1b844f2c440a",
+    "ee733f5ecf7c146d",
+    "9c79b60039f2d7d4",
+    "24349ffa21f5a338",
+    "5778ffb83d933618",
+    "602a194de2d7fb51",
+    "429fea8e0a0bdf19",
+    "8d0dad3cc4dbfa2e",
+    "b0fe87f391662bac",
+    "4f1096a7be547017",
+    "5ace3b1447682ad4",
+    "906e96717e52d25e",
+    "84938e6dfc4c3552",
+    "2ecfe075a9160718",
+    "979a555e55da12dc",
+    "a102fb38b32174f2",
+    "86eff67ecb296f6c",
+    "79de869fa503b70e",
+    "89363f89e8a4ae07",
+    "9aa2ec4e4cd2c678",
+    "ffb55d363e26ff97",
+    "99de22ddcf4e3c29",
+    "4e9d5ecf3b5ba21f",
+    "937ac854f7419fd4",
+    "dfc64c13e5c95eec",
+    "0228650941d4d654",
+    "225bc9a8f52506bc",
+    "acb57fe7cd9c383c",
+    "72d3cc4516a62b28",
+    "2beaf63dca7e619f",
+    "2966cc5552bb1b3d",
+    "af47219081849f55",
+    "45cce728c41dddc9",
+    "0b8bcb587fb70eba",
+    "fdc8cbf21a30b769",
+    "f7e0df3e2d51e2a5",
+    "f57b5cc1167f3fde",
+    "cf562ffd56557428",
+    "88cbc10d7b466dea",
+    "b6a7600d14f225a0",
+    "8ac956721a8a3019",
+    "f135202381c79a3f",
+    "378292afdee0bc9c",
+    "544e32c57bef647a",
+    "9c03bc2a5868f05b",
+    "4c0bca1f4883efa4",
+    "5ad126d7093bffa5",
+    "0eb63eccfe7b2844",
+    "3a8618ec79872eb5",
+    "188e55f47c4d66e1",
+    "ed645619ccad7866",
+    "badaa3abe322b6ca"
+   ]
+  }
+ ],
+ "fragments": {
+  "56cc7622839342a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho\n\nO presente diploma estabelece um novo regime jurídico do exercício da actividade de produção de energia eléctrica, revogando o [Decreto-Lei n.º 100/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1991-468021), de 2 de Março, e criando um novo quadro de acesso à actividade, dentro dos dois principais sistemas previstos pela reestruturação agora operada, o Sistema Eléctrico de Serviço Público (SEP), organizado em termos de prestação de um serviço público, e o Sistema Eléctrico não Vinculado (SENV), organizado segundo uma lógica de mercado.\n\nImporta desde logo destacar que se mantém inalterável o tipo de autorização administrativa para o exercício da actividade, titulada através da atribuição de uma licença, cabendo à Direcção-Geral de Energia os poderes para a sua emissão.\n\nNo caso do SEP, essa licença tem a categoria de licença vinculada, enquanto, no caso do SENV, são atribuídas licenças não vinculadas.\n\nA vinculação de novos centros electroprodutores ao SEP iniciar-se-á com a identificação da necessidade de estabelecer novos vínculos de produção. Essa identificação será realizada por uma entidade de planeamento, nos termos de um plano de expansão aprovado pelo Ministro da Indústria e Energia. A essa identificação seguir-se-á um processo competitivo conduzido pela entidade que detém a concessão para exploração da Rede Nacional de Transporte de Energia Eléctrica (RNT). No âmbito desse processo competitivo as entidades interessadas apresentarão propostas e negociarão um «contrato de vinculação» ao SEP.\n\nOs contratos de vinculação de centros electroprodutores terão um longo prazo de vigência, semelhante ao da própria vida útil dos centros electroprodutores (25 a 35 anos no caso de centrais térmicas e mais de 50 anos no caso de aproveitamentos hidroeléctricos), e comprometem o centro electroprodutor a abastecer em exclusivo o SEP, através da concessionária da RNT. O contrato de vinculação negociado só poderá entrar em vigor após um parecer favorável de uma Entidade Reguladora.\n\nA atribuição de licenças resulta, no caso do SENV, de iniciativa da entidade interessada, através de um processo baseado em critérios de transparência e não discriminação, tipificando-se, nomeadamente, os fundamentos de recusa à atribuição da licença, de que se destacam razões de incompatibilidade ambiental ou de incompatibilidade com a política energética nacional.\n\nFinalmente, o presente diploma regula igualmente as matérias de segurança, fiscalização e responsabilidade contra-ordenacional aplicáveis ao exercício da actividade de produção de energia eléctrica.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "aef15666ec39e3bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente diploma estabelece o regime jurídico do exercício da actividade de produção de energia eléctrica no âmbito do Sistema Eléctrico de Serviço Público (SEP) e do Sistema Eléctrico não Vinculado (SENV)."
+  },
+  "217f71b68f580234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condição do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condição do exercício da actividade\n\nO exercício da actividade de produção de energia eléctrica fica sujeito à titularidade da respectiva licença, a atribuir, para cada um dos centros electroprodutores, nos termos do presente diploma."
+  },
+  "c4b537a91269ab21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Produção de energia eléctrica no SEP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Produção de energia eléctrica no SEP"
+  },
+  "52c16202f93512af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Integração de novos centros electroprodutores no SEP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Integração de novos centros electroprodutores no SEP"
+  },
+  "588145ca1402a797": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\nA integração no SEP de novos centros electroprodutores processa-se de acordo com a definição das necessidades de expansão do sistema electroprodutor do SEP, identificadas nos planos de expansão aprovados."
+  },
+  "9f6119e8460705ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Escolha do sítio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Escolha do sítio\n\n1 - Definidas as necessidades de expansão do sistema electroprodutor do SEP, a entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica (RNT) procede à escolha do sítio para implantação do centro electroprodutor, tendo em atenção as suas características e as condições genéricas a que deve obedecer a sua localização, estabelecidas pela Entidade de Planeamento.\n\n2 - A entidade concessionária da RNT deve constituir uma carteira de sítios, em termos a acordar com a Entidade de Planeamento, tendo em vista simplificar o processo de disponibilização do sítio, no momento em que for decidida a necessidade de expansão do sistema electroprodutor."
+  },
+  "3d4dd3190a4aa1f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Autorização preliminar do sítio para centros electroprodutores termoeléctricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorização preliminar do sítio para centros electroprodutores termoeléctricos\n\n1 - Compete à Direcção-Geral de Energia (DGE) a emissão de uma autorização preliminar de afectação do sítio escolhido para utilização na actividade de produção vinculada de energia eléctrica.\n\n2 - A autorização referida no número anterior é solicitada pela entidade concessionária da RNT, devendo a solicitação ser acompanhada de elementos que permitam identificar a exacta localização do sítio, as principais características do centro electroprodutor, a sua incidência ambiental, bem como eventuais interferências com infra-estruturas e outros empreendimentos já existentes ou previstos para a zona em causa.\n\n3 - A autorização preliminar prevista no presente artigo é instruída pelos pareceres da Entidade de Planeamento, dos ministérios que desenvolvam políticas sectoriais susceptíveis de ponderação com a implantação do centro electroprodutor, designadamente as de segurança, preservação do ambiente, ordenamento do território e obras públicas, bem como dos municípios abrangidos pela instalação do centro electroprodutor ou das entidades administrativas com competência territorial sobre o sítio em causa.\n\n4 - Compete ao Ministro da Indústria e Energia, em função do projecto de cada centro electroprodutor, determinar quais as áreas sectoriais que devem ser ouvidas.\n\n5 - É fixado o prazo máximo de 60 dias para emissão dos pareceres previstos no n.º 3.\n\n6 - Os pareceres previstos no n.º 3, se não forem emitidos dentro do prazo máximo estabelecido no número anterior, consideram-se favoráveis à autorização solicitada.\n\n7 - Emitida a autorização preliminar, a mesma considera-se concedida a favor da entidade concessionária da RNT, com a faculdade de esta proceder à sua transmissão para a entidade com quem vier a contratar a construção e exploração do centro electroprodutor.\n\n8 - A autorização preliminar de afectação do sítio não desobriga da necessidade de serem obtidas todas as licenças que, no âmbito do licenciamento e construção do centro electroprodutor, sejam necessárias."
+  },
+  "cbc57b53555a5bd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos\n\n1 - A utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos vinculados processa-se nos termos do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, sem prejuízo do disposto nos números seguintes.\n\n2 - O contrato de concessão de utilização do domínio hídrico em aproveitamentos hidroeléctricos é celebrado por ajuste directo com a entidade concessionária da RNT.\n\n3 - A entidade concessionária da RNT fica autorizada a subconceder o contrato de concessão de utilização do domínio hídrico à entidade por ela seleccionada, nos termos do presente diploma."
+  },
+  "d6721b32b6f468d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Titularidade dos sítios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Titularidade dos sítios\n\n1 - No âmbito da autorização preliminar estabelecida no artigo 5.º ou da concessão de utilização do domínio hídrico estabelecida no artigo anterior, a entidade concessionária da RNT procede à aquisição do sítio ou, quando se tratar de bens do domínio público ou privado da Administração Pública, à obtenção da sua posse.\n\n2 - Para efeitos do disposto no número anterior, a entidade concessionária da RNT pode recorrer, mediante declaração de utilidade pública do Ministro da Indústria e Energia, à expropriação ou à criação de servidões sobre o sítio seleccionado, nos termos do Código das Expropriações.\n\n3 - A entidade concessionária da RNT fica autorizada a transmitir a posse dos sítios à entidade seleccionada para, nos termos do presente diploma, estabelecer e explorar o centro electroprodutor."
+  },
+  "2d35901fa88691eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor\n\n1 - Concedida a autorização preliminar prevista no artigo 5.º ou a concessão de utilização do domínio hídrico prevista no artigo 6.º, a entidade concessionária da RNT dá início ao processo de consulta para selecção da entidade que irá estabelecer e explorar o novo centro electroprodutor.\n\n2 - As consultas têm por base um caderno de encargos elaborado pela entidade concessionária da RNT.\n\n3 - O caderno de encargos previsto no número anterior é homologado pelo director-geral de Energia, tendo em vista a sua conformidade com as autorizações previstas nos artigos 5.º e 6.º, após a audição da Entidade de Planeamento para verificação da sua compatibilização com o plano de expansão aprovado.\n\n4 - As consultas são feitas no mínimo a três entidades, com as excepções previstas no artigo 14.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, devendo a entidade concessionária da RNT negociar, com aquelas que apresentaram as melhores propostas, os termos da minuta do contrato de vinculação previsto no presente diploma, com vista à selecção da entidade que irá estabelecer e explorar o centro electroprodutor.\n\n5 - A selecção da entidade que vai estabelecer e explorar o novo centro electroprodutor é da responsabilidade da entidade concessionária da RNT, após parecer favorável da Entidade Reguladora sobre o processo de selecção e sobre a minuta do contrato de vinculação acordada entre a entidade concessionária da RNT e a entidade seleccionada nos termos do presente artigo.\n\n6 - No caso de a negociação ter recaído sobre variantes ao caderno de encargos que não estejam em conformidade com os termos das autorizações previstas nos artigos 5.º e 6.º, a solicitação de parecer à Entidade Reguladora prevista no número anterior deve ser instruída com um parecer prévio da entidade responsável pela emissão daquelas autorizações.\n\n7 - No caso de a negociação ter recaído sobre variantes ao caderno de encargos que não estejam em conformidade com os termos do plano de expansão aprovado, a solicitação de parecer à Entidade Reguladora prevista no n.º 5 deve ser instruída com um parecer favorável da Entidade de Planeamento."
+  },
+  "051abc2b8e7065eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Contrato de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Contrato de vinculação"
+  },
+  "dd038f32c3aab9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Celebração do contrato de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Celebração do contrato de vinculação\n\nConcluído o processo previsto no artigo anterior, a entidade concessionária da RNT celebra o contrato de vinculação com a entidade seleccionada."
+  },
+  "89fea4276fbc4019": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Modificação do contrato de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modificação do contrato de vinculação\n\n1 - Sem prejuízo das cláusulas específicas previstas nos contratos de vinculação, a modificação do contrato de vinculação ocorre por alteração relevante das características do centro electroprodutor em causa.\n\n2 - A alteração relevante das características do centro electroprodutor prevista no número anterior pode ocorrer por iniciativa do titular da respectiva licença de produção vinculada, por iniciativa da entidade concessionária da RNT ou por iniciativa da Entidade de Planeamento.\n\n3 - A alteração relevante das características do centro electroprodutor pode ainda ocorrer por determinação das entidades competentes, resultante de imperativo legal.\n\n4 - Nos casos previstos nos números anteriores, o processo conducente à modificação só pode ser iniciado após parecer favorável da Entidade de Planeamento, no qual esta estabeleça o conjunto de condições mínimas que o contrato de vinculação modificado deve respeitar, nos termos do plano de expansão aprovado.\n\n5 - A modificação do contrato de vinculação deve ser negociada entre a entidade concessionária da RNT e o titular da respectiva licença vinculada.\n\n6 - O contrato de vinculação modificado carece de parecer favorável da Entidade Reguladora para entrar em vigor.\n\n7 - Para o parecer previsto no número anterior, são vinculativas as condições estabelecidas pela Entidade de Planeamento, nos termos previstos no n.º 4."
+  },
+  "7af40d209ddf90d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Prorrogação do contrato de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prorrogação do contrato de vinculação\n\n1 - A prorrogação do contrato de vinculação pode ocorrer por iniciativa do titular da respectiva licença de produção vinculada, por iniciativa da entidade concessionária da RNT ou por iniciativa da Entidade de Planeamento.\n\n2 - A iniciativa referida no número anterior deve ser tomada com uma antecedência mínima de cinco anos relativamente ao termo do prazo do contrato de vinculação.\n\n3 - O disposto no número anterior não prejudica que a iniciativa para prorrogação do contrato e o acordo sobre a sua prorrogação possam ocorrer até ao termo deste.\n\n4 - Se a prorrogação do contrato de vinculação não for acompanhada da modificação de outras cláusulas, a prorrogação deve ser precedida de parecer favorável da Entidade de Planeamento.\n\n5 - A prorrogação do contrato de vinculação prevista no número anterior deve ser negociada entre a entidade concessionária da RNT e o titular da respectiva licença vinculada, carecendo de parecer favorável da Entidade Reguladora para entrar em vigor.\n\n6 - Para além do disposto no artigo anterior, a modificação do contrato de vinculação pode ainda ocorrer pela sua prorrogação, quando acompanhada da alteração de outras cláusulas, à qual se aplica o disposto naquele artigo.\n\n7 - Caso o titular da licença vinculada do centro electroprodutor para o qual existe uma proposta de prorrogação do contrato de vinculação não esteja interessado nessa prorrogação, a entidade concessionária da RNT pode optar por fazer cessar o contrato de vinculação, após parecer favorável da Entidade de Planeamento, caso em que essa cessação confere ao titular da licença de produção uma indemnização nos termos previstos no artigo 15.º\n\n8 - Na falta de acordo sobre a prorrogação, e tendo a entidade concessionária da RNT optado pela cessação do contrato prevista no número anterior, esta inicia o processo de selecção de um novo produtor, nos termos previstos no artigo 8.º\n\n9 - No caso previsto no número anterior, são accionados os mecanismos previstos no contrato de vinculação para a disponibilização do sítio nas condições originais."
+  },
+  "77c3ed08dfc900cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Extinção do contrato de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Extinção do contrato de vinculação\n\n1 - O contrato de vinculação extingue-se por caducidade ou por rescisão.\n\n2 - A caducidade do contrato de vinculação pode dar-se:\n\na) Por decurso do prazo;\n\nb) Por revogação da licença vinculada;\n\nc) Nos termos do plano de expansão aprovado."
+  },
+  "d9ab7a2b5c121b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º"
+  },
+  "6b3b8a44491d4ff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Caducidade do contrato de vinculação por revogação da respectiva licença vinculada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caducidade do contrato de vinculação por revogação da respectiva licença vinculada\n\n1 - A caducidade do contrato de vinculação por revogação da respectiva licença vinculada acciona os mecanismos previstos no contrato para a determinação dos efeitos daquela cessação.\n\n2 - Com a caducidade do contrato de vinculação por revogação da respectiva licença vinculada, a entidade concessionária da RNT solicita à Entidade de Planeamento decisão sobre o interesse em continuar a operar o centro electroprodutor em causa no âmbito do SEP, nos termos do plano de expansão aprovado.\n\n3 - Em caso de decisão favorável à continuação da operação do centro electroprodutor no âmbito do SEP, aplica-se o disposto na secção anterior para a vinculação de novos centros electroprodutores.\n\n4 - Em caso de decisão não favorável à continuação da operação do centro electroprodutor no âmbito do SEP, o centro electroprodutor não pode continuar a operar, devendo ser accionados os mecanismos previstos no contrato de vinculação para a reposição das condições de utilização do sítio."
+  },
+  "9462759c6dceb0a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado\n\n1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por indicação da Entidade de Planeamento.\n\n2 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado dá ao titular da respectiva licença vinculada de produção o direito a uma indemnização, calculada com base no valor actual dos meios financeiros libertos que o contrato em vigor geraria se fosse integralmente cumprido até ao fim do respectivo prazo.\n\n3 - No caso previsto no número anterior a entidade concessionária da RNT e o titular da respectiva licença vinculada de produção negoceiam as condições da cessação, nos termos do contrato de vinculação.\n\n4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da indicação da Entidade de Planeamento ou, caso daquela indicação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º"
+  },
+  "24349ffa21f5a338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Extinção do contrato de vinculação por rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção do contrato de vinculação por rescisão\n\n1 - À extinção do contrato de vinculação por rescisão resultante de incumprimento do titular da respectiva licença aplica-se o disposto no artigo 14.º\n\n2 - A extinção do contrato de vinculação por rescisão resultante de incumprimento da entidade concessionária da RNT dá, ao respectivo titular, o direito a uma indemnização, nos termos do referido contrato, e a solicitar a passagem de uma licença não vinculada de produção."
+  },
+  "5778ffb83d933618": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Procedimento administrativo para atribuição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Procedimento administrativo para atribuição da licença"
+  },
+  "20508279071114be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Início e instrução do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Início e instrução do procedimento\n\n1 - O procedimento para atribuição da licença vinculada de produção de energia eléctrica inicia-se com a apresentação, pela entidade seleccionada nos termos previstos no presente diploma, de requerimento ao director-geral de Energia.\n\n2 - O requerimento referido no número anterior deve ser instruído com os seguintes elementos:\n\na) Identificação completa do requerente;\n\nb) Documento comprovativo de se encontrar regularizada a situação do requerente relativamente às contribuições para a segurança social;\n\nc) Indicação exacta do local onde vai ser instalado o centro electroprodutor;\n\nd) Principais características do centro electroprodutor, nomeadamente a potência a instalar;\n\ne) Planta topográfica à escala de 1:25000, com localização do centro electroprodutor e das principais obras necessárias;\n\nf) Memória descritiva e justificativa, indicando as características do centro electroprodutor, nomeadamente o combustível a utilizar;\n\ng) Minuta do contrato de vinculação, rubricada por ambas as partes;\n\nh) Ponto de ligação;\n\ni) Declaração assumindo o compromisso de que, no exercício da actividade, cumprirá todas as disposições e regulamentos aplicáveis.\n\n3 - Quando se tratar de aproveitamentos hidroeléctricos o requerimento deve ainda ser instruído com o título de utilização do domínio hídrico.\n\n4 - Para além dos elementos previstos nos números anteriores, o requerente deve ainda instruir o requerimento com os elementos exigidos no âmbito de legislação específica aplicável, nomeadamente a respeitante à protecção do ambiente.\n\n5 - A DGE pode solicitar ao requerente outros elementos que considere necessários para a instrução do pedido."
+  },
+  "6c3711bbcab0a8a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Atribuição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Atribuição da licença\n\n1 - Verificado o cumprimento dos requisitos referidos no artigo anterior, nomeadamente os relativos ao processo de avaliação do impacte ambiental, se o mesmo for exigível, o director-geral de Energia atribui uma licença de carácter provisório, no prazo de 30 dias.\n\n2 - A atribuição da licença provisória é acompanhada da fixação de prazo para apresentação do projecto das instalações eléctricas do centro electroprodutor, para efeitos da sua aprovação, nos termos previstos no Regulamento de Licenças para Instalações Eléctricas.\n\n3 - A licença referida no n.º 1 é convertida em licença definitiva de produção vinculada de energia eléctrica, por decisão do director-geral de Energia, no prazo de 30 dias após a aprovação do projecto das instalações eléctricas, nos termos do número anterior.\n\n4 - Na fixação dos prazos previstos neste artigo ter-se-á em conta a complexidade do projecto, devendo, para o efeito, ser ouvido o requerente e a entidade concessionária da RNT."
+  },
+  "8d0dad3cc4dbfa2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Definição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Definição da licença"
+  },
+  "b0fe87f391662bac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conteúdo\n\nAs licenças de produção vinculada de energia eléctrica devem conter, nomeadamente, os seguintes elementos:\n\na) Identificação do titular;\n\nb) Natureza;\n\nc) Prazo;\n\nd) Identificação, localização e características técnicas do centro electroprodutor;\n\ne) Identificação das obras a estabelecer e das condições de ligação à rede;\n\nf) Direitos e obrigações do titular;\n\ng) Valor do seguro de responsabilidade civil."
+  },
+  "4f1096a7be547017": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Duração\n\n1 - O prazo de duração da licença é estabelecido de acordo com o disposto no artigo 60.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, coincidindo com o prazo de duração do contrato de concessão de utilização do domínio hídrico, se a este houver lugar.\n\n2 - O prazo de duração do contrato de vinculação deve ser igual ao prazo de duração da respectiva licença.\n\n3 - O prazo da licença começa a contar-se a partir da data de entrada em exploração do centro electroprodutor."
+  },
+  "5ace3b1447682ad4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transmissão\n\n1 - A transmissão da licença pode ser autorizada pelo director-geral de Energia, desde que se mantenham os pressupostos que determinaram a sua atribuição.\n\n2 - No caso de transmissão da licença, a entidade transmissária deve requerer, dentro do prazo de 30 dias contados da notificação da autorização, o averbamento em seu nome das instalações eléctricas junto da entidade administrativa que aprovou o respectivo projecto.\n\n3 - Autorizada a transmissão da licença, o transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente, bem como aos demais que eventualmente lhe tenham sido impostos como condição de autorização da transmissão."
+  },
+  "906e96717e52d25e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção\n\n1 - A licença extingue-se por caducidade ou por revogação.\n\n2 - Sem prejuízo do disposto no artigo 11.º do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, a extinção da licença implica a extinção do contrato de vinculação e opera a transmissão do centro electroprodutor e dos bens a ele afectos, nos termos do presente diploma e do contrato de vinculação."
+  },
+  "84938e6dfc4c3552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caducidade\n\nA licença caduca por:\n\na) Decurso do prazo, contado de acordo com os termos previstos no artigo 20.º;\n\nb) Extinção do contrato de concessão de utilização do domínio hídrico;\n\nc) Extinção do contrato de vinculação, nos termos previstos neste diploma;\n\nd) Declaração de estado de falência do titular da licença."
+  },
+  "2ecfe075a9160718": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nA licença pode ser revogada pelo director-geral de Energia quando o seu titular faltar culposamente ao cumprimento dos deveres relativos ao exercício da actividade, e em especial:\n\na) Não apresentar os projectos das instalações eléctricas dentro dos prazos fixados;\n\nb) Não concluir as obras ou não dar início à exploração do centro electroprodutor nas datas fixadas, excepto em circunstâncias de força maior ou se demonstrar que tomou as providências necessárias para concluir as obras ou iniciar a exploração do centro electroprodutor dentro do prazo fixado ou no prazo suplementar que, a seu pedido, lhe for determinado pela DGE, após parecer favorável da entidade concessionária da RNT;\n\nc) Promover ou consentir, por qualquer forma, a interrupção ou a irregularidade da produção de energia eléctrica, afectando o interesse público, e não restabelecer a normalidade da exploração dentro do prazo que lhe for fixado pela DGE, sob proposta da entidade concessionária da RNT;\n\nd) Utilizar combustível que não lhe tenha sido autorizado;\n\ne) Abandonar as instalações afectas à produção de energia eléctrica, por um período superior a três meses, sem o consentimento da entidade concessionária da RNT;\n\nf) Violar reiteradamente o cumprimento das disposições legais ou normas técnicas aplicáveis à actividade licenciada."
+  },
+  "979a555e55da12dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Modificação ou prorrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Modificação ou prorrogação\n\nA licença pode ser modificada ou prorrogada, em consequência de modificação ou prorrogação do contrato de vinculação."
+  },
+  "a102fb38b32174f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Direitos e deveres do titular da licença vinculada de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Direitos e deveres do titular da licença vinculada de produção"
+  },
+  "86eff67ecb296f6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direitos\n\nPara além dos direitos consagrados no [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, constitui ainda direito da entidade titular de licença vinculada de produção o de explorar o centro electroprodutor, nos termos estabelecidos no contrato de vinculação e na licença respectiva."
+  },
+  "659fa711b45261d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Deveres\n\nSão deveres dos titulares de licença vinculada de produção, em especial:\n\na) Submeter à DGE a aprovação do projecto das instalações eléctricas do centro electroprodutor, dentro dos prazos fixados para o efeito;\n\nb) Cumprir, no que for aplicável, com as disposições do Regulamento de Relações Comerciais, do Regulamento do Despacho, do Regulamento da Rede de Transporte e do Regulamento da Rede de Distribuição;\n\nc) Proceder à construção das instalações que integram o centro electroprodutor e iniciar a sua exploração dentro dos prazos estabelecidos para o efeito;\n\nd) Manter o centro electroprodutor em regular funcionamento e só interromper a actividade mediante autorização da entidade concessionária da RNT;\n\ne) Manter o centro electroprodutor em bom estado de funcionamento e proceder à conservação e reparação das instalações e dos equipamentos, adoptando as medidas indispensáveis à salvaguarda da segurança das pessoas e bens;\n\nf) Adoptar as providências que lhe sejam ordenadas pela DGE ou pela Entidade Reguladora;\n\ng) Prestar à DGE, à Entidade de Planeamento, à Entidade Reguladora e à entidade concessionária da RNT as informações previstas no presente diploma;\n\nh) Facultar às entidades referidas na alínea anterior os estudos, análises e relatórios com interesse para o conhecimento da exploração do centro electroprodutor que lhe tenham sido solicitados;\n\ni) Cumprir com as obrigações decorrentes do contrato de vinculação;\n\nj) Permitir e facilitar o acesso das entidades fiscalizadoras às suas instalações, facultando-lhes as informações e dados necessários ao exercício da sua actividade de fiscalização;\n\nl) Participar aos serviços competentes os acidentes e desastres ocorridos na exploração das instalações do centro electroprodutor;\n\nm) Constituir e manter actualizado o seguro de responsabilidade civil previsto no artigo 44.º;\n\nn) Cumprir com todas as normas e regulamentos aplicáveis ao exercício da actividade."
+  },
+  "89363f89e8a4ae07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Protecção do ambiente\n\nNo exercício da actividade de produção de energia eléctrica, compete ao titular da licença vinculada de produção adoptar as providências adequadas à minimização dos impactes ambientais, observando as disposições legais aplicáveis, bem como as instruções dos serviços competentes."
+  },
+  "9aa2ec4e4cd2c678": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Ligação e exploração dos centros electroprodutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Ligação e exploração dos centros electroprodutores\n\nA ligação dos centros electroprodutores vinculados e a sua exploração ficam sujeitas às disposições do Regulamento de Relações Comerciais, do Regulamento da Rede de Transporte, do Regulamento do Despacho, nomeadamente no que se refere às decisões do despacho central, e ainda às disposições do Regulamento da Rede de Distribuição, nos casos aplicáveis."
+  },
+  "ffb55d363e26ff97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Produção de energia eléctrica no SENV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Produção de energia eléctrica no SENV"
+  },
+  "99de22ddcf4e3c29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Procedimento administrativo para atribuição de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Procedimento administrativo para atribuição de licença"
+  },
+  "3f072a8fd70df458": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Início e instrução do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Início e instrução do procedimento\n\n1 - O procedimento para atribuição de licença não vinculada inicia-se com a apresentação, pela entidade interessada, de um requerimento ao director-geral de Energia.\n\n2 - O requerimento referido no número anterior deve ser instruído com os elementos previstos no artigo 17.º, à excepção da minuta do contrato de vinculação prevista na alínea g) do n.º 2 daquele artigo.\n\n3 - Exceptuam-se do disposto no número anterior as solicitações de licença não vinculada que decorram das situações previstas nos artigos 13.º, 15.º e 16.º, caso em que, não havendo alteração das características do centro electroprodutor, o requerimento a apresentar pela entidade interessada não necessita de ser instruído com quaisquer outros elementos."
+  },
+  "b4d490cc30056e41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Consulta à Entidade de Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Consulta à Entidade de Planeamento\n\n1 - No âmbito do processo de atribuição do título de utilização do domínio hídrico, a DGE consulta a Entidade de Planeamento que se deve pronunciar sobre o eventual impacte do aproveitamento hidroeléctrico em causa sobre a expansão prevista para o sistema hidroeléctrico do SEP ou sobre a exploração do sistema existente.\n\n2 - O parecer previsto no número anterior deve explicitar uma posição favorável ou desfavorável à construção do centro electroprodutor em causa.\n\n3 - Se a construção do centro electroprodutor em causa inibir a construção de um centro electroprodutor do SEP, no mesmo sítio ou na mesma cascata, a Entidade de Planeamento só dará parecer desfavorável quando o valor actual da energia produzida pelo centro electroprodutor não vinculado, líquido do valor actual dos custos de investimento e exploração, for inferior ao valor actual da energia produzida pelo centro electroprodutor alternativo do SEP, líquido do valor actual dos custos de investimento e exploração, nos termos do plano de expansão aprovado.\n\n4 - Para efeitos do disposto no número anterior, os valores actuais da energia produzida devem ser referidos à mesma data e calculados mediante a taxa de actualização utilizada no plano de expansão aprovado.\n\n5 - O parecer previsto no presente artigo deve ainda indicar objectivamente as mais-valias ou menos-valias resultantes da construção do centro electroprodutor em causa para o sistema hidroeléctrico do SEP existente e, se for caso disso, para o sistema hidroeléctrico do SEP que se encontrar previsto, nos termos do plano de expansão aprovado.\n\n6 - O parecer da Entidade de Planeamento é vinculativo para a DGE.\n\n7 - Nos casos em que a entidade interessada não concordar com o parecer da entidade de Planeamento previsto no presente artigo, pode recorrer desse parecer ao Ministro da Indústria e Energia."
+  },
+  "794abef72d2927a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Fundamentos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Fundamentos de recusa\n\nConstituem fundamentos de recusa da atribuição da licença a incompatibilidade do centro electroprodutor proposto com:\n\na) A utilização do sítio pretendido, nos termos do artigo anterior;\n\nb) Os requisitos de natureza ambiental estabelecidos na lei;\n\nc) A política energética nacional."
+  },
+  "0228650941d4d654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Inquérito público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Inquérito público\n\nO inquérito público e as consultas a outros órgãos da Administração Pública são feitos no âmbito do processo da aprovação dos projectos das instalações eléctricas do centro electroprodutor, ao abrigo do disposto no Regulamento de Licenças para Instalações Eléctricas."
+  },
+  "225bc9a8f52506bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Atribuição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Atribuição da licença\n\nÀ atribuição da licença não vinculada aplica-se o preceituado no artigo 18.º, salvo no que se refere à consulta à entidade concessionária da RNT."
+  },
+  "acb57fe7cd9c383c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Definição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Definição da licença"
+  },
+  "72d3cc4516a62b28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Conteúdo\n\nAs licenças de produção não vinculada de energia eléctrica devem conter, nomeadamente, os elementos indicados no artigo 19.º"
+  },
+  "2beaf63dca7e619f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Duração\n\n1 - Para a licença não vinculada não é atribuído prazo de duração, sem prejuízo da sua extinção, nos termos previstos nesta Secção.\n\n2 - Exceptuam-se do disposto no número anterior as solicitações de atribuição de licença não vinculada que decorram das situações previstas nos artigos 13.º e 15.º e exista uma reserva sobre o sítio respectivo, declarada pela entidade concessionária da RNT, casos em que à licença é atribuído um prazo compatível com aquela reserva."
+  },
+  "2966cc5552bb1b3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Transmissão\n\nA transmissão da licença não vinculada opera-se nos termos do artigo 21.º"
+  },
+  "af47219081849f55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Extinção\n\n1 - A licença extingue-se por caducidade ou por revogação.\n\n2 - Com a extinção da licença, o seu titular fica obrigado à remoção das instalações desmontáveis implantadas sobre bens do domínio público, dentro do prazo que lhe for fixado para o efeito.\n\n3 - Tratando-se de instalações fixas implantadas sobre bens referidos no número anterior, qualquer que seja a sua natureza, as mesmas revertem gratuitamente para a respectiva entidade de direito público sem prejuízo do disposto em legislação especial."
+  },
+  "45cce728c41dddc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Caducidade\n\n1 - A licença caduca:\n\na) A pedido do respectivo titular;\n\nb) Quando o seu titular não apresentar, para aprovação, o projecto das instalações e obras, dentro dos prazos fixados;\n\nc) Quando o seu titular não concluir as obras dentro da data fixada para o efeito;\n\nd) Quando for extinto o título de utilização do domínio hídrico.\n\n2 - Não ocorre a caducidade prevista nas alíneas a) e b) do n.º 1 quando, a requerimento do titular da licença, tiverem sido, por razões devidamente justificadas, prorrogados os prazos nelas referidos."
+  },
+  "0b8bcb587fb70eba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revogação\n\nA licença pode ser revogada pelo director-geral de Energia quando o seu titular faltar culposamente ao cumprimento dos deveres relativos ao exercício da actividade, nomeadamente:\n\na) Não cumprir, sem motivo justificado, as determinações impostas pela fiscalização técnica;\n\nb) Violar reiteradamente o cumprimento das disposições legais ou normas técnicas aplicáveis ao exercício da actividade licenciada;\n\nc) Não constituir ou não manter actualizado o seguro de responsabilidade civil previsto no artigo 44.º;\n\nd) Não cumprir reiteradamente o envio à DGE da informação prevista no artigo 49.º;\n\ne) Abandonar as instalações afectas à produção de energia eléctrica ou interromper a actividade licenciada, por razões não fundamentadas, por período superior a um ano."
+  },
+  "fdc8cbf21a30b769": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Direitos e deveres"
+  },
+  "f7e0df3e2d51e2a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Direitos\n\nSão direitos do titular da licença não vinculada de produção estabelecer e explorar o centro electroprodutor, nos termos da respectiva licença."
+  },
+  "f57b5cc1167f3fde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Deveres\n\nSão deveres do titular da licença não vinculada de produção:\n\na) Apresentar para aprovação o projecto das instalações e obras e concluí-las dentro dos prazos fixados;\n\nb) Cumprir, no que for aplicável, com as disposições do Regulamento de Relações Comerciais, do Regulamento do Despacho, do Regulamento da Rede de Transporte e do Regulamento da Rede de Distribuição;\n\nc) Adoptar, na exploração do centro electroprodutor, as medidas indispensáveis à salvaguarda da segurança das pessoas e bens;\n\nd) Enviar à DGE a informação a que se refere o artigo 49.º;\n\ne) Constituir e manter actualizado o seguro de responsabilidade civil exigido nos termos do artigo 44.º;\n\nf) Permitir e facilitar o acesso das entidades fiscalizadoras às suas instalações, facultando-lhes as informações e dados necessários ao exercício da sua actividade de fiscalização;\n\ng) Participar aos serviços competentes os acidentes e desastres ocorridos na exploração das instalações do centro electroprodutor;\n\nh) Cumprir todas as normas e regulamentos aplicáveis ao exercício da actividade."
+  },
+  "cf562ffd56557428": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Condições gerais de segurança e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Condições gerais de segurança e fiscalização"
+  },
+  "88cbc10d7b466dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Responsabilidade civil e criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Responsabilidade civil e criminal\n\n1 - As entidades titulares de licença de produção são responsáveis civil e criminalmente, nos termos legais, pelos danos causados no exercício da actividade licenciada.\n\n2 - Sem prejuízo do disposto no artigo 509.º do Código Civil, a responsabilidade civil referida no número anterior é ressalvada nos casos fortuitos ou de força maior e nos casos devidamente comprovados de culpa ou de negligência exclusiva do lesado."
+  },
+  "b6a7600d14f225a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Seguro\n\nPara garantir as obrigações decorrentes do exercício da sua actividade, as entidades titulares de licença de produção devem estar cobertas por um seguro de responsabilidade civil, de montante a fixar pelo director-geral de Energia, em função da sua natureza, dimensão e grau de risco, actualizável em 1 de Janeiro de cada ano, de acordo com o índice de preços no consumidor sem habitação, no continente, publicado pelo Instituto Nacional de Estatística."
+  },
+  "8ac956721a8a3019": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Participação de desastres e acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Participação de desastres e acidentes\n\n1 - Os titulares de licença de produção são obrigados a participar à DGE ou às delegações regionais do Ministério da Indústria e Energia (DRIE), consoante as instalações em causa, bem como ao Instituto de Desenvolvimento e Inspecção das Condições do Trabalho, todos os desastres e acidentes ocorridos nas suas instalações, no prazo de três dias a contar da data da ocorrência.\n\n2 - Sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, cumpre aos serviços competentes do Ministério da Indústria e Energia promover o exame do estado das instalações eléctricas e a análise das circunstâncias da ocorrência, elaborando um relatório técnico.\n\n3 - Os inquéritos promovidos por quaisquer autoridades competentes sobre desastres ou acidentes devem ser instruídos com o relatório técnico emitido nos termos do número anterior.\n\n4 - Os relatórios técnicos previstos neste artigo só podem ser disponibilizados às autoridades administrativas competentes para a realização dos inquéritos previstos no número anterior ou às autoridades judiciais, quando solicitados pelas mesmas."
+  },
+  "f135202381c79a3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Requisitos técnicos e de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Requisitos técnicos e de segurança\n\nAs entidades titulares de licença de produção de energia eléctrica estão sujeitas, no exercício da sua actividade, ao cumprimento de todas as disposições legais e requisitos técnicos aplicáveis, devendo adoptar sempre as medidas de segurança mais adequadas."
+  },
+  "378292afdee0bc9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Encargos com a ligação à rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Encargos com a ligação à rede\n\n1 - Salvo acordo entre as partes, nos termos do Regulamento de Relações Comerciais, são da responsabilidade dos titulares de licença de produção de energia eléctrica os encargos com a ligação à rede receptora.\n\n2 - A ligação à rede receptora deve ser feita por forma a assegurar, em condições técnicas e económicas adequadas, a transmissão da potência máxima previsível, assim como o seu controlo."
+  },
+  "544e32c57bef647a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Fiscalização técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Fiscalização técnica\n\n1 - A fiscalização técnica relativa ao exercício da actividade de produção de energia eléctrica prevista neste diploma e demais regulamentação, cabe à DGE e às DRIE, consoante as respectivas competências.\n\n2 - A entidade concessionária da RNT pode, no âmbito das suas competências e funções, proceder à fiscalização das instalações de produção, tendo especialmente em vista a sua adequada compatibilização com a rede do SEP.\n\n3 - Para efeitos do disposto no presente artigo, as entidades titulares de licença de produção de energia eléctrica ficam obrigadas, em relação às entidades referidas nos números anteriores:\n\na) A permitir e facilitar o livre acesso do pessoal técnico às instalações e suas dependências, bem como aos aparelhos e instrumentos de medição;\n\nb) A prestar ao pessoal técnico todas as informações e auxílio de que careçam para o desempenho das suas funções de fiscalização."
+  },
+  "944718fbb4584658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Informação\n\n1 - Sem prejuízo do disposto no Regulamento de Relações Comerciais e, quando aplicável, no contrato de vinculação, os titulares de licença de produção de energia eléctrica devem enviar à DGE os seguintes da dos informativos referentes ao funcionamento e exploração do centro electroprodutor:\n\na) Até ao final de cada mês, os dados mensais referentes ao penúltimo mês anterior;\n\nb) Até ao final do mês de Março de cada ano, os dados anuais referentes ao ano civil anterior.\n\n2 - Os titulares de licença vinculada de produção de energia eléctrica ficam igualmente obrigados a enviar os dados referidos no número anterior à Entidade de Planeamento, à Entidade Reguladora e à entidade concessionária da RNT, quando solicitados por estas."
+  },
+  "4c0bca1f4883efa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Sanções"
+  },
+  "2d75de19b311ac9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos seguintes actos:\n\na) O exercício da actividade sem a respectiva licença;\n\nb) O exercício da actividade para além do âmbito estabelecido na respectiva licença;\n\nc) A inobservância das condições estabelecidas na respectiva licença;\n\nd) A interrupção da exploração ou o abandono das instalações integradas no SEP, sem autorização para o efeito;\n\ne) A inobservância das decisões do despacho centralizado;\n\nf) A inobservância das regras do relacionamento comercial aplicáveis à actividade;\n\ng) A violação das condições de ligação às redes e da respectiva utilização;\n\nh) A utilização de combustível não autorizado;\n\ni) A não actualização do seguro de responsabilidade civil;\n\nj) A não participação à DGE ou às DRIE dos desastres ou acidentes ocorridos na exploração das instalações;\n\nl) O não envio à DGE, à Entidade Reguladora e à Entidade de Planeamento da informação requerida no âmbito da competência destas entidades;\n\nm) Não permitir ou dificultar o acesso da fiscalização das entidades previstas neste diploma às instalações ou aos documentos respeitantes ao exercício da actividade.\n\n2 - As contra-ordenações previstas no número anterior são punidas com as seguintes coimas:\n\na) De 1000000$00 a 6000000$00, no caso da alínea a);\n\nb) De 500000$00 a 5500000$00, no caso das alíneas b) e c);\n\nc) De 400000$00 a 5000000$00, no caso das alíneas d), e) e h);\n\nd) De 350000$00 a 4500000$00, no caso das alíneas f), g) e i);\n\ne) De 250000$00 a 4000000$00, no caso das alíneas j), l) e m).\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - No caso de a contra-ordenação ter sido praticada por pessoa singular, o montante mínimo da coima a aplicar é de 250000$00 e o máximo é de 500000$00.\n\n5 - Simultaneamente com a coima pode, em função da gravidade do facto, ser revogada a licença do exercício da actividade."
+  },
+  "0eb63eccfe7b2844": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Processos de contra-ordenação e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Processos de contra-ordenação e aplicação de coimas\n\n1 - O processamento das contra-ordenações e aplicação das coimas e de sanções acessórias compete:\n\na) À DGE no que se refere às contra-ordenações previstas nas alíneas a), b), c), d), g), h), i), j), l) e m) do n.º 1 do artigo anterior;\n\nb) À Entidade Reguladora no que se refere às alíneas e), f), l) e m) do n.º 1 do artigo anterior;\n\nc) Às DRIE no que se refere às alíneas j) e m) do n.º 1 do artigo anterior.\n\n2 - A competência para processamento das contra-ordenações previstas nas alíneas j), l) e m) é exercida pela DGE, pelas DRIE ou pela Entidade Reguladora, consoante a infracção tenha sido praticada no âmbito de competências de cada uma destas entidades.\n\n3 - A Entidade Reguladora pode propor à DGE a revogação da licença sempre que, do julgamento de um processo de contra-ordenação que seja da sua competência, entenda haver lugar para a aplicação dessa sanção.\n\n4 - Nos casos previstos no número anterior, a DGE revoga a licença do exercício da actividade, a menos que não concorde com a aplicação dessa sanção, caso em que deve submeter a questão ao Ministro da Indústria e Energia para decisão final.\n\n5 - A distribuição do produto das coimas faz-se da seguinte forma:\n\na) 60% para o Estado;\n\nb) 40% para a entidade que tiver aplicado a coima."
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "188e55f47c4d66e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Taxas\n\n1 - Sem prejuízo do pagamento das taxas devidas no âmbito da aplicação do Regulamento de Taxas de Instalações Eléctricas, a atribuição das licenças previstas neste diploma dá lugar ao pagamento de taxas, cujos montantes são fixados por portaria do Ministro da Indústria e Energia.\n\n2 - O disposto no número anterior não se aplica às situações de integração no SEP e no SENV previstas no artigo 65.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho."
+  },
+  "f44070c6b28f1903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos adquiridos\n\nAs entidades integradas no SEP, nos termos do artigo 17.º do [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672), de 27 de Julho, e que detenham, à data da entrada em vigor do presente diploma, direitos de utilização do domínio hídrico devem, em conjugação com a entidade concessionária da RNT, regularizar, no prazo de um ano, o regime de utilização daquele domínio, nos termos dos artigos 6.º e 7.º"
+  },
+  "badaa3abe322b6ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\n1 - Sem prejuízo do disposto no número seguinte, é revogado o [Decreto-Lei n.º 100/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1991-468021), de 2 de Março.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, o [Decreto-Lei n.º 100/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1991-468021), de 2 de Março, mantém-se em vigor até à data da entrada em vigor de legislação específica.\n\nVisto e aprovado em Conselho de Ministros de 23 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 10 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Julho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1dab036fbcbf1435": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Escolha do sítio",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 4.º — Escolha do sítio\n\n1 - Definidas as necessidades de expansão do sistema electroprodutor do SEP, a entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica (RNT) procede à escolha do sítio para implantação do centro electroprodutor, tendo em atenção as suas características e as condições genéricas a que deve obedecer a sua localização.\n\n2 - A entidade concessionária da RNT deve constituir uma carteira de sítios, em termos a acordar com a Direcção-Geral da Energia (DGE), tendo em vista simplificar o processo de disponibilização do sítio, no momento em que for decidida a necessidade de expansão do sistema electroprodutor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "531e2ddb62236cc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Autorização preliminar do sítio para centros electroprodutores termoeléctricos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 5.º — Autorização preliminar do sítio para centros electroprodutores termoeléctricos\n\n1 - Compete à Direcção-Geral de Energia (DGE) a emissão de uma autorização preliminar de afectação do sítio escolhido para utilização na actividade de produção vinculada de energia eléctrica.\n\n2 - A autorização referida no número anterior é solicitada pela entidade concessionária da RNT, devendo a solicitação ser acompanhada de elementos que permitam identificar a exacta localização do sítio, as principais características do centro electroprodutor, a sua incidência ambiental, bem como eventuais interferências com infra-estruturas e outros empreendimentos já existentes ou previstos para a zona em causa.\n\n3 - A autorização preliminar prevista no presente artigo é instruída pelos pareceres dos ministérios que desenvolvam políticas sectoriais susceptíveis de ponderação com a implantação do centro electroprodutor, designadamente as de segurança, preservação do ambiente, ordenamento do território e obras públicas, bem como os municípios abrangidos pela instalação do centro electroprodutor ou das entidades administrativas com competência territorial sobre o sítio em causa.\n\n4 - Compete ao Ministro da Indústria e Energia, em função do projecto de cada centro electroprodutor, determinar quais as áreas sectoriais que devem ser ouvidas.\n\n5 - É fixado o prazo máximo de 60 dias para emissão dos pareceres previstos no n.º 3.\n\n6 - Os pareceres previstos no n.º 3, se não forem emitidos dentro do prazo máximo estabelecido no número anterior, consideram-se favoráveis à autorização solicitada.\n\n7 - Emitida a autorização preliminar, a mesma considera-se concedida a favor da entidade concessionária da RNT, com a faculdade de esta proceder à sua transmissão para a entidade com quem vier a contratar a construção e exploração do centro electroprodutor.\n\n8 - A autorização preliminar de afectação do sítio não desobriga da necessidade de serem obtidas todas as licenças que, no âmbito do licenciamento e construção do centro electroprodutor, sejam necessárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "3e686809fd9d7ec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.",
+    "Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+   ],
+   "markdown": "###### Artigo 6.º — Utilização do domínio hídrico para instalação de aproveitamentos hidroeléctricos\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+  },
+  "c815ce0618ec961f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Titularidade dos sítios",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+   ],
+   "markdown": "###### Artigo 7.º — Titularidade dos sítios\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+  },
+  "5a83f2500535a8db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 8.º — Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor\n\n1 - Concedida a autorização preliminar prevista no artigo 5.º ou a concessão de utilização do domínio hídrico prevista no artigo 6.º e até à data estabelecida no plano de expansão aprovado, a DGE dá início ao processo de consulta pública e selecção da entidade que irá estabelecer e explorar o novo centro electroprodutor.\n\n2 - O processo de consulta tem por base um caderno de encargos preparado pela entidade concessionária da RNT, competindo ao director-geral da Energia a sua aprovação, tendo em vista, designadamente:\n\na) Assegurar a transparência e o carácter não discriminatório do procedimento de consulta;\n\nb) Verificar a sua compatibilização com o plano de expansão aprovado;\n\nc) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º e 6.º\n\n3 - Compete à DGE, ouvida a entidade concessionária da RNT e após parecer da Entidade Reguladora, proceder à selecção da entidade que irá estabelecer e explorar o centro electroprodutor e submetê-la à homologação do Ministro da Economia.\n\n4 - No caso de a escolha ter recaído sobre variantes ao caderno de encargos que não estejam em conformidade com os termos das autorizações previstas nos artigos 5.º e 6.º, a solicitação de parecer à Entidade Reguladora prevista no número anterior deve ser instruída com um parecer prévio das entidades mencionadas no n.º 3 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "5dbed5ab1fa037d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Modificação do contrato de vinculação",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 10.º — Modificação do contrato de vinculação\n\n1 - Sem prejuízo das cláusulas específicas previstas nos contratos de vinculação, a modificação do contrato de vinculação ocorre por alteração relevante das características do centro electroprodutor em causa.\n\n2 - A alteração relevante das características do centro electroprodutor prevista no número anterior pode ocorrer por iniciativa do titular da respectiva licença de produção vinculada, por iniciativa da entidade concessionária da RNT ou por iniciativa da DGE.\n\n3 - A alteração relevante das características do centro electroprodutor pode ainda ocorrer por determinação das entidades competentes, resultante de imperativo legal.\n\n4 - Nos casos previstos nos números anteriores, o processo conducente à modificação só pode ser iniciado após parecer favorável da DGE, no qual esta estabeleça o conjunto de condições mínimas que o contrato de vinculação modificado deve respeitar, nos termos do plano de expansão aprovado, ouvida a Entidade Reguladora.\n\n5 - A modificação do contrato de vinculação deve ser negociada entre a entidade concessionária da RNT e o titular da respectiva licença vinculada.\n\n6 - O contrato de vinculação modificado carece de parecer favorável da Entidade Reguladora para entrar em vigor.\n\n7 - Para o parecer previsto no número anterior, são vinculativas as condições estabelecidas pela DGE, nos termos previstos no n.º 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "3ad472b1cdba9ba1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Prorrogação do contrato de vinculação",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 11.º — Prorrogação do contrato de vinculação\n\n1 - A prorrogação do contrato de vinculação pode ocorrer por iniciativa do titular da respectiva licença de produção vinculada, por iniciativa da entidade concessionária da RNT ou por iniciativa da DGE.\n\n2 - A iniciativa referida no número anterior deve ser tomada com uma antecedência mínima de cinco anos relativamente ao termo do prazo do contrato de vinculação.\n\n3 - O disposto no número anterior não prejudica que a iniciativa para prorrogação do contrato e o acordo sobre a sua prorrogação possam ocorrer até ao termo deste.\n\n4 - Se a prorrogação do contrato de vinculação não for acompanhada da modificação de outras cláusulas, a prorrogação deve ser precedida de parecer favorável da DGE.\n\n5 - A prorrogação do contrato de vinculação prevista no número anterior deve ser negociada entre a entidade concessionária da RNT e o titular da respectiva licença vinculada, carecendo de parecer favorável da Entidade Reguladora para entrar em vigor.\n\n6 - Para além do disposto no artigo anterior, a modificação do contrato de vinculação pode ainda ocorrer pela sua prorrogação, quando acompanhada da alteração de outras cláusulas, à qual se aplica o disposto naquele artigo.\n\n7 - Caso o titular da licença vinculada do centro electroprodutor para o qual existe uma proposta de prorrogação do contrato de vinculação, não esteja interessado nessa prorrogação, a entidade concessionária da RNT pode optar por fazer cessar o contrato de vinculação após parecer favorável da DGE, caso em que essa cessação confere ao titular da licença de produção uma indemnização nos termos previstos no artigo 15.º\n\n8 - Na falta de acordo sobre a prorrogação, e tendo a entidade concessionária da RNT optado pela cessação do contrato prevista no número anterior, deve ser iniciado o processo de selecção de um novo produtor, nos termos previstos no artigo 8.º\n\n9 - No caso previsto no número anterior, são accionados os mecanismos previstos no contrato de vinculação para a disponibilização do sítio nas condições originais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "227b1b844f2c440a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30."
+   ],
+   "markdown": "###### Artigo 13.º — Caducidade do contrato de vinculação por decurso do prazo\n\n1 - A caducidade do contrato de vinculação por decurso do prazo implica a não continuação da operação do centro electroprodutor respectivo no âmbito do SEP, podendo, no entanto, a entidade concessionária da RNT manter reserva sobre o sítio respectivo com vista à sua futura utilização num novo centro electroprodutor vinculado.\n\n2 - Na situação prevista no número anterior, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção compatível com a eventual reserva prevista no número anterior.\n\n3 - Exceptuam-se do disposto no n.º 1 os casos em que a entidade concessionária da RNT tenha apresentado uma proposta de prorrogação do contrato de vinculação que não tenha sido aceite pelo titular da licença de produção respectiva, aplicando-se nestes casos o disposto no n.º 8 do artigo 11.º\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30."
+  },
+  "ee733f5ecf7c146d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Caducidade do contrato de vinculação por revogação da respectiva licença vinculada",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 14.º — Caducidade do contrato de vinculação por revogação da respectiva licença vinculada\n\n1 - A caducidade do contrato de vinculação por revogação da respectiva licença vinculada acciona os mecanismos previstos no contrato para a determinação dos efeitos daquela cessação.\n\n2 - Com a caducidade do contrato de vinculação por revogação da respectiva licença vinculada, a entidade concessionária da RNT solicita à DGE decisão sobre o interesse em continuar a operar o centro electroprodutor em causa no âmbito do SEP, nos termos do plano de expansão aprovado.\n\n3 - Em caso de decisão favorável à continuação da operação do centro electroprodutor no âmbito do SEP, aplica-se o disposto na secção anterior para a vinculação de novos centros electroprodutores.\n\n4 - Em caso de decisão não favorável à continuação da operação do centro electroprodutor no âmbito do SEP, o centro electroprodutor não pode continuar a operar, devendo ser accionados os mecanismos previstos no contrato de vinculação para a reposição das condições de utilização do sítio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "9c79b60039f2d7d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.",
+    "Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30."
+   ],
+   "markdown": "###### Artigo 15.º — Caducidade do contrato de vinculação nos termos do plano de expansão aprovado\n\n1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por determinação da DGE.\n\n2 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado dá ao titular da respectiva licença vinculada de produção o direito a uma indemnização, calculada com base no valor actual dos meios financeiros libertos que o contrato em vigor geraria se fosse integralmente cumprido até ao fim do respectivo prazo.\n\n3 - No caso previsto no número anterior a entidade concessionária da RNT e o titular da respectiva licença vinculada de produção negoceiam as condições da cessação, nos termos do contrato de vinculação.\n\n4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14.\n\n> Alterado pelo/a [Decreto-Lei n.º 153/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467), publicado em 2004-06-30."
+  },
+  "602a194de2d7fb51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Início e instrução do procedimento",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 17.º — Início e instrução do procedimento\n\n1 - O procedimento para atribuição da licença vinculada de produção de energia eléctrica é iniciado pela DGE, após a selecção da entidade que irá estabelecer e explorar o centro electroprodutor.\n\n2 - O procedimento para atribuição de licença é instruído pela DGE com os elementos apresentados pela entidade seleccionada ao processo de consulta, bem como a minuta de contrato de vinculação com a entidade concessionária da RNT, rubricada por ambas as partes.\n\n3 - Quando se tratar de aproveitamentos hidroeléctricos, o procedimento deve ser instruído igualmente com o título de utilização do domínio hídrico.\n\n4 - Para além dos elementos previstos nos números anteriores, o procedimento deve ainda ser instruído com os elementos exigidos no âmbito de legislação específica aplicável, nomeadamente a respeitante à protecção do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "429fea8e0a0bdf19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Atribuição da licença",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 18.º — Atribuição da licença\n\n1 - Verificado o cumprimento dos requisitos referidos no artigo anterior, nomeadamente os relativos ao processo de avaliação do impacte ambiental, se o mesmo for exigível, o director-geral de Energia atribui uma licença de carácter provisório, no prazo de 30 dias.\n\n2 - A atribuição da licença provisória é acompanhada da fixação de prazo para apresentação do projecto das instalações eléctricas do centro electroprodutor, para efeitos da sua aprovação, nos termos previstos no Regulamento de Licenças para Instalações Eléctricas.\n\n3 - A licença referida no n.º 1 é convertida em licença definitiva de produção vinculada de energia eléctrica, por decisão do director-geral de Energia, no prazo de 30 dias após a aprovação do projecto das instalações eléctricas, nos termos do número anterior.\n\n4 - Na fixação dos prazos previstos neste artigo ter-se-á em conta a complexidade do projecto, devendo, para o efeito, ser ouvidas a entidade seleccionada e a entidade concessionária da RNT.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "79de869fa503b70e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Deveres",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 27.º — Deveres\n\nSão deveres dos titulares de licença vinculada de produção, em especial:\n\na) Submeter à DGE a aprovação do projecto das instalações eléctricas do centro electroprodutor, dentro dos prazos fixados para o efeito;\n\nb) Cumprir, no que for aplicável, com as disposições do Regulamento de Relações Comerciais, do Regulamento do Despacho, do Regulamento da Rede de Transporte e do Regulamento da Rede de Distribuição;\n\nc) Proceder à construção das instalações que integram o centro electroprodutor e iniciar a sua exploração dentro dos prazos estabelecidos para o efeito;\n\nd) Manter o centro electroprodutor em regular funcionamento e só interromper a actividade mediante autorização da entidade concessionária da RNT;\n\ne) Manter o centro electroprodutor em bom estado de funcionamento e proceder à conservação e reparação das instalações e dos equipamentos, adoptando as medidas indispensáveis à salvaguarda da segurança das pessoas e bens;\n\nf) Adoptar as providências que lhe sejam ordenadas pela DGE ou pela Entidade Reguladora;\n\ng) Prestar à DGE, à Entidade Reguladora e à entidade concessionária da RNT as informações previstas no presente diploma;\n\nh) Facultar às entidades referidas na alínea anterior os estudos, análises e relatórios com interesse para o conhecimento da exploração do centro electroprodutor que lhe tenham sido solicitados;\n\ni) Cumprir com as obrigações decorrentes do contrato de vinculação;\n\nj) Permitir e facilitar o acesso das entidades fiscalizadoras às suas instalações, facultando-lhes as informações e dados necessários ao exercício da sua actividade de fiscalização;\n\nl) Participar aos serviços competentes os acidentes e desastres ocorridos na exploração das instalações do centro electroprodutor;\n\nm) Constituir e manter actualizado o seguro de responsabilidade civil previsto no artigo 44.º;\n\nn) Cumprir com todas as normas e regulamentos aplicáveis ao exercício da actividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "4e9d5ecf3b5ba21f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Início e instrução do procedimento",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 30.º — Início e instrução do procedimento\n\n1 - O procedimento para atribuição de licença não vinculada inicia-se com a apresentação, pela entidade interessada, de um requerimento ao director-geral de Energia.\n\n2 - O requerimento referido no número anterior deve ser instruído com os seguintes elementos:\n\na) Identificação completa do requerente;\n\nb) Documento comprovativo de se encontrar regularizada a situação do requerente relativamente às contribuições para a segurança social;\n\nc) Indicação exacta do local onde vai ser instalado o centro electroprodutor;\n\nd) Principais características do centro electroprodutor, nomeadamente a potência a instalar;\n\ne) Planta topográfica à escala de 1:25000, com localização do centro electroprodutor e das principais obras necessárias;\n\nf) Memória descritiva e justificativa, indicando as características do centro electroprodutor, nomeadamente o combustível a utilizar;\n\ng) Ponto de ligação;\n\nh) Declaração assumindo o compromisso de que, no exercício da actividade, cumprirá todas as disposições e regulamentos aplicáveis.\n\n3 - Quando se tratar de aproveitamentos hidroeléctricos, o requerimento deve ainda ser instruído com o título de utilização do domínio hídrico.\n\n4 - Para além dos elementos previstos nos números anteriores, o requerente deve ainda instruir o requerimento com os elementos exigidos no âmbito de legislação específica aplicável, nomeadamente a respeitante à protecção do ambiente.\n\n5 - A DGE pode solicitar ao requerente outros elementos que considere necessários para a instrução do pedido.\n\n6 - Exceptuam-se do disposto nos números anteriores as solicitações de licença não vinculada que decorram das situações previstas nos artigos 13.º, 15.º e 16.º, caso em que, não havendo alteração das características do centro electroprodutor, o requerimento a apresentar pela entidade interessada não necessita de ser instruído com quaisquer outros elementos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "937ac854f7419fd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Processo de atribuição do título de utilização do domínio hídrico",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 31.º — Processo de atribuição do título de utilização do domínio hídrico\n\n1 - No âmbito do processo de atribuição do título de utilização do domínio hídrico, a DGE emite parecer sobre o eventual impacte do aproveitamento hidroeléctrico em causa sobre a expansão prevista para o sistema hidroeléctrico do SEP ou sobre a exploração do sistema existente.\n\n2 - O parecer previsto no número anterior deve ser precedido de consulta à entidade concessionária da RNT e explicitar uma posição favorável ou desfavorável à construção do centro electroprodutor em causa.\n\n3 - Se a construção do centro electroprodutor em causa inibir a construção de um centro electroprodutor do SEP, no mesmo sítio ou na mesma cascata, a DGE só dará um parecer desfavorável quando o valor actual da energia produzida pelo centro electroprodutor não vinculado, líquido do valor actual dos custos de investimento e exploração, for inferior ao valor actual da energia produzida pelo centro electroprodutor alternativo do SEP, líquido do valor actual dos custos de investimento e exploração, nos termos do plano de expansão aprovado.\n\n4 - Para efeitos do disposto no número anterior, os valores actuais da energia produzida devem ser referidos à mesma data e calculados mediante a taxa de actualização utilizada no plano de expansão aprovado.\n\n5 - O parecer previsto no presente artigo deve ainda indicar objectivamente as mais-valias ou menos-valias resultantes da construção do centro electroprodutor em causa para o sistema hidroeléctrico do SEP existente e, se for caso disso, para o sistema hidroeléctrico do SEP que se encontrar previsto, nos termos do plano de expansão aprovado.\n\n> Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "dfc64c13e5c95eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Critérios para atribuição da licença",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 32.º — Critérios para atribuição da licença\n\nOs critérios para atribuição de licença não vinculada de produção, ou as suas alterações, são publicados mediante aviso do director-geral da Energia e permitem fundamentar a recusa de atribuição de licença, nomeadamente na incompatibilidade do centro electroprodutor proposto com:\n\na) A utilização do sítio pretendido, nos termos do artigo anterior;\n\nb) Os requisitos de natureza ambiental estabelecidos na lei;\n\nc) A política energética nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "9c03bc2a5868f05b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Informação",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 49.º — Informação\n\n1 - Sem prejuízo do disposto no Regulamento de Relações Comerciais e, quando aplicável, no contrato de vinculação, os titulares de licença de produção de energia eléctrica devem enviar à DGE os seguintes da dos informativos referentes ao funcionamento e exploração do centro electroprodutor:\n\na) Até ao final de cada mês, os dados mensais referentes ao penúltimo mês anterior;\n\nb) Até ao final do mês de Março de cada ano, os dados anuais referentes ao ano civil anterior.\n\n2 - Os titulares de licença vinculada de produção de energia eléctrica ficam igualmente obrigados a enviar os dados referidos no número anterior à Entidade Reguladora e à entidade concessionária da RNT, quando solicitados por estas.\n\n> Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "5ad126d7093bffa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Contra-ordenações",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+   ],
+   "markdown": "###### Artigo 50.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos seguintes actos:\n\na) O exercício da actividade sem a respectiva licença;\n\nb) O exercício da actividade para além do âmbito estabelecido na respectiva licença;\n\nc) A inobservância das condições estabelecidas na respectiva licença;\n\nd) A interrupção da exploração ou o abandono das instalações integradas no SEP, sem autorização para o efeito;\n\ne) A inobservância das decisões do despacho centralizado;\n\nf) A inobservância das regras do relacionamento comercial aplicáveis à actividade;\n\ng) A violação das condições de ligação às redes e da respectiva utilização;\n\nh) A utilização de combustível não autorizado;\n\ni) A não actualização do seguro de responsabilidade civil;\n\nj) A não participação à DGE ou às DRIE dos desastres ou acidentes ocorridos na exploração das instalações;\n\nl) O não envio à DGE e à Entidade Reguladora da informação requerida no âmbito da competência destas entidades;\n\nm) Não permitir ou dificultar o acesso da fiscalização das entidades previstas neste diploma às instalações ou aos documentos respeitantes ao exercício da actividade.\n\n2 - As contra-ordenações previstas no número anterior são punidas com as seguintes coimas:\n\na) De 1000000$00 a 6000000$00, no caso da alínea a);\n\nb) De 500000$00 a 5500000$00, no caso das alíneas b) e c);\n\nc) De 400000$00 a 5000000$00, no caso das alíneas d), e) e h);\n\nd) De 350000$00 a 4500000$00, no caso das alíneas f), g) e i);\n\ne) De 250000$00 a 4000000$00, no caso das alíneas j), l) e m).\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - No caso de a contra-ordenação ter sido praticada por pessoa singular, o montante mínimo da coima a aplicar é de 250000$00 e o máximo é de 500000$00.\n\n5 - Simultaneamente com a coima pode, em função da gravidade do facto, ser revogada a licença do exercício da actividade.\n\n> Alterado pelo/a [Decreto-Lei n.º 56/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), publicado em 1997-03-14."
+  },
+  "ed645619ccad7866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Direitos adquiridos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+   ],
+   "markdown": "###### Artigo 53.º — Direitos adquiridos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), publicado em 2007-05-31."
+  }
+ }
+}
