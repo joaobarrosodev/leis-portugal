@@ -406,10 +406,12 @@ Medido em 12/11/2026: com e sem os dados do TC, a avaliação BM25 dá o mesmo r
 
 ### Acórdãos de uniformização do STJ e do STA (20/11/2026)
 
-O acervo tem 335 acórdãos publicados na 1.ª Série do Diário da República, de 2008 a 2026, todos de uniformização de jurisprudência:
+O acervo tem 469 acórdãos de uniformização de jurisprudência publicados na 1.ª Série do Diário da República, de 1976 a 2026:
 
-- 213 do STJ: 124 de fixação, das Secções Criminais, e 89 de uniformização, das Secções Cíveis e Social;
-- 122 do STA.
+- 335 desde 2008, com tipo próprio no DRE: 213 do STJ (124 de fixação, das Secções Criminais, e 89 de uniformização, das Secções Cíveis e Social) e 122 do STA;
+- 134 anteriores a 2008, juntados a 20/11/2026: 106 do STJ e 8 do STA que o DRE classificava como «Acórdão» (`outros/acordao`, de 1976 a 2007), e 20 do STJ de 2001 a 2004 com o título «Jurisprudência» (`outros/jurisprudencia`).
+
+Entre os 469 há um do STA de 1992 que declara a ilegalidade de normas regulamentares com força obrigatória geral.
 
 Extração: `python -m rag.uniformizacao --indice …`, que grava `data/jurisprudencia/uniformizacao/normas-interpretadas.jsonl`.
 
@@ -428,12 +430,14 @@ Nunca contam a fundamentação, as declarações de voto, o «cumpra-se o artigo
 
 | | STJ | STA | Total |
 |---|--:|--:|--:|
-| Acórdãos | 213 | 122 | 335 |
-| Com pelo menos um artigo ligado ao índice | 163 | 91 | **254** |
-| Artigos ligados | 286 | 143 | **429** (344 artigos distintos) |
-| Sem artigo nem diploma no texto fixado | 39 | 25 | 64 |
+| Acórdãos | 339 | 130 | 469 |
+| Com pelo menos um artigo ligado ao índice | 235 | 97 | **332** |
+| Artigos ligados | 395 | 154 | **549** (422 artigos distintos) |
+| Sem artigo nem diploma no texto fixado | 60 | 26 | 86 |
 
-Dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo cláusulas de convenções coletivas e regras gerais («os procedimentos cautelares revestem sempre carácter urgente»). Os outros 17 citam diplomas sem artigo, ou artigos de diplomas que o índice não tem, como o Código de Processo Civil de 1961, que não está no acervo.
+Nos 335 desde 2008: 254 ligados e 429 ligações. Nos 134 anteriores: 78 ligados e 121 ligações.
+
+Nos 335 desde 2008, dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo cláusulas de convenções coletivas e regras gerais («os procedimentos cautelares revestem sempre carácter urgente»). Os outros 17 citam diplomas sem artigo, ou artigos de diplomas que o índice não tem, como o Código de Processo Civil de 1961, que não está no acervo.
 
 **Precisão, medida à mão.** As duas amostras foram tiradas dos anos que não tinham sido lidos durante o desenvolvimento: STJ desde 2016 e STA desde 2015.
 
@@ -446,6 +450,22 @@ Dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo c
   - **Cobertura de 86 %:** ficaram por ligar 9 das 64 normas portuguesas citadas, e mais 3 de atos da UE.
 
 Depois da 2.ª medição corrigiram-se o erro e quatro das faltas: «Cód.», «04.º», o CISV e o anexo de emolumentos. Mudaram 7 acórdãos, todos verificados um a um. A 2.ª amostra é por isso uma medida da versão antes destas correções, e não um teste cego da versão gravada.
+
+**Os 134 anteriores a 2008 foram revistos todos à mão.** Nenhum tinha sido visto durante o desenvolvimento.
+
+- Antes de qualquer correção, 117 das 136 ligações estavam certas (86 %).
+- Os erros eram quase todos de versões antigas dos códigos ligadas ao código de hoje:
+  - o Código Penal de 1982, renumerado em 1995 (o artigo 142.º de 1982 são as ofensas corporais, e o 142.º de hoje é a interrupção da gravidez);
+  - o Código de Processo do Trabalho de 1981;
+  - os Códigos da Estrada de 1954 e de 1998;
+  - o Código de Processo Penal de 1929.
+- O que mudou:
+  - o código citado com o ano vai para essa versão, quando o índice a tem;
+  - o «Código Penal» de um acórdão anterior a 1/10/1995 vai para o Decreto-Lei n.º 400/82, e o «Código de Processo do Trabalho» anterior a 2000 vai para o Decreto-Lei n.º 272-A/81;
+  - «daquele artigo 54.º» e o artigo que altera («alteração decorrente do artigo 1.º da Lei…») deixam de contar.
+- Com isto saíram as 15 ligações erradas e as outras 4 passaram a apontar para a versão certa. As 121 que ficam foram todas vistas.
+
+É uma revisão de todos os casos, não uma amostra cega. As regras novas também se aplicam ao TC; ver a nota no fim desta secção.
 
 Falta ainda a lista de artigos só com vírgulas depois de um diploma («arts. 4.º do ETAF, 157.º do CPTA, 61.º e 89.º do DL n.º 433/82»), um caso em 40.
 
@@ -465,7 +485,13 @@ A data é a da decisão (a da assinatura) e, quando não se lê, a da publicaç�
 - os nomes de códigos deixam de engolir o verbo seguinte;
 - «mantido em vigor pela Lei…» passa a ser lido como lei de alteração.
 
-Mudam 189 das 5.777 alíneas do TC. Revistas à mão, uma amostra de 30 das primeiras 116 e todas as 76 da segunda leva eram correções ou não mudavam nada; a única regressão encontrada foi corrigida.
+Mudam 189 das 5.777 alíneas do TC. Com as regras das versões antigas dos códigos, entram e saem algumas ligações do TC:
+
+- entram 23 e saem 16;
+- 11 artigos do Código de Processo do Trabalho, de acórdãos de 1993 a 1998, passam para o código de 1981;
+- 5 artigos do Código Penal citados antes da revisão de 1995 deixam de ir para o código de 1995;
+- nenhuma declaração com força obrigatória geral muda.
+ Revistas à mão, uma amostra de 30 das primeiras 116 e todas as 76 da segunda leva eram correções ou não mudavam nada; a única regressão encontrada foi corrigida.
 
 ## Prova de conceito no browser (12/11/2026)
 
@@ -830,6 +856,37 @@ A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista �
 Com estes, as 5 reais C2 que esta leva não cobre ficam cobertas. Os outros diplomas da 2.ª leva da proposta podem ficar de fora: o Estatuto do SNS, as comunicações eletrónicas, o Mais Habitação, o alojamento local e o arrendamento acessível são sobretudo organização, regulação ou alteração de outras leis.
 
 Antes de mais levas, convém o conjunto de avaliação ganhar perguntas de consumo e família.
+
+### 2.ª leva de diplomas avulsos (20/11/2026)
+
+É a 2.ª leva dirigida proposta acima, com os mesmos sete diplomas.
+- **Segurança social:** a Lei n.º 13/2003 (RSI), o DL 265/99 e a Lei n.º 98/2009.
+- **Saúde:** a Lei n.º 32/2006.
+- **Justiça e impostos:** a Lei n.º 29/2013, o Estatuto dos Benefícios Fiscais (só o anexo do DL 215/89) e o anexo do DL 147/2003. Ficam em dois ficheiros novos, `avulsos-justica` e `avulsos-impostos`.
+
+**Geração:** o mesmo método e as mesmas regras.
+- As regras ganham as palavras destas áreas, e a validação recusa também «Estatuto dos Benefícios Fiscais» e «EBF».
+- Foram 14 lotes, escritos por 7 subagentes, todos validados à primeira: **473 artigos e 1.713 perguntas**, gravados antes de medir.
+- `rag/perguntas_artigo/` fica com 14.454 artigos e 53.963 perguntas. O `juntar` no índice da fase 1 não deixa nenhum em falta.
+
+**Medição:** só BM25 e referências, nas mesmas 1.519 perguntas (1.414 com artigo esperado). Resumos em `pav2-antes-bm25.json` e `pav2-depois-bm25.json`.
+- «Antes» é uma cópia do índice da fase 1 com as perguntas da 1.ª leva. «Depois» junta-lhe as da 2.ª.
+- As duas correram com o código do `main` depois de `0f0ac113a32` (nomes de códigos e registos repetidos). Por isso, o «antes» dá 889 em 1.º, e não os 891 do «depois» da 1.ª leva.
+
+| Grupo | n | Em 1.º | Nos 8 primeiros | Nos 10 primeiros | Ganhos / perdas no 1.º | Ganhos / perdas nos 10 |
+|---|--:|--:|--:|--:|--:|--:|
+| **Reais do diagnóstico com o artigo nestes diplomas** | 5 | 0 → 0 | 0 → **2** | 0 → 2 | 0 / 0 | 2 / 0 |
+| Reais com o artigo nestes diplomas (todas) | 8 | 1 → 1 | 1 → **4** | 1 → 4 | 0 / 0 | 3 / 0 |
+| Coloquiais com o artigo nestes diplomas | 8 | 0 → 1 | 0 → 5 | 0 → 5 | 1 / 0 | 5 / 0 |
+| Artigo fora destes diplomas | 1.396 | 888 → 888 | 1.236 → 1.235 | 1.262 → 1.262 | 0 / 0 | 0 / 0 |
+| **Todas com artigo esperado** | 1.414 | 889 → **890** | 1.237 → **1.244** | 1.263 → **1.271** | 1 / 0 | 8 / 0 |
+
+- **Ganho pequeno e sem perdas.** Das 5 reais do diagnóstico, 2 chegam aos 8 primeiros (5.º e 6.º lugar): uma da mediação e a dos bens em circulação.
+- **As outras 3 ficam fora dos 10 primeiros:** duas da mediação e a do Estatuto dos Benefícios Fiscais. À frente delas ficam a diretiva europeia da mediação, o processo tutelar cível e a prestação social para a inclusão. É o grupo em que a linguagem da pergunta está mais longe da da lei. As perguntas geradas também não a apanham.
+- Nenhuma pergunta fora destes diplomas muda de lugar no 1.º. Os diplomas desta leva concorrem pouco com os códigos.
+- **Não medido:** o reranker e o limiar, como na 1.ª leva. As reais destes diplomas são só 8, por isso estes números são indicativos.
+
+**Decisão: não compensa uma 3.ª leva escolhida pelas falhas.** As reais do diagnóstico que ficam por resolver já não dependem de perguntas por artigo nos avulsos: das 41, as duas levas tocam 23. As outras 18 são do reranker, de artigos compridos diluídos no BM25 ou de normas remissivas (grupos A, B e C1), e 3 das 23 são esta distância de linguagem. Mais levas por tema só se medem quando o conjunto de avaliação tiver perguntas de consumo, família e habitação.
 
 **Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
 - **Pesquisa:** uma só por pergunta, no índice de uso de 17/11 numa cópia fixa, com as consultas reescritas de `reescrita2`, o reranker cruzado com 30 candidatos e o limiar 1. O LLM recebe os 8 ou os 16 primeiros artigos da mesma consulta (`passo_llm exportar --contextos 8,16 --consultas PASTA`). Assim, o ruído do reranker não entra na comparação.
@@ -1208,7 +1265,7 @@ Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto 
 
 Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
 
-Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
+Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado, e 6.743 depois das regras das versões antigas dos códigos. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
 
@@ -1266,3 +1323,87 @@ Nada se apaga. `python -m rag.duplicados` lista os pares e os de fora; `python -
 - Não ganha as linhas 2 e 4, que estão no código da pesquisa e das referências.
 
 **Reconstruir:** `python -m rag.indice`, como sempre, sem opções novas (o `rag.duplicados` acrescenta uns 40 s no início). Os pedaços não mudam, por isso o `rag.jurisprudencia` não precisa de correr de novo por causa disto. A medição com reranker nas 1.298 fica para depois da reconstrução.
+
+## Texto corrido lido como artigos (20/11/2026, tarde)
+
+Os registos sem nenhum título de artigo entravam inteiros em blocos de ~300 palavras. Muitos são diplomas de 1960 a 1999
+com os artigos em texto corrido («Artigo 1.º Texto… Art. 2.º - Texto…»). Agora o índice lê-os como artigos na construção
+(`rag/corrido.py`, chamado por `rag.indice._unidades`), com o leitor do acervo (`leis_portugal.domain.articles.parse_articles`),
+mas só quando a leitura passa a salvaguarda. O `data/` não muda; a leitura desfaz-se com `--sem-texto-corrido`.
+
+**A salvaguarda** (cabeçalho de `rag/corrido.py`): só artigos (nem bases, nem números de portaria); em cada parte, numeração
+de 1 (ou «único») em diante, sem saltos nem repetidos; nenhum artigo aberto depois de «… seguinte redacção:» nem a acabar
+nessa frase; a numeração não recomeça logo a seguir a um artigo que acaba em «:»; o último artigo de cada parte não tem
+dentro o seguinte; nenhuma parte é o sumário de outra; nenhum título `######` no registo; três ou mais linhas «Artigo N.º»;
+não é acórdão nem parecer; num diploma que «Aprova o Código …», todos os artigos na parte do diploma (é lá que a pesquisa
+procura o código pelo sumário). Ficam também em blocos os registos com uma cópia marcada em texto corrido pela regra das
+redações anteriores (o Código Penal no DL 400/82, o do IVA no DL 394-B/84 e mais 2): a marca procura o texto antigo nos blocos.
+
+**Revisão à mão** (`reports/leitura-texto-corrido-amostra.md`): 50 + 150 + 100 + 100 registos aceites em vigor, os 145 com uma
+«Parte 2» implícita e 56 fora de vigor ou da UE. Cada família de erro que apareceu deu uma regra. Na última amostra, tirada
+já com a regra final e que não serviu para fazer regras: 100 registos, 1.274 artigos, nenhum erro (intervalo de 95 %: até
+3,6 % dos registos aceites com algum erro). Nos 4.040 artigos das quatro amostras, o texto de cada artigo bate com o trecho do
+original entre a linha que o abre e a seguinte.
+
+**O que entra**, no export de 20/11 (pela construção do ensaio abaixo, que tem todos os registos que mudam):
+
+| Vigência no DRE | Registos | Artigos novos | Blocos antes | Blocos depois |
+|---|--:|--:|--:|--:|
+| Em vigor | 5.592 | 63.382 | 24.114 | 8.283 |
+| Sem vigência | 4.684 | 60.534 | 23.551 | 8.215 |
+| Desconhecida | 245 | 2.218 | 1.111 | 322 |
+| Revogados | 21 | 250 | 169 | 103 |
+| **Total** | **10.542** | **126.384** | **48.945** | **16.923** |
+
+Mais uns 94 mil pedaços no índice inteiro. Na população revista (em vigor, em blocos, com três ou mais linhas «Artigo N.º»):
+5.602 de 8.750 registos (64 %), 63.479 artigos.
+
+**O que fica de fora:** os 3.148 registos dessa população que não passam (rubricas de orçamento, diplomas de alteração com a
+redação nova sem aspas, registos mistos…) continuam em blocos, como antes; os acórdãos e pareceres; os registos com títulos
+`######`. As bases soltas no texto (242 registos, 8.401 bases; a Lei n.º 95/2019 tem as 37 num `## ANEXO`) ficam como estavam:
+misturam a redação nova citada («Base II [...]» dentro de um artigo «Alteração às bases…») com a republicação no anexo, muitas
+vezes com várias numerações no mesmo registo, e não há ainda uma regra que as separe com segurança. Nos registos de concessões
+de 2010 a 2015 (DL 44-B/2010 a 44-G/2010, DL 214-A/2015…) a maior parte das bases fica para lá dos 30.000 caracteres do último
+artigo e não está no índice: fica como trabalho à parte.
+
+**Nenhum texto sai do índice.** Todo o texto fora dos artigos de um registo lido (preâmbulo, fórmula, assinaturas, títulos dos
+capítulos, mapas) entra em blocos, seja qual for o tamanho, e o que passa dos 30.000 caracteres de um artigo também. Verificado
+nos 10.570 registos que mudam no ensaio, pelas palavras de cada registo antes e depois (texto, epígrafe e notas): saem só os
+números dos artigos («2º», «único»), que passam a ser o número do pedaço, e o título de um anexo, que passa a ser o nome da parte.
+
+**Redações anteriores nas declarações de retificação (`rag/copias.py`, `TIPOS`).** As declarações de retificação contam como
+cópias possíveis de um texto: 558 → 565 marcas (`reports/redacoes-anteriores/`), nenhuma perdida nem mudada. As 7 novas: a
+Declaração de Rectificação n.º 100-A/2007 (Código de Processo Penal de 2007, fechado a 2009-01-02, quando o DL 78/87 tem
+alterações a esses artigos); as DR 25-A/2018, 21/2014, 1-A/2005 e 20/93; a Lei n.º 31-A/2009 e a Lei Orgânica n.º 5/2014,
+cujo texto em vigor o DRE consolida no registo da Declaração de Rectificação n.º 52/2009.
+
+**Verificado num índice de ensaio** (22.459 registos: os 12.120 da fase 1, todos os que a leitura muda e os das marcas novas),
+com o código do `main` antes (`fd47829befb`) e depois, numa pasta temporária:
+
+- esquema igual; pedaços 394.966 → 489.377; abertos com número 202.851 → 328.383; blocos abertos 77.514 → 45.492;
+- nenhum dos 198 diplomas centrais perde artigos (197 iguais, 1 fora do acervo); 630 → 640 nomes de anexos e códigos;
+  nenhum nome começado por «código», «lei geral», «estatuto» ou «regime» muda de resolução; os 39 da lista de controlo
+  resolvem-se para os mesmos registos; códigos principais 44 → 44. Uma primeira versão, sem a regra do «Aprova o Código»,
+  tirava 4 dos códigos principais (o Código do Imposto de Capitais e outros dos anos 60 ficavam numa «Parte 2»);
+- chaves das perguntas de avaliação: das 1.519 perguntas (as 1.298, as da UE e as da 2.ª Série), nenhuma tem a fonte ou o
+  distrator num registo que muda (só um revogador, sem artigo); `acertar_fontes` não tem nada a acertar;
+- com o código da etiqueta `app-v0.1.1`: um delta gerado hoje (10.570 registos, 135 MB) e aplicado por ela dá o mesmo índice
+  que a construção de raiz (documentos, pedaços e relações iguais linha a linha), e 10 pesquisas dão os mesmos resultados;
+- só BM25 e referências, sem reranker nem LLM, nas 1.414 perguntas com fonte:
+
+| | Antes | Depois |
+|---|--:|--:|
+| Artigo esperado em 1.º | 840 | 831 |
+| Nos 5 primeiros | 1.111 | 1.104 |
+| Nos 10 primeiros | 1.182 | 1.180 |
+| Nos 10 primeiros com o texto do excerto | 1.169 | 1.167 |
+
+50 perguntas sobem e 88 descem (21 perdem o 1.º lugar, 12 ganham-no; saem 9 do top 10 e entram 7). Em nenhuma das 88 que
+descem o 1.º lugar é um registo que mudou: a troca vem das estatísticas do BM25 no índice inteiro (mais 94 mil pedaços mudam o
+IDF e o comprimento médio). Nenhuma pergunta de avaliação tem a fonte num registo lido agora, por isso esta medição só vê o
+custo; o ganho é nas perguntas que citam um diploma antigo e o artigo («artigo 3.º do Decreto-Lei n.º 47908»), que antes só
+podiam receber um bloco. O efeito com o reranker mede-se na reconstrução.
+
+**Reconstruir:** `python -m rag.indice`, como sempre; a leitura está ligada por omissão (`--sem-texto-corrido` desliga-a, para
+medir). A regra das cópias com as declarações de retificação também está ligada por omissão. Depois, `python -m rag.jurisprudencia`,
+como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos podem passar a encontrar o artigo).

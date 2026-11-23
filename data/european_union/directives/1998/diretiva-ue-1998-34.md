@@ -392,10 +392,6 @@ relationships:
   label: null
   source: null
 - type: cited_by
-  target: pt:dre:540003:por
-  label: null
-  source: null
-- type: cited_by
   target: pt:dre:540838:por
   label: null
   source: null
@@ -669,6 +665,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/e843d7ce-82d4-4205-920c-a7f76623774d
   date: '1996-02-10'
+- type: transposed_by
+  target: pt:dre:540003:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:67098359:por
   label: null

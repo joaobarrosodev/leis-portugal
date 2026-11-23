@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-04-01'
+version_history:
+  file: decreto-lei-339-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-01'
+    amending: pt:dre:254666:por
+    amending_title: Decreto-Lei n.º 40/2002; Decreto-Lei n.º 46/2002
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/339/1998/11/03/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 40/2002; Decreto-Lei
+    n.º 46/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-339-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -270,6 +287,8 @@ e) Protecção das suas instalações e do seu pessoal;
 
 f) Uso público dos serviços inerentes à actividade portuária e sua fiscalização.
 
+g) Assunção da responsabilidade em matéria de segurança marítima e portuária na sua área de jurisdição, definindo as condições de segurança de funcionamento do porto, em todas as suas vertentes, tendo em atenção a necessidade de garantir, de forma adequada, a sua exploração comercial.
+
 3 - No exercício das competências referidas no número anterior, o pessoal da APA, S. A., pode:
 
 a) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;
@@ -277,6 +296,8 @@ a) Solicitar o auxílio das autoridades administrativas e policiais, quando for 
 b) Usar armas para defesa própria, dos objectos de serviço e das instalações ou valores à sua guarda, quando devidamente autorizado, nos termos gerais.
 
 4 - A livre entrada a bordo dos navios fundeados no porto de Aveiro ou atracados aos cais será sempre facultada aos funcionários da APA, S. A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade, mediante a apresentação de documento de identificação emitido pela APA, S. A., acreditando-os para aquela missão.
+
+> Alterado pelo/a [Decreto-Lei n.º 46/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), publicado em 2002-03-02.
 
 ###### Artigo 4.º
 
@@ -300,23 +321,31 @@ Nos terrenos situados dentro da sua área de jurisdição, as obras a que se ref
 
 ###### Artigo 7.º
 
-1 - A APA, S. A., prosseguirá o seu objecto e atribuições no âmbito da área de jurisdição da Junta Autónoma do Porto de Aveiro, até à sua redefinição, cuja concretização geográfica compreende:
+1 - A APA - Administração do Porto de Aveiro, S. A., prossegue o seu objecto e atribuições na área com a seguinte delimitação geográfica, também representada na planta anexa ao presente decreto-lei, que dela faz parte integrante:
 
-a) A faixa da costa, dentro do limite da largura máxima legal do domínio público marítimo, compreendida entre os paralelos +108000 e +110000;
+a) A faixa da costa, dentro do limite da largura máxima legal do domínio público marítimo, compreendida entre o paralelo +108000 e 50 m a norte do molhe norte do porto de Aveiro;
 
-b) A laguna de Aveiro, com os seus canais, esteiros e respectivas margens, numa faixa de 50 m de largura, a contar da linha da máxima preia-mar de águas vivas, ou outra superior fixada, em pontos determinados, pelos planos de arranjo e expansão do porto de Aveiro que vierem a ser aprovados;
+b) Os terraplenos afectos à exploração e de expansão do porto de Aveiro delimitados por uma linha que passa pelos pontos coordenados abaixo referidos (sistema Hayford-Gauss, Datum de Lisboa) com início no farolim norte da doca de serviços (A) e segue por esta até ao canal de Mira (B) onde acompanha a margem até à ponta sul da vedação do porto de pesca costeira (C). Daqui, inflecte para este e segue a vedação do porto de pesca costeira (D, E) passando a via de cintura portuária até à respectiva vedação, a este (F), que acompanha (G, H, I, J) até à vedação da BRESFOR (K). Segue esta até à Avenida dos Bacalhoeiros (L), que acompanha para sul até à ponte do IP 5 (M), inflectindo para este até ao canal de Ílhavo (N), seguindo sempre a margem do canal até encontrar o ponto inicial (A). Estão ainda incluídos os terrenos delimitados por uma linha que se inicia na ponte da EN 109-7, na margem poente do canal de Ílhavo (O), prossegue para norte até ao canal principal de navegação (P) e inflecte para este ao longo da margem até à marinha Moleira (Q), prolongando-se para sul até ao IP 5 (R), ao longo dos limites desta marinha e da marinha Cachinha da Prumaceira, seguindo para oeste até ao ponto inicial (O), ao longo da margem norte da EN 109-7.
 
-c) O rio Vouga a jusante da ponte de caminho de ferro de Cacia e as respectivas margens, na largura de 50 m, como na alínea anterior;
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16441645.pdf)
 
-d) Todas as correntes flutuáveis que desagúem na laguna ao norte de Aveiro e até ao cais de Estarreja, no seu curso a poente da linha de caminho de ferro, e as respectivas margens, na largura de 50 m;
+c) Os seguintes terrenos, dentro do limite máximo legal do domínio público marítimo:
 
-e) As zonas de exploração e expansão do porto de Aveiro, definidas em planos aprovados de arranjo e expansão;
+i) No canal de Mira - situados a norte da ponte da Barra;
 
-f) Todas as obras de carácter portuário integradas nas zonas definidas nas alíneas anteriores.
+ii) No canal de São Jacinto - situados a sul do cais da Pedra;
 
-2 - A redefinição da área de jurisdição da APA, S. A., será efectuada em articulação entre os Ministérios do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, precedendo obrigatoriamente a avaliação a que se refere o artigo 10.º do presente diploma.
+iii) No canal de Ílhavo - situados a norte da ponte da EN 109-7;
 
-3 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade, dentro da área de jurisdição da APA, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Centro.
+iv) No canal principal de navegação, no concelho de Aveiro - a poente do vértice nascente da marinha Moleira;
+
+v) Na Cale do Espinheiro - situados a sul de uma linha que une o vértice sul da marinha Garras e o vértice norte da marinha Cancela do Mar ou Cancela do Sudoeste;
+
+vi) As marinhas Moleira, Caveira, Leiteireira, Luanda, Freira, Correiinha, Pinheira Pequena, Pinheira Grande, Romanos, Trampalhona do S. O., Trampalhona do N. E., Quinhão do Mar das Novas de Sama, Cachinha Grande, Calções Verdes, Airosa do Mar, Airosa Pequena, Bamba do Sul, Bamba do Norte, Carvalhas do N. E., Carvalhas do S. O., Moliça Grande, Moliça Pequena, Cancelas do Mar, ou do S. O., Novazinha das Canas e Judia, assim como os esteiros que se situem entre as motas destas marinhas.
+
+2 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade, dentro da área de jurisdição da APA, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Centro.
+
+> Alterado pelo/a [Decreto-Lei n.º 40/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2002-254666), publicado em 2002-02-28.
 
 ###### Artigo 8.º
 
@@ -346,13 +375,11 @@ A APA, S. A., só pode participar na constituição e adquirir participações e
 
 1 - A APA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos Estatutos.
 
-2 - Como órgão consultivo da administração, a APA, S. A., tem uma comissão de coordenação portuária, à qual compete a formulação de pareceres e recomendações em matérias relacionadas com:
+2 - (Revogado.)
 
-a) A segurança da navegação e a definição dos condicionamentos necessários para garantir e assegurar as ajudas à navegação e sinalização marítimas na área de jurisdição da APA, S. A.;
+3 - (Revogado.)
 
-b) A garantia de um integrado desempenho do serviço de pilotagem.
-
-3 - A comissão de coordenação portuária é composta por três membros, um dos quais representante do conselho de administração, que preside, outro em representação da capitania do porto da área de jurisdição da APA, S. A., e um terceiro a designar pelo Ministro do Equipamento, do Planeamento e da Administração do Território.
+> Alterado pelo/a [Decreto-Lei n.º 46/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), publicado em 2002-03-02.
 
 ###### Artigo 13.º
 

@@ -89,10 +89,6 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6605ff4a-754d-4d10-bc74-9499a44ae68d
   date: '2003-02-11'
-- type: cited_by
-  target: pt:dre:641676:por
-  label: null
-  source: null
 - type: cites
   target: celex:12002E005
   label: null
@@ -123,6 +119,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/01173bb1-02fe-4fd5-bb9e-2d45dedcee8a
   date: '2009-07-13'
+- type: transposed_by
+  target: pt:dre:641676:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0

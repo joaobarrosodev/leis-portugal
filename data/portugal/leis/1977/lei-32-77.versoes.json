@@ -1,0 +1,689 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632220:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "edd1af30a6ca1d9f",
+    "05633d94ca452274",
+    "0a8ca29c74b354db",
+    "123a7ed5c6b04751",
+    "1cdf6a46c62c5def",
+    "5ac39291fc512167",
+    "b56ddb5b32588a22",
+    "989d157a5e7bef48",
+    "58cb515a52774c61",
+    "50d1cac54bad8093",
+    "a49c960129a1e805",
+    "84b98b0ab6fe38d1",
+    "4e561f1daca59a3c",
+    "e3aba9d28618c9b6",
+    "56627f3546895d92",
+    "14d9ce4f597c2878",
+    "6f942fbbb78fcd6b",
+    "0a41b7df80cce927",
+    "9818feae9d55a773",
+    "2590d461a503f75f",
+    "c2547b8165947e8e",
+    "90b952848283c603",
+    "92ff38115cd3e4da",
+    "47af29e9e9fc38ac",
+    "e406251df3b6e230",
+    "bec428048ce7590b",
+    "6ef3310a17688f28",
+    "912f6bad00f28bff",
+    "58f3d853deb4ff25",
+    "e981478b727e7482",
+    "0736aecf44533a18",
+    "851665ec446758a1",
+    "933568c4e3809478",
+    "103474b43139135c",
+    "630dc77f80e1d6f7",
+    "3c0eab7753b00ca8",
+    "589c9492b5a5f1f7",
+    "b70b7b10b264988f"
+   ]
+  },
+  {
+   "date": "1983-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:331849:por",
+     "title": "Lei n.º 86/77",
+     "published": "1977-12-28",
+     "dre_path": "/dr/detalhe/lei/86-1977-331849"
+    },
+    {
+     "id": "pt:dre:370777:por",
+     "title": "Lei n.º 27/79",
+     "published": "1979-09-05",
+     "dre_path": "/dr/detalhe/lei/27-1979-370777"
+    },
+    {
+     "id": "pt:dre:454305:por",
+     "title": "Lei n.º 5/83",
+     "published": "1983-07-27",
+     "dre_path": "/dr/detalhe/lei/5-1983-454305"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "edd1af30a6ca1d9f",
+    "05633d94ca452274",
+    "4cb11498e6a20d7b",
+    "2f33e1684622b170",
+    "1cdf6a46c62c5def",
+    "ed4823113eba02af",
+    "85221e2ae5092006",
+    "a20ff6cf729c136e",
+    "18c9b159fdde4a6e",
+    "80d0f587b37dffbd",
+    "7a983e9f39f819ac",
+    "84b98b0ab6fe38d1",
+    "ba70ff1740a34ddb",
+    "bd34d23f879b53ee",
+    "56627f3546895d92",
+    "16b61d53f9ae59ed",
+    "5a310811cb013ff1",
+    "3c9a50eda9a0e8fc",
+    "3da7b88ee9efc730",
+    "2590d461a503f75f",
+    "ef42be95c4479373",
+    "90b952848283c603",
+    "79e60953a443dd33",
+    "47af29e9e9fc38ac",
+    "7e3fba1962a867e0",
+    "08d10e2222bfa0a3",
+    "c49194cabfae0702",
+    "812760f14d61edad",
+    "4650306344bf63ce",
+    "01f6b09df71bbd46",
+    "724b1d162691d939",
+    "2ce2e9723c0d0494",
+    "17c4f8c9d2b6a16a",
+    "103474b43139135c",
+    "c7ce53e3268640ec",
+    "3f055fc92b8df7db",
+    "0b74a91be587b868",
+    "09334322a33777bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "edd1af30a6ca1d9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Maio\n\nA Assembleia da República decreta, nos termos dos artigos 183.º, n.º 3, e 184.º da Constituição, o seguinte:"
+  },
+  "05633d94ca452274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Sede e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Sede e segurança"
+  },
+  "0a8ca29c74b354db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — Sede da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — Sede da Assembleia\n\n1. A Assembleia da República, como Órgão de Soberania, disporá de instalações privativas, em que se incluem o património conhecido por Palácio de S. Bento, respectivas dependências e recheio, sem prejuízo do regime de património nacional.\n\n2. A Assembleia da República poderá ainda tomar de arrendamento ou requisitar ao departamento competente da Administração Pública as instalações que se revelem indispensáveis ao funcionamento dos seus serviços."
+  },
+  "123a7ed5c6b04751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — Segurança\n\n1. As instalações da Assembleia da República, ou em que se encontrem serviços administrativos ou técnicos dependentes, devem dispor de um dispositivo de segurança autónomo, a assegurar pela GNR e PSP de forma permanente.\n\n2. O Presidente da Assembleia da República poderá requisitar e definir em regulamento, após parecer favorável do conselho administrativo, as condições de permanência e actuação das referidas forças militarizadas.\n\n3. As forças militarizadas integram-se na secção de segurança prevista na presente Lei."
+  },
+  "1cdf6a46c62c5def": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços da Assembleia da República"
+  },
+  "5ac39291fc512167": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — Serviços da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — Serviços da Assembleia\n\n1. A Assembleia da República disporá, para funcionarem sob a superintendência do respectivo Presidente e nos termos da presente Lei, de serviços técnicos e administrativos próprios, conforme o organograma anexo.\n\n2. Para o desempenho das funções previstas no número anterior, o Presidente da Assembleia da República ouvirá o conselho administrativo e disporá ainda do apoio do seu gabinete.\n\n3. Os serviços da Assembleia da República acham-se integrados por duas direcções-gerais, designadas, respectivamente, por Direcção-Geral de Serviços Parlamentares e Direcção-Geral de Serviços Técnicos.\n\n4. Em matéria administrativa cabe recurso para o Supremo Tribunal Administrativo das decisões do Presidente da Assembleia da República."
+  },
+  "b56ddb5b32588a22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — Conselho administrativo\n\n1. O conselho administrativo é composto pelos vice-presidentes da Assembleia da República, em representação dos respectivos grupos parlamentares, pelo secretário-geral da Assembleia da República e por dois representantes dos trabalhadores, eleitos, em plenário expressamente convocado para o efeito, por voto directo e secreto e pelo período da sessão legislativa.\n\n2. São atribuições específicas e privativas do conselho administrativo a gestão financeira corrente da Assembleia da República e a elaboração do orçamento próprio e respectivo relatório e contas a serem submetidos à apreciação do Plenário da Assembleia da República.\n\n3. O conselho administrativo será sempre ouvido em matéria de gestão financeira e de pessoal e o seu parecer favorável precederá as decisões do Presidente da Assembleia da República, nos termos da presente Lei.\n\n4. A presidência do conselho administrativo será assumida trimestralmente, em alternância, pelos representantes dos grupos parlamentares e de acordo com a ordem dos resultados eleitorais.\n\n5. O chefe da Divisão dos Serviços Financeiros desempenha as funções de secretário do conselho administrativo, sem direito a voto."
+  },
+  "989d157a5e7bef48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — Secretário-geral da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — Secretário-geral da Assembleia da República\n\n1. O secretário-geral da Assembleia da República coordena e superintende as Direcções-Gerais de Serviços Parlamentares e de Serviços Técnicos, submetendo a despacho do Presidente da Assembleia da República todos os assuntos que careçam de resolução superior.\n\n2. O Museu da Assembleia da República, a secção de segurança e a secção de reprografia e microfilmagem ficam na dependência directa do secretário-geral da Assembleia da República."
+  },
+  "58cb515a52774c61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — Direcção-Geral de Serviços Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — Direcção-Geral de Serviços Parlamentares\n\n1. A Direcção-Geral de Serviços Parlamentares compreende:\n\na) Direcção de Serviços Administrativos e Financeiros;\n\nb) Direcção de Serviços de Apoio Parlamentar.\n\n2. A Direcção de Serviços Administrativos e Financeiros compreenderá a Divisão dos Serviços Administrativos, em cuja dependência existirão as secções de arquivo e expediente geral e de pessoal, e a Divisão dos Serviços Financeiros, em cuja dependência existirão as secções de contabilidade, de tesouraria e de economato e manutenção.\n\n3. A Direcção de Serviços de Apoio Parlamentar compreenderá a Divisão de Redacção, que integra o corpo de redactores, e a Divisão de Apoio Parlamentar, em cuja dependência existirão a secção de apoio às comissões e a secção de apoio ao Plenário."
+  },
+  "50d1cac54bad8093": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — Direcção-Geral de Serviços Técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — Direcção-Geral de Serviços Técnicos\n\n1. A Direcção-Geral de Serviços Técnicos compreende:\n\na) Direcção de Serviços de Documentação e Informação Bibliográfica;\n\nb) Divisão de Edições;\n\nc) Divisão de Relações Públicas e Apoio às Missões Internacionais.\n\n2. A Direcção de Serviços de Documentação e Informação Bibliográfica compreenderá a Divisão de Documentação, a Biblioteca e o Arquivo Histórico-Parlamentar.\n\n3. A Divisão de Relações Públicas e Apoio às Missões Internacionais compreenderá a secção de relações públicas e a secção de apoio às missões internacionais."
+  },
+  "a49c960129a1e805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — Organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — Organização interna dos serviços\n\n1. A organização interna das direcções de serviços, divisões e secções dependerá de despacho do Presidente da Assembleia da República, nos termos do número seguinte.\n\n2. As condições de funcionamento dos serviços serão definidas em regulamento próprio aprovado por despacho do Presidente, com parecer favorável do conselho administrativo e sob proposta do secretário-geral da Assembleia da República."
+  },
+  "84b98b0ab6fe38d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgão de consulta e apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgão de consulta e apoio"
+  },
+  "4e561f1daca59a3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — Auditor Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — Auditor Jurídico\n\n1. Na dependência directa da Mesa existirá um auditor jurídico.\n\n2. A nomeação do auditor jurídico, em regime de comissão de serviço por tempo indeterminado, compete ao Presidente da Assembleia da República, sob proposta do Conselho Superior da Magistratura, que para o efeito apresentará uma lista de três nomes."
+  },
+  "e3aba9d28618c9b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — Gabinete do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — Gabinete do Presidente\n\n1. Junto do Presidente da Assembleia da República funcionará um gabinete coordenado por um chefe de gabinete e dispondo de dois adjuntos e de dois secretários.\n\n2. O pessoal do gabinete é de livre escolha e nomeação do Presidente, cessando funções a qualquer tempo, por decisão deste e, em qualquer caso, no termo da legislatura, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais, designadamente quanto a remunerações."
+  },
+  "56627f3546895d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime financeiro"
+  },
+  "14d9ce4f597c2878": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — Reserva de propriedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — Reserva de propriedades\n\n1. A Assembleia da República é a única e exclusiva proprietária de toda a produção material resultante do seu funcionamento, sem prejuízo dos direitos de autor dos Deputados.\n\n2. É vedado a quaisquer órgãos da Administração Pública, incluindo empresas públicas ou nacionalizadas e entidades privadas, a edição ou comercialização da produção material da Assembleia da República sem prévio e expresso assentimento desta, manifestado nos termos da lei ou através de contrato bastante."
+  },
+  "6f942fbbb78fcd6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — Autonomia administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — Autonomia administrativa e financeira\n\n1. A Assembleia da República dispõe de autonomia administrativa e financeira e património próprio.\n\n2. O orçamento da Assembleia da República será aprovado pelo respectivo Plenário até 15 de Dezembro do ano anterior àquele a que respeitar e será publicado no Diário da Assembleia da República e no Diário da República em anexo ao Orçamento Geral do Estado.\n\n3. As contas da Assembleia da República serão aprovadas pelo Plenário até 31 de Maio do ano seguinte àquele a que disserem respeito e serão publicadas no Diário da Assembleia da República e no Diário da República, com dispensa do parecer do Tribunal de Contas."
+  },
+  "0a41b7df80cce927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — Receitas da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — Receitas da Assembleia da República\n\n1. Constituem receitas próprias da Assembleia da República, além das consignadas no respectivo orçamento, as transferências de saldos de anos findos e o produto das suas edições e publicações ou respectivos direitos de autor.\n\n2. Os saldos positivos, obtido o parecer favorável do conselho administrativo, terão a seguinte distribuição prioritária:\n\na) Até à concorrência de 40% dos saldos, para complemento dos orçamentos seguintes nas rubricas de obras e melhoramentos de instalações sociais;\n\nb) Até à concorrência de 35% dos saldos, para melhoramentos das instalações a que o público tem acesso;\n\nc) Até à concorrência de 25% dos saldos, para reforço da verba de aquisições para a Biblioteca."
+  },
+  "9818feae9d55a773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — Autorizações de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — Autorizações de despesas\n\n1. Os montantes admitidos na competência de autorização para a realização de despesas dos directores-gerais e do secretário-geral, do conselho administrativo, do Presidente e do Plenário da Assembleia da República são, respectivamente, os fixados nas alíneas a), b), c) e d) do artigo 4.º, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.\n\n2. A delegação de competência é admitida desde que formalizada, nos termos da lei, em acto expresso e documento escrito."
+  },
+  "2590d461a503f75f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Apoio aos partidos e grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Apoio aos partidos e grupos parlamentares"
+  },
+  "c2547b8165947e8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — Pessoal de apoio aos Deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — Pessoal de apoio aos Deputados\n\n1. Cada grupo parlamentar disporá de um chefe de gabinete, um adjunto, um secretário e um escriturário-dactilógrafo e ainda, por cada grupo de 30 Deputados eleitos e em funções ou resto igual ou superior a 15, de mais um adjunto e de um secretário.\n\n2. A nomeação do pessoal referido no número anterior cabe à direcção do respectivo grupo parlamentar, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais, designadamente quanto a remuneração."
+  },
+  "90b952848283c603": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Subvenção aos partidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Subvenção aos partidos"
+  },
+  "92ff38115cd3e4da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — Subvenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — Subvenção\n\n1. Será concedida, nos termos dos números seguintes, uma subvenção anual a cada um dos partidos políticos representados na Assembleia da República que a requeiram ao Presidente, até 15 de Janeiro, para a realização dos seus fins próprios, designadamente de natureza parlamentar.\n\n2. A subvenção consistirá numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição de Deputados à Assembleia da República.\n\n3. A subvenção será paga em duodécimos, por conta de uma dotação especial incluída para o efeito no orçamento da Assembleia da República, à ordem do órgão competente de cada partido.\n\n4. Para o ano de 1977 o requerimento referido no n.º 1 será apresentado até quinze dias após a entrada em vigor da presente Lei, determinando a sua apresentação o pagamento dos duodécimos vencidos."
+  },
+  "47af29e9e9fc38ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Regime de pessoal"
+  },
+  "e406251df3b6e230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — Corpo permanente de funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — Corpo permanente de funcionários\n\nA Assembleia da República dispõe de um corpo permanente de funcionários técnicos e administrativos constantes do quadro anexo à presente Lei."
+  },
+  "bec428048ce7590b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — Pessoal com funções de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — Pessoal com funções de chefia\n\n1. O secretário-geral da Assembleia da República será provido em comissão de serviço pelo período da legislatura, cabendo a respectiva nomeação ao Presidente da Assembleia da República, com parecer favorável da Mesa da Assembleia, e permanecerá em exercício até à nomeação de novo secretário-geral da Assembleia da República.\n\n2. Os directores-gerais, os directores de serviços, os chefes de divisão, os adjuntos de chefe de divisão, os chefes de secção e equiparados serão nomeados com observância dos requisitos legais adequados ao desempenho das respectivas funções e escolhidos de preferência entre funcionários já pertencentes ao quadro."
+  },
+  "6ef3310a17688f28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — Primeiro provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — Primeiro provimento\n\n1. O primeiro provimento do pessoal do quadro da Assembleia da República dependerá de proposta do secretário-geral, nomeado nos termos do artigo anterior, obtido prévio parecer de uma comissão, a que presidirá, com voto de qualidade, e que terá como vogais o director-geral da Função Pública e dois representantes dos trabalhadores da Assembleia da República, por estes designados.\n\n2. O primeiro provimento dos lugares criados pela presente Lei será feito com a seguinte ordem de prioridades:\n\na) O pessoal que à data da aprovação da presente Lei preste serviço, a qualquer título, na Assembleia da República;\n\nb) O pessoal que se encontre vinculado à Administração Pública a qualquer título;\n\nc) O pessoal que tenha prestado serviço na Assembleia Constituinte;\n\nd) O pessoal que tenha prestado serviço à ex-Assembleia Nacional e ex-Câmara Corporativa.\n\n3. O pessoal referido no número anterior ingressa no quadro da Assembleia da República, para qualquer das categorias nele previstas, mediante lista ou listas nominativas aprovadas pelo Presidente da Assembleia da República, com parecer favorável do conselho administrativo, independentemente do tempo de serviço prestado em qualquer outra categoria, de concurso e de quaisquer formalidades, sem prejuízo das habilitações literárias legalmente fixadas e salvo o visto do Tribunal de Contas e a publicação no suplemento do Diário da Assembleia da República e no Diário da República.\n\n4. A comissão referida no n.º 1 deste artigo, em casos excepcionais e em parecer devidamente fundamentado, poderá propor a dispensa das exigências de habilitações literárias para o primeiro provimento por trabalhadores que prestem serviço, a qualquer título, na Assembleia da República.\n\n5. Os funcionários consideram-se definitivamente investidos nos referidos lugares a partir da data da publicação no Diário da República dessas listas, com dispensa de quaisquer formalidades.\n\n6. O pessoal integrado na mesma categoria não perde a antiguidade obtida nessa categoria.\n\n7. Aplicar-se-á o regime previsto neste artigo aos primeiros provimentos por lista nominativa que se efectuem no prazo de seis meses a contar da data da entrada em vigor do presente diploma."
+  },
+  "912f6bad00f28bff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — Provimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — Provimentos\n\nFora dos casos previstos no artigo anterior, o provimento dos lugares será feito por nomeação do Presidente da Assembleia da República, com parecer favorável do conselho administrativo e sob proposta do secretário-geral da Assembleia da República, de acordo com os requisitos gerais aplicáveis à função pública."
+  },
+  "58f3d853deb4ff25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — Regime especial de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — Regime especial de trabalho\n\n1. O pessoal ao serviço da Assembleia da República tem regime especial de prestação de trabalho decorrente da natureza e das condições de funcionamento próprias da Assembleia.\n\n2. Este regime poderá compreender, nomeadamente, horário especial de trabalho, prestação de serviço por turnos e remuneração suplementar durante o funcionamento efectivo da Assembleia, ficando sempre ressalvados os direitos fundamentais dos trabalhadores consignados na Constituição e na lei geral.\n\n3. O pessoal auxiliar ao serviço da Assembleia da República terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.\n\n4. O pessoal ao serviço da Assembleia da República, com exclusão do pessoal dirigente, terá direito ao regime de horas extraordinárias que vier a ser autorizado pelo conselho administrativo.\n\n5. Em condições excepcionais de funcionamento do Plenário da Assembleia da República, aos funcionários e agentes indispensáveis será atribuído um subsídio de alimentação e transporte a fixar pelo conselho administrativo.\n\n6. A autorização do pagamento das horas extraordinárias e subsídios especiais acha-se dependente de prévio visto favorável do conselho administrativo."
+  },
+  "e981478b727e7482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — Requisição de técnicos e gestores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — Requisição de técnicos e gestores\n\n1. Em casos devidamente fundamentados, sob proposta das comissões especializadas da Assembleia da República, o secretário-geral procederá à requisição de técnicos e gestores de empresas públicas e nacionalizadas por período não superior a cinco dias.\n\n2. Podem igualmente ser requisitados gestores de empresas do sector privado, nos termos do n.º 1.\n\n3. Os técnicos e gestores requisitados deverão apresentar-se no lugar e no dia que forem designados no despacho da requisição.\n\n4. Os trabalhadores requisitados manterão sempre os direitos anteriormente adquiridos e designadamente os direitos emergentes de contrato ou acordos colectivos de trabalho, bem como outros benefícios sociais.\n\n5. Os requisitados auferirão, sem quaisquer descontos, as remunerações inerentes aos cargos que exerciam nas respectivas empresas, acrescidas das ajudas de custo que vierem a ser fixadas no despacho da requisição."
+  },
+  "0736aecf44533a18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — Requisição ou destacamento de funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — Requisição ou destacamento de funcionários\n\nPodem ser requisitados ou destacados nominalmente, com o acordo prévio do interessado, pelo secretário-geral ou a seu pedido, com parecer favorável do conselho administrativo, funcionários dos quadros gerais de adidos ou dos quadros de departamentos do Estado, incluindo os seus serviços personalizados, para prestarem serviço na Assembleia da República."
+  },
+  "851665ec446758a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — Comissões de estudo e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — Comissões de estudo e prestação de serviços\n\n1. Sob proposta dos presidentes das comissões especializadas da Assembleia da República e parecer favorável do conselho administrativo, poderão ser realizados estudos ou tarefas.\n\n2. A constituição, composição e normas de funcionamento das comissões de estudo e grupos de trabalho serão estabelecidas em despacho do Presidente da Assembleia da República, que igualmente fixará as condições de remuneração dos respectivos membros.\n\n3. As comissões especializadas da Assembleia da República ou o secretário-geral poderão igualmente propor a admissão de pessoal em regime de tarefa, bem como o convite a entidades nacionais ou estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual.\n\n4. A duração, termos e remuneração dos serviços prestados em regime de tarefa, bem como dos estudos, inquéritos e trabalhos de carácter eventual previstos nos números anteriores, serão estabelecidos por despacho do Presidente da Assembleia da República, com parecer favorável do conselho administrativo.\n\n5. As remunerações fixadas nos termos dos números anteriores serão pagas por força da verba global a inscrever para tal fim no orçamento da Assembleia da República."
+  },
+  "933568c4e3809478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — Sujeição ao interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — Sujeição ao interesse público\n\n1. Os funcionários e agentes da Assembleia da República estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da Constituição, da lei e do Regimento, pelos órgãos competentes da Assembleia, e têm o dever de sigilo relativamente aos factos e documentos classificados de que tenham conhecimento no exercício das suas funções e apenas por virtude desse exercício e de que possam resultar prejuízos materiais ou morais para a Assembleia da República.\n\n2. Aplica-se aos trabalhadores referidos no número anterior o Estatuto da Função Pública em tudo o que não contrarie o disposto na presente Lei."
+  },
+  "103474b43139135c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais"
+  },
+  "630dc77f80e1d6f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — Instalações dos CTT e TLP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — Instalações dos CTT e TLP\n\nOs serviços das empresas públicas dos CTT e TLP disporão de instalações próprias no Palácio de S. Bento."
+  },
+  "3c0eab7753b00ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — Acesso do público às instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — Acesso do público às instalações\n\nPor determinação do Presidente da Assembleia da República, obtido parecer favorável do conselho administrativo, serão fixados em regulamento autónomo o horário e as condições de acesso do público às instalações da Assembleia da República, bem como a venda de quaisquer edições ou produções susceptíveis de gerarem receita para esta."
+  },
+  "589c9492b5a5f1f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º — Execução da presente Lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º — Execução da presente Lei\n\n1. As dúvidas surgidas na aplicação da presente Lei serão supridas por despacho interpretativo do Presidente da Assembleia da República, com parecer favorável do conselho administrativo.\n\n2. Os despachos referidos no número anterior, bem como os actos de delegação de competência previstos no artigo 14.º e demais despachos sobre a situação dos trabalhadores da Assembleia da República, serão publicados no suplemento ao Diário da Assembleia da República, sem prejuízo da sua necessária publicação no Diário da República."
+  },
+  "b70b7b10b264988f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º — Revogação\n\n1. É revogado o [Decreto n.º 575/76](https://diariodarepublica.pt/dr/detalhe/decreto/575-1976-430579), de 21 de Julho.\n\n2. O disposto no número anterior não prejudica a situação do pessoal que preste serviço, a qualquer título, na Assembleia da República, que manterá a situação anterior até à sua integração nos quadros criados pela presente Lei.\n\nAprovada em 22 de Abril de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgado em 23 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.\n\nQuadro do pessoal a que se refere o artigo 17.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12101/00010007.pdf)\n\nQuadro do pessoal a que se referem os artigos 10.º e 15.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12101/00010007.pdf)\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes."
+  },
+  "4cb11498e6a20d7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Sede da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sede da Assembleia\n\n1. A Assembleia da República, como Órgão de Soberania, disporá de instalações privativas, em que se incluem o património conhecido por Palácio de S. Bento, respectivas dependências e recheio, sem prejuízo do regime de património nacional.\n\n2. A Assembleia da República poderá ainda tomar de arrendamento ou requisitar ao departamento competente da Administração Pública as instalações que se revelem indispensáveis ao funcionamento dos seus serviços."
+  },
+  "2f33e1684622b170": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Segurança",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+   ],
+   "markdown": "###### Artigo 2.º — Segurança\n\n1. As instalações da Assembleia da República, ou em que se encontrem serviços administrativos ou técnicos dependentes, devem dispor de um dispositivo de segurança autónomo, a assegurar pela GNR e PSP de forma permanente.\n\n2. O Presidente da Assembleia da República poderá requisitar e definir em regulamento, após parecer favorável do conselho administrativo, as condições de permanência e actuação das referidas forças militarizadas.\n\n3 - Ao pessoal da Polícia de Segurança Pública e da Guarda Nacional Republicana que presta serviço na Assembleia da República é atribuída uma gratificação nos termos e com as necessárias adaptações do [Decreto-Lei n.º 305/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1982-397286), de 2 de Agosto.\n\n4 - Os encargos advenientes do número anterior serão suportados pelas dotações adequadas inscritas no orçamento da Assembleia da República.\n\n5 - As forças militarizadas integram-se na secção de segurança prevista na presente Lei.\n\n> Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+  },
+  "ed4823113eba02af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Serviços da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços da Assembleia\n\n1. A Assembleia da República disporá, para funcionarem sob a superintendência do respectivo Presidente e nos termos da presente Lei, de serviços técnicos e administrativos próprios, conforme o organograma anexo.\n\n2. Para o desempenho das funções previstas no número anterior, o Presidente da Assembleia da República ouvirá o conselho administrativo e disporá ainda do apoio do seu gabinete.\n\n3. Os serviços da Assembleia da República acham-se integrados por duas direcções-gerais, designadas, respectivamente, por Direcção-Geral de Serviços Parlamentares e Direcção-Geral de Serviços Técnicos.\n\n4. Em matéria administrativa cabe recurso para o Supremo Tribunal Administrativo das decisões do Presidente da Assembleia da República."
+  },
+  "85221e2ae5092006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho administrativo",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+   ],
+   "markdown": "###### Artigo 4.º — Conselho administrativo\n\n1. O conselho administrativo é composto pelos vice-presidentes da Assembleia da República, em representação dos respectivos grupos parlamentares, pelo secretário-geral da Assembleia da República e por dois representantes dos trabalhadores, eleitos, em plenário expressamente convocado para o efeito, por voto directo e secreto e pelo período da sessão legislativa.\n\n2. São atribuições específicas e privativas do conselho administrativo a gestão financeira corrente da Assembleia da República e a elaboração do orçamento próprio e respectivo relatório e contas a serem submetidos à apreciação do Plenário da Assembleia da República.\n\n3. O conselho administrativo será sempre ouvido em matéria de gestão financeira e de pessoal e o seu parecer favorável precederá as decisões do Presidente da Assembleia da República, nos termos da presente Lei.\n\n4. A presidência do conselho administrativo será assumida trimestralmente, em alternância, pelos representantes dos grupos parlamentares e de acordo com a ordem dos resultados eleitorais.\n\n5. O chefe da Divisão dos Serviços Financeiros desempenha as funções de secretário do conselho administrativo, sem direito a voto.\n\n6 - Os Vice-Presidentes da Assembleia da República poderão fazer-se substituir nas suas faltas ou impedimentos por quem tiver sido designado para o efeito pelos respectivos grupos parlamentares.\n\n> Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+  },
+  "a20ff6cf729c136e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Secretário-geral da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretário-geral da Assembleia da República\n\n1. O secretário-geral da Assembleia da República coordena e superintende as Direcções-Gerais de Serviços Parlamentares e de Serviços Técnicos, submetendo a despacho do Presidente da Assembleia da República todos os assuntos que careçam de resolução superior.\n\n2. O Museu da Assembleia da República, a secção de segurança e a secção de reprografia e microfilmagem ficam na dependência directa do secretário-geral da Assembleia da República."
+  },
+  "18c9b159fdde4a6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção-Geral de Serviços Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção-Geral de Serviços Parlamentares\n\n1. A Direcção-Geral de Serviços Parlamentares compreende:\n\na) Direcção de Serviços Administrativos e Financeiros;\n\nb) Direcção de Serviços de Apoio Parlamentar.\n\n2. A Direcção de Serviços Administrativos e Financeiros compreenderá a Divisão dos Serviços Administrativos, em cuja dependência existirão as secções de arquivo e expediente geral e de pessoal, e a Divisão dos Serviços Financeiros, em cuja dependência existirão as secções de contabilidade, de tesouraria e de economato e manutenção.\n\n3. A Direcção de Serviços de Apoio Parlamentar compreenderá a Divisão de Redacção, que integra o corpo de redactores, e a Divisão de Apoio Parlamentar, em cuja dependência existirão a secção de apoio às comissões e a secção de apoio ao Plenário."
+  },
+  "80d0f587b37dffbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção-Geral de Serviços Técnicos",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 86/77](https://diariodarepublica.pt/dr/detalhe/lei/86-1977-331849), publicado em 1977-12-28."
+   ],
+   "markdown": "###### Artigo 7.º — Direcção-Geral de Serviços Técnicos\n\n1. A Direcção-Geral de Serviços Técnicos compreende:\n\na) Direcção de Serviços de Documentação e Informação Bibliográfica;\n\nb) Direcção de Serviços de Divulgação e Relações Públicas.\n\n2. A Direcção de Serviços de Documentação e Informação Bibliográfica compreenderá a Divisão de Documentação, a Divisão de Edições, a Biblioteca e o Arquivo Histórico Parlamentar.\n\n3. A Direcção de Serviços de Divulgação e Relações Púbicas compreenderá a Divisão de Relações Públicas e de Apoio às Missões Internacionais, em cuja dependência existirão a Secção de Relações Públicas e a Secção de Apoio às Missões Internacionais.\n\n> Alterado pelo/a [Lei n.º 86/77](https://diariodarepublica.pt/dr/detalhe/lei/86-1977-331849), publicado em 1977-12-28."
+  },
+  "7a983e9f39f819ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna dos serviços\n\n1. A organização interna das direcções de serviços, divisões e secções dependerá de despacho do Presidente da Assembleia da República, nos termos do número seguinte.\n\n2. As condições de funcionamento dos serviços serão definidas em regulamento próprio aprovado por despacho do Presidente, com parecer favorável do conselho administrativo e sob proposta do secretário-geral da Assembleia da República."
+  },
+  "ba70ff1740a34ddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Auditor jurídico",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+   ],
+   "markdown": "###### Artigo 9.º — Auditor jurídico\n\n1. Na dependência directa da Mesa existirá um auditor jurídico.\n\n2 - A nomeação do auditor jurídico compete ao Conselho Superior do Ministério Público, com parecer favorável do Presidente da Assembleia da República.\n\n> Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+  },
+  "bd34d23f879b53ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Gabinete do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete do Presidente\n\n1. Junto do Presidente da Assembleia da República funcionará um gabinete coordenado por um chefe de gabinete e dispondo de dois adjuntos e de dois secretários.\n\n2. O pessoal do gabinete é de livre escolha e nomeação do Presidente, cessando funções a qualquer tempo, por decisão deste e, em qualquer caso, no termo da legislatura, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais, designadamente quanto a remunerações."
+  },
+  "16b61d53f9ae59ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Reserva de propriedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reserva de propriedades\n\n1. A Assembleia da República é a única e exclusiva proprietária de toda a produção material resultante do seu funcionamento, sem prejuízo dos direitos de autor dos Deputados.\n\n2. É vedado a quaisquer órgãos da Administração Pública, incluindo empresas públicas ou nacionalizadas e entidades privadas, a edição ou comercialização da produção material da Assembleia da República sem prévio e expresso assentimento desta, manifestado nos termos da lei ou através de contrato bastante."
+  },
+  "5a310811cb013ff1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Autonomia administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autonomia administrativa e financeira\n\n1. A Assembleia da República dispõe de autonomia administrativa e financeira e património próprio.\n\n2. O orçamento da Assembleia da República será aprovado pelo respectivo Plenário até 15 de Dezembro do ano anterior àquele a que respeitar e será publicado no Diário da Assembleia da República e no Diário da República em anexo ao Orçamento Geral do Estado.\n\n3. As contas da Assembleia da República serão aprovadas pelo Plenário até 31 de Maio do ano seguinte àquele a que disserem respeito e serão publicadas no Diário da Assembleia da República e no Diário da República, com dispensa do parecer do Tribunal de Contas."
+  },
+  "3c9a50eda9a0e8fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Receitas da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas da Assembleia da República\n\n1. Constituem receitas próprias da Assembleia da República, além das consignadas no respectivo orçamento, as transferências de saldos de anos findos e o produto das suas edições e publicações ou respectivos direitos de autor.\n\n2. Os saldos positivos, obtido o parecer favorável do conselho administrativo, terão a seguinte distribuição prioritária:\n\na) Até à concorrência de 40% dos saldos, para complemento dos orçamentos seguintes nas rubricas de obras e melhoramentos de instalações sociais;\n\nb) Até à concorrência de 35% dos saldos, para melhoramentos das instalações a que o público tem acesso;\n\nc) Até à concorrência de 25% dos saldos, para reforço da verba de aquisições para a Biblioteca."
+  },
+  "3da7b88ee9efc730": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Autorizações de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autorizações de despesas\n\n1. Os montantes admitidos na competência de autorização para a realização de despesas dos directores-gerais e do secretário-geral, do conselho administrativo, do Presidente e do Plenário da Assembleia da República são, respectivamente, os fixados nas alíneas a), b), c) e d) do artigo 4.º, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.\n\n2. A delegação de competência é admitida desde que formalizada, nos termos da lei, em acto expresso e documento escrito."
+  },
+  "ef42be95c4479373": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pessoal de apoio aos deputados",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+   ],
+   "markdown": "###### Artigo 15.º — Pessoal de apoio aos deputados\n\n1 - Cada grupo parlamentar disporá de 1 chefe de gabinete, 1 adjunto, 1 secretário e 2 escriturários-dactilógrafos e, ainda, por cada grupo de 20 deputados eleitos e em função de resto igual ou superior a 10, de mais 1 adjunto, 1 secretário e 1 escriturário-dactilógrafo.\n\n2 - Os agrupamentos parlamentares constituídos nos termos do Regimento disporão de 1 chefe de gabinete, 1 adjunto, 1 secretário e 1 escriturário-dactilógrafo.\n\n3 - Os partidos não constituídos em grupo parlamentar disporão de 1 adjunto.\n\n4 - A nomeação do pessoal referido nos números anteriores cabe à direcção do respectivo grupo parlamentar, agrupamento parlamentar ou partido, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais, designadamente quanto à remuneração.\n\n> Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+  },
+  "79e60953a443dd33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Subvenção",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+   ],
+   "markdown": "###### Artigo 16.º — Subvenção\n\n1. Será concedida, nos termos dos números seguintes, uma subvenção anual a cada um dos partidos políticos representados na Assembleia da República que a requeiram ao Presidente, até 15 de Janeiro, para a realização dos seus fins próprios, designadamente de natureza parlamentar.\n\n2. A subvenção consistirá numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição de Deputados à Assembleia da República.\n\n3. A subvenção será paga em duodécimos, por conta de uma dotação especial incluída para o efeito no orçamento da Assembleia da República, à ordem do órgão competente de cada partido.\n\n4 - Será também concedida aos agrupamentos parlamentares constituídos, nos termos do Regimento, por deputados que se tenham apresentado ao eleitorado em listas de um determinado partido ou coligação de partidos como independentes, uma subvenção anual, desde que a requeiram ao Presidente, para a realização dos seus fins parlamentares.\n\n5 - A subvenção referida no número anterior sairá da subvenção devida ao partido ou coligação de partidos em cujas listas foram eleitos os deputados que se constituam em agrupamento parlamentar e será igual à parte desta subvenção que proporcionalmente corresponder a 1 deputado daquele partido ou coligação de partidos.\n\n> Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+  },
+  "7e3fba1962a867e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Corpo permanente de funcionários",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+   ],
+   "markdown": "###### Artigo 17.º — Corpo permanente de funcionários\n\n1 - A Assembleia da República dispõe de um corpo permanente de funcionários técnicos e administrativos constantes do quadro anexo à presente Lei.\n\n2 - O quadro de pessoal da Assembleia da República poderá ser alterado, obtido parecer favorável do conselho administrativo, por resolução da Assembleia, a publicar no Diário da República e no Diário da Assembleia da República.\n\n> Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+  },
+  "08d10e2222bfa0a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Pessoal com funções de chefia",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+   ],
+   "markdown": "###### Artigo 18.º — Pessoal com funções de chefia\n\n1. O secretário-geral da Assembleia da República será provido em comissão de serviço pelo período da legislatura, cabendo a respectiva nomeação ao Presidente da Assembleia da República, com parecer favorável da Mesa da Assembleia, e permanecerá em exercício até à nomeação de novo secretário-geral da Assembleia da República.\n\n2. Os directores-gerais, os directores de serviços, os chefes de divisão, os adjuntos de chefe de divisão, os chefes de secção e equiparados serão nomeados com observância dos requisitos legais adequados ao desempenho das respectivas funções e escolhidos de preferência entre funcionários já pertencentes ao quadro.\n\n3 - Os adjuntos de chefe de divisão, que passam a perceber pela letra F do funcionalismo público, podem ainda ser providos, nos termos referidos no número anterior, de entre funcionários já pertencentes ao quadro, com experiência profissional adequada ao exercício das respectivas funções e categoria não inferior à de chefe de secção ou de técnico profissional da letra I ou J com mais de três anos de bom e efectivo serviço.\n\n4 - O redactor principal, que passa a perceber pela letra F do funcionalismo público, é aprovado de entre os redactores de 1.ª classe, já pertencentes ao quadro, com experiência profissional adequada ao exercício das respectivas funções, com mais de três anos de bom e efectivo serviço.\n\n> Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+  },
+  "c49194cabfae0702": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Primeiro provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Primeiro provimento\n\n1. O primeiro provimento do pessoal do quadro da Assembleia da República dependerá de proposta do secretário-geral, nomeado nos termos do artigo anterior, obtido prévio parecer de uma comissão, a que presidirá, com voto de qualidade, e que terá como vogais o director-geral da Função Pública e dois representantes dos trabalhadores da Assembleia da República, por estes designados.\n\n2. O primeiro provimento dos lugares criados pela presente Lei será feito com a seguinte ordem de prioridades:\n\na) O pessoal que à data da aprovação da presente Lei preste serviço, a qualquer título, na Assembleia da República;\n\nb) O pessoal que se encontre vinculado à Administração Pública a qualquer título;\n\nc) O pessoal que tenha prestado serviço na Assembleia Constituinte;\n\nd) O pessoal que tenha prestado serviço à ex-Assembleia Nacional e ex-Câmara Corporativa.\n\n3. O pessoal referido no número anterior ingressa no quadro da Assembleia da República, para qualquer das categorias nele previstas, mediante lista ou listas nominativas aprovadas pelo Presidente da Assembleia da República, com parecer favorável do conselho administrativo, independentemente do tempo de serviço prestado em qualquer outra categoria, de concurso e de quaisquer formalidades, sem prejuízo das habilitações literárias legalmente fixadas e salvo o visto do Tribunal de Contas e a publicação no suplemento do Diário da Assembleia da República e no Diário da República.\n\n4. A comissão referida no n.º 1 deste artigo, em casos excepcionais e em parecer devidamente fundamentado, poderá propor a dispensa das exigências de habilitações literárias para o primeiro provimento por trabalhadores que prestem serviço, a qualquer título, na Assembleia da República.\n\n5. Os funcionários consideram-se definitivamente investidos nos referidos lugares a partir da data da publicação no Diário da República dessas listas, com dispensa de quaisquer formalidades.\n\n6. O pessoal integrado na mesma categoria não perde a antiguidade obtida nessa categoria.\n\n7. Aplicar-se-á o regime previsto neste artigo aos primeiros provimentos por lista nominativa que se efectuem no prazo de seis meses a contar da data da entrada em vigor do presente diploma."
+  },
+  "812760f14d61edad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Provimentos",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+   ],
+   "markdown": "###### Artigo 20.º — Provimentos\n\n1 - Fora dos casos previstos no artigo anterior, o provimento dos lugares será feito por nomeação do Presidente da Assembleia da República, com parecer favorável do conselho administrativo e sob proposta do secretário-geral da Assembleia da República, de acordo com os requisitos gerais aplicáveis à função pública.\n\n2 - As normas de provimento de pessoal constarão de regulamento próprio, a elaborar pelo conselho administrativo, que será homologado, em despacho normativo, pelo Presidente da Assembleia da República, no prazo de trinta dias a contar da data de aprovação do regulamento no conselho administrativo.\n\n3 - O regulamento será publicado no Diário da República e no Diário da Assembleia da República.\n\n> Alterado pelo/a [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), publicado em 1979-09-05."
+  },
+  "4650306344bf63ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Regime especial de trabalho",
+   "in_force_from": "1983-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+   ],
+   "markdown": "###### Artigo 21.º — Regime especial de trabalho\n\n1 - O pessoal ao serviço da Assembleia da República, incluindo o previsto nos artigos 10.º e 15.º, tem regime especial de prestação de trabalho decorrente da natureza e das condições de funcionamento próprias da Assembleia.\n\n2. Este regime poderá compreender, nomeadamente, horário especial de trabalho, prestação de serviço por turnos e remuneração suplementar durante o funcionamento efectivo da Assembleia, ficando sempre ressalvados os direitos fundamentais dos trabalhadores consignados na Constituição e na lei geral.\n\n3. O pessoal auxiliar ao serviço da Assembleia da República terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.\n\n4. O pessoal ao serviço da Assembleia da República, com exclusão do pessoal dirigente, terá direito ao regime de horas extraordinárias que vier a ser autorizado pelo conselho administrativo.\n\n5. Em condições excepcionais de funcionamento do Plenário da Assembleia da República, aos funcionários e agentes indispensáveis será atribuído um subsídio de alimentação e transporte a fixar pelo conselho administrativo.\n\n6. A autorização do pagamento das horas extraordinárias e subsídios especiais acha-se dependente de prévio visto favorável do conselho administrativo.\n\n> Alterado pelo/a [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), publicado em 1983-07-27."
+  },
+  "01f6b09df71bbd46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Requisição de técnicos e gestores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Requisição de técnicos e gestores\n\n1. Em casos devidamente fundamentados, sob proposta das comissões especializadas da Assembleia da República, o secretário-geral procederá à requisição de técnicos e gestores de empresas públicas e nacionalizadas por período não superior a cinco dias.\n\n2. Podem igualmente ser requisitados gestores de empresas do sector privado, nos termos do n.º 1.\n\n3. Os técnicos e gestores requisitados deverão apresentar-se no lugar e no dia que forem designados no despacho da requisição.\n\n4. Os trabalhadores requisitados manterão sempre os direitos anteriormente adquiridos e designadamente os direitos emergentes de contrato ou acordos colectivos de trabalho, bem como outros benefícios sociais.\n\n5. Os requisitados auferirão, sem quaisquer descontos, as remunerações inerentes aos cargos que exerciam nas respectivas empresas, acrescidas das ajudas de custo que vierem a ser fixadas no despacho da requisição."
+  },
+  "724b1d162691d939": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Requisição ou destacamento de funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requisição ou destacamento de funcionários\n\nPodem ser requisitados ou destacados nominalmente, com o acordo prévio do interessado, pelo secretário-geral ou a seu pedido, com parecer favorável do conselho administrativo, funcionários dos quadros gerais de adidos ou dos quadros de departamentos do Estado, incluindo os seus serviços personalizados, para prestarem serviço na Assembleia da República."
+  },
+  "2ce2e9723c0d0494": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Comissões de estudo e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comissões de estudo e prestação de serviços\n\n1. Sob proposta dos presidentes das comissões especializadas da Assembleia da República e parecer favorável do conselho administrativo, poderão ser realizados estudos ou tarefas.\n\n2. A constituição, composição e normas de funcionamento das comissões de estudo e grupos de trabalho serão estabelecidas em despacho do Presidente da Assembleia da República, que igualmente fixará as condições de remuneração dos respectivos membros.\n\n3. As comissões especializadas da Assembleia da República ou o secretário-geral poderão igualmente propor a admissão de pessoal em regime de tarefa, bem como o convite a entidades nacionais ou estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual.\n\n4. A duração, termos e remuneração dos serviços prestados em regime de tarefa, bem como dos estudos, inquéritos e trabalhos de carácter eventual previstos nos números anteriores, serão estabelecidos por despacho do Presidente da Assembleia da República, com parecer favorável do conselho administrativo.\n\n5. As remunerações fixadas nos termos dos números anteriores serão pagas por força da verba global a inscrever para tal fim no orçamento da Assembleia da República."
+  },
+  "17c4f8c9d2b6a16a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Sujeição ao interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sujeição ao interesse público\n\n1. Os funcionários e agentes da Assembleia da República estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da Constituição, da lei e do Regimento, pelos órgãos competentes da Assembleia, e têm o dever de sigilo relativamente aos factos e documentos classificados de que tenham conhecimento no exercício das suas funções e apenas por virtude desse exercício e de que possam resultar prejuízos materiais ou morais para a Assembleia da República.\n\n2. Aplica-se aos trabalhadores referidos no número anterior o Estatuto da Função Pública em tudo o que não contrarie o disposto na presente Lei."
+  },
+  "c7ce53e3268640ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Instalações dos CTT e TLP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instalações dos CTT e TLP\n\nOs serviços das empresas públicas dos CTT e TLP disporão de instalações próprias no Palácio de S. Bento."
+  },
+  "3f055fc92b8df7db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Acesso do público às instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acesso do público às instalações\n\nPor determinação do Presidente da Assembleia da República, obtido parecer favorável do conselho administrativo, serão fixados em regulamento autónomo o horário e as condições de acesso do público às instalações da Assembleia da República, bem como a venda de quaisquer edições ou produções susceptíveis de gerarem receita para esta."
+  },
+  "0b74a91be587b868": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Execução da presente Lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Execução da presente Lei\n\n1. As dúvidas surgidas na aplicação da presente Lei serão supridas por despacho interpretativo do Presidente da Assembleia da República, com parecer favorável do conselho administrativo.\n\n2. Os despachos referidos no número anterior, bem como os actos de delegação de competência previstos no artigo 14.º e demais despachos sobre a situação dos trabalhadores da Assembleia da República, serão publicados no suplemento ao Diário da Assembleia da República, sem prejuízo da sua necessária publicação no Diário da República."
+  },
+  "09334322a33777bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\n1. É revogado o [Decreto n.º 575/76](https://diariodarepublica.pt/dr/detalhe/decreto/575-1976-430579), de 21 de Julho.\n\n2. O disposto no número anterior não prejudica a situação do pessoal que preste serviço, a qualquer título, na Assembleia da República, que manterá a situação anterior até à sua integração nos quadros criados pela presente Lei.\n\nAprovada em 22 de Abril de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgado em 23 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.\n\nQuadro do pessoal a que se refere o artigo 17.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12101/00010007.pdf)\n\nQuadro do pessoal a que se referem os artigos 10.º e 15.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12101/00010007.pdf)\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes."
+  }
+ }
+}

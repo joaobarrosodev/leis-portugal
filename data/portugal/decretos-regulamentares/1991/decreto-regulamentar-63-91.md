@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-29'
+version_history:
+  file: decreto-regulamentar-63-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-29'
+    amending: pt:dre:581254:por
+    amending_title: Declaração de Rectificação n.º 8/92
+    changes:
+    - Retifica Artigo 3.º
+    - Retifica Artigo 5.º
+    - Retifica Artigo 6.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/63/1991/11/29/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:19:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 8/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1991/decreto-regulamentar-63-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,27 +156,31 @@ d) Declaração do autor do projecto quanto ao cumprimento das disposições leg
 
 No caso de a área a lotear estar abrangida por plano de urbanização, o requerimento é instruído com os seguintes elementos:
 
-a) Os referidos nas alíneas a), b) e e) do artigo anterior;
+a) Os referidos nas alíneas a), b) e d) do artigo anterior;
 
 b) Extracto de plano de urbanização, assinalando a área a lotear;
 
 c) Planta de síntese, à escala de 1:1000 ou superior, indicando, nomeadamente, a topografia actual e a modelação proposta para o terreno, a estrutura viária, as redes de abastecimento de água, de saneamento, de energia eléctrica, de gás e de condutas destinadas à instalação de infra-estruturas de telecomunicações, a divisão em lotes e sua numeração, o polígono de base para a implantação dos edifícios, devidamente cotado e referenciado, com indicação das cérceas e do número de pisos acima e abaixo da cota de soleira, e a localização dos equipamentos e das áreas que lhes são destinadas, bem como das reservas para espaços verdes e de utilização colectiva.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29.
+
 ###### Artigo 4.º — Área abrangida por plano director municipal
 
 No caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:
 
-a) Os referidos nas alíneas a), b) e e) do artigo 2.º e na alínea c) do artigo 3.º;
+a) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;
 
 b) Extracto do plano director municipal, assinalando a área a lotear;
 
 c) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.
 
+> Alterado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29.
+
 ###### Artigo 5.º — Área não abrangida por plano municipal de ordenamento do território
 
 No caso de a área a lotear não estar abrangida por nenhum dos instrumentos de planeamento referidos nos artigos anteriores, o requerimento é instruído com os seguintes elementos:
 
-a) Os referidos nas alíneas a), b) e e) do artigo 2.º e na alínea c) do artigo 3.º;
+a) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;
 
 b) Planta de localização à escala 1:25000, indicando o local da situação do terreno a lotear;
 
@@ -170,13 +192,15 @@ e) Planta da situação existente, à escala 1:1000 ou superior, correspondente 
 
 f) Justificação da adequabilidade da proposta com particular incidência sobre a relação das tendências dominantes em termos de transformação do uso do solo e dos ritmos de crescimento nos lugares centrais envolventes.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29.
+
 ###### Artigo 6.º — Memória justificativa
 
 A memória referida na alínea b) do artigo 2.º deve descrever e justificar a solução proposta para a operação de loteamento, com referência específica ao enquadramento em planos existentes e, ainda, aos seguintes elementos:
 
 a) Superfície total do terreno a lotear;
 
-b) Área dos lotes e áreas destinada à implantação dos edifícios;
+b) Área dos lotes e área destinada à implantação dos edifícios;
 
 c) Área de construção e volumetria dos edifícios com indicação dos índices urbanísticos adoptados, nomeadamente a distribuição percentual das diferentes ocupações propostas para o solo, os índices de implantação e de construção e a densidade populacional, quando for o caso;
 
@@ -197,6 +221,8 @@ j) Solução adoptada para o funcionamento das redes de abastecimento de água, 
 l) Estrutura viária adoptada, especificando as áreas destinadas às vias, acessos e estacionamentos de veículos, incluindo as previstas em cave, quando for o caso;
 
 m) Identificação do técnico responsável.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 8/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1992-581254), publicado em 1992-02-29.
 
 ###### Artigo 7.º — Definições
 
