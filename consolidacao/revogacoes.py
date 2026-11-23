@@ -460,6 +460,20 @@ def estado() -> None:
                 linha = base | {"estado": "sem resposta"}
             linhas.append(linha)
             contas[linha["estado"]] += 1
+    # os pares já aplicados saem dos candidatos (o diploma que revoga passa a estar nas versões): vêm de APLICADOS
+    vistos = {(l["id"], l["alterador"]) for l in linhas}
+    if APLICADOS.exists():
+        for l in APLICADOS.read_text(encoding="utf-8").splitlines():
+            if not l.strip():
+                continue
+            d = json.loads(l)
+            for a in d["alteradores"]:
+                if (d["id"], a["alterador"]) in vistos:
+                    continue
+                artigos = sorted({f.get("artigo") or "fora do articulado" for f in a.get("trocas", [])})
+                linhas.append({"id": d["id"], "titulo": d["titulo"], "alterador": a["alterador"], "alterador_titulo": a["titulo"],
+                               "estado": "aplicado", "artigos": artigos, "efeitos": a.get("em_vigor"), "por_aplicar": a.get("nao_aplicadas", [])})
+                contas["aplicado"] += 1
     ESTADO.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
     print(dict(contas), "| por ver:", contas.get("sem resposta", 0))
 
