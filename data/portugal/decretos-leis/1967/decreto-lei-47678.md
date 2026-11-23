@@ -26,7 +26,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Código do Registo Civil de 1967, substituído pelo novo Código do Registo Civil do Decreto-Lei n.º 51/78 (em vigor
+    a 1978-04-01, art. 3.º), que regula toda a matéria (art. 7.º, n.º 2, do Código Civil); o de 1978 foi depois revogado pelo
+    Decreto-Lei n.º 131/95, que aprova o código em vigor. O DRE dá o Decreto-Lei n.º 47678 como em vigor, sem relação de revogação.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:456873:por'
+    detail: É aprovado o novo Código do Registo Civil, que faz parte integrante deste diploma e segue assinado pelo Ministro
+      da Justiça.
 notes: []
 language: por
 version:
@@ -187,6 +198,13 @@ relationships:
   label: "Rectificado pela RECT.DD545.19.07.1967.PC, DG.IS [167] de 19.07.1967\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-314399
   date: '1967-07-19'
+- type: repealed_by
+  target: pt:dre:456873:por
+  label: Código do Registo Civil de 1967, substituído pelo novo Código do Registo Civil do Decreto-Lei n.º 51/78 (em vigor
+    a 1978-04-01, art. 3.º), que regula toda a matéria (art. 7.º, n.º 2, do Código Civil); o de 1978 foi depois revogado pelo
+    Decreto-Lei n.º 131/95, que aprova o código em vigor. O DRE dá o Decreto-Lei n.º 47678 como em vigor, sem relação de revogação.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1978-04-01'
 article_structure:
   article_count: 449
   section_count: 89

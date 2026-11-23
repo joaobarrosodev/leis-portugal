@@ -26,10 +26,10 @@ publication:
 entry_into_force_dates:
 - '1987-01-01'
 entry_into_force:
-  date: '1987-01-01'
-  rule: no dia 1 de Janeiro de 1987
-  method: clausula
-  article: art-94
+  date: '1986-10-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null

@@ -25,7 +25,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07200/0185201858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: in_force
+legal_status_basis:
+  source: sem_revogacao_conhecida
+  inferred: true
+  dre_status: unknown
+  rule: Diploma legislativo da 1.ª Série publicado de 2014 em diante, com texto, sem revogação conhecida (nenhuma relação
+    «revogado por» no DRE e nenhuma norma revogatória lida no acervo), sem vigência limitada no sumário ou no texto e com
+    a data de entrada em vigor, quando conhecida, já passada.
+  evidence: []
 notes: []
 language: por
 version:
