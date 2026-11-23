@@ -1,0 +1,113 @@
+[
+ {
+  "id": "pt:dre:193229:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "§ 3.º com a nova redação do DL 46746, letra a letra; corpo e §§ 1.º e 2.º iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 12.º pelo art. 2.º do DL 47114 (corpo e § único), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 13.º pelo art. 2.º do DL 46290 (inclui «navais»), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Substituído pelo art. 1.º do DL 46815, com a correção da Declaração («honorários clínicos»), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550; corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550; corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550 (que também revoga o art. 1.º do DL 46290, que lhe aditara os n.os 9.º e 10.º); a alteração do n.º 7.º, al. a), do DL 46290 fica prejudicada pela revogação posterior; corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 43.º pelo art. 2.º do DL 46290, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46290, art. 3.º: alteração das gratificações das tabelas n.os 10 e 11",
+    "motivo": "tabelas do original só em imagem, sem título de anexo onde pôr a alteração"
+   },
+   {
+    "instrucao": "DL 46815, art. 2.º: substituição da tabela n.º 17 por nova tabela em imagem",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado; entretanto substituída de novo pelo DL 47795"
+   },
+   {
+    "instrucao": "DL 47114, art. 1.º: vencimentos de Cabo Verde passam a ser os das tabelas da Guiné e S. Tomé",
+    "motivo": "não é textual: não dá nova redação a artigo nem a tabela"
+   },
+   {
+    "instrucao": "DL 47501, artigo único e § único: gratificação de «comando» e aditamento às tabelas n.os 10 e 13",
+    "motivo": "norma autónoma; o aditamento às tabelas visa tabelas só em imagem sem anexo com título"
+   },
+   {
+    "instrucao": "DL 47550, arts. 1.º a 17.º: novo regime de abono de vencimentos",
+    "motivo": "não é textual: normas autónomas que não dão redação a artigos do original (a revogação dos arts. 17.º a 19.º, art. 18.º, foi aplicada)"
+   },
+   {
+    "instrucao": "DL 47756, artigo único: aditamento de quantitativos à tabela n.º 7",
+    "motivo": "a tabela n.º 7 só existe em imagem, sem anexo com título onde acrescentar as linhas"
+   },
+   {
+    "instrucao": "DL 47795, artigo único: substituição da tabela n.º 17 (nova tabela em imagem)",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 48793, art. 1.º: inclusão de gratificação na tabela n.º 10 (Macau)",
+    "motivo": "tabela só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 266/70, art. 1.º: substituição das tabelas n.os 1 a 9 por tabelas em imagem",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 133/72, art. 2.º: gratificação de pisteiro de combate aditada às tabelas n.os 10 a 16",
+    "motivo": "tabelas só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 228/72, art. 1.º: inclusão de gratificação na tabela n.º 10 (Timor)",
+    "motivo": "tabela só em imagem, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 233/74, art. 1.º (prés em imagem), art. 2.º n.º 2 (reajustamento da tabela n.º 8) e art. 3.º (abolição da classificação 1.ª e 2.ª)",
+    "motivo": "não é textual: não dá nova redação à tabela nem aos artigos do original; art. 1.º só em imagem"
+   },
+   {
+    "instrucao": "DL 46290, art. 1.º (n.os 9.º e 10.º do art. 19.º) e art. 2.º (art. 19.º, n.º 7.º, al. a))",
+    "motivo": "efeito prejudicado: o art. 19.º foi revogado pelo art. 18.º do DL 47550, aplicado"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (as tabelas em imagem não foram tocadas; não visíveis na vista)"
+ }
+]

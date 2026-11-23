@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2004-04-09'
     amending: pt:dre:218759:por
-    amending_title: Portaria n.º 365/2004
+    amending_title: Portaria n.º 365/2004; Decreto-Lei n.º 74/2004
     changes:
     - Altera Artigo unidades 58-58
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/302/2003/04/12/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 365/2004. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-302-2003.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-302-2003.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 74/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,57 +228,15 @@ Manda o Governo, pelos Ministros da Educação e da Ciência e do Ensino Superio
 
 2.5 - As matrículas resultantes de declarações falsas ou incompletas são inválidas e, como tal, passíveis de anulação ou de declaração de nulidade.
 
-3 - O itinerário individual de formação rege-se pelo n.º 3 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, conjugado com o disposto na [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, devendo, nos termos dessas estatuições, respeitar-se, para além do mais, o seguinte:
+3 - (Revogado.)
 
-3.1 - Formalização do itinerário individual:
+> Revogado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26, com efeitos a partir de 2004-03-31.
 
-3.1.1 - O itinerário individual deve ser impreterivelmente elaborado antes do acto de efectivação ou de renovação da matrícula, dele devendo constar a identificação, situação pessoal e profissional do aluno, seu percurso escolar anterior e respectivos interesses e expectativas, bem como o plano de estudos e regime de frequência;
-
-3.1.2 - O itinerário individual deve ser impreterivelmente actualizado sempre que se verifiquem alterações pertinentes no percurso escolar do aluno, devidamente comprovadas.
-
-3.2 - Plano de estudos:
-
-3.2.1 - O número de disciplinas e das respectivas unidades a capitalizar deve obedecer ao definido nos planos de estudos aprovados para os diferentes cursos, à excepção do disposto nos números seguintes;
-
-3.2.2 - O número de unidades a capitalizar pelos alunos que já tenham frequentado o ensino secundário regular decorre, nos termos da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, da aplicação obrigatória do processo de equivalências, para as disciplinas constantes da tabela em cada momento anexa à mesma portaria;
-
-3.2.3 - Relativamente a disciplinas certificadas no ensino regular, mas não contempladas na tabela de equivalências referida no número anterior (em especial, disciplinas específicas dos cursos complementares técnicos diurnos e nocturnos, disciplinas da formação vocacional, técnico-profissional, técnica, tecnológica e artística), o aluno pode optar pela capitalização de todas as unidades ou pelo reconhecimento de equivalências, quer por análise curricular simples, quer através da realização de teste diagnóstico de posicionamento, nos termos do n.º 3.º, n.os 1 e 2, da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril;
-
-3.2.4 - Na disciplina Área Interdisciplinar não há lugar a qualquer dos mecanismos de equivalência referidos nos números anteriores, sendo, por isso, obrigatória a capitalização de todas as unidades;
-
-3.2.5 - A aplicação no ensino secundário recorrente das equivalências atribuídas a habilitações estrangeiras será objecto de regulamentação própria;
-
-3.2.6 - O incumprimento dos planos de estudos constitui causa de nulidade do curso do ensino secundário recorrente, invocável a todo o tempo, sem prejuízo do n.º 3 do artigo 134.º do Código do Procedimento Administrativo.
-
-3.3 - Regime de frequência:
-
-3.3.1 - No acto de formalização do itinerário individual de formação, o aluno deve optar, para cada uma das disciplinas em que se inscreve, por uma das modalidades de frequência, em regime presencial ou em regime não presencial;
-
-3.3.2 - A cada modalidade de frequência corresponde um regime específico, designadamente quanto à assiduidade, apoio e avaliação, regulados nos n.os 4, 5, 7 e 8 do capítulo III do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho;
-
-3.3.3 - A alteração da modalidade de frequência e, consequentemente, do regime de frequência, só pode ter lugar mediante a ocorrência de circunstâncias relevantes, devidamente comprovadas, implicando essa alteração a reformulação do respectivo itinerário individual de formação.
-
-4 - A avaliação rege-se pelas disposições comuns e disposições específicas, consoante o regime de frequência, fixadas nos n.os 6, 7 e 8 do capítulo III do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, e pelos n.os 4.º, 5.º, 6.º e 7.º da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, com as seguintes alterações:
-
-4.1 - A classificação final de cada disciplina é resultante da média aritmética, arredondada às unidades, das classificações obtidas em todas as unidades constantes do respectivo plano curricular, com as seguintes excepções:
-
-4.1.1 - Sempre que haja lugar a equivalência à totalidade das unidades da disciplina, a classificação final é a resultante do processo de equivalência, de acordo com o disposto na [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril; quando a equivalência a uma disciplina do ensino secundário recorrente decorrer da conclusão de duas disciplinas do ensino regular, a classificação daquela resulta da média aritmética das classificações finais destas duas disciplinas;
-
-4.1.2 - Quando ocorrer a equivalência apenas a algumas das unidades da disciplina, a sua classificação final corresponde à média aritmética da classificação resultante do processo de equivalência com as classificações finais de cada uma das outras unidades capitalizadas;
-
-4.1.3 - Sempre que, no regime de frequência não presencial, as provas de avaliação abranjam mais de uma unidade, o cálculo da classificação final da disciplina resulta da média das classificações obtidas nas provas realizadas.
-
-4.2 - Os instrumentos de avaliação a adoptar em todas as disciplinas podem revestir alguma das seguintes três formas: 1) de trabalho ou prova prática; 2) de trabalho ou prova escrita; 3) de trabalho ou prova escrita e prova oral, no caso das línguas.
-
-4.3 - A classificação final de cada unidade, calculada de acordo com o estabelecido, para as diferentes disciplinas, no anexo I a que se refere o n.º 6.1 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, é sempre arredondada às unidades; sempre que seja utilizado mais de um instrumento de avaliação, a classificação final de cada unidade resulta da média aritmética das classificações obtidas, não podendo estas ser objecto de qualquer arredondamento.
-
-4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em três momentos - Janeiro, Abril e Julho - em data a fixar pela escola, sendo que, em cada momento, só é permitida a realização de uma prova de avaliação por disciplina.
+4 - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 365/2004](https://diariodarepublica.pt/dr/detalhe/portaria/365-2004-218759), publicado em 2004-04-08.
 
-5 - O disposto na presente portaria aplica-se aos regimes de experiência pedagógica, por blocos de aprendizagem, em vigor no ensino particular e cooperativo, derrogando os respectivos regulamentos, mesmo que homologados, quando estes disponham em sentido contrário, sendo apenas admitidas as adaptações estritamente decorrentes da compatibilização entre blocos e unidades capitalizáveis.
-
-5.1 - O regime de experiência pedagógica por blocos capitalizáveis, instituído, para o ensino público, pelo despacho n.º 20421/99, de 27 de Outubro, com as alterações introduzidas pelo despacho n.º 21711/2000, de 27 de Outubro, rege-se por regras próprias no que respeita à obrigatoriedade de matrícula em todas as disciplinas, ao compromisso de frequência em regime presencial e à não aplicação de equivalências e testes de posicionamento.
+5 - (Revogado.)
 
 6 - O estabelecimento de ensino competente para a emissão do certificado de curso do ensino secundário recorrente é responsável pela comprovação da regularidade da matrícula e do percurso escolar dos alunos nessa modalidade de ensino.
 

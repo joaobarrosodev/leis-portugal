@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Artigo 1.º O grau de licenciado em Medicina será conferido àqueles que tiverem obtido aprovação em todas as disciplinas do curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas e aproveitamento no 1.º ano do internato geral.",
+    "depois": "Artigo 1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527451:por",
+    "alterador": "pt:dre:631672:por"
+  },
+  {
+    "artigo": "unidades 4-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 2.º - 1. O programa do internato a que se refere o artigo 1.º e a escolha dos hospitais e serviços idóneos onde pode funcionar são da competência de comissões, com sede nas cidades onde haja Faculdade de Medicina, constituídas por representantes da Faculdade local, da Direcção-Geral dos Hospitais e da Ordem dos Médicos.\n\n2. O funcionamento dessas comissões será regulamentado, ouvida a Ordem dos Médicos, por meio de portaria conjunta dos Ministros da Educação Nacional e da Saúde e Assistência.",
+    "depois": "Art. 2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527451:por",
+    "alterador": "pt:dre:631672:por"
+  },
+  {
+    "artigo": "unidades 6-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 3.º - 1. A admissão ao internato geral dos hospitais será assegurada, mediante requerimento, a todos os que obtiverem aprovação nas disciplinas do curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas. A actividade dos que forem admitidos é exercida sob a responsabilidade do director do serviço onde funcione o internato.\n\n2. Nos quadros do pessoal dos hospitais centrais é eliminada a indicação do número de lugares do internato geral, o qual será fixado cada ano nos termos do n.º 4 do artigo 43.º do Regulamento Geral dos Hospitais, sendo o pagamento das remunerações aos que frequentam o internato feito por verba geral a inscrever para tal fim nos orçamentos dos referidos hospitais.",
+    "depois": "Art. 3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527451:por",
+    "alterador": "pt:dre:631672:por"
+  }
+]

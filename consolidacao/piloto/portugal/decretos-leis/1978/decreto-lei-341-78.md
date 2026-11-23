@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:326719:por
+    title: Declaração
+    publication_date: '1978-11-29'
   - id: pt:dre:383011:por
     title: Decreto-Lei n.º 60/79
     publication_date: '1979-03-30'
@@ -46,11 +49,13 @@ b) Para a Direcção-Geral da Contabilidade Pública (Direcção do Abono de Fam
 
 1 - Os funcionários do quadro, em serviço nas Direcções-Gerais mencionadas no artigo 1.º, afectos à atribuição, liquidação e contabilização de pensões de aposentação e de sobrevivência constituirão na Caixa Geral de Depósitos um quadro complementar, ficando sujeitos ao regime jurídico aplicável ao pessoal da instituição.
 
-2 - A integração no quadro complementar será feita com base nos níveis definidos pela Direcção dos Serviços de Pessoal da Caixa Geral de Depósitos, tendo em consideração as categorias e tempo de serviço que o pessoal possui na função pública e efectivar-se-á mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação no Diário da República, a efectuar dentro de vinte dias após a entrada em vigor deste diploma.
+2 - A integração no quadro complementar será feita com base nos níveis definidos pela Direcção dos Serviços de Pessoal da Caixa Geral de Depósitos, tendo em consideração as categorias e tempo de serviço que o pessoal possui na função pública e efectivar-se-á mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação no Diário da República, a efectuar dentro de noventa dias após a entrada em vigor deste diploma.
 
 3 - Os funcionários referidos neste artigo transitarão obrigatoriamente, ao fim de três anos de permanência nesse quadro complementar, para o quadro privativo da Caixa Geral de Depósitos, onde ocuparão a última posição na categoria que lhes tiver sido atribuída, desde que possuam as habilitações literárias exigidas para ingresso nesse quadro.
 
 4 - Os que não possuírem aquelas habilitações permanecerão no quadro complementar até que as adquiram, procedendo-se, então, em conformidade com o disposto no número anterior.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-326719), publicado em 1978-11-29.
 
 ###### Artigo 3.º
 

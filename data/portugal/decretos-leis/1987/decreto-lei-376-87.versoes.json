@@ -295,6 +295,12 @@
      "title": "Declaração",
      "published": "1988-03-31",
      "dre_path": "/dr/detalhe/declaracao/1988-219505"
+    },
+    {
+     "id": "pt:dre:556837:por",
+     "title": "Decreto-Lei n.º 270/90",
+     "published": "1990-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/270-1990-556837"
     }
    ],
    "changes": [
@@ -370,7 +376,10 @@
     "Retifica Artigo 117",
     "Retifica Artigo 183",
     "Retifica Artigo 206",
-    "Retifica Artigo 8"
+    "Retifica Artigo 8",
+    "Revoga Artigo 63",
+    "Revoga Artigo 83",
+    "Revoga Artigo 183"
    ],
    "fragments": [
     "201f364d130b2ddc",
@@ -458,7 +467,7 @@
     "238e9a3ddd1821bf",
     "9f205fde7151dd59",
     "7cc6905dcaeb2309",
-    "d5c436a73adb5aa4",
+    "4c44934a07599aad",
     "c97616c21c66975c",
     "9fb625945086a76d",
     "2985e809a0e87499",
@@ -483,7 +492,7 @@
     "b6116cb27d23880e",
     "8ca50f2d20813594",
     "741f51867f4204bc",
-    "4070427e742741d2",
+    "c4846a2d50913ed1",
     "ba9a51be440ec867",
     "81362a85455de5c0",
     "438bac3fb01154b9",
@@ -601,7 +610,7 @@
     "a4e2d51d6b0c5893",
     "8c10a9d8161f039a",
     "51769c018d2b9892",
-    "982a8dec8655a442",
+    "a79297552b9f9980",
     "bc36d95c57b0e1f1",
     "58144cfe29b03658",
     "416e0633a653dfd4",
@@ -2995,6 +3004,16 @@
    ],
    "markdown": "###### Artigo 62.º — Dispensa de estágio\n\n1 - Os funcionários dos quadros de pessoal da Direcção-Geral dos Serviços Judiciários e das instituições judiciárias providos em lugares dos grupos de pessoal técnico-profissional, administrativo, auxiliar e operário podem ingressar nas carreiras de oficial de justiça com dispensa de estágio, em termos a definir por despacho do Ministro da Justiça, desde que reúnam os seguintes requisitos:\n\na) O 11.º ano do ensino unificado ou equiparado como habilitações mínimas;\n\nb) Três anos de bom e efectivo serviço;\n\nc) Aprovação nos testes públicos a que se refere o n.º 1 do artigo 61.º\n\n2 - Os funcionários aprovados nos testes públicos a que se refere o n.º 1 do artigo anterior não poderão, durante o prazo de validade destes, submeter-se a novos testes.\n\n3 - O provimento dos funcionários a que se refere o n.º 1 nos lugares de técnico de justiça auxiliar e de escriturário judicial é definitivo e obedece ao disposto nos n.os 2 e 3 do artigo 55.º\n\n> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
   },
+  "4c44934a07599aad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Comissões de serviço",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), publicado em 1990-09-03, com efeitos a partir de 1989-10-01."
+   ],
+   "markdown": "###### Artigo 63.º — Comissões de serviço\n\n1 - Quando razões excepcionais de serviço o justifiquem, os funcionários de justiça podem ser nomeados em comissão de serviço para:\n\na) O Conselho Superior da Magistratura e Procuradoria-Geral da República;\n\nb) Secretarias judiciais, secretarias-gerais e secretarias privativas do Ministério Público;\n\nc) Serviços dependentes do Ministério da Justiça;\n\nd) Outros departamentos ministeriais.\n\n2 - O tempo em comissão de serviço é considerado como de efectivo serviço na categoria ou cargo de origem.\n\n3 - Na falta de disposição especial, as comissões de serviço a que se referem as alíneas a), b) e c) do n.º 1 têm a duração de três anos e consideram-se automaticamente renovadas se, até 30 dias antes do seu termo, a Administração não manifestar expressamente a intenção de a fazer cessar, podendo ainda, a todo o tempo, ser dada por finda durante a vigência.\n\n4 - As comissões de serviço em departamento estranho ao Ministério da Justiça só podem ser renovadas uma vez, tendo os funcionários direito a optar entre as remunerações que competem aos seus cargos judiciários ou às correspondentes aos cargos efectivamente exercidos, as quais serão suportadas pela entidade onde prestam funções.\n\n5 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), publicado em 1990-09-03, com efeitos a partir de 1989-10-01."
+  },
   "2985e809a0e87499": {
    "fragment_id": null,
    "type": null,
@@ -3112,6 +3131,14 @@
     "Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03."
    ],
    "markdown": "###### Artigo 82.º — Sistema retributivo\n\n1 - Os sistemas retributivos dos funcionários de justiça são regulados em diplomas autónomos.\n\n2 - O suplemento remuneratório diário devido aos oficiais de justiça pela prestação de serviço na secretaria do tribunal de turno é fixado em portaria dos Ministros das Finanças e da Justiça.\n\n3 - A remuneração devida pela execução de serviço urgente aos sábados, domingos e feriados em secretarias de tribunais com sede em comarcas não abrangidas por tribunais de turno é a fixada na portaria referida no número anterior.\n\n4 - Sempre que um funcionário seja provido em nova categoria ou lugar tem direito a receber a remuneração correspondente à situação anterior até à aceitação da nova categoria ou lugar.\n\n> Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03."
+  },
+  "c4846a2d50913ed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Participação em custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Participação em custas\n\n(Revogado.)"
   },
   "ba9a51be440ec867": {
    "fragment_id": null,
@@ -3281,13 +3308,13 @@
    ],
    "markdown": "###### Artigo 182.º-A\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29."
   },
-  "982a8dec8655a442": {
+  "a79297552b9f9980": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 183.º — Eventuais",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 183.º — Eventuais\n\n1 - Nos casos de grande acumulação de serviço, previsão de vacatura ou impedimento de titulares por mais de três meses, falta de concorrentes ou outros motivos justificativos, para o desempenho das funções atribuídas a escriturário judicial ou técnico de justiça auxiliar podem ser admitidos, a título eventual, indivíduos que tenham sido aprovados nos testes públicos a que se refere o n.º 1 do artigo 61.º, mediante proposta do secretário judicial, do secretário técnico ou de quem os substituir dirigida à Direcção-Geral dos Serviços Judiciários.\n\n2 - Na admissão de eventuais observa-se o disposto no n.º 3 do artigo 55.º\n\n3 - Nos casos de grande acumulação de serviço, a admissão pode fazer-se por períodos prorrogáveis de seis meses e cessa com a normalização do serviço.\n\n4 - Nos restantes casos previstos no n.º 1, a admissão faz-se sem prazo certo e cessa o termo da situação específica que o determinou, podendo ainda ser feita cessar a todo o tempo e sem obrigação de indemnizar pela Direcção-Geral dos Serviços Judiciários.\n\n5 - Os eventuais auferem o vencimento de categoria estabelecido para escriturários judiciais provisórios.\n\n6 - Os eventuais estão sujeitos aos deveres e direitos gerais e incompatibilidades dos funcionários de justiça, sendo-lhes contado o tempo de serviço prestado, quando devidamente regularizado, nos casos em que não decorra um período de tempo superior a 60 dias, reportado à data do despacho de nomeação, entre a cessação da eventualidade e aquela data.\n\n7 - À admissão de eventuais, ponderada a conveniência dos serviços, pode ser aplicado o disposto no artigo 41.º\n\n8 - À admissão de eventuais é igualmente aplicável o regime previsto na alínea i) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio."
+   "markdown": "###### Artigo 183.º — Eventuais\n\n1 - Nos casos de grande acumulação de serviço, previsão de vacatura ou impedimento de titulares por mais de três meses, falta de concorrentes ou outros motivos justificativos, para o desempenho das funções atribuídas a escriturário judicial ou técnico de justiça auxiliar podem ser admitidos, a título eventual, indivíduos que tenham sido aprovados nos testes públicos a que se refere o n.º 1 do artigo 61.º, mediante proposta do secretário judicial, do secretário técnico ou de quem os substituir dirigida à Direcção-Geral dos Serviços Judiciários.\n\n2 - Na admissão de eventuais observa-se o disposto no n.º 3 do artigo 55.º\n\n3 - Nos casos de grande acumulação de serviço, a admissão pode fazer-se por períodos prorrogáveis de seis meses e cessa com a normalização do serviço.\n\n4 - Nos restantes casos previstos no n.º 1, a admissão faz-se sem prazo certo e cessa o termo da situação específica que o determinou, podendo ainda ser feita cessar a todo o tempo e sem obrigação de indemnizar pela Direcção-Geral dos Serviços Judiciários.\n\n5 - (Revogado.)\n\n6 - Os eventuais estão sujeitos aos deveres e direitos gerais e incompatibilidades dos funcionários de justiça, sendo-lhes contado o tempo de serviço prestado, quando devidamente regularizado, nos casos em que não decorra um período de tempo superior a 60 dias, reportado à data do despacho de nomeação, entre a cessação da eventualidade e aquela data.\n\n7 - À admissão de eventuais, ponderada a conveniência dos serviços, pode ser aplicado o disposto no artigo 41.º\n\n8 - À admissão de eventuais é igualmente aplicável o regime previsto na alínea i) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio."
   },
   "64473692802aa80b": {
    "fragment_id": null,

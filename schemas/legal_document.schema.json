@@ -278,8 +278,18 @@
             "relacao_dre",
             "clausula_vigencia",
             "prova_manual",
-            "norma_revogatoria_contra_dre"
+            "norma_revogatoria_contra_dre",
+            "sem_revogacao_conhecida"
           ]
+        },
+        "inferred": {
+          "type": "boolean",
+          "description": "true quando o estado é uma inferência (sem prova): em vigor por não se conhecer revogação nem caducidade."
+        },
+        "rule": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Estado inferido: a regra que o deu."
         },
         "dre_status": {
           "type": "string",

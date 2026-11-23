@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1986-05-26'
+  consolidation_date: '1986-09-13'
 version_history:
   file: portaria-1103-82.versoes.json
   count: 2
@@ -51,9 +51,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1986-05-26'
+  - date: '1986-09-13'
     amending: pt:dre:308350:por
-    amending_title: Portaria n.º 58/83; Portaria n.º 599/84; Portaria n.º 231/86
+    amending_title: Portaria n.º 58/83; Portaria n.º 599/84; Portaria n.º 231/86; Portaria n.º 502/86
     changes:
     - Altera Artigo 10.º
     - Altera Artigo 12.º
@@ -418,35 +418,35 @@ A validade do referido diploma será extensiva aos países com os quais Portugal
 
 ###### Artigo 50.º
 
-Os júris para concursos de provimento de lugares para assistente ou chefe de serviços hospitalares de psiquiatria em estabelecimentos e serviços oficiais sob tutela do Instituto de Assistência Psiquiátrica serão homologados pelo respectivo delegado de zona, que assumirá simultaneamente todas as atribuições e competências que neste diploma são conferidas em idênticas circunstâncias às comissões inter-hospitalares.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 502/86](https://diariodarepublica.pt/dr/detalhe/portaria/502-1986-220131), publicado em 1986-09-08, com efeitos a partir de 1986-09-13.
 
 ###### Artigo 51.º
 
-Dos actos classificativos dos júris previstos neste diploma não cabe recurso hierárquico.
+(Revogado.)
 
 ###### Artigo 52.º
 
-Consideram-se como estabelecimentos ou hospitais centrais e como tal sujeitos aos concursos nos moldes previstos neste diploma as seguintes instituições dependentes do Instituto de Assistência Psiquiátrica: Hospital de Miguel Bombarda, Hospital de Júlio de Matos, Centro de Saúde Mental Infantil de Lisboa, Hospital de Sobral Cid, Centro de Saúde Infantil de Coimbra, Centro de Saúde Mental Ocidental do Porto, Hospital do Conde de Ferreira, Centro de Saúde Mental Infantil e Juvenil do Porto e Centro de Saúde Mental de Vila Nova de Gaia.
+(Revogado.)
 
 ###### Artigo 53.º
 
-As competências atribuídas neste diploma às comissões inter-hospitalares pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais.
+(Revogado.)
 
 ###### Artigo 54.º
 
-1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a partir da data de abertura dos primeiros concursos assistentes hospitalares a realizar ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.
-
-2 - Os concursos que decorrem à data da publicação do presente diploma deverão concluir-se dentro do prazo indicado no número anterior, já que a ele ficam também sujeitos os candidatos desses mesmos concursos.
+(Revogado.)
 
 > Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 55.º
 
-As dúvidas sobre a matéria deste Regulamento serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+(Revogado.)
 
 ###### Artigo 56.º
 
-Este diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
 
 Ministério dos Assuntos Sociais, 10 de Novembro de 1982. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
 

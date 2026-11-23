@@ -1,0 +1,69 @@
+[
+ {
+  "id": "pt:dre:171362:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 1.º: n.º 1 mantido (...), n.os 2, 3 e 4 com a nova redação; consolidado coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006: n.os 1 e 2 novos (com «do Ministros» do alterador), n.º 3 = anterior n.º 2; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 2 e 3 do DL 302/86 (mantidos por «...» no DL 97/2006), n.os 1, 4, 5, 6 do DL 97/2006 (n.º 5 revogado pelo DL 234-B/98 e reposto pelo DL 97/2006); coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 97/2006, art. 3.º, al. a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 97/2006, art. 3.º, al. a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "errado",
+    "motivo": "O mapa de pessoal foi substituído pela Portaria 277/87 (1.º), alterado no n.º 4 pelas Portarias 49-A/92 e 282/97. O consolidado mete o mapa novo ANTES de «Visto e aprovado…», perde os títulos numerados 1 a 6 e a linha «Um funcionário… embaixador», e deixa a seguir o mapa antigo («Mapa de pessoal da Missão Permanente…») com a imagem original, texto antigo que devia ter desaparecido.",
+    "texto_esperado": "###### Artigo 10.º\n\nO presente diploma entrará em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Manuel San-Bento de Menezes.\n\nPromulgado em 17 de Outubro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 21 de Outubro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\nMapa do pessoal da Representação Permanente\n\n1 - Representante permanente:\nUm funcionário do quadro do pessoal do serviço diplomático com a categoria de embaixador.\n2 - Representante permanente-adjunto:\nUm funcionário do quadro do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.\n3 - Pessoal diplomático:\nDez funcionários do quadro do pessoal do serviço diplomático de qualquer categoria.\n4 - Pessoal especializado:\n31 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro técnico e adido técnico;\n1 funcionário do quadro do pessoal especializado com a categoria de conselheiro ou de adido de imprensa;\n2 funcionários do quadro do pessoal especializado com a categoria de secretário privativo.\n5 - Pessoal administrativo:\nDois funcionários do quadro do pessoal administrativo do Ministério dos Negócios Estrangeiros.\n6 - Pessoal assalariado:\nTrês chanceleres; Três arquivistas; Onze assistentes tradutores; Três secretários de 1.ª classe; Seis secretários de 2.ª classe; Dois escriturários-dactilógrafos; Um telefonista; Três motoristas; Um porteiro; Três contínuos; Um guarda; Três auxiliares de serviço."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 277/87, 2.º: substituição do mapa I do DL 133/85; Portarias 49-A/92 e 282/97, 2.º e 3.º: quadros do DL 133/85 e da Portaria 411/87",
+    "motivo": "instruções de outro diploma"
+   },
+   {
+    "instrucao": "DL 234-B/98, arts. 1.º e 2.º (limite temporal, regime transitório); DL 97/2006, art. 2.º (disposição transitória); DL 100/2019 (suspensão transitória de regimes e excepções)",
+    "motivo": "não textual: regimes transitórios/suspensão sem nova redacção do original"
+   },
+   {
+    "instrucao": "DL 97/2006, art. 3.º, al. b): revoga o DL 234-B/98",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Portaria 319/2004: alteração do grupo III, conselheiro militar, do mapa da Portaria 330-A/2002",
+    "motivo": "o mapa novo só vem em imagem e o mapa-base da Portaria 330-A/2002 não está no texto do original"
+   },
+   {
+    "instrucao": "DL 32/2022, DL 32/2024, DL 87-A/2025",
+    "motivo": "a vista não traz texto nenhum destes diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

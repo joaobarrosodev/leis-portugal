@@ -1,0 +1,43 @@
+[
+ {
+  "id": "pt:dre:391404:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "A lista original só existe em imagem; o consolidado acrescenta, por ordem cronológica, as imagens dos alteradores 48268, 48664, 48760, 48940, 49292 e 89/70, o texto do art. 4.º do DL 49133 (41.02.03 wet blues), do DL 49365 (ex 48.07.07, 90.23.02, 90.28.04), a lista C do DL 193/71 (91.01), as posições do art. 2.º, 3.º e 4.º do DL 603/71 (21.05 ... 93.06) e o 32.09.01 do DL 304/73 (art. 6.º, por remissão do art. 9.º b)). Conferido letra a letra com o texto dos alteradores; nada a mais nem a menos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48222 (introduzir mercadorias da nota ao art. 74.04.02), DL 48424 (nota ao 38.11.02)",
+    "motivo": "O alterador remete para notas de outros diplomas, que não vêm na vista: não traz o texto a introduzir."
+   },
+   {
+    "instrucao": "DL 48225 art. 3.º (84.62.04 e 84.62.05 continuam incluídos)",
+    "motivo": "Não é textual: mantém o que já está."
+   },
+   {
+    "instrucao": "DL 48757",
+    "motivo": "Altera só a pauta de importação; não tem instrução dirigida à lista do original."
+   },
+   {
+    "instrucao": "DL 48760 art. 2.º 1.º e 2.º; DL 595/70 art. 3.º (84.25.05 -> 84.25.06); DL 603/71 art. 2.º 1.º e 2.º; DL 626/71 art. 6.º (eliminar 56.01.01); DL 555/75 art. 4.º b)",
+    "motivo": "Eliminações e renumerações sobre uma lista do original que só existe em imagem: não há texto onde as aplicar."
+   },
+   {
+    "instrucao": "DL 326/70 art. 3.º; DL 595/70 art. 4.º; DL 670/70 art. 7.º; DL 600/72 art. 9.º; DL 260/73 art. 4.º; DL 304/73 art. 9.º a) e c); DL 287/74 art. 3.º; DL 401/74 art. 5.º; DL 555/75 art. 4.º a)",
+    "motivo": "Mandam incluir/modificar na lista mercadorias referidas por número de artigo pautal ou nota, sem dar a redação da entrada da lista (o texto da lista só existe em imagem). Nota: em 326/70, 595/70, 287/74, 401/74 e 555/75 a descrição da mercadoria consta na pauta do mesmo diploma, mas o alterador não diz como fica a entrada na lista; aceito como não textual."
+   },
+   {
+    "instrucao": "DL 304/73 art. 9.º b) (32.09.01)",
+    "motivo": "Aplicada em acréscimo: 32.09.01 do art. 6.º consta no consolidado; a imagem do original continua com a redação anterior (lista em imagem)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

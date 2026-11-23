@@ -267,24 +267,24 @@
     "1071473075",
     "1071473175",
     "1071473275",
-    "1071469875",
+    "968564675",
     "1071473375",
     "1071473575",
     "1071473775",
     "1071473975",
     "1070677775",
-    "1071469975",
+    "1071474175",
     "1071474375",
-    "1071470075",
+    "968566075",
     "1060785875",
     "1071474475",
-    "1071470175",
+    "1071474675",
     "1071474875",
     "1071474975",
     "1071475075",
     "1071475175",
     "1071470275",
-    "1071469375"
+    "1188937175"
    ]
   }
  ],
@@ -844,12 +844,12 @@
   "1070678475": {
    "fragment_id": "1070678375",
    "type": 14,
-   "heading": "Anexo II — (ver documento original)",
+   "heading": "Anexo II",
    "in_force_from": "2012-03-21",
    "changed_by": [
     "Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
    ],
-   "markdown": "## Anexo II — (ver documento original)\n\n(ver documento original)\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
   },
   "1071468975": {
    "fragment_id": "968561175",
@@ -1021,14 +1021,6 @@
    ],
    "markdown": "###### Artigo 8.º — Direitos não utilizados devido à ocorrência de casos de força maior\n\n1 - Os agricultores que, devido a casos de força maior ou circunstâncias excepcionais, não tenham utilizado os direitos ao pagamento por um período de dois anos, podem apresentar, junto do IFAP, até ao final do período de apresentação do pedido único, um pedido devidamente fundamentado, fornecendo, para tal, todos os meios de prova considerados pertinentes.\n\n2 - Para além das situações referidas no artigo 31.º do Regulamento (CE) n.º 73/2009 podem ser também reconhecidos como casos de força maior ou circunstâncias excepcionais, nomeadamente, as seguintes:\n\na) Incapacidade profissional do agricultor superior a três meses;\n\nb) Morte ou incapacidade profissional do cônjuge superior a três meses;\n\nc) Expropriação por utilidade pública ou outro acto ou contrato previsto no Código das Expropriações que afecte uma parte importante da superfície agrícola da exploração gerida pelo produtor;\n\nd) Roubo da totalidade ou de parte do efectivo do agricultor;\n\ne) Morte da totalidade ou parte do efectivo na sequência de catástrofe natural ou acidente cuja responsabilidade não possa ser imputada ao agricultor.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28."
   },
-  "1071469875": {
-   "fragment_id": "968564575",
-   "type": 1,
-   "heading": "Capítulo IV — Reserva nacional",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo IV — Reserva nacional"
-  },
   "1071473375": {
    "fragment_id": "968564775",
    "type": 11,
@@ -1076,15 +1068,15 @@
    ],
    "markdown": "###### Artigo 12.º — Pedido de ajustamento de direitos através da reserva nacional\n\n1 - Os agricultores que se enquadrem nas situações referidas nos números seguintes podem apresentar os respectivos pedidos de ajustamento de direitos em simultâneo com o pedido único.\n\n2 - Em conformidade com o disposto no artigo 18.º do Regulamento (CE) n.º 1120/2009, os agricultores que detenham um número de hectares elegíveis inferior ao número de direitos ao pagamento que lhes foram atribuídos podem apresentar um pedido de ajustamento de direitos, acompanhado dos respectivos comprovativos, desde que digam respeito a:\n\na) (Revogada.)\n\nb) Explorações que, na sequência de um projecto de investimento aprovado no âmbito dos programas nacionais ou comunitários de reestruturação ou de desenvolvimento rural, reconverteram parte da sua área elegível a RPU para floresta, com excepção das parcelas beneficiárias do prémio destinado a compensar a perda de rendimento decorrente da florestação de terras agrícolas, atribuído no âmbito dos Regulamentos (CE) n.os 1257/1999 ou 1698/2005.\n\n3 - Aos direitos atribuídos nos termos do presente artigo são aplicáveis as regras do artigo 18.º do Regulamento (CE) n.º 1120/2009, podendo os agricultores recorrer a este mecanismo de ajustamento mais de uma vez, desde que, nos termos do n.º 4 do mesmo artigo, o número de hectares declarados no pedido único seja maior ou igual a 50 % do número total de hectares de que dispunham no período de referência.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21.\n\n> Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07."
   },
-  "1071469975": {
+  "1071474175": {
    "fragment_id": "968565575",
    "type": 1,
    "heading": "Capítulo V — Atribuição de direitos não provenientes da reserva nacional",
-   "in_force_from": null,
+   "in_force_from": "2015-02-28",
    "changed_by": [
-    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28."
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28 00:00:00."
    ],
-   "markdown": "### Capítulo V — Atribuição de direitos não provenientes da reserva nacional\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28."
+   "markdown": "### Capítulo V — Atribuição de direitos não provenientes da reserva nacional\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28 00:00:00."
   },
   "1071474375": {
    "fragment_id": "968565775",
@@ -1096,14 +1088,6 @@
     "Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07."
    ],
    "markdown": "###### Artigo 13.º — Condições específicas da integração do sector da vinha\n\n1 - Aos agricultores que se candidatem ao RPU em 2010, 2011, e 2012, e que tenham beneficiado do prémio ao arranque da vinha nas condições estabelecidas no capítulo iii do Regulamento (CE) n.º 479/2008, do Conselho, de 29 de Abril, segundo as normas nacionais de execução do regime de arranque definidas na Portaria n.º 701/2008, de 29 de Julho, são atribuídos nos anos subsequentes ao ano do arranque, nas condições estabelecidas no ponto B do anexo ix do Regulamento (CE) n.º 73/2009, um número provisório de direitos ao pagamento equivalentes ao número de hectares pelo qual tenham recebido um prémio ao arranque.\n\n2 - Os agricultores que se enquadrem nas condições definidas nos números anteriores devem apresentar candidatura ao RPU nos termos e nos prazos definidos no despacho normativo relativo ao Sistema Integrado de Gestão e Controlo (SIGC).\n\n3 - Para efeitos do valor a atribuir aos direitos a pagamento referidos no número anterior e em aplicação do artigo 36.º do Regulamento (CE) n.º 1120/2009, o valor unitário do direito é estabelecido em (euro) 150.\n\n4 - Os montantes e o número definitivo de direitos ao pagamento são estabelecidos até 1 de Fevereiro do ano seguinte ao ano da candidatura ao regime.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07."
-  },
-  "1071470075": {
-   "fragment_id": "968565975",
-   "type": 1,
-   "heading": "Capítulo VI — Transferência de direitos ao pagamento",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "### Capítulo VI — Transferência de direitos ao pagamento"
   },
   "1071474475": {
    "fragment_id": "968566375",
@@ -1117,16 +1101,15 @@
    ],
    "markdown": "###### Artigo 15.º — Pedido de transferência de direitos\n\n1 - A transferência definitiva ou temporária de direitos pode ser efetuada a qualquer altura do ano, sendo comunicada ao IFAP, I. P., pelo cedente e confirmada pelo cessionário, através da submissão de formulários eletrónicos próprios, ficando a respetiva produção de efeitos dependente da verificação dos requisitos legais aplicáveis.\n\n2 - A comunicação referida no número anterior efetua-se no período fixado nos termos do artigo 17.º do Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 86/2011, de 25 de fevereiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21.\n\n> Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07."
   },
-  "1071470175": {
+  "1071474675": {
    "fragment_id": "1070677975",
    "type": 1,
    "heading": "Capítulo VII — Condições específicas dos regimes de apoio direto a integrar no RPU em 2012",
-   "in_force_from": null,
+   "in_force_from": "2015-02-28",
    "changed_by": [
-    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.",
     "Aditado pelo/a Artigo 6.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
    ],
-   "markdown": "### Capítulo VII — Condições específicas dos regimes de apoio direto a integrar no RPU em 2012\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Aditado pelo/a Artigo 6.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
+   "markdown": "### Capítulo VII — Condições específicas dos regimes de apoio direto a integrar no RPU em 2012\n\n> Aditado pelo/a Artigo 6.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
   },
   "1071474875": {
    "fragment_id": "1070675175",
@@ -1185,16 +1168,16 @@
    ],
    "markdown": "## Anexo I — Lista de concelhos e freguesias com risco de abandono agrícola para o ano de 2011\n\nAbrantes, Águeda (Préstimo, Macinhata do Vouga, Macieira de Alcoba, Castanheira do Vouga, Belazaima do Chão, Agadão), Aguiar da Beira, Alandroal, Albergaria-a-Velha (Valmaior, Ribeira de Fráguas), Albufeira (Paderne), Alcácer do Sal, Alcoutim, Alfândega da Fé, Alijó, Aljezur, Aljustrel, Almeida, Almodôvar, Alter do Chão, Alvaiázere, Alvito, Amarante, Amares, Ansião, Arcos de Valdevez, Arganil, Armamar, Arouca, Arraiolos, Arronches, Avis, Baião, Barrancos, Beja, Belmonte, Borba, Boticas, Bragança, Cabeceiras de Basto, Caminha, Campo Maior, Carrazeda de Ansiães, Carregal do Sal, Castanheira de Pera, Castelo Branco, Castelo de Paiva, Castelo de Vide, Castro Daire, Castro Marim, Castro Verde, Celorico da Beira, Celorico de Basto, Chaves, Cinfães, Constância, Covilhã, Crato, Cuba, Elvas, Estremoz, Évora, Fafe, Faro (Estoi, Santa Bárbara de Nexe), Felgueiras (Friande, Vila Verde, Sendim, Jugueiros, Pinheiro, Santão), Ferreira do Alentejo, Ferreira do Zêzere, Figueira de Castelo Rodrigo, Figueiró dos Vinhos, Fornos de Algodres, Freixo de Espada à Cinta, Fronteira, Fundão, Gavião, Góis, Gondomar (Covelo, Foz do Sousa, Lomba, Medas, Melres), Gouveia, Grândola, Guarda, Idanha-a-Nova, Lagos (Bensafrim, Barão de São João), Lamego, Loulé [Loulé (São Sebastião), Benafim, Loulé (São Clemente), Salir, Querença, Boliqueime, Ameixial, Alte, Tôr], Lousã, Mação, Macedo de Cavaleiros, Mangualde, Manteigas, Marco de Canaveses, Marvão, Meda, Melgaço, Mértola, Mesão Frio, Miranda do Corvo, Miranda do Douro, Mirandela, Mogadouro, Moimenta da Beira, Monção, Monchique, Mondim de Basto, Monforte, Montalegre, Montemor-o-Novo, Mora, Mortágua, Moura, Mourão, Murça, Nelas, Nisa, Odemira, Oleiros, Oliveira de Azeméis (Cesar, Fajões, Macinhata da Seixa, Nogueira do Cravo, Ossela, Palmaz, Pindelo, Travanca, São Roque, Carregosa), Oliveira de Frades, Oliveira do Hospital, Ourique, Pampilhosa da Serra, Paredes, Paredes de Coura, Pedrógão Grande, Penacova, Penafiel [Luzim, Rio Mau, Vila Cova, Sebolido, Recezinhos (São Mamede), Capela, Canelas, Abragão, Recezinhos (São Martinho), Castelões], Penalva do Castelo, Penamacor, Penedono, Penela [Cumeeira, Espinhal, Penela (Santa Eufémia)], Peso da Régua, Pinhel, Ponte da Barca, Ponte de Lima, Ponte de Sor, Portalegre, Portel, Portimão (Mexilhoeira Grande), Póvoa do Lanhoso, Proença-a-Nova, Redondo, Reguengos de Monsaraz, Resende, Ribeira de Pena, Sabrosa, Sabugal, Santa Comba Dão, Santa Maria da Feira (Vale, Louredo, Romariz, Canedo), Santa Marta de Penaguião, Santiago do Cacém, São Brás de Alportel, São João da Pesqueira, São Pedro do Sul, Sardoal, Sátão, Seia, Sernancelhe, Serpa, Sertã, Sever do Vouga, Silves (Algoz, Alcantarilha, São Bartolomeu de Messines, Tunes, Silves, São Marcos da Serra), Sines, Sousel, Tábua, Tabuaço, Tarouca, Tavira [Tavira (Santa Maria), Santa Catarina da Fonte do Bispo, Santo Estêvão, Cachopo], Terras de Bouro, Tomar (Carregueiros, Junceira, Olalhas, Beselga, Alviobeira, Serra), Tondela, Torre de Moncorvo, Trancoso, Vale de Cambra, Valença, Valongo, Valpaços, Vendas Novas, Viana do Alentejo, Viana do Castelo, Vidigueira, Vieira do Minho, Vila de Rei, Vila do Bispo, Vila Flor, Vila Nova de Cerveira, Vila Nova de Foz Coa, Vila Nova de Paiva, Vila Nova de Poiares, Vila Pouca de Aguiar, Vila Real, Vila Real de Santo António, Vila Velha de Ródão, Vila Verde, Vila Viçosa, Vimioso, Vinhais, Viseu, Vouzela.\n\n> Nota: [Artigo 3.º, Portaria n.º 155/2011 - Diário da República n.º 72/2011, Série I de 2011-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/155-2011-276840) A alteração ao presente anexo é aplicável a partir da campanha de 2011.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 155/2011 - Diário da República n.º 72/2011, Série I de 2011-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/155-2011-276840), em vigor a partir de 2011-04-13.\n\n> Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07."
   },
-  "1071469375": {
+  "1188937175": {
    "fragment_id": "1070678375",
    "type": 14,
-   "heading": "Anexo II — (ver documento original)",
-   "in_force_from": null,
+   "heading": "Anexo II",
+   "in_force_from": "2015-02-28",
    "changed_by": [
     "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.",
     "Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
    ],
-   "markdown": "## Anexo II — (ver documento original)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21."
   }
  }
 }

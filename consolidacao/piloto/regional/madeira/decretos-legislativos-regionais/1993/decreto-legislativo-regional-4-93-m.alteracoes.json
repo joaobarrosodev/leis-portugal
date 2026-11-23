@@ -1,17 +1,17 @@
 [
   {
-    "artigo": "7.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 7.º — Adaptação à Região\n\n1 - As referências contidas na Lei n.º 1/87, de 6 de Janeiro, no Decreto-Lei n.º 322/85, de 6 de Agosto, no Decreto-Lei n.º 384/87, de 24 de Dezembro, e no Decreto-Lei n.º 363/88, de 14 de Outubro, aos órgãos e departamentos da administração pública central entendem-se feitas, para efeitos de aplicação à Região Autónoma da Madeira, aos correspondentes órgãos e departamentos da administração regional autónoma.\n\n2 - As referências contidas nos diplomas mencionados no número anterior ao Diário da República consideram-se feitas, para efeitos de aplicação à Região Autónoma da Madeira, ao Jornal Oficial da Região Autónoma da Madeira.",
-    "depois": "###### Artigo 7.º — Adaptação à Região\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), publicado em 2005-06-01.",
-    "excerto": "",
+    "artigo": "1.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 1.º — Aprovação\n\nSão aprovados pelo presente diploma:\n\na) O Orçamento da Região Autónoma da Madeira para 1993, constante dos mapas I a IV;\n\nb) Os orçamentos dos fundos e serviços autónomos, constantes dos mapas V a VII;\n\nc) Os programas e projectos plurianuais, constantes do mapa IX.",
+    "depois": "###### Artigo 1.º — Aprovação\n\nSão aprovados pelo presente diploma:\n\na) O Orçamento da Região Autónoma da Madeira para 1993, constante dos mapas I a IV;\n\nb) Os orçamentos dos fundos e serviços autónomos, constantes dos mapas V a VIII;\n\nc) Os programas e projectos plurianuais, constantes do mapa IX.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 133/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-1993-616586), publicado em 1993-07-31.",
+    "excerto": "No artigo 1.º, alínea b), onde se lê «constantes dos mapas V a VII» deve ler-se «constantes dos mapas V a VIII».",
     "artigo_alterador": "",
-    "metodo": "llm",
+    "metodo": "regra",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:666711:por",
-    "alterador": "pt:dre:220114:por;pt:dre:305814:por"
+    "alterador": "pt:dre:616586:por"
   },
   {
     "artigo": "8.º",
@@ -25,6 +25,34 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:666711:por",
-    "alterador": "pt:dre:220114:por;pt:dre:305814:por"
+    "alterador": "pt:dre:305814:por;pt:dre:220114:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Adaptação à Região\n\n1 - As referências contidas na Lei n.º 1/87, de 6 de Janeiro, no Decreto-Lei n.º 322/85, de 6 de Agosto, no Decreto-Lei n.º 384/87, de 24 de Dezembro, e no Decreto-Lei n.º 363/88, de 14 de Outubro, aos órgãos e departamentos da administração pública central entendem-se feitas, para efeitos de aplicação à Região Autónoma da Madeira, aos correspondentes órgãos e departamentos da administração regional autónoma.\n\n2 - As referências contidas nos diplomas mencionados no número anterior ao Diário da República consideram-se feitas, para efeitos de aplicação à Região Autónoma da Madeira, ao Jornal Oficial da Região Autónoma da Madeira.",
+    "depois": "###### Artigo 7.º — Adaptação à Região\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), publicado em 2005-06-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666711:por",
+    "alterador": "pt:dre:305814:por;pt:dre:220114:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — Tramitação dos processos de concurso\n\n1 - O processo dos concursos público e limitado e os critérios de adjudicação relativos a contratos de empreitada e fornecimento de obras públicas regem-se pelo disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.\n\n2 - O processo dos concursos público e limitado e os critérios de adjudicação relativos a contratos de fornecimento ou aquisição de bens e serviços regem-se, no caso de não haver regulamentação própria especialmente aplicável, pelo disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.\n\n3 - Aos processos de concurso público e limitado referidos nos números anteriores e, bem assim, ao processo de ajuste directo aplica-se o disposto no Decreto-Lei n.º 442/91, de 15 de Novembro.\n\n4 - O disposto no presente diploma não prejudica a aplicação da Directiva n.º [71/305/CEE](http://data.europa.eu/eli/dir/1971/305/oj?locale=pt), de 26 de Julho, transposta pelo Decreto-Lei n.º 235/86, de 18 de Agosto, e do Decreto-Lei n.º 396/90, de 11 de Dezembro, relativamente aos contratos de empreitadas de obras públicas, nem a aplicação da Directiva n.º [77/62/CEE](http://data.europa.eu/eli/dir/1977/62/oj?locale=pt), de 21 de Dezembro, e do Decreto-Lei n.º 24/92, de 25 de Fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 196/92, de 12 de Setembro, relativamente aos contratos de fornecimento de direito público, os quais prevalecem, em caso de colisão, sobre todas e quaisquer normas do presente diploma.\n\n5 - Nos concursos públicos a que se refere o presente artigo, a exigência de publicação do anúncio, designadamente para efeitos do prazo do concurso, considera-se reportada à 2.ª série do Jornal Oficial da Região Autónoma da Madeira, sem prejuízo da sua publicação no Diário da República e das demais publicações exigidas por lei.\n\n6 - O disposto no número anterior não se aplica, porém, aos concursos públicos que devam ser celebrados no âmbito da Comunidade Europeia, em que a contagem dos prazos deve ser efectuada nos termos das directivas comunitárias aplicáveis.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666711:por",
+    "alterador": "pt:dre:305814:por;pt:dre:220114:por"
   }
 ]

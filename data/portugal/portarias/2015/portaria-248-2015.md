@@ -41,10 +41,10 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-09-06'
+  consolidation_date: '2026-11-20'
 version_history:
   file: portaria-248-2015.versoes.json
-  count: 3
+  count: 4
   source_lastmod: '2024-06-25'
   versions:
   - date: '2015-08-17'
@@ -71,6 +71,16 @@ version_history:
     - Altera Anexo III
     - Altera Anexo IV
     - Altera Anexo V
+  - date: '2026-11-20'
+    amending: pt:dre:1196568808:por
+    amending_title: Portaria n.º 511/2026/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/248/2015/p/cons/20250905/pt/html
@@ -85,19 +95,19 @@ source:
   metadata_url: https://data.dre.pt/eli/port/248/2015/p/cons/20250905/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-220016474
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-220016474
-  retrieved_at: '2026-10-22T12:58:50Z'
+  retrieved_at: '2026-11-23T12:18:11Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: c55433e2ddd5d91a1277682d048e3db71204ed68846016a7a595e440f82c3013
+  source_sha256: a16836b3c5cf59cd90e5bf4e98807adb7d45c06d871d3d90bfdd6b03c0c45341
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:58:50Z'
-  notes: 3 versão(ões); histórico completo em portaria-248-2015.versoes.json.
+  generated_at: '2026-11-23T12:18:11Z'
+  notes: 4 versão(ões); histórico completo em portaria-248-2015.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,6 +135,11 @@ relationships:
   label: Altera Artigo 1.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
   source: https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893
   date: '2025-09-05'
+- type: amended_by
+  target: pt:dre:1196568808:por
+  label: Altera Artigo 1.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808
+  date: '2026-11-19'
 - type: cites
   target: pt:dre:340237:por
   label: null
@@ -154,7 +169,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:58:50Z'
+  checked_at: '2026-11-23T12:18:11Z'
   warnings: []
   errors: []
 ---
@@ -183,13 +198,13 @@ Nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembr
 
 1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações, localizadas no concelho de Abrantes:
 
-a) (Revogada.)
+a) [Revogada.]
 
 b) LS1 do polo de captação de Água Travessa;
 
 c) Poço e Dreno do polo de captação de Alvega;
 
-d) (Revogada.)
+d) [Revogada.]
 
 e) Dreno do polo de captação de Arrancada;
 
@@ -205,19 +220,19 @@ j) AC1 do polo de captação de Brunheirinho;
 
 k) CPQ1 e LSR2 do polo de captação de Caniceira;
 
-l) (Revogada.)
+l) [Revogada.]
 
 m) AC1 do polo de captação de Chaminé;
 
 n) SL1 do polo de captação de Concavada;
 
-o)  (Revogada.)
+o) [Revogada.]
 
-p)  (Revogada.)
+p) [Revogada.]
 
-q)  (Revogada.)
+q) [Revogada.]
 
-r)  (Revogada.)
+r) [Revogada.]
 
 s) SL2 e AC1 do polo de captação do Pego;
 
@@ -231,19 +246,19 @@ w) Furo do polo de captação de Vale das Cortiças;
 
 x) Dreno do polo de captação de Vale das Donas (Rossio ao Sul do Tejo);
 
-y) Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 do polo de captação de Vale das Donas (S.
-
-Miguel do Rio Torto);
+y) Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 do polo de captação de Vale das Donas (S. Miguel do Rio Torto);
 
 z) FD2 do polo de captação de Vale das Mós;
 
-aa) (Revogada.)
+aa) [Revogada.]
 
-bb) JK5 do polo de captação de Abrantes.
+bb) [Revogada.]
 
 2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
 
-> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06.
 
 > Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12
 
@@ -353,12 +368,12 @@ O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 23 de ju
 
 | Polo de captação | Captação | M (m) | P (m) |
 | --- | --- | --- | --- |
-| Águas das Casas | (Revogado.) | (Revogado.) | (Revogado.) |
+| Águas das Casas | [Revogado.] | [Revogado.] | [Revogado.] |
 | Água Travessa | LS1 | -6718,2 | -44667,8 |
 | Alvega | Poço | 7876,7 | -23026,7 |
 | Dreno | 7923,0 | -23018,2 |  |
-| Amoreira | (Revogado.) | (Revogado.) | (Revogado.) |
-| (Revogado.) | (Revogado.) | (Revogado.) |  |
+| Amoreira | [Revogado.] | [Revogado.] | [Revogado.] |
+| [Revogado.] | [Revogado.] | [Revogado.] |  |
 | Arrancada | Dreno | -209,0 | -38284,8 |
 | Arreciadas | AC1 | -3676,2 | -28529,9 |
 | AC2 | -3683,3 | -28427,3 |  |
@@ -369,17 +384,17 @@ O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 23 de ju
 | Brunheirinho | AC1 | 4437,0 | -37538,7 |
 | Caniceira | CPQ1 | -10492,4 | -29354,0 |
 | LSR2 | -9940,1 | -30183,0 |  |
-| Casal das Mansas | (Revogado.) | (Revogado.) | (Revogado.) |
+| Casal das Mansas | [Revogado.] | [Revogado.] | [Revogado.] |
 | Chaminé | AC1 | -2326,9 | -38374,7 |
 | Concavada | SL1 | 5445,7 | -24693,8 |
-| Esteveira | (Revogado.) | (Revogado.) | (Revogado.) |
-| Lampreia | (Revogado.) | (Revogado.) | (Revogado.) |
-| Martinchel | (Revogado.) | (Revogado.) | (Revogado.) |
-| Matagosa | (Revogado.) | (Revogado.) | (Revogado.) |
-| (Revogado.) | (Revogado.) | (Revogado.) |  |
+| Esteveira | [Revogado.] | [Revogado.] | [Revogado.] |
+| Lampreia | [Revogado.] | [Revogado.] | [Revogado.] |
+| Martinchel | [Revogado.] | [Revogado.] | [Revogado.] |
+| Matagosa | [Revogado.] | [Revogado.] | [Revogado.] |
+| [Revogado.] | [Revogado.] | [Revogado.] |  |
 | Pego | SL2 | 1812,5 | -26419,1 |
 | AC1 | -3220,3 | -24080,9 |  |
-| (Revogado.) | (Revogado.) | (Revogado.) |  |
+| [Revogado.] | [Revogado.] | [Revogado.] |  |
 | S.Macário | CPQ1 | -4387,2 | -27796,9 |
 | Vale da Custódia | Dreno | -8332,7 | -19577,8 |
 | Vale da Zebra | Dreno 1 | -4810,5 | -7357,1 |
@@ -392,10 +407,12 @@ O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 23 de ju
 | Dreno 4 | -6309,2 | -27256,9 |  |
 | Dreno 5 | -6235,9 | -27223,9 |  |
 | Vale das Mós | FD2 | 6235,9 | -35662,7 |
-| Vale de Açor | (Revogado.) | (Revogado.) | (Revogado.) |
-| Abrantes | JK5 | -6703,4 | -21898,0 |
+| Vale de Açor | [Revogado.] | [Revogado.] | [Revogado.] |
+| Abrantes | [Revogado.] | [Revogado.] | [Revogado.] |
 
-> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06.
 
 > Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12
 
@@ -405,7 +422,7 @@ O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 23 de ju
 
 Polo de captação de Água das Casas
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Água Travessa
 
@@ -421,11 +438,13 @@ Poço e Dreno
 
 Polo de captação de Amoreira
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Arrancada
 
-Dreno(ver documento original)
+Dreno
+
+(ver documento original)
 
 Polo de captação de Arreciadas
 
@@ -473,7 +492,7 @@ LRS2
 
 Polo de captação de Casal das Mansas
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Chaminé
 
@@ -489,19 +508,19 @@ SL1
 
 Polo de captação de Esteveira
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Lampreia
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Martinchel
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Matagosa
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Pego
 
@@ -515,7 +534,7 @@ AC1
 
 AC2
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de S. Macário
 
@@ -581,13 +600,13 @@ FD2
 
 Polo de captação de Vale de Açor
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Abrantes
 
-JK5
+[Revogado.]
 
-(ver documento original)
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
 
@@ -599,7 +618,7 @@ JK5
 
 Polo de captação de Água das Casas
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Água Travessa
 
@@ -615,7 +634,7 @@ Poço e Dreno
 
 Polo de captação de Amoreira
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Arrancada
 
@@ -665,7 +684,7 @@ LSR2
 
 Polo de captação de Casal das Mansas
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Chaminé
 
@@ -681,19 +700,19 @@ SL1
 
 Polo de captação de Esteveira
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Lampreia
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Martinchel
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Matagosa
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Pego
 
@@ -707,7 +726,7 @@ AC1
 
 AC2
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de S. Macário
 
@@ -757,13 +776,13 @@ FD2
 
 Polo de captação de Vale de Açor
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Abrantes
 
-JK5
+[Revogado.]
 
-(ver documento original)
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
 
@@ -774,106 +793,152 @@ JK5
 (a que se refere o n.º 1 do artigo 4.º)
 
 Polo de captação de Água das Casas
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Alvega
+
 Poço e Dreno
+
 (ver documento original)
 
 Polo de captação de Amoreira
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Arrancada
+
 Dreno
+
 (ver documento original)
 
 Polo de captação de Arreciadas
+
 AC1 e AC2
+
 (ver documento original)
 
 Polo de captação de Barrada
+
 CPQ1
+
 (ver documento original)
 
 Polo de captação de Bicas
+
 SL3
+
 (ver documento original)
 
 Polo de captação de Bouça
+
 As zonas de proteção intermédia e alargada das captações FD1 e Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
 
 Polo de captação de Brunheirinho
+
 AC1
+
 (ver documento original)
 
 Polo de captação de Caniceira
+
 CPQ1 e LSR2
+
 (ver documento original)
 
 Polo de captação de Casal das Mansas
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Chaminé
+
 AC1
+
 (ver documento original)
 
 Polo de captação de Concavada
+
 SL1
+
 (ver documento original)
 
 Polo de captação de Esteveira
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Lampreia
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Martinchel
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Matagosa
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Pego
+
 SL2
+
 (ver documento original)
+
 AC1
 
 Polo de captação de S. Macário
+
 CPQ1
+
 (ver documento original)
 
 Polo de captação de Vale da Custódia
+
 As zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
 
 Polo de captação de Vale da Zebra
+
 Dreno 1
+
 (ver documento original)
+
 Dreno 2
+
 (ver documento original)
 
 Polo de captação de Vale das Cortiças
+
 Furo
+
 (ver documento original)
 
 Polo de captação de Vale das Donas (Rossio ao Sul do Tejo)
+
 Dreno
+
 (ver documento original)
 
 Polo de captação de Vale das Donas (S. Miguel do Rio Torto)
+
 As zonas de proteção intermédia e alargada das captações Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.
 
 Polo de captação de Vale das Mós
+
 FD2
+
 (ver documento original)
 
 Polo de captação de Vale de Açor
 
-(Revogado.)
+[Revogado.]
 
 Polo de captação de Abrantes
-JK5
-(ver documento original)
+
+[Revogado.]
+
 Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
 
@@ -883,100 +948,136 @@ Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de
 
 (a que se refere o n.º 4 dos artigos 3.º e 4.º)
 
-Extrato da Carta Militar de Portugal. 
+Extrato da Carta Militar de Portugal.
+
 Série M888 - 1/25.000 (IGeoE)
 
 Polo de captação de Água das Casas
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Água Travessa
+
 (ver documento original)
 
 Polo de captação de Alvega
+
 (ver documento original)
 
 Polo de captação de Amoreira
+
 (ver documento original)
 
 Polo de captação de Arrancada
+
 (ver documento original)
 
 Polo de captação de Arreciadas
+
 (ver documento original)
 
 Polo de captação de Barrada
+
 (ver documento original)
 
 Polo de captação de Bicas
+
 (ver documento original)
 
 Polo de captação de Bouça
+
 (ver documento original)
 
 Polo de captação de Brunheirinho
+
 (ver documento original)
 
 Polo de captação de Caniceira
+
 (ver documento original)
 
 Polo de captação de Casal das Mansas
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Chaminé
+
 (ver documento original)
 
 Polo de captação de Concavada
+
 (ver documento original)
 
 Polo de captação de Esteveira
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Lampreia
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Martinchel
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Matagosa
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Pego
+
 SL2
+
 (ver documento original)
+
 AC1
 
 | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934278893/934076423.png) |
 | --- |
 
 Polo de captação de S. Macário
+
 (ver documento original)
 
 Polo de captação de Vale da Custódia
+
 (ver documento original)
 
 Polo de captação de Vale da Zebra
+
 Dreno 1
+
 (ver documento original)
+
 Dreno 2
+
 (ver documento original)
 
 Polo de captação de Vale das Cortiças
+
 (ver documento original)
 
 Polo de captação de Vale das Donas (Rossio ao Sul do Tejo)
+
 (ver documento original)
 
 Polo de captação de Vale das Donas (S. Miguel do Rio Torto)
+
 (ver documento original)
 
 Polo de captação de Vale das Mós
+
 (ver documento original)
 
 Polo de captação de Vale de Açor
-(Revogado.)
+
+[Revogado.]
 
 Polo de captação de Abrantes
-(ver documento original)
+
+[Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 511/2026/1 - Diário da República n.º 225/2026, Série I de 2026-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/511-2026-1196568808), em vigor a partir de 2026-11-20.
 
 > Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06
 

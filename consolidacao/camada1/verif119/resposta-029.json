@@ -1,0 +1,249 @@
+[
+ {
+  "id": "pt:dre:382787:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Declaração: acrescenta o Decreto n.º 47874 ao art. 4.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 1.º n.º 1 nova redacção; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 1.º n.º 3 (epígrafe e texto; 'a' é gralha do alterador); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 2.º n.º 1, classe 1-a (1.ª a 7.ª); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 2.º n.º 1, classe 1-b 1.ª e 2.ª categorias; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 2.º n.º 1 classes 1-b (4.ª a 7.ª) e 1-c e novo n.º 2 (substitui o n.º 2 antigo); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 3.º n.º 1 b); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 3.º n.º 1 d) a g); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 5.º n.º 2 com nova epígrafe; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 5.º n.º 4; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 6.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: artigos 9.º, 10.º, 11.º e 12.º (texto e epígrafes); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 1.º: art. 13.º n.º 4; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 14.º; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Declaração (vagão->veículo) e Portaria 346/84 3.º: art. 20.º n.º 1 (corpo); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 3.º: linhas de peróxidos e de matérias comburentes; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 3.º: linha de nitratos embalados ou adubos nitrados; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 4.º suprime o n.º 2 do art. 20.º (com a epígrafe); consolidado vazio, correcto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 4.º: art. 23.º n.º 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 5.º: art. 25.º n.º 1; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 6.º: art. 26.º n.º 1 (primeiro período, que é o único); igual ('pipano' é gralha do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 30.º n.º 3 e epígrafe; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 33.º n.º 1; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 33.º n.º 2; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º e 4.º: n.º 5 nova redacção e epígrafe; n.º 6 suprimido (com epígrafe); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: art. 33.º n.º 7; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 2.º: n.º 8; Portaria 346/84 7.º: aditamento do n.º 9 com epígrafe; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Decreto-Lei 334/83 art. 3.º: art. 41.º com nova redacção; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 5.º substitui o quadro I (estrada) pela imagem do alterador (endereço 17381761); a Nota do quadro antigo cai com a substituição.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 5.º substitui o quadro II (estrada) pela imagem do alterador (endereço 17381761).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 5.º substitui o apêndice I pela imagem do alterador, com os títulos do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Portaria 367/86 5.º substitui o apêndice II pela imagem do alterador, com o título do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 11.º a 12.º: imagem nova acrescentada ao n.º 3 do apêndice III; n.os 4 a 7 suprimidos; n.º 8 passa a n.º 4 com texto novo; quadro só em imagem (justificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Portaria 346/84 13.º: n.º 9 passa a n.º 5 com a redacção nova; Declaração: 'Anexo IV' passa a 'Apêndice IV'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: figura do n.º 2 do art. 30.º ('Deve levar a cor preta na cercadura.')",
+    "motivo": "só em imagem: indicação sobre a figura, que só existe em imagem"
+   },
+   {
+    "instrucao": "Declaração: figura do n.º 1 do apêndice III ('cor preta na cercadura e na linha horizontal separadora')",
+    "motivo": "só em imagem: indicação sobre a figura"
+   },
+   {
+    "instrucao": "Portaria 346/84, 8.º: derrogações na utilização do quadro I",
+    "motivo": "não textual: regra autónoma que não dá nova redação ao quadro (que é imagem e foi depois substituído pela Portaria 367/86, 5.º)"
+   },
+   {
+    "instrucao": "Portaria 346/84, 11.º: número de identificação 46 em vez de 436 para o fósforo branco ou amarelo (tabela do n.º 3 do apêndice III)",
+    "motivo": "só em imagem; a imagem nova do alterador foi acrescentada ao corpo do n.º 3"
+   },
+   {
+    "instrucao": "Portaria 346/84, 12.º: quadro do novo n.º 4 do apêndice III completado com o algarismo 4",
+    "motivo": "só em imagem: o alterador não traz o quadro completado"
+   },
+   {
+    "instrucao": "Portaria 367/86, 5.º: modelo do certificado de aprovação de veículos",
+    "motivo": "o modelo não vem no texto do alterador (sem texto)"
+   },
+   {
+    "instrucao": "Decreto-Lei 77/97, art. 14.º n.º 2 a): revogação do DL 143/79 e das Portarias 346/84 e 367/86",
+    "motivo": "efeito adiado: só na data de entrada em vigor da portaria prevista no n.º 4 do art. 1.º do DL 77/97 (confirmado no texto)"
+   },
+   {
+    "instrucao": "Portaria 346/84, 9.º (texto da 'Carga máxima' no quadro II) e 10.º (apêndice II, classe 4.2, n.º 6); Declaração (quadro II, apêndices I e II)",
+    "motivo": "visam texto de apêndices/quadros que só existe em imagem ou foi depois substituído integralmente pela Portaria 367/86, 5.º (imagens do alterador); NOTA: este motivo é de substituição posterior, não consta da secção do consolidador"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

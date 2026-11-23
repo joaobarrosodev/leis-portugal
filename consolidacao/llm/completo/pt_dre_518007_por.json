@@ -9,14 +9,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, extinção do Corpo de Voluntários da Província de Macau (artigo 19.º, n.º 1): não textual — extingue o serviço em Macau sem alterar nem revogar texto do original",
   "instrucoes": [
-    "DL 46322, artigo único: no artigo 9.º o § único passa a § 2.º e adita-se o § 1.º; aplicado.",
-    "DL 705/75, art. 19.º: extingue o Corpo de Voluntários de Macau; não é alteração textual do original; nada a fazer."
+    "Alterador 1 (DL 46322), artigo único: no artigo 9.º, o § único passa a § 2.º e é acrescido o § 1.º. Corpo do artigo copiado do texto atual; § 1.º copiado letra a letra do alterador; o texto do antigo § único copiado do texto atual, com a designação «§ 2.º» que a própria instrução lhe dá («o actual § único passa a constituir o § 2.º»). O reparo não se confirma: a mudança de designação vem da instrução, como uma renumeração ([Anterior n.º 2]); manter «§ único» ao lado de um § 1.º contrariaria o alterador.",
+    "Alterador 2 (DL 705/75): cria as Forças de Segurança de Macau e extingue em Macau o Corpo de Voluntários (artigo 19.º); não dá redação nem revoga artigos do original — em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [
     "9.º: parágrafo que não está no alterador nem no original: § 2.º O comandante provincial terá a categoria de director de serviço nas provín"
-  ]
+  ],
+  "avisos": []
 }

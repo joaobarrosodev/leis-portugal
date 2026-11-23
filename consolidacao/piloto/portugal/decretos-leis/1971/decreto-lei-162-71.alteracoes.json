@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\n1. O provimento dos lugares das escolas primárias dos bairros de casas económicas do Estado ou de entidades de carácter oficial pode ser feito independentemente de concurso, devendo, porém, a nomeação recair em professores do quadro geral em exercício com pelo menos 14 valores de diploma, dez anos de serviço e menos de 40 anos de idade, tendo preferência absoluta os que provem haverem prestado, durante pelo menos quatro anos, serviço classificado de suficiente em escolas fora das sedes de distritos, fora dos concelhos limítrofes dos de Lisboa e Porto, das sedes dos outros concelhos urbanos e das dos rurais de 1.ª ordem.\n\n2. Os professores colocados nos termos do n.º 1 devem prestar aos alunos e às suas famílias a assistência cultural e educacional que for determinada por despacho ministerial, sob proposta da Direcção-Geral do Ensino Primário.\n\n3. Durante a segunda quinzena de Julho de cada ano será publicada no Diário do Governo a lista das vagas a prover nos termos deste artigo, em relação ao ano lectivo seguinte, a fim de que os interessados possam requerer a sua nomeação.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 598/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1974-471529), publicado em 1974-11-07.",
+    "excerto": "Art. 5.º É revogado o artigo 6.º do Decreto-Lei n.º 162/71, de 24 de Abril, devendo o provimento dos lugares das escolas primárias dos bairros de casas económicas do Estado ou de entidades de carácter oficial passar a fazer-se nos termos do Decreto n.º 19531, de 30 de Março de 1931, e demais legislação complementar.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444725:por",
+    "alterador": "pt:dre:471529:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, passa a ter a seguinte redacção:\n\n###### Artigo 1.º ...\n\n§ 1.º Será criado um lugar de professor do ensino primário para cada grupo de trinta e cinco crianças em idade escolar, não ficando, porém, sujeita a esse número nem a criação de lugares nas freguesias onde não haja outra escola e nas localidades cuja distância à escola mais próxima seja superior a 3 km, nem a criação de lugares destinados a alunos deficientes motores ou sensoriais.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444725:por",
+    "alterador": "pt:dre:307616:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. Quando os alunos matriculados numa escola excederem em não menos de quinze o número correspondente aos lugares docentes em funcionamento, criados com base no mínimo fixado na primeira parte do § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, na redacção dada no artigo 2.º do presente diploma, poderá ser criado mais um lugar.\n\n2. Os lugares de frequência mista integram-se nas escolas em que funcionam.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444725:por",
+    "alterador": "pt:dre:307616:por"
+  }
+]

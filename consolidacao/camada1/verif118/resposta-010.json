@@ -1,0 +1,57 @@
+[
+ {
+  "id": "pt:dre:402880:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. único do DL 12/92; n.os 1 a 3 iguais letra a letra ao texto do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "errado",
+    "motivo": "O art. 6.º, n.º 1 do DL 294/97 revoga as bases anexas ao DL 315/91 (a excepção é a base XXIII anexa ao DL 458/85, outro diploma). O consolidado juntou o título do anexo I (DR 261/91, certo) e 54 «(Revogada.)» soltos, mas deixou por baixo o texto antigo integral das Bases I a LIV (e ainda sem as rectificações da DR 261/91 nem as redacções do DL 193/92 e DL 330-A/95), o que é texto antigo a seguir a «(Revogada.)». Os 54 «(Revogada.)» também estão antes da assinatura e fora das bases a que se referem.",
+    "texto_esperado": "Artigo 5.º: parágrafo de autorização igual ao original; assinatura (Visto e aprovado… Referendado…); ANEXO I — Bases do contrato de concessão; Relação das bases (I a LIV, como está); depois, para cada Base I a LIV, o título «Base N» e a epígrafe, com corpo «(Revogada.)» e sem nenhum texto antigo das bases."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 261/91: base IX n.º 4, «alíneas c) e d)» devia ser «alíneas b), c) e d)» (texto da base IX ainda com «c) e d)»; moot só se a base ficar só «(Revogada.)»)",
+   "DR 261/91: base XIX n.º 2, «laínea» devia ser «alínea» (por corrigir; idem)",
+   "DR 261/91: base XXIII n.º 3, «licitações» devia ser «solicitações» (por corrigir; idem)",
+   "DR 261/91: base XXVIII n.º 6, «por estas» devia ser «por esta» (por corrigir; idem)",
+   "DL 193/92 (base XVIII n.os 6 a 12 novos): n.º 6 é a nova redacção sobre aprovação de taxas, n.os 7 a 12 multa, auto de notícia, equipamentos; consolidado mantém o texto antigo (n.º 6 triplo da taxa, n.º 7 aprovação) (idem, prejudicada pela revogação da base XVIII)",
+   "DL 330-A/95 art. 3.º: aditamento do n.º 8 à base I; art. 4.º: n.º 9 à base I; art. 6.º: base XLIII passa a 31/12/2025 (consolidado ainda diz 2020) – sem efeito no texto; alvo incerto, prejudicadas pela revogação das bases pelo art. 6.º n.º 1 do DL 294/97",
+   "DL 294/97 art. 6.º n.º 1: revogação das bases I a LIV – só aplicada em marcadores soltos, o corpo das bases não ficou «(Revogada.)»"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "RCM 46/93, n.os 1 a 3: ampliação da concessão ao lanço Malveira-Torres Vedras",
+    "motivo": "não textual (ampliação do objecto, sem nova redacção); confirmado no texto"
+   },
+   {
+    "instrucao": "DL 81/96, arts. 1.º a 3.º: ampliação da concessão (A 6 e A 12)",
+    "motivo": "não textual; confirmado no texto"
+   },
+   {
+    "instrucao": "DL 294/97 art. 4.º: remissões de outros diplomas (DL 130/93, Portaria 762/93) para a base XVIII",
+    "motivo": "instrução de outros diplomas; confirmado"
+   },
+   {
+    "instrucao": "DL 314-A/2002 art. 4.º n.º 1: revogação do art. 4.º do DL 330-A/95 e repristinação do regime de portagem da CREL nos termos da base I do anexo I do DL 314-A/2002",
+    "motivo": "o art. 4.º do DL 330-A/95 é de outro diploma; a repristinação faz-se «nos termos» da base do anexo do DL 314-A/2002, não é texto novo do original; confirmado"
+   },
+   {
+    "instrucao": "DL 314-A/2002 art. 4.º n.º 2, anexos I e II, arts. 1.º a 3.º e 5.º",
+    "motivo": "alteram o contrato anexo ao DL 294/97 ou são não textuais; não visam o texto do original"
+   },
+   {
+    "instrucao": "DL 330-A/95 art. 7.º e DL 474-A/99",
+    "motivo": "art. 7.º é medida financeira sem nova redacção do original; o DL 474-A/99 não visa o original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

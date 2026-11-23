@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-01-01'
+version_history:
+  file: decreto-legislativo-regional-3-2012-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-01-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: pt:dre:72970526:por
+    amending_title: Decreto Legislativo Regional n.º 27/2015/A
+    changes:
+    - Revoga Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/3/2012/01/13/a/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    27/2015/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2012/decreto-legislativo-regional-3-2012-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -515,11 +530,9 @@ O regime excecional previsto no presente diploma é aplicável aos contratos de 
 
 ###### Artigo 24.º — Redução do valor da caução nos contratos públicos
 
-1 - Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços que sejam celebrados pelas entidades adjudicantes referidas no artigo 2.º do [Decreto Legislativo Regional n.º 34/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-454780), de 28 de julho, após a data da entrada em vigor do presente diploma e até 31 de dezembro de 2013, o valor da caução exigida ao adjudicatário com vista a garantir a celebração do contrato, bem como o exato e pontual cumprimento de todas as obrigações legais e contratuais, é reduzido para 2 % do preço contratual.
+(Revogado.)
 
-2 - Nos contratos de empreitada de obras públicas que sejam celebrados pelas entidades adjudicantes referidas no número anterior após a data da entrada em vigor do presente diploma e até 31 de dezembro de 2013, não pode ser exigido ao cocontratante, em cada um dos pagamentos parciais previstos, um reforço da caução prestada em valor superior a 2 %.
-
-3 - Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços celebrados pelas entidades adjudicantes referidas no n.º 1 e que estejam em execução à data da entrada em vigor do presente diploma, o valor da caução prestada pelo adjudicatário pode ser reduzida para 2 % do preço contratual, desde que tenha tido lugar a receção provisória ou o início do período de garantia, consoante o caso, essa redução seja requerida pelo cocontratante e não se verifiquem circunstâncias que permitam, ou previsivelmente venham a permitir, a execução da caução.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 27/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), publicado em 2015-12-29.
 
 ### CAPÍTULO IX — Adaptação do sistema fiscal
 

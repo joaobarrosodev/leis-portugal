@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2006-01-01'
+  consolidation_date: '2010-01-01'
 version_history:
   file: decreto-lei-511-99.versoes.json
   count: 2
@@ -51,9 +51,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2006-01-01'
+  - date: '2010-01-01'
     amending: pt:dre:578727:por
-    amending_title: Decreto-Lei n.º 321/2001; Decreto-Lei n.º 228/2003; Decreto-Lei n.º 157/2005
+    amending_title: Decreto-Lei n.º 321/2001; Decreto-Lei n.º 228/2003; Decreto-Lei n.º 157/2005; Decreto-Lei n.º 299/2009
     changes:
     - Altera Artigo 16.º
     - Altera Artigo 17.º
@@ -63,6 +63,38 @@ version_history:
     - Altera Artigo 29.º
     - Altera Artigo 31.º
     - Altera Artigo 36.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 17-A
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 23
+    - Revoga Artigo 24
+    - Revoga Artigo 25
+    - Revoga Artigo 26
+    - Revoga Artigo 27
+    - Revoga Artigo 28
+    - Revoga Artigo 29
+    - Revoga Artigo 30
+    - Revoga Artigo 31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre/pt/html
@@ -89,7 +121,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:14:18Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 321/2001; Decreto-Lei
-    n.º 228/2003; Decreto-Lei n.º 157/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-511-99.alteracoes.json'
+    n.º 228/2003; Decreto-Lei n.º 157/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-511-99.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 299/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -224,103 +258,41 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-É aprovado o Estatuto do Pessoal da Polícia de Segurança Pública, anexo ao presente diploma e do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 299/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2009-491437), publicado em 2009-10-14, com efeitos a partir de 2010-01-01.
 
 ###### Artigo 2.º
 
-São extintos os postos de chefe de esquadra, subchefe principal, subchefe-ajudante, primeiro-subchefe, segundo-subchefe, guarda principal, guarda de 1.ª classe e guarda de 2.ª classe, transitando os respectivos efectivos para os postos criados pelo Estatuto aprovado pelo presente diploma nos termos do disposto no artigo seguinte.
+(Revogado.)
 
 ###### Artigo 3.º
 
-1 - Sem prejuízo do disposto nos números seguintes, a transição faz-se para a mesma carreira, categoria ou posto.
-
-2 - A transição do pessoal integrado no posto de chefe de esquadra faz-se para o posto de subcomissário.
-
-3 - A transição do pessoal integrado nos postos de subchefe principal, subchefe-ajudante, primeiro-subchefe e segundo-subchefe faz-se de acordo com as seguintes regras:
-
-a) Os subchefes principais e os subchefes-ajudantes para o posto de subchefe principal;
-
-b) Os primeiros-subchefes e os segundos-subchefes para o posto de subchefe.
-
-4 - A transição do pessoal integrado nos postos de guarda principal, guarda de 1.ª classe e guarda de 2.ª classe faz-se de acordo com as seguintes regras:
-
-a) Os guardas principais e os guardas de 1.ª classe para o posto de agente principal;
-
-b) Os guardas de 2.ª classe para o posto de agente.
-
-5 - Na transição para os postos de subchefe principal, subchefe e agente principal, resultantes, respectivamente, da agregação dos anteriores postos de subchefe principal, subchefe-ajudante, primeiro-subchefe, segundo-subchefe, guarda principal e guarda de 1.ª classe, é contado no novo posto o tempo de serviço, para efeitos de promoção, prestado nos postos anteriores.
+(Revogado.)
 
 ###### Artigo 4.º
 
-1 - A transição do pessoal para a nova estrutura indiciária far-se-á de acordo com as seguintes regras:
-
-a) Na carreira de oficiais de polícia, para o escalão da nova estrutura a que corresponda o escalão equivalente da estrutura anterior ou, não havendo correspondência, para o último escalão do respectivo posto, com excepção dos chefes de esquadra, cuja transição é feita para o escalão do posto de subcomissário a que corresponda, na estrutura deste posto, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado;
-
-b) O pessoal integrado no posto de subchefe principal para o último escalão do posto de subchefe principal;
-
-c) O pessoal integrado no posto de subchefe-ajudante, para escalão da nova estrutura do posto de subchefe principal correspondente ao escalão onde se encontra posicionado;
-
-d) O pessoal integrado no posto de primeiro-subchefe:
-
-Posicionado nos 1.º e 2.º escalões, para o 2.º escalão do posto de subchefe;
-
-Posicionado nos 3.º e 4.º escalões, para o 3.º escalão do posto de subchefe;
-
-Posicionado no 5.º escalão, para o 4.º escalão do posto de subchefe;
-
-e) O pessoal integrado no posto de segundo-subchefe, para o 1.º escalão do posto de subchefe;
-
-f) O pessoal integrado no posto de guarda principal:
-
-Posicionados nos 1.º 2.º escalões, para o 5.º escalão de agente principal;
-
-Posicionados no 3.º escalão, para o 6.º escalão de agente principal;
-
-g) O pessoal integrado no posto de guarda de 1.ª classe:
-
-Posicionado nos 1.º e 2.º escalões, para o 1.º escalão de agente principal;
-
-Posicionado nos 3.º e 4.º escalões, para o 2.º escalão de agente principal;
-
-Posicionado no 5.º escalão, para o 3.º escalão de agente principal;
-
-Posicionado nos 6.º e 7.º escalões, para o 4.º escalão de agente principal;
-
-h) O pessoal integrado no posto de guarda de 2.ª classe, para o escalão correspondente da nova estrutura do posto de agente ou, não havendo correspondência, para o último escalão do respectivo posto;
-
-i) Na transição para a nova estrutura indiciária, para efeito de progressão nos escalões em que vierem a ser posicionados será contado todo o tempo de permanência que detenham no escalão da estrutura indiciária anterior.
-
-2 - Os oficiais de polícia posicionados nos índices 345 e 380 da actual estrutura remuneratória, por força do disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 298/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182), de 16 de Agosto, transitam para o último escalão dos respectivos postos.
+(Revogado.)
 
 ###### Artigo 5.º
 
-1 - A integração dos oficiais, subchefes e agentes nos escalões dos respectivos postos não depende de quaisquer formalidades.
-
-2 - Pelos competentes serviços da Polícia de Segurança Pública serão publicadas listas de transição para a nova estrutura remuneratória, para conhecimento de todos os interessados.
-
-3 - Da integração cabe recurso hierárquico, nos termos legais, sem prejuízo de recurso contencioso, nos termos gerais.
+(Revogado.)
 
 ###### Artigo 6.º
 
-Da aplicação do Estatuto aprovado pelo presente diploma não pode resultar redução das remunerações actualmente auferidas.
+(Revogado.)
 
 ###### Artigo 7.º
 
-1 - Durante o período de cinco anos contados a partir da data de entrada em vigor do Estatuto aprovado pelo presente diploma, o recrutamento para o posto de subcomissário é alargado ao pessoal oriundo da carreira de subchefe não detentor de licenciatura conferida pelo Instituto Superior de Ciências Policiais desde que aprovado em curso de formação de acesso ao posto de subcomissário.
-
-2 - Durante o período transitório a que se refere o número anterior, a posse de cinco anos de serviço no posto de comissário preencherá o requisito de tempo de serviço para promoção ao posto de subintendente.
-
-3 - Para salvaguarda da normal progressão na carreira dos oficiais de polícia não possuidores de licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna, é lhes reservado um terço das vagas existentes no posto de subintendente.
+(Revogado.)
 
 ###### Artigo 8.º
 
-1 - Os cursos de promoção iniciados antes da entrada em vigor do presente diploma mantêm a respectiva validade até à sua conclusão.
-
-2 - O pessoal que vier a ser promovido em resultado dos cursos referidos no número anterior será reposicionado por referência ao posto a que foi promovido, nos termos das regras constantes nos artigos 3.º e 4.º do presente diploma, com efeitos reportados à data fixada no respectivo despacho de promoção.
+(Revogado.)
 
 ###### Artigo 9.º
 
-O pessoal na situação de pré-aposentação em efectividade de serviço que se encontre nas condições fixadas no artigo 1.º do [Decreto-Lei n.º 66/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1998-197364), de 18 de Março, mantém-se na mesma situação, sendo-lhe aplicável o regime constante do referido diploma legal.
+(Revogado.)
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
 
@@ -340,47 +312,27 @@ ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
 
 ###### Artigo 1.º — Âmbito
 
-O presente diploma regula o Estatuto do Pessoal da Polícia de Segurança Pública, adiante designada por PSP.
+(Revogado.)
 
 ### CAPÍTULO II — Efectivos de pessoal
 
 ###### Artigo 2.º — Enquadramento profissional
 
-O pessoal da PSP, de acordo com a natureza das correspondentes funções, é distribuído por quadros, carreiras e categorias ou postos.
+(Revogado.)
 
 ###### Artigo 3.º — Quadros de pessoal
 
-1 - O pessoal da PSP é distribuído pelos seguintes quadros:
-
-a) Pessoal com funções policiais;
-
-b) Pessoal com funções não policiais.
-
-2 - Os quadros de pessoal são aprovados mediante portaria dos Ministros da Administração Interna e das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.
-
-3 - Na estruturação do quadro de pessoal com funções policiais serão fixadas dotações por posto, salvo no que respeita às carreiras de subchefe de polícia e agentes de polícia, cuja dotação é fixada para o conjunto dos postos nelas integrados.
-
-4 - Na carreira de oficial de polícia será fixada dotação global para o conjunto dos postos de subintendente e comissário, não podendo, contudo, o número de lugares ocupados por subintendentes exceder 40% do número de lugares globalmente fixados.
-
-5 - Na estruturação do quadro de pessoal com funções não policiais serão observadas as disposições legais constantes do regime geral aplicável à Administração Pública.
+(Revogado.)
 
 ###### Artigo 4.º — Distribuição de efectivos
 
-1 - As dotações de pessoal dos diversos comandos, estabelecimentos de ensino, unidades, subunidades e serviços da PSP serão fixadas por despacho do Ministro da Administração Interna, sob proposta do director nacional.
-
-2 - A distribuição do pessoal no âmbito de cada unidade orgânica é da competência do respectivo comandante ou chefe.
+(Revogado.)
 
 ### CAPÍTULO III — Admissão de pessoal
 
 ###### Artigo 5.º — Formas de provimento
 
-1 - A admissão de pessoal na PSP faz-se por nomeação ou contrato, nos termos da lei geral e do presente Estatuto.
-
-2 - A admissão do pessoal nos quadros faz-se por nomeação, a qual é provisória durante o período probatório, com a duração de um ano, convertendo-se em definitiva nos termos e condições previstos no presente Estatuto.
-
-3 - A admissão de pessoal na PSP para efeitos de frequência dos cursos adequados ao ingresso em carreiras do pessoal com funções policiais, ministrados pelo Instituto de Ciências Policiais e Segurança Interna e pela Escola Prática de Polícia, faz-se em regime de contrato administrativo de provimento, pelo tempo correspondente ao período de duração total estabelecido nos programas de cada um daqueles cursos, incluindo as repetições admitidas, nos termos das respectivas disposições regulamentares.
-
-4 - Na situação prevista no número anterior, quando a admissão recair em indivíduo nomeado definitivamente no quadro de pessoal com funções policiais, esta far-se-á em regime de comissão extraordinária de serviço, nos termos e condições constantes da lei geral.
+(Revogado.)
 
 ### CAPÍTULO IV — Situações do pessoal
 
@@ -388,205 +340,89 @@ b) Pessoal com funções não policiais.
 
 ###### Artigo 6.º — Situações
 
-O pessoal com funções policiais pode encontrar-se numa das seguintes situações:
-
-a) Activo;
-
-b) Inactividade temporária;
-
-c) Pré-aposentação;
-
-d) Aposentação.
+(Revogado.)
 
 ##### SUBSECÇÃO I — Pessoal no activo
 
 ###### Artigo 7.º — Situação de activo
 
-1 - Considera-se na situação de activo o pessoal que se encontre em efectividade de funções ou em situação legalmente equiparada.
-
-2 - O pessoal com funções policiais na situação de activo pode encontrar-se:
-
-a) Em comissão normal de serviço;
-
-b) Em comissão extraordinária de serviço;
-
-c) Em comissão especial de serviço.
+(Revogado.)
 
 ###### Artigo 8.º — Comissão normal de serviço
 
-1 - É considerado em comissão normal de serviço o pessoal que preste serviço nos comandos, unidades, subunidades, estabelecimentos de ensino e serviços da PSP ou desempenhe funções nos casos previstos no artigo 96.º da Lei de Organização e Funcionamento da PSP, aprovada pela [Lei n.º 5/99](https://diariodarepublica.pt/dr/detalhe/lei/5-1999-180022), de 27 de Janeiro.
-
-2 - É considerado, ainda, em comissão normal de serviço o pessoal do quadro policial destacado ou requisitado para qualquer serviço de segurança ou para qualquer departamento do Ministério da Administração Interna, bem como o que se encontre a frequentar cursos ou estágios de formação inerentes à normal evolução nas carreiras.
-
-3 - O pessoal que, nos termos dos números anteriores, se encontre em comissão normal de serviço mantém os direitos e regalias inerentes à situação de origem, salvo os que suponham a prestação efectiva de funções policiais.
+(Revogado.)
 
 ###### Artigo 9.º — Comissão extraordinária de serviço
 
-Considera-se em comissão extraordinária de serviço o pessoal que se encontre na situação prevista no n.º 4 do artigo 5.º
+(Revogado.)
 
 ###### Artigo 10.º — Comissão especial de serviço
 
-É considerado em comissão especial de serviço o pessoal que:
-
-a) Desempenhe funções públicas fora dos casos previstos nos artigos anteriores;
-
-b) Seja nomeado para o desempenho de funções qualificadas como de interesse público.
+(Revogado.)
 
 ###### Artigo 11.º — Situações em relação ao quadro
 
-Em relação ao quadro, o pessoal pode estar:
-
-a) No quadro;
-
-b) Adido ao quadro;
-
-c) Supranumerário.
+(Revogado.)
 
 ###### Artigo 12.º — Pessoal do quadro
 
-Considera-se no quadro o pessoal que ocupa as respectivas vagas e é contado nas dotações aprovadas, nos termos do disposto nos n.os 2 e 3 do artigo 3.º
+(Revogado.)
 
 ###### Artigo 13.º — Adido ao quadro
 
-1 - Considera-se adido ao quadro o pessoal que se encontre em alguma das seguintes situações:
-
-a) Em comissão especial de serviço;
-
-b) Em comissão extraordinária de serviço;
-
-c) Em inactividade temporária por acidente, doença ou por motivos disciplinar ou criminal, quando a pena aplicada seja de duração superior a três meses;
-
-d) Em licença de longa duração;
-
-e) Em pré-aposentação, na efectividade de serviço.
-
-2 - Considera-se, ainda, adido ao quadro o pessoal em comissão normal de serviço:
-
-a) Que faça parte de unidades ou formações de constituição eventual ou de carácter temporário não previstas na Lei de Organização e Funcionamento da PSP;
-
-b) Que esteja em situação em que passe a ser remunerado por outros departamentos do Estado;
-
-c) Que aguarde a execução de decisões que determinem a separação do serviço ou que, tendo passado à situação de pré-aposentação ou de aposentação, aguarde a publicação do acto que determinou a sua mudança de situação;
-
-d) Que esteja fisicamente diminuído, em consequência de ferimentos contraídos no exercício das suas funções de manutenção da ordem e tranquilidade públicas ou de tarefas com aquelas directamente relacionadas, e seja considerado apto para o desempenho de cargos ou funções que dispensem plena validez;
-
-e) Na situação de activo a quem sejam tornadas extensivas as disposições respeitantes aos deficientes das Forças Armadas.
+(Revogado.)
 
 ###### Artigo 14.º — Supranumerário
 
-1 - Considera-se supranumerário o pessoal com funções policiais na situação de activo e em comissão normal de serviço que, não sendo adido, não tenha vaga no quadro.
-
-2 - O pessoal supranumerário preenche obrigatoriamente a primeira vaga que ocorra no respectivo quadro e no seu posto, por ordem cronológica da sua colocação naquela situação, ressalvados os casos especiais previstos na lei.
-
-3 - A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
-
-a) Por promoção por distinção;
-
-b) Por regresso da situação de adido;
-
-c) Por reabilitação em consequência de revisão de processo disciplinar ou criminal.
+(Revogado.)
 
 ##### SUBSECÇÃO II — Inactividade temporária
 
 ###### Artigo 15.º
 
-Considera-se em inactividade temporária o pessoal que se encontre afastado do serviço por prazo determinado ou indeterminado, designadamente por motivo de doença ou acidente ou por aplicação de pena disciplinar ou criminal.
+(Revogado.)
 
 ##### SUBSECÇÃO III — Pré-aposentação
 
 ###### Artigo 16.º — Situação de pré-aposentação
 
-1 - Pré-aposentação é a situação para a qual transita o pessoal que declare manter-se disponível para o serviço, desde que se verifique uma das seguintes condições:
-
-a) Atinja o limite de idade estabelecido para o respectivo posto;
-
-b) Tenha pelo menos 55 anos de idade e 36 anos de serviço e requeira a passagem a essa condição;
-
-c) Seja considerado pela Junta Superior de Saúde com incapacidade parcial permanente para o exercício das correspondentes funções, mas apresente capacidade para o desempenho de outras funções.
-
-2 - A declaração de disponibilidade para o serviço a que se refere o número anterior deve ser apresentada até aos 30 dias anteriores à passagem à situação de pré-aposentação, no caso previsto na alínea a), ou conjuntamente com o requerimento a solicitar a mudança de situação, nos demais casos.
-
-3 - A passagem à situação de pré-aposentação depende, em todos os casos, de despacho do Ministro da Administração Interna, podendo esta competência ser delegada no director nacional.
-
-4 - O pessoal abrangido pelas situações de pré-aposentação pode, a todo o tempo, renunciar a essa situação, ficando sujeito ao regime geral de aposentação.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 17.º — Regime
 
-1 - Na situação de pré-aposentação, o pessoal presta serviço compatível com o seu estado físico ou intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometidas, salvo em casos excepcionais, funções de comando ou de direcção.
-
-2 - O regime de prestação de serviço previsto no número anterior é definido por portaria do Ministro da Administração Interna.
-
-3 - Na situação de pré-aposentação, o pessoal continua sujeito ao regime de incompatibilidades enquanto se encontrar em efectividade de serviço e conserva os direitos e regalias do pessoal no activo, com excepção dos seguintes:
-
-a) Direito de ocupação de lugar no quadro de pessoal;
-
-b) Direito de promoção.
-
-4 - A remuneração do pessoal na situação de pré-aposentação é igual à remuneração base média do último ano, acrescida dos suplementos a que porventura tenham direito.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 17.º-A — Contingente em efectividade de serviço
 
-1 - É fixado anualmente, por despacho do Ministro da Administração Interna, o contingente a colocar na situação de pré-aposentação na efectividade de serviço.
-
-2 - Se o número de pessoal em situação de pré-aposentação exceder o contingente definido nos termos do número anterior, é colocado fora da efectividade de serviço, na quantidade excedente, o pessoal que o tenha requerido.
-
-3 - As regras de prioridade no deferimento dos requerimentos são estabelecidas por despacho do director nacional da PSP, tendo em conta a idade e o tempo de serviço.
+(Revogado.)
 
 > Aditado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 18.º — Limites de idade
 
-Os limites de idade da passagem à situação de pré-aposentação para o pessoal com funções policiais nos vários postos são os seguintes:
-
-a) Superintendente-chefe - 62 anos;
-
-b) Superintendente - 60 anos;
-
-c) Intendente - 60 anos;
-
-d) Subintendente - 60 anos;
-
-e) Comissário - 56 anos;
-
-f) Subcomissário - 56 anos;
-
-g) Subchefe - 60 anos;
-
-h) Agente - 60 anos.
+(Revogado.)
 
 ##### SUBSECÇÃO IV — Aposentação
 
 ###### Artigo 19.º — Passagem à aposentação
 
-1 - A aposentação do pessoal com funções policiais rege-se pela legislação aplicável aos funcionários e agentes da Administração Pública, pelas normas constantes do presente Estatuto e demais legislação aplicável.
-
-2 - Transita para a situação de aposentação o pessoal, no activo ou em pré-aposentação, que se encontre em qualquer das seguintes situações:
-
-a) Atinja o limite de idade fixado na lei;
-
-b) Seja colocado nessa situação por motivos disciplinares;
-
-c) Seja considerado incapaz para todo o serviço pela Junta Superior de Saúde, desde que tenha prestado, pelo menos, cinco anos de serviço;
-
-d) Tenha pelo menos 60 anos de idade e a requeira;
-
-e) Complete cinco anos na situação de pré-aposentação.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 20.º — Data da passagem à aposentação
 
-A data da passagem à situação de aposentação é aquela em que, nos termos legais, o pessoal é considerado abrangido pela condição ou despacho que a motivou.
+(Revogado.)
 
 #### SECÇÃO II — Pessoal com funções não policiais
 
 ###### Artigo 21.º — Regime
 
-O pessoal com funções não policiais fica sujeito, nas matérias constantes do presente capítulo, ao regime geral aplicável à Administração Pública.
+(Revogado.)
 
 ### CAPÍTULO V — Carreiras, postos e categorias
 
@@ -594,137 +430,61 @@ O pessoal com funções não policiais fica sujeito, nas matérias constantes do
 
 ###### Artigo 22.º — Carreiras
 
-1 - O pessoal com funções policiais compreende as seguintes carreiras:
-
-a) Oficial de polícia;
-
-b) Subchefe de polícia;
-
-c) Agente de polícia.
-
-2 - As carreiras referidas no número anterior desenvolvem-se por postos.
-
-3 - O ingresso no quadro de pessoal com funções policiais faz-se:
-
-a) No posto de subcomissário da carreira de oficial de polícia para o pessoal com licenciatura adequada ministrada no Instituto Superior de Ciências Policiais e Segurança Interna;
-
-b) No posto de agente da carreira de agente policial para o pessoal habilitado com curso adequado ministrado na Escola Prática de Polícia.
+(Revogado.)
 
 ###### Artigo 23.º — Postos
 
-1 - A carreira de oficial de polícia desenvolve-se pelos seguintes postos:
-
-a) Superintendente-chefe;
-
-b) Superintendente;
-
-c) Intedente;
-
-d) Subintendente;
-
-e) Comissário;
-
-f) Subcomissário.
-
-2 - A carreira de subchefe de polícia desenvolve-se pelos postos:
-
-a) Subchefe principal;
-
-b) Subchefe.
-
-3 - A carreira de agente de polícia desenvolve-se pelos seguintes postos:
-
-a) Agente principal;
-
-b) Agente.
+(Revogado.)
 
 ###### Artigo 24.º — Progressão e promoção
 
-1 - O desenvolvimento das carreiras faz-se por progressão e promoção.
-
-2 - A progressão consiste na mudança de escalão remuneratório e depende do tempo de permanência no escalão imediatamente anterior, nos termos do presente Estatuto, tornando-se efectiva no 1.º dia do mês seguinte ao do preenchimento do correspondente requisito.
-
-3 - A promoção consiste no acesso ao posto imediatamente superior, no âmbito da mesma carreira, ou a posto de ingresso de outra carreira.
-
-4 - A promoção depende cumulativamente das seguintes condições:
-
-a) Existência de vaga, salvo no caso de carreiras ou conjunto de postos com dotação global;
-
-b) Tempo mínimo de antiguidade no posto imediatamente anterior;
-
-c) Aprovação em concurso de avaliação curricular ou em curso de formação adequado, nos termos estabelecidos no presente Estatuto.
-
-5 - Nas carreiras de agente de polícia e de subchefe de polícia, o acesso ao posto superior poderá ainda, nos termos do disposto no n.º 2, processar-se por mera progressão nos escalões remuneratórios.
+(Revogado.)
 
 ###### Artigo 25.º — Promoção
 
-A promoção do pessoal com funções policiais ao posto imediato da respectiva carreira faz-se de acordo com as disposições do presente Estatuto e processa-se na escala remuneratória da seguinte forma:
-
-a) Para o 1.º escalão do posto para o qual se faz a promoção;
-
-b) Para o escalão a que na estrutura remuneratória do posto para o qual se faz a promoção corresponda o índice superior mais aproximado, nos casos em que venha já sendo abonada remuneração base igual ou superior à do 1.º escalão;
-
-c) Para o escalão seguinte àquele que lhe corresponderia por aplicação do disposto nas alíneas anteriores se a remuneração, em caso de progressão, for superior.
+(Revogado.)
 
 ###### Artigo 26.º — Despachos de promoção
 
-1 - A promoção do pessoal com funções policiais é competência do Ministro da Administração Interna.
-
-2 - A competência referida no número anterior é delegável no director nacional da PSP, com excepção dos casos de promoção por distinção previstos nos termos do presente diploma.
-
-3 - Os extractos dos despachos de promoção são publicados na 2.ª série do Diário da República.
+(Revogado.)
 
 ###### Artigo 27.º — Progressão
 
-1 - A mudança de escalão depende, observadas as disposições estatutárias e regulamentares em vigor sobre a antiguidade e avaliação de mérito, da permanência no escalão imediatamente anterior durante os seguintes períodos de tempo:
-
-a) Dois anos no 1.º escalão;
-
-b) Três anos nos restantes.
-
-2 - Para o efeito do disposto no número anterior, a atribuição, nos termos da legislação sobre avaliação de serviço que vier a ser aprovada, de classificação inferior a Satisfatório ou equivalente determina a não consideração do tempo de serviço prestado com essa classificação.
+(Revogado.)
 
 ###### Artigo 28.º — Formalidades da progressão
 
-1 - A progressão é automática e oficiosa.
-
-2 - Mensalmente, os serviços competentes promovem a publicação de listas de pessoal que progrediu nos escalões, para efeitos de processamento dos abonos devidos.
+(Revogado.)
 
 ##### SUBSECÇÃO I — Carreira de oficial de polícia
 
 ###### Artigo 29.º — Superintendente-chefe
 
-O recrutamento para o posto de superintendente-chefe é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre superintendentes com um mínimo de três anos de efectividade de serviço no posto.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 228/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2003-493702), publicado em 2003-09-27.
 
 ###### Artigo 30.º — Superintendente
 
-O recrutamento para o posto de superintendente é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre intendentes com um mínimo de quatro anos de efectividade de serviço no posto.
+(Revogado.)
 
 ###### Artigo 31.º — Intendente
 
-1 - O recrutamento para o posto de intendente é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre subintendentes habilitados com licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna com um mínimo de quatro anos de efectividade de serviço no posto, que tenham frequentado, com aproveitamento, acção formativa adequada.
-
-2 - A acção formativa a que se refere o número anterior integra obrigatoriamente uma componente escolar e a discussão de um trabalho inédito sobre tema relevante do âmbito da segurança interna.
-
-3 - Para efeitos de classificação final no concurso de avaliação curricular, a componente escolar da acção formativa e o trabalho inédito relevam com a ponderação de 25% e 15%, respectivamente.
-
-4 - As normas de admissão, frequência e avaliação, bem como a estrutura da acção formativa são aprovadas por portaria do Ministro da Administração Interna.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 228/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2003-493702), publicado em 2003-09-27.
 
 ###### Artigo 32.º — Subintendente
 
-O recrutamento para o posto de subintendente é feito, mediante concurso de avaliação curricular, de entre comissários com um mínimo de seis anos de efectividade de serviço no posto.
+(Revogado.)
 
 ###### Artigo 33.º — Comissário
 
-O recrutamento para o posto de comissário é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre subcomissários com um mínimo de quatro anos de efectividade de serviço no posto.
+(Revogado.)
 
 ###### Artigo 34.º — Subcomissário
 
-1 - Ingressam no posto de subcomissário os indivíduos habilitados com licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna, com efeitos reportados ao dia 1 de Julho do ano em que concluírem, com aproveitamento, o respectivo estágio.
+1 - (Revogado.)
 
 2 - Os oficiais de polícia referidos no número anterior obrigam-se, na data do respectivo ingresso na carreira, à prestação do tempo de serviço mínimo de 10 anos, sob pena de indemnização à Fazenda Nacional, em termos a fixar por despacho do Ministro da Administração Interna, tendo em consideração, designadamente, a duração e os custos da formação recebida e as subsequentes acções de qualificação e actualização, bem como o tempo de serviço prestado.
 
@@ -732,15 +492,11 @@ O recrutamento para o posto de comissário é feito, mediante concurso de avalia
 
 ###### Artigo 35.º — Subchefe principal
 
-1 - O recrutamento para o posto de subchefe principal é feito, mediante concurso de avaliação curricular, de entre subchefes com um mínimo de cinco anos de efectivo serviço no posto.
-
-2 - O acesso ao posto de subchefe principal far-se-á, igualmente por progressão, de entre subchefes posicionados no último escalão do correspondente posto e que nele detenham um mínimo de três anos de antiguidade.
-
-3 - A promoção a subchefe principal, nos termos do n.º 1, não depende de vaga, devendo contudo o despacho que autoriza a abertura do concurso fixar o número de lugares a preencher por este método, até ao limite máximo correspondente a 25% do universo de potenciais candidatos.
+(Revogado.)
 
 ###### Artigo 36.º — Subchefe
 
-O recrutamento para o posto de subchefe é feito, de acordo com as vagas existentes, de entre agentes principais, independentemente do número de anos de serviço, ou de entre agentes que tenham um mínimo de sete anos de serviço efectivo no posto, habilitados com curso de formação adequado ministrado pela Escola Prática de Polícia, pela ordem de classificações obtidas no respectivo curso, ao qual são admitidos mediante processo de selecção adequado, nos termos de regulamento aprovado por portaria do Ministro da Administração Interna.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 321/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2001-578727), publicado em 2001-12-14.
 
@@ -748,95 +504,45 @@ O recrutamento para o posto de subchefe é feito, de acordo com as vagas existen
 
 ###### Artigo 37.º — Agente principal
 
-1 - O recrutamento para o posto de agente principal é feito, mediante concurso de avaliação curricular, de entre agentes com um mínimo de quatro anos de efectivo serviço no posto.
-
-2 - O acesso ao posto de agente principal far-se-á, igualmente, por progressão de entre os agentes posicionados no último escalão do correspondente posto e que nele contem três anos de antiguidade.
-
-3 - A promoção a agente principal, nos termos do n.º 1, não depende de vaga, devendo, contudo, o despacho que autoriza a abertura do concurso fixar o número de lugares a preencher por este método, até ao limite máximo correspondente a 25% do universo de potenciais candidatos.
+(Revogado.)
 
 ###### Artigo 38.º — Agente
 
-1 - Ingressam no posto de agente os indivíduos habilitados com curso adequado ministrado na Escola Prática de Polícia, de acordo com a classificação obtida neste curso.
-
-2 - O plano do curso referido no número anterior é aprovado por despacho do Ministro da Administração Interna, sob proposta do director nacional da PSP, e objecto de publicação na 2.ª série do Diário da República.
-
-3 - A admissão à frequência do curso faz-se de entre indivíduos com idade compreendida entre 20 e 25 anos possuidores do 11.º ano de escolaridade ou equivalente e mediante concurso público, onde, para além da prova de conhecimentos, poderão ser utilizados outros métodos de selecção a aprovar por despacho do Ministro da Administração Interna.
+(Revogado.)
 
 ##### SUBSECÇÃO IV — Funções
 
 ###### Artigo 39.º — Descrição de funções
 
-As funções genéricas a desempenhar pelo pessoal com funções policiais são as constantes do anexo I ao presente Estatuto, de que faz parte integrante, sem prejuízo de lhe poderem ser atribuídas outras funções que resultem necessárias por imperativo da missão cometida à PSP.
+(Revogado.)
 
 ##### SUBSECÇÃO V — Promoção por distinção
 
 ###### Artigo 40.º — Promoção por distinção
 
-1 - A promoção por distinção consiste no acesso a posto superior, independentemente da existência de vagas e da satisfação das condições gerais de promoção, e tem por finalidade premiar:
-
-a) Elementos que tenham cometido feitos de extraordinária valentia ou de excepcional abnegação na defesa de pessoas e bens ou do património nacional com risco da própria vida;
-
-b) Elementos que tenham demonstrado ao longo da carreira elevada competência técnica e profissional, demonstrativa de altos dotes de comando ou de chefia, bem como da prestação de serviços relevantes que contribuam para o prestígio da PSP e do País.
-
-2 - As promoções referidas nos números anteriores são da competência do Ministro da Administração Interna, mediante proposta do director nacional, ouvido o Conselho Superior de Deontologia e Disciplina.
-
-3 - O processo para a promoção por distinção deve ser organizado com os documentos necessários para perfeito conhecimento dos factos praticados e nas condições a fixar por despacho do Ministro da Administração Interna.
-
-4 - A promoção por distinção pode ter lugar a título póstumo.
+(Revogado.)
 
 ##### SUBSECÇÃO VI — Antiguidade
 
 ###### Artigo 41.º — Antiguidade de serviço
 
-1 - A antiguidade em todos os postos será reportada à data fixada no respectivo despacho de promoção.
-
-2 - O ordenamento relativo aos vários postos, para os elementos com a mesma antiguidade, será estabelecido com base na classificação nos respectivos concursos ou, nos casos do ingresso na carreira de oficial de polícia ou na carreira de agente policial, respectivamente, na classificação final obtida na licenciatura adequada no Instituto de Ciências Policiais e Segurança Interna e no curso correspondente ministrado na Escola Prática de Polícia.
+(Revogado.)
 
 ###### Artigo 42.º — Contagem do tempo de serviço
 
-1 - Conta-se como tempo de serviço efectivo, em geral, aquele que seja prestado no activo ou em situação legalmente equiparada, designadamente o seguinte:
-
-a) A frequência do curso ministrado no Instituto Superior de Ciências Policiais e Segurança Interna, para ingresso na carreira de oficial de polícia;
-
-b) A frequência do curso ministrado na Escola Prática de Polícia, para ingresso na categoria ou posto de agente;
-
-c) O tempo prestado na situação de pré-aposentação na efectividade de serviço.
-
-2 - Conta-se ainda como tempo de serviço, no sentido de serviço prestado ao Estado, para efeitos de cálculo da remuneração da pré-aposentação e pensão de aposentação, o tempo de serviço prestado na PSP, acrescido do prestado no exercício de outras funções públicas.
-
-3 - Não será contado como tempo de serviço efectivo:
-
-a) O de permanência em qualquer situação pela qual não haja direito a remuneração;
-
-b) O de cumprimento de pena de prisão ou de sanção disciplinar que implique o afastamento do serviço ou tenha como efeito o desconto na antiguidade, salvo se, em ambos os casos, as decisões que as determinaram vierem a ser anuladas.
+(Revogado.)
 
 ##### SUBSECÇÃO VII — Avaliação de serviço
 
 ###### Artigo 43.º — Sistema de avaliação
 
-1 - As normas que regulam o sistema de avaliação de serviço do pessoal com funções policiais constam de portaria do Ministro da Administração Interna.
-
-2 - Até à entrada em vigor do diploma referido no número anterior, a avaliação de serviço do pessoal com funções policiais será feita por ponderação do respectivo currículo profissional.
-
-3 - Na ponderação do currículo profissional ter-se-ão em conta, entre outros parâmetros, as habilitações académicas e profissionais do interessado, a sua participação em acções de formação e aperfeiçoamento, bem como o conteúdo das suas funções efectivamente desempenhadas no período considerado.
+(Revogado.)
 
 #### SECÇÃO II — Pessoal com funções não policiais
 
 ###### Artigo 44.º — Grupos e carreiras
 
-1 - O pessoal com funções não policiais distribui-se pelos seguintes grupos:
-
-a) Pessoal técnico superior;
-
-b) Pessoal técnico;
-
-c) Pessoal técnico-profissional;
-
-d) Administrativo;
-
-e) Operário e auxiliar.
-
-2 - O ingresso, progressão e acesso nas carreiras do pessoal com funções não policiais regem-se pelas disposições constantes do regime geral aplicável à Administração Pública.
+(Revogado.)
 
 ### CAPÍTULO VI — Deveres, incompatibilidades e direitos
 
@@ -844,283 +550,155 @@ e) Operário e auxiliar.
 
 ###### Artigo 45.º — Regime geral
 
-O pessoal com funções policiais está sujeito aos deveres e goza dos direitos previstos na lei geral para os demais funcionários e agentes da Administração Pública, sem prejuízo do disposto na legislação de segurança interna, na lei sobre direito de associação, no Regulamento de Continências e Honras Policiais, no Regulamento Disciplinar e no presente Estatuto, bem como em outros regulamentos especialmente aplicáveis.
+(Revogado.)
 
 ##### SUBSECÇÃO I — Deveres, incompatibilidades e regime disciplinar
 
 ###### Artigo 46.º — Dever profissional
 
-1 - O pessoal com funções policiais, ainda que se encontre fora do horário normal de trabalho e da área de jurisdição do local onde exerça funções, deve tomar, até à intervenção da autoridade de polícia criminal competente, as providências urgentes, dentro da sua esfera de competência, para evitar a prática ou para descobrir e capturar os agentes de qualquer crime de cuja preparação ou execução tenha conhecimento.
-
-2 - O pessoal com funções policiais que tenha conhecimento de factos relativos a crimes deve comunicá-los imediatamente ao seu superior hierárquico ou à entidade competente para a investigação.
+(Revogado.)
 
 ###### Artigo 47.º — Frequência de cursos e estágios
 
-1 - O pessoal com funções policiais é obrigado a frequentar os cursos e acções de formação permanente para que seja nomeado.
-
-2 - A PSP poderá destacar pessoal para acções de formação em organismos estranhos à instituição, nos termos de protocolos de cooperação celebrados.
-
-3 - O pessoal integrado nas carreiras de pessoal com funções policiais pode candidatar-se à frequência do curso ministrado pelo Instituto Superior de Ciências Policiais e Segurança Interna, de acordo com as normas gerais de admissão, devendo o correspondente despacho anual de fixação de vagas reservar, para o efeito, uma quota de 25% daquelas.
+(Revogado.)
 
 ###### Artigo 48.º — Sujeição a exames
 
-1 - Em acto de serviço o pessoal com funções policiais pode ser submetido a exames médicos, a testes ou outros meios apropriados, designadamente com vista à detecção de consumo excessivo de bebidas alcoólicas, bem como ao consumo de estupefacientes e substâncias psicotrópicas.
-
-2 - Os procedimentos atinentes à execução dos exames referidos no número anterior são fixados por despacho conjunto dos Ministros da Administração Interna e da Saúde.
+(Revogado.)
 
 ###### Artigo 49.º — Incompatibilidades e acumulação de funções
 
-1 - O pessoal com funções policiais está sujeito ao regime geral de incompatibilidades e acumulações de funções públicas e privadas aplicável à Administração Pública.
-
-2 - A acumulação de funções no âmbito da PSP pode ser determinada, a título excepcional, por despacho fundamentado:
-
-a) Do director nacional, para as acumulações em comando diferente daquele em que o pessoal presta serviço;
-
-b) Dos respectivos comandantes, para os restantes casos.
-
-3 - O despacho que determinar a acumulação de funções deve constar em ordem de serviço.
+(Revogado.)
 
 ###### Artigo 50.º — Regime disciplinar
 
-Em matéria disciplinar o pessoal com funções policiais está sujeito ao Regulamento Disciplinar da PSP.
+(Revogado.)
 
 ##### SUBSECÇÃO II — Direitos
 
 ###### Artigo 51.º — Remuneração e suplementos
 
-1 - O pessoal com funções policiais tem direito a remuneração base, prestações sociais e suplementos previstos na legislação aplicável.
-
-2 - As remunerações e suplementos do pessoal com funções policiais na efectividade de serviço não sofrem redução de qualquer espécie, salvo em situações de ausência ilegítima, de suspensão e de licenças sem vencimento.
+(Revogado.)
 
 ###### Artigo 52.º — Remuneração do pessoal na situação de activo
 
-1 - As remunerações do pessoal com funções policiais constam do anexo II ao presente diploma, do qual faz parte integrante.
-
-2 - Ao cálculo da remuneração base mensal concretizada em função das escalas indiciárias, constantes do anexo II referido no número anterior, são aplicáveis:
-
-a) A partir de 1 de Julho de 1999, o mapa n.º 1;
-
-b) A partir de 1 de Janeiro de 2000, o mapa n.º 2;
-
-c) A partir de 1 de Julho de 2000, o mapa n.º 3.
-
-3 - As remunerações base a auferir pelos alunos do curso ministrado no Instituto Superior de Ciências Policiais e Segurança Interna para ingresso na carreira de oficial de polícia, bem como a remuneração base a auferir pelos alunos do curso ministrado na Escola Prática de Polícia para ingresso no posto de agente, constam do anexo III ao presente diploma, do qual faz parte integrante.
-
-4 - Durante o período probatório os oficiais de polícia do posto de subcomissário são remunerados pelo índice 215, contando-se integralmente, para efeitos de progressão nos escalões, o tempo de serviço prestado durante o referido período.
+(Revogado.)
 
 ###### Artigo 53.º — Residência
 
-1 - O pessoal com funções policiais deve ter residência habitual na localidade onde presta serviço ou em local que diste menos de 50 km daquela.
-
-2 - O pessoal que pretenda residir em localidade situada a mais de 50 km do local onde habitualmente presta serviço, desde que não haja prejuízo para a total disponibilidade para o serviço e as circunstâncias assim o aconselhem, pode a tal ser autorizado por despacho do director nacional.
+(Revogado.)
 
 ###### Artigo 54.º — Colocação por transferência ou deslocação
 
-1 - O pessoal com funções policiais pode, mediante despacho fundamentado em motivo de serviço, ser transferido ou deslocado, dentro do continente, para localidade diferente da que constitui a sua residência habitual, tendo direito:
-
-a) A um subsídio de instalação de montante líquido correspondente a 30 dias de ajudas de custo;
-
-b) Ao pagamento de despesas de transporte dos membros do seu agregado familiar.
-
-2 - O subsídio de instalação a que tem direito o pessoal que, nos termos do número anterior, seja transferido ou deslocado do continente para as Regiões Autónomas ou entre elas ou destas para o continente é de montante líquido correspondente a 60 dias de ajudas de custo, sem prejuízo do direito ao pagamento de despesas de transporte previsto no número anterior.
-
-3 - Os agentes, durante o período probatório, não têm direito ao abono de ajudas de custo por mudança de residência.
+(Revogado.)
 
 ###### Artigo 55.º — Incapacidade física
 
-1 - É aplicável ao pessoal com funções policiais o regime legal em vigor para os deficientes das Forças Armadas.
-
-2 - O pessoal referido no número anterior a quem tenha sido reconhecido o estatuto de equiparado a deficiente das Forças Armadas pode ser admitido à frequência dos cursos ministrados nos estabelecimentos de ensino da PSP, em igualdade de circunstâncias com os demais candidatos, beneficiando, contudo, da dispensa de algumas ou de todas as provas físicas a que houver lugar, de acordo com as condições a estabelecer pelo director nacional.
-
-3 - Só pode beneficiar do disposto no n.º 1 do presente artigo o pessoal que seja considerado clinicamente curado e possa prestar todas as provas não dependentes da sua capacidade física.
-
-4 - O pessoal considerado deficiente que vier a ser promovido não ocupa vaga no quadro respectivo e fica na situação de adido ao quadro, sendo a sua colocação determinada pelo director nacional, de harmonia com a sua validez física e as conveniências de serviço.
+(Revogado.)
 
 ###### Artigo 56.º — Direito de acesso
 
-O pessoal com funções policiais, em acto ou missão de serviço, tem entrada livre em todos os lugares onde se realizem reuniões públicas ou onde seja permitido o acesso público mediante o pagamento de uma taxa ou a realização de certa despesa ou apresentação de bilhete que qualquer pessoa possa obter.
+(Revogado.)
 
 ###### Artigo 57.º — Utilização dos meios de transporte
 
-1 - O pessoal com funções policiais tem direito à utilização gratuita, nas deslocações em serviço, dos transportes públicos colectivos.
-
-2 - O regime de utilização dos transporte públicos colectivos pelo pessoal com funções policiais será objecto de portaria conjunta dos Ministros da Administração Interna e do Equipamento, do Planeamento e da Administração do Território.
+(Revogado.)
 
 ###### Artigo 58.º — Habitação
 
-1 - O director nacional, os directores nacionais-adjuntos, o inspector-geral, os comandantes metropolitanos, os comandantes regionais, os comandantes de polícia, os comandantes dos estabelecimentos de ensino, o comandante do Corpo de Intervenção, o comandante do Grupo de Operações Especiais, o comandante do Corpo de Segurança Pessoal e os comandantes de divisão, de secção e de esquadra têm direito a habitação por conta do Estado.
-
-2 - Sempre que não seja possível garantir habitação por conta do Estado, o pessoal referido no número anterior tem direito a um suplemento mensal de residência, de valor correspondente a 17,5% da ajuda de custo, por deslocações em serviço em território nacional, fixada para o respectivo posto, desde que, cumulativamente, se verifiquem os seguintes pressupostos:
-
-a) Seja colocado em local distanciado a mais de 30 km da localidade da sua residência habitual;
-
-b) Se faça acompanhar do seu agregado familiar.
-
-3 - Não se fazendo acompanhar do seu agregado familiar, o suplemento mensal de residência será de:
-
-a) 12,5%, quando colocado a mais de 120 km da localidade da sua residência habitual;
-
-b) 10%, quando colocado a mais de 30 km da localidade da sua residência habitual.
-
-4 - Sendo colocado nas Regiões Autónomas dos Açores ou da Madeira, ou quando, tendo residência habitual em qualquer destas Regiões, for colocado no continente, o suplemento mensal de residência será de 17,5% ou de 15%, consoante se faça ou não acompanhar do seu agregado familiar.
-
-5 - Não tendo as entidades referidas no n.º 1 agregado familiar, os valores referidos no número anterior serão reduzidos em 25% nas situações previstas nas alíneas a) e b) do n.º 3 e em 50% na situação prevista na última parte do n.º 4.
-
-6 - Em casos excepcionais, resultantes de elevado nível de preços correntes no mercado local da habitação, podem os Ministros da Administração Interna e das Finanças, por despacho conjunto, atribuir um valor de suplemento de residência superior ao fixado nos números anteriores.
+(Revogado.)
 
 ###### Artigo 59.º — Suplemento de residência
 
-1 - Os oficiais, subchefes e agentes têm direito a um suplemento de residência, nos termos estabelecidos no artigo anterior, e por um período até 24 meses, quando, por extinção da unidade policial na qual prestavam serviço, sejam colocados em local distanciado a mais de 30 km da sede do comando da unidade extinta ou da localidade da sua residência habitual.
-
-2 - O suplemento referido no número anterior não é concedido nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.
-
-3 - Durante a frequência dos cursos para ingresso nas carreiras de oficial de polícia e agente, ministrados, respectivamente, no Instituto Superior de Ciências Policiais e Segurança Interna e na Escola Prática de Polícia, os alunos não têm direito ao abono de ajudas de custo por mudança de residência.
+(Revogado.)
 
 ###### Artigo 60.º — Patrocínio judiciário
 
-1 - O pessoal com funções policiais tem direito a assistência e patrocínio judiciário em todos os processos-crime em que seja arguido por factos ocorridos por motivo de serviço.
-
-2 - A assistência e o patrocínio judiciário são concedidos por despacho do director nacional, mediante requerimento do interessado, devidamente fundamentado.
-
-3 - No despacho referido no número anterior é fixada a modalidade em que a assistência e o patrocínio são concedidos, podendo consistir no pagamento dos honorários do advogado proposto pelo interessado ou na contratação de advogado pela PSP.
+(Revogado.)
 
 ###### Artigo 61.º — Regime penitenciário
 
-1 - O cumprimento de prisão preventiva e das penas privativas de liberdade pelo pessoal com funções policiais ocorrerá em estabelecimentos prisionais especiais.
-
-2 - Nos casos em que não seja possível a observância do disposto no número anterior o cumprimento de prisão preventiva e das penas privativas de liberdade ocorrerá em estabelecimentos prisionais comuns, em regime de separação dos restantes detidos ou presos.
+(Revogado.)
 
 ###### Artigo 62.º — Aumento do tempo de serviço
 
-1 - O pessoal com funções policiais, enquanto se mantiver em serviço de carácter operacional, beneficia de um aumento de 15% em relação a todo o tempo de serviço efectivo prestado na PSP.
-
-2 - Salvo disposição legal em contrário, o tempo de frequência dos cursos de formação de oficiais de polícia e de agentes não beneficia do aumento previsto no número anterior.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 63.º — Uso e porte de arma
 
-1 - O pessoal com funções policiais tem direito à detenção, uso e porte de armas de qualquer natureza, independentemente de licença ou autorização, sendo, no entanto, obrigado ao seu manifesto quando da sua propriedade.
-
-2 - O disposto no número anterior não se aplica ao pessoal a quem tenha sido aplicada a pena disciplinar de aposentação compulsiva.
+(Revogado.)
 
 ##### SUBSECÇÃO III — Férias, faltas e licenças
 
 ###### Artigo 64.º — Regime
 
-O pessoal com funções policiais está sujeito ao regime de férias, faltas e licenças aplicável aos funcionários e agentes da Administração Pública, com as especialidades constantes do presente diploma.
+(Revogado.)
 
 ###### Artigo 65.º — Licença de prémio
 
-1 - A licença de prémio destina-se a recompensar o pessoal que no serviço revele dedicação acima do comum ou tenha praticado actos de reconhecido relevo.
-
-2 - A concessão de licença de prémio é da competência do Ministro da Administração Interna, podendo esta competência ser delegada no director nacional.
-
-3 - A licença de prémio tem como limite 15 dias em cada ano, podendo ser gozada no prazo de 12 meses a partir da data em que foi concedida e não implicando qualquer desconto no vencimento ou na antiguidade.
-
-4 - O gozo da licença de prémio pode ser interrompido, no caso de imperiosa necessidade de serviço, por determinação da entidade competente para a conceder, mediante despacho fundamentado.
+(Revogado.)
 
 ###### Artigo 66.º — Licença de junta médica
 
-A licença de junta médica é arbitrada por seu parecer e concedida pela entidade competente, de acordo com o que se encontra estipulado no Regulamento do Serviço de Saúde da PSP.
+(Revogado.)
 
 ###### Artigo 67.º — Ausência por motivo de instalação
 
-1 - O pessoal com funções policiais que seja transferido ou deslocado no continente para localidade diferente da que constitui a sua residência habitual tem direito a 10 dias de ausência ao serviço para instalação.
-
-2 - Quando a transferência ou deslocação se faça do continente para as Regiões Autónomas ou entre elas, ou destas para o continente, a duração da ausência ao serviço é de 15 dias.
-
-3 - O direito referido nos números anteriores é exercido obrigatoriamente no período imediatamente anterior à data fixada para a apresentação.
+(Revogado.)
 
 ###### Artigo 68.º — Licença sem vencimento de longa duração
 
-1 - A licença sem vencimento de longa duração rege-se pelo disposto na lei geral, com as especificidades constantes dos números seguintes.
-
-2 - A licença sem vencimento de longa duração pode ser concedida nas seguintes condições:
-
-a) Decorridos que sejam 10 anos após o ingresso na carreira de oficial de polícia;
-
-b) Decorridos que sejam cinco anos após o ingresso na respectiva carreira para o restante pessoal.
-
-3 - O pessoal na situação de licença de longa duração fica privado do uso de uniformes, distintivos e insígnias da PSP, bem como do uso do bilhete de identidade policial.
+(Revogado.)
 
 ##### SUBSECÇÃO IV — Regime de trabalho
 
 ###### Artigo 69.º — Serviço permanente
 
-1 - O serviço da PSP é de carácter permanente e obrigatório.
-
-2 - Sem prejuízo do disposto no número anterior, será definido por despacho do Ministro da Administração Interna o horário normal de serviço.
-
-3 - Sem prejuízo do regime normal de trabalho, o pessoal com funções policiais não pode recusar-se, sem motivo justificado, a comparecer no seu posto de trabalho ou a nele permanecer para além desse período, nem eximir-se a desempenhar qualquer missão de serviço, desde que compatível com a sua categoria funcional.
-
-4 - Sempre que o estado de segurança ou circunstâncias especiais o exigirem, poderão ser formados, para além do horário normal de serviço, piquetes em número e dimensão adequados às situações.
-
-5 - O patrulhamento da via pública é executado por pessoal com funções policiais em regime de serviço por turnos.
-
-6 - O desempenho dos serviços de piquete e de turno confere o direito aos suplementos correspondentes.
+(Revogado.)
 
 ##### SUBSECÇÃO V — Identificação
 
 ###### Artigo 70.º — Bilhete de identidade
 
-1 - Os oficiais de polícia, os subchefes e os agentes usarão um bilhete de identidade de modelo especial.
-
-2 - Os alunos do curso ministrado no Instituto Superior de Ciências Policiais e Segurança Interna, para ingresso na carreira de oficial de polícia, e da Escola Prática de Polícia, para ingresso no posto de agente, usarão cartão de identificação próprio.
-
-3 - Do bilhete de identidade de modelo especial, que não substitui o bilhete de identidade de cidadão nacional, deverá constar, obrigatoriamente, a situação profissional do respectivo titular.
-
-4 - O modelo do bilhete de identidade e o cartão de identificação previstos no presente artigo são aprovados por portaria do Ministro da Administração Interna.
+(Revogado.)
 
 #### SECÇÃO II — Pessoal com funções não policiais
 
 ###### Artigo 71.º — Regime
 
-1 - O pessoal com funções não policiais fica sujeito, nas matérias constantes do presente capítulo, ao regime geral aplicável à Administração Pública, sem prejuízo do disposto nos números seguintes.
-
-2 - O pessoal referido no número anterior está, em todas as circunstâncias, obrigado a assegurar a prestação dos serviços mínimos necessários ao funcionamento operacional da instituição, considerando-se incluídos nesta categoria os serviços indispensáveis de socorro, comunicações e transportes, bem como aqueles que respeitem à segurança e manutenção dos equipamentos e instalações.
-
-3 - É aplicável ao pessoal com funções não policiais o regime previsto no artigo 65.º
+(Revogado.)
 
 ###### Artigo 72.º — Cartão de identificação
 
-O pessoal com funções não policiais usará um cartão de identificação de modelo especial, a aprovar por portaria do Ministro da Administração Interna.
+(Revogado.)
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
 ###### Artigo 73.º — Assistência na doença
 
-O pessoal da PSP e seus familiares têm direito a assistência sanitária através do Serviço de Assistência na Doença (SAD), nos termos estabelecidos no respectivo regulamento.
+(Revogado.)
 
 ###### Artigo 74.º — Apoio social
 
-O pessoal da PSP e seus familiares têm direito ao apoio social através dos Serviços Sociais da PSP, de acordo com o estabelecido em regulamento próprio, a aprovar por despacho do Ministro da Administração Interna.
+(Revogado.)
 
 ###### Artigo 75.º — Limites de idade
 
-1 - O limite de idade de passagem à situação de pré-aposentação para os oficiais integrados ao abrigo do artigo 114.º do Estatuto aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, e do artigo 138.º do [Decreto-Lei n.º 321/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095), de 29 de Dezembro, é de 65 anos de idade.
-
-2 - É aplicável o disposto no número anterior aos subintendentes promovidos por distinção que tinham o posto de comissário principal.
-
-3 - O limite de idade de passagem à situação de pré-aposentação para os subintendentes oriundos de comissário principal não previstos no número anterior é de 62 anos de idade.
-
-4 - O limite de idade de passagem à situação de pré-aposentação para os actuais comissários e subcomissários não possuidores de licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna é de 60 anos.
+(Revogado.)
 
 ###### Artigo 76.º — Reclassificação profissional
 
-1 - O pessoal detentor de curso superior que confira o grau de licenciatura, que, à data da entrada em vigor do presente Estatuto, não obstante estar integrado em carreiras de pessoal com funções policiais, desempenhe funções idênticas ou afins às da carreira técnica superior, pode, mediante opção do interessado, transitar para a carreira técnica superior, nos termos dos números seguintes.
-
-2 - A transição é requerida pelo interessado ao director nacional no prazo de 30 dias contados da data de entrada em vigor do presente Estatuto.
-
-3 - A transição faz-se para categoria a que na respectiva estrutura corresponda índice cuja remuneração seja igual à auferida ou, caso não haja coincidência, ao montante superior mais aproximado.
+(Revogado.)
 
 ###### Artigo 77.º — Pessoal contratado
 
-Para o desempenho de funções especializadas de natureza não policial e não previstas no correspondente quadro de pessoal, poderá o director nacional, mediante autorização prévia do Ministro da Administração Interna, celebrar contratos a termo ou de prestação de serviços com pessoal devidamente habilitado, nos termos da lei geral.
+(Revogado.)
 
 ###### Artigo 78.º — Regulamentação
 
-As normas para a execução dos processos de concurso do pessoal com funções policiais são objecto de regulamento, a aprovar por portaria do Ministro da Administração Interna.
+(Revogado.)
 
 ## ANEXO I — Quadro a que se refere o artigo 39.º
 

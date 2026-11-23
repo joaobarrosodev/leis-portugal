@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:303221:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Arts. 4.º e 5.º n.º 1 substituídos pelo DL 274/98 art. 1.º (n.º 2 do art. 5.º fica «...», logo mantém o original); o resto igual; o aditamento da alínea d) é aos Estatutos do DL 109/77 (outro diploma, sem a menção «na versão dada pelo DL 116/92» que a instrução do anexo traz)."
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Retificação 103/92: «Ramal de Cáceres ... (exclusivo)»; DL 394-A/98 art. 6.º n.º 2: retirada a Linha da Póvoa e Linha de Guimarães passa para a via larga com o texto novo (sem ponto final, como no diploma)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 394-A/98 art. 6.º n.º 1: aditamento da alínea d) ao n.º 2 do art. 2.º dos Estatutos aprovados pelo DL 109/77",
+    "motivo": "visa os Estatutos do DL 109/77 (outro diploma), não o texto do DL 116/92; o n.º 2 do original é «2 - ...» (fronteira: dúvida menor)"
+   },
+   {
+    "instrucao": "DL 394-A/98 art. 6.º n.os 3 e 4 (DL 104/97)",
+    "motivo": "altera outro diploma"
+   },
+   {
+    "instrucao": "DL 137-A/2009 art. 16.º (revoga o DL 109/77, alterado, entre outros, pelo DL 116/92)",
+    "motivo": "revoga outro diploma; o original apenas é citado na lista das suas alterações"
+   }
+  ]
+ }
+]

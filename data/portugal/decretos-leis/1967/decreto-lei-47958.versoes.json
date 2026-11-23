@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:391404:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-09-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888c1ca136064297"
+   ]
+  },
+  {
+   "date": "1973-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235313:por",
+     "title": "Decreto-Lei n.º 48268",
+     "published": "1968-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/48268-1968-235313"
+    },
+    {
+     "id": "pt:dre:263534:por",
+     "title": "Decreto-Lei n.º 48664",
+     "published": "1968-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/48664-1968-263534"
+    },
+    {
+     "id": "pt:dre:261969:por",
+     "title": "Decreto-Lei n.º 48760",
+     "published": "1968-12-12",
+     "dre_path": "/dr/detalhe/decreto-lei/48760-1968-261969"
+    },
+    {
+     "id": "pt:dre:526033:por",
+     "title": "Decreto-Lei n.º 48940",
+     "published": "1969-03-28",
+     "dre_path": "/dr/detalhe/decreto-lei/48940-1969-526033"
+    },
+    {
+     "id": "pt:dre:199468:por",
+     "title": "Decreto-Lei n.º 49133",
+     "published": "1969-07-18",
+     "dre_path": "/dr/detalhe/decreto-lei/49133-1969-199468"
+    },
+    {
+     "id": "pt:dre:215920:por",
+     "title": "Decreto-Lei n.º 49292",
+     "published": "1969-10-07",
+     "dre_path": "/dr/detalhe/decreto-lei/49292-1969-215920"
+    },
+    {
+     "id": "pt:dre:215772:por",
+     "title": "Decreto-Lei n.º 49365",
+     "published": "1969-11-08",
+     "dre_path": "/dr/detalhe/decreto-lei/49365-1969-215772"
+    },
+    {
+     "id": "pt:dre:228383:por",
+     "title": "Decreto-Lei n.º 89/70",
+     "published": "1970-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/89-1970-228383"
+    },
+    {
+     "id": "pt:dre:644481:por",
+     "title": "Decreto-Lei n.º 193/71",
+     "published": "1971-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/193-1971-644481"
+    },
+    {
+     "id": "pt:dre:423217:por",
+     "title": "Decreto-Lei n.º 603/71",
+     "published": "1971-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/603-1971-423217"
+    },
+    {
+     "id": "pt:dre:422636:por",
+     "title": "Decreto-Lei n.º 304/73",
+     "published": "1973-06-12",
+     "dre_path": "/dr/detalhe/decreto-lei/304-1973-422636"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9",
+    "Adita Artigo depois da unidade 9"
+   ],
+   "fragments": [
+    "43dbbcf3cd74dc62"
+   ]
+  }
+ ],
+ "fragments": {
+  "888c1ca136064297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em vista as disposições da Convenção que instituiu a Associação Europeia de Comércio Livre;\n\nTendo em vista as alterações introduzidas na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo único. A lista actualizada dos produtos submetidos ao regime do artigo 3.º da Convenção que instituiu a Associação Europeia de Comércio Livre, que segue junta ao presente diploma, devem substituir a lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, com as alterações que lhe foram introduzidas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 25 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.\n\nLista de produtos submetidos ao regime do artigo 3 da Convenção que instituiu a Associação Europeia de Comércio Livre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/22400/17191738.pdf)\n\nMinistérios das Finanças e da Economia, 25 de Setembro de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado."
+  },
+  "43dbbcf3cd74dc62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1973-06-12",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 48268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48268-1968-235313), publicado em 1968-03-07.",
+    "Aditado pelo/a [Decreto-Lei n.º 48664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48664-1968-263534), publicado em 1968-11-06.",
+    "Aditado pelo/a [Decreto-Lei n.º 48760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48760-1968-261969), publicado em 1968-12-12.",
+    "Aditado pelo/a [Decreto-Lei n.º 48940](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48940-1969-526033), publicado em 1969-03-28.",
+    "Aditado pelo/a [Decreto-Lei n.º 49133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49133-1969-199468), publicado em 1969-07-18.",
+    "Aditado pelo/a [Decreto-Lei n.º 49292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49292-1969-215920), publicado em 1969-10-07.",
+    "Aditado pelo/a [Decreto-Lei n.º 49365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49365-1969-215772), publicado em 1969-11-08.",
+    "Aditado pelo/a [Decreto-Lei n.º 89/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1970-228383), publicado em 1970-03-10.",
+    "Aditado pelo/a [Decreto-Lei n.º 193/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481), publicado em 1971-05-11.",
+    "Aditado pelo/a [Decreto-Lei n.º 603/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1971-423217), publicado em 1971-12-29.",
+    "Aditado pelo/a [Decreto-Lei n.º 603/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1971-423217), publicado em 1971-12-29.",
+    "Aditado pelo/a [Decreto-Lei n.º 304/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1973-422636), publicado em 1973-06-12."
+   ],
+   "markdown": "Tendo em vista as disposições da Convenção que instituiu a Associação Europeia de Comércio Livre;\n\nTendo em vista as alterações introduzidas na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo único. A lista actualizada dos produtos submetidos ao regime do artigo 3.º da Convenção que instituiu a Associação Europeia de Comércio Livre, que segue junta ao presente diploma, devem substituir a lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, com as alterações que lhe foram introduzidas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 25 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.\n\nLista de produtos submetidos ao regime do artigo 3 da Convenção que instituiu a Associação Europeia de Comércio Livre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/22400/17191738.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05700/03280328.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 48268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48268-1968-235313), publicado em 1968-03-07.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26100/16381639.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 48664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48664-1968-263534), publicado em 1968-11-06.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/29200/18341835.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 48760](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48760-1968-261969), publicado em 1968-12-12.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/03/07400/03350337.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 48940](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48940-1969-526033), publicado em 1969-03-28.\n\n41.02 ...\n\n03 ... Peles semicurtidas pelo crómio, no estado húmido (wet blues).\n\n> Aditado pelo/a [Decreto-Lei n.º 49133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49133-1969-199468), publicado em 1969-07-18.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/10/23500/13541355.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 49292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49292-1969-215920), publicado em 1969-10-07.\n\nex 48.07.07 - Cartão impregnado com látex.\n\n90.23.02 - Termómetros para usos clínicos.\n\n90.28.04 - Instrumentos e aparelhos eléctricos ou electrónicos de medida, verificação, regulação ou análise, não especificados.\n\n> Aditado pelo/a [Decreto-Lei n.º 49365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49365-1969-215772), publicado em 1969-11-08.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/05800/02840287.pdf)\n\n> Aditado pelo/a [Decreto-Lei n.º 89/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1970-228383), publicado em 1970-03-10.\n\n91.01 ... Relógios de algibeira, de pulso e semelhantes, compreendendo os contadores de tempo dos mesmos tipos:\n\nRelógios, com exclusão dos contadores de tempo:\n\nNão ornamentados com pérolas ou gemas, naturais ou artificiais:\n\nSem abraçadeiras, pulseiras ou qualquer outro acessório:\n\n01 ... De ouro ou platina.\n\n02 ... De prata.\n\n03 ... Dourados ou chapeados de ouro.\n\n04 ... Não especificados.\n\nCom abraçadeiras, pulseiras ou qualquer outro acessório inseparável:\n\n05 ... Em que entram metais preciosos.\n\n06 ... Dourados ou chapeados de metais preciosos.\n\n07 ... Ornamentados com pérolas ou gemas, naturais ou artificiais.\n\n08 ... Contadores de tempo.\n\n> Aditado pelo/a [Decreto-Lei n.º 193/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481), publicado em 1971-05-11.\n\n21.05 Preparados para obtenção de caldos ou sopas; caldos ou sopas preparados; preparados alimentares compostos homogeneizados:\n\nex 02 Preparados alimentares compostos homogeneizados não contendo carne ou miudezas de carne.\n\nex 29.39 Outros esteróides utilizados principalmente como hormonas.\n\n73.24 Recipientes de ferro macio ou aço, para gases comprimidos ou liquefeitos:\n\nDe capacidade até 300 l, inclusive:\n\n02 Não especificados.\n\n87.02 Automóveis para transporte de pessoas ou de mercadorias, compreendendo os de corridas e os trolleybus:\n\n08 Veículos de almofada de ar.\n\n87.06 ...\n\nPartes, peças e acessórios não especificados:\n\nMetálicos:\n\nex 03 Até 500 g cada um, de veículos de almofada de ar.\n\nex 04 De mais de 500 g até 10 kg, de veículos de almofada de ar.\n\nex 05 De mais de 10 kg, de veículos de almofada de ar.\n\nex 06 Não especificados, de veículos de almofada de ar.\n\n89.01 Embarcações não compreendidas nas posições seguintes:\n\n06 Veículos de almofada de ar.\n\n90.10 Aparelhos e material dos tipos usados nos laboratórios fotográficos ou cinematográficos não especificados neste capítulo; aparelhos de fotocópia, de sistema óptico ou por contacto, e aparelhos de termocópia; alvos para projecções:\n\nAparelhos de fotocópia de sistema óptico:\n\n01 Até ao peso de 20 kg cada um.\n\n02 De peso superior a 20 kg.\n\n03 Aparelhos de termocópia.\n\n04 Aparelhos e material não especificado.\n\n90.19 ...\n\n...\n\nex 03 Aparelhos para compensar uma deficiência ou uma enfermidade, que se destinam a ser transportados à mão ou sobre as pessoas ou a ser implantados no organismo.\n\n> Aditado pelo/a [Decreto-Lei n.º 603/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1971-423217), publicado em 1971-12-29.\n\n22.01 Água, águas minerais, águas gasosas, gelo e neve:\n\n02 ...\n\n03 Gelo e neve.\n\n25.12 Farinhas siliciosas fósseis e outras terras siliciosas análogas (tais como kieselgur, tripolite e diatomite) de densidade aparente não superior a 1, mesmo calcinadas.\n\n26.04 Escórias e cinzas, não especificadas, compreendendo as cinzas de algas.\n\n27.07 Óleos e outros produtos provenientes da destilação dos alcatrões da hulha a alta temperatura; produtos análogos, na acepção da nota 2 do capítulo:\n\n28.03 Carbono (designadamente negros de carbono).\n\n28.05 Metais alcalinos e alcalino-terrosos; metais das terras raras, ítrio e escândio, mesmo misturados ou ligados entre si; mercúrio:\n\n...\n\n28.06 Ácido clorídrico; ácido clorossulfúrico:\n\n...\n\n02 Ácido clorossulfúrico.\n\n28.40 ...\n\n01 Fosfato triamoniacal.\n\n29.11 Aldeídos, aldeídos-álcoois, aldeídos-éteres, aldeídos-fenóis e outros aldeídos de funções oxigenadas simples ou complexas; polímeros cíclicos dos aldeídos; paraformaldeído:\n\n...\n\n29.14 Ácidos monocarboxílicos, seus anidridos, halogenetos, peróxidos e perácidos; seus derivados halogenados, sulfonados, nitrados e nitrosados:\n\n...\n\n29.15 Ácidos policarboxílicos, seus anidridos, halogenetos, peróxidos e perácidos; seus derivados halogenados, sulfonados, nitrados e nitrosados:\n\n...\n\n29.16 Ácidos carboxílicos de funções álcool, fenol, aldeído ou cetona e outros ácidos carboxílicos de funções oxigenadas, simples ou complexas, seus anidridos, halogenetos, peróxidos e perácidos; seus derivados halogenados, sulfonados, nitrados e nitrosados:\n\n...\n\n29.25 Compostos de função carboxiamida e compostos de função amida do ácido carbónico:\n\n...\n\n29.26 Compostos de função imida dos ácidos carboxílicos (compreendendo a imida ortossulfobenzóica e seus sais) ou de função imina (compreendendo a hexametilenatetramina e a trimetilenatrinitramina):\n\n...\n\n29.38 Provitaminas e vitaminas, naturais ou reproduzidas por síntese (compreendendo os concentrados naturais), bem como os seus derivados utilizados principalmente como vitaminas, mesmo misturados entre si ou em quaisquer soluções:\n\n...\n\n29.41 Heterósidos, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres e outros derivados.\n\n29.42 Alcalóides vegetais, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres e outros derivados:\n\n...\n\n30.05 ...\n\n02 Preparados opacificantes para exames radiográficos, reagentes de diagnóstico e reagentes destinados à determinação dos grupos ou dos factores sanguíneos.\n\n31.02 ...\n\nex 01 ...\n\n08 Ureia.\n\n38.10 Pez vegetal de qualquer espécie; pez para revestimento interior do vasilhame destinado ao acondicionamento de cerveja e composições semelhantes constituídas essencialmente por colofónia e pez vegetal; aglutinantes para núcleos de fundição que tenham por base produtos resinosos naturais.\n\n39.07 Obras das matérias abrangidas pelos n.os 39.01 a 39.06:\n\n...\n\n40.14 Outras obras de borracha vulcanizada, não endurecida:\n\n...\n\n42.04 ...\n\nCorreias transportadoras ou para transmissão de movimento:\n\n01 ...\n\n02 ...\n\n44.09 Arco de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira em fasquias, lâminas ou fitas; madeira para trituração em pequenas chapas ou em partículas; cavacos utilizados na preparação de vinagre ou para clarificação de líquidos.\n\n44.21 Caixas, caixotes, grades, barricas e outros artefactos semelhantes próprios para taras, de madeira, completos.\n\n57.03 Juta e outras fibras têxteis liberianas não especificadas, em bruto, descorticadas ou tratadas de qualquer outro modo, mas não fiadas; estopa e desperdícios destas fibras (compreendendo os obtidos por desfibramento de trapos ou cordas).\n\n68.07 Lã de escórias, lá de rocha e outras lãs minerais semelhantes; vermiculite, argila e produtos minerais semelhantes, expandidos; misturas e obras de matérias minerais para isolamento do calor e do som, com exclusão das incluídas nos n.os 68.12, 68.13 e no capítulo 69.º:\n\n...\n\n77.02 Magnésio em barras, perfis, fios, chapas, folhas, tiras, tubos (compreendendo os respectivos esboços), barras ocas, pó, palhetas e aparas calibradas:\n\n...\n\n77.03 Obras de magnésio não especificadas.\n\n82.04 Ferramentas e aparelhos de uso manual não especificados; bigornas e semelhantes, tornos de apertar, maçaricos, forjas portáteis, mós com armação, manuais ou de pedal, e corta-vidros:\n\n...\n\nex 02 Maçaricos.\n\n82.05 Ferramentas intermutáveis para máquinas-ferramentas e para aparelhos de uso manual, mesmo mecânicos (de cunhar, estampar, roscar, alisar, fresar, mandrilar, cortar e entalhar, tornear e para outros usos), compreendendo as fieiras de extrusão e estiragem de metais e as ferramentas destinadas a perfurar terrenos:\n\n...\n\n82.11 Navalhas de barba e máquinas de barbear; respectivas lâminas (compreendendo os esboços em tiras).\n\n84.53 Máquinas automáticas de tratamento da informação e respectivas unidades; leitores magnéticos ou ópticos, máquinas de registar informações em suporte, sob forma codificada, e máquinas de tratamento dessas informações, não especificadas.\n\n85.08 Aparelhos e dispositivos eléctricos de ignição e arranque, para motores de explosão ou de combustão interna (tais como magnetos, dínamos-magnetos, bobinas de ignição, velas de ignição e de aquecimento e motores de arranque); geradores (dínamos e alternadores) e conjuntores-disjuntores que se empreguem com estes motores:\n\n...\n\n85.15 Aparelhos transmissores e receptores de radiotelefonia e radiotelegrafia; aparelhos emissores e receptores de radiodifusão e televisão (compreendendo os receptores combinados com um aparelho de registo ou de reprodução de som) e aparelhos de tomada de vistas para televisão; aparelhos de radiodirecção, radiodetecção, radiossondagem e radiotelecomando:\n\n...\n\n85.19 Aparelhagem para interrupção, seccionamento, protecção, derivação e ligação dos circuitos eléctricos (tais como interruptores, comutadores, relais, corta-circuitos, pára-raios, eliminadores de onda, tomadas de corrente, suportes de lâmpadas e caixas de junção); resistências, com excepção das que se destinem a aquecimento, potenciómetros e reóstatos; circuitos impressos; quadros de manobra e de distribuição:\n\n...\n\n85.21 Lâmpadas, tubos e válvulas electrónicos (de cátodo aquecido, de cátodo frio ou de fotocátodo, excepto os do n.º 85.20), tais como lâmpadas, tubos e válvulas, de vácuo, de vapor ou de gases (compreendendo os tubos rectificadores de vapor de mercúrio), tubos catódicos e tubos e válvulas para aparelhos de tomada de vistas, para televisão; células fotoeléctricas; cristais piezoeléctricos montados; díodos, transístores e dispositivos semelhantes com semicondutores; microestruturas electrónicas:\n\n...\n\n87.07 Carros motorizados, dos tipos usados em instalações fabris, armazéns, portos e aeroportos, para transporte de mercadorias em percursos curtos ou para sua movimentação; carros-tractores do tipo utilizado nas estações de caminho de ferro; respectivas partes e peças separadas:\n\n...\n\n90.13 Aparelhos ou instrumentos de óptica não especificados em outras posições deste capítulo, compreendendo os projectores:\n\n...\n\n90.19 Aparelhos ortopédicos (compreendendo as cintas médico-cirúrgicas); aparelhos e outros artefactos para fracturas (talas, goteiras e semelhantes); aparelhos e outros artefactos de prótese dentária, ocular ou outra; aparelhos para facilitar a audição dos surdos e outros aparelhos para compensar uma deficiência ou uma enfermidade, que se destinam a ser transportados à mão ou sobre as pessoas ou a ser implantados no organismo:\n\n...\n\n91.09 Caixas de relógios do n.º 91.01 e suas partes:\n\n...\n\n93.06 Partes e peças separadas de armas, com excepção das do n.º 93.01 (compreendendo os esboços de canos de armas de fogo):\n\n...\n\n> Aditado pelo/a [Decreto-Lei n.º 603/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1971-423217), publicado em 1971-12-29.\n\n32.09 ...\n\n01 ...\n\nMetais não preciosos, em pasta, para fabrico de tintas.\n\n> Aditado pelo/a [Decreto-Lei n.º 304/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1973-422636), publicado em 1973-06-12.\n\nMinistérios das Finanças e da Economia, 25 de Setembro de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado."
+  }
+ }
+}

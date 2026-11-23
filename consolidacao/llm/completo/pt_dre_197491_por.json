@@ -10,15 +10,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 189.º (encargos com prestações de saúde no SNS): outro diploma: o original só aparece na lista das alterações ao Decreto-Lei n.º 118/83 e aos Decretos-Leis n.os 158/2005 e 167/2005\nAlterador 4, arts. 2.º a 5.º (alterações ao Decreto-Lei n.º 118/83, ao Decreto-Lei n.º 158/2005 e ao Decreto-Lei n.º 167/2005, e norma transitória) e art. 6.º, n.º 2 (revogação do artigo 77.º do Decreto-Lei n.º 36/2013): outro diploma\nAlterador 5, arts. 2.º a 4.º (alterações ao Decreto-Lei n.º 118/83, ao Decreto-Lei n.º 158/2005 e ao Decreto-Lei n.º 167/2005): outro diploma: o original só aparece na lista das alterações desses diplomas\nAlterador 6, arts. 2.º a 7.º (alterações e aditamentos aos Decretos-Leis n.os 167/2005 e 158/2005, norma transitória e revogação de n.os desses diplomas): outro diploma: o original só aparece na lista das alterações desses diplomas",
   "instrucoes": [
-    "Lei 3-B/2010, art. 16.º: adita o art. 8.º-A (já no texto atual).",
-    "DL 29-A/2011, art. 84.º (alterador 2): nova redação do n.º 1 do art. 8.º-A ('efectuados pelos beneficiários ... alterada pelas Leis n.os 64-A/2008 ... 55-A/2010, de 31 de Dezembro'); n.º 2 '...'. Aplicado, copiado letra a letra (incluindo '3-B/20010'). O reparo do verificador está errado: o DL 29-A/2011 é o alterador 2 deste pedido e é dele que vem o n.º 1.",
-    "Lei 64-B/2011, art. 189.º: só cita o original; não o altera.",
-    "DL 105/2013, art. 6.º, n.º 1: revoga o n.º 2 do art. 8.º-A -> '2 - (Revogado.)'. Os arts. 2.º a 4.º alteram outros diplomas (ignorados).",
-    "Lei 30/2014 e DL 81/2015: alteram os DL 118/83, 158/2005 e 167/2005, não o original; ignorados."
+    "Alterador 1 (Lei 3-B/2010), art. 16.º: aditado o artigo 8.º-A; já estava no texto atual",
+    "Alterador 2 (DL 29-A/2011), art. 84.º: nova redação do n.º 1 do 8.º-A (epígrafe «[...]» mantida, n.º 2 «...» mantido); aplicada, copiada letra a letra do alterador 2 (o reparo propunha o n.º 1 da Lei 3-B/2010, mas o DL 29-A/2011 está entre os alteradores e dá-lhe nova redação: «efectuados pelos beneficiários … alterada pelas Leis n.os 64-A/2008 …»)",
+    "Alterador 4 (DL 105/2013), art. 6.º, n.º 1: revogado o n.º 2 do 8.º-A; aplicado",
+    "Alteradores 3, 4 (restantes artigos), 5 e 6: instruções dirigidas a outros diplomas; ignoradas e registadas em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

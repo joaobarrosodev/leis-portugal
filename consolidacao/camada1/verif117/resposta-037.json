@@ -1,0 +1,59 @@
+[
+ {
+  "id": "pt:dre:242189:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º dá nova redação aos n.os 1 e 2 do art. 4.º; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º, nova redação do art. 5.º (n.os 1 a 3 aqui; o resto da lista igual); a primeira linha 'rurais de 1.ª ordem ... 3000$00' é a do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º n.os 4 a 6 conforme DL 303/76; art. 6.º conforme DL 77/90 (n.os 1 e 2), que prevalece sobre a redação de 303/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 3.º revoga o n.º 3 do art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 303/76 art. 1.º, nova redação do n.º 1 do art. 9.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Lei 30/2006 art. 37.º i) revoga o art. 20.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "DR 90/84 art. 5.º revoga o art. 5.º do Regulamento de Instalações Colectivas (a epígrafe 'Chegada' desaparece, o que não altera a substância).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 90/84 art. 3.º: arts. 3.º e 4.º do Regulamento de Instalações Colectivas passam a ter a redação dos n.os 25 e 24 do art. 3.º do regulamento anexo",
+    "motivo": "o diploma que altera, tal como está na vista, não traz o texto dos n.os 25 e 24 (só remete para o anexo)"
+   }
+  ]
+ }
+]

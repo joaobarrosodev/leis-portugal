@@ -1,0 +1,34 @@
+[
+ {
+  "id": "pt:dre:390181:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "As instruções foram aplicadas no sítio errado: os textos novos (n.º 4 e n.º 6 da base V, alfa(índice f), base XXIV, imagem e texto do mapa I) foram colados logo a seguir ao corpo do artigo 2.º, antes de «Diogo Pinto de Freitas do Amaral…»; no articulado das bases ficou o texto antigo (base V n.º 4 com alíneas a)/b), n.º 6 com «investimentos institucionais», base IX n.º 7 com «índice j», base XXIV com «contrariamente», MAPA I com a imagem 01730187.pdf e «meses do atraso»). Texto antigo a seguir ou em vez da nova redação é errado.",
+    "texto_esperado": "Artigo 2.º igual ao original, sem os parágrafos novos colados a seguir ao corpo; nas bases: base V n.º 4 = «4 - A pedido da concessionária, o Estado poderá avalizar financiamentos internos e externos.» (sem as alíneas a) e b)); n.º 6 com «outros investidores institucionais»; base IX n.º 7 com «(alfa)(índice f) - o índice de variação do custo real do financiamento…»; base XXIV com «contraditoriamente»; MAPA I com a imagem 11561158.pdf e o texto «…diminuído proporcionalmente aos meses de atraso.»"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Decreto Regulamentar n.º 5/82, art. 1.º: nova redação do n.º 4 da base V (texto único, sem alíneas): o consolidado deixou o n.º 4 antigo com alíneas a) e b) na base V e pôs o novo n.º 4 no artigo 2.º",
+   "Declaração, base V n.º 6 «investimentos»->«investidores»: o texto novo está no artigo 2.º mas a base V mantém «investimentos institucionais»",
+   "Declaração, base IX n.º 7 «alfa(índice j)»->«alfa(índice f)»: a base IX mantém «índice j»",
+   "Declaração, base XXIV «contrariamente»->«contraditoriamente»: a base XXIV mantém «contrariamente»",
+   "Declaração, n.º 11 da base IX «expressão:ei =»->«expressão: aei =»: não aplicada (alvo incerto quanto à notação: o texto atual tem «e(índice i) =»)",
+   "Declaração, substituição do mapa I anexo pelo que se anexa: MAPA I no fim mantém a imagem antiga 01730187.pdf e «meses do atraso»; a imagem e o texto novos estão no artigo 2.º"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: aditar o desenho referido na alínea b) do n.º 7 da base V",
+    "motivo": "só vem em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 458/85",
+    "motivo": "o pedido não traz texto deste alterador que mencione o original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

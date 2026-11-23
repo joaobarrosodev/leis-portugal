@@ -15,7 +15,7 @@
     },
     {
       "chave": "3.º",
-      "epigrafe": "Estrutura dos serviços centrais operativos",
+      "epigrafe": "Estrutura dos serviços operativos",
       "texto": "(Revogado.)",
       "alterador": 11
     },
@@ -39,7 +39,7 @@
     },
     {
       "chave": "7.º",
-      "epigrafe": "",
+      "epigrafe": "Divisão Técnica de Obras e Avaliação",
       "texto": "(Revogado.)",
       "alterador": 11
     },
@@ -106,7 +106,7 @@
     {
       "chave": "17.º",
       "epigrafe": "Graduação dos candidatos para efeitos de nomeação para a categoria de auxiliar de gestão patrimonial de 2.ª classe",
-      "texto": "(Revogado.)\n\nSUBSEÇÇÃO II\n\nPessoal técnico superior",
+      "texto": "(Revogado.)",
       "alterador": 13
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "chave": "24.º",
-      "epigrafe": "Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.",
+      "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 11
     },
@@ -262,29 +262,35 @@
     {
       "chave": "43.º",
       "epigrafe": "",
-      "texto": "(Revogado.)\n\nFrancisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.\n\nPromulgado em 5 de Agosto de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)\n\nMAPA II\n\nTabela de correspondência para efeito de contagem do tempo das novas categorias\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)\n\nMAPA III\n\nCursos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)",
+      "texto": "(Revogado.)",
       "alterador": 11
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "##### Divisão de Móveis;",
+      "novo": null,
+      "alterador": 11
+    },
+    {
+      "atual": "##### Divisão Técnica de Obras e Avaliação",
+      "novo": null,
+      "alterador": 11
+    }
+  ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, extinção do GVE e transferência das suas atribuições para a DGPE: não textual (não altera o texto do original)\nAlterador 3, alargamento da área de recrutamento para director de serviços e chefe de divisão (art. 13.º): não textual (não altera o texto do artigo)\nAlterador 4, art. 3.º, aditamento de lugares ao quadro de pessoal pelo mapa anexo: só em imagem (o mapa só vem em imagem e não há título de anexo no texto atual)\nAlterador 5, aumento de um lugar no quadro de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 6, acréscimo e extinção de lugares no quadro de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 7, n.os 1.º a 5.º, criação da carreira de técnico superior de informática e respetivas funções: alvo incerto (não diz que texto do original muda; o art. 12.º, n.º 4, acabou de qualquer forma revogado pelos alteradores 11 e 13)\nAlterador 7, n.º 6.º, alteração do quadro de pessoal de informática do mapa I: só em imagem (sem título de anexo no texto atual)\nAlterador 8, criação de um lugar de assessor no quadro: só em imagem (o quadro só existe em imagem, sem título de anexo no texto atual)\nAlterador 9, substituição do mapa de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 9, ANEXO «Conteúdo funcional da carreira de técnico auxiliar»: alvo incerto (nenhuma instrução diz onde se insere no original)\nAlterador 10, alargamento excecional da área de recrutamento para chefe da Divisão de Gestão Técnica e Formação (art. 13.º): não textual (não altera o texto do artigo)",
+  "nao_aplicavel": "Alterador 1, Decreto Regulamentar n.º 59/80 (extinção do GVE e transferência das suas atribuições para a DGPE): não textual (não dá nova redação a nenhum artigo)\nAlterador 3, Portaria n.º 79/81 (alargamento da área de recrutamento do art. 13.º): não textual\nAlterador 10, Portaria n.º 531/89 (alargamento excepcional da área de recrutamento do art. 13.º): não textual",
   "instrucoes": [
-    "Alterador 1 (DR 59/80): extingue o GVE; não altera o texto do original.",
-    "Alterador 2 (DR 69/80): nova redação do n.º 3 do art. 34.º; aplicada, mas o artigo ficou depois revogado pelo alterador 11.",
-    "Alterador 3 (Portaria 79/81): alarga a área de recrutamento; não textual.",
-    "Alterador 4 (DR 40/83): nova redação dos arts. 2.º e 3.º, aditamento dos n.os 9 a 11 ao art. 5.º e do art. 10.º-A, revogação do n.º 3 do art. 14.º; aplicadas, mas tudo ficou depois revogado pelo alterador 11 (o art. 10.º-A vai como revogado). Mapa anexo em imagem: não aplicado.",
-    "Alteradores 5, 6, 8 e 9 (portarias): alteram o quadro de pessoal, só em imagem; não aplicados. O anexo de texto da Portaria 73/87 não tem alvo; não aplicado.",
-    "Alterador 7 (Portaria 116/85): cria carreira e altera o quadro de informática; alvo incerto / só em imagem; não aplicado.",
-    "Alterador 10 (Portaria 531/89): alarga a área de recrutamento; não textual.",
-    "Alterador 11 (DR 21/2007), art. 12.º, alínea c): revoga o DR 44/80, salvo os arts. 11.º, 12.º, n.º 3, e 15.º a 17.º; aplicado: arts. 1.º a 10.º, 10.º-A, 13.º, 14.º e 18.º a 43.º com o corpo «(Revogado.)» (no 43.º mantêm-se as assinaturas e os mapas que vêm a seguir).",
-    "Alteradores 12 e 13 (DL 121/2008, mapa VIII, republicado pela Declaração de Retificação 49/2008): revoga o art. 11.º, o n.º 3 do art. 12.º e os arts. 15.º a 17.º; aplicado (o art. 12.º fica todo revogado; no art. 17.º mantém-se o cabeçalho «SUBSEÇÇÃO II / Pessoal técnico superior», que não pertence ao artigo).",
-    "Nos arts. 6.º, 24.º, 30.º, 33.º e 34.º a primeira linha do texto atual é a epígrafe; ficou em «epigrafe», com o corpo «(Revogado.)»."
+    "Alterador 2 (DR 69/80): nova redação do n.º 3 do art. 34.º; substituída pela revogação do alterador 11.",
+    "Alterador 4 (DR 40/83): novas redações dos arts. 2.º e 3.º (epígrafe «Estrutura dos serviços operativos», mantida), aditamento dos n.os 9 a 11 ao art. 5.º, aditamento do art. 10.º-A, revogação do n.º 3 do art. 14.º e aditamento de lugares ao mapa; tudo depois revogado pelo alterador 11.",
+    "Alteradores 5 a 9 (portarias): alteram ou substituem o mapa de pessoal (imagens no art. 43.º, incluindo a substituição pela Portaria n.º 73/87); o mapa é depois revogado com o diploma pelo alterador 11.",
+    "Alterador 11 (DR 21/2007, art. 12.º, al. c)): revoga o DR 44/80 com excepção dos arts. 11.º, 12.º, n.º 3, e 15.º a 17.º: todos os outros artigos (e o 10.º-A aditado) ficam «(Revogado.)», com as epígrafes; nos arts. 6.º e 7.º a epígrafe estava no corpo ou num título de divisão («Divisão Técnica de Obras e Avaliação») e passou para a epígrafe; os títulos «Divisão de Móveis;» e «Divisão Técnica de Obras e Avaliação», restos do corpo dos arts. 3.º e 7.º, são retirados.",
+    "Alteradores 12 e 13 (DL 121/2008, mapa VIII, republicado na Declaração de Rectificação n.º 49/2008): revoga o art. 11.º, o n.º 3 do art. 12.º e os arts. 15.º a 17.º: ficam «(Revogado.)»; o diploma fica todo revogado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

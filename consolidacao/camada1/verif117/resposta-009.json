@@ -1,0 +1,318 @@
+[
+ {
+  "id": "pt:dre:463975:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "Depois de (Revogado.) ficou texto antigo (Divisão de Imóveis ... n.º 2); deve ficar só o título e (Revogado.)",
+    "texto_esperado": "###### Artigo 3.º — Estrutura dos serviços operativos\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Depois de (Revogado.) ficou o texto antigo (À Divisão Técnica de Obras e Avaliação incumbe: a) b))",
+    "texto_esperado": "###### Artigo 7.º — Divisão Técnica de Obras e Avaliação\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo DR 40/83 art. 4.º, revogado com o DR 44/80 pelo DR 21/2007 art. 12.º c)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado: DR 21/2007 art. 12.º c) revoga o DR 44/80 (salvo arts. 11.º, 12.º n.º 3, 15.º a 17.º, estes revogados pelo mapa VIII do DL 121/2008 republicado na DR 49/2008); corpo (Revogado.) com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Entrada em vigor revogada com o decreto (DR 21/2007 art. 12.º c)); assinaturas e mapas finais mantidos como no original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Móveis;",
+    "veredicto": "certo",
+    "motivo": "Fragmento do corpo dos artigos 3.º / 7.º (revogados); a sua ausência é correcta (o texto antigo que sobra nesses artigos é assinalado neles)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão Técnica de Obras e Avaliação",
+    "veredicto": "certo",
+    "motivo": "Fragmento do corpo dos artigos 3.º / 7.º (revogados); a sua ausência é correcta (o texto antigo que sobra nesses artigos é assinalado neles)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "Portaria 73/87: quadro de pessoal da DGPE substituído pelo mapa anexo (imagem 04140417.pdf)",
+    "motivo": "o consolidado mantém o MAPA I do original (imagem 24642473.pdf) sob o artigo 43.º, que tem título onde pôr a imagem; substituição não aplicada"
+   }
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 59/80: extinção do GVE e transferência de atribuições para a DGPE",
+    "motivo": "não textual: não dá nova redação a artigos do original"
+   },
+   {
+    "instrucao": "Portaria 79/81 e Portaria 531/89: alargamento da área de recrutamento (artigo 13.º)",
+    "motivo": "não textual: não altera o texto do artigo"
+   },
+   {
+    "instrucao": "DR 40/83 art. 3.º; Portarias 869/84, 101/85, 116/85 (n.º 6.º), 290/86: aditamentos ao quadro/mapas de pessoal em imagem",
+    "motivo": "só em imagem, e o mapa foi substituído globalmente pela Portaria 73/87; o 290/86 cria um lugar (não textual)"
+   },
+   {
+    "instrucao": "Portaria 116/85 n.os 1.º a 5.º e 7.º: carreira de técnico superior de informática e conteúdo funcional",
+    "motivo": "não textual: não dá nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 121/2008: texto do diploma não vem na vista (só o mapa VIII, na DR 49/2008)",
+    "motivo": "o diploma que altera não traz o texto da alteração; o mapa VIII confirma a revogação dos arts. 11.º, 12.º n.º 3 e 15.º a 17.º, aplicada"
+   },
+   {
+    "instrucao": "DR 49/2008: rectificação do mapa VIII do DL 121/2008 (Portaria 358/2002)",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,64 @@
+[
+ {
+  "id": "pt:dre:592760:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DLR 28-A/2001/M art. 2.º n.º 1 e novo n.º 5 aditado, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DLR 28-A/2001 (art. 3.º) revogada pelo art. 20.º do DLR 6/2005/M («o artigo 5.º do DLR 4-A/2001/M»); fica epígrafe e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Al. e) aditada pelo DLR 28-A/2001, art. 4.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Retificação «dualidade» para «qualidade» (Declaração de Retificação 13-P/2001).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 5.º do DLR 28-A/2001/M; epígrafe e texto conformes.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 5.º do DLR 10/2016/M.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de Retificação 13-P/2001: retificação do mapa I «Receitas da Região» (imagem 00100010.pdf). A vista não mostra mapas/anexo no consolidado, logo não consigo confirmar a justificação do consolidador («sem título de anexo»); sem confirmação, não a dou como justificada.",
+   "DLR 28-A/2001/M, art. 1.º e mapas I a IX anexos: substituição, nas partes alteradas, dos mapas I a IX do original (imagens 00060031.pdf, com títulos «MAPA I» a «MAPA IX»). Mesma razão: não confirmável na vista, e o alterador traz títulos de mapa."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 29-A/2001, 30-A/2003, 3/2007, 2-A/2008, 45/2008, 34/2009, 2/2011, 5/2012, 42/2012, 31-A/2013, 18/2014, 17/2015 (textos omitidos na vista)",
+    "motivo": "a vista omite o texto (triagem prévia: «não textual, mantém em vigor o artigo 5.º»); não consigo confirmar, mas não identifiquei nenhuma instrução dirigida ao original nestes alteradores na vista."
+   },
+   {
+    "instrucao": "DLR 15/2007/M, art. 3.º: revogação das normas que contrariem o diploma, especialmente o art. 42.º do original",
+    "motivo": "revogação condicional; o art. 42.º ficou revogado pelo DLR 10/2016/M, art. 5.º."
+   },
+   {
+    "instrucao": "DLR 10/2016/M, restantes artigos e bases (alteração do DLR 21-A/99/M)",
+    "motivo": "instruções de outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

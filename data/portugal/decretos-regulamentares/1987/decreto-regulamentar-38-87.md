@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-24'
+version_history:
+  file: decreto-regulamentar-38-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-24'
+    amending: pt:dre:647304:por
+    amending_title: Declaração; Decreto-Lei n.º 184/90; Decreto Regulamentar n.º 43/90
+    changes:
+    - Retifica Artigo 17.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Adita Artigo 13.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Revoga Artigo Divisão de Protecção à Produção Vegetal
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:14:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração; Decreto-Lei n.º 184/90;
+    Decreto Regulamentar n.º 43/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1987/decreto-regulamentar-38-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,9 +308,13 @@ c) Direcção de Serviços de Protecção à Produção Animal (DSPPA);
 
 d) Direcção de Serviços de Apoio às Estruturas (DSAE);
 
-e) Divisão de Protecção à Produção Vegetal (DPPV);
+e) Direcção de Serviços de Vitivinicultura (DSV);
+
+f) Divisão de Protecção à Produção Vegetal (DPPV);
 
 4) Serviços operativos de âmbito local:
+
+> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
 Divisão da Zona Agrária.
 
@@ -397,7 +422,7 @@ a) Experimentação e Fomento da Produção Agrária (DEFPA);
 
 b) Experimentação e Fomento da Produção Animal (DEFPAn);
 
-c) Vitivinicultura (DV).
+c) (Revogada.)
 
 2 - À DEFPA, também designada por Centro de Experimentação Agrária da Beira Litoral, compete:
 
@@ -423,19 +448,9 @@ e) Promover a divulgação, junto dos produtores, dos conhecimentos adquiridos a
 
 f) Colaborar com as Circunscrições Florestais de Coimbra e Viseu nas acções de fomento do regime silvo-pastoril, apícola, aquícola e cinegético.
 
-4 - À DV, também designada por Estação Vitivinícola da Beira Litoral, compete:
+4 - (Revogado.)
 
-a) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos regionais, incluindo os referentes à reconversão e ao condicionamento da vinha;
-
-b) Assegurar o estudo dos processos de fabrico e conservação dos vinhos regionais e promover a divulgação das suas características;
-
-c) Promover o aproveitamento dos subprodutos da vinificação;
-
-d) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;
-
-e) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;
-
-f) Colaborar na manutenção e controle da qualidade dos vinhos regionais e no levantamento do cadastro vitícola da região.
+> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
 ###### Artigo 12.º — Direcção de Serviços de Protecção à Produção Animal
 
@@ -503,11 +518,49 @@ b) Colaborar no estudo e formulação de medidas de política, no âmbito dos pr
 
 c) Coordenar o reconhecimento e inventariação das estruturas comerciais, agro-industriais e de armazenamento da região agrária.
 
-###### Artigo 14.º
+###### Artigo 13.º-A — Direcção de Serviços de Vitivinicultura
 
-##### Divisão de Protecção à Produção Vegetal
+1 - A DSV tem as competências referidas nas alíneas a), b), c), j) e l) do n.º 1, alínea a) do n.º 2, alíneas a) e b) do n.º 4 e alínea i) do n.º 5 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, na parte aplicável à vitivinicultura, e compreende as seguintes divisões:
 
-A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 4 do artigo 9.º à DV (Estação Vitivinícola da Beira Litoral).
+a) Estação Vitivinícola da Beira Litoral;
+
+b) Centro de Estudos Vitivinícolas do Dão.
+
+2 - À Estação Vitivinícola da Beira Litoral compete:
+
+a) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;
+
+b) Assegurar o estudo dos processos de fabrico e conservação dos vinhos e promover a divulgação das suas características;
+
+c) Promover o aproveitamento dos subprodutos da vinificação;
+
+d) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;
+
+e) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;
+
+f) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.
+
+3 - Ao Centro de Estudo Vitivinícolas do Dão, na área específica da sua actuação, compete:
+
+a) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;
+
+b) Assegurar o estudo dos processos de fabrico e conservação de vinhos e promover a divulgação das suas características;
+
+c) Promover o aproveitamento dos subprodutos da vinificação;
+
+d) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;
+
+e) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;
+
+f) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.
+
+> Aditado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
+
+###### Artigo 14.º — Divisão de Protecção à Produção Vegetal
+
+A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral.
+
+> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
 ###### Artigo 15.º — Serviços operativos de âmbito local
 
@@ -533,13 +586,15 @@ b) Promover, através da transferência de tecnologia, a divulgação e incremen
 
 1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.
 
-2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas zonas agrárias de Aveiro, de Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.
+2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19.
 
 ###### Artigo 17.º — Unidades experimentais e centros de formação técnico-profissional
 
 1 - Para o exercício das suas actividades no âmbito da experimentação a DRABL dispõe das seguintes unidades, sem prejuízo de lhes poder vir a ser dado outro destino:
 
-a) Centro de Reprodução Animal e Fomento Pecuário da Beira Litoral, integrando as explorações agro-pecuárias de Vidreira do Norte (Mira) e Capa Rota e Mucate (Soure);
+a) Centro de Reprodução Animal e Fomento Pecuário da Beira Litoral, integrando as explorações agro-pecuárias de Videira do Norte (Mira) e Capa Rota e Mucate (Soure);
 
 b) Centro de Experimentação Agrária da Beira Litoral, integrando as unidades de exploração do Tojal Mau e a Estação Agrária de Viseu, situadas em Viseu.
 
@@ -554,6 +609,8 @@ c) Centro de Formação Técnico-Profissional de Viseu, em Viseu.
 3 - Mediante proposta fundamentada do director regional, ouvidos os Conselhos Técnico Regional e Administrativo, poderá o Ministro da Agricultura, Pescas e Alimentação alterar por despacho o número e designação das unidades experimentais ou centros de formação técnico-profissional sempre que tal se torne necessário ao cumprimento dos objectivos da DRABL.
 
 4 - As unidades experimentais e os centros de formação técnico-profissional são coordenados por um funcionário da carreira técnica superior, de grau 1, ou da carreira técnica, designado pelo director regional.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-647304), publicado em 1987-09-30.
 
 ### CAPÍTULO III — Pessoal
 

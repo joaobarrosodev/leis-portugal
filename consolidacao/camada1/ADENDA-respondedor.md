@@ -22,3 +22,11 @@ Uma linha por instrução que não aplicaste, separadas por «\n». A linha tem 
 - `alvo incerto`: não se sabe com segurança onde se aplica. Diz porquê.
 
 Se tudo ficou aplicado, `nao_aplicavel` é null.
+
+### Ronda 117
+
+Na ronda 116, as respostas recusadas falharam sobretudo nestes três pontos:
+
+- **Substituir, não acrescentar.** Quando um alterador dá nova redação a um artigo, a um número ou a uma alínea, devolve o artigo inteiro com o texto em vigor e sem o texto antigo. O corpo antigo não pode ficar a seguir à nova redação, nem a seguir a «(Revogado.)», nem depois de um título de divisão dentro do artigo («##### Divisão de …»). Se esse título era a epígrafe do artigo revogado, põe-na em `epigrafe` e tira-a do corpo.
+- **O texto vem das fontes, não dos reparos.** Cada parágrafo novo é copiado letra a letra do diploma que altera ou do texto atual. Um reparo pode dizer qual é o texto certo, mas só o usas se o encontras numa fonte. Se não o encontras, vai para `nao_aplicavel` com o motivo.
+- **«(Revogado.)» é o corpo, não o título.** O título fica `###### Artigo N.º — Epígrafe` e o corpo é «(Revogado.)».

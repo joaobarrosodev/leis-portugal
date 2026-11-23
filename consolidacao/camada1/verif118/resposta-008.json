@@ -1,0 +1,277 @@
+[
+ {
+  "id": "pt:dre:386237:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Igual letra a letra ao artigo 1.º republicado pela Declaração de Rectificação n.º 9/2001 (corrige incorrecções da Lei).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 2.º da Declaração de Rectificação n.º 9/2001 (estatuto remuneratório em minúsculas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 3.º republicado pela Declaração de Rectificação n.º 9/2001.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 5.º republicado pela Declaração de Rectificação n.º 9/2001 (n.º 1 rectificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Anexo do cartão revogado pelo art. 2.º da Lei 16/2009 (anexo ao Estatuto na versão da Lei 3/2001); fica o título e (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo que só vem no texto republicado do Estatuto em anexo à Lei 60/2019 (art. 4.º, republicação); consolidado igual a esse texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º-B",
+    "veredicto": "certo",
+    "motivo": "Artigo que só vem no texto republicado do Estatuto em anexo à Lei 60/2019 (art. 4.º, republicação); consolidado igual a esse texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º-C",
+    "veredicto": "certo",
+    "motivo": "Artigo que só vem no texto republicado do Estatuto em anexo à Lei 60/2019 (art. 4.º, republicação); consolidado igual a esse texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 4.º da Lei 43/2007; epígrafe mantida e (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º, n.º 1, da Lei 3/2001; consolidado igual à republicação da Lei 60/2019 (epígrafe e (Revogado.)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º da Lei 60/2019; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º-A",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, após normalização de ligações e espaços, ao texto republicado do Estatuto em anexo à Lei 60/2019, que incorpora as alterações da Lei 3/2001 (rectificada), 24/2003, 52-A/2005, 44/2006, 45/2006, 43/2007, 16/2009 e 60/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO #2",
+    "veredicto": "certo",
+    "motivo": "Anexo do cartão revogado pelo art. 2.º da Lei 16/2009; fica o título e (Revogado.).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 52-A/2005, arts. 1.º, 2.º, 3.º, 5.º e 6.º (alteração/revogação das Leis 4/85, 29/87, 9/91, DL 252/92, Lei 144/85)",
+    "motivo": "Dirigidas a outros diplomas; só o art. 4.º (art. 18.º do Estatuto) visa o original e está aplicado."
+   },
+   {
+    "instrucao": "Lei 30/2008, art. 24.º (revoga disposições das Leis 4/83, 4/85, 34/87 e 64/93)",
+    "motivo": "Outros diplomas; nenhuma instrução dirigida à Lei 3/2001 nem ao Estatuto dos Deputados."
+   },
+   {
+    "instrucao": "Lei 16/2009, art. 3.º (substituir «cartão especial de identificação» por «cartão de Deputado»)",
+    "motivo": "Mudança de designação sem nova redação; no consolidado só subsiste a expressão antiga no art. 3.º da Lei 3/2001 (que não é do Estatuto) e nos títulos dos anexos revogados."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

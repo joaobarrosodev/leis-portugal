@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:322681:por",
+  "artigos": [
+   {
+    "chave": "13.º",
+    "epigrafe": "",
+    "texto": "1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.\n\n2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes, curadores e directores.",
+    "alterador": 4
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, criação de um lugar de motorista no Instituto de Reeducação de S. Bernardino: não textual (portaria ao abrigo do artigo 75.º do Regulamento; não altera texto do decreto-lei)\nAlterador 2, criação de lugares de fiscal de pedreiras e de serviçal no Instituto de Reeducação Padre António de Oliveira: não textual (portaria ao abrigo do artigo 75.º do Regulamento; não altera texto do decreto-lei)\nAlterador 3, alteração do mapa n.º 2 (regentes agrícolas do Instituto de Reeducação de Vila Fernando): só em imagem (o mapa n.º 2 só existe em imagem, dentro do texto do artigo 33.º, sem título de anexo no texto atual, e o alterador não traz imagem nova)\nAlterador 4, art. 2.º, mapa n.º 4 (dois lugares de curador no tribunal central do Porto): só em imagem (o mapa n.º 4 existe no original, mas só em imagem, a seguir ao artigo 33.º, sem título de anexo no texto atual, e o alterador não traz imagem nova)\nAlterador 4, arts. 3.º a 7.º, alterações à Organização Tutelar de Menores: outro diploma\nAlterador 5, arts. 1.º a 5.º, alterações aos mapas n.os 2 e 3: só em imagem (os mapas só existem em imagem, sem título de anexo no texto atual, e o alterador não traz imagem nova)\nAlterador 5, art. 6.º, remuneração de enfermeiros e auxiliares de enfermagem: não textual (norma autónoma que não altera texto do original)",
+  "instrucoes": [
+   "Alterador 4, art. 1.º: nova redação do artigo 13.º com o n.º 1 «...» (fica o atual) e o n.º 2 novo — artigo 13.º devolvido inteiro com o n.º 2 do alterador, sem o n.º 2 antigo.",
+   "Alterador 4, art. 2.º: mapa n.º 4 — confirmado que o mapa existe no original, mas só em imagem e sem título de anexo: em nao_aplicavel.",
+   "Alteradores 1, 2, 3 e 5: criação e extinção de lugares nos quadros e mapas — em nao_aplicavel."
+  ]
+ }
+]

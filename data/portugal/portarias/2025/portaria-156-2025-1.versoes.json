@@ -224,5 +224,8 @@
    "changed_by": [],
    "markdown": "## QUADRO I — Critérios e níveis para atribuição de ICD\n\n(a que se refere o n.º 5 do artigo 10.º)\n\n| Intervalo de resultados do ICD (%) | Apuramento |\n| --- | --- |\n| [0; 50] | 0 |\n| ]50; 90[ | VMM* x (IDE** - 50)/40 |\n| [90; 100] | VMM* |\n\n*VMM - Corresponde ao valor máximo mensal fixado para o correspondente grupo de pessoal, fixado, neste caso no valor de 900 euros.\n**IDE - Indicador de Desempenho da Equipa.\n118899395"
   }
- }
+ },
+ "unavailable_dates": [
+  "2025-04-07"
+ ]
 }

@@ -1,0 +1,117 @@
+[
+ {
+  "id": "pt:dre:172897:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Corpo conforme DL 47866 art. 1.º; § 2.º com alíneas a)-c) conforme DL 280/84 (repôs o § 2.º revogado pelo DL 720/76); §§ 1.º e 3.º iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 47866 art. 1.º; o art. 4.º do DL 47866 revogado pelo DL 720/76 é outra norma (ampliação de prazo), não este artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º (corpo e § 1.º), que substitui a do DL 47866.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 720/76 art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º (substitui a do DL 47866, incluindo o § único).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º (60 dias).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º (corpo, §§ 1.º e 2.º); revogação do § único pelo DL 720/76 coerente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º (corpo e § único).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e alíneas inalterados; §§ 1.º e 2.º do DL 280/84 substituem o § único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 280/84 art. 1.º, última a vigorar.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 636/70 art. 1.º, com a al. a) do n.º 2 em 'Fundo de Fomento do Desporto' (DL 46449 art. 24.º, coincidente).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 636/70 art. 1.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47866 art. 4.º (prazo do art. 11.º ampliado para 180 dias)",
+    "motivo": "Prorrogação de prazo, não textual; o art. 11.º foi depois reescrito pelo DL 280/84."
+   },
+   {
+    "instrucao": "DL 720/76 art. 2.º (prazos dos arts. 9.º e 11.º ampliados para 60 e 210 dias)",
+    "motivo": "Prorrogação de prazo, não textual; arts. 9.º e 11.º reescritos pelo DL 280/84."
+   },
+   {
+    "instrucao": "Portaria 1106/80 (quinhão da DG da Assistência Social entregue ao IGFSS)",
+    "motivo": "Não é textual: muda o destinatário da receita sem nova redação."
+   },
+   {
+    "instrucao": "DL 400/82",
+    "motivo": "O diploma que altera não traz texto (vazio na vista)."
+   },
+   {
+    "instrucao": "DL 280/84 art. 6.º (revoga disposições incompatíveis)",
+    "motivo": "Revogação condicional («que se mostrem incompatíveis»)."
+   },
+   {
+    "instrucao": "DL 84/85 art. 26.º a) (revoga o DL 43777 na parte prejudicada)",
+    "motivo": "Revogação condicional («na parte prejudicada»)."
+   },
+   {
+    "instrucao": "DL 317/2002 (altera e republica o DL 84/85)",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "Retificação (Declaração de 12-07-1961) do § 3.º do art. 17.º",
+    "motivo": "A declaração não vem na vista; sem texto da retificação."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": "pt:dre:397495:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Retificação do preâmbulo (1.º parágrafo): «e procederem» passa a «e procederam»; consolidado aplica-o.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Retificação do preâmbulo (último parágrafo): «e alienação de participação» passa a «e alienação de participações»; consolidado aplica-o.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "O artigo 8.º, n.º 1, do DL 406/90 revoga o DL 330/82 com excepção do artigo 14.º: artigos 1.º a 13.º ficam '(Revogado.)' e o 14.º mantém-se. A retificação do artigo 3.º, n.º 1, fica sem efeito útil (artigo revogado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Artigos 15.º a 18.º revogados pelo artigo 8.º, n.º 1, do DL 406/90 (excepto o artigo 14.º); estatuto anexo mantém-se (n.º 2 do mesmo artigo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Retificação do artigo 15.º, n.º 5, do estatuto: «conselho administrativo» passa a «conselho de administração»; aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Retificação do artigo 18.º, n.º 1, al. b), do estatuto: «a alínea g) do n.º 1 do artigo 16.º» passa a «a alínea e) do n.º 2 do artigo 16.º»; aplicada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Anexo I (lista de participações, só em imagem) fica '(Revogado.)' pelo artigo 8.º, n.º 1, do DL 406/90; as retificações dos valores do anexo I ficam sem efeito útil.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Anexo II (critérios de avaliação do artigo 11.º, revogado) está abrangido pela revogação do DL 330/82 (artigo 8.º, n.º 1, do DL 406/90), não sendo o estatuto que o n.º 2 mantém em vigor; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Retificação de três valores do anexo I (OPCA, Companhia Portuguesa de Higiene, SPE)",
+    "motivo": "Anexo I só existe em imagem e o alterador não traz imagem nova; além disso o anexo I fica revogado pelo DL 406/90"
+   },
+   {
+    "instrucao": "DL 406/90, art. 1.º: denominação passa a IPE - Investimentos e Participações Empresariais, S. A.",
+    "motivo": "Mudança de designação sem nova redação de unidade do original; os estatutos mantêm-se até alteração pela assembleia geral (arts. 6.º, 7.º e 8.º, n.º 2)"
+   },
+   {
+    "instrucao": "DL 406/90, arts. 2.º a 5.º: titularidade das acções, alienação de participações, administrador nomeado, fim da equiparação ao Estado",
+    "motivo": "Normas autónomas, sem nova redação de unidade do original"
+   },
+   {
+    "instrucao": "DL 406/90, arts. 6.º, 7.º e 8.º, n.º 2: alteração dos estatutos pela assembleia geral; estatutos continuam em vigor",
+    "motivo": "Efeito adiado para facto futuro (deliberação da assembleia geral); os estatutos não mudam por este alterador"
+   }
+  ],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

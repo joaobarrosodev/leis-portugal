@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:303221:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "O registo do DRE (repealed_by pt:dre:140549) diz «Revogado, a partir de 12.07.2009, o Dec Lei 109/77 [...] com as alterações deste diploma - que será revogado na mesma data - pelo DEC LEI.137-A/2009». Mas o art. 16.º do DL 137-A/2009 só revoga o DL 109/77 «alterado pelos Decretos-Leis n.os 406/78, [...] 116/92 [...] e 274/98»: os arts. 1.º a 3.º e o anexo (que alteram os Estatutos da CP) perdem o objeto; os arts. 4.º a 12.º (concessão e subconcessões) não são revogados expressamente pelo texto."
+  }
+ },
+ {
+  "id": "pt:dre:193229:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 16.º, § único: falta aplicar a Declaração de 26 de janeiro de 1966 (pt:dre:489553, DG I n.º 29, de 4/2/1966, no acervo em data/portugal/declaracoes/1966/declaracao-1966-02-04-489553.md), que retifica a nova redação dada pelo art. 1.º do DL 46815 ao § único do artigo 16.º: onde se lê «... a frequência provável das consultas e os horários clínicos em uso local.» deve ler-se «... a frequência provável das consultas e os honorários clínicos em uso local.». A justificação «a retificação não vem no pedido» não devia ter sido aceite: a declaração muda o texto deste diploma. Texto certo do fim do § único: «... as dificuldades de deslocação, a frequência provável das consultas e os honorários clínicos em uso local.»"
+  ],
+  "vigencia": null
+ }
+]

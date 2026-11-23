@@ -1,0 +1,15 @@
+[
+ {
+  "id": "pt:dre:629160:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação da base 10: alvo incerto: o texto atual do pedido não traz o texto das bases (o «Corpo do anexo» do ANEXO I vem vazio e os títulos CAPÍTULO I a XXVII vêm sem corpo), e as bases não são artigos com chave; não há onde aplicar sem inventar o texto atual.\nAlterador 2, art. 2.º, nova redação das bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 61, 66 e 79: alvo incerto: o texto atual do pedido não traz o texto das bases (o «Corpo do anexo» do ANEXO I vem vazio e os títulos CAPÍTULO I a XXVII vêm sem corpo), e as bases não são artigos com chave; não há onde aplicar sem inventar o texto atual; as novas redações remetem com «...» e «(Anterior ...)» para esse texto.\nAlterador 2, art. 2.º, base 60, n.º 2: só em imagem: a nova redação só vem em imagem e a base 60 não está no texto atual.\nAlterador 2, art. 3.º, n.º 1, aditamento das bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A: alvo incerto: o texto atual do pedido não traz o texto das bases (o «Corpo do anexo» do ANEXO I vem vazio e os títulos CAPÍTULO I a XXVII vêm sem corpo), e as bases não são artigos com chave; não há onde aplicar sem inventar o texto atual; não se sabe em que unidade nem com que chave entram.\nAlterador 2, art. 3.º, n.º 2, aditamento do quadro IV: alvo incerto: não há título de anexo nem de quadro no texto atual onde o pôr, e os quadros I a III não vêm no pedido.\nAlterador 2, art. 5.º, n.º 2, revogação do n.º 3 da base 19, dos n.os 5 a 9, 14 e 15 da base 61 e dos n.os 6 a 9 da base 66: alvo incerto: o texto atual do pedido não traz o texto das bases (o «Corpo do anexo» do ANEXO I vem vazio e os títulos CAPÍTULO I a XXVII vêm sem corpo), e as bases não são artigos com chave; não há onde aplicar sem inventar o texto atual.\nAlterador 2, art. 1.º e art. 5.º, n.º 1 (Decreto-Lei n.º 374/2007): outro diploma.\nAlterador 2, art. 6.º, republicação das bases: só em imagem: a republicação só vem como ligação ao documento original.\nAlterador 3, art. 1.º, nova redação das bases 2 e 3: alvo incerto: o texto atual do pedido não traz o texto das bases (o «Corpo do anexo» do ANEXO I vem vazio e os títulos CAPÍTULO I a XXVII vêm sem corpo), e as bases não são artigos com chave; não há onde aplicar sem inventar o texto atual.",
+  "instrucoes": [
+   "Nenhum alterador muda os artigos 1.º a 8.º do decreto-lei: ficam como estão.",
+   "Todas as instruções visam as bases do anexo (Lei 13/2008: base 10; DL 110/2009: novas redações, aditamentos, quadro IV e revogações; DL 44-A/2010: bases 2 e 3). O texto atual do pedido não traz o corpo das bases, por isso nada foi aplicado e tudo vai para nao_aplicavel.",
+   "O corpo do ANEXO I fica vazio, como está no texto atual: não se cola nele o texto dos alteradores nem a ligação à republicação (reparo da segunda leitura)."
+  ]
+ }
+]

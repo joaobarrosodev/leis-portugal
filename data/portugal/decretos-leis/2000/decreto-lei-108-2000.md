@@ -74,7 +74,7 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2000/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1008338516
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1008338516
-  retrieved_at: '2026-10-22T13:43:34Z'
+  retrieved_at: '2026-11-23T14:58:52Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-05-25T00:00:00Z'
@@ -85,7 +85,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:43:34Z'
+  generated_at: '2026-11-23T14:58:52Z'
   notes: 1 versão(ões); histórico completo em decreto-lei-108-2000.versoes.json.
 reuse:
   status: permitted
@@ -123,7 +123,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:43:34Z'
+  checked_at: '2026-11-23T14:58:52Z'
   warnings: []
   errors: []
 ---

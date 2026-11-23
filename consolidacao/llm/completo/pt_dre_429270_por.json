@@ -310,8 +310,8 @@
     {
       "chave": "51.º-A",
       "epigrafe": "Limite de idade",
-      "texto": "(Revogado.)",
-      "alterador": 21
+      "texto": "O limite de idade para o exercício de funções pelo pessoal do INPP é o aprovado pelo [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, com excepção do dos pilotos e do pessoal auxiliar de pilotagem, que é fixado em 65 anos.",
+      "alterador": 9
     },
     {
       "chave": "52.º",
@@ -2050,13 +2050,13 @@
     {
       "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "##### DIVISÃO XI — Funchal\n\nI - Pilotagem\n\n(Revogado.)",
       "alterador": 21
     },
     {
       "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-B",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "II - Requisições\n\n(Revogado.)",
       "alterador": 21
     },
     {
@@ -2068,7 +2068,7 @@
     {
       "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-D",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "III - Taxas\n\n(Revogado.)",
       "alterador": 21
     },
     {
@@ -2120,34 +2120,6 @@
       "atual": "##### DIVISÃO XI — Vila Real de Santo António",
       "novo": "##### DIVISÃO X — Vila Real de Santo António",
       "alterador": 2
-    },
-    {
-      "atual": null,
-      "novo": "##### DIVISÃO XI — Funchal",
-      "alterador": 3,
-      "antes_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A",
-      "depois_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º"
-    },
-    {
-      "atual": null,
-      "novo": "###### I - Pilotagem",
-      "alterador": 3,
-      "antes_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A",
-      "depois_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º"
-    },
-    {
-      "atual": null,
-      "novo": "###### II - Requisições",
-      "alterador": 3,
-      "antes_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-B",
-      "depois_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A"
-    },
-    {
-      "atual": null,
-      "novo": "###### III - Taxas",
-      "alterador": 3,
-      "antes_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-D",
-      "depois_de": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-C"
     }
   ],
   "anexos": [
@@ -2187,27 +2159,25 @@
       "alterador": 21
     }
   ],
-  "nao_aplicavel": "Alterador 1, Portaria n.º 49/79, fixação dos coeficientes das taxas de pilotagem: não textual (fixação de coeficientes ao abrigo do n.º 3 do artigo 32.º; não altera o texto do diploma).\nAlterador 7, Portaria n.º 366/83, n.º 1.º (coeficientes das taxas de pilotagem): não textual (fixação de coeficientes ao abrigo do n.º 3 do artigo 32.º).\nAlterador 8, Portaria n.º 143/85, n.º 1.º (coeficientes das taxas de pilotagem): não textual (fixação de coeficientes ao abrigo do n.º 3 do artigo 32.º).\nAlterador 12, Portaria n.º 280/93 (percentagem do Fundo de Aposentações para 1993): não textual (fixação de percentagem prevista na alínea a) do n.º 3 do artigo 35.º).\nAlterador 13 (e 14, duplicado), Decreto-Lei n.º 403/93, artigo 2.º, n.º 1, revogação dos artigos 58.º a 67.º: efeito adiado (o n.º 3 faz depender a revogação da entrada em vigor da portaria dos quadros de pessoal de cada departamento); os artigos ficam revogados pelo alterador 21.\nAlterador 13 (e 14, duplicado), Decreto-Lei n.º 403/93, artigo 2.º, n.º 1, revogação da Portaria n.º 123/80: outro diploma.\nAlterador 15, Portaria n.º 210/95 (actualização de remunerações e senhas de presença): não textual.\nAlterador 16, Portaria n.º 500/95 (percentagem do Fundo de Aposentações para 1995): não textual.\nAlterador 17, Decreto-Lei n.º 296-A/95 (Lei Orgânica do Governo, que só refere o INPP entre os organismos do ministério): outro diploma.\nAlterador 18, Portaria n.º 240/96 (actualização de remunerações, escalão de progressão e senhas de presença): não textual.\nAlterador 20, Decreto-Lei n.º 234-A/98, suspensão da aplicabilidade do artigo 5.º aos portos do continente: não textual (suspensão).",
+  "nao_aplicavel": "Alterador 1, coeficientes das tabelas A, B e C (Portaria n.º 49/79): não textual: fixação de coeficientes ao abrigo do n.º 3 do artigo 32.º, sem alterar o texto do diploma.\nAlterador 7, coeficientes das taxas de pilotagem (Portaria n.º 366/83, n.º 1.º): não textual: fixação de coeficientes; os novos valores da tabela D (n.º 2.º) ficam sem efeito no texto porque o alterador 21 revoga o anexo.\nAlterador 8, coeficientes das taxas de pilotagem (Portaria n.º 143/85, n.º 1.º): não textual: fixação de coeficientes; os novos valores da tabela D (n.º 2.º) ficam sem efeito no texto porque o alterador 21 revoga o anexo.\nAlterador 10, artigo 11.º do Estatuto do Pessoal das Administrações dos Portos (DL 101/88): outro diploma.\nAlterador 11, artigo 11.º do Estatuto do Pessoal das Administrações dos Portos (DL 101/88): outro diploma (o alterador 11 repete o 10).\nAlterador 12, percentagem do Fundo de Aposentações para 1993: não textual: fixação anual ao abrigo da alínea a) do n.º 3 do artigo 35.º.\nAlterador 13, revogação dos artigos 58.º a 67.º (artigo 2.º, n.º 1): efeito adiado: o n.º 3 faz depender a revogação da entrada em vigor da portaria dos quadros de cada departamento; os artigos ficam revogados pelo alterador 21. A revogação da Portaria n.º 123/80 é de outro diploma.\nAlterador 14, revogação dos artigos 58.º a 67.º (artigo 2.º, n.º 1): efeito adiado (o alterador 14 repete o 13).\nAlterador 15, actualização de remunerações e senhas de presença (Portaria n.º 210/95): não textual.\nAlterador 16, percentagem do Fundo de Aposentações para 1995: não textual.\nAlterador 17, Lei Orgânica do Governo (DL 296-A/95), integração do INPP no ministério: não textual.\nAlterador 18, actualização de remunerações e senhas de presença (Portaria n.º 240/96): não textual.\nAlterador 20, suspensão da aplicabilidade do artigo 5.º aos portos do continente: não textual: suspensão; a alínea a) do artigo 15.º do Regulamento Geral do Serviço de Pilotagem é de outro diploma.\nAlterador 21, revogação do DL 361/78 quanto ao artigo 51.º-A: alvo incerto: o artigo 51.º-A, aditado pelo artigo 3.º do DL 188/89, não está entre as excepções da alínea a) do n.º 1 do artigo 12.º, mas a mesma alínea mantém «em vigor as disposições constantes do Decreto-Lei n.º 188/89»; fica com o texto do alterador 9.\nAlterador 21, alíneas b) e c) do n.º 1 do artigo 12.º (DL 282-C/84 e DL 319/93): outro diploma.\nAlterador 22, alíneas do artigo 2.º que não são a alínea c) (outros diplomas): outro diploma.",
   "instrucoes": [
-    "Alterador 1 (Portaria 49/79): coeficientes das tabelas A, B e C, ao abrigo do artigo 32.º - não textual (nao_aplicavel).",
-    "Alterador 2 (Portaria 240/79): nova redacção de numerosos artigos do Estatuto do INPP (2.º, 3.º, 6.º, 9.º, 12.º, 14.º, 17.º, 25.º, 29.º, 31.º, 38.º, 44.º, 46.º, 54.º, 64.º, 71.º, 80.º, 82.º), do Estatuto do Pessoal, do Estatuto Disciplinar e do Regulamento de Prestação de Serviços e Taxas, da nota B da tabela C e da figura do anexo IV do Regulamento: todos esses artigos e anexos foram depois revogados pelo alterador 21, que fica como redacção final. Aplicada a renumeração das divisões do capítulo III do Regulamento (VI Lisboa a XI Vila Real de Santo António passam a V a X) em \"titulos\".",
-    "Alterador 3 (Portaria 273/79): n.º 1 classificação do departamento do Funchal (não textual, sem texto no diploma); n.º 2 aditado o artigo 67.º-A (Funchal) e n.º 3 nova redacção do n.º 3 do artigo 1.º do Regulamento - revogados depois pelo alterador 21; n.º 4 aditada a divisão XI - Funchal com os subtítulos I - Pilotagem, II - Requisições, III - Taxas (em \"titulos\", inseridos depois do artigo 103.º do Regulamento, antes do 103.º-A) e os artigos 103.º-A a 103.º-F (aditados; revogados pelo alterador 21).",
-    "Alteradores 4 e 5 (Portaria 123/80, duplicada): nova redacção do n.º 1 do artigo 64.º (4 pilotos) - artigo depois revogado pelo alterador 21.",
-    "Alterador 6 (Portaria 443/80): nova redacção do artigo 73.º - revogado depois pelo alterador 9.",
-    "Alteradores 7 e 8 (Portarias 366/83 e 143/85): coeficientes (não textual) e novos valores de embarque e desembarque de pilotos na tabela D - tabela revogada depois pelo alterador 21.",
-    "Alterador 9 (DL 188/89): art. 1.º nova redacção do artigo 35.º (alínea d) do n.º 1 e n.os 3 e 4) e do artigo 72.º; art. 3.º aditado o artigo 51.º-A; art. 4.º, n.º 1, revogado o artigo 73.º (aplicado: \"(Revogado.)\", alterador 9); art. 5.º nova redacção dos artigos 58.º e 59.º do Estatuto do Pessoal (58.º aplicado; 59.º revogado depois pelo alterador 22; 51.º-A revogado pelo alterador 21; 72.º revogado pelo alterador 22).",
-    "Alteradores 10 e 11 (DL 356/91, duplicado): alínea a) do n.º 1 dos artigos 19.º e 31.º do Estatuto do Pessoal - artigos depois revogados pelo alterador 21; o artigo 11.º do Estatuto das Administrações dos Portos é de outro diploma.",
-    "Alteradores 12, 15, 16 e 18: portarias de fixação de percentagens e remunerações - não textuais.",
-    "Alteradores 13 e 14 (DL 403/93, duplicado): art. 1.º nova redacção do artigo 57.º (epígrafe \"Quadros de pessoal\"; artigo depois revogado pelo alterador 21); art. 2.º, n.º 1, revogação dos artigos 58.º a 67.º com efeito adiado (n.º 3) - nao_aplicavel; n.º 2, revogados os artigos 78.º e 79.º (aplicado, alterador 13).",
-    "Alterador 17 (DL 296-A/95): Lei Orgânica do Governo - outro diploma.",
-    "Alterador 19 (DL 143/97): nova redacção dos artigos 9.º a 14.º (13.º com a epígrafe \"Competência do presidente\"), depois revogados pelo alterador 21; art. 2.º epígrafe da secção I da divisão II do capítulo II passa a \"Conselho directivo\" (titulos); art. 3.º revogados os artigos 15.º a 19.º (aplicado, alterador 19).",
-    "Alterador 20 (DL 234-A/98): suspensão do artigo 5.º - não textual.",
-    "Alterador 21 (DL 331/98), artigo 12.º, n.º 1, alínea a): revoga o Decreto-Lei n.º 361/78, com excepção da alínea d) do n.º 1 e dos n.os 2, 3 e 4 do artigo 35.º e dos artigos 58.º e 59.º (Estatuto do Pessoal) e 72.º, na redacção do DL 188/89. Aplicado: todos os artigos do decreto e dos anexos I, III e IV ficam \"(Revogado.)\", incluindo os aditados 51.º-A, 67.º-A e 103.º-A a 103.º-F; no artigo 35.º ficam revogadas as alíneas a) a c) do n.º 1 (mantém-se o proémio, que introduz a alínea d)); os corpos dos anexos com conteúdo (modelo de cartão, tabelas de inaptidão, tabelas A, C e D, anexos IV e V do Regulamento) ficam \"(Revogado.)\". A ressalva das disposições transitórias (artigo 10.º do DL 331/98) não adia a revogação.",
-    "Alterador 22 (DL 229/2005), artigo 2.º: alínea c) revoga o artigo 72.º (aplicado); o proémio revoga todas as normas que estabelecem acréscimos de tempo de serviço para aposentação no âmbito da CGA - o artigo 59.º do Estatuto do Pessoal (redacção do DL 188/89, mantido pelo DL 331/98) estabelece exactamente esses acréscimos (20% e 10%), com o mesmo texto do artigo 72.º, pelo que fica revogado (alterador 22)."
+    "Alterador 1 (Portaria 49/79): fixa coeficientes; não textual (nao_aplicavel).",
+    "Alterador 2 (Portaria 240/79): rectifica e altera muitos artigos do Estatuto, do Estatuto do Pessoal, do Estatuto Disciplinar e do Regulamento, a nota B da tabela C e a figura do anexo IV; todos esses artigos e anexos ficam depois revogados pelo alterador 21. Aplicada a renumeração das divisões do capítulo III do Regulamento (VI Lisboa passa a V, ... XI Vila Real de Santo António passa a X) em titulos.",
+    "Alterador 3 (Portaria 273/79): adita o artigo 67.º-A, altera o n.º 3 do artigo 1.º do Regulamento e adita a divisão XI — Funchal com os artigos 103.º-A a 103.º-F e os subtítulos I, II e III; os artigos aditados ficam revogados pelo alterador 21; o título «##### DIVISÃO XI — Funchal» e os subtítulos ficam no corpo dos artigos 103.º-A, 103.º-B e 103.º-D, antes de «(Revogado.)». O n.º 1 (classificação do departamento) não é textual.",
+    "Alteradores 4 e 5 (Portaria 123/80, repetida): nova redacção do n.º 1 do artigo 64.º; o artigo fica revogado pelo alterador 21.",
+    "Alterador 6 (Portaria 443/80): nova redacção do artigo 73.º; o artigo é depois revogado pelo alterador 9.",
+    "Alteradores 7 e 8: coeficientes não textuais; valores da tabela D superados pela revogação do anexo (alterador 21).",
+    "Alterador 9 (DL 188/89): nova redacção do artigo 35.º (alínea d) do n.º 1 e n.os 3 e 4) e do artigo 72.º; aditado o artigo 51.º-A; revogado o artigo 73.º; nova redacção dos artigos 58.º e 59.º do Estatuto do Pessoal.",
+    "Alteradores 10 e 11 (DL 356/91, repetido): nova redacção da alínea a) do n.º 1 dos artigos 19.º e 31.º do Estatuto do Pessoal; ficam revogados pelo alterador 21; o artigo 11.º do DL 101/88 é de outro diploma.",
+    "Alteradores 12, 15, 16, 17, 18 e 20: não textuais (nao_aplicavel).",
+    "Alteradores 13 e 14 (DL 403/93, repetido): nova redacção e epígrafe do artigo 57.º (epígrafe mantida, artigo revogado depois pelo alterador 21); revogados os artigos 78.º e 79.º; a revogação dos artigos 58.º a 67.º tem efeito adiado (nao_aplicavel), mas ficam revogados pelo alterador 21.",
+    "Alterador 19 (DL 143/97): nova redacção dos artigos 9.º a 14.º (epígrafe do 13.º passa a «Competência do presidente»; os artigos ficam revogados pelo alterador 21); a epígrafe da secção I da divisão II do capítulo II passa a «Conselho directivo» (titulos); revogados os artigos 15.º a 19.º.",
+    "Alterador 21 (DL 331/98), alínea a) do n.º 1 do artigo 12.º: revoga o DL 361/78, com os seus anexos, excepto a alínea d) e os n.os 2, 3 e 4 do artigo 35.º e os artigos 58.º e 59.º do Estatuto do Pessoal e 72.º, na redacção do DL 188/89: todos os outros artigos ficam «(Revogado.)» (no artigo 35.º, as alíneas a) a c) do n.º 1 ficam «(Revogada.)»); os corpos dos anexos com texto ou imagem ficam «(Revogado.)». O artigo 51.º-A fica em vigor (nao_aplicavel). As disposições transitórias do DL 331/98 (artigo 10.º) não adiam a revogação do texto.",
+    "Alterador 22 (DL 229/2005), artigo 2.º: revoga o artigo 72.º (alínea c)) e, pelo proémio («todas as normas que estabelecem acréscimos de tempo de serviço ... no âmbito da Caixa Geral de Aposentações»), o artigo 59.º do Estatuto do Pessoal, que estabelece os mesmos acréscimos de 20% e 10%: ambos «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

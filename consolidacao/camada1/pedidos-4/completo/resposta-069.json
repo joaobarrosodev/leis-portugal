@@ -1,0 +1,45 @@
+[
+ {
+  "id": "pt:dre:432798:por",
+  "artigos": [
+   {
+    "chave": "5.º",
+    "epigrafe": "(Empréstimos)",
+    "texto": "1 - O Governo fica autorizado a contrair empréstimos internos e externos para fazer face ao défice do Orçamento Geral do Estado, até ao montante de 121013 milhões de escudos, com as condições e limites estabelecidos nos números seguintes, e sem prejuízo do cumprimento da alínea h) do artigo 164.º da Constituição.\n\n2 - A emissão de empréstimos internos subordinar-se-á às seguintes condições gerais:\n\na) Não contribuírem para o agravamento das tensões inflacionistas, através do seu efeito sobre o aumento global dos meios de pagamento;\n\nb) Serem apresentados à subscrição do público e dos investidores institucionais até perfazer um montante mínimo de 7,5 milhões de contos, nas condições correntes do mercado em matérias de prazo, taxa de juro e demais encargos;\n\nc) Serem os restantes empréstimos colocados junto das instituições financeiras e, em última instância, junto do banco central.\n\n3 - A emissão dos empréstimos externos referidos no n.º 1 do presente artigo subordinar-se-á ainda às condições gerais seguintes:\n\na) Serem exclusivamente aplicados no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos e principalmente na componente importada;\n\nb) Inserirem-se em condições que não sejam mais desfavoráveis do que as correntes no mercado internacional de capitais em matérias de prazo, taxa de juro e demais encargos.\n\n4 - O Governo informará trimestralmente a Assembleia da República acerca do montante, condições, entidade financiadora e destino de todos os empréstimos lançados.",
+    "alterador": 1
+   },
+   {
+    "chave": "31.º",
+    "epigrafe": "(Receitas dos organismos de coordenação económica)",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO I — Mapa das receitas do Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   },
+   {
+    "titulo": "## ANEXO II — Mapa das despesas, por Ministérios e Secretarias de Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   },
+   {
+    "titulo": "## ANEXO III — Mapa da classificação funcional das despesas públicas, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, artigo 2.º (o Governo procede às alterações ao Orçamento): não textual.\nAlterador 1, artigo 4.º (renovação das autorizações legislativas dos artigos 18.º, alíneas e) e f), e 26.º, alíneas c) e h), com redução do prazo): não textual.\nAlterador 1, artigo 5.º (imposto de turismo): outro diploma: norma própria da Lei n.º 43/79, que não altera o texto do original.\nAlterador 2, artigos 1.º e 2.º (taxas pautais ao abrigo da autorização do artigo 24.º): não textual.",
+  "instrucoes": [
+   "Alt. 1, art. 1.º e anexos I a III: substituem, na parte alterada, os anexos I, II e III (mapas só em imagem): corpo atual + imagem do alterador.",
+   "Alt. 1, art. 3.º: fixa em 121013 milhões de escudos o montante do n.º 1 do art. 5.º: substituído o montante no n.º 1.",
+   "Alt. 1, art. 6.º: revoga a autorização legislativa do art. 31.º (todo o conteúdo do artigo): 31.º (Revogado.).",
+   "Alt. 1, arts. 2.º, 4.º e 5.º; Alt. 2: nao_aplicavel."
+  ]
+ }
+]

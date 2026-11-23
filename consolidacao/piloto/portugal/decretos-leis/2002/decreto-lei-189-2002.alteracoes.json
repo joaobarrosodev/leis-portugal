@@ -14,6 +14,20 @@
     "alterador": "pt:dre:67085601:por;pt:dre:67522988:por"
   },
   {
+    "artigo": "CAPÍTULO VII",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo CAPÍTULO VII — Funções do IMT\n\nBase XXIV\n\nIMT\n\nSem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa.\n\n> Aditado pelo/a [Decreto-Lei n.º 110/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2015-67522988), publicado em 2015-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173758:por",
+    "alterador": "pt:dre:67085601:por;pt:dre:67522988:por"
+  },
+  {
     "artigo": "CAPÍTULO VII — Funções do IEP",
     "operacao": "substituir",
     "regra": "llm",

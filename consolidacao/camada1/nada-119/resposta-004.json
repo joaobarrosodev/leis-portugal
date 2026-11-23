@@ -1,0 +1,354 @@
+[
+ {
+  "id": "pt:dre:408095:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 211/77, art. 1.º: aumento em mais quatro e dois juízes dos quadros das 1.ª e 2.ª secções do STA (afeta o n.º 1 e n.º 3 do art. 1.º do original, que fixam 16 juízes e 6/5/5 por secção): o texto do alterador está omitido na vista, não se confirma a justificação «não textual»; alvo incerto",
+   "DL 227/77, art. 7.º: altera o quadro de funcionários aprovado pelo art. 6.º do original (suprime e cria lugares, com letras G, Q, R, S, S): texto novo é textual mas o quadro só existe em imagem («Quadro a que se refere o artigo 6.º»), motivo fora da lista de exceções"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 227/77, art. 3.º: tribunal pleno constituído nos termos do n.º 1 do art. 2.º do original pode funcionar faltando um juiz",
+    "motivo": "não textual: regra autónoma, não dá nova redação ao art. 2.º"
+   },
+   {
+    "instrucao": "DL 227/77, arts. 1.º, 2.º, 4.º, 5.º, 6.º, 8.º, 9.º: alteram o Regulamento do STA (Decreto 41234), processos, custas e CPC",
+    "motivo": "outro diploma: não são dirigidas ao DL 699/73"
+   },
+   {
+    "instrucao": "DL 223/83 (todo): altera Código das Custas Judiciais, DL 49213, Tabela das Custas no STA e extingue o Cofre do STA",
+    "motivo": "outro diploma: nenhuma instrução dá nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 324/2003: sem texto sobre este diploma (revisão do Código das Custas, sem menção ao DL 699/73)",
+    "motivo": "o diploma que altera não traz o texto da alteração relativa ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:431229:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Coincide com a retificação (DR 16-B/98: n.º 1 do artigo 12.º) e com a nova redação do DLR 13/2014/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a nova redação do DLR 13/2014/A (com o texto original no lugar de «[...]»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 13/2014/A, art. 2.º: revoga o DLR 16/2001/A",
+    "motivo": "outro diploma: a revogação visa outro diploma, não o original"
+   },
+   {
+    "instrucao": "DLR 13/2014/A, art. 3.º: republicação em anexo",
+    "motivo": "não é textual: determina a republicação, que não altera o texto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (nota: a secção «não aplicou» diz que não há nada a aplicar, mas o consolidado aplicou todas as instruções do DLR 13/2014/A e da Declaração de Rectificação 16-B/98)"
+ },
+ {
+  "id": "pt:dre:457672:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 485/85, artigo único: nova redação do art. 3.º do DL 515/80 (transferência dos bens das fábricas militares para a INDEP): alvo incerto (o texto atual só mostra o Estatuto; não sei se o art. 3.º do diploma está fora do texto ou corresponde ao do Estatuto)",
+   "DL 485/85, artigo único: nova redação do n.º 3 do art. 6.º do DL 515/80 (o texto dá «1 - ...» e um n.º 6 sobre segurança): alvo incerto",
+   "DL 485/88, art. 2.º, 7): revoga a parte final do n.º 2 do art. 2.º do DL 515/80 (incentivos fiscais da INDEP, referência ao n.º 1 do art. 34.º do DL 260/76): alvo incerto (o n.º 2 do art. 2.º do texto atual é o do Estatuto)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 61/83: prorroga até 90 dias o prazo do n.º 3 do art. 7.º",
+    "motivo": "não textual: prorrogação de prazo sem nova redação (texto do alterador omitido na vista; confirmado só pela nota da triagem)"
+   },
+   {
+    "instrucao": "DL 363/91: regime do pessoal excedente da INDEP",
+    "motivo": "não textual: regula pessoal, não muda o texto (alterador omitido na vista; confirmado só pela nota da triagem)"
+   },
+   {
+    "instrucao": "DL 485/88, arts. 1.º e 3.º: revogam benefícios fiscais de outros diplomas",
+    "motivo": "outro diploma: não são dirigidas ao DL 515/80"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:461616:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 142/2008, art. 53.º, n.º 1, d): revoga os arts. 3.º, 5.º, 6.º (n.os 1 e 2), 7.º, 8.º, 9.º, 10.º e 12.º do DL 430/80",
+    "motivo": "efeito adiado: o n.º 2 do art. 53.º faz a revogação produzir efeitos só com a entrada em vigor dos planos de ordenamento das áreas protegidas, facto futuro"
+   },
+   {
+    "instrucao": "DL 142/2008, art. 53.º, n.º 3: remissões para o DL 19/93 consideram-se feitas para o novo diploma",
+    "motivo": "outro diploma: não visa o DL 430/80"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

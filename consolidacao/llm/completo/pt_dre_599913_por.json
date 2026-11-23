@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:599913:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Para a realização do objectivo definido no artigo 2.º, para além de se manter a necessidade de obtenção de todas as autorizações definitivas e prévias já hoje exigidas, estabelecem-se mais os seguintes condicionalismos:\n\n1) Dentro dos limites da Paisagem Protegida ficam sujeitos a parecer favorável do Ministério da Qualidade de Vida:\n\na) A destruição da vegetação natural, nomeadamente o derrube de árvores isoladamente e em maciço;\n\nb) A execução de aterros, escavações ou outras alterações da configuração natural do terreno;\n\nc) A construção, reconstrução, ampliação ou demolição de qualquer edificação;\n\nd) A modificação do sistema de exploração do solo actualmente existente;\n\ne) A abertura de estradas ou qualquer outro caminho;\n\nf) A passagem de linhas eléctricas, telefónicas, condutas de águas e esgotos;\n\ng) A captação e desvio de águas;\n\nh) A instalação de locais de campismo ou acampamento com carácter temporário ou permanente;\n\ni) O depósito de materiais;\n\nj) A abertura de poços ou depósitos de lixo;\n\nl) A introdução de animais não domésticos e espécies vegetais não indígenas;\n\nm) A captura ou caça de qualquer animal selvagem, salvo nos termos fixados por regulamento;\n\n2) Deverá ser sempre também ouvida a Direcção-Geral do Ordenamento e Gestão Florestal, em relação ao abate de árvores isoladamente ou em maciço;\n\n3) Não carecem da autorização a que se refere o n.º 1) quaisquer trabalhos que digam respeito ao exercício das actividades agrícolas, de acordo com os sistemas e área de exploração existentes.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - A infracção ao disposto no n.º 1) do artigo 7.º do presente diploma legal constitui contra-ordenação punida com uma coima até ao montante de 1000000$00, em termos a fixar por regulamento.\n\n2 - A aplicação da coima prevista no número anterior não exonera o infractor da obrigação de demolir as obras ou trabalhos efectuados e de repor as coisas na situação anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização.\n\n3 - Compete ao Ministério da Qualidade de Vida o processamento da contra-ordenação.\n\n4 - A decisão que aplique uma coima ou determine o arquivamento do processo compete ao Ministro de Estado e da Qualidade de Vida.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 53.º, n.º 1, alínea e), revogação dos artigos 7.º e 8.º: efeito adiado — o n.º 2 do artigo 53.º faz a revogação produzir efeitos só a partir da entrada em vigor do plano de ordenamento da área protegida.",
+  "instrucoes": [
+    "Reparos aos artigos 7.º e 8.º confirmados: a revogação da alínea e) do n.º 1 do artigo 53.º do Alterador 1 tem efeito adiado pelo n.º 2; repostos os artigos 7.º e 8.º com o texto original, que o programa tinha dado como revogados.",
+    "Alterador 1, art. 53.º, restantes alíneas: de outros diplomas — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

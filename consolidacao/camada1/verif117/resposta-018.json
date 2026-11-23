@@ -1,0 +1,187 @@
+[
+ {
+  "id": "pt:dre:215770:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Rectificação: preâmbulo n.º 3 'requeridas'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Rectificação: art. 4.º n.º 1 al. c), vírgula.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 5/73: art. 6.º n.os 5 e 6 novos, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 (arts. 9.º, 11.º) e DL 642/74 (arts. 9.º, 11.º-13.º; art. 10.º revogado), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 642/74 art. 13.º n.os 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "DL 642/74 art. 14.º n.os 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 16.º n.º 1 al. a): 'Estatuto'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 17.º n.º 3 al. b).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 17.º n.º 3 al. d).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 20.º n.º 4 al. c) nova.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 23.º n.º 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 25.º n.º 1 al. a); DL 5/73 als. b) e c) (a rectificação da al. c) original ficou sem objecto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "DL 355/87 art. 5.º revoga o art. 25.º na parte sobre tarifas; a al. s) é toda sobre tarifas e taxas dos concessionários.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 26.º n.º 1: DL 23048.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "DL 596/73: art. 27.º n.º 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "DL 355/87 art. 5.º revoga o art. 35.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 39.º n.º 1 e parágrafo seguinte.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 45.º n.º 1: 'à reserva geral'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 53.º n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Rectificação art. 53.º n.º 2 al. h): 'à definição'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "DL 26/71 art. 4.º revoga o art. 55.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 59.º n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "DL 147/89 art. 15.º revoga os arts. 63.º e 64.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 355/87 art. 5.º: art. 25.º revogado 'na parte em que dispõe sobre tarifas', quanto à al. i) do n.º 1",
+    "motivo": "o diploma não diz que texto fica da al. i) (mistura tarifas, taxas de licenciamento e regulamentos); aplicada só a al. s)"
+   },
+   {
+    "instrucao": "DL 355/87 art. 5.º: 'outras disposições legais que contrariem o disposto no presente diploma'",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 485/88 art. 2.º 3): revogação, desde 1/1/1989, da al. c) do n.º 2 do art. 53.º, mantendo-se as isenções de sisa e contribuição predial",
+    "motivo": "o diploma não traz o texto que fica da al. c) (isenção geral de impostos e custas, em parte mantida)"
+   },
+   {
+    "instrucao": "DL 244/74 (extinção dos conselhos, conselho de gerência/fiscalização) e DL 642/74 arts. 1.º, 4.º, 5.º, 6.º (correio-mor/comissão executiva passam a presidente/conselho de administração; funções do conselho geral exercidas pelo Governo)",
+    "motivo": "não textual: mudança de designação e atribuição de funções sem nova redação (DL 244/74 revogado pelo DL 642/74)"
+   },
+   {
+    "instrucao": "DL 375/77 (arts. 14.º, 22.º, 24.º do Estatuto dos TLP)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 147/89 art. 15.º: revogação do DL 48007 e normas que contrariem (a parte dos arts. 63.º e 64.º foi aplicada)",
+    "motivo": "outro diploma / revogação condicional"
+   },
+   {
+    "instrucao": "DL 87/92 e DL 277/92: transformação em S. A., cisão",
+    "motivo": "não textual: não dão nova redação nem revogam expressamente o Estatuto"
+   },
+   {
+    "instrucao": "DL 122/94 art. 15.º b): revogação do DL 49368 e do anexo I 'na parte aplicável à Telecom'",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "Rectificação: art. 25.º n.º 1 al. c) 'conselho de administração'",
+    "motivo": "sem objecto: a al. c) original foi substituída pelo DL 5/73"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

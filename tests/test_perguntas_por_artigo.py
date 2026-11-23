@@ -28,7 +28,9 @@ def test_ambito_do_piloto_e_dos_outros_codigos():
     assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1114.º").nome == "codigo-civil"
     assert pa.bloco_de(NRAU, "15.º-A").nome == "nrau"
     assert pa.bloco_de(NRAU, "Anexo — Republicação do capítulo IV do título II do livro II do Código Civil::1069.º") is None
-    assert pa.bloco_de("pt:dre:185720:por", "131.º").nome == "codigo-penal"
+    # O Código Penal tem parte sua desde 23/11/2026; o articulado do DL 48/95 fica de fora.
+    assert pa.bloco_de("pt:dre:185720:por", "Anexo — CÓDIGO PENAL::131.º").nome == "codigo-penal"
+    assert pa.bloco_de("pt:dre:185720:por", "1.º") is None
     assert pa.bloco_de("pt:dre:518992:por", "1.º") is None  # o CIRS de 1988 sem histórico: o em vigor é o da Lei 82-E/2014
     assert len({b.nome for b in pa.AMBITO}) == len(pa.AMBITO)
 
@@ -245,15 +247,23 @@ def test_exportar_so_os_artigos_sem_perguntas_e_importar_sem_apagar_o_piloto(tmp
     assert len(pa.ler(destino)) == 4
 
 
-def test_artigos_do_decreto_com_a_chave_de_um_artigo_do_codigo_saem(tmp_path):
+def test_artigos_do_decreto_ficam_fora_do_bloco_do_codigo(tmp_path):
     cp = "pt:dre:185720:por"
     caminho = _construir(tmp_path / "cp.sqlite", {**A, cp: ("Decreto-Lei n.º 48/95", "Revê o Código Penal", [
         ("", "1.º", "", "O Código Penal é revisto e republicado.", "1995-10-01", None),
         ("", "1.º", "Princípio da legalidade", "Só pode ser punido criminalmente o facto descrito na lei.", "1995-10-01", None),
         ("", "2.º", "", "Artigo do decreto sem par no código.", "1995-10-01", None),
     ], [])})
+    # Num índice de antes de 23/11/2026, com o código no articulado do decreto, o bloco (a parte do código) fica vazio.
+    assert [a for a in pa.artigos_do_ambito(caminho) if a["documento"] == cp] == []
+    # Hoje o código tem parte sua: só os artigos dessa parte entram (o helper põe a chave no número).
+    parte = "Anexo — CÓDIGO PENAL"
+    caminho = _construir(tmp_path / "cp2.sqlite", {**A, cp: ("Decreto-Lei n.º 48/95", "Revê o Código Penal", [
+        ("", "1.º", "", "O Código Penal é revisto e republicado.", "1995-10-01", None),
+        (parte, f"{parte}::1.º", "Princípio da legalidade", "Só pode ser punido criminalmente o facto descrito na lei.", "1995-10-01", None),
+    ], [])})
     artigos = [a for a in pa.artigos_do_ambito(caminho) if a["documento"] == cp]
-    assert [(a["chave"], a["epigrafe"]) for a in artigos] == [("1.º", "Princípio da legalidade"), ("2.º", "")]
+    assert [(a["chave"], a["epigrafe"]) for a in artigos] == [(f"{parte}::1.º", "Princípio da legalidade")]
 
 
 def _ids(caminho, documento, chave):

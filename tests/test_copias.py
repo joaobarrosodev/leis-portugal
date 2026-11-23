@@ -15,13 +15,19 @@ NOTA = "\n\n> Alterado pelo/a [Decreto-Lei n.º 9/2025 - DR de 2025-04-01](https
 
 
 def test_numeracoes_da_mesma_parte_do_indice():
-    # Um título que não é «Anexo» não abre parte no leitor do índice: o decreto e o código ficam na parte «».
-    texto = _artigos(["Objeto", "Republicação"]) + "\n\n## CÓDIGO DAS COISAS\n\n" + _artigos(TEMAS)
+    # Um título que não é «Anexo» nem o nome de um código não abre parte no leitor do índice: as duas numerações
+    # ficam na parte «».
+    texto = _artigos(["Objeto", "Republicação"]) + "\n\n## Título I — Das coisas\n\n" + _artigos(TEMAS)
     lidas = copias.ler_partes(texto)
     assert {n: (len(p.artigos), p.parte_no_indice, p.numeracao, p.numeracoes) for n, p in lidas.items()} == {"": (2, "", 1, 2), "(2.ª numeração)": (12, "", 2, 2)}
     assert lidas["(2.ª numeração)"].textos["3.º"] == copias.impressao("Texto do artigo 3.")
+    # «## CÓDIGO DAS COISAS» logo depois do articulado do decreto, com a numeração a recomeçar, é o código que o
+    # decreto aprova: abre a parte «Anexo — CÓDIGO DAS COISAS» (desde 23/11/2026, como no DL 48/95).
+    codigo = copias.ler_partes(texto.replace("## Título I — Das coisas", "## CÓDIGO DAS COISAS"))
+    assert {n: (len(p.artigos), p.parte_no_indice, p.numeracoes) for n, p in codigo.items()} == {
+        "": (2, "", 1), "Anexo — CÓDIGO DAS COISAS": (12, "Anexo — CÓDIGO DAS COISAS", 1)}
     # «## ANEXO» em maiúsculas abre parte, como «## Anexo» (desde 20/11/2026).
-    com_anexo = copias.ler_partes(texto.replace("## CÓDIGO DAS COISAS", "## ANEXO — (a que se refere o artigo 2.º)"))
+    com_anexo = copias.ler_partes(texto.replace("## Título I — Das coisas", "## ANEXO — (a que se refere o artigo 2.º)"))
     assert {n: (len(p.artigos), p.parte_no_indice, p.numeracoes) for n, p in com_anexo.items()} == {
         "": (2, "", 1), "ANEXO — (a que se refere o artigo 2.º)": (12, "ANEXO — (a que se refere o artigo 2.º)", 1)}
 
@@ -105,3 +111,12 @@ def test_aplicar_redacoes_nos_registos_em_blocos():
     marca = copias.Marca("iva", "", None, "Artigo 1.º Estão sujeitas a imposto:\na) As transmissões de bens", "1989-06-12", "atual", "", "prova")
     assert aplicar_redacoes(pedacos, [marca]) == 1  # o bloco onde o código começa tem o fim do decreto: fica aberto
     assert [p.ate for p in pedacos] == [None, None, "1989-06-12"]
+
+
+def test_aplicar_redacoes_com_uma_marca_sem_artigos_nem_inicio():
+    # Uma marca sem artigos e sem ponto de início não diz que pedaços fecha: não fecha nenhum (dava TypeError).
+    pedacos = [Pedaco("", "1.º", "Objeto", "1.º", "Texto do artigo 1.", "", "2010-05-05", None)]
+    for artigos in (None, frozenset()):
+        marca = copias.Marca("rep", "", artigos, None, "2012-07-07", "atual", "", "prova")
+        assert aplicar_redacoes(pedacos, [marca]) == 0
+    assert pedacos[0].ate is None

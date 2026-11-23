@@ -1,0 +1,191 @@
+[
+ {
+  "id": "pt:dre:455465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 55/98, art. 1.º, letra a letra (lista a)-r)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98, art. 1.º: n.º 5 nova redação; n.os 1 a 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98, art. 1.º: n.º 1 (alíneas a), b), c)-e) deslocadas, f) nova), n.os 2, 6 e 7 novos; 3 a 5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98, art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 2 nova redação, n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98, art. 2.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98, art. 2.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1 e 2 passam a ser os atuais n.os 1 e 2 do art. 11.º (MNE).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1 e 2 do atual art. 10.º (Defesa) e n.º 3 (aditado pelo DL 23/96, art. 4.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96, art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 43/96, art. 1.º: n.º 1 nova redação, n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 2 nova redação (substitui a do DL 43/96); 1, 3-5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 17/99, art. 1.º: n.º 2 nova redação; restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96, art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação integral, n.os 1 a 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 nova redação, n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96, art. 5.º: alíneas d) a x) do n.º 3 (a antiga d) Comissão Portuguesa da História Militar deixa de constar).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 3 atual (Ministros da República) eliminado e atual n.º 4 passa a n.º 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 nova redação; 2 a 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 nova redação; 2 a 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 nova redação; 2 a 5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267/98, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96, art. 7.º: n.º 5 nova redação e aditados n.os 6 a 8.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98, art. 2.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98, art. 2.º, texto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 474-A/99, art. 37.º, n.º 1: a estrutura orgânica do DL 296-A/95, com as alterações, é substituída pela estabelecida no DL 474-A/99",
+    "motivo": "Confirmado no texto: substituição global sem revogação expressa nem nova redação de artigos do original; não é textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,120 @@
+[
+ {
+  "id": "pt:dre:666343:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação 1: «a estes inerentes» passa a «a esta inerentes» no n.º 2; aplicado."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 587/72 art. 4.º: extinta a 5.ª Subsecção - Habitação Económica e a 6.ª passa a «5.ª Subsecção - Serviço Social e Desenvolvimento Comunitário»; aplicado (sem ponto final, como na citação do alterador)."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação 1: «três vogais adjuntos» passa a «dois vogais adjuntos»; aplicado."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Rectificações 1 e 2: 3.ª secção al. e) «direcções da», al. m) «cooperativas de habitação», 2.ª secção al. h) «Federação Nacional dos Sindicatos dos Profissionais de Enfermagem», 3.ª secção al. i) «Sindicato Nacional dos Profissionais do Serviço Social»; todos aplicados e o resto igual ao original."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 425/77 art. 7.º revoga a alínea c) do n.º 1 do art. 15.º; consolidado tem «c) (Revogada.)»."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Rectificação 2: n.º 1 «de Higiene e Assistência Social e da Saúde e Assistência,» passa a «de Higiene e Assistência Social,»; aplicado."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Rectificação 1 (4/11/1970): no preâmbulo, «na publicação» -> «na aplicação» e a passagem sobre protecção na maternidade/riscos comuns/riscos profissionais. O consolidado lista «(preâmbulo)» entre os artigos IGUAIS ao original, logo a rectificação visava um bloco existente no consolidado e não teve efeito (o conteúdo do preâmbulo não está na vista, não posso confirmar o texto)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 611/72 art. 1.º n.º 1: criado mais um lugar de vogal permanente no quadro do Conselho",
+    "motivo": "não textual (criação de lugar no quadro, sem texto novo para o original)"
+   },
+   {
+    "instrucao": "DL 611/72 art. 1.º n.º 2: alterado o quadro anexo (de 5 para 6 vogais permanentes)",
+    "motivo": "o diploma que altera não traz o texto da alteração (só diz o número de vogais; não traz o quadro novo)"
+   },
+   {
+    "instrucao": "DL 587/72 art. 1.º n.º 1: Direcção-Geral da Previdência e Habitações Económicas passa a denominar-se Direcção-Geral da Previdência (referências nos arts. 8.º)",
+    "motivo": "mudança de designação sem nova redação do original; os arts. 2.º, 3.º e 5.º e o art. 1.º n.º 2 são de outros diplomas"
+   },
+   {
+    "instrucao": "DL 587/72 art. 3.º: extinta a Federação de Caixas de Previdência - Habitações Económicas (referida no art. 8.º)",
+    "motivo": "não textual (extinção de entidade sem nova redação do original)"
+   },
+   {
+    "instrucao": "DL 599/74 art. 1.º: extinção do Conselho Superior da Acção Social",
+    "motivo": "o efeito fica adiado para um facto futuro (diploma que reestruturar o Ministério dos Assuntos Sociais) e não revoga texto"
+   },
+   {
+    "instrucao": "DL 425/77 art. 7.º, restantes revogações (DL 37244, 48588, 49373, 130/73, 228/73) e art. 1.º (extinção do Fundo Nacional do Abono de Família)",
+    "motivo": "instruções de outros diplomas / não textuais"
+   },
+   {
+    "instrucao": "DL 83/91 art. 27.º: efectiva-se a extinção do Conselho Superior de Acção Social",
+    "motivo": "não textual (não revoga nem reescreve artigos do original)"
+   },
+   {
+    "instrucao": "DL 83/91 art. 36.º: revogadas as demais disposições que contrariem o diploma",
+    "motivo": "revogação condicional («que contrariem»)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:666711:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Declaração de rectificação 133/93: alínea b) «mapas V a VII» -> «mapas V a VIII»; aplicado."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DLR 6/2005/M art. 20.º revoga expressamente o artigo 7.º do DLR 4/93/M; consolidado mantém epígrafe e «(Revogado.)»."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DLR 21/93/M art. 2.º dá nova redação ao art. 8.º (n.os 1 a 4); o consolidado coincide letra a letra com a redação do alterador."
+   },
+   {
+    "artigo": "Artigo 17.º #2",
+    "veredicto": "dúvida",
+    "motivo": "A declaração de rectificação manda eliminar «um dos artigos» por terem sido publicados dois artigos 17.º, sem dizer qual; o consolidado removeu o segundo. Não vejo o primeiro na vista, por isso não posso confirmar que a escolha é a correta; a eliminação em si é a instrução."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de rectificação 133/93: republicação integral de quadros do mapa IX",
+    "motivo": "o texto novo só vem em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DLR 21/93/M art. 1.º: mapas I a IX substituem, nas partes respectivas, os do DLR 4/93/M",
+    "motivo": "o texto novo só vem em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DLR 6/2005/M art. 20.º: revogados os diplomas e normas respeitantes às matérias nele reguladas",
+    "motivo": "revogação condicional (a parte expressa, o art. 7.º, foi aplicada)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

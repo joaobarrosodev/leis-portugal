@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-10-26'
+version_history:
+  file: decreto-lei-82-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-10-26'
+    amending: pt:dre:58509399:por
+    amending_title: Decreto-Lei n.º 156/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:10:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 156/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-82-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,9 +157,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º É da competência do Ministro da Agricultura e Pescas, sob proposta devidamente fundamentada das Secretarias de Estado do Fomento Agrário, da Estruturação Agrária, do Comércio e Indústrias Agrícolas e das Florestas, a autorização para distribuição de verbas inscritas no orçamento para concessão de subsídios em relação aos quais não haja legislação especial.
+###### Artigo 1.º
 
-Art. 2.º - 1. Os subsídios poderão ser atribuídos com os fins e às entidades a seguir indicadas:
+É da competência do membro do Governo responsável pelas áreas da agricultura, do agroalimentar, das florestal e do mar a autorização para a utilização e distribuição de verbas inscritas no orçamento do respetivo Ministério destinadas à concessão de subsídios às entidades ligadas aos sectores agrário, alimentar, florestal e do mar em relação aos quais não haja legislação especial.
+
+> Alterado pelo/a [Decreto-Lei n.º 156/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2014-58509399), publicado em 2014-10-21.
+
+###### Artigo 2.º
+
+1. Os subsídios poderão ser atribuídos com os fins e às entidades a seguir indicadas:
 
 a) A cooperativas agrícolas e outras associações económicas de agricultores, bem como a agricultores isolados, com o fim de acorrer a situações de desastre económico resultantes de ocorrências meteorológicas de natureza grave e excepcional;
 
@@ -155,11 +177,23 @@ d) A comissões organizadoras de congressos, simpósios, colóquios ou outras re
 
 e) A comissões organizadoras de exposições, feiras e concursos agrícolas considerados de interesse para o desenvolvimento da agricultura e propaganda dos respectivos produtos, com o objectivo de contribuir para despesas de instalação e de funcionamento dos certames.
 
+f) A mútuas de gados, quer para casos de epizootias e em relação a necessidades não previstas, quer para recurso a serviços técnicos que ultrapassem as suas possibilidades imediatas, ponderadas as circunstâncias de cada caso e sob proposta dos serviços competentes do Ministério da Agricultura e Pescas.
+
+g) As cooperativas agrícolas e outras empresas do sector agrícola intervencionadas pelo Estado, para viabilização financeira indispensável à respectiva reestruturação ou reconversão.
+
+h) As entidades inseridas nas áreas da agricultura, comércio e pescas, quer se encontrem em regime de intervenção por parte do Estado, quer não, desde que, em despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Agricultura, Comércio e Pescas, seja considerada procedente a sua atribuição no quadro da viabilização ou produtividade económica das suas actividades.
+
+i) As entidades e associações sem fins lucrativos ligadas ao sector do mar, da silvicultura, da caça ou da pesca nas águas interiores, com a finalidade de contribuir para o pagamento de despesas inerentes à participação ou organização de exposições, feiras e outros eventos ou de reuniões e outras iniciativas de carácter técnico-científico.
+
 2. O pedido dos subsídios será sempre devidamente fundamentado pela entidade peticionária e sobre o mesmo incidirá um parecer dos serviços das direcções-gerais competentes quanto à conformidade da concessão com os termos do presente decreto-lei, fundamentalmente no respeitante à natureza da entidade peticionária, objectivos que persegue e razões, utilidade e urgência do pedido.
 
 3. Em face do parecer favorável dos serviços da direcção-geral competente, será feita proposta para a concessão do subsídio pelo director-geral respectivo, a qual, uma vez obtida a concordância do Secretário de Estado, será submetida a despacho do Ministro da Agricultura e Pescas.
 
-Art. 3.º Ficam revogados o [Decreto-Lei n.º 23314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23314-1933-324687), de 6 de Dezembro de 1933, e o [Decreto n.º 2661](https://diariodarepublica.pt/dr/detalhe/decreto/2661-1916-258748), de 2 de Outubro de 1916.
+> Alterado pelo/a [Decreto-Lei n.º 156/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2014-58509399), publicado em 2014-10-21.
+
+###### Artigo 3.º
+
+Ficam revogados o [Decreto-Lei n.º 23314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23314-1933-324687), de 6 de Dezembro de 1933, e o [Decreto n.º 2661](https://diariodarepublica.pt/dr/detalhe/decreto/2661-1916-258748), de 2 de Outubro de 1916.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
 

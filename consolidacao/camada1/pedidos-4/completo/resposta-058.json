@@ -1,0 +1,59 @@
+[
+ {
+  "id": "pt:dre:292498:por",
+  "artigos": [
+   {
+    "chave": "10.º",
+    "epigrafe": "Divisão de Gestão e Controlo Orçamental",
+    "texto": "Compete à Divisão de Gestão e Controlo Orçamental:\n\na) Proceder à elaboração das propostas de orçamento do CNP, com base nos programas de actividade anuais;\n\nb) Garantir a cobertura orçamental das despesas do CNP, em observância às regras legais;\n\nc) Controlar a execução orçamental do CNP e apresentar ao conselho directivo informações periódicas sobre as disponibilidades financeiras e orçamentais;\n\nd) Elaborar os planos financeiros e verificar a sua execução;\n\ne) Controlar as disponibilidades financeiras do CNP e propor medidas relacionadas com a sua gestão;\n\nf) Controlar os saldos das contas bancárias;\n\ng) Assegurar as ligações com as instituições bancárias;\n\nh) Elaborar e analisar indicadores financeiros.",
+    "alterador": 6
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações",
+    "texto": "A Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.",
+    "alterador": 6
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "Divisão de Assuntos Jurídicos e Contencioso",
+    "texto": "Compete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
+    "alterador": 6
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "Divisão de Auditoria",
+    "texto": "(Revogado.)",
+    "alterador": 6
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "##### Divisão de Gestão Financeira e de Contabilidade",
+    "novo": null,
+    "alterador": 6
+   },
+   {
+    "atual": "##### Divisão de Auditoria",
+    "novo": null,
+    "alterador": 6
+   }
+  ],
+  "anexos": [
+   {
+    "titulo": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+    "texto": "Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)",
+    "alterador": 7
+   }
+  ],
+  "nao_aplicavel": "Alteradores 1 a 5 (Despachos Normativos n.os 196/94, 212/94, 258/94, 314/94 e 341/94), criação de um lugar no quadro de pessoal: não textual: criam um lugar a extinguir quando vagar, sem texto nem quadro novo do anexo I.\nAlterador 6, nova redação do artigo 19.º (alíneas a) a f) «...» e alínea g) nova): alvo incerto: o corpo atual do artigo 19.º (as alíneas a) a f) que ficam) não está no texto atual, que só traz o título «Divisão de Apoio e Exploração»; não se pode compor o artigo inteiro.\nAlterador 6, artigo 3.º (alterações ao quadro por portaria): não textual.\nAlteradores 8 a 10 (Portarias n.os 1453/2000, 1006/2003 e 1009/2003), criação de um lugar no quadro de pessoal: não textual: criam um lugar a extinguir quando vagar, sem texto nem quadro novo do anexo I.",
+  "instrucoes": [
+   "Alt. 6, art. 1.º: nova redação dos arts. 2.º, 9.º, 11.º, 12.º e 17.º: já aplicada pelo programa e certa; 10.º devolvido com a nova redação e sem o corpo antigo, e eliminado o título «Divisão de Gestão Financeira e de Contabilidade» (era a epígrafe antiga do art. 10.º); 21.º e 22.º aplicados (22.º: epígrafe e proémio novos, alíneas a) a f) do texto atual); 19.º em nao_aplicavel.",
+   "Alt. 6, art. 2.º: aditamento do art. 17.º-A: já aplicado pelo programa e certo.",
+   "Alt. 6, art. 4.º: revoga o art. 29.º: epígrafe «Divisão de Auditoria» e corpo (Revogado.); eliminado o título «Divisão de Auditoria», que era a epígrafe do art. 29.º.",
+   "Alt. 7 (Portaria 414/98): altera o quadro de pessoal (anexo I, só em imagem): corpo atual do anexo I + imagem do alterador.",
+   "Alts. 1-5, 8-10: criação de lugares no quadro: nao_aplicavel."
+  ]
+ }
+]

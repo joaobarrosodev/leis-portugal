@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nÉ criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ único. O lugar referido no corpo deste artigo será provido por escolha entre funcionários de categoria igual ou superior à da letra F do citado artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), em qualquer situação, que tenham prestado, pelo menos, seis anos de bom e efectivo serviço em lugares dessa categoria dos quadros da Direcção-Geral da Aeronáutica Civil.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.",
+    "excerto": "Artigo 1.º É revogado o § único do artigo 1.º do Decreto-Lei n.º 43588, de 10 de Abril de 1961.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:558457:por",
+    "alterador": "pt:dre:427433:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.",
+    "depois": "###### Artigo 1.º\n\nÉ criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ único. (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.\n\n> Alterado pelo/a [Decreto-Lei n.º 315/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1976-427433), publicado em 1976-04-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:558457:por",
+    "alterador": "pt:dre:427433:por"
+  }
+]

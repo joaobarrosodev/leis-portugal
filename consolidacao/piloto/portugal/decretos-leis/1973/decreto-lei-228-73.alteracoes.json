@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "30.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º — Cobertura de encargos\n\n1. Os encargos resultantes da execução do presente diploma são suportados pelo Fundo Nacional do Abono de Família, na parte que for fixada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.\n\n2. Os encargos suportados pelo Fundo Nacional do Abono de Família são inscritos no Orçamento Geral do Estado, sendo o Tesouro reembolsado trimestralmente pelo mencionado Fundo das importâncias despendidas, mediante guia de receita passada pela Repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.",
+    "depois": "###### Artigo 30.º — Cobertura de encargos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 425/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1977-278929), publicado em 1977-10-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422176:por",
+    "alterador": "pt:dre:278929:por"
+  }
+]

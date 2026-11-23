@@ -7,7 +7,7 @@
  "versions": [
   {
    "date": "2026-11-23",
-   "future": true,
+   "future": false,
    "acts": [
     {
      "id": "pt:dre:1195884748:por",

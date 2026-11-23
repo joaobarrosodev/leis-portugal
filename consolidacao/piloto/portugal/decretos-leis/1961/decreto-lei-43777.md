@@ -19,6 +19,9 @@ consolidacao:
   - id: pt:dre:146055:por
     title: Decreto-Lei n.º 636/70
     publication_date: '1970-12-22'
+  - id: pt:dre:172537:por
+    title: Declaração
+    publication_date: '1961-07-18'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -229,9 +232,11 @@ c) 10 por cento para o Fundo de Acção Social no Trabalho, para finalidades gim
 
 § 2.º Para facilidade de relações de natureza comercial, é autorizada a Santa Casa da Misericórdia de Lisboa a abrir contas em quaisquer estabelecimentos bancários.
 
-§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto nos artigos 13.º e 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.
+§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.
 
 § 4.º Podem os Ministros das Finanças e das Comunicações estabelecer, em portaria, um regime especial adequado ao pagamento dos prémios por meio de vale de correio ou cheques sobre a Caixa Geral de Depósitos, Crédito e Previdência.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1961-172537), publicado em 1961-07-18.
 
 ###### Artigo 18.º
 

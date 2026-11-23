@@ -1,44 +1,44 @@
 {
- "gerado_em": "2026-11-20",
+ "gerado_em": "2026-11-23",
  "artigos": {
-  "registos": 405854,
-  "com_texto": 303294,
+  "registos": 405894,
+  "com_texto": 303334,
   "por_unidade": {
-   "artigos": 89512,
-   "nenhum": 137516,
-   "numeros": 74380,
+   "artigos": 89545,
+   "nenhum": 137522,
+   "numeros": 74381,
    "so_anexos": 1886
   },
-  "com_artigos": 89512,
-  "com_artigos_ou_numeros": 163892,
-  "em_vigor_com_texto": 135209,
-  "em_vigor_com_artigos": 39207,
-  "em_vigor_com_artigos_ou_numeros": 79054,
-  "artigos_identificados": 1741391,
-  "numeros_identificados": 400682,
-  "com_anexos": 10475,
-  "com_numeracao_repetida": 1532,
+  "com_artigos": 89545,
+  "com_artigos_ou_numeros": 163926,
+  "em_vigor_com_texto": 135226,
+  "em_vigor_com_artigos": 39228,
+  "em_vigor_com_artigos_ou_numeros": 79068,
+  "artigos_identificados": 1742001,
+  "numeros_identificados": 400692,
+  "com_anexos": 10478,
+  "com_numeracao_repetida": 1531,
   "ids_duplicados": 0,
-  "so_texto_corrido": 99327,
-  "com_titulos": 66451,
-  "artigos_antes": 63539
+  "so_texto_corrido": 99309,
+  "com_titulos": 66503,
+  "artigos_antes": 63591
  },
  "entrada_em_vigor": {
-  "com_texto": 303294,
+  "com_texto": 303334,
   "por_metodo": {
-   "clausula_com_data": 41338,
+   "clausula_com_data": 41351,
    "clausula_so_regra": 10605,
-   "sem_clausula": 198936,
-   "supletiva": 52415
+   "sem_clausula": 198952,
+   "supletiva": 52426
   },
-  "calculadas_do_texto": 41338,
+  "calculadas_do_texto": 41351,
   "so_regra": 10605,
-  "supletivas": 52415,
-  "sem_clausula": 198936,
+  "supletivas": 52426,
+  "sem_clausula": 198952,
   "com_data_de_efeitos": 13676,
-  "com_regra_de_efeitos_sem_data": 5858,
+  "com_regra_de_efeitos_sem_data": 5857,
   "com_fim_de_vigencia": 271,
-  "com_clausulas_parciais": 25537,
+  "com_clausulas_parciais": 25526,
   "regras_mais_frequentes_sem_data": [
    [
     "no dia útil seguinte ao da sua publicação no diário da república",
@@ -50,7 +50,7 @@
    ],
    [
     "no primeiro dia útil seguinte ao da sua publicação no diário da república",
-    159
+    160
    ],
    [
     "no dia seguinte ao da sua assinatura",
@@ -103,23 +103,23 @@
   ],
   "por_jurisdicao_e_serie": {
    "portugal / série I": {
-    "clausula_com_data": 23225,
-    "clausula_so_regra": 3326,
-    "sem_clausula": 80448,
-    "supletiva": 52415
+    "clausula_com_data": 23234,
+    "clausula_so_regra": 3323,
+    "sem_clausula": 80455,
+    "supletiva": 52426
    },
    "portugal / série II": {
-    "clausula_com_data": 13277,
-    "clausula_so_regra": 6934,
-    "sem_clausula": 111945
+    "clausula_com_data": 13281,
+    "clausula_so_regra": 6936,
+    "sem_clausula": 111953
    },
    "regional / série ?": {
     "sem_clausula": 5
    },
    "regional / série I": {
     "clausula_com_data": 4756,
-    "clausula_so_regra": 333,
-    "sem_clausula": 6111
+    "clausula_so_regra": 334,
+    "sem_clausula": 6112
    },
    "regional / série II": {
     "clausula_com_data": 80,
@@ -129,7 +129,7 @@
   }
  },
  "vigencia": {
-  "desconhecidos": 204852,
+  "desconhecidos": 204869,
   "por_categoria": {
    "caducado": 26,
    "conflito": 7,
@@ -137,51 +137,85 @@
    "revogacao_parcial": 168,
    "revogacao_por_confirmar": 51,
    "revogado": 671,
-   "sem_prova": 142039
+   "sem_prova": 142056
   },
   "estado_proposto": {
    "not_in_force": 26,
    "repealed": 671
   },
   "resolvidos": 697,
-  "revogacoes_lidas_no_texto": 17666,
-  "diplomas_revogados_no_texto": 15564,
+  "revogacoes_lidas_no_texto": 17635,
+  "diplomas_revogados_no_texto": 15538,
   "precisao_nos_estados_conhecidos": {
    "texto": {
-    "repealed": 289,
-    "not_in_force": 9625,
-    "em_vigor": 834,
-    "concordam": 9914,
-    "total": 10748,
-    "taxa": 0.9224
+    "repealed": 295,
+    "not_in_force": 9606,
+    "em_vigor": 828,
+    "concordam": 9901,
+    "total": 10729,
+    "taxa": 0.9228
    },
    "relacao": {
     "repealed": 0,
     "not_in_force": 20605,
-    "em_vigor": 1123,
+    "em_vigor": 1132,
     "concordam": 20605,
-    "total": 21728,
-    "taxa": 0.9483
+    "total": 21737,
+    "taxa": 0.9479
    }
   },
+  "inferidos_em_vigor": {
+   "regra": "Diploma legislativo da 1.ª Série publicado de 2014 em diante, com texto, sem revogação conhecida (nenhuma relação «revogado por» no DRE e nenhuma norma revogatória lida no acervo), sem vigência limitada no sumário ou no texto e com a data de entrada em vigor, quando conhecida, já passada.",
+   "fonte": "sem_revogacao_conhecida",
+   "diplomas": 1893,
+   "por_tipo": {
+    "decreto-legislativo-regional": 321,
+    "decreto-lei": 913,
+    "decreto-regulamentar": 49,
+    "lei": 583,
+    "lei-organica": 27
+   },
+   "fora_da_regra": {
+    "ainda_sem_entrada_em_vigor": 5,
+    "anterior_a_2014": 7,
+    "com_revogacao_ou_caducidade_conhecida": 45,
+    "temporario_pelo_sumario": 348,
+    "vigencia_limitada_no_texto": 140
+   },
+   "amostra_verificada": {
+    "data": "2026-11-20",
+    "sementes": [
+     20261120,
+     20261121,
+     20261122
+    ],
+    "conferidos": 300,
+    "aceites_pela_regra": 283,
+    "revogados": 0,
+    "erros": 1,
+    "limite_superior_95": 0.017,
+    "erro": "Lei n.º 51/2023: lei de política criminal para o biénio de 2023-2025, já findo; a regra do sumário foi alargada depois"
+   },
+   "ligada": true
+  },
   "texto_contra_dre": {
-   "diplomas": 742,
-   "provas": 749,
+   "diplomas": 736,
+   "provas": 743,
    "por_segmento": {
-    "a": 515,
-    "b": 36,
+    "a": 511,
+    "b": 34,
     "c": 198
    },
    "por_segmento_e_tipo": {
     "a": {
      "declaracao": 1,
      "decreto": 69,
-     "decreto-lei": 62,
+     "decreto-lei": 61,
      "decreto-regulamentar": 16,
      "despacho": 3,
-     "despacho-normativo": 34,
+     "despacho-normativo": 33,
      "lei": 2,
-     "portaria": 319,
+     "portaria": 317,
      "regulamento": 8,
      "resolucao-conselho-ministros": 1
     },
@@ -192,7 +226,7 @@
      "deliberacao": 1,
      "despacho": 1,
      "despacho-normativo": 3,
-     "portaria": 19,
+     "portaria": 17,
      "regulamento": 2,
      "resolucao": 1,
      "resolucao-conselho-ministros": 1
@@ -298,127 +332,157 @@
     }
    }
   },
-  "provas_manuais": 257
+  "provas_manuais": 259
  },
  "validacao": {
-  "amostra": 179,
-  "consolidados_no_acervo": 8533,
+  "amostra": 177,
+  "consolidados_no_acervo": 8577,
   "atual": {
-   "diplomas": 179,
-   "mesmo_numero_de_artigos": 176,
-   "tudo_igual": 174,
-   "partes_iguais": 177,
-   "artigos_dre": 7950,
-   "artigos_parser": 7947,
-   "epigrafes_iguais": 7904
+   "diplomas": 177,
+   "mesmo_numero_de_artigos": 171,
+   "tudo_igual": 169,
+   "partes_iguais": 172,
+   "artigos_dre": 5825,
+   "artigos_parser": 5768,
+   "epigrafes_iguais": 5568
   },
   "original": {
    "diplomas": 149,
    "mesmo_numero_de_artigos": 148,
-   "tudo_igual": 148,
-   "partes_iguais": 148,
-   "artigos_dre": 5958,
-   "artigos_parser": 5959,
-   "epigrafes_iguais": 5945
+   "tudo_igual": 146,
+   "partes_iguais": 145,
+   "artigos_dre": 4885,
+   "artigos_parser": 4887,
+   "epigrafes_iguais": 4735
   },
   "diferencas": [
    {
-    "path": "data/portugal/decretos-leis/2009/decreto-lei-71-2009.md",
-    "artigos_parser": 88,
-    "artigos_dre": 87,
+    "path": "data/portugal/despachos-normativos/1984/despacho-normativo-131-84.md",
+    "artigos_parser": 0,
+    "artigos_dre": 21,
     "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 74,
-    "epigrafes_iguais": 74,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 74,
-     "parser": [
-      "Anexo — REGULAMENTO CONSULAR",
-      "63.º",
-      "Funções culturais, educativas, económicas, comerciais, sociais e outras"
-     ],
-     "dre": [
-      "Anexo — REGULAMENTO CONSULAR",
-      "64.º",
-      "Funções culturais e educativas"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/decretos-leis/2024/decreto-lei-17-2024.md",
-    "artigos_parser": 163,
-    "artigos_dre": 163,
-    "mesmo_numero_de_artigos": true,
-    "numeros_iguais": 163,
-    "epigrafes_iguais": 161,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 45,
-     "parser": [
-      "",
-      "46.º",
-      ""
-     ],
-     "dre": [
-      "",
-      "46.º",
-      "Assunção de compromissos plurianuais relativos a contratos financiados pelo Fundo Europeu de Desenvolvimento Regional, pelo Fundo Social Europeu, pelo Fundo de Coesão e pelo Fundo para Uma Transição Justa"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/decretos-leis/2024/decreto-lei-99-2024.md",
-    "artigos_parser": 455,
-    "artigos_dre": 455,
-    "mesmo_numero_de_artigos": true,
-    "numeros_iguais": 455,
-    "epigrafes_iguais": 453,
-    "partes_iguais": false,
-    "primeira_diferenca": {
-     "posicao": 376,
-     "parser": [
-      "Parte 2",
-      "V",
-      ""
-     ],
-     "dre": [
-      "Anexo — Republicação do Decreto-Lei n.º 15/2022, de 14 de janeiro",
-      "V",
-      "Princípios aplicáveis às relações com a concessionária da rede nacional de transporte de eletricidade, produtores, distribuidores em baixa tensão, comercializadores, agregadores e outros utilizadores das redes"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/portarias/1999/portaria-387-99.md",
-    "artigos_parser": 25,
-    "artigos_dre": 28,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 3,
+    "numeros_iguais": 0,
     "epigrafes_iguais": 0,
     "partes_iguais": false,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/despachos-normativos/1984/despacho-normativo-150-84.md",
+    "artigos_parser": 0,
+    "artigos_dre": 2,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 0,
+    "partes_iguais": false,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/leis/2004/lei-55-b-2004.md",
+    "artigos_parser": 79,
+    "artigos_dre": 79,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 79,
+    "epigrafes_iguais": 78,
+    "partes_iguais": true,
     "primeira_diferenca": {
-     "posicao": 0,
+     "posicao": 44,
      "parser": [
-      "Anexo — REGULAMENTO DE AUTORIZAÇÕES ESPECIAIS DE TRÂNSITO",
-      "1.º",
-      "Âmbito de aplicação"
+      "",
+      "45.º",
+      ""
      ],
      "dre": [
       "",
-      "1.º",
-      ""
+      "45.º",
+      "Transposição da Directiva n.º 2003/123/CE, do Conselho, de 22 de Dezembro, que altera a Directiva n.º 90/435/CEE, de 23 de Julho, relativa ao regime fiscal comum aplicável às sociedades mãe e sociedades afiliadas de Estados membros diferentes"
      ]
     }
    },
    {
-    "path": "data/portugal/portarias/2013/portaria-55-2013.md",
+    "path": "data/portugal/portarias/1999/portaria-564-99.md",
     "artigos_parser": 5,
-    "artigos_dre": 6,
+    "artigos_dre": 33,
     "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 5,
-    "epigrafes_iguais": 5,
+    "numeros_iguais": 2,
+    "epigrafes_iguais": 2,
     "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 2,
+     "parser": [
+      "Anexo — PROTOCOLO DO CENTRO DE REABILITAÇÃO PROFISSIONAL DE GAIA",
+      "XX",
+      "Plano de atividades, orçamento e relatórios de controlo orçamental"
+     ],
+     "dre": [
+      "Anexo — PROTOCOLO DO CENTRO DE REABILITAÇÃO PROFISSIONAL DE GAIA",
+      "I",
+      "Denominação"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/2003/portaria-953-2003.md",
+    "artigos_parser": 0,
+    "artigos_dre": 3,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 0,
+    "partes_iguais": false,
     "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/portarias/2005/portaria-590-a-2005.md",
+    "artigos_parser": 0,
+    "artigos_dre": 5,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 0,
+    "epigrafes_iguais": 0,
+    "partes_iguais": false,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/portugal/portarias/2008/portaria-1532-2008.md",
+    "artigos_parser": 359,
+    "artigos_dre": 357,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 166,
+    "epigrafes_iguais": 166,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 166,
+     "parser": [
+      "Anexo — Regulamento técnico de segurança contra incêndio em edifícios",
+      "162.º",
+      "Critérios de segurança"
+     ],
+     "dre": [
+      "Anexo — Regulamento técnico de segurança contra incêndio em edifícios",
+      "163.º",
+      "Utilização de meios portáteis e móveis de extinção"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/2025/portaria-219-2025-1.md",
+    "artigos_parser": 24,
+    "artigos_dre": 24,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 24,
+    "epigrafes_iguais": 21,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 16,
+     "parser": [
+      "Anexo — Republicação da Portaria n.º 243/2020, de 14 de outubro",
+      "9.º",
+      ""
+     ],
+     "dre": [
+      "Anexo — Republicação da Portaria n.º 243/2020, de 14 de outubro",
+      "9.º",
+      "Circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão, de vegetais especificados que tenham sido cultivados em locais de produção autorizados situados nessa área demarcada"
+     ]
+    }
    }
   ]
  }

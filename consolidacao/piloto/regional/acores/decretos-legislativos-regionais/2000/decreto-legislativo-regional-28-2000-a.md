@@ -120,8 +120,6 @@ A importação, fabrico, montagem, substituição de temas de jogos e venda de m
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
-## Título de registo
-
 1 - Preenchidos os requisitos exigidos no artigo 5.º, o Secretário Regional Adjunto da Presidência mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
 
 2 - O título de registo deverá conter os elementos identificativos referidos no n.º 2 do artigo 4.º
@@ -198,15 +196,13 @@ O membro do Governo Regional com competência na área de polícia administrativ
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
-## Título de licenciamento
-
 A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e período de validade, bem como o número de máquinas.
 
 ###### Artigo 17.º — Recinto
 
 1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.
 
-2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizontal.
+2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizonal.
 
 3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.
 

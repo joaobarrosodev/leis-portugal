@@ -1,0 +1,2733 @@
+[
+ {
+  "id": "pt:dre:626423:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "Objecto",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "Âmbito",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "Formas de prestação de serviço",
+    "texto": "As formas de prestação do serviço efectivo são as seguintes:\n\na) Serviço efectivo nos quadros permanentes (QP);\n\nb) Serviço efectivo normal (SEN);\n\nc) Serviço efectivo em regime de voluntariado (RV);\n\nd) Serviço efectivo em regime de contrato (RC);\n\ne) Serviço efectivo decorrente de convocação ou mobilização.",
+    "alterador": 3
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "Militar dos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "Militar em RC",
+    "texto": "É militar em RC o que, tendo cumprido o SEN e prestado serviço em RV pelo período mínimo de 12 meses, continua ou regressa ao serviço por um período de tempo limitado, com vista à satisfação de necessidades das Forças Armadas ou ao seu eventual recrutamento para os QP.",
+    "alterador": 3
+   },
+   {
+    "chave": "5.º-A",
+    "epigrafe": "Militar em RV",
+    "texto": "É militar em RV o que, tendo cumprido o SEN, deseje manter-se ao serviço por um período de tempo não superior a 18 meses, com vista à satisfação de necessidades das Forças Armadas, à passagem ao RC ou ao seu eventual recrutamento para os QP.",
+    "alterador": 3
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "Militar convocado ou mobilizado",
+    "texto": "1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.\n\n2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.\n\n3 - São aplicáveis aos militares convocados ou mobilizados as disposições estatutárias respeitantes às formas de prestação de serviço que antecederam a passagem à reserva de disponibilidade e licenciamento.\n\n4 - Aos militares mobilizados a que se refere o número anterior serão igualmente aplicadas as disposições estatutárias respeitantes a outras formas de prestação de serviço quando a duração dos períodos de mobilização o justifique.\n\n5 - Aos militares mobilizados a partir da reserva territorial são aplicáveis as disposições estatutárias respeitantes aos militares em SEN.",
+    "alterador": 3
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "Juramento de bandeira",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "Defesa da Pátria",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "Dever de obediência",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "Dever de dedicação ao serviço",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "Dever de disponibilidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "Procedimento quando detido",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "14.º",
+    "epigrafe": "Poder de autoridade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "15.º",
+    "epigrafe": "Dever de tutela",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "16.º",
+    "epigrafe": "Incompatibilidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "Outros deveres",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "18.º",
+    "epigrafe": "Violação dos deveres",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "19.º",
+    "epigrafe": "Direitos, liberdades e garantias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "20.º",
+    "epigrafe": "Honras militares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "Remuneração",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "Garantia em processo disciplinar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "23.º",
+    "epigrafe": "Patrocínio judiciário e assistência",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "24.º",
+    "epigrafe": "Assistência religiosa",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "25.º",
+    "epigrafe": "Prisão preventiva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "26.º",
+    "epigrafe": "Outros direitos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "27.º",
+    "epigrafe": "Hierarquia",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "28.º",
+    "epigrafe": "Categorias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "Postos militares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "30.º",
+    "epigrafe": "Contagem da antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "31.º",
+    "epigrafe": "Antiguidade relativa entre militares",
+    "texto": "1 - O militar dos QP é sempre considerado mais antigo que os militares em RC, RV, SEN, mobilizados e convocados promovidos a posto igual ou correspondente com a mesma data de antiguidade.\n\n2 - O militar graduado é sempre considerado mais moderno que os militares promovidos a posto igual ou correspondente.",
+    "alterador": 3
+   },
+   {
+    "chave": "32.º",
+    "epigrafe": "Escalas hierárquicas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "33.º",
+    "epigrafe": "Hierarquia funcional",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "34.º",
+    "epigrafe": "Prevalência de funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "35.º",
+    "epigrafe": "Cargos militares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "36.º",
+    "epigrafe": "Funções militares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "37.º",
+    "epigrafe": "Função comando",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "38.º",
+    "epigrafe": "Função direcção ou chefia",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "39.º",
+    "epigrafe": "Função estado-maior",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "40.º",
+    "epigrafe": "Função execução",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "41.º",
+    "epigrafe": "Competência e responsabilidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "42.º",
+    "epigrafe": "Cargo de posto inferior",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "43.º",
+    "epigrafe": "Cargo de posto superior",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "44.º",
+    "epigrafe": "Actos e cerimónias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "45.º",
+    "epigrafe": "Efectivos",
+    "texto": "1 - Designa-se, genericamente, por efectivos o número de militares, nas diferentes formas de prestação de serviço efectivo, necessário ao funcionamento das forças armadas.\n\n2 - Os efectivos dos quadros permanentes das forças armadas são fixados em decreto-lei, sob proposta do Conselho de Chefes de Estado-Maior (CCEM).\n\n3 - Os efectivos dos comandos, unidades, estabelecimentos e órgãos militares não integrados nos ramos são fixados por decreto-lei, sob proposta do CCEM.\n\n4 - Os efectivos em RC e RV e os voluntários a eles destinados são anualmente fixados, para cada ramo, em portaria do Ministro da Defesa Nacional (MDN), sob proposta do CCEM, e são expressos na Lei do Orçamento do Estado.\n\n5 - Os efectivos conscritos a incorporar anualmente nos ramos das forças armadas são expressos na lei do Orçamento do Estado, mediante proposta do CCEM.\n\n6 - Os efectivos convocados ou mobilizadas são fixados de acordo com as disposições previstas na LSM e demais legislação aplicável.",
+    "alterador": 3
+   },
+   {
+    "chave": "46.º",
+    "epigrafe": "Situações quanto à prestação de serviço",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "47.º",
+    "epigrafe": "Contagem de tempo de serviço",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "48.º",
+    "epigrafe": "Contagem de tempo de serviço militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "49.º",
+    "epigrafe": "Contagem de tempo de serviço efectivo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "50.º",
+    "epigrafe": "Contagem de tempo de permanência no posto",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "51.º",
+    "epigrafe": "Promoções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "52.º",
+    "epigrafe": "Modalidades de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "53.º",
+    "epigrafe": "Promoção por habilitação com curso adequado",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "54.º",
+    "epigrafe": "Promoção por diuturnidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "55.º",
+    "epigrafe": "Promoção por antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "56.º",
+    "epigrafe": "Promoção por escolha",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "57.º",
+    "epigrafe": "Promoção por distinção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "58.º",
+    "epigrafe": "Promoção a título excepcional",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "59.º",
+    "epigrafe": "Condições de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "60.º",
+    "epigrafe": "Condições gerais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "61.º",
+    "epigrafe": "Verificação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "62.º",
+    "epigrafe": "Não satisfação das condições gerais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "63.º",
+    "epigrafe": "Inexistência de avaliação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "64.º",
+    "epigrafe": "Condições especiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "65.º",
+    "epigrafe": "Exclusão temporária",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "66.º",
+    "epigrafe": "Demora na promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "67.º",
+    "epigrafe": "Preterição na promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "68.º",
+    "epigrafe": "Processo pendente",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "69.º",
+    "epigrafe": "Prisioneiro de guerra",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "70.º",
+    "epigrafe": "Documento oficial de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "71.º",
+    "epigrafe": "Condições para a graduação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "72.º",
+    "epigrafe": "Cessação da graduação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "73.º",
+    "epigrafe": "Princípios da formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "74.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "75.º",
+    "epigrafe": "Cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "76.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "77.º",
+    "epigrafe": "Cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "78.º",
+    "epigrafe": "Cursos de especialização ou qualificação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "79.º",
+    "epigrafe": "Cursos de actualização",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "80.º",
+    "epigrafe": "Instrução",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "81.º",
+    "epigrafe": "Treino operacional e técnico",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "82.º",
+    "epigrafe": "Critérios de nomeação para cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "83.º",
+    "epigrafe": "Equivalências",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "84.º",
+    "epigrafe": "Reclassificações",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "85.º",
+    "epigrafe": "Modo e finalidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "86.º",
+    "epigrafe": "Instruções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "87.º",
+    "epigrafe": "Princípios fundamentais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "88.º",
+    "epigrafe": "Finalidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "89.º",
+    "epigrafe": "Confidencialidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "90.º",
+    "epigrafe": "Periodicidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "91.º",
+    "epigrafe": "Avaliadores",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "92.º",
+    "epigrafe": "Avaliações divergentes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "93.º",
+    "epigrafe": "Juízo favorável ou não favorável",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "94.º",
+    "epigrafe": "Tratamento da avaliação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "95.º",
+    "epigrafe": "Reclamações e recursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "96.º",
+    "epigrafe": "Apreciação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "97.º",
+    "epigrafe": "Falta de aptidão",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "98.º",
+    "epigrafe": "Diminuídos permanentes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "99.º",
+    "epigrafe": "Processo individual",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "100.º",
+    "epigrafe": "Tipos de licença",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "101.º",
+    "epigrafe": "Licença para férias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "102.º",
+    "epigrafe": "Licença por mérito",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "103.º",
+    "epigrafe": "Licença de junta médica",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "104.º",
+    "epigrafe": "Licença por falecimento de familiares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "105.º",
+    "epigrafe": "Licença por casamento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "106.º",
+    "epigrafe": "Licença registada",
+    "texto": "1 - A licença registada pode ser concedida, a requerimento do interessado, por motivos de natureza particular que justifiquem tal petição, ou imposta por motivos decorrentes de conveniência de serviço.\n\n2 - A licença registada não confere direito a remuneração ou compensação financeira e não conta como tempo de serviço militar.",
+    "alterador": 3
+   },
+   {
+    "chave": "107.º",
+    "epigrafe": "Licença por maternidade ou paternidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "108.º",
+    "epigrafe": "Reclamação e recurso",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "109.º",
+    "epigrafe": "Legitimidade para reclamar e recorrer",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "110.º",
+    "epigrafe": "Reclamação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "111.º",
+    "epigrafe": "Recurso hierárquico",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "112.º",
+    "epigrafe": "Decisão definitiva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "113.º",
+    "epigrafe": "Recurso contencioso",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "114.º",
+    "epigrafe": "Prazos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "115.º",
+    "epigrafe": "Indeferimento tácito",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "116.º",
+    "epigrafe": "Militares dos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "117.º",
+    "epigrafe": "Juramento de fidelidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "118.º",
+    "epigrafe": "Deveres específicos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "119.º",
+    "epigrafe": "Incompatibilidade relativa",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "120.º",
+    "epigrafe": "Acesso na carreira",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "121.º",
+    "epigrafe": "Formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "122.º",
+    "epigrafe": "Direito de transporte e alojamento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "123.º",
+    "epigrafe": "Remuneração",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "124.º",
+    "epigrafe": "Suplementos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "125.º",
+    "epigrafe": "Remuneração na reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "126.º",
+    "epigrafe": "Pensão de reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "127.º",
+    "epigrafe": "Pensão de reforma extraordinária",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "128.º",
+    "epigrafe": "Assistência à família",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "129.º",
+    "epigrafe": "Transferência de quadro especial",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "130.º",
+    "epigrafe": "Identificação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "131.º",
+    "epigrafe": "Uso e porte de arma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "132.º",
+    "epigrafe": "Listas de antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "133.º",
+    "epigrafe": "Inscrição na lista de antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "134.º",
+    "epigrafe": "Alteração na antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "135.º",
+    "epigrafe": "Antiguidade por transferência de quadro especial",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "136.º",
+    "epigrafe": "Antiguidade relativa",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "137.º",
+    "epigrafe": "Funções do militar dos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "138.º",
+    "epigrafe": "Carreira militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "139.º",
+    "epigrafe": "Princípios",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "140.º",
+    "epigrafe": "Objectivos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "141.º",
+    "epigrafe": "Condicionamentos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "142.º",
+    "epigrafe": "Desenvolvimento da carreira",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "143.º",
+    "epigrafe": "Designação das carreiras",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "144.º",
+    "epigrafe": "Carreira de oficiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "145.º",
+    "epigrafe": "Carreira de sargentos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "146.º",
+    "epigrafe": "Carreira de praças",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "147.º",
+    "epigrafe": "Recrutamento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "148.º",
+    "epigrafe": "Colocação de militares",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "149.º",
+    "epigrafe": "Tipo de nomeações",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "150.º",
+    "epigrafe": "Nomeação por escolha",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "151.º",
+    "epigrafe": "Nomeação por oferecimento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "152.º",
+    "epigrafe": "Nomeação por imposição",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "153.º",
+    "epigrafe": "Normas de nomeação e colocação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "154.º",
+    "epigrafe": "Situações",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "155.º",
+    "epigrafe": "Activo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "156.º",
+    "epigrafe": "Reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "157.º",
+    "epigrafe": "Reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "158.º",
+    "epigrafe": "Situações em relação à prestação de serviço",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "159.º",
+    "epigrafe": "Comissão normal",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "160.º",
+    "epigrafe": "Comissão especial",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "161.º",
+    "epigrafe": "Inactividade temporária",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "162.º",
+    "epigrafe": "Efeitos da inactividade temporária",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "163.º",
+    "epigrafe": "Licença sem vencimento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "164.º",
+    "epigrafe": "Situações quanto à efectividade de serviço",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "165.º",
+    "epigrafe": "Mudanças de situação por força de sanções extraordinárias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "166.º",
+    "epigrafe": "Regresso à situação do activo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "167.º",
+    "epigrafe": "Condições de passagem à reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "168.º",
+    "epigrafe": "Limites de idade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "169.º",
+    "epigrafe": "Prestação de serviço por militares na reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "170.º",
+    "epigrafe": "Serviço efectivo dos militares na reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "171.º",
+    "epigrafe": "Estado de sítio ou guerra",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "172.º",
+    "epigrafe": "Data da passagem à reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "173.º",
+    "epigrafe": "Suspensão da passagem à reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "174.º",
+    "epigrafe": "Reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "175.º",
+    "epigrafe": "Reforma extraordinária",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "176.º",
+    "epigrafe": "Prestação de serviço na reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "177.º",
+    "epigrafe": "Data da passagem à reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "178.º",
+    "epigrafe": "Quadro de pessoal",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "179.º",
+    "epigrafe": "Quadros especiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "180.º",
+    "epigrafe": "Vacaturas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "181.º",
+    "epigrafe": "Ingresso",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "182.º",
+    "epigrafe": "Data de ingresso",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "183.º",
+    "epigrafe": "Abate aos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "184.º",
+    "epigrafe": "Situações",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "185.º",
+    "epigrafe": "Militar no quadro",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "186.º",
+    "epigrafe": "Adido ao quadro",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "187.º",
+    "epigrafe": "Supranumerário",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "188.º",
+    "epigrafe": "Contagem de tempo de serviço efectivo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "189.º",
+    "epigrafe": "Promoções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "190.º",
+    "epigrafe": "Promoção de militares na reserva e na reforma",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "191.º",
+    "epigrafe": "Promoção de adidos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "192.º",
+    "epigrafe": "Promoção de supranumerários",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "193.º",
+    "epigrafe": "Listas de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "194.º",
+    "epigrafe": "Não satisfação das condições gerais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "195.º",
+    "epigrafe": "Verificação da quarta condição geral",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "196.º",
+    "epigrafe": "Satisfação das condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "197.º",
+    "epigrafe": "Não satisfação das condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "198.º",
+    "epigrafe": "Dispensa das condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "199.º",
+    "epigrafe": "Data da antiguidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "200.º",
+    "epigrafe": "Antiguidade para efeitos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "201.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "202.º",
+    "epigrafe": "Exclusão da promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "203.º",
+    "epigrafe": "Cessação da graduação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "204.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "205.º",
+    "epigrafe": "Nomeação para os cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "206.º",
+    "epigrafe": "Nomeação para os cursos de especialização ou qualificação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "207.º",
+    "epigrafe": "Dispensa da frequência de cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "208.º",
+    "epigrafe": "Adiamento da frequência de cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "209.º",
+    "epigrafe": "Desistência da frequência de cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "210.º",
+    "epigrafe": "Falta de aproveitamento nos cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "211.º",
+    "epigrafe": "Valorização profissional",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "212.º",
+    "epigrafe": "Finalidade",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "213.º",
+    "epigrafe": "Avaliações periódicas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "214.º",
+    "epigrafe": "Avaliações extraordinárias",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "215.º",
+    "epigrafe": "Juntas médicas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "216.º",
+    "epigrafe": "Livrete de saúde",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "217.º",
+    "epigrafe": "Licença registada",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "218.º",
+    "epigrafe": "Outros tipos de licença",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "219.º",
+    "epigrafe": "Licença ilimitada",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "220.º",
+    "epigrafe": "Licença para estudos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "221.º",
+    "epigrafe": "Carta-patente",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "222.º",
+    "epigrafe": "Ingresso na categoria",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "223.º",
+    "epigrafe": "Chefe do Estado-Maior-General das Forças Armadas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "224.º",
+    "epigrafe": "Chefe de estado-maior do ramo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "225.º",
+    "epigrafe": "Presidente do Supremo Tribunal Militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "226.º",
+    "epigrafe": "Vice-Chefe do Estado-Maior-General das Forças Armadas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "227.º",
+    "epigrafe": "Vice-chefe do estado-maior do ramo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "228.º",
+    "epigrafe": "Comandante-chefe",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "229.º",
+    "epigrafe": "Hierarquia superior do EMGFA e dos ramos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "230.º",
+    "epigrafe": "Almirante da Armada e marechal",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "231.º",
+    "epigrafe": "Suspensão do limite de idade de passagem à reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "232.º",
+    "epigrafe": "Situação especial de passagem à reserva",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "233.º",
+    "epigrafe": "Promoção a oficial general",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "234.º",
+    "epigrafe": "Promoções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "235.º",
+    "epigrafe": "Competência de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "236.º",
+    "epigrafe": "Tempo mínimo de permanência nos postos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "237.º",
+    "epigrafe": "Tempo mínimo global",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "238.º",
+    "epigrafe": "Abate aos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "239.º",
+    "epigrafe": "Cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "240.º",
+    "epigrafe": "Nomeação para os cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "241.º",
+    "epigrafe": "Classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "242.º",
+    "epigrafe": "Ingresso nas classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "243.º",
+    "epigrafe": "Subclasses e ramos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "244.º",
+    "epigrafe": "Transferência de subclasse",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "245.º",
+    "epigrafe": "Caracterização funcional das classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "246.º",
+    "epigrafe": "Cargos e funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "247.º",
+    "epigrafe": "Comissão normal",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "248.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "249.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "250.º",
+    "epigrafe": "Tirocínios de embarque",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "251.º",
+    "epigrafe": "Tempo de navegação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "252.º",
+    "epigrafe": "Contagem de tirocínios",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "253.º",
+    "epigrafe": "Dispensa de tirocínios",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "254.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "255.º",
+    "epigrafe": "Cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "256.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "257.º",
+    "epigrafe": "Cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "258.º",
+    "epigrafe": "Designação dos oficiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "259.º",
+    "epigrafe": "Corpo de oficiais generais, armas e serviços",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "260.º",
+    "epigrafe": "Ingresso nas armas e serviços de alunos da Academia Militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "261.º",
+    "epigrafe": "Ingresso nos QP de oficiais por concurso",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "262.º",
+    "epigrafe": "Ingresso nos QP de oficiais com cursos de formação equiparados a bacharelato",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "263.º",
+    "epigrafe": "Cargos e funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "264.º",
+    "epigrafe": "Pára-quedistas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "265.º",
+    "epigrafe": "Apreciação das condições de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "266.º",
+    "epigrafe": "Promoção a tenente",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "267.º",
+    "epigrafe": "Promoção a capitão",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "268.º",
+    "epigrafe": "Promoção a major",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "269.º",
+    "epigrafe": "Promoção a tenente-coronel",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "270.º",
+    "epigrafe": "Promoção a coronel",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "271.º",
+    "epigrafe": "Promoção a brigadeiro",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "272.º",
+    "epigrafe": "Cursos e tirocínios",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "273.º",
+    "epigrafe": "Cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "274.º",
+    "epigrafe": "Designação dos oficiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "275.º",
+    "epigrafe": "Especialidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "276.º",
+    "epigrafe": "Ingresso na especialidade de pilotos aviadores",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "277.º",
+    "epigrafe": "Ingresso na especialidade de pára-quedistas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "278.º",
+    "epigrafe": "Ingresso nas especialidades de engenheiros",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "279.º",
+    "epigrafe": "Ingresso na especialidade de médicos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "280.º",
+    "epigrafe": "Ingresso na especialidade de administração aeronáutica",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "281.º",
+    "epigrafe": "Ingresso na especialidade de juristas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "282.º",
+    "epigrafe": "Ingresso nas especialidades de piloto, navegador, técnicos de polícia aérea e do serviço geral pára-quedista",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "283.º",
+    "epigrafe": "Caracterização funcional das especialidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "284.º",
+    "epigrafe": "Cargos e funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "285.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "286.º",
+    "epigrafe": "Condições especiais de promoção dos oficiais pilotos aviadores",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "287.º",
+    "epigrafe": "Condições especiais de promoção dos oficiais pára-quedistas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "288.º",
+    "epigrafe": "Condições especiais de promoção dos oficiais engenheiros, médicos, de administração aeronáutica e juristas",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "289.º",
+    "epigrafe": "Condições especiais de promoção dos oficiais pilotos, navegadores, técnicos, de polícia aérea e do serviço geral pára-quedista",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "290.º",
+    "epigrafe": "Treino mínimo de voo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "291.º",
+    "epigrafe": "Obtenção das condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "292.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "293.º",
+    "epigrafe": "Cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "294.º",
+    "epigrafe": "Designação dos oficiais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "295.º",
+    "epigrafe": "Diploma de encarte",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "296.º",
+    "epigrafe": "Ingresso na categoria",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "297.º",
+    "epigrafe": "Modalidades de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "298.º",
+    "epigrafe": "Tempo mínimo de permanência nos postos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "299.º",
+    "epigrafe": "Tempo mínimo global",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "300.º",
+    "epigrafe": "Abate aos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "301.º",
+    "epigrafe": "Curso de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "302.º",
+    "epigrafe": "Nomeação para os cursos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "303.º",
+    "epigrafe": "Classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "304.º",
+    "epigrafe": "Ingresso nas classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "305.º",
+    "epigrafe": "Subclasses e ramos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "306.º",
+    "epigrafe": "Transferência de subclasse ou ramo",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "307.º",
+    "epigrafe": "Caracterização funcional das classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "308.º",
+    "epigrafe": "Cargos e conteúdos funcionais",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "309.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "310.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "311.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "312.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "313.º",
+    "epigrafe": "Designação dos sargentos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "314.º",
+    "epigrafe": "Armas e serviços",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "315.º",
+    "epigrafe": "Ingresso nas armas e serviços",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "316.º",
+    "epigrafe": "Cargos e funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "317.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "318.º",
+    "epigrafe": "Promoção a primeiro-sargento",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "319.º",
+    "epigrafe": "Promoção a sargento-ajudante",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "320.º",
+    "epigrafe": "Promoção a sargento-chefe",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "321.º",
+    "epigrafe": "Promoção a sargento-mor",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "322.º",
+    "epigrafe": "Cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "323.º",
+    "epigrafe": "Curso de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "324.º",
+    "epigrafe": "Cursos e estágios de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "325.º",
+    "epigrafe": "Designação dos sargentos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "326.º",
+    "epigrafe": "Especialidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "327.º",
+    "epigrafe": "Ingresso nas especialidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "328.º",
+    "epigrafe": "Caracterização funcional das especialidades",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "329.º",
+    "epigrafe": "Cargos e funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "330.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "331.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "332.º",
+    "epigrafe": "Cursos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "333.º",
+    "epigrafe": "Cursos de formação",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "334.º",
+    "epigrafe": "Curso de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "335.º",
+    "epigrafe": "Designação dos sargentos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "336.º",
+    "epigrafe": "Certificado de encarte",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "337.º",
+    "epigrafe": "Classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "338.º",
+    "epigrafe": "Ingressos nas classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "339.º",
+    "epigrafe": "Subclasses e ramos",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "340.º",
+    "epigrafe": "Transferência de subclasse",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "341.º",
+    "epigrafe": "Funções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "342.º",
+    "epigrafe": "Caracterização funcional das classes",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "343.º",
+    "epigrafe": "Abate aos QP",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "344.º",
+    "epigrafe": "Promoções",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "345.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "346.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "347.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "348.º",
+    "epigrafe": "Designação das praças",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   },
+   {
+    "chave": "349.º",
+    "epigrafe": "Início e duração do SEN",
+    "texto": "O serviço efectivo normal tem início no primeiro dia da incorporação do turno respectivo e tem a duração fixada nos termos previstos na Lei do Serviço Militar (LSM).",
+    "alterador": 3
+   },
+   {
+    "chave": "350.º",
+    "epigrafe": "Designação e identificação dos militares em SEN",
+    "texto": "1 - Os militares em SEN são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, pelo regime em que se encontram e número de identificação e nome.\n\n2 - Os militares em SEN são designados por:\n\na) Cadete SEN (CADSEN) ou soldado cadete (SOLCAD), quando destinado a oficial;\n\nb) Segundo-grumete instruendo (2GRINS) ou soldado instruendo (SOLINS), quando destinado a sargento;\n\nc) Segundo-grumete recruta (2GRREC) ou soldado recruta (SOLREC), quando destinado a praça.\n\n3 - Após a preparação militar geral, os militares referidos na alínea c) do número anterior deixam de ter a designação «recruta».\n\n4 - Durante o período nas fileiras, os militares em SEN, cuja formação civil dispense a preparação complementar da classe ou especialidade a que se destinam e desde que sejam utilizados em funções de acordo com as necessidades dos ramos, podem ser objecto de graduação, após a preparação militar geral, nos postos previstos para os militares desta forma de prestação de serviço, na data de passagem à disponibilidade.\n\n5 - Ao militar em SEN é atribuído, em substituição da cédula, um cartão de identificação, de uso obrigatório, para comprovar a sua identidade para efeitos militares.",
+    "alterador": 3
+   },
+   {
+    "chave": "351.º",
+    "epigrafe": "Funções",
+    "texto": "1 - Ao militar em SEN incumbe o desempenho de funções compatíveis com a preparação obtida e, sempre que possível, com as habilitações académicas e qualificações profissionais que detenha.\n\n2 - Os militares em SEN distribuem-se, do ponto de vista funcional e técnico, de acordo com as normas estabelecidas por despacho do CEM do respectivo ramo.",
+    "alterador": 3
+   },
+   {
+    "chave": "352.º",
+    "epigrafe": "Postos",
+    "texto": "1 - Sem prejuízo de promoção por distinção, o militar em SEN é promovido, na data da passagem à situação de disponibilidade ou no primeiro dia do prolongamento excepcional do SEN, aos seguintes postos:\n\na) Oficiais - aspirante a oficial;\n\nb) Sargentos - segundo-subsargento ou segundo-furriel.\n\n2 - As praças mantêm as designações que detinham, podendo ainda ser promovidas a primeiro-grumete ou segundo-cabo quando habilitadas com o curso de formação de grumetes ou curso de promoção a cabo.\n\n3 - A inscrição no posto de cada uma das categorias acima referidas é feita, dentro de cada turno de incorporação, por ordem decrescente de classificação nos respectivos cursos de formação.\n\n4 - Na categoria de praças, quando não sejam atribuídas classificações, a inscrição é feita por ordem decrescente dos números de identificação militar (NIM).",
+    "alterador": 3
+   },
+   {
+    "chave": "353.º",
+    "epigrafe": "Antiguidade relativa",
+    "texto": "A antiguidade relativa entre militares em SEN da mesma categoria e posto é determinada inicialmente pela ordem de inscrição no respectivo posto.",
+    "alterador": 3
+   },
+   {
+    "chave": "354.º",
+    "epigrafe": "Preparação militar geral",
+    "texto": "1 - O militar em SEN, é sujeito, após a incorporação, à preparação militar geral, que visa fornecer conhecimentos adequados às características do ramo a que pertence.\n\n2 - A preparação militar geral termina no acto de juramento de bandeira e a sua duração é fixada por portaria do Ministro da Defesa Nacional, sob proposta do CCEM.\n\n3 - O militar destinado exclusivamente a cumprir o SEN que não obtenha aproveitamento na preparação militar geral é submetido a novo período de preparação no turno seguinte.\n\n4 - O militar destinado exclusivamente a cumprir o SEN, na categoria de oficial ou sargento, que não obtenha aproveitamento na preparação militar geral por motivos disciplinares ou escolares cumpre o serviço efectivo como praça e é submetido a novo período de preparação no turno seguinte.\n\n5 - O militar destinado exclusivamente a cumprir o SEN, na categoria de oficial ou sargento, que, por motivo de acidente ou doença, não obtenha aproveitamento na preparação militar geral é submetido a novo período de prepração no turno seguinte.\n\n6 - O militar aluno que interrompa a frequência de cursos de formação para acesso a outras formas de prestação de serviço, após um período de frequência superior ao fixado para a duração do SEN e que obtenha aproveitamento na preparação militar geral, é considerado como tendo cumprido o SEN.\n\n7 - O militar que deva repetir a preparação militar geral entra em licença registada até à data de início do turno seguinte.\n\n8 - O período de preparação militar geral em que o militar não obteve aproveitamento por motivos disciplinares não é contado para efeitos de duração do SEN.\n\n9 - A preparação militar geral que antecede o período nas fileiras é ministrada através de cursos de formação básica (CFB), para oficiais, sargentos e praças.",
+    "alterador": 3
+   },
+   {
+    "chave": "355.º",
+    "epigrafe": "Período nas fileiras",
+    "texto": "1 - Concluída, com aproveitamento, a preparação militar geral, o militar em SEN inicia o período nas fileiras.\n\n2 - O período nas fileiras abrange a preparação complementar, quando deva ter lugar, e o serviço nas unidades e estabelecimentos militares.",
+    "alterador": 3
+   },
+   {
+    "chave": "356.º",
+    "epigrafe": "Preparação complementar",
+    "texto": "1 - A preparação complementar destina-se ao desenvolvimento da formação militar proporcionada durante a preparação militar geral e terá em conta o ramo, categoria e forma de prestação de serviço, classe ou especialidade a que o militar se destina.\n\n2 - A preparação complementar dos militares das categorias indicadas, destinados a prestar serviço em SE, é designada por:\n\na) Oficiais - curso de formação de oficiais do SEN (CFO/SEN);\n\nb) Sargentos - curso de formação de sargentos do SEN (CFS/SEN);\n\nc) Praças - curso de formação de praças do SEN (CFP/SEN).\n\n3 - O militar em SEN que se destina ao RV ou RC pode ser objecto de acções de formação adequadas para o desempenho de funções naquelas formas de prestação de serviço durante o período do SEN legalmente fixado.",
+    "alterador": 3
+   },
+   {
+    "chave": "357.º",
+    "epigrafe": "Avaliação individual",
+    "texto": "O militar em SEN é sujeito a avaliação individual, nomeadamente para os efeitos seguintes:\n\na) Promoção;\n\nb) Outras formas de prestação de serviço efectivo nas Forças Armadas.",
+    "alterador": 3
+   },
+   {
+    "chave": "358.º",
+    "epigrafe": "Falta de aptidão",
+    "texto": "O militar em SEN que não satisfaça a aptidão física ou psíquica necessária ao desempenho das funções militares e seja considerado incapaz para o serviço militar pela competente junta médica é alistado na reserva territorial, sem prejuízo da situação que lhe competir, nos termos da LSM e respectivo regulamento.",
+    "alterador": 3
+   },
+   {
+    "chave": "359.º",
+    "epigrafe": "Compensação material e financeira",
+    "texto": "1 - O militar em SEN tem direito a alojamento, alimentação e fardamento gratuitos.\n\n2 - Ao militar em SEN é atribuída uma compensação financeira, de montante uniforme, a actualizar nos termos da lei.",
+    "alterador": 3
+   },
+   {
+    "chave": "360.º",
+    "epigrafe": "Assistência na doença",
+    "texto": "1 - O militar em SEN que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data da alta hospitalar.\n\n2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em SEN que à data da passagem à disponibilidade se encontre com baixa hospitalar por doença ou acidente sem relação com o serviço, e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.\n\n3 - O militar na situação prevista no número anterior continua em SEN no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "361.º",
+    "epigrafe": "Amparo",
+    "texto": "O militar em SEN pode requerer a qualificação como amparo de família, nos termos previstos na legislação aplicável.",
+    "alterador": 3
+   },
+   {
+    "chave": "362.º",
+    "epigrafe": "Licença registada",
+    "texto": "1 - A licença registada concedida a título excepcional a requerimento do militar não pode exceder o período de um mês.\n\n2 - A licença registada a que se refere o n.º 7 do artigo 354.º não conta como tempo de SEM.",
+    "alterador": 3
+   },
+   {
+    "chave": "363.º",
+    "epigrafe": "Termo do SEN",
+    "texto": "1 - Após perfazer o tempo de serviço efectivo fixado na Lei do Serviço Militar, o militar transita para uma das seguintes situações:\n\na) Reserva de disponibilidade e licenciamento;\n\nb) Serviço efectivo em RV.\n\n2 - Se à data da passagem à disponibilidade o militar se encontrar com baixa por doença e a junta não estiver em condições de se pronunciar sobre a capacidade ou incapacidade definitivas do militar, este permanece nas fileiras, na mesma forma de prestação de serviço, até à decisão definitiva daquela junta, salvo declaração expressa em contrário do próprio.",
+    "alterador": 3
+   },
+   {
+    "chave": "364.º",
+    "epigrafe": "Tempo não contável",
+    "texto": "Ao militar incorporado como voluntário não é contado como tempo de serviço efectivo o período de preparação militar geral caso não tenha aproveitamento por motivos disciplinares ou escolares.",
+    "alterador": 3
+   },
+   {
+    "chave": "365.º",
+    "epigrafe": "Início e duração do RV",
+    "texto": "1 - A prestação do serviço efectivo em RV inicia-se no dia imediato ao termo do SEN ou, estando o militar na reserva de disponibilidade e licenciamento, no dia do regresso à efectividade do serviço.\n\n2 - A prestação de serviço em RV terá a duração mínima e máxima de acordo com o fixado na Lei do Serviço Militar.\n\n3 - Sempre que numa classe ou especialidade o período inicial da prestação de serviço efectivo em RV deva ter uma duração superior ao mínimo estabelecido na lei, essa duração será fixada em portaria do MDN, sob proposta do CEM do respectivo ramo.",
+    "alterador": 3
+   },
+   {
+    "chave": "366.º",
+    "epigrafe": "Candidatura",
+    "texto": "1 - A candidatura ao RV formaliza-se em requerimento dirigido ao CEM respectivo.\n\n2 - Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RV e respectiva cessação são fixados por despacho do CEM respectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "367.º",
+    "epigrafe": "Condições de admissão",
+    "texto": "1 - Constituem condições gerais de admissão ao RV:\n\na) Ter bom comportamento militar;\n\nb) Reunir condições físicas e psíquicas para o desempenho das funções inerentes ao posto e classe ou especialidade;\n\nc) Possuir habilitações literárias e técnico-profissionais necessárias à classe ou especialidade;\n\nd) Não ter avaliações desfavoráveis relativamente ao período de prestação do SEN.\n\n2 - As condições especiais de admissão são estabelecidas por despacho do CEM respectivo, em função das categorias, classes ou especialidades.",
+    "alterador": 3
+   },
+   {
+    "chave": "368.º",
+    "epigrafe": "Designação e identificação dos militares em RV",
+    "texto": "1 - Os militares em RV são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, pelo regime em que se encontram, sob forma abreviada e número de identificação e nome.\n\n2 - Exceptuam-se do mencionado no n.º 1 os militares alunos cujas designações constam nos regulamentos escolares dos cursos que frequentam.\n\n3 - Ao militar em RV é conferido um cartão de identificação militar, de uso obrigatório, para comprovação da sua identidade para efeitos militares.",
+    "alterador": 3
+   },
+   {
+    "chave": "369.º",
+    "epigrafe": "Funções",
+    "texto": "1 - Os militares em RV exercem funções de acordo com o seu posto, classe ou especialidade e qualificações.\n\n2 - Compete ao CEM do ramo fixar, por despacho, as funções específicas dos militares em RV.\n\n3 - De acordo com o disposto nos números anteriores, os militares em RV são distribuídos ou agrupados por classes ou especialidades por despacho do CEM do ramo respectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "370.º",
+    "epigrafe": "Postos",
+    "texto": "Sem prejuízo de promoção por distinção, o militar em RV só pode ingressar ou ascender nas seguintes categorias e postos:\n\na) Oficiais:\n\nSubtenente ou alferes;\n\nAspirante a oficial (ASPOF);\n\nb) Sargentos:\n\nSubsargento ou furriel;\n\nSegundo-subsargento ou segundo-furriel;\n\nc) Praças:\n\nSegundo-marinheiro ou primeiro-cabo;\n\nPrimeiro-grumete ou segundo-cabo;\n\nSegundo-grumete ou soldado.",
+    "alterador": 3
+   },
+   {
+    "chave": "371.º",
+    "epigrafe": "Postos de ingresso em RV",
+    "texto": "1 - São os seguintes os postos de ingresso em RV:\n\na) Aspirante a oficial, para os militares destinados à categoria de oficial;\n\nb) Segundo-subsargento ou segundo-furriel, para os militares destinados à categoria de sargento;\n\nc) Primeiro-grumete ou segundo-cabo, para os militares destinados à categoria de praça e habilitados com o curso de formação de grumetes (CFG/RV) ou curso de promoção a cabo, respectivamente;\n\nd) Segundo-grumete ou soldado, para os militares destinados à categoria de praça e habilitados com o CFB, na Marinha, ou CFP, no Exército e na Força Aérea.\n\n2 - São graduados em subtenente ou alferes os militares que tenham curso de licenciatura ou legalmente equivalente e se destinem à classe ou especialidade a que corresponda a sua formação académica.\n\n3 - Os postos ou designações dos militares em RV, durante a frequência de cursos de formação, são os fixados nos regulamentos escolares dos cursos que frequentem.\n\n4 - Os militares que ingressem no RV e que frequentem cursos de formação para o RC, cuja duração, de acordo com a respectiva organização escolar, exceda o limite máximo em RV, são considerados militares alunos, ficando com as adaptações decorrentes da sua condição de alunos, sujeitos ao regime geral de deveres e direitos dos militares desta forma de prestação de serviço.",
+    "alterador": 3
+   },
+   {
+    "chave": "372.º",
+    "epigrafe": "Inscrição no primeiro posto",
+    "texto": "A inscrição no primeiro posto de cada uma das categorias é feita por ordem decrescente de classificação nos respectivos cursos de formação.",
+    "alterador": 3
+   },
+   {
+    "chave": "373.º",
+    "epigrafe": "Condições gerais de promoção",
+    "texto": "1 - As condições gerais de promoção dos militares em RV são as constantes do artigo 60.º do presente Estatuto.\n\n2 - À apreciação das condições gerais de promoção, a que se refere o número anterior, são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da mesma categoria do respectivo ramo.\n\n3 - Quando se verifique a existência de classes ou especialidades em RV sem correspondência nos QP, compete ao CEM do ramo definir a entidade responsável pela apreciação das condições gerais de promoção.",
+    "alterador": 3
+   },
+   {
+    "chave": "374.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "1 - São necessários, para efeitos de promoção aos postos indicados, e no respeito pelos efectivos fixados nos termos do n.º 4 do artigo 45.º, os seguintes tempos mínimos de permanência nos postos antecedentes:\n\na) Subtenente ou alferes - um ano no posto de aspirante a oficial, para os oficiais a que se referem as alíneas a) e b) do n.º 1 do artigo 371.º;\n\nb) Subsargento ou furriel - seis meses no posto de segundo-subsargento ou segundo-furriel, para os militares com formação que habilite a certificação de qualificação profissional de nível 3 e equivalência com o ensino secundário, que corresponda à classe ou especialidade a que se destina;\n\nc) Subsargento ou furriel - um ano no posto de segundo-subsargento ou segundo-furriel, para os militares destinados à categoria de sargento e não incluídos na alínea anterior.\n\n2 - É condição especial de promoção aos postos de segundo-marinheiro e primeiro-cabo ter prestado 12 meses de serviço efectivo, respectivamente, nos postos de primeiro-grumete e segundo-cabo.\n\n3 - Para os segundos-cabos da Força Aérea é requisito de promoção, cumulativamente com o tempo de serviço, ter obtido aproveitamento na formação técnica específica da especialidade.\n\n4 - É condição especial de promoção ao posto de segundo-cabo estar habilitado com o curso de promoção a cabo.\n\n5 - As condições especiais de promoção, satisfeitas, no todo ou em parte, durante a prestação do SEN, com excepção do tempo de permanência no posto, são consideradas para efeitos de promoção dos militares em RV.",
+    "alterador": 3
+   },
+   {
+    "chave": "375.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação dos militares, incumbe aos serviços de gestão de pessoal do respectivo ramo, através das subunidades orgânicas que os compõem.\n\n2 - Os processos de promoção são confidenciais.\n\n3 - O militar tem direito de acesso ao respectivo processo individual, no qual se inclui o processo de promoção.",
+    "alterador": 3
+   },
+   {
+    "chave": "376.º",
+    "epigrafe": "Antiguidade relativa",
+    "texto": "A antiguidade relativa entre militares em RV com o mesmo posto ou com postos correspondentes nas diferentes classes e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria, em relação ao qual se atende ao estabelecido para o militar em SEN.",
+    "alterador": 3
+   },
+   {
+    "chave": "377.º",
+    "epigrafe": "Formação e orientação profissional",
+    "texto": "1 - Ao militar em RV são proporcionadas acções de formação adequadas à sua classe, arma ou serviço e especialidade e à sua valorização profissional, através da frequência, designadamente, de cursos e estágios, tendo em vista os interesses específicos da instituição militar e a sua posterior inserção no mercado de trabalho.\n\n2 - A preparação complementar e formação técnica específica dos militares destinados ao RV, para as categorias indicadas, pode incluir a habilitação com os cursos seguintes, a frequentar durante ou após o SEN:\n\na) Oficiais - curso de formação de oficiais para o regime de voluntariado (CFO/RV);\n\nb) Sargentos - curso de formação de sargentos para o regime de voluntariado (CFS/RV);\n\nc) Praças - curso de formação de praças para o regime de voluntariado (CFP/RV), ou curso de formação de grumetes (CFG/RV).\n\n3 - Ao militar em RV são ainda proporcionadas acções de informação e orientação profissional e apoio a obtenção de habilitações académicas, nos termos fixados em legislação especial.",
+    "alterador": 3
+   },
+   {
+    "chave": "378.º",
+    "epigrafe": "Avaliação",
+    "texto": "O militar em RV deve ser objecto de avaliação para efeitos, nomeadamente, de:\n\na) Prorrogação do RV;\n\nb) Promoção;\n\nc) Eventual ingresso no RC;\n\nd) Eventual acesso aos QP.",
+    "alterador": 3
+   },
+   {
+    "chave": "379.º",
+    "epigrafe": "Retribuição monetária",
+    "texto": "O militar em RV tem direito, nos termos definidos em legislação própria, a uma retribuição monetária adequada ao posto e à especificidade do serviço que presta.",
+    "alterador": 3
+   },
+   {
+    "chave": "380.º",
+    "epigrafe": "Alojamento, alimentação e fardamento",
+    "texto": "1 - Para o exercício das suas funções militares é atribuído alojamento aos militares em RV de acordo com o posto e tendo em conta a permanente disponibilidade para o serviço.\n\n2 - O militar em RV tem direito à alimentação e ao fardamento por conta do Estado.",
+    "alterador": 3
+   },
+   {
+    "chave": "381.º",
+    "epigrafe": "Licença registada",
+    "texto": "1 - Ao militar em RV pode ser concedida licença registada, quando o requeira, por tempo não superior a dois meses, seguidos ou interpolados, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período\n\n2 - A licença registada não pode ser imposta ao militar em RV.",
+    "alterador": 3
+   },
+   {
+    "chave": "382.º",
+    "epigrafe": "Licença de férias",
+    "texto": "Ao militar em RV, após ter cumprido seis meses de serviço efectivo, pode ser concedida licença de férias por antecipação.",
+    "alterador": 3
+   },
+   {
+    "chave": "383.º",
+    "epigrafe": "Prorrogação",
+    "texto": "1 - A prorrogação da prestação de serviço em RV ocorre após a conclusão do período inicial fixado nos termos do n.º 3 do artigo 365.º e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.\n\n2 - A prorrogação pode ser autorizada até ao período máximo em RV, em condições a fixar por despacho do CEM do respectivo ramo.",
+    "alterador": 3
+   },
+   {
+    "chave": "384.º",
+    "epigrafe": "Cessação",
+    "texto": "1 - A prestação de serviço do militar em RV pode cessar verificada alguma das seguintes condições:\n\na) A seu requerimento, desde que não haja inconveniente para o serviço;\n\nb) Por desistência ou não aproveitamento em curso por razões que lhe sejam imputáveis;\n\nc) Por falta de aptidão física ou psíquica, comprovada por competente junta médica, desde que não resulte de acidente em serviço ou doença adquirida por motivo do mesmo;\n\nd) Por comprovada falta de aptidão técnico-profissional para o desempenho das suas funções;\n\ne) Por aplicação das sanções previstas no CJM e no RDM ou carência de idoneidade para se manter na efectividade de serviço, após conclusão do respectivo processo.\n\n2 - O apuramento dos factos que levam à aplicação das alíneas d) e e) do n.º 1 será feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final, que compete ao CEM do ramo respectivo ou em quem este delegar.",
+    "alterador": 3
+   },
+   {
+    "chave": "385.º",
+    "epigrafe": "Caducidade",
+    "texto": "A prestação de serviço em RV caduca:\n\na) Findo o período inicial ou o que resulte de sua prorrogação;\n\nb) Com o ingresso do militar em RC.",
+    "alterador": 3
+   },
+   {
+    "chave": "386.º",
+    "epigrafe": "Admissão nos quadros permanentes",
+    "texto": "Ao militar em RV que revele vocação e aptidões adequadas para a carreira militar é ainda facultada a possibilidade de ingressar nos QP nas condições legalmente fixadas.",
+    "alterador": 3
+   },
+   {
+    "chave": "387.º",
+    "epigrafe": "Casos especiais",
+    "texto": "1 - O militar em RV que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data em que estiver clinicamente curado.\n\n2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em RV que à data da passagem à disponibilidade se encontre em baixa hospitalar por doença ou acidente sem relação com o serviço e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.\n\n3 - O militar nas situações previstas no número anterior continua em serviço em regime de voluntariado, no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "388.º",
+    "epigrafe": "Início e duração",
+    "texto": "1 - O militar em RV, vinculado ao RC, inicia automaticamente a prestação de serviço efectivo neste regime após o cumprimento do período a que se encontrava obrigado naquela forma de prestação de serviço.\n\n2 - Para o início do RC não é exigida formação complementar aos militares que, após o cumprimento do RV, prolongam o serviço para frequentarem cursos de formação para ingresso nos QP.\n\n3 - O militar oriundo da situação de disponibilidade, desde que satisfeitas as condições de admissão ao RC, inicia a prestação de serviço efectivo neste regime no dia de regresso à efectividade de serviço.\n\n4 - A prestação de serviço em RC terá a duração mínima e máxima de acordo com o fixado na Lei do Serviço Militar.\n\n5 - Sempre que numa classe ou especialidade o período inicial da prestação de serviço efectivo em RC deva ter uma duração superior ao mínimo estabelecido na lei, essa duração será fixada em portaria do MDN, sob proposta do CEM do respectivo ramo.",
+    "alterador": 3
+   },
+   {
+    "chave": "389.º",
+    "epigrafe": "Candidatura",
+    "texto": "1 - A candidatura ao RC formaliza-se em requerimento dirigido ao CEM respectivo.\n\n2 - Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RC, sua prorrogação e cessação são fixados por despacho do CEM respectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "390.º",
+    "epigrafe": "Condições de admissão",
+    "texto": "1 - Constituem condições gerais de admissão ao RC:\n\na) Ter bom comportamento militar;\n\nb) Reunir condições físicas e psíquicas para o desempenho das funções inerentes ao posto e classe, arma ou serviço e especialidade;\n\nc) Possuir habilitações literárias e técnico-profissionais necessárias à categoria a que se destina;\n\nd) Ter avaliações favoráveis relativamente ao período da prestação do RV.\n\n2 - As condições especiais de admissão são estabelecidas por portaria do MDN, sob proposta do CEM respectivo, em função das categorias e classes, armas ou serviços e especialidades.",
+    "alterador": 3
+   },
+   {
+    "chave": "391.º",
+    "epigrafe": "Designação e identificação dos militares",
+    "texto": "1 - Os militares em RC são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, regime em que se encontram, sob forma abreviada, número de identificação e nome.\n\n2 - Exceptuam-se do mencionado no n.º 1 os militares alunos cujas designações constam nos regulamentos escolares dos cursos que frequentam.\n\n3 - Ao militar em RC é conferido um cartão de identificação militar, de uso obrigatório, para comprovação da sua identidade para efeitos militares.",
+    "alterador": 3
+   },
+   {
+    "chave": "392.º",
+    "epigrafe": "Funções",
+    "texto": "1 - Os militares em RC exercem funções de acordo com o seu posto, classe, arma ou serviço, especialidade e qualificações.\n\n2 - Compete ao CEM do ramo fixar, por despacho, as funções específicas dos militares em RC.\n\n3 - De acordo com o disposto nos números anteriores, os militares em RC são distribuídos ou agrupados por classes ou especialidades por despacho do CEM do ramo respectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "393.º",
+    "epigrafe": "Postos",
+    "texto": "1 - Sem prejuízo de promoção por distinção, o militar só pode ingressar ou ascender no RC nas seguintes categorias e postos:\n\na) Oficiais:\n\nSegundo-tenente ou tenente;\n\nSubtenente ou alferes;\n\nb) Sargentos:\n\nPrimeiro-sargento;\n\nSegundo-sargento;\n\nSubsargento ou furriel;\n\nc) Praças:\n\nPrimeiro-marinheiro ou cabo-adjunto (CADJ);\n\nSegundo-marinheiro ou primeiro-cabo;\n\nPrimeiro-grumete ou segundo-cabo;\n\nSegundo-grumete ou soldado.\n\n2 - Os postos ou designações dos militares em RC, durante a frequência de cursos de formação, são os fixados nos regulamentos escolares dos cursos que frequentem.\n\n3 - Os militares que ingressem no RC e que frequentem cursos de formação para o RC, cuja duração, de acordo com a respectiva organização escolar, exceda o limite máximo em RV, são considerados militares alunos, ficando, com as adaptações decorrentes da sua condição de alunos, sujeitos ao regime geral de deveres e direitos dos militares desta forma de prestação de serviço.\n\n4 - O militar ao abrigo do n.º 1 do artigo 387.º ingressa no RC com o posto que detinha em RV.",
+    "alterador": 3
+   },
+   {
+    "chave": "394.º",
+    "epigrafe": "Inscrição no primeiro posto",
+    "texto": "A inscrição no primeiro posto de cada uma das categorias é feita por ordem decrescente de classificação nos respectivos cursos de formação.",
+    "alterador": 3
+   },
+   {
+    "chave": "395.º",
+    "epigrafe": "Condições de promoção",
+    "texto": "1 - As condições gerais de promoção dos militares em RC são as constantes do artigo 60.º do presente Estatuto.\n\n2 - À apreciação das condições gerais de promoção a que se refere o número anterior são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da mesma categoria do respectivo ramo.\n\n3 - Quando se verifique a existência de classes ou especialidades em RC sem correspondência nos QP, compete ao CEM do ramo definir a entidade responsável pela apreciação das condições gerais de promoção.",
+    "alterador": 3
+   },
+   {
+    "chave": "396.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "1 - São necessários, para efeitos de promoção aos postos indicados e no respeito pelos efectivos fixados nos termos do n.º 4 do artigo 45.º, os seguintes tempos mínimos de permanência no posto antecedente:\n\na) Segundo-tenente ou tenente - três anos no posto de subtenente ou alferes;\n\nb) Primeiro-sargento - quatro anos no posto de segundo-sargento;\n\nc) Segundo-sargento - um ano no posto de subsargento ou furriel, para os militares a que se refere a alínea b) do n.º 1 do artigo 374.º;\n\nd) Segundo-sargento - três anos no posto de subsargento ou furriel, para os restantes.\n\n2 - Na promoção a segundo-tenente ou tenente conta, para efeitos de tempo de permanência no posto, o tempo em que o militar permaneceu como graduado no posto antecedente.\n\n3 - Os militares que durante o RV e RC frequentem CFS que habilitem a certificação profissional de nível 3 e equivalência ao ensino secundário são promovidos a segundo-sargento, com a data de 1 de Outubro do ano em que terminem o CFS.\n\n4 - É condição especial de promoção aos postos de primeiro-marinheiro a habilitação com o curso de formação de marinheiros, a frequentar no início do RC.\n\n5 - É condição especial de promoção ao posto de cabo-adjunto ter prestado quatro anos de serviço efectivo no posto de primeiro-cabo.\n\n6 - É condição especial de promoção aos postos de segundo-marinheiro e primeiro-cabo ter prestado 12 meses de serviço efectivo, respectivamente, nos postos de primeiro-grumete e segundo-cabo.\n\n7 - As condições especiais de promoção, satisfeitas, no todo ou em parte, durante a prestação do SEN e RV, são consideradas para efeitos de promoção dos militares em RC.",
+    "alterador": 3
+   },
+   {
+    "chave": "397.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação dos militares, incumbe aos serviços de gestão de pessoal do respectivo ramo, através das subunidades orgânicas que os compõem.\n\n2 - Os processos de promoção são confidenciais.\n\n3 - O militar tem direito de acesso ao respectivo processo individual, no qual se inclui o processo de promoção.",
+    "alterador": 3
+   },
+   {
+    "chave": "398.º",
+    "epigrafe": "Antiguidade relativa",
+    "texto": "A antiguidade relativa entre militares em RC com o mesmo posto ou com postos correspondentes nas diferentes classes, armas ou serviços e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria, em relação ao qual se atende ao estabelecido para o militar em RV.",
+    "alterador": 3
+   },
+   {
+    "chave": "399.º",
+    "epigrafe": "Formação e orientação profissional",
+    "texto": "1 - Ao militar em RC são proporcionadas acções de formação adequadas à sua classe, arma ou serviço e especialidade, através da frequência, designadamente, de cursos e estágios e à sua valorizaão profissional, tendo em vista os interesses específicos da instituição militar e a sua posterior inserção no mercado de trabalho.\n\n2 - A preparação complementar e formação técnica específica dos militares destinados ao RC, para as categorias indicadas, pode incluir a habilitação com os cursos seguintes, a frequentar durante ou após o SEN ou RV:\n\na) Oficiais - curso de formação de oficiais para o regime de contrato (CFO/RC);\n\nb) Sargentos - curso de formação de sargentos para o regime de contrato (CFS/RC);\n\nc) Praças - curso de formação de praças para o regime de contrato (CFP/RC), sendo, na Marinha, designado por curso de formação de marinheiros (CFM).\n\n3 - Ao militar em RC são ainda proporcionadas acções de informação e orientação profissional e apoio à obtenção de habilitações académicas, nos termos fixados em legislação especial.",
+    "alterador": 3
+   },
+   {
+    "chave": "400.º",
+    "epigrafe": "Avaliação",
+    "texto": "O militar em RC deve ser objecto de avaliação para efeitos, nomeadamente, de:\n\na) Prorrogação do RC;\n\nb) Promoção;\n\nc) Eventual acesso aos QP.",
+    "alterador": 3
+   },
+   {
+    "chave": "401.º",
+    "epigrafe": "Remuneração",
+    "texto": "O militar em RC tem direito, nos termos definidos em legislação própria, à remuneração adequada à especificidade do serviço que presta, ao posto e ao tempo de permanência neste.",
+    "alterador": 3
+   },
+   {
+    "chave": "402.º",
+    "epigrafe": "Assistência à família",
+    "texto": "Aos membros do agregado familiar do militar em RC é, enquanto subsistir o vínculo contratual, garantido o direito à assistência médica, medicamentosa e hospitalar e apoio social, nos termos estabelecidos em legislação própria.",
+    "alterador": 3
+   },
+   {
+    "chave": "403.º",
+    "epigrafe": "Licença registada",
+    "texto": "1 - Ao militar em RC pode ser concedida licença registada, quando o requeira, por tempo não superior a três meses, seguidos ou interpolados, por cada período de três anos, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período.\n\n2 - A licença registada não pode ser imposta ao militar em RC.",
+    "alterador": 3
+   },
+   {
+    "chave": "404.º",
+    "epigrafe": "Prorrogação",
+    "texto": "1 - A prorrogação da prestação de serviço em RC é anual e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.\n\n2 - Em caso de acidente em serviço ou doença relacionada com o mesmo, ao militar em RC é facultada a prorrogação automática da prestação de serviço até à decisão definitiva da competente junta médica.",
+    "alterador": 3
+   },
+   {
+    "chave": "405.º",
+    "epigrafe": "Cessação",
+    "texto": "1 - A prestação do serviço militar em RC pode cessar nas seguintes condições:\n\na) A seu requerimento, desde que não haja inconveniente para o serviço;\n\nb) Por desistência ou não aproveitamento em curso por razões que lhe sejam imputáveis;\n\nc) Por falta de aptidão física ou psíquica, comprovada por competente junta médica, desde que não resultante de acidente em serviço ou doença adquirida por motivo do mesmo;\n\nd) Por comprovada falta de aptidão técnico-profissional para o desempenho das suas funções;\n\ne) Por aplicação das sanções previstas no CJM e no RDM ou carência de idoneidade para se manter na efectividade de serviço, após conclusão do respectivo processo.\n\n2 - O apuramento dos factos que levam à aplicação das alíneas a) e e) do n.º 1 será feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final, que compete ao CEM do ramo respectivo ou em quem este delegar.",
+    "alterador": 3
+   },
+   {
+    "chave": "406.º",
+    "epigrafe": "Caducidade",
+    "texto": "A prestação de serviço em RC caduca:\n\na) No termo do prazo estabelecido no contrato;\n\nb) Quando atinja a duração máxima fixada na Lei do Serviço Militar;\n\nc) Com o ingresso nos QP.",
+    "alterador": 3
+   },
+   {
+    "chave": "407.º",
+    "epigrafe": "Admissão nos quadros permanentes",
+    "texto": "Ao militar em RC que revele vocação e aptidões adequadas à carreira militar é ainda facultada a possibilidade de ingressar nos QP nas condições legalmente fixadas.",
+    "alterador": 3
+   },
+   {
+    "chave": "408.º",
+    "epigrafe": "Casos especiais",
+    "texto": "1 - O militar em RC que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data em que estiver clinicamente curado.\n\n2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em RC que à data da passagem à disponibilidade se encontre com baixa hospitalar por doença ou acidente sem relação com o serviço e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.\n\n3 - O militar na situação prevista no número anterior continua em serviço em regime de contrato, no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.",
+    "alterador": 3
+   },
+   {
+    "chave": "409.º",
+    "epigrafe": "Cessação",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "410.º",
+    "epigrafe": "Caducidade",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "411.º",
+    "epigrafe": "Prazos e procedimentos",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "412.º",
+    "epigrafe": "Modalidades de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "413.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "414.º",
+    "epigrafe": "Graduações",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "415.º",
+    "epigrafe": "Cursos e estágios",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "416.º",
+    "epigrafe": "Avaliação",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "417.º",
+    "epigrafe": "Licença registada",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "418.º",
+    "epigrafe": "Caso especial",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "419.º",
+    "epigrafe": "Classes",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "420.º",
+    "epigrafe": "Funções",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "421.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "422.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "423.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "424.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "425.º",
+    "epigrafe": "Designação dos militares em RC",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "426.º",
+    "epigrafe": "Armas e serviços",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "427.º",
+    "epigrafe": "Funções",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "428.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "429.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "430.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "431.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "432.º",
+    "epigrafe": "Designação dos militares em RC",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "433.º",
+    "epigrafe": "Especialidades dos militares em RC",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "434.º",
+    "epigrafe": "Funções",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "435.º",
+    "epigrafe": "Apreciação das condições gerais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "436.º",
+    "epigrafe": "Condições especiais de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "437.º",
+    "epigrafe": "Organização dos processos de promoção",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "438.º",
+    "epigrafe": "Formação militar",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "439.º",
+    "epigrafe": "Designação dos militares em RC",
+    "texto": "(Revogado.)",
+    "alterador": 3
+   },
+   {
+    "chave": "440.º",
+    "epigrafe": "Suspensão do artigo 166.º",
+    "texto": "A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "## TÍTULO IX — Reclamações e recursos",
+    "novo": "## TÍTULO IX — Reclamações e recursos em matéria administrativa",
+    "alterador": 2
+   },
+   {
+    "atual": "## LIVRO III — Do serviço militar obrigatório",
+    "novo": "## LIVRO III — Do serviço efectivo normal",
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO I",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## Parte comum",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO II — Da Marinha",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO III — Do Exército",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO IV — Da Força Aérea",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## LIVRO IV — Do regime de contrato",
+    "novo": "## LIVRO IV — Dos regimes de voluntariado e de contrato",
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO I",
+    "novo": "## TÍTULO I — Do regime de voluntariado",
+    "alterador": 3
+   },
+   {
+    "atual": "## Parte comum",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO II — Da Marinha",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO III — Do Exército",
+    "novo": null,
+    "alterador": 3
+   },
+   {
+    "atual": "## TÍTULO IV — Da Força Aérea",
+    "novo": null,
+    "alterador": 3
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificações ao preâmbulo e aos artigos 14.º, 16.º, 17.º, 18.º, 23.º, 31.º, 32.º e 44.º a 48.º do decreto-lei (antes de «No texto do Estatuto»): alvo incerto: o texto atual só traz o Estatuto; o preâmbulo e os artigos do decreto que o aprova não estão nele.\nAlterador 3, livros III e IV substituídos: alvo incerto: o título novo «TÍTULO II — Do regime de contrato» do livro IV (antes do artigo 388.º) não existe no texto atual e não se pode pôr; os títulos dos livros III e IV ficam na posição que tinham no texto atual (o livro III passa a começar no artigo 349.º e o livro IV no artigo 365.º), e o mesmo se passa com os títulos a seguir ao artigo 110.º depois da renumeração da Lei n.º 27/91.\nAlterador 3, artigo 4.º (disposições transitórias): outro diploma: normas próprias do DL 157/92 que só remetem para o Estatuto.\nAlterador 4, artigo 1.º, n.ºs 2 a 4, e artigos 2.º a 10.º: outro diploma: normas próprias da Lei n.º 15/92 que só remetem para o EMFAR.\nAlterador 5, artigo 13.º, alínea a), revogação dos artigos 275.º, 277.º, 282.º, 283.º, 284.º, 287.º, 289.º, 291.º, 326.º, 327.º, 328.º e 331.º na parte em que se referem a pára-quedistas: revogação condicional (e os artigos ficam revogados pelo DL 236/99).\nAlterador 5, artigos 1.º a 12.º e 14.º: outro diploma: extinção do CTP e transição do pessoal, normas próprias do DL 27/94.\nAlterador 6, artigo 3.º, n.º 2, alínea p), manutenção em vigor do artigo 23.º: não textual.\nAlterador 8, artigos 9.º, 11.º e 18.º: outro diploma: normas do DL 236/99 que só remetem para o Estatuto de 1990.\nAlterador 9, artigos 1.º a 4.º: outro diploma: alteram o DL 236/99 e o Estatuto por ele aprovado.\nAlterador 9, artigo 5.º, repristinação do regime dos artigos 12.º a 15.º do DL 34-A/90 e de normas da Lei n.º 15/92: não textual: repristinação de um regime até se esgotarem os efeitos; os artigos 12.º a 15.º são do decreto, que não está no texto atual.\nAlterador 10, artigo 5.º, n.º 1, revogação dos artigos 3.º, 5.º, 5.º-A, 6.º, 7.º, 31.º, 45.º e 106.º e do livro III: efeito adiado: mantêm-se em vigor enquanto persistir a situação do n.º 1 do artigo 59.º da Lei n.º 174/99.\nAlterador 10, artigo 5.º, n.º 2, revogação do livro IV: efeito adiado: a revogação ressalva a manutenção em vigor do livro IV para os militares que fizeram a declaração do n.º 1 do artigo 4.º do DL 289/2000, pelo que o texto continua aplicável.\nAlterador 10, artigo 5.º, n.º 3, revogação do artigo 94.º-A: outro diploma: é do Estatuto aprovado pelo DL 236/99.\nAlterador 11, DL 261/2009 (efectivos, suspensão do n.º 3 do artigo 174.º e mapa anexo): outro diploma: refere-se ao Estatuto aprovado pelo DL 236/99 e o mapa é do próprio DL 261/2009.\nAlterador 12, Declaração de rectificação n.º 2564/2010: outro diploma: rectifica uma declaração sobre a situação de um militar.",
+  "instrucoes": [
+   "Alterador 1 (Declaração de 6/4/1990): retificações ao texto do Estatuto, pela numeração original; os artigos rectificados ficam depois revogados pelo DL 236/99, salvo o 7.º, que o DL 157/92 substitui por inteiro.",
+   "Alterador 2 (Lei n.º 27/91), art. 1.º: novas redações dos artigos 3.º, 4.º, 7.º ... 438.º (numeração antiga); 3.º e 7.º depois substituídos pelo DL 157/92; 45.º, n.º 4, depois substituído pelo DL 157/92; os restantes ficam revogados pelo DL 236/99 (incluindo o 117.º antigo, hoje 116.º, objecto do reparo: a redação da Lei 27/91 fica sem efeito porque o artigo foi revogado).",
+   "Alterador 2, arts. 2.º a 4.º (artigos 246.º, 276.º e 284.º antigos): os artigos ficam revogados pelo DL 236/99 (o mesmo resolve os reparos sobre 277.º, 283.º e 288.º).",
+   "Alterador 2, art. 5.º: eliminado o artigo 110.º e renumerados os 111.º e seguintes para 110.º e seguintes: cada chave 110.º a 439.º recebe o artigo seguinte (com a epígrafe dele).",
+   "Alterador 2, art. 6.º: aditado o artigo 440.º «Suspensão do artigo 166.º» (fica, porque o DL 157/92 e o DL 236/99 o excluem da revogação).",
+   "Alterador 2, art. 7.º: título IX do livro I passa a «Reclamações e recursos em matéria administrativa» (titulos).",
+   "Alterador 3 (DL 157/92), art. 1.º: novas redações dos artigos 3.º, 5.º, 7.º, 31.º (n.º 1), 45.º (n.º 4), 106.º (n.º 2) e, já pela nova numeração, 145.º, 204.º, 296.º, 304.º e 338.º (estes cinco depois revogados pelo DL 236/99); livros III (artigos 349.º a 364.º) e IV (365.º a 408.º) substituídos por inteiro, com as epígrafes novas; títulos dos livros III e IV mudados e os títulos internos antigos eliminados; o «TÍTULO I» do livro IV passa a «TÍTULO I — Do regime de voluntariado».",
+   "Alterador 3, art. 2.º: aditado o artigo 5.º-A «Militar em RV».",
+   "Alterador 3, art. 3.º: revogados os artigos 409.º e seguintes, salvo o 440.º: 409.º a 439.º ficam «(Revogado.)».",
+   "Alterador 4 (Lei n.º 15/92), art. 1.º, n.º 1: nova alínea c) do artigo 175.º: o artigo fica revogado pelo DL 236/99.",
+   "Alterador 7 (DL 175/97): novas redações dos artigos 101.º e 105.º: ficam revogados pelo DL 236/99.",
+   "Alterador 8 (DL 236/99), art. 30.º: revoga expressamente o DL 34-A/90, salvo os artigos 3.º, 5.º, 5.º-A, 6.º, 7.º, 31.º, 45.º e 106.º do livro I e os livros III e IV: todos os outros artigos do Estatuto (1.º a 348.º, salvo os excepcionados) ficam «(Revogado.)». A lista de excepções, e a revogação posterior dessas mesmas excepções pelo DL 197-A/2003, mostram que não é uma revogação condicional.",
+   "Alterador 10 (DL 197-A/2003), art. 5.º: revogações com efeito adiado ou ressalvado: não aplicadas (nao_aplicavel).",
+   "Artigo 6.º fica como está no texto atual."
+  ]
+ }
+]

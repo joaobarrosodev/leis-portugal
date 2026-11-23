@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:559038:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ed70a97204c78bf5",
+    "2e4dff48a5192b5d",
+    "adfa887987f36ff5",
+    "fdb4c163516ab34b",
+    "af7038a2c27bde58",
+    "43ed0bae88e428d0",
+    "184e1c4750e79690",
+    "092f2c07b7bdf710",
+    "8a541464dc683327",
+    "688f8822049f9b4b",
+    "7d8c573d8b4b1492",
+    "4ececa8b82870183"
+   ]
+  },
+  {
+   "date": "2000-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310796:por",
+     "title": "Decreto-Lei n.º 202/99",
+     "published": "1999-06-09",
+     "dre_path": "/dr/detalhe/decreto-lei/202-1999-310796"
+    },
+    {
+     "id": "pt:dre:569887:por",
+     "title": "Decreto-Lei n.º 366/99",
+     "published": "1999-09-18",
+     "dre_path": "/dr/detalhe/decreto-lei/366-1999-569887"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "ed70a97204c78bf5",
+    "2e4dff48a5192b5d",
+    "adfa887987f36ff5",
+    "fdb4c163516ab34b",
+    "88bafa93fb6d7431",
+    "43ed0bae88e428d0",
+    "184e1c4750e79690",
+    "092f2c07b7bdf710",
+    "8a541464dc683327",
+    "f4769adfd95dd6ed",
+    "7d8c573d8b4b1492",
+    "4ececa8b82870183"
+   ]
+  }
+ ],
+ "fragments": {
+  "ed70a97204c78bf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Fevereiro\n\nA aplicação do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, que reestruturou parcialmente a Direcção-Geral das Contribuições e Impostos (DGCI), e do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, que aplicou aos respectivos funcionários o novo sistema retributivo, revelou a necessidade de adopção de providências destinadas a evitar que se mantenham situações geradoras de dificuldades relativamente à gestão daquele departamento.\n\nNão se trata de introduzir alterações de fundo na orgânica e no funcionamento da DGCI, que a seu tempo terão de ser encaradas de forma sistemática, em consequência da reestruturação do Ministério das Finanças e das recomendações efectuadas pela Comissão para o Desenvolvimento da Reforma Fiscal.\n\nCom o presente diploma visa-se apenas proceder a ajustamentos inadiáveis, em ordem, por um lado, a alterar preceitos dos referidos diplomas legais relativamente aos quais se suscitam dúvidas de interpretação ou existem dificuldades de aplicação e, por outro, a aperfeiçoar aspectos da gestão daquele organismo, em especial no domínio dos recursos humanos.\n\nAproveita-se ainda a oportunidade legislativa para adoptar recomendações da Provedoria de Justiça relativamente a situações anómalas ou de injustiça, cuja resolução ou reparação não podem ser efectuadas por via administrativa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "2e4dff48a5192b5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alterações ao [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações ao [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro\n\nOs artigos 32.º, 33.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 44.º, 46.º e 55.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, passam a ter a seguinte redacção:\n\n«Artigo 32.º\n\nDirecções distritais de finanças e direcções de finanças\n\n1 - A DGCI dispõe de uma direcção distrital de finanças em cada um dos distritos do continente, uma direcção de finanças na Região Autónoma da Madeira, situada no Funchal, e três direcções de finanças na Região Autónoma dos Açores, situadas em Angra do Heroísmo, Horta e Ponta Delgada, com as seguintes competências:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - As direcções de finanças situadas na Região Autónoma dos Açores dispõem da seguinte competência territorial:\n\na) Direcção de Finanças de Angra do Heroísmo: ilhas de Graciosa, São Jorge e Terceira;\n\nb) Direcção de Finanças da Horta: ilhas do Corvo, Faial, Flores e Pico;\n\nc) Direcção de Finanças de Ponta Delgada: ilhas de Santa Maria e São Miguel.\n\n3 - As direcções distritais de finanças são dirigidas por directores distritais de finanças e as direcções de finanças das Regiões Autónomas por directores de finanças, equiparados, para todos os efeitos legais, aos directores distritais de finanças.\n\n4 - Os dirigentes referidos no número anterior dependem hierarquicamente do director-geral, sem prejuízo da dependência funcional dos subdirectores-gerais, e podem ser coadjuvados por directores de finanças.\n\n5 - Sem prejuízo das disposições do presente diploma que lhes sejam directamente aplicáveis, os directores distritais de finanças, directores das direcções de finanças das Regiões Autónomas e directores de finanças são equiparados a directores de serviços, com excepção dos directores distritais de finanças de Lisboa e do Porto, que, para efeitos remuneratórios, são equiparados a subdirectores-gerais.\n\nArtigo 33.º\n\nEstrutura das direcções distritais de finanças e direcções de finanças\n\n1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real, bem como as direcções de finanças das Regiões Autónomas, dispõem das seguintes unidades orgânicas:\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\nArtigo 36.º\n\nServiços locais\n\n1 - ...\n\na) ...\n\nb) Exercer as actividades de inspecção e de justiça tributárias, no âmbito da respectiva área fiscal;\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Nas repartições de finanças de nível I e II, o chefe de repartição de finanças pode ser coadjuvado, respectivamente, por um a quatro ou por um a três adjuntos.\n\n7 - ...\n\nArtigo 37.º\n\nEstrutura das repartições de finanças\n\n1 - As repartições de finanças de nível I e II dispõem, em regra, de uma secção de tributação e de uma secção de justiça tributária e, sempre que se justifique, de uma secção de fiscalização tributária, chefiada por um perito de fiscalização tributária de 2.ª classe.\n\n2 - ...\n\nArtigo 38.º\n\nQuadros de pessoal\n\n1 - O quadro geral do pessoal da DGCI é fixado por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.\n\n2 - Os lugares do quadro geral são distribuídos pelos seguintes quadros de pessoal, por despacho do director-geral:\n\na) Dos serviços centrais;\n\nb) Do Tribunal Tributário de 2.ª Instância;\n\nc) De cada um dos tribunais tributários de 1.ª instância;\n\nd) De cada uma das direcções distritais de finanças e direcções de finanças, incluindo os respectivos serviços locais.\n\n3 - Os lugares dos quadros referidos na alínea d) do número anterior são distribuídos, por despacho do director-geral, mediante proposta dos directores distritais de finanças e dos directores das direcções de finanças das Regiões Autónomas, por quadros internos de cada uma das direcções distritais de finanças e direcções de finanças, bem como de cada um dos respectivos serviços locais, ouvidos, quanto a estes, os chefes de repartição de finanças.\n\n4 - Os quadros referidos nas alíneas a) a c) do n.º 2 do presente artigo e os mencionados no número anterior consideram-se quadros de contingentação.\n\n5 - As propostas de alteração dos quadros mencionados no n.º 3 deste artigo serão feitas, anualmente, até 31 de Janeiro.\n\nArtigo 39.º\n\nSubdirectores-gerais e directores de serviços\n\n1 - Os cargos de subdirector-geral são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária e ainda nos termos da lei geral.\n\n2 - Os cargos de director de serviços são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária ou nos termos da lei geral, bem como de entre funcionários do grupo do pessoal técnico de administração fiscal, licenciados, que possuam categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe.\n\nArtigo 40.º\n\nDirectores distritais de finanças e directores de finanças\n\nOs cargos de director distrital de finanças e de director de finanças são providos, por escolha do Ministro das Finanças, de entre funcionários da DGCI habilitados com o curso de Administração Tributária.\n\nArtigo 41.º\n\nChefes de divisão\n\nOs cargos de chefe de divisão são providos de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe e ainda nos termos da lei geral.\n\nArtigo 42.º\n\nPessoal de chefia tributária\n\n1 - ...\n\n2 - A nomeação do pessoal de chefia tributária é feita em comissão de serviço, nos termos previstos no presente diploma, podendo os lugares de origem dos funcionários nomeados ser providos, mas sem prejuízo de aqueles manterem o direito a colocação em lugar da categoria que possuírem quando cessarem a comissão.\n\n3 - A comissão de serviço tem a duração de três anos, considerando-se automaticamente prorrogada por igual período caso não seja comunicada ao interessado a sua cessação até um mês antes do seu termo, com fundamento num dos motivos referidos no n.º 2 do artigo 44.º do presente diploma.\n\n4 - O provimento do pessoal de chefia tributária é feito pelo director-geral, nos seguintes termos:\n\na) Chefes de repartição de finanças de nível I, de entre peritos tributários de 1.ª classe e peritos de fiscalização tributária de 1.ª classe com classificação de serviço não inferior a Bom no último triénio ou, não havendo candidatos nas condições indicadas, de entre funcionários aprovados em concurso para as referidas categorias, pela ordem em que se situam nas correspondentes listas classificativas e durante o prazo de validade dos respectivos concursos;\n\nb) Chefes de repartição de finanças de nível II e III e adjuntos de chefe de repartição de finanças de nível I e II, de entre peritos tributários de 2.ª classe e peritos de fiscalização tributária de 2.ª classe com classificação de serviço não inferior a Bom no último triénio ou, não havendo candidatos nas condições indicadas, de entre funcionários aprovados em concurso para as referidas categorias, pela ordem em que se situam nas correspondentes listas classificativas e durante o prazo de validade dos respectivos concursos.\n\n5 - Quando a nomeação para os cargos a que se refere o presente artigo se efectuar de entre funcionários nas condições indicadas na primeira parte das alíneas a) e b) do número anterior, os interessados serão ordenados mediante ponderação da antiguidade na categoria (Ant), expressa em anos completos de serviço, da avaliação do desempenho (Ad), expressa pela média da classificação de serviço no último triénio, e pela experiência de funções de chefe de repartição de finanças (Fc) ou de chefe ou adjunto de chefe de repartição de finanças (Fc), respectivamente, para os cargos de chefe de repartição de finanças de nível I e para os restantes cargos de chefia tributária, nos últimos 10 anos, expressa nos termos previstos para a antiguidade, de acordo com a seguinte fórmula:\n\n(Ant + Ad + 2(Fc))/4\n\n6 - No caso de igualdade de condições decorrente da aplicação da fórmula prevista no número anterior, ter-se-ão em conta, sucessivamente, os seguintes critérios:\n\na) Maior antiguidade na categoria;\n\nb) Maior antiguidade na carreira;\n\nc) Maior antiguidade na DGCI;\n\nd) Maior antiguidade na função pública.\n\n7 - A ordenação dos candidatos nos termos dos n.os 4 e 5 do presente artigo não impede a audiência dos directores distritais de finanças relativamente à existência de circunstâncias que ponham em causa a capacidade dos interessados para o adequado desempenho das funções.\n\n8 - O processo de nomeação a que se refere o presente artigo não se aplica aos funcionários que já estejam providos em cargos de chefia tributária, os quais poderão solicitar transferência para lugares de cargos idênticos aos que possuem ou que correspondam à seguinte equiparação:\n\na) Chefe de repartição de nível II/adjunto de chefe de repartição de nível I;\n\nb) Chefe de repartição de nível III/adjunto de chefe de repartição de nível II.\n\n9 - Os funcionários referidos na segunda parte das alíneas a) e b) do n.º 4 que sejam nomeados para os cargos nas mesmas indicados adquirem, para todos os efeitos, no quadro geral do pessoal da DGCI, as categorias para que possam ser nomeados na sequência do concurso.\n\n10 - Não podem ser nomeados para cargos de chefia tributária os funcionários aos quais nos cinco anos anteriores ao da data da nomeação tenha sido aplicada pena disciplinar superior a repreensão escrita.\n\n11 - Não é permitido o exercício de cargos de chefe de repartição de finanças de nível I e II sem que anteriormente os funcionários tenham desempenhado, pelo menos durante um ano, funções de chefe ou de adjunto de chefe de repartição de finanças.\n\n12 - Os funcionários providos em cargos de chefia tributária podem iniciar as respectivas funções antes da publicação do despacho de nomeação no Diário da República desde que essa intenção conste expressamente do referido despacho.\n\n13 - O procedimento para a nomeação do pessoal de chefia tributária inicia-se mediante despacho do director-geral em que constarão as vagas existentes e o prazo para a apresentação dos pedidos.\n\n14 - O disposto no número anterior não impede que os interessados sejam nomeados para lugares que fiquem vagos em resultado dos movimentos de transferências e de promoções.\n\n15 - Os chefes de repartição de finanças de nível II e os adjuntos de chefe de repartição de finanças de nível I que sejam promovidos à categoria imediata da respectiva carreira podem continuar providos no mesmo lugar até à cessação da comissão de serviço por algum dos motivos enunciados no artigo 44.º\n\nArtigo 44.º\n\nCessação da comissão de serviço do pessoal de chefia tributária\n\n1 - ...\n\na) ...\n\nb) Pelo acesso a categoria diferente das que constituam a base de recrutamento para o cargo respectivo, sem prejuízo do disposto no n.º 15 do artigo 42.º do presente diploma;\n\nc) ...\n\n2 - A comissão de serviço pode, a todo o tempo, ser dada por finda, por despacho fundamentado do director-geral, com base nos seguintes motivos:\n\na) Não comprovação superveniente de capacidades adequadas a garantir a execução das orientações superiormente definidas quanto ao funcionamento dos serviços e à aplicação das leis tributárias e instruções administrativas;\n\nb) Não realização, injustificada e reiteradamente, dos objectivos fixados nos planos de actividades;\n\nc) Na sequência de procedimento disciplinar de que resulte pena superior a repreensão escrita.\n\n3 - A comissão de serviço pode ainda ser dada por finda a requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias a contar da data da respectiva cessação, o qual será considerado deferido se, no prazo de 30 dias a contar da data de entrada do requerimento, o funcionário não for notificado do despacho de indeferimento.\n\n4 - Os funcionários a quem seja dada por finda a comissão de serviço regressam à carreira de origem, na categoria e escalão que lhes corresponder, e passarão a prestar actividade na direcção distrital de finanças ou direcção de finanças de que dependiam enquanto no desempenho de funções de chefia tributária, a menos que expressem outra pretensão que o director-geral entenda dever atender, até serem colocados num dos lugares dos quadros de contingentação, no âmbito do primeiro movimento de transferências que se seguir ao termo da comissão.\n\n5 - Em caso de cessação da comissão de serviço pelos motivos indicados nas alíneas a) e b) do n.º 2 do presente artigo, o funcionário não poderá candidatar-se a cargos de chefia tributária antes de decorridos três anos após a cessação.\n\nArtigo 46.º\n\nTransferência\n\n1 - Os funcionários da DGCI, com excepção dos pertencentes ao grupo do pessoal dirigente, podem ser transferidos, a seu pedido ou por conveniência de serviço, para serviço a que corresponda quadro de contingentação diferente daquele em que se encontram colocados, desde que nele exista lugar vago na respectiva categoria.\n\n2 - As regras e critérios a que obedecerá a transferência a pedido dos funcionários serão definidas em regulamento a aprovar por despacho do Ministro das Finanças.\n\n3 - ...\n\nArtigo 55.º\n\nAlterações de legislação\n\n1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:\n\n'Artigo 52.º\n\nNomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - ...'\n\n2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:\n\n'Artigo 2.º\n\nFuncionários das câmaras municipais\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...'»"
+  },
+  "adfa887987f36ff5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alterações ao [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações ao [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho\n\nOs artigos 4.º, 9.º e 10.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\nMobilidade\n\n1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - ...\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.\n\nArtigo 9.º\n\nProgressão\n\n1 - ...\n\n2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.\n\nArtigo 10.º\n\nFunções de coordenação\n\n1 - Para o desempenho de acções específicas de inspecção tributária ou de justiça tributária ou para a realização de trabalhos excepcionais de natureza temporária, poderão ser constituídas na DGCI, por despacho do director-geral, equipas de trabalho.\n\n2 - No despacho referido no número anterior serão fixados os objectivos das equipas, bem como a sua composição e duração.\n\n3 - Os funcionários designados para a chefia de equipas ou que coordenem unidades orgânicas previstas na legislação orgânica da DGCI, mas que, neste caso, não beneficiem de regime remuneratório próprio, terão direito a um acréscimo salarial correspondente a 30 pontos indiciários, a adicionar ao índice do escalão que detêm na respectiva categoria.»"
+  },
+  "fdb4c163516ab34b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Admissão de liquidadores tributários estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Admissão de liquidadores tributários estagiários\n\n1 - A admissão de liquidadores tributários estagiários é feita mediante concurso, ao qual podem ser opositores indivíduos que possuam, pelo menos, a habilitação do 12.º ano de escolaridade ou equivalente.\n\n2 - Serão admitidos ao estágio tantos candidatos quantas as vagas que se prevejam durante a validade do concurso.\n\n3 - O período de estágio tem a duração de um ano, sem prejuízo do seu prolongamento até à publicação da lista dos candidatos aprovados.\n\n4 - Após o período referido no número anterior, os estagiários que obtiverem aproveitamento poderão permanecer na mesma situação até serem providos em lugares do quadro da categoria de liquidador tributário.\n\n5 - O período de estágio conta para efeito de antiguidade na categoria de liquidador tributário.\n\n6 - O regulamento do estágio será aprovado por despacho do Ministro das Finanças."
+  },
+  "af7038a2c27bde58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho de Administração Fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho de Administração Fiscal\n\n1 - É criado na DGCI o Conselho de Administração Fiscal (CAF), constituído pelo director-geral, que preside, pelos subdirectores-gerais e pelo director do Centro de Estudos Fiscais (CEF).\n\n2 - Ao CAF incumbe pronunciar-se sobre todos os assuntos respeitantes à administração fiscal e à gestão dos respectivos serviços que lhes forem submetidos pelo Ministro das Finanças ou pelo director-geral, sendo obrigatória a sua audição nas seguintes matérias:\n\na) Definição de políticas gerais de gestão dos recursos, em especial dos recursos humanos;\n\nb) Nomeação do pessoal dirigente, com excepção do director-geral, dos subdirectores-gerais e do director do CEF, nos casos em que o provimento dos lugares não dependa de concurso específico;\n\nc) Termo das comissões de serviço do pessoal dirigente, com excepção das do director-geral, dos subdirectores-gerais e do director do CEF, quando a iniciativa seja da Administração;\n\nd) Termo das comissões de serviço do pessoal de chefia tributária, nas circunstâncias referidas na alínea anterior;\n\ne) Apreciação das circunstâncias impeditivas da nomeação para cargos de chefia tributária referidas no n.º 7 do artigo 42.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, com a redacção dada pelo presente diploma;\n\nf) Aprovação ou alteração dos quadros de pessoal e dos regulamentos respeitantes à gestão dos recursos humanos;\n\ng) Criação ou alteração de serviços;\n\nh) Criação ou alteração de carreiras específicas da administração fiscal e alteração do regime do pessoal, neste caso quando o mesmo não decorra da lei geral;\n\ni) Emissão de instruções gerais visando a uniformização da aplicação das leis e procedimentos tributários;\n\nj) Proposta de orçamento da DGCI;\n\nl) Aprovação do relatório de actividades da DGCI.\n\n3 - O regulamento do CAF será aprovado por despacho do Ministro das Finanças."
+  },
+  "43ed0bae88e428d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Promoção de funcionários habilitados com curso superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Promoção de funcionários habilitados com curso superior\n\n1 - Os funcionários da DGCI pertencentes ao grupo do pessoal técnico de administração fiscal poderão ser nomeados para as categorias de perito tributário de 2.ª classe ou de perito de fiscalização tributária de 2.ª classe, desde que reúnam os seguintes requisitos:\n\na) Possuam curso superior adequado nas áreas do Direito, Economia, Organização e Gestão de Empresas, Administração Pública, Contabilidade ou Fiscalidade;\n\nb) Tenham, pelo menos, cinco anos de serviço efectivo nas carreiras do referido grupo de pessoal classificados, no mínimo, de Bom no último triénio.\n\n2 - A nomeação depende de requerimento dos interessados dirigido ao director-geral e será feita, por este dirigente, na situação de supranumerário para serviço a indicar pelo mesmo.\n\n3 - A nomeação como supranumerário mantém-se até que ocorra qualquer dos seguintes factos:\n\na) O provimento em lugar dos quadros, na sequência de aprovação no concurso a que se refere o artigo seguinte;\n\nb) Não aprovação no concurso;\n\nc) Falta de comparência às provas;\n\nd) Não aceitação do provimento em lugar do quadro;\n\ne) Desistência da situação de supranumerário.\n\n4 - Os funcionários cuja situação de supranumerário cesse por algum dos motivos mencionados no número anterior regressam à categoria e lugar de origem a partir do dia imediato ao da publicação da cessação da qualidade de supranumerário no Diário da República, não podendo beneficiar novamente da possibilidade prevista no presente artigo.\n\n5 - O elenco dos cursos indicados no n.º 1 do presente artigo é definido por despacho do director-geral."
+  },
+  "184e1c4750e79690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Provimento dos supranumerários em lugares do quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Provimento dos supranumerários em lugares do quadro\n\n1 - Para efeito de provimento em lugares do quadro, os funcionários na situação de supranumerário serão candidatos obrigatórios ao primeiro concurso que for aberto para as respectivas categorias.\n\n2 - O tempo de serviço prestado como supranumerário releva, para todos os efeitos, na categoria correspondente ao lugar em que os funcionários forem providos.\n\n3 - Os funcionários providos em lugares de perito tributário de 2.ª classe ou de perito de fiscalização tributária de 2.ª classe, nos termos do presente artigo, podem ser opositores a concurso para a categoria imediata, independentemente do requisito de tempo de serviço."
+  },
+  "092f2c07b7bdf710": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Nomeação extraordinária de liquidadores tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Nomeação extraordinária de liquidadores tributários\n\n1 - Os funcionários aprovados no concurso interno geral para a categoria de liquidador tributário, aberto por aviso publicado em suplemento ao Diário da República, 2.ª série, n.º 86, de 12 de Abril de 1990, e rectificado no 3.º suplemento ao mesmo Diário da República, podem ser providos em lugares vagos da referida categoria, por despacho do director-geral, independentemente da realização do estágio, considerando-se prorrogado o prazo de validade do referido concurso até 90 dias após a entrada em vigor do presente diploma.\n\n2 - Os funcionários que forem nomeados para a categoria de liquidador tributário, nos termos do número anterior, serão posicionados, na nova escala salarial, em escalão cujo índice seja idêntico ao da categoria de origem ou, se não houver coincidência, no imediatamente superior.\n\n3 - O despacho a que se refere o n.º 1 produzirá efeitos, quanto à antiguidade na categoria e na carreira, desde 15 de Fevereiro de 1994."
+  },
+  "8a541464dc683327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Progressão nas carreiras em quadros das repartições de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Progressão nas carreiras em quadros das repartições de finanças\n\n1 - Os técnicos tributários e técnicos verificadores tributários colocados em lugares dos quadros de contingentação das repartições de finanças podem ser promovidos à categoria de perito de 2.ª classe mantendo-se nos respectivos quadros.\n\n2 - O número de peritos tributários de 2.ª classe em cada repartição de finanças não pode exceder metade do número total de lugares das categorias de liquidador e de técnico tributário previstos nos respectivos quadros de pessoal.\n\n3 - Os lugares de origem dos funcionários promovidos nos termos do n.º 1 não podem ser preenchidos enquanto aqueles se mantiverem na repartição de finanças na nova categoria."
+  },
+  "688f8822049f9b4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Exercício dos cargos de chefia tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício dos cargos de chefia tributária\n\nem regime de substituição\n\n1 - Os cargos de chefe e de adjunto de chefe de repartição de finanças serão exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.\n\n2 - A substituição só poderá ser autorizada quando se preveja que os condicionalismos referidos no número anterior persistam por mais de 30 dias, sem prejuízo de, em todos os casos, deverem ser asseguradas as funções correspondentes aos referidos cargos.\n\n3 - A substituição cessará na data em que o titular do cargo inicie ou retome as funções ou, a qualquer momento, por decisão do director-geral ou a pedido do substituto, logo que deferido.\n\n4 - A substituição tem início antes da publicação do extracto do respectivo despacho no Diário da República se essa intenção for expressa no mesmo.\n\n5 - O período de substituição conta, para todos os efeitos, como tempo de serviço prestado no cargo, bem como no lugar de origem.\n\n6 - O substituto terá direito à remuneração correspondente à sua antiguidade na categoria ou cargo de origem, dentro do desenvolvimento indiciário do cargo do substituído, bem como aos demais abonos e regalias atribuídos pelo exercício do referido cargo, independentemente da libertação das respectivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais."
+  },
+  "7d8c573d8b4b1492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Período de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período de instalação\n\n1 - Nos casos de promoção, de nomeação para cargos dirigentes ou de chefia tributária e de transferência, o prazo para a posse é de 15 dias desde que haja mudança de residência e de dois dias nos restantes casos.\n\n2 - O disposto no número anterior inclui as nomeações precedidas de estágio.\n\n3 - Os períodos a que se refere o n.º 1 do presente artigo são considerados como períodos de instalação e contados, para todos os efeitos, como tempo de serviço na nova situação do funcionário."
+  },
+  "4ececa8b82870183": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições transitórias\n\n1 - Os técnicos tributários e técnicos verificadores tributários que sejam chefes de repartição de finanças de nível III e adjuntos de chefe de repartição de finanças de nível II à data da entrada em vigor do presente diploma mantêm-se em funções nos serviços locais em que se encontram colocados, mas não podem ser transferidos para lugar de chefia de quadro de contingentação diferente daquele a que pertencem.\n\n2 - A comissão de serviço dos funcionários a que se refere o número anterior cessará automaticamente desde que ocorra uma das seguintes situações:\n\na) Não se candidatem ao primeiro concurso para a categoria imediata que for aberto após a entrada em vigor do presente diploma;\n\nb) Não obtenham aprovação no referido concurso.\n\n3 - O disposto no artigo 8.º do presente diploma só se aplica, quanto às repartições de finanças de nível II e III, nos casos em que, respectivamente, os adjuntos de chefe de repartição e os chefes de repartição dos referidos serviços tenham, pelo menos, a categoria de perito tributário de 2.ª classe ou de perito de fiscalização tributária de 2.ª classe.\n\nVisto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 31 de Dezembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Dezembro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "88bafa93fb6d7431": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho de Administração Fiscal",
+   "in_force_from": "2000-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), publicado em 1999-09-18."
+   ],
+   "markdown": "###### Artigo 4.º — Conselho de Administração Fiscal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), publicado em 1999-09-18."
+  },
+  "f4769adfd95dd6ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Exercício dos cargos de chefia tributária em regime de substituição",
+   "in_force_from": "2000-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 202/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1999-310796), publicado em 1999-06-09."
+   ],
+   "markdown": "###### Artigo 9.º — Exercício dos cargos de chefia tributária em regime de substituição\n\n1 - Os cargos de chefe e de adjunto de chefe de repartição de finanças serão exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.\n\n2 - A substituição só poderá ser autorizada quando se preveja que os condicionalismos referidos no número anterior persistam por mais de 30 dias, sem prejuízo de, em todos os casos, deverem ser asseguradas as funções correspondentes aos referidos cargos.\n\n3 - A substituição cessará na data em que o titular do cargo inicie ou retome as funções ou, a qualquer momento, por decisão do director-geral ou a pedido do substituto, logo que deferido.\n\n4 - A substituição tem início antes da publicação do extracto do respectivo despacho no Diário da República se essa intenção for expressa no mesmo.\n\n5 - O período de substituição conta, para todos os efeitos, como tempo de serviço prestado no cargo, bem como no lugar de origem.\n\n6 - O substituto terá direito à remuneração correspondente à sua antiguidade na categoria ou cargo de origem, dentro do desenvolvimento indiciário do cargo do substituído, bem como aos demais abonos e regalias atribuídos pelo exercício do referido cargo, independentemente da libertação das respectivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais.\n\n7 - Quando da aplicação da regra referida no número anterior resultar remuneração idêntica ou inferior à que o substituto já aufere, será atribuído um acréscimo remuneratório de 10 pontos a esta remuneração.\n\n> Alterado pelo/a [Decreto-Lei n.º 202/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1999-310796), publicado em 1999-06-09."
+  }
+ }
+}

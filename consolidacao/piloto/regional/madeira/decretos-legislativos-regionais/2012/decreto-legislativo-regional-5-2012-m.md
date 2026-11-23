@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:400995:por
     title: Decreto Legislativo Regional n.º 41-A/2012/M
     publication_date: '2012-12-28'
-  - id: pt:dre:400995:por
-    title: Decreto Legislativo Regional n.º 41-A/2012/M
-    publication_date: '2012-12-28'
   - id: pt:dre:189511:por
     title: Decreto Legislativo Regional n.º 42/2012/M
     publication_date: '2012-12-31'
@@ -472,7 +469,7 @@ Fica o Governo Regional autorizado a fazer cessar o regime de autonomia financei
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 41-A/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-a-2012-400995) e [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), publicado em 2012-12-31.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), publicado em 2012-12-31.
 
 ###### Artigo 38.º — Programas cofinanciados pelo Fundo Social Europeu
 

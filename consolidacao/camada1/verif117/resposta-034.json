@@ -1,0 +1,78 @@
+[
+ {
+  "id": "pt:dre:627272:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 169-C/75 art. 7.º revoga a alínea d) do art. 4.º; consolidado tem «d) (Revogada.)»."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 169-C/75 art. 7.º revoga a alínea b) do art. 5.º; consolidado tem «b) (Revogada.)»."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "§ único igual à redação do DL 67/80 art. 1.º (obrigatoriamente, 400$00); corpo mantido."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e alíneas do DL 233/84 art. 1.º; §§ 1.º, 3.º e 4.º do DL 240/83; § 2.º «...» mantém o § 2.º do DL 67/80 (texto igual)."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do DL 67/80 art. 1.º (n.os 1 a 3)."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 67/80 art. 2.º."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do DL 240/83 art. 1.º (corpo e §§ 1.º a 3.º), que substitui a do DL 67/80."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do DL 240/83 art. 1.º (corpo e §§ 1.º e 2.º)."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 237/70 art. 18.º: taxa do art. 1.º do original fixada em 1,5% (art. 1.º está nos IGUAIS, texto não visível na vista; não confirmo que seja justificado; alvo incerto quanto às referências a «1 por cento»)",
+   "DL 169-C/75 art. 1.º: taxa do art. 1.º do original fixada em 4% (art. 1.º está nos IGUAIS; texto não visível; alvo incerto)",
+   "DL 169-C/75 art. 2.º: quotização do art. 2.º do original fixada em 4% (3,5% para inscritos em caixas) (art. 2.º está nos IGUAIS; texto não visível; alvo incerto)",
+   "DL 190/79 art. 4.º: taxa de compensação pela mora do § único do art. 14.º elevada para 20% (art. 14.º está nos IGUAIS; texto não visível na vista)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 169-C/75 arts. 3.º e 4.º (contribuições do sector agrícola)",
+    "motivo": "regime próprio do alterador, não dá nova redação a artigo do original"
+   },
+   {
+    "instrucao": "DL 612/76 art. 1.º (modelos de guia A e B substituídos pelo modelo único anexo)",
+    "motivo": "o modelo só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 190/79 arts. 1.º e 2.º (pagamento em prestações, contratos de viabilização)",
+    "motivo": "regime excecional próprio, sem nova redação de artigo do original"
+   },
+   {
+    "instrucao": "DL 190/79 art. 3.º (multa do § único do art. 6.º reduzida a metade se paga no prazo do art. 175.º do CPCI)",
+    "motivo": "regime condicional de redução, sem nova redação do § único (visível na vista)"
+   },
+   {
+    "instrucao": "DL 67/80 arts. 3.º e 4.º; DL 240/83 arts. 2.º a 4.º",
+    "motivo": "disposições próprias (arredondamento, transitória, delegação, regiões autónomas, entrada em vigor), não textuais"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

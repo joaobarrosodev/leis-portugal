@@ -46,7 +46,8 @@ version_history:
   - date: '2001-03-30'
     amending: pt:dre:327299:por
     amending_title: Decreto-Lei n.º 326/78; Decreto-Lei n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001; Portaria
-      n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81
+      n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81; Decreto-Lei n.º 64/76; Decreto-Lei n.º 144/83; Decreto-Lei n.º
+      235-A/83
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
@@ -60,6 +61,18 @@ version_history:
     - Altera Artigo 47.º
     - Revoga Artigo 85.º
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 40
+    - Revoga anexo ou texto fora do articulado
+    - Revoga Artigo 84
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 8
+    - Revoga Artigo 10
+    - Revoga Artigo 15
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 25
+    - Revoga Artigo 63
 identifiers:
   celex: null
   eli: null
@@ -88,7 +101,9 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 326/78; Decreto-Lei
     n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-555-73.alteracoes.json.
     Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81.'
+    Portaria n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81. Revogações registadas só como repealed_by, aplicadas com
+    um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 64/76; Decreto-Lei n.º 144/83; Decreto-Lei
+    n.º 235-A/83.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -297,13 +312,15 @@ d) Ascendentes ou descendentes de portugueses.
 
 ###### Artigo 4.º — Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas
 
-O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
+> Revogado pelo/a [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), publicado em 1983-03-31.
+
 ###### Artigo 5.º — Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas
 
-O ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
@@ -371,27 +388,7 @@ m) Referência ao assento de nascimento e a quaisquer outros documentos ou fonte
 
 ###### Artigo 8.º — Conteúdo do registo individual de pessoas colectivas e entidades equiparadas
 
-1 - O registo de cada pessoa colectiva deve conter informação sobre:
-
-a) O número de identificação;
-
-b) A designação;
-
-c) A localização da sede e o endereço postal;
-
-d) A natureza jurídica;
-
-e) A actividade principal;
-
-f) A data da constituição e, quando aplicável, da publicação no Diário da República do instrumento de constituição.
-
-2 - Podem ser incluídos no registo elementos sobre alterações ao instrumento de constituição, datas de emissão e validade do cartão de identificação e outros dados que tenham carácter público e ofereçam interesse estatístico ou de planeamento económico, bem como a referência às fontes em que os diversos elementos foram colhidos.
-
-3 - As indicações referentes às datas de constituição e de publicação são substituídas, no caso dos empresários em nome individual, pela indicação do número do bilhete de identidade e da data do nascimento, e, no caso de sociedades irregulares, pela indicação do nome e número do bilhete de identidade dos sócios.
-
-4 - Em favor de cada titular de registo pode ser emitido um cartão de identificação com a indicação do número de identificação, da designação, da sede, da natureza jurídica, da actividade principal e das datas de constituição e de publicação no Diário da República.
-
-5 - O modelo de cartão de identificação, que constitui exclusivo do Gabinete do Registo Nacional, deve ser diferente para as pessoas colectivas e para as entidades equiparadas.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
@@ -411,11 +408,7 @@ c) Dígito ou dígitos de contrôle.
 
 ###### Artigo 10.º — Número nacional de pessoa colectiva ou entidade equiparada
 
-1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.
-
-2 - Podem ser usadas sequências numéricas diferentes correspondentes à área de localização geográfica da sede do titular do registo.
-
-3 - O significado dos dígitos correspondentes a pessoas colectivas e a entidades equiparadas, bem como as sequências correspondentes a áreas geográficas distintas, devem ser objecto de divulgação em portaria do Ministro da Justiça.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
@@ -447,9 +440,7 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 ###### Artigo 15.º — Exclusividade da atribuição e da designação do número nacional
 
-1. O número nacional será atribuído exclusivamente pelo Centro de Informática do Ministério da Justiça.
-
-2. Fica vedado o uso de designações que possam estabelecer qualquer confusão sobre a sua natureza sectorial, tais como número individual de identificação, de cidadão, de estabelecimento, de empresa, ou similar.
+(Revogado.)
 
 #### SECÇÃO IV — Comunicação do elementos ao Registo Nacional
 
@@ -477,23 +468,13 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 ###### Artigo 19.º — Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades
 
-1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.
-
-2 - A mesma obrigação incumbe aos empresários em nome individual, no prazo de trinta dias, a contar do início da sua actividade.
-
-3 - As sociedades comerciais já constituídas bem como os empresários em nome individual em actividade são obrigados à posse de cartão de identificação válido a partir de 1 de Janeiro de 1980.
-
-4 - Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de empresários em nome individual, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 ###### Artigo 20.º — Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo
 
-1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.
-
-2 - A mesma obrigação incumbe aos serviços públicos por onde corre o expediente relativo à aprovação dos estatutos das fundações ou a quem incumbe receber a participação escrita da constituição de pessoas colectivas religiosas.
-
-3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio, exclusivo do Gabinete do Registo Nacional.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
@@ -531,11 +512,7 @@ c) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titula
 
 ###### Artigo 25.º — Acesso a registos individuais de pessoas colectivas e de entidades equiparadas
 
-Têm acesso ao conteúdo de registos individuais de pessoas colectivas e de entidades equiparadas:
-
-a) Os respectivos corpos gerentes ou os responsáveis pela sua direcção ou gestão;
-
-b) Qualquer pessoa que prove efectuar o pedido em nome ou no interesse do titular do registo.
+(Revogado.)
 
 ###### Artigo 26.º — Informações e elementos auxiliares de estudo ou de planeamento
 
@@ -645,7 +622,9 @@ b) Os funcionários autorizados a assinar ou rubricar as informações prestadas
 
 ###### Artigo 40.º — Regime de prestação de informações
 
-A prestação de informações de identificação civil por parte dos organismos referidos no artigo precedente, seja para que efeito for, fica sujeita ao disposto nos artigos 21.º a 30.º do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), publicado em 1976-01-24, com efeitos a partir de 1976-02-23.
 
 #### SECÇÃO V — Sanções
 
@@ -807,7 +786,7 @@ e) A Repartição Administrativa.
 
 3. São serviços externos:
 
-a) Os Serviços de Identificação;
+a) (Revogada.)
 
 b) As delegações e subdelegações.
 
@@ -891,7 +870,9 @@ As promoções são feitas, por escolha, entre titulares da categoria anterior, 
 
 ###### Artigo 63.º — Pessoal de direcção e chefia ou com funções especializadas
 
-Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atribuídas gratificações mensais a pessoal com funções de direcção e chefia e ao que exerça determinadas funções especializadas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01.
 
 ###### Artigo 64.º — Provimento interino de lugares
 
@@ -1127,7 +1108,7 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 ###### Artigo 84.º — Serviços de identificação
 
-1. A Direcção dos Serviços de Identificação passa a depender do Gabinete do Registo Nacional.
+1. (Revogado.)
 
 2. O número nacional de identificação será aposto nos bilhetes de identidade em substituição do actual número sequencial a partir da data que for determinada em portaria do Ministro da Justiça.
 

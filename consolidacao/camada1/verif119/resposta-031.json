@@ -1,0 +1,116 @@
+[
+ {
+  "id": "pt:dre:424522:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º com a redacção do art. 1.º da Lei 19/78 (letra a letra); art. 2.º '(Revogado.)' pelo art. 2.º do DL 96-A/84.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Coincide letra a letra com a redacção dada pela Lei 19/78 (estatutos); nota: ver instrução em falta do DL 96-A/84 sobre os novos estatutos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 96-A/84, art. 1.º: a ANOP 'passa a reger-se pelos estatutos anexos' (novos estatutos, que reestruturam por inteiro os órgãos e artigos); o art. 2.º do original e da Lei 19/78 são revogados, logo os estatutos anexos ao original deixam de ser os aprovados, mas o consolidado mantém os estatutos da Lei 19/78 e não aplica os do DL 96-A/84 (alvo incerto quanto à forma: substituição integral do anexo). Os trechos 2-17 estão certos só em relação à Lei 19/78."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

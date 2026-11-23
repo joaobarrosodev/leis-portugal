@@ -65,7 +65,7 @@ Art. 3.º É aditado o artigo 26.º-A aos Estatutos dos Caminhos de Ferro Portug
 
 Art. 26.º-A. A exploração da ligação fluvial Lisboa-Terreiro do Paço ao Barreiro é assegurada pelos Caminhos de Ferro Portugueses, E. P., podendo estes constituir uma empresa para tal exploração.
 
-Art. 4.º
+Artigo 4.º
 
 1 - A exploração do serviço de transporte ferroviário de passageiros entre Roma-Areeiro e Pinhal Novo, com passagem pela Ponte de 25 de Abril, é atribuída pelo Estado, mediante concurso internacional, em regime de concessão.
 
@@ -73,7 +73,7 @@ Art. 4.º
 
 3 - A CP e outros operadores ferroviários só poderão explorar serviços de transporte ferroviário nos troços mencionados nos números anteriores nos termos e dentro dos limites estabelecidos no regime da concessão referida no n.º 1.
 
-Art. 5.º
+Artigo 5.º
 
 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento) pela Ponte de São João.
 
@@ -157,7 +157,7 @@ Linha de Cintura: de Braço de Prata (exclusive) a Alcântara-Mar (exclusive), c
 
 Linha do Leste: de Abrantes (exclusive) a Elvas (fronteira).
 
-Ramal de Alcácer: de Torre das Vargens (exclusive) a Marvão-Beirã (fronteira).
+Ramal de Cáceres: de Torre das Vargens (exclusivo) a Marvão-Beirã (fronteira).
 
 Linha do Oeste: do Cacém (exclusive) à Figueira da Foz.
 

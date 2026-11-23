@@ -237,10 +237,6 @@ c) Os rendimentos líquidos médios e os valores fundiários.
 
 3 - O valor das construções e edificações existentes à data da ocupação, nacionalização ou expropriação será determinado, independentemente do que constar na matriz ou no cadastro, com base no seu valor intrínseco, correspondente a uma percentagem do custo estimado da construção das mesmas, no ano em que ocorreu a ocupação, nacionalização ou expropriação, a qual reflectirá o número de anos da construção e o seu estado de conservação.
 
-4 - O valor intrínseco apurado nos termos do número anterior será corrigido para menos no caso de se revelar manifestamente excessivo face à sua utilidade para a exploração da terra.
-
-5 - No caso de dúvida ou incerteza sobre a composição ou estado do capital fundiário à data da ocupação, nacionalização ou expropriação, deverá a comissão tentar proceder à reconstituição da situação àquela data, colhendo e recebendo prova testemunhal, pericial, documental ou qualquer outra que esteja disponível e devendo realizar exames ao local.
-
 > Alterado pelo/a [Decreto-Lei n.º 38/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1995-197687), publicado em 1995-02-14.
 
 ###### Artigo 11.º

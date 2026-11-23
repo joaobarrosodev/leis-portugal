@@ -1,0 +1,580 @@
+[
+ {
+  "id": "pt:dre:312427:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); rectificação da Declaração e alteração do art. 37.º do DL 235-A/83 ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b) (arts. 2.º, 3.º, 5.º a 35.º e 55.º a 70.º); alterações intermédias (DL 235-A/83, DL 32/85, Declaração) ficam prejudicadas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a) (arts. 1.º, 4.º e 71.º a 91.º): \"(Revogado.)\" correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Alterado pelo DL 235-A/83 (al. e: acrescenta o art. 63.º e a vírgula do 15.º, 19.º); resto igual; quadro em imagem mantido. Não revogado por ninguém.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de rectificação: n.º 5 do preâmbulo, onde se lê «por vários diplomas, os diferentes objectivos que lhe tem sido assinalados, as solicitações» deve ler-se «por vários diplomas. Os diferentes objectivos que lhe têm sido assinalados, as solicitações» (o preâmbulo está na lista dos IGUAIS ao original, logo a rectificação não foi aplicada; o alvo é conhecido)",
+   "Declaração de rectificação: aditar «#### SECÇÃO I — Disposições gerais» após o título do CAPÍTULO IV e antes do art. 36.º (título está na lista de iguais, não aplicado; o art. 36.º foi depois revogado mas o título de secção não)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 433/83, art. 2.º: prorrogação até 31/3/1984 dos prazos do n.º 1 do art. 85.º e do art. 86.º",
+    "motivo": "não textual (prorrogação); artigos revogados depois pelo DL 129/98"
+   },
+   {
+    "instrucao": "Portarias 310/84, 364/85, 316/87, 306/96 e Despachos Normativos 260/91, 30/92, 156/94: alteração do quadro de pessoal do Gabinete de Estudos e Planeamento (mapas anexos)",
+    "motivo": "texto omitido na vista, só mapa em imagem, não dão nova redação; o quadro no fim do art. 92.º não tem título de anexo onde pôr o mapa"
+   },
+   {
+    "instrucao": "Rectificação do quadro anexo (imagem 00060006.pdf) pela Declaração",
+    "motivo": "imagem idêntica, sem alteração textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,78 @@
+[
+ {
+  "id": "pt:dre:163788:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 771/76 art.1.º dá nova redação ao art. 16.º; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 771/76 art.1.º dá nova redação ao art. 17.º; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 771/76, art. 1.º: nova redação do art. 13.º (n.º 1 alínea i) Serviços externos: Circunscrições de Estradas do Norte, Centro, Lisboa e Sul; Direcções de estradas) - o art. 13.º está entre os IGUAIS ao original e a vista não mostra o seu texto; alvo incerto, sem confirmação de aplicação"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 677/73 art.1.º: alteração do quadro de pessoal da DGSH pelo mapa anexo",
+    "motivo": "mapa só em imagem (ver documento original) e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 458/75 art.1.º: alteração dos quadros (chefes de conservação e de lanço) pelos mapas anexos",
+    "motivo": "mapas só em imagem; sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 771/76 art.2.º: apoio transitório entre serviços da JAE",
+    "motivo": "disposição transitória não textual, não altera o original"
+   },
+   {
+    "instrucao": "DL 383/77 e DL 183/80",
+    "motivo": "o diploma que altera não traz o texto da alteração (secções vazias)"
+   },
+   {
+    "instrucao": "DL 365/79: transferência de competências para a Madeira e extinção de serviços",
+    "motivo": "não textual: não dá redação nem revoga artigos do original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:180193:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 conforme DL 229-A/88 e n.º 4 conforme DL 407/86; restantes n.os iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "n.os 3 a 6 conforme DL 311/89 e n.os 7 e 8 conforme DL 213/91; n.os 1 e 2 originais.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 305/91: nova redação dos artigos 7.º, 16.º, 18.º e 19.º do DL 202-B/86",
+    "motivo": "instrução de outro diploma; o original só é citado no n.º 6 do novo art. 18.º"
+   },
+   {
+    "instrucao": "DL 311/89 art.2.º e DL 213/91 art.2.º: aplicação retroativa/aos títulos já emitidos",
+    "motivo": "não textual"
+   }
+  ]
+ }
+]

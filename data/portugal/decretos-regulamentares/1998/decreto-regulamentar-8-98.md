@@ -53,11 +53,13 @@ version_history:
     changes: []
   - date: '2015-05-18'
     amending: pt:dre:67198365:por
-    amending_title: Decreto-Lei n.º 78/2015
+    amending_title: Decreto-Lei n.º 78/2015; Resolução do Conselho de Ministros n.º 120/2005
     changes:
     - Revoga Artigo 5.º
     - Revoga Artigo 8.º
     - Revoga Artigo 9.º
+    - Revoga Artigo 10
+    - Revoga Artigo 11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/8/1998/05/11/p/dre/pt/html
@@ -84,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-8-98.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-8-98.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Resolução
+    do Conselho de Ministros n.º 120/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -255,51 +259,13 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 10.º — Interdições
 
-Na área do Parque Natural, sem prejuízo dos restantes condicionalismos legais, são interditos os seguintes actos e actividades:
+(Revogado.)
 
-a) A alteração à morfologia do solo pela instalação ou ampliação de depósitos de ferro-velho, de sucata, de veículos, de inertes ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;
-
-b) O lançamento de águas residuais industriais ou de uso doméstico na água, no solo ou no subsolo, susceptíveis de causarem poluição;
-
-c) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;
-
-d) A prática de campismo ou caravanismo fora dos locais para tal destinados.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 120/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2005-240064), publicado em 2005-07-28.
 
 ###### Artigo 11.º — Actos e actividades sujeitos a autorização
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia do Parque Natural os seguintes actos e actividades:
-
-a) A realização de obras de construção civil fora dos perímetros urbanos ou predominantemente urbanos, designados como tal nos planos municipais de ordenamento do território (PMOT), nomeadamente para edificações, instalação de parques de campismo e caravanismo, equipamentos turísticos de lazer e recreio, explorações agro-pecuárias e agro-industriais, barragens, açudes ou tratamento de águas residuais, estaleiros temporários ou permanentes, à excepção das obras de conservação, restauro e limpeza;
-
-b) A alteração do uso actual dos terrenos para a implantação de unidades industriais em superfícies não contempladas nos PMOT;
-
-c) A alteração do uso actual dos terrenos pelo estabelecimento de novas explorações de extracção de minerais e de inertes, incluindo a transmissão de licenças de exploração;
-
-d) A alteração do uso actual dos terrenos ou da morfologia do solo pela instalação de novas culturas agrícolas numa área superior a 5 ha;
-
-e) A alteração do uso actual dos terrenos ou da morfologia do solo pela instalação de novos povoamentos florestais ou sua reconversão numa área superior a 5 ha;
-
-f) As alterações do coberto vegetal através da realização de cortes rasos de povoamentos florestais ou de corte de vegetação arbórea ripícola (linhas de água), com excepção das decorrentes da normal actividade agrícola e florestal;
-
-g) A abertura de novas estradas, caminhos ou acessos, bem como o alargamento de vias existentes, quando implique a destruição do coberto vegetal;
-
-h) A instalação de infra-estruturas eléctricas e telefónicas aéreas e subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;
-
-i) A prática de actividades desportivas e ou turísticas susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área;
-
-j) O sobrevoo de aeronaves com motor abaixo de 1000 pés, incluindo a utilização de locais de descolagem para actividades desportivas que têm como suporte o ar, excepto por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural;
-
-l) A realização de fogos controlados, efectuados ao abrigo da alínea d) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e a realização de queimadas ao abrigo do Decreto-Lei n.º 316/95, de 28 de Novembro;
-
-m) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção que, pela sua natureza, não decorram da normal actividade agrícola;
-
-n) A introdução no estado selvagem de espécies zoológicas e botânicas exóticas;
-
-o) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica decorrente de normas legais em vigor;
-
-p) A utilização de aparelhagem de amplificação sonora, excepto dentro dos perímetros urbanos, locais de festividade religiosa e recintos de feira;
-
-q) A venda ambulante de produtos de qualquer natureza, excepto dentro dos perímetros urbanos, locais de festividade religiosa e recintos de feira, não carecendo de autorização os produtos extraídos ou manufacturados na área geográfica do Parque Natural.
+(Revogado.)
 
 ###### Artigo 12.º — Contra-ordenações
 

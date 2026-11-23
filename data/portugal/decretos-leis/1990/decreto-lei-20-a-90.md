@@ -112,7 +112,7 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-945687814
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-945687814
-  retrieved_at: '2026-10-22T13:36:42Z'
+  retrieved_at: '2026-11-23T14:31:37Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2025-11-11T00:00:00Z'
@@ -123,7 +123,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:36:42Z'
+  generated_at: '2026-11-23T14:31:37Z'
   notes: 6 versão(ões); histórico completo em decreto-lei-20-a-90.versoes.json.
 reuse:
   status: permitted
@@ -185,7 +185,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:36:42Z'
+  checked_at: '2026-11-23T14:31:37Z'
   warnings: []
   errors: []
 ---

@@ -1,0 +1,543 @@
+[
+ {
+  "id": "pt:dre:432796:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 119-J/83, DL 115-D/85; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "A Rectificação diz que o DL 45399 não tem de ser presente à Assembleia Nacional, ao contrário do que por lapso se mencionou; a menção foi retirada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84, DL 183-F/80, DL 115-D/85; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 93/88; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 260-B/81; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "n) é a redacção do DL 47914 (junta o corpo original ao texto novo); o) antigo suprimido pelo DL 47914 e o novo o) vem do DL 119-J/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "z') DL 45977; z\") DL 542/71; z\"\" (4 plicas) DL 172-A/78 (substitui a z'''' do DL 667/76); z''''' e z'''''' DL 112/86; z''''''' DL 135/87; n.º 2.º com «território sob administração portuguesa» (DL 225-C/76). A alínea z''' do DL 375/74 não tem texto na vista.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 172-A/78; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80, DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84, DL 275/79, DL 66/89, DL 183-F/80, DL 115-D/85; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84, DL 172-A/78, DL 225-C/76, DL 115-D/85, DL 112/86, DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86, DL 225-C/76, DL 183-F/80, DL 115-D/85, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 119-J/83; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 48316, DL 135/87, DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 115-D/85, DL 192/84, DL 225-C/76, DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80, DL 196/82, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Arts. 21.º (DL 225-C/76), 21.º-A (DL 119-J/83), 22.º (DL 115-D/85), 23.º (DL 112/86), 24.º (DL 192/84): texto idêntico ao último diploma que os reescreve, com «30 de Abril» passado a «30 de Junho» pelo art. 4.º do DL 112/86; originais substituídos por reescrita integral.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 390/77, DL 225-C/76, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Arts. 24.º-A (DL 93/88), 25.º (DL 390/77 e DL 192/84 no § único), 25.º-A (DL 192/84), 25.º-B (DL 112/86, § único DL 275/79), 25.º-C (DL 135/87), 26.º e 27.º (DL 390/77), 28.º (DL 192/84); datas de 30 de Abril passadas a 30 de Junho pelo art. 4.º do DL 112/86.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86, DL 119-J/83; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 196/82, DL 112/86; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 119-J/83, DL 136/81, DL 135/87, DL 183-F/80, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 115-D/85, DL 183-F/80, DL 48316, DL 192/84, DL 275/79, DL 135/87; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 192/84, DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 258/86, DL 192/84, DL 135/87; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 275/79, DL 192/84, DL 115-D/85, DL 136/81, DL 225-C/76, DL 390/77; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "certo",
+    "motivo": "Art. 33.º é o texto do DL 66/89 (tabelas I e II só em imagem, com as linhas «(ver documento original)» do alterador, sem endereço), § 1.º do DL 46369, § 2.º do DL 192/84, § 3.º do DL 115-D/85; § único antigo substituído.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 667/76, DL 183-F/80, DL 112/86, DL 135/87, DL 225-C/76, DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 135/87, DL 196/82; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 196/82; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 136/81; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76, DL 196/82; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 135/87; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 196/82; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76, DL 183-F/80, DL 390/77; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76, DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86, DL 756/75, DL 196/82, DL 115-D/85; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 172-A/78; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80, DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 112/86, DL 192/84, DL 172-A/78, DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75, DL 115-D/85, DL 192/84, DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Alínea a) do art. 94.º do DL 112/86; a imagem é a do DL 112/86 (endereço de 1986).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 667/76, DL 112/86, DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 183-F/80, DL 756/75, DL 225-C/76, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 429/78, DL 756/75, DL 225-C/76, DL 119-J/83; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75, DL 196/82; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 150/77; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 150/77, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 93/88, DL 119-J/83, DL 192/84; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 119-J/83; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 225-C/76; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "certo",
+    "motivo": "Arts. 128.º a 140.º revogados pelo art. 31.º do DL 150/77: ficam com «(Revogado.)» e os parágrafos desaparecem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "certo",
+    "motivo": "Art. 141.º revogado pelo art. 31.º do DL 150/77: «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "certo",
+    "motivo": "Arts. 151.º a 153.º revogados pelo art. 31.º do DL 150/77; art. 150.º-A aditado pelo DL 225-C/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 150/77; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 79",
+    "veredicto": "certo",
+    "motivo": "Cada parágrafo coincide letra a letra com a versão mais recente dada por DL 756/75, DL 112/86; os parágrafos antigos substituídos ou eliminados por essas instruções.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 375/74 (alínea z''' do n.º 1.º do art. 8.º, segundo o consolidador)",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia); não se sabe o que mudou"
+   },
+   {
+    "instrucao": "Declaração (novos modelos da declaração modelo n.º 1, relação modelo n.º 5 e anexos 1, 2 e 3)",
+    "motivo": "os modelos vêm só em imagem e o consolidado não tem título de anexo onde os pôr"
+   },
+   {
+    "instrucao": "DL 150/77, art. 60.º (encerramento dos livros do art. 113.º e cancelamento dos registos do art. 111.º)",
+    "motivo": "não é textual: não altera palavras do Código"
+   },
+   {
+    "instrucao": "Resolução 307/79 (inconstitucionalidade do art. 7.º do DL 667/76 na parte do art. 33.º)",
+    "motivo": "declaração de inconstitucionalidade sem eliminar texto; o art. 33.º foi depois reescrito por inteiro"
+   },
+   {
+    "instrucao": "DL 183-F/80, art. 3.º (n.º 5 do art. 8.º do DL 49410)",
+    "motivo": "instrução de outro diploma (DL 49410); o original só aparece citado"
+   },
+   {
+    "instrucao": "DL 192/84, art. 3.º (n.º 2 do art. 8.º do DL 49410)",
+    "motivo": "instrução de outro diploma (DL 49410)"
+   },
+   {
+    "instrucao": "DL 192/84, tabela anexa dos sinais exteriores de riqueza (art. 15.º-A)",
+    "motivo": "só em imagem; o consolidado não tem título de anexo onde a pôr"
+   },
+   {
+    "instrucao": "DL 192/84, art. 6.º (suspensão da tributação na secção B dos rendimentos de 1983 e 1984)",
+    "motivo": "não textual: suspensão"
+   },
+   {
+    "instrucao": "DL 192/84, art. 5.º e DL 135/87, art. 4.º (isenção temporária dos rendimentos do n.º 5 do art. 6.º do Código do Imposto de Capitais)",
+    "motivo": "não listadas pelo consolidador, mas não alteram palavras do Código: isenções temporárias"
+   },
+   {
+    "instrucao": "DL 115-D/85, art. 3.º (limite dos motociclos na tabela do art. 15.º-A passa a 500000$00)",
+    "motivo": "só em imagem: a tabela não está no texto"
+   },
+   {
+    "instrucao": "DL 112/86, art. 3.º (nova tabela do art. 15.º-A)",
+    "motivo": "só em imagem; sem título de anexo no consolidado"
+   },
+   {
+    "instrucao": "DL 135/87, art. 5.º (alínea n) do art. 2.º do DL 9/85)",
+    "motivo": "instrução de outro diploma (DL 9/85); o original só aparece citado"
+   },
+   {
+    "instrucao": "Lei 2/88, art. 59.º (fazer cessar o regime do art. 3.º do DL 45399)",
+    "motivo": "não textual: autorização ao Governo, sem texto novo"
+   },
+   {
+    "instrucao": "DL 66/89, tabelas I e II do art. 33.º",
+    "motivo": "só em imagem: o alterador traz «(ver documento original)» sem endereço; o artigo ficou com essas linhas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

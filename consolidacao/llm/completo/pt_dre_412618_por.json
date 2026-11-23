@@ -2,58 +2,80 @@
   "id": "pt:dre:412618:por",
   "artigos": [
     {
-      "chave": "10.º",
+      "chave": "6.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "Compete à Divisão de Fomento das Relações Culturais Externas, em colaboração com o Ministério dos Negócios Estrangeiros:\n\na) Estudar e propor a concessão de subsídios para missões de estudo ou estágios no estrangeiro;\n\nb) Instituir a concessão de bolsas de estudo para aperfeiçoamento cultural no estrangeiro;\n\nc) Assegurar o expediente relativo a acordos culturais e outras formas de intercâmbio e fomento cultural com o estrangeiro;\n\nd) Promover relações culturais com entidades estrangeiras, públicas e privadas, em coordenação com os outros departamentos do Ministério da Educação Nacional e com os serviços do Ministério dos Negócios Estrangeiros;\n\ne) Participar, conjuntamente com o Instituto de Alta Cultura, na orientação dos institutos de cultura portuguesa no estrangeiro, nos termos definidos pelo Ministro da Educação Nacional;\n\nf) Prestar apoio técnico às realizações de interesse cultural no estrangeiro, quer da iniciativa de serviços do Ministério da Educação Nacional, quer de outras entidades;\n\ng) Fomentar o estudo e divulgação da cultura portuguesa no estrangeiro e outras formas de intercâmbio e fomento cultural, sem prejuízo das atribuições próprias do Instituto de Alta Cultura;\n\nh) Promover ou auxiliar a tradução e edição em países estrangeiros de obras representativas das diferentes expressões da cultura portuguesa;\n\ni) Promover e coordenar o intercâmbio cultural com instituições portuguesas ou estrangeiras.",
+      "alterador": 1
     },
     {
-      "chave": "11.º",
+      "chave": "21.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "12.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "13.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "14.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "15.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "texto": "1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral dos Assuntos Culturais será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 17.º deste diploma.\n\n2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Direcção-Geral dos Assuntos Culturais, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, observando-se, quanto a técnicos especialistas, o disposto na lei geral.\n\n3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover, nos termos previstos no mesmo, transita para a Direcção-Geral na situação em que se encontrar à data da publicação deste decreto-lei.",
+      "alterador": 1
     },
     {
       "chave": "17.º",
       "epigrafe": "",
       "texto": "1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:\n\na) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;\n\nb) Os lugares de inspector superior, de inspector-chefe e de inspector-orientador de 1.ª classe serão providos de entre funcionários de categoria imediatamente inferior ou de entre diplomados com curso superior adequado de reconhecida competência;\n\nc) Os lugares de director de serviços e de adjunto do director-geral serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado;\n\nd) O lugar de documentalista de 1.ª classe será provido de entre diplomados com curso superior e habilitados com o curso de bibliotecário-arquivista ou com o estágio de preparação técnica de bibliotecários, arquivistas e documentalistas.\n\n2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.\n\n3. O provimento nos lugares referidos nas alíneas b) e c) do n.º 1 deste artigo poderá ainda recair, quando tal se mostre mais conveniente, em pessoas de reconhecida competência e de mérito revelados pela sua obra científica, literária ou artística.",
-      "alterador": 1
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)\n\nIII - Do pessoal",
+      "alterador": 4
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2, artigo 29.º, n.º 2: determina que as referências à Direcção-Geral dos Assuntos Culturais nos artigos 11.º, 13.º e 17.º se consideram feitas a outras entidades; é uma regra de remissão, não uma alteração textual, por isso não foi aplicada ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, artigo 29.º, n.º 2, referências do artigo 13.º, n.º 1, alínea c), e dos artigos 11.º, n.º 2, e 17.º à Direcção-Geral dos Assuntos Culturais «consideram-se feitas» a outros serviços: não textual (regra de leitura, sem nova redação)\nAlterador 3, artigo 33.º, n.º 3, revogação das disposições de quaisquer decretos-leis que estatuírem em contrário, a partir da publicação de diplomas futuros: efeito adiado (e revogação condicional, sem alvo no original)",
   "instrucoes": [
-    "Alterador 1, artigo único: aditado o n.º 3 ao artigo 17.º; aplicado.",
-    "Alterador 2, artigo 29.º, n.º 2: remissão de referências (não textual); não aplicada, ver nao_aplicavel.",
-    "Alterador 2, artigo 29.º, n.º 3: nova redação das alíneas f) e g) do n.º 1 do artigo 13.º; superada pela revogação do artigo 13.º pelo alterador 3.",
-    "Alterador 2, restantes artigos (22.º, 33.º, 38.º, etc.): não alteram o texto do original ou visam outro diploma; ignorados.",
-    "Alterador 3, artigo 14.º: revogados os artigos 10.º a 15.º; um elemento '(Revogado.)' por artigo. A revogação da Portaria n.º 332/74 não é do original."
+    "Alterador 1: artigo 6.º, alínea e), «Ministério» passa a «Ministro» da Educação Nacional: aplicado.",
+    "Alterador 1: artigo 21.º, n.º 1, «no n.º 2 do artigo 20.º do mesmo decreto-lei.» passa a «no n.º 2 do artigo 17.º deste diploma.»: aplicado.",
+    "Alterador 2: aditado n.º 3 ao artigo 17.º: acrescentado no fim do artigo.",
+    "Alterador 3, artigo 29.º, n.º 3: nova redação das alíneas f) e g) do n.º 1 do artigo 13.º: substituída depois pela revogação do artigo 13.º pelo alterador 4.",
+    "Alterador 3, artigo 29.º, n.º 2: referências que se consideram feitas a outros serviços: não textual, para nao_aplicavel.",
+    "Alterador 3, artigo 33.º, n.º 3: revogação genérica dependente de diplomas futuros: para nao_aplicavel.",
+    "Alterador 4, artigo 14.º: revoga os artigos 10.º a 15.º: cada um fica (Revogado.); no 15.º mantém-se a linha de divisão «III - Do pessoal» que abre o artigo 16.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [
+    "6.º: parágrafo que não está no alterador nem no original: e) Participar, conjuntamente com o Instituto de Alta Cultura, na orientação dos  (troca de expressão do alterador)",
+    "21.º: parágrafo que não está no alterador nem no original: 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Ge (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

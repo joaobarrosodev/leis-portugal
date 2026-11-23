@@ -2,13 +2,19 @@
   "id": "pt:dre:457672:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (DL 485/85) dá nova redação ao artigo 3.º e ao artigo 6.º do Decreto-Lei n.º 515/80 (o articulado do decreto: transferência de bens e regime da INDEP), mas o texto atual recebido é só o do Estatuto, cujos artigos 3.º (Objecto principal) e 6.º (Capital estatutário, sem n.º 6) não são esses alvos; além disso a instrução fala no n.º 3 do artigo 6.º e o texto traz um n.º 6. Não aplicado por o alvo não existir no texto atual.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 61/83 prorroga o prazo do n.º 3 do artigo 7.º do Decreto-Lei n.º 515/80: não textual\nAlterador 2, Decreto-Lei n.º 485/85, nova redação do art. 3.º do Decreto-Lei n.º 515/80 (transferência dos bens das fábricas militares para a INDEP): alvo incerto: a instrução visa o artigo 3.º do decreto-lei que criou a INDEP, mas o texto atual só traz o Estatuto, cujo artigo 3.º é o «Objecto principal»; os artigos do próprio decreto-lei não estão no texto atual\nAlterador 2, Decreto-Lei n.º 485/85, nova redação do n.º 3 do art. 6.º do Decreto-Lei n.º 515/80 (o texto traz «1 - ...» e um «6 -» sobre normas de segurança): alvo incerto: o artigo 6.º do texto atual é o do Estatuto («Capital estatuário»), sem relação com o texto novo; o artigo 6.º do decreto-lei não está no texto atual, e a instrução fala do n.º 3 mas o texto dá o n.º 6\nAlterador 3, Decreto-Lei n.º 485/88, art. 2.º, 7), revoga a parte final do n.º 2 do artigo 2.º do Decreto-Lei n.º 515/80 (benefícios fiscais da INDEP): alvo incerto: o n.º 2 do artigo 2.º do texto atual é o do Estatuto (delegações e representações) e não fala de benefícios fiscais; o artigo 2.º do decreto-lei não está no texto atual\nAlterador 4, Decreto-Lei n.º 363/91, regime do pessoal excedente da INDEP: não textual",
   "instrucoes": [
-    "Alterador 1 (DL 61/83): prorroga o prazo do n.º 3 do artigo 7.º do decreto; não é alteração textual; nada feito.",
-    "Alterador 2 (DL 485/85): nova redação do artigo 3.º e do n.º 3 (texto traz n.º 6) do artigo 6.º do DL 515/80; artigos do decreto ausentes do texto atual (só o Estatuto); não aplicado.",
-    "Alterador 3 (DL 363/91): regime do pessoal excedente; só refere o artigo 7.º do decreto, sem alterar o texto; nada feito."
+    "Alt. 1 (DL 61/83): prorrogação de prazo: nao_aplicavel",
+    "Alt. 2 (DL 485/85): nova redação dos arts. 3.º e 6.º do decreto-lei; o texto atual só tem o Estatuto: nao_aplicavel (alvo incerto), reparo da triagem verificado",
+    "Alt. 3 (DL 485/88): revogação de benefício fiscal no art. 2.º do decreto-lei, ausente do texto atual: nao_aplicavel",
+    "Alt. 4 (DL 363/91): só cita o art. 7.º do decreto-lei: nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

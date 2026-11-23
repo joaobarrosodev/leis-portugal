@@ -1,0 +1,452 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518007:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a779ea7478ba75dc"
+   ]
+  },
+  {
+   "date": "1965-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:236751:por",
+     "title": "Decreto-Lei n.º 46322",
+     "published": "1965-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/46322-1965-236751"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "be978e2b69ba5c81",
+    "30216724778aa055",
+    "2cd9a6c8086868f8",
+    "8de172437467750e",
+    "4af4e6a300b50190",
+    "9dc18454852d03ca",
+    "d8480c459953bb73",
+    "6374a87a2880cac2",
+    "402c4a166c4730c6",
+    "8a592cc5d8008e6b",
+    "41e50549bc1b9f90",
+    "e1ed6ec3c3ecaeb0",
+    "ff5b62c804239d5e",
+    "2d4651233cb3b497",
+    "d30b5c4160918593",
+    "a26852eda7099db1",
+    "c77e05d9ba0d460b",
+    "c8c7dedc97dd798d",
+    "622c719e55aab46e",
+    "b5f52b0942de54fd",
+    "e16ee6cf0f0fe257",
+    "f91839fada531f41",
+    "a397d98b855a294b",
+    "fb821801229e4da3",
+    "31c0bd0f35f17e7b",
+    "476ca1794369697a",
+    "482299789c59c881",
+    "bc18840bec32da07",
+    "76513bdb1294ed13",
+    "d4a9fc2827294349",
+    "4d80aacf96c6d104",
+    "9f0fd1bf0d01ff02",
+    "cd8ae5f27e8510b7",
+    "f493e86f43a431ea",
+    "7149eb279a0853c4",
+    "d006803b7b053b05",
+    "69fb5e5b21301698",
+    "c3dfd147867e11eb",
+    "5c3e274b544a3555",
+    "761b1fda62136450",
+    "a4b43baf2269160d",
+    "aba705bdac5b74bb",
+    "3c0dc245bbf923d4",
+    "551f711fd1a6d251",
+    "0a58541abfcc30c9"
+   ]
+  }
+ ],
+ "fragments": {
+  "a779ea7478ba75dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961, estabeleceu as normas que deviam regular, nas províncias ultramarinas, a organização e treino, em regime de voluntariado, da população civil, de modo que esta pudesse, em caso de necessidade, prestar adequada colaboração às forças armadas.\n\nConsiderando que os ensinamentos fornecidos pela própria experiência exigem uma remodelação orgânica e funcional do instituído corpo de voluntários, a fim de lhe melhorar a capacidade de eficácia;\n\nUsando da faculdade conferida pela primeira parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nI\n\nDa constituição e atribuições\n\nArtigo 1.º Em cada uma das províncias ultramarinas é criada uma organização de voluntários de carácter permanente, com a missão de colaborar na defesa da integridade da soberania nacional, quando ameaçada por actividades que perturbem a ordem e a segurança no respectivo território, e concorrer para atenuar os efeitos de catástrofes ou calamidades públicas de qualquer natureza.\n\nArt. 2.º Da organização provincial de voluntários farão parte os cidadãos de ambos os sexos, de nacionalidade portuguesa, em princípio maiores de 18 anos, sujeitos ou não ao serviço militar, que nela se alistem por livre decisão.\n\n§ único. O alistamento envolve tàcitamente para o voluntário o compromisso de defender a Pátria e a integridade do seu território, bem como as pessoas e bens nele existentes, respeitar e cumprir as normas do presente diploma e seus regulamentos, obedecer aos chefes e auxiliar os camaradas, consagrando-se ao cumprimento do dever mesmo com sacrifício da própria vida.\n\nArt. 3.º Os cidadãos de nacionalidade estrangeira que residam habitualmente nas províncias ultramarinas poderão fazer parte da organização mediante autorização expressa do governador, sob proposta do comando provincial.\n\n§ único. O alistamento envolve tàcitamente para o voluntário o compromisso de defender a integridade do território da província onde se encontra, bem como as pessoas e bens nela existentes, respeitar e cumprir as normas do presente diploma e seus regulamentos, obedecer aos chefes e auxiliar os camaradas, consagrando-se ao cumprimento do dever, mesmo com sacrifício da própria vida.\n\nArt. 4.º À organização provincial de voluntários cumpre em especial:\n\na) Cooperar na manutenção da ordem e na defesa da integridade da soberania nacional contra agentes subversivos e perturbadores, terroristas e bandos armados, pela protecção de pessoas e bens e pela destruição daqueles elementos adversos, organizando a autodefesa das populações;\n\nb) Participar na protecção do património público e privado e na garantia do regular funcionamento das actividades provinciais;\n\nc) Colaborar na acção psicossocial com vista ao fortalecimento da coesão nacional pela valorização espiritual, social e material das populações, pela preparação da sua defesa moral e pelo robustecimento da sua vitalidade e resistência;\n\nd) Contribuir para a informação do governo da província sobre a situação das populações e cooperar na informação sobre as actividades contra a segurança ou soberania nacional;\n\ne) Adoptar as necessárias providências para atenuar os efeitos de catástrofes ou calamidades públicas, tanto em tempo de paz como em tempo de guerra, nomeadamente no que se refere à vida económica das regiões afectadas pelo adversário, orientando os trabalhos e coordenando todas as actividades.\n\nII\n\nDa estrutura\n\nArt. 5.º A estrutura da organização de voluntários no ultramar compreende órgãos de comando, operacionais e de instrução, e deverá assegurar:\n\na) A coordenação harmónica das diversas entidades e organismos que devem colaborar com a organização provincial de voluntários e o emprego eficiente dos respectivos meios;\n\nb) A realização do recrutamento e instrução de pessoal, a obtenção dos equipamentos e meios materiais necessários e a sua coordenada utilização, bem como os trabalhos de planeamento operacional;\n\nc) A rápida entrada em acção do sistema preparado para o caso de guerra ou de emergência.\n\nArt. 6.º A organização provincial de voluntários disporá do auxílio dos serviços públicos que interessem.\n\n§ único. Em caso de reconhecida necessidade, poderá ser posta à sua disposição a colaboração constante das alíneas do § 1.º do artigo 4.º do [Decreto n.º 43571](https://diariodarepublica.pt/dr/detalhe/decreto/43571-1961-559608).\n\nArt. 7.º Os indivíduos inscritos no organização provincial de voluntários são distribuídos, consoante a idade, o sexo, a aptidão física e a preparação profissional, por dois escalões, correspondentes, respectivamente, às missões de autodefesa e a às missões psicossociais.\n\n§ único. Os voluntários do sexo feminino são destinados, em princípio, às missões psicossociais.\n\nIII\n\nDos órgãos superiores\n\nArt. 8.º A estrutura da organização de voluntários em cada província ultramarina realiza-se de acordo com as instruções do Ministério do Ultramar, sob a direcção do respectivo governador, a quem cabe a responsabilidade da orientação, planeamento e inspecção locais, competindo-lhe especialmente superintender nos trabalhos de preparação, aprovar os respectivos planos, impulsionar e inspeccionar a execução e coordenar a actividade de todos os organismos que para a mesma organização concorram.\n\nArt. 9.º A preparação, a organização e a execução da missão dos voluntários competem em cada província à respectiva organização provincial de voluntários, a qual, na dependência directa do governador, será dirigida por um comandante provincial, oficial superior das forças armadas na situação de actividade ou reserva, nomeado por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar, mediante o parecer do titular do departamento de origem do nomeado e do governador da província.\n\n§ único. O comandante provincial terá a categoria de director de serviço nas províncias de governo-geral e de chefe de serviço nas de governo simples e fará parte do Conselho de Defesa Militar.\n\nArt. 10.º O comandante da organização provincial de voluntários dispõe, para o coadjuvar nos estudos e trabalhos relativos à actuação daquela organização e para preparar as suas decisões, de um comando provincial, a organizar pelo governo da província.\n\nArt. 11.º Para a organização do comando provincial e dos órgãos de comando constantes do corpo do artigo do presente diploma, recorrer-se-á, na medida do necessário, à colaboração referida no § único do artigo 6.º também deste diploma.\n\nArt. 12.º A organização provincial de voluntários, para realizar a sua missão, disporá da colaboração dos organismos do Estado e autarquias locais, dos órgãos de segurança pública, das organizações patrióticas, das instituições de interesse público e de fim desinteressado ou altruístico, dos serviços de transporte e das empresas privadas, conforme for regulamentado em cada província.\n\n§ 1.º Estes organismos, instituições ou empresas, designadamente a Cruz Vermelha Portuguesa, as corporações dos bombeiros, a milícia da Organização Nacional Mocidade Portuguesa, as organizações escutistas, desportivas e afins, bem como os serviços e empresas de utilidade pública e privada que interessem à segurança e defesa da província ou à sua vida normal, mantêm, no quadro geral dos voluntários, a sua personalidade e autonomia próprias.\n\n§ 2.º As instituições ou organismos a que se refere o parágrafo anterior poderão receber, além do auxílio técnico para a sua preparação, os materiais e os equipamentos necessários ao cumprimento da missão que lhes está destinada no quadro geral da organização provincial de voluntários, uma vez garantidas as condições de utilização, acondicionamento e manutenção respectivas.\n\nArt. 13.º Em caso de emergência, os assuntos relativos aos voluntários que, em qualquer escalão, exijam a colaboração de diferentes organismos do Estado, serão imediatamente resolvidos por acordo entre o comando dos voluntários desse escalão e as direcções locais dos organismos interessados, o que será comunicado ao governador, pela via mais rápida, para efeitos de confirmação.\n\n§ único. No caso de não haver acordo, o assunto será posto à consideração do governador, para efeitos de solução, se as circunstâncias de tempo o permitirem, ou será decidido exclusivamente pelo comando local dos voluntários, se este reconhecer que a demora numa solução imediata poderá contribuir para o agravamento da situação.\n\nArt. 14.º Declarado o estado de guerra ou de sítio ou em situações de emergência reconhecidas pelo governador, este poderá colocar a organização provincial de voluntários, operacionalmente, para efeito de acção de autodefesa das populações, na dependência da autoridade militar.\n\n§ 1.º Caso não exista comandante-chefe, será a organização posta operacionalmente, para efeito de acção de autodefesa das populações, na dependência dos comandantes terrestre, naval e aéreo, na parte que a cada um disser respeito.\n\n§ 2.º No caso de as operações militares, de o estado de sítio ou de a situação de emergência não abrangerem a totalidade do território da província, mas ùnicamente parte, poderá apenas a organização de voluntários correspondente ser posta na dependência do comandante responsável pelo conjunto das operações aí desenroladas.\n\nIV\n\nDa organização territorial\n\nArt. 15.º A organização territorial de voluntários tem por fim permitir a descentralização da acção do comando provincial, designadamente nos aspectos administrativo e operacional, e assentará, em princípio, na organização da administração civil.\n\n§ 1.º Ao território de cada distrito corresponderá uma zona de voluntários. As zonas serão subdivididas em sectores, e estes em subsectores, correspondentes, respectivamente e na medida do possível, às áreas das circunscrições ou concelhos e dos postos administrativos, organizando-se, dentro dos sectores e subsectores, tantos núcleos de voluntários quantos os julgados necessários e convenientes.\n\n§ 2.º O comando de cada um dos escalões referidos no § 1.º do presente artigo será, em princípio, exercido pela respectivas autoridade administrativa.\n\nArt. 16.º Os comandantes das zonas, dos sectores e dos subsectores serão nomeados pelo governador da província, mediante parecer ou proposta do comandante provincial, tendo em atenção o disposto no artigo anterior e seus parágrafos. No caso de a nomeação vir a recair em militares que não estejam em comissão civil, deverá ser obtida a anuência do comandante do ramo das forças armadas a que pertencer o militar proposto, sem prejuízo do estabelecido no artigo 42.º do Estatuto do Oficial do Exército.\n\n§ único. A nomeação dos comandantes das diversas unidades de voluntários e dos chefes das várias formações será da competência do comandante provincial, que, no caso de se tratar de militares que não estejam em comissão civil, deverá obter a anuência do comandante a que se refere o segundo período do corpo do presente artigo, sem prejuízo do estabelecido no artigo 42.º do Estatuto do Oficial do Exército.\n\nArt. 17.º Os comandantes de zona, sector e subsector serão assistidos, nos seus trabalhos de estudo, direcção e fiscalização, por órgãos de comando, a criar pelo governador da província, com o desenvolvimento adaptado ao respectivo escalão.\n\n§ único. Destes órgãos de comando fará parte, sempre que necessário e possível, um adjunto militar.\n\nV\n\nDo serviço dos voluntários\n\nArt. 18.º O emprego dos voluntários em cada província fixar-se-á obrigatòriamente nas áreas e localidades onde residam ou exerçam as suas actividades profissionais.\n\n§ único. Poderão ser organizadas em cada província colunas móveis para actuarem em qualquer ponto do respectivo território, consoante as necessidades resultantes da situação local, desde que haja voluntários que expressa e claramente se ofereçam para o efeito.\n\nArt. 19.º Os serviços e estabelecimentos públicos do Estado ou das autarquias locais e as organizações e serviços de interesse público, bem como as empresas e estabelecimentos industriais e comerciais prèviamente classificados pelo governador como indispensáveis à vida regular da província, são obrigados, sob pena de desobediência, a assegurar, por conta própria, a autodefesa do seu pessoal e das suas instalações.\n\n§ 1.º Para os efeitos do corpo do artigo, a organização e a preparação da autodefesa serão da responsabilidade do director do serviço ou da empresa, que as levará a efeito dentro do quadro geral da hierarquia do respectivo pessoal e segundo os princípios deste decreto-lei e das normas que o regulamentarem.\n\n§ 2.º Como órgãos responsáveis pela organização e emprego dos voluntários, os comandos dos diversos escalões territoriais da organização provincial de voluntários orientarão, através de directivas, e inspeccionarão, por meio de delegados, a organização e a preparação da autodefesa, aprovarão os respectivos planos de defesa e, em caso de emergência, conduzirão todas as actividades operacionais.\n\nArt. 20.º Para funcionamento dos serviços de voluntários nas instalações portuárias, nas actividades directamente ligadas à exploração dos portos e nos navios mercantes neles ancorados, bem como nos aeroportos e estabelecimentos congéneres, nos caminhos de ferro e nos correios, telégrafos e telefones e demais actividades básicas, a organização provincial de voluntários poderá criar comandos autónomos, com a categoria de comandos de sector, na dependência directa do respectivo comando de zona para efeitos do disposto no § 2.º do artigo anterior.\n\nArt. 21.º As prerrogativas e deveres dos inscritos na organização provincial de voluntários e do pessoal que para ela contribua ou nela colabore serão regulados por estatuto a publicar pelo Ministro do Ultramar.\n\nArt. 22.º Os voluntários, quando no desempenho de missões de serviço, farão uso, obrigatòriamente, de insígnias e emblemas adequados aos serviços a que estiverem afectos e possuirão um documento de identificação.\n\nArt. 23.º O serviço na organização provincial de voluntários, quando determinado superiormente, não implicará para os voluntários perda de lugar ou qualquer desconto de vencimento ou salário, quer seja empregado do Estado, quer das entidades ou empresas privadas.\n\nArt. 24.º Para os empregados do Estado, das organizações corporativas e das autarquias locais, e no caso de incompatibilidade de acumulação das suas funções com o serviço prestado na referida organização, este será, para todos os efeitos legais, contado como se fosse prestado no seu cargo civil.\n\n§ único. Quando se verificar o disposto no corpo deste artigo, o serviço a que pertencer o empregado poderá propor o provimento, por pessoal eventual, da vaga aberta pela saída daquele empregado, sempre que tal medida se torne indispensável.\n\nArt. 25.º Nos casos em que importe, poderão os oficiais em serviço na organização provincial de voluntários, mediante autorização do Ministro titular do departamento a que o nomeado pertencer, ser considerados, para todos os efeitos legais, em comissão de serviço civil, sendo-lhes tornado extensivo o preceituado no artigo 3.º do [Decreto-Lei n.º 42471](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42471-1959-432023), de 23 de Agosto de 1959.\n\nArt. 26.º Os serviços prestados, com boas informações, na organização provincial de voluntários, constituem motivo de preferência em todos os concursos públicos e no provimento de lugares públicos não sujeitos a concurso.\n\nArt. 27.º Os voluntários sujeitos à lei militar, quando convocados por mobilização parcial ou geral, devem apresentar-se nas unidades militares a que pertencem ou para que forem destinados no plano de mobilização, dando imediato conhecimento ao comando de voluntários do escalão a que pertencem.\n\n§ único. Os voluntários que sejam militares na disponibilidade poderão ser dispensados de apresentação nas unidades a que pertencem, em caso de convocação, se estiverem empenhados em operações activas ou se encontrarem em localidades situadas em território considerado como zona de operações ou onde tiver sido declarado o estado de guerra ou de emergência.\n\nAo comando do ramo interessado das forças armadas cabe julgar, em cada caso, daquela isenção.\n\nVI\n\nDa instrução\n\nArt. 28.º A instrução de pessoal será ministrada, em cada província, conforme o escalão e especialidade:\n\na) Em escolas ou centros criados com essa finalidade;\n\nb) Em instituições e agremiações com personalidade jurídica que devem colaborar com as organizações provinciais de voluntários;\n\nc) Em serviços ou empresas sujeitos ao regime de autodefesa;\n\nd) Em cursos eventualmente organizados em escolas ou centros de instrução não sujeitos à autoridade da organização provincial de voluntários.\n\n§ único. As autoridades militares dos diferentes ramos das forças armadas prestarão, dentro das suas possibilidades, todo o apoio à organização provincial de voluntários no campo da instrução.\n\nArt. 29.º O treino das populações e das unidades e formações operacionais de voluntários tem como objectivo familiarizar os interessados com as condições que possam ocorrer em caso de emergência, bem como experimentar e melhorar a eficiência da organização provincial de voluntários. Para tanto, e sempre que possível, serão organizados exercícios parciais ou de conjunto, subordinados às directivas emanadas do comando provincial.\n\n§ 1.º Na realização dos exercícios a que se refere o corpo deste artigo, procurar-se-á evitar prejuízos justificados nas actividades normais da vida regular das populações ou nos serviços e organismos públicos ou privados. Todavia, poderão ser afectadas, total ou parcialmente, as actividades normais dos cidadãos e dos serviços públicos ou privados na área abrangida pelo exercício planeado, quando circunstâncias extraordinárias o impuserem ou necessidades essenciais da preparação da população o exigirem e desde que isso tenha sido autorizado pelo respectivo governador da província, ouvido o Conselho de Governo, sempre que o julgue necessário.\n\n§ 2.º Poderá também, com a mesma finalidade e nas mesmas condições, ser determinada, na área do exercício, a paralisação do tráfego de qualquer espécie, bem como a ocultação total ou parcial da iluminação pública e particular e o acesso à propriedade privada, de acordo com as normas a vigorar em tempo de guerra ou em situações de emergência.\n\n§ 3.º O pessoal abrangido pelos artigos 19.º e 20.º tomará parte obrigatòriamente nos exercícios previstos no corpo deste artigo, sempre que o comandante provincial o determine.\n\nArt. 30.º Sempre que as funções do governo e do comando da província não estejam reunidas, o comandante-chefe pode, autorizado pelo governador da província, inspeccionar ou mandar inspeccionar as unidades de autodefesa de voluntários, a fim de avaliar o grau de instrução dos seus componentes e o estado de eficiência das suas unidades e formações.\n\n§ 1.º Caso não exista comandante-chefe e sempre que tais inspecções interessem directamente às forças terrestres, navais ou aéreas, poderão as mesmas ser executadas pelos respectivos comandantes.\n\n§ 2.º Dos resultados de todas as inspecções constantes do presente artigo será dado conhecimento ao governador da província.\n\nVII\n\nDisposições finais\n\nArt. 31.º Disposições regulamentares estabelecerão as normas relativas aos meios materiais necessários à organização provincial de voluntários.\n\nArt. 32.º A organização provincial de voluntários, de acordo com a autoridade militar, e sem prejuízo do direito preferencial que a esta cabe, procederá ao registo das pessoas e recursos que interessem à organização e seu funcionamento.\n\n§ único. Para o efeito do corpo do artigo, as entidades oficiais e privadas de quem o pessoal dependa ou que usufruam os bens não poderão recusar as informações e facilidades necessárias à elaboração do mesmo registo, sob pena de desobediência.\n\nArt. 33.º Os cargos vagos no quadro do funcionalismo ultramarino por efeito da nomeação de funcionários para satisfazer as necessidades da organização provincial de voluntários poderão ser providos interinamente por qualquer pessoa que se encontre a prestar serviço militar na província, mediante nomeação do Ministro do Ultramar, com prévia anuência do Ministro do departamento militar respectivo.\n\n§ 1.º Com a anuência do titular do departamento militar respectivo, poderá o Ministro do Ultramar nomear provisòriamente para lugares de ingresso nos quadros técnicos os indivíduos nomeados interinamente ao abrigo do corpo deste artigo, desde que assim o tenham requerido no período da interinidade, tenham boas informações de serviço e as qualificações técnicas necessárias.\n\n§ 2.º O tempo de serviço interino nos lugares para que venham a obter nomeação provisória, nos termos do § 1.º deste artigo, contar-se-á para todos os efeitos legais.\n\nArt. 34.º Os voluntários com categoria correspondente a oficial das forças armadas poderão usar armas independentemente de qualquer licença de uso e porte de arma, nas condições fixadas na respectiva província.\n\n§ único. Devem ser considerados nas condições estabelecidas no corpo deste artigo os comandantes de zona, sector e subsector, os chefes e adjuntos das repartições dos comandos e os comandantes e chefes das várias unidades e formações de escalão equivalente ou superior a pelotão.\n\nArt. 35.º Sem prejuízo do direito concedido pela licença de uso e porte de arma, os voluntários de categoria inferior à estabelecida no artigo anterior só poderão usar armas quando no desempenho das suas funções de voluntários ou por determinação do comando provincial ou da autoridade militar a que eventualmente estejam subordinados.\n\nArt. 36.º Considerar-se-ão realizados em legítima defesa os actos praticados por um voluntário para prevenir ou fazer cessar uma agressão ilícita contra a pessoa ou dignidade próprias ou de outro voluntário ou contra o armamento, equipamento e quaisquer outros artigos destinados à organização a que pertence ou contra o prestígio desta ou de quaisquer outras instituições ou pessoas que o voluntário deva defender, sempre que os meios empregados sejam aqueles que os deveres dos voluntários e as circunstâncias razoàvelmente aconselhem, salvo se o voluntário tiver provocado a agressão por uma atitude contrária aos princípios da referida organização.\n\nArt. 37.º Entender-se-ão praticados no cumprimento de uma obrigação, e por isso justificados, os actos cometidos em cumprimento de deveres dos voluntários prescritos nas leis e nos regulamentos internos da organização, salvo se houver excesso na execução, contrário aos princípios e ao espírito da mesma organização.\n\nArt. 38.º Os crimes de que forem arguidos os voluntários e constituídos por factos praticados em serviço na respectiva organização ou em razão de serviço da mesma serão instruídos e julgados pelas autoridades e tribunal militar territorial competente, segundo o Código de Justiça Militar, que se considera para este efeito aplicável aos voluntários, nos termos devidos.\n\n§ 1.º Consideram-se praticados em serviço da organização os factos realizados pelo arguido que esteja legalmente a desempenhar missões específicas da organização.\n\n§ 2.º Consideram-se cometidos em razão de serviço da organização os factos que tenham origem em quaisquer actos praticados pelo ofendido no cumprimento de deveres de inscrito na referida organização.\n\nArt. 39.º Se os factos a que se refere o artigo anterior forem cometidos por voluntários ao serviço das forças navais, serão instruídos e julgados pelas autoridades e tribunais de marinha locais, nos termos do Código de Justiça Militar, sempre que assim seja possível.\n\nArt. 40.º Para todos os efeitos legais, considera-se automàticamente inscrito na organização provincial de voluntários de cada província todo o pessoal dos quadros dos serviços de acção psicossocial e de centralização e coordenação de informações destacado em missões específicas de reconhecida importância, com os direitos e os deveres inerentes àquela organização.\n\nArt. 41.º Para os serviços previstos neste diploma, ficam os governadores das províncias autorizados a criar, em diploma legislativo, os seus quadros de pessoal e a proceder à abertura dos créditos necessários para fazer face ao aumento de despesa deles resultante, em contrapartida em recursos orçamentais.\n\nArt. 42.º Para os casos omissos no presente diploma e para a regulamentação do que nele se dispõe, os governadores das províncias deverão promover a publicação dos diplomas legislativos julgados necessários, depois de recurso ao disposto na base VIII da [Lei n.º 2051](https://diariodarepublica.pt/dr/detalhe/lei/2051-1952-603062), se o tiverem por conveniente.\n\nArt. 43.º No que não estiver expressamente regulado no presente decreto-lei e nos respectivos regulamentos provinciais, aplicar-se-á, ao pessoal do quadro permanente das organizações provinciais de voluntários, o Estatuto do Funcionalismo Ultramarino.\n\nArt. 44.º Fica revogada para o ultramar toda a legislação referente a formações patrióticas de voluntários, nomeadamente o [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961.\n\n§ único. Todo o pessoal de enquadramento, de secretaria e afim actualmente em serviço nos corpos de voluntários passará para a nova organização criada por este decreto-lei.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
+  },
+  "be978e2b69ba5c81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961, estabeleceu as normas que deviam regular, nas províncias ultramarinas, a organização e treino, em regime de voluntariado, da população civil, de modo que esta pudesse, em caso de necessidade, prestar adequada colaboração às forças armadas.\n\nConsiderando que os ensinamentos fornecidos pela própria experiência exigem uma remodelação orgânica e funcional do instituído corpo de voluntários, a fim de lhe melhorar a capacidade de eficácia;\n\nUsando da faculdade conferida pela primeira parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nI\n\nDa constituição e atribuições"
+  },
+  "30216724778aa055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm cada uma das províncias ultramarinas é criada uma organização de voluntários de carácter permanente, com a missão de colaborar na defesa da integridade da soberania nacional, quando ameaçada por actividades que perturbem a ordem e a segurança no respectivo território, e concorrer para atenuar os efeitos de catástrofes ou calamidades públicas de qualquer natureza."
+  },
+  "2cd9a6c8086868f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDa organização provincial de voluntários farão parte os cidadãos de ambos os sexos, de nacionalidade portuguesa, em princípio maiores de 18 anos, sujeitos ou não ao serviço militar, que nela se alistem por livre decisão.\n\n§ único. O alistamento envolve tàcitamente para o voluntário o compromisso de defender a Pátria e a integridade do seu território, bem como as pessoas e bens nele existentes, respeitar e cumprir as normas do presente diploma e seus regulamentos, obedecer aos chefes e auxiliar os camaradas, consagrando-se ao cumprimento do dever mesmo com sacrifício da própria vida."
+  },
+  "8de172437467750e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs cidadãos de nacionalidade estrangeira que residam habitualmente nas províncias ultramarinas poderão fazer parte da organização mediante autorização expressa do governador, sob proposta do comando provincial.\n\n§ único. O alistamento envolve tàcitamente para o voluntário o compromisso de defender a integridade do território da província onde se encontra, bem como as pessoas e bens nela existentes, respeitar e cumprir as normas do presente diploma e seus regulamentos, obedecer aos chefes e auxiliar os camaradas, consagrando-se ao cumprimento do dever, mesmo com sacrifício da própria vida."
+  },
+  "4af4e6a300b50190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÀ organização provincial de voluntários cumpre em especial:\n\na) Cooperar na manutenção da ordem e na defesa da integridade da soberania nacional contra agentes subversivos e perturbadores, terroristas e bandos armados, pela protecção de pessoas e bens e pela destruição daqueles elementos adversos, organizando a autodefesa das populações;\n\nb) Participar na protecção do património público e privado e na garantia do regular funcionamento das actividades provinciais;\n\nc) Colaborar na acção psicossocial com vista ao fortalecimento da coesão nacional pela valorização espiritual, social e material das populações, pela preparação da sua defesa moral e pelo robustecimento da sua vitalidade e resistência;\n\nd) Contribuir para a informação do governo da província sobre a situação das populações e cooperar na informação sobre as actividades contra a segurança ou soberania nacional;\n\ne) Adoptar as necessárias providências para atenuar os efeitos de catástrofes ou calamidades públicas, tanto em tempo de paz como em tempo de guerra, nomeadamente no que se refere à vida económica das regiões afectadas pelo adversário, orientando os trabalhos e coordenando todas as actividades.\n\nII\n\nDa estrutura"
+  },
+  "9dc18454852d03ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA estrutura da organização de voluntários no ultramar compreende órgãos de comando, operacionais e de instrução, e deverá assegurar:\n\na) A coordenação harmónica das diversas entidades e organismos que devem colaborar com a organização provincial de voluntários e o emprego eficiente dos respectivos meios;\n\nb) A realização do recrutamento e instrução de pessoal, a obtenção dos equipamentos e meios materiais necessários e a sua coordenada utilização, bem como os trabalhos de planeamento operacional;\n\nc) A rápida entrada em acção do sistema preparado para o caso de guerra ou de emergência."
+  },
+  "d8480c459953bb73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA organização provincial de voluntários disporá do auxílio dos serviços públicos que interessem.\n\n§ único. Em caso de reconhecida necessidade, poderá ser posta à sua disposição a colaboração constante das alíneas do § 1.º do artigo 4.º do [Decreto n.º 43571](https://diariodarepublica.pt/dr/detalhe/decreto/43571-1961-559608)."
+  },
+  "6374a87a2880cac2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs indivíduos inscritos no organização provincial de voluntários são distribuídos, consoante a idade, o sexo, a aptidão física e a preparação profissional, por dois escalões, correspondentes, respectivamente, às missões de autodefesa e a às missões psicossociais.\n\n§ único. Os voluntários do sexo feminino são destinados, em princípio, às missões psicossociais.\n\nIII\n\nDos órgãos superiores"
+  },
+  "402c4a166c4730c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA estrutura da organização de voluntários em cada província ultramarina realiza-se de acordo com as instruções do Ministério do Ultramar, sob a direcção do respectivo governador, a quem cabe a responsabilidade da orientação, planeamento e inspecção locais, competindo-lhe especialmente superintender nos trabalhos de preparação, aprovar os respectivos planos, impulsionar e inspeccionar a execução e coordenar a actividade de todos os organismos que para a mesma organização concorram."
+  },
+  "8a592cc5d8008e6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1965-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 46322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46322-1965-236751), publicado em 1965-05-03."
+   ],
+   "markdown": "###### Artigo 9.º\n\nA preparação, a organização e a execução da missão dos voluntários competem em cada província à respectiva organização provincial de voluntários, a qual, na dependência directa do governador, será dirigida por um comandante provincial, oficial superior das forças armadas na situação de actividade ou reserva, nomeado por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar, mediante o parecer do titular do departamento de origem do nomeado e do governador da província.\n\n§ 1.º Nas províncias de governo simples o comando da organização provincial de voluntários poderá ser exercido por um capitão ou oficial superior, em comissão ordinária de serviço, ou, excepcionalmente, em regime de acumulação, por um oficial que na província se encontre em comissão militar, mediante gratificação a fixar em diploma provincial.\n\n§ 2.º O comandante provincial terá a categoria de director de serviço nas províncias de governo-geral e de chefe de serviço nas de governo simples e fará parte do Conselho de Defesa Militar.\n\n> Alterado pelo/a [Decreto-Lei n.º 46322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46322-1965-236751), publicado em 1965-05-03."
+  },
+  "41e50549bc1b9f90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO comandante da organização provincial de voluntários dispõe, para o coadjuvar nos estudos e trabalhos relativos à actuação daquela organização e para preparar as suas decisões, de um comando provincial, a organizar pelo governo da província."
+  },
+  "e1ed6ec3c3ecaeb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nPara a organização do comando provincial e dos órgãos de comando constantes do corpo do artigo do presente diploma, recorrer-se-á, na medida do necessário, à colaboração referida no § único do artigo 6.º também deste diploma."
+  },
+  "ff5b62c804239d5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA organização provincial de voluntários, para realizar a sua missão, disporá da colaboração dos organismos do Estado e autarquias locais, dos órgãos de segurança pública, das organizações patrióticas, das instituições de interesse público e de fim desinteressado ou altruístico, dos serviços de transporte e das empresas privadas, conforme for regulamentado em cada província.\n\n§ 1.º Estes organismos, instituições ou empresas, designadamente a Cruz Vermelha Portuguesa, as corporações dos bombeiros, a milícia da Organização Nacional Mocidade Portuguesa, as organizações escutistas, desportivas e afins, bem como os serviços e empresas de utilidade pública e privada que interessem à segurança e defesa da província ou à sua vida normal, mantêm, no quadro geral dos voluntários, a sua personalidade e autonomia próprias.\n\n§ 2.º As instituições ou organismos a que se refere o parágrafo anterior poderão receber, além do auxílio técnico para a sua preparação, os materiais e os equipamentos necessários ao cumprimento da missão que lhes está destinada no quadro geral da organização provincial de voluntários, uma vez garantidas as condições de utilização, acondicionamento e manutenção respectivas."
+  },
+  "2d4651233cb3b497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nEm caso de emergência, os assuntos relativos aos voluntários que, em qualquer escalão, exijam a colaboração de diferentes organismos do Estado, serão imediatamente resolvidos por acordo entre o comando dos voluntários desse escalão e as direcções locais dos organismos interessados, o que será comunicado ao governador, pela via mais rápida, para efeitos de confirmação.\n\n§ único. No caso de não haver acordo, o assunto será posto à consideração do governador, para efeitos de solução, se as circunstâncias de tempo o permitirem, ou será decidido exclusivamente pelo comando local dos voluntários, se este reconhecer que a demora numa solução imediata poderá contribuir para o agravamento da situação."
+  },
+  "d30b5c4160918593": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nDeclarado o estado de guerra ou de sítio ou em situações de emergência reconhecidas pelo governador, este poderá colocar a organização provincial de voluntários, operacionalmente, para efeito de acção de autodefesa das populações, na dependência da autoridade militar.\n\n§ 1.º Caso não exista comandante-chefe, será a organização posta operacionalmente, para efeito de acção de autodefesa das populações, na dependência dos comandantes terrestre, naval e aéreo, na parte que a cada um disser respeito.\n\n§ 2.º No caso de as operações militares, de o estado de sítio ou de a situação de emergência não abrangerem a totalidade do território da província, mas ùnicamente parte, poderá apenas a organização de voluntários correspondente ser posta na dependência do comandante responsável pelo conjunto das operações aí desenroladas.\n\nIV\n\nDa organização territorial"
+  },
+  "a26852eda7099db1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA organização territorial de voluntários tem por fim permitir a descentralização da acção do comando provincial, designadamente nos aspectos administrativo e operacional, e assentará, em princípio, na organização da administração civil.\n\n§ 1.º Ao território de cada distrito corresponderá uma zona de voluntários. As zonas serão subdivididas em sectores, e estes em subsectores, correspondentes, respectivamente e na medida do possível, às áreas das circunscrições ou concelhos e dos postos administrativos, organizando-se, dentro dos sectores e subsectores, tantos núcleos de voluntários quantos os julgados necessários e convenientes.\n\n§ 2.º O comando de cada um dos escalões referidos no § 1.º do presente artigo será, em princípio, exercido pela respectivas autoridade administrativa."
+  },
+  "c77e05d9ba0d460b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs comandantes das zonas, dos sectores e dos subsectores serão nomeados pelo governador da província, mediante parecer ou proposta do comandante provincial, tendo em atenção o disposto no artigo anterior e seus parágrafos. No caso de a nomeação vir a recair em militares que não estejam em comissão civil, deverá ser obtida a anuência do comandante do ramo das forças armadas a que pertencer o militar proposto, sem prejuízo do estabelecido no artigo 42.º do Estatuto do Oficial do Exército.\n\n§ único. A nomeação dos comandantes das diversas unidades de voluntários e dos chefes das várias formações será da competência do comandante provincial, que, no caso de se tratar de militares que não estejam em comissão civil, deverá obter a anuência do comandante a que se refere o segundo período do corpo do presente artigo, sem prejuízo do estabelecido no artigo 42.º do Estatuto do Oficial do Exército."
+  },
+  "c8c7dedc97dd798d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs comandantes de zona, sector e subsector serão assistidos, nos seus trabalhos de estudo, direcção e fiscalização, por órgãos de comando, a criar pelo governador da província, com o desenvolvimento adaptado ao respectivo escalão.\n\n§ único. Destes órgãos de comando fará parte, sempre que necessário e possível, um adjunto militar.\n\nV\n\nDo serviço dos voluntários"
+  },
+  "622c719e55aab46e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO emprego dos voluntários em cada província fixar-se-á obrigatòriamente nas áreas e localidades onde residam ou exerçam as suas actividades profissionais.\n\n§ único. Poderão ser organizadas em cada província colunas móveis para actuarem em qualquer ponto do respectivo território, consoante as necessidades resultantes da situação local, desde que haja voluntários que expressa e claramente se ofereçam para o efeito."
+  },
+  "b5f52b0942de54fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs serviços e estabelecimentos públicos do Estado ou das autarquias locais e as organizações e serviços de interesse público, bem como as empresas e estabelecimentos industriais e comerciais prèviamente classificados pelo governador como indispensáveis à vida regular da província, são obrigados, sob pena de desobediência, a assegurar, por conta própria, a autodefesa do seu pessoal e das suas instalações.\n\n§ 1.º Para os efeitos do corpo do artigo, a organização e a preparação da autodefesa serão da responsabilidade do director do serviço ou da empresa, que as levará a efeito dentro do quadro geral da hierarquia do respectivo pessoal e segundo os princípios deste decreto-lei e das normas que o regulamentarem.\n\n§ 2.º Como órgãos responsáveis pela organização e emprego dos voluntários, os comandos dos diversos escalões territoriais da organização provincial de voluntários orientarão, através de directivas, e inspeccionarão, por meio de delegados, a organização e a preparação da autodefesa, aprovarão os respectivos planos de defesa e, em caso de emergência, conduzirão todas as actividades operacionais."
+  },
+  "e16ee6cf0f0fe257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nPara funcionamento dos serviços de voluntários nas instalações portuárias, nas actividades directamente ligadas à exploração dos portos e nos navios mercantes neles ancorados, bem como nos aeroportos e estabelecimentos congéneres, nos caminhos de ferro e nos correios, telégrafos e telefones e demais actividades básicas, a organização provincial de voluntários poderá criar comandos autónomos, com a categoria de comandos de sector, na dependência directa do respectivo comando de zona para efeitos do disposto no § 2.º do artigo anterior."
+  },
+  "f91839fada531f41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs prerrogativas e deveres dos inscritos na organização provincial de voluntários e do pessoal que para ela contribua ou nela colabore serão regulados por estatuto a publicar pelo Ministro do Ultramar."
+  },
+  "a397d98b855a294b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs voluntários, quando no desempenho de missões de serviço, farão uso, obrigatòriamente, de insígnias e emblemas adequados aos serviços a que estiverem afectos e possuirão um documento de identificação."
+  },
+  "fb821801229e4da3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO serviço na organização provincial de voluntários, quando determinado superiormente, não implicará para os voluntários perda de lugar ou qualquer desconto de vencimento ou salário, quer seja empregado do Estado, quer das entidades ou empresas privadas."
+  },
+  "31c0bd0f35f17e7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPara os empregados do Estado, das organizações corporativas e das autarquias locais, e no caso de incompatibilidade de acumulação das suas funções com o serviço prestado na referida organização, este será, para todos os efeitos legais, contado como se fosse prestado no seu cargo civil.\n\n§ único. Quando se verificar o disposto no corpo deste artigo, o serviço a que pertencer o empregado poderá propor o provimento, por pessoal eventual, da vaga aberta pela saída daquele empregado, sempre que tal medida se torne indispensável."
+  },
+  "476ca1794369697a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNos casos em que importe, poderão os oficiais em serviço na organização provincial de voluntários, mediante autorização do Ministro titular do departamento a que o nomeado pertencer, ser considerados, para todos os efeitos legais, em comissão de serviço civil, sendo-lhes tornado extensivo o preceituado no artigo 3.º do [Decreto-Lei n.º 42471](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42471-1959-432023), de 23 de Agosto de 1959."
+  },
+  "482299789c59c881": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs serviços prestados, com boas informações, na organização provincial de voluntários, constituem motivo de preferência em todos os concursos públicos e no provimento de lugares públicos não sujeitos a concurso."
+  },
+  "bc18840bec32da07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs voluntários sujeitos à lei militar, quando convocados por mobilização parcial ou geral, devem apresentar-se nas unidades militares a que pertencem ou para que forem destinados no plano de mobilização, dando imediato conhecimento ao comando de voluntários do escalão a que pertencem.\n\n§ único. Os voluntários que sejam militares na disponibilidade poderão ser dispensados de apresentação nas unidades a que pertencem, em caso de convocação, se estiverem empenhados em operações activas ou se encontrarem em localidades situadas em território considerado como zona de operações ou onde tiver sido declarado o estado de guerra ou de emergência.\n\nAo comando do ramo interessado das forças armadas cabe julgar, em cada caso, daquela isenção.\n\nVI\n\nDa instrução"
+  },
+  "76513bdb1294ed13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA instrução de pessoal será ministrada, em cada província, conforme o escalão e especialidade:\n\na) Em escolas ou centros criados com essa finalidade;\n\nb) Em instituições e agremiações com personalidade jurídica que devem colaborar com as organizações provinciais de voluntários;\n\nc) Em serviços ou empresas sujeitos ao regime de autodefesa;\n\nd) Em cursos eventualmente organizados em escolas ou centros de instrução não sujeitos à autoridade da organização provincial de voluntários.\n\n§ único. As autoridades militares dos diferentes ramos das forças armadas prestarão, dentro das suas possibilidades, todo o apoio à organização provincial de voluntários no campo da instrução."
+  },
+  "d4a9fc2827294349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO treino das populações e das unidades e formações operacionais de voluntários tem como objectivo familiarizar os interessados com as condições que possam ocorrer em caso de emergência, bem como experimentar e melhorar a eficiência da organização provincial de voluntários. Para tanto, e sempre que possível, serão organizados exercícios parciais ou de conjunto, subordinados às directivas emanadas do comando provincial.\n\n§ 1.º Na realização dos exercícios a que se refere o corpo deste artigo, procurar-se-á evitar prejuízos justificados nas actividades normais da vida regular das populações ou nos serviços e organismos públicos ou privados. Todavia, poderão ser afectadas, total ou parcialmente, as actividades normais dos cidadãos e dos serviços públicos ou privados na área abrangida pelo exercício planeado, quando circunstâncias extraordinárias o impuserem ou necessidades essenciais da preparação da população o exigirem e desde que isso tenha sido autorizado pelo respectivo governador da província, ouvido o Conselho de Governo, sempre que o julgue necessário.\n\n§ 2.º Poderá também, com a mesma finalidade e nas mesmas condições, ser determinada, na área do exercício, a paralisação do tráfego de qualquer espécie, bem como a ocultação total ou parcial da iluminação pública e particular e o acesso à propriedade privada, de acordo com as normas a vigorar em tempo de guerra ou em situações de emergência.\n\n§ 3.º O pessoal abrangido pelos artigos 19.º e 20.º tomará parte obrigatòriamente nos exercícios previstos no corpo deste artigo, sempre que o comandante provincial o determine."
+  },
+  "4d80aacf96c6d104": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nSempre que as funções do governo e do comando da província não estejam reunidas, o comandante-chefe pode, autorizado pelo governador da província, inspeccionar ou mandar inspeccionar as unidades de autodefesa de voluntários, a fim de avaliar o grau de instrução dos seus componentes e o estado de eficiência das suas unidades e formações.\n\n§ 1.º Caso não exista comandante-chefe e sempre que tais inspecções interessem directamente às forças terrestres, navais ou aéreas, poderão as mesmas ser executadas pelos respectivos comandantes.\n\n§ 2.º Dos resultados de todas as inspecções constantes do presente artigo será dado conhecimento ao governador da província.\n\nVII\n\nDisposições finais"
+  },
+  "9f0fd1bf0d01ff02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nDisposições regulamentares estabelecerão as normas relativas aos meios materiais necessários à organização provincial de voluntários."
+  },
+  "cd8ae5f27e8510b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA organização provincial de voluntários, de acordo com a autoridade militar, e sem prejuízo do direito preferencial que a esta cabe, procederá ao registo das pessoas e recursos que interessem à organização e seu funcionamento.\n\n§ único. Para o efeito do corpo do artigo, as entidades oficiais e privadas de quem o pessoal dependa ou que usufruam os bens não poderão recusar as informações e facilidades necessárias à elaboração do mesmo registo, sob pena de desobediência."
+  },
+  "f493e86f43a431ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nOs cargos vagos no quadro do funcionalismo ultramarino por efeito da nomeação de funcionários para satisfazer as necessidades da organização provincial de voluntários poderão ser providos interinamente por qualquer pessoa que se encontre a prestar serviço militar na província, mediante nomeação do Ministro do Ultramar, com prévia anuência do Ministro do departamento militar respectivo.\n\n§ 1.º Com a anuência do titular do departamento militar respectivo, poderá o Ministro do Ultramar nomear provisòriamente para lugares de ingresso nos quadros técnicos os indivíduos nomeados interinamente ao abrigo do corpo deste artigo, desde que assim o tenham requerido no período da interinidade, tenham boas informações de serviço e as qualificações técnicas necessárias.\n\n§ 2.º O tempo de serviço interino nos lugares para que venham a obter nomeação provisória, nos termos do § 1.º deste artigo, contar-se-á para todos os efeitos legais."
+  },
+  "7149eb279a0853c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs voluntários com categoria correspondente a oficial das forças armadas poderão usar armas independentemente de qualquer licença de uso e porte de arma, nas condições fixadas na respectiva província.\n\n§ único. Devem ser considerados nas condições estabelecidas no corpo deste artigo os comandantes de zona, sector e subsector, os chefes e adjuntos das repartições dos comandos e os comandantes e chefes das várias unidades e formações de escalão equivalente ou superior a pelotão."
+  },
+  "d006803b7b053b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nSem prejuízo do direito concedido pela licença de uso e porte de arma, os voluntários de categoria inferior à estabelecida no artigo anterior só poderão usar armas quando no desempenho das suas funções de voluntários ou por determinação do comando provincial ou da autoridade militar a que eventualmente estejam subordinados."
+  },
+  "69fb5e5b21301698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nConsiderar-se-ão realizados em legítima defesa os actos praticados por um voluntário para prevenir ou fazer cessar uma agressão ilícita contra a pessoa ou dignidade próprias ou de outro voluntário ou contra o armamento, equipamento e quaisquer outros artigos destinados à organização a que pertence ou contra o prestígio desta ou de quaisquer outras instituições ou pessoas que o voluntário deva defender, sempre que os meios empregados sejam aqueles que os deveres dos voluntários e as circunstâncias razoàvelmente aconselhem, salvo se o voluntário tiver provocado a agressão por uma atitude contrária aos princípios da referida organização."
+  },
+  "c3dfd147867e11eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nEntender-se-ão praticados no cumprimento de uma obrigação, e por isso justificados, os actos cometidos em cumprimento de deveres dos voluntários prescritos nas leis e nos regulamentos internos da organização, salvo se houver excesso na execução, contrário aos princípios e ao espírito da mesma organização."
+  },
+  "5c3e274b544a3555": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs crimes de que forem arguidos os voluntários e constituídos por factos praticados em serviço na respectiva organização ou em razão de serviço da mesma serão instruídos e julgados pelas autoridades e tribunal militar territorial competente, segundo o Código de Justiça Militar, que se considera para este efeito aplicável aos voluntários, nos termos devidos.\n\n§ 1.º Consideram-se praticados em serviço da organização os factos realizados pelo arguido que esteja legalmente a desempenhar missões específicas da organização.\n\n§ 2.º Consideram-se cometidos em razão de serviço da organização os factos que tenham origem em quaisquer actos praticados pelo ofendido no cumprimento de deveres de inscrito na referida organização."
+  },
+  "761b1fda62136450": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nSe os factos a que se refere o artigo anterior forem cometidos por voluntários ao serviço das forças navais, serão instruídos e julgados pelas autoridades e tribunais de marinha locais, nos termos do Código de Justiça Militar, sempre que assim seja possível."
+  },
+  "a4b43baf2269160d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nPara todos os efeitos legais, considera-se automàticamente inscrito na organização provincial de voluntários de cada província todo o pessoal dos quadros dos serviços de acção psicossocial e de centralização e coordenação de informações destacado em missões específicas de reconhecida importância, com os direitos e os deveres inerentes àquela organização."
+  },
+  "aba705bdac5b74bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nPara os serviços previstos neste diploma, ficam os governadores das províncias autorizados a criar, em diploma legislativo, os seus quadros de pessoal e a proceder à abertura dos créditos necessários para fazer face ao aumento de despesa deles resultante, em contrapartida em recursos orçamentais."
+  },
+  "3c0dc245bbf923d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nPara os casos omissos no presente diploma e para a regulamentação do que nele se dispõe, os governadores das províncias deverão promover a publicação dos diplomas legislativos julgados necessários, depois de recurso ao disposto na base VIII da [Lei n.º 2051](https://diariodarepublica.pt/dr/detalhe/lei/2051-1952-603062), se o tiverem por conveniente."
+  },
+  "551f711fd1a6d251": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nNo que não estiver expressamente regulado no presente decreto-lei e nos respectivos regulamentos provinciais, aplicar-se-á, ao pessoal do quadro permanente das organizações provinciais de voluntários, o Estatuto do Funcionalismo Ultramarino."
+  },
+  "0a58541abfcc30c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nFica revogada para o ultramar toda a legislação referente a formações patrióticas de voluntários, nomeadamente o [Decreto-Lei n.º 43568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43568-1961-559467), de 28 de Março de 1961.\n\n§ único. Todo o pessoal de enquadramento, de secretaria e afim actualmente em serviço nos corpos de voluntários passará para a nova organização criada por este decreto-lei.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
+  }
+ }
+}

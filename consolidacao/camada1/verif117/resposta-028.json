@@ -1,0 +1,69 @@
+[
+ {
+  "id": "pt:dre:419781:por",
+  "artigos": [
+   {
+    "artigo": "ARTIGO: Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90 art. 2.º: nova alínea e) DSV e DPPV passa a f); resto igual ao original."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 184/90 art. 4.º revoga a alínea c) do n.º 1 e o n.º 4; aplicado como (Revogada.)/(Revogado.)."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo novo introduzido pelo art. 3.º do DL 184/90; texto igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 14.º",
+    "veredicto": "errado",
+    "motivo": "O DL 184/90 dá nova redação ao art. 14.º (epígrafe «Divisão de Protecção à Produção Vegetal» e novo texto com remissão para o n.º 2 do artigo 13.º-A). O consolidado deixa a seguir o texto antigo («n.º 4 do artigo 9.º à DV»).",
+    "texto_esperado": "###### Artigo 14.º — Divisão de Protecção à Produção Vegetal\n\nA DPPV tem as competências referidas no n.º 2 do artigo 15.º do Decreto-Lei n.º 190/86, de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DR 43/90 art. 5.º: n.º 2 com nova redação aplicada; n.º 1 ('...') mantido."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Declaração de retificação: «Vidreira do Norte» para «Videira do Norte» aplicado."
+   },
+   {
+    "artigo": "ARTIGO: Divisão de Protecção à Produção Vegetal",
+    "veredicto": "certo",
+    "motivo": "Artigo removido: o texto antigo deixa de existir como artigo autónomo (o novo texto é o do art. 14.º); o erro de o texto antigo reaparecer no art. 14.º está assinalado nesse artigo."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de retificação: retificações ao mapa I (área funcional de médico veterinário, chamada «(c)»/«(e)», técnico auxiliar 2.ª classe 3→8, eliminar «Chefe de secção» e «Capataz», motorista de ligeiros, letra K de mecânico-chefe)",
+    "motivo": "mapa I só existe em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portarias 646/88, 649/88, 378/89, Despachos Normativos 125/90, 110/91, 193/92, Portarias 1222/91, 494/93, 648/93: criação/alteração de lugares no quadro de pessoal",
+    "motivo": "alteram o quadro de pessoal do mapa I, só em imagem, sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 184/90 art. 5.º e anexo (mapa anexo I alterado) e art. 1.º (transferências)",
+    "motivo": "mapa só em imagem sem anexo com título; art. 1.º não é alteração textual do original"
+   },
+   {
+    "instrucao": "DR 43/90 art. 4.º (art. 17.º do DR 63/86), arts. 1.º-3.º, 6.º-9.º e anexos I-V",
+    "motivo": "art. 4.º é de outro diploma; os restantes não são alterações textuais ao original ou são mapas em imagem"
+   },
+   {
+    "instrucao": "DR 12/2007 (revoga DL 75/96 e DR 13/97 a 19/97)",
+    "motivo": "não contém instrução dirigida ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

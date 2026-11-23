@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:466829:por
-    title: Decreto-Lei n.º 694/74
-    publication_date: '1974-12-05'
   - id: pt:dre:404488:por
     title: Decreto-Lei n.º 553/77
     publication_date: '1977-12-31'
@@ -51,7 +48,7 @@ I - Atribuições e competência
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), publicado em 1974-12-05.
+> Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
 ###### Artigo 3.º
 
@@ -89,12 +86,6 @@ II - Serviços e organismos
 
 > Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
-###### Artigo 7.º
-
-(Revogado.)
-
-> Aditado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
-
 ###### Artigo 8.º
 
 (Revogado.)
@@ -129,7 +120,9 @@ II - Serviços e organismos
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
+III - Do pessoal
+
+> Alterado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
 ###### Artigo 14.º
 
@@ -159,7 +152,7 @@ II - Serviços e organismos
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), publicado em 1974-12-05.
+> Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
 ###### Artigo 19.º
 
@@ -213,7 +206,9 @@ II - Serviços e organismos
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
+IV - Disposições finais e transitórias
+
+> Alterado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
 ###### Artigo 28.º
 
@@ -273,7 +268,9 @@ II - Serviços e organismos
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
+MAPA II
+
+> Alterado pelo/a [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), publicado em 1977-12-31.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 

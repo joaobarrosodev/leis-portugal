@@ -28,14 +28,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2 (DL 142/2008), art. 53.º, n.º 1, b): revoga o n.º 3 do art. 2.º e os arts. 3.º a 9.º e 11.º, mas o n.º 2 do mesmo artigo adia o efeito para a entrada em vigor do plano de ordenamento da área protegida - revogação diferida, não aplicada.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo 53.º, n.º 1, alínea b), revogação do n.º 3 do artigo 2.º e dos artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 11.º: efeito adiado — o n.º 2 do artigo 53.º faz a revogação produzir efeitos só a partir da entrada em vigor do plano de ordenamento da área protegida.",
   "instrucoes": [
-    "Alt.1 art.1.º: nova redação do art. 5.º - aplicado.",
-    "Alt.1 art.2.º: adita n.º 3 ao art. 6.º e n.º 4 ao art. 8.º - aplicado.",
-    "Alt.1 art.3.º: adita art. 11.º - aplicado.",
-    "Alt.2 art.53.º: revogação com efeito diferido para os planos de ordenamento - não aplicada."
+    "Alterador 1, art. 1.º: nova redação do artigo 5.º — aplicada.",
+    "Alterador 1, art. 2.º: aditado o n.º 3 ao artigo 6.º e o n.º 4 ao artigo 8.º — aplicados, mantendo o texto atual dos números existentes.",
+    "Alterador 1, art. 3.º: aditado o artigo 11.º — aplicado.",
+    "Alterador 2, art. 53.º, n.º 1, b): revogação com efeito adiado pelo n.º 2 — não aplicada (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,61 @@
+[
+ {
+  "id": "pt:dre:402880:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. único do DL 12/92; n.os 1 a 3 iguais letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "errado",
+    "motivo": "O art. 6.º, n.º 1, do DL 294/97 revoga as bases anexas ao DL 315/91 (só ressalva a base XXIII do DL 458/85, que não é do original). O consolidado mantém em vigor todo o texto das bases I a LIV (continuam a base XVIII sem os n.os 6 a 12 do DL 193/92, a base XLIII com 2020, etc.) e acrescentou 54 linhas soltas «(Revogada.)» a seguir ao primeiro parágrafo. Também não aplica as 4 rectificações da Declaração 261/91 (base IX n.º 4 sem «b)», base XIX n.º 2 «laínea», base XXIII n.º 3 «licitações», base XXVIII n.º 6 «por estas»), nem o n.º 8 e n.º 9 da base I (DL 330-A/95, arts. 3.º e 4.º, mantidos por DL 294/97 art. 6.º/2) nem a base XVIII n.os 6-12 (DL 193/92).",
+    "texto_esperado": "Primeiro parágrafo (autorização) mantido; sem as 54 linhas soltas «(Revogada.)»; cada base I a LIV (epígrafe e números) com o corpo «(Revogada.)» por força do art. 6.º, n.º 1 do DL 294/97 (ou, no mínimo, o texto das bases com as rectificações e alterações dos DL 193/92 e 330-A/95 aplicadas, se se entender que a revogação não incide sobre este texto)."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 294/97, art. 6.º, n.º 1: revogação das bases anexas ao DL 315/91 (não aplicada; todo o texto das bases mantém-se)",
+   "Declaração de Rectificação 261/91: base IX n.º 4 («alíneas b), c) e d)»), base XIX n.º 2 («alínea i)»), base XXIII n.º 3 («solicitações»), base XXVIII n.º 6 («disponibilizadas por esta») não aplicadas",
+   "Declaração de Rectificação 261/91: publicação do título «ANEXO I — Bases do contrato de concessão» e da relação das bases: «alvo incerto» não é justificação (o título do anexo das bases pertence antes da Base I); o consolidado tem 54 linhas «(Revogada.)» em vez da relação/título",
+   "DL 193/92, base XVIII n.os 6 a 12 (nova redação; multa, auto de notícia, equipamentos): não aplicada, a base XVIII continua com n.os 1-7 antigos",
+   "DL 330-A/95, art. 3.º: aditamento do n.º 8 à base I: não aplicado",
+   "DL 330-A/95, art. 4.º: aditamento do n.º 9 à base I (alterado pelo DL 314-A/2002, art. 4.º): não aplicado",
+   "DL 330-A/95, art. 6.º: base XLIII passa a «31 de Dezembro do ano 2025»: não aplicado (consolidado diz 2020)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "RCM 46/93: ampliação da concessão ao lanço Malveira-Torres Vedras",
+    "motivo": "não é textual (ampliação do objecto)"
+   },
+   {
+    "instrucao": "DL 330-A/95, art. 7.º, al. a): exoneração de reembolso do empréstimo do art. 3.º, n.º 2",
+    "motivo": "não é textual, medida financeira"
+   },
+   {
+    "instrucao": "DL 81/96: ampliação da concessão aos sublanços da A 6 e A 12",
+    "motivo": "não é textual"
+   },
+   {
+    "instrucao": "DL 294/97, art. 4.º: remissões do DL 130/93 e Portaria 762/93 para a base XVIII",
+    "motivo": "instrução de outros diplomas"
+   },
+   {
+    "instrucao": "DL 474-A/99 (Lei Orgânica do XIV Governo)",
+    "motivo": "sem instrução dirigida ao original"
+   },
+   {
+    "instrucao": "DL 314-A/2002, arts. 1.º, 4.º n.º 2 e anexos I e II",
+    "motivo": "alteram as bases do DL 294/97, outro diploma"
+   },
+   {
+    "instrucao": "DL 314-A/2002, art. 4.º, n.º 1: repristinação do regime de portagem da al. h) do n.º 1 da base I",
+    "motivo": "revoga art. 4.º do DL 330-A/95 (outro diploma); repristinação não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

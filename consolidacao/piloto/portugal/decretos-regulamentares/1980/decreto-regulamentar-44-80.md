@@ -51,13 +51,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 > Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
-###### Artigo 3.º — Estrutura dos serviços centrais operativos
+###### Artigo 3.º — Estrutura dos serviços operativos
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
-
-##### Divisão de Móveis;
 
 Divisão de Imóveis.
 
@@ -101,13 +99,11 @@ d) Direcção de Serviços de Gestão de Veículos do Estado.
 
 > Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
-###### Artigo 7.º
+###### Artigo 7.º — Divisão Técnica de Obras e Avaliação
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
-
-##### Divisão Técnica de Obras e Avaliação
 
 À Divisão Técnica de Obras e Avaliação incumbe:
 
@@ -195,11 +191,7 @@ b) Vistoriar os prédios do Estado, pronunciar-se sobre as obras de que careçam
 
 (Revogado.)
 
-SUBSEÇÇÃO II
-
-Pessoal técnico superior
-
-> Alterado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 18.º — Provimento
 
@@ -249,7 +241,7 @@ Pessoal técnico superior
 
 ##### SUBSECÇÃO II — Determinação do mérito dos candidatos para efeitos de promoção
 
-###### Artigo 24.º — Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.
+###### Artigo 24.º
 
 (Revogado.)
 
@@ -385,7 +377,7 @@ Pessoal técnico superior
 
 (Revogado.)
 
-> Alterado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
+> Revogado pelo/a [Decreto Regulamentar n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429), publicado em 2007-03-29.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "pt:dre:444725:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 4.º do DL 486/75; título mantido e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 4.º do DL 486/75; corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 5.º do DL 598/74; corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º ...",
+    "veredicto": "certo",
+    "motivo": "Citação do § 1.º do art. 1.º do Decreto 20181 que fazia parte do art. 2.º revogado; removido com ele, correto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 598/74 arts. 1.º a 4.º, 6.º, 7.º e DL 486/75 arts. 1.º a 3.º e revogação do § 1.º do art. 1.º do Decreto 20181",
+    "motivo": "não alteram o texto do original (outros diplomas ou normas autónomas)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:453227:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DR 31/84 art. 2.º: nova redação (1982 -> 1983), igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DR 31/84: n.os 1 a 3 novos, igual letra a letra; «Taxa» é título do original que se mantém.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DR 31/84: proémio original mantido (Art. 7.º ...), alíneas a), c), d), e) novas, b) original; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DR 31/84: 31 de Dezembro de 1988, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DR 31/84: n.º 1 alíneas a) e b) novas, c) a e) originais; n.os 2 e 3 originais; igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 75/88 art. único n.º 4: datas «previstas no Decreto Regulamentar n.º 119-A/83» passam a 1987 (arts. 1.º e 7.º c)), 1988 (art. 7.º e)) e 1992 (art. 12.º); redigida como substituição de datas, mas citando diploma errado e para o imposto de 1987 - alvo incerto; se aplicada, arts. 1.º, 7.º e 12.º ficariam com essas datas"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 75/88 art. único n.os 1 e 2: manutenção do imposto para 1987 e adaptações do art. 33.º do DL 119-A/83",
+    "motivo": "não textual / outro diploma"
+   },
+   {
+    "instrucao": "DL 75/88 art. único n.º 3 a) e b): taxa do art. 6.º para 2,5%, data do art. 7.º e) e período do art. 15.º b)",
+    "motivo": "adaptações do regime para o imposto de 1987, sem nova redação dos preceitos (não textual)"
+   },
+   {
+    "instrucao": "DR 31/84 art. 1.º e 3.º",
+    "motivo": "não textuais (aplicação do regime a 1983; entrada em vigor)"
+   }
+  ]
+ }
+]

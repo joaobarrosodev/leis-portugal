@@ -1,0 +1,285 @@
+[
+ {
+  "id": "pt:dre:516068:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º § 2.º a) (DL 49483) e b) (DL 209/75): texto letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º § 2.º d) (DL 237/70), e) (DL 98/88, repõe a alínea eliminada pelo DL 198/82) e f) (DL 297/79/183-D/80): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º §§ 1.º (DL 183-D/80), 2.º (DL 46369) e 3.º (DL 198/82, renumerado; § 4.º eliminado pelo DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º b) (DL 312/76) e c) (DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º f), g) (DL 198/82) e i) (DL 415/87, art. 8.º): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º a), b), c) revogadas pelo DL 415/87, art. 7.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º g) revogada pelo DL 415/87, art. 7.º (texto antigo desaparece).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º i) (DL 45977), §§ 1.º e 3.º revogados (DL 415/87), § 2.º (DL 48316, com o 'exercido' do original), art. 5.º 410000$00 (DL 98/88): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "dúvida",
+    "motivo": "Art. 6.º corpo (DL 183-D/80) e § 1.º (substituição 'secção' por 'repartição', DL 45400 art. 9.º) conferem. Única reserva: a última frase mantém 'Secção de Finanças do 3.º bairro fiscal' com maiúsculas; a substituição do DL 45400 é de 'secção de finanças' em minúsculas, pelo que é ambíguo se a ocorrência capitalizada devia mudar.",
+    "texto_esperado": "... Em todos os mais casos, a entrega far-se-á na Repartição de Finanças do 3.º bairro fiscal de Lisboa. (se a substituição abranger a forma capitalizada)"
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Arts. 6.º §§ 3.º-4.º (DL 413/87, 98/88), 6.º-A (DL 180/84), 7.º (DL 180/84, 138/78), 7.º-A (DL 138/78, 183-D/80), 7.º-B (DL 183-D/80), 8.º (DL 312/76, 183-D/80, 98/88), 9.º (DL 312/76) e corpo do art. 10.º (DL 183-D/80): letra a letra e sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 10.º n.º 1.º a) e b) (DL 183-D/80): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 10.º d) a p), n.º 2.º, §§ 1.º a 4.º (DL 183-D/80, 198/82 alínea n), 98/88), 10.º-A (DL 413/87), 11.º (DL 413/87), 12.º e 13.º (DL 209/75, 667/76, 180/84) e corpo do 15.º: letra a letra. Alínea o) e alínea b) do art. 11.º sem texto em qualquer alterador (marcador '...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º (DL 209/75, 46369, 138/78, 180/84), 16.º, 17.º (DL 209/75, 180/84) e 18.º (DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 19.º § 2.º (DL 312/76): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º corpo e §§ 1.º-3.º (DL 209/75, 312/76), §§ 4.º-7.º (DL 180/84): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º (DL 98/88, imagem do próprio alterador) com §§ 1.º e 2.º (DL 183-D/80); art. 22.º eliminado (DL 49483); arts. 23.º e 24.º revogados (DL 718/73).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Art. 25.º (DL 45400 art. 9.º) e art. 26.º corpo e alínea a) (DL 49483, DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Arts. 26.º §§ 1.º-4.º, 27.º (DL 198/82), 27.º-A (DL 180/84), 28.º (DL 180/84), 29.º (DL 324/81, 180/84, 415/87), 30.º, 31.º revogado (DL 138/78), 32.º, 33.º, 34.º: letra a letra, sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Arts. 36.º (substituição 'secção' por 'repartição'; § único suprimido pelo DL 45400 art. 2.º), 37.º (DL 209/75) e 38.º (DL 198/82): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 39.º § único (substituição de 'secção' por 'repartição') e art. 40.º com § único (DL 180/84): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Art. 43.º-A aditado pelo DL 180/84 art. 2.º: letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Art. 44.º c) (DL 180/84), 44.º-A (DL 180/84) e 45.º (DL 180/84): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Art. 45.º-A aditado pelo DL 180/84 art. 2.º: texto letra a letra. A vista não mostra se fica no capítulo VII 'Fiscalização' como o diploma manda (posição em relação ao título do capítulo não verificável).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Arts. 47.º (DL 180/84, 198/82 § 3.º, 209/75), 48.º, 49.º (DL 180/84) e 50.º: letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Art. 50.º § único (DL 209/75), 50.º-A (DL 413/87), 51.º, 52.º com § único (DL 413/87) e 53.º (DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Art. 54.º § 1.º (DL 45400): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Arts. 54.º-A (DL 312/76) e 54.º-B (DL 180/84) aditados: letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Art. 55.º corpo (DL 198/82) e §§ 1.º-2.º (DL 297/79, 183-D/80): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Art. 57.º corpo (DL 45400) e § 1.º com 18% (DL 198/82): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Art. 59.º corpo (DL 180/84), §§ 1.º-2.º (DL 183-D/80) e § 3.º (DL 198/82): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Arts. 61.º e 62.º (DL 98/88, DL 312/76): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Art. 64.º (DL 413/87): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Arts. 66.º, 67.º (DL 138/78) e 68.º (DL 209/75): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Arts. 73.º e 74.º com § 1.º (DL 45400): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "certo",
+    "motivo": "Art. 77.º: substituição 'secções' por 'repartições' (DL 45400 art. 9.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Art. 79.º (DL 45400) com § único e art. 79.º-A (DL 198/82): letra a letra; §§ 1.º-2.º antigos removidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Art. 81.º: substituição 'secção' por 'repartição' (DL 45400 art. 9.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "certo",
+    "motivo": "Arts. 83.º (DL 98/88) e 84.º (DL 45400 art. 9.º): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Art. 84.º-A (DL 198/82) e art. 85.º (substituição 'secções' por 'repartições'): letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "certo",
+    "motivo": "Tabela anexa substituída pelo DL 98/88 art. 2.º: endereço da imagem do alterador.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Resolução n.º 62/79: declara a inconstitucionalidade da al. e) do § 2.º do art. 1.º",
+    "motivo": "não textual: declaração de inconstitucionalidade sem nova redação (a alínea foi eliminada pelo DL 198/82 e reposta pelo DL 98/88)"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 375/74 (alterador sem texto na vista)",
+    "motivo": "o diploma que altera não traz o texto da alteração; confirmado na vista (secção vazia)"
+   },
+   {
+    "instrucao": "Lei n.º 2/88 (alterador sem texto na vista)",
+    "motivo": "o diploma que altera não traz o texto da alteração; confirmado na vista (secção vazia)"
+   },
+   {
+    "instrucao": "DL 180/84, art. 4.º: criação das declarações modelos n.º 1, 5 e 5-A, que passam a fazer parte do Código",
+    "motivo": "os modelos não vêm no texto do alterador (só imagem/anexos) e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DL 180/84, art. 5.º: referência ao modelo n.º 1 passa a entender-se como modelo n.º 5",
+    "motivo": "não textual: mudança de designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 198/82, art. 28.º § 2.º (autoliquidação, rendimento global)",
+    "motivo": "o art. 28.º tinha sido eliminado pelo DL 209/75 e só foi reposto, por inteiro e com nova redação, pelo DL 180/84, art. 28.º, que se aplicou; sem efeito autónomo"
+   },
+   {
+    "instrucao": "DL 413/87, art. 11.º alínea b) («b) ...»); DL 98/88, art. 10.º n.º 1.º alínea o) («o) ...»)",
+    "motivo": "o alterador só traz o marcador «...» sem texto, e nenhum alterador do pedido traz essas alíneas; não há nova redação a aplicar"
+   },
+   {
+    "instrucao": "DL 198/82, 180/84 e 98/88, art. 5.º «§ 1.º ...» e «§ 2.º ...»",
+    "motivo": "marcadores sem texto; o art. 5.º só tem § único e nenhum alterador do pedido traz os §§ 1.º e 2.º; nada a aplicar"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

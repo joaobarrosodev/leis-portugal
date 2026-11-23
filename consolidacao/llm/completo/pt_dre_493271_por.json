@@ -525,34 +525,28 @@
     }
   ],
   "removidos": [],
-  "titulos": [
-    {
-      "atual": "##### SUBSECÇÃO VI — Pessoal técnico superior",
-      "novo": "##### SUBSECÇÃO VI — Pessoal técnico superior e técnico",
-      "alterador": 4
-    }
-  ],
+  "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, retificação dos artigos 21.º e 42.º do Decreto-Lei n.º 408/93: outro diploma (só a retificação da alínea b) do artigo 57.º toca o original e foi aplicada na revogação do alterador 12).\nAlterador 2, retificação do mapa I (técnico verificador tributário, desenhador, telefonista): só em imagem; o mapa I só existe em imagem e não há título de anexo no texto atual.\nAlterador 3, distribuição do pessoal do quadro pelos mapas I a III da portaria: só em imagem; os mapas só vêm em imagem e não há título de anexo no texto atual.\nAlterador 4, artigo 3.º, alteração do mapa I anexo: só em imagem; o mapa novo só vem em imagem e não há título de anexo no texto atual.\nAlterador 5, aumento do quadro geral do pessoal com os lugares do mapa I da portaria: só em imagem; o mapa só vem em imagem e não há título de anexo no texto atual.\nAlterador 7, artigo 3.º, aumento do quadro de pessoal dirigente aprovado pelo Decreto Regulamentar n.º 16/85: outro diploma.\nAlterador 12, artigo 55.º, n.º 2 (nova redação do artigo 52.º): sem texto; o alterador não traz a nova redação do artigo 52.º.\nAlterador 13, artigo 1.º (nova redação do artigo 55.º do Decreto-Lei n.º 408/93, que dá a redação do artigo 52.º só com reticências): outro diploma; a redação do artigo 52.º que transcreve não muda nenhuma unidade do texto atual.",
+  "nao_aplicavel": "Alterador 2, retificação do mapa I (pessoal técnico de fiscalização tributária, desenhador e telefonista): só em imagem: o mapa I só existe em imagem no texto atual, dentro do artigo 136.º, sem título de anexo.\nAlterador 3, Portaria n.º 875/83, distribuição do pessoal do quadro pelos mapas I a III anexos: não textual: contingenta o pessoal, não altera o texto do original; os mapas só vêm em imagem.\nAlterador 4, art. 3.º, alteração do mapa I anexo conforme o mapa anexo: só em imagem: o mapa I não tem título de anexo no texto atual.\nAlterador 4, epígrafe «SUBSECÇÃO VI — Pessoal técnico superior e técnico» reproduzida antes do art. 55.º: alvo incerto: o art. 1.º só manda alterar os artigos 39.º, 40.º, 47.º, 55.º, 66.º, 108.º, 109.º e 118.º, não a epígrafe da subsecção; fica o título atual.\nAlterador 5, Portaria n.º 755/85, aumento do quadro geral com os lugares do mapa I: só em imagem: o mapa só vem em imagem e o quadro do original não tem título de anexo no texto atual.\nAlterador 7, art. 3.º, aumento do quadro de pessoal dirigente aprovado pelo Decreto Regulamentar n.º 16/85: outro diploma.\nAlterador 12, art. 55.º, n.º 2, nova redação do artigo 52.º: sem texto: o alterador vem sem a nova redação; o alterador 13 repete o artigo 52.º só com «...», que remete para essa redação; fica o texto atual.",
   "instrucoes": [
-    "Alterador 1: retifica a alínea b) do artigo 57.º do DL 408/93 (revogação do artigo 105.º exceto o n.º 1, alínea a)); aplicado na revogação do alterador 12.",
-    "Alterador 2: retificação dos artigos 4.º, 15.º, 51.º, 62.º, 86.º, 100.º, 105.º e 107.º; só a do 86.º, alínea b), fica no texto, os outros artigos foram depois revogados pelo alterador 12; mapa I em nao_aplicavel.",
-    "Alterador 3: mapas de distribuição do pessoal só em imagem; nao_aplicavel.",
-    "Alterador 4: nova redação dos artigos 39.º, 40.º, 47.º, 55.º, 66.º, 108.º, 109.º e 118.º e da epígrafe da subsecção VI; só ficam o 118.º, n.º 1, e o título da subsecção VI; os outros foram depois revogados (39.º pelo alterador 11, os restantes pelo 12).",
-    "Alterador 5: aumento do quadro com mapa em imagem; nao_aplicavel.",
-    "Alterador 6: nova redação do artigo 76.º; depois revogado pelo alterador 10.",
-    "Alterador 7: nova redação dos artigos 5.º e 65.º; ambos revogados depois pelo alterador 12 (epígrafes novas mantidas).",
-    "Alterador 8: nova redação do n.º 2 do artigo 83.º; aplicado.",
-    "Alterador 9: nova redação do n.º 5 do artigo 48.º; aplicado.",
-    "Alterador 10: artigo 14.º revoga o artigo 76.º (sem prejuízo da aplicação no artigo 8.º); aplicado como (Revogado.).",
-    "Alterador 11: n.º 3 revoga os artigos 39.º, 41.º, 42.º e 128.º; aplicado.",
-    "Alterador 12: artigo 57.º, alínea b), retificada, revoga os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, 49.º, 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 104.º, 105.º exceto n.º 1 alínea a), 106.º a 109.º e 111.º a 114.º, as alíneas a) e b) do n.º 1 do 48.º e as alíneas b) e d) do 50.º; aplicado (o artigo 3.º fica só com (Revogado.)). Nova redação do artigo 52.º sem texto: nao_aplicavel.",
-    "Alterador 13: altera o DL 408/93 e o DL 187/90; nada do original a aplicar.",
-    "Alterador 14: artigo 50.º, alínea i), revoga a alínea a) do n.º 1 do artigo 105.º, a única parte que restava; o artigo 105.º fica (Revogado.)."
+    "Alterador 1 (retificação do DL 408/93): art. 57.º, al. b), passa a revogar 98.º a 104.º, 105.º exceto o n.º 1, al. a), e 106.º a 109.º; aplicado na leitura do alterador 12.",
+    "Alterador 2 (retificação do original): 4.º, 15.º, 51.º, 62.º, 100.º, 105.º e 107.º são revogados depois pelo alterador 12; 86.º, al. b), «Administração Fiscal» aplicado; mapa I em nao_aplicavel.",
+    "Alterador 3: Portaria de distribuição do pessoal; nao_aplicavel.",
+    "Alterador 4: 39.º, 40.º, 47.º, 55.º, 66.º, 108.º e 109.º alterados e depois revogados (alteradores 11 e 12; 108.º fica com a epígrafe do alterador 4); 118.º, n.º 1, nova redação aplicada; mapa I e epígrafe da subsecção VI em nao_aplicavel.",
+    "Alterador 5: aumento do quadro em mapa; nao_aplicavel.",
+    "Alterador 6: nova redação do 76.º, depois revogado pelo alterador 10.",
+    "Alterador 7: nova redação dos 5.º e 65.º, depois revogados pelo alterador 12.",
+    "Alterador 8: 83.º, n.º 2, nova redação aplicada.",
+    "Alterador 9: 48.º, n.º 5, nova redação aplicada (com as al. a) e b) do n.º 1 revogadas pelo alterador 12).",
+    "Alterador 10: art. 14.º revoga o 76.º: (Revogado.).",
+    "Alterador 11: n.º 3 revoga 39.º, 41.º, 42.º e 128.º: (Revogado.).",
+    "Alterador 12: art. 57.º, al. b), retificada: revogados 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, 49.º, 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 104.º, 105.º exceto n.º 1 al. a), 106.º a 109.º, 111.º a 114.º; al. a) e b) do n.º 1 do 48.º e al. b) e d) do 50.º revogadas; nova redação do 52.º sem texto (nao_aplicavel); art. 10.º do DL 187/90 é de outro diploma.",
+    "Alterador 13: altera o DL 408/93 e o DL 187/90 (outro diploma); o 52.º do original vem só com «...»: sem mudança.",
+    "Alterador 14: art. 50.º, al. i), revoga o n.º 1, al. a), do 105.º, a única parte que restava: 105.º fica (Revogado.)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "86.º: parágrafo que não está no alterador nem no original: b) Dirigir os serviços distritais da Administração Fiscal;"
   ],

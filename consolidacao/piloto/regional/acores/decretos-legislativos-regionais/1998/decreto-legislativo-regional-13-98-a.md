@@ -6,6 +6,9 @@ consolidacao:
   metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:513629:por
+    title: Declaração de Rectificação n.º 16-B/98
+    publication_date: '1998-09-30'
   - id: pt:dre:55021042:por
     title: Decreto Legislativo Regional n.º 13/2014/A
     publication_date: '2014-07-24'
@@ -198,6 +201,8 @@ d) Dois representantes da AMRAA.
 1 - Poderão ser criadas bolsas de estudo destinadas à investigação relacionada com a baleação açoriana, com a biologia e conservação dos cetáceos em águas açorianas, com o artesanato respeitante à actividade, bem como para a aprendizagem de reparação e construção de embarcações baleeiras.
 
 2 - A avaliação das candidaturas a bolseiro será feita pela comissão referida no n.º 1 do artigo 12.º.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-B/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-b-1998-513629), publicado em 1998-09-30.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2014-55021042), publicado em 2014-07-24.
 

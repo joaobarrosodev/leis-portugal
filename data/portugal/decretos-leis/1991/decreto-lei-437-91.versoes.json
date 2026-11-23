@@ -114,6 +114,12 @@
      "title": "Decreto-Lei n.º 248/2009",
      "published": "2009-09-22",
      "dre_path": "/dr/detalhe/decreto-lei/248-2009-490413"
+    },
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
     }
    ],
    "changes": [
@@ -176,7 +182,8 @@
     "Altera Artigo 44.º",
     "Altera Artigo 48.º",
     "Altera Artigo 56.º",
-    "Revoga Artigo 16.º"
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 55"
    ],
    "fragments": [
     "23fe0a68ef4fbd6b",
@@ -245,7 +252,7 @@
     "e437f0edba5f9dc4",
     "e98ca64ff58c79c0",
     "9fbaf5b6df6b07f0",
-    "d095e99caeb15343",
+    "93539c29800e61e5",
     "2b7b94118b12dea2",
     "14744b6233415a2b",
     "5196c0ff475f8e91",
@@ -1388,6 +1395,16 @@
     "Alterado pelo/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30."
    ],
    "markdown": "###### Artigo 48.º — Avaliadores para atribuição da menção qualitativa\n\n1 - A avaliação do desempenho dos enfermeiros só pode ser feita por enfermeiros.\n\n2 - Os enfermeiros avaliadores devem possuir categoria superior à do avaliado, podendo, excepcionalmente, ser designado enfermeiro avaliador de categoria igual à do avaliado.\n\n3 - A avaliação do desempenho dos enfermeiros de categorias da área da prestação de cuidados é efectuada pelo enfermeiro-chefe como primeiro avaliador, sendo o segundo avaliador destas categorias profissionais o enfermeiro-supervisor de quem depende funcionalmente o enfermeiro-chefe.\n\n4 - A avaliação do desempenho do enfermeiro-chefe é efectuada pelo enfermeiro-supervisor de quem este depende funcionalmente, sendo o segundo avaliador outro enfermeiro-supervisor da instituição designado pelo órgão de gestão ou o enfermeiro director.\n\n5 - A avaliação do desempenho do enfermeiro-supervisor é efectuada pelo enfermeiro-director.\n\n6 - A avaliação do desempenho do assessor técnico de enfermagem é efectuada pelo assessor técnico de enfermagem que exercer funções de enfermeiro-director.\n\n7 - O enfermeiro-director e o assessor de enfermagem não estão sujeitos à avaliação do desempenho nos termos previstos neste diploma.\n\n8 - Quando não existirem dois enfermeiros avaliadores nas condições previstas nos números anteriores, a avaliação será efectuada apenas por um dos enfermeiros, desde que sejam respeitados os demais condicionalismos previstos neste artigo.\n\n9 - Pelo menos um dos avaliadores tem de possuir, no mínimo, um ano de contacto funcional com o enfermeiro avaliado.\n\n10 - Os enfermeiros avaliadores podem, no caso de não terem tido contacto funcional com o enfermeiro avaliado durante todo o triénio, solicitar ao avaliado que comprove as actividades que refere no relatório crítico.\n\n> Alterado pelo/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30."
+  },
+  "93539c29800e61e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Regime de horário acrescido",
+   "in_force_from": "2009-09-23",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29, com efeitos a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 55.º — Regime de horário acrescido\n\n1 - Consideradas as necessidades dos serviços, poderá, por despacho ministerial, ser autorizada a aplicação deste regime, até um máximo de 30% do número total dos lugares de enfermeiro previstos no quadro da instituição, mediante critérios de selecção a divulgar previamente.\n\n2 - Em casos excepcionais, pode esta percentagem ser ultrapassada, mediante proposta fundamentada do órgão máximo de gestão e aprovada por despacho ministerial.\n\n3 - A esta modalidade de trabalho corresponde um acréscimo remuneratório de 37% da remuneração base, o qual só é devido em situação de prestação efectiva de trabalho.\n\n4 - A afectação a este regime depende de declaração escrita do enfermeiro manifestando a sua disponibilidade para o efeito.\n\n5 - Este regime poderá ser retirado com fundamento em deficiente cumprimento das obrigações do enfermeiro, se houver modificação na sua situação funcional ou se cessarem as necessidades que o determinaram, observando-se o prazo de 60 dias.\n\n6 - Os enfermeiros podem renunciar ao regime de horário acrescido com pré-aviso de seis meses.\n\n7 - A remuneração referida no n.º 3 deste artigo releva para efeitos de pagamento dos subsídios de férias e de Natal.\n\n8 - (Revogado.)\n\n9 - Para efeitos de fixação da pensão de aposentação, a remuneração atribuída em função deste regime é considerada nos termos do Estatuto da Aposentação.\n\n10 - Aos enfermeiros com idade superior a 55 anos que venham praticando este regime há, pelo menos, cinco anos será concedida, se a requererem, redução de uma hora em cada ano no horário de trabalho semanal, até que o mesmo perfaça as trinta e cinco horas, sem perda de regalias.\n\n> Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29, com efeitos a partir de 2006-01-01."
   },
   "2b7b94118b12dea2": {
    "fragment_id": null,

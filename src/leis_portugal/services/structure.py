@@ -28,7 +28,19 @@ from leis_portugal.domain.articles import Article, number_slug, parse_articles
 from leis_portugal.domain.entry_into_force import extract
 from leis_portugal.domain.history import render_version, version_at
 from leis_portugal.domain.record import Relationship
-from leis_portugal.domain.validity import Repeal, identity, label_scope, propose, repeals_in
+from leis_portugal.domain.validity import (
+    INFERRED_RULE,
+    INFERRED_SOURCE,
+    INFERRED_TYPES,
+    Repeal,
+    identity,
+    inferred_exclusion,
+    label_scope,
+    limited_text,
+    propose,
+    repeals_in,
+    temporary_summary,
+)
 from leis_portugal.infrastructure.markdown import read_markdown_record, write_if_changed
 from leis_portugal.infrastructure.markdown import render_markdown as render_record
 from leis_portugal.infrastructure.repository import PORTUGUESE_SCOPES, Acervo
@@ -106,6 +118,9 @@ def analyse(path: str, root: str) -> dict[str, Any] | None:
             else metadata.get("legal_status") or "unknown"
         ),
         "proven_status": bool(metadata.get("legal_status_basis")),
+        # Para a vigência inferida (`INFERRED_RULE`): o sumário inteiro e o corpo, que não ficam na linha.
+        "temporary_summary": temporary_summary(metadata.get("summary")),
+        "limited_text": quality == "texto" and metadata.get("document_type") in INFERRED_TYPES and limited_text(body),
         "version_kind": (metadata.get("version") or {}).get("kind"),
         "text_quality": quality,
         "units": unit_kind(articles),
@@ -165,6 +180,8 @@ class StructureReport:
     manual: list[ManualProof] = field(default_factory=list)
     # Provas de revogação total lidas no texto de diplomas que o DRE dá em vigor, com os sinais e o segmento.
     against_dre: list[dict[str, Any]] = field(default_factory=list)
+    # Diplomas de vigência desconhecida dados como em vigor por inferência (`INFERRED_RULE`).
+    inferred: list[dict[str, Any]] = field(default_factory=list)
 
 
 def _status_group(status: str) -> str:
@@ -422,6 +439,7 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     segments: Counter[str] = Counter()
     segments_by_type: Counter[tuple[str, str]] = Counter()
     proposed_against_dre = 0
+    not_inferred: Counter[str] = Counter()
     for row in rows:
         relations = row["relations"]
         eif = row["entry_into_force"] or {}
@@ -467,6 +485,19 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
         categories[proposal.category] += 1
         if proposal.status:
             proposed[proposal.status] += 1
+        outside = inferred_exclusion(
+            status=row["legal_status"], category=proposal.category, has_evidence=bool(proposal.evidence),
+            document_type=row["document_type"], series=row["series"], publication_date=row["publication_date"],
+            text_quality=row["text_quality"], temporary=bool(row.get("temporary_summary")), limited=bool(row.get("limited_text")),
+            entry_date=eif.get("date"), today=today,
+        )
+        if outside is None:
+            report.inferred.append({
+                "id": row["id"], "path": row["path"], "title": row["title"], "document_type": row["document_type"],
+                "publication_date": row["publication_date"],
+            })
+        elif outside != "fora_do_universo":
+            not_inferred[outside] += 1
         if proposal.evidence or proposal.category == "retificacao":
             report.proposals.append({"id": row["id"], "path": row["path"], **proposal.to_dict()})
 
@@ -489,6 +520,14 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
         "revogacoes_lidas_no_texto": sum(len(items) for items in text_repeals.values()),
         "diplomas_revogados_no_texto": len(text_repeals),
         "precisao_nos_estados_conhecidos": precision,
+        "inferidos_em_vigor": {
+            "regra": INFERRED_RULE,
+            "fonte": INFERRED_SOURCE,
+            "diplomas": len(report.inferred),
+            "por_tipo": dict(sorted(Counter(item["document_type"] for item in report.inferred).items())),
+            "fora_da_regra": dict(sorted(not_inferred.items())),
+            "amostra_verificada": INFERRED_SAMPLE,
+        },
         "texto_contra_dre": {
             "diplomas": len(against_dre),
             "provas": against_dre_proofs,
@@ -518,6 +557,21 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
 # - `depois_da_segunda`: a regra final (série citada, repristinação, "à data da entrada em vigor das
 #   portarias…", juntados depois de medir) na mesma amostra: otimista.
 # Um segmento só se aplica sem prova manual com precisão ponderada >= `limiar`; nenhum chegou.
+# Amostras ao acaso dos diplomas que a regra da vigência inferida aceita, conferidas uma a uma: o registo
+# pedido ao DRE no dia (estado e relações «revogado por»), todos os parágrafos de diplomas posteriores do
+# acervo que citam o diploma junto de «revog», «caduc» ou «cessa», e o sumário. `erros`: diplomas aceites
+# pela regra que afinal têm revogação, caducidade ou vigência limitada. Listas em
+# `reports/camada-1-falhas-de-dados/vigencia-amostra.jsonl`. `limite_superior_95`: limite unilateral exato (binomial).
+# Três amostras (150 + 150): 283 diplomas aceites pela regra de então; 0 com revogação; 1 com vigência limitada
+# por natureza (Lei n.º 51/2023, política criminal para o biénio de 2023-2025, já findo). O sumário passou depois a
+# excluir biénios, planos anuais e períodos com anos; a regra de hoje aceita um subconjunto do que foi medido.
+INFERRED_SAMPLE: dict[str, Any] = {
+    "data": "2026-11-20", "sementes": [20261120, 20261121, 20261122], "conferidos": 300, "aceites_pela_regra": 283,
+    "revogados": 0, "erros": 1, "limite_superior_95": 0.017,
+    "erro": "Lei n.º 51/2023: lei de política criminal para o biénio de 2023-2025, já findo; a regra do sumário foi alargada depois",
+}
+
+
 AGAINST_DRE_SAMPLE = {
     "limiar": 0.98,
     "primeira": {"data": "2026-11-13", "amostra": 113, "certos": 78, "errados": 33, "duvidas": 2},
@@ -653,8 +707,10 @@ def run(
     today: str | None = None,
     validation_sample: int = 300,
     limit: int | None = None,
+    infer: bool = True,
     progress: Progress = _silent,
 ) -> StructureReport:
+    """`infer=False` desliga a vigência inferida: os estados inferidos já gravados voltam a `unknown` na escrita."""
     today = today or date.today().isoformat()
     rows = read_rows(acervo, workers=workers, limit=limit, progress=progress)
     progress(f"Registos lidos: {len(rows)}")
@@ -664,6 +720,8 @@ def run(
     report.summary["vigencia"]["provas_manuais"] = len(report.manual)
     if report.manual:
         progress(f"Provas manuais de vigência: {len(report.manual)} ({MANUAL_FILE})")
+    settle_inferred(report, excluded=({proof.id for proof in report.manual} | reviewed_ids(acervo.root / REVIEWED_FILE)) if infer else None)
+    progress(f"Vigência inferida ({INFERRED_SOURCE}): {len(report.inferred)} diplomas")
     if validation_sample:
         progress(f"A validar o parser em {validation_sample} consolidados…")
         report.validation = validate_consolidated(acervo, rows, sample=validation_sample)
@@ -687,6 +745,7 @@ class ApplySummary:
     legal_status: int = 0
     withdrawn: int = 0
     manual: int = 0
+    inferred: int = 0
     updated: int = 0
     changed_paths: list[Path] = field(default_factory=list)
 
@@ -760,6 +819,39 @@ def check_manual(acervo: Acervo, rows: list[dict[str, Any]], proofs: list[Manual
     return proofs
 
 
+# Diplomas cuja vigência outra revisão já julgou (auditoria da consolidação): a inferência não lhes toca.
+REVIEWED_FILE = "consolidacao/auditoria/vigencia-revista.jsonl"
+
+
+def reviewed_ids(path: Path) -> set[str]:
+    if not path.is_file():
+        return set()
+    ids: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            record_id = json.loads(line).get("id")
+            if record_id:
+                ids.add(record_id)
+    return ids
+
+
+def settle_inferred(report: StructureReport, *, excluded: set[str] | None) -> None:
+    """Tira da lista os diplomas com prova manual ou vigência já revista; `excluded=None` desliga a regra."""
+    summary = report.summary["vigencia"]["inferidos_em_vigor"]
+    before = len(report.inferred)
+    report.inferred = [] if excluded is None else [item for item in report.inferred if item["id"] not in excluded]
+    summary["ligada"] = excluded is not None
+    if excluded is not None and before != len(report.inferred):
+        summary["fora_da_regra"]["com_prova_manual_ou_vigencia_revista"] = before - len(report.inferred)
+    summary["diplomas"] = len(report.inferred)
+    summary["por_tipo"] = dict(sorted(Counter(item["document_type"] for item in report.inferred).items()))
+
+
+def inferred_basis() -> dict[str, Any]:
+    """`legal_status_basis` de um estado inferido: sem provas (não há), com a regra e o estado da fonte."""
+    return {"source": INFERRED_SOURCE, "inferred": True, "dre_status": "unknown", "rule": INFERRED_RULE, "evidence": []}
+
+
 def manual_basis(proof: ManualProof, dre_status: str) -> dict[str, Any]:
     """`legal_status_basis` de uma prova manual; `dre_status` guarda o estado anterior, que volta
     se a prova for retirada do ficheiro."""
@@ -809,6 +901,8 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
     for proposal in report.proposals:
         if proposal["status"]:
             changes[proposal["path"]]["proposal"] = proposal
+    for item in report.inferred:
+        changes[item["path"]]["inferred"] = True
     paths = {row["id"]: row["path"] for row in rows if row.get("id")}
     for proof in report.manual:
         changes[paths[proof.id]]["manual"] = proof
@@ -832,8 +926,10 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
             record.add_relationships([manual_relation(proof)])
             summary.legal_status += 1
             summary.manual += 1
-        elif "proposal" in change:
-            proposal = change["proposal"]
+        elif "proposal" in change or "inferred" in change:
+            proposal = change.get("proposal")
+            # O estado da fonte, por baixo do que este comando gravou.
+            source_status = (record.legal_status_basis.get("dre_status") or "unknown") if record.legal_status_basis else record.legal_status
             if proposal and (
                 record.legal_status == "unknown" or record.legal_status_basis or proposal.get("dre_status") == record.legal_status
             ):
@@ -841,6 +937,11 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
                 record.legal_status_basis = legal_status_basis(proposal)
                 record.relationships = _without_manual_relations(record.relationships)
                 summary.legal_status += 1
+            elif not proposal and "inferred" in change and source_status == "unknown":
+                # Sem prova de nada e dentro da regra: em vigor por inferência, com a marca e a regra.
+                record.legal_status = "in_force"
+                record.legal_status_basis = inferred_basis()
+                summary.inferred += 1
             elif not proposal and record.legal_status_basis:
                 # A prova deixou de existir: o estado volta ao anterior (desconhecido, ou o do DRE).
                 record.legal_status = record.legal_status_basis.get("dre_status") or "unknown"
@@ -858,11 +959,14 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
 def write_report(report: StructureReport, output: Path) -> list[Path]:
     output.mkdir(parents=True, exist_ok=True)
     data = {**report.summary, "validacao": report.validation}
-    paths = [output / "estrutura.json", output / "estrutura.md", output / "vigencia-proposta.jsonl"]
+    paths = [output / "estrutura.json", output / "estrutura.md", output / "vigencia-proposta.jsonl", output / "vigencia-inferida.jsonl"]
     paths[0].write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     paths[1].write_text(render_markdown(report), encoding="utf-8")
     with paths[2].open("w", encoding="utf-8") as handle:
         for item in sorted(report.proposals, key=lambda value: value["id"]):
+            handle.write(json.dumps(item, ensure_ascii=False) + "\n")
+    with paths[3].open("w", encoding="utf-8") as handle:
+        for item in sorted(report.inferred, key=lambda value: value["id"]):
             handle.write(json.dumps(item, ensure_ascii=False) + "\n")
     return paths
 
@@ -955,7 +1059,7 @@ def render_markdown(report: StructureReport) -> str:
         *_against_dre_lines(v),
         "As propostas, com as provas e a proveniência de cada uma, estão em `vigencia-proposta.jsonl`.",
         "",
-        "### Como se resolve, sem inferir sem prova",
+        "### Como se resolve com prova",
         "",
         "- **Só uma revogação total fixa o estado** (`repealed`). Conta a norma revogatória de outro diploma do acervo "
         "(\"É revogado o [Decreto-Lei n.º 253/86]…\", com a ligação ao diploma) e a etiqueta da relação do DRE "
@@ -973,6 +1077,7 @@ def render_markdown(report: StructureReport) -> str:
         "- Ao escrever nos registos, o estado proposto vai para `legal_status` e as provas para `legal_status_basis`; "
         "um conflito entre provas (total num lado, parcial noutro) não muda nada.",
     ]
+    lines += _inferred_lines(report.summary["vigencia"].get("inferidos_em_vigor") or {})
     if report.validation:
         val = report.validation
         lines += [
@@ -1001,6 +1106,51 @@ def render_markdown(report: StructureReport) -> str:
                     f"primeira diferença: {json.dumps(item['primeira_diferenca'], ensure_ascii=False)}"
                 )
     return "\n".join(lines) + "\n"
+
+
+def _inferred_lines(v: dict[str, Any]) -> list[str]:
+    """Secção da vigência inferida: a única regra que muda um estado sem prova, e por isso marcada."""
+    if not v:
+        return []
+    sample = v.get("amostra_verificada") or {}
+    lines = [
+        "",
+        "### Em vigor por inferência (sem revogação conhecida)",
+        "",
+        "É a única regra que dá um estado sem prova. O DRE deixou de preencher a vigência nos diplomas de 2014 em diante; "
+        "esta regra dá-os como `in_force` quando nada diz o contrário:",
+        "",
+        f"> {v['regra']}",
+        "",
+        f"- **Marca:** `legal_status_basis.source: {v['fonte']}`, `inferred: true`, `dre_status: unknown` e a regra em `rule`. "
+        "Não há provas (`evidence` vazio): é a falta delas que a regra usa.",
+        "- **Desfaz-se sozinha:** se aparecer uma revogação, uma caducidade ou um estado do DRE, o estado inferido sai. "
+        "`leis-portugal structure --sem-vigencia-inferida` devolve todos a `unknown`.",
+        f"- **Diplomas:** {_n(v['diplomas'])}" + (
+            " (" + ", ".join(f"{kind}: {_n(count)}" for kind, count in v["por_tipo"].items()) + ")." if v.get("por_tipo") else "."
+        ) + ("" if v.get("ligada", True) else " A regra está desligada nesta passagem."),
+    ]
+    if v.get("fora_da_regra"):
+        lines.append("- **Ficam de fora, de vigência desconhecida:** " + "; ".join(f"{_INFERRED_LABELS.get(key, key)}: {_n(count)}" for key, count in v["fora_da_regra"].items()) + ".")
+    if sample:
+        lines.append(
+            f"- **Amostra conferida ({sample['data']}):** {sample['conferidos']} diplomas ao acaso, {sample['aceites_pela_regra']} aceites pela regra; "
+            f"{sample['revogados']} com revogação e {sample['erros']} com vigência limitada que a regra não viu ({sample['erro']}). "
+            "Limite superior do erro a 95 %: " + f"{sample['limite_superior_95'] * 100:.1f}".replace(".", ",") + " %."
+        )
+    lines.append("- **O que quer dizer:** que não se conhece revogação nem caducidade. Um ato de alteração fica «em vigor» mesmo com o conteúdo já gasto.")
+    lines.append("- Lista: `vigencia-inferida.jsonl`.")
+    return lines
+
+
+_INFERRED_LABELS = {
+    "com_revogacao_ou_caducidade_conhecida": "com alguma prova de revogação ou caducidade, mesmo parcial",
+    "anterior_a_2014": "anteriores a 2014",
+    "temporario_pelo_sumario": "temporários pelo sumário",
+    "vigencia_limitada_no_texto": "com vigência limitada no próprio texto",
+    "ainda_sem_entrada_em_vigor": "com a entrada em vigor ainda por chegar",
+    "com_prova_manual_ou_vigencia_revista": "com prova manual ou vigência já revista",
+}
 
 
 def _against_dre_lines(v: dict[str, Any]) -> list[str]:

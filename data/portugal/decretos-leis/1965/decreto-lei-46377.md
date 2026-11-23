@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-05-31'
+version_history:
+  file: decreto-lei-46377.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-05-31'
+    amending: pt:dre:643925:por
+    amending_title: Decreto-Lei n.º 239/71
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 239/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46377.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +161,9 @@ Considerando, finalmente, que são de conferir aos professores provisórios do C
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Para preenchimento dos quadros aprovados por lei do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos, os professores efectivos serão nomeados pelo Ministro do Exército, por meio de portaria, sob proposta fundamentada do director da cada um destes estabelecimentos de ensino e recrutados de entre:
+###### Artigo 1.º
+
+1. Para preenchimento dos quadros aprovados por lei do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos, os professores efectivos são nomeados por despacho do Ministro do Exército, sob proposta fundamentada do director de cada um desses estabelecimentos de ensino:
 
 a) Oficiais do quadro permanente do Exército, da Armada ou da Força Aérea, em serviço activo ou na situação de reserva, que tenham já exercido as funções de professores provisórios no respectivo estabelecimento de ensino, autorizados, quanto aos oficiais da Armada e da Força Aérea, pelo Ministro da Marinha e pelo Secretário de Estado da Aeronáutica, respectivamente, a prestar serviço no Ministério do Exército;
 
@@ -153,31 +171,43 @@ b) Professores provisórios do respectivo estabelecimento de ensino habilitados 
 
 c) Professores dos quadros dos institutos industriais ou comerciais ou professores efectivos ou auxiliares dos liceus ou das escolas técnicas, de preferência oficiais milicianos, autorizados pelo Ministro da Educação Nacional a prestar serviço no Ministério do Exército;
 
-d) Diplomados com Exames de Estado para o correspondente magistério, de preferência oficiais milicianos.
+d) Diplomados com Exame de Estado para o correspondente magistério ou, no caso de professores de Educação Física e de Canto Coral, indivíduos legalmente habilitados, de preferência oficiais milicianos.
 
 2. Para provimento de professores efectivos, nos termos da alínea a) do n.º 1, o Ministro do Exército pode, quando o julgar conveniente, ordenar a realização de concursos de provas públicas para o grupo ou grupos a cujo ensino os mesmos professores se destinam.
 
-3. Os lugares de professor efectivo do quadro do Instituto Técnico Militar dos Pupilos do Exército afectos ao ensino dos cursos médios mencionados no artigo 41.º do [Decreto-Lei n.º 42632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42632-1959-439780), de 4 de Novembro de 1959, podem também ser providos por concursos de provas públicas, realizados nos termos que vigorarem para os correspondentes lugares dos institutos industriais e comerciais, dependentes do Ministério da Educação Nacional.
+3. Os lugares de professor efectivo do quadro do Instituto Técnico Militar dos Pupilos do Exército, afectos ao ensino dos cursos médios mencionados no [Decreto-Lei n.º 42632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42632-1959-439780), de 4 de Novembro de 1959, podem também ser providos nos termos que vigorarem para os correspondentes lugares dos institutos industriais e comerciais, dependentes do Ministério da Educação Nacional.
 
-Art. 2.º - 1. A nomeação para os cargos de professor efectivo nos termos do artigo 1.º está sujeita a confirmação do Ministro do Exército, depois de um ano escolar de exercício no respectivo estabelecimento, mediante proposta do director, ouvido o conselho escolar ou conselho de instrução, conforme os casos.
+4. Só podem ser providos ao abrigo do disposto na alínea a), como professores de Educação Física e de Canto Coral, oficiais devidamente habilitados.
+
+> Alterado pelo/a [Decreto-Lei n.º 239/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1971-643925), publicado em 1971-05-31.
+
+###### Artigo 2.º
+
+1. A nomeação para os cargos de professor efectivo nos termos do artigo 1.º está sujeita a confirmação do Ministro do Exército, depois de um ano escolar de exercício no respectivo estabelecimento, mediante proposta do director, ouvido o conselho escolar ou conselho de instrução, conforme os casos.
 
 2. Os professores nomeados nos termos da alínea c) do n.º 1 do artigo 1.º consideram-se em comissão de serviço, cuja duração não poderá exceder um ano, até à confirmação a que se refere o número anterior, confirmação que será comunicada ao Ministério da Educação Nacional, impreterìvelmente, até 31 de Agosto.
 
 3. Para os efeitos previstos no n.º 1, conta-se como ano escolar aquele em que o professor entre em exercício até ao dia 30 de Novembro e desempenhe, até ao seu termo, o serviço que lhe seja distribuído.
 
-Art. 3.º - 1. A confirmação referida no artigo 2.º será feita por meio de portaria e com ela a nomeação dos professores efectivos a que se referem as alíneas b) a d) do n.º 1 do artigo 1.º e o n.º 3 do mesmo artigo torna-se vitalícia.
+###### Artigo 3.º
+
+1. A confirmação referida no artigo 2.º será feita por meio de portaria e com ela a nomeação dos professores efectivos a que se referem as alíneas b) a d) do n.º 1 do artigo 1.º e o n.º 3 do mesmo artigo torna-se vitalícia.
 
 2. A não confirmação importa o abandono do ensino no respectivo estabelecimento.
 
 3. Os professores ordinários ou auxiliares dos institutos industriais ou comerciais e os professores efectivos ou auxiliares dos liceus e das escolas técnicas, quando confirmados nos cargos de professor efectivo do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército ou da Escola Central de Sargentos, nos termos do n.º 1, serão colocados, no Ministério da Educação Nacional, na situação de além do quadro, o que determinará a imediata vacatura do respectivo lugar.
 
-Art. 4.º - 1. Os professores nomeados nos termos das alíneas b) a d) do n.º 1 do artigo 1.º e do n.º 3 do mesmo artigo, enquanto prestarem serviço nos estabelecimentos de ensino dependentes do Ministério do Exército, adquirirão ou manterão os direitos e deveres que teriam se estivessem a prestar serviço em estabelecimento dependente do Ministério da Educação Nacional, na categoria de ordinário ou efectivo, incluindo a concessão de diuturnidade e a faculdade de se apresentarem aos concursos abertos para os quadros do Ministério da Educação Nacional, sendo, porém, graduados em tais concursos segundo a categoria que possuírem neste Ministério.
+###### Artigo 4.º
+
+1. Os professores nomeados nos termos das alíneas b) a d) do n.º 1 do artigo 1.º e do n.º 3 do mesmo artigo, enquanto prestarem serviço nos estabelecimentos de ensino dependentes do Ministério do Exército, adquirirão ou manterão os direitos e deveres que teriam se estivessem a prestar serviço em estabelecimento dependente do Ministério da Educação Nacional, na categoria de ordinário ou efectivo, incluindo a concessão de diuturnidade e a faculdade de se apresentarem aos concursos abertos para os quadros do Ministério da Educação Nacional, sendo, porém, graduados em tais concursos segundo a categoria que possuírem neste Ministério.
 
 2. Ao requererem a admissão a concurso, nos termos da parte final do número anterior, os professores em serviço no Ministério do Exército ficam obrigados a declarar expressamente se pretendem, ou não, ocupar o lugar em que venham a ter o direito de ser providos.
 
 3. Quando um professor efectivo do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército ou da Escola Central de Sargentos, confirmado em lugar do quadro, adquira o direito de ser nomeado professor ordinário ou auxiliar de um instituto industrial ou comercial, ou professor efectivo ou auxiliar dos liceus ou das escolas técnicas e não tenha declarado pretender ocupar o lugar, o Ministério da Educação Nacional promoverá a sua passagem imediata à situação de além do quadro, recaindo o provimento no candidato a quem o mesmo competiria se o professor em serviço no Ministério do Exército não tivesse concorrido.
 
-Art. 5.º - 1. Os professores provisórios do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos são em número variável, consoante as necessidades do ensino, e a sua nomeação será efectuada por despacho do Ministro do Exército, sob proposta fundamentada do director do respectivo estabelecimento de ensino, por períodos prorrogáveis de duração não superior a um ano, cujo termo não poderá ir além de 30 de Setembro, de entre:
+###### Artigo 5.º
+
+1. Os professores provisórios do Colégio Militar, do Instituto Técnico Militar dos Pupilos do Exército e da Escola Central de Sargentos são em número variável, consoante as necessidades do ensino, e a sua nomeação será efectuada por despacho do Ministro do Exército, sob proposta fundamentada do director do respectivo estabelecimento de ensino, por períodos prorrogáveis de duração não superior a um ano, cujo termo não poderá ir além de 30 de Setembro, de entre:
 
 a) Oficiais do quadro permanente do Exército, da Armada ou da Força Aérea, em serviço activo ou na situação de reserva, habilitados com os cursos das respectivas armas ou serviços da Academia Militar (antigas Escola de Guerra, Escola Militar e Escola do Exército) e da Escola Naval, ou habilitados com qualquer outro curso superior, autorizados, quanto aos oficiais da Armada e da Força Aérea, pelo Ministro da Marinha e pelo Secretário de Estado da Aeronáutica, respectivamente, a prestar serviço no Ministério do Exército;
 
@@ -185,11 +215,17 @@ b) Professores auxiliares dos institutos industriais ou comerciais, ou do quadro
 
 c) Indivíduos habilitados com o Exame de Estado ou, na falta destes, com um curso superior, de preferência oficiais milicianos.
 
+d) Indivíduos com as habilitações exigidas por lei para professores de Educação Física e de Canto Coral ou, na falta destes, com reconhecida prática de ensino, de preferência oficiais milicianos.
+
 2. As nomeações a que se referem as alíneas b) e c) do n.º 1 entendem-se sempre feitas por conveniência urgente de serviço público, conferindo aos nomeados o direito à competente remuneração desde o dia em que entraram em exercício.
 
 3. Os professores auxiliares a que se refere a alínea b) do n.º 1 serão, no Ministério da Educação Nacional, considerados em comissão pelo período de dois anos, findo o qual, se não reocuparem o lugar, serão colocados na situação prevista na parte final do n.º 3 do artigo 3.º
 
-Art. 6.º - 1. Os professores, quando oficiais, recebem as remunerações que lhes são atribuídas na lei dos vencimentos do respectivo departamento.
+> Alterado pelo/a [Decreto-Lei n.º 239/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1971-643925), publicado em 1971-05-31.
+
+###### Artigo 6.º
+
+1. Os professores, quando oficiais, recebem as remunerações que lhes são atribuídas na lei dos vencimentos do respectivo departamento.
 
 2. Os professores nomeados efectivos nos termos das alíneas b) a d) do n.º 1 do artigo 1.º e do n.º 3 do mesmo artigo são equiparados, para efeitos de vencimentos, prestação de serviço, diuturnidades e aposentação, aos professores ordinários dos institutos industriais ou comerciais e aos professores efectivos dos liceus ou das escolas técnicas, conforme os casos.
 
@@ -199,13 +235,17 @@ Se transitarem para o Ministério da Educação Nacional, conservarão o direito
 
 4. Os professores provisórios nomeados nos termos da alínea c) do n.º 1 do artigo 5.º são, para efeitos de vencimentos, equiparados, segundo os casos, aos professores de serviço eventual dos institutos industriais e comerciais ou dos liceus a quem tenha sido distribuído todo o serviço a que por lei são obrigados.
 
-Art. 7.º - 1. O Ministro do Exército pode, mediante despacho fundamentado, exonerar qualquer professor que não convenha manter ao serviço dos estabelecimentos de ensino do Ministério do Exército.
+###### Artigo 7.º
+
+1. O Ministro do Exército pode, mediante despacho fundamentado, exonerar qualquer professor que não convenha manter ao serviço dos estabelecimentos de ensino do Ministério do Exército.
 
 2. Os professores efectivos confirmados nos termos do artigo 3.º só podem ser exonerados mediante processo disciplinar elaborado nos termos do Regulamento de Disciplina Militar.
 
 3. Os professores, seja qual for a sua categoria, poderão também deixar de exercer os seus cargos mediante requerimento dirigido ao Ministro do Exército. Contudo, só poderão deixar o serviço depois de concluído o ano escolar respectivo.
 
-Art. 8.º - 1. O regresso ao serviço do Ministério da Educação Nacional dos professores dispensados pelo Ministério do Exército far-se-á sempre na categoria que os mesmos possuírem naquele Ministério.
+###### Artigo 8.º
+
+1. O regresso ao serviço do Ministério da Educação Nacional dos professores dispensados pelo Ministério do Exército far-se-á sempre na categoria que os mesmos possuírem naquele Ministério.
 
 2. Os professores com a categoria de ordinário ou de efectivo regressarão ao estabelecimento de ensino a cujo quadro pertençam ou ao qual se encontrem vinculados na situação de além do quadro, observando-se o disposto nas alíneas seguintes:
 
@@ -219,17 +259,25 @@ c) Se o provimento previsto na alínea anterior não for possível e até que o 
 
 4. Nos casos previstos no n.º 2 do artigo anterior o Ministro da Educação Nacional, a quem será presente o processo, determinará a situação em que o professor deve ser colocado.
 
-Art. 9.º - 1. O Ministro do Exército poderá autorizar os professores do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército, efectivos ou provisórios, que não possuam Exame de Estado para o exercício do magistério oficial a concorrer à frequência do estágio pedagógico no Liceu Normal de Lisboa ou nas escolas técnicas da mesma cidade, com vista a adquirirem a referida habilitação.
+###### Artigo 9.º
+
+1. O Ministro do Exército poderá autorizar os professores do Colégio Militar e do Instituto Técnico Militar dos Pupilos do Exército, efectivos ou provisórios, que não possuam Exame de Estado para o exercício do magistério oficial a concorrer à frequência do estágio pedagógico no Liceu Normal de Lisboa ou nas escolas técnicas da mesma cidade, com vista a adquirirem a referida habilitação.
 
 2. Durante o estágio pedagógico, estes professores poderão manter-se ao serviço do respectivo estabelecimento de ensino do Ministério do Exército, desde que não haja incompatibilidade entre os horários dos dois serviços.
 
-Art. 10.º O serviço docente prestado no Colégio Militar e no Instituto Técnico Militar dos Pupilos do Exército pelos professores que não possuam Exame de Estado para o exercício do magistério liceal ou profissional é considerado como tendo sido prestado em estabelecimento dependente do Ministério da Educação Nacional para os fins indicados no artigo 5.º do [Decreto-Lei n.º 41273](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41273-1957-254634), de 17 de Setembro de 1957, ou nas alíneas a) e b) do artigo 2.º do [Decreto-Lei n.º 41176](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41176-1957-279194), de 8 de Julho de 1957, desde que a esse serviço seja atribuída a classificação de Bom pelo director do respectivo estabelecimento de ensino, confirmada pela Inspecção do Ensino Liceal ou pela Inspecção do Ensino Técnico, conforme os casos.
+###### Artigo 10.º
 
-Art. 11.º - 1. O Ministro do Exército poderá fixar por despacho as condições de promoção ou graduação como oficiais milicianos a que devam ser sujeitos os professores dos estabelecimentos de ensino a que se refere o artigo 1.º
+O serviço docente prestado no Colégio Militar e no Instituto Técnico Militar dos Pupilos do Exército pelos professores que não possuam Exame de Estado para o exercício do magistério liceal ou profissional é considerado como tendo sido prestado em estabelecimento dependente do Ministério da Educação Nacional para os fins indicados no artigo 5.º do [Decreto-Lei n.º 41273](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41273-1957-254634), de 17 de Setembro de 1957, ou nas alíneas a) e b) do artigo 2.º do [Decreto-Lei n.º 41176](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41176-1957-279194), de 8 de Julho de 1957, desde que a esse serviço seja atribuída a classificação de Bom pelo director do respectivo estabelecimento de ensino, confirmada pela Inspecção do Ensino Liceal ou pela Inspecção do Ensino Técnico, conforme os casos.
+
+###### Artigo 11.º
+
+1. O Ministro do Exército poderá fixar por despacho as condições de promoção ou graduação como oficiais milicianos a que devam ser sujeitos os professores dos estabelecimentos de ensino a que se refere o artigo 1.º
 
 2. Estes oficiais perceberão durante a prestação das condições de promoção, normalmente realizadas em períodos de férias, os vencimentos a que têm direito como professores.
 
-Art. 12.º O presente decreto-lei revoga e substitui:
+###### Artigo 12.º
+
+O presente decreto-lei revoga e substitui:
 
 a) O [Decreto n.º 31115](https://diariodarepublica.pt/dr/detalhe/decreto/31115-1941-415270), de 27 de Janeiro de 1941;
 

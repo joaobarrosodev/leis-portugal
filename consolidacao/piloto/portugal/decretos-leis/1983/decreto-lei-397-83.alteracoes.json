@@ -1,31 +1,115 @@
 [
   {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) De 1000000$00 a 10000000$00 ... 5$00",
+    "depois": "c) De 1000000$00 a 10000000$00 ... 4$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 67-67",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - O valor da penhora, arresto, arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos imóveis é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.",
+    "depois": "4 - O valor da penhora, arresto, arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos imóveis, é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 69-69",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo; em qualquer outro caso as inscrições de alteração ou de reforço são consideradas de valor indeterminado.",
+    "depois": "6 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo; em qualquer outro caso, as inscrições de alteração ou de reforço são consideradas de valor indeterminado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 140-140",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O valor da penhora, arresto ou arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos bens é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.",
+    "depois": "2 - O valor da penhora, arresto ou arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos bens, é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
     "artigo": "unidades 159-160",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "1 - A presente Tabela não admite qualquer interpretação extensiva, ainda que haja identidade ou maioria de razão.\n\n2 - Em caso de dúvida sobre se é devido um ou outro emolumento, cobrar-se-á sempre o menor.",
-    "depois": "A presente tabela aplica-se a todas as entidades referidas no artigo 1.º do Código do Registo Comercial.",
+    "depois": "A presente tabela aplica-se a todas as entidades referidas no artigo 1.º do Código do Registo Comercial.\n\n###### ARTIGO 27.º\n\nOs registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.\n\n###### ARTIGO 28.º\n\nMantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.\n\n###### ARTIGO 29.º\n\nEm caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
-    "artigo": "depois da unidade 160",
-    "operacao": "aditar",
+    "artigo": "unidades 192-192",
+    "operacao": "substituir",
     "regra": "llm",
-    "antes": "",
-    "depois": "Art. 27.º Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.\n\nArt. 28.º Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.\n\nArt. 29.º Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.",
+    "antes": "h) Nos de aumento de capital com substituição total do pacto social, o do capital com que a sociedade ficar;",
+    "depois": "h) Nos de aumento de capital, com substituição total do pacto social, o do capital com que a sociedade ficar;",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 203-203",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) De aceitação e rectificação;",
+    "depois": "c) De aceitação e ratificação;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 227-227",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem, sobre o total do valor, por cada 100$00 ou fracção:",
+    "depois": "Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem, sobre o total do valor, por cada 1000$00 ou fracção:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
     "artigo": "depois da unidade 252",
@@ -39,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
     "artigo": "unidades 284-284",
@@ -53,35 +137,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
-    "artigo": "unidades 292-293",
+    "artigo": "unidades 292-296",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "1 - Pela celebração de qualquer acto dentro das horas regulamentares mas fora do cartório, inclusive nos estabelecimentos de crédito, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem ... 600$00.\n\n2 - Ao emolumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.",
-    "depois": "1 - Pela celebração de qualquer acto dentro das horas regulamentares fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.\n\n2 - Ao aumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.",
+    "antes": "1 - Pela celebração de qualquer acto dentro das horas regulamentares mas fora do cartório, inclusive nos estabelecimentos de crédito, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem ... 600$00.\n\n2 - Ao emolumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.\n\n3 - O emolumento do n.º 1 é contado por inteiro quanto ao primeiro acto praticado e por metade quanto aos demais, se o encargo do pagamento da conta competir ao mesmo interessado.\n\n4 - Contar-se-á apenas uma vez o emolumento deste artigo quando se trate exclusivamente de reconhecimentos, abertura de sinais e termos de autenticação.\n\n5 - Não é devido o emolumento quanto a reconhecimentos, abertura de sinais e termos de autenticação que se pratiquem juntamente com outro acto.",
+    "depois": "1 - Pela celebração de qualquer acto dentro das horas regulamentares fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.\n\n2 - Ao aumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.\n\n3 - O emolumento do n.º 1 é contado por inteiro quanto ao primeiro acto praticado e por metade quanto aos demais, se o encargo do pagamento da conta competir ao mesmo interessado.\n\n4 - Contar-se-á apenas uma vez o emolumento deste artigo quando se trate exclusivamente de reconhecimentos, abertura de sinais e termos de autenticação.\n\n5 - Não é devido o emolumento quanto a reconhecimentos, abertura de sinais e termos de autenticação que se pratiquem juntamente com outro acto.\n\n6 - O emolumento do n.º 1 é reduzido a 1800$00 nas escrituras de aquisição de habitação própria permanente ou de hipoteca com esta relacionada efecutadas em instituições de crédito e nos testamentos lavrados em estabelecimentos prisionais ou hospitalares públicos.\n\n7 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos dos n.os 1, 3, 4 e 6 deste artigo e do n.º 4 do artigo 20.º é fixado por despacho normativo do Ministro da Justiça.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
-  },
-  {
-    "artigo": "depois da unidade 296",
-    "operacao": "aditar",
-    "regra": "llm",
-    "antes": "",
-    "depois": "6 - O emolumento do n.º 1 é reduzido a 1800$00 nas escrituras de aquisição de habitação própria permanente ou de hipoteca com esta relacionada efecutadas em instituições de crédito e nos testamentos lavrados em estabelecimentos prisionais ou hospitalares públicos.\n\n7 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos dos n.os 1, 3, 4 e 6 deste artigo e do n.º 4 do artigo 20.º é fixado por despacho normativo do Ministro da Justiça.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
     "artigo": "unidades 298-301",
@@ -95,7 +165,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+  },
+  {
+    "artigo": "unidades 309-309",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores que forem devidos cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.",
+    "depois": "f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores, que forem devidos, cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443686:por",
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
     "artigo": "depois da unidade 316",
@@ -109,34 +193,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   },
   {
-    "artigo": "unidades 349-350",
+    "artigo": "unidades 349-356",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 23.º e 24.º\n\n2 - Dos emolumentos do artigo 23.º reverterá:",
-    "depois": "1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 20.º, 23.º e 24.º\n\n2 - Dos emolumentos do artigo 20.º pertencem dois terços ao notário e um terço aos funcionários do cartório na proporção dos seus vencimentos de categoria.\n\n3 - Dos elementos do artigo 23.º reverterá:",
+    "antes": "1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 23.º e 24.º\n\n2 - Dos emolumentos do artigo 23.º reverterá:\n\na) A totalidade para o notário, se o acto por ele for presidido e lavrado;\n\nb) Dois terços para o notário e um terço para o ajudante, ou outro funcionário, se o acto for presidido por aquele e lavrado por estes;\n\nc) A totalidade para o ajudante, se o acto por ele for presidido e lavrado;\n\nd) Dois terços para o ajudante e um terço para o funcionário que lavrar o acto presidido por aquele;\n\ne) Nos actos presididos pelo ajudante que careçam de visto do notário, um terço para este, aplicando-se as alíneas c) e d) quanto à parte restante.\n\n3 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados na alínea b) do número anterior, se se verificarem as hipóteses aí previstas.",
+    "depois": "1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 20.º, 23.º e 24.º\n\n2 - Dos emolumentos do artigo 20.º pertencem dois terços ao notário e um terço aos funcionários do cartório na proporção dos seus vencimentos de categoria.\n\n3 - Dos elementos do artigo 23.º reverterá:\n\na) A totalidade para o notário, se o acto por ele for presidido e lavrado;\n\nb) Dois terços para o notário e um terço para o ajudante, ou outro funcionário, se o acto for presidido por aquele e lavrado por estes;\n\nc) A totalidade para o ajudante, se o acto por ele for presidido e lavrado;\n\nd) Dois terços para o ajudante e um terço para o funcionário que lavrar o acto presidido por aquele;\n\ne) Nos actos presididos pelo ajudante que careçam de visto do notário, um terço para este, aplicando-se as alíneas c) e d) quanto à parte restante.\n\n4 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados nas alíneas b) e d) do número anterior, se se verificarem as hipóteses aí previstas.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
-  },
-  {
-    "artigo": "unidades 356-356",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "3 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados na alínea b) do número anterior, se se verificarem as hipóteses aí previstas.",
-    "depois": "4 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados nas alíneas b) e d) do número anterior, se se verificarem as hipóteses aí previstas.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:443686:por",
-    "alterador": "pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
+    "alterador": "pt:dre:469979:por;pt:dre:420583:por;pt:dre:421179:por;pt:dre:288404:por;pt:dre:657045:por"
   }
 ]

@@ -69,7 +69,7 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1954-1178267775
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1954-1178267775
-  retrieved_at: '2026-10-22T14:01:24Z'
+  retrieved_at: '2026-11-23T15:48:36Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-10-12T00:00:00Z'
@@ -80,7 +80,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:01:24Z'
+  generated_at: '2026-11-23T15:48:36Z'
   notes: 1 versão(ões); histórico completo em decreto-39987.versoes.json.
 reuse:
   status: permitted
@@ -397,7 +397,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:01:24Z'
+  checked_at: '2026-11-23T15:48:36Z'
   warnings: []
   errors: []
 ---

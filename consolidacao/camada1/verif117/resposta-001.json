@@ -1,0 +1,81 @@
+[
+ {
+  "id": "pt:dre:176301:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "al. b) do n.º1 do DL 27/74; n.º2 na redação do DL 192/84 art.3.º (sem 'trabalho extraordinário' nem 'funções inspectivas'); n.º5 pelo DL 183-F/80 art.3.º; resto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "revogado pelo DL 19/89 art.2.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "revogado pelo DL 19/89 art.2.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "revogado pelo DL 19/89 art.2.º; 'Serviços sociais' é título seguinte do original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "n.º1 pelo DL 103/76; n.º2 igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 a 4 revogados pelo DL 183-F/80; n.º5 mantém-se",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Rectificação ao mapa do pessoal civil (categorias F, I, J, O...)",
+    "motivo": "mapa só em imagem no original, sem anexo com título"
+   },
+   {
+    "instrucao": "DL 30/70",
+    "motivo": "o pedido não traz o texto do alterador"
+   },
+   {
+    "instrucao": "DL 514/70 art.1.º: alteração dos mapas anexos",
+    "motivo": "só em imagem, mapas sem título de anexo"
+   },
+   {
+    "instrucao": "DL 514/70 arts.3.º e 4.º (diuturnidades; pessoal de enfermagem)",
+    "motivo": "disposições interpretativas, não alteram texto"
+   },
+   {
+    "instrucao": "DL 142/75 art.2.º: lugar de secretário-geral no quadro do Min. Comunicação Social",
+    "motivo": "altera quadro de outro diploma/ministério"
+   },
+   {
+    "instrucao": "DL 96/76 arts.1.º e 2.º: categorias Q e L do mapa dos departamentos militares",
+    "motivo": "mapa só em imagem, sem título de anexo"
+   },
+   {
+    "instrucao": "DL 191/76 art.1.º: eliminação de classes na categoria de telefonista",
+    "motivo": "mapa só em imagem, sem título de anexo"
+   },
+   {
+    "instrucao": "DL 183-F/80 art.2.º n.º2: suspensão das alíneas c) e d) do n.º1 e n.º2 do art.30.º",
+    "motivo": "suspensão, não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

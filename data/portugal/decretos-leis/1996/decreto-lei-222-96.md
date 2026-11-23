@@ -41,10 +41,10 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '1999-04-05'
+  consolidation_date: '2001-12-15'
 version_history:
   file: decreto-lei-222-96.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2026-11-19'
   versions:
   - date: '1999-04-05'
@@ -53,6 +53,11 @@ version_history:
     changes:
     - Altera Artigo 16.º
     - Altera Artigo 17.º
+  - date: '2001-12-15'
+    amending: pt:dre:576276:por
+    amending_title: Decreto-Lei n.º 315/2001
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre/pt/html
@@ -67,19 +72,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1024687766
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1024687766
-  retrieved_at: '2026-11-20T13:54:16Z'
+  retrieved_at: '2026-11-23T16:13:22Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-11-19T00:00:00Z'
 integrity:
-  source_sha256: f0f59bd6bf457d31f43ea07cc20ce0c8c11b504960a70d0ea81c9b0d319e06f5
+  source_sha256: 1806316328b3a72eba5dc721cd05a0005165966e6304c9417e7ccf2ad3b30756
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-11-20T13:54:16Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-222-96.versoes.json.
+  generated_at: '2026-11-23T16:13:22Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-222-96.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +211,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-11-20T13:54:16Z'
+  checked_at: '2026-11-23T16:13:22Z'
   warnings: []
   errors: []
 ---
@@ -503,15 +508,17 @@ b) Contribuir para a internacionalização das empresas industriais, comerciais 
 
 c) Colaborar com outras entidades oficiais nas negociações de acordos de cooperação económica e apoiar o desenvolvimento da cooperação económica externa, bilateral e multilateral;
 
-d) Assegurar o licenciamento do comércio externo de produtos agrícolas e de produtos industriais e estratégicos e gerir os regimes restritivos do comércio externo desses produtos;
+d) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia;
 
-e) Desenvolver acções que promovam a articulação entre as políticas sectoriais coordenadas pelo Ministério da Economia e outras políticas relevantes do Governo com reflexos na competitividade e internacionalização da economia;
+e) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito da União Europeia nas áreas da indústria, energia, comércio e turismo, promovendo as necessárias adaptações estruturais, institucionais e legais;
 
-f) Coordenar e dinamizar, em articulação com o Ministério dos Negócios Estrangeiros, a acção do Ministério da Economia no âmbito da União Europeia nas áreas da indústria, energia, comércio e turismo, promovendo as necessárias adaptações estruturais, institucionais e legais;
-
-g) Coordenar a representação do Ministério da Economia nas organizações internacionais de carácter económico no domínio das suas atribuições, nomeadamente através da participação nos comités e grupos de trabalho da Organização para a Cooperação e Desenvolvimento Económico (OCDE).
+f) Coordenar a representação do Ministério da Economia nas organizações internacionais de carácter económico no domínio das suas atribuições, nomeadamente através da participação nos comités e grupos de trabalho da Organização para a Cooperação e Desenvolvimento Económico (OCDE).
 
 3 - A Direcção-Geral é dirigida por um director-geral, coadjuvado, no exercício das suas funções, por três subdirectores-gerais.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 315/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276) A alteração ao presente artigo produz efeitos na data da entrada em vigor das alterações a introduzir à estrutura orgânica da DGAIEC e às respectivas competências que são definidas por portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), em vigor a partir de 2001-12-15, com efeitos a partir de 2002-07-07.
 
 > Alterado pelo/a Artigo Artigo Único do/a [Decreto-Lei n.º 107/99 - Diário da República n.º 76/1999, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1999-138781), em vigor a partir de 1999-04-05.
 

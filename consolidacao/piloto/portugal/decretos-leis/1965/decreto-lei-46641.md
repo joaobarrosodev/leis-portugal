@@ -16,6 +16,9 @@ consolidacao:
   - id: pt:dre:607351:por
     title: Lei n.º 4/82
     publication_date: '1982-04-15'
+  - id: pt:dre:472903:por
+    title: Decreto-Lei n.º 47010
+    publication_date: '1966-05-16'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -672,16 +675,6 @@ A metade dos emolumentos provenientes da aplicação desta tabela cobrada nos co
 
 ###### Artigo 25.º
 
-A declaração de carga, que poderá ser escrita em português, francês, inglês, espanhol e italiano, depois de assinada pelo expedidor, deve ser visada pelo funcionário consular com jurisdição sobre a localidade onde for iniciada a expedição da mercadoria para Portugal, mesmo que esta tenha de sofrer trasbordo em viagem. No caso, porém, em que a mercadoria for inicialmente expedida por via rodoviária, férrea ou aérea, a fim de ser trasbordada em qualquer porto, para seguir por via marítima, a declaração será visada no local do trasbordo.
+(Revogado.)
 
-§ 1.º Toda a declaração de carga deve mencionar o valor da mercadoria na moeda do país em que for visada, podendo, contudo, indicar também o valor correspondente em qualquer moeda estrangeira.
-
-§ 2.º Dos três exemplares da declaração, aquele em que forem apostas as estampilhas será remetido à alfândega do destino, por intermédio do capitão do navio que transportar a mercadoria ou pelo correio, no caso de a declaração ser visada depois de o navio haver seguido viagem; o segundo entregue ao carregador, ficando o terceiro arquivado no consulado. O exemplar estampilhado, referente a mercadorias transportadas exclusivamente por via terrestre ou aérea, será sempre remetido à alfândega respectiva pelo correio.
-
-§ 3.º Cada declaração (modelo n.º 72 do Regulamento Consular) corresponde a um conhecimento, cuja apresentação o funcionário consular poderá exigir quando o julgar necessário.
-
-§ 4.º Quando na alfândega se apresente conhecimento de mercadoria sem declaração de carga correspondente, o recebedor ou consignatário dessa mercadoria pagará o triplo da taxa de emolumento consular, a cobrar como receita do Estado, pelo respectivo bilhete de despacho. Poderá, contudo, a alfândega, em face de motivos atendíveis, marcar um prazo para a apresentação da declaração, devidamente visada e datada da época própria, caucionando, entretanto, o interessado, por depósito, a importância devida. São isentas do agravamento da taxa, só pagando o emolumento consular, as mercadorias que tenham sido transaccionadas em viagem, as que entrem nos portos portugueses com conhecimentos originais ou opção para portos não mencionados, as que, embarcadas em navios entrados em portos portugueses para receber ordens, sejam vendidas no País e as que venham desacompanhadas de declaração de carga por não existir representante consular português na localidade donde forem expedidas.
-
-§ 5.º Pelas alfândegas deverá ser organizado um mapa trimestral das receitas por elas cobradas, em virtude das disposições deste artigo e remetido ao Ministério dos Negócios Estrangeiros até ao fim do mês imediato ao trimestre.
-
-Ministério dos Negócios Estrangeiros, 13 de Novembro de 1965. - Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
+> Revogado pelo/a [Decreto-Lei n.º 47010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47010-1966-472903), publicado em 1966-05-16.

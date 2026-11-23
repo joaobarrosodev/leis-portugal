@@ -130,18 +130,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/68/2010/p/cons/20150227/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-968356654
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-968356654
-  retrieved_at: '2026-10-22T13:41:45Z'
+  retrieved_at: '2026-11-23T14:51:55Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-02-25T00:00:00Z'
 integrity:
-  source_sha256: 8274152c83ecc4f5abcacc4c7d707f490f66dfaf52e651a3e05833e22b866d23
+  source_sha256: 45f688e6bb49b8a6bdde29eb9282deaf310e9983f0404ddd46c4b54294c45393
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:41:45Z'
+  generated_at: '2026-11-23T14:51:55Z'
   notes: 5 versão(ões); histórico completo em portaria-68-2010.versoes.json.
 reuse:
   status: permitted
@@ -234,7 +234,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:41:45Z'
+  checked_at: '2026-11-23T14:51:55Z'
   warnings: []
   errors: []
 ---
@@ -571,7 +571,7 @@ b) Explorações que, na sequência de um projecto de investimento aprovado no �
 
 ### Capítulo V — Atribuição de direitos não provenientes da reserva nacional
 
-> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.
+> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28 00:00:00.
 
 ###### Artigo 13.º — Condições específicas da integração do sector da vinha
 
@@ -614,8 +614,6 @@ b) 10 % do valor dos direitos ao pagamento sujeitos a condições especiais, des
 > Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07.
 
 ### Capítulo VII — Condições específicas dos regimes de apoio direto a integrar no RPU em 2012
-
-> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 57/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2015-66619896), em vigor a partir de 2015-02-28.
 
 > Aditado pelo/a Artigo 6.º do/a [Portaria n.º 62/2012 - Diário da República n.º 57/2012, Série I de 2012-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/62-2012-553641), em vigor a partir de 2012-03-21.
 
@@ -699,7 +697,7 @@ Abrantes, Águeda (Préstimo, Macinhata do Vouga, Macieira de Alcoba, Castanheir
 
 > Alterado pelo/a [Portaria n.º 1229/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1229-2010-306658), em vigor a partir de 2010-12-07.
 
-## Anexo II — (ver documento original)
+## Anexo II
 
 (ver documento original)
 

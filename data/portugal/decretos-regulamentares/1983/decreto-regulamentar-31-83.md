@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pela Lei n.º 14/2015 (art. 37.º, alínea b)), que entra em vigor 180 dias após a publicação de 2015-02-16.
+    É o registo do 1.º Suplemento do Diário da República n.º 89/1983; o outro registo do mesmo diploma (pt:dre:312835:por)
+    já está revogado, com a relação do DRE «Revogado, a partir de 15.08.2015». O DRE dá este como de vigência desconhecida.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:66528823:por'
+    detail: b) O Decreto Regulamentar n.º 31/83, de 18 de abril;
 notes: []
 language: por
 version:
@@ -116,6 +126,13 @@ relationships:
   label: Revoga Diploma
   source: https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823
   date: '2015-02-16'
+- type: repealed_by
+  target: pt:dre:66528823:por
+  label: Revogado pela Lei n.º 14/2015 (art. 37.º, alínea b)), que entra em vigor 180 dias após a publicação de 2015-02-16.
+    É o registo do 1.º Suplemento do Diário da República n.º 89/1983; o outro registo do mesmo diploma (pt:dre:312835:por)
+    já está revogado, com a relação do DRE «Revogado, a partir de 15.08.2015». O DRE dá este como de vigência desconhecida.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-15'
 article_structure:
   article_count: 41
   section_count: 26

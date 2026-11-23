@@ -124,19 +124,5 @@
     "unidade": [],
     "diploma": "pt:dre:346486:por",
     "alterador": "pt:dre:241443:por"
-  },
-  {
-    "artigo": "10.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 10.º — Subsídio anual\n\n1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.\n\n2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do Decreto-Lei n.º 440/91, de 14 de Novembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.",
-    "depois": "###### Artigo 10.º — Subsídio anual\n\n1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.\n\n2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:346486:por",
-    "alterador": "pt:dre:241443:por"
   }
 ]

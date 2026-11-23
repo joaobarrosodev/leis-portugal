@@ -44,7 +44,7 @@ version_history:
     changes: []
   - date: '1992-04-08'
     amending: pt:dre:151973:por
-    amending_title: Decreto-Lei n.º 20/92; Decreto-Lei n.º 57/85; Portaria n.º 207/86
+    amending_title: Decreto-Lei n.º 20/92; Decreto-Lei n.º 57/85; Portaria n.º 207/86; Portaria n.º 663/73
     changes:
     - Altera Artigo 1.º
     - Revoga Artigo 2
@@ -55,6 +55,9 @@ version_history:
     - Revoga Artigo 10
     - Revoga Artigo 11
     - Revoga Artigo 1
+    - Revoga Artigo 6
+    - Revoga Artigo 8
+    - Revoga Artigo 9
 identifiers:
   celex: null
   eli: null
@@ -221,25 +224,9 @@ n) (Revogada.)
 
 ###### Artigo 6.º
 
-Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:
+(Revogado.)
 
-1.º As características serão as dos quadros I (aves e coelhos), II (suínos) e III (bovinos e ovinos) seguintes:
-
-I) Alimentos para aves e coelhos
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
-
-II) Alimentos para suínos
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
-
-III) Alimentos para bovinos e ovinos
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
-
-2.º A digestibilidade da proteína bruta, determinada pelo método da digestão com pepsina em meio clorídrico, dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80 por cento e nos restantes alimentos compostos a 75 por cento.
-
-3.º Os alimentos compostos melaçados deverão conter o mínimo de 9,6 por cento de açúcares redutores totais expressos em glucose. O teor máximo em água dos alimentos compostos melaçados não poderá exceder 16 por cento. Quando, porém, contiverem mais de 16 por cento dos açúcares totais expressos em açúcar invertido, o teor em água pode atingir o máximo de 22 por cento determinado pelo processo directo do benzeno.
+> Revogado pelo/a [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), publicado em 1973-10-04.
 
 ###### Artigo 7.º
 
@@ -247,37 +234,11 @@ III) Alimentos para bovinos e ovinos
 
 ###### Artigo 8.º
 
-Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:
-
-a) Nome da empresa industrial ou comercial responsável;
-
-b) Designação ou marca do produto;
-
-c) Indicação da espécie animal e função zootécnica a que o alimento se destina;
-
-d) Indicação qualitativa dos alimentos simples utilizados em percentagem superior a 5;
-
-e) Composição química do produto relativa aos componentes para os quais existem limites legalmente fixados;
-
-f) Indicação do valor energético referido em unidades forrageiras (U. F.) por quilograma de alimento, excepto para as aves, que será expresso em calorias metabolizáveis;
-
-g) Data do fabrico.
-
-§ 1.º No caso de haver incorporação de suplementos alimentares ou aditivos, deverá indicar-se a quantidade, por quilograma de alimento composto, de cada um dos elementos activos que o constituem, e o prazo durante o qual o fabricante garante a sua actividade biológica.
-
-§ 2.º Quando haja incorporação de melaços, deverá apor-se, devidamente destacada, a designação de «Melaço».
-
-§ 3.º Todas as indicações contidas nos dísticos, rótulos ou etiquetas são de exclusiva responsabilidade das empresas a que se refere a alínea a) deste artigo.
-
-§ 4.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais.
+(Revogado.)
 
 ###### Artigo 9.º
 
-É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
-
-a) Que as quantidades a transportar correspondam à capacidade de contentores adequados, e os produtos transportados sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras;
-
-b) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatòriamente deverão constar as indicações exigidas nos termos do artigo 8.º desta portaria.
+(Revogado.)
 
 ###### Artigo 10.º
 

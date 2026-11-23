@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:680633:por
     title: Decreto-Lei n.º 290/91
     publication_date: '1991-08-10'
+  - id: pt:dre:321294:por
+    title: Portaria n.º 459/2000
+    publication_date: '2000-07-21'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -122,7 +125,7 @@ Quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/183a00/40494050.pdf)
 
-> Alterado pelo/a [Decreto-Lei n.º 290/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1991-680633), publicado em 1991-08-10.
+> Alterado pelo/a [Portaria n.º 459/2000](https://diariodarepublica.pt/dr/detalhe/portaria/459-2000-321294), publicado em 2000-07-21.
 
 Visto e aprovado em Conselho de Ministros de 17 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 

@@ -967,4 +967,4 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.
+> Revogado pelo/a [Decreto-Lei n.º 339/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1983-453800), publicado em 1983-07-20.

@@ -422,9 +422,7 @@ b) De Pessoal e Expediente.
 
 3 - (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.
-
-> Revogado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.
+> Alterado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.
 
 ###### Artigo 25.º
 
@@ -897,6 +895,56 @@ As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas po
 ###### Artigo 73.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+1.ª Circunscrição Florestal
+
+Perímetros florestais de: Senhora da Abadia, serra do Merouço, serra Amarela (parte), serra da Cabreira, serras do Marão e Meia Via, serras do Marão (Vila Real) e Ordem, serras de Soajo e Peneda (parte), serra de Anta, serra de Arga, serras de Vieira e Monte Crasto, Entre Vez e Coura, Boalhosa, Entre Lima e Neiva, Santa Luzia.
+
+Mata de: Touco.
+
+Terrenos anexos ao Hotel de Santa Luzia.
+
+2.ª Circunscrição Florestal
+
+Perímetros florestais de: S. Domingos e Escarão, Barroso (parte), Chaves, Mondim de Basto, serras do Marão (Vila Real) e Ordem, Santa Comba, Ribeira de Pena, serra da Padrela, serra do Alvão, S. Tomé do Castelo.
+
+3.ª Circunscrição Florestal
+
+Perímetros florestais de: serra de Bornes, serra da Nogueira, serra de Montesinho, Deilão, Avelanoso, serra da Coroa, Palão, Monte Morais, serra do Faro.
+
+Matas de: Reboredo.
+
+4.ª Circunscrição Florestal
+
+Perímetros florestais de: dunas de S. Jacinto, dunas da Gafanha, Préstimo, Rio Mau, serras de Mó e Viso, serra da Freita, serra de Montemuro, dunas de Silvalde, dunas de Ovar, dunas de Vagos, Ladário, Leomil, S. Salvador, S. Miguel e S. Lourenço, S. Pedro do Sul, Caramulo, Arca, serra do Crasto, serra da Lapa, Penoita, Vouga, Seixo e Facho, S. Matias, Mundão, serra do Pisco, Penedono.
+
+5.ª Circunscrição Florestal
+
+Perímetros florestais de: dunas de Lavos, dunas de Quiaios, Pinhal do Povo de Quiaios, Prazo de Santa Marinha, serra da Aveleira, S. Pedro do Açor, Senhora das Necessidades, dunas de Cantanhede, Paião, Alhadas, Góis, Rabadão, serra da Lousã, dunas de Mira, pinhal das Castinhas, pinhal do Fojo, pinhal da Gândara de Portomar, pinhal do norte da Videira, pinhal do sul da Videira, Alge, Pampilhosa da Serra, serra do Buçaco, Penela, S. Pedro Dias e Alveite, Castanheira de Pêra, núcleo do Cabril, viveiro da Mealhada, bacia hidrográfica do Mondego, pinhal da Caniceira, pinhal de Montalvo.
+
+Matas de: dunas e pinhal da Leirosa, Sobral, Braçal, Cabeça Gorda.
+
+Matas nacionais de: Choupal, Vale de Canas, Buçaco, Urso, Foja.
+
+6.ª Circunscrição Florestal
+
+Perímetros florestais de: serra dos Candeeiros (núcleos de Alcobaça e Porto de Mós), Alva de Pataias, Alva da Mina do Azeche, Alva da Senhora da Vitória, Alva da Água de Madeiros, Foz de Alge, Castro, Charneca do Nicho, pinhal da Galga, bacia hidrográfica do rio Lis, Batalha, Alcanede, serra de Aire, serra de Montejunto, serra de Ota, viveiro da Azambuja.
+
+Matas de: Parceiros, Marrazes, Pinheiros, Azabucho, Quintas, Bailadouro, Quinta de Sete Montes.
+
+Matas nacionais de: Virtudes, Mestras, Pedrógão, Leiria, Casal da Malta, Casal da Lebre, Valado, Escaroupim, Vimeiro.
+
+7.ª Circunscrição Florestal
+
+Perímetros florestais de: serra da Covilhã, Manteigas, serra da Estrela (núcleos da Guarda, Prados, Erada, Tortosendo, Teixoso, Unhais da Serra, Cortes do Meio, Verdelhos, Seia e Gouveia), Sameiro, Alto Côa, Carvalhal, Aldeia do Carvalho, Sarzedo, Castelo Novo, Alcongosta, Louriçal do Campo, Valhelhas.
+
+8.ª Circunscrição Florestal
+
+Perímetros florestais de: dunas da Trafaria e Costa de Caparica, dunas da lagoa de Albufeira, serra da Arrábida, viveiro de Évora, dunas de Vila Real de Santo António, Terras da Ordem, coutos de Mértola, Contenda, Ferrarias, Barrancos, Cabeça Gorda, Salvada, Mourão, Lagos, Conceição de Tavira, Vila do Bispo, serra de S. Mamede.
+
+Matas nacionais de: Valverde, Machada, Medos, Cabeção.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 71-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049), publicado em 1979-12-29.
 
 Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 

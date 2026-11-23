@@ -140,6 +140,18 @@
       "alterador": 7
     },
     {
+      "chave": "31.º",
+      "epigrafe": "Apoio supletivo a jovens",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "31.º-A",
+      "epigrafe": "Apoio supletivo a deficientes e jovens deficientes",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
       "chave": "28.º",
       "epigrafe": "Definição, requisitos e formas de apoio",
       "texto": "(Revogado.)",
@@ -156,40 +168,26 @@
       "epigrafe": "Sanções",
       "texto": "(Revogado.)",
       "alterador": 8
-    },
-    {
-      "chave": "31.º",
-      "epigrafe": "Apoio supletivo a jovens",
-      "texto": "(Revogado.)",
-      "alterador": 7
-    },
-    {
-      "chave": "31.º-A",
-      "epigrafe": "Apoio supletivo a deficientes e jovens deficientes",
-      "texto": "(Revogado.)",
-      "alterador": 7
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 4, revogação das «demais disposições que contrariem o disposto no presente diploma» (art. 22.º, alínea a)): revogação condicional.\nAlterador 5, revogação dos capítulos II e IV com excepção das disposições que prevêem apoios às autarquias para habitação social de realojamento (art. 26.º): alvo incerto: aplicada só às unidades inteiras sem apoio às autarquias (art. 5.º n.º 3; art. 6.º n.º 2 alíneas a) e b); art. 13.º n.º 1 alíneas b) e c) e n.º 2 alínea b); arts. 14.º a 17.º); nos arts. 5.º n.os 1 e 2, 6.º n.º 1, 12.º e 13.º n.º 2 alínea a) a mesma frase mistura municípios com cooperativas, empresas ou particulares (e o art. 12.º n.º 3 depende do n.º 2), e a parte revogada não se separa letra a letra.\nAlterador 8, art. 47.º n.º 2 (mantêm-se os apoios atribuídos ao abrigo do diploma): não textual.",
+  "nao_aplicavel": "Alterador 4, artigo 22.º, alínea a), revogação das «demais disposições que contrariem o disposto no presente diploma»: revogação condicional\nAlterador 5, artigo 26.º, revogação dos capítulos II e IV «com excepção das disposições que prevêem apoios às autarquias para construção de habitação social destinada a realojamento», nos trechos que misturam autarquias com cooperativas, empresas ou pessoas singulares (artigo 5.º, n.os 1 e 2; artigo 6.º, n.º 1 e alíneas a) a d); artigo 12.º, n.os 1, 2 e 4; artigo 13.º, n.º 2, alínea a)): alvo incerto, não há corte letra a letra que separe a parte das autarquias, e ficam como estão",
   "instrucoes": [
-    "Alterador 1 (Decl. Rect. 15-A/2002): retifica a alínea h) do n.º 1 do art. 24.º na redação do DLR 5/2002/A («alínea b)» → «alínea f)»); só tem efeito na versão intermédia, porque o art. 24.º fica revogado pelo alterador 7.",
-    "Alterador 2 (DLR 8/98/A), art. 1.º: art. 3.º com nova alínea d) e alíneas antigas d) a n) renumeradas e) a o) (o programa tinha deixado os marcadores «[Actual alínea …]»; reconstruído com o texto das alíneas originais); art. 19.º n.º 2, art. 24.º n.º 1 h) e n.º 3, art. 31.º n.º 1 — sem efeito final, revogados depois pelo alterador 7.",
-    "Alterador 2, art. 2.º: adita o art. 31.º-A — depois revogado pelo alterador 7.",
-    "Alterador 3 (DLR 5/2002/A), art. 1.º: nova alínea l) (Apoio, em euros, nova fórmula) do art. 3.º, aplicada; art. 24.º n.º 1 h) (com a retificação do alterador 1) — sem efeito final.",
-    "Alterador 3, art. 2.º: adita o art. 31.º-B — já está no texto atual, igual.",
-    "Alterador 4 (DLR 6/2002/A), art. 22.º a): revoga os arts. 7.º a 11.º — aplicado ((Revogado.)); a parte «demais disposições que contrariem» é condicional; o art. 23.º liga os efeitos do regime ao regulamento, que já entrou em vigor.",
-    "Alterador 5 (DLR 21/2005/A), art. 26.º: revoga os capítulos II e IV salvo apoios às autarquias para habitação social de realojamento — arts. 14.º a 17.º revogados; revogadas as alíneas/números inteiros sem autarquias nos arts. 5.º, 6.º e 13.º; o resto vai em nao_aplicavel.",
-    "Alterador 6 (DLR 37/2006/A), art. 1.º: art. 3.º passa a n.º 1 («considerando-se:») com as alíneas a) a o) atuais e novo n.º 2 (majoração nas ilhas) — aplicado.",
-    "Alterador 7 (DLR 59/2006/A), art. 40.º: revoga os capítulos V e VI (arts. 18.º a 27.º) e os arts. 31.º e 31.º-A — aplicado ((Revogado.)); o 31.º-B fica.",
-    "Alterador 8 (DLR 23/2009/A), art. 47.º n.º 1: revoga o capítulo VII (arts. 28.º a 30.º) — aplicado ((Revogado.)).",
-    "Títulos de divisão: nenhum muda (os capítulos revogados mantêm o título; o «CAPITULO III» continua como texto corrido no fim do art. 6.º, como no texto atual)."
+    "Alterador 1 (Declaração de Rectificação 15-A/2002, que rectifica o DLR 5/2002/A): na alínea h) do n.º 1 do artigo 24.º, «alínea b)» passa a «alínea f)» na redação do alterador 3; sem efeito no texto final, porque o artigo 24.º é revogado pelo alterador 7",
+    "Alterador 2 (DLR 8/98/A): nova alínea d) do artigo 3.º com as anteriores d) a n) a passar a e) a o) (o programa tinha deixado os marcadores «[Actual alínea …]»; reposto o texto); n.º 2 do artigo 19.º, alínea h) do n.º 1 e n.º 3 do artigo 24.º e n.º 1 do artigo 31.º alterados; aditado o artigo 31.º-A (artigos 19.º, 24.º, 31.º e 31.º-A depois revogados pelo alterador 7)",
+    "Alterador 3 (DLR 5/2002/A): nova alínea l) do artigo 3.º (apoio em euros e nova fórmula); alínea h) do n.º 1 do artigo 24.º; aditado o artigo 31.º-B (já no texto atual, igual)",
+    "Alterador 4 (DLR 6/2002/A), artigo 22.º, alínea a): revogados os artigos 7.º a 11.º",
+    "Alterador 5 (DLR 21/2005/A), artigo 26.º: revogados os capítulos II e IV salvo os apoios às autarquias para habitação social de realojamento; revogados por inteiro os artigos 14.º a 17.º, o n.º 3 do artigo 5.º, as alíneas a) e b) do n.º 2 do artigo 6.º e as alíneas b) e c) do n.º 1 e b) do n.º 2 do artigo 13.º; os trechos mistos ficam (nao_aplicavel)",
+    "Alterador 6 (DLR 37/2006/A): artigo 3.º com novo n.º 1 (corpo novo e alíneas a) a o) atuais) e novo n.º 2 (majoração)",
+    "Alterador 7 (DLR 59/2006/A), artigo 40.º: revogados os capítulos V e VI (artigos 18.º a 27.º) e os artigos 31.º e 31.º-A; o 31.º-B fica",
+    "Alterador 8 (DLR 23/2009/A), artigo 47.º, n.º 1: revogado o capítulo VII (artigos 28.º a 30.º)",
+    "O texto «CAPITULO III / Comparticipação na recuperação de habitação degradada» no fim do artigo 6.º é do texto atual e copia-se como está; não se cria título de divisão"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

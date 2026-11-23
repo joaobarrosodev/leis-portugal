@@ -29,10 +29,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-08-18'
+version_history:
+  file: decreto-lei-43777.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-08-18'
+    amending: pt:dre:172537:por
+    amending_title: Declaração; Decreto-Lei n.º 47866; Decreto-Lei n.º 636/70; Decreto-Lei n.º 720/76; Decreto-Lei n.º 280/84
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +84,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração; Decreto-Lei n.º 47866;
+    Decreto-Lei n.º 636/70; Decreto-Lei n.º 720/76; Decreto-Lei n.º 280/84. Método e verificação: consolidacao/README.md e
+    consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43777.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,39 +234,91 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Compete à Santa Casa da Misericórdia de Lisboa organizar e explorar, em regime de exclusivo para a metrópole e para o ultramar, concursos de prognósticos ou apostas mútuas sobre resultados de competições desportivas.
+###### Artigo 1.º
 
-Art. 2.º Considera-se abrangido no conceito dos concursos a que respeita este diploma, seja com a designação de apostas mútuas desportivas, concursos de prognósticos ou qualquer outra, todo o acto de prognosticar ou prever resultados de uma ou mais competições desportivas para obter o direito a prémios em dinheiro ou a recompensas de qualquer outra natureza.
+Compete à Santa Casa da Misericórdia de Lisboa organizar e explorar, em regime de exclusivo para a metrópole e para o ultramar, concursos de prognósticos ou apostas mútuas sobre resultados de competições desportivas.
 
-Art. 3.º A participação nas apostas mútuas ou concursos de prognósticos consiste na entrega do preço das apostas que for fixado pela Santa Casa da Misericórdia de Lisboa, acompanhada de bilhetes de modelo aprovado pela mesma instituição.
+###### Artigo 2.º
+
+Considera-se abrangido no conceito dos concursos a que respeita este diploma, seja com a designação de apostas mútuas desportivas, concursos de prognósticos ou qualquer outra, todo o acto de prognosticar ou prever resultados de uma ou mais competições desportivas para obter o direito a prémios em dinheiro ou a recompensas de qualquer outra natureza.
+
+###### Artigo 3.º
+
+A participação nas apostas mútuas ou concursos de prognósticos processa-se pela inscrição das apostas em bilhetes do modelo adoptado, de acordo com as normas regulamentares aprovadas, e o pagamento do preço respectivo, a fixar pela Santa Casa da Misericórdia de Lisboa.
 
 § 1.º Os bilhetes, em regra nominativos, serão constituídos pelo menos por duas partes, identificáveis como pertencentes ao mesmo bilhete por um sinal comum de prevenção contra falsificações, representando a que fica em poder da Santa Casa da Misericórdia de Lisboa a matriz da aposta e a outra, que fica em poder do concorrente, o recibo comprovativo do pagamento do preço.
 
-§ 2.º No bilhete serão designadas exactamente as competições ou eventos sobre que, por meio de sinais convencionais obrigatórios, hão-de ser formados os prognósticos.
+§ 2.º - a) No bilhete serão designadas exactamente as competições ou eventos sobre que, por meio de sinal convencional obrigatório, hão-de ser formados os prognósticos.
+
+b) Poderá o Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa emitir bilhetes não indicando as competições ou eventos sobre os quais se formarão os prognósticos, a fim de que tais bilhetes possam ser utilizados em outro concurso, assim suprindo a eventual carência daqueles a que se refere a alínea anterior.
+
+c) A não utilização do sinal convencional obrigatório a que se refere a alínea a), que constará do Regulamento Geral dos Concursos, a que respeita o artigo 4.º, e apenas desse, poderá implicar para o apostador a perda do direito a prémio.
 
 § 3.º Os prémios que couberem a menores de 18 anos só podem ser pagos aos seus legais representantes.
 
-Art. 4.º Do verso do bilhete constarão obrigatòriamente as regras essenciais dos concursos que, em harmonia com as disposições deste diploma, forem aprovadas pelo Ministro da Saúde e Assistência, sob proposta da Santa Casa da Misericórdia de Lisboa. A participação no concurso implica a adesão a essas regras.
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
 
-Art. 5.º A entrega dos bilhetes e o pagamento do preço das apostas podem ser feitos directamente à Santa Casa da Misericórdia de Lisboa ou a agentes por ela autorizados, que são considerados mandatários dos concorrentes.
+###### Artigo 4.º
 
-Art. 6.º A recepção das matrizes das apostas, quer de agentes, quer de serviços da Santa Casa da Misericórdia de Lisboa, o depósito ou a reprodução em microfilme das mesmas e o escrutínio para apuramento dos premiados competem a um júri constituído pelo chefe do departamento de apostas mútuas desportivas, ou seu substituto, que presidirá, por um representante da autoridade administrativa, por um representante da Inspecção-Geral de Finanças e, sempre que possível, por um representante do público.
+A disciplina geral dos concursos, estabelecida por este diploma, será regulamentada por normas aprovadas pelo Ministro da Saúde e Assistência.
 
-§ único. Das operações previstas no corpo deste artigo, em que o júri será coadjuvado pelo pessoal que for necessário, será lavrada acta assinada pelo júri.
+§ 1.º Do verso dos bilhetes constará um extracto das normas consideradas essenciais.
 
-Art. 7.º A Santa Casa da Misericórdia de Lisboa distribuirá pelos agentes e publicará na imprensa a lista dos bilhetes premiados, com indicação do montante dos prémios correspondentes.
+§ 2.º A participação nos concursos implica a adesão às normas que os disciplinam.
 
-Art. 8.º Os prémios inferiores a 10$00 podem deixar de ser pagos, mas o seu valor será incluído no capital dos prémios a distribuir no concurso seguinte.
+> Alterado pelo/a [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074), publicado em 1967-08-28.
 
-Art. 9.º Todo o concorrente que se julgue prejudicado pode reclamar para o júri designado no artigo seguinte, no prazo de quinze dias, contados a partir daquele em que se efectuarem as competições incluídas no concurso.
+###### Artigo 5.º
 
-Art. 10.º As reclamações serão julgadas por um júri constituído por um magistrado designado pelo Ministro da Justiça, que presidirá, e representantes da autoridade administrativa, da Santa Casa da Misericórdia de Lisboa e da Inspecção-Geral de Finanças. Deste júri não pode fazer parte quem tenha intervindo na decisão reclamada.
+A entrega dos bilhetes e o pagamento do preço das apostas podem ser feitos directamente à Santa Casa da Misericórdia de Lisboa ou a agentes por ela autorizados, que são considerados mandatários dos concorrentes.
 
-§ único. As reclamações serão apresentadas por escrito perante o agente ou o serviço da Santa Casa da Misericórdia de Lisboa que recebeu a aposta, acompanhadas da importância de 10$00, que será restituída no caso de provimento. As importâncias perdidas pelos reclamantes, no caso de não provimento, constituem receitas do departamento de apostas mútuas desportivas.
+###### Artigo 6.º
 
-Art. 11.º O direito aos prémios caduca no prazo de 90 dias, a contar daquele em que se efectuarem as competições incluídas no concurso, constituindo receita da Santa Casa da Misericórdia de Lisboa.
+A superintendência e fiscalização das operações de microfilmagem e escrutínio das matrizes das apostas, bem como a deliberação sobre a atribuição dos prémios, competem a um júri, designado júri de concursos, constituído pelo director do Departamento de Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa, ou seu substituto, que presidirá, por um representante do Governo Civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
 
-Art. 12.º As regras dos concursos deverão prever:
+§ 1.º Da recepção dos microfilmes das matrizes e do escrutínio das apostas serão lavradas actas, a assinar pelo júri.
+
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 7.º
+
+Os resultados do escrutínio de cada concurso serão divulgados pelas agências referidas no artigo 5.º, de acordo com as normas regulamentares aplicáveis.
+
+> Alterado pelo/a [Decreto-Lei n.º 720/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-1976-408945), publicado em 1976-10-09.
+
+###### Artigo 8.º
+
+Do Regulamento Geral dos Concursos constará o limite mínimo a considerar na divisão do montante de cada prémio, bem como a forma de atribuição das importâncias que não atinjam esse limite.
+
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 9.º
+
+Os concorrentes que se considerem com direito a prémios poderão reclamar da atribuição destes para o júri designado no artigo 10.º dentro dos prazos fixados no Regulamento Geral dos Concursos, os quais não deverão exceder 60 dias a contar da data da realização do concurso.
+
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 10.º
+
+As reclamações serão julgadas por um júri, designado júri de reclamações, constituído por um magistrado designado pelo Conselho Superior da Magistratura, que presidirá, por um representante do Governo Civil de Lisboa, por um representante da Santa Casa da Misericórdia de Lisboa e por um representante da Inspecção-Geral de Finanças.
+
+§ 1.º O júri a que se refere o presente artigo não poderá ser integrado por qualquer dos membros do júri que haja proferido a deliberação impugnada.
+
+§ 2.º Das deliberações do mesmo júri apenas caberá recurso contencioso de anulação para a Auditoria Administrativa de Lisboa, nos termos da legislação geral aplicável.
+
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 11.º
+
+O direito aos prémios caduca no prazo de 90 dias a contar da data da realização do concurso, constituindo o respectivo montante receita da Santa Casa da Misericórdia de Lisboa.
+
+§ único. O prazo a que se refere o corpo do presente artigo bem como os casos e circunstâncias em que possa ocorrer a sua suspensão poderão ser alterados pelo Regulamento Geral dos Concursos.
+
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 12.º
+
+As regras dos concursos deverão prever:
 
 a) Mais de um prémio;
 
@@ -246,37 +326,59 @@ b) A divisão em partes iguais ou desiguais, pelos prémios, da importância que
 
 c) A divisão do montante de cada prémio, em partes iguais, por todos os concorrentes com prognósticos idênticos.
 
-§ único. Quando as regras das alíneas anteriores conduzirem à atribuição a concorrentes com prognósticos mais afastados dos resultados certos de importância maior que a atribuída a concorrentes com prognósticos mais aproximados, será dividida entre todos, em partes iguais, a importância total destinada a prémios.
+§ 1.º O júri de concursos apenas conferirá direito a prémio às apostas que hajam acertado no máximo de resultados, às que tenham um só resultado errado e às que apresentem dois resultados errados.
 
-Art. 13.º Do capital resultante das apostas de cada concurso, depois de deduzidas as comissões dos agentes e dos delegados regionais, será destinada a prémios importância não inferior à correspondente à percentagem de 45 por cento nem superior à de 50 por cento.
+§ 2.º É permitida a acumulação do montante de prémios não atribuídos num concurso ao montante de prémios do concurso imediatamente seguinte ou a outras categorias de prémios que se verificarem no mesmo concurso, em condições a fixar no Regulamento Geral dos Concursos.
 
-Art. 14.º O produto líquido da exploração destinar-se-á em partes iguais ao fomento da educação física e dos desportos, por um lado, e da assistência a diminuídos físicos, por outro lado.
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
 
-§ 1.º O quinhão destinado ao fomento da educação física será distribuído pela forma seguinte:
+###### Artigo 13.º
 
-a) 55 por cento para a Direcção-Geral de Educação Física, Desportos e Saúde Escolar;
+Da receita de cada concurso, a qual é constituída pelo montante total das apostas admitidas e das anuladas sem direito a restituição, nos termos do Regulamento Geral dos Concursos, será destinada obrigatoriamente à integração de prémios uma importância nunca inferior a 45% nem superior a 55%, a fixar naquele Regulamento.
 
-b) 25 por cento, sob proposta da mesa, e em portaria do Ministro da Educação Nacional, pelas federações das modalidades desportivas incluídas nos concursos a que respeitar o produto líquido a partilhar e bem assim pelas respectivas associações regionais das localidades em que tenham sede ou residência os clubes ou atletas individuais incluídos nos mesmos concursos, na proporção da importância dos serviços, que tiverem em funcionamento, de medicina desportiva, educação física, preparação atlética específica ou assistência a praticantes, e bem assim das necessidades concretas a que desejarem ocorrer pela instalação de serviços desta natureza ou satisfação de encargos com a mesma finalidade a outras instituições;
+> Alterado pelo/a [Decreto-Lei n.º 280/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1984-382402), publicado em 1984-08-13.
+
+###### Artigo 14.º
+
+1. O produto líquido da exploração na metrópole, depois de deduzidos 7 por cento para a Santa Casa da Misericórdia de Lisboa, instituição à qual compete organizar e explorar os concursos de Apostas Mútuas Desportivas, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos, por um lado, e da assistência a diminuídos físicos, por outro lado.
+
+2. O quinhão destinado ao fomento da educação física será distribuído pela forma seguinte:
+
+a) 55 por cento para o Fundo de Fomento do Desporto;
+
+b) 25 por cento, em portaria do Ministro da Educação Nacional, pelas federações das modalidades desportivas incluídas nos concursos a que respeitar o produto líquido a partilhar e bem assim pelas respectivas associações regionais das localidades em que tenham sede ou residência os clubes ou atletas individuais incluídos nos concursos, na proporção da importância dos serviços, que tiverem em funcionamento, de medicina desportiva, educação física, preparação atlética específica ou assistência a praticantes, e bem assim das necessidades concretas a que desejarem ocorrer pela instalação de serviços desta natureza ou satisfação de encargos com a mesma finalidade a outras instituições;
 
 c) 20 por cento para a Fundação Nacional para a Alegria no Trabalho.
 
-§ 2.º O quinhão destinado à assistência a diminuídos físicos será distribuído pelo modo seguinte:
+3. O quinhão destinado à assistência a diminuídos físicos será distribuído pelo modo seguinte:
 
-a) 50 por cento, sob proposta da mesa, e em portaria do Ministro da Saúde e Assistência, pelas Santas Casas da Misericórdia ou outras instituições de assistência de Lisboa, do Porto e bem assim das localidades em que tenham sede ou residência clubes ou atletas individuais incluídos nos concursos a que respeitar o produto líquido a partilhar, na proporção da importância dos serviços de assistência a diminuídos físicos que tiverem em funcionamento e bem assim das necessidades concretas a que desejarem ocorrer pela instalação de serviços desta natureza ou satisfação de encargos com a mesma finalidade a outras instituições;
+a) 50 por cento, em portaria do Ministro da Saúde e Assistência, pelas Santas Casas da Misericórdia ou outras instituições de assistência, na proporção da importância dos serviços de assistência a diminuídos físicos que tenham em funcionamento ou se proponham instalar;
 
-b) 50 por cento para a Direcção-Geral de Assistência.
+b) 50 por cento para a Direcção-Geral da Assistência.
 
-Art. 15.º Da exploração em Angola e Moçambique, com a limitação prevista no artigo 21.º, pertencerá a cada uma destas províncias, e para os fins designados no artigo anterior, a percentagem de 70 por cento do produto líquido respeitante às apostas efectuadas nos respectivos territórios. Os restantes 30 por cento serão distribuídos nos termos dos §§ 1.º e 2.º do artigo anterior.
+> Alterado pelo/a [Decreto-Lei n.º 636/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1970-146055), publicado em 1970-12-22.
 
-§ 1.º O regime estabelecido neste artigo pode ser ampliado a outras províncias ultramarinas por portarias dos Ministros do Ultramar, Educação Nacional, Corporações e Previdência Social e Saúde e Assistência.
+###### Artigo 15.º
 
-§ 2.º Poderá a Santa Casa da Misericórdia de Lisboa instalar nas províncias ultramarinas os serviços administrativos que forem necessários para a exploração das apostas mútuas desportivas, em cooperação, sempre que for conveniente, com os organismos ou serviços que o Ministério do Ultramar indicar.
+1. O produto líquido da exploração nas províncias ultramarinas, depois de efectuada a dedução fixada no n.º 1 do artigo 14.º, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos e à assistência a diminuídos físicos.
 
-§ 3.º A distribuição dos quinhões do produto líquido pertencentes às províncias ultramarinas compete aos respectivos governos.
+2. O quinhão destinado ao fomento da educação física e desportos será distribuído pelo conselho provincial de educação física de cada província ultramarina, pela forma seguinte:
 
-§ 4.º Os saldos existentes nas contas de depósito da Santa Casa da Misericórdia de Lisboa (departamento de apostas mútuas desportivas) nas províncias ultramarinas, depois de deduzida a comparticipação prevista no corpo deste artigo, serão livremente transferíveis para a metrópole, sem encargos a favor das províncias.
+a) 55 por cento para fomentar o desenvolvimento das actividades gimnodesportivas ou para realizar outros fins de interesse pedagógico ou social com elas relacionados - mormente a deslocação de representações provinciais à metrópole ou a outras províncias em disputa de provas oficiais;
 
-Art. 16.º À mesa da Santa Casa da Misericórdia, a que, por força do [Decreto-Lei n.º 43399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43399-1960-512842), de 15 de Dezembro de 1960, já acrescem para a gerência da lotaria nacional representantes dos Ministérios das Finanças, do Ultramar e da Saúde e Assistência, acrescerão o provedor da Santa Casa da Misericórdia do Porto e outro provedor de uma Santa Casa da Misericórdia e ainda, para a gerência das apostas mútuas desportivas, um representante do Ministério da Educação Nacional, outro da Federação Portuguesa de Futebol, outro da Fundação Nacional para a Alegria no Trabalho e o chefe da Repartição da Lotaria Nacional.
+b) 35 por cento para a associação provincial de futebol, que destinará anualmente uma verba não superior a 10 por cento da receita para o encargo de deslocações em jogos de futebol interprovinciais ou nacionais;
+
+c) 10 por cento para o Fundo de Acção Social no Trabalho, para finalidades gimnodesportivas e para assegurar o intercâmbio em jogos desportivos de trabalhadores entre as províncias ultramarinas e entre estas e a metrópole.
+
+3. O quinhão destinado à assistência diminuídos físicos será distribuído, mediante despacho do governador, pela direcção de serviços de saúde e assistência e pelo organismo, com autonomia administrativa, que em cada província centralizar a acção de assistência social.
+
+4. Poderá a Santa Casa da Misericórdia de Lisboa instalar nas províncias ultramarinas os serviços administrativos que forem necessários para a exploração das Apostas Mútuas Desportivas, em cooperação, sempre que for conveniente, com os organismos ou serviços que o Ministério do Ultramar indicar.
+
+> Alterado pelo/a [Decreto-Lei n.º 636/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1970-146055), publicado em 1970-12-22.
+
+###### Artigo 16.º
+
+À mesa da Santa Casa da Misericórdia, a que, por força do [Decreto-Lei n.º 43399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43399-1960-512842), de 15 de Dezembro de 1960, já acrescem para a gerência da lotaria nacional representantes dos Ministérios das Finanças, do Ultramar e da Saúde e Assistência, acrescerão o provedor da Santa Casa da Misericórdia do Porto e outro provedor de uma Santa Casa da Misericórdia e ainda, para a gerência das apostas mútuas desportivas, um representante do Ministério da Educação Nacional, outro da Federação Portuguesa de Futebol, outro da Fundação Nacional para a Alegria no Trabalho e o chefe da Repartição da Lotaria Nacional.
 
 § 1.º O provedor não designado no corpo deste artigo será eleito pelas Santas Casas da Misericórdia da metrópole e do ultramar e exercerá o mandato por 3 anos, competindo à Santa Casa da Misericórdia de Lisboa promover que a eleição esteja concluída até 30 dias antes do termos da cada mandato.
 
@@ -286,27 +388,41 @@ Art. 16.º À mesa da Santa Casa da Misericórdia, a que, por força do [Decreto
 
 § 4.º Nas reuniões das comissões executivas servirão de secretários, respectivamente, o chefe da Repartição da Lotaria ou o chefe do departamento de apostas mútuas desportivas.
 
-Art. 17.º É criado na Santa Casa da Misericórdia de Lisboa um departamento de apostas mútuas desportivas, destinado a assegurar o expediente das actividades a que se refere este diploma, com autonomia financeira, orçamento e conta própria.
+###### Artigo 17.º
+
+É criado na Santa Casa da Misericórdia de Lisboa um departamento de apostas mútuas desportivas, destinado a assegurar o expediente das actividades a que se refere este diploma, com autonomia financeira, orçamento e conta própria.
 
 § 1.º A organização interna deste departamento e o modo da sua dependência ou coordenação com a Repartição da Lotaria e os demais serviços da Santa Casa da Misericórdia de Lisboa, os critérios para compensação desta por encargos ocasionados pela exploração das apostas mútuas desportivas, a competência dos diversos órgãos para autorização das despesas, os quadros do pessoal, as respectivas remunerações e bem assim as dos membros da mesa, das comissões executivas e dos júris previstos nos artigos 6.º e 10.º e ainda a integração nos quadros do pessoal já ao serviço serão fixados em portaria do Ministro da Saúde e Assistência.
 
 § 2.º Para facilidade de relações de natureza comercial, é autorizada a Santa Casa da Misericórdia de Lisboa a abrir contas em quaisquer estabelecimentos bancários.
 
-§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto nos artigos 13.º e 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.
+§ 3.º É aplicável à exploração das apostas mútuas desportivas o disposto no artigo 13.º e na alínea a) do artigo 14.º do Decreto-lei n.º 40397, de 24 de Novembro de 1955.
 
 § 4.º Podem os Ministros das Finanças e das Comunicações estabelecer, em portaria, um regime especial adequado ao pagamento dos prémios por meio de vale de correio ou cheques sobre a Caixa Geral de Depósitos, Crédito e Previdência.
 
-Art. 18.º As operações de recolha de apostas, o envio dos bilhetes à Santa Casa da Misericórdia de Lisboa, o depósito e a microfilmagem das matrizes, o apuramento dos premiados, o pagamento dos prémios, assim como a contabilidade da exploração das apostas mútuas desportivas, serão fiscalizadas pela Inspecção-Geral de Finanças.
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1961-172537), publicado em 1961-07-18.
 
-Art. 19.º Para os efeitos previstos nos artigos 270.º e 271.º do Código Penal, os concursos de prognósticos ou apostas mútuas e actividades similares consideram-se lotarias nacionais, sendo a multa não inferior a 20000$00 nem ao triplo do valor das operações ilícitas e a prisão não inferior a três meses.
+###### Artigo 18.º
+
+As operações de recolha de apostas, o envio dos bilhetes à Santa Casa da Misericórdia de Lisboa, o depósito e a microfilmagem das matrizes, o apuramento dos premiados, o pagamento dos prémios, assim como a contabilidade da exploração das apostas mútuas desportivas, serão fiscalizadas pela Inspecção-Geral de Finanças.
+
+###### Artigo 19.º
+
+Para os efeitos previstos nos artigos 270.º e 271.º do Código Penal, os concursos de prognósticos ou apostas mútuas e actividades similares consideram-se lotarias nacionais, sendo a multa não inferior a 20000$00 nem ao triplo do valor das operações ilícitas e a prisão não inferior a três meses.
 
 § único. Metade do produto das multas constituirá receita do Cofre Geral dos Tribunais e a outra metade do departamento de apostas mútuas desportivas.
 
-Art. 20.º Os indivíduos que falsifiquem ou viciem os bilhetes, ou deles façam uso, e bem assim os que falsifiquem qualquer acto das operações previstas no artigo 18.º, incorrem na sanção do artigo 229.º do Código Penal, sem prejuízo do disposto no § 1.º do artigo 451.º do mesmo código.
+###### Artigo 20.º
 
-Art. 21.º (transitório). Nos primeiras três anos económicos só será distribuída, quer quanto à metrópole, quer quanto ao ultramar, a parte do produto líquido que exceder a importância a deduzir do mesmo para compensação da lotaria nacional pela diminuição do seu rendimento que eventualmente ocorra e os Ministros do Ultramar e da Saúde e Assistência, sob proposta da mesa, e com a concordância do Ministro das Finanças, julguem atribuível à exploração das apostas mútuas desportivas.
+Os indivíduos que falsifiquem ou viciem os bilhetes, ou deles façam uso, e bem assim os que falsifiquem qualquer acto das operações previstas no artigo 18.º, incorrem na sanção do artigo 229.º do Código Penal, sem prejuízo do disposto no § 1.º do artigo 451.º do mesmo código.
 
-Art. 22.º (transitório). Consideram-se autorizadas as despesas de 1.º estabelecimento do departamento de apostas mútuas desportivas, incluindo os encargos relativos a pessoal, obras, fornecimento e aquisição de equipamentos nacionais ou estrangeiros, e bem assim os derivados de contratos com peritos estrangeiros, independentemente da sua duração, que foram ou vierem a ser satisfeitos por meio de conta de depósito que, para o efeito, haja sido criada ou do orçamento da lotaria nacional.
+###### Artigo 21.º — transitório
+
+Nos primeiras três anos económicos só será distribuída, quer quanto à metrópole, quer quanto ao ultramar, a parte do produto líquido que exceder a importância a deduzir do mesmo para compensação da lotaria nacional pela diminuição do seu rendimento que eventualmente ocorra e os Ministros do Ultramar e da Saúde e Assistência, sob proposta da mesa, e com a concordância do Ministro das Finanças, julguem atribuível à exploração das apostas mútuas desportivas.
+
+###### Artigo 22.º — transitório
+
+Consideram-se autorizadas as despesas de 1.º estabelecimento do departamento de apostas mútuas desportivas, incluindo os encargos relativos a pessoal, obras, fornecimento e aquisição de equipamentos nacionais ou estrangeiros, e bem assim os derivados de contratos com peritos estrangeiros, independentemente da sua duração, que foram ou vierem a ser satisfeitos por meio de conta de depósito que, para o efeito, haja sido criada ou do orçamento da lotaria nacional.
 
 § único. As despesas a que se refere este artigo, que se considera em vigor enquanto não for aprovado o orçamento do departamento de apostas mútuas desportivas, serão por este reembolsadas à lotaria nacional, nos termos e nos prazos que a mesa fixar.
 

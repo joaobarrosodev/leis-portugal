@@ -113,7 +113,7 @@
    ]
   },
   {
-   "date": "1999-03-28",
+   "date": "2006-03-25",
    "future": false,
    "acts": [
     {
@@ -127,6 +127,12 @@
      "title": "Decreto-Lei n.º 94/99",
      "published": "1999-03-23",
      "dre_path": "/dr/detalhe/decreto-lei/94-1999-150335"
+    },
+    {
+     "id": "pt:dre:671387:por",
+     "title": "Decreto-Lei n.º 74/2006",
+     "published": "2006-03-24",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2006-671387"
     }
    ],
    "changes": [
@@ -139,7 +145,15 @@
     "Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::53.º",
     "Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::66.º",
     "Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::72.º",
-    "Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::34.º"
+    "Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::34.º",
+    "Revoga Artigo 39",
+    "Revoga Artigo 53",
+    "Revoga Artigo 57",
+    "Revoga Artigo 58",
+    "Revoga Artigo 59",
+    "Revoga Artigo 60",
+    "Revoga Artigo 64",
+    "Revoga Artigo 67"
    ],
    "fragments": [
     "afb5fcf931bddd72",
@@ -193,7 +207,7 @@
     "b62eadc105c91b46",
     "cfe566efc568996a",
     "aa7ac35f3627df93",
-    "74a003843f49bacc",
+    "440b3cfce93df763",
     "2ffc186dda30dd7d",
     "99542b4bba2696c6",
     "c90a63954a20e801",
@@ -213,23 +227,23 @@
     "0e2da02f1a414f67",
     "a511b828fd57eb7e",
     "2efbb6df5bf600ea",
-    "e7e2530fa72edd10",
+    "ca7612780708e4f5",
     "37b4c4d080333a22",
     "9a91ccf906c9c8b9",
     "f70cc85dca6ad418",
     "fc3d75fbf5ca2e3f",
     "4beea936a3ac6f51",
-    "e5e7d5a51f4b2ee2",
-    "855772a35f6310df",
-    "90133f5dc1b06348",
-    "d7f839b7520123b3",
+    "77ee7c89a0355e2b",
+    "f3c7fabdaa199b05",
+    "873561cc156438d0",
+    "429ccdfc431861a5",
     "c37766816a728c7b",
     "4aacefcaed6fbd71",
     "e1df19f2bd87acd3",
-    "5b49b16966645e27",
+    "bfde13fd918afcde",
     "ce61e6ce40b6c459",
     "0d20231d021e1928",
-    "0459420f51a527b8",
+    "69492928ffaaef7b",
     "195de47e63c9e183",
     "118152de3db00304",
     "406929ab4c591f4b",
@@ -1042,7 +1056,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — Princípios de organização",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
@@ -1052,7 +1066,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º — Competência do Ministério da Educação",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
@@ -1062,7 +1076,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º — Universidades",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
@@ -1072,7 +1086,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º — Participação de docentes e discentes",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
@@ -1082,7 +1096,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º — Órgãos científicos e adaptações orgânicas",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
@@ -1092,47 +1106,105 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º — Funcionamento",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23."
    ],
    "markdown": "###### Artigo 34.º — Funcionamento\n\n1 - O funcionamento de um curso conferente de grau ou diploma de estudos superiores especializados carece de autorização do Ministro da Educação.\n\n2 - Com o pedido de autorização de funcionamento de cursos será requerido o reconhecimento dos respectivos graus ou diplomas.\n\n3 - O funcionamento, num estabelecimento de ensino superior particular ou cooperativo reconhecido nos termos da lei, de um curso que pretenda conferir o grau de bacharel, licenciado, mestre ou doutor sem a prévia autorização de funcionamento e reconhecimento de grau nos termos deste diploma determina:\n\na) O indeferimento do requerimento de autorização de funcionamento e reconhecimento de grau se apresentado, qualquer que seja o momento em que o tenha sido ou venha a ser;\n\nb) O encerramento do curso.\n\n4 - O não encerramento do curso por parte da entidade instituidora e do órgão competente do estabelecimento determina o encerramento compulsivo do mesmo nos termos do artigo 47.º\n\n5 - O ensino ministrado nos cursos a que se refere o número anterior não é passível de reconhecimento ou equivalência no âmbito de cursos de ensino superior.\n\n> Alterado pelo/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23."
   },
-  "e7e2530fa72edd10": {
+  "440b3cfce93df763": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Concessão dos graus de mestre e doutor",
+   "in_force_from": "2006-03-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), publicado em 2006-03-24, com efeitos a partir de 2006-03-25."
+   ],
+   "markdown": "###### Artigo 39.º — Concessão dos graus de mestre e doutor\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O regime aplicável à atribuição dos graus de mestre e doutor é o previsto para os estabelecimentos de ensino superior público.\n\n4 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), publicado em 2006-03-24, com efeitos a partir de 2006-03-25."
+  },
+  "ca7612780708e4f5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 53.º — Decisão",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
-   "markdown": "###### Artigo 53.º — Decisão\n\n1 - A decisão sobre os pedidos de reconhecimento de interesse público de um estabelecimento de ensino será proferida no prazo máximo de seis meses após a entrada do respectivo processo no Ministério da Educação.\n\n2 - Considera-se tacitamente indeferido o pedido de reconhecimento de interesse público dos estabelecimentos de ensino se o Ministro da Educação se não pronunciar no prazo fixado no número anterior.\n\n3 - O autor do pedido tem a faculdade de requerer ao Ministro da Educação, no prazo de 30 dias a contar da data do indeferimento tácito, a explicitação de quais as razões que podem justificar a decisão negativa.\n\n4 - No caso de não haver resposta ao requerimento previsto no número anterior, no prazo de 30 dias após a entrada do mesmo no Ministério da Educação, poderá o requerente renovar imediatamente o pedido.\n\n5 - A decisão sobre o pedido de alteração de um curso prevista no artigo 67.º será igualmente proferida no prazo máximo de seis meses, após a entrada do respectivo processo, devidamente instruído, no Ministério da Educação, considerando-se, neste caso, automaticamente deferido o pedido da alteração caso o Ministério não se pronuncie no prazo referido.\n\n> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
+   "markdown": "###### Artigo 53.º — Decisão\n\n1 - A decisão sobre os pedidos de reconhecimento de interesse público de um estabelecimento de ensino será proferida no prazo máximo de seis meses após a entrada do respectivo processo no Ministério da Educação.\n\n2 - Considera-se tacitamente indeferido o pedido de reconhecimento de interesse público dos estabelecimentos de ensino se o Ministro da Educação se não pronunciar no prazo fixado no número anterior.\n\n3 - O autor do pedido tem a faculdade de requerer ao Ministro da Educação, no prazo de 30 dias a contar da data do indeferimento tácito, a explicitação de quais as razões que podem justificar a decisão negativa.\n\n4 - No caso de não haver resposta ao requerimento previsto no número anterior, no prazo de 30 dias após a entrada do mesmo no Ministério da Educação, poderá o requerente renovar imediatamente o pedido.\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
   },
   "fc3d75fbf5ca2e3f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º-A — Funcionamento de estabelecimento não reconhecido",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23."
    ],
    "markdown": "###### Artigo 56.º-A — Funcionamento de estabelecimento não reconhecido\n\n1 - O funcionamento de um estabelecimento de ensino particular ou cooperativo onde se pretendam ministrar cursos que confiram o grau de bacharel, licenciado, mestre ou doutor sem o prévio reconhecimento de interesse público nos termos deste diploma determina:\n\na) O indeferimento do requerimento de reconhecimento de interesse público, se apresentado, qualquer que seja o momento em que o tenha sido ou venha a ser;\n\nb) O encerramento do estabelecimento.\n\n2 - As medidas a que se refere o número anterior são determinadas por despacho do Ministro da Educação.\n\n3 - O encerramento é solicitado às autoridades administrativas e policiais com comunicação do despacho correspondente.\n\n4 - O ensino ministrado nos estabelecimentos a que se refere o presente artigo não é passível de reconhecimento ou equivalência no âmbito de cursos de ensino superior.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23."
   },
+  "77ee7c89a0355e2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Requerimento para o funcionamento de cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Requerimento para o funcionamento de cursos\n\n1 - (Revogado.)\n\n2 - Considera-se criação de cursos, para todos os efeitos, a leccionação de um curso com funcionamento autorizado em instalações diversas daquelas para as quais foi requerido e autorizado o funcionamento de cursos."
+  },
+  "f3c7fabdaa199b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Prazo\n\n(Revogado.)"
+  },
+  "873561cc156438d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Organização e apreciação do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Organização e apreciação do processo\n\n(Revogado.)"
+  },
+  "429ccdfc431861a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Decisão\n\n(Revogado.)"
+  },
+  "bfde13fd918afcde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Decisão de autorização ou de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Decisão de autorização ou de aprovação\n\n(Revogado.)"
+  },
   "0d20231d021e1928": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 66.º — Regime transitório e revogação",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],
    "markdown": "###### Artigo 66.º — Regime transitório e revogação\n\n1 - As entidades instituidoras de estabelecimento de ensino superior particular ou cooperativo reconhecidos à data da entrada do presente diploma devem promover a adaptação ao regime estabelecido pelo presente Estatuto, desde que satisfeitos os requisitos nele exigidos, até 30 de Junho de 1997.\n\n2 - O incumprimento dos requisitos legais, das disposições estatutárias e dos critérios científicos e pedagógicos que determinaram a autorização de funcionamento de curso e o reconhecimento do grau ou diploma poderão determinar a sua revogação.\n\n3 - O processo em que for proferida a decisão de revogação de reconhecimento será instruído e seguirá a tramitação prevista no artigo 47.º\n\n> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
   },
+  "69492928ffaaef7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Alteração a planos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Alteração a planos de estudos\n\n(Revogado.)"
+  },
   "bc73d1da5382ca9d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 72.º — Publicação",
-   "in_force_from": "1999-03-28",
+   "in_force_from": "2006-03-25",
    "changed_by": [
     "Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11."
    ],

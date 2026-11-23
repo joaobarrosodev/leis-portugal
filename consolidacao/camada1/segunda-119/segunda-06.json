@@ -1,0 +1,38 @@
+[
+ {
+  "id": "pt:dre:376218:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:512987:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Decreto-Lei n.º 50/93, art. 31.º, revoga expressamente o Decreto-Lei n.º 43351 («salvo o disposto no artigo seguinte»); o art. 32.º mantém-no transitoriamente em vigor até à publicação dos regulamentos previstos. Relação repealed_by no registo do DRE."
+  }
+ },
+ {
+  "id": "pt:dre:322681:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:309893:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "Regula só o recenseamento para a eleição da Assembleia Constituinte de 1975 (art. 30.º e prazos dos arts. 32.º a 40.º, todos de 1974-1975); a Lei n.º 36/2019, art. 7.º, declara a não vigência, por caducidade ou revogação, dos seus alteradores de 1975 (DL 3/75, 38-B/75, entre outros). Inferência, não declaração expressa sobre o próprio DL 621-A/74."
+  }
+ },
+ {
+  "id": "pt:dre:222248:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

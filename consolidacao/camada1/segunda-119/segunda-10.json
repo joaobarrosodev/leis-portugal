@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:444725:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:285363:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:631797:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "DL 35/94, art. 2.º, substitui por inteiro a tabela anexa a que se refere o art. 7.º; a instrução foi para nao_aplicavel («só em imagem», sem título de anexo), conforme a adenda. Mas o consolidado continua a mostrar, no fim do corpo do art. 43.º, «Tabela a que se refere a artigo 7.º» seguida da imagem de 1971 (https://files.diariodarepublica.pt/1s/1971/11/27600/18101819.pdf), que está inteiramente substituída (o DL 35/94 eliminou os emolumentos e atualizou as taxas). A linha de imagem é texto do diploma: poderia ser trocada pela do alterador (https://files.diariodarepublica.pt/1s/1994/02/032a00/06150616.pdf), mantendo a linha de imagem dos modelos I a V. Não decido porque a regra «sem título de anexo → nao_aplicavel» manda não aplicar.",
+   "Sem problema de consolidação: o art. 29.º está bem (n.os 3 a 5 do DL 119/2010 substituem os antigos n.os 3 e 4; n.os 1 e 2 mantidos com «...»). O art. 7.º, n.º 2, está inteiro no ficheiro consolidado; as linhas «## Título II…», «## Título I…», «## Título IV…» são texto do original mal marcado como cabeçalho (já assim no original importado), não perda de texto."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:527451:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:249798:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "DLR 26-A/98/M, art. 1.º, altera os mapas I a IV e IX «nas partes respectivas», com imagem nova no alterador (https://files.diariodarepublica.pt/1s/1998/12/294a01/00020012.pdf); foi para nao_aplicavel por não haver título de anexo, conforme a adenda. O texto atual tem, no fim, a linha «[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/033a02/00040066.pdf)»; pela regra da alteração parcial em imagem, acrescentar-se-ia a linha de imagem do alterador a seguir a essa. Não decido porque a regra «sem título de anexo → nao_aplicavel» manda não aplicar.",
+   "A retificação 10-A/98 (mapa IV, 04.01 e 04.02 a 04.04) não tem imagem e o mapa IV só existe em imagem: não aplicável, bem justificado. Art. 8.º bem substituído (novo n.º 3 incluído; nada do texto antigo ficou). O art. 3.º do alterador é de outro diploma (DLR 23/98/M): bem justificado."
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "É o Orçamento da Região Autónoma da Madeira para 1998 (art. 1.º e título do DLR 26-A/98/M: «Orçamento da Região Autónoma da Madeira para 1998»), lei de vigência anual."
+  }
+ }
+]

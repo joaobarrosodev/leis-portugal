@@ -1,31 +1,45 @@
 [
   {
-    "artigo": "10.º",
+    "artigo": "50.º",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)\n\nA função de Deputado à Assembleia Constituinte não é compatível com a de membro do Conselho de Estado ou do Governo Provisório.",
-    "depois": "###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)\n\n1 - A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.\n\n2 - Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.\n\n> Alterado pelo/a [Decreto-Lei n.º 541-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716), publicado em 1975-09-27.",
+    "antes": "###### Artigo 50.º — (Inscrição dolosa)\n\n1 - Aquele que dolosamente inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.\n\n2 - Aquele que dolosamente se inscrever mais de uma vez ou que promover a inscrição do mesmo cidadão no recenseamento eleitoral de dois ou mais locais de recenseamento será punido com a pena de prisão de seis meses a um ano e multa de 1000$00 a 5000$00.\n\n3 - Todo o português residente no estrangeiro que, não estando nas condições previstas no artigo 4.º, der falsas informações, a fim de obter a sua inscrição no recenseamento, será punido com a pena do n.º 2. Se, porém, conseguir inscrever-se, a pena aplicável será a do n.º 1.",
+    "depois": "###### Artigo 50.º — (Inscrição dolosa)\n\n1 - Aquele que dolosamente se inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.\n\n2 - Aquele que dolosamente se inscrever mais de uma vez ou que promover a inscrição do mesmo cidadão no recenseamento eleitoral de dois ou mais locais de recenseamento será punido com a pena de prisão de seis meses a um ano e multa de 1000$00 a 5000$00.\n\n3 - Todo o português residente no estrangeiro que, não estando nas condições previstas no artigo 4.º, der falsas informações, a fim de obter a sua inscrição no recenseamento, será punido com a pena do n.º 2. Se, porém, conseguir inscrever-se, a pena aplicável será a do n.º 1.\n\n> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-468178), publicado em 1974-12-17.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)\n\nA função de Deputado à Assembleia Constituinte não é compatível com a de membro do Conselho de Estado ou do Governo Provisório.",
+    "depois": "###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)\n\n1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.\n\n2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.\n\n> Alterado pelo/a [Decreto-Lei n.º 541-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716), publicado em 1975-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309893:por",
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "30.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 30.º — (Período de inscrição)\n\n1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 a 29 de Dezembro de 1974.\n\n2 - A inscrição dos eleitores residentes fora do território eleitoral no recenseamento para a eleição da Assembleia Constituinte decorrerá entre datas a fixar, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território, por forma que os eleitores disponham do prazo mínimo de quinze dias para procederem à inscrição.",
-    "depois": "###### Artigo 30.º — (Pedido de inscrição)\n\n1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.\n\n2 - A inscrição dos eleitores residentes fora do território eleitoral no recenseamento para a eleição da Assembleia Constituinte decorrerá entre datas a fixar, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território, por forma que os eleitores disponham do prazo mínimo de quinze dias para procederem à inscrição.\n\n> Alterado pelo/a [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), publicado em 1975-01-07.",
+    "depois": "###### Artigo 30.º — (Período de inscrição)\n\n1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.\n\n2 - A inscrição dos eleitores residentes fora do território eleitoral no recenseamento para a eleição da Assembleia Constituinte decorrerá entre datas a fixar, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território, por forma que os eleitores disponham do prazo mínimo de quinze dias para procederem à inscrição.\n\n> Alterado pelo/a [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), publicado em 1975-01-07.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "32.º",
@@ -39,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "40.º",
@@ -53,21 +67,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "36.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 36.º — (Exposição de cópia para exame e reclamação)\n\n1 - De 7 a 16 de Janeiro de 1975 estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.\n\n2 - O disposto no n.º 1 é igualmente válido, fora do território eleitoral, nos consulados de carreira, secções consulares ou embaixadas indicadas para efeito de recenseamento e nos locais dos territórios ultramarinos ainda sob administração portuguesa fixados nos termos do n.º 1 do artigo 23.º\n\n3 - O exame será feito tanto pelos cadernos originais no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa como pelas cópias referidas no n.º 5 do artigo 19.º\n\n4 - Os partidos políticos poderão obter cópia ou fotocópia dos cadernos eleitorais a que se referem os números anteriores desde que paguem as despesas ou ponham à disposição das comissões de recenseamento os meios técnicos adequados.",
-    "depois": "###### Artigo 36.º — (Exposição da cópia para exame e reclamação)\n\n1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.\n\nSem prejuízo do cumprimento da data limite de 11 de Fevereiro, o período da exposição dos cadernos definitivos não poderá ser inferior a cinco dias nem superior a dez dias.\n\n2 - O disposto no n.º 1 é igualmente válido, fora do território eleitoral, nos consulados de carreira, secções consulares ou embaixadas indicadas para efeito de recenseamento e nos locais dos territórios ultramarinos ainda sob administração portuguesa fixados nos termos do n.º 1 do artigo 23.º\n\n3 - O exame será feito tanto pelos cadernos originais no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa como pelas cópias referidas no n.º 5 do artigo 19.º\n\n4 - Os partidos políticos poderão obter cópia ou fotocópia dos cadernos eleitorais a que se referem os números anteriores desde que paguem as despesas ou ponham à disposição das comissões de recenseamento os meios técnicos adequados.\n\n> Alterado pelo/a [Decreto-Lei n.º 38-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-1975-617141), publicado em 1975-01-31.",
+    "depois": "###### Artigo 36.º — (Exposição de cópia para exame e reclamação)\n\n1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.\n\nSem prejuízo do cumprimento da data limite de 11 de Fevereiro, o período da exposição dos cadernos definitivos não poderá ser inferior a cinco dias nem superior a dez dias.\n\n2 - O disposto no n.º 1 é igualmente válido, fora do território eleitoral, nos consulados de carreira, secções consulares ou embaixadas indicadas para efeito de recenseamento e nos locais dos territórios ultramarinos ainda sob administração portuguesa fixados nos termos do n.º 1 do artigo 23.º\n\n3 - O exame será feito tanto pelos cadernos originais no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa como pelas cópias referidas no n.º 5 do artigo 19.º\n\n4 - Os partidos políticos poderão obter cópia ou fotocópia dos cadernos eleitorais a que se referem os números anteriores desde que paguem as despesas ou ponham à disposição das comissões de recenseamento os meios técnicos adequados.\n\n> Alterado pelo/a [Decreto-Lei n.º 38-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-1975-617141), publicado em 1975-01-31.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "37.º",
@@ -81,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "38.º",
@@ -95,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "39.º",
@@ -109,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   },
   {
     "artigo": "41.º",
@@ -123,6 +137,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:309893:por",
-    "alterador": "pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
+    "alterador": "pt:dre:468178:por;pt:dre:264716:por;pt:dre:356759:por;pt:dre:617141:por;pt:dre:160095:por"
   }
 ]

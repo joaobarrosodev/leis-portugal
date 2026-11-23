@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:527451:por",
+  "substituicoes": [
+   {
+    "de": 3,
+    "ate": 3,
+    "texto": "Artigo 1.º - (Revogado.)",
+    "alterador": 1
+   },
+   {
+    "de": 4,
+    "ate": 5,
+    "texto": "Art. 2.º - (Revogado.)",
+    "alterador": 1
+   },
+   {
+    "de": 6,
+    "ate": 7,
+    "texto": "Art. 3.º - (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (DL 515/71), art. 5.º: revoga os artigos 1.º, 2.º e 3.º do DL 48879; cada artigo fica com a sua numeração tal como está no texto atual ('Artigo 1.º', 'Art. 2.º', 'Art. 3.º') e '(Revogado.)', como mandam as regras (unidade revogada fica com a numeração e '(Revogado.)'); os n.os 1 e 2 dos artigos 2.º e 3.º entram na mesma substituição. Os reparos apontam esses parágrafos por não estarem nas fontes, mas a forma é a que as regras prescrevem para unidades revogadas; o resto do texto não muda.",
+   "Alterador 1, arts. 1.º a 4.º: disposições próprias do DL 515/71 (novo regime do grau de licenciado), não alteram o texto do original."
+  ]
+ }
+]

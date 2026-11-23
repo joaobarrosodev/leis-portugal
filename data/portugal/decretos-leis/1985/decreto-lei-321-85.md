@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-06-22'
+version_history:
+  file: decreto-lei-321-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-06-22'
+    amending: pt:dre:644321:por
+    amending_title: Decreto-Lei n.º 229-A/88; Decreto-Lei n.º 213/91
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:06:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 229-A/88; Decreto-Lei
+    n.º 213/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-321-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,19 +155,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º — (Emissão de títulos de participação)
+###### Artigo 1.º — Emissão de títulos de participação
 
 1 - As empresas públicas e as sociedades anónimas pertencentes maioritariamente ao Estado, directa ou indirectamente, podem, de acordo com o disposto no presente diploma, emitir títulos de crédito denominados «títulos de participação», representativos de empréstimos por elas contraídos.
 
 2 - A emissão depende de autorização do Ministro das Finanças e do Plano.
 
-3 - A emissão não pode exceder a soma do capital realizado e das reservas constantes do último balanço aprovado da entidade emitente, devendo, no cálculo do limite de cada emissão, ser considerados pelo valor nominal os títulos anteriormente emitidos ao abrigo das disposições do presente decreto-lei, vivos na data da respectiva deliberação.
+3 - O valor nominal global de cada emissão, adicionado ao valor nominal global dos títulos vivos de anteriores emissões, realizadas nos termos do presente diploma, não pode exceder duas vezes a soma do capital realizado, das reservas constituídas e dos resultados transitados.
 
-4 - Os títulos de participação são emitidos pelo seu valor nominal.
+4 - O preço de emissão dos títulos de participação pode ser o seu valor nominal ou este último adicionado de um prémio de emissão.
 
 5 - Os títulos de participação podem ser nominativos ou ao portador e ser admitidos à cotação nas bolsas de valores.
 
 6 - Podem ser emitidos títulos representativos de mais de um título de participação.
+
+> Alterado pelo/a [Decreto-Lei n.º 229-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-a-1988-644321), publicado em 1988-07-04.
 
 ###### Artigo 2.º — (Designações)
 
@@ -175,11 +193,25 @@ Nas disposições seguintes deste diploma as designações «empresa», «títul
 
 8 - O apuramento feito pela empresa dos elementos a atender para a determinação da remuneração e, bem assim, o cálculo desta devem ser submetidos a parecer de revisor oficial de contas a nomear pelos participantes.
 
-###### Artigo 4.º — (Reembolso)
+###### Artigo 4.º — Reembolso
 
 1 - Os títulos são reembolsados apenas em caso de liquidação da empresa ou, se esta assim o decidir, após terem decorrido pelo menos 10 anos sobre a sua liberação, nas condições definidas aquando da emissão.
 
 2 - No caso de liquidação, os títulos são reembolsados somente depois do pagamento de todos os outros credores da empresa.
+
+3 - O disposto nos números anteriores não prejudica, no caso de a emissão ter sido totalmente subscrita pelo Estado, a possibilidade de conversão de títulos de participação em capital afecto a empresas públicas ou em capital social de sociedades anónimas de capitais maioritariamente públicos.
+
+4 - A conversão em capital dos títulos de participação referida no número anterior será deliberada nos termos do n.º 1 do artigo 6.º, podendo esta deliberação, no caso das sociedades anónimas, ter lugar na mesma assembleia geral que decida sobre o aumento de capital social.
+
+5 - A conversão em capital referida no n.º 3 far-se-á na base do valor nominal dos títulos.
+
+6 - A empresa procederá ao averbamento da conversão, considerando-se, para todos os efeitos legais, anulados os títulos convertidos.
+
+7 - No caso de a emissão ter sido destinada ao público em geral, a assembleia geral pode autorizar o reembolso dos títulos antes de decorrido o período de 10 anos, desde que os mesmos sejam utilizados para a subscrição de acções em aumentos de capital da sociedade, sendo sempre facultativa a sua mobilização.
+
+8 - A deliberação de reembolso antecipado deverá respeitar o processo estabelecido na alínea b) do n.º 1 do artigo 6.º
+
+> Alterado pelo/a [Decreto-Lei n.º 213/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1991-658897), publicado em 1991-06-17.
 
 ###### Artigo 5.º — (Equiparação de juro a capitais próprios)
 

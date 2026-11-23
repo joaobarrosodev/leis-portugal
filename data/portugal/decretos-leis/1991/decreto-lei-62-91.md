@@ -26,10 +26,10 @@ publication:
 entry_into_force_dates:
 - '1991-02-01'
 entry_into_force:
-  date: '1991-02-01'
-  rule: a 1 de Fevereiro de 1991
-  method: clausula
-  article: art-21
+  date: '1991-02-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null
@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '1999-06-29'
     amending: pt:dre:324148:por
-    amending_title: Decreto-Lei n.º 290/93; Decreto-Lei n.º 232/99; Decreto-Lei n.º 148/99
+    amending_title: Decreto-Lei n.º 290/93; Decreto-Lei n.º 232/99; Decreto-Lei n.º 148/99; Decreto-Lei n.º 150/99
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 3.º
@@ -82,6 +82,9 @@ version_history:
     - Revoga Artigo 20
     - Revoga Artigo 21
     - Revoga anexo ou texto fora do articulado
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 19
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/62/1991/02/01/p/dre/pt/html
@@ -268,29 +271,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 3.º — Proibições
 
-Sem prejuízo do que se ncontra estabelecido no Decreto-Lei n.º 440/89, de 27 de Dezembro, que aprovou o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, não é permitido:
-
-a) Colocar no mercado, deter ou administrar a animais de qualquer espécie e por qualquer meio estilbenos, seus derivados e seus sais e ésteres, bem como substâncias de acção tireostática;
-
-b) Sem prejuízo do disposto na alínea anterior, colocar no mercado, deter ou administrar anabolizantes a animais de exploração, excepto quando entrem na composição de medicamentos, antecipadamente preparados e apresentados de acordo com a denominação e as condições de acondicionamento autorizados nos termos da legislação em vigor.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
 
+> Revogado pelo/a [Decreto-Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1999-330845), publicado em 1999-05-07, com efeitos a partir de 1999-05-08.
+
 ###### Artigo 4.º — Condições de utilização
 
-1 - Sem prejuízo do disposto na alínea a) do artigo 3.º, a administração a animais de exploração de medicamentos contendo substâncias de efeito hormonal com acção estrogénica, androgénica ou gestagénica é autorizada nas seguintes condições:
-
-a) Para fins de tratamento terapêutico, desde que efectuado por um médico veterinário, a título individual, sob a forma de injecção - excluindo os implantes - de medicamentos contendo estradiol 17-B, testosterona ou progesterona ou seus derivados que, após a reabsorção local, permitam facilmente a hidrólise do composto inicial;
-
-b) Para fins zootécnicos, tendo em vista a interrupção de gestações indesejáveis ou a melhoria da fertilidade, desde que a administração seja efectuada por um médico veterinário, e para efeitos de sincronização do ciclo éstrico ou preparação de dadoras e receptoras para implantação de embriões, desde que efectuadas por um médico veterinário ou sob a sua responsabilidade.
-
-2 - Nas situações referidas nas alíneas a) e b) do número anterior, os animais são identificados e o médico veterinário regista, pelo menos, a referida identificação, a data, a natureza da intervenção e os medicamentos administrados.
-
-3 - As informações referidas no número anterior são conservadas durante três anos e colocadas à disposição da autoridade competente, a seu pedido.
-
-4 - Por portaria do Ministro da Agricultura, Pescas e Alimentação, sob proposta da DGP e de acordo com as disposições comunitárias, são aprovadas listas dos medicamentos contendo as substâncias activas referidas no n.º 1, bem como as suas condições de utilização e respectivas disposições complementares.
-
-5 - Até à publicação das listas mencionadas no número anterior, os medicamentos oficialmente autorizados continuam a poder ser utilizados.
+(Revogado.)
 
 ### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes
 
@@ -378,7 +367,7 @@ b) Para fins zootécnicos, tendo em vista a interrupção de gestações indesej
 
 ###### Artigo 19.º — Farmacovigilância e toxicologia
 
-A DGP deverá promover um sistema nacional de farmacovigilância e toxicologia veterinária, com vista a detectar reacções adversas dos medicamentos e a assegurar a defesa da saúde animal.
+(Revogado.)
 
 ###### Artigo 20.º — Norma revogatória
 

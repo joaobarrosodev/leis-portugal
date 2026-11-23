@@ -82,7 +82,7 @@ version_history:
     amending: pt:dre:207272800:por
     amending_title: Decreto-Lei n.º 11/2023
     changes:
-    - Altera Artigo 23.º-B
+    - Altera Artigo 23-B.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/142/2008/p/cons/20230210/pt/html
@@ -97,18 +97,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2008/p/cons/20230210/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34502775
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34502775
-  retrieved_at: '2026-10-22T11:46:24Z'
+  retrieved_at: '2026-11-20T15:45:57Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2024-06-25T00:00:00Z'
 integrity:
-  source_sha256: 2b6509ba909b676a2ad8bf4646844a51b718bed7bbe218714c8ab19e80c621b4
+  source_sha256: 1414ab1eb3e5d24c7205e9fb5f5673117fe1477d596206e05743dc554a4b58b8
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:46:24Z'
+  generated_at: '2026-11-20T15:45:57Z'
   notes: 4 versão(ões); histórico completo em decreto-lei-142-2008.versoes.json.
 reuse:
   status: permitted
@@ -213,7 +213,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:46:24Z'
+  checked_at: '2026-11-20T15:45:57Z'
   warnings: []
   errors: []
 ---
@@ -674,7 +674,7 @@ c) Áreas de proteção complementar - as quais correspondem a espaços que esta
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 242/2015 - Diário da República n.º 202/2015, Série I de 2015-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2015-70693924), em vigor a partir de 2015-10-20
 
-###### Artigo 23.º-B — Atividades condicionadas
+###### Artigo 23-B.º — Atividades condicionadas
 
 1 - Os programas especiais das áreas protegidas podem sujeitar a execução de determinadas ações, atos ou atividades a parecer prévio vinculativo ou autorização da autoridade nacional.
 
@@ -694,7 +694,7 @@ c) Áreas de proteção complementar - as quais correspondem a espaços que esta
 
 9 - A autorização a que se refere o número anterior está sempre condicionada à ausência de impactes negativos significativos em matéria de proteção e salvaguarda de recursos naturais.
 
-> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, com efeitos a partir de 2023-03-01.
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 242/2015 - Diário da República n.º 202/2015, Série I de 2015-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2015-70693924), em vigor a partir de 2015-10-20
 

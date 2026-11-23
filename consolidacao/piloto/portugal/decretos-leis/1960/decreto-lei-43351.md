@@ -148,7 +148,9 @@ Região Militar do Porto: a totalidade dos distritos de Viana do Castelo, Braga,
 
 Região Militar de Coimbra: a totalidade dos distritos de Aveiro, Viseu e Guarda (com excepção dos concelhos destes distritos atrás referidos como pertencendo à Região Militar do Porto) e a totalidade do distrito de Coimbra.
 
-Região Militar de Tomar: a totalidade dos distritos de Leiria e Castelo Branco; os concelhos do distrito de Santarém não incluídos na Região Militar de Lisboa e na Região Militar de Évora e os concelhos de Nisa e de Gavião, do distrito de Portalegre.
+Região Militar de Tomar: a totalidade dos distritos de Leiria e Castelo Branco; os concelhos do distrito de Santarém não incluídos na Região Militar de Lisboa e na Região Militar de Évora e os concelhos de Nisa e de Gavião, do distrito
+
+de Portalegre.
 
 Região Militar de Évora: a totalidade dos distritos de Portalegre (com excepção dos concelhos de Nisa e Gavião), Évora, Beja e Faro; o concelho de Coruche, do distrito de Santarém, e os concelhos de Alcácer do Sal, Grândola, Santiago do Cacém e Sines, do distrito de Setúbal.
 

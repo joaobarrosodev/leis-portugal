@@ -1,0 +1,652 @@
+[
+ {
+  "id": "pt:dre:141218:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: retificação do mapa anexo do Decreto-Lei n.º 444/85",
+    "motivo": "Só em imagem: o diploma que altera só traz a imagem do mapa; o consolidado não tem anexo com título onde a pôr."
+   },
+   {
+    "instrucao": "Portaria n.º 216/93: alteração do quadro do ISCA de Aveiro (biblioteca, documentação e arquivo) pelo mapa anexo",
+    "motivo": "Só em imagem (mapa em PDF); sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria n.º 250/93: alteração do quadro do ISCA de Aveiro (informática) pelo mapa anexo",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria n.º 630/93: substituição do quadro do ISCA de Lisboa (informática) pelo mapa anexo",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria n.º 732/93: substituição do quadro do ISCA de Lisboa (biblioteca, documentação e arquivo) pelo mapa anexo",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria n.º 104/95: substituição do quadro do ISCA do Porto pelo mapa anexo",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria n.º 54/98: alteração do quadro do ISCA de Aveiro (biblioteca, documentação e arquivo) pelo mapa anexo",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:229921:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 29-A/96/A, art. 13.º n.º 1: a estrutura orgânica do Governo Regional constante do DLR 1/93/A é substituída pela do novo diploma",
+    "motivo": "Não textual: substituição global do regime sem nova redação nem revogação expressa de unidades; o texto do original não é alterado nem revogado artigo a artigo (confirmado no art. 13.º n.º 1)."
+   },
+   {
+    "instrucao": "DRR 15/2000/A, art. 1.º: nova redação dos arts. 1.º, 4.º, 9.º, 11.º e 12.º do DRR 6/94/A",
+    "motivo": "Outro diploma (DRR 6/94/A). Texto do alterador omitido na vista, só se dispõe da nota da triagem; não contrariada pelo resto do material."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:297028:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Artigo 1.º separado do preâmbulo em título próprio; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO I",
+    "veredicto": "certo",
+    "motivo": "Só formato: o original aparece junto com os artigos do capítulo; o consolidado separa-os em títulos «Artigo N.º». Texto total igual (verificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "Só formato: o original aparece junto com os artigos do capítulo; o consolidado separa-os em títulos «Artigo N.º». Texto total igual (verificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Só formato: o original aparece junto com os artigos do capítulo; o consolidado separa-os em títulos «Artigo N.º». Texto total igual (verificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Só formato: o original aparece junto com os artigos do capítulo; o consolidado separa-os em títulos «Artigo N.º». Texto total igual (verificado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: «Art. N.º» passa a título «Artigo N.º»; texto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria n.º 26-B/80, n.º 4: substitui o quadro de pessoal do CIDA (DR 26/78) pelo quadro anexo IV (imagem). O consolidado tem a linha «Quadro do pessoal a que se refere o artigo 19.º do Decreto Regulamentar n.º 26/78» com a imagem original, ou seja um anexo com título onde pôr a imagem do alterador; a imagem do quadro continua a do original.",
+   "Portaria n.º 777/80, n.º 1.º n.º 3: aumenta o quadro do CIDA com os lugares do mapa III (imagem). Existe o anexo com título do quadro; não se juntou a imagem do alterador.",
+   "Decreto Regulamentar n.º 2/79, art. 3.º al. a): letras D e E para director e chefe de divisão no quadro do art. 19.º. Alvo só em imagem, sem linha de texto onde aplicar; não é uma das exceções admitidas.",
+   "Portaria n.º 121/82, n.º 1.º e 2.º: cria 1 lugar de assessor, letra C, extinto quando vagar, no quadro do CIDA. Instrução textual cujo alvo é o quadro em imagem; sem linha de texto onde aplicar; não é uma das exceções admitidas.",
+   "Portaria n.º 298/82, n.º 1.º: aumenta o quadro «do Centro de Informação Científica e Técnica ... aprovado pelo DR 26/78» com os lugares do mapa (imagem). O alvo é o quadro do DR 26/78 (o mesmo anexo titulado do art. 19.º; alvo incerto quanto à designação); o consolidado não juntou a imagem.",
+   "Portaria n.º 487/82, n.º 1.º: idem, aumento do quadro com o mapa anexo (imagem); mesmo alvo, alvo incerto quanto à designação; não aplicado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 2/79, art. 1.º n.º 1: suspensão da aplicação dos arts. 37.º, 38.º, 56.º e 57.º até ao diploma de uniformização de carreiras",
+    "motivo": "Não textual: suspensão sem eliminar o texto (confirmado no art. 1.º n.º 1)."
+   },
+   {
+    "instrucao": "DR 2/79, art. 1.º n.º 2: recrutamento de terceiros-oficiais nos termos do art. 27.º do DL 49410 enquanto durar a suspensão",
+    "motivo": "Não textual: regra transitória ligada à suspensão, sem nova redação do original."
+   },
+   {
+    "instrucao": "DR 2/79, art. 2.º: manutenção das letras de vencimento a que se refere o art. 59.º até à publicação do diploma do art. 1.º n.º 1",
+    "motivo": "Não textual: prorrogação/regra transitória, sem nova redação (confirmado no art. 2.º)."
+   },
+   {
+    "instrucao": "DR 2/79, art. 3.º al. b): suspensão da coluna de letras «após 1 de Janeiro de 1979» do quadro",
+    "motivo": "Não textual: suspensão, e o quadro só existe em imagem."
+   },
+   {
+    "instrucao": "DL 331/81, art. 1.º: mantêm-se em vigor as disposições do DR 26/78 até novos diplomas",
+    "motivo": "Não textual: manutenção em vigor. Texto do alterador omitido na vista; só há a nota da triagem e as citações nas Portarias 298/82 e 487/82 a «mantido em vigor pelo art. 1.º»."
+   },
+   {
+    "instrucao": "Portaria n.º 26-B/80, n.os 1 a 3 e 5 a 8: quadros de outros serviços; n.os 9 e 10 transição e efeitos",
+    "motivo": "Outro diploma / não textual: não visam o DR 26/78."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (a linha do quadro e a imagem do art. 19.º ficam iguais ao original)"
+ },
+ {
+  "id": "pt:dre:304721:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Parte inicial igual; Artigos 1.º e 2.º separados em títulos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: título «Artigo 1.º»; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só formato: título «Artigo 2.º»; texto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 45218, artigo único: nova redação do corpo do art. 3.º do DL 41561. Alvo incerto: o texto de 'original' tem só os artigos 1.º e 2.º (Código Administrativo, art. 84.º) e não tem art. 3.º; o texto não corresponde ao DL 41561 que o alterador visa (isenção de direitos de importação, NATO). A nova redação não pôde ser aplicada."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:344241:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado pelo art. 264.º al. a) da Lei 66-B/2012 (n.º 3 do art. 2.º da Lei 47/2010); n.os 1 e 2 iguais ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 52/2010, arts. 1.º e 2.º: inclusão no âmbito da lei e no n.º 1 do art. 2.º dos membros do Gabinete do PAR, do Gabinete do PM e dos secretariados dos Vice-Presidentes e do Secretário-Geral da AR, e alargamento da legislação do n.º 2",
+    "motivo": "Não textual: alarga o âmbito («São também incluídos...») sem dar nova redação nem texto a inserir no art. 2.º (confirmado no texto)."
+   },
+   {
+    "instrucao": "Lei 66-B/2012, art. 27.º n.º 8: menção da Lei 47/2010, alterada pela Lei 52/2010",
+    "motivo": "Outro diploma: o art. 27.º é da própria Lei 66-B/2012; só cita o original."
+   },
+   {
+    "instrucao": "Lei 83-C/2013, art. 33.º n.º 8 (menção) e art. 254.º (não aplicação a motoristas e pessoal de apoio)",
+    "motivo": "Outro diploma / não textual; texto do alterador omitido, só nota da triagem."
+   },
+   {
+    "instrucao": "DL 18/2016, art. 97.º: redução não aplicável a motoristas e pessoal de apoio",
+    "motivo": "Não textual; texto omitido, só nota da triagem."
+   },
+   {
+    "instrucao": "DL 25/2017, art. 126.º: idem",
+    "motivo": "Não textual; texto omitido, só nota da triagem."
+   },
+   {
+    "instrucao": "DL 33/2018, art. 147.º: redução progressivamente eliminada e não aplicável a motoristas e pessoal de apoio",
+    "motivo": "Não textual: faseamento do OE; texto omitido, só nota da triagem."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

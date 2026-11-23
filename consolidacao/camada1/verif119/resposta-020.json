@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:559038:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 366/99 art. 28.º n.º 1 revoga o artigo 4.º do DL 42/97; mantém epígrafe e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 202/99 art. 3.º n.º 2 dá nova redação ao art. 9.º: n.os 1 a 6 mantidos ('...') e novo n.º 7 (acréscimo de 10 pontos); epígrafe só reunida numa linha.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 202/99 art. 3.º n.º 1 (artigos 33.º, 37.º, 41.º, 42.º do DL 408/93), DL 366/99 art. 28.º n.º 2, DL 237/2004 art. 7.º (art. 10.º do DL 187/90)",
+    "motivo": "outro diploma; o original só deu a redação. Art. 2.º do DL 202/99 é apenas aplicação (não textual)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

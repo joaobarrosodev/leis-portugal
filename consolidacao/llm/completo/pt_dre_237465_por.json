@@ -2,6 +2,12 @@
   "id": "pt:dre:237465:por",
   "artigos": [
     {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Ao Fundo Monetário da Zona do Escudo será atribuído o capital de 3 milhões de contos e a gestão do mesmo fundo pertencerá a um conselho de direcção com a competência que no presente decreto-lei lhe fica consignada.",
+      "alterador": 6
+    },
+    {
       "chave": "10.º",
       "epigrafe": "",
       "texto": "O Banco de Portugal, como banco emissor do continente e ilhas adjacentes, e cada um dos fundos cambiais, como caixas centrais de reserva das respectivas províncias, ou vice-versa, e os mesmos fundos cambiais entre si, conceder-se-ão, nos termos dos artigos seguintes, créditos destinados a facilitar, nos intervalos das operações mensais de compensação e de regularização mencionadas no artigo 1.º, a realização dos pagamentos interterritoriais regulados, designadamente, pelo [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962.\n\n§ 1.º As operações previstas neste artigo serão efectuadas, quanto aos fundos cambiais, por intermédio dos respectivos bancos emissores ultramarinos, como seus agentes.\n\n§ 2.º No conceito deste artigo, os créditos aqui referidos serão os que corresponderem à diferença entre os saldos das respectivas contas de compensação.\n\n§ 3.º As emissões de moeda pelos bancos emissores ultramarinos necessárias à realização dos pagamentos previstos neste artigo regem-se pelo disposto no artigo 40.º do [Decreto-Lei n.º 49304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49304-1969-216289), de 16 de Outubro de 1969.",
@@ -41,23 +47,22 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, artigo único (entrada em vigor do art. 63.º fixada para 1 de Março de 1963): não textual — adiamento da data de entrada em vigor por norma autónoma, sem nova redação do art. 63.º.\nAlterador 6, art. 1.º, n.º 1 (capital do art. 3.º elevado para 3 milhões de contos): sem texto — o DL 479/71 não dá nova redação ao art. 3.º; reescrever o montante seria inventar a redação.\nAlterador 6, art. 5.º, n.º 1 (novas quotas-partes das províncias pelo capital total do Fundo): sem texto — norma autónoma do DL 479/71, sem instrução de substituição do § 1.º do art. 36.º, que fica com a redação do alterador 5.\nAlterador 7, art. 1.º, n.º 1 (novo sistema de compensação em substituição do sistema do art. 1.º): não textual — substituição de regime, sem revogação nem nova redação do art. 1.º.\nAlterador 8, art. 1.º (extinção e liquidação do Fundo Monetário da Zona do Escudo): não textual — não revoga nem altera artigos do original.\nAlterador 8, art. 9.º (revoga o DL 478/71 e o Decreto 553/71): outro diploma.",
+  "nao_aplicavel": "Alterador 1, artigo único (fixa para 1 de Março de 1963 a entrada em vigor prevista no artigo 63.º): não textual: prorrogação da entrada em vigor, sem nova redação do artigo 63.º\nAlterador 3, artigo 2.º (revoga o Decreto-Lei n.º 46632): outro diploma: revoga o alterador 2, não o original\nAlterador 4, artigo 2.º (redução da taxa de juro de empréstimos): não textual: norma autónoma, não altera o texto do original\nAlterador 6, artigo 1.º, n.º 2, e artigos 2.º a 4.º (emissão de mais 1500 títulos e regime do aumento de capital): não textual: normas autónomas, não dão nova redação a nenhum artigo do original\nAlterador 6, artigo 5.º, n.º 1 (novas quotas-partes das províncias pelo capital total do Fundo): alvo incerto: é norma autónoma que não diz que substitui o § 1.º do artigo 36.º, que fica com as quotas do alterador 5\nAlterador 7, Decreto n.º 553/71 (substitui o sistema do artigo 1.º e regula de novo o Fundo): não textual: não dá nova redação nem revoga expressamente artigos do original\nAlterador 8, Decreto-Lei n.º 317/80 (extingue o Fundo Monetário da Zona do Escudo): não textual: extinção e liquidação do Fundo sem revogar nem alterar o texto do original",
   "instrucoes": [
-    "Alterador 1 (DL 44828): fixa para 1/3/1963 a entrada em vigor (art. 63.º) — não textual, ver nao_aplicavel.",
-    "Alterador 2 (DL 46632): prazo do § único do art. 41.º passa a quatro anos — sem nova redação; absorvido pelos alteradores 3 e 4 (e revogado pelo alterador 3).",
-    "Alterador 3 (DL 48006), art. 1.º: § único do art. 41.º substituído por §§ 1.º e 2.º — absorvido pela nova redação integral do alterador 4; art. 2.º revoga o DL 46632 (outro diploma).",
-    "Alterador 4 (DL 48702), art. 1.º: nova redação do art. 41.º — aplicado; art. 2.º é norma autónoma.",
-    "Alterador 5 (DL 49305), art. 1.º: novos § 3.º do art. 10.º, corpo do art. 20.º, § único do art. 29.º e § 1.º do art. 36.º — aplicados, mantendo o resto («...»).",
-    "Alterador 5, art. 2.º: aditado § 3.º ao art. 41.º — aplicado.",
-    "Alterador 5, art. 3.º: nova alínea d) do art. 47.º — aplicado.",
-    "Alterador 6 (DL 479/71): aumento do capital (art. 3.º) e novas quotas (art. 36.º, § 1.º) sem nova redação — confirmado o reparo, mas sem texto a copiar; ver nao_aplicavel.",
-    "Alterador 7 (Decreto 553/71): substitui o sistema do art. 1.º e regula o Fundo por regime próprio; art. 50.º mantém o art. 62.º — sem alteração textual.",
-    "Alterador 8 (DL 317/80): extingue o Fundo e revoga o DL 478/71 e o Decreto 553/71 — sem alteração textual do original."
+    "Alterador 1: adia a entrada em vigor para 1/3/1963; não textual",
+    "Alterador 2: prazo do § único do artigo 41.º passa a quatro anos; ultrapassado pelos alteradores 3 e 4",
+    "Alterador 3, art. 1.º: § único do artigo 41.º substituído pelos §§ 1.º e 2.º; ultrapassado pelo alterador 4",
+    "Alterador 4, art. 1.º: nova redação do artigo 41.º (corpo e §§ 1.º e 2.º)",
+    "Alterador 5, art. 1.º: § 3.º do artigo 10.º, artigo 20.º inteiro, § único do artigo 29.º e § 1.º do artigo 36.º com nova redação, o resto («...») mantido; art. 2.º: aditado o § 3.º ao artigo 41.º; art. 3.º: nova alínea d) do artigo 47.º",
+    "Alterador 6, art. 1.º, n.º 1: capital do artigo 3.º elevado de 1500000 contos para 3 milhões de contos; restantes normas autónomas",
+    "Alteradores 7 e 8: sem instruções textuais sobre o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
-  "problemas": [],
+  "ronda_camada1": 117,
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: Ao Fundo Monetário da Zona do Escudo será atribuído o capital de 3 milhões de co"
+  ],
   "numeracao_aceite": [],
   "avisos": [
     "43.º: o DRE diz «Alterado o art. 43º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo » (Decreto-Lei n.º 44828) e nem a resposta nem as regras o mudam"

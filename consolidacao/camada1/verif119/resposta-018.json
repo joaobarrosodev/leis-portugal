@@ -1,0 +1,179 @@
+[
+ {
+  "id": "pt:dre:522648:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditamento do art. 4.º-A pelo art. 4.º do DLR 22/2015/A, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #3",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 5.º do DLR 22/2015/A; n.º 1 com a nova redação; '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º #2",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Aplica a nova redação do DLR 22/2015/A (art. 3.º n.º 2, com [...] preenchido pelo original).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 1/2010/A arts. 1.º, 2.º e 4.º (arts. 11.º, 46.º-48.º-A e revogações)",
+    "motivo": "Visam o DLR 28/99/A, com a redação dada pelo original, e não o original; outro diploma."
+   },
+   {
+    "instrucao": "DLR 22/2015/A art. 1.º (novas designações EPER. dos hospitais)",
+    "motivo": "Mudança de designação e regra de leitura de referências, sem nova redação do art. 1.º n.º 1 do anexo I; não textual."
+   },
+   {
+    "instrucao": "DLR 22/2015/A art. 2.º (regime jurídico aplicável e remissões para o DL 558/99)",
+    "motivo": "Norma de remissão/aplicação, sem nova redação de texto."
+   },
+   {
+    "instrucao": "DLR 22/2015/A art. 3.º n.º 1 (nova redação do apêndice I do anexo I)",
+    "motivo": "O texto novo vem só em imagem ('ver documento original'); o consolidado não tem anexo com título onde o pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

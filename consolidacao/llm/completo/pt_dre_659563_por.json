@@ -17,19 +17,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, art. 1.º (substitui, na parte respectiva, os mapas I a IV e XI): só em imagem: os mapas novos só vêm em imagem («ver mapas no documento original») e os mapas I a IV e XI não têm título de anexo no texto atual\nAlterador 4, Declaração n.º 5/99 (substitui, na parte alterada, o mapa IX): só em imagem: o mapa IX alterado só vem em imagem e não tem título de anexo no texto atual",
+  "nao_aplicavel": "Alterador 2, art. 1.º (mapas I a IV e XI substituídos na parte respectiva): só em imagem (os mapas vêm só como imagem e não há título de anexo dos mapas no texto atual)\nAlterador 5, Declaração n.º 5/99 (alteração do mapa IX, orçamento da segurança social): só em imagem (mapa só em imagem e sem título de anexo no texto atual)\nAlterador 4, DL 191/99, art. 51.º, n.º 1, c) (revoga o DL 275-A/93, com as alterações da Lei n.º 127-B/97): outro diploma\nAlterador 36, DL 71/2013, art. 7.º, b) (revoga o regime do DL 204/97, alterado pela Lei n.º 127-B/97): outro diploma\nAlterador 39, Lei n.º 75-A/2014, art. 30.º, c) (revoga alíneas do art. 3.º do DL 453/88, alterado pela Lei n.º 127-B/97): outro diploma\nDeclaração de Rectificação n.º 7/98 (correções aos artigos 6.º, 13.º e 61.º, citada nos reparos): sem texto (não está entre os alteradores e o texto dela não vem no pedido; a parte do n.º 29) do artigo 6.º ficou sem objeto com a Lei n.º 87/98)",
   "instrucoes": [
-    "Alterador 1 (DL 25/98): não menciona o original; nada a aplicar.",
-    "Alterador 2, art. 1.º: substituição parcial dos mapas I a IV e XI só em imagem, sem título de anexo no texto atual; em nao_aplicavel.",
-    "Alterador 2, art. 2.º: nova redação do art. 6.º; corpo, n.os 1) a 28) e 30) a 33) ficam como estão ('...'); 29) substituído e 34) a 42) aditados, copiados do alterador.",
-    "Alterador 2, art. 3.º: nova redação do art. 70.º (17 milhões de contos para cada Região). No texto atual o art. 70.º não tem chave própria: está dentro do corpo da chave 39.º (onde vêm os artigos 40.º a 75.º); devolvi o 39.º inteiro com só o parágrafo do art. 70.º substituído.",
-    "Alterador 3 (Lei 87-B/98): outro diploma (Código do IRS); nada a aplicar.",
-    "Alterador 4 (Declaração 5/99): alteração do mapa IX só em imagem, sem título de anexo; em nao_aplicavel.",
-    "Alteradores 5 a 38: não mencionam o original ou alteram outros diplomas (o original só lhes deu a redação); nada a aplicar."
+    "Alterador 1 (DL 25/98) e alteradores 3, 6 a 35, 37, 38, 40 e 41: sem instrução dirigida a este diploma (texto omitido pela triagem: não menciona ou outro diploma).",
+    "Alterador 2 (Lei n.º 87/98), art. 2.º: nova redação do artigo 6.º; o corpo e as alíneas 1) a 28) e 30) a 33) ficam do texto atual («...»), a 29) é substituída e aditadas as 34) a 42), copiadas do alterador.",
+    "Alterador 2 (Lei n.º 87/98), art. 3.º: nova redação do artigo 70.º (17 milhões de contos para cada Região); o artigo 70.º está dentro do bloco do artigo 39.º do texto atual, por isso devolve-se o 39.º inteiro do texto atual só com esse parágrafo trocado, mantendo as cinco ligações «[(ver documento original)](…00980495.pdf)» (TABELA I, TABELA III e IV, artigo 33.º do Código da Sisa, artigo 52.º do EBF e a do fim).",
+    "Alterador 2, art. 1.º (mapas I a IV e XI) e alterador 5 (mapa IX): só em imagem, sem título de anexo; ficam em nao_aplicavel.",
+    "Reparos da Declaração de Rectificação n.º 7/98 (artigos 13.º e 61.º): o texto dela não está no pedido, por isso não se aplica (regra: o texto vem das fontes, não dos reparos); vai para nao_aplicavel.",
+    "Alteradores 4, 36 e 39: revogam outros diplomas em que a Lei n.º 127-B/97 só aparece na lista de alterações: outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": [

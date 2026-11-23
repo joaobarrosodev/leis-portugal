@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "28.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 28.º — Alteração ao anexo I ao anexo da Portaria n.º 577/95, de 16 de Junho\n\nNo anexo I do Regulamento das Medidas Gerais de Luta contra Certas Doenças Animais, bem como Medidas Específicas Respeitantes à Doença Vesiculosa do Suíno, aprovado pela Portaria n.º 577/95, de 16 de Junho, o termo «doença de Teschen» é substituído por «peste suína africana».",
+    "depois": "###### Artigo 28.º — Alteração ao anexo I ao anexo da Portaria n.º 577/95, de 16 de Junho\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 131/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2008-456785), publicado em 2008-07-21.",
+    "excerto": "São revogados:\n\nb) O artigo 28.º do Decreto-Lei n.º 267/2003, de 25 de Outubro;",
+    "artigo_alterador": "29.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476961:por",
+    "alterador": "pt:dre:456785:por"
+  },
+  {
     "artigo": "18.º",
     "operacao": "substituir",
     "regra": "substituição com [...]",

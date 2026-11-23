@@ -16,6 +16,9 @@ consolidacao:
   - id: pt:dre:409682:por
     title: Decreto-Lei n.º 741/76
     publication_date: '1976-10-18'
+  - id: pt:dre:181630:por
+    title: Decreto-Lei n.º 550-E/76
+    publication_date: '1976-07-12'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -142,15 +145,111 @@ Os quadros de pessoal da Direcção do Serviço de Saúde, dos órgãos de execu
 
 ###### Artigo 8.º
 
-1. O pessoal militar permanente privativo da Força Aérea, equiparado a militar, civil contratado e civil assalariado destinado a completar a constituição dos órgãos anteriormente referidos é o incluído nos mapas n.os 1, 2 e 3 anexos ao presente diploma.
+(Revogado.)
 
-2. O pessoal discriminado no mapa n.º 1 anexo é aumentado aos quadros autorizados para a Força Aérea pelo [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, alterado pelo [Decreto-Lei n.º 46345](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46345-1965-295076), de 21 de Maio de 1965.
+1) Pessoal técnico:
 
-3. O pessoal discriminado no mapa n.º 2 anexo é aumentado aos quadros autorizados para a Força Aérea pelo [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), de 8 de Setembro de 1966.
+a) De acção médica:
 
-4. O pessoal discriminado no mapa n.º 3 é aumentado aos quadros autorizados para a Força Aérea pelo [Decreto-Lei n.º 42595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42595-1959-440478), de 19 de Outubro de 1959.
+Chefe de serviço (letra E) ... 4
 
-5. O preenchimento das vacaturas que ocorram nos quadros em consequência dos aumentos referidos nos n.os 2, 3 e 4 será regulado pelo Secretário de Estado da Aeronáutica, de harmonia com a concretização efectiva das necessidades.
+Especialistas (letra F) ... 6
+
+b) De enfermagem:
+
+Enfermeiro-chefe (letra L) ... 1
+
+Enfermeiros-subchefes (letra M) ... 3
+
+Enfermeiros de 1.ª classe (letra N) ... 15
+
+Enfermeiros de 2.ª classe (letra O) ... 8
+
+Enfermeiros de 3.ª classe (letra Q) ... 7
+
+c) De laboratório:
+
+Técnicos auxiliares de laboratório:
+
+Técnico auxiliar de laboratório de 1.ª classe (letra J) ... 2
+
+Preparador de 1.ª classe (letra N) ... 2
+
+Preparador de 2.ª classe (letra O) ... 2
+
+d) De radiologia:
+
+Primeiro-técnico de radiologia (letra N) ... 1
+
+Segundo-técnico de radiologia (letra O) ... 1
+
+Encarregado de câmara escura (letra R) ... 2
+
+e) De electrodiagnóstico:
+
+Primeiro-técnico de electrodiagnóstico (letra N) ... 2
+
+f) De reabilitação:
+
+Fisioterapeuta de 2.ª classe (letra K) ... 1
+
+g) De psicologia:
+
+Técnico superior de laboratório de 1.ª classe (letra F) ... 1
+
+h) Outro pessoal:
+
+Técnico de dietética (letra K) ... 1
+
+2) Pessoal administrativo:
+
+a) Arquivista de 2.ª classe (letra Q) ... 2
+
+b) Escriturários-dactilógrafos:
+
+De 1.ª classe (letra S) ... 7
+
+De 2.ª classe (letra U) ... 5
+
+3) Pessoal de refeitório e cozinha:
+
+a) Criados:
+
+De 1.ª classe (letra V) ... 4
+
+De 2.ª classe (letra X) ... 4
+
+b) Cozinheiros:
+
+De 1.ª classe (letra U) ... 2
+
+c) Ajudantes de cozinheiro:
+
+De 1.ª classe (letra X) ... 2
+
+De 2.ª classe (letra Y) ... 2
+
+1) Pessoal de laboratório, oficial e de obras:
+
+Encarregados:
+
+Encarregado de 1.ª classe (letra O) ... 1
+
+De 1.ª classe (letra X) ... 2
+
+De 2.ª classe (letra X) ... 1
+
+Sapateiros:
+
+Costureiros:
+
+De 1.ª classe (letra Y) ... 3
+
+De 1.ª classe (letra Y) ... 3
+
+De 2.ª classe (letra Y) ... 35
+
+> Alterado pelo/a [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), publicado em 1976-07-12.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 

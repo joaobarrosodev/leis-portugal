@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - Os funcionários do quadro, em serviço nas Direcções-Gerais mencionadas no artigo 1.º, afectos à atribuição, liquidação e contabilização de pensões de aposentação e de sobrevivência constituirão na Caixa Geral de Depósitos um quadro complementar, ficando sujeitos ao regime jurídico aplicável ao pessoal da instituição.\n\n2 - A integração no quadro complementar será feita com base nos níveis definidos pela Direcção dos Serviços de Pessoal da Caixa Geral de Depósitos, tendo em consideração as categorias e tempo de serviço que o pessoal possui na função pública e efectivar-se-á mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação no Diário da República, a efectuar dentro de vinte dias após a entrada em vigor deste diploma.\n\n3 - Os funcionários referidos neste artigo transitarão obrigatoriamente, ao fim de três anos de permanência nesse quadro complementar, para o quadro privativo da Caixa Geral de Depósitos, onde ocuparão a última posição na categoria que lhes tiver sido atribuída, desde que possuam as habilitações literárias exigidas para ingresso nesse quadro.\n\n4 - Os que não possuírem aquelas habilitações permanecerão no quadro complementar até que as adquiram, procedendo-se, então, em conformidade com o disposto no número anterior.",
+    "depois": "###### Artigo 2.º\n\n1 - Os funcionários do quadro, em serviço nas Direcções-Gerais mencionadas no artigo 1.º, afectos à atribuição, liquidação e contabilização de pensões de aposentação e de sobrevivência constituirão na Caixa Geral de Depósitos um quadro complementar, ficando sujeitos ao regime jurídico aplicável ao pessoal da instituição.\n\n2 - A integração no quadro complementar será feita com base nos níveis definidos pela Direcção dos Serviços de Pessoal da Caixa Geral de Depósitos, tendo em consideração as categorias e tempo de serviço que o pessoal possui na função pública e efectivar-se-á mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação no Diário da República, a efectuar dentro de noventa dias após a entrada em vigor deste diploma.\n\n3 - Os funcionários referidos neste artigo transitarão obrigatoriamente, ao fim de três anos de permanência nesse quadro complementar, para o quadro privativo da Caixa Geral de Depósitos, onde ocuparão a última posição na categoria que lhes tiver sido atribuída, desde que possuam as habilitações literárias exigidas para ingresso nesse quadro.\n\n4 - Os que não possuírem aquelas habilitações permanecerão no quadro complementar até que as adquiram, procedendo-se, então, em conformidade com o disposto no número anterior.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-326719), publicado em 1978-11-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:325954:por",
+    "alterador": "pt:dre:326719:por;pt:dre:383011:por"
+  },
+  {
     "artigo": "6.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -11,6 +25,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:325954:por",
-    "alterador": "pt:dre:383011:por"
+    "alterador": "pt:dre:326719:por;pt:dre:383011:por"
   }
 ]

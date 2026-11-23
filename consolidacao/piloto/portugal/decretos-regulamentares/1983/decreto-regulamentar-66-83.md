@@ -60,6 +60,8 @@ A matéria colectável do imposto será a referida no artigo 1.º
 
 3 - A determinação da matéria colectável pelo chefe da repartição de finanças será levada a efeito nos processos a que alude o artigo 99.º do Código da Contribuição Industrial e dentro dos prazos estabelecidos para a determinação da matéria colectável desta última contribuição, sendo aplicáveis, tratando-se de contribuintes pertencentes aos grupos B ou C dessa contribuição, os artigos 69.º, 70.º, 71.º, 72.º e 75.º daquele Código.
 
+Taxa
+
 > Alterado pelo/a [Decreto Regulamentar n.º 31/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1984-654545), publicado em 1984-04-09.
 
 ###### Artigo 6.º

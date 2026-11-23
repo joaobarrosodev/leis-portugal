@@ -11,14 +11,16 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1 (DL 20/94), art. 1.º: elimina o adicional de 4% estabelecido no DL 21/93 para os fornecimentos em alta e média tensão e em BT com potência superior a 19,8 kVA, com efeitos a 1 de Janeiro de 1994; não dá nova redação nem revoga nenhum artigo do original (alteração não textual), por isso não se aplica ao texto.",
+  "nao_aplicavel": "Alterador 1, art. 1.º (o adicional de 4% estabelecido no DL 21/93 é eliminado para alta e média tensão e baixa tensão acima de 19,8 kVA): não textual: elimina o adicional sem revogar nem dar nova redação ao artigo 2.º do original.",
   "instrucoes": [
-    "DL 20/94, art. 1.º: eliminação do adicional de 4% para certos fornecimentos — não textual, em nao_aplicavel.",
-    "Nenhuma instrução revoga o art. 1.º: o programa revogou-o mal; reposto o texto original (reparo do verificador confirmado).",
-    "DL 20/94, arts. 2.º a 4.º: dirigem-se ao adicional do DL 351/83, ao saldo do ex-FAT e à produção de efeitos; não alteram o texto do original."
+    "Artigo 1.º: o programa tinha-o revogado, mas nenhuma instrução deste pedido o revoga (o DL 20/94 não revoga artigos do original): repus a redação original.",
+    "Alterador 1 (DL 20/94), art. 1.º: eliminação do adicional, não textual: nao_aplicavel; o artigo 2.º fica como está.",
+    "Alterador 1, arts. 2.º a 4.º: o 2.º altera o regime do DL 351/83 (outro diploma); o 3.º e o 4.º são disposições próprias."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 119,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

@@ -1,0 +1,221 @@
+[
+ {
+  "id": "pt:dre:230523:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 210/2004 art. 16.º dá nova redação ao n.º 1 (inclui Totogolo, Departamento de Jogos, EUROMILHÕES, que prevalece sobre DL 225/98); n.º 2 mantido ('2 - ...')."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 77-B/2021 art. 1.º, menção do DL 64/95 na lista de alterações do DL 84/85",
+    "motivo": "é descrição de outro diploma (DL 84/85), não instrução ao original; confirmado no texto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:233171:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 575/78, artigo único: eliminação dos lugares de consultor jurídico e financeiro e criação de dois lugares de técnico de 1.ª classe",
+    "motivo": "altera o quadro (mapa anexo) que só existe em imagem; a lista de artigos do original não tem anexo com título onde aplicar (confirmado na lista); o alterador não traz texto novo"
+   },
+   {
+    "instrucao": "Portaria 1098/80, n.º 1.º: alargamento do quadro com os lugares do mapa anexo",
+    "motivo": "mapa novo só em imagem ([ver documento original]) e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 842/81, n.º 1.º: alargamento do quadro com os lugares do mapa anexo",
+    "motivo": "mapa novo só em imagem ([ver documento original]) e o consolidado não tem anexo com título onde o pôr"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:249798:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DLR 26-A/98/M art. 2.º dá nova redação ao art. 8.º (n.os 1 a 3), conforme o consolidado; epígrafe mantida."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de Rectificação 10-A/98: correção de valores do mapa IV (rubricas 04.01 e 04.02 a 04.04)",
+    "motivo": "o mapa IV só existe em imagem; o original não tem anexo com título no texto (a lista de artigos não o inclui)"
+   },
+   {
+    "instrucao": "DLR 26-A/98/M art. 1.º: mapas I a IV e IX substituídos pelos mapas anexos",
+    "motivo": "mapas novos só em imagem ([ver mapas no documento original]) e não há anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DLR 26-A/98/M art. 3.º: n.º 4 do art. 7.º do DLR 23/98/M",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:264491:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 410/71 art. 1.º renumera as receitas (novo n.º 3 de 25%), art. 2.º dá nova redação ao § 2.º; DL 89/83 revoga o n.º 3; DL 425/77 art. 7.º revoga os n.os 4.º e 5.º; DL 461/75 art. 6.º revoga a participação do Fundo de Desemprego (n.º 4). Resultado: 3.º, 4.º, 5.º revogados; 6.º juros, 7.º, 8.º. Conforme."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "dúvida",
+    "motivo": "DL 425/77 art. 7.º revoga os n.os 3.º e 4.º (aplicado) e o n.º 7.º 'na parte respeitante à Comissão de Política Social Rural', que o consolidado manteve integralmente. Revogação parcial de alvo identificável; o corte da primeira parte do n.º 7.º não foi aplicado.",
+    "texto_esperado": "... 7.º As comparticipações da Caixa Central de Segurança Social dos Trabalhadores Migrantes, nos termos do artigo 3.º do Decreto-Lei n.º 46813, de 30 de Dezembro de 1965, na parte respeitante ao F. N. A. F. (ou texto equivalente sem a cláusula da Comissão de Política Social Rural)."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77 (arts. 6.º a 11.º)."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 425/77 (inclui o § único)."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 425/77 art. 7.º: revogação do n.º 7.º do art. 5.º 'na parte respeitante à Comissão de Política Social Rural' - alvo identificável (a primeira cláusula do n.º 7.º), não aplicada no consolidado; alvo parcial, sem texto novo"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 410/71 art. 3.º: receitas do n.º 3 da exclusiva responsabilidade das entidades patronais",
+    "motivo": "não textual: não dá redação a nenhuma unidade do original"
+   },
+   {
+    "instrucao": "DL 410/71 art. 4.º: nova designação da rubrica n.º 3 da guia do modelo A",
+    "motivo": "o modelo A é anexo só em imagem; a lista de artigos do original não tem anexo com título onde aplicar"
+   },
+   {
+    "instrucao": "DL 461/75 art. 6.º: revogações do DL 35822, Decreto 49216, DL 391/72, DL 759/74",
+    "motivo": "instruções de outros diplomas"
+   },
+   {
+    "instrucao": "DL 425/77 arts. 1.º a 4.º: extinção do F. N. A. F. e transferência de receitas, encargos e atribuições (inclui art. 2.º Casas do Povo, art. 3.º autorização de prorrogação, art. 4.º guias)",
+    "motivo": "não textual: transferência de competências/designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 425/77 art. 5.º: guias do modelo A encimadas por «Instituto de Gestão Financeira da Segurança Social»",
+    "motivo": "modelo A só em imagem e sem anexo com título"
+   },
+   {
+    "instrucao": "DL 425/77 art. 7.º: revogações do DL 37244, 49373, 446/70, 130/73, 228/73",
+    "motivo": "instruções de outros diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:285363:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Declaração 1 republica o mapa (imagem 12603/00140017 substitui a original); retificações e portarias 49/91, 979/91, 174/92, 729/93 acrescentam as suas imagens; os endereços coincidem com as imagens dos alteradores."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 174/92 n.º 2.º: extinção dos lugares da carreira técnica de serviço social",
+    "motivo": "o diploma que altera não traz o texto da alteração: quadro só em imagem e a imagem do alterador não cobre esses lugares"
+   },
+   {
+    "instrucao": "Portaria 468/2000 (2.ª série): criação de um lugar de assessor principal da carreira técnica superior",
+    "motivo": "o diploma que altera não traz texto nem imagem do quadro novo; o quadro do original só em imagem"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:304330:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 14/94 art. 1.º dá nova redação aos n.os 1 e 2."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Declaração de Rectificação 234/91: 'é precedida' passa a 'são precedidas' no n.º 2; resto igual (transferência de ministro do n.º 3 é não textual)."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 'Integram' no n.º 1; n.º 2 com nova redação do DL 14/94; n.os 3 e 4 mantidos."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 14/94 art. 1.º (n.os 1 a 3); rodapé de promulgação do original mantido."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação 234/91: retificações das bases IX n.º 5, XII n.º 2, XIV n.º 1, XVI n.º 1, XVII n.os 2 e 3, XX n.º 7, XXV n.º 1 e XXVII n.º 1 do anexo I - alvo incerto: a vista não mostra o corpo do anexo I (só o título, igual ao original) e não confirmo que as bases não existam",
+   "DL 14/94 art. 2.º: nova redação da base IV do anexo I (n.os 1 a 4) - alvo incerto: corpo do anexo I não visível na vista; ainda por cima a redação só dá parte da base",
+   "DL 14/94 art. 3.º: revogação do n.º 2 da base I do anexo I - alvo incerto: corpo do anexo I não visível na vista"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 14/94 art. 4.º: competências do Ministro das Obras Públicas, Transportes e Comunicações transferidas para o Ministro do Mar",
+    "motivo": "não textual: transferência de competências sem nova redação"
+   },
+   {
+    "instrucao": "DL 232/2003 arts. 1.º a 3.º: poderes e referências da ENATUR passam ao município de Cascais",
+    "motivo": "não textual: atribuição de poderes e regra de leitura, sem nova redação"
+   },
+   {
+    "instrucao": "DL 149/2006 artigo único: mapa do anexo II substituído pelo mapa anexo",
+    "motivo": "novo mapa só em imagem e o consolidado não tem anexo II com título (a lista não o inclui)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -10,20 +10,18 @@
       "alterador": 6
     }
   ],
-  "nao_aplicavel": "Alterador 1, plano de estudos do curso de Economia (anexo I): outro diploma, é o plano anexo ao Despacho n.º 135/MEC/86\nAlterador 4, plano de estudos de Arquitectura da Universidade Lusíada em Vila Nova de Famalicão: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa (Portarias n.os 436/2000 e 539/2001); o curso de Famalicão funciona conjugado com as Portarias n.os 73/91 e 1209/93 e não há no anexo lugar próprio para o seu plano\nAlterador 5, plano de estudos de Arquitectura da Universidade Lusíada no Porto: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa; o curso do Porto funciona conjugado com as Portarias n.os 73/91 e 1132/91 e não há no anexo lugar próprio para o seu plano\nAlterador 7, novo plano de estudos de Arquitectura da Universidade Lusíada no Porto (substitui o da Portaria n.º 1196/2000): alvo incerto, pelo mesmo motivo do alterador 5\nAlterador 8, alteração do plano de Arquitectura (Porto) constante do anexo à Portaria n.º 1287/2001: outro diploma, altera o anexo da Portaria n.º 1287/2001",
+  "nao_aplicavel": "Alterador 1, novo plano do curso de Economia (anexo I): outro diploma; é o plano anexo ao Despacho n.º 135/MEC/86, não ao Decreto-Lei n.º 166/88.\nAlterador 4, novo plano de Arquitectura da Universidade Lusíada em Vila Nova de Famalicão: outro diploma; é o plano do curso nesse polo, cujo funcionamento a portaria diz autorizado pelo Decreto-Lei n.º 166/88 conjugado com as Portarias n.os 73/91 e 1209/93; o anexo do original só tem um plano de Arquitectura, o da Universidade Lusíada (Lisboa), que os alteradores 3 e 6 substituem.\nAlterador 5, novo plano de Arquitectura da Universidade Lusíada no Porto: outro diploma; é o plano do curso no Porto (Decreto-Lei n.º 166/88 conjugado com as Portarias n.os 73/91 e 1132/91), que não está no anexo do original, cujo único plano de Arquitectura é o de Lisboa (alteradores 3 e 6).\nAlterador 7, novo plano de Arquitectura da Universidade Lusíada no Porto: outro diploma; substitui o plano do Porto fixado pela Portaria n.º 1196/2000, que não está no anexo do original.\nAlterador 8, alteração do plano de Arquitectura da Universidade Lusíada (Porto): outro diploma; altera expressamente o anexo à Portaria n.º 1287/2001.",
   "instrucoes": [
-    "Alterador 1 (Portaria 662/93): plano de Matemáticas Aplicadas substituído pelo anexo II (imagem) - aplicado no corpo do anexo; anexo I (Economia) é de outro diploma",
-    "Alterador 2 (Portaria 1010/93): plano de Relações Internacionais substituído (imagem) - aplicado no corpo do anexo",
-    "Alterador 3 (Portaria 436/2000): plano de Arquitectura (Lisboa) substituído (imagem) - aplicado e depois substituído pelo alterador 6",
-    "Alterador 4 (Portaria 1195/2000): plano de Arquitectura em Famalicão - nao_aplicavel (alvo incerto)",
-    "Alterador 5 (Portaria 1196/2000): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
-    "Alterador 6 (Portaria 539/2001): plano de Arquitectura (Lisboa) passa a ser o do anexo (Quadros n.os 1 a 5, imagem) e substitui o da Portaria 436/2000 - aplicado no corpo do anexo",
-    "Alterador 7 (Portaria 1287/2001): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
-    "Alterador 8 (Portaria 1296/2002): altera o anexo da Portaria 1287/2001 - outro diploma"
+    "Alterador 1, n.º 1.º: o plano de Matemáticas Aplicadas do anexo passa a ser o do anexo II da portaria; substituída a imagem do curso pela da portaria (38123814). O plano de Economia é de outro diploma.",
+    "Alterador 2: o plano de Relações Internacionais substitui o aprovado pelo DL 166/88; substituída a imagem do curso pela do anexo da portaria (57285729).",
+    "Alterador 3: o plano de Arquitectura (Lisboa) passa a ser o do anexo da portaria (imagem 32863287); aplicado e depois substituído pelo alterador 6.",
+    "Alterador 6: o plano de Arquitectura (Lisboa), fixado pela Portaria 436/2000, passa a ser o do anexo da portaria; o curso de Arquitectura do anexo fica com as linhas do anexo do alterador 6 (Grau de licenciado, quadros n.os 1 a 5 e imagens 31423143), copiadas como vêm.",
+    "Alteradores 4, 5, 7 e 8: planos de Arquitectura dos polos de Vila Nova de Famalicão e do Porto, que não estão no anexo do original; não aplicados (outro diploma).",
+    "Os restantes números das portarias (semanas lectivas, aplicação, transição, opções) são disposições próprias e não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

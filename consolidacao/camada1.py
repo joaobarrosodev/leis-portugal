@@ -35,9 +35,10 @@ import sys
 import time
 import traceback
 from collections import Counter
+from functools import lru_cache
 from pathlib import Path
 
-from texto import RAIZ
+from texto import RAIZ, front_matter
 
 PASTA = RAIZ / "consolidacao"
 CAMADA1 = PASTA / "camada1"
@@ -80,9 +81,74 @@ def categoria(item: dict, resultado: dict | None) -> str:
     return f"{pasta}_juntado"
 
 
+def _estado_atual(path: str) -> str | None:
+    """O `legal_status` do registo no data/ de hoje (depois da regra da vigência inferida da linha 3)."""
+    from texto import front_matter  # noqa: PLC0415
+
+    f = RAIZ / path
+    if not f.exists():
+        return None
+    return (front_matter(f.read_text(encoding="utf-8")).get("legal_status") or None)
+
+
+def onda_2() -> list[dict]:
+    """O resto das linhas 6, 7 e 9 do inventário, para lá dos 214 da onda 1, por ordem de citações por diplomas em
+    vigor. A vigência é a do data/ de hoje: saem os que já não estão em vigor (revogados ou caducados entretanto).
+    Linha 9: os consolidados com alterador posterior à última versão, por quem os consolidou."""
+    ja = {d["id"] for d in _jsonl(CAMADA1 / "onda-1.jsonl")}
+    resultados = _resultados()
+    em_vigor = ("in_force", "partially_in_force")
+    itens, fora = [], Counter()
+    for d in _jsonl(INVENTARIO / "texto-em-vigor-por-fechar.jsonl"):
+        if d["classe"] == "revogado_por_inteiro" or d["id"] in ja:
+            continue
+        estado = _estado_atual(_path_de(d["id"]) or "")
+        if estado not in em_vigor:
+            fora[f"linhas 6 e 7, {estado}"] += 1
+            continue
+        itens.append({"id": d["id"], "titulo": d["titulo"], "tipo": d["tipo"], "estado_dre": d["estado"], "estado_hoje": estado,
+                      "classe": d["classe"], "linha": 6 if d["classe"] == "nao_triado" else 7,
+                      "citado_por_vigentes": d["citado_por_vigentes"], "central": False, "categoria": categoria(d, resultados.get(d["id"]))})
+    for d in _jsonl(INVENTARIO / "consolidados-por-atualizar.jsonl"):
+        if d["id"] in ja:
+            continue
+        if d.get("marca_de_vigencia") == "nao_vigora":
+            fora["linha 9, marca nao_vigora (consolidacao/auditoria/vigencia-revista.jsonl)"] += 1
+            continue
+        estado = _estado_atual(_path_de(d["id"]) or "")
+        if estado not in em_vigor:
+            fora[f"linha 9, {estado}"] += 1
+            continue
+        quem = {"consolidado_leis_portugal": "nosso", "consolidado_dre": "dre"}.get(d["classe"], d["classe"])
+        itens.append({"id": d["id"], "titulo": d["titulo"], "tipo": d["tipo"], "estado_dre": d["estado"], "estado_hoje": estado,
+                      "classe": d["classe"], "linha": 9, "citado_por_vigentes": d["citado_por_vigentes"], "central": False,
+                      "categoria": f"linha_9_{quem}", "consolidado_ate": d.get("consolidado_ate"),
+                      "alteradores_posteriores": d.get("alteradores_posteriores") or []})
+    itens.sort(key=lambda i: (-i["citado_por_vigentes"], i["id"]))
+    for motivo, k in sorted(fora.items()):
+        print(f"fora da onda 2: {k:5d}  {motivo}")
+    return itens
+
+
+@lru_cache(maxsize=1)
+def _paths() -> dict[str, str]:
+    """id → path no data/, pela seleção da escala e, para os outros, pelo índice do export."""
+    paths = {r["id"]: r["path"] for r in _jsonl(SELECAO_ESCALA)}
+    db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
+    for i, p in db.execute("SELECT id, path FROM documentos"):
+        paths.setdefault(i, p)
+    return paths
+
+
+def _path_de(id_: str) -> str | None:
+    return _paths().get(id_)
+
+
 def onda(n: int) -> list[dict]:
+    if n == 2:
+        return onda_2()
     if n != 1:
-        raise SystemExit("só a onda 1 está definida")
+        raise SystemExit("só as ondas 1 e 2 estão definidas")
     centrais = {c["id"] for c in _jsonl(INVENTARIO / "diplomas-centrais.jsonl") if c.get("texto") in ("nao_triado", "alteracao_por_aplicar")}
     resultados = _resultados()
     itens = []
@@ -202,7 +268,12 @@ def _alterador_para_triagem(a: dict, titulo_original: str) -> dict:
                    "nota": "o início do alterador, os artigos que mencionam o original e janelas à volta das outras menções"}
 
 
-def entrada_triagem(itens: list[dict]) -> int:
+def _pasta_triagem(n: int) -> Path:
+    """A pasta da triagem às cegas da onda `n`: `triagem/` na onda 1, `triagem-N/` nas seguintes."""
+    return CAMADA1 / ("triagem" if n == 1 else f"triagem-{n}")
+
+
+def entrada_triagem(itens: list[dict], n: int = 1) -> int:
     from texto import front_matter, publicado  # noqa: PLC0415
 
     selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
@@ -246,7 +317,7 @@ def entrada_triagem(itens: list[dict]) -> int:
         tamanho += t
     if atual:
         lotes.append(atual)
-    pasta = CAMADA1 / "triagem"
+    pasta = _pasta_triagem(n)
     pasta.mkdir(exist_ok=True)
     for k, lote in enumerate(lotes, 1):
         (pasta / f"entrada-{k:02d}.jsonl").write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in lote), encoding="utf-8")
@@ -301,13 +372,19 @@ def _segunda_e_nada() -> dict[str, list[str]]:
     """Os problemas da segunda leitura jurídica e as instruções em falta da verificação do «nada a aplicar»,
     para os reparos da ronda 116."""
     por: dict[str, list[str]] = {}
-    for f in sorted((CAMADA1 / "segunda").glob("segunda-*.json")):
+    for f in sorted(CAMADA1.glob("segunda*/segunda-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             if d["veredicto"] != "certo":
                 por.setdefault(d["id"], []).extend(f"Uma segunda leitura jurídica encontrou: {p}" for p in d.get("problemas") or [])
-    for f in sorted((CAMADA1 / "nada").glob("resposta-*.json")):
+    for f in sorted(CAMADA1.glob("nada*/resposta-*.json")):
         for d in json.loads(f.read_text(encoding="utf-8")):
             por.setdefault(d["id"], []).extend(f"Instrução que não se vê aplicada: {i}" for i in d.get("instrucoes_em_falta") or [])
+    for f in sorted((PASTA / "auditoria").glob("camada1-estado*.jsonl")):
+        for e in _jsonl(f):
+            if e.get("estado") == "recusado_na_verificacao_mecanica":
+                por.setdefault(e["id"], []).append(
+                    "Uma verificação mecânica viu o texto antigo a seguir à nova redação ou a «(Revogado.)». Devolve cada um destes "
+                    "artigos inteiro, só com o texto em vigor: " + str(e.get("motivo", "")).split(": ", 1)[-1])
     return por
 
 
@@ -362,10 +439,11 @@ def classe_da_triagem(veredictos: list[dict]) -> str:
     return "sem_alteracao"
 
 
-def juntar_triagem() -> int:
+def juntar_triagem(n: int = 1) -> int:
     """`camada1/triagem.jsonl`: por diploma, os veredictos de cada alterador e a classe. As saídas que
-    escreveram o título no lugar do id do alterador juntam-se pela posição (o número e a ordem batem)."""
-    pasta = CAMADA1 / "triagem"
+    escreveram o título no lugar do id do alterador juntam-se pela posição (o número e a ordem batem). Os diplomas
+    de outras ondas que já lá estão ficam; os desta onda substituem-se."""
+    pasta = _pasta_triagem(n)
     entradas, saidas = {}, {}
     for f in sorted(pasta.glob("entrada-*.jsonl")):
         for d in _jsonl(f):
@@ -386,8 +464,10 @@ def juntar_triagem() -> int:
                                              "motivo": v.get("motivo") or "", "instrucoes": v.get("instrucoes") or [],
                                              "texto_completo": a.get("completo"), "sem_texto": a.get("sem_texto")})
     linhas = [{"id": i, "classe": classe_da_triagem(v), "alteradores": v} for i, v in por.items()]
-    (CAMADA1 / "triagem.jsonl").write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
-    print(f"{len(linhas)} diplomas: {dict(Counter(l['classe'] for l in linhas))}")
+    f = CAMADA1 / "triagem.jsonl"
+    linhas = [d for d in (_jsonl(f) if f.exists() else []) if d["id"] not in por] + linhas
+    f.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
+    print(f"{len(por)} diplomas desta onda: {dict(Counter(l['classe'] for l in linhas if l['id'] in por))}; {len(linhas)} no ficheiro")
     return 0
 
 
@@ -451,6 +531,43 @@ _NUMERACAO_LARGA = re.compile(r"^(?:§\s*(?:\d+\s*\.?\s*[º°o]|[úu]nico)|Art(?
 _REVOGADO_LARGO = re.compile(r"^\(?Revogad[oa]s?\.?\)?\.?$", re.I)
 
 
+def troca_de_expressao(par: str, base: list[str], alteradores: list[str], maximo: int = 15) -> bool:
+    """O parágrafo é um parágrafo da base (texto atual ou original) com uma expressão trocada por outra, e o
+    mesmo alterador traz as duas expressões letra a letra: «onde se lê … deve ler-se …», «a expressão … é
+    substituída por …», «os prazos até 30 de Abril … passam para 30 de Junho». Todos os textos já vêm planos
+    (`_plano`). As diferenças ficam numa só zona de até `maximo` palavras; essa zona, com o contexto que for
+    preciso para ter pelo menos 15 caracteres de cada lado da troca, tem de estar no alterador antes e depois."""
+    import difflib  # noqa: PLC0415
+
+    p = par.split()
+    if len(p) < 4:
+        return False
+    for q_texto in base:
+        q = q_texto.split()
+        if not q or abs(len(q) - len(p)) > maximo:
+            continue
+        m = difflib.SequenceMatcher(None, q, p, autojunk=False)
+        if m.real_quick_ratio() < 0.6 or m.quick_ratio() < 0.6:
+            continue
+        ops = [o for o in m.get_opcodes() if o[0] != "equal"]
+        if not ops:
+            continue
+        i1, i2, j1, j2 = ops[0][1], ops[-1][2], ops[0][3], ops[-1][4]
+        if max(i2 - i1, j2 - j1) > maximo:
+            continue
+        for esq in range(0, 5):
+            for dir_ in range(0, 5):
+                if i1 - esq < 0 or j1 - esq < 0 or i2 + dir_ > len(q) or j2 + dir_ > len(p):
+                    continue
+                antes = " ".join(q[i1 - esq : i2 + dir_])
+                depois = " ".join(p[j1 - esq : j2 + dir_])
+                if len(antes) < 15 or len(depois) < 15:
+                    continue
+                if any(antes in a and depois in a for a in alteradores):
+                    return True
+    return False
+
+
 def _problemas_que_ficam(problemas: list[str], fontes: list[str]) -> tuple[list[str], list[str]]:
     """Separa os problemas «parágrafo que não está no alterador nem no original» que são só numeração
     (o parágrafo, sem «§ N.º» ou «Art. N.º -», está numa fonte, ou é uma revogação) dos outros."""
@@ -500,6 +617,9 @@ def importar(pastas: list[str]) -> int:
         from verificar import _plano  # noqa: PLC0415
         fontes = [_plano(x) for x in atuais] + [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
         fontes.append(_plano(lc.publicado(RAIZ / selecao[i]["path"])))
+        alts = [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        base = [_plano(x) for t in atuais + [lc.publicado(RAIZ / selecao[i]["path"])] + textos_alts for x in t.split("\n\n") if x.strip()]
         inteiros = {}
         for artigo in resposta.get("artigos") or []:
             for par in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):
@@ -514,6 +634,8 @@ def importar(pastas: list[str]) -> int:
             plano = _plano(resto)
             if _REVOGADO_LARGO.match(resto) or (len(plano) >= 20 and any(plano in f for f in fontes)):
                 aceites.append(prob)
+            elif troca_de_expressao(_plano(par), base, alts):
+                aceites.append(prob + " (troca de expressão do alterador)")
             else:
                 ficam.append(prob)
         resposta["problemas"] = ficam
@@ -528,15 +650,28 @@ def importar(pastas: list[str]) -> int:
     if corridos:
         subprocess.run([sys.executable, str(PASTA / "llm_corrido.py"), "importar", *map(str, corridos)], check=True)
         # No texto corrido, «Art. 10.º - (Revogado.)» é a revogação na forma do diploma: não é texto inventado.
+        # Um parágrafo com uma expressão trocada pelo alterador também não (troca_de_expressao).
+        import llm_corrido as lco  # noqa: PLC0415
+        from verificar import _plano  # noqa: PLC0415
+
         for f in corridos:
             for r in json.loads(f.read_text(encoding="utf-8")):
                 g = PASTA / "llm" / "corrido" / f"{r['id'].replace(':', '_')}.json"
                 d = json.loads(g.read_text(encoding="utf-8"))
+                registo = selecao[r["id"]]
+                base = [_plano(t) for tipo, _, t in lco.itens(lco._registo_base(registo)) if tipo == "u" and t.strip()]
+                textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lco._alteradores(registo) if a.get("path")]
+                alts = [_plano(t) for t in textos_alts]
+                base += [_plano(x) for t in textos_alts for x in t.split("\n\n") if x.strip()]
+                novos = [p.strip() for s in (d.get("substituicoes") or []) + (d.get("insercoes") or []) for p in (s.get("texto") or "").split("\n\n") if p.strip()]
                 ficam, aceites = [], []
                 for prob in d.get("problemas") or []:
                     m = re.match(r"^.+?: parágrafo que não está no alterador nem no original: (.*)$", prob)
+                    inteiro = next((p for p in novos if m and p.startswith(m.group(1))), None)
                     if m and _REVOGADO_LARGO.match(_NUMERACAO_LARGA.sub("", m.group(1)).strip()):
                         aceites.append(prob)
+                    elif inteiro and troca_de_expressao(_plano(inteiro), base, alts):
+                        aceites.append(prob + " (troca de expressão do alterador)")
                     else:
                         ficam.append(prob)
                 if aceites:
@@ -546,7 +681,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",), 119: ("pedidos-6",)}
 
 
 def _sufixo() -> str:
@@ -727,6 +862,7 @@ def entrada_nada() -> int:
 
 
 ESTADO = PASTA / "auditoria" / "camada1-estado.jsonl"
+ONDA = 1
 BLOQUEADOS = {  # alteradores sem texto no acervo que, pelo sumário ou rótulo, dão nova redação a artigos
     "pt:dre:466238:por": "DL 35108: os DL 35590, 36095, 36430, 41105, 41321, 41401, 41723 e 42210 dão nova redação a artigos e só há PDF no acervo",
     "pt:dre:328440:por": "o alterador «Alterados os artºs 20º, 21º, 23º, 28º, 29º…» só tem metadados no acervo",
@@ -752,7 +888,7 @@ def _resumo_cegas(linhas: list[dict]) -> str:
 
 def estado() -> int:
     """`auditoria/camada1-estado.jsonl`: o estado final de cada diploma da onda 1, com o motivo e a prova."""
-    itens = _jsonl(CAMADA1 / "onda-1.jsonl")
+    itens = _jsonl(CAMADA1 / f"onda-{ONDA}.jsonl")
     triagem = {d["id"]: d for d in _jsonl(CAMADA1 / "triagem.jsonl")}
     juntados = {}
     for nome in ("juntados-completo.jsonl", "juntados-corrido.jsonl"):
@@ -815,6 +951,12 @@ def estado() -> int:
                       "nao_aplicadas": justificadas, "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl; camada1/segunda{_sufixo()}/segunda-*.json"}
             if i in segunda and segunda[i].get("vigencia"):
                 e["vigencia"] = segunda[i]["vigencia"]
+        elif i in nossos and anteriores and juntados.get(i, {}).get("estado") == "aplicado com LLM":
+            # tirado da entrada às cegas: a resposta desta ronda deu o mesmo texto que a ronda anterior já recusou
+            a = anteriores[i]
+            prefixo = f"a resposta da ronda {RONDA} deu o mesmo texto que a ronda anterior recusou; "
+            e |= {"estado": a["estado"], "motivo": prefixo + str(a.get("motivo")).replace(prefixo, "")[:500],
+                  "prova": a.get("prova")}
         elif i in nada:
             d = nada[i]
             if d.get("instrucoes_em_falta"):
@@ -848,18 +990,36 @@ def estado() -> int:
 A_REPEDIR = ("recusado_as_cegas", "recusado_na_segunda_leitura", "resposta_recusada", "recusado_na_verificacao_mecanica")
 
 
-def refazer_selecao() -> int:
+def refazer_selecao(ficheiro_ids: Path | None = None, rotulo: str = "ronda 116") -> int:
     """Ronda 116: os recusados da onda 1 com a seleção refeita sobre o export de hoje, com as retificações
     (`corrected_by`) e as revogações (`repealed_by`) na lista de alteradores. A segunda leitura mostrou que
     eram estas que faltavam. Substitui as linhas destes diplomas em `selecao-escala.jsonl`, corre as
     regras (`consolidar.processar`) e substitui as linhas em `resultados-escala.jsonl`, na parte 7 e nos
     pendentes."""
-    from consolidar import processar  # noqa: PLC0415
     from selecionar import completar, selecionar_todos  # noqa: PLC0415
 
-    ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
+    if ficheiro_ids is not None:  # p. ex. os diplomas da onda 2 (linhas 6 e 7), antes dos pedidos
+        ids = set(ficheiro_ids.read_text(encoding="utf-8").split())
+    else:
+        ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
     db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
-    novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": "ronda 116"} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    antes = {r["id"]: {a["id"] for a in r["alteradores"]} for r in _jsonl(SELECAO_ESCALA) if r["id"] in ids}
+    novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": rotulo} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    ganhos = {i: sorted({a["id"] for a in r["alteradores"]} - antes.get(i, set())) for i, r in novos.items()}
+    ganhos = {i: g for i, g in ganhos.items() if g}
+    (CAMADA1 / f"selecao-refeita-{rotulo.replace(' ', '-')}.json").write_text(json.dumps(ganhos, ensure_ascii=False, indent=0), encoding="utf-8")
+    print(f"{len(ganhos)} diplomas com alteradores novos (retificações ou revogações), {sum(map(len, ganhos.values()))} no total")
+    _trocar_selecao(novos)
+    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
+    print(f"{len(novos)} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
+    return 0
+
+
+def _trocar_selecao(novos: dict[str, dict]) -> None:
+    """Troca as linhas destes diplomas em `selecao-escala.jsonl`, corre as regras (`consolidar.processar`) e troca as
+    linhas em `resultados-escala.jsonl`, na parte 7 e nos pendentes."""
+    from consolidar import processar  # noqa: PLC0415
+
     linhas = [json.loads(l) for l in SELECAO_ESCALA.read_text(encoding="utf-8").splitlines() if l.strip()]
     trocadas = 0
     with SELECAO_ESCALA.open("w", encoding="utf-8") as f:
@@ -880,23 +1040,50 @@ def refazer_selecao() -> int:
         if e.get("pendentes") and e["estado"] in ("para LLM", "falhou a verificação"):
             pendentes.append({"id": i, "title": e["title"], "itens": e["pendentes"]})
     (PASTA / "pendentes-escala.jsonl").write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pendentes), encoding="utf-8")
-    acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
-    print(f"{trocadas} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
-    print(dict(Counter(e["estado"] for e in estados.values())))
+    print(f"{trocadas} linhas trocadas na seleção; regras: {dict(Counter(e['estado'] for e in estados.values()))}")
+
+
+def acrescentar_alteradores(ficheiro: Path) -> int:
+    """Ronda 118: os alteradores que a segunda leitura achou no acervo e que não estavam na seleção (uma linha por par,
+    `{"id": …, "alterador_path": "data/…", "motivo": …}`). Entram na lista de alteradores do diploma, pela data, e as
+    regras correm de novo sobre a seleção nova."""
+    selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
+    novos: dict[str, dict] = {}
+    for par in _jsonl(ficheiro):
+        r = novos.get(par["id"]) or json.loads(json.dumps(selecao[par["id"]]))
+        bruto = (RAIZ / par["alterador_path"]).read_text(encoding="utf-8")
+        meta = front_matter(bruto)
+        from texto import corpo  # noqa: PLC0415
+        qualidade = meta.get("text_quality") or ("texto" if len(corpo(bruto).strip()) > 200 else None)
+        r["alteradores"] = [x for x in r["alteradores"] if x["id"] != meta["id"]]
+        tipo = str(meta.get("document_type") or "")
+        a = {"id": meta["id"], "title": meta["title"], "path": par["alterador_path"], "text_quality": qualidade,
+             "document_type": tipo, "legal_status": meta.get("legal_status"), "publication_date": str(meta.get("publication_date")),
+             "rotulos_dre": [par["motivo"]], "datas_dre": [], "ordem": str(meta.get("publication_date"))}
+        if "declara" in tipo.lower() or "retifica" in meta["title"].lower() or "rectifica" in meta["title"].lower():
+            a["retificacao"] = True
+        r["alteradores"] = sorted(r["alteradores"] + [a], key=lambda x: (x.get("ordem") or "", x["id"]))
+        r["selecao_refeita"] = "ronda 118: alteradores da segunda leitura"
+        novos[par["id"]] = r
+    _trocar_selecao(novos)
+    print(f"{len(novos)} diplomas com alteradores acrescentados")
     return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao"))
+    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao", "acrescentar-alteradores"))
     parser.add_argument("n", type=int)
     parser.add_argument("--ronda", type=int, default=115, choices=sorted(PASTAS_DA_RONDA))
     parser.add_argument("--pasta", default="pedidos", help="pedidos: a pasta em camada1/")
     parser.add_argument("--so-extra", action="store_true", help="pedidos: só os de --ids-extra")
     parser.add_argument("--ids-extra", type=Path, help="pedidos: mais estes ids (um por linha), p. ex. os que a triagem às cegas mandou para o LLM")
     args = parser.parse_args()
-    global RONDA  # noqa: PLW0603
+    global RONDA, ONDA, ESTADO  # noqa: PLW0603
     RONDA = args.ronda
+    ONDA = args.n
+    if ONDA != 1:  # a onda 1 fica em camada1-estado.jsonl; as seguintes têm o seu ficheiro
+        ESTADO = PASTA / "auditoria" / f"camada1-estado-onda-{ONDA}.jsonl"
     CAMADA1.mkdir(exist_ok=True)
     ficheiro = CAMADA1 / f"onda-{args.n}.jsonl"
     if args.passo == "onda":
@@ -907,9 +1094,11 @@ def main() -> int:
             print(f"{k:5d}  {c}")
         return 0
     if args.passo == "juntar-triagem":
-        return juntar_triagem()
+        return juntar_triagem(args.n)
     if args.passo == "refazer-selecao":
-        return refazer_selecao()
+        return refazer_selecao(args.ids_extra, f"onda {args.n}" if args.ids_extra else "ronda 116")
+    if args.passo == "acrescentar-alteradores":
+        return acrescentar_alteradores(args.ids_extra)
     if args.passo == "estado":
         return estado()
     if args.passo == "entrada-nada":
@@ -926,7 +1115,7 @@ def main() -> int:
         return encolher(args.pasta, 300_000)
     itens = _jsonl(ficheiro)
     if args.passo == "entrada-triagem":
-        return entrada_triagem(itens)
+        return entrada_triagem(itens, args.n)
     if args.passo == "pedidos":
         extra = args.ids_extra.read_text(encoding="utf-8").split() if args.ids_extra else []
         return pedidos_llm(itens, extra, args.pasta, args.so_extra)

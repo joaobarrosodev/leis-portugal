@@ -13,9 +13,6 @@ consolidacao:
   - id: pt:dre:692253:por
     title: Decreto-Lei n.º 186-A/99
     publication_date: '1999-05-31'
-  - id: pt:dre:658224:por
-    title: Decreto-Lei n.º 206/91
-    publication_date: '1991-06-07'
   - id: pt:dre:169460:por
     title: Decreto-Lei n.º 39/99
     publication_date: '1999-02-09'
@@ -115,13 +112,11 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
-
-###### Artigo 6.º — Tribunais de círculo
+###### artigo 6º — (Tribunais de círculo)
 
 (Revogado.)
 
-> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
+> Alterado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 6.º-A — Secretarias judiciais privativas
 
@@ -139,7 +134,7 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
+> Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 9.º — (Tribunais de família e tribunais de família e menores)
 
@@ -230,12 +225,6 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
-
-###### Artigo 21.º-A
-
-(Revogado.)
-
-> Aditado pelo/a [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), publicado em 1999-05-31.
 
 ###### Artigo 22.º — Turnos de férias judiciais
 
@@ -555,25 +544,11 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 (Revogado.)
 
-(Revogado.)
-
-(Revogado.)
-
-(Revogado.)
-
-(Revogado.)
-
 3 Procuradores da República
 
 1 Procurador da República
 
 (Revogado.)
-
-(Revogado.)
-
-(Revogado.)
-
-MAPA X
 
 (Revogado.)
 

@@ -7,6 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:469979:por
+    title: Declaração
+    publication_date: '1983-11-30'
   - id: pt:dre:420583:por
     title: Portaria n.º 632/87
     publication_date: '1987-07-20'
@@ -83,7 +86,9 @@ a) Até 200000$00 ... 10$00
 
 b) De 200000$00 a 1000000$00 ... 5$00
 
-c) De 1000000$00 a 10000000$00 ... 5$00
+c) De 1000000$00 a 10000000$00 ... 4$00
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 d) Acima de 10000000$00, sobre o excedente ... 3$00
 
@@ -153,11 +158,15 @@ c) Não sendo relativa a prédios ... 150$00
 
 3 - Na hipoteca relativa a crédito que vença juros serão considerados, para determinação do valor do facto registado, os juros que a hipoteca garantir.
 
-4 - O valor da penhora, arresto, arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos imóveis é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.
+4 - O valor da penhora, arresto, arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos imóveis, é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 5 - O valor do usufruto, bem como o dos direitos de uso e habitação é o de 10 vezes o rendimento colectável do prédio, se o tiver e for superior ao declarado; o valor da propriedade onerada com tais encargos é o da propriedade plena.
 
-6 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo; em qualquer outro caso as inscrições de alteração ou de reforço são consideradas de valor indeterminado.
+6 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo; em qualquer outro caso, as inscrições de alteração ou de reforço são consideradas de valor indeterminado.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 ###### ARTIGO 13.º
 
@@ -299,7 +308,9 @@ c) Não sendo relativa a comerciante ou navio ... 150$00
 
 1 - Na hipoteca ou no penhor relativos a crédito que vença juros serão considerados, para determinação do valor do facto registado, os juros que a hipoteca ou o penhor garantirem.
 
-2 - O valor da penhora, arresto ou arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos bens é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.
+2 - O valor da penhora, arresto ou arrolamento e, em geral, o dos actos ou providências que afectem a livre disposição dos bens, é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 3 - O valor de qualquer averbamento sobre créditos hipotecários ou pignoratícios nunca será superior ao valor do respectivo crédito.
 
@@ -339,15 +350,19 @@ Os emolumentos e demais encargos devidos pelo registo da falência, concordata, 
 
 A presente tabela aplica-se a todas as entidades referidas no artigo 1.º do Código do Registo Comercial.
 
+###### ARTIGO 27.º
+
+Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.
+
+###### ARTIGO 28.º
+
+Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.
+
+###### ARTIGO 29.º
+
+Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
+
 > Alterado pelo/a [Portaria n.º 632/87](https://diariodarepublica.pt/dr/detalhe/portaria/632-1987-420583), publicado em 1987-07-20.
-
-Art. 27.º Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.
-
-Art. 28.º Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.
-
-Art. 29.º Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
-
-> Aditado pelo/a [Portaria n.º 632/87](https://diariodarepublica.pt/dr/detalhe/portaria/632-1987-420583), publicado em 1987-07-20.
 
 TABELA DE EMOLUMENTOS DO REGISTO DE AUTOMÓVEIS
 
@@ -411,7 +426,9 @@ f) Nos de aumento de capital, com ou sem alteração de cláusulas do pacto que 
 
 g) Nos de aumento de capital, com alteração parcial de cláusulas do pacto diversas da directamente determinada pelo aumento, o valor deste ou da modificação referida ao capital com que a sociedade ficar, conforme o que produzir maior emolumento;
 
-h) Nos de aumento de capital com substituição total do pacto social, o do capital com que a sociedade ficar;
+h) Nos de aumento de capital, com substituição total do pacto social, o do capital com que a sociedade ficar;
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 i) Nos de redução de capital, com ou sem alteração de outras cláusulas do pacto, o da importância a que o capital ficar reduzido;
 
@@ -433,7 +450,9 @@ a) De constituição ou alteração de associações, cooperativas e fundações
 
 b) De revogação, aditamento ou alteração de cláusulas que não sejam de pacto social, quando não envolvam aumento do valor do acto inicial;
 
-c) De aceitação e rectificação;
+c) De aceitação e ratificação;
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 d) De rectificação que não envolva aumento do valor do acto rectificado;
 
@@ -481,7 +500,9 @@ h) Quanto a bens ou actos cujo valor seja fixado em moeda estrangeira, o que lhe
 
 ###### ARTIGO 5.º
 
-Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem, sobre o total do valor, por cada 100$00 ou fracção:
+Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem, sobre o total do valor, por cada 1000$00 ou fracção:
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 a) Até 200000$00 ... 10$00
 
@@ -657,8 +678,6 @@ o) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.
 
 2 - Ao aumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.
 
-> Alterado pelo/a [Portaria n.º 1046/91](https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404), publicado em 1991-10-12.
-
 3 - O emolumento do n.º 1 é contado por inteiro quanto ao primeiro acto praticado e por metade quanto aos demais, se o encargo do pagamento da conta competir ao mesmo interessado.
 
 4 - Contar-se-á apenas uma vez o emolumento deste artigo quando se trate exclusivamente de reconhecimentos, abertura de sinais e termos de autenticação.
@@ -669,7 +688,7 @@ o) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.
 
 7 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos dos n.os 1, 3, 4 e 6 deste artigo e do n.º 4 do artigo 20.º é fixado por despacho normativo do Ministro da Justiça.
 
-> Aditado pelo/a [Portaria n.º 1046/91](https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404), publicado em 1991-10-12.
+> Alterado pelo/a [Portaria n.º 1046/91](https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404), publicado em 1991-10-12.
 
 ###### ARTIGO 24.º
 
@@ -695,7 +714,9 @@ d) Se o acto for interrompido sem que se verifiquem as circunstâncias previstas
 
 e) Se, no caso da alínea anterior, o notário tiver elaborado a minuta para o acto, será apenas cobrado o emolumento correspondente nos termos da alínea a);
 
-f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores que forem devidos cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.
+f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores, que forem devidos, cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469979), publicado em 1983-11-30.
 
 ### CAPÍTULO III — Alteração e cumulação de emolumentos
 
@@ -784,8 +805,6 @@ b) As partilhas de heranças diferentes, salvo se os seus autores forem marido e
 2 - Dos emolumentos do artigo 20.º pertencem dois terços ao notário e um terço aos funcionários do cartório na proporção dos seus vencimentos de categoria.
 
 3 - Dos elementos do artigo 23.º reverterá:
-
-> Alterado pelo/a [Portaria n.º 1046/91](https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404), publicado em 1991-10-12.
 
 a) A totalidade para o notário, se o acto por ele for presidido e lavrado;
 

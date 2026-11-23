@@ -1,0 +1,309 @@
+[
+ {
+  "id": "pt:dre:580164:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Aplica o art. 1.º do DL 126/83 (n.os 2 e 4 novos, 1 e 3 '...' mantidos); art. 5.º está excetuado da revogação do art. 24.º n.º 1 al. a) do DL 141/93.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 24.º n.º 1 al. a) do DL 141/93 (DL 211/81 revogado, exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III); '(Revogado.)' correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "dúvida",
+    "motivo": "Corpo '(Revogado.)' correto (art. 24.º n.º 1 al. a) do DL 141/93 não o exceta). Resta a seguir o texto de assinaturas e o 'Mapa a que se refere o n.º 1 do artigo 22.º' com o endereço da imagem original (16851691.pdf); o art. 4.º do DL 126/83 substituiu o mapa (imagem 08640867.pdf) e o art. 22.º foi revogado em 1993; não é claro o que deveria ficar.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 126/83 art. 4.º (mapa anexo passa a ser o do DL 126/83, imagem 08640867.pdf): o consolidado mantém no fim do art. 49.º a linha 'Mapa a que se refere o n.º 1 do artigo 22.º' com o endereço da imagem original; há título onde pôr a imagem nova, mas o mapa pertence ao art. 22.º, revogado em 1993; dúvida"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declarações de retificação (art. 9.º n.º 1 al. h) e art. 45.º)",
+    "motivo": "Artigos depois revogados na íntegra pelo DL 141/93; não resta texto a retificar."
+   },
+   {
+    "instrucao": "DL 126/83 art. 1.º, na parte dos arts. 18.º, 19.º, 32.º, 34.º, 40.º, 44.º e 45.º",
+    "motivo": "Artigos revogados pelo art. 24.º n.º 1 al. a) do DL 141/93, que revoga o DL 211/81 exceto arts. 5.º, 6.º, 7.º, 29.º e cap. III; o consolidado mostra '(Revogado.)'."
+   },
+   {
+    "instrucao": "DL 256/84 art. 1.º (arts. 32.º e 34.º)",
+    "motivo": "Artigos revogados pelo DL 141/93, art. 24.º n.º 1 al. a); o consolidado mostra '(Revogado.)'."
+   },
+   {
+    "instrucao": "DL 126/83 arts. 2.º, 3.º e 5.º",
+    "motivo": "Normas autónomas (suspensão da comissão de serviço, encargos, efeitos), sem nova redação de texto do original."
+   },
+   {
+    "instrucao": "DL 361/89 art. 45.º n.º 1 al. d) (revoga o DL 211/81 em tudo o que for incompatível)",
+    "motivo": "Revogação condicional («em tudo o que neles for incompatível») e eficácia adiada para a entrada em vigor dos decretos regulamentares do art. 29.º (n.º 2)."
+   },
+   {
+    "instrucao": "DL 214/89 art. 2.º e DL 213/89 art. 3.º (revogações de arts. 18.º n.º 4, 20.º, 28.º e 31.º)",
+    "motivo": "Aplicadas: os artigos mostram '(Revogado.)' (também revogados pelo DL 141/93)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:599913:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 142/2008 art. 53.º n.º 1 al. e) (revoga os arts. 7.º e 8.º do DL 67/82)",
+    "motivo": "Efeito adiado: o n.º 2 do art. 53.º faz a revogação produzir efeitos só a partir da entrada em vigor dos planos de ordenamento das áreas protegidas."
+   },
+   {
+    "instrucao": "DL 142/2008 art. 53.º restantes alíneas e n.º 3",
+    "motivo": "Visam outros diplomas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

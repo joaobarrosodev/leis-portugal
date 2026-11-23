@@ -34,9 +34,13 @@ version:
   consolidation_date: '2025-09-30'
 version_history:
   file: decreto-legislativo-regional-28-2011-a.versoes.json
-  count: 2
+  count: 3
   source_lastmod: '2026-09-30'
   versions:
+  - date: '2011-11-11'
+    amending: null
+    amending_title: null
+    changes: []
   - date: '2016-07-20'
     amending: pt:dre:74967224:por
     amending_title: Decreto Legislativo Regional n.º 13/2016/A
@@ -72,8 +76,6 @@ version_history:
     - Adita Artigo 23.º
     - Adita Artigo 24.º
     - Adita Artigo 25.º
-    - Adita Artigo 39.º
-    - Adita Artigo 40.º
     - Adita Artigo 31.º
     - Adita Artigo 32.º
     - Adita Artigo 33.º
@@ -82,6 +84,8 @@ version_history:
     - Adita Artigo 36.º
     - Adita Artigo 37.º
     - Adita Artigo 38.º
+    - Adita Artigo 39.º
+    - Adita Artigo 40.º
     - Adita Artigo 45.º
     - Adita Artigo 46.º
     - Adita Artigo 47.º
@@ -113,19 +117,19 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2011/11/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-75013135
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-75013135
-  retrieved_at: '2026-10-22T13:57:55Z'
+  retrieved_at: '2026-11-23T15:42:35Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
   source_modified_at: '2026-09-30T00:00:00Z'
 integrity:
-  source_sha256: 503ccf7c8434745693d5c61775ab24bc4a252f55ab67327c32db509172379029
+  source_sha256: c74e522a201f9ffa55c9a68eba68dae30c3d32dafa602422f2d4ffa11f9db2a0
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:57:55Z'
-  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-28-2011-a.versoes.json.
+  generated_at: '2026-11-23T15:42:35Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-28-2011-a.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -202,7 +206,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:57:55Z'
+  checked_at: '2026-11-23T15:42:35Z'
   warnings: []
   errors: []
 ---
@@ -857,52 +861,6 @@ Na classificação e reclassificação de novas áreas marinhas protegidas, cost
 
 > Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
-#### Secção I — Disposições Gerais
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
-###### Artigo 39.º — Limites das áreas marinhas protegidas oceânicas
-
-1 - O Parque Marinho dos Açores é composto pelas áreas marinhas protegidas oceânicas previstas nas secções i a iv do presente capítulo, cujos limites estão descritos e fixados no anexo i, através do respetivo código, e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.
-
-2 - Para efeitos de esclarecimento de quaisquer dúvidas, a carta simplificada, a que se refere o anexo ii, deve estar disponível, para consulta, no departamento do Governo Regional com competência em matéria de mar e pescas ou no sítio da Internet do Governo Regional dos Açores - Portal do Governo dos Açores.
-
-3 - O departamento do Governo Regional com competência em matéria de assuntos do mar e pescas mantém atualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii.
-
-4 - A Autoridade de Gestão da RAMPA, após a sua constituição e entrada em funcionamento, sucede ao departamento do Governo Regional com competência em matéria de assuntos do mar e pescas, nas situações referidas nos números anteriores.
-
-> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
-###### Artigo 40.º — Compatibilização de regimes
-
-1 - Nas áreas marinhas protegidas oceânicas, o regime de usos e atividades proibidos ou condicionados deve articular-se com os seguintes regimes:
-
-a) Rede fundamental de conservação da natureza, prevista na secção iii do capítulo ii;
-
-b) Plano de situação de ordenamento do espaço marítimo, subdivisão Açores;
-
-c) Programa Regional para as Alterações Climáticas, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2019-126669989"><u>Decreto Legislativo Regional n.º 30/2019/A</u></a>, de 28 de novembro;
-
-d) Quadro legal da pesca açoriana, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040"><u>Decreto Legislativo Regional n.º 29/2010/A</u></a>, de 9 de novembro, na sua redação atual, designadamente e sem limitar, quanto às seguintes matérias:
-
-i) Medidas de conservação, gestão e exploração, previstas no artigo 7.º do citado diploma;
-
-ii) Classificação e delimitação das áreas e definição das condições de atividade dos apanhadores de recursos marinhos, dos pescadores submarinos, dos pescadores de costa e de operação das embarcações regionais, bem como dos respetivos requisitos previstos na alínea c) do n.º 2 do artigo 9.º do citado diploma;
-
-iii) Interdição ou restrição do exercício da pesca em certas áreas, ou por certos períodos, ou de certas espécies, ou para embarcações regionais com certas características, ou com certas artes e instrumentos, prevista na alínea d) do n.º 2 do artigo 9.º do citado diploma;
-
-iv) Restrições ao exercício da pesca por outros motivos, previstas no artigo 10.º do citado diploma.
-
-e) Regime jurídico da pesca lúdica na ZEE, subárea dos Açores, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2007-519398"><u>Decreto Legislativo Regional n.º 9/2007/A</u></a>, de 19 de abril, na sua redação atual, designadamente e sem limitar, quanto às matérias reguladas nos respetivos artigos 21.º, 26.º e 27.º;
-
-f) Regime de direitos de soberania e poderes de jurisdição aplicável na ZEE e na plataforma continental, em conformidade com a CNUDM.
-
-2 - Em caso de conflito das normas referidas no número anterior com as previstas no presente diploma quanto ao regime de usos e atividades proibidos ou condicionados, é sempre aplicável o regime que estabelecer maiores restrições ao desenvolvimento de usos e atividades.
-
-3 - Para efeitos do disposto nos números anteriores, a EGRAMPA deve determinar o sistema de compatibilização dos regimes em presença na RAMPA, bem como a metodologia a utilizar para o efeito.
-
-> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
 ### Capítulo III — Áreas marinhas protegidas costeiras
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
@@ -1101,9 +1059,51 @@ h) Outros regimes que estabeleçam proibições ou condicionamentos de usos ou a
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
-#### Secção II — Reserva natural marinha
+#### Secção I — Disposições Gerais
 
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
+###### Artigo 39.º — Limites das áreas marinhas protegidas oceânicas
+
+1 - O Parque Marinho dos Açores é composto pelas áreas marinhas protegidas oceânicas previstas nas secções i a iv do presente capítulo, cujos limites estão descritos e fixados no anexo i, através do respetivo código, e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.
+
+2 - Para efeitos de esclarecimento de quaisquer dúvidas, a carta simplificada, a que se refere o anexo ii, deve estar disponível, para consulta, no departamento do Governo Regional com competência em matéria de mar e pescas ou no sítio da Internet do Governo Regional dos Açores - Portal do Governo dos Açores.
+
+3 - O departamento do Governo Regional com competência em matéria de assuntos do mar e pescas mantém atualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii.
+
+4 - A Autoridade de Gestão da RAMPA, após a sua constituição e entrada em funcionamento, sucede ao departamento do Governo Regional com competência em matéria de assuntos do mar e pescas, nas situações referidas nos números anteriores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
+
+###### Artigo 40.º — Compatibilização de regimes
+
+1 - Nas áreas marinhas protegidas oceânicas, o regime de usos e atividades proibidos ou condicionados deve articular-se com os seguintes regimes:
+
+a) Rede fundamental de conservação da natureza, prevista na secção iii do capítulo ii;
+
+b) Plano de situação de ordenamento do espaço marítimo, subdivisão Açores;
+
+c) Programa Regional para as Alterações Climáticas, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2019-126669989"><u>Decreto Legislativo Regional n.º 30/2019/A</u></a>, de 28 de novembro;
+
+d) Quadro legal da pesca açoriana, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040"><u>Decreto Legislativo Regional n.º 29/2010/A</u></a>, de 9 de novembro, na sua redação atual, designadamente e sem limitar, quanto às seguintes matérias:
+
+i) Medidas de conservação, gestão e exploração, previstas no artigo 7.º do citado diploma;
+
+ii) Classificação e delimitação das áreas e definição das condições de atividade dos apanhadores de recursos marinhos, dos pescadores submarinos, dos pescadores de costa e de operação das embarcações regionais, bem como dos respetivos requisitos previstos na alínea c) do n.º 2 do artigo 9.º do citado diploma;
+
+iii) Interdição ou restrição do exercício da pesca em certas áreas, ou por certos períodos, ou de certas espécies, ou para embarcações regionais com certas características, ou com certas artes e instrumentos, prevista na alínea d) do n.º 2 do artigo 9.º do citado diploma;
+
+iv) Restrições ao exercício da pesca por outros motivos, previstas no artigo 10.º do citado diploma.
+
+e) Regime jurídico da pesca lúdica na ZEE, subárea dos Açores, aprovado pelo <a href="https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2007-519398"><u>Decreto Legislativo Regional n.º 9/2007/A</u></a>, de 19 de abril, na sua redação atual, designadamente e sem limitar, quanto às matérias reguladas nos respetivos artigos 21.º, 26.º e 27.º;
+
+f) Regime de direitos de soberania e poderes de jurisdição aplicável na ZEE e na plataforma continental, em conformidade com a CNUDM.
+
+2 - Em caso de conflito das normas referidas no número anterior com as previstas no presente diploma quanto ao regime de usos e atividades proibidos ou condicionados, é sempre aplicável o regime que estabelecer maiores restrições ao desenvolvimento de usos e atividades.
+
+3 - Para efeitos do disposto nos números anteriores, a EGRAMPA deve determinar o sistema de compatibilização dos regimes em presença na RAMPA, bem como a metodologia a utilizar para o efeito.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
+
+#### Secção II — Reserva natural marinha
 
 ###### Artigo 41.º — Áreas de reserva natural marinha
 
@@ -1303,8 +1303,6 @@ b) A Área Marinha Protegida OSPAR Banco das Formigas e Recife Dollabarat (O-PT0
 
 #### Secção III — Área marinha protegida para gestão de habitats ou espécies
 
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
 ###### Artigo 52.º — Áreas marinhas protegidas para a gestão de habitats ou espécies
 
 1 - Integram o Parque Marinho dos Açores com a categoria de áreas marinhas protegidas para a gestão de habitats ou espécies as seguintes áreas marinhas protegidas:
@@ -1473,8 +1471,6 @@ q) A Área Marinha Protegida para a gestão de habitats e espécies do Mar da Pr
 
 #### Secção IV — Áreas marinhas protegidas para a gestão de recursos
 
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
 ###### Artigo 67.º — Áreas marinhas protegidas para a gestão de recursos
 
 Integram o Parque Marinho dos Açores com a categoria de área marinha protegida para a gestão de recursos as seguintes áreas marinhas protegidas:
@@ -1494,8 +1490,6 @@ As áreas marinhas protegidas para a gestão de recursos referidas no artigo ant
 > Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 #### Secção V — Áreas marinhas protegidas oceânicas situadas na plataforma continental além do limite exterior da ZEE, adjacente ao arquipélago dos Açores
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 ###### Artigo 69.º — Integração no Parque Marinho dos Açores
 
@@ -1596,8 +1590,6 @@ b) Proteger e conservar áreas que melhor representam a diversidade de espécies
 > Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), em vigor a partir de 2016-07-20.
 
 #### Secção VI — Usos e atividades proibidos nas áreas marinhas protegidas oceânicas
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 ###### Artigo 75.º — Âmbito de aplicação
 
@@ -1772,8 +1764,6 @@ g) Transporte de matérias perigosas.
 > Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 #### Secção VII — Usos e atividades condicionados nas áreas marinhas protegidas oceânicas
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 ###### Artigo 79.º — Âmbito de aplicação e regime da autorização
 
@@ -1961,8 +1951,6 @@ g) Fundeamento.
 
 #### Secção I — Disposições gerais
 
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
-
 ###### Artigo 83.º — Sistema de Gestão da RAMPA
 
 1 - O Sistema de Gestão da RAMPA é constituído pelos seguintes instrumentos:
@@ -2004,8 +1992,6 @@ b) Os Planos de Gestão de Área Marinha Protegida (PGAMP).
 > Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 #### Secção II — Estratégia de gestão da RAMPA
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 ###### Artigo 85.º — Regime
 
@@ -2084,8 +2070,6 @@ c) Volume 3, referente ao programa de ação associado ao modelo de execução e
 > Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 #### Secção III — Instrumentos de ordenamento e gestão da área marinha protegida
-
-> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), em vigor a partir de 2025-09-30.
 
 ##### Subsecção I — Planos de ordenamento de área marinha protegida
 

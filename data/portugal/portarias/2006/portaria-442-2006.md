@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '2007-06-11'
     amending: pt:dre:638147:por
-    amending_title: Portaria n.º 691/2007
+    amending_title: Portaria n.º 691/2007; Portaria n.º 735/2006
     changes:
     - Altera Artigo unidades 67-68
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/442/2006/05/10/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:14:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 691/2007. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-442-2006.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-442-2006.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 735/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -238,7 +240,9 @@ a) Seja proprietária da parcela a plantar com vinha ou possua título válido p
 
 b) Respeite as disposições de incidência ambiental previstas na legislação em vigor, no que se refere a áreas protegidas e Rede Natura;
 
-c) Não tenha apresentado pedido de desistência de qualquer candidatura aprovada relativa à campanha de 2005-2006.
+c) (Revogada.)
+
+> Revogado pelo/a [Portaria n.º 735/2006](https://diariodarepublica.pt/dr/detalhe/portaria/735-2006-539217), publicado em 2006-07-25, com efeitos a partir de 2006-05-11.
 
 9.º Podem também candidatar-se ao regime de apoio as entidades proponentes de projectos de emparcelamento, no âmbito do Decreto-Lei n.º 103/90, de 22 de Março.
 

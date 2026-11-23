@@ -1,0 +1,161 @@
+[
+ {
+  "id": "pt:dre:230302:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Igual à redação do art. 1.º do DL 201/2001 (art. 3.º, alíneas a) e b)); o DL 257/2002, art. 17.º c), revoga o DL 138-A/97 com exceção do art. 3.º (definição de áreas de jurisdição) e do art. 6.º-A, que ficam em vigor.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 201/2001; texto igual letra a letra; mantido pelo art. 17.º c) do DL 257/2002.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 17.º c) do DL 257/2002 (revoga o DL 138-A/97, na redação do DL 201/2001, exceto art. 3.º e 6.º-A); consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "dúvida",
+    "motivo": "Corpo '(Revogado.)' correto (art. 17.º c) DL 257/2002), mas ficam a seguir o fecho antigo (Visto e aprovado, Promulgado, Referendado). É texto de fecho do diploma e não do artigo; pela regra literal do prompt (texto antigo após '(Revogado.)') seria errado.",
+    "texto_esperado": "(Revogado.) [sem o texto antigo a seguir, se se aplicar a regra à letra]"
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Mapa do art. 17.º (na redação do DL 201/2001, imagem) revogado pelo art. 17.º c) do DL 257/2002; consolidado mantém título e '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 474-A/99: integração do IND no Ministério do Equipamento Social (lista de organismos) / mudança de tutela",
+    "motivo": "Não textual: sem nova redação de artigo do original; matéria ultrapassada pela revogação do art. 2.º."
+   },
+   {
+    "instrucao": "DL 257/2002, art. 15.º: referências ao IND consideram-se reportadas ao IPTM (e art. 3.º, sucessão de atribuições)",
+    "motivo": "Não textual: norma de remissão/sucessão sem reescrever o texto."
+   },
+   {
+    "instrucao": "DL 146/2007, art. 22.º: mantêm-se em vigor os limites do art. 3.º até à revisão das áreas de jurisdição",
+    "motivo": "Não textual: confirma a vigência do art. 3.º sem lhe mudar o texto (e o consolidado mantém o art. 3.º)."
+   },
+   {
+    "instrucao": "DL 146/2007, art. 24.º: revoga o DL 257/2002 (exceto art. 8.º e arts. 7.º a 10.º do anexo)",
+    "motivo": "Instrução de outro diploma; não repristina o DL 138-A/97."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

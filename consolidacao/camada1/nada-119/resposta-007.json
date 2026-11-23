@@ -1,0 +1,68 @@
+[
+ {
+  "id": "pt:dre:67356342:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:684232:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o articulado passou a artigos separados; o texto do preâmbulo é igual ao original até «o seguinte:»; nenhuma instrução o altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original (n.os 1 e 2 do «Artigo 1.º»), apenas separado do preâmbulo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original, apenas separado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original, apenas separado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original, apenas separado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original, apenas separado; as linhas de assinatura que seguem estão no fim do artigo 5.º em vez de no preâmbulo, sem mudança de texto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Rectificação: base XXXIV, n.º 2, «n.º 3 do artigo 15.º» passa a «n.os 3 e 4 do artigo 5.º» do DL 80/73 - sem efeito no consolidado; A base anexa não existe no consolidado (só artigos 1.º a 5.º e títulos de capítulos); alvo incerto no texto consolidado, embora a instrução vise esta base",
+   "Rectificação: base XLII, n.º 4, «base XXXIII» passa a «n.º 5 da base XXXII» - sem efeito no consolidado; A base anexa não existe no consolidado (só artigos 1.º a 5.º e títulos de capítulos); alvo incerto no texto consolidado, embora a instrução vise esta base",
+   "DL 287/73, artigo único: nova redação do n.º 1 da base LIII - sem efeito no consolidado; A base anexa não existe no consolidado (só artigos 1.º a 5.º e títulos de capítulos); alvo incerto no texto consolidado, embora a instrução vise esta base",
+   "DL 485/88, artigo 1.º, 5): revogação do n.º 1 da base XXX - sem efeito no consolidado; A base anexa não existe no consolidado (só artigos 1.º a 5.º e títulos de capítulos); alvo incerto no texto consolidado, embora a instrução vise esta base",
+   "DL 485/88, artigo 3.º, 11): revogação do n.º 2 da base XXX, sem prejuízo dos já concedidos - sem efeito no consolidado; A base anexa não existe no consolidado (só artigos 1.º a 5.º e títulos de capítulos); alvo incerto no texto consolidado, embora a instrução vise esta base"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 137-A/2009, art. 15.º, n.º 4: mantém a vigência dos regimes das bases XXV n.º 3 e LIII",
+    "motivo": "Não é textual: mantém em vigor sem nova redação (texto omitido na vista; confirmado pela triagem citada, não lido por mim)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

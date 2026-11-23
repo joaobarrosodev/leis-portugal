@@ -7,12 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:442304:por
-    title: Decreto-Lei n.º 102/80
-    publication_date: '1980-05-09'
+  - id: pt:dre:411987:por
+    title: Rectificação
+    publication_date: '1973-11-29'
   - id: pt:dre:161105:por
     title: Decreto-Lei n.º 132/75
     publication_date: '1975-03-14'
+  - id: pt:dre:442304:por
+    title: Decreto-Lei n.º 102/80
+    publication_date: '1980-05-09'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -157,7 +160,7 @@ c) Assegurar o expediente relativo a acordos culturais e outras formas de interc
 
 d) Promover relações culturais com entidades estrangeiras, públicas e privadas, em coordenação com os outros departamentos do Ministério da Educação Nacional e com os serviços do Ministério dos Negócios Estrangeiros;
 
-e) Participar, conjuntamente com o Instituto de Alta Cultura, na orientação dos institutos de cultura portuguesa no estrangeiro, nos termos definidos pelo Ministério da Educação Nacional;
+e) Participar, conjuntamente com o Instituto de Alta Cultura, na orientação dos institutos de cultura portuguesa no estrangeiro, nos termos definidos pelo Ministro da Educação Nacional;
 
 f) Prestar apoio técnico às realizações de interesse cultural no estrangeiro, quer da iniciativa de serviços do Ministério da Educação Nacional, quer de outras entidades;
 
@@ -166,6 +169,8 @@ g) Fomentar o estudo e divulgação da cultura portuguesa no estrangeiro e outra
 h) Promover ou auxiliar a tradução e edição em países estrangeiros de obras representativas das diferentes expressões da cultura portuguesa;
 
 i) Promover e coordenar o intercâmbio cultural com instituições portuguesas ou estrangeiras.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-411987), publicado em 1973-11-29.
 
 ###### Artigo 7.º
 
@@ -231,7 +236,9 @@ c) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
+III - Do pessoal
+
+> Alterado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 16.º
 
@@ -281,11 +288,13 @@ Os museus de arte, história, arqueologia e etnografia, as bibliotecas e arquivo
 
 ###### Artigo 21.º
 
-1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral dos Assuntos Culturais será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 20.º do mesmo decreto-lei.
+1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral dos Assuntos Culturais será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, de acordo com as regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se no provimento do lugar de director-geral o disposto no n.º 2 do artigo 17.º deste diploma.
 
 2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados para a Direcção-Geral dos Assuntos Culturais, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, observando-se, quanto a técnicos especialistas, o disposto na lei geral.
 
 3. O pessoal que actualmente presta serviço nas condições do número anterior e que não for possível prover, nos termos previstos no mesmo, transita para a Direcção-Geral na situação em que se encontrar à data da publicação deste decreto-lei.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-411987), publicado em 1973-11-29.
 
 ###### Artigo 22.º
 

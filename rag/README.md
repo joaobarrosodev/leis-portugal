@@ -1282,6 +1282,26 @@ Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
 
+### Mais duas correções de leitura (23/11/2026)
+
+Dos pendentes da leitura e dos nomes (`PENDENTE.md`). Só código; o `data/` não muda.
+
+- **O nome do anexo do CPT.** O DRE juntou ao nome do anexo o primeiro título: «Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais». O nome do código não o encontrava e «Código de Processo do Trabalho» resolvia para os 3 artigos do decreto (DL 480/99). Agora a parte é «Anexo — CÓDIGO DE PROCESSO DO TRABALHO» (`avaliacao/comum.py`, `_sem_titulo_colado`). Era o único caso no acervo.
+- **O código aprovado logo a seguir ao decreto.** No DL 48/95 o Código Penal vem depois do articulado do decreto, com `## CÓDIGO PENAL` e não `## Anexo — …`, e ficava na mesma parte: os artigos 1.º a 13.º do código tinham as chaves dos do decreto. Agora um `## CÓDIGO …`, `## ESTATUTO …`, `## REGULAMENTO …` ou `## REGIME …` no articulado do decreto, com a numeração a recomeçar em 1.º a seguir, abre a parte «Anexo — CÓDIGO PENAL». O nome começa por «Anexo» de propósito: é por aí que a pesquisa (a de hoje e a da 0.1.1) encontra os códigos pelo nome, e aqui é o texto em vigor. Muda em 6 registos: Código Penal (DL 48/95), Código de Processo Penal (DL 78/87), Código do Registo Predial (DL 224/84), o CIRS de 2001 (DL 198/2001), o REBAP (DL 349-C/83) e os estatutos do DL 272/90. Dentro de um anexo de republicação (os estatutos das ordens de 2015) fica como estava: é o texto antigo republicado.
+- **Guarda em `aplicar_redacoes`:** uma marca sem artigos e sem ponto de início não fecha nada (dava `TypeError`; nenhuma das marcas atuais é assim).
+
+As chaves das perguntas por artigo destes quatro códigos passaram para as partes novas (`rag/perguntas_artigo/codigo-penal.jsonl`, `codigo-processo-penal`, `codigo-registo-predial`, `codigo-processo-trabalho`; 1.391 artigos), e os blocos em `rag/perguntas_por_artigo.py` também.
+
+**Verificado num índice de ensaio** (12.174 registos: os da fase 1 e todos os que têm uma parte com o nome de um código), antes e depois:
+
+- os pedaços abertos não mudam em nenhum registo (só mudam de parte); nenhum diploma central perde pedaços; as chaves repetidas abertas descem de 2.709 para 2.655;
+- os nomes de códigos resolvem para os mesmos registos, menos quatro, que passam do articulado do decreto para a parte do código: Penal, Processo Penal, Registo Predial e Processo do Trabalho. Com o código da 0.1.1, o mesmo; o «Código de Processo Penal», que a 0.1.1 não resolvia, passa a resolver;
+- as perguntas por artigo: 30 artigos que as recebiam em dois pedaços (o do decreto e o do código) passam a recebê-las só no do código;
+- as normas julgadas do TC e as de uniformização, refeitas sobre o índice de ensaio, passam para as partes novas (Código Penal 298 de 299, Processo Penal 817 de 844, Processo do Trabalho 81 de 81, Registo Predial 4);
+- só com BM25 e referências, o artigo esperado em 1.º passa de 702 para 742 das 1.414 perguntas, e nos dez primeiros de 1.018 para 1.066 (50 sobem, 1 desce). Ganham sobretudo as de texto alterado (51 → 78) e as de revogados (55 → 67): os artigos do código nas versões antigas ficam na mesma parte que o texto em vigor.
+
+**Depois da reconstrução:** `python -m rag.jurisprudencia` e `python -m rag.uniformizacao --indice …`, para as normas do CP, do CPP e do CRP ficarem com as partes novas. Até lá a pesquisa não liga às partes novas as normas guardadas com a parte do decreto («»).
+
 ## Nomes de códigos, texto em vigor noutro registo e registos repetidos (20/11/2026)
 
 Três falhas de apresentação do inventário da camada 1 (`reports/inventario-camada-1.md`, linhas 2, 4 e 11 do resumo): o texto certo existe, mas a pesquisa não chegava lá ou servia outro ao lado.

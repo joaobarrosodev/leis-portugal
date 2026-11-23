@@ -35,6 +35,12 @@
      "title": "Portaria n.º 207/86",
      "published": "1986-05-12",
      "dre_path": "/dr/detalhe/portaria/207-1986-227583"
+    },
+    {
+     "id": "pt:dre:413060:por",
+     "title": "Portaria n.º 663/73",
+     "published": "1973-10-04",
+     "dre_path": "/dr/detalhe/portaria/663-1973-413060"
     }
    ],
    "changes": [
@@ -46,7 +52,10 @@
     "Revoga Artigo 7",
     "Revoga Artigo 10",
     "Revoga Artigo 11",
-    "Revoga Artigo 1"
+    "Revoga Artigo 1",
+    "Revoga Artigo 6",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9"
    ],
    "fragments": [
     "aab63c8896b51d3f",
@@ -55,10 +64,10 @@
     "9fa34d12a6c24300",
     "2bf36a738906b8ff",
     "d2019c094bd25474",
-    "93bd79e7e88da23a",
+    "62136a91a8a0ffa5",
     "8dd690153acf884c",
-    "fdbbcb0c0323124f",
-    "2e1e52249e903a86",
+    "f858ab1832becf6a",
+    "4abd38930aa662c0",
     "1ada4c3958c01930",
     "7d4dd02bfd09b4df"
    ]
@@ -126,13 +135,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 5.º\n\n(Revogado.)"
   },
-  "93bd79e7e88da23a": {
+  "62136a91a8a0ffa5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nOs alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:\n\n1.º As características serão as dos quadros I (aves e coelhos), II (suínos) e III (bovinos e ovinos) seguintes:\n\nI) Alimentos para aves e coelhos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\nII) Alimentos para suínos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\nIII) Alimentos para bovinos e ovinos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\n2.º A digestibilidade da proteína bruta, determinada pelo método da digestão com pepsina em meio clorídrico, dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80 por cento e nos restantes alimentos compostos a 75 por cento.\n\n3.º Os alimentos compostos melaçados deverão conter o mínimo de 9,6 por cento de açúcares redutores totais expressos em glucose. O teor máximo em água dos alimentos compostos melaçados não poderá exceder 16 por cento. Quando, porém, contiverem mais de 16 por cento dos açúcares totais expressos em açúcar invertido, o teor em água pode atingir o máximo de 22 por cento determinado pelo processo directo do benzeno."
+   "in_force_from": "1992-04-08",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), publicado em 1973-10-04."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), publicado em 1973-10-04."
   },
   "8dd690153acf884c": {
    "fragment_id": null,
@@ -142,21 +153,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "fdbbcb0c0323124f": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nPara efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:\n\na) Nome da empresa industrial ou comercial responsável;\n\nb) Designação ou marca do produto;\n\nc) Indicação da espécie animal e função zootécnica a que o alimento se destina;\n\nd) Indicação qualitativa dos alimentos simples utilizados em percentagem superior a 5;\n\ne) Composição química do produto relativa aos componentes para os quais existem limites legalmente fixados;\n\nf) Indicação do valor energético referido em unidades forrageiras (U. F.) por quilograma de alimento, excepto para as aves, que será expresso em calorias metabolizáveis;\n\ng) Data do fabrico.\n\n§ 1.º No caso de haver incorporação de suplementos alimentares ou aditivos, deverá indicar-se a quantidade, por quilograma de alimento composto, de cada um dos elementos activos que o constituem, e o prazo durante o qual o fabricante garante a sua actividade biológica.\n\n§ 2.º Quando haja incorporação de melaços, deverá apor-se, devidamente destacada, a designação de «Melaço».\n\n§ 3.º Todas as indicações contidas nos dísticos, rótulos ou etiquetas são de exclusiva responsabilidade das empresas a que se refere a alínea a) deste artigo.\n\n§ 4.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
-  "2e1e52249e903a86": {
+  "4abd38930aa662c0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\nÉ permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:\n\na) Que as quantidades a transportar correspondam à capacidade de contentores adequados, e os produtos transportados sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras;\n\nb) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatòriamente deverão constar as indicações exigidas nos termos do artigo 8.º desta portaria."
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)"
   },
   "1ada4c3958c01930": {
    "fragment_id": null,

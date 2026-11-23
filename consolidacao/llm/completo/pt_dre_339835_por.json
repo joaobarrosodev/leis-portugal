@@ -64,7 +64,7 @@
     {
       "chave": "17.º",
       "epigrafe": "Recinto",
-      "texto": "1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizontal.\n\n3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.\n\n4 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.\n\n5 - É obrigatória a fixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registos;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Terra do jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica.",
+      "texto": "1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizonal.\n\n3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.\n\n4 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.\n\n5 - É obrigatória a fixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registos;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Terra do jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica.",
       "alterador": 4
     },
     {
@@ -105,19 +105,33 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "## Título de registo",
+      "novo": null,
+      "alterador": 3
+    },
+    {
+      "atual": "## Título de licenciamento",
+      "novo": null,
+      "alterador": 3
+    }
+  ],
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 12/2001/A art. 1.º: art. 2.º n.º 2 com nova redação (aplicado, alterador 1); art. 20.º alínea h) e novos n.os 3 e 4 (absorvidos pela redação do alterador 3); art. 24.º fiscalização pelas forças de segurança (aplicado).",
-    "DLR 32/2003/A art. 1.º: nova redação dos n.os 1 e 2 do art. 17.º (aplicado). O verificador disse que este alterador não estava incluído, mas está (alterador 2). No n.º 2 o texto da instrução traz 'horizonal'; as republicações integrais dos alteradores 3 e 4 (o alterador 4 altera e republica o próprio art. 17.º) trazem 'horizontal', que se adotou por estar letra a letra no alterador 4.",
-    "DLR 41/2006/A art. 1.º: novas redações dos arts. 4.º n.º 1, 6.º, 7.º n.º 1, 8.º n.º 1, 11.º, 12.º (n.os 1 e 3), 14.º, 15.º, 16.º, 19.º, 20.º, 22.º, 23.º n.º 1 e 25.º (aplicado). Os arts. 7.º e 16.º vinham vazios no texto atual: o n.º 2 do art. 7.º ('[...]' na instrução) copiou-se da republicação anexa ao mesmo alterador; o art. 16.º foi substituído por inteiro.",
-    "DLR 41/2006/A art. 2.º: revoga o n.º 3 do art. 20.º (regra do crime, aditada pelo DLR 12/2001/A); na nova redação do art. 20.º o n.º 3 passa a ser o 'Anterior n.º 4' (negligência e tentativa), como na republicação; aplicado.",
-    "DLR 12/2012/A art. 1.º: nova redação do n.º 4 do art. 17.º (aplicado).",
-    "Arts. 2.º/3.º de 32/2003/A, 3.º-5.º de 41/2006/A e republicações: sem instruções textuais adicionais. As linhas '## Título de registo' e '## Título de licenciamento' do texto atual são as epígrafes dos arts. 7.º e 16.º e não títulos de divisão; nenhuma instrução as muda, por isso não se tocou em 'titulos'."
+    "Alterador 1, art. 1.º: nova redação do n.º 2 do art. 2.º, da alínea h) do n.º 1 e novos n.os 3 e 4 do art. 20.º, e do art. 24.º — art. 2.º e 24.º aplicados; art. 20.º depois substituído por inteiro pelo alterador 3.",
+    "Alterador 2, art. 1.º: nova redação dos n.os 1 e 2 do art. 17.º (n.os 3 a 5 ficam) — aplicada.",
+    "Alterador 3, art. 1.º: nova redação do n.º 1 dos arts. 4.º, 7.º, 8.º e 23.º, n.os 1 e 3 do art. 12.º, e dos arts. 6.º, 11.º, 14.º, 15.º, 16.º, 19.º, 20.º, 22.º e 25.º — aplicadas; os números com «...» copiados do texto atual.",
+    "Alterador 3: os arts. 7.º e 16.º estão vazios no texto atual e a sua epígrafe («Título de registo», «Título de licenciamento») aparece como título de divisão; a epígrafe vai em `epigrafe` e os falsos títulos de divisão são eliminados em `titulos`. O n.º 2 do art. 7.º («...» no alterador e ausente do texto atual) é copiado da republicação anexa ao alterador 3.",
+    "Alterador 3, art. 2.º: revoga o n.º 3 do art. 20.º (o aditado pelo alterador 1) — já fica eliminado pela nova redação do art. 20.º, cujo n.º 3 é o anterior n.º 4 («A negligência e a tentativa são punidas.»).",
+    "Alterador 3, art. 3.º, e alterador 4, art. 2.º: republicações — usadas só como fonte do n.º 2 do art. 7.º; as diferenças de grafia da republicação de 2012 não são instruções.",
+    "Alterador 4, art. 1.º: nova redação do n.º 4 do art. 17.º — aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 119,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }
