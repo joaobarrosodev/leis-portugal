@@ -26,10 +26,10 @@ publication:
 entry_into_force_dates:
 - '1991-02-01'
 entry_into_force:
-  date: '1991-02-01'
-  rule: a 1 de Fevereiro de 1991
-  method: clausula
-  article: art-21
+  date: '1991-02-06'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null
