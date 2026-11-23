@@ -215,3 +215,12 @@ def test_anexo_com_titulo_repetido_vai_pela_ordem_e_revogado_leva_nota_de_revoga
     assert "Corpo um." in texto and "Corpo dois." not in texto and "> Revogado pelo/a Lei 16/2009" in texto
     _, erro = lc._mudar_corpo_do_anexo(corpo, {"titulo": titulo, "texto": "x"}, "L", "d")
     assert erro and "repete-se" in erro
+
+
+def test_marcados_nao_conta_o_anexo_revogado_dentro_do_bloco_do_artigo():
+    corpo7 = "Nos termos da Lei n.º 74/98, é republicado em anexo o Estatuto dos Deputados, com as alíneas renumeradas."
+    original = "\n\n".join(["###### Artigo 7.º", corpo7, "## ANEXO — Cartão especial", "Modelo do cartão com muitas indicações.",
+                            "###### Artigo 1.º", "Texto do Estatuto."])
+    consolidado = "\n\n".join(["###### Artigo 7.º", corpo7, "## ANEXO — Cartão especial", "(Revogado.)", "> Revogado pelo/a Lei 16/2009.",
+                               "###### Artigo 1.º", "Texto do Estatuto alterado."])
+    assert t.marcados(original, consolidado) == []

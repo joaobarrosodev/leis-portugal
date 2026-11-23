@@ -1,0 +1,57 @@
+[
+ {
+  "id": "pt:dre:668330:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 248/76 art. 1.º (n.os 1 a 4) letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 248/76 art. 1.º (n.os 1 a 7) letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo 4.º revogado pelo art. 40.º do DL 81/78 (revogação expressa e incondicional); corpo '(Revogado.)' com epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 mantidos ('...'), n.º 3 com a redação do DL 248/76 art. 1.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 895/76 art. 2.º",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Lei n.º 77/77, art. 76.º: revoga o Decreto-Lei n.º 407-A/75 inteiro «sem prejuízo do disposto nos artigos 60.º a 70.º» e não tem efeito no consolidado. É revogação expressa e não condicional do diploma; a ressalva só mantém em vigor transitoriamente o art. 4.º (art. 62.º) e os arts. 10.º a 12.º (art. 68.º) até à regulamentação futura. Os restantes artigos (1.º, 2.º, 3.º, 5.º a 9.º, 13.º a 18.º) não têm nenhum facto futuro pendente, pelo que a justificação «efeito adiado» não cobre o diploma todo (decisão a tomar a nível de diploma). Os veredictos dos artigos abaixo valem para as restantes instruções."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 77/77, arts. 62.º, 67.º e 68.º",
+    "motivo": "remissões e normas transitórias, não textuais"
+   },
+   {
+    "instrucao": "Portarias 215/79, 476/81, 576/81 e 1219/82 (desanexação de parcelas de prédios nacionalizados)",
+    "motivo": "não textual: não dão nova redação ao original"
+   },
+   {
+    "instrucao": "DL 248/76, art. 1.º, nova redação do art. 4.º",
+    "motivo": "aplicada e depois revogada pelo art. 40.º do DL 81/78; o consolidado mostra o artigo revogado"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

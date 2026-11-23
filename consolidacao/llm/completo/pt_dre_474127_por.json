@@ -586,15 +586,15 @@
       "alterador": 15
     }
   ],
-  "nao_aplicavel": "Alterador 1, retificação do n.º 3 do preâmbulo («dados e que» -> «dados ao que»): alvo incerto: o preâmbulo não vem no texto atual, não há onde aplicar\nAlteradores 2 a 8, 11, 13 e 14, criação de lugares no quadro do mapa anexo: não textual: criam lugares sem dar texto novo ao mapa, que só existe em imagem e fica revogado pelo alterador 15\nAlteradores 9 e 10, alargamento da área de recrutamento para chefes de divisão: não textual: não alteram o texto do original\nAlterador 12, alteração parcial do mapa anexo (imagem): só em imagem: o mapa fica revogado pelo alterador 15, que prevalece\nAlterador 15, artigo 50.º (transição de pessoal): outro diploma: só menciona o quadro anexo ao original",
+  "nao_aplicavel": "Alterador 1, retificação do n.º 3 do preâmbulo («dados e que» por «dados ao que»): alvo incerto: o preâmbulo não vem no texto atual (só artigos, títulos e anexo), não há onde a aplicar\nAlterador 15, art. 50.º (transição do pessoal do quadro anexo): não textual (regime de transição, sem nova redação)",
   "instrucoes": [
-    "Alterador 1 (retificação): «Secção IV» -> «Secção III» aplicada ao título da secção IV do capítulo II; «Quadros e carreiras» -> «Quadro e carreiras» aplicada ao título da secção I do capítulo IV; epígrafes dos artigos 10.º («ou da colaboração técnica») e 14.º («Competências») retificadas; as retificações dos corpos dos artigos 7.º, 10.º, 21.º, 41.º, 66.º, 75.º, 89.º, n.º 1, e do mapa ficam sem efeito por recaírem em partes revogadas; a do preâmbulo não tem alvo no texto atual",
-    "Alteradores 2 a 14 (portarias sobre o quadro de pessoal): não mudam o texto; o mapa fica revogado",
-    "Alterador 15, artigo 55.º: revoga o DL 138/80 com excepção dos n.os 3, 4 e 5 do artigo 89.º: todos os artigos 1.º a 94.º com «(Revogado.)», o 89.º com os n.os 1 e 2 revogados e os n.os 3 a 5 intactos, e o corpo do anexo revogado"
+    "Alterador 1 (Declaração de retificação de 21-07-1980): aplicadas as retificações das epígrafes dos arts. 10.º («ou da colaboração») e 14.º («Competências»), do título «Secção IV» do capítulo II (p. 1076) para «SECÇÃO III» e do título da secção I do capítulo IV («Quadro e carreiras»); as dos corpos dos arts. 7.º, 10.º, 21.º, 41.º, 66.º, 75.º, 89.º, n.º 1, e do mapa anexo recaem em texto depois revogado pelo DL 339/83.",
+    "Alteradores 2 a 14 (portarias): criam ou alteram lugares no mapa de pessoal anexo; o anexo é depois revogado pelo art. 55.º do DL 339/83, pelo que não mudam o texto final.",
+    "Alterador 15 (DL 339/83, art. 55.º): revoga o diploma com excepção dos n.os 3, 4 e 5 do art. 89.º: todos os artigos ficam «(Revogado.)» (com as epígrafes), o art. 89.º fica com os n.os 1 e 2 revogados e os n.os 3 a 5 intactos, e o corpo do anexo fica «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

@@ -1,0 +1,601 @@
+[
+ {
+  "id": "pt:dre:312427:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Declaração acrescenta «#### SECÇÃO I — Disposições gerais» sob o Capítulo IV, antes do art. 36.º; aplicado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 425/83, art. 68.º, al. c) (arts. 36.º a 54.º); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 42/89, art. 88.º, al. b); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 129/98, art. 12.º, al. a); consolidado fica com epígrafe/título e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "DL 235-A/83 art. único dá nova redação à al. e) (acrescenta o art. 63.º); resto igual ao original; art. 92.º não está nas revogações dos DL 425/83, 42/89 e 129/98.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração: retificação do n.º 5 do preâmbulo («por vários diplomas. Os diferentes objectivos que lhe têm sido assinalados») sem efeito; o preâmbulo está entre os artigos IGUAIS ao original (alvo incerto quanto à razão de não aplicar)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: retificação do quadro anexo (imagem 00060006.pdf, mesmo endereço antes e depois)",
+    "motivo": "só em imagem, endereço idêntico, e o original não tem esse quadro com título de anexo onde o pôr"
+   },
+   {
+    "instrucao": "DL 433/83 art. 2.º: prorrogação até 31/3/1984 dos prazos do n.º 1 do art. 85.º e do art. 86.º",
+    "motivo": "não textual (prorrogação); arts. 85.º e 86.º revogados depois pelo DL 129/98"
+   },
+   {
+    "instrucao": "DL 32/85 art. 6.º: passa a 3 meses o prazo do art. 31.º",
+    "motivo": "não textual, sem redação; art. 31.º revogado depois pelo DL 42/89"
+   },
+   {
+    "instrucao": "Portarias 310/84, 364/85, 316/87, 306/96 e Despachos Normativos 260/91, 30/92, 156/94: alterações ao quadro de pessoal do GEPMJ (mapas anexos)",
+    "motivo": "o diploma que altera não traz texto da alteração (só imagem/omitido) e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 42/89 art. 88.º, al. c), d), e): revogação dos DL 235-A/83, 425/83 e de artigos do DL 32/85",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 129/98 art. 12.º, al. b) a g): revogação do DL 42/89 e de outros diplomas",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 32/85 arts. 4.º, 8.º, 16.º: alterações/revogações do DL 425/83, do Regulamento do Registo Comercial e do DL 419/83",
+    "motivo": "outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

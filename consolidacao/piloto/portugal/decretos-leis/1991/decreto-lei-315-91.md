@@ -79,6 +79,118 @@ Ficam revogadas todas as disposições legais que atribuem isenções de portage
 
 Ficam os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações autorizados a, por parte do Estado, outorgar os documentos necessários à formalização das alterações ao contrato de concessão, com faculdade de delegação, decorrentes da entrada em vigor do presente diploma.
 
+ANEXO I — Bases do contrato de concessão
+
+Relação das bases
+
+I - Objecto da concessão.
+
+II - Tipo da concessão.
+
+III - Estabelecimento da concessão.
+
+IV - Reversão dos bens do estabelecimento.
+
+V - Delimitação da concessão.
+
+VI - Continuidade das vias existentes.
+
+VII - Programa de execução das auto-estradas.
+
+VIII - Integração na concessão das auto-estradas construídas pelo Estado.
+
+IX - Sociedade concessionária.
+
+X - Financiamento da concessão.
+
+XI - Equilíbrio financeiro da concessão.
+
+XII - Comparticipações financeiras do Estado.
+
+XIII - Dotações para equilíbrio financeiro.
+
+XIV - Especificações de natureza contabilística.
+
+XV - Reembolso dos montantes do fundo de equilíbrio.
+
+XVI - Avales do Estado em financiamentos externos e internos.
+
+XVII - Tarifas de portagem.
+
+XVIII - Taxas de portagem.
+
+XIX - Fixação e actualização de tarifas de portagem.
+
+XX - Isenções de portagem.
+
+XXI - Caução.
+
+XXII - Elaboração de estudos.
+
+XXIII - Critérios de projecto.
+
+XXIV - Áreas de serviço.
+
+XXV - Elementos de estudo a facultar à concessionária.
+
+XXVI - Programa de estudos e projectos.
+
+XXVII - Expropriações.
+
+XXVIII - Execução das obras.
+
+XXIX - Aumento do número de vias das auto-estradas.
+
+XXX - Estragos causados em vias de comunicação.
+
+XXXI - Entrada em serviço das auto-estradas.
+
+XXXII - Poderes especiais do concedente.
+
+XXXIII - Alterações nas obras realizadas e entrada em funcionamento de instalações suplementares a pedido da concessionária.
+
+XXXIV - Demarcação dos terrenos e respectiva planta cadastral.
+
+XXXV - Conservação das auto-estradas.
+
+XXXVI - Forma de cobrança da portagem.
+
+XXXVII - Financiamento, construção e exploração das áreas de serviço.
+
+XXXVIII - Obrigações e direitos do público e dos proprietários confinantes das auto-estradas.
+
+XXXIX - Manutenção e disciplina de tráfego.
+
+XL - Assistência aos utentes.
+
+XLI - Reclamações de utentes.
+
+XLII - Estatística do tráfego.
+
+XLIII - Prazo de concessão.
+
+XLIV - Entrada na posse do Estado das auto-estradas que constituem o objecto da concessão.
+
+XLV - Ampliação da concessão.
+
+XLVI - Trespasse e subconcessão.
+
+XLVII - Sanções.
+
+XLVIII - Resgate da concessão.
+
+XLIX - Rescisão da concessão.
+
+L - Fiscalização.
+
+LI - Falta de cumprimento pela concessionária por motivo de força maior.
+
+LII - Melhoria ou ampliação da rede viária pelo Estado.
+
+LIII - Indemnizações a terceiros.
+
+LIV - Relatórios e informações.
+
 (Revogada.)
 
 (Revogada.)

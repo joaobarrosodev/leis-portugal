@@ -10,54 +10,33 @@ consolidacao:
   - id: pt:dre:213067:por
     title: Decreto-Lei n.º 49483
     publication_date: '1969-12-30'
-  - id: pt:dre:142369:por
-    title: Decreto-Lei n.º 237/70
-    publication_date: '1970-05-25'
-  - id: pt:dre:377568:por
-    title: Decreto-Lei n.º 297/79
-    publication_date: '1979-08-17'
-  - id: pt:dre:392414:por
-    title: Decreto-Lei n.º 198/82
-    publication_date: '1982-05-21'
-  - id: pt:dre:285746:por
-    title: Decreto-Lei n.º 98/88
-    publication_date: '1988-03-22'
-  - id: pt:dre:294480:por
-    title: Decreto-Lei n.º 46369
-    publication_date: '1965-06-07'
   - id: pt:dre:158395:por
     title: Decreto-Lei n.º 209/75
     publication_date: '1975-04-18'
-  - id: pt:dre:324949:por
-    title: Decreto-Lei n.º 183-D/80
-    publication_date: '1980-06-09'
+  - id: pt:dre:285746:por
+    title: Decreto-Lei n.º 98/88
+    publication_date: '1988-03-22'
+  - id: pt:dre:392414:por
+    title: Decreto-Lei n.º 198/82
+    publication_date: '1982-05-21'
   - id: pt:dre:427440:por
     title: Decreto-Lei n.º 312/76
     publication_date: '1976-04-28'
   - id: pt:dre:406157:por
     title: Decreto-Lei n.º 415/87
     publication_date: '1987-12-31'
-  - id: pt:dre:537212:por
-    title: Decreto-Lei n.º 45977
-    publication_date: '1964-10-19'
-  - id: pt:dre:234926:por
-    title: Decreto-Lei n.º 48316
-    publication_date: '1968-04-05'
-  - id: pt:dre:669086:por
-    title: Decreto-Lei n.º 180/84
-    publication_date: '1984-05-25'
+  - id: pt:dre:324949:por
+    title: Decreto-Lei n.º 183-D/80
+    publication_date: '1980-06-09'
   - id: pt:dre:432797:por
     title: Decreto-Lei n.º 45400
     publication_date: '1963-11-30'
-  - id: pt:dre:430006:por
-    title: Decreto-Lei n.º 667/76
-    publication_date: '1976-08-05'
+  - id: pt:dre:669086:por
+    title: Decreto-Lei n.º 180/84
+    publication_date: '1984-05-25'
   - id: pt:dre:426136:por
     title: Decreto-Lei n.º 138/78
     publication_date: '1978-06-12'
-  - id: pt:dre:256641:por
-    title: Decreto-Lei n.º 374-E/79
-    publication_date: '1979-09-10'
   - id: pt:dre:406137:por
     title: Decreto-Lei n.º 413/87
     publication_date: '1987-12-31'
@@ -158,7 +137,9 @@ a) Os direitos de autor sobre obras intelectuais;
 
 > Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067), publicado em 1969-12-30.
 
-b) Os abonos para falhas, as ajudas de custo, as verbas para representação, viagens ou deslocações, as bolsas e quaisquer outras importâncias de idêntica natureza que os patrões ou as empresas atribuam a pessoas abrangidas pela alínea a) do artigo seguinte, bem como os impostos ou outros encargos legais devidos por estas e que os primeiros tomem sobre si;
+b) Os abonos para falhas, as ajudas de custo, as verbas para representação, viagens ou deslocações, as bolsas e quaisquer outras importâncias de idêntica natureza que os patrões ou as empresas atribuam a pessoas abrangidas pela alínea a) do artigo seguinte;
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 c) As importâncias que os donos de firmas em nome individual escriturem na contabilidade da empresa a título de remuneração do seu trabalho.
 
@@ -168,7 +149,7 @@ e) Metade das importâncias, qualquer que seja a sua natureza, recebidas pelos e
 
 f) Os subsídios e outros benefícios ou regalias sociais auferidos no exercício ou em razão do exercício da actividade profissional.
 
-> Aditado pelo/a [Decreto-Lei n.º 237/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1970-142369) e [Decreto-Lei n.º 297/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1979-377568) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Aditado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
 
 § 3.º Para efeitos da alínea b) do parágrafo anterior, consideram-se verbas para representação, viagens ou deslocações as concedidas para tais fins e de que não se tenham prestado contas até ao termo do exercício.
 
@@ -186,7 +167,7 @@ c) Exerçam por conta própria alguma das actividades constantes da tabela anexa
 
 § 3.º Compreendem-se na alínea b) tanto os originários titulares dos direitos como os sucessivos adquirentes, quando o rendimento respeite a registos de propriedade feitos no continente ou nos arquipélagos dos Açores e da Madeira, ou, não tendo sido feito registo ou praticada formalidade equivalente, o contribuinte aí resida ou o devedor desses rendimentos tenha aí residência, sede efectiva ou estabelecimento estável ao qual o pagamento deva imputar-se.
 
-> Alterado pelo/a [Decreto-Lei n.º 46369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46369-1965-294480) e [Decreto-Lei n.º 237/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1970-142369) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 Art. 3.º Não constituem matéria colectável:
 
@@ -194,9 +175,11 @@ a) Os subsídios eventuais destinados a despesas com assistência médica ou hos
 
 b) As pensões e subsídios de aposentação, reforma, invalidez e sobrevivência, ainda que concedidos facultativamente, incluindo os complementos de pensões;
 
+> Alterado pelo/a [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), publicado em 1976-04-28.
+
 c) Os abonos para falhas até à importância correspondente a 5% da remuneração mensal fixa; e as ajudas de custo até ao limite dos quantitativos estabelecidos para os servidores do Estado com remunerações fixas equivalentes ou mais aproximadas;
 
-> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), publicado em 1976-04-28.
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 d) Os abonos de família atribuídos em conformidade com a lei;
 
@@ -208,7 +191,7 @@ g) Os subsídios de aleitação, até ao limite do quantitativo fixado para os s
 
 i) As despesas de representação, viagens ou deslocações, e subsídios de alojamento, residência e isolamento abonados ao pessoal abrangido pelo Decreto-Lei n.º 415/87, de 31 de Dezembro.
 
-> Aditado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
 
 ### CAPÍTULO II — Isenções
 
@@ -230,7 +213,7 @@ f) Os eclesiásticos abrangidos pela Concordata entre a Santa Sé e a República
 
 g) (Revogada.)
 
-> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
+> Alterado pelo/a [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
 
 h) Os vencimentos e quaisquer outras remunerações auferidos pela prestação de serviços em obras e trabalhos das infra-estruturas comuns N. A. T. O., nos termos do artigo 1.º do [Decreto-Lei n.º 42675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42675-1959-438274), de 24 de Novembro de 1959.
 
@@ -242,9 +225,11 @@ i) Os vencimentos e quaisquer outras remunerações auferidos pela prestação d
 
 § 3.º (Revogado.)
 
+> Alterado pelo/a [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
+
 Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 410000$00.
 
-> Alterado pelo/a [Decreto-Lei n.º 45977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45977-1964-537212) e [Decreto-Lei n.º 48316](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48316-1968-234926) e [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 297/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1979-377568) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086) e [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
 
 § único. Quando o rendimento exceda o limite da isenção, por todo ele se pagará imposto, mas sem que a importância deste possa ser maior que o excesso.
 
@@ -252,7 +237,11 @@ Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento c
 
 Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente; sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e no § 1.º do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.
 
-§ 1.º A declaração será entregue em duplicado na repartição de finanças do concelho ou bairro da área do domicílio do contribuinte, quando este o tenha no continente ou ilhas. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição de finanças da respectiva área. Em todos os mais casos, a entrega far-se-á na repartição de finanças do 3.º bairro fiscal de Lisboa.
+> Alterado pelo/a [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), publicado em 1980-06-09.
+
+§ 1.º A declaração será entregue em duplicado na repartição de finanças do concelho ou bairro da área do domicílio do contribuinte, quando este o tenha no continente ou ilhas. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na repartição de finanças da respectiva área. Em todos os mais casos, a entrega far-se-á na Secção de Finanças do 3.º bairro fiscal de Lisboa.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º No caso de falecimento do contribuinte, a declaração incumbirá ao cabeça-de-casal, o qual, porém, ficará dela dispensado se tiver sido feita, nos devidos termos, por qualquer interessado.
 
@@ -264,9 +253,15 @@ Art. 6.º-A No caso de cessação total do exercício por conta própria das act
 
 § único. Se a cessação da actividade se verificar por motivo de falecimento do contribuinte, a declaração incumbirá ao cabeça-de-casal, o qual, porém, ficará dela dispensado se tiver sido feita, nos devidos termos, por qualquer interessado.
 
+> Aditado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
 Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração modelo n.º 5 e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 § único. Quando as remunerações sejam estipuladas em moeda estrangeira ou de território sob administração portuguesa, a sua equivalência em escudos será estabelecida pelas cotações à data do vencimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), publicado em 1978-06-12.
 
 Art. 7-A - Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 20% do rendimento líquido, a qual não poderá exceder 60000$00.
 
@@ -279,6 +274,8 @@ a) Tratando-se de actividades exercidas por conta de outrem ou de direitos de au
 b) Tratando-se de actividades por conta própria, o contribuinte, na declaração modelo n.º 1, identifique sumariamente os factos que geraram os rendimentos que pretenda fazer reportar.
 
 § único. A faculdade prevista no presente artigo não poderá ser aplicada para além dos três anos civis imediatamente anteriores àquele em que as remunerações ou rendimentos forem recebidos ou postos à disposição dos seus titulares.
+
+> Aditado pelo/a [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), publicado em 1980-06-09.
 
 Art. 8.º Os contribuintes a que se refere a alínea c) do artigo 2.º ficam obrigados:
 
@@ -304,8 +301,6 @@ d) Os lançamentos deverão ser apoiados nos respectivos documentos comprovativo
 
 e) Sem prejuízo do disposto nas alíneas anteriores, a escrituração das despesas poderá ser efectuada globalmente, quando apoiada em contas-correntes individuais dos clientes em que as mesmas se encontrem devidamente discriminadas e documentadas;
 
-f) dispensada a escrituração das despesas previstas no n.º 1 do corpo do artigo 10.º relativamente aos contribuintes que, utilizando instalação fixa e permanente, se encontrem abrangidos pelo disposto no n.º 1.º do § 1.º do citado artigo, caso em que deixarão de ter direito à dedução das despesas efectivamente suportadas.
-
 § 5.º O regime estabelecido neste artigo é facultativo para os contribuintes que exerçam as actividades de enfermeiro, auxiliar de enfermagem, parteira e massagista, podendo ainda o mesmo regime ser dispensado, por despacho ministerial, a outros contribuintes que o requeiram e cuja actividade seja exercida em condições que não permitam ou em que se torne impraticável a passagem de recibos nos termos previstos neste artigo.
 
 § 6.º Os contribuintes que pretenderem usar da faculdade prevista no § 2.º-A do artigo 10.º ficam obrigados:
@@ -316,17 +311,25 @@ b) A arquivar em boa ordem, durante o período em que as referidas reintegraçõ
 
 § 7.º Os livros referidos neste artigo deverão ser apresentados na repartição de finanças a que se refere o § 1.º do artigo 6.º, antes de utilizados, para que o respectivo chefe assine os termos de abertura e encerramento, numere as folhas e as rubrique.
 
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
 Art. 9.º Os contribuintes que exerçam por conta própria profissões constantes da tabela anexa e utilizem instalação fixa para o exercício da actividade são obrigados a afixar, na respectiva instalação e em local bem visível, um aviso com os seguintes dizeres: «De todas as importâncias pagas ou entregues pelos clientes é obrigatória a exigência do respectivo recibo.»
 
 § único. De todos os pagamentos ou entregas efectuados aos contribuintes abrangidos pela alínea a) do artigo 8.º é obrigatória a exigência do respectivo recibo por parte dos clientes e, salvo outro destino justificado, a sua conservação, por estes, durante um ano, sem prejuízo da observância do disposto no artigo 134.º do Código da Contribuição Industrial.
 
+> Alterado pelo/a [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), publicado em 1976-04-28.
+
 Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:
+
+> Alterado pelo/a [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), publicado em 1980-06-09.
 
 1.º Despesas com:
 
 a) Renda da instalação ou valor locativo a ela correspondente quando o imóvel pertença ao contribuinte;
 
 b) Remuneração do pessoal permanente ou eventual e de outros colaboradores que exerçam a mesma ou quaisquer outras actividades profissionais, industriais ou comerciais;
+
+> Alterado pelo/a [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), publicado em 1980-06-09.
 
 c) Consumo de água, gás e electricidade;
 
@@ -380,7 +383,11 @@ b) Os custos de trabalhos laboratoriais efectuados em estabelecimentos diferenci
 
 c) As importâncias cobradas a título de provisão ou adiantamento ou a qualquer outro da mesma natureza, destinadas a custear despesas ou outras obrigações da responsabilidade dos clientes.
 
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
 Art. 10.º-A. No apuramento da matéria colectável dos agentes desportivos praticantes serão deduzidas aos rendimentos declarados as importâncias despendidas com a constituição de seguros de vida, que garantam o pagamento de pensões ou de capital, de fundos de pensões e com outras formas de previdência, salvo se houver lugar a qualquer correcção desses rendimentos.
+
+> Aditado pelo/a [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137), publicado em 1987-12-31.
 
 Art. 11.º A determinação da matéria colectável sujeita a imposto profissional compete:
 
@@ -390,9 +397,15 @@ a) Ao chefe da repartição de finanças em que deva ser apresentada a declaraç
 
 § 2.º As declarações dos contribuintes que exerçam apenas actividades por conta de outrem, com excepção dos agentes desportivos praticantes, serão verificadas através das listagens extraídas automaticamente das relações modelo n.º 8, a que se refere o artigo 47.º, e demais elementos existentes, procedendo-se à fixação nos termos previstos no presente artigo somente quando na declaração se reconheça existirem quaisquer faltas, insuficiências ou inexactidões e, bem assim, quando se trate de rendimentos em espécie, alimentação e aposentadoria.
 
+> Alterado pelo/a [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137), publicado em 1987-12-31.
+
 Art. 12.º Quando os contribuintes exerçam a actividade fora do concelho ou bairro do seu domicílio, a repartição de finanças competente para a liquidação do imposto requisitará às dos concelhos ou bairros onde a actividade é exercida os elementos necessários para habilitar o chefe da repartição a fixar o rendimento colectável.
 
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
+
 Art. 13.º O apuramento do rendimento colectável nos termos dos artigos anteriores deverá ficar concluído até 31 de Março e será patente aos contribuintes, na repartição de finanças, de 1 a 15 de Abril, anunciando-se o facto por meio de editais, tempestivamente afixados.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º Os rendimentos colectáveis que, por qualquer motivo, não sejam apurados até 31 de Março serão notificados aos interessados para, nos quinze dias imediatos à notificação, poderem usar do direito de reclamação previsto no artigo 15.º, observando-se em tudo o mais as disposições aplicáveis com as necessárias adaptações.
 
@@ -402,7 +415,11 @@ Art. 13.º O apuramento do rendimento colectável nos termos dos artigos anterio
 
 Art. 14.º As correcções das declarações e demais elementos apresentados pelos contribuintes nos termos do artigo 6.º, ou a junção de novos documentos, somente serão considerados se o facto se verificar antes da determinação da matéria colectável, sem prejuízo, sendo caso disso, das penalidades aplicáveis às infracções cometidas.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 Art. 15.º A fixação da matéria colectável poderá, mediante reclamação dos contribuintes ou da Fazenda Nacional, representada pelo Ministério Público, ser objecto de revisão pelo chefe da repartição de finanças ou, no caso de este a desatender no todo ou em parte, por uma comissão distrital assim constituída:
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Presidente - o director de finanças.
 
@@ -422,7 +439,11 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo sindica
 
 § 5.º Na falta da comunicação prevista no parágrafo anterior, não será a reclamação apreciada pela comissão referida neste artigo.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 Art. 16.º A reclamação nos termos do artigo anterior deverá ser apresentada de 1 a 15 de Abril, e, sendo reclamante a Fazenda Nacional, o contribuinte será notificado para alegar dentro de cinco dias o que tiver por conveniente, entregando-se-lhe cópia da reclamação.
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 17.º As reclamações deverão ser apreciadas pelo chefe da repartição de finanças até 30 de Abril e, sendo caso disso, remetidas dentro do mesmo prazo à comissão distrital acompanhadas dos processos individuais dos contribuintes, dos elementos de fiscalização existentes e, bem assim, de quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
 
@@ -432,9 +453,11 @@ Art. 17.º As reclamações deverão ser apreciadas pelo chefe da repartição d
 
 § 3.º No caso de não ter havido lugar a liquidação do imposto, será igualmente fixado o agravamento mínimo de 1000$00 previsto no parágrafo anterior.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 Art. 18.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão distrital, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que precisem para a fixação dos rendimentos ou apreciação das reclamações.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 46369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46369-1965-294480) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440) e [Decreto-Lei n.º 667/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136) e [Decreto-Lei n.º 374-E/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-e-1979-256641) e [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086) e [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 19.º As deliberações das comissões serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
 
@@ -462,7 +485,7 @@ Art. 20.º O rendimento colectável fixado pelo chefe da repartição de finanç
 
 § 7.º Quando o pedido de revisão a que se refere o § 2.º for totalmente desatendido, será fixado, a título de custas, um agravamento à colecta, graduado conforme as circunstâncias, nunca superior a 5% nem inferior a 1000$00.
 
-> Alterado pelo/a [Decreto-Lei n.º 46369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46369-1965-294480) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 ### CAPÍTULO IV — Taxas
 
@@ -474,19 +497,31 @@ Art. 21.º As taxas do imposto profissional são as seguintes:
 
 § 2.º Da aplicação do disposto no § 1.º do artigo 4.º não poderá resultar tributação que deixe ao contribuinte vencimento base menor do que aquele que lhe ficaria se beneficiasse da isenção do imposto.
 
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
+> Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067), publicado em 1969-12-30.
+
 Art. 23.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 718/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1973-407906), publicado em 1973-12-31.
 
 Art. 24.º - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067) e [Decreto-Lei n.º 718/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1973-407906) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136) e [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 718/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1973-407906), publicado em 1973-12-31.
 
 ### CAPÍTULO V — Liquidação
 
 Art. 25.º A competência para a liquidação do imposto pertence à repartição de finanças do concelho ou bairro onde, nos termos do § 1.º do artigo 6.º, deva ser entregue a declaração modelo n.º 1.
 
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
 Art. 26.º As pessoas a quem competir o pagamento ou entrega de rendimentos ou remunerações tributados pelo artigo 1.º deverão deduzir-lhes, na altura da sua atribuição ou pagamento aos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, a importância que resultar da aplicação das taxas referidas no artigo 21.º, acrescida do adicional para os distritos autónomos das ilhas adjacentes, quando devido, nos seguintes casos:
 
+> Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067), publicado em 1969-12-30.
+
 a) Quando a remuneração anual ajustada exceda o limite estabelecido no artigo 5.º;
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 b) Quando essa remuneração, adicionada de qualquer outro rendimento atribuído ou pago durante o ano ao contribuinte, ultrapasse aquele limite;
 
@@ -500,15 +535,21 @@ c) Quando, não havendo remuneração anual ajustada, ao contribuinte sejam atri
 
 § 4.º Na actividade de pesca em regime de companha compete ao dono da embarcação o cumprimento do disposto no presente artigo relativamente à quota-parte do produto do pescado atribuída aos pescadores sujeitos a imposto.
 
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
+
 Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, rádio, televisão, variedades ou circo, músicos, cantores, toureiros ou desportistas, bem como conferencistas, cientistas ou técnicos, domiciliados no estrangeiro, deduzirão, às remunerações que lhes atribuírem ou pagarem a importância referida no artigo 26.º, no mínimo de 10%, ainda que as respectivas remunerações não excedam o limite estabelecido no artigo 5.º
 
 § único. Tratando-se de contribuintes que actuem integrados em agrupamentos e contratados em conjunto, deverão os responsáveis pelos agrupamentos fornecer às pessoas que os contratarem os elementos relativos à decomposição das remunerações auferidas por cada componente.
+
+> Alterado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 Art. 27.º-A As pessoas a quem competir o pagamento ou a atribuição de remunerações, nos termos do artigo anterior, são obrigadas a entregar o imposto devido mediante guia modelo n.º 6 na tesouraria da Fazenda Pública da área do seu domicílio ou sede antes do exercício da actividade contratada.
 
 § 1.º Com a guia modelo n.º 6 será apresentada uma declaração conforme o modelo n.º 5-A, em duplicado, na respectiva repartição de finanças.
 
 § 2.º Quando, face a informação dos serviços de fiscalização devidamente fundamentada e quaisquer outros elementos de que disponha, se verifique divergência com o rendimento declarado, o rendimento será determinado nos termos do artigo 11.º e seguintes, com as necessárias adaptações.
+
+> Aditado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 28.º Os contribuintes que exerçam por conta própria actividades constantes da tabela anexa ficam obrigados a proceder à autoliquidação do imposto.
 
@@ -517,6 +558,8 @@ Art. 28.º Os contribuintes que exerçam por conta própria actividades constant
 § 2.º A liquidação prevista no corpo deste artigo e no seu § 1.º tem natureza provisória e será efectuada na declaração modelo n.º 5 referida nos artigos 6.º e 6.º-A, sem prejuízo da determinação da matéria colectável nos termos dos artigos 11.º, alínea a), e seguintes e da eventual correcção daquela liquidação, a efectuar pela repartição de finanças.
 
 § 3.º No caso de os contribuintes exercerem actividades por conta própria e igualmente actividades por conta de outrem e ou serem titulares de direitos de autor sobre obras intelectuais, deverão os mesmos proceder ao cálculo do imposto devido relativamente ao rendimento global, abatendo as importâncias porventura já deduzidas ou entregues nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º
+
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 29.º A importância referida no artigo 26.º será entregue nos cofres do Estado, por meio de guia modelo n.º 6, nos prazos a seguir indicados:
 
@@ -534,19 +577,29 @@ d) Até ao fim do mês seguinte - as importâncias deduzidas no mês imediatamen
 
 § 3.º Para os serviços referidos na alínea d) sem autonomia administrativa, a entrega será feita no cofre público respectivo, mediante guia de receita do Estado.
 
+> Alterado pelo/a [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
+
 Art. 30.º A repartição de finanças competente para a liquidação do imposto organizará verbetes individuais em que serão escrituradas, perante as relações e notas a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e § 2.º do artigo 29.º
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 31.º - (Revogado.)
 
+> Alterado pelo/a [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), publicado em 1978-06-12.
+
 Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias porventura já deduzidas a cada contribuinte ou entregues nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como as liquidadas e pagas nos termos do artigo 28.º, §§ 1.º e 2.º, e do § único do artigo 40.º, e fazer-se a liquidação pela diferença, se a houver.
+
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 33.º Quando no apuramento do rendimento colectável se verificar que, relativamente às remunerações das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º, foi deduzida e entregue ao Estado importância superior à devida, restituir-se-á o excesso, mediante título de anulação a processar oficiosamente a favor dos contribuintes, cujo recebimento a dinheiro será documentado com o certificado da importância entregue.
 
 § único. Não se fará anulação oficiosa aos contribuintes referidos no artigo 27.º
 
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
+
 Art. 34.º Na repartição de finanças competente para a liquidação deverá organizar-se um processo por cada contribuinte em que se incorporem as declarações modelos n.os 1 e 5, assim como os demais elementos individuais respeitantes a este imposto.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086) e [Decreto-Lei n.º 415/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1987-406157), publicado em 1987-12-31.
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 35.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, a liquidação poderá ainda fazer-se até passados cinco anos sobre aquele a que o rendimento colectável respeitar.
 
@@ -554,11 +607,15 @@ Art. 35.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, a liq
 
 Art. 36.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do prazo estabelecido no artigo anterior.
 
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
 Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa, quando o seu quantitativo for inferior a 100$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 § único. O juro será contado dia a dia, desde o termo do prazo para a apresentação da declaração até à data em que a mesma vier a ser feita, corrigida ou suprida.
 
@@ -568,11 +625,13 @@ Art. 39.º Os conhecimentos de cobrança serão entregues até 20 de Junho ao te
 
 § único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
 
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
 Art. 40.º O imposto liquidado nos termos do artigo 32.º deverá ser pago durante o mês de Julho, cobrando-se conjuntamente a importância do agravamento a que se refere o § 2.º do artigo 17.º, devendo a cobrança do agravamento previsto no § 3.º do artigo 17.º e no § 7.º do artigo 20.º fazer-se eventualmente.
 
 § único. O imposto liquidado nos termos do artigo 28.º e seus §§ 1.º e 2.º será pago na data da entrega da declaração modelo n.º 5, mediante conhecimento de cobrança modelo n.º 7, processado em triplicado, considerando-se sem efeito a declaração apresentada no caso de falta de pagamento naquela data.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 41.º Nos casos dos artigos 35.º e 36.º o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
@@ -599,6 +658,8 @@ c) Os empresários, proprietários ou titulares de casas, instalações ou recin
 Art. 44.º-A As pessoas referidas no artigo 2.º não residentes no território nacional são obrigadas a designar uma pessoa singular ou colectiva com domicílio ou sede no continente ou nos arquipélagos dos Açores e da Madeira para as representar junto da administração fiscal, relativamente ao cumprimento das suas obrigações fiscais e ao pagamento do imposto devido.
 
 § 1.º A designação do representante será participada à repartição de finanças da área do seu domicílio ou sede antes do início da actividade ou da realização de qualquer dos actos a que se refere o artigo 27.º, acompanhada de uma declaração, em papel comum, emitida pelo representante e autenticada por notário, donde conste a aceitação expressa relativa à representação e a responsabilidade pelas obrigações tributarias.
+
+> Aditado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 45.º Se os contribuintes, salvo os referidos no artigo 6.º-A, cessarem a sua actividade e quiserem pagar imediatamente o imposto devido até então, este será logo liquidado para cobrança eventual, com base nos rendimentos constantes da declaração modelo n.º 5 a apresentar para esse efeito, sem prejuízo, porém, quer de rectificação ulterior dessa declaração, quer do cumprimento do disposto no artigo 6.º relativamente a rendimentos que só venham a ser-lhes pagos ou atribuídos nos anos subsequentes.
 
@@ -630,15 +691,21 @@ As notas individuais indicarão, além dos elementos contidos na relação model
 
 § 3.º As relações e notas referidas neste artigo poderão, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, adaptar-se ao sistema de organização das empresas ou demais entidades, nomeadamente com apoio da informática, sem prejuízo do formato e dos elementos nelas exigidos; a aposição da assinatura nas notas poderá ser feita mecanicamente ou por chancela.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 Art. 48.º Na repartição de finanças do concelho ou bairro referido no artigo 29.º será organizada, relativamente a cada uma das entidades mencionadas no artigo anterior, uma conta corrente e um processo das relações modelo n.º 8, guias modelo n.º 6 das entregas na tesouraria da Fazenda Pública do mesmo concelho ou bairro e demais documentos relacionados com as deduções e entregas feitas por cada uma daquelas entidades.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades e organizações ou associações privadas, bem como os donos de empresas em nome individual e as pessoas que exerçam por conta própria alguma das actividades constantes da tabela anexa, comunicarão à repartição de finanças da área da respectiva sede ou domicílio, durante os meses de Janeiro e Fevereiro, as remunerações que por eles foram atribuídas no ano anterior às pessoas abrangidas pela alínea c) do artigo 2.º
 
 A comunicação será feita por meio de notas individuais do modelo n.º 9, em duplicado, agrupadas por repartições de finanças e por ordem alfabética dos contribuintes.
 
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+
 Art. 50.º As entidades referidas no artigo anterior deverão ainda comunicar, durante o mês de Janeiro, à repartição de finanças da área respectiva, os factos de que tenham conhecimento através de elementos existentes nas suas repartições, estabelecimentos ou organizações e que hajam produzido ou sejam susceptíveis de produzir rendimentos a pessoas abrangidas pela alínea c) do artigo 2.º, designadamente os seguintes:
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 a) Intervenção em quaisquer processos judiciais ou administrativos e elaboração de projectos de obras, com indicação dos respectivos valores, havendo-os ou sendo conhecidos;
 
@@ -650,17 +717,25 @@ d) Cedência de locais para exposição de obras de arte e realização de conce
 
 § único. Da comunicação, feita através da nota modelo n.º 9, deverão constar os honorários, preços ou remunerações, quando conhecidos, assim como o nome e residência do beneficiário.
 
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
+
 Art. 50.º-A. As federações desportivas deverão entregar na repartição de finanças da área da sua sede, no mês seguinte ao da sua celebração, cópia, em duplicado, por elas devidamente autenticada, dos contratos celebrados entre agentes desportivos praticantes e as entidades utilizadoras dos seus serviços, ali registados.
 
+> Aditado pelo/a [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137), publicado em 1987-12-31.
+
 Art. 51.º As Ordens dos Advogados, dos Engenheiros e dos Médicos, a Câmara dos Solicitadores e os demais organismos em que seja obrigatória a inscrição para o exercício de actividades abrangidas pela tabela anexa deverão enviar à repartição de finanças da área da sua sede, durante o mês de Janeiro, uma relação nominal das inscrições feitas e canceladas no ano anterior, com a indicação dos domicílios, dos locais dos consultórios ou escritórios e das especialidades profissionais.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 52.º Para efeitos do disposto no artigo 30.º, as repartições de finanças que receberem os elementos a que se referem os artigos 47.º, 49.º e 50.º, respeitantes a contribuintes de outros concelhos ou bairros, remetê-los-ão, até ao dia 5 de Fevereiro, às repartições de finanças competentes para a liquidação.
 
 § único. As repartições de finanças que receberem os elementos referidos nos artigos 50.º-A e 51.º respeitantes a contribuintes domiciliados na área de outras repartições deverão proceder em conformidade com a parte final do corpo deste artigo.
 
+> Alterado pelo/a [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137), publicado em 1987-12-31.
+
 Art. 53.º Instaurado procedimento executivo com base em falta de pagamento de imposto por contribuinte constante da tabela anexa, o juiz, decorridos dez dias sobre a citação sem terem sido deduzidos oposição ou embargos ou requerida a suspensão da execução nos termos legais, comunicará o facto ao respectivo organismo profissional, quando o haja, para que este imediatamente suspenda o contribuinte do exercício das suas funções até satisfazer o débito ou estar assegurado o pagamento.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137), publicado em 1987-12-31.
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 54.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
@@ -682,7 +757,7 @@ Art. 54.º-A Os contribuintes quando solicitados devem facultar aos funcionário
 
 Art. 54.º-B No caso de não se mostrar cumprido o disposto no artigo 27.º-A, o chefe da repartição de finanças em cuja área sejam anunciados espectáculos, conferências ou reuniões solicitará a intervenção das autoridades policiais no sentido de impedir a sua realização.
 
-> Aditado pelo/a [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+> Aditado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 ### CAPÍTULO VIII — Reclamações e recursos
 
@@ -692,15 +767,17 @@ Art. 55.º Os contribuintes e as pessoas solidária ou subsidiariamente respons�
 
 § 2.º Os prazos de reclamação, ordinária ou extraordinária, e de impugnação para anulação do excesso de imposto deduzido e entregue nos termos dos artigos 27.º e 29.º serão contados a partir de 1 de Janeiro do ano seguinte àquele em que as remunerações forem pagas ou atribuídas.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 297/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1979-377568) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 Art. 56.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
 Art. 57.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto profissional, arrecadado por cobrança virtual.
 
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
 § 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 § 2.º Os juros serão contados dia a dia desde a data do pagamento do imposto até à data do processamento do título de anulação e acrescidos à importância deste. CAPÍTULO IX
 
@@ -718,7 +795,7 @@ Quando da infracção dolosa não resulte liquidação de imposto inferior ao de
 
 § 3.º Verificada a falta ou inexactidão dos elementos referidos no corpo deste artigo, e independentemente do procedimento para a aplicação da correspondente multa, o chefe da repartição de finanças mandará notificar o transgressor para proceder à respectiva entrega ou correcção, dentro do prazo a designar, entre 15 a 30 dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 63.º
 
-> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414) e [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
+> Alterado pelo/a [Decreto-Lei n.º 180/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1984-669086), publicado em 1984-05-25.
 
 Art. 60.º O não cumprimento do disposto no artigo 46.º e seu § único será punido com multa de 500$00 a 20000$00.
 
@@ -728,11 +805,13 @@ Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3
 
 § 2.º Considera-se recusada a exibição da escrita e dos documentos com ela relacionados quando não sejam postos à disposição dos funcionários competentes nos termos do artigo 54.º-A.
 
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
 Art. 62.º As infracções ao disposto no corpo do artigo 9.º serão punidas com multa de 1000$00 a 50000$00.
 
 § único. A falta de exigência dos recibos ou a falta da sua conservação, nos termos previstos no § único do artigo 9.º, ou, ainda, a recusa de apresentação, quando exigida pelos funcionários competentes para a respectiva fiscalização, serão punidas com a multa de 100$00 a 20000$00.
 
-> Alterado pelo/a [Decreto-Lei n.º 46369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46369-1965-294480) e [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), publicado em 1976-04-28.
 
 Art. 63.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 54.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
@@ -744,11 +823,15 @@ Art. 65.º Não sendo feitas as deduções previstas nos artigos 26.º e 27.º, 
 
 Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao quantitativo em falta, no mínimo de 500$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.
 
+> Alterado pelo/a [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), publicado em 1978-06-12.
+
 Art. 67.º A entrega nos cofres do Estado fora do prazo legal das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a metade dessas importâncias, no mínimo de 250$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), publicado em 1978-06-12.
 
 Art. 68.º As pessoas singulares ou colectivas que atribuam ou paguem remunerações pela prestação de trabalho e tomem sobre si os impostos ou outros encargos legais devidos pelas pessoas que lhes prestem os serviços incorrem em infracção, que será punida com multa igual ao dobro dos impostos ou encargos indevidamente assumidos.
 
-> Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 138/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136), publicado em 1978-06-12.
+> Alterado pelo/a [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), publicado em 1975-04-18.
 
 Art. 69.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
@@ -765,6 +848,8 @@ Art. 72.º Quando os actos ou omissões tiverem sido praticados por procurador, 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
 Art. 73.º As multas serão impostas mediante processo de transgressão.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 74.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
@@ -792,6 +877,8 @@ Art. 79.º Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
 Art. 79.º-A. As penalidades previstas neste Código serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, no mínimo de 200$00, quando a obrigação consistir unicamente no pagamento ou entrega do imposto nos cofres do Estado;
@@ -802,7 +889,7 @@ b) Multa variável entre 200$00 e 40000$00, quando estiverem em causa outras obr
 
 § 2.º O produto das multas cobradas nos termos deste artigo reverterá integralmente para o Estado.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Aditado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
 
 Art. 80.º Havendo falsificação ou viciação previstas nos artigos 62.º e 63.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
 
@@ -822,9 +909,11 @@ Art. 82.º Se a transgressão for praticada com dolo e o quantitativo dos rendim
 
 Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, mapas ou participações a que se referem os artigos 6.º e seu § 4.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 47.º-A, 49.º e 50.º, quando apresentados em duplicado ou triplicado.
 
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+
 Art. 84.º As declarações, relações, participações, comunicações e outros documentos a apresentar nas repartições de finanças pelos contribuintes, patrões, empresas, serviços públicos e demais entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395) e [Decreto-Lei n.º 413/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1987-406137) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § único. Os documentos referidos neste artigo deverão ser assinados pelas pessoas a que incumba a sua apresentação ou pelos seus representantes legais ou mandatários.
 
@@ -834,9 +923,11 @@ Art. 84.º-A. Os contribuintes obrigados à autoliquidação do imposto poderão
 
 § 2.º A remessa das declarações, documentos e cheques ou vales de correio deverá ser feita com a antecedência mínima de 3 dias úteis em relação ao último dia do prazo para a entrega das declarações modelo n.º 1.
 
+> Aditado pelo/a [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+
 Art. 85.º As repartições de finanças que estiverem de posse das relações a que alude o artigo 47.º serão obrigadas a passar, a simples rogo dos contribuintes, certificados das importâncias entregues nos cofres do Estado, por conta do imposto que lhes compita, nos termos do artigo 29.º
 
-> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797) e [Decreto-Lei n.º 198/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414), publicado em 1982-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º Enquanto não forem apresentadas as relações, cumpre passar os certificados às entidades que procederam à dedução dessas importâncias.
 
@@ -844,11 +935,11 @@ Art. 85.º As repartições de finanças que estiverem de posse das relações a
 
 Ministério das Finanças, 27 de Abril de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-Tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do Decreto-Lei n.º 98/88.
+Tabela das actividades exercidas por conta própria a que alude a alínea c) do artigo 2.º do Código do Imposto Profissional
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)
 
-> Alterado pelo/a [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949) e [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
+> Alterado pelo/a [Decreto-Lei n.º 98/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1988-285746), publicado em 1988-03-22.
 
 Ministério das Finanças, 27 de Abril de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 

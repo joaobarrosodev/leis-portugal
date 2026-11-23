@@ -1,0 +1,315 @@
+[
+ {
+  "id": "pt:dre:463975:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 40/83, depois revogado pelo DR 21/2007 art. 12.º, al. c); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); o consolidado pôs «(Revogado.)» mas deixou a seguir o texto antigo (Divisão de Imóveis; alíneas b) a d); n.º 2), que devia desaparecer. Epígrafe nova vem do DR 40/83.",
+    "texto_esperado": "###### Artigo 3.º — Estrutura dos serviços operativos\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007; o consolidado pôs «(Revogado.)» mas deixou a seguir o texto antigo («À Divisão Técnica de Obras e Avaliação incumbe: a) … b) …»).",
+    "texto_esperado": "###### Artigo 7.º — Divisão Técnica de Obras e Avaliação\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 4.º do DR 40/83 e revogado pelo art. 12.º, al. c), do DR 21/2007; corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Excepcionado do DR 21/2007 mas revogado pelo mapa VIII do DL 121/2008 (republicado na Declaração de Rectificação 49/2008: «Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do Decreto Regulamentar n.º 44/80»); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DR 21/2007 art. 12.º, al. c), salvo o n.º 3, que cai pelo mapa VIII do DL 121/2008 (Declaração de Rectificação 49/2008): artigo todo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Excepcionado do DR 21/2007 mas revogado pelo mapa VIII do DL 121/2008 (republicado na Declaração de Rectificação 49/2008: «Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do Decreto Regulamentar n.º 44/80»); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Excepcionado do DR 21/2007 mas revogado pelo mapa VIII do DL 121/2008 (republicado na Declaração de Rectificação 49/2008: «Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do Decreto Regulamentar n.º 44/80»); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Excepcionado do DR 21/2007 mas revogado pelo mapa VIII do DL 121/2008 (republicado na Declaração de Rectificação 49/2008: «Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do Decreto Regulamentar n.º 44/80»); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 12.º, al. c), do DR 21/2007 (em vigor a 1/4/2007); epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "errado",
+    "motivo": "Corpo «(Revogado.)» correcto (DR 21/2007, art. 12.º, al. c)). Mas os MAPAS I a III ficam com a imagem de 1980 (24642473.pdf): a Portaria 73/87 substitui o quadro de pessoal (mapa I, com todas as alterações anteriores) pelo mapa anexo (imagem 04140417.pdf), e o anexo em imagem substituído fica com a imagem do alterador; esta não está no consolidado. (Se os anexos devessem cair com a revogação, o consolidado também estaria errado por os manter.)",
+    "texto_esperado": "MAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02800/04140417.pdf)  (em vez da imagem de 1980; MAPA II e III iguais ao original)"
+   },
+   {
+    "artigo": "Divisão de Móveis;",
+    "veredicto": "errado",
+    "motivo": "Troço do original sem artigo próprio no consolidado: é o corpo antigo dos arts. 3.º/7.º, revogados pelo DR 21/2007; devia ter desaparecido, mas o seu texto continua no consolidado, dentro do art. 3.º, a seguir a «(Revogado.)».",
+    "texto_esperado": "(removido por inteiro)"
+   },
+   {
+    "artigo": "Divisão Técnica de Obras e Avaliação",
+    "veredicto": "errado",
+    "motivo": "Troço do original sem artigo próprio no consolidado: é o corpo antigo dos arts. 3.º/7.º, revogados pelo DR 21/2007; devia ter desaparecido, mas o seu texto continua no consolidado, dentro do art. 7.º, a seguir a «(Revogado.)».",
+    "texto_esperado": "(removido por inteiro)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 73/87: substituição do quadro/mapa de pessoal (MAPA I) pelo mapa anexo em imagem (04140417.pdf): o MAPA I do consolidado continua com a imagem de 1980 (as alterações parciais anteriores, DR 40/83 art. 3.º, Portarias 869/84, 101/85 e 116/85, ficam absorvidas por esta substituição total)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 59/80, arts. 1.º a 5.º: extinção do GVE e transferência de atribuições para a DGPE",
+    "motivo": "não é textual: não dá nova redação a nenhum artigo"
+   },
+   {
+    "instrucao": "Portaria 79/81: alargamento da área de recrutamento do art. 13.º",
+    "motivo": "não é textual (derrogação sem nova redação)"
+   },
+   {
+    "instrucao": "Portaria 531/89: alargamento excepcional da área de recrutamento (art. 13.º)",
+    "motivo": "não é textual (derrogação sem nova redação)"
+   },
+   {
+    "instrucao": "Portaria 290/86: criação de um lugar de assessor no quadro",
+    "motivo": "o diploma que altera não traz o texto/quadro da alteração"
+   },
+   {
+    "instrucao": "Declaração de Rectificação 49/2008, n.º 1: correção do mapa VIII do DL 121/2008",
+    "motivo": "instrução de outro diploma (DL 121/2008)"
+   },
+   {
+    "instrucao": "DR 69/80: n.º 3 do art. 34.º",
+    "motivo": "aplicada na história do art. 34.º, depois revogado: sem efeito visível no texto actual (não é omissão)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "MAPA I a III (após o art. 43.º) continuam com a imagem de 1980; ver Artigo 43.º. Texto do DL 121/2008 não vem na vista (só o mapa VIII da Declaração)."
+ }
+]

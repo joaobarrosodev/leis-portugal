@@ -25,35 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::43.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 43.º — Representação por procurador\n\n1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento escrito e assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento escrito e assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
-    "depois": "###### Artigo 43.º — Representação por procurador\n\n1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::140.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 140.º — Publicidade do processo\n\n1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
-    "depois": "###### Artigo 140.º — Publicidade do processo\n\n1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "8.º",
@@ -67,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "13.º",
@@ -81,7 +53,35 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::43.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º — Representação por procurador\n\n1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento escrito e assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento escrito e assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
+    "depois": "###### Artigo 43.º — Representação por procurador\n\n1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.\n\n2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.\n\n3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::140.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 140.º — Publicidade do processo\n\n1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)",
+    "depois": "###### Artigo 140.º — Publicidade do processo\n\n1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º\n\n2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "24.º",
@@ -95,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::70.º",
@@ -109,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::95.º",
@@ -123,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::163.º",
@@ -137,7 +137,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::210.º-A",
@@ -151,7 +151,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::210.º-C",
@@ -165,7 +165,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::210.º-G",
@@ -179,7 +179,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::210.º-H",
@@ -193,7 +193,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::215.º",
@@ -207,7 +207,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::270.º",
@@ -221,7 +221,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::272.º-A",
@@ -235,7 +235,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::272.º-C",
@@ -249,7 +249,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::1.º",
@@ -263,91 +263,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::69.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 69.º — Averbamentos ao assento de nascimento\n\n1 - Ao assento de nascimento são especialmente averbados:\n\na) O casamento, sua dissolução, declaração de inexistência ou nulidade, anulação e sanação in radice, bem como a separação em qualquer das suas modalidades e a reconciliação dos cônjuges legalmente separados;\n\nb) O estabelecimento da filiação;\n\nc) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;\n\nd) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;\n\ne) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;\n\nf) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;\n\ng) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;\n\nh) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;\n\ni) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;\n\nj) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;\n\nl) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;\n\nm) A alteração de nome;\n\nn) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;\n\no) O óbito e a morte presumida judicialmente declarada;\n\np) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.\n\n2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.\n\n3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.",
-    "depois": "###### Artigo 69.º — Averbamentos ao assento de nascimento\n\n1 - Ao assento de nascimento são especialmente averbados:\n\na) O casamento, sua dissolução, declaração de inexistência ou nulidade, anulação e sanação in radice, bem como a separação em qualquer das suas modalidades e a reconciliação dos cônjuges legalmente separados;\n\nb) O estabelecimento da filiação;\n\nc) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;\n\nd) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;\n\ne) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;\n\nf) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;\n\ng) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;\n\nh) A constituição do apadrinhamento civil e a sua revogação;\n\ni) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;\n\nj) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;\n\nl) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;\n\nm) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;\n\nn) A alteração de nome;\n\no) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;\n\np) O óbito e a morte presumida judicialmente declarada;\n\nq) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.\n\n2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.\n\n3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.\n\n> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::78.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 78.º — Comunicação de decisões judiciais\n\n1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º\n\n2 - A comunicação prevista no número anterior é enviada no prazo de cinco dias após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.\n\n3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.",
-    "depois": "###### Artigo 78.º — Comunicação de decisões judiciais\n\n1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º\n\n2 - A comunicação prevista no número anterior é enviada no prazo de um dia após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.\n\n3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.\n\n> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::272.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 272.º — Instrução e decisão\n\n1 - O pedido deve ser instruído com os seguintes documentos:\n\na) (Revogada.)\n\nb) Relação especificada dos bens comuns, com indicação dos respectivos valores, ou, caso os cônjuges optem por proceder à partilha daqueles bens nos termos dos artigos 272.º-A a 272.º-C, acordo sobre a partilha ou pedido de elaboração do mesmo;\n\nc) Certidão da sentença judicial que tiver regulado o exercício do poder paternal relativamente aos filhos menores, se os houver;\n\nd) Acordo sobre a prestação de alimentos ao cônjuge que deles careça;\n\ne) Certidão da escritura de convenção antenupcial, caso tenha sido celebrada;\n\nf) Acordo sobre o destino da casa de morada da família.\n\n2 - A pedido dos interessados, os documentos referidos nas alíneas b), d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.\n\n3 - Na sequência do pedido, é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar o assento de casamento dos interessados e a celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada, com excepção dos casos em que o regime de bens conste do assento de casamento.\n\n4 - Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.\n\n5 - É aplicável ao presente processo, com as necessárias adaptações, o disposto nos artigos 1420.º a 1423.º e 1424.º do Código de Processo Civil.\n\n6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B.",
-    "depois": "###### Artigo 272.º — Instrução e decisão\n\n1 - O pedido deve ser instruído com os seguintes documentos:\n\na) (Revogada.)\n\nb) Relação especificada dos bens comuns, com indicação dos respectivos valores, ou, caso os cônjuges optem por proceder à partilha daqueles bens nos termos dos artigos 272.º-A a 272.º-C, acordo sobre a partilha ou pedido de elaboração do mesmo;\n\nc) Certidão da sentença judicial que tiver regulado o exercício das responsabilidades parentais ou acordo sobre o exercício das responsabilidades parentais quando existam filhos menores e não tenha previamente havido regulação judicial;\n\nd) Acordo sobre a prestação de alimentos ao cônjuge que deles careça;\n\ne) Certidão da escritura de convenção antenupcial, caso tenha sido celebrada;\n\nf) Acordo sobre o destino da casa de morada da família.\n\n2 - A pedido dos interessados, os documentos referidos na alínea b), na segunda parte da alínea c) e nas alíneas d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.\n\n3 - Na sequência do pedido, é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar o assento de casamento dos interessados e a celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada, com excepção dos casos em que o regime de bens conste do assento de casamento.\n\n4 - Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.\n\n5 - É aplicável ao presente processo, com as necessárias adaptações, o disposto nos artigos 1420.º a 1423.º e 1424.º do Código de Processo Civil.\n\n6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B.\n\n> Alterado pelo/a [Lei n.º 61/2008](https://diariodarepublica.pt/dr/detalhe/lei/61-2008-439097), publicado em 2008-10-31.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::207.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 207.º — Justificação judicial\n\n1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.",
-    "depois": "###### Artigo 207.º — Justificação judicial\n\n1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.\n\n4 - O assento de óbito referido no número anterior produz os mesmos efeitos que a morte.\n\n> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::208.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 208.º — Naufrágio\n\n1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao agente do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima deve remeter ao agente do Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.",
-    "depois": "###### Artigo 208.º — Naufrágio\n\n1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao magistrado do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover, no prazo máximo de 30 dias a contar da receção do auto referido no número seguinte, a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima remete, no prazo máximo de 60 dias a contar da data do naufrágio, ao Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.\n\n> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
-  },
-  {
-    "artigo": "ANEXO — Republicação do Código do Registo Civil::299.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 299.º — Emolumentos\n\n1 - Pelos actos praticados nos serviços do registo civil são cobrados os emolumentos constantes da respectiva tabela e demais encargos, salvo os casos de isenção.\n\n2 - Devem ser liminarmente indeferidos os pedidos de actos, processos ou procedimentos que não sejam acompanhados do pagamento das quantias que se mostrem devidas.",
-    "depois": "###### Artigo 299.º — Emolumentos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 201/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), publicado em 2015-09-17.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::49.º",
@@ -361,7 +277,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::112.º",
@@ -375,7 +291,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::118.º",
@@ -389,7 +305,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   },
   {
     "artigo": "ANEXO — Republicação do Código do Registo Civil::126.º",
@@ -403,6 +319,132 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:642527:por",
-    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:489737:por;pt:dre:439097:por;pt:dre:69992902:por;pt:dre:70300348:por;pt:dre:115578234:por"
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::69.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 69.º — Averbamentos ao assento de nascimento\n\n1 - Ao assento de nascimento são especialmente averbados:\n\na) O casamento, sua dissolução, declaração de inexistência ou nulidade, anulação e sanação in radice, bem como a separação em qualquer das suas modalidades e a reconciliação dos cônjuges legalmente separados;\n\nb) O estabelecimento da filiação;\n\nc) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;\n\nd) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;\n\ne) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;\n\nf) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;\n\ng) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;\n\nh) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;\n\ni) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;\n\nj) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;\n\nl) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;\n\nm) A alteração de nome;\n\nn) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;\n\no) O óbito e a morte presumida judicialmente declarada;\n\np) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.\n\n2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.\n\n3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.",
+    "depois": "###### Artigo 69.º — Averbamentos ao assento de nascimento\n\n1 - Ao assento de nascimento são especialmente averbados:\n\na) O casamento, sua dissolução, declaração de inexistência ou nulidade, anulação e sanação in radice, bem como a separação em qualquer das suas modalidades e a reconciliação dos cônjuges legalmente separados;\n\nb) O estabelecimento da filiação;\n\nc) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;\n\nd) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;\n\ne) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;\n\nf) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;\n\ng) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;\n\nh) A constituição do apadrinhamento civil e a sua revogação;\n\ni) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;\n\nj) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;\n\nl) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;\n\nm) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;\n\nn) A alteração de nome;\n\no) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;\n\np) O óbito e a morte presumida judicialmente declarada;\n\nq) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.\n\n2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.\n\n3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.\n\n> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::78.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 78.º — Comunicação de decisões judiciais\n\n1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º\n\n2 - A comunicação prevista no número anterior é enviada no prazo de cinco dias após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.\n\n3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.",
+    "depois": "###### Artigo 78.º — Comunicação de decisões judiciais\n\n1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º\n\n2 - A comunicação prevista no número anterior é enviada no prazo de um dia após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.\n\n3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.\n\n> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::202.º-A",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 202.º-A — Menção da habilitação de herdeiros e do processo de inventário\n\n1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.\n\n2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respectivo, por meio de cota de referência que identifique o tribunal onde o processo foi instaurado e o seu número.",
+    "depois": "###### Artigo 202.º-A — Menção da habilitação de herdeiros e do processo de inventário\n\n1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.\n\n2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respetivo, por meio de cota de referência que identifique o cartório notarial onde o processo foi instaurado e o seu número.\n\n> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::202.º-B",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 202.º-B — Comunicações a efectuar pelos tribunais e notários\n\n1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.\n\n2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o tribunal comunica a qualquer conservatória do registo civil, preferencialmente por via electrónica, a instauração do processo de inventário.",
+    "depois": "###### Artigo 202.º-B — Comunicações a efetuar pelos tribunais e notários\n\n1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.\n\n2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o notário comunica a qualquer conservatória do registo civil, preferencialmente por via eletrónica, a instauração do processo de inventário.\n\n> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::210.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 210.º — Comunicações a efectuar pelo conservador\n\n1 - O conservador do registo civil deve enviar ou disponibilizar o acesso em base de dados ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, das seguintes informações:\n\na) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e\n\nb) Assentos de óbito lavrados no mês anterior referentes a indivíduos com herdeiros menores, incapazes, ausentes em parte incerta ou pessoas colectivas, acompanhados da indicação da pessoa à qual compete o cargo de cabeça-de-casal.\n\n2 - Para os efeitos do disposto no número anterior, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respectiva declaração.\n\n3 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:\n\na) O teor dos autos relativos aos óbitos lavrados no mês anterior;\n\nb) Os números de documentos de identificação ulteriormente conhecidos;\n\nc) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.",
+    "depois": "###### Artigo 210.º — Comunicações a efectuar pelo conservador\n\n1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou para as finalidades previstas no regime jurídico do processo de inventário:\n\na) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e\n\nb) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.\n\n2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.\n\n3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respetiva declaração.\n\n4 - O conservador deve comunicar, por via eletrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:\n\na) O teor dos autos relativos aos óbitos lavrados no mês anterior;\n\nb) Os números de documentos de identificação ulteriormente conhecidos;\n\nc) Qualquer completamento ou retificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.\n\n> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::207.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 207.º — Justificação judicial\n\n1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.",
+    "depois": "###### Artigo 207.º — Justificação judicial\n\n1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:\n\na) Quando os cadáveres não forem encontrados;\n\nb) Quando os cadáveres tiverem sido destruídos em consequência do acidente ou só aparecerem despojos insusceptíveis de ser individualizados; ou\n\nc) Quando seja impossível chegar ao local onde os corpos se encontrem.\n\n2 - Se o acidente ocorrer no mar e não for caso de naufrágio, cabe ao magistrado do Ministério Público da comarca da sede da capitania que deve proceder às averiguações promover, por intermédio de uma conservatória do registo civil, a justificação judicial do óbito.\n\n3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.\n\n4 - O assento de óbito referido no número anterior produz os mesmos efeitos que a morte.\n\n> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::208.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 208.º — Naufrágio\n\n1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao agente do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima deve remeter ao agente do Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.",
+    "depois": "###### Artigo 208.º — Naufrágio\n\n1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao magistrado do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover, no prazo máximo de 30 dias a contar da receção do auto referido no número seguinte, a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.\n\n2 - Para a instrução do processo, a autoridade marítima remete, no prazo máximo de 60 dias a contar da data do naufrágio, ao Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.\n\n> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::272.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 272.º — Instrução e decisão\n\n1 - O pedido deve ser instruído com os seguintes documentos:\n\na) (Revogada.)\n\nb) Relação especificada dos bens comuns, com indicação dos respectivos valores, ou, caso os cônjuges optem por proceder à partilha daqueles bens nos termos dos artigos 272.º-A a 272.º-C, acordo sobre a partilha ou pedido de elaboração do mesmo;\n\nc) Certidão da sentença judicial que tiver regulado o exercício do poder paternal relativamente aos filhos menores, se os houver;\n\nd) Acordo sobre a prestação de alimentos ao cônjuge que deles careça;\n\ne) Certidão da escritura de convenção antenupcial, caso tenha sido celebrada;\n\nf) Acordo sobre o destino da casa de morada da família.\n\n2 - A pedido dos interessados, os documentos referidos nas alíneas b), d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.\n\n3 - Na sequência do pedido, é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar o assento de casamento dos interessados e a celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada, com excepção dos casos em que o regime de bens conste do assento de casamento.\n\n4 - Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.\n\n5 - É aplicável ao presente processo, com as necessárias adaptações, o disposto nos artigos 1420.º a 1423.º e 1424.º do Código de Processo Civil.\n\n6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B.",
+    "depois": "###### Artigo 272.º — Instrução e decisão\n\n1 - O pedido deve ser instruído com os seguintes documentos:\n\na) (Revogada.)\n\nb) Relação especificada dos bens comuns, com indicação dos respectivos valores, ou, caso os cônjuges optem por proceder à partilha daqueles bens nos termos dos artigos 272.º-A a 272.º-C, acordo sobre a partilha ou pedido de elaboração do mesmo;\n\nc) Certidão da sentença judicial que tiver regulado o exercício das responsabilidades parentais ou acordo sobre o exercício das responsabilidades parentais quando existam filhos menores e não tenha previamente havido regulação judicial;\n\nd) Acordo sobre a prestação de alimentos ao cônjuge que deles careça;\n\ne) Certidão da escritura de convenção antenupcial, caso tenha sido celebrada;\n\nf) Acordo sobre o destino da casa de morada da família.\n\n2 - A pedido dos interessados, os documentos referidos na alínea b), na segunda parte da alínea c) e nas alíneas d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.\n\n3 - Na sequência do pedido, é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar o assento de casamento dos interessados e a celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada, com excepção dos casos em que o regime de bens conste do assento de casamento.\n\n4 - Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.\n\n5 - É aplicável ao presente processo, com as necessárias adaptações, o disposto nos artigos 1420.º a 1423.º e 1424.º do Código de Processo Civil.\n\n6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B.\n\n> Alterado pelo/a [Lei n.º 61/2008](https://diariodarepublica.pt/dr/detalhe/lei/61-2008-439097), publicado em 2008-10-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
+  },
+  {
+    "artigo": "ANEXO — Republicação do Código do Registo Civil::299.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 299.º — Emolumentos\n\n1 - Pelos actos praticados nos serviços do registo civil são cobrados os emolumentos constantes da respectiva tabela e demais encargos, salvo os casos de isenção.\n\n2 - Devem ser liminarmente indeferidos os pedidos de actos, processos ou procedimentos que não sejam acompanhados do pagamento das quantias que se mostrem devidas.",
+    "depois": "###### Artigo 299.º — Emolumentos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 201/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), publicado em 2015-09-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642527:por",
+    "alterador": "pt:dre:628488:por;pt:dre:487360:por;pt:dre:73740375:por;pt:dre:115578234:por;pt:dre:489737:por;pt:dre:259267:por;pt:dre:69992902:por;pt:dre:439097:por;pt:dre:70300348:por"
   }
 ]

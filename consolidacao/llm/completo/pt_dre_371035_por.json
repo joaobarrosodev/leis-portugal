@@ -175,17 +175,17 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Rect. 20/2002): republica o texto inteiro rectificado; substituí pelos textos rectificados os artigos que diferem do texto atual (2.º, 6.º, 7.º, 9.º-13.º, 15.º, 17.º-19.º, 21.º-23.º, 25.º-27.º, 29.º-33.º; 7.º fica só com «pelo Ministro»). O 35.º rectificado («ministros da República») é igual ao atual: sem mudança. O 36.º não muda.",
-    "Alterador 2 (DL 119/2003), art. 1.º: nova redação parcial dos arts. 6.º (n.º 2, nova alínea b) e renumeração; os n.os 3 e 4 passam para o 6.º-A), 9.º n.º 1, 14.º n.º 2, 17.º n.º 4, 20.º n.º 2, 24.º n.º 2, 25.º n.º 2 e n.º 6 c), 26.º (proémio e alíneas reordenadas sobre as letras do texto rectificado), 27.º (inteiro), 29.º, 30.º e 31.º (n.º 2): aplicado.",
-    "Alterador 2, art. 2.º: adita o 6.º-A; os n.os 2 e 3 recebem o texto dos antigos n.os 3 e 4 do 6.º (corrige o texto deixado pelo programa, que tinha «(Anterior n.º 3 do artigo 6.º)» à letra).",
-    "Alterador 3 (Lei 37/2003): não traz instrução dirigida ao DL 120/2002; nada a aplicar.",
-    "Alterador 4 (DL 20/2004): nova redação do 18.º n.º 1 e do 26.º (nova b), nova l), renumeração): aplicado sobre o texto do DL 119/2003.",
-    "Alterador 5 (DL 176/2004): 9.º n.º 4 d) revogada; 25.º n.º 2 novo, n.os 6 e 7 novos, n.º 8 = anterior n.º 6; adita o 32.º-A: aplicado.",
-    "Republicações (anexos dos DL 119/2003, 20/2004 e 176/2004): usadas só para confirmar; onde diferem em minúcias de grafia do texto rectificado («ministério», «Ministros da República», «Sócrates»), mantive o texto que as instruções deixam."
+    "Alterador 1 (Declaração de Rectificação n.º 20/2002): republica o texto rectificado; aplicadas as rectificações aos arts. 2.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º, 17.º, 19.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 29.º, 30.º, 31.º, 32.º e 33.º (texto copiado da republicação rectificada; art. 7.º só com «pelo Ministro de Estado e das Finanças», sem o parágrafo antigo).",
+    "Alterador 2 (DL 119/2003), art. 1.º: nova redação dos arts. 6.º, 9.º, 14.º, 17.º, 20.º, 24.º, 25.º, 26.º, 27.º, 29.º, 30.º e 31.º — aplicada sobre o texto rectificado («...» = texto em vigor; «[Anterior alínea x).]» = alínea x) em vigor com a nova letra); o art. 6.º fica só com os n.os 1 e 2.",
+    "Alterador 2, art. 2.º: aditado o art. 6.º-A; os n.os 2 e 3 são o texto dos antigos n.os 3 e 4 do art. 6.º (corrigido o 6.º-A do programa, que tinha «(Anterior n.º 3 do artigo 6.º)» em vez do texto).",
+    "Alterador 3 (Lei n.º 37/2003): não traz instrução dirigida ao original; nada aplicado.",
+    "Alterador 4 (DL 20/2004): nova redação dos arts. 18.º (n.º 1) e 26.º (alíneas b) e l) novas, as outras com a letra nova) — aplicada.",
+    "Alterador 5 (DL 176/2004): art. 9.º, n.º 4, alínea d) revogada; art. 25.º, n.º 2 novo, n.os 6 e 7 novos e antigo n.º 6 passa a n.º 8; aditado o art. 32.º-A — aplicados.",
+    "Republicações dos alteradores 2, 4 e 5: usadas só para conferir; nas partes que as instruções não mudam fica o texto em vigor (as republicações têm pequenas diferenças de grafia que nenhuma instrução determina)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

@@ -209,15 +209,16 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alteradores 1 a 4 e 7 a 9, criação de lugares no quadro de pessoal do INA: não textual: criam lugares sem dar texto novo ao quadro, que só existe em imagem e fica revogado pelo alterador 11\nAlteradores 5 e 6, Portaria n.º 117/93 (cria o CRAF no INA): não textual: normas autónomas que não alteram o texto do original\nAlterador 10, Decreto-Lei n.º 79/2005 (orgânica do XVII Governo): não textual: não menciona nem altera o texto do original",
+  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor principal no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 2, criação de um lugar de assessor principal no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 3, criação de um lugar de assessor informático principal no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 4, criação de um lugar de assessor informático principal no quadro de pessoal (repetição do alterador 3): não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 7, criação de um lugar de assessor principal no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 8, criação de um lugar de especialista de informática do grau 3 no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 9, criação de um lugar de assessor principal no quadro de pessoal: não textual: o quadro anexo só existe em imagem, sem título de anexo no texto atual, e fica revogado pelo alterador 11.\nAlterador 10, art. 13.º, n.º 7 (competência sobre o INA, I. P., exercida pelo Ministro de Estado e das Finanças): não textual: fixa a tutela sem dar nova redação a nenhum artigo do original.\nAlterador 11, art. 15.º, revogação do quadro anexo a que se refere o artigo 31.º: alvo incerto: o quadro não tem título de anexo no texto atual (vem no fim do bloco do art. 34.º, depois das fórmulas finais), por isso não há onde pôr «(Revogado.)» como anexo; o art. 34.º fica só com o corpo «(Revogado.)», sem as fórmulas finais nem a ligação à imagem do quadro de 1992.",
   "instrucoes": [
-    "Alteradores 1 a 9: criação de lugares no quadro e do CRAF; não mudam o texto",
-    "Alterador 10: orgânica do Governo, sem instrução sobre o original",
-    "Alterador 11, art. 15.º: revoga o DL 144/92 com excepção do n.º 2 do artigo 6.º: artigos 1.º a 5.º e 7.º a 34.º com «(Revogado.)» (o 34.º leva consigo o quadro anexo ao artigo 31.º, que vinha no seu corpo); o 6.º fica com o n.º 1 revogado e o n.º 2 intacto"
+    "Alteradores 1 a 4, 7 a 9 (despachos normativos e portarias): criam lugares no quadro de pessoal do INA, a extinguir quando vagarem; não dão redação a artigos; nada aplicado ao texto (ver nao_aplicavel).",
+    "Alteradores 5 e 6 (Portaria n.º 117/93): criam o CRAF do INA ao abrigo do DL 219/92; não contêm instrução dirigida ao original.",
+    "Alterador 10 (DL 79/2005), art. 13.º, n.º 7: competência sobre o INA, I. P.; não textual.",
+    "Alterador 11 (DL 85/2007), art. 15.º: revoga o DL 144/92 com excepção do n.º 2 do artigo 6.º; arts. 1.º a 5.º e 7.º a 34.º ficam «(Revogado.)»; art. 6.º fica com «1 - (Revogado.)» e o n.º 2 mantido letra a letra do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

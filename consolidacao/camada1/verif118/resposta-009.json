@@ -1,0 +1,55 @@
+[
+ {
+  "id": "pt:dre:401512:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 20.º, al. a), do DL 305/81; mantém o número e o corpo é «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a nova redação do art. 1.º do DL 49434, letra a letra; restantes números iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 20.º, al. a), do DL 305/81: «2. (Revogado.)» (alíneas a) a e) caem); n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "errado",
+    "motivo": "(1) O art. 2.º do DL 49434 revoga a nota 1 do mapa: no consolidado o texto antigo da nota 1 («Os profissionais em regime de estágio serão remunerados…») ficou em «Notas», e a marca «1. (Revogada.)» aparece fora do sítio (antes de «Publique-se e cumpra-se…», logo a seguir ao n.º 3), em vez de substituir a nota 1. (2) A imagem do DL 676/70 (20242024.pdf) foi inserida a seguir ao n.º 3 do art. 20.º, antes das assinaturas, e não junto do «Mapa a que se refere o artigo 12.º», onde devia ficar com a imagem antiga (alteração parcial das colunas do mapa).",
+    "texto_esperado": "(corpo igual ao original até ao n.º 3; depois, no fim do artigo:) Publique-se e cumpra-se como nele se contém. [assinaturas] Para ser presente à Assembleia Nacional. Mapa a que se refere o artigo 12.º [(ver documento original)](.../1967/12/29900/25142516.pdf) [(ver documento original)](.../1970/12/30100/20242024.pdf) Notas  1. (Revogada.)  2. As enfermeiras de saúde pública designadas como responsáveis de equipa receberão, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.  Ministério da Saúde e Assistência, 27 de Dezembro de 1967. - ..."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49434, art. 2.º: revogação da nota 1 do mapa anexo: o texto antigo da nota 1 continua nas «Notas» (só há um «1. (Revogada.)» solto, fora do sítio)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 331/72, art. 1.º: nova redação do art. 97.º, n.º 1, al. o), do DL 413/71 (revoga o DL 48166 excepto art. 5.º, n.º 2 do art. 14.º e al. a) do art. 19.º)",
+    "motivo": "a instrução altera o DL 413/71 (outro diploma); o texto do DL 413/71 não vem na vista, e a revogação do original resulta desse diploma, não do DL 331/72"
+   },
+   {
+    "instrucao": "DL 331/72, art. 4.º: nova redação do art. 29.º do DL 414/71 (remete para o art. 5.º do original)",
+    "motivo": "instrução de outro diploma (DL 414/71)"
+   },
+   {
+    "instrucao": "DL 331/72, arts. 1.º, 2.º e 5.º: alterações a artigos e quadros dos DL 413/71 e 414/71",
+    "motivo": "instruções de outros diplomas"
+   },
+   {
+    "instrucao": "DL 676/70, art. único, n.os 2 e 3: quadros modificados e inclusão de verbas",
+    "motivo": "não é textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações. Nota: o DL 305/81, art. 20.º, al. b), revoga o DL 676/70, cuja imagem do mapa foi aplicada; se a revogação afasta essa imagem, convém reapreciar."
+ }
+]

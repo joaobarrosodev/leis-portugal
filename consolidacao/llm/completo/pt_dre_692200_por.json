@@ -20,6 +20,12 @@
       "alterador": 1
     },
     {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.",
+      "alterador": 2
+    },
+    {
       "chave": "9.º",
       "epigrafe": "",
       "texto": "1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Parlamentares.\n\n3 - Ao Ministro da Presidência compete assegurar as relações do Governo com a Assembleia da República e com os partidos políticos.",
@@ -52,7 +58,7 @@
     {
       "chave": "17.º",
       "epigrafe": "",
-      "texto": "1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.\n\n3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.",
+      "texto": "1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.",
       "alterador": 3
     },
     {
@@ -149,26 +155,20 @@
     }
   ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 5, art. 32.º, n.º 1 (a estrutura orgânica do original é substituída pela do DL 120/2002): não textual (substituição global da orgânica, sem revogação expressa nem nova redação de artigos do original)\nAlterador 6, DL 151/2019: outro diploma (as alterações visam o RJSPTP e outros diplomas; nenhuma instrução dirigida ao original)",
+  "nao_aplicavel": "Alterador 5, DL 120/2002, art. 32.º, n.º 1 («A estrutura orgânica constante do Decreto-Lei n.º 474-A/99 […] é substituída pela estabelecida no presente diploma»): não textual: substituição global da orgânica, sem revogação expressa nem alteração de artigos do original.\nAlterador 6, DL 151/2019: outro diploma: não traz instrução dirigida ao DL 474-A/99 (altera a Lei n.º 52/2015 e revoga outros diplomas).\nAlterador 1, DL 267-A/2000, art. 4.º, n.º 9 (referências ao Ministro Adjunto em matéria de autarquias locais): não textual: norma de remissão autónoma, não altera o texto.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º; aplicada (os arts. 2.º, 6.º, 8.º, 9.º, 15.º, 17.º, 18.º e 19.º voltam a ser alterados depois). Art. 7.º: um só parágrafo, a nova redação. Art. 37.º: n.º 4 novo, antigo n.º 10 passa a n.º 9 (antigo n.º 9 desaparece).",
-    "Alterador 1, art. 2.º: adita os arts. 28.º-A e 33.º-A (33.º-A já estava certo; 28.º-A volta a mudar no alterador 2).",
-    "Alterador 1, art. 3.º, n.º 1: revoga os arts. 10.º, 11.º, 12.º, 35.º e 36.º (10.º e 11.º já estavam revogados; 35.º e 36.º passam a «(Revogado.)»; o 12.º é depois repristinado pelo alterador 3).",
-    "Alterador 1, art. 3.º, n.º 2: o capítulo II passa a ser designado «Do Conselho de Ministros»; em titulos.",
-    "Alterador 2, art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A; aplicada (art. 8.º volta ao texto original, por isso não muda em relação ao texto atual; 14.º n.º 2 e 28.º-A n.º 2 ficam com a redação do alterador 2).",
-    "Alterador 3, art. 1.º: nova redação dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º (n.º 5), 23.º, 24.º e 26.º (n.os 1, 3 e 4); aplicada. Art. 6.º: n.os 1 e 2 do alterador 3, n.º 3 do alterador 2, n.º 4 = antigo n.º 6. Art. 17.º: mantém o n.º 3 aditado pelo alterador 1.",
-    "Alterador 3, art. 2.º: repristina o art. 12.º com nova redação; aplicada.",
-    "Alterador 4, art. 1.º: adita o art. 37.º-A; aplicado.",
-    "Alterador 5: substitui a orgânica do Governo (não textual); nao_aplicavel.",
-    "Alterador 6: sem instruções dirigidas ao original; nao_aplicavel."
+    "Alt. 1 (DL 267-A/2000), art. 1.º: novas redações dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º; aplicadas e, quando alteradas depois, compostas com as seguintes. No 6.º, n.º 4 = anterior n.º 6 (saem os antigos n.os 4 e 5); no 37.º, n.º 9 = anterior n.º 10 (sai o antigo n.º 9).",
+    "Alt. 1, art. 2.º: aditados os arts. 28.º-A e 33.º-A (já no texto atual, iguais).",
+    "Alt. 1, art. 3.º: revogados os arts. 10.º, 11.º (já no texto), 12.º (depois repristinado), 35.º e 36.º; capítulo II passa a «Do Conselho de Ministros» (em titulos).",
+    "Alt. 2 (DL 116/2001): novas redações dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A; o 8.º volta ao corpo único (igual ao do original).",
+    "Alt. 3 (DL 247/2001): novas redações dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º, 23.º, 24.º e 26.º; o 17.º fica só com os n.os 1 e 2 da nova redação (sai o n.º 3 do Gabinete de Sines, que a nova redação do artigo não traz); art. 2.º repristina o art. 12.º com nova redação.",
+    "Alt. 4 (DL 24/2002): aditado o art. 37.º-A.",
+    "Alt. 2.º, 10.º, 11.º, 28.º-A e 33.º-A já alterados pelo programa: o 2.º estava na redação de 2000 e passa à de 2001 (DL 247/2001); os outros conferem."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
-  "avisos": [
-    "8.º: o DRE diz «Alterados os arts. 2º, 6º, 7º, 8º, 9º, 15º, 16º, 17º, 18º, 19º(transição da Comissão para » (Decreto-Lei n.º 267-A/2000) e nem a resposta nem as regras o mudam",
-    "8.º: o DRE diz «Alterados os arts. 2º, 6º, 8º, 14º, 19º e 28º-A pelo DEC LEI.116/2001.2001.04.17.PCM,DR.IS» (Decreto-Lei n.º 116/2001) e nem a resposta nem as regras o mudam"
-  ]
+  "avisos": []
 }

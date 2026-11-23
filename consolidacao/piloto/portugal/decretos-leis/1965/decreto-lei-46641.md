@@ -49,7 +49,7 @@ Tabela de emolumentos consulares
 
 ###### ARTIGO 1.º
 
-#### SECÇÃO I
+#### SECÇÃO I — Protecção consular
 
 Protecção consular
 
@@ -483,7 +483,7 @@ b) De estrangeira para portuguesa, além de outra taxa a pagar ... 500$00
 
 84.º Certificado de navigabilidade provisório ... 500$00
 
-#### SECÇÃO VI — Actos diversos
+#### SECÇÃO VI — Percentagens
 
 85.º Licença para transporte de cadáver ... 1000$00
 
@@ -511,7 +511,7 @@ b) Apontando a parte dia, mês e ano ... 50$00
 
 90.º Qualquer acto escrito, transcrito ou registado, não especificado na presente tabela ... 110$00
 
-#### SECÇÃO VII — Percentagens
+#### SECÇÃO VII — Actos diversos
 
 91.º Intervenção do funcionário consular na venda de navio português; sobre o produto da venda ... 4%
 

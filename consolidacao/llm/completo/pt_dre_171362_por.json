@@ -41,18 +41,20 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, n.º 2.º (mapa I do Decreto-Lei n.º 133/85): outro diploma.\nAlterador 3, n.os 2.º e 3.º (quadros do Decreto-Lei n.º 133/85 e da Portaria n.º 411/87): outro diploma.\nAlterador 4, n.os 2.º e 3.º (quadros do Decreto-Lei n.º 133/85 e da Portaria n.º 411/87): outro diploma.\nAlterador 5, artigos 1.º e 2.º (limite temporal e regime transitório das requisições): não textual.\nAlterador 6, alteração do mapa de pessoal (grupo III, conselheiro militar, na composição da Portaria n.º 330-A/2002): só em imagem: o mapa novo só vem em imagem, não há título de anexo onde o pôr, e o mapa da Portaria n.º 330-A/2002 que altera não está no texto atual.\nAlterador 7, artigo 2.º (disposição transitória): não textual.\nAlterador 7, artigo 3.º, alínea b) (revogação do Decreto-Lei n.º 234-B/98): outro diploma.\nAlterador 8 (suspensão transitória dos períodos máximos de permanência e do regime de recrutamento): não textual.\nAlteradores 9 a 11 (Decretos-Leis n.os 32/2022, 32/2024 e 87-A/2025): sem texto: o pedido não traz nenhum artigo que altere o original.",
+  "nao_aplicavel": "Alterador 2, n.º 2.º (mapa I do DL 133/85): outro diploma\nAlterador 3, n.os 2.º e 3.º (quadros anexos ao DL 133/85 e à Portaria n.º 411/87): outro diploma\nAlterador 4, n.os 2.º e 3.º (quadros anexos ao DL 133/85 e à Portaria n.º 411/87): outro diploma\nAlterador 5, arts. 1.º e 2.º (limite temporal e regime transitório das requisições): não textual (regras próprias do DL 234-B/98, que não alteram o texto do original)\nAlterador 6, alteração do grupo III do mapa de pessoal (conselheiro militar), em imagem: alvo incerto (altera o mapa na composição da Portaria n.º 330-A/2002, que não está entre os alteradores nem no texto atual, onde o mapa é o da Portaria n.º 277/87 sem grupo III de conselheiros militares)\nAlterador 8, suspensão transitória dos períodos máximos de permanência e do procedimento de renovação: não textual (suspensão)",
   "instrucoes": [
-    "Alt. 1 (DL 302/86): nova redação do art. 6.º (n.os 1 a 5); n.os 2 e 3 ficam na redação final (o Alt. 7 mantém-nos com «...»).",
-    "Alt. 2 (Portaria 277/87), n.º 1.º: substitui o mapa de pessoal (que está no corpo do art. 10.º, a seguir às assinaturas) pelo mapa anexo; o mapa antigo e a sua imagem saem.",
-    "Alt. 3 (Portaria 49-A/92) e Alt. 4 (Portaria 282/97): alteram o n.º 4 do mapa; fica a redação do Alt. 4.",
-    "Alt. 5 (DL 234-B/98), art. 3.º: revoga o n.º 5 do art. 6.º; substituído depois pelo novo n.º 5 do Alt. 7.",
-    "Alt. 7 (DL 97/2006), art. 1.º: nova redação dos arts. 3.º (n.º 1 mantém-se), 4.º (n.º 3 = anterior n.º 2) e 6.º; art. 3.º a): revoga os arts. 8.º e 9.º.",
-    "Alts. 6, 8 a 11 e normas de outros diplomas: nao_aplicavel."
+    "Alterador 1: nova redação do art. 6.º (n.os 1 a 5).",
+    "Alterador 2, n.º 1.º: o mapa de pessoal (no corpo do art. 10.º) é substituído pelo mapa da portaria; tirado o mapa antigo e a imagem dele, posto o mapa novo a seguir às assinaturas.",
+    "Alteradores 3 e 4: n.º 4 do mapa alterado (fica a composição do alterador 4).",
+    "Alterador 5, art. 3.º: revogado o n.º 5 do art. 6.º (depois substituído pelo n.º 5 do alterador 7).",
+    "Alterador 6: alteração em imagem de um mapa posterior (Portaria n.º 330-A/2002); não aplicada.",
+    "Alterador 7, art. 1.º: novas redações dos arts. 3.º (n.º 1 fica), 4.º (n.º 3 = anterior n.º 2) e 6.º (n.os 2 e 3 ficam, do alterador 1); art. 3.º, al. a): revogados os arts. 8.º e 9.º.",
+    "Alterador 8: suspensão transitória; não textual.",
+    "Alteradores 9 a 11: sem artigos no pedido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

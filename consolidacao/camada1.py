@@ -876,6 +876,12 @@ def estado() -> int:
                       "nao_aplicadas": justificadas, "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl; camada1/segunda{_sufixo()}/segunda-*.json"}
             if i in segunda and segunda[i].get("vigencia"):
                 e["vigencia"] = segunda[i]["vigencia"]
+        elif i in nossos and anteriores and juntados.get(i, {}).get("estado") == "aplicado com LLM":
+            # tirado da entrada às cegas: a resposta desta ronda deu o mesmo texto que a ronda anterior já recusou
+            a = anteriores[i]
+            prefixo = f"a resposta da ronda {RONDA} deu o mesmo texto que a ronda anterior recusou; "
+            e |= {"estado": a["estado"], "motivo": prefixo + str(a.get("motivo")).replace(prefixo, "")[:500],
+                  "prova": a.get("prova")}
         elif i in nada:
             d = nada[i]
             if d.get("instrucoes_em_falta"):

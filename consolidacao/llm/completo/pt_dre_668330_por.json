@@ -2,32 +2,51 @@
   "id": "pt:dre:668330:por",
   "artigos": [
     {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas do Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada superior a 30 ha, e que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.\n\n2. Para o cálculo da pontuação referida no n.º 1, não serão tidos em conta quaisquer melhoramentos introduzidos na forma de aproveitamentos dos prédios após 30 de Julho de 1975.\n\n3. Não são passíveis de nacionalização, nos termos previstos neste diploma, qualquer que seja a sua área ou a pontuação atribuída, os prédios rústicos pertencentes a produtores autónomos.\n\n4. Considera-se produto autónomo, para efeitos do número anterior, aquele que na exploração de um ou mais prédios utilize exclusivamente o trabalho próprio ou o de pessoas do seu agregado familiar.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de exploração a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, mas nunca inferior a 30 ha, independentemente da pontuação, desde que aqueles não mantenham terras incultas ou não alcancem os níveis mínimos de aproveitamento a estabelecer por decreto proposto pelo Ministro da Agricultura e Pescas.\n\n2. O desaparecimento superveniente dos requisitos exigidos no número anterior sujeitará a expropriação a área reservada.\n\n3. Quando os proprietários, a que se refere o n.º 1, não explorem directamente a área que lhes venha a ser atribuída pelo exercício do direito de reserva, as cooperativas agrícolas de produção e associações afins gozarão do direito de preferência no arrendamento dessa área.\n\n4. Quando os proprietários já tenham exercido o direito de reserva previsto em qualquer outro diploma legal não se aplica o disposto no n.º 1.\n\n5. Não gozam do direito de reserva as pessoas colectivas de direito privado, incluindo as sociedades, ainda que de utilidade pública.\n\n6. O direito de propriedade resultante do exercício do direito de reserva só pode ser transmitido por sucessão a favor de herdeiros legítimos ou do Estado ou, mediante negócio inter vivos, a favor do Estado.\n\n7. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.",
+      "alterador": 1
+    },
+    {
       "chave": "4.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
-      "alterador": 3
+      "alterador": 4
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1. O Instituto de Reorganização Agrária entra imediatamente na posse das áreas nacionalizadas, independentemente de prévia fixação e pagamento das indemnizações devidas, com as limitações decorrentes dos números seguintes.\n\n2. Os proprietários, arrendatários ou quaisquer outros empresários agrícolas afectados pelas medidas de nacionalização conservarão todos os poderes necessários à realização das operações agrícolas, de colheita, conservação, maneio de gado e outras necessárias ao bom aproveitamento da terra até ao termo da presente época agrícola, devendo assegurar os níveis normais de produtividade, de harmonia com as técnicas e usos socialmente aceites.\n\n3. As práticas, por acção ou omissão, dolosas ou simplesmente negligentes de proprietários, arrendatários e outros empresários agrícolas que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos, ou conduzam à perda, diminuição ou destruição da produção, para além de outras sanções que por lei sejam aplicáveis e da consequência prevista através do n.º 1 do artigo 3.º, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma que regular a fixação e modo de pagamento das indemnizações.",
+      "alterador": 1
     },
     {
       "chave": "9.º",
       "epigrafe": "",
       "texto": "O Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações.",
-      "alterador": 1
+      "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2, artigo 76.º (revogação do Decreto-Lei n.º 407-A/75 «sem prejuízo do disposto nos artigos 60.º a 70.º»): alvo incerto: revoga o diploma inteiro com a ressalva dos artigos 60.º a 70.º da Lei, que mantêm transitoriamente em vigor os artigos 4.º e 10.º a 12.º (artigos 62.º e 68.º) até regulamentação futura; o âmbito exato do que fica revogado e quando não é seguro\nAlteradores 5 a 8, portarias de desanexação de prédios nacionalizados: não textual: atos de execução ao abrigo do artigo 40.º da Lei n.º 77/77, sem instrução sobre o texto do original",
+  "nao_aplicavel": "Alterador 3, Lei n.º 77/77, art. 76.º (revoga o Decreto-Lei n.º 407-A/75 inteiro, «sem prejuízo do disposto nos artigos 60.º a 70.º»): efeito adiado: é a revogação do diploma inteiro com ressalva transitória (o art. 62.º manda aplicar o art. 4.º e o art. 68.º mantém em vigor os arts. 10.º a 12.º até à regulamentação futura); não é uma instrução sobre artigos do texto e não se aplica artigo a artigo.\nAlterador 3, Lei n.º 77/77, arts. 62.º, 67.º e 68.º: não textual: remissões e normas transitórias que não alteram o texto.\nAlterador 6, Portaria n.º 215/79: não textual: desanexação de parcela de prédio nacionalizado, não altera o texto.\nAlterador 7, Portaria n.º 476/81: não textual: desanexação de parte de prédio nacionalizado, não altera o texto.\nAlterador 8, Portaria n.º 576/81: não textual: desanexação de parte de prédio nacionalizado, não altera o texto.\nAlterador 9, Portaria n.º 1219/82: não textual: desanexação de parte de prédio nacionalizado, não altera o texto.\nAlterador 1, DL 248/76, art. 4.º (nova redação): sem efeito no texto final, porque o DL 81/78 (art. 40.º) revogou depois o art. 4.º.",
   "instrucoes": [
-    "Alterador 1 (DL 895/76), art. 2.º: nova redação do artigo 9.º; substituído o artigo inteiro pelo texto novo",
-    "Alterador 2 (Lei 77/77), art. 76.º: revogação global com ressalva dos arts. 60.º-70.º; não aplicada (nao_aplicavel); arts. 62.º, 67.º e 68.º só remetem para o original",
-    "Alterador 3 (DL 81/78), art. 40.º: revoga o artigo 4.º; artigo 4.º passa a (Revogado.)",
-    "Alterador 4: repetição do DL 81/78 (art. 40.º revoga o artigo 4.º); já aplicado como alterador 3",
-    "Alteradores 5-8 (portarias): desanexações, sem alteração do texto"
+    "Alt. 1 (DL 248/76), art. 1.º: nova redação dos arts. 1.º (4 números), 3.º (7 números) e 8.º, n.º 3, copiadas letra a letra; nova redação do art. 4.º, depois revogado.",
+    "Alt. 1, arts. 2.º e 3.º: normas autónomas (execução e vigência), sem efeito no texto.",
+    "Alt. 2 (DL 895/76), art. 2.º: nova redação do art. 9.º (corpo único), que substitui os dois números antigos.",
+    "Alt. 4 (DL 81/78), art. 40.º: revoga o art. 4.º -> (Revogado.). O alterador 5 é o mesmo diploma, repetido.",
+    "Alt. 3 (Lei 77/77), art. 76.º: revogação do diploma inteiro com ressalvas transitórias -> nao_aplicavel.",
+    "Alts. 6 a 9 (portarias de desanexação): não textuais."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

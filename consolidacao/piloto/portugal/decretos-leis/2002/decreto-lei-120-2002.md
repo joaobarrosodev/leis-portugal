@@ -161,8 +161,6 @@ O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, na
 
 > Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
-
 ###### Artigo 8.º
 
 Os Ministros de Estado exercem os poderes que neles forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.

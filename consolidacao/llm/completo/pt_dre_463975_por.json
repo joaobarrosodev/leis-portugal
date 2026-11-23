@@ -147,7 +147,7 @@
     },
     {
       "chave": "24.º",
-      "epigrafe": "Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.",
+      "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 11
     },
@@ -280,18 +280,17 @@
     }
   ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, extinção do Gabinete de Gestão de Veículos do Estado e transferência das atribuições para a DGPE: não textual: não dá nova redação a nenhum artigo\nAlterador 3 e alterador 10, alargamento da área de recrutamento para lugares do pessoal dirigente (artigo 13.º): não textual: não altera o texto do artigo\nAlteradores 4 (artigo 3.º), 5, 6, 7 (n.º 6.º), 8 e 9, alterações e aditamentos ao quadro e aos mapas de pessoal: só em imagem: os mapas só existem em imagem e não têm título de anexo no texto atual (de resto revogados pelo alterador 11)\nAlterador 7, n.os 1.º a 5.º e 7.º (carreira de técnico superior de informática): não textual: cria a carreira e fixa o conteúdo funcional sem nova redação de artigos do original",
+  "nao_aplicavel": "Alterador 1, Decreto Regulamentar n.º 59/80 (extinção do GVE e transferência das suas atribuições para a DGPE): não textual (não dá nova redação a nenhum artigo)\nAlterador 3, Portaria n.º 79/81 (alargamento da área de recrutamento do art. 13.º): não textual\nAlterador 10, Portaria n.º 531/89 (alargamento excepcional da área de recrutamento do art. 13.º): não textual",
   "instrucoes": [
-    "Alterador 2 (DR 69/80): nova redação do n.º 3 do artigo 34.º; aplicada e depois absorvida pela revogação do artigo 34.º (alterador 11)",
-    "Alterador 4 (DR 40/83): nova redação dos artigos 2.º e 3.º (epígrafe «Estrutura dos serviços operativos»), aditamento dos n.os 9 a 11 ao artigo 5.º, aditamento do artigo 10.º-A e revogação do n.º 3 do artigo 14.º; tudo depois revogado pelo alterador 11",
-    "Alterador 11 (DR 21/2007), art. 12.º, al. c): revoga o DR 44/80 com excepção dos artigos 11.º, 12.º, n.º 3, e 15.º a 17.º; todos os outros artigos (incluindo o 10.º-A aditado e os mapas que vinham no corpo do artigo 43.º) passam a (Revogado.), sem texto antigo nem assinaturas a seguir",
-    "Alteradores 12 e 13 (DL 121/2008, mapa VIII republicado pela Declaração de Rectificação 49/2008): revoga o artigo 11.º, o n.º 3 do artigo 12.º e os artigos 15.º a 17.º; passam a (Revogado.) (alterador 13, onde está o texto do mapa VIII)",
-    "Artigo 7.º: o título «##### Divisão Técnica de Obras e Avaliação» era a epígrafe do artigo; posta em epigrafe e eliminada como título de divisão; «##### Divisão de Móveis;» era texto do artigo 3.º, revogado, e é eliminado",
-    "Artigo 17.º: só (Revogado.); as linhas «SUBSEÇÇÃO II» e «Pessoal técnico superior» que vinham no fim do corpo (título da subsecção do artigo 18.º, também revogado) não ficam a seguir a (Revogado.)"
+    "Alterador 2 (DR 69/80): nova redação do n.º 3 do art. 34.º; substituída pela revogação do alterador 11.",
+    "Alterador 4 (DR 40/83): novas redações dos arts. 2.º e 3.º (epígrafe «Estrutura dos serviços operativos», mantida), aditamento dos n.os 9 a 11 ao art. 5.º, aditamento do art. 10.º-A, revogação do n.º 3 do art. 14.º e aditamento de lugares ao mapa; tudo depois revogado pelo alterador 11.",
+    "Alteradores 5 a 9 (portarias): alteram ou substituem o mapa de pessoal (imagens no art. 43.º, incluindo a substituição pela Portaria n.º 73/87); o mapa é depois revogado com o diploma pelo alterador 11.",
+    "Alterador 11 (DR 21/2007, art. 12.º, al. c)): revoga o DR 44/80 com excepção dos arts. 11.º, 12.º, n.º 3, e 15.º a 17.º: todos os outros artigos (e o 10.º-A aditado) ficam «(Revogado.)», com as epígrafes; nos arts. 6.º e 7.º a epígrafe estava no corpo ou num título de divisão («Divisão Técnica de Obras e Avaliação») e passou para a epígrafe; os títulos «Divisão de Móveis;» e «Divisão Técnica de Obras e Avaliação», restos do corpo dos arts. 3.º e 7.º, são retirados.",
+    "Alteradores 12 e 13 (DL 121/2008, mapa VIII, republicado na Declaração de Rectificação n.º 49/2008): revoga o art. 11.º, o n.º 3 do art. 12.º e os arts. 15.º a 17.º: ficam «(Revogado.)»; o diploma fica todo revogado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 117,
+  "ronda_camada1": 118,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

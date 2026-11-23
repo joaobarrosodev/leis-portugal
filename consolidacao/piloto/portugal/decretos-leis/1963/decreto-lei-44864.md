@@ -166,7 +166,7 @@ c) Médicos veterinários de unidades ou estabelecimentos militares;
 
 d) Capelães, médicos, veterinários e enfermeiros equiparados a militares especializados em pára-quedismo e em serviço nas tropas pára-quedistas.
 
-§ único. Os quantitativos das gratificações mensais a atribuir a médicos referidos na alínea b) do corpo deste artigo que excederem os limites mínimos estabelecidos na mesma tabela e até aos máximos indicados são fixados, em cada caso, por despacho do Ministro do Exército, do Ministro da Marinha ou do Secretário de Estado da Aeronáutica, sob informação fundamentada, tendo em atenção os efectivos a assistir, a extensão da área por que se encontrarem dispersos, as dificuldades de deslocação, a frequência provável das consultas e os horários clínicos em uso local.
+§ único. Os quantitativos das gratificações mensais a atribuir a médicos referidos na alínea b) do corpo deste artigo que excederem os limites mínimos estabelecidos na mesma tabela e até aos máximos indicados são fixados, em cada caso, por despacho do Ministro do Exército, do Ministro da Marinha ou do Secretário de Estado da Aeronáutica, sob informação fundamentada, tendo em atenção os efectivos a assistir, a extensão da área por que se encontrarem dispersos, as dificuldades de deslocação, a frequência provável das consultas e os honorários clínicos em uso local.
 
 > Alterado pelo/a [Decreto-Lei n.º 46815](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46815-1965-508436), publicado em 1965-12-31.
 

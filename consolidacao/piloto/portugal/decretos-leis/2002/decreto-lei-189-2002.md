@@ -51,6 +51,16 @@ Os Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habi
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
+###### Artigo CAPÍTULO VII — Funções do IMT
+
+Base XXIV
+
+IMT
+
+Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa.
+
+> Aditado pelo/a [Decreto-Lei n.º 110/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2015-67522988), publicado em 2015-06-18.
+
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Francisco Valente de Oliveira.
 
 Promulgado em 12 de Agosto de 2002.

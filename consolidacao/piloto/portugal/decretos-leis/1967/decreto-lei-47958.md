@@ -31,6 +31,9 @@ consolidacao:
   - id: pt:dre:228383:por
     title: Decreto-Lei n.º 89/70
     publication_date: '1970-03-10'
+  - id: pt:dre:644481:por
+    title: Decreto-Lei n.º 193/71
+    publication_date: '1971-05-11'
   - id: pt:dre:423217:por
     title: Decreto-Lei n.º 603/71
     publication_date: '1971-12-29'
@@ -94,6 +97,34 @@ ex 48.07.07 - Cartão impregnado com látex.
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/05800/02840287.pdf)
 
 > Aditado pelo/a [Decreto-Lei n.º 89/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1970-228383), publicado em 1970-03-10.
+
+91.01 ... Relógios de algibeira, de pulso e semelhantes, compreendendo os contadores de tempo dos mesmos tipos:
+
+Relógios, com exclusão dos contadores de tempo:
+
+Não ornamentados com pérolas ou gemas, naturais ou artificiais:
+
+Sem abraçadeiras, pulseiras ou qualquer outro acessório:
+
+01 ... De ouro ou platina.
+
+02 ... De prata.
+
+03 ... Dourados ou chapeados de ouro.
+
+04 ... Não especificados.
+
+Com abraçadeiras, pulseiras ou qualquer outro acessório inseparável:
+
+05 ... Em que entram metais preciosos.
+
+06 ... Dourados ou chapeados de metais preciosos.
+
+07 ... Ornamentados com pérolas ou gemas, naturais ou artificiais.
+
+08 ... Contadores de tempo.
+
+> Aditado pelo/a [Decreto-Lei n.º 193/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481), publicado em 1971-05-11.
 
 21.05 Preparados para obtenção de caldos ou sopas; caldos ou sopas preparados; preparados alimentares compostos homogeneizados:
 

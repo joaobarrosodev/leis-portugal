@@ -285,6 +285,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 > Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ### CAPÍTULO IV — Do certificado de admissibilidade de firmas e denominações
+#### SECÇÃO I — Disposições gerais
 
 ###### Artigo 36.º
 

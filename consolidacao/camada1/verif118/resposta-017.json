@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:659563:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lei 87/98 art. 2.º: n.º 29 substituído pela nova redação (REFER, Metro Ligeiro Sul do Tejo, 600000 contos) e aditados n.os 34 a 42; restantes n.os mantêm o original ('...'). Consolidado coincide letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "O bloco inclui o resto da lei (parse); a única mudança de substância é o art. 70.º (12 -> 17 milhões de contos, 'a Região Autónoma dos Açores'), conforme art. 3.º da Lei 87/98; diferença final é só uma linha em branco. O corpo próprio do art. 39.º (tabelas) fica igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 87/98 art. 1.º: mapas I a IV e XI substituem, na parte respectiva, os da Lei 127-B/97",
+    "motivo": "mapas só em imagem e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "Declaração n.º 5/99: mapa IX substitui na parte alterada o mapa IX",
+    "motivo": "mapa só em imagem e sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "Declaração de Rectificação n.º 7/98 (correções aos artigos 6.º, 13.º e 61.º)",
+    "motivo": "o diploma que altera não traz o texto da alteração (só metadados)"
+   },
+   {
+    "instrucao": "DL 191/99 art. 51.º, n.º 1, c); DL 71/2013 art. 7.º, b); Lei 75-A/2014 art. 30.º, c)",
+    "motivo": "revogam outros diplomas/artigos (DL 275-A/93, DL 204/97, DL 453/88), não a Lei 127-B/97"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

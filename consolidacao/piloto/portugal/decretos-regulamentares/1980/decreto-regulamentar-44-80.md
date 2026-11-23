@@ -241,7 +241,7 @@ b) Vistoriar os prédios do Estado, pronunciar-se sobre as obras de que careçam
 
 ##### SUBSECÇÃO II — Determinação do mérito dos candidatos para efeitos de promoção
 
-###### Artigo 24.º — Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.
+###### Artigo 24.º
 
 (Revogado.)
 

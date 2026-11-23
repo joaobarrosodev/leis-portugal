@@ -166,8 +166,6 @@ O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, na
 
 > Alterado pelo/a [Decreto-Lei n.º 55/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1998-186543), publicado em 1998-03-16.
 
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
-
 ###### Artigo 8.º
 
 (Revogado.)

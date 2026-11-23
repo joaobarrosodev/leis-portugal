@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:502814:por
+    title: Decreto-Lei n.º 248/76
+    publication_date: '1976-04-07'
   - id: pt:dre:425528:por
     title: Decreto-Lei n.º 81/78
     publication_date: '1978-04-29'
@@ -35,7 +38,15 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ###### Artigo 1.º
 
-São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas de Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
+1. São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas do Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada superior a 30 ha, e que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
+
+2. Para o cálculo da pontuação referida no n.º 1, não serão tidos em conta quaisquer melhoramentos introduzidos na forma de aproveitamentos dos prédios após 30 de Julho de 1975.
+
+3. Não são passíveis de nacionalização, nos termos previstos neste diploma, qualquer que seja a sua área ou a pontuação atribuída, os prédios rústicos pertencentes a produtores autónomos.
+
+4. Considera-se produto autónomo, para efeitos do número anterior, aquele que na exploração de um ou mais prédios utilize exclusivamente o trabalho próprio ou o de pessoas do seu agregado familiar.
+
+> Alterado pelo/a [Decreto-Lei n.º 248/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1976-502814), publicado em 1976-04-07.
 
 ###### Artigo 2.º
 
@@ -43,21 +54,21 @@ Sem prejuízo do disposto nos artigos seguintes, consideram-se extintos todos e 
 
 ###### Artigo 3.º
 
-1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que aqueles preencham cumulativamente os requisitos seguintes:
+1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de exploração a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, mas nunca inferior a 30 ha, independentemente da pontuação, desde que aqueles não mantenham terras incultas ou não alcancem os níveis mínimos de aproveitamento a estabelecer por decreto proposto pelo Ministro da Agricultura e Pescas.
 
-a) Explorem directamente a terra de que são proprietários;
+2. O desaparecimento superveniente dos requisitos exigidos no número anterior sujeitará a expropriação a área reservada.
 
-b) Retirem exclusiva ou predominantemente da exploração agrícola directa os seus meios de subsistência e da sua família;
+3. Quando os proprietários, a que se refere o n.º 1, não explorem directamente a área que lhes venha a ser atribuída pelo exercício do direito de reserva, as cooperativas agrícolas de produção e associações afins gozarão do direito de preferência no arrendamento dessa área.
 
-c) Não mantenham terras incultas ou subaproveitadas nem hajam incorrido em qualquer das situações previstas, como fundamento de intervenção, no [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e legislação complementar e tenham cumprido os deveres e obrigações estabelecidos no artigo 8.º, n.os 2 e 3, deste diploma.
+4. Quando os proprietários já tenham exercido o direito de reserva previsto em qualquer outro diploma legal não se aplica o disposto no n.º 1.
 
-2. O desaparecimento superveniente de qualquer dos requisitos exigidos no número anterior sujeitará a expropriação a área reservada.
+5. Não gozam do direito de reserva as pessoas colectivas de direito privado, incluindo as sociedades, ainda que de utilidade pública.
 
-3. Não gozam do direito de reserva as pessoas colectivas, quer se trate de sociedades comerciais ou civis sob forma comercial, fundações ou outras associações.
+6. O direito de propriedade resultante do exercício do direito de reserva só pode ser transmitido por sucessão a favor de herdeiros legítimos ou do Estado ou, mediante negócio inter vivos, a favor do Estado.
 
-4. A propriedade resultante do exercício do direito de reserva só pode ser transmitida, por sucessão, a favor dos herdeiros legítimos ou, mediante negócio inter vivos, a favor do Estado.
+7. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.
 
-5. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.
+> Alterado pelo/a [Decreto-Lei n.º 248/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1976-502814), publicado em 1976-04-07.
 
 ###### Artigo 4.º
 
@@ -85,7 +96,9 @@ As regras a utilizar na fixação das indemnizações a atribuir aos proprietár
 
 2. Os proprietários, arrendatários ou quaisquer outros empresários agrícolas afectados pelas medidas de nacionalização conservarão todos os poderes necessários à realização das operações agrícolas, de colheita, conservação, maneio de gado e outras necessárias ao bom aproveitamento da terra até ao termo da presente época agrícola, devendo assegurar os níveis normais de produtividade, de harmonia com as técnicas e usos socialmente aceites.
 
-3. As práticas, por acção ou omissão, dolosas ou simplesmente negligentes, de proprietários, arrendatários e outros empresários agrícolas que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos, ou conduzam à perda, diminuição ou destruição da produção, para além de outras sanções que por lei sejam aplicáveis, e da consequência prevista através da alínea c) do n.º 1 do artigo 3.º do presente diploma, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma que regular a fixação e modo de pagamento das indemnizações.
+3. As práticas, por acção ou omissão, dolosas ou simplesmente negligentes de proprietários, arrendatários e outros empresários agrícolas que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos, ou conduzam à perda, diminuição ou destruição da produção, para além de outras sanções que por lei sejam aplicáveis e da consequência prevista através do n.º 1 do artigo 3.º, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma que regular a fixação e modo de pagamento das indemnizações.
+
+> Alterado pelo/a [Decreto-Lei n.º 248/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1976-502814), publicado em 1976-04-07.
 
 ###### Artigo 9.º
 

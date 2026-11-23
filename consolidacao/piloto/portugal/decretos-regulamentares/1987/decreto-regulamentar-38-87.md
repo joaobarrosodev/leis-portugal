@@ -340,8 +340,6 @@ A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei 
 
 > Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
-A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 4 do artigo 9.º à DV (Estação Vitivinícola da Beira Litoral).
-
 ###### Artigo 15.º — Serviços operativos de âmbito local
 
 1 - Os serviços operativos de âmbito local agrupados em divisões de zonas agrárias, de acordo com o mapa I anexo ao [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, têm as competências referidas nos n.os 1 e 2 do artigo 17.º do mesmo diploma e compreendem:

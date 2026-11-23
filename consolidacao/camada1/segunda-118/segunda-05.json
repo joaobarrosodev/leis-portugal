@@ -1,0 +1,11 @@
+[
+ {
+  "id": "pt:dre:659563:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 13.º (n.os 1 e 2): a Declaração de Rectificação n.º 7/98 (corrected_by) não está aplicada. O pedido trouxe o registo da 2.ª série (pt:dre:2979830, só metadados), mas o acervo tem o texto na 1.ª série (data/portugal/declaracoes-retificacao/1998/declaracao-retificacao-7-98.md, pt:dre:208444). Texto certo: n.º 1 termina «..., sendo a distribuição por município efectuada de acordo com os montantes das correspondentes despesas.» (em vez de «...dos montantes das processadas para cada município correspondentes despesas.»); n.º 2 começa «2 - As verbas processadas para cada município ao abrigo do número anterior devem constar de portaria...» (em vez de «As verbas ao abrigo do número anterior...»).",
+   "Artigo 61.º (Saldos do capítulo 60 do Orçamento do Estado; no consolidado está dentro do bloco do «Artigo 39.º»): a mesma Declaração de Rectificação n.º 7/98 manda ler «inscritas no Orçamento do Estado para 1997, no capítulo 60 do Ministério das Finanças,» onde o consolidado ainda diz «para 1998». A correção da alínea 29) do art. 6.º (550000 para 600000 contos) ficou sem objeto com a nova redação dada pela Lei n.º 87/98, que já está aplicada. A correção ao mapa VI só vale para os mapas, que vêm em imagem."
+  ],
+  "vigencia": null
+ }
+]
