@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-01-01'
+version_history:
+  file: decreto-lei-42-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-01-01'
+    amending: pt:dre:310796:por
+    amending_title: Decreto-Lei n.º 202/99; Decreto-Lei n.º 366/99
+    changes:
+    - Revoga Artigo 4.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/42/1997/02/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:55:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 202/99; Decreto-Lei
+    n.º 366/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-42-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -467,33 +483,9 @@ Funções de coordenação
 
 ###### Artigo 4.º — Conselho de Administração Fiscal
 
-1 - É criado na DGCI o Conselho de Administração Fiscal (CAF), constituído pelo director-geral, que preside, pelos subdirectores-gerais e pelo director do Centro de Estudos Fiscais (CEF).
+(Revogado.)
 
-2 - Ao CAF incumbe pronunciar-se sobre todos os assuntos respeitantes à administração fiscal e à gestão dos respectivos serviços que lhes forem submetidos pelo Ministro das Finanças ou pelo director-geral, sendo obrigatória a sua audição nas seguintes matérias:
-
-a) Definição de políticas gerais de gestão dos recursos, em especial dos recursos humanos;
-
-b) Nomeação do pessoal dirigente, com excepção do director-geral, dos subdirectores-gerais e do director do CEF, nos casos em que o provimento dos lugares não dependa de concurso específico;
-
-c) Termo das comissões de serviço do pessoal dirigente, com excepção das do director-geral, dos subdirectores-gerais e do director do CEF, quando a iniciativa seja da Administração;
-
-d) Termo das comissões de serviço do pessoal de chefia tributária, nas circunstâncias referidas na alínea anterior;
-
-e) Apreciação das circunstâncias impeditivas da nomeação para cargos de chefia tributária referidas no n.º 7 do artigo 42.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, com a redacção dada pelo presente diploma;
-
-f) Aprovação ou alteração dos quadros de pessoal e dos regulamentos respeitantes à gestão dos recursos humanos;
-
-g) Criação ou alteração de serviços;
-
-h) Criação ou alteração de carreiras específicas da administração fiscal e alteração do regime do pessoal, neste caso quando o mesmo não decorra da lei geral;
-
-i) Emissão de instruções gerais visando a uniformização da aplicação das leis e procedimentos tributários;
-
-j) Proposta de orçamento da DGCI;
-
-l) Aprovação do relatório de actividades da DGCI.
-
-3 - O regulamento do CAF será aprovado por despacho do Ministro das Finanças.
+> Revogado pelo/a [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), publicado em 1999-09-18.
 
 ###### Artigo 5.º — Promoção de funcionários habilitados com curso superior
 
@@ -545,9 +537,7 @@ e) Desistência da situação de supranumerário.
 
 3 - Os lugares de origem dos funcionários promovidos nos termos do n.º 1 não podem ser preenchidos enquanto aqueles se mantiverem na repartição de finanças na nova categoria.
 
-###### Artigo 9.º — Exercício dos cargos de chefia tributária
-
-em regime de substituição
+###### Artigo 9.º — Exercício dos cargos de chefia tributária em regime de substituição
 
 1 - Os cargos de chefe e de adjunto de chefe de repartição de finanças serão exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.
 
@@ -560,6 +550,10 @@ em regime de substituição
 5 - O período de substituição conta, para todos os efeitos, como tempo de serviço prestado no cargo, bem como no lugar de origem.
 
 6 - O substituto terá direito à remuneração correspondente à sua antiguidade na categoria ou cargo de origem, dentro do desenvolvimento indiciário do cargo do substituído, bem como aos demais abonos e regalias atribuídos pelo exercício do referido cargo, independentemente da libertação das respectivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais.
+
+7 - Quando da aplicação da regra referida no número anterior resultar remuneração idêntica ou inferior à que o substituto já aufere, será atribuído um acréscimo remuneratório de 10 pontos a esta remuneração.
+
+> Alterado pelo/a [Decreto-Lei n.º 202/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1999-310796), publicado em 1999-06-09.
 
 ###### Artigo 10.º — Período de instalação
 

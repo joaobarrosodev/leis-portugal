@@ -31,10 +31,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-11-22'
+version_history:
+  file: decreto-lei-48879.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-11-22'
+    amending: pt:dre:631672:por
+    amending_title: Decreto-Lei n.º 515/71
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 4-5
+    - Altera Artigo unidades 6-7
 identifiers:
   celex: null
   eli: null
@@ -60,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:08:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 515/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-48879.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,15 +130,17 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O grau de licenciado em Medicina será conferido àqueles que tiverem obtido aprovação em todas as disciplinas do curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas e aproveitamento no 1.º ano do internato geral.
+Artigo 1.º - (Revogado.)
 
-Art. 2.º - 1. O programa do internato a que se refere o artigo 1.º e a escolha dos hospitais e serviços idóneos onde pode funcionar são da competência de comissões, com sede nas cidades onde haja Faculdade de Medicina, constituídas por representantes da Faculdade local, da Direcção-Geral dos Hospitais e da Ordem dos Médicos.
+> Alterado pelo/a [Decreto-Lei n.º 515/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1971-631672), publicado em 1971-11-22.
 
-2. O funcionamento dessas comissões será regulamentado, ouvida a Ordem dos Médicos, por meio de portaria conjunta dos Ministros da Educação Nacional e da Saúde e Assistência.
+Art. 2.º - (Revogado.)
 
-Art. 3.º - 1. A admissão ao internato geral dos hospitais será assegurada, mediante requerimento, a todos os que obtiverem aprovação nas disciplinas do curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas. A actividade dos que forem admitidos é exercida sob a responsabilidade do director do serviço onde funcione o internato.
+> Alterado pelo/a [Decreto-Lei n.º 515/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1971-631672), publicado em 1971-11-22.
 
-2. Nos quadros do pessoal dos hospitais centrais é eliminada a indicação do número de lugares do internato geral, o qual será fixado cada ano nos termos do n.º 4 do artigo 43.º do Regulamento Geral dos Hospitais, sendo o pagamento das remunerações aos que frequentam o internato feito por verba geral a inscrever para tal fim nos orçamentos dos referidos hospitais.
+Art. 3.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 515/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1971-631672), publicado em 1971-11-22.
 
 Art. 4.º O n.º 1.º do artigo 7.º e a alínea e) do artigo 16.º do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956, e modificado pelo [Decreto-Lei n.º 48587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48587-1968-264490), de 23 de Setembro de 1968, passam a ter a seguinte redacção:
 

@@ -39,10 +39,48 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-09-18'
+version_history:
+  file: decreto-legislativo-regional-2-2007-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-18'
+    amending: pt:dre:70325360:por
+    amending_title: Decreto Legislativo Regional n.º 22/2015/A
+    changes:
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::1.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::2.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::3.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::4.º
+    - Adita Artigo ANEXO I — (a que se refere o artigo 3.º)::4.º-A
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::5.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::6.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::7.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::8.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::9.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::10.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::11.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::12.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::13.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::14.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::15.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::16.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::17.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::18.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::19.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::21.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::22.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::23.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::24.º
+    - Altera Artigo ANEXO I — (a que se refere o artigo 3.º)::25.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2007/01/24/a/dre/pt/html
@@ -68,7 +106,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:20:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    22/2015/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2007/decreto-legislativo-regional-2-2007-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -888,35 +927,51 @@ Estatutos
 
 ###### Artigo 1.º — Natureza e duração
 
-1 - O hospital E. P. E. é uma pessoa colectiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
+1 - O hospital EPER. é uma pessoa coletiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do Regime Jurídico do Setor Público Empresarial da Região Autónoma dos Açores, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
 
-2 - O hospital E. P. E. é ainda dotado de autonomia técnica.
+2 - O hospital EPER. é ainda dotado de autonomia técnica.
 
-3 - O hospital E. P. E. é constituído por tempo indeterminado.
+3 - O hospital EPER. é constituído por tempo indeterminado.
 
-###### Artigo 2.º — Objecto
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-1 - O hospital E. P. E. tem por objecto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
+###### Artigo 2.º — Objeto
 
-2 - O hospital E. P. E. também tem por objecto desenvolver actividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respectiva capacidade formativa, podendo ser objecto de contratos de gestão em que se definam as respectivas formas de financiamento.
+1 - O hospital EPER. tem por objeto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
+
+2 - O hospital EPER. também tem por objeto desenvolver atividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respetiva capacidade formativa, podendo ser objeto de contratos de gestão em que se definam as respetivas formas de financiamento.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 3.º — Atribuições
 
-As atribuições do hospital E. P. E. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos de gestão, em articulação com as atribuições das demais instituições do sistema de saúde.
+As atribuições do hospital EPER. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos de gestão, em articulação com as atribuições das demais instituições do sistema de saúde.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 4.º — Capital estatutário
 
-1 - O capital estatutário do hospital E. P. E. é o fixado no apêndice I do regime que aprova os presentes estatutos.
+1 - O capital estatutário do hospital EPER. é o fixado no apêndice I do regime que aprova os presentes estatutos.
 
 2 - O capital estatutário é detido pela Região Autónoma dos Açores e é aumentado ou reduzido por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
-3 - Sem prejuízo do disposto na lei, os poderes da Região Autónoma dos Açores relativos ao hospital E. P. E. são exercidos pelos membros do Governo Regional competentes em razão da matéria, designadamente pelo membro do Governo Regional competente em matéria de finanças e ou pelo membro do Governo Regional competente em matéria de saúde.
+3 - Sem prejuízo do disposto na lei, os poderes da Região Autónoma dos Açores relativos ao hospital EPER. são exercidos pelos membros do Governo Regional competentes em razão da matéria, designadamente pelo membro do Governo Regional competente em matéria de finanças e ou pelo membro do Governo Regional competente em matéria de saúde.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
+###### Artigo 4.º-A — Sede
+
+1 - A sede do hospital, EPER., é a fixada no apêndice I do regime que aprova os presentes estatutos.
+
+2 - A sede do hospital, EPER., é alterada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ### CAPÍTULO II — Órgãos sociais
 
 ###### Artigo 5.º — Órgãos
 
-São órgãos do hospital E. P. E.:
+São órgãos do hospital EPER.:
 
 a) O conselho de administração;
 
@@ -924,15 +979,19 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 #### SECÇÃO I — Conselho de administração
 
 ###### Artigo 6.º — Composição e mandato
 
-1 - O conselho de administração é composto pelo presidente e um máximo de seis vogais, em função da dimensão e complexidade do hospital E. P. E., sendo um deles, obrigatoriamente, o director clínico e outro o enfermeiro-director.
+1 - O conselho de administração é composto pelo presidente e um máximo de seis vogais, em função da dimensão e complexidade do hospital EPER., sendo um deles, obrigatoriamente, o diretor clínico e outro o enfermeiro-diretor.
 
-2 - Os membros do conselho de administração são nomeados por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde de entre individualidades de reconhecido mérito e perfil adequado, sendo o director clínico um médico e o enfermeiro-director um enfermeiro.
+2 - Os membros do conselho de administração são nomeados nos termos previstos no Estatuto do Gestor Público Regional, sendo o diretor clínico um médico e o enfermeiro-diretor um enfermeiro.
 
-3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
+3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, nos termos previstos no número anterior, permanecendo aqueles no exercício das suas funções até efetiva substituição.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 7.º — Competências do conselho de administração
 
@@ -942,11 +1001,11 @@ a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, b
 
 b) Celebrar contratos de gestão externos e internos;
 
-c) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do hospital E. P. E. nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;
+c) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do hospital EPER. nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;
 
 d) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
 
-e) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do hospital E. P. E., independentemente do seu estatuto, bem como autorizar o respectivo pagamento;
+e) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do hospital EPER., independentemente do seu estatuto, bem como autorizar o respetivo pagamento;
 
 f) Designar o pessoal para cargos de direcção e chefia;
 
@@ -958,7 +1017,7 @@ i) Aprovar e submeter a homologação do membro do Governo Regional com competê
 
 j) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo do cumprimento das disposições aplicáveis;
 
-l) Acompanhar e avaliar sistematicamente a actividade desenvolvida pelo hospital E. P. E., designadamente responsabilizando os diferentes sectores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;
+l) Acompanhar e avaliar sistematicamente a atividade desenvolvida pelo hospital EPER., designadamente responsabilizando os diferentes setores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;
 
 m) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;
 
@@ -970,13 +1029,15 @@ p) Exercer a competência em matéria disciplinar prevista na lei, independentem
 
 q) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
 
-r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa do hospital E. P. E.;
+r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa do hospital EPER.;
 
 s) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, previstas no plano de investimentos.
 
-2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direcção superior de 1.º grau relativamente aos funcionários e agentes da Administração Pública.
+2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direção superior de 1.º grau relativamente aos trabalhadores da Administração Pública com relação jurídica de emprego público.
 
 3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direcção e chefia, com excepção das previstas nas alíneas a) a j) do n.º 1, definindo em acta os limites e condições do seu exercício.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 8.º — Presidente do conselho de administração
 
@@ -988,15 +1049,17 @@ b) Garantir a correcta execução das deliberações do conselho de administraç
 
 c) Submeter a aprovação ou a autorização dos membros do Governo Regional competentes todos os actos que delas careçam;
 
-d) Representar o hospital E. P. E. em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+d) Representar o hospital EPER. em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
 
 e) Exercer as competências que lhe sejam delegadas.
 
 2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
 
-###### Artigo 9.º — Director clínico
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-Ao director clínico compete a direcção de produção clínica do hospital E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde prestados, designadamente:
+###### Artigo 9.º — Diretor clínico
+
+Ao diretor clínico compete a direção de produção clínica do hospital EPER., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:
 
 a) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços e departamentos de acção médica a integrar no plano de acção global do hospital;
 
@@ -1020,11 +1083,13 @@ j) Velar pela constante actualização do pessoal médico;
 
 l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.
 
-###### Artigo 10.º — Enfermeiro-director
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem do hospital E. P. E., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
+###### Artigo 10.º — Enfermeiro-diretor
 
-a) Coordenar a elaboração dos planos de acção de enfermagem apresentados pelos vários serviços a integrar no plano de acção global do hospital E. P. E.;
+Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem do hospital EPER., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
+
+a) Coordenar a elaboração dos planos de ação de enfermagem apresentados pelos vários serviços a integrar no plano de ação global do hospital EPER.;
 
 b) Colaborar com o director clínico na compatibilização dos planos de acção dos diferentes serviços de acção médica;
 
@@ -1042,41 +1107,47 @@ h) Elaborar estudos para determinação de custos e benefícios no âmbito dos c
 
 i) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da actividade de enfermagem e com a formação dos enfermeiros.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 ###### Artigo 11.º — Funcionamento do conselho de administração
 
 1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
 
-2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do hospital E. P. E.
+2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do hospital EPER..
 
 3 - O presidente do conselho de administração tem voto de qualidade.
 
 4 - Das reuniões do conselho de administração devem ser lavradas actas, a aprovar na reunião seguinte.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 ###### Artigo 12.º — Vinculação
 
-O hospital E. P. E. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
+O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 13.º — Estatuto dos membros
 
-1 - Aos membros do conselho de administração aplica-se o estatuto de gestor público, sem prejuízo do disposto no artigo 23.º do Estatuto do Serviço Regional de Saúde.
+1 - Aos membros do conselho de administração aplica-se o regime previsto no Estatuto do Gestor Público Regional, sem prejuízo do disposto no artigo 23.º do Estatuto do Serviço Regional de Saúde.
 
-2 - A remuneração dos membros do conselho de administração do hospital E. P. E. é fixada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde e varia em função da complexidade de gestão.
+2 - A remuneração dos membros do conselho de administração do hospital EPER. é fixada nos termos previstos no Estatuto do Gestor Público Regional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 14.º — Dissolução do conselho de administração
 
-1 - Os membros do Governo Regional com competências em matérias de finanças e saúde podem dissolver o conselho de administração nos seguintes casos:
+1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.
 
-a) Desvio substancial entre os orçamentos e a respectiva execução;
+2 - (Revogado.)
 
-b) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados.
-
-2 - Não há lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas adequadas para evitar a verificação dos factos referidos no número anterior.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 #### SECÇÃO II — Fiscal único
 
 ###### Artigo 15.º — Fiscal único
 
-1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital E. P. E.
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital EPER..
 
 2 - O fiscal único é nomeado por despacho conjunto dos membros do Governo Regional com competência em matérias de finanças e saúde obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por um período de três anos, renovável.
 
@@ -1085,6 +1156,8 @@ b) Deterioração dos resultados da actividade, incluindo a qualidade dos servi�
 4 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à posse do respectivo substituto.
 
 5 - A remuneração do fiscal único é fixada por despacho conjunto dos membros do Governo Regional com competências em matéria de finanças e saúde.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 16.º — Competências
 
@@ -1112,13 +1185,15 @@ i) Elaborar relatórios da sua acção fiscalizadora, incluindo relatórios trim
 
 j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;
 
-l) Verificar se os critérios valorimétricos adoptados pelo hospital E. P. E. conduzem a uma correcta avaliação do património e dos resultados.
+l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. conduzem a uma correta avaliação do património e dos resultados.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 #### SECÇÃO III — Auditor
 
 ###### Artigo 17.º — Auditor
 
-1 - No hospital E. P. E. deve existir um auditor com a devida qualificação ou experiência devidamente comprovada na área, designado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde a quem compete proceder ao controlo interno nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos.
+1 - No hospital EPER. deve existir um auditor com a devida qualificação ou experiência devidamente comprovada na área, designado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde, a quem compete proceder ao controlo interno nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos.
 
 2 - No âmbito das suas funções, o auditor deve fornecer ao conselho de administração análises e recomendações sobre as actividades revistas para a melhoria do funcionamento dos serviços e propor a realização de auditorias por entidades terceiras.
 
@@ -1132,9 +1207,11 @@ l) Verificar se os critérios valorimétricos adoptados pelo hospital E. P. E. c
 
 7 - O auditor elabora, semestralmente, um relatório sobre a actividade desenvolvida em que se refiram os controlos efectuados, as anomalias detectadas e as medidas correctivas a adoptar, que deve ser submetido por este aos membros do Governo Regional com competências em matéria de finanças e saúde, com conhecimento ao conselho de administração.
 
-8 - A actividade do auditor deve ser articulada com a da Inspecção Administrativa Regional e da Inspecção Regional de Saúde.
+8 - A atividade do auditor deve ser articulada com a da Inspeção Regional da Administração Pública e da Inspeção Regional de Saúde.
 
-9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital E. P. E., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
+9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital EPER., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 #### SECÇÃO IV — Conselho consultivo
 
@@ -1148,11 +1225,11 @@ b) Um representante da respectiva unidade de saúde de ilha;
 
 c) Um representante dos utentes, designado pela respectiva associação ou por equivalente estrutura de representação;
 
-d) Um representante eleito pelos trabalhadores do hospital E. P. E.;
+d) Um representante eleito pelos trabalhadores do hospital EPER.;
 
-e) Um representante dos prestadores de trabalho voluntário no hospital E. P. E., entre estes eleito, quando existam;
+e) Um representante dos prestadores de trabalho voluntário no hospital EPER., entre estes eleito, quando existam;
 
-f) Dois elementos, escolhidos pelo conselho de administração do hospital E. P. E., que sejam profissionais de saúde sem vínculo ao mesmo;
+f) Dois elementos, escolhidos pelo conselho de administração do hospital EPER., que sejam profissionais de saúde sem vínculo ao mesmo;
 
 g) Um representante da estrutura responsável pelo planeamento e gestão do sistema regional de saúde.
 
@@ -1162,7 +1239,9 @@ g) Um representante da estrutura responsável pelo planeamento e gestão do sist
 
 4 - O mandato dos membros do conselho consultivo tem a duração de três anos, sem prejuízo da possibilidade da sua substituição, a todo o tempo, pelas entidades que os designaram ou elegeram.
 
-5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo hospital E. P. E.
+5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo hospital EPER..
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 19.º — Competências do conselho consultivo
 
@@ -1170,9 +1249,11 @@ Compete ao conselho consultivo:
 
 a) Apreciar os planos de actividade de natureza anual e plurianual;
 
-b) Apreciar as informações necessárias para o acompanhamento da actividade do hospital E. P. E.;
+b) Apreciar as informações necessárias para o acompanhamento da atividade do hospital EPER.;
 
 c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 20.º — Funcionamento do conselho consultivo
 
@@ -1190,7 +1271,7 @@ c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a 
 
 1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
 
-2 - Em cada hospital E. P. E. são imperativamente constituídas as seguintes comissões:
+2 - Em cada hospital EPER. são imperativamente constituídas as seguintes comissões:
 
 a) Ética;
 
@@ -1204,11 +1285,13 @@ d) Farmácia e terapêutica.
 
 4 - Compete ao conselho de administração, sob proposta do director clínico, a designação do presidente e dos membros das comissões de apoio técnico.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 ### CAPÍTULO III — Avaliação, controlo e prestação de contas
 
 ###### Artigo 22.º — Instrumentos de gestão previsional
 
-A gestão financeira e patrimonial do hospital E. P. E. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+A gestão financeira e patrimonial do hospital EPER. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
 
 a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
 
@@ -1224,9 +1307,11 @@ f) Contratos de gestão externos;
 
 g) Contratos-programa internos.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 ###### Artigo 23.º — Reservas e fundos
 
-1 - O hospital E. P. E. deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
+1 - O hospital EPER. deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
 
 a) Reserva legal;
 
@@ -1240,17 +1325,21 @@ b) Reserva para investimentos.
 
 a) A parte dos resultados apurados em cada exercício que lhe for anualmente destinado;
 
-b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que o hospital E. P. E. seja beneficiário e destinadas a esse fim.
+b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que o hospital EPER. seja beneficiário e destinadas a esse fim.
 
 5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
 ###### Artigo 24.º — Contabilidade
 
-O hospital E. P. E. segue o Plano Oficial de Contabilidade do Ministério da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
+O hospital EPER. segue o Plano Oficial de Contabilidade do Setor da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ###### Artigo 25.º — Documentos de prestação de contas
 
-Os instrumentos de prestação de contas do hospital E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:
+Os instrumentos de prestação de contas do hospital EPER., a elaborar anualmente com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:
 
 a) Relatório do conselho de administração e proposta de aplicação dos resultados;
 
@@ -1269,6 +1358,8 @@ g) Relação dos empréstimos contraídos a médio e longo prazos;
 h) Certificação legal de contas;
 
 i) Relatório e parecer do fiscal único.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 

@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-10-22'
+version_history:
+  file: decreto-lei-118-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-10-22'
+    amending: pt:dre:376060:por
+    amending_title: Decreto-Lei n.º 429/82
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Adita Artigo 24.º
+    - Altera Artigo ANEXO 1 — Tabela de pontuação dos agrupamentos de municípios para efeitos de repartição de encargos a
+      que se refere o n.º 2 do artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:41:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 429/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-118-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,11 +144,15 @@ Assim:
 
 O Governo decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Definição)
+###### Artigo 1.º — (Definição)
 
-Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.
+1 - Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.
 
-###### ARTIGO 2.º — (Iniciativa)
+2 - Os empreendimentos que satisfaçam os requisitos previstos no n.º 1 só poderão beneficiar do regime agora estabelecido se forem lançados após a entrada em vigor do presente diploma e não tiverem sido concluídos na data da sua propositura, nos termos referidos nos artigos 10.º a 14.º do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
+
+###### Artigo 2.º — (Iniciativa)
 
 1 - A iniciativa de realização de empreendimentos intermunicipais caberá aos municípios ou aos departamentos da administração central.
 
@@ -136,13 +160,13 @@ Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e fina
 
 3 - Os empreendimentos intermunicipais que se encontrem nas condições referidas no número anterior e sejam aceites pelos municípios interessados serão por estes propostos nas mesmas condições daqueles que partam da sua própria iniciativa.
 
-###### ARTIGO 3.º — (Municípios interessados)
+###### Artigo 3.º — (Municípios interessados)
 
 1 - Os empreendimentos intermunicipais serão obrigatoriamente propostos e financiados por 2 ou mais municípios.
 
 2 - Exceptua-se do disposto no número anterior a realização de estações de tratamento de águas residuais, lixos e esgotos, nos casos em que tenham efeitos indirectos noutros municípios, nos termos de parecer emitido pela Secretaria de Estado das Obras Públicas, e a instalação de forças de segurança e bombeiros.
 
-###### ARTIGO 4.º — (Sectores de investimento)
+###### Artigo 4.º — (Sectores de investimento)
 
 1 - Os empreendimentos intermunicipais deverão enquadrar-se nos sectores prioritários de investimento definidos por despacho normativo conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Administração Interna e da Habitação, Obras Públicas e Transportes.
 
@@ -152,7 +176,7 @@ Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e fina
 
 4 - O despacho a que se refere o n.º 1 poderá ser revisto anualmente ou na sequência da aprovação dos planos de médio prazo e exclusivamente no sentido de acrescentar sectores de investimento aos inicialmente definidos, procedendo-se aos ajustamentos necessários no período subsequente.
 
-###### ARTIGO 5.º — (Projectos aprovados)
+###### Artigo 5.º — (Projectos aprovados)
 
 1 - A colaboração técnica e financeira da administração central em empreendimentos intermunicipais dependerá da existência de projectos aprovados.
 
@@ -208,21 +232,25 @@ c) Ministérios dos Assuntos Sociais e da Habitação, Obras Públicas e Transpo
 
 d) Ministério da Agricultura, Comércio e Pescas, nas situações referidas na alínea h) do n.º 3.
 
-###### ARTIGO 6.º — (Limiares mínimos de investimento)
+###### Artigo 6.º — (Limiares mínimos de investimento)
 
 A colocação técnica e financeira da administração central em empreendimentos intermunicipais dependerá da observância dos limiares mínimos de investimento a que se refere o n.º 1 do artigo 9.º do presente diploma.
 
-###### ARTIGO 7.º — (Repartição de encargos)
+###### Artigo 7.º — (Repartição de encargos)
 
 1 - A repartição de encargos entre a administração central e os municípios atenderá ao interesse regional dos empreendimentos e à capacidade de financiamento dos municípios interessados.
 
 2 - O interesse regional do empreendimento intermunicipal é avaliado pela pontuação atribuída ao agrupamento de municípios onde será implantado, de acordo com a tabela constante do anexo 1.
 
-3 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada, ponderada pela respectiva participação nos encargos com o empreendimento intermunicipal.
+3 - No caso de o empreendimento intermunicipal envolver 2 ou mais municípios integrados em agrupamentos de municípios diferentes, o indicador a que se refere o número anterior é determinado pela média das pontuações de interesse regional de cada um dos agrupamentos, ponderadas pela respectiva participação nos encargos com o empreendimento.
 
-4 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.
+4 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada.
 
-###### ARTIGO 8.º — (Distribuição regional das disponibilidades orçamentais)
+5 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
+
+###### Artigo 8.º — (Distribuição regional das disponibilidades orçamentais)
 
 1 - A dotação orçamental para empreendimentos intermunicipais será inscrita no programa de investimentos e despesas de desenvolvimento da administração central, através do Ministério das Finanças e do Plano.
 
@@ -232,9 +260,11 @@ A colocação técnica e financeira da administração central em empreendimento
 
 4 - A parcela da dotação orçamental disponível para financiamento de novos empreendimentos intermunicipais será distribuída regionalmente para utilização na área de actuação de cada comissão de coordenação regional, de acordo com a percentagem da soma das pontuações atribuídas aos respectivos agrupamentos de municípios na globalidade das pontuações que lhe são atribuídas pelo anexo 1 ao presente diploma.
 
-5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º
+5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º, não havendo lugar à reposição nos cofres do Estado de eventuais saldos não utilizados no ano da respectiva transferência.
 
-###### ARTIGO 9.º — (Propostas regionais de regulamentação)
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
+
+###### Artigo 9.º — (Propostas regionais de regulamentação)
 
 1 - Compete às comissões de coordenação regional, ouvidos os respectivos conselhos consultivos regionais, propor ao Ministro de Estado e das Finanças e do Plano e ao Ministro da Administração Interna projectos de despacho normativo contendo o estabelecimento de prioridades a fixar anualmente para as respectivas áreas de actuação, no que respeita ao ordenamento dos sectores de investimento referidos no artigo 4.º e dos agrupamentos de municípios nelas integrados, bem como os limiares mínimos de investimento relativos a cada empreendimento intermunicipal.
 
@@ -242,7 +272,7 @@ A colocação técnica e financeira da administração central em empreendimento
 
 3 - Os projectos de despacho normativo a que se refere o presente artigo serão apresentados conjuntamente com as actas das correspondentes reuniões dos conselhos consultivos regionais.
 
-###### ARTIGO 10.º — (Elaboração de propostas pelos municípios)
+###### Artigo 10.º — (Elaboração de propostas pelos municípios)
 
 1 - As câmaras municipais interessadas apresentarão as propostas de empreendimentos intermunicipais em reunião dos presidentes dos órgãos executivos dos municípios integrados nos agrupamentos de municípios definidos pelo [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, para efeitos de ordenação de acordo com as prioridades de investimento aí definidas.
 
@@ -256,33 +286,33 @@ A colocação técnica e financeira da administração central em empreendimento
 
 6 - As comissões de coordenação regional fornecerão o apoio técnico solicitado pelos municípios, designadamente nas situações a que se refere o número anterior.
 
-###### ARTIGO 11.º — (Apresentação de propostas pelos municípios)
+###### Artigo 11.º — (Apresentação de propostas pelos municípios)
 
 As propostas ordenadas de empreendimentos intermunicipais serão anualmente apresentadas às respectivas comissões de coordenação regional nos termos definidos no anexo 2 do presente diploma.
 
-###### ARTIGO 12.º — (Elaboração de propostas de programa regional de empreendimentos intermunicipais)
+###### Artigo 12.º — (Elaboração de propostas de programa regional de empreendimentos intermunicipais)
 
 1 - Compete às comissões de coordenação regional, com o apoio do Ministério das Finanças e do Plano, ouvidos os respectivos conselhos consultivos regionais, elaborar as propostas de programas regionais de empreendimentos intermunicipais.
 
 2 - Os programas regionais a que se refere o número anterior articularão as pontuações atribuídas aos empreendimentos intermunicipais nos termos do n.º 2 do artigo 10.º e do n.º 2 do artigo 9.º com as disponibilidades financeiras a que se reporta o artigo 8.º do presente diploma.
 
-###### ARTIGO 13.º — (Apresentação das propostas de programas regionais)
+###### Artigo 13.º — (Apresentação das propostas de programas regionais)
 
 As propostas de programas regionais de empreendimentos intermunicipais serão anualmente apresentadas ao ministro de Estado e das Finanças e do Plano e ao Ministro da Administração Interna, nos termos definidos no anexo 3 ao presente diploma.
 
-###### ARTIGO 14.º — (Programa anual de empreendimentos intermunicipais)
+###### Artigo 14.º — (Programa anual de empreendimentos intermunicipais)
 
 1 - O programa anual de empreendimentos intermunicipais será estabelecido mediante a homologação, por despacho do Ministro de Estado e das Finanças e do Plano e do Ministro da Administração Interna, das propostas de programas regionais de empreendimentos intermunicipais.
 
 2 - O programa homologado a que se refere o número anterior será publicado no Diário da República, devendo adequar-se temporalmente à preparação do Orçamento Geral do Estado e do programa de investimentos e despesas de desenvolvimento da administração central.
 
-###### ARTIGO 15.º — (Dono da obra)
+###### Artigo 15.º — (Dono da obra)
 
 1 - A responsabilidade pela execução do empreendimento intermunicipal competirá à câmara municipal designada pelos municípios interessados.
 
 2 - Poderão os municípios interessados transferir a responsabilidade pela execução dos empreendimentos intermunicipais para os serviços competentes da administração central, mediante a sua prévia anuência.
 
-###### ARTIGO 16.º — (Processamento de encargos)
+###### Artigo 16.º — (Processamento de encargos)
 
 1 - O processamento da participação financeira da administração central será efectuado pela comissão de coordenação regional respectiva a favor do dono da obra, mediante a apresentação de autos de medição, e em quantitativo equivalente ao da aplicação da percentagem de participação financeira da administração central definida no n.º 4 do artigo 7.º ao montante referido no respectivo auto de medição.
 
@@ -292,13 +322,13 @@ As propostas de programas regionais de empreendimentos intermunicipais serão an
 
 4 - Os processamentos relativos à participação financeira da administração central não se realizarão depois de decorrido o prazo de conclusão dos empreendimentos previstos na respectiva programação física e financeira, salvo quando ocorram atrasos justificados que não sejam da responsabilidade do dono da obra.
 
-###### ARTIGO 17.º — (Relatório de execução)
+###### Artigo 17.º — (Relatório de execução)
 
 1 - O dono da obra de cada empreendimento intermunicipal elaborará semestralmente relatórios da respectiva execução física e financeira, bem como um relatório final, que remeterá aos demais municípios interessados e à respectiva comissão de coordenação regional.
 
 2 - Cada comissão de coordenação regional elaborará sínteses desses relatórios, que remeterá aos municípios que integram a respectiva área de actuação e aos Ministérios da Administração Interna e das Finanças e do Plano.
 
-###### ARTIGO 18.º — (Registos contabilísticos)
+###### Artigo 18.º — (Registos contabilísticos)
 
 1 - As transferências para as comissões de coordenação regional a que alude o n.º 4 do artigo 8.º, relativas à participação financeira da administração central no programa anual de empreendimentos intermunicipais, serão contabilizadas em conta de ordem, através da elaboração de orçamentos suplementares.
 
@@ -308,31 +338,37 @@ As propostas de programas regionais de empreendimentos intermunicipais serão an
 
 4 - Os orçamentos suplementares a que se refere o n.º 1 não contam para efeitos do limite estabelecido no n.º 4 do artigo 13.º do [Decreto-Lei n.º 494/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886), de 4 de Dezembro.
 
-###### ARTIGO 19.º — (Acompanhamento e assistência técnica)
+###### Artigo 19.º — (Acompanhamento e assistência técnica)
 
 1 - O acompanhamento da execução de empreendimentos intermunicipais é da competência das comissões de coordenação regional e dos gabinetes de apoio técnico.
 
 2 - Os municípios responsáveis pela execução de empreendimentos intermunicipais poderão solicitar a assistência técnica dos serviços competentes da administração central.
 
-###### ARTIGO 20.º — (Trabalhos a mais)
+###### Artigo 20.º — (Trabalhos a mais)
 
 A colaboração financeira da administração central em empreendimentos intermunicipais não compreende os encargos resultantes de trabalhos a mais, que serão integralmente suportados pelos municípios interessados.
 
-###### ARTIGO 21.º — (Titularidade do património)
+###### Artigo 21.º — (Titularidade do património)
 
 O património e os equipamentos públicos afectos a empreendimentos intermunicipais constituem, salvo acordo em contrário, património dos municípios.
 
-###### ARTIGO 22.º — (Funcionamento e conservação)
+###### Artigo 22.º — (Funcionamento e conservação)
 
 1 - O funcionamento dos serviços públicos instalados nos equipamentos relativos a empreendimentos intermunicipais, bem como a respectiva conservação, são, salvo acordo em contrário, da responsabilidade dos municípios interessados.
 
 2 - O funcionamento e a conservação a que se refere o número anterior serão, em regra, assegurados por associações de municípios constituídas nos termos da lei.
 
-###### ARTIGO 23.º — (Revogação)
+###### Artigo 23.º — (Revogação)
 
 1 - São revogados o [Decreto-Lei n.º 296/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1980-470788), de 16 de Agosto, os Despachos Normativos n.os [307/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/307-1980-460630) e [324/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/324-1980-462177), de 20 de Setembro e de 7 de Outubro, respectivamente, e os despachos conjuntos dos Secretários de Estado da Administração Regional e Local e do Planeamento de 14 de Abril de 1981 e de 23 de Julho de 1981, publicados, respectivamente, nos Diário da República, 2.ª série, n.os 108, de 12 de Maio de 1981, e 180, de 7 de Agosto seguinte.
 
 2 - Os processamentos previstos na legislação agora revogada serão assegurados até ao final da execução do programa de empreendimentos intermunicipais de 1981.
+
+###### Artigo 24.º
+
+As dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano.
+
+> Aditado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
@@ -344,7 +380,9 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Tabela de pontuação dos agrupamentos de municípios para efeitos de repartição de encargos a que se refere o n.º 2 do artigo 7.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09000/09160930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ## ANEXO 2 — Lista dos documentos a enviar pelos agrupamentos de municípios às comissões de coordenação regional, a que se refere o artigo 11.º
 

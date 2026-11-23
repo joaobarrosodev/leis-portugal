@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:580344:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "10ceccc5b68db0f7"
+   ]
+  },
+  {
+   "date": "2005-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233721:por",
+     "title": "Decreto-Lei n.º 105/2005",
+     "published": "2005-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2005-233721"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Adita Artigo 12.º"
+   ],
+   "fragments": [
+    "a667b1e6d7e7d37d",
+    "c684ba4edb790ce5",
+    "45f3b0fc770146c1",
+    "55f52b20d9f46d8b",
+    "6dc5b5f9c57a9506",
+    "5ac8870e83bd651b",
+    "484f101eff419fbc",
+    "93166ba22f878778",
+    "0ccf71c5d6bb80dd",
+    "a389e518e5bbebb4",
+    "e685a572faa3cceb",
+    "b694d28b46e755b9",
+    "087ca24ce6aa8ad2"
+   ]
+  }
+ ],
+ "fragments": {
+  "10ceccc5b68db0f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Julho\n\nA Marinha, para cumprimento das atribuições que lhe estão cometidas, necessita de navios e embarcações que, pelas suas características ou natureza do serviço a que se destinam, constituem meios auxiliares a que não é aplicável o estatuto de unidade naval.\n\nPor outro lado, o vínculo permanente e específico a que esses meios estão sujeitos, resultante de as tarefas que lhes cabem serem complementares das actividades primordiais da Marinha, também não lhes permite aplicar, plenamente, o regime jurídico regulador das embarcações do Estado não pertencentes à Armada.\n\nTorna-se, assim, necessário estabelecer um quadro legal definidor do estatuto a que devem ficar sujeitos aqueles navios e embarcações, por adequação do regime jurídico das embarcações do Estado legalmente estabelecido.\n\nAssim:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:\n\nArtigo 1.º Designam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais.\n\nArt. 2.º A aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada.\n\nArt. 3.º Anualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior.\n\nArt. 4.º Em cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha.\n\nArt. 5.º - 1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:\n\na) Nome;\n\nb) Indicativo visual ou número de amura;\n\nc) Indicativo radiotelegráfico;\n\nd) Endereço radiotelegráfico.\n\n2 - Os elementos de identificação a que se refere o número anterior são determinados pelo Chefe do Estado-Maior da Armada e constarão do despacho mencionado no artigo 2.º que aumenta as unidades auxiliares ao efectivo.\n\nArt. 6.º As unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».\n\nArt. 7.º As unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais.\n\nArt. 8.º - 1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.\n\n2 - De acordo com as características e com as tarefas atribuídas àquelas unidades, poderão as referidas lotações incluir pessoal militar ou outro dos quadros do pessoal da Marinha.\n\nArt. 9.º As unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário.\n\nArt. 10.º As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa.\n\nArt. 11.º A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.\n\nVisto e aprovado em Conselho da Revolução em 12 de Junho de 1981.\n\nPromulgado em 23 de Junho de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "a667b1e6d7e7d37d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Julho\n\nA Marinha, para cumprimento das atribuições que lhe estão cometidas, necessita de navios e embarcações que, pelas suas características ou natureza do serviço a que se destinam, constituem meios auxiliares a que não é aplicável o estatuto de unidade naval.\n\nPor outro lado, o vínculo permanente e específico a que esses meios estão sujeitos, resultante de as tarefas que lhes cabem serem complementares das actividades primordiais da Marinha, também não lhes permite aplicar, plenamente, o regime jurídico regulador das embarcações do Estado não pertencentes à Armada.\n\nTorna-se, assim, necessário estabelecer um quadro legal definidor do estatuto a que devem ficar sujeitos aqueles navios e embarcações, por adequação do regime jurídico das embarcações do Estado legalmente estabelecido.\n\nAssim:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:"
+  },
+  "c684ba4edb790ce5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nDesignam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais."
+  },
+  "45f3b0fc770146c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada."
+  },
+  "55f52b20d9f46d8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAnualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior."
+  },
+  "6dc5b5f9c57a9506": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEm cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha."
+  },
+  "5ac8870e83bd651b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:\n\na) Nome;\n\nb) Indicativo visual ou número de amura;\n\nc) Indicativo radiotelegráfico;\n\nd) Endereço radiotelegráfico.\n\n2 - Os elementos de identificação a que se refere o número anterior são determinados pelo Chefe do Estado-Maior da Armada e constarão do despacho mencionado no artigo 2.º que aumenta as unidades auxiliares ao efectivo."
+  },
+  "484f101eff419fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - As unidades auxiliares têm pintada no seu costado ou nas superstruturas, num e noutro bordo, a meia-nau, de forma bem visível, a palavra «MARINHA».\n\n2 - As unidades auxiliares atribuídas à Polícia Marítima têm ainda pintadas com cor preta as palavras 'POLÍCIA MARÍTIMA'.\n\n> Alterado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29."
+  },
+  "93166ba22f878778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais."
+  },
+  "0ccf71c5d6bb80dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.\n\n2 - De acordo com as características e com as tarefas atribuídas àquelas unidades, poderão as referidas lotações incluir pessoal militar ou outro dos quadros do pessoal da Marinha."
+  },
+  "a389e518e5bbebb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário."
+  },
+  "e685a572faa3cceb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa."
+  },
+  "b694d28b46e755b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada."
+  },
+  "087ca24ce6aa8ad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29."
+   ],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.\n\n> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.\n\nVisto e aprovado em Conselho da Revolução em 12 de Junho de 1981.\n\nPromulgado em 23 de Junho de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

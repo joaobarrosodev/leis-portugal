@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:355098:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b48901e858985394",
+    "7aed1c156cd32755",
+    "6175040d744fa292",
+    "5404e3cf32e9d025",
+    "e86c269e7ed77f29",
+    "b002f878a3b9dba3",
+    "fa9a27dc8d31c8e0",
+    "753d87898fe4a700",
+    "42f9c253b1c5625f",
+    "5472003438e9ef22",
+    "0edfad463bbd5edd",
+    "a980d9d260bb9395",
+    "d1fbb5d890ade747"
+   ]
+  },
+  {
+   "date": "2000-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229285:por",
+     "title": "Decreto-Lei n.º 26/98",
+     "published": "1998-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/26-1998-229285"
+    },
+    {
+     "id": "pt:dre:414405:por",
+     "title": "Decreto-Lei n.º 13/2000",
+     "published": "2000-02-21",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2000-414405"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "b48901e858985394",
+    "7aed1c156cd32755",
+    "48a60c52bc25acf6",
+    "2c78de7b74015f5a",
+    "e86c269e7ed77f29",
+    "b002f878a3b9dba3",
+    "fa9a27dc8d31c8e0",
+    "753d87898fe4a700",
+    "42f9c253b1c5625f",
+    "5472003438e9ef22",
+    "0edfad463bbd5edd",
+    "a980d9d260bb9395",
+    "2e01dd6bed5d9e3a"
+   ]
+  }
+ ],
+ "fragments": {
+  "b48901e858985394": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Outubro\n\nO incêndio que, recentemente, deflagrou na zona histórica do Chiado, em Lisboa, provocou a destruição de uma vasta área, com avultados prejuízos, que, em termos gerais, ultrapassam a capacidade dos entes privados envolvidos.\n\nAliás, as consequências deste incêndio atingem um inestimável património cultural, que, manifestamente, transcende o âmbito localizado do sinistro, conferindo-lhe uma indiscutível dimensão nacional.\n\nDaí que, sem prejuízo do pleno exercício das competências que, nesta matéria, cabem à Câmara Municipal de Lisboa, se imponha a acção do Governo no sentido de apoiar o restauro da zona atingida.\n\nA fim de garantir os necessários níveis de coerência e de eficácia a esta acção, afigura-se aconselhável que as verbas que venham a ser atribuídas pelo Governo sejam veiculadas por um único organismo, ao qual seja cometida a missão específica de conceder auxílios financeiros à reconstrução da área sinistrada e à recuperação dos estabelecimentos comerciais.\n\nO presente diploma cria, pois, o Fundo Extraordinário de Ajuda à Reconstrução do Chiado (FEARC), desde já dotado com 5 milhões de contos pelo Orçamento do Estado.\n\nO FEARC pode receber e aplicar, igualmente, outros auxílios financeiros que, independentemente da sua natureza e proveniência, se destinem a concorrer para o mesmo objectivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7aed1c156cd32755": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado, com sede em Lisboa, o Fundo Extraordinário de Ajuda à Reconstrução do Chiado, abreviadamente designado por FEARC, pessoa colectiva de direito público, dotada de personalidade jurídica, património próprio e autonomia administrativa e financeira."
+  },
+  "6175040d744fa292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto e formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto e formas de apoio\n\n1 - Constitui objecto do FEARC a concessão de auxílios financeiros à reconstrução da zona de Lisboa sinistrada pelo incêndio de 25 de Agosto de 1988, bem como à recuperação das actividades económicas aí estabelecidas.\n\n2 - Sem prejuízo do disposto nos n.os 3 e 4 do artigo 4.º, quanto a fundos consignados, e do disposto no n.º 6 seguinte, o apoio a prestar pelo FEARC só pode revestir a forma de bonificações de juro e garantias no âmbito de linhas de crédito a regulamentar pelo Banco de Portugal e destinadas a financiar qualquer dos fins seguintes:\n\na) Obras de demolição e segurança prévias às obras de reconstrução;\n\nb) Projectos de arquitectura e engenharia;\n\nc) Obras de reparação e reconstrução aprovadas pelas autoridades competentes;\n\nd) Recheios de habitação;\n\ne) Reconstituição de stocks;\n\nf) Reequipamento e reinstalação de estabelecimentos;\n\ng) Reintegração de fundo de maneio.\n\n3 - Caberá às instituições de crédito executar as linhas de crédito referidas no número anterior e decidir, caso a caso, as operações de financiamento, podendo os bancos comerciais ultrapassar, para o efeito, o limite de dez anos.\n\n4 - A bonificação de juro é igual a metade da taxa contratual do financiamento e a sua duração não pode ultrapassar dez anos, nas situações das alíneas a) e c), e cinco anos, nas das restantes alíneas do n.º 2.\n\n5 - Além do crédito bancário, poderão ser abrangidas pelos benefícios outras formas de financiamento, como o obrigacionista ou de instituições parabancárias, mediante regulamentação a estabelecer pelo Fundo.\n\n6 - Pode ainda o FEARC participar, a título excepcional, no capital social das pequenas e médias empresas atingidas, até ao limite de 49%, e sob condição de alienar tais participações até à data da extinção do Fundo."
+  },
+  "5404e3cf32e9d025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Podem beneficiar dos apoios do FEARC os residentes, os proprietários dos edifícios, as empresas com estabelecimentos na área sinistrada ou quaisquer associações por eles constituídas, bem como quaisquer entidades públicas que tenham responsabilidades de participar na reconstrução do Chiado.\n\n2 - Não pode, todavia, beneficiar daqueles apoios qualquer pessoa, singular ou colectiva, que detenha, ou venha a deter por efeito de alterações contratuais decorrentes do incêndio, capacidade económica e financeira manifestamente suficiente para suportar a totalidade dos encargos, representando estes uma proporção relativamente suportável na globalidade das despesas da sua esfera patrimonial.\n\n3 - A exclusão do acesso a benefícios, nos termos do n.º 2 precedente, requer uma decisão objectivamente fundamentada da comissão directiva, mediante proposta do representante da Direcção-Geral do Tesouro.\n\n4 - O não acesso a benefícios, não impede o acesso às linhas de crédito."
+  },
+  "e86c269e7ed77f29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Receitas\n\n1 - Constituem receitas do FEARC:\n\na) As dotações do Orçamento do Estado;\n\nb) As subvenções, comparticipações, subsídios ou donativos concedidos por quaisquer entidades, nacionais, estrangeiras ou supranacionais, bem como a receita da venda de bens doados;\n\nc) O rendimento dos bens que fruir a qualquer título;\n\nd) O produto de legados ou heranças.\n\n2 - Ao FEARC e vedado contrair empréstimos, sob qualquer modalidade, salvo se as condições de juro ou reembolso constituírem uma forma de apoio excepcional dos mutuantes e, neste caso, desde que os empréstimos sejam devidamente autorizados pelo Ministro das Finanças.\n\n3 - Os fundos a que se referem as alíneas b) e d) do n.º 1 e o n.º 2 podem, por vontade de quem os ceder, ser consignados a fins especiais no âmbito do objecto geral do FEARC.\n\n4 - Os fundos consignados terão contabilização própria e individualizada."
+  },
+  "b002f878a3b9dba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Dotação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação inicial\n\nO Estado dota o FEARC com 5 milhões de contos na data da sua constituição."
+  },
+  "fa9a27dc8d31c8e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Saldos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Saldos\n\nDada a especificidade do FEARC, os saldos apurados no final de cada gerência transitarão para os anos económicos seguintes."
+  },
+  "753d87898fe4a700": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento e tutela\n\n1 - O FEARC funciona junto do Banco de Portugal, que lhe assegura todo o apoio administrativo.\n\n2 - Compete ao Ministro das Finanças aprovar os orçamentos anuais, acompanhar a sua execução, mediante relatórios trimestrais, e aprovar as contas anuais."
+  },
+  "42f9c253b1c5625f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão directiva\n\n1 - O Fundo é gerido por uma comissão directiva, à qual compete efectuar, em nome e por conta e ordem do Fundo, todas as operações necessárias à realização do seu objecto, designadamente:\n\na) Arrecadar receitas e autorizar a realização de despesas;\n\nb) Praticar quaisquer actos relacionados com a gestão do património do FEARC;\n\nc) Estabelecer os regulamentos das formas de apoios previstos no artigo 2.º;\n\nd) Representar o FEARC em juízo e fora dele.\n\n2 - A comissão directiva é nomeada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças e composta por três membros, um dos quais, que exercerá as funções de presidente, é escolhido de entre os membros do conselho de administração do Banco de Portugal, sendo os restantes representantes da Direcção-Geral do Tesouro e do Instituto de Seguros de Portugal, respectivamente.\n\n3 - O Fundo fica obrigado com as assinaturas de dois membros da sua comissão directiva.\n\n4 - Os actos de mero expediente de que não resultem obrigações para o FEARC podem ser assinados por qualquer membro da comissão directiva ou pelos funcionários a quem tal poder tenha sido conferido em documento escrito e autenticado."
+  },
+  "5472003438e9ef22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de consulta da comissão directiva, é presidido pelo presidente da Câmara Municipal de Lisboa e será constituído pelas entidades e individualidades a designar por despacho do Primeiro-Ministro.\n\n2 - Mediante despacho do Primeiro-Ministro, sob proposta da comissão directiva, poderão ainda fazer parte do conselho consultivo representantes de entidades que contribuam significativamente para as receitas do FEARC.\n\n3 - Ao conselho consultivo incumbe pronunciar-se sobre:\n\na) Projecto de orçamento;\n\nb) Relatórios trimestrais e contas anuais referidos no n.º 2 do artigo 7.º;\n\nc) Quaisquer outros assuntos submetidos à sua apreciação pela comissão directiva."
+  },
+  "0edfad463bbd5edd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nO conselho de auditoria do Banco de Portugal deve acompanhar o funcionamento do Fundo e o cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer acerca das suas contas anuais."
+  },
+  "a980d9d260bb9395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remunerações\n\nAs funções dos membros da comissão directiva e do conselho consultivo não são remuneradas."
+  },
+  "d1fbb5d890ade747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Duração\n\n1 - O FEARC extingue-se em 31 de Dezembro de 1992 e a sua liquidação deverá estar encerrada no prazo de seis meses.\n\n2 - Os direitos e obrigações do FEARC à data da extinção serão assumidos pelo Estado.\n\nVisto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 29 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva"
+  },
+  "48a60c52bc25acf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto e formas de apoio",
+   "in_force_from": "2000-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2000-414405), publicado em 2000-02-21."
+   ],
+   "markdown": "###### Artigo 2.º — Objecto e formas de apoio\n\n1 - Constitui objecto do FEARC a concessão de auxílios financeiros à reconstrução da área de Lisboa sinistrada pelo incêndio de 25 de Agosto de 1988 e respectiva área circundante, bem como à recuperação e apoio às actividades económicas nelas estabelecidas.\n\n2 - Sem prejuízo do disposto nos n.os 3 e 4 do artigo 4.º, quanto a fundos consignados, e nos n.os 7 e 8, o apoio a prestar pelo FEARC só pode consistir em bonificações de juros e garantias, no âmbito de linhas de crédito a regulamentar pelo Banco de Portugal, e subsídios reembolsáveis, ou a fundo perdido, destinados a financiar qualquer dos fins seguintes:\n\na) Obras de demolição e segurança prévias às obras de reconstrução;\n\nb) Projectos de arquitectura e engenharia;\n\nc) Obras de reparação e reconstrução aprovadas pelas autoridades competentes;\n\nd) Recheios de habitação;\n\ne) Reconstituição de stocks;\n\nf) Reequipamento e reinstalação de estabelecimentos;\n\ng) Reintegração de fundo de maneio.\n\nh) Obras de conservação e beneficiação de edifícios particulares e de remodelação de estabelecimentos comerciais.\n\ni) Aquisição de imóveis, nos termos previstos no n.º 4 do artigo 3.°\n\nj) Construção de parques de estacionamento.\n\n3 - O apoio financeiro a projectos integrados na área circundante destina-se apenas aos fins previstos nas alíneas h) a j) do número anterior e ainda, na medida em que sirvam à realização destes, ou contribuam para a reabilitação e dinamização do Chiado, aos fins referidos nas alíneas a) a c) do mesmo número, não podendo o valor total dos correspondentes financiamentos a bonificar na área circundante exceder, em cada momento, metade do montante do crédito bonificado pelo FEARC respeitante à área sinistrada.\n\n4 - Caberá às instituições de crédito executar as linhas de crédito referidas no número anterior e decidir, caso a caso, as operações de financiamento, podendo os bancos comerciais ultrapassar, para o efeito, o limite de dez anos.\n\n5 - Nas situações referidas no n.º 2, a bonificação de juro, que poderá ser graduada pela comissão directiva para incentivar uma mais rápida recuperação do Chiado, não pode exceder 90% da taxa de juro contratual do financiamento e a sua duração não pode ultrapassar 15 anos, nos casos previstos nas alíneas a) e c), 7 anos, nos casos previstos nas alíneas b), f), h) e j), e 5 anos, nos restantes casos.\n\n6 - Além do crédito bancário, poderão ser abrangidas pelos benefícios outras formas de financiamento, como o obrigacionista ou de instituições parabancárias, mediante regulamentação a estabelecer pelo Fundo.\n\n7 - Pode ainda o FEARC participar, a título excepcional, no capital social das pequenas e médias empresas atingidas, até ao limite de 49%, e sob condição de alienar tais participações até à data da extinção do Fundo.\n\n8 - Também a título excepcional, o FEARC pode conceder à Câmara Municipal de Lisboa um subsídio a fundo perdido destinado à atribuição de uma compensação de carácter social aos trabalhadores das entidades estabelecidas na área sinistrada do Chiado à data do incêndio de 25 de Agosto de 1988, a distribuir por esses trabalhadores segundo proposta da Câmara Municipal de Lisboa.\n\n9 - Consideram-se áreas sinistrada e circundante as delimitadas na planta anexa, a qual faz parte integrante do presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2000-414405), publicado em 2000-02-21."
+  },
+  "2c78de7b74015f5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": "2000-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 26/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1998-229285), publicado em 1998-02-10."
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Podem beneficiar dos apoios do FEARC os residentes, os proprietários de edifícios, as empresas com estabelecimentos nas áreas sinistrada e circundante, ou quaisquer associações por eles constituídas, bem como as entidades públicas que participem na reconstrução e reabilitação do Chiado.\n\n2 - A concessão de benefícios, que também podem ser atribuídos para mudança provisória ou, excepcionalmente, definitiva de residência ou estabelecimento, será decidida pela comissão directiva do Fundo, que tomará em consideração os recursos obtidos pelos beneficiários na sequência do incêndio e com ele relacionados, designadamente indemnizações, para efeitos da sua dedução aos montantes para os quais sejam pedidas bonificações.\n\n3 - O não acesso a benefícios não impede o acesso às linhas de crédito.\n\n4 - As entidades públicas referidas no n.º 1 podem também receber apoio do FEARC para aquisição de imóveis na área sinistrada ou na área circundante.\n\n> Alterado pelo/a [Decreto-Lei n.º 26/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1998-229285), publicado em 1998-02-10."
+  },
+  "2e01dd6bed5d9e3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Duração",
+   "in_force_from": "2000-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2000-414405), publicado em 2000-02-21."
+   ],
+   "markdown": "###### Artigo 12.º — Duração\n\n1 - O FEARC extinguir-se-á em 31 de Dezembro de 2001, sem qualquer outra possibilidade de prorrogação, e a sua liquidação, a cargo da comissão directiva, deverá estar encerrada no prazo de seis meses.\n\n2 - Os direitos e obrigações do FEARC à data da extinção serão assumidos pelo Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2000-414405), publicado em 2000-02-21.\n\nVisto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 29 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva"
+  }
+ }
+}

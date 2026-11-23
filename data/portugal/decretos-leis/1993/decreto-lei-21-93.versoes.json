@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:601283:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-01-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "77e51575a12a6492"
+   ]
+  },
+  {
+   "date": "1994-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495715:por",
+     "title": "Decreto-Lei n.º 20/94",
+     "published": "1994-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/20-1994-495715"
+    }
+   ],
+   "changes": [],
+   "fragments": [
+    "59d33fa770b8e4fe",
+    "43f6257eb08a276a",
+    "ba9488401de0136a",
+    "2ddc45e3afe5d8b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "77e51575a12a6492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro\n\nCom a extinção do ex-Fundo de Apoio Térmico (FAT) pelo [Decreto-Lei n.º 202/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1986-227831), de 22 de Julho, foram transferidas para a EDP - Electricidade de Portugal, S. A., as atribuições e competências que estavam cometidas ao FAT.\n\nPara cobertura do respectivo défice, relevado nas contas da EDP, tem sido mantido o adicional de 8% da facturação de electricidade fornecida em alta, média e baixa tensão, nos termos daquele diploma, cujo prazo de vigência foi prorrogado até 31 de Dezembro de 1992 pelo [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro.\n\nNão se prevendo que à data de 31 de Dezembro de 1992 se encontre coberto o elevado saldo negativo do ex-FAT, torna-se indispensável uma nova prorrogação do prazo de vigência do referido adicional, tendo em vista a total regularização do défice existente.\n\nConsiderando, porém, a necessidade de melhorar a competitividade da indústria portuguesa, estabelece-se uma redução do adicional mais acentuada no que respeita aos fornecimentos em alta e média tensão e aos fornecimentos a consumidores de baixa tensão (BT) com potência contratada superior a 19,8 kVA.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º O prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.\n\nArt. 2.º O adicional será reduzido para 4% em 1993 no que respeita aos fornecimentos em alta e média tensão e fornecimentos em baixa tensão (BT) a consumidores com potência contratada superior a 19,8 kVA.\n\nArt. 3.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.\n\nVisto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.\n\nPromulgado em 6 de Janeiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Janeiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "59d33fa770b8e4fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro\n\nCom a extinção do ex-Fundo de Apoio Térmico (FAT) pelo [Decreto-Lei n.º 202/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1986-227831), de 22 de Julho, foram transferidas para a EDP - Electricidade de Portugal, S. A., as atribuições e competências que estavam cometidas ao FAT.\n\nPara cobertura do respectivo défice, relevado nas contas da EDP, tem sido mantido o adicional de 8% da facturação de electricidade fornecida em alta, média e baixa tensão, nos termos daquele diploma, cujo prazo de vigência foi prorrogado até 31 de Dezembro de 1992 pelo [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro.\n\nNão se prevendo que à data de 31 de Dezembro de 1992 se encontre coberto o elevado saldo negativo do ex-FAT, torna-se indispensável uma nova prorrogação do prazo de vigência do referido adicional, tendo em vista a total regularização do défice existente.\n\nConsiderando, porém, a necessidade de melhorar a competitividade da indústria portuguesa, estabelece-se uma redução do adicional mais acentuada no que respeita aos fornecimentos em alta e média tensão e aos fornecimentos a consumidores de baixa tensão (BT) com potência contratada superior a 19,8 kVA.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "43f6257eb08a276a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993."
+  },
+  "ba9488401de0136a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO adicional será reduzido para 4% em 1993 no que respeita aos fornecimentos em alta e média tensão e fornecimentos em baixa tensão (BT) a consumidores com potência contratada superior a 19,8 kVA."
+  },
+  "2ddc45e3afe5d8b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.\n\nVisto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.\n\nPromulgado em 6 de Janeiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Janeiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}
