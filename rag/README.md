@@ -1070,6 +1070,7 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 | A: aplicação 0.1.1 | 115 | 185 | 96 | 70 | 140 | 233 | 5 | 23/43 |
 | B: A com notas estáveis | 108 | 186 | 95 | 78 | 138 | 231 | 5 | 26/43 |
 | C: B com o reranker a ler as perguntas | **149** | 211 | 70 | 62 | 173 | 245 | 7 | 29/45 |
+| B com o LLM (limiar 1, juízes; medido a 23/11) | **206** | 214 | 67 | 8 | 138 | 231 | 2 | 43/45 |
 | D: C com o LLM (limiar 1, juízes) | **231** | 241 | 40 | 10 | 173 | 245 | 2 | 45/46 |
 | D com a pergunta reescrita | **249** | 257 | 24 | 8 | 194 | 263 | 4 | 45/47 |
 
@@ -1077,17 +1078,19 @@ A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 rea
 
 **Pergunta a pergunta, face à A,** com as reais agrupadas pelo lugar do artigo certo na A:
 
-| Lugar do artigo certo na A | n | Certas na A | B | C | D | D com reescrita |
-|---|--:|--:|--:|--:|--:|--:|
-| Em 1.º | 140 | 115 | 105 (1 ganho, 11 perdas) | 113 (14 ganhos, 16 perdas) | 130 (23 ganhos, 8 perdas) | 128 (23 ganhos, 10 perdas) |
-| Do 2.º ao 8.º | 93 | 0 | 3 | **35** | **85** | **86** |
-| Fora dos 8 primeiros | 48 | 0 | 0 | 1 | 16 | 35 |
-| **Total** | 281 | 115 | 108 (4 ganhos, 11 perdas) | 149 (**50 ganhos, 16 perdas**) | 231 (**124 ganhos, 8 perdas**) | 249 (**144 ganhos, 10 perdas**) |
+| Lugar do artigo certo na A | n | Certas na A | B | C | B com LLM | D | D com reescrita |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| Em 1.º | 140 | 115 | 105 (1 ganho, 11 perdas) | 113 (14 ganhos, 16 perdas) | 125 (16 ganhos, 6 perdas) | 130 (23 ganhos, 8 perdas) | 128 (23 ganhos, 10 perdas) |
+| Do 2.º ao 8.º | 93 | 0 | 3 | **35** | **75** | **85** | **86** |
+| Fora dos 8 primeiros | 48 | 0 | 0 | 1 | 6 | 16 | 35 |
+| **Total** | 281 | 115 | 108 (4 ganhos, 11 perdas) | 149 (**50 ganhos, 16 perdas**) | 206 (**97 ganhos, 6 perdas**) | 231 (**124 ganhos, 8 perdas**) | 249 (**144 ganhos, 10 perdas**) |
 
 - **B:** 10 das 11 perdas são trocas no 1.º lugar entre artigos com notas próximas. O lugar do artigo certo muda em 47 das 281 perguntas e a nota do 1.º resultado muda mais de 0,3 em 29. Pontuar cada texto sozinho não é a mesma conta que pontuar em lotes de 16, e a diferença é maior do que o ruído entre duas corridas em lotes (cerca de 8 perguntas em 1.298, o que dá umas 2 em 281).
 - **C:** dos 50 ganhos, em 28 a A não respondia e em 22 respondia com outro artigo. Das 16 perdas, 12 são trocas no 1.º lugar e 4 passam a «não sei». O artigo certo em 1.º sobe de 140 para 173.
 - **C nas reais que nunca serviram para afinar** (real-201 a 350, 145): 36 → **60** certas, com 29 ganhos e 5 perdas. Nas 136 afinadas: 79 → 89, com 21 ganhos e 11 perdas.
 - **D:** das 8 perdas, 5 são «não sei» do modo estrito (o artigo citado é o texto original de um diploma alterado) e 3 são respostas que um juiz não aprovou. Os 40 «não sei» são 17 do limiar, 12 em que o LLM diz que os artigos não respondem, 8 do texto original e 3 em que a resposta diz que falta a norma. Em 29 dos 40, o artigo certo não estava nos 8 primeiros.
+- **B com LLM** (23/11): o LLM sobre a pesquisa sem as perguntas no reranker. A `app011-final` não gravou as consultas, e repetir a pesquisa da A em lotes de 16 daria outra pesquisa (ruído do lote); usou-se a da B, que é a configuração da A com notas estáveis. Assim a B com LLM e a D só diferem nas perguntas no reranker. Dá 206 certas em 214 respondidas: 8 não certas, e 67 «não sei» (39 do limiar, 17 em que o LLM diz que os artigos não respondem, 8 do texto original e 3 em que falta a norma). Em 42 dos 67 o artigo certo não estava nos 8 primeiros.
+- **Do LLM e das perguntas, separados:** da A (115) para a B com LLM (206) são +91, e da B com LLM para a D (231) são +25, com 31 ganhos e 6 perdas. Dos 31 ganhos, 13 têm o artigo certo fora dos 8 primeiros na B e 11 do 2.º ao 8.º: as perguntas no reranker trazem o artigo para o contexto ou passam a pergunta acima do limiar. O LLM faz a maior parte do salto; com ele, as perguntas no reranker ainda somam +25 certas (sem LLM somavam +34, da A para a C).
 - **D com reescrita:** face à D, 29 ganhos e 11 perdas. Dos ganhos, 10 eram «não sei» do limiar na D, 9 eram recusas do LLM e 5 eram respostas não aprovadas. A reescrita traz o artigo certo para os 8 primeiros em mais 18 perguntas (245 → 263), e é daí que vêm as 35 certas no grupo que a A deixava fora dos 8. Os 24 «não sei» são 11 do texto original, 8 em que o LLM diz que os artigos não respondem, 4 do limiar e 1 em que falta a norma. Das 10 perdas face à A, 5 são «não sei» do texto original, 4 são respostas não aprovadas e 1 é recusa do LLM.
 - **Com o LLM, afinadas e novas:** na D, 123 certas nas 136 afinadas e 108 nas 145 novas; com reescrita, 130 e 119.
 - **«Sem resposta»:** a C responde às 5 da A e a mais 2 de arrendamento (sem-024 e sem-051, as mesmas da medição de 18/11). Na D, 30 das 80 chegam ao LLM, que responde a 2 (sem-069 e sem-071). Com reescrita chegam 45 e responde a 4 (as mesmas 2, a sem-065 e a sem-075).
@@ -1114,6 +1117,8 @@ E a D com reescrita:
 | 3,5 | 220 / 226 | 6 | 2 | 122 / 17 |
 | 4 | 204 / 210 | 6 | 2 | 110 / 21 |
 
+E a B com LLM (sem as perguntas no reranker): limiar 1, 206 / 214 (2 «sem resposta» respondidas); 2, 192 / 198 (1); 2,5, 179 / 184 (1); 3, 165 / 169 (1); 3,5, 145 / 148 (1); 4, 129 / 132 (1). Sem as perguntas, subir o limiar custa mais: de 1 para 3 perdem-se 41 certas, contra 39 na D e 21 na D com reescrita.
+
 O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, a C tem as mesmas 5 «sem resposta» da A, mais 30 certas e menos 19 erradas. Com o LLM, subir o limiar tira muito mais respostas certas do que erradas (de 1 para 3: menos 39 certas, menos 2 não certas).
 
 **Confirmação da C nas 1.298 perguntas** (`um-c-todas`, com as mesmas consultas guardadas; `rag.comparar --por-tipo`, resumo em `rag/resultados/ultima-milha-todas.json`). As 411 perguntas repetidas deram exatamente o mesmo resultado, como se espera das notas estáveis.
@@ -1139,7 +1144,8 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 **Custo em tempo.** Tempo de pesquisa por pergunta em 15 reais, com as três configurações alternadas pergunta a pergunta e a máquina carregada por outras medições (por isso só a relação entre elas conta): mediana de 19,6 s na A, 21,4 s na B (+9 %) e 23,6 s na C (+20 %). Com o CPU livre, a A leva 7 a 8 s («Próximos passos»), o que dá cerca de 1,5 s a mais por pergunta na C. O tempo do LLM não se mediu: as sessões não são a API. O prompt da D tem 11,8 mil caracteres em média.
 
 **Ressalvas:**
-- O LLM não foi medido sobre a pesquisa da A nem da B. Não se sabe quanto do ganho da D vem do LLM e quanto das perguntas no reranker: a pesquisa só limita a parte dela (o artigo certo nos 8 primeiros passa de 233 para 245).
+- O LLM foi medido sobre a pesquisa da B (notas estáveis), não sobre a da A em lotes de 16, que não ficou gravada. Sem LLM, a B dá 7 certas a menos do que a A; com LLM a diferença deve ser menor, porque o LLM lê os 8 primeiros e o artigo certo está neles em 231 na B e 233 na A, mas não se mediu.
+- A B com a pergunta reescrita não ficou medida: a pesquisa corria a cerca de 4 minutos por pergunta com a máquina carregada por outras medições (mais de um dia para as 411). Parou-se em 6 consultas, que ficam guardadas em `privado/consultas/um-br` para retomar.
 - A C foi medida com as notas estáveis. A leitura das perguntas com lotes de 16 não se mediu aqui.
 - Uma corrida por configuração. O LLM e os juízes são o mesmo modelo e não houve revisão de um jurista.
 - A reescrita é a das sessões do Claude (`reescrita2`), não a da API no momento da pergunta. A pesquisa com reescrita correu com o código do main de 20/11, depois de uma junção; a pesquisa por omissão não mudou nessa junção.
@@ -1148,7 +1154,7 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 **Conclusão:**
 1. **O reranker a ler as perguntas compensa, sem chave:** mais 34 certas em 281 (115 → 149), com 50 ganhos e 16 perdas, menos 8 erradas e mais 2 «sem resposta» respondidas, por cerca de 20 % mais tempo de pesquisa. O ganho está muito acima do ruído, é maior nas reais que nunca afinaram e confirma-se nas 1.298 perguntas (619 → 747 certas, 152 ganhos e 24 perdas), sem estragar os outros tipos.
 2. **As notas estáveis sozinhas não melhoram:** menos 7 certas (4 ganhos, 11 perdas). Valem porque tornam a medição repetível e as notas comparáveis com um limiar, não pelo número.
-3. **O LLM dá o maior salto:** 231 certas em 241 respondidas, e 85 das 93 perguntas com o artigo do 2.º ao 8.º lugar passam a certas. Com a pergunta reescrita, como a aplicação faz com chave, são 249 em 257: mais 18 certas, com 29 ganhos e 11 perdas face à D, e mais 2 «sem resposta» respondidas (4 em vez de 2). Depende de o utilizador ter chave.
+3. **O LLM dá o maior salto:** sozinho, sobre a pesquisa sem as perguntas no reranker, leva as reais de 115 para 206 certas (B com LLM, 97 ganhos e 6 perdas face à A). Com as perguntas no reranker são 231 certas em 241 respondidas, e 85 das 93 perguntas com o artigo do 2.º ao 8.º lugar passam a certas. Com a pergunta reescrita, como a aplicação faz com chave, são 249 em 257: mais 18 certas, com 29 ganhos e 11 perdas face à D, e mais 2 «sem resposta» respondidas (4 em vez de 2). Depende de o utilizador ter chave.
 
 
 ## Próximos passos
@@ -1268,6 +1274,26 @@ Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.6
 Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado, e 6.743 depois das regras das versões antigas dos códigos. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
+
+### Mais duas correções de leitura (23/11/2026)
+
+Dos pendentes da leitura e dos nomes (`PENDENTE.md`). Só código; o `data/` não muda.
+
+- **O nome do anexo do CPT.** O DRE juntou ao nome do anexo o primeiro título: «Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais». O nome do código não o encontrava e «Código de Processo do Trabalho» resolvia para os 3 artigos do decreto (DL 480/99). Agora a parte é «Anexo — CÓDIGO DE PROCESSO DO TRABALHO» (`avaliacao/comum.py`, `_sem_titulo_colado`). Era o único caso no acervo.
+- **O código aprovado logo a seguir ao decreto.** No DL 48/95 o Código Penal vem depois do articulado do decreto, com `## CÓDIGO PENAL` e não `## Anexo — …`, e ficava na mesma parte: os artigos 1.º a 13.º do código tinham as chaves dos do decreto. Agora um `## CÓDIGO …`, `## ESTATUTO …`, `## REGULAMENTO …` ou `## REGIME …` no articulado do decreto, com a numeração a recomeçar em 1.º a seguir, abre a parte «Anexo — CÓDIGO PENAL». O nome começa por «Anexo» de propósito: é por aí que a pesquisa (a de hoje e a da 0.1.1) encontra os códigos pelo nome, e aqui é o texto em vigor. Muda em 6 registos: Código Penal (DL 48/95), Código de Processo Penal (DL 78/87), Código do Registo Predial (DL 224/84), o CIRS de 2001 (DL 198/2001), o REBAP (DL 349-C/83) e os estatutos do DL 272/90. Dentro de um anexo de republicação (os estatutos das ordens de 2015) fica como estava: é o texto antigo republicado.
+- **Guarda em `aplicar_redacoes`:** uma marca sem artigos e sem ponto de início não fecha nada (dava `TypeError`; nenhuma das marcas atuais é assim).
+
+As chaves das perguntas por artigo destes quatro códigos passaram para as partes novas (`rag/perguntas_artigo/codigo-penal.jsonl`, `codigo-processo-penal`, `codigo-registo-predial`, `codigo-processo-trabalho`; 1.391 artigos), e os blocos em `rag/perguntas_por_artigo.py` também.
+
+**Verificado num índice de ensaio** (12.174 registos: os da fase 1 e todos os que têm uma parte com o nome de um código), antes e depois:
+
+- os pedaços abertos não mudam em nenhum registo (só mudam de parte); nenhum diploma central perde pedaços; as chaves repetidas abertas descem de 2.709 para 2.655;
+- os nomes de códigos resolvem para os mesmos registos, menos quatro, que passam do articulado do decreto para a parte do código: Penal, Processo Penal, Registo Predial e Processo do Trabalho. Com o código da 0.1.1, o mesmo; o «Código de Processo Penal», que a 0.1.1 não resolvia, passa a resolver;
+- as perguntas por artigo: 30 artigos que as recebiam em dois pedaços (o do decreto e o do código) passam a recebê-las só no do código;
+- as normas julgadas do TC e as de uniformização, refeitas sobre o índice de ensaio, passam para as partes novas (Código Penal 298 de 299, Processo Penal 817 de 844, Processo do Trabalho 81 de 81, Registo Predial 4);
+- só com BM25 e referências, o artigo esperado em 1.º passa de 702 para 742 das 1.414 perguntas, e nos dez primeiros de 1.018 para 1.066 (50 sobem, 1 desce). Ganham sobretudo as de texto alterado (51 → 78) e as de revogados (55 → 67): os artigos do código nas versões antigas ficam na mesma parte que o texto em vigor.
+
+**Depois da reconstrução:** `python -m rag.jurisprudencia` e `python -m rag.uniformizacao --indice …`, para as normas do CP, do CPP e do CRP ficarem com as partes novas. Até lá a pesquisa não liga às partes novas as normas guardadas com a parte do decreto («»).
 
 ## Nomes de códigos, texto em vigor noutro registo e registos repetidos (20/11/2026)
 
