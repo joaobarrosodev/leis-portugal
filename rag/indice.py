@@ -213,10 +213,11 @@ def aplicar_redacoes(pedacos: list[Pedaco], marcas) -> int:
                 continue
             for pedaco in da_parte[inicio if textos[inicio].startswith(primeira) else inicio + 1 :]:
                 fechar(pedaco, marca.ate)
-        else:
+        elif marca.artigos:
             for pedaco in da_parte:
                 if pedaco.ate is None and (pedaco.chave, impressao(pedaco.texto)) in marca.artigos:
                     fechar(pedaco, marca.ate)
+        # Sem artigos e sem ponto de início, a marca não diz que pedaços fecha: não fecha nenhum.
     return fechados
 
 

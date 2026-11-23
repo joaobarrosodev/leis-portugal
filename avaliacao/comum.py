@@ -105,8 +105,24 @@ def _cabecalho(linha: str) -> tuple[str, str, str, str] | None:
 
 
 _ANEXO = re.compile(r"^## (Anexo.*)$", re.I)
+# `## CÓDIGO PENAL`: o código que o decreto aprova, sem a palavra «Anexo», depois do articulado do decreto (DL 48/95,
+# DL 78/87, DL 224/84, estatutos das ordens de 2015…). Só abre parte se a numeração recomeçar a seguir (`_ler`).
+_DIPLOMA_APROVADO = re.compile(
+    r"^## ((?:CÓDIGO|ESTATUTOS?|REGULAMENTO|REGIME)\b[A-ZÁÉÍÓÚÂÊÔÃÕÇÀ0-9 ,.;:'’ºª()-]*)$"
+)
+# Um nome em maiúsculas com o primeiro título colado: «CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais».
+_TITULO_COLADO = re.compile(r"^((?:[A-ZÁÉÍÓÚÂÊÔÃÕÇÀ0-9,.'’ºª-]+ )+?[A-ZÁÉÍÓÚÂÊÔÃÕÇÀ0-9,.'’ºª-]+) [A-ZÁÉÍÓÚ][a-záéíóúâêôãõçà].*$")
 # «Artigo 5.º …» ou «Art. 5.º …» no início de uma linha de texto corrido (artigos que o `structure` não marcou).
 _ARTIGO_SOLTO = re.compile(r"^(?:Artigo|ARTIGO|Art\.) ?\d+\.?[º°]")
+
+
+def _sem_titulo_colado(titulo: str) -> str:
+    """`Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais` fica `Anexo — CÓDIGO DE PROCESSO DO TRABALHO`:
+    o DRE juntou ao nome do anexo o título do primeiro capítulo, e o nome do código deixava de o encontrar. Só quando o
+    nome tem pelo menos duas palavras em maiúsculas e o resto começa por uma palavra em minúsculas."""
+    rotulo, separador, nome = titulo.partition(" — ")
+    m = _TITULO_COLADO.match(nome) if separador else None
+    return f"{rotulo} — {m.group(1)}" if m and len(m.group(1).split()) >= 2 else titulo
 
 
 def _nome_do_anexo(titulo: str) -> str:
@@ -164,6 +180,7 @@ def _ler(texto: str) -> tuple[list[Artigo], list[tuple[str, str]], int]:
     # Um `## ANEXO` em maiúsculas fica à espera da sua primeira unidade: só então abre parte. Até lá (e se nunca a
     # tiver) o texto continua colado ao artigo anterior, como antes de 20/11/2026.
     a_espera: str | None = None
+    aprovado: str | None = None  # o nome de um `## CÓDIGO …` à espera de ver se a numeração recomeça
     soltos = 0
 
     def fechar() -> None:
@@ -183,9 +200,14 @@ def _ler(texto: str) -> tuple[list[Artigo], list[tuple[str, str]], int]:
             if titulo.startswith("Anexo"):
                 fechar()
                 fechar_parte()
-                atual, linhas, sem_artigo, parte, a_espera = None, [], [], titulo, None
+                atual, linhas, sem_artigo, parte, a_espera = None, [], [], _sem_titulo_colado(titulo), None
             else:
                 a_espera = _nome_do_anexo(titulo)
+            aprovado = None
+            continue
+        diploma = _DIPLOMA_APROVADO.match(linha)
+        if diploma:
+            aprovado = diploma.group(1).strip()
             continue
         if linha.startswith("#") and not linha.startswith("######"):
             continue
@@ -195,6 +217,15 @@ def _ler(texto: str) -> tuple[list[Artigo], list[tuple[str, str]], int]:
             if a_espera is not None:
                 parte, a_espera = a_espera, None
             numero, epigrafe, inicio, forma = cabecalho
+            if aprovado is not None:
+                # `## CÓDIGO PENAL` e a numeração recomeça: é o código anexo ao decreto, numa parte sua (como
+                # `## Anexo — CÓDIGO PENAL`), e o artigo 1.º do código deixa de ter a chave do 1.º do decreto.
+                # Só no articulado do decreto (parte ""): dentro de um anexo de republicação, um `## ESTATUTO …` é o
+                # texto antigo republicado e não um diploma aprovado por este.
+                if parte == "" and numero == "1.º" and any(a.parte == "" and a.numero == "1.º" for a in resultado):
+                    fechar_parte()
+                    parte, sem_artigo = f"Anexo — {aprovado}", []
+                aprovado = None
             atual, linhas = Artigo(parte, numero, epigrafe, "", forma=forma), ([inicio] if inicio else [])
             continue
         if _ARTIGO_SOLTO.match(linha):

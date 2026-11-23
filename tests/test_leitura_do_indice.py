@@ -60,6 +60,28 @@ def test_nome_da_parte_de_um_anexo():
     assert not any(comum._nome_do_anexo(t).lower().startswith("anexo") for t in ("ANEXO — Código de Processo Penal", "ANEXO II — CÓDIGO DAS CUSTAS JUDICIAIS"))
 
 
+def test_nome_do_anexo_sem_o_titulo_colado():
+    # DL 480/99: o DRE juntou ao nome do anexo o primeiro título; o nome do código não o encontrava (23/11/2026).
+    texto = "###### Artigo 1.º\n\nAprova.\n\n## Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais\n\n###### Artigo 1.º — Âmbito\n\nTexto."
+    assert [a.chave for a in ler_artigos(texto)] == ["1.º", "Anexo — CÓDIGO DE PROCESSO DO TRABALHO::1.º"]
+    # Um nome com minúsculas logo a seguir ao travessão fica como está.
+    assert ler_artigos(texto.replace("CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais", "Código do Registo Civil"))[1].parte == "Anexo — Código do Registo Civil"
+
+
+def test_codigo_aprovado_depois_do_articulado_do_decreto_abre_parte():
+    # DL 48/95: «## CÓDIGO PENAL» sem «Anexo», e a numeração recomeça; o 1.º do código tinha a chave do 1.º do decreto.
+    decreto = "###### Artigo 1.º\n\nÉ aprovado o Código Penal.\n\n###### Artigo 2.º\n\nEntra em vigor.\n\n"
+    codigo = "## CÓDIGO PENAL\n\n## I — Introdução (*)\n\nPreâmbulo.\n\n## Livro I — Parte geral\n\n###### Artigo 1.º — Princípio da legalidade\n\nSó pode ser punido.\n\n###### Artigo 2.º — Aplicação no tempo\n\nAs penas."
+    lidos = ler_artigos(decreto + codigo)
+    assert [a.chave for a in lidos] == ["1.º", "2.º", "Anexo — CÓDIGO PENAL::1.º", "Anexo — CÓDIGO PENAL::2.º"]
+    assert lidos[1].texto.endswith("Preâmbulo.")  # o texto antes do primeiro artigo do código fica onde estava
+    # Sem a numeração a recomeçar, o título não abre parte.
+    assert [a.parte for a in ler_artigos(decreto + codigo.replace("Artigo 1.º —", "Artigo 3.º —").replace("Artigo 2.º — Apl", "Artigo 4.º — Apl"))] == [""] * 4
+    # Dentro de um anexo de republicação, «## ESTATUTO …» é o texto antigo republicado: fica no anexo.
+    republicacao = decreto + "## Anexo II — Republicação do Decreto-Lei n.º 176/98\n\n###### Artigo 1.º\n\nAprova.\n\n## ESTATUTO DA ORDEM\n\n###### Artigo 1.º — Natureza\n\nA Ordem."
+    assert {a.parte for a in ler_artigos(republicacao)} == {"", "Anexo II — Republicação do Decreto-Lei n.º 176/98"}
+
+
 def test_registo_em_texto_corrido_com_titulos_soltos_nao_se_parte():
     # O Código Penal de 1982 (DL 400/82): centenas de «ARTIGO N.º» em texto corrido e dois títulos soltos pelo meio.
     corrido = "\n\n".join(f"ARTIGO {n}.º\n\nTexto do artigo {n}." for n in range(1, 13))
