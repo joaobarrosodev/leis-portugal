@@ -74,10 +74,10 @@ PILOTO = (
 # Os artigos do piloto ficam nos blocos do piloto (`bloco_de` devolve o primeiro): o «codigo-civil» é o resto.
 OUTROS_CODIGOS = (
     Bloco("codigo-civil", "pt:dre:477358:por", "Anexo — CÓDIGO CIVIL"),
-    Bloco("codigo-penal", "pt:dre:185720:por", ""),
-    Bloco("codigo-processo-penal", "pt:dre:662562:por", ""),
+    Bloco("codigo-penal", "pt:dre:185720:por", "Anexo — CÓDIGO PENAL"),
+    Bloco("codigo-processo-penal", "pt:dre:662562:por", "Anexo — CÓDIGO DE PROCESSO PENAL"),
     Bloco("codigo-processo-civil", "pt:dre:497406:por", "Anexo — CÓDIGO DE PROCESSO CIVIL"),
-    Bloco("codigo-processo-trabalho", "pt:dre:683065:por", "Anexo — CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais"),
+    Bloco("codigo-processo-trabalho", "pt:dre:683065:por", "Anexo — CÓDIGO DE PROCESSO DO TRABALHO"),
     Bloco("codigo-execucao-penas", "pt:dre:491690:por", "Anexo — CÓDIGO DA EXECUÇÃO DAS PENAS E MEDIDAS PRIVATIVAS DA LIBERDADE"),
     Bloco("codigo-justica-militar", "pt:dre:446475:por", "Anexo — CÓDIGO DE JUSTIÇA MILITAR"),
     Bloco("codigo-irs", "pt:dre:66022085:por", "Anexo — Código do Imposto sobre o Rendimento das Pessoas Singulares"),
@@ -104,7 +104,7 @@ OUTROS_CODIGOS = (
     Bloco("codigo-valores-mobiliarios", "pt:dre:682983:por", "Anexo — CÓDIGO DOS VALORES MOBILIÁRIOS"),
     Bloco("codigo-cooperativo", "pt:dre:70139955:por", ""),
     Bloco("codigo-registo-comercial", "pt:dre:221517:por", "Anexo — CÓDIGO DO REGISTO COMERCIAL"),
-    Bloco("codigo-registo-predial", "pt:dre:591313:por", ""),
+    Bloco("codigo-registo-predial", "pt:dre:591313:por", "Anexo — CÓDIGO DO REGISTO PREDIAL"),
     Bloco("codigo-registo-civil", "pt:dre:521238:por", "Anexo — Código do Registo Civil"),
     Bloco("codigo-notariado", "pt:dre:478043:por", "Anexo — CÓDIGO DO NOTARIADO"),
     Bloco("codigo-propriedade-industrial", "pt:dre:117279933:por", "Anexo — Código da Propriedade Industrial"),
@@ -265,8 +265,8 @@ def artigos_do_ambito(indice: Path, blocos: tuple[Bloco, ...] = AMBITO) -> list[
                     continue
                 saida.append({"documento": b.documento, "chave": chave, "titulo": titulo[0] if titulo else "", "parte": parte,
                               "epigrafe": epigrafe, "texto": texto, "sha": _sha(texto)})
-    # O Código Penal, o de Processo Penal e o do Registo Predial estão no articulado do decreto que os aprova
-    # (parte ""): os artigos do decreto, sem epígrafe, têm a mesma chave que os do código. Ficam os do código.
+    # Até 23/11/2026 o Código Penal, o de Processo Penal e o do Registo Predial ficavam no articulado do decreto que os
+    # aprova (parte ""), com as chaves dos artigos do decreto. Hoje têm parte sua; o filtro fica para índices antigos.
     com_epigrafe = {(a["documento"], a["chave"]) for a in saida if a["epigrafe"]}
     return [a for a in saida if a["epigrafe"] or (a["documento"], a["chave"]) not in com_epigrafe]
 
