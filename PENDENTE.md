@@ -178,6 +178,14 @@ Das sessões do texto corrido (`rag/corrido.py`, 45c59705eac) e dos nomes e liga
 - ~~**DR 31/83:** os dois registos têm estados contraditórios; ver qual é o certo.~~ Feito a 23/11: revogado pela Lei n.º 14/2015 (art. 37.º, alínea b)), a partir de 15/8/2015. O DRE já o dá no registo pt:dre:312835 («Revogado, a partir de 15.08.2015»); o outro (pt:dre:297783, o do 1.º Suplemento) fica `repealed` por prova manual no próximo `structure`.
 - **Código Comercial (linha 10 do inventário da camada 1): por fechar.** Procurado de novo a 23/11. No DRE só está a Carta de Lei de 28/6/1888 que o aprova (já no acervo); o articulado não está nem no Diário do Governo n.º 203, de 6/9/1888, nem na legislação consolidada. Não encontrei outra fonte oficial portuguesa com o texto. A Procuradoria-Geral Distrital de Lisboa publica o código consolidado, mas não é uma fonte registada e as condições de reutilização não estão confirmadas: é decisão do João.
 
+## Sem solução por agora (23/11)
+
+Três falhas da camada 1 que ficam como estão, com o motivo. Nenhuma tem regra segura nem fonte oficial hoje; voltam a abrir-se se isso mudar.
+
+- **Código Comercial:** não há fonte oficial com o articulado. O DRE só tem a Carta de Lei de 28/6/1888 que o aprova (já no acervo); o texto não está no Diário do Governo n.º 203, de 6/9/1888, nem na legislação consolidada. A Procuradoria-Geral Distrital de Lisboa publica o código consolidado, mas não é uma fonte registada do projeto e as condições de reutilização não estão confirmadas. **Decisão do João:** usar ou não a PGDL, e pedir-lhe as condições se sim. Pormenor acima, em «Leitura do índice e nomes», e em `reports/camada-1-falhas-de-dados.md`, «Linha 10».
+- **Bases soltas:** 242 registos com bases fora de títulos (a Lei n.º 95/2019, Lei de Bases da Saúde, entre eles). Misturam a redação nova citada com a republicação no anexo, muitas vezes com várias numerações, e não se encontrou regra que as separe sem erro. Nos decretos de concessões de 2010–2015 a maior parte das bases fica para lá dos 30.000 caracteres do último artigo e não entra no índice. Pormenor acima e em `reports/leitura-texto-corrido-amostra.md`.
+- **Estatuto Judiciário (DL 44278, de 1962; vista 039 da ronda 117):** não se consolida. Ficaram 322 trechos em dúvida e 3 instruções em falta porque os dois alteradores principais, o DL 202/73 e o DL 414/73, misturam os artigos deles com os do Estatuto que redigem, com a numeração a recomeçar a meio; o leitor de texto corrido recusa-os, como deve. Destravá-lo pedia uma ronda própria com o texto inteiro dos alteradores (a vista já tem 1,2 milhões de caracteres), e o Estatuto foi em grande parte substituído pela legislação posterior de organização judiciária e pelos estatutos das magistraturas, embora o DRE o dê como em vigor: não compensa, por agora. O motivo está em `consolidacao/auditoria/camada1-estado.jsonl`.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.
@@ -186,6 +194,7 @@ Das sessões do texto corrido (`rag/corrido.py`, 45c59705eac) e dos nomes e liga
 
 - **TC e CNPD:** a resposta ao pedido de confirmação da reutilização, notificados a 12/11/2026.
 - **Chave da API:** para testar as respostas escritas com o LLM.
+- **IGFEJ e CSM:** autorização para recolher os acórdãos do STJ e das Relações (dgsi.pt e o portal de jurisprudência do CSM). Pedidos escritos a 23/11, enviados pelo João. Sem resposta, não se recolhe nada: ver `reports/jurisprudencia-tribunais-comuns.md`.
 
 ## 6. Perguntas de leigo por artigo (piloto, 16/11)
 
