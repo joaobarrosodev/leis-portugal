@@ -72,6 +72,18 @@ BLOCO3 = {
     "pt:dre:554384:por": "o regime era do Orçamento do Estado de 2000 e foi substituído pelo Despacho Normativo n.º 27-A/2001.",
     "pt:dre:405925:por": "a Escola Superior de Tecnologias Navais foi extinta pelo Decreto-Lei n.º 37/2008.",
 }
+# Camada 1, onda 2, ronda 119: a segunda leitura jurídica deu-os como sem vigência (o texto consolidado
+# está certo). Os revogados ou extintos por outro diploma estão em reports/vigencia-manual.jsonl.
+CAMADA1_119 = {
+    "pt:dre:601283:por": ("nao_vigora", "Decreto-Lei n.º 21/93",
+                          "era temporário: prorrogou o adicional até 31/12/1993 (art. 1.º) e fixou a redução «em 1993» (art. 2.º); o Decreto-Lei n.º 20/94 eliminou o adicional em 1994."),
+    "pt:dre:553889:por": ("nao_vigora", "Decreto Legislativo Regional n.º 5/2012/M",
+                          "é o Orçamento da Região Autónoma da Madeira para 2012, de vigência anual; as normas que alteram outros diplomas produziram efeito nesses diplomas."),
+    "pt:dre:309893:por": ("por_confirmar", "Decreto-Lei n.º 621-A/74",
+                          "regula só o recenseamento para a eleição da Assembleia Constituinte de 1975, com prazos de 1974-1975; não há declaração expressa de caducidade."),
+    "pt:dre:512987:por": ("por_confirmar", "Decreto-Lei n.º 43351",
+                          "o art. 31.º do Decreto-Lei n.º 50/93 revoga-o, mas o art. 32.º mantém-no em vigor enquanto não forem publicados os regulamentos previstos; falta confirmar essa publicação."),
+}
 TITULOS_BLOCO3 = {
     "pt:dre:1037778:por": "Portaria n.º 210/2007", "pt:dre:395573:por": "Portaria n.º 1171/91", "pt:dre:663299:por": "Portaria n.º 64/87",
     "pt:dre:522225:por": "Portaria n.º 317-B/2000", "pt:dre:459922:por": "Portaria n.º 22/2010", "pt:dre:460206:por": "Despacho Normativo n.º 32/95",
@@ -269,6 +281,8 @@ def construir(rotulos: Path, processos: Path) -> tuple[list[dict], list[dict]]:
     for id_, motivo in BLOCO3.items():
         titulo = consolidados.get(id_, {}).get("titulo") or TITULOS_BLOCO3[id_]
         marcar(id_, titulo, "nao_vigora", "bloco3", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/verificacao/segunda-leitura-114.jsonl"}], "segunda leitura (Opus), ronda 114")
+    for id_, (marca, titulo, motivo) in CAMADA1_119.items():
+        marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-119/"}], "segunda leitura (Opus), camada 1, ronda 119")
     for v in vig:
         if v["prova"] == "legal_status":
             marcar(v["id"], v["titulo"], "nao_vigora", "revogado_dre", "o próprio registo do DRE dá-o como revogado ou sem vigência.", [{"tipo": "legal_status", "valor": v["legal_status"]}])
