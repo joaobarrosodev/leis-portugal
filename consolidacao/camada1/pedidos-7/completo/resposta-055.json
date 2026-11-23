@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pt:dre:363960:por",
+  "artigos": [
+   {
+    "chave": "10.º-A",
+    "epigrafe": "Docentes no exercício de funções de administração e gestão",
+    "texto": "À avaliação dos docentes que ocupem cargos de direcção, gestão e administração dos estabelecimentos de educação ou de ensino e que exerçam simultaneamente funções lectivas são aplicáveis as regras estabelecidas no presente diploma e no ECD, com as seguintes especialidades:\n\na) As competências previstas nos artigos 5.º, 7.º e 8.º, n.º 2, relativamente ao processo de avaliação dos docentes titulares dos cargos de director de estabelecimento de educação pré-escolar e do 1.º ciclo do ensino básico não integrado no modelo de gestão definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, de director executivo de escola ou de área escolar, de presidente de conselho directivo de escola e de director de escola profissional são exercidas pelo respectivo director regional de educação;\n\nb) Os docentes, quando membros do órgão colegial a quem compete proceder à avaliação, não podem participar na deliberação que lhes diga directamente respeito.",
+    "alterador": 2
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "Avaliação",
+    "texto": "1 - O disposto neste capítulo é aplicável aos docentes que exerçam funções de natureza técnico-pedagógica em serviços da Administração Pública.\n\n2 - A avaliação prevista no número anterior exprime-se por uma menção qualitativa obtida através do sistema de notação em vigor para o pessoal técnico superior ou técnico do serviço onde o docente se encontra requisitado, destacado ou em comissão de serviço, com as adaptações previstas nos números seguintes.\n\n3 - O serviço prestado por docentes no exercício de funções de direcção ou chefia considera-se, para efeitos deste diploma, avaliado como Satisfaz.\n\n4 - Os docentes que ocupem cargos de direcção, gestão e administração nos estabelecimentos de educação ou de ensino, desde que não vinculados à prestação efectiva de funções lectivas, consideram-se avaliados, para os efeitos estabelecidos no presente diploma, com Satisfaz.",
+    "alterador": 2
+   },
+   {
+    "chave": "26.º",
+    "epigrafe": "Dispensa da avaliação relativa ao tempo de serviço prestado em anos anteriores",
+    "texto": "1 - Os docentes abrangidos pelo regime previsto no presente diploma ficam dispensados da avaliação relativa ao tempo de serviço prestado até à data da sua entrada em vigor, sendo facultativa a elaboração do relatório crítico sobre a actividade desenvolvida no período de tempo de serviço que releva para os efeitos de progressão na carreira.\n\n2 - Até à aplicação generalizada do novo modelo de administração, direcção e gestão dos estabelecimentos de educação e de ensino, definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, nos jardins-de-infância e nas escolas do 1.º ciclo do ensino básico, o respectivo dirctor exercerá as funções previstas os artigos 5.º, 6.º, 7.º e 8.º deste diploma.\n\n3 - Em relação às escolas com menos de três lugares, as competências referidas no número anterior são exercidas pelo presidente do conselho escolar.\n\n4 - No caso de jardins-de-infância sem director, as competências previstas no n.º 2 são exercidas pelo delegado escolar respectivo.",
+    "alterador": 1
+   },
+   {
+    "chave": "27.º",
+    "epigrafe": "Entrada em vigor",
+    "texto": "O presente diploma entra em vigor no dia 1 de Setembro de 1992.\n\nPresidência do Conselho de Ministros, 11 de Maio de 1992.\n\nJoaquim Fernando Nogueira - Jorge Braga de Macedo - António Fernando Couto dos Santos.\n\nPromulgado em 2 de Julho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Julho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "### CAPÍTULO IV — Docentes requisitados, destacados ou em comissão de serviço",
+    "novo": "### CAPÍTULO IV — Docentes requisitados, destacados, em comissão de serviço ou no exercício exclusivo de funções de administração e gestão.",
+    "alterador": 2
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 3.º n.º 2 (revogam-se as disposições na parte em que contrariem o DL 41/96): revogação condicional; o resto do DL 41/96 aprova um regime transitório próprio e não altera o texto do original.",
+  "instrucoes": [
+   "Alterador 1: art. 26.º n.º 1, «presente capítulo» passa a «presente diploma»; assinaturas do art. 27.º, substituído «João de Deus Rogado Salvador Pinheiro» por «António Fernando Couto dos Santos» (texto do 27.º reposto do original, sem a linha de assinaturas duplicada).",
+   "Alterador 2, art. 1.º: aditado o art. 10.º-A.",
+   "Alterador 2, art. 2.º: nova epígrafe do capítulo IV e nova redação do art. 12.º (n.os 1 a 3 mantêm-se, novo n.º 4; nova epígrafe).",
+   "Alterador 3: art. 3.º n.º 2 revogação condicional, não aplicada; sem alteração textual ao original."
+  ]
+ }
+]

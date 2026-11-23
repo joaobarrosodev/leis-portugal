@@ -2,35 +2,45 @@
   "id": "pt:dre:221167:por",
   "artigos": [
     {
-      "chave": "3.º-A",
-      "epigrafe": "Autoridade competente",
-      "texto": "1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e à segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado por autoridade competente, competindo-lhe, designadamente:\n\na) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar e coordenar a execução do plano oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.",
-      "alterador": 3
+      "chave": "7.º",
+      "epigrafe": "Advertência quanto à presença de polióis e de aspártamo",
+      "texto": "A rotulagem dos edulcorantes de mesa que contenham polióis e ou aspártamo deve incluir as seguintes advertências:\n\na) Para os polióis: «O seu consumo excessivo pode ter efeitos laxativos»;\n\nb) Para o aspártamo: «Contém uma fonte geradora de fenilalanina».\n\nc) Para os sais de aspártamo e de acessulfame: 'Contém uma fonte de fenilalanina'.",
+      "alterador": 2
     },
     {
       "chave": "11.º",
       "epigrafe": "Fiscalização, instrução e decisão",
       "texto": "1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.",
-      "alterador": 3
+      "alterador": 4
+    },
+    {
+      "chave": "3.º-A",
+      "epigrafe": "Autoridade competente",
+      "texto": "1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e à segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado por autoridade competente, competindo-lhe, designadamente:\n\na) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar e coordenar a execução do plano oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.",
+      "alterador": 4
     }
   ],
   "removidos": [],
   "titulos": [],
-  "anexos": [],
-  "nao_aplicavel": "As alterações aos quadros do anexo não se podem aplicar ao texto: os quadros só vêm em imagem («ver quadros no documento original») e o corpo do anexo no texto atual tem apenas a Nota (n.os 1 e 2), onde não aparecem as designações nem as entradas visadas. São elas: DL 216/2004, art. 2.º, n.º 2, e anexo I, n.º 1 (novas designações de categorias de géneros alimentícios nos quadros) e n.º 2, a) (quadro III, E 951, aditada «Confeitaria - Essoblaten - 1000 mg/kg») e b) (quadro IV, E 952, 400 mg/l passa a 250 mg/l e supressão de categorias); DL 216/2004, art. 3.º e anexo II (aditamento dos quadros VIII e IX, só em imagem, e a sua nota); DL 33/2008, art. 3.º e anexo II (E 968 «Eritritol» na linha E 420 a E 967); DL 94/2010, art. 5.º e anexo II (aditamento do quadro X, só em imagem).",
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Nota",
+      "texto": "1 - No caso da substância E 952, «Ácido ciclâmico e seus sais de Na e Ca», as doses máximas de utilização são expressas em ácido livre.\n\n2 - No caso da substância E 954, «Sacarina e seus sais de Na, K e Ca», as doses máximas de utilização são expressas em imida livre.\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/12/284a00/67316739.pdf)\n\nQUADRO VIII\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)\n\nQUADRO IX\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)\n\nNota. - As doses máximas de utilização de sal de aspártamo e acessulfame derivam das doses máximas de utilização das suas partes constituintes, o aspártamo (E 951) e o acessulfame-K (E 950). As doses máximas de utilização para o aspártamo (E 951) e para o acessulfame-K (E 950) não devem ser excedidas pela sua utilização combinada ou não com o sal de aspártamo e acessulfame. Os limites desta coluna são expressos em (a) equivalentes de acessulfame-K ou em (b) equivalentes de aspártamo.\n\nQUADRO X\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, retificação do quadro II do anexo (Acesulfame K, «200 mg/kg» para «2000 mg/kg»): só em imagem: os quadros do anexo só existem em imagem no texto atual e o alterador não traz imagem; não há texto onde aplicar a correção.\nAlterador 2, art. 2.º n.º 2 e anexo I n.º 1 (novas designações de categorias de géneros alimentícios nos quadros do anexo): só em imagem: os quadros do anexo só existem em imagem no texto atual e o alterador não traz imagem.\nAlterador 2, anexo I n.º 2 a) (quadro III, E 951 Aspártamo, nova categoria «Confeitaria - Essoblaten - 1000 mg/kg»): só em imagem: o quadro III só existe em imagem no texto atual e o alterador não traz imagem.\nAlterador 2, anexo I n.º 2 b) (quadro IV, E 952, dose de 400 mg/l para 250 mg/l e supressão de categorias): só em imagem: o quadro IV só existe em imagem no texto atual e o alterador não traz imagem.\nAlterador 3, art. 3.º e anexo II (na 1.ª e 2.ª colunas da linha E 420 a E 967 acrescentados «E 968» e «Eritritol»): só em imagem: o quadro só existe em imagem no texto atual e o alterador não traz imagem.\nAlterador 3, art. 2.º (arts. 2.º e 7.º e anexos do Decreto-Lei n.º 121/98): outro diploma: altera o Decreto-Lei n.º 121/98.\nAlterador 4, arts. 2.º e 6.º (anexos I, II e IV do Decreto-Lei n.º 365/98): outro diploma: alteram o Decreto-Lei n.º 365/98.",
   "instrucoes": [
-    "Alterador 1 (DL 216/2004), art. 2.º, n.º 1: art. 7.º com nova alínea c) — já está assim no texto atual (a) e b) mantidas, c) aditada); sem mudança.",
-    "Alterador 1, art. 2.º, n.º 2, e anexo I: alterações aos quadros do anexo (só em imagem) — nao_aplicavel.",
-    "Alterador 1, art. 3.º e anexo II: aditamento dos quadros VIII e IX (imagem) — nao_aplicavel.",
-    "Alterador 2 (DL 33/2008), art. 2.º e anexo I: alteram o DL 121/98 — ignorados.",
-    "Alterador 2, art. 3.º e anexo II: E 968 Eritritol num quadro do anexo (imagem) — nao_aplicavel.",
-    "Alterador 3 (DL 94/2010), art. 2.º, art. 6.º e anexo I: alteram o DL 365/98 — ignorados.",
-    "Alterador 3, art. 3.º: nova redação do art. 11.º — aplicada.",
-    "Alterador 3, art. 4.º: aditado o art. 3.º-A — aplicado.",
-    "Alterador 3, art. 5.º e anexo II: aditamento do quadro X (imagem) — nao_aplicavel."
+    "Alterador 1: retificação do quadro II só em imagem; não aplicada.",
+    "Alterador 2, art. 2.º n.º 1: nova redação do art. 7.º, aditada a alínea c); [...] e alíneas a) e b) ficam o texto atual.",
+    "Alterador 2, art. 3.º e anexo II: aditados os quadros VIII e IX ao anexo (imagem do alterador acrescentada ao corpo atual do anexo); as alterações do anexo I aos quadros III e IV e às designações, só em imagem, não aplicadas.",
+    "Alterador 3: alteração textual da linha E 420 a E 967 do quadro só em imagem, não aplicada; resto é de outro diploma.",
+    "Alterador 4, art. 3.º: nova redação do art. 11.º. Art. 4.º: aditado o art. 3.º-A. Art. 5.º e anexo II: aditado o quadro X ao anexo (imagem do alterador acrescentada)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

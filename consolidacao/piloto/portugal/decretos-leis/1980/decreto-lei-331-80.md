@@ -792,10 +792,6 @@ Art. 97.º As revistas de tropas executam-se do modo seguinte:
 
 5) Logo que a entidade que vem passar a revista entra no campo, o comandante das forças em parada manda fazer o toque (ou dá a voz de sentido, seguido do sinal correspondente àquela entidade, e em seguida manda ombro-arma.
 
-> Alterado pelo/a [Decreto-Lei n.º 214/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1981-579971), publicado em 1981-07-16.
-
-Esta entidade, dirigindo-se, com o seu séquito, à frente do comandante das forças, coloca-se no ponto de continência (devidamente assinalado) e aí recebe a continência devida à sua categoria, a qual é executada ao toque de requinta (clarim ou corneteiro) de ordens do comandante das forças em parada. Ao mesmo tempo, havendo artilharia, esta salvará como se determina no capítulo V, secção III. O séquito da entidade forma por categorias numa ou mais fileiras, na sua retaguarda, a uma distância de 10 m. As ordenanças formam na retaguarda do séquito e a 10 m dele;
-
 6) Recebida e correspondida esta continência, o comandante ordenará os toques de ombro-arma e descansar-arma.
 
 > Alterado pelo/a [Decreto-Lei n.º 214/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1981-579971), publicado em 1981-07-16.
@@ -1132,7 +1128,9 @@ Descansar;
 
 11 - Quando a entidade a quem se prestam honras atingir o final do itinerário e a sua viatura parar para a mesma entidade sair, o comandante das forças em alas assiste à sua saída na posição de sentido, devendo fazer a continência.
 
-12 - Seguidamente, e por determinação do CFA, o clarim de ordens executará o toque de destroçar sem sinal de execução e precedido do sinal da região militar ou equivalente a que as tropas pertencerem. Este toque, que será repetido pelos corneteiros (clarins) de todas as unidades, será a indicação de que estas poderão recolher a quartéis.
+12 - Seguidamente, e por determinação do CFA, o clarim de ordens executará o toque de destroçar sem sinal de execução e precedido do sinal da região militar ou equivalente a que as tropas pertencem. Este toque, que será repetido pelos corneteiros (clarins) de todas as unidades, será a indicação de que estas poderão recolher a quartéis.
+
+> Alterado pelo/a [Decreto-Lei n.º 214/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1981-579971), publicado em 1981-07-16.
 
 13 - Logo que a vanguarda da escolta de honra desembarace o itinerário, o CFA recolherá a quartéis.
 
@@ -1186,11 +1184,15 @@ Presidente da República;
 
 Chefe do Estado-Maior-General das Forças Armadas;
 
+> Alterado pelo/a [Decreto-Lei n.º 214/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1981-579971), publicado em 1981-07-16.
+
 Vice-Chefe do Estado-Maior-General das Forças Armadas e Chefes dos Estados-Maiores dos três ramos das forças armadas;
 
 Conselheiros da Revolução;
 
 Ministros;
+
+> Alterado pelo/a [Decreto-Lei n.º 214/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1981-579971), publicado em 1981-07-16.
 
 Comandantes-Chefes da Madeira e dos Açores, na área do seu comando;
 

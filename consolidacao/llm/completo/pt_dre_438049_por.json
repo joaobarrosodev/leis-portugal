@@ -11,13 +11,14 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Lei n.º 5/2004, artigo 127.º, n.º 1, alínea a): revoga a Lei n.º 91/97, de 1 de Agosto, «com a redacção que lhe foi dada pelo artigo 1.º da Lei n.º 29/2002», com excepção dos n.os 2 e 3 do artigo 12.º. É uma revogação dirigida a outro diploma (a Lei n.º 91/97, na redacção dada pelo original), não ao artigo 1.º da Lei n.º 29/2002, que nenhuma instrução revoga; por isso não se aplica ao texto do original.",
+  "nao_aplicavel": "Alterador 1, artigo 127.º, n.º 1, alínea a): revoga a Lei n.º 91/97 (com a redação do artigo 1.º da Lei n.º 29/2002, salvo os n.os 2 e 3 do artigo 12.º): outro diploma; a instrução visa a Lei n.º 91/97 e não revoga o artigo 1.º do original, pelo que o artigo 1.º, que o programa deixou \"(Revogado.)\", é reposto com a redação original.",
   "instrucoes": [
-    "Lei n.º 5/2004, art. 127.º, n.º 1, a): revogação da Lei n.º 91/97 na redacção dada pelo art. 1.º da Lei n.º 29/2002 — instrução a outro diploma, não aplicada ao original. O programa tinha revogado o artigo 1.º; reposto o artigo 1.º letra a letra do bloco «como estava no original». Reparo do verificador confirmado.",
-    "Restantes alíneas e números do art. 127.º (outros diplomas, Portaria n.º 791/98): não respeitam ao original."
+    "Lei 5/2004, art. 127.º, n.º 1, al. a): revoga a Lei 91/97 (outro diploma); não revoga o art. 1.º do original; reposto o art. 1.º como estava."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

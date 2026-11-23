@@ -1,0 +1,14 @@
+[
+ {
+  "id": "pt:dre:381106:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Declaração de retificação (no quadro do pessoal, «Fiscais de obras públicas auxiliares» passa a «Fiscais auxiliares de obras públicas»): só em imagem: o quadro do pessoal do original só existe em imagem e não há título de anexo no texto atual onde o pôr.\nAlterador 2, Portaria n.º 39/81, n.º 6.º (quadro de pessoal da DGERU substituído pelo quadro do anexo VI): só em imagem: o quadro novo só vem em imagem e o texto atual não tem título de anexo onde o pôr; os n.os 1.º a 5.º e 7.º visam quadros de outros diplomas (outro diploma).",
+  "instrucoes": [
+   "Alterador 1: retificação do quadro do pessoal (imagem), sem título de anexo no texto atual: nao_aplicavel.",
+   "Alterador 2: n.º 6.º substitui o quadro da DGERU pelo anexo VI (imagem), sem título de anexo no texto atual: nao_aplicavel; restantes números são de outros diplomas."
+  ]
+ }
+]

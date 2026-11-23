@@ -17,8 +17,6 @@ consolidacao:
 
 # Decreto-Lei n.º 418-B/98
 
-de 31 de Dezembro
-
 A 13 de Junho 1985, o Conselho de Ministros da Cultura das Comunidades Europeias decidiu, através da Resolução n.º 85/C/153/02, instituir a organização de uma manifestação de cariz cultural intitulada «Capital Europeia da Cultura», a qual foi reiterada através das conclusões dos Ministros da Cultura reunidos em Conselho em 18 de Maio de 1990 (n.º 90/C 162/01) e em 18 de Maio de 1992 (n.º 92/C 151/01).
 
 No entender dos Ministros da Cultura das Comunidades, esta manifestação deve ser expressão da riqueza e das diversidades culturais europeias e deve contribuir para a aproximação dos povos nos Estados membros, tendo sempre presente as afinidades e elementos comuns da consciência europeia.
@@ -39,9 +37,9 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 4 - A partir da data de entrada em vigor do presente diploma, todas as menções legais, contratuais ou outras referentes à sociedade Porto 2001, S. A., devem considerar-se, para todos os efeitos legais, como sendo feitas à sociedade Casa da Música/Porto 2001, S. A.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 2.º
 
@@ -49,7 +47,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 2 - Podem ainda ser admitidas como accionistas da Porto 2001, S. A., outras pessoas colectivas de direito público.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 3.º
 
@@ -57,9 +55,9 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 4.º
 
@@ -71,11 +69,13 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 4 - Os direitos do Estado como accionista serão exercidos por um representante designado por despacho conjunto dos Ministros das Finanças, do Planeamento e da Cultura.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 5.º
 
 (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 > Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
@@ -95,7 +95,13 @@ Para prossecução do seu objecto social é conferido à Porto 2001, S. A., para
 
 5 - A Porto 2001, S. A., na prossecução do seu objecto social, terá o direito de ocupar e de utilizar os bens do domínio público do Estado ou dos municípios com isenção total de taxas e de quaisquer outros encargos, salvo decisão municipal em contrário.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
+
+###### Artigo 7.º-A
+
+Todos os investimentos, bem como os respectivos suportes documentais e registos, que a Porto 2001, S. A., realize ao abrigo das competências, direitos e obrigações conferidos à sociedade pelo município do Porto, nos termos do n.º 3 do artigo 3.º do presente diploma, serão, à data da extinção da sociedade, transferidos para a Câmara Municipal do Porto.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 8.º
 
@@ -103,7 +109,7 @@ Os funcionários públicos da administração central directa ou indirecta e da 
 
 ###### Artigo 9.º
 
-As obrigações contraídas pela Porto 2001, S. A., nomeadamente as que resultem de emissão ou contracção de empréstimos, ou de outros financiamentos constantes do plano anual de actividades, poderão gozar de garantia do Estado, nos termos da [Lei n.º 112/97](https://diariodarepublica.pt/dr/detalhe/lei/112-1997-649166), de 16 de Setembro.
+As obrigações contraídas pela Porto 2001, S. A., nomeadamente as que resultem de emissão ou contracção de empréstimos, ou de outros financiamentos constantes do plano anual de actividades, poderão gozar de garantia do Estado, nos termos da Lei n.º 112/97, de 16 de Setembro.
 
 ###### Artigo 10.º
 
@@ -119,7 +125,7 @@ c) Outros elementos que o conselho de administração julgue adequados à compre
 
 3 - Anualmente será efectuada uma auditoria completa à sociedade, a levar a efeito por uma firma de auditores independentes de reconhecida reputação, devendo ser enviada cópia do respectivo relatório aos Ministros das Finanças, do Planeamento e da Cultura.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 11.º
 
@@ -127,11 +133,13 @@ c) Outros elementos que o conselho de administração julgue adequados à compre
 
 2 - Os estatutos anexos ao presente diploma não carecem de redução a escritura pública, devendo o registo comercial competente ser feito oficiosamente com base no Diário da República em que hajam sido publicados.
 
+3 - (Revogado.)
+
 4 - Os actos necessários ao registo da constituição, bem como todas as alterações posteriores aos estatutos anexos, estão isentos de quaisquer taxas ou emolumentos, nomeadamente participações emolumentares, notariais, de registo ou de outro tipo e de qualquer natureza.
 
-> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
-> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
 ###### Artigo 12.º
 
@@ -139,7 +147,7 @@ c) Outros elementos que o conselho de administração julgue adequados à compre
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que eleitos, sem dependência de outras formalidades, salvo a prestação de caução, se a ela houver lugar, e manter-se-ão em exercício de funções até à eleição de quem deve substituí-los.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 13.º
 
@@ -161,7 +169,7 @@ Referendado em 30 de Dezembro de 1998.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-ESTATUTOS DA PORTO 2001, S. A.
+## Anexo — ESTATUTOS DA PORTO 2001, S. A.
 
 ###### Artigo 1.º — Tipo, denominação e duração
 
@@ -169,7 +177,7 @@ ESTATUTOS DA PORTO 2001, S. A.
 
 2 - A sociedade dura até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 2.º — Sede
 
@@ -183,7 +191,9 @@ A sede social é na Casa das Artes, Palácio Vilar de Allen, na cidade do Porto.
 
 3 - A sociedade poderá adquirir, originária ou derivadamente, participações no capital de sociedades de responsabilidade limitada.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 4.º — Capital social
 
@@ -207,7 +217,7 @@ a) No ano de 2000:
 
 b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor.
 
-> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 5.º — Acções
 
@@ -221,7 +231,7 @@ b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor
 
 5 - A sociedade poderá emitir acções preferenciais sem direito a voto, conferindo direito a um dividendo prioritário, remíveis ou não, dentro dos limites legais e nas condições que vierem a ser fixadas pela assembleia geral que tal deliberar.
 
-> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 6.º — Direito de preferência
 
@@ -234,12 +244,6 @@ b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor
 1 - A sociedade pode emitir obrigações ou outros valores mobiliários nos termos da legislação em vigor e, bem assim, efectuar sobre obrigações próprias ou outros valores mobiliários por si emitidos as operações legalmente permitidas.
 
 2 - A emissão de obrigações ou de outros valores mobiliários pode ser deliberada pelo conselho de administração, quando o respectivo montante não exceder o valor anualmente fixado, para esse efeito, pela assembleia geral.
-
-###### Artigo 7.º-A
-
-Todos os investimentos, bem como os respectivos suportes documentais e registos, que a Porto 2001, S. A., realize ao abrigo das competências, direitos e obrigações conferidos à sociedade pelo município do Porto, nos termos do n.º 3 do artigo 3.º do presente diploma, serão, à data da extinção da sociedade, transferidos para a Câmara Municipal do Porto.
-
-> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
 ###### Artigo 8.º — Órgãos sociais
 
@@ -285,7 +289,7 @@ i) Deliberar sobre qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 11.º — Mesa da assembleia geral
 
@@ -301,7 +305,7 @@ A assembleia geral reunir-se-á pelo menos uma vez por ano e sempre que for conv
 
 2 - O presidente do conselho de administração tem voto de qualidade.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 14.º — Competência do conselho de administração
 
@@ -337,6 +341,8 @@ n) Exercer as demais competências decorrentes da lei e destes estatutos.
 
 3 - Compete ao presidente do conselho de administração a coordenação das actividades do conselho, a convocação das suas reuniões e zelar pela correcta execução das deliberações do conselho.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
+
 > Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 15.º — Reuniões do conselho de administração
@@ -349,7 +355,7 @@ n) Exercer as demais competências decorrentes da lei e destes estatutos.
 
 4 - Nenhum administrador pode representar mais de um administrador.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 16.º — Representação
 
@@ -363,7 +369,7 @@ c) Pela assinatura de um mandatário ou procurador da sociedade.
 
 2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 17.º — Fiscal único
 
@@ -379,11 +385,13 @@ b) Chamar à atenção do conselho de administração para qualquer assunto que,
 
 c) Enviar trimestralmente aos Ministros das Finanças, do Planeamento e da Cultura um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação ao orçamento.
 
-> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), em vigor a partir de 2001-02-09.
 
 ###### Artigo 19.º — Conselho consultivo
 
 (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 > Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
@@ -391,11 +399,15 @@ c) Enviar trimestralmente aos Ministros das Finanças, do Planeamento e da Cultu
 
 (Revogado.)
 
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
+
 > Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 21.º — Reuniões do conselho consultivo
 
 (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 > Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
@@ -409,7 +421,7 @@ A sociedade terá secretário e secretário suplente, que exercerão as competê
 
 2 - Fica a assembleia geral convocada para o 1.º dia útil após aquela data, a fim de estabelecer a forma de execução da liquidação e nomear o administrador liquidatário.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.
 
 ###### Artigo 24.º — Mandato dos órgãos sociais
 
@@ -417,4 +429,4 @@ A sociedade terá secretário e secretário suplente, que exercerão as competê
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que eleitos, sem dependência de outras formalidades, salvo a prestação de caução, se a ela houver lugar, e manter-se-ão em exercício de funções até à eleição de quem deve substituí-los.
 
-> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2002 - Diário da República n.º 117/2002, Série I-A de 2002-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), em vigor a partir de 2002-06-30.

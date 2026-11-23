@@ -5,17 +5,22 @@
       "chave": "1.º",
       "epigrafe": "",
       "texto": "1 - Os quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros e paramédicos, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.\n\n2 - O mapa n.º 1 e o mapa n.º 3 a que se refere o artigo 4.º são substituídos pelos que se anexam ao presente diploma.",
-      "alterador": 1
+      "alterador": 2
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Os novos mapas n.os 1 e 3 do Decreto-Lei n.º 203/85 só existem em imagem (ver documento original); não foram aplicados.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Declaração (rectificação ao mapa n.º 3, escalonamento de 1979 e 1981: «3» para «8», «5» e «1»): só em imagem: o mapa n.º 3 só existe em imagem, sem título de anexo no texto atual.\nAlterador 2, art. 4.º, n.º 2 (mapa n.º 1 e mapa n.º 3 substituídos pelos anexos ao alterador): só em imagem: os mapas só existem em imagem e não têm título de anexo no texto atual; o n.º 2 fica no artigo 1.º apenas como texto do alterador.\nAlterador 2, arts. 1.º a 3.º (criação da classe de enfermeiros e paramédicos, subclasses, compensação de encargos): não textual: não alteram artigos do original.",
   "instrucoes": [
-    "Alterador 1, arts. 1.º a 3.º: criação da classe de enfermeiros e paramédicos e compensações; não textuais.",
-    "Alterador 1, art. 4.º: nova redação do artigo 1.º; aplicada.",
-    "Alterador 1, art. 4.º: substituição dos mapas n.os 1 e 3; só em imagem, não aplicada."
+    "Alterador 1: rectificação de valores no mapa n.º 3 (imagem): nao_aplicavel.",
+    "Alterador 2, art. 4.º: nova redação do artigo 1.º do original (n.os 1 e 2), copiada do alterador.",
+    "Alterador 2, arts. 1.º a 3.º e mapas: não aplicáveis ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -2,6 +2,12 @@
   "id": "pt:dre:641126:por",
   "artigos": [
     {
+      "chave": "4.º",
+      "epigrafe": "Águas poluídas ou susceptíveis de poluição e zonas vulneráveis",
+      "texto": "1 - Por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, sob proposta do Instituto da Água (INAG), ouvidas as direcções regionais de agricultura (DRA) e o Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA), serão identificadas, por lista, as águas poluídas e as águas susceptíveis de serem poluídas, bem como as zonas vulneráveis de acordo com os critérios definidos no anexo I ao presente diploma, que dele faz parte integrante.\n\n2 - A lista mencionada no número anterior deverá ser analisada e, se necessário, revista ou aumentada em tempo oportuno e, pelo menos, de quatro em quatro anos, de modo a ter em conta alterações e factores imprevistos por ocasião da primeira designação.\n\n3 - Compete ao INAG notificar a Comissão Europeia, no prazo de seis meses, da lista referida no n.º 1 e de qualquer alteração que nela venha a ocorrer.",
+      "alterador": 1
+    },
+    {
       "chave": "5.º",
       "epigrafe": "Controlo",
       "texto": "1 - A designação e revisão da designação das zonas vulneráveis será feita mediante:\n\na) A realização de um programa de controlo de concentração de nitratos nas águas doces durante um ano:\n\ni) Nas estações de colheita de amostras de águas superficiais referidas no n.º 4 do artigo 5.º da Directiva n.º [75/440/CEE](https://data.europa.eu/eli/dir/1975/440/oj?locale=pt) ou noutras estações de colheita de amostras representativas das águas superficiais, pelo menos, mensalmente e mais frequentemente durante os períodos de cheias;\n\nii) Nas estações de colheita de amostras representativas dos lençóis freáticos, em intervalos regulares, tendo em conta o disposto na Directiva n.º [80/778/CEE](https://data.europa.eu/eli/dir/1980/778/oj?locale=pt);\n\nb) O programa de controlo referido na alínea a) deverá ser repetido pelo menos de quatro em quatro anos, excepto no que se refere às estações de amostragem em que a concentração de nitratos em todas as amostras anteriores tenha sido inferior a 25 mg/l e em que não tenha sido registado qualquer novo factor susceptível de aumentar o teor dos nitratos; nesses casos, o programa de controlo só necessita de ser aplicado de oito em oito anos;\n\nc) A avaliação do estado de eutrofização das águas doces superficiais, dos estuários e das águas costeiras, de quatro em quatro anos.\n\n2 - Deverão utilizar-se os métodos de análise de referência constantes do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - Compete às direcções regionais do ambiente, sob a coordenação do INAG, e em concertação com as direcções regionais de agricultura e outras entidades com competência técnica específica para o efeito e capacidade laboratorial disponível, realizar o programa de controlo da concentração de nitratos nas águas doces superficiais e subterrâneas referido na alínea a) do n.º 1 e a avaliação do estado de eutrofização referida na alínea c) do mesmo número.\n\n4 - Os resultados analíticos obtidos através do cumprimento do disposto no número anterior serão enviados ao INAG, que os deverá manter em registos adequados à sua permanente actualização e fácil disponibilização.",
@@ -28,17 +34,19 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 1, anexo I, n.º 2, alínea d): alvo incerto; a instrução do DL 68/99 só indica «2 - ... a) ... b) ... c) ...» e nada diz da alínea d) do original («À caracterização das actividades humanas nas áreas envolventes»); a omissão pode significar eliminação, mas não há instrução expressa, por isso a alínea d) mantém-se como no texto atual.\nAlterador 2, Portaria n.º 177/2005 (artigos 7.º e 12.º e anexos II e III do Regulamento de Aplicação da Intervenção Indemnizações Compensatórias): outro diploma; altera a Portaria n.º 46-A/2001 e só refere o DL 235/97 nas boas práticas agrícolas.",
   "instrucoes": [
-    "DL 68/99, artigo único, art. 4.º n.º 2: já aplicado pelo programa e certo; mantém-se.",
-    "DL 68/99, art. 5.º (nova redacção dos n.os 1 a 4, sai o n.º 5): o programa aplicou-o, mas sem as ligações das Directivas 75/440/CEE e 80/778/CEE; devolvido letra a letra do alterador.",
-    "DL 68/99, art. 7.º n.º 1 nova redacção com alíneas a) e b); n.os 2 a 8 mantêm-se: aplicado.",
-    "DL 68/99, anexo I: n.º 1 (corpo, a) e c)) nova redacção; b) e n.º 2 mantêm-se: aplicado.",
-    "DL 68/99, anexo V: n.º 4 (corpo e a)) nova redacção e aditadas d) e e); restantes mantêm-se: aplicado.",
-    "Portaria 177/2005: altera a Portaria 46-A/2001 (Regulamento das Indemnizações Compensatórias), não o DL 235/97: ignorada."
+    "Alterador 1, art. 4.º: n.os 1 e 3 mantêm-se («...»), n.º 2 com nova redação.",
+    "Alterador 1, art. 5.º: nova redação inteira (n.os 1 a 4); o antigo n.º 5 não consta da nova redação e sai.",
+    "Alterador 1, art. 7.º: n.º 1 com nova redação e alíneas a) e b); n.os 2 a 8 mantidos.",
+    "Alterador 1, anexo I: n.º 1 (corpo), alínea a) e alínea c) com nova redação, alínea b) mantida; n.º 2 com as alíneas a), b) e c) mantidas e d) mantida (omissão sem instrução expressa).",
+    "Alterador 1, anexo V: n.º 4, nova alínea a), alíneas b) e c) mantidas, aditadas as alíneas d) e e).",
+    "Alterador 2: altera outro diploma; nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

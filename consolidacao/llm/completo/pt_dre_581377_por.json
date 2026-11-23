@@ -1,14 +1,28 @@
 {
   "id": "pt:dre:581377:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições gerais dos empréstimos",
+      "texto": "Os empréstimos a realizar pelo Governo Regional devem subordinar-se às seguintes condições gerais:\n\na) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, ou outras entidades nacionais e internacionais, sendo a opção pelos empréstimos externos ou internos ditada pela preocupação de reduzir os encargos com a dívida pública regional;\n\nb) Não ultrapassarem o valor de 17 milhões de contos;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) As condições dos empréstimos internos não poderão ser mais gravosas do que as resultantes do mercado em matéria de prazo, taxa de juro e demais encargos, podendo as mesmas ser objecto dos ajustamentos técnicos que se revelarem aconselháveis;\n\ne) Serem os empréstimos externos contraídos em condições mais favoráveis do que as praticadas no mercado nacional de capitais, em matéria de prazo, taxa de juro e demais encargos.",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "DLR 18-A/98/A art. 1.º e DLR 1/99/A art. 1.º alteram os mapas I a V, que só vêm em imagem; DLR 1/99/A art. 2.º eleva para 17 milhões de contos o limite da alínea b) do art. 4.º sem dar nova redação (alteração não textual).",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (alteração dos mapas I a V): só em imagem, os mapas existem apenas em PDF e o texto atual não tem título de anexo onde os pôr.\nAlterador 2, art. 1.º (modificação do mapa I): só em imagem, o mapa existe apenas em PDF e o texto atual não tem título de anexo onde o pôr.",
   "instrucoes": [
-    "DLR 18-A/98/A: altera mapas I a V (só em imagem) - não aplicado.",
-    "DLR 1/99/A art. 1.º: altera mapa I (só em imagem) - não aplicado.",
-    "DLR 1/99/A art. 2.º: eleva limite da alínea b) do art. 4.º, sem redação nova - não aplicado."
+    "Alterador 1: altera os mapas I a V (só imagem); nao_aplicavel.",
+    "Alterador 2, art. 1.º: altera o mapa I (só imagem); nao_aplicavel.",
+    "Alterador 2, art. 2.º: limite da alínea b) do art. 4.º elevado para 17 milhões de contos; aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: b) Não ultrapassarem o valor de 17 milhões de contos;"
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

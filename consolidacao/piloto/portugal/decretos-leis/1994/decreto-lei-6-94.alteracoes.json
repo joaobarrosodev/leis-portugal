@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Órgãos e serviços\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Divisão de Divulgação e Gestão de Espaços;\n\ne) ...\n\nf) ...\n\ng) ...\n\nArt. 4.º - 1 - A DGESP dispõe do quadro de pessoal dirigente constante do anexo ao presente diploma.\n\n2 - Por portaria conjunta do Ministro das Finanças e do membro do Governo responsável pela área da cultura será aprovado o novo quadro de pessoal da DGESP.\n\nArt. 5.º O artigo 3.º dos Estatutos da Fundação de São Carlos, aprovados pelo [Decreto-Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1993-594967), de 10 de Março, passa a ter a seguinte redacção:",
+    "depois": "###### Artigo 3.º — Órgãos e serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1997-457029), publicado em 1997-04-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531396:por",
+    "alterador": "pt:dre:457029:por"
+  }
+]

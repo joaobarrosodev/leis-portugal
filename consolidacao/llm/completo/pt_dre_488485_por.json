@@ -41,22 +41,17 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 2 (Lei n.º 36/2020): suspende prazos de caducidade de contratos abrangidos, entre outros, pelo Decreto-Lei n.º 205/2009; não é alteração textual ao diploma nem ao Estatuto. Alterador 3 (Declaração de Retificação n.º 685/2025/2): retifica o Edital n.º 1197/2025 do ISCTE, não o Decreto-Lei n.º 205/2009 nem o Estatuto; nada a aplicar.",
+  "nao_aplicavel": "Alterador 2, suspensão dos prazos de caducidade dos contratos de trabalho (Lei n.º 36/2020): não textual, não altera o texto do original.\nAlterador 3, retificação do Edital n.º 1197/2025 (Declaração de Retificação n.º 685/2025/2): outro diploma, retifica um edital e só refere o Decreto-Lei n.º 205/2009.",
   "instrucoes": [
-    "Reparo 1 confirmado: Lei 8/2010, art. 1.º, dá nova redação aos artigos 6.º, 19.º, 25.º, 74.º-A e 76.º do Estatuto (anexo republicado); aplicada aos artigos do anexo, não ao art. 2.º do decreto-lei, que é norma de alteração.",
-    "Lei 8/2010, art. 1.º, Estatuto art. 6.º: nova alínea a) do n.º 2; o resto fica como estava.",
-    "Lei 8/2010, art. 1.º, Estatuto art. 19.º: novos n.os 3, 4 e 5; n.os 1 e 2 mantêm-se.",
-    "Lei 8/2010, art. 1.º, Estatuto art. 25.º: novos n.os 1, 2 e 3 (as antigas alíneas do n.º 1 desaparecem); n.º 4 é o anterior n.º 3, copiado do texto atual.",
-    "Lei 8/2010, art. 1.º, Estatuto art. 74.º-A: nova alínea b) do n.º 2 e aditada a alínea o); restantes alíneas mantêm-se, a n) fica letra a letra do texto atual.",
-    "Lei 8/2010, art. 1.º, Estatuto art. 76.º: novo n.º 1; n.º 2 mantém-se.",
-    "Reparo 2 confirmado: Lei 8/2010, art. 2.º, adita ao Estatuto o artigo 85.º-A (Instituições em regime fundacional), com chave do anexo.",
-    "Lei 8/2010, art. 3.º: nova redação dos n.os 1 e 5 do art. 10.º e dos n.os 1 e 7 do art. 11.º do decreto-lei; o programa aplicou-a corretamente (texto atual igual ao da lei), por isso não se devolvem.",
-    "Lei 8/2010, art. 4.º: entrada em vigor e efeitos; sem alteração textual.",
-    "Lei 36/2020: suspensão de prazos de caducidade, não textual; em nao_aplicavel.",
-    "Declaração de Retificação n.º 685/2025/2: retifica um edital, não este diploma; em nao_aplicavel."
+    "Alterador 1, art. 1.º: nova redação dos artigos 6.º, 19.º, 25.º, 74.º-A e 76.º do Estatuto (anexo do original): aplicada aos artigos do anexo; os '...' ficam com o texto atual; no 25.º o anterior n.º 3 passa a n.º 4.",
+    "Alterador 1, art. 2.º: aditado o artigo 85.º-A ao Estatuto (anexo): artigo novo no anexo.",
+    "Alterador 1, art. 3.º: nova redação dos artigos 10.º e 11.º do original: o texto atual (já alterado por um programa) já coincide com a redação do alterador, por isso não se devolve nada.",
+    "Alterador 1, art. 4.º: entrada em vigor e produção de efeitos: sem alteração textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

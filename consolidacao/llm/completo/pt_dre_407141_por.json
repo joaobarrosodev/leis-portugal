@@ -2,12 +2,18 @@
   "id": "pt:dre:407141:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alt.1 (Portaria n.º 515/77) adita duas unidades de telefonista ao quadro de pessoal anexo e alt.2 (Portaria n.º 415/80, n.º 4) substitui esse quadro pelo anexo IV; o quadro só existe em imagem e nenhum artigo é alterado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, n.º 1 da Portaria n.º 515/77 (aditar duas unidades de telefonista ao quadro de pessoal anexo): só em imagem: o quadro de pessoal está no texto atual apenas como imagem, sem título de anexo, e o alterador não traz imagem nova.\nAlterador 3, n.º 4 da Portaria n.º 415/80 (quadro de pessoal da Secretaria-Geral substituído pelo quadro anexo IV): só em imagem: o quadro anexo IV vem numa única imagem comum aos anexos I a IX, e o texto atual não tem título de anexo onde o pôr.\nAlterador 3, n.os 1 a 3 e 5 a 9 da Portaria n.º 415/80 (quadros de pessoal de outros organismos): outro diploma: não dizem respeito ao Decreto-Lei n.º 815/76.",
   "instrucoes": [
-    "Alt.1 n.º 1.º: aditamento ao quadro anexo (imagem); não aplicável ao texto.",
-    "Alt.2 n.º 4: substitui o quadro anexo pelo anexo IV (imagem); não aplicável. Restantes números dizem respeito a outros diplomas; ignorados."
+    "Alterador 1 (declaração de retificação, art. 9.º: Decreto-Lei n.º 100/73 passa a n.º 100/76): já está aplicada no texto atual do art. 9.º, que fica como está.",
+    "Alterador 2: aditamento de duas unidades de telefonista ao quadro (só em imagem): não aplicado.",
+    "Alterador 3: substituição do quadro de pessoal por quadro anexo IV (só em imagem): não aplicada; as demais instruções são de outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -8,13 +8,19 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Artigo 1.º do DLR 35/2003/A altera os mapas I, II, III, IV e V (e publica mapa IX) do orçamento, que só existem em imagem/PDF ('ver mapa no documento original'); não aplicável ao texto.",
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, alteração dos mapas I, II, III, IV, V e IX do orçamento: só em imagem: os mapas novos só existem em PDF («ver mapa no documento original») e o texto atual não tem título de anexo onde os pôr (os mapas do original aparecem só como linha de imagem no fim do texto).",
   "instrucoes": [
-    "Art. 1.º: altera os mapas I a V anexos; só em imagem, não aplicado (ver nao_aplicavel).",
-    "Art. 2.º: nova redação do artigo 4.º (limite de avales passa a (euro) 95000000); aplicada, epígrafe mantida por a nova redação não a trazer.",
-    "Art. 3.º: entrada em vigor do alterador; não é instrução sobre o original."
+    "Alterador 1, art. 1.º: altera os mapas I a V (e o mapa IX consta do anexo) com imagem; sem título de anexo no texto atual, vai para nao_aplicavel (só em imagem).",
+    "Alterador 1, art. 2.º: nova redação do artigo 4.º (avales e garantias: 95000000); devolvido o artigo com a epígrafe atual e o corpo novo.",
+    "Alterador 1, art. 3.º: entrada em vigor, sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

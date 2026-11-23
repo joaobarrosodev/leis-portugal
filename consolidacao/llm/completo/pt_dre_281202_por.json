@@ -1,14 +1,50 @@
 {
   "id": "pt:dre:281202:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Quadro de pessoal",
+      "texto": "O quadro de pessoal afecto ao serviço de operações aeroportuárias da Aerogare Civil das Lajes é o constante do mapa anexo ao diploma que regula a orgânica da Secretaria Regional da Economia.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Provimento nas categorias",
+      "texto": "1 - O provimento na categoria de assistente-chefe de operações aeroportuárias será feito de entre os assistentes principais de operações aeroportuárias com pelo menos seis anos de bom e efectivo serviço na categoria e que tenham durante esse período frequentado com aproveitamento duas acções de formação.\n\n2 - O provimento na categoria de assistente principal de operações aeroportuárias será feito de entre os assistentes graduados de operações aeroportuárias com um mínimo de três anos de bom e efectivo serviço na categoria e que tenham, nesse período, frequentado com aproveitamento duas acções de formação.\n\n3 - O provimento na categoria de assistente-graduado de operações aeroportuárias será efectuado de entre os assistentes de operações aeroportuárias com mais de três anos de bom e efectivo serviço na categoria.\n\n4 - O ingresso na categoria de assistente de operações aeroportuárias far-se-á mediante concurso, com realização de provas de conhecimentos, estipuladas no artigo 8.º do presente diploma, de entre os indivíduos que reúnam as condições previstas no n.º 1 do artigo 6.º e após um período mínimo de seis meses como estagiário de operações aeroportuárias, incluindo neste prazo o período da formação geral.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Métodos de selecção para categorias de ingresso",
+      "texto": "1 - A selecção dos candidatos que pretendam ingressar na carreira de assistente de operações aeroportuárias far-se-á mediante concurso de entre os indivíduos habilitados com o 12.º ano de escolaridade, titulares de carta de condução de automóveis ligeiros e que possuam conhecimentos de língua inglesa e de informática na óptica do utilizador.\n\n2 - Os métodos de selecção a utilizar nos concursos de ingresso na carreira do pessoal de operações aeroportuárias são:\n\na) Avaliação curricular;\n\nb) Prova de conhecimentos;\n\nc) Entrevista;\n\nd) Curso de formação geral, cuja frequência só será permitida aos candidatos que obtenham maior nota no conjunto das provas referidas nas alíneas anteriores, tendo as referidas nas alíneas a) e b) carácter eliminatório.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Programa da prova de conhecimentos do concurso de ingresso para assistente de operações aeroportuárias",
+      "texto": "1 - Nos concursos de ingresso para lugares de assistente de operações aeroportuárias a prova de conhecimentos prevista no presente diploma reveste a dupla natureza de prova escrita e oral, tendo a primeira a duração de duas horas e a segunda, trinta minutos, sendo ambas classificadas na escala de 0 a 20 valores.\n\n2 - A prova de conhecimentos consistirá em:\n\na) Tradução e retroversão de um texto em língua inglesa;\n\nb) Prova oral - conversação em língua inglesa;\n\nc) Direitos e deveres da função pública e deontologia profissional.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Formação profissional",
+      "texto": "1 - Os assistentes de operações aeroportuárias têm direito a frequentar acções de formação profissional.\n\n2 - As acções de formação a que se referem os n.os 1 e 2 do artigo 5.º do presente diploma deverão ser reconhecidas pela autoridade competente em matéria de aeronáutica civil e incidir ambas primordialmente sobre as matérias de operações aeroportuárias.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Decreto Regulamentar Regional n.º 7/2020/A): o artigo 11.º do anexo III aditado ao Decreto Regulamentar Regional n.º 15/2011/A extingue a carreira de assistente de operações aeroportuárias e determina a transição dos trabalhadores, mas não revoga nem dá nova redação a artigos do original; não é uma alteração textual aplicável.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, aditamento do anexo III ao Decreto Regulamentar Regional n.º 15/2011/A (nova carreira de técnico de operações aeroportuárias e extinção da carreira de assistente de operações aeroportuárias no art. 11.º, n.º 1, desse anexo): outro diploma; não revoga nem altera artigo do original (não textual).",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos artigos 3.º, 5.º, 6.º, 8.º e 9.º — o texto atual já contém essas redações (n.os 3 e 4 do artigo 5.º mantidos com '...'); nada a mudar.",
-    "Alterador 1, art. 2.º: republicação — não é instrução de alteração; ignorada.",
-    "Alterador 2: adita anexo a outro diploma e extingue a carreira — sem alteração textual do original, registado em nao_aplicavel."
+    "Alterador 1, art. 1.º: nova redação dos artigos 3.º, 5.º, 6.º, 8.º e 9.º; o texto atual (já aplicado pelo programa) coincide letra a letra com as redações do alterador (com '...' = texto atual dos n.os 3 e 4 do art. 5.º); devolvidos como estão.",
+    "Alterador 1, art. 2.º: republicação, sem texto a aplicar.",
+    "Alterador 2: instrução de outro diploma (DRR 15/2011/A), não aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

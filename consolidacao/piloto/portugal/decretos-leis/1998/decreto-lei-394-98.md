@@ -89,7 +89,7 @@ b) Para o aspártamo: «Contém uma fonte geradora de fenilalanina».
 
 c) Para os sais de aspártamo e de acessulfame: 'Contém uma fonte de fenilalanina'.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953), publicado em 2004-10-08.
+> Alterado pelo/a [Decreto-Lei n.º 216/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953), publicado em 2004-10-08.
 
 ###### Artigo 8.º — Quantum satis
 
@@ -152,3 +152,19 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 2 - No caso da substância E 954, «Sacarina e seus sais de Na, K e Ca», as doses máximas de utilização são expressas em imida livre.
 
 [(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/12/284a00/67316739.pdf)
+
+QUADRO VIII
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
+
+QUADRO IX
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
+
+Nota. - As doses máximas de utilização de sal de aspártamo e acessulfame derivam das doses máximas de utilização das suas partes constituintes, o aspártamo (E 951) e o acessulfame-K (E 950). As doses máximas de utilização para o aspártamo (E 951) e para o acessulfame-K (E 950) não devem ser excedidas pela sua utilização combinada ou não com o sal de aspártamo e acessulfame. Os limites desta coluna são expressos em (a) equivalentes de acessulfame-K ou em (b) equivalentes de aspártamo.
+
+QUADRO X
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 94/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873), publicado em 2010-07-29.

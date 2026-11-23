@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 4.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.",
+    "depois": "1 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630671:por",
+    "alterador": "pt:dre:474475:por"
+  },
+  {
+    "artigo": "unidades 20-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630671:por",
+    "alterador": "pt:dre:474475:por"
+  },
+  {
+    "artigo": "unidades 25-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na CIMPOR - Cimentos de Portugal, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.\n\n3 - A situação dos trabalhadores da CIMPOR - Cimentos de Portugal, S. A., que, chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.",
+    "depois": "2 - (Revogado.)\n\n3 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630671:por",
+    "alterador": "pt:dre:474475:por"
+  }
+]

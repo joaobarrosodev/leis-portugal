@@ -1,13 +1,25 @@
 {
   "id": "pt:dre:444431:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os prazos de remição previstos no [Decreto Regional n.º 1/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1981-388034), de 14 de Março, passam a ser os seguintes:\n\na) Até 31 de Dezembro de 1986 e até 31 de Dezembro de 1989, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 31 de Dezembro de 1991, o contemplado na alínea b) do artigo 1.º",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "O art. 1.º do DLR 1/86/M fixa, no seu próprio texto, novos prazos de remição ('Os prazos de remição do DLR 17/83/M passam a ser os seguintes'), sem dar nova redação a nenhum artigo do original; é uma prorrogação não textual, pelo que o art. 1.º do original não foi reescrito.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 1/86/M, art. 1.º: novos prazos de remição (1986/1989 e 1991) fixados por norma autónoma, sem nova redação de artigo do original — não aplicado ao texto.",
-    "DLR 1/86/M, art. 2.º: revogação genérica de legislação em contrário — não se aplica ao texto."
+    "Alterador 1, artigo 1.º: os prazos de remição do DLR 17/83/M passam a ser os das alíneas a) e b) novas; substituídas as alíneas a) e b) do artigo 1.º (alteração textual, não mera prorrogação), proémio mantido do texto atual.",
+    "Alterador 1, artigos 2.º e 3.º: repetem o texto atual; sem alteração."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

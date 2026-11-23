@@ -1,0 +1,30 @@
+[
+ {
+  "id": "pt:dre:546976:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "Exames para obtenção da carta de condução",
+    "texto": "1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.\n\n3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.\n\n4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.\n\n5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.",
+    "alterador": 1
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "Fundo de fiscalização",
+    "texto": "(Revogado.)",
+    "alterador": 5
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 121/97, artigo 2.º (suspende por um ano a vigência do n.º 4 do artigo 14.º): não textual: suspensão temporária que não altera o texto do artigo 14.º.\nAlterador 4, Decreto-Lei n.º 167/98 (repristina o DL 221/95 só até à entrada em vigor do diploma que aprova o regulamento do n.º 7 do artigo 126.º do CE): efeito adiado: o termo da repristinação depende de um facto futuro (entrada em vigor desse regulamento) cuja data não vem no texto do alterador; por isso não se revogam os restantes artigos. A revogação do alterador 3 (DL 2/98, artigo 20.º, com exceção do artigo 11.º) ficou anulada pela repristinação do alterador 4, sem efeito líquido no texto.\nAlterador 5, Decreto-Lei n.º 209/98, artigo 9.º, parte que revoga o Decreto-Lei n.º 121/97, o Decreto-Lei n.º 336/97 e o Decreto Regulamentar n.º 65/94: outro diploma: não são o original.",
+  "instrucoes": [
+   "Alterador 1 (DL 214/96, art. 2.º): nova redação dos n.os 1 a 3 do artigo 3.º; o texto atual (programa) tinha perdido os n.os 4 e 5, que a instrução não muda: repostos do original.",
+   "Alterador 2 (DL 121/97): art. 1.º dá nova redação aos artigos 11.º e 12.º (já corretos no texto atual); art. 2.º suspende o n.º 4 do artigo 14.º (nao_aplicavel).",
+   "Alterador 3 (DL 2/98, art. 20.º): revoga o DL 221/95 exceto o art. 11.º, com efeitos a 31/3/1998; anulado pela repristinação do alterador 4.",
+   "Alterador 4 (DL 167/98): repristina o diploma até à entrada em vigor do regulamento do CE (efeito adiado, nao_aplicavel).",
+   "Alterador 5 (DL 209/98, art. 9.º): revoga o artigo 11.º do DL 221/95: corpo '(Revogado.)'."
+  ]
+ }
+]

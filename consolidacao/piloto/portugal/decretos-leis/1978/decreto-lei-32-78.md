@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:325152:por
-    title: Decreto-Lei n.º 418/78
-    publication_date: '1978-12-21'
   - id: pt:dre:217933:por
     title: Decreto-Lei n.º 371/98
     publication_date: '1998-11-23'
+  - id: pt:dre:325152:por
+    title: Decreto-Lei n.º 418/78
+    publication_date: '1978-12-21'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---

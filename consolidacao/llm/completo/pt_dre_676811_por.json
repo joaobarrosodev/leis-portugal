@@ -8,14 +8,25 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Artigos 2.º, 3.º e 4.º do DL 18/98 alteram o anexo do DL 298/97 (aditamento de um quadro que só vem em imagem/PDF e de concelhos às listas de culturas afectadas pela chuva); o anexo não consta do texto atual, por isso não foram aplicados.",
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/250a00/58505853.pdf)",
+      "texto": "[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/01/026a00/04150416.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 3.º (aditamento dos concelhos de Montemor-o-Novo e Vendas Novas ao quadro das culturas e regiões afectadas pela chuva, tomate para indústria): só em imagem: o quadro do anexo do original só existe em imagem (pdf de 1997), sem posição verificável onde inserir as linhas.\nAlterador 1, art. 4.º (aditamento de 15 concelhos de Entre Douro e Minho ao quadro, cultura da vinha): só em imagem: o quadro do anexo do original só existe em imagem (pdf de 1997), sem posição verificável onde inserir as linhas.",
   "instrucoes": [
-    "DL 18/98, art. 1.º: adita n.os 4 e 5 ao art. 1.º; aplicado (n.os 1 a 3 mantidos do texto atual).",
-    "DL 18/98, art. 2.º: adita ao anexo o quadro do anexo do alterador (só em imagem); não aplicado.",
-    "DL 18/98, art. 3.º: adita Montemor-o-Novo e Vendas Novas ao anexo (tomate para indústria); anexo ausente do texto atual, não aplicado.",
-    "DL 18/98, art. 4.º: adita concelhos de EDM ao anexo (vinha); anexo ausente do texto atual, não aplicado."
+    "Alterador 1, art. 1.º: aditados os n.os 4 e 5 ao artigo 1.º; n.os 1 a 3 mantêm o texto atual.",
+    "Alterador 1, art. 2.º: aditado ao anexo o quadro do anexo do alterador (imagem); corpo atual vazio, fica a linha de imagem do alterador.",
+    "Alterador 1, arts. 3.º e 4.º: aditamento de concelhos ao quadro em imagem: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

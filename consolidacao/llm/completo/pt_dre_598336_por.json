@@ -1,17 +1,24 @@
 {
   "id": "pt:dre:598336:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Zonas non aedificandi",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
   "titulos": [
     {
       "atual": "### CAPÍTULO VII — Funções do IEP",
       "novo": "### CAPÍTULO VII — Funções do IMT",
-      "alterador": 2
+      "alterador": 3
     },
     {
       "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
       "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
-      "alterador": 2
+      "alterador": 3
     },
     {
       "atual": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso do contrato",
@@ -25,19 +32,17 @@
     }
   ],
   "anexos": [],
-  "nao_aplicavel": "O texto atual do ANEXO I (Bases da concessão) só traz os títulos dos capítulos: o corpo do anexo vem vazio e nenhuma base (I a LXXXIX) existe no texto atual. Por isso não se podem aplicar com segurança: (1) DL 44-C/2010, art. 1.º, e DL 105/2015, art. 1.º — novas redações das bases (feitas sobretudo com «...»/«[...]», «[Anterior alínea …]» e fórmulas e quadros só em imagem «(ver documento original)», que dependem do texto das bases, ausente); (2) DL 44-C/2010, art. 2.º, e DL 105/2015, art. 2.º — aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A, LXXXVII-A, XXXIV-A, LIV-A, LVII-CC, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B, sem bases nem chaves no texto atual onde as inserir; (3) DL 44-C/2010, art. 3.º, n.º 2, e DL 105/2015, art. 3.º, n.os 2 a 4 — aditamento do capítulo X-A (com secções e subsecções), novas epígrafes dessas secções e subsecções e aditamento do capítulo XXII-A: são títulos que não existem no texto atual; (4) DL 105/2015, art. 3.º, n.º 5 — epígrafe da base LVII-Y, base inexistente no texto atual; (5) DL 105/2015, art. 5.º — revogações de alíneas e números de bases (I, VI, XXXIV, XLV, XLVIII, L, LIV, LVII-D, LVII-S, LVII-U, LVII-X, LVII-AA, LXV-A, LXXV), inexistentes no texto atual. Os reparos que pedem as bases dentro dos capítulos VII, X, XVII e XXI (bases XXIV, XLV a LVI, LXXV, LXXVI, LXXXVI, LXXXVI-A) não se seguem pelo mesmo motivo: os capítulos são títulos de divisão, não artigos, e as bases não estão no texto atual.",
+  "nao_aplicavel": "Alterador 1, art. 1.º (nova redação das bases I a LXXXIX): alvo incerto: o texto atual não contém o corpo das bases (o Anexo I tem o corpo vazio e os capítulos só têm título), não há artigo ou base onde aplicar, e muitas redações remetem com «...» e «[Anterior alínea]» para texto atual inexistente.\nAlterador 1, art. 2.º (aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A e LXXXVII-A): alvo incerto: o texto atual não tem as bases nem unidade onde inserir as bases novas.\nAlterador 1, art. 3.º n.º 2 (aditamento do capítulo X-A, Portagens, com secções I a X e subsecções): alvo incerto: o texto atual só admite alterar ou eliminar títulos existentes, não aditar títulos de divisão, e as bases LVII-A a LVII-BB que o integram não existem no texto atual.\nAlterador 3, art. 1.º (nova redação das bases I a LXXXIX, com «[...]» e «[Anterior alínea]»): alvo incerto: o texto atual não contém as bases, e as remissões «[...]» só se completam com texto atual inexistente.\nAlterador 3, art. 2.º (aditamento das bases XXXIV-A, LIV-A, LVII-CC, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B): alvo incerto: o texto atual não tem as bases nem unidade onde inserir as bases novas.\nAlterador 3, art. 3.º n.os 2 a 5 (epígrafes das secções I, II, IV, V e IX e das subsecções II e III do capítulo X-A, aditamento do capítulo XXII-A e epígrafe da base LVII-Y): alvo incerto: o texto atual não tem o capítulo X-A, nem as suas secções e subsecções, nem o capítulo XXII-A, nem a base LVII-Y.\nAlterador 3, art. 5.º (revogação de alíneas e números de várias bases): alvo incerto: o texto atual não contém as bases visadas.\nAlterador 1, art. 6.º, e alterador 3, art. 6.º (republicação das bases): não textual: determina a republicação em anexo, sem alterar o texto.",
   "instrucoes": [
-    "DL 44-C/2010, art. 3.º, n.º 1: novas epígrafes dos capítulos VII (Funções do InIR), X (Manutenção, exploração e conservação da Auto-Estrada), XVII (Incumprimento e cumprimento defeituoso) e XXI (Aplicação no tempo) — aplicadas em «titulos»; VII e X voltam a mudar pelo DL 105/2015.",
-    "DL 105/2015, art. 3.º, n.º 1: novas epígrafes dos capítulos VII (Funções do IMT) e X (Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios) — aplicadas em «titulos», substituindo as do DL 44-C/2010.",
-    "DL 44-C/2010, art. 1.º, e DL 105/2015, art. 1.º (alterações às bases): não aplicadas, as bases não existem no texto atual (ver nao_aplicavel).",
-    "DL 44-C/2010, art. 2.º, e DL 105/2015, art. 2.º (aditamento de bases): não aplicadas (ver nao_aplicavel).",
-    "DL 44-C/2010, art. 3.º, n.º 2, e DL 105/2015, art. 3.º, n.os 2 a 5 (capítulos X-A e XXII-A, secções, subsecções e epígrafe da base LVII-Y): não aplicadas (ver nao_aplicavel).",
-    "DL 105/2015, art. 5.º (revogações de alíneas e números de bases): não aplicadas (ver nao_aplicavel).",
-    "DL 44-C/2010, art. 6.º, e DL 105/2015, art. 6.º: republicação das bases (o texto republicado não vem no pedido); não são instruções de alteração.",
-    "Artigos 1.º a 6.º do Decreto-Lei n.º 87-A/2000: nenhuma instrução os altera."
+    "Alterador 1, art. 3.º n.º 1: epígrafes dos capítulos VII (Funções do InIR), X, XVII e XXI; os capítulos VII e X são alterados de novo pelo alterador 3, pelo que fica a designação final (Funções do IMT; Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios); XVII e XXI ficam como no alterador 1.",
+    "Alterador 3, art. 3.º n.º 1: epígrafes dos capítulos VII e X (ver acima).",
+    "Alterador 2, art. 5.º q): revoga o artigo 4.º do DL 87-A/2000; corpo «(Revogado.)» com a epígrafe mantida.",
+    "Restantes instruções dos alteradores 1 e 3 (bases, capítulos novos, revogações de alíneas e números): sem texto atual das bases no pedido, ficam em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

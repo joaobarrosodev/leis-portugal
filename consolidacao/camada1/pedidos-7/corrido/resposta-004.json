@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:265129:por",
+  "substituicoes": [
+   {
+    "de": 31,
+    "ate": 36,
+    "texto": "2.º - (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, art. 8.º: revoga o artigo 2.º do original; as unidades 31 a 36 (corpo, alíneas e números 2 a 4 do art. 2.º) são substituídas por uma só unidade com a numeração e «(Revogado.)», na forma do exemplo das regras («3.º - (Revogado.)»).",
+   "Alterador 1, arts. 1.º a 7.º, 9.º a 11.º: regime próprio de acumulação de regências, não alteram o texto do original."
+  ]
+ }
+]

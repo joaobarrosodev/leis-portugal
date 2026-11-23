@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:179344:por",
+  "substituicoes": [
+   {
+    "de": 50,
+    "ate": 52,
+    "texto": "3.º - (Revogado.)",
+    "alterador": 3
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, retificação dos artigos 87.º n.º 2 e), 92.º n.º 4, 101.º n.º 3, 119.º n.º 4 e 151.º n.º 1 do Código do Registo Predial: sem texto: nos blocos «onde se lê» e «deve ler-se» o texto vem igual, só com «[...]», e não se vê o que muda.\nAlterador 2, nova redação de artigos do Código do Registo Predial: outro diploma.\nAlterador 4, conversão de valores em euros em diplomas do anexo: outro diploma (o Decreto-Lei n.º 355/85 só é citado como alterador do Código do Registo Predial).",
+  "instrucoes": [
+   "Alterador 1: declaração de retificação cujos blocos «onde se lê» e «deve ler-se» são iguais; nada aplicável, vai para nao_aplicavel.",
+   "Alterador 2: altera o Código do Registo Predial, outro diploma; ignorado.",
+   "Alterador 3: art. 5.º do Decreto-Lei n.º 533/99 revoga o art. 3.º do original; substituídas as unidades 50-52 por «3.º - (Revogado.)».",
+   "Alterador 4: Decreto-Lei n.º 323/2001, só cita o original numa lista de alterações do Código do Registo Predial; ignorado.",
+   "Alteradores 5 a 9: sem texto."
+  ]
+ }
+]

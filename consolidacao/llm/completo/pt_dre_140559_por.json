@@ -10,11 +10,15 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Declaração de Rectificação 71/91: datas de promulgação e referenda (4 -> 5 de Abril de 1991) substituídas no lugar, no art. 13.º, sem duplicar o bloco."
+    "Alterador 1 (Decl. Rect. 71/91): onde se lê 'Promulgado/Referendado em 4 de Abril de 1991' deve ler-se 5 de Abril; substituídas no lugar as duas datas no artigo 13.º, sem duplicar o bloco."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

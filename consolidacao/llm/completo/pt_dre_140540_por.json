@@ -9,13 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 642-E/78), 1.º: substitui designações do pessoal civil no mapa IV, que só vem em imagem (ver documento original). Alterador 1 (Decreto-Lei n.º 48283): regras de preenchimento e aumento do quadro do mapa IV, sem alteração textual do articulado e com o mapa só em imagem.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, arts. 1.º e 2.º do Decreto-Lei n.º 48283 (preenchimento transitório de lugares e aumento do quadro orgânico no mapa IV): só em imagem: o mapa IV está no texto atual apenas como imagem, sem título de anexo, e o alterador não traz imagem nova; fica sem efeito pela revogação.\nAlterador 2, n.º 1.º da Portaria n.º 642-E/78 (novas designações do pessoal civil no quadro orgânico do mapa IV): só em imagem: o mapa IV está no texto atual apenas como imagem, sem título de anexo; fica sem efeito pela revogação.\nAlterador 3, art. 15.º, n.º 1, alínea d) e outros n.os (revogação de outros diplomas): outro diploma: só a alínea c) visa o Decreto-Lei n.º 44322.",
   "instrucoes": [
-    "Alterador 1 (Decreto-Lei n.º 48283), artigos 1.º e 2.º: normas autónomas sobre o preenchimento e aumento do quadro orgânico do mapa IV; não textuais e mapa em imagem: não aplicadas.",
-    "Alterador 2 (Portaria n.º 642-E/78), 1.º: substituição de designações no mapa IV, só em imagem: não aplicável; 2.º e 3.º não alteram o original.",
-    "Alterador 3 (Decreto-Lei n.º 167/2014), artigo 15.º, n.º 1, alínea c): revoga o Decreto-Lei n.º 44322 na parte respeitante às OGME; o artigo único respeita inteiramente às OGME: artigo único revogado."
+    "Alterador 3, art. 15.º, n.º 1, alínea c): revoga o Decreto-Lei n.º 44322 na parte respeitante às OGME; como o diploma só trata do quadro orgânico das OGME, a revogação cobre-o todo e o artigo único fica «(Revogado.)». Entrou em vigor no dia seguinte ao da publicação (2014).",
+    "Alteradores 1 e 2: só em imagem (mapa IV), não aplicados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

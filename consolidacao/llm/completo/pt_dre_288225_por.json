@@ -2,11 +2,17 @@
   "id": "pt:dre:288225:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Art. 20.º, n.º 1, do DL 41/2002 revoga o DL 131/92 apenas 'no que se refere aos equipamentos sob pressão transportáveis abrangidos pelo âmbito do presente diploma' (revogação parcial por âmbito material, não textual), com efeitos diferidos nos termos do n.º 2; não se aplica ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 21.º do Decreto-Lei n.º 211/99 (deixam de vigorar as disposições do Decreto-Lei n.º 131/92 no que se refere aos equipamentos sob pressão e conjuntos abrangidos pelo âmbito desse diploma): revogação condicional, porque é uma revogação parcial só na parte que se refere aos equipamentos abrangidos pelo âmbito do alterador, sem indicar artigos.\nAlterador 2, artigo 20.º do Decreto-Lei n.º 41/2002 (revogação do Decreto-Lei n.º 131/92 no que se refere aos equipamentos sob pressão transportáveis abrangidos pelo seu âmbito): revogação condicional, porque é uma revogação parcial só na parte que se refere aos equipamentos transportáveis abrangidos pelo âmbito do alterador, sem indicar artigos.",
   "instrucoes": [
-    "Art. 20.º DL 41/2002: revogação do DL 131/92 limitada aos equipamentos sob pressão transportáveis; revogação condicional/por âmbito, não aplicada ao texto."
+    "Alterador 1: revogação parcial (só quanto aos equipamentos abrangidos pelo seu âmbito); não aplicada ao texto.",
+    "Alterador 2: revogação parcial (só quanto aos equipamentos sob pressão transportáveis); não aplicada ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

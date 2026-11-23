@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:346745:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Condições gerais dos empréstimos",
+    "texto": "Os empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais, não podendo, em caso algum, exceder o montante de 20 milhões de contos de endividamento da Região no ano de 1993;\n\nb) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nc) Serem os empréstimos externos contraídos em condições mais favoráveis do que as praticadas no mercado nacional de capitais, em matéria de prazo, taxa de juro e demais encargos.",
+    "alterador": 2
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "Subvenção extraordinária",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (Decl. Rect. 152/93): corrige o n.º 1 do artigo 8.º, que o alterador 2 revoga; sem efeito final.",
+   "Alterador 2, art. 3.º: limite de endividamento da alínea a) do artigo 4.º elevado para 20 milhões de contos; alterado o montante no artigo 4.º.",
+   "Alterador 2, art. 4.º, n.º 1: revogado o artigo 8.º (corpo «(Revogado.)»). N.º 2 mantém as restantes disposições: sem efeito textual."
+  ]
+ }
+]

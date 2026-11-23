@@ -10,14 +10,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 320/72), art. 1.º (acréscimo de lugares ao núcleo de técnicos do n.º 1 do art. 5.º e novas incumbências desses técnicos) e art. 2.º (nova composição do Serviço do Contencioso e Notariado do art. 4.º): são alterações não textuais — não dão nova redação aos arts. 4.º e 5.º, só acrescentam lugares e funções por norma autónoma; reescrever esses artigos seria inventar texto, pelo que ficam como estão (os reparos do verificador sobre os arts. 4.º e 5.º não se aplicam ao texto).",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, n.º 1 (núcleo de técnicos do n.º 1 do art. 5.º acrescido de 2 técnicos especialistas, 1 de 1.ª, 3 de 2.ª e 5 de 3.ª classe): não textual: é um acréscimo de lugares sem nova redação do artigo; o texto novo do n.º 1 do art. 5.º (totais por categoria) teria de ser calculado e não existe em nenhuma fonte, e os lugares constam do mapa em imagem.\nAlterador 1, art. 2.º (Serviço do Contencioso e Notariado do art. 4.º passa a ser constituído por chefe de divisão, técnico de 1.ª classe assessor e dois técnicos de 2.ª classe): não textual: o alterador não dá nova redação ao n.º 1 do art. 4.º; a frase do original («chefiado por … coadjuvado por …») só poderia ser reescrita compondo texto que não existe letra a letra em nenhuma fonte.\nAlterador 1, arts. 4.º e 5.º (quadros dos serviços actuariais e do Serviço de Inquéritos Habitacionais): outro diploma: lugares de quadros que não estão no original (o n.º 2 do art. 5.º só manda aplicar o original).\nAlterador 1, art. 1.º, n.º 2 (incumbências adicionais dos técnicos do núcleo): não textual: o alterador não dá nova redação ao n.º 2 do artigo 5.º do original.",
   "instrucoes": [
-    "Alterador 1 (DL 320/72), art. 1.º: acresce lugares ao núcleo de técnicos do art. 5.º e define-lhes funções — não textual (nao_aplicavel).",
-    "Alterador 1, art. 2.º: nova composição do Serviço do Contencioso e Notariado do art. 4.º — não textual (nao_aplicavel).",
-    "Alterador 1, art. 3.º: nova redação dos n.os 4 e 6 do art. 6.º — aplicada.",
-    "Alterador 1, arts. 4.º a 6.º: quadros de outros serviços e encargos — normas autónomas, sem alteração textual do original."
+    "Alterador 1, art. 1.º, n.º 1: acréscimo de lugares ao núcleo de técnicos do art. 5.º; sem texto fonte letra a letra, vai para nao_aplicavel.",
+    "Alterador 1, art. 1.º, n.º 2: atribuições dos técnicos do núcleo; sem alteração de redação do artigo 5.º n.º 2 do original, não aplicado (incluído na nota do art. 5.º).",
+    "Alterador 1, art. 2.º: nova composição do Serviço do Contencioso e Notariado; nao_aplicavel (sem texto letra a letra).",
+    "Alterador 1, art. 3.º: novas redações dos n.os 4 e 6 do artigo 6.º; devolvido o artigo 6.º inteiro, com n.os 1, 2, 3 e 5 do texto atual (fonte «...») e n.os 4 e 6 do alterador.",
+    "Alterador 1, arts. 4.º a 6.º: quadros de outros serviços e encargos; não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

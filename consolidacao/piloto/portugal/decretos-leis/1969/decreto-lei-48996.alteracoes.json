@@ -516,5 +516,33 @@
     "unidade": [],
     "diploma": "pt:dre:201658:por",
     "alterador": "pt:dre:674395:por"
+  },
+  {
+    "artigo": "SECÇÃO III — Do crédito a longo prazo",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "#### SECÇÃO III — Do crédito a longo prazo",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201658:por",
+    "alterador": "pt:dre:674395:por"
+  },
+  {
+    "artigo": "SECÇÃO IV — Das garantias dos empréstimos",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "#### SECÇÃO IV — Das garantias dos empréstimos",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201658:por",
+    "alterador": "pt:dre:674395:por"
   }
 ]

@@ -64,8 +64,6 @@ Os secretários regionais e os subsecretários regionais têm remunerações id�
 
 1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.
 
-2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região.
-
 > Alterado pelo/a [Decreto Legislativo Regional n.º 18/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1994-291222), publicado em 1994-07-07.
 
 ###### Artigo 7.º

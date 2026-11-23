@@ -1,0 +1,63 @@
+[
+ {
+  "pedaco": 1,
+  "ids": [
+   "pt:dre:105711790:por",
+   "pt:dre:115017488:por",
+   "pt:dre:149855:por",
+   "pt:dre:281202:por",
+   "pt:dre:288225:por",
+   "pt:dre:291920:por",
+   "pt:dre:298785:por",
+   "pt:dre:381106:por"
+  ],
+  "chars": 115326
+ },
+ {
+  "pedaco": 2,
+  "ids": [
+   "pt:dre:381345:por",
+   "pt:dre:401695:por",
+   "pt:dre:402770:por",
+   "pt:dre:407141:por",
+   "pt:dre:419642:por"
+  ],
+  "chars": 137791
+ },
+ {
+  "pedaco": 3,
+  "ids": [
+   "pt:dre:429818:por",
+   "pt:dre:487334:por",
+   "pt:dre:537223:por"
+  ],
+  "chars": 106815
+ },
+ {
+  "pedaco": 4,
+  "ids": [
+   "pt:dre:550587:por",
+   "pt:dre:556814:por",
+   "pt:dre:573307:por"
+  ],
+  "chars": 117352
+ },
+ {
+  "pedaco": 5,
+  "ids": [
+   "pt:dre:577931:por",
+   "pt:dre:582437:por",
+   "pt:dre:600356:por"
+  ],
+  "chars": 117872
+ },
+ {
+  "pedaco": 6,
+  "ids": [
+   "pt:dre:616627:por",
+   "pt:dre:642526:por",
+   "pt:dre:667892:por"
+  ],
+  "chars": 93440
+ }
+]

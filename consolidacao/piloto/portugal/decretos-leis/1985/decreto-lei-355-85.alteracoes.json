@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 50-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 3.º - 1 - Enquanto não tiver sido emitido o título de registo, podem os interessados pedir verbalmente que a caderneta predial seja actualizada na conservatória, com a anotação do número da descrição e das inscrições em vigor, tratando-se de prédio situado em área onde tenha vigorado o registo obrigatório.\n\n2 - A caderneta, quando anotada nos termos do número anterior, tem o valor probatório do título de registo.\n\n3 - A prova dos números das descrições e inscrições na conservatória pode ser feita perante o notário pela exibição da caderneta predial actualizada há menos de seis meses, nos termos do n.º 1.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179344:por",
+    "alterador": "pt:dre:632723:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO I — (a que se refere o artigo 2.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — (a que se refere o artigo 2.º)\nMAPA\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/03/063b00/11191121.pdf)",
+    "depois": "## ANEXO I — (a que se refere o artigo 2.º)\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/10991106.pdf)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:186556:por",
+    "alterador": "pt:dre:515267:por"
+  }
+]

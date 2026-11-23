@@ -2,11 +2,16 @@
   "id": "pt:dre:582437:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "As retificações (parte I, capítulo 5, alínea d); parte VI, alínea j), n.º 5; aditamento após a alínea w)) incidem sobre o Plano de Bacia Hidrográfica do Guadiana anexo, cujo texto não consta do texto atual (só o título).",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, parte I, cap. 5 (d) Reserva Ecológica Nacional passa a d) Planos regionais de ordenamento florestal, com novo texto, e REN passa a alínea e)): alvo incerto, o texto da parte I, capítulo 5 não existe no texto atual (só há os títulos de divisão, sem corpo) e não há alínea d) Reserva Ecológica Nacional onde aplicar.\nAlterador 1, parte VI, alínea j) (eliminar o n.º 5): alvo incerto, o texto da parte VI não existe no texto atual (só há o título de divisão, sem corpo).\nAlterador 1, parte VI, alínea w) (acrescentar o parágrafo «Sistemas de medida…» antes da tabela A): alvo incerto, o texto da parte VI não existe no texto atual (só há o título de divisão, sem corpo).",
   "instrucoes": [
-    "Decl. Ret. 21-C/2001: três retificações ao Plano anexo - não aplicadas, texto do anexo ausente."
+    "Alterador 1: três retificações ao corpo do Plano (parte I cap. 5; parte VI alíneas j) e w)); o corpo do Plano não consta do texto atual, nenhuma aplicável."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

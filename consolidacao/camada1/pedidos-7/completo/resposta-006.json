@@ -1,0 +1,21 @@
+[
+ {
+  "id": "pt:dre:302093:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — Guia de verificação para análise da pertinência e actualidade da regulamentação com objectivo de simplificação",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, artigo 4.º (prazos de regulamentação por resolução do Conselho de Ministros e de constituição dos pontos focais): não textual, norma autónoma que não altera o texto do original.\nAlterador 1, artigo 5.º (articulação com o GPTIC e participação na RIMA): não textual, norma autónoma que não altera o texto do original.",
+  "instrucoes": [
+   "Artigos 2.º a 8.º (nova redação): o texto atual já coincide, letra a letra, com a redação do alterador (com «[...]» = texto atual); nada a mudar.",
+   "Aditamento dos artigos 5.º-A, 5.º-B e 10.º: já presentes no texto atual, iguais ao alterador; nada a mudar.",
+   "Artigo 6.º (revoga o anexo): o anexo é substituído por «(Revogado.)» em anexos."
+  ]
+ }
+]

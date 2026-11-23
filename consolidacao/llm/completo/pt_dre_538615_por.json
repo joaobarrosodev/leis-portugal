@@ -22,14 +22,18 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Art. 2.º do DLR 9/2014/A: os artigos 17.º-A e 17.º-B passam a constituir o novo «CAPÍTULO V — Conclusão do processo»; o formato só permite alterar títulos de divisão que já existem no texto atual, por isso o novo cabeçalho «### CAPÍTULO V — Conclusão do processo» (a pôr antes do artigo 17.º-A, depois do 17.º) não pode ser inserido aqui; o antigo capítulo V passou a VI (renumeração confirmada pela republicação). Os dois quadros das alíneas b) e c) do n.º 5 do artigo 17.º-A só vêm em imagem (ficou a ligação «(ver documento original)»).",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aditamento do título de divisão «CAPÍTULO V — Conclusão do processo» antes do artigo 17.º-A: alvo incerto: não há no texto atual título de divisão que se possa alterar para o criar e o formato não permite acrescentar títulos novos; o título existente «CAPÍTULO V — Disposições finais e transitórias» foi renumerado para CAPÍTULO VI em «titulos», como na republicação em anexo.",
   "instrucoes": [
-    "Art. 1.º DLR 9/2014/A altera 2.º, 8.º, 9.º, 11.º a 14.º, 16.º, 17.º e 19.º: já aplicados pelo programa e conferidos, sem diferenças (os [...] mantêm o texto atual).",
-    "Art. 2.º adita 17.º-A (Relatório final) e 17.º-B (Relatório de avaliação), que formam o novo Capítulo V «Conclusão do processo»: artigos aditados; cabeçalho novo não inserível no formato (ver nao_aplicavel).",
-    "Renumeração do capítulo: o antigo CAPÍTULO V «Disposições finais e transitórias» passa a CAPÍTULO VI (art. 3.º, republicação «com as alterações e renumerações»).",
-    "Art. 4.º (norma transitória) e 5.º (entrada em vigor) são do alterador; não alteram o texto. O art. 21.º da republicação diz «decreto regulamentar regional» em vez de «portaria», mas nenhuma instrução o altera: mantido."
+    "Art. 1.º: nova redação dos artigos 2.º, 8.º, 9.º, 11.º a 14.º, 16.º, 17.º e 19.º; o texto atual (já alterado pelo programa) coincide com as redações do alterador (com [...] = texto atual), por isso não são devolvidos.",
+    "Art. 2.º: aditados 17.º-A e 17.º-B (novo Capítulo V, Conclusão do processo); copiados letra a letra do alterador, com as duas linhas de imagem dos quadros.",
+    "Capítulo V atual (Disposições finais e transitórias) passa a Capítulo VI.",
+    "Art. 3.º a 5.º: republicação, norma transitória e entrada em vigor: sem texto a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

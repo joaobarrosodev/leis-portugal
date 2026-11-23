@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:149855:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 30/70: sem texto; o alterador não traz nenhuma alteração.\nAlterador 2, Lei n.º 79/77: sem texto; o alterador não traz nenhuma alteração.",
+  "instrucoes": [
+    "Alteradores 1 e 2 sem texto; o art. 6.º (já revogado pelo programa) fica como está, sem fonte para o alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

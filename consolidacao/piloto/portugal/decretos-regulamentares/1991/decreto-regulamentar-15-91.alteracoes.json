@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19621963.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19621963.pdf)",
+    "depois": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19621963.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/102b00/22492250.pdf)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1993-300026), publicado em 1993-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616424:por",
+    "alterador": "pt:dre:300026:por"
+  }
+]

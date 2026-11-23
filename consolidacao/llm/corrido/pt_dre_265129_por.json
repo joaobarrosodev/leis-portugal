@@ -4,19 +4,17 @@
     {
       "de": 31,
       "ate": 36,
-      "texto": "Art. 2.º - (Revogado.)",
+      "texto": "2.º - (Revogado.)",
       "alterador": 1
     }
   ],
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 634/76, art. 8.º: revoga o artigo 2.º do DL 48546; unidades 31-36 passam a 'Art. 2.º - (Revogado.)'",
-    "DL 634/76, restantes artigos: regime autónomo de acumulações, sem alteração textual ao original"
+    "Alterador 1, art. 8.º: revoga o artigo 2.º do original; as unidades 31 a 36 (corpo, alíneas e números 2 a 4 do art. 2.º) são substituídas por uma só unidade com a numeração e «(Revogado.)», na forma do exemplo das regras («3.º - (Revogado.)»).",
+    "Alterador 1, arts. 1.º a 7.º, 9.º a 11.º: regime próprio de acumulação de regências, não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 31-36: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
-  ]
+  "problemas": []
 }

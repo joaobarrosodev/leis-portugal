@@ -8,6 +8,30 @@
       "alterador": 1
     },
     {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - Os funcionários públicos do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas, podem ser autorizados a exercer funções na EURO 2004, S. A., em regime de requisição ou de comissão de serviço, sem perda de quaisquer direitos ou regalias inerentes ao seu lugar de origem.\n\n2 - O exercício das funções referidas no número anterior suspende:\n\na) A comissão de serviço dos dirigentes;\n\nb) A requerimento do interessado, a contagem dos prazos para apresentação de relatórios ou prestação de provas escritas nos estatutos das carreiras do pessoal docente universitário, de investigação científica e docente do ensino superior politécnico.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º-A",
+      "epigrafe": "",
+      "texto": "1 - São receitas da Sociedade:\n\na) O produto da venda dos bilhetes para os jogos da fase final do Campeonato Europeu de Futebol de 2004;\n\nb) Outras receitas do evento, bem como os donativos que lhe sejam atribuídos.\n\n2 - Consideram-se custos da Sociedade todos os inerentes à preparação, promoção e organização da fase final do Campeonato Europeu de Futebol de 2004 que se encontrem previstos no orçamento.\n\n3 - São aplicáveis à EURO 2004, S. A., os benefícios fiscais que lhe foram atribuídos através do [Decreto-Lei n.º 30/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2001-319875), de 7 de Fevereiro.\n\n4 - Os lucros apurados pela Sociedade serão distribuídos pelos accionistas de acordo com o previsto no Código das Sociedades Comerciais em função das respectivas participações.",
+      "alterador": 1
+    },
+    {
       "chave": "11.º",
       "epigrafe": "",
       "texto": "1 - São aprovados os estatutos da EURO 2004, S. A., os quais constam do anexo ao presente diploma.\n\n2 - Os estatutos da EURO 2004, S. A., não carecem de redução a escritura pública, devendo o competente registo comercial ser feito, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.\n\n3 - As alterações aos estatutos da EURO 2004, S. A., realizam-se nos termos da lei comercial e estão isentas de taxas ou emolumentos.\n\n4 - A isenção a que se refere o número anterior é integral, aplicando-se igualmente às partes proporcionais correspondentes às participações que não são detidas pelo Estado.",
@@ -20,67 +44,73 @@
       "alterador": 1
     },
     {
-      "chave": "1.º",
+      "chave": "1.º#2",
       "epigrafe": "Denominação e duração",
       "texto": "1 - A sociedade adopta a denominação de EURO 2004 - Sociedade Promotora da Realização em Portugal da Fase Final do Campeonato Europeu de Futebol de 2004, S. A., de ora em diante abreviadamente designada por EURO 2004, S. A.\n\n2 - A EURO 2004, S. A., é uma sociedade anónima de capitais mistos com duração até ao dia 31 de Dezembro de 2004.",
       "alterador": 1
     },
     {
-      "chave": "2.º",
+      "chave": "2.º#2",
       "epigrafe": "Sede",
       "texto": "1 - A sede social é na Avenida de D. João II, lote 1.07.2.1, ala B, 3.º, Lisboa.\n\n2 - Por deliberação do conselho de administração, pode ser mudada a sede social para outro local do mesmo concelho ou concelho limítrofe e podem ser criadas comissões organizadoras locais, delegações ou outras formas de representação em Portugal e no estrangeiro.",
       "alterador": 1
     },
     {
-      "chave": "4.º",
-      "epigrafe": "Prossecução do objecto social",
-      "texto": "Para a realização do objecto social, incumbe especialmente à EURO 2004, S. A.:\n\na) Conceber, coordenar e organizar o programa de todas as iniciativas e actividades que se integram no evento;\n\nb) Aprovar as instalações que sejam afectadas à realização das iniciativas referidas na alínea anterior;\n\nc) Promover a realização das iniciativas que se incluam no programa do evento, designadamente competições, espectáculos, exposições, conferências e outros acontecimentos;\n\nd) Celebrar todos os contratos, com excepção dos referentes à comercialização do evento, e praticar os actos necessários à cabal realização da fase final do Campeonato Europeu de Futebol de 2004;\n\ne) Cooperar com entidades públicas e privadas, nomeadamente com a comissão interministerial criada pela Resolução do Conselho de Ministros n.º 115/2000, de 28 de Agosto, com a redacção que lhe foi dada pela Resolução do Conselho de Ministros n.º 64/2001, de 31 de Maio, nos domínios da organização que envolvam os estádios e os sistemas de saúde e segurança globais;\n\nf) Coordenar com os serviços, órgãos e empresas do Estado, bem como os de quaisquer outras instituições, as acções complementares ao evento consideradas necessárias para a sua divulgação e sucesso;\n\ng) Superintender e gerir toda a vertente logística, administrativa e desportiva respeitante à fase final do Campeonato Europeu de Futebol de 2004;\n\nh) Coordenar com as entidades competentes um sistema de segurança no perímetro de segurança de cada um dos estádios onde se irão disputar os jogos da fase final do Campeonato Europeu de Futebol de 2004.",
+      "chave": "3.º#2",
+      "epigrafe": "Objecto social",
+      "texto": "A EURO 2004, S. A., tem por objecto social a concepção, planeamento, promoção e realização em Portugal da fase final do Campeonato Europeu de Futebol em 2004, de acordo com o caderno de encargos de candidatura à organização da fase final do referido Campeonato e outros normativos da UEFA.",
       "alterador": 1
     },
     {
-      "chave": "5.º",
+      "chave": "4.º#2",
+      "epigrafe": "Prossecução do objecto social",
+      "texto": "Para a realização do objecto social, incumbe especialmente à EURO 2004, S. A.:\n\na) Conceber, coordenar e organizar o programa de todas as iniciativas e actividades que se integram no evento;\n\nb) Aprovar as instalações que sejam afectadas à realização das iniciativas referidas na alínea anterior;\n\nc) Promover a realização das iniciativas que se incluam no programa do evento, designadamente competições, espectáculos, exposições, conferências e outros acontecimentos;\n\nd) Celebrar todos os contratos, com excepção dos referentes à comercialização do evento, e praticar os actos necessários à cabal realização da fase final do Campeonato Europeu de Futebol de 2004;\n\ne) Cooperar com entidades públicas e privadas, nomeadamente com a comissão interministerial criada pela [Resolução do Conselho de Ministros n.º 115/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2000-329844), de 28 de Agosto, com a redacção que lhe foi dada pela [Resolução do Conselho de Ministros n.º 64/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-2001-332244), de 31 de Maio, nos domínios da organização que envolvam os estádios e os sistemas de saúde e segurança globais;\n\nf) Coordenar com os serviços, órgãos e empresas do Estado, bem como os de quaisquer outras instituições, as acções complementares ao evento consideradas necessárias para a sua divulgação e sucesso;\n\ng) Superintender e gerir toda a vertente logística, administrativa e desportiva respeitante à fase final do Campeonato Europeu de Futebol de 2004;\n\nh) Coordenar com as entidades competentes um sistema de segurança no perímetro de segurança de cada um dos estádios onde se irão disputar os jogos da fase final do Campeonato Europeu de Futebol de 2004.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º#2",
       "epigrafe": "Capital social",
       "texto": "1 - A EURO 2004, S. A., é constituída com um capital social de (euro) 5000000, correspondendo 54,8% à UEFA, 40,2% à FPF e 5% ao Estado, podendo, em qualquer momento, ser aumentado por deliberação dos seus accionistas.\n\n2 - O montante do capital social encontra-se subscrito e realizado do seguinte modo:\n\na) A participação da UEFA, que é de 54,8% e que corresponde a (euro) 2740000, encontra-se realizada em (euro) 822000, devendo a realização da parte restante, no montante de (euro) 1918000, ser concretizada, de uma só vez ou não, até ao final do 1.º semestre do ano 2004;\n\nb) A participação da FPF, que é de 40,2% e que corresponde a (euro) 2010000, encontra-se realizada em (euro) 603000, devendo a realização da parte restante, no montante de (euro) 1407000, ser concretizada, de uma só vez ou não, até ao final do 1.º semestre do ano 2004;\n\nc) A participação do Estado, que é de 5% e que corresponde a (euro) 250000, encontra-se totalmente subscrita e realizada, através do Instituto Nacional do Desporto.",
       "alterador": 1
     },
     {
-      "chave": "6.º",
+      "chave": "6.º#2",
       "epigrafe": "Acções",
       "texto": "1 - O capital social da EURO 2004, S. A., é representado por 50000 acções, no valor de (euro) 100 cada, correspondendo um voto a cada 10 acções.\n\n2 - As acções são nominativas e devem ser assinadas pelo presidente do conselho de administração, podendo tal assinatura ser de chancela por este autorizada.\n\n3 - Haverá títulos representativos de 1, 5, 10, 20, 50 e 100 acções.\n\n4 - A transmissão das acções está sujeita ao consentimento da assembleia geral, exercido nas condições seguintes:\n\na) A assembleia geral dispõe de um prazo de 20 dias úteis para se pronunciar acerca do pedido de consentimento, sob pena de, não o fazendo dentro desse prazo, se tornar livre a transmissão das acções;\n\nb) Em caso de recusa de consentimento, a Sociedade procederá à aquisição das acções, dentro dos limites previstos na lei, ou assegurará a respectiva aquisição por outra pessoa nas condições de pagamento e preço do negócio para que foi solicitado o consentimento, devendo o adquirente declarar expressamente que actua em seu nome e por sua conta.\n\n5 - Os accionistas têm direito de preferência na alienação de acções em função das respectivas participações no capital social e pelo seu valor nominal.\n\n6 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.\n\n7 - A falta de exercício do direito de preferência confere ao accionista alienante o direito a transmitir livremente as acções a terceiros, sem prejuízo do disposto no n.º 4 do presente artigo.",
       "alterador": 1
     },
     {
-      "chave": "7.º",
+      "chave": "7.º#2",
       "epigrafe": "Órgãos sociais",
       "texto": "São órgãos sociais da EURO 2004, S. A.:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) Fiscal único.",
       "alterador": 1
     },
     {
-      "chave": "8.º",
+      "chave": "8.º#2",
       "epigrafe": "Composição",
       "texto": "A assembleia geral é composta pelos accionistas com direito a voto.",
       "alterador": 1
     },
     {
-      "chave": "9.º",
+      "chave": "9.º#2",
       "epigrafe": "Competências",
       "texto": "Compete à assembleia geral:\n\na) Deliberar sobre o relatório de gestão e as contas do exercício;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Proceder à apreciação geral da administração e fiscalização da Sociedade;\n\nd) Deliberar sobre o plano de actividades e o orçamento anuais e plurianuais;\n\ne) Deliberar sobre alterações aos presentes estatutos;\n\nf) Deliberar sobre a fixação das remunerações dos membros dos órgãos sociais;\n\ng) Eleger os membros da mesa da assembleia geral, bem como os membros do conselho de administração;\n\nh) Autorizar a contratação de empréstimos de valor superior a 25% do capital social;\n\ni) Deliberar sobre a eventual compensação a conceder aos trabalhadores permanentes oriundos do sector privado, em virtude da extinção da EURO 2004, S. A., até ao limite correspondente a um ano de salário;\n\nj) Deliberar, por unanimidade de votos, sobre o aumento de capital;\n\nl) Deliberar sobre qualquer outro assunto para que tenha sido convocada, sem prejuízo das competências próprias dos outros órgãos sociais.",
       "alterador": 1
     },
     {
-      "chave": "10.º",
+      "chave": "10.º#2",
       "epigrafe": "Mesa",
       "texto": "1 - A mesa da assembleia geral é constituída por um presidente e por um secretário.\n\n2 - Os membros da mesa da assembleia geral são eleitos por esta.",
       "alterador": 1
     },
     {
-      "chave": "11.º",
+      "chave": "11.º#2",
       "epigrafe": "Reuniões",
       "texto": "1 - A assembleia geral reúne ordinariamente uma vez por ano e extraordinariamente sempre que para tal for convocada nos termos da lei ou a requerimento do conselho de administração.\n\n2 - A convocação da assembleia geral pode ser efectuada por carta registada com aviso de recepção.",
       "alterador": 1
     },
     {
-      "chave": "12.º",
+      "chave": "12.º#2",
       "epigrafe": "Composição",
       "texto": "1 - O conselho de administração é composto por um presidente, que é simultaneamente o presidente da Federação Portuguesa de Futebol, um vice-presidente e cinco administradores.\n\n2 - O vice-presidente e três administradores são indicados pela UEFA, sendo os dois restantes administradores indicados pela FPF.",
       "alterador": 1
@@ -153,16 +183,42 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "As chaves dos artigos dos Estatutos chegam sem prefixo de anexo e coincidem com as do decreto-lei (5.º, 11.º, 12.º aparecem duas vezes): os três primeiros elementos são do articulado do decreto-lei e os restantes, a partir do segundo 1.º, são dos Estatutos anexos.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO II — Objecto social e atribuições",
+      "novo": "### CAPÍTULO II — Objecto social",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO I — A assembleia geral",
+      "novo": "#### SECÇÃO I — Assembleia geral",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO II — O conselho de administração",
+      "novo": "#### SECÇÃO II — Conselho de administração",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO III — O conselho fiscal",
+      "novo": "#### SECÇÃO III — Fiscal único",
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 1.º DL 267/2001: nova redação dos arts. 1.º a 4.º do decreto — já iguais ao texto atual, sem mudança; 5.º (n.º 1 mantido, n.os 2 a 4 novos, antigo n.º 5 desaparece), 11.º (aditado n.º 4) e 12.º (10.º dia) aplicados.",
-    "Art. 2.º: aditamento do art. 8.º-A — já presente no texto atual, igual.",
-    "Art. 3.º: revogação dos arts. 9.º e 10.º do decreto — já revogados.",
-    "Art. 4.º: nova redação dos arts. 1.º, 2.º, 4.º a 14.º, 19.º, 20.º, 22.º e 23.º dos Estatutos aplicada ('...' mantém o texto atual; no 9.º a alínea k) dá lugar à l))",
-    "Art. 5.º: revogados os arts. 15.º, 16.º, 17.º, 18.º e 21.º dos Estatutos.",
-    "Art. 7.º: republicação — não usada como fonte, só confirmação."
+    "Alterador 1 (DL 267/2001), art. 1.º: novas redações dos arts. 1.º a 5.º, 11.º e 12.º do decreto; 1.º a 4.º já certos pelo programa; 5.º (n.os 2 a 4 novos, n.º 1 mantido, n.º 5 antigo deixa de existir), 11.º (novo n.º 4) e 12.º (10.º dia) aplicados.",
+    "Art. 2.º: aditado o art. 8.º-A (já aplicado pelo programa; reposto com a ligação do texto do alterador).",
+    "Art. 3.º: revogados os arts. 9.º e 10.º do decreto (já certos).",
+    "Art. 4.º: novas redações dos arts. 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 19.º, 20.º, 22.º e 23.º dos estatutos; os «...» ficam com o texto atual.",
+    "Art. 5.º: revogados os arts. 15.º, 16.º, 17.º, 18.º e 21.º dos estatutos.",
+    "Art. 7.º (republicação em anexo): usada onde o texto atual diverge e nenhuma instrução o explica: arts. 6.º e 7.º do decreto revogados, art. 8.º do decreto, art. 3.º dos estatutos (marcado como alterado por um programa) e designações dos capítulo II e secções I a III dos estatutos."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

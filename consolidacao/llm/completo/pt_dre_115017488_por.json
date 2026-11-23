@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:115017488:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º (nova redação do artigo 3.º do Decreto-Lei n.º 56/2006): outro diploma, a alteração é ao DL 56/2006 e não ao DL 23/2018.\nAlterador 1, art. 3.º (nova redação do artigo 5.º do Decreto-Lei n.º 216/2012): outro diploma, a alteração é ao DL 216/2012.\nAlterador 1, art. 5.º (revoga a Portaria n.º 147/2025/2): outro diploma, a revogação é de uma portaria e não de artigos do DL 23/2018.",
+  "instrucoes": [
+    "O Decreto-Lei n.º 25/2025 altera o DL 56/2006 e o DL 216/2012, não o DL 23/2018; nenhum artigo do original muda.",
+    "Arts. 4.º (transitórias), 5.º e 6.º do alterador não visam o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

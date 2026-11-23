@@ -1,14 +1,248 @@
 {
   "id": "pt:dre:362686:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Transição de pessoal",
+      "texto": "1 - Os funcionários do Estado que, à data da entrada em vigor do presente diploma, se encontrem afectos ao quadro de pessoal do IPQ referido no [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, e suas alterações, podem transitar para o novo quadro de pessoal a aprovar nos termos do n.º 2 do artigo 28.º dos Estatutos, mediante a opção pelo regime do contrato individual de trabalho, previsto no n.º 1 do mesmo artigo.\n\n2 - Para efeitos do número anterior, os interessados devem apresentar um requerimento ao conselho de administração para a celebração do contrato individual de trabalho por tempo indeterminado, no prazo de 30 dias úteis a contar da data da entrada em vigor dos regulamentos de pessoal, carreiras e chefias, aprovados nos termos da alínea b) do n.º 1 do artigo 8.º, das portarias que aprovam a estrutura orgânica interna dos serviços e o quadro de pessoal, previstas, respectivamente, no artigo 20.º e no n.º 2 do artigo 28.º, e da fixação da remuneração do pessoal do IPQ, nos termos do n.º 3 do artigo 28.º dos Estatutos em anexo.\n\n3 - A opção pela celebração de contrato individual de trabalho implica a exoneração do lugar de origem ou, quando requerida e nos termos da legislação aplicável, a passagem do funcionário à situação de licença sem vencimento de longa duração, no quadro de pessoal referido no [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, mantendo-se os direitos previstos na lei.\n\n4 - A opção referida no n.º 3 não prejudica o cômputo, para efeitos de antiguidade de cada funcionário, da totalidade do tempo de serviço prestado na função pública.\n\n5 - Os funcionários do Estado que pretendam permanecer no quadro de pessoal referido no [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, mantêm o seu estatuto, permanecendo o referido quadro em vigor exclusivamente para este efeito, incluindo para a promoção e a progressão nas respectivas carreiras, através de concursos limitados aos funcionários e agentes do IPQ e, ainda, sem prejuízo do disposto no número seguinte.\n\n6 - Após a entrada em vigor do presente diploma não é permitida a entrada de outros funcionários no quadro de pessoal referido no [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, salvaguardando os direitos relativos a concursos de pessoal em curso nessa data dentro do respectivo prazo de validade e das disponibilidades orçamentais.\n\n7 - As carreiras previstas no quadro de pessoal do IPQ constantes do [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, e suas alterações são extintas progressivamente, por área funcional, da base para o topo, à medida que vagarem os lugares dos funcionários que aí se encontram integrados, a partir do final do prazo previsto no n.º 2, sem prejuízo da conclusão dos processos em curso.",
+      "alterador": 1
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Aprovação de estatutos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Comissões de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Situações precárias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Direitos e obrigações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "1.º#2",
+      "epigrafe": "Denominação e natureza",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º#2",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º#2",
+      "epigrafe": "Sede e delegações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º#2",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º#2",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º#2",
+      "epigrafe": "Órgãos do IPQ",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Vinculação do IPQ",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Estatuto e remuneração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competências do presidente",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Composição do conselho consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Remuneração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Serviços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Património",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Documentos anuais de contas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Modelo de financiamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Despesas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Gestão patrimonial e financeira",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Cobrança coerciva de dívidas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Estatuto e quadro de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Mobilidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Segurança social",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Formação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Segredo profissional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 3 (DL 140/2004), art. 27.º, al. a): revoga o Decreto-Lei n.º 113/2001 no seu todo, salvo o art. 2.º quanto à manutenção do quadro de pessoal; revogação global do diploma com ressalva parcial, não é alteração textual de artigos determinados.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos n.os 2 e 7 do art. 2.º; o texto atual já coincide letra a letra com a nova redação (só difere a ligação ao DR 56/91), nada a mudar.",
-    "Alterador 2: não contém instruções dirigidas ao original (revoga normas do DL 4/2002); ignorado.",
-    "Alterador 3, art. 27.º, al. a): revogação global do DL 113/2001, salvo o art. 2.º; não aplicada ao texto (ver nao_aplicavel). Restantes alíneas dizem respeito a outros diplomas."
+    "Alterador 1 (DL 324/2001): nova redação dos n.os 2 e 7 do art. 2.º (prazo da opção e extinção dos lugares vagos), copiada do alterador; n.os 1, 3, 4, 5 e 6 ficam como estão.",
+    "Alterador 2 (DL 226/2002): não altera o texto do original (regula a extinção do CNQ e revoga artigos do DL 4/2002).",
+    "Alterador 3 (DL 140/2004, art. 27.º, a), em vigor no dia seguinte à publicação): revoga o DL 113/2001, salvo o art. 2.º em relação à manutenção do quadro de pessoal. Aplicado artigo a artigo: arts. 1.º, 3.º a 6.º do decreto e todos os artigos dos Estatutos em anexo (1.º#2 a 6.º#2 e 7.º a 32.º) ficam «(Revogado.)»; o art. 2.º mantém-se na redação do alterador 1."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

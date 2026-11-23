@@ -1,0 +1,14 @@
+[
+ {
+  "id": "pt:dre:419642:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação dos quadros anexos (distritos de Ponta Delgada e Horta, nota m): alvo incerto, o texto atual só contém o quadro do distrito do Funchal (sem título de anexo nem corpo) e não tem o texto a corrigir de Ponta Delgada nem da Horta.\nAlterador 2, arts. 3.º a 5.º (nova designação e ordenados de cargos dos quadros): não textual, alteram designações e categorias de cargos dos quadros aprovados, sem texto de artigo do original e sem corpo de anexo no texto atual; os restantes artigos do alterador são de outros diplomas (Código Administrativo, Decreto-Lei n.º 44830, Decreto-Lei n.º 42536) ou autónomos: outro diploma.\nAlterador 3, art. 2.º e mapas I e II (altera categorias dos quadros das Direcções de Obras Públicas de Angra do Heroísmo e de Ponta Delgada): só em imagem, os mapas só existem em imagem e o texto atual não tem título de anexo para eles.\nAlterador 4, artigo único (nova redação do artigo 7.º do Decreto Regulamentar Regional n.º 27/77/A): outro diploma.",
+  "instrucoes": [
+   "Nenhum artigo do original (1.º a 12.º) é alterado ou revogado pelos alteradores.",
+   "Quadros e mapas anexos não aplicáveis (ver nao_aplicavel)."
+  ]
+ }
+]

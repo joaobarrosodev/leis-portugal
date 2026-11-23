@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Retificação do artigo 6.º, n.º 5: «cozinheiro-chefe» passa a «cozinheiro principal» — aplicado (o texto atual tem «categorias de cozinheiro-chefe», com «de»)."
+    "Alterador 1 (rectificação): art. 6.º n.º 5, 'cozinheiro-chefe' passa a 'cozinheiro principal'; aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "6.º: parágrafo que não está no alterador nem no original: 5 - Os funcionários e agentes providos nas categorias de cozinheiro e de ajudant"
-  ]
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [
+    "6.º: parágrafo que não está no alterador nem no original: 5 - Os funcionários e agentes providos nas categorias de cozinheiro e de ajudant (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

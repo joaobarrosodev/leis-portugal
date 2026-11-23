@@ -27,29 +27,37 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
+  "titulos": [
+    {
+      "atual": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)",
+      "novo": "## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)",
+      "alterador": 1
+    }
+  ],
   "anexos": [
     {
       "titulo": "## ANEXO I — Limites da Reserva Natural",
-      "texto": "(Revogado.)",
+      "texto": "Do oceano Atlântico, coincidindo com o limite da freguesia de São Jacinto, município de Aveiro, até à estrada nacional n.º 327, pela estrada nacional n.º 327 até ao caminho que liga ao cemitério, por este caminho até ao arrife leste do talhão n.º 37 da Mata Nacional de São Jacinto, por este arrife até ao aceiro I, por este aceiro até ao arrife que divide os talhões n.os 37 e 38, por este arrife até à Avenida de Ria-Mar, por esta avenida até ao arrife oeste do talhão n.º 39, por este arrife até à paralela ao perímetro norte do posto da Brigada Fiscal e por este alinhamento até ao mar. No mar, pela linha de 6 m de profundidade média na maré baixa.",
       "alterador": 1
     },
     {
       "titulo": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)",
-      "texto": "(Revogado.)",
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)",
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Decreto Regulamentar n.º 24/2004, art. 2.º: os novos limites (texto e carta simplificada) constam dos anexos I e II do próprio Decreto Regulamentar n.º 24/2004 («do presente diploma, que dele fazem parte integrante»), não de uma nova redação dos anexos do original; nenhuma instrução dá esse texto ao original, pelo que os anexos I e II do original ficam só revogados (art. 3.º) e o artigo 2.º do original não muda de texto. O anexo II novo só existe em imagem. Decreto-Lei n.º 78/2015, art. 2.º, altera o Decreto-Lei n.º 135/2012, não o original.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DR 24/2004, art. 1.º, artigo 3.º: nova redação do corpo e alíneas a) a d); o artigo já tem essa redação no texto atual (programa aplicou bem) e não muda.",
-    "DR 24/2004, art. 1.º, artigo 6.º: n.º 1 mantém-se; n.os 2 e 3 novos; n.os 4 a 6 passam a ser os anteriores n.os 5 a 7; a nova redação acaba no n.º 6, pelo que os antigos n.os 4 e 8 deixam de constar.",
-    "DR 24/2004, art. 1.º, artigo 8.º: nova lista de alíneas do n.º 1; prejudicada pela revogação do artigo 8.º pelo DL 78/2015.",
-    "DR 24/2004, art. 3.º: revogados os anexos I e II do original: corpo «(Revogado.)» em ambos.",
-    "DL 78/2015, art. 3.º, alínea f): revogada a alínea b) do artigo 5.º e os artigos 8.º e 9.º."
+    "Alterador 1, artigo 3.º: o texto atual já coincide com a redação do alterador; nada a mudar.",
+    "Alterador 1, artigo 6.º: n.º 1 mantém-se, novos n.os 2 e 3, anteriores n.os 5, 6 e 7 passam a 4, 5 e 6; os anteriores n.os 2, 3, 4 e 8 não constam da nova redação e saem.",
+    "Alterador 1, artigo 8.º: nova lista de entidades no n.º 1, depois revogado integralmente pelo alterador 2 (alínea b) do artigo 5.º e artigos 8.º e 9.º); fica «(Revogado.)».",
+    "Alterador 1, artigos 2.º n.º 2 e 3.º: novos limites (anexo I) e nova planta (anexo II) substituem os anexos revogados; dados em anexos e, para o título do anexo II, em titulos.",
+    "Alterador 2, artigo 3.º alínea f): revoga a alínea b) do artigo 5.º e os artigos 8.º e 9.º; artigo 5.º com «b) (Revogada.)», artigos 8.º e 9.º com «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

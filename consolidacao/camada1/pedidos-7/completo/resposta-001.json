@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:142171:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "",
+    "texto": "O prazo da concessão é de 90 anos, contados a partir da data da celebração do contrato.",
+    "alterador": 2
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "",
+    "texto": "1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.\n\n2 - (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º (revoga o n.º 2 da base XVII do contrato de concessão): alvo incerto, as bases do contrato não constam do texto atual (só os títulos de divisão), pelo que não há texto da base XVII onde aplicar.\nAlterador 2, art. 1.º (substitui a planta anexa ao contrato de concessão): só em imagem, a planta só existe em imagem e não há título de anexo no texto atual onde a pôr.\nAlterador 2, art. 3.º (nova redação das bases XXV e XXXV do contrato de concessão): alvo incerto, as bases XXV e XXXV não constam do texto atual (só os títulos de divisão) e não há anexo com corpo onde as aplicar.",
+  "instrucoes": [
+   "A1 art. 6.º: revoga o n.º 2 do artigo 10.º do original; aplicado (10.º n.º 2 -> (Revogado.)). A parte da base XVII foi para nao_aplicavel.",
+   "A2 art. 2.º: nova redação do artigo 4.º (prazo de 90 anos); aplicado.",
+   "A2 art. 1.º e 3.º: planta e bases XXV/XXXV sem texto de destino; nao_aplicavel."
+  ]
+ }
+]

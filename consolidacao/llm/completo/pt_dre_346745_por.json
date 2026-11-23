@@ -2,6 +2,12 @@
   "id": "pt:dre:346745:por",
   "artigos": [
     {
+      "chave": "4.º",
+      "epigrafe": "Condições gerais dos empréstimos",
+      "texto": "Os empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais, não podendo, em caso algum, exceder o montante de 20 milhões de contos de endividamento da Região no ano de 1993;\n\nb) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nc) Serem os empréstimos externos contraídos em condições mais favoráveis do que as praticadas no mercado nacional de capitais, em matéria de prazo, taxa de juro e demais encargos.",
+      "alterador": 2
+    },
+    {
       "chave": "8.º",
       "epigrafe": "Subvenção extraordinária",
       "texto": "(Revogado.)",
@@ -11,15 +17,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "DLR 20/93/A, art. 3.º: eleva para 20 milhões de contos o limite de endividamento de 1993 referido na alínea a) do art. 4.º, mas não dá nova redação ao artigo (alteração não textual, só para o ano de 1993); a alínea a) do art. 4.º fica como está. Art. 4.º, n.º 2 (mantêm-se as disposições que não contrariem): revogação condicional, não se aplica ao texto. Art. 1.º (aprovação dos mapas alterados, só em imagem) e art. 2.º: não alteram o texto dos artigos.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Declaração de Rectificação 152/93: retifica o n.º 1 do art. 8.º («Atendendo às restrições»); sem efeito final, porque o art. 8.º é depois revogado.",
-    "DLR 20/93/A, art. 4.º, n.º 1: revoga o art. 8.º; o programa já o tinha posto como «(Revogado.)», o que está certo (devolvido igual).",
-    "DLR 20/93/A, art. 3.º: elevação do limite de endividamento para 1993 sem nova redação do art. 4.º; não aplicada (reparo verificado: não há texto novo a copiar).",
-    "DLR 20/93/A, arts. 1.º, 2.º, 4.º n.º 2 e 5.º: aprovação de mapas, execução, revogação condicional e efeitos; não alteram o texto."
+    "Alterador 1 (Decl. Rect. 152/93): corrige o n.º 1 do artigo 8.º, que o alterador 2 revoga; sem efeito final.",
+    "Alterador 2, art. 3.º: limite de endividamento da alínea a) do artigo 4.º elevado para 20 milhões de contos; alterado o montante no artigo 4.º.",
+    "Alterador 2, art. 4.º, n.º 1: revogado o artigo 8.º (corpo «(Revogado.)»). N.º 2 mantém as restantes disposições: sem efeito textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [],
+  "ronda_camada1": 120,
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: a) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, "
+  ],
+  "numeracao_aceite": [],
   "avisos": []
 }

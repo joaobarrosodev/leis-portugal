@@ -21,15 +21,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 2.º do Decreto-Lei n.º 410/91 substitui o mapa tipo anexo, que só existe em imagem (ver documento original); não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º do Decreto-Lei n.º 410/91 (o mapa tipo anexo é substituído pelo mapa anexo ao diploma): só em imagem, porque o mapa novo só vem em imagem e o texto atual não tem título de anexo (o «MAPA TIPO ANEXO» está depois das assinaturas, sem título de divisão) onde o pôr.\nAlterador 1, artigo 3.º do Decreto-Lei n.º 410/91 (para efeitos de progressão aplicam-se as regras do Decreto-Lei n.º 73/90): não textual, porque não altera texto do original.",
   "instrucoes": [
-    "Art. 1.º do DL 410/91: nova redação do n.º 2 do artigo 1.º; n.os 1 e 3 mantidos.",
-    "Art. 1.º do DL 410/91: nova redação do n.º 2 do artigo 3.º; n.os 1 e 3 mantidos.",
-    "Art. 1.º do DL 410/91: nova redação integral do artigo 4.º (n.os 1 a 4).",
-    "Art. 2.º do DL 410/91: substituição do mapa anexo, só em imagem, não aplicada.",
-    "Art. 3.º do DL 410/91: norma de progressão autónoma, não altera o texto do original."
+    "Alterador 1, art. 1.º: n.º 2 do art. 1.º com nova redação (n.os 1 e 3 ficam como estão).",
+    "Alterador 1: art. 3.º, n.º 2 com nova redação (n.os 1 e 3 ficam como estão).",
+    "Alterador 1: art. 4.º substituído por inteiro (4 números).",
+    "Alterador 1, art. 2.º: substituição do mapa anexo; só em imagem e sem título de anexo no texto atual, vai para nao_aplicavel.",
+    "Alterador 1, art. 3.º: regra de progressão, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

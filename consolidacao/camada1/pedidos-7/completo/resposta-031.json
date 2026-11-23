@@ -1,0 +1,34 @@
+[
+ {
+  "id": "pt:dre:668290:por",
+  "artigos": [
+   {
+    "chave": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::15.º",
+    "epigrafe": "Nulidade",
+    "texto": "O registo é nulo nos seguintes casos:\n\na) Ter sido lavrado em conservatória territorialmente incompetente;\n\nb) Não ter sido confirmado por quem for funcionalmente responsável;\n\nc) Ser falso ou ter sido feito com base em títulos falsos;\n\nd) Ter sido feito com base em títulos insuficientes para a prova legal do facto registado;\n\ne) Enfermar de omissões ou inexactidões de que resultem incerteza dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;\n\nf) Ter sido confirmado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil;\n\ng) Ter sido lavrado sem apresentação prévia ou com violação das regras do trato sucessivo, salvo o disposto no artigo 34.º",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::26.º",
+    "epigrafe": "Registo provisório",
+    "texto": "1 - O registo pode ser lavrado provisoriamente por natureza ou por dúvidas.\n\n2 - O registo deve ser feito provisoriamente por dúvidas quando exista motivo que, não sendo fundamento de recusa, obste ao registo do acto tal como é pedido.\n\n3 - O registo de veículos apenas pode ser lavrado provisoriamente por natureza.\n\n4 - O registo prévio previsto no artigo 6.º apenas é admitido como definitivo ou como provisório por natureza.\n\n5 - Os despachos de recusa do registo ou que o qualifiquem como provisório por dúvidas devem ser lavrados pela ordem de anotação no Diário e notificados aos interessados no prazo de quarenta e oito horas.",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::40.º",
+    "epigrafe": "Recurso",
+    "texto": "1 - No caso de a reclamação ser indeferida ou de o interessado pretender imediatamente recorrer, pode fazê-lo interpondo recurso hierárquico para o director-geral dos Registos e do Notariado.\n\n2 - Interposto o recurso, quando não precedido de reclamação, o conservador deve, no prazo de cinco dias, proferir despacho sustentando ou reparando a decisão.\n\n3 - O prazo do recurso hierárquico é de 30 dias a contar da data de notificação do indeferimento da reclamação.\n\n4 - Quando o recurso não seja precedido de reclamação, o prazo para a respectiva interposição é de 30 dias a contar do termo do prazo de registo ou, nos casos a que se refere o n.º 2 do artigo anterior, da notificação do despacho de indeferimento.\n\n5 - Tendo o recurso hierárquico sido julgado improcedente, pode o interessado interpor recurso contencioso.\n\n6 - À apreciação e decisão dos recursos hierárquico e contencioso aplicam-se as correspondentes disposições do Código do Registo Predial.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, nova redação do n.º 1 do artigo 7.º do Decreto-Lei n.º 277/95 (entrada em vigor do diploma e do Código simultaneamente com o regulamento): alvo incerto: o artigo 7.º do Decreto-Lei que aprova o Código não consta do texto atual (só o Código em anexo), e o artigo 7.º do Código (Trato sucessivo) é outra norma; não se aplica ao texto.\nAlterador 3, Lei n.º 176-A/99: outro diploma: só altera o Orçamento do Estado para 1999 e o artigo 6.º da Lei n.º 87-B/98; as referências ao Decreto-Lei n.º 277/95 são mera menção.",
+  "instrucoes": [
+   "Alterador 1 (retificação): art. 15.º g) 'artigo 33.º' -> 'artigo 34.º'; art. 26.º n.º 5 'Diário da República' -> 'Diário'; art. 40.º n.º 6 'A apreciação' -> 'À apreciação'",
+   "Alterador 2: n.º 1 do art. 7.º do DL 277/95 (não está no texto atual), nao_aplicavel",
+   "Alterador 3: não toca no original"
+  ]
+ }
+]

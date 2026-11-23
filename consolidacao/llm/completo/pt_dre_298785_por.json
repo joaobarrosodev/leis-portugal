@@ -2,11 +2,16 @@
   "id": "pt:dre:298785:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "A alínea b) do artigo 5.º do Decreto-Lei n.º 213-B/92 (alterada pelo Decreto-Lei n.º 132/97) não existe no texto atual, que só contém os artigos dos estatutos em anexo; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único (nova redação da alínea b) do artigo 5.º do DL 213-B/92, Matadouro Industrial de Alcains): alvo incerto: o texto atual do original só contém os estatutos em anexo (artigos 1.º a 32.º dos estatutos das quatro sociedades), não o artigo 5.º do próprio decreto-lei; o «5.º» do texto atual é o artigo «Capital social» dos estatutos, que nada tem a ver com a alínea b) visada, e o alterador só traz a alínea b), sem as restantes alíneas necessárias para reescrever o artigo inteiro.",
   "instrucoes": [
-    "DL 132/97, artigo único: nova redação da alínea b) do artigo 5.º do decreto-lei — artigo ausente do texto atual, não aplicado."
+    "Alterador 1: nova redação da alínea b) do artigo 5.º do DL 213-B/92 (correção do artigo matricial do Matadouro Industrial de Alcains); o artigo 5.º do decreto-lei não está no texto atual, pelo que não foi aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

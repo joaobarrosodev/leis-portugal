@@ -53,13 +53,13 @@ O FRRC rege-se pelo presente diploma e, naquilo que por este não for regulado, 
 
 O FRRC tem como atribuição o apoio às obras finais de reconstrução e requalificação urbanas, bem como a acções de dinamização cultural do Chiado, através da concessão de auxílios financeiros às intervenções a que se refere o artigo 5.º
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 5.º — Âmbito
 
-O FRRC visa apoiar intervenções na área do Chiado sinistrada em 25 de Agosto de 1988, incluindo a requalificação das Ruas da Misericórdia e do Alecrim, e respectivas zonas envolventes, bem como acções de dinamização cultural, em conformidade com a representação gráfica da planta anexa ao presente diploma, do qual faz parte integrante, e que substitui a planta publicada em anexo ao Decreto-Lei n.º 321/2002, de 31 de Dezembro.
+O FRRC visa apoiar intervenções na área do Chiado sinistrada em 25 de Agosto de 1988, incluindo a requalificação das Ruas da Misericórdia e do Alecrim, e respectivas zonas envolventes, bem como acções de dinamização cultural, em conformidade com a representação gráfica da planta anexa ao presente diploma, do qual faz parte integrante, e que substitui a planta publicada em anexo ao [Decreto-Lei n.º 321/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2002-390012), de 31 de Dezembro.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 6.º — Intervenções apoiadas pelo FRRC
 
@@ -101,7 +101,7 @@ d) Subvenções a fundo perdido.
 
 3 - A concessão de apoios financeiros a entidades privadas depende de parecer prévio da Câmara Municipal de Lisboa.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 9.º — Órgãos do FRRC
 
@@ -119,7 +119,7 @@ São órgãos do FRRC o conselho directivo, o conselho consultivo e o fiscal ún
 
 5 - O vogal executivo coordena o processo de apreciação das candidaturas aos incentivos do FRRC e supervisiona a articulação com a Câmara Municipal de Lisboa no domínio do licenciamento de obras e da sua avaliação técnica.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 11.º — Estatuto dos membros do conselho directivo
 
@@ -129,7 +129,7 @@ São órgãos do FRRC o conselho directivo, o conselho consultivo e o fiscal ún
 
 3 - O vogal não executivo recebe senhas de presença, de montante a determinar por despacho do Ministro das Finanças, por cada reunião do conselho directivo, não tendo direito a auferir, pelo exercício das suas funções, quaisquer outros abonos.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 12.º — Competências do conselho directivo
 
@@ -235,7 +235,7 @@ Os mandatos dos membros dos órgãos do FRRC terão a duração máxima de três
 
 2 - O FRRC suportará os custos inerentes ao seu funcionamento, compensando a Direcção-Geral do Tesouro das despesas que esta efectuar por sua conta e ordem.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
+> Alterado pelo/a [Decreto-Lei n.º 115/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2004-269257), publicado em 2004-05-15.
 
 ###### Artigo 20.º — Tutela e superintendência
 
@@ -286,6 +286,8 @@ b) Em 31 de Dezembro de 2007, quando não se tenha verificado a circunstância p
 2 - Extinguindo-se o FRRC na data fixada na alínea b) do número anterior e existindo saldos financeiros, serão os correspondentes montantes colocados à ordem da Direcção-Geral do Tesouro.
 
 3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/114a00/31083109.pdf)
 
 > Alterado pelo/a [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), publicado em 2007-12-31.
 

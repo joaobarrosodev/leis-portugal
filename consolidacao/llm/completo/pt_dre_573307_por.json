@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:573307:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor no quadro de pessoal do GAC: não textual, o quadro (mapa anexo ao n.º 1 do artigo 7.º) só existe em imagem e não tem título de anexo no texto atual.\nAlterador 2, criação de um lugar de assessor no quadro de pessoal do GAC (repetição da Portaria n.º 825/91): não textual, o quadro só existe em imagem e não tem título de anexo no texto atual.\nAlterador 3, criação de um lugar de assessor principal no quadro de pessoal do GAC: não textual, o quadro só existe em imagem e não tem título de anexo no texto atual.\nAlterador 4, artigo 16.º n.º 5 do Decreto-Lei n.º 296-A/95 (fusão dos Gabinetes para os Assuntos Comunitários no Ministério da Economia): não textual, não altera nenhum artigo do original.\nAlterador 5, Decreto-Lei n.º 222/96: sem texto, o alterador vem vazio, sem menção ao original.\nAlterador 6, criação de um lugar de técnico auxiliar principal no quadro de pessoal do GAC: não textual, o quadro só existe em imagem e não tem título de anexo no texto atual.",
+  "instrucoes": [
+    "Alteradores 1, 2, 3 e 6: criação de lugares no quadro de pessoal em imagem; não aplicável.",
+    "Alterador 4: fusão do Gabinete no Ministério da Economia, sem alteração textual.",
+    "Alterador 5: sem texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

@@ -33,11 +33,17 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação dos artigos 1.º (corpo; alíneas a) a d) mantidas), 2.º, 5.º (n.º 1; n.os 2 e 3 mantidos), 8.º e 13.º do Regulamento - aplicado."
+    "Art. 1.º do alterador 1: o imposto incide sobre despesas de 1984 (não altera o texto do regulamento).",
+    "Art. 2.º: novas redações dos artigos 1.º (corpo; alíneas a) a d) mantidas), 2.º, 5.º (n.º 1; n.os 2 e 3 mantidos), 8.º e 13.º, aplicadas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

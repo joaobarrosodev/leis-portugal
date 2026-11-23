@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Nulidade\n\nO registo é nulo nos seguintes casos:\n\na) Ter sido lavrado em conservatória territorialmente incompetente;\n\nb) Não ter sido confirmado por quem for funcionalmente responsável;\n\nc) Ser falso ou ter sido feito com base em títulos falsos;\n\nd) Ter sido feito com base em títulos insuficientes para a prova legal do facto registado;\n\ne) Enfermar de omissões ou inexactidões de que resultem incerteza dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;\n\nf) Ter sido confirmado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil;\n\ng) Ter sido lavrado sem apresentação prévia ou com violação das regras do trato sucessivo, salvo o disposto no artigo 33.º",
+    "depois": "###### Artigo 15.º — Nulidade\n\nO registo é nulo nos seguintes casos:\n\na) Ter sido lavrado em conservatória territorialmente incompetente;\n\nb) Não ter sido confirmado por quem for funcionalmente responsável;\n\nc) Ser falso ou ter sido feito com base em títulos falsos;\n\nd) Ter sido feito com base em títulos insuficientes para a prova legal do facto registado;\n\ne) Enfermar de omissões ou inexactidões de que resultem incerteza dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;\n\nf) Ter sido confirmado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil;\n\ng) Ter sido lavrado sem apresentação prévia ou com violação das regras do trato sucessivo, salvo o disposto no artigo 34.º\n\n> Alterado pelo/a [Declaração de Rectificação n.º 131/95](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/131-1995-515872), publicado em 1995-10-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668290:por",
+    "alterador": "pt:dre:515872:por"
+  },
+  {
+    "artigo": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::26.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 26.º — Registo provisório\n\n1 - O registo pode ser lavrado provisoriamente por natureza ou por dúvidas.\n\n2 - O registo deve ser feito provisoriamente por dúvidas quando exista motivo que, não sendo fundamento de recusa, obste ao registo do acto tal como é pedido.\n\n3 - O registo de veículos apenas pode ser lavrado provisoriamente por natureza.\n\n4 - O registo prévio previsto no artigo 6.º apenas é admitido como definitivo ou como provisório por natureza.\n\n5 - Os despachos de recusa do registo ou que o qualifiquem como provisório por dúvidas devem ser lavrados pela ordem de anotação no Diário da República e notificados aos interessados no prazo de quarenta e oito horas.",
+    "depois": "###### Artigo 26.º — Registo provisório\n\n1 - O registo pode ser lavrado provisoriamente por natureza ou por dúvidas.\n\n2 - O registo deve ser feito provisoriamente por dúvidas quando exista motivo que, não sendo fundamento de recusa, obste ao registo do acto tal como é pedido.\n\n3 - O registo de veículos apenas pode ser lavrado provisoriamente por natureza.\n\n4 - O registo prévio previsto no artigo 6.º apenas é admitido como definitivo ou como provisório por natureza.\n\n5 - Os despachos de recusa do registo ou que o qualifiquem como provisório por dúvidas devem ser lavrados pela ordem de anotação no Diário e notificados aos interessados no prazo de quarenta e oito horas.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 131/95](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/131-1995-515872), publicado em 1995-10-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668290:por",
+    "alterador": "pt:dre:515872:por"
+  },
+  {
+    "artigo": "ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS::40.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 40.º — Recurso\n\n1 - No caso de a reclamação ser indeferida ou de o interessado pretender imediatamente recorrer, pode fazê-lo interpondo recurso hierárquico para o director-geral dos Registos e do Notariado.\n\n2 - Interposto o recurso, quando não precedido de reclamação, o conservador deve, no prazo de cinco dias, proferir despacho sustentando ou reparando a decisão.\n\n3 - O prazo do recurso hierárquico é de 30 dias a contar da data de notificação do indeferimento da reclamação.\n\n4 - Quando o recurso não seja precedido de reclamação, o prazo para a respectiva interposição é de 30 dias a contar do termo do prazo de registo ou, nos casos a que se refere o n.º 2 do artigo anterior, da notificação do despacho de indeferimento.\n\n5 - Tendo o recurso hierárquico sido julgado improcedente, pode o interessado interpor recurso contencioso.\n\n6 - A apreciação e decisão dos recursos hierárquico e contencioso aplicam-se as correspondentes disposições do Código do Registo Predial.",
+    "depois": "###### Artigo 40.º — Recurso\n\n1 - No caso de a reclamação ser indeferida ou de o interessado pretender imediatamente recorrer, pode fazê-lo interpondo recurso hierárquico para o director-geral dos Registos e do Notariado.\n\n2 - Interposto o recurso, quando não precedido de reclamação, o conservador deve, no prazo de cinco dias, proferir despacho sustentando ou reparando a decisão.\n\n3 - O prazo do recurso hierárquico é de 30 dias a contar da data de notificação do indeferimento da reclamação.\n\n4 - Quando o recurso não seja precedido de reclamação, o prazo para a respectiva interposição é de 30 dias a contar do termo do prazo de registo ou, nos casos a que se refere o n.º 2 do artigo anterior, da notificação do despacho de indeferimento.\n\n5 - Tendo o recurso hierárquico sido julgado improcedente, pode o interessado interpor recurso contencioso.\n\n6 - À apreciação e decisão dos recursos hierárquico e contencioso aplicam-se as correspondentes disposições do Código do Registo Predial.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 131/95](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/131-1995-515872), publicado em 1995-10-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668290:por",
+    "alterador": "pt:dre:515872:por"
+  }
+]

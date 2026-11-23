@@ -2,14 +2,18 @@
   "id": "pt:dre:577931:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar n.º 2/86), artigo 1.º, e alterador 2 (Decreto Regulamentar n.º 42/86), artigo 1.º: substituem as obrigações das alíneas d) e g) do artigo 3.º 'nos seguintes termos', sem dar nova redacção a essas alíneas; alterações não textuais, não aplicadas ao texto. Os respectivos artigos 2.º fixam prazos próprios e não alteram o original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 1.º do Decreto Regulamentar n.º 2/86 (substituição da obrigação da alínea d) do art. 3.º, campo de tiro, por um complexo desportivo de 5 campos de ténis, com novos prazos no art. 2.º): alvo incerto: o alterador não dá nova redação à alínea d); substitui a obrigação por um regime próprio (alíneas a) e b) e prazos noutro artigo) e não há texto que se possa copiar para a alínea d) sem compor redação sem fonte.\nAlterador 3, art. 1.º do Decreto Regulamentar n.º 42/86 (substituição da obrigação da alínea g) do art. 3.º, ampliação da Estalagem de São Félix, por obras no Hotel Vermar, com novos prazos no art. 2.º): alvo incerto: o alterador não dá nova redação à alínea g); substitui a obrigação por um regime próprio (alíneas a) e b) e prazos noutro artigo) e não há texto que se possa copiar para a alínea g) sem compor redação sem fonte.",
   "instrucoes": [
-    "Alterador 1 art. 1.º: substitui a obrigação da alínea d) do artigo 3.º (campo de tiro) por um complexo de ténis, sem nova redacção; não aplicada (ver nao_aplicavel).",
-    "Alterador 1 art. 2.º: prazos do anteprojecto; não altera o original.",
-    "Alterador 2 art. 1.º: substitui a obrigação da alínea g) do artigo 3.º (Estalagem de São Félix) por obras no Hotel Vermar, sem nova redacção; não aplicada (ver nao_aplicavel).",
-    "Alterador 2 art. 2.º: prazos; não altera o original."
+    "Alterador 1 (retificação, art. 3.º: «l) Subsidiar o Movimento de Pais e Amigos do Diminuído Intelectual...»): já está aplicada no texto atual do art. 3.º, alínea l), que fica como está.",
+    "Alterador 2: substituição da obrigação da alínea d) do art. 3.º: não aplicada (sem redação de alínea na fonte).",
+    "Alterador 3: substituição da obrigação da alínea g) do art. 3.º: não aplicada (sem redação de alínea na fonte)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -2,10 +2,11 @@
   "id": "pt:dre:537223:por",
   "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 104/89), artigo 34.º, n.º 1: revoga as 'correspondentes disposições' do Decreto-Lei n.º 45968 sem as identificar (revogação por correspondência de matéria, alvo ambíguo); não aplicada ao texto.",
+  "nao_aplicavel": "Alterador 1, artigo 34.º, n.º 1 (ficam revogadas «as correspondentes disposições do Decreto-Lei n.º 45968»): alvo incerto, revoga só as disposições «correspondentes» às matérias do novo regulamento, sem indicar artigos nem unidades; não se sabe com segurança quais são, por isso não se revoga nenhuma unidade.\nAlterador 1, artigo 34.º, n.º 2 (mantêm-se as disposições legais vigentes que não contrariem o novo regime enquanto os regulamentos não entrarem em vigor): não textual, norma transitória sem texto novo nem revogação de unidades.",
   "instrucoes": [
-    "Alterador 1, art. 34.º n.º 1: revogação genérica das disposições correspondentes do original, sem indicar artigos — não aplicada (alvo ambíguo)",
-    "Alterador 1, art. 34.º n.º 2: norma transitória, não altera o texto do original"
+    "Alterador 1 (Decreto-Lei n.º 104/89): a única referência ao original é o artigo 34.º, n.º 1, que revoga «as correspondentes disposições» do Decreto-Lei n.º 45968 sem dizer quais; não aplicada por alvo incerto.",
+    "Alterador 1, artigo 34.º, n.º 2: norma transitória, não textual; não aplicada.",
+    "O resto do Decreto-Lei n.º 104/89 regula outra matéria e não altera o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

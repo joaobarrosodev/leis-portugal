@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:653124:por
+    title: Decreto-Lei n.º 328/93
+    publication_date: '1993-09-25'
   - id: pt:dre:248483:por
     title: Decreto-Lei n.º 11/2008
     publication_date: '2008-01-17'
@@ -145,6 +148,10 @@ b) Sejam portadores de deficiências físicas, sensoriais ou intelectuais que de
 ###### Artigo 17.º — Regime de segurança social
 
 (Revogado.)
+
+> Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 328/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1993-653124), publicado em 1993-09-25.
+
+> Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 328/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1993-653124), publicado em 1993-09-25.
 
 > Revogado pelo/a [Decreto-Lei n.º 11/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2008-248483), publicado em 2008-01-17.
 

@@ -239,12 +239,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Reserva Natural
 
-(Revogado.)
+Do oceano Atlântico, coincidindo com o limite da freguesia de São Jacinto, município de Aveiro, até à estrada nacional n.º 327, pela estrada nacional n.º 327 até ao caminho que liga ao cemitério, por este caminho até ao arrife leste do talhão n.º 37 da Mata Nacional de São Jacinto, por este arrife até ao aceiro I, por este aceiro até ao arrife que divide os talhões n.os 37 e 38, por este arrife até à Avenida de Ria-Mar, por esta avenida até ao arrife oeste do talhão n.º 39, por este arrife até à paralela ao perímetro norte do posto da Brigada Fiscal e por este alinhamento até ao mar. No mar, pela linha de 6 m de profundidade média na maré baixa.
 
 > Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.
 
-## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)
+## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)
 
-(Revogado.)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/162b00/41984199.pdf)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.

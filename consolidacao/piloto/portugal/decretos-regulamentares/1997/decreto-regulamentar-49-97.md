@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:67198365:por
     title: Decreto-Lei n.º 78/2015
     publication_date: '2015-05-13'
+  - id: pt:dre:246552:por
+    title: Resolução do Conselho de Ministros n.º 50/2008
+    publication_date: '2008-03-19'
 ---
 
 # Decreto Regulamentar n.º 49/97
@@ -137,63 +140,27 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 10.º — Interdições
 
-Na área da Reserva Natural são interditos os seguintes actos e actividades:
+(Revogado.)
 
-a) A realização de obras de construção civil, designadamente construção de novos edifícios e infra-estruturas, exceptuando as construções de carácter precário que se destinem à gestão da Reserva Natural ou a apoio temporário a actividades agrícolas;
-
-b) A alteração à morfologia do solo pela instalação de depósitos de ferro-velho, de sucata, de veículos, de areia ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar, ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas, fora dos locais para tal destinados;
-
-c) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural e a diminuição da qualidade das águas superficiais e subterrâneas e respectivo caudal;
-
-d) A abertura de novas estradas, caminhos ou acessos;
-
-e) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pela Reserva Natural e das acções de âmbito científico devidamente autorizadas pela mesma;
-
-f) A introdução de espécies zoológicas e botânicas exóticas;
-
-g) A pesca desportiva como actividade desportiva susceptível de provocar poluição ou ruído ou de deteriorar os factores naturais da área;
-
-h) O sobrevoo de aeronaves com motor abaixo de 1000 pés, salvo por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pela Reserva Natural;
-
-i) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporária ou permanente, de cariz comercial ou não, incluindo a colocação de meios amovíveis, com excepção da sinalização específica da Reserva Natural ou da respectiva Câmara Municipal;
-
-j) A utilização de aparelhagem de amplificação sonora;
-
-l) A prática de campismo e caravanismo fora dos locais para tal destinados;
-
-m) A realização de queimadas e de fogos controlados e a prática de foguear, durante a época oficial de incêndios, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos).
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 11.º — Actos e actividades sujeitos a autorização
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia da Reserva Natural os seguintes actos e actividades:
+(Revogado.)
 
-a) A realização de obras de construção civil para edificações de carácter precário que se destinem a apoio temporário a actividades agrícolas;
-
-b) A alteração do uso actual dos terrenos ou da morfologia do solo, pela alteração do coberto vegetal, pela alteração de culturas ou pela afectação de novas áreas a actividades agro-silvo-pastoris;
-
-c) A alteração à morfologia do solo por escavações ou aterros;
-
-d) A alteração à morfologia do solo ou do coberto vegetal, pela abertura de poços, furos e captações ou pela destruição de compartimentações existentes de sebes vivas;
-
-e) O alargamento ou qualquer modificação de estradas, caminhos ou acessos existentes e obras de manutenção e conservação que impliquem a destruição do coberto vegetal;
-
-f) A instalação de infra-estruturas eléctricas e telefónicas, aéreas e subterrâneas, de telecomunicações, de transporte de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;
-
-g) A prática de actividades desportivas susceptíveis de provocarem poluição ou ruído ou deteriorarem os factores naturais da área, nomeadamente que impliquem a utilização de veículos terrestres ou de embarcações;
-
-h) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção que pela sua natureza não decorram da normal actividade agrícola;
-
-i) A realização de queimadas e de fogos controlados e a prática de foguear, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos).
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 12.º — Contra-ordenações
 
-1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º ou, sem as autorizações necessárias, no artigo 11.º
+(Revogado.)
 
-2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 13.º — Caça
 
-A prática de actividades venatórias na Reserva Natural encontra-se regulamentada pela [Portaria n.º 881/93](https://diariodarepublica.pt/dr/detalhe/portaria/881-1993-659971), de 15 de Setembro.
+(Revogado.)
+
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 14.º — Fiscalização
 
@@ -207,15 +174,9 @@ As funções de fiscalização, para efeitos do disposto no presente diploma e l
 
 ###### Artigo 16.º — Autorizações
 
-1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva da Reserva Natural não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.
+(Revogado.)
 
-2 - Sob proposta fundamentada da comissão directiva, o presidente do ICN pode fazer depender de uma avaliação de impacte ambiental, nos termos do [Decreto-Lei n.º 186/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1990-574930), de 6 de Junho, e do [Decreto Regulamentar n.º 38/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1990-564803), de 27 de Novembro, a autorização para a prática dos actos e actividades referidos no artigo 11.º
-
-3 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações pela comissão directiva da Reserva Natural é de 60 dias.
-
-4 - As autorizações emitidas pela comissão directiva da Reserva Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.
-
-5 - São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste diploma.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552), publicado em 2008-03-19.
 
 ###### Artigo 17.º — Direito de preferência
 
@@ -247,14 +208,16 @@ Referendado em 30 de Outubro de 1997.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Limites da Reserva Natural
+## ANEXO I — Limites da Reserva Natural do Paul do Boquilobo
 
-(Revogado.)
+Norte: desde o caminho de ferro da linha do Norte no local denominado «Canto da Linha», na Velada, para este ao longo da estrema da propriedade da Quinta do Paul do Boquilobo com a Quinta de Caniços, uma linha recta até ao ponto em que intersecta a vala das Hortas; a referida vala pela margem esquerda até à ponte do mesmo nome; o caminho municipal n.º 1177 para este, pelo lado direito, cruzando a ponte do Paul sobre o rio Almonda, até ao ponto em que se começa a juntar à vala do Canto do Rolão.
+
+Este: deste ponto para sul ao longo da margem esquerda da vala do Canto do Rolão até à sua junção com a vala dos Dezoito; a margem direita da vala dos Dezoito para montante até à foz da vala do Lister; a margem norte da vala do Lister para montante até ao ponto em que se junta ao valado da Estrema; o lado nascente do valado da Estrema para sul até ao ponto da estrema entre os artigos matriciais 23 e 24 da secção F da freguesia da Azinhaga; segue esta estrema até à Estrada do Meio (caminho municipal n.º 1); deste ponto ao longo do lado poente da Estrada do Meio para sul até ao local em que se junta à estrada nacional n.º 365.
+
+Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até à Quinta da Broa, na margem direita do rio Almonda; o caminho municipal n.º 7, que parte desta Quinta até à estação elevatória de águas; deste ponto o caminho municipal n.º 25, que vai até ao ponto em que parte o caminho rural que se dirige à Quinta de Miranda; segue este caminho, contornando a sudoeste a área edificada da Quinta de Miranda; o prolongamento deste último para noroeste até ao ponto da antiga passagem de nível no caminho de ferro da linha do Norte.
+
+Oeste: desde a antiga passagem de nível, o caminho de ferro para norte até ao ponto em que uma estrada do seu lado esquerdo flecte para noroeste; deste ponto ao longo do lado direito da estrada contornando a mata ripícola, até ao ponto em que a estrada se inicia paralela ao caminho de ferro; deste local o caminho de ferro para norte até ao Aqueduto do Canto dos Finados; ao longo do caminho que parte do dito Aqueduto, em direcção a norte até à intersecção deste com a linha de água da vertente sul do vale da Negra; ao longo desta para montante, pela sua margem esquerda; seguindo para nordeste, até à intersecção desta com o primeiro caminho que atravessa o vale da Negra; pelo dito caminho orientado a 64º (E. N. E.), cruzando a linha de água da vertente norte do vale da Negra; deste ponto até ao local da Fonte da Graça; deste ponto pelo limite que divide o olival e a mata na vertente norte do vale da Negra até ao local em que vai encontrar o caminho de ferro a norte do pontão do vale da Negra; deste local ao longo do lado nascente do caminho de ferro até ao ponto denominado «Canto da Linha», na Velada.
 
 > Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
 
-## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)
-
-(Revogado.)
-
-> Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
+## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25702572.pdf)

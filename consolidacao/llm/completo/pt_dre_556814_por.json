@@ -1,13 +1,26 @@
 {
   "id": "pt:dre:556814:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 93/72), artigo 1.º: acrescenta lugares ao quadro do pessoal do mapa anexo a que se refere o artigo 4.º; o mapa só vem em imagem, não aplicável ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 5.º, § 3.º (alteração do quadro anexo ao original, em conformidade com a classificação dos aeroportos): só em imagem: o mapa do original só existe em imagem, sem título de anexo no texto atual, e o alterador não traz texto novo.\nAlterador 2, art. 1.º (acréscimo de lugares ao quadro do Aeroporto da Madeira, constantes do mapa anexo): só em imagem: o mapa novo só existe em imagem e o texto atual não tem título de anexo onde o pôr.\nAlterador 1, arts. 1.º a 5.º (§§ 1.º, 2.º, 4.º a 6.º), 7.º a 10.º e alterador 2, art. 2.º: outro diploma: respeitam ao aeroporto de Faro, a outros quadros, encargos e vigência, sem alterar texto do original.",
   "instrucoes": [
-    "Alterador 1 art. 1.º: acrescenta lugares ao mapa do quadro de pessoal (anexo em imagem); não aplicada (ver nao_aplicavel).",
-    "Alterador 1 art. 2.º: autorizações orçamentais; não altera o texto do original."
+    "Alterador 1, art. 6.º: revoga o artigo 2.º do original; o texto atual já está «(Revogado.)» e confirma-se.",
+    "Alterador 1, art. 5.º, § 3.º e Alterador 2, art. 1.º: alterações ao quadro em imagem do art. 4.º; vão para nao_aplicavel (só em imagem).",
+    "Restantes disposições: respeitam a outros aeroportos, serviços ou encargos; sem efeito no original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

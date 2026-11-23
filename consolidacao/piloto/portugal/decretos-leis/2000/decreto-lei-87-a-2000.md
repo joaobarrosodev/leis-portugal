@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:67085601:por
+    title: Lei n.º 34/2015
+    publication_date: '2015-04-27'
   - id: pt:dre:67498686:por
     title: Decreto-Lei n.º 105/2015
     publication_date: '2015-06-16'
@@ -43,23 +46,9 @@ Ficam os Ministros do Equipamento Social e das Finanças mandatados, podendo del
 
 ###### Artigo 4.º — Zonas non aedificandi
 
-1 - Nos lanços de auto-estrada constantes da base II, anexa ao presente diploma, são fixadas as seguintes zonas de servidão non aedificandi:
+(Revogado.)
 
-a) Desde a aprovação do estudo prévio até à aprovação da planta parcelar do projecto de execução, 200 m para cada lado do eixo da estrada e, centrado em cada nó de ligação, um círculo com 1300 m de diâmetro;
-
-b) A partir da aprovação da planta parcelar do projecto de execução, os limites fixados pelas alíneas d) e e) do n.º 1 do artigo 8.º do Decreto-Lei n.º 13/71, de 23 de Janeiro, serão os seguintes:
-
-Edifícios, a menos de 40 m a contar do limite definitivo previsto das plataformas das auto-estradas, dos ramos dos nós e dos ramais de acesso e ainda das praças de portagem e das zonas de serviço, e nunca a menos de 20 m da zona da auto-estrada;
-
-Instalações de carácter industrial, nomeadamente fábricas, garagens, armazéns, restaurantes, hotéis e congéneres e, bem assim, igrejas, recintos de espectáculos, matadouros e quartéis de bombeiros a menos de 70 m a contar do limite definitivo previsto das plataformas da auto-estrada, dos ramos dos nós e dos ramais de acesso e ainda das praças de portagem e das zonas de serviço, e nunca a menos de 50 m da auto-estrada.
-
-2 - Verificada a violação ao disposto no presente artigo por execução de obras, deve o Instituto das Estradas de Portugal (IEP) proceder ao imediato embargo das mesmas, intimando o proprietário para a sua demolição, para a qual fixará um prazo razoável.
-
-3 - No caso de incumprimento da intimação no prazo referido no número anterior, pode o IEP substituir-se ao infractor e executar os trabalhos de demolição a expensas deste.
-
-4 - Constitui título executivo bastante a prova documental das despesas efectuadas pelo IEP, por si ou por entidade para o efeito contratada, com os trabalhos de demolição.
-
-5 - Os actos praticados em violação do disposto no presente artigo são nulos.
+> Revogado pelo/a [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), publicado em 2015-04-27.
 
 ###### Artigo 5.º — Aprovação de estudos prévios e projectos
 

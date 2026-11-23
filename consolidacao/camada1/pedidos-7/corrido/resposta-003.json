@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:630671:por",
+  "substituicoes": [
+   {
+    "de": 12,
+    "ate": 12,
+    "texto": "1 - (Revogado.)",
+    "alterador": 1
+   },
+   {
+    "de": 20,
+    "ate": 23,
+    "texto": "7.º - (Revogado.)",
+    "alterador": 1
+   },
+   {
+    "de": 25,
+    "ate": 26,
+    "texto": "2 - (Revogado.)\n\n3 - (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, art. 15.º: revoga o n.º 1 do art. 4.º (unidade 12, passa a «1 - (Revogado.)»; o n.º 2 mantém-se), o art. 7.º inteiro (unidades 20 a 23, passam a «7.º - (Revogado.)») e os n.os 2 e 3 do art. 8.º (unidades 25 e 26).",
+   "Alterador 1, restantes artigos: regulam a 3.ª fase de reprivatização e não alteram o texto do original."
+  ]
+ }
+]

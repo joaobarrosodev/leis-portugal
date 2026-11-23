@@ -310,8 +310,6 @@ i) Outros investimentos relacionados directamente com o fomento económico, que,
 
 > Alterado pelo/a [Decreto-Lei n.º 234/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1972-674395), publicado em 1972-07-08.
 
-#### SECÇÃO III — Do crédito a longo prazo
-
 ###### Artigo 30.º
 
 1. O Instituto poderá conceder crédito a longo prazo mediante empréstimos, desde que concorram as seguintes condições:
@@ -365,8 +363,6 @@ d) Saneamento financeiro da empresa, desde que as dívidas a solver com o produt
 3. O Instituto pode ainda conceder empréstimos a particulares, nos termos e condições que o conselho de administração fixar, para a aquisição de casa própria ou para nela procederem a obras de reparação, conservação ou ampliação.
 
 > Alterado pelo/a [Decreto-Lei n.º 234/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1972-674395), publicado em 1972-07-08.
-
-#### SECÇÃO IV — Das garantias dos empréstimos
 
 ###### Artigo 34.º
 

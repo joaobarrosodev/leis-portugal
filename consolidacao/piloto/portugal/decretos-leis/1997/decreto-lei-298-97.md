@@ -91,3 +91,7 @@ Referendado em 14 de Outubro de 1997.
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/250a00/58505853.pdf)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/01/026a00/04150416.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 18/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1998-225376), publicado em 1998-01-31.

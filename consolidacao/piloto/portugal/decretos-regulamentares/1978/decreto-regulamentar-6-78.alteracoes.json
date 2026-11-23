@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:446532:por",
     "alterador": "pt:dre:327873:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1978-327873), publicado em 1978-10-25.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.\n\nPromulgado em 5 de Fevereiro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa a que se refere o artigo 1.º deste diploma\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04100/03810382.pdf)\n\nO Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1978-327873), publicado em 1978-10-25.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1978-327873), publicado em 1978-10-25.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.\n\nPromulgado em 5 de Fevereiro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa a que se refere o artigo 1.º deste diploma\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04100/03810382.pdf)\n\nO Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:446532:por",
+    "alterador": "pt:dre:327873:por"
   }
 ]

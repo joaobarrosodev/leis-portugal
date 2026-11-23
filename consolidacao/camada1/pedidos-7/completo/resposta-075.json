@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pt:dre:575148:por",
+  "artigos": [
+   {
+    "chave": "76.º",
+    "epigrafe": "Dispensa de retenção na fonte",
+    "texto": "...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Remunerações referidas na alínea d) do n.º 1 do artigo anterior quando auferidas por sociedades de revisores oficiais de contas que participem nos órgãos aí indicados;\n\ng) Rendimentos prediais referidos na alínea c) do n.º 1 do artigo anterior quando obtidos por sociedades que tenham por objecto a gestão de imóveis próprios e não se encontrem sujeitas ao regime de transparência fiscal, nos termos da alínea c) do n.º 1 do artigo 5.º;\n\nh) Rendimentos obtidos por sociedades gestoras de participações sociais (SGPS), de que seja devedora sociedade por elas participada durante pelo menos um ano e a participação não seja inferior a 10% do capital com direito de voto da sociedade participada, quer por si só, quer conjuntamente com participações de outras sociedade em que as SGPS sejam dominantes, resultantes de contratos de suprimento celebrados com aquelas sociedades ou de tomada de obrigações daquelas.",
+    "alterador": 1
+   },
+   {
+    "chave": "102.º",
+    "epigrafe": "Deveres de cooperação dos organismos oficiais e de outras entidades",
+    "texto": "Os serviços, estabelecimentos e organismos do Estado, das regiões autónomas e das autarquias locais, incluindo os dotados de autonomia administrativa ou financeira e ainda que personalizados, as associações e federações de municípios, bem como outras pessoas colectivas de direito público, as pessoas colectivas de utilidade pública, as instituições particulares de solidariedade social e as empresas públicas deverão, por força do dever público de cooperação com a administração fiscal, remeter à direcção de finanças da respectiva área, até ao último dia do mês de Fevereiro de cada ano, em impresso de modelo aprovado pelo Ministro das Finanças, informação sobre a adjudicação de obras ou fornecimentos e aquisição de quaisquer bens ou serviços a pessoas ou entidades sujeitas a IRC.\n\nArt. 3.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os artigos 36.º-A e 40.º-A, com a seguinte redacção:",
+    "alterador": 1
+   },
+   {
+    "chave": "40.º-A",
+    "epigrafe": "Depósitos em moeda estrangeira",
+    "texto": "Ficam isentos de IRC os juros de depósitos a prazo em moeda estrangeira efectuados em estabelecimentos legalmente autorizados a recebê-los, por instituições de crédito não residentes.\n\nVisto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 25 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 31 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "alterador": 15
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 15
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (declaração de retificação): artigo 76.º, alínea h): «tomadas de obrigações» passa a «tomada de obrigações»; aplicado.",
+   "Alterador 1 (declaração de retificação): artigo 102.º: «Ministério das Finanças» passa a «Ministro das Finanças» e «qualquer bem ou serviços» a «quaisquer bens ou serviços»; aplicado.",
+   "Alteradores 6, 8, 12 e 13 (Leis 39-B/94, 52-C/96, 87-B/98 e 3-B/2000): novas redações sucessivas do artigo 4.º do DL 192/90 (tributação autónoma das despesas confidenciais); ficam superadas pela revogação que se segue.",
+   "Alterador 15 (Lei 30-G/2000, art. 7.º, n.º 11): revoga o artigo 4.º do DL 192/90; no texto atual esse artigo vem como parágrafo no fim da chave 40.º-A, que é reescrita sem ele (o resto copiado do texto atual), e o artigo 4.º aparece como artigo revogado, com o corpo «(Revogado.)».",
+   "Restantes alteradores (Leis 34/91, 2/92, DL 65/93, 257-B/96, 25/98, 55/2000, 80/2003, etc.): alteram o CIRC, o Estatuto dos Benefícios Fiscais ou outros diplomas, não o original; ignorados."
+  ]
+ }
+]

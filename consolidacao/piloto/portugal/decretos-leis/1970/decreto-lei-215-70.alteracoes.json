@@ -2,15 +2,29 @@
   {
     "artigo": "4.º",
     "operacao": "substituir",
-    "regra": "substituição integral",
+    "regra": "llm",
     "antes": "###### Artigo 4.º\n\nO prazo da concessão é de sessenta anos, contados a partir da data da celebração do contrato.",
-    "depois": "###### Artigo 4.º\n\nO prazo da concessão é de 90 anos, contados a partir da data da celebração do contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2004-301782), publicado em 2004-05-07.",
-    "excerto": "É alterado o artigo 4.º do Decreto-Lei n.º 215/70, de 15 de Maio, que passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nO prazo da concessão é de 90 anos, contados a partir da data da celebração do contrato.»",
-    "artigo_alterador": "2.º",
-    "metodo": "regra",
+    "depois": "###### Artigo 4.º\n\nO prazo da concessão é de 90 anos, contados a partir da data da celebração do contrato.\n\n> Alterado pelo/a [Decreto-Lei n.º 102/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2004-301782), publicado em 2004-05-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:142171:por",
-    "alterador": "pt:dre:301782:por"
+    "alterador": "pt:dre:301782:por;pt:dre:495311:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.\n\n2. Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de pena de multa até 500$00, acrescida de 1/3 por cada reincidência, cujo produto reverterá para o Estado.",
+    "depois": "###### Artigo 10.º\n\n1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 34/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1991-495311), publicado em 1991-01-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142171:por",
+    "alterador": "pt:dre:301782:por;pt:dre:495311:por"
   }
 ]

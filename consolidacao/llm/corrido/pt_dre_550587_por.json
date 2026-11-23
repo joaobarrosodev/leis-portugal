@@ -1,29 +1,13 @@
 {
   "id": "pt:dre:550587:por",
-  "substituicoes": [
-    {
-      "de": 25,
-      "ate": 27,
-      "texto": "Art. 4.º - (Revogado.)",
-      "alterador": 1
-    },
-    {
-      "de": 39,
-      "ate": 42,
-      "texto": "Art. 8.º - (Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 1, art. 18.º n.º 1 b) (revoga os artigos 4.º e 8.º do Decreto-Lei n.º 428/89): efeito adiado: o n.º 3 do mesmo artigo condiciona os efeitos da revogação à publicação da resolução do Conselho de Ministros que determine o vencedor do concurso público (n.º 1 do art. 2.º), facto futuro que não consta dos textos; os arts. 4.º e 8.º ficam como estão.\nAlterador 1, art. 18.º n.º 1 a) e c) e n.º 2 (revogações do Decreto-Lei n.º 41957, do Decreto-Lei n.º 270/94 e de disposições do Decreto-Lei n.º 22/89): outro diploma: não alteram o Decreto-Lei n.º 428/89.\nAlterador 1, restantes artigos (reprivatização do Banco de Fomento e Exterior, S. A.): não textual: não alteram o texto do Decreto-Lei n.º 428/89.",
   "instrucoes": [
-    "Alt. 1, art. 18.º, n.º 1, b): revogados os artigos 4.º e 8.º do Decreto-Lei n.º 428/89 (do decreto-lei, não dos estatutos) — unidades 25-27 e 39-42 substituídas por 'Art. 4.º - (Revogado.)' e 'Art. 8.º - (Revogado.)'; a eficácia fica dependente da resolução que determine o vencedor do concurso (n.º 3).",
-    "Alt. 1, art. 18.º, n.os 1, a) e c), e 2: revogações de outros diplomas — ignoradas."
+    "Art. 18.º n.º 1 b) do DL 33/96: revoga os arts. 4.º e 8.º do DL 428/89, mas com efeitos condicionados (n.º 3) a uma resolução do Conselho de Ministros futura; não aplicada e declarada em nao_aplicavel.",
+    "As revogações das alíneas a) e c) e do n.º 2 são de outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 25-27: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
-    "substituição 39-42: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)"
-  ]
+  "problemas": []
 }

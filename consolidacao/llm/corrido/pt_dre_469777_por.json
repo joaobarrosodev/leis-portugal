@@ -123,14 +123,8 @@
     },
     {
       "de": 339,
-      "ate": 339,
-      "texto": "5) Logo que a entidade que vem passar a revista entra no campo, o comandante das forças em parada manda fazer o toque (ou dá a voz de sentido, seguido do sinal correspondente àquela entidade, e em seguida manda ombro-arma.",
-      "alterador": 1
-    },
-    {
-      "de": 341,
       "ate": 341,
-      "texto": "6) Recebida e correspondida esta continência, o comandante ordenará os toques de ombro-arma e descansar-arma.",
+      "texto": "5) Logo que a entidade que vem passar a revista entra no campo, o comandante das forças em parada manda fazer o toque (ou dá a voz de sentido, seguido do sinal correspondente àquela entidade, e em seguida manda ombro-arma.\n\n6) Recebida e correspondida esta continência, o comandante ordenará os toques de ombro-arma e descansar-arma.",
       "alterador": 1
     },
     {
@@ -164,9 +158,27 @@
       "alterador": 1
     },
     {
+      "de": 503,
+      "ate": 503,
+      "texto": "12 - Seguidamente, e por determinação do CFA, o clarim de ordens executará o toque de destroçar sem sinal de execução e precedido do sinal da região militar ou equivalente a que as tropas pertencem. Este toque, que será repetido pelos corneteiros (clarins) de todas as unidades, será a indicação de que estas poderão recolher a quartéis.",
+      "alterador": 1
+    },
+    {
       "de": 530,
+      "ate": 530,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 532,
+      "ate": 532,
+      "texto": "Conselheiros da Revolução;\n\nMinistros;",
+      "alterador": 1
+    },
+    {
+      "de": 534,
       "ate": 534,
-      "texto": "Vice-Chefe do Estado-Maior-General das Forças Armadas e Chefes dos Estados-Maiores dos três ramos das forças armadas;\n\nConselheiros da Revolução;\n\nMinistros;\n\nComandantes-Chefes da Madeira e dos Açores, na área do seu comando;\n\nComandantes de regiões militares (comandantes navais e aéreos na área do seu comando);",
+      "texto": "Comandantes de regiões militares (comandantes navais e aéreos na área do seu comando);",
       "alterador": 1
     },
     {
@@ -189,28 +201,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "As alterações aos quadros B (capítulo V, categorias III e VI), C (capítulo VIII, 3.ª e 5.ª colunas e nota 1), D (capítulo IX, categoria II) e E (anexo III, 1.ª coluna) não se aplicam: esses quadros só existem em imagem no texto atual (unidades 332, 556, 623 e 678, «ver documento original»).",
+  "nao_aplicavel": "Alterador 1, Quadro B (capítulo V), categoria III 2.ª coluna e categoria VI: só em imagem: o quadro só existe em imagem (PDF) no texto atual e o alterador dá apenas descrição parcial das colunas, sem imagem nova.\nAlterador 1, Quadro C (capítulo VIII), 3.ª e 5.ª colunas e Notas-1: só em imagem: o quadro só existe em imagem (PDF) no texto atual e o alterador não traz imagem.\nAlterador 1, Quadro D (capítulo IX), categoria II 2.ª coluna: só em imagem: o quadro só existe em imagem (PDF) no texto atual e o alterador não traz imagem.\nAlterador 1, Quadro E (anexo III), 1.ª coluna: só em imagem: o quadro só existe em imagem (PDF) no texto atual e o alterador não traz imagem.",
   "instrucoes": [
-    "Art. 11.º, n.º 2: nova redação (acrescenta os Conselheiros da Revolução) — substituída a unidade 50.",
-    "Art. 18.º, 2): «deixando-o passar primeiro» — substituída a unidade 98.",
-    "Art. 21.º: «excepto quanto ao Estandarte Nacional» — substituída a unidade 110.",
-    "Art. 31.º, n.º 1: nova redação — substituída a unidade 136.",
-    "Art. 31.º, n.º 3: alíneas novas b) Conselheiros e c) Ministros, antigas c) a e) passam a d) a f) — substituídas as unidades 140 a 143; n.º 6, b) igual ao atual.",
-    "Art. 38.º, n.º 1; art. 40.º, n.º 1; art. 41.º, n.º 2: Conselheiros da Revolução e Ministros — substituídas as unidades 164, 168 e 172.",
-    "Art. 44.º e art. 45.º, n.º 1: nova redação com lista de precedências — substituídas as unidades 179 e 180.",
-    "Art. 47.º, n.º 2: nova redação copiada letra a letra do alterador — substituída a unidade 185.",
-    "Art. 59.º, n.os 1 e 2: nova redação — substituídas as unidades 223 e 224.",
-    "Art. 60.º, n.º 1, a): «no caso de recepção» e ponto final em «apresentam armas.» — substituídas as unidades 232 e 235; resto igual.",
-    "Art. 63.º, art. 69.º, n.º 1, art. 71.º, n.º 1, art. 77.º («sem honras fúnebres»), art. 81.º, n.º 1, art. 94.º, n.º 1 («anunciada»): substituídas as unidades 245, 259, 267, 297, 301 e 325.",
-    "Art. 79.º, art. 115.º, n.º 9, art. 116.º, n.os 4, 11 e 12: redação igual à atual — nada a mudar.",
-    "Art. 97.º, 5), 6) e 8): nova redação copiada letra a letra — substituídas as unidades 339, 341 e 343 (o segundo parágrafo de 5), unidade 340, mantém-se).",
-    "Art. 98.º: primeiro parágrafo sem vírgula antes de «para com ela» — substituída a unidade 351.",
-    "Art. 111.º, n.º 1, b): «terno de corneteiros» — substituída a unidade 414.",
-    "Art. 115.º, n.º 1: «forças em alas» e «n.º 1.º do artigo 111.º» — substituída a unidade 449.",
-    "Art. 116.º, n.º 3: «toque-aviso» — substituída a unidade 479.",
-    "Art. 121.º, n.º 4: lista nova (sai o Presidente do Supremo Tribunal Militar, entram os Conselheiros da Revolução e os Ministros) — substituídas as unidades 530 a 534.",
-    "Art. 138.º, n.º 2; art. 148.º, n.º 2; art. 163.º («estabelecimentos»): substituídas as unidades 588, 606 e 641.",
-    "Quadros B, C, D e E: não aplicados (só em imagem)."
+    "Alterador 1, arts. 11.º, 18.º, 21.º, 31.º, 38.º, 40.º, 41.º, 44.º, 45.º, 47.º, 59.º, 60.º, 63.º, 69.º, 71.º, 77.º, 81.º, 94.º, 97.º, 98.º, 111.º, 115.º, 116.º, 121.º, 138.º, 148.º, 163.º do Regulamento: nova redação; substituídas só as unidades que mudam, as marcadas '...' ficam com o texto atual (a lista final do artigo 31.º passa a a) a f); nos artigos 44.º e 45.º as listas de precedência substituem a remissão para a lista do protocolo do Estado).",
+    "Alterador 1, art. 79.º: o texto do alterador coincide com o atual, sem alteração.",
+    "Alterador 1, art. 97.º: os n.os 5) e 6) são reproduzidos pelo alterador sem o parágrafo de continuação do 5) nem o resto do 6); substituídas as unidades 339 a 341 pelos dois itens tal como vêm no alterador.",
+    "Alterador 1, Quadros B, C, D e E: não aplicados (só em imagem), ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

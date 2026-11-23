@@ -170,7 +170,7 @@ As provas de exames de condução são realizadas pela DGV, nos termos do [Decre
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19.
 
-> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 209/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), publicado em 1998-07-15.
+> Revogado pelo/a [Decreto-Lei n.º 209/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), publicado em 1998-07-15.
 
 ### CAPÍTULO IV — Regime sancionatório e disposições transitórias
 

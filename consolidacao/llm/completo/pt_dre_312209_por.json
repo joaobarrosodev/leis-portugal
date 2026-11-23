@@ -10,12 +10,16 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 529/76 (alterador 1, que vem no pedido, ao contrário do que diz o reparo): adita o n.º 3 ao artigo 1.º; aplicado.",
-    "DL 249/82 (alterador 2): adita o n.º 4 ao artigo 1.º (n.os 1 a 3 '...'); aplicado. N.os 1 e 2 do texto atual."
+    "Alterador 1 (DL 529/76): aditado o n.º 3 ao artigo 1.º; n.os 1 e 2 ficam como no texto atual ('...').",
+    "Alterador 2 (DL 249/82): aditado o n.º 4 ao artigo 1.º; n.os 1 a 3 ficam como estão ('...')."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -2,14 +2,17 @@
   "id": "pt:dre:616627:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alt. 2, art. 7.º c): revoga o Decreto Regulamentar n.º 22/91 'na parte respeitante aos cargos do pessoal especializado', ressalvado o art. 6.º (norma transitória) — revogação parcial por matéria, sem alvo textual determinado; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, DL 121/2008 (mapa VIII) revoga o DR 22/91 com excepção do n.º 3 do artigo 5.º e das disposições relativas às categorias subsistentes: alvo incerto: o texto do alterador vem vazio, a revogação é parcial e nada diz quais são as categorias subsistentes nem, por isso, que artigos ficam em vigor.\nAlterador 2, DL 118/2012, art. 7.º, c): revoga o DR 22/91 na parte respeitante aos cargos do pessoal especializado, sem prejuízo do artigo 6.º: alvo incerto: revogação parcial sem artigos identificados (o DR 22/91 trata de remunerações de categorias do MNE, não de cargos), e o artigo 6.º mantém essa parte em vigor até ao termo das comissões de serviço em curso (efeito adiado).",
   "instrucoes": [
-    "Alt. 1 (DL 121/2008): sem artigos transcritos — nada a aplicar",
-    "Alt. 2, arts. 2.º a 5.º e 8.º: alteram o DL 127/2010 e o DL 165-B/2009 — ignorados",
-    "Alt. 2, art. 6.º: mantém em vigor transitoriamente parte do original — não textual",
-    "Alt. 2, art. 7.º c): revogação parcial por matéria — não aplicada"
+    "DL 121/2008, mapa VIII: revogação parcial do DR 22/91; não aplicada, exceções não identificáveis.",
+    "DL 118/2012, art. 6.º e 7.º, c): revogação parcial do DR 22/91 (pessoal especializado), com manutenção transitória; não aplicada, alvo incerto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

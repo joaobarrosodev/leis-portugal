@@ -28,17 +28,21 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 449/72 art. 1.º: novo n.º 2 no art. 1.º, antigos 2-4 passam a 3-5 (depois substituído o n.º 2 pelo DL 614/73).",
-    "DL 449/72 art. 2.º: nova redacção dos n.os 3 e 4 do art. 3.º ('período da sessão legislativa', 'ser-lhes-á') - aplicada; o reparo do verificador não procede, a instrução existe.",
-    "DL 614/73 art. 1.º: nova redacção dos n.os 1 e 2 do art. 1.º.",
-    "DL 614/73 art. 2.º: aditados n.os 5 e 6 ao art. 1.º, o actual n.º 5 (abonos) passa a n.º 7.",
-    "DL 614/73 art. 3.º: aditado n.º 5 ao art. 3.º, actual n.º 5 passa a n.º 6.",
-    "DL 614/73 art. 4.º: nova redacção do n.º 2 do art. 4.º.",
-    "DL 614/73 art. 5.º: nova redacção dos n.os 1, 2 e 3 do art. 5.º."
+    "Alterador 1, art. 1.º: novo n.º 2 do art. 1.º (senha dos Deputados do ultramar) e antigos n.os 2, 3 e 4 passam a 3, 4 e 5; depois substituído pelo n.º 2 do alterador 2.",
+    "Alterador 1, art. 2.º: n.os 3 e 4 do art. 3.º com a redação nova («período da sessão legislativa», «ser-lhes-á»); aplicado (o reparo do verificador ignora esta instrução).",
+    "Alterador 2, art. 1.º: n.os 1 e 2 do art. 1.º com nova redação.",
+    "Alterador 2, art. 2.º: aditados n.os 5 e 6 ao art. 1.º; o atual n.º 5 (antigo n.º 4) passa a n.º 7.",
+    "Alterador 2, art. 3.º: aditado n.º 5 ao art. 3.º; o atual n.º 5 passa a n.º 6.",
+    "Alterador 2, art. 4.º: n.º 2 do art. 4.º com nova redação.",
+    "Alterador 2, art. 5.º: n.os 1, 2 e 3 do art. 5.º com nova redação."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

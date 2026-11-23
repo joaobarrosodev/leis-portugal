@@ -2,13 +2,18 @@
   "id": "pt:dre:642526:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Nenhum dos alteradores dá nova redação a artigos do Decreto-Lei n.º 326/2007: o DL 30/2011 (art. 1.º, n.º 2, e art. 2.º, n.º 2) altera o Centro Hospitalar do Porto, E. P. E., por fusão e sucessão, e o DL 68/2013 transfere competências para ele; o DL 102/2023 reestrutura o Centro Hospitalar do Tâmega e Sousa em ULS. São alterações não textuais, não aplicadas ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º n.º 2 e art. 2.º n.º 2 (o Centro Hospitalar do Porto, E. P. E., criado pelo Decreto-Lei n.º 326/2007, é «alterado» por fusão com o Hospital Joaquim Urbano): não textual, o Decreto-Lei n.º 30/2011 cria os centros hospitalares e funde o CHP com o Hospital Joaquim Urbano, mas não dá nova redação, nem aditamento, nem revoga nenhum artigo do Decreto-Lei n.º 326/2007.\nAlterador 2, transferência de competências do INSA, I. P., para o Centro Hospitalar do Porto, E. P. E.: não textual, o Decreto-Lei n.º 68/2013 não altera nem revoga nenhuma disposição do Decreto-Lei n.º 326/2007.\nAlterador 3, reestruturação do Centro Hospitalar do Tâmega e Sousa, E. P. E., em unidade local de saúde (art. 1.º n.º 1 alínea d), art. 7.º e artigo 19.º): outro diploma, o Decreto-Lei n.º 102/2023 cria as ULS e só altera os Decretos-Leis n.os 318/2009, 23/2019, 52/2022 e 61/2022; a norma revogatória não visa o Decreto-Lei n.º 326/2007.",
   "instrucoes": [
-    "DL 30/2011: fusão do CHP com o Hospital Joaquim Urbano e sucessão; sem alteração textual do original.",
-    "DL 68/2013: transferência de competências do INSA para o CHP; sem alteração textual do original.",
-    "DL 102/2023: reestruturação do CH Tâmega e Sousa em ULS e alteração de outros diplomas (DL 52/2022, 23/2019, 61/2022, 318/2009): ignorado para o texto do original."
+    "Alterador 1 (DL 30/2011): fusão e criação de centros hospitalares, sem alteração textual ao original; nada aplicado.",
+    "Alterador 2 (DL 68/2013): transferência de competências, sem alteração textual ao original; nada aplicado.",
+    "Alterador 3 (DL 102/2023): cria ULS e altera outros diplomas; norma revogatória não visa o original; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

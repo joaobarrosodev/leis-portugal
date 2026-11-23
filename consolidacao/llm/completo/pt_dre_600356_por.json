@@ -2,11 +2,18 @@
   "id": "pt:dre:600356:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Portaria n.º 655/88: extingue os lugares do mapa anexo ao original e substitui-os pelo mapa anexo à portaria, que só vem em imagem (ver documento original); não é alteração ao texto dos artigos.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, revogações de artigos de outros diplomas (Decreto-Lei n.º 402/73, 781-A/76, 276/79, 448/79 e Decreto do Governo n.º 64/83): outro diploma, só aparecem numa lista.\nAlterador 2, mapa anexo ao Decreto-Lei n.º 244/85 (remuneração complementar de cargos dirigentes): outro diploma, o mapa é do próprio alterador.\nAlterador 3, extinção dos lugares do mapa anexo ao original e criação dos lugares do mapa anexo à portaria (quadro de pessoal): só em imagem, o quadro só existe em imagem e não há título de anexo no texto atual onde o pôr.",
   "instrucoes": [
-    "Portaria 655/88: substitui o mapa de pessoal anexo por outro, só em imagem; não aplicado."
+    "Alterador 1 (declaração de retificação, artigo 31.º n.º 1 alínea c)): o texto atual do artigo 31.º já tem «c) Alugar bens móveis e contratar serviços.»; nada a mudar.",
+    "Alterador 2, artigo 8.º alínea e) (revoga o n.º 3 do artigo 7.º): o texto atual do artigo 7.º já tem «3 - (Revogado.)»; nada a mudar. A entrada em vigor (1.º dia de execução do OE para 1986) já passou.",
+    "Alterador 3: quadro só em imagem; não aplicável."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 120,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

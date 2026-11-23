@@ -201,7 +201,7 @@
     },
     {
       "chave": "34.º",
-      "epigrafe": "(Anotação da transcrição)",
+      "epigrafe": "(Anotação da transcrição no índice)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -267,25 +267,25 @@
     },
     {
       "chave": "45.º",
-      "epigrafe": "(Substituição dos livros índices)",
+      "epigrafe": "(Livros índices)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "46.º",
-      "epigrafe": "(Livro de registo de dúvidas e recusas)",
+      "epigrafe": "(Índices referentes a prédios sujeitos ao regime de registo obrigatório)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "47.º",
-      "epigrafe": "(Livro do registo de emolumentos)",
+      "epigrafe": "(Livro de registo de dúvidas e recusas)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "48.º",
-      "epigrafe": "(Livros de registos das conservatórias divididas em secções)",
+      "epigrafe": "(Livro do registo de emolumentos)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -309,7 +309,7 @@
     },
     {
       "chave": "52.º",
-      "epigrafe": "(Encadernação e numeração dos livros)",
+      "epigrafe": "(Numeração dos livros)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -909,7 +909,7 @@
     },
     {
       "chave": "152.º",
-      "epigrafe": "(Anotação no verbete do prédio)",
+      "epigrafe": "(Anotação no índice real)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -1005,7 +1005,7 @@
     },
     {
       "chave": "168.º",
-      "epigrafe": "(Anotação da anexação e desanexação no verbete)",
+      "epigrafe": "(Anotação da anexação e desanexação no índice real)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -1143,7 +1143,7 @@
     },
     {
       "chave": "191.º",
-      "epigrafe": "(Anotação no verbete pessoal)",
+      "epigrafe": "(Anotação no índice pessoal)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -1623,7 +1623,7 @@
     },
     {
       "chave": "271.º",
-      "epigrafe": "(Notas de registo)",
+      "epigrafe": "(Certificados de registo)",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -1726,23 +1726,151 @@
     {
       "chave": "288.º",
       "epigrafe": "(Informações que as secções de finanças devem prestar)",
-      "texto": "(Revogado.)\n\nMinistério da Justiça, 28 de Março de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.\n\nTABELA DOS EMOLUMENTOS DO REGISTO PREDIAL\n\n###### ARTIGO 1.º\n\n(Revogado.)\n\n###### ARTIGO 2.º\n\n(Revogado.)\n\n###### ARTIGO 3.º\n\n(Revogado.)\n\n###### ARTIGO 4.º\n\n(Revogado.)\n\n###### ARTIGO 5.º\n\n(Revogado.)\n\n###### ARTIGO 6.º\n\n(Revogado.)\n\n###### ARTIGO 7.º\n\n(Revogado.)\n\n###### ARTIGO 8.º\n\n(Revogado.)\n\n###### ARTIGO 9.º\n\n(Revogado.)\n\n###### ARTIGO 10.º\n\n(Revogado.)\n\n###### ARTIGO 11.º\n\n(Revogado.)\n\n###### ARTIGO 12.º\n\n(Revogado.)\n\n###### ARTIGO 13.º\n\n(Revogado.)\n\n###### ARTIGO 14.º\n\n(Revogado.)\n\n###### ARTIGO 15.º\n\n(Revogado.)\n\n###### ARTIGO 16.º\n\n(Revogado.)\n\n###### ARTIGO 17.º\n\n(Revogado.)\n\n###### ARTIGO 18.º\n\n(Revogado.)\n\n###### ARTIGO 19.º\n\n(Revogado.)\n\n###### ARTIGO 20.º\n\n(Revogado.)\n\n###### ARTIGO 21.º\n\n(Revogado.)\n\nMinistério da Justiça, 28 de Março de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ARTIGO 21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
       "alterador": 3
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "O texto da nova Tabela de Emolumentos do Registo Predial anexa ao Decreto-Lei n.º 31/78 (que pelo artigo 1.º substitui a tabela) e as novas redacções dos artigos 10.º, 12.º e 19.º da tabela dadas pelo artigo 3.º do Decreto-Lei n.º 49053 não se transcrevem: a tabela, anexa ao Código, fica revogada com ele pelo artigo 9.º do Decreto-Lei n.º 224/84 («os Códigos aprovados pelo Decreto-Lei n.º 47611 … com as subsequentes alterações»), e por isso os 21 artigos da tabela do texto atual vão como «(Revogado.)» dentro do corpo do artigo 288.º, onde a tabela vem no texto atual (não têm chave própria). As alterações do Decreto-Lei n.º 49053 aos artigos do Código ficam sem efeito visível porque todos os artigos são revogados; só as epígrafes novas que ele dá (34.º, 45.º, 46.º, 47.º, 48.º, 52.º, 152.º, 168.º, 191.º, 271.º) ficam aplicadas. Os artigos 2.º e 4.º do Decreto-Lei n.º 49053 e 2.º e 3.º do Decreto-Lei n.º 31/78 são normas próprias e não alteram o original; as outras tabelas do Decreto-Lei n.º 31/78 (registo civil, comercial, automóveis, notariado) não são do original.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 49053, art. 1.º: nova redacção dos artigos 29.º, 34.º, 38.º, 45.º, 46.º, 47.º, 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º — substituída pela revogação de todo o Código (DL 224/84); ficam as epígrafes novas dos artigos 34.º, 45.º, 48.º, 52.º, 152.º, 168.º, 191.º e 271.º, e as dos 46.º e 47.º, que passam a ser os actuais 47.º e 48.º.",
-    "DL 49053, art. 3.º: nova redacção dos artigos 10.º, 12.º e 19.º da tabela de emolumentos — sem efeito final (tabela substituída pelo DL 31/78 e revogada com o Código pelo DL 224/84).",
-    "DL 49053, art. 5.º: revogado o artigo 284.º — aplicado (fica também revogado pelo DL 224/84).",
-    "DL 31/78, art. 1.º: a Tabela de Emolumentos do Registo Predial é substituída pela tabela anexa a esse diploma — sem efeito final no texto do original, porque a tabela anexa ao Código fica revogada pelo DL 224/84 (ver nao_aplicavel).",
-    "DL 224/84, art. 9.º: revogado o Código aprovado pelo DL 47611, com as subsequentes alterações — aplicado: artigos 1.º a 288.º com o corpo «(Revogado.)», um elemento por artigo; no corpo do 288.º mantêm-se as assinaturas e o título da tabela, e os 21 artigos da tabela ficam «(Revogado.)». Reparo do verificador (artigos da tabela omitidos em vez de revogados) confirmado e corrigido; os títulos de divisão ficam, porque nenhuma instrução os elimina."
+    "Alterador 1 (DL 49053), art. 1.º: nova redação dos arts. 29.º, 34.º, 38.º, 45.º-48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º: aplicada em sequência, mas todos os artigos ficam revogados pelo Alterador 3, pelo que a redação final é (Revogado.).",
+    "Alterador 1 (DL 49053), art. 5.º: revoga o art. 284.º: fica (Revogado.), tal como os restantes, pelo Alterador 3.",
+    "Alterador 1 (DL 49053), art. 3.º: nova redação dos arts. 10.º, 12.º e 19.º da tabela de emolumentos anexa: aplicada à tabela (ARTIGO 10.º, 12.º e 19.º) e depois revogada com o Código; redação final (Revogado.).",
+    "Alterador 2 (DL 31/78), art. 1.º: substituição da tabela de emolumentos do registo predial pela tabela anexa ao DL 31/78: aplicada à tabela anexa ao Código (ARTIGO 1.º a 21.º), revogada depois com o Código pelo Alterador 3; redação final (Revogado.).",
+    "Alterador 3 (DL 224/84), art. 9.º: revoga o Código aprovado pelo DL 47611 por inteiro (entrada em vigor do novo Código já ocorreu): todos os artigos 1.º a 288.º e todos os artigos da tabela anexa (ARTIGO 1.º a 21.º) ficam com o corpo (Revogado.), mantida a epígrafe do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

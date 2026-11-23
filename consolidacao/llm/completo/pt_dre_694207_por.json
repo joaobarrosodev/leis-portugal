@@ -5,7 +5,7 @@
       "chave": "5.º",
       "epigrafe": "Órgãos",
       "texto": "São órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)",
-      "alterador": 2
+      "alterador": 3
     },
     {
       "chave": "6.º",
@@ -17,39 +17,76 @@
       "chave": "8.º",
       "epigrafe": "Conselho consultivo",
       "texto": "(Revogado.)",
-      "alterador": 2
+      "alterador": 3
     },
     {
       "chave": "9.º",
       "epigrafe": "Competências do conselho consultivo",
       "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Interdições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Actos e actividades sujeitos a autorização",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Caça",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Autorizações",
+      "texto": "(Revogado.)",
       "alterador": 2
     }
   ],
   "removidos": [],
-  "titulos": [],
-  "anexos": [
+  "titulos": [
     {
-      "titulo": "## ANEXO I — Limites da Reserva Natural",
-      "texto": "(Revogado.)",
+      "atual": "## ANEXO I — Limites da Reserva Natural",
+      "novo": "## ANEXO I — Limites da Reserva Natural do Paul do Boquilobo",
       "alterador": 1
     },
     {
-      "titulo": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)",
-      "texto": "(Revogado.)",
+      "atual": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)",
+      "novo": "## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25702572.pdf)",
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Decreto Regulamentar n.º 2/2005, art. 2.º: os novos limites (textos e carta simplificada) constam dos anexos I e II do próprio Decreto Regulamentar n.º 2/2005 («ao presente diploma e que dele fazem parte integrante»), não de uma nova redação dos anexos do original; nenhuma instrução dá esse texto ao original, pelo que os anexos I e II do original ficam só revogados (art. 3.º) e o artigo 2.º do original não muda de texto. O anexo II novo só existe em imagem. Decreto-Lei n.º 78/2015, art. 2.º, altera o Decreto-Lei n.º 135/2012, não o original.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Limites da Reserva Natural",
+      "texto": "Norte: desde o caminho de ferro da linha do Norte no local denominado «Canto da Linha», na Velada, para este ao longo da estrema da propriedade da Quinta do Paul do Boquilobo com a Quinta de Caniços, uma linha recta até ao ponto em que intersecta a vala das Hortas; a referida vala pela margem esquerda até à ponte do mesmo nome; o caminho municipal n.º 1177 para este, pelo lado direito, cruzando a ponte do Paul sobre o rio Almonda, até ao ponto em que se começa a juntar à vala do Canto do Rolão.\n\nEste: deste ponto para sul ao longo da margem esquerda da vala do Canto do Rolão até à sua junção com a vala dos Dezoito; a margem direita da vala dos Dezoito para montante até à foz da vala do Lister; a margem norte da vala do Lister para montante até ao ponto em que se junta ao valado da Estrema; o lado nascente do valado da Estrema para sul até ao ponto da estrema entre os artigos matriciais 23 e 24 da secção F da freguesia da Azinhaga; segue esta estrema até à Estrada do Meio (caminho municipal n.º 1); deste ponto ao longo do lado poente da Estrada do Meio para sul até ao local em que se junta à estrada nacional n.º 365.\n\nSul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até à Quinta da Broa, na margem direita do rio Almonda; o caminho municipal n.º 7, que parte desta Quinta até à estação elevatória de águas; deste ponto o caminho municipal n.º 25, que vai até ao ponto em que parte o caminho rural que se dirige à Quinta de Miranda; segue este caminho, contornando a sudoeste a área edificada da Quinta de Miranda; o prolongamento deste último para noroeste até ao ponto da antiga passagem de nível no caminho de ferro da linha do Norte.\n\nOeste: desde a antiga passagem de nível, o caminho de ferro para norte até ao ponto em que uma estrada do seu lado esquerdo flecte para noroeste; deste ponto ao longo do lado direito da estrada contornando a mata ripícola, até ao ponto em que a estrada se inicia paralela ao caminho de ferro; deste local o caminho de ferro para norte até ao Aqueduto do Canto dos Finados; ao longo do caminho que parte do dito Aqueduto, em direcção a norte até à intersecção deste com a linha de água da vertente sul do vale da Negra; ao longo desta para montante, pela sua margem esquerda; seguindo para nordeste, até à intersecção desta com o primeiro caminho que atravessa o vale da Negra; pelo dito caminho orientado a 64º (E. N. E.), cruzando a linha de água da vertente norte do vale da Negra; deste ponto até ao local da Fonte da Graça; deste ponto pelo limite que divide o olival e a mata na vertente norte do vale da Negra até ao local em que vai encontrar o caminho de ferro a norte do pontão do vale da Negra; deste local ao longo do lado nascente do caminho de ferro até ao ponto denominado «Canto da Linha», na Velada.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DR 2/2005, art. 1.º, artigo 3.º: nova redação do corpo e alíneas a) a e); o artigo já tem essa redação no texto atual (programa aplicou bem) e não muda.",
-    "DR 2/2005, art. 1.º, artigo 6.º: n.º 1 mantém-se («1 ...»); n.os 2 e 3 novos; n.os 4 a 6 passam a ser os anteriores n.os 5 a 7; a nova redação acaba no n.º 6, pelo que os antigos n.os 4 e 8 deixam de constar.",
-    "DR 2/2005, art. 1.º, artigo 8.º: novas alíneas f) e h) e renumeração; prejudicada pela revogação do artigo 8.º pelo DL 78/2015.",
-    "DR 2/2005, art. 3.º: revogados os anexos I e II do original: corpo «(Revogado.)» em ambos.",
-    "DL 78/2015, art. 3.º, alínea g): revogada a alínea b) do artigo 5.º e os artigos 8.º e 9.º."
+    "Alterador 1, art. 1.º: nova redação dos artigos 3.º, 6.º e 8.º; o 3.º já estava correto no texto atual (não devolvido); 6.º reescrito (n.os 2 e 3 novos, antigos 5, 6 e 7 renumerados 4, 5 e 6; o antigo n.º 8, não mantido pela nova redação, desaparece); 8.º reescrito mas depois revogado pelo alterador 3.",
+    "Alterador 1, art. 2.º n.º 2 e 3.º: anexos I e II do original revogados e substituídos pelos do próprio diploma: novo corpo do anexo I e novos títulos dos anexos I e II (planta só em imagem, corpo vazio).",
+    "Alterador 2, art. 21.º: revogados os artigos 10.º, 11.º, 12.º, 13.º e 16.º.",
+    "Alterador 3, art. 3.º g): revogados a alínea b) do artigo 5.º e os artigos 8.º e 9.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 120,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }
