@@ -292,7 +292,6 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-
 ###### Artigo 11.º — Gabinete de Formação
 
 (Revogado.)
@@ -311,7 +310,6 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-
 ###### Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário
 
 (Revogado.)
@@ -326,33 +324,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-###### Artigo 16.º
+###### Artigo 16.º — Divisão de Arquivo
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
-
-##### Divisão de Arquivo
-
-1 - À Divisão de Arquivo compete:
-
-a) Estudar e propor normas tendentes à uniformização da classificação de documentos e respectivos prazos de conservação e destruição;
-
-b) Elaborar um regulamento geral de arquivos corrente e intermédio do ME, a aprovar por despacho do Ministro da Educação;
-
-c) Organizar e manter o Arquivo Histórico, o Arquivo Intermédio e o Arquivo Corrente;
-
-d) (Revogada.)
-
-> Revogado pelo/a [Decreto-Lei n.º 206/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1998-484664), publicado em 1998-07-13, com efeitos a partir de 1998-07-18.
-
-e) (Revogada.)
-
-f) Elaborar e actualizar as tabelas gerais de avaliação, selecção e eliminação de documentos de acordo com a legislação em vigor relativamente aos serviços do ME e ainda aos estabelecimentos dos ensinos básico e secundário, esta última em articulação com os serviços responsáveis pela educação básica e pelo ensino secundário;
-
-g) Organizar bases de dados para os arquivos do ME;
-
-2 - A Divisão de Arquivo dispõe de um sector de registo e tratamento de arquivo.
 
 ###### Artigo 17.º — Centro de Documentação
 
@@ -377,7 +353,6 @@ g) Organizar bases de dados para os arquivos do ME;
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
-
 
 ###### Artigo 20.º — Gabinete de Organização, Gestão e Informática
 
@@ -407,20 +382,17 @@ g) Organizar bases de dados para os arquivos do ME;
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-
 ###### Artigo 24.º
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
 
-
 ###### Artigo 25.º
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.
-
 
 ### CAPÍTULO III — Princípios de gestão
 
