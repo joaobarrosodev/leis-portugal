@@ -681,7 +681,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",), 119: ("pedidos-6",)}
 
 
 def _sufixo() -> str:
