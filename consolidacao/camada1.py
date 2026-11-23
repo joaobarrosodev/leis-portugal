@@ -35,6 +35,7 @@ import sys
 import time
 import traceback
 from collections import Counter
+from functools import lru_cache
 from pathlib import Path
 
 from texto import RAIZ, front_matter
@@ -80,9 +81,74 @@ def categoria(item: dict, resultado: dict | None) -> str:
     return f"{pasta}_juntado"
 
 
+def _estado_atual(path: str) -> str | None:
+    """O `legal_status` do registo no data/ de hoje (depois da regra da vigência inferida da linha 3)."""
+    from texto import front_matter  # noqa: PLC0415
+
+    f = RAIZ / path
+    if not f.exists():
+        return None
+    return (front_matter(f.read_text(encoding="utf-8")).get("legal_status") or None)
+
+
+def onda_2() -> list[dict]:
+    """O resto das linhas 6, 7 e 9 do inventário, para lá dos 214 da onda 1, por ordem de citações por diplomas em
+    vigor. A vigência é a do data/ de hoje: saem os que já não estão em vigor (revogados ou caducados entretanto).
+    Linha 9: os consolidados com alterador posterior à última versão, por quem os consolidou."""
+    ja = {d["id"] for d in _jsonl(CAMADA1 / "onda-1.jsonl")}
+    resultados = _resultados()
+    em_vigor = ("in_force", "partially_in_force")
+    itens, fora = [], Counter()
+    for d in _jsonl(INVENTARIO / "texto-em-vigor-por-fechar.jsonl"):
+        if d["classe"] == "revogado_por_inteiro" or d["id"] in ja:
+            continue
+        estado = _estado_atual(_path_de(d["id"]) or "")
+        if estado not in em_vigor:
+            fora[f"linhas 6 e 7, {estado}"] += 1
+            continue
+        itens.append({"id": d["id"], "titulo": d["titulo"], "tipo": d["tipo"], "estado_dre": d["estado"], "estado_hoje": estado,
+                      "classe": d["classe"], "linha": 6 if d["classe"] == "nao_triado" else 7,
+                      "citado_por_vigentes": d["citado_por_vigentes"], "central": False, "categoria": categoria(d, resultados.get(d["id"]))})
+    for d in _jsonl(INVENTARIO / "consolidados-por-atualizar.jsonl"):
+        if d["id"] in ja:
+            continue
+        if d.get("marca_de_vigencia") == "nao_vigora":
+            fora["linha 9, marca nao_vigora (consolidacao/auditoria/vigencia-revista.jsonl)"] += 1
+            continue
+        estado = _estado_atual(_path_de(d["id"]) or "")
+        if estado not in em_vigor:
+            fora[f"linha 9, {estado}"] += 1
+            continue
+        quem = {"consolidado_leis_portugal": "nosso", "consolidado_dre": "dre"}.get(d["classe"], d["classe"])
+        itens.append({"id": d["id"], "titulo": d["titulo"], "tipo": d["tipo"], "estado_dre": d["estado"], "estado_hoje": estado,
+                      "classe": d["classe"], "linha": 9, "citado_por_vigentes": d["citado_por_vigentes"], "central": False,
+                      "categoria": f"linha_9_{quem}", "consolidado_ate": d.get("consolidado_ate"),
+                      "alteradores_posteriores": d.get("alteradores_posteriores") or []})
+    itens.sort(key=lambda i: (-i["citado_por_vigentes"], i["id"]))
+    for motivo, k in sorted(fora.items()):
+        print(f"fora da onda 2: {k:5d}  {motivo}")
+    return itens
+
+
+@lru_cache(maxsize=1)
+def _paths() -> dict[str, str]:
+    """id → path no data/, pela seleção da escala e, para os outros, pelo índice do export."""
+    paths = {r["id"]: r["path"] for r in _jsonl(SELECAO_ESCALA)}
+    db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
+    for i, p in db.execute("SELECT id, path FROM documentos"):
+        paths.setdefault(i, p)
+    return paths
+
+
+def _path_de(id_: str) -> str | None:
+    return _paths().get(id_)
+
+
 def onda(n: int) -> list[dict]:
+    if n == 2:
+        return onda_2()
     if n != 1:
-        raise SystemExit("só a onda 1 está definida")
+        raise SystemExit("só as ondas 1 e 2 estão definidas")
     centrais = {c["id"] for c in _jsonl(INVENTARIO / "diplomas-centrais.jsonl") if c.get("texto") in ("nao_triado", "alteracao_por_aplicar")}
     resultados = _resultados()
     itens = []
