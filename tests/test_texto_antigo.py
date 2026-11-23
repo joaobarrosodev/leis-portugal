@@ -242,3 +242,52 @@ def test_repor_prefixo_nao_mexe_sem_prova():
     assert repor_prefixo("Art. 2.º-A - X.", "2.º - (Revogado.)") == "2.º - (Revogado.)"
     assert repor_prefixo("Art. 2.º - X.", "Art. 2.º - (Revogado.)") == "Art. 2.º - (Revogado.)"  # já tem
     assert repor_prefixo("Art. 2.º - X.", "Nova redação.") == "Nova redação."
+
+
+_ESTATUTO_ORIGINAL = """###### Artigo 1.º — Objeto
+
+O presente decreto-lei altera o Estatuto.
+
+###### Artigo 10.º — Transição
+
+Texto de transição antigo, que fica até a lei o mudar diretamente.
+
+# ANEXO
+
+###### Artigo 6.º — Funções
+
+Os professores catedráticos exercem as funções que lhes cabem nos termos antigos do estatuto.
+"""
+
+
+def _alterador_do_estatuto():
+    return [{"titulo": "Lei n.º 8/2010", "texto": (
+        "Os artigos 6.º e 19.º do Estatuto da Carreira, com a redacção dada pelo [Decreto-Lei n.º 205/2009](https://x), "
+        "de 31 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n"
+        "Os professores catedráticos exercem as funções que a lei nova lhes atribui expressamente.»\n\n"
+        "Os artigos 10.º do [Decreto-Lei n.º 205/2009](https://x), de 31 de Agosto, passam a ter a seguinte redacção:\n\n"
+        "«Artigo 10.º\n\nTexto de transição novo, dado pela lei ao próprio decreto-lei.»")}]
+
+
+def test_outro_diploma_marca_a_alteracao_ao_anexo_republicado():
+    from texto_antigo import outro_diploma
+
+    consolidado = _ESTATUTO_ORIGINAL.replace(
+        "Os professores catedráticos exercem as funções que lhes cabem nos termos antigos do estatuto.",
+        "Os professores catedráticos exercem as funções que a lei nova lhes atribui expressamente.").replace(
+        "Texto de transição antigo, que fica até a lei o mudar diretamente.", "Texto de transição novo, dado pela lei ao próprio decreto-lei.")
+    achados = outro_diploma("Decreto-Lei n.º 205/2009", _alterador_do_estatuto(), _ESTATUTO_ORIGINAL, consolidado)
+    assert [a["artigo"] for a in achados] == ["6.º"]  # o 10.º é do próprio decreto-lei
+
+
+def test_outro_diploma_nao_marca_sem_texto_da_clausula_nem_a_clausula_direta():
+    from texto_antigo import outro_diploma
+
+    # só o 10.º mudou, pela cláusula que visa o próprio diploma
+    so_o_proprio = _ESTATUTO_ORIGINAL.replace(
+        "Texto de transição antigo, que fica até a lei o mudar diretamente.", "Texto de transição novo, dado pela lei ao próprio decreto-lei.")
+    assert outro_diploma("Decreto-Lei n.º 205/2009", _alterador_do_estatuto(), _ESTATUTO_ORIGINAL, so_o_proprio) == []
+    # o 6.º mudou, mas por outra razão (revogado noutro sítio): não tem o texto da cláusula
+    revogado = _ESTATUTO_ORIGINAL.replace(
+        "Os professores catedráticos exercem as funções que lhes cabem nos termos antigos do estatuto.", "(Revogado.)")
+    assert outro_diploma("Decreto-Lei n.º 205/2009", _alterador_do_estatuto(), _ESTATUTO_ORIGINAL, revogado) == []

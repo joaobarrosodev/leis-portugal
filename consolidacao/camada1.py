@@ -914,6 +914,9 @@ def estado() -> int:
     for f in sorted((PASTA / "verificacao").glob(f"entrada-piloto-{RONDA}-lote-*.jsonl")):
         for d in _jsonl(f):
             achados = texto_antigo.marcados(d.get("texto_original", ""), d.get("texto_consolidado", ""))
+            # ronda 120 (DL 205/2009): instrução que visa outro diploma («…do Estatuto, com a redacção dada pelo …»)
+            outro = texto_antigo.outro_diploma(d.get("titulo", ""), d.get("alteradores") or [], d.get("texto_original", ""), d.get("texto_consolidado", ""))
+            achados += [{"artigo": a["artigo"], "exemplo": "instrução que visa outro diploma: " + a["clausula"]} for a in outro]
             if achados:
                 mecanica[d["id"]] = achados
     linhas = []
@@ -938,8 +941,10 @@ def estado() -> int:
                 e |= {"estado": "recusado_as_cegas", "motivo": _resumo_cegas(linhas_r), "prova": f"verificacao/saida-piloto-{RONDA}-lote-*.jsonl"}
             elif i in mecanica:
                 e |= {"estado": "recusado_na_verificacao_mecanica",
-                      "motivo": "passou às cegas, mas o texto antigo ficou a seguir à nova redação ou a «(Revogado.)»: "
-                      + "; ".join(f"art. {a['artigo']} («{a['exemplo'][:80]}»)" for a in mecanica[i])[:600],
+                      "motivo": ("passou às cegas, mas a barreira mecânica marcou: " if any(a["exemplo"].startswith("instrução que visa outro diploma")
+                                                                                         for a in mecanica[i])
+                                 else "passou às cegas, mas o texto antigo ficou a seguir à nova redação ou a «(Revogado.)»: ")
+                      + "; ".join(f"art. {a['artigo']} («{a['exemplo'][:120]}»)" for a in mecanica[i])[:600],
                       "prova": "consolidacao/texto_antigo.py sobre verificacao/entrada-piloto-*.jsonl"}
             elif i not in segunda:
                 e |= {"estado": "por_ver", "motivo": "passou às cegas; falta a segunda leitura"}
@@ -978,7 +983,9 @@ def estado() -> int:
             e |= {"estado": "por_ver", "motivo": "sem resultado nesta onda"}
         if anteriores:
             e["ronda"] = RONDA
-            e["estado_ronda_anterior"] = anteriores[i]["estado"]
+            # o estado de antes desta ronda: ao recalcular a mesma ronda, fica o que já estava
+            mesma = anteriores[i].get("ronda") == RONDA and "estado_ronda_anterior" in anteriores[i]
+            e["estado_ronda_anterior"] = anteriores[i]["estado_ronda_anterior"] if mesma else anteriores[i]["estado"]
         linhas.append(e)
     ESTADO.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
     print(f"{len(linhas)} diplomas em {ESTADO.relative_to(RAIZ)}")

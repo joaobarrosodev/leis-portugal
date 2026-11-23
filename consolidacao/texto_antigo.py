@@ -49,6 +49,78 @@ def repor_prefixo(antes: str, novo: str) -> str:
     return f"{p.group(1)} {novo}" if p else novo
 
 
+_CLAUSULA = re.compile(r"(passa(?:m)? a ter a seguinte redac?ção|(?:É|São) aditad[oa]s?|(?:É|São) revogad[oa]s?|(?:É|São) eliminad[oa]s?)", re.I)
+_SO_PELA_REDACAO = re.compile(
+    r"(?:redac?ção dada pel[oa]s?|alterad[oa]s? pel[oa]s?|na redac?ção d[oa]s?|republicad[oa]s? pel[oa]s?)"
+    r"\s*\[?[^\[\],;.]{0,40}n\.º\s*$", re.I)
+_NUMEROS = re.compile(r"\b(\d+)\.º(?:-([A-Z]))?")
+
+
+def _numero_do_titulo(titulo: str) -> str | None:
+    m = re.search(r"n\.º\s*([0-9][0-9A-Za-z./-]*)", titulo)
+    return m.group(1) if m else (re.search(r"\b(\d{3,})\b", titulo) or [None, None])[1]
+
+
+def _ocorrencias(texto: str) -> dict[str, list[str]]:
+    """Como `artigos`, mas com todas as ocorrências de cada chave (o diploma e o anexo republicado)."""
+    resultado: dict[str, list[str]] = {}
+    atual, linhas = None, []
+    for linha in texto.split("\n") + ["###### Artigo 0.º"]:
+        m = TITULO.match(linha)
+        if m:
+            if atual:
+                resultado.setdefault(atual, []).append("\n".join(linhas).strip())
+            atual, linhas = _chave(m.group(1)), []
+        elif atual:
+            linhas.append(linha)
+    return resultado
+
+
+def outro_diploma(titulo: str, alteradores: list[dict], original: str, consolidado: str) -> list[dict]:
+    """Barreira mecânica (ronda 120, DL 205/2009): uma instrução de um alterador que visa outro diploma, e não o
+    original, aplicada ao original. O caso típico é o diploma que altera e republica um estatuto em anexo: «Os
+    artigos 6.º e 19.º do Estatuto…, com a redacção dada pelo Decreto-Lei n.º 205/2009, passam a ter…» muda o
+    estatuto, não o decreto-lei. Uma cláusula de alteração em que o número do original só aparece depois de «com a
+    redacção dada pelo», «alterado pelo», «na redacção do» ou «republicado pelo» visa outro diploma. O diploma fica
+    marcado quando o consolidado mudou um artigo com um número dessa cláusula e esse número não vem também de uma
+    cláusula que vise o próprio original. Devolve um item por artigo marcado, com a cláusula."""
+    numero = _numero_do_titulo(titulo)
+    if not numero:
+        return []
+    proprio, alheio = set(), {}
+    for a in alteradores:
+        texto = a.get("texto") or ""
+        for m_p in re.finditer(r"[^\n]+", texto):
+            paragrafo = m_p.group(0)
+            m = _CLAUSULA.search(paragrafo)
+            if not m or numero not in paragrafo[: m.start()]:
+                continue
+            antes = paragrafo[: m.start()]
+            citacoes = [c.start() for c in re.finditer(re.escape(numero) + r"(?![0-9])", antes)]
+            numeros = {n + ".º" + (f"-{l}" if l else "") for n, l in _NUMEROS.findall(antes)}
+            if all(_SO_PELA_REDACAO.search(antes[max(0, c - 120):c]) for c in citacoes):
+                # a redação que a cláusula dá: o texto do alterador a seguir, até à cláusula seguinte
+                resto = texto[m_p.end():]
+                seguinte = _CLAUSULA.search(resto)
+                redacao = resto[: seguinte.start() if seguinte else 20_000]
+                for n in numeros:
+                    alheio.setdefault(n, (paragrafo.strip()[:300], redacao))
+            else:
+                proprio |= numeros
+    if not alheio:
+        return []
+    o, c = _ocorrencias(original), _ocorrencias(consolidado)
+    achados = []
+    for n, (clausula, redacao) in alheio.items():
+        if n in proprio:
+            continue
+        mudados = [y for x, y in zip(o.get(n, []), c.get(n, [])) if x != y] + c.get(n, [])[len(o.get(n, [])):]
+        # só conta se o artigo mudado tem um parágrafo copiado da redação da cláusula (a instrução foi aplicada aqui)
+        if any(len(par) >= 40 and par in redacao for y in mudados for par in (q.strip() for q in y.split("\n\n"))):
+            achados.append({"artigo": n, "clausula": clausula})
+    return achados
+
+
 def _chave(numero: str) -> str:
     return re.sub(r"\s", "", numero).rstrip(".").replace("°", "º").replace("o", "º")
 

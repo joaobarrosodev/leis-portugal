@@ -522,16 +522,18 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 **Ronda 120** (`pedidos-7`, `verif120`, `nada-120`, `segunda-120`, 23/11/2026): 95 diplomas. Respondedores, verificadores às cegas e a primeira segunda leitura em Sonnet (limite semanal), com os mesmos critérios. Às cegas passaram 34 (36 %, contra 45 % do Opus na 119) e foram recusados 38 (40 %, contra 36 %). Os 19 que a segunda leitura em Sonnet aprovou passaram todos por uma segunda leitura em Opus (`segunda-opus-NN.json`, que o `estado` lê depois e por isso decide). O Opus recusou 4: o DLR 10/87/A (dúvida sobre o n.º 2 do art. 6.º) e três com o mesmo defeito de forma.
 
 - **«N.º - (Revogado.)» sem o «Art.»** do diploma (DLR 24/88/A, DL 48546, DL 414/73). O exemplo do `REGRAS.md` do `llm_corrido.py` dizia «3.º - (Revogado.)». Agora diz que o título fica com o prefixo do texto atual, e `texto_antigo.repor_prefixo` repõe-no na junção, copiando-o do texto antigo da mesma unidade (com testes). Os três foram corrigidos assim, sem LLM, passaram a barreira mecânica e uma nova leitura em Opus, e entram. No data/ havia 81 consolidados com a linha «N.º - (Revogado.)», mas todos são portarias e despachos que numeram «1.º - …» sem prefixo: 0 casos a corrigir.
-- A Lei 29/2002 e o DL 205/2009 ficam «aplicar» no estado, mas o `acervo.py` deixa-os de fora (`DE_FORA`). A Lei 29/2002 fica igual ao original. No DL 205/2009, a segunda leitura da ronda 112 viu que a Lei 8/2010 altera o ECDU (DL 448/79), republicado em anexo, e não este diploma: as duas leituras da ronda 120 (Sonnet e Opus) deixaram passar isto.
+- A Lei 29/2002 fica «aplicar» no estado, mas o `acervo.py` deixa-a de fora (`DE_FORA`): fica igual ao original.
+- **Limite conhecido das leituras: a alteração ao anexo republicado confundida com uma alteração ao próprio diploma.** O DL 205/2009 altera e republica em anexo o Estatuto da Carreira Docente Universitária (DL 448/79). A Lei 8/2010 diz «Os artigos 6.º, 19.º, 25.º, 74.º-A e 76.º do Estatuto…, com a redacção dada pelo Decreto-Lei n.º 205/2009, passam a ter…»: muda o Estatuto, não o decreto-lei (só os arts. 10.º e 11.º são do próprio DL 205/2009). A resposta aplicou-a ao Estatuto em anexo. A verificação às cegas e as duas segundas leituras da ronda 120, a Sonnet e a Opus, aprovaram-no; só a lista `DE_FORA` do `acervo.py` (da segunda leitura da ronda 112) o deixou de fora. Agora há uma barreira mecânica para isto (`texto_antigo.outro_diploma`, no `estado`, com testes). Uma cláusula de alteração em que o número do original só aparece depois de «com a redacção dada pelo», «alterado pelo», «na redacção do» ou «republicado pelo» visa outro diploma. O diploma fica `recusado_na_verificacao_mecanica` quando o consolidado mudou um artigo com um número dessa cláusula, esse artigo tem um parágrafo copiado da redação que a cláusula dá, e o número não vem também de uma cláusula que vise o próprio original. Em todas as entradas às cegas, desde a primeira ronda, só marca o DL 205/2009 (rondas 112 e 120). Sem a exigência do parágrafo copiado, marcava também o DL 504/99, em que o art. 10.º foi revogado por outro alterador.
 - Vigência, pela segunda leitura: o DL 49402 em `reports/vigencia-manual.jsonl` (a Lei 2/74 extinguiu a Assembleia Nacional e a Câmara Corporativa); o DLR 41/2002/A («nao_vigora», orçamento de 2003), o DL 221/95 e a Lei 112/91 («por_confirmar») em `vigencia.CAMADA1_120`.
 
 | Estado da ronda 120 (95 diplomas) | Diplomas |
 |---|---:|
 | recusado_as_cegas | 38 |
-| aplicar (16 para o data/) | 18 |
+| aplicar (16 no data/, `924fcad433f`; a Lei 29/2002 fica igual ao original) | 17 |
 | recusado_na_segunda_leitura | 16 |
 | sem_alteracao_aplicavel | 14 |
 | resposta_recusada | 9 |
+| recusado_na_verificacao_mecanica (DL 205/2009) | 1 |
 
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
