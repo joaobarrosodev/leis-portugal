@@ -457,6 +457,43 @@ _NUMERACAO_LARGA = re.compile(r"^(?:§\s*(?:\d+\s*\.?\s*[º°o]|[úu]nico)|Art(?
 _REVOGADO_LARGO = re.compile(r"^\(?Revogad[oa]s?\.?\)?\.?$", re.I)
 
 
+def troca_de_expressao(par: str, base: list[str], alteradores: list[str], maximo: int = 15) -> bool:
+    """O parágrafo é um parágrafo da base (texto atual ou original) com uma expressão trocada por outra, e o
+    mesmo alterador traz as duas expressões letra a letra: «onde se lê … deve ler-se …», «a expressão … é
+    substituída por …», «os prazos até 30 de Abril … passam para 30 de Junho». Todos os textos já vêm planos
+    (`_plano`). As diferenças ficam numa só zona de até `maximo` palavras; essa zona, com o contexto que for
+    preciso para ter pelo menos 15 caracteres de cada lado da troca, tem de estar no alterador antes e depois."""
+    import difflib  # noqa: PLC0415
+
+    p = par.split()
+    if len(p) < 4:
+        return False
+    for q_texto in base:
+        q = q_texto.split()
+        if not q or abs(len(q) - len(p)) > maximo:
+            continue
+        m = difflib.SequenceMatcher(None, q, p, autojunk=False)
+        if m.real_quick_ratio() < 0.6 or m.quick_ratio() < 0.6:
+            continue
+        ops = [o for o in m.get_opcodes() if o[0] != "equal"]
+        if not ops:
+            continue
+        i1, i2, j1, j2 = ops[0][1], ops[-1][2], ops[0][3], ops[-1][4]
+        if max(i2 - i1, j2 - j1) > maximo:
+            continue
+        for esq in range(0, 5):
+            for dir_ in range(0, 5):
+                if i1 - esq < 0 or j1 - esq < 0 or i2 + dir_ > len(q) or j2 + dir_ > len(p):
+                    continue
+                antes = " ".join(q[i1 - esq : i2 + dir_])
+                depois = " ".join(p[j1 - esq : j2 + dir_])
+                if len(antes) < 15 or len(depois) < 15:
+                    continue
+                if any(antes in a and depois in a for a in alteradores):
+                    return True
+    return False
+
+
 def _problemas_que_ficam(problemas: list[str], fontes: list[str]) -> tuple[list[str], list[str]]:
     """Separa os problemas «parágrafo que não está no alterador nem no original» que são só numeração
     (o parágrafo, sem «§ N.º» ou «Art. N.º -», está numa fonte, ou é uma revogação) dos outros."""
@@ -506,6 +543,9 @@ def importar(pastas: list[str]) -> int:
         from verificar import _plano  # noqa: PLC0415
         fontes = [_plano(x) for x in atuais] + [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
         fontes.append(_plano(lc.publicado(RAIZ / selecao[i]["path"])))
+        alts = [_plano(lc.texto_do_alterador(RAIZ / a["path"])) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lc._alteradores_da_selecao(selecao[i]) if a.get("path")]
+        base = [_plano(x) for t in atuais + [lc.publicado(RAIZ / selecao[i]["path"])] + textos_alts for x in t.split("\n\n") if x.strip()]
         inteiros = {}
         for artigo in resposta.get("artigos") or []:
             for par in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):
@@ -520,6 +560,8 @@ def importar(pastas: list[str]) -> int:
             plano = _plano(resto)
             if _REVOGADO_LARGO.match(resto) or (len(plano) >= 20 and any(plano in f for f in fontes)):
                 aceites.append(prob)
+            elif troca_de_expressao(_plano(par), base, alts):
+                aceites.append(prob + " (troca de expressão do alterador)")
             else:
                 ficam.append(prob)
         resposta["problemas"] = ficam
@@ -534,15 +576,28 @@ def importar(pastas: list[str]) -> int:
     if corridos:
         subprocess.run([sys.executable, str(PASTA / "llm_corrido.py"), "importar", *map(str, corridos)], check=True)
         # No texto corrido, «Art. 10.º - (Revogado.)» é a revogação na forma do diploma: não é texto inventado.
+        # Um parágrafo com uma expressão trocada pelo alterador também não (troca_de_expressao).
+        import llm_corrido as lco  # noqa: PLC0415
+        from verificar import _plano  # noqa: PLC0415
+
         for f in corridos:
             for r in json.loads(f.read_text(encoding="utf-8")):
                 g = PASTA / "llm" / "corrido" / f"{r['id'].replace(':', '_')}.json"
                 d = json.loads(g.read_text(encoding="utf-8"))
+                registo = selecao[r["id"]]
+                base = [_plano(t) for tipo, _, t in lco.itens(lco._registo_base(registo)) if tipo == "u" and t.strip()]
+                textos_alts = [lc.texto_do_alterador(RAIZ / a["path"]) for a in lco._alteradores(registo) if a.get("path")]
+                alts = [_plano(t) for t in textos_alts]
+                base += [_plano(x) for t in textos_alts for x in t.split("\n\n") if x.strip()]
+                novos = [p.strip() for s in (d.get("substituicoes") or []) + (d.get("insercoes") or []) for p in (s.get("texto") or "").split("\n\n") if p.strip()]
                 ficam, aceites = [], []
                 for prob in d.get("problemas") or []:
                     m = re.match(r"^.+?: parágrafo que não está no alterador nem no original: (.*)$", prob)
+                    inteiro = next((p for p in novos if m and p.startswith(m.group(1))), None)
                     if m and _REVOGADO_LARGO.match(_NUMERACAO_LARGA.sub("", m.group(1)).strip()):
                         aceites.append(prob)
+                    elif inteiro and troca_de_expressao(_plano(inteiro), base, alts):
+                        aceites.append(prob + " (troca de expressão do alterador)")
                     else:
                         ficam.append(prob)
                 if aceites:

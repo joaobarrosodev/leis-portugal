@@ -1,0 +1,84 @@
+[
+ {
+  "id": "pt:dre:292498:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "Serviços",
+    "texto": "O CNP dispõe dos seguintes serviços:\n\na) Direcção de Serviços Administrativos e de Pessoal;\n\nb) Direcção de Serviços Financeiros e Contabilidade;\n\nc) Direcção de Serviços de Organização, Planeamento e Gestão;\n\nd) Direcção de Serviços de Informática;\n\ne) Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações;\n\nf) Direcção de Serviços de Benefícios Diferidos I;\n\ng) Direcção de Serviços de Benefícios Diferidos II;\n\nh) Direcção de Serviços de Benefícios Diferidos III;\n\ni) Direcção de Serviços de Benefícios Diferidos IV;\n\nj) Divisão de Relações Públicas e Documentação;\n\nl) Direcção de Serviços de Auditoria;\n\nm) Serviços de Tradução.",
+    "alterador": 6
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "Direcção de Serviços Financeiros e Contabilidade",
+    "texto": "A Direcção de Serviços Financeiros e Contabilidade compreende a Divisão de Gestão e Controlo Orçamental, a Divisão de Contabilidade e os Serviços de Tesouraria.",
+    "alterador": 6
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "Divisão de Gestão e Controlo Orçamental",
+    "texto": "Compete à Divisão de Gestão e Controlo Orçamental:\n\na) Proceder à elaboração das propostas de orçamento do CNP, com base nos programas de actividade anuais;\n\nb) Garantir a cobertura orçamental das despesas do CNP, em observância às regras legais;\n\nc) Controlar a execução orçamental do CNP e apresentar ao conselho directivo informações periódicas sobre as disponibilidades financeiras e orçamentais;\n\nd) Elaborar os planos financeiros e verificar a sua execução;\n\ne) Controlar as disponibilidades financeiras do CNP e propor medidas relacionadas com a sua gestão;\n\nf) Controlar os saldos das contas bancárias;\n\ng) Assegurar as ligações com as instituições bancárias;\n\nh) Elaborar e analisar indicadores financeiros.",
+    "alterador": 6
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "Divisão de Contabilidade",
+    "texto": "Compete à Divisão de Contabilidade:\n\na) Proceder ao registo contabilístico da actividade do CNP e à elaboração dos mapas contabilísticos adequados à correcta informação do conselho directivo;\n\nb) Manter actualizado o registo contabilístico do património do CNP;\n\nc) Conferir, processar e liquidar as despesas de funcionamento do CNP e assegurar a sua realização;\n\nd) Elaborar a conta de gerência, o balanço e as demais peças contabilísticas de encerramento de contas, tendo em vista a prestação de contas ao Tribunal de Contas e ao Instituto de Gestão Financeira da Segurança Social;\n\ne) Conferir e justificar os saldos das diversas contas;\n\nf) Proceder à liquidação das prestações a cargo do CNP e assegurar os reembolsos a que houver lugar;\n\ng) Colaborar com outros serviços do CNP, ou de outras instituições, em acções tendentes a controlar processamentos indevidos de prestações;\n\nh) Tratar os vales devolvidos e desencadear as acções consequentes;\n\ni) Promover e controlar a recuperação de débitos, em colaboração com os demais serviços;\n\nj) Emitir certidões de dívida para efeitos judiciais.",
+    "alterador": 6
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "Serviços de Tesouraria",
+    "texto": "Compete aos Serviços de Tesouraria:\n\na) Conferir o movimento diário da Tesouraria;\n\nb) Efectuar os recebimentos e pagamentos;\n\nc) Emitir e expedir os cheques;\n\nd) Analisar e tratar o registo de valores;\n\ne) Controlar o movimento de valores;\n\nf) Elaborar a folha de caixa.",
+    "alterador": 6
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "Direcção de Serviços de Informática",
+    "texto": "A Direcção de Serviços de Informática compreende a Divisão de Análise de Sistemas de Informação, a Divisão de Análise e Desenvolvimento de Aplicações, a Divisão de Apoio e Exploração e a Secção de Apoio Documental.",
+    "alterador": 6
+   },
+   {
+    "chave": "17.º-A",
+    "epigrafe": "Divisão de Análise de Sistemas de Informação",
+    "texto": "Compete à Divisão de Análise de Sistemas de Informação:\n\na) Definir a arquitectura da informação que contemple as necessidades do CNP;\n\nb) Promover a melhoria dos sistemas de informação do CNP, garantindo a sua integração, normalização e coerência, bem como os seus padrões de qualidade;\n\nc) Colaborar nos estudos necessários à adequação dos sistemas de informação aos objectivos do CNP ou do sector da segurança social;\n\nd) Acompanhar a evolução da tecnologia associada aos sistemas de informação.",
+    "alterador": 6
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações",
+    "texto": "A Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.",
+    "alterador": 6
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "Divisão de Assuntos Jurídicos e Contencioso",
+    "texto": "Compete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
+    "alterador": 6
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "Divisão de Auditoria",
+    "texto": "(Revogado.)",
+    "alterador": 6
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+    "texto": "Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)",
+    "alterador": 7
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor de informática principal no quadro de pessoal (anexo I): sem texto (o despacho não traz o quadro alterado)\nAlterador 2, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (o despacho não traz o quadro alterado)\nAlterador 3, criação de um lugar de assessor de informática principal no quadro de pessoal (anexo I): sem texto (o despacho não traz o quadro alterado)\nAlterador 4, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (o despacho não traz o quadro alterado)\nAlterador 5, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (o despacho não traz o quadro alterado)\nAlterador 6, art. 1.º, nova redação do art. 19.º (alíneas a) a f) «...» e alínea g) nova): alvo incerto (o corpo atual do art. 19.º, com o proémio e as alíneas a) a f) que ficam, não está no texto atual, só a epígrafe como título de divisão; sem ele não se pode devolver o artigo inteiro)\nAlterador 8, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (a portaria não traz o quadro alterado)\nAlterador 9, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (a portaria não traz o quadro alterado)\nAlterador 10, criação de um lugar de assessor principal no quadro de pessoal (anexo I): sem texto (a portaria não traz o quadro alterado)",
+  "instrucoes": [
+   "Alteradores 1 a 5, 8 a 10: criam lugares no quadro de pessoal (anexo I, em imagem) sem trazer o quadro; não aplicados.",
+   "Alterador 6, art. 1.º: novas redações dos arts. 2.º (só a alínea l), o resto «...»), 9.º, 10.º, 11.º, 12.º, 17.º, 21.º e 22.º (proémio e epígrafe novos, alíneas a) a f) do texto atual); artigos inteiros, sem o texto antigo. Art. 19.º sem corpo atual: não aplicado.",
+   "Alterador 6, art. 2.º: aditado o art. 17.º-A.",
+   "Alterador 6, art. 4.º: revogado o art. 29.º; corpo «(Revogado.)», epígrafe «Divisão de Auditoria» (vinha como título de divisão a seguir ao artigo), sem o texto antigo.",
+   "Alterador 7: quadro de pessoal (anexo I) alterado de acordo com o quadro anexo em imagem; corpo atual do anexo I mais a imagem do alterador."
+  ]
+ }
+]
