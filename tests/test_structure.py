@@ -1102,6 +1102,9 @@ def test_inferred_exclusion_says_why_a_diploma_stays_unknown():
     assert inferred_exclusion(**base | {"publication_date": "2013-12-31"}) == "anterior_a_2014"
     assert inferred_exclusion(**base | {"temporary": True}) == "temporario_pelo_sumario"
     assert inferred_exclusion(**base | {"limited": True}) == "vigencia_limitada_no_texto"
+    # Publicado mas ainda sem entrar em vigor (DL 183/2026, em vigor a 1/3/2027): fica de fora até essa data.
+    assert inferred_exclusion(**base | {"entry_date": "2027-03-01", "today": "2026-11-23"}) == "ainda_sem_entrada_em_vigor"
+    assert inferred_exclusion(**base | {"entry_date": "2026-11-23", "today": "2026-11-23"}) is None
 
     # Casos da amostra de 2026-11-20 que levaram a alargar a regra do sumário.
     assert temporary_summary("Autoriza o Governo a aprovar o regime jurídico da cibersegurança")

@@ -540,7 +540,8 @@ INFERRED_TYPES = frozenset({"lei", "lei-organica", "lei-constitucional", "decret
 INFERRED_SINCE = "2014-01-01"
 INFERRED_RULE = (
     "Diploma legislativo da 1.ª Série publicado de 2014 em diante, com texto, sem revogação conhecida (nenhuma relação "
-    "«revogado por» no DRE e nenhuma norma revogatória lida no acervo) e sem vigência limitada no sumário ou no texto."
+    "«revogado por» no DRE e nenhuma norma revogatória lida no acervo), sem vigência limitada no sumário ou no texto e "
+    "com a data de entrada em vigor, quando conhecida, já passada."
 )
 # Temporário pelo sumário: orçamentos, autorizações legislativas, regimes excecionais ou transitórios,
 # prorrogações de prazo, medidas para um ano ou um período (biénio, plano anual, «2021-2024»).
@@ -597,10 +598,14 @@ def inferred_exclusion(
     text_quality: str,
     temporary: bool,
     limited: bool,
+    entry_date: str | None = None,
+    today: str | None = None,
 ) -> str | None:
     """Porque é que a regra `INFERRED_RULE` não se aplica a um diploma; `None` quando se aplica.
 
-    `fora_do_universo`: a regra nem se põe (estado conhecido, outro tipo, outra série, sem texto)."""
+    `fora_do_universo`: a regra nem se põe (estado conhecido, outro tipo, outra série, sem texto).
+    `ainda_sem_entrada_em_vigor`: a data de entrada em vigor (`entry_into_force.date`) ainda não chegou;
+    entra na regra no primeiro `structure` depois dessa data."""
     if status != "unknown" or document_type not in INFERRED_TYPES or series != "I" or text_quality != "texto":
         return "fora_do_universo"
     if has_evidence or category != "sem_prova":
@@ -612,6 +617,8 @@ def inferred_exclusion(
         return "temporario_pelo_sumario"
     if limited:
         return "vigencia_limitada_no_texto"
+    if entry_date and today and entry_date > today:
+        return "ainda_sem_entrada_em_vigor"
     return None
 
 

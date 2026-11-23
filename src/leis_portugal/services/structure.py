@@ -489,6 +489,7 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
             status=row["legal_status"], category=proposal.category, has_evidence=bool(proposal.evidence),
             document_type=row["document_type"], series=row["series"], publication_date=row["publication_date"],
             text_quality=row["text_quality"], temporary=bool(row.get("temporary_summary")), limited=bool(row.get("limited_text")),
+            entry_date=eif.get("date"), today=today,
         )
         if outside is None:
             report.inferred.append({
@@ -1147,6 +1148,7 @@ _INFERRED_LABELS = {
     "anterior_a_2014": "anteriores a 2014",
     "temporario_pelo_sumario": "temporários pelo sumário",
     "vigencia_limitada_no_texto": "com vigência limitada no próprio texto",
+    "ainda_sem_entrada_em_vigor": "com a entrada em vigor ainda por chegar",
     "com_prova_manual_ou_vigencia_revista": "com prova manual ou vigência já revista",
 }
 

@@ -7,7 +7,7 @@ O esquema dos registos é [`schemas/legal_document.schema.json`](schemas/legal_d
 ## 2026-11-20
 
 ### Em vigor por inferência (novo)
-- O DRE deixou de preencher a vigência nos diplomas de 2014 em diante: ficavam `legal_status: unknown`. `leis-portugal structure` passa a dar como `in_force` os diplomas legislativos da 1.ª Série (leis, leis orgânicas e constitucionais, decretos-leis, decretos regulamentares e decretos legislativos regionais) publicados de 2014 em diante, com texto, sem nenhuma prova de revogação ou caducidade (nem parcial) e sem vigência limitada no sumário ou no texto.
+- O DRE deixou de preencher a vigência nos diplomas de 2014 em diante: ficavam `legal_status: unknown`. `leis-portugal structure` passa a dar como `in_force` os diplomas legislativos da 1.ª Série (leis, leis orgânicas e constitucionais, decretos-leis, decretos regulamentares e decretos legislativos regionais) publicados de 2014 em diante, com texto, sem nenhuma prova de revogação ou caducidade (nem parcial), sem vigência limitada no sumário ou no texto e já em vigor (os 5 decretos-leis de 2026 com a entrada em vigor ainda por chegar ficam `unknown` até essa data).
 - **É uma inferência, não uma prova, e fica marcada:** `legal_status_basis.source: sem_revogacao_conhecida`, `inferred: true`, `dre_status: unknown`, a regra em `rule` e `evidence` vazio. Quem só quer o estado que a fonte dá lê `legal_status_basis.dre_status`.
 - Desfaz-se sozinha quando aparece uma revogação, uma caducidade ou um estado do DRE. `leis-portugal structure --sem-vigencia-inferida` devolve todos os inferidos a `unknown`.
 - A lista dos diplomas fica em `reports/vigencia-inferida.jsonl`; a regra, as contagens e a amostra conferida, em `reports/estrutura.md`.
