@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-31'
+version_history:
+  file: decreto-legislativo-regional-7-93-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-31'
+    amending: pt:dre:566790:por
+    amending_title: Declaração de Rectificação n.º 149/93
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/7/1993/06/25/m/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 149/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1993/decreto-legislativo-regional-7-93-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -268,11 +283,13 @@ e) Pessoal operário semiqualificado.
 
 4 - Os funcionários providos na carreira de auxiliar de acção educativa do quadro provisório de pessoal da Escola Superior de Educação da Madeira, a exercerem funções de encarregado de pessoal em regime de substituição, são reclassificados, na carreira de encarregado de pessoal auxiliar do quadro provisório de pessoal da Universidade da Madeira.
 
-5 - Os funcionários e agentes providos nas categorias de cozinheiro e de ajudante de cozinha, abrangidos pelo regime jurídico do pessoal não docente dos estabelecimentos de ensino não superior da Região Autónoma da Madeira e constantes do quadro provisório de pessoal da Escola Superior de Educação da Madeira, são reclassificados respectivamente para as categorias de cozinheiro-chefe e de cozinheiro do quadro provisório de pessoal da Universidade da Madeira.
+5 - Os funcionários e agentes providos nas categorias de cozinheiro e de ajudante de cozinha, abrangidos pelo regime jurídico do pessoal não docente dos estabelecimentos de ensino não superior da Região Autónoma da Madeira e constantes do quadro provisório de pessoal da Escola Superior de Educação da Madeira, são reclassificados respectivamente para as categorias de cozinheiro principal e de cozinheiro do quadro provisório de pessoal da Universidade da Madeira.
 
 6 - Os agentes providos na carreira de auxiliar de manutenção que, à data da publicação do presente diploma, se encontrem na Universidade da Madeira a prestar funções correspondentes ao conteúdo funcional da carreira de auxiliar de acção educativa são reclassificados na carreira de auxiliar de acção educativa do quadro provisório de pessoal da Universidade da Madeira.
 
 7 - As reclassificações referidas nos números anteriores estão sujeitas ao disposto na [Lei n.º 86/89](https://diariodarepublica.pt/dr/detalhe/lei/86-1989-547238), de 8 de Setembro, no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, no [Decreto Regulamentar Regional n.º 15/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1988-373240), de 12 de Julho, e no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, nos casos em que é aplicável, e à demais legislação em vigor.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 149/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/149-1993-566790), publicado em 1993-08-31.
 
 ###### Artigo 7.º — Tempo de serviço
 

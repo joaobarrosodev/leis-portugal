@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-20'
+version_history:
+  file: decreto-lei-221-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-20'
+    amending: pt:dre:168056:por
+    amending_title: Decreto-Lei n.º 214/96; Decreto-Lei n.º 121/97; Decreto-Lei n.º 209/98
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 3.º
+    - Revoga Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/221/1995/09/01/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:39:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 214/96; Decreto-Lei
+    n.º 121/97; Decreto-Lei n.º 209/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-221-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,17 +206,21 @@ c) Técnica, destinada a verificar os conhecimentos do candidato acerca do funci
 
 6 - As regras técnicas relativas às características metodológicas, aos critérios e à duração das provas de exame são objecto de portaria do Ministro da Administração Interna.
 
-###### Artigo 3.º — Exames para obtenção de carta de condução
+###### Artigo 3.º — Exames para obtenção da carta de condução
 
-1 - O exame para as categorias A e B consta de uma prova teórica e de uma prova prática.
+1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.
 
-2 - O exame para as categorias C, D e subcategoria E + B consta de uma prova técnica, de uma prova prática e ainda de uma prova teórica para os candidatos à categoria C que, transitoriamente, sejam admitidos a exame sem estarem habilitados com a categoria B.
+2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.
 
-3 - A admissão a exame às subcategorias E + C e E + D está dependente da prévia habilitação nas categorias C ou D, respectivamente.
+3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.
 
 4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.
 
 5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.
+
+> Alterado pelo/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.
 
 ###### Artigo 4.º — Exames para obtenção de licenças de condução
 
@@ -291,17 +314,21 @@ As provas de exames de condução são realizadas pela DGV, nos termos do [Decre
 
 ###### Artigo 11.º — Fundo de fiscalização
 
-Por cada exame realizado em centro privado de exame, as associações autorizadas nos termos do artigo 2.º do [Decreto-Lei n.º 175/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1991-611319), de 11 de Maio, obrigam-se a fazer reverter para o fundo a que se refere o artigo 3.º do [Decreto-Lei n.º 254/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1992-584257), de 20 de Novembro, importância igual à estabelecida regulamentarmente para cada acto de inspecção de veículo pesado, nos termos do disposto no n.º 2 deste último diploma legal.
+(Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19.
+
+> Revogado pelo/a [Decreto-Lei n.º 209/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), publicado em 1998-07-15.
 
 ### CAPÍTULO IV — Regime sancionatório e disposições transitórias
 
 ###### Artigo 12.º — Sanções
 
-1 - Constituem contra-ordenações, puníveis com coima de:
+1 - Constituem contra-ordenações, sancionadas com coima de:
 
 a) 50000$00 a 300000$00, o não cumprimento, pelos centros de exame, das regras técnicas previstas no n.º 6 do artigo 2.º e seu regulamento e do disposto no artigo 10.º;
 
-b) 200000$00 a 1000000$00, o não cumprimento, pelos centros de exame, dos n.os 3 a 5 do artigo 2.º e a admissão a exame sem respeito pelo artigo 3.º;
+b) 200000$00 a 1000000$00, o não cumprimento, pelos centros de exame, dos n.os 3 a 5 do artigo 2.º, a admissão a exame em desobediência ao artigo 3.º, bem como o não cumprimento no disposto no artigo 11.º;
 
 c) 400000$00 a 2000000$00, o não cumprimento, pelos centros de exame, dos n.os 1 e 2 do artigo 2.º, bem como a violação dolosa do disposto no mesmo artigo.
 
@@ -310,6 +337,8 @@ c) 400000$00 a 2000000$00, o não cumprimento, pelos centros de exame, dos n.os 
 a) Suspensão da actividade do centro de exames de um a seis meses, quando aplicada qualquer das sanções previstas na alínea b) do número anterior ou haja incumprimento meramente culposo na realização das provas previstas no artigo 2.º;
 
 b) Encerramento do centro de exames, quando haja violação dolosa dos n.os 1 e 2 do artigo 2.º.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 121/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012), publicado em 1997-05-19.
 
 ###### Artigo 13.º — Competência e produto das coimas
 

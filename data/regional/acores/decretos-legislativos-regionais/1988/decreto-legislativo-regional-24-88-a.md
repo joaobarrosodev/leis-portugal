@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-11-13'
+version_history:
+  file: decreto-legislativo-regional-24-88-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-11-13'
+    amending: pt:dre:166672:por
+    amending_title: Decreto Legislativo Regional n.º 29/96/A
+    changes:
+    - Altera Artigo unidades 64-65
+    - Altera Artigo unidades 84-85
+    - Altera Artigo unidades 88-88
+    - Altera Artigo unidades 89-91
+    - Altera Artigo unidades 103-103
 identifiers:
   celex: null
   eli: null
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/96/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1988/decreto-legislativo-regional-24-88-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -250,9 +269,13 @@ b) Não existam associações patronais ou sindicais e não seja possível aplic
 
 c) Não sejam designados vogais por alguma das associações patronais ou sindicais nos prazos estabelecidos.
 
-Art. 19.º - 1 - As decisões e deliberações das CCA serão tomadas por maioria, podendo o membro vencido consignar em acta a sua declaração de voto.
+Artigo 19.º
 
-2 - Exceptuam-se do disposto no número anterior os despachos de mero expediente, bem como os casos previstos no artigo anterior, em que o presidente terá voto de qualidade.
+1 - Sem prejuízo do disposto em matéria de arbitragem, as diligências de conciliação exprimem o mútuo consentimento das partes ou o seu dissentimento.
+
+2 - O presidente deve opor-se aos acordos de conciliação que entenda violarem a lei, mediante despacho devidamente fundamentado.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
 ### CAPÍTULO V — Da conciliação e arbitragem dos conflitos individuais de trabalho
 
@@ -290,21 +313,25 @@ Art. 28.º - 1 - As partes deverão comparecer na tentativa de conciliação pes
 
 2 - As pessoas colectivas serão representadas por administrador, gerente, director ou mandatário nos termos do número anterior.
 
-Art. 29.º - 1 - A falta de comparência de qualquer dos interessados à diligência de conciliação faz recair sobre o faltoso a obrigação de pagar à parte que compareceu, se esta o reclamar, as despesas de transporte, perdas de remuneração e outras que comprove ter suportado, sem prejuízo do disposto no artigo 31.º
+Artigo 29.º
 
-2 - Considera-se faltosa a parte que não comparecer ou cujo representante não se apresentar munido de poderes suficientes para conciliar, excepto se este firmar acordo que venha a ser ratificado pelo representado nos cinco dias úteis seguintes.
+1 - A falta de comparência de qualquer dos interessados à diligência de conciliação faz recair sobre o faltoso a obrigação de pagar à parte que compareceu, se esta o reclamar, as despesas de transporte, perdas de remuneração e outras que comprove ter suportado.
+
+2 - Considera-se faltosa a parte que não comparecer ou cujo representante não se apresente munido de poderes suficentes para conciliar, excepto se esse firmar acordo que venha a ser ratificado pelo representado nos cinco dias úteis posteriores à notificação para o efeito.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
 Art. 30.º - 1 - A falta, devidamente comprovada, de qualquer dos interessados por motivos considerados justificados ou atendíveis determinará que seja marcada nova tentativa de conciliação nos quinze dias seguintes, salvo se a razão do adiamento impuser prazo maior, que não será, contudo, superior a 30 dias.
 
 2 - Persistindo o motivo que determinou a falta referida no número anterior, não poderá haver segundo adiamento, pelo que o interessado se deverá fazer representar nos termos do artigo 28.º
 
-3 - Se o requerente faltar injustificadamente, não será designado novo dia para a diligência de conciliação, salvo se aquele o requerer no prazo de quinze dias, findos os quais o processo será arquivado.
+3 - A falta não justificada dos interessados no prazo de cinco dias determina o arquivamento do processo, excepto se neste prazo for requerida nova diligência de conciliação.
 
-Art. 31.º - 1 - À parte que faltar e não justificar a sua falta nos cinco dias úteis seguintes será aplicada a coima de 2500$00 a 5000$00, limites que serão elevados para o dobro em caso de reincidência.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
-2 - Compete à Inspecção Regional do Trabalho a instrução do processo para aplicação da coima prevista neste artigo.
+Art. 31.º - (Revogado.)
 
-3 - O produto da aplicação das coimas previstas neste artigo constitui receita da Região.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
 Art. 32.º - 1 - Havendo conciliação, os termos do acordo celebrado serão reduzidos a escrito e dele serão tirados os exemplares necessários, respectivamente, ao processo, às partes e à instituição de previdência, no caso de a esta serem devidas quaisquer contribuições ou descontos.
 
@@ -328,7 +355,9 @@ Art. 37.º O regulamento de arbitragem previsto no artigo anterior será elabora
 
 ### CAPÍTULO VI — Disposições finais
 
-Art. 38.º a sanção prevista no artigo 31.º será igualmente aplicável à parte que se recusar a fornecer elementos ou informações que lhe sejam solicitados pelo SERCAT com vista ao bom andamento de processos referentes ao exercício das suas atribuições.
+Art. 38.º - (Revogado.)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
 Art. 39.º As despesas com a instalação e o funcionamento do SERCAT serão suportadas por verbas para esse efeito inscritas no orçamento da SRT - Divisão da Direcção Regional do Trabalho.
 

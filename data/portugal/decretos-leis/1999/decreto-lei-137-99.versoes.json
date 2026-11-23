@@ -1,0 +1,626 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534642:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "38d3c8309d511bfa",
+    "38ad4539d9329cfb",
+    "8d7fdfb0bb7a8c70",
+    "21b9dbe56fdb0b6a",
+    "f83d967b5d2a2a4f",
+    "9d25eb363c1f60cb",
+    "8c8af0ff8daf2575",
+    "514e256d95ed4a80",
+    "28d2d28edc8d4c62",
+    "ef2b40e780ed85bf",
+    "9195b7063f880c51",
+    "af07057f1da28931",
+    "23836370ae405d04",
+    "9070f92591378ff9",
+    "cef557c804f75a0d",
+    "56cf9f96fefe892a",
+    "b51d2583e5298bdb",
+    "6d6ef9a1b7deb276",
+    "e65d068c14b31abb",
+    "c3e69c636365d874",
+    "806f4c501c1358c9",
+    "147193602b8580e0",
+    "1ab32801ceb47c80",
+    "b448929ce805dc91",
+    "1a3c1b58707b2434",
+    "caa74b10d880de74",
+    "b66ef7396bb48eee",
+    "bcdeb7741ac56498",
+    "dab2811fcde10782",
+    "418dac83adc9232e",
+    "4d4a1cb0990567b8",
+    "963be8a7b959c9d1",
+    "4e4d097ad16d4a5f",
+    "8ac5ebae0e423c31",
+    "25a51ee84dc9391b",
+    "2adaf5135fefaf51",
+    "6e7154d578c99ff2",
+    "8bfa57c009a872e3",
+    "d848a3779251640c",
+    "829adbbd1db6541a",
+    "0c11920f86a67382",
+    "f8e0921cb1b9cc33",
+    "9d50d1e1154b0844",
+    "c3e6edf489cfade7",
+    "9fd1f0906313b032",
+    "6bc41d10de3b69e6",
+    "be01cfc415d0ed09",
+    "56ff64366e7b0d70",
+    "1b15926b457e60a7",
+    "c7bd5582844dff4b",
+    "169ed9051db6df71",
+    "69250dbe7844f9e8",
+    "993bfc6f99b55f43",
+    "3792306a11814571",
+    "e5931cf921878556",
+    "93f511faccd46168",
+    "3892f2b25a059bd2",
+    "48827b307af4335f"
+   ]
+  },
+  {
+   "date": "1999-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219930:por",
+     "title": "Declaração de Rectificação n.º 10-Q/99",
+     "published": "1999-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-q-1999-219930"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "38d3c8309d511bfa",
+    "38ad4539d9329cfb",
+    "8d7fdfb0bb7a8c70",
+    "21b9dbe56fdb0b6a",
+    "f83d967b5d2a2a4f",
+    "9d25eb363c1f60cb",
+    "8c8af0ff8daf2575",
+    "514e256d95ed4a80",
+    "28d2d28edc8d4c62",
+    "ef2b40e780ed85bf",
+    "9195b7063f880c51",
+    "af07057f1da28931",
+    "23836370ae405d04",
+    "9070f92591378ff9",
+    "cef557c804f75a0d",
+    "56cf9f96fefe892a",
+    "b51d2583e5298bdb",
+    "6d6ef9a1b7deb276",
+    "e65d068c14b31abb",
+    "c3e69c636365d874",
+    "806f4c501c1358c9",
+    "147193602b8580e0",
+    "49ab30bfd4e2a21e",
+    "b448929ce805dc91",
+    "1a3c1b58707b2434",
+    "caa74b10d880de74",
+    "b66ef7396bb48eee",
+    "bcdeb7741ac56498",
+    "dab2811fcde10782",
+    "418dac83adc9232e",
+    "4d4a1cb0990567b8",
+    "963be8a7b959c9d1",
+    "4e4d097ad16d4a5f",
+    "8ac5ebae0e423c31",
+    "25a51ee84dc9391b",
+    "2adaf5135fefaf51",
+    "6e7154d578c99ff2",
+    "8bfa57c009a872e3",
+    "d848a3779251640c",
+    "829adbbd1db6541a",
+    "0c11920f86a67382",
+    "f8e0921cb1b9cc33",
+    "9d50d1e1154b0844",
+    "c3e6edf489cfade7",
+    "9fd1f0906313b032",
+    "6bc41d10de3b69e6",
+    "be01cfc415d0ed09",
+    "56ff64366e7b0d70",
+    "1b15926b457e60a7",
+    "c7bd5582844dff4b",
+    "169ed9051db6df71",
+    "69250dbe7844f9e8",
+    "993bfc6f99b55f43",
+    "3792306a11814571",
+    "e5931cf921878556",
+    "93f511faccd46168",
+    "3892f2b25a059bd2",
+    "48827b307af4335f"
+   ]
+  }
+ ],
+ "fragments": {
+  "38d3c8309d511bfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nA FAPAJAL - Fábrica de Papel do Tojal, S. A., foi constituída em 1973, no âmbito do processo de falência da Graham - Indústria de Papel da Abelheira, S. A. R. L., na sequência de um acordo de credores homologado por sentença judicial.\n\nEm 1975, foram nacionalizados o Banco Pinto & Sotto Mayor, S. A. R. L., a CPC - Companhia Portuguesa de Celulose, S. A. R. L., e a CELTEJO - Celulose do Tejo, S. A. R. L., por força do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, o primeiro, e do [Decreto-Lei n.º 221-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1975-302174), de 9 de Maio, as duas últimas. As referidas empresas detinham participações na FAPAJAL que, em conjunto, perfaziam mais de 50% do respectivo capital social, participações estas que, assim, foram objecto de nacionalização indirecta.\n\nPosteriormente, nos termos do [Despacho Normativo n.º 11/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1978-447896), de 18 de Janeiro, dos Ministros das Finanças, do Plano e Coordenação Económica e da Indústria e Tecnologia, entre outras, todas as participações do sector público na FAPAJAL foram transferidas para a PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., à data com a natureza de empresa pública. Mais tarde a PORTUCEL adquiriu as sociedades por si dominadas - a Companhia do Papel do Prado, S. A., e a SOPAPEL - Sociedade de Pastas e Papéis, Lda. -, as participações por estas detidas na FAPAJAL. Deste modo, a PORTUCEL detém hoje uma participação representativa de cerca de 99% do capital da FAPAJAL.\n\nAprova-se agora a alienação, pela PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., da referida participação. Entendeu-se que a mencionada venda deveria observar o regime estabelecido na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, entendimento este partilhado pela Comissão de Acompanhamento das Reprivatizações, na sequência de outros pareceres antes emitidos em casos análogos.\n\nA reprivatização concretizar-se-á através da venda da totalidade da participação por concurso público. Optou-se por não prever uma oferta de acções da FAPAJAL, em condições especiais, aos respectivos trabalhadores, reservando essa possibilidade, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, para momento posterior, no âmbito de operações de reprivatização do Grupo Portucel já previstas no Programa de Privatizações para o biénio de 1998-1999, aprovado pela [Resolução do Conselho de Ministros n.º 65/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-1997-469202), de 21 de Abril, as quais, no entanto, só serão definidas, e concretizadas, como naquele Programa expressamente se refere, depois de conhecidas as conclusões do estudo de reestruturação sectorial em curso e considerando a evolução dos ciclos conjunturais dos mercados dos principais produtos. Considerou-se ser esta a opção que, observando o disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), melhor tutela os interesses dos trabalhadores.\n\nA participação detida pela PORTUCEL na FAPAJAL nunca poderia ser considerada, por definição, estratégica para o sector da pasta e do papel em Portugal. Nunca se poderia encontrar envolvida, por isso, e por natureza, no âmbito do processo de reestruturação que venha a ser implementado para o sector. A mencionada participação será, deste modo, alienada independentemente da ulterior definição do referido modelo de reestruturação.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "38ad4539d9329cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o processo de reprivatização de cerca de 99% do capital social da FAPAJAL - Fábrica de Papel do Tojal, S. A., adiante designada apenas por FAPAJAL, o qual será regulado pelo presente decreto-lei e pelo caderno de encargos a este anexo."
+  },
+  "8d7fdfb0bb7a8c70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concurso público\n\n1 - O processo de reprivatização realizar-se-á mediante a alienação, por concurso público, de um lote indivisíve1 de 59564 acções da FAPAJAL, representativas de cerca de 99% do respectivo capital social.\n\n2 - O concurso público referido no n.º 1 é aberto a entidades nacionais e estrangeiras, as quais poderão apresentar-se individualmente ou em agrupamento, devendo as propostas de compra ser apresentadas para a totalidade do lote.\n\n3 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., procederá à alienação de acções da FAPAJAL, prevista no n.º 1, de acordo com as regras referidas no artigo 1.º"
+  },
+  "21b9dbe56fdb0b6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Acções indisponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções indisponíveis\n\n1 - As acções correspondentes a 51% do capital social da FAPAJAL, adquiridas no âmbito do concurso público, são, em qualquer circunstância, indisponíveis pelo prazo de um ano contado da data de publicação da resolução do Conselho de Ministros que determine o vencedor do concurso.\n\n2 - Ficarão igualmente sujeitas ao regime de indisponibilidade as acções adquiridas por força de direitos de incorporação ou no exercício de direitos de subscrição inerentes às acções referidas no número anterior.\n\n3 - As acções sujeitas ao regime de indisponibilidade devem ser depositadas, pelos respectivos titulares, numa única conta de depósito.\n\n4 - Se, em caso de aumentos do capital social da FAPAJAL, o disposto no n.º 2 não for suficiente para garantir que acções representativas de 51% do capital social e dos direitos efectivos de voto daquela sociedade fiquem sujeitas ao regime de indisponibilidade, os titulares das acções sujeitas àquele regime obrigam-se a reforçar as contas de depósito por forma que nestas, em qualquer momento, se encontrem depositadas acções representativas daquela percentagem.\n\n5 - Os titulares das acções da FAPAJAL sujeitas ao regime de indisponibilidade obrigam-se a manter, em qualquer circunstância, uma participação representativa de 51% do capital social e dos direitos de voto daquela sociedade."
+  },
+  "f83d967b5d2a2a4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime de indisponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de indisponibilidade\n\n1 - As acções sujeitas ao regime de indisponibilidade não poderão ser oneradas nem ser objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura, designadamente contratos-promessa e contratos de opção.\n\n2 - Não podem ser celebrados negócios pelos quais o titular das acções sujeitas ao regime de indisponibilidade se obrigue a exercer os direitos de voto inerentes às acções em determinado sentido.\n\n3 - Os direitos de voto inerentes às acções sujeitas ao regime de indisponibilidade não podem ser exercidos por interposta pessoa.\n\n4 - Mediante despacho conjunto, os Ministros das Finanças e da Economia, a requerimento dos interessados, poderão autorizar, desde que estejam preenchidas as condições técnicas e financeiras para o efeito e, em qualquer caso, não seja prejudicada a realização dos objectivos da reprivatização:\n\na) A celebração dos negócios previstos nos n.os 1 e 2 entre membros do agrupamento, entre estes e terceiros ou entre o concorrente individual adquirente e terceiros;\n\nb) A redução da percentagem das acções que ficam sujeitas ao regime de indisponibilidade.\n\n5 - O regime de indisponibilidade previsto neste artigo aplica-se às acções adquiridas ao abrigo da autorização prevista na alínea a) do número anterior.\n\n6 - São nulos os negócios celebrados em violação dos números anteriores, ainda que antes de iniciado o período de indisponibilidade.\n\n7 - As nulidades previstas nos números anteriores podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a FAPAJAL."
+  },
+  "9d25eb363c1f60cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações dos cessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos cessionários\n\nTransmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente das acções objecto de alienação no âmbito do concurso, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento."
+  },
+  "8c8af0ff8daf2575": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Mobilização de títulos da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mobilização de títulos da dívida pública\n\n1 - Os titulares originários de títulos da dívida pública decorrentes das nacionalizações e expropriações, no caso de mobilização, ao valor nominal, dos seus títulos de indemnização, nos termos do artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, devem entregar, no momento do pagamento, declaração de conformidade com o disposto naquele preceito legal.\n\n2 - No prazo máximo de 90 dias após a operação, o Ministro das Finanças, através do Instituto de Gestão do Crédito Público, verificará a veracidade das declarações referidas no número anterior e, se apurar o não cumprimento do disposto no artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, considerar-se-á resolvida a venda quanto às acções pagas com tais títulos, salvo se o adquirente proceder à sua imediata liquidação em dinheiro, acrescida de um juro moratório, calculado à taxa de 1,5% ao mês.\n\n3 - O Instituto de Gestão do Crédito Público resgatará à PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., pelo respectivo valor nominal, os títulos referidos no n.º 1."
+  },
+  "514e256d95ed4a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Delegação de competências\n\nPara a realização do processo de reprivatização previsto no presente decreto-lei, são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado do Tesouro e das Finanças, os poderes bastantes para determinar as demais condições acessórias que se afigurem convenientes e para praticar os actos de execução que se revelarem necessários à concretização da operação."
+  },
+  "28d2d28edc8d4c62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Convocação da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Convocação da assembleia geral\n\nNo prazo de 30 dias contados da data de publicação da resolução do Conselho de Ministros que determine o vencedor do concurso público, o conselho de administração da FAPAJAL requererá a convocação da assembleia geral de accionistas para se reunir no prazo mínimo previsto na lei, a fim de serem eleitos os membros dos órgãos sociais."
+  },
+  "ef2b40e780ed85bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Publicidade de participações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Publicidade de participações\n\nNo prazo de 30 dias contados da conclusão do processo de reprivatização, a FAPAJAL publicará, nos termos previstos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas titulares de acções representativas de percentagem igual ou superior a 1% do respectivo capital social, indicando a percentagem do capital correspondente às acções de que cada um dos referidos accionistas seja titular."
+  },
+  "9195b7063f880c51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aprovação do caderno de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aprovação do caderno de encargos\n\nÉ aprovado o caderno de encargos anexo ao presente decreto-lei, do qual faz parte integrante, regulamentando os termos e condições do concurso público referido no artigo 2.º"
+  },
+  "af07057f1da28931": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.\n\nPromulgado em 24 de Março de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nCADERNO DE ENCARGOS"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "9070f92591378ff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto do concurso\n\n1 - O presente caderno de encargos rege o concurso público relativo à alienação de um lote indivisível de 59564 acções da FAPAJAL - Fábrica de Papel do Tojal, S. A., adiante apenas designada por FAPAJAL, representativas de 99,2733% do respectivo capital social.\n\n2 - O concurso público é levado a efeito nos termos dos artigos 6.º e 7.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do decreto-lei que aprova o presente caderno de encargos.\n\n3 - As acções referidas no n.º 1 têm o valor nominal de 1000$00 cada uma e encontram-se na titularidade da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., adiante designada por PORTUCEL.\n\n4 - A alienação deve ser feita a quem demonstre:\n\na) Reconhecida experiência de gestão;\n\nb) Idoneidade e capacidade técnica e financeira adequadas à concretização da operação de privatização, bem como ao desenvolvimento da FAPAJAL."
+  },
+  "cef557c804f75a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime da operação\n\nA operação descrita no artigo anterior será contratada, em bloco, com o concorrente individual vencedor ou com o conjunto das entidades que integrem o agrupamento vencedor, neste caso na proporção das acções que cada um haja declarado pretender adquirir."
+  },
+  "56cf9f96fefe892a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Fases do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fases do concurso\n\n1 - O concurso processa-se nas seguintes fases:\n\na) Entrega, abertura e admissão das propostas;\n\nb) Abertura e admissão das ofertas e determinação do adquirente.\n\n2 - Apenas passam à 2.ª fase os concorrentes admitidos na 1.ª"
+  },
+  "b51d2583e5298bdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concorrentes\n\n1 - O concurso é aberto a entidades nacionais e estrangeiras, que podem concorrer individualmente ou em agrupamento.\n\n2 - Cada concorrente só pode apresentar uma proposta.\n\n3 - Cada entidade não pode integrar mais de um agrupamento concorrente.\n\n4 - Nenhuma entidade pode, em simultâneo, integrar um agrupamento e concorrer individualmente.\n\n5 - Consideram-se como a mesma entidade duas ou mais sociedades que tenham entre si relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n6 - O termo «concorrente» designa, indistintamente, quer o concorrente individual quer o agrupamento concorrente.\n\n7 - As entidades, singulares ou colectivas, que compõem o agrupamento concorrente são pessoal e solidariamente responsáveis pelo cumprimento das obrigações previstas no presente caderno de encargos."
+  },
+  "6d6ef9a1b7deb276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Júri do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Júri do concurso\n\n1 - O concurso é conduzido por um júri, composto pelo inspector-geral de Finanças, que preside, pelo director-geral da Indústria e pelo presidente da Secção Especializada para as Reprivatizações, que podem ser substituídos por quem designarem para o efeito.\n\n2 - Compete ao júri, designadamente, proceder à recepção das propostas à e avaliação destas com vista à elaboração do relatório a submeter a Conselho de Ministros e à respectiva admissão.\n\n3 - Sempre que o julgar conveniente, o júri pode contactar os concorrentes para esclarecer ou pormenorizar aspectos das respectivas propostas que possam oferecer dúvidas, podendo fixar prazos para obtenção dos elementos solicitados.\n\n4 - O júri designa, de entre o pessoal da Inspecção-Geral de Finanças, um secretário, a quem compete, designadamente, lavrar as actas.\n\n5 - O apoio técnico ao júri é prestado pela Inspecção-Geral de Finanças, pela Secção Especializada para as Reprivatizações e pela PORTUCEL.\n\n6 - O júri deve fundamentar em acta as suas deliberações e as mesmas são aprovadas por maioria de votos, não sendo admitida a abstenção.\n\n7 - Nas deliberações em que haja voto de vencido de algum membro do júri, menciona-se em acta essa circunstância, podendo o membro em questão fazer exarar as razões da sua discordância.\n\n8 - Os membros do júri entram em exercício de funções a partir da data da entrada em vigor do decreto-lei que aprova o presente caderno de encargos."
+  },
+  "e65d068c14b31abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preço base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preço base\n\nO preço base das propostas é de 3370$00 por acção."
+  },
+  "c3e69c636365d874": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Documentação à disposição dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentação à disposição dos interessados\n\n1 - Os interessados que o pretendam podem obter gratuitamente junto da PORTUCEL, após a publicação do diploma que aprova o presente caderno de encargos e até cinco dias úteis antes do termo do prazo fixado para a entrega das propostas, um folheto informativo respeitante à FAPAJAL.\n\n2 - Dentro do mesmo prazo, podem os interessados solicitar à PORTUCEL um conjunto de documentação de natureza confidencial, constituído, entre outros, pelos relatórios das instituições que procederam à auditoria e avaliação da FAPAJAL, contra o depósito não remunerado, na conta NIB n.º 0018000000888800172, no Banco Totta & Açores (Agência da Rua do Ouro), à ordem da PORTUCEL, da importância de 2000000$00, a qual lhes será restituída no prazo de três dias úteis subsequentes à admissão das respectivas propostas, incluindo-se nestas as correspondentes ofertas, ou à sua exclusão com fundamento no n.º 4 do artigo 16.º\n\n3 - Os interessados que não apresentem proposta ou os concorrentes que sejam excluídos nos termos dos n.os 3 dos artigos 16.º, 17.º e 18.º perdem o direito ao reembolso do depósito referido no número anterior, o qual reverte a favor da PORTUCEL.\n\n4 - As entidades que, nos termos do n.º 2, tomem conhecimento do teor da documentação aí referida ficam obrigadas a sigilo quanto ao que dela constar."
+  },
+  "806f4c501c1358c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Constituição das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Constituição das propostas\n\n1 - A proposta é constituída por:\n\na) Uma carta redigida nos termos da minuta indicada no anexo I (oferta) deste caderno de encargos, datada e assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 do artigo seguinte ou pelo representante comum do agrupamento;\n\nb) A documentação exigida no n.º 1 do artigo seguinte.\n\n2 - As propostas apresentadas pelos concorrentes não podem conter qualquer cláusula condicionadora da aquisição pretendida.\n\n3 - A apresentação da proposta envolve, para cada concorrente individual ou para cada uma das entidades que integrem um agrupamento, o compromisso de que dispõe dos meios financeiros adequados à concretização da operação."
+  },
+  "147193602b8580e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentos\n\n1 - Os documentos a que se refere a alínea b) do n.º 1 do artigo anterior são os seguintes:\n\na) Um memorando, datado e assinado nos termos da alínea a) do n.º 1 do artigo anterior, descrevendo a estratégia proposta para o desenvolvimento da FAPAJAL;\n\nb) Uma resposta pormenorizada ao questionário que constitui o anexo II deste caderno de encargos, datada e assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 ou pelo representante comum do agrupamento;\n\nc) No caso de pessoas colectivas, ainda que integrando um agrupamento, certificado de existência legal (ou equivalente) do qual conste a composição dos órgãos sociais, exemplar actualizado do contrato de sociedade e indicação dos sócios cuja participação seja igual ou superior a 10%;\n\nd) No caso de pessoas colectivas, ainda que integrando um agrupamento, documentos de prestação de contas (relatório de gestão, balanço, demonstração de resultados, respectivos anexos e certificação legal das contas nos casos legalmente previstos) dos três últimos exercícios findos ou dos exercícios findos desde a constituição, caso esta tenha ocorrido há menos de três anos;\n\ne) No caso de pessoas singulares, ainda que integrando um agrupamento, declaração de rendimentos dos três últimos anos, relação de bens patrimoniais e, eventualmente, outros elementos que comprovem a capacidade financeira adequada para aquisição das acções a que se propõem;\n\nf) No caso de pessoas singulares ou pessoas colectivas, ainda que integrando um agrupamento, certidões comprovativas de que têm a sua situação regularizada perante a Fazenda Nacional e a segurança social;\n\ng) No caso de agrupamento, indicação do número de acções que cada entidade que o constitui se propõe adquirir;\n\nh) Instrumento de mandato, emitido por cada uma das entidades que integrem o agrupamento, designando um representante comum efectivo, bem como um suplente, para efeitos do processo de concurso, conferindo poderes para rever o preço, sendo as assinaturas reconhecidas notarialmente (ou equivalente);\n\ni) Declaração de aceitação sem reservas das condições a que obedece o presente concurso, assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou por cada uma das entidades que integrem o agrupamento;\n\nj) Declaração emitida por cada pessoa colectiva, ainda que integrando um agrupamento, na qual indique se tem ou não relações de simples participação ou relações de participação recíproca, tal como são definidas no n.º 5 do artigo 4.º, com outra entidade também concorrente;\n\nl) No caso de existir, contrato de consórcio ou documento que consubstancie um futuro acordo de accionistas, qualquer que seja a forma jurídica que este possa revestir;\n\nm) Comprovativo da prestação da caução a que se refere o n.º 1 do artigo seguinte;\n\nn) No caso de pessoas singulares ou colectivas, ainda que integrando um agrupamento, indicação das funções exercidas em órgãos sociais de outras sociedades, bem como identificação das sociedades em que detenham uma participação não inferior a 10% do respectivo capital social.\n\n2 - Os concorrentes individuais, pessoas singulares ou colectivas, podem juntar aos documentos referidos no número anterior instrumento de mandato, designando um representante efectivo e um suplente para efeitos do processo do concurso, sendo as assinaturas reconhecidas notarialmente (ou equivalente).\n\n3 - No caso de o concorrente individual, pessoa singular ou colectiva, optar pela entrega do instrumento de mandato indicado no número anterior, os actos relativos ao presente concurso podem ser praticados pelo respectivo mandatário.\n\n4 - Os documentos referidos no n.º 1 devem ser rubricados pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 ou pelo representante comum do agrupamento."
+  },
+  "1ab32801ceb47c80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caução\n\n1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, na importância de 5000000$00, a efectuar mediante transferência bancária para a conta NIB n.º 0018000000888800172, no Banco Totta & Açores (Agência da Rua do Ouro), ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.\n\n2 - Os concorrentes que revoguem as suas propostas perdem, a favor da PORTUCEL, as respectivas cauções.\n\n3 - Sem prejuízo do disposto no número anterior, o concorrente vencedor, bem como o que lhe suceder nos termos do n.º 2 do artigo 21.º, perde a caução, a favor da PORTUCEL, se não proceder, nas condições e prazo fixados neste caderno de encargos, ao pagamento do preço das acções objecto de alienação, e do crédito da PORTUCEL previsto no artigo 27.º\n\n4 - As cauções prestadas pelos concorrentes excluídos nos termos dos n.os 3 e 4 do artigo 16.º, do n.º 3 do artigo 17.º e do n.º 3 do artigo 18.º são liberadas nos cinco dias úteis subsequentes à divulgação, no acto público a que se referem os artigos 14.º e seguintes, da respectiva decisão por parte do júri.\n\n5 - Sem prejuízo do disposto nos n.os 2 e 3, as cauções prestadas pelos outros concorrentes são liberadas nos cinco dias úteis posteriores à entrega do documento comprovativo do pagamento previsto no artigo 26.º"
+  },
+  "b448929ce805dc91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Organização da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização da proposta\n\n1 - A proposta, tal como é definida no artigo 8.º, tem de ser redigida em língua portuguesa, podendo, porém, os documentos referidos nos n.os 1 e 2 do artigo 9.º ser apresentados noutro idioma desde que acompanhados de tradução, devidamente rubricada e assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 do artigo 9.º ou pelo representante comum do agrupamento, entendendo-se, neste caso, que o concorrente aceita a prevalência desta, para todos e quaisquer efeitos, sobre os respectivos originais.\n\n2 - A carta referida na alínea a) do n.º 1 do artigo 8.º é encerrada em sobrescrito opaco, fechado e lacrado, no qual é escrito «Oferta».\n\n3 - A restante documentação é encerrada noutro sobrescrito, também opaco, fechado e lacrado, no qual é escrito «Documentos».\n\n4 - Os sobrescritos referidos nos números anteriores são, por sua vez, encerrados num outro, designado por sobrescrito exterior, também opaco, fechado e lacrado.\n\n5 - Em todos os sobrescritos tem de constar, exteriormente, o objecto do concurso, nos termos seguintes: «Concurso público relativo a alienação das acções da FAPAJAL.»\n\n6 - Nos sobrescritos indicados nos n.os 2 e 3 tem ainda de constar, exteriormente, consoante o caso, o nome do concorrente individual, pessoa singular ou colectiva, ou a designação de todas as entidades que integrem o agrupamento concorrente, bem como o nome do mandatário referido no n.º 2 do artigo 9.º, quando designado, ou do representante comum do agrupamento."
+  },
+  "1a3c1b58707b2434": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Fase de entrega, abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Fase de entrega, abertura e admissão das propostas"
+  },
+  "caa74b10d880de74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Entrega das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Entrega das propostas"
+  },
+  "b66ef7396bb48eee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Entrega das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrega das propostas\n\n1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do 30.º dia útil posterior à entrada em vigor do decreto-lei que aprova o presente caderno de encargos.\n\n2 - Contra a entrega da proposta é passado recibo do qual constam a identificação e a morada da pessoa que a entrega, a data e hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém."
+  },
+  "bcdeb7741ac56498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Esclarecimentos e prorrogação do prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Esclarecimentos e prorrogação do prazo\n\n1 - Qualquer pedido de esclarecimento de ordem processual que os interessados pretendam ver satisfeito, com vista à formulação das respectivas propostas, deve ser apresentado ao júri, por escrito, na morada indicada no n.º 1 do artigo anterior, durante o primeiro terço do prazo fixado para a entrega das mesmas e respondido, por aquele, no terço subsequente do referido prazo.\n\n2 - A falta de prestação, pelo júri, dentro do prazo indicado, do esclarecimento solicitado, nos termos previstos no número anterior, pode justificar a prorrogação, até ao limite de oito dias úteis, do prazo de entrega das propostas, a requerimento do interessado, se o mesmo júri considerar que a dúvida é pertinente e susceptível de afectar a boa compreensão dos termos ou dos documentos do concurso.\n\n3 - Os esclarecimentos prestados são publicados no Boletim de Cotações da Bolsa de Valores de Lisboa e podem ser anunciados por outros meios que o júri considere adequados."
+  },
+  "dab2811fcde10782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Abertura e admissão das propostas"
+  },
+  "418dac83adc9232e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Acto público de abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acto público de abertura e admissão das propostas\n\n1 - O acto público de abertura e admissão das propostas tem lugar na Inspecção-Geral de Finanças, na morada indicada no n.º 1 do artigo 12.º, pelas 10 horas do dia útil seguinte ao termo do prazo fixado para a respectiva entrega.\n\n2 - O acto tem a presença do Procurador-Geral da República ou de um seu representante e a ele pode assistir qualquer interessado.\n\n3 - Apenas podem intervir os concorrentes ou os seus representantes legais, tratando-se de pessoas colectivas, ou os mandatários designados nos termos do n.º 2 do artigo 9.º e os representantes comuns dos agrupamentos.\n\n4 - Para efeitos do número anterior, as pessoas colectivas que se apresentem a concurso individualmente devem indicar, podendo fazê-lo no acto público, um único representante para intervir em seu nome.\n\n5 - Os concorrentes ou os seus representantes podem apresentar, no acto, reclamações contra a admissão de qualquer outro concorrente ou contra a sua própria exclusão, ou da entidade que representam, podendo, para o efeito, examinar, durante o período fixado pelo júri, toda a documentação instrutora das propostas.\n\n6 - Serão exaradas em acta as reclamações formuladas no acto público pelos concorrentes ou seus representantes, bem como as deliberações fundamentadas que se tomem sobre elas.\n\n7 - Em qualquer momento, o presidente do júri pode interromper o acto público ou a sessão privada a que se refere o n.º 1 do artigo 16.º, fixando logo a data da sua continuação, devendo justificar os motivos por que o faz."
+  },
+  "4d4a1cb0990567b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Abertura das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Abertura das propostas\n\n1 - O acto público referido no artigo anterior inicia-se pela abertura de todos os sobrescritos exteriores, mas, dos sobrescritos nestes contidos, apenas são abertos, nesta fase, os relativos a documentos, mantendo-se inviolados os das ofertas.\n\n2 - É feita depois a leitura da lista de concorrentes, elaborada de acordo com a ordem de entrada das propostas.\n\n3 - De seguida, o presidente do júri procede à identificação dos concorrentes e dos seus representantes.\n\n4 - Os sobrescritos relativos às ofertas são encerrados num outro sobrescrito opaco, fechado e lacrado.\n\n5 - O sobrescrito referido no número anterior deve ser assinado por todos os membros do júri, pelo Procurador-Geral da República ou seu representante e por todos os concorrentes e seus representantes presentes no acto público."
+  },
+  "963be8a7b959c9d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Admissão das propostas\n\n1 - Interrompido o acto público, o júri, em sessão privada, começa por rubricar, por dois dos seus membros, todos os documentos, podendo as rubricas ser substituídas por chancela.\n\n2 - Cumprida esta diligência, o júri delibera sobre a admissibilidade dos concorrentes à fase de abertura e admissão das ofertas e determinação do adquirente.\n\n3 - São liminarmente excluídas as propostas que:\n\na) Não sejam entregues no local e no prazo fixados;\n\nb) Não observem o disposto nos n.os 2 a 4 do artigo 4.º;\n\nc) Nos documentos exigidos no artigo 9.º incluam qualquer referência que o júri considere indicadora do valor oferecido pelas acções objecto do presente concurso;\n\nd) Na respectiva organização não observem o disposto no artigo 11.º e desde que o júri considere a falta perturbadora do processo;\n\ne) Na documentação apresentada incluam qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - Serão ainda excluídas as propostas cujos concorrentes não se encontrem nas condições definidas no n.º 4 do artigo 1.º\n\n5 - São admitidas condicionalmente as propostas que:\n\na) Não integrem a totalidade dos documentos exigidos no n.º 1 do artigo 9.º;\n\nb) Na documentação apresentada omitam qualquer elemento exigido.\n\n6 - Retomada a sessão pública, o presidente do júri dá a conhecer a lista das propostas admitidas, bem como das admitidas condicionalmente e das liminarmente excluídas, indicando, nestes dois últimos casos, as respectivas razões.\n\n7 - No caso de existirem propostas admitidas condicionalmente, o júri concede até três dias úteis aos respectivos concorrentes para entregarem, contra a emissão de recibo, os documentos em falta ou completarem os elementos omissos, não sendo exigida qualquer formalidade para a respectiva apresentação.\n\n8 - Para efeitos do número anterior, os concorrentes consideram-se devidamente notificados pelo júri no próprio acto público, ainda que não estejam presentes ou representados.\n\n9 - Verificando-se a situação prevista no n.º 7, o júri, depois de indicar o local, a hora e o dia limites para os concorrentes admitidos condicionalmente completarem as suas propostas, interrompe o acto público."
+  },
+  "4e4d097ad16d4a5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prosseguimento do acto público no caso de ocorrer a admissão condicional de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prosseguimento do acto público no caso de ocorrer a admissão condicional de propostas\n\n1 - Ocorrendo a situação prevista no n.º 7 do artigo anterior, o acto público prossegue pelas 11 horas do dia útil imediato ao termo do prazo fixado para a entrega dos documentos e elementos em falta.\n\n2 - Verificados os documentos e os elementos entregues, o júri delibera sobre a admissão definitiva e a exclusão das propostas admitidas condicionalmente.\n\n3 - São excluídas as propostas condicionalmente admitidas quando:\n\na) Os documentos em falta não sejam entregues no local e no prazo fixados;\n\nb) Na nova documentação apresentada seja omitido qualquer elemento exigido ou não sejam entregues os elementos entretanto exigidos e desde que o júri, em qualquer caso, considere a falta essencial;\n\nc) Na nova documentação entregue se inclua qualquer referência que o júri considere indicadora do valor oferecido pelas acções objecto do presente concurso;\n\nd) Na nova documentação apresentada se inclua qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - O júri dá a conhecer as razões da exclusão de propostas nesta fase do processo, bem como a lista definitiva dos concorrentes admitidos."
+  },
+  "8ac5ebae0e423c31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Fase de abertura e admissão das ofertas e determinação do adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Fase de abertura e admissão das ofertas e determinação do adquirente"
+  },
+  "25a51ee84dc9391b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Abertura e admissão das ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Abertura e admissão das ofertas"
+  },
+  "2adaf5135fefaf51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Abertura e admissão das ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Abertura e admissão das ofertas\n\n1 - Cumprido o disposto nos artigos anteriores, e decididas eventuais reclamações apresentadas, procede-se, de seguida, à abertura dos sobrescritos das ofertas dos concorrentes admitidos e à verificação da conformidade das mesmas com o modelo que constitui o anexo I deste caderno de encargos, devendo os documentos ser rubricados por, pelo menos, dois membros do júri.\n\n2 - O júri, se o entender oportuno, pode proceder, em sessão privada, ao exame da documentação referida no número anterior e aí deliberar sobre a admissão das ofertas.\n\n3 - São excluídos nesta fase os concorrentes que na carta a que se refere a alínea a) do n.º 1 do artigo 8.º:\n\na) Apresentem um preço base inferior ao fixado no artigo 6.º;\n\nb) No conteúdo e na organização da oferta não respeitem o que se encontra estabelecido na alínea a) do n.º 1 do artigo 8.º e desde que o júri considere a falta perturbadora do processo;\n\nc) Incluam qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - É feita, de seguida, a leitura pública das ofertas admitidas, sendo elaborada uma lista dos concorrentes e dos valores oferecidos, hierarquizada por ordem decrescente dos respectivos preços.\n\n5 - Verificando-se igualdade entre preços oferecidos, determina-se, por sorteio, a respectiva hierarquização.\n\n6 - Ocorrendo a situação prevista no n.º 1 do artigo seguinte, o acto público é suspenso, sendo retomado pelas 10 horas do 3.º dia útil subsequente.\n\n7 - O disposto nos n.os 2 a 7 do artigo 14.º continua a ser aplicável, com as necessárias adaptações, a esta fase do acto público, bem como no processo de revisão de ofertas."
+  },
+  "6e7154d578c99ff2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Revisão das ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão das ofertas\n\n1 - No caso de entre as propostas apresentadas pelos concorrentes hierarquizados em 1.º e 2.º lugares existir uma diferença igual ou inferior a 10% do valor global da operação, entendido este como o correspondente à soma do valor do crédito da PORTUCEL referido no artigo 27.º e ao valor da oferta apresentado pelo 1.º classificado, podem todos os concorrentes admitidos nesta fase rever sucessivamente o montante indicado nas suas ofertas.\n\n2 - Quando a diferença inicial de valor entre os concorrentes hierarquizados em 1.º e 2.º lugares seja superior a 10% do valor global da operação, tal como definido no número anterior, não é possível a revisão, vencendo a maior oferta."
+  },
+  "8bfa57c009a872e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Processo da revisão de ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo da revisão de ofertas\n\n1 - Retomado o acto público, o presidente do júri começa por fazer a leitura pública da lista dos concorrentes admitidos a esta fase e dos valores oferecidos, hierarquizada nos termos fixados nos n.os 4 e 5 do artigo 18.º\n\n2 - A revisão das ofertas processa-se em lances completos sucessivos, pela ordem inversa da hierarquização dos concorrentes a ela admitidos, entendendo-se por lances completos a possibilidade de pronúncia de todos os concorrentes ainda envolvidos no processo de revisão.\n\n3 - As revisões são efectuadas a partir do valor global apresentado pelo concorrente hierarquizado em 1.º lugar na lista elaborada nos termos dos n.os 4 e 5 do artigo 18.º\n\n4 - Cada nova oferta que altere o valor global da maior proposta apresentada até ao momento envolverá um acréscimo mínimo de 5000000$00 face a esta, considerando-se como inexistente se tal não acontecer.\n\n5 - As revisões não podem indicar valor global inferior ao maior apresentado até ao momento, considerando-se como inexistentes se tal acontecer.\n\n6 - Nos casos previstos em que se consideram as propostas como inexistentes, bem como quando um concorrente não apresente nova proposta, mantém-se válido, para todos os efeitos, o valor apresentado imediatamente antes pelo mesmo concorrente. Em qualquer dos casos não pode o concorrente em causa proceder a nova revisão do valor oferecido.\n\n7 - As revisões das ofertas são feitas nos termos do modelo indicado no anexo IV e apresentadas ao júri em sobrescrito fechado.\n\n8 - O processo de revisão das ofertas termina quando, sem prejuízo do disposto nos n.os 4 a 6, se verificar uma das seguintes condições:\n\na) Os concorrentes ainda envolvidos no processo de revisão não apresentem nova proposta que iguale ou ultrapasse a maior apresentada até ao momento por dado concorrente;\n\nb) Todos os concorrentes ainda envolvidos no processo de revisão não apresentem, durante um lance completo, ofertas de valor superior à última por eles apresentada, tendo-se verificado no lance imediatamente anterior uma situação de igualdade entre eles, procedendo-se, neste caso, a um sorteio para ordenação dos concorrentes em situação de igualdade."
+  },
+  "d848a3779251640c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Determinação do melhor preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Determinação do melhor preço\n\n1 - A alienação das acções objecto do concurso é efectuada de acordo com as seguintes regras:\n\na) Ao concorrente que tiver oferecido maior preço;\n\nb) Em caso de igualdade inicial, sem que ocorra qualquer revisão das ofertas, ao concorrente posicionado em 1.º lugar na lista hierarquizada nos termos dos n.os 4 e 5 do artigo 18.º;\n\nc) Em caso de igualdade resultante do processo de revisão, ao concorrente posicionado em 1.º lugar na ordenação efectuada nos termos da alínea b) do n.º 8 do artigo anterior.\n\n2 - Se o concorrente vencedor, por qualquer razão que lhe seja imputável, não proceder, nas condições e prazos fixados neste caderno de encargos, ao pagamento previsto no artigo 26.º, a venda, sem prejuízo do disposto no n.º 3 do artigo 10.º, é efectuada:\n\na) Ao concorrente que tiver oferecido o preço imediatamente inferior;\n\nb) Em caso de igualdade inicial sem que ocorra revisão das ofertas, ao concorrente posicionado no lugar seguinte na lista hierarquizada nos termos dos n.os 4 e 5 do artigo 18.º;\n\nc) Em caso de igualdade decorrente do processo de revisão, ao concorrente posicionado no lugar seguinte na ordenação efectuada nos termos da alínea b) do n.º 8 do artigo anterior."
+  },
+  "829adbbd1db6541a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Recursos"
+  },
+  "0c11920f86a67382": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Interposição de recursos nas deliberações do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Interposição de recursos nas deliberações do júri\n\n1 - Apenas das deliberações sobre reclamações, apresentadas nos termos do n.º 5 do artigo 14.º, cabe recurso, sem efeito suspensivo, para o Ministro das Finanças.\n\n2 - O recurso deve ser interposto no prazo de cinco dias úteis a contar da notificação do indeferimento ou da entrega da certidão da acta onde conste aquele acto, desde que esta seja requerida nos três dias úteis subsequentes à conclusão do acto público.\n\n3 - O recurso interpõe-se por meio de requerimento no qual o recorrente deve expor todos os fundamentos do mesmo.\n\n4 - O requerimento de interposição do recurso pode ser apresentado na Inspecção-Geral de Finanças ou no Gabinete do Ministro das Finanças.\n\n5 - O recurso deve ser remetido ao Ministro das Finanças no dia útil imediato ao da sua interposição."
+  },
+  "f8e0921cb1b9cc33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Decisão sobre os recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Decisão sobre os recursos\n\n1 - Se o recurso for deferido, praticar-se-ão os actos necessários à satisfação dos legítimos interesses do recorrente.\n\n2 - Considera-se indeferido o recurso se o recorrente não for notificado da decisão no prazo de 10 dias úteis após a sua apresentação."
+  },
+  "9d50d1e1154b0844": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Determinação do adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Determinação do adquirente"
+  },
+  "c3e6edf489cfade7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Relatório do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Relatório do júri\n\n1 - Concluído o acto público previsto nos artigos 14.º a 20.º, o júri elabora relatório fundamentado sobre o resultado do concurso que submete à aprovação do Governo.\n\n2 - No relatório deve fazer-se referência às propostas recebidas e seus autores, bem como a todas as deliberações tomadas pelo júri e respectivos fundamentos.\n\n3 - O relatório é enviado a Conselho de Ministros no prazo de 10 dias úteis a contar do termo do acto público previsto nos artigos anteriores, acompanhado de toda a documentação relativa ao concurso."
+  },
+  "9fd1f0906313b032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Adjudicação\n\n1 - Em face do relatório do júri, o Conselho de Ministros, por resolução, determina o resultado do concurso.\n\n2 - A decisão do Conselho de Ministros a que se refere o número anterior deve ser remetida ao júri.\n\n3 - No prazo de três dias úteis a contar da recepção da resolução a que se refere o n.º 1, o júri, mediante carta registada, com aviso de recepção, notifica o concorrente vencedor de que lhe será adjudicada, nos termos deste caderno de encargos, a venda das acções objecto do concurso.\n\n4 - Ocorrendo a situação prevista no n.º 2 do artigo 21.º, o júri, de imediato e nos termos indicados no n.º 3, notifica o respectivo concorrente.\n\n5 - A proposta e a aceitação desta pela resolução a que se reporta o n.º 1, bem como as condições fixadas neste caderno de encargos, consubstanciam o contrato celebrado com o adquirente, o qual se regula pelas disposições legais aplicáveis."
+  },
+  "6bc41d10de3b69e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pagamento\n\n1 - O pagamento do preço das acções objecto de alienação e do crédito da PORTUCEL a que se refere o artigo seguinte é efectuado, integralmente, pelo concorrente vencedor, nos 10 dias úteis subsequentes à publicação da resolução do Conselho de Ministros referida no n.º 1 do artigo anterior, mediante transferência bancária para a conta NIB n.º 0018000000738888172, no Banco Totta & Açores (Agência da Rua do Ouro), à ordem da PORTUCEL.\n\n2 - Ocorrendo a situação prevista no n.º 2 do artigo 21.º, o pagamento é efectuado, integralmente, pelo respectivo concorrente, nos 10 dias úteis subsequentes à notificação a que se refere o n.º 4 do artigo anterior.\n\n3 - O concorrente vencedor ou o que lhe suceder nos termos do n.º 2 do artigo 21.º deve, nos três dias úteis subsequentes à realização do pagamento, provar perante o júri que se encontra efectuado o pagamento a que alude o n.º 1."
+  },
+  "be01cfc415d0ed09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Obrigações especiais do adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Obrigações especiais do adquirente"
+  },
+  "56ff64366e7b0d70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Crédito da PORTUCEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Crédito da PORTUCEL\n\n1 - O adquirente fica obrigado a tomar a posição contratual da PORTUCEL relativamente a um crédito de 350000000$00 que aquela sociedade detém sobre a FAPAJAL referente a empréstimos concedidos.\n\n2 - A importância referida no artigo anterior deve ser paga pelo adquirente à PORTUCEL juntamente com o pagamento das acções objecto de alienação."
+  },
+  "1b15926b457e60a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Indisponibilidade de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Indisponibilidade de acções\n\nAs acções representativas de 51% do capital social da FAPAJAL adquiridas no âmbito do presente concurso estão sujeitas ao regime de indisponibilidade fixado nos artigos 3.º, 4.º e 5.º do decreto-lei que aprova o presente caderno de encargos."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "169ed9051db6df71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Obrigações dos cessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Obrigações dos cessionários\n\nTransmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento."
+  },
+  "69250dbe7844f9e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Formalidades para aquisição das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Formalidades para aquisição das acções\n\n1 - São preenchidas, logo que possível, as formalidades legais exigidas para a aquisição das acções objecto deste concurso, sendo os respectivos encargos por conta do adquirente.\n\n2 - A taxa sobre operações fora da Bolsa bem como outros encargos a que haja lugar são devidos nos termos legais."
+  },
+  "993bfc6f99b55f43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Garantias bancárias e seguros-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Garantias bancárias e seguros-caução\n\nAs garantias bancárias e os seguros-caução previstos neste caderno de encargos devem ser prestados por instituição de reconhecida idoneidade, revestindo a natureza de garantia de primeira interpelação."
+  },
+  "3792306a11814571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Suspensão ou anulação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Suspensão ou anulação do concurso\n\nO Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem."
+  },
+  "e5931cf921878556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de carta para oferta de compra de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de carta para oferta de compra de acções\n\n[artigo 8.º, n.º 1, alínea a), do caderno de encargos]\n\nSr. Ministro das Finanças:\n\n1 - ... (ver nota 1) vem informar que se propõe adquirir um lote indivisível de 59564 acções, representativas de 99,2733% do capital social da FAPAJAL - Fábrica de Papel do Tojal, S. A., com o valor nominal de 1000$00, pelo preço total global de ... (indicar o preço em algarismos e por extenso).\n\n2 - As acções referidas no número anterior terão a seguinte distribuição interna pelas entidades que compõem o agrupamento (ver nota 2): ...\n\n3 - Mais declara assumir o compromisso de adquirir o crédito detido pela PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., no montante de 350000000$00, pelo mesmo valor.\n\n...\n\nCom os melhores cumprimentos.\n\n[Data e assinatura (ver nota 3).]\n\n(nota 1) Identificação completa do concorrente individual ou das entidades que compõem o agrupamento.\n\n(nota 2) Só no caso de agrupamentos.\n\n(nota 3) Assinatura do concorrente ou dos seus representantes legais, se se tratar de pessoa colectiva, ou do mandatário designado nos termos do n.º 2 do artigo 9.º ou do representante comum do agrupamento."
+  },
+  "93f511faccd46168": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Questionário a preencher pelos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Questionário a preencher pelos concorrentes\n\n[artigo 9.º, n.º 1, alínea b), do caderno de encargos]\n\n1 - Identificação do concorrente individual ou das entidades que compõem o agrupamento concorrente:\n\n1.1 - Nome ou denominação social;\n\n1.2 - Domicílio ou sede social;\n\n1.3 - Estado civil, nome do cônjuge, regime de bens, números de contribuinte e do bilhete de identidade (ver nota 1);\n\n1.4 - Nome dos titulares dos corpos gerentes e de outras pessoas para obrigarem as pessoas colectivas (ver nota 2);\n\n1.5 - Capital (ver nota 2);\n\n1.6 - Grupo económico a que pertence (ver nota 2), com indicação dos detentores, directa ou indirectamente, de mais de 10% do capital social;\n\n1.7 - Sucursais no estrangeiro (ver nota 2);\n\n1.8 - Empresas directa ou indirectamente controladas;\n\n1.9 - Acordos celebrados com outras pessoas singulares ou colectivas que possam ter uma relação directa ou indirecta com a aquisição de acções representativas do capital social da FAPAJAL.\n\n2 - Capacidade financeira:\n\nApresentação de elementos susceptíveis de demonstrar capacidade financeira adequada à concretização da operação de reprivatização e ao desenvolvimento da FAPAJAL, incluindo os elementos comprovativos da origem de eventual financiamento para a aquisição de acções proposta.\n\n3 - Capacidade técnica:\n\nApresentação de elementos curriculares relativos à actividade desenvolvida pelo concorrente que possam ser susceptíveis de avaliar a sua experiência de gestão industrial para o desenvolvimento da FAPAJAL.\n\n4 - Relacionamento com a FAPAJAL:\n\n4.1 - Tipo de relacionamento que o concorrente mantém com a FAPAJAL, relações a nível jurídico, financeiro ou comercial, tais como:\n\na) Acordos de cooperação técnica;\n\nb) Participações em comum em sociedades;\n\nc) Operações financeiras comuns;\n\nd) Contencioso;\n\ne) Projectos comuns.\n\n4.2 - Perspectivas da evolução dessas relações (sua manutenção, desenvolvimento ou reformulação) no âmbito da alienação das acções objecto do concurso.\n\n5 - Participações na FAPAJAL:\n\n5.1 - Vantagens para a FAPAJAL desta tomada de participação;\n\n5.2 - Objectivo que o concorrente pretende prosseguir ao propor-se adquirir as acções objecto do concurso.\n\n6 - Outras informações relevantes para a avaliação da proposta de compra (ver nota 3).\n\n[Data e assinatura (ver nota 4).]\n\nNota. - No caso de agrupamentos, os n.os 1, 2, 3 e 4 terão de ser necessariamente respondidos em relação a cada uma das entidades que o integrem. Os n.os 5 e 6 deverão ser objecto de resposta comum do agrupamento.\n\n(nota 1) Apenas no caso de pessoas singulares.\n\n(nota 2) Apenas no caso de pessoas colectivas.\n\n(nota 3) Resposta de opção livre, visando complementar este questionário, e que o concorrente considere relevante para a avaliação da sua proposta.\n\n(nota 4) Assinatura do concorrente, do seu representante legal, se se tratar de pessoa colectiva, do mandatário designado nos termos do n.º 2 do artigo 9.º ou do representante comum do agrupamento."
+  },
+  "3892f2b25a059bd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Modelo de garantia bancária/seguro-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Modelo de garantia bancária/seguro-caução\n\n(artigo 10.º, n.º 1, do caderno de encargos)\n\nGarantia bancária/seguro-caução n.º ...\n\nEm nome e a pedido de ... (ver nota 1), vem o(a) ... (ver nota 2), pelo presente documento, prestar, a favor da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., uma garantia bancária/seguro-caução no valor de 5000000$00 destinada(o) a caucionar o integral cumprimento das obrigações assumidas pelo(s) garantido(s) nos termos e para os efeitos previstos no artigo 10.º do caderno de encargos anexo ao Decreto-Lei n.º .../..., de ... de ..., responsabilizando-se pela entrega à PORTUCEL daquele montante, à primeira interpelação, caso o(s) garantido(s) revogue(m) a sua proposta ou deixe(m) de observar as condições fixadas no referido caderno de encargos.\n\nFica bem assente que o banco/companhia de seguros garante, no caso de vir a ser chamado(a) a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do(s) garantido(s), limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificação completa da instituição garante."
+  },
+  "48827b307af4335f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Modelo de carta para revisão de oferta de compra de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Modelo de carta para revisão de oferta de compra de acções\n\n(artigo 20.º, n.º 7, do caderno de encargos)\n\nExmo. Sr. Presidente do Júri:\n\n... (ver nota 1) vem informar que pretende rever o preço da oferta por si apresentada no concurso para aquisição de 59564 acções do capital da FAPAJAL - Fábrica de Papel do Tojal, S. A., apresentando o novo preço total de ... (ver nota 2).\n\n[Data e assinatura (ver nota 3).]\n\n(nota 1) Identificação do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Indicar o preço total em algarismos e por extenso.\n\n(nota 3) Assinatura do concorrente individual ou dos seus representantes legais, se se tratar de pessoa colectiva, ou do mandatário designado nos termos do n.º 2 do artigo 9.º ou do representante comum do agrupamento."
+  },
+  "49ab30bfd4e2a21e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Caução",
+   "in_force_from": "1999-04-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 10-Q/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-q-1999-219930), publicado em 1999-04-30."
+   ],
+   "markdown": "###### Artigo 10.º — Caução\n\n1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, na importância de 5000000$00, a efectuar mediante transferência bancária para a conta NIB n.º 001800000073888800172, no Banco Totta & Açores (Agência da Rua do Ouro), ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.\n\n2 - Os concorrentes que revoguem as suas propostas perdem, a favor da PORTUCEL, as respectivas cauções.\n\n3 - Sem prejuízo do disposto no número anterior, o concorrente vencedor, bem como o que lhe suceder nos termos do n.º 2 do artigo 21.º, perde a caução, a favor da PORTUCEL, se não proceder, nas condições e prazo fixados neste caderno de encargos, ao pagamento do preço das acções objecto de alienação, e do crédito da PORTUCEL previsto no artigo 27.º\n\n4 - As cauções prestadas pelos concorrentes excluídos nos termos dos n.os 3 e 4 do artigo 16.º, do n.º 3 do artigo 17.º e do n.º 3 do artigo 18.º são liberadas nos cinco dias úteis subsequentes à divulgação, no acto público a que se referem os artigos 14.º e seguintes, da respectiva decisão por parte do júri.\n\n5 - Sem prejuízo do disposto nos n.os 2 e 3, as cauções prestadas pelos outros concorrentes são liberadas nos cinco dias úteis posteriores à entrega do documento comprovativo do pagamento previsto no artigo 26.º\n\n> Alterado pelo/a [Declaração de Rectificação n.º 10-Q/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-q-1999-219930), publicado em 1999-04-30."
+  }
+ }
+}

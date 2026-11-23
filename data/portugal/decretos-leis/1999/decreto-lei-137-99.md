@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-30'
+version_history:
+  file: decreto-lei-137-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-30'
+    amending: pt:dre:219930:por
+    amending_title: Declaração de Rectificação n.º 10-Q/99
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/137/1999/04/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:06:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-Q/99.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-137-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -375,7 +390,7 @@ n) No caso de pessoas singulares ou colectivas, ainda que integrando um agrupame
 
 ###### Artigo 10.º — Caução
 
-1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, na importância de 5000000$00, a efectuar mediante transferência bancária para a conta NIB n.º 0018000000888800172, no Banco Totta & Açores (Agência da Rua do Ouro), ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.
+1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, na importância de 5000000$00, a efectuar mediante transferência bancária para a conta NIB n.º 001800000073888800172, no Banco Totta & Açores (Agência da Rua do Ouro), ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.
 
 2 - Os concorrentes que revoguem as suas propostas perdem, a favor da PORTUCEL, as respectivas cauções.
 
@@ -384,6 +399,8 @@ n) No caso de pessoas singulares ou colectivas, ainda que integrando um agrupame
 4 - As cauções prestadas pelos concorrentes excluídos nos termos dos n.os 3 e 4 do artigo 16.º, do n.º 3 do artigo 17.º e do n.º 3 do artigo 18.º são liberadas nos cinco dias úteis subsequentes à divulgação, no acto público a que se referem os artigos 14.º e seguintes, da respectiva decisão por parte do júri.
 
 5 - Sem prejuízo do disposto nos n.os 2 e 3, as cauções prestadas pelos outros concorrentes são liberadas nos cinco dias úteis posteriores à entrega do documento comprovativo do pagamento previsto no artigo 26.º
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-Q/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-q-1999-219930), publicado em 1999-04-30.
 
 ###### Artigo 11.º — Organização da proposta
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-17'
+version_history:
+  file: decreto-legislativo-regional-41-2002-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-17'
+    amending: pt:dre:660296:por
+    amending_title: Decreto Legislativo Regional n.º 35/2003/A
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/41/2002/12/23/a/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    35/2003/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2002/decreto-legislativo-regional-41-2002-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ Fica o Governo Regional autorizado a garantir, nas condições correntes nos res
 
 ###### Artigo 4.º — Avales e outras garantias
 
-É fixado em (euro) 60000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.
+É fixado em (euro) 95000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 35/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2003-660296), publicado em 2003-08-16.
 
 ###### Artigo 5.º — Gestão do património regional
 

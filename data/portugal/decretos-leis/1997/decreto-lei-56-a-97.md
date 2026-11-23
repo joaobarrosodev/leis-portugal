@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-31'
+version_history:
+  file: decreto-lei-56-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-31'
+    amending: pt:dre:306913:por
+    amending_title: Declaração de Rectificação n.º 6-E/97
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/56-a/1997/03/14/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:55:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 6-E/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-56-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -436,7 +451,7 @@ b) Estratégia de aproveitamento de sinergias inerentes ao desenvolvimento globa
 
 c) Investimentos previstos, sua caracterização, calendarização e meios financeiros a utilizar para o efeito;
 
-d) Demonstração da dimensão, experiência, capacidade financeira e capacidade técnica do concorrente em termos de gestão industrial, de reados empreendimentos e de organização comercial;
+d) Demonstração da dimensão, experiência, capacidade financeira e capacidade técnica do concorrente em termos de gestão industrial, de realização dos empreendimentos e de organização comercial;
 
 e) Desenvolvimento, em orientações quer de grupo, quer de mercado, de actividades nas áreas complementares (serviços) onde a QUIMIGAL presentemente detém participações;
 
@@ -451,6 +466,8 @@ h) Política de recursos humanos a adoptar, tendo igualmente em conta os encargo
 4 - A apresentação da proposta envolve, para cada concorrente individual ou para cada uma das entidades que integrem um agrupamento, o compromisso de que dispõe dos meios financeiros adequados à concretização da operação.
 
 5 - Os documentos mencionados nas alíneas a) e b) do n.º 1 constituem a oferta a que se refere o n.º 2 do artigo 12.º
+
+> Alterado pelo/a [Declaração de Rectificação n.º 6-E/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-e-1997-306913), publicado em 1997-03-31.
 
 ###### Artigo 10.º — Documentos
 
