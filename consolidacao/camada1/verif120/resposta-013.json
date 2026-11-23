@@ -1,0 +1,99 @@
+[
+ {
+  "id": "pt:dre:570507:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 147/2002, art. 3.º n.º 1, revoga o art. 5.º do DL 418-B/98: corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/2001, art. 1.º n.º 2, elimina o n.º 3: consolidado 'n.º 3 (Revogado.)'; restantes números iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 147/2002, art. 2.º: alíneas a) e b) com a nova redação, c) a n) e n.os 2 e 3 conforme a instrução (n.º 3 = anterior n.º 4); confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 147/2002, art. 3.º n.º 2, revoga o art. 19.º dos Estatutos: epígrafe mantida e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 147/2002, art. 3.º n.º 2, revoga o art. 20.º dos Estatutos: epígrafe mantida e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 147/2002, art. 3.º n.º 2, revoga o art. 21.º dos Estatutos: epígrafe mantida e '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 1.º (n.º 2) do DL 418-B/98 (Artigo 1.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 2.º (n.os 1 e 2) do DL 418-B/98 (Artigo 2.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 3.º (n.os 2 e 3) do DL 418-B/98 (Artigo 3.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 4.º (n.os 1 a 4) do DL 418-B/98 (Artigo 4.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 7.º (n.º 1) do DL 418-B/98 (Artigo 7.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 1: nova redação do art. 10.º (n.os 1 a 3) do DL 418-B/98 (Artigo 10.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 1.º n.º 3: aditamento do art. 7.º-A ao DL 418-B/98 (Artigo 7.º-A) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 2.º: nova redação do art. 3.º dos Estatutos (Artigo 3.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 2.º: nova redação do art. 4.º dos Estatutos (Artigo 4.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 2.º: nova redação do art. 5.º dos Estatutos (Artigo 5.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 38/2001, art. 2.º: nova redação do art. 18.º dos Estatutos, alínea c) (Artigo 18.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 1.º: nova redação do art. 1.º do DL 418-B/98, n.os 1, 3 e 4 (Artigo 1.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 1.º: nova redação do art. 3.º do DL 418-B/98, n.os 1 e 2 (Artigo 3.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 1.º: nova redação do art. 12.º do DL 418-B/98, n.º 1 (Artigo 12.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 1.º dos Estatutos (Artigo 1.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 3.º dos Estatutos, n.os 1 e 2 (Artigo 3.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 10.º dos Estatutos, n.º 2 (Artigo 10.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 13.º dos Estatutos, n.º 1 (Artigo 13.º #2) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 15.º dos Estatutos, n.º 1 (Artigo 15.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 16.º dos Estatutos, n.os 1 e 2 (Artigo 16.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 23.º dos Estatutos, n.º 1 (Artigo 23.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado",
+   "DL 147/2002, art. 2.º: nova redação do art. 24.º dos Estatutos, n.º 1 (Artigo 24.º) — consolidado igual ao original (artigo na lista dos IGUAIS); o texto novo não vem na vista, por isso não se confirma que foi aplicado"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:571048:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 19/2014, pontos 1 e 2: na parte do art. 2.º que altera o art. 39.º n.º 2 a) e o art. 75.º n.º 3 do DL 39/2008, o consolidado tem exatamente o texto do 'deve ler-se' ('de interesse nacional, de interesse público ou de interesse municipal'; 'ou pela câmara municipal, após rea-lização…que se revelem materialmente impossíveis ou que comprometam a rendibilidade'). Resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 19/2014, ponto 1, no anexo que republica o DL 39/2008: n.º 2 a) com o texto do 'deve ler-se'; restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 19/2014, ponto 2, no anexo: n.º 3 com o texto do 'deve ler-se' (inclui 'ou pela câmara municipal' e 'que se revelem materialmente impossíveis ou que comprometam a rendibilidade do empreendimento'); restante igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

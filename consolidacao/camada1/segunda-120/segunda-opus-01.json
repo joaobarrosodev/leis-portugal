@@ -1,0 +1,11 @@
+[
+ {"id": "pt:dre:404106:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:374669:por", "veredicto": "reparos", "problemas": [
+   "Estatuto, arts. 31.º e 38.º (revogados pelo art. 2.º do DLR 29/96/A): o consolidado escreve «31.º - (Revogado.)» e «38.º - (Revogado.)», sem o «Art.» que o original usa em todos os artigos do Estatuto («Art. 31.º», «Art. 38.º»). O rótulo do artigo fica incompleto; o texto certo é «Art. 31.º (Revogado.)» e «Art. 38.º (Revogado.)». Os arts. 19.º e 29.º novos aparecem como «Artigo 19.º» / «Artigo 29.º» numa linha à parte, em vez de «Art. 19.º - 1 - ...» como no resto do Estatuto. É um defeito de forma: o conteúdo das alterações do DLR 29/96/A está certo (art. 19.º substituído por inteiro, art. 29.º com a nova redação e sem a ressalva do art. 31.º, art. 30.º com o n.º 3 novo e os n.ºs 1 e 2 mantidos)."
+   ], "vigencia": null},
+ {"id": "pt:dre:405299:por", "veredicto": "certo", "problemas": [], "vigencia": {"conclusao": "caducado", "prova": "Orçamento da Região Autónoma dos Açores para o ano de 2003 (DLR 41/2002/A, art. 1.º): é um diploma anual e caducou no fim do ano económico de 2003. O art. 4.º e os mapas (só em imagem) estão de acordo com o DLR 35/2003/A."}},
+ {"id": "pt:dre:411804:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:656845:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:685043:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:694207:por", "veredicto": "certo", "problemas": [], "vigencia": null}
+]

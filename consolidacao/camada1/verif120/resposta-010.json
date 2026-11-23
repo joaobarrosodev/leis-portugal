@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:531396:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "O DL 80/97, art. 48.º b), revoga os artigos 1.º a 4.º do DL 6/94 (incondicional; art. 49.º: vigor no dia imediato à publicação). O bloco do original contém a nova redação citada do art. 3.º (Órgãos e serviços), o art. 4.º do DL 6/94 (quadro de pessoal) e a frase de abertura do art. 5.º (Fundação de São Carlos). O consolidado apagou tudo, incluindo a abertura do art. 5.º, que não foi revogado (só 1.º a 4.º). Deve ficar (Revogado.) no texto do art. 3.º/art. 4.º e manter-se a frase do art. 5.º.",
+    "texto_esperado": "###### Artigo 3.º — Órgãos e serviços\n\n(Revogado.)\n\nArt. 5.º O artigo 3.º dos Estatutos da Fundação de São Carlos, aprovados pelo [Decreto-Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1993-594967), de 10 de Março, passa a ter a seguinte redacção:"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "alvo incerto: DL 80/97, art. 48.º b), revoga os artigos 1.º a 4.º do DL 6/94; só o bloco «Artigo 3.º» foi tratado. Os blocos «(preâmbulo)» (que pode conter o art. 1.º do DL 6/94) e «Artigo 2.º» (texto citado do mesmo grupo) e o «ANEXO» (quadro de pessoal dirigente do art. 4.º) vêm como iguais ao original e o seu conteúdo não está na vista; se pertencerem aos artigos 1.º a 4.º, a revogação não foi aplicada."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 315/95 (art. 50.º, n.º 5) altera os artigos 2.º e 16.º do DL 106-B/92 (e outros diplomas); DL 42/96, art. 37.º, revoga os DL 106-A/92 e 106-H/92",
+    "motivo": "instruções de outros diplomas; só citam o DL 6/94 como «com as alterações que lhe foram introduzidas»"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:534642:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "A Declaração de Rectificação 10-Q/99 corrige no n.º 1 do art. 10.º do caderno de encargos o NIB para 001800000073888800172; o consolidado tem exatamente essa redação e o resto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

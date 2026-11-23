@@ -44,6 +44,7 @@ from llm_completo import _alteradores, _aprovados
 import texto as texto_mod
 from texto import RAIZ, Corpo, front_matter, publicado
 from texto import alterador as texto_do_alterador
+from texto_antigo import repor_prefixo
 from verificar import _REVOGADO, _plano
 
 
@@ -77,9 +78,11 @@ Regras:
   inteira com a frase trocada). Não corrijas grafia, pontuação nem gralhas. Sem aspas «»
   nem o tipo de nota "(redação do …)".
 - "[...]", "..." ou "(...)" numa nova redação querem dizer "fica o texto atual dessa unidade".
-- Uma unidade revogada fica com a sua numeração e "(Revogado.)" (ou "(Revogada.)"), por exemplo
-  "3.º - (Revogado.)"; as unidades que formavam o ponto (epígrafe, corpo) entram na mesma
-  substituição. Uma alínea: "a) (Revogada.)".
+- Uma unidade revogada fica com a sua numeração e "(Revogado.)" (ou "(Revogada.)"), e o título
+  fica tal como está no texto atual, com o prefixo dele: "Art. 3.º - (Revogado.)" num diploma
+  que escreve "Art. 3.º - …", "Artigo 3.º - (Revogado.)" num que escreve "Artigo 3.º - …", e
+  "3.º - (Revogado.)" só se o texto atual escrever "3.º - …" sem prefixo. As unidades que
+  formavam o ponto (epígrafe, corpo) entram na mesma substituição. Uma alínea: "a) (Revogada.)".
 - Se um artigo, número ou ponto novo se acrescenta, é uma inserção; renumera as unidades que a
   instrução manda renumerar (cada uma é uma substituição ou entra numa substituição maior).
 - O diploma original pode ser revogado por inteiro: se a instrução revoga todo o texto, diz em
@@ -324,6 +327,8 @@ def _junto(resposta: dict, registo: dict) -> dict:
             continue
         if k in substituicoes:
             s = substituicoes[k]
+            if s["novo"]:
+                s["novo"] = repor_prefixo(s["antigo"], s["novo"])
             ligacao, data = ligacao_de(s)
             partes = ([s["novo"]] if s["novo"] else []) + [_nota("Alterado", ligacao, data)]
             saida.append("\n\n".join(partes))

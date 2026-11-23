@@ -1,0 +1,186 @@
+[
+ {
+  "id": "pt:dre:142171:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Substituído pelo artigo 2.º do DL 102/2004 («90 anos»)."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo artigo 6.º do DL 34/91; n.º 1 igual; «2 - (Revogado.)» correto."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 34/91, artigo 6.º: revogação do n.º 2 da base XVII do contrato de concessão (anexo ao original); alvo incerto: as bases do contrato não aparecem na vista.",
+   "DL 102/2004, artigo 3.º: nova redação das bases XXV (prazo de 90 anos) e XXXV (exclusivo até 10 km) do contrato de concessão anexo ao original; alvo incerto: as bases não aparecem na vista e «alvo incerto» não justifica."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 102/2004, artigo 1.º: substituição da planta anexa ao contrato de concessão",
+    "motivo": "a planta nova só vem em imagem (ver planta no documento original) e o consolidado não tem anexo com título onde a pôr"
+   },
+   {
+    "instrucao": "DL 102/2004, artigo 4.º: autorização ao Ministro para subscrever o aditamento ao contrato",
+    "motivo": "não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:165827:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 6 revogado pelo artigo 4.º do DLR 30/92/A; consolidado «6 - (Revogado.)», n.os 1 a 5 iguais."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo artigo 4.º; epígrafe mantida e corpo «(Revogado.)»."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo artigo 4.º; epígrafe mantida e corpo «(Revogado.)»."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo artigo 4.º; epígrafe mantida e corpo «(Revogado.)»."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DLR 30/92/A, artigo 1.º: aprovação das alterações ao Orçamento constantes dos mapas I a V em anexo, que só vêm em imagem. Não aplicado no consolidado, que não tem anexo; o consolidador não o declarou na vista."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 30/92/A, artigos 2.º, 3.º e 5.º (execução, vigência e efeitos)",
+    "motivo": "não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:186556:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Artigo 6.º do DRR 10/2000/M: o quadro de pessoal a que se refere o mapa anexo ao DLR 2/98/M passa a ser o do mapa anexo ao DRR 10/2000/M; consolidado fica com a imagem (10991106.pdf) do ANEXO I do alterador, no anexo que ele substitui."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de Rectificação n.º 7-N/98: sumário e epígrafe do DRR 3-A/98/M (e não DLR 2/98/M)",
+    "motivo": "não textual: corrige o sumário e a epígrafe da publicação, sem nova redação de artigos"
+   },
+   {
+    "instrucao": "DRR 10/2000/M, artigo 2.º (artigos 3.º, 27.º, 29.º e 30.º) e artigo 3.º (aditamento dos artigos 2.º-A, 20.º-A e 31.º)",
+    "motivo": "outro diploma: o título do alterador («Altera o DRR 13-A/97/M») e os artigos 4.º e 5.º identificam a estrutura orgânica do DRR 13-A/97/M; o original só tem os artigos 1.º, 2.º e o anexo"
+   },
+   {
+    "instrucao": "DRR 10/2000/M, artigo 4.º: criação da carreira de motorista de transportes colectivos, nos termos do mapa anexo",
+    "motivo": "não textual e dirigido à estrutura orgânica do DRR 13-A/97/M"
+   },
+   {
+    "instrucao": "DRR 10/2000/M, artigo 5.º: revogação dos n.os 4 e 5 do artigo 2.º da estrutura orgânica",
+    "motivo": "outro diploma (DRR 13-A/97/M), expresso no próprio artigo"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:189511:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 1 e n.os 3 a 5 novos; alínea a) e n.os 2 originais («...»); epígrafe mantida («[...]»). Consolidado igual ao esperado."
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 novo, n.os 4 a 6 renumerados dos antigos 3 a 5; n.os 1 e 2 originais."
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 novo; n.os 1 e 2 originais."
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 novo («o controlo do cumprimento»); n.os 2 a 4 originais."
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Corpo substituído na íntegra; consolidado igual ao do alterador."
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 novo («n.os 1 a 6, e 12 do artigo 45.º»); restantes números originais."
+   },
+   {
+    "artigo": "Artigo 11º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 11.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   },
+   {
+    "artigo": "Artigo 20º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 20.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   },
+   {
+    "artigo": "Artigo 33º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 33.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   },
+   {
+    "artigo": "Artigo 37º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 37.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   },
+   {
+    "artigo": "Artigo 41º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 41.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   },
+   {
+    "artigo": "Artigo 46º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do original com a grafia «º»; consta do consolidado como «Artigo 46.º» com a nova redação (ver o veredicto desse artigo). Não é artigo em falta."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 28/2013/M, artigo 3.º: substituição dos mapas I a X do Orçamento",
+    "motivo": "os mapas novos só vêm em imagem (ver documento original) e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "DLR 28/2013/M, artigos 4.º e 5.º (artigo 50.º-A do DLR 2/2011/M e artigo 7.º do DLR 34/2008/M)",
+    "motivo": "instruções de outros diplomas"
+   },
+   {
+    "instrucao": "DLR 31-A/2013/M, 5-A/2014/M, 18/2014/M, 6/2015/M, 17/2015/M, 33/2016/M, 42-A/2016/M, 2/2018/M e 6/2018/M (texto omitido na vista)",
+    "motivo": "a vista só traz a nota da triagem anterior (não textual, outro diploma ou não menciona o original); não verificável no texto, não vi instruções ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

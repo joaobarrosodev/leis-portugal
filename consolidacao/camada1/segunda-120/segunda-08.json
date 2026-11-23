@@ -1,0 +1,30 @@
+[
+ {
+  "id": "pt:dre:571048:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "A Declaração de Retificação n.º 19/2014 (relação corrected_by do registo, pt:dre:572121) foi aplicada nos três sítios certos: art. 2.º do DL 15/2014 (n.º 2, al. a) do art. 39.º e n.º 3 do art. 75.º do DL 39/2008) e, no anexo republicado, art. 39.º n.º 2 al. a) e art. 75.º n.º 3. Não há outras retificações nem revogações do original no acervo.",
+   "Defeito de texto: no n.º 3 do art. 75.º, o consolidado traz «após rea-lização de auditoria de classificação» (hífen de translineação copiado do texto da declaração de retificação), tanto no art. 2.º do DL 15/2014 (na parte que altera o art. 75.º, n.º 3) como no art. 75.º do anexo. O texto certo é «após realização de auditoria de classificação» (como no original). O resto do n.º 3 («ou pela câmara municipal», «se revelem materialmente impossíveis ou que comprometam a rendibilidade do empreendimento») está certo.",
+   "Os alteradores DL 128/2014, DL 186/2015, DL 80/2017 e DL 76/2024 alteram o DL 39/2008 (e o DL 128/2014), não os artigos do próprio DL 15/2014; verifiquei no acervo que nenhum deles contém instrução sobre os arts. 1.º, 3.º a 7.º do original. Sem reparo quanto a isso."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:656845:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:685043:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:694207:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

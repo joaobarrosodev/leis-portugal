@@ -72,7 +72,7 @@ c) Em terceiro lugar, no caso de igualdade de valorização profissional, segund
 
 7. O Ministro da Educação Nacional poderá sempre determinar a cessação, no fim do ano escolar, do exercício dos professores.
 
-2.º - (Revogado.)
+Art. 2.º - (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 634/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/634-1976-430867), publicado em 1976-07-28.
 

@@ -4,7 +4,7 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "Art. 3.º - 1. A circunscrição médico-legal com sede em Lisboa compreende o distrito judicial de Évora.\n\n2. Nas comarcas cujos tribunais são constituídos por mais de um juízo, é de três ou mais o número de peritos a que se refere o artigo 1.º do [Decreto-Lei n.º 42216](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42216-1959-585840), de 15 de Abril de 1959; nas restantes comarcas e nos julgados municipais, esse número é de dois ou três.",
-    "depois": "3.º - (Revogado.)",
+    "depois": "Art. 3.º - (Revogado.)",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

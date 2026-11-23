@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:108010873:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Única diferença: a norma de entrada em vigor (artigo 5.º da Lei 77/2017, que no original está dentro do corpo do Artigo 3.º) passa de «180 dias após a sua publicação» para «a 1 de janeiro de 2018», como manda o artigo 322.º da Lei n.º 114/2017. O resto é igual ao original (a linha em branco final não conta).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 12/2019: altera artigos 1.º a 15.º e aditamentos ao Decreto-Lei n.º 96/2013",
+    "motivo": "Instrução de outro diploma (DL 96/2013); confirmado no texto do alterador"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 32/2020: altera artigos do DL 96/2013 e revoga o artigo 4.º do DL 12/2019",
+    "motivo": "Instruções de outros diplomas; confirmado no texto do alterador"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

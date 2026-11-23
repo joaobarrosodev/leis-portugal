@@ -1,0 +1,237 @@
+[
+ {
+  "id": "pt:dre:312209:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Aditamento do n.º 3 (DL 529/76) e do n.º 4 (DL 249/82), letra a letra; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:404106:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Texto do artigo igual ao original; as fórmulas finais da lei original passaram para depois do novo artigo 40.º, que é o último.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Artigo novo aditado pela Lei 4-A/93, n.os 1 e 2 letra a letra, seguido das fórmulas finais do original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:405299:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo 2.º do DLR 35/2003/A dá nova redação ao artigo 4.º: (euro) 95000000, igual no consolidado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 35/2003/A, art. 1.º: alteração dos mapas I, II, III, IV, V (e IX) em anexo ao original",
+    "motivo": "Confirmado no diploma que altera: os mapas novos só vêm em imagem («ver mapa no documento original»), e a lista dos artigos do consolidado não tem nenhum anexo ou mapa com título onde os pôr."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:438049:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 5/2004, art. 127.º n.º 1 al. a): revoga a Lei n.º 91/97, com a redação do artigo 1.º da Lei n.º 29/2002, salvo n.os 2 e 3 do artigo 12.º",
+    "motivo": "Confirmado no texto: o que se revoga é a Lei 91/97 (outro diploma), a referência ao artigo 1.º da Lei 29/2002 só indica a redação dessa lei; não revoga o artigo 1.º do original. As restantes alíneas e os n.os 3 e 4 visam outros diplomas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:448521:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 371/98, art. 1.º, n.os 1 a 3 letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 371/98, art. 1.º, n.os 1 a 3 letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 418/78: nova alínea a) e renumeração das alíneas seguintes (a) a g)), proémio mantido («Art. 8.º ...»), letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 371/98, art. 2.º: o quadro de pessoal passa a ser o do mapa anexo",
+    "motivo": "Confirmado: o mapa só vem em imagem («ver quadro no documento original») e a lista dos artigos do consolidado não tem anexo/mapa com título onde o pôr."
+   },
+   {
+    "instrucao": "Portaria 297/99: nova redação do artigo 6.º",
+    "motivo": "Confirmado no texto: a redação visa o artigo 6.º da Portaria n.º 80/78, outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:453226:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do DR 35/84: «1983» passa a «1984» e alíneas a) a d) mantidas («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "A nova redação («1984») está certa, mas o consolidado perdeu a linha «Determinação da matéria colectável» que o original tem a seguir ao artigo (epígrafe da secção seguinte, que a instrução não toca).",
+    "texto_esperado": "O imposto é devido pelas empresas singulares ou colectivas, designadamente sociedades, cooperativas e empresas públicas, sujeitas a contribuição industrial, grupos A e B, embora dela isentas, nomeadamente nos termos do artigo 15.º do Código da Contribuição Industrial, que suportem durante o exercício de 1984 as despesas referidas no artigo 1.º\n\nDeterminação da matéria colectável"
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação letra a letra; n.os 2 e 3 mantidos («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "errado",
+    "motivo": "A nova redação («1989») está certa, mas o consolidado perdeu a linha «Cobrança» que o original tem a seguir ao artigo e que a instrução não toca.",
+    "texto_esperado": "Só poderá ser liquidado imposto até 31 de Dezembro de 1989.\n\nCobrança"
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "errado",
+    "motivo": "A nova redação («1989») está certa, mas o consolidado perdeu a linha «Reclamações e recursos» que o original tem a seguir ao artigo e que a instrução não toca.",
+    "texto_esperado": "Os contribuintes deverão conservar em boa ordem até 31 de Dezembro de 1989 as relações a que se refere o n.º 2 do artigo 3.º\n\nReclamações e recursos"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:478240:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 25-bis",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo Decreto do Governo 52/84: texto português letra a letra (o original só tem a tradução portuguesa).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 48399, artigo único: aprovação dos textos em francês e da tradução dos Anexos 1 a 5 da Convenção (texto corrido em francês e português, só os modelos em imagem); o consolidado não os traz, alvo incerto: o original não tem anexo com título onde os pôr, mas o texto novo não é só imagem"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:488485:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 3.º: n.os 1 e 5 com a nova redação letra a letra; restantes números mantidos («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 3.º: n.os 1 e 7 com a nova redação letra a letra; restantes números mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 1.º: alínea a) do n.º 2 com a nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #2",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 1.º: n.º 3 reescrito, aditados n.os 4 e 5, letra a letra; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 1.º: n.os 1 a 3 novos, n.º 4 é o anterior n.º 3 renumerado, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º-A",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 1.º: alínea b) do n.º 2 alterada e aditada a alínea o), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 1.º: n.º 1 com a nova redação; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º-A",
+    "veredicto": "certo",
+    "motivo": "Lei 8/2010, art. 2.º: artigo novo, epígrafe e n.os 1 e 2 letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 36/2020, arts. 1.º e 2.º: suspensão dos prazos de caducidade dos contratos de trabalho",
+    "motivo": "Confirmado no texto: suspensão de prazos, não é textual, não dá redação nova a nenhum artigo do original."
+   },
+   {
+    "instrucao": "Declaração de Retificação 685/2025/2: retifica o Edital n.º 1197/2025",
+    "motivo": "Confirmado no texto: retifica um edital (outro diploma); o Decreto-Lei 205/2009 só é referido no texto do edital."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

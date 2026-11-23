@@ -1,0 +1,40 @@
+[
+ {
+  "id": "pt:dre:411871:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Instruções de DL 267/2001 (arts. 1.º a 5.º) bem aplicadas: arts. 1.º, 2.º, 3.º, 4.º, 5.º, 11.º, 12.º do DL 33/2000 (os '...' mantêm n.º 1 do art. 1.º, n.º 2 do art. 1.º, n.º 1 do art. 5.º e n.os 1 a 3 do art. 11.º; o n.º 2 do art. 3.º e o n.º 5 do art. 5.º desaparecem porque o artigo é substituído por inteiro), aditado o art. 8.º-A, revogados os arts. 9.º e 10.º; nos Estatutos, alterados 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 19.º, 20.º, 22.º, 23.º e revogados 15.º, 16.º, 17.º, 18.º, 21.º. Os arts. 6.º e 7.º do DL 33/2000 revogados pelo DL 30/2001, art. 5.º (confirmado no acervo). Sem retificação nem revogação adicional nas relationships nem no acervo.",
+   "DUVIDA (política inconsistente corpo do DL 267/2001 vs. republicação em anexo, art. 7.º): o consolidado segue o texto do corpo do decreto nos Estatutos, mas as diferenças do anexo (republicação 'na íntegra') ficam por decidir: Estatutos art. 4.º, al. e): corpo 'entidades públicas e privadas', anexo 'entidades públicas ou privadas' (consolidado: 'e'); art. 6.º, n.º 5: corpo 'pelo seu valor nominal', anexo 'pelo valor nominal' (consolidado: 'seu'); art. 13.º, n.º 1: corpo 'da sociedade', anexo 'da Sociedade' (consolidado: minúscula); art. 14.º, n.º 1: corpo 'pelo seu presidente, ou por um administrador', anexo 'pelo seu presidente ou por um administrador' (consolidado: com vírgula).",
+   "Em sentido inverso, o consolidado segue o anexo (e não o corpo) em alterações que NENHUMA instrução do DL 267/2001 nem do DL 30/2001 manda fazer: art. 8.º do DL 33/2000 (n.º 1 deixa 'quaisquer funções' -> 'funções'; n.º 2, al. b) 'e do docente do ensino superior politécnico' -> 'e docente do ensino superior politécnico'); Estatutos art. 3.º ('referido campeonato' -> 'referido Campeonato' e 'Union des Associations Européennes de Football (UEFA)' -> 'UEFA'; o art. 3.º não consta da lista do art. 4.º do DL 267/2001); epígrafe do Capítulo II ('Objecto social e atribuições' -> 'Objecto social') e das secções (I, II, III). São alterações de forma (salvo a al. e) do art. 4.º, 'e' vs 'ou', e a eliminação de 'quaisquer', que têm algum alcance), mas o critério (corpo vs. anexo) devia ser uniforme; não consigo decidir sem a versão do DR/pdf.",
+   "Nada nas justificações: o verificador não deu nada por justificado."
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "Estatutos, art. 1.º n.º 2 e art. 23.º, na redacção do DL 267/2001: a sociedade tem duração até 31-12-2004, dissolve-se pelo decurso do prazo e a liquidação devia estar encerrada até 1-7-2005; DL 30/2001, art. 4.º limita os efeitos a 31-12-2004. Metadados do acervo ainda dão legal_status in_force."
+  }
+ },
+ {
+  "id": "pt:dre:419650:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Art. 5.º, n.º 1 (deputados à Assembleia Legislativa Regional; 'deduzida a percentagem de 3,5%') e n.os 2, 3, 4 mantidos ('...'): consolidado correcto.",
+   "Art. 6.º: o DLR 18/94/A substitui o artigo por um só n.º 1 (critério de atribuição de ajudas de custo fixado por deliberação da Assembleia Legislativa Regional), sem '2 - ...', ao contrário do art. 5.º onde os '...' mantêm os n.os 2 a 4. Logo o n.º 2 original (factor correctivo na contagem dos dias) fica de facto eliminado; leitura coerente com o considerando sobre os 'desajustamentos no actual sistema de ajudas de custo'. Consolidado (apenas n.º 1) correcto.",
+   "Sem corrected_by nem repealed_by nas relationships; as relationships têm apenas o DLR 18/94/A como alterador (duplicado na lista do verificador); DLR 3/89/A só cita o 10/87/A (exclui-o do âmbito), não o altera. Nada justificado pelo verificador."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:444431:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "O art. 1.º consolidado reproduz exactamente o texto do DLR 1/86/M (31-12-1986 e 31-12-1989 para a al. a); 31-12-1991 para a al. b)). Tal como no texto do verificador, esta é a leitura literal do alterador.",
+   "DUVIDA 1 (retificação não aplicada): as relationships do DLR 1/86/M têm corrected_by pt:dre:168069:por, 'Rectificado pela DECL.DD45 de 29.10.01.1986 PCM, DR I [26-1.º supl.] de 31.01.1986'. Essa declaração de rectificação não está nos diplomas que alteram nem no acervo (grep do id e pasta de retificações sem 1986), e o seu texto não foi dado ao verificador; não se pode excluir que corrija os prazos do art. 1.º ou outra parte do 1/86/M.",
+   "DUVIDA 2 (cadeia de alterações a jusante): o DLR 23/85/M (DR 31-12-1985, 7.º supl.; id pt:dre:546466; mesmo aprovado em 17-12-1985 e assinado em 23-12-1985 e mesmo texto do 1/86/M, ou seja, o 1/86/M parece ser nova publicação do mesmo acto) também 'prorroga' os prazos do DLR 17/83/M, e foi alterado pelo DLR 1/87/M (DR 10-01-1987), cujo art. 1.º fixa os prazos em 30-04-1987 e 30-04-1990 (al. a) e 30-04-1992 (al. b). O acervo mostra o art. 1.º do 23/85/M já com esses prazos de abril. Se o 23/85/M e o 1/86/M são o mesmo acto, o art. 1.º do DLR 17/83/M (que o consolidado dá com prazos de 31 de Dezembro) deveria reflectir a cadeia e ficar 30-04-1987, 30-04-1990 e 30-04-1992; se são actos distintos, o 23/85/M também devia constar dos alteradores do 17/83/M (as relationships só têm o 1/86/M). Não consigo decidir; o DLR 1/87/M não aponta ao 17/83/M nem ao 1/86/M, só ao 23/85/M.",
+   "Arts. 2.º e 3.º do 17/83/M iguais ao original e não tocados por nenhuma instrução (o art. 2.º do 1/86/M é só revogação de legislação em contrário). Nada justificado pelo verificador."
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "Os prazos de remição de colonia (a última prorrogação, DLR 1/86/M ou, segundo o DLR 1/87/M, 30-04-1992) expiraram há décadas; o diploma é de prorrogação de prazos já esgotados."
+  }
+ }
+]

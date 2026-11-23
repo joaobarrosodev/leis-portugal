@@ -1,0 +1,209 @@
+[
+ {
+  "id": "pt:dre:240826:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "dúvida",
+    "motivo": "DL 11/2008, art. 46.º revoga o DL 190/92 'com excepção da alínea b) do n.º 2 e n.os 3 e 4 do artigo 4.º'. Consolidado: n.º 1 '(Revogado.)', al. a) '(Revogada.)', mantidos o corpo do n.º 2 (proémio), al. b), n.os 3 e 4 com o texto original. A manutenção do proémio do n.º 2 é interpretação razoável (a al. b) não tem sentido sem ele, e o n.º 3 remete para as alíneas do n.º 2), mas a letra da exceção só ressalva a al. b); se o proémio também devesse cair, o n.º 2 seria '(Revogado.)' com a al. b) mantida. Restante conforme.",
+    "texto_esperado": "Se o proémio do n.º 2 se mantiver: igual ao consolidado. Leitura estrita: 1 - (Revogado.); 2 - (proémio revogado) b) <texto original>; 3 e 4 originais."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado na totalidade pelo art. 46.º do DL 11/2008 (revoga o DL 190/92, salvo a al. b) do n.º 2 e os n.os 3 e 4 do art. 4.º); consolidado '(Revogado.)' com epígrafe mantida. O bloco final 'Visto e aprovado… Referendado…' é a assinatura do diploma, não texto do artigo, e mantém-se.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (preâmbulo igual; o n.º 2 e 3 do art. 17.º revogados pelo DL 328/93, art. 78.º x), ficam absorvidos pela revogação total do art. 17.º)"
+ },
+ {
+  "id": "pt:dre:279456:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 203/85, art. 4.º, dá nova redação ao art. 1.º: n.º 1 com 'enfermeiros e paramédicos' (restante texto original) e novo n.º 2 sobre os mapas n.º 1 e n.º 3. O consolidado coincide letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: rectificação do mapa n.º 3 (escalonamento 1979 e 1981: '3' para '8', '5' e '1')",
+    "motivo": "O mapa n.º 3 do original só existe em imagem; o consolidado não tem anexo com título onde aplicar a rectificação (não consta dos artigos do original nem do consolidado na vista)."
+   },
+   {
+    "instrucao": "DL 203/85, art. 4.º, n.º 2: substituição dos mapas n.º 1 e n.º 3 pelos anexos ao alterador",
+    "motivo": "Os mapas do alterador só vêm em imagem (ver documento original) e o consolidado não tem anexo com título onde os pôr; o n.º 2 fica no art. 1.º como texto do alterador."
+   },
+   {
+    "instrucao": "DL 203/85, arts. 1.º a 3.º e 5.º (criação da classe de enfermeiros e paramédicos, subclasses, compensação de encargos, produção de efeitos desde 1/10/1983)",
+    "motivo": "Normas autónomas que não alteram artigos do original (não textual)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "id": "pt:dre:616627:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "O original não tem artigos; o preâmbulo do consolidado é o texto do original até «o Governo decreta o seguinte:»."
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Artigo extraído do texto corrido do original; texto igual, só muda «Art. N.º - 1 -» para título e «1 -». Nenhuma instrução o altera textualmente."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 121/2008 (mapa VIII): revoga o DR 22/91 com excepção do n.º 3 do art. 5.º e das disposições relativas às categorias subsistentes",
+    "motivo": "O diploma que altera não traz o texto da alteração: o texto do DL 121/2008 vem vazio na vista, por isso a instrução nem sequer é verificável; além disso a revogação é parcial («categorias subsistentes») sem artigos identificados."
+   },
+   {
+    "instrucao": "DL 118/2012, art. 7.º c): revoga o DR 22/91 «na parte respeitante aos cargos do pessoal especializado, sem prejuízo do disposto no artigo anterior»",
+    "motivo": "Confirmado no texto: o art. 6.º mantém essa parte em vigor «até ao termo das comissões de serviço em curso» (efeito adiado para um facto futuro) e a revogação é por matéria, sem indicar artigos (equivale a revogação condicional, «na parte respeitante»), pelo que não há texto a retirar."
+   },
+   {
+    "instrucao": "DL 118/2012, art. 6.º: mantém-se em vigor, até ao termo das comissões de serviço em curso, a parte do DR 22/91 aplicável aos cargos do pessoal especializado",
+    "motivo": "Não é textual (manutenção em vigor/norma transitória), não altera o texto do original."
+   },
+   {
+    "instrucao": "DL 118/2012, arts. 2.º a 4.º e 8.º (alterações ao DL 127/2010 e DL 165-B/2009; republicação)",
+    "motivo": "Instruções de outros diplomas; não visam o DR 22/91."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:642526:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 30/2011: «É alterado, mantendo a natureza de entidade pública empresarial, o Centro Hospitalar do Porto ... criado pelo Decreto-Lei n.º 326/2007», por fusão (com o Hospital Joaquim Urbano)",
+    "motivo": "Não é textual: muda a entidade por fusão, sem nova redação, aditamento ou revogação de artigo do DL 326/2007. Citação confirmada na vista (texto do alterador omitido, só o trecho citado está visível)."
+   },
+   {
+    "instrucao": "DL 68/2013: transferência de competências do INSA, I. P., para o Centro Hospitalar do Porto, E. P. E.",
+    "motivo": "Não é textual; sem instrução de alteração do DL 326/2007. Só o resumo da triagem está visível (texto do alterador omitido), não verificável de outra forma."
+   },
+   {
+    "instrucao": "DL 102/2023: art. 1.º n.º 1 (reestruturação de entidades em ULS, incluindo a alínea d) Centro Hospitalar do Tâmega e Sousa e a alínea k) CH Universitário de Santo António), art. 7.º (extinções) e art. 19.º (revogações)",
+    "motivo": "Confirmado no texto: o art. 19.º só revoga normas dos DL 318/2009 e 52/2022; o DL 326/2007 não é citado em todo o diploma. A reestruturação/mudança de designação em ULS não tem nova redação para o original (não textual)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:667892:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "DL 15/2008, art. 1.º: a Base XLVIII (Datas de entrada em serviço) das bases da concessão aprovadas pelo DL 167-A/2002 passa a ter a redação: «1 - ... a) Até 30 de Abril de 2007, entrada em serviço do troço entre Corroios e a Cova da Piedade; b) Até 15 de Dezembro de 2007, ... Corroios e a Universidade; c) Até 27 de Novembro de 2008, ... demais troços da 1.ª fase do MST. 2 - Todas as referências nas presentes bases à entrada em serviço do MST devem considerar-se referidas às entradas parcelares ... »",
+    "motivo": "Sem efeito no consolidado (igual ao original). O alvo é conhecido (Base XLVIII das bases em anexo ao DL 167-A/2002) e o texto novo é integral; o consolidador diz que o anexo I tem o corpo vazio e que a base não consta (não verificável na vista, que só lista o ANEXO I e capítulos como iguais). «Alvo incerto» não é justificação."
+   }
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "RCM n.º 167/2008, ponto 1: substitui o anexo da RCM n.º 14/2008",
+    "motivo": "Instrução de outro diploma; o DL 167-A/2002 só é referido como aprovador das bases. Texto do alterador omitido na vista, só a triagem é visível."
+   },
+   {
+    "instrucao": "DL 15/2008, art. 2.º (autoriza a outorga do aditamento ao contrato de concessão) e art. 3.º (entrada em vigor)",
+    "motivo": "Não são textuais: não alteram o texto do original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": "pt:dre:324279:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Revogação em falta: a Resolução do Conselho de Ministros n.º 117/2007 (pt:dre:640890:por, DR 162, 23-08-2007), n.º 4 da parte dispositiva, manda «Revogar os artigos 10.º, 11.º, 12.º, 13.º, 14.º, 17.º e 19.º do Decreto Regulamentar n.º 10/2000, de 22 de Agosto, na redacção dada pelo Decreto Regulamentar n.º 4/2004, de 29 de Março». O verificador só viu o Regulamento anexo (art. 2.º do PORNLSAS) e deu a RCM por não textual, mas o n.º 4 da resolução é uma revogação expressa de artigos deste diploma. As relações do registo dizem o mesmo (repealed_by: «Revogados os arts. 10º, 11º, 12º, 13º, 14º, 17º e 19º, na redacção do DR 4/2004, pela RES.117/2007»).",
+   "Consequência no consolidado: os artigos 10.º (com a redacção do DR 4/2004: n.º 1 h) e novo n.º 2), 12.º (alínea c) do DR 4/2004), 19.º (coimas em euros do DR 4/2004) e ainda os artigos 11.º, 13.º, 14.º e 17.º (hoje iguais ao original) devem constar como «(Revogado.)». Estão todos com texto em vigor.",
+   "As alterações do DR 4/2004 aos arts. 6.º, 8.º, 10.º, 12.º, 19.º e aos anexos I e II estão bem aplicadas (arts. 6.º, 10.º, 12.º, 19.º e anexo I conferem com o texto do alterador; arts. 5.º b), 8.º e 9.º ficam «(Revogado.)» bem, pelo art. 3.º n) do DL 78/2015). Só falta a revogação da RCM 117/2007."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:374669:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:405299:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:411804:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

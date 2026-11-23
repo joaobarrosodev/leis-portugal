@@ -1,0 +1,176 @@
+[
+ {
+  "id": "pt:dre:630671:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "errado",
+    "motivo": "Art. 4.º n.º 1 revogado (art. 15.º do alterador), mas o consolidado deixou «1 - (Revogado.)» sem o marcador «Art. 4.º - »; o n.º 2 que se segue fica sem artigo.",
+    "texto_esperado": "Art. 4.º - 1 - (Revogado.)"
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º revogado por inteiro (n.os 1 e 2 substituídos por «(Revogado.)»). Nota de formato: ficou «7.º - (Revogado.)» sem «Art.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º n.os 2 e 3 revogados: «2 - (Revogado.)» e «3 - (Revogado.)»; n.º 1 fica.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:140331:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 4 e 6 iguais à redação dada pelo art. 3.º do alterador; n.os 1, 2, 3 e 5 mantêm-se.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 1.º n.º 1 do alterador (núcleo de técnicos do n.º 1 do art. 5.º do original acrescido de lugares): o artigo 5.º consta da lista dos IGUAIS e o seu texto não está na vista, pelo que a justificação do consolidador (totais só em imagem) não é confirmável; sem efeito no consolidado.",
+   "Art. 2.º do alterador (Serviço do Contencioso e Notariado do art. 4.º «passa a ser constituído por» chefe de divisão, técnico de 1.ª classe assessor e dois técnicos de 2.ª classe): o artigo 4.º consta da lista dos IGUAIS e o seu texto não está na vista; a justificação não é confirmável; sem efeito no consolidado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 1.º n.º 2 do alterador (incumbências dos técnicos do núcleo)",
+    "motivo": "É norma autónoma do alterador, sem fórmula de alteração nem nova redação do n.º 2 do art. 5.º do original; confirmado no texto do alterador."
+   },
+   {
+    "instrucao": "Art. 4.º do alterador (quadro dos serviços actuariais acrescido de lugares)",
+    "motivo": "Quadro de pessoal de outro diploma (serviços actuariais remodelados pelo DL 47754, segundo o preâmbulo do alterador), sem texto de alteração do original; confirmado no alterador."
+   },
+   {
+    "instrucao": "Art. 5.º do alterador (quadro do Serviço de Inquéritos Habitacionais acrescido; n.º 2 manda aplicar o original)",
+    "motivo": "O quadro é o do serviço criado pelo DL 44020 (outro diploma) e o n.º 2 apenas manda aplicar o original; sem nova redação; confirmado no alterador."
+   },
+   {
+    "instrucao": "Art. 6.º do alterador (encargos suportados pelo Fundo Nacional do Abono de Família)",
+    "motivo": "Norma própria do alterador, sem alteração textual do original; confirmado no alterador."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:140540:por",
+  "artigos": [
+   {
+    "artigo": "Artigo único",
+    "veredicto": "dúvida",
+    "motivo": "O Decreto-Lei n.º 167/2014 (art. 15.º n.º 1 c)) revoga o DL 44322 «na parte respeitante às OGME»; como o artigo único só trata do quadro orgânico das OGME, o corpo «(Revogado.)» parece correto, mas a fórmula é por matéria e não literal. Ficam também a seguir ao «(Revogado.)» o fecho do diploma e o «MAPA IV / Quadro orgânico» (imagem antiga); se a política for revogar também o mapa, está errado.",
+    "texto_esperado": "(Revogado.) no corpo do artigo único; a decidir se o MAPA IV e a imagem se mantêm."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48283, arts. 1.º e 2.º (lugares do mapa IV preenchidos transitoriamente; quadro orgânico aumentado com um capitão e dois subalternos)",
+    "motivo": "Incidem sobre o mapa IV, que só existe como imagem; o alterador não traz a tabela nem imagem nova. Confirmado na vista."
+   },
+   {
+    "instrucao": "Portaria 642-E/78, n.º 1.º (novas designações do pessoal civil no quadro do mapa IV)",
+    "motivo": "O texto novo só vem em imagem (ligação a PDF no alterador) e o consolidado não tem anexo com título onde a pôr: o mapa IV é só um parágrafo dentro do artigo único. Nota: há uma linha «MAPA IV»; se se entender que é título de anexo, a imagem do alterador deveria ter sido acrescentada."
+   },
+   {
+    "instrucao": "Portaria 642-E/78, n.os 2.º e 3.º (escalão e efeitos desde 1/1/1978)",
+    "motivo": "Normas não textuais (atribuição de escalões, produção de efeitos); sem texto a inserir no original."
+   },
+   {
+    "instrucao": "DL 167/2014, art. 15.º n.º 1 a), b), d), e) (revogação de outros diplomas)",
+    "motivo": "Instruções de outros diplomas; só a alínea c) visa o DL 44322."
+   },
+   {
+    "instrucao": "DL 167/2014, art. 15.º n.º 2 (revogação genérica de diplomas que regulem conteúdos orgânicos das OGFE e OGME)",
+    "motivo": "Revogação genérica e indeterminada, sem alvo nomeado; o DL 44322 já fica coberto pela alínea c) do n.º 1."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:140559:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "errado",
+    "motivo": "A declaração de retificação manda ler «Promulgado em 5 de Abril de 1991» e «Referendado em 5 de Abril de 1991» no lugar das linhas com 4 de Abril. O consolidado acrescentou as linhas novas junto ao corpo do artigo e deixou as antigas («Promulgado em 4 de Abril...» e «Referendado em 4 de Abril...»), pelo que as datas surgem duplicadas.",
+    "texto_esperado": "O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Courceiro Pizarro Beleza.\n\nPromulgado em 5 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Abril de 1991.\n\nO Primeiro-Ministro, Anbíbal António Cavaco Silva."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Retificação das linhas «Promulgado em 4 de Abril de 1991» e «Referendado em 4 de Abril de 1991» para 5 de Abril: aplicada só como aditamento em local errado; as linhas antigas não foram substituídas."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:176283:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 449/72 introduz n.º 2 e renumera 2-4 para 3-5; DL 614/73 reescreve n.os 1 e 2 (substitui o n.º 2 introduzido), adita n.os 5 e 6 e o antigo n.º 5 passa a 7. Resultado: n.º 1 e 2 do DL 614, 3 e 4 antigos n.os 2 e 3, 5 e 6 novos, 7 antigo n.º 4; igual ao consolidado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "n.os 3 e 4 com «por cada período da sessão legislativa» (DL 449/72); novo n.º 5 e antigo n.º 5 passa a n.º 6 (DL 614/73, texto «parte finas» como no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com «2000$00 mensais» como no DL 614/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1, 2 e 3 iguais à redação do DL 614/73.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:220144:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Corpo do artigo 1.º substituído pela redação do DLR 3/97/M (que prevalece sobre a do DLR 16/90/M); § único mantém-se, como pedem ambos os alterados («corpo do artigo»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 3/97/M, art. 3.º (referências à Secretaria Regional da Economia e à Direcção de Serviços de Fiscalização Económica consideram-se reportadas aos novos serviços)",
+    "motivo": "Norma interpretativa de mudança de designação, sem nova redação de texto; confirmado no alterador."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

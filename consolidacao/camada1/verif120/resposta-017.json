@@ -1,0 +1,107 @@
+[
+ {
+  "id": "pt:dre:694207:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DR 2/2005, art. 1.º: alíneas a) a e) com a nova redação, igual letra a letra."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 78/2015, art. 3.º, g): alínea b) revogada; «b) (Revogada.)»."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DR 2/2005: n.º 2 e n.º 3 novos (44 dias úteis, Câmaras de Golegã e Torres Novas); antigos n.os 5, 6 e 7 passam a 4, 5 e 6; o alterador não reproduz os antigos n.os 3, 4 e 8, que deixam de constar. Consolidado coincide."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 78/2015, art. 3.º, g)"
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 78/2015, art. 3.º, g)"
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 21.º da RCM 50/2008 (arts. 10.º, 11.º, 12.º, 13.º e 16.º)"
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 21.º da RCM 50/2008 (arts. 10.º, 11.º, 12.º, 13.º e 16.º)"
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 21.º da RCM 50/2008 (arts. 10.º, 11.º, 12.º, 13.º e 16.º)"
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 21.º da RCM 50/2008 (arts. 10.º, 11.º, 12.º, 13.º e 16.º)"
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 21.º da RCM 50/2008 (arts. 10.º, 11.º, 12.º, 13.º e 16.º)"
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "DR 2/2005, arts. 2.º e 3.º: anexo I substituído pelo do alterador, texto igual (verificado por comparação)."
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "Anexo II em imagem substituído pela imagem do anexo II do DR 2/2005 (25702572.pdf); título igual ao do alterador."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:179344:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 533/99, art. 5.º: revogado o artigo 3.º do DL 355/85; consolidado «3.º - (Revogado.)» (sem o prefixo «Art.», diferença só de forma)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (os textos de DL 38/2003, DL 116/2008, Lei 29/2009, Lei 23/2013 e DL 125/2013 vêm vazios na vista; não verificável)",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: retificação dos arts. 87.º n.º 2 e), 92.º n.º 4, 101.º n.º 3, 119.º n.º 4 e 151.º n.º 1 (do artigo 1.º do DL 355/85)",
+    "motivo": "O diploma que altera não traz o texto da alteração: os blocos «onde se lê» e «deve ler-se» vêm iguais, só com «[...]», não se vê o que muda."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:265129:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 634/76, art. 8.º: revogado o artigo 2.º do DL 48546; consolidado «2.º - (Revogado.)»."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

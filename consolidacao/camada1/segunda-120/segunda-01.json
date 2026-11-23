@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pt:dre:179344:por",
+    "veredicto": "duvida",
+    "problemas": [
+      "Declaração de 23/09/1985 (corrected_by, pt:dre:168603), que rectifica os arts. 87.º n.º 2 e), 92.º n.º 4, 101.º n.º 3, 119.º n.º 4 e 151.º n.º 1 do artigo 1.º do DL 355/85, não está aplicada e o texto dela não permite ver o que muda: nos blocos «onde se lê» e «deve ler-se» o conteúdo vem igual (só «[...]»), o que parece perda de formatação/diferença na fonte e não ausência de rectificação. Não consigo decidir qual o texto certo sem o PDF do DR (1.ª série, n.º 225, 3.º Supl., 30-09-1985). Pista fraca: o art. 119.º n.º 4 do original e do consolidado diz «certidão de facto» e a versão do CRP anterior ao DL 355/85 e o texto posterior (DL 533/99) dizem «certidão do facto», pelo que a rectificação pode ser essa (de facto -> do facto); os outros quatro pontos não dá para inferir. O verificador deu a instrução por justificada por esta razão (não visível), o que mantém a dúvida: é uma rectificação real que muda texto do original e ficou por aplicar.",
+      "Restantes alteradores: o DL 533/99 (art. 5.º) revoga o art. 3.º do DL 355/85 e está bem aplicado (consolidado «3.º - (Revogado.)»). DL 30/93, 323/2001, 38/2003, 116/2008, Lei 29/2009, Lei 23/2013 e DL 125/2013 alteram artigos do Código do Registo Predial «na redacção do presente diploma», não o texto do DL 355/85; o art. 2.º do DL 355/85 (norma transitória) e o art. 4.º não têm revogação nem alteração. Nada a apontar quanto a isso."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:189511:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:302093:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Art. 4.º (redação do DL 72/2014, art. 2.º): a instrução manda dar nova redação ao artigo com as alíneas a), b) e c) como «[...];» e uma alínea d) nova. No consolidado a alínea c) ficou com o ponto final do original («...programas de modernização administrativa.») e a alínea d) vem a seguir; o texto certo, como na republicação em anexo ao DL 72/2014, termina a alínea c) com ponto e vírgula: «c) Assegurar a coordenação das participações dos respectivos ministérios nos programas de modernização administrativa;». Erro de pontuação, sem efeito de fundo.",
+      "Resto conferido sem reparos: arts. 2.º, 3.º, 5.º, 5.º-A, 5.º-B, 6.º, 7.º, 8.º e 10.º coincidem com o DL 72/2014 (art. 2.º e 3.º) e com a republicação; art. 9.º inalterado; anexo revogado (art. 6.º do DL 72/2014). As justificações aceites (arts. 4.º e 5.º do DL 72/2014: prazos de regulamentação e articulação com o GPTIC) são de facto normas autónomas que não mudam o texto do DL 4/97. Não há relações repealed_by nem corrected_by no registo; a Declaração de Retificação 30/2014 é do DL 73/2014 e não toca este diploma."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:312209:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  }
+]

@@ -1,0 +1,125 @@
+[
+ {
+  "id": "pt:dre:550587:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 33/96, art. 18.º n.º 1 b): revoga os artigos 4.º e 8.º do Decreto-Lei n.º 428/89 (com n.º 3: efeitos condicionados à publicação da resolução do Conselho de Ministros que determine o vencedor do concurso do n.º 1 do art. 2.º)",
+    "motivo": "Confirmado no n.º 3 do art. 18.º do alterador: os efeitos da revogação das alíneas a) e b) do n.º 1 ficam condicionados a facto futuro (resolução do Conselho de Ministros que determine o vencedor do concurso). Efeito adiado; os arts. 4.º e 8.º ficam como no original (consolidado igual ao original, 0 trechos a diferir)."
+   },
+   {
+    "instrucao": "DL 33/96, art. 18.º n.º 4 (dever do órgão de administração do Banco adaptar as actividades do art. 4.º do DL 428/89 no prazo de um ano após a revogação produzir efeitos)",
+    "motivo": "Não é textual: obrigação de adaptação dependente do facto futuro do n.º 3; não dá nova redação ao original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:556814:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Igual ao preâmbulo do original até «o seguinte:»; o resto do texto corrido passou para os artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 45839, art. 6.º revoga o art. 2.º do DL 43485: epígrafe/título mantido e corpo «(Revogado.)» com nota; correto.",
+    "texto_esperado": "(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao do original; o original vem inteiro em texto corrido e o consolidado separa-o em artigos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 93/72, art. 1.º: acrescenta ao quadro do pessoal do Aeroporto da Madeira (art. 4.º do DL 43485) os lugares constantes do mapa anexo (imagem https://files.diariodarepublica.pt/1s/1972/03/06600/03360336.pdf). Sem efeito no consolidado: o art. 8.º do consolidado termina com o título «Mapa a que se refere o artigo 4.º do presente diploma» e só traz a imagem do original (https://files.diariodarepublica.pt/1s/1961/01/02100/00830084.pdf), sem as linhas da imagem do alterador. Contrariamente ao que diz a secção, existe anexo com título onde as pôr (alteração parcial: corpo antigo + imagem do alterador)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 45839, art. 5.º § 3.º: é alterado, de harmonia com a classificação dos aeroportos, o quadro anexo ao DL 43485",
+    "motivo": "Confirmado: o alterador não traz o texto nem o mapa da alteração (só manda alterar o quadro «de harmonia com» os §§ anteriores, sem indicar lugares nem linhas); não há texto novo para aplicar."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:573307:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 825/91, n.º 1.º (1.ª ocorrência): cria no quadro de pessoal do Gabinete para os Assuntos Comunitários (n.º 1 do art. 7.º do DR 21/90) um lugar de assessor; n.º 2.º extingue-o quando vagar",
+    "motivo": "Confirmado: o quadro é o mapa anexo (só imagem no original) e a portaria não traz mapa novo nem linhas do quadro, só diz que é criado um lugar; não há texto de nova redação nem imagem do alterador a pôr. Nota: a vista não mostra o texto do consolidado, por isso não pude confirmar a ausência de título de anexo."
+   },
+   {
+    "instrucao": "Portaria 825/91, n.º 1.º (2.ª ocorrência, repetição do mesmo diploma)",
+    "motivo": "Igual à anterior: repetição da Portaria 825/91; sem mapa nem linhas novas."
+   },
+   {
+    "instrucao": "Despacho Normativo 426/93, n.º 1: cria no quadro do GAC (mapa anexo ao DR 21/90) um lugar de assessor principal, a extinguir quando vagar; n.º 2: efeitos desde 31/03/1993",
+    "motivo": "Confirmado: não traz o mapa nem linhas do quadro, só a criação de um lugar; o mapa do original só existe em imagem. Sem texto de nova redação."
+   },
+   {
+    "instrucao": "DL 296-A/95, art. 16.º n.º 5: os Gabinetes para os Assuntos Comunitários dos antigos Ministérios da Indústria e Energia e do Comércio e Turismo serão fundidos, integrando o Ministério da Economia (com art. 28.º b), extinção do Ministério da Indústria e Energia, e art. 34.º n.os 2 e 3)",
+    "motivo": "Confirmado no alterador: não dá nova redação a nenhum artigo do original; é fusão/transferência de organismos, com efeito dependente de diplomas orgânicos futuros (art. 34.º n.º 3). Não textual."
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 222/96 (alterador sem texto na vista)",
+    "motivo": "Confirmado: o texto do alterador vem vazio na vista, sem menção ao original; o diploma que altera não traz o texto da alteração."
+   },
+   {
+    "instrucao": "Portaria 1/97: cria no quadro do GAC (mapa anexo ao DR 21/90) um lugar de técnico auxiliar principal, a extinguir quando vagar",
+    "motivo": "Confirmado: não traz mapa nem linhas do quadro, só a criação de um lugar; o mapa do original é imagem. Sem texto de nova redação."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

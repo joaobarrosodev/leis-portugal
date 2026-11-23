@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:552503:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "errado",
+    "motivo": "O consolidado juntou ao ANEXO I o texto inteiro do Decreto-Lei n.º 306/2001 (n.º 1 do artigo 1.º, o anexo I reescrito, notas 1 a 14), em vez de aplicar as novas regras nos artigos CAPÍTULO I, CAPÍTULO III, CAPÍTULO IV e CAPÍTULO VII (PARTE C) do original, que ficaram iguais ao original. O texto do ANEXO I fica só com o cabeçalho do original.",
+    "texto_esperado": "## ANEXO I\n\nTexto consolidado das regras anexas à Convenção Internacional de Torremolinos para a Segurança dos Navios de Pesca, de 1977, tal como modificado pelo Protocolo de Torremolinos de 1993.\n\nRegras para a construção e equipamento de navios de pesca (igual ao original; as novas regras entram nos artigos dos capítulos I, III, IV e VII parte C)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 306/2001, art. 1.º n.º 1 al. a) e n.º 2: nova redação da regra 2, n.º 18, do capítulo I do anexo I (artigo CAPÍTULO I do consolidado ficou igual ao original)",
+   "DL 306/2001, art. 1.º n.º 1 al. b) e n.º 2: nova redação das regras do capítulo III do anexo I (regras 1 a 24 do texto novo; artigos do consolidado ficaram iguais ao original)",
+   "DL 306/2001, art. 1.º n.º 1 al. c) e n.º 2: nova redação das regras do capítulo IV do anexo I (artigos do consolidado ficaram iguais ao original)",
+   "DL 306/2001, art. 1.º n.º 1 al. d) e n.º 2: nova redação da regra 17, n.º 2, parte C do capítulo VII (artigo PARTE C #3 do consolidado ficou igual ao original)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 306/2001, art. 2.º: por «Administração do Estado de bandeira» entende-se a entidade definida no n.º 8 do artigo 2.º",
+    "motivo": "Confirmado no texto: norma interpretativa («deve entender-se»), sem texto novo para o original; não é textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

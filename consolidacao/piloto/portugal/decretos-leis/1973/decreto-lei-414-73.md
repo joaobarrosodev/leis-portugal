@@ -1076,7 +1076,7 @@ Tendo o solicitador exercido em mais de uma comarca, o juiz da comarca onde exer
 
 Art. 2.º Os mapas II e V anexos ao Estatuto Judiciário são alterados nos termos indicados no final do presente diploma.
 
-3.º - (Revogado.)
+Art. 3.º - (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), publicado em 1987-12-29.
 

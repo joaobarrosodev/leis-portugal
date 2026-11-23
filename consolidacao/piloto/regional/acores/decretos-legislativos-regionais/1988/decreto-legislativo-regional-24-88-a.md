@@ -198,7 +198,7 @@ Art. 30.º - 1 - A falta, devidamente comprovada, de qualquer dos interessados p
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
-31.º - (Revogado.)
+Art. 31.º - (Revogado.)
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 
@@ -224,7 +224,7 @@ Art. 37.º O regulamento de arbitragem previsto no artigo anterior será elabora
 
 ### CAPÍTULO VI — Disposições finais
 
-38.º - (Revogado.)
+Art. 38.º - (Revogado.)
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 29/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672), publicado em 1996-11-13.
 

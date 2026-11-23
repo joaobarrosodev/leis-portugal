@@ -1,0 +1,107 @@
+[
+ {
+  "id": "pt:dre:221167:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 4.º do DL 94/2010, texto igual (n.os 1, alíneas a) e b), e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º n.º 1 do DL 216/2004: epígrafe, proémio e alíneas a) e b) mantidos («...»), alínea c) nova igual ao texto da instrução.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º do DL 94/2010: epígrafe «Fiscalização, instrução e decisão», n.os 1 e 2 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Quadros VIII e IX e a Nota acrescentados (anexo II do DL 216/2004, art. 3.º) e quadro X (art. 5.º e anexo II do DL 94/2010) com as imagens dos próprios alteradores; o resto do anexo mantém-se. As correções que visam o texto já em imagem estão em instrucoes_em_falta.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 3-B/99: quadro II, «Acesulfame K», «200 mg/kg» para «2000 mg/kg» em complementos alimentares em xarope ou para mastigar: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar",
+   "DL 216/2004, art. 2.º n.º 2 e anexo I n.º 1 a)-e): novas designações das categorias de géneros alimentícios nos quadros do anexo: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar",
+   "DL 216/2004, anexo I n.º 2 a): quadro III, E 951 Aspártamo, nova categoria «Confeitaria - Essoblaten - 1000 mg/kg»: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar",
+   "DL 216/2004, anexo I n.º 2 b): quadro IV, E 952, dose «400 mg/l» para «250 mg/l» e supressão de categorias: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar",
+   "DL 33/2008, art. 3.º e anexo II a): na 1.ª coluna da linha E 420 a E 967 acrescentar «E 968»: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar",
+   "DL 33/2008, art. 3.º e anexo II b): na 2.ª coluna da linha E 420 a E 967 acrescentar «Eritritol»: alvo só existe em imagem no consolidado (anexo/quadros do DL 394/98 como ligação «ver quadros no documento original»); a instrução não é aplicável textualmente e não cabe numa das exceções da secção da ronda 115; fica por aplicar"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 33/2008, art. 2.º (arts. 2.º e 7.º e anexos do DL 121/98)",
+    "motivo": "Instrução de outro diploma (DL 121/98)."
+   },
+   {
+    "instrucao": "DL 94/2010, art. 2.º (anexos I, II e IV do DL 365/98)",
+    "motivo": "Instrução de outro diploma (DL 365/98)."
+   },
+   {
+    "instrucao": "DL 94/2010, art. 6.º (revoga referência aos E 230 e E 233 no anexo I do DL 365/98)",
+    "motivo": "Instrução de outro diploma (DL 365/98)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:266621:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Retificação do n.º 5: «cozinheiro-chefe» passa a «cozinheiro principal» («para as categorias de cozinheiro principal e de cozinheiro»); resto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:287975:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "errado",
+    "motivo": "O art. 6.º do DL 245/95 (nova redação do art. 3.º, estágio) está aplicado e igual ao texto. Mas o art. 4.º manda substituir o mapa I anexo ao DL 369/91 pelo mapa I do DL 245/95 e o consolidado mantém o mapa antigo com as linhas «Subdirector para a segurança» e «Subdirector para as operações».",
+    "texto_esperado": "Art. 3.º (nova redação, como está) e, no fim, o mapa I substituído: MAPA I | Pessoal dirigente | Director-geral. | Director-geral-adjunto. | Director de serviços centrais. | Director regional. | Director de área."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 245/95, art. 4.º: o mapa I anexo ao DL 369/91 é substituído pelo mapa I do DL 245/95 (Director-geral; Director-geral-adjunto; Director de serviços centrais; Director regional; Director de área, sem os dois subdirectores). Não aplicado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 245/95, art. 1.º: nova redação dos arts. 1.º, 5.º ... 58.º do DL 225/85",
+    "motivo": "Instrução de outro diploma (DL 225/85, na redação do DL 369/91)."
+   },
+   {
+    "instrucao": "DL 245/95, art. 2.º: revoga o art. 17.º do DL 225/85",
+    "motivo": "Instrução de outro diploma (DL 225/85)."
+   },
+   {
+    "instrucao": "DL 245/95, art. 3.º: referências a direcção, director e director-adjunto do SIS entendem-se como director-geral e directores-gerais-adjuntos",
+    "motivo": "Não é textual: norma interpretativa, sem texto novo para copiar."
+   },
+   {
+    "instrucao": "DL 245/95, art. 5.º e mapa II: integração segundo a tabela de equivalências",
+    "motivo": "Instrução de outro diploma: aplica-se à integração prevista nos arts. 28.º e 30.º do DL 225/85."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Mapa I (texto fora dos artigos, no fim do consolidado) não foi substituído; ver Artigo 56.º"
+ }
+]

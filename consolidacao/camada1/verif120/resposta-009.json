@@ -1,0 +1,311 @@
+[
+ {
+  "id": "pt:dre:411871:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: n.º 1 com nova redação, n.º 2 mantido (\"...\").",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: nova redação, sem n.os (o antigo n.º 2 deixa de constar).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: nova redação, igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: n.º 1 mantido, n.os 2 a 4 novos; o antigo n.º 5 não consta da nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "(Revogado.) como na republicação anexa ao DL 267/2001 (art. 7.º); a revogação não vem de instrução expressa do DL 267/2001 (vem do DL 30/2001 incorporado na republicação).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "(Revogado.) como na republicação anexa ao DL 267/2001 (art. 7.º); a revogação não vem de instrução expressa do DL 267/2001 (vem do DL 30/2001 incorporado na republicação).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao art. 8.º da republicação anexa ao DL 267/2001 (art. 7.º) (retira \"quaisquer\" e \"do docente\"); o art. 8.º não consta das instruções do DL 267/2001, a diferença vem só da republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 267/2001; \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 267/2001; \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: n.os 1 a 3 mantidos, n.º 4 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DL 267/2001: 15.º dia passa a 10.º dia.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 1.º: nova redação (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 2.º: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "Epígrafe do capítulo \"Objecto social\" só aparece na republicação anexa ao DL 267/2001 (art. 7.º) (nenhuma instrução expressa a altera).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Igual ao art. 3.º dos estatutos na republicação anexa ao DL 267/2001 (art. 7.º) (UEFA, \"Campeonato\"); o art. 3.º dos estatutos não consta da lista do art. 4.º do DL 267/2001, a diferença vem só da republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 4.º: nova redação com epígrafe nova e alíneas a) a h); \"públicas e privadas\" como na instrução (a republicação diz \"ou\").",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 5.º: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 6.º: nova redação; \"pelo seu valor nominal\" como na instrução.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 7.º: alínea c) \"Fiscal único.\"; corpo e a), b) mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I",
+    "veredicto": "certo",
+    "motivo": "Epígrafe \"Assembleia geral\" só aparece na republicação anexa ao DL 267/2001 (art. 7.º) (nenhuma instrução expressa a altera).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 8.º: nova redação, epígrafe \"Composição\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 267/2001, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 9.º: alíneas b), d), h), i), j), l) novas; a), c), e), f), g) mantidas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 10.º: n.º 1 novo, n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 11.º: nova redação (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO II",
+    "veredicto": "certo",
+    "motivo": "Epígrafe \"Conselho de administração\" só aparece na republicação anexa ao DL 267/2001 (art. 7.º) (nenhuma instrução expressa a altera).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 12.º: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 13.º: nova redação, igual letra a letra (\"sociedade\" minúscula como na instrução).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 14.º: nova redação, igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos art. 15.º revogado pelo art. 5.º do DL 267/2001; epígrafe mantida e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos art. 16.º revogado pelo art. 5.º do DL 267/2001; epígrafe mantida e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos art. 17.º revogado pelo art. 5.º do DL 267/2001; epígrafe mantida e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos art. 18.º revogado pelo art. 5.º do DL 267/2001; epígrafe mantida e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III",
+    "veredicto": "certo",
+    "motivo": "Epígrafe \"Fiscal único\" só aparece na republicação anexa ao DL 267/2001 (art. 7.º) (nenhuma instrução expressa a altera).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 19.º: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 20.º: corpo e alíneas b), c) novos, a) mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos art. 21.º revogado pelo art. 5.º do DL 267/2001; epígrafe mantida e corpo \"(Revogado.)\".",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 22.º: n.º 1 novo, n.º 2 mantido, n.º 3 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do DL 267/2001, estatutos art. 23.º: n.os 1 e 2 novos, n.º 3 mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:419650:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DLR 18/94/A: n.º 1 com nova redação, n.os 2 a 4 mantidos (\"...\").",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DLR 18/94/A: nova redação só com o n.º 1; o antigo n.º 2 não consta da nova redação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:444431:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DLR 1/86/M fixa as novas datas (a) 1986 e 1989; b) 1991): aplicadas nas alíneas; o proémio fica como no original, porque o do alterador se refere ao próprio diploma.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:446532:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo artigo único do DR 35/78: \"(Revogado.)\"; o resto do bloco (assinaturas, mapa em imagem) é igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 663/81: o quadro do pessoal de informática do Departamento Central de Planeamento é substituído pelo mapa anexo, de 1/7/1979 até à integração no quadro do DL 516/80",
+    "motivo": "O novo quadro só vem em imagem (\"Quadro anexo\" com ligação ao PDF), o consolidado não tem anexo com título onde o pôr (o mapa do original é uma linha solta no art. 5.º) e a substituição é temporária, até um facto futuro (integração do pessoal)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

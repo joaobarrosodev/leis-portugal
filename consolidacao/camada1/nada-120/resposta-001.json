@@ -1,0 +1,284 @@
+[
+ {
+  "id": "pt:dre:105711790:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Despacho n.º 5657/2017: clarifica o âmbito do artigo 9.º do DL 5/2017 e fixa procedimento de autorização",
+    "motivo": "Não é textual: esclarecimento/procedimento sem nova redação a artigo (texto do despacho omitido na vista; só consta a nota da triagem, não verificável)."
+   },
+   {
+    "instrucao": "DL 112/2019, art. 2.º a 4.º: nova redação, aditamentos e alteração do anexo I do DL 176/2006",
+    "motivo": "Instrução de outro diploma: todas visam o DL 176/2006; o DL 5/2017 só é citado no art. 1.º como alteração anterior."
+   },
+   {
+    "instrucao": "DL 112/2019, art. 6.º: revoga a alínea g) do n.º 2 do artigo 96.º do DL 176/2006",
+    "motivo": "Instrução de outro diploma (DL 176/2006)."
+   },
+   {
+    "instrucao": "DL 112/2019, art. 5.º (norma transitória) e art. 7.º (entrada em vigor)",
+    "motivo": "Não são alterações ao DL 5/2017: normas próprias do DL 112/2019."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:115017488:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 25/2025, art. 2.º: nova redação do artigo 3.º do DL 56/2006",
+    "motivo": "Instrução de outro diploma (DL 56/2006)."
+   },
+   {
+    "instrucao": "DL 25/2025, art. 3.º: nova redação do artigo 5.º do DL 216/2012",
+    "motivo": "Instrução de outro diploma (DL 216/2012)."
+   },
+   {
+    "instrucao": "DL 25/2025, art. 5.º: revoga a Portaria n.º 147/2025/2",
+    "motivo": "Instrução de outro diploma: revoga uma portaria; nenhum artigo do DL 23/2018 é visado."
+   },
+   {
+    "instrucao": "DL 25/2025, art. 4.º (disposições transitórias)",
+    "motivo": "Não é alteração ao DL 23/2018: norma transitória própria do DL 25/2025."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:149855:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Preâmbulo cortado em «o seguinte:»; o resto está nos artigos. Texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "dúvida",
+    "motivo": "Consolidado põe «(Revogado.)» por causa do DL 30/70, mas o texto do DL 30/70 (e da Lei 79/77) vem vazio na vista: a revogação não se consegue confirmar. Original: «O disposto nos artigos 4.º e 5.º do decreto-lei n.º 29:996, de 24 de Outubro de 1939, é aplicável aos funcionários administrativos, a partir da publicação deste diploma.»",
+    "texto_esperado": "(sem texto do alterador para confirmar; se a revogação não for confirmada, manter o texto original do art. 6.º)"
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 30/70: alterador sem texto na vista",
+    "motivo": "O diploma que altera não traz o texto da alteração (vazio): nada se pode aplicar nem confirmar."
+   },
+   {
+    "instrucao": "Lei n.º 79/77: alterador sem texto na vista",
+    "motivo": "O diploma que altera não traz o texto da alteração (vazio)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:281202:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DLR 28/2007/A, art. 1.º, aplicada letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 com a nova redação; n.os 3 e 4 mantêm o texto original (instrução «3 - ...», «4 -...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 com a nova redação (informática na óptica do utilizador; «as referidas»); o n.º 3 original não consta da nova redação, que só tem n.os 1 e 2 (a republicação em anexo confirma), logo fica de fora.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação aplicada: «segunda, trinta minutos», «na escala», «consistirá em:» e alínea c) aditada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação com dois números substitui a anterior de três.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DRR 7/2020/A, art. 11.º: «É extinta a carreira de assistente de operações aeroportuárias, criada pelo DLR n.º 21/2004/A» (e aditamento do anexo III ao DRR 15/2011/A)",
+    "motivo": "Não é textual: extinção de carreira sem nova redação nem revogação de artigos do DLR 21/2004/A; o resto é de outro diploma (DRR 15/2011/A). Texto do DRR 7/2020/A omitido na vista, só a nota da triagem."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:288225:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 211/99, art. 21.º, n.º 1, alínea b): deixam de vigorar as disposições do DL 131/92 «no que se refere aos equipamentos sob pressão e conjuntos abrangidos pelo âmbito do presente diploma»",
+    "motivo": "Revogação condicional/parcial por matéria, sem indicar artigos: confirmado no texto do alterador."
+   },
+   {
+    "instrucao": "DL 41/2002, art. 20.º: revoga o DL 131/92 «no que se refere aos equipamentos sob pressão transportáveis»",
+    "motivo": "Revogação condicional/parcial por matéria, sem indicar artigos (texto do DL 41/2002 omitido na vista; só a nota da triagem, não verificável)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:291920:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Preâmbulo cortado em «o seguinte:»; o resto está nos artigos. Texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Original em bloco único, o consolidado separa em artigos; texto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 1/93, art. 1.º: aditado ao DR 51/91 o mapa anexo (remunerações base de categorias do quadro de efectivos interdepartamentais)",
+    "motivo": "O mapa novo só vem em imagem (ligação ao PDF, sem título de anexo no alterador) e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DR 18/95, art. 1.º: aditado ao mapa do n.º 2 do artigo 1.º do DR 51/91 o mapa anexo",
+    "motivo": "O mapa novo só vem em imagem (ligação ao PDF) e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DL 121/2008 (mapa VIII): revoga o DR 51/91 com exceção das disposições das categorias subsistentes",
+    "motivo": "Alterador sem texto na vista (vazio) e, segundo a nota da triagem da Declaração de Rectificação, a revogação é parcial/condicional (ressalva categorias subsistentes, sem artigos indicados)."
+   },
+   {
+    "instrucao": "Declaração de Rectificação n.º 49/2008: rectifica o mapa VIII do DL 121/2008",
+    "motivo": "Instrução de outro diploma (rectifica o DL 121/2008); o DR 51/91 só aparece na lista de revogados do mapa. Texto omitido na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:298785:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 132/97, artigo único: nova redação da alínea b) do artigo 5.º do DL 213-B/92 (Matadouro Industrial de Alcains, artigo rústico 91-F e urbano 2322, etc.). Alvo incerto na consolidação: o consolidado só tem os estatutos em anexo, sem o artigo 5.º do próprio decreto-lei, mas o alvo é claro (art. 5.º, alínea b) do DL 213-B/92), por isso não está justificada; o texto do original disponível não contém esse artigo."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:381106:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de rectificação: no quadro do pessoal, «Fiscais de obras públicas auxiliares» passa a «Fiscais auxiliares de obras públicas». O alvo é claro (quadro do pessoal do DL 189/79); o motivo dado (quadro só em imagem) não é um dos admitidos para a correção de texto, e não há anexo no consolidado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria n.º 39/81, n.º 6.º: quadro de pessoal da DGERU (DL 189/79) substituído pelo quadro do anexo VI",
+    "motivo": "O quadro novo só vem em imagem (anexo VI com ligação ao PDF) e o consolidado não tem anexo com título onde o pôr (a lista dos artigos iguais não inclui nenhum ANEXO)."
+   },
+   {
+    "instrucao": "Portaria n.º 39/81, n.os 1.º a 5.º e 7.º: substituem quadros de pessoal de outros diplomas (DL 195/77, DL 583/72, DL 188/79, DL 254/77)",
+    "motivo": "Instruções de outros diplomas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

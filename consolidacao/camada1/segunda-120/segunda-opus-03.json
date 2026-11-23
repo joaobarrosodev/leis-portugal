@@ -1,0 +1,40 @@
+[
+ {
+  "id": "pt:dre:546976:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "O DL 2/98, art. 20.º, n.º 1, revogou o DL 221/95 com exceção do art. 11.º; o DL 167/98 repristinou-o só até à entrada em vigor do diploma que aprova o regulamento do n.º 7 do art. 126.º do Código da Estrada; o DL 209/98 (15/7/1998, em vigor a 20/7/1998) aprova o Regulamento da Habilitação Legal para Conduzir, que segundo o preâmbulo disciplina 'a estrutura dos exames de condução' (matéria do DL 221/95), e o seu art. 9.º revoga o art. 11.º. Daí a repristinação ter cessado e o diploma estar revogado por inteiro (inferência: o DL 209/98 não cita expressamente o n.º 7 do art. 126.º). O texto do consolidado (art. 3.º pelo DL 214/96, art. 11.º revogado pelo DL 209/98, art. 12.º pelo DL 121/97, que se mantém apesar da revogação do DL 121/97, por não haver repristinação automática) está certo."
+  }
+ },
+ {
+  "id": "pt:dre:108010873:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:176283:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "Regula os subsídios dos membros da Assembleia Nacional e da Câmara Corporativa; a Lei n.º 2/74, art. 1.º, extinguiu a Assembleia Nacional e a Câmara Corporativa (e a Lei n.º 1/74, art. 1.º, n.º 3, já dissolvera a Assembleia Nacional)."
+  }
+ },
+ {
+  "id": "pt:dre:265129:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Art. 2.º (revogado pelo art. 8.º do DL 634/76): a revogação está bem aplicada e por inteiro, mas a unidade ficou como '2.º - (Revogado.)', sem o 'Art.' da numeração original ('Art. 2.º - 1. ...'). Logo a seguir ao n.º 7 do art. 8.º do DL 45810 citado dentro do art. 1.º, a linha lê-se como se fizesse parte do texto citado. Deve ler-se 'Art. 2.º - (Revogado.)'. É só a forma do rótulo: o conteúdo da revogação está certo."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:266621:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

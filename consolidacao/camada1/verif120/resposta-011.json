@@ -1,0 +1,188 @@
+[
+ {
+  "id": "pt:dre:552345:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 5.º, al. y), da Lei n.º 34/2015 (revoga o artigo 4.º do DL 242/2006); consolidado mantém epígrafe e corpo (Revogado.)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Sem instrução que o altere; igual ao original no corpo. Só falta o bloco de fecho (Visto e aprovado/Promulgado/Referendado), que o consolidado deslocou para o fim do documento (aparece colado à base XXXVIII); sem alteração de substância",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LIII-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXII",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 (redação completa) e DL 112/2015 (nova epígrafe do n.º 1 e al. d) com [...] nas restantes unidades): consolidado = proémio e als. a) a c) do DL 44-F + al. d) do DL 112",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXII-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 44-F/2010; DL 112/2015 reformula (n.os 1-4, 8-9, 10 b)-e), 11 b), 12-15, 19-24 novos; [...] repõe 5-7, 10 a), 11 proémio, 15 a)/b)ii)/c) i-iv por «Anterior»; n.os 16-18 revogados pelo art. 5.º). Conferido número a número",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXII-B",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXII-C",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXII-D",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXIV",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 (epígrafe e texto) e DL 112/2015 (n.os 1 e 2; epígrafe [...] mantida); consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXV",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 (epígrafe, n.º 1 e n.os 2-10 revogados) e DL 112/2015 (nova epígrafe e n.º 1; n.os 2-10 [...] = Revogado); consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXVI-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 44-F/2010; DL 112/2015 altera n.os 1 e 2 e mantém ([...]) epígrafe e n.os 3 e 4; consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXVI-B",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 44-F/2010 e reformulada pelo DL 112/2015; consolidado igual à última redação",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXVI-C",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXXXVII",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010, art. 1.º (base LXXXVII, texto integral; DL 112 não a toca); consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base LXXXVII-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XCII",
+    "veredicto": "certo",
+    "motivo": "Revogada pelo art. 5.º do DL 112/2015 (base XCII); consolidado (Revogado.)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XCVI-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XVII-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 44-F/2010; DL 112/2015 reescreve epígrafe e n.os 1-4 sem [...]; consolidado igual à última redação",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XXIII",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 e DL 112/2015 (IMT); consolidado igual à redação do DL 112",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XXIV",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 (texto integral, DL 112 não a toca); consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XXXVI",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 e DL 112/2015: epígrafe e n.os 1-4, 8-10, 13 do DL 112; als. 1 a)/b) e n.os 5-7 repostos pelo [...] com o texto do DL 44-F; n.os 11 e 12 revogados (art. 5.º); consolidado igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XXXVI-A",
+    "veredicto": "certo",
+    "motivo": "Aditada pelo DL 112/2015, art. 2.º; texto e epígrafe iguais (conferido linha a linha)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo Base XXXVIII",
+    "veredicto": "certo",
+    "motivo": "DL 44-F/2010 (epígrafe) + DL 112/2015 (n.os 1-3; epígrafe [...]); base igual. Ao fim traz o bloco de fecho do original (Visto e aprovado/Promulgado/Referendado) vindo do art. 5.º, deslocado: não é texto da base",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "DL 44-F/2010, art. 1.º: nova redação das bases I, II, III, V, VI, VII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXVI, XXVII, XXVIII, XXIX, XXXI, XXXII, XXXIV, XXXV, XXXVII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LII, LIII, LIV, LVII, LVIII, LX, LXI, LXIII, LXVI, LXVII, LXIX, LXX, LXXI, LXXII, LXXV, LXXVI, LXXVII, LXXVIII, LXXIX, LXXXI, LXXXIII, LXXXIV, LXXXV, XCIII, XCIV, XCVIII (anexo ao DL 242/2006)",
+    "motivo": "O anexo do original vem com o corpo vazio (só ANEXO I e CAPÍTULO I no texto atual): o texto da base não existe e o diploma que altera deixa unidades por reproduzir ([...], ... ou epígrafe [...]); alvo incerto no consolidado, não é justificação prevista"
+   },
+   {
+    "instrucao": "DL 112/2015, art. 1.º: nova redação das bases I, II, V, VI, VII, IX, XI, XIV, XV, XVIII, XIX, XX, XXII, XXVI, XXVIII, XXIX, XXXI, XXXII, XXXIX, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LII, LIII, LIV, LV, LVIII, LX, LXIII, LXVI, LXVII, LXIX, LXXI, LXXII, LXXIII, LXXV, LXXVI, LXXVII, LXXVIII, LXXIX, LXXXI, LXXXIII, LXXXIV, XC, XCVII, XCVIII (anexo ao DL 242/2006)",
+    "motivo": "O anexo do original vem com o corpo vazio (só ANEXO I e CAPÍTULO I no texto atual): o texto da base não existe e o diploma que altera deixa unidades por reproduzir ([...], ... ou epígrafe [...]); alvo incerto no consolidado, não é justificação prevista"
+   },
+   {
+    "instrucao": "DL 44-F/2010, art. 3.º n.º 1: novas epígrafes dos capítulos VIII (InIR), XIII, XV, XIX e XXIV",
+    "motivo": "capítulos inexistentes no texto atual (só CAPÍTULO I); alvo incerto, não é justificação prevista"
+   },
+   {
+    "instrucao": "DL 44-F/2010, art. 3.º n.os 2 e 3: aditamento dos capítulos XV-A (Portagens, bases LXIII a LXVI) e XV-B (Receitas da EP, bases LXVI-A e LXVI-B)",
+    "motivo": "não aplicado; as bases LXVI-A e LXVI-B estão no consolidado sem o título de capítulo"
+   },
+   {
+    "instrucao": "DL 112/2015, art. 3.º n.º 1: novas epígrafes dos capítulos VIII (Funções do IMT) e XV (Receitas da Concessionária e partilha de benefícios)",
+    "motivo": "capítulos inexistentes no texto atual; alvo incerto, não é justificação prevista"
+   },
+   {
+    "instrucao": "DL 112/2015, art. 3.º n.º 2: aditamento do capítulo XXV-A (Comissão de Peritos), que inclui a base XCVI-A",
+    "motivo": "não aplicado; a base XCVI-A está no consolidado sem o título de capítulo"
+   },
+   {
+    "instrucao": "DL 112/2015, art. 5.º: revogação do n.º 12 da base XLVII, da alínea g) do n.º 9, da alínea d) do n.º 10 e do n.º 11 da base XLIX, do n.º 2 da base L e do n.º 5 da base LIII",
+    "motivo": "bases não existem no consolidado (ver nova redação das bases XLVII, XLIX, L e LIII); alvo incerto, não é justificação prevista"
+   }
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 112/2015, art. 6.º n.º 2: «MOPTC» passa a «ME» na republicação",
+    "motivo": "regra de republicação, não altera o texto do original; nenhuma das bases do consolidado contém «MOPTC»"
+   },
+   {
+    "instrucao": "DL 44-F/2010, art. 6.º e DL 112/2015, art. 6.º n.º 1: republicação das bases em anexo",
+    "motivo": "não textual: apenas manda republicar"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "O bloco de fecho do original (Visto e aprovado... Referendado) foi retirado do artigo 5.º e aparece no fim da base XXXVIII; de resto sem alterações. Capítulos (epígrafes e aditamentos) das alterações sistemáticas não aplicados (ver instrucoes_em_falta)."
+ }
+]

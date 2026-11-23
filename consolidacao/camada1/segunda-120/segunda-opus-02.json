@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pt:dre:189511:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:312209:por",
+    "veredicto": "certo",
+    "problemas": [
+      "Nota que não muda o texto: o DL 32/2018, art. 15.º, al. i), dá por revogado o DL 529/76, o diploma que aditou o n.º 3 ao art. 1.º. A revogação de um diploma alterador cujo efeito já se esgotou não retira do art. 1.º o n.º 3 que ele aditou, e o DL 539/75 não está nessa lista. O n.º 3 fica bem no consolidado."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:419650:por",
+    "veredicto": "duvida",
+    "problemas": [
+      "Art. 6.º: o DLR 18/94/A dá ao art. 6.º só «1 - O critério de atribuição de ajudas de custo […]», sem «2 - ...», e o consolidado tirou o n.º 2 original («Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação […]»). Há duas leituras. A favor de tirar: no art. 5.º o mesmo alterador escreveu «2 - ... 3 - ... 4 - ...» para os números que se mantêm, e no art. 6.º não o fez. Contra: a nova redação mantém o «1 -», o que só faz sentido se houver um n.º 2. Assim pode faltar um «2 - ...» no texto do DRE. É preciso ver o PDF oficial (DR I-A n.º 155, de 7-7-1994, p. 3623). Se lá estiver «2 - ...», o n.º 2 original tem de ser reposto."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:419615:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Art. 3.º (próprio do DL 414/73, a circunscrição médico-legal), revogado pelo DL 387-C/87, art. 87.º, al. m): a revogação está bem aplicada ao artigo certo, não ao art. 3.º da OTM citado no art. 6.º. Mas o consolidado ficou «3.º - (Revogado.)», sem o «Art.» inicial. Deve ler-se «Art. 3.º - (Revogado.)», como os outros artigos do diploma («Art. 2.º», «Art. 4.º»). É um defeito só de forma, no rótulo do artigo.",
+      "Os DL 325/74, 130/75, 369-A/75, 633/75 e 201/76 alteram artigos e mapas do Estatuto Judiciário (DL 44278) na redação que lhes deu o DL 414/73. Visam o Estatuto e não o texto do DL 414/73, que é um diploma alterador. Aceitar estas justificações está certo."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:438049:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:488485:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:534642:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  }
+]

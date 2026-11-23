@@ -517,6 +517,22 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 | recusado_na_segunda_leitura | 10 |
 | sem_texto_do_alterador | 5 |
 
+**Onda 2** (`camada1/onda-2.jsonl`, estado em `auditoria/camada1-estado-onda-2.jsonl`): o resto das linhas 6, 7 e 9 do inventário, por ordem de quantos diplomas em vigor os citam. **Ronda 119** (`pedidos-6`, `verif119`, `segunda-119`, Opus): 101 diplomas, 32 para o data/.
+
+**Ronda 120** (`pedidos-7`, `verif120`, `nada-120`, `segunda-120`, 23/11/2026): 95 diplomas. Respondedores, verificadores às cegas e a primeira segunda leitura em Sonnet (limite semanal), com os mesmos critérios. Às cegas passaram 34 (36 %, contra 45 % do Opus na 119) e foram recusados 38 (40 %, contra 36 %). Os 19 que a segunda leitura em Sonnet aprovou passaram todos por uma segunda leitura em Opus (`segunda-opus-NN.json`, que o `estado` lê depois e por isso decide). O Opus recusou 4: o DLR 10/87/A (dúvida sobre o n.º 2 do art. 6.º) e três com o mesmo defeito de forma.
+
+- **«N.º - (Revogado.)» sem o «Art.»** do diploma (DLR 24/88/A, DL 48546, DL 414/73). O exemplo do `REGRAS.md` do `llm_corrido.py` dizia «3.º - (Revogado.)». Agora diz que o título fica com o prefixo do texto atual, e `texto_antigo.repor_prefixo` repõe-no na junção, copiando-o do texto antigo da mesma unidade (com testes). Os três foram corrigidos assim, sem LLM, passaram a barreira mecânica e uma nova leitura em Opus, e entram. No data/ havia 81 consolidados com a linha «N.º - (Revogado.)», mas todos são portarias e despachos que numeram «1.º - …» sem prefixo: 0 casos a corrigir.
+- A Lei 29/2002 e o DL 205/2009 ficam «aplicar» no estado, mas o `acervo.py` deixa-os de fora (`DE_FORA`). A Lei 29/2002 fica igual ao original. No DL 205/2009, a segunda leitura da ronda 112 viu que a Lei 8/2010 altera o ECDU (DL 448/79), republicado em anexo, e não este diploma: as duas leituras da ronda 120 (Sonnet e Opus) deixaram passar isto.
+- Vigência, pela segunda leitura: o DL 49402 em `reports/vigencia-manual.jsonl` (a Lei 2/74 extinguiu a Assembleia Nacional e a Câmara Corporativa); o DLR 41/2002/A («nao_vigora», orçamento de 2003), o DL 221/95 e a Lei 112/91 («por_confirmar») em `vigencia.CAMADA1_120`.
+
+| Estado da ronda 120 (95 diplomas) | Diplomas |
+|---|---:|
+| recusado_as_cegas | 38 |
+| aplicar (16 para o data/) | 18 |
+| recusado_na_segunda_leitura | 16 |
+| sem_alteracao_aplicavel | 14 |
+| resposta_recusada | 9 |
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

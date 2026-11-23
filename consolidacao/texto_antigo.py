@@ -35,6 +35,20 @@ REVOGADO = re.compile(r"\(Revogad[oa]\.?\)\.?")
 ANEXO = re.compile(r"^#{1,3} +(ANEXO|MAPA|QUADRO|TABELA)", re.M | re.I)
 
 
+_SO_NUMERO = re.compile(r"\A(\d+\.º(?:-[A-Z])?) - (\(Revogad[oa]\.\))")
+
+
+def repor_prefixo(antes: str, novo: str) -> str:
+    """Texto corrido: a resposta revoga a unidade «Art. 3.º - …» e escreve «3.º - (Revogado.)», sem o prefixo
+    (ronda 120: o exemplo do REGRAS.md do `llm_corrido.py` dizia-o assim). O título fica como no texto antigo da
+    mesma unidade: se `antes` começa por «Art. 3.º» ou «Artigo 3.º», `novo` leva esse prefixo. Sem isso, fica."""
+    m = _SO_NUMERO.match(novo)
+    if not m:
+        return novo
+    p = re.match(r"(Art\.|Artigo) " + re.escape(m.group(1)) + r"(?![0-9-])", antes.lstrip())
+    return f"{p.group(1)} {novo}" if p else novo
+
+
 def _chave(numero: str) -> str:
     return re.sub(r"\s", "", numero).rstrip(".").replace("°", "º").replace("o", "º")
 

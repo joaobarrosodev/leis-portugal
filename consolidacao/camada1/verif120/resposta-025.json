@@ -1,0 +1,49 @@
+[
+ {
+  "id": "pt:dre:641126:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 68/99: n.os 1 e 3 «...» (iguais ao original), n.º 2 com a nova redação; o consolidado coincide letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "A nova redação (epígrafe «[...]» mantida) tem os n.os 1 a 4 integralmente novos; o n.º 5 do original não consta da nova redação e foi eliminado; o texto dos n.os 1 a 4 coincide letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com nova redação (corpo e alíneas a) e b)); n.os 2 a 8 «...» iguais ao original; o consolidado coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "errado",
+    "motivo": "O n.º 1 e as alíneas a) e c) estão certos. Mas a instrução do anexo I, n.º 2, enumera apenas «a) ... b) ... c) ...»; a alínea d) não consta da nova redação do anexo e, tal como o n.º 5 do art. 5.º (que a mesma norma elimina por omissão) e como todas as outras partes mantidas vêm indicadas com «...», fica eliminada (a Directiva 91/676/CEE, anexo I, B, só tem três pontos). O consolidado manteve a alínea d).",
+    "texto_esperado": "2 - Na aplicação destes critérios, deverá ainda atender-se:\n\na) Às características físicas e ambientais das águas e dos solos;\n\nb) Aos conhecimentos disponíveis quanto ao comportamento dos compostos de azoto no ambiente (águas e solos);\n\nc) Aos conhecimentos disponíveis acerca do impacte das acções empreendidas nos termos do artigo 7.º;"
+   },
+   {
+    "artigo": "ANEXO V",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 «...»; n.º 4: alínea a) com «n.º 1 do artigo 7.º», b) e c) «...», d) e e) novas; o consolidado coincide (pontuação aparte).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 68/99, anexo I, n.º 2: a lista «a) ... b) ... c) ...» omite a alínea d) («À caracterização das actividades humanas nas áreas envolventes»), que fica eliminada; o consolidado manteve-a (alvo conhecido: a alínea d) do n.º 2 do anexo I; «alvo incerto» não justifica)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria n.º 177/2005: nova redação dos artigos 7.º e 12.º e dos anexos II e III do Regulamento de Aplicação da Intervenção Indemnizações Compensatórias",
+    "motivo": "instrução de outro diploma (Portaria n.º 46-A/2001, republicada pela Portaria n.º 193/2003); só cita o DL 235/97 na alínea B do anexo II; os artigos 12.º e anexos II e III do DL 235/97 não são visados"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

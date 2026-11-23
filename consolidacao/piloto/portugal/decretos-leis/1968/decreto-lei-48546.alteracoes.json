@@ -4,7 +4,7 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "Art. 2.º - 1. Quando a carência de pessoal docente o justifique, pode o Ministro da Educação Nacional autorizar:\n\na) Um professor incumbido de regência num lugar do ciclo elementar a reger noutro lugar do mesmo ciclo;\n\nb) Um professor incumbido de regência num lugar do ciclo complementar a reger noutro lugar do ciclo elementar.\n\n2. A acumulação de regências far-se-á em regime de desdobramento, no mesmo estabelecimento de ensino ou em estabelecimentos que não distarem entre si mais de 10 km.\n\n3. A Direcção-Geral do Ensino Primário estudará o horário dos estabelecimentos de ensino que houverem de funcionar nas condições previstas neste artigo, para efeito de apreciação e aprovação ministeriais.\n\n4. O professor, do quadro geral ou dos quadros de agregados, que se encontrar nas condições previstas no presente artigo perceberá a remuneração que lhe pertencer, nos termos gerais, pela regência do ciclo elementar ou pela regência do ciclo complementar, conforme se verificar a hipótese da alínea a) ou a hipótese da alínea b) do n.º 1, como se não houvera acumulação; e, pelo facto desta, perceberá ainda, em qualquer dos casos, uma gratificação mensal, a abonar durante dez meses, igual à gratificação de professor agregado.",
-    "depois": "2.º - (Revogado.)",
+    "depois": "Art. 2.º - (Revogado.)",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

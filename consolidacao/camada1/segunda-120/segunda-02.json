@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:324972:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "ANEXO II (carta): o DR 21/2006, art. 2.º, n.º 2, manda que os anexos I e II passem a ter a redação dos anexos I e II do próprio DR 21/2006, e o registo do DRE confirma («... e no anexo II do presente diploma»). O consolidado deixa o ANEXO II igual ao original, a remeter para a planta do PDF de 2000 (files.diariodarepublica.pt/1s/2000/08/190b00/40844089.pdf), que está substituída. A justificação do verificador («o alterador não traz anexo II com título nem texto») não chega: a carta nova é imagem e só pode ser aplicada trocando a ligação (ou nota) para o PDF do DR 21/2006 (files.diariodarepublica.pt/1s/2006/12/24700/85648567.pdf, o mesmo que o consolidado já cita no fim do anexo I). Não consegui abrir o PDF para confirmar que a carta nova está nele, por isso a correção exata fica por confirmar.",
+   "ANEXO I: o texto aplicado (do DR 21/2006) acaba cortado a meio da última coordenada («... até atingir o rio Erges (coordenada x - 305 019; y - 32$$P»), seguido de «(ver documento original)». Falta o fim da descrição (o resto do limite pelo rio Erges e pelo Tejo até ao ponto de partida). O consolidado reproduz fielmente o alterador tal como o DRE o serve, por isso o defeito vem da fonte, mas o anexo I do consolidado fica incompleto no texto.",
+   "Verificado e certo: art. 6.º (n.º 2 a 4 pela redação do DR 21/2006, que substituiu a do DR 3/2004; n.º 8 mantido); art. 5.º, al. b), e arts. 8.º e 9.º revogados pelo DL 78/2015, art. 3.º, al. m); arts. 12.º, 13.º, 14.º, 16.º e 18.º revogados pela RCM 176/2008, art. 41.º (o euro do art. 14.º, n.º 2, do DR 3/2004 fica sem objeto); arts. 4.º, 7.º, 10.º, 11.º, 15.º, 17.º e 19.º não são tocados por nenhum alterador. Sem retificações nas relationships (não há corrected_by). A RCM 176/2008, art. 2.º, n.º 3, só cita o art. 3.º do DR 9/2000; a justificação do verificador sobre esse ponto e sobre o DL 135/2012 está certa."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:362686:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Art. 2.º: o DL 140/2004, art. 27.º, al. a), revoga o DL 113/2001, alterado pelo DL 324/2001, «salvo o disposto no artigo 2.º do DL 113/2001, em relação à manutenção do quadro de pessoal previsto no DR 56/91, de 14 de Outubro, e suas alterações». O consolidado revoga tudo o resto (arts. 1.º, 3.º a 6.º e todos os arts. 1.º a 32.º dos Estatutos, o que está certo) e mantém o art. 2.º por inteiro, com os n.os 1 a 7. A ressalva é limitada à manutenção do quadro de pessoal: cobre sem dúvida os n.os 5, 6 e 7 (permanência no quadro do DR 56/91, fecho do quadro, extinção progressiva das carreiras). Os n.os 1 a 4 tratam da opção pelo contrato individual de trabalho e da transição para o novo quadro «nos termos do artigo 28.º dos Estatutos» (já revogado); o DL 140/2004, arts. 19.º a 21.º, regula de novo a mesma transição e a opção (prazo de um ano). Pode ler-se que os n.os 1 a 4 (incluindo o n.º 2, com o prazo de 30 dias úteis do DL 324/2001) estão revogados, ou que o art. 2.º se salvou por inteiro. O n.º 7 remete para «o prazo previsto no n.º 2», o que favorece a leitura do artigo inteiro. Não consigo decidir.",
+   "Verificado e certo: o texto dos n.os 2 e 7 do art. 2.º é o do DL 324/2001 à letra (não há retificações nas relationships); o DL 226/2002 não toca no texto (a triagem está certa); os arts. 1.º, 3.º, 4.º, 5.º e 6.º do decreto-lei e os arts. 1.º a 32.º dos Estatutos estão revogados pelo DL 140/2004. O art. 6.º («Revogação» do DR 56/91) foi dado por revogado: pela letra do art. 27.º a ressalva só abrange o art. 2.º, por isso está certo."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "DL 140/2004, art. 27.º, al. a): revoga o DL 113/2001, salvo o art. 2.º em relação à manutenção do quadro de pessoal do DR 56/91 (relação repealed_by do registo do DRE). Os Estatutos do IPQ (anexo) ficam revogados por inteiro."
+  }
+ },
+ {
+  "id": "pt:dre:404106:por",
+  "veredicto": "certo",
+  "problemas": [
+   "O único alterador (Lei 4-A/93) adita o art. 40.º e está aplicado à letra, depois do art. 39.º; a data e as assinaturas do original passam para o fim do novo artigo, o que está certo. Sem retificações, revogações nem outras alterações nas relationships; nada em falta no acervo (a Lei 51/99 e o DPR 118-A/99 só citam a Lei 112/91)."
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "O art. 40.º vale «até ser decretada a plenitude e exclusividade de jurisdição dos tribunais de Macau»; o Decreto do Presidente da República n.º 118-A/99 investiu os tribunais de Macau nessa plenitude a partir de 1 de Junho de 1999, e a administração portuguesa de Macau terminou a 20 de Dezembro de 1999 (esta data não vem do acervo, é de conhecimento geral). O texto do consolidado está certo; isto só diz respeito à vigência."
+  }
+ }
+]

@@ -84,6 +84,15 @@ CAMADA1_119 = {
     "pt:dre:512987:por": ("por_confirmar", "Decreto-Lei n.º 43351",
                           "o art. 31.º do Decreto-Lei n.º 50/93 revoga-o, mas o art. 32.º mantém-no em vigor enquanto não forem publicados os regulamentos previstos; falta confirmar essa publicação."),
 }
+# Camada 1, onda 2, ronda 120: o mesmo, pela segunda leitura (Sonnet e Opus).
+CAMADA1_120 = {
+    "pt:dre:405299:por": ("nao_vigora", "Decreto Legislativo Regional n.º 41/2002/A",
+                          "é o Orçamento da Região Autónoma dos Açores para 2003, de vigência anual; as normas que alteram outros diplomas produziram efeito nesses diplomas."),
+    "pt:dre:546976:por": ("por_confirmar", "Decreto-Lei n.º 221/95",
+                          "o Decreto-Lei n.º 2/98 revogou-o, salvo o art. 11.º; o Decreto-Lei n.º 167/98 repristinou-o só até ao regulamento do n.º 7 do art. 126.º do Código da Estrada, que parece ser o aprovado pelo Decreto-Lei n.º 209/98 (cujo art. 9.º revoga o art. 11.º), mas este não cita aquele número."),
+    "pt:dre:404106:por": ("por_confirmar", "Lei n.º 112/91",
+                          "organização judiciária de Macau: o art. 40.º vale «até ser decretada a plenitude e exclusividade de jurisdição» dos tribunais de Macau, decretada pelo DPR n.º 118-A/99 a partir de 1/6/1999; a transferência de Macau a 20/12/1999 não vem do acervo."),
+}
 TITULOS_BLOCO3 = {
     "pt:dre:1037778:por": "Portaria n.º 210/2007", "pt:dre:395573:por": "Portaria n.º 1171/91", "pt:dre:663299:por": "Portaria n.º 64/87",
     "pt:dre:522225:por": "Portaria n.º 317-B/2000", "pt:dre:459922:por": "Portaria n.º 22/2010", "pt:dre:460206:por": "Despacho Normativo n.º 32/95",
@@ -283,6 +292,8 @@ def construir(rotulos: Path, processos: Path) -> tuple[list[dict], list[dict]]:
         marcar(id_, titulo, "nao_vigora", "bloco3", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/verificacao/segunda-leitura-114.jsonl"}], "segunda leitura (Opus), ronda 114")
     for id_, (marca, titulo, motivo) in CAMADA1_119.items():
         marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-119/"}], "segunda leitura (Opus), camada 1, ronda 119")
+    for id_, (marca, titulo, motivo) in CAMADA1_120.items():
+        marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-120/"}], "segunda leitura (Sonnet e Opus), camada 1, ronda 120")
     for v in vig:
         if v["prova"] == "legal_status":
             marcar(v["id"], v["titulo"], "nao_vigora", "revogado_dre", "o próprio registo do DRE dá-o como revogado ou sem vigência.", [{"tipo": "legal_status", "valor": v["legal_status"]}])

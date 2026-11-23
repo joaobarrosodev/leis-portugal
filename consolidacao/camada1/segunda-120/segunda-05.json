@@ -1,0 +1,54 @@
+[
+ {
+  "id": "pt:dre:108010873:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:176283:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:186556:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 1.º (n.º 30 do artigo 29.º da estrutura orgânica da DREER, tal como o DLR 2/98/M o reproduz): o DRR 10/2000/M, artigo 2.º, dá nova redação ao artigo 29.º com um n.º 30 sem alíneas («O recrutamento para a carreira de técnico profissional de educação especial integrada no grupo de pessoal técnico-profissional obedece às regras do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.»). O consolidado mantém «30 - ... a) ... b) Técnico profissional de educação especial de 2.ª classe, de entre indivíduos habilitados com o 9.º ano...», que o DRR substituiu por inteiro. A justificação do verificador («outro diploma») só vale para os artigos 3.º, 27.º e 30.º da estrutura orgânica, que não estão no original; o artigo 29.º está no original, e a DRE regista o DRR 10/2000/M como alterador deste diploma (amended_by, «alterados os arts. 3.º, 27.º, 29.º e 30.º»). O mesmo DRR 10/2000/M, artigo 2.º, dá ainda texto novo, que o consolidado deixa em «...», ao n.º 18 (alínea a) nova, antigas c) e d) passam a b) e c)), aos n.os 19 a 24 e à frase de abertura do n.º 26 do artigo 29.º; estes pontos dependem de se aceitar que os «...» do original são placeholders substituíveis (aqui o texto do n.º 30 é o caso claro).",
+   "Artigo 1.º (n.os 25 e 26 do artigo 29.º): o DLR 16/2000/M (pt:dre:320088:por, de 2000-07-15), artigo 9.º, revoga «as disposições contidas nos n.os 24 a 29 do artigo 29.º do Decreto Regulamentar Regional n.º 13-A/97/M». O consolidado mantém o texto do n.º 25 («Enquanto não forem criados oficialmente os cursos técnico-profissionais...») e da alínea c) do n.º 26 («Técnico de emprego de 2.ª classe...»), que estão nesse intervalo e deviam constar como revogados. O DLR 16/2000/M não aparece nas relações (repealed_by) deste diploma.",
+   "Anexo I: a substituição pelo mapa do DRR 10/2000/M (artigo 6.º) está aplicada e parece correta; a Declaração de Rectificação n.º 7-N/98 só corrige o sumário e a epígrafe (não textual), a aceitar."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:220144:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Artigo 5.º (declaração a que se refere a alínea a) do artigo 55.º do DL 28/84 «é feita à Direcção de Serviços de Fiscalização Económica»): o DLR 3/97/M, artigo 3.º, determina que as referências nos «citados diplomas regionais» (DLR 16/90/M e, por remissão, o DLR 17/86/M) à Secretaria Regional da Economia e à Direcção de Serviços de Fiscalização Económica se consideram reportadas à secretaria regional da inspecção das actividades económicas e à Inspecção Regional das Actividades Económicas. O verificador deu-o por justificado como «norma interpretativa» e o consolidado deixa o artigo 5.º com o nome antigo. Não é substituição de texto expressa, mas muda o destinatário efetivo da norma no artigo 5.º; não consigo decidir se, para efeitos de texto consolidado, devia ser aplicado (alterando o artigo 5.º) ou ficar apenas como nota. O artigo 1.º (corpo) está correto, aplicado do DLR 3/97/M, e o §único mantém-se (não foi tocado). Não encontrei revogação no acervo."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:265129:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:266621:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:279456:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Mapas n.º 1 e n.º 3 (DL 203/85, artigo 4.º, n.º 2): o alterador substitui os mapas n.º 1 e n.º 3 do DL 505/77 pelos anexos ao DL 203/85 (PDF https://files.diariodarepublica.pt/1s/1985/06/14400/17131714.pdf), mas o consolidado só tocou o artigo 1.º; o texto do original no acervo remete os mapas n.º 1, 2 e 3 para o PDF de 1977 (https://files.diariodarepublica.pt/1s/1977/12/28500/28912893.pdf). A justificação «só em imagem» muda o conteúdo do diploma (efetivos de todas as classes e escalonamento): para o DLR 2/98/M a consolidação trocou a ligação do anexo, aqui não. Não vejo se o consolidado tem secções MAPA com título; se tiver, as ligações dos mapas 1 e 3 deviam apontar para o PDF de 1985.",
+   "Declaração de 1978 (corrected_by, mapa n.º 3, escalonamento 1979 e 1981): só em imagem, não aplicável ao texto; fica sem efeito prático se o mapa n.º 3 de 1985 substituiu o de 1977.",
+   "Artigo 1.º, n.º 2: o consolidado reproduz «O mapa n.º 1 e o mapa n.º 3 a que se refere o artigo 4.º são substituídos pelos que se anexam ao presente diploma» como n.º 2 do artigo 1.º do DL 505/77. No DL 203/85 está dentro da redação citada do artigo 1.º, por isso a transcrição é fiel, mas «presente diploma» passa a ser o DL 505/77, cujos mapas não foram trocados; pode ser norma de substituição, não texto permanente. O n.º 1 (enfermeiros e paramédicos) está correto. O DL 203/85 foi revogado pelo DL 34-A/90 (art. 48.º), sem tocar no DL 505/77."
+  ],
+  "vigencia": null
+ }
+]

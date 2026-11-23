@@ -1,0 +1,221 @@
+[
+ {
+  "id": "pt:dre:469777:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º n.º 2: o alterador acrescenta «os Conselheiros da Revolução»; consolidado igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 18.º 2): «deixando-o passar primeiro» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º: «excepto quanto ao Estandarte Nacional» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 31.º n.º 1: texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 31.º n.º 3, alíneas b) a f): redação igual à do alterador (nova alínea b) Conselheiros, c) Ministros, e realinhamento até f)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 38.º n.º 1: igual ao alterador (Conselheiros da Revolução, Ministros; vírgulas e «a partir de aspirante a oficial superiores»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 40.º n.º 1: igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 41.º n.º 2: igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Arts. 44.º e 45.º n.º 1: listas de precedência iguais às do alterador; n.º 2 do art. 45.º mantém-se («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Art. 47.º n.º 2: igual ao alterador (incluindo o texto tal como vem no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 59.º n.os 1 e 2: igual ao alterador (sem aspas, «exetam», «10 m» sem «a» no n.º 1).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 60.º n.º 1 a): «no caso de recepção ou de retirada» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 60.º n.º 1 a): ponto final em vez de ponto e vírgula, como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 63.º: «seguirá sempre a do Hino Nacional» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Art. 69.º n.º 1: «Sempre que possível, e salvo» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 71.º n.º 1: «ponto de continência» entre aspas como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Art. 77.º: «Acompanhar féretros sem honras fúnebres.» é a letra do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Art. 81.º n.º 1: «Chefes de Estado» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Art. 94.º n.º 1: «previamente anunciada» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 97.º 5) e 6): redação igual à do alterador, que substitui os pontos inteiros; os restantes parágrafos antigos (Esta entidade..., Caso, pela disposição...) deixam de existir porque o alterador dá os pontos 5) e 6) com o texto completo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Art. 97.º 8): «reduzir-se» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Art. 98.º: sem vírgula antes de «para com ela», como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Art. 111.º b): «terno de corneteiros (clarins)» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Art. 115.º n.º 1: «em alas», «n.º 1.º do artigo 111.º» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Art. 116.º n.º 3: «toque-aviso de firme» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Art. 116.º n.º 12: «pertencem» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Art. 121.º n.º 4: o alterador omite «Presidente do Supremo Tribunal Militar» da lista; consolidado removeu-o (era a única ocorrência nessa lista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Art. 121.º n.º 4: «Conselheiros da Revolução; Ministros;» no lugar de «Ministros ou entidades com categoria equivalente...», na posição do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Art. 121.º n.º 4: «(comandantes navais e aéreos na área do seu comando)» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Art. 138.º n.º 2: «ou, posteriormente, arriada» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Art. 148.º n.º 2: «volva» e «abandonem» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Art. 163.º: «estabelecimentos» como no alterador.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Quadro B (cap. V), categoria III, 2.ª coluna «Entidades a quem se prestam honras» (lista nova) e categoria VI (Outros oficiais ... categoria 2.ª)",
+    "motivo": "O quadro B só existe no consolidado como imagem («ver documento original»); o alterador dá apenas o texto de células soltas, sem trazer o quadro nem imagem nova, pelo que não há onde aplicar o texto nem nova imagem para o substituir. Confirmado na vista."
+   },
+   {
+    "instrucao": "Quadro C (cap. VIII), 3.ª coluna «Distintivos», 5.ª coluna «Pela guarnição» (marechal) e Notas - 1",
+    "motivo": "O quadro C só existe como imagem no original/consolidado e o alterador não traz a tabela nem imagem nova, só frases das células; não é possível compor texto novo numa tabela em imagem. Confirmado na vista."
+   },
+   {
+    "instrucao": "Quadro D (cap. IX), categoria II, 2.ª coluna «Entidades»",
+    "motivo": "O quadro D só existe como imagem; o alterador não traz a tabela nem imagem, só a lista de células. Confirmado na vista."
+   },
+   {
+    "instrucao": "Quadro E (anexo III), 1.ª coluna «Categorias a que se prestam honras»",
+    "motivo": "O quadro E só existe como imagem; o alterador não traz a tabela nem imagem, só a lista da coluna. Confirmado na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

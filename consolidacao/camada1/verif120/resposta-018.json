@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:374669:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Artigo 19.º substituído pelo artigo 1.º do DLR 29/96/A (n.os 1 e 2 novos); igual."
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Artigo 29.º substituído (n.os 1 e 2 novos, inclui «suficentes», «esse» e «posteriores à notificação para o efeito» como no alterador); igual."
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Artigo 30.º: n.os 1 e 2 originais («...»), n.º 3 novo igual ao do alterador; artigo 31.º revogado pelo artigo 2.º, sem texto antigo a seguir («31.º - (Revogado.)»; a falta do prefixo «Art.» é só formato)."
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Artigo 38.º revogado pelo artigo 2.º; «38.º - (Revogado.)», sem texto antigo."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DRR 25/2008/A, artigo 19.º n.º 6 f), e DRR 24/2012/A, artigo 16.º n.º 4 f): transitam para a dependência de outro membro do Governo o SERCAT",
+    "motivo": "mudança de dependência sem nova redação do texto do original"
+   },
+   {
+    "instrucao": "DRR 24/2012/A, artigo 24.º: revoga o n.º 2 do artigo 23.º do DRR 30/2006/A",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

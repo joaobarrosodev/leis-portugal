@@ -224,3 +224,21 @@ def test_marcados_nao_conta_o_anexo_revogado_dentro_do_bloco_do_artigo():
     consolidado = "\n\n".join(["###### Artigo 7.º", corpo7, "## ANEXO — Cartão especial", "(Revogado.)", "> Revogado pelo/a Lei 16/2009.",
                                "###### Artigo 1.º", "Texto do Estatuto alterado."])
     assert t.marcados(original, consolidado) == []
+
+
+def test_repor_prefixo_copia_o_prefixo_do_texto_antigo():
+    from texto_antigo import repor_prefixo
+
+    assert repor_prefixo("Art. 2.º - 1. Quando a carência…", "2.º - (Revogado.)") == "Art. 2.º - (Revogado.)"
+    assert repor_prefixo("Artigo 5.º - A.", "5.º - (Revogada.)") == "Artigo 5.º - (Revogada.)"
+    assert repor_prefixo("Art. 3.º-A - X.", "3.º-A - (Revogado.)") == "Art. 3.º-A - (Revogado.)"
+
+
+def test_repor_prefixo_nao_mexe_sem_prova():
+    from texto_antigo import repor_prefixo
+
+    assert repor_prefixo("2.º - Texto.", "2.º - (Revogado.)") == "2.º - (Revogado.)"  # o original não tem prefixo
+    assert repor_prefixo("Art. 21.º - X.", "2.º - (Revogado.)") == "2.º - (Revogado.)"  # outro número
+    assert repor_prefixo("Art. 2.º-A - X.", "2.º - (Revogado.)") == "2.º - (Revogado.)"
+    assert repor_prefixo("Art. 2.º - X.", "Art. 2.º - (Revogado.)") == "Art. 2.º - (Revogado.)"  # já tem
+    assert repor_prefixo("Art. 2.º - X.", "Nova redação.") == "Nova redação."

@@ -1,0 +1,173 @@
+[
+ {
+  "id": "pt:dre:538615:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Alínea a) nova, b) original ([...]), c) e d) novas; correto."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 novo, n.º 2 original ([...])."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra; consolidado igual à nova redação (inclui «referidos número anterior» como no alterador)."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra, incluindo epígrafe."
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1-6 novos, n.º 7 original ([...])."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 a) e e) novas, b) a d) originais; n.º 2 d) nova, a) a c) originais."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1, 2 e 4 originais ([...]); n.os 3 e 5 novos."
+   },
+   {
+    "artigo": "Artigo 17.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo artigo 2.º do alterador; igual."
+   },
+   {
+    "artigo": "Artigo 17.º-B",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo artigo 2.º do alterador; igual."
+   },
+   {
+    "artigo": "CAPÍTULO VI",
+    "veredicto": "certo",
+    "motivo": "Renumeração do antigo Capítulo V para VI, consequência de os novos artigos 17.º-A e 17.º-B passarem a constituir o Capítulo V (artigo 2.º do alterador; confirmado na republicação em anexo)."
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra."
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Título «Disposições finais e transitórias» removido do número V por renumeração para VI; correto."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Artigo 2.º do alterador: aditamento do título «CAPÍTULO V — Conclusão do processo» antes do artigo 17.º-A (os artigos 17.º-A e 17.º-B «passam a constituir o Capítulo V»). O consolidado não tem esse título; o alvo é certo (antes do artigo 17.º-A, depois do Capítulo IV), pelo que «alvo incerto» não é justificação."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Artigo 3.º do alterador (republicação em anexo)",
+    "motivo": "não é instrução de alteração ao texto do original"
+   },
+   {
+    "instrucao": "Artigo 4.º do alterador (norma transitória sobre o despacho do n.º 1 do artigo 11.º)",
+    "motivo": "norma transitória do próprio alterador, não altera texto do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Falta o título de divisão «CAPÍTULO V — Conclusão do processo» (ver instrucoes_em_falta); o antigo Capítulo V está renumerado VI. O resto sem alterações."
+ },
+ {
+  "id": "pt:dre:546976:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 substituídos pelo artigo 2.º do DL 214/96 (inclui epígrafe «da carta»); n.os 4 e 5 originais."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 121/97 e revogado pelo artigo 9.º do DL 209/98 (revoga o artigo 11.º do DL 221/95); consolidado «(Revogado.)» com epígrafe mantida."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 121/97: proémio do n.º 1 «sancionadas com coima de», alínea b) nova, a) e c) e n.º 2 originais («...»)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 121/97, artigo 2.º: suspensão por um ano da vigência do n.º 4 do artigo 14.º",
+    "motivo": "suspensão, não textual; não altera o texto do artigo 14.º"
+   },
+   {
+    "instrucao": "DL 2/98, artigo 20.º n.º 1: revogação do DL 221/95 com exceção do artigo 11.º",
+    "motivo": "repristinada pelo artigo 1.º do DL 167/98 com efeitos desde 31/3/1998, sem efeito líquido no texto; o fim da repristinação depende de facto futuro (entrada em vigor do diploma que aprova o regulamento do n.º 7 do artigo 126.º do CE), que não consta da vista"
+   },
+   {
+    "instrucao": "DL 167/98, artigo 1.º: repristinação do DL 221/95 até à entrada em vigor do regulamento previsto no n.º 7 do artigo 126.º do Código da Estrada",
+    "motivo": "efeito adiado para um facto futuro; não é alteração textual"
+   },
+   {
+    "instrucao": "DL 209/98, artigo 9.º, parte que revoga o DL 121/97, o DL 336/97 e o DR 65/94",
+    "motivo": "instrução dirigida a outros diplomas"
+   },
+   {
+    "instrucao": "DL 214/96, artigo 1.º (artigos 125.º, 128.º e 130.º do Código da Estrada)",
+    "motivo": "altera outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:618876:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 novo; n.os 1 e 3 originais («...»)."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 novo; n.os 1 e 3 originais («...»)."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo substituído na íntegra (n.os 1 a 4)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Artigo 2.º do alterador: substituição do mapa tipo anexo pelo mapa anexo ao diploma",
+    "motivo": "o texto novo só vem em imagem (ver documento original) e, nos artigos da vista, não há anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Artigo 3.º do alterador: para efeitos de progressão aplicam-se as regras do DL 73/90",
+    "motivo": "não textual, não altera o texto do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

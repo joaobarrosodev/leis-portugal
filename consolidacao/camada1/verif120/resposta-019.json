@@ -1,0 +1,43 @@
+[
+ {
+  "id": "pt:dre:419615:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "O DL 387-C/87, art. 87.º m), revoga expressamente (sem condição) o artigo 3.º do DL 414/73; o consolidado põe o art. 3.º (n.os 1 e 2) como (Revogado.). Reparo menor de formato: o prefixo «Art.» ficou «3.º - (Revogado.)».",
+    "texto_esperado": "Art. 3.º - (Revogado.)"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 325/74, art. 3.º: alteração dos mapas V e VI anexos ao Estatuto Judiciário (e art. 1.º, comarca de Vila Nova de Gaia)",
+    "motivo": "visa o Estatuto Judiciário (DL 44278), outro diploma; não altera o texto do DL 414/73"
+   },
+   {
+    "instrucao": "DL 130/75, art. 1.º: nova redação dos artigos 371.º, 373.º, 384.º, 385.º, 390.º e 391.º do Estatuto Judiciário",
+    "motivo": "instrução dirigida ao Estatuto Judiciário, outro diploma"
+   },
+   {
+    "instrucao": "DL 369-A/75, arts. 1.º e 2.º: nova redação dos artigos 193.º, 196.º, 197.º, 216.º e 222.º e do mapa IX do Estatuto Judiciário",
+    "motivo": "instrução dirigida ao Estatuto Judiciário (DL 44278), outro diploma"
+   },
+   {
+    "instrucao": "DL 633/75, art. 1.º: nova redação dos artigos 130.º e 226.º do Estatuto Judiciário",
+    "motivo": "instrução dirigida ao Estatuto Judiciário, outro diploma"
+   },
+   {
+    "instrucao": "DL 201/76, arts. 1.º a 4.º: artigos 42.º, 341.º, 342.º, 403.º, 404.º, 407.º, 416.º, 451.º, 453.º, 460.º, 515.º e 516.º do Estatuto Judiciário; artigo 23.º e 28.º do DL 35007; artigo 51.º do Código de Processo Civil",
+    "motivo": "instruções dirigidas ao Estatuto Judiciário, ao DL 35007 e ao CPC, outros diplomas"
+   },
+   {
+    "instrucao": "DL 387-C/87, art. 87.º, alíneas a) a l) e n) a z)",
+    "motivo": "revogam outros diplomas; só a alínea m) visa o DL 414/73 e foi aplicada"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

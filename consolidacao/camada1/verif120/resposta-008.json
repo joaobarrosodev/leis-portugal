@@ -1,0 +1,81 @@
+[
+ {
+  "id": "pt:dre:390012:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004, artigo único: nova redação do art. 4.º; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004: nova redação do art. 5.º (', e respectivas zonas envolventes, bem como acções de dinamização cultural… e que substitui a planta…'); consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004: n.º 2 com a nova redação; n.os 1 e 3 ('...') mantêm o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004: n.os 1, 3 e 5 com a nova redação; n.os 2 e 4 ('...') mantêm o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004: n.os 1 a 3 com a nova redação substituem o texto anterior (a retificação 1-B/2003 ao n.º 2 fica superada, pois o número foi reescrito).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 115/2004: n.º 1 com a nova redação; n.º 2 ('...') mantém o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "errado",
+    "motivo": "N.º 1 b) correto: 'Em 31 de Dezembro de 2007' (Lei 53-A/2006 art. 157.º e Lei 67-A/2007 art. 131.º n.º 1, esta com efeitos a 31 de Março de 2007), n.os 2 e 3 originais. Mas a planta anexa em imagem: o DL 115/2004 substitui a planta ('substitui a planta publicada em anexo ao DL 321/2002'); o consolidado acrescenta a ligação nova (…/2004/05/114a00/31083109.pdf, que é a do DL 115/2004) antes da assinatura e mantém a ligação antiga (…/2002/12/302a00/81888193.pdf) no fim, em vez de a substituir. (O n.º 3 do art. 131.º da Lei 67-A/2007 é norma autónoma, não textual.)",
+    "texto_esperado": "Corpo do art. 24.º como está, e o fecho: 'Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - … Promulgado em 9 de Dezembro de 2002. Publique-se. O Presidente da República, JORGE SAMPAIO. Referendado em 11 de Dezembro de 2002. O Primeiro-Ministro, José Manuel Durão Barroso.' seguido apenas de '[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/114a00/31083109.pdf)' (a ligação de 2004 no lugar da de 2002; sem ligação da planta antes da assinatura)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:411804:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 471/99, art. 1.º: n.º 1 = texto original ('1 - (Actual artigo 1.º)'), n.os 2 e 3 novos; confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 471/99, art. 1.º: n.os 1 a 3 ('...') mantêm o original; n.º 4 novo confere letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 471/99, art. 2.º: extinção do sistema multimunicipal do Cávado-Homem na data do alargamento do sistema do Baixo Cávado",
+    "motivo": "Confirmado no texto: extingue o sistema criado pelo DL 111/96, não dá nova redação a nenhum artigo do DL 117/96 (outro diploma); e o efeito depende de um facto futuro (data do efetivo alargamento)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

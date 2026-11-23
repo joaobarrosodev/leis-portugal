@@ -1,0 +1,156 @@
+[
+ {
+  "id": "pt:dre:302093:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 72/2014, art. 2.º: n.º 1 com [...] (corpo, a), b) originais), c) a g) novos e n.º 2 novo; coincide letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Redação nova integral (n.os 1 a 4) do art. 2.º do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Corpo 'Aos pontos focais incumbe especialmente:' novo, a) a c) originais ([...]), d) nova; coincide. A al. c) conserva o ponto final original antes da al. d), pontuação que vem do original no lugar de [...].",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Redação nova do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Redação nova (n.os 1 a 3, al. a) e b) do n.º 2) do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redação nova (n.os 1 e 2) do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Redação nova (n.os 1 e 2) do alterador; coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "O art. 9.º não é alterado (a redação nova vai do 2.º ao 8.º); texto igual ao original. Só difere o bloco final de assinatura (Visto e aprovado…), que passou para o último artigo (art. 10.º, novo), o que é correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do alterador; coincide. Assinatura do original colocada a seguir ao último artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º do alterador revoga o anexo; consolidado mantém o título e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 72/2014, art. 4.º (prazos de 90 e 30 dias para resoluções do Conselho de Ministros e constituição dos pontos focais)",
+    "motivo": "Norma autónoma, não textual: não altera o texto do original (confirmado no texto do alterador)."
+   },
+   {
+    "instrucao": "DL 72/2014, art. 5.º (articulação com o GPTIC e participação na RIMA)",
+    "motivo": "Norma autónoma, não textual: não altera o texto do original (confirmado no texto do alterador)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (preâmbulo e art. 1.º iguais ao original)"
+ },
+ {
+  "id": "pt:dre:324279:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 78/2015, art. 3.º, al. n): revoga a alínea b) do art. 5.º do DR 10/2000; consolidado 'b) (Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/2004, art. 1.º: n.º 1 mantido ('...'), n.os 2 e 3 novos, antigos n.os 5 a 7 passam a 4 a 6. O antigo n.º 4 e o n.º 8 não constam da nova redação (só vai de 1 a 6) e saem; consolidado coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 78/2015, art. 3.º, al. n): revoga os arts. 8.º e 9.º; prevalece sobre a alteração anterior do DR 4/2004 (alínea c)). Consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 78/2015, art. 3.º, al. n): revoga o art. 9.º; consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/2004: corpo passa a n.º 1 (resto '...' original), al. h) nova, novo n.º 2. Coincide letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/2004: al. c) nova; restantes originais. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/2004, art. 2.º: n.º 2 com coimas em euros ((euro) 25 a (euro) 2500; (euro) 1000 a (euro) 30000); restantes originais. Coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "DR 4/2004, art. 3.º: revoga os anexos I e II e aprova novos. O texto terrestre e marítimo do consolidado é idêntico ao do anexo I do alterador (comparado por inteiro) e a ligação à planta é a do anexo II do alterador (20012004.pdf). O título do original 'Limite terrestre' manteve-se, em vez do título do alterador, o que não é diferença de substância.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "RCM 117/2007 (aprova o PORNLSAS)",
+    "motivo": "Na vista só se vê o art. 2.º do plano, que não altera o texto do DR 10/2000 (apenas o cita no n.º 3); não há instrução dirigida ao original visível. Não verificável além disso, o alterador vem incompleto na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

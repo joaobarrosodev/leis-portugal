@@ -1,0 +1,52 @@
+[
+ {
+  "id": "pt:dre:611728:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Art. 33.º, alínea c), do DL 128/92 revoga o art. 15.º do DL 150/89: \"Art. 15.º - (Revogado.)\". Os restantes artigos do bloco são iguais ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 171/90, art. 3.º: nova redação do art. 2.º, n.os 3, 4 e 5 do DL 150/89 (os n.os 1 e 2 vêm como \"...\"): o art. 2.º não consta do original da vista (só há preâmbulo, art. 18.º e o bloco a partir do art. 6.º), alvo incerto; o texto novo dos n.os 3 a 5 é textual e não foi aplicado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de rectificação (1989): na tabela anexa, coluna das letras, assistente de clínica geral e assistente hospitalar passam de B B a D B",
+    "motivo": "A tabela só existe em imagem (\"Tabela a que se refere o artigo 2.º\" com ligação ao PDF) e não tem título de anexo onde pôr o texto corrigido; a correção não pode ser feita no texto."
+   },
+   {
+    "instrucao": "DL 171/90, art. 1.º (tabela anexa de remunerações) e art. 4.º (revoga o n.º 3 do art. 11.º do DL 310/82)",
+    "motivo": "Instruções de outro diploma (DL 310/82) ou sobre tabela própria; não alteram o DL 150/89."
+   },
+   {
+    "instrucao": "DL 171/90, arts. 2.º e 5.º (acréscimos compensados por tabela de coeficientes; efeitos desde a data do art. 18.º do DL 150/89)",
+    "motivo": "Não são textuais: não dão nova redação a nenhum artigo do DL 150/89."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:616424:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do DR 11/93 adita o mapa anexo ao mapa do n.º 2 do art. 1.º do DR 15/91: ficam a imagem antiga e a linha da imagem do alterador (ligação 1993/05/102b00/22492250), que é a do \"MAPA ANEXO\" do DR 11/93.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 121/2008 (mapa VIII revoga o DR 15/91 \"com excepção das disposições relativas às categorias subsistentes\"): o texto do alterador vem omitido na vista, não se confirma nem o efeito nem o alvo; alvo incerto, não justificado.",
+   "Declaração de Rectificação 49/2008 (retifica o mapa VIII do DL 121/2008): o texto vem omitido na vista; não se confirma que seja de outro diploma; alvo incerto, não justificado."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]
