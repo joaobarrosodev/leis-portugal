@@ -194,7 +194,7 @@ Três falhas da camada 1 que ficam como estão, com o motivo. Nenhuma tem regra 
 
 - **TC e CNPD:** a resposta ao pedido de confirmação da reutilização, notificados a 12/11/2026.
 - **Chave da API:** para testar as respostas escritas com o LLM.
-- **IGFEJ e CSM:** autorização para recolher os acórdãos do STJ e das Relações (dgsi.pt e o portal de jurisprudência do CSM). Pedidos escritos a 23/11, enviados pelo João. Sem resposta, não se recolhe nada: ver `reports/jurisprudencia-tribunais-comuns.md`.
+- **IGFEJ e CSM:** autorização para recolher os acórdãos do STJ e das Relações (dgsi.pt e o portal de jurisprudência do CSM). Pedidos enviados pelo João a 23/11/2026: ao CSM (csm@csm.org.pt) às 15h34 e ao IGFEJ (correio@igfej.mj.pt) às 15h35. Sem resposta, não se recolhe nada: ver `reports/jurisprudencia-tribunais-comuns.md`.
 
 ## 6. Perguntas de leigo por artigo (piloto, 16/11)
 
