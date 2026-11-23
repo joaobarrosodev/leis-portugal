@@ -948,7 +948,7 @@ O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de doi
 
 1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.
 
-2 - [Revogado.]
+2 - (Revogado.)
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 

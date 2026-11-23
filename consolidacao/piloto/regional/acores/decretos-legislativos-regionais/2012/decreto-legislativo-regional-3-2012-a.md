@@ -7,15 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:552795:por
-    title: Decreto Legislativo Regional n.º 18/2012/A
-    publication_date: '2012-04-18'
-  - id: pt:dre:260390:por
-    title: Decreto Legislativo Regional n.º 2/2013/A
-    publication_date: '2013-04-22'
-  - id: pt:dre:570685:por
-    title: Decreto Legislativo Regional n.º 2/2014/A
-    publication_date: '2014-01-29'
+  - id: pt:dre:72970526:por
+    title: Decreto Legislativo Regional n.º 27/2015/A
+    publication_date: '2015-12-29'
 ---
 
 # Decreto Legislativo Regional n.º 3/2012/A
@@ -212,15 +206,9 @@ O regime excecional previsto no presente diploma é aplicável aos contratos de 
 
 ###### Artigo 24.º — Redução do valor da caução nos contratos públicos
 
-1- Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços celebrados pelas entidades adjudicantes referidas no artigo 2.º do Decreto Legislativo Regional n.º 34/2008/A, de 28 de julho, após 1 de janeiro de 2012 e até 31 de dezembro de 2014, o valor da caução exigida ao adjudicatário com vista a garantir a celebração do contrato, bem como o exato e pontual cumprimento de todas as obrigações legais e contratuais, é reduzido para 2% do preço contratual.
+(Revogado.)
 
-2- Nos contratos de empreitada de obras públicas celebrados pelas entidades adjudicantes referidas no número anterior após 1 de janeiro de 2012 e até 31 de dezembro de 2014, não pode ser exigido ao cocontratante, em cada um dos pagamentos parciais previstos, um reforço da caução prestada em valor superior a 2%.
-
-3- Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços celebrados pelas entidades adjudicantes referidas no n.º 1 em data anterior a 1 de janeiro de 2012, o valor da caução prestada pelo adjudicatário, bem assim o valor do reforço da caução prestada pelo empreiteiro, pode ser reduzido para 2% do preço contratual, desde que tenha tido lugar a receção provisória ou o início do período de garantia, consoante o caso, essa redução seja requerida pelo cocontratante e não se verifiquem circunstâncias que permitam, ou previsivelmente venham a permitir, a execução da caução.
-
-4 - O disposto nos números anteriores aplica-se, com as devidas adaptações, aos contratos de subempreitada de obras públicas.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 18/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2012-552795) e [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390) e [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 27/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), publicado em 2015-12-29.
 
 ### CAPÍTULO IX — Adaptação do sistema fiscal
 

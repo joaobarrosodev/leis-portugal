@@ -28,18 +28,22 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 546/76 art. 1.º: nova redação do n.º 3 do art. 1.º ('oficiosa e gratuitamente'), aplicada — o reparo do verificador está errado, esta instrução existe",
-    "Lei 22/87 art. 1.º: aditados n.os 4 e 5 ao art. 1.º (n.º 5 depois substituído)",
-    "Lei 22/87 art. 2.º: nova redação do art. 5.º",
-    "Lei 22/87 art. 3.º: aditado art. 9.º",
-    "Lei 22/87 art. 4.º: revogados n.os 6 e 7 do art. 3.º",
-    "Lei 108/97 art. 1.º: nova redação do n.º 5 do art. 1.º",
-    "Lei 108/97 art. 2.º: aditado n.º 6 ao art. 1.º",
-    "Lei 108/97 art. 3.º: norma autónoma, não altera o original"
+    "Reparo ao artigo 1.º não confirmado: o Alterador 1 (Decreto-Lei n.º 546/76, art. 1.º) dá nova redação ao n.º 3 do artigo 1.º («Serão oficiosa e gratuitamente efectuadas...») — aplicada.",
+    "Alterador 2, art. 1.º: aditados os n.os 4 e 5 ao artigo 1.º — aplicados (o n.º 5 depois substituído pelo Alterador 3).",
+    "Alterador 2, art. 2.º: nova redação do artigo 5.º — aplicada.",
+    "Alterador 2, art. 3.º: aditado o artigo 9.º — aplicado.",
+    "Alterador 2, art. 4.º: revogados os n.os 6 e 7 do artigo 3.º — aplicado.",
+    "Alterador 3, art. 1.º: nova redação do n.º 5 do artigo 1.º — aplicada, substituindo o n.º 5 do Alterador 2 com as suas alíneas.",
+    "Alterador 3, art. 2.º: aditado o n.º 6 ao artigo 1.º — aplicado.",
+    "Alterador 3, art. 3.º: norma autónoma sobre o Decreto-Lei n.º 547/74 — não é do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

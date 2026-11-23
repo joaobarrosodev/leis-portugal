@@ -1,0 +1,12 @@
+[
+ {
+  "id": "pt:dre:229921:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 13.º, n.º 1, a estrutura orgânica do Governo Regional constante do original é substituída pela do Decreto Legislativo Regional n.º 29-A/96/A: não textual: substituição global de todo o regime, sem nova redação nem revogação expressa de unidades; equivale a deixar sem efeito o diploma inteiro, e nesse caso as regras mandam não devolver texto\nAlterador 2, art. 1.º, nova redação dos arts. 1.º, 4.º, 9.º, 11.º e 12.º do Decreto Regulamentar Regional n.º 6/94/A: outro diploma: o original só é citado no preâmbulo",
+  "instrucoes": [
+   "Alterador 1 (DLR 29-A/96/A), art. 13.º, n.º 1: substitui por inteiro a estrutura orgânica do original pela nova; sem instrução textual sobre unidades; nada devolvido (nao_aplicavel).",
+   "Alterador 2 (DRR 15/2000/A): altera o DRR 6/94/A; outro diploma; ignorado."
+  ]
+ }
+]

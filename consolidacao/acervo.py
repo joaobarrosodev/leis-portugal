@@ -129,11 +129,15 @@ DE_FORA = {
 def _fora_da_camada1() -> set[str]:
     """Camada 1 (`camada1.py`, ronda 115): os diplomas da onda cujo estado não é «aplicar». Um que passou às
     cegas pode ter sido recusado na segunda leitura jurídica (uma retificação ou uma revogação por aplicar);
-    o motivo está em `auditoria/camada1-estado.jsonl`."""
-    f = PASTA / "auditoria" / "camada1-estado.jsonl"
-    if not f.exists():
-        return set()
-    return {d["id"] for d in map(json.loads, f.read_text(encoding="utf-8").splitlines()) if d["estado"] != "aplicar"}
+    o motivo está em `auditoria/camada1-estado.jsonl` (onda 1) e `auditoria/camada1-estado-onda-N.jsonl` (ondas seguintes).
+    Um diploma de uma onda (`camada1/onda-N.jsonl`) que ainda não tem estado também fica de fora: só entra com «aplicar»."""
+    fora: set[str] = set()
+    for onda in sorted((PASTA / "camada1").glob("onda-*.jsonl")):
+        n = onda.stem.split("-")[1]
+        f = PASTA / "auditoria" / ("camada1-estado.jsonl" if n == "1" else f"camada1-estado-onda-{n}.jsonl")
+        aplicar = {d["id"] for d in map(json.loads, f.read_text(encoding="utf-8").splitlines()) if d["estado"] == "aplicar"} if f.exists() else set()
+        fora |= {d["id"] for d in map(json.loads, onda.read_text(encoding="utf-8").splitlines()) if d["id"] not in aplicar}
+    return fora
 
 
 DE_FORA |= _fora_da_camada1()

@@ -28,10 +28,58 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-07-22'
+version_history:
+  file: decreto-lei-143-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-07-22'
+    amending: pt:dre:378952:por
+    amending_title: Declaração; Decreto-Lei n.º 334/83; Portaria n.º 346/84; Portaria n.º 367/86
+    changes:
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 19-19
+    - Altera Artigo unidades 22-23
+    - Altera Artigo unidades 26-45
+    - Altera Artigo unidades 49-53
+    - Altera Artigo unidades 60-61
+    - Altera Artigo unidades 65-65
+    - Altera Artigo unidades 67-67
+    - Altera Artigo unidades 73-73
+    - Altera Artigo unidades 74-75
+    - Altera Artigo unidades 76-77
+    - Altera Artigo unidades 78-79
+    - Altera Artigo unidades 86-86
+    - Altera Artigo unidades 88-97
+    - Altera Artigo unidades 140-148
+    - Altera Artigo unidades 149-150
+    - Altera Artigo unidades 200-200
+    - Altera Artigo unidades 210-210
+    - Altera Artigo unidades 216-216
+    - Altera Artigo unidades 232-233
+    - Altera Artigo unidades 242-242
+    - Altera Artigo unidades 244-244
+    - Altera Artigo unidades 249-252
+    - Altera Artigo unidades 254-254
+    - Altera Artigo unidades 256-256
+    - Adita Artigo depois da unidade 256
+    - Altera Artigo unidades 296-296
+    - Altera Artigo unidades 299-300
+    - Altera Artigo unidades 303-303
+    - Altera Artigo unidades 305-410
+    - Altera Artigo unidades 412-499
+    - Altera Artigo unidades 508-508
+    - Altera Artigo unidades 509-514
+    - Altera Artigo unidades 516-516
+    - Altera Artigo unidades 517-517
 identifiers:
   celex: null
   eli: null
@@ -57,7 +105,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:17:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração; Decreto-Lei n.º 334/83;
+    Portaria n.º 346/84; Portaria n.º 367/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-143-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +204,9 @@ Art. 2.º Com excepção das disposições de natureza administrativa compatíve
 
 Art. 3.º As normas técnicas constantes do presente Regulamento poderão ser alteradas, com vista à sua adaptação à evolução da regulamentação internacional, por portaria conjunta do Ministro da Defesa Nacional e do Ministro dos Transportes e Comunicações.
 
-Art. 4.º Ficam revogadas as disposições referentes ao transporte rodoviário constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e o artigo 24.º, n.º 1, do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+Art. 4.º Ficam revogadas as disposições referentes ao transporte rodoviário constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, o [Decreto n.º 47874](https://diariodarepublica.pt/dr/detalhe/decreto/47874-1967-390058), de 30 de Agosto de 1967, na parte aplicável, e o artigo 24.º, n.º 1, do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378952), publicado em 1979-08-20.
 
 Art. 5.º Este diploma entrará em vigor cento e oitenta dias após a data da sua publicação.
 
@@ -171,15 +222,19 @@ Regulamento sobre Transporte de Produtos Explosivos por Estrada (RTPEE)
 
 ###### ARTIGO 1.º — Produtos explosivos
 
-1 - Consideram-se, no presente Regulamento, sob a designação geral de produtos explosivos as substâncias explosivas (pólvoras e explosivos), os objectos carregados de substâncias explosivas (detonadores, munições, espoletas, mechas, cordões, cartuchos, etc.) e os artifícios pirotécnicos (inflamadores, brinquedos pirotécnicos e fogos de artifício).
+1 - Consideram-se no presente Regulamento, sob a designação geral de produtos explosivos, as substâncias explosivas (pólvoras, propergóis e explosivos), os objectos carregados de substâncias explosivas (detonadores, espoletas, cordões, mechas, munições, cartuchos e outros de natureza e uso equiparados) e os artifícios pirotécnicos (inflamadores, fogos de artifício, artifícios de sinalização e munições químicas).
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Definição de substâncias explosivas
 
 2 - Definem-se como substâncias explosivas as que, sob a influência de uma acção excitadora, são capazes de libertar bruscamente toda a energia que contêm, dando lugar, sem intervenção do oxigénio do ar, à formação de grande volume de gases a alta temperatura, de que resultam efeitos destruidores importantes no meio ambiente causados pela elevada pressão por eles desenvolvida.
 
-Pólvoras e explosivos
+Pólvoras, propergóis a explosivos
 
-3 - As substâncias explosivas recebem a designação de pólvoras ou de explosivos conforme o modo como se propaga a sua decomposição explosiva: lenta e progressiva no primeiro caso - deflagração - e muito rápida no segundo - detonação.
+3 - As pólvoras e os propergóis são substâncias explosivas cuja decomposição se realiza de forma relativamente lenta e progressiva - são do tipo deflagrante; os explosivos decompõem-se com uma velocidade extraordinariamente elevada - são do tipo detonante.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 2.º — Classificação dos produtos explosivos
 
@@ -187,43 +242,57 @@ Pólvoras e explosivos
 
 Classe 1-a - Substâncias explosivas:
 
-1.ª categoria - Pólvoras negras.
+1.ª categorias - Pólvoras negras.
 
-2.ª categoria - Pólvoras sem fumo.
+2.ª categoria - Pólvoras sem fumo e outras substâncias deflagrantes.
 
-3.ª categoria - Dinamites e explosivos análogos.
+3.ª categoria - Propergóis sólidos.
 
-4.ª categoria - Explosivos dificilmente inflamáveis.
+4.ª categoria - Explosivos para trabalhos de desmonte.
 
-5.ª categoria - Nitroceluloses humedecidas (com mais de 12,6% de azoto); nitroceluloses plastificadas (com menos de 12,6% de azoto e menos de 18% de plastificante).
+5.ª categoria - Explosivos dificilmente inflamáveis.
 
-6.ª categoria - Peróxidos orgânicos (não fleumatizados).
+6.ª categoria - Nitroglicerinas, nitroceluloses e análogos.
+
+7.ª categoria - Explosivos iniciadores.
 
 Classe 1-b - Objectos carregados de substâncias explosivas:
 
-1.ª categoria - Detonadores e análogos.
+1.ª categoria - Dispositivos de iniciação.
 
-2.ª categoria - Munições espoletadas.
+2.ª categoria - Cargas propulsoras.
 
 3.ª categoria - Munições não espoletadas.
 
-4.ª categoria - Objectos com fósforo ou com outras substâncias inflamáveis.
+4.ª categoria - Munições espoletadas.
 
-5.ª categoria - Mechas rápidas e cordões detonantes.
+5.ª categoria - Munições com propergol líquido ou com líquido ou gel inflamáveis.
 
-6.ª categoria - Objectos com pequena carga.
+6.ª categoria - Munições sem carga detonante.
 
-Classe 1-c - Artifícios pirotécnicos:
+7.ª categoria - Objectos pirofóricos, hidroactivos ou com líquidos hipergólicos.
 
-1.ª categoria - Inflamadores.
+Classe 1-c - Artifícios, pirotécnicos:
 
-2.ª categoria - Brinquedos pirotécnicos.
+1.ª categoria - Inflamadores (não detonantes).
 
-3.ª categoria - Fogos de artifício.
+2.ª categoria - Fogos de artifício.
 
-Peróxidos orgânicos não fleumatizados
+3.ª categoria - Artifícios de sinalização.
 
-2 - Sob a designação geral de peróxidos orgânicos (não fleumatizados) consideram-se os peróxidos que, no estado seco ou associados a pequenas quantidades de dissolvente ou de fleumatizante, são susceptíveis de originar reacções explosivas, normalmente do tipo detonante.
+4.ª categoria - Objectos para uso técnico.
+
+5.ª categoria - Munições iluminantes, incendiárias, fumígenas ou lacrimogéneas.
+
+6.ª categoria - Munições incendiárias ou fumígenas com fósforo brando.
+
+7.ª categoria - Munições tóxicas.
+
+Produtos explosivos não aceites para transporte
+
+2 - Os produtos explosivos da 7.ª categoria de cada uma das classes 1-a, 1-b ou 1-c não são aceites para transporte terrestre.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 3.º — Matérias perigosas
 
@@ -231,15 +300,19 @@ Peróxidos orgânicos não fleumatizados
 
 a) Os metais alcalinos, alcalino-terrosos ou suas ligas;
 
-b) Os metais em pó, como o alumínio, o zinco, o magnésio e o zircónio ou suas misturas;
+b) Os metais em pó, como o alumínio, o zinco, o magnésio, o níquel, o zircónio e o titânio ou suas misturas;
 
 c) O fósforo branco ou amarelo e o fósforo vermelho;
 
-d) As matérias comburentes, como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos, de metais alcalinos ou alcalino-terrosos, os percloratos e os nitratos de amónio, ou suas misturas; o tetranitrometano e os nitritos inorgânicos;
+d) O carvão vegetal em pó e o enxofre;
 
-e) As nitroceluloses humedecidas (com menos de 12,6% de azoto) e as nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante);
+e) As nitroceluloses humedecidas (com menos de 12,6% de azoto), as nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) e os nitroderivados mono e dinitrados (mononitrometano e mononitroetano; mononitronaftaleno, mononitrobenzeno e dinitrobenzeno comercial; mononitrotolueno e dinitrotolueno comercial);
 
-f) Os peróxidos orgânicos (fleumatizados).
+f) As matérias comburentes, como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos, especialmente os de metais alcalinos ou alcalino-terrosos, os percloratos e os nitratos de amónio, ou suas misturas (entre as quais os adubos nitrados), o tetranitrometano e os nitritos inorgânicos;
+
+g) Os peróxidos orgânicos (fleumatizados).
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Peróxidos orgânicos fleumatizados
 
@@ -253,9 +326,11 @@ O transporte dos produtos explosivos mencionados no artigo 2.º e das matérias 
 
 1 - O transporte de substâncias explosivas da classe 1-a até 5 kg, de objectos carregados de substâncias explosivas da classe 1-b até 10 kg e de artifícios pirotécnicos da classe 1-c até 15 kg não está sujeito a prescrições especiais respeitantes ao tipo de veículo a utilizar, às suas características técnicas, ao seu equipamento e à sua documentação.
 
-Transporte de fósforos de segurança, de adubos nitrados e de embalagens vazias
+Transportes sem limitação de peso
 
-2 - Admitem-se também, sem obediência a tais prescrições especiais e sem limitação de peso, os transportes dos fósforos de segurança da classe 1-c, dos adubos nitrados e das embalagens vazias depois de utilizadas nos transportes dos produtos explosivos da classe 1-a, das matérias comburentes ou dos peróxidos orgânicos (fleumatizados) referidos no artigo 3.º
+2 - Admitem-se também, sem obediência a tais prescrições especiais e sem limitação de peso, os transportes dos acendedores de mecha de combustão lenta da classe 1-c, do carvão vegetal em pó, do enxofre, dos adubos nitrados e das embalagens vazias, depois de utilizadas nos transportes dos produtos explosivos da classe 1-a ou nos transportes das matérias comburentes ou dos peróxidos orgânicos.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Transporte de cartuchos para armas portáteis e de mechas de combustão lenta
 
@@ -263,11 +338,15 @@ Transporte de cartuchos para armas portáteis e de mechas de combustão lenta
 
 Transporte em paióis móveis e em paiolins móveis
 
-4 - São igualmente de admitir, sem obediência a tais prescrições, os transportes de substâncias explosivas executados entre o paiol principal e a região ou local de trabalho, quando sejam utilizados paióis móveis ou paiolins móveis e as quantidades neles contidas não excedam, respectivamente, 50 kg ou 10 kg de explosivos da 3.ª ou da 4.ª categoria da classe 1-a, ou 100 kg ou 20 kg de pólvoras da 1.ª ou da 2.ª categoria da mesma classe.
+4 - São igualmente de admitir, sem obediência a tais prescrições especiais, os transportes de pólvoras ou de explosivos executados entre o paiol principal e a região ou local de emprego, quando sejam utilizados paióis móveis ou paiolins móveis e as quantidades neles contidas não excedam, respectivamente, 50 kg ou 10 kg de explosivos da 4.ª ou da 5.ª categoria da classe 1-a, ou 100 kg ou 20 kg de pólvora da 1.ª ou da 2.ª categoria da mesma classe.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 6.º — Transporte de matérias perigosas em pequenas quantidades
 
-O transporte de metais alcalinos, alcalino-terrosos ou suas ligas até 10 kg, o de metais em pó, como o alumínio, o zinco, o magnésio, o zircónio ou suas misturas, até 100 kg, o de fósforo branco ou amarelo e o de fósforo vermelho, até 50 kg, o de nitroceluloses humedecidas (com menos de 12,6% de azoto) ou de nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante), até 50 kg, o de matérias comburentes (como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos, de metais alcalinos ou alcalino-terrosos, os percloratos e os nitratos de amónio, ou suas misturas, com excepção dos adubos nitrados, o tetranitrometano e os nitritos inorgânicos), até 10 kg, e o de peróxidos orgânicos (fleumatizados), até 5 kg, poderão também fazer-se sem obediência às prescrições especiais referidas no n.º 1 do artigo 5.º, desde que não estejam incluídos, em conjunto ou com produtos explosivos das classes 1-a, 1-b ou 1-c, no mesmo veículo ou no reboque que este possa ter atrelado.
+Os transportes de metais alcalinos, alcalino-terrosos ou suas ligas, até 10 kg, de metais em pó, como o alumínio, o zinco, o magnésio, o níquel, o zircónio, o titânio ou suas misturas, até 100 kg, de fósforo branco ou amarelo e de fósforo vermelho, até 50 kg, de nitroceluloses humedecidas (com menos de 12,6% de azoto) ou de nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) e de nitroderivados mono e dinitrados, até 50 kg, de matérias comburentes, como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos ou suas misturas (com excepção dos adubos nitrados), o tetranitrometano e os nitritos inorgânicos, até 10 kg, e de peróxidos orgânicos (fleumatizados), até 5 kg, também se poderão fazer sem obediência às prescrições especiais referidas no n.º 1 do artigo 5.º, desde que não estejam incluídos, em conjunto ou com produtos explosivos das classes 1-a, 1-b ou 1-c, no mesmo veículo ou no reboque que este possa ter atrelado.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 7.º — Proibição de transporte com matérias não abrangidas pelo Regulamento
 
@@ -279,19 +358,51 @@ As matérias comburentes e os peróxidos orgânicos (fleumatizados) mencionados 
 
 ###### ARTIGO 9.º — Restrições no transporte de produtos explosivos com matérias perigosas
 
-As matérias perigosas citadas no artigo 3.º não poderão ser transportadas no mesmo veículo com produtos explosivos das classes 1-a, 1-b ou 1- c, apenas podendo ser utilizado para o seu carregamento o reboque que àquele for atrelado; exceptuam-se desta norma as nitroceluloses humedecidas (com menos de 12,6% de azoto) ou plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) e os peróxidos orgânicos (fleumatizados) apenas nos casos referidos, respectivamente, nos artigos 10.º e 11.º
+As matérias perigosas citadas no artigo 3.º não poderão ser transportadas no mesmo veículo com produtos explosivos das classes 1-a, 1-b ou 1-c, apenas podendo ser utilizado para o carregamento de algumas delas (metais alcalinos ou alcalino-terrosos, metais em pó, nitroceluloses ou nitroderivados e matérias comburentes) o reboque que àquele for atrelado; exceptuam-se desta norma as nitroceluloses humedecidas (com menos de 12,6% de azoto) ou plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) e os nitroderivados mono e dinitrados apenas no caso referido no artigo 10.º
 
-###### ARTIGO 10.º — Transporte de nitroceluloses
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
-As nitroceluloses humedecidas (com menos de 12,6% de azoto) ou as nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) poderão ser transportadas no mesmo veículo conjuntamente com produtos explosivos da 5.ª categoria da classe 1-a, obedecendo então às prescrições que para esta são estabelecidas.
+###### ARTIGO 10.º — Transporte de nitroceluloses e de nitroderivados
 
-###### ARTIGO 11.º — Transporte de peróxidos orgânicos fleumatizados
+As nitroceluloses humedecidas (com menos de 12,6% de azoto), as nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante) e os nitroderivados mono e dinitrados poderão ser transportados no mesmo veículo com produtos explosivos da 6.ª categoria da classe 1-a, desde que então obedeçam às prescrições estabelecidas para os produtos desta categoria.
 
-Os peróxidos orgânicos (fleumatizados) cujo transporte não exija agente frigorígeno poderão ser transportados no mesmo veículo conjuntamente com produtos explosivos da 6.ª categoria da classe 1-a, obedecendo então às prescrições que para esta são estabelecidas.
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
-###### ARTIGO 12.º — Embalagens a utilizar; etiquetas nas embalagens
+###### ARTIGO 11.º — Transporte de peróxidos orgânicos sem agente frigorígeno
 
-As embalagens a utilizar no acondicionamento dos produtos explosivos ou das matérias perigosas referidas no artigo 3.º, bem como as etiquetas a aplicar, deverão obedecer ao preceituado nas Instruções sobre Embalagens de Produtos Explosivos, da Comissão dos Explosivos.
+Os peróxidos orgânicos que não necessitam de agente frigorígeno não poderão ser transportados em conjunto no mesmo veículo com peróxidos orgânicos com agente frigorígeno, nem com quaisquer outros produtos; apenas poderão ser acompanhados de matérias comburentes quando um dos produtos seja carregado no veículo e o outro no reboque.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
+
+###### ARTIGO 12.º — Símbolos de classificação
+
+1 - A cada produto explosivo atribui-se um símbolo de classificação, tal com se verifica no apêndice I, constituído por uma parte numérica (1.1, 1.2, 1.3, 1.4 ou 1.5) e por uma letra (A, B, C, D, E, F, G, H, J, K, L ou S), indicando, respectivamente, a divisão de risco e o grupo de compatibilidade que lhe corresponde.
+
+Divisões de risco
+
+2 - Conforme o tipo de risco que os produtos explosivos apresentam, quando embalados nas condições em que são aceites para transporte, assim se classificam em cinco divisões de risco, do modo seguinte:
+
+a) Divisão de risco 1.1 - quando podem manifestar um risco de explosão em massa;
+
+b) Divisão de risco 1.2 - quando podem manifestar um risco de projecções;
+
+c) Divisão de risco 1.3 - quando podem manifestar um risco de fogo em massa;
+
+d) Divisão de risco 1.4 - quando podem manifestar um risco de fogo moderado, sem efeitos significativos fora da embalagem;
+
+e) Divisão de risco 1.5 - quando, devido à sua pequena sensibilidade, se considera pouco provável a manifestação de qualquer risco.
+
+A divisão de risco 1.5 apenas se justifica para efeito de transporte; os produtos explosivos classificados nesta divisão, quando armazenados, são classificados na divisão de risco 1.1.
+
+Grupos de compatibilidade
+
+3 - Na atribuição das letras indicativas dos grupos de compatibilidade aos produtos explosivos deverá atender-se à sua natureza, composição e propriedades e proceder de acordo com os elementos constantes na parte final do apêndice I.
+
+Embalagens a utilizar; etiquetas nas embalagens
+
+4 - As embalagens a utilizar no acondicionamento dos produtos explosivos ou das matérias perigosas referidas no artigo 3.º, bem como as etiquetas a aplicar, deverão obedecer aos tipos preceituados nas Instruções sobre Embalagens de Produtos, Explosivos, da Inspecção dos Explosivos, tendo em atenção que as designações das classes dos produtos a transportar e os símbolos de classificação dos produtos explosivos devem figurar nas etiquetas correspondentes.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 13.º
 
@@ -305,29 +416,33 @@ Não aceitação para transporte de sais de amónio ou suas misturas, tetranitro
 
 Condições de aceitação para transporte
 
-4 - Só podem ser aceites para transporte os produtos explosivos das classes 1-a, 1-b ou 1-c e as matérias perigosas referidas no artigo 3.º, cujas designações estejam incluídas nos apêndices I e II; exceptuam-se desta norma as matérias comburentes que, embora não constando no apêndice II, podem ser admitidas ao transporte, desde que estejam incluídas nas designações genéricas mencionadas na alínea d) do n.º 1 do artigo 3.º e não estejam abrangidas pelo disposto nos n.os 1 e 2 anteriores.
+4 - Com excepção dos produtos explosivos classificados nos grupos de compatibilidade A, L ou K, cujo transporte terrestre é proibido, segundo o disposto no n.º 2 do artigo 2.º, só podem ser aceites para transporte os produtos explosivos das classes 1-a, 1-b ou 1-c e as matérias perigosas referidas no artigo 3.º cujas designações constem nos apêndices I e II; não são abrangidas por esta norma as matérias comburentes que, embora não se encontrando mencionadas no apêndice II; podem ser admitidas também ao transporte, desde que não estejam abrangidas pelo disposto nos n.os 1 e 2 deste artigo e estejam incluídas nas designações genéricas constantes da alínea f) do n.º 1 do artigo 3.º
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 14.º — Regra geral a observar no transporte de produtos explosivos
 
-1 - Como regra geral os produtos explosivos das classes 1-a, 1-b ou 1-c não poderão ser transportados conjuntamente no mesmo veículo nem no reboque a este atrelado quando pertençam a classes diferentes ou a categorias diferentes se forem da mesma classe (quadro I).
+1 - O transporte de produtos explosivos das classes 1-a, 1-b ou 1-c deverá realizar-se de modo a satisfazer à seguinte regra geral (quadro I):
 
-Excepções à regra geral permitidas no transporte de produtos explosivos
+a) Os produtos explosivos classificados em grupos de diferente compatibilidade e que pertençam a classes diferentes ou a categorias diferentes dentro da mesma classe não poderão ser transportados em conjunto no mesmo veículo ou no reboque a este atrelado;
 
-2 - Exceptuam-se desta regra:
+b) Os produtos explosivos que pertençam à mesma classe e à mesma categoria, qualquer que seja o seu grupo de compatibilidade, poderão ser transportados em conjunto no mesmo veículo;
 
-a) Os transportes de produtos da 6.ª categoria da classe 1-b, entre os quais se contam os cartuchos vazios com cápsula e os cartuchos carregados, destinados a armas portáteis, que poderão ser transportados no mesmo veículo em conjunto com produtos explosivos pertencentes a outras classes ou a outras categorias;
+c) Os produtos explosivos classificados no mesmo grupo de compatibilidade e que pertençam a classes diferentes ou a categorias diferentes dentro da mesma classe poderão também ser transportados em conjunto no mesmo veículo, excepto quando apresentarem diferenças notáveis de sensibilidade, caso em que uns (por exemplo, os mais sensíveis) poderão ser transportados no veículo e os outros (os menos sensíveis) poderão ser transportados no reboque que àquele estiver atrelado.
 
-b) Os transportes de produtos da 1.ª e 5.ª categorias da classe 1-b, entre os quais se contam os detonadores, as mechas de combustão rápida e os cordões detonantes, que poderão ser transportados em conjunto no mesmo veículo; poderão também ser transportados acompanhando produtos explosivos da classe 1-a carregados num veículo, quando arrumados no reboque atrelado; quando se trate de transportes executados nas condições do n.º 4 do artigo 5.º, poderão acompanhar no mesmo veículo os produtos explosivos referidos naquele número, desde que sejam acondicionados em embalagens próprias, em quantidades que não excedam as estritamente indispensáveis à utilização daqueles produtos e fiquem afastados destes o mais possível;
+Excepções à regra geral
 
-c) Os transportes de produtos da 1.ª categoria da classe 1-c, entre os quais se contam as mechas de combustão lenta, os fósforos de segurança e outros inflamadores, que poderão realizar-se acompanhando produtos explosivos das classes 1-a ou 1-b (menos 6.ª categoria) carregados num veículo, quando arrumados no reboque atrelado; com os da 6.ª categoria da classe 1-b poderão ser carregados no mesmo veículo, de acordo com a alínea a) do n.º 2 deste artigo;
+2 - Exceptuam-se da regra geral (quadro I):
 
-d) Os transportes de produtos da 2.ª categoria da classe 1-c, entre os quais se contam os diferentes brinquedos pirotécnicos, que poderão realizar-se acompanhando produtos explosivos da classe 1-b (menos 6.ª categoria) carregados num veículo, quando arrumados no reboque atrelado; com os da 6.ª categoria da classe 1-b poderão ser carregados no mesmo veículo, de acordo com a alínea a) do n.º 2 deste artigo;
+a) Os transportes de produtos da 1.ª categoria da classe 1-b, que poderão efectuar-se nos reboques dos veículos carregados com produtos da 1.ª, 2.ª, 4.ª ou 5.ª categorias do classe 1-a, da 3.ª 4.ª ou 6.ª categorias da classe 1-b ou da 1.ª categoria da classe 1-c;
 
-e) Os transportes de produtos da 2.ª categoria da classe 1-c, que poderão realizar-se no mesmo veículo em conjunto com os produtos da 1.ª ou 3.ª categoria da mesma classe;
+b) Os transportes de produtos da 6.ª catetegoria da classe 1-b, que poderão efectuar-se nos veículos carregados com produtos da, 3.ª ou 4.ª categorias da mesma classe;
 
-f) Os transportes de produtos da 3.ª categoria da classe 1-c, onde se contam os diferentes tipos de fogos de artifício, que poderão realizar-se acompanhados dos produtos da 1.ª categoria da classe 1-c, desde que estes sejam arrumados no reboque atrelado;
+c) Os transportes de produtos da 1.ª catetegoria da classe 1-c, que poderão efectuar-se nos reboques dos veículos carregados com produtos da 1.ª, 2.ª, 4.ª ou 5.ª categorias da classe 1-a, ou da 1.ª ou 3.ª ou 4.ª categorias da classe 1-b;
 
-g) Os transportes internacionais, abrangidos pelo Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), em que apenas não é permitido juntar no mesmo veículo os produtos explosivos da 1.ª e 5.ª categorias da classe 1-b, contidos em embalagens com duas etiquetas iguais, referentes à natureza do perigo que lhes corresponde, com quaisquer outros produtos explosivos das classes 1-a, 1-b, ou 1-c, contidos em embalagens com uma só etiqueta.
+d) Os transportes de produtos classificados no grupo de compatibilidade S, que poderão efectuar-se nos veículos carregados com produtos classificados em quaisquer outros grupos de compatibilidade.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 ###### ARTIGO 15.º — Guia de remessa ou factura, instruções escritas, exemplar do regulamento
 
@@ -413,7 +528,7 @@ Em veículos que transportem passageiros não é permitido o carregamento de pro
 
 ###### ARTIGO 20.º — Carga máxima
 
-1 - O tipo e as características técnicas dos veículos automóveis a utilizar (quadro II), bem como o seu equipamento, variam com a natureza e as quantidades dos produtos a transportar, não podendo, em qualquer caso, a carga máxima, com tais produtos, exceder 90% da carga autorizada para as mercadorias ordinárias, nem os seguintes limites por vagão:
+1 - O tipo e as características técnicas dos veículos automóveis a utilizar (quadro II), bem como o seu equipamento, variam com a natureza e as quantidades dos produtos a transportar, não podendo em qualquer caso a carga máxima com tais produtos exceder 90% da carga autorizada para as mercadorias ordinárias nem os seguintes limites por veículo:
 
 Produtos explosivos:
 
@@ -423,17 +538,19 @@ Veículos sem reboque ... 6000
 
 Veículos com reboque ... 10000
 
-Matérias comburentes (exceptuando os adubos nitrados) ou peróxidos orgânicos (fleumatizados) ... 10000
+Peróxidos orgânicos (fleumatizados) ... 10000
+
+Matérias comburentes (exceptuando os nitratos embalados e os adubos nitrados) ... 15000
 
 Restantes matérias referidas no artigo 6.º ... 15000
 
-Adubos nitrados ... 20000
+Nitratos embalados ou adubos nitrados ... 20000
 
 Matérias comburentes a granel ou em solução ... 25000
 
-Carga máxima nos transportes Internacionais
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
-2 - Nos transportes internacionais abrangidos pelo ADR os produtos explosivos, com excepção dos pertencentes às 1.ª, 3.ª e 6.ª categorias da classe 1-a e às 1.ª e 2.ª categorias da classe 1-b, poderão ser transportados até aos limites de 9000 kg por veículo sem reboque ou de 15000 kg por veículo com reboque.
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Características dos veículos automóveis de caixa aberta
 
@@ -533,7 +650,9 @@ b) Para os peróxidos nas condições do n.º 4 deste artigo: 6000 kg por veícu
 
 Transporte do tetranitrometano e de soluções de matérias comburentes em veículos-cisternas ou em contentores-cisternas.
 
-2 - O tetranitrometano, as soluções de cloratos ou de percloratos (com excepção dos de amónio) e as soluções de cloritos de sódio ou de potássio podem ser transportados em veículos-cisternas ou em contentores-cisternas, cujos reservatórios, de estanquidade absoluta, deverão ser de chapa de aço com uma espessura mínima de 3 mm; para as soluções de cloratos (com excepção dos de amónio) as cisternas poderão ser de matérias plásticas reforçadas.
+2 - O tetranitrometano, o clorato de sódio pulverulento no estado seco, as soluções de cloratos ou de percloratos (com excepção dos de amónio) e as soluções de cloritos de sódio ou de potássio podem ser transportados em veículos-cisternas ou em contentores-cisternas, cujos reservatórios deverão ser de estanquidade absoluta e construídos de chapa de aço capaz de resistir a uma pressão manométrica mínima de 4 kg/cm2; para as soluções de cloratos (com excepção dos de amónio), as cisternas poderão também ser de matérias plásticas reforçadas; o nitrato de amónio, em soluções aquosas concentradas e quentes, não contendo mais de 0,02% de substâncias combustíveis e não ultrapassando uma concentração de 93%, pode também ser transportado em veículos-cisternas, cujos reservatórios sejam construídos de aço austenítico e estejam envolvidos por uma protecção calorífuga de natureza inorgânica e isenta de matéria combustível.
+
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
 Não aceitação para transporte com resíduos de comburentes
 
@@ -553,7 +672,9 @@ Os transportes de metais alcalinos, como o sódio, o potássio ou suas ligas, po
 
 ###### ARTIGO 25.º — Transporte de fósforo branco ou amarelo em veículos-cisternas ou em contentores-cisternas
 
-1 - Os transportes de fósforo branco ou amarelo podem também realizar-se em veículos-cisternas ou em contentores-cisternas, cujos reservatórios deverão ser hermeticamente estanques, construídos de chapa de aço com uma espessura não inferior a 10 mm e capazes de resistir, respectivamente, a uma pressão manométrica mínima de 4,5 kg/cm2 ou de 10 kg/cm2, e desde que como agente de protecção se empregue a água ou o azoto; no primeiro caso, o fósforo deverá ficar coberto com uma camada de água de 12 cm de espessura, pelo menos, deixando-se um espaço vazio que, à temperatura de 60ºC, será, pelo menos, igual a 2% da capacidade total do reservatório; no segundo caso, o fósforo não deverá ocupar, à temperatura de 60ºC, mais de 96% da capacidade total do reservatório, sendo o espaço restante cheio de azoto, de modo que a pressão interior nunca desça abaixo da pressão atmosférica.
+1 - Os transportes de fósforo branco ou amarelo podem também realizar-se em veículos-cisternas ou em contentores-cisternas, cujos reservatórios deverão ser hermeticamente estanques e construídos de chapa de aço capaz de resistir a uma pressão manométrica mínima de 10 kg/cm2, desde que como agente de protecção se empregue a água ou o azoto; no caso da água, o fósforo deve ficar coberto com uma camada de água de 12 cm de espessura, pelo menos, deixando-se um espaço vazio que, à temperatura de 60ºC, será, pelo menos, igual a 2% da capacidade total do reservatório; no caso do azoto, o fósforo não deverá ocupar, à temperatura de 60ºC, mais de 96% da capacidade total do reservatório, sendo o espaço restante cheio de azoto, de modo que a pressão interior nunca desça abaixo da pressão atmosférica; os reservatórios deverão possuir do lado exterior um dispositivo de aquecimento regulado de modo a impedir que a temperatura do fósforo ultrapasse a temperatura de enchimento; o fósforo branco fundido pode também ser transportado em cisternas.
+
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
 Não aceitação para transporte com resíduos de fósforo branco ou amarelo
 
@@ -565,7 +686,9 @@ Transporte de fósforo branco ou amarelo em contentores
 
 ###### ARTIGO 26.º — Transporte de peróxidos orgânicos líquidos em veículos-cisternas ou em contentores-cisternas
 
-1 - Determinados peróxidos orgânicos líquidos, tais como o hidroperóxido de cumeno, o hidroperóxido de p-mentano e o hidroperóxido de pinano, todos com um teor de peróxido que não ultrapasse 95% podem também ser transportados em veículos-cisternas ou em contentores-cisternas cujos reservatórios sejam construídos de chapa de alumínio com um teor de 99,5%, pelo menos, em condições de resistir, respectivamente, a uma pressão mínima de 3 kg/cm2 ou de 4 kg/cm2, estejam equipados com um dispositivo de arejamento, uma protecção contra a propagação da chama e uma protecção calorífuga e possam ser fechados por uma válvula de segurança que abra automaticamente sob uma pressão manométrica interior de 1,8 kg/cm2 a 2,2 kg/cm2.
+1 - Determinados peróxidos orgânicos líquidos (a saber: o hidroperóxido de cumeno, o hidroperóxido de p-mentano, o hidroperóxido de pipano, todos com um teor de peróxido não ultrapassando 95%, o hidroperóxido de di-isopropilbenzeno com 45% de uma mistura de álcool e de cetona e o peróxido de butilo terciário) podem também ser transportados em veículos-cisternas ou em contentores-cisternas cujos reservatórios, construídos de chapa de alumínio com um teor de 99,5%, pelo menos, ou de aço especial apropriado que não provoque a decomposição dos peróxidos, sejam capazes de resistir a uma pressão manométrica mínima de 4 kg/cm2 e estejam equipados com um dispositivo de arejamento, uma protecção contra a propagação da chama, uma protecção calorífuga e uma válvula de segurança que abra automaticamente sob uma pressão manométrica interior de 1,8 kg/cm2 a 2,2 kg/cm2.
+
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
 Os materiais que constituem os fechos susceptíveis de entrar em contacto com o líquido ou com o seu vapor não devem exercer acção catalítica sobre eles; o grau de enchimento não deve ser superior a 75% da capacidade de cada reservatório; a protecção calorífuga poderá ser constituída por uma cobertura metálica com uma espessura de 1,5 mm, pelo menos, aplicada entre a metade superior e o terço superior dos reservatórios e de modo a ficar separada destes por uma camada de ar com cerca de 4 cm de espessura, ou por um revestimento completo de espessura adequada de materiais isolantes (cortiça ou amianto); a cobertura e a parte não coberta dos reservatórios terão uma camada de tinta branca, que deverá ser limpa e renovada em caso de amarelecimento ou de deterioração.
 
@@ -597,9 +720,11 @@ Legenda nos painéis de sinalização
 
 Estes painéis devem ser tapados ou retirados logo que os veículos estejam descarregados; nos transportes internacionais abrangidos pelo ADR não têm qualquer legenda.
 
-Inscrição numérica nos painéis em veículos cisternas e em contentores-cisternas
+Inscrições numéricas nos painéis em veículos-cisternas e em contentores-cisternas
 
-3 - No caso de transportes em veículos-cisternas ou em contentores-cisternas de alguns produtos, como os peróxidos orgânicos líquidos, o fósforo branco ou amarelo, o sódio e o potássio, as soluções de cloratos de sódio, de potássio ou de cálcio e as soluções de clorito de sódio, os painéis referidos no número anterior deverão ter, em vez da legenda «Perigo de explosão», uma inscrição constituída por dois conjuntos de algarismos em conformidade com o constante no apêndice III, obrigatória quer nos transportes internos quer nos internacionais.
+3 - No caso de transportes em veículos-cisternas ou em contentores-cisternas de alguns produtos, como o tetranitrometano, o clorato de sódio sólido, os peróxidos orgânicos líquidos, o fósforo branco ou amarelo, o fósforo branco fundido, o sódio e o potássio, as soluções de cloratos de sódio, de potássio ou de cálcio, as soluções aquosas concentradas e quentes de nitrato de amónio e as soluções de clorito de sódio, os painéis referidos no número anterior deverão ter, em vez da legenda «Perigo de explosão», uma inscrição constituída por dois conjuntos de algarismos em conformidade com o constante no apêndice III, obrigatória quer nos transportes internos quer nos internacionais.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Etiquetas nos veículos-cisternas, nos contentores-cisternas e nos restantes veículos
 
@@ -617,11 +742,15 @@ Se por motivo de avaria ou acidente qualquer veículo que transporte produtos ex
 
 ###### ARTIGO 33.º — Certificados de aprovação
 
-1 - Só poderão ser utilizados nos transportes indicados nos artigos 20.º a 26.º os veículos e os contentores que possuírem um certificado de aprovação comprovativo do preenchimento das condições exigidas por este Regulamento.
+1 - Só poderão ser utilizados nos transportes referidos nos artigos 20.º a 26.º os veículos e os contentores que possuírem as características exigidas por este Regulamento, o que deverá ser comprovado por um certificado de aprovação do modelo indicado em anexo.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Entidades competentes para a emissão dos certificados de aprovação
 
-2 - A emissão dos certificados de aprovação a que se refere o número anterior compete à Comissão dos Explosivos, salvo para os veículos-cisternas ou contentores-cisternas, em que compete à entidade que vier a ser designada por portaria.
+2 - A emissão dos certificados de aprovação a que se refere o número anterior compete à Inspecção dos Explosivos, salvo para os veículos-cisternas, cujas entidades competentes para tal efeito são as previstas no n.º 2 do artigo 4.º do [Decreto-Lei n.º 210-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-c-1984-625412), de 29 de Junho.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Ensaios ou exames regulamentares
 
@@ -631,21 +760,29 @@ Certificado de aprovação em transportes internacionais
 
 4 - O certificado de aprovação a que se refere o n.º 1 deste artigo será substituído pelo certificado de aprovação exigido pelo ADR quando se trate de veículos a utilizar em transportes internacionais, competindo a sua emissão às entidades referidas no n.º 2.
 
-Inspecção das condições de circulação dos veículos
+Inspecções a efectuar aos veículos
 
-5 - Os certificados de aprovação dos veículos não serão concedidos nem renovados sem que se comprove, em inspecção a efectuar pela Direcção-Geral de Viação, estarem os veículos em boas condições de circulação.
+5 - Os certificados de aprovação dos veículos não serão concedidos nem renovados sem que se comprove previamente, em inspecções a efectuar pelos serviços da Direcção-Geral de Viação e pelas delegações da Inspecção dos Explosivos, que os veículos estão em boas condições de circulação e possuem todas as características exigidas por este Regulamento.
 
-Dispensa da inspecção
-
-6 - A inspecção referida no número anterior é dispensada quando os veículos sejam novos ou tenham sido aprovados em inspecção efectuada há menos de seis meses.
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Prazos de validade dos certificados de aprovação
 
-7 - Os certificados de aprovação dos veículos ou dos contentores serão válidos por um período inicial de três anos, renovável por períodos de um ano. Tratando-se de veículos-cisternas ou de contentores-cisternas sujeitos a uma obrigação de inspecções periódicas antes de expirados os prazos acima referidos, o termo da validade dos respectivos certificados coincidirá com a data limite fixada para a realização dessas inspecções.
+7 - Os certificados de aprovação dos veículos novos, com parecer favorável da, Inspecção dos Explosivos e com projecto aprovado pela Direcção-Geral de Viação, serão válidos por um período incial de três anos, renovável por períodos de um ano. Nos veículos usados os períodos de validade, inicial e subsequentes, nunca poderão ter durações superiores a um ano. Tratando-se de veículos-cisternas, em que as cisternas estão sujeitas a uma obrigação de inspecções periódicas antes de expirados os prazos acima referidos, o termo da validade dos respectivos certificados coincidirá com a data limite fixada para a realização dessas inspecções.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 Certificados de aprovação dos veículos transportando contentores
 
-8 - Nos casos em que, nos termos deste Regulamento, for permitida a utilização de contentores, os certificados de aprovação dos veículos destinados ao seu transporte poderão ser emitidos mesmo quando as respectivas caixas não satisfaçam às características exigidas, uma vez que os contentores a elas têm de satisfazer pelo disposto no n.º 7 do artigo 20.º Nestas condições, entender-se-á que tais veículos só poderão ser utilizados quando os produtos sejam acondicionados em contentores aprovados, o que deverá ser mencionado nos respectivos certificados de aprovação.
+8 - Nos casos em que, nos termos deste Regulamento, for permitida a utilização de contentores, os certificados de aprovação dos veículos destinados ao seu transporte poderão ser emitidos mesmo que as respectivas caixas não satisfaçam às características exigidas, uma vez que os contentores a elas têm de satisfazer pelo disposto no n.º 7 do artigo 20.º Nestas condições, entender-se-á que tais veículos só poderão ser aprovados depois de terem obtido informações favoráveis dos serviços de Direcção-Geral de Viação e das delegações da Inspecção dos Explosivos, em que se declare que os veículos se encontram em boas condições de circulação, são aptos para o transporte dos contentores que tiverem sido indicados e que os conjuntos formados pelos veículos com os contentores possuem características idênticas às exigidas por este Regulamento para os veículos de caixa fechada. Nos certificados de aprovação dos veículos deverão constar, devidamente identificados, os contentores que tiverem sido aprovados, bem como as suas características.
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
+
+Veículos dispondo de caixa fechada, ou de contentor, com 2 compartimentos
+
+9 - Os veículos automóveis sem reboque que, além de satisfazerem as características referidas no n.º 6 do artigo 20.º, possuam caixa fechada constituída por 2 compartimentos, bem isolados um do outro por uma parede metálica dupla, com 0,50 m de espessura, pelo menos, preenchida com material amortecedor e revestida por material ininflamável, ou que utilizem contentor com 2 compartimentos obedecendo aos mesmos requisitos, poderão ser considerados equivalentes, do ponto de vista de segurança, aos veículos automóveis de caixa fechada com reboque atrelado e ser utilizados no transporte interno de produtos de natureza diferente a efectuar de acordo com o disposto no quadro I, se, após inspecções realizadas pela Direcção-Geral de Viação e pela Comissão dos Explosivos, forem considerados em condições de lhes ser passado o respectivo certificado de aprovação.
+
+> Aditado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
 ###### ARTIGO 34.º — Carga ou descarga das embalagens e dos contentores
 
@@ -725,413 +862,45 @@ Responsabilidade das empresas
 
 ###### ARTIGO 41.º — Disposições penais
 
-Nas transgressões aos preceitos do presente Regulamento, e enquanto não for revista a legislação sobre as penalidades a aplicar, considerar-se-á o disposto nos artigos 156.º a 158.º do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, com as alterações introduzidas pelo [Decreto-Lei n.º 76/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1978-425553), de 27 de Abril.
+Às transgressões aos preceitos do presente Regulamento são aplicáveis as sanções prescritas no Regulamento sobre a Fiscalização de Produtos Explosivos, aprovado pelo Decreto-Lei n.º 334/83, de 15 de Julho.
+
+> Alterado pelo/a [Decreto-Lei n.º 334/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1983-453778), publicado em 1983-07-15.
 
 QUADRO I
 
 Transporte de produtos de natureza diferente em veículos automóveis
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16200/17381761.pdf)
 
-Nota. - Para averiguar se podem ou não ser carregados em conjunto determinados produtos diferentes, ou incluídos em classes ou em categorias diferentes, basta verificar no quadro qual a letra que se encontra no cruzamento da linha com a coluna respeitante àqueles produtos e atender ao seu significado.
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 QUADRO II
 
 Veículos de transporte
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16200/17381761.pdf)
+
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 APÊNDICE I
 
-Produtos explosivos abrangidos pelo artigo 2.º do RTPEE com a numeração e designações do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR).
+Produtos explosivos abrangidos pelo artigo 2.º do Regulamento
 
-Classe 1-a - Substâncias explosivas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16200/17381761.pdf)
 
-1.ª categoria - Pólvoras negras:
+Grupos de compatibilidade a símbolos de classificação
 
-11.º - a) Pólvora negra.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16200/17381761.pdf)
 
-b) Pólvoras de mina, lentas, análogas à pólvora negra.
-
-c) Cartuchos de pólvora negra comprimida ou de pólvora análoga à pólvora negra.
-
-2.ª categoria - Pólvoras sem fumo:
-
-3.º - a) Pólvoras de nitrocelulose ou de nitroglicerina, não porosas e não pulverulentas.
-
-b) Pólvoras de nitrocelulose ou de nitroglicerina, porosas ou pulverulentas.
-
-5.º Pólvoras de nitrocelulose não gelatinizadas.
-
-3.ª categoria - Dinamites e explosivos análogos:
-
-14.º - a) Dinamites de base inerte e análogos.
-
-b) Dinamites-goma e dinamites gelatinizadas.
-
-c) Explosivos gelatinosos com base de nitratos inorgânicos, compostos de nitrato de amónio (ou mistura de nitrato de amónio com nitratos alcalinos ou alcalino-terrosos) e nitroglicerina ou nitroglicol gelatinizados (ou a mistura destes dois) não ultrapassando 40%, podendo conter hidrocarbonetos.
-
-12.º - a) Explosivos pulverulentos com base de nitratos inorgânicos, compostos de nitrato de amónio (ou misturas de clorato de amónio com nitratos alcalinos ou alcalino-terrosos ou misturas destes com nitrato de amónio) e nitroglicerina ou nitroglicol, podendo conter hidrocarbonetos.
-
-b) Explosivos pulverulentos isentos de nitratos inorgânicos, compostos de misturas de inertes (cloretos alcalinos) com nitroglicerina ou nitroglicol (ou misturas destes dois), podendo conter nitratos aromáticos.
-
-13.º Explosivos cloratados e percloratados.
-
-4.ª categoria - Explosivos dificilmente inflamáveis:
-
-6.º Trotil, trotil mais alumínio, trinitroanisol, trotil líquido.
-
-7.º - a) Hexil, ácido pícrico.
-
-b) Pentolites, hexolites, fleumatizados.
-
-c) Pentrite, hexogénio, fleumatizados.
-
-8.º - a) Produtos nitrados orgânicos solúveis na água (como a trinitrorresorcina).
-
-b) Produtos nitrados orgânicos insolúveis na água (como o tetril).
-
-c) Reforçadores de tetril.
-
-9.º - a) Pentrite, hexogénio, húmidos.
-
-b) Pentolites, hexolites, húmidos.
-
-c) Misturas de pentrite ou de hexogénio, húmidos com cera, parafina, etc.
-
-d) Reforçadores de pentrite comprimida.
-
-5.ª categoria - Nitroceluloses humedecidas (com mais de 12,6% de azoto); nitroceluloses plastificadas (com menos de 12,6% de azoto e menos de 18% de plastificante):
-
-1.º Nitrocelulose com mais de 12,6% de azoto (algodão-pólvora) com, pelo menos, 25% de água ou de álcool, quando não comprimida, ou, pelo menos, 15% de água ou 12% de parafina ou análogos, quando comprimida.
-
-2.º Matéria não gelatinizada (galette) com, pelo menos, 30% de água.
-
-4.º Nitrocelulose plastificada com menos de 12,6% de azoto (algodão-colódio) e menos de 18% de substância plastificante.
-
-6.ª categoria - Peróxidos orgânicos (não fleumatizados):
-
-10.º - a) Peróxido de benzoilo (seco ou com menos de 10% de água, ou menos de 30% de fleumatizante).
-
-b) Peróxido de ciclo-hexanona (seco ou com menos de 5% de água, ou menos de 30% de fleumatizante).
-
-c) Peróxido de paraclorobenzoilo (seco ou com menos de 10% de água, ou menos de 30% de fleumatizante).
-
-Classe 1-b - Objectos carregados de substâncias explosivas
-
-1.ª categoria - Detonadores e análogos:
-
-5.º - a) Detonadores, dispositivos de atraso.
-
-b) Detonadores eléctricos.
-
-c) Detonadores ligados a mechas de pólvora negra.
-
-d) Detonadores com reforçador.
-
-e) Espoletas com detonador.
-
-f) Buchas de ignição.
-
-6.º Cápsulas de sondagem.
-
-2.ª categoria - Munições espoletadas (ou de risco equivalente):
-
-3.º Petardos de caminho de ferro.
-
-11.º Objectos com carga de rebentamento, com carga propulsora e de rebentamento, com detonador, e não pesando mais de 25 kg.
-
-3.ª categoria - Munições não espoletadas:
-
-10.º Torpedos de perfuração sem espoleta e sem detonador; engenhos de carga oca sem detonador.
-
-7.º Objectos com carga propulsora, com carga de rebentamento, ou com ambas.
-
-4.ª categoria - Objectos com fósforo ou com outras substâncias inflamáveis:
-
-4.º - c) Cartuchos com carga tracejante (calibre < 13,2 mm).
-
-d) Cartuchos com carga incendiária (calibre < 13,2 mm).
-
-8.º Objectos com matérias iluminantes ou para sinalização.
-
-9.º Engenhos fumígenos.
-
-5.ª categoria - Mechas rápidas e cordões detonantes:
-
-1.º - a) Mechas (com alma de pólvora negra) de combustão rápida.
-
-b) Cordões detonantes (tubos metálicos) (sensibilidade inferior à do tetril).
-
-c) Cordões detonantes (flexíveis) (sensibilidade inferior à da pentrite).
-
-d) Mechas detonantes instantâneas (sensibilidade superior à da pentrite).
-
-6.ª categoria - Objectos com pequena carga:
-
-2.ª - a) Cápsulas.
-
-b) Cartuchos vazios com cápsula (de percussão central ou anular).
-
-c) Estopins e escorvas.
-
-d) Espoletas sem detonador e sem carga de transmissão.
-
-4.º - a) Cartuchos de caça (calibre < 13,2 mm).
-
-b) Cartuchos Flobert (calibre < 13,2 mm).
-
-c) Outros cartuchos de percussão central (calibre < 13,2 mm).
-
-Classe 1-c - Artifícios pirotécnicos
-
-1.ª categoria - Inflamadores:
-
-1.º - a) Fósforos de segurança (com clorato de potássio e enxofre).
-
-b) Fósforos, inflamadores de fricção (com clorato de potássio e sexquissulfureto de fósforo).
-
-2.º Bandas de escorvas.
-
-3.º Mechas (com alma de pólvora negra) de combustão lenta.
-
-4.º Fios piroxilados (algodão nitrado).
-
-5.º Tubos de ignição; cápsulas de termite.
-
-6.º Acendedores de segurança.
-
-7.º - a) Escorvas eléctricas sem detonador.
-
-b) Pastilhas para escorvas eléctricas.
-
-8.º Inflamadores eléctricos.
-
-2.ª categoria - Brinquedos pirotécnicos:
-
-9.º Artifícios pirotécnicos de sala.
-
-10.º Bombons fulminantes, bilhetes de flores, etc.
-
-11.º - a) Grãos fulminantes, brinquedos, etc.
-
-b) Fósforos fulminantes.
-
-c) Acessórios com fulminato de prata.
-
-12.º Pedras detonantes.
-
-13.º Fósforos pirotécnicos.
-
-14.º Velas maravilhosas.
-
-15.º Escorvas para brinquedos, fitas de escorvas e anéis de escorvas.
-
-16.º Buchas fulminantes (fósforo, clorato ou fulminato).
-
-17.º Petardos redondos (fósforo e clorato).
-
-18.º Escorvas de cartão (fósforo, clorato ou fulminato).
-
-19.º Escorvas de cartão (fósforo e clorato).
-
-20.º - a) Placas detonantes (fósforo e clorato).
-
-b) Martinicas (fósforo e clorato).
-
-3.ª categoria - Fogos de artifício:
-
-21.º Foguetes antigraniso (sem detonador), bombas e potes de fogo.
-
-22.º Bombas incendiárias, foguetes, velas romanas, fontes, rodas, etc.
-
-23.º Tiros de canhão, bombas de foguete (petardos).
-
-24.º Sapos, serpentes, chuvas de ouro, chuvas de prata, vulcões e cometas de mão.
-
-25.º Fogos de bengala, tochas de bengala, luzes, chamas.
-
-26.º Pós-relâmpago de magnésio.
-
-27.º Cartuchos fumígenos (luta contra os parasitas) e produtores de fumos (para fins agrícolas e florestais).
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 APÊNDICE II
 
-Matérias perigosas abrangidas pelo artigo 3.º do RTPEE com a numeração e designações do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR).
+Matérias perigosas abrangidas pelo artigo 3.º do Regulamento
 
-Classe 4.3 - Matérias que em contacto com a água libertam gases inflamáveis
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16200/17381761.pdf)
 
-1.º - a) Metais alcalinos, alcalino-terrosos e suas ligas.
-
-Classe 4.2 - Matérias sujeitas a inflamação espontânea
-
-1.º Fósforo branco ou amarelo.
-
-6.º - a) Alumínio em pó, zinco em pó, zinco em pó e suas misturas, zircónio em pó.
-
-b) Magnésio em pó ou em lascas finas e suas ligas.
-
-d) Metais pirofóricos, como o zircónio.
-
-Classe 4.1 - Matérias sólidas inflamáveis
-
-7.º - a) Nitroceluloses com menos de 12,6% de azoto (algodão-colódio) e com, pelo menos, 25% de água ou de álcool ou de hidrocarbonetos aromáticos.
-
-b) Nitroceluloses plastificadas, não pigmentadas, com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante.
-
-c) Nitroceluloses plastificadas, pigmentadas, com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante.
-
-8.º Fósforo vermelho (amorfo).
-
-Classe 5.1 - Matérias comburentes
-
-2.º Tetranitrometano.
-
-4.º - a) Cloratos (menos o de amónio).
-
-b) Percloratos (menos o de amónio).
-
-c) Cloritos de sódio e de potássio.
-
-d) Misturas de cloratos, percloratos e cloritos.
-
-5.º Perclorato de amónio.
-
-6.º - a) Nitrato de amónio.
-
-b) Misturas de nitrato de amónio com sulfato ou fosfato de amónio.
-
-c) Misturas de nitrato de amónio com matéria inerte.
-
-7.º - a) Nitrato de sódio.
-
-b) Misturas de nitrato de amónio com nitratos de sódio, de potássio, de cálcio ou de magnésio.
-
-c) Nitrato de bário, nitrato de chumbo.
-
-8.º Nitritos inorgânicos.
-
-9.º - a) Peróxidos de metais alcalinos e suas misturas.
-
-b) Peróxidos de metais alcalino-terrosos.
-
-c) Permanganatos de sódio, de potássio, de cálcio e de bário.
-
-Classe 5.2 - Peróxidos orgânicos (fleumatizados)
-
-Grupo A:
-
-1.º Peróxido de butilo terciário.
-
-2.º Hidroperóxido de butilo terciário (com, pelo menos, 20% de peróxido de butilo terciário e com, pelo menos, 20% de fleumatizante).
-
-3.º Peracetato de butilo terciário (com, pelo menos, 30% de fleumatizante).
-
-4.º Perbenzoato de butilo terciário.
-
-5.º Permaleato de butilo terciário (com, pelo menos, 50% de fleumatizante).
-
-6.º Diperftalato de butilo terciário (com, pelo menos, 50% de fleumatizante).
-
-7.º 2,2-bis (butilo terciário peroxi) butano (com, pelo menos, 50% de fleumatizante).
-
-8.º Peróxido de benzoilo (com, pelo menos, 10% de água ou com, pelo menos, 30% de fleumatizante).
-
-9.º Peróxido de ciclo-hexanona (com, pelo menos, 5% de água ou com, pelo menos, 30% de fleumatizante).
-
-10.º Hidroperóxido de cumeno (com um teor de peróxido não ultrapassando 95%).
-
-11.º Peróxido de lauroilo.
-
-12.º Hidroperóxido de tetralina.
-
-13.º Peróxido de 2,4-diclorobenzoilo (com, pelo menos, 10% de água ou com, pelo menos, 30% de fleumatizante).
-
-14.º Hidroperóxido de p-mentano (com um teor de peróxido não ultrapassando 95%; o resto: álcoois e cetonas).
-
-15.º Hidroperóxido de pinano (com um teor de peróxido não ultrapassando 95%; o resto: álcoois e cetonas).
-
-16.º Peróxido de cumilo (com um teor de peróxido não ultrapassando 95%).
-
-17.º Peróxido de paraclorobenzoilo (com, pelo menos, 10% de água ou com, pelo menos, 30% de fleumatizante).
-
-18.º Hidroperóxido de di-isopropilbenzeno (com 45% de uma mistura de álcool e de cetona).
-
-19.º Peróxido de metilisobutilcetona (com, pelo menos, 40% de fleumatizante).
-
-20.º Peróxido de cumilo e de butilo terciário (com um teor de peróxido não ultrapassando 95%).
-
-21.º Peróxido de acetilo (com, pelo menos, 75% de fleumatizante).
-
-22.º Peróxido de acetilo e de benzoilo (com, pelo menos, 60% de fleumatizante).
-
-Por acordo posterior à publicação do ADR, passaram a considerar-se incluídos também neste grupo os seguintes peróxidos orgânicos:
-
-I - 1) 1,1-di-(ter butilperoxi)-3,5,5-trimetilciclo-hexano (com, pelo menos, 45% de fleumatizante ou com, pelo menos, 56% de matérias sólidas secas e inertes).
-
-2) Ter-butil-per-3,5,5-trimetil-hexanoato (de pureza técnica).
-
-3) 3,5-dimetil-3,5-di-hidroxidioxalano-1,2 (ou peróxido de acetilacetona) (com, pelo menos, 50% de fleumatizante).
-
-4) 2,5-dimetil-2,5-di (benzoilperoxi)-hexano (com, pelo menos, 20% de matérias sólidas secas e inertes).
-
-5) 3,3,6,6,9,9-hexametil-ciclo-1,2,4,5-tetraozanonano (com, pelo menos, 50% de fleumatizante ou com, pelo menos, 50% de matérias sólidas secas e inertes).
-
-6) 3-ter butilperoxi-3-fenilftalido (de pureza técnica).
-
-Grupo B:
-
-30.º Peróxido de metiletilcetona (com, pelo menos, 50% de fleumatizante, ou em soluções contendo, no máximo, 12% deste peróxido em dissolventes inertes).
-
-31.º Hidroperóxido de butilo terciário (com, pelo menos, 20% de peróxido de butilo terciário, mas sem fleumatizante, ou em soluções contendo, no máximo, 12% deste hidroperóxido em dissolventes inertes).
-
-Grupo C:
-
-35.º Ácido peracético (com um teor de 40%, no máximo, de ácido peracético e com, pelo menos, 45% de ácido acético e, pelo menos, 10% de água) ou suas misturas com peróxidos dos grupos A e B.
-
-Grupo D:
-
-40.º Amostras de peróxidos orgânicos fleumatizados não designados nos grupos A, B ou C, ou de suas soluções.
-
-Grupo E (necessitam de agente frigorígeno):
-
-45.º Peróxido de di-octanoilo (de pureza técnica).
-
-46.º Peróxido de acetilciclo-hexano-sulfonilo (com, pelo menos, 30% de água, ou com, pelo menos, 80% de dissolvente, ou com, pelo menos, 70% de fleumatizante).
-
-47.º Peroxidicarboneto de di-isopropilo (de pureza técnica ou com, pelo menos, 50% de fleumatizante ou de dissolvente).
-
-48.º Peróxido de di-propionilo (com, pelo menos, 75% de dissolvente).
-
-49.º Perpivalato de butilo terciário (de pureza técnica ou com, pelo menos, 25% de fleumatizante ou de dissolvente).
-
-50.º Peróxido de bis (3,5,5-trimetil-hexanoilo) (com, pelo menos, 20% de fleumatizante).
-
-51.º Peróxido de dipelargonilo (de pureza técnica).
-
-52.º Per-2-etil-hexanoato de butilo (de pureza técnica).
-
-53.º Peroxidicarbonato de bis-etil 2-hexilo (com, pelo menos, 55% de fleumatizante ou de dissolvente).
-
-54.º Peróxido de bis-decanoilo (de pureza técnica).
-
-55.º Perisobutirato de butilo terciário (com, pelo menos, 25% de dissolvente).
-
-Por acordo posterior à publicação do ADR, passaram a considerar-se incluídos também neste grupo os seguintes peróxidos orgânicos:
-
-II - 1) Peróxido de acetilciclo-hexano-sulfonilo (com um teor de 78% a 82% de peróxido e de 12% a 16% de água).
-
-2) Peroxidipercarbonato de di-ciclo-hexilo (de pureza técnica ou com, pelo menos, 10% de água).
-
-3) Peroxidicarbonato de bis-(4-ter-butilciclo-hexilo) (de pureza técnica).
-
-4) Dicetilperoxidicarbonato (de pureza técnica).
-
-5) Peroxicarbonato de di-n-butilo (com, pelo menos, 50% de fleumatizante).
-
-6) Perneodecanoato de butilo terciário (de pureza técnica).
-
-Em consequência de novo acordo, passou a considerar-se também neste grupo o peroxidicarbonato de di-miristilo (de pureza técnica).
+> Alterado pelo/a [Portaria n.º 367/86](https://diariodarepublica.pt/dr/detalhe/portaria/367-1986-228002), publicado em 1986-07-17.
 
 APÊNDICE III
 
@@ -1151,23 +920,23 @@ O número de identificação da designação do produto é sempre constituído p
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
-4 - Para os cloratos ou cloritos, o número de identificação da natureza do perigo é formado pelos algarismos 5 e 0; o primeiro significa que se trata de produtos que apresentam o perigo inerente às matérias comburentes ou aos peróxidos orgânicos; o segundo não tem significado especial.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf)
 
-5 - Para os metais alcalinos (sódio e potássio), o número de identificação da natureza do perigo é formado pela letra X seguida dos algarismos 4, 2 e 3; o primeiro algarismo significa que se trata de uma matéria sólida inflamável; o segundo e o terceiro indicam que é susceptível de libertar gases inflamáveis.
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
-Como tais gases se libertam quando o produto entra em contacto com a água, significado que está implícito na combinação 42 formada pelos dois primeiros algarismos, a letra X indica que o seu transporte deve ser feito em condições de impedir que tal se verifique, sendo consequentemente proibido juntar-lhe qualquer quantidade de água.
+4 - Para se poder interpretar o número de identificação da natureza do perigo, apresenta-se o quadro seguinte:
 
-6 - Para o fósforo branco ou amarelo, o número de identificação da natureza do perigo é formado pelos algarismos 4, 3 e 6; o primeiro algarismo significa que se trata de uma matéria sólida inflamável; o segundo, significando também que é um produto inflamável, reforça esta propriedade, pelo que se trata de uma matéria muito inflamável; o terceiro indica que é ainda uma matéria tóxica.
-
-7 - Para os hidroperóxidos de cumeno, de p-mentano e de pinano, todos com um teor de peróxido não ultrapassando 95%, o número de identificação da natureza do perigo é formado pelos algarismos 5, 3 e 9; o primeiro algarismo significa que se trata de produtos que apresentam o perigo inerente às matérias comburentes ou aos peróxidos orgânicos; o segundo indica que são inflamáveis, e o terceiro que são susceptíveis de reagir violentamente, devido à sua decomposição espontânea ou à sua polimerização.
-
-8 - Para se poder formar ou interpretar o número de identificação da natureza do perigo correspondente a qualquer produto transportado em veículo-cisterna ou em contentor-cisterna, não mencionado no n.º 3, apresenta-se o quadro seguinte, onde se indica o significado que se encontra estabelecido, por acordo internacional, para os algarismos que o constituem:
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 
-9 - Quando os dois primeiros algarismos do número de identificação da natureza do perigo são iguais ou correspondem a propriedades idênticas, tal indica uma intensificação do perigo principal; assim, 33 ou 43 significam que se trata de produtos muito inflamáveis, 66 corresponde a uma matéria muito tóxica e 88 a uma muito corrosiva; a combinação 22 significa, porém, que o produto é um gás refrigerado e 42 que é um sólido que pode libertar gases quando em contacto com a água.
+5 - Quando os dois primeiros algarismos do número de identificação da natureza do perigo são iguais, como, por exemplo, 33, 55, 66 ou 88, isso indica que se trata de produtos em que se verifica uma intensificação do perigo principal; porém, a combinação 22 significa que o produto é um gás refrigerado e 44 que é um sólido inflamável no estado fundido e a temperatura elevada; a combinação 42 significa que o produto é um sólido inflamável que pode libertar gases quando em contacto com a água.
 
-## ANEXO IV — Localização dos painéis rectangulares e das etiquetas
+> Alterado pelo/a [Portaria n.º 346/84](https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401), publicado em 1984-06-07.
+
+## Apêndice IV — Localização dos painéis rectangulares e das etiquetas
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378952), publicado em 1979-08-20.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10241042.pdf)
 

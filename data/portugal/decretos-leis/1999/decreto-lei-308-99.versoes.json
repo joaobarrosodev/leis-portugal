@@ -1,0 +1,1152 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:426693:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f40e56c5d7962025",
+    "cb12e1b57bfd5780",
+    "7552ea68375604be",
+    "d2e1d719e0035e79",
+    "81e2fb609eaa2a5b",
+    "fd997a64107b5bd4",
+    "b42568e220128091",
+    "e61095d9eaad9e26",
+    "2a97d738a7a64148",
+    "2755f8a0424377fe",
+    "9059b7cf7597eb8b",
+    "3060a22989f8dbab",
+    "760cd59ffa0826bc",
+    "d88408983c15a419",
+    "01426fa7d440993b",
+    "54ccff6240c8f4b9",
+    "a9bf4e08639894a2",
+    "a5590ea21c4c6a59",
+    "d5e5c204dfc3cc5c",
+    "dfe805377251d3f7",
+    "0b0f75f3bccb31e1",
+    "a27e77bc5da14e6e",
+    "c329410a301388e8",
+    "bc00924f7c77d473",
+    "0b7f5ae67f157382",
+    "825352e8ccd309ae",
+    "2f13d0181076e755",
+    "c4df8589a30fd84f",
+    "8269a64d826b7061",
+    "410034c447e0b4be",
+    "5c2675efb16ac0e0",
+    "30663f9ff95c16e9",
+    "9afa44ee6992676a",
+    "f71504fb2394d9e9",
+    "8ff043c2e4bfc179",
+    "da4464cd597f186a",
+    "7967fdf4f5aeefe0",
+    "a0b2e4cfdb0a9614",
+    "eecfb52ec3258ef2",
+    "9a5878b05b439de9",
+    "7202901d94f005f8",
+    "0332ff6213ed97f8",
+    "a25081abf0877274",
+    "ebbb8c3ca650e8cc",
+    "73545985db9278a7",
+    "e8f14e27baeda952",
+    "ec502b431e811591",
+    "d247decae51b12ee",
+    "b3ade06c091468f8",
+    "cbc07b7c00aee761",
+    "19a9e4654d926d02",
+    "783d600a673ef309",
+    "43c08c698460ded8",
+    "eeeb907b9b60a533",
+    "f68d50f9b4d2836d",
+    "2165c4ee30af5110",
+    "72aea4094603a78b",
+    "5cfab337208410c9",
+    "ffb36c2c04f5fabe",
+    "1957b6deab2eb1f0"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520987:por",
+     "title": "Decreto-Lei n.º 141/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/141-2007-520987"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º"
+   ],
+   "fragments": [
+    "f40e56c5d7962025",
+    "fb0ab6b9426c68ee",
+    "ec1aa815691a1995",
+    "c5745a06cf08e5b4",
+    "ab8ca52dd85bb4fb",
+    "a6c65b27aa9e1aa3",
+    "dd0d811559490844",
+    "9df7b617d45b98f8",
+    "7ed915cdcae26815",
+    "2755f8a0424377fe",
+    "e58b21f43fcf2de4",
+    "3060a22989f8dbab",
+    "2149e48936c99880",
+    "b0542b0c35d7a2b9",
+    "93bfe685e89ca5f4",
+    "54ccff6240c8f4b9",
+    "239e5c5ab44bdde3",
+    "bf4f03faffc27404",
+    "365f27cf0036a39e",
+    "dfe805377251d3f7",
+    "e7e7122d4a54882f",
+    "a27e77bc5da14e6e",
+    "f155798af6611d4d",
+    "9cb79191c76fb603",
+    "178f07d014b7855d",
+    "bf0cd38421e5eccd",
+    "628a7b60348ddac9",
+    "8ca4e9fe99b17aa4",
+    "8269a64d826b7061",
+    "213c813ec35dd7b2",
+    "2412593042b4cb8d",
+    "88e22783e9ca08fe",
+    "9afa44ee6992676a",
+    "f8d8009abf8c4c0b",
+    "fd3538f8331ba938",
+    "7e0a92b52b57d215",
+    "401b59e32ff0971f",
+    "a0b2e4cfdb0a9614",
+    "be4e05803985f3a5",
+    "9a5878b05b439de9",
+    "92d3145745a1f09d",
+    "d00d5321e4d6649f",
+    "1568d57e3a9c322b",
+    "0c449a40c42deda9",
+    "73545985db9278a7",
+    "016d92029c18468a",
+    "3afa2633c50f1c70",
+    "e7fa669cb370897a",
+    "ad2ff3c11c25825f",
+    "865739c434940741",
+    "19a9e4654d926d02",
+    "5b8a5471c74106ab",
+    "bd8e67c6be1e5f6a",
+    "eeeb907b9b60a533",
+    "caae491cb77449a0",
+    "1c79b9fea9e0f9a3",
+    "3519cbc36de51753",
+    "d3d50a79e440c2ba",
+    "6c35195a8e08a3c2",
+    "5bddcae2df0a7556"
+   ]
+  }
+ ],
+ "fragments": {
+  "f40e56c5d7962025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nO Fundo de Turismo, criado pela [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 de Junho de 1956, nunca foi dotado de uma lei orgânica, tendo-se regido sempre por um conjunto de normas dispersas publicadas ao longo do tempo, em razão dos circunstancialismos e das exigências do momento.\n\nA necessidade de aprovação de um estatuto para o Fundo de Turismo é pois necessidade há muito sentida tanto para um desempenho cabal das suas atribuições como para gestão quotidiana daquele Fundo, que, no exercício da respectiva actividade, intervém num sector com peso económico crescente e dos que mais contribuem para a formação do PIB.\n\nPretende-se, pois, dotar o Instituto de Financiamento e Apoio ao Turismo (IFT), que substitui o actual Fundo de Turismo, de estatutos que contribuam para um bom desempenho da sua gestão, tendo em conta a realidade actual e o papel a desempenhar no sector em que intervém, proporcionando-lhe os meios funcionais e humanos necessários à prossecução das suas atribuições, alargando as suas competências e adoptando um modelo de gestão e fiscalização adequado.\n\nTeve-se presente a orientação prevista na [Resolução do Conselho de Ministros n.º 60/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-1997-468869), de 10 de Abril, ao determinar a simplificação e desburocratização dos sistemas de incentivos e, em especial, a dinamização das formas de cooperação entre o Fundo de Turismo e as instituições de crédito, com vista à criação de produtos específicos que veio reforçar a necessidade de agilizar o seu regime jurídico e evidenciar a natureza eminentemente financeira do organismo.\n\nNo que respeita ao regime do pessoal, consagra-se a opção de fundo pelo regime do contrato individual de trabalho, que pela sua maior flexibilidade poderá garantir a dotação do pessoal necessário e ajustado ao papel a desempenhar pelo IFT. Ficam acautelados os direitos dos actuais funcionários do quadro de pessoal vigente no organismo, aos quais é garantido o direito de opção entre o regime existente e o novo regime.\n\nNo domínio patrimonial e financeiro destaca-se, como aspecto mais relevante das alterações introduzidas, o aperfeiçoamento das normas relativas à gestão do património e à arrecadação e aplicação das receitas.\n\nForam observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "cb12e1b57bfd5780": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A denominação do Fundo de Turismo, a que se refere a alínea f) do artigo 8.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, é alterada para Instituto de Financiamento e Apoio ao Turismo, adiante designado por IFT.\n\n2 - São aprovados os Estatutos do IFT em anexo ao presente diploma, do qual fazem parte integrante.\n\n3 - O IFT sucede ao Fundo de Turismo na titularidade de todos os bens, direitos e obrigações.\n\n4 - As referências feitas ao Fundo de Turismo em actos, contratos e quaisquer outros instrumentos legais passam a ser entendidas como feitas ao IFT."
+  },
+  "7552ea68375604be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão dadas por findas as funções dos membros da comissão administrativa e da comissão de fiscalização, mantendo-se, contudo, em funções de gestão até à tomada de posse dos novos órgãos do IFT."
+  },
+  "d2e1d719e0035e79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Aos funcionários integrados no quadro de pessoal do Fundo de Turismo, a que se refere o [Decreto-Lei n.º 138/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1972-679869), de 29 de Abril, e legislação complementar, é dada a possibilidade de permanecerem no quadro ou, em alternativa, optarem pela passagem ao regime de contrato individual de trabalho, mantendo ou não o seu vínculo.\n\n2 - A opção prevista no número anterior deve ser feita por escrito e dirigida ao presidente do conselho de administração, no prazo de 60 dias a contar da entrada em vigor do presente diploma.\n\n3 - A celebração de contrato individual de trabalho implica a exoneração do lugar de origem ou, quando requerida e nos termos da legislação aplicável, a passagem do funcionário à situação de licença sem vencimento de longa duração, no quadro de pessoal referido no n.º 1, mantendo os direitos previstos na lei.\n\n4 - A todos os que optarem pelo regime de contrato individual de trabalho é contada a totalidade do tempo de serviço efectivo anteriormente prestado, para todos os efeitos previstos na lei, nomeadamente no que diz respeito à contagem de tempo para a reforma e respectivas pensões."
+  },
+  "81e2fb609eaa2a5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O pessoal com vínculo definitivo ao IFT que não exerça a opção prevista no n.º 1 do artigo 3.º mantém-se no quadro a que pertence.\n\n2 - Os concursos de acesso em cada uma das carreiras do quadro previsto no n.º 1 são restritos aos funcionários do IFT.\n\n3 - Os lugares da carreira técnica superior previstos no quadro de pessoal referido no n.º 1 extinguem-se quando vagarem.\n\n4 - As demais carreiras previstas no quadro de pessoal referido no n.º 1 são extintas progressivamente, por áreas funcionais, da base para o topo, à medida que vagarem os lugares relativos às categorias mais baixas, até à vacatura de todos os lugares.\n\n5 - As normas estabelecidas nos números anteriores não afectam as situações de licença, destacamento, requisição e comissão de serviço em que se encontrem funcionários do quadro do IFT, nem de funcionários de outros quadros que, ao abrigo daqueles regimes, exerçam funções no IFT."
+  },
+  "fd997a64107b5bd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs funcionários que não exerçam o direito de opção previsto no n.º 1 do artigo 3.º podem ser nomeados, em regime de comissão de serviço, para exercer funções de chefia no IFT, considerando-se esse período como serviço prestado nos respectivos lugares de origem."
+  },
+  "b42568e220128091": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os funcionários do Estado e de institutos públicos e os trabalhadores de empresas públicas podem ser chamados, nos termos previstos na lei, a desempenhar funções no IFT em regime de destacamento, requisição ou comissão de serviço, com garantia dos lugares de origem e dos direitos adquiridos, considerando-se esse período como serviço prestado nos respectivos cargos.\n\n2 - Os funcionários e trabalhadores do IFT podem, nos termos previstos na lei, ser chamados a desempenhar funções no Estado, em institutos públicos e empresas públicas, em regime de destacamento, requisição ou comissão de serviço, com garantia dos lugares de origem e dos direitos adquiridos, considerando-se esse período como serviço prestado no IFT."
+  },
+  "e61095d9eaad9e26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSem prejuízo do estabelecido no artigo 31.º dos Estatutos aprovados pelo presente diploma, continuam apenas a reger-se pelo disposto no Código de Processo Tributário os processos que, transitoriamente, por disposição especial, ficaram a ele submetidos e que ainda se encontrem pendentes."
+  },
+  "2a97d738a7a64148": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Mantêm-se em vigor os despachos normativos aprovados ao abrigo do [Decreto-Lei n.º 149/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1980-474145), de 23 de Maio, considerando-se feitas para o presente diploma as menções expressas àquele decreto-lei contidas em tais regulamentos.\n\n2 - Mantêm-se ainda em vigor as disposições que regulamentam os diplomas ora revogados até à data da entrada em vigor dos novos regulamentos.\n\n3 - As referências feitas em quaisquer diplomas, actos, contratos e quaisquer outros instrumentos legais a normas revogadas pelo presente diploma consideram-se feitas a este último ou aos que o regulamentem."
+  },
+  "2755f8a0424377fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os artigos 1.º a 5.º e 7.º a 20.º do [Decreto n.º 40913](https://diariodarepublica.pt/dr/detalhe/decreto/40913-1956-299204), de 20 de Dezembro de 1956, e os Decretos-Leis n.os 40912, de 20 de Dezembro de 1956, e 49266, de 26 de Setembro de 1969, o [Decreto n.º 49267](https://diariodarepublica.pt/dr/detalhe/decreto/49267-1969-214265), de 26 de Setembro de 1969, e os Decretos-Leis n.os [223/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1971-643902), de 27 de Maio, [138/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1972-679869), de 29 de Abril, [631/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1974-465449), de 18 de Novembro, [149/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1980-474145), de 23 de Maio, [36/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1983-308349), de 25 de Janeiro, [341/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1987-496078), de 21 de Outubro, e [247/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1995-566808), de 20 de Setembro."
+  },
+  "9059b7cf7597eb8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma entra em vigor no dia a seguir ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nESTATUTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO"
+  },
+  "3060a22989f8dbab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, regime, sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, regime, sede e delegações"
+  },
+  "760cd59ffa0826bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Financiamento e Apoio ao Turismo, adiante designado IFT, é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.\n\n2 - O IFT exerce a sua actividade sob a tutela do Ministro da Economia."
+  },
+  "d88408983c15a419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nO IFT rege-se pelo presente diploma e seus regulamentos internos e, subsidiariamente, pelo ordenamento jurídico das empresas públicas."
+  },
+  "01426fa7d440993b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede\n\n1 - O IFT tem a sua sede em Lisboa, podendo dispor de delegações e outras formas de representação em qualquer local do território nacional.\n\n2 - As delegações ou outras formas de representação são criadas por despacho do Ministro da Economia, mediante proposta do conselho de administração do IFT."
+  },
+  "54ccff6240c8f4b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Objecto, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Objecto, atribuições e competências"
+  },
+  "a9bf4e08639894a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\nO IFT tem por objecto:\n\na) O apoio, directo ou indirecto, ao fortalecimento, modernização e desenvolvimento das estruturas empresariais do sector do turismo;\n\nb) A promoção do desenvolvimento de infra-estruturas e investimento no sector do turismo, no âmbito da construção de uma parceria estratégica entre as políticas públicas e as iniciativas dos agentes económicos privados."
+  },
+  "a5590ea21c4c6a59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\n1 - Para a realização do seu objecto estatutário, são atribuições do IFT:\n\na) Colaborar activamente no estudo e definição de medidas de natureza financeira para o sector do turismo;\n\nb) Colaborar no estudo e definição das medidas de apoio às estruturas empresariais do sector do turismo;\n\nc) Promover a execução das medidas de política económica que se enquadrem no âmbito das suas atribuições;\n\nd) Assegurar a gestão dos sistemas de incentivos ou estímulos ao sector do turismo, nos termos das disposições aplicáveis;\n\ne) Prestar apoio técnico e financeiro, directa ou indirectamente, às empresas do sector do turismo;\n\nf) Promover a criação de novas empresas, quando tal promoção contribua para o desenvolvimento do turismo;\n\ng) Participar, incluindo através da tomada de posições de capital, em sociedades, institutos, associações ou outras entidades, públicas ou privadas, quando tal participação contribua para o desenvolvimento do turismo;\n\nh) Cooperar com outras entidades, públicas ou privadas, em acções que possam contribuir para a realização do seu objecto estatutário.\n\n2 - Para a realização do seu objecto estatutário, o IFT pode:\n\na) Conceder empréstimos, bonificados ou não, e proceder à sua gestão;\n\nb) Conceder comparticipações e subsídios, directos ou indirectos, incluindo bonificações de rendas e de juros;\n\nc) Participar em operações de co-financiamento ou refinanciamento em associação com outras entidades;\n\nd) Proceder à aplicação financeira das receitas;\n\ne) Proceder à guarda de verbas consignadas e participar na definição do seu modelo de aplicação e gestão, de acordo com as disposições aplicáveis;\n\nf) Prestar e receber garantias;\n\ng) Emitir obrigações e quaisquer outros títulos de crédito, à excepção dos de curto prazo;\n\nh) Participar no capital de quaisquer sociedades, institutos, associações ou outras entidades, públicas ou privadas, constituídas ou a constituir, quando tal participação contribua para o desenvolvimento do turismo;\n\ni) Subscrever unidades de participação de quaisquer fundos especialmente vocacionados para o investimento turístico;\n\nj) Elaborar estudos e projectos susceptíveis de contribuir para o desenvolvimento do turismo, em estreita colaboração com organismos tutelados pelo Ministro da Economia;\n\nl) Participar em acções de promoção, no País e no estrangeiro, e de formação profissional na área do turismo, em estreita colaboração com os organismos vocacionados para aqueles fins que sejam tutelados pelo Ministro da Economia;\n\nm) Fiscalizar a aplicação dos empréstimos, subsídios e comparticipações concedidos, de modo a assegurar o cumprimento das obrigações assumidas pelos beneficiários.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, considera-se aplicação financeira de capitais a titularidade de depósitos em instituições de crédito e de quaisquer valores mobiliários de natureza não monetária, com excepção de acções e de valores mobiliários que atribuam direitos de aquisição ou de subscrição daquelas.\n\n4 - O exercício das competências previstas nas alíneas h) e l) do n.º 2 do presente artigo carece de autorização a conceder por despacho do Ministro da Economia.\n\n5 - O exercício das competências previstas na alínea g) do n.º 2 do presente artigo carece de autorização a conceder por despacho conjunto dos Ministros das Finanças e da Economia."
+  },
+  "d5e5c204dfc3cc5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\n1 - O modo e condições de exercício das competências referidas nas alíneas a) a c) do n.º 2 do artigo anterior são definidos por regulamentos do Ministro da Economia, dos quais devem constar, nomeadamente:\n\na) Normas gerais que enunciem as condições e termos de atribuição e os limites dos financiamentos, subsídios e comparticipações, directos ou indirectos, a conceder;\n\nb) Os prazos, os montantes máximos, as taxas de juro e o modo de controlo da aplicação do crédito a conceder.\n\n2 - Os financiamentos reembolsáveis a conceder são garantidos por hipoteca ou por garantia bancária, podendo, excepcionalmente, ser aceites quaisquer outras garantias admitidas em direito.\n\n3 - A relação dos subsídios concedidos anualmente, com menção das entidades beneficiárias e dos respectivos montantes, consta obrigatoriamente de anexo ao relatório anual de actividades do IFT."
+  },
+  "dfe805377251d3f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos do Instituto de Financiamento e Apoio ao Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos do Instituto de Financiamento e Apoio ao Turismo"
+  },
+  "0b0f75f3bccb31e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão os seguintes os órgãos do IFT:\n\na) O conselho de administração;\n\nb) O conselho geral;\n\nc) A comissão de fiscalização;\n\nd) O conselho de crédito."
+  },
+  "a27e77bc5da14e6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho de administração"
+  },
+  "c329410a301388e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição\n\nO conselho de administração é o órgão dirigente do lFT, composto por um presidente e dois vogais, nomeados por resolução do Conselho de Ministros, sob proposta do Ministro da Economia."
+  },
+  "bc00924f7c77d473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - Compete ao conselho de administração:\n\na) Praticar os actos correspondentes à prossecução das atribuições e competências do IFT;\n\nb) Gerir o património do IFT, tomando todas as medidas necessárias para o efeito, designadamente a aprovação dos actos conducentes ou resultantes da aquisição, alienação ou oneração de imóveis;\n\nc) Elaborar a proposta de orçamento, o plano de actividades, a demonstração de resultados e o balanço previsional, a submeter a aprovação do Ministro da Economia;\n\nd) Elaborar o relatório de actividades, a conta dos fluxos de tesouraria, o balanço analítico, a demonstração de resultados líquidos e os demais documentos de prestação de contas, a submeter a aprovação do Ministro da Economia;\n\ne) Arrecadar as receitas e autorizar a realização das despesas necessárias ao funcionamento do IFT;\n\nf) Deliberar sobre a concessão, renegociação e resolução dos financiamentos e dos incentivos, nos termos das disposições aplicáveis;\n\ng) Propor ao Ministro da Economia a definição ou alteração da estrutura interna e das funções dos diferentes serviços do IFT, bem como da afectação a cada um deles dos meios humanos e materiais necessários;\n\nh) Promover a recolha e tratamento de informação e dados com vista à elaboração das respectivas estatísticas e subsequente fornecimento da informação daí resultante;\n\ni) Gerir o pessoal;\n\nj) Apresentar, anualmente, o balanço social ao Ministro da Economia;\n\nl) Aprovar as propostas do seu regimento e os demais regulamentos internos, a submeter a aprovação do Ministro da Economia;\n\nm) Designar os membros do conselho de crédito;\n\nn) Designar os seus membros para representarem o IFT nos corpos sociais das entidades em que aquele participe;\n\no) Propor ao Ministro da Economia a criação de delegações ou outras formas de representação;\n\np) Emitir certidões negativas de pagamento;\n\nq) Constituir mandatários para a prática de actos específicos e nomear advogados sempre que a lei o imponha;\n\nr) Exercer os demais poderes necessários à prossecução das atribuições e competências do IFT, bem como à salvaguarda dos respectivos direitos.\n\n2 - O conselho de administração exerce ainda outras competências que, no âmbito geral das atribuições do IFT, lhe sejam delegadas pelo Ministro da Economia.\n\n3 - A competência de representação prevista na alínea n) do n.º 1 é exercida por inerência dos membros do conselho de administração."
+  },
+  "0b7f5ae67f157382": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento\n\n1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente e por iniciativa de qualquer dos seus membros, sempre que se revele necessário.\n\n2 - Nas reuniões do conselho de administração, o presidente é substituído nas suas faltas e impedimentos pelo vogal que, para o efeito, designar.\n\n3 - Das reuniões do conselho de administração são lavradas actas, a assinar pelos membros presentes."
+  },
+  "825352e8ccd309ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência do presidente\n\nCompete ao presidente do conselho de administração:\n\na) Convocar e presidir às reuniões do conselho de administração e assegurar o cumprimento das deliberações tomadas, sem prejuízo do disposto no n.º 1 do artigo 12.º relativamente à convocação;\n\nb) Exercer os demais poderes que lhe forem atribuídos por lei ou regulamento;\n\nc) Delegar, em qualquer dos vogais do conselho de administração, as competências previstas nas alíneas anteriores."
+  },
+  "2f13d0181076e755": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vinculação\n\n1 - O IFT vincula-se, perante terceiros, pela assinatura do presidente do conselho de administração ou pela assinatura do vogal deste órgão para o efeito expressamente mandatado em acta.\n\n2 - Nas faltas ou impedimentos do presidente do conselho de administração, o IFT vincula-se pela assinatura do vogal por aquele designado e, na falta de designação, pelas assinaturas dos dois vogais.\n\n3 - A movimentação de fundos depositados em qualquer instituição de crédito só pode processar-se mediante a assinatura de dois membros do conselho de administração ou de mandatário devidamente constituído.\n\n4 - Tratando-se de actos de execução de deliberações do conselho de administração, o IFT obriga-se igualmente pela assinatura de mandatário expressamente designado para o efeito por aquele órgão.\n\n5 - O disposto nos números anteriores não é aplicável aos actos de mero expediente, para os quais basta a assinatura de um vogal do conselho de administração ou de quadro superior a quem tal poder tenha sido delegado através de acta daquele órgão."
+  },
+  "c4df8589a30fd84f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Remuneração e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remuneração e regime\n\nOs membros do conselho de administração ficam sujeitos ao estatuto do gestor público, sendo as suas remunerações fixadas por despacho conjunto dos Ministros das Finanças e da Economia."
+  },
+  "8269a64d826b7061": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho geral"
+  },
+  "410034c447e0b4be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - O conselho geral do IFT é constituído por:\n\na) Os membros do conselho de administração;\n\nb) O director-geral do Turismo, o presidente do Instituto Nacional de Formação Turística (INFT), o inspector-geral de Jogos, o presidente do ICEP - Investimentos, Comércio e Turismo de Portugal, o presidente do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) ou respectivos representantes devidamente mandatados para o efeito;\n\nc) Cinco personalidades de reconhecida competência, ligadas profissionalmente ao sector do turismo, designadas por despacho conjunto dos Ministros das Finanças e da Economia.\n\n2 - O conselho geral é presidido pelo presidente do conselho de administração do IFT."
+  },
+  "5c2675efb16ac0e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência\n\nCompete ao conselho geral:\n\na) Emitir parecer sobre o orçamento, o plano de actividades e o relatório e contas anuais;\n\nb) Acompanhar a actividade do IFT e formular as propostas, sugestões e recomendações que entenda convenientes;\n\nc) Pronunciar-se sobre a abertura ou o encerramento de delegações ou outras formas de representação;\n\nd) Pronunciar-se sobre quaisquer assuntos que o conselho de administração entenda dever submeter à sua consideração."
+  },
+  "30663f9ff95c16e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões\n\nO conselho geral reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, três membros."
+  },
+  "9afa44ee6992676a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Comissão de fiscalização"
+  },
+  "f71504fb2394d9e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Composição\n\n1 - A comissão de fiscalização do IFT é composta por três membros, um presidente e dois vogais, sendo um destes, obrigatoriamente, revisor oficial de contas.\n\n2 - Os membros da comissão de fiscalização são nomeados por despacho conjunto dos Ministros das Finanças e da Economia."
+  },
+  "8ff043c2e4bfc179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nCompete à comissão de fiscalização:\n\na) Fiscalizar a gestão do IFT e velar pelo cumprimento das leis e regulamentos aplicáveis;\n\nb) Acompanhar a execução do plano de actividades e orçamento anuais e efectuar o controlo mensal de execuções dos mesmos;\n\nc) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte, examinar periodicamente a situação financeira e económica do IFT e proceder à verificação dos valores patrimoniais;\n\nd) Verificar a execução das deliberações do conselho de administração;\n\ne) Elaborar anualmente relatório sobre a sua acção fiscalizadora e emitir parecer sobre o relatório e contas anual;\n\nf) Pronunciar-se sobre a aquisição, oneração ou alienação de bens imóveis;\n\ng) Emitir parecer sobre qualquer assunto que seja submetido à sua apreciação pelo conselho de administração ou pelo conselho de crédito ou sobre o qual entenda dever pronunciar-se;\n\nh) Informar o conselho de administração das irregularidades que detecte e participá-las às entidades competentes, quando aquelas o justifiquem."
+  },
+  "da4464cd597f186a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres\n\nConstituem deveres dos membros da comissão de fiscalização:\n\na) Exercer fiscalização em conformidade com a lei, os Estatutos e os regulamentos internos do IFT;\n\nb) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas funções ou por causa delas."
+  },
+  "7967fdf4f5aeefe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\nA comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocada pelo respectivo presidente, por iniciativa própria ou a pedido de qualquer vogal."
+  },
+  "a0b2e4cfdb0a9614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho de crédito"
+  },
+  "eecfb52ec3258ef2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Composição e competência\n\n1 - O conselho de crédito é composto por um membro do conselho de administração, que preside, e por número par de vogais, não superior a quatro, designados pelo conselho de administração, nos termos dos presentes Estatutos, de entre os quadros superiores do IFT.\n\n2 - Ao conselho de crédito compete, por delegação do conselho de administração:\n\na) Conceder moratórias, condicionadas à apresentação prévia dos planos moratórios;\n\nb) Autorizar a libertação de parcelas dos financiamentos aprovados, nos termos das disposições aplicáveis;\n\nc) Autorizar o pagamento de subsídios e de bonificações, nos termos das disposições aplicáveis;\n\nd) Autorizar o cancelamento das garantias especiais das obrigações que tenham sido constituídas a favor do IFT;\n\ne) Autorizar a libertação das verbas provenientes das contrapartidas das zonas de jogo, nos termos legalmente consignados e atentos os critérios de atribuição, cabimento e prazos de validade das respectivas utilizações.\n\n3 - O conselho de crédito reúne ordinariamente duas vezes por semana e excepcionalmente sempre que se revele necessário."
+  },
+  "9a5878b05b439de9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições comuns aos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições comuns aos órgãos"
+  },
+  "7202901d94f005f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mandatos\n\n1 - O mandato dos membros dos órgãos do IFT tem a duração de três anos, renováveis.\n\n2 - Após terminarem os respectivos mandatos, os membros dos órgãos mantêm-se no exercício das suas funções até à efectiva substituição ou declaração de cessação de funções.\n\n3 - Os órgãos do IFT consideram-se constituídos desde que se encontre nomeada a maioria dos seus membros."
+  },
+  "0332ff6213ed97f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Deliberações\n\n1 - Para que os órgãos do IFT deliberem validamente é indispensável a presença na reunião da maioria dos membros em exercício.\n\n2 - As deliberações são tomadas por maioria dos votos expressos, tendo o presidente ou quem o substitua voto de qualidade.\n\n3 - São lavradas actas de todas as reuniões dos órgãos do IFT, as quais serão assinadas por todos os membros que nelas participem."
+  },
+  "a25081abf0877274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Convocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Convocações\n\n1 - As reuniões dos órgãos são precedidas de convocação a todos os seus membros.\n\n2 - Consideram-se, validamente, convocados os membros que se encontrem numa das seguintes situações:\n\na) Tenham recebido ou assinado o aviso convocatório;\n\nb) Tenham assistido a qualquer reunião anterior em que, na sua presença, tenham sido fixados o dia e a hora da reunião;\n\nc) Tenham sido avisados da reunião por qualquer forma previamente acordada.\n\n3 - Os membros consideram-se sempre devidamente convocados para as reuniões que se realizem em dia e hora fixados em regulamento interno."
+  },
+  "ebbb8c3ca650e8cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Deslocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Deslocações\n\nOs membros dos órgãos têm direito, nas suas deslocações em serviço, aos abonos fixados nos regulamentos internos."
+  },
+  "73545985db9278a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Receitas, despesas e gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Receitas, despesas e gestão patrimonial e financeira"
+  },
+  "e8f14e27baeda952": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Instrumentos de gestão e prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instrumentos de gestão e prestação de contas\n\n1 - A gestão económica e financeira do IFT é disciplinada pelos seguintes instrumentos de gestão previsional, a submeter à aprovação do Ministro da Economia:\n\na) Plano anual de actividades;\n\nb) Orçamento;\n\nc) Demonstração de resultados;\n\nd) Balanço previsional.\n\n2 - O IFT elabora anualmente, até 31 de Março e com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:\n\na) Relatório de actividades do conselho de administração;\n\nb) Conta dos fluxos de tesouraria;\n\nc) Balanço analítico e respectivos anexos;\n\nd) Demonstração de resultados líquidos e respectivos anexos;\n\ne) Parecer da comissão de fiscalização."
+  },
+  "ec502b431e811591": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Património\n\n1 - O património do IFT é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n2 - Os bens imóveis titulados pelo IFT e que integrem o respectivo domínio privado podem ser alienados por qualquer forma admitida em direito."
+  },
+  "d247decae51b12ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\nConstituem receitas do IFT:\n\na) As verbas provenientes do imposto sobre o jogo e das contrapartidas das concessões das zonas de jogo, nos termos da lei;\n\nb) As comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da União Europeia;\n\nc) O rendimento de bens próprios;\n\nd) As comissões recebidas por garantias e serviços prestados;\n\ne) As heranças, legados e doações que lhe sejam destinados;\n\nf) O produto da alienação ou cedência, a qualquer título, de bens ou direitos;\n\ng) Os juros, amortizações e reembolsos dos empréstimos concedidos;\n\nh) O produto de aplicações financeiras;\n\ni) O produto da emissão de obrigações ou de outros títulos de crédito;\n\nj) Os saldos de gerência anterior;\n\nl) O produto da venda de bens e serviços;\n\nm) Quaisquer outras receitas, resultantes da prossecução das suas atribuições e competências, que lhe sejam atribuídas por lei, contrato ou outro título."
+  },
+  "b3ade06c091468f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas\n\nSão despesas do IFT:\n\na) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os encargos emergentes da contracção de financiamentos junto das instituições de crédito;\n\nc) Os custos de aquisição, manutenção e conservação dos bens, equipamentos ou serviços que tenha de utilizar."
+  },
+  "cbc07b7c00aee761": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Gestão patrimonial e financeira\n\n1 - A gestão patrimonial e financeira do IFT, incluindo a arrecadação das receitas e a realização das despesas, rege-se pelas normas aplicáveis às empresas públicas.\n\n2 - O plano de actividades e o projecto de orçamento anuais do IFT são submetidos à aprovação prévia do Ministro da Economia até 31 de Outubro do ano anterior àquele a que respeitam.\n\n3 - No ano seguinte àquele a que respeitam, o relatório e contas anual, acompanhado do relatório e parecer da comissão de fiscalização, são submetidos:\n\na) A aprovação do Ministro da Economia, até 31 de Março;\n\nb) A julgamento do Tribunal de Contas, até 31 de Maio;\n\nc) A conhecimento do Ministro das Finanças, até 31 de Maio.\n\n4 - A contabilização das receitas e despesas do IFT rege-se, com as necessárias adaptações, pelo disposto no Plano Oficial de Contabilidade Pública.\n\n5 - As contas do IFT obedecem ao princípio da especialização por exercícios.\n\n6 - As contas do IFT são, anualmente, objecto de uma auditoria independente, efectuada nos termos legalmente exigidos para as sociedades anónimas."
+  },
+  "19a9e4654d926d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Títulos executivos e encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Títulos executivos e encargos"
+  },
+  "783d600a673ef309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Títulos executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Títulos executivos\n\nAs certidões negativas de pagamento emitidas pelo IFT constituem título executivo bastante, nos termos previstos na alínea d) do artigo 46.º do Código de Processo Civil."
+  },
+  "43c08c698460ded8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Encargos\n\nO IFT está isento do pagamento de taxas, emolumentos, custas e demais encargos da mesma natureza nos processos, contratos, actos notariais e registrais ou quaisquer outros em que intervenha."
+  },
+  "eeeb907b9b60a533": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Pessoal"
+  },
+  "f68d50f9b4d2836d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime geral\n\nO regime jurídico aplicável ao pessoal do IFT é o do contrato individual de trabalho, com as especialidades emergentes dos regulamentos internos, sem prejuízo do disposto nos artigos 3.º e 4.º do diploma legal que aprova os presentes Estatutos."
+  },
+  "2165c4ee30af5110": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime de segurança social\n\n1 - O pessoal do IFT que seja admitido em data posterior à aprovação dos presentes Estatutos fica sujeito ao regime geral da segurança social.\n\n2 - Sem prejuízo do previsto no número anterior, os trabalhadores que requeiram a sua passagem ao regime de contrato individual de trabalho, nos termos do n.º 1 do artigo 3.º do diploma que aprova os presentes Estatutos, podem optar por manter a sua inscrição na Caixa Geral de Aposentações logo que, expressamente, o declarem.\n\n3 - O pessoal do IFT que exerce funções em regime de requisição ou de comissão de serviço mantém o regime de segurança social inerente ao seu lugar de origem.\n\n4 - Relativamente aos trabalhadores abrangidos pelo regime de protecção social da função pública, o IFT contribuirá para o financiamento para a Caixa Geral de Aposentações com um montante igual ao das quotas pagas por esses trabalhadores."
+  },
+  "72aea4094603a78b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Quadros e remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Quadros e remunerações\n\nO quadro de pessoal do IFT e a tabela de remuneração dos seus trabalhadores são objecto de instrumento de regulamentação colectiva."
+  },
+  "5cfab337208410c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Publicação\n\nO quadro de pessoal do IFT, aprovado nos termos do artigo anterior, é publicado no Diário da República."
+  },
+  "ffb36c2c04f5fabe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Prestação temporária de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prestação temporária de serviços\n\nSempre que a especialidade e natureza das tarefas a prosseguir o justifiquem e não puderem ser desempenhadas pelos trabalhadores do IFT, o conselho de administração pode celebrar contratos de prestação de serviços temporários com profissionais liberais ou outros."
+  },
+  "1957b6deab2eb1f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Segredo profissional\n\n1 - Os titulares dos órgãos do IFT bem como os funcionários, agentes e mandatários deste estão obrigados ao dever de sigilo, encontrando-se ainda sujeitos às regras de segredo profissional previstas nos artigos 78.º a 80.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro.\n\n2 - Independentemente da responsabilidade civil e criminal que resulte da violação do dever a que alude o artigo anterior, o infractor incorre em responsabilidade disciplinar, que poderá originar, conforme a gravidade da falta, a destituição ou rescisão do respectivo contrato de trabalho, conforme seja cometida por um membro dos órgãos do IFT ou por elemento do seu pessoal, permitindo ainda ao conselho de administração, quando praticada por pessoa ou entidade vinculada ao IFT por contrato de prestação de serviços, suspender imediatamente esse contrato."
+  },
+  "fb0ab6b9426c68ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "ec1aa815691a1995": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "c5745a06cf08e5b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "ab8ca52dd85bb4fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "a6c65b27aa9e1aa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "dd0d811559490844": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "9df7b617d45b98f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "7ed915cdcae26815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "e58b21f43fcf2de4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.\n\nVisto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nESTATUTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO"
+  },
+  "2149e48936c99880": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "b0542b0c35d7a2b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 2.º — Regime\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "93bfe685e89ca5f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 3.º — Sede\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "239e5c5ab44bdde3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 4.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "bf4f03faffc27404": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "365f27cf0036a39e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "e7e7122d4a54882f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "f155798af6611d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 8.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "9cb79191c76fb603": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 9.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "178f07d014b7855d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 10.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "bf0cd38421e5eccd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência do presidente",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 11.º — Competência do presidente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "628a7b60348ddac9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Vinculação",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 12.º — Vinculação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "8ca4e9fe99b17aa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Remuneração e regime",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 13.º — Remuneração e regime\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "213c813ec35dd7b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 14.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "2412593042b4cb8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "88e22783e9ca08fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 16.º — Reuniões\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "f8d8009abf8c4c0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 17.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "fd3538f8331ba938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 18.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "7e0a92b52b57d215": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Deveres",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 19.º — Deveres\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "401b59e32ff0971f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "be4e05803985f3a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição e competência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 21.º — Composição e competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "92d3145745a1f09d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Mandatos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 22.º — Mandatos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "d00d5321e4d6649f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Deliberações",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 23.º — Deliberações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "1568d57e3a9c322b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Convocações",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 24.º — Convocações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "0c449a40c42deda9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Deslocações",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 25.º — Deslocações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "016d92029c18468a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Instrumentos de gestão e prestação de contas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 26.º — Instrumentos de gestão e prestação de contas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "3afa2633c50f1c70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Património",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 27.º — Património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "e7fa669cb370897a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 28.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "ad2ff3c11c25825f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 29.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "865739c434940741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Gestão patrimonial e financeira",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 30.º — Gestão patrimonial e financeira\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "5b8a5471c74106ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Títulos executivos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 31.º — Títulos executivos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "bd8e67c6be1e5f6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Encargos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 32.º — Encargos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "caae491cb77449a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Regime geral",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 33.º — Regime geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "1c79b9fea9e0f9a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de segurança social",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 34.º — Regime de segurança social\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "3519cbc36de51753": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Quadros e remunerações",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 35.º — Quadros e remunerações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "d3d50a79e440c2ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Publicação",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 36.º — Publicação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "6c35195a8e08a3c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Prestação temporária de serviços",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 37.º — Prestação temporária de serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  },
+  "5bddcae2df0a7556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Segredo profissional",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 38.º — Segredo profissional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27."
+  }
+ }
+}

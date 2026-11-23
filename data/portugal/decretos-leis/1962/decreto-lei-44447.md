@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-31'
+version_history:
+  file: decreto-lei-44447.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-31'
+    amending: pt:dre:663327:por
+    amending_title: Decreto-Lei n.º 37/87
+    changes:
+    - Altera Artigo unidades 45-46
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:41:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 37/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44447.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,9 +225,9 @@ Art. 11.º A formação destina-se a enquadrar administrativamente, e para efeit
 
 Art. 12.º As companhias móveis de polícia são unidades de polícia especialmente instruídas para a manutenção da ordem pública e destinadas a acorrer ràpidamente a qualquer local onde for julgada necessária a sua presença.
 
-Art. 13.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais.
+Art. 13.º - (Revogado.)
 
-Deverá ainda servir de centro experimental e orientador da instrução da corporação.
+> Alterado pelo/a [Decreto-Lei n.º 37/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1987-663327), publicado em 1987-01-26.
 
 Art. 14.º Os cargos de chefes das 2.ª e 3.ª Repartições serão providos nos termos do artigo 57.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, na redacção dada pelo [Decreto-Lei n.º 43757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43757-1961-171348), de 29 de Junho de 1961, competindo-lhes o vencimento da letra F.
 

@@ -1,0 +1,1643 @@
+[
+ {
+  "id": "pt:dre:628297:por",
+  "substituicoes": [
+   {
+    "de": 58,
+    "ate": 62,
+    "texto": "Artigo 1.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 63,
+    "ate": 64,
+    "texto": "Art. 2.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 65,
+    "ate": 65,
+    "texto": "Art. 3.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 66,
+    "ate": 66,
+    "texto": "Art. 4.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 67,
+    "ate": 67,
+    "texto": "Art. 5.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 68,
+    "ate": 69,
+    "texto": "Art. 6.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 70,
+    "ate": 72,
+    "texto": "Art. 7.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 73,
+    "ate": 74,
+    "texto": "Art. 8.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 75,
+    "ate": 76,
+    "texto": "Art. 9.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 77,
+    "ate": 77,
+    "texto": "Art. 10.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 78,
+    "ate": 78,
+    "texto": "Art. 11.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 79,
+    "ate": 82,
+    "texto": "Art. 12.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 83,
+    "ate": 84,
+    "texto": "Art. 13.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 85,
+    "ate": 90,
+    "texto": "Art. 14.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 91,
+    "ate": 91,
+    "texto": "Art. 15.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 92,
+    "ate": 93,
+    "texto": "Art. 16.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 94,
+    "ate": 94,
+    "texto": "Art. 17.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 96,
+    "ate": 96,
+    "texto": "Art. 18.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 97,
+    "ate": 99,
+    "texto": "Art. 19.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 100,
+    "ate": 100,
+    "texto": "Art. 20.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 101,
+    "ate": 102,
+    "texto": "Art. 21.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 103,
+    "ate": 103,
+    "texto": "Art. 22.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 104,
+    "ate": 107,
+    "texto": "Art. 23.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 108,
+    "ate": 110,
+    "texto": "Art. 24.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 111,
+    "ate": 117,
+    "texto": "Art. 25.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 118,
+    "ate": 119,
+    "texto": "Art. 26.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 120,
+    "ate": 123,
+    "texto": "Art. 27.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 125,
+    "ate": 128,
+    "texto": "Art. 28.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 129,
+    "ate": 133,
+    "texto": "Art. 29.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 134,
+    "ate": 143,
+    "texto": "Art. 30.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 144,
+    "ate": 145,
+    "texto": "Art. 31.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 147,
+    "ate": 148,
+    "texto": "Art. 32.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 149,
+    "ate": 150,
+    "texto": "Art. 33.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 151,
+    "ate": 153,
+    "texto": "Art. 34.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 154,
+    "ate": 155,
+    "texto": "Art. 35.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 156,
+    "ate": 156,
+    "texto": "Art. 36.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 158,
+    "ate": 163,
+    "texto": "Art. 37.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 164,
+    "ate": 164,
+    "texto": "Art. 38.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 165,
+    "ate": 166,
+    "texto": "Art. 39.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 167,
+    "ate": 176,
+    "texto": "Art. 40.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 177,
+    "ate": 177,
+    "texto": "Art. 41.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 178,
+    "ate": 178,
+    "texto": "Art. 42.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 179,
+    "ate": 181,
+    "texto": "Art. 43.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 182,
+    "ate": 187,
+    "texto": "Art. 44.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 189,
+    "ate": 189,
+    "texto": "Art. 45.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 190,
+    "ate": 190,
+    "texto": "Art. 46.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 191,
+    "ate": 195,
+    "texto": "Art. 47.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 198,
+    "ate": 198,
+    "texto": "Art. 48.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 199,
+    "ate": 199,
+    "texto": "Art. 49.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 200,
+    "ate": 203,
+    "texto": "Art. 50.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 204,
+    "ate": 213,
+    "texto": "Art. 51.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 214,
+    "ate": 214,
+    "texto": "Art. 52.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 215,
+    "ate": 215,
+    "texto": "Art. 53.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 216,
+    "ate": 218,
+    "texto": "Art. 54.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 219,
+    "ate": 220,
+    "texto": "Art. 55.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 221,
+    "ate": 221,
+    "texto": "Art. 56.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 222,
+    "ate": 222,
+    "texto": "Art. 57.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 223,
+    "ate": 223,
+    "texto": "Art. 58.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 224,
+    "ate": 224,
+    "texto": "Art. 59.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 225,
+    "ate": 229,
+    "texto": "Art. 60.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 230,
+    "ate": 231,
+    "texto": "Art. 61.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 232,
+    "ate": 233,
+    "texto": "Art. 62.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 234,
+    "ate": 237,
+    "texto": "Art. 63.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 238,
+    "ate": 238,
+    "texto": "Art. 64.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 239,
+    "ate": 239,
+    "texto": "Art. 65.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 241,
+    "ate": 242,
+    "texto": "Art. 66.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 243,
+    "ate": 244,
+    "texto": "Art. 67.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 245,
+    "ate": 245,
+    "texto": "Art. 68.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 246,
+    "ate": 249,
+    "texto": "Art. 69.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 250,
+    "ate": 254,
+    "texto": "Art. 70.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 255,
+    "ate": 255,
+    "texto": "Art. 71.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 256,
+    "ate": 256,
+    "texto": "Art. 72.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 257,
+    "ate": 258,
+    "texto": "Art. 73.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 260,
+    "ate": 260,
+    "texto": "Art. 74.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 261,
+    "ate": 264,
+    "texto": "Art. 75.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 266,
+    "ate": 279,
+    "texto": "Art. 76.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 282,
+    "ate": 282,
+    "texto": "Art. 77.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 283,
+    "ate": 289,
+    "texto": "Art. 78.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 290,
+    "ate": 290,
+    "texto": "Art. 79.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 291,
+    "ate": 291,
+    "texto": "Art. 80.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 292,
+    "ate": 293,
+    "texto": "Art. 81.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 295,
+    "ate": 295,
+    "texto": "Art. 82.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 296,
+    "ate": 296,
+    "texto": "Art. 83.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 297,
+    "ate": 297,
+    "texto": "Art. 84.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 299,
+    "ate": 305,
+    "texto": "Art. 85.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 306,
+    "ate": 306,
+    "texto": "Art. 86.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 307,
+    "ate": 310,
+    "texto": "Art. 87.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 311,
+    "ate": 311,
+    "texto": "Art. 88.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 313,
+    "ate": 316,
+    "texto": "Art. 89.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 317,
+    "ate": 320,
+    "texto": "Art. 90.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 321,
+    "ate": 321,
+    "texto": "Art. 91.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 322,
+    "ate": 322,
+    "texto": "Art. 92.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 323,
+    "ate": 324,
+    "texto": "Art. 93.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 325,
+    "ate": 326,
+    "texto": "Art. 94.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 327,
+    "ate": 327,
+    "texto": "Art. 95.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 328,
+    "ate": 330,
+    "texto": "Art. 96.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 331,
+    "ate": 332,
+    "texto": "Art. 97.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 333,
+    "ate": 335,
+    "texto": "Art. 98.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 336,
+    "ate": 337,
+    "texto": "Art. 99.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 338,
+    "ate": 338,
+    "texto": "Art. 100.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 339,
+    "ate": 339,
+    "texto": "Art. 101.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 340,
+    "ate": 340,
+    "texto": "Art. 102.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 343,
+    "ate": 343,
+    "texto": "Art. 103.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 344,
+    "ate": 347,
+    "texto": "Art. 104.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 348,
+    "ate": 354,
+    "texto": "Art. 105.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 355,
+    "ate": 355,
+    "texto": "Art. 106.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 356,
+    "ate": 359,
+    "texto": "Art. 107.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 360,
+    "ate": 373,
+    "texto": "Art. 108.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 374,
+    "ate": 374,
+    "texto": "Art. 109.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 375,
+    "ate": 378,
+    "texto": "Art. 110.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 379,
+    "ate": 381,
+    "texto": "Art. 111.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 382,
+    "ate": 393,
+    "texto": "Art. 112.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 394,
+    "ate": 395,
+    "texto": "Art. 113.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 396,
+    "ate": 397,
+    "texto": "Art. 114.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 398,
+    "ate": 401,
+    "texto": "Art. 115.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 403,
+    "ate": 403,
+    "texto": "Art. 116.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 404,
+    "ate": 406,
+    "texto": "Art. 117.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 407,
+    "ate": 407,
+    "texto": "Art. 118.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 408,
+    "ate": 408,
+    "texto": "",
+    "alterador": 5
+   },
+   {
+    "de": 409,
+    "ate": 409,
+    "texto": "Art. 120.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 410,
+    "ate": 411,
+    "texto": "Art. 121.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 412,
+    "ate": 413,
+    "texto": "Art. 122.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 414,
+    "ate": 414,
+    "texto": "Art. 123.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 415,
+    "ate": 415,
+    "texto": "Art. 124.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 416,
+    "ate": 417,
+    "texto": "Art. 125.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 418,
+    "ate": 418,
+    "texto": "Art. 126.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 419,
+    "ate": 420,
+    "texto": "Art. 127.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 421,
+    "ate": 421,
+    "texto": "Art. 128.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 422,
+    "ate": 422,
+    "texto": "Art. 129.º (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 423,
+    "ate": 423,
+    "texto": "Art. 130.º (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 424,
+    "ate": 424,
+    "texto": "Art. 131.º (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 425,
+    "ate": 426,
+    "texto": "Art. 132.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 427,
+    "ate": 428,
+    "texto": "Art. 133.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 429,
+    "ate": 429,
+    "texto": "Art. 134.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 430,
+    "ate": 431,
+    "texto": "Art. 135.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 432,
+    "ate": 432,
+    "texto": "Art. 136.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 434,
+    "ate": 434,
+    "texto": "Art. 137.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 435,
+    "ate": 435,
+    "texto": "Art. 138.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 436,
+    "ate": 436,
+    "texto": "Art. 139.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 437,
+    "ate": 437,
+    "texto": "Art. 140.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 438,
+    "ate": 438,
+    "texto": "Art. 141.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 439,
+    "ate": 439,
+    "texto": "Art. 142.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 440,
+    "ate": 440,
+    "texto": "Art. 143.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 444,
+    "ate": 445,
+    "texto": "Art. 144.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 446,
+    "ate": 447,
+    "texto": "Art. 145.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 448,
+    "ate": 449,
+    "texto": "Art. 146.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 450,
+    "ate": 451,
+    "texto": "Art. 147.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 452,
+    "ate": 452,
+    "texto": "Art. 148.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 453,
+    "ate": 457,
+    "texto": "Art. 149.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 458,
+    "ate": 460,
+    "texto": "Art. 150.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 461,
+    "ate": 462,
+    "texto": "Art. 151.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 463,
+    "ate": 467,
+    "texto": "Art. 152.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 469,
+    "ate": 469,
+    "texto": "Art. 153.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 470,
+    "ate": 470,
+    "texto": "Art. 154.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 471,
+    "ate": 474,
+    "texto": "Art. 155.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 475,
+    "ate": 480,
+    "texto": "Art. 156.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 483,
+    "ate": 483,
+    "texto": "Art. 157.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 484,
+    "ate": 484,
+    "texto": "Art. 158.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 485,
+    "ate": 485,
+    "texto": "Art. 159.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 487,
+    "ate": 490,
+    "texto": "Art. 160.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 491,
+    "ate": 491,
+    "texto": "Art. 161.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 492,
+    "ate": 492,
+    "texto": "Art. 162.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 493,
+    "ate": 498,
+    "texto": "Art. 163.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 499,
+    "ate": 500,
+    "texto": "Art. 164.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 503,
+    "ate": 503,
+    "texto": "Art. 165.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 504,
+    "ate": 507,
+    "texto": "Art. 166.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 508,
+    "ate": 515,
+    "texto": "Art. 167.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 516,
+    "ate": 517,
+    "texto": "Art. 168.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 518,
+    "ate": 518,
+    "texto": "Art. 169.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 519,
+    "ate": 522,
+    "texto": "Art. 170.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 523,
+    "ate": 528,
+    "texto": "Art. 171.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 530,
+    "ate": 532,
+    "texto": "Art. 172.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 533,
+    "ate": 534,
+    "texto": "Art. 173.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 535,
+    "ate": 535,
+    "texto": "Art. 174.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 538,
+    "ate": 542,
+    "texto": "Art. 175.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 543,
+    "ate": 551,
+    "texto": "Art. 176.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 552,
+    "ate": 554,
+    "texto": "Art. 177.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 555,
+    "ate": 555,
+    "texto": "Art. 178.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 556,
+    "ate": 557,
+    "texto": "Art. 179.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 558,
+    "ate": 558,
+    "texto": "Art. 180.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 559,
+    "ate": 563,
+    "texto": "Art. 181.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 564,
+    "ate": 564,
+    "texto": "Art. 182.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 565,
+    "ate": 566,
+    "texto": "Art. 183.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 567,
+    "ate": 567,
+    "texto": "Art. 184.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 568,
+    "ate": 568,
+    "texto": "Art. 185.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 570,
+    "ate": 570,
+    "texto": "Art. 186.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 571,
+    "ate": 571,
+    "texto": "Art. 187.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 574,
+    "ate": 574,
+    "texto": "Art. 188.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 576,
+    "ate": 577,
+    "texto": "Art. 189.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 579,
+    "ate": 580,
+    "texto": "Art. 190.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 581,
+    "ate": 583,
+    "texto": "Art. 191.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 584,
+    "ate": 584,
+    "texto": "Art. 192.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 585,
+    "ate": 586,
+    "texto": "Art. 193.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 587,
+    "ate": 587,
+    "texto": "Art. 194.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 588,
+    "ate": 588,
+    "texto": "Art. 195.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 589,
+    "ate": 594,
+    "texto": "Art. 196.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 595,
+    "ate": 595,
+    "texto": "Art. 197.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 596,
+    "ate": 597,
+    "texto": "Art. 198.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 598,
+    "ate": 601,
+    "texto": "Art. 199.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 602,
+    "ate": 607,
+    "texto": "Art. 200.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 608,
+    "ate": 609,
+    "texto": "Art. 201.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 610,
+    "ate": 616,
+    "texto": "Art. 202.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 617,
+    "ate": 620,
+    "texto": "Art. 203.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 621,
+    "ate": 623,
+    "texto": "Art. 204.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 624,
+    "ate": 629,
+    "texto": "Art. 205.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 630,
+    "ate": 631,
+    "texto": "Art. 206.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 632,
+    "ate": 637,
+    "texto": "Art. 207.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 638,
+    "ate": 641,
+    "texto": "Art. 208.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 642,
+    "ate": 646,
+    "texto": "Art. 209.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 647,
+    "ate": 648,
+    "texto": "Art. 210.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 649,
+    "ate": 651,
+    "texto": "Art. 211.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 654,
+    "ate": 655,
+    "texto": "Art. 212.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 657,
+    "ate": 657,
+    "texto": "Art. 213.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 658,
+    "ate": 663,
+    "texto": "Art. 214.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 664,
+    "ate": 667,
+    "texto": "Art. 215.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 668,
+    "ate": 669,
+    "texto": "Art. 216.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 670,
+    "ate": 670,
+    "texto": "Art. 217.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 671,
+    "ate": 672,
+    "texto": "Art. 218.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 673,
+    "ate": 681,
+    "texto": "Art. 219.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 682,
+    "ate": 684,
+    "texto": "Art. 220.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 685,
+    "ate": 686,
+    "texto": "Art. 221.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 687,
+    "ate": 687,
+    "texto": "Art. 222.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 688,
+    "ate": 688,
+    "texto": "Art. 223.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 689,
+    "ate": 689,
+    "texto": "Art. 224.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 690,
+    "ate": 693,
+    "texto": "Art. 225.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 695,
+    "ate": 700,
+    "texto": "Art. 226.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 701,
+    "ate": 703,
+    "texto": "Art. 227.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 704,
+    "ate": 704,
+    "texto": "Art. 228.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 705,
+    "ate": 707,
+    "texto": "Art. 229.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 708,
+    "ate": 709,
+    "texto": "Art. 230.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 710,
+    "ate": 711,
+    "texto": "Art. 231.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 712,
+    "ate": 712,
+    "texto": "Art. 232.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 713,
+    "ate": 713,
+    "texto": "Art. 233.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 716,
+    "ate": 717,
+    "texto": "Art. 234.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 718,
+    "ate": 721,
+    "texto": "Art. 235.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 722,
+    "ate": 730,
+    "texto": "Art. 236.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 731,
+    "ate": 731,
+    "texto": "Art. 237.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 733,
+    "ate": 735,
+    "texto": "Art. 238.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 736,
+    "ate": 739,
+    "texto": "Art. 239.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 740,
+    "ate": 742,
+    "texto": "Art. 240.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 743,
+    "ate": 743,
+    "texto": "Art. 241.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 744,
+    "ate": 744,
+    "texto": "Art. 242.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 745,
+    "ate": 752,
+    "texto": "Art. 243.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 753,
+    "ate": 753,
+    "texto": "Art. 244.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 755,
+    "ate": 757,
+    "texto": "Art. 245.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 758,
+    "ate": 758,
+    "texto": "Art. 246.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 760,
+    "ate": 764,
+    "texto": "Art. 247.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 765,
+    "ate": 765,
+    "texto": "Art. 248.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 766,
+    "ate": 767,
+    "texto": "Art. 249.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 768,
+    "ate": 770,
+    "texto": "Art. 250.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 771,
+    "ate": 772,
+    "texto": "Art. 251.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 773,
+    "ate": 774,
+    "texto": "Art. 252.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 776,
+    "ate": 776,
+    "texto": "Art. 253.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 778,
+    "ate": 780,
+    "texto": "Art. 254.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 781,
+    "ate": 784,
+    "texto": "Art. 255.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 785,
+    "ate": 786,
+    "texto": "Art. 256.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 787,
+    "ate": 788,
+    "texto": "Art. 257.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 789,
+    "ate": 789,
+    "texto": "Art. 258.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 790,
+    "ate": 793,
+    "texto": "Art. 259.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 794,
+    "ate": 796,
+    "texto": "Art. 260.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 797,
+    "ate": 797,
+    "texto": "Art. 261.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 798,
+    "ate": 800,
+    "texto": "Art. 262.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 801,
+    "ate": 801,
+    "texto": "Art. 263.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 802,
+    "ate": 804,
+    "texto": "Art. 264.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 805,
+    "ate": 805,
+    "texto": "Art. 265.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 806,
+    "ate": 806,
+    "texto": "Art. 266.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 807,
+    "ate": 807,
+    "texto": "Art. 267.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 808,
+    "ate": 809,
+    "texto": "Art. 268.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 810,
+    "ate": 810,
+    "texto": "Art. 269.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 811,
+    "ate": 811,
+    "texto": "Art. 270.º (Revogado.)",
+    "alterador": 10
+   },
+   {
+    "de": 812,
+    "ate": 812,
+    "texto": "Art. 271.º (Revogado.)",
+    "alterador": 10
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 8, nova redação dos artigos 167.º e 193.º do Código (art. 52.º do Decreto-Lei n.º 177/86): sem texto — o pedido só traz a frase introdutória, sem a nova redação dos dois artigos.",
+  "instrucoes": [
+   "Alteradores 1 a 7 e 9 (DL 45400, 48699, 217/76, 434/77, 500/79, 362/82, 485/82, 414/88): alterações a artigos do Código (arts. 11.º a 264.º), todas absorvidas pela revogação do Código inteiro pelo alterador 10; não se devolvem as redações intermédias.",
+   "Alterador 2 (DL 48699), art. 7.º: arts. 129.º, 130.º e 131.º revogados (422-424, «Art. N.º (Revogado.)»).",
+   "Alterador 5 (DL 500/79), art. 2.º: eliminado o art. 119.º (408 passa a \"\"; não existe à data da revogação do Código).",
+   "Alterador 8 (DL 177/86), art. 52.º: arts. 167.º e 193.º sem a nova redação no pedido: em nao_aplicavel (o artigo fica revogado pelo alterador 10).",
+   "Alterador 10 (DL 154/91), art. 11.º, com o art. 2.º, n.º 1 (CPT em vigor em 1 de Julho de 1991): revogado o Código de Processo das Contribuições e Impostos inteiro; cada artigo do Código (Artigo 1.º a Art. 271.º, unidades 58 a 812) fica «Art. N.º (Revogado.)» na forma do texto («Artigo 1.º (Revogado.)» no primeiro). Ficam o decreto de aprovação (unidades 1 a 53), o título do Código (54), os títulos de divisão e a assinatura final (813). A parte «toda a legislação contrária» é revogação condicional e não muda o texto.",
+   "Alterador 11 (DL 275-A/93): nenhuma instrução dirigida ao original (o art. 50.º revoga outros diplomas)."
+  ]
+ }
+]

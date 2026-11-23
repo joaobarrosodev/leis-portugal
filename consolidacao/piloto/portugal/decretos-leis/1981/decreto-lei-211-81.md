@@ -13,9 +13,12 @@ consolidacao:
   - id: pt:dre:309932:por
     title: Decreto-Lei n.º 126/83
     publication_date: '1983-03-09'
-  - id: pt:dre:381677:por
-    title: Decreto-Lei n.º 256/84
-    publication_date: '1984-07-27'
+  - id: pt:dre:620949:por
+    title: Decreto-Lei n.º 213/89
+    publication_date: '1989-06-30'
+  - id: pt:dre:620941:por
+    title: Decreto-Lei n.º 214/89
+    publication_date: '1989-06-30'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -122,127 +125,27 @@ g) Acção social escolar:
 
 ###### Artigo 8.º
 
-As DEs são dirigidas por um director, que será coadjuvado por subdirectores escolares.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 9.º
 
-1 - São atribuições das DEs, no âmbito da DGP:
+(Revogado.)
 
-a) Elaboração do projecto de orçamento das DEs e acompanhamento da execução do mesmo;
-
-b) Realização das operações necessárias ao correcto registo contabilístico (folhas de locação de bens, ajudas de custo, transportes, pequenas reparações, bens e serviços e registos das despesas efectuadas e das entradas);
-
-c) Informação dos lugares vagos do pessoal docente, administrativo e auxiliar e organização dos respectivos processos de nomeação;
-
-d) Coordenação e elaboração das listas de lugares vagos ou disponíveis do ensino primário, de acordo com oportuna informação das DLEs para concursos destinados a ex-titulares de lugares que foram extintos, para titulares de lugares suspensos, para candidatos ao abrigo da preferência conjugal, para as reconduções de professores profissionalizados não efectivos e para o concurso ao quadro geral;
-
-e) Organização dos processos de abandono do lugar;
-
-f) Confirmação dos processos de concessão de fases aos professores efectivos;
-
-g) Organização dos processos de concessão de diuturnidades ao pessoal docente e não docente;
-
-h) Formulação de propostas de expropriação e de rescisão de contratos;
-
-i) Passagem de certidões e declarações;
-
-j) Organização de todos os concursos relativos ao pessoal docente e não docente, nomeadamente de profissionalizados não efectivos para o ensino primário, da educação pré-escolar, do ciclo preparatório TV, dos tutelares de menores e instituições dependentes do MAS e da preferência conjugal;
-
-k) Organização de processos de permuta, transferência, acumulação, comissão de serviço e colocação especial de pessoal docente;
-
-l) Processamento mecanográfico de vencimentos ao pessoal docente efectivo, pessoal administrativo e auxiliar e elaboração de folhas manuais adicionais;
-
-m) Organização de processos de abono de vencimento de exercício perdido e sua reversão;
-
-n) Organização de processos de habilitação de herdeiros;
-
-o) Realização das operações relacionadas com penhoras dos vencimentos e com a alteração do nome oficial dos docentes e não docentes;
-
-p) Passagem de guias de receita do Estado;
-
-q) Organização de processos sobre exercício de actividades privadas;
-
-r) Organização de processos de faltas e licenças e manutenção actualizada do cadastro de todo o pessoal docente e não docente;
-
-s) Organização de processos relativos à Assistência na Tuberculose aos Funcionários Civis (AFCT);
-
-t) Organização de processos por acidente em serviço, pensões de sangue e subsídio vitalício;
-
-u) Organização de processos de permuta e transferência de pessoal administrativo;
-
-v) Apoio e participação em acções de formação de pessoal não docente.
-
-2 - São, ainda, atribuições das DEs:
-
-a) Organizar os processos de abonos de família e prestações complementares;
-
-b) Organizar os processos de inscrição na Caixa Geral de Aposentações e Montepio dos Servidores do Estado;
-
-c) Organizar os processos de aposentação voluntária e obrigatória e elaborar as relações para efeito de liquidação do imposto complementar;
-
-d) Dar execução aos processos respeitantes à ADSE.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 10.º
 
-No exercício das atribuições das DEs, compete ao director escolar:
+(Revogado.)
 
-a) Visitar e orientar os estabelecimentos que lhe estão adstritos, assistindo aos respectivos serviços;
-
-b) Prestar aos serviços centrais todas as informações que lhe forem requisitadas e fornecer os elementos determinados;
-
-c) Manter relações com as autarquias administrativas, esclarecendo-as, prestando-lhes o seu apoio na criação de escolas e implantação de edifícios;
-
-d) Fornecer nos prazos e termos legais as informações concernentes ao provimento dos lugares vagos;
-
-e) Promover as colocações dos professores não efectivos e proceder, nos termos da lei, quanto a afectação, criação ou extinção dos lugares de educação pré-escolar, do ensino primário, do ciclo preparatório TV e dos cursos de educação de adultos, segundo propostas da Direcção-Geral da Educação de Adultos;
-
-f) Vistoriar as instalações destinadas aos serviços escolares, dando conta às autarquias das deficiências encontradas e necessidades de reparação e implantação de novos edifícios;
-
-g) Planear em colaboração com as DLEs, ouvidas as autarquias locais, a rede escolar do distrito e propor as alterações aconselháveis;
-
-h) Velar pela pontualidade e assiduidade do pessoal docente e não docente do seu distrito, julgando, nos termos legais, as respectivas faltas, sem prejuízo da competência estabelecida neste diploma para os delegados escolares;
-
-i) Mandar processar os vencimentos e outros abonos a todo o pessoal sob a sua administração, assinando as folhas de vencimentos;
-
-j) Assinar os diplomas e mais documentos especiais, bem como toda a correspondência com entidades estranhas, representando ainda os organismos centrais nos actos em que como tal forem designados;
-
-k) Velar pela higiene escolar nos estabelecimentos de ensino;
-
-l) Prestar todas as informações que lhe forem requisitadas para a execução dos serviços de inspecção, comunicando aos serviços centrais todas as ocorrências e todas as infracções cuja punição exceda a sua competência disciplinar já definida em estatuto;
-
-m) Em casos de gravidade e na impossibilidade de se aguardar resolução superior, tomar as medidas de carácter excepcional necessárias, dando imediata conta delas ao respectivo serviço central;
-
-n) Administrar convenientemente as verbas orçamentais destinadas à respectiva direcção escolar;
-
-o) Deferir os pedidos de abono e reversão de vencimento de exercício perdido;
-
-p) Conceder as diuturnidades ao pessoal docente e não docente;
-
-q) Conceder licenças até noventa dias;
-
-r) Promover a conveniente formação administrativa das delegações e subdelegações escolares, realizando as acções julgadas convenientes e as que forem superiormente determinadas;
-
-s) Propor superiormente a nomeação de delegados e subdelegados escolares, ouvindo-se para a nomeação destes últimos o delegado escolar enquanto não houver elementos aprovados nos cursos referidos no artigo 24.º;
-
-t) Dispensar das funções docentes os directores de escola, segundo as normas em vigor;
-
-u) Conferir posse aos professores efectivos vindos de outros distritos e ao pessoal administrativo e auxiliar afectos ao quadro da direcção escolar;
-
-v) Autorizar a tomada de posse fora do distrito a todos os docentes colocados no seu distrito que o requeiram;
-
-x) Designar de entre os subdirectores aquele que o substituirá nas suas ausências e impedimentos.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 11.º
 
-1 - No exercício das atribuições das DEs cabe, nomeadamente, ao subdirector escolar:
+(Revogado.)
 
-a) O exercício das competências do director escolar, de acordo com prévia definição por despacho do director escolar;
-
-b) Velar pelos serviços da DE dentro dos sectores que lhe forem atribuídos.
-
-2 - O subdirector escolar substituirá o director escolar nas suas ausências e impedimentos.
-
-3 - Nas DEs em que exista mais do que um sub-director o substituto será o que for para tal designado por despacho do director escolar respectivo.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ### CAPÍTULO III — Das delegações escolares
 
@@ -348,119 +251,81 @@ b) Velar pelos serviços da delegação escolar, dentro dos sectores que lhes fo
 
 ###### Artigo 16.º
 
-1 - Cada DE possui, para além do director, um número de subdirectores a definir para cada uma delas por despacho do Ministro da Educação e Ciência, mas que, em qualquer caso, não poderá ultrapassar as quatro unidades.
+(Revogado.)
 
-2 - Para efeitos de fixação do número de subdirectores tomar-se-á, nomeadamente, em consideração o número de docentes e de discentes dependentes da respectiva DE.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 17.º
 
-Cada DE possui o pessoal administrativo e auxiliar constante do mapa anexo ao [Decreto-Lei n.º 370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608), de 6 de Setembro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 18.º
 
-1 - O director da DE será nomeado em regime de comissão de serviço, por despacho do Ministro da Educação, mediante proposta do director-geral de Pessoal, de entre os subdirectores em exercício com, pelo menos, 3 anos de bom e efectivo serviço prestado nesta categoria, contando-se para o efeito o tempo de serviço correspondente ao exercício do cargo de adjunto de director de distrito escolar.
+(Revogado.)
 
-2 - O período de comissão de serviço será de 3 anos, podendo o mesmo ser prorrogado por iguais períodos.
-
-3 - No período da respectiva comissão, esta poderá cessar em qualquer momento:
-
-a) Por despacho do Ministro da Educação, na sequência de procedimento disciplinar em que se tenha concluído pela pena de multa ou superior;
-
-b) Por despacho do Ministro da Educação, a pedido do interessado, apresentado com, pelo menos, 60 dias de antecedência.
-
-4 - Ao cargo de director escolar é atribuída a letra D do funcionalismo público.
-
-> Alterado pelo/a [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), publicado em 1983-03-09.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 19.º
 
-1 - Os subdirectores escolares serão nomeados, por despacho do Ministro da Educação, sob proposta do director-geral de pessoal, de entre os delegados escolares em exercício, com, pelo menos, 3 anos de bom e efectivo serviço nesta categoria, contando-se para o feito o tempo prestado como secretário de zona e ou de delegado de zona escolar.
+(Revogado.)
 
-2 - A nomeação efectuar-se-á em regime de comissão de serviço, à qual é aplicável o disposto nos n.os 2 e 3 do artigo anterior.
-
-> Alterado pelo/a [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), publicado em 1983-03-09.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 20.º
 
-Ao cargo de subdirector escolar é atribuída a letra E do funcionalismo público.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 213/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1989-620949), publicado em 1989-06-30.
 
 ###### Artigo 21.º
 
-Sempre que se verificar a existência de uma vaga de director escolar ou de subdirector escolar, a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência de funcionários já providos nos respectivos cargos.
+(Revogado.)
 
-Das DLEs
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 22.º
 
-1 - Cada DLE terá, para além do delegado escolar, um número de subdelegados estabelecido de acordo com o mapa anexo ao presente diploma.
+(Revogado.)
 
-2 - Para efeitos de fixação do número de subdelegados tomar-se-á em consideração, nomeadamente, o número de docentes e de discentes dependentes da respectiva delegação, em termos de número de lugares em exercício.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 23.º
 
-1 - Cada DLE terá o pessoal administrativo e auxiliar de apoio que lhe vier a ser atribuído por portaria dos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa.
+(Revogado.)
 
-2 - Ao provimento do pessoal referido no número anterior aplicar-se-ão as regras em vigor para provimento de idêntico pessoal dos serviços centrais do MEC.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 24.º
 
-1 - Os lugares de delegados e subdelegados escolares serão providos por candidatos aprovados em cursos especiais de formação a definir por portaria do Ministro da Educação e Ciência, ouvido o Ministro da Reforma Administrativa.
+(Revogado.)
 
-2 - Os cursos referidos no número anterior versarão, nomeadamente:
-
-a) Legislação escolar;
-
-b) Pedagogia;
-
-c) Administração escolar;
-
-d) Acção social escolar;
-
-e) Desporto escolar;
-
-f) Relações públicas;
-
-g) Educação permanente.
-
-3 - As regras de funcionamento, bem como os critérios de classificação dos candidatos, serão definidos na portaria referida no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 25.º
 
-1 - Poderão candidatar-se aos cursos especiais de formação mencionados no artigo anterior:
+(Revogado.)
 
-a) Professores efectivos do ensino primário que tenham prestado funções nas extintas delegações de zona escolar pelo menos por três anos consecutivos ou alternados;
-
-b) Directores ou subdirectores de escola do ensino primário com três anos consecutivos ou alternados no exercício do cargo;
-
-c) Professores efectivos do ensino primário que tenham prestado funções não docentes nos diversos organismos do Ministério da Educação e Ciência pelo menos durante três anos consecutivos ou alternados;
-
-d) Outros professores do ensino primário com pelo menos cinco anos de serviço docente bem qualificado.
-
-2 - Os candidatos admitidos frequentarão os cursos com dispensa de todas as suas actividades, sendo-lhes devidas, se for caso disso, as ajudas de custo e subsídios de viagem previstos na lei geral.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 26.º
 
-1 - O lugar de delegado será provido por despacho do director-geral de Pessoal de entre subdelegados em exercício e considerados aptos no curso referido no artigo 24.º, mediante proposta do director escolar.
+(Revogado.)
 
-2 - A nomeação do delegado será feita em comissão de serviço por três anos renováveis tacitamente.
-
-3 - A comissão referida no número anterior poderá findar:
-
-a) Por manifestação de vontade por parte dos interessados desde que esta seja apresentada por escrito ao director-geral de Pessoal até sessenta dias antes do final do ano lectivo;
-
-b) Por despacho do Ministro da Educação e Ciência na sequência de procedimento disciplinar em que se tenha concluído pela pena de multa ou superior.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 27.º
 
-1 - Os subdelegados serão nomeados por despacho do director-geral de Pessoal de entre os candidatos considerados aptos no curso referido no artigo 24.º, mediante proposta do respectivo delegado e parecer do director escolar.
+(Revogado.)
 
-2 - As nomeações dos subdelegados far-se-ão de acordo com o estabelecido no artigo anterior para os delegados.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 28.º
 
-1 - Ao cargo de delegado escolar é atribuída a letra F do funcionalismo público.
+(Revogado.)
 
-2 - Ao cargo de subdelegado escolar é atribuída a letra G do funcionalismo público.
+> Revogado pelo/a [Decreto-Lei n.º 214/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1989-620941), publicado em 1989-06-30.
 
 ###### Artigo 29.º
 
@@ -468,139 +333,125 @@ O serviço prestado pelos delegados e subdelegados escolares é contado para tod
 
 ###### Artigo 30.º
 
-Sempre que se verificar a existência de uma vaga de delegado escolar ou de subdelegado escolar a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência de funcionários já providos nos respectivos cargos, por lista a publicar no Diário da República ou aviso a enviar a todas as delegações escolares.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 31.º
 
-1 - Os directores escolares, os subdirectores escolares, os delegados e subdelegados escolares têm direito à gratificação mensal de 2000$00 paga durante os doze meses do ano.
+(Revogado.)
 
-2 - Sempre que o subdelegado escolar aufira, como professor, vencimento superior ao referido no n.º 2 do artigo 28.º, ser-lhe-á abonado o que lhe competir como professor, acrescido da respectiva gratificação referida no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 214/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1989-620941), publicado em 1989-06-30.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
 ###### Artigo 32.º
 
-1 - Os actuais directores de distrito escolar, com provimento definitivo, que se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço, como directores escolares, previsto no presente diploma.
+(Revogado.)
 
-2 - Os actuais directores de distrito escolar providos definitivamente e ainda os directores escolares das ex-colónias, os integrados no quadro de supranumerários e os adidos, que à data da entrada em vigor do presente diploma não estejam no exercício efectivo de funções, bem como os directores de distrito escolar, com provimento definitivo, à medida que cessarem as respectivas comissões de serviço como directores escolares, transitam para a categoria de inspector principal da carreira técnica de inspecção, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
-
-3 - Para efeitos do disposto no número anterior consideram-se automaticamente criados os correspondentes lugares no quadro único dos organismos e serviços centrais do Ministério da Educação, os quais se extinguirão à medida que vagarem.
-
-4 - Os inspectores principais a que se referem os números anteriores são afectos à dotação do pessoal técnico de inspecção administrativo-financeira da Inspecção-Geral de Ensino, que os distribuirá em função das necessidades dos serviços e sempre com acordo dos interessados, se a distribuição implicar mudança de localidade.
-
-> Alterado pelo/a [Decreto-Lei n.º 256/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1984-381677), publicado em 1984-07-27.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 33.º
 
-1 - Os actuais directores de distrito escolar providos não definitivamente nesses lugares poderão ser providos, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, nos respectivos lugares de director escolar criados pelo presente diploma, sendo-lhes aplicável o disposto no artigo 18.º
+(Revogado.)
 
-2 - Os directores referidos no número anterior manterão, enquanto tal, todos os direitos inerentes ao lugar do quadro de que são titulares, contando-se-lhes para todos os efeitos legais como docente o tempo de serviço prestado como directores escolares.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 34.º
 
-1 - Os actuais adjuntos de director de distrito escolar, com provimento definitivo, que se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço, como subdirectores escolares, previsto no presente diploma.
+(Revogado.)
 
-2 - Os actuais adjuntos de director de distrito escolar providos definitivamente e ainda os adjuntos de director escolar das ex-colónias, os integrados no quadro de supranumerários e os adidos, que à data da entrada em vigor do presente diploma não estejam no exercício efectivo de funções, bem como os adjuntos de director de distrito escolar, com provimento definitivo, à medida que cessarem as respectivas comissões de serviço como subdirectores escolares, transitam para a categoria de inspector principal adjunto da carreira técnica de inspecção, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
-
-3 - Para efeitos do disposto no número anterior consideram-se automaticamente criados os correspondentes lugares no quadro único dos organismos e serviços centrais do Ministério da Educação, os quais se extinguirão à medida que vagarem.
-
-4 - Os inspectores principais adjuntos a que se referem os números anteriores são afectos à dotação do pessoal técnico de inspecção administrativo-financeira da Inspecção-Geral de Ensino, que os distribuirá em função das necessidades dos serviços e sempre com acordo dos interessados, se a distribuição implicar mudança de localidade.
-
-> Alterado pelo/a [Decreto-Lei n.º 256/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1984-381677), publicado em 1984-07-27.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 35.º
 
-1 - Os actuais adjuntos de directores de distrito escolar providos não definitivamente nesses lugares poderão ser providos, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, nos respectivos lugares de subdirector escolar criados pelo presente diploma, sendo-lhes aplicável o disposto no artigo 19.º
+(Revogado.)
 
-2 - Para efeitos do disposto no número anterior consideram-se automaticamente criados os correspondentes lugares de subdirector escolar.
-
-3 - Os subdirectores referidos no n.º 1 manterão, enquanto tal, todos os direitos inerentes ao lugar do quadro de que são titulares, contando-se-lhes para todos os efeitos legais como docente o tempo de serviço prestado como subdirectores escolares.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 36.º
 
-1 - Os actuais delegados de zona escolar poderão ser providos, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, nos lugares de delegado escolar na delegação onde já vinham exercendo funções.
+(Revogado.)
 
-2 - Os actuais assistentes dos delegados de zona escolar que se encontram à data da publicação deste diploma dispensados de serviço docente poderão ser providos, independentemente de quaisquer formalidades legais, excepto o visto do Tribunal de Contas, em lugares de subdelegado escolar na respectiva delegação, de acordo com o disposto no mapa anexo a este decreto-lei.
-
-3 - Nos concelhos a que se refere o n.º 3 do artigo 5.º, onde vinham funcionando duas delegações escolares, os elementos que as constituem serão integrados, se assim o desejarem, na única DLE, respeitando-se as datas de provimento no lugar anterior.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 37.º
 
-1 - Os actuais assistentes dos delegados de zona escolar que se encontrem à data da publicação deste diploma não dispensados de serviço docente:
+(Revogado.)
 
-a) Poderão ser providos, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, em vagas de subdelegado escolar ainda existentes na respectiva delegação, mediante proposta do respectivo delegado;
-
-b) Poderão ser providos, independentemente de quaisquer formalidades legais, excepto o visto do Tribunal de Contas, desde que para tal dêem o seu acordo, em lugares de subdelegado em outras delegações escolares.
-
-2 - Se os respectivos interessados não pretenderem o provimento nos termos das alíneas a) e b) do número anterior, regressarão ao quadro de origem.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 38.º
 
-Após o preenchimento dos lugares de director escolar e de subdirector escolar e dos lugares de delegado e subdelegado da DLE realizar-se-á o primeiro curso especial de formação destinado ao preenchimento dos lugares de subdirector escolar, delegado e subdelegado escolar que ainda se encontrem vagos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 39.º
 
-Os delegados escolares e subdelegados escolares providos nos termos dos artigos 36.º e 37.º deste diploma frequentarão obrigatoriamente cursos de reciclagem e aperfeiçoamento a definir por despacho do Ministro da Educação e Ciência.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 40.º
 
-1 - Enquanto não for possível proceder ao provimento dos lugares de delegado e subdelegado escolar, poderão os respectivos lugares ser preenchidos interinamente.
+(Revogado.)
 
-2 - Os lugares de director escolar e subdirector escolar poderão ser providos interinamente, respectivamente por subdirectores e por delegados escolares, por despacho do Ministro da Educação, desde que:
-
-a) Não exista subdirector escolar ou delegado escolar com o tempo de serviço legalmente exigido para o provimento das funções que interinamente vão exercer;
-
-b) Não exista subdirector escolar ou delegado escolar que, reunindo embora as condições legais de provimento dos respectivos lugares de director escolar e de subdirector escolar, não pretenda o respectivo provimento.
-
-> Alterado pelo/a [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), publicado em 1983-03-09.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 41.º
 
-Enquanto não for possível dotar de pessoal administrativo e auxiliar as delegações escolares, poderá o director-geral de Pessoal proceder ao destacamento para as delegações escolares, mediante proposta do delegado e parecer do respectivo director escolar:
+(Revogado.)
 
-a) De pessoal administrativo da direcção escolar ou de estabelecimento de ensino preparatório e secundário após acordo, neste último caso, dos respectivos conselhos directivos;
-
-b) De pessoal auxiliar das escolas do ensino primário dependentes da respectiva delegação.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 42.º
 
-1 - Se não for possível proceder aos destacamentos previstos na alínea a) do artigo anterior, poderá o director-geral de Pessoal, mediante proposta do delegado e parecer favorável da respectiva DE, autorizar o destacamento para a delegação de professores do ensino primário até ao limite do número de pessoal administrativo fixado para a delegação.
+(Revogado.)
 
-2 - Aos professores referidos no número anterior é aplicável o disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 43.º
 
-As delegações escolares serão dotadas de orçamento simples, que para o efeito se inscreverá no orçamento da respectiva DE.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 44.º
 
-1 - As instalações, equipamento e mobiliário das DEs estarão a cargo da Direcção-Geral do Equipamento Escolar.
+(Revogado.)
 
-2 - As instalações, equipamento e mobiliário dos DLES estarão, transitoriamente, a cargo da Direcção-Geral de Pessoal.
-
-> Alterado pelo/a [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), publicado em 1983-03-09.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 45.º
 
-Aos directores de distrito escolar que foram abrangidos pelo disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 356/76, de 14 de Maio, e que se encontrem em exercício de funções na Inspecção Administrativo-Financeira da Inspecção-Geral de Ensino, é aplicável desde já o disposto nos n.os 2 e 4 do artigo 32.º do presente diploma, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, considerando-se imediatamente criados os respectivos lugares afectos à Inspecção-Geral de Ensino, podendo-lhes ser distribuídas funções inspectivas nos termos do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), publicado em 1983-03-09.
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 46.º
 
-O presente diploma vigorará até à criação dos serviços regionais do Ministério da Educação e Ciência, sofrendo então as necessárias adaptações, que, contudo, não poderão prejudicar situações pessoais quanto a letras de vencimento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 47.º
 
-As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho dos Ministros da Educação e Ciência e da Reforma Administrativa, consoante a sua natureza.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 48.º
 
-São revogados o Decreto-Lei n.º 356/76, de 14 de Maio, e os Decretos n.os [760/76](https://diariodarepublica.pt/dr/detalhe/decreto/760-1976-409526), de 22 de Outubro, e [70/78](https://diariodarepublica.pt/dr/detalhe/decreto/70-1978-434580), de 15 de Julho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 ###### Artigo 49.º
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de Janeiro de 1981.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1981. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 

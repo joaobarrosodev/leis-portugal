@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:198329:por
+    title: Declaração de Rectificação n.º 234/91
+    publication_date: '1991-10-31'
   - id: pt:dre:510801:por
     title: Decreto-Lei n.º 14/94
     publication_date: '1994-01-20'
@@ -52,19 +55,23 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 1 - O contrato de concessão será outorgado nos termos das bases gerais da concessão.
 
-2 - A outorga do contrato, bem como a respectiva rescisão, é precedida de homologação pelo membro do Governo responsável pela área do turismo.
+2 - A outorga do contrato, bem como a respectiva rescisão, são precedidas de homologação pelo membro do Governo responsável pela área do turismo.
 
 3 - O regulamento de exploração e utilização da Marina de Cascais será aprovado por despacho conjunto do Ministro das Obras Públicas, Transportes e Comunicações e do membro do Governo responsável pela área do turismo.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 234/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/234-1991-198329), publicado em 1991-10-31.
+
 ###### Artigo 4.º
 
-1 - Integra a concessão a zona dominial constituída pelos terrenos delimitados no mapa constante do anexo II ao presente diploma, bem como as obras e edificações nela construídas ou a construir.
+1 - Integram a concessão a zona dominial constituída pelos terrenos delimitados no mapa constante do anexo II ao presente diploma, bem como as obras e edificações nela construídas ou a construir.
 
 2 - Integra ainda a concessão o direito de exploração da zona do domínio público marítimo delimitada no mapa referido no número anterior, para os fins previstos no n.º 1 do artigo 1.º
 
 3 - Cessam, na data de adjudicação do contrato de concessão, todos os direitos de servidão, nomeadamente os que implicam passagem por ou ocupação de áreas da zona dominial assinaladas no mapa constante do anexo III ao presente diploma, bem como quaisquer restrições de utilidade pública ou particular que sobre elas impendam.
 
 4 - As desocupações e remoções necessárias à execução do disposto no número anterior devem ter lugar até à data nele indicada.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 234/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/234-1991-198329), publicado em 1991-10-31.
 
 > Alterado pelo/a [Decreto-Lei n.º 14/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1994-510801), publicado em 1994-01-20.
 

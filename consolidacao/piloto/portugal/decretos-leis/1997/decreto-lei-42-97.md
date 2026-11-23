@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:569887:por
+    title: Decreto-Lei n.º 366/99
+    publication_date: '1999-09-18'
   - id: pt:dre:310796:por
     title: Decreto-Lei n.º 202/99
     publication_date: '1999-06-09'
@@ -334,33 +337,9 @@ Funções de coordenação
 
 ###### Artigo 4.º — Conselho de Administração Fiscal
 
-1 - É criado na DGCI o Conselho de Administração Fiscal (CAF), constituído pelo director-geral, que preside, pelos subdirectores-gerais e pelo director do Centro de Estudos Fiscais (CEF).
+(Revogado.)
 
-2 - Ao CAF incumbe pronunciar-se sobre todos os assuntos respeitantes à administração fiscal e à gestão dos respectivos serviços que lhes forem submetidos pelo Ministro das Finanças ou pelo director-geral, sendo obrigatória a sua audição nas seguintes matérias:
-
-a) Definição de políticas gerais de gestão dos recursos, em especial dos recursos humanos;
-
-b) Nomeação do pessoal dirigente, com excepção do director-geral, dos subdirectores-gerais e do director do CEF, nos casos em que o provimento dos lugares não dependa de concurso específico;
-
-c) Termo das comissões de serviço do pessoal dirigente, com excepção das do director-geral, dos subdirectores-gerais e do director do CEF, quando a iniciativa seja da Administração;
-
-d) Termo das comissões de serviço do pessoal de chefia tributária, nas circunstâncias referidas na alínea anterior;
-
-e) Apreciação das circunstâncias impeditivas da nomeação para cargos de chefia tributária referidas no n.º 7 do artigo 42.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, com a redacção dada pelo presente diploma;
-
-f) Aprovação ou alteração dos quadros de pessoal e dos regulamentos respeitantes à gestão dos recursos humanos;
-
-g) Criação ou alteração de serviços;
-
-h) Criação ou alteração de carreiras específicas da administração fiscal e alteração do regime do pessoal, neste caso quando o mesmo não decorra da lei geral;
-
-i) Emissão de instruções gerais visando a uniformização da aplicação das leis e procedimentos tributários;
-
-j) Proposta de orçamento da DGCI;
-
-l) Aprovação do relatório de actividades da DGCI.
-
-3 - O regulamento do CAF será aprovado por despacho do Ministro das Finanças.
+> Revogado pelo/a [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), publicado em 1999-09-18.
 
 ###### Artigo 5.º — Promoção de funcionários habilitados com curso superior
 

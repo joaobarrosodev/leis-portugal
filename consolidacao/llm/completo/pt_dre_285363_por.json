@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:285363:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12603/00140017.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/015b00/02980299.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/220b00/50295029.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/061b00/12881288.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/188b00/42934293.pdf)",
+      "alterador": 6
+    }
+  ],
+  "nao_aplicavel": "Alterador 5, n.º 2.º (são extintos os lugares da carreira técnica de serviço social do quadro): sem texto: o quadro só existe em imagem e o alterador só traz imagem nova do grupo de pessoal técnico superior, não da parte onde estão esses lugares\nAlterador 7, criação de um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar: sem texto: o quadro só existe em imagem e a portaria não traz imagem nem quadro novo",
+  "instrucoes": [
+    "Alterador 1 (retificação): republica o mapa anexo inteiro em imagem; o corpo do anexo passa a ser a imagem do alterador 1",
+    "Alterador 2 (retificação): corrige duas partes do quadro (internato complementar; ramo de farmácia), em imagem; acrescentadas as duas linhas de imagem ao corpo",
+    "Alterador 3 (Portaria 49/91): altera o quadro na parte da carreira médica hospitalar, em imagem; acrescentada a imagem",
+    "Alterador 4 (Portaria 979/91): altera o quadro na parte do pessoal técnico-profissional de informática, em imagem; acrescentada a imagem",
+    "Alterador 5 (Portaria 174/92): integra a carreira de técnico superior de serviço social e altera o grupo técnico superior, em imagem; acrescentada a imagem; a extinção dos lugares da carreira técnica de serviço social vai para nao_aplicavel",
+    "Alterador 6 (Portaria 729/93): altera o quadro na parte do pessoal técnico superior de saúde, em imagem; acrescentada a imagem",
+    "Alterador 7 (Portaria 468/2000): cria um lugar de assessor principal, sem imagem; nao_aplicavel (confirmado o reparo: o quadro do original está em imagem)",
+    "Corpo do anexo final = imagem do alterador 1 + imagens das alterações parciais 2 a 6, por ordem; alterador indicado: 6 (o último)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

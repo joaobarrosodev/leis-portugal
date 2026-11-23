@@ -1,0 +1,33 @@
+[
+ {
+  "id": "pt:dre:490420:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Divisões da parte IV em falta: o DL 82/2013, art. 7.º («Alterações sistemáticas»), adita ao Código uma «PARTE IV — Outros benefícios fiscais ao investimento», com um «CAPÍTULO I — Regime Fiscal de Apoio ao Investimento» (arts. 26.º a 32.º) e um «CAPÍTULO II — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial» (arts. 33.º a 40.º). O consolidado tem os arts. 26.º a 40.º mas não tem estes três títulos de divisão; a justificação aceite («o formato só muda títulos existentes») é uma limitação do formato, não uma razão jurídica: a instrução muda o texto (acrescenta epígrafes de divisão), devem entrar antes do art. 26.º e do art. 33.º. O resto está certo: o Código inteiro (arts. 1.º a 40.º do anexo) está como «(Revogado.)» pelo DL 162/2014, art. 7.º, al. c), revogação total sem exceção; os arts. 1.º a 9.º do próprio decreto-lei não são abrangidos (só o Código é revogado) e não têm instrução textual; os alteradores de IRS/IRC/EBF/IVA (Leis 3-B/2010, 15/2010, 55-A/2010, 64-B/2011, 55-A/2012, 66-B/2012, 82-E/2014, 42/2016) alteram os códigos que o DL 249/2009 alterou, não o texto deste; sem texto antigo depois de «(Revogado.)»."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "O Código Fiscal do Investimento (anexo) foi revogado pelo DL 162/2014, de 31/10, art. 7.º, al. c), a partir de 05/11/2014 (relação repealed_by no registo do DRE); já antes a parte III fora revogada pela Lei 20/2012, art. 6.º, e o art. 22.º pela Lei 83-C/2013, art. 212.º. Os arts. 1.º a 9.º do decreto-lei, que alteravam outros diplomas, não foram revogados expressamente."
+  }
+ },
+ {
+  "id": "pt:dre:507834:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 88.º / anexo: depois de «(Revogado.)» e da fórmula de aprovação e assinaturas ficou o anexo «Mapa a que se refere o artigo 16.º do Decreto Legislativo Regional n.º 5/88/M, desta data» com a ligação à imagem, como se estivesse em vigor. O DLR 17/2003/M, art. 64.º, al. b), revoga o diploma inteiro com exceção do art. 86.º (e o art. 62.º mantém os arts. 65.º a 67.º); o mapa, anexo ao art. 16.º (revogado), está abrangido pela revogação e deve ficar como «(Revogado.)». O resto está certo: todos os artigos estão «(Revogado.)» salvo os arts. 65.º, 66.º, 67.º e 86.º, que ficam na redação original (nenhum alterador os tocou: o DLR 5/97/M e o 14-A/2001/M alteram os arts. 13.º e 39.º, o DLR 1/99/M o art. 39.º e adita o 77.º-A, todos revogados depois); a mudança de designação dos quadros regionais de vinculação (DLR 2/94/M, art. 1.º, n.º 2, nas relações, e DLR 17/2003/M, art. 59.º, n.º 1) não dá nova redação a nenhum artigo e não toca os arts. 65.º a 67.º e 86.º; os DLR 15-A/2006/M, 14/2009/M, 25/2013/M e 7/2014/M só mantêm em vigor artigos, não mudam texto."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Revogado pelo DLR 17/2003/M, art. 64.º, al. b), com exceção do art. 86.º; os arts. 65.º a 67.º mantidos em vigor pelo art. 62.º do DLR 17/2003/M e pelo art. 60.º do DLR 15-A/2006/M (este revogado pelo DLR 14/2009/M, que já só mantém o art. 86.º); o art. 86.º mantido ainda pelos DLR 14/2009/M (art. 62.º, n.º 2, b)) e 25/2013/M."
+  }
+ },
+ {
+  "id": "pt:dre:601283:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "Diploma temporário: o art. 1.º prorroga o adicional até 31/12/1993 e o art. 2.º fixa a redução «em 1993»; o DL 20/94, art. 1.º, elimina o adicional de 4% em 1994 para alta e média tensão e baixa tensão acima de 19,8 kVA sem dar nova redação nem revogar artigos do DL 21/93 (não textual, como diz quem consolidou)."
+  }
+ }
+]

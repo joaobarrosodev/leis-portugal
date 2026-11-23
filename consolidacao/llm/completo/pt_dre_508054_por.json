@@ -2,12 +2,17 @@
   "id": "pt:dre:508054:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "DL 558/71, art. 1.º: altera designações e número de lugares do quadro geral anexo, que só vem em imagem (ver documento original); não é alteração aplicável ao texto dos artigos.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, n.os 1 e 2 (nova designação das categorias de dactilógrafo e auxiliar de expediente e novos números de lugares de escriturários-dactilógrafos, telefonistas e porteiros no quadro geral anexo): só em imagem: o quadro geral do pessoal só existe em imagem no texto atual, sem título de anexo onde pôr a alteração, e o alterador não traz imagem nova.",
   "instrucoes": [
-    "DL 558/71, art. 1.º, n.os 1 e 2: alteram categorias e lugares do quadro geral anexo (só em imagem); não aplicado.",
-    "DL 558/71, arts. 2.º a 5.º: normas autónomas, sem alteração textual do original."
+    "Alterador 1, art. 1.º: altera designações e números de lugares do quadro geral anexo, que só existe em imagem e sem título de anexo; vai para nao_aplicavel.",
+    "Alterador 1, arts. 2.º a 5.º: normas próprias do alterador, sem instrução de alteração do texto do original; nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

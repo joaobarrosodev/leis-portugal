@@ -1,0 +1,423 @@
+[
+ {
+  "id": "pt:dre:536469:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 375/77, art. 1.º: extingue o Fundo de aquisição do estabelecimento da APT criado pelo original",
+    "motivo": "não textual: extinção sem revogar nem dar nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 375/77, art. 2.º: altera os arts. 14.º, 22.º e 24.º do Estatuto dos TLP (DL 48007)",
+    "motivo": "outro diploma: o original só é citado"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:592750:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 36/92, art. 2.º: elimina do mapa anexo I a categoria de administrador do Hospital de Sant'Ana: o mapa só existe em imagem (linha «Do ANEXO I ao ANEXO III»), alvo só em imagem, motivo fora da lista de exceções",
+   "DR 36/92, art. 3.º: novo desenvolvimento indiciário (índices 260, 270, 280, 290, 300 e 310, escalões 1 a 6) da categoria de cartorário das administrações regionais de saúde no anexo I: o anexo I só existe em imagem, motivo fora da lista de exceções",
+   "DL 121/2008 (mapa VIII republicado pela Declaração de Rectificação 49/2008): revoga o DR 23/91 com exceção do n.º 2 do art. 2.º, do art. 3.º e de outras disposições: alvo incerto (texto do alterador vazio/omitido na vista, não se sabe que artigos ficam abrangidos)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 36/92, art. 1.º: adita ao mapa anexo I as categorias do mapa anexo do alterador",
+    "motivo": "o texto novo só vem em imagem e o consolidado não tem um anexo com título onde o pôr (só a linha de imagem «Do ANEXO I ao ANEXO III»)"
+   },
+   {
+    "instrucao": "DR 36/92, art. 4.º: efeitos desde 1 de Outubro de 1989",
+    "motivo": "não textual: norma de produção de efeitos"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:606527:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação 210/94: no anexo I, parte B, n.º 1, «cálculo da arqueação líquida» passa a «cálculo da arqueação bruta e líquida»: alvo incerto (o texto atual só traz o título da parte B, o n.º 1 não aparece na vista)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 9/2011: altera o DL 191/98 e seu regulamento; o DL 245/94 só aparece na definição de «Arqueação»",
+    "motivo": "outro diploma: não visa o DL 245/94"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:633919:por",
+  "artigos": [
+   {
+    "artigo": "CAPÍTULO I",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO IV",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VI",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Só reestruturação: o texto do original em bloco foi dividido em artigos, sem alteração de texto (diferem apenas os marcadores «Art. N.º -»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 171/74, art. 4.º: extingue o Secretariado para a Juventude criado pelo original",
+    "motivo": "não textual: extinção da entidade sem revogar o diploma nem dar nova redação a artigos"
+   },
+   {
+    "instrucao": "DL 171/74, arts. 1.º a 3.º e 5.º a 8.º: extinguem outros organismos e atribuem competências",
+    "motivo": "outro diploma: não visam o DL 446/71"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:66414233:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 251-A/2015, DL 169-B/2019, DL 32/2022, DL 32/2024 e DL 87-A/2025 (orgânicas do Governo, tutela do CNE)",
+    "motivo": "o diploma que altera não traz o texto da alteração: os cinco alteradores vêm vazios na vista; mudança de tutela seria não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-10-11'
+version_history:
+  file: decreto-lei-228-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-10-11'
+    amending: pt:dre:278929:por
+    amending_title: Decreto-Lei n.º 425/77
+    changes:
+    - Revoga Artigo 30.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:26:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 425/77. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-228-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,11 +212,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO 1 — Atribuições e serviços
 
-###### ARTIGO 1.º — Nova organização
+###### Artigo 1.º — Nova organização
 
 Os serviços da Direcção-Geral da Previdência, a que se refere o artigo 1.º do [Decreto-Lei n.º 587/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127), de 30 de Dezembro, são reorganizados pela forma constante do presente diploma.
 
-###### ARTIGO 2.º — Atribuições
+###### Artigo 2.º — Atribuições
 
 1. A Direcção-Geral da Previdência tem como atribuições, em geral, orientar as instituições de previdência social dependentes do Ministério das Corporações e Previdência Social, coordenar a sua actuação e fiscalizar a execução das respectivas actividades
 
@@ -209,7 +224,7 @@ Os serviços da Direcção-Geral da Previdência, a que se refere o artigo 1.º 
 
 3. À Direcção-Geral incumbe elaborar o relatório anual da Previdência Social e promover a sua publicação.
 
-###### ARTIGO 3.º — Director-geral
+###### Artigo 3.º — Director-geral
 
 1. O director-geral da Previdência representa a Direcção-Geral, superintende em todos os seus serviços, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada nos termos da lei geral.
 
@@ -217,7 +232,7 @@ Os serviços da Direcção-Geral da Previdência, a que se refere o artigo 1.º 
 
 3. É ainda da competência do director-geral proceder à distribuição de pessoal referida no artigo 21.º
 
-###### ARTIGO 4.º — Serviços da Direcção-Geral
+###### Artigo 4.º — Serviços da Direcção-Geral
 
 A Direcção-Geral da Previdência compreende:
 
@@ -231,7 +246,7 @@ d) A Direcção dos Serviços Técnicos da Previdência.
 
 #### SECÇÃO II — Serviços Actuariais
 
-###### ARTIGO 5.º — Competência
+###### Artigo 5.º — Competência
 
 Aos Serviços Actuariais compete efectuar os estudos de natureza actuarial e estatística que a resolução dos problemas do seguro social ou que a orientação e assistência técnica a prestar às instituições de previdência social imponham, designadamente:
 
@@ -247,7 +262,7 @@ e) Analisar anualmente a situação financeira do Fundo Nacional do Abono de Fam
 
 f) Examinar e emitir parecer sobre os assuntos relativos à orientação e assistência técnica das instituições de previdência, nomeadamente no que se refere às disposições de natureza actuarial dos estatutos e regulamentos e à situação dos beneficiários.
 
-###### ARTIGO 6.º — Pessoal
+###### Artigo 6.º — Pessoal
 
 1. Os Serviços Actuariais são dirigidos por um actuário inspector superior, coadjuvado por actuários-chefes, actuários de 1.ª e 2.ª classes, um calculador-chefe, calculadores principais e calculadores de 1.ª e 2.ª classes.
 
@@ -255,7 +270,7 @@ f) Examinar e emitir parecer sobre os assuntos relativos à orientação e assis
 
 #### SECÇÃO III — Inspecção da Previdência Social
 
-###### ARTIGO 7.º — Competência
+###### Artigo 7.º — Competência
 
 1. A Inspecção da Previdência Social destina-se a verificar o cumprimento das leis e regulamentos nas instituições de previdência social dependentes do Ministério das Corporações e Previdência Social, fiscalizar a actividade administrativa e financeira daquelas instituições, bem como propor as medidas adequadas para melhoria do seu funcionamento, procedendo, para o efeito:
 
@@ -271,7 +286,7 @@ c) À apresentação de relatórios periódicos sobre o funcionamento e eficiên
 
 § único. As inspecções ordinárias são da iniciativa do inspector superior; as extraordinárias dependem de determinação do director-geral.
 
-###### ARTIGO 8.º — Pessoal
+###### Artigo 8.º — Pessoal
 
 1. A Inspecção da Previdência Social é dirigida por um inspector superior, coadjuvado por inspectores-adjuntos, inspectores de 1.ª e 2.ª classes e subinspectores.
 
@@ -283,13 +298,13 @@ c) À apresentação de relatórios periódicos sobre o funcionamento e eficiên
 
 #### SECÇÃO IV — Direcções de Serviços
 
-###### ARTIGO 9.º — Competência
+###### Artigo 9.º — Competência
 
 As direcções de serviços estão a cargo de directores de serviços, aos quais compete, em geral, orientar e coordenar os serviços que as integram em ordem à obtenção de maior rendimento e eficiência, e, em especial, despachar os assuntos que não careçam de resolução superior e submeter os restantes a despacho do director-geral.
 
 ##### SUBSECÇÃO I — Direcção dos Serviços de Administração da Previdência
 
-###### ARTIGO 10.º — Competência
+###### Artigo 10.º — Competência
 
 1. Compete à Direcção dos Serviços de Administração da Previdência, em especial:
 
@@ -303,7 +318,7 @@ d) Ocupar-se das instituições com características especiais, designadamente a
 
 2. Compete ao director dos Serviços de Administração da Previdência designar os funcionários das repartições que periodicamente serão deslocados para prestar serviços, em matéria de previdência social, no sector informativo do público existente no Ministério.
 
-###### ARTIGO 11.º — Serviços
+###### Artigo 11.º — Serviços
 
 Para o exercício da sua competência, a Direcção dos Serviços de Administração da Previdência compreende:
 
@@ -313,7 +328,7 @@ b) A 2.ª Repartição (Prestações);
 
 c) A 3.ª Repartição (Serviços Financeiros).
 
-###### ARTIGO 12.º — 1.ª Repartição (Pessoal)
+###### Artigo 12.º — 1.ª Repartição (Pessoal)
 
 1. Compete à 1.ª Repartição:
 
@@ -341,7 +356,7 @@ c) Registo e classificação do pessoal (3.ª Secção);
 
 d) Expediente e arquivos gerais (4.ª Secção).
 
-###### ARTIGO 13.º — 2.ª Repartição (Prestações)
+###### Artigo 13.º — 2.ª Repartição (Prestações)
 
 1. Compete à 2.ª Repartição:
 
@@ -361,7 +376,7 @@ c) Invalidez, velhice e morte (7.ª Secção);
 
 d) Associações de socorros mútuos, caixas de seguros e instituições especiais (8.ª Secção).
 
-###### ARTIGO 14.º — 3.ª Repartição (Serviços Financeiros)
+###### Artigo 14.º — 3.ª Repartição (Serviços Financeiros)
 
 1. Compete à 3.ª Repartição:
 
@@ -393,7 +408,7 @@ d) Tesouraria.
 
 ##### SUBSECÇÃO II — Direcção dos Serviços Técnicos da Previdência
 
-###### ARTIGO 15.º — Competência
+###### Artigo 15.º — Competência
 
 Compete à Direcção dos Serviços Técnicos da Previdência, em especial:
 
@@ -405,7 +420,7 @@ c) Colaborar com o mesmo Gabinete na execução dos seus planos e programas;
 
 d) Promover o aperfeiçoamento das normas informadoras da organização e métodos.
 
-###### ARTIGO 16.º — Serviços
+###### Artigo 16.º — Serviços
 
 1. Para o exercício da sua competência, a Direcção dos Serviços Técnicos da Previdência compreende:
 
@@ -419,7 +434,7 @@ c) A Divisão dos Serviços de Organização e Métodos.
 
 3. O chefe da Divisão dos Serviços de Contencioso e os respectivos técnicos serão licenciados em Direito.
 
-###### ARTIGO 17.º
+###### Artigo 17.º
 
 ##### Divisão dos Serviços de Contencioso
 
@@ -427,7 +442,7 @@ c) A Divisão dos Serviços de Organização e Métodos.
 
 2. A esta divisão de serviços compete emitir pareceres fundamentados em todos os assuntos jurídicos sobre que for consultada e elaborar os estudos de natureza jurídica que interessem à resolução de problemas de segurança social.
 
-###### ARTIGO 18.º
+###### Artigo 18.º
 
 ##### Divisão dos Serviços de Estudos Técnicos
 
@@ -451,7 +466,7 @@ d) Emitir pareceres fundamentados sobre assuntos que exijam a publicação de no
 
 e) Pronunciar-se sobre consultas formuladas pelas instituições de previdência, que aconselhem estudo especializado.
 
-###### ARTIGO 19.º
+###### Artigo 19.º
 
 ##### Divisão dos Serviços de Organização e Métodos
 
@@ -461,15 +476,15 @@ A Divisão dos Serviços de Organização e Métodos tem como funções essencia
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 20.º — Quadro e categorias
+###### Artigo 20.º — Quadro e categorias
 
 Os serviços da Direcção-Geral da Previdência ficam dotados com o pessoal constante do mapa anexo ao presente diploma.
 
-###### ARTIGO 21.º — Distribuição
+###### Artigo 21.º — Distribuição
 
 O pessoal da Direcção-Geral da Previdência que, pelas suas funções, não esteja necessariamente adstrito a determinado serviço será distribuído mediante despacho do director-geral.
 
-###### ARTIGO 22.º — Concursos
+###### Artigo 22.º — Concursos
 
 1. Nos concursos de promoção com prestação de provas atender-se-á não só aos resultados das provas prestadas, mas também à classificação de serviço e à antiguidade, conforme critérios previamente aprovados por despacho do Ministro das Corporações e Previdência Social.
 
@@ -477,7 +492,7 @@ O pessoal da Direcção-Geral da Previdência que, pelas suas funções, não es
 
 #### SECÇÃO II — Provimento dos lugares
 
-###### ARTIGO 23.º — Condições de provimento
+###### Artigo 23.º — Condições de provimento
 
 1. O provimento dos cargos não abrangidos pelo disposto nos números seguintes será feito de acordo com as normas gerais em vigor.
 
@@ -489,7 +504,7 @@ O pessoal da Direcção-Geral da Previdência que, pelas suas funções, não es
 
 5. Se o funcionário já tiver provimento definitivo noutro lugar, manterá o direito ao mesmo durante o prazo de nomeação provisória, que, nesse caso, será reduzida a um ano; entretanto, poderá aquele lugar ser provido internamente.
 
-###### ARTIGO 24.º — Pessoal de direcção
+###### Artigo 24.º — Pessoal de direcção
 
 1. O preenchimento dos lugares do pessoal de direcção é feito segundo as normas de provimento constantes dos números seguintes, sem prejuízo do disposto no n.º 2 do artigo 23.º
 
@@ -499,7 +514,7 @@ O pessoal da Direcção-Geral da Previdência que, pelas suas funções, não es
 
 4. Os chefes de repartição são nomeados por escolha de entre diplomados com um curso superior adequado, de reconhecido mérito e capacidade para o exercício do cargo, pertencentes ao quadro da Direcção-Geral ou, na sua falta, de entre estranhos ao mesmo.
 
-###### ARTIGO 25.º — Pessoal técnico
+###### Artigo 25.º — Pessoal técnico
 
 1. No provimento dos lugares do pessoal técnico, subdividido em grupo I (serviços actuariais), grupo II (serviços de inspecção) e grupo III (serviços técnicos) observar-se-á o disposto nos números seguintes.
 
@@ -537,7 +552,7 @@ b) Os lugares de técnico de 1.ª classe são providos por escolha de entre os t
 
 c) O provimento dos técnicos de 2.ª classe é feito, mediante concurso documental, de entre indivíduos diplomados com curso superior adequado.
 
-###### ARTIGO 26.º — Pessoal administrativo e auxiliar
+###### Artigo 26.º — Pessoal administrativo e auxiliar
 
 1. O provimento dos lugares do pessoal administrativo é feito nos termos dos números seguintes.
 
@@ -553,7 +568,7 @@ c) O provimento dos técnicos de 2.ª classe é feito, mediante concurso documen
 
 7. Os funcionários referidos nos n.os 3 e 5 só poderão exercer as respectivas funções após prestação das cauções a que se refere o n.º 3 do artigo 14.º
 
-###### ARTIGO 27.º — Pessoal assalariado
+###### Artigo 27.º — Pessoal assalariado
 
 1. É criado na Direcção-Geral da Previdência o quadro do pessoal assalariado, composto por cinco auxiliares de limpeza, com a remuneração mensal de 1700$00.
 
@@ -561,7 +576,7 @@ c) O provimento dos técnicos de 2.ª classe é feito, mediante concurso documen
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### ARTIGO 28.º — Provimento por integração
+###### Artigo 28.º — Provimento por integração
 
 1. O primeiro provimento dos lugares constantes do mapa anexo será feito directamente, tanto quanto possível em lugares idênticos ou de categoria equivalente, com dispensa de concurso, tempo de serviço e limite de idade máximo para a admissão em lugares de acesso, de entre os servidores da antiga Direcção-Geral da Previdência e Habitações Económicas que não hajam transitado para os lugares constantes do mapa anexo ao [Decreto-Lei n.º 587/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127), de 30 de Dezembro, respeitando-se, porém, para o efeito, as habilitações legais (designadamente curso superior), a aptidão e a antiguidade.
 
@@ -569,19 +584,19 @@ c) O provimento dos técnicos de 2.ª classe é feito, mediante concurso documen
 
 3. O provimento dos lugares que ficarem vagos após o preenchimento previsto nos números anteriores regular-se-á pelo disposto nos artigos 22.º a 27.º
 
-###### ARTIGO 29.º — Ressalva de situações
+###### Artigo 29.º — Ressalva de situações
 
 1. Os funcionários já com provimento definitivo na categoria em que permaneçam, ou que sejam providos em categoria equivalente, conservam aquela situação; aos demais aplica-se, consoante o caso, o disposto nos n.os 3 a 5 do artigo 23.º
 
 2. Os funcionários que se encontrem desempenhando funções em regime de interinidade que se mantenha beneficiam de dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
 
-###### ARTIGO 30.º — Cobertura de encargos
+###### Artigo 30.º — Cobertura de encargos
 
-1. Os encargos resultantes da execução do presente diploma são suportados pelo Fundo Nacional do Abono de Família, na parte que for fixada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.
+(Revogado.)
 
-2. Os encargos suportados pelo Fundo Nacional do Abono de Família são inscritos no Orçamento Geral do Estado, sendo o Tesouro reembolsado trimestralmente pelo mencionado Fundo das importâncias despendidas, mediante guia de receita passada pela Repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
+> Revogado pelo/a [Decreto-Lei n.º 425/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1977-278929), publicado em 1977-10-11.
 
-###### ARTIGO 31.º — Revogações
+###### Artigo 31.º — Revogações
 
 São revogadas as disposições contidas nos seguintes diplomas legais:
 
@@ -603,11 +618,11 @@ h) [Decreto-Lei n.º 324/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 i) [Decreto-Lei n.º 320/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1972-676456), de 18 de Agosto.
 
-###### ARTIGO 32.º — Interpretação deste decreto-lei
+###### Artigo 32.º — Interpretação deste decreto-lei
 
 As dúvidas suscitadas na execução deste diploma serão resolvidas, ouvido o director-geral, por despacho do Ministro das Corporações e Previdência Social.
 
-###### ARTIGO 33.º — Entrada em vigor
+###### Artigo 33.º — Entrada em vigor
 
 O presente diploma entra imediatamente em vigor, e no que respeita à situação dos funcionários referidos no n.º 4 do artigo 2.º do [Decreto-Lei n.º 587/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127), de 30 de Dezembro, retrotraem-se a 1 de Março do corrente ano os respectivos efeitos relativamente a vencimentos, aposentação, tempo de serviço e concessão de benefícios através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.).
 

@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-01-01'
+version_history:
+  file: decreto-legislativo-regional-5-2012-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: pt:dre:400995:por
+    amending_title: Decreto Legislativo Regional n.º 41-A/2012/M; Decreto Legislativo Regional n.º 42/2012/M
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 37.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/5/2012/03/30/m/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    41-A/2012/M; Decreto Legislativo Regional n.º 42/2012/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2012/decreto-legislativo-regional-5-2012-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -475,7 +493,9 @@ Mantém-se em vigor o disposto no artigo 5.º do [Decreto Legislativo Regional n
 
 ###### Artigo 6.º — Endividamento líquido
 
-Para fazer face às necessidades de financiamento, incluindo as decorrentes das iniciativas de apoio e reconstrução na RAM na sequência da intempérie de 20 de fevereiro de 2010, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante resultante do artigo 10.º da [Lei Orgânica n.º 2/2010](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2010-335688), de 16 de junho, e do artigo 107.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, que aprova o Orçamento do Estado para 2012.
+Para fazer face às necessidades de financiamento, incluindo as decorrentes das iniciativas de apoio e reconstrução na Região Autónoma da Madeira na sequência da intempérie de 20 de fevereiro de 2010, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante resultante do artigo 10º da Lei Orgânica nº 2/2010, de 16 de junho, e do artigo 107º da Lei nº 64-B/2011, de 30 de dezembro, que aprova o Orçamento do Estado para 2012, na redação dada pela Lei que procede à segunda alteração à Lei nº 64-B/2011, de 30 de dezembro, incluindo o montante destinado ao refinanciamento da dívida comercial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41-A/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-a-2012-400995), publicado em 2012-12-28.
 
 ###### Artigo 7.º — Condições gerais dos empréstimos
 
@@ -515,9 +535,11 @@ d) Reforço das dotações orçamentais para amortização de capital.
 
 ###### Artigo 9.º — Operações ativas do Tesouro Público Regional
 
-1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar operações ativas até ao montante de 280 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
+1 - Fica o Governo Regional autorizado a realizar operações ativas até ao montante de 300 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
 
 2 - Fica, ainda, o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a renegociar as condições contratuais de empréstimos anteriores, ou a remir os créditos daqueles resultantes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41-A/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-a-2012-400995), publicado em 2012-12-28.
 
 ###### Artigo 10.º — Recuperação de créditos
 
@@ -529,9 +551,15 @@ b) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mo
 
 ###### Artigo 11.º — Aquisição de ativos e assunção e regularização de passivos e responsabilidades
 
-1 - Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a assumir passivos e responsabilidades ou adquirir créditos de entidades públicas e a celebrar acordos para a sua regularização e de acordo com as necessidades de execução do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira.
+1 - Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a:
+
+a) Assumir passivos e responsabilidades ou adquirir créditos de entidades públicas e a celebrar acordos para a sua regularização, de acordo com as necessidades de execução do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira;
+
+b) Assumir e regularizar diretamente junto das instituições de crédito o montante das faturas descontadas pelas agências de viagens e ainda não pagas, até ao montante de 6,5 milhões de euros, decorrentes de linhas de crédito protocolarizadas pela Região Autónoma da Madeira, desde que essa dívida tenha sido devidamente contabilizada para efeitos de contas nacionais.
 
 2 - O Governo Regional fica ainda autorizado, através do Secretário Regional do Plano e Finanças em conjunto com o membro do Governo Regional responsável pela assunção da despesa ou com a tutela da entidade, a proceder à celebração de acordos de pagamento com credores das entidades que integrem o universo das administrações públicas em contas nacionais, salvaguardando os devidos efeitos ao nível da execução orçamental, decorrentes da alteração da sua exigibilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 41-A/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-a-2012-400995), publicado em 2012-12-28.
 
 ###### Artigo 12.º — Alienação de participações sociais da Região
 
@@ -851,29 +879,9 @@ Fica o Governo Regional autorizado a fazer cessar o regime de autonomia financei
 
 ###### Artigo 37.º — Gestão financeira dos projetos enquadrados em programas e iniciativas comunitários no âmbito do setor das pescas
 
-1 - Compete à Direção Regional de Pescas, adiante designada por DRP, a gestão financeira dos projetos públicos no setor das pescas, cofinanciados no âmbito de programas e iniciativas comunitários.
+(Revogado.)
 
-2 - Para os exclusivos efeitos do disposto no número anterior, a DRP dispõe de autonomia administrativa e financeira, nos termos do artigo 6.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de fevereiro, designando-se Fundo de Gestão dos Programas da DRP.
-
-3 - Na sequência do preceituado nos números anteriores, a DRP fica obrigada às seguintes formalidades:
-
-a) Elaboração do orçamento privativo nos termos da lei geral;
-
-b) Observância do regime das contas de ordem;
-
-c) Prestação de contas nos termos da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto.
-
-4 - Constituem receitas próprias da Região, consignadas ao Fundo de Gestão dos Programas da DRP:
-
-a) Todos os apoios provenientes da União Europeia no âmbito do Fundo de Gestão dos Programas da DRP, nos termos da alínea i) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, designadamente os relativos a reembolsos e adiantamentos das despesas elegíveis, nos termos dos regulamentos comunitários aplicáveis;
-
-b) Todos os apoios provenientes do Orçamento do Estado (PIDDAC) relativos ao financiamento da componente nacional das despesas elegíveis dos projetos do Fundo de Gestão dos Programas da DRP, nos termos da alínea g) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto;
-
-c) As transferências provenientes do Orçamento da Região relativas à componente do autofinanciamento e às despesas não elegíveis dos projetos do Fundo de Gestão dos Programas da DRP.
-
-5 - As receitas a que se referem as alíneas a) e b) do número anterior, antes de proceder à sua efetiva utilização para efeitos de pagamentos, serão arrecadadas pelo Fundo de Gestão dos Programas da DRP, que as fará passar pelos cofres da Região, através do regime de contas de ordem.
-
-6 - Para efeitos de administração do Fundo de Gestão dos Programas da DRP será criado um conselho administrativo, cuja composição e nomeação será definida por portaria conjunta dos Secretários Regionais do Ambiente e Recursos Naturais e do Plano e Finanças.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), publicado em 2012-12-31.
 
 ###### Artigo 38.º — Programas cofinanciados pelo Fundo Social Europeu
 

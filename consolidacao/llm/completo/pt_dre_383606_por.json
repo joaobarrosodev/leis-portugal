@@ -8,26 +8,44 @@
       "alterador": 1
     },
     {
-      "chave": "9.º",
+      "chave": "4.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
-      "chave": "10.º",
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)\n\nB) Gratificação de serviço de imersão",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
-      "alterador": 3
+      "alterador": 4
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)\n\nD) Gratificação de serviço de mergulhador",
+      "alterador": 4
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, nova redação da alínea b) do artigo 2.º do Decreto-Lei n.º 45256, na forma dada pelo artigo 11.º do original: outro diploma — a instrução altera o Decreto-Lei n.º 45256; o original só lhe deu a redação.",
   "instrucoes": [
-    "DL 8/80, art. 1.º: nova redação da alínea f) do art. 2.º; aplicada, resto do artigo mantido.",
-    "DL 47/89, art. 1.º: altera o art. 2.º do DL 45256 (na redação dada pelo art. 11.º do original); é instrução dirigida a outro diploma, ignorada.",
-    "DL 180/94, art. 8.º: revoga os arts. 9.º e 10.º do original; ambos ficam (Revogado.). A revogação do DL 276/81 e a alteração ao DL 498/72 não são do original."
+    "Alterador 1, art. 1.º: nova redação da alínea f) do artigo 2.º — aplicada (restantes alíneas mantidas).",
+    "Alterador 2, art. 1.º: altera o artigo 2.º do Decreto-Lei n.º 45256 na redação dada pelo artigo 11.º do original — outro diploma, não aplicado.",
+    "Alterador 3, art. 6.º: revoga os artigos 4.º e 5.º — aplicados como (Revogado.); a linha «B) Gratificação de serviço de imersão», que no texto atual está no fim do 5.º e encabeça os artigos seguintes, mantém-se.",
+    "Alterador 4, art. 8.º: revoga os artigos 9.º e 10.º — aplicados como (Revogado.); a linha «D) Gratificação de serviço de mergulhador», no fim do 10.º e que encabeça o 11.º, mantém-se. O n.º 4 do art. 6.º do alterador só mantém transitoriamente os montantes, não adia a revogação."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

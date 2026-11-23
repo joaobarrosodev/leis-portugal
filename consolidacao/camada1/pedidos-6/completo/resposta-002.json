@@ -1,0 +1,17 @@
+[
+ {
+  "id": "pt:dre:399634:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Portaria n.º 343/86 cria no quadro de pessoal um lugar de engenheiro assessor, letra B: só em imagem: o quadro do mapa anexo só existe em imagem e não há título de anexo no texto atual; a portaria também não traz o mapa\nAlterador 2, Portaria n.º 346/86 cria no quadro de pessoal um lugar de engenheiro principal, letra D: só em imagem: o quadro do mapa anexo só existe em imagem e não há título de anexo no texto atual; a portaria também não traz o mapa\nAlterador 3, Decreto-Lei n.º 247/86, art. 18.º, revoga o Decreto Regulamentar n.º 75/84 «em tudo o que contrarie o presente diploma»: revogação condicional\nAlterador 3, Decreto-Lei n.º 247/86, art. 12.º, n.º 3, abate ao quadro do Gabinete de Planeamento os lugares do pessoal que transita: não textual\nAlterador 4, Portaria n.º 68/87 cria no quadro da ex-Direcção-Geral de Planeamento um lugar de engenheiro assessor, letra C: só em imagem: o quadro do mapa anexo só existe em imagem e não há título de anexo no texto atual\nAlterador 5, Decreto Regulamentar n.º 14/87, revoga o Decreto Regulamentar n.º 75/84 «em tudo o que contrarie o presente diploma»: revogação condicional\nAlterador 5, Decreto Regulamentar n.º 14/87, abate ao quadro do ex-Gabinete de Planeamento os lugares do pessoal que transita: não textual",
+  "instrucoes": [
+   "Alt. 1 (Portaria 343/86): cria lugar no quadro em imagem, sem título de anexo: nao_aplicavel",
+   "Alt. 2 (Portaria 346/86): idem: nao_aplicavel",
+   "Alt. 3 (DL 247/86): revogação «em tudo o que contrarie» e abate de lugares: nao_aplicavel",
+   "Alt. 4 (Portaria 68/87): cria lugar no quadro em imagem: nao_aplicavel",
+   "Alt. 5 (DR 14/87): revogação «em tudo o que contrarie» e abate de lugares: nao_aplicavel"
+  ]
+ }
+]

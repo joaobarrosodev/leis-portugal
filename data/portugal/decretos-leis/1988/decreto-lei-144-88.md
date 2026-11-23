@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-17'
+version_history:
+  file: decreto-lei-144-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-17'
+    amending: pt:dre:354344:por
+    amending_title: Portaria n.º 729/93
+    changes:
+    - Altera Artigo ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 729/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-144-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -265,7 +280,21 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09600/16041609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12603/00140017.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/015b00/02980299.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/220b00/50295029.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/061b00/12881288.pdf)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/188b00/42934293.pdf)
+
+> Alterado pelo/a [Portaria n.º 729/93](https://diariodarepublica.pt/dr/detalhe/portaria/729-1993-354344), publicado em 1993-08-12.
 
 ## ANEXO — Conteúdo funcional da carreira de técnico-adjunto de contabilidade
 

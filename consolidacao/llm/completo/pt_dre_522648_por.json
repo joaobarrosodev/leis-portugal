@@ -88,7 +88,7 @@
     {
       "chave": "ANEXO I — (a que se refere o artigo 3.º)::14.º#2",
       "epigrafe": "Dissolução do conselho de administração",
-      "texto": "1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.\n\n2 - [Revogado.]",
+      "texto": "1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.\n\n2 - (Revogado.)",
       "alterador": 2
     },
     {
@@ -154,29 +154,22 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2, art. 3.º, n.º 1: a nova redação do apêndice I do anexo I (especificidades estatutárias, capitais e sedes) só vem em imagem/PDF, não aplicada. Alterador 2, arts. 1.º e 2.º: mudança de designação dos hospitais (E. P. E. -> EPER.) e regra de que as referências e remissões (incl. ao Decreto-Lei n.º 558/99) se consideram feitas a outras entidades/diplomas: alteração não textual, o texto do anexo I (regime, arts. 1.º a 22.º) não foi reescrito.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigos 1.º, 2.º e 4.º (nova redação dos artigos 11.º, 46.º, 47.º e 48.º, aditamento do artigo 48.º-A e revogações): outro diploma — alteram o Decreto Legislativo Regional n.º 28/99/A «com a redacção que lhe foi dada pelo» original; o original só lhe deu a redação (e republicou-o no seu anexo II).\nAlterador 2, artigo 1.º (novas designações dos hospitais, EPER.): não textual — muda a designação das entidades criadas pelo n.º 1 do artigo 1.º do anexo I e manda ler as referências com a nova designação, sem dar nova redação a esse artigo.\nAlterador 2, artigo 2.º (regime jurídico aplicável e remissões para o Decreto-Lei n.º 558/99): não textual — norma de remissão, sem nova redação de texto do original.\nAlterador 2, artigo 3.º, n.º 1 (nova redação do apêndice I do anexo I): só em imagem — o texto novo é só a imagem do documento original e o apêndice I não tem título de divisão no texto atual (vem dentro do corpo do artigo 22.º do anexo I), por isso não há anexo onde a pôr.",
   "instrucoes": [
-    "Alterador 1 (DLR 1/2010/A), arts. 1.º, 2.º e 4.º: alteram, aditam e revogam artigos do DLR 28/99/A na redação dada pelo original (é outro diploma); ignorados, o anexo II (republicação) não foi mexido.",
-    "Alterador 2, art. 1.º: novas designações EPER. e regra de remissão; não textual, em nao_aplicavel.",
-    "Alterador 2, art. 2.º: regime jurídico aplicável e remissões para o DL 558/99 consideradas feitas ao RJSPE; não textual, em nao_aplicavel.",
-    "Alterador 2, art. 3.º, n.º 1: apêndice I só em imagem; em nao_aplicavel.",
-    "Alterador 2, art. 3.º, n.º 2: nova redação dos arts. 1.º a 19.º e 21.º a 25.º do apêndice II (chaves ::N.º#2 para 1.º-22.º; 23.º-25.º sem #2); aplicada, mantendo o texto atual nas unidades '[...]'; epígrafes novas dos arts. 2.º (Objeto), 9.º (Diretor clínico) e 10.º (Enfermeiro-diretor).",
-    "Alterador 2, art. 4.º: aditado o art. 4.º-A (Sede) ao apêndice II, chave ::4.º-A.",
-    "Alterador 2, art. 5.º: revogado o n.º 2 do art. 14.º do apêndice II; já refletido na redação do art. 14.º#2 ('2 - [Revogado.]').",
-    "Alterador 2, art. 6.º: republicação dos apêndices com grafia do AO; não aplicada como alteração (art. 20.º do apêndice II não foi alterado por instrução). Nenhum título de divisão muda."
+    "Alterador 1 (DLR 1/2010/A), artigos 1.º, 2.º, 4.º e 5.º: alteram e republicam o DLR 28/99/A na redação dada pelo original — outro diploma, não aplicado (nao_aplicavel).",
+    "Alterador 2, artigo 1.º: novas designações dos hospitais (EPER.) — não textual (nao_aplicavel).",
+    "Alterador 2, artigo 2.º: regime jurídico e remissões — não textual (nao_aplicavel).",
+    "Alterador 2, artigo 3.º, n.º 1: nova redação do apêndice I só em imagem, sem título de anexo — nao_aplicavel.",
+    "Alterador 2, artigo 3.º, n.º 2: nova redação dos artigos 1.º a 19.º e 21.º a 25.º do apêndice II (chaves 1.º#2 a 22.º#2, 23.º, 24.º e 25.º do anexo I); as unidades «[...]» ficam com o texto atual; no artigo 14.º o novo n.º 1 substitui o n.º 1 antigo com as alíneas a) e b).",
+    "Alterador 2, artigo 4.º: aditado o artigo 4.º-A (Sede) ao apêndice II, chave «ANEXO I — (a que se refere o artigo 3.º)::4.º-A».",
+    "Alterador 2, artigo 5.º: revogado o n.º 2 do artigo 14.º do apêndice II — «2 - (Revogado.)».",
+    "Alterador 2, artigo 6.º: republicação dos apêndices I e II — não é instrução de alteração; usado só como confirmação."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2
-      ],
-      "chars": 165905,
-      "artigos": 25
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

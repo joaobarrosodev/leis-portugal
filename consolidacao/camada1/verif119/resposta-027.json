@@ -1,0 +1,339 @@
+[
+ {
+  "id": "pt:dre:222248:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 2.º: art. 3.º n.º 2 do DL passa a 'nos números seguintes'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 2.º: art. 3.º n.os 4, 5 e 6 novos substituem o n.º 4 original; texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 2.º: art. 4.º n.os 3, 4 e 5 novos substituem os originais; igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º n.º 2 com nova redação ('O conselho fiscal enviará...'); n.º 1 mantido; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º n.º 1 com nova redação; igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 3.º: aditamento dos arts. 8.º, 9.º e 10.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 1.º: eliminado o n.º 4 do art. 4.º dos estatutos; consolidado vazio correto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º da Lei: art. 10.º n.º 6 dos estatutos com nova redação; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º n.º 1 c) dos estatutos com nova redação; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º n.º 4 dos estatutos (novo); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º dos estatutos: n.os 1, 2 e 3 novos; n.os 3 e 5 originais eliminados (art. 1.º da Lei) e n.º 4 passa a 3; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º n.º 1 c) dos estatutos com nova redação; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 24.º dos estatutos: alíneas b) a e) novas; igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Lei 13/87 art. 1.º: eliminado o art. 29.º dos estatutos; consolidado vazio correto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 13/87 art. 5.º: referências a «sociedade anónima de responsabilidade limitada» e «S. A. R. L.» devem entender-se como «sociedade anónima» e «S. A.»",
+    "motivo": "regra de interpretação/mudança de designação sem nova redação, confirmada no texto do art. 5.º"
+   },
+   {
+    "instrucao": "Resolução da AR n.º 1/87: suspende a vigência dos arts. 4.º n.º 3 e 7.º do DL e de preceitos dos estatutos",
+    "motivo": "suspensão, não textual (texto omitido na vista: só confirmável pelo resumo da triagem)"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 126/89: transforma a UBP em sociedade de capitais maioritariamente públicos, mantém o DL 351/86 na parte não derrogada",
+    "motivo": "sem nova redação de preceitos do original (texto omitido na vista: só confirmável pelo resumo da triagem)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:227236:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 1.º: nova redação da alínea A) do cap. IV da tabela A (acrescenta 'ou providos nos termos do artigo 488.º-A do Código Administrativo'); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 1.º: nova redação da alínea A) do cap. IV da tabela A (acrescenta 'ou providos nos termos do artigo 488.º-A do Código Administrativo'); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 1.º: nova redação da alínea A) do cap. IV da tabela A (acrescenta 'ou providos nos termos do artigo 488.º-A do Código Administrativo'); igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "dúvida",
+    "motivo": "Texto vem de alterador omitido na vista (DL 156/74, 530/74, 67/79 ou 48/71); a triagem diz que não menciona o DL 30/70; não é possível confirmar a alteração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "DL 130/70 art. 2.º (mapa dos quadros dos distritos autónomos e nota (f)); igual ao alterador, com '...' substituído pelo texto original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "DL 157/77 art. 2.º n.º 1: «É extinto o quadro especial de pessoal criado pelo artigo 20.º do Decreto-Lei n.º 30/70»",
+    "motivo": "alvo certo: art. 20.º do original (quadro especial do Governo Civil do Funchal), que o consolidado mantém inalterado; extinção expressa sem efeito no consolidado"
+   }
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 157/77 art. 1.º: nova redação do art. 3.º do DL 810/76",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 130/70 art. 3.º: considera-se em vigor desde 1 de Janeiro de 1970",
+    "motivo": "efeito temporal, não textual"
+   },
+   {
+    "instrucao": "DL 130/70 art. 1.º, na parte em que dá redação à tabela A anexa ao Código Administrativo fora do texto do original",
+    "motivo": "o texto relevante está no original e foi aplicado (Trechos 2-4); o resto é do Código Administrativo"
+   },
+   {
+    "instrucao": "DL 48/71, DL 163/72, DL 156/74 (manutenção do cargo de conservador), DL 530/74, DL 67/79",
+    "motivo": "texto omitido na vista; resumos da triagem: nao_menciona/nao_textual; não verificável"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

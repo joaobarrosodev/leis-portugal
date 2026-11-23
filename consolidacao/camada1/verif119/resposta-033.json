@@ -1,0 +1,67 @@
+[
+ {
+  "id": "pt:dre:526203:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 54.º n.º 1 do DL 289/76 revoga o capítulo I (arts. 1.º a 6.º); consolidado revoga todos."
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "dúvida",
+    "motivo": "Art. 7.º revogado (capítulo II, art. 54.º DL 289/76): certo. Art. 8.º: o art. 54.º n.º 1 exceptua da revogação o n.º 3 do art. 25.º do DL 47908 'com a redacção que lhe deu o artigo 8.º do DL 48950'; o consolidado revogou o art. 8.º inteiro, o que pode perder essa redacção excepcionada.",
+    "texto_esperado": "Art. 7.º - (Revogado.)\n\nArt. 8.º com subsistência, no mínimo, do n.º 3 do art. 25.º do DL 47908 ali redigido (alíneas a) e b) do n.º 3), se a exceção for lida como preservando o texto do art. 8.º do original."
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º n.º 2: 'cinco anos' passa a 'sete anos' (DL 199/70, art. 2.º); n.os 3 e 4 revogados (DL 485/88, art. 3.º, 4)), exceptuados da revogação do cap. II só os n.os 1 a 3 (DL 289/76), logo n.º 3 cai pelo DL 485/88; arts. 10.º a 12.º revogados (cap. II)."
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 28.º n.º 1: alíneas a) a i) conforme DL 537/74 art. 1.º."
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 29.º n.º 2: 'quatro' passa a 'seis' (DL 537/74); 'vàlidamente' vs 'validamente' é grafia."
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Arts. 37.º a 39.º formam o capítulo V, revogado pelo art. 54.º n.º 1 do DL 289/76."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 199/70 art. 1.º (prazos do crédito a curto, médio e longo prazo) e art. 2.º quanto ao art. 6.º n.º 2 do DL 48948",
+    "motivo": "não é instrução ao original (outra norma / outro diploma)"
+   },
+   {
+    "instrucao": "DL 289/76 art. 54.º n.os 2 a 4 (responsabilidade do Estado, transferência de pedidos de aval, funções da Comissão) e revogações de outros diplomas",
+    "motivo": "não textual ou instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:527451:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º do DL 515/71 revoga os arts. 1.º, 2.º e 3.º do DL 48879; consolidado revoga os três."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,157 @@
+[
+ {
+  "id": "pt:dre:380546:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DR 71-A/79 acrescenta a alínea e) ao n.º 2 e a alínea l) ao n.º 3; resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral: corpo, 1 - Centrais (A e B, mantidos) e 2 - Externos: Circunscrições florestais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do DR 71-A/79 revoga os n.os 2 e 3; n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação das alíneas b) a e) (a alínea a) mantida, f) eliminada); texto igual ao do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da alínea e); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Aditada a alínea g) (o «h)» do alterador na 2.ª posição é lapso e vale por b), mantida).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Corpo com a sede na Estação Aquícola do Rio Ave; alíneas mantidas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Corpo «À Divisão de Produção Piscícola do Sul, com sede no Posto Aquícola da Azambuja, compete:»; a rectificação da Declaração («Direcção» -> «Divisão») coincide com a nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Aditada a alínea h); alínea g) mantém «administrações florestais» no plural (a substituição do art. 3.º do DR 71-A/79 só abrange o singular literal; ver instrucoes_em_falta/alvo incerto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral com n.os 1 e 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral com corpo e alíneas a) a c), texto igual ao do alterador (incl. «:» no fim da alínea b)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral sem numeração substitui os n.os 1 e 2 (a rectificação «letra D» -> «letra C» ficou superada).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "errado",
+    "motivo": "O art. 4.º do DR 71-A/79 substitui o mapa I anexo pelo mapa do alterador. O consolidado inseriu o novo mapa (1.ª a 8.ª Circunscrição Florestal) logo a seguir ao corpo do artigo, antes das assinaturas e da promulgação, e deixou o Mapa I antigo («Mapa I a que se refere o artigo 53.º», 1.ª a 8.ª Administração Florestal) intacto mais abaixo. Texto antigo a seguir à nova redação é erro.",
+    "texto_esperado": "Corpo e assinaturas/promulgação como no original (entra em vigor...; Carlos Alberto da Mota Pinto - ...; Promulgado em 29 de Junho de 1979; Publique-se; O Presidente da República...), depois o mapa I com o texto novo do alterador (1.ª a 8.ª Circunscrição Florestal, no lugar do mapa I antigo, sem o mapa das Administrações Florestais), depois o «Mapa II a que se refere o artigo 56.º» e as assinaturas finais dos Ministros, inalterados."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 71-A/79 art. 3.º: substituição de «administração florestal» por «circunscrição florestal» e «administrador florestal» por «chefe de circunscrição» em todo o diploma: alvo incerto quanto às formas do plural («administrações florestais» em 6.º n.º 4, 11.º n.º 4, 52.º g), título da SUBSECÇÃO III e mapa antigo), que o consolidado manteve; a expressão literal só cobre o singular, cujas ocorrências (24.º n.os 2 e 3, 55.º, 58.º) foram revogadas ou substituídas",
+   "DR 71-A/79 art. 4.º: substituição do mapa I anexo: o mapa novo foi inserido no sítio errado e o antigo manteve-se (ver Artigo 73.º)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: art. 51.º «Direcção de Produção» -> «Divisão de Produção»; art. 55.º n.º 2 «letra D» -> «letra C»",
+    "motivo": "superadas: o DR 71-A/79 dá nova redação integral aos arts. 51.º e 55.º (a nova redação do 51.º já tem «Divisão»)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:383606:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 8/80 art. 1.º dá nova redação à alínea f): «n.º 2 do artigo 11.º do Decreto-Lei n.º 36/76, de 19 de Janeiro»; restantes alíneas iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 258/90; epígrafe/sem corpo, «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 258/90; o título «B) Gratificação de serviço de imersão» é do original e mantém-se.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 8.º do DL 180/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 8.º do DL 180/94; o título «D) Gratificação de serviço de mergulhador» é do original e mantém-se.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47/89 art. 1.º: nova redação da alínea b) do art. 2.º do DL 45256 (na forma dada pelo art. 11.º do original)",
+    "motivo": "instrução de outro diploma (DL 45256)"
+   },
+   {
+    "instrucao": "DL 258/90 arts. 1.º a 5.º e 7.º; DL 180/94 arts. 1.º a 6.º e 9.º",
+    "motivo": "normas autónomas (criação de suplementos, efeitos), não alteram texto do original"
+   },
+   {
+    "instrucao": "DL 180/94 art. 7.º: nova redação do art. 121.º do DL 498/72; art. 8.º revogação do DL 276/81",
+    "motivo": "instruções de outros diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

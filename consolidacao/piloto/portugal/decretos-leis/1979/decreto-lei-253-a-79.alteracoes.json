@@ -11,7 +11,35 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:383606:por",
-    "alterador": "pt:dre:692831:por;pt:dre:290001:por"
+    "alterador": "pt:dre:692831:por;pt:dre:573689:por;pt:dre:290001:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - A gratificação de serviço aéreo ao pessoal da Força Aérea considerado navegante nos termos da lei, bem como ao constante das alíneas e) e d) deste artigo, é fixada nos quantitativos mensais correspondentes às seguintes percentagens do vencimento base de capitão, arredondados para a centena de escudos imediatamente superior:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17201/00010004.pdf)\n\n2 - O abono da gratificação de serviço aéreo terá lugar quando se verifiquem as condições estabelecidas, para o efeito, na legislação especial reguladora da prestação daquele serviço.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 258/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1990-573689), publicado em 1990-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383606:por",
+    "alterador": "pt:dre:692831:por;pt:dre:573689:por;pt:dre:290001:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1 - Para efeitos de cálculo de pensões de reserva e de reforma, a gratificação de serviço aéreo a considerar é a do último posto em que este serviço foi desempenhado, até ao limite máximo da atribuída a oficial general.\n\n2 - Às pensões de reserva que, nos termos legais, incluam gratificação de serviço aéreo aplica-se, em relação ao montante desta gratificação, o disposto no artigo 2.º do [Decreto-Lei n.º 75-V/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-v-1977-509006), de 28 de Fevereiro.\n\n3 - O estabelecido no número anterior abrange o serviço aéreo prestado na extinta aeronáutica naval.\n\nB) Gratificação de serviço de imersão",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\nB) Gratificação de serviço de imersão\n\n> Alterado pelo/a [Decreto-Lei n.º 258/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1990-573689), publicado em 1990-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383606:por",
+    "alterador": "pt:dre:692831:por;pt:dre:573689:por;pt:dre:290001:por"
   },
   {
     "artigo": "9.º",
@@ -25,20 +53,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:383606:por",
-    "alterador": "pt:dre:692831:por;pt:dre:290001:por"
+    "alterador": "pt:dre:692831:por;pt:dre:573689:por;pt:dre:290001:por"
   },
   {
     "artigo": "10.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 10.º\n\n1 - Para efeitos de cálculo de pensões de reserva e de reforma, a gratificação de serviço pára-quedista a considerar é a do último posto em que este serviço foi desempenhado, até ao limite máximo da atribuída a oficial general.\n\n2 - Às pensões de reserva que, nos termos legais, incluam gratificação de serviço pára-quedista aplica-se, em relação ao montante desta gratificação, o disposto no artigo 2.º do [Decreto-Lei n.º 75-V/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-v-1977-509006), de 28 de Fevereiro.\n\nD) Gratificação de serviço de mergulhador",
-    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\nD) Gratificação de serviço de mergulhador\n\n> Alterado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:383606:por",
-    "alterador": "pt:dre:692831:por;pt:dre:290001:por"
+    "alterador": "pt:dre:692831:por;pt:dre:573689:por;pt:dre:290001:por"
   }
 ]

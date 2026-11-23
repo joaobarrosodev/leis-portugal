@@ -1,0 +1,263 @@
+[
+ {
+  "id": "pt:dre:684451:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'. Também revogado pelo art. 10.º do DL 694/74.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'. (também alíneas b) e c) do n.º 1 revogadas pelo art. 11.º b) do DL 453/77, e redação do DL 694/74 art. 4.º, tudo absorvido pela revogação total.)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "dúvida",
+    "motivo": "Corpo '(Revogado.)' correto (art. 32.º DL 553/77). Fica a seguir o título de capítulo «III - Do pessoal», que pertence à estrutura do diploma e não ao texto do artigo; pela regra literal (texto antigo após '(Revogado.)') seria errado.",
+    "texto_esperado": "(Revogado.) [título do capítulo mantido só se se considerar estrutura]"
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "dúvida",
+    "motivo": "Corpo '(Revogado.)' correto (art. 32.º DL 553/77). Fica a seguir o título de capítulo «IV - Disposições finais e transitórias», que pertence à estrutura do diploma e não ao texto do artigo; pela regra literal (texto antigo após '(Revogado.)') seria errado.",
+    "texto_esperado": "(Revogado.) [título do capítulo mantido só se se considerar estrutura]"
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'. A retificação 1967→1966 fica sem efeito visível por o artigo estar revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 32.º do DL 553/77 (revoga o DL 82/73 com exceção do art. 4.º); consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "errado",
+    "motivo": "Corpo '(Revogado.)' correto, mas a retificação da Declaração manda inserir «MAPA II» imediatamente antes de «Pessoal a que se refere o n.º 2 do artigo 14.º…»; o consolidado pôs «MAPA II» logo a seguir a '(Revogado.)', antes do 'Visto e aprovado', e deixou 'Pessoal a que se refere o n.º 2…' sem o título. Fica ainda texto antigo (fecho e mapas) após '(Revogado.)'.",
+    "texto_esperado": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros. - [...]\n\nMAPA I\n\nPessoal integrado no quadro único a que se refere o n.º 1 do artigo 14.º do Decreto-Lei n.º 82/73, de 3 de Março\n\n[(ver documento original)](…03580363.pdf)\n\nMAPA II\n\nPessoal a que se refere o n.º 2 do artigo 14.º do Decreto-Lei n.º 82/73, de 3 de Março\n\n[(ver documento original)](…)\n\nNota. - [...]\n\nO Ministro da Educação Nacional, José Veiga Simão."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Rectificação: mapa I (substitui imagem por imagem com o mesmo endereço)",
+    "motivo": "Texto novo só em imagem (mesmo endereço do original); sem alteração textual possível."
+   },
+   {
+    "instrucao": "DL 694/74 art. 1.º: Direcção-Geral passa a designar-se Direcção-Geral dos Desportos",
+    "motivo": "Mudança de designação sem nova redação; e diploma revogado em bloco pelo DL 553/77."
+   },
+   {
+    "instrucao": "DL 694/74 art. 2.º: orientação pedagógica da educação física passa para as Direcções-Gerais do Ensino",
+    "motivo": "Não textual: transferência de competências sem nova redação."
+   },
+   {
+    "instrucao": "DL 694/74 art. 5.º e 6.º: extinção de lugar de inspector superior; Divisão passa a Divisão do Desporto Escolar",
+    "motivo": "Não textual: designação/quadro (só em imagem); artigos 1.º, 4.º e 6.º do DL 694/74 revogados pelo DL 553/77."
+   },
+   {
+    "instrucao": "Portaria 198/75 art. 20.º: nova redação da nota a) do mapa II",
+    "motivo": "A nota a) só existe na imagem do mapa; não há texto onde a pôr; Portaria revogada pelo DL 553/77."
+   },
+   {
+    "instrucao": "DL 257/77 art. 5.º: extinção da Inspecção Superior de Medicina Desportiva e abate de lugares",
+    "motivo": "Não textual: extinção de serviço e quadro em imagem; art. 5.º do original está revogado pelo DL 553/77."
+   },
+   {
+    "instrucao": "Decreto 97/77 art. 2.º: acrescenta lugar de subdirector-geral e extingue o de adjunto no mapa I",
+    "motivo": "Só em imagem (mapa I)."
+   },
+   {
+    "instrucao": "Decreto Regulamentar 67/77 art. 1.º: nova redação do n.º 2 do art. 2.º do Decreto 97/77",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 553/77 art. 32.º: revogação do art. 4.º do DL 82/73 (mantido até ao decreto regulamentar do art. 7.º a))",
+    "motivo": "Efeito adiado para facto futuro; art. 4.º mantém-se igual ao original."
+   },
+   {
+    "instrucao": "DL 694/74 art. 7.º, 8.º, 9.º (alteram DL 193/73, 45/73, 44/73)",
+    "motivo": "Instruções de outros diplomas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (preâmbulo igual)"
+ }
+]

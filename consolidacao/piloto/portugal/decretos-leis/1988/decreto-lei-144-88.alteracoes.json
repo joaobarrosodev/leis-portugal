@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09600/16041609.pdf)",
+    "depois": "## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 1.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12603/00140017.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20101/00040004.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/015b00/02980299.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/220b00/50295029.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/061b00/12881288.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/188b00/42934293.pdf)\n\n> Alterado pelo/a [Portaria n.º 729/93](https://diariodarepublica.pt/dr/detalhe/portaria/729-1993-354344), publicado em 1993-08-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:285363:por",
+    "alterador": "pt:dre:354344:por"
+  }
+]

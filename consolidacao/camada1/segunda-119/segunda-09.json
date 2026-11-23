@@ -1,0 +1,36 @@
+[
+ {
+  "id": "pt:dre:606481:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:518007:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:513984:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação não aplicada: a Declaração de 8 de Novembro de 1960 (Diário do Governo n.º 262/1960, 1.ª série, de 11-11-1960; pt:dre:514266:por, no acervo em data/portugal/declaracoes/1960/declaracao-1960-11-11-514266.md, cita o DL 43203 mas não figura como corrected_by nas relationships) retifica o artigo 16.º: onde se lê «O n.º 7 do artigo 2.º do Decreto-Lei n.º 41169, de 29 de Junho de 1957, ...» deve ler-se «O n.º 7 do artigo 4.º do Decreto-Lei n.º 41169, de 29 de Junho de 1957, ...». O consolidado mantém no artigo 16.º «O n.º 7.º do artigo 2.º do Decreto-Lei n.º 41169»; deve ficar «O n.º 7.º do artigo 4.º do Decreto-Lei n.º 41169, de 29 de Junho de 1957, passa a ter a seguinte redacção:»."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:430600:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Justificação «efeito adiado» aceite indevidamente: o artigo 53.º, n.º 1, alínea b), do DL 142/2008 revoga o n.º 3 do artigo 2.º e os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 11.º do DL 565/76 (na redação do DL 487/77), com efeitos, pelo n.º 2, a partir da entrada em vigor do plano de ordenamento da área protegida. Esse plano já entrou em vigor: a Resolução do Conselho de Ministros n.º 177/2008, de 24 de Novembro (no acervo, data/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-177-2008.md), aprova o Plano de Ordenamento da Reserva Natural do Estuário do Tejo, que entra em vigor no dia seguinte ao da publicação (artigo 43.º do regulamento), ou seja, a 25-11-2008. A condição verificou-se, e a revogação produziu efeitos. O n.º 3 do artigo 2.º e os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 11.º devem ficar «(Revogado.)»; só os n.os 1 e 2 do artigo 2.º, o artigo 1.º e o artigo 10.º se mantêm. A revogação é total para cada um desses artigos e números, não é parcial («na redacção dada pelo DL 487/77» só identifica a versão revogada). O DL 242/2015, que republica o DL 142/2008, mantém a mesma alínea b) do artigo 53.º."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:415443:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

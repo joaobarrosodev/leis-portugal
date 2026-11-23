@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:573680:por
+    title: Declaração
+    publication_date: '1981-05-21'
   - id: pt:dre:600344:por
     title: Decreto Regulamentar n.º 5/82
     publication_date: '1982-02-11'
@@ -37,6 +40,20 @@ São alteradas as bases constantes do [Decreto n.º 467/72](https://diariodarepu
 O critério estabelecido no presente diploma, relativo ao cálculo das receitas garantidas, é aplicável a partir de 1 de Janeiro de 1979.
 
 4 - A pedido da concessionária, o Estado poderá avalizar financiamentos internos e externos.
+
+6 - As obrigações que a concessionária emitir no mercado interno e que beneficiem do aval do Estado serão equiparadas aos títulos deste para efeitos de serem incluídas nas reservas das seguradoras e outros investidores institucionais.
+
+(alfa)(índice f) - o índice de variação do custo real do financiamento em relação ao previsto na proposta;
+
+A concessionária procederá, à sua custa, contraditoriamente com os proprietários vizinhos e em presença de um delegado da Junta Autónoma de Estradas, que levantará o respectivo auto, à demarcação dos terrenos que façam parte integrante da concessão, procedendo em seguida ao levantamento da respectiva planta em fundo cadastral e à escala não inferior a 1:2000, que identifiquem os terrenos que fazem parte integrante da concessão, as áreas sobrantes e os restantes terrenos.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11600/11561158.pdf)
+
+No presente mapa prevê-se que a entrada em serviço dos sublanços coincida com o fim dos semestres a que se refere a base II, pelo que, caso se verifique antecipação nas respectivas entradas em serviço, os valores base desse ano serão acrescidos na proporção dos meses de antecipação. Caso a entrada em serviço se verifique após o fim do semestre, o valor base a considerar para esse sublanço nesse ano será diminuído proporcionalmente aos meses de atraso.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-573680), publicado em 1981-05-21.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-573680), publicado em 1981-05-21.
 
 > Alterado pelo/a [Decreto Regulamentar n.º 5/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1982-600344), publicado em 1982-02-11.
 

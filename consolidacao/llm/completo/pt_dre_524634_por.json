@@ -2,14 +2,19 @@
   "id": "pt:dre:524634:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alt. 3 (DRR 2-A/2000/A), art. 3.º: o membro previsto na alínea d) do art. 2.º passa a designar-se Secretário Regional da Agricultura e Pescas, sem nova redação da alínea (alteração não textual). Alts. 1, 2 e 3 (art. 1.º) acrescentam membros ao Governo Regional sem alterar o texto do original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, o Governo Regional passa a incluir o Secretário Regional Adjunto da Presidência: não textual: acrescenta um membro sem dar nova redação ao art. 2.º nem a outro artigo do original\nAlterador 2, art. 1.º, a constituição do Governo passa a incluir um Subsecretário Regional Adjunto para a Saúde: não textual: sem nova redação de nenhum artigo do original\nAlterador 3, art. 1.º, passa a incluir um Secretário Regional do Ambiente: não textual: sem nova redação de nenhum artigo do original\nAlterador 3, art. 3.º, o membro da alínea d) do art. 2.º passa a designar-se Secretário Regional da Agricultura e Pescas: não textual: designação, sem nova redação da alínea d) do art. 2.º\nAlterador 4, art. 1.º, nova redação dos arts. 1.º, 4.º, 9.º, 11.º e 12.º do Decreto Regulamentar Regional n.º 6/94/A: outro diploma",
   "instrucoes": [
-    "Alt. 1 (DRR 1-A/98/A): inclui Secretário Regional Adjunto da Presidência; não textual.",
-    "Alt. 2 (DRR 28-A/98/A): inclui Subsecretário Regional Adjunto para a Saúde; não textual.",
-    "Alt. 3 (DRR 2-A/2000/A): inclui Secretário Regional do Ambiente e muda designação do membro da alínea d) do art. 2.º; não textual, em nao_aplicavel.",
-    "Alt. 4 (DRR 15/2000/A): altera o DRR 6/94/A; ignorado."
+    "Alterador 1 (DRR 1-A/98/A): inclui o Secretário Regional Adjunto da Presidência e fixa-lhe competências em normas próprias; sem nova redação do original; nada aplicado.",
+    "Alterador 2 (DRR 28-A/98/A): inclui um Subsecretário Regional Adjunto para a Saúde; sem nova redação; nada aplicado.",
+    "Alterador 3 (DRR 2-A/2000/A): inclui o Secretário Regional do Ambiente e muda a designação do membro da alínea d) do art. 2.º; designação não textual; nada aplicado.",
+    "Alterador 4 (DRR 15/2000/A): altera o DRR 6/94/A; outro diploma; ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

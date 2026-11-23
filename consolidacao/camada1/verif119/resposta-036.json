@@ -1,0 +1,80 @@
+[
+ {
+  "id": "pt:dre:322681:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 47727 art. 1.º dá nova redação ao n.º 2 (n.º 1 «...»): consolidado igual à nova redação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 19644: criação de lugar de motorista no Instituto de S. Bernardino",
+    "motivo": "não textual (portaria ao abrigo do art. 75.º do Regulamento; não altera texto do original)"
+   },
+   {
+    "instrucao": "Portaria 19817: criação de lugares no Instituto Padre António de Oliveira",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 46610: alteração do mapa n.º 2 (regentes agrícolas de Vila Fernando)",
+    "motivo": "mapa só em imagem; o alterador não traz imagem nova nem há anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "DL 47727 art. 2.º: mapa n.º 4, dois curadores no tribunal central do Porto",
+    "motivo": "mapa só em imagem; alterador sem imagem nova"
+   },
+   {
+    "instrucao": "DL 47727 art. 3.º: alterações à Organização Tutelar de Menores",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 283/71 arts. 1.º a 5.º: alterações aos mapas n.º 2 e 3",
+    "motivo": "mapas só em imagem; alterador sem imagem nova"
+   },
+   {
+    "instrucao": "DL 283/71 art. 6.º: remuneração de enfermeiros e auxiliares",
+    "motivo": "norma autónoma, não altera texto do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:355098:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Sequência 174/90, 342/93, 161/95, 184/96, 26/98, 13/2000 aplicada: n.º 1 (342/93), n.º 2 e alíneas a)-j) (13/2000, 342/93, 161/95, 184/96), n.º 3 (26/98), n.º 4 (anterior 3), n.º 5 (26/98), n.º 6 e 7 (anteriores 5 e 6), n.º 8 (13/2000), n.º 9 (planta, 342/93).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 e 4 de 26/98; n.os 2 e 3 de 174/90 (o n.º 4 de 342/93 foi substituído por 161/95).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 na redação do DL 13/2000 (31/12/2001); n.º 2 e fecho originais.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 342/93 art. 1.º: n.º 9 do art. 2.º, planta anexa das áreas sinistrada e circundante",
+    "motivo": "a planta só vem em imagem e o consolidado não tem anexo com título onde a pôr (o texto do n.º 9 foi aplicado)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

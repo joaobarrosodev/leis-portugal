@@ -2,15 +2,39 @@
   "id": "pt:dre:526203:por",
   "substituicoes": [
     {
+      "de": 11,
+      "ate": 28,
+      "texto": "Artigo 1.º - (Revogado.)\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º - (Revogado.)\n\nArt. 4.º - (Revogado.)\n\nArt. 5.º - (Revogado.)\n\nArt. 6.º - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 30,
+      "ate": 39,
+      "texto": "Art. 7.º - (Revogado.)\n\nArt. 8.º - (Revogado.)",
+      "alterador": 3
+    },
+    {
       "de": 41,
       "ate": 41,
-      "texto": "2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente",
+      "texto": "2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente.",
       "alterador": 1
     },
     {
       "de": 42,
+      "ate": 42,
+      "texto": "3 - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 43,
       "ate": 43,
-      "texto": "3. (Revogado.)\n\n4. (Revogado.)",
+      "texto": "4 - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 44,
+      "ate": 53,
+      "texto": "Art. 10.º - (Revogado.)\n\nArt. 11.º - (Revogado.)\n\nArt. 12.º - (Revogado.)",
       "alterador": 3
     },
     {
@@ -24,19 +48,40 @@
       "ate": 115,
       "texto": "2. A Comissão não se julgará constituída nem poderá deliberar validamente sem estarem presentes, pelo menos, seis dos seus membros efectivos ou substitutos e as suas deliberações serão tomadas por maioria de votos.",
       "alterador": 2
+    },
+    {
+      "de": 139,
+      "ate": 142,
+      "texto": "Art. 37.º - (Revogado.)\n\nArt. 38.º - (Revogado.)\n\nArt. 39.º - (Revogado.)",
+      "alterador": 3
     }
   ],
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 199/70) art. 2.º: nova redacção do n.º 2 do art. 9.º (prazo de sete anos); unidade 41. O art. 1.º é norma geral, não textual.",
-    "Alterador 2 (DL 537/74): nova redacção do n.º 1 do art. 28.º (alíneas a) a i), unidades 100-105) e do n.º 2 do art. 29.º (unidade 115).",
-    "Alterador 3 (DL 485/88) art. 3.º, 4): revoga os n.os 3 e 4 do art. 9.º; unidades 42-43 como (Revogado.). Restantes revogações dirigem-se a outros diplomas."
+    "Alterador 1, art. 2.º: nova redação do artigo 9.º, n.º 2 (prazo das obrigações passa de cinco para sete anos) (unidade 41); o artigo 6.º do DL 48948 e o art. 1.º são de outro diploma/gerais",
+    "Alterador 2, art. 1.º: nova redação do artigo 28.º, n.º 1 (alíneas a) a i) substituem a) a f), unidades 100-105; o corpo do n.º 1, unidade 99, é igual) e do artigo 29.º, n.º 2 (unidade 115)",
+    "Alterador 3, art. 54.º, n.º 1: revoga os capítulos I, II e V do DL 48950, com exceção dos n.os 1 a 3 do artigo 9.º: artigos 1.º a 8.º, 10.º a 12.º e 37.º a 39.º ficam (Revogado.) com os textos que davam a outros diplomas; artigo 9.º, n.º 4, revogado (unidade 43); títulos dos capítulos mantidos. O artigo 8.º do DL 48950 é revogado; a exceção do n.º 3 do artigo 25.º é do DL 47908",
+    "Alterador 4, art. 3.º, 4): revoga os n.os 3 e 4 do artigo 9.º: n.º 3 (unidade 42) fica (Revogado.); o n.º 4 já estava revogado pelo alterador 3",
+    "Reparos: os parágrafos «3. (Revogado.)» e «4. (Revogado.)» passam à forma das regras («3 - (Revogado.)»), em substituições separadas"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 42-43: parágrafo que não está no alterador nem no original: 3. (Revogado.)",
-    "substituição 42-43: parágrafo que não está no alterador nem no original: 4. (Revogado.)"
+  "problemas": [],
+  "numeracao_aceite": [
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)",
+    "substituição 11-28: parágrafo que não está no alterador nem no original: Art. 6.º - (Revogado.)",
+    "substituição 30-39: parágrafo que não está no alterador nem no original: Art. 7.º - (Revogado.)",
+    "substituição 30-39: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)",
+    "substituição 44-53: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)",
+    "substituição 44-53: parágrafo que não está no alterador nem no original: Art. 11.º - (Revogado.)",
+    "substituição 44-53: parágrafo que não está no alterador nem no original: Art. 12.º - (Revogado.)",
+    "substituição 139-142: parágrafo que não está no alterador nem no original: Art. 37.º - (Revogado.)",
+    "substituição 139-142: parágrafo que não está no alterador nem no original: Art. 38.º - (Revogado.)",
+    "substituição 139-142: parágrafo que não está no alterador nem no original: Art. 39.º - (Revogado.)"
   ]
 }

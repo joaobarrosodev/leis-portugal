@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:170928:por",
+  "substituicoes": [
+   {
+    "de": 38,
+    "ate": 39,
+    "texto": "Art. 7.º (Revogado.)",
+    "alterador": 2
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, amnistia das contravenções previstas no Decreto-Lei n.º 43705: não textual",
+  "instrucoes": [
+   "Alterador 1 (DL 720/74): amnistia contravenções do DL 43705; não altera o texto",
+   "Alterador 2 (DL 360/83), art. 4.º: revoga o artigo 7.º; unidades 38-39 (corpo e § único) passam a 'Art. 7.º (Revogado.)'"
+  ]
+ }
+]

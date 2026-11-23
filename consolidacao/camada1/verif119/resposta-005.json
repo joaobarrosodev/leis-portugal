@@ -1,0 +1,176 @@
+[
+ {
+  "id": "pt:dre:339835:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DLR 12/2001 art. 2.º n.º 2 com 'sem prejuízo do disposto na alínea a) do n.º 1 do artigo 20.º'; n.º 1 igual ('...')."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: n.º 1 'ao membro do Governo Regional com competência na área de polícia administrativa'; n.º 2 igual."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: art. 22.º do DL 310/2002, de 18 de Dezembro."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "DLR 41/2006 só altera o n.º 1 (n.º 2 '...'); o consolidado tem o novo n.º 1 e n.º 2 e a seguir repete o n.º 1 antigo ('o Secretário Regional Adjunto da Presidência mandará emitir') e n.º 2: texto antigo por apagar.",
+    "texto_esperado": "###### Artigo 7.º — Título de registo\n\n1 - Preenchidos os requisitos exigidos no artigo 5.º, o membro do Governo Regional com competência na área de polícia administrativa mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.\n\n2 - O título de registo deverá conter os elementos identificativos referidos no n.º 2 do artigo 4.º"
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: n.º 1 'no prazo de oito dias ao membro do Governo Regional ...'; n.º 2 igual."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: dois anos a partir do despacho."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: n.º 1 e n.º 3 novos; n.os 2 e 4 iguais."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: n.os 1 a 3 novos, letra a letra."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: 'O membro do Governo Regional ... pode recusar'."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "errado",
+    "motivo": "DLR 41/2006: n.os 1 e 2 novos; o consolidado deixa a seguir o parágrafo antigo 'A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e período de validade...'.",
+    "texto_esperado": "###### Artigo 16.º — Título de licenciamento\n\n1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o período de validade, bem como o número de máquinas.\n\n2 - As máquinas a que se refere o número anterior podem ser transferidas para outro recinto, na sua totalidade ou em parte, desde que se efectue dentro da mesma ilha, mediante requerimento do interessado, após a consulta a que se refere o artigo 14.º, e obtido o despacho favorável do membro do Governo Regional com competência na área de polícia administrativa, que será averbado ao respectivo alvará sem necessidade de novo licenciamento."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DLR 32/2003 n.os 1 e 2 (inclui 'horizonal' do diploma); DLR 12/2012 n.º 4; n.os 3 e 5 iguais."
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: portaria conjunta dos membros do Governo Regional das finanças e de polícia administrativa."
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006 (coimas em euros, alíneas a) a k), n.º 2); n.º 3 anterior revogado (art. 2.º) e 'A negligência e a tentativa são punidas' fica n.º 3."
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006 letra a letra."
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: n.º 1 novo; n.os 2 e 3 iguais ao original ('reabertura', apesar de a republicação dizer 'abertura', pois a instrução é '...')."
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DLR 12/2001 art. 24.º: 'compete às forças de segurança'."
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DLR 41/2006: portaria do membro do Governo Regional ..."
+   },
+   {
+    "artigo": "Título de registo",
+    "veredicto": "errado",
+    "motivo": "Artefacto: epígrafe do Artigo 7.º. O corpo antigo (n.os 1 e 2 com 'Secretário Regional Adjunto da Presidência') permanece no consolidado dentro do Artigo 7.º a seguir ao novo texto (ver Artigo 7.º).",
+    "texto_esperado": "Corpo antigo eliminado; só o novo texto no Artigo 7.º."
+   },
+   {
+    "artigo": "Título de licenciamento",
+    "veredicto": "errado",
+    "motivo": "Artefacto: epígrafe do Artigo 16.º. O parágrafo antigo permanece no consolidado dentro do Artigo 16.º a seguir ao novo texto (ver Artigo 16.º).",
+    "texto_esperado": "Corpo antigo eliminado; só o novo texto no Artigo 16.º."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:374255:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 199/91 art. 1.º: redacção integral nova (alíneas a) a c), sem n.os); o n.º 2 antigo desaparece por a redacção não o conter."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: alínea a) do n.º 2 'reserva ou reversão'; restante '...'."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.os 1 a 5 novos, letra a letra."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.os 1 a 5 novos (substitui a redacção do DL 199/91); n.os 6 a 8 não constam da nova redacção do artigo."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.os 2 e 3 novos (inclui 'No, caso' do diploma); n.º 1 igual."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.º 2 c) e n.º 3 novos; n.os 1 e 2 a), b) iguais. N.os 4 e 5 originais não constam da redacção (que lista só os n.os 1 a 3), lida como redacção integral do artigo, igual à do DL 199/91."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.os 1, 2, 4, 5, 6 novos; n.º 3 igual ao original; o n.º 7 do DL 199/91 não consta da nova redacção."
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.º 1 novo; n.os 2 e 3 iguais."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95: n.os 1 a 4 novos; o fecho do diploma (assinaturas e anexos) passou para o fim do Artigo 16.º, o que está bem."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 199/91 e substituído pelo DL 38/95 art. 1.º com os n.os 1 a 3 que constam."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 38/95 art. 2.º: artigo aditado, letra a letra; fecho do diploma original a seguir."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

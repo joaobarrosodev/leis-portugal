@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nO aeroporto da Madeira ficará na dependência administrativa directa da Direcção-Geral da Aeronáutica Civil.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 45839](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45839-1964-579335), publicado em 1964-07-30.",
+    "excerto": "Art. 6.º É revogado o artigo 2.º do Decreto-Lei n.º 43485, de 25 de Janeiro de 1961.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:556814:por",
+    "alterador": "pt:dre:579335:por"
+  }
+]

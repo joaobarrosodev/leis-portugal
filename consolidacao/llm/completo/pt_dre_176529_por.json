@@ -16,11 +16,15 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Art. 12.º do DL 143/2006: a revogação genérica do DL 6/2003 'na parte em que prevê a realização de um segundo segmento da 2.ª fase' só se aplicou ao texto nas disposições que enumera expressamente (alínea b) do n.º 1 e n.º 3 do artigo 2.º e artigo 7.º); outras referências ao segundo segmento (por exemplo no proémio do n.º 1 do artigo 2.º ou no artigo 11.º) não são identificáveis com segurança e ficam como estão.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 12.º, revogação do DL 6/2003 'na parte em que prevê a realização de um segundo segmento da 2.ª fase de reprivatização' para além das disposições que designa: alvo incerto: a fórmula genérica não identifica outras unidades; aplicadas só as designadas (alínea b) do n.º 1 e n.º 3 do art. 2.º e art. 7.º)",
   "instrucoes": [
-    "DL 143/2006 art. 12.º: revoga a alínea b) do n.º 1 e o n.º 3 do art. 2.º e o art. 7.º do DL 6/2003 (enumerados expressamente) — aplicado; parte genérica 'na parte em que prevê' não aplicada além do enumerado."
+    "Alterador 1, art. 12.º: revoga expressamente a alínea b) do n.º 1 e o n.º 3 do art. 2.º e o art. 7.º; aplicadas como revogação; o resto da revogação genérica vai para nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "pt:dre:147408:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 280/92 art. 4.º n.º 2 revoga os artigos 1.º, 2.º e 4.º do original; ficam '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º revogado pelo DL 280/92 art. 4.º n.º 2 (as redações dos DL 397/82 e 391/83 ficam absorvidas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "A Declaração de rectificação substitui 444.º por 434.º no art. 6.º n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 445/99 art. 6.º n.º 2 revoga o artigo 9.º do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 280/92 art. 4.º n.º 2 revoga o n.º 1 do art. 1.º do Regulamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "DL 280/92 art. 4.º n.º 2 revoga o n.º 8 do art. 1.º do Regulamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "DL 280/92 art. 3.º dá nova redação ao art. 2.º do Regulamento (corpo único, sem n.os); consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "DL 280/92 art. 4.º n.º 2 revoga o art. 8.º do Regulamento (as redações dos DL 397/82 e 391/83 ficam absorvidas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "DL 391/83 art. 2.º n.os 2 e 3: novo texto do art. 11.º do Regulamento e aditamento do art. 12.º (Direito subsidiário) com o texto do antigo art. 11.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 397/82 art. 1.º, 2.º, 4.º, 6.º e DL 391/83 art. 3.º e 4.º, DL 205/84, DL 280/92 art. 1.º, 2.º e 4.º n.os 1 e 3, DL 445/99 (Reforma Aduaneira, Regulamento das Alfândegas, DL 289/88, DL 89/92, DL 397/82)",
+    "motivo": "visam outros diplomas ou não são textuais; confirmado no texto dos alteradores"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

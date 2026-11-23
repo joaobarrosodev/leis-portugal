@@ -1,0 +1,48 @@
+[
+ {
+  "id": "pt:dre:163048:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 13.º revogado pelo art. 2.º, al. a), do DL 37/87; consolidado 'Art. 13.º - (Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 24233, n.º 1.º/art. 1.º do Regulamento: a Escola Prática de Polícia criada pelo DL 44447 passa a ter a designação de Escola Prática de Polícia de Segurança Pública",
+    "motivo": "Mudança de designação sem nova redação do texto do original."
+   },
+   {
+    "instrucao": "Portaria 1075/80, n.º 1.º, 1: aumento do quadro de pessoal da PSP (mapa I)",
+    "motivo": "Altera o quadro aprovado pelo DL 39497; o DL 44447 só é citado como alteração anterior e o mapa só vem em imagem."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:170928:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º revogado pelo art. 4.º do DL 360/83; consolidado 'Art. 7.º (Revogado.)' (inclui o § único).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 720/74, art. 1.º: amnistia das contravenções previstas no DL 43705",
+    "motivo": "Não é textual: amnistia não altera nem elimina o texto do original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

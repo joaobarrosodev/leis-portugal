@@ -3,8 +3,7 @@ id: pt:dre:488485:por
 title: Decreto-Lei n.º 205/2009
 original: data/portugal/decretos-leis/2009/decreto-lei-205-2009.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
-    sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:615031:por
@@ -1328,15 +1327,13 @@ d) Os princípios informadores do Processo de Bolonha.
 
 2 - O regulamento de prestação de serviço dos docentes abrange todas as funções que lhes competem, nos termos dos artigos 4.º e 5.º, e deve, designadamente, nos termos por ele fixados:
 
-a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, com contabilização e compensação obrigatórias das eventuais cargas horárias lectivas excessivas, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
+a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
 
 b) Permitir que os professores de carreira possam, a seu pedido, participar noutras instituições, designadamente de ciência e tecnologia, sem perda de direitos.
 
 3 - A distribuição de serviço dos docentes é feita pelo órgão legal e estatutariamente competente, de acordo com o regulamento a que se refere o presente artigo.
 
 4 - Compete a cada docente propor o quadro institucional que melhor se adeqúe ao exercício da investigação que deve desenvolver.
-
-> Alterado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
 
 ###### Artigo 7.º — Funções dos assistentes e assistentes estagiários
 
@@ -1444,13 +1441,9 @@ O regulamento de cada instituição de ensino superior pode prever que o convite
 
 2 - Se o contrato referido no número anterior não for precedido por um contrato por tempo indeterminado como professor das carreiras docentes do ensino universitário ou do ensino politécnico ou como investigador da carreira de investigação científica, o mesmo tem o período experimental de um ano.
 
-3 - Findo o período experimental, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, o contrato passa a contrato por tempo indeterminado em regime de tenure, nos termos do artigo seguinte, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria dos membros em efectividade de funções, de categoria superior e de categoria igual desde que não se encontrem em período experimental, do órgão científico legal e estatutariamente competente, decidir no sentido da sua cessação.
+3 - Findo o período experimental, e em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, o contrato passa a contrato por tempo indeterminado em regime de tenure, nos termos do artigo seguinte, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria de dois terços do órgão científico legal e estatutariamente competente, decidir no sentido da sua cessação, decisão que deve ser comunicada ao professor até 90 dias antes do termo daquele período.
 
-4 - A decisão a que se refere o número anterior é comunicada ao professor até 90 dias antes do termo do período experimental.
-
-5 - Na situação de cessação prevista no n.º 3, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
-
-> Alterado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
+4 - Na situação de cessação prevista no número anterior, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
 
 ###### Artigo 20.º — Estatuto reforçado de estabilidade no emprego
 
@@ -1488,15 +1481,15 @@ O regulamento de cada instituição de ensino superior pode prever que o convite
 
 ###### Artigo 25.º — Contratação de professores auxiliares
 
-1 - Os professores auxiliares são contratados por tempo indeterminado por um período experimental de cinco anos, findo o qual, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, é mantido o contrato por tempo indeterminado, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria dos membros em efectividade de funções, de categoria superior e de categoria igual desde que não se encontrem em período experimental, do órgão legal e estatutariamente competente, decidir no sentido da sua cessação.
+1 - Os professores auxiliares são contratados por tempo indeterminado com um período experimental de cinco anos, findo o qual, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior e sob proposta fundamentada aprovada por maioria de dois terços desse mesmo órgão:
 
-2 - Em caso de decisão no sentido da cessação, após um período suplementar de seis meses, de que o docente pode prescindir, cessa a relação contratual, regressando o docente, se for caso disso, à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
+a) É mantido o contrato por tempo indeterminado; ou
 
-3 - A decisão a que se refere o n.º 1 é comunicada ao professor até seis meses antes do termo do período experimental.
+b) Após um período suplementar de seis meses, de que o docente pode prescindir, querendo, cessa a relação contratual, regressando o docente, se for caso disso, à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
 
-4 - Em caso de incumprimento, total ou parcial, do prazo estipulado no número anterior, a instituição de ensino superior fica obrigada a pagar ao docente uma indemnização de valor igual à remuneração base correspondente ao período de antecedência em falta quando haja cessação da relação contratual.
+2 - A decisão a que se refere o número anterior é comunicada ao professor até seis meses antes do termo do período experimental.
 
-> Alterado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
+3 - Em caso de incumprimento, total ou parcial, do prazo estipulado no número anterior, a instituição de ensino superior fica obrigada a pagar ao docente uma indemnização de valor igual à remuneração base correspondente ao período de antecedência em falta quando haja cessação da relação contratual.
 
 ###### Artigo 26.º — Provimento de assistentes
 
@@ -2036,7 +2029,7 @@ ab) Funções directivas em pessoas colectivas de direito privado de que façam 
 
 a) Orientação, visando a melhoria da qualidade do desempenho dos docentes;
 
-b) Consideração de todas as vertentes da actividade dos docentes enunciadas no artigo 4.º, na medida em que elas lhes tenham, em conformidade com a lei e o Estatuto, estado afectas no período a que se refere a avaliação;
+b) Consideração de todas as vertentes da actividade dos docentes enunciadas no artigo 4.º;
 
 c) Consideração da especificidade de cada área disciplinar;
 
@@ -2059,10 +2052,6 @@ l) Homologação dos resultados da avaliação do desempenho pelo dirigente máx
 m) Previsão da audiência prévia dos interessados;
 
 n) Previsão da possibilidade de os interessados impugnarem judicialmente, nos termos gerais, o acto de homologação e a decisão sobre a reclamação.
-
-o) Aplicação do regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo e consagrado no presente Estatuto para concursos.
-
-> Alterado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
 
 ###### Artigo 74.º-B — Efeitos da avaliação do desempenho
 
@@ -2102,11 +2091,9 @@ c) Alteração do posicionamento remuneratório na categoria detida, nos termos 
 
 ###### Artigo 76.º — Férias e licenças
 
-1 - O pessoal docente tem direito às férias correspondentes às das respectivas instituições de ensino superior, sem prejuízo das tarefas que forem organizadas durante esse período pelos órgãos da instituição de ensino superior e com salvaguarda sempre do número de dias de férias atribuído pela lei aos trabalhadores que exercem funções públicas.
+1 - O pessoal docente tem direito às férias correspondentes às das respectivas instituições de ensino superior, sem prejuízo das tarefas que forem organizadas durante esse período pelos órgãos da instituição de ensino superior.
 
 2 - O pessoal docente pode, ainda, gozar das licenças previstas para os restantes trabalhadores em funções públicas.
-
-> Alterado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
 
 ###### Artigo 77.º — Dispensa do serviço docente dos professores
 
@@ -2227,14 +2214,6 @@ b) Leccionar, em situações excepcionais, em instituições de ensino superior,
 ###### Artigo 85.º — Votação nominal justificada
 
 As deliberações proferidas no âmbito da aplicação do presente Estatuto são tomadas em votação nominal justificada, não sendo permitidas abstenções.
-
-###### Artigo 85.º-A — Instituições em regime fundacional
-
-1 - O pessoal em relação jurídica de emprego público que se encontre a exercer funções em instituições de ensino superior à data da sua transformação em instituição de ensino superior em regime fundacional transita para esta, com garantia da manutenção integral do seu estatuto jurídico.
-
-2 - As instituições de ensino superior em regime fundacional podem admitir pessoal em regime de contrato de trabalho em funções públicas, observando os requisitos e procedimentos previstos no presente Estatuto.
-
-> Aditado pelo/a [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), publicado em 2010-05-13.
 
 ###### Artigo 86.º — Regime de instalação
 

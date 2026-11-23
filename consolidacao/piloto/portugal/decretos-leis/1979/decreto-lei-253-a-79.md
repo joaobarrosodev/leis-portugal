@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:692831:por
     title: Decreto-Lei n.º 8/80
     publication_date: '1980-02-11'
+  - id: pt:dre:573689:por
+    title: Decreto-Lei n.º 258/90
+    publication_date: '1990-08-16'
   - id: pt:dre:290001:por
     title: Decreto-Lei n.º 180/94
     publication_date: '1994-06-29'
@@ -73,21 +76,17 @@ A) Gratificação de serviço aéreo
 
 ###### Artigo 4.º
 
-1 - A gratificação de serviço aéreo ao pessoal da Força Aérea considerado navegante nos termos da lei, bem como ao constante das alíneas e) e d) deste artigo, é fixada nos quantitativos mensais correspondentes às seguintes percentagens do vencimento base de capitão, arredondados para a centena de escudos imediatamente superior:
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17201/00010004.pdf)
-
-2 - O abono da gratificação de serviço aéreo terá lugar quando se verifiquem as condições estabelecidas, para o efeito, na legislação especial reguladora da prestação daquele serviço.
+> Revogado pelo/a [Decreto-Lei n.º 258/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1990-573689), publicado em 1990-08-16.
 
 ###### Artigo 5.º
 
-1 - Para efeitos de cálculo de pensões de reserva e de reforma, a gratificação de serviço aéreo a considerar é a do último posto em que este serviço foi desempenhado, até ao limite máximo da atribuída a oficial general.
-
-2 - Às pensões de reserva que, nos termos legais, incluam gratificação de serviço aéreo aplica-se, em relação ao montante desta gratificação, o disposto no artigo 2.º do [Decreto-Lei n.º 75-V/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-v-1977-509006), de 28 de Fevereiro.
-
-3 - O estabelecido no número anterior abrange o serviço aéreo prestado na extinta aeronáutica naval.
+(Revogado.)
 
 B) Gratificação de serviço de imersão
+
+> Alterado pelo/a [Decreto-Lei n.º 258/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1990-573689), publicado em 1990-08-16.
 
 ###### Artigo 6.º
 
@@ -125,7 +124,9 @@ C) Gratificação de serviço pára-quedista
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
+D) Gratificação de serviço de mergulhador
+
+> Alterado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
 
 ###### Artigo 11.º
 

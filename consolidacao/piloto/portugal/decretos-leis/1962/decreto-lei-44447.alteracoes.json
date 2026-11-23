@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 45-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 13.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais.\n\nDeverá ainda servir de centro experimental e orientador da instrução da corporação.",
+    "depois": "Art. 13.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163048:por",
+    "alterador": "pt:dre:663327:por"
+  }
+]

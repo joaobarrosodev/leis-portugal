@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 2.º\n\n1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 550$00;\n\nb) 2 descendentes, 1110$00;\n\nc) 3 descendentes, 1750$00;\n\nd) Por cada descendente a mais, 750$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 950$00 tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.",
+    "depois": "###### Artigo 2.º\n\n1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 550$00;\n\nb) 2 descendentes, 1100$00;\n\nc) 3 descendentes, 1750$00;\n\nd) Por cada descendente a mais, 750$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 950$00 tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.",
+    "excerto": "No artigo 2.º, n.º 1, alínea b), onde se lê «2 descendentes, 1110$00» deve ler-se «2 descendentes, 1100$00».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311837:por",
+    "alterador": "pt:dre:423431:por"
+  }
+]

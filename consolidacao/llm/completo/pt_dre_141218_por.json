@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:141218:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação do mapa anexo: só em imagem — o mapa só existe em imagem e não há título de anexo no texto atual\nAlterador 2, alteração do quadro do ISCA de Aveiro (biblioteca, documentação e arquivo): só em imagem — mapa em imagem e sem título de anexo no texto atual\nAlterador 3, alteração do quadro do ISCA de Aveiro (informática): só em imagem — mapa em imagem e sem título de anexo no texto atual\nAlterador 4, substituição do quadro do ISCA de Lisboa (informática): só em imagem — mapa em imagem e sem título de anexo no texto atual\nAlterador 5, substituição do quadro do ISCA de Lisboa (biblioteca, documentação e arquivo): só em imagem — mapa em imagem e sem título de anexo no texto atual\nAlterador 6, substituição do quadro do ISCA do Porto: só em imagem — mapa em imagem e sem título de anexo no texto atual\nAlterador 7, alteração do quadro do ISCA de Aveiro (biblioteca, documentação e arquivo): só em imagem — mapa em imagem e sem título de anexo no texto atual",
+  "instrucoes": [
+    "Alteradores 1 a 7: todos alteram o mapa anexo (quadros de pessoal) só em imagem; não há título de anexo no texto atual, em nao_aplicavel"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

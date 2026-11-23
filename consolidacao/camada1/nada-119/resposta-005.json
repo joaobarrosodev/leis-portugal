@@ -1,0 +1,349 @@
+[
+ {
+  "id": "pt:dre:473882:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 1.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 2.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 3.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 4.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 5.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 6.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 7.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 8.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original (que vem como ARTIGO 9.º, só diferença de maiúsculas na chave); nenhuma instrução o altera textualmente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 1.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 1.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 2.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 2.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 3.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 3.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 4.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 4.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 5.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 5.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 6.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 6.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 7.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 7.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 8.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 8.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 9.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo artigo do consolidado Artigo 9.º, só difere a grafia da chave; não é artigo em falta.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 797/74, artigo único: data limite do art. 4.º, n.º 1, alterada para 31 de Março de 1975",
+    "motivo": "Confirmado no alterador: só muda uma data-limite (prorrogação de prazo), sem dar nova redação ao número; mantido o texto original, sem erro."
+   },
+   {
+    "instrucao": "DL 273/75, art. 1.º: data limite do art. 4.º, n.º 1, alterada para 30 de Junho de 1975",
+    "motivo": "Confirmado no alterador: prorrogação de prazo, sem nova redação do número."
+   },
+   {
+    "instrucao": "DL 729-K/75, art. 10.º, n.º 2: prazo do art. 7.º do DL 450/74 prorrogado até 16 de Julho de 1976",
+    "motivo": "Confirmado no alterador: prorrogação de prazo, sem nova redação do artigo."
+   },
+   {
+    "instrucao": "DL 882/76, artigo único: prazo do art. 7.º passa a ser o da alínea b) do art. 18.º do DL 43453",
+    "motivo": "Confirmado no alterador: remete para outro prazo, sem nova redação do artigo (prorrogação/alteração de prazo não textual)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:482388:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DLR 14/2010/M art. 8.º dá nova redação aos n.os 2 e 3 (n.os 1 e 4 com «...» mantêm-se); consolidado reproduz-a letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 14/2010/M, art. 1.º: mapas I a IX substituem os do art. 1.º do original",
+    "motivo": "Confirmado: os mapas do alterador só trazem «(ver documento original)», sem texto nem endereço de imagem, e o consolidado não tem anexo com título de mapas onde os pôr."
+   },
+   {
+    "instrucao": "DLR 14/2010/M, arts. 2.º, 7.º, 9.º: alteram DLR 3/2001/M e DLR 6/2006/M; arts. 3.º a 6.º e 10.º a 17.º disposições próprias",
+    "motivo": "Outro diploma ou disposições autónomas do alterador, não alteram o original."
+   },
+   {
+    "instrucao": "DLR 2/2011/M, art. 35.º (art. 7.º do DLR 34/2008/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas diz que o original só é citado como diploma que deu redação (não confirmado no texto, que não vem na vista)."
+   },
+   {
+    "instrucao": "DLR 20/2011/M (art. 2.º do DLR 3/2001/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   },
+   {
+    "instrucao": "DLR 5/2012/M, art. 17.º (art. 7.º do DLR 34/2008/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   },
+   {
+    "instrucao": "DLR 42/2012/M (DLR 11/83/M, art. 2.º do DLR 2/2001/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   },
+   {
+    "instrucao": "DLR 28/2013/M (DLR 42/2012/M, 2/2011/M, 34/2008/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   },
+   {
+    "instrucao": "DLR 31-A/2013/M, art. 57.º (DLR 11/83/M)",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   },
+   {
+    "instrucao": "DLR 18/2014/M, 6/2015/M, 17/2015/M, 42-A/2016/M, 2/2018/M, 6/2018/M, 26/2018/M, 1-A/2020/M",
+    "motivo": "Texto omitido na vista; triagem às cegas diz que não mencionam o original e visam outros diplomas. Não consegui confirmar no texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (mapas por aplicar, ver justificadas)"
+ },
+ {
+  "id": "pt:dre:508054:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Original vem num só bloco; o consolidado separa o preâmbulo dos artigos sem mudar uma palavra (comparado palavra a palavra).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao existente no bloco original (original sem artigos separados); só a segmentação mudou.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 558/71, art. 1.º, n.os 1 e 2: novas designações das categorias e números de lugares no quadro geral anexo ao DL 46736",
+    "motivo": "Confirmado: o quadro geral do original só existe em imagem («ver documento original»), o consolidado não tem anexo com título e o alterador não traz imagem nova; os restantes artigos do alterador são disposições próprias."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:524634:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DRR 1-A/98/A, art. 1.º: Governo passa a incluir o Secretário Regional Adjunto",
+    "motivo": "Texto omitido; triagem às cegas diz não textual (acrescenta membro sem nova redação). Não confirmado no texto."
+   },
+   {
+    "instrucao": "DRR 28-A/98/A, art. 1.º: Governo passa a incluir um Subsecretário",
+    "motivo": "Texto omitido; triagem às cegas diz não textual. Não confirmado no texto."
+   },
+   {
+    "instrucao": "DRR 2-A/2000/A, art. 1.º: constituição passa a incluir um Secretário Regional do Ambiente",
+    "motivo": "Confirmado no texto: acrescenta membro sem dar nova redação a nenhum artigo do original."
+   },
+   {
+    "instrucao": "DRR 2-A/2000/A, art. 3.º: membro da alínea d) do art. 2.º passa a designar-se Secretário Regional da Agricultura e Pescas",
+    "motivo": "Confirmado no texto: mudança de designação sem nova redação da alínea."
+   },
+   {
+    "instrucao": "DRR 15/2000/A: altera DRR 6/94/A",
+    "motivo": "Outro diploma; texto omitido, triagem às cegas (não confirmado no texto)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

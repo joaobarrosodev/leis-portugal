@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nÉ criado na Direcção Geral de Administração Política e Civil o Conselho Nacional dos Serviços de Incêndios, constituído pelo director geral, que servirá de presidente, pelos comandantes dos batalhões de sapadores bombeiros e por mais dois vogais, representantes dos corpos de bombeiros voluntários, nomeados livremente pelo Ministro do Interior.\n\n§ 1.º Os vogais do Conselho Nacional dos Serviços de Incêndios que forem funcionários exercem os cargos sem direito a remuneração; os que o não forem terão direito a senhas de presença às sessões, cuja importância será fixada por despacho do Ministro do Interior, ouvido o Ministro das Finanças.\n\nOs vogais que não residirem em Lisboa terão ainda direito a abono de transporte e a ajudas de custo.\n\n§ 2.º As despesas a que se refere o parágrafo anterior constituem encargo do Estado, devendo ser abonadas no corrente ano económico pela verba da alínea 3) do artigo 41.º do capítulo 3.º do orçamento do Ministério do Interior, que, para esse efeito, será oportunamente reforçado.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.",
+    "excerto": "São revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155655:por",
+    "alterador": "pt:dre:324536:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nCompete ao Conselho Nacional dos Serviços de Incêndios:\n\n1.º Fomentar a criação de corpos de bombeiros nas localidades onde se tornem necessários e indicar aos corpos existentes os serviços que mais convenha estabelecer;\n\n2.º Propor a distribuição da colecta cobrada pela Inspecção de Seguros;\n\n3.º Dar parecer sobre os pedidos de constituição de associações humanitárias, antes de concedida a respectiva autorização pelo governador civil;\n\n4.º Aprovar os regulamentos dos corpos de bombeiros voluntários e privativos;\n\n5.º Fiscalizar a observância, pelos corpos de bombeiros, das leis e regulamentos e transmitir-lhes as instruções necessárias;\n\n6.º Exercer as demais atribuições que lhe forem confiadas pelas leis ou regulamentos.\n\n§ 1.º No exercício da competência a que se refere o n.º 2.º será o Conselho Nacional dos Serviços de Incêndios assistido de um delegado da Inspecção de Seguros, com direito de voto.\n\n§ 2.º Para facilitar o desempenho das suas atribuições e daquelas que se acham confiadas aos inspectores de zonas pode o Conselho Nacional dos Serviços de Incêndios nomear delegados regionais, sem direito a remuneração.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.",
+    "excerto": "São revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155655:por",
+    "alterador": "pt:dre:324536:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.\n\n> Revogado pelo/a [Lei n.º 10/79](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), publicado em 1979-03-20.",
+    "excerto": "São revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155655:por",
+    "alterador": "pt:dre:383426:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 388/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1978-324536), publicado em 1978-12-09.\n\n> Revogado pelo/a [Lei n.º 10/79](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), publicado em 1979-03-20.",
+    "excerto": "São revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155655:por",
+    "alterador": "pt:dre:383426:por"
+  }
+]

@@ -6,6 +6,9 @@ consolidacao:
   metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:456785:por
+    title: Decreto-Lei n.º 131/2008
+    publication_date: '2008-07-21'
   - id: pt:dre:670027:por
     title: Decreto-Lei n.º 79/2011
     publication_date: '2011-06-20'
@@ -621,7 +624,9 @@ d) 60% para os cofres do Estado.
 
 ###### Artigo 28.º — Alteração ao anexo I ao anexo da Portaria n.º 577/95, de 16 de Junho
 
-No anexo I do Regulamento das Medidas Gerais de Luta contra Certas Doenças Animais, bem como Medidas Específicas Respeitantes à Doença Vesiculosa do Suíno, aprovado pela Portaria n.º 577/95, de 16 de Junho, o termo «doença de Teschen» é substituído por «peste suína africana».
+(Revogado.)
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 131/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2008-456785), publicado em 2008-07-21.
 
 ###### Artigo 29.º — Entrada em vigor
 

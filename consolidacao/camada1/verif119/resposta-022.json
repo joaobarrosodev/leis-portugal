@@ -1,0 +1,108 @@
+[
+ {
+  "id": "pt:dre:605805:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 525/75 art. 1.º (n.os 2 a 6 novos, n.º 1 mantido) e DL 741/76 (n.º 3 corpo e al. b)) e DL 114/79 (n.º 3 al. a)) aplicados correctamente."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 525/75 art. 1.º: n.º 1 al. b) nova, n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 525/75 art. 1.º: al. a) nova, restantes mantidas."
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 741/76 art. 1.º: al. c) nova redacção aplicada; a extinção do DGAFA (DL 412/83) não é textual."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "errado",
+    "motivo": "Revogação pelo DL 550-E/76 art. 2.º aplicada, mas a seguir a (Revogado.) ficaram fragmentos truncados e desordenados dos novos Mapa n.º 1 III) e Mapa n.º 3 1) do DL 525/75 art. 2.º n.º 1, e o Anexo ao Decreto-Lei n.º 296/72 mantém o texto antigo desses mapas (III do Mapa 1 e 1) do Mapa 3 não substituídos).",
+    "texto_esperado": "###### Artigo 8.º\n\n(Revogado.)\n\n[seguido do «Visto e aprovado...» e do «Anexo ao Decreto-Lei n.º 296/72» com o Mapa n.º 1 (n.º III) substituído e o Mapa n.º 3 (n.º 1) substituído nos termos do art. 2.º, n.º 1, do DL 525/75, sem fragmentos desses mapas dentro do artigo 8.º]"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 525/75, art. 1.º: nova redacção do segundo parágrafo do preâmbulo (texto «Sendo ainda a todos os títulos aconselhável oficializar a constituição, como órgão de execução próprio do Serviço de Saúde, e dar designação mais adequada ao Centro de Medicina e Psicotecnia...»): o preâmbulo consta do consolidado como item «(preâmbulo)» igual ao original, logo o alvo é conhecido e a instrução não foi aplicada.",
+   "DL 525/75, art. 2.º, n.º 1: substituição do n.º III) do Mapa n.º 1 e do n.º 1) do Mapa n.º 3 do anexo: não aplicada no anexo (que mantém o texto antigo); o texto novo aparece truncado e fora do sítio dentro do artigo 8.º."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 412/83, art. 1.º: extinção do Depósito Geral de Adidos da Força Aérea e criação da Base do Lumiar (visa o art. 5.º)",
+    "motivo": "não é textual: não dá nova redacção nem revoga expressamente o art. 5.º do DL 296/72 (confirmado no texto do DL 412/83)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "preâmbulo: segundo parágrafo por alterar (ver instrucoes_em_falta); anexo: Mapa 1 III) e Mapa 3 1) não substituídos (ver artigo 8.º)"
+ },
+ {
+  "id": "pt:dre:606481:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 429/82 art. 1.º: n.º 1 (corpo actual) e n.º 2 novo."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redacção do DL 429/82 art. 1.º, n.os 1 a 5, letra a letra."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 4 mantidos e n.º 5 com a nova redacção."
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; visto/promulgação passaram para depois do novo artigo 24.º, que não é texto do artigo."
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo art. 2.º do DL 429/82, texto igual."
+   },
+   {
+    "artigo": "ANEXO 1",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º do DL 429/82 substitui o anexo 1; o endereço da imagem é o do anexo do alterador (34993501.pdf)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:616427:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Anexo em imagem; acrescentadas as linhas das imagens do DR 5/92 (aditamento), DR 16/93 (alteração parcial) e DR 31/99 (alteração parcial), cada uma com o endereço da imagem do respectivo alterador."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 121/2008 (mapa VIII republicado) e consequente revogação do DR 16/91 com excepções, tal como descrita por quem consolidou: alvo incerto; o texto do DL 121/2008 vem omitido na vista, não o posso confirmar nem dizer que artigos 1.º a 6.º ficam revogados."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 553/99, art. 11.º, al. b): revoga o mapa anexo ao DR 16/91 na parte aplicável às carreiras de observador meteorológico, geofísico e operador de telecomunicações",
+    "motivo": "o mapa só existe em imagem e o alterador não traz texto/imagem novos; não se pode retirar a parte revogada de uma imagem (confirmado no art. 11.º do DL 553/99)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

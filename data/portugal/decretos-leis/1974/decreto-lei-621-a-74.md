@@ -28,10 +28,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-09-27'
+version_history:
+  file: decreto-lei-621-a-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-09-27'
+    amending: pt:dre:468178:por
+    amending_title: Rectificação; Decreto-Lei n.º 3/75; Decreto-Lei n.º 38-B/75; Decreto-Lei n.º 86/75; Decreto-Lei n.º 541-A/75
+    changes:
+    - Altera Artigo 50.º
+    - Altera Artigo 10.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 40.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +80,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:35:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Rectificação; Decreto-Lei n.º 3/75;
+    Decreto-Lei n.º 38-B/75; Decreto-Lei n.º 86/75; Decreto-Lei n.º 541-A/75. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-621-a-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,17 +190,17 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 #### SECÇÃO I — Princípios gerais
 
-###### ARTIGO 1.º — (Capacidade eleitoral activa)
+###### Artigo 1.º — (Capacidade eleitoral activa)
 
 1 - São eleitores da Assembleia Constituinte os cidadãos portugueses de ambos os sexos, maiores de 18 anos, completados até 28 de Fevereiro de 1975, residentes no território eleitoral ou nos territórios ultramarinos ainda sob administração portuguesa, assim como os aí não residentes indicados no presente diploma.
 
 2 - Considera-se território eleitoral o território do continente e ilhas adjacentes.
 
-###### ARTIGO 2.º — (Portugueses plurinacionais)
+###### Artigo 2.º — (Portugueses plurinacionais)
 
 Os portugueses havidos também como cidadãos de outro Estado não perdem por esse facto a qualidade de eleitores.
 
-###### ARTIGO 3.º — (Incapacidades eleitorais)
+###### Artigo 3.º — (Incapacidades eleitorais)
 
 Não são eleitores:
 
@@ -189,7 +214,7 @@ d) Os que não gozam de capacidade eleitoral activa nos termos do artigo 8.º
 
 #### SECÇÃO II — Regras especiais
 
-###### ARTIGO 4.º — (Portugueses residentes no estrangeiro)
+###### Artigo 4.º — (Portugueses residentes no estrangeiro)
 
 Os cidadãos portugueses residentes no estrangeiro são eleitores desde que preencham alguma das condições seguintes:
 
@@ -201,13 +226,13 @@ Os cidadãos portugueses residentes no estrangeiro são eleitores desde que pree
 
 ### CAPÍTULO II — Capacidade eleitoral passiva
 
-###### ARTIGO 5.º — (Capacidade eleitoral passiva)
+###### Artigo 5.º — (Capacidade eleitoral passiva)
 
 1 - São elegíveis para a Assembleia Constituinte todos os cidadãos eleitores maiores de 21 anos, salvo o disposto nos artigos seguintes.
 
 2 - Os funcionários civis do Estado ou de outras pessoas colectivas públicas não precisam de autorização para se candidatarem a Deputado à Assembleia Constituinte.
 
-###### ARTIGO 6.º — (Inelegibilidades gerais)
+###### Artigo 6.º — (Inelegibilidades gerais)
 
 São inelegíveis para a Assembleia Constituinte:
 
@@ -221,31 +246,35 @@ d) Os magistrados judiciais ou do Ministério Público e os militares, enquanto 
 
 e) Os que não gozam da capacidade eleitoral passiva nos termos do artigo 8.º
 
-###### ARTIGO 7.º — (Inelegibilidades locais)
+###### Artigo 7.º — (Inelegibilidades locais)
 
 Não podem candidatar-se pelo círculo onde exerçam a sua actividade as seguintes autoridades militares, administrativas e eclesiásticas: comandantes militares ou de forças militarizadas territoriais, governadores civis e seus substitutos, secretários de governos civis, administradores de bairro, presidentes e vice-presidentes de câmaras ou comissões administrativas municipais, directores e chefes de repartição de finanças e ministros de qualquer religião ou culto com poderes de jurisdição.
 
 ### CAPÍTULO III — Incapacidades cívicas
 
-###### ARTIGO 8.º — (Incapacidades cívicas)
+###### Artigo 8.º — (Incapacidades cívicas)
 
 O Governo Provisório estabelecerá por decreto-lei, a sancionar pelo Conselho de Estado, quais as incapacidades eleitorais activas e passivas determinadas pelo exercício de certas funções públicas ou pela participação em organizações antidemocráticas antes de 25 de Abril de 1974.
 
 ### CAPÍTULO IV — Exercício do cargo de Deputado
 
-###### ARTIGO 9.º — (Incompatibilidade com o exercício de funções públicas)
+###### Artigo 9.º — (Incompatibilidade com o exercício de funções públicas)
 
 Desde a apresentação das candidaturas e durante o mandato os funcionários do Estado e de outras pessoas colectivas públicas não podem exercer as respectivas funções.
 
-###### ARTIGO 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)
+###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)
 
-A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Conselho de Estado ou do Governo Provisório.
+1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
 
-###### ARTIGO 11.º — (Exercício da função de Deputado e direito a emprego permanente)
+2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
+
+> Alterado pelo/a [Decreto-Lei n.º 541-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716), publicado em 1975-09-27.
+
+###### Artigo 11.º — (Exercício da função de Deputado e direito a emprego permanente)
 
 Ninguém pode ser prejudicado na sua colocação ou emprego permanentes por virtude do desempenho das funções de Deputado à Assembleia Constituinte.
 
-###### ARTIGO 12.º — (Imunidades dos Deputados)
+###### Artigo 12.º — (Imunidades dos Deputados)
 
 1 - Os Deputados à Assembleia Constituinte não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
 
@@ -253,7 +282,7 @@ Ninguém pode ser prejudicado na sua colocação ou emprego permanentes por virt
 
 3 - Movido procedimento criminal contra algum Deputado e indiciado este por despacho de pronúncia ou equivalente, fora do caso previsto no número anterior, a Assembleia decidirá se o Deputado deve ou não ser suspenso, para efeito do seguimento do processo.
 
-###### ARTIGO 13.º — (Regalias e direitos)
+###### Artigo 13.º — (Regalias e direitos)
 
 1 - Os Deputados à Assembleia Constituinte:
 
@@ -265,7 +294,7 @@ c) Terão o direito de requerer os elementos, informações e publicações ofic
 
 2 - Os Deputados terão ainda direito a cartão especial de identificação e ao subsídio que o Governo fixar, por decreto, logo que esteja marcada a data da eleição.
 
-###### ARTIGO 14.º — (Perda do mandato)
+###### Artigo 14.º — (Perda do mandato)
 
 1 - Perdem o mandato os Deputados à Assembleia Constituinte que:
 
@@ -275,7 +304,7 @@ b) Não tomem assento na Assembleia até à quinta reunião ou deixem de compare
 
 2 - Compete à Mesa da Assembleia Constituinte declarar a perda do mandato em que incorrer qualquer dos Deputados.
 
-###### ARTIGO 15.º — (Renúncia ao mandato)
+###### Artigo 15.º — (Renúncia ao mandato)
 
 1 - Os Deputados à Assembleia Constituinte poderão renunciar ao seu mandato.
 
@@ -285,11 +314,11 @@ b) Não tomem assento na Assembleia até à quinta reunião ou deixem de compare
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 16.º — (Universalidade do recenseamento)
+###### Artigo 16.º — (Universalidade do recenseamento)
 
 Devem ser inscritos no recenseamento todos os cidadãos que possuam capacidade eleitoral.
 
-###### ARTIGO 17.º — (Oficiosidade e obrigatoriedade)
+###### Artigo 17.º — (Oficiosidade e obrigatoriedade)
 
 1 - A inscrição dos eleitores no recenseamento será feita oficiosamente pelas comissões de recenseamento.
 
@@ -297,11 +326,11 @@ Devem ser inscritos no recenseamento todos os cidadãos que possuam capacidade e
 
 3 - Fora do território eleitoral, o recenseamento é voluntário.
 
-###### ARTIGO 18.º — (Dever de verificação)
+###### Artigo 18.º — (Dever de verificação)
 
 Todo o eleitor tem o dever de verificar se está devidamente inscrito e, em caso de erro ou omissão, o de requerer a respectiva rectificação ou inscrição.
 
-###### ARTIGO 19.º — (Organização do recenseamento)
+###### Artigo 19.º — (Organização do recenseamento)
 
 1 - O recenseamento eleitoral será organizado por freguesias.
 
@@ -313,7 +342,7 @@ Todo o eleitor tem o dever de verificar se está devidamente inscrito e, em caso
 
 5 - Nos casos referidos no n.º 3, o recenseamento será elaborado por cadernos nas mesmas condições consignadas no n.º 2. Desses cadernos serão enviadas cópias para o Ministério da Administração Interna, bem como, no caso dos residentes no estrangeiro, para o Ministério dos Negócios Estrangeiros e, no caso dos residentes nos territórios ultramarinos ainda sob administração portuguesa, para o Ministério da Coordenação Interterritorial.
 
-###### ARTIGO 20.º — (Local do recenseamento)
+###### Artigo 20.º — (Local do recenseamento)
 
 1 - Os eleitores residentes no território eleitoral serão inscritos na freguesia da sua residência habitual.
 
@@ -325,17 +354,17 @@ b) Os residentes nos territórios ultramarinos ainda sob administração portugu
 
 3 - Salvo quanto aos eleitores que aí vivam permanentemente, não pode ser considerado local de residência para o efeito do recenseamento qualquer edifício ou repartição do Estado ou de outra pessoa colectiva pública, fábrica, oficina, hospital ou asilo.
 
-###### ARTIGO 21.º — (Unicidade da inscrição)
+###### Artigo 21.º — (Unicidade da inscrição)
 
 Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
-###### ARTIGO 22.º — (Teor da inscrição)
+###### Artigo 22.º — (Teor da inscrição)
 
 1 - A inscrição dos eleitores deverá ser feita pelo seu nome completo, filiação, data e local do nascimento e morada, com a indicação do lugar e da rua, número e andar do prédio.
 
 2 - Da inscrição constará também o número do bilhete de identidade, quando o eleitor o exiba ou esse número possa ser apurado, e ainda que haja expirado o seu prazo de validade.
 
-###### ARTIGO 23.º — (Elaboração do recenseamento)
+###### Artigo 23.º — (Elaboração do recenseamento)
 
 1 - O recenseamento será elaborado por uma comissão de recenseamento: no território eleitoral, em cada freguesia; no estrangeiro, em cada área geográfica que vier a ser indicada pelo Ministério dos Negócios Estrangeiros; nos territórios ultramarinos ainda sob administração portuguesa, em cada unidade territorial que vier a ser fixada pela autoridade superior no território.
 
@@ -345,7 +374,7 @@ Ninguém pode estar inscrito mais do que uma vez no recenseamento.
 
 #### SECÇÃO I — Comissões de recenseamento
 
-###### ARTIGO 24.º — (Composição e designação)
+###### Artigo 24.º — (Composição e designação)
 
 1 - As comissões de recenseamento compõem-se de cinco membros, um dos quais será o presidente, todos designados pelo presidente da câmara ou da comissão administrativa municipal, de entre personalidades que se identifiquem com o programa do Movimento das Forças Armadas.
 
@@ -361,11 +390,11 @@ As comissões deverão ficar constituídas até 30 de Novembro de 1974 e delas s
 
 6 - Fora do território eleitoral, as comissões de recenseamento serão designadas: quanto ao estrangeiro, pelas autoridades diplomáticas ou consulares, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território. Estas entidades assegurarão o cumprimento, com as adaptações exigidas pelo condicionalismo local, do disposto nos n.os 1 a 4, nomeadamente fixando outras datas limite e decidindo das reclamações previstas no n.º 2.
 
-###### ARTIGO 25.º — (Requisição ou pedido de informações ou de esclarecimentos)
+###### Artigo 25.º — (Requisição ou pedido de informações ou de esclarecimentos)
 
 As comissões de recenseamento poderão requisitar directamente a quaisquer organismos oficiais ou solicitar a entidades privadas as informações ou esclarecimentos de que careçam.
 
-###### ARTIGO 26.º — (Funcionamento)
+###### Artigo 26.º — (Funcionamento)
 
 1 - As comissões de recenseamento funcionarão na sede das juntas de freguesia ou em local por elas previamente anunciado, em todos os dias, durante o período de inscrição, das 19 às 23 horas, e aos sábados, domingos e feriados, das 9 às 12 horas e 30 minutos e das 15 às 20 horas.
 
@@ -375,19 +404,19 @@ As comissões de recenseamento poderão requisitar directamente a quaisquer orga
 
 #### SECÇÃO II — Delegados dos partidos políticos
 
-###### ARTIGO 27.º — (Delegados dos partidos políticos)
+###### Artigo 27.º — (Delegados dos partidos políticos)
 
 1 - Para os fins do disposto no artigo 23.º, os partidos políticos indicarão aos presidentes das câmaras ou das comissões administrativas municipais os nomes dos delegados que designarem para cooperar com as comissões de recenseamento.
 
 2 - Aquelas autoridades devem comunicar imediatamente às comissões de recenseamento os nomes indicados.
 
-###### ARTIGO 28.º — (Trabalho em conjunto com as comissões de recenseamento)
+###### Artigo 28.º — (Trabalho em conjunto com as comissões de recenseamento)
 
 Os delegados dos partidos políticos reunirão com as comissões de recenseamento quando estas para tal os convocarem.
 
 ### CAPÍTULO III — Operações do recenseamento
 
-###### ARTIGO 29.º — (Anúncio do recenseamento)
+###### Artigo 29.º — (Anúncio do recenseamento)
 
 Imediatamente após a publicação da presente lei:
 
@@ -399,13 +428,15 @@ c) As autoridades diplomáticas ou consulares competentes anunciarão aos reside
 
 d) A autoridade superior no território promoverá a publicação de idênticos anúncios nos territórios ultramarinos ainda sob administração portuguesa.
 
-###### ARTIGO 30.º — (Período de inscrição)
+###### Artigo 30.º — (Período de inscrição)
 
-1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 a 29 de Dezembro de 1974.
+1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.
 
 2 - A inscrição dos eleitores residentes fora do território eleitoral no recenseamento para a eleição da Assembleia Constituinte decorrerá entre datas a fixar, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território, por forma que os eleitores disponham do prazo mínimo de quinze dias para procederem à inscrição.
 
-###### ARTIGO 31.º — (Processo de inscrição)
+> Alterado pelo/a [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), publicado em 1975-01-07.
+
+###### Artigo 31.º — (Processo de inscrição)
 
 1 - Cada eleitor deverá ser inscrito nos cadernos do recenseamento mediante o preenchimento e a apresentação de um verbete individual, de modelo anexo a este diploma.
 
@@ -417,35 +448,39 @@ d) A autoridade superior no território promoverá a publicação de idênticos 
 
 5 - O reconhecimento notarial será gratuito.
 
-###### ARTIGO 32.º — (Cadernos de recenseamento)
+###### Artigo 32.º — (Cadernos de recenseamento)
 
 1 - Durante o período referido no artigo 30.º os eleitores serão inscritos, dia por dia, num caderno provisório, de forma a poder determinar-se a data de cada inscrição.
 
-2 - Findo esse período, será elaborado, no prazo de oito dias, o caderno definitivo dos eleitores inscritos segundo a ordem alfabética dos seus nomes próprios.
+2 - Findo esse período, será elaborado, no prazo de duas semanas, o caderno definitivo dos eleitores inscritos segundo a ordem alfabética dos seus nomes próprios.
 
-3 - As inscrições autorizadas ou ordenadas depois de 29 de Dezembro de 1974 serão feitas, por ordem alfabética, num caderno suplementar.
+3 - As inscrições autorizadas ou ordenadas depois de 8 de Janeiro de 1975 serão feitas por ordem alfabética, num caderno suplementar.
 
 4 - Os cadernos de recenseamento serão numerados e rubricados, em todas as suas folhas, pelo presidente da comissão de recenseamento e terão termos de abertura e de encerramento subscritos por todos os membros da comissão, declarando-se no termo de encerramento o número de eleitores inscritos.
 
-###### ARTIGO 33.º — (Informações relativas a funcionários e trabalhadores)
+> Alterado pelo/a [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), publicado em 1975-01-07.
+
+###### Artigo 33.º — (Informações relativas a funcionários e trabalhadores)
 
 1 - No território eleitoral os serviços e repartições civis, militares e militarizados do Estado, os serviços das autarquias locais e das pessoas colectivas de utilidade pública administrativa e, bem assim, as empresas públicas e as empresas concessionárias de serviços públicos, de obras públicas e de bens do domínio público deverão remeter, até 14 de Dezembro de 1974, às comissões de recenseamento da freguesia da residência habitual dos seus funcionários e trabalhadores relações daqueles que estejam em idade eleitoral. Dessas relações constarão os elementos de identificação referidos no artigo 22.º
 
 2 - De igual modo, e até à mesma data, as direcções das instituições de previdência deverão remeter relações dos seus beneficiários às comissões de recenseamento competentes.
 
-###### ARTIGO 34.º — (Informações relativas a interditos e condenados)
+###### Artigo 34.º — (Informações relativas a interditos e condenados)
 
 1 - No território eleitoral os juízes de direito e os auditores dos tribunais militares enviarão, por intermédio das respectivas secretarias, às comissões de recenseamento competentes, até 27 de Dezembro de 1974, nota dos cidadãos em idade eleitoral a cumprir pena por crime doloso e, bem assim, dos interditos em virtude de anomalia psíquica, surdez-mudez ou cegueira e dos condenados em suspensão de direitos políticos.
 
 2 - As mesmas autoridades judiciais deverão comunicar imediatamente às comissões de recenseamento competentes os nomes dos eleitores que até à data da eleição vierem a ficar nalguma das situações previstas no número anterior.
 
-###### ARTIGO 35.º — (Informações relativas a internados em estabelecimento psiquiátrico)
+###### Artigo 35.º — (Informações relativas a internados em estabelecimento psiquiátrico)
 
 No território eleitoral os directores de estabelecimentos de hospitalização de alienados deverão enviar, até 27 de Dezembro de 1974, às comissões de recenseamento das freguesias das respectivas residências, antes do internamento, relações dos cidadãos em idade eleitoral.
 
-###### ARTIGO 36.º — (Exposição de cópia para exame e reclamação)
+###### Artigo 36.º — (Exposição de cópia para exame e reclamação)
 
-1 - De 7 a 16 de Janeiro de 1975 estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.
+1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.
+
+Sem prejuízo do cumprimento da data limite de 11 de Fevereiro, o período da exposição dos cadernos definitivos não poderá ser inferior a cinco dias nem superior a dez dias.
 
 2 - O disposto no n.º 1 é igualmente válido, fora do território eleitoral, nos consulados de carreira, secções consulares ou embaixadas indicadas para efeito de recenseamento e nos locais dos territórios ultramarinos ainda sob administração portuguesa fixados nos termos do n.º 1 do artigo 23.º
 
@@ -453,47 +488,71 @@ No território eleitoral os directores de estabelecimentos de hospitalização d
 
 4 - Os partidos políticos poderão obter cópia ou fotocópia dos cadernos eleitorais a que se referem os números anteriores desde que paguem as despesas ou ponham à disposição das comissões de recenseamento os meios técnicos adequados.
 
-###### ARTIGO 37.º — (Reclamações)
+> Alterado pelo/a [Decreto-Lei n.º 38-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-1975-617141), publicado em 1975-01-31.
 
-1 - Até 18 de Janeiro de 1975 poderá qualquer eleitor reclamar, perante a comissão de recenseamento, das omissões ou inscrições indevidas no caderno de recenseamento da sua freguesia. O mesmo direito têm os partidos políticos em todo o território eleitoral.
+###### Artigo 37.º — (Reclamações)
 
-2 - A comissão de recenseamento decidirá as reclamações até 23 de Janeiro de 1975, devendo afixar imediatamente as suas decisões na sede da junta de freguesia ou no local do seu funcionamento.
+1 - Até 11 de Fevereiro de 1975 poderá qualquer eleitor reclamar, perante a comissão de recenseamento, das omissões ou inscrições indevidas no caderno de recenseamento da sua freguesia. O mesmo direito têm os partidos políticos em todo o território eleitoral.
+
+Sem prejuízo do cumprimento da data limite de 11 de Fevereiro, as reclamações não podem ser feitas para além de dois dias do termo do prazo da exposição.
+
+2 - A comissão de recenseamento decidirá as reclamações no prazo máximo de cinco dias, sem prejuízo da data limite de 12 de Fevereiro de 1975, devendo afixar imediatamente as suas decisões na sede da junta de freguesia ou no local do seu funcionamento.
 
 3 - O direito de reclamação referido no n.º 1 pode, com as necessárias adaptações, ser exercido fora do território eleitoral por qualquer eleitor.
 
-###### ARTIGO 38.º — (Recursos)
+> Alterado pelo/a [Decreto-Lei n.º 38-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-1975-617141), publicado em 1975-01-31.
 
-1 - Das decisões da comissão poderão recorrer para o juiz de direito da comarca respectiva, até 25 de Janeiro de 1975, o reclamante ou outro interessado, oferecendo com o requerimento todos os elementos necessários para a apreciação do recurso. As petições serão apresentadas directamente no tribunal.
+###### Artigo 38.º — (Recursos)
+
+1 - Das decisões da comissão poderão recorrer para o juiz de direito da comarca respectiva, até 13 de Fevereiro de 1975, o reclamante ou outro interessado, oferecendo com o requerimento todos os elementos necessários para a apreciação do recurso.
+
+As petições serão apresentadas directamente no tribunal.
+
+Sem prejuízo do cumprimento da data limite, não pode o recurso ser interposto senão até cinco dias a contar da data da decisão da reclamação pela comissão de recenseamento.
 
 2 - Nas comarcas em que haja mais de uma vara, a competência para o julgamento do recurso pertencerá à 1.ª vara; nas restantes comarcas onde haja mais do que um juízo, pertencerá ao 1.º juízo.
 
-3 - O juiz, depois de mandar autuar os recursos interpostos das decisões da mesma comissão de recenseamento num único processo, decidirá até 30 de Janeiro de 1975, mandando notificar imediatamente a comissão de recenseamento e o recorrente da sua decisão. Desta não é admissível recurso.
+3 - O juiz, depois de mandar autuar os recursos interpostos das decisões da mesma comissão de recenseamento num único processo, decidirá até 15 de Fevereiro de 1975, mandando notificar imediatamente a comissão de recenseamento e o recorrente da sua decisão. Desta não é admissível recurso.
 
 4 - Fora do território eleitoral, o recurso será interposto, para a autoridade diplomática ou consular quanto ao estrangeiro, para a autoridade superior do território, quanto aos territórios ultramarinos ainda sob administração portuguesa.
 
 5 - O processo será gratuito e isento de selo, bem como os documentos destinados a instruí-lo.
 
-###### ARTIGO 39.º — (Correcção dos cadernos definitivos)
+> Alterado pelo/a [Decreto-Lei n.º 38-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-1975-617141), publicado em 1975-01-31.
 
-1 - Até 1 de Fevereiro de 1975 as comissões de recenseamento eliminarão do caderno definitivo as inscrições que tenham sido consideradas indevidas e organizarão, por ordem alfabética, um caderno suplementar com as inscrições que houverem de ser feitas, mandando afixar, na sede da junta de freguesia ou no local onde funcionarem, uma relação dos nomes eliminados e dos novos eleitores inscritos.
+###### Artigo 39.º — (Correcção dos cadernos definitivos)
 
-2 - Após a publicação a que se refere o número anterior, os cadernos de recenseamento só poderão sofrer modificações no caso de morte do eleitor inscrito ou de alteração da capacidade eleitoral.
+1 - Até 17 de Fevereiro de 1975 as comissões de recenseamento eliminarão do caderno definitivo as inscrições que tenham sido consideradas indevidas e organizarão, por ordem alfabética, um caderno suplementar com as inscrições que houverem de ser feitas, mandando afixar, na sede da junta de freguesia ou no local onde funcionarem, uma relação dos nomes eliminados e dos novos eleitores inscritos.
 
-###### ARTIGO 40.º — (Número de eleitores inscritos e cópia dos cadernos de recenseamento)
+2 - Após a publicação a que se refere o número anterior e ressalvado o disposto nos números seguintes, os cadernos de recenseamento só poderão sofrer modificação no caso de morte do eleitor inscrito, de alteração da capacidade eleitoral e nos casos previstos no artigo 49.º, n.º 3, do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, na redacção dada pelo presente diploma.
 
-1 - A comissão de recenseamento de cada freguesia comunicará, por intermédio do chefe de secretaria da câmara municipal ou, em Lisboa e Porto, do administrador do bairro, ao governador civil do respectivo distrito o número de eleitores inscritos. O governador civil comunicará ao Ministério da Administração Interna, até 5 de Fevereiro de 1975, o número total de eleitores inscritos no distrito.
+3 - Relativamente aos mancebos incorporados e aos militares transferidos de unidade ou estabelecimento militar após a sua inscrição no recenseamento e até oito dias antes da eleição, o distrito de recrutamento e mobilização ou a unidade ou estabelecimento militar de origem comunicará a incorporação ou transferência à comissão de recenseamento da freguesia da inscrição, para o efeito de cancelamento desta, solicitando a passagem e a entrega de certidão de eleitor, a qual deverá acompanhar a guia de marcha para a unidade ou estabelecimento de destino, que a enviará à mesa de assembleia de voto correspondente a esta unidade ou estabelecimento até cinco dias antes da data da eleição, para efeito de aditamento ao caderno eleitoral.
 
-2 - A comissão de recenseamento enviará ao presidente da câmara ou comissão administrativa municipal ou, em Lisboa e Porto, ao administrador do bairro, até 15 de Fevereiro de 1975, uma cópia fiel do caderno definitivo e suplementar rubricada em todas as folhas pelo presidente da comissão.
+4 - A certidão a que se refere o número anterior será gratuita e devidamente assinada por um membro da comissão de recenseamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 86/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1975-160095), publicado em 1975-02-27.
+
+###### Artigo 40.º — (Número de eleitores inscritos e cópia dos cadernos de recenseamento)
+
+1 - A comissão de recenseamento de cada freguesia comunicará por intermédio do chefe de secretaria da câmara municipal ou, em Lisboa e Porto, do administrador do bairro, ao governador civil do respectivo distrito o número de eleitores inscritos. O governador civil comunicará ao Ministério da Administração Interna, até 21 de Fevereiro de 1975, o número total dos eleitores inscritos no distrito.
+
+2 - A comissão de recenseamento enviará ao presidente da câmara ou comissão administrativa municipal ou, em Lisboa e Porto, ao administrador do bairro, até 3 de Março de 1975, uma cópia fiel do caderno definitivo e suplementar rubricada em todas as folhas pelo presidente da comissão.
 
 3 - Recebidas as cópias a que se refere o número anterior, o presidente da câmara ou da comissão administrativa municipal ou o administrador do bairro mandarão proceder à organização do livro de recenseamento eleitoral do concelho ou bairro, do qual constarão, dispostos por ordem alfabética, os cadernos de recenseamento de todas as freguesias que o compõem.
 
 4 - O disposto nos n.os 1 a 3 será executado em relação aos eleitores residentes e aos cadernos de recenseamento elaborados no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa, com as adaptações exigidas pelo condicionalismo local, nos termos que vierem a ser definidos, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros e, quanto aos territórios ultramarinos, pela autoridade superior do território. Para os efeitos do disposto neste artigo, o Ministério dos Negócios Estrangeiros e o Ministério da Coordenação Interterritorial terão atribuições idênticas às do Ministério da Administração Interna, no que diz respeito aos residentes no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa, respectivamente.
 
-###### ARTIGO 41.º — (Guarda e conservação do recenseamento)
+> Alterado pelo/a [Decreto-Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759), publicado em 1975-01-07.
 
-No território eleitoral, e na véspera do dia designado para a eleição, as comissões de recenseamento entregarão os cadernos de recenseamento, bem como todos os documentos que serviram para a sua elaboração, à junta de freguesia respectiva, que os guardará sob a sua responsabilidade. Nos territórios ultramarinos ainda sob administração portuguesa a entrega será feita à autoridade superior do território, a qual os conservará e guardará sob a sua responsabilidade. Quanto ao estrangeiro, os cadernos de recenseamento, bem como os documentos que serviram para a sua elaboração, serão enviados pelas comissões de recenseamento ao Ministério dos Negócios Estrangeiros.
+###### Artigo 41.º — (Guarda e conservação do recenseamento)
 
-###### ARTIGO 42.º — (Presunção de capacidade eleitoral)
+1 - No território eleitoral, e na véspera do dia designado para a eleição, as comissões de recenseamento entregarão os cadernos de recenseamento, bem como todos os documentos que serviram para a sua elaboração, à junta de freguesia respectiva, que os guardará sob a sua responsabilidade. Nos territórios ultramarinos ainda sob administração portuguesa a entrega será feita à autoridade superior do território, a qual os conservará e guardará sob a sua responsabilidade. Quanto ao estrangeiro, os cadernos de recenseamento, bem como os documentos que serviram para a sua elaboração, serão enviados pelas comissões de recenseamento ao Ministério dos Negócios Estrangeiros.
+
+2 - Quando a junta de freguesia não oferecer condições materiais para a guarda da documentação a que se refere o número anterior, a entrega será feita pelas comissões de recenseamento à autoridade militar ou militarizada mais próxima que possa garantir aquela guarda.
+
+> Alterado pelo/a [Decreto-Lei n.º 86/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1975-160095), publicado em 1975-02-27.
+
+###### Artigo 42.º — (Presunção de capacidade eleitoral)
 
 1 - A inscrição de um cidadão no caderno de recenseamento, definitivo ou suplementar, implica a presunção de que ele tem capacidade eleitoral.
 
@@ -503,15 +562,15 @@ No território eleitoral, e na véspera do dia designado para a eleição, as co
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 43.º — (Infracções relativas ao recenseamento eleitoral)
+###### Artigo 43.º — (Infracções relativas ao recenseamento eleitoral)
 
 Consideram-se infracções relativas ao recenseamento eleitoral as previstas nos artigos seguintes.
 
-###### ARTIGO 44.º — (Concorrência com crimes mais graves)
+###### Artigo 44.º — (Concorrência com crimes mais graves)
 
 As penalidades cominadas na presente lei não excluem a aplicação de penas mais graves pela prática de qualquer crime previsto no Código Penal ou demais legislação penal.
 
-###### ARTIGO 45.º — (Circunstâncias agravantes gerais)
+###### Artigo 45.º — (Circunstâncias agravantes gerais)
 
 Para além das previstas na lei penal comum, constituem circunstâncias agravantes gerais dos ilícitos relativos ao recenseamento eleitoral:
 
@@ -519,37 +578,39 @@ Para além das previstas na lei penal comum, constituem circunstâncias agravant
 
 2.ª O facto de os seus agentes serem membros das comissões de recenseamento ou das mesas das assembleias de voto, delegados dos partidos, mandatários das listas ou candidatos a Deputados.
 
-###### ARTIGO 46.º — (Punição da tentativa e do crime frustrado)
+###### Artigo 46.º — (Punição da tentativa e do crime frustrado)
 
 Nos crimes relativos ao recenseamento a tentativa e o crime frustrado serão sempre punidos da mesma forma que o crime consumado.
 
-###### ARTIGO 47.º — (Não suspensão ou substituição por multa)
+###### Artigo 47.º — (Não suspensão ou substituição por multa)
 
 As penas aplicadas por infracções relativas ao recenseamento eleitoral não podem ser suspensas nem substituídas por qualquer outra pena.
 
-###### ARTIGO 48.º — (Suspensão de direitos políticos)
+###### Artigo 48.º — (Suspensão de direitos políticos)
 
 A condenação a pena de prisão por infracção relativa ao recenseamento eleitoral será obrigatoriamente acompanhada de condenação em suspensão de direitos políticos de um a cinco anos.
 
-###### ARTIGO 49.º — (Prescrição)
+###### Artigo 49.º — (Prescrição)
 
 O procedimento criminal por infracções relativas ao recenseamento eleitoral prescreve no prazo de um ano a contar da abertura da Assembleia Constituinte.
 
 ### CAPÍTULO II — Infracções relativas ao recenseamento eleitoral
 
-###### ARTIGO 50.º — (Inscrição dolosa)
+###### Artigo 50.º — (Inscrição dolosa)
 
-1 - Aquele que dolosamente inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.
+1 - Aquele que dolosamente se inscrever ou promover a inscrição no recenseamento de quem não tiver capacidade eleitoral ou que não cancelar uma inscrição indevida será punido com a pena de prisão de seis meses a dois anos e multa de 1000$00 a 10000$00.
 
 2 - Aquele que dolosamente se inscrever mais de uma vez ou que promover a inscrição do mesmo cidadão no recenseamento eleitoral de dois ou mais locais de recenseamento será punido com a pena de prisão de seis meses a um ano e multa de 1000$00 a 5000$00.
 
 3 - Todo o português residente no estrangeiro que, não estando nas condições previstas no artigo 4.º, der falsas informações, a fim de obter a sua inscrição no recenseamento, será punido com a pena do n.º 2. Se, porém, conseguir inscrever-se, a pena aplicável será a do n.º 1.
 
-###### ARTIGO 51.º — (Não cumprimento do dever de informação para efeito de recenseamento)
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-468178), publicado em 1974-12-17.
+
+###### Artigo 51.º — (Não cumprimento do dever de informação para efeito de recenseamento)
 
 Os responsáveis pelo envio das relações de cidadãos previstas nos artigos 33.º a 35.º, que não cumprirem a respectiva obrigação, serão punidos com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 52.º — (Obstrução à inscrição)
+###### Artigo 52.º — (Obstrução à inscrição)
 
 1 - Aquele que no território eleitoral, no intuito de impedir a sua inscrição no recenseamento eleitoral, recusar o preenchimento ou a assinatura do verbete ou a aposição nele da impressão digital será punido com prisão até seis meses e multa de 1000$00 a 5000$00.
 
@@ -557,37 +618,37 @@ Os responsáveis pelo envio das relações de cidadãos previstas nos artigos 33
 
 3 - Se o facto referido no número anterior for praticado por qualquer membro da comissão de recenseamento ou delegado de partido político a prisão será de um a dois anos.
 
-###### ARTIGO 53.º — (Impedimento à verificação de inscrição no recenseamento)
+###### Artigo 53.º — (Impedimento à verificação de inscrição no recenseamento)
 
 1 - Os membros da comissão de recenseamento que não expuserem a cópia do caderno de recenseamento no prazo do artigo 36.º serão punidos com a multa de 1000$00 a 10000$00 e, havendo dolo, com prisão até um ano.
 
 2 - Os membros da comissão de recenseamento que obstarem a que os cidadãos examinem a cópia do caderno de recenseamento serão punidos com prisão até um ano e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 54.º — (Não correcção dos cadernos definitivos e não elaboração dos suplementares)
+###### Artigo 54.º — (Não correcção dos cadernos definitivos e não elaboração dos suplementares)
 
 Os membros da comissão de recenseamento que por negligência não procedam à correcção dos cadernos definitivos ou à elaboração dos cadernos suplementares, nos termos do artigo 39.º, serão punidos com a multa de 1000$00 a 10000$00.
 
-###### ARTIGO 55.º — (Não cumprimento do dever de participação no processo eleitoral)
+###### Artigo 55.º — (Não cumprimento do dever de participação no processo eleitoral)
 
 Aquele que for nomeado para fazer parte das comissões de recenseamento e, sem motivo de força maior ou justa causa, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 20000$00.
 
-###### ARTIGO 56.º — (Falsificação de cadernos de recenseamento)
+###### Artigo 56.º — (Falsificação de cadernos de recenseamento)
 
 1 - Aquele que, por qualquer modo, viciar, substituir, suprimir, destruir ou compuser falsamente os cadernos de recenseamento será punido com a prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
 2 - Ficam sujeitos à mesma pena os membros da comissão de recenseamento que dolosamente não procedam à correcção dos cadernos definitivos ou à elaboração dos cadernos suplementares, nos termos do artigo 39.º
 
-###### ARTIGO 57.º — (Denúncia caluniosa)
+###### Artigo 57.º — (Denúncia caluniosa)
 
 Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção relativa ao recenseamento eleitoral será punido com as penas aplicáveis à denúncia caluniosa.
 
-###### ARTIGO 58.º — (Não cumprimento de outras obrigações impostas por lei)
+###### Artigo 58.º — (Não cumprimento de outras obrigações impostas por lei)
 
 Aquele que não cumprir nos seus precisos termos quaisquer obrigações que lhe são impostas pela presente lei ou retardar injustificadamente o seu cumprimento será, na falta de incriminação especial, punido com multa de 1000$00 a 10000$00.
 
 ## TÍTULO IV — Disposições gerais
 
-###### ARTIGO 59.º — (Entrada em vigor)
+###### Artigo 59.º — (Entrada em vigor)
 
 Este diploma entra imediatamente em vigor.
 

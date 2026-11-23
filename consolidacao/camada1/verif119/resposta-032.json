@@ -1,0 +1,135 @@
+[
+ {
+  "id": "pt:dre:443686:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Declaração: artigo 2.º n.º 2 c) da tabela do registo predial, 5$00 -> 4$00.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Declaração: vírgula em art. 12.º n.º 4 do registo predial.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Declaração: vírgula em art. 12.º n.º 6 do registo predial.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Declaração: vírgula em art. 19.º n.º 2 do registo comercial.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Portaria 632/87: art. 26.º substituído e aditados 27.º, 28.º e 29.º do registo comercial, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Declaração: vírgula em art. 1.º n.º 2 h) do notariado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Declaração: rectificação -> ratificação no art. 2.º c) do notariado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Declaração: art. 5.º do notariado, 100$00 -> 1000$00.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Portaria 378/87: aditado o n.º 3 do art. 9.º do notariado; n.os 1 e 2 mantêm-se.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: art. 20.º do notariado substituído por n.os 1 a 4, igual ao alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: art. 23.º n.os 1 e 2; n.os 3 a 5 do original já são iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: aditados n.os 6 e 7 ao art. 23.º do notariado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: art. 24.º n.os 1 a 3; n.º 4 antigo desaparece, como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Declaração: vírgulas em art. 25.º f) do notariado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Decreto-Lei 227/94, art. 6.º: aditado o n.º 3 do art. 26.º; n.os 1 e 2 mantêm-se («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: art. 30.º n.os 1 a 3; alíneas a) a e) do original já coincidem com as do n.º 3 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Portaria 1046/91, 5.º: art. 30.º n.º 4, com «alíneas b) e d)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria n.º 1046/91, 2.º: nova redação do art. 18.º da tabela do registo predial (novo artigo, alíneas com texto dado; os proémios «1 - ...» e «2 - ...» não têm texto atual): nada no consolidado",
+   "Portaria n.º 1046/91, 3.º: nova redação do art. 21.º da tabela do registo comercial (o art. 21.º atual, câmbio oficial, não foi alterado; proémios «...» sem texto atual, alvo parcialmente incerto)",
+   "Portaria n.º 1046/91, 4.º: aditamento do art. 8.º à tabela do registo de automóveis (alíneas com texto dado; proémios «...»): nada no consolidado"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 224/84, art. 2.º: tabela do registo predial substituída pela tabela anexa",
+    "motivo": "o diploma que altera não traz o texto da tabela anexa"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 92/90",
+    "motivo": "o texto do alterador vem omitido (não menciona o original)"
+   },
+   {
+    "instrucao": "Portaria n.º 1046/91, 1.º: artigos 11.º, 13.º, 14.º, 15.º e 16.º da tabela do registo civil",
+    "motivo": "instrução de outro diploma; a tabela do registo civil não faz parte do original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 209/2012",
+    "motivo": "altera outro diploma; texto omitido e sem menção ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

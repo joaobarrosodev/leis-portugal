@@ -27,13 +27,24 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 429/82, art. 3.º: substituição do anexo 1 (tabela de pontuação), que só vem em imagem no documento original; não aplicada.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO 1 — Tabela de pontuação dos agrupamentos de municípios para efeitos de repartição de encargos a que se refere o n.º 2 do artigo 7.º",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 429/82, art. 1.º: nova redação do art. 1.º (n.º 1 = atual corpo, n.º 2 novo), do art. 7.º e do n.º 5 do art. 8.º; aplicadas.",
-    "DL 429/82, art. 2.º: aditado o art. 24.º; aplicado.",
-    "DL 429/82, art. 3.º: substitui o anexo 1 (só em imagem); não aplicado."
+    "Alterador 1, art. 1.º: nova redação dos artigos 1.º (corpo atual passa a n.º 1, aditado n.º 2), 7.º (nova redação inteira, com n.º 3 novo) e 8.º (n.º 5 novo, n.os 1 a 4 mantidos) — aplicado.",
+    "Alterador 1, art. 2.º: aditado o artigo 24.º — aplicado.",
+    "Alterador 1, art. 3.º: anexo 1 substituído pela versão anexa, que só vem em imagem — corpo do ANEXO 1 substituído pela linha da imagem do alterador."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

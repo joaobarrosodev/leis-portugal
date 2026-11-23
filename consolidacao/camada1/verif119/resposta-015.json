@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:512987:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Consolidado igual, letra a letra, à redação do DL 257/72, art. 1.º (corpo e § único), a última a substituir o art. 8.º; revogação pelo DL 50/93 é de efeito adiado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44190 art. 2.º (§ 3.º: mapas anexos), DL 203/70 art. 2.º e DL 257/72 art. 2.º (substituição do mapa anexo n.º 1)",
+    "motivo": "texto novo só em imagem (1962/02/03500/01350137.pdf, 1970/05/11000/05950596.pdf, 1972/07/17500/09690970.pdf); consolidado sem título de anexo onde os pôr (não visível na vista)"
+   },
+   {
+    "instrucao": "DL 201/74: extinto o Comando Territorial do Algarve",
+    "motivo": "não textual: extinção sem nova redação"
+   },
+   {
+    "instrucao": "DL 705/75, art. 19.º: extinção do Comando Territorial Independente de Macau",
+    "motivo": "não textual: extinção sem nova redação do art. 8.º"
+   },
+   {
+    "instrucao": "DL 50/93, art. 31.º: revogação do DL 43351",
+    "motivo": "efeito adiado: «salvo o disposto no artigo seguinte»; art. 32.º mantém os diplomas em vigor até aos regulamentos"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

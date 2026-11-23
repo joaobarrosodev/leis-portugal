@@ -1,0 +1,13 @@
+[
+ {
+  "id": "pt:dre:233171:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação não aplicada: a Declaração de 7 de Fevereiro de 1968 (pt:dre:233702, Diário do Governo n.º 32/1968, 1.ª série), que não está nas relationships nem entre os alteradores, retifica o artigo 1.º: onde se lê «... do Fundo de Abastecimentos ...» deve ler-se «... do Fundo de Abastecimento ...». O consolidado mantém «Fundo de Abastecimentos» no artigo 1.º; o texto certo é «O quadro e vencimentos do pessoal vitalício do Fundo de Abastecimento são os constantes do mapa anexo ao presente diploma.»"
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "O Decreto-Lei n.º 95/86, de 13 de Maio (artigo 1.º), extinguiu o Fundo de Abastecimento; antes disso, a Portaria n.º 836/82, de 1 de Setembro, aprovou um novo quadro único de pessoal do Fundo (mapa só em imagem), que substituiu o mapa do artigo 1.º. Nenhum dos dois muda o texto dos artigos."
+  }
+ }
+]

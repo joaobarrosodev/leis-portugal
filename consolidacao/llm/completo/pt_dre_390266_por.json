@@ -148,7 +148,7 @@
     {
       "chave": "25.º",
       "epigrafe": "",
-      "texto": "1. (Revogado.)\n\n2. (Revogado.)\n\n3. Os bancos comerciais poderão efectuar operações de créditos à exportação nacional a médio e longo prazos, referidas no presente diploma, nas condições a seguir indicadas:\n\na) As operações de crédito a longo prazo, mediante a aplicação da parte disponível dos seus capitais próprios;\n\nb) As operações de crédito a médio prazo, pela aplicação da parte disponível dos seus capitais, pela dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos superiores a noventa dias, e de acordo com as regras legais sobre coberturas desses depósitos, e ainda pelo produto da emissão de títulos de obrigação que lhes for autorizada.",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Os bancos comerciais poderão efectuar operações de créditos à exportação nacional a médio e longo prazos, referidas no presente diploma, nas condições a seguir indicadas:\n\na) As operações de crédito a longo prazo, mediante a aplicação da parte disponível dos seus capitais próprios;\n\nb) As operações de crédito a médio prazo, pela aplicação da parte disponível dos seus capitais, pela dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos superiores a noventa dias, e de acordo com as regras legais sobre coberturas desses depósitos, e ainda pelo produto da emissão de títulos de obrigação que lhes for autorizada.",
       "alterador": 2
     },
     {
@@ -387,17 +387,19 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Decreto-Lei 48950 arts. 3.º a 8.º e 11.º: novas redações dos arts. 5.º, 6.º, 11.º, 12.º, 19.º (n.º 1), 9.º, 25.º e 26.º; sobrepostas pela revogação feita pelo Decreto-Lei 289/76, salvo o n.º 3 do art. 25.º, que fica com a redação dada pelo art. 8.º do Decreto-Lei 48950.",
-    "Decreto-Lei 48950 art. 39.º: revoga os capítulos III e IV (arts. 31.º a 61.º, seguro de créditos e Fundo de Fomento de Exportação); cada artigo fica \"(Revogado.)\".",
-    "Decreto-Lei 48950 restantes artigos (1.º, 2.º, 9.º, 10.º, 12.º a 38.º e estatutos anexos): normas próprias, não alteram o texto do original.",
-    "Decreto-Lei 289/76 art. 54.º n.º 1: revoga os capítulos I, II, V e VI (arts. 1.º a 30.º e 62.º a 64.º), com excepção do n.º 3 do art. 25.º; os n.os 1 e 2 do art. 25.º ficam revogados. Divisão em capítulos deduzida da matéria dos artigos (o texto atual não traz as epígrafes dos capítulos)."
+    "Alterador 1 (DL 48950), arts. 3.º a 8.º e 11.º: novas redações dos arts. 5.º, 6.º, 9.º, 11.º, 12.º, 19.º n.º 1, 25.º e 26.º; ficam sem efeito no texto final porque o Alterador 2 revoga esses capítulos, salvo o n.º 3 do art. 25.º, que fica na redação do art. 8.º do DL 48950.",
+    "Alterador 1 (DL 48950), art. 39.º: revoga os capítulos III e IV do original: arts. 31.º a 61.º com o corpo (Revogado.).",
+    "Alterador 2 (DL 289/76), art. 54.º, n.º 1: revoga os capítulos I, II, V e VI do original, com excepção do n.º 3 do art. 25.º na redação do art. 8.º do DL 48950: arts. 1.º a 24.º, 26.º a 30.º, 62.º a 64.º com o corpo (Revogado.); art. 25.º com os n.os 1 e 2 revogados e o n.º 3 (alíneas a) e b)) copiado do art. 8.º do DL 48950; o antigo n.º 4 desaparece com a nova redação.",
+    "Os títulos de divisão ficam como estão (a revogação dos capítulos não os elimina do texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "25.º: parágrafo que não está no alterador nem no original: 1. (Revogado.)",
-    "25.º: parágrafo que não está no alterador nem no original: 2. (Revogado.)"
-  ]
+  "ronda_camada1": 119,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -264,7 +264,9 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Tabela de pontuação dos agrupamentos de municípios para efeitos de repartição de encargos a que se refere o n.º 2 do artigo 7.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09000/09160930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24500/34993501.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ## ANEXO 2 — Lista dos documentos a enviar pelos agrupamentos de municípios às comissões de coordenação regional, a que se refere o artigo 11.º
 

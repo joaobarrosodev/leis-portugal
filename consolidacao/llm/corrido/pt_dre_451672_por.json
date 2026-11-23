@@ -1,14 +1,37 @@
 {
   "id": "pt:dre:451672:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 70,
+      "ate": 70,
+      "texto": "Artigo 16.º - Impulsos de terras e cedências de apoios.",
+      "alterador": 1
+    },
+    {
+      "de": 548,
+      "ate": 548,
+      "texto": "Classe II: Q = 100 kN; a = 0,20 m; b = 0,40 m.",
+      "alterador": 1
+    },
+    {
+      "de": 791,
+      "ate": 791,
+      "texto": "Estes coeficientes são função da esbelteza da construção - definida pelo quociente entre a altura h e a dimensão d, na direcção normal ao vento, da secção transversal - e do regime do escoamento (caracterizado pelo parâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19912024.pdf) e pela rugosidade das superfícies).",
+      "alterador": 1
+    }
+  ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (DL 95/2019, art. 18.º, n.º 2, al. a)) revoga o Regulamento de Segurança e Ações para Estruturas de Edifícios e Pontes apenas 'no que diz respeito à aplicação a estruturas para edifícios': revogação parcial quanto ao âmbito de aplicação, não textual; o Regulamento continua em vigor para pontes, pelo que não há unidade a eliminar nem a marcar como revogada.",
+  "nao_aplicavel": "Alterador 1, retificação do artigo 51.º, secção 51.1 («em que l é um comprimento de referência»): alvo incerto: a frase não está no texto atual da secção 51.1 (só a expressão em imagem e os comprimentos de referência na unidade 615, sem esse texto)\nAlterador 2, artigo 18.º, n.º 2, alínea a) (revoga o Regulamento no que diz respeito à aplicação a estruturas para edifícios): não textual: revogação parcial pelo âmbito de aplicação, sem texto a eliminar",
   "instrucoes": [
-    "DL 95/2019, art. 18.º, n.º 2, al. a): revogação do RSA quanto à aplicação a estruturas para edifícios — não aplicada ao texto (revogação de âmbito, não textual; o diploma subsiste para pontes).",
-    "DL 95/2019, arts. 9.º a 15.º: alteram outros diplomas (DL 220/2008, 118/2013, 129/2002, 163/2006, 123/2009) — ignorados.",
-    "DL 95/2019, art. 16.º: aplicação dos Eurocódigos por despacho — não é instrução textual dirigida ao original."
+    "Alterador 1: sumário, artigo 16.º, «assentamentos de apoios.» por «cedências de apoios.» (unidade 70)",
+    "Alterador 1: artigo 41.º, 41.1, alínea a), linha da Classe II retificada para «Classe II: Q = 100 kN; a = 0,20 m; b = 0,40 m» (unidade 548; a 551 é da alínea b) e fica)",
+    "Alterador 1: artigo 51.º, 51.1, retificação não aplicada (frase não está no texto atual) -> nao_aplicavel",
+    "Alterador 1: anexo I, secção 3.5, «a dimensão,» por «a dimensão d,» (unidade 791)",
+    "Alterador 2: artigos 9.º a 15.º alteram outros diplomas; artigo 18.º, n.º 2, a), revogação parcial por âmbito -> nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": []
+  "problemas": [
+    "substituição 548-548: parágrafo que não está no alterador nem no original: Classe II: Q = 100 kN; a = 0,20 m; b = 0,40 m."
+  ]
 }

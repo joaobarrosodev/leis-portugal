@@ -1,0 +1,52 @@
+[
+ {
+  "id": "pt:dre:355687:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 191-A/89 art. 1.º: nova alínea b) do n.º 1 do art. 5.º ('em regime de registo').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "O novo art. 5.º do DL 191-A/89 só tem os n.os 1 e 2 ('...'); o n.º 3 do original deixa de constar (coerente com a nova al. b)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 191-A/89 art. 1.º: novo n.º 2 do art. 6.º; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 191-A/89 art. 1.º: novo n.º 6 do art. 6.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 191-A/89 art. 2.º: nova alínea b) do n.º 1 do art. 4.º dos Estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "DL 191-A/89 art. 2.º: novo n.º 3 (livre transferência) e n.º 4 (preferência, sem vírgula); antigo n.º 3 não consta da nova redação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   {
+    "instrucao": "DL 170-B/90 art. 11.º: o prazo do n.º 2 do art. 6.º do original é reduzido para um ano (n.º 2 do art. 6.º diz 'dois anos' no consolidado). Alvo claro: 'dois anos' passa a 'um ano'. Não é prorrogação: o prazo é reduzido e o texto muda. Instrução sem efeito no consolidado; a justificação do consolidador ('não textual') é discutível."
+   }
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

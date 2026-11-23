@@ -38,10 +38,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-05-01'
+version_history:
+  file: decreto-lei-308-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-01'
+    amending: pt:dre:520987:por
+    amending_title: Decreto-Lei n.º 141/2007
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/308/1999/08/10/p/dre/pt/html
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:10:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 141/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-308-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -205,61 +259,51 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 ###### Artigo 1.º
 
-1 - A denominação do Fundo de Turismo, a que se refere a alínea f) do artigo 8.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, é alterada para Instituto de Financiamento e Apoio ao Turismo, adiante designado por IFT.
+(Revogado.)
 
-2 - São aprovados os Estatutos do IFT em anexo ao presente diploma, do qual fazem parte integrante.
-
-3 - O IFT sucede ao Fundo de Turismo na titularidade de todos os bens, direitos e obrigações.
-
-4 - As referências feitas ao Fundo de Turismo em actos, contratos e quaisquer outros instrumentos legais passam a ser entendidas como feitas ao IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 2.º
 
-São dadas por findas as funções dos membros da comissão administrativa e da comissão de fiscalização, mantendo-se, contudo, em funções de gestão até à tomada de posse dos novos órgãos do IFT.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 3.º
 
-1 - Aos funcionários integrados no quadro de pessoal do Fundo de Turismo, a que se refere o [Decreto-Lei n.º 138/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1972-679869), de 29 de Abril, e legislação complementar, é dada a possibilidade de permanecerem no quadro ou, em alternativa, optarem pela passagem ao regime de contrato individual de trabalho, mantendo ou não o seu vínculo.
+(Revogado.)
 
-2 - A opção prevista no número anterior deve ser feita por escrito e dirigida ao presidente do conselho de administração, no prazo de 60 dias a contar da entrada em vigor do presente diploma.
-
-3 - A celebração de contrato individual de trabalho implica a exoneração do lugar de origem ou, quando requerida e nos termos da legislação aplicável, a passagem do funcionário à situação de licença sem vencimento de longa duração, no quadro de pessoal referido no n.º 1, mantendo os direitos previstos na lei.
-
-4 - A todos os que optarem pelo regime de contrato individual de trabalho é contada a totalidade do tempo de serviço efectivo anteriormente prestado, para todos os efeitos previstos na lei, nomeadamente no que diz respeito à contagem de tempo para a reforma e respectivas pensões.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 4.º
 
-1 - O pessoal com vínculo definitivo ao IFT que não exerça a opção prevista no n.º 1 do artigo 3.º mantém-se no quadro a que pertence.
+(Revogado.)
 
-2 - Os concursos de acesso em cada uma das carreiras do quadro previsto no n.º 1 são restritos aos funcionários do IFT.
-
-3 - Os lugares da carreira técnica superior previstos no quadro de pessoal referido no n.º 1 extinguem-se quando vagarem.
-
-4 - As demais carreiras previstas no quadro de pessoal referido no n.º 1 são extintas progressivamente, por áreas funcionais, da base para o topo, à medida que vagarem os lugares relativos às categorias mais baixas, até à vacatura de todos os lugares.
-
-5 - As normas estabelecidas nos números anteriores não afectam as situações de licença, destacamento, requisição e comissão de serviço em que se encontrem funcionários do quadro do IFT, nem de funcionários de outros quadros que, ao abrigo daqueles regimes, exerçam funções no IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 5.º
 
-Os funcionários que não exerçam o direito de opção previsto no n.º 1 do artigo 3.º podem ser nomeados, em regime de comissão de serviço, para exercer funções de chefia no IFT, considerando-se esse período como serviço prestado nos respectivos lugares de origem.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 6.º
 
-1 - Os funcionários do Estado e de institutos públicos e os trabalhadores de empresas públicas podem ser chamados, nos termos previstos na lei, a desempenhar funções no IFT em regime de destacamento, requisição ou comissão de serviço, com garantia dos lugares de origem e dos direitos adquiridos, considerando-se esse período como serviço prestado nos respectivos cargos.
+(Revogado.)
 
-2 - Os funcionários e trabalhadores do IFT podem, nos termos previstos na lei, ser chamados a desempenhar funções no Estado, em institutos públicos e empresas públicas, em regime de destacamento, requisição ou comissão de serviço, com garantia dos lugares de origem e dos direitos adquiridos, considerando-se esse período como serviço prestado no IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 7.º
 
-Sem prejuízo do estabelecido no artigo 31.º dos Estatutos aprovados pelo presente diploma, continuam apenas a reger-se pelo disposto no Código de Processo Tributário os processos que, transitoriamente, por disposição especial, ficaram a ele submetidos e que ainda se encontrem pendentes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 8.º
 
-1 - Mantêm-se em vigor os despachos normativos aprovados ao abrigo do [Decreto-Lei n.º 149/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1980-474145), de 23 de Maio, considerando-se feitas para o presente diploma as menções expressas àquele decreto-lei contidas em tais regulamentos.
+(Revogado.)
 
-2 - Mantêm-se ainda em vigor as disposições que regulamentam os diplomas ora revogados até à data da entrada em vigor dos novos regulamentos.
-
-3 - As referências feitas em quaisquer diplomas, actos, contratos e quaisquer outros instrumentos legais a normas revogadas pelo presente diploma consideram-se feitas a este último ou aos que o regulamentem.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 9.º
 
@@ -267,7 +311,9 @@ São revogados os artigos 1.º a 5.º e 7.º a 20.º do [Decreto n.º 40913](htt
 
 ###### Artigo 10.º
 
-O presente diploma entra em vigor no dia a seguir ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.
 
@@ -287,446 +333,248 @@ ESTATUTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO
 
 ###### Artigo 1.º — Natureza
 
-1 - O Instituto de Financiamento e Apoio ao Turismo, adiante designado IFT, é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
+(Revogado.)
 
-2 - O IFT exerce a sua actividade sob a tutela do Ministro da Economia.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 2.º — Regime
 
-O IFT rege-se pelo presente diploma e seus regulamentos internos e, subsidiariamente, pelo ordenamento jurídico das empresas públicas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 3.º — Sede
 
-1 - O IFT tem a sua sede em Lisboa, podendo dispor de delegações e outras formas de representação em qualquer local do território nacional.
+(Revogado.)
 
-2 - As delegações ou outras formas de representação são criadas por despacho do Ministro da Economia, mediante proposta do conselho de administração do IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO II — Objecto, atribuições e competências
 
 ###### Artigo 4.º — Objecto
 
-O IFT tem por objecto:
+(Revogado.)
 
-a) O apoio, directo ou indirecto, ao fortalecimento, modernização e desenvolvimento das estruturas empresariais do sector do turismo;
-
-b) A promoção do desenvolvimento de infra-estruturas e investimento no sector do turismo, no âmbito da construção de uma parceria estratégica entre as políticas públicas e as iniciativas dos agentes económicos privados.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 5.º — Atribuições
 
-1 - Para a realização do seu objecto estatutário, são atribuições do IFT:
+(Revogado.)
 
-a) Colaborar activamente no estudo e definição de medidas de natureza financeira para o sector do turismo;
-
-b) Colaborar no estudo e definição das medidas de apoio às estruturas empresariais do sector do turismo;
-
-c) Promover a execução das medidas de política económica que se enquadrem no âmbito das suas atribuições;
-
-d) Assegurar a gestão dos sistemas de incentivos ou estímulos ao sector do turismo, nos termos das disposições aplicáveis;
-
-e) Prestar apoio técnico e financeiro, directa ou indirectamente, às empresas do sector do turismo;
-
-f) Promover a criação de novas empresas, quando tal promoção contribua para o desenvolvimento do turismo;
-
-g) Participar, incluindo através da tomada de posições de capital, em sociedades, institutos, associações ou outras entidades, públicas ou privadas, quando tal participação contribua para o desenvolvimento do turismo;
-
-h) Cooperar com outras entidades, públicas ou privadas, em acções que possam contribuir para a realização do seu objecto estatutário.
-
-2 - Para a realização do seu objecto estatutário, o IFT pode:
-
-a) Conceder empréstimos, bonificados ou não, e proceder à sua gestão;
-
-b) Conceder comparticipações e subsídios, directos ou indirectos, incluindo bonificações de rendas e de juros;
-
-c) Participar em operações de co-financiamento ou refinanciamento em associação com outras entidades;
-
-d) Proceder à aplicação financeira das receitas;
-
-e) Proceder à guarda de verbas consignadas e participar na definição do seu modelo de aplicação e gestão, de acordo com as disposições aplicáveis;
-
-f) Prestar e receber garantias;
-
-g) Emitir obrigações e quaisquer outros títulos de crédito, à excepção dos de curto prazo;
-
-h) Participar no capital de quaisquer sociedades, institutos, associações ou outras entidades, públicas ou privadas, constituídas ou a constituir, quando tal participação contribua para o desenvolvimento do turismo;
-
-i) Subscrever unidades de participação de quaisquer fundos especialmente vocacionados para o investimento turístico;
-
-j) Elaborar estudos e projectos susceptíveis de contribuir para o desenvolvimento do turismo, em estreita colaboração com organismos tutelados pelo Ministro da Economia;
-
-l) Participar em acções de promoção, no País e no estrangeiro, e de formação profissional na área do turismo, em estreita colaboração com os organismos vocacionados para aqueles fins que sejam tutelados pelo Ministro da Economia;
-
-m) Fiscalizar a aplicação dos empréstimos, subsídios e comparticipações concedidos, de modo a assegurar o cumprimento das obrigações assumidas pelos beneficiários.
-
-3 - Para efeitos do disposto na alínea d) do número anterior, considera-se aplicação financeira de capitais a titularidade de depósitos em instituições de crédito e de quaisquer valores mobiliários de natureza não monetária, com excepção de acções e de valores mobiliários que atribuam direitos de aquisição ou de subscrição daquelas.
-
-4 - O exercício das competências previstas nas alíneas h) e l) do n.º 2 do presente artigo carece de autorização a conceder por despacho do Ministro da Economia.
-
-5 - O exercício das competências previstas na alínea g) do n.º 2 do presente artigo carece de autorização a conceder por despacho conjunto dos Ministros das Finanças e da Economia.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 6.º — Regulamentação
 
-1 - O modo e condições de exercício das competências referidas nas alíneas a) a c) do n.º 2 do artigo anterior são definidos por regulamentos do Ministro da Economia, dos quais devem constar, nomeadamente:
+(Revogado.)
 
-a) Normas gerais que enunciem as condições e termos de atribuição e os limites dos financiamentos, subsídios e comparticipações, directos ou indirectos, a conceder;
-
-b) Os prazos, os montantes máximos, as taxas de juro e o modo de controlo da aplicação do crédito a conceder.
-
-2 - Os financiamentos reembolsáveis a conceder são garantidos por hipoteca ou por garantia bancária, podendo, excepcionalmente, ser aceites quaisquer outras garantias admitidas em direito.
-
-3 - A relação dos subsídios concedidos anualmente, com menção das entidades beneficiárias e dos respectivos montantes, consta obrigatoriamente de anexo ao relatório anual de actividades do IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO III — Órgãos do Instituto de Financiamento e Apoio ao Turismo
 
 ###### Artigo 7.º — Órgãos
 
-São os seguintes os órgãos do IFT:
+(Revogado.)
 
-a) O conselho de administração;
-
-b) O conselho geral;
-
-c) A comissão de fiscalização;
-
-d) O conselho de crédito.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 #### SECÇÃO I — Conselho de administração
 
 ###### Artigo 8.º — Composição
 
-O conselho de administração é o órgão dirigente do lFT, composto por um presidente e dois vogais, nomeados por resolução do Conselho de Ministros, sob proposta do Ministro da Economia.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 9.º — Competência
 
-1 - Compete ao conselho de administração:
+(Revogado.)
 
-a) Praticar os actos correspondentes à prossecução das atribuições e competências do IFT;
-
-b) Gerir o património do IFT, tomando todas as medidas necessárias para o efeito, designadamente a aprovação dos actos conducentes ou resultantes da aquisição, alienação ou oneração de imóveis;
-
-c) Elaborar a proposta de orçamento, o plano de actividades, a demonstração de resultados e o balanço previsional, a submeter a aprovação do Ministro da Economia;
-
-d) Elaborar o relatório de actividades, a conta dos fluxos de tesouraria, o balanço analítico, a demonstração de resultados líquidos e os demais documentos de prestação de contas, a submeter a aprovação do Ministro da Economia;
-
-e) Arrecadar as receitas e autorizar a realização das despesas necessárias ao funcionamento do IFT;
-
-f) Deliberar sobre a concessão, renegociação e resolução dos financiamentos e dos incentivos, nos termos das disposições aplicáveis;
-
-g) Propor ao Ministro da Economia a definição ou alteração da estrutura interna e das funções dos diferentes serviços do IFT, bem como da afectação a cada um deles dos meios humanos e materiais necessários;
-
-h) Promover a recolha e tratamento de informação e dados com vista à elaboração das respectivas estatísticas e subsequente fornecimento da informação daí resultante;
-
-i) Gerir o pessoal;
-
-j) Apresentar, anualmente, o balanço social ao Ministro da Economia;
-
-l) Aprovar as propostas do seu regimento e os demais regulamentos internos, a submeter a aprovação do Ministro da Economia;
-
-m) Designar os membros do conselho de crédito;
-
-n) Designar os seus membros para representarem o IFT nos corpos sociais das entidades em que aquele participe;
-
-o) Propor ao Ministro da Economia a criação de delegações ou outras formas de representação;
-
-p) Emitir certidões negativas de pagamento;
-
-q) Constituir mandatários para a prática de actos específicos e nomear advogados sempre que a lei o imponha;
-
-r) Exercer os demais poderes necessários à prossecução das atribuições e competências do IFT, bem como à salvaguarda dos respectivos direitos.
-
-2 - O conselho de administração exerce ainda outras competências que, no âmbito geral das atribuições do IFT, lhe sejam delegadas pelo Ministro da Economia.
-
-3 - A competência de representação prevista na alínea n) do n.º 1 é exercida por inerência dos membros do conselho de administração.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 10.º — Funcionamento
 
-1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente e por iniciativa de qualquer dos seus membros, sempre que se revele necessário.
+(Revogado.)
 
-2 - Nas reuniões do conselho de administração, o presidente é substituído nas suas faltas e impedimentos pelo vogal que, para o efeito, designar.
-
-3 - Das reuniões do conselho de administração são lavradas actas, a assinar pelos membros presentes.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 11.º — Competência do presidente
 
-Compete ao presidente do conselho de administração:
+(Revogado.)
 
-a) Convocar e presidir às reuniões do conselho de administração e assegurar o cumprimento das deliberações tomadas, sem prejuízo do disposto no n.º 1 do artigo 12.º relativamente à convocação;
-
-b) Exercer os demais poderes que lhe forem atribuídos por lei ou regulamento;
-
-c) Delegar, em qualquer dos vogais do conselho de administração, as competências previstas nas alíneas anteriores.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 12.º — Vinculação
 
-1 - O IFT vincula-se, perante terceiros, pela assinatura do presidente do conselho de administração ou pela assinatura do vogal deste órgão para o efeito expressamente mandatado em acta.
+(Revogado.)
 
-2 - Nas faltas ou impedimentos do presidente do conselho de administração, o IFT vincula-se pela assinatura do vogal por aquele designado e, na falta de designação, pelas assinaturas dos dois vogais.
-
-3 - A movimentação de fundos depositados em qualquer instituição de crédito só pode processar-se mediante a assinatura de dois membros do conselho de administração ou de mandatário devidamente constituído.
-
-4 - Tratando-se de actos de execução de deliberações do conselho de administração, o IFT obriga-se igualmente pela assinatura de mandatário expressamente designado para o efeito por aquele órgão.
-
-5 - O disposto nos números anteriores não é aplicável aos actos de mero expediente, para os quais basta a assinatura de um vogal do conselho de administração ou de quadro superior a quem tal poder tenha sido delegado através de acta daquele órgão.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 13.º — Remuneração e regime
 
-Os membros do conselho de administração ficam sujeitos ao estatuto do gestor público, sendo as suas remunerações fixadas por despacho conjunto dos Ministros das Finanças e da Economia.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 #### SECÇÃO II — Conselho geral
 
 ###### Artigo 14.º — Composição
 
-1 - O conselho geral do IFT é constituído por:
+(Revogado.)
 
-a) Os membros do conselho de administração;
-
-b) O director-geral do Turismo, o presidente do Instituto Nacional de Formação Turística (INFT), o inspector-geral de Jogos, o presidente do ICEP - Investimentos, Comércio e Turismo de Portugal, o presidente do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) ou respectivos representantes devidamente mandatados para o efeito;
-
-c) Cinco personalidades de reconhecida competência, ligadas profissionalmente ao sector do turismo, designadas por despacho conjunto dos Ministros das Finanças e da Economia.
-
-2 - O conselho geral é presidido pelo presidente do conselho de administração do IFT.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 15.º — Competência
 
-Compete ao conselho geral:
+(Revogado.)
 
-a) Emitir parecer sobre o orçamento, o plano de actividades e o relatório e contas anuais;
-
-b) Acompanhar a actividade do IFT e formular as propostas, sugestões e recomendações que entenda convenientes;
-
-c) Pronunciar-se sobre a abertura ou o encerramento de delegações ou outras formas de representação;
-
-d) Pronunciar-se sobre quaisquer assuntos que o conselho de administração entenda dever submeter à sua consideração.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 16.º — Reuniões
 
-O conselho geral reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, três membros.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 #### SECÇÃO III — Comissão de fiscalização
 
 ###### Artigo 17.º — Composição
 
-1 - A comissão de fiscalização do IFT é composta por três membros, um presidente e dois vogais, sendo um destes, obrigatoriamente, revisor oficial de contas.
+(Revogado.)
 
-2 - Os membros da comissão de fiscalização são nomeados por despacho conjunto dos Ministros das Finanças e da Economia.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 18.º — Competência
 
-Compete à comissão de fiscalização:
+(Revogado.)
 
-a) Fiscalizar a gestão do IFT e velar pelo cumprimento das leis e regulamentos aplicáveis;
-
-b) Acompanhar a execução do plano de actividades e orçamento anuais e efectuar o controlo mensal de execuções dos mesmos;
-
-c) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte, examinar periodicamente a situação financeira e económica do IFT e proceder à verificação dos valores patrimoniais;
-
-d) Verificar a execução das deliberações do conselho de administração;
-
-e) Elaborar anualmente relatório sobre a sua acção fiscalizadora e emitir parecer sobre o relatório e contas anual;
-
-f) Pronunciar-se sobre a aquisição, oneração ou alienação de bens imóveis;
-
-g) Emitir parecer sobre qualquer assunto que seja submetido à sua apreciação pelo conselho de administração ou pelo conselho de crédito ou sobre o qual entenda dever pronunciar-se;
-
-h) Informar o conselho de administração das irregularidades que detecte e participá-las às entidades competentes, quando aquelas o justifiquem.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 19.º — Deveres
 
-Constituem deveres dos membros da comissão de fiscalização:
+(Revogado.)
 
-a) Exercer fiscalização em conformidade com a lei, os Estatutos e os regulamentos internos do IFT;
-
-b) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas funções ou por causa delas.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 20.º — Funcionamento
 
-A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocada pelo respectivo presidente, por iniciativa própria ou a pedido de qualquer vogal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 #### SECÇÃO IV — Conselho de crédito
 
 ###### Artigo 21.º — Composição e competência
 
-1 - O conselho de crédito é composto por um membro do conselho de administração, que preside, e por número par de vogais, não superior a quatro, designados pelo conselho de administração, nos termos dos presentes Estatutos, de entre os quadros superiores do IFT.
+(Revogado.)
 
-2 - Ao conselho de crédito compete, por delegação do conselho de administração:
-
-a) Conceder moratórias, condicionadas à apresentação prévia dos planos moratórios;
-
-b) Autorizar a libertação de parcelas dos financiamentos aprovados, nos termos das disposições aplicáveis;
-
-c) Autorizar o pagamento de subsídios e de bonificações, nos termos das disposições aplicáveis;
-
-d) Autorizar o cancelamento das garantias especiais das obrigações que tenham sido constituídas a favor do IFT;
-
-e) Autorizar a libertação das verbas provenientes das contrapartidas das zonas de jogo, nos termos legalmente consignados e atentos os critérios de atribuição, cabimento e prazos de validade das respectivas utilizações.
-
-3 - O conselho de crédito reúne ordinariamente duas vezes por semana e excepcionalmente sempre que se revele necessário.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO IV — Disposições comuns aos órgãos
 
 ###### Artigo 22.º — Mandatos
 
-1 - O mandato dos membros dos órgãos do IFT tem a duração de três anos, renováveis.
+(Revogado.)
 
-2 - Após terminarem os respectivos mandatos, os membros dos órgãos mantêm-se no exercício das suas funções até à efectiva substituição ou declaração de cessação de funções.
-
-3 - Os órgãos do IFT consideram-se constituídos desde que se encontre nomeada a maioria dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 23.º — Deliberações
 
-1 - Para que os órgãos do IFT deliberem validamente é indispensável a presença na reunião da maioria dos membros em exercício.
+(Revogado.)
 
-2 - As deliberações são tomadas por maioria dos votos expressos, tendo o presidente ou quem o substitua voto de qualidade.
-
-3 - São lavradas actas de todas as reuniões dos órgãos do IFT, as quais serão assinadas por todos os membros que nelas participem.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 24.º — Convocações
 
-1 - As reuniões dos órgãos são precedidas de convocação a todos os seus membros.
+(Revogado.)
 
-2 - Consideram-se, validamente, convocados os membros que se encontrem numa das seguintes situações:
-
-a) Tenham recebido ou assinado o aviso convocatório;
-
-b) Tenham assistido a qualquer reunião anterior em que, na sua presença, tenham sido fixados o dia e a hora da reunião;
-
-c) Tenham sido avisados da reunião por qualquer forma previamente acordada.
-
-3 - Os membros consideram-se sempre devidamente convocados para as reuniões que se realizem em dia e hora fixados em regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 25.º — Deslocações
 
-Os membros dos órgãos têm direito, nas suas deslocações em serviço, aos abonos fixados nos regulamentos internos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO V — Receitas, despesas e gestão patrimonial e financeira
 
 ###### Artigo 26.º — Instrumentos de gestão e prestação de contas
 
-1 - A gestão económica e financeira do IFT é disciplinada pelos seguintes instrumentos de gestão previsional, a submeter à aprovação do Ministro da Economia:
+(Revogado.)
 
-a) Plano anual de actividades;
-
-b) Orçamento;
-
-c) Demonstração de resultados;
-
-d) Balanço previsional.
-
-2 - O IFT elabora anualmente, até 31 de Março e com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:
-
-a) Relatório de actividades do conselho de administração;
-
-b) Conta dos fluxos de tesouraria;
-
-c) Balanço analítico e respectivos anexos;
-
-d) Demonstração de resultados líquidos e respectivos anexos;
-
-e) Parecer da comissão de fiscalização.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 27.º — Património
 
-1 - O património do IFT é constituído pela universalidade dos seus bens, direitos e obrigações.
+(Revogado.)
 
-2 - Os bens imóveis titulados pelo IFT e que integrem o respectivo domínio privado podem ser alienados por qualquer forma admitida em direito.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 28.º — Receitas
 
-Constituem receitas do IFT:
+(Revogado.)
 
-a) As verbas provenientes do imposto sobre o jogo e das contrapartidas das concessões das zonas de jogo, nos termos da lei;
-
-b) As comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da União Europeia;
-
-c) O rendimento de bens próprios;
-
-d) As comissões recebidas por garantias e serviços prestados;
-
-e) As heranças, legados e doações que lhe sejam destinados;
-
-f) O produto da alienação ou cedência, a qualquer título, de bens ou direitos;
-
-g) Os juros, amortizações e reembolsos dos empréstimos concedidos;
-
-h) O produto de aplicações financeiras;
-
-i) O produto da emissão de obrigações ou de outros títulos de crédito;
-
-j) Os saldos de gerência anterior;
-
-l) O produto da venda de bens e serviços;
-
-m) Quaisquer outras receitas, resultantes da prossecução das suas atribuições e competências, que lhe sejam atribuídas por lei, contrato ou outro título.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 29.º — Despesas
 
-São despesas do IFT:
+(Revogado.)
 
-a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;
-
-b) Os encargos emergentes da contracção de financiamentos junto das instituições de crédito;
-
-c) Os custos de aquisição, manutenção e conservação dos bens, equipamentos ou serviços que tenha de utilizar.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 30.º — Gestão patrimonial e financeira
 
-1 - A gestão patrimonial e financeira do IFT, incluindo a arrecadação das receitas e a realização das despesas, rege-se pelas normas aplicáveis às empresas públicas.
+(Revogado.)
 
-2 - O plano de actividades e o projecto de orçamento anuais do IFT são submetidos à aprovação prévia do Ministro da Economia até 31 de Outubro do ano anterior àquele a que respeitam.
-
-3 - No ano seguinte àquele a que respeitam, o relatório e contas anual, acompanhado do relatório e parecer da comissão de fiscalização, são submetidos:
-
-a) A aprovação do Ministro da Economia, até 31 de Março;
-
-b) A julgamento do Tribunal de Contas, até 31 de Maio;
-
-c) A conhecimento do Ministro das Finanças, até 31 de Maio.
-
-4 - A contabilização das receitas e despesas do IFT rege-se, com as necessárias adaptações, pelo disposto no Plano Oficial de Contabilidade Pública.
-
-5 - As contas do IFT obedecem ao princípio da especialização por exercícios.
-
-6 - As contas do IFT são, anualmente, objecto de uma auditoria independente, efectuada nos termos legalmente exigidos para as sociedades anónimas.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO VI — Títulos executivos e encargos
 
 ###### Artigo 31.º — Títulos executivos
 
-As certidões negativas de pagamento emitidas pelo IFT constituem título executivo bastante, nos termos previstos na alínea d) do artigo 46.º do Código de Processo Civil.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 32.º — Encargos
 
-O IFT está isento do pagamento de taxas, emolumentos, custas e demais encargos da mesma natureza nos processos, contratos, actos notariais e registrais ou quaisquer outros em que intervenha.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ### CAPÍTULO VII — Pessoal
 
 ###### Artigo 33.º — Regime geral
 
-O regime jurídico aplicável ao pessoal do IFT é o do contrato individual de trabalho, com as especialidades emergentes dos regulamentos internos, sem prejuízo do disposto nos artigos 3.º e 4.º do diploma legal que aprova os presentes Estatutos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 34.º — Regime de segurança social
 
-1 - O pessoal do IFT que seja admitido em data posterior à aprovação dos presentes Estatutos fica sujeito ao regime geral da segurança social.
+(Revogado.)
 
-2 - Sem prejuízo do previsto no número anterior, os trabalhadores que requeiram a sua passagem ao regime de contrato individual de trabalho, nos termos do n.º 1 do artigo 3.º do diploma que aprova os presentes Estatutos, podem optar por manter a sua inscrição na Caixa Geral de Aposentações logo que, expressamente, o declarem.
-
-3 - O pessoal do IFT que exerce funções em regime de requisição ou de comissão de serviço mantém o regime de segurança social inerente ao seu lugar de origem.
-
-4 - Relativamente aos trabalhadores abrangidos pelo regime de protecção social da função pública, o IFT contribuirá para o financiamento para a Caixa Geral de Aposentações com um montante igual ao das quotas pagas por esses trabalhadores.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 35.º — Quadros e remunerações
 
-O quadro de pessoal do IFT e a tabela de remuneração dos seus trabalhadores são objecto de instrumento de regulamentação colectiva.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 36.º — Publicação
 
-O quadro de pessoal do IFT, aprovado nos termos do artigo anterior, é publicado no Diário da República.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 37.º — Prestação temporária de serviços
 
-Sempre que a especialidade e natureza das tarefas a prosseguir o justifiquem e não puderem ser desempenhadas pelos trabalhadores do IFT, o conselho de administração pode celebrar contratos de prestação de serviços temporários com profissionais liberais ou outros.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 38.º — Segredo profissional
 
-1 - Os titulares dos órgãos do IFT bem como os funcionários, agentes e mandatários deste estão obrigados ao dever de sigilo, encontrando-se ainda sujeitos às regras de segredo profissional previstas nos artigos 78.º a 80.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro.
+(Revogado.)
 
-2 - Independentemente da responsabilidade civil e criminal que resulte da violação do dever a que alude o artigo anterior, o infractor incorre em responsabilidade disciplinar, que poderá originar, conforme a gravidade da falta, a destituição ou rescisão do respectivo contrato de trabalho, conforme seja cometida por um membro dos órgãos do IFT ou por elemento do seu pessoal, permitindo ainda ao conselho de administração, quando praticada por pessoa ou entidade vinculada ao IFT por contrato de prestação de serviços, suspender imediatamente esse contrato.
+> Revogado pelo/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.

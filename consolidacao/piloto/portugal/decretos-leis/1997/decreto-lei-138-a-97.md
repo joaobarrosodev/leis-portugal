@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:388225:por
     title: Decreto-Lei n.º 201/2001
     publication_date: '2001-07-13'
+  - id: pt:dre:448755:por
+    title: Decreto-Lei n.º 257/2002
+    publication_date: '2002-11-22'
 ---
 
 # Decreto-Lei n.º 138-A/97
@@ -38,83 +41,45 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza
 
-1 - É criado o Instituto de Navegabilidade do Douro, adiante designado por IND.
+(Revogado.)
 
-2 - O IND é uma pessoa colectiva pública, com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 2.º — Superintendência
 
-O IND exerce a sua acção sob superintendência dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 3.º — Área de jurisdição
 
 Para efeitos da aplicação do presente diploma, entende-se por área de jurisdição:
 
-a) O leito e as margens incluídos nos terrenos do domínio hídrico tal como estão definidos no Decreto-Lei n.º 468/71, de 5 de Novembro, e as águas do Douro, desde a foz do rio Águeda, afluente da margem esquerda do rio Douro, até à respectiva barra, excluindo-se as áreas portuárias pertencentes à Administração dos Portos do Douro e Leixões, bem como os afluentes deste troço do rio Douro, até ao perfil em que o leito desse afluente se encontre a cota igual à cota máxima de retenção normal da albufeira do Douro em que esse afluente desagua, incluindo as eclusas e cais de acostagem;
+a) O leito e as margens incluídos nos terrenos do domínio hídrico tal como estão definidos no [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, e as águas do Douro, desde a foz do rio Águeda, afluente da margem esquerda do rio Douro, até à respectiva barra, excluindo-se as áreas portuárias pertencentes à Administração dos Portos do Douro e Leixões, bem como os afluentes deste troço do rio Douro, até ao perfil em que o leito desse afluente se encontre a cota igual à cota máxima de retenção normal da albufeira do Douro em que esse afluente desagua, incluindo as eclusas e cais de acostagem;
 
 b) Os acessos fluviais aos cais de acostagem e as zonas de manobra, os terraplenos adjacentes às zonas portuárias e os acessos terrestres inseridos nestas áreas de ligação às vias municipais e nacionais.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
 
+> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+
 ###### Artigo 4.º — Sede
 
-1 - O IND tem a sua sede em Peso da Régua.
+(Revogado.)
 
-2 - Por despacho conjunto dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território e do Ambiente, sob proposta do director do IND, poderão vir a ser criadas delegações.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 5.º — Atribuições
 
-São atribuições do IND:
+(Revogado.)
 
-a) Promover e incentivar a navegação na via navegável do Douro;
-
-b) Promover e incentivar as actividades relacionadas com a navegação, divulgando a sua imagem junto dos agentes económicos, gerindo de forma correcta os seus recursos e contribuindo para o desenvolvimento do Douro;
-
-c) Desenvolver e conservar as infra-estruturas e os equipamentos destinados a assegurar a circulação na via navegável e a utilização das instalações portuárias;
-
-d) Administrar os bens do domínio público afectos ao canal navegável;
-
-e) Coordenar as intervenções de outras entidades públicas ou privadas com impacte na via navegável.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 6.º — Competências
 
-1 - Compete ao IND:
+(Revogado.)
 
-a) Decidir sobre todos os actos relativos à navegação, sem prejuízo das competências atribuídas a outras entidades em matéria de segurança e disciplina da navegação;
-
-b) Dar parecer sobre todas as acções executadas dentro ou fora da sua área de jurisdição que possam ser susceptíveis de interferir com a navegação;
-
-c) Manter o canal navegável, as bacias de manobra, os cais de acostagem e os seus acessos fluviais;
-
-d) Assegurar o sistema de sinalização e balizagem;
-
-e) Assegurar a rede de comunicações radiotelefónicas necessárias à segurança da navegação;
-
-f) Conservar e explorar os terraplenos e a rede viária dentro das zonas portuárias;
-
-g) Reparar todos os estragos na respectiva área de jurisdição resultantes da sua exploração;
-
-h) Assegurar o cumprimento do protocolo e subsequentes contratos a estabelecer com a CPPE - Companhia Portuguesa de Produção de Electricidade, S. A., em matéria de funcionamento e manutenção das eclusas, devendo ser o protocolo homologado pelo ministro da tutela e pelo membro do Governo responsável pela área da energia;
-
-i) Elaborar e propor ao ministro da tutela propostas de alteração à sua área de jurisdição;
-
-j) Cobrar as taxas de circulação na sua área de jurisdição que venham a ser aprovadas por portaria do ministro da tutela, bem como quaisquer outras taxas e tarifas que por lei ou regulamento lhe sejam afectas, propondo àquele ministro as alterações que considere necessárias;
-
-l) Definir e estabelecer com as entidades públicas que detêm funções de fiscalização formas de actuação articuladas tendo em vista o cumprimento das regras de utilização e manutenção da via navegável;
-
-m) Decidir sobre as condições de navegabilidade na sua área de jurisdição;
-
-n) Definir as características das embarcações que podem utilizar a via navegável;
-
-o) Concessionar os portos, cais fluviais e fluvinas já existentes ou que venham a ser construídos nos termos da legislação aplicável;
-
-p) Solicitar a declaração de utilidade pública de bens imóveis ou de direitos a eles inerentes necessários à prossecução das respectivas atribuições, de acordo com a legislação em vigor;
-
-q) Exercer todas as demais competências previstas na lei.
-
-2 - Compete ainda ao IND efectuar ou licenciar a extracção de inertes na sua área de jurisdição na estrita medida em que o desassoreamento seja imprescindível à manutenção e segurança da via navegável, garantindo a fiscalização desta actividade.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 6.º-A — Procedimentos para a extracção de inertes
 
@@ -142,219 +107,91 @@ d) O IND dará conhecimento à tutela do pedido instruído com relatório e do p
 
 ###### Artigo 7.º — Órgãos e serviços
 
-1 - São órgãos do IND:
+(Revogado.)
 
-a) O director;
-
-b) O conselho da navegabilidade.
-
-2 - São serviços do IND:
-
-a) O Núcleo Administrativo e Financeiro;
-
-b) O Núcleo Técnico e Comercial.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 8.º — Director
 
-1 - Ao director compete dirigir superiormente o IND, promover, orientar e coordenar as suas actividades e, em especial:
+(Revogado.)
 
-a) Elaborar e submeter à aprovação do ministro da tutela os planos de actividade e financeiros plurianuais, os projectos de orçamento anuais e os relatórios de actividade;
-
-b) Elaborar e submeter à apreciação do ministro da tutela as contas de gerência anuais;
-
-c) Superintender na execução dos planos, programas e orçamentos;
-
-d) Elaborar os regulamentos necessários à navegação da via e submetê-los à aprovação do ministro da tutela, quando tal for legalmente necessário;
-
-e) Convocar o conselho da navegabilidade;
-
-f) Arrecadar receitas e autorizar a realização de despesas;
-
-g) Submeter à aprovação do ministro da tutela e do Ministro das Finanças a participação do IND no capital de empresas, bem como a sua associação com entidades interessadas na via navegável;
-
-h) Instruir os processos de contra-ordenação ou confiar a sua instrução a serviços ou agentes com funções de fiscalização, bem como aplicar as coimas ou as sanções legalmente previstas;
-
-i) Representar o IND em juízo e fora dele.
-
-2 - O director é equiparado, para todos os efeitos legais, a director-geral.
-
-3 - O director do IND é coadjuvado nas suas funções por um subdirector, para todos os efeitos equiparado a subdirector-geral, que o substitui nos seus impedimentos e faltas.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 9.º — Conselho da navegabilidade
 
-1 - O conselho da navegabilidade é um órgão de consulta do IND, ao qual compete:
+(Revogado.)
 
-a) Emitir parecer sobre os planos anuais e plurianuais e sobre o relatório de actividades do IND;
-
-b) Pronunciar-se sobre questões de interesse para a exploração da navegação;
-
-c) Propor as acções que considere adequadas à exploração da via navegável e seus portos;
-
-d) Eleger o seu presidente;
-
-e) Elaborar e aprovar o seu regulamento interno.
-
-2 - O conselho da navegabilidade tem a seguinte composição:
-
-a) O director do IND;
-
-b) Um representante da Direcção Regional do Ambiente e dos Recursos Naturais do Norte;
-
-c) Um representante da Comissão de Coordenação da Região do Norte;
-
-d) Um representante da Administração dos Portos do Douro e Leixões;
-
-e) Um representante da Capitania do Porto do Douro;
-
-f) Um representante da CPPE - Companhia Portuguesa de Produção de Electricidade, S. A.;
-
-g) Um representante dos municípios ribeirinhos do rio Douro;
-
-h) Um representante das regiões de turismo que englobem municípios confinantes com o rio Douro;
-
-i) Um representante das associações comerciais ou industriais sediadas em municípios confinantes com o rio Douro;
-
-j) Um representante dos concessionários dos portos fluviais do rio Douro;
-
-l) Um representante dos operadores de navegação comercial;
-
-m) Um representante das actividades marítimo-turísticas.
-
-3 - Quando o presidente do conselho da navegabilidade o entender conveniente, podem ser convidadas entidades a assistir às respectivas reuniões, com o estatuto de observador.
-
-4 - Os membros do conselho da navegabilidade são designados pelas entidades que representam, a solicitação do IND.
-
-5 - O conselho da navegabilidade reúne ordinariamente uma vez por ano e extraordinariamente sempre que o director o convocar, por sua iniciativa ou do presidente ou a requerimento da maioria dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 10.º — Núcleo Administrativo e Financeiro
 
-1 - Ao Núcleo Administrativo e Financeiro, abreviadamente NAF, compete promover e assegurar a administração dos recursos humanos, financeiros e patrimoniais e, em especial:
+(Revogado.)
 
-a) Preparar os planos de actividade e financeiros plurianuais, os projectos de orçamento anuais e os relatórios de actividade, com base nos elementos fornecidos pelos outros serviços;
-
-b) Assegurar as operações necessárias à gestão de recursos humanos;
-
-c) Assegurar as funções de contabilidade e a tesouraria, bem como as operações necessárias à gestão financeira;
-
-d) Assegurar as demais acções que, no âmbito da gestão administrativa, lhe sejam cometidas pelo director.
-
-2 - O NAF é dirigido por um coordenador, equiparado, para todos os efeitos, a chefe de divisão.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 11.º — Núcleo Técnico e Comercial
 
-1 - Ao Núcleo Técnico Comercial, abreviadamente NTC, compete assegurar as acções necessárias à operacionalidade e desenvolvimento da via navegável e à sua fiscalização, bem como a gestão da actividade comercial, incumbindo-lhe, nomeadamente:
+(Revogado.)
 
-a) Assegurar as dragagens necessárias à manutenção do canal navegável e à segurança da navegação;
-
-b) Assegurar a manutenção da sinalização e a funcionalidade das comunicações;
-
-c) Executar outras acções necessárias ao desenvolvimento de infra-estruturas e equipamentos de apoio à navegação;
-
-d) Elaborar planos comerciais e de marketing e promover as acções necessárias à sua concretização;
-
-e) Organizar e gerir a actividade comercial, assegurando a obtenção das receitas de circulação, da utilização das infra-estruturas ou de outra natureza;
-
-f) Promover a utilização da via navegável.
-
-2 - O Núcleo é dirigido por um coordenador, equiparado, para todos os efeitos, a chefe de divisão.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 12.º — Fiscalização
 
-A fiscalização interna do IND é exercida por um elemento nomeado por despacho conjunto do ministro da tutela e do Ministro das Finanças, de entre revisores oficiais de contas, por um mandato de três anos, renovável, e com direito à remuneração a fixar no mesmo despacho, ao qual incumbe:
+(Revogado.)
 
-a) Examinar periodicamente a situação financeira e económica do IND e verificar o cumprimento das normas reguladoras da sua actividade;
-
-b) Verificar a exactidão dos documentos de prestação de contas e relatório de actividades e emitir pareceres sobre os mesmos;
-
-c) Emitir parecer sobre a aquisição, oneração e alienação de bens imóveis do IND;
-
-d) Emitir parecer sobre qualquer assunto que lhe seja submetido pelos órgãos do IND;
-
-e) Participar às entidades competentes as irregularidades que detecte.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO III — Gestão, património e pessoal
 
 ###### Artigo 13.º — Gestão patrimonial e financeira
 
-1 - Na prossecução das suas atribuições, o IND administra o património próprio, bem como os recursos que lhe estão afectos, através dos seguintes instrumentos de previsão e controlo:
+(Revogado.)
 
-a) Planos de actividades anuais e plurianuais;
-
-b) Orçamento de tesouraria;
-
-c) Demonstração de resultados;
-
-d) Balanço provisional;
-
-e) Conta e relatório anual de gestão.
-
-2 - O orçamento a que se refere a alínea b) do número anterior deverá ser elaborado de acordo com o esquema de classificação económica das receitas e despesas públicas.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 14.º — Património
 
-O património inicial do IND é constituído pelos bens do Estado que lhe sejam afectos por despacho do Ministro das Finanças e dos ministros da superintendência, bem como por uma dotação orçamental, de montante a fixar no mesmo despacho, nos termos da lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 15.º — Receitas
 
-Para além das dotações provenientes do Orçamento do Estado, constituem receitas próprias do IND:
+(Revogado.)
 
-a) As taxas cobradas aos titulares de licenças ou concessões atribuídas pelo IND;
-
-b) O produto da prestação de serviços;
-
-c) Os subsídios e comparticipações por quaisquer entidades, públicas ou privadas, nacionais, estrangeiras ou internacionais;
-
-d) O produto da aplicação das coimas;
-
-e) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 16.º — Despesas
 
-1 - Constituem despesas do IND:
+(Revogado.)
 
-a) Os encargos resultantes do respectivo funcionamento e do exercício das atribuições e competências que lhe estão cometidas;
-
-b) Os encargos resultantes da comparticipação nas operações de eclusagem e nos custos de manutenção corrente das eclusas, nos termos estabelecidos no protocolo a que se refere a alínea j) do artigo 6.º;
-
-c) Os juros e a amortização dos empréstimos que venha a contrair.
-
-2 - Durante um período a fixar no protocolo a que se refere a alínea j) do artigo 6.º, o IND fica dispensado de suportar os encargos referidos na alínea b) do número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 17.º — Quadros de pessoal
 
-1 - O IND dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.
+(Revogado.)
 
-2 - O quadro do restante pessoal do IND é aprovado por portaria conjunta do ministro da tutela, do Ministro das Finanças e do Ministro da Reforma do Estado e da Administração Pública.
-
-> Alterado pelo/a [Decreto-Lei n.º 201/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225), publicado em 2001-07-13.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
 ###### Artigo 18.º — Cobrança coerciva de dívidas
 
-1 - A cobrança coerciva das dívidas do IND é efectuada, nos termos previstos na lei, através de execução fiscal.
+(Revogado.)
 
-2 - O processo referido no número anterior tem por base certidão emitida pelo NAF, com valor de título executivo, de acordo com as disposições do artigo 249.º do Código de Processo Tributário.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 19.º — Concessão dos portos de Sardoura e Régua/Lamego
 
-O IND assume todos os direitos e obrigações do concedente, decorrentes do actual contrato de concessão de exploração dos portos de Sardoura e Régua/Lamego.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 20.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia subsequente ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
@@ -370,4 +207,6 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 17.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/127a01/00020006.pdf)
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.

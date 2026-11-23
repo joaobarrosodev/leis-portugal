@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Declaração de Rectificação 187/92: no art. 19.º, n.º 3, 'nos valores' passa a 'nos vales'. A citação usa maiúsculas ('Amieiros e Salgueiros') que o texto atual não tem; substituída só a palavra, mantendo as minúsculas do texto atual."
+    "Alterador 1 (Declaração de Rectificação 187/92): no art. 19.º, n.º 3, onde se lê «Amieiros e Salgueiros nos valores» deve ler-se «Amieiros e Salgueiros nos vales». No texto atual o trecho está em minúsculas («amieiros e salgueiros nos valores», uma só ocorrência de «valores»); trocada só a palavra «valores» por «vales», o resto do número copiado do texto atual. O reparo (parágrafo que não está no alterador nem no original) é próprio de uma retificação de uma palavra dentro do número."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 119,
   "problemas": [
     "19.º: parágrafo que não está no alterador nem no original: 3 - São espécies permitidas os carvalhos roble e negral e o pinheiro-manso, asso"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }
