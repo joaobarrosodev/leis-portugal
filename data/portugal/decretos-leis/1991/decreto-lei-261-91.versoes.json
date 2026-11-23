@@ -1,0 +1,401 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667887:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1b69535e59cf346e",
+    "06a1eaf182150550",
+    "fa3bdfd4ba98181f",
+    "291090fdf0fd6101",
+    "a1b55c9698959e46",
+    "628d0ae69bc2f10e",
+    "876a53dbea0ec1c5",
+    "c9655d89a4a08a53",
+    "f3bd8dca8b95f239",
+    "077d067a4c294d3a",
+    "e369c9d0fd3a11ee",
+    "75a94b625981b952",
+    "d85cddb497b2ed22",
+    "ae6866a949373668",
+    "341d69969fc7460e",
+    "73eaeed990d0fc4e",
+    "825c0bc64fbccf58"
+   ]
+  },
+  {
+   "date": "2021-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423061:por",
+     "title": "Lei n.º 118/99",
+     "published": "1999-08-11",
+     "dre_path": "/dr/detalhe/lei/118-1999-423061"
+    },
+    {
+     "id": "pt:dre:632906:por",
+     "title": "Lei n.º 99/2003",
+     "published": "2003-08-27",
+     "dre_path": "/dr/detalhe/lei/99-2003-632906"
+    },
+    {
+     "id": "pt:dre:490249:por",
+     "title": "Lei n.º 110/2009",
+     "published": "2009-09-16",
+     "dre_path": "/dr/detalhe/lei/110-2009-490249"
+    },
+    {
+     "id": "pt:dre:158316443:por",
+     "title": "Decreto-Lei n.º 16-A/2021",
+     "published": "2021-02-25",
+     "dre_path": "/dr/detalhe/decreto-lei/16-a-2021-158316443"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 15.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "1b69535e59cf346e",
+    "c4c8ba5a6a953c49",
+    "3ac39f05c9ea06bf",
+    "e420fb87662c3619",
+    "e479d86634f3fd20",
+    "c4186a967e33bdcd",
+    "e1f83c525a279e2d",
+    "264ce871d24ae523",
+    "ab0160d8853562e5",
+    "6ac9c5372392ac84",
+    "66d1a9ae1e99d2dc",
+    "03c09a999e6d882b",
+    "6716119256879dad",
+    "4ff7be9d1dd75e9f",
+    "019b422d42431ea5",
+    "96688b4fb57e626a",
+    "ea662ac616d877f8"
+   ]
+  }
+ ],
+ "fragments": {
+  "1b69535e59cf346e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nA partir de certa idade, a prestação de trabalho gera, progressivamente, maior tensão e cansaço físico, sobretudo quando o trabalhador revele dificuldade de adaptação a modificações tecnológicas e a novos processos de gestão que alteram as condições e o ambiente de trabalho. Em tal contexto, a resistência psicológica e física pode ser particularmente afectada quando ocorram insuficiências de qualificação profissional e de formação escolar básica e também perdas de aptidão ou, meramente, saturação profissional.\n\nExistem, contudo, razões, tanto objectivas como subjectivas, que justificam regimes de trabalho que enquadrem, de forma voluntária e natural, soluções adequadas a manifestações físicas e psíquicas que a idade traz consigo.\n\nO regime instituído pelo presente diploma, que se passa a designar como de pré-reforma, assume estes objectivos.\n\nAproveita-se a oportunidade para instituir apoios financeiros que confiram eficácia à pré-reforma enquadrada em medidas de recuperação de empresas declaradas em situação económica difícil ao abrigo do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto, em projectos de reestruturação desenvolvidos ao abrigo dos Decretos-Leis n.os [251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, e [206/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454), de 16 de Maio, ou em processos de recuperação de empresas nos termos do [Decreto-Lei n.º 177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, abrindo-se, nestes casos, a possibilidade de os trabalhadores com idades mais avançadas, em alternativa à pré-reforma, requererem a reforma nas condições legais aplicáveis.\n\nO regime ora instituído enquadra-se em objectivos de política social e económica já traduzidos noutros diplomas, como os que definiram a regulamentação de fundos de pensões, as prestações complementares de reforma, a pensão unificada e o pagamento retroactivo de contribuições relativas a períodos de exercício efectivo de actividade profissional por conta de outrem ou por conta própria, em que os interessados não apresentem carreira contributiva no âmbito do sistema de segurança social.\n\nSaliente-se, finalmente, que as soluções vertidas no presente diploma integram o Acordo Económico e Social, celebrado em 19 de Outubro de 1990, em sede do Conselho Permanente de Concertação Social.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nO projecto de diploma foi submetido à discussão pública, com publicação na separata n.º 1 do Boletim do Trabalho e Emprego, de 27 de Fevereiro de 1991.\n\nForam recebidos diversos contributos de organizações de trabalhadores que concordam, na generalidade, com o regime contido no projecto, havendo, porém, quem sustente uma melhoria dos direitos sociais dos trabalhadores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "06a1eaf182150550": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico aplicável às situações de pré-reforma."
+  },
+  "fa3bdfd4ba98181f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se aos trabalhadores por conta de outrem abrangidos pelo regime geral de segurança social.\n\n2 - Ficam excluídos da aplicação do presente diploma os trabalhadores abrangidos pelo regime geral de segurança social cujo âmbito material não compreenda a protecção nas eventualidades de invalidez, velhice e morte."
+  },
+  "291090fdf0fd6101": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Noção de pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Noção de pré-reforma\n\nPara efeitos do presente diploma considera-se pré-reforma a situação de suspensão ou redução da prestação de trabalho em que o trabalhador com idade igual ou superior a 55 anos mantém o direito a receber da entidade empregadora uma prestação pecuniária mensal até a data da verificação de qualquer das situações previstas no n.º 1 do artigo 11.º"
+  },
+  "a1b55c9698959e46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Acordo de pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acordo de pré-reforma\n\n1 - A situação de pré-reforma depende de acordo entre a entidade empregadora e o trabalhador.\n\n2 - O acordo a que se refere o número anterior está sujeito a forma escrita, devendo ser assinado por ambas as partes e conter as seguintes indicações:\n\na) Data de início da situação de pré-reforma;\n\nb) O montante da prestação de pré-reforma;\n\nc) Forma de organização do tempo de trabalho no caso de redução da prestação de trabalho.\n\n3 - A entidade empregadora deve remeter o acordo de pré-reforma ao respectivo centro regional de segurança social, conjuntamente com a folha de remunerações relativa ao mês da sua entrada em vigor.\n\n4 - Para efeitos da dedução prevista no n.º 2 do artigo 12.º, o trabalhador deve, no prazo máximo de 15 dias, comunicar à entidade empregadora ou ao centro de emprego que o abranja, respectivamente, o início de qualquer actividade profissional remunerada."
+  },
+  "628d0ae69bc2f10e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direitos dos trabalhadores em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos dos trabalhadores em geral\n\n1 - O trabalhador em situação de pré-reforma tem os direitos constantes do acordo celebrado com a entidade empregadora, sem prejuízo do disposto nos artigos seguintes.\n\n2 - O trabalhador em situação de pré-reforma pode desenvolver outra actividade profissional remunerada, sem prejuízo do disposto no n.º 2 do artigo 12.º"
+  },
+  "876a53dbea0ec1c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direitos de natureza remuneratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos de natureza remuneratória\n\n1 - A prestação de pré-reforma inicialmente fixada, actualizável nos termos do número seguinte, não pode ser inferior a 25% da última remuneração auferida pelo trabalhador nem superior a esta remuneração.\n\n2 - Salvo estipulação em contrário constante do acordo de pré-reforma, a prestação referida no número anterior é actualizada anualmente em percentagem igual à do aumento de remuneração de que o trabalhador beneficiaria se estivesse ao serviço ou, caso não exista, à taxa de inflação.\n\n3 - A prestação mensal goza de todas as garantias e privilégios reconhecidos à retribuição."
+  },
+  "c9655d89a4a08a53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Consequências do não pagamento da prestação de pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consequências do não pagamento da prestação de pré-reforma\n\nNo caso de falta de pagamento da prestação de pré-reforma, o trabalhador tem direito a optar entre rescindir o contrato com justa causa com direito à indemnização prevista nos n.os 2 e 3 do artigo 11.º e retomar o pleno exercício de funções, sem prejuízo da antiguidade, se a falta for culposa ou se a mora se prolongar por mais de 30 dias."
+  },
+  "f3bd8dca8b95f239": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direitos em matéria de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direitos em matéria de segurança social\n\n1 - Na situação de pré-reforma, o trabalhador mantém o direito às prestações do sistema de segurança social, sem prejuízo do disposto nos números seguintes.\n\n2 - Quando a pré-reforma se traduza em suspensão da prestação de trabalho, o trabalhador perde, nessa qualidade, o direito aos subsídios de doença, maternidade ou paternidade e desemprego.\n\n3 - Quando a pré-reforma se traduza em redução da prestação de trabalho, o trabalhador mantém o direito referido no número anterior, com base na remuneração auferida referente ao trabalho prestado.\n\n4 - O disposto nos n.os 2 e 3 não prejudica a aquisição do mesmo direito quando se verifique a entrada de contribuições pelo exercício de outra actividade."
+  },
+  "077d067a4c294d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime contributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime contributivo\n\n1 - As entidades empregadoras e os trabalhadores estão sujeitos a contribuições para a segurança social, que incidem sobre o valor da remuneração que serviu de base ao cálculo da prestação de pré-reforma do mês a que respeitam.\n\n2 - Às contribuições referidas no número anterior são aplicadas as normas relativas ao pagamento das contribuições devidas por remunerações, de acordo com as seguintes taxas:\n\na) 7% e 3%, a pagar, respectivamente, pela entidade empregadora e pelo trabalhador, no caso de este ter completado 37 anos de período contributivo;\n\nb) 14,6% e 7%, a pagar, respectivamente, pela entidade empregadora e pelo trabalhador, nos restantes casos.\n\n3 - Até 31 de Dezembro de 1995 considera-se que há equivalência à entrada de contribuições até à idade legal de reforma, a partir do momento em que o trabalhador complete 40 anos de período contributivo."
+  },
+  "e369c9d0fd3a11ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reforma por velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reforma por velhice\n\nO trabalhador é considerado requerente da pensão por velhice logo que complete a idade legal de reforma, salvo se até essa data tiver ocorrido a extinção da situação de pré-reforma."
+  },
+  "75a94b625981b952": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Extinção da situação de pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extinção da situação de pré-reforma\n\n1 - A situação de pré-reforma extingue-se:\n\na) Com a passagem à situação de pensionista por limite de idade ou invalidez;\n\nb) Com o regresso ao pleno exercício de funções por acordo entre o trabalhador e a entidade empregadora ou nos termos do artigo 7.º;\n\nc) Com a cessação do contrato de trabalho.\n\n2 - Sempre que a extinção da situação de pré-reforma resulte de cessação do contrato de trabalho que conferisse ao trabalhador direito a indemnização ou compensação caso estivesse no pleno exercício das suas funções, aquele tem direito a uma indemnização correspondente ao montante das prestações de pré-reforma até à idade legal de reforma.\n\n3 - A indemnização referida no número anterior tem por base a última prestação de pré-reforma devida, nos termos do artigo 6.º, à data da cessação do contrato de trabalho.\n\n4 - O trabalhador cuja pré-reforma se extinguiu por motivo de cessação do contrato de trabalho e se encontre em situação de desemprego involuntário tem direito às prestações de desemprego nos termos legais.\n\n5 - A extinção da situação de pré-reforma deve ser mencionada na folha de remunerações relativa ao mês da sua verificação."
+  },
+  "d85cddb497b2ed22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Situações especiais de pré-reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Situações especiais de pré-reforma antecipada\n\n1 - Sempre que o acordo de pré-reforma se enquadre em medidas de recuperação de empresas declaradas em situação económica difícil ao abrigo do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto, em projectos de reestruturação desenvolvidos ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, ou do n.º 2 do artigo 5.º do [Decreto-Lei n.º 206/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454), de 16 de Maio, e, bem assim, em processos de recuperação de empresas nos termos do [Decreto-Lei n.º 177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e se verifique o desequilíbrio económico-financeiro da entidade empregadora, esta pode requerer:\n\na) A equivalência, pelo prazo de 1 ano, prorrogável pelo período máximo de 12 meses, à entrada de contribuições para os trabalhadores pré-reformados;\n\nb) Uma comparticipação do Instituto do Emprego e Formação Profissional no pagamento da prestação de pré-reforma até metade do valor desta, pelo prazo de 6 meses, prorrogável pelo período máximo de 12 meses, salvo se, em relação ao mesmo trabalhador, a empresa já tiver beneficiado da comparticipação financeira prevista no artigo 13.º do [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro;\n\nc) Relativamente aos trabalhadores que tenham completado 60 anos, em alternativa à pré-reforma, a possibilidade de requererem a reforma antecipada nas condições legais aplicáveis.\n\n2 - A comparticipação prevista na alínea b) do número anterior não pode, em qualquer caso, exceder a remuneração mínima mensal garantida por lei, sendo deduzida dos rendimentos de trabalho auferidos pelo trabalhador no exercício de actividade profissional após passagem à situação de pré-reforma, independentemente do estipulado no acordo de pré-reforma.\n\n3 - A prorrogação dos benefícios é concedida mediante requerimento da entidade empregadora em que se prove a manutenção das condições que fundamentaram a sua concessão inicial.\n\n4 - O disposto no n.º 1 é igualmente aplicável às actividades ou empresas afectadas pelo impacte económico e social das referidas reestruturações, cuja situação seja expressamente reconhecida por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e do Emprego e da Segurança Social e responsável pelo respectivo sector de actividade, ouvido o Conselho Permanente de Concertação Social."
+  },
+  "ae6866a949373668": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Salvaguarda de situações já constituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Salvaguarda de situações já constituídas\n\nO regime estabelecido no presente diploma não prejudica as situações globalmente mais favoráveis já constituídas ao abrigo de disposições convencionais."
+  },
+  "341d69969fc7460e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções\n\n1 - A violação das obrigações decorrentes do presente diploma em matéria de segurança social é punida nos termos do estabelecido no [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.\n\n2 - O incumprimento do dever de comunicação ao centro de emprego estabelecido no n.º 4 do artigo 4.º constitui contra-ordenação punível com coima de 10000$00 a 50000$00, a aplicar pelo respectivo director.\n\n3 - A falta de pagamento pontual da prestação de pré-reforma é punida nos termos estabelecidos na regulamentação geral do contrato individual de trabalho para a falta de pagamento pontual da retribuição.\n\n4 - A aplicação das sanções pela infracção referida no número anterior compete à Inspecção-Geral do Trabalho.\n\n5 - O produto das multas reverte para o Instituto de Gestão Financeira da Segurança Social.\n\n6 - Sem prejuízo do disposto nos artigos 181.º e seguintes do Código de Processo do Trabalho, as multas pela violação do disposto no presente diploma serão aplicadas na sentença proferida nas acções cíveis em que se provem tais violações, tendo a propositura da acção o efeito interruptivo previsto no n.º 2 do artigo 184.º do mesmo Código."
+  },
+  "73eaeed990d0fc4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regiões Autónomas\n\nO presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes das competências próprias dos seus órgãos e serviços que vierem a ser introduzidas por decreto legislativo regional."
+  },
+  "825c0bc64fbccf58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor em todo o território nacional no dia 1 do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 15 de Julho de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "c4c8ba5a6a953c49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "3ac39f05c9ea06bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "e420fb87662c3619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Noção de pré-reforma",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 3.º — Noção de pré-reforma\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "e479d86634f3fd20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Acordo de pré-reforma",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 118/99](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), publicado em 1999-08-11.",
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 4.º — Acordo de pré-reforma\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 118/99](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), publicado em 1999-08-11.\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "c4186a967e33bdcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direitos dos trabalhadores em geral",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 5.º — Direitos dos trabalhadores em geral\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "e1f83c525a279e2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direitos de natureza remuneratória",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 6.º — Direitos de natureza remuneratória\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "264ce871d24ae523": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Consequências do não pagamento da prestação de pré-reforma",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 7.º — Consequências do não pagamento da prestação de pré-reforma\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "ab0160d8853562e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direitos em matéria de segurança social",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 8.º — Direitos em matéria de segurança social\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "6ac9c5372392ac84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime contributivo",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 9.º — Regime contributivo\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "66d1a9ae1e99d2dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reforma por velhice",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 10.º — Reforma por velhice\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "03c09a999e6d882b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Extinção da situação de pré-reforma",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 11.º — Extinção da situação de pré-reforma\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "6716119256879dad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Situações especiais de pré-reforma antecipada",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 16-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), publicado em 2021-02-25."
+   ],
+   "markdown": "###### Artigo 12.º — Situações especiais de pré-reforma antecipada\n\n1 - Sempre que o acordo de pré-reforma se enquadre em medidas de recuperação de empresas declaradas em situação económica difícil ao abrigo do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto, em projectos de reestruturação desenvolvidos ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, ou do n.º 2 do artigo 5.º do [Decreto-Lei n.º 206/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454), de 16 de Maio, e, bem assim, em processos de recuperação de empresas nos termos do [Decreto-Lei n.º 177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e se verifique o desequilíbrio económico-financeiro da entidade empregadora, esta pode requerer:\n\na) A equivalência, pelo prazo de 1 ano, prorrogável pelo período máximo de 12 meses, à entrada de contribuições para os trabalhadores pré-reformados;\n\nb) Uma comparticipação do Instituto do Emprego e Formação Profissional no pagamento da prestação de pré-reforma até metade do valor desta, pelo prazo de 6 meses, prorrogável pelo período máximo de 12 meses, salvo se, em relação ao mesmo trabalhador, a empresa já tiver beneficiado da comparticipação financeira prevista no artigo 13.º do [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro;\n\nc) Relativamente aos trabalhadores que tenham completado 62 anos e possuam 40 anos civis com registo de remunerações relevantes para a taxa de formação da pensão, a possibilidade de requererem pensão antecipada nas condições legais aplicáveis.\n\n2 - A comparticipação prevista na alínea b) do número anterior não pode, em qualquer caso, exceder a remuneração mínima mensal garantida por lei, sendo deduzida dos rendimentos de trabalho auferidos pelo trabalhador no exercício de actividade profissional após passagem à situação de pré-reforma, independentemente do estipulado no acordo de pré-reforma.\n\n3 - A prorrogação dos benefícios é concedida mediante requerimento da entidade empregadora em que se prove a manutenção das condições que fundamentaram a sua concessão inicial.\n\n4 - O disposto no n.º 1 é igualmente aplicável às actividades ou empresas afectadas pelo impacte económico e social das referidas reestruturações, cuja situação seja expressamente reconhecida por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e do Emprego e da Segurança Social e responsável pelo respectivo sector de actividade, ouvido o Conselho Permanente de Concertação Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 16-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), publicado em 2021-02-25."
+  },
+  "4ff7be9d1dd75e9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Salvaguarda de situações já constituídas",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 13.º — Salvaguarda de situações já constituídas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "019b422d42431ea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Sanções",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 14.º — Sanções\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+  },
+  "96688b4fb57e626a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regiões Autónomas",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 15.º — Regiões Autónomas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "ea662ac616d877f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2021-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27."
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), publicado em 2003-08-27.\n\nVisto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 15 de Julho de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}
