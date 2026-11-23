@@ -268,7 +268,12 @@ def _alterador_para_triagem(a: dict, titulo_original: str) -> dict:
                    "nota": "o início do alterador, os artigos que mencionam o original e janelas à volta das outras menções"}
 
 
-def entrada_triagem(itens: list[dict]) -> int:
+def _pasta_triagem(n: int) -> Path:
+    """A pasta da triagem às cegas da onda `n`: `triagem/` na onda 1, `triagem-N/` nas seguintes."""
+    return CAMADA1 / ("triagem" if n == 1 else f"triagem-{n}")
+
+
+def entrada_triagem(itens: list[dict], n: int = 1) -> int:
     from texto import front_matter, publicado  # noqa: PLC0415
 
     selecao = {r["id"]: r for r in _jsonl(SELECAO_ESCALA)}
@@ -312,7 +317,7 @@ def entrada_triagem(itens: list[dict]) -> int:
         tamanho += t
     if atual:
         lotes.append(atual)
-    pasta = CAMADA1 / "triagem"
+    pasta = _pasta_triagem(n)
     pasta.mkdir(exist_ok=True)
     for k, lote in enumerate(lotes, 1):
         (pasta / f"entrada-{k:02d}.jsonl").write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in lote), encoding="utf-8")
@@ -434,10 +439,11 @@ def classe_da_triagem(veredictos: list[dict]) -> str:
     return "sem_alteracao"
 
 
-def juntar_triagem() -> int:
+def juntar_triagem(n: int = 1) -> int:
     """`camada1/triagem.jsonl`: por diploma, os veredictos de cada alterador e a classe. As saídas que
-    escreveram o título no lugar do id do alterador juntam-se pela posição (o número e a ordem batem)."""
-    pasta = CAMADA1 / "triagem"
+    escreveram o título no lugar do id do alterador juntam-se pela posição (o número e a ordem batem). Os diplomas
+    de outras ondas que já lá estão ficam; os desta onda substituem-se."""
+    pasta = _pasta_triagem(n)
     entradas, saidas = {}, {}
     for f in sorted(pasta.glob("entrada-*.jsonl")):
         for d in _jsonl(f):
@@ -458,8 +464,10 @@ def juntar_triagem() -> int:
                                              "motivo": v.get("motivo") or "", "instrucoes": v.get("instrucoes") or [],
                                              "texto_completo": a.get("completo"), "sem_texto": a.get("sem_texto")})
     linhas = [{"id": i, "classe": classe_da_triagem(v), "alteradores": v} for i, v in por.items()]
-    (CAMADA1 / "triagem.jsonl").write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
-    print(f"{len(linhas)} diplomas: {dict(Counter(l['classe'] for l in linhas))}")
+    f = CAMADA1 / "triagem.jsonl"
+    linhas = [d for d in (_jsonl(f) if f.exists() else []) if d["id"] not in por] + linhas
+    f.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
+    print(f"{len(por)} diplomas desta onda: {dict(Counter(l['classe'] for l in linhas if l['id'] in por))}; {len(linhas)} no ficheiro")
     return 0
 
 
@@ -1074,7 +1082,7 @@ def main() -> int:
             print(f"{k:5d}  {c}")
         return 0
     if args.passo == "juntar-triagem":
-        return juntar_triagem()
+        return juntar_triagem(args.n)
     if args.passo == "refazer-selecao":
         return refazer_selecao()
     if args.passo == "acrescentar-alteradores":
@@ -1095,7 +1103,7 @@ def main() -> int:
         return encolher(args.pasta, 300_000)
     itens = _jsonl(ficheiro)
     if args.passo == "entrada-triagem":
-        return entrada_triagem(itens)
+        return entrada_triagem(itens, args.n)
     if args.passo == "pedidos":
         extra = args.ids_extra.read_text(encoding="utf-8").split() if args.ids_extra else []
         return pedidos_llm(itens, extra, args.pasta, args.so_extra)
