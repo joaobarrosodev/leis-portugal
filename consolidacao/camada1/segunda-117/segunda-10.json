@@ -1,0 +1,13 @@
+[
+ {
+  "id": "pt:dre:292305:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Quadro anexo a que se refere o artigo 31.º (no fim do bloco do art. 34.º, depois das fórmulas finais): ficou o título «Quadro anexo a que se refere o artigo 31.º» com a ligação à imagem do quadro de 1992, a seguir aos artigos «(Revogado.)». O art. 15.º do Decreto-Lei n.º 85/2007 revoga o Decreto-Lei n.º 144/92 inteiro, «com excepção do disposto no n.º 2 do artigo 6.º», e o quadro anexo faz parte do diploma (art. 31.º, n.º 1, também revogado). O quadro tinha sido, além disso, substituído pela Portaria n.º 607/95 (que o próprio art. 10.º, n.º 6, do DL 85/2007 mantém em vigor transitoriamente) e alterado pela Portaria n.º 209/96 (2.ª série), nenhuma das quais está entre os alteradores. O anexo deve ficar «Quadro anexo a que se refere o artigo 31.º — (Revogado.)», sem a ligação ao quadro de 1992 como se estivesse em vigor. O resto está certo: art. 6.º com o n.º 1 «(Revogado.)» e o n.º 2 mantido, como manda a exceção; arts. 1.º a 5.º e 7.º a 34.º «(Revogado.)»; os alteradores 1 a 9 e o DL 79/2005 (art. 13.º, n.º 7) não mudam o texto."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado pelo art. 15.º do Decreto-Lei n.º 85/2007, de 29 de Março (em vigor a 1 de Abril de 2007), com excepção do n.º 2 do artigo 6.º; relação repealed_by pt:dre:520467:por."
+  }
+ }
+]
