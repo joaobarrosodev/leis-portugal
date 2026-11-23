@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-09-19'
+version_history:
+  file: decreto-lei-43705.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-09-19'
+    amending: pt:dre:442320:por
+    amending_title: Decreto-Lei n.º 360/83
+    changes:
+    - Altera Artigo unidades 38-39
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 360/83. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43705.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,9 +195,9 @@ Art. 5.º São isentos de portagem os veículos automóveis do Estado, do corpo 
 
 Art. 6.º A falta de pagamento da importância das portagens fixadas no presente decreto-lei será punida com multa correspondente a vinte vezes a taxa devida e na sua cobrança aplicar-se-á o disposto no artigo 11.º da [Lei n.º 1955](https://diariodarepublica.pt/dr/detalhe/lei/1955-1937-426104), de 17 de Maio de 1937, não cabendo aos autuantes qualquer participação nas multas cobradas.
 
-Art. 7.º É a Junta Autónoma de Estradas autorizada, mediante despacho do Ministro das Obras Públicas, a contratar ou assalariar, além do quadro, o pessoal necessário para o serviço de portagens, com as categorias e as remunerações que forem fixadas no mesmo despacho, com o acordo do Ministro das Finanças.
+Art. 7.º (Revogado.)
 
-§ único. Ao pessoal referido neste artigo serão fornecidos fardamentos e impermeáveis para o desempenho do serviço que lhe compete, sendo os encargos suportados pelas verbas que forem destinadas à conservação e exploração das obras.
+> Alterado pelo/a [Decreto-Lei n.º 360/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1983-442320), publicado em 1983-09-14.
 
 Art. 8.º No exercício das suas funções os indivíduos empregados nos serviços de cobrança da portagem serão, para todos os efeitos legais, agentes de autoridade, e terão, portanto, competência para o levantamento de autos de notícia sobre as transgressões à referida cobrança e demais normas aplicadas ao trânsito na auto-estrada e na ponte, fazendo aqueles autos fé em juízo até prova em contrário. Nesses autos será dispensada a indicação de testemunhas sempre que as circunstâncias da verificação da infracção não permitam indicá-las.
 

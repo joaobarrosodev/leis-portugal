@@ -38,10 +38,23 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-31'
+version_history:
+  file: decreto-lei-21-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-31'
+    amending: pt:dre:495715:por
+    amending_title: Decreto-Lei n.º 20/94
+    changes: []
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/21/1993/01/26/p/dre/pt/html
@@ -67,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:24:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 20/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-21-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,11 +147,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º O prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.
+###### Artigo 1.º
 
-Art. 2.º O adicional será reduzido para 4% em 1993 no que respeita aos fornecimentos em alta e média tensão e fornecimentos em baixa tensão (BT) a consumidores com potência contratada superior a 19,8 kVA.
+O prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.
 
-Art. 3.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
+###### Artigo 2.º
+
+O adicional será reduzido para 4% em 1993 no que respeita aos fornecimentos em alta e média tensão e fornecimentos em baixa tensão (BT) a consumidores com potência contratada superior a 19,8 kVA.
+
+###### Artigo 3.º
+
+O presente diploma reporta os seus efeitos a 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.
 

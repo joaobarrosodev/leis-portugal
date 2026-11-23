@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-21'
+version_history:
+  file: decreto-lei-64-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-21'
+    amending: pt:dre:424698:por
+    amending_title: Decreto-Lei n.º 225/98; Decreto-Lei n.º 210/2004
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/64/1995/04/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:42:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225/98; Decreto-Lei
+    n.º 210/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-64-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,13 +152,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - As despesas comuns resultantes da exploração, pela Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, da Lotaria Nacional, do JOKER e da Lotaria Instantânea são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.
+###### Artigo 1.º
+
+1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.
 
 2 - À parte correspondente das despesas comuns calculadas nos termos do número anterior acrescem as despesas especificamente imputáveis a cada modalidade de jogo, constituindo a sua soma as respectivas despesas de exploração.
 
-Art. 2.º É revogada, na parte prejudicada pelo disposto no presente diploma, a alínea b) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, na redacção introduzida pelo [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro.
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 225/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698), publicado em 1998-07-17.
 
-Art. 3.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1995.
+> Alterado pelo/a [Decreto-Lei n.º 210/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2004-480286), publicado em 2004-08-20.
+
+###### Artigo 2.º
+
+É revogada, na parte prejudicada pelo disposto no presente diploma, a alínea b) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, na redacção introduzida pelo [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro.
+
+###### Artigo 3.º
+
+O presente diploma reporta os seus efeitos a 1 de Janeiro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha.
 

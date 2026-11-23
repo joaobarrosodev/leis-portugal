@@ -39,10 +39,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-12'
+version_history:
+  file: decreto-lei-351-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-12'
+    amending: pt:dre:666147:por
+    amending_title: Lei n.º 13/87
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 21-23
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 28-28
+    - Adita Artigo depois da unidade 31
+    - Altera Artigo unidades 48-48
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 67-67
+    - Adita Artigo depois da unidade 77
+    - Altera Artigo unidades 104-108
+    - Altera Artigo unidades 112-112
+    - Altera Artigo unidades 125-127
+    - Altera Artigo unidades 136-137
 identifiers:
   celex: null
   eli: null
@@ -68,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:15:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 13/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-351-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,37 +218,61 @@ Art. 2.º - 1 - A União de Bancos Portugueses, S. A. R. L., mantém, sob a form
 
 Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente um capital social de 6000000000$00, o qual se acha integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
-2 - As acções representativas do capital subscrito pelo Estado serão mantidas na titularidade da Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma entidade do sector público ou a sua titularidade ser transferida, desde que observado o disposto no número seguinte.
+2 - As acções representativas do capital subscrito pelo Estado serão mantidas na titularidade da Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma entidade do sector público ou a sua titularidade ser transferida, desde que observado o disposto nos números seguintes.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 3 - As acções representativas do capital social da União de Bancos Portugueses, S. A. R. L., e as novas accões emitidas por força de aumentos de capital só poderão pertencer ao Estado, a pessoas colectivas de direito público, a empresas públicas e a sociedades de capitais públicos; consideram-se sociedades de capitais públicos, para efeitos deste diploma, aquelas cujos capitais, por determinação legal, apenas possam pertencer a entidades do sector público.
 
-4 - Os fundos públicos e organismos congéneres do sector público administrativo poderão subscrever acções representativas do capital da União de Bancos Portugueses, S. A. R. L., desde que, para o efeito, sejam autorizados por despacho do Ministro das Finanças.
+4 - A participação directa do Estado no capital social da União de Bancos Portugueses, S. A., nunca poderá ser inferior a 51%.
+
+5 - Os fundos públicos e organismos congéneres do sector público administrativo com receitas próprias não integrados no Orçamento do Estado que, nos termos legais, apenas excepcionalmente possam recorrer a dotações do Estado, poderão subscrever acções representativas do capital da União de Bancos Portugueses, S. A., desde que, para o efeito, sejam autorizados por despacho do Ministro das Finanças.
+
+6 - Se qualquer dos titulares das acções da União de Bancos Portugueses, S. A., deixar de se conformar com o disposto nos n.os 3 e 5, terá de alienar, pelo seu valor contabilístico à data da alienação, ao Estado ou a outra entidade do sector público a designar pelo Governo, no prazo de quinze dias, as acções que lhe pertencerem.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 4.º - 1 - São aprovados os estatutos da União de Bancos Portugueses, S. A. R. L., anexos a este diploma e que dele fazem parte integrante.
 
 2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
-3 - As eventuais alterações aos presentes estatutos produzirão todos os seus efeitos independentemente de forma legislativa, desde que deliberadas nos termos dos estatutos, sendo bastante a sua redução a escritura pública e subsequente registo.
+3 - As eventuais alterações aos estatutos anexo a este diploma produzirão todos os seus efeitos independentemente de forma legislativa, desde que deliberadas nos termos dos estatutos e do presente diploma, sendo bastante a sua redução a escritura pública e subsequente registo.
 
-4 - As alterações previstas no número anterior terão sempre de respeitar o disposto no presente decreto-lei.
+4 - A assembleia geral não poderá introduzir alterações aos estatutos anexos que modifiquem a natureza jurídica da União de Bancos Portugueses, S. A., tal qual é definida no presente diploma, bem como o seu objecto social.
 
-5 - O presente diploma é título bastante para os necessários actos de registo no Registo Nacional de Pessoas Colectivas e na conservatória do registo comercial, ficando os mesmos isentos de todas as taxas, emolumentos e outros encargos por força da realização de tais actos.
+5 - A dissolução da União de Bancos Portugueses, S. A., se vier a ser deliberada pela assembleia geral, só produzirá os seus efeitos após a confirmação pelo Governo através de decreto-lei.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos sócios, o conselho de administração enviará ao Ministério das Finanças, pelo menos quinze dias antes da data da assembleia geral a quem cabe a apreciação:
 
 a) O relatório e contas, com apreciação da forma como foram executados os orçamentos anuais aprovados;
 
-b) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa e perspectivas da sua evolução.2 - O conselho fiscal ou a entidade que o substituir enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controles efectuados, as anomalias detectadas e os principais desvios em relação ao orçamento aprovado.
+b) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa e perspectivas da sua evolução.
+
+2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controles efectuados, as anomalias detectadas e os principais desvios em relação ao orçamento aprovado.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 3 - O Ministro das Finanças definirá por despacho as regras a aplicar para efeitos do disposto nos números anteriores.
 
-Art. 6.º - 1 - Os trabalhadores e pensionistas mantêm todos os seus direitos, obrigações e regalias emergentes do contrato individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas mantêm todos os seus direitos, obrigações e regalias emergentes do contrato individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma, incluindo os decorrentes de acordo colectivo de trabalho vertical aplicável ao sector.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais e os trabalhadores de empresas públicas podem ser autorizados a exercer funções na União de Bancos Portugueses, S. A. R. L., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruíam por antiguidade se tivessem permanecido naquele quadro.
 
 3 - A situação dos trabalhadores da União de Bancos Portugueses, S. A. R. L., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
 Art. 7.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá na sede do banco um mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gestão e da comissão de fiscalização até à data da posse dos novos corpos sociais.
+
+Art. 8.º São nulas quaisquer deliberações tomadas ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 351/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1986-222248), de 20 de Outubro, na sua redacção originária, quando contrárias ao disposto na presente lei.
+
+Art. 9.º O Estado assegurará até ao fim do ano económico de 1988 o pagamento dos encargos públicos decorrentes da descolonização que a União de Bancos Portugueses, E. P., foi obrigada a assumir.
+
+Art. 10.º Aplica-se à União de Bancos Portugueses, S. A., o disposto na [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro.
+
+> Aditado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
@@ -254,7 +306,7 @@ Art. 4.º - 1 - O capital social é de 6000000000$00, está integralmente subscr
 
 3 - As acções são livremente transferíveis entre as entidades referidas no número anterior.
 
-4 - Poderá haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 5.º - 1 - A sociedade terá um fundo de reserva sem limite máximo, constituído pela transferência de lucros líquidos apurados em cada exercício, de acordo com a deliberação da assembleia geral.
 
@@ -282,7 +334,9 @@ Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito de 
 
 5 - O Estado é representado na assembleia geral pela pessoa que for designada por despacho do Ministro das Finanças.
 
-6 - Os restantes accionistas que sejam pessoas colectivas deverão indicar, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.
+6 - Os restantes accionistas deverão indicar, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 7 - Nenhum accionista se poderá fazer representar por duas ou mais pessoas.
 
@@ -292,7 +346,9 @@ a) Apreciar o relatório do conselho de administração, discutir e votar o bala
 
 b) Eleger a mesa da assembleia geral, os administradores e os membros do conselho fiscal;
 
-c) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;
+c) Deliberar sobre alterações dos estatutos e aumentos de capital em conformidade com o diploma que cria a sociedade anónima;
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 d) Autorizar a aquisição e alienação de imóveis, e bem assim investimentos, uns e outros de valor superior a 20% do capital social;
 
@@ -313,6 +369,10 @@ Art. 14.º - 1 - O conselho de administração é composto por um presidente e p
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos pelo próprio conselho de administração até que a primeira assembleia geral sobre eles preveja definitivamente.
+
+4 - O disposto nos números anteriores aplicar-se-á com salvaguarda do disposto no artigo 31.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro, aumentando correspondentemente, se necessário, o número de vogais previsto no n.º 1 deste artigo.
+
+> Aditado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 15.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
 
@@ -366,15 +426,13 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 4 - O conselho de administração poderá deliberar, em termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.
 
-Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplemente, todos eleitos em assembleia geral.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e dois suplentes, sendo um dos efectivos e um dos suplentes eleitos pelos trabalhadores em acto eleitoral para o efeito convocado e os restantes eleitos em assembleia geral.
 
-2 - Um dos vogais efectivos será revisor oficial de contas.
+2 - Um dos vogais efectivos será revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
-3 - A assembleia geral poderá designar como vogal efectivo um representante dos trabalhadores da sociedade que previamente haja sido indicado por estes.
+3 - O mandato dos membros do conselho fiscal é de três anos, renovável.
 
-4 - O mandato dos membros do conselho fiscal é de três anos e é renovável.
-
-5 - Por deliberação da assembleia geral poderão as funções do conselho fiscal ser cometidas a uma sociedade revisora de contas.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 21.º - 1 - Ao conselho fiscal compete, em especial:
 
@@ -382,7 +440,9 @@ a) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a es
 
 b) Acompanhar o funcionamento da instituição e o cumprimento das leis, dos estatutos e do regulamento que lhe são aplicáveis;
 
-c) Assistir às reuniões do conselho de administração sempre que o entenda conveniente;
+c) Assistir às reuniões do conselho de administração sempre que o entenda conveniente, sendo obrigatória nas reuniões ordinárias, por escala, a presença de um dos seus membros;
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 d) Pedir a convocação extraordinária da assembleia geral sempre que o entenda conveniente;
 
@@ -408,11 +468,15 @@ Art. 24.º O regime jurídico do pessoal é definido:
 
 a) Pelas leis gerais do contrato individual de trabalho;
 
-b) Pelas convenções colectivas de trabalho a que a empresa estiver obrigada;
+b) Pela convenção colectiva de trabalho do sector bancário;
 
-c) Pelas demais normas que integrem o estatuto do pessoal da empresa, elaborado pelo conselho de administração;
+c) Por qualquer outro instrumento de regulamentação colectiva de trabalho a que a empresa estiver obrigada;
 
-d) Pelas normas de cada contrato individual de trabalho.
+d) Pelas demais normas que integrem o estatuto do pessoal da empresa, elaborado pelo conselho de administração;
+
+e) Pelas normas de cada contrato individual de trabalho.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 ### CAPÍTULO V — Aplicação do resultados
 
@@ -430,6 +494,4 @@ Art. 27.º Os presentes estatutos produzem efeitos a partir da data da entrada e
 
 Art. 28.º Em todos os casos omissos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas de responsabilidade limitada e as especiais que vigorarem sobre os bancos e as suas operações.
 
-Art. 29.º - 1 - A sociedade dissolve-se nos casos e termos legais.
-
-2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.

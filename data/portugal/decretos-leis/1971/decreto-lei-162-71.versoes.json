@@ -1,0 +1,158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:444725:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e88397b0832f3a15",
+    "3309e5522ea25e51"
+   ]
+  },
+  {
+   "date": "1975-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:471529:por",
+     "title": "Decreto-Lei n.º 598/74",
+     "published": "1974-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/598-1974-471529"
+    },
+    {
+     "id": "pt:dre:307616:por",
+     "title": "Decreto-Lei n.º 486/75",
+     "published": "1975-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/486-1975-307616"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "1a2ac134d00374a8",
+    "b11bbd25ce8420e8",
+    "0475bda8705796ad",
+    "ca951b1d43fe4517",
+    "5cfa3e9d2954d729",
+    "da2716c448aae5fe",
+    "dc924ac60ba0e8c6",
+    "fda755f91454e4b1",
+    "a9f0499a75aa8b32",
+    "56dd633fae25fa6b"
+   ]
+  }
+ ],
+ "fragments": {
+  "e88397b0832f3a15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Abril\n\nSendo conveniente tentar eliminar ou diminuir dificuldades que se têm verificado na efectivação do cumprimento da obrigatoriedade escolar;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Nos postos escolares poderão ser colocados professores dos quadros de agregados, com todos os direitos que teriam na situação de colocados em escolas.\n\nArt. 2.º O § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, passa a ter a seguinte redacção:"
+  },
+  "3309e5522ea25e51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º ...",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º ...\n\n§ 1.º Será criado um lugar de professor do ensino primário para cada grupo de trinta e cinco crianças em idade escolar, não ficando, porém, sujeita a esse número nem a criação de lugares nas freguesias onde não haja outra escola e nas localidades cuja distância à escola mais próxima seja superior a 3 km, nem a criação de lugares destinados a alunos deficientes motores ou sensoriais.\n\nArt. 3.º - 1. Quando os alunos matriculados numa escola excederem em não menos de quinze o número correspondente aos lugares docentes em funcionamento, criados com base no mínimo fixado na primeira parte do § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, na redacção dada no artigo 2.º do presente diploma, poderá ser criado mais um lugar.\n\n2. Os lugares de frequência mista integram-se nas escolas em que funcionam.\n\nArt. 4.º - 1. Os professores podem exercer em postos escolares a acumulação prevista no artigo 2.º do [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129), de 27 de Agosto de 1968.\n\n2. É também permitida a acumulação de regências de postos escolares nos mesmos termos.\n\n3. Aos professores a que se refere o n.º 1 competem as remunerações fixadas no n.º 4 do artigo 2.º do [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129); os regentes perceberão as remunerações correspondentes a cada uma das regências.\n\nArt. 5.º - 1. Aos alunos que tiverem de deslocar-se de suas residências, temporária ou permanentemente, para cumprirem as disposições legais de obrigatoriedade de frequência do ensino primário, poderão ser concedidos subsídios de transporte, se as suas condições económicas o justificarem.\n\n2. As faltas de professores primários, quando se prevejam por período superior a trinta dias, poderão ser supridas pela admissão, em regime de prestação de serviços, de pessoas idóneas para o exercício da função de ensinar.\n\n3. Aos professores que exerçam funções em localidades onde não for possível a instalação de suas residências poderão ser concedidos subsídios de transporte ou de residência, como em cada caso couber.\n\n4. As providências referidas nos números anteriores serão tomadas, ouvida a Direcção-Geral do Ensino Primário e destinam-se a assegurar o cumprimento das disposições legais relativas à obrigatoriedade da frequência do ensino primário.\n\n5. As remunerações e os subsídios previstos nos números anteriores serão fixados por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nArt. 6.º - 1. O provimento dos lugares das escolas primárias dos bairros de casas económicas do Estado ou de entidades de carácter oficial pode ser feito independentemente de concurso, devendo, porém, a nomeação recair em professores do quadro geral em exercício com pelo menos 14 valores de diploma, dez anos de serviço e menos de 40 anos de idade, tendo preferência absoluta os que provem haverem prestado, durante pelo menos quatro anos, serviço classificado de suficiente em escolas fora das sedes de distritos, fora dos concelhos limítrofes dos de Lisboa e Porto, das sedes dos outros concelhos urbanos e das dos rurais de 1.ª ordem.\n\n2. Os professores colocados nos termos do n.º 1 devem prestar aos alunos e às suas famílias a assistência cultural e educacional que for determinada por despacho ministerial, sob proposta da Direcção-Geral do Ensino Primário.\n\n3. Durante a segunda quinzena de Julho de cada ano será publicada no Diário do Governo a lista das vagas a prover nos termos deste artigo, em relação ao ano lectivo seguinte, a fim de que os interessados possam requerer a sua nomeação.\n\nArt. 7.º - 1. Os provimentos a fazer nos termos do artigo 1.º do [Decreto-Lei n.º 24173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24173-1934-466391), de 13 de Julho de 1934, relativamente a escolas com sede em Lisboa, Porto e Coimbra, devem recair em professores do quadro geral com pelo menos 14 valores de diploma e cinco anos de serviço docente.\n\n2. Tratando-se de lugares destinados a alunos deficientes motores e sensoriais a nomeação deve recair em professores habilitados com um curso especial que a Junta Nacional da Educação considere adequado ao ensino daqueles alunos.\n\nArt. 8.º Nos bairros criados nos termos do § 2.º do artigo 1.º do Código Administrativo, na redacção que lhe deu o artigo 1.º do [Decreto-Lei n.º 49268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49268-1969-214266), de 26 de Setembro de 1969, poderá haver delegados dos directores dos distritos escolares.\n\nArt. 9.º São revogados o artigo 20.º do [Decreto-Lei n.º 30951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30951-1940-200639), de 10 de Dezembro de 1940, e os artigos 8.º e 52.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 14 de Abril de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "1a2ac134d00374a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Abril\n\nSendo conveniente tentar eliminar ou diminuir dificuldades que se têm verificado na efectivação do cumprimento da obrigatoriedade escolar;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "b11bbd25ce8420e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNos postos escolares poderão ser colocados professores dos quadros de agregados, com todos os direitos que teriam na situação de colocados em escolas."
+  },
+  "0475bda8705796ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-09-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04."
+  },
+  "ca951b1d43fe4517": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1975-09-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), publicado em 1975-09-04."
+  },
+  "5cfa3e9d2954d729": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os professores podem exercer em postos escolares a acumulação prevista no artigo 2.º do [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129), de 27 de Agosto de 1968.\n\n2. É também permitida a acumulação de regências de postos escolares nos mesmos termos.\n\n3. Aos professores a que se refere o n.º 1 competem as remunerações fixadas no n.º 4 do artigo 2.º do [Decreto-Lei n.º 48546](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129); os regentes perceberão as remunerações correspondentes a cada uma das regências."
+  },
+  "da2716c448aae5fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Aos alunos que tiverem de deslocar-se de suas residências, temporária ou permanentemente, para cumprirem as disposições legais de obrigatoriedade de frequência do ensino primário, poderão ser concedidos subsídios de transporte, se as suas condições económicas o justificarem.\n\n2. As faltas de professores primários, quando se prevejam por período superior a trinta dias, poderão ser supridas pela admissão, em regime de prestação de serviços, de pessoas idóneas para o exercício da função de ensinar.\n\n3. Aos professores que exerçam funções em localidades onde não for possível a instalação de suas residências poderão ser concedidos subsídios de transporte ou de residência, como em cada caso couber.\n\n4. As providências referidas nos números anteriores serão tomadas, ouvida a Direcção-Geral do Ensino Primário e destinam-se a assegurar o cumprimento das disposições legais relativas à obrigatoriedade da frequência do ensino primário.\n\n5. As remunerações e os subsídios previstos nos números anteriores serão fixados por despacho conjunto dos Ministros das Finanças e da Educação Nacional."
+  },
+  "dc924ac60ba0e8c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1975-09-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 598/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1974-471529), publicado em 1974-11-07."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 598/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1974-471529), publicado em 1974-11-07."
+  },
+  "fda755f91454e4b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os provimentos a fazer nos termos do artigo 1.º do [Decreto-Lei n.º 24173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24173-1934-466391), de 13 de Julho de 1934, relativamente a escolas com sede em Lisboa, Porto e Coimbra, devem recair em professores do quadro geral com pelo menos 14 valores de diploma e cinco anos de serviço docente.\n\n2. Tratando-se de lugares destinados a alunos deficientes motores e sensoriais a nomeação deve recair em professores habilitados com um curso especial que a Junta Nacional da Educação considere adequado ao ensino daqueles alunos."
+  },
+  "a9f0499a75aa8b32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNos bairros criados nos termos do § 2.º do artigo 1.º do Código Administrativo, na redacção que lhe deu o artigo 1.º do [Decreto-Lei n.º 49268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49268-1969-214266), de 26 de Setembro de 1969, poderá haver delegados dos directores dos distritos escolares."
+  },
+  "56dd633fae25fa6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão revogados o artigo 20.º do [Decreto-Lei n.º 30951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30951-1940-200639), de 10 de Dezembro de 1940, e os artigos 8.º e 52.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 14 de Abril de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

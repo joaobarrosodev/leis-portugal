@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-06-30'
+version_history:
+  file: decreto-lei-193-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-30'
+    amending: pt:dre:233721:por
+    amending_title: Decreto-Lei n.º 105/2005
+    changes:
+    - Altera Artigo 6.º
+    - Adita Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:37:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 105/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-193-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,15 +128,25 @@ Assim:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-Artigo 1.º Designam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais.
+###### Artigo 1.º
 
-Art. 2.º A aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada.
+Designam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais.
 
-Art. 3.º Anualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior.
+###### Artigo 2.º
 
-Art. 4.º Em cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha.
+A aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada.
 
-Art. 5.º - 1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:
+###### Artigo 3.º
+
+Anualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior.
+
+###### Artigo 4.º
+
+Em cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha.
+
+###### Artigo 5.º
+
+1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:
 
 a) Nome;
 
@@ -132,19 +158,41 @@ d) Endereço radiotelegráfico.
 
 2 - Os elementos de identificação a que se refere o número anterior são determinados pelo Chefe do Estado-Maior da Armada e constarão do despacho mencionado no artigo 2.º que aumenta as unidades auxiliares ao efectivo.
 
-Art. 6.º As unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».
+###### Artigo 6.º
 
-Art. 7.º As unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais.
+1 - As unidades auxiliares têm pintada no seu costado ou nas superstruturas, num e noutro bordo, a meia-nau, de forma bem visível, a palavra «MARINHA».
 
-Art. 8.º - 1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.
+2 - As unidades auxiliares atribuídas à Polícia Marítima têm ainda pintadas com cor preta as palavras 'POLÍCIA MARÍTIMA'.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.
+
+###### Artigo 7.º
+
+As unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais.
+
+###### Artigo 8.º
+
+1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.
 
 2 - De acordo com as características e com as tarefas atribuídas àquelas unidades, poderão as referidas lotações incluir pessoal militar ou outro dos quadros do pessoal da Marinha.
 
-Art. 9.º As unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário.
+###### Artigo 9.º
 
-Art. 10.º As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa.
+As unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário.
 
-Art. 11.º A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.
+###### Artigo 10.º
+
+As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa.
+
+###### Artigo 11.º
+
+A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.
+
+###### Artigo 12.º
+
+Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.
+
+> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.
 
 Visto e aprovado em Conselho da Revolução em 12 de Junho de 1981.
 

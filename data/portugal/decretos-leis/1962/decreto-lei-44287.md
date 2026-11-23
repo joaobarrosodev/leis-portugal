@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-05-23'
+version_history:
+  file: decreto-lei-44287.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-05-23'
+    amending: pt:dre:312816:por
+    amending_title: Decreto-Lei n.º 47727
+    changes:
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:40:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47727. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44287.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1312,9 +1327,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Da competência e atribuições da Direcção-Geral dos Serviços Tutelares de Menores
 
-Artigo 1.º A Direcção-Geral dos Serviços Jurisdicionais de Menores passa a designar-se Direcção-Geral dos Serviços Tutelares de Menores e a ela ficam imediatamente subordinadas as instituições judiciárias privativas da infância, os estabelecimentos tutelares de menores e os respectivos serviços de assistência social.
+###### Artigo 1.º
 
-Art. 2.º Incumbe ao Ministro da Justiça, por intermédio da Direcção-Geral dos Serviços Tutelares de Menores:
+A Direcção-Geral dos Serviços Jurisdicionais de Menores passa a designar-se Direcção-Geral dos Serviços Tutelares de Menores e a ela ficam imediatamente subordinadas as instituições judiciárias privativas da infância, os estabelecimentos tutelares de menores e os respectivos serviços de assistência social.
+
+###### Artigo 2.º
+
+Incumbe ao Ministro da Justiça, por intermédio da Direcção-Geral dos Serviços Tutelares de Menores:
 
 a) Orientar superiormente os serviços de execução das medidas decretadas pelos tribunais de menores e resolver as dúvidas que fundadamente se suscitem na execução das leis e regulamentos respeitantes aos serviços tutelares de menores;
 
@@ -1332,33 +1351,47 @@ g) Fixar as remunerações a atribuir aos internados e as indemnizações a pres
 
 h) Aprovar os orçamentos das receitas próprias dos estabelecimentos dependentes, bem como da Federação Nacional das Instituições de Protecção à Infância.
 
-Art. 3.º - 1. À Direcção-Geral compete aceitar em nome do Estado as heranças, legados e doações que se destinem à fundação ou apetrechamento de estabelecimentos tutelares de menores.
+###### Artigo 3.º
+
+1. À Direcção-Geral compete aceitar em nome do Estado as heranças, legados e doações que se destinem à fundação ou apetrechamento de estabelecimentos tutelares de menores.
 
 2. Os estabelecimentos tutelares são considerados instituições de beneficência para efeito de adquirirem a título gratuito, mediante prévia autorização ministerial, e para todos os demais fins legais.
 
-Art. 4.º - 1. A Direcção-Geral goza de autonomia administrativa tanto em relação às verbas destinadas à realização de obras da sua competência, como relativamente à Federação Nacional das Instituições de Protecção à Infância.
+###### Artigo 4.º
+
+1. A Direcção-Geral goza de autonomia administrativa tanto em relação às verbas destinadas à realização de obras da sua competência, como relativamente à Federação Nacional das Instituições de Protecção à Infância.
 
 2. Do conselho administrativo da Direcção-Geral faz parte um representante do Ministério das Finanças, recrutado, de acordo com o Ministro da Justiça, entre os chefes de repartição da Direcção-Geral da Contabilidade Pública, ao qual será atribuída uma gratificação paga pelo orçamento da Federação.
 
 #### SECÇÃO II — Da Federação Nacional das Instituições de Protecção à Infância
 
-Art. 5.º A Federação Nacional das Instituições de Protecção à Infância é uma pessoa moral de direito público que representa, quer no País, quer no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperam na defesa e protecção da infância.
+###### Artigo 5.º
 
-Art. 6.º - 1. Os rendimentos do património por lei atribuído à Federação serão aplicados à satisfação das despesas dos serviços tutelares de menores, nas condições que forem fixadas em regulamento.
+A Federação Nacional das Instituições de Protecção à Infância é uma pessoa moral de direito público que representa, quer no País, quer no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperam na defesa e protecção da infância.
+
+###### Artigo 6.º
+
+1. Os rendimentos do património por lei atribuído à Federação serão aplicados à satisfação das despesas dos serviços tutelares de menores, nas condições que forem fixadas em regulamento.
 
 2. Fica revogado o disposto no artigo 2.º do [Decreto-Lei n.º 37902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37902-1950-481294), de 27 de Julho de 1950.
 
-Art. 7.º Como órgão executivo da Federação, cabe à Direcção-Geral a gestão dos respectivos serviços administrativos, bem como a orientação e fiscalização de todas as suas actividades.
+###### Artigo 7.º
+
+Como órgão executivo da Federação, cabe à Direcção-Geral a gestão dos respectivos serviços administrativos, bem como a orientação e fiscalização de todas as suas actividades.
 
 #### SECÇÃO III — Da organização, distribuição e competência dos serviços da Direcção-Geral
 
-Art. 8.º A Direcção-Geral dos Serviços Tutelares de Menores compreende:
+###### Artigo 8.º
+
+A Direcção-Geral dos Serviços Tutelares de Menores compreende:
 
 a) Os serviços centrais;
 
 b) Os serviços dependentes.
 
-Art. 9.º Os serviços centrais compreendem:
+###### Artigo 9.º
+
+Os serviços centrais compreendem:
 
 a) Uma repartição com duas secções;
 
@@ -1368,7 +1401,9 @@ c) Os serviços de assistência social;
 
 d) O serviço de inspecção.
 
-Art. 10.º Os serviços dependentes são constituídos:
+###### Artigo 10.º
+
+Os serviços dependentes são constituídos:
 
 a) Pelos tribunais tutelares de menores e centros de observação anexos aos tribunais centrais;
 
@@ -1376,25 +1411,39 @@ b) Pelos institutos de reeducação e médico-psicológicos e pelos lares de sem
 
 1) Do gabinete de estudos
 
-Art. 11.º Ao gabinete de estudos compete assegurar as relações com os organismos nacionais ou estrangeiros de protecção social, moral ou jurídica da infância e da juventude, estimular o interesse pelos problemas do direito tutelar de menores, divulgando os ensinamentos colhidos na doutrina, na legislação e na jurisprudência, tanto nacionais como estrangeiras, e promover, em colaboração com a Escola Prática de Ciências Criminais, a preparação e o aperfeiçoamento profissional do funcionalismo dos serviços.
+###### Artigo 11.º
+
+Ao gabinete de estudos compete assegurar as relações com os organismos nacionais ou estrangeiros de protecção social, moral ou jurídica da infância e da juventude, estimular o interesse pelos problemas do direito tutelar de menores, divulgando os ensinamentos colhidos na doutrina, na legislação e na jurisprudência, tanto nacionais como estrangeiras, e promover, em colaboração com a Escola Prática de Ciências Criminais, a preparação e o aperfeiçoamento profissional do funcionalismo dos serviços.
 
 2) Dos serviços de assistência social
 
-Art. 12.º - 1. Aos serviços de assistência social incumbe não só a prestação da assistência social aos menores sujeitos à jurisdição dos tribunais tutelares e respectivas famílias, mas também a organização de inquéritos nos processos da competência dos mesmos tribunais e a acção de patronato junto dos antigos internados dos estabelecimentos dependentes.
+###### Artigo 12.º
+
+1. Aos serviços de assistência social incumbe não só a prestação da assistência social aos menores sujeitos à jurisdição dos tribunais tutelares e respectivas famílias, mas também a organização de inquéritos nos processos da competência dos mesmos tribunais e a acção de patronato junto dos antigos internados dos estabelecimentos dependentes.
 
 2. Os assistentes e auxiliares sociais, no exercício das respectivas funções, poderão solicitar a quaisquer autoridades todo o auxílio necessário ao desempenho da sua missão.
 
-Art. 13.º - 1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.
+###### Artigo 13.º
 
-2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, porém, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes o directores.
+1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.
 
-Art. 14.º O número de assistentes e auxiliares sociais fixado no mapa anexo n.º 3 pode ser aumentado, mediante simples despacho dos Ministros da Justiça e das Finanças, pela criação de novos lugares à medida que as necessidades dos serviços o exijam.
+2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes, curadores e directores.
+
+> Alterado pelo/a [Decreto-Lei n.º 47727](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47727-1967-312816), publicado em 1967-05-23.
+
+###### Artigo 14.º
+
+O número de assistentes e auxiliares sociais fixado no mapa anexo n.º 3 pode ser aumentado, mediante simples despacho dos Ministros da Justiça e das Finanças, pela criação de novos lugares à medida que as necessidades dos serviços o exijam.
 
 3) Do serviço de inspecção
 
-Art. 15.º A fiscalização dos serviços subordinados à Direcção-Geral é exercida por meio de inspecções, inquéritos ou sindicâncias ordenados pelo Ministro da Justiça ou pelo director-geral.
+###### Artigo 15.º
 
-Art. 16.º - 1. O serviço de inspecção, que poderá ser efectuado pelo director-geral, fica especialmente a cargo do inspector.
+A fiscalização dos serviços subordinados à Direcção-Geral é exercida por meio de inspecções, inquéritos ou sindicâncias ordenados pelo Ministro da Justiça ou pelo director-geral.
+
+###### Artigo 16.º
+
+1. O serviço de inspecção, que poderá ser efectuado pelo director-geral, fica especialmente a cargo do inspector.
 
 2. Por conveniência de serviço, podem ser encarregados de proceder a inquéritos ou sindicâncias ou de instruir processos disciplinares quaisquer magistrados ou funcionários dependentes do Ministério da Justiça de categoria não inferior à dos funcionários visados.
 
@@ -1404,57 +1453,91 @@ Art. 16.º - 1. O serviço de inspecção, que poderá ser efectuado pelo direct
 
 #### SECÇÃO IV — Do pessoal
 
-Art. 17.º - 1. Os quadros e as remunerações do pessoal dos serviços centrais e dos serviços dependentes da Direcção-Geral são os constantes dos mapas anexos a este decreto-lei.
+###### Artigo 17.º
+
+1. Os quadros e as remunerações do pessoal dos serviços centrais e dos serviços dependentes da Direcção-Geral são os constantes dos mapas anexos a este decreto-lei.
 
 2. Ao Ministro da Justiça é, porém, lícito transferir de uma para outra secção da Direcção-Geral, sob proposta do director-geral, os funcionários cuja transferência convenha aos serviços.
 
-Art. 18.º O provimento dos lugares dos quadros reger-se-á pelas disposições consignadas no regulamento do presente diploma e, subsidiàriamente, pelas que constam da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.
+###### Artigo 18.º
 
-Art. 19.º - 1. Os directores, secretários, assistentes sociais, auxiliares sociais, educadores e monitores constituem em cada classe um quadro único, podendo o Ministro da Justiça, ouvida a Direcção-Geral, ordenar a sua colocação ou transferência para qualquer estabelecimento, em harmonia com as conveniências do serviço.
+O provimento dos lugares dos quadros reger-se-á pelas disposições consignadas no regulamento do presente diploma e, subsidiàriamente, pelas que constam da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.
+
+###### Artigo 19.º
+
+1. Os directores, secretários, assistentes sociais, auxiliares sociais, educadores e monitores constituem em cada classe um quadro único, podendo o Ministro da Justiça, ouvida a Direcção-Geral, ordenar a sua colocação ou transferência para qualquer estabelecimento, em harmonia com as conveniências do serviço.
 
 2. O restante pessoal dos estabelecimentos dependentes forma igualmente em cada classe, para efeitos de promoção, um quadro único.
 
-Art. 20.º Têm residência obrigatória junto dos estabelecimentos o director, o secretário, o ecónomo, os educadores, os monitores, os motoristas e qualquer outro pessoal que, por determinação do Ministro da Justiça, e mediante proposta da Direcção-Geral, deva ser considerado em serviço permanente.
+###### Artigo 20.º
 
-Art. 21.º Os lugares de psicólogo e de professor de Educação Física ou de Desenho e Trabalhos Manuais podem ser pagos, por gratificação, saindo a respectiva importância do vencimento orçamentado, e exercidos em regime de acumulação se os nomeados forem funcionários públicos.
+Têm residência obrigatória junto dos estabelecimentos o director, o secretário, o ecónomo, os educadores, os monitores, os motoristas e qualquer outro pessoal que, por determinação do Ministro da Justiça, e mediante proposta da Direcção-Geral, deva ser considerado em serviço permanente.
 
-Art. 22.º - 1. Os professores efectivos e contratados têm direito ao aumento de vencimento correspondente à 1.ª e 2.ª diuturnidades ao fim de, respectivamente, dez e vinte anos de bom serviço.
+###### Artigo 21.º
+
+Os lugares de psicólogo e de professor de Educação Física ou de Desenho e Trabalhos Manuais podem ser pagos, por gratificação, saindo a respectiva importância do vencimento orçamentado, e exercidos em regime de acumulação se os nomeados forem funcionários públicos.
+
+###### Artigo 22.º
+
+1. Os professores efectivos e contratados têm direito ao aumento de vencimento correspondente à 1.ª e 2.ª diuturnidades ao fim de, respectivamente, dez e vinte anos de bom serviço.
 
 2. A concessão do aumento de vencimento não pode produzir efeito desde data anterior àquela em que o requerimento tiver sido entregue na secretaria do estabelecimento tutelar em que o interessado prestar serviço.
 
-Art. 23.º De harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, e nos termos prescritos pelos §§ 1.º e 2.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), da mesma data, será abonada ao inspector a gratificação mensal de 2400$00.
+###### Artigo 23.º
 
-Art. 24.º Aos funcionários encarregados da tesouraria do conselho administrativo da Direcção-Geral e das tesourarias dos estabelecimentos dependentes com orçamentos de receitas próprias superiores a 250000$00 será concedido um abono para falhas, nos termos do artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+De harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, e nos termos prescritos pelos §§ 1.º e 2.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), da mesma data, será abonada ao inspector a gratificação mensal de 2400$00.
 
-Art. 25.º Aos funcionários dos serviços tutelares de menores que prestem serviço em brigadas de trabalho prisional administradas pela Direcção-Geral, nos serviços de assistência social ou quaisquer outras actividades estranhas às suas atribuições normais, e fora do horário normal ou em acumulação com o serviço que normalmente lhes competir, pode ser atribuída uma gratificação, a fixar pelo Ministro da Justiça e paga, consoante os casos, pelos orçamentos da obra, da Federação Nacional das Instituições de Protecção à Infância ou de receitas próprias dos estabelecimentos.
+###### Artigo 24.º
 
-Art. 26.º Os motoristas têm direito a fardamento, nos termos do [Decreto-Lei n.º 22848](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22848-1933-317693), de 19 de Julho de 1933.
+Aos funcionários encarregados da tesouraria do conselho administrativo da Direcção-Geral e das tesourarias dos estabelecimentos dependentes com orçamentos de receitas próprias superiores a 250000$00 será concedido um abono para falhas, nos termos do artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+
+###### Artigo 25.º
+
+Aos funcionários dos serviços tutelares de menores que prestem serviço em brigadas de trabalho prisional administradas pela Direcção-Geral, nos serviços de assistência social ou quaisquer outras actividades estranhas às suas atribuições normais, e fora do horário normal ou em acumulação com o serviço que normalmente lhes competir, pode ser atribuída uma gratificação, a fixar pelo Ministro da Justiça e paga, consoante os casos, pelos orçamentos da obra, da Federação Nacional das Instituições de Protecção à Infância ou de receitas próprias dos estabelecimentos.
+
+###### Artigo 26.º
+
+Os motoristas têm direito a fardamento, nos termos do [Decreto-Lei n.º 22848](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22848-1933-317693), de 19 de Julho de 1933.
 
 #### SECÇÃO V — Disposições finais e transitórias
 
-Art. 27.º - 1. Os funcionários da Direcção-Geral ou dos estabelecimentos dependentes cujos lugares não sejam mantidos serão colocados nos novos quadros por meio de listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo.
+###### Artigo 27.º
+
+1. Os funcionários da Direcção-Geral ou dos estabelecimentos dependentes cujos lugares não sejam mantidos serão colocados nos novos quadros por meio de listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo.
 
 2. As colocações previstas produzirão os seus efeitos sem dependência de visto, posse ou qualquer outra formalidade.
 
 3. Aos funcionários que tiverem colocação em lugar a que corresponda retribuição menor do que a actual não poderá ser abonada importância ilíquida inferior à que estiverem percebendo à data da publicação deste decreto-lei.
 
-Art. 28.º - 1. Os funcionários dos serviços de que trata este diploma actualmente subscritores da Caixa Geral de Aposentações que passem a ocupar lugares remunerados com gratificação consideram-se incluídos nas disposições do § único do artigo 1.º do [Decreto-Lei n.º 28767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28767-1938-365916), de 18 de Junho de 1938.
+###### Artigo 28.º
+
+1. Os funcionários dos serviços de que trata este diploma actualmente subscritores da Caixa Geral de Aposentações que passem a ocupar lugares remunerados com gratificação consideram-se incluídos nas disposições do § único do artigo 1.º do [Decreto-Lei n.º 28767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28767-1938-365916), de 18 de Junho de 1938.
 
 2. É aplicável aos lugares que sejam criados nos termos do presente diploma o disposto no artigo 50.º do [Decreto-Lei n.º 38386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38386-1951-522384), de 8 de Agosto de 1951.
 
 3. Os funcionários, nomeados ou contratados, que vierem a ser colocados na situação de assalariados mantêm as garantias inerentes à forma do actual provimento, bem como os assalariados dos quadros pago pelo Orçamento Geral do Estado que vierem a ser colocados nos quadros pagos pelos orçamentos de receitas próprias dos estabelecimentos.
 
-Art. 29.º É permitida a constituição de cantina junto dos vários estabelecimentos, devendo as suas funções e condições de funcionamento constar de regulamento aprovado pelo Ministro da Justiça.
+###### Artigo 29.º
 
-Art. 30.º Toda a despesa com o Instituto Navarro de Paiva é reembolsada pela Federação Nacional das Instituições de Protecção à Infância, devendo no último dia de cada mês ser entregue nos cofres do Tesouro, como receita geral do Estado, a importância da despesa liquidada nesse mês com o referido serviço.
+É permitida a constituição de cantina junto dos vários estabelecimentos, devendo as suas funções e condições de funcionamento constar de regulamento aprovado pelo Ministro da Justiça.
 
-Art. 31.º O Ministro da Justiça fixará em regulamento a nova organização da Direcção-Geral dos Serviços Tutelares de Menores, e bem assim dos serviço dela dependentes.
+###### Artigo 30.º
 
-Art. 32.º - 1. Os encargos resultantes do presente diploma serão suportados, no ano económico corrente pelas dotações de remunerações certas ao pessoal e exercício inscritas no Orçamento Geral do Estado para a Direcção-Geral dos Serviços Jurisdicionais de Menores e serviços dependentes.
+Toda a despesa com o Instituto Navarro de Paiva é reembolsada pela Federação Nacional das Instituições de Protecção à Infância, devendo no último dia de cada mês ser entregue nos cofres do Tesouro, como receita geral do Estado, a importância da despesa liquidada nesse mês com o referido serviço.
+
+###### Artigo 31.º
+
+O Ministro da Justiça fixará em regulamento a nova organização da Direcção-Geral dos Serviços Tutelares de Menores, e bem assim dos serviço dela dependentes.
+
+###### Artigo 32.º
+
+1. Os encargos resultantes do presente diploma serão suportados, no ano económico corrente pelas dotações de remunerações certas ao pessoal e exercício inscritas no Orçamento Geral do Estado para a Direcção-Geral dos Serviços Jurisdicionais de Menores e serviços dependentes.
 
 2. Os abonos ao pessoal, enquanto não forem feitas as colocações previstas neste diploma e até ao último dia do mês em que forem publicadas as listas, continuarão a processar-se nas condições em vigor na data da publicação deste decreto-lei.
 
-Art. 33.º O presente diploma e o respectivo regulamento entram em vigor no dia 24 de Abril do ano corrente.
+###### Artigo 33.º
+
+O presente diploma e o respectivo regulamento entram em vigor no dia 24 de Abril do ano corrente.
 
 Publique-se e cumpra-se como nele se contém.
 

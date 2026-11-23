@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-02-01'
+version_history:
+  file: decreto-legislativo-regional-21-a-2005-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-02-01'
+    amending: pt:dre:128771582:por
+    amending_title: Decreto Legislativo Regional n.º 1-A/2020/M
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21-a/2005/12/30/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    1-A/2020/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2005/decreto-legislativo-regional-21-a-2005-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -468,7 +483,7 @@ As reduções de taxa de IRC em vigor na Região Autónoma da Madeira serão apl
 
 a) Um montante até 5% das cobranças coercivas derivadas de processos instaurados nos serviços da DRAF e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, montante que será definido, anualmente, mediante portaria do Secretário Regional do Plano e Finanças;
 
-b) Uma percentagem de 63% das seguintes receitas da DRAF:
+b) Uma percentagem de 10 % das seguintes receitas da DRAF:
 
 i) Custas, taxas de justiça e emolumentos cobrados nos processos fiscais;
 
@@ -492,11 +507,25 @@ x) O produto da alienação e do reembolso dos valores do seu activo;
 
 xi) Outras receitas que lhe venham a ser legalmente atribuídas.
 
+c) Um montante até 5 % das cobranças coercivas derivadas de processos de execução fiscal, referentes a dívidas provenientes de outras entidades, instaurados nos serviços de finanças da AT-RAM.
+
 4 - O FET-M é composto por um conselho de administração e por uma comissão de fiscalização.
 
 5 - O conselho de administração e a comissão de fiscalização são compostos por um presidente e dois vogais nomeados por despacho do Secretário Regional do Plano e Finanças.
 
-6 - Podem ser efectuadas transferências de verbas adicionais do Orçamento da RAM para o FET-M desde que devidamente autorizadas pelo Secretário Regional do Plano e Finanças.
+6 - Mediante autorização do Secretário Regional do Plano e Finanças, podem ser efectuadas transferências de verbas adicionais do Orçamento da RAM para o FET-M, procedendo este Fundo Autónomo à sua devolução, desde que estejam assegurados os meios financeiros adequados para a cobertura das suas despesas, nos termos da lei.
+
+7 - Sem prejuízo do disposto no número anterior, excepcionalmente, e com fundamento em dificuldades de tesouraria da Região Autónoma da Madeira, poderá o Secretário Regional do Plano e Finanças autorizar a retenção parcial das verbas consignadas ao FET-RAM, referidas nas alíneas a) e b) do presente preceito.
+
+8 - Verificando-se os pressupostos referidos no número anterior, as verbas em causa são de imediato retidas nos cofres da Tesouraria do Governo Regional, aquando da sua transferência do IGCP para a Região Autónoma da Madeira.
+
+9 - A devolução dos montantes referidos deverá ocorrer nos dois anos económicos posteriores, salvo se ocorrerem cumulativamente as seguintes condições:
+
+a) Manutenção das dificuldades de tesouraria para a Região Autónoma da Madeira que determinaram a retenção excepcional das verbas consignadas;
+
+b) Estejam assegurados pelo FET-RAM os meios financeiros necessários para o pagamento dos suplementos referidos no n.º 2 do presente artigo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), publicado em 2020-01-31.
 
 ###### Artigo 17.º — Execução
 
